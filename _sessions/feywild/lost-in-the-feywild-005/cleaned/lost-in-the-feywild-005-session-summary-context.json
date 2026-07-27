@@ -224,7 +224,7 @@
           "timeWindow": "morning",
           "sourceRange": {
             "startUid": "u0747",
-            "endUid": "u1068"
+            "endUid": "u1006"
           },
           "shortSummary": "The Thirst notebook ties the prisoner to the fungal children, and the party's search of an animal lab becomes an ambush when Menestheus is dragged away.",
           "longSummary": "The notebook titled Thirst describes the speaker filling empty heads with its children and being helped to find the person who can free it. The party interprets the children as the fungal infection, suspects the prisoner manipulated Alden and the false-looking deed that brought them here, and resolves not to free it. When Kaito takes the listener's role, he hears the prisoner claim it is full of dreams, can read the party, and sees both the moving exit and a hole large enough for its children. The group moves into an animal experimentation lab filled with cages, restraints, dead animals, an infected ant colony, and humanoid remains; as they approach the exit, a hand pulls Menestheus out of sight.",
@@ -283,8 +283,8 @@
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
-            "startUid": "u1069",
-            "endUid": "u1517"
+            "startUid": "u1007",
+            "endUid": "u1483"
           },
           "shortSummary": "The party enters initiative to rescue Menestheus, assaults his fungal captor, and draws a second Alden-like mushroom corpse into the fight.",
           "longSummary": "After Menestheus is seized, the table establishes the animal-lab battlefield and the party begins its rescue. Edric rages, crosses the obstructing tables, and hammers the mushroom man holding Menestheus; Kaito follows with Dissonant Whispers, while Tarek and Ayveen position for ranged and melee support. As Tarek approaches, the nearby corpse opens its eyes and rises, looking nearly identical to Alden. The party damages both infected bodies, but the opening exchange ends as the newly awakened corpse stands and reaches for Tarek.",
@@ -329,7 +329,7 @@
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
-            "startUid": "u1518",
+            "startUid": "u1484",
             "endUid": "u1974"
           },
           "shortSummary": "The mushroom men nearly kill Menestheus, but the party destroys both infected bodies and burns their remains.",
@@ -743,12 +743,12 @@
       ],
       "sourceRange": {
         "startUid": "u0747",
-        "endUid": "u1068"
+        "endUid": "u1006"
       },
       "sourceRanges": [
         {
           "startUid": "u0747",
-          "endUid": "u1068"
+          "endUid": "u1006"
         }
       ],
       "dateStart": "1740-10-06",
@@ -784,7 +784,7 @@
           "timeWindow": "morning",
           "sourceRange": {
             "startUid": "u0747",
-            "endUid": "u1068"
+            "endUid": "u1006"
           },
           "shortSummary": "The Thirst notebook ties the prisoner to the fungal children, and the party's search of an animal lab becomes an ambush when Menestheus is dragged away.",
           "longSummary": "The notebook titled Thirst describes the speaker filling empty heads with its children and being helped to find the person who can free it. The party interprets the children as the fungal infection, suspects the prisoner manipulated Alden and the false-looking deed that brought them here, and resolves not to free it. When Kaito takes the listener's role, he hears the prisoner claim it is full of dreams, can read the party, and sees both the moving exit and a hole large enough for its children. The group moves into an animal experimentation lab filled with cages, restraints, dead animals, an infected ant colony, and humanoid remains; as they approach the exit, a hand pulls Menestheus out of sight.",
@@ -846,16 +846,16 @@
         "b005"
       ],
       "sourceRange": {
-        "startUid": "u1069",
+        "startUid": "u1007",
         "endUid": "u1974"
       },
       "sourceRanges": [
         {
-          "startUid": "u1069",
-          "endUid": "u1517"
+          "startUid": "u1007",
+          "endUid": "u1483"
         },
         {
-          "startUid": "u1518",
+          "startUid": "u1484",
           "endUid": "u1974"
         }
       ],
@@ -894,8 +894,8 @@
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
-            "startUid": "u1069",
-            "endUid": "u1517"
+            "startUid": "u1007",
+            "endUid": "u1483"
           },
           "shortSummary": "The party enters initiative to rescue Menestheus, assaults his fungal captor, and draws a second Alden-like mushroom corpse into the fight.",
           "longSummary": "After Menestheus is seized, the table establishes the animal-lab battlefield and the party begins its rescue. Edric rages, crosses the obstructing tables, and hammers the mushroom man holding Menestheus; Kaito follows with Dissonant Whispers, while Tarek and Ayveen position for ranged and melee support. As Tarek approaches, the nearby corpse opens its eyes and rises, looking nearly identical to Alden. The party damages both infected bodies, but the opening exchange ends as the newly awakened corpse stands and reaches for Tarek.",
@@ -940,7 +940,7 @@
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
-            "startUid": "u1518",
+            "startUid": "u1484",
             "endUid": "u1974"
           },
           "shortSummary": "The mushroom men nearly kill Menestheus, but the party destroys both infected bodies and burns their remains.",

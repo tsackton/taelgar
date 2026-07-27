@@ -11,7 +11,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.whereabouts.locations -->
 - Feywild promontory: visited on 1740-10-05.
-- 27th Room: visited on 1740-10-05 to 1740-10-06.
+- [[27th House|27th Room]]: visited on 1740-10-05 to 1740-10-06.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
@@ -22,8 +22,8 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1740-10-05), evening still: The party enters the 27th Room and loses its way through shifting numbered doors, including an iron-window listening station, a mortuary, and a storeroom before resting in the chapel to the [[Mos Numena]].
-- (DR:: 1740-10-06), evening still: The party continues exploring the shifting rooms, finds Kallipseis's fungal greenhouse, and questions her about the nature of the 27th Room.
+- (DR:: 1740-10-05), evening still: The party enters the [[27th House|27th Room]] and loses its way through shifting numbered doors, including an iron-window listening station, a mortuary, and a storeroom before resting in the chapel to the [[Mos Numena]].
+- (DR:: 1740-10-06), evening still: The party continues exploring the shifting rooms, finds Kallipseis's fungal greenhouse, and questions her about the nature of the [[27th House|27th Room]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
@@ -32,7 +32,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.review -->
 - Feywild promontory: no matching note found in the vault index
-- 27th Room: no matching note found in the vault index
 - Dandelion House (mentioned): no matching note found in the vault index
 - Lord Endless Ending's manor (mentioned): no matching note found in the vault index
 - occupancy counter: no matching note found in the vault index

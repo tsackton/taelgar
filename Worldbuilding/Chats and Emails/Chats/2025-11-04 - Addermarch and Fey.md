@@ -32,7 +32,7 @@
 [2025-11-04 06:25 PM] Deciusmus: how about....
     
 "Aure Headwaters Ridge" =>` the Tairnwræth (TIE-ern-wrath)
-"Tyrwingha Ridge" =>` Maerdrin (MARE-drin) Ridge with high peak Garn Tyrn 
+"Tyrwingha Ridge" =>` Maerdrin (MARE-drin) Ridge with high peak [[Garn Tyrn]] 
 
 Earl of Highfell = Earl of [[Maerwyn Mountains|Maerwyn]]
 Earl of Southmarch = Earl of Tarnmarch or Earl of Tairnvale or Tarnvale
@@ -50,7 +50,7 @@ Earl of Southmarch = Earl of Tarnmarch or Earl of Tairnvale or Tarnvale
 [2025-11-04 07:06 PM] Deciusmus: you could have
 
 Branth = the river, joins the Aure
-[[Maerwyn Mountains|Maerwyn]] Ridge, high peak Garn Tyrn
+[[Maerwyn Mountains|Maerwyn]] Ridge, high peak [[Garn Tyrn]]
 
 Earl of Southwatch
 Earl of High Tyrn
@@ -63,7 +63,7 @@ i like branth a lot for a river.
 
 [[Maerwyn Mountains|maerwyn]] ridge works well too. might also give a litte more complexity there, and consider [[Maerwyn Mountains|maerwyn]] as basically "White Peaks" literally in Tyrwinghan, and then have the Sembaran gloss [[Maerwyn Mountains]], and then common = White Mountains. though that may be overkill here. this is some of the highest peaks in the mostreve and probably deserves a "mountains" ish name. common usage is probably just [[Maerwyn Mountains|Maerwyns]] anyway. 
 
-Garn Tyrn and Earl of High Tyrn are great. there is also the linguistic complexity option of the "common" gloss on the Earl as Earl of High Tower, and the "tyrwinghan" gloss as Earl of Tyrn Fawr (teern vaur).
+[[Garn Tyrn]] and Earl of High Tyrn are great. there is also the linguistic complexity option of the "common" gloss on the Earl as Earl of High Tower, and the "tyrwinghan" gloss as Earl of Tyrn Fawr (teern vaur).
 
 i'm not sold on Dunfell. the aure headwaters area is more like the berkshires, dunfell feels like too hilly a vibe maybe?
 [2025-11-04 08:44 PM] Deciusmus: chat gpt also suggested
