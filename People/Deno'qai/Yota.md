@@ -17,6 +17,6 @@ dm_owner: tim
 > A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Te'kula]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on September 10th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on September 10th, 1748 in [[Neshet|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 The chief of the [[Te'kula]] village.

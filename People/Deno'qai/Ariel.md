@@ -22,7 +22,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on September 11th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on September 11th, 1748 in [[Neshet|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the [[Meswati]] and the [[Great War]]
 

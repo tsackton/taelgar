@@ -30,7 +30,7 @@ SORT file.name ASC
 %%^Campaign:none%%
 
 Session notes:
-- [[Session 52 (DuFr)]]: [[Ariel]] met the [[Dunmar Fellowship]] in the [[~Te'kula village~|Te'kula village]] and told [[Delwath]] stories of the northern Deno'qai and the [[Meswati]].
+- [[Session 52 (DuFr)]]: [[Ariel]] met the [[Dunmar Fellowship]] in the [[Neshet|Te'kula village]] and told [[Delwath]] stories of the northern Deno'qai and the [[Meswati]].
 - [[Ariel]] is a Shu'anra woman whose home was in the [[Forest of Dreams]], between the Blackwater Fens and the [[Sentinel Range|Sentinels]], before settling with the [[Te'kula]]. Source: [[Ariel]].
 - Ariel preserves stories of the Shu'anra surviving the [[Great War]], fleeing into the Sentinels during the [[Blood Years]], dragonfire from the sky, and later migration south for better prospects. Source: [[Ariel]].
 - Ariel knows northern stories of [[Yezali]] and the lost tanshi called the [[Meswati]]. Source: [[Ariel]].
