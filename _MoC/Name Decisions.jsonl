@@ -1,0 +1,1 @@
+{"type":"rule","id":"halfling-person-names-common","label":"Halfling personal names default to Common","match":{"noteType":"person","species":"halfling","role":"*"},"language":"Common","priority":50,"enabled":true}

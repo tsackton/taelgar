@@ -1,0 +1,9 @@
+{
+  "id": "taelgar-name-explorer",
+  "name": "Taelgar Name Explorer",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.0",
+  "description": "Explore, deduplicate, classify, and review the languages of names in the Taelgar vault.",
+  "author": "Taelgar",
+  "isDesktopOnly": true
+}
