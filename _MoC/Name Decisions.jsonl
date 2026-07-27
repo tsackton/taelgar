@@ -11,6 +11,9 @@
 {"type":"concept","subject":"Gazetteer/Greater Dunmar/Ragath Dor.md","concept":"form:high door","form":"High Door","language":"Common","derivation":"literal-translation","sourceLanguage":"Dwarvish","sourceForm":"Ragath Dor"}
 {"type":"concept","subject":"Gazetteer/Greater Dunmar/Ragath Dor.md","concept":"form:highdoor pass","form":"Highdoor Pass","language":"Common","relationship":"conventional"}
 {"type":"concept","subject":"Gazetteer/Greater Dunmar/Ragath Dor.md","concept":"primary","form":"Ragath Dor","language":"Dwarvish","derivation":"original"}
+{"type":"concept","subject":"Gazetteer/Major Rivers/Istaros Watershed/Thalurien.md","concept":"primary","form":"Thalúrien","language":"Elvish"}
+{"type":"concept","subject":"Gazetteer/Major Rivers/Istaros Watershed/Yandare.md","concept":"form:vistala","form":"Vistala","language":"Dunmari"}
+{"type":"concept","subject":"Gazetteer/Major Rivers/Istaros Watershed/Yandare.md","concept":"primary","form":"Yandarë","language":"Elvish"}
 {"type":"concept","subject":"Gazetteer/Northern Sentinels/K'eye.md","concept":"form:red river","form":"Red River","usage":"current"}
 {"type":"concept","subject":"Gazetteer/Northern Sentinels/K'eye.md","concept":"primary","form":"K'eye","language":"Deno'qai","derivation":"original","usage":"current"}
 {"type":"concept","subject":"Gazetteer/Northern Sentinels/Northern Sentinels.md","concept":"primary","form":"Northern Sentinels","language":"Common","derivation":"original","usage":"current"}
