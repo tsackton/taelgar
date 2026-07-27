@@ -188,6 +188,31 @@
   padding-inline-start: var(--size-4-5);
 }
 
+.tne-component-list {
+  margin: var(--size-2-2) 0 var(--size-4-4);
+  padding-inline-start: var(--size-4-5);
+}
+
+.tne-component-list li {
+  margin-bottom: var(--size-2-2);
+}
+
+.tne-component-text {
+  font-weight: var(--font-semibold);
+}
+
+.tne-component-table {
+  min-width: 72rem;
+}
+
+.tne-evidence-quote {
+  border-inline-start: 2px solid var(--interactive-accent);
+  color: var(--text-muted);
+  font-size: var(--font-ui-smaller);
+  margin: var(--size-2-2) 0;
+  padding-inline-start: var(--size-4-2);
+}
+
 .tne-form-list li {
   margin-bottom: var(--size-2-2);
 }
@@ -199,7 +224,8 @@
 }
 
 .tne-language-chip,
-.tne-status-chip {
+.tne-status-chip,
+.tne-name-review-chip {
   border: 1px solid var(--tne-border);
   border-radius: 999px;
   display: inline-block;
@@ -207,6 +233,18 @@
   line-height: 1.4;
   padding: 0.1rem 0.45rem;
   white-space: nowrap;
+}
+
+.tne-name-review-chip {
+  background: rgba(var(--color-orange-rgb), 0.12);
+  border-color: var(--color-orange);
+  color: var(--color-orange);
+  margin-inline-start: var(--size-2-2);
+}
+
+.tne-name-review-note {
+  color: var(--color-orange);
+  font-weight: var(--font-semibold);
 }
 
 .tne-language-chip.source-decision {
@@ -219,9 +257,19 @@
   color: var(--color-purple);
 }
 
-.tne-language-chip.source-explicit {
+.tne-language-chip.source-text-evidence {
   border-color: var(--color-green);
   color: var(--color-green);
+}
+
+.tne-language-chip.source-conflict {
+  border-color: var(--color-red);
+  color: var(--color-red);
+}
+
+.tne-language-chip.source-convention {
+  border-color: var(--color-blue);
+  color: var(--color-blue);
 }
 
 .tne-status-chip.status-overridden {
@@ -231,10 +279,20 @@
 }
 
 .tne-status-chip.status-confirmed,
-.tne-status-chip.status-explicit {
+.tne-status-chip.status-text-evidence {
   background: rgba(var(--color-green-rgb), 0.12);
   border-color: var(--color-green);
   color: var(--color-green);
+}
+
+.tne-status-chip.status-convention {
+  background: rgba(var(--color-blue-rgb), 0.1);
+  border-color: var(--color-blue);
+  color: var(--color-blue);
+}
+
+.tne-status-chip.status-structural {
+  color: var(--text-muted);
 }
 
 .tne-status-chip.status-rule {
@@ -244,7 +302,8 @@
 }
 
 .tne-status-chip.status-unknown,
-.tne-status-chip.status-reviewed-unknown {
+.tne-status-chip.status-reviewed-unknown,
+.tne-status-chip.status-conflict {
   background: rgba(var(--color-red-rgb), 0.1);
   border-color: var(--color-red);
   color: var(--color-red);

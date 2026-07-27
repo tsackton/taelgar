@@ -1,1 +1,38 @@
 {"type":"rule","id":"halfling-person-names-common","label":"Halfling personal names default to Common","match":{"noteType":"person","species":"halfling","role":"*"},"language":"Common","priority":50,"enabled":true}
+{"type":"concept","subject":"Cosmology/Demiplanes and Echo Realms/Nightmare Realm.md","concept":"primary","form":"Nightmare Realm","language":"Common"}
+{"type":"concept","subject":"Cosmology/Demiplanes and Echo Realms/Shadowfolds.md","concept":"primary","form":"Shadowfolds","derivation":"translation"}
+{"type":"concept","subject":"Cosmology/Energy Realms/Elemental Plane of Water.md","concept":"primary","form":"Elemental Plane of Water","language":"Common"}
+{"type":"concept","subject":"Cosmology/Spiritual Realms/Abyss.md","concept":"primary","form":"Abyss","language":"Common"}
+{"type":"concept","subject":"Cosmology/Spiritual Realms/Heart of the Mountain.md","concept":"primary","form":"Heart of the Mountain","language":"Common"}
+{"type":"concept","subject":"Gazetteer/Central Highlands/Valley of the Hidden Forest.md","concept":"form:naun tarvanos","form":"Naun Tarvanos","language":"Elvish","derivation":"original","notes":"Confirmed from the note's “called Naun Tarvanos in Elvish” statement."}
+{"type":"concept","subject":"Gazetteer/Central Highlands/Valley of the Hidden Forest.md","concept":"primary","form":"Valley of the Hidden Forest","language":"Common","derivation":"translation","sourceLanguage":"Elvish","sourceForm":"Naun Tarvanos"}
+{"type":"concept","subject":"Gazetteer/Extraplanar/Feywild/Twilight Kingdom/27th House.md","concept":"primary","form":"27th House","language":"Common"}
+{"type":"concept","subject":"Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Trade Gate (Chardon).md","concept":"primary","form":"Merchants's Gate","language":"Common"}
+{"type":"concept","subject":"Gazetteer/Greater Dunmar/Ragath Dor.md","concept":"form:high door","form":"High Door","language":"Common","derivation":"literal-translation","sourceLanguage":"Dwarvish","sourceForm":"Ragath Dor"}
+{"type":"concept","subject":"Gazetteer/Greater Dunmar/Ragath Dor.md","concept":"form:highdoor pass","form":"Highdoor Pass","language":"Common","relationship":"conventional"}
+{"type":"concept","subject":"Gazetteer/Greater Dunmar/Ragath Dor.md","concept":"primary","form":"Ragath Dor","language":"Dwarvish","derivation":"original"}
+{"type":"concept","subject":"Gazetteer/Northern Sentinels/K'eye.md","concept":"form:red river","form":"Red River","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Northern Sentinels/K'eye.md","concept":"primary","form":"K'eye","language":"Deno'qai","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Northern Sentinels/Northern Sentinels.md","concept":"primary","form":"Northern Sentinels","language":"Common","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Northern Sentinels/Yemo'te.md","concept":"primary","form":"Yemo'te","language":"Deno'qai","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Sentinel Range.md","concept":"form:beredri","form":"Beredri","language":"Deno'qai","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Sentinel Range.md","concept":"form:indalas","form":"Indalas","language":"Stoneborn","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Sentinel Range.md","concept":"form:labkhan","form":"Labkhan","language":"Dwarvish","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Sentinel Range.md","concept":"form:tushara","form":"Tushara","language":"Dunmari","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gazetteer/Sentinel Range.md","concept":"primary","form":"Sentinel Range","derivation":"original","usage":"current"}
+{"type":"concept","subject":"Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Aagir.md","concept":"primary","form":"Aagir","language":"Dunmari"}
+{"type":"concept","subject":"Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Adra.md","concept":"primary","form":"Adra","language":"Dunmari"}
+{"type":"concept","subject":"Gods and Religions/Gods/Tanshi/A'gaza.md","concept":"primary","form":"A'gaza","language":"Deno'qai"}
+{"type":"concept","subject":"Gods and Religions/Gods/Tanshi/Aasimti.md","concept":"primary","form":"Aasimti","language":"Deno'qai"}
+{"type":"concept","subject":"Groups/Dunmari Mystery Cults/Aagir Mystai.md","concept":"primary","form":"Aagiri","language":"Dunmari"}
+{"type":"component","subject":"Gazetteer/Greater Chardon/Chardonian Empire/Chardon/The Cackling Swan.md","concept":"primary","component":"part:0:cackling swan","form":"Cackling Swan","language":"Common"}
+{"type":"component","subject":"Gazetteer/Greater Chardon/Chardonian Empire/Coastlands.md","concept":"primary","component":"part:0:coastlands","form":"Coastlands","language":"Common"}
+{"type":"component","subject":"Gazetteer/Greater Chardon/Chataan Mountains.md","concept":"primary","component":"part:0:chataan","form":"Chataan","language":"Dunmari"}
+{"type":"component","subject":"Gazetteer/Greater Chardon/Rivers/Breakrock.md","concept":"primary","component":"part:0:breakrock","form":"Breakrock","language":"Common"}
+{"type":"component","subject":"Gazetteer/Upper Istaros/Maseau - Dunmar Road.md","concept":"primary","component":"part:0:maseau dunmar","form":"Maseau - Dunmar","language":"Common","role":"descriptive"}
+{"type":"component","subject":"Gazetteer/Upper Istaros/Plaguelands.md","concept":"primary","component":"part:0:plaguelands","form":"Plaguelands","language":"Common"}
+{"type":"component","subject":"Gazetteer/Upper Istaros/Refounded Alliance of Aurbez/Three Wells.md","concept":"primary","component":"part:0:three wells","form":"Three Wells","language":"Common"}
+{"type":"component","subject":"Gazetteer/Upper Istaros/South Dunmar Road.md","concept":"primary","component":"part:0:south dunmar","form":"South Dunmar","language":"Common","role":"descriptive"}
+{"type":"component","subject":"Gazetteer/Upper Istaros/Xurkhaz/Uzgukhar.md","concept":"primary","component":"part:0:uzgukhar","form":"Uzgukhar","language":"Free Orcish"}
+{"type":"component","subject":"Gods and Religions/Gods/Incorporeal Gods/Mawaran Saints/Guzo the Mariner.md","concept":"form:the ancestor of voyages and the western horizon","component":"part:0:ancestor of voyages and the western horizon","form":"ancestor of voyages and the western horizon","language":"Common","role":"descriptive","corpus":"exclude"}
+{"type":"component","subject":"People/Other Nonhumans/Kaelion the Elder.md","concept":"primary","component":"part:1:the elder","form":"the Elder","language":"Common","corpus":"exclude","notes":"The epithet is a Common component attached to the Centaur personal name Kaelion."}

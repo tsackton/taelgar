@@ -240,11 +240,20 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
   }
 
   async buildSubjects(onProgress) {
-    const files = this.app.vault.getMarkdownFiles().filter((file) => {
+    const scanEligibleFiles = this.app.vault.getMarkdownFiles().filter((file) =>
+      core.shouldScanPath(file.path)
+    );
+    this.knownMarkdownPaths = new Set(
+      scanEligibleFiles.map((file) => file.path),
+    );
+    const files = scanEligibleFiles.filter((file) => {
       if (!core.shouldScanPath(file.path)) return false;
       const cache = this.app.metadataCache.getFileCache(file);
       const frontmatter = cache?.frontmatter;
-      return frontmatter && core.toStrings(frontmatter.tags).length > 0;
+      if (!frontmatter || !core.toStrings(frontmatter.tags).length) return false;
+      return core.NOTE_TYPES.includes(
+        core.chooseNoteType(core.toStrings(frontmatter.tags)),
+      );
     });
 
     const subjects = [];
@@ -259,19 +268,19 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
             String(tag).replace(/^#/, "").toLocaleLowerCase("en")
           );
           const rawName = core.toStrings(frontmatter.name)[0];
-          const name = rawName || file.basename;
+          const sourceName = rawName || file.basename;
+          const nameInfo = core.provisionalNameInfo(sourceName);
           const body = this.settings.scanTextEvidence
             ? await this.app.vault.cachedRead(file)
             : "";
-          const heading = (cache.headings || []).find(
-            (candidate) => candidate.level === 1,
-          )?.heading || "";
           const aliases = core.toStrings(frontmatter.aliases);
           return {
             path: file.path,
             linkTarget: file.path.replace(/\.md$/i, ""),
             fileName: file.basename,
-            name,
+            rawName: sourceName,
+            name: nameInfo.text,
+            provisionalName: nameInfo.provisional,
             noteType: core.chooseNoteType(tags),
             tags,
             title: core.toStrings(frontmatter.title),
@@ -283,9 +292,8 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
             locations: core.toStrings(frontmatter.whereabouts),
             pronunciation: core.toStrings(frontmatter.pronunciation)[0] || "",
             aliases,
-            heading,
             textAliases: this.settings.scanTextEvidence
-              ? core.extractTextAliases(body, name)
+              ? core.extractTextAliases(body, nameInfo.text)
               : [],
             body,
           };
@@ -314,7 +322,9 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
         this.loadDecisionRecords(),
         this.buildSubjects(onProgress),
       ]);
-      const catalog = core.buildCatalog(subjects, records);
+      const catalog = core.buildCatalog(subjects, records, {
+        knownSubjectPaths: this.knownMarkdownPaths || new Set(),
+      });
       this.catalogCache = catalog;
       this.catalogPromise = null;
       return catalog;
@@ -362,11 +372,14 @@ class NameExplorerView extends ItemView {
     this.error = null;
     this.loading = false;
     this.state = {
+      viewMode: "names",
       query: "",
       language: "",
       status: "",
       noteType: "",
+      componentRole: "",
       relationship: "",
+      nameReview: "",
       sortKey: "preferredForm",
       sortDirection: "asc",
       page: 1,
@@ -434,8 +447,12 @@ class NameExplorerView extends ItemView {
 
     this.renderHeader();
     this.renderFilters();
-    this.renderBulkBar();
-    this.renderTable();
+    if (this.state.viewMode === "names") {
+      this.renderBulkBar();
+      this.renderTable();
+    } else {
+      this.renderComponentTable(this.state.viewMode === "corpus");
+    }
   }
 
   renderHeader() {
@@ -447,6 +464,9 @@ class NameExplorerView extends ItemView {
       cls: "tne-subtitle",
       text: `${counts.concepts.toLocaleString()} name concepts · ` +
         `${counts.forms.toLocaleString()} observed forms · ` +
+        `${counts.components.toLocaleString()} components · ` +
+        `${counts.corpus.toLocaleString()} corpus entries · ` +
+        `${counts.nameReview.toLocaleString()} need name review · ` +
         `${counts.overridden.toLocaleString()} overridden · ` +
         `${counts.unknown.toLocaleString()} unknown`,
     });
@@ -471,9 +491,27 @@ class NameExplorerView extends ItemView {
 
   renderFilters() {
     const filters = this.contentEl.createDiv({ cls: "tne-filters" });
+    filters.appendChild(makeSelect(
+      [
+        ["names", "Names"],
+        ["components", "Components"],
+        ["corpus", "Language corpus"],
+      ],
+      this.state.viewMode,
+      (value) => {
+        this.state.viewMode = value;
+        this.state.page = 1;
+        this.state.selected.clear();
+        this.state.sortKey = value === "names" ? "preferredForm" : "text";
+        this.render();
+      },
+      "Explorer view",
+    ));
     const search = filters.createEl("input", {
       type: "search",
-      placeholder: "Search names, subjects, variants, or paths…",
+      placeholder: this.state.viewMode === "names"
+        ? "Search names, subjects, variants, or paths…"
+        : "Search components, display names, subjects, or paths…",
       value: this.state.query,
       cls: "tne-search",
     });
@@ -508,7 +546,10 @@ class NameExplorerView extends ItemView {
         ["confirmed", "Confirmed"],
         ["reviewed-unknown", "Reviewed unknown"],
         ["rule", "Catalog rule"],
-        ["explicit", "Explicit evidence"],
+        ["text-evidence", "Text evidence"],
+        ["conflict", "Conflicting evidence"],
+        ["convention", "Trade convention"],
+        ["structural", "Language-neutral structure"],
         ["inferred", "Unreviewed inference"],
         ["unknown", "Unknown"],
       ],
@@ -524,7 +565,6 @@ class NameExplorerView extends ItemView {
       [
         ["", "All note types"],
         ...core.NOTE_TYPES.map((noteType) => [noteType, noteType]),
-        ["unknown", "unknown"],
       ],
       this.state.noteType,
       (value) => {
@@ -536,22 +576,55 @@ class NameExplorerView extends ItemView {
     ));
     filters.appendChild(makeSelect(
       [
-        ["", "All name kinds"],
-        ["endonym", "Endonym"],
-        ["exonym", "Exonym"],
-        ["conventional", "Conventional"],
-        ["translation", "Translation"],
-        ["historical", "Historical"],
-        ["unclassified", "No kind assigned"],
+        ["", "All naming states"],
+        ["needs-review", "Needs name review"],
+        ["settled", "No name review flag"],
       ],
-      this.state.relationship,
+      this.state.nameReview,
       (value) => {
-        this.state.relationship = value;
+        this.state.nameReview = value;
         this.state.page = 1;
         this.render();
       },
-      "Name kind",
+      "Name review flag",
     ));
+    if (this.state.viewMode !== "names") {
+      filters.appendChild(makeSelect(
+        [
+          ["", "All component roles"],
+          ...core.COMPONENT_ROLES.map((role) => [role, role]),
+        ],
+        this.state.componentRole,
+        (value) => {
+          this.state.componentRole = value;
+          this.state.page = 1;
+          this.render();
+        },
+        "Component role",
+      ));
+    }
+    if (this.state.viewMode === "names") {
+      filters.appendChild(makeSelect(
+        [
+          ["", "All name kinds"],
+          ["endonym", "Endonym"],
+          ["exonym", "Exonym"],
+          ["conventional", "Conventional"],
+          ["translation", "Translation"],
+          ["literal-translation", "Literal translation"],
+          ["conventional-translation", "Conventional translation"],
+          ["historical", "Historical"],
+          ["unclassified", "No kind assigned"],
+        ],
+        this.state.relationship,
+        (value) => {
+          this.state.relationship = value;
+          this.state.page = 1;
+          this.render();
+        },
+        "Name kind",
+      ));
+    }
   }
 
   renderBulkBar() {
@@ -618,9 +691,19 @@ class NameExplorerView extends ItemView {
     return this.catalog.concepts.filter((concept) => {
       if (
         this.state.language &&
-        concept.effectiveLanguage.language !== this.state.language
+        !concept.components.some((component) =>
+          component.effectiveLanguage.language === this.state.language
+        )
       ) return false;
       if (this.state.status && concept.status !== this.state.status) return false;
+      if (
+        this.state.nameReview === "needs-review" &&
+        !concept.needsNameReview
+      ) return false;
+      if (
+        this.state.nameReview === "settled" &&
+        concept.needsNameReview
+      ) return false;
       if (
         this.state.noteType &&
         concept.subject.noteType !== this.state.noteType
@@ -647,6 +730,11 @@ class NameExplorerView extends ItemView {
           concept.effectiveLanguage.language,
           concept.inferredLanguage.language,
           ...concept.forms.map((form) => form.text),
+          ...concept.components.flatMap((component) => [
+            component.text,
+            component.role,
+            component.effectiveLanguage.language,
+          ]),
         ].join(" "));
         if (!haystack.includes(query)) return false;
       }
@@ -660,7 +748,7 @@ class NameExplorerView extends ItemView {
       switch (this.state.sortKey) {
         case "subjectName": return core.normalizeLoose(concept.subjectName);
         case "noteType": return concept.subject.noteType;
-        case "effectiveLanguage": return concept.effectiveLanguage.language;
+        case "effectiveLanguage": return concept.languageSummary;
         case "inferredLanguage": return concept.inferredLanguage.language;
         case "kindLabel": return concept.kindLabel;
         case "status": return concept.status;
@@ -749,6 +837,9 @@ class NameExplorerView extends ItemView {
         this.render();
       });
       nameCell.createSpan({ text: concept.preferredForm });
+      if (concept.needsNameReview) {
+        nameCell.appendChild(nameReviewChip(concept.nameReviewReasons));
+      }
 
       const subjectCell = row.createEl("td");
       const subjectButton = subjectCell.createEl("button", {
@@ -765,7 +856,7 @@ class NameExplorerView extends ItemView {
 
       row.createEl("td", { text: concept.subject.noteType });
       row.createEl("td").appendChild(languageChip(
-        concept.effectiveLanguage.language,
+        concept.languageSummary,
         concept.languageSource,
       ));
       const inferredCell = row.createEl("td");
@@ -818,6 +909,13 @@ class NameExplorerView extends ItemView {
     const evidence = grid.createDiv();
     evidence.createEl("strong", { text: "Language basis" });
     evidence.createEl("p", { text: concept.effectiveLanguage.basis });
+    for (const item of concept.inferredLanguage.evidence || []) {
+      if (!item.quote) continue;
+      evidence.createEl("blockquote", {
+        text: `Line ${item.line}: ${item.quote}`,
+        cls: "tne-evidence-quote",
+      });
+    }
     if (
       concept.effectiveLanguage.language !== concept.inferredLanguage.language
     ) {
@@ -829,11 +927,45 @@ class NameExplorerView extends ItemView {
     if (concept.community) {
       evidence.createEl("p", { text: `Naming community: ${concept.community}` });
     }
+    if (concept.derivation) {
+      evidence.createEl("p", {
+        text: `Derivation: ${concept.derivation}` +
+          `${concept.derivationSource ? ` (${concept.derivationSource})` : ""}`,
+      });
+    }
+    if (concept.sourceLanguage || concept.sourceForm) {
+      evidence.createEl("p", {
+        text: `Source: ${[
+          concept.sourceForm,
+          concept.sourceLanguage,
+        ].filter(Boolean).join(" · ")}`,
+      });
+    }
     if (concept.decisionNotes) {
       evidence.createEl("p", { text: concept.decisionNotes });
     }
+    if (concept.needsNameReview) {
+      evidence.createEl("p", {
+        cls: "tne-name-review-note",
+        text: `Needs name review: ${nameReviewReasonLabels(
+          concept.nameReviewReasons,
+        ).join("; ")}`,
+      });
+    }
 
     const forms = grid.createDiv();
+    forms.createEl("strong", { text: "Name components" });
+    const componentList = forms.createEl("ul", { cls: "tne-component-list" });
+    for (const component of concept.components) {
+      const item = componentList.createEl("li");
+      item.createSpan({ text: component.text });
+      item.createSpan({
+        cls: "tne-form-meta",
+        text: `${component.role} · ${component.effectiveLanguage.language}` +
+          `${component.corpusEligible ? " · corpus" : ""}`,
+      });
+    }
+
     forms.createEl("strong", { text: "Observed forms" });
     const list = forms.createEl("ul", { cls: "tne-form-list" });
     for (const form of concept.forms) {
@@ -841,9 +973,186 @@ class NameExplorerView extends ItemView {
       item.createSpan({ text: form.text });
       item.createSpan({
         cls: "tne-form-meta",
-        text: `${form.variantKind} · ${form.sources.join(", ")}`,
+        text: `${form.variantKind} · ${form.sources.join(", ")} · ` +
+          form.components.map((component) =>
+            `${component.text} [${component.role}]`
+          ).join(" + "),
       });
     }
+  }
+
+  filteredComponents(corpusOnly) {
+    const query = core.normalizeLoose(this.state.query);
+    const source = corpusOnly ? this.catalog.corpus : this.catalog.components;
+    return source.filter((component) => {
+      if (
+        this.state.language &&
+        component.effectiveLanguage.language !== this.state.language
+      ) return false;
+      if (this.state.status && component.status !== this.state.status) {
+        return false;
+      }
+      if (
+        this.state.nameReview === "needs-review" &&
+        !component.needsNameReview
+      ) return false;
+      if (
+        this.state.nameReview === "settled" &&
+        component.needsNameReview
+      ) return false;
+      if (
+        this.state.noteType &&
+        component.noteType !== this.state.noteType
+      ) return false;
+      if (
+        this.state.componentRole &&
+        component.role !== this.state.componentRole
+      ) return false;
+      if (query) {
+        const haystack = core.normalizeLoose([
+          component.text,
+          component.displayName,
+          component.subjectName,
+          component.subjectPath,
+          component.role,
+          component.effectiveLanguage.language,
+          component.effectiveLanguage.family,
+        ].join(" "));
+        if (!haystack.includes(query)) return false;
+      }
+      return true;
+    });
+  }
+
+  sortedComponents(components) {
+    const direction = this.state.sortDirection === "asc" ? 1 : -1;
+    const valueFor = (component) => {
+      switch (this.state.sortKey) {
+        case "displayName": return core.normalizeLoose(component.displayName);
+        case "subjectName": return core.normalizeLoose(component.subjectName);
+        case "noteType": return component.noteType;
+        case "role": return component.role;
+        case "effectiveLanguage": return component.effectiveLanguage.language;
+        case "status": return component.status;
+        case "corpus": return component.corpusEligible ? 1 : 0;
+        default: return core.normalizeLoose(component.text);
+      }
+    };
+    return [...components].sort((left, right) => {
+      const a = valueFor(left);
+      const b = valueFor(right);
+      if (typeof a === "number" && typeof b === "number") {
+        return (a - b) * direction;
+      }
+      return String(a).localeCompare(String(b)) * direction ||
+        left.subjectPath.localeCompare(right.subjectPath);
+    });
+  }
+
+  renderComponentTable(corpusOnly) {
+    const filtered = this.sortedComponents(
+      this.filteredComponents(corpusOnly),
+    );
+    const pageSize = Number(this.plugin.settings.pageSize) || 100;
+    const pageCount = Math.max(1, Math.ceil(filtered.length / pageSize));
+    this.state.page = Math.min(this.state.page, pageCount);
+    const start = (this.state.page - 1) * pageSize;
+    const pageRows = filtered.slice(start, start + pageSize);
+
+    const summary = this.contentEl.createDiv({ cls: "tne-result-summary" });
+    summary.createSpan({
+      text: `${filtered.length.toLocaleString()} ` +
+        (corpusOnly ? "corpus entries" : "components"),
+    });
+    summary.createSpan({
+      text: `Showing ${filtered.length ? start + 1 : 0}–${Math.min(
+        start + pageSize,
+        filtered.length,
+      )}`,
+    });
+
+    const scroller = this.contentEl.createDiv({ cls: "tne-table-scroller" });
+    const table = scroller.createEl("table", {
+      cls: "tne-table tne-component-table",
+    });
+    const headerRow = table.createEl("thead").createEl("tr");
+    this.renderSortableHeader(headerRow, "text", "Component");
+    this.renderSortableHeader(headerRow, "displayName", "Display name");
+    this.renderSortableHeader(headerRow, "subjectName", "Subject");
+    this.renderSortableHeader(headerRow, "noteType", "Type");
+    this.renderSortableHeader(headerRow, "role", "Role");
+    this.renderSortableHeader(headerRow, "effectiveLanguage", "Language");
+    this.renderSortableHeader(headerRow, "status", "Review");
+    this.renderSortableHeader(headerRow, "corpus", "Corpus");
+    headerRow.createEl("th", { text: "" });
+
+    const tbody = table.createEl("tbody");
+    for (const component of pageRows) {
+      const row = tbody.createEl("tr");
+      row.createEl("td", {
+        text: component.text,
+        cls: "tne-component-text",
+      });
+      const displayCell = row.createEl("td");
+      const displayButton = displayCell.createEl("button", {
+        text: component.displayName,
+        cls: "tne-link-button",
+      });
+      if (component.needsNameReview) {
+        displayCell.appendChild(nameReviewChip(component.nameReviewReasons));
+      }
+      displayButton.addEventListener("click", () => {
+        const concept = this.catalog.concepts.find((candidate) =>
+          candidate.subjectPath === component.subjectPath &&
+          candidate.id === component.conceptId
+        );
+        if (concept) {
+          new EditConceptModal(
+            this.app,
+            this.plugin,
+            concept,
+            this.catalog,
+          ).open();
+        }
+      });
+      const subjectCell = row.createEl("td");
+      const subjectButton = subjectCell.createEl("button", {
+        text: component.subjectName,
+        cls: "tne-link-button",
+      });
+      subjectButton.title = component.subjectPath;
+      subjectButton.addEventListener("click", () => {
+        const file = this.app.vault.getAbstractFileByPath(
+          component.subjectPath,
+        );
+        if (file instanceof TFile) {
+          void this.app.workspace.getLeaf(false).openFile(file);
+        }
+      });
+      row.createEl("td", { text: component.noteType });
+      row.createEl("td", { text: component.role });
+      const languageCell = row.createEl("td");
+      const chip = languageChip(
+        component.effectiveLanguage.language,
+        component.languageSource,
+      );
+      chip.title = component.effectiveLanguage.basis;
+      languageCell.appendChild(chip);
+      row.createEl("td").appendChild(statusChip(component.status));
+      row.createEl("td", {
+        text: component.corpusEligible ? "Included" : "Excluded",
+      });
+      const editCell = row.createEl("td");
+      editCell.appendChild(iconButton("pencil", "Edit component", () => {
+        new EditComponentModal(
+          this.app,
+          this.plugin,
+          component,
+        ).open();
+      }, true));
+    }
+
+    this.renderPagination(filtered.length, pageCount);
   }
 
   renderPagination(total, pageCount) {
@@ -867,6 +1176,139 @@ class NameExplorerView extends ItemView {
   }
 }
 
+class EditComponentModal extends Modal {
+  constructor(app, plugin, component) {
+    super(app);
+    this.plugin = plugin;
+    this.component = component;
+    this.values = {
+      language: component.decision &&
+        Object.prototype.hasOwnProperty.call(component.decision, "language")
+        ? component.decision.language
+        : "",
+      role: component.decision?.role || "",
+      corpus: component.decision?.corpus || "auto",
+      notes: component.notes || "",
+    };
+  }
+
+  onOpen() {
+    this.modalEl.addClass("tne-modal");
+    const { contentEl } = this;
+    contentEl.createEl("h2", { text: this.component.text });
+    contentEl.createEl("p", {
+      cls: "tne-modal-subtitle",
+      text: `${this.component.displayName} · ${this.component.subjectName}`,
+    });
+    contentEl.createEl("p", {
+      cls: "tne-muted",
+      text: `Automatic role: ${this.component.role} · inferred ` +
+        `${this.component.inferredLanguage.language} — ` +
+        this.component.inferredLanguage.basis,
+    });
+
+    new Setting(contentEl)
+      .setName("Component role")
+      .setDesc("Override the automatic decomposition role when necessary.")
+      .addDropdown((dropdown) => {
+        dropdown.addOption("", `Automatic (${this.component.role})`);
+        for (const role of core.COMPONENT_ROLES) {
+          dropdown.addOption(role, role);
+        }
+        dropdown.setValue(this.values.role);
+        dropdown.onChange((value) => {
+          this.values.role = value;
+        });
+      });
+
+    new Setting(contentEl)
+      .setName("Language decision")
+      .setDesc("Applies only to this component of the displayed name.")
+      .addDropdown((dropdown) => {
+        dropdown.addOption("", "Use evidence, rule, or inference");
+        for (const [, language] of core.LANGUAGE_DEFINITIONS) {
+          dropdown.addOption(language, language);
+        }
+        dropdown.setValue(this.values.language);
+        dropdown.onChange((value) => {
+          this.values.language = value;
+        });
+      });
+
+    new Setting(contentEl)
+      .setName("Language corpus")
+      .setDesc("Automatic excludes Trade renderings, structural components, and unknowns.")
+      .addDropdown((dropdown) => {
+        addOptions(dropdown, [
+          ["auto", "Automatic"],
+          ["include", "Always include"],
+          ["exclude", "Always exclude"],
+        ]);
+        dropdown.setValue(this.values.corpus);
+        dropdown.onChange((value) => {
+          this.values.corpus = value;
+        });
+      });
+
+    new Setting(contentEl)
+      .setName("Decision notes")
+      .addTextArea((text) => {
+        text.setValue(this.values.notes);
+        text.onChange((value) => {
+          this.values.notes = value.trim();
+        });
+      });
+
+    const buttons = contentEl.createDiv({ cls: "tne-modal-buttons" });
+    const clear = buttons.createEl("button", {
+      text: "Clear component decision",
+    });
+    clear.addEventListener("click", () => void this.clearDecision());
+    const save = buttons.createEl("button", {
+      text: "Save",
+      cls: "mod-cta",
+    });
+    save.addEventListener("click", () => void this.save());
+  }
+
+  componentRecordStub() {
+    return {
+      type: "component",
+      subject: this.component.subjectPath,
+      concept: this.component.conceptId,
+      component: this.component.id,
+      form: this.component.text,
+    };
+  }
+
+  async clearDecision() {
+    const stub = this.componentRecordStub();
+    await this.plugin.mutateDecisionStore((records) =>
+      core.removeStoreRecord(records, stub)
+    );
+    this.close();
+    await this.plugin.refreshOpenViews();
+  }
+
+  async save() {
+    const stub = this.componentRecordStub();
+    await this.plugin.mutateDecisionStore((records) => {
+      let next = core.removeStoreRecord(records, stub);
+      const record = { ...stub };
+      if (this.values.language) record.language = this.values.language;
+      if (this.values.role) record.role = this.values.role;
+      if (this.values.corpus !== "auto") record.corpus = this.values.corpus;
+      if (this.values.notes) record.notes = this.values.notes;
+      if (Object.keys(record).length > 5) {
+        next = core.upsertStoreRecord(next, record);
+      }
+      return next;
+    });
+    this.close();
+    await this.plugin.refreshOpenViews();
+  }
+}
+
 class EditConceptModal extends Modal {
   constructor(app, plugin, concept, catalog) {
     super(app);
@@ -879,9 +1321,11 @@ class EditConceptModal extends Modal {
         ? concept.decision.language
         : "",
       relationship: concept.relationship || "",
-      derivation: concept.derivation || "",
+      derivation: concept.decision?.derivation || "",
       usage: concept.usage || "",
       community: concept.community || "",
+      sourceLanguage: concept.decision?.sourceLanguage || "",
+      sourceForm: concept.decision?.sourceForm || "",
       notes: concept.decisionNotes || "",
     };
     this.formChoices = new Map();
@@ -898,7 +1342,7 @@ class EditConceptModal extends Modal {
 
     new Setting(contentEl)
       .setName("Language decision")
-      .setDesc("Leave blank to use explicit evidence, catalog rules, or inference.")
+      .setDesc("Leave blank to use text evidence, catalog rules, or inference.")
       .addDropdown((dropdown) => {
         dropdown.addOption("", "Use rule or inference");
         for (const [, language] of core.LANGUAGE_DEFINITIONS) {
@@ -934,11 +1378,38 @@ class EditConceptModal extends Modal {
           ["", "Not specified"],
           ["original", "Original"],
           ["translation", "Translation"],
+          ["literal-translation", "Literal translation"],
+          ["conventional-translation", "Conventional translation"],
+          ["unattested-translation", "Translation of an unattested form"],
           ["transliteration", "Transliteration"],
         ]);
         dropdown.setValue(this.values.derivation);
         dropdown.onChange((value) => {
           this.values.derivation = value;
+        });
+      });
+
+    new Setting(contentEl)
+      .setName("Source language")
+      .setDesc("Optional language from which a translated form derives.")
+      .addDropdown((dropdown) => {
+        dropdown.addOption("", "Not specified");
+        for (const [, language] of core.LANGUAGE_DEFINITIONS) {
+          dropdown.addOption(language, language);
+        }
+        dropdown.setValue(this.values.sourceLanguage);
+        dropdown.onChange((value) => {
+          this.values.sourceLanguage = value;
+        });
+      });
+
+    new Setting(contentEl)
+      .setName("Source form")
+      .setDesc("May be another invented form or “unattested”.")
+      .addText((text) => {
+        text.setValue(this.values.sourceForm);
+        text.onChange((value) => {
+          this.values.sourceForm = value.trim();
         });
       });
 
@@ -977,6 +1448,31 @@ class EditConceptModal extends Modal {
           this.values.notes = value.trim();
         });
       });
+
+    contentEl.createEl("h3", { text: "Name components" });
+    contentEl.createEl("p", {
+      cls: "tne-muted",
+      text: "Language and corpus decisions can be made separately for the core name, titles, epithets, locatives, and other components.",
+    });
+    for (const component of this.concept.components) {
+      const setting = new Setting(contentEl)
+        .setName(component.text)
+        .setDesc(
+          `${component.role} · ${component.effectiveLanguage.language}` +
+          `${component.corpusEligible ? " · included in corpus" : ""}`,
+        );
+      setting.addButton((button) => {
+        button.setButtonText("Edit component");
+        button.onClick(() => {
+          this.close();
+          new EditComponentModal(
+            this.app,
+            this.plugin,
+            component,
+          ).open();
+        });
+      });
+    }
 
     contentEl.createEl("h3", { text: "Observed-form grouping" });
     contentEl.createEl("p", {
@@ -1089,6 +1585,8 @@ class EditConceptModal extends Modal {
         "derivation",
         "usage",
         "community",
+        "sourceLanguage",
+        "sourceForm",
         "notes",
       ]) {
         if (this.values[key]) conceptRecord[key] = this.values[key];
@@ -1139,6 +1637,7 @@ class RulesModal extends Modal {
       species: "",
       ancestry: "",
       role: "*",
+      componentRole: "",
       inferredLanguage: "",
       folder: "",
       language: "Common",
@@ -1157,7 +1656,7 @@ class RulesModal extends Modal {
     contentEl.createEl("h2", { text: "Catalog rules" });
     contentEl.createEl("p", {
       cls: "tne-muted",
-      text: "Rules apply to current and future matching names. Individual concept decisions take precedence; explicit textual evidence takes precedence over rules.",
+      text: "Rules apply to current and future matching names. Individual decisions and high-confidence text evidence take precedence over rules.",
     });
 
     const rules = this.catalog.records
@@ -1251,6 +1750,18 @@ class RulesModal extends Modal {
         });
       });
     new Setting(contentEl)
+      .setName("Component role")
+      .setDesc("Optional; rules are otherwise applied to lexical components only.")
+      .addDropdown((dropdown) => {
+        dropdown.addOption("", "Any lexical component");
+        for (const role of core.COMPONENT_ROLES) {
+          dropdown.addOption(role, role);
+        }
+        dropdown.onChange((value) => {
+          this.newRule.componentRole = value;
+        });
+      });
+    new Setting(contentEl)
       .setName("Folder prefix")
       .setDesc("Optional vault-relative prefix.")
       .addText((text) => text.onChange((value) => {
@@ -1308,6 +1819,7 @@ class RulesModal extends Modal {
       "species",
       "ancestry",
       "role",
+      "componentRole",
       "inferredLanguage",
       "folder",
     ]) {
@@ -1420,7 +1932,7 @@ class NameExplorerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Scan text evidence")
-      .setDesc("Read explicit naming statements and conservative text-derived aliases. Disabling this makes indexing faster.")
+      .setDesc("Read high-confidence, form-bound naming statements and conservative text-derived aliases. Disabling this makes indexing faster.")
       .addToggle((toggle) => {
         toggle.setValue(this.plugin.settings.scanTextEvidence);
         toggle.onChange(async (value) => {
@@ -1456,6 +1968,11 @@ function summarizeCatalog(catalog) {
       (total, concept) => total + concept.forms.length,
       0,
     ),
+    components: catalog.components.length,
+    corpus: catalog.corpus.length,
+    nameReview: catalog.concepts.filter(
+      (concept) => concept.needsNameReview,
+    ).length,
     overridden: catalog.concepts.filter(
       (concept) => concept.status === "overridden",
     ).length,
@@ -1515,13 +2032,34 @@ function statusChip(status) {
     overridden: "Overridden",
     confirmed: "Confirmed",
     rule: "Rule",
-    explicit: "Explicit",
+    "text-evidence": "Text evidence",
+    conflict: "Conflict",
+    convention: "Trade convention",
+    structural: "Structural",
     inferred: "Inferred",
     unknown: "Unknown",
   };
   const chip = document.createElement("span");
   chip.className = `tne-status-chip status-${status}`;
   chip.textContent = labels[status] || status;
+  return chip;
+}
+
+function nameReviewReasonLabels(reasons) {
+  const labels = {
+    "status/check/name": "tagged status/check/name",
+    "provisional-name-marker": "primary name is wrapped in ~",
+  };
+  return (reasons || []).map((reason) => labels[reason] || reason);
+}
+
+function nameReviewChip(reasons) {
+  const chip = document.createElement("span");
+  chip.className = "tne-name-review-chip";
+  chip.textContent = "Name check";
+  chip.title = `Potential naming issue: ${nameReviewReasonLabels(reasons).join(
+    "; ",
+  )}`;
   return chip;
 }
 
@@ -1537,6 +2075,9 @@ function describeRule(rule) {
   if (match.species) conditions.push(`species ${match.species}`);
   if (match.ancestry) conditions.push(`ancestry ${match.ancestry}`);
   if (match.role && match.role !== "*") conditions.push(`role ${match.role}`);
+  if (match.componentRole) {
+    conditions.push(`component ${match.componentRole}`);
+  }
   if (match.inferredLanguage) {
     conditions.push(`inferred ${match.inferredLanguage}`);
   }

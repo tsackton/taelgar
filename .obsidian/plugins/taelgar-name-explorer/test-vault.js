@@ -102,19 +102,22 @@ function buildSubject(file) {
     tag.replace(/^#/, "").toLocaleLowerCase("en")
   );
   if (!tags.length) return null;
-  const name = field(lines, "name")[0] || path.basename(file.relative, ".md");
+  const rawName =
+    field(lines, "name")[0] || path.basename(file.relative, ".md");
+  const nameInfo = core.provisionalNameInfo(rawName);
   const locations = [];
   for (const line of lines) {
     for (const match of line.matchAll(/\blocation:\s*([^,}\]]+)/g)) {
       locations.push(stripQuotes(match[1]));
     }
   }
-  const heading = body.match(/^#\s+(.+)$/m)?.[1] || "";
   return {
     path: file.relative,
     linkTarget: file.relative.replace(/\.md$/i, ""),
     fileName: path.basename(file.relative, ".md"),
-    name,
+    rawName,
+    name: nameInfo.text,
+    provisionalName: nameInfo.provisional,
     noteType: core.chooseNoteType(tags),
     tags,
     title: field(lines, "title"),
@@ -123,8 +126,7 @@ function buildSubject(file) {
     locations: [...field(lines, "whereabouts"), ...locations],
     pronunciation: field(lines, "pronunciation")[0] || "",
     aliases: field(lines, "aliases"),
-    heading,
-    textAliases: core.extractTextAliases(body, name),
+    textAliases: core.extractTextAliases(body, nameInfo.text),
     body,
   };
 }
@@ -148,8 +150,37 @@ function run() {
   const catalog = core.buildCatalog(subjects, decisions);
 
   assert.ok(subjects.length > 2600, `Expected >2600 subjects, got ${subjects.length}`);
-  assert.ok(catalog.concepts.length > subjects.length);
+  assert.ok(catalog.subjects.length > 1000);
+  assert.ok(catalog.subjects.length < subjects.length);
+  assert.ok(
+    catalog.subjects.every((item) => core.NOTE_TYPES.includes(item.noteType)),
+  );
+  assert.ok(catalog.concepts.length > catalog.subjects.length);
   assert.equal(catalog.orphans.length, 0);
+
+  const outerOcean = concept(
+    catalog,
+    "Gazetteer/Outer Ocean.md",
+    "Outer Ocean",
+  );
+  assert.ok(outerOcean);
+  assert.equal(outerOcean.needsNameReview, true);
+  assert.equal(
+    outerOcean.nameReviewReasons.includes("status/check/name"),
+    true,
+  );
+
+  const karawaDesert = concept(
+    catalog,
+    "Gazetteer/Greater Dunmar/Hara Basin/~Karawa Desert~.md",
+    "Karawa Desert",
+  );
+  assert.ok(karawaDesert);
+  assert.equal(karawaDesert.needsNameReview, true);
+  assert.deepEqual(
+    karawaDesert.nameReviewReasons,
+    ["provisional-name-marker"],
+  );
 
   const derik = concept(
     catalog,
@@ -157,8 +188,13 @@ function run() {
     "Derik II",
   );
   assert.ok(derik);
-  assert.equal(derik.forms.some((form) => form.text === "King Derik II"), true);
-  assert.equal(derik.forms.find((form) => form.text === "King Derik II").variantKind, "titled");
+  assert.equal(derik.forms.some((form) => form.text === "King Derik II"), false);
+  assert.equal(
+    derik.components.some((component) =>
+      component.text === "King" && component.role === "title"
+    ),
+    true,
+  );
 
   const garret = concept(
     catalog,
@@ -185,6 +221,110 @@ function run() {
       "Gazetteer/Western Green Sea/Cymea/Serrania River.md",
   );
   assert.equal(serraniaConcepts.length, 1);
+  assert.deepEqual(
+    serraniaConcepts[0].components.map((component) => [
+      component.text,
+      component.role,
+    ]),
+    [
+      ["Serranía", "core"],
+      ["River", "classifier"],
+    ],
+  );
+
+  const kaelion = concept(
+    catalog,
+    "People/Other Nonhumans/Kaelion the Elder.md",
+    "Kaelion the Elder",
+  );
+  assert.ok(kaelion);
+  assert.equal(kaelion.languageSummary, "Centaur + Trade");
+  assert.deepEqual(
+    kaelion.components.map((component) => [
+      component.text,
+      component.role,
+    ]),
+    [
+      ["Kaelion", "core"],
+      ["the Elder", "epithet"],
+    ],
+  );
+  assert.equal(
+    catalog.corpus.some((component) =>
+      component.subjectPath === kaelion.subjectPath &&
+      component.text === "Kaelion"
+    ),
+    true,
+  );
+  assert.equal(
+    catalog.corpus.some((component) =>
+      component.subjectPath === kaelion.subjectPath &&
+      component.text === "the Elder"
+    ),
+    false,
+  );
+
+  const valley = catalog.concepts.filter(
+    (candidate) =>
+      candidate.subjectPath ===
+      "Gazetteer/Central Highlands/Valley of the Hidden Forest.md",
+  );
+  assert.equal(
+    valley.find((candidate) =>
+      candidate.preferredForm === "Naun Tarvanos"
+    ).effectiveLanguage.language,
+    "Elvish",
+  );
+  assert.equal(
+    valley.find((candidate) =>
+      candidate.preferredForm === "Valley of the Hidden Forest"
+    ).effectiveLanguage.language,
+    "Common",
+  );
+  assert.equal(
+    valley.find((candidate) =>
+      candidate.preferredForm === "Valley of the Hidden Forest"
+    ).sourceForm,
+    "Naun Tarvanos",
+  );
+
+  const ragath = catalog.concepts.filter(
+    (candidate) =>
+      candidate.subjectPath === "Gazetteer/Greater Dunmar/Ragath Dor.md",
+  );
+  assert.equal(
+    ragath.find((candidate) =>
+      candidate.preferredForm === "High Door"
+    ).effectiveLanguage.language,
+    "Common",
+  );
+  assert.equal(
+    ragath.find((candidate) =>
+      candidate.preferredForm === "Highdoor Pass"
+    ).effectiveLanguage.language,
+    "Common",
+  );
+  assert.equal(
+    ragath.find((candidate) =>
+      candidate.preferredForm === "Ragath Dor"
+    ).effectiveLanguage.language,
+    "Dwarvish",
+  );
+  assert.equal(
+    ragath.find((candidate) =>
+      candidate.preferredForm === "High Door"
+    ).derivation,
+    "literal-translation",
+  );
+
+  const kulthul = concept(
+    catalog,
+    "Gazetteer/Major Rivers/Istaros Watershed/Kulthul.md",
+    "Kulthul",
+  );
+  assert.ok(kulthul);
+  assert.equal(kulthul.effectiveLanguage.language, "Orcish");
+  assert.equal(kulthul.status, "text-evidence");
 
   const exports = core.catalogExportRecords(catalog);
   assert.equal(exports.length, catalog.concepts.length);
@@ -198,8 +338,14 @@ function run() {
   );
   console.log(JSON.stringify({
     subjects: subjects.length,
+    scopedSubjects: catalog.subjects.length,
     concepts: catalog.concepts.length,
+    components: catalog.components.length,
+    corpus: catalog.corpus.length,
     forms: catalog.concepts.reduce((sum, item) => sum + item.forms.length, 0),
+    nameReview: catalog.concepts.filter(
+      (item) => item.needsNameReview,
+    ).length,
     rules: catalog.rules.length,
     orphans: catalog.orphans.length,
     statuses: statusCounts,
