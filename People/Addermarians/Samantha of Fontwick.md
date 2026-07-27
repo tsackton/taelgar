@@ -12,7 +12,7 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 ---
-# Samatha of Fontwick
+# Samantha of Fontwick
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  

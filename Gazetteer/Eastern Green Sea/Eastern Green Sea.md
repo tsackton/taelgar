@@ -50,7 +50,7 @@ Little is known of the history of this region, although the [[Skaer]] and other 
 ## DM Notes and Meta
 _See also: [[Places in the Eastern Green Sea]]_
 
-*Area:* This region includes the [[Eastern Isles]], [[Irrla]], and the entire southern [[Green Sea]] coast east of [[~South Cymea~]]. In general, the border to the south is poorly determined, but is assumed to be either the northern edge of the [[~Great Desert~]] or the edge of the coastal/eastern/mariner culture.
+*Area:* This region includes the [[Eastern Isles]], [[Irrla]], and the entire southern [[Green Sea]] coast east of [[~South Cymea~]]. In general, the border to the south is poorly determined, but is assumed to be either the northern edge of the [[Great Desert]] or the edge of the coastal/eastern/mariner culture.
 
 *Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[Eastern Isles]] some distance north of the [[Vermillion Isles]]. [[Irrla]] has some development, and canonically contains at least a [[Reaver Coast|large hobgoblin realm]] and a human realm known as [[Republic of Svolhas]].
 
