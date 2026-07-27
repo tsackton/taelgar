@@ -1,19 +1,28 @@
 "use strict";
 
 const NOTE_TYPES = [
-  "person",
-  "power",
-  "place",
-  "event",
-  "object",
-  "group",
   "ancestry",
-  "creature",
-  "session-note",
-  "source",
-  "background",
-  "meta",
+  "place",
+  "group",
+  "power",
+  "person",
 ];
+
+const COMPONENT_ROLES = [
+  "core",
+  "descriptive",
+  "title",
+  "epithet",
+  "locative",
+  "dynastic",
+  "classifier",
+  "ordinal",
+];
+
+const CORPUS_COMPONENT_ROLES = new Set([
+  "core",
+  "descriptive",
+]);
 
 const LANGUAGE_DEFINITIONS = [
   ["Drankorian", "Chardonian"],
@@ -52,7 +61,9 @@ const LANGUAGE_DEFINITIONS = [
   ["Northros", "Unclassified Northros"],
   ["Northros", "Vargaldi"],
   ["Trade", "Common"],
+  ["Trade", "Trade (unspecified)"],
   ["Unclassified", "Svolhasian"],
+  ["Special", "Language-neutral"],
   ["Special", "Mixed"],
   ["Unknown", "Unknown"],
 ];
@@ -98,6 +109,48 @@ const LANGUAGE_KEYWORDS = [
   [["gnoll"], "Exotic", "Gnoll"],
   [["sylvan", "fey "], "Extraplanar", "Sylvan"],
   [["primordial", "elemental"], "Extraplanar", "Primordial"],
+  [["common"], "Trade", "Common"],
+];
+
+// Text evidence deliberately uses language adjectives and language names only.
+// Cultural and geographic roots such as "Dunmar", "Tollen", or "Drankor"
+// remain useful heuristic evidence, but cannot create a text-evidence result.
+const EXPLICIT_LANGUAGE_TERMS = [
+  [["army tongue", "katonylev"], "Goblin", "Katonylev"],
+  [["hobgoblin", "goblin"], "Goblin", "Goblin/Katonylev"],
+  [["svolhasian"], "Unclassified", "Svolhasian"],
+  [["drankorian"], "Drankorian", "Drankorian"],
+  [["chardonian"], "Drankorian", "Chardonian"],
+  [["cymean"], "Drankorian", "Cymean"],
+  [["isinguese"], "Drankorian", "Isinguese"],
+  [["illorian"], "Drankorian", "Illorian"],
+  [["deno'qai", "deno’qai"], "Northros", "Deno'qai"],
+  [["mawaran"], "Northros", "Mawaran"],
+  [["vargaldi"], "Northros", "Vargaldi"],
+  [["old zimkovan"], "Northros", "Old Zimkovan"],
+  [["skaegish"], "Eastros", "Skaegish"],
+  [["urksan", "urskan"], "Eastros", "Urskan"],
+  [["zimkovan"], "Eastros", "Zimkovan"],
+  [["sembaran"], "Eastros", "Sembaran"],
+  [["tollish"], "Eastros", "Tollish"],
+  [["dunmari"], "Independent human", "Dunmari"],
+  [["tyrwinghan"], "Independent human", "Tyrwinghan"],
+  [["vosic"], "Mixed/uncertain human", "Vosic"],
+  [["hkaran"], "Hkaran", "Hkaran"],
+  [["dwarvish", "dwarven"], "Non-human", "Dwarvish"],
+  [["elvish", "elven"], "Non-human", "Elvish"],
+  [["lizardling", "lizardfolk"], "Non-human", "Lizardling"],
+  [["free orcish"], "Non-human", "Free Orcish"],
+  [["orcish"], "Non-human", "Orcish"],
+  [["stoneborn"], "Non-human", "Stoneborn"],
+  [["halfling"], "Non-human", "Halfling"],
+  [["giant"], "Exotic", "Giant"],
+  [["kenku"], "Exotic", "Kenku"],
+  [["merfolk"], "Exotic", "Merfolk"],
+  [["centaur"], "Exotic", "Centaur"],
+  [["gnoll"], "Exotic", "Gnoll"],
+  [["sylvan"], "Extraplanar", "Sylvan"],
+  [["primordial"], "Extraplanar", "Primordial"],
   [["common"], "Trade", "Common"],
 ];
 
@@ -217,13 +270,90 @@ const COMMON_COMPOUND_PARTS = [
   "vale", "water", "west", "white", "wild", "wind", "winter", "wood",
 ];
 
-const HONORIFICS = [
-  "archfey", "baroness", "baron", "captain", "chiefling", "chief", "commander",
-  "countess", "count", "duchess", "duke", "elder", "emperor", "empress",
-  "general", "grandpa", "hakeasa", "high king", "king", "lady", "laivan",
-  "loremaster", "lord", "magistros", "marshal", "master", "prince",
-  "princess", "proconsul", "queen", "saint", "samraat", "sergeant", "sir",
+// This is intentionally a naming lexicon, not an English dictionary. A phrase
+// is a Trade rendering only when all of its lexical tokens are transparent.
+// Unknown tokens are retained as possible in-world roots and may be separated
+// from a Trade-language classifier such as "River" or "Kingdom".
+const TRADE_NAME_WORDS = new Set([
+  ...COMMON_DESCRIPTOR_WORDS,
+  ...COMMON_COMPOUND_PARTS,
+  "ancient", "angel", "apple", "arrow", "badger", "bear", "blind", "blood",
+  "blue", "broken", "burning", "cat", "copper", "crown", "dawn", "dead",
+  "death", "door", "dust", "eagle", "elder", "empty", "eye", "far", "fat",
+  "father", "feather", "fox", "free", "giant", "glass", "golden", "great",
+  "hammer", "hawk", "hidden", "holy", "horse", "hound", "ice", "inner",
+  "lion", "little", "lost", "lower", "merchant", "midnight", "mother",
+  "new", "night", "northern", "old", "open", "outer", "owl", "path",
+  "rainbow", "raven", "royal", "sage", "salt", "sand", "secret", "seven",
+  "singing", "snake", "southern", "spirit", "stag", "steel", "sunken",
+  "teeth", "thunder", "twilight", "upper", "western", "wolf", "worker",
+  "young",
+  "abyssal", "air", "all", "archive", "astral", "azure", "bank", "barking",
+  "bastion", "battery", "blessing", "bloom", "boreal", "bridgeward",
+  "caravanserai", "cedar", "channel", "charitable", "children", "circular",
+  "cleaver", "cold", "colossus", "compound", "consciousness", "court",
+  "creation", "crimson", "crystal", "dandelion", "divine", "dolphin",
+  "dreamworld", "drunken", "dyer", "earth", "eastern", "eightfold",
+  "elegant", "elemental", "emerald", "empty", "ending", "energy", "evening",
+  "faculty", "fate", "feast", "flagon", "flame", "folly", "forge",
+  "fortune", "foundry", "fraternity", "gossamer", "grace", "granite",
+  "grove", "guildhall", "harmony", "heartwood", "hero", "highmoor",
+  "history", "honeybloom", "hunter", "imperial", "islander", "keep",
+  "knife", "lair", "law", "leaf", "leviathan", "lily", "lonely", "luck",
+  "mad", "magic", "market", "material", "mayor", "metal", "metaphysics",
+  "mill", "mirror", "mist", "muddy", "mug", "mundane", "negative",
+  "oracle", "ox", "palace", "philosopher", "pig", "positive", "presence",
+  "prime", "prince", "purple", "pyre", "quarter", "queen", "quill",
+  "radiant", "refuge", "rest", "resting", "reaver", "riven", "riverside",
+  "rocky", "salty", "scroll", "seal", "setting", "shield", "shrouded",
+  "sleepless", "smiling", "sober", "society", "splendor", "spire", "spout",
+  "squid", "summit", "sunset", "swan", "tanner", "theology", "thirsty",
+  "tideswell", "toad", "tower", "traveler", "trench", "tribe", "twenty",
+  "umber", "underhill", "veil", "wandering", "watch", "watcher",
+  "watchtower", "wave", "whale", "windward", "workhouse",
+  "bandit", "baron", "bog", "chaos", "chasm", "covenant", "crab",
+  "crossroads", "dead", "edge", "endless", "ethereal", "fair", "gleam",
+  "gull", "havoc", "home", "host", "land", "laughing", "lord", "mesa",
+  "mind", "one", "own", "people", "plane", "ruin", "rust", "sail", "scholar",
+  "sentient", "sentinel", "seventh", "shimmering", "smiling", "street",
+  "umbral", "village", "void", "wall", "wanderer", "way", "world",
+  "a", "an", "and", "at", "by", "for", "from", "in", "of", "on", "s", "the",
+]);
+
+const PLACE_CLASSIFIERS = [
+  "archipelago", "bay", "bridge", "canal", "castle", "cavern", "city",
+  "cliffs", "coast", "crossing", "desert", "falls", "fens", "forest",
+  "fort", "fortress", "gap", "gate", "gorge", "gulf", "harbor", "heights",
+  "highlands", "hill", "hills", "hold", "island", "islands", "isle",
+  "isles", "lake", "lands", "march", "marsh", "mount", "mountain",
+  "mountains", "ocean", "pass", "peak", "plains", "plateau", "port",
+  "province", "range", "realm", "river", "road", "sea", "strait", "swamp",
+  "tower", "trail", "vale", "valley", "village", "waters", "watershed",
+  "wood", "woods",
 ];
+
+const ORGANIZATION_CLASSIFIERS = [
+  "alliance", "army", "church", "clan", "company", "confederacy", "cult",
+  "duchy", "empire", "fellowship", "guild", "house", "kingdom", "order",
+  "republic", "society", "temple", "university",
+];
+
+const HONORIFICS = [
+  "archfey", "archmage", "baroness", "baron", "captain", "caretaker",
+  "chiefling", "chief archivist", "chief", "commander", "countess", "count",
+  "duchess", "duke", "elder", "emperor", "empress", "general", "grandpa",
+  "hakeasa", "head priest", "high king", "king", "lady", "laivan",
+  "loremaster", "lord", "magistros", "major", "marshal", "master", "prince",
+  "princess", "proconsul", "queen", "saint", "samraat", "sergeant", "sir",
+  "speaker",
+];
+
+const LEXICAL_HONORIFICS = new Set([
+  "hakeasa",
+  "laivan",
+  "magistros",
+  "samraat",
+]);
 
 const VARIANT_KINDS = [
   "exact",
@@ -279,6 +409,34 @@ function normalizeLoose(value) {
     .trim();
 }
 
+function provisionalNameInfo(value) {
+  const original = normalizeTypography(value);
+  const match = original.match(/^~\s*(.+?)\s*~$/);
+  return {
+    original,
+    text: match ? normalizeTypography(match[1]) : original,
+    provisional: Boolean(match),
+  };
+}
+
+function nameReviewForSubject(subject) {
+  const tags = toStrings(subject.tags).map((tag) =>
+    String(tag).replace(/^#/, "").toLocaleLowerCase("en")
+  );
+  const marker = provisionalNameInfo(
+    subject.rawName || subject.name || subject.fileName,
+  );
+  const reasons = [];
+  if (tags.includes("status/check/name")) reasons.push("status/check/name");
+  if (subject.provisionalName || marker.provisional) {
+    reasons.push("provisional-name-marker");
+  }
+  return {
+    needsNameReview: reasons.length > 0,
+    nameReviewReasons: [...new Set(reasons)],
+  };
+}
+
 function normalizedTokens(value) {
   const normalized = normalizeLoose(value);
   return normalized ? normalized.split(" ") : [];
@@ -298,6 +456,7 @@ function plausibleName(value) {
   if ((value.match(/ /g) || []).length > 12) return false;
   if (/(\$=|dv\.view|<[^>]+>|::)/.test(value)) return false;
   if (/^(names?|information|dm notes)$/i.test(value)) return false;
+  if (/^(?:status|campaign|source|type)\//i.test(value)) return false;
   if (/[.!?]\s/.test(value)) return false;
   return /[A-Za-zÀ-ž]/.test(value);
 }
@@ -313,6 +472,15 @@ function titleCandidates(subject) {
     if (normalized) values.add(normalized);
   }
   return [...values].sort((a, b) => b.length - a.length);
+}
+
+function titleRendering(value) {
+  const normalized = normalizeStrict(value);
+  if (transparentTradePhrase(value)) return "trade";
+  if (HONORIFICS.includes(normalized) && !LEXICAL_HONORIFICS.has(normalized)) {
+    return "trade";
+  }
+  return "lexical";
 }
 
 function stripLeadingTitle(value, subject) {
@@ -475,68 +643,219 @@ function extractTextAliases(body, primary) {
   return output;
 }
 
-function languageFromNamingContext(context, name, basis) {
-  const contextWithoutName = String(context || "").replace(
-    new RegExp(escapeRegExp(name), "gi"),
-    " ",
-  );
-  const lowered = contextWithoutName
-    .toLocaleLowerCase("en")
-    .replace(/\[\[|\]\]/g, " ");
-  for (const [keywords, family, language] of LANGUAGE_KEYWORDS) {
-    for (const rawKeyword of keywords) {
-      const keyword = rawKeyword.trim();
-      const escaped = escapeRegExp(keyword);
-      const patterns = [
-        new RegExp(`\\bin\\s+(?:the\\s+)?${escaped}\\b`, "i"),
-        new RegExp(`\\b${escaped}\\b[^.;:]{0,35}\\b(?:name|term|phrase|word|exonym|endonym|translation)\\b`, "i"),
-        new RegExp(`\\b(?:name|term|phrase|word|exonym|endonym|translation)\\b[^.;:]{0,55}\\b${escaped}\\b`, "i"),
-      ];
-      if (patterns.some((pattern) => pattern.test(lowered))) {
-        return languageResult(family, language, "explicit", basis);
+function evidenceText(value) {
+  return normalizeTypography(value)
+    .replace(/%%/g, " ")
+    .replace(/!\[\[[^\]]+\]\]/g, " ")
+    .replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, "$2")
+    .replace(/\[\[([^\]]+)\]\]/g, "$1")
+    .replace(/[*_`"“”]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function exactSpans(text, needle) {
+  const haystack = normalizeTypography(text).toLocaleLowerCase("en");
+  const target = normalizeTypography(needle).toLocaleLowerCase("en");
+  if (!target) return [];
+  const spans = [];
+  let start = 0;
+  while (start < haystack.length) {
+    const index = haystack.indexOf(target, start);
+    if (index < 0) break;
+    const before = haystack[index - 1] || "";
+    const after = haystack[index + target.length] || "";
+    const word = /[a-z0-9À-ž']/i;
+    if (!word.test(before) && !word.test(after)) {
+      spans.push({ start: index, end: index + target.length });
+    }
+    start = index + Math.max(1, target.length);
+  }
+  return spans;
+}
+
+function languageMentions(text) {
+  const output = [];
+  for (const [terms, family, language] of EXPLICIT_LANGUAGE_TERMS) {
+    for (const term of terms) {
+      for (const span of exactSpans(text, term)) {
+        output.push({ ...span, term, family, language });
       }
     }
   }
-  return null;
+  return output.sort((left, right) =>
+    left.start - right.start || right.end - left.end
+  );
+}
+
+function lastNamingVerbBefore(text, limit) {
+  const prefix = text.slice(0, limit);
+  const pattern = /\b(?:called|known\s+as|named|rendered\s+as)\b/gi;
+  let match;
+  let last = -1;
+  while ((match = pattern.exec(prefix)) !== null) last = match.index;
+  return last;
+}
+
+function evidenceRelation(clause, nameSpan, languageSpan) {
+  const lowered = clause.toLocaleLowerCase("en");
+  const beforeLanguage = lowered.slice(0, languageSpan.start);
+  const afterLanguage = lowered.slice(languageSpan.end);
+  const languageEndsPhrase =
+    !/^\s+[a-z]/.test(afterLanguage) ||
+    /^\s+(?:tongue|language|speech)\b/.test(afterLanguage);
+
+  if (nameSpan.start < languageSpan.start) {
+    const between = lowered.slice(nameSpan.end, languageSpan.start);
+    const namingVerb = lastNamingVerbBefore(lowered, languageSpan.start);
+    if (
+      namingVerb >= 0 &&
+      namingVerb < nameSpan.start &&
+      nameSpan.start - namingVerb < 120 &&
+      /\bin\s+(?:the\s+)?$/.test(between) &&
+      !/[,;][^,;]*\bin\s+(?:the\s+)?$/.test(between) &&
+      languageEndsPhrase
+    ) {
+      return "called NAME in LANGUAGE";
+    }
+    if (
+      /^\s+(?:is|was|remains|became)\s+(?:the\s+)?$/.test(between) &&
+      /^\s+(?:tongue|language)\b/.test(afterLanguage)
+    ) {
+      return "NAME is LANGUAGE language";
+    }
+    if (
+      /^\s+(?:is|was|remains|became)\s+(?:the\s+)?$/.test(between) &&
+      /^\s+(?:name|word|term|phrase|exonym|endonym)\b/.test(afterLanguage)
+    ) {
+      return "NAME is the LANGUAGE name";
+    }
+    if (
+      /\b(?:means|translated|rendered)\b/.test(between) &&
+      /\bin\s+(?:the\s+)?$/.test(between)
+    ) {
+      return "NAME translated in LANGUAGE";
+    }
+    if (
+      /^\s*,?\s*(?:is\s+|was\s+)?$/.test(between) &&
+      /^\s+(?:for|meaning)\b/.test(afterLanguage)
+    ) {
+      return "NAME, LANGUAGE for";
+    }
+  } else {
+    const between = lowered.slice(languageSpan.end, nameSpan.start);
+    const introducedAsNamingLanguage =
+      /\b(?:in|to|by|from)\s+(?:the\s+)?$/.test(beforeLanguage) &&
+      /^\s*[,.:-]/.test(between);
+    const languageAsCallingSubject =
+      /^\s+(?:people\s+)?(?:called|call|named|name|knew|know)\b/.test(
+        between,
+      );
+    if (
+      (introducedAsNamingLanguage || languageAsCallingSubject) &&
+      /\b(?:called(?:\s+(?:him|her|it|them))?|known\s+as|named|rendered\s+as)\s+(?:the\s+)?$/.test(
+        between,
+      )
+    ) {
+      return "in LANGUAGE, called NAME";
+    }
+    if (
+      /^\s+(?:tongue|language)?\s*(?:name|word|term|phrase|exonym|endonym)\s*(?:(?:is|was)\s+|[:,—-]\s*)?(?:the\s+)?$/.test(
+        between,
+      )
+    ) {
+      return "LANGUAGE name NAME";
+    }
+  }
+  return "";
+}
+
+function languageFromNamingContext(context, name, basis) {
+  const clause = evidenceText(context);
+  const candidates = [];
+  for (const nameSpan of exactSpans(clause, name)) {
+    for (const mention of languageMentions(clause)) {
+      const pattern = evidenceRelation(clause, nameSpan, mention);
+      if (pattern) candidates.push({ ...mention, pattern });
+    }
+  }
+  const languages = new Set(candidates.map((candidate) => candidate.language));
+  if (languages.size > 1) {
+    return {
+      ...UNKNOWN_LANGUAGE,
+      confidence: "conflict",
+      basis: `${basis}: conflicting text evidence (${[...languages].join(", ")})`,
+      evidence: candidates,
+    };
+  }
+  const candidate = candidates[0];
+  if (!candidate) return null;
+  return {
+    ...languageResult(
+      candidate.family,
+      candidate.language,
+      "text-evidence",
+      `${basis}: ${candidate.pattern}`,
+    ),
+    evidence: candidates,
+  };
 }
 
 function explicitLanguageForName(body, name, label) {
-  const needle = normalizeLoose(name);
-  if (!needle) return null;
-  const namingWords = /\b(?:name|called|known|rendered|translated|translation|term|phrase|word|exonym|endonym|in\s+common|locally)\b/i;
+  if (!normalizeLoose(name)) return null;
   const candidates = [];
   let inComment = false;
-  let inNamesSection = false;
 
   String(body || "").split(/\r?\n/).forEach((line, index) => {
-    const stripped = line.trim();
-    if (/^##\s+Names?\s*$/i.test(stripped)) inNamesSection = true;
-    else if (inNamesSection && /^##\s+/.test(stripped)) inNamesSection = false;
-
     const markerCount = (line.match(/%%/g) || []).length;
     const lineIsComment = inComment || markerCount > 0;
-    if (normalizeLoose(line).includes(needle) && namingWords.test(line)) {
+    const clauses = evidenceText(line).split(/\s*(?:;|(?<=[.!?])\s+)\s*/);
+    for (const clause of clauses) {
+      if (!exactSpans(clause, name).length) continue;
       const suffix = lineIsComment ? " (comment)" : "";
-      const explicit = languageFromNamingContext(
-        line,
+      const result = languageFromNamingContext(
+        clause,
         name,
         `${label}, body line ${index + 1}${suffix}`,
       );
-      if (explicit) {
-        let score = 0;
-        if (/\bin\s+(?:the\s+)?common\b/i.test(line)) score += 8;
-        if (inNamesSection) score += 5;
-        if (/\b(?:name|term|phrase|word|exonym|endonym|translation)\b/i.test(line)) score += 4;
-        if (/\b(?:called|known)\b/i.test(line)) score += 2;
-        if (lineIsComment) score -= 1;
-        candidates.push([score, explicit]);
+      if (result) {
+        candidates.push({
+          result,
+          quote: clause.trim().slice(0, 300),
+          line: index + 1,
+        });
       }
     }
     if (markerCount % 2) inComment = !inComment;
   });
 
-  candidates.sort((left, right) => right[0] - left[0]);
-  return candidates.length ? candidates[0][1] : null;
+  if (!candidates.length) return null;
+  const languages = new Set(
+    candidates
+      .filter((candidate) => candidate.result.language !== "Unknown")
+      .map((candidate) => candidate.result.language),
+  );
+  if (
+    languages.size > 1 ||
+    candidates.some((candidate) => candidate.result.confidence === "conflict")
+  ) {
+    return {
+      ...UNKNOWN_LANGUAGE,
+      confidence: "conflict",
+      basis: `${label}: conflicting text evidence (${[...languages].join(", ")})`,
+      evidence: candidates,
+    };
+  }
+  const chosen = candidates[0].result;
+  return {
+    ...chosen,
+    evidence: candidates.map((candidate) => ({
+      line: candidate.line,
+      quote: candidate.quote,
+      pattern: candidate.result.evidence?.[0]?.pattern || "",
+      language: candidate.result.language,
+    })),
+  };
 }
 
 function looksCommon(name) {
@@ -548,6 +867,30 @@ function looksCommon(name) {
     if (squashed.includes(part)) matches += 1;
   }
   return matches >= 2;
+}
+
+function transparentTradePhrase(name) {
+  const words = normalizedTokens(name).filter((word) => !/^\d+$/.test(word));
+  if (!words.length) return false;
+  if (words.every((word) => TRADE_NAME_WORDS.has(word))) return true;
+  if (words.length === 1) {
+    const squashed = words[0];
+    let matches = 0;
+    for (const part of COMMON_COMPOUND_PARTS) {
+      if (part.length >= 4 && squashed.includes(part)) matches += 1;
+    }
+    return matches >= 2;
+  }
+  return false;
+}
+
+function tradeRenderingResult(basis) {
+  return languageResult(
+    "Trade",
+    "Trade (unspecified)",
+    "convention",
+    basis || "transparent English trade-tongue rendering",
+  );
 }
 
 function languageFromAncestry(values, basisPrefix) {
@@ -600,17 +943,15 @@ function inferPrimaryLanguage(subject) {
   const explicit = explicitLanguageForName(
     subject.body,
     subject.name,
-    "explicit primary-name text",
+    "primary-name text evidence",
   );
   if (explicit) return explicit;
 
-  if (subject.noteType !== "person" && looksCommon(subject.name)) {
-    return languageResult(
-      "Trade",
-      "Common",
-      "inferred",
-      "descriptive or translated Common-form name",
-    );
+  if (
+    subject.noteType !== "person" &&
+    transparentTradePhrase(subject.name)
+  ) {
+    return tradeRenderingResult();
   }
 
   const ancestry = languageFromAncestry(subject.ancestry, "ancestry");
@@ -622,13 +963,8 @@ function inferPrimaryLanguage(subject) {
   const location = languageFromLocations(subject.locations);
   if (location) return location;
 
-  if (looksCommon(subject.name)) {
-    return languageResult(
-      "Trade",
-      "Common",
-      "inferred",
-      "descriptive or translated Common-form name",
-    );
+  if (transparentTradePhrase(subject.name)) {
+    return tradeRenderingResult();
   }
   return { ...UNKNOWN_LANGUAGE };
 }
@@ -638,23 +974,18 @@ function inferConceptLanguage(concept, subject, primaryLanguage) {
   const explicit = explicitLanguageForName(
     subject.body,
     concept.preferredForm,
-    "explicit alternate-name text",
+    "alternate-name text evidence",
   );
   if (explicit) return explicit;
-  if (looksCommon(concept.preferredForm)) {
-    return languageResult(
-      "Trade",
-      "Common",
-      "inferred",
-      "descriptive or translated Common-form name",
-    );
+  if (transparentTradePhrase(concept.preferredForm)) {
+    return tradeRenderingResult();
   }
   if (primaryLanguage.language !== "Unknown") {
     return languageResult(
       primaryLanguage.family,
       primaryLanguage.language,
       "inferred",
-      "same-subject naming context; alternate-name language is not explicit",
+      "same-subject naming context; alternate-name language is not text-bound",
     );
   }
   return { ...UNKNOWN_LANGUAGE };
@@ -673,12 +1004,12 @@ function conceptDecisionKey(subjectPath, conceptId) {
 }
 
 function mergeObservedForms(subject) {
+  const primaryName = provisionalNameInfo(subject.name).text;
   const candidates = [
-    { text: subject.name, source: "primary" },
+    { text: primaryName, source: "primary" },
     ...toStrings(subject.aliases).map((text) => ({ text, source: "frontmatter" })),
     ...(subject.textAliases || []),
   ];
-  if (subject.heading) candidates.push({ text: subject.heading, source: "heading" });
 
   const byKey = new Map();
   for (const candidate of candidates) {
@@ -765,11 +1096,238 @@ function buildConcepts(subject, formDecisionMap = new Map()) {
       continue;
     }
 
-    // A differing H1 is presentation evidence, not automatically a distinct name.
-    if (form.sources.every((source) => source === "heading")) continue;
     concepts.push(makeConcept(subject, form, form.sources.includes("text") ? "text" : "alias"));
   }
   return concepts;
+}
+
+function componentIdForPart(text, index) {
+  return `part:${index}:${normalizeStrict(text)}`;
+}
+
+function componentDecisionKey(subjectPath, conceptId, componentId) {
+  return `${subjectPath}\u0000${conceptId}\u0000${componentId}`;
+}
+
+function makeComponents(parts) {
+  return parts
+    .filter((part) => normalizeTypography(part.text))
+    .map((part, index) => ({
+      id: componentIdForPart(part.text, index),
+      text: normalizeTypography(part.text),
+      normalized: normalizeStrict(part.text),
+      role: part.role,
+      rendering: part.rendering || "lexical",
+      reference: part.reference || "",
+      automatic: true,
+    }));
+}
+
+function matchingLeadingTitle(value, subject) {
+  const text = normalizeTypography(value);
+  for (const title of titleCandidates(subject)) {
+    const match = text.match(new RegExp(`^(${escapeRegExp(title)})\\s+`, "i"));
+    if (match) return match[1];
+  }
+  return "";
+}
+
+function decomposePersonName(value, subject) {
+  let remainder = normalizeTypography(value);
+  const parts = [];
+  const articleMatch = remainder.match(/^(?:the|a|an)\s+/i);
+  if (articleMatch) remainder = remainder.slice(articleMatch[0].length).trim();
+
+  const title = matchingLeadingTitle(remainder, subject);
+  if (title) {
+    parts.push({
+      text: title,
+      role: "title",
+      rendering: titleRendering(title),
+    });
+    remainder = remainder.slice(title.length).trim();
+  }
+
+  let ordinal = "";
+  const ordinalMatch = remainder.match(
+    /\s+((?:[IVXLCDM]+)|(?:\d+(?:st|nd|rd|th)?))$/i,
+  );
+  if (ordinalMatch) {
+    ordinal = ordinalMatch[1];
+    remainder = remainder.slice(0, ordinalMatch.index).trim();
+  }
+
+  let modifier = null;
+  const epithetMatch = remainder.match(/\s+(the\s+[^,;]+)$/i);
+  const locativeMatch = remainder.match(/\s+((?:of|from)\s+[^,;]+)$/i);
+  const chosen = [epithetMatch, locativeMatch]
+    .filter(Boolean)
+    .sort((left, right) => left.index - right.index)[0];
+  if (chosen) {
+    modifier = {
+      text: chosen[1],
+      role: chosen === epithetMatch ? "epithet" : "locative",
+      rendering: "trade",
+      reference: chosen === locativeMatch
+        ? chosen[1].replace(/^(?:of|from)\s+(?:the\s+)?/i, "")
+        : "",
+    };
+    remainder = remainder.slice(0, chosen.index).trim();
+  }
+
+  if (remainder) parts.push({ text: remainder, role: "core" });
+  if (modifier) parts.push(modifier);
+  if (ordinal) {
+    parts.push({
+      text: ordinal,
+      role: "ordinal",
+      rendering: "neutral",
+    });
+  }
+  return makeComponents(parts.length ? parts : [{ text: value, role: "core" }]);
+}
+
+function classifierPattern(values) {
+  return values
+    .slice()
+    .sort((left, right) => right.length - left.length)
+    .map(escapeRegExp)
+    .join("|");
+}
+
+const PLACE_CLASSIFIER_PATTERN = classifierPattern(PLACE_CLASSIFIERS);
+const ORGANIZATION_CLASSIFIER_PATTERN = classifierPattern(
+  ORGANIZATION_CLASSIFIERS,
+);
+
+function decomposeNonPersonName(value, subject) {
+  let remainder = normalizeTypography(value);
+  const parts = [];
+  const articleMatch = remainder.match(/^(the|a|an)\s+/i);
+  if (articleMatch) remainder = remainder.slice(articleMatch[0].length).trim();
+
+  if (transparentTradePhrase(remainder)) {
+    parts.push({
+      text: remainder,
+      role: "descriptive",
+      rendering: "trade",
+    });
+    return makeComponents(parts);
+  }
+
+  const classifiers = subject.noteType === "place"
+    ? PLACE_CLASSIFIER_PATTERN
+    : `${ORGANIZATION_CLASSIFIER_PATTERN}|${PLACE_CLASSIFIER_PATTERN}`;
+  const ofPrefix = remainder.match(
+    new RegExp(`^((?:${classifiers})\\s+of)\\s+(?:the\\s+)?(.+)$`, "i"),
+  );
+  if (ofPrefix) {
+    parts.push({
+      text: ofPrefix[1],
+      role: "classifier",
+      rendering: "trade",
+    });
+    parts.push({
+      text: ofPrefix[2],
+      role: transparentTradePhrase(ofPrefix[2]) ? "descriptive" : "core",
+      rendering: transparentTradePhrase(ofPrefix[2]) ? "trade" : "lexical",
+    });
+    return makeComponents(parts);
+  }
+
+  const suffix = remainder.match(
+    new RegExp(`^(.+?)\\s+(${classifiers})$`, "i"),
+  );
+  if (suffix) {
+    const rootIsTrade = transparentTradePhrase(suffix[1]);
+    parts.push({
+      text: suffix[1],
+      role: rootIsTrade ? "descriptive" : "core",
+      rendering: rootIsTrade ? "trade" : "lexical",
+    });
+    parts.push({
+      text: suffix[2],
+      role: "classifier",
+      rendering: "trade",
+    });
+    return makeComponents(parts);
+  }
+
+  const prefix = remainder.match(
+    new RegExp(`^(${classifiers})\\s+(.+)$`, "i"),
+  );
+  if (prefix) {
+    parts.push({
+      text: prefix[1],
+      role: "classifier",
+      rendering: "trade",
+    });
+    const rootIsTrade = transparentTradePhrase(prefix[2]);
+    parts.push({
+      text: prefix[2],
+      role: rootIsTrade ? "descriptive" : "core",
+      rendering: rootIsTrade ? "trade" : "lexical",
+    });
+    return makeComponents(parts);
+  }
+
+  parts.push({
+    text: remainder,
+    role: transparentTradePhrase(remainder) ? "descriptive" : "core",
+    rendering: transparentTradePhrase(remainder) ? "trade" : "lexical",
+  });
+  return makeComponents(parts);
+}
+
+function decomposeDisplayName(value, subject) {
+  return subject.noteType === "person"
+    ? decomposePersonName(value, subject)
+    : decomposeNonPersonName(value, subject);
+}
+
+function inferredLanguageForComponent(component, concept, subject) {
+  if (component.role === "ordinal") {
+    return languageResult(
+      "Special",
+      "Language-neutral",
+      "structural",
+      "ordinal or numeric discriminator",
+    );
+  }
+
+  if (["locative", "classifier"].includes(component.role)) {
+    return tradeRenderingResult(
+      `${component.role} component uses a transparent trade-tongue construction`,
+    );
+  }
+
+  const textEvidence = explicitLanguageForName(
+    subject.body,
+    component.text,
+    `text evidence for ${component.role} component`,
+  );
+  if (textEvidence) return textEvidence;
+
+  if (
+    component.rendering === "trade" ||
+    component.role === "epithet" ||
+    transparentTradePhrase(component.text)
+  ) {
+    return tradeRenderingResult(
+      `${component.role} component uses a transparent trade-tongue rendering`,
+    );
+  }
+
+  const ancestry = languageFromAncestry(subject.ancestry, "ancestry");
+  if (ancestry) return ancestry;
+  const species = languageFromAncestry(subject.species, "species");
+  if (species) return species;
+  const fromPath = languageFromPath(subject.path);
+  if (fromPath) return fromPath;
+  const location = languageFromLocations(subject.locations);
+  if (location) return location;
+
+  return { ...UNKNOWN_LANGUAGE };
 }
 
 function normalizeMatchValue(value) {
@@ -784,13 +1342,14 @@ function valueMatches(actualValues, expected) {
   );
 }
 
-function ruleMatches(rule, subject, concept, inferredLanguage) {
+function ruleMatches(rule, subject, concept, inferredLanguage, component = null) {
   if (rule.enabled === false) return false;
   const match = rule.match || {};
   if (!valueMatches(subject.noteType, match.noteType)) return false;
   if (!valueMatches(subject.species, match.species)) return false;
   if (!valueMatches(subject.ancestry, match.ancestry)) return false;
   if (!valueMatches(concept.role, match.role)) return false;
+  if (!valueMatches(component?.role || "", match.componentRole)) return false;
   if (!valueMatches(inferredLanguage.language, match.inferredLanguage)) return false;
   if (match.folder && !subject.path.toLocaleLowerCase("en").startsWith(
     String(match.folder).toLocaleLowerCase("en"),
@@ -798,19 +1357,31 @@ function ruleMatches(rule, subject, concept, inferredLanguage) {
   return true;
 }
 
-function firstMatchingRule(rules, subject, concept, inferredLanguage) {
+function firstMatchingRule(
+  rules,
+  subject,
+  concept,
+  inferredLanguage,
+  component = null,
+) {
   return [...rules]
     .filter((rule) => rule.type === "rule")
     .sort((left, right) => {
       const priority = Number(right.priority || 0) - Number(left.priority || 0);
       return priority || String(left.id).localeCompare(String(right.id));
     })
-    .find((rule) => ruleMatches(rule, subject, concept, inferredLanguage));
+    .find((rule) =>
+      ruleMatches(rule, subject, concept, inferredLanguage, component)
+    );
 }
 
 function decorateConcept(concept, subject, inferredLanguage, conceptDecision, rules) {
   let effective = inferredLanguage;
-  let languageSource = inferredLanguage.confidence === "explicit" ? "explicit" : "inference";
+  let languageSource = ["text-evidence", "conflict"].includes(
+    inferredLanguage.confidence,
+  )
+    ? inferredLanguage.confidence
+    : "inference";
   let matchedRule = null;
 
   if (conceptDecision && Object.prototype.hasOwnProperty.call(conceptDecision, "language")) {
@@ -821,7 +1392,9 @@ function decorateConcept(concept, subject, inferredLanguage, conceptDecision, ru
       conceptDecision.notes || "Human catalog decision",
     );
     languageSource = "decision";
-  } else if (inferredLanguage.confidence !== "explicit") {
+  } else if (
+    !["text-evidence", "conflict"].includes(inferredLanguage.confidence)
+  ) {
     matchedRule = firstMatchingRule(rules, subject, concept, inferredLanguage);
     if (matchedRule) {
       effective = languageResult(
@@ -840,7 +1413,9 @@ function decorateConcept(concept, subject, inferredLanguage, conceptDecision, ru
     else if (effective.language === inferredLanguage.language) status = "confirmed";
     else status = "overridden";
   } else if (languageSource === "rule") status = "rule";
-  else if (languageSource === "explicit") status = "explicit";
+  else if (languageSource === "text-evidence") status = "text-evidence";
+  else if (languageSource === "conflict") status = "conflict";
+  else if (effective.confidence === "convention") status = "convention";
   else if (effective.language === "Unknown") status = "unknown";
   else status = "inferred";
 
@@ -865,36 +1440,333 @@ function kindLabel(concept) {
   const labels = [];
   if (concept.usage) labels.push(capitalize(concept.usage));
   if (concept.derivation && concept.derivation !== "original") {
-    labels.push(concept.derivation === "translation" ? "translated" : concept.derivation);
+    const derivationLabels = {
+      translation: "translated",
+      "literal-translation": "literal translation",
+      "conventional-translation": "conventional translation",
+      "unattested-translation": "unattested translation",
+    };
+    labels.push(
+      derivationLabels[concept.derivation] || concept.derivation,
+    );
   }
   if (concept.relationship) labels.push(concept.relationship);
   return labels.join(" ") || "—";
 }
 
-function buildCatalog(subjects, records) {
+function decorateComponent(
+  rawComponent,
+  concept,
+  subject,
+  conceptDecision,
+  componentDecision,
+  rules,
+  isPrimaryComponent,
+) {
+  const component = {
+    ...rawComponent,
+    role: componentDecision?.role || rawComponent.role,
+  };
+  let inferredLanguage = inferredLanguageForComponent(
+    component,
+    concept,
+    subject,
+  );
+  let effectiveLanguage = inferredLanguage;
+  let languageSource = [
+    "text-evidence",
+    "conflict",
+  ].includes(inferredLanguage.confidence)
+    ? inferredLanguage.confidence
+    : inferredLanguage.confidence === "convention"
+      ? "convention"
+    : "inference";
+  let matchedRule = null;
+  let decision = componentDecision || null;
+
+  const inheritedConceptLanguage = (
+    isPrimaryComponent &&
+    conceptDecision &&
+    Object.prototype.hasOwnProperty.call(conceptDecision, "language")
+  )
+    ? conceptDecision.language
+    : "";
+  const decidedLanguage = componentDecision &&
+    Object.prototype.hasOwnProperty.call(componentDecision, "language")
+    ? componentDecision.language
+    : inheritedConceptLanguage;
+
+  if (decidedLanguage) {
+    effectiveLanguage = languageResult(
+      familyForLanguage(decidedLanguage),
+      decidedLanguage,
+      "decided",
+      componentDecision?.notes ||
+        conceptDecision?.notes ||
+        "Human catalog decision",
+    );
+    languageSource = "decision";
+  } else if (
+    !["text-evidence", "conflict"].includes(inferredLanguage.confidence) &&
+    CORPUS_COMPONENT_ROLES.has(component.role)
+  ) {
+    matchedRule = firstMatchingRule(
+      rules,
+      subject,
+      concept,
+      inferredLanguage,
+      component,
+    );
+    if (matchedRule) {
+      effectiveLanguage = languageResult(
+        familyForLanguage(matchedRule.language),
+        matchedRule.language,
+        "rule",
+        `catalog rule: ${matchedRule.label || matchedRule.id}`,
+      );
+      languageSource = "rule";
+    }
+  }
+
+  let status;
+  if (languageSource === "decision") {
+    if (effectiveLanguage.language === "Unknown") status = "reviewed-unknown";
+    else if (effectiveLanguage.language === inferredLanguage.language) {
+      status = "confirmed";
+    } else status = "overridden";
+  } else if (languageSource === "rule") status = "rule";
+  else if (languageSource === "text-evidence") status = "text-evidence";
+  else if (languageSource === "conflict") status = "conflict";
+  else if (languageSource === "convention") status = "convention";
+  else if (effectiveLanguage.confidence === "structural") status = "structural";
+  else if (effectiveLanguage.language === "Unknown") status = "unknown";
+  else status = "inferred";
+
+  const corpusSetting = componentDecision?.corpus || "auto";
+  const automaticCorpusEligibility =
+    CORPUS_COMPONENT_ROLES.has(component.role) &&
+    !["Trade", "Unknown", "Special"].includes(effectiveLanguage.family) &&
+    component.rendering !== "trade";
+  const corpusEligible = corpusSetting === "include" ||
+    (corpusSetting !== "exclude" && automaticCorpusEligibility);
+
+  return {
+    ...component,
+    subjectPath: subject.path,
+    subjectName: subject.name,
+    noteType: subject.noteType,
+    needsNameReview: subject.needsNameReview,
+    nameReviewReasons: subject.nameReviewReasons,
+    conceptId: concept.id,
+    displayName: concept.preferredForm,
+    conceptRole: concept.role,
+    inferredLanguage,
+    effectiveLanguage,
+    languageSource,
+    status,
+    matchedRuleId: matchedRule?.id || null,
+    decision,
+    corpusSetting,
+    corpusEligible,
+    notes: componentDecision?.notes || "",
+  };
+}
+
+function languageSummary(components) {
+  const labels = [];
+  for (const component of components) {
+    const { family, language } = component.effectiveLanguage;
+    if (language === "Language-neutral") continue;
+    const label = family === "Trade" ? "Trade" : language;
+    if (!labels.includes(label)) labels.push(label);
+  }
+  return labels.join(" + ") || "Language-neutral";
+}
+
+function buildCatalog(subjects, records, options = {}) {
   const normalizedRecords = normalizeStoreRecords(records);
   const rules = normalizedRecords.filter((record) => record.type === "rule");
   const conceptDecisionMap = new Map();
   const formDecisionMap = new Map();
+  const componentDecisionMap = new Map();
   for (const record of normalizedRecords) {
     if (record.type === "concept") {
       conceptDecisionMap.set(conceptDecisionKey(record.subject, record.concept), record);
     } else if (record.type === "form") {
       formDecisionMap.set(formDecisionKey(record.subject, record.form), record);
+    } else if (record.type === "component") {
+      componentDecisionMap.set(
+        componentDecisionKey(
+          record.subject,
+          record.concept,
+          record.component,
+        ),
+        record,
+      );
     }
   }
 
   const concepts = [];
+  const components = [];
   const subjectsWithConcepts = [];
-  for (const subject of subjects) {
+  const scopedSubjects = (subjects || []).filter((subject) =>
+    NOTE_TYPES.includes(subject.noteType)
+  );
+  for (const rawSubject of scopedSubjects) {
+    const nameInfo = provisionalNameInfo(
+      rawSubject.rawName || rawSubject.name || rawSubject.fileName,
+    );
+    const subject = {
+      ...rawSubject,
+      rawName: rawSubject.rawName || rawSubject.name || rawSubject.fileName,
+      name: nameInfo.text,
+      provisionalName: rawSubject.provisionalName || nameInfo.provisional,
+      ...nameReviewForSubject({
+        ...rawSubject,
+        provisionalName: rawSubject.provisionalName || nameInfo.provisional,
+      }),
+    };
     const rawConcepts = buildConcepts(subject, formDecisionMap);
-    const primaryLanguage = inferPrimaryLanguage(subject);
     const decorated = rawConcepts.map((concept) => {
-      const inferred = inferConceptLanguage(concept, subject, primaryLanguage);
-      const decision = conceptDecisionMap.get(
+      const conceptDecision = conceptDecisionMap.get(
         conceptDecisionKey(subject.path, concept.id),
       );
-      const result = decorateConcept(concept, subject, inferred, decision, rules);
+      const forms = concept.forms.map((form) => ({
+        ...form,
+        components: decomposeDisplayName(form.text, subject),
+      }));
+      const preferredComponents = decomposeDisplayName(
+        concept.preferredForm,
+        subject,
+      ).map((component) => ({
+        ...component,
+        preferredFormComponent: true,
+        observedIn: [concept.preferredForm],
+      }));
+      const rawComponents = [...preferredComponents];
+      const componentByShape = new Map(
+        rawComponents.map((component) => [
+          `${component.role}\u0000${normalizeLoose(component.text)}`,
+          component,
+        ]),
+      );
+      for (const form of forms) {
+        for (const component of form.components) {
+          const shape = `${component.role}\u0000${normalizeLoose(component.text)}`;
+          if (componentByShape.has(shape)) {
+            const existing = componentByShape.get(shape);
+            if (!existing.observedIn.includes(form.text)) {
+              existing.observedIn.push(form.text);
+            }
+            continue;
+          }
+          // Grouped short and orthographic forms should not create duplicate
+          // lexical corpus entries. They may still contribute a title,
+          // epithet, classifier, or other structural component.
+          if (CORPUS_COMPONENT_ROLES.has(component.role)) continue;
+          const observed = {
+            ...component,
+            preferredFormComponent: false,
+            observedIn: [form.text],
+          };
+          componentByShape.set(shape, observed);
+          rawComponents.push(observed);
+        }
+      }
+      if (concept.role === "primary") {
+        for (const rawTitle of toStrings(subject.title)) {
+          const titleText = cleanAlias(rawTitle);
+          if (!plausibleName(titleText)) continue;
+          const titleComponent = makeComponents([{
+            text: titleText,
+            role: "title",
+            rendering: titleRendering(titleText),
+          }])[0];
+          if (!titleComponent) continue;
+          const shape =
+            `${titleComponent.role}\u0000${normalizeLoose(titleComponent.text)}`;
+          if (componentByShape.has(shape)) {
+            const existing = componentByShape.get(shape);
+            if (!existing.observedIn.includes("frontmatter:title")) {
+              existing.observedIn.push("frontmatter:title");
+            }
+            continue;
+          }
+          const observed = {
+            ...titleComponent,
+            preferredFormComponent: false,
+            observedIn: ["frontmatter:title"],
+          };
+          componentByShape.set(shape, observed);
+          rawComponents.push(observed);
+        }
+      }
+      const primaryIndex = Math.max(
+        0,
+        preferredComponents.findIndex((component) =>
+          CORPUS_COMPONENT_ROLES.has(component.role)
+        ),
+      );
+      const decoratedComponents = rawComponents.map((component, index) => {
+        const componentDecision = componentDecisionMap.get(
+          componentDecisionKey(subject.path, concept.id, component.id),
+        );
+        const result = decorateComponent(
+          component,
+          concept,
+          subject,
+          conceptDecision,
+          componentDecision,
+          rules,
+          index === primaryIndex,
+        );
+        components.push(result);
+        return result;
+      });
+      const primaryComponent = decoratedComponents[primaryIndex] ||
+        decoratedComponents[0];
+      const conventionalUnattestedTranslation =
+        !conceptDecision?.derivation &&
+        concept.role === "primary" &&
+        subject.noteType === "place" &&
+        primaryComponent?.effectiveLanguage.family === "Trade" &&
+        primaryComponent?.role === "descriptive";
+      const result = {
+        ...concept,
+        forms,
+        subject,
+        components: decoratedComponents,
+        inferredLanguage: primaryComponent?.inferredLanguage ||
+          { ...UNKNOWN_LANGUAGE },
+        effectiveLanguage: primaryComponent?.effectiveLanguage ||
+          { ...UNKNOWN_LANGUAGE },
+        languageSource: primaryComponent?.languageSource || "inference",
+        status: primaryComponent?.status || "unknown",
+        needsNameReview: subject.needsNameReview,
+        nameReviewReasons: subject.nameReviewReasons,
+        matchedRuleId: primaryComponent?.matchedRuleId || null,
+        decision: conceptDecision || null,
+        relationship: conceptDecision?.relationship || "",
+        derivation: conceptDecision?.derivation ||
+          (conventionalUnattestedTranslation
+            ? "unattested-translation"
+            : ""),
+        derivationSource: conceptDecision?.derivation
+          ? "decision"
+          : conventionalUnattestedTranslation
+            ? "convention"
+            : "",
+        usage: conceptDecision?.usage || "",
+        community: conceptDecision?.community || "",
+        sourceLanguage: conceptDecision?.sourceLanguage || "",
+        sourceForm: conceptDecision?.sourceForm ||
+          (conventionalUnattestedTranslation ? "unattested" : ""),
+        decisionNotes: conceptDecision?.notes || "",
+        languageSummary: languageSummary(decoratedComponents),
+        corpusComponents: decoratedComponents.filter(
+          (component) => component.corpusEligible,
+        ),
+      };
       result.kindLabel = kindLabel(result);
       concepts.push(result);
       return result;
@@ -912,8 +1784,14 @@ function buildCatalog(subjects, records) {
   const catalog = {
     subjects: subjectsWithConcepts,
     concepts,
+    components,
+    corpus: components.filter((component) => component.corpusEligible),
     rules,
     records: normalizedRecords,
+    knownSubjectPaths: new Set([
+      ...(options.knownSubjectPaths || []),
+      ...(subjects || []).map((subject) => subject.path),
+    ]),
   };
   catalog.orphans = findOrphans(catalog);
   return catalog;
@@ -926,6 +1804,15 @@ function findOrphans(catalog) {
   const conceptKeys = new Set(
     catalog.concepts.map((concept) => conceptDecisionKey(concept.subjectPath, concept.id)),
   );
+  const componentKeys = new Set(
+    catalog.components.map((component) =>
+      componentDecisionKey(
+        component.subjectPath,
+        component.conceptId,
+        component.id,
+      )
+    ),
+  );
   const formKeys = new Set();
   for (const subject of catalog.subjects) {
     for (const form of mergeObservedForms(subject)) {
@@ -937,7 +1824,11 @@ function findOrphans(catalog) {
   for (const record of catalog.records) {
     if (record.type === "rule") continue;
     if (!subjectMap.has(record.subject)) {
-      output.push({ record, reason: "Subject file is missing or excluded" });
+      // Decisions for note types outside the current five-type catalog remain
+      // dormant rather than appearing as orphans.
+      if (!catalog.knownSubjectPaths.has(record.subject)) {
+        output.push({ record, reason: "Subject file is missing" });
+      }
     } else if (
       record.type === "concept" &&
       !conceptKeys.has(conceptDecisionKey(record.subject, record.concept))
@@ -948,6 +1839,17 @@ function findOrphans(catalog) {
       !formKeys.has(formDecisionKey(record.subject, record.form))
     ) {
       output.push({ record, reason: "Observed form no longer exists" });
+    } else if (
+      record.type === "component" &&
+      !componentKeys.has(
+        componentDecisionKey(
+          record.subject,
+          record.concept,
+          record.component,
+        ),
+      )
+    ) {
+      output.push({ record, reason: "Name component no longer exists" });
     }
   }
   return output;
@@ -983,7 +1885,10 @@ function parseDecisionStore(text) {
     } catch (error) {
       throw new Error(`Invalid JSON on decision-store line ${index + 1}: ${error.message}`);
     }
-    if (!record || !["concept", "form", "rule"].includes(record.type)) {
+    if (
+      !record ||
+      !["concept", "component", "form", "rule"].includes(record.type)
+    ) {
       throw new Error(`Invalid record type on decision-store line ${index + 1}`);
     }
     records.push(record);
@@ -995,6 +1900,9 @@ function recordIdentity(record) {
   if (record.type === "rule") return `rule\u0000${record.id}`;
   if (record.type === "concept") {
     return `concept\u0000${record.subject}\u0000${record.concept}`;
+  }
+  if (record.type === "component") {
+    return `component\u0000${record.subject}\u0000${record.concept}\u0000${record.component}`;
   }
   if (record.type === "form") {
     return `form\u0000${record.subject}\u0000${normalizeStrict(record.form)}`;
@@ -1012,12 +1920,12 @@ function normalizeStoreRecords(records) {
 }
 
 function serializeDecisionStore(records) {
-  const order = { rule: 0, concept: 1, form: 2 };
+  const order = { rule: 0, concept: 1, component: 2, form: 3 };
   const normalized = normalizeStoreRecords(records).sort((left, right) =>
     (order[left.type] ?? 9) - (order[right.type] ?? 9) ||
     String(left.subject || "").localeCompare(String(right.subject || "")) ||
-    String(left.concept || left.form || left.id || "").localeCompare(
-      String(right.concept || right.form || right.id || ""),
+    String(left.component || left.concept || left.form || left.id || "").localeCompare(
+      String(right.component || right.concept || right.form || right.id || ""),
     )
   );
   return normalized.map((record) => JSON.stringify(record)).join("\n") +
@@ -1049,6 +1957,7 @@ function catalogExportRecords(catalog) {
     preferred_form: concept.preferredForm,
     normalized: concept.normalized,
     role: concept.role,
+    language_summary: concept.languageSummary,
     language: {
       effective: concept.effectiveLanguage.language,
       family: concept.effectiveLanguage.family,
@@ -1057,17 +1966,43 @@ function catalogExportRecords(catalog) {
       status: concept.status,
       basis: concept.effectiveLanguage.basis,
     },
+    name_review: {
+      needed: concept.needsNameReview,
+      reasons: concept.nameReviewReasons,
+    },
     kind: {
       relationship: concept.relationship || null,
       derivation: concept.derivation || null,
+      derivation_source: concept.derivationSource || null,
       usage: concept.usage || null,
       community: concept.community || null,
+      source_language: concept.sourceLanguage || null,
+      source_form: concept.sourceForm || null,
     },
+    components: concept.components.map((component) => ({
+      id: component.id,
+      text: component.text,
+      role: component.role,
+      rendering: component.rendering,
+      reference: component.reference || null,
+      language: component.effectiveLanguage.language,
+      language_family: component.effectiveLanguage.family,
+      language_source: component.languageSource,
+      status: component.status,
+      corpus_eligible: component.corpusEligible,
+      corpus_setting: component.corpusSetting,
+      basis: component.effectiveLanguage.basis,
+    })),
     forms: concept.forms.map((form) => ({
       text: form.text,
       variant_kind: form.variantKind,
       sources: form.sources,
       automatic: form.automatic,
+      components: form.components.map((component) => ({
+        text: component.text,
+        role: component.role,
+        rendering: component.rendering,
+      })),
     })),
     pronunciation: concept.subject.pronunciation || "",
     tags: concept.subject.tags,
@@ -1099,6 +2034,7 @@ function escapeRegExp(value) {
 
 module.exports = {
   NOTE_TYPES,
+  COMPONENT_ROLES,
   LANGUAGE_DEFINITIONS,
   VARIANT_KINDS,
   UNKNOWN_LANGUAGE,
@@ -1106,19 +2042,24 @@ module.exports = {
   normalizeTypography,
   normalizeStrict,
   normalizeLoose,
+  provisionalNameInfo,
+  nameReviewForSubject,
   cleanAlias,
   plausibleName,
   classifyVariant,
   extractTextAliases,
   explicitLanguageForName,
   looksCommon,
+  transparentTradePhrase,
   inferPrimaryLanguage,
   inferConceptLanguage,
   conceptIdForForm,
   formDecisionKey,
   conceptDecisionKey,
+  componentDecisionKey,
   mergeObservedForms,
   buildConcepts,
+  decomposeDisplayName,
   ruleMatches,
   buildCatalog,
   kindLabel,
