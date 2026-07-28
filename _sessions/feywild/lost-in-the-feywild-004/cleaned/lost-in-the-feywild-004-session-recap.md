@@ -227,10 +227,10 @@ Menestheus connects the phrase to his book, The Shape of Possibility, about math
 - Organizations: Arithrimos Lamperum
 - Items: fungal golem body, white-fiber infection
 - Enemies: none
-- Image:
-- Image Placement:
-- Image Render:
-- Image Caption:
+- Image: 27th-house-fungal-room.png
+- Image Placement: beginning
+- Image Render: 
+- Image Caption: The fungal garden of Kallipseis in the 27th House
 
 #### Short
 Pusing onward, the party enters a fungal greenhouse and mets Kallipseis, who explains the 27th Room is a moving prison-machine; only the glass key in the prison room can open the way out.
