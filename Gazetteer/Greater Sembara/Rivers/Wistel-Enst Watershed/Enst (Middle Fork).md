@@ -16,4 +16,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-One of the three rivers (the others being the [[Enst (South Fork)|South Fork]] and [[Enst (North Fork)|North Fork]]) that join to form the [[Enst]] just west of [[Lysandale]].
+One of the three rivers (the others being the [[Enst (South Fork)|South Fork]] and [[Enst (North Fork)|North Fork]]) that join to form the [[Enst]].
