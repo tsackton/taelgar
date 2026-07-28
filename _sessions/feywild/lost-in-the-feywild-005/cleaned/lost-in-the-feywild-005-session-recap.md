@@ -205,10 +205,10 @@ The party moves through a dead plant greenhouse, a picked-over armory, and an un
 - Organizations: Arithrimos Lamperum
 - Items: map library collection, room 25 listening notebook, chained library books
 - Enemies: none
-- Image:
-- Image Placement:
+- Image: 27th-house-library.png
+- Image Placement: end
 - Image Render:
-- Image Caption:
+- Image Caption: The library in the 27th House
 
 #### Short
 Proceeding, the party reaches another listening station, where the the [[Transcriptions from the Prisoner#The Prisoner|transcriptions]] addresses Hulda and the party directly. Beyond, in a library, a clockwork figure raises its head to study them.
