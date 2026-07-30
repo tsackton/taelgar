@@ -462,6 +462,20 @@ function subtypeForSubject(noteType, fields = {}) {
   return { values: [], label: "", source: "" };
 }
 
+function subtypeChoices(subjects, noteType = "") {
+  const byKey = new Map();
+  for (const subject of subjects || []) {
+    if (noteType && subject.noteType !== noteType) continue;
+    for (const subtype of toStrings(subject.subtypes)) {
+      const key = normalizeLoose(subtype);
+      if (key && !byKey.has(key)) byKey.set(key, subtype);
+    }
+  }
+  return [...byKey.values()].sort((left, right) =>
+    left.localeCompare(right)
+  );
+}
+
 function normalizedTokens(value) {
   const normalized = normalizeLoose(value);
   return normalized ? normalized.split(" ") : [];
@@ -2087,6 +2101,7 @@ module.exports = {
   provisionalNameInfo,
   nameReviewForSubject,
   subtypeForSubject,
+  subtypeChoices,
   cleanAlias,
   plausibleName,
   classifyVariant,

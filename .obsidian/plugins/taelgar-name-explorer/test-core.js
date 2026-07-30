@@ -62,6 +62,21 @@ function run() {
       source: "typeOf",
     },
   );
+  assert.deepEqual(
+    core.subtypeChoices([
+      { noteType: "person", subtypes: ["human", "elf"] },
+      { noteType: "person", subtypes: ["Human"] },
+      { noteType: "place", subtypes: ["settlement", "realm"] },
+    ], "person"),
+    ["elf", "human"],
+  );
+  assert.deepEqual(
+    core.subtypeChoices([
+      { noteType: "person", subtypes: ["human"] },
+      { noteType: "place", subtypes: ["settlement"] },
+    ]),
+    ["human", "settlement"],
+  );
 
   const taggedForNameReview = subject({
     tags: ["person", "status/check/name"],
