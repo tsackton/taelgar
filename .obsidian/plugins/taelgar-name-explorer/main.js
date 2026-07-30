@@ -270,6 +270,8 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
           const rawName = core.toStrings(frontmatter.name)[0];
           const sourceName = rawName || file.basename;
           const nameInfo = core.provisionalNameInfo(sourceName);
+          const noteType = core.chooseNoteType(tags);
+          const subtypeInfo = core.subtypeForSubject(noteType, frontmatter);
           const body = this.settings.scanTextEvidence
             ? await this.app.vault.cachedRead(file)
             : "";
@@ -281,7 +283,10 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
             rawName: sourceName,
             name: nameInfo.text,
             provisionalName: nameInfo.provisional,
-            noteType: core.chooseNoteType(tags),
+            noteType,
+            subtypes: subtypeInfo.values,
+            subtypeLabel: subtypeInfo.label,
+            subtypeSource: subtypeInfo.source,
             tags,
             title: core.toStrings(frontmatter.title),
             species: [
@@ -377,6 +382,7 @@ class NameExplorerView extends ItemView {
       language: "",
       status: "",
       noteType: "",
+      subtype: "",
       componentRole: "",
       relationship: "",
       nameReview: "",
@@ -576,6 +582,19 @@ class NameExplorerView extends ItemView {
     ));
     filters.appendChild(makeSelect(
       [
+        ["", "All subtypes"],
+        ...subtypeOptions(this.catalog),
+      ],
+      this.state.subtype,
+      (value) => {
+        this.state.subtype = value;
+        this.state.page = 1;
+        this.render();
+      },
+      "Subtype",
+    ));
+    filters.appendChild(makeSelect(
+      [
         ["", "All naming states"],
         ["needs-review", "Needs name review"],
         ["settled", "No name review flag"],
@@ -708,6 +727,12 @@ class NameExplorerView extends ItemView {
         this.state.noteType &&
         concept.subject.noteType !== this.state.noteType
       ) return false;
+      if (
+        this.state.subtype &&
+        !concept.subject.subtypes.some((subtype) =>
+          core.normalizeLoose(subtype) === core.normalizeLoose(this.state.subtype)
+        )
+      ) return false;
       if (this.state.relationship) {
         if (
           this.state.relationship === "unclassified" &&
@@ -727,6 +752,7 @@ class NameExplorerView extends ItemView {
           concept.preferredForm,
           concept.subjectName,
           concept.subjectPath,
+          concept.subject.subtypeLabel,
           concept.effectiveLanguage.language,
           concept.inferredLanguage.language,
           ...concept.forms.map((form) => form.text),
@@ -748,6 +774,9 @@ class NameExplorerView extends ItemView {
       switch (this.state.sortKey) {
         case "subjectName": return core.normalizeLoose(concept.subjectName);
         case "noteType": return concept.subject.noteType;
+        case "subtype": return core.normalizeLoose(
+          concept.subject.subtypeLabel,
+        );
         case "effectiveLanguage": return concept.languageSummary;
         case "inferredLanguage": return concept.inferredLanguage.language;
         case "kindLabel": return concept.kindLabel;
@@ -800,6 +829,7 @@ class NameExplorerView extends ItemView {
     this.renderSortableHeader(headerRow, "preferredForm", "Name");
     this.renderSortableHeader(headerRow, "subjectName", "Subject");
     this.renderSortableHeader(headerRow, "noteType", "Type");
+    this.renderSortableHeader(headerRow, "subtype", "Subtype");
     this.renderSortableHeader(headerRow, "effectiveLanguage", "Language");
     this.renderSortableHeader(headerRow, "inferredLanguage", "Inferred");
     this.renderSortableHeader(headerRow, "kindLabel", "Kind");
@@ -855,6 +885,9 @@ class NameExplorerView extends ItemView {
       });
 
       row.createEl("td", { text: concept.subject.noteType });
+      row.createEl("td", {
+        text: concept.subject.subtypeLabel || "—",
+      });
       row.createEl("td").appendChild(languageChip(
         concept.languageSummary,
         concept.languageSource,
@@ -875,7 +908,7 @@ class NameExplorerView extends ItemView {
       if (this.state.expanded.has(key)) {
         const detailRow = tbody.createEl("tr", { cls: "tne-detail-row" });
         const detailCell = detailRow.createEl("td", {
-          attr: { colspan: "10" },
+          attr: { colspan: "11" },
         });
         this.renderConceptDetails(detailCell, concept);
       }
@@ -1005,6 +1038,12 @@ class NameExplorerView extends ItemView {
         component.noteType !== this.state.noteType
       ) return false;
       if (
+        this.state.subtype &&
+        !component.subtypes.some((subtype) =>
+          core.normalizeLoose(subtype) === core.normalizeLoose(this.state.subtype)
+        )
+      ) return false;
+      if (
         this.state.componentRole &&
         component.role !== this.state.componentRole
       ) return false;
@@ -1014,6 +1053,7 @@ class NameExplorerView extends ItemView {
           component.displayName,
           component.subjectName,
           component.subjectPath,
+          component.subtypeLabel,
           component.role,
           component.effectiveLanguage.language,
           component.effectiveLanguage.family,
@@ -1031,6 +1071,7 @@ class NameExplorerView extends ItemView {
         case "displayName": return core.normalizeLoose(component.displayName);
         case "subjectName": return core.normalizeLoose(component.subjectName);
         case "noteType": return component.noteType;
+        case "subtype": return core.normalizeLoose(component.subtypeLabel);
         case "role": return component.role;
         case "effectiveLanguage": return component.effectiveLanguage.language;
         case "status": return component.status;
@@ -1080,6 +1121,7 @@ class NameExplorerView extends ItemView {
     this.renderSortableHeader(headerRow, "displayName", "Display name");
     this.renderSortableHeader(headerRow, "subjectName", "Subject");
     this.renderSortableHeader(headerRow, "noteType", "Type");
+    this.renderSortableHeader(headerRow, "subtype", "Subtype");
     this.renderSortableHeader(headerRow, "role", "Role");
     this.renderSortableHeader(headerRow, "effectiveLanguage", "Language");
     this.renderSortableHeader(headerRow, "status", "Review");
@@ -1130,6 +1172,7 @@ class NameExplorerView extends ItemView {
         }
       });
       row.createEl("td", { text: component.noteType });
+      row.createEl("td", { text: component.subtypeLabel || "—" });
       row.createEl("td", { text: component.role });
       const languageCell = row.createEl("td");
       const chip = languageChip(
@@ -1984,6 +2027,19 @@ function summarizeCatalog(catalog) {
 
 function conceptKey(concept) {
   return `${concept.subjectPath}\u0000${concept.id}`;
+}
+
+function subtypeOptions(catalog) {
+  const byKey = new Map();
+  for (const subject of catalog.subjects) {
+    for (const subtype of subject.subtypes || []) {
+      const key = core.normalizeLoose(subtype);
+      if (key && !byKey.has(key)) byKey.set(key, subtype);
+    }
+  }
+  return [...byKey.values()]
+    .sort((left, right) => left.localeCompare(right))
+    .map((subtype) => [subtype, subtype]);
 }
 
 function makeSelect(options, value, onChange, label) {

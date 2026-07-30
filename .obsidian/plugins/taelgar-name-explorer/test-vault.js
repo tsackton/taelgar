@@ -105,6 +105,12 @@ function buildSubject(file) {
   const rawName =
     field(lines, "name")[0] || path.basename(file.relative, ".md");
   const nameInfo = core.provisionalNameInfo(rawName);
+  const noteType = core.chooseNoteType(tags);
+  const species = field(lines, "species");
+  const subtypeInfo = core.subtypeForSubject(noteType, {
+    species,
+    typeOf: field(lines, "typeOf"),
+  });
   const locations = [];
   for (const line of lines) {
     for (const match of line.matchAll(/\blocation:\s*([^,}\]]+)/g)) {
@@ -118,10 +124,13 @@ function buildSubject(file) {
     rawName,
     name: nameInfo.text,
     provisionalName: nameInfo.provisional,
-    noteType: core.chooseNoteType(tags),
+    noteType,
+    subtypes: subtypeInfo.values,
+    subtypeLabel: subtypeInfo.label,
+    subtypeSource: subtypeInfo.source,
     tags,
     title: field(lines, "title"),
-    species: [...field(lines, "species"), ...field(lines, "subspecies")],
+    species: [...species, ...field(lines, "subspecies")],
     ancestry: field(lines, "ancestry"),
     locations: [...field(lines, "whereabouts"), ...locations],
     pronunciation: field(lines, "pronunciation")[0] || "",
@@ -165,6 +174,8 @@ function run() {
   );
   assert.ok(outerOcean);
   assert.equal(outerOcean.needsNameReview, true);
+  assert.equal(outerOcean.subject.subtypeLabel, "marine feature");
+  assert.equal(outerOcean.subject.subtypeSource, "typeOf");
   assert.equal(
     outerOcean.nameReviewReasons.includes("status/check/name"),
     true,
@@ -182,12 +193,23 @@ function run() {
     ["provisional-name-marker"],
   );
 
+  const houseOfSewick = concept(
+    catalog,
+    "Groups/Sembaran Noble Houses/House of Sewick.md",
+    "House of Sewick",
+  );
+  assert.ok(houseOfSewick);
+  assert.equal(houseOfSewick.subject.subtypeLabel, "family");
+  assert.equal(houseOfSewick.subject.subtypeSource, "typeOf");
+
   const derik = concept(
     catalog,
     "People/Historical Figures/Sembaran Royalty/Derik II.md",
     "Derik II",
   );
   assert.ok(derik);
+  assert.equal(derik.subject.subtypeLabel, "human");
+  assert.equal(derik.subject.subtypeSource, "species");
   assert.equal(derik.forms.some((form) => form.text === "King Derik II"), false);
   assert.equal(
     derik.components.some((component) =>
