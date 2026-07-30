@@ -24,7 +24,7 @@ WHERE !startswith(file.folder, "_") AND !typeOf
 TABLE
 typeOf as "Place Type"
 FROM #place and !"Worldbuilding" 
-WHERE !startswith(file.folder, "_") AND !contains(this.canonical, typeOf)
+WHERE !startswith(file.folder, "_") AND !contains(this.canonical, typeOf) AND typeOf
 ```
 
 ## Ancestry Counts

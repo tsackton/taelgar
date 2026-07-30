@@ -1,10 +1,10 @@
 ---
-tags:
-  - place
-  - status/stub
+tags: [place, status/stub, status/check/ai]
+typeOf: topographical feature
+typeOfAlias: mountain range
+whereabouts: Mawakel Peninsula
 dm_owner: tim
 dm_notes: important
-typeOf: topographical feature
 ---
 
 %% 

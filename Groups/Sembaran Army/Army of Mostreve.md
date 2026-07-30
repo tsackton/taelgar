@@ -24,8 +24,8 @@ In less troubled times, the three guard companies are established in five garris
 * the [[Cyfarthfa Garrison|garrison of Cyfarthfa]], north of the [[Rhewin]], near the [[Tyrwinghan Road]]
 * the [[Garn Tyrn Garrison|garrison of Garn Tyrn]], in the [[Maerwyn Mountains|Maerwyns]] near the source of the [[Daran]]
 * the [[Maerwyn Garrison]], in the southern [[Maerwyn Mountains|Maerwyns]] 
-* the [[Aben Garrison|garrison of the Aben]], in the [[~Tyrwinghan Hills~]] near the headwaters of the [[Aben]] River 
-* the [[Deganwy Garrison|garrison of Deganwy]], in the western [[~Tyrwinghan Hills~]], near the headwaters of the [[Llanfen]]
+* the [[Aben Garrison|garrison of the Aben]], in the [[Tyrwinghan Hills]] near the headwaters of the [[Aben]] River 
+* the [[Deganwy Garrison|garrison of Deganwy]], in the western [[Tyrwinghan Hills]], near the headwaters of the [[Llanfen]]
 
 Additionally, an ancient training ground and barracks on the shores of [[Tywynn Bay]] still serves as a headquarters and training barracks, especially for the Color Guard. 
 

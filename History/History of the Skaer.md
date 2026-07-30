@@ -13,7 +13,7 @@ This is a chronicle of the history of the [[Skaer]], from when they first settle
 ## Origins
 _before the Downfall_
 
-The Skaer have a long history on the Green Sea. Their myths and legends speak of coming from the east on great ships; they are descended from the ancient [[~Mariners~|seafaring culture]] that left [[Hkar]] and settled the [[Green Sea]] in the centuries before the [[The Downfall|Downfall]]. 
+The Skaer have a long history on the Green Sea. Their myths and legends speak of coming from the east on great ships; they are descended from the ancient [[Mariners|seafaring culture]] that left [[Hkar]] and settled the [[Green Sea]] in the centuries before the [[The Downfall|Downfall]]. 
 
 %%^Campaign:none%%
 ### DM Notes

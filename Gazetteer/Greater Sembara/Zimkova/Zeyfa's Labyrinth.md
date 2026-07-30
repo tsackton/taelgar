@@ -4,7 +4,6 @@ tags: [place, status/check/mike]
 campaignInfo:
   - {campaign: "Into the Chasm", type: visited, date: 1730-01-25}
 name: Zeyfa's Labyrinth
-typeOf: magical site
 typeOfAlias: labyrinth
 whereabouts:
   - {type: primary, location: Great Chasm}

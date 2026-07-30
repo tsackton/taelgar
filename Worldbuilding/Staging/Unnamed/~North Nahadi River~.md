@@ -1,9 +1,10 @@
 ---
-tags:
-  - place
-  - status/stub
+tags: [place, status/stub, status/check/ai]
 typeOf: waterway
-dm_notes: none
-dm_owner: tim
 typeOfAlias: river
+whereabouts:
+  - {type: primary, location: Greater Chardon}
+  - {type: secondary, location: Chasa-Nahadi Watershed}
+dm_owner: tim
+dm_notes: none
 ---
