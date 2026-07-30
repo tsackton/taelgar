@@ -1,8 +1,10 @@
 ---
-tags:
-  - place
+tags: [place, status/check/ai]
 typeOf: marine feature
 typeOfAlias: bay
+whereabouts: Northwest Coast
+dm_owner: none
+dm_notes: none
 ---
 
 The large bay north of the [[Mawakel Peninsula]] along the west coast

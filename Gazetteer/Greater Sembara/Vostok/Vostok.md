@@ -15,6 +15,20 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% naming brainstorming
+
+Vostok is probably Vosic in origin, but Drankorian in geographic scope. Something like:
+
+- In some early Vosic language, **vos** means something like “people,” probably with the implicit sense of “us” or “the community.”
+- **Vostok** is an ordinary expression meaning “the people’s country,” “our homeland,” or simply “home country.” It was probably originally not really though of as a proper noun. 
+- Drankorian surveyors encounter people identifying themselves as _Vos_ and describing their country as _Vostok_. They record both as proper names and apply _Vostok_ to the entire region beyond the Volta, basically as far northwest as the wall and northeast as the mountains, even though this merges across diverse communities that did not consider themselves one people or one country.
+- Thus, *Vostok* may be Vosic in origin but Drankorian in its geographic scope. The Drankorians created the idea of one region called Vostok, not necessarily the word itself.
+- This classification ignored local cultural divisions and may have cut directly through areas inhabited by the [[Zimka]] or other distinct peoples.
+- **Vosland** is a later Sembaran/Common translation or calque: “land of the Vos.”
+
+%%
+
+
 %% status/incomplete -> a blank spot that has minimal clear invention; probably okay to remain status/incomplete for a while %%
 
 %% a fair bit of discussion in discord, but not sure how much of it is (a) relevant, (b) not already captured in [[Humanity in Greater Sembara]] or [[Languages]] %%

@@ -28,7 +28,7 @@ This region is entirely ocean, mostly temperate. The near shores are relatively 
 The ocean is broadly similar to the western Pacific. A warm current runs north of the [[Mawakel Peninsula]], and a cool current (similar to the Humbolt, but running southward instead of northward) runs past [[Apporia]]. 
 %%^End%%
 ## Major Historical Eras
-Little is known of the history of the oceans, although halfling songs speak of the ancient [[~Mariners~]], who left Hkar and crossed the [[Endless Ocean]] to reach the [[Green Sea]]. Many speak of the lost birthplace of humanity, the now sunken island of [[Hkar]], but where it lies is not known.
+Little is known of the history of the oceans, although halfling songs speak of the ancient [[Mariners]], who left Hkar and crossed the [[Endless Ocean]] to reach the [[Green Sea]]. Many speak of the lost birthplace of humanity, the now sunken island of [[Hkar]], but where it lies is not known.
 
 %%^Campaign:None%%
 ## DM Notes and Meta

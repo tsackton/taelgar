@@ -44,7 +44,7 @@ For more detail, see the [[Green Sea]] page. In general:
 
 %%^End%%
 ## Major Historical Eras
-Little is known of the history of this region, although the [[Skaer]] and other [[~Mariners~|ancient mariner cultures]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[~Mariners~]] were the first humans to settle in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [[The Downfall|Downfall]] much of the [[Green Sea]] was covered by vast swamps and wetlands inhabited by lizardfolk. 
+Little is known of the history of this region, although the [[Skaer]] and other [[Mariners|ancient mariner cultures]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[Mariners]] were the first humans to settle in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [[The Downfall|Downfall]] much of the [[Green Sea]] was covered by vast swamps and wetlands inhabited by lizardfolk. 
 
 %%^Campaign:None%%
 ## DM Notes and Meta

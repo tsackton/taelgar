@@ -4,7 +4,7 @@ tags: [place, status/stub]
 displayDefaults: {defArt: ""}
 name: Garn Tyrn
 pronunciation: GARN TEERN
-typeOf: topographic feature
+typeOf: topographical feature
 typeOfAlias: mountain peak
 whereabouts: Maerwyn Mountains
 ---

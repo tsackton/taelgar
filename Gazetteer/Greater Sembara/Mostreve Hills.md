@@ -31,19 +31,19 @@ The east-west hills are:
 
 * The [[Valenfray Hills]] form a line of gentle rolling hills that run in a broken east-west line, from roughly the [[Aure]] to where they meet the [[Maerwyn Mountains]].  This ridgeline partially separates [[Addermarch]] from the [[Darkwood]]. The westerly parts of these hills are typically gentle, rolling hills with light forests, and are settled by foresters and others. As they ascend to meet the [[Maerwyn Mountains|Maerwyns]], the terrain grows rougher, with many sharp ravines, making travel challenging. These hills have been extensively fortified over many years by [[Addermarch]] to guard its southern borders from the [[Plaguelands]] and the [[Darkwood]]. 
 
-- The [[~Tyrwinghan Hiills~]] form a line of hills and valleys running roughly east-west from the [[Maerwyn Mountains|Maerwyns]] to the [[Mistfold Mountains]].  
+- The [[Tyrwinghan Hills]] form a line of hills and valleys running roughly east-west from the [[Maerwyn Mountains|Maerwyns]] to the [[Mistfold Mountains]].  
 
 In between these ridge lines are several major gaps:
 * The [[Aure]] river flows north between the eastern edge of the [[Westcliff]] and the western edge of the [[Maerwyn Mountains]], forming a broad and fertile river valley fed by many small streams. 
 * The Darkwood creeps north between the [[Westcliff]] ridge and the [[Valenfray Hills]], forming a hilly wildland on the southern borders of [[Addermarch]]. The [[Shadowmere]], a low-lying swampy depression, sits in this gap. 
-* Between the [[Maerwyn Mountains]] and the [[Mistfold Mountains]], the land is hilly but there are few high ridgelines, and multiple passes cut through the [[~Tyrwinghan Hills~]] immediately northwest of [[Orenlas]]. 
+* Between the [[Maerwyn Mountains]] and the [[Mistfold Mountains]], the land is hilly but there are few high ridgelines, and multiple passes cut through the [[Tyrwinghan Hills]] immediately northwest of [[Orenlas]]. 
 
 The Mostreve Hills, then, can be divided into a number of overall regions based on these features:
 * The [[Westcliff]] Ridge and associated hills
 * The western Aure river valley, where the hills are gentler and rolling and typically wooded except where cleared for pasture and orchards. This is a land of rushing river valleys broken by rugged, hilly forests, but with few truly high peaks. 
 * The eastern Aure river valley and nearby foothills, between the [[Valenfray Hills]] and the [[Maerwyn Mountains]], where the soil is poorer and the land is  grasslands mixed with rocky outcroppings
 * The [[Darkwood]] itself, between the [[Westcliff]] and [[Valenfray Hills]], and stretching south beyond the reach of the Mostreve Hills
-* The Tyrwinghan foothills, between [[Maerwyn Mountains|Maerwyns]] and the [[~Tyrwinghan Hiills~]], a land of rolling forested hills
+* The Tyrwinghan foothills, between [[Maerwyn Mountains|Maerwyns]] and the [[Tyrwinghan Hills]], a land of rolling forested hills
 * The Tyrwinghan highlands, along the eastern side of the [[Maerwyn Mountains|Maerwyns]], a land of high occasionally snowcapped peaks and difficult to pass valleys
 
 
@@ -55,7 +55,7 @@ The Mostreve Hills, then, can be divided into a number of overall regions based 
 W = Westcliff
 A except (1) = Valenfray Hills
 A(1), T, and NT = [[Maerwyn Mountains]]
-O except (1) = ~Tyrwinghan Hlls~
+O except (1) = Tyrwinghan Hlls
 O(1) = part of ~Cymean Border Mountains~
 
 --- 

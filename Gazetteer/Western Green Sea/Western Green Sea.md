@@ -98,7 +98,7 @@ The story of the [[Skaer]] is well attested in religious and legendary sagas on 
 That said, historians in [[Tollen]] will agree on at least a broad story:
 #### Skaer Era
 _Before CY 4535_
-The [[Skaer]] settled the [[Skaerhem|Skaer Islands]] in the ancient days before the [[The Downfall|Downfall]], one of several human cultures that arose from the great [[~Mariners~|Mariner Exodus]] from [[Hkar]]. The Skaer established an maritime empire centered on the [[Vostok]] coast and the [[Western Gulf]], but also stretching as far south as the [[Mistfold Mountains]] and as far west as [[Embry]]. The Skaer claim their empire included the [[~Cymean Archipelago~]], but some [[Cymea|Cymean]] sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the [[~Cymean Archipelago~]] was never Skaerish or Drankorian.
+The [[Skaer]] settled the [[Skaerhem|Skaer Islands]] in the ancient days before the [[The Downfall|Downfall]], one of several human cultures that arose from the great [[Mariners|Mariner Exodus]] from [[Hkar]]. The Skaer established an maritime empire centered on the [[Vostok]] coast and the [[Western Gulf]], but also stretching as far south as the [[Mistfold Mountains]] and as far west as [[Embry]]. The Skaer claim their empire included the [[~Cymean Archipelago~]], but some [[Cymea|Cymean]] sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the [[~Cymean Archipelago~]] was never Skaerish or Drankorian.
 
 (_The details of what these "other sources" say is known but not yet invented. - Eds.)_
 #### Drankorian Era

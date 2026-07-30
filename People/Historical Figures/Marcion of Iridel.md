@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/feywild]
 gender: male
 species: human
 ancestry: Drankorian

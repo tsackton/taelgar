@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session.yaml",
+  "beats": [
+    {
+      "beatId": "b001",
+      "title": "The Library's Watcher",
+      "startUid": "u0001",
+      "endUid": "u0460",
+      "lineCount": 460,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After the recap and character introductions, the party questions the library's clockwork research assistant about the prison, the mushroom men, and those who previously passed through the keyed door; the beat closes after Kaito's joking declaration of friendship.",
+      "dateEvidence": [
+        "Session metadata fixes both drStart and drEnd at 1740-10-06.",
+        "The session resumes directly where the prior episode ended, in the library on the morning of 1740-10-06."
+      ]
+    },
+    {
+      "beatId": "b002",
+      "title": "The Soul-Binding Choice",
+      "startUid": "u0461",
+      "endUid": "u0810",
+      "lineCount": 350,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Txarro's Augury returns as the party investigates soul-binding research, confronts Menestheus about the order, and weighs returning the glass key against entering the prison; Edric's divine sense condemns the library's work, the group decides to go through the door, and Txarro burns the soul-binding book.",
+      "dateEvidence": [
+        "This discussion continues directly from the library questioning on 1740-10-06.",
+        "No rest, travel interval, or time-of-day transition occurs in this range."
+      ]
+    },
+    {
+      "beatId": "b003",
+      "title": "Stories at the Prison Door",
+      "startUid": "u0811",
+      "endUid": "u1128",
+      "lineCount": 318,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The research assistant chooses the name Aurae and tells allegorical stories about Edric, Kaito, Ayveen, and Txarro before joining the party; at the three superimposed prison doors, the group chooses the child, escapes the transformed Menestheus, and enters the lightless 27th Room.",
+      "dateEvidence": [
+        "The party prepares to leave the library immediately after deciding to enter the prison on 1740-10-06.",
+        "The episode ends inside the 27th Room without any rest or in-world time jump."
+      ]
+    }
+  ]
+}
