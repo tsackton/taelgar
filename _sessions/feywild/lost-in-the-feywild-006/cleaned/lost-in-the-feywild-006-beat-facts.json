@@ -1,0 +1,229 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-beats.json",
+  "facts": [
+    {
+      "beatId": "b001",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party questions Aurae, the library's clockwork research assistant, about the glass key, the prison, and the mushroom men who emerged from its central room.",
+      "longSummary": "After recapping the journey and reconsidering their motives, the party meets the limbless clockwork research assistant later named Aurae. It explains that it synthesizes the library's contents, measures centuries through the aging of paper, and writes stories about visitors. Aurae recalls an unnamed human order member who read Allegories for the Initiated before entering the prison, confirms that the glass key can be removed and used elsewhere, and refuses direct questions about the prisoner. It reports that roughly two-thirds of those who entered—112 people—returned as mushroom men, whom it judged untrustworthy, while the others never emerged.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "room 26 library immediately outside the central prison",
+        "notes": "The session resumes in the library where the preceding episode ended."
+      },
+      "npcs": [
+        {
+          "name": "Aurae",
+          "role": "encountered",
+          "context": "clockwork research assistant in the room 26 library",
+          "notes": "It mirrors Kaito, answers research questions, and reveals that it has spent centuries alone reading the library and writing stories about visitors."
+        },
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "infected Drankorian mathematician and mapmaker",
+          "notes": "He remains with the party but is wheezing, coughing, and increasingly unwell."
+        },
+        {
+          "name": "the prisoner",
+          "role": "mentioned",
+          "context": "being confined behind the keyed central door",
+          "notes": "Aurae is prohibited from sharing direct information about the prisoner."
+        },
+        {
+          "name": "Lord Endless Ending",
+          "role": "mentioned",
+          "context": "fey lord who asked for the glass key",
+          "notes": "The party considers whether returning the key to him would help them escape."
+        },
+        {
+          "name": "Hulda",
+          "role": "mentioned",
+          "context": "the party's original employer",
+          "notes": "His bargain and connection to the prisoner remain part of the party's decision."
+        },
+        {
+          "name": "unnamed human order member",
+          "role": "mentioned",
+          "context": "last visitor Aurae remembers before the party",
+          "notes": "She requested Allegories for the Initiated, left it on Aurae's desk, and entered the prison."
+        }
+      ],
+      "items": [
+        {
+          "name": "glass key",
+          "role": "encountered",
+          "notes": "The pale blue glass key sits in the prison door and can also unlock the complex's front door."
+        },
+        {
+          "name": "Allegories for the Initiated",
+          "role": "encountered",
+          "notes": "A collection of riddles and fairy-tale-like stories meant to reveal the order's secrets to readers who already understand them."
+        },
+        {
+          "name": "Zharuk Akhal",
+          "role": "mentioned",
+          "notes": "A circulation notice on an empty shelf says this cosmological treatise is out by special dispensation."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "The library, Aurae, and the prison records are surviving parts of the order's complex."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b002",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Research into soul bindery recasts the prisoner as a possible victim, and Edric's divine warning leads the party to choose the prison door and burn the offending tome.",
+      "longSummary": "Txarro's Augury indicates that returning the glass key to Lord Endless Ending is dangerous but not simply bad. Aurae directs the party to On the Science and Possibilities of Soul Bindery, whose author advocates exploiting captive souls and mentions an escape from a soul hoard through a door in a tree root beyond the setting sun. The party debates whether the central prisoner is being harvested for power, while a feverish Menestheus denies knowing about such work but still defends Arithrimos Lamperum's mission. Edric's Detect Evil and Good reveals that both the book and Aurae violate the proper order of life and death, persuading the group to enter the prison and try to free its captive; Txarro then cures his own infection with Lesser Restoration and burns the soul-binding book.",
+      "location": {
+        "kind": "fixed",
+        "primary": "27th Room",
+        "context": "room 26 library immediately outside the central prison",
+        "notes": "The party remains in the library while researching and deciding which course to take."
+      },
+      "npcs": [
+        {
+          "name": "Aurae",
+          "role": "encountered",
+          "context": "clockwork research assistant",
+          "notes": "It locates the soul-binding sources, provides records about the order, and says all progress requires sacrifice."
+        },
+        {
+          "name": "Menestheus",
+          "role": "companion",
+          "context": "severely ill order member",
+          "notes": "He drifts in and out of consciousness, denies knowing about soul destruction, and remains committed to the order's protection of planar boundaries."
+        },
+        {
+          "name": "the prisoner",
+          "role": "mentioned",
+          "context": "possible captive source of soul energy",
+          "notes": "The party begins to view the prisoner as a potential victim despite its creation of mushroom men."
+        },
+        {
+          "name": "Lord Endless Ending",
+          "role": "mentioned",
+          "context": "alternative recipient of the glass key",
+          "notes": "Returning the key to him remains the alternative to entering the prison directly."
+        }
+      ],
+      "items": [
+        {
+          "name": "On the Science and Possibilities of Soul Bindery",
+          "role": "encountered",
+          "notes": "The ancient tome promotes using captive soul energy for liches, golems, and other applications; Txarro burns it at Edric's request."
+        },
+        {
+          "name": "glass key",
+          "role": "encountered",
+          "notes": "The party chooses to use it to enter the central prison instead of immediately returning it to Lord Endless Ending."
+        },
+        {
+          "name": "portable space-time clock",
+          "role": "encountered",
+          "notes": "Edric's divine sense does not detect the wrongness associated with the soul-binding book and Aurae in Tarek's clock."
+        },
+        {
+          "name": "The Shape of Discovery",
+          "role": "mentioned",
+          "notes": "Aurae's remark that curiosity is an incurable addiction recalls the treatise the party found earlier in the complex."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "role": "encountered",
+          "notes": "Its surviving writings discuss soul destruction and indefinite life extension, though Menestheus denies knowledge of that work."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b003",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Aurae names itself, tells personalized allegories, and joins the party before the transformed Menestheus lunges at them as they escape into the lightless 27th Room.",
+      "longSummary": "The research assistant accepts the name Aurae and asks to tell the party their stories before leaving with them. Its allegories cast Edric as a trustworthy friend deciding how to respond to a stolen sun, Kaito as an unplanted wandering seed, Ayveen as a forester seeking an orderly grove, and Txarro as a protector confronting the forgotten monster beneath a healer's house. The party straps Aurae into a backpack and approaches three superimposed prison doors showing the same captive as a child beside a well, a joyful young adult with a shining basket, and a prematurely aged, fearful figure. They choose the child, but Menestheus completes his transformation into a mushroom man and reaches for Txarro; Txarro becomes a tiny anole lizard, evades the attack, and the group carries Aurae through the door, leaving the glass key engaged behind them and ending in impenetrable darkness.",
+      "location": {
+        "kind": "journey",
+        "from": "room 26 library (27th Room)",
+        "to": "central prison (27th Room)",
+        "context": "through the three superimposed prison doors",
+        "notes": "The party ends inside the lightless central room after shutting the door on the transformed Menestheus."
+      },
+      "npcs": [
+        {
+          "name": "Aurae",
+          "role": "companion",
+          "context": "clockwork research assistant joining the party",
+          "notes": "It chooses its name, tells allegorical stories about four party members, and is carried through the prison door as a backpack."
+        },
+        {
+          "name": "Menestheus",
+          "role": "enemy",
+          "context": "fully transformed mushroom man",
+          "notes": "He remains behind in the library, reaches for Txarro with impossibly long arms and fingers, and misses as the party escapes."
+        },
+        {
+          "name": "the prisoner",
+          "role": "encountered",
+          "context": "captive seen in three superimposed states through the prison doors",
+          "notes": "The party sees the prisoner as a child, a joyful young adult, and a prematurely aged and fearful figure before choosing the child's door."
+        },
+        {
+          "name": "Marcion of Iridel",
+          "role": "mentioned",
+          "context": "Drankorian cosmologist represented in the library",
+          "notes": "A whole shelf is devoted to his works, including The Riven Veil."
+        }
+      ],
+      "items": [
+        {
+          "name": "glass key",
+          "role": "encountered",
+          "notes": "It opens the chosen prison door but must remain engaged in the lock, so the party cannot take it inside."
+        },
+        {
+          "name": "threefold prison door",
+          "role": "encountered",
+          "notes": "Three doors occupy the same space and show different temporal states of the prisoner."
+        },
+        {
+          "name": "Journey of the Souls",
+          "role": "encountered",
+          "notes": "The party passes a shelf containing this work and a five-volume commentary on it."
+        },
+        {
+          "name": "Journey of the Souls: A Refutation",
+          "role": "encountered",
+          "notes": "A five-volume refutation shelved immediately after Journey of the Souls."
+        },
+        {
+          "name": "The Riven Veil",
+          "role": "encountered",
+          "notes": "A Drankorian treatise by Marcion of Iridel, seen among a shelf devoted to his works."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

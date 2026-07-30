@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [background]
-excludePublish: ["all"]
+excludePublish: ["clee"]
 dm_owner: none
 dm_notes: none
 ---
@@ -109,9 +109,9 @@ The school's founder, date, and principal texts have not been established. Its g
 
 [[Yendalism]] divides reality according to its relationship to the [[Land of the Dead|Divine Veil]], producing the [[Inner Realms]] and [[Outer Realms]]. [[Yendalo]] rejects elaborate taxonomies that treat named subdivisions as proof of metaphysical difference. His alternative asks what realms sustain, separate, connect, and draw toward themselves.
 
-This disagreement is also epistemological. Yendalo treats contemplation, meditation, and mystical vision as disciplined methods of inquiry alongside careful reasoning. His conflict is therefore primarily with the dominant methods of human academic wizardry, not with Stoneborn society or with scholarship itself.
+This disagreement is also epistemological. Yendalo treats contemplation, meditation, and mystical vision as disciplined methods of inquiry alongside careful reasoning. His conflict is therefore primarily with the dominant methods of human academic wizardry.
 
-Yendalo's historical date is unknown, though it would fit into a late Drankorian or early Chardonian context most naturally. 
+Yendalo's historical date is unknown, though he would fit into a late Drankorian or early Chardonian context most naturally. 
 
 ### Avariel's multidimensional web
 
@@ -155,8 +155,6 @@ Later Faculty scholars have translated these images into hypotheses about positi
 
 Airion died during the Great War, and much of his work was lost during the Blood Years. Its recent recovery by the [[Great Library]] means that a prewar theory has only now become a major modern controversy.
 
-Current DM material leans toward Airion's compound model, possibly combined with the positive and negative planes suggested by Aznoké, but intentionally leaves open whether particular compound realms are independent planes, border regions, or parts of larger elemental planes.
-
 ## Planar Connections, Weak Points, and Planar Geography
 
 This strand developed from the practical problem that “connection” describes several different phenomena.
@@ -179,9 +177,9 @@ In the DR 900s, [[Gaius Devarro]] collected evidence for places where Ley Lines 
 
 The failure discredited Harbek's model, not necessarily the more general idea of planar drift. His work remains the most developed attempt to make planar relations predictively mathematical.
 
-### Current DM taxonomy
+### Current View
 
-The current distinction among extraplanar weak points, temporary vortexes or upwellings, and actual portals is primarily a DM organizational framework recorded in [[Planar Connections]]. It should not automatically be attributed to one in-world scholar:
+The current distinction among extraplanar weak points, temporary vortexes or upwellings, and actual portals is primarily an organizational framework recorded in [[Planar Connections]]. It should not automatically be attributed to one in-world scholar:
 
 - Weak points transmit planar influence but do not permit or ease travel.
 - Vortexes or upwellings are temporary, often unpredictable connections that can transport creatures.

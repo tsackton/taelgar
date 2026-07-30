@@ -37,7 +37,7 @@ tags: [background, status/check/ai]
 - A useful unifying idea is not that every ridge is made of the same stone, but that the province preserves several bands of differently resistant rock:
   - **Westcliff:** massive, resistant layered stone—perhaps quartz-rich sandstone or a similar hard caprock—would suit its broken crags, stepped ledges, and dramatic western escarpment.
   - **Maerwyns:** harder crystalline or metamorphic-looking stone would help explain why the [[Maerwyn Mountains]] stand above the surrounding hill country.
-  - **Valenfray and Tyrwinghan hills:** alternating hard and soft beds would produce long, lower ridges separated by valleys, with sharp ravines where streams cut across them.
+  - **Valenfray and [[Tyrwinghan Hills]]:** alternating hard and soft beds would produce long, lower ridges separated by valleys, with sharp ravines where streams cut across them.
   - **Cymean uplands:** limestone or another soluble pale stone should become increasingly important toward Cymea, supporting the established karst terrain, caves, sinking rivers, and underground channels.
 - These are descriptions of what the rocks look like and how they behave, not evidence for tectonic history.
 - The whole province should feel more like an extensive wooded upland than an alpine chain. Elevation matters less than relief, broken ground, and the arrangement of its ridges.
@@ -55,11 +55,11 @@ tags: [background, status/check/ai]
 - The [[Valenfray Hills]] are the lower southern branch: gentle and settled in the west, then rougher and more deeply ravined as they approach the Maerwyns.
 - The [[Maerwyn Mountains]] form the second major high mass. Their southern portion near the [[Branth]] headwaters is the highest and roughest, while the northern continuation declines toward the [[Enst]] valley.
 - The Tyrwinghan side should generally be a little gentler and wetter than the sharp southwestern approaches, supporting wooded slopes, vineyards, and settled river valleys.
-- The mixed orientation of Westcliff, the Maerwyns, Valenfray, and the Tyrwinghan hills is a feature rather than a problem: this is a knot of intersecting primordial ridges, not a neat fold belt produced by a single directional collision.
+- The mixed orientation of Westcliff, the Maerwyns, Valenfray, and the [[Tyrwinghan Hills]] is a feature rather than a problem: this is a knot of intersecting primordial ridges, not a neat fold belt produced by a single directional collision.
 
 ## The Tyrwinghan and Latazaro transition
 
-- Between the Maerwyns and Cymea, the terrain lowers into the Tyrwinghan hills and valleys. Existing geography already allows several passes immediately northwest of Orenlas.
+- Between the Maerwyns and Cymea, the terrain lowers into the [[Tyrwinghan Hills]] and valleys. Existing geography already allows several passes immediately northwest of Orenlas.
 - This lower country is the western decay of the Cymean range:
   - wooded limestone ridges;
   - springs and short, rocky streams;

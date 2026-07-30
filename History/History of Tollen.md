@@ -41,7 +41,7 @@ Development into a mercantile culture: From that earliest point, Tollen gains 
 ## The Skaer Empire
 *Downfall - DR 402*
 
-In the aftermath of the [[The Downfall|Downfall]], the seas shifted, the ocean turned violent, and the land dried up, the great swamps of the lizardfolk south of Tollen shrinking to small remnants. Many people die in storms and famine. During this time, the [[Skaer]] emerge from the ancient [[~Mariners~|seafarers]] who originally settled Tollen, and become the dominant people of the [[Western Green Sea]], worshipping the ocean goddess [[Kaikkea]]. Tollen becomes a major port and trade center under [[Skaer]] rule. However, to the south, the influence of the [[Drankorian Empire]] is growing, and this era ends when the [[Skaer]] sign the [[Treaty of Marhavn]] with [[Drankorian Empire|Drankor]]. 
+In the aftermath of the [[The Downfall|Downfall]], the seas shifted, the ocean turned violent, and the land dried up, the great swamps of the lizardfolk south of Tollen shrinking to small remnants. Many people die in storms and famine. During this time, the [[Skaer]] emerge from the ancient [[Mariners|seafarers]] who originally settled Tollen, and become the dominant people of the [[Western Green Sea]], worshipping the ocean goddess [[Kaikkea]]. Tollen becomes a major port and trade center under [[Skaer]] rule. However, to the south, the influence of the [[Drankorian Empire]] is growing, and this era ends when the [[Skaer]] sign the [[Treaty of Marhavn]] with [[Drankorian Empire|Drankor]]. 
 
 Most people believe that the oldest parts of Tollen -- [[Fiskurth]], [[Skepwalk]], and [[Aesganstrad]] -- were settled during this era. 
 
