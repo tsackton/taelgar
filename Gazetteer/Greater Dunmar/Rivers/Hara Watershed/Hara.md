@@ -14,7 +14,7 @@ typeOfAlias: river
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Hara flows 750 miles through the [[Hara Basin]], from its source in the foothills of the [[Sentinel Range]] to the [[~Hara River Gorge~]]. Once, it flowed more than twice that length in total, joining the [[Istaros]] north of [[Drankor]]. Whether it still does after the cataclysms and upheavals following the [[Great War]], no one knows.
+The Hara flows 750 miles through the [[Hara Basin]], from its source in the foothills of the [[Sentinel Range]] to the [[Hara Gorge]]. Once, it flowed more than twice that length in total, joining the [[Istaros]] north of [[Drankor]]. Whether it still does after the cataclysms and upheavals following the [[Great War]], no one knows.
 
 At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [[Hara Basin]]. As the Hara enters the [[Hara Basin]], it slows and widens as it meanders south towards [[Tokra]], joined first by the [[Sone]] and then by the [[Thandar]], along with several minor tributaries. 
 
@@ -26,9 +26,9 @@ South of [[Tokra]], the river passes through a series of small canyons on the ru
 
 Just north of [[Askandi]], the terrain levels, and the Hara pursues a slow, twisting path southeast. [[Askandi]] sits on the floodplains of the [[~Lower Hara Valley~]], a wide flat basin between the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau. Here, virtually no rain falls, even during the monsoon, but the flood of the Hara, swollen from monsoon rains to the north, sustains a rich riparian ecosystem and the city of [[Askandi]] itself. 
 
-Beyond [[Askandi]], the land begins to rise again as the [[Garamjala Desert|Garamjala]] Plateau joins the [[Yuvanti Mountains]]. This is a land of dry desert canyons, as the Hara narrows again as it cuts through the [[highlands]] via the [[~Hara River Gorge~]]. 
+Beyond [[Askandi]], the land begins to rise again as the [[Garamjala Desert|Garamjala]] Plateau joins the [[Yuvanti Mountains]]. This is a land of dry desert canyons, as the Hara narrows again as it cuts through the [[highlands]] via the [[Hara Gorge]]. 
 
-Beyond the [[~Hara River Gorge~]], no one knows the fate of the river. Does it feed a seasonal lake in the depths of the [[Garamjala Desert|Garamjala]]? Does it flow all the way through the plateau to join the [[Istaros]], as it once did? Or does something stranger happen?
+Beyond the [[Hara Gorge]], no one knows the fate of the river. Does it feed a seasonal lake in the depths of the [[Garamjala Desert|Garamjala]]? Does it flow all the way through the plateau to join the [[Istaros]], as it once did? Or does something stranger happen?
 ## In Dunmari Culture
 
 The Hara is a central river of Dunmari myth and culture. Before the [[Great War]], when the Dunmari settled in this land, the two great rivers of the Hara and the [[Kharja]], collectively known as Jeevali's Tears, provided water and sustenance to much of the people of the [[Hara Basin]]. Before the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau were raised, these rivers were separated only by the high land around [[Karawa]], and the monsoons swept across the entire plains, supporting a rich grassland ecosystem.

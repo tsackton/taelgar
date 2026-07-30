@@ -17,13 +17,13 @@ typeOfAlias:
 
 %% note: total size is about 37,000 square miles, roughly the size of Portugal, or Virginia%%
 
-Geographically, the Darba Highlands transition to the [[Hara Basin]] at the height of land in the [[~Yuvanti Gap~]], between the Yuvanti and the [[Chataan Mountains]], but culturally, this region typically stretches as far as the [[Copper Hills]].
+Geographically, the Darba Highlands transition to the [[Hara Basin]] at the height of land in the [[Rudhan Heights]], between the Yuvanti and the [[Chataan Mountains]], but culturally, this region typically stretches as far as the [[Copper Hills]].
 
-The largest and most significant river is the [[Rudhan]], which flows from the [[~Yuvanti Gap~]] to the [[Nevos Sea]], and passes by the city of [[Darba]]. But numerous other small rivers dot the landscape, and many more appear during the monsoon rains. 
+The largest and most significant river is the [[Rudhan]], which flows from the [[Rudhan Heights]] to the [[Nevos Sea]], and passes by the city of [[Darba]]. But numerous other small rivers dot the landscape, and many more appear during the monsoon rains. 
 
 %% note: partial inspiration is [Kakadu National Park](https://en.wikipedia.org/wiki/Kakadu_National_Park), although the Darba Highlands are more subtropical than tropical %%
 
-The Darba Highlands have a strong hydrological gradient, with the area around the [[~Yuvanti Gap~]] arid and rocky, and the terrain getting increasingly wet and lush to the west and south, heading towards the [[Nevos Sea]]. The monsoons have a large impact, as the rains tend to lessen as they pass over the highlands.
+The Darba Highlands have a strong hydrological gradient, with the area around the [[Rudhan Heights]] arid and rocky, and the terrain getting increasingly wet and lush to the west and south, heading towards the [[Nevos Sea]]. The monsoons have a large impact, as the rains tend to lessen as they pass over the highlands.
 
 ![[darba-highlands-river-monsoon.png]]
 *The [[Rudhan]] after the monsoon.*

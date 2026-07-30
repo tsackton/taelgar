@@ -29,6 +29,39 @@ function run() {
     core.NOTE_TYPES,
     ["ancestry", "place", "group", "power", "person"],
   );
+  assert.deepEqual(
+    core.subtypeForSubject("person", {
+      species: ["elf"],
+      subTypeOf: ["high elf"],
+      typeOf: ["ruler"],
+    }),
+    {
+      values: ["elf"],
+      label: "elf",
+      source: "species",
+    },
+  );
+  assert.deepEqual(
+    core.subtypeForSubject("place", {
+      subTypeOf: ["ruined"],
+      typeOf: ["settlement"],
+    }),
+    {
+      values: ["settlement"],
+      label: "settlement",
+      source: "typeOf",
+    },
+  );
+  assert.deepEqual(
+    core.subtypeForSubject("place", {
+      typeOf: ["marine feature"],
+    }),
+    {
+      values: ["marine feature"],
+      label: "marine feature",
+      source: "typeOf",
+    },
+  );
 
   const taggedForNameReview = subject({
     tags: ["person", "status/check/name"],
@@ -110,6 +143,12 @@ function run() {
   assert.equal(derikConcepts.length, 1);
   assert.equal(derikConcepts[0].forms.length, 1);
   const derikCatalog = core.buildCatalog([derik], []);
+  assert.equal(derikCatalog.concepts[0].subject.subtypeLabel, "human");
+  assert.equal(derikCatalog.concepts[0].subject.subtypeSource, "species");
+  assert.deepEqual(
+    core.catalogExportRecords(derikCatalog)[0].subtypes,
+    ["human"],
+  );
   assert.deepEqual(
     derikCatalog.concepts[0].components.map((component) => [
       component.text,
@@ -207,6 +246,24 @@ function run() {
   assert.deepEqual(
     sentinelConcepts[0].forms.map((form) => form.text),
     ["Sentinel Range", "Sentinels", "Sentinel Mountains"],
+  );
+
+  const nobleHouse = subject({
+    name: "House of Example",
+    noteType: "group",
+    tags: ["group"],
+    species: [],
+    subTypeOf: ["noble house"],
+    typeOf: ["family"],
+  });
+  const nobleHouseCatalog = core.buildCatalog([nobleHouse], []);
+  assert.equal(
+    nobleHouseCatalog.concepts[0].subject.subtypeLabel,
+    "family",
+  );
+  assert.equal(
+    nobleHouseCatalog.components[0].subtypeLabel,
+    "family",
   );
 
   const serrania = subject({

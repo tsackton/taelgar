@@ -437,6 +437,31 @@ function nameReviewForSubject(subject) {
   };
 }
 
+function subtypeForSubject(noteType, fields = {}) {
+  const candidates = noteType === "person"
+    ? [["species", fields.species]]
+    : [["typeOf", fields.typeOf]];
+  for (const [source, rawValues] of candidates) {
+    const values = [];
+    const seen = new Set();
+    for (const rawValue of toStrings(rawValues)) {
+      const value = cleanAlias(rawValue);
+      const key = normalizeLoose(value);
+      if (!value || !key || seen.has(key)) continue;
+      seen.add(key);
+      values.push(value);
+    }
+    if (values.length) {
+      return {
+        values,
+        label: values.join(" · "),
+        source,
+      };
+    }
+  }
+  return { values: [], label: "", source: "" };
+}
+
 function normalizedTokens(value) {
   const normalized = normalizeLoose(value);
   return normalized ? normalized.split(" ") : [];
@@ -1555,6 +1580,9 @@ function decorateComponent(
     subjectPath: subject.path,
     subjectName: subject.name,
     noteType: subject.noteType,
+    subtypes: subject.subtypes,
+    subtypeLabel: subject.subtypeLabel,
+    subtypeSource: subject.subtypeSource,
     needsNameReview: subject.needsNameReview,
     nameReviewReasons: subject.nameReviewReasons,
     conceptId: concept.id,
@@ -1616,11 +1644,22 @@ function buildCatalog(subjects, records, options = {}) {
     const nameInfo = provisionalNameInfo(
       rawSubject.rawName || rawSubject.name || rawSubject.fileName,
     );
+    const subtypeInfo = toStrings(rawSubject.subtypes).length
+      ? {
+          values: toStrings(rawSubject.subtypes),
+          label: rawSubject.subtypeLabel ||
+            toStrings(rawSubject.subtypes).join(" · "),
+          source: rawSubject.subtypeSource || "",
+        }
+      : subtypeForSubject(rawSubject.noteType, rawSubject);
     const subject = {
       ...rawSubject,
       rawName: rawSubject.rawName || rawSubject.name || rawSubject.fileName,
       name: nameInfo.text,
       provisionalName: rawSubject.provisionalName || nameInfo.provisional,
+      subtypes: subtypeInfo.values,
+      subtypeLabel: subtypeInfo.label,
+      subtypeSource: subtypeInfo.source,
       ...nameReviewForSubject({
         ...rawSubject,
         provisionalName: rawSubject.provisionalName || nameInfo.provisional,
@@ -1954,6 +1993,9 @@ function catalogExportRecords(catalog) {
     subject: concept.subjectPath,
     subject_name: concept.subjectName,
     note_type: concept.subject.noteType,
+    subtypes: concept.subject.subtypes,
+    subtype_label: concept.subject.subtypeLabel,
+    subtype_source: concept.subject.subtypeSource,
     preferred_form: concept.preferredForm,
     normalized: concept.normalized,
     role: concept.role,
@@ -2044,6 +2086,7 @@ module.exports = {
   normalizeLoose,
   provisionalNameInfo,
   nameReviewForSubject,
+  subtypeForSubject,
   cleanAlias,
   plausibleName,
   classifyVariant,

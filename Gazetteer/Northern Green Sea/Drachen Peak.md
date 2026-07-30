@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
+displayDefaults: {defArt: ""}
 typeOf: topographical feature
 whereabouts: Northern Green Sea
 dm_owner: tim
 dm_notes: important
 typeOfAlias: mountain
 ---
-# The Drachen Peak
+# Drachen Peak
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
