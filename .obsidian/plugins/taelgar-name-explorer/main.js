@@ -575,6 +575,17 @@ class NameExplorerView extends ItemView {
       this.state.noteType,
       (value) => {
         this.state.noteType = value;
+        const availableSubtypes = new Set(
+          core.subtypeChoices(this.catalog.subjects, value).map((subtype) =>
+            core.normalizeLoose(subtype)
+          ),
+        );
+        if (
+          this.state.subtype &&
+          !availableSubtypes.has(core.normalizeLoose(this.state.subtype))
+        ) {
+          this.state.subtype = "";
+        }
         this.state.page = 1;
         this.render();
       },
@@ -583,7 +594,7 @@ class NameExplorerView extends ItemView {
     filters.appendChild(makeSelect(
       [
         ["", "All subtypes"],
-        ...subtypeOptions(this.catalog),
+        ...subtypeOptions(this.catalog, this.state.noteType),
       ],
       this.state.subtype,
       (value) => {
@@ -2029,17 +2040,11 @@ function conceptKey(concept) {
   return `${concept.subjectPath}\u0000${concept.id}`;
 }
 
-function subtypeOptions(catalog) {
-  const byKey = new Map();
-  for (const subject of catalog.subjects) {
-    for (const subtype of subject.subtypes || []) {
-      const key = core.normalizeLoose(subtype);
-      if (key && !byKey.has(key)) byKey.set(key, subtype);
-    }
-  }
-  return [...byKey.values()]
-    .sort((left, right) => left.localeCompare(right))
-    .map((subtype) => [subtype, subtype]);
+function subtypeOptions(catalog, noteType = "") {
+  return core.subtypeChoices(catalog.subjects, noteType).map((subtype) => [
+    subtype,
+    subtype,
+  ]);
 }
 
 function makeSelect(options, value, onChange, label) {
