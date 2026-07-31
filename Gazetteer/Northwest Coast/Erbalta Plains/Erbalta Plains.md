@@ -23,7 +23,7 @@ The Erbalta Plains are too dry for extensive agriculture outside of irrigated fi
 
 ## Borders
 
-The Erbalata Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[~North Voltara Hills~]]. 
+The Erbalata Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[Chalyte Hills]]. 
 
 ## Climate
 

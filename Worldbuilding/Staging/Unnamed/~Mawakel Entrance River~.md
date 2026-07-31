@@ -7,4 +7,4 @@ dm_owner: none
 dm_notes: none
 ---
 
-%% the small river that runs from the [[~Mawakel Border Mountains~]] to the [[~North Bay~]] %%
+%% the small river that runs from the [[Mawar Mountains]] to the [[~North Bay~]] %%
