@@ -15,4 +15,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small river that originates in the [[Mostreve Hills]] and joins the [[Aben]] near [[Tafolwern]]. 
+A small river that originates in the [[Tyrwinghan Hills]] and joins the [[Aben]] near [[Tafolwern]]. 
