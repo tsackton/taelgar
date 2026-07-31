@@ -36,18 +36,18 @@ markerTag: location-source
 ```
 
 ## Topography and Major Features
-_See more: [[Mostreve Hills]], [[Western Gulf]], [[Wistel]], [[Enst]], [[Volta]], [[Semb]], [[Kem]], [[Zimkova Highlands]], [[~North Vostok Mountains~]], [[Vostok Plateau]]_
+_See more: [[Mostreve Hills]], [[Western Gulf]], [[Wistel]], [[Enst]], [[Volta]], [[Semb]], [[Kem]], [[Zimkova Highlands]], [[Pekul Mountains]], [[Vostok Plateau]]_
 
 Five major river systems, fed by the summer rains, and melting snowpack and glaciers from the mountains, define the region: 
-* in the northeast, the [[Kem]] and [[Niva]] rivers spill down from the [[~North Vostok Mountains~]]  and the [[Vostok Plateau]] to the [[Green Sea]]
+* in the northeast, the [[Kem]] and [[Niva]] rivers spill down from the [[Pekul Mountains]]  and the [[Vostok Plateau]] to the [[Green Sea]]
 * further west, the mighty [[Volta]], wide and cold, flows past Tollen into the [[Gulf of Tollen]]
 * south of the Volta the swift flowing [[Teft]], the placid [[Semb]] and the mighty [[Wistel]] flow past [[Heartlands|fertile farmland]]
 * and finally in the south, the [[Enst]] defines the borders of the rich farmlands, as it flows from the [[Sentinel Range|Sentinels]] and the [[Mostreve Hills]] to merge with [[Wistel]] before the great marshy delta of the [[Ozabal|Ozabal Swamp]].
 
 The rise and fall of the land further defines the region:
 * in the west, the towering [[Sentinel Range]] rises thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. 
-* east of the mountains lies the [[Zimkova Highlands]], a rough land that slowly descends to a line of hills in western and northern Sembara: the [[Aveil Ridge]], the [[Aine Hills]], the [[Braebein]], and the [[~Volta Hills~]], and which rises in the east to form the [[~North Vostok Mountains~]]
-* east of the [[~North Vostok Mountains~]], the high [[Vostok Plateau]] is dry and cold and is home to the high altitude [[~Lake Vostok~]]
+* east of the mountains lies the [[Zimkova Highlands]], a rough land that slowly descends to a line of hills in western and northern Sembara: the [[Aveil Ridge]], the [[Aine Hills]], the [[Braebein]], and the [[~Volta Hills~]], and which rises in the east to form the [[Pekul Mountains]]
+* east of the [[Pekul Mountains]], the high [[Vostok Plateau]] is dry and cold and is home to the high altitude [[~Lake Vostok~]]
 * east of the [[Vostok Plateau]], the [[Svinjo Mountains]] form a rarely passed boundary with the forests to the north and east
 * south of the [[Svinjo Mountains]], the [[~Coastal Vostok Hills~]] are rugged and isolated from the rest of [[Vostok]]
 * along the [[Green Sea]] coast, the [[~South Vostok Hills~]] stretch north towards the [[~Volta Hills~]] to form a hilly and difficult terrain to the east of [[Tollen]], separating the forests of [[Vostok]] from the rest of the region
@@ -56,7 +56,7 @@ The rise and fall of the land further defines the region:
 Between these high points are three distinct lowland regions:
 * the fertile riverlands of Sembara lie between the [[Mostreve Hills]] in the south, the [[Zimkova Highlands]] in the west, and the [[Volta]] in the north
 * the plains and scrublands of [[Duchy of Maseau|Maseau]] lie north of the [[Maseau Gap]], between the [[Sentinel Range|Sentinels]] to the west, the [[Maseau Gap]] to the south, and the [[Mostreve Hills]] to the east
-* the coastal plains where the [[Kem]] spills into the [[Green Sea]], and which gradually rise through forests and steppe to the [[Zimkova Highlands]], the [[~North Vostok Mountains~]], and the [[Vostok Plateau]]
+* the coastal plains where the [[Kem]] spills into the [[Green Sea]], and which gradually rise through forests and steppe to the [[Zimkova Highlands]], the [[Pekul Mountains]], and the [[Vostok Plateau]]
 
 Finally, the relatively sheltered and calm [[Western Gulf]], separated from the wider [[Green Sea]] by the narrow [[Straits of Cymea]] is crowded with [[Tollen|Tollish]] traders and Sembaran fisherfolk, and [[Halflings|halflings]] from far and wide. 
 
@@ -114,10 +114,10 @@ _See also: [[List of Places in Greater Sembara]]_
 
 *Needs Development:* The Zimkova and Vostok regions, although defined in both broad cultural strokes and their impact on the rest of the region, are nonetheless fairly light on detail. The relationship between nothern Vostok, southern Vostok, Tollen, and the Skaer is unclear. The religion of northern Vostok and its relationship to the kestavo traditions of the Zimka is unclear. 
 
-*Intentionally Blank:*  The [[Grastenvakt|Gråstenvakt]] is intentionally undeveloped as to its history and purpose (the existence of the wall is canonical). The [[Vostok Plateau]] and the [[~North Vostok Mountains~]] are best left undeveloped until needed, as they are likely the source of interesting adventures. Northern Zimkova is expected to be a setting for a multi-session arc of the Cleenseau campaign and space for mystery and adventure should be preserved in the region. The exact nature of the Tyrwinghan relationship to the fey, and where the Tyrwinghans came from, is intentionally left unresolved.
+*Intentionally Blank:*  The [[Grastenvakt|Gråstenvakt]] is intentionally undeveloped as to its history and purpose (the existence of the wall is canonical). The [[Vostok Plateau]] and the [[Pekul Mountains]] are best left undeveloped until needed, as they are likely the source of interesting adventures. Northern Zimkova is expected to be a setting for a multi-session arc of the Cleenseau campaign and space for mystery and adventure should be preserved in the region. The exact nature of the Tyrwinghan relationship to the fey, and where the Tyrwinghans came from, is intentionally left unresolved.
 
 *Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen.
 
-*Important Places in Staging:* The following places could use canonical names: [[Vostok Plateau]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[~North Vostok Mountains~]], [[~South Vostok Hills~]], [[Gulf of Tollen]]
+*Important Places in Staging:* The following places could use canonical names: [[Vostok Plateau]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[Pekul Mountains]], [[~South Vostok Hills~]], [[Gulf of Tollen]]
 %%^End%%
 
