@@ -88,7 +88,7 @@ For the next 30 - 50 years, these western hobgoblins rule over a [[Coastlands]] 
 
 Open questions:
 * How did they get to the north coast? Presumably some type of magic sailing option, but other ideas could be Cha'mutte's armbands/teleport stuff
-* What happened to them? Do any still linger i.e. in the [[~Mawakel Border Mountains~]] or [[Tawir Forest]] or elsewhere, or were they all wiped out by Chardon?
+* What happened to them? Do any still linger i.e. in the [[Mawar Mountains]] or [[Tawir Forest]] or elsewhere, or were they all wiped out by Chardon?
 * What is the timeline exactly? The 1550s to 1650s is not strictly canonical, but Chardon cannot be dominating the [[Northwest Coast]] until the 1650s-1670s, to give the Mawar renaissance a chance to blossom; these hobgoblins partly serve that purpose
 
 Discussion:
@@ -126,7 +126,7 @@ In the current day, the remnants of Cha'mutte's armies may be found:
 - Some hobgoblins (exact ancestry and history undetermined) live in the plains and mountains north of Voltara, although they didn't really impact [[Grumella's War]], so are likely either fairly scattered and disorganized, or have their own reasons for staying out of conflict with humans. 
 
 *Brainstorming*
-- [[Tawir Forest]], the [[~Mawakel Border Mountains~]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the [[Crimson Forest]], parts of the northern Myraeni Gap, and potentially the islands of of Mawar all could provide space for hobgoblins with various degrees of organization. 
+- [[Tawir Forest]], the [[Mawar Mountains]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the [[Crimson Forest]], parts of the northern Myraeni Gap, and potentially the islands of of Mawar all could provide space for hobgoblins with various degrees of organization. 
 
 
 

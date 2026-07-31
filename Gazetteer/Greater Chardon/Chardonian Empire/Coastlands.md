@@ -13,7 +13,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [[Portalia]] in the south to the [[~Mawakel Border Mountains~]] in the north, and bounded inland by the [[~Lake Valandros Hills~]] and the [[~Chardon Hills~]]. 
+The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [[Portalia]] in the south to the [[Mawar Mountains]] in the north, and bounded inland by the [[~Lake Valandros Hills~]] and the [[~Chardon Hills~]]. 
 
 The Low Coast, the portion of coastlands south of [[Chardon]], is hot and dry in the summer, with mild winters and extensive coastal wetlands. 
 

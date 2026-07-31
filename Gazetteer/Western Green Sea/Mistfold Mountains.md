@@ -24,6 +24,18 @@ On the western edge of the range, south of the [[Latazaro]], the Mistfolds rise 
 
 ## Names
 
+%% names are under discussion / consideration, not final. consider:
+
+Gray Mountains
+Grayfold Mountains
+Graymist Mountains
+
+consider whether Cymean local name is useful at this stage
+
+Elven name is settled.
+
+%%
+
 In Common, the range is formally known as the Mistfold Mountains, although it is usually called simply the Mistfolds. The name refers both to the long, overlapping folds of the terrain and to the mist that gathers in its valleys.
 
 In [[Cymea]], the range is known as the Serraclusa Mountains. The name is traditionally derived from an old Cymean phrase meaning “closed ridges” or “mountains of enclosed valleys,” perhaps originally describing the range's blind valleys and steep limestone cliffs.

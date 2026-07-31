@@ -45,7 +45,7 @@ darkMode: false
 markerTag: location-source
 ```
 ## Topography and Major Features
-_See more: [[Mawakel Peninsula]], [[~Mawakel Border Mountains~]], [[Tawir Forest]], [[Erbalta Plains]], [[~North Bay~]]
+_See more: [[Mawakel Peninsula]], [[Mawar Mountains]], [[Tawir Forest]], [[Erbalta Plains]], [[~North Bay~]]
 
 
 
@@ -94,5 +94,5 @@ _See also: [[Places in the Northwest Coast]]
 
 *Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara.
 
-*Important Places in Staging:* The [[~North Bay~]] and [[~Mawakel Border Mountains~]] could use names; the [[Nahadi]] river is not well named north of [[Lake Valandros]]. The [[~Mawakel Large Island~]] is totally undeveloped and could use at least a name.
+*Important Places in Staging:* The [[~North Bay~]] and [[Mawar Mountains]] could use names; the [[Nahadi]] river is not well named north of [[Lake Valandros]]. The [[~Mawakel Large Island~]] is totally undeveloped and could use at least a name.
 %%^End%%

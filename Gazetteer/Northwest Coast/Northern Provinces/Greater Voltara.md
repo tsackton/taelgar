@@ -21,7 +21,7 @@ typeOfAlias: province
 
 Greater Voltara is the richest and most powerful of the [[Northern Provinces]] of the [[Chardonian Empire]]. The primary city and provincial seat is [[Voltara]], a walled city enriched by nearby [[chalyte]] deposits, and the seat of power of proconsul [[Anton Lavernia]]. 
 
-Greater Voltara extends in the east to the [[Snake River]], in the west to the [[Fiatara Mountains]], and in the south to the [[Kelvaros]] river area. The northern border of Greater Voltara is not well‑defined, but functionally includes the [[~North Voltara Hills~|hills north of Voltara]] (a rich source of [[chalyte]]), and the southern edge of the [[Fiatara Mountains]].
+Greater Voltara extends in the east to the [[Snake River]], in the west to the [[Fiatara Mountains]], and in the south to the [[Kelvaros]] river area. The northern border of Greater Voltara is not well‑defined, but functionally includes the [[Chalyte Hills|hills north of Voltara]] (a rich source of [[chalyte]]), and the southern edge of the [[Fiatara Mountains]].
 
 ## Settlements and Sites
 
