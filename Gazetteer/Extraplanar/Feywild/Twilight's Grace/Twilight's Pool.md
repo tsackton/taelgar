@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25  
 tags: [place, status/check/tim]
+excludePublish: ["all"]
 typeOf: planar link  
 typeOfAlias: fey portal  
 whereabouts:
