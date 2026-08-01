@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [session-note]
+campaign: Lost in the Feywild
+sessionNumber: 6
+realWorldDate: 2026-07-27
 DR: 1740-10-06
 DR_end: 1740-10-06
-realWorldDate: 2026-07-27
+players: [Kaito Min, Edric, Ayveen, Txarro]
+name: "Lost in the Feywild: Episode 06"
 descTitle: "The Stories We Carry"
 tagline: "in which stories open the door to darkness"
 sessionKey: lost-in-the-feywild-session-6
@@ -16,32 +20,20 @@ websiteSessionView: zoomable
 > *Featuring: [[Kaito Min]], [[Edric]], [[Ayveen]], [[Txarro]]*
 > *In Taelgar: (DR:: 1740-10-06)*
 > *On Earth: Monday, July 27, 2026*
-> *[[27th House|27th Room]] and the central prison*
+> *[[27th House|27th Room]] and central prison*
 
 The party recruits [[Aurae]], rejects Arithrimos Lamperum's soul bindery, and enters the central prison as [[Menestheus]] succumbs to the fungal transformation.
+
+> [!quote] %% NO TITLE %%
+> *I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
+## Audio Highlights
+
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
+![[assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a]]
 
 ## Timeline
 
 - (DR:: 1740-10-06), evening still: The party explores the library, meets the research assistant automaton, and enters the central prison.
-
-## Cast of Characters
-
-- [[Aurae]] (construct): clockwork research assistant who takes a name and joins the party.
-- [[Menestheus]] (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
-- the prisoner: captive seen in three superimposed states through the prison doors.
-- [[Lord Endless Ending]] (they/them, fae): fey lord who asked for the glass key.
-- [[Lord Hulda|Hulda]] (he/him, Sembaran human): the party's original employer.
-- unnamed human order member: last visitor [[Aurae]] remembers before the party.
-- [[Marcion of Iridel]] (he/him, Drankorian human): Drankorian cosmologist whose works, including *[[The Riven Veil]]*, fill a library shelf.
-
-## Places
-
-- [[27th House|27th Room]] (fey house in the [[Twilight Kingdom]], the [[Feywild]]): vast shifting complex built around a central prison and used by [[Arithrimos Lamperum]] to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
-- central prison: lightless chamber reached through superimposed doors that show its captive at different ages. Session context includes: through the three superimposed prison doors.
-
-## Combat
-
-- none
 
 ## Narrative
 
@@ -62,3 +54,18 @@ As the party prepares to enter the prison, they ask the assistant if it wants a 
 After hearing these tales, the party straps [[Aurae]] into a backpack on Edric's back, and steps towards the prison door,  passes many shelves, noting a copy of *The Journey of the Souls*, along with a commentary and refutation, as well as *[[The Riven Veil]]* and several other works of [[Marcion of Iridel]]. 
 
 At the prison door, they find three doors occupying the same space, showing the captive as a child, a joyful young adult, and a frightened, prematurely aged figure deep in the grip of some addiction. They choose the child, but as they prepare to step through the door, [[Menestheus]] completes his transformation and reaches for [[Txarro]] with impossibly long limbs. [[Txarro]] becomes a tiny anole lizard, evades him, and follows the others through the door. This leaves the glass key engaged in the lock behind them, and the door swings closed leaving them in impenetrable darkness with [[Menestheus]] still outside.
+
+## Cast of Characters
+
+- [[Aurae]] (construct): clockwork research assistant who takes a name and joins the party.
+- [[Menestheus]] (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
+- the prisoner: captive seen in three superimposed states through the prison doors.
+- [[Lord Endless Ending]] (they/them, fae): fey lord who asked for the glass key.
+- [[Lord Hulda|Hulda]] (he/him, Sembaran human): the party's original employer.
+- unnamed human order member: last visitor [[Aurae]] remembers before the party.
+- [[Marcion of Iridel]] (he/him, Drankorian human): Drankorian cosmologist whose works, including *[[The Riven Veil]]*, fill a library shelf.
+
+## Places
+
+- [[27th House|27th Room]] (fey house in the [[Twilight Kingdom]], the [[Feywild]]): vast shifting complex built around a central prison and used by [[Arithrimos Lamperum]] to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
+- central prison: lightless chamber reached through superimposed doors that show its captive at different ages. Session context includes: through the three superimposed prison doors.

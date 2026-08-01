@@ -22,9 +22,13 @@ The party recruits [[Aurae]], rejects Arithrimos Lamperum's soul bindery, and en
 <!-- /SLOT -->
 
 <!-- SLOT: session.pull_quotes -->
+> [!quote] %% NO TITLE %%
+> *I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
+![[assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
