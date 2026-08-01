@@ -15,7 +15,7 @@ The surviving chronology is uneven. Some works and thinkers have firm dates, som
 
 - **Ancient world and before [[The Downfall]].** Hkaran, elven, dwarven, lizardfolk, and other nonhuman traditions describe planar travel, the journey of souls, elemental realms, and the structure of magic. Important surviving or fragmentary works include [[The Unstable Sphere]], [[Journeys of Souls|Journey of the Souls]], [[Terrageum Virion]], [[The Lay of Estar]], [[The Song of the Eternal Earth]], and [[The Endless Currents]]. The precise relationship among most of these traditions is unknown.
 
-- **[[History of the Drankorian Empire|Drankorian Era]], DR 1–1059.** Drankorian scholars increasingly define, classify, and compare planar phenomena. [[On Metaphysics]], [[Aetherium]], and [[On the Classification of Divinity]] become foundational texts. Specialist societies and natural historians assemble empirical corpora on the elemental planes. [[Theophesus]] develops the idea of [[Echo Realms]]; [[Marcion of Iridel]] preserves older Limbo material and develops [[Chironides the Wanderer]]'s account of the [[Abyss]]; [[Lyrannis of Aquilona]] supplies the central argument for the traditional elemental model.
+- **[[History of the Drankorian Empire|Drankorian Era]], DR 1–1059.** Drankorian scholars increasingly define, classify, and compare planar phenomena. [[On Metaphysics]], [[Aetherium]], and [[On the Classification of Divinity]] become foundational texts. Specialist societies and natural historians assemble empirical corpora on the elemental planes. Within the [[Arithrimos Lamperum]], mathematical and cartographic work exists alongside initiatory allegory and speculation about exploiting the movement of souls as a magical force. [[Theophesus]] develops the idea of [[Echo Realms]]; [[Marcion of Iridel]] preserves older Limbo material and develops [[Chironides the Wanderer]]'s account of the [[Abyss]]; [[Lyrannis of Aquilona]] supplies the central argument for the traditional elemental model.
 
 - **Late Drankorian synthesis, DR 900s.** [[Gaius Devarro]] (DR 916–997), a founding figure in the [[Faculty of Metaphysics]] at the [[University of Chardon]], synthesizes older Drankorian categories with Theophesus's echo theory. His work becomes the principal foundation of the later [[Standard Multiversal Model]].
 
@@ -45,7 +45,9 @@ An arrow indicates an influence or development stated in the source notes. “Pa
 
 - **Limbo studies:** [[The Unstable Sphere]] → preservation by [[Marcion of Iridel]]; traveler traditions → [[Gaius Devarro]] and [[On Minds and Chaos]]; Great War evidence → [[Paulina Nusinius]], [[Harbek Ferrystone]], and [[Arryn|Arryn of Tollen]]. This is a sequence of partially independent attempts using fragments, testimony, historical catastrophe, mathematics, and experiment rather than one continuous school.
 
-- **The Divine Veil:** received theology of the journey of souls — challenged and reinterpreted by [[Yendalo]] and [[On the Power of Creation]] → [[Yendalism]]. Yendalo's date is unknown. Because Yendalism rejects the Standard Model, it logically belongs after that model became recognizable, but no historical era should yet be assigned.
+- **Drankorian approaches to possibility:** [[The Shape of Possibility]] and [[The Shape of Discovery]] offer contrasting accounts without an established relationship. The former treats possibilities as finite shapes susceptible to mathematical representation; the latter, perhaps parodically, treats curiosity as an irrational and unpredictable force that shapes possibility. Both are Drankorian, but shared authorship, influence, and direct debate are not established.
+
+- **The Divine Veil:** received theology of the journey of souls — challenged and reinterpreted by [[Yendalo]] and [[On the Power of Creation]] → [[Yendalism]]. The mature school logically belongs after the Standard Model became recognizable, but Yendalo's own date remains unsettled. A possible indirect reference in [[On the Science and Possibilities of Soul Bindery]] might place him within or before the Drankorian Era, but both the accuracy of that reference and the identity of the metaphysicist it names are uncertain.
 
 ## The Drankorian–Chardonian Academic Tradition
 
@@ -62,6 +64,10 @@ Several texts form its inherited substrate:
 - [[On the Creation and Destruction of Extra-Material Realms]] treated mutable realms in the Feywild and Shadowfolds. It is now lost except for fragments preserved alongside commentary on [[A Fool's Fortune]].
 
 Drankorian scholarship was not purely theoretical. The [[Occulta Ludum]] produced [[Studies of the Aerial Sphere]] from first-hand reports of travel in the [[Elemental Plane of Air]]. The [[Concordia Pyrae]] compiled the [[Compendium of Fire]]. [[Leandros of Drankor]] assembled a natural history of the [[Elemental Plane of Water]] in [[On the Mysteries of the Infinite Depths]], while [[Lyrannis of Aquilona]] compared elemental creatures across several planes in [[On Elemental Forms]]. The [[Arithrimos Lamperum]] combined metaphysics, mathematics, and the cataloging of planar connections in works such as [[The Shape of Possibility]] and [[Brilliant Numbers]].
+
+The Arithrimos corpus was methodologically broader than these mathematical works alone suggest. [[Allegories for the Initiated]] communicated the order's secrets through short fairy tales and riddles intended for readers who already knew how to interpret them. [[On the Science and Possibilities of Soul Bindery]], attributed to an early member, treated the movement of souls as a force that could be bound and exploited for magical engineering.
+
+The wider Drankorian corpus also includes [[The Shape of Discovery]], a brief and possibly parodic argument that curiosity shapes possibility precisely because curiosity is irrational and unpredictable. This forms a conceptual contrast with the mathematical possibility described in [[The Shape of Possibility]], but no connection between the two works is established.
 
 The dates and order of most of these works within the Drankorian Era are not yet established. They should normally be treated as a broad classical corpus rather than as a precise sequence.
 
@@ -111,7 +117,9 @@ The school's founder, date, and principal texts have not been established. Its g
 
 This disagreement is also epistemological. Yendalo treats contemplation, meditation, and mystical vision as disciplined methods of inquiry alongside careful reasoning. His conflict is therefore primarily with the dominant methods of human academic wizardry.
 
-Yendalo's historical date is unknown, though he would fit into a late Drankorian or early Chardonian context most naturally. 
+Yendalo's historical date is unknown. [[On the Science and Possibilities of Soul Bindery]], attributed to an early member of the [[Arithrimos Lamperum]] and dated broadly to the Drankorian Era, cites Eucaustis's story that Yendalo once met someone who escaped from a soul hoard. If this reference is accurate and names the same Yendalo, it requires him to predate the treatise.
+
+This evidence is explicitly provisional. The Yendalo reference may be an error in the current book note, and the treatise may actually refer to a different, earlier metaphysicist. Until the underlying reference is resolved, it should not be used to fix Yendalo's date or to establish a direct relationship between Yendalism and the Arithrimos Lamperum.
 
 ### Avariel's multidimensional web
 
@@ -191,11 +199,19 @@ The current distinction among extraplanar weak points, temporary vortexes or upw
 
 The journey of the dead predates formal Chardonian cosmology. The pre-Downfall Hkaran text [[Journeys of Souls|Journey of the Souls]] describes passage from the Material Plane through the Plane of Souls to the Land of the Dead, where gods or demons claim souls. [[The Song of the Shattered, Reborn]] supplies the most famous literary image of the Land of the Dead as a gray shore whose ground flows toward a distant destination.
 
+The existence of the five-volume [[Journey of the Souls - A Refutation|Journey of the Souls: A Refutation]] establishes at least one extended critical response to the Hkaran text, but little else. Its author, date, arguments, circulation, and influence are unknown. It remains an open question whether the refutation was a minor and forgotten work, one contribution to a limited debate, or evidence for a major scholarly tradition of criticism.
+
 Mos Numenan theology treats the Plane of Souls as the connection between material life and divine Creation. [[Blossom of the Eightfold Light]] is an important ancient poetic source for the Divine Presence, Plane of Creation, and Eight Divines. Dwarven works such as the [[Iron Verses]] and [[Tome of Hammer and Stone]] describe the [[Heart of the Mountain]] and the divine locus of the Bahrazel.
 
 ### Classification of divinity
 
 [[On the Classification of Divinity]] helped transmit the distinction between Embodied and Incorporeal Gods into later theological cosmology. The Standard Model uses this distinction when discussing Divine Realms, while remaining largely noncommittal about the origins of many individual Spiritual Realms.
+
+### Applied soul metaphysics and bindery
+
+[[On the Science and Possibilities of Soul Bindery]] represents an applied Drankorian approach to the passage of souls. Its author argues that a soul's movement after death creates a magical force or pressure that can be captured by preventing the soul from reaching its destination. The treatise presents lich-forms as only the most basic application and proposes golems, automata, ships, and weapons powered by bound souls.
+
+This is neither simply a description of the afterlife nor a classification of planes. It treats a disputed account of soul movement as a basis for magical engineering. The work's indirect reference to Yendalo concerns an escape from a soul hoard rather than Yendalo's cosmological doctrines, so it does not by itself establish intellectual influence in either direction.
 
 ### Competing accounts of souls and Creation
 
@@ -289,6 +305,10 @@ Gaius, Marcion, Nicole, and Ulfgar all depend heavily on collecting damaged text
 
 The [[Arithrimos Lamperum]], Harbek Ferrystone, and Heloise of Tollen all combine mathematics with metaphysics. No direct intellectual lineage among them has been established. The resemblance should remain a recurring method rather than a single mathematical school unless future notes connect them.
 
+### Initiatory and allegorical instruction
+
+[[Allegories for the Initiated]] shows that the [[Arithrimos Lamperum]] also used restricted stories and riddles to communicate knowledge within the order. This complicates an account of the society based only on mathematics, maps, and formal treatises. Because the allegories were intended for readers who already understood their meanings, and those interpretations are not preserved, they are evidence for a method of instruction rather than reliable evidence for any particular doctrine.
+
 ### Mystical and contemplative knowledge
 
 Yendalo and Aznoké most clearly represent cosmologies in which disciplined contemplation, vision, poetic image, and spiritual practice are genuine modes of knowledge. Fey, dwarven, lizardfolk, and religious sources frequently resist translation into the classificatory vocabulary of human universities.
@@ -306,7 +326,8 @@ This list distinguishes formal arguments from the narrative, religious, and visu
 ### General structure and transitive planes
 
 - [[On Metaphysics]], [[Aetherium]], [[Standard Multiversal Model]], [[Planar Dualism]], [[Yendalism]], and [[On the Power of Creation]].
-- [[The Shape of Possibility]] and [[Brilliant Numbers]] for Drankorian mathematical metaphysics.
+- [[The Shape of Possibility]] and [[Brilliant Numbers]] for Drankorian mathematical metaphysics; [[The Shape of Discovery]] as a contrasting, possibly parodic account of curiosity and possibility.
+- [[Allegories for the Initiated]] for the initiatory and allegorical methods of the [[Arithrimos Lamperum]]; the doctrines encoded in its stories are unknown.
 - [[The Runes of Creation]] for a practical theory of how runic structures shape extraplanar energy; it is not yet integrated into a named cosmological school.
 
 ### Elemental planes
@@ -326,7 +347,7 @@ This list distinguishes formal arguments from the narrative, religious, and visu
 
 ### Souls, divinity, and the Land of the Dead
 
-- [[Journeys of Souls|Journey of the Souls]], [[On the Classification of Divinity]], [[The Song of the Shattered, Reborn]], [[Blossom of the Eightfold Light]], [[Iron Verses]], [[Tome of Hammer and Stone]], and [[On the Power of Creation]].
+- [[Journeys of Souls|Journey of the Souls]], [[Journey of the Souls - A Refutation|Journey of the Souls: A Refutation]], [[On the Classification of Divinity]], [[The Song of the Shattered, Reborn]], [[Blossom of the Eightfold Light]], [[Iron Verses]], [[Tome of Hammer and Stone]], [[On the Power of Creation]], and [[On the Science and Possibilities of Soul Bindery]].
 
 ### Dangerous and marginal planes
 
@@ -339,7 +360,12 @@ This list distinguishes formal arguments from the narrative, religious, and visu
 ## Chronological and Intellectual Questions Still Open
 
 - When did [[Avariel]], [[Aznoke|Aznoké]], [[Yendalo]], [[Saria]], [[Khevaris Stoneweaver]], and [[Thardrum Deepseeker]] live?
+- Does [[On the Science and Possibilities of Soul Bindery]] correctly refer to the same [[Yendalo]] whose teachings became [[Yendalism]], or is the reference an error in the current book note or a reference to a different, earlier metaphysicist?
+- Who wrote [[Journey of the Souls - A Refutation|Journey of the Souls: A Refutation]], when and where did it circulate, what did it argue, and was it a minor forgotten work, part of a limited debate, or evidence for a major scholarly tradition?
 - Which foundational Drankorian works belong to the early empire, the Golden Age, or the final centuries before the Fall?
+- What relationship, if any, exists between [[The Shape of Possibility]] and [[The Shape of Discovery]]?
+- What doctrines were encoded in [[Allegories for the Initiated]], and how did this allegorical instruction relate to the mathematical and empirical work of the [[Arithrimos Lamperum]]?
+- How representative was [[On the Science and Possibilities of Soul Bindery]] of the [[Arithrimos Lamperum]], and were any of its proposed applications ever realized?
 - What is the precise relationship between [[On Metaphysics]], Theophesus's work, and Gaius's synthesis?
 - Did [[Julius Ceptuso]] directly build on Lyrannis, and when did the five-energy model become standard teaching?
 - Who founded [[Planar Dualism]], and did it arise before or after the mature Standard Model?
