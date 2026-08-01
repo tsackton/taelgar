@@ -43,6 +43,7 @@ Aurae helps the party uncover evidence that Arithrimos Lamperum exploited captiv
 - Date: 1740-10-06
 - Time: morning
 - Source Range: u0001 -> u0460
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-006-recap-001-transcript.md
 - Locations: 27th Room
 - NPCs: Aurae, Menestheus
 - Organizations: Arithrimos Lamperum
@@ -71,6 +72,7 @@ Although forbidden to answer direct questions about the prisoner, it remembers a
 - Date: 1740-10-06
 - Time: morning
 - Source Range: u0461 -> u0810
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-006-recap-002-transcript.md
 - Locations: 27th Room
 - NPCs: Aurae, Menestheus
 - Organizations: Arithrimos Lamperum
@@ -100,6 +102,7 @@ The party begins to suspect that the central prisoner is being exploited for pow
 - Date: 1740-10-06
 - Time: morning
 - Source Range: u0811 -> u1128
+- Polished Transcript: beat-transcripts/lost-in-the-feywild-006-recap-003-transcript.md
 - Locations: 27th Room, central prison
 - NPCs: Aurae, Menestheus, the prisoner
 - Organizations: none
@@ -189,3 +192,18 @@ At the prison door, they find three doors occupying the same space, showing the 
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-source-cleaned.md
+
+## Pull Quotes
+
+- ID: quote-b003-001
+  - Quote: "I know that I'm not happy, alone by myself. I've read all of these books already."
+  - Speaker: Aurae
+  - Source Lines: u0829
+
+## Audio Highlights
+
+- ID: audio-005
+  - Source Lines: u0972-u0998
+  - Speaker: DM
+  - Summary: The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.
+  - Why Called Out: Vivid scene-setting that reveals the session's central choice through three sharply contrasting images.
