@@ -13,9 +13,9 @@
 
 ### The Library's Watcher
 
-After reconsidering their tangled obligations to Hulda, Lord Endless Ending, and the prisoner, the party turns to the limbless clockwork figure watching over the library. It explains that it has read every volume, measures the passage of centuries by listening to their paper age, and out of boredom, has taken to writing stories about everyone it meets.
-
-Although forbidden to answer direct questions about the prisoner, it remembers an unnamed human member of Arithrimos Lamperum who consulted *Allegories for the Initiated* before entering the central room. The assistant confirms that the glass key could open the complex's front door, but warns that 112 of the prison's visitors -- roughly two thirds of everyone who entered -- returned as mushroom men while the rest never emerged.
+	After reconsidering their tangled obligations to Hulda, Lord Endless Ending, and the prisoner, the party turns to the limbless clockwork figure watching over the library. It explains that it has read every volume, measures the passage of centuries by listening to their paper age, and out of boredom, has taken to writing stories about everyone it meets.
+	
+	Although forbidden to answer direct questions about the prisoner, it remembers an unnamed human member of Arithrimos Lamperum who consulted *Allegories for the Initiated* before entering the central room. The assistant confirms that the glass key could open the complex's front door, but warns that 112 of the prison's visitors -- roughly two thirds of everyone who entered -- returned as mushroom men while the rest never emerged.
 
 ### The Soul-Binding Choice
 
