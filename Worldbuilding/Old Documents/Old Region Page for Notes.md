@@ -263,7 +263,7 @@
 
   
 
-*Area:* This region includes [[Ursk]], the [[Svinjo Mountains]], and the[[~Northern Boreal Forest~]], generally south of the [[Ket]].
+*Area:* This region includes [[Ursk]], the [[Svinjo Mountains]], and the[[Great Northern Forest]], generally south of the [[Ket]].
 
   
 
@@ -279,7 +279,7 @@
 
   
 
-*Adventures:* The Ursk arc of the Dunmar Frontier campaign involved extensive travel across this region, including to [[Kaldhalla]], the [[~Northern Boreal Forest~]], and [[Ursk]],
+*Adventures:* The Ursk arc of the Dunmar Frontier campaign involved extensive travel across this region, including to [[Kaldhalla]], the [[Great Northern Forest]], and [[Ursk]],
 
   
 
