@@ -21,7 +21,7 @@ The immediate unresolved goal is to enter [[Cairn Dor]] and find or free the mis
 - [[Samso]] was born in [[Urkabi]], a small lizardfolk village on the [[Zurrua]] in [[Apporia]].
 - In DR 1737, [[Samso]] returned from days away to find [[Urkabi]] gone. The village was empty, black rot clung to the trees and polluted the streams, and a shimmering green sigil faded on the ground.
 - Samso spent years healing the local ecosystem and listening for any trace of his ancestors, but found no answers.
-- He eventually left home, traveled through the [[~Yeraad Lizardfolk Swamp~]], and joined the [[Great Library]] expedition because its scholars seemed his best chance to learn what happened.
+- He eventually left home, traveled through the [[Yeraad Marshes]], and joined the [[Great Library]] expedition because its scholars seemed his best chance to learn what happened.
 
 %% Review: [[Samso (OneNote)]] places Samso's original village along the Yeraad, while the current [[Samso]] and [[Urkabi]] notes place [[Urkabi]] on the [[Zurrua]] in [[Apporia]]. [[Arc 5 - Outline V2]] also says "Samso's home in the Yeraad basin." The current entity pages and Arc 5 play record appear to have overwritten the older Yeraad-home version. %%
 

@@ -6,7 +6,7 @@ whereabouts: Dunmar
 dm_notes: none
 dm_owner: tim
 ---
-# The ~Darba-Songara Road~
+# The Darba-Songara Road
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

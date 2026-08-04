@@ -33,5 +33,5 @@ After many years with no sign of his family, and nothing but silence from the sp
 - (DR:: 1716): Samso is born in [[Urkabi]], a small village in [[Apporia]]
 - (DR:: 1737): Samso returns from wandering to find [[Urkabi]] gone, seemingly swallowed by a black rot
 - (DR:: 1746-12-17): Samso leaves home to seek information
-- (DR:: 1747-01-01): Samso reaches [[~Yeraad Lizardfolk Swamp~]]
-- (DR:: 1747-01-19): Samso leaves [[~Yeraad Lizardfolk Swamp~]] for [[Chardon]], having failed to find answers among his lizardfolk kin
+- (DR:: 1747-01-01): Samso reaches [[Yeraad Marshes]]
+- (DR:: 1747-01-19): Samso leaves [[Yeraad Marshes]] for [[Chardon]], having failed to find answers among his lizardfolk kin

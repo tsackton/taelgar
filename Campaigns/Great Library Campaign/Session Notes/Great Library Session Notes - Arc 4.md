@@ -8,7 +8,7 @@ name: Chronicles of the Silver Tempests Ascendant
 ---
 # Chronicles of the Silver Tempests Ascendant
 
-Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between the [[~Voltara East Border Fort~]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]]. 
+Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between the [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]]. 
 
 ## Adventure 17: What do you mean, we have to kill a dragon?!?
 
@@ -16,7 +16,7 @@ Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calli
 
 After a few weeks, the party leaves to return to [[Voltara]]. On the way, [[Adrik]] turns to a werebear and must be knocked unconscious. [[Brelith]] cures him the next morning.
 
-After defeating were-[[Adrik]], the party arrives at a [[~Voltara East Border Fort~|Chardonian fort]] on the border of the [[Chardonian Empire]]. [[Samso]] convinces [[Soria Caronius]], the commander of the fort, that the party are amazing heroes who can turn into dragons and kill deadly enemies with a glance, so she insists they try to find out who is stealing all their cattle. Their first scouting attempt fails miserably.
+After defeating were-[[Adrik]], the party arrives at a [[Fort Zarnato|Chardonian fort]] on the border of the [[Chardonian Empire]]. [[Samso]] convinces [[Soria Caronius]], the commander of the fort, that the party are amazing heroes who can turn into dragons and kill deadly enemies with a glance, so she insists they try to find out who is stealing all their cattle. Their first scouting attempt fails miserably.
 
 ### Session 52
 
@@ -24,7 +24,7 @@ After regrouping, the party heads upriver and discovers a small [[Bullywugs|bull
 
 ### Session 53
 
-The party returns to the [[~Voltara East Border Fort~|Chardonian fort]] and leaves the problem of the nearly-exterminated bullwugs in the [[Soria Caronius|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon. 
+The party returns to the [[Fort Zarnato|Chardonian fort]] and leaves the problem of the nearly-exterminated bullwugs in the [[Soria Caronius|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon. 
 
 After some discussion with the [[Deno'qai]] council, the party decides to travel with [[Izkir]], a priest of [[Bita]], a bear spirit, who will lead them to the lair. After almost 10 days, they come to the edge of the [[Blackwater Fens]], where the dragon lair is.
 
@@ -55,10 +55,10 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-01-06): Party leaves [[Zarkandur]] to return to [[Voltara]]. 
 - (DR:: 1748-01-07): [[Adrik]] turns to a polar werebear at camp and must be subdued. 
 - (DR:: 1748-01-08): [[Adrik]] cured of lycanthropy by [[Brelith]]. 
-- (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[~Voltara East Border Fort~|border fort]]. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
+- (DR:: 1748-01-17): [[Adrik]], [[Brelith]], [[Samso]], and [[Aelar]] arrive back in the [[Chardonian Empire]], stopped at the [[Fort Zarnato|border fort]]. Learn it is in dire straights, its winter food supplies being raided by something on the river. Attempt to scout unsuccessfully. 
 - (DR:: 1748-01-18): Head north to find out what is stealing food. 
 - (DR:: 1748-01-19): Find and attack a [[Bullywugs|bullywug]] [[Guluppa-Sog|village]]. Kill many before making peace and learning the bullywugs were driven from their home by a [[Dragons|dragon]]. Agree to kill the dragon. 
-- (DR:: 1748-01-21): Return to [[~Voltara East Border Fort~]] with news. Head north to find the dragon. 
+- (DR:: 1748-01-21): Return to [[Fort Zarnato]] with news. Head north to find the dragon. 
 - (DR:: 1748-01-29): Party encounters [[Deno'qai]] scouts at a portage on the river. Go to council, learn the Deno'qai want to kill the dragon too.
 - (DR:: 1748-02-01): Party leaves [[Deno'qai]] council with [[Izkir]], a guide and sorcerer blessed by the [[Tanshi|tanshi]], heading for the [[Blackwater Fens]], where the dragon lives.
 - (DR:: 1748-02-09): Party arrives at [[Blackwater Fens]], camps outside to plan. 
@@ -70,7 +70,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-02-18): Depart [[Nymthrax]] lair, heading back to river. 
 - (DR:: 1748-02-19): Arrive at the [[Barzhen]], summon portable boat from [[Staff of the Swamplands]], begin to travel downriver
 - (DR:: 1748-02-22): Arrive at [[Guluppa-Sog]]; return treasure, tell stories with the Pipe of Remembrance
-- (DR:: 1748-02-24): Arrive [[~Voltara East Border Fort~]]. Spend the night
+- (DR:: 1748-02-24): Arrive [[Fort Zarnato]]. Spend the night
 - (DR:: 1748-02-25): Depart fort for [[Voltara]].
 - (DR:: 1748-03-07): Arrive back in [[Voltara]] 
 

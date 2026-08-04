@@ -21,9 +21,9 @@ pronunciation: goo-LUP-pa sog
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Guluppa-Sog, as the bullywugs call it, loosely meaning "the settlement by the southern still-water", was a small [[Bullywugs|bullywug]] settlement on the [[Zarnato]], upriver from the [[~Voltara East Border Fort~]]. It was settled by bullywugs from the area around [[Blackwater Fens]] fleeing [[Nymthrax]].
+Guluppa-Sog, as the bullywugs call it, loosely meaning "the settlement by the southern still-water", was a small [[Bullywugs|bullywug]] settlement on the [[Zarnato]], upriver from the [[Fort Zarnato]]. It was settled by bullywugs from the area around [[Blackwater Fens]] fleeing [[Nymthrax]].
 
-With limited food, its people started raiding Chardonian cattle from the [[~Voltara East Border Fort~]], which eventually drew the attention of the [[Silver Tempests]]. After [[Great Library Session Notes - Arc 4|Nymthrax was killed]], the community abandoned Guluppa-Sog and returned north.
+With limited food, its people started raiding Chardonian cattle from the [[Fort Zarnato]], which eventually drew the attention of the [[Silver Tempests]]. After [[Great Library Session Notes - Arc 4|Nymthrax was killed]], the community abandoned Guluppa-Sog and returned north.
 
 %% DM notes
 [[Bullywugs - DM Notes]]
