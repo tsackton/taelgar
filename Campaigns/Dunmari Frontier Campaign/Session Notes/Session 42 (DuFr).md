@@ -26,7 +26,7 @@ The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and th
 ### Summary
 - The party receives the[[ Portable Hole]] from [[Basu]], learning its rules and potential dangers, and [[Kenzo]] receives a special branch from his mentor, [[Rishi]].
 - They depart [[Tokra]], travel for three days, and stay at inns along the way, encountering a notable Drankorian bridge.
-- At the [[~Crossroads Caravanserai~]], they exchange stories with travelers, including rumors of a dragon, stories of [[Kobolds]], and a deal involving [[Nayan Karnas|Karnas]] and [[Chardon]].
+- At the [[Melavan Caravanserai]], they exchange stories with travelers, including rumors of a dragon, stories of [[Kobolds]], and a deal involving [[Nayan Karnas|Karnas]] and [[Chardon]].
 
 ### Timeline
 - (DR:: 1748-07-13): Spend time in [[Tokra]]
@@ -37,7 +37,7 @@ The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and th
 - (DR:: 1748-07-16), evening: Spend the night at a roadside caravanserai a day's journey west of [[Tokra]].
 - (DR:: 1748-07-17): Travel west along the [[Stoneway]]. Spend the night at a caravanserai.
 - (DR:: 1748-07-18): Travel west along the [[Stoneway]].
-- (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[~Crossroads Caravanserai~]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
+- (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[Melavan Caravanserai]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
 
 ### Mirror of the Past
 - (DR:: 1748-07-13) Examine the [[Pandemonium Scroll]] in the [[Mirror of the Past]] and see the [[Pandemonium Scroll Vision]]. (recharge:: mirror)
@@ -62,7 +62,7 @@ After some conversation in which [[Basu]] gets increasingly dubious about the sa
 
 The party leaves [[Tokra]] on the morning of July 16th, escorting [[Johar]] and heading northwest on the main trade road before turning south and west in a few days for the direct overland route to [[Darba]]. The first two days are uneventful, as the party rests in inns each night, the main notable landmark a soaring night-glowing single arch bridge of Drankorian make, over a now-seasonal river.
 
-The evening of July 18th, after three days on the road, the party reaches the crossroads. The [[~Crossroads Caravanserai~]] is busy with travelers, including some halflings and a Chardonian. [[Wellby]] speaks with the halflings, brothers, [[Alton Greenleaf]] and [[Lyle Greenleaf]]. They’ve come from the west, heading for [[Tokra]]. They report news of kobold attacks near [[Songara]], hard-to-believe rumors of a dragon on the trail to [[Darba]], and that the Chardonian was traveling with a group of four others that they passed on the road heading west yesterday, all adventurers.
+The evening of July 18th, after three days on the road, the party reaches the crossroads. The [[Melavan Caravanserai]] is busy with travelers, including some halflings and a Chardonian. [[Wellby]] speaks with the halflings, brothers, [[Alton Greenleaf]] and [[Lyle Greenleaf]]. They’ve come from the west, heading for [[Tokra]]. They report news of kobold attacks near [[Songara]], hard-to-believe rumors of a dragon on the trail to [[Darba]], and that the Chardonian was traveling with a group of four others that they passed on the road heading west yesterday, all adventurers.
 
 The party then speaks with [[Marcella]]. She tells them that she in here because she is waiting for details from [[Drusa]], in [[Tokra]], about the kobold threat near [[Songara]], which she and her companions have been tasked with dealing with on their way back to [[Chardon]], while the party tells her they are heading south and west to [[Darba]]. As the party exchanges stories for stories, they learn that she and her companions were traveling in the [[Garamjala Desert]] searching for lost ruins of [[Drankor]] buried in the sands. [[Delwath]] gives her the letters from [[Stormcaller Tower]], and she reveals they didn’t find much in the desert, the site of a battle from the time of the [[Great War]] with a few treasures, but none of the Drankorian ruins they hoped to find. [[Marcella]] also speaks of [[Orcs|orcs]]: they found a hunting party, who were chasing free [[Orcs|orcs]] in the name of [[Grash]]. The party tells her about their encounter with [[Grash]], then, and the conversation turns to [[Vola]]. [[Marcella]] traveled with her, and is relieved to hear news of her. [[Delwath]] and [[Marcella]] then trade stories of ancient artifacts: [[Delwath]] speaks of a [[Circlet of Foreknowledge|circlet]] set with a single white gem that gives perfect foreknowledge, and [[Marcella]] speaks of a [[Ring of Undying|ring]] that lets one cheat death forever. 
 

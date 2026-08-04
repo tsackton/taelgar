@@ -86,7 +86,7 @@ When you reach character level 3, you can beseech your ancestors for aid using o
 **Notes**
 - [ ] [[Lizardfolk]]: overview page, needs updates to capture vibes better and add dm notes / meta about biology, elders, land, community
 - [ ] [[Tharzen Anzinakoa]]: stub, needs some basic ideas; see also [[Udazkena]], [[Bero]], [[Hazkunde]], and [[Negu]], which are all blank stubs
-- [ ] [[Latazaro]], [[Ozabal]], [[~Yeraad Lizardfolk Swamp~]] could all use a little bit of invention as major lizardfolk communities; others also must exist, some of which don't even have stubs (salt lizardfolk in Mawar; lizardfolk settlements in Apporia from Samso's backstory; lizardfolk community outside Darba)
+- [ ] [[Latazaro]], [[Ozabal]], [[Yeraad Marshes]] could all use a little bit of invention as major lizardfolk communities; others also must exist, some of which don't even have stubs (salt lizardfolk in Mawar; lizardfolk settlements in Apporia from Samso's backstory; lizardfolk community outside Darba)
 - [x] D&D Beyond Homebrew Mechanics
 - [ ] D&D Beyond Text -> Link to Taelgarverse needs to be updated to point to this page when it is pushed.
 

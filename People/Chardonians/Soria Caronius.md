@@ -8,7 +8,7 @@ ancestry: Chardonian
 gender: female
 title: General
 affiliations: 
-- {type: leader, title: Commander, org: ~Voltara East Border Fort~}
+- {type: leader, title: Commander, org: Fort Zarnato}
 whereabouts:
 - {type: home, location: Northern Provinces}
 dm_notes: none
@@ -21,7 +21,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-General Soria Caronius is the current commander of the [[~Voltara East Border Fort~]], the northeastern-most fortification in the [[Chardonian Empire]]. 
+General Soria Caronius is the current commander of the [[Fort Zarnato]], the northeastern-most fortification in the [[Chardonian Empire]]. 
 
 She is a middle aged woman, heavily armored and tough, with a bit of a chip on her shoulder about the challenges and value of defending this forgotten corner of the world. 
 

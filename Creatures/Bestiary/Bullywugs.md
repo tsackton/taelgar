@@ -14,7 +14,7 @@ While some villages and communities of bullywugs survive by stealth and raiding,
 %%^Campaign:none%%
 ## DM notes
 
-The most developed context for bullywugs in game is from the Great Library campaign. The PCs interacted with bullywugs from the [[Blackwater Fens]], who in DR 1748, were displaced from the fens by [[Nymthrax]] and settled [[Guluppa-Sog]] on the [[Zarnato]]. They were raiding cattle from the [[~Voltara East Border Fort~]] before [[Great Library Session Notes - Arc 4|the dragon was killed]].
+The most developed context for bullywugs in game is from the Great Library campaign. The PCs interacted with bullywugs from the [[Blackwater Fens]], who in DR 1748, were displaced from the fens by [[Nymthrax]] and settled [[Guluppa-Sog]] on the [[Zarnato]]. They were raiding cattle from the [[Fort Zarnato]] before [[Great Library Session Notes - Arc 4|the dragon was killed]].
 
 Local color for the Blackwater Fens group: small hut settlements, froghemoth worship or use, marsh-reed baskets, freshwater pearls, copper frog trinkets, bullywug potions, and a clay-and-river-stone Pipe of Remembrance. Not clear if these should be interpreted as universal or specific to this region.
  
