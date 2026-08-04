@@ -23,13 +23,13 @@ The [[Dunmar Fellowship]] thwarts a bandit ambush, recruits the bandits, survive
 
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship ]]departs the [[~Crossroads Caravanserai~]] and stays at the [[Akela Inn]], gathering rumors of a dragon and bandits.
+- The [[Dunmar Fellowship ]]departs the [[Melavan Caravanserai]] and stays at the [[Akela Inn]], gathering rumors of a dragon and bandits.
 - They ambush bandits preparing to attack them, subdue and recruit them with the promise of money and treasure.
 - The party is attacked by wyverns; they defeat them, capturing one in the [[Mirror of Soul Trapping]], but one bandit is killed. 
 - The Chardonian group, led by [[Kadmos]], meets the [[Dunmar Fellowship ]]for the first time, and uses charm magic on most of the party.
 
 ### Timeline
-- (DR:: 1748-07-19), morning: Depart [[~Crossroads Caravanserai~]] heading towards [[Darba]] on the [[Tokra-Darba Road]]. 
+- (DR:: 1748-07-19), morning: Depart [[Melavan Caravanserai]] heading towards [[Darba]] on the [[Tokra-Darba Road]]. 
 - (DR:: 1748-07-19): Travel along the [[Tokra-Darba Road]]
 - (DR:: 1748-07-19), evening: Reach [[Akela Inn]], the last inn on the road before the [[Copper Hills]]. Speak with [[Amar]], the innkeeper. Gather rumors. Spend the night. 
 - (DR:: 1748-07-20): Travel along the [[Tokra-Darba Road]] a fast pace, covering 30 miles of increasingly hilly road. 

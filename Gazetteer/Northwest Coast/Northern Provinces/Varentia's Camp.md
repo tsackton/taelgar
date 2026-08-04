@@ -3,15 +3,14 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/check/name
-name: Voltara Garrison 2
+name: Varentia’s Camp
 typeOf: building
-subTypeOf: frontier camp
+subTypeOf: fortified frontier camp
 whereabouts:
   - type: primary
     location: Northern Provinces
 dm_owner: tim
 dm_notes: important
-typeOfAlias: fort
 ---
 # The Voltara Garrison 2
 >[!info]+ Information  

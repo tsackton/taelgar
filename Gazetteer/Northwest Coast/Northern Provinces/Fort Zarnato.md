@@ -1,18 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
-name: Voltara East Border Fort
+tags: [place, status/check/name, status/gameupdate/gl]
+displayDefaults: {defArt: ""}
+name: Fort Zarnato
 typeOf: building
-whereabouts:
-  - type: primary
-    location: Northern Provinces
+whereabouts: 
+- {type: primary, location: Northern Provinces}
 dm_owner: none
 dm_notes: none
 typeOfAlias: fort
 ---
-# The Voltara East Border Fort
+# Fort Zarnato
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
