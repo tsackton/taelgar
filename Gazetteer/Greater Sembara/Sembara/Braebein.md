@@ -20,4 +20,4 @@ The Braebein forms the western and northern borders of the [[Duchy of Arnsbury]]
 
 The hills are a productive source of silver and marble. 
 
-%% Note - should be extended on the map to stretch more clearly to the Volta, which forms a gap between these hills and the [[~Volta Hills~]] %%
+%% Note - should be extended on the map to stretch more clearly to the Volta, which forms a gap between these hills and the [[Draukar Hills]] %%

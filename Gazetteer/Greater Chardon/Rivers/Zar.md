@@ -14,10 +14,10 @@ pronunciation: ZAR
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-One of the major rivers of the [[Coastlands]], rising from the [[~Lake Valandros Hills~]] and flowing west to the [[Endless Ocean]].
+One of the major rivers of the [[Coastlands]], rising from the [[Beacon Hills]] and flowing west to the [[Endless Ocean]].
 
 %%
-Source ([[~Lake Valandros Hills~]]): 12.07.A23
+Source ([[Beacon Hills]]): 12.07.A23
 Outlet ([[Gulf of Chardon]]): 12.06.I11
 Name from the Northros for boundary (Zar)
 %%
