@@ -93,13 +93,13 @@ Members of the crew who have moved on to other things since traveling on [[Vindr
 
     ---
     ![[kecha-small.png|120]]
-     A [[Kenku]] scout who helped guide the party through the [[Svinjo Mountains]] and the [[~Northern Boreal Forest~]], before leaving to search for kenku living on the [[Eastern Isles]]. 
+     A [[Kenku]] scout who helped guide the party through the [[Svinjo Mountains]] and the [[Great Northern Forest]], before leaving to search for kenku living on the [[Eastern Isles]]. 
 
 -   [[Algerd]]
 
     ---
     ![[algerd.jpg|120]]
-     A frost giant historian, who was not happy in [[Isenborg]] and journeyed with the party across the [[~Northern Boreal Forest~]], before leaving after meeting other frost giant refugees from [[Kaldhalla]]. 
+     A frost giant historian, who was not happy in [[Isenborg]] and journeyed with the party across the [[Great Northern Forest]], before leaving after meeting other frost giant refugees from [[Kaldhalla]]. 
      
 </div>
 

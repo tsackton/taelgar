@@ -35,7 +35,7 @@ markerTag: location-source
 ```
 
 ## Topography and Major Features
-[[Yengorza Mountains]], [[Ket]], [[Svinjo Mountains]], [[~Northern Boreal Forest~]]
+[[Yengorza Mountains]], [[Ket]], [[Svinjo Mountains]], [[Great Northern Forest]]
 
 ## Civilizations and Cultures
 _See more: [[Ursk]], [[Vargaldi]]_
@@ -69,7 +69,7 @@ _See more: [[List of Places in the Northern Green Sea]]_
 
 *Intentionally Blank:*  None.
 
-*Adventures:*  The Ursk arc of the Dunmar Frontier campaign traveled extensively across this region, including to [[Kaldhalla]], the [[~Northern Boreal Forest~]], and [[Ursk]],
+*Adventures:*  The Ursk arc of the Dunmar Frontier campaign traveled extensively across this region, including to [[Kaldhalla]], the [[Great Northern Forest]], and [[Ursk]],
 
 *Important Places in Staging:*  [[Yengorza Mountains]]
 %%^End%%

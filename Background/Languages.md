@@ -108,7 +108,7 @@ A group of mutually understandable dialects and languages spoken by the [[Deno'q
 _Real world analog_: Hebrew or Arabic
 _Alphabet_: Unknown. %% Previously was stated as an alphabet based on Elvish, but it might be better to have it be a Northros alphabet %%
 ##### Vargaldi
-The language spoken by the [[Vargaldi]] people of the [[~Northern Boreal Forest~]]. Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
+The language spoken by the [[Vargaldi]] people of the [[Great Northern Forest]]. Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
 
 _Real world analog_: Not defined, although many names are Slavic reflecting Eastros influences. 
 _Alphabet_: Unknown. 
