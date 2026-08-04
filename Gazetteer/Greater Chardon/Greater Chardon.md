@@ -112,7 +112,7 @@ _See also: [[Places in Greater Chardon]]
 
 *Adventures:* The Dunmar Frontier campaign Chardon/Elderwood arc was partly set in this region, and the Apporia/Merfolk arc mostly set here. Despite the centrality of Chardon to the politics and culture of the Dunmar Frontier campaign, only a small number of sessions have been set in Greater Chardon.  
 
-*Important Places in Staging:* The [[Coastlands]] and the [[~Chardon Hills~]] are the two most important places.
+*Important Places in Staging:* The [[Coastlands]] and the [[Chardon Hills]] are the two most important places.
 
 %%^End%%
 

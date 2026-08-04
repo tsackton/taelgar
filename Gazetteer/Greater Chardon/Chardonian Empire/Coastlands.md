@@ -13,11 +13,11 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [[Portalia]] in the south to the [[Mawar Mountains]] in the north, and bounded inland by the [[~Lake Valandros Hills~]] and the [[~Chardon Hills~]]. 
+The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [[Portalia]] in the south to the [[Mawar Mountains]] in the north, and bounded inland by the [[Beacon Hills]] and the [[Chardon Hills]]. 
 
 The Low Coast, the portion of coastlands south of [[Chardon]], is hot and dry in the summer, with mild winters and extensive coastal wetlands. 
 
-The Upper Coast, the portion of the coastlands north of [[Chardon]], is rich agricultural land, with many rivers and mild weather, sandy beaches and small stands of ancestral forests among fields of wheat. The land here slopes gently up to the [[~Lake Valandros Hills~]]. 
+The Upper Coast, the portion of the coastlands north of [[Chardon]], is rich agricultural land, with many rivers and mild weather, sandy beaches and small stands of ancestral forests among fields of wheat. The land here slopes gently up to the [[Beacon Hills]]. 
 
 Much of the Upper Coast was occupied by [[Hobgoblins|hobgoblins]] during the [[Blood Years]]. 
 

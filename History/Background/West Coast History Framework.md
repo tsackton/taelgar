@@ -81,7 +81,7 @@ Nothing is particular established about NR 1, NR 4, or NR 5. NR 4 is entirely de
 
 When Drankor falls, a lot of academic power moves to Chardon, which becomes something of a mercantile and academic power base for the region, but is, at this time, not really a military or naval power, and certainly not the locus of an empire. 
 
-Chardon likely exerts direct political control only over the immediate hinterlands (south to the [[~Chardon Hills~]]), but canonically has significant cultural influence up the Chasa River valley (which is dotted with small city-states and minor realms, e.g. [[Kin-Aska]]). There are significant trade routes across the mountains to Sembara, also presumably at least in part in Chardon's cultural orbit, if not political orbit. 
+Chardon likely exerts direct political control only over the immediate hinterlands (south to the [[Chardon Hills]]), but canonically has significant cultural influence up the Chasa River valley (which is dotted with small city-states and minor realms, e.g. [[Kin-Aska]]). There are significant trade routes across the mountains to Sembara, also presumably at least in part in Chardon's cultural orbit, if not political orbit. 
 
 ### Post-Drankorian Realms
 

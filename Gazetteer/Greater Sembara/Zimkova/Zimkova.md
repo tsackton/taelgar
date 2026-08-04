@@ -26,7 +26,7 @@ Zimkova is a broad region of highland plateaus, dense forest, and boreal wetland
 * The upper [[Volta]], a great depression that sits between 800' and 1200', full of scattered pine forests, peat bogs, and kettle lakes, where the Volta River arises from many small rivers
 * The Breva Forest, a hilly and forested highland, sitting between 1800' and 3000' feet, a mix of dense pine forests and 
 
-The region of Zimkova consists entirely of highlands, between the tall peaks of the [[Sentinel Range|Sentinels]] and the Sembara lowlands. In general, a line of hills runs from the [[Aine Hills]] just north of the [[Wistel]], through the [[Braebein]], between the [[Semb]] and the [[Volta]] to the [[~Volta Hills~]]. Zimkova is the land west and north of this line of hills.
+The region of Zimkova consists entirely of highlands, between the tall peaks of the [[Sentinel Range|Sentinels]] and the Sembara lowlands. In general, a line of hills runs from the [[Aine Hills]] just north of the [[Wistel]], through the [[Braebein]], between the [[Semb]] and the [[Volta]] to the [[Draukar Hills]]. Zimkova is the land west and north of this line of hills.
 
 Three watersheds and two mountain spurs divide Zimkova:
 
