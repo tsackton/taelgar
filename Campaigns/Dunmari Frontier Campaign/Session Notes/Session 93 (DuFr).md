@@ -16,7 +16,7 @@ descTitle: Dragon's Defeat
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Mar 21, 1749 DR*
 > *On Earth: Sunday Feb 11, 2024*
-> *Vargald camp, [[~Northern Boreal Forest~]]*
+> *Vargald camp, [[Great Northern Forest]]*
 
 The [[Dunmar Fellowship]] protects the [[Vargaldi]] camp from a dragon, emerging victorious and strengthening ties with the community.
 ## Session Info
@@ -32,7 +32,7 @@ The [[Dunmar Fellowship]] protects the [[Vargaldi]] camp from a dragon, emerging
 - (DR:: 1749-03-21), evening: Hide [[Vargaldi]] in [[Vindristjarna]]; confront and defeat dragon. Rest and plan.
 
 ## Narrative
-We begin as the party arrives in dramatic fashion at the [[Vargaldi]] camp, nestled within the foreboding yet majestic [[~Northern Boreal Forest~|northern forests]], courtesy of their flying castle [[Vindristjarna]]. This spectacle did not go unnoticed by the local inhabitants, who, revealing their ability to transform from animals into humanoid forms, approached with a mix of curiosity and caution. Delwath, in a bid to bridge the communication gap, cycled through languages—Common, Deno'qai—before resorting to the Tongues spell to articulate their peaceful intentions and announce the return of lost Vargald members. This introduction sparked a dialogue with [[Jotha]], a woman from the camp, who expressed concerns about the visibility of their ship potentially attracting a dragon's gaze to their haven. [[Delwath]], acknowledging these fears, employed magic to camouflage the flying castle, thereby mitigating the perceived threat and earning a cautious gratitude from the Vargald.
+We begin as the party arrives in dramatic fashion at the [[Vargaldi]] camp, nestled within the foreboding yet majestic [[Great Northern Forest|northern forests]], courtesy of their flying castle [[Vindristjarna]]. This spectacle did not go unnoticed by the local inhabitants, who, revealing their ability to transform from animals into humanoid forms, approached with a mix of curiosity and caution. Delwath, in a bid to bridge the communication gap, cycled through languages—Common, Deno'qai—before resorting to the Tongues spell to articulate their peaceful intentions and announce the return of lost Vargald members. This introduction sparked a dialogue with [[Jotha]], a woman from the camp, who expressed concerns about the visibility of their ship potentially attracting a dragon's gaze to their haven. [[Delwath]], acknowledging these fears, employed magic to camouflage the flying castle, thereby mitigating the perceived threat and earning a cautious gratitude from the Vargald.
 
 ![[vargald-camp.jpg]]
 
