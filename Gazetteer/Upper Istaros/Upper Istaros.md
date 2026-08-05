@@ -48,12 +48,12 @@ markerTag: location-source
 ## Topography and Major Features
 _See more: [[Istaros Watershed]]_
 
-The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[Thalurien|Thalúrien]] watershed, and the [[~Southern Plaguelands Tributary~]] watershed. 
+The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[Thalurien|Thalúrien]] watershed, and the [[Kezhur]] watershed. 
 
 %%SECRET
 Between the rivers, two major highlands define the topography of the land:
 - West of the Istaros, a series of ridges running northwest to southeast were once the fertile heartland of the Istabor Alliance, dotted with small villages, minor streams, and productive farms. Now, this area is a broken badlands of windswept bare rock, where little grows except thorny shrubs in sheltered dells.
-- In the southeast, a series of gentle rolling hills lies between the [[~Southern Plaguelands Tributary~]] and the [[~Orenlas Tributary~]]. To the south, these hills rise sharply to series of jagged cliffs and dramatic canyons forming the [[Zhalgan]]. To the northeast, the hills rise very gradually to the sheltered forests of [[Orenlas]] and the [[Mistfold Mountains]]. 
+- In the southeast, a series of gentle rolling hills lies between the [[Kezhur]] and the [[~Orenlas Tributary~]]. To the south, these hills rise sharply to series of jagged cliffs and dramatic canyons forming the [[Zhalgan]]. To the northeast, the hills rise very gradually to the sheltered forests of [[Orenlas]] and the [[Mistfold Mountains]]. 
 
 These highlands define two broad lowland regions: 
 %%
