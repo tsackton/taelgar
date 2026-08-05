@@ -28,7 +28,7 @@ The Enst Regiment is responsible for the garrisons along the river, as well as a
 * The Enford Garrison, commanded by [[Captain Matilda Wycliffe]]
 * The North Fork Garrison, commanded by [[Captain Pierre Rochefort]]
 * The South Fork Garrison, commanded by [[Captain Reginald Blackwood]]
-* The River Garrison, commanded by [[Captain Élodie Dubois]]
+* The River Garrison, commanded by [[Captain Elodie Dubois|Captain Élodie Dubois]]
 * The First, Second, and Fourth Companies
 
 The Dunfry Regiment is responsible for the southern wall, and is commanded by [[Symone Barbet|Major Symone Barbet]]. The Dunfry Regiment is divided into 4 garrisons and 4 companies:
