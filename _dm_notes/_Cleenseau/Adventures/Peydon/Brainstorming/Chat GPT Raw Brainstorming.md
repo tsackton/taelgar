@@ -1,4 +1,8 @@
 
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
 ###### ChatGPT said:
 
 This is a fantastic, eerie setup with a lot of intrigue and atmospheric tension! Peydon seems like it has really descended into a strange, fearful existence under the influence of the hag.
@@ -117,7 +121,7 @@ Here’s a fleshed-out set of notable people in Peydon, incorporating your reque
 
 ### **The Lord’s Household**
 
-20. **Lord [[Emeric Daverre]]** – The weary and aging lord of Peydon. After the undead attack, he made a desperate bargain with the hag, and it has taken a toll on him—his hair turned white overnight, and he often seems lost in thought. He remains lord in name, but his authority is waning as he avoids conflict and focuses on keeping the town stable. He is protective of his daughter, **Ysabeau**, and quietly fears she is next in the hag’s schemes.
+20. **Lord [[Emeric Daverre|Émeric Daverre]]** – The weary and aging lord of Peydon. After the undead attack, he made a desperate bargain with the hag, and it has taken a toll on him—his hair turned white overnight, and he often seems lost in thought. He remains lord in name, but his authority is waning as he avoids conflict and focuses on keeping the town stable. He is protective of his daughter, **Ysabeau**, and quietly fears she is next in the hag’s schemes.
     
 21. **Ysabeau Daverre** – The lord’s daughter, who was once a bright and lively presence in the town but has grown withdrawn. She lost her mother to illness years ago, and now whispers say the hag has taken a strange interest in her. Some claim she has begun speaking to shadows.
     

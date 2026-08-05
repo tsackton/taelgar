@@ -47,7 +47,7 @@ Prior to the [[Riving]] time itself did not exist, and therefore events are hard
 * The [[Multiverse]] did not exist, only a [[Primordial Cosmos]], although exactly what the Primordial Cosmos was remains undefined.
 * The [[Divine Presence]] and the [[Void Mind]] both, in some fashion, came to be, either at the start of, or during, this period
 * Highly powerful magical entities, distinct from the [[Divine Presence]], existed, and included at least (and probably only), some predecessor form of [[Dragons]], [[Fey]], [[Giants]], and [[Elementals]]. What forms these powerful creatures took is not clear or canonical. It is possible that the list above is incomplete. These might powerful beings of magic, perhaps, born some similarity to their modern day echoes, but perhaps did not. %% Prior invention has referred to elder wyrms, archfey, titans, and elder elementals but it is not clear these categories need to be strictly canonical %%
-- There are no gods but the [[Divine Presence]], and no humanoids. All that exists are the magical beings that are the predecessors of the [[Children of the Riving]]. 
+- There are no gods but the [[Divine Presence]], and no humanoids. All that exists are the magical beings that are the predecessors of the Children of the Riving %% note this is outdated and not accurate to the current metaphysics %%
 - The form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use magic to constantly reshape the world into their imagining, and linear causality does not necessary work the way humanoid minds expect. 
 
 In general this period should feel mythic and transitory should rarely if ever be the source of a specific event. It may appear in the stories of some sentient races, in particular the [[Giants]] and [[Fey]]. The world can be reshaped with a thought or a gesture and magic is so powerful that the idea of a single, stable reality is questionable in this period. 
@@ -60,7 +60,7 @@ _Before time_
 Linear time began with an event, the [[Riving]], both instantaneous and eternal, a time out of time when the basic form of the  [[Multiverse]] was fixed by the [[Divine Presence]]. During the [[Riving]]:
 
 - The [[Multiverse#The Creation of the Multiverse|multiverse was created]]
-- The [[Dragons]], [[Fey]], [[Elementals|Elemental]], and [[Giants]] were created. These four species are sometimes referred to as the [[Children of the Riving]] although it is not clear if that is a meta or in-world name. The exact mechanism of creation is not clear, but it is presumed to be some echo or reflection or evolution of the beings that existed before the Riving. 
+- The [[Dragons]], [[Fey]], [[Elementals|Elemental]], and [[Giants]] were created. These four species were sometimes referred to as the Children of the Riving, but this concept has been retired. The exact mechanism of creation is not clear, but it is presumed to be some echo or reflection or evolution of the beings that existed before the Riving. 
 - The [[Embodied Gods]] were created, and they in turn created the [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], and [[Stoneborn]].  %%some old notes refer to these as Elder Folk, but this is not considered canonical and is not an in-world term; generally, it shouldn't be used %%
 - The [[Void Mind]] creates the [[Three Despairs]] as its avatars and agents in the [[Multiverse]]
 

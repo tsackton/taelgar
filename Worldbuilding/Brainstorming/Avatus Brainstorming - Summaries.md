@@ -154,10 +154,10 @@ Approximate, focusing on Avatus and his dominion rather than later mirror histor
 
  **Pre‑1420s DR (brainstormed):** Avatus, a rising warlord‑emperor on Sembara’s southern border, consolidates control over scattered hill baronies, builds a hobgoblin‑heavy army, and commissions the [[Mirror of Soul Trapping]]  via his hobgoblin court wizard.  
  **(DR:: 1420)** – [[Derik I]] marries into the [[Duchy of Telham]], beginning his rise in Sembaran politics.  
- **(DR:: 1422)** – Avatus conquers most of [[Duchy of Brovna]] but fails to break through dwarven defenses; at roughly the same time, Derik distinguishes himself in the [[Castrota Pirate War]].  
+ **(DR:: 1422)** – Avatus conquers most of [[Duchy of Brovna]] but fails to break through dwarven defenses; at roughly the same time, Derik distinguishes himself in the Castrota Pirate War. 
  **Early 1420s** – Avatus sacks the Drankorian tower at [[Cleenseau]] and establishes a dimension‑door‑linked lair beneath the fort, using it to project force north of the [[Enst]].  
    Source: [[Cleenseau History Notes]], [[Hobgoblin Camp]].  
- **(DR:: 1425)** – Avatus invades Sembara, defeating the royal army at [[Battle of Stavenford]]; Sembara retreats between the Enst and Wistel.  
+ **(DR:: 1425)** – Avatus invades Sembara, defeating the royal army at Battle of Stavenford; Sembara retreats between the Enst and Wistel.  
  **(DR:: 1425–1426)** – Avatus occupies key southern Sembaran territories and consolidates; Cleenseau becomes a major staging base.  
  **(DR:: 1425–1426)** – Derik I receives prophecy, is crowned in [[Tyrwingha]] with [[Archfey Ethlenn]]’s blessing, and begins organizing a counter‑offensive (mythic account).  
    Source: [[Tyrwingha - Ideas]].  

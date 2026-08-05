@@ -144,18 +144,18 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 
 Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], establishes the modern Sembara after the defeat of the [[Dominion of Avatus]]. 
 ##
-- (DR:: 1420): [[Derik I]], of a cadet branch of the [[House of Entranca]], marries [[Johanna of Telham]], the younger daughter of the [[Duchy of Telham|Duchess of Telham]]
-- (DR:: 1422): [[Derik I]] distinguishes himself in the [[Castrota Pirate War]]
+- (DR:: 1420): [[Derik I]], of a cadet branch of the [[House of Entranca]], marries Johanna of Telham, the younger daughter of the [[Duchy of Telham|Duchess of Telham]]
+- (DR:: 1422): [[Derik I]] distinguishes himself in the Castrota Pirate War
 - (DR:: 1422): [[Avatus]] conquerors most of the [[Duchy of Brovna]], but is prevented from pushing through the pass by dwarven efforts, supported by [[Ardlas]].  The pleas of the Duke of Brovna for aid from Sembara are ignored.
 - (DR:: 1425), summer: [[Avatus|Avatus]] invades [[Sembara]]
-- (DR:: 1425), summer: [[Avatus|Avatus]] defeats the Sembaran army at the [[Battle of Stavenford]]
-- (DR:: 1425), late summer: [[Derik I]] receives a [[The Prophecy of Udazken|prophecy]] fortelling his future kingship
+- (DR:: 1425), summer: [[Avatus|Avatus]] defeats the Sembaran army at the Battle of Stavenford
+- (DR:: 1425), late summer: [[Derik I]] receives a prophecy fortelling his future kingship (The Prophecy of Udazken)
 - (DR:: 1425), late fall: Sembaran army abandons all the lands between the [[Enst]] and the [[Wistel]] and retreats to [[Wisford]] for the winter
 - (DR:: 1425), winter: [[Derik I]] [[Derik I's Arrival in Tyrwingha|lands]] in [[Tyrwingha]] and is proclaimed king by [[Archfey Ethlenn]]
-- (DR:: 1426), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Wistel]] at the [[Battle of Wisford]]
-- (DR:: 1427), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
+- (DR:: 1426), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Wistel]] at the Battle of Wisford
+- (DR:: 1427), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Enst]] at the Battle of Fellburn
 - (DR:: 1428), spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
-- (DR:: 1429), spring: [[Derik I]] defeats [[Avatus|Avatus]] at the [[Battle of Dalfield]]
+- (DR:: 1429), spring: [[Derik I]] defeats [[Avatus|Avatus]] at the Battle of Dalfield
 - (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treaty of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
