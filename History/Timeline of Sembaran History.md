@@ -1,6 +1,7 @@
 ---
 tags: [background, status/check/errors]
 displayDefaults: {defArt: a}
+excludePublish: ["all"]
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
 dm_owner: joint
@@ -246,18 +247,18 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1549), summer: [[Derik III]] dies on the battlefield at [[Valarin]]
 - (DR:: 1549), fall: The [[Bloodlust Wars]] ends
 - (DR:: 1549), summer: [[Bertram I]] is crowned with his mother, [[Jane of Tollen]] as regent
-- (DR:: 1549), summer: The [[Tyrwingha]] [[Oracle of the Riven|Oracles]] elevate [[Rhys Taffolet]] to the crown instead of [[Bertram I]]. [[Jane of Tollen]] accepts this decision and does not attempt to force [[Tyrwingha]] to rejoin the Unified Crown.
-- (DR:: 1550), fall: Rumors reach [[Embry]] of [[Vostok Orc Wars of 1550|orc hordes]] in [[Vostok]]
-- (DR:: 1550), fall: The [[Vostok Embassy of 1550]] arrives in [[Embry]] and departs with a single company of knights, who never return. High King of Vostok is quietly dropped from [[Bertram I|Bertram's]] title
+- (DR:: 1549), summer: The [[Tyrwingha]] [[Oracle of the Riven|Oracles]] elevate Rhys Taffolet to the crown instead of [[Bertram I]]. [[Jane of Tollen]] accepts this decision and does not attempt to force [[Tyrwingha]] to rejoin the Unified Crown.
+- (DR:: 1550), fall: Rumors reach [[Embry]] of orc hordes in [[Vostok]]
+- (DR:: 1550), fall: The Vostok Embassy of 1550 arrives in [[Embry]] and departs with a single company of knights, who never return. High King of Vostok is quietly dropped from [[Bertram I|Bertram's]] title
 - (DR:: 1551), spring: The [[Year of Endless Rain|year]] starts with unseasonable and unending rains, and there is much flooding. 
 - (DR:: 1551), fall: The [[Blood Plague]] spreads north, killing everything
-- (DR:: 1552), winter: A terrible winter of [[The Famine of 1552|famine]] 
+- (DR:: 1552), winter: A terrible winter of famine 
 - (DR:: 1552), winter: [[Bertram I]] dies and [[Bertram II]] is crowned with [[Jane of Tollen]] as his regent
 - (DR:: 1552), spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Bertram I]] stops collecting rents from [[Duchy of Maseau|Maseau]]
-- (DR:: 1553), winter: The [[Regency of Jane of Tollen]] ends and [[Bertram II]] takes power himself
-- (DR:: 1558), spring: News reaches [[Embry]] of the [[Battle of White Pass]] (the opening thrust of the [[Sentinel Range War]]) and at Jane's urging, no aid is sent to [[Ardlas]] or [[Lavnoch Plateau|Lavnoch]]
+- (DR:: 1553), winter: The Regency of Jane of Tollen ends and [[Bertram II]] takes power himself
+- (DR:: 1558), spring: News reaches [[Embry]] of the Battle of White Pass (the opening thrust of the [[Sentinel Range War]]) and at Jane's urging, no aid is sent to [[Ardlas]] or [[Lavnoch Plateau|Lavnoch]]
 - (DR:: 1559): [[Jane of Tollen]] dies and [[Bertram II]] rides north to aid [[Ardlas]]
-- (DR:: 1561), late winter: [[Bertram II]] dies in the [[Battle of SomeOtherPass]]
+- (DR:: 1561), late winter: [[Bertram II]] dies in the Battle of SomeOtherPass
 - (DR:: 1561), spring: [[Blanche I]] is crowned Queen
 - (DR:: 1561), summer: The [[Sentinel Range War]] ends
 %%
@@ -265,7 +266,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1563): The barons of [[Zimkova]] refuse to come to court and meet instead at the small trade town of Doka, and proclaim Mila, Baroness of the Upper Volta as Queen of Zovcka. [[Blanche I]] does nothing, claiming it was foretold by the stars
 %%
 - (DR:: 1564): A year of fine harvests and the first year in living memory when the borders of Sembara are at peace
-- (DR:: 1565): [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the [[Green Sea]]
+- (DR:: 1565): [[Blanche I]] departs on her Grand Ambassadorship of Blanche I to the [[Green Sea]]
 - (DR:: 1566): [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
 - (DR:: 1568): The [[Interregnum of 1568]]. [[Wisym I]] appointed King.
 ## The Hobgoblin Wars
@@ -279,25 +280,25 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1583): The [[Cursed Cold]] spreads from the Plaguelands for five months, until [[Rangers]] and others heal the land. Rumors spread that this was divine retribution for [[Anne|Anne's]] sins
 - (DR:: 1590): The [[Shattered Ice Clan]] launches significant raids across [[Duchy of Maseau|Maseau]], which sends an [[The Maseau Embassy of 1590|embassy]] to Sembara for aid
 - (DR:: 1590), fall: [[Elaine I]] sends the [[Army of Mostreve]] and the [[Army of the South]] to aid [[Duchy of Maseau|Maseau]]. The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] begins
-- (DR:: 1602): [[Blanche II]] dies in childbirth, and her great uncle, [[Percival Wynthrope]], becomes regent for her young son
-- (DR:: 1602): The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends with the [[Treaty of Châteauclair]] between the regent, [[Percival Wynthrope]] and the [[Shattered Ice Clan]]. The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
+- (DR:: 1602): [[Blanche II]] dies in childbirth, and her great uncle, Percival Wynthrope, becomes regent for her young son
+- (DR:: 1602): The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends with the Treaty of Châteauclair between the regent, Percival Wynthrope and the [[Shattered Ice Clan]]. The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
 - (DR:: 1644), spring: A new leader amongst the [[Shattered Ice Clan]] starts a war of ethnic cleansing against [[Duchy of Maseau|Maseau]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
-- (DR:: 1644), late spring: [[Arryn II]], at the urging of his daughter [[Charlotte II]] and her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]]
-- (DR:: 1644), fall: After several early successes, the Sembaran [[Army of the West]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
+- (DR:: 1644), late spring: [[Arryn II]], at the urging of his daughter [[Charlotte II]] and her husband Lionel Falconhurst, the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]]
+- (DR:: 1644), fall: After several early successes, the Sembaran [[Army of the West]] is fought to a stalemate at the Battle of Lysandale  in the western reaches of Maseau
 - (DR:: 1644), fall: The [[Shattered Ice Clan]] abandons the campaign in [[Duchy of Maseau|Maseau]] and redirects their armies to [[Sembara]]
 - (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] probes the fortifications along the [[Enst]], launching attacks on [[Cleenseau]] and [[Rinburg]], both of which are repelled at some cost. The [[Rinburg]] bridge is destroyed, but hobgoblins establish a fortified camp near [[Dallet]]
 - (DR:: 1645):  Afraid of collaboration with [[Sembara]], the hobgoblins begin a series of brutal campaigns against the remaining humans living south of the [[Enst]]. Raiding continues north of the [[Enst]] and the armies swell around [[Rinburg]] and [[Cleenseau]]
-- (DR:: 1646), summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. [[Rinburg]] is occupied, and [[Cleenseau]] and [[Dunfry]] are isolated
+- (DR:: 1646), summer: The Sembaran Grand Army is defeated at the Battle of Rinburg. [[Rinburg]] is occupied, and [[Cleenseau]] and [[Dunfry]] are isolated
 - (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conquerors [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
 - (DR:: 1647): The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
-- (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the Earl of Addermarch holds the line of the [[Aure]] at the [[Battle of the Aure]]
-- (DR:: 1647), summer: [[Dunfry]] is [[Siege of Dunfry (Third Hobgoblin War)|besieged]].
-- (DR:: 1647), late fall: [[Fellburn]] is [[The Hobgoblin Sack of Fellburn|sacked]]
-- (DR:: 1648), late fall: [[Arryn II]] is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]. His daughter, [[Charlotte II]] is caught in the same attack, but survives for two months before dying of an injury that resisted all magical healing
+- (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the Earl of Addermarch holds the line of the [[Aure]] at the Battle of the Aure
+- (DR:: 1647), summer: [[Dunfry]] is besieged
+- (DR:: 1647), late fall: [[Fellburn]] is sacked
+- (DR:: 1648), late fall: [[Arryn II]] is killed by hobgoblins while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]. His daughter, [[Charlotte II]] is caught in the same attack, but survives for two months before dying of an injury that resisted all magical healing
 - (DR:: 1648), late winter: Cece I crowned Queen
-- (DR:: 1648), early spring: The [[Army of the North]] attempts to break the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]], and is bogged down
+- (DR:: 1648), early spring: The [[Army of the North]] attempts to break the siege of Dunfry, and is bogged down
 - (DR:: 1648), late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of
-- (DR:: 1648), early summer: After a few stalemates, the [[Radiant Alliance]] sweeps across Sembara. [[Rinburg]] and [[Cleenseau]] are liberated and the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]] is broken
+- (DR:: 1648), early summer: After a few stalemates, the [[Radiant Alliance]] sweeps across Sembara. [[Rinburg]] and [[Cleenseau]] are liberated and the siege of Dunfry is broken
 - (DR:: 1648), summer:  [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
 - (DR:: 1649), summer: The Maseau Campaign pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
 - (DR:: 1650), summer: The Enford Campaign pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]

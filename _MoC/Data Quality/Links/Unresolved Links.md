@@ -8,9 +8,9 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **166** unresolved targets: **163** notes and **3** attachments
-- **229** occurrences across **76** source files
-- **4001** source notes scanned; raw and generated processing material excluded
+- **136** unresolved targets: **133** notes and **3** attachments
+- **187** occurrences across **64** source files
+- **4000** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
 
@@ -85,14 +85,6 @@ This is a static review list of links whose note or attachment target does not e
   > In other places, especially where it passes through the edge of Twilight’s Grace, there are elaborate structures - the ~Evensong Spire~ is particularly famous for its immense towers that intertwine with the painted colors of the sunset.
 - [[Gazetteer/Extraplanar/Feywild/Sunset Gate|Sunset Gate]] — line 20; 2 occurrences in this file
   > In other places, especially where it passes through the edge of Twilight’s Grace, there are elaborate structures - the ~Evensong Spire~ is particularly famous for its immense towers that intertwine with the painted colors of the sunset.
-
-## `[[Alaric]]` — 1 file · 1 occurrence
-
-[[Alaric]]
-
-- [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Alaric Lord Mayor of Rinburg|Letter from Alaric Lord Mayor of Rinburg]] — line 5
-  > # Letter from Alaric, Lord Mayor of Rinburg
-
 
 ## `[[Ashwell Brook]]` — 1 file · 1 occurrence
 
@@ -206,14 +198,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 18
   > * Chantefleur, along the north side, the center of fishing on the lake, with the largest and best docks. A ferry departs from here for Lynthia twice a day. Close to where the Auberonne flows into the lake
 
-
-## `[[Children of the Embodied Gods]]` — 1 file · 1 occurrence
-
-[[Children of the Embodied Gods]]
-
-- [[Worldbuilding/Talk/Historical Framework - Open Questions|Historical Framework - Open Questions]] — line 44
-  > …ally the creation of Thark, who is in turn metaphysically an embodied god created in some fashion by the Void Mind, or perhaps one of its avatars. This means that orcs are, metaphysically, similar to the other Children of the Embodied Gods.
-
 ## `[[Children of the Riving]]` — 1 file · 2 occurrences
 
 [[Children of the Riving]]
@@ -228,54 +212,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
   > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
 
-## `[[Discord Chat  Addermarch]]` — 1 file · 2 occurrences
-
-[[Discord Chat  Addermarch]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 147; 2 occurrences in this file
-  > Source: Discord Chat Addermarch.
-
-## `[[Discord Chat  Avatus and Hobgolbins]]` — 1 file · 2 occurrences
-
-[[Discord Chat  Avatus and Hobgolbins]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 123; 2 occurrences in this file
-  > Sources: A Chronicle of Sembaran History, Discord Chat Avatus and Hobgolbins, Discord Chat Sembara History.
-
-## `[[Discord Chat  History of Western Green Sea]]` — 1 file · 1 occurrence
-
-[[Discord Chat  History of Western Green Sea]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 238
-  > …Avatus and Hobgolbins, Discord Chat Sembara History, Discord Chat Addermarch, Discord Chat History of Western Green Sea – rich for intent and vibe, but not always aligned with later writeups; good guidance for tone and unresolved questions.
-
-## `[[Discord Chat  Sembara History]]` — 1 file · 2 occurrences
-
-[[Discord Chat  Sembara History]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 123; 2 occurrences in this file
-  > Sources: A Chronicle of Sembaran History, Discord Chat Avatus and Hobgolbins, Discord Chat Sembara History.
-
-## `[[Discord Chat  Upper Istaros Region]]` — 1 file · 1 occurrence
-
-[[Discord Chat  Upper Istaros Region]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 133
-  > Sources: Human Cultures of Taelgar, “GDrive – Sembara Document”, Discord Chat Upper Istaros Region.
-
 ## `[[Drogoloth]]` — 1 file · 1 occurrence
 
 [[Drogoloth]]
 
 - [[Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz|Xurkhaz]] — line 46
   > - Drogoloth, a mining town on the western banks of the Istaros, near the hills and at the furthest point north boats can travel on the Istaros before hitting the rapids
-
-## `[[Earl of Addermarch]]` — 1 file · 1 occurrence
-
-[[Earl of Addermarch]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 293
-  > - (DR:: 1647), summer: The Army of Mostreve in alliance with the Earl of Addermarch holds the line of the Aure at the Battle of the Aure
 
 ## `[[Eirian]]` — 1 file · 1 occurrence
 
@@ -339,13 +281,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
   > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
-
-## `[[Ethlenn]]` — 1 file · 2 occurrences
-
-[[Ethlenn]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 109; 2 occurrences in this file
-  > When Derik lands in Tyrwingha, the Archfey **Ethlenn** appears, blesses him, and endorses him as king; his subsequent victory over Avatus and the Treaty of Wisford become the basis for the **unification of the crowns** of Sembara, Tyrwingha…
 
 ## `[[Etienne]]` — 1 file · 8 occurrences
 
@@ -480,13 +415,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 285
   > - (DR:: 1644), late spring: Arryn II, at the urging of his daughter Charlotte II and her husband Lionel Falconhurst, the grandson of the Duke of Maseau, and a prominent Isinguen, launches a rapid assault on the Shattered Ice Clan
 
-## `[[LL - Session 3]]` — 1 file · 1 occurrence
-
-[[LL - Session 3]]
-
-- [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths - Player Background|Labyrinths - Player Background]] — line 47
-  > Session 3: December 10th, 2023, 7 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
-
 ## `[[Lynthia]]` — 1 file · 3 occurrences
 
 [[Lynthia]]
@@ -522,27 +450,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[_DM_/Secret Worldbuilding/History of Dunmar|History of Dunmar]] — line 15
   > …their ancestry to a minor Hkaran culture that emigrated in the years after the Mariner Exodus, as the Hkaran Urban Culture spread and become dominant. These people settled somewhere in the east and south, and grew slowly beyond the reach o…
 
-## `[[Marius]]` — 1 file · 1 occurrence
-
-[[Marius]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27|Cleenseau - Session 27]] — line 108
-  > The gate guard (Marius) gets Etienne, who does a perfunctory 'swear to not do magic' thing, takes the fake necklace that Viepuck had had Izgil make out of stuff we had lying around the party, goes, "This isn't what I was told to get, but ok…
-
-## `[[Market Road]]` — 1 file · 1 occurrence
-
-[[Market Road]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 37
-  > * A paved road (Market Road) leads from east to west, between the Market Gate (Cleenseau) and the North Gate, and divides the North Close from the Garrison Quarter and Underhill
-
-## `[[Mavis]]` — 1 file · 1 occurrence
-
-[[Mavis]]
-
-- [[_dm_notes/_Addermarch/Adventure 6 - The Cursed Axe/Addermarch - Session 16 - DM Notes|Addermarch - Session 16 - DM Notes]] — line 63
-  > - Seemed to be outfitting for an expedition before he left in March. Asked especially about rope; I directed him to Mavis, the ropemaker; she might know more
-
 ## `[[Mawar Episode 04]]` — 1 file · 1 occurrence
 
 [[Mawar Episode 04]]
@@ -577,13 +484,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 17
   > * Mirabelle, the smallest, on the north west side, near the Enst
-
-## `[[Navy of Chardon]]` — 1 file · 1 occurrence
-
-[[Navy of Chardon]]
-
-- [[_DM_/Staging/Mitus Verina Auratan Revised|Mitus Verina Auratan Revised]] — line 45
-  > - Navy of Chardon — core constituency; source of early legitimacy and ongoing support.
 
 ## `[[North Watch]]` — 1 file · 1 occurrence
 
@@ -634,13 +534,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Tyrwingha/Political Organization of Tyrwingha|Political Organization of Tyrwingha]] — line 12
   > Unlike in Sembara, where the manor is the main unit of political organization, Tyrwingha is fundamentally organized, from the bottom, around the village, and from the top, around the earls.
 
-## `[[Rangers of Aurbez]]` — 1 file · 1 occurrence
-
-[[Rangers of Aurbez]]
-
-- [[_DM_/Staging/Marcella Revised|Marcella Revised]] — line 50
-  > - Rangers of Aurbez — adopted organization for frontier security work.
-
 ## `[[Raoul]]` — 1 file · 1 occurrence
 
 [[Raoul]]
@@ -689,20 +582,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[_DM_/Timelines/Old Timeline (Table)|Old Timeline (Table)]] — line 184; 6 occurrences in this file
   > …the metaphysics of other planes and Agata Dustmother with Tharandros. Decide to travel east with Havdar. | | Celestial meteor crashes in Yuvanti mountains. ROA | Fraternity of the Empty Moon arrives in Tokra, begins to set up secret lair. |
-
-## `[[Robert I's Bandit War]]` — 1 file · 1 occurrence
-
-[[Robert I's Bandit War]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 319
-  > - (DR:: 1715), summer: Robert leads the Army of the North on a summer campaign against bandits in the Aine Hills and Sembaran Highlands
-
-## `[[Robert of Sewick]]` — 1 file · 1 occurrence
-
-[[Robert of Sewick]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 320
-  > - (DR:: 1716), spring: Robert's eldest son, Robert is infected by a lycanthrope and disappears shortly afterward west of Enford
 
 ## `[[Robert Sonneboar]]` — 1 file · 1 occurrence
 
@@ -837,26 +716,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 22
   > * West of Ainwick, the Tarnslow, which meanders north and west from the north edge of the Cleenseau Wood
 
-## `[[Thaddeus of Sewick]]` — 1 file · 1 occurrence
-
-[[Thaddeus of Sewick]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 322
-  > - (DR:: 1717), late winter: Robert's younger son, Thaddeus is shipwrecked off the coast of Cymea, with his wife and young child, and is never heard from again
-
 ## `[[The Ambush of Charlotte II]]` — 1 file · 1 occurrence
 
 [[The Ambush of Charlotte II]]
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 296
   > - (DR:: 1648), late fall: Arryn II is killed by hobgoblins while travelling to inspect the Army of the South camped outside Wisford. His daughter, Charlotte II is caught in the same attack, but survives for two months before dying of an inj…
-
-## `[[The Enford Campaign]]` — 1 file · 1 occurrence
-
-[[The Enford Campaign]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 303
-  > - (DR:: 1650), summer: The Enford Campaign pushes the Shattered Ice Clan out of the headwaters of the Enst and establishes a strong garrison at Enford
 
 ## `[[The Exodus of the Dunmari]]` — 1 file · 1 occurrence
 
@@ -878,13 +743,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 295
   > - (DR:: 1647), late fall: Fellburn is sacked
-
-## `[[The Maseau Campaign]]` — 1 file · 1 occurrence
-
-[[The Maseau Campaign]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 302
-  > - (DR:: 1649), summer: The Maseau Campaign pushes the Shattered Ice Clan west of Maseau, into the foothills of the Sentinel Range and the Marches of Enford
 
 ## `[[The Maseau Embassy of 1590]]` — 1 file · 1 occurrence
 
@@ -920,13 +778,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/History of Greater Sembara|History of Greater Sembara]] — line 34
   > …, and cover the modern areas of: Sembara, Maseau, Addermarch, Tyrwingha, and Ardlas. The Skaer Empire has largely faded away (but see Timeline of Skaer History), and there are several human cultures within and outside the Drankorian Empire:
-
-## `[[Tyrwingha  Ideas]]` — 1 file · 3 occurrences
-
-[[Tyrwingha  Ideas]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 106; 3 occurrences in this file
-  > A more mythic account in Tyrwingha Ideas (and older “GDrive – Sembara Document”) presents Avatus/Avatus as a **military dictator ravaging Sembara** with hobgoblins and werewolves while prophets in Tyrwingha proclaim looming End Times.
 
 ## `[[Underhill Way]]` — 1 file · 1 occurrence
 
@@ -1102,13 +953,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Western Green Sea/Western Green Sea|Western Green Sea]] — line 61
   > * The shores around the Skaer Islands, including the ~Skaer Northcoast Peninsula~ and the ~Skaer Shores~ north of the ~Vostok Coastal River~ are mostly coastal flatlands with mountains behind them
-
-## `[[~Some Spring Holiday~]]` — 1 file · 1 occurrence
-
-[[~Some Spring Holiday~]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Taxes in Sembara|Taxes in Sembara]] — line 23
-  > * The *hearth tax* is collected every spring, the week after ~Some Spring Holiday~, from the lord of the manor, on behalf of the crown. The hearth tax is collected at the rate of ~tbd~ in the spring. Poor homes without a hearth do not have…
 
 ## `[[~Southern Sentinel Spur~]]` — 1 file · 2 occurrences
 

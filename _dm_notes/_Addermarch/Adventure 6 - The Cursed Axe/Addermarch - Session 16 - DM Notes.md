@@ -60,7 +60,7 @@ Can give them:
 - Always asking about tracks up into the mountains, above the Highmoor
 - Packed him up for long-ish journeys, up to a week, but often came back scowling and unhappy it seemed, though he'd try to hide it
 - Once, though, he came back happy, I remember because he tipped me a gold coin. He rarely tossed around money but he seemed unguarded this time. It was before the first snow last winter, before Viatela. He was smiling, said that he'd be gone by March. Seemed like he found something or someone he was looking for. 
-- Seemed to be outfitting for an expedition before he left in March. Asked especially about rope; I directed him to [[Mavis]], the ropemaker; she might know more
+- Seemed to be outfitting for an expedition before he left in March. Asked especially about rope; I directed him to [[Marvis Windstone]], the ropemaker; she might know more
 
 #### Emma
 Rethan's older sister, maybe 3-4 years older than him
