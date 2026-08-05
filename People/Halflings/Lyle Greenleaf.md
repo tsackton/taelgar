@@ -10,7 +10,7 @@ ancestry:
 gender: male
 affiliations: [{org: Greenleafs, type: primary}]
 whereabouts:
-- {type: away, start: 1748-07-18, end: 1748-07-18, location: ~Crossroads Caravanserai~}
+- {type: away, start: 1748-07-18, end: 1748-07-18, location: Melavan Caravanserai}
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
 dm_owner: none
 dm_notes: none

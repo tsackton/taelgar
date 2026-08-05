@@ -6,7 +6,7 @@ species: dragon
 subspecies: black dragon
 gender: female
 whereabouts:
-- {type: home, location: ~Circular Island~}
+- {type: home, location: Circular Island}
 dm_owner: tim
 dm_notes: important
 ---

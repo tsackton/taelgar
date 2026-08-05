@@ -7,7 +7,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: 
-- { type: home, location: ~Karawa Desert~}
+- { type: home, location: Karawa Desert}
 dm_notes: color
 dm_owner: none
 ---

@@ -8,7 +8,7 @@ name: Arryn's Tower
 typeOf: building
 whereabouts:
   - type: home
-    location: ~Eastern Islands~
+    location: Eastern Isles
     linkText: in the
 dm_notes: none
 dm_owner: none
