@@ -113,7 +113,7 @@ The Central Highlands Region is a land of contrasts, from vast forests dominated
 The Central Highlands includes the [[Sentinel Range]], as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the [[Zarnato]] and its tributaries. 
 
 - To the north, this region is bordered by the cold polar regions of the [[Far North]]. 
-- To the east, this region is bordered by the [[Highland Kingdoms]], the [[The Western Marches]] of [[Sembara]], and the [[Refounded Alliance of Aurbez]]. 
+- To the east, this region is bordered by the [[Zimkova|Highland Kingdoms]], the [[Western Marches]] of [[Sembara]], and the [[Refounded Alliance of Aurbez]]. 
 - To the south, this region is bordered by the plains of [[Dunmar]]. 
 - To the west, this region is bordered by the [[Chardonian Empire]], the northern hinterlands of the [[Chardonian Empire]], and the coastal north. 
 
@@ -137,7 +137,7 @@ Update boundaries of what is considered "once part of Ainumarya" in forest notes
 		- ***Real world analogs:*** None, although perhaps some bits of Mordor could be a reasonable mental model. 
 	- Passes: the [[Sentinel Range]] is easily crossable only in a few places. 
 		- To the north, the gap between the middle section and the northern section is traversable in all seasons, but lightly settled; the northern section itself is extremely inhospitable in the highest peaks.
-		- The middle section has passes around [[~High Horn~]], west of the [[Highland Kingdoms]], and in the area west of the [[Western Marches]]. But the latter was disrupted by [[Cha'mutte]]'s death and is no longer considered passable. 
+		- The middle section has passes around [[~High Horn~]], west of the [[Zimkova|Highland Kingdoms]], and in the area west of the [[Western Marches]]. But the latter was disrupted by [[Cha'mutte]]'s death and is no longer considered passable. 
 		- The south section has several routes that cross between the [[Refounded Alliance of Aurbez]] and northern [[Dunmar]]. 
 - [[Ainumarya]]: A vast forest in the foothills and lowlands west of the [[Sentinel Range|Sentinels]], that stretches from the [[Elderwood]] in the south to the [[Crimson Forest]] in the north. Historically a major center of elvish civilization. Most of this region is a dominated by huge conifers and a rich ecosystem. 
 	- ***Real world analogs:*** Temperate rainforests, especially the forests of the Pacific Northwest, are probably the best model, albeit with more magic. 

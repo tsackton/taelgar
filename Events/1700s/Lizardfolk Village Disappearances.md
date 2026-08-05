@@ -39,7 +39,7 @@ On September 20th, 1748, the [[Silver Tempests]] severed the connection between 
 
 ### Mechanism and context
 
-- Cairn Dor is a [[Shadowfolds|Shadowfold]] domain connected to the Material Plane through the Cleaver-Stone. DM background links its creation to Yeshara's attempt to sever mortal dreamers from the [[Plane of Consciousness]].
+- Cairn Dor is a [[Shadowfolds|Shadowfold]] domain connected to the Material Plane through the Cleaver-Stone. DM background links its creation to Yeshara's attempt to sever mortal dreamers from the [[Plane of Souls|Plane of Consciousness]].
 - A soul compass allowed the Shemra Azem to locate settlements and raid them for dreamers. The captives sustained the Shemra Azem, and waking a dreamer killed the linked warrior.
 - Lizardfolk may have been especially valuable or vulnerable because of their strong connection to their ancestors and the Dreamworld. The Cairn Dor Sigil marked the magic used in the raids.
 - Closing the Cleaver-Stone connection stopped the raids but did not release captives already held in Cairn Dor. They were freed only after Yeshara's defeat.
