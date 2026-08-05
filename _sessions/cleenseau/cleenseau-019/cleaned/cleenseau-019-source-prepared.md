@@ -2,9 +2,9 @@
 [u0002] >[!info] Rescue from the Tower: in which the party rescues Damien and defeats the Duskhound > *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn]], [[Izgil Moonseeker]]* > *In Taelgar: (DR:: 1720-02-21)* > *On Earth: October 13th, 2024* > *[[Veltor]], Tower*
 [u0003] The party rescues [[Damien Montrichard]] from imprisonment, defeats a terrifying Duskhound creature, and escapes the keep.
 [u0004] ## Timeline
-[u0005] - **(DR:: 1720-02-21):** The party rescues [[Sabine de Brune|Lady Debrune]] and her fey friend from the keep - **(DR:: 1720-02-21):** The fey friend explains his mission and reveals fey incursion history - **(DR:: 1720-02-21):** The party climbs the tower to rescue the imprisoned [[Damien Montrichard]] - **(DR:: 1720-02-21):** The party defeats the [[Duskhound]] and escapes via the widow's walk - **(DR:: 1720-02-21):** [[Victorine Rosseau|The magistrate]] agrees to delay the trial, waiting for [[Isabeau d'Aslain|the baroness]]'s return
+[u0005] - **(DR:: 1720-02-21):** The party rescues [[Sabine de Brune|Lady Debrune]] and her fey friend from the keep - **(DR:: 1720-02-21):** The fey friend explains his mission and reveals fey incursion history - **(DR:: 1720-02-21):** The party climbs the tower to rescue the imprisoned [[Damien Montrichard]] - **(DR:: 1720-02-21):** The party defeats the [[Duskhounds]] and escapes via the widow's walk - **(DR:: 1720-02-21):** [[Victorine Rosseau|The magistrate]] agrees to delay the trial, waiting for [[Isabeau d'Aslain|the baroness]]'s return
 [u0006] ## Cast of Characters
-[u0007] - **[[Robin of Abenfyrd]]** – member of the party, paladin - **[[Viepuck]]** – member of the party, young warlock, growing damage specialist - **[[Celyn]]** – member of the party, rogue with traditional "Hi!" greeting - **[[Izgil Moonseeker]]** – member of the party, dwarf with tremorsense - **[[Damien Montrichard]]** – imprisoned ranger, rescued from the tower - **[[Duskhound]]** – terrifying eldritch creature guarding the tower, defeated - **[[Areschera|Fairy Shapeshifter]]** – posing as [[Marguerite Deschamps]], pursuing the party - **[[Marguerite Deschamps]]** – murdered and replaced by fairy - **[[Istarias|Mysterious Fey Friend]]** – warns of the Gloomshaper's plans, helps escape - **[[Greymalkin]]** – [[Robin]]'s gryphon mount, guards the corpse and wants vengeance - **[[Marceline Dupont|Captain of Horse]]** – informed of the conspiracy - **[[Victorine Rosseau|Magistrate]]** – agrees to delay trial, summons baroness - **[[Isabeau d'Aslain|Baroness]]** – expected to return in two days
+[u0007] - **[[Robin of Abenfyrd]]** – member of the party, paladin - **[[Viepuck]]** – member of the party, young warlock, growing damage specialist - **[[Celyn]]** – member of the party, rogue with traditional "Hi!" greeting - **[[Izgil Moonseeker]]** – member of the party, dwarf with tremorsense - **[[Damien Montrichard]]** – imprisoned ranger, rescued from the tower - **[[Duskhounds]]** – terrifying eldritch creature guarding the tower, defeated - **[[Areschera|Fairy Shapeshifter]]** – posing as [[Marguerite Deschamps]], pursuing the party - **[[Marguerite Deschamps]]** – murdered and replaced by fairy - **[[Istarias|Mysterious Fey Friend]]** – warns of the Gloomshaper's plans, helps escape - **[[Greymalkin]]** – [[Robin]]'s gryphon mount, guards the corpse and wants vengeance - **[[Marceline Dupont|Captain of Horse]]** – informed of the conspiracy - **[[Victorine Rosseau|Magistrate]]** – agrees to delay trial, summons baroness - **[[Isabeau d'Aslain|Baroness]]** – expected to return in two days
 [u0008] ## Places
 [u0009] - **[[Veltor]]** – town location - **Keep** – where party conducts rescue - **Tower** – where [[Damien Montrichard]] is imprisoned - **Landing** – where fairy shapeshifter waits - **Tower Room** – high chamber with widow's walk - **Widow's Walk** – escape route from the tower - **Stable** – where Duskhound corpse is hidden - **Safe House** – where [[Damien Montrichard]] is taken
 [u0010] ## Rumors and Information
@@ -39,16 +39,16 @@
 [u0039] It comes back down, its antlers glowing an eldritch green, and a haze seeps out of them; it takes two swings at Robin, who despite protecting himself is mildly nicked by the giant blade.
 [u0040] Then it bamfs back around the curve.
 [u0041] Celyn lets Robin lead on going up the stairs and sneaks up behind him (primarily again because he Has A Concern about this and going up With Paladin is better than going up Solo; I think in any other circumstance he would have gone up first).
-[u0042] The room at the top of the tower is largely empty and contains our friend (chained to the wall, semiconscious, and gagged, and thus not able to utilize the care package prepared for him) and the [[Duskhound]], just barely out of Robin's reach.
+[u0042] The room at the top of the tower is largely empty and contains our friend (chained to the wall, semiconscious, and gagged, and thus not able to utilize the care package prepared for him) and the [[Duskhounds]], just barely out of Robin's reach.
 [u0043] Because I didn't have the action available to do a mage hand thing I was planning on doing, [[Estiasilos|the eldritch flying purple octopus]] cut the gag on the chained bard.
 [u0044] Everyone piles into the staircase after Izgil dispels the fear effect (from the haze) that Robin and Celyn had previously shrugged off.
-[u0045] Viepuck blasts the [[Duskhound]] again.
+[u0045] Viepuck blasts the [[Duskhounds]] again.
 [u0046] (Viepuck is growing into a damage-output monster as well as a human telegraph.)
-[u0047] The [[Duskhound]] tries to shoot Viepuck down the staircase; Robin deflects one arrow with his shield because shooting past the defense-and-protection specialist paladin is actually reasonably ineffective.
+[u0047] The [[Duskhounds]] tries to shoot Viepuck down the staircase; Robin deflects one arrow with his shield because shooting past the defense-and-protection specialist paladin is actually reasonably ineffective.
 [u0048] One arrow gets by, taking out one of Viepuck's mirror images.
 [u0049] The monster also starts emitting a cold aura, which, since it's backed up next to [[Damien Montrichard]], is sort of worrisome of it; he is not in a condition to take that sort of damage.
 [u0050] Celyn slips out of the stairway and flicks an illusion of a stone wall across most of the door to make it less likely the thing can get line of sight to teleport into the staircase to either escape or hit the casters.
-[u0051] Robin engages the [[Duskhound]] and knocks it away from our imprisoned friend; the [[Duskhound]]'s cold aura snaps and focuses on Robin, and the creature itself blips over next to the stairway as a reaction to being hit.
+[u0051] Robin engages the [[Duskhounds]] and knocks it away from our imprisoned friend; the [[Duskhounds]]'s cold aura snaps and focuses on Robin, and the creature itself blips over next to the stairway as a reaction to being hit.
 [u0052] Next to Celyn.
 [u0053] Who it appears not to have noticed.
 [u0054] This is of course profoundly funny to Celyn.
@@ -73,10 +73,10 @@
 [u0073] While we are debating, Izgil's tremorsense notices someone coming up the stairs.
 [u0074] [[Estiasilos|The eldritch octopus]] is hiding down there to report on what's going on, and we thus are aware of the fey that guy was the bodyguard for coming up, looking around at the situation, spotting the ball bearings, and, well, an illusion of her went into the room, carefully navigating around our chaos.
 [u0075] We know she's on the landing below us, and thus our route of escape is closed.
-[u0076] We climb up to the widow's walk on the tower, carrying the body of the [[Duskhound]] with us, and determine that Robin can get [[Damien Montrichard]] to [[Merriweather's Tailor Shop|the safehouse]] with a combination of the [[Ring of Jumping (Cleenseau)|ring of jumping]] (to get beyond the outer wall) and feather fall (to not plummet to their doom); the rest of us hop off the tower with just the feather fall and hide the corpse in a stable.
+[u0076] We climb up to the widow's walk on the tower, carrying the body of the [[Duskhounds]] with us, and determine that Robin can get [[Damien Montrichard]] to [[Merriweather's Tailor Shop|the safehouse]] with a combination of the [[Ring of Jumping (Cleenseau)|ring of jumping]] (to get beyond the outer wall) and feather fall (to not plummet to their doom); the rest of us hop off the tower with just the feather fall and hide the corpse in a stable.
 [u0077] A minute or three after we do this, the door up to the tower opens, and [[Estiasilos|the eldritch octopus]] gets the hell out of dodge.
-[u0078] [[Damien Montrichard]], in the safe space, reports to Robin that he'd used a clairaudience trick to eavesdrop on the shapeshifter and the [[Duskhound]], a conversation that swapped from her giving directions and orders in mingled languages only some of which he understood to her telling tales of chaos she had caused and getting a different voice laughing and grading her work.
-[u0079] Which means we know that the contestants in this little game are using the [[Duskhound]]s to report their score and we have at least deprived her of the ability to continue gaining points.
+[u0078] [[Damien Montrichard]], in the safe space, reports to Robin that he'd used a clairaudience trick to eavesdrop on the shapeshifter and the [[Duskhounds]], a conversation that swapped from her giving directions and orders in mingled languages only some of which he understood to her telling tales of chaos she had caused and getting a different voice laughing and grading her work.
+[u0079] Which means we know that the contestants in this little game are using the [[Duskhounds]]s to report their score and we have at least deprived her of the ability to continue gaining points.
 [u0080] He believes that the lady spotted his spell because after that point they started hurting him.
 [u0081] Celyn meanwhile goes to obtain our friend [[Marceline Dupont|the captain of horse]] to say GUESS WHAT WE FOUND A PROBLEM and explain the situation.
 [u0082] In the resulting conversation we tell her we believe [[Marguerite Deschamps|Marguerite]] is both dead and replaced with a fairy shapeshifter and that this was her bodyguard.
@@ -87,7 +87,7 @@
 [u0087] Don't we have a Terrifying Beast who might be able to guard it?
 [u0088] [[Greymalkin]] does not like stables - they are well beneath his dignity - but guarding a thing that happens to be stashed in a stable is acceptable to him, and this is the sort of hairsplitting distinction that needs to be understood in order to deal with the fey.
 [u0089] [[Greymalkin]] is summoned.
-[u0090] [[Greymalkin]] is _delighted_ to see a dead [[Duskhound]].
+[u0090] [[Greymalkin]] is _delighted_ to see a dead [[Duskhounds]].
 [u0091] [[Greymalkin]] is _extremely disappointed_ that he was not invited along to kill it himself.
 [u0092] Robin attempts to explain to him that we were in a narrow staircase.
 [u0093] "I would fit!" (Dear reader: he would not fit.)

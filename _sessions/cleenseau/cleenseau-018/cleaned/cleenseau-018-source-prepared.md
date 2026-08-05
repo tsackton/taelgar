@@ -106,7 +106,7 @@
 [u0106] Me: Hey, my crazy is optimized for talking to fairies!
 [u0107] ...
 [u0108] except for the other crazy.
-[u0109] [[Istarias|The fairy]]'s suspicion is that the reason [[Sabine de Brune|the lady]] has been hauled in is to get them (possibly him) under the observation of Her, meaning [[Areschera|the fairy masquerading as the clerk]], and that [[Duskhound|the Duskhound]] (terrifying horned fey) checks in on them occasionally.
+[u0109] [[Istarias|The fairy]]'s suspicion is that the reason [[Sabine de Brune|the lady]] has been hauled in is to get them (possibly him) under the observation of Her, meaning [[Areschera|the fairy masquerading as the clerk]], and that [[Duskhounds|the Duskhound]] (terrifying horned fey) checks in on them occasionally.
 [u0110] He would like help getting out.
 [u0111] Celyn is not like he expected him to be.
 [u0112] "Maybe better!" Celyn agrees we will do what we can.
@@ -146,7 +146,7 @@
 [u0146] Viepuck, pointing at Izgil: We have a chaperone!
 [u0147] Amongst our things telling her is that [[Damien Montrichard|Damian]] is not in fact located in the jail.
 [u0148] She does not question how we know this, she is just deeply bothered by it.
-[u0149] Viepuck ducks out to the loo and casts magical telegraph, contacting [[Damien Montrichard|Damian]] and confirming that he's alive, being guarded by [[Duskhound|the Doomhound]], and got dragged up some stairs to get to where he is.
+[u0149] Viepuck ducks out to the loo and casts magical telegraph, contacting [[Damien Montrichard|Damian]] and confirming that he's alive, being guarded by [[Duskhounds|the Doomhound]], and got dragged up some stairs to get to where he is.
 [u0150] We carry on with various scheme arrangements while [[Estiasilos|Es*tiaslos]] the flying purple eldritch octopus cases the keep to figure out where the hell [[Damien Montrichard|Damian]] is.
 [u0151] Having located the secret door, we proceed to hatch a sequence of plans to get [[Sabine de Brune|Lady Debrune]] out of here and then go in and rescue [[Damien Montrichard|Damian]] before he is either killed or entirely ensorcelled to throw himself under the bus and possibly us as well, who knows what complicated charm effects laid by fey might accomplish.
 [u0152] The rescue of [[Sabine de Brune|the lady]] proceeds as follows:

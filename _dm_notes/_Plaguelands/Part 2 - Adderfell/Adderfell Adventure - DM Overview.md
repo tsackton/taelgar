@@ -18,7 +18,7 @@ Owlbear attack happens on day between initial meeting with Eofric and council me
 
 [City Scenes](City%20Scenes.md)
 
-[Doppleganger chase](Doppleganger%20chase)
+[Doppleganger chase](Doppleganger%20chase.md)
 
 [Leaving Adderfell](Leaving%20Adderfell)
 
