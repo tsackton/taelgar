@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Labyrinths of the Lost
 sessionNumber: 2
 realWorldDate: 2023-11-25
 DR: 1748-10-17
 DR_end: 1748-10-18
-players: [Acescale, Gaudin, Loria, Dilion]
+players:
+  - Acescale
+  - Gaudin
+  - Loria
+  - Dilion
 companions: []
 name: Labyrinths of the Lost - Session 2
 descTitle: Into the Manor

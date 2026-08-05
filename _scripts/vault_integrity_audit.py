@@ -13,6 +13,7 @@ import os
 import re
 import shutil
 from collections import Counter, defaultdict
+from datetime import date
 from difflib import SequenceMatcher
 from pathlib import Path
 
@@ -33,6 +34,9 @@ LINK_RE = re.compile(r'(!?)\[\[([^\]\n]+)\]\]')
 TILDE_RE = re.compile(r'~([^~\n]{1,180})~')
 HEADING_RE = re.compile(r'^\s{0,3}#{1,6}\s+(.+?)\s*#*\s*$')
 BLOCK_RE = re.compile(r'(?:^|\s)\^([A-Za-z0-9_-]+)\s*$')
+REPORT_SOURCE_EXCLUSIONS = {
+    '_MoC/Data Quality/Links/Unresolved Links.md',
+}
 
 
 def rel(path):
@@ -73,6 +77,8 @@ def source_category(r):
 def scanned_source(path):
     r = rel(path)
     parts = Path(r).parts
+    if r in REPORT_SOURCE_EXCLUSIONS:
+        return False
     cat = source_category(r)
     if cat is None:
         return False
@@ -209,6 +215,113 @@ def write_tsv(path, rows, fields):
         w.writerows(rows)
 
 
+def plain_link_text(match):
+    """Render an Obsidian link as its visible text without leaving a live link."""
+    inside = match.group(2)
+    if '|' in inside:
+        return inside.split('|', 1)[1]
+    base, frag, _ = fragment_parts(inside)
+    display = Path(base).name if base else frag
+    return display or inside
+
+
+def short_context(line, raw_link, limit=240):
+    """Return a compact plain-text excerpt centered on the matched link."""
+    plain = re.sub(r'\s+', ' ', LINK_RE.sub(plain_link_text, line).strip())
+    raw_display = LINK_RE.sub(plain_link_text, raw_link)
+    if len(plain) <= limit:
+        return plain
+    center = plain.find(raw_display)
+    if center < 0:
+        center = len(plain) // 2
+    start = max(0, center - limit // 3)
+    end = min(len(plain), start + limit)
+    start = max(0, end - limit)
+    excerpt = plain[start:end].strip()
+    return ('…' if start else '') + excerpt + ('…' if end < len(plain) else '')
+
+
+def inline_code(value):
+    fence = '`' if '`' not in value else '``'
+    return f'{fence}{value}{fence}'
+
+
+def source_link(source):
+    target = source[:-3] if source.casefold().endswith('.md') else source
+    return f'[[{target}|{Path(target).name}]]'
+
+
+def write_unresolved_note(path, broken, metadata):
+    """Write a human-reviewable snapshot of unresolved links."""
+    groups = defaultdict(list)
+    for item in broken:
+        groups[item['target']].append(item)
+
+    ordered = []
+    for target, items in groups.items():
+        sources = {item['source'] for item in items}
+        ordered.append((len(sources), target, items))
+    ordered.sort(key=lambda row: (-row[0], row[1].casefold(), row[1]))
+
+    unique_sources = {item['source'] for item in broken}
+    missing_attachments = {
+        item['target'] for item in broken if item['status'] == 'missing-attachment'
+    }
+    missing_notes = set(groups) - missing_attachments
+
+    lines = [
+        '---',
+        'headerVersion: 2023.11.25',
+        'tags: [status/check/ai]',
+        '---',
+        '# Unresolved Links',
+        '',
+        f'*Generated {date.today().isoformat()} by `_scripts/vault_integrity_audit.py`.*',
+        '',
+        'This is a static review list of links whose note or attachment target does not exist. '
+        'The live target beneath each heading is intentionally clickable so the missing note can be created directly. '
+        'This report is excluded from the audit source set, so those convenience links do not affect later counts.',
+        '',
+        f'- **{len(groups)}** unresolved targets: **{len(missing_notes)}** notes and **{len(missing_attachments)}** attachments',
+        f'- **{len(broken)}** occurrences across **{len(unique_sources)}** source files',
+        f'- **{metadata["scanned_source_markdown"]}** source notes scanned; raw and generated processing material excluded',
+        '- Sorted by number of distinct source files, then alphabetically',
+        '- One representative context snippet is shown per source file; repeated occurrences in that file are counted',
+        '',
+    ]
+
+    for file_count, target, items in ordered:
+        per_source = defaultdict(list)
+        for item in items:
+            per_source[item['source']].append(item)
+        occurrence_count = len(items)
+        file_word = 'file' if file_count == 1 else 'files'
+        occurrence_word = 'occurrence' if occurrence_count == 1 else 'occurrences'
+        attachment = all(item['status'] == 'missing-attachment' for item in items)
+        unresolved = f'![[{target}]]' if attachment else f'[[{target}]]'
+        lines.extend([
+            f'## {inline_code(unresolved)} — {file_count} {file_word} · {occurrence_count} {occurrence_word}',
+            '',
+            unresolved,
+            '',
+        ])
+        for source in sorted(per_source, key=str.casefold):
+            occurrences = sorted(per_source[source], key=lambda item: item['line'])
+            first = occurrences[0]
+            repeat = ''
+            if len(occurrences) > 1:
+                repeat = f'; {len(occurrences)} occurrences in this file'
+            context_label = '' if first['context'] == 'visible' else f'; {first["context"]}'
+            lines.append(
+                f'- {source_link(source)} — line {first["line"]}{repeat}{context_label}'
+            )
+            lines.append(f'  > {first["snippet"]}')
+        lines.append('')
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
+
+
 def parse_args():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -222,6 +335,10 @@ def parse_args():
     parser.add_argument(
         '--compare',
         help='Optional earlier audit.json used to produce comparison.json.'
+    )
+    parser.add_argument(
+        '--unresolved-note',
+        help='Optional Markdown path for a static unresolved-link review note.'
     )
     return parser.parse_args()
 
@@ -341,7 +458,8 @@ def main():
                 record = {
                     'source': r, 'source_category': cat, 'line': line_no,
                     'context': context, 'raw_link': raw_link, 'target': base,
-                    'fragment': frag, 'embed': embed, 'candidates': []
+                    'fragment': frag, 'embed': embed, 'candidates': [],
+                    'snippet': short_context(line, raw_link)
                 }
                 category_counts[cat] += 1
                 context_counts[context] += 1
@@ -466,6 +584,11 @@ def main():
             'new_broken': [x for x in broken if sig(x) not in {sig(y) for y in old['broken']}]
         }
     (OUT / 'comparison.json').write_text(json.dumps(comparison, indent=2, ensure_ascii=False) + '\n', encoding='utf-8')
+    if args.unresolved_note:
+        report_path = Path(args.unresolved_note).expanduser()
+        if not report_path.is_absolute():
+            report_path = ROOT / report_path
+        write_unresolved_note(report_path.resolve(), broken, metadata)
     print(json.dumps({
         'metadata': metadata,
         'counts': {
