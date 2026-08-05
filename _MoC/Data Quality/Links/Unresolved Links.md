@@ -8,8 +8,8 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **62** unresolved targets: **59** notes and **3** attachments
-- **83** occurrences across **45** source files
+- **55** unresolved targets: **52** notes and **3** attachments
+- **74** occurrences across **40** source files
 - **4037** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
@@ -23,13 +23,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Extraplanar/Feywild/Sunset Gate|Sunset Gate]] — line 20; 2 occurrences in this file
   > In other places, especially where it passes through the edge of Twilight’s Grace, there are elaborate structures - the ~Evensong Spire~ is particularly famous for its immense towers that intertwine with the painted colors of the sunset.
 
-## `[[Baron of Aveil]]` — 1 file · 1 occurrence
-
-[[Baron of Aveil]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Cleenseau|Manor of Cleenseau]] — line 18
-  > …In the aftermath of the war, no heirs could be found and so the manor, as crownland, reverted to the Baron of Aveil. Cece I granted it to Reginald Essford, a decorated solider and dedicated lord who worked diligently to repopulate the land.
-
 ## `[[Breva Forest]]` — 1 file · 1 occurrence
 
 [[Breva Forest]]
@@ -37,19 +30,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 50
   > * South Zimkova, the lands south of the ~Southern Sentinel Spur~, the Breva Forest, and west of the Braebein. This land has seen much intermixing with Sembara, and the realms of Ardlas and Lavnoch Plateau have been under the overlordship of…
 
-## `[[Brigitte "Brick" Charpentier]]` — 1 file · 1 occurrence
-
-[[Brigitte "Brick" Charpentier]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 64
-  > …idn't want to try his patience." The lady with the axe he hucked the light at — Brick — lets out a battlecry and misses Celyn, but the guy with the boar spear that Celyn didn't spot — Tibault — stabs him successfully. Viepuck drops a sleep…
-
-## `[[Béatrice Roisier]]` — 1 file · 1 occurrence
-
-[[Béatrice Roisier]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23|Cleenseau - Session 23]] — line 47
-  > …nothing of the matter but treat the room as a preserved museum piece'), a maid Béatrice Roisier had spotted footprints that seemed to go to the wardrobe and mostly just brushed them away and didn't talk about them because such things are s…
 
 ## `[[Cleansing of the Ettercap Lair]]` — 1 file · 1 occurrence
 
@@ -58,19 +38,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
   > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
 
-## `[[Empress Kylanthe]]` — 1 file · 1 occurrence
-
-[[Empress Kylanthe]]
-
-- [[Worldbuilding/Tentative/Highland Conquest Wars|Highland Conquest Wars]] — line 10
-  > A series of campaigns by the Drankorian Emperor Empress Kylanthe against the Kestavan kingdoms in the foothills of the Sentinel Range.
-
-## `[[Erusum]]` — 1 file · 1 occurrence
-
-[[Erusum]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Caulaus' Story|Caulaus' Story]] — line 23
-  > …. We're marching towards a town. The name sticks in my mind. I do not know why. Erusum. I was hoping not to fight. We were going to destroy the teleportation circle there. There were circles we used to travel many miles by magic. Are they n…
 
 ## `[[Essford family]]` — 1 file · 1 occurrence
 
@@ -79,12 +46,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
   > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
 
-## `[[Hkaran Urban Culture]]` — 1 file · 1 occurrence
-
-[[Hkaran Urban Culture]]
-
-- [[_DM_/Secret Worldbuilding/History of Dunmar|History of Dunmar]] — line 15
-  > …nor Hkaran culture that emigrated in the years after the Mariner Exodus, as the Hkaran Urban Culture spread and become dominant. These people settled somewhere in the east and south, and grew slowly beyond the reach of the Drankorian Empire…
 
 ## `[[Kasari]]` — 1 file · 1 occurrence
 
@@ -107,26 +68,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Zimkova/Lavnoch Plateau|Lavnoch Plateau]] — line 53
   > …Braebein - a series of mountainous hills with a few peaks over 6,000' - and the Lauswald, an eerie forest said to be haunted by the children of Zeyfa. In the north, the terrain rises to over 5,000' before descending in a series of more gent…
 
-## `[[Maerwyn Garrison]]` — 1 file · 1 occurrence
-
-[[Maerwyn Garrison]]
-
-- [[Groups/Sembaran Army/Army of Mostreve|Army of Mostreve]] — line 26
-  > * the Maerwyn Garrison, in the southern Maerwyns
-
-## `[[Mariner Exodus]]` — 1 file · 1 occurrence
-
-[[Mariner Exodus]]
-
-- [[_DM_/Secret Worldbuilding/History of Dunmar|History of Dunmar]] — line 15
-  > …their ancestry to a minor Hkaran culture that emigrated in the years after the Mariner Exodus, as the Hkaran Urban Culture spread and become dominant. These people settled somewhere in the east and south, and grew slowly beyond the reach o…
-
-## `[[Mezhai]]` — 1 file · 1 occurrence
-
-[[Mezhai]]
-
-- [[People/PCs/Into the Chasm/Chasm Explorers|Chasm Explorers]] — line 24
-  > Jrain Fanlish, a traveler, messanger, and sometimes member of the Mezhai.
 
 ## `[[North Watch]]` — 1 file · 1 occurrence
 
@@ -135,12 +76,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] — line 18
   > …drawn it into a more structured support role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation…
 
-## `[[Noémie "Nox" Vallier]]` — 1 file · 1 occurrence
-
-[[Noémie "Nox" Vallier]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 64
-  > …here I really want to stab something and I appreciate the volunteering". Robin wheels Greymalkin, targets the bandit who had thrown two knives ... well ... vaguely in his direction — Nox — and just obliterates her in a flash of divine rage.
 
 ## `[[Pierrot "The Weasel"]]` — 1 file · 1 occurrence
 
@@ -148,7 +83,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 66
   > The one bandit left standing — Pierrot — turns to Viepuck-as-Gareth, clearly trying to figure out if he's going to help or what, and Viepuck says, "I got a better deal". We try to get Pierrot to give more information - Celyn standing there…
-
 
 ## `[[Recapture of Cleenseau (Third Hobgoblin War)]]` — 1 file · 1 occurrence
 
@@ -164,19 +98,8 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] — line 18
   > …pport role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation, and the historical border town ch…
 
-## `![[rinburg-lake-1.png]]` — 1 file · 1 occurrence
 
-![[rinburg-lake-1.png]]
 
-- [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 101
-  > rinburg-lake-1.png
-
-## `[[Riswynn and Oskar Adventures]]` — 1 file · 6 occurrences
-
-[[Riswynn and Oskar Adventures]]
-
-- [[_DM_/Timelines/Old Timeline (Table)|Old Timeline (Table)]] — line 184; 6 occurrences in this file
-  > …the metaphysics of other planes and Agata Dustmother with Tharandros. Decide to travel east with Havdar. | | Celestial meteor crashes in Yuvanti mountains. ROA | Fraternity of the Empty Moon arrives in Tokra, begins to set up secret lair. |
 
 ## `[[Selestat]]` — 1 file · 1 occurrence
 
@@ -185,28 +108,13 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aveil Ridge|Aveil Ridge]] — line 20
   > …hobgoblin wars and as a source of tin. There are two tin mines in the northern slopes of the ridge, controlled by the Duchy of Wisford. The Aveil Road runs from the mining town of Sélestat in the north side of the ridge to the Wistel river.
 
-
-## `[[Settlement of Dunmar]]` — 1 file · 1 occurrence
-
-[[Settlement of Dunmar]]
-
-- [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra|Tokra]] — line 76
-  > …extraplanar weak points to the north and south. After the First Plague and the Settlement of Dunmar, was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of…
-
 ## `[[Siege of Dunfry (Third Hobgoblin War)]]` — 1 file · 1 occurrence
 
 [[Siege of Dunfry (Third Hobgoblin War)]]
 
 - [[Groups/Radiant Alliance|Radiant Alliance]] — line 16
   > …campaigning, the Radiant Alliance liberated Rinburg and Cleenseau and broke the Siege of Dunfry. In the years that followed it continued to push the Shattered Ice Clan back toward the foothills of the Sentinels, culminating in their decisiv…
-
-## `[[Slavomir]]` — 1 file · 1 occurrence
-
-[[Slavomir]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Dunmar Fellowship Associates|Dunmar Fellowship Associates]] — line 135
-  > - left|120Slavomir, a wizard of the Rodnya Kinzal, was captured in Shadowkeep while secretly negotiating with Rhodar von Glauer.
-
+  
 ## `[[Statue of the Stoneborn Warrior]]` — 1 file · 3 occurrences
 
 [[Statue of the Stoneborn Warrior]]
@@ -214,29 +122,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Things/Artifacts of Power/Chalice of the Runepriest|Chalice of the Runepriest]] — line 35; 3 occurrences in this file
   > …rson, attacks dwarven refugees from Ardith and the warrior mission sent to find them, on the Dunmari plains north of Tokra. The dwarves flee, constructing hasty fortifications around the Statue of the Stoneborn Warrior on the Dunmari plains
 
-## `[[Sun]]` — 1 file · 1 occurrence
-
-[[Sun]]
-
-- [[Cosmology/Material Plane|Material Plane]] — line 26; comment
-  > …Spelljammer vibe is not very compatible with Taelgar. The celestial bodies (the Sun, the Moon, and the Stars) obviously exist, and largely are similar to our world (there are not two moons or anything like that) but what they actually are i…
-
-
-## `[[The Exodus of the Dunmari]]` — 1 file · 1 occurrence
-
-[[The Exodus of the Dunmari]]
-
-- [[People/Historical Figures/Asuddha|Asuddha]] — line 23
-  > Born before the The Exodus of the Dunmari from their ancestral homelands in the south.
-
-
-
-## `[[Tibault the Butcher]]` — 1 file · 1 occurrence
-
-[[Tibault the Butcher]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 64
-  > …ecry and misses Celyn, but the guy with the boar spear that Celyn didn't spot — Tibault — stabs him successfully. Viepuck drops a sleep spell and takes out Tibault, so Celyn, whose patience is also worn thinner than gossamer, teleports off…
 
 
 ## `[[Treaty of Châteauclair]]` — 1 file · 1 occurrence
@@ -287,13 +172,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 91; 3 occurrences in this file
   > …d the dog couldn't be killed, the wounds just healed, and that we should go. Also that it slept in Widow Aalis's house, I believe we got that information here. (Whether Widow Aalis still lives there or is deceased or what is unknown to us.)
-
-## `[[Wilhem of Maudorville]]` — 1 file · 2 occurrences
-
-[[Wilhem of Maudorville]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 26; 2 occurrences in this file
-  > - **(DR:: 1720-02-10):** In Maudorville, Izgil connects with Wilhem, an administrator fascinated by the moon. The party investigates missing people and encounters singing creatures (harpies) off the road.
 
 ## `[[Willibard the Dragonslayer]]` — 1 file · 1 occurrence
 

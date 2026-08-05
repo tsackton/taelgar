@@ -70,7 +70,7 @@ The kestavo are not the only spirits in Zimka tradition. [[Zeyfa]], the cruel we
 
 Zimka society is local first. Villages, shrines, families, clans, river valleys, forests, and upland routes matter more than centralized rule. This is especially true in northern Zimkova, where settlement is scattered and where the old ways survive most strongly. Small fortified villages, hunters, herders, woodcutters, scouts, storytellers, mystics, and shrine-keepers form the visible texture of life.
 
-[[Breva]] is the most coherent of the Zimka realms, though even there cohesion is limited by forest, river, local loyalties, and an independent streak. The Mezhai, or woodswalkers, appear in Brevan context as scouts and defenders of the people, especially during the scattered orc raids that followed the defeat of the [[Ravager of Winter]] in 1729. The [[Vejo Vaikai]] represent another Brevan institution: mystics concerned with the Chasm, elemental balance, and the old powers of the highlands.
+[[Breva]] is the most coherent of the Zimka realms, though even there cohesion is limited by forest, river, local loyalties, and an independent streak. The [[Mezhai]], or woodswalkers, appear in Brevan context as scouts and defenders of the people, especially during the scattered orc raids that followed the defeat of the [[Ravager of Winter]] in 1729. The [[Vejo Vaikai]] represent another Brevan institution: mystics concerned with the Chasm, elemental balance, and the old powers of the highlands.
 
 [[Lavnoch Plateau|Lavnoch]] is less a settled kingdom than a broad upland of scattered clans, fortified hamlets, pastoral routes, and highland villages. 
 

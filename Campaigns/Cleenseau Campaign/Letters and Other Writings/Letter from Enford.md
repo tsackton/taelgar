@@ -20,7 +20,7 @@ poorly, although what four garrisons and a company could do to assist 3000 soldi
 
 We marched as fast as we could south, and reached Enford on January 25th. 
 
-Captain Pierre Rochefort, lately of the North Fork Garrison
+Captain [[Pierre Rochefort]], lately of the North Fork Garrison
 In Enford, January 29th, 7 Robert I
 
 And the enclosed copy of a letter to Colonel Lecleric: 
