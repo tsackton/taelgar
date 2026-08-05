@@ -126,4 +126,4 @@ I will note, as a player aside, that Robin has a habit of rolling flashy critica
   
 (I then proceeded to take a photo of the dice and send [**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)  
   
-Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out. We have now contacted [[Raoul]] to say, "OKAY NOW WHAT," and that is where we end.
+Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out. We have now contacted [[Raoul Montagu]] to say, "OKAY NOW WHAT," and that is where we end.
