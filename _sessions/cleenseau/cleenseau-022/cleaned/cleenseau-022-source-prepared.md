@@ -136,7 +136,7 @@
 [u0136] And, Izgil can tell, the other half of the divination aura that he spotted on the Hag.
 [u0137] (It is the paired [[Locket of Sending|sending locket]] mirror.) We debate things to do with it - can we stash it in the blind spot in the Mother's grove, for example?
 [u0138] Viepuck tries tying it up and spinning it in the hope that it will make her dizzy; meanwhile she comes wandering up and suggests that if we return the mirror to her she will not kill us in the next five minutes.
-[u0139] There is some back and forth and language chopping attempts and eventually she clearly is doing the "Or I could just beat your asses and take it" mode, at which point Viepuck summons an illusion of a [[Duskounds|Duskhound]] and says, "Or we could get the Hunter's [[Duskounds|Duskhound]] ot help!" which at least makes her pause briefly to swipe claws through the thing so she doesn't get advantage on initiative.
+[u0139] There is some back and forth and language chopping attempts and eventually she clearly is doing the "Or I could just beat your asses and take it" mode, at which point Viepuck summons an illusion of a [[Duskhounds|Duskhound]] and says, "Or we could get the Hunter's [[Duskhounds|Duskhound]] ot help!" which at least makes her pause briefly to swipe claws through the thing so she doesn't get advantage on initiative.
 [u0140] Celyn stabs her.
 [u0141] Robin hits her with the hammer.
 [u0142] Viepuck drops a faerie fire on her.

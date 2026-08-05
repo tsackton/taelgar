@@ -167,9 +167,10 @@ The row text uses the page display defaults from `NameManager`, such as `startSt
 
 Example output:
 
-| Date | Event |
-| ---- | ----- |
-| DR 1549 | [[Example Person]] was born in [[Example Place]] |
+| Date    | Event                                                |
+| ------- | ---------------------------------------------------- |
+| DR 1549 | `[[Example Person]]` was born in `[[Example Place]]` |
+|         |                                                      |
 
 ### `includeEnd`
 
@@ -179,9 +180,9 @@ The row text uses the page display defaults from `NameManager`, such as `endStat
 
 Example output:
 
-| Date | Event |
-| ---- | ----- |
-| DR 1549 | [[Example Person]] died in [[Example Place]] |
+| Date    | Event                                            |
+| ------- | ------------------------------------------------ |
+| DR 1549 | `[[Example Person]]` died in `[[Example Place]]` |
 
 ### `includeRegnal`
 
@@ -191,10 +192,10 @@ The start row renders as `was crowned`. The end row renders as `reign ended`. If
 
 Example output:
 
-| Date | Event |
-| ---- | ----- |
-| DR 1549 | [[Example Ruler]] was crowned |
-| DR 1580 | [[Example Ruler]] reign ended |
+| Date    | Event                           |
+| ------- | ------------------------------- |
+| DR 1549 | `[[Example Ruler]]` was crowned |
+| DR 1580 | `[[Example Ruler]]` reign ended |
 
 ### `includeTravel`
 

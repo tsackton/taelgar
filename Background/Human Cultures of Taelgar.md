@@ -35,7 +35,7 @@ This lists existing cultures and potential derivations, as well as some informat
 
 _Note: Areas that are not listed at all below -- i.e. that are listed neither as having an explicit culture nor has being intentionally blank are in general assumed to simply not have humans, but of course it is possible that some human culture is lurking in the wilds, unbeknowst to anyone_
 ## Northern
-Across the northern reaches of Taelgar -- from the [[~North Bay~]] to the northern parts of [[Ainumarya]], across the northern [[Sentinel Range|Sentinels]], through [[Zimkova]], the upper [[Volta]], the northern parts of [[Vostok]], the [[Svinjo Mountains]], and the vast [[Great Northern Forest]]  live a potentially large variety of cultures. These cultures are all, in general, from the **Northern** migrations, and share a variety of [[Northern Folk Religions]]. This is marginal land, and has never been conquered by larger empires.
+Across the northern reaches of Taelgar -- from the [[Slate Sea]] to the northern parts of [[Ainumarya]], across the northern [[Sentinel Range|Sentinels]], through [[Zimkova]], the upper [[Volta]], the northern parts of [[Vostok]], the [[Svinjo Mountains]], and the vast [[Great Northern Forest]]  live a potentially large variety of cultures. These cultures are all, in general, from the **Northern** migrations, and share a variety of [[Northern Folk Religions]]. This is marginal land, and has never been conquered by larger empires.
 
 Cultures in this region could plausibly be: Northern offshoots or unique minor migrations. This area was never penetrated by Drankor, and is far from both the Southern and Eastern migrations, and thus would require compelling reason to have cultures derived from those migrations here.
 
@@ -48,7 +48,7 @@ Defined cultures in this region include:
 
 There is certainly humans in the northern part of [[Vostok]], but whether they are essentially another strand of [[Zimka]], closely connected to the southern Vos, or a unique culture is not clear.
 
-Outside of the northwest coast and the area around the [[~North Bay~]] (which is explicitly blank), and the area north of [[Vostok]], this region could support additional cultures as needed. 
+Outside of the northwest coast and the area around the [[Slate Sea]] (which is explicitly blank), and the area north of [[Vostok]], this region could support additional cultures as needed. 
 ## West Coast
 A number of cultures exist in the west, ranging from the [[Nevos Sea]] in the south to the [[Erbalta Plains]] in the north, including:
 ### Mawar
@@ -72,7 +72,7 @@ Note that the exact extent of this cultural region is unclear, and it may includ
 ### Undefined Cultural Areas
 A number of areas in the West Coast are explicitly left open, and may or may not have humans at all. These include:
 * The Emerald Bay, interior and western coast of the [[Apporia|Apporian Peninsula]]. (Although perhaps the Emerald Bay is part of the Illorian culture)
-* The [[~North Bay~]]
+* The [[Slate Sea]]
 * Anything north of [[Voltara]]
 * The [[~Sayuna Islands~]]  (which may not even exist, but if they do, almost certainly have people)
 

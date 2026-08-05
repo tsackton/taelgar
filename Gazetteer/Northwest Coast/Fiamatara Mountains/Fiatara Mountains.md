@@ -22,7 +22,7 @@ The principal northern range of the [[Northwest Coast]], marked by steep, rocky 
 
 ## Geography
 
-The mountains trend generally north–south, forming a barrier between coastal forests on the [[~North Bay~]] and the [[Erbalta Plains]]. Sharp peaks and knife‑edge ridges dominate the skyline in the north, with permanent ice at the highest elevations. Meltwaters and springs feed numerous headwaters that descend to the plains as braided streams and rivers.
+The mountains trend generally north–south, forming a barrier between coastal forests on the [[Slate Sea]] and the [[Erbalta Plains]]. Sharp peaks and knife‑edge ridges dominate the skyline in the north, with permanent ice at the highest elevations. Meltwaters and springs feed numerous headwaters that descend to the plains as braided streams and rivers.
 
 ## Notable Peaks and Sites
 
