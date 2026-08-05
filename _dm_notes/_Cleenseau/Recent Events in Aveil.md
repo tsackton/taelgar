@@ -1,7 +1,7 @@
 The situation in Aveil:
 
 There are three major things going on:
-* The three fey (Night Witch, someone in the Madour Hills, the one impersonating [[Marguerite Deschamps]]) are having a competition about who can cause the most mischief, defined in a complex way by Umbraeth, before the 1st day of spring
+* The three fey (Night Witch, someone in the [[Maudor Hills]], the one impersonating [[Marguerite Deschamps]]) are having a competition about who can cause the most mischief, defined in a complex way by Umbraeth, before the 1st day of spring
 * The Baroness is hunting the Night Queen, on orders from the lich, and stirring up trouble against the Duke
 * The guerilla caves are a bit of a red herring; the Baroness is ultimately trying to push people into the to suck up resources and let her hunt Night Queen/get do-gooders out of the baronry, but it is mostly a nothingburger, although there are a LOT of them to explore and a couple of zombies in each one
 
