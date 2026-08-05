@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/name]
 typeOf: desert
 whereabouts: Dunmari Basin
 dm_owner: tim
 dm_notes: important
 ---
-# The ~Karawa Desert~
+# The Karawa Desert
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -169,7 +169,7 @@ Example output:
 
 | Date    | Event                                                |
 | ------- | ---------------------------------------------------- |
-| DR 1549 | `[[Example Person]]` was born in `[[Example Place]]` |
+| DR 1549 | ``[[Example Person]]`` was born in `[[Example Place]]` |
 |         |                                                      |
 
 ### `includeEnd`
@@ -182,7 +182,7 @@ Example output:
 
 | Date    | Event                                            |
 | ------- | ------------------------------------------------ |
-| DR 1549 | `[[Example Person]]` died in `[[Example Place]]` |
+| DR 1549 | ``[[Example Person]]`` died in `[[Example Place]]` |
 
 ### `includeRegnal`
 
@@ -220,9 +220,9 @@ Example output:
 
 | Date | Event |
 | ---- | ----- |
-| DR 1549 | [[Example Person]] moved to [[Tollen]] |
-| DR 1552 | [[Example Person]] arrived at [[Valarin]] |
-| DR 1553 | [[Example Person]] left [[Valarin]] |
+| DR 1549 | `[[Example Person]]` moved to [[Tollen]] |
+| DR 1552 | `[[Example Person]]` arrived at [[Valarin]] |
+| DR 1553 | `[[Example Person]]` left [[Valarin]] |
 
 ### `includePartyMeetings`
 
@@ -239,7 +239,7 @@ Example output:
 
 | Date | Event |
 | ---- | ----- |
-| DR 1549 | [[Example Person]] met the party |
+| DR 1549 | `[[Example Person]]` met the party |
 
 Generated event rows are point-in-time rows. They are included when their generated date falls inside the requested window; explicit `DR` / `DR_end` event ranges use interval overlap instead.
 
