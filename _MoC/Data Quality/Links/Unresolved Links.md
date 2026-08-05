@@ -8,9 +8,9 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **55** unresolved targets: **52** notes and **3** attachments
-- **74** occurrences across **40** source files
-- **4037** source notes scanned; raw and generated processing material excluded
+- **37** unresolved targets: **34** notes and **3** attachments
+- **51** occurrences across **28** source files
+- **4050** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
 
@@ -30,14 +30,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 50
   > * South Zimkova, the lands south of the ~Southern Sentinel Spur~, the Breva Forest, and west of the Braebein. This land has seen much intermixing with Sembara, and the realms of Ardlas and Lavnoch Plateau have been under the overlordship of…
 
-
 ## `[[Cleansing of the Ettercap Lair]]` — 1 file · 1 occurrence
 
 [[Cleansing of the Ettercap Lair]]
 
 - [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
   > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
-
 
 ## `[[Essford family]]` — 1 file · 1 occurrence
 
@@ -46,7 +44,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
   > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
 
-
 ## `[[Kasari]]` — 1 file · 1 occurrence
 
 [[Kasari]]
@@ -54,12 +51,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 38
   > * The ~Central Sentinel Spur~ stretches east to the Teft, and is the source of the Kasari, one of the tributaries of the Volta. It divides the forests of Breva from the north
 
-## `![[lake-rin-shipwreck.jpg]]` — 1 file · 1 occurrence
-
-![[lake-rin-shipwreck.jpg]]
-
-- [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 104
-  > lake-rin-shipwreck.jpg
 
 ## `[[Lauswald]]` — 1 file · 1 occurrence
 
@@ -67,7 +58,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Greater Sembara/Zimkova/Lavnoch Plateau|Lavnoch Plateau]] — line 53
   > …Braebein - a series of mountainous hills with a few peaks over 6,000' - and the Lauswald, an eerie forest said to be haunted by the children of Zeyfa. In the north, the terrain rises to over 5,000' before descending in a series of more gent…
-
 
 ## `[[North Watch]]` — 1 file · 1 occurrence
 
@@ -77,29 +67,12 @@ This is a static review list of links whose note or attachment target does not e
   > …drawn it into a more structured support role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation…
 
 
-## `[[Pierrot "The Weasel"]]` — 1 file · 1 occurrence
-
-[[Pierrot "The Weasel"]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 66
-  > The one bandit left standing — Pierrot — turns to Viepuck-as-Gareth, clearly trying to figure out if he's going to help or what, and Viepuck says, "I got a better deal". We try to get Pierrot to give more information - Celyn standing there…
-
-## `[[Recapture of Cleenseau (Third Hobgoblin War)]]` — 1 file · 1 occurrence
-
-[[Recapture of Cleenseau (Third Hobgoblin War)]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 08|Cleenseau - Session 08]] — line 44
-  > …er's knowledge will be extremely helpful, and ends up sharing several stories of the hobgoblin wars and in particular the recapture of Cleenseau. He won't let Robin leave until he promises to accompany Walter to Walter's favorite sweet shop
-
 ## `[[Regiment of the Wall]]` — 1 file · 1 occurrence
 
 [[Regiment of the Wall]]
 
 - [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] — line 18
   > …pport role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation, and the historical border town ch…
-
-
-
 
 ## `[[Selestat]]` — 1 file · 1 occurrence
 
@@ -108,20 +81,13 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aveil Ridge|Aveil Ridge]] — line 20
   > …hobgoblin wars and as a source of tin. There are two tin mines in the northern slopes of the ridge, controlled by the Duchy of Wisford. The Aveil Road runs from the mining town of Sélestat in the north side of the ridge to the Wistel river.
 
-## `[[Siege of Dunfry (Third Hobgoblin War)]]` — 1 file · 1 occurrence
 
-[[Siege of Dunfry (Third Hobgoblin War)]]
-
-- [[Groups/Radiant Alliance|Radiant Alliance]] — line 16
-  > …campaigning, the Radiant Alliance liberated Rinburg and Cleenseau and broke the Siege of Dunfry. In the years that followed it continued to push the Shattered Ice Clan back toward the foothills of the Sentinels, culminating in their decisiv…
-  
 ## `[[Statue of the Stoneborn Warrior]]` — 1 file · 3 occurrences
 
 [[Statue of the Stoneborn Warrior]]
 
 - [[Things/Artifacts of Power/Chalice of the Runepriest|Chalice of the Runepriest]] — line 35; 3 occurrences in this file
   > …rson, attacks dwarven refugees from Ardith and the warrior mission sent to find them, on the Dunmari plains north of Tokra. The dwarves flee, constructing hasty fortifications around the Statue of the Stoneborn Warrior on the Dunmari plains
-
 
 
 ## `[[Treaty of Châteauclair]]` — 1 file · 1 occurrence
@@ -131,12 +97,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[History/Background/Cleenseau History Notes|Cleenseau History Notes]] — line 47
   > After Treaty of Châteauclair in 1602, the Second Hobgoblin War ends and the Shattered Ice Clan is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat…
 
-## `![[underwater-lake-monster-scene.png]]` — 1 file · 1 occurrence
-
-![[underwater-lake-monster-scene.png]]
-
-- [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 107
-  > underwater-lake-monster-scene.png
 
 ## `[[Vimfrost War]]` — 1 file · 1 occurrence
 
@@ -145,19 +105,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Historical Figures/Sembaran Royalty/Derik III|Derik III]] — line 25; comment
   > …tadata / affiliations need to be updated to reflect current thinking about history; important figure with more details available so note could be expanded; note date of High Prince of the North is based on end of Vimfrost War, per that note
 
-## `[[Violet]]` — 1 file · 1 occurrence
-
-[[Violet]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 81
-  > …rgue that we should make a deal with her, singling out the barmaid and saying, "Violet\, I helped you, right?"; the woman does a rictus smile and agrees that yes, yes, that was the case. Celyn finally hits "Look, we do not have the power to…
-
-## `[[Vraedhul]]` — 1 file · 1 occurrence
-
-[[Vraedhul]]
-
-- [[Gazetteer/Major Rivers/Istaros Watershed/Naithale|Naithale]] — line 26
-  > For many years after the Great War, the red dragon Vraedhul had a lair in the southern reaches of the Naithalë and smoke and steam would rise from the waters. The lair was destroyed in 1720 during the War of the Ashen Horde by unknown force…
 
 ## `[[Wickerley]]` — 1 file · 1 occurrence
 
@@ -165,13 +112,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[People/PCs/Other PCs/Tollen Misfits/Edric|Edric]] — line 13
   > Edric was born in the small village of Wickerley, a good two day's walk north of the Great South Road, in the Duchy of Telham. Wickerly is known for very little, although there are two brewers who sell to the surrounding villages, and the b…
-
-## `[[Widow Aalis]]` — 1 file · 3 occurrences
-
-[[Widow Aalis]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 91; 3 occurrences in this file
-  > …d the dog couldn't be killed, the wounds just healed, and that we should go. Also that it slept in Widow Aalis's house, I believe we got that information here. (Whether Widow Aalis still lives there or is deceased or what is unknown to us.)
 
 ## `[[Willibard the Dragonslayer]]` — 1 file · 1 occurrence
 
@@ -200,20 +140,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Western Green Sea/Western Green Sea|Western Green Sea]] — line 56
   > * ~Cymean Archipelago~, dominated by the large island of ~Cymean Archipelago Main Island~
-
-## `[[~Lich Killing Party]]` — 1 file · 3 occurrences
-
-[[~Lich Killing Party]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27|Cleenseau - Session 27]] — line 116; 3 occurrences in this file
-  > I forget when we made contact with the heroes of the Night Queen that are going for the lich to ask how things are going, and the answer is that they have successfully destroyed the thing's anchor and are now resting up before they go fight…
-
-## `[[~Lich Killing Party~]]` — 1 file · 1 occurrence
-
-[[~Lich Killing Party~]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27|Cleenseau - Session 27]] — line 30
-  > - **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by Robin; overnight public holding while the heroes of the Night Queen advance their separate assault.
 
 ## `[[~North Bay Realm~]]` — 1 file · 1 occurrence
 

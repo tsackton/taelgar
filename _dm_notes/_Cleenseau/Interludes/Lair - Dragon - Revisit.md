@@ -2,7 +2,7 @@ Yes, this is probably one of the best **post-arc interludes** because it is reco
 
 It also has a clean premise:
 
-> Vraedhul is dead. Krauzeth is dead or defeated. Her lair remains, damaged, unstable, and full of things nobody sensible should leave unattended.
+> [[Vraedhul]] is dead. Krauzeth is dead or defeated. Her lair remains, damaged, unstable, and full of things nobody sensible should leave unattended.
 
 ## Vraedhul’s Broken Lair
 

@@ -1,4 +1,4 @@
-In the aftermath of the Great War, Vraedhul (VRAY-dul), the Burning Shadow, arose from the remains of Cha'mutte, one of the first of his death clutch to awake. Awash in the chaos of Limbo well still in the shell, she was born was a deep affinity for the magic of Limbo. Fleeing east, she settled on the banks of the Nimrathë near a extra-planar weak spot to Limbo.
+In the aftermath of the Great War, [[Vraedhul]] (VRAY-dul), the Burning Shadow, arose from the remains of Cha'mutte, one of the first of his death clutch to awake. Awash in the chaos of Limbo well still in the shell, she was born was a deep affinity for the magic of Limbo. Fleeing east, she settled on the banks of the Nimrathë near a extra-planar weak spot to Limbo.
 
 Over the years, she learned to manipulate this energy, and her lair grew with her thoughts into a series of jagged hills, with a deep crater bubbling with ash and embers in the center. She learned to craft magic items, and delighted in crafting cursed items and sending them out into the world. Sometimes, the ones she cursed would come seeking her help in removing the curse, and she would, sometimes, for a hefty price in gold and gems.
 
