@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 18
 realWorldDate: 2024-09-15

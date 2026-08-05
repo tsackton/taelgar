@@ -1,81 +1,14 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
 # Unresolved Links
 
 *Generated 2026-08-05 by `_scripts/vault_integrity_audit.py`.*
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **136** unresolved targets: **133** notes and **3** attachments
-- **187** occurrences across **64** source files
-- **4000** source notes scanned; raw and generated processing material excluded
+- **97** unresolved targets: **94** notes and **3** attachments
+- **129** occurrences across **61** source files
+- **4018** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
-
-## `[[Battle of Dalfield]]` — 2 files · 2 occurrences
-
-[[Battle of Dalfield]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 157
-  > - (DR:: 1429), spring: Derik I defeats Avatus at the Battle of Dalfield
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 99
-  > (DR:: 1429), spring: Derik defeats Avatus at the decisive **Battle of Dalfield**.
-
-## `[[Battle of Fellburn]]` — 2 files · 2 occurrences
-
-[[Battle of Fellburn]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 155
-  > - (DR:: 1427), summer: Derik I pushes Avatus south of the Enst at the Battle of Fellburn
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 97
-  > (DR:: 1427), summer: Derik pushes Avatus south of the Enst at the **Battle of Fellburn**.
-
-## `[[Battle of Stavenford]]` — 2 files · 3 occurrences
-
-[[Battle of Stavenford]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 150
-  > - (DR:: 1425), summer: Avatus defeats the Sembaran army at the Battle of Stavenford
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 94; 2 occurrences in this file
-  > (DR:: 1425), summer: He defeats the Sembaran army at the **Battle of Stavenford**.
-
-## `[[Battle of Wisford]]` — 2 files · 2 occurrences
-
-[[Battle of Wisford]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 154
-  > - (DR:: 1426), summer: Derik I pushes Avatus south of the Wistel at the Battle of Wisford
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 96
-  > (DR:: 1426), summer: Derik I returns with Tyrwinghan and Telhamite support, pushing Avatus south of the Wistel at the **Battle of Wisford**.
-
-## `[[Castrota Pirate War]]` — 2 files · 2 occurrences
-
-[[Castrota Pirate War]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 147
-  > - (DR:: 1422): Derik I distinguishes himself in the Castrota Pirate War
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 157
-  > **(DR:: 1422)** – Avatus conquers most of Duchy of Brovna but fails to break through dwarven defenses; at roughly the same time, Derik distinguishes himself in the Castrota Pirate War.
-
-## `[[Siege of Dunfry (Third Hobgoblin War)]]` — 2 files · 4 occurrences
-
-[[Siege of Dunfry (Third Hobgoblin War)]]
-
-- [[Groups/Radiant Alliance|Radiant Alliance]] — line 16
-  > …campaigning, the Radiant Alliance liberated Rinburg and Cleenseau and broke the Siege of Dunfry. In the years that followed it continued to push the Shattered Ice Clan back toward the foothills of the Sentinels, culminating in their decisiv…
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 294; 3 occurrences in this file
-  > - (DR:: 1647), summer: Dunfry is besieged.
-
-## `[[Treaty of Châteauclair]]` — 2 files · 2 occurrences
-
-[[Treaty of Châteauclair]]
-
-- [[History/Background/Cleenseau History Notes|Cleenseau History Notes]] — line 47
-  > After Treaty of Châteauclair in 1602, the Second Hobgoblin War ends and the Shattered Ice Clan is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat…
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 283
-  > - (DR:: 1602): The Second Hobgoblin War ends with the Treaty of Châteauclair between the regent, Percival Wynthrope and the Shattered Ice Clan. The lands south of the Enst and west of the Aure are ceded to the hobgoblins.
 
 ## `[[~Evensong Spire~]]` — 2 files · 4 occurrences
 
@@ -86,61 +19,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Extraplanar/Feywild/Sunset Gate|Sunset Gate]] — line 20; 2 occurrences in this file
   > In other places, especially where it passes through the edge of Twilight’s Grace, there are elaborate structures - the ~Evensong Spire~ is particularly famous for its immense towers that intertwine with the painted colors of the sunset.
 
-## `[[Ashwell Brook]]` — 1 file · 1 occurrence
-
-[[Ashwell Brook]]
-
-- [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 26
-  > * Between Gowerbourne and Wisford: the Lanting, and several small brooks, the most prominent of which are Holling Brook and Ashwell Brook
-
-## `[[Aubrille]]` — 1 file · 1 occurrence
-
-[[Aubrille]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 20
-  > * Aubrille, on the south shore, near to Lynthia, in the Barony of Estrive. Founded recently, with a energetic young lord.
-
 ## `[[Baron of Aveil]]` — 1 file · 1 occurrence
 
 [[Baron of Aveil]]
 
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Cleenseau|Manor of Cleenseau]] — line 18
   > …In the aftermath of the war, no heirs could be found and so the manor, as crownland, reverted to the Baron of Aveil. Cece I granted it to Reginald Essford, a decorated solider and dedicated lord who worked diligently to repopulate the land.
-
-## `[[Battle of Lysandale]]` — 1 file · 1 occurrence
-
-[[Battle of Lysandale]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 286
-  > - (DR:: 1644), fall: After several early successes, the Sembaran Army of the West is fought to a stalemate at the Battle of Lysandale in the western reaches of Maseau
-
-## `[[Battle of Rinburg]]` — 1 file · 1 occurrence
-
-[[Battle of Rinburg]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 290
-  > - (DR:: 1646), summer: The Sembaran Grand Army is defeated at the Battle of Rinburg. Rinburg is occupied, and Cleenseau and Dunfry are isolated
-
-## `[[Battle of SomeOtherPass]]` — 1 file · 1 occurrence
-
-[[Battle of SomeOtherPass]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 260
-  > - (DR:: 1561), late winter: Bertram II dies in the Battle of SomeOtherPass
-
-## `[[Battle of the Aure]]` — 1 file · 1 occurrence
-
-[[Battle of the Aure]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 293
-  > - (DR:: 1647), summer: The Army of Mostreve in alliance with the Earl of Addermarch holds the line of the Aure at the Battle of the Aure
-
-## `[[Battle of White Pass]]` — 1 file · 1 occurrence
-
-[[Battle of White Pass]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 258
-  > - (DR:: 1558), spring: News reaches Embry of the Battle of White Pass (the opening thrust of the Sentinel Range War) and at Jane's urging, no aid is sent to Ardlas or Lavnoch
 
 ## `[[Breva Forest]]` — 1 file · 1 occurrence
 
@@ -163,48 +47,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23|Cleenseau - Session 23]] — line 47
   > …nothing of the matter but treat the room as a preserved museum piece'), a maid Béatrice Roisier had spotted footprints that seemed to go to the wardrobe and mostly just brushed them away and didn't talk about them because such things are s…
 
-## `[[Captain Matilda Wycliffe]]` — 1 file · 1 occurrence
-
-[[Captain Matilda Wycliffe]]
-
-- [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 28
-  > * The Enford Garrison, commanded by Captain Matilda Wycliffe
-
-## `[[Captain Pierre Rochefort]]` — 1 file · 1 occurrence
-
-[[Captain Pierre Rochefort]]
-
-- [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 29
-  > * The North Fork Garrison, commanded by Captain Pierre Rochefort
-
-## `[[Captain Reginald Blackwood]]` — 1 file · 1 occurrence
-
-[[Captain Reginald Blackwood]]
-
-- [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 30
-  > * The South Fork Garrison, commanded by Captain Reginald Blackwood
-
-## `[[Captain Élodie Dubois]]` — 1 file · 1 occurrence
-
-[[Captain Elodie Dubois]]
-
-- [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 31
-  > * The River Garrison, commanded by Captain Élodie Dubois
-
-## `[[Chantefleur]]` — 1 file · 1 occurrence
-
-[[Chantefleur]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 18
-  > * Chantefleur, along the north side, the center of fishing on the lake, with the largest and best docks. A ferry departs from here for Lynthia twice a day. Close to where the Auberonne flows into the lake
-
-## `[[Children of the Riving]]` — 1 file · 2 occurrences
-
-[[Children of the Riving]]
-
-- [[History/Background/Historical Framework|Historical Framework]] — line 50; 2 occurrences in this file
-  > - There are no gods but the Divine Presence, and no humanoids. All that exists are the magical beings that are the predecessors of the Children of the Riving.
-
 ## `[[Cleansing of the Ettercap Lair]]` — 1 file · 1 occurrence
 
 [[Cleansing of the Ettercap Lair]]
@@ -225,13 +67,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Greater Sembara/Tyrwingha/Ruthin|Ruthin]] — line 17
   > * Eirian, a trans woman and acolyte of the Wyrdling. She is known in the region for her gender-affirming herbalist care and is a skilled teacher
-
-## `[[Elemental Gem]]` — 1 file · 1 occurrence
-
-[[Elemental Gem]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 13 (DuFr)|Session 13 (DuFr)]] — line 45
-  > …r of a large monster at one point, including a silver helm from Drankor, and an enchanted red gem. Others, locked away in a storeroom dating to the hobgoblin occupation of this fort, including a few useful potions and a very creepy hobgobli…
 
 ## `[[Eloi Delacroix]]` — 1 file · 1 occurrence
 
@@ -254,13 +89,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Worldbuilding/Tentative/Highland Conquest Wars|Highland Conquest Wars]] — line 10
   > A series of campaigns by the Drankorian Emperor Empress Kylanthe against the Kestavan kingdoms in the foothills of the Sentinel Range.
 
-## `[[Enclaut]]` — 1 file · 1 occurrence
-
-[[Enclaut]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 19
-  > * Enclaut, closest to Rinburg, a more of a lakeside resort than a working town, with numerous elegant houses where the wealthy of Rinburg live.
-
 ## `[[Erusum]]` — 1 file · 1 occurrence
 
 [[Erusum]]
@@ -282,13 +110,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
   > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
 
-## `[[Etienne]]` — 1 file · 8 occurrences
-
-[[Etienne]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27|Cleenseau - Session 27]] — line 26; 8 occurrences in this file
-  > - **March 19 (late night):** Viepuck’s urchin infiltration and disappearance triggers search; Etienne later jailed.
-
 ## `[[General Ilsa Lemoine]]` — 1 file · 1 occurrence
 
 [[General Ilsa Lemoine]]
@@ -296,40 +117,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 18
   > …ches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by General Ilsa Lemoine, and each watch is commanded by a colonel, and each regiment by a major.
 
-## `[[Getxo]]` — 1 file · 1 occurrence
-
-[[Getxo]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 23
-  > The south western shore is reedy and marshy, and a small lizardfolk community -- Getxo -- has settled here recently
-
 ## `[[Gorzum]]` — 1 file · 1 occurrence
 
 [[Gorzum]]
 
 - [[Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz|Xurkhaz]] — line 47
   > - Gorzum, a peaceful oasis in the middle of the country
-
-## `[[Grand Ambassadorship of Blanche I]]` — 1 file · 1 occurrence
-
-[[Grand Ambassadorship of Blanche I]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 268
-  > - (DR:: 1565): Blanche I departs on her Grand Ambassadorship of Blanche I to the Green Sea
-
-## `[[Grand Army of Sembara (Third Hobgoblin War)]]` — 1 file · 1 occurrence
-
-[[Grand Army of Sembara (Third Hobgoblin War)]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 290
-  > - (DR:: 1646), summer: The Sembaran Grand Army is defeated at the Battle of Rinburg. Rinburg is occupied, and Cleenseau and Dunfry are isolated
-
-## `[[Helm of Iron Will]]` — 1 file · 1 occurrence
-
-[[Helm of Iron Will]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 13 (DuFr)|Session 13 (DuFr)]] — line 45
-  > …what seemed to have been the lair of a large monster at one point, including a silver helm from Drankor, and an enchanted red gem. Others, locked away in a storeroom dating to the hobgoblin occupation of this fort, including a few useful p…
 
 ## `[[Hesta Brill]]` — 1 file · 1 occurrence
 
@@ -344,13 +137,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[_DM_/Secret Worldbuilding/History of Dunmar|History of Dunmar]] — line 15
   > …nor Hkaran culture that emigrated in the years after the Mariner Exodus, as the Hkaran Urban Culture spread and become dominant. These people settled somewhere in the east and south, and grew slowly beyond the reach of the Drankorian Empire…
-
-## `[[Hobgoblin Battle Standard]]` — 1 file · 1 occurrence
-
-[[Hobgoblin Battle Standard]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 13 (DuFr)|Session 13 (DuFr)]] — line 45
-  > …oblin occupation of this fort, including a few useful potions and a very creepy hobgoblin standard. However, the only real clue about the gnolls is the discovery of a number of recently delivered weapons and armor: a scattered mess of vario…
 
 ## `[[Holling Brook]]` — 1 file · 1 occurrence
 
@@ -370,7 +156,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Johanna of Telham]]
 
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 146
+- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 147
   > - (DR:: 1420): Derik I, of a cadet branch of the House of Entranca, marries Johanna of Telham, the younger daughter of the Duchess of Telham
 
 ## `[[Jor]]` — 1 file · 3 occurrences
@@ -394,33 +180,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 104
   > lake-rin-shipwreck.jpg
 
-## `[[large plaza]]` — 1 file · 1 occurrence
-
-[[large plaza]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 42
-  > Outside Essford Manor is a large plaza where the Temple of the Warlord stands. There are three other holy places in the town: a shrine to the Night Queen inside Essford Manor, an unusual shrine to the Wanderer along the banks of the Enst, s…
-
 ## `[[Lauswald]]` — 1 file · 1 occurrence
 
 [[Lauswald]]
 
 - [[Gazetteer/Greater Sembara/Zimkova/Lavnoch Plateau|Lavnoch Plateau]] — line 53
   > …Braebein - a series of mountainous hills with a few peaks over 6,000' - and the Lauswald, an eerie forest said to be haunted by the children of Zeyfa. In the north, the terrain rises to over 5,000' before descending in a series of more gent…
-
-## `[[Lionel Falconhurst]]` — 1 file · 1 occurrence
-
-[[Lionel Falconhurst]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 285
-  > - (DR:: 1644), late spring: Arryn II, at the urging of his daughter Charlotte II and her husband Lionel Falconhurst, the grandson of the Duke of Maseau, and a prominent Isinguen, launches a rapid assault on the Shattered Ice Clan
-
-## `[[Lynthia]]` — 1 file · 3 occurrences
-
-[[Lynthia]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 18; 3 occurrences in this file
-  > * Chantefleur, along the north side, the center of fishing on the lake, with the largest and best docks. A ferry departs from here for Lynthia twice a day. Close to where the Auberonne flows into the lake
 
 ## `[[Maerwyn Garrison]]` — 1 file · 1 occurrence
 
@@ -435,13 +200,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Mahaut to Celyn|Letter from Mahaut to Celyn]] — line 5
   > # Letter from Mahaut to Celyn
-
-## `[[Major Edmund Hartwell]]` — 1 file · 1 occurrence
-
-[[Major Edmund Hartwell]]
-
-- [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 26
-  > The Enst Regiment is responsible for the garrisons along the river, as well as a major garrison in Enford, and is commanded by Major Edmund Hartwell. The Enst Regiment is 800 strong, divided into 5 garrisons and 3 companies
 
 ## `[[Mariner Exodus]]` — 1 file · 1 occurrence
 
@@ -478,13 +236,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Shadowkeep - DM Notes|Shadowkeep - DM Notes]] — line 62
   > The night hag Putrid Agnes sings from inside the head of Mican Windstep, a deceased halfling warrior, using her Tiny Time action. Mican came to Shadowkeep because of the hag’s whispers, but he froze to death outside the fortress. Agnes’s so…
 
-## `[[Mirabelle]]` — 1 file · 1 occurrence
-
-[[Mirabelle]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 17
-  > * Mirabelle, the smallest, on the north west side, near the Enst
-
 ## `[[North Watch]]` — 1 file · 1 occurrence
 
 [[North Watch]]
@@ -512,13 +263,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[_dm_notes/_Great Library/Arc 5 - Umbral Convenant/GL - Session 62 - DM Notes|GL - Session 62 - DM Notes]] — line 102
   > - Peninsula Brainstorming, Peninsula Notes, Peninsula NPC Notes
-
-## `[[Percival Wynthrope]]` — 1 file · 2 occurrences
-
-[[Percival Wynthrope]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 282; 2 occurrences in this file
-  > - (DR:: 1602): Blanche II dies in childbirth, and her great uncle, Percival Wynthrope, becomes regent for her young son
 
 ## `[[Pierrot "The Weasel"]]` — 1 file · 1 occurrence
 
@@ -548,26 +292,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 08|Cleenseau - Session 08]] — line 44
   > …er's knowledge will be extremely helpful, and ends up sharing several stories of the hobgoblin wars and in particular the recapture of Cleenseau. He won't let Robin leave until he promises to accompany Walter to Walter's favorite sweet shop
 
-## `[[Regency of Jane of Tollen]]` — 1 file · 1 occurrence
-
-[[Regency of Jane of Tollen]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 257
-  > - (DR:: 1553), winter: The Regency of Jane of Tollen ends and Bertram II takes power himself
-
 ## `[[Regiment of the Wall]]` — 1 file · 1 occurrence
 
 [[Regiment of the Wall]]
 
 - [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] — line 18
   > …pport role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation, and the historical border town ch…
-
-## `[[Rhys Taffolet]]` — 1 file · 1 occurrence
-
-[[Rhys Taffolet]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 249
-  > - (DR:: 1549), summer: The Tyrwingha Oracles elevate Rhys Taffolet to the crown instead of Bertram I. Jane of Tollen accepts this decision and does not attempt to force Tyrwingha to rejoin the Unified Crown.
 
 ## `![[rinburg-lake-1.png]]` — 1 file · 1 occurrence
 
@@ -596,13 +326,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 30
   > …Hag (or at least terrified into exclusively doing her bidding). The guardsman - Roland - asks Robin if he'll come along, and the party makes their way down, though Celyn vanishes into the crowd and moves stealthily because he's of the opini…
-
-## `[[Ruined Fort (Cleenseau)]]` — 1 file · 1 occurrence
-
-[[Ruined Fort (Cleenseau)]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 46
-  > On the south bank of the Enst, across the bridge, stands a large ruined garrison, the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the Istabor Alliance and Sembara.
 
 ## `[[Samuel Cordwander]]` — 1 file · 2 occurrences
 
@@ -639,26 +362,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Tokra|Tokra]] — line 76
   > …extraplanar weak points to the north and south. After the First Plague and the Settlement of Dunmar, was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of…
 
-## `[[shrine to the Father]]` — 1 file · 1 occurrence
+## `[[Siege of Dunfry (Third Hobgoblin War)]]` — 1 file · 1 occurrence
 
-[[shrine to the Father]]
+[[Siege of Dunfry (Third Hobgoblin War)]]
 
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 42
-  > …by Selma Wisthelwind and with many characteristics of a kestavan shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, feed from the Enst by a series of pipes. A further pipe system…
-
-## `[[shrine to the Night Queen]]` — 1 file · 1 occurrence
-
-[[shrine to the Night Queen]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 42
-  > …Temple of the Warlord stands. There are three other holy places in the town: a shrine to the Night Queen inside Essford Manor, an unusual shrine to the Wanderer along the banks of the Enst, sponsored by Selma Wisthelwind and with many char…
-
-## `[[shrine to the Wanderer]]` — 1 file · 1 occurrence
-
-[[shrine to the Wanderer]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 42
-  > …laces in the town: a shrine to the Night Queen inside Essford Manor, an unusual shrine to the Wanderer along the banks of the Enst, sponsored by Selma Wisthelwind and with many characteristics of a kestavan shrine, and a shrine to the Fathe…
+- [[Groups/Radiant Alliance|Radiant Alliance]] — line 16
+  > …campaigning, the Radiant Alliance liberated Rinburg and Cleenseau and broke the Siege of Dunfry. In the years that followed it continued to push the Shattered Ice Clan back toward the foothills of the Sentinels, culminating in their decisiv…
 
 ## `[[Slavomir]]` — 1 file · 1 occurrence
 
@@ -666,20 +375,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Dunmari Frontier Campaign/Dunmar Fellowship Associates|Dunmar Fellowship Associates]] — line 135
   > - left|120Slavomir, a wizard of the Rodnya Kinzal, was captured in Shadowkeep while secretly negotiating with Rhodar von Glauer.
-
-## `[[Smith's Way]]` — 1 file · 1 occurrence
-
-[[Smith's Way]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 30
-  > …g on slightly higher ground than the rest of the town, and is where the richer peasants and small artisans live. The Crossroads Inn (F), on the west side of the gate, is also here as is Smith's Way (G), where several smiths ply their trade.
-
-## `[[South Close]]` — 1 file · 2 occurrences
-
-[[South Close]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 30; 2 occurrences in this file
-  > * The South Close (A, on the map), between the River Gate, the Essford Manor (B), and the North Gate is drier during the spring and summer rains, being on slightly higher ground than the rest of the town, and is where the richer peasants an…
 
 ## `[[Statue of the Stoneborn Warrior]]` — 1 file · 3 occurrences
 
@@ -716,13 +411,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 22
   > * West of Ainwick, the Tarnslow, which meanders north and west from the north edge of the Cleenseau Wood
 
-## `[[The Ambush of Charlotte II]]` — 1 file · 1 occurrence
-
-[[The Ambush of Charlotte II]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 296
-  > - (DR:: 1648), late fall: Arryn II is killed by hobgoblins while travelling to inspect the Army of the South camped outside Wisford. His daughter, Charlotte II is caught in the same attack, but survives for two months before dying of an inj…
-
 ## `[[The Exodus of the Dunmari]]` — 1 file · 1 occurrence
 
 [[The Exodus of the Dunmari]]
@@ -730,25 +418,11 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Historical Figures/Asuddha|Asuddha]] — line 23
   > Born before the The Exodus of the Dunmari from their ancestral homelands in the south.
 
-## `[[The Famine of 1552]]` — 1 file · 1 occurrence
-
-[[The Famine of 1552]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 254
-  > - (DR:: 1552), winter: A terrible winter of famine
-
-## `[[The Hobgoblin Sack of Fellburn]]` — 1 file · 1 occurrence
-
-[[The Hobgoblin Sack of Fellburn]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 295
-  > - (DR:: 1647), late fall: Fellburn is sacked
-
 ## `[[The Maseau Embassy of 1590]]` — 1 file · 1 occurrence
 
 [[The Maseau Embassy of 1590]]
 
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 280
+- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 281
   > - (DR:: 1590): The Shattered Ice Clan launches significant raids across Maseau, which sends an embassy to Sembara for aid
 
 ## `[[The Mindknife War]]` — 1 file · 2 occurrences
@@ -762,7 +436,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[The Prophecy of Udazken]]
 
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 151
+- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 152
   > - (DR:: 1425), late summer: Derik I receives a prophecy fortelling his future kingship
 
 ## `[[Tibault the Butcher]]` — 1 file · 1 occurrence
@@ -779,12 +453,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[History/History of Greater Sembara|History of Greater Sembara]] — line 34
   > …, and cover the modern areas of: Sembara, Maseau, Addermarch, Tyrwingha, and Ardlas. The Skaer Empire has largely faded away (but see Timeline of Skaer History), and there are several human cultures within and outside the Drankorian Empire:
 
-## `[[Underhill Way]]` — 1 file · 1 occurrence
+## `[[Treaty of Châteauclair]]` — 1 file · 1 occurrence
 
-[[Underhill Way]]
+[[Treaty of Châteauclair]]
 
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 38
-  > * A narrow track (Underhill Way) along the edge of the raised Essford Manor provides a shortcut from south to north
+- [[History/Background/Cleenseau History Notes|Cleenseau History Notes]] — line 47
+  > After Treaty of Châteauclair in 1602, the Second Hobgoblin War ends and the Shattered Ice Clan is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat…
 
 ## `![[underwater-lake-monster-scene.png]]` — 1 file · 1 occurrence
 
@@ -806,20 +480,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 81
   > …rgue that we should make a deal with her, singling out the barmaid and saying, "Violet\, I helped you, right?"; the woman does a rictus smile and agrees that yes, yes, that was the case. Celyn finally hits "Look, we do not have the power to…
-
-## `[[Vostok Embassy of 1550]]` — 1 file · 1 occurrence
-
-[[Vostok Embassy of 1550]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 251
-  > - (DR:: 1550), fall: The Vostok Embassy of 1550 arrives in Embry and departs with a single company of knights, who never return. High King of Vostok is quietly dropped from Bertram's title
-
-## `[[Vostok Orc Wars of 1550]]` — 1 file · 1 occurrence
-
-[[Vostok Orc Wars of 1550]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 250
-  > - (DR:: 1550), fall: Rumors reach Embry of orc hordes in Vostok
 
 ## `[[Vraedhul]]` — 1 file · 1 occurrence
 
@@ -881,7 +541,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Year of Endless Rain]]
 
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 252
+- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 253
   > - (DR:: 1551), spring: The year starts with unseasonable and unending rains, and there is much flooding.
 
 ## `[[~Central Sentinel Spur~]]` — 1 file · 3 occurrences

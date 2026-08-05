@@ -4,11 +4,11 @@
 [u0004] Also he made sure to mark the area of the potential sinkhole in case of the Hag being a load-bearing boss and her lair collapsing, because we didn't want anyone to fall in and get hurt.
 [u0005] Celyn declared, "I need to go fix my clothes or I will _stab someone_ and we are out of people I can legitimately stab." Celyn's nerves are a little bit frayed given the curse thing and all.
 [u0006] The party troops up to the manor house something like a half hour after Izgil and Robin and Greymalkin had pelted out with a "Take heart!" Celyn immediately stomps upstairs.
-[u0007] The people there sort of stare and ask if people are hurt (everyone is visibly injured), and Robin says, "Yes, not repairably" and goes up after Celyn, leaving Viepuck to explain to Lord [[Emeric Daverre]] and his household (including Estelle Daverre and Odile Daverre) what's going on.
+[u0007] The people there sort of stare and ask if people are hurt (everyone is visibly injured), and Robin says, "Yes, not repairably" and goes up after Celyn, leaving Viepuck to explain to Lord [[Emeric Daverre|Émeric Daverre]] and his household (including Estelle Daverre and Odile Daverre) what's going on.
 [u0008] Which is fine; Viepuck does most of the talking anyway.
 [u0009] (For the record: Celyn needed to fix his binder, which has gotten dislodged from proper positioning in the chaos; he and Robin talk out enough of their issues while upstairs that he is much, much more stable coming back down, though still notably short-tempered compared to his usual sunny affability.)
 [u0010] Viepuck, meanwhile, goes up to the sheet of glass set up as panopticon, sticks his tongue out at it, and says, "I can say _whatever I want_ because it's _dead_ neener neener", basically.
-[u0011] One of the ladies — Estelle Daverre — climbs up on the table to dance; Lord [[Emeric Daverre]] smashes the glass with a chair while Odile Daverre looks on; general explanations are had.
+[u0011] One of the ladies — Estelle Daverre — climbs up on the table to dance; Lord [[Emeric Daverre|Émeric Daverre]] smashes the glass with a chair while Odile Daverre looks on; general explanations are had.
 [u0012] The staff try to feed Viepuck more food because he's so small no matter that we had breakfast here literally less than an hour ago.
 [u0013] Robin and Celyn eventually make it back downstairs.
 [u0014] People wander in and out and the news that the Hag is dead starts to spread; we decide that the sensible thing to do is roust out the Captain of the Guard from his drunken stupor, clean him up, and let him feel useful again by going to arrest [[Edouard of Peydon|the ferryman]] who was in league with the Hag (or at least terrified into exclusively doing her bidding).

@@ -3,22 +3,22 @@
 [u0003] When we left off we were [having a dispute with the [[Midnight Lady]]](https://kiya.dreamwidth.org/799868.html) about ownership of surveillance technology.
 [u0004] Having determined that we could not harm the bad guy lastingly last session, we were left with the question of what we do with the rest of this fight.
 [u0005] Viepuck declared, "I think we should go, the ferry will be shutting down" and walked away from the well the magic mirror was attached to, signalling telepathically to Izgil that he should go to the house the [[Midnight Lady]] was occupying (the Widow Aalis's House) and investigate while she was distracted.
-[u0006] The [[Midnight Lady]] promptly discarded the state of combat and went to inspect the item to make sure it wasn't damaged; Celyn gestured towards the manor house because we needed to talk with Lord [[Emeric Daverre]], the guy who had invited her to take over the town in the first place.
+[u0006] The [[Midnight Lady]] promptly discarded the state of combat and went to inspect the item to make sure it wasn't damaged; Celyn gestured towards the manor house because we needed to talk with Lord [[Emeric Daverre|Émeric Daverre]], the guy who had invited her to take over the town in the first place.
 [u0007] The [[Midnight Lady]], grumbling to herself, finished inspecting the mirror and the well and stomped off presumably to find somewhere else to stash it.
-[u0008] It was communicated to Celyn that she had healed herself by drawing from a poppet in the creepy dollhouse, and that was presumably the local lord, [[Emeric Daverre]].
+[u0008] It was communicated to Celyn that she had healed herself by drawing from a poppet in the creepy dollhouse, and that was presumably the local lord, [[Emeric Daverre|Émeric Daverre]].
 [u0009] The party split, divided by telepathy.
 [u0010] Viepuck is communicating with Celyn, and Viepuck's familiar is also with him, while Viepuck and Izgil go to investigate the house while she's off doing mirror stuff.
-[u0011] Robin and Celyn: go into the manor house, discover [[Emeric Daverre]] has a migraine and fatigue condition that "came on suddenly".
+[u0011] Robin and Celyn: go into the manor house, discover [[Emeric Daverre|Émeric Daverre]] has a migraine and fatigue condition that "came on suddenly".
 [u0012] Celyn feels moderately bad about this because the condition was caused by, you know, the fallout of trying to stab the [[Midnight Lady]].
 [u0013] The manor is full of cowed, weary people, all the paintings and things are covered, and there's a big glass sheet on the wall.
 [u0014] (Everyone objects to Celyn's query about whether he can cover the glass.
 [u0015] Which he more or less expected.) All the dishes are wooden, the bread comes out pre-sliced because a knife might be shiny, and so on.
-[u0016] Inspection of [[Emeric Daverre]] indicates he has been drained, basically, and needs to sleep it off.
+[u0016] Inspection of [[Emeric Daverre|Émeric Daverre]] indicates he has been drained, basically, and needs to sleep it off.
 [u0017] Celyn gives him a blessing of hope to ease his trauma, but this does not fix the deeper issue, though he does perk up enough that he'll consider eating after all.
 [u0018] He presses us to accept his hospitality and stay for dinner, perhaps spend the night?
 [u0019] Robin is extremely uncomfortable accepting hospitality from a household so blatantly fey-cursed, but Celyn feels that he has an obligation as a hope cleric to do what he can for these people's morale.
 [u0020] Also, given the parking of the gathering in front of the panopticon glass, by hanging out here we are potentially distracting the [[Midnight Lady]] from noticing what the rest of the party is up to.
-[u0021] In fact, she shows up in the panopticon after we'd been chatting a bit - mostly about [[Emeric Daverre]]'s worry about the consequences of the boon he accepted on his daughter [[Ysabeau]] and very mundane things - and the conversation shifted to very mundane things (not [[Ysabeau]] at all) while she glowered at the party because she was put out over something we'd done.
+[u0021] In fact, she shows up in the panopticon after we'd been chatting a bit - mostly about [[Emeric Daverre|Émeric Daverre]]'s worry about the consequences of the boon he accepted on his daughter [[Ysabeau]] and very mundane things - and the conversation shifted to very mundane things (not [[Ysabeau]] at all) while she glowered at the party because she was put out over something we'd done.
 [u0022] Not sure what!
 [u0023] But we are glad enough to have annoyed her sufficiently that she is glaring at us rather than going to figure out where Izgil and Viepuck are.
 [u0024] Where Izgil and Viepuck are is "after ransacking the Widow Aalis's House she appropriated, we have discovered her underground lair and are staring at the back door of the house to figure out how the magic portal works." Having determined that, Izgil decides that the sensible thing to do is go investigate it while the [[Midnight Lady]] is busy with the mirror.
@@ -34,14 +34,14 @@
 [u0034] Viepuck cheerfully turns to Izgil, says, "It looks like the sky might clear up, don't you think?"
 [u0035] Izgil, who is at this point _aware_ that the party uses him as 'press this button for social diversion into a lengthy ramble about astronomy', but not actually able to _resist_ having his buttons pushed, goes into monologue mode so that Viepuck can nod and smile and chat with the lord.
 [u0036] Somewhere in here the lord's daughter comes through and whispers to Robin that she needs to tell the party something but doesn't know how to do so privately.
-[u0037] Viepuck obtains information from [[Emeric Daverre]], who is much more talkative when he is able to be certain he isn't being spied on.
+[u0037] Viepuck obtains information from [[Emeric Daverre|Émeric Daverre]], who is much more talkative when he is able to be certain he isn't being spied on.
 [u0038] The specific deal he made was giving the [[Midnight Lady]] sovereignty over "the lands of his blood", which means he is now paranoid that he also accidentally traded away his daughter [[Ysabeau]] (and apparent last surviving child).
-[u0039] We got some information about the [[Midnight Lady]]'s habits, including a regular Monday* dinner with [[Emeric Daverre]] in which she picks his brain about the state of the town (presumably to supplement her supernatural ability to locate people's deepest desires so that she can exploit them).
+[u0039] We got some information about the [[Midnight Lady]]'s habits, including a regular Monday* dinner with [[Emeric Daverre|Émeric Daverre]] in which she picks his brain about the state of the town (presumably to supplement her supernatural ability to locate people's deepest desires so that she can exploit them).
 [u0040] And a suggestion that Viepuck talk to the rest of the staff.
 [u0041] So Viepuck basically yawns as he lets the lord go to sleep and says, "It's been a veyr long day, why don't I go talk to the staff about getting rooms made up for us?" and that sort of settles where we are.
 [u0042] Robin continues uncomfortable.
 [u0043] (It was pointed out that if Robin just up and left the whole party would follow him without questions, but that is very much not Robin's style.)
-[u0044] Viepuck collects more information about the [[Midnight Lady]]'s habits, about the fact that the way [[Emeric Daverre]] acts around his late husband's room is kind of weird (when his father died he was 'storytelling to honor his memory', not 'speak nothing of the matter but treat the room as a preserved museum piece'), a maid [[Béatrice Roisier]] had spotted footprints that seemed to go to the wardrobe and mostly just brushed them away and didn't talk about them because such things are scary.
+[u0044] Viepuck collects more information about the [[Midnight Lady]]'s habits, about the fact that the way [[Emeric Daverre|Émeric Daverre]] acts around his late husband's room is kind of weird (when his father died he was 'storytelling to honor his memory', not 'speak nothing of the matter but treat the room as a preserved museum piece'), a maid [[Béatrice Roisier]] had spotted footprints that seemed to go to the wardrobe and mostly just brushed them away and didn't talk about them because such things are scary.
 [u0045] [[Ysabeau]] is told about the deal her father made and is rather upset about its specifics.
 [u0046] There is no evidence, for the record, of there being a ruined temple to no god in the woods that anyone can report, let alone one that holds the secret of the town.
 [u0047] However, we learn that the lord's late husband loved that kind of old history, was something of a scholar of the old religion of the genius loci, and had a stone with an inscription on it he couldn't read that was reported to be such a thing, which has since gone missing.

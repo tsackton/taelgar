@@ -60,7 +60,7 @@
 
 ### Lords Household
 
-**Lord [[Emeric Daverre]]** – The weary and aging lord of Peydon. After the undead attack, he made a desperate bargain with the hag, and it has taken a toll on him—his hair turned white overnight, and he often seems lost in thought. He remains lord in name, but his authority is waning as he avoids conflict and focuses on keeping the town stable. He is protective of his daughter, **Ysabeau**, and quietly fears she is next in the hag’s schemes.
+**Lord [[Emeric Daverre|Émeric Daverre]]** – The weary and aging lord of Peydon. After the undead attack, he made a desperate bargain with the hag, and it has taken a toll on him—his hair turned white overnight, and he often seems lost in thought. He remains lord in name, but his authority is waning as he avoids conflict and focuses on keeping the town stable. He is protective of his daughter, **Ysabeau**, and quietly fears she is next in the hag’s schemes.
 
 **Lady Estelle Daverre**. Emeric's wife. 
 **Lady Odile Daverre** Estelle's wife. 
