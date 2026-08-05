@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
-"""Audit Taelgar tilde placeholders and Obsidian link integrity.
+"""Audit Taelgar tilde placeholders and internal link integrity.
 
 The scan is read-only. It indexes every visible Markdown note as a possible
 target, while excluding raw/generated source trees, templates, and inline or
-fenced code from the source scan. Reports are written as JSON and TSV files.
+fenced code from the source scan. Both Obsidian wikilinks and local Markdown
+links ending in .md are checked. Reports are written as JSON and TSV files.
 """
 
 import argparse
@@ -16,6 +17,7 @@ from collections import Counter, defaultdict
 from datetime import date
 from difflib import SequenceMatcher
 from pathlib import Path
+from urllib.parse import unquote, urlsplit
 
 ROOT = Path('.').resolve()
 OUT = Path('/tmp/taelgar-integrity-audit')
@@ -215,6 +217,81 @@ def write_tsv(path, rows, fields):
         w.writerows(rows)
 
 
+def parse_markdown_links(line):
+    """Return non-image inline Markdown links, including balanced parentheses."""
+    links = []
+    position = 0
+    while position < len(line):
+        start = line.find('[', position)
+        if start < 0:
+            break
+        if start > 0 and line[start - 1] == '!':
+            position = start + 1
+            continue
+        label_end = line.find(']', start + 1)
+        if label_end < 0 or label_end + 1 >= len(line) or line[label_end + 1] != '(':
+            position = start + 1
+            continue
+        cursor = label_end + 2
+        depth = 1
+        escaped = False
+        while cursor < len(line):
+            char = line[cursor]
+            if escaped:
+                escaped = False
+            elif char == '\\':
+                escaped = True
+            elif char == '(':
+                depth += 1
+            elif char == ')':
+                depth -= 1
+                if depth == 0:
+                    break
+            cursor += 1
+        if depth:
+            position = start + 1
+            continue
+        links.append({
+            'start': start,
+            'end': cursor + 1,
+            'raw_link': line[start:cursor + 1],
+            'label': line[start + 1:label_end],
+            'body': line[label_end + 2:cursor].strip(),
+        })
+        position = cursor + 1
+    return links
+
+
+def local_markdown_target(body):
+    """Decode a local Markdown destination ending in .md; ignore URLs and others."""
+    if not body:
+        return None
+    if body.startswith('<') and '>' in body:
+        destination = body[1:body.find('>')]
+    else:
+        match = re.match(
+            r'^(.*?\.md(?:#[^\s]+)?)(?:\s+(?:"[^"]*"|\'[^\']*\'|\([^)]*\)))?\s*$',
+            body,
+            re.I,
+        )
+        if not match:
+            return None
+        destination = match.group(1)
+    destination = unquote(destination).replace('\\', '/').strip()
+    parsed = urlsplit(destination)
+    if parsed.scheme or parsed.netloc or not parsed.path.casefold().endswith('.md'):
+        return None
+    return parsed.path, unquote(parsed.fragment)
+
+
+def plain_markdown_links(line):
+    """Render inline Markdown links as their labels without leaving live links."""
+    links = parse_markdown_links(line)
+    for item in reversed(links):
+        line = line[:item['start']] + item['label'] + line[item['end']:]
+    return line
+
+
 def plain_link_text(match):
     """Render an Obsidian link as its visible text without leaving a live link."""
     inside = match.group(2)
@@ -227,8 +304,10 @@ def plain_link_text(match):
 
 def short_context(line, raw_link, limit=240):
     """Return a compact plain-text excerpt centered on the matched link."""
-    plain = re.sub(r'\s+', ' ', LINK_RE.sub(plain_link_text, line).strip())
-    raw_display = LINK_RE.sub(plain_link_text, raw_link)
+    plain = plain_markdown_links(line)
+    plain = re.sub(r'\s+', ' ', LINK_RE.sub(plain_link_text, plain).strip())
+    raw_display = plain_markdown_links(raw_link)
+    raw_display = LINK_RE.sub(plain_link_text, raw_display)
     if len(plain) <= limit:
         return plain
     center = plain.find(raw_display)
@@ -285,6 +364,7 @@ def write_unresolved_note(path, broken, metadata):
         f'- **{len(groups)}** unresolved targets: **{len(missing_notes)}** notes and **{len(missing_attachments)}** attachments',
         f'- **{len(broken)}** occurrences across **{len(unique_sources)}** source files',
         f'- **{metadata["scanned_source_markdown"]}** source notes scanned; raw and generated processing material excluded',
+        f'- Includes **{metadata.get("total_markdown_links", 0)}** local `.md`-style Markdown links in addition to Obsidian wikilinks',
         '- Sorted by number of distinct source files, then alphabetically',
         '- One representative context snippet is shown per source file; repeated occurrences in that file are counted',
         '',
@@ -312,8 +392,11 @@ def write_unresolved_note(path, broken, metadata):
             if len(occurrences) > 1:
                 repeat = f'; {len(occurrences)} occurrences in this file'
             context_label = '' if first['context'] == 'visible' else f'; {first["context"]}'
+            style_label = '; Markdown link' if any(
+                item.get('link_style') == 'markdown' for item in occurrences
+            ) else ''
             lines.append(
-                f'- {source_link(source)} — line {first["line"]}{repeat}{context_label}'
+                f'- {source_link(source)} — line {first["line"]}{repeat}{context_label}{style_label}'
             )
             lines.append(f'  > {first["snippet"]}')
         lines.append('')
@@ -403,9 +486,11 @@ def main():
     broken, ambiguous, tentative, fragment_issues = [], [], [], []
     placeholders, other_tilde = [], []
     link_count = 0
+    markdown_link_count = 0
     status_counts = Counter()
     context_counts = Counter()
     category_counts = Counter()
+    markdown_category_counts = Counter()
 
     def resolve_note(base, source):
         base = base.strip()
@@ -437,6 +522,32 @@ def main():
             return by_alias, 'alias-only'
         return [], 'missing'
 
+    def resolve_markdown_path(decoded_path, source):
+        """Resolve an old Markdown path locally, from vault root, or by note name."""
+        source_path = ROOT / source
+        candidates = []
+        if decoded_path.startswith('/'):
+            candidates.append(ROOT / decoded_path.lstrip('/'))
+        else:
+            candidates.extend((source_path.parent / decoded_path, ROOT / decoded_path))
+        for candidate in candidates:
+            candidate = candidate.resolve()
+            try:
+                candidate_rel = candidate.relative_to(ROOT).as_posix()
+            except ValueError:
+                continue
+            if candidate_rel in note_by_path:
+                return [note_by_path[candidate_rel]], 'resolved-markdown-path'
+        # Old OneNote links frequently retain only a filename. Once exact path
+        # checks fail, resolve its stem using the same names and aliases as a
+        # wikilink (for example, Halfling.md -> alias on Halflings.md).
+        matches, status = resolve_note(Path(decoded_path).stem, source)
+        if status == 'alias-only':
+            return matches, 'resolved-markdown-name'
+        if status in {'resolved', 'resolved-path', 'resolved-self'}:
+            return matches, 'resolved-markdown-name'
+        return matches, status
+
     for p in source_paths:
         r = rel(p)
         cat = source_category(r)
@@ -459,7 +570,8 @@ def main():
                     'source': r, 'source_category': cat, 'line': line_no,
                     'context': context, 'raw_link': raw_link, 'target': base,
                     'fragment': frag, 'embed': embed, 'candidates': [],
-                    'snippet': short_context(line, raw_link)
+                    'snippet': short_context(line, raw_link),
+                    'link_style': 'wikilink', 'markdown_destination': ''
                 }
                 category_counts[cat] += 1
                 context_counts[context] += 1
@@ -509,6 +621,43 @@ def main():
                         frec['fragment_status'] = 'missing-block' if frag_kind == 'block' else 'missing-heading'
                         fragment_issues.append(frec)
 
+            for markdown_link in parse_markdown_links(line):
+                target_parts = local_markdown_target(markdown_link['body'])
+                if not target_parts:
+                    continue
+                markdown_link_count += 1
+                decoded_path, frag = target_parts
+                display_target = Path(decoded_path).stem
+                raw_link = markdown_link['raw_link']
+                record = {
+                    'source': r, 'source_category': cat, 'line': line_no,
+                    'context': context, 'raw_link': raw_link,
+                    'target': display_target, 'fragment': frag, 'embed': False,
+                    'candidates': [], 'snippet': short_context(line, raw_link),
+                    'link_style': 'markdown',
+                    'markdown_destination': decoded_path,
+                }
+                markdown_category_counts[cat] += 1
+                context_counts[context] += 1
+                matches, status = resolve_markdown_path(decoded_path, r)
+                if status == 'ambiguous':
+                    record['status'] = 'ambiguous-markdown'
+                    record['candidates'] = [n['path'] for n in matches]
+                    ambiguous.append(record)
+                    status_counts['ambiguous-markdown'] += 1
+                    continue
+                if status == 'missing':
+                    record['status'] = 'missing-markdown'
+                    record['candidates'] = candidate_names(display_target, notes)
+                    broken.append(record)
+                    status_counts['missing-markdown'] += 1
+                    continue
+                record['status'] = status
+                record['resolved_path'] = matches[0]['path']
+                status_counts[status] += 1
+                if record['resolved_path'].startswith('Worldbuilding/Tentative/'):
+                    tentative.append(record.copy())
+
             if cat == 'canon':
                 for m in TILDE_RE.finditer(line):
                     full = m.group(0)
@@ -532,7 +681,11 @@ def main():
         'root': str(ROOT), 'indexed_markdown_notes': len(md_paths),
         'scanned_source_markdown': len(source_paths),
         'canon_source_markdown': sum(1 for p in source_paths if source_category(rel(p)) == 'canon'),
-        'total_wikilinks': link_count, 'source_categories': dict(category_counts)
+        'total_wikilinks': link_count,
+        'total_markdown_links': markdown_link_count,
+        'total_links': link_count + markdown_link_count,
+        'source_categories': dict(category_counts),
+        'markdown_source_categories': dict(markdown_category_counts),
     }
     audit = {
         'metadata': metadata, 'status_counts': dict(status_counts),
@@ -547,10 +700,14 @@ def main():
     write_tsv(OUT / 'other_tilde_usage.tsv', other_tilde,
               ['classification', 'context', 'line', 'placeholder', 'snippet', 'source'])
     write_tsv(OUT / 'broken.tsv', broken,
-              ['candidates', 'context', 'embed', 'fragment', 'line', 'raw_link', 'source', 'source_category', 'status', 'target'])
+              ['candidates', 'context', 'embed', 'fragment', 'line', 'link_style',
+               'markdown_destination', 'raw_link', 'snippet', 'source',
+               'source_category', 'status', 'target'])
     canon_broken = [x for x in broken if x['source_category'] == 'canon']
     write_tsv(OUT / 'canon_broken.tsv', canon_broken,
-              ['candidates', 'context', 'embed', 'fragment', 'line', 'raw_link', 'source', 'source_category', 'status', 'target'])
+              ['candidates', 'context', 'embed', 'fragment', 'line', 'link_style',
+               'markdown_destination', 'raw_link', 'snippet', 'source',
+               'source_category', 'status', 'target'])
     write_tsv(OUT / 'tentative_targets.tsv', tentative,
               ['context', 'embed', 'fragment', 'line', 'raw_link', 'resolved_path', 'source', 'source_category', 'status', 'target'])
     write_tsv(OUT / 'fragment_issues.tsv', fragment_issues,
@@ -564,6 +721,7 @@ def main():
         comparison = {
             'previous': {
                 'wikilinks': old['metadata']['total_wikilinks'],
+                'markdown_links': old['metadata'].get('total_markdown_links', 0),
                 'placeholders': len(old['placeholders']),
                 'unique_placeholders': len({x['placeholder'] for x in old['placeholders']}),
                 'broken': len(old['broken']),
@@ -573,6 +731,7 @@ def main():
             },
             'current': {
                 'wikilinks': link_count,
+                'markdown_links': markdown_link_count,
                 'placeholders': len(placeholders),
                 'unique_placeholders': len({x['placeholder'] for x in placeholders}),
                 'broken': len(broken),
@@ -602,6 +761,7 @@ def main():
             'canon_tentative_targets': sum(x['source_category'] == 'canon' for x in tentative),
             'fragment_issues': len(fragment_issues),
             'missing_attachments': sum(x['status'] == 'missing-attachment' for x in broken),
+            'missing_markdown': sum(x['status'] == 'missing-markdown' for x in broken),
             'alias_only': sum(x['status'] == 'alias-only' for x in broken),
             'obsolete_paths': sum(x['status'] == 'obsolete-path' for x in broken)
         }

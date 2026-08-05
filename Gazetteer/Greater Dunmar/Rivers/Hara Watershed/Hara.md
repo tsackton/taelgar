@@ -20,7 +20,7 @@ At its source, the Hara is a swift flowing mountain river, descending to the  fl
 
 South of the confluence with the [[Thandar]], the Hara turns broad and sluggish as it flows through the [[Varashan]]. Here, the Hara frequently floods during the monsoon season. 
 
-The region in the immediate vicinity of [[Tokra]] is rocky and hard, especially just south of the city, where the rocky land of the [[Darba Highlands]] protrudes into the [[Hara Basin]]. Here, the river widens again as it passes beneath the [[~Tokra Bridge~]]. 
+The region in the immediate vicinity of [[Tokra]] is rocky and hard, especially just south of the city, where the rocky land of the [[Darba Highlands]] protrudes into the [[Hara Basin]]. Here, the river widens again as it passes beneath the Tokra Bridge. 
 
 South of [[Tokra]], the river passes through a series of small canyons on the rugged [[Sukal Plains]]. The [[Sukal]] joins between [[Tokra]] and [[Askandi]], and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
 

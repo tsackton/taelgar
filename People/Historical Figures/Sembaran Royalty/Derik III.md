@@ -22,7 +22,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% the metadata / affiliations need to be updated to reflect current thinking about history; important figure with more details available so note could be expanded; note date of High Prince of the North is based on end of [[Vimfrost War]], per that note %%
+%% the metadata / affiliations need to be updated to reflect current thinking about history; important figure with more details available so note could be expanded; note date of High Prince of the North is based on end of [[Vimfrost's War]], per that note %%
 
 The king of Sembara during the [[Great War]]; of the [[House of Sewick]]. He reigned from his mother [[Charlotte I|Charlotte I's]] death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
 

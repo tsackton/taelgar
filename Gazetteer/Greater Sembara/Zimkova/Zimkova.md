@@ -47,7 +47,7 @@ A dense forest stretches from the [[Volta]] to [[Semb]]. Between the [[Teft]] an
 ### People and Culture
 The geography above forms three cultural regions:
 
-* South Zimkova, the lands south of the [[~Southern Sentinel Spur~]], the [[Breva Forest]], and west of the [[Braebein]]. This land has seen much intermixing with Sembara, and the realms of [[Ardlas]] and [[Lavnoch Plateau]] have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [[Zimka]], and although it has retained a unique culture and language, [[Mos Numena]] is the most common religion here and the worship of [[Kestavo]] has largely faded
+* South Zimkova, the lands south of the [[~Southern Sentinel Spur~]], the [[~Breva Forest~]], and west of the [[Braebein]]. This land has seen much intermixing with Sembara, and the realms of [[Ardlas]] and [[Lavnoch Plateau]] have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [[Zimka]], and although it has retained a unique culture and language, [[Mos Numena]] is the most common religion here and the worship of [[Kestavo]] has largely faded
 * Breva, nestled between the [[Teft]] and the [[Volta]], and separated from the north by the [[~Central Sentinel Spur~]], a unique blended culture, where kestavo still dominate and a fierce independent streak keeps the people independent
 * North Zimkova, lightly peopled and scattered, where the ancient ways still hold sway, a land of hunters and small fortified villages, mostly clinging to the [[Volta]] and its tributaries. 
 

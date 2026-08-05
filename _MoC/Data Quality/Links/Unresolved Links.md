@@ -8,11 +8,39 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **37** unresolved targets: **34** notes and **3** attachments
-- **51** occurrences across **28** source files
-- **4050** source notes scanned; raw and generated processing material excluded
+- **28** unresolved targets: **25** notes and **3** attachments
+- **40** occurrences across **18** source files
+- **4061** source notes scanned; raw and generated processing material excluded
+- Includes **457** local `.md`-style Markdown links in addition to Obsidian wikilinks
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
+
+## `[[Cinder Court Hideout]]` — 2 files · 2 occurrences
+
+[[Cinder Court Hideout]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Adderfell - Plaguelands - Session Notes|Adderfell - Plaguelands - Session Notes]] — line 6; Markdown link
+  > …e in the evening. At that point. Owlbear Market Attack happened, and they followed the tracks of the spy to the Cinder Court Hideout, where they started to explore, driving off two bone crabs and capturing/killing thugs, plus rescuing Kave.
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Adderfell Adventure - DM Overview|Adderfell Adventure - DM Overview]] — line 15; Markdown link
+  > Cinder Court Hideout
+
+## `[[Ellyn]]` — 2 files · 2 occurrences
+
+[[Ellyn]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Adderfell - Plaguelands - Session Notes|Adderfell - Plaguelands - Session Notes]] — line 6; Markdown link
+  > …Eofric). Afterward the party got rooms at The Brass Thorn, where they talked to Ellyn and heard some rumors before heading to bed. In the middle of the night, they were attacked and defeated the Shadow Assassins, in part by summoning a unic…
+- [[Worldbuilding/Tentative/The Brass Thorn|The Brass Thorn]] — line 3; Markdown link
+  > The Brass Thorn is an inn in Adderfell, run by Ellyn.
+
+## `[[Simi]]` — 2 files · 2 occurrences
+
+[[Simi]]
+
+- [[_dm_notes/_Plaguelands/Plaguelands Campaign NPCs|Plaguelands Campaign NPCs]] — line 117; Markdown link
+  > She is a jeweler in Adderfell, sells from shop but also at market occasionally; friend of Simi
+- [[Worldbuilding/Old Documents/Adderfell - Old|Adderfell - Old]] — line 30; Markdown link
+  > _Old Town Market._ Market has a variety of peddlers, tinkers, and merchants. Most simple goods are available, and some additional people. Simi the bookseller regularly spends mornings at the market; also Hanse the jeweler, a friend of Simi.
 
 ## `[[~Evensong Spire~]]` — 2 files · 4 occurrences
 
@@ -23,109 +51,110 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Extraplanar/Feywild/Sunset Gate|Sunset Gate]] — line 20; 2 occurrences in this file
   > In other places, especially where it passes through the edge of Twilight’s Grace, there are elaborate structures - the ~Evensong Spire~ is particularly famous for its immense towers that intertwine with the painted colors of the sunset.
 
-## `[[Breva Forest]]` — 1 file · 1 occurrence
+## `[[Agnor (OneNote)]]` — 1 file · 1 occurrence
 
-[[Breva Forest]]
+[[Agnor (OneNote)]]
+
+- [[_DM_/Timelines/Unified Timeline From OneNote|Unified Timeline From OneNote]] — line 216; Markdown link
+  > |**9 May 1748**|Party traveling south through the desert, slowing pace to try to be quiet.||Riswynn meets Oskar and Agnor (OneNote) at the Red Shield and learns of strange happenings below Tharn Todor. **{ROA}**||
+
+## `[[Bertram]]` — 1 file · 1 occurrence
+
+[[Bertram]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Adderfell Approach|Adderfell Approach]] — line 11; Markdown link
+  > Eva and Bertram will stay with a friend in the area outside the walls, with a plan to sell their wares over the next couple of days and then return with a cousin and possibly hired guards. While they have nothing to pay you with, they tell…
+
+## `[[Camilla]]` — 1 file · 3 occurrences
+
+[[Camilla]]
+
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart|Chardon NPC Flowchart]] — line 56; 3 occurrences in this file; Markdown link
+  > Can provide introductions to: Vola Forena (OneNote), Dain Goldhammer, Dee Wildcloak, Lyra, Camilla
+
+## `[[Doppleganger chase]]` — 1 file · 1 occurrence
+
+[[Doppleganger chase]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Adderfell Adventure - DM Overview|Adderfell Adventure - DM Overview]] — line 21; Markdown link
+  > Doppleganger chase
+
+## `[[Dunwick]]` — 1 file · 1 occurrence
+
+[[Dunwick]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Adderfell Approach|Adderfell Approach]] — line 11; Markdown link
+  > …heir wares over the next couple of days and then return with a cousin and possibly hired guards. While they have nothing to pay you with, they tell you if you are ever in Dunwick again to look them up and you’ll always have a place to stay.
+
+## `[[Earl Eofric]]` — 1 file · 1 occurrence
+
+[[Earl Eofric]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Meeting Eofric|Meeting Eofric]] — line 1; Markdown link
+  > The party is led to Earl Eofric after convincing the guards they have legitimate business (if they show letter of introduction from Oswyn, this does not require an ability check; otherwise, a DC 15 Charisma (Persuasion) roll required).
+
+## `[[Elder Anders]]` — 1 file · 1 occurrence
+
+[[Elder Anders]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Council Meeting|Council Meeting]] — line 48; Markdown link
+  > Elder Anders
+
+## `[[Hanse]]` — 1 file · 1 occurrence
+
+[[Hanse]]
+
+- [[Worldbuilding/Old Documents/Adderfell - Old|Adderfell - Old]] — line 30; Markdown link
+  > _Old Town Market._ Market has a variety of peddlers, tinkers, and merchants. Most simple goods are available, and some additional people. Simi the bookseller regularly spends mornings at the market; also Hanse the jeweler, a friend of Simi.
+
+## `[[Ken-to (OneNote)]]` — 1 file · 1 occurrence
+
+[[Ken-to (OneNote)]]
+
+- [[_DM_/Timelines/Unified Timeline From OneNote|Unified Timeline From OneNote]] — line 226; Markdown link
+  > |**18 May 1748**|Party in desert, traveling to Karawa||Ken-to (OneNote) arrives in Tharn Todor with news of a strange meteor and a angelic creature, a Deva, wounded in his hut on the mountains. **{ROA}**||
+
+## `![[lake-rin-shipwreck.jpg]]` — 1 file · 1 occurrence
+
+![[lake-rin-shipwreck.jpg]]
+
+- [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 104
+  > lake-rin-shipwreck.jpg
+
+## `[[Lord Wisym]]` — 1 file · 1 occurrence
+
+[[Lord Wisym]]
+
+- [[_dm_notes/_Plaguelands/Part 2 - Adderfell/Council Meeting|Council Meeting]] — line 44; Markdown link
+  > Lord Wisym
+
+## `![[rinburg-lake-1.png]]` — 1 file · 1 occurrence
+
+![[rinburg-lake-1.png]]
+
+- [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 101
+  > rinburg-lake-1.png
+
+## `[[sessions]]` — 1 file · 1 occurrence
+
+[[sessions]]
+
+- [[Campaigns/Dunmari Frontier Campaign/Dunmari Frontier Campaign|Dunmari Frontier Campaign]] — line 12; Markdown link
+  > - The index of session notes: Sessions
+
+## `![[underwater-lake-monster-scene.png]]` — 1 file · 1 occurrence
+
+![[underwater-lake-monster-scene.png]]
+
+- [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 107
+  > underwater-lake-monster-scene.png
+
+## `[[~Breva Forest~]]` — 1 file · 1 occurrence
+
+[[~Breva Forest~]]
 
 - [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 50
-  > * South Zimkova, the lands south of the ~Southern Sentinel Spur~, the Breva Forest, and west of the Braebein. This land has seen much intermixing with Sembara, and the realms of Ardlas and Lavnoch Plateau have been under the overlordship of…
-
-## `[[Cleansing of the Ettercap Lair]]` — 1 file · 1 occurrence
-
-[[Cleansing of the Ettercap Lair]]
-
-- [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
-  > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
-
-## `[[Essford family]]` — 1 file · 1 occurrence
-
-[[Essford family]]
-
-- [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
-  > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
-
-## `[[Kasari]]` — 1 file · 1 occurrence
-
-[[Kasari]]
-
-- [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 38
-  > * The ~Central Sentinel Spur~ stretches east to the Teft, and is the source of the Kasari, one of the tributaries of the Volta. It divides the forests of Breva from the north
-
-
-## `[[Lauswald]]` — 1 file · 1 occurrence
-
-[[Lauswald]]
-
-- [[Gazetteer/Greater Sembara/Zimkova/Lavnoch Plateau|Lavnoch Plateau]] — line 53
-  > …Braebein - a series of mountainous hills with a few peaks over 6,000' - and the Lauswald, an eerie forest said to be haunted by the children of Zeyfa. In the north, the terrain rises to over 5,000' before descending in a series of more gent…
-
-## `[[North Watch]]` — 1 file · 1 occurrence
-
-[[North Watch]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] — line 18
-  > …drawn it into a more structured support role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation…
-
-
-## `[[Regiment of the Wall]]` — 1 file · 1 occurrence
-
-[[Regiment of the Wall]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Western Marches/Dunmore|Dunmore]] — line 18
-  > …pport role, as the major town supporting the North Watch, and in particular the Regiment of the Wall. Soldiers stationed along the north and central sections of the wall return here for rest and relaxation, and the historical border town ch…
-
-## `[[Selestat]]` — 1 file · 1 occurrence
-
-[[Selestat]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aveil Ridge|Aveil Ridge]] — line 20
-  > …hobgoblin wars and as a source of tin. There are two tin mines in the northern slopes of the ridge, controlled by the Duchy of Wisford. The Aveil Road runs from the mining town of Sélestat in the north side of the ridge to the Wistel river.
-
-
-## `[[Statue of the Stoneborn Warrior]]` — 1 file · 3 occurrences
-
-[[Statue of the Stoneborn Warrior]]
-
-- [[Things/Artifacts of Power/Chalice of the Runepriest|Chalice of the Runepriest]] — line 35; 3 occurrences in this file
-  > …rson, attacks dwarven refugees from Ardith and the warrior mission sent to find them, on the Dunmari plains north of Tokra. The dwarves flee, constructing hasty fortifications around the Statue of the Stoneborn Warrior on the Dunmari plains
-
-
-## `[[Treaty of Châteauclair]]` — 1 file · 1 occurrence
-
-[[Treaty of Châteauclair]]
-
-- [[History/Background/Cleenseau History Notes|Cleenseau History Notes]] — line 47
-  > After Treaty of Châteauclair in 1602, the Second Hobgoblin War ends and the Shattered Ice Clan is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat…
-
-
-## `[[Vimfrost War]]` — 1 file · 1 occurrence
-
-[[Vimfrost War]]
-
-- [[People/Historical Figures/Sembaran Royalty/Derik III|Derik III]] — line 25; comment
-  > …tadata / affiliations need to be updated to reflect current thinking about history; important figure with more details available so note could be expanded; note date of High Prince of the North is based on end of Vimfrost War, per that note
-
-
-## `[[Wickerley]]` — 1 file · 1 occurrence
-
-[[Wickerley]]
-
-- [[People/PCs/Other PCs/Tollen Misfits/Edric|Edric]] — line 13
-  > Edric was born in the small village of Wickerley, a good two day's walk north of the Great South Road, in the Duchy of Telham. Wickerly is known for very little, although there are two brewers who sell to the surrounding villages, and the b…
-
-## `[[Willibard the Dragonslayer]]` — 1 file · 1 occurrence
-
-[[Willibard the Dragonslayer]]
-
-- [[Groups/Sembaran Noble Houses/House of Entranca|House of Entranca]] — line 15
-  > …nt noble house in Sembara. Historically they claimed to trace their ancestry to Willibard the Dragonslayer, a possibly mythical Sembaran knight, who was said to have slain Azaroth the Accursed, an acid-spitting dragon, said to have terroriz…
-
-## `[[Year of Endless Rain]]` — 1 file · 1 occurrence
-
-[[Year of Endless Rain]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 253
-  > - (DR:: 1551), spring: The year starts with unseasonable and unending rains, and there is much flooding.
+  > * South Zimkova, the lands south of the ~Southern Sentinel Spur~, the ~Breva Forest~, and west of the Braebein. This land has seen much intermixing with Sembara, and the realms of Ardlas and Lavnoch Plateau have been under the overlordship…
 
 ## `[[~Central Sentinel Spur~]]` — 1 file · 3 occurrences
 
@@ -155,20 +184,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 35; 2 occurrences in this file
   > * The Volta, in the north, has many lakes and tributaries, as it drains the lands between the ~Central Sentinel Spur~, the ~North Sentinel Spur~, and the Pekul Mountains
 
-## `[[~Northern Continent~]]` — 1 file · 1 occurrence
-
-[[~Northern Continent~]]
-
-- [[Gazetteer/Greater Dunmar/Realms/Dunmar/Dunmar|Dunmar]] — line 23
-  > …eocratic monarchy stretching more than 700 miles across the central lowlands of ~Northern Continent~, bordered by the coast of the Nevos Sea and the Myraeni Gap in the west, the Sentinel Range in the north, and the barren wastelands of the…
-
-## `[[~Old Zimka~]]` — 1 file · 1 occurrence
-
-[[~Old Zimka~]]
-
-- [[Background/Human Cultures of Taelgar|Human Cultures of Taelgar]] — line 46
-  > …ally two cultures with a shared identity: an older, pure northerner strand, the ~Old Zimka~ , worshippers of the kestavo, and a newer strand, heavily influenced by the "Sembaran mixing pot", who might be as likely to worship Mos Numena as t…
-
 ## `[[~Skaer Northcoast Peninsula~]]` — 1 file · 1 occurrence
 
 [[~Skaer Northcoast Peninsula~]]
@@ -189,13 +204,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Greater Sembara/Zimkova/Zimkova|Zimkova]] — line 42; 2 occurrences in this file
   > Between the ~Central Sentinel Spur~ and the ~Southern Sentinel Spur~ lies the Great Chasm a mysterious gouge in the earth surrounded by rumors and myth. The Zimka believe it is the home of Zeyfa, the cruel west wind, and do not settle near…
-
-## `[[~Tokra Bridge~]]` — 1 file · 1 occurrence
-
-[[~Tokra Bridge~]]
-
-- [[Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara|Hara]] — line 23
-  > …region in the immediate vicinity of Tokra is rocky and hard, especially just south of the city, where the rocky land of the Darba Highlands protrudes into the Hara Basin. Here, the river widens again as it passes beneath the ~Tokra Bridge~.
 
 ## `[[~Unnamed East Fork~]]` — 1 file · 1 occurrence
 

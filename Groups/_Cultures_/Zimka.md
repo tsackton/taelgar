@@ -15,7 +15,7 @@ dm_notes: important
 
 The Zimka are branch of the [[Northerners]], living in the foothills, forests, plateaus, river valleys, bogs, and lakes between the [[Sentinel Range|Sentinels]] and northern [[Sembara]]. This region, broadly, is known as [[Zimkova]], and is closely associated with the Zimka culture, especially the upper [[Volta]], the upper [[Teft]], [[Breva]], the [[Lavnoch Plateau]], and the isolated highlands north of the [[Great Chasm]].
 
-The Zimka tell aModern Zimka identity is complex, and the Zimka do not form a single kingdom or unified culture. Instead, the shared inheritance of ancient tales of traveling from across the mountains, and discovering the [[Kestavo|kestavo]] among the bogs and lakes of the upper [[Volta]], binds together scattered northern villages, Brevan forest communities, Lavnoch clans, and the more Sembaran-influenced people of [[Ardlas]]. 
+Modern Zimka identity is complex, and the Zimka do not form a single kingdom or unified culture. Instead, the shared inheritance of ancient tales of traveling from across the mountains, and discovering the [[Kestavo|kestavo]] among the bogs and lakes of the upper [[Volta]], binds together scattered northern villages, Brevan forest communities, Lavnoch clans, and the more Sembaran-influenced people of [[Ardlas]]. 
 
 %% not clear how forward to make the Old Zimka / Zimka distinction: could surface this immediately in the overview above %%
 

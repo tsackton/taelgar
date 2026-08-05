@@ -127,7 +127,7 @@ I think this is where we get the information that one [[Sabine de Brune|Lady Deb
 [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/): Having the crazy person talk to the fairies certainly minimizes the risks of talking to fairies....  
 Me: Hey, my crazy is optimized for talking to fairies! ... except for the other crazy.  
   
-[[Istarias|The fairy]]'s suspicion is that the reason [[Sabine de Brune|the lady]] has been hauled in is to get them (possibly him) under the observation of Her, meaning [[Areschera|the fairy masquerading as the clerk]], and that [[Duskhound|the Duskhound]] (terrifying horned fey) checks in on them occasionally. He would like help getting out. Celyn is not like he expected him to be. "Maybe better!" Celyn agrees we will do what we can.  
+[[Istarias|The fairy]]'s suspicion is that the reason [[Sabine de Brune|the lady]] has been hauled in is to get them (possibly him) under the observation of Her, meaning [[Areschera|the fairy masquerading as the clerk]], and that [[Duskhounds|the Duskhound]] (terrifying horned fey) checks in on them occasionally. He would like help getting out. Celyn is not like he expected him to be. "Maybe better!" Celyn agrees we will do what we can.  
   
 The lady notes that she believes the difficulty they are having is probably resembling what [[Lorin Valbert]] (who left Asineau out of fear of fairies) was afraid of, which is pleasantly oblique and confirms that she is in the know here. We agree that this is a problem, yes.
   
@@ -150,7 +150,7 @@ Which did fluster her slightly, heh. But she covered by acknowledging the dwarve
 [[Marceline Dupont|The captain of horse]], in her late thirties, looking at the party collectively: Kids.  
 Viepuck, pointing at Izgil: We have a chaperone!  
   
-Amongst our things telling her is that [[Damien Montrichard|Damian]] is not in fact located in the jail. She does not question how we know this, she is just deeply bothered by it. Viepuck ducks out to the loo and casts magical telegraph, contacting [[Damien Montrichard|Damian]] and confirming that he's alive, being guarded by [[Duskhound|the Doomhound]], and got dragged up some stairs to get to where he is. We carry on with various scheme arrangements while [[Estiasilos|Es*tiaslos]] the flying purple eldritch octopus cases the keep to figure out where the hell [[Damien Montrichard|Damian]] is.  
+Amongst our things telling her is that [[Damien Montrichard|Damian]] is not in fact located in the jail. She does not question how we know this, she is just deeply bothered by it. Viepuck ducks out to the loo and casts magical telegraph, contacting [[Damien Montrichard|Damian]] and confirming that he's alive, being guarded by [[Duskhounds|the Doomhound]], and got dragged up some stairs to get to where he is. We carry on with various scheme arrangements while [[Estiasilos|Es*tiaslos]] the flying purple eldritch octopus cases the keep to figure out where the hell [[Damien Montrichard|Damian]] is.  
   
 Having located the secret door, we proceed to hatch a sequence of plans to get [[Sabine de Brune|Lady Debrune]] out of here and then go in and rescue [[Damien Montrichard|Damian]] before he is either killed or entirely ensorcelled to throw himself under the bus and possibly us as well, who knows what complicated charm effects laid by fey might accomplish.  
   

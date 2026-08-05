@@ -7,7 +7,7 @@ The [[Cleenseau region]] is home to a population of about 2300 people, mostly hu
 ## Cleenseau
 
 ### The Essford Family
-The [[Essford family]] have been the lords of the [[Manor of Cleenseau]] for 70 years, since [[Reginald Essford]] was granted the manor as a reward for his service in the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. They are the most prominent nobles in the region, and despite having no formal authority over the other three manors, exert influence over the whole region.
+The [[Essfords|Essford family|]] have been the lords of the [[Manor of Cleenseau]] for 70 years, since [[Reginald Essford]] was granted the manor as a reward for his service in the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. They are the most prominent nobles in the region, and despite having no formal authority over the other three manors, exert influence over the whole region.
 
 The family consists of:
 <div class="grid cards ext-narrow-margin" markdown>
