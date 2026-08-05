@@ -89,7 +89,7 @@ She passed the mirror on to her daughter, and then her granddaughter, Revaka, bu
 
 Until Cha'mutte came. Revaka tried to trap him, but of course he could not be trapped in this way, and laughed as he trapped her instead and took over the tribe, appointing a lieutenant to rule and promising glory in battle.
 
-Cha'mutte was not so concerned with the mirror, and it remained mostly unused at the hobgoblin lair outside ~Irebor~ until Cha'mutte's defeat, the granddaughter still trapped within.
+Cha'mutte was not so concerned with the mirror, and it remained mostly unused at the hobgoblin lair outside Isingue until Cha'mutte's defeat, the granddaughter still trapped within.
 
 Until after Cha'mutte's defeat, when an ally of his, [[Agata]] Dustmother, remembered its presence and went seeking it, finding it still in the now-abandoned hobgoblin stronghold, protected by deception magic and traps, Revaka still inside. She then brought it to her lair, and since then has used it to 'store' people she is working on breaking, or whom she has plans for later, or who just amuse her to be stored.
 %%

@@ -34,7 +34,7 @@ Northern funerary traditions commonly treat the small gods as guides for the sou
 %% See: [[Kestavan Funerary Traditions]], [[2024-01-27 - Funerary Traditions]], among other references %%
 ## Language
 
-The Northerner languages were grouped by Drankorian scholars as the [[Languages#Northros Language Family|Northros Language Family]]. Known Northros or Northros-derived languages include [[Languages#Deno'qai|Deno'qai]], [[Languages#~Old Zimkovan~|Old Zimkovan]], [[Languages#Vargaldi|Vargaldi]], and [[Languages#Mawaran|Mawaran]]. Several later languages preserve mixed inheritances. Modern [[Languages#Zimkovan|Zimkovan]] descends from an Eastros root but carries older northern influence, while Vargaldi remains Northros in structure but has many [[Languages#Eastros|Eastros]] loan words.
+The Northerner languages were grouped by Drankorian scholars as the [[Languages#Northros Language Family|Northros Language Family]]. Known Northros or Northros-derived languages include [[Languages#Deno'qai|Deno'qai]], [[Languages#Old Zimkovan|Old Zimkovan]], [[Languages#Vargaldi|Vargaldi]], and [[Languages#Mawaran|Mawaran]]. Several later languages preserve mixed inheritances. Modern [[Languages#Zimkovan|Zimkovan]] descends from an Eastros root but carries older northern influence, while Vargaldi remains Northros in structure but has many [[Languages#Eastros|Eastros]] loan words.
 
 ## Northerner Cultures
 
@@ -100,7 +100,7 @@ Culture and religion:
 
 Language:
 - The related languages are grouped as the [[Languages#Northros Language Family|Northros Language Family]], a Drankorian scholarly category for languages descended from the first migrants from Hkar. Sources: [[Languages]], [[Language - Discussions]].
-- Known or likely Northros languages include [[Languages#~Old Zimkovan~|Old Zimkovan]], [[Languages#Deno'qai|Deno'qai]], [[Languages#Vargaldi|Vargaldi]], and [[Languages#Mawaran|Mawaran]]. The Mawaran case is unsettled. Source: [[Languages]].
+- Known or likely Northros languages include [[Languages#Old Zimkovan|Old Zimkovan]], [[Languages#Deno'qai|Deno'qai]], [[Languages#Vargaldi|Vargaldi]], and [[Languages#Mawaran|Mawaran]]. The Mawaran case is unsettled. Source: [[Languages]].
 - Northros languages are modeled with Semitic real-world analogues in development notes, while later Eastros and Drankorian influences explain mixed linguistic profiles such as Zimkovan and Vargaldi. Sources: [[Languages]], [[Language - Discussions]], [[2024-07-12 - Languages and Humanity]]; [[2024-07-13 - Languages and Humanity]]; [[2024-07-14 - Languages and Humanity]]; [[2024-07-15 - Languages and Humanity]].
 
 Descendant and influenced cultures:
