@@ -58,7 +58,7 @@ By early March, [[Johar]] is traveling northeast, probably heading for [[Tokra]]
 
 ## Havdar
 
-Delwath scries on [[Havdar]] a number times in February and early March to get a sense of the border between Dunmar and Chardon. Mostly, you see the routine of army camp life. Havdar has at least a thousand troops, possibly more, camped on the western [[~Songara Plains~]], near the edge of Dunmari territory. There does not seem to be significant active engagements with Chardonian troops – you don’t see signs of mass casualties or mobilization – although it is hard to know whether minor clashes have occurred. 
+Delwath scries on [[Havdar]] a number times in February and early March to get a sense of the border between Dunmar and Chardon. Mostly, you see the routine of army camp life. Havdar has at least a thousand troops, possibly more, camped on the western [[Songara Plains]], near the edge of Dunmari territory. There does not seem to be significant active engagements with Chardonian troops – you don’t see signs of mass casualties or mobilization – although it is hard to know whether minor clashes have occurred. 
 
 In early March, it seems the camp has swelled in size, at least doubled if not more. [[Havdar]] speaks frequently with scouts, commanders, and others. There seems to be some negotiations with Chardon – occasionally you will see a Chardonian messenger coming, or going – but Havdar is cautious. He never speaks of battle plans, or reads messages in a place you can see with your scrying. His primary command tent seems to regularly have some kind of ward on it, for it looks like an opaque white dome when viewed with scrying, and when Havdar enters the sensor cannot pass through.
 

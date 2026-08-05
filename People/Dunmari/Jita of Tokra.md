@@ -18,7 +18,7 @@ dm_notes: color
 > A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 in the [[~North Tokra Plains~]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 in the [[Varashan]], [[Dunmar]] %%^End%%
 
 A Dunmari herder living on the northern plains, north of Tokra. Niece of [[Saka]], and has generally taken charge of helping Saka around camp. 
 

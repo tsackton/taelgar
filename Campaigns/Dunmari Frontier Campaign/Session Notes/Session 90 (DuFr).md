@@ -30,11 +30,11 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - [[Abha]] believes this revelation is the first step towards reconciliation, and the party leaves tokens of unity before heading to [[Tollen]]
 ### Timeline
 - (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night
-- (DR:: 1749-01-31): Watch the sun rise over the  [[~Southern Tokra Plains~]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
+- (DR:: 1749-01-31): Watch the sun rise over the  [[Sukal Plains]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
 - (DR:: 1749-02-01):  Reach the outskirts of the [[Copper Hills]] in the morning. Speak with [[Sura]] on [[Vindristjarna]], then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
 - (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to [[Vindristjarna]].
 - (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
-- (DR:: 1749-02-04): Depart for [[Tollen]], via [[Orenlas]]. Travel to [[Orenlas]], crossing the [[~North Tokra Plains~]]. 
+- (DR:: 1749-02-04): Depart for [[Tollen]], via [[Orenlas]]. Travel to [[Orenlas]], crossing the [[Varashan]]. 
 - (DR:: 1749-02-05): Travel towards [[Orenlas]], passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
 - (DR:: 1749-02-06): Travel towards [[Orenlas]], passing over the [[Sentinel Range|Sentinels]] and into the [[Plaguelands]]. 
 - (DR:: 1749-02-07): Travel towards [[Orenlas]], crossing over the [[Plaguelands]]. 

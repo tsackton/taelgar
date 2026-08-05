@@ -16,7 +16,7 @@ name: Dunmari Frontier - Session 40
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Jul 03, 1748 DR to Jul 06, 1748 DR*
 > *On Earth: Thursday Feb 17, 2022*
-> *[[~North Tokra Plains~]]*
+> *[[Varashan]]*
 
 The [[Dunmar Fellowship]] learns of [[Awakened Soul Disaster|past tragedies]] and receives a cautionary tale from the elusive [[Saka]].
 
@@ -29,7 +29,7 @@ The [[Dunmar Fellowship]] learns of [[Awakened Soul Disaster|past tragedies]] an
 
 ### Timeline
 - (DR:: 1748-07-03), noon: Depart [[Tokra]]. Travel uneventfully north along the [[Hara]]. 
-- (DR:: 1748-07-03), evening: Camp on the [[~North Tokra Plains~]]. 
+- (DR:: 1748-07-03), evening: Camp on the [[Varashan]]. 
 - (DR:: 1748-07-04): Travel north. Meet [[Kiran]], speak of [[Saka]] and the [[Order of the Awakened Soul]]. Continue north; spend the night on the plains.
 - (DR:: 1748-07-05): Travel north. 
 - (DR:: 1748-07-06), morning: Approach Saka's camp. Meet and speak with [[Saka]], learning more about the [[Order of the Awakened Soul]] and the [[Awakened Soul Disaster]]. 

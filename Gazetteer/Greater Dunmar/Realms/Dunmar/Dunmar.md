@@ -50,8 +50,8 @@ The [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a subtropica
 
 Although there are no formal administrative units within Dunmar larger than individual temple districts, conventionally Dunmar consists of four major regions.
 
-- [[Eastern Dunmar]], roughly the easternmost third of the country, contains the land around [[Karawa]] and the [[Red Mesa]], and the fringes of settled land along the [[Garamjala Desert]], as well as the more habitable [[Samtal]] north of the [[~Karawa Desert~]].
-- [[Central Dunmar]], the largest region by land area, is dominated by the [[Hara Watershed]], and contains the important cities of [[Tokra]], [[Askandi]], and [[Songara]], as well as the fertile grasslands of the [[~Songara Plains~]]. 
+- [[Eastern Dunmar]], roughly the easternmost third of the country, contains the land around [[Karawa]] and the [[Red Mesa]], and the fringes of settled land along the [[Garamjala Desert]], as well as the more habitable [[Samtal]] north of the [[Karawa Desert]].
+- [[Central Dunmar]], the largest region by land area, is dominated by the [[Hara Watershed]], and contains the important cities of [[Tokra]], [[Askandi]], and [[Songara]], as well as the fertile grasslands of the [[Songara Plains]]. 
 - [[Coastal Dunmar]], the smallest and wealthiest region, is dominated by the port city of [[Darba]] and the [[Rudhan]], which flows through the [[Darba Highlands]]. 
 - [[Western Dunmar]], the administrative and political capital of the [[Nayan Dynasty]], and the most populous region of Dunmar, contains the city of [[Nayahar]] and the [[Nayan Floodplains]].
 
@@ -81,14 +81,14 @@ DR 1403 - DR 1545
 
 *See also: [[Timeline of the Dharajun Dynasty]]*
 
-The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[~Songara Plains~]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat. 
+The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[Songara Plains]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat. 
 
 ### Nayan Dynasty
 DR 1557 - 
 
 *See also: [[Timeline of the Nayan Dynasty]]*
 
-The [[Great War]] left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [[Yuvanti Mountains]] rising to the west, and the new lands of the [[Nayan Floodplains]] emerging from the [[Nevos Sea]]. The [[Nayan Dynasty]] was founded in the west, establishing a new administrative center, [[Nayahar]], on the [[Nayan]] River, and slowly reclaims land as far east as the [[~Karawa Desert~]]. 
+The [[Great War]] left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [[Yuvanti Mountains]] rising to the west, and the new lands of the [[Nayan Floodplains]] emerging from the [[Nevos Sea]]. The [[Nayan Dynasty]] was founded in the west, establishing a new administrative center, [[Nayahar]], on the [[Nayan]] River, and slowly reclaims land as far east as the [[Karawa Desert]]. 
 
 The first 50 years of the [[Nayan Dynasty]] was marked by a series of wars: 
 - The [[Fire War]], against the fire giant [[Mavdyr]] and his allies
