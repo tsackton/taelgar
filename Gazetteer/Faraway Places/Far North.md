@@ -34,7 +34,7 @@ Little is known of the history of this region, although [[Vimfrost's War]] was p
 
 %%^Campaign:None%%
 ## DM Notes and Meta
-*Area:* This region is poorly defined as little geographic development exists, but roughly speaking it includes everything north of the [[~North Bay~]] coast, [[Pandar]], [[Vostok]], and the [[Ket]], and then follows an arbitrary line north of the Green Sea east of [[Ursk]]. In general, permanent 'normal' human civilizations should be south of this region, although of course an arctic culture is possible.
+*Area:* This region is poorly defined as little geographic development exists, but roughly speaking it includes everything north of the [[Slate Sea]] coast, [[Pandar]], [[Vostok]], and the [[Ket]], and then follows an arbitrary line north of the Green Sea east of [[Ursk]]. In general, permanent 'normal' human civilizations should be south of this region, although of course an arctic culture is possible.
 
 *Canonical Development and Constraints:* This region, particular the mountains north of [[Ursk]], are home to many white dragons, including the descendants of [[Vimfrost]], which has significant influences both on this area and regions to the south. A large number of [[Kenku]] canonically make their home on the [[~Far North Steppe~|northern steppes]], on the eastern slopes the [[Sentinel Range|Sentinels]] north of [[Zimka]] but few details have been developed. 
 

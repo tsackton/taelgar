@@ -47,7 +47,7 @@ Five major river systems, fed by the summer rains, and melting snowpack and glac
 The rise and fall of the land further defines the region:
 * in the west, the towering [[Sentinel Range]] rises thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. 
 * east of the mountains lies the [[Zimkova Highlands]], a rough land that slowly descends to a line of hills in western and northern Sembara: the [[Aveil Ridge]], the [[Aine Hills]], the [[Braebein]], and the [[Draukar Hills]], and which rises in the east to form the [[Pekul Mountains]]
-* east of the [[Pekul Mountains]], the high [[Vostok Plateau]] is dry and cold and is home to the high altitude [[~Lake Vostok~]]
+* east of the [[Pekul Mountains]], the high [[Vostok Plateau]] is dry and cold and is home to the high altitude [[Lake Pekul]]
 * east of the [[Vostok Plateau]], the [[Svinjo Mountains]] form a rarely passed boundary with the forests to the north and east
 * south of the [[Svinjo Mountains]], the [[~Coastal Vostok Hills~]] are rugged and isolated from the rest of [[Vostok]]
 * along the [[Green Sea]] coast, the [[South Vostok Hills]] stretch north towards the [[Draukar Hills]] to form a hilly and difficult terrain to the east of [[Tollen]], separating the forests of [[Vostok]] from the rest of the region
@@ -118,6 +118,6 @@ _See also: [[List of Places in Greater Sembara]]_
 
 *Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen.
 
-*Important Places in Staging:* The following places could use canonical names: [[Vostok Plateau]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[Draukar Hills]], [[Pekul Mountains]], [[South Vostok Hills]], [[Gulf of Tollen]]
+*Important Places in Staging:* The following places could use canonical names: [[Vostok Plateau]], [[Lake Pekul]], [[~Coastal Vostok Hills~]], [[Draukar Hills]], [[Pekul Mountains]], [[South Vostok Hills]], [[Gulf of Tollen]]
 %%^End%%
 

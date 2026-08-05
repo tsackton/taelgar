@@ -27,7 +27,7 @@ The party navigates increasing paranoia and complex negotiations in Veltor.
 - **March 20 (morning):** Paranoia escalates; magistrate and steward consultations; [[Sylvan Writing|Sylvan]] evidence produced (unread) regarding [[Isabeau D'Aslain|the Baroness]] and [[Areschera|a fairy]].
 - **March 20 (day):** Pendant ruse with sketch by [[Rene d'Aslain]]; [[Celyn]] studies tells; locate-object misdirection citing paired-set interference.
 - **March 20 (evening):** Scrying on [[Robin]] detected; move to former [[Areschera|fairy]] tower barracks; dinner cancellation.
-- **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by [[Robin]]; overnight public holding while the [[~Lich Killing Party|heroes of the Night Queen]] advance their separate assault.
+- **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by [[Robin]]; overnight public holding while the [[~Lich Killing Party~|heroes of the Night Queen]] advance their separate assault.
 
 ## Cast of Characters
 
