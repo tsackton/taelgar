@@ -14,10 +14,19 @@ See also [[Canonical Events]] for a listing of key dates that are considered can
 
 There are several broad regions that have their own detailed histories, which allow for more focus and detail, but which should be consistent with this narrative:
 
-* [[Historical Framework of the Western Green Sea]]
-* [[Historical Framework of Greater Sembara]]
-* [[Historical Framework of the Dunmari]]
-* [[Historical Framework of the West Coast]]
+- [[History of Greater Sembara]]
+- [[History of Tollen]]
+- [[History of the Drankorian Empire]]
+- [[History of the Skaer]]
+
+There are several older notes that are in various stages of conversion to the newer "History of" format that still contain relevant information:
+
+- [[Timeline of Sembaran History]]
+- [[Timeline of the Northern Deno'qai]]
+- [[Timeline of the Mawar]]
+
+Some background notes capture additional regional history:
+- [[West Coast History Framework]]
 
 Further regional histories could be developed as needed. 
 ## Overview
