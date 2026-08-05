@@ -61,7 +61,7 @@ These highlands define two broad lowland regions:
 In the northwest, the land is flat along the [[Andonne Plain]], although now much of the former ranchlands and wheatfields are turned to dust and ash. The [[Andonne Plain]] ends abruptly at the [[Westcliff]], the western edge of the [[Mostreve Hills]]. 
 
 %%SECRET
-In the center of the region, the Istaros river valley, along with [[Lake Aeulian]] and much of the [[Valmont]] and lower [[~Orenlas Tributary~]], forms a wide fertile valley, once renowned for its vibrancy
+In the center of the region, the Istaros river valley, along with [[Lake Aeulian]] and much of the [[Valmont]] and lower [[Thalurien]] forms a wide fertile valley, once renowned for its vibrancy
 .%%
 
 ## Civilizations and Cultures
