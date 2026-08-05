@@ -91,7 +91,7 @@
 [u0091] Now, we were wondering if the magic locket we got off the dead shapeshifter (that does communication with a paired magic locket) connected to the Hag, because we know the two of them were, at least at points, working together (even if the Hag thanked us for killing her).
 [u0092] We had decided against testing this at previous points given we had plenty of trouble and no particular need to borrow any more, but now it seemed worthwhile, so Viepuck disguised himself, opened it up, and said, "Hey how does this work" into the message spell.
 [u0093] The face that appeared on the other side ...
-[u0094] was [[Barony of Aslain|the Baroness]] [[Isabeau d'Aslain|Isabeau]].
+[u0094] was [[Barony of Aveil|the Baroness]] [[Isabeau d'Aslain|Isabeau]].
 [u0095] "Who is this?
 [u0096] Answer me or I will destroy you!" she thundered.
 [u0097] There was a pause, and then the Baroness activated the locket from the other side to say, "This is baronial property you have stolen!

@@ -1,16 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-displayDefaults: {endStatus: "brought to justice"}
+tags:
+  - person
+displayDefaults:
+  endStatus: brought to justice
 gender: male
 species: human
 ancestry: Tollender
 born: 1686
 died: 1720-02-07
 whereabouts:
-- {type: home, location: Tollen}
-- {type: home, location: Embry, end: 1719-08}
-- {type: home, location: Aslain, start: 1719-09}
+  - type: home
+    location: Tollen
+  - type: home
+    location: Embry
+    end: 1719-08
+  - type: home
+    location: Aslain
+    start: 1719-09
 dm_notes: none
 dm_owner: mike
 ---

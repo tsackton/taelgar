@@ -142,4 +142,4 @@
 [u0142] Also there were a 7 and a 6.)
 [u0143] (I then proceeded to take a photo of the dice and send [**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)
 [u0144] Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out.
-[u0145] We have now contacted [[Raoul]] to say, "OKAY NOW WHAT," and that is where we end.
+[u0145] We have now contacted [[Raoul Montagu]] to say, "OKAY NOW WHAT," and that is where we end.
