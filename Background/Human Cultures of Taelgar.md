@@ -125,7 +125,7 @@ Although there are likely human cultures spread throughout the Eastern Green Sea
 See [[Ursk]]
 ### Medju
 See [[Medju]]
-### ~Mariner Trade Peninsula~
+### ~Maritime Trade Peninsula~
 This area could use some invention, even if it is to decide to should be intentionally blank
 ### Irrla
 See [[Irrla]]

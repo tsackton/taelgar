@@ -29,14 +29,14 @@ _Real world analog_: Modern English. Place or personal names written out (i.e. [
 _Alphabet_: No native alphabet. When written, it is usually written phonetically in the speakers native alphabet.
 _Intelligibility_: Most speakers of any human language can understand simple words in Common
 ##### Eastros
-A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as [[Tollen]] and [[Cymea]], and even occasionally in the port cities of [[Sembara]], but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from ~Mariner Language~.
+A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as [[Tollen]] and [[Cymea]], and even occasionally in the port cities of [[Sembara]], but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from Ancient Eastros.
 
 _Real world analog_: Balto-Slavic.
-_Alphabet_: Eastros is written using the ~Mariner Alphabet~. 
-*Intelligibility*: Speakers of ~Mariner Language~ can understand Eastros. 
+_Alphabet_: Eastros is written using the Mariner Alphabet.
+*Intelligibility*: Speakers of Ancient Eastros can understand Eastros.
 
 %% 
-Background Note: ~Mariner Language~ developed as a separate tongue from the original "Human" language of Hkar, from which Common is derived, primarily because of the mariner's explicit cultural rejection of the urban Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remanent/pidgin derived from the ~Mariner Language~. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevents linguistic drift of these trade tongues. 
+Background Note: Ancient Eastros developed as a separate tongue from the original "Human" language of Hkar, from which Common is derived, primarily because of the mariner's explicit cultural rejection of the urban Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remanent/pidgin derived from Ancient Eastros. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevents linguistic drift of these trade tongues.
 
 Common could reasonably be spoken as a trade pidgin anywhere, and human populations where common is rare, or where a different trade pidgin is spoken, should have an explanation.
 %%
@@ -119,7 +119,7 @@ There are numerous undeveloped cultures and partially developed cultures that li
 Additionally, this list may be influenced by further development of the linguistic and cultural mixing that occurred in Vostok, Sembaran, and the Western Green Sea as the Skaer/Mariner culture interacted with the Zimka/Northern culture. It is not totally clear whether the language of Vostok should be Northros or Eastros, for example. 
 %%
 ## Eastros Language Family
-All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea and spread as far west as the shores of the [[Western Gulf]]. They mostly, but not exclusively, use the ~Mariner Language~ alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians. 
+All languages in the Eastros language family derive from Ancient Eastros, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea and spread as far west as the shores of the [[Western Gulf]]. They mostly, but not exclusively, use the Mariner alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians.
 
 _Real world analog: Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages_
 ##### Ancient Eastros
@@ -145,7 +145,7 @@ The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor t
 ##### Zimkovan
 A group of related languages and dialectics spoken in the highland kingdoms of [[Ardlas]] and  [[Breva]], and across the [[Lavnoch Plateau]]. It is commonly spoken in the rest of [[Zimkova]] as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
 
-*Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (~Old Zimkovan~). 
+*Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan).
 _Alphabet_: Written using the Drankorian alphabet. 
 ##### Sembaran
 A number of mutually understandable languages and dialects spoken in Sembara, Tyrwingha, and Addermarch. Sembaran, although preserving grammatical structures from Old Tollish, adapted most of its current day vocabulary from Drankorian, as well as an alphabet. Southern Sembaran has more Drankorian influences, whereas Northern Semabaran has more Eastros influences.
@@ -173,7 +173,7 @@ The language spoken by the Dunmari people.
 _Real world analog_: Hindi or other Indo-Iranian (Persian)
 _Alphabet_: Dunmari is written using the Drankorian alphabet
 
-%% Background Note: Dunmari is related to both Drankorian and ~Mariner Language~ via Hkar, but is unique from the post-Hkar migrations as it was the language adopted and evolved from Hkar amongst the Dumari. It should feel relatively unique, but with an Indo-European derivation%%
+%% Background Note: Dunmari is related to both Drankorian and Ancient Eastros via Hkar, but is unique from the post-Hkar migrations as it was the language adopted and evolved from Hkar amongst the Dumari. It should feel relatively unique, but with an Indo-European derivation%%
 ##### Vosic
 A collection of languages spoken by the [[Vostok|Vos]]. There are at least two common dialects and perhaps more, and these language evolved from diverse influences. 
 

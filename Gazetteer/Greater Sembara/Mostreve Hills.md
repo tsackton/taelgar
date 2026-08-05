@@ -54,7 +54,7 @@ W = Westcliff
 A except (1) = Valenfray Hills
 A(1), T, and NT = [[Maerwyn Mountains]]
 O except (1) = Tyrwinghan Hlls
-O(1) = part of ~Cymean Border Mountains~
+O(1) = part of Mistfold Mountains
 
 --- 
 

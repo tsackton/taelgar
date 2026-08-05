@@ -37,11 +37,10 @@ Kobolds have only come up really in connection to some stuff that Kadmos and fri
 
 Some more detail in a non-canonical planning note, brainstorming in case you ended up chasing kobold rumors. The basic vibe is likely true; certainly kobold bandits in the Myraeni Gap are canonical: 
 
-*The land north and west of [[Songara]] is known as the Myraeni Gap, an expanse of rough, broken terrain, full of cliffs and gullies, as the land tumbles down from the high plateaus of Dunmar to wide lowlands stretching to Chardon and the sea. During the years before the Great War, the area was patrolled by a strange people who protected this the wild broken lands between Chardon and Dunmar, keeping the trade safe, but never allowing outsiders into their hill forts near the ~CentralMountains~. Since the chaos of the Blood Years, they have been rarely seen; in their absence kobolds have become a nuisance, exacting heavy tolls on trade and often turning to banditry. While many Dunmari are wary of inviting the Chardonian empire to their borders, some in [[Songara]] now council that the Empire may be the only option for keeping the roads safe and trade possible.*
+*The land north and west of [[Songara]] is known as the Myraeni Gap, an expanse of rough, broken terrain, full of cliffs and gullies, as the land tumbles down from the high plateaus of Dunmar to wide lowlands stretching to Chardon and the sea. During the years before the Great War, the area was patrolled by a strange people who protected this the wild broken lands between Chardon and Dunmar, keeping the trade safe, but never allowing outsiders into their hill forts near the Sentinel Range. Since the chaos of the Blood Years, they have been rarely seen; in their absence kobolds have become a nuisance, exacting heavy tolls on trade and often turning to banditry. While many Dunmari are wary of inviting the Chardonian empire to their borders, some in [[Songara]] now council that the Empire may be the only option for keeping the roads safe and trade possible.*
 
 Note that the vibe is not necessarily "war parties", and might involve more "contraptions that block the road unless you pay up." But none of this was canonically developed anyway. 
 
 The one canon piece is that Marcella hid in kobold tunnels from Kadmos for awhile, at least implying a complicated underground lair. 
 
 %%^End%%
-
