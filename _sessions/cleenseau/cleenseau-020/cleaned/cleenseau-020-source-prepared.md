@@ -150,7 +150,7 @@
 [u0150] He determines that it pings off people who are particularly protected by [[Archfey Ethlenn|Ethlenn]].
 [u0151] The Tyrwinghans are of the opinion that given these events they would like to get somewhere they're actually, practically, protected by [[Archfey Ethlenn|Ethlenn]], not just hypothetically so.
 [u0152] We tell them where the fey are lairing.
-[u0153] They are agitated by this, but can make plans to avoid [[Peydon]], and ask us to escort them past the [[Madour Hills]], where [[The Hunter|the Hunter]] lurks.
+[u0153] They are agitated by this, but can make plans to avoid [[Peydon]], and ask us to escort them past the [[Maudor Hills]], where [[The Hunter|the Hunter]] lurks.
 [u0154] This would mean we cannot target [[The Hunter|the Hunter]] effectively today, but we will keep those people as safe as we can, and if they are ambushed again we will be able to try to protect them.
 [u0155] We get them to let us take a short rest so Viepuck can get back his spell slots and Celyn can get back his divine intervention powers (he used the other one to heal the guy who was hurt) at which point we declared we would get them to [[Essenmer|a particular village]], at least.
 [u0156] And we have a good laugh about the vulture flying off to report that it was being chased by [[Areschera]], who was accompanying the party it was supposed to watch.

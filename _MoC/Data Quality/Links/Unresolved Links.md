@@ -8,9 +8,9 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **189** unresolved targets: **186** notes and **3** attachments
-- **277** occurrences across **85** source files
-- **4007** source notes scanned; raw and generated processing material excluded
+- **166** unresolved targets: **163** notes and **3** attachments
+- **229** occurrences across **76** source files
+- **4001** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
 
@@ -59,51 +59,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 157
   > **(DR:: 1422)** – Avatus conquers most of Duchy of Brovna but fails to break through dwarven defenses; at roughly the same time, Derik distinguishes himself in the Castrota Pirate War.
 
-## `[[Law in Sembara]]` — 2 files · 2 occurrences
-
-[[Law in Sembara]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Land Holding in Sembara|Land Holding in Sembara]] — line 30
-  > …mpowered to hear disputes about property ownership, but access is usually only available to those with extensive holdings. Small land disputes are usually resolved by the local lord. (See Law in Sembara for more information on land courts).
-- [[Gazetteer/Greater Sembara/Sembara/Taxes in Sembara|Taxes in Sembara]] — line 59
-  > See Law in Sembara for more information.
-
-## `[[Madour Hills]]` — 2 files · 2 occurrences
-
-[[Madour Hills]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 20|Cleenseau - Session 20]] — line 128
-  > …by this, but can make plans to avoid Peydon, and ask us to escort them past the Madour Hills, where the Hunter lurks. This would mean we cannot target the Hunter effectively today, but we will keep those people as safe as we can, and if the…
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Barony of Aveil|Barony of Aveil]] — line 32
-  > * the Madour Hills, which separate the villages along the Enst from the more northern parts of the barony
-
-## `[[Maudor Hills]]` — 2 files · 3 occurrences
-
-[[Maudor Hills]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 18; 2 occurrences in this file
-  > > *Maudorville, Ashcombe, Aslain, and the Maudor Hills*
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 21|Cleenseau - Session 21]] — line 12
-  > >Maudor Hills
-
-## `[[Merriweather's Tailor Shop]]` — 2 files · 3 occurrences
-
-[[Merriweather's Tailor Shop]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 18|Cleenseau - Session 18]] — line 140; 2 occurrences in this file
-  > …know that Lady Debrune was here and genteelly imprisoned in that way one does with important people, and was quite likely in danger. The halflings were happy to plan to smuggle her out of the area if we could only extract her from the keep.
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 19|Cleenseau - Session 19]] — line 118
-  > …f the Duskhound with us, and determine that Robin can get Damien Montrichard to the safehouse with a combination of the ring of jumping (to get beyond the outer wall) and feather fall (to not plummet to their doom); the rest of us hop off t…
-
-## `[[Old West Road]]` — 2 files · 2 occurrences
-
-[[Old West Road]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Cleenseau|Manor of Cleenseau]] — line 20
-  > …osses the Cleenseau Bridge and another toll at the gates of Cleenseau where the Old West Road joins the Great South Road, only collected from travelers originating from the west, as well as another toll for those wagons crossing the bridge…
-- [[Groups/Sembaran Army/Army Garrison of Cleenseau|Army Garrison of Cleenseau]] — line 29
-  > * (DR:: 1720-01-06): The garrison is ambushed on the Old West Road by many zombies - at least 60. Approximately fifteen die in the combat, or from wounds shortly afterwards, and another ten are badly wounded and need healing and rest.
-
 ## `[[Siege of Dunfry (Third Hobgoblin War)]]` — 2 files · 4 occurrences
 
 [[Siege of Dunfry (Third Hobgoblin War)]]
@@ -131,83 +86,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Extraplanar/Feywild/Sunset Gate|Sunset Gate]] — line 20; 2 occurrences in this file
   > In other places, especially where it passes through the edge of Twilight’s Grace, there are elaborate structures - the ~Evensong Spire~ is particularly famous for its immense towers that intertwine with the painted colors of the sunset.
 
-## `[[2023-10-30]]` — 1 file · 1 occurrence
-
-[[2023-10-30]]
-
-- [[Creatures/Species/Lizardfolk|Lizardfolk]] — line 123
-  > - 2023-10-30: General brainstorming
-
-## `[[2024-01-05]]` — 1 file · 1 occurrence
-
-[[2024-01-05]]
-
-- [[Creatures/Species/Lizardfolk|Lizardfolk]] — line 124
-  > - 2024-01-05, Land Holding in Sembara, Taxes in Sembara: Sembaran context, land holding, taxes
-
-## `[[2024-01-27]]` — 1 file · 1 occurrence
-
-[[2024-01-27]]
-
-- [[Gods and Religions/Religions/Mos Numena/Mawaran Religion|Mawaran Religion]] — line 45
-  > - 2024-01-27 discusses possible Mawar/Chardon funerary contrasts and whether Mawar has older burial or grave-token traditions.
-
-## `[[2024-02-12]]` — 1 file · 1 occurrence
-
-[[2024-02-12]]
-
-- [[Creatures/Species/Lizardfolk|Lizardfolk]] — line 125
-  > - 2024-02-12: Family structure
-
-## `[[2025-02-01]]` — 1 file · 1 occurrence
-
-[[2025-02-01]]
-
-- [[Creatures/Species/Lizardfolk|Lizardfolk]] — line 126
-  > - 2025-02-01, Green Sea Brainstorming: Distribution across Taelgar
-
-## `[[2025-10-17]]` — 1 file · 1 occurrence
-
-[[2025-10-17]]
-
-- [[Creatures/Species/Lizardfolk|Lizardfolk]] — line 127
-  > - 2025-10-17: Relation to human villages
-
-## `[[2025-10-21]]` — 1 file · 1 occurrence
-
-[[2025-10-21]]
-
-- [[Gods and Religions/Religions/Mos Numena/Mawaran Religion|Mawaran Religion]] — line 44
-  > - 2025-10-21 discusses Mawar as a northern-influenced Mos Numena tradition where tanshi-like practice becomes local saints, historical figures, and ancestors, with lizardfolk and gatza influence.
-
-## `[[2025-11-02]]` — 1 file · 1 occurrence
-
-[[2025-11-02]]
-
-- [[Events/1700s/1720/War of the Ashen Horde|War of the Ashen Horde]] — line 18; comment
-  > Some discussion in discord notes, esp 2025-11-02 about wider context
-
-## `[[2025-11-07]]` — 1 file · 1 occurrence
-
-[[2025-11-07]]
-
-- [[Creatures/Bestiary/Bullywugs|Bullywugs]] — line 37
-  > - 2025-11-07
-
-## `[[2025-11-10]]` — 1 file · 1 occurrence
-
-[[2025-11-10]]
-
-- [[Creatures/Bestiary/Bullywugs|Bullywugs]] — line 38
-  > - 2025-11-10
-
-## `[[Alador]]` — 1 file · 1 occurrence
-
-[[Alador]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Jorundr's Story|Jorundr's Story]] — line 16
-  > …mpire, before the civil war, before Apollyon came to power, during the reign of Alador the Elf Friend. He had made Drankor a safe place for many, our kind included. The stories Jorundr would tell, of traveling across Drankor at the height o…
-
 ## `[[Alaric]]` — 1 file · 1 occurrence
 
 [[Alaric]]
@@ -215,33 +93,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Alaric Lord Mayor of Rinburg|Letter from Alaric Lord Mayor of Rinburg]] — line 5
   > # Letter from Alaric, Lord Mayor of Rinburg
 
-## `[[Almeric]]` — 1 file · 2 occurrences
-
-[[Almeric]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 99; 2 occurrences in this file
-  > …well off to the edge. We make a note of this and then head to the temple, where Almeric (the administrator) is not terribly helpful and the Hag's face shows up in the window very quickly. "I'm glad to hear you were just leaving" says Almeri…
-
-## `[[Ameline Lefevre]]` — 1 file · 1 occurrence
-
-[[Ameline Lefevre]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 51
-  > …n with her and is now afraid of mirrors and even puddles. Someone else said their relative, Ameline Lefevre, sold anti-being-watched charms and we should check that out. A third person said those were useless. We eventually repaired to bed.
-
-## `[[Arabella]]` — 1 file · 1 occurrence
-
-[[Arabella]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 321
-  > - (DR:: 1717), fall: Robert's daughter, Arabella of Sewick dies in childbirth, her son apparently possessed by a demon. Rumors spread that Cece's ill luck with children as being passed down to her son.
-
-## `[[Arnault Daverre]]` — 1 file · 1 occurrence
-
-[[Arnault Daverre]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23|Cleenseau - Session 23]] — line 63
-  > …ens to it. Celyn and Izgil sneak into the late husband's rooms (the chambers of Arnault Daverre), Celyn first to carefully schmutz up all the glossy surfaces to keep the Midnight Lady out, then Izgil to do investigation and find out what ca…
 
 ## `[[Ashwell Brook]]` — 1 file · 1 occurrence
 
@@ -257,26 +108,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 20
   > * Aubrille, on the south shore, near to Lynthia, in the Barony of Estrive. Founded recently, with a energetic young lord.
 
-## `[[Avatus Brainstorming  Summaries]]` — 1 file · 5 occurrences
-
-[[Avatus Brainstorming  Summaries]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 414; 5 occurrences in this file
-  > …on crosses it and splits there, Isinguese and Istabor cities dominate mid‑basin routes, and Sembara/Tollen connect from the northwest via corridors like the Andonne. Human Cultures of Taelgar, Humanity in Greater Sembara, Avatus Brainstormi…
-
 ## `[[Baron of Aveil]]` — 1 file · 1 occurrence
 
 [[Baron of Aveil]]
 
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Manor of Cleenseau|Manor of Cleenseau]] — line 18
   > …In the aftermath of the war, no heirs could be found and so the manor, as crownland, reverted to the Baron of Aveil. Cece I granted it to Reginald Essford, a decorated solider and dedicated lord who worked diligently to repopulate the land.
-
-## `[[Barony of Aslain]]` — 1 file · 1 occurrence
-
-[[Barony of Aslain]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 85
-  > …work" into the message spell. The face that appeared on the other side ... was the Baroness Isabeau. "Who is this? Answer me or I will destroy you!" she thundered. There was a pause, and then the Baroness activated the locket from the othe…
 
 ## `[[Battle of Lysandale]]` — 1 file · 1 occurrence
 
@@ -312,13 +149,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 258
   > - (DR:: 1558), spring: News reaches Embry of the Battle of White Pass (the opening thrust of the Sentinel Range War) and at Jane's urging, no aid is sent to Ardlas or Lavnoch
-
-## `[[Beggar’s Way]]` — 1 file · 1 occurrence
-
-[[Beggar’s Way]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 48
-  > On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called Beggar’s Way (N). It is where the very poorest in the town eek out a living as day laborers.
 
 ## `[[Breva Forest]]` — 1 file · 1 occurrence
 
@@ -376,12 +206,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Lake Rin|Lake Rin]] — line 18
   > * Chantefleur, along the north side, the center of fishing on the lake, with the largest and best docks. A ferry departs from here for Lynthia twice a day. Close to where the Auberonne flows into the lake
 
-## `[[Character Creation Guide]]` — 1 file · 1 occurrence
-
-[[Character Creation Guide]]
-
-- [[Campaigns/One Shots/Labyrinths of the Lost/Labyrinths - Player Background|Labyrinths - Player Background]] — line 19
-  > Details on character creation can be found on the Character Creation Guide page. An introduction to the world of Taelgar can be found in the Player's Guide.
 
 ## `[[Children of the Embodied Gods]]` — 1 file · 1 occurrence
 
@@ -404,33 +228,26 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
   > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
 
-## `[[Discord Chat  Addermarch]]` — 1 file · 3 occurrences
+## `[[Discord Chat  Addermarch]]` — 1 file · 2 occurrences
 
 [[Discord Chat  Addermarch]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 39; 3 occurrences in this file
-  > Sources: Discord Chat Addermarch, Discord Chat History of Western Green Sea.
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 147; 2 occurrences in this file
+  > Source: Discord Chat Addermarch.
 
-## `[[Discord Chat  Avatus and Hobgolbins]]` — 1 file · 5 occurrences
+## `[[Discord Chat  Avatus and Hobgolbins]]` — 1 file · 2 occurrences
 
 [[Discord Chat  Avatus and Hobgolbins]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 17; 5 occurrences in this file
-  > See also: Avatus, Dominion of Avatus, Mirror of Soul Trapping, Timeline of Sembaran History, Cleenseau History Notes, Discord Chat Avatus and Hobgolbins, Tyrwingha Ideas.
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 123; 2 occurrences in this file
+  > Sources: A Chronicle of Sembaran History, Discord Chat Avatus and Hobgolbins, Discord Chat Sembara History.
 
-## `[[Discord Chat  Green Sea]]` — 1 file · 2 occurrences
-
-[[Discord Chat  Green Sea]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 308; 2 occurrences in this file
-  > …/Istabor, the Istaros basin, Dunmar, Orenlas—leaving earlier Drankorian and later Great‑War/Blood Years details as context only. Where helpful, this section incorporates additional detail from Discord/email notes such as Discord Chat Green…
-
-## `[[Discord Chat  History of Western Green Sea]]` — 1 file · 4 occurrences
+## `[[Discord Chat  History of Western Green Sea]]` — 1 file · 1 occurrence
 
 [[Discord Chat  History of Western Green Sea]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 35; 4 occurrences in this file
-  > Source: Discord Chat History of Western Green Sea.
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 238
+  > …Avatus and Hobgolbins, Discord Chat Sembara History, Discord Chat Addermarch, Discord Chat History of Western Green Sea – rich for intent and vibe, but not always aligned with later writeups; good guidance for tone and unresolved questions.
 
 ## `[[Discord Chat  Sembara History]]` — 1 file · 2 occurrences
 
@@ -439,19 +256,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 123; 2 occurrences in this file
   > Sources: A Chronicle of Sembaran History, Discord Chat Avatus and Hobgolbins, Discord Chat Sembara History.
 
-## `[[Discord Chat  Upper Istaros Region]]` — 1 file · 2 occurrences
+## `[[Discord Chat  Upper Istaros Region]]` — 1 file · 1 occurrence
 
 [[Discord Chat  Upper Istaros Region]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 41; 2 occurrences in this file
-  > Sources: Timeline of Sembaran History, Human Cultures of Taelgar, Discord Chat Upper Istaros Region.
-
-## `[[Drankorian Empire  Open Questions]]` — 1 file · 1 occurrence
-
-[[Drankorian Empire  Open Questions]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 333
-  > Sources: Green Sea Brainstorming, Drankorian Empire, Drankorian Empire Open Questions.
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 133
+  > Sources: Human Cultures of Taelgar, “GDrive – Sembara Document”, Discord Chat Upper Istaros Region.
 
 ## `[[Drogoloth]]` — 1 file · 1 occurrence
 
@@ -1041,13 +851,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 296
   > - (DR:: 1648), late fall: Arryn II is killed by hobgoblins while travelling to inspect the Army of the South camped outside Wisford. His daughter, Charlotte II is caught in the same attack, but survives for two months before dying of an inj…
 
-## `[[The Divine Order]]` — 1 file · 1 occurrence
-
-[[The Divine Order]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 301
-  > Sources: Bhishma, Dunmar, The Divine Order.
-
 ## `[[The Enford Campaign]]` — 1 file · 1 occurrence
 
 [[The Enford Campaign]]
@@ -1118,12 +921,12 @@ This is a static review list of links whose note or attachment target does not e
 - [[History/History of Greater Sembara|History of Greater Sembara]] — line 34
   > …, and cover the modern areas of: Sembara, Maseau, Addermarch, Tyrwingha, and Ardlas. The Skaer Empire has largely faded away (but see Timeline of Skaer History), and there are several human cultures within and outside the Drankorian Empire:
 
-## `[[Tyrwingha  Ideas]]` — 1 file · 7 occurrences
+## `[[Tyrwingha  Ideas]]` — 1 file · 3 occurrences
 
 [[Tyrwingha  Ideas]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 17; 7 occurrences in this file
-  > See also: Avatus, Dominion of Avatus, Mirror of Soul Trapping, Timeline of Sembaran History, Cleenseau History Notes, Discord Chat Avatus and Hobgolbins, Tyrwingha Ideas.
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 106; 3 occurrences in this file
+  > A more mythic account in Tyrwingha Ideas (and older “GDrive – Sembara Document”) presents Avatus/Avatus as a **military dictator ravaging Sembara** with hobgoblins and werewolves while prophets in Tyrwingha proclaim looming End Times.
 
 ## `[[Underhill Way]]` — 1 file · 1 occurrence
 
@@ -1138,20 +941,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[_dm_notes/_Cleenseau/Adventures/Rinburg Monster|Rinburg Monster]] — line 107
   > underwater-lake-monster-scene.png
-
-## `[[Unsorted]]` — 1 file · 1 occurrence
-
-[[Unsorted]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 343
-  > Sources: Humanity in Greater Sembara, Istabor Alliance, Historical Framework, Green Sea Brainstorming, Unsorted.
-
-## `[[Upper Istaros Region]]` — 1 file · 1 occurrence
-
-[[Upper Istaros Region]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 368
-  > Sources: Aurbez and the Andonne, Humanity in Greater Sembara, Upper Istaros Region.
 
 ## `[[Vimfrost War]]` — 1 file · 1 occurrence
 

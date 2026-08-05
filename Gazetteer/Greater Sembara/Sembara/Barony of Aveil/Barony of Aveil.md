@@ -29,7 +29,7 @@ The barony is characterized by six major regions:
 * the [[Aveil Ridge]] in the north, a escarpment that rises about 2500' above the land, the source of the [[Auberonne]] and little-settled hilly land of secondary forest. The seat of the baron, [[Veltor]], is here
 * the [[Auberonne]] valley, the richest farmland of the barony. [[Aslain]], one of the largest market towns in the barony, is here.
 * the [[Cleenseau Wood]], and the small villages along its eaves, in particular near the [[Leandre]]
-* the [[Madour Hills]], which separate the villages along the [[Enst]] from the more northern parts of the barony
+* the [[Maudor Hills]], which separate the villages along the [[Enst]] from the more northern parts of the barony
 
 Most of the settlement in the barony is along the eastern valleys and banks of the [[Auberonne]], where the farmland is better, and the sheep pastures along the [[Enst]]. 
 

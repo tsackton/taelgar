@@ -41,7 +41,7 @@ At some point, cracks in the Far Realms allow for various aberrations to appear 
 
 This impacts when the [[Sentient Ocean]] fled to Taelgar, as well as some of the vibe of the early period of history.
 ### Creation of the Orcs
-The orcs are canonically the creation of [[Thark]], who is in turn metaphysically an [[Embodied Gods|embodied god]] created in some fashion by the [[Void Mind]], or perhaps one of its [[Three Despairs|avatars]]. This means that orcs are, metaphysically, similar to the other [[Children of the Embodied Gods]].
+The orcs are canonically the creation of [[Thark]], who is in turn metaphysically an [[Embodied Gods|embodied god]] created in some fashion by the [[Void Mind]], or perhaps one of its [[Three Despairs|avatars]]. This means that orcs are, metaphysically, similar to the other children of the Embodied Gods.
 
 Undetermined is when the Orcs were created. One possibility is that orcs, in the far reaches of the world, were created before humans, perhaps concurrently with the rest of the Children of the Embodied Gods. A second possibility is that Thark is not able to create the orcs for some reason until later, either late in the shortly before or even after the creation of humans. From a demographic standpoint, orcs are expected to have a very small initial creation, a very high birth rate, and a very high death rate. So it takes a while for them to be noticed, so they cannot be created too late.
 
