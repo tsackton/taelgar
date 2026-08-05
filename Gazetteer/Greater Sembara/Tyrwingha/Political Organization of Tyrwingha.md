@@ -9,7 +9,7 @@ dm_notes: none
 
 Tyrwingha is a rural place, with no cities of any size outside of [[Tafolwern]], and most people live in small villages and market towns of between 50 and 1000 people. 
 
-Unlike in [[Sembara]], where the [[Political Organization of Sembara|manor]] is the main unit of political organization, Tyrwingha is fundamentally organized, from the bottom, around the village, and from the top, around the earls. 
+Unlike in [[Sembara]], where the manor is the main unit of political organization, Tyrwingha is fundamentally organized, from the bottom, around the village, and from the top, around the earls. 
 
 In ancient days, the title of Earl was said to be bestowed only on those human lords who had sworn a direct oath to [[Archfey Ethlenn]] to serve and obey her, and were thus seen as her stewards in the human realms, watching over the land and its inhabitants on her behalf. Today, these earls, of which there are about fifty, are powerful lords, whose bond to Ethlenn derives from their allegiance to the monarch. The earls have a duty to watch over the land on behalf of Ethlenn, and usually they spend at least six months of the year travelling with their retainers and court. 
 

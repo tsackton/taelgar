@@ -26,7 +26,7 @@ descTitle: The Sunset Thread
 ### Summary
 - [[Seeker]] constructs a [[Glove of Crystalized Magic|magical glove]] in [[Shimmersong]] and seeks the fey crossing at [[Lastlight Falls]].
 - Guided by [[Caulaus]], [[Seeker]] and companions enter [[Amberglow]] and fight the cursed giant, [[Vondar|Vondar One-Eye]], avoiding his memory-stealing toll
-- [[Seeker]] bargains with[[ Lady Eventide]], trading a streak of his hair's color for a [[Sunset Thread]] to aid in crossing [[Lastlight Falls]].
+- [[Seeker]] bargains with[[ Lady Eventide]], trading a streak of his hair's color for a Sunset Thread to aid in crossing [[Lastlight Falls]].
 - The party safely navigates past treacherous shadows to reach [[Lastlight Falls]], where they find [[Kenzo]] waiting.
 
 ### Timeline
