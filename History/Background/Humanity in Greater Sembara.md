@@ -63,7 +63,7 @@ So at the time of the Downfall, out of the mixing of these mariner and northerne
 * The Tyrwinghans, somewhat isolated from the rest, with cultural and linguistic ties to the Tollish culture, but also separated from the rest of human culture by the great lizardfolk swamp
 
 Some other cultures may be emerging here as well, those these are less established:
-- A Tollish culture, centered on the ~Gulf of Tollen~ and the mouth of the Volta, perhaps that is religiously unusual or otherwise is somewhat apart the other intermixed cultures
+- A Tollish culture, centered on the Gulf of Tollen and the mouth of the Volta, perhaps that is religiously unusual or otherwise is somewhat apart the other intermixed cultures
 
 %% One possible neat solution here:
 

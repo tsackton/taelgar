@@ -18,7 +18,7 @@ dm_owner: tim
 
 %%SECRET
 
-Kecha is a young kenku, who loves the forests and finds the empty plains of his home boring. Frequently takes long journeys alone across the ~Vostok Mountains~ to fly over the taiga, sometimes also venturing south into Vostok. 
+Kecha is a young kenku, who loves the forests and finds the empty plains of his home boring. Frequently takes long journeys alone across the [[Svinjo Mountains]] to fly over the [[Great Northern Forest]], sometimes also venturing south into Vostok. 
 
 Should have a lot in common with Wellby, I think. 
 

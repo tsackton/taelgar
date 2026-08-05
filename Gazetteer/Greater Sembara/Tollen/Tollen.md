@@ -170,13 +170,13 @@ This implies that some goods -- timber, raw hides, maybe some flax/linen -- come
 
 Grain, wine, foodstuffs -> largely imported from Sembaran heartlands; some from Western Cymea, Tyrwingha, Addermarch via ship, perhaps? But seems clear Sembara is the breadbasket of Tollen.
 
-Fine wool, linen, flax -> while some may come from local hinterlands, ~Volta Hills~, etc, the best wool comes from Wisford and Cheimen. This is dyed and re-exported as fine cloth and clothes. 
+Fine wool, linen, flax -> while some may come from local hinterlands, Draukar Hills, etc, the best wool comes from Wisford and Cheimen. This is dyed and re-exported as fine cloth and clothes. 
 
 Timber -> the Volta watershed is very rich in timber, so this largely comes downriver. Probably from a mix of colonies and Telham merchants, but this is not entirely clear. Breva is not a very trade-oriented society. This is crucial to Tollen prosperity, especially shipbuilding, so decent chance for colonial control of some hinterlands, but this might be a recent development. 
 
 Hides and especially furs may be more likely to come in from Brevan hunters and various other small operators, but this is not clear either. It is possible there is something like the Hudson Bay Company organized out of Tollen. 
 
-Unclear where metal comes from. It is possible there are mines in the ~Volta Hills~, or this is an import Tollen relies on. Tollen might have its own mint, which implies the need for a source of silver at least. 
+Unclear where metal comes from. It is possible there are mines in the Draukar Hills, or this is an import Tollen relies on. Tollen might have its own mint, which implies the need for a source of silver at least. 
 
 ### Territory
 
