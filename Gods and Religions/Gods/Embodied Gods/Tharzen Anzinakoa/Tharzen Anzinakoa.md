@@ -10,7 +10,7 @@ pronunciation: tar-SEN an-see-NA-ko-ah
 
 The Tharzen Anzinakoa are [[Embodied Gods|Embodied Divinities]], known as the Firstborn divine creators of the [[Lizardfolk|lizardfolk]]. In lizardfolk lore, they were given life during the [[Riving]] by the [[Divine Presence]], and as they walked the earth in those days outside time, their footsteps shaped the course of rivers. Rains and floodwaters are said to follow their wanderings, and the swamps and riverlands that became lizardfolk homelands are the places where they lingered. 
 
-Most lizardfolk venerate the Tharzen Anzinakoa both collectively, as guardians, guides, and protectors of the great cycles of life, and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. Unusually for [[Embodied Gods]], different aspects of each face are often emphasized in different lizardfolk communities, though the Tharzen as a whole are always viewed as integral to the cycles of birth, death, and rebirth that shapes lizardfolk theology. 
+Most lizardfolk venerate the Tharzen Anzinakoa both collectively, as guides and protectors of the great cycles of life, and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. Unusually for [[Embodied Gods]], different aspects of each face are often emphasized in different lizardfolk communities, though the Tharzen as a whole are always viewed as integral to the cycles of birth, death, and rebirth that shapes lizardfolk theology. 
 
 The name Tharzen Anzinakoa is translated from the lizardfolk to Common as the Fourbound of the Endless Wheel, or of the Great Cycle. In lizardfolk usage, they are often refered to as the Tharzen, the four-bound-as-one. 
 

@@ -19,7 +19,7 @@ A few additional notes:
 
 Nomenclature:
 
-“Mariners” is intended modern scholarly exonym, perhaps Chardonian. Ancient Mariners and Hkaran Mariners can be used as a fuller form if needed. Their departure from Hkar is known as the Mariner Migration or, more traditionally, the Mariner Exodus, though few details other than its existence are invented. 
+“Mariners” is intended as a modern scholarly exonym, perhaps Chardonian. Ancient Mariners and Hkaran Mariners can be used as a fuller form if needed. Their departure from Hkar is known as the Mariner Migration or, more traditionally, the Mariner Exodus, though few details other than its existence are invented. 
 
 No shared endonym is invented, and it is not known whether the original communities used a single collective name (unlikely, but possible, especially in the original Hkaran incarnation). Eastros is a Drankorian scholarly name for the descendant language family, not intended as recorded name for the original people (though it could be related to a Drankorian exonym). The historical name of the original Mariner language is unknown.
 
