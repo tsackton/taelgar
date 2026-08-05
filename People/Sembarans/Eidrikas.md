@@ -25,5 +25,5 @@ Eidrikas is a mystic of the [[Vejo Vaikai]] and the mentor of [[Ekko]]. In Janua
 Eidrikas did not return from the expedition before the events that drew the party into [[Zeyfa's Labyrinth]]. His disappearance is one of the reasons Ekko and [[Jrain Fanlish]] were drawn into the chasm.
 
 %%
-AI note: This note was expanded from Into the Chasm session 1 information only. The session establishes Eidrikas as missing at that point, but does not establish his species or final fate. Sources: [[Into the Chasm - Episode 1]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
+AI note: This note was expanded from Into the Chasm session 1 information only. The session establishes Eidrikas as missing at that point, but does not establish his species or final fate. Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
 %%

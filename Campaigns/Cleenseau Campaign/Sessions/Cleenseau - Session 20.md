@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
 realWorldDate: 2024-11-17
 sessionNumber: 20
@@ -76,14 +76,14 @@ ETA: Viepuck uses his magic to encourage [[Victorine Rosseau|the alarmed magistr
   
 We have some discussion about whether or not we need to facilitate getting [[Rene d'Aslain|Rene]] out, since he has his suspicions about [[Isabeau d'Aslain|the Baroness]] as a necromancer. We cannot find a useful way of doing so.
   
-[![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/): Well, the pretty pretty paladin is leaving.  
+[**artan**](https://artan.dreamwidth.org/): Well, the pretty pretty paladin is leaving.  
 Everyone: [general hilarity]  
-[![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/), deadpan: The pretty pretty paladin is taken.  
+[**arcadinal**](https://arcadinal.dreamwidth.org/), deadpan: The pretty pretty paladin is taken.  
   
 It is generally agreed that Robin is not remotely the sort of person who would lead on an innocent teenager with an obvious rapidly-developing crush but also that that is not necessarily relevant to choices made by innocent teenagers with obvious crushes. Fortunately we do not accidentally obtain a teenager with an obvious crush, as Rene has probably gone to sleep by the time we leave, as it's very, very late.  
   
 NPC: I am sure [[Isabeau d'Aslain|the baroness]] will want to reward you.  
-[![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/), blandly: Oh, I'm sure.  
+[**artan**](https://artan.dreamwidth.org/), blandly: Oh, I'm sure.  
 Matt, deadpan: Yikes.  
   
 The [[Ember Rose|ember-glowing rose]] is identified somewhere in here, as a protection from fire damage, and given to Celyn as the melee fighter who doesn't have preternatural shield defense abilities that let him negate blasts. (We will re-evaluate this distribution when I get evasion.)  
