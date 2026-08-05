@@ -27,7 +27,7 @@ The party navigates increasing paranoia and complex negotiations in Veltor.
 - **March 20 (morning):** Paranoia escalates; magistrate and steward consultations; [[Sylvan Writing|Sylvan]] evidence produced (unread) regarding [[Isabeau D'Aslain|the Baroness]] and [[Areschera|a fairy]].
 - **March 20 (day):** Pendant ruse with sketch by [[Rene d'Aslain]]; [[Celyn]] studies tells; locate-object misdirection citing paired-set interference.
 - **March 20 (evening):** Scrying on [[Robin]] detected; move to former [[Areschera|fairy]] tower barracks; dinner cancellation.
-- **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by [[Robin]]; overnight public holding while the [[~Lich Killing Party|heroes of the Night Queen]] advance their separate assault.
+- **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by [[Robin]]; overnight public holding while the [[~Lich Killing Party~|heroes of the Night Queen]] advance their separate assault.
 
 ## Cast of Characters
 
@@ -113,8 +113,8 @@ When we wake up, in fact, we learn that [[Etienne]] has been jailed for incompet
   
 [[Celyn]] notes that the [[Merriweathers]] might have reason to be wary of local barons ([[Isabeau D'Aslain|the Baroness]] having been installed because the [[Reginald Rusebek|previous baron]] had a bunch of [[Merriweathers]] executed on false pretenses, though we have encountered a suspicion that might've been a frame job of _him_, I forget how) but that doesn't help the rest of the panic level. We talk to various people.  
   
-I forget when we made contact with the [[~Lich Killing Party|heroes of the Night Queen]] that are going for [[Robert I|the lich]] to ask how things are going, and the answer is that they have successfully destroyed the thing's anchor and are now resting up before they go fight the guy in the morning. We ask what we should do and get told that the sensible options are to lie low and trust them to handle it, _or_ to serve as a distraction (implication: by talking about Bobby). We tell them we'll keep them updated.  
-I forget when we made contact with the [[~Lich Killing Party|heroes of the Night Queen]] that are going for [[Robert I|the lich]] to ask how things are going, and the answer is that they have successfully destroyed [[Malach's Phylactery|the thing's anchor]] and are now resting up before they go fight the guy in the morning. We ask what we should do and get told that the sensible options are to lie low and trust them to handle it, _or_ to serve as a distraction (implication: by talking about [[Robert I|Bobby]]). We tell them we'll keep them updated.  
+I forget when we made contact with the [[~Lich Killing Party~|heroes of the Night Queen]] that are going for [[Robert I|the lich]] to ask how things are going, and the answer is that they have successfully destroyed the thing's anchor and are now resting up before they go fight the guy in the morning. We ask what we should do and get told that the sensible options are to lie low and trust them to handle it, _or_ to serve as a distraction (implication: by talking about Bobby). We tell them we'll keep them updated.  
+I forget when we made contact with the [[~Lich Killing Party~|heroes of the Night Queen]] that are going for [[Robert I|the lich]] to ask how things are going, and the answer is that they have successfully destroyed [[Malach's Phylactery|the thing's anchor]] and are now resting up before they go fight the guy in the morning. We ask what we should do and get told that the sensible options are to lie low and trust them to handle it, _or_ to serve as a distraction (implication: by talking about [[Robert I|Bobby]]). We tell them we'll keep them updated.  
   
 The Warlord cleric ([[Marian]]) is on bedrest because bringing through that miracle is more oomph than she can do naturally so she gets very tired when she has to do it (which means that if she does it too often it will kill her). We ask how the fuck she can do it if it's beyond her capacities, and she prayed to the Warlord for something to ease the burdens of the people and got given this.  
   
@@ -164,6 +164,6 @@ This is the point where [[Robin]], armed with his [[Lantern of the Bright Hearth
   
 After a great deal of flailing about, we learn that the Baroness' guard claimed we did a runner after murdering two guards, which is patently nonsense by the fact that we came down looking for dinner and I suspect everyone knows it but random claims of necromancy are a thing these days, and we are eventually stashed in the courtyard overnight for everyone to watch and a trial will be held in the morning. There is something about holding a magic item as a hostage but the only one that anyone has any real substantial investment in is [[Robin]]'s [[Lantern of the Bright Hearth|lantern]] and while he's willing to let someone else have custody of it for the interim he's not willing to let it out of his _sight_.  
   
-Given that we have achieved "this is probably going to be dramatic", we ping the [[~Lich Killing Party|heroes of the Night Queen]] to say when our nonsense is now predicted to happen so they're aware of what they have to work with.  
+Given that we have achieved "this is probably going to be dramatic", we ping the [[~Lich Killing Party~|heroes of the Night Queen]] to say when our nonsense is now predicted to happen so they're aware of what they have to work with.  
   
 I do not know if we ever got any damn dinner.
