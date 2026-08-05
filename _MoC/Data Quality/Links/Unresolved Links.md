@@ -1,12 +1,16 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
 # Unresolved Links
 
 *Generated 2026-08-05 by `_scripts/vault_integrity_audit.py`.*
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **97** unresolved targets: **94** notes and **3** attachments
-- **129** occurrences across **61** source files
-- **4018** source notes scanned; raw and generated processing material excluded
+- **82** unresolved targets: **79** notes and **3** attachments
+- **111** occurrences across **57** source files
+- **4023** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
 
@@ -54,33 +58,7 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
   > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
 
-## `[[Drogoloth]]` — 1 file · 1 occurrence
 
-[[Drogoloth]]
-
-- [[Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz|Xurkhaz]] — line 46
-  > - Drogoloth, a mining town on the western banks of the Istaros, near the hills and at the furthest point north boats can travel on the Istaros before hitting the rapids
-
-## `[[Eirian]]` — 1 file · 1 occurrence
-
-[[Eirian]]
-
-- [[Gazetteer/Greater Sembara/Tyrwingha/Ruthin|Ruthin]] — line 17
-  > * Eirian, a trans woman and acolyte of the Wyrdling. She is known in the region for her gender-affirming herbalist care and is a skilled teacher
-
-## `[[Eloi Delacroix]]` — 1 file · 1 occurrence
-
-[[Eloi Delacroix]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 95
-  > In the windmill we talked with Marc Delacroix and his brother Eloi Delacroix (the one who can only speak lies) who managed to convey that he could only talk like a World of Darkness pooka by gesturing past us and saying, "Nice sunny day, is…
-
-## `[[Ember Rose]]` — 1 file · 2 occurrences
-
-[[Ember Rose]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 20|Cleenseau - Session 20]] — line 37; 2 occurrences in this file
-  > …e dead fairy (a blatantly evil wand, a brooch that appears to not be magical, a rose that appears to be lightly smouldering, some rings (some of which belong to the Barony, which we have returned), some bracers inscribed in Elvish and cover…
 
 ## `[[Empress Kylanthe]]` — 1 file · 1 occurrence
 
@@ -96,13 +74,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Dunmari Frontier Campaign/Collected Stories/Caulaus' Story|Caulaus' Story]] — line 23
   > …. We're marching towards a town. The name sticks in my mind. I do not know why. Erusum. I was hoping not to fight. We were going to destroy the teleportation circle there. There were circles we used to travel many miles by magic. Are they n…
 
-## `[[Eryndell]]` — 1 file · 1 occurrence
-
-[[Eryndell]]
-
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 120 - DM Notes|Session 120 - DM Notes]] — line 29
-  > - Eryndell, if someone duels him and is good-natured about the fight, neither a sore winner nor a sore loser. He would likely be outmatched by Kenzo, and maybe by Delwath if he puts a lot of magic into the fight, although that might feel a…
-
 ## `[[Essford family]]` — 1 file · 1 occurrence
 
 [[Essford family]]
@@ -110,26 +81,7 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
   > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
 
-## `[[General Ilsa Lemoine]]` — 1 file · 1 occurrence
 
-[[General Ilsa Lemoine]]
-
-- [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 18
-  > …ches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by General Ilsa Lemoine, and each watch is commanded by a colonel, and each regiment by a major.
-
-## `[[Gorzum]]` — 1 file · 1 occurrence
-
-[[Gorzum]]
-
-- [[Gazetteer/Upper Istaros/Xurkhaz/Xurkhaz|Xurkhaz]] — line 47
-  > - Gorzum, a peaceful oasis in the middle of the country
-
-## `[[Hesta Brill]]` — 1 file · 1 occurrence
-
-[[Hesta Brill]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27|Cleenseau - Session 27]] — line 108
-  > …k as the urchin proceeds to explain to everyone awake around him that he's scared and hungry, gets taken to the mess hall (where night staffer Hesta Brill feeds him), and ducks out when the middle of the night crew is looking the other way.
 
 ## `[[Hkaran Urban Culture]]` — 1 file · 1 occurrence
 
@@ -137,34 +89,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[_DM_/Secret Worldbuilding/History of Dunmar|History of Dunmar]] — line 15
   > …nor Hkaran culture that emigrated in the years after the Mariner Exodus, as the Hkaran Urban Culture spread and become dominant. These people settled somewhere in the east and south, and grew slowly beyond the reach of the Drankorian Empire…
-
-## `[[Holling Brook]]` — 1 file · 1 occurrence
-
-[[Holling Brook]]
-
-- [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 26
-  > * Between Gowerbourne and Wisford: the Lanting, and several small brooks, the most prominent of which are Holling Brook and Ashwell Brook
-
-## `[[Ithu'rax]]` — 1 file · 1 occurrence
-
-[[Ithu'rax]]
-
-- [[Gazetteer/Northwest Coast/Suwi|Suwi]] — line 29; comment
-  > GL Arc 4: staging point for investigation of nearby lake caverns and the aboleth Ithu'rax.
-
-## `[[Johanna of Telham]]` — 1 file · 1 occurrence
-
-[[Johanna of Telham]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 147
-  > - (DR:: 1420): Derik I, of a cadet branch of the House of Entranca, marries Johanna of Telham, the younger daughter of the Duchess of Telham
-
-## `[[Jor]]` — 1 file · 3 occurrences
-
-[[Jor]]
-
-- [[Campaigns/Cleenseau Campaign/Stories/El's Story|El's Story]] — line 18; 3 occurrences in this file
-  > …But I finally told my youngest sister, Cece, who was the widest travelled of us -- she has been as far as Tollen twice -- and she told me about a man — Jor — in Tollen, in the north, a poet, she said, but who was known to interpret dreams.”
 
 ## `[[Kasari]]` — 1 file · 1 occurrence
 
@@ -208,20 +132,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[_DM_/Secret Worldbuilding/History of Dunmar|History of Dunmar]] — line 15
   > …their ancestry to a minor Hkaran culture that emigrated in the years after the Mariner Exodus, as the Hkaran Urban Culture spread and become dominant. These people settled somewhere in the east and south, and grew slowly beyond the reach o…
 
-## `[[Mawar Episode 04]]` — 1 file · 1 occurrence
-
-[[Mawar Episode 04]]
-
-- [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Mawar Religion|Mawar Religion]] — line 155
-  > - Mawar Episode 04 and Chaessenth introduce the songs of the ocean and the name Wanui Teora.
-
-## `[[Mereburn]]` — 1 file · 1 occurrence
-
-[[Mereburn]]
-
-- [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 23
-  > * From the Aine Hills, numerous small brooks, the most prominent of which are the Wetherburn and the Mereburn
-
 ## `[[Mezhai]]` — 1 file · 1 occurrence
 
 [[Mezhai]]
@@ -229,12 +139,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/PCs/Into the Chasm/Chasm Explorers|Chasm Explorers]] — line 24
   > Jrain Fanlish, a traveler, messanger, and sometimes member of the Mezhai.
 
-## `[[Mican Windstep]]` — 1 file · 1 occurrence
-
-[[Mican Windstep]]
-
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Shadowkeep - DM Notes|Shadowkeep - DM Notes]] — line 62
-  > The night hag Putrid Agnes sings from inside the head of Mican Windstep, a deceased halfling warrior, using her Tiny Time action. Mican came to Shadowkeep because of the hag’s whispers, but he froze to death outside the fortress. Agnes’s so…
 
 ## `[[North Watch]]` — 1 file · 1 occurrence
 
@@ -250,20 +154,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 64
   > …here I really want to stab something and I appreciate the volunteering". Robin wheels Greymalkin, targets the bandit who had thrown two knives ... well ... vaguely in his direction — Nox — and just obliterates her in a flash of divine rage.
 
-## `[[Pearl of Power]]` — 1 file · 1 occurrence
-
-[[Pearl of Power]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 29 (DuFr)|Session 29 (DuFr)]] — line 48
-  > …ng and Delwath begins his ritual to activate Elmerica’s Sight, Seeker removes a small pearl from his back, concentrates for a moment, and then goes to Jumi and attempts to unweave the magic that has turned her mostly into a wooden puppet. W…
-
-## `[[Peninsula Notes]]` — 1 file · 1 occurrence
-
-[[Peninsula Notes]]
-
-- [[_dm_notes/_Great Library/Arc 5 - Umbral Convenant/GL - Session 62 - DM Notes|GL - Session 62 - DM Notes]] — line 102
-  > - Peninsula Brainstorming, Peninsula Notes, Peninsula NPC Notes
-
 ## `[[Pierrot "The Weasel"]]` — 1 file · 1 occurrence
 
 [[Pierrot "The Weasel"]]
@@ -277,13 +167,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Greater Sembara/Tyrwingha/Political Organization of Tyrwingha|Political Organization of Tyrwingha]] — line 12
   > Unlike in Sembara, where the manor is the main unit of political organization, Tyrwingha is fundamentally organized, from the bottom, around the village, and from the top, around the earls.
-
-## `[[Raoul]]` — 1 file · 1 occurrence
-
-[[Raoul]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 25|Cleenseau - Session 25]] — line 129
-  > Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out. We have now contacted Raoul to say, "OKAY NOW WHAT," and that is where we end.
 
 ## `[[Recapture of Cleenseau (Third Hobgoblin War)]]` — 1 file · 1 occurrence
 
@@ -329,7 +212,7 @@ This is a static review list of links whose note or attachment target does not e
 
 ## `[[Samuel Cordwander]]` — 1 file · 2 occurrences
 
-[[Samuel Cordwander]]
+[[Samuel Cordwaner]]
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 24; 2 occurrences in this file
   > …epuck works as a "telegraph machine," gathering intelligence and contacting allies. Samuel Cordwander, Odo's younger brother, is found and escorted to safety by Estiasilos. Gareth's interrogation reveals information about the Midnight Lady.
@@ -404,13 +287,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 40
   > - **Susanna** – innkeeper in Maudorville, desperate to find her missing daughter
 
-## `[[Tarnslow]]` — 1 file · 1 occurrence
-
-[[Tarnslow]]
-
-- [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 22
-  > * West of Ainwick, the Tarnslow, which meanders north and west from the north edge of the Cleenseau Wood
-
 ## `[[The Exodus of the Dunmari]]` — 1 file · 1 occurrence
 
 [[The Exodus of the Dunmari]]
@@ -431,13 +307,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of the Mawar|Timeline of the Mawar]] — line 40; 2 occurrences in this file
   > - (DR:: 1675): The Mindknife War begins in Mawar
-
-## `[[The Prophecy of Udazken]]` — 1 file · 1 occurrence
-
-[[The Prophecy of Udazken]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 152
-  > - (DR:: 1425), late summer: Derik I receives a prophecy fortelling his future kingship
 
 ## `[[Tibault the Butcher]]` — 1 file · 1 occurrence
 
@@ -497,17 +366,10 @@ This is a static review list of links whose note or attachment target does not e
 
 ## `[[Wand of the Witches Curse]]` — 1 file · 2 occurrences
 
-[[Wand of the Witches Curse]]
+[[Wand of the Witch's Curse]]
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 20|Cleenseau - Session 20]] — line 37; 2 occurrences in this file
   > …d likely to be intended to hold the magic items we looted off the dead fairy (a blatantly evil wand, a brooch that appears to not be magical, a rose that appears to be lightly smouldering, some rings (some of which belong to the Barony, whi…
-
-## `[[Wetherburn]]` — 1 file · 1 occurrence
-
-[[Wetherburn]]
-
-- [[Gazetteer/Greater Sembara/Rivers/Wistel-Enst Watershed/Wistel|Wistel]] — line 23
-  > * From the Aine Hills, numerous small brooks, the most prominent of which are the Wetherburn and the Mereburn
 
 ## `[[Wickerley]]` — 1 file · 1 occurrence
 

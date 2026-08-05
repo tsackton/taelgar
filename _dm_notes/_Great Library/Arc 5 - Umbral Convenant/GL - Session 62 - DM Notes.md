@@ -99,7 +99,7 @@ Can improvise details of Samso's village.
 
 Some useful notes:
 - [[Apporia]]
-- [[Peninsula Brainstorming]], [[Peninsula Notes]], [[Peninsula NPC Notes]]
+- [[Peninsula Brainstorming]], [[Peninsula NPC Notes]]
 
 Main goal here is to get them to a city where they can learn information. Just improvise but make everything point them to Castrella, most likely. 
 ### Secrets and Clues

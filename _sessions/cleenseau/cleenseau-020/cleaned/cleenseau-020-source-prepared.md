@@ -20,7 +20,7 @@
 [u0020] [[Greymalkin]] the gryphon goes along with to make sure the pyre is done properly and also to gloat.
 [u0021] Seeing the bodies of his historical enemies burn is much, much more satisfying than searching a boring old castle.
 [u0022] We proceed to search the Tower of Records, the part of the castle that was the clerk's domain, finding, among other things, a set of three mirrors (labeled 'Dreams', 'Truth', and 'Lies'.
-[u0023] Only 'Truth' was magical), a lead box that seemed likely to be intended to hold the magic items we looted off the dead fairy (a [[Wand of the Witches Curse|blatantly evil wand]], a brooch that appears to not be magical, a [[Ember Rose|rose that appears to be lightly smouldering]], some rings (some of which belong to the Barony, which we have returned), some bracers inscribed in Elvish and covered with lunar symbolism, a [[Locket of Sending|locket]]), which also had some potions and powders in it.
+[u0023] Only 'Truth' was magical), a lead box that seemed likely to be intended to hold the magic items we looted off the dead fairy (a [[Wand of the Witch's Curse|blatantly evil wand]], a brooch that appears to not be magical, a [[Ember Rose|rose that appears to be lightly smouldering]], some rings (some of which belong to the Barony, which we have returned), some bracers inscribed in Elvish and covered with lunar symbolism, a [[Locket of Sending|locket]]), which also had some potions and powders in it.
 [u0024] One of the powders presumably matched the one that she dusted the food with to make people more likely to fail saves versus her charms.
 [u0025] We also found, tucked into a niche inside the chimney, some papers in a cipher that appear to predate the murder-replacement.
 [u0026] Also, five outfits stashed in weird locations, one of which appears to have been [[Marguerite Deschamps|Marguerite]]'s (the rest of [[Marguerite Deschamps|Marguerite]]'s clothes are in normal locations); the others are, we theorize eventually, trophies from her particular victims.
@@ -104,7 +104,7 @@
 [u0104] We suggest to the magistrate that young [[Rene d'Aslain|Rene]] is very interested in statecraft (he had a relevant library in his bedroom, aside from the racy sketches and creepy architecture drawings) and perhaps might benefit from doing a circuit ride with him to develop his awareness of how justice is wrought.
 [u0105] This will theoretically get him away from [[Isabeau d'Aslain|the Baroness]] and maybe even in less danger!
 [u0106] We can hope.
-[u0107] In the ongoing process of identifying the stack of magical things, Izgil makes a study of the [[Wand of the Witches Curse|creepy fey wand]], determining that it requires attunement, has seven charges, recovers a charge a day I think, does damage and a curse if used, does more damage if more charges are used, does some unspecified more potent thing if _all seven charges_ are used, and leaves some sort of curse mark on whoever attunes to it, effects unknown.
+[u0107] In the ongoing process of identifying the stack of magical things, Izgil makes a study of the [[Wand of the Witch's Curse|creepy fey wand]], determining that it requires attunement, has seven charges, recovers a charge a day I think, does damage and a curse if used, does more damage if more charges are used, does some unspecified more potent thing if _all seven charges_ are used, and leaves some sort of curse mark on whoever attunes to it, effects unknown.
 [u0108] Matt: Well I'm definitely not attuning to it.
 [u0109] I'm putting it in a— Me: LEAD BOX?
 [u0110] Matt: Lead box!

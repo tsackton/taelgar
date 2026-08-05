@@ -45,7 +45,7 @@ The [[Dunmar Fellowship]] cures [[Jumi]], defeats a gnoll ambush, and returns to
 ## Narrative
 Our session begins at dusk, as the party silent, tired, stands before the dead bodies of [[Agata]] Dustmother and her oni servant, [[Samerki]]. As [[Cintra]] rushes to comfort her daughter, [[Jumi]], in relief and also terror at what [[Agata]] has turned her into, the party takes stock.
 
-While [[Wellby]] goes to scout into the slot canyon that leads to the exit from the Wellspring and [[Delwath]] begins his ritual to activate Elmerica’s Sight, [[Seeker]] removes a [[Pearl of Power|small pearl]] from his back, concentrates for a moment, and then goes to [[Jumi]] and attempts to unweave the magic that has turned her mostly into a wooden puppet. While a challenging task, he succeeds in doing so, and the party sees the wood melting away from her. [[Cintra]], overwhelmed with gratitude, throws her arms around [[Seeker]] as [[Jumi]] tries to climb into his lap.
+While [[Wellby]] goes to scout into the slot canyon that leads to the exit from the Wellspring and [[Delwath]] begins his ritual to activate Elmerica’s Sight, [[Seeker]] removes a small pearl from his backpack, concentrates for a moment, and then goes to [[Jumi]] and attempts to unweave the magic that has turned her mostly into a wooden puppet. While a challenging task, he succeeds in doing so, and the party sees the wood melting away from her. [[Cintra]], overwhelmed with gratitude, throws her arms around [[Seeker]] as [[Jumi]] tries to climb into his lap.
 
 Meanwhile, [[Delwath]] begins a slow, careful investigation of what is on [[Agata]] and [[Samerki]]’s bodies. There is a lot to sort through, and it takes some time to [[Agata's Treasure|catalog]]
 
