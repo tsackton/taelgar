@@ -29,9 +29,9 @@ The name Zimka can be narrower or broader depending on speaker and context. In a
 
 ## Language and Naming
 
-[[Languages#~Old Zimkovan~|Old Zimkovan]], a [[Languages#Northros Language Family|Northros]] language descended from the speech of the earliest northern migrants, is now mostly confined to the most traditional and isolated parts of northern [[Zimkova]], pockets of the [[Lavnoch Plateau]], old songs, ritual speech, and the lore of the kestavo. Many places in [[Zimkova]] have ancient, Old Zimkovan names. 
+[[Languages#Old Zimkovan|Old Zimkovan]], a [[Languages#Northros Language Family|Northros]] language descended from the speech of the earliest northern migrants, is now mostly confined to the most traditional and isolated parts of northern [[Zimkova]], pockets of the [[Lavnoch Plateau]], old songs, ritual speech, and the lore of the kestavo. Many places in [[Zimkova]] have ancient, Old Zimkovan names.
 
-%% ~Old Zimkovan~ as the name for the old language was generally used for the ancient language in the Into the Chasm game, but is not formally decided %%
+%% Old Zimkovan as the name for the old language was generally used for the ancient language in the Into the Chasm game, but is not formally decided %%
 
 [[Languages#Zimkovan|Zimkovan]], a group of related Eastros-derived languages and dialects descended from Old Tollish and shaped by Sembaran and Drankorian influence, is commonly spoken in [[Breva]], [[Ardlas]], across the [[Lavnoch Plateau]], and through much of Zimkova. It preserves older Northros loan words, especially in religious speech, place names, and names of ancient kestavo,. 
 
@@ -87,4 +87,3 @@ Important discussion in [[2023-11-21 - Zimkova]]; [[2024-01-17 - Zimkova]]. Prob
 Some context in [[Into the Chasm Intros]]
 
 %%^End%%
-
