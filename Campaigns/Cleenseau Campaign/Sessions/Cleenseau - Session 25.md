@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
 realWorldDate: 2025-05-18
 sessionNumber: 25
@@ -122,8 +122,8 @@ As we make it back to the tower room, a human shadow carrying two physical sword
   
 Robin, still under the effects of the fly spell, engages the thing in midair, and it is determined that the radiant damage from his smite power does much more effect than physical damage. Celyn's response is "I guess I pretend to be a spellcaster now" and we cast a radiant damage spell. The shadow takes a swing at Robin and tries to cast something that Izgil counterspells; Izgil puts a column of light on the thing to ruin its day further. Viepuck has no radiant but he can do force and psychic damage and does so, knocking it back away from Robin.  
   
-I will note, as a player aside, that Robin has a habit of rolling flashy critical hits in major combats. (Though this was not major-major.) This is apparently not merely that [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/) rolls well in major combats; he had to duck out before the fight so I was rolling for him and I rolled an 18 and a 20 and declared a smite on the critical, like ya do. (And did the smite at second level. And because it was against an undead there was an extra die. I rolled 10d8, five of which came up 8. Also there were a 7 and a 6.)  
+I will note, as a player aside, that Robin has a habit of rolling flashy critical hits in major combats. (Though this was not major-major.) This is apparently not merely that [**arcadinal**](https://arcadinal.dreamwidth.org/) rolls well in major combats; he had to duck out before the fight so I was rolling for him and I rolled an 18 and a 20 and declared a smite on the critical, like ya do. (And did the smite at second level. And because it was against an undead there was an extra die. I rolled 10d8, five of which came up 8. Also there were a 7 and a 6.)  
   
-(I then proceeded to take a photo of the dice and send [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)  
+(I then proceeded to take a photo of the dice and send [**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)  
   
 Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out. We have now contacted [[Raoul]] to say, "OKAY NOW WHAT," and that is where we end.

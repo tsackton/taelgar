@@ -25,5 +25,5 @@ Pakrinek is a kenku warrior of [[Kemeko Monastery]]. In January 1730, Pakrinek a
 Pakrinek had not returned from the expedition before the party was drawn into [[Zeyfa's Labyrinth]]. [[Jrain Fanlish]] named Pakrinek among the lost investigators tied to the chasm.
 
 %%
-AI note: This note was expanded from Into the Chasm session 1 information only. The session establishes Pakrinek as missing at that point, but does not establish gender, age, or final fate. Sources: [[Into the Chasm - Episode 1]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
+AI note: This note was expanded from Into the Chasm session 1 information only. The session establishes Pakrinek as missing at that point, but does not establish gender, age, or final fate. Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
 %%

@@ -32,5 +32,5 @@ Kalima says her people fled an ancient catastrophe into or near this place and n
 - The beast deeper in the labyrinth, known from Kalima's warnings but not yet seen in session 1.
 
 %%
-AI note: This note was created from Into the Chasm session 1 information only. The session suggests, but does not prove, that Zeyfa's Labyrinth may be a magical pocket or adjacent realm rather than an ordinary part of the Great Chasm. Sources: [[Into the Chasm - Episode 1]], [[into-the-chasm-001-session-recap]].
+AI note: This note was created from Into the Chasm session 1 information only. The session suggests, but does not prove, that Zeyfa's Labyrinth may be a magical pocket or adjacent realm rather than an ordinary part of the Great Chasm. Sources: [[Into the Chasm - Episode 01]], [[into-the-chasm-001-session-recap]].
 %%

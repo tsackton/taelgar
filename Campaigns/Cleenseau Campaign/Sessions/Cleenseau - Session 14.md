@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
 realWorldDate: 2024-04-28
 sessionNumber: 14
@@ -27,7 +27,7 @@ She was not up for venturing into the depths again herself, both because she was
   
 We hatched a gently deranged plan, slept, and then proceeded to manufacture some chaos.  
   
-The deranged plan involved putting a sheep in a rowboat with some giant fucking fishhooks (I forget the terminology here; [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/)?) and luring the sea serpent out to potentially attack the sheep and then see if we can use a draft team to drag it ashore so we can murder it in comparative peace.  
+The deranged plan involved putting a sheep in a rowboat with some giant fucking fishhooks (I forget the terminology here; [**artan**](https://artan.dreamwidth.org/)?) and luring the sea serpent out to potentially attack the sheep and then see if we can use a draft team to drag it ashore so we can murder it in comparative peace.  
   
 This about 60% worked.  
   

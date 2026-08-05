@@ -26,5 +26,5 @@ When an unnatural storm swept Kalima and the adventurers into the chasm, she ide
 Kalima is frightened of kenku, but after [[Finnan Oakstride]] and [[Justas Rhostrin]] protected her and spoke with her in Old Zimkovan, she agreed to travel with the party if she could stay between them.
 
 %%
-AI note: This note was expanded from Into the Chasm session 1 information only. [[Into the Chasm - Episode 1]] lists Kalima's emergence as 1729-01-22, but the surrounding session timeline and [[Into the Chasm Intros]] place it shortly before the 1730-01-25 session; this note treats 1729 as a typo and uses 1730-01-22. Sources: [[Into the Chasm - Episode 1]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
+AI note: This note was expanded from Into the Chasm session 1 information only. [[Into the Chasm - Episode 01]] lists Kalima's emergence as 1729-01-22, but the surrounding session timeline and [[Into the Chasm Intros]] place it shortly before the 1730-01-25 session; this note treats 1729 as a typo and uses 1730-01-22. Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
 %%

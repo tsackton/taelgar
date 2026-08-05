@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
 realWorldDate: 2025-02-09
 sessionNumber: 22
@@ -66,7 +66,7 @@ As we go into the inn, the old lady peers at us, visibly recognizes us, scans th
   
 So she comes up to the party to have a little conversation with us. The gist of which was that she has no interest in any trouble, she just wants to give us what we want. If we just leave her her little village, just one little town, she'll even tell us what the [[Lord Umbraeth|Gloomshaper]] is up to and what he wants. She'll consider sweetening the deal as we don't look impressed. But surely we have enough to worry about, she'll happily take herself off our list of problems, just as soon as we make a deal.  
   
-She noted we killed the shapeshifter; she thanks us for that. She does want to know what we did with [[The Hunter]], whose name she gave us (and which I have forgotten, but it was something that ended Half-Bear in Greek. Of which I know Arktos without having to think for reasons that will make [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://jenett.dreamwidth.org/profile)[**jenett**](https://jenett.dreamwidth.org/) laugh). (ETA: Kiastíōn Hēmiárktos.) She tries to tempt Izgil with knowledge when he comes in from his quick duck outside to cast a detect magic, which doesn't go useful places.  
+She noted we killed the shapeshifter; she thanks us for that. She does want to know what we did with [[The Hunter]], whose name she gave us (and which I have forgotten, but it was something that ended Half-Bear in Greek. Of which I know Arktos without having to think for reasons that will make [**jenett**](https://jenett.dreamwidth.org/) laugh). (ETA: Kiastíōn Hēmiárktos.) She tries to tempt Izgil with knowledge when he comes in from his quick duck outside to cast a detect magic, which doesn't go useful places.  
   
 Izgil, armed with Peer At The Magic skills, sees that she's got an illusion on, and auras of divination and necromancy that imply magic items stashed not on her person that give her access to particular powers. These auras are not enough to chase back to the items themselves, unfortunately.  
   

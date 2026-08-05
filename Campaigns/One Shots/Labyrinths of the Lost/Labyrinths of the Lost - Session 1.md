@@ -1,12 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags:
+  - session-note
 campaign: Labyrinths of the Lost
 sessionNumber: 1
 realWorldDate: 2023-11-12
 DR: 1748-10-17
 DR_end: 1748-10-17
-players: [Acescale, Gaudin, Loria, Dilion]
+players:
+  - Acescale
+  - Gaudin
+  - Loria
+  - Dilion
 companions: []
 name: Labyrinths of the Lost - Session 1
 descTitle: The Smithy Escape

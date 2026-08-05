@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
-hide: [toc]
+tags:
+  - meta
+hide:
+  - toc
 dm_owner: tim
 dm_notes: none
 ---

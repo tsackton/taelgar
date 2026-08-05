@@ -42,6 +42,6 @@ I don't really use alignment in my games. I mostly prefer to run games for heroi
 
 We will do a short session 0 as part of the first session. 
 
-[[LL - Session 1|Session 1]]: November 12th, 2023, 7 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
-[[LL - Session 2|Session 2]]: November 25th, 2023, 8 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
+[[Labyrinths of the Lost - Session 1|Session 1]]: November 12th, 2023, 7 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
+[[Labyrinths of the Lost - Session 2|Session 2]]: November 25th, 2023, 8 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
 [[LL - Session 3|Session 3]]: December 10th, 2023, 7 pm Eastern Time, [on Zoom](https://harvard.zoom.us/j/97882884286?pwd=cmVQWjNneEkzeFl5ajk4ZDlUSm5VZz09)
