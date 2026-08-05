@@ -13,6 +13,11 @@ whereabouts: Northern Green Sea
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% names: 
+
+- **Great Northern Forest** — Eastros Trade and primary vault name
+- **Namaket** _(NAH-mah-ket)_ — Vargaldi endonym
+- **Korvenya** _(kor-VEHN-yah)_ — Urskan exonym
+
 Vargaldi endonym, roughly "homeland" or "our land". Tentative Namaket, see below for more options
 Urskan name: Drezhava (dreh-ZHAH-va), Korvenya (kor-VEHN-yah), Zverava (zveh-RAH-vah; would tie to Zvervinka and makes most sense if Zver- is Beast or something like that)
 Eastros / map name: Great Forest / Great Northern Forest 
