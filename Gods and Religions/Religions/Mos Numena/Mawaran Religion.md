@@ -41,8 +41,8 @@ Useful but not fully public or not fully settled:
 Discussion and brainstorming links:
 
 - [[Human Cultures - Discussions]] preserves older Mawar origin and religious notes, including saints and heroes as focal points of prayer.
-- [[2025-10-21]] discusses Mawar as a northern-influenced Mos Numena tradition where tanshi-like practice becomes local saints, historical figures, and ancestors, with lizardfolk and gatza influence.
-- [[2024-01-27]] discusses possible Mawar/Chardon funerary contrasts and whether Mawar has older burial or grave-token traditions.
+- [[2025-10-21 - Fey Realms]] discusses Mawar as a northern-influenced Mos Numena tradition where tanshi-like practice becomes local saints, historical figures, and ancestors, with lizardfolk and gatza influence.
+- [[2024-01-27 - Funerary Traditions]] discusses possible Mawar/Chardon funerary contrasts and whether Mawar has older burial or grave-token traditions.
 - [[Email - Wazir Backstory II]] develops the strongest version of Mawar-vs-Chardon funerary conflict around ancestors, grave tokens, and cross-cultural marriage.
 - [[Email - A Few Thoughts on Taelgar Races]] is useful background for lizardfolk dreams, ancestors, and nonlinear time, but should not be treated as Mawar-human canon.
 - [[Northern Religions Brainstorming]] has older ideas about north-coastal Mos Numena, saints, demigods, and ancestor-heroes.

@@ -120,11 +120,11 @@ Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, f
 - Lizardfolk villages and communities are typically led by an elder or council of elders, who often look to ancestors for advice; in some fashion, ancestors and/or elders control settlement size, keeping lizardfolk communities from growing beyond the carrying capacity of the land. 
 
 ### Key Discord Chats and Emails
-- [[2023-10-30]]: General brainstorming
-- [[2024-01-05]], [[Land Holding in Sembara]], [[Taxes in Sembara]]: Sembaran context, land holding, taxes
-- [[2024-02-12]]: Family structure
-- [[2025-02-01]], [[Green Sea Brainstorming]]: Distribution across Taelgar
-- [[2025-10-17]]: Relation to human villages
+- [[2023-10-30 - Species]]: General brainstorming
+- [[2024-01-05 - Sembara History]], [[Land Holding in Sembara]], [[Taxes in Sembara]]: Sembaran context, land holding, taxes
+- [[2024-02-12 - Lizardfolk]]: Family structure
+- [[2025-02-01 - Species and Cultures]], [[Green Sea Brainstorming]]: Distribution across Taelgar
+- [[2025-10-17 - Species and Cultures]]: Relation to human villages
 - [[Email - More Green Sea]]; [[Email - Brief Thoughts on Elder Races]]; [[Email - A Few Thoughts on Taelgar Races]]
 - [[GL - Session 62 - DM Notes]] - *not canon* but some thinking about lizardfolk/Dreamworld and other contexts
 

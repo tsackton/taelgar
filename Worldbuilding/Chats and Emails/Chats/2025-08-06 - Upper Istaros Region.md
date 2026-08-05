@@ -26,7 +26,7 @@
     (b) Cleenseau History Notes are worth reading re: Great South Road.  There was a human settlement on the south bank of the Enst around the fall of Drankor, and the Dukes of Wisford controlled Cleenseau region (but probably not south of the Enst) from the 1200s or so (i.e. pre-Sembara)
 [2025-08-06 10:21 AM] Deciusmus: the Chronicle of Sembaran history doc suggests fairly depopulated land south of the Enst, with no major human settlements, although that doesn't really have to be canon.
     
-    There is a Duchy of Brovna around Ulrich Pass that I have eventual plans for as a historical entity that was not part of Sembara for a while - remember there was a growing link in the 1250s - 1400s Sembara `<->` Chardon through Ulrich, which might have been a competitor route for goods from South Cymea (i.e. Cymean ->` Isingue ->` Brovna ->` Chardon rather than Cymean ->` Isingue ->` Dunmar ->` Chardon)
+    There is a [[Duchy of Brovna]] around Ulrich Pass that I have eventual plans for as a historical entity that was not part of Sembara for a while - remember there was a growing link in the 1250s - 1400s Sembara `<->` Chardon through Ulrich, which might have been a competitor route for goods from South Cymea (i.e. Cymean ->` Isingue ->` Brovna ->` Chardon rather than Cymean ->` Isingue ->` Dunmar ->` Chardon)
 [2025-08-06 10:23 AM] Deciusmus: I see Avatus as basically opportunistic, gets established in fairly lightly populated place between major powers, and then turns north rather than south because sembara is much weaker than Isginue, especially the western duchies
 [2025-08-06 10:23 AM] Deciusmus: >` does the positioning of the domain of avatus look about right to you?
 [2025-08-06 10:23 AM] Deciusmus: yes
@@ -50,7 +50,7 @@
     
     The Great South Road from Sembara heartland ->` Cleenseau ->` Isingue exists but is relatively marginal (although the magic Drankorian road helps keep it viable). Especially because actually there isn't a ton of value in Sembara compared to Cymea and the Green Sea. Goods probably flow Isingue ->` Sembara more than anything else, as the dukes are growing in argiculture wealth and looking to import finery. I'd need to check the Green Sea history but I think 
     
-    The Duchy of Brovna is mostly scattered settlements around the foothills of the Sentinels, and there is some occasional trade Sembara ->` Ulrich ->` Chardon, but it is marginal especially compared to the trade through Isingue.
+    The [[Duchy of Brovna]] is mostly scattered settlements around the foothills of the Sentinels, and there is some occasional trade Sembara ->` Ulrich ->` Chardon, but it is marginal especially compared to the trade through Isingue.
     
     What the Great South Road passes through is somewhat unclear here, i.e. what is in the Maseau and Aurbez regions.
 [2025-08-06 01:29 PM] Deciusmus: in 13xx (unclear the exact date, but Avatus dies in 1429) so it is probably 1370s or 80s, Avatus bursts onto the scene, drawing a lot of support from hobgoblin kingdoms in the Aurbez plateau and the upper parts of the Andonne/Doursen/etc.

@@ -8,9 +8,9 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **214** unresolved targets: **211** notes and **3** attachments
-- **349** occurrences across **111** source files
-- **3996** source notes scanned; raw and generated processing material excluded
+- **189** unresolved targets: **186** notes and **3** attachments
+- **277** occurrences across **85** source files
+- **4007** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
 
@@ -20,7 +20,7 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 157
   > - (DR:: 1429), spring: Derik I defeats Avatus at the Battle of Dalfield
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 95
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 99
   > (DR:: 1429), spring: Derik defeats Avatus at the decisive **Battle of Dalfield**.
 
 ## `[[Battle of Fellburn]]` — 2 files · 2 occurrences
@@ -29,7 +29,7 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 155
   > - (DR:: 1427), summer: Derik I pushes Avatus south of the Enst at the Battle of Fellburn
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 93
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 97
   > (DR:: 1427), summer: Derik pushes Avatus south of the Enst at the **Battle of Fellburn**.
 
 ## `[[Battle of Stavenford]]` — 2 files · 3 occurrences
@@ -38,7 +38,7 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 150
   > - (DR:: 1425), summer: Avatus defeats the Sembaran army at the Battle of Stavenford
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 90; 2 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 94; 2 occurrences in this file
   > (DR:: 1425), summer: He defeats the Sembaran army at the **Battle of Stavenford**.
 
 ## `[[Battle of Wisford]]` — 2 files · 2 occurrences
@@ -47,7 +47,7 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 154
   > - (DR:: 1426), summer: Derik I pushes Avatus south of the Wistel at the Battle of Wisford
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 92
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 96
   > (DR:: 1426), summer: Derik I returns with Tyrwinghan and Telhamite support, pushing Avatus south of the Wistel at the **Battle of Wisford**.
 
 ## `[[Castrota Pirate War]]` — 2 files · 2 occurrences
@@ -56,35 +56,8 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 147
   > - (DR:: 1422): Derik I distinguishes himself in the Castrota Pirate War
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 153
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 157
   > **(DR:: 1422)** – Avatus conquers most of Duchy of Brovna but fails to break through dwarven defenses; at roughly the same time, Derik distinguishes himself in the Castrota Pirate War.
-
-## `[[Duchy of Brovna]]` — 2 files · 4 occurrences
-
-[[Duchy of Brovna]]
-
-- [[History/Historical Realms/Dominion of Avatus|Dominion of Avatus]] — line 20
-  > …it spread east along the Andonne to the edges of the Darkwood, and north to the Enst. Briefly, much of the Duchy of Wisford and the Duchy of Brovna was occupied by the Dominion, until Avatus was defeated by Derik I and his realm collapsed.
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 88; 3 occurrences in this file
-  > (DR:: 1422): Avatus conquers most of the **Duchy of Brovna**, but dwarven resistance (supported by Ardlas) keeps him from pushing north through mountain passes.
-
-## `[[Elder Folk]]` — 2 files · 4 occurrences
-
-[[Elder Folk]]
-
-- [[Background/Religious History of Taelgar|Religious History of Taelgar]] — line 29; 3 occurrences in this file
-  > …are created and gifted Hkar as their ancestral homeland, free of the influence of the Elder Folk. The divine spark is strong in early generations of humans, and quickly an early proto-religion develops on Hkar, focused on personal deities.
-- [[Gods and Religions/Gods/Embodied Gods/Embodied Gods|Embodied Gods]] — line 19
-  > The most well known of the Embodied Gods are the deities of the Elder Folk, created by the Divine Presence, and often known as the Firstborn. These are: Aldanor and Elmerca, the Living Tree and the Wild Star of the elves; Entamba, the Elder…
-
-## `[[Garrison Quarter]]` — 2 files · 3 occurrences
-
-[[Garrison Quarter]]
-
-- [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 31; 2 occurrences in this file
-  > * The Garrison Quarter (C), in the east, is clustered around the army garrison, and is where the wealthiest live
-- [[People/Historical Figures/Reginald Essford|Reginald Essford]] — line 29
-  > …. He was generous with lease terms and other land grants of relatively large and intact buildings in the Garrison Quarter, especially in the 1660s, as a well to reestablish a wealthy clientele in Cleenseau after the devastation of the wars.
 
 ## `[[Law in Sembara]]` — 2 files · 2 occurrences
 
@@ -122,7 +95,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 19|Cleenseau - Session 19]] — line 118
   > …f the Duskhound with us, and determine that Robin can get Damien Montrichard to the safehouse with a combination of the ring of jumping (to get beyond the outer wall) and feather fall (to not plummet to their doom); the rest of us hop off t…
 
-
 ## `[[Old West Road]]` — 2 files · 2 occurrences
 
 [[Old West Road]]
@@ -131,7 +103,6 @@ This is a static review list of links whose note or attachment target does not e
   > …osses the Cleenseau Bridge and another toll at the gates of Cleenseau where the Old West Road joins the Great South Road, only collected from travelers originating from the west, as well as another toll for those wagons crossing the bridge…
 - [[Groups/Sembaran Army/Army Garrison of Cleenseau|Army Garrison of Cleenseau]] — line 29
   > * (DR:: 1720-01-06): The garrison is ambushed on the Old West Road by many zombies - at least 60. Approximately fifteen die in the combat, or from wounds shortly afterwards, and another ten are badly wounded and need healing and rest.
-
 
 ## `[[Siege of Dunfry (Third Hobgoblin War)]]` — 2 files · 4 occurrences
 
@@ -150,24 +121,6 @@ This is a static review list of links whose note or attachment target does not e
   > After Treaty of Châteauclair in 1602, the Second Hobgoblin War ends and the Shattered Ice Clan is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat…
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 283
   > - (DR:: 1602): The Second Hobgoblin War ends with the Treaty of Châteauclair between the regent, Percival Wynthrope and the Shattered Ice Clan. The lands south of the Enst and west of the Aure are ceded to the hobgoblins.
-
-## `[[Whereabouts and Last Seen By Party (old)]]` — 2 files · 3 occurrences
-
-[[Whereabouts and Last Seen By Party (old)]]
-
-- [[_MoC/_old/Template Usage Guide|Template Usage Guide]] — line 13; 2 occurrences in this file
-  > > (Last Seen by Party Info)
-- [[_MoC/_old/Whereabouts and Location Specification|Whereabouts and Location Specification]] — line 193
-  > See Formatting, Whereabouts and Last Seen By Party (old) and Page Dates for more information.
-
-## `[[Whereabouts and Location Specification (old)]]` — 2 files · 5 occurrences
-
-[[Whereabouts and Location Specification (old)]]
-
-- [[_MoC/_old/Template Usage Guide|Template Usage Guide]] — line 12; 4 occurrences in this file
-  > > get_HomeWhereabouts
-- [[_MoC/_old/Whereabouts and Last Seen By Party|Whereabouts and Last Seen By Party]] — line 14
-  > For each row, it generates "exact whereabouts location" (see Whereabouts and Location Specification (old)) using the date as the target date. If this generates undefined, the line is skipped. Otherwise, it outputs a line like:
 
 ## `[[~Evensong Spire~]]` — 2 files · 4 occurrences
 
@@ -308,7 +261,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Avatus Brainstorming  Summaries]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 408; 5 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 414; 5 occurrences in this file
   > …on crosses it and splits there, Isinguese and Istabor cities dominate mid‑basin routes, and Sembara/Tollen connect from the northwest via corridors like the Andonne. Human Cultures of Taelgar, Humanity in Greater Sembara, Avatus Brainstormi…
 
 ## `[[Baron of Aveil]]` — 1 file · 1 occurrence
@@ -455,49 +408,49 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Discord Chat  Addermarch]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 35; 3 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 39; 3 occurrences in this file
   > Sources: Discord Chat Addermarch, Discord Chat History of Western Green Sea.
 
 ## `[[Discord Chat  Avatus and Hobgolbins]]` — 1 file · 5 occurrences
 
 [[Discord Chat  Avatus and Hobgolbins]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 13; 5 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 17; 5 occurrences in this file
   > See also: Avatus, Dominion of Avatus, Mirror of Soul Trapping, Timeline of Sembaran History, Cleenseau History Notes, Discord Chat Avatus and Hobgolbins, Tyrwingha Ideas.
 
 ## `[[Discord Chat  Green Sea]]` — 1 file · 2 occurrences
 
 [[Discord Chat  Green Sea]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 304; 2 occurrences in this file
-  > …ue/Istabor, the Istaros basin, Dunmar, Orenlas—leaving earlier Drankorian and later Great‑War/Blood Years details as context only. Where helpful, this section incorporates additional detail from Discord/email notes such as Discord Chat Gree…
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 308; 2 occurrences in this file
+  > …/Istabor, the Istaros basin, Dunmar, Orenlas—leaving earlier Drankorian and later Great‑War/Blood Years details as context only. Where helpful, this section incorporates additional detail from Discord/email notes such as Discord Chat Green…
 
 ## `[[Discord Chat  History of Western Green Sea]]` — 1 file · 4 occurrences
 
 [[Discord Chat  History of Western Green Sea]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 31; 4 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 35; 4 occurrences in this file
   > Source: Discord Chat History of Western Green Sea.
 
 ## `[[Discord Chat  Sembara History]]` — 1 file · 2 occurrences
 
 [[Discord Chat  Sembara History]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 119; 2 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 123; 2 occurrences in this file
   > Sources: A Chronicle of Sembaran History, Discord Chat Avatus and Hobgolbins, Discord Chat Sembara History.
 
 ## `[[Discord Chat  Upper Istaros Region]]` — 1 file · 2 occurrences
 
 [[Discord Chat  Upper Istaros Region]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 37; 2 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 41; 2 occurrences in this file
   > Sources: Timeline of Sembaran History, Human Cultures of Taelgar, Discord Chat Upper Istaros Region.
 
 ## `[[Drankorian Empire  Open Questions]]` — 1 file · 1 occurrence
 
 [[Drankorian Empire  Open Questions]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 327
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 333
   > Sources: Green Sea Brainstorming, Drankorian Empire, Drankorian Empire Open Questions.
 
 ## `[[Drogoloth]]` — 1 file · 1 occurrence
@@ -521,13 +474,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Tyrwingha/Ruthin|Ruthin]] — line 17
   > * Eirian, a trans woman and acolyte of the Wyrdling. She is known in the region for her gender-affirming herbalist care and is a skilled teacher
 
-## `[[elder folk]]` — 1 file · 1 occurrence
-
-[[elder folk]]
-
-- [[Background/Religious History of Taelgar|Religious History of Taelgar]] — line 58
-  > …humans leave Hkar, and begin to explore the mainland, coming into contact with elder folk. This contact leads to a number of major upheavals in human culture, including the introduction of non-divine magic, and the introduction of new conc…
-
 ## `[[Elemental Gem]]` — 1 file · 1 occurrence
 
 [[Elemental Gem]]
@@ -541,20 +487,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 95
   > In the windmill we talked with Marc Delacroix and his brother Eloi Delacroix (the one who can only speak lies) who managed to convey that he could only talk like a World of Darkness pooka by gesturing past us and saying, "Nice sunny day, is…
-
-## `[[Email  Player Background on Aurbez]]` — 1 file · 1 occurrence
-
-[[Email  Player Background on Aurbez]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 304
-  > …ue/Istabor, the Istaros basin, Dunmar, Orenlas—leaving earlier Drankorian and later Great‑War/Blood Years details as context only. Where helpful, this section incorporates additional detail from Discord/email notes such as Discord Chat Gree…
-
-## `[[Email  Skaer]]` — 1 file · 2 occurrences
-
-[[Email  Skaer]]
-
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 304; 2 occurrences in this file
-  > …ue/Istabor, the Istaros basin, Dunmar, Orenlas—leaving earlier Drankorian and later Great‑War/Blood Years details as context only. Where helpful, this section incorporates additional detail from Discord/email notes such as Discord Chat Gree…
 
 ## `[[Ember Rose]]` — 1 file · 2 occurrences
 
@@ -602,7 +534,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Ethlenn]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 105; 2 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 109; 2 occurrences in this file
   > When Derik lands in Tyrwingha, the Archfey **Ethlenn** appears, blesses him, and endorses him as king; his subsequent victory over Avatus and the Treaty of Wisford become the basis for the **unification of the crowns** of Sembara, Tyrwingha…
 
 ## `[[Etienne]]` — 1 file · 8 occurrences
@@ -792,7 +724,7 @@ This is a static review list of links whose note or attachment target does not e
 [[Market Road]]
 
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Cleenseau Region/Cleenseau/Cleenseau|Cleenseau]] — line 37
-  > * A paved road (Market Road) leads from east to west, between the Market Gate and the North Gate, and divides the North Close from the Garrison Quarter and Underhill
+  > * A paved road (Market Road) leads from east to west, between the Market Gate (Cleenseau) and the North Gate, and divides the North Close from the Garrison Quarter and Underhill
 
 ## `[[Mavis]]` — 1 file · 1 occurrence
 
@@ -1113,7 +1045,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[The Divine Order]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 297
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 301
   > Sources: Bhishma, Dunmar, The Divine Order.
 
 ## `[[The Enford Campaign]]` — 1 file · 1 occurrence
@@ -1190,7 +1122,7 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Tyrwingha  Ideas]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 13; 7 occurrences in this file
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 17; 7 occurrences in this file
   > See also: Avatus, Dominion of Avatus, Mirror of Soul Trapping, Timeline of Sembaran History, Cleenseau History Notes, Discord Chat Avatus and Hobgolbins, Tyrwingha Ideas.
 
 ## `[[Underhill Way]]` — 1 file · 1 occurrence
@@ -1211,14 +1143,14 @@ This is a static review list of links whose note or attachment target does not e
 
 [[Unsorted]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 337
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 343
   > Sources: Humanity in Greater Sembara, Istabor Alliance, Historical Framework, Green Sea Brainstorming, Unsorted.
 
 ## `[[Upper Istaros Region]]` — 1 file · 1 occurrence
 
 [[Upper Istaros Region]]
 
-- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 362
+- [[Worldbuilding/Brainstorming/Avatus Brainstorming - Summaries|Avatus Brainstorming - Summaries]] — line 368
   > Sources: Aurbez and the Andonne, Humanity in Greater Sembara, Upper Istaros Region.
 
 ## `[[Vimfrost War]]` — 1 file · 1 occurrence
@@ -1312,27 +1244,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 252
   > - (DR:: 1551), spring: The year starts with unseasonable and unending rains, and there is much flooding.
 
-## `[[Ysabeau]]` — 1 file · 4 occurrences
-
-[[Ysabeau]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23|Cleenseau - Session 23]] — line 33; 4 occurrences in this file
-  > …Daverre's worry about the consequences of the boon he accepted on his daughter Ysabeau and very mundane things - and the conversation shifted to very mundane things (not Ysabeau at all) while she glowered at the party because she was put o…
-
-## `[[Ysanne]]` — 1 file · 1 occurrence
-
-[[Ysanne]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22|Cleenseau - Session 22]] — line 101
-  > The shepherdess (Ysanne) gets Robin into a cluster of trees and says that this narrow space is one the Hag can't penetrate because it's where the Mother's miracle happened. She proceeds to give us some information; Viepuck, meanwhile, in th…
-
-## `[[~Bek'eni village~]]` — 1 file · 1 occurrence
-
-[[~Bek'eni village~]]
-
-- [[_DM_/Timelines/Unified Timeline From OneNote|Unified Timeline From OneNote]] — line 336
-  > |**5 Sept 1748**|Spend the day at the Bek'eni village. Meet Theba who wants to escape, but Mezzar has taken her magical spear and shield. Says she can lead the party to the Te'kula if they help get her stuff. Spy on Mezzar's house in the vi…
-
 ## `[[~Central Sentinel Spur~]]` — 1 file · 3 occurrences
 
 [[~Central Sentinel Spur~]]
@@ -1388,13 +1299,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Background/Human Cultures of Taelgar|Human Cultures of Taelgar]] — line 46
   > …ally two cultures with a shared identity: an older, pure northerner strand, the ~Old Zimka~ , worshippers of the kestavo, and a newer strand, heavily influenced by the "Sembaran mixing pot", who might be as likely to worship Mos Numena as t…
-
-## `[[~Orenlas Tributary~]]` — 1 file · 1 occurrence
-
-[[~Orenlas Tributary~]]
-
-- [[Gazetteer/Upper Istaros/Upper Istaros|Upper Istaros]] — line 56; comment
-  > …the southeast, a series of gentle rolling hills lies between the Kezhur and the ~Orenlas Tributary~. To the south, these hills rise sharply to series of jagged cliffs and dramatic canyons forming the Zhalgan. To the northeast, the hills ris…
 
 ## `[[~Skaer Northcoast Peninsula~]]` — 1 file · 1 occurrence
 

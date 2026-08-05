@@ -129,7 +129,7 @@ By the 1400s, a number of regional powers had started to emerge on the borders o
 
 The [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], had grown substantially, and commanded the loyalty of many of the small lords along the coast and the river, but was closely tied by culture and intermarriage to [[Sembara]].
 
-In the west, the Duchy of Brovna had grown into a significant presence along the mountains, trading eagerly with the powerful city of Chardon, and [[Ardlas]] was growing as well, trading with dwarves.
+In the west, the [[Duchy of Brovna]] had grown into a significant presence along the mountains, trading eagerly with the powerful city of Chardon, and [[Ardlas]] was growing as well, trading with dwarves.
 
 %%@Mike for context, Chardon begins to grow as an industrial power in the 1200s, with the paper and magical scroll industry taking off in the 1350s  - so this works well with increasing trade 
 
@@ -145,7 +145,7 @@ Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], e
 ##
 - (DR:: 1420): [[Derik I]], of a cadet branch of the [[House of Entranca]], marries [[Johanna of Telham]], the younger daughter of the [[Duchy of Telham|Duchess of Telham]]
 - (DR:: 1422): [[Derik I]] distinguishes himself in the [[Castrota Pirate War]]
-- (DR:: 1422): [[Avatus]] conquerors most of the Duchy of Brovna, but is prevented from pushing through the pass by dwarven efforts, supported by [[Ardlas]].  The pleas of the Duke of Brovna for aid from Sembara are ignored.
+- (DR:: 1422): [[Avatus]] conquerors most of the [[Duchy of Brovna]], but is prevented from pushing through the pass by dwarven efforts, supported by [[Ardlas]].  The pleas of the Duke of Brovna for aid from Sembara are ignored.
 - (DR:: 1425), summer: [[Avatus|Avatus]] invades [[Sembara]]
 - (DR:: 1425), summer: [[Avatus|Avatus]] defeats the Sembaran army at the [[Battle of Stavenford]]
 - (DR:: 1425), late summer: [[Derik I]] receives a [[The Prophecy of Udazken|prophecy]] fortelling his future kingship
@@ -158,7 +158,7 @@ Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], e
 - (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treaty of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
-- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]] in the lands formally controlled by [[Avatus]]. He also reestablishes the Duchy of Brovna.
+- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]] in the lands formally controlled by [[Avatus]]. He also reestablishes the [[Duchy of Brovna]].
 
 %% None of the dates above need to be canon except 1425 King of Tyrwingha  although I think the general vibe is correct, as is the idea of Derik I establishing a bunch of duchies in old Avatus lands in the 1430s or late 1420s. The dates for Battle of Fellburn, Battle of Stavenford, and Battle of Wisford can move +/- 1-2 years but should be relatively close to the above, and the battles are canon %%
 
