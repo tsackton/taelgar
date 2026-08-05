@@ -26,7 +26,7 @@ typeOfAlias: village
 A coastal village west of the [[Fiatara Mountains]] and near the [[Slate Sea]]. 
 
 %%
-GL Arc 4: staging point for investigation of nearby lake caverns and the aboleth [[Ithu'rax]].
+GL Arc 4: staging point for investigation of nearby lake caverns and the aboleth [[Ithu’rax]].
 See: [[Great Library Session Notes - Arc 4]]
 Minimal details invented - was just the staging point for running a published adventure from Where Evil Lies
 %%
