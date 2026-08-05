@@ -10,7 +10,7 @@ gender: female
 pronunciation: yo-TAH
 whereabouts:
 - {type: home, end: 1743, location: Ko'zula village}
-- {type: home, start: 1743, end: 1749-03-21, location: ~Northern Boreal Forest~ }
+- {type: home, start: 1743, end: 1749-03-21, location: Great Northern Forest}
 - {type: away, start: 1749-03-21, end: 9999, location: Vindristjarna}
 affiliations: [{org: Ko'zula, type: primary}]
 dm_owner: tim

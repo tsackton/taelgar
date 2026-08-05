@@ -8,7 +8,7 @@ born:
 species: human
 ancestry:
 gender: male
-whereabouts: ~Eastern Islands~
+whereabouts: Eastern Isles
 dm_owner: tim
 dm_notes: color
 ---

@@ -9,7 +9,7 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, location: ~North Tokra Plains~}
+- {type: home, location: Varashan}
 dm_owner: none
 dm_notes: color
 ---

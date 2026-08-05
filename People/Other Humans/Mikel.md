@@ -7,7 +7,7 @@ gender: male
 born: 1733
 whereabouts:
 - {type: home, location: Suwi}
-- {type: away, start: 1748-08-23, location: ~North Bay Coast Lake~}
+- {type: away, start: 1748-08-23, location: Lake Suwi}
 dm_owner: none
 dm_notes: none
 ---
