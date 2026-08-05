@@ -9,7 +9,7 @@ dm_owner: tim
 dm_notes: color
 typeOfAlias: scrubland
 ---
-# The ~Lower Hara Valley~
+# The Lower Hara Valley
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -5,7 +5,7 @@ dm_notes: important
 ---
 
 %% notes
-The [[Great War]] left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [[Yuvanti Mountains]] rising to the west, and the new lands of the [[Nayan Floodplains]] emerging from the [[Nevos Sea]]. The [[Nayan Dynasty]] was founded in the west, establishing a new administrative center, [[Nayahar]], on the [[Nayan]] River, and slowly reclaims land as far east as the [[~Karawa Desert~]]. 
+The [[Great War]] left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [[Yuvanti Mountains]] rising to the west, and the new lands of the [[Nayan Floodplains]] emerging from the [[Nevos Sea]]. The [[Nayan Dynasty]] was founded in the west, establishing a new administrative center, [[Nayahar]], on the [[Nayan]] River, and slowly reclaims land as far east as the [[Karawa Desert]]. 
 
 The first 50 years of the [[Nayan Dynasty]] was marked by a series of wars: 
 - The [[Fire War]], against the fire giant [[Mavdyr]] and his allies

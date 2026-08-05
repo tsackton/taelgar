@@ -17,7 +17,7 @@ dm_owner: tim
 > A [[Dunmari]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 on the [[~North Tokra Plains~|plains north of Tokra]], in [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 on the [[Varashan|plains north of Tokra]], in [[Dunmar]] %%^End%%
 
 ![[saka.png|right|350]]
 %% notes
