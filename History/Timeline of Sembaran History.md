@@ -250,7 +250,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1549), summer: The [[Tyrwingha]] [[Oracle of the Riven|Oracles]] elevate Rhys Taffolet to the crown instead of [[Bertram I]]. [[Jane of Tollen]] accepts this decision and does not attempt to force [[Tyrwingha]] to rejoin the Unified Crown.
 - (DR:: 1550), fall: Rumors reach [[Embry]] of orc hordes in [[Vostok]]
 - (DR:: 1550), fall: The Vostok Embassy of 1550 arrives in [[Embry]] and departs with a single company of knights, who never return. High King of Vostok is quietly dropped from [[Bertram I|Bertram's]] title
-- (DR:: 1551), spring: The [[Year of Endless Rain|year]] starts with unseasonable and unending rains, and there is much flooding. 
+- (DR:: 1551), spring: The Year of Endless Rain, when the year starts with unseasonable and unending rains, and there is much flooding. 
 - (DR:: 1551), fall: The [[Blood Plague]] spreads north, killing everything
 - (DR:: 1552), winter: A terrible winter of famine 
 - (DR:: 1552), winter: [[Bertram I]] dies and [[Bertram II]] is crowned with [[Jane of Tollen]] as his regent

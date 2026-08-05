@@ -43,7 +43,7 @@ See [[Northerners]] for more background on this cultural region.
 
 Defined cultures in this region include:
 * The [[Deno'qai]], a pure northerner culture, who [[Tanshi Worship|worship the tanshi]]
-* The [[Zimka]], who are really two cultures with a shared identity: an older, pure northerner strand, the [[~Old Zimka~]] , [[Kestavo|worshippers of the kestavo]], and a newer strand, heavily influenced by the "Sembaran mixing pot", who might be as likely to worship [[Mos Numena]] as the [[Kestavo]]
+* The [[Zimka]], who are really two cultures with a shared identity: an older, pure northerner strand, the Old Zimka , [[Kestavo|worshippers of the kestavo]], and a newer strand, heavily influenced by the "Sembaran mixing pot", who might be as likely to worship [[Mos Numena]] as the [[Kestavo]]
 * The [[Vargaldi]], a pure northerner culture, who [[Zariya|worship the zariya]]
 
 There is certainly humans in the northern part of [[Vostok]], but whether they are essentially another strand of [[Zimka]], closely connected to the southern Vos, or a unique culture is not clear.
