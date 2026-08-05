@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/stub]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: ""}
 campaignInfo:
 name: Lake Pekul
 typeOf: lake
-whereabouts: Kem
+whereabouts: Vostok Plateau
 aliases: [Pekul]
 dm_owner: none
 dm_notes: none

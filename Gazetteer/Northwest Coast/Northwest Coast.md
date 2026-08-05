@@ -45,7 +45,7 @@ darkMode: false
 markerTag: location-source
 ```
 ## Topography and Major Features
-_See more: [[Mawakel Peninsula]], [[Mawar Mountains]], [[Tawir Forest]], [[Erbalta Plains]], [[~North Bay~]]
+_See more: [[Mawakel Peninsula]], [[Mawar Mountains]], [[Tawir Forest]], [[Erbalta Plains]], [[Slate Sea]]
 
 
 
@@ -90,9 +90,9 @@ _See also: [[Places in the Northwest Coast]]
 
 *Needs Development:*  In general the area west of Voltara including the [[Fiatara Mountains]] is weakly developed and would benefit from some historical and cultural development. 
 
-*Intentionally Blank:* The [[Tawir Forest]] and [[~Mawakel Large Island~]] are best left undeveloped, except perhaps in very broad strokes, until a game requires them. The [[~North Bay~]] in general is intentionally blank as is the border with the [[Far North]].
+*Intentionally Blank:* The [[Tawir Forest]] and [[~Mawakel Large Island~]] are best left undeveloped, except perhaps in very broad strokes, until a game requires them. The [[Slate Sea]] in general is intentionally blank as is the border with the [[Far North]].
 
 *Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara.
 
-*Important Places in Staging:* The [[~North Bay~]] and [[Mawar Mountains]] could use names; the [[Nahadi]] river is not well named north of [[Lake Valandros]]. The [[~Mawakel Large Island~]] is totally undeveloped and could use at least a name.
+*Important Places in Staging:* The [[Slate Sea]] and [[Mawar Mountains]] could use names; the [[Nahadi]] river is not well named north of [[Lake Valandros]]. The [[~Mawakel Large Island~]] is totally undeveloped and could use at least a name.
 %%^End%%

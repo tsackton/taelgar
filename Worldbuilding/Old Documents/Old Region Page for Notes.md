@@ -26,11 +26,11 @@
 
   
 
-*Area:* This includes the western coastal region north of the [[Mawakel Peninsula]] including the coasts the large bay north of Mawakel ([[~North Bay~]]), the large headland farther north, and the large unnamed island off the Mawakel Peninsula.
+*Area:* This includes the western coastal region north of the [[Mawakel Peninsula]] including the coasts the large bay north of Mawakel ([[Slate Sea]]), the large headland farther north, and the large unnamed island off the Mawakel Peninsula.
 
   
 
-*Canonical Development and Constraints:* The existence of the [[~North Bay~]] is required by more canonical development of [[Mawakel Peninsula]] and the [[Voltara]] region.
+*Canonical Development and Constraints:* The existence of the [[Slate Sea]] is required by more canonical development of [[Mawakel Peninsula]] and the [[Voltara]] region.
 
   
 
@@ -311,7 +311,7 @@
 
   
 
-*Area:* This region is poorly defined as little geographic development exists, but roughly speaking it includes everything north of the [[~North Bay~]] coast, [[Pandar]], [[Vostok]], and the [[Ket]], and then follows an arbitrary line north of the Green Sea east of [[Ursk]].
+*Area:* This region is poorly defined as little geographic development exists, but roughly speaking it includes everything north of the [[Slate Sea]] coast, [[Pandar]], [[Vostok]], and the [[Ket]], and then follows an arbitrary line north of the Green Sea east of [[Ursk]].
 
   
 

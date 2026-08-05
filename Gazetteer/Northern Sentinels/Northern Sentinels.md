@@ -46,7 +46,7 @@ The information reported here largely derives from the [[Northern Tribes|scatter
 
 There are two major river systems that originate in this region:
 
-- The [[K'eye]] in the local language, and translated by halflings as the Red River, flows from the [[Sentinel Range|Sentinels]] to the [[~North Bay~]]. 
+- The [[K'eye]] in the local language, and translated by halflings as the Red River, flows from the [[Sentinel Range|Sentinels]] to the [[Slate Sea]]. 
 - The [[Zarnato]], as mapped by the Chardonians, flows from its origins in the [[Sentinel Range|Sentinels]] south to [[Lake Valandros]]. 
 ## Civilizations and Cultures
 

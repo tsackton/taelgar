@@ -10,7 +10,7 @@ Note from Tim on Discord:
 Old notes:
 >Also descendants of people who fled Drankorian expansion, seaward. While never formally conquered, these people were much more significantly influenced by Drankor, and adopted Mos Numena albeit with some quirks, retaining a bit of their intercessory heritage with the prevalence of "saints and heroes" as a focal point of prayer among the Mawar. Although politically diverged, this is presumably also related to the culture of the whole "Mawar Bay / Great Bay" area, including the coast west of Voltara and the island off Mawar. Potentially some religious diversity, with northern folk religions also playing a role in some parts of the Mawaran cultural spread (perhaps on the big island or the northern stretches of the Great Bay there is a more pure ancestor worship variant of the tanshi tradition with old roots).
 
-> An alternative might be for Mawar to be, for undefined historically contingent reasons, somewhat unique. I'm not sure it has to be related to the [[~North Bay~]] cultures along the west coast of Voltara. 
+> An alternative might be for Mawar to be, for undefined historically contingent reasons, somewhat unique. I'm not sure it has to be related to the [[Slate Sea]] cultures along the west coast of Voltara. 
 
 > This would leave the Voltaran coast plains and northern parts of the bay not-very-related to Mawar, but I actually think leaving some blanks on the map is a good idea in terms of having places where someone in Voltara or Chardon or Mawar would say there are no people there, as well as places that just no one knows even exist (the big island chain)
 

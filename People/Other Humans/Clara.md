@@ -19,4 +19,4 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:GL%% Met by the [[Silver Tempests]] on August 23th, 1748 in [[Suwi]] %%^End%%
 
-Clara is a teenage girl from [[Suwi]], a coastal village near the [[~North Bay~]]. 
+Clara is a teenage girl from [[Suwi]], a coastal village near the [[Slate Sea]]. 
