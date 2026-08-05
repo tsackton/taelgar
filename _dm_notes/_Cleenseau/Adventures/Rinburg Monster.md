@@ -96,6 +96,8 @@ Treacherous Footing Areas of slippery algae, loose rocks, soft silt that charact
 Toxic Environmental Effects Patches of murky, acidic water that damages, numbing cold waters that reduce dexterity, or areas with magical environmental effects.
 
 ## Images
+
+
 ![[rinburg-lake-1.png]]
 
 ### Map

@@ -81,9 +81,11 @@ Cleenseau itself is a large market town of about 1200 people.
  - ![[remy-darrow.png|left|120]] [[Remy Darrow]], the elderly patriarch of the Darrow family
  - ![[hugh-darrow.png|left|120]] [[Hugh Darrow]], Remy's son, and sturdy with an ax. Helped in the [[Battle Against Wakog]]
  - ![[odo-cordwaner.png|left|120]] [[Odo Cordwaner]], recently discharged from the Army of the West and now the entirely of the Taviose town watch
- - ![[abilgail-moss.png|left|120]] [[Abigail Moss]], one of the few survivors of the once large Moss family, struggling to maintain her family orchard
+ - ![[abilgail-moss.jpg|left|120]] [[Abigail Moss]], one of the few survivors of the once large Moss family, struggling to maintain her family orchard
  - ![[phillipa-northwood.png|left|120]] [[Phillipa Northwood]], the matriarch of the large Northwood family, a woodcutter. Helped in the [[Battle Against Wakog]]
 </div>
+
+
 
 ## Important People in Ganboa
 [[Ganboa]] is the small lizardfolk hamlet along the [[Enst]]

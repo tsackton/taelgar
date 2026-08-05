@@ -13,7 +13,7 @@ dm_owner: none
 ---
 # Devana
 >[!info]+ Biographical Info  
-> A [[Dunmari]] [[Humans|human]] (he/him)  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Mentioned to the [[Dunmar Fellowship]] on March 29th, 1748 %%^End%%
 

@@ -29,7 +29,7 @@ She is friendly to travelers and enjoys speaking and sharing stories with strang
 
 - (DR:: 1747-07-22): The Silver Tempests met Dinia on [[Blacksilver Peak]] while searching for [[Airion's Floating Tower]]. She agreed to guide them if they killed an abominable yeti troubling the mountain. 
 - (DR:: 1747-07-23): Dinia's guidance helped the party cross the glacier and find the approach to Airion's tower. 
-- (DR:: 1747-07-24): After the party recovered the [[Skyborn Scroll]], Dinia again sheltered them and told them more of northern history, including the story of [[Azzan]], [[Worldbuilding/Staging/People/GL/Ikos]], the Great War, and Chardon's abandonment of the Northern Kingdoms after the war.
+- (DR:: 1747-07-24): After the party recovered the [[Skyborn Scroll]], Dinia again sheltered them and told them more of northern history, including the story of [[Azzan]], [[Ikos]], the Great War, and Chardon's abandonment of the Northern Kingdoms after the war.
 - (DR:: 1748-01-12): Dinia discovered that Airion's Floating Tower had vanished after a great storm and strange lights, and sent word to the Silver Tempests. 
 - (DR:: 1748-08-07): Dinia was among the old friends who came to [[Tempest Towers]] for the opening of [[The Hero's Feast]]. 
 - (DR:: 1748-07-16) to (DR_end:: 1748-08-17): Dinia cared for [[Mabist]] after they woke in her cottage without clear memories of their past. When the [[Havoc Host]] attacked, she ordered Mabist to flee through a secret passage.
