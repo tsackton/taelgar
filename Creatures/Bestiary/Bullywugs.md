@@ -34,7 +34,7 @@ However, this invention did not establish much about them beyond their existence
 - [[Blackwater Fens - DM Notes]]
 - [[Nymthrax's Hoard - DM Notes]]
 - [[Great Library - Party Treasure - DM Notes]]
-- [[2025-11-07]]
-- [[2025-11-10]]
+- [[2025-11-07 - Cosmology and Planes]]
+- [[2025-11-10 - Species and Cultures]]
 
 %%^End%%
