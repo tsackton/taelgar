@@ -1,8 +1,8 @@
 The general group around Krauzeth consists of three factions of kobold:
 
-faction A: fiercely loyal to Vraedhul and sees themselves as the guardians of her spawn, will do anything to see him restored and not convinced that she is dead. Leader Tizzit, older matriach, spellcaster. Swore to protect Krauzeth and restore him to his rightful place to Vraedhul as she fled. Has 6 loyal followers.
+faction A: fiercely loyal to [[Vraedhul]] and sees themselves as the guardians of her spawn, will do anything to see him restored and not convinced that she is dead. Leader Tizzit, older matriach, spellcaster. Swore to protect Krauzeth and restore him to his rightful place to [[Vraedhul]] as she fled. Has 6 loyal followers.
 
-faction B: "new men" who are loyal to Krauzeth himself, more interested in loot and safety than restoring the glory of Vraedhul. Leader Krizik, one of three warriors who have pledged themselves to Krauzeth. Individually the three strongest warriors, all three believe Krauzeth is destined for greatness and will do whatever he says. 
+faction B: "new men" who are loyal to Krauzeth himself, more interested in loot and safety than restoring the glory of [[Vraedhul]]. Leader Krizik, one of three warriors who have pledged themselves to Krauzeth. Individually the three strongest warriors, all three believe Krauzeth is destined for greatness and will do whatever he says. 
 
 faction C: the disillusioned, those who would prefer to slink off into the highlands and make their own way, but too scared of Krauzeth to do so. Leader Drubgrak and Vikka, sisters, plus the remaining three kobolds. Drubgrak has wings and believes it is a sign of her wisdom, and will not heed other's advice.
 

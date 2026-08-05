@@ -226,7 +226,7 @@
 [2025-11-02 02:01 PM] rsulfuratus: pushed a schematic map of mostreve (drawn using excalidraw over a screen shot of the map), plus some notes. working on updates to mostreve hills notes more generally, including name candidates
 [2025-11-02 02:06 PM] Deciusmus: here is the full dragon writeup what do you think
     
-    In the aftermath of the Great War, Vraedhul (VRAY-dul), the Burning Shadow, arose from the remains of Cha'mutte, one of the first of his death clutch to awake. Awash in the chaos of Limbo well still in the shell, she was born was a deep affinity for the magic of Limbo. Fleeing east, she settled on the banks of the Nimrathë near a extra-planar weak spot to Limbo.
+    In the aftermath of the Great War, [[Vraedhul]] (VRAY-dul), the Burning Shadow, arose from the remains of Cha'mutte, one of the first of his death clutch to awake. Awash in the chaos of Limbo well still in the shell, she was born was a deep affinity for the magic of Limbo. Fleeing east, she settled on the banks of the Nimrathë near a extra-planar weak spot to Limbo.
     
     Over the years, she learned to manipulate this energy, and her lair grew with her thoughts into a series of jagged hills, with a deep crater bubbling with ash and embers in the center. She learned to craft magic items, and delighted in crafting cursed items and sending them out into the world. Sometimes, the ones she cursed would come seeking her help in removing the curse, and she would, sometimes, for a hefty price in gold and gems.
     
@@ -240,7 +240,7 @@
     River Names:
     Velúrin (veh-LOO-reen) (called Velurino by the Isinguese) flows from Orenleas to lake, means "veiled river" or "shadowed river"
     Nimrathë (NIM-rah-thay) or Naithalë (NY-thah-lay) (called Nimrata by Isinguise or Arianrith by the Tyrwinghans), the river that flows from the foothills where the dragon's lair is
-[2025-11-02 02:08 PM] Deciusmus: (I don't intend to develop what happened to Vraedhul, leaving open the possibility that she is alive somewhere)
+[2025-11-02 02:08 PM] Deciusmus: (I don't intend to develop what happened to [[Vraedhul]], leaving open the possibility that she is alive somewhere)
 [2025-11-02 02:08 PM] Deciusmus: 
 ![[Worldbuilding/Chats and Emails/_assets/discord/image-BC221.png]]
 [2025-11-02 02:11 PM] rsulfuratus: I like it
