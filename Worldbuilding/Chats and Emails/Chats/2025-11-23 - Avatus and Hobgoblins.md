@@ -89,7 +89,7 @@
 [2025-11-23 08:55 PM] Deciusmus: From a worldbuilding perspective, a couple of points...
     
     (a) I have this idea of Wisford as being the "borderlands" of the core Sembaran duchies. The modern Barony of Aveil used to be part of the Duchy of Wisford, basically as a march, same with some of the Borderlands south of the Enst
-    (b) I like the idea of there being a historical Duchy of Brovna and Duchy of Maseau that were effectively destroyed by Avatus that Derik I refounded. Brovna was then destroyed in the Great War, but Maseau was refounded and survived. I eventually want to have my game go to Maseau and I like that it has a rich and complicated history
+    (b) I like the idea of there being a historical [[Duchy of Brovna]] and Duchy of Maseau that were effectively destroyed by Avatus that Derik I refounded. Brovna was then destroyed in the Great War, but Maseau was refounded and survived. I eventually want to have my game go to Maseau and I like that it has a rich and complicated history
 [2025-11-23 08:59 PM] Deciusmus: Secondarily, in my Cleenseau history notes Cleenseau is basically not fortified when Avatus moves in. That actually doesn't have to be canonical, but it might be interesting if for example, the 1360s war results in half of Maseau being conqueored and the rest being forced to submit, i.e. a Vichy France kinda vibe. So Cleenseau doesn't really fortify
 [2025-11-23 09:00 PM] Deciusmus: Maybe Addermarch - unlike Cleenseau - refuses to submit and leads to a longer war in the east than the west.
 [2025-11-23 09:00 PM] rsulfuratus: yeah, i think that vibe makes sense
