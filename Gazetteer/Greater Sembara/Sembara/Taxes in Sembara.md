@@ -56,7 +56,6 @@ The crown retains the right to collect import taxes at certain specific ports of
 ## Profits of Justice
 The lords also receive the profits of justice. This is primarily the fines and fees that must be paid by those found guilty. The lord of the manor (or the city government) receives these profits for the judgement of commoners in the manorial court. The crown receives these profits from the judgement of the peerage in the royal court, and the barons receive the profits of judgement from the baronial courts.
 
-See [[Law in Sembara]] for more information.
 ## Minting of Coins
 The crown also retains a royal monopoly on the minting of coins, and gains some profit from this, although dwarven coins are also in wide circulation. The profit is usually gained from a fee for minting coins, taken from the raw silver or gold provided (seigniorage). Sembara does not usually debase coins.
 

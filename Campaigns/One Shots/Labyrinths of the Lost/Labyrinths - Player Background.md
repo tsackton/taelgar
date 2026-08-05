@@ -16,7 +16,7 @@ As our adventure begins, our heroes are imprisoned in an iron cage, in a dark ro
 
 You should create a 2nd level character for this adventure, using [this D&D Beyond campaign](https://www.dndbeyond.com/campaigns/join/21148053946030910). You'll need a free D&D Beyond account to participate. We will either use Roll20 for battle maps, or the new D&D Beyond Maps feature, to be determined before the first session. We'll use Zoom for voice and video chat.
 ## Character Mechanics
-Details on character creation can be found on the [[Character Creation Guide]] page. An introduction to the world of Taelgar can be found in the [[Player's Guide]]. 
+Details on character creation can be found on the Character Creation Guide page. An introduction to the world of Taelgar can be found in the [[Player's Guide]]. 
 ### Equipment
 You will not start with any equipment beyond the clothes you are wearing (you've been taken captive, and searched). But you won't need to play more than the first part of the first session without gear, so please send me a list of your starting gear so I can put it somewhere for you to find (best is to email me at timsackton at google dot com). 
 

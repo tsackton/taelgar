@@ -290,7 +290,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1646), summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. [[Rinburg]] is occupied, and [[Cleenseau]] and [[Dunfry]] are isolated
 - (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conquerors [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
 - (DR:: 1647): The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
-- (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the [[Earl of Addermarch]] holds the line of the [[Aure]] at the [[Battle of the Aure]]
+- (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the Earl of Addermarch holds the line of the [[Aure]] at the [[Battle of the Aure]]
 - (DR:: 1647), summer: [[Dunfry]] is [[Siege of Dunfry (Third Hobgoblin War)|besieged]].
 - (DR:: 1647), late fall: [[Fellburn]] is [[The Hobgoblin Sack of Fellburn|sacked]]
 - (DR:: 1648), late fall: [[Arryn II]] is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]. His daughter, [[Charlotte II]] is caught in the same attack, but survives for two months before dying of an injury that resisted all magical healing
@@ -299,8 +299,8 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1648), late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of
 - (DR:: 1648), early summer: After a few stalemates, the [[Radiant Alliance]] sweeps across Sembara. [[Rinburg]] and [[Cleenseau]] are liberated and the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]] is broken
 - (DR:: 1648), summer:  [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
-- (DR:: 1649), summer: [[The Maseau Campaign]] pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
-- (DR:: 1650), summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
+- (DR:: 1649), summer: The Maseau Campaign pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
+- (DR:: 1650), summer: The Enford Campaign pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
 - (DR:: 1653): The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] ends
 ## The Peace of Cece
 DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
@@ -316,10 +316,10 @@ Since DR 1713 (1 Robert I)
 
 - (DR:: 1713): [[Cece I]] dies. In Sembara, Robert I is crowned king, but the [[Oracle of the Riven]] [[The Election of Elaine II|elects]] his cousin, [[Elaine II]] the Queen of [[Tyrwingha]]
 - (DR:: 1715), spring: [[Rowena Chemare]], [[Robert I|Robert's]] wife, is murdered by bandits in the [[Aine Hills]] while visiting her family holdings
-- (DR:: 1715), summer: Robert leads the [[Army of the North]] on a [[Robert I's Bandit War|summer campaign]] against bandits in the [[Aine Hills]] and [[Highlands|Sembaran Highlands]]
-- (DR:: 1716), spring: [[Robert I|Robert's]] eldest son, [[Robert of Sewick|Robert]] is infected by a lycanthrope and disappears shortly afterward west of [[Marches of Enford|Enford]] 
-- (DR:: 1717), fall: [[Robert I|Robert's]] daughter, [[Arabella|Arabella of Sewick]] dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children as being passed down to her son.
-- (DR:: 1717), late winter: [[Robert I|Robert's]] younger son, [[Thaddeus of Sewick|Thaddeus]] is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
+- (DR:: 1715), summer: Robert leads the [[Army of the North]] on a summer campaign against bandits in the [[Aine Hills]] and [[Highlands|Sembaran Highlands]]
+- (DR:: 1716), spring: [[Robert I|Robert's]] eldest son, Robert of Sewick is infected by a lycanthrope and disappears shortly afterward west of [[Marches of Enford|Enford]] 
+- (DR:: 1717), fall: [[Robert I|Robert's]] daughter, Arabella of Sewick dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children as being passed down to her son.
+- (DR:: 1717), late winter: [[Robert I|Robert's]] younger son, Thaddeus of Sewick is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
 - (DR:: 1718), early spring: The Royal Council meets over [[Robert I|Robert's]] objections and declares [[Elaine II]] the heir to the Sembaran throne. [[Robert I]] acquiesces, although he vows to remarry and produce a new heir from his body.
 
 %% needs some further development... %%

@@ -27,7 +27,7 @@ In the years after the Blood Years, when labor was scarce, laborhold declined su
 ### Land Registries 
 Land registries exist in most manorial villages and all cities (see below), although in times of trouble records can be lost and recordkeeping can be spotty. The boundaries of manors sometimes shift inadvertently, and occupation on the ground can matter more than a fading legal document. It is generally the responsibility of the baron to hold recorders of the manors within their barony, and the responsibility of the crown to hold records of the baronies outside the six duchies. Each duke, in turn is responsible for baronial registries within their duchies.
 
-There is land court system empowered to hear disputes about property ownership, but access is usually only available to those with extensive holdings. Small land disputes are usually resolved by the local lord.  (See [[Law in Sembara]] for more information on land courts). 
+There is land court system empowered to hear disputes about property ownership, but access is usually only available to those with extensive holdings. Small land disputes are usually resolved by the local lord. 
 
 ### Folkland
 Land registries and deeds do record folkland, mostly to avoid disputes over whether taxes are due. However, the ancient laws of folkland make it difficult to sell to an unrelated stranger. In general, no records are kept or disputes heard about the underlying ownership of folkland, unless there is a claim of theft or other criminal practice, which is heard by the justice system, not the land courts. 
