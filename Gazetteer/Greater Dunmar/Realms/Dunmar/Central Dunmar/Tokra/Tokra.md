@@ -73,7 +73,7 @@ Currently, the palace is used for four purposes:
 
 ### History
 
-Tokra was originally the site of a Drankorian settlement, a river crossing and trade post associated with a pair of forts guarding [[Extraplanar Weak Point|extraplanar weak points]] to the north and south. After the [[First Plague|First Plague]] and the [[Settlement of Dunmar]], was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of administration of the Dharajun. After surviving the [[Great War]] relatively unscathed, Tokra was severely damaged in the [[Fire War]], but rebuilt and became a notable center of administration during the Nayan dynasty. 
+Tokra was originally the site of a Drankorian settlement, a river crossing and trade post associated with a pair of forts guarding [[Extraplanar Weak Point|extraplanar weak points]] to the north and south. After the [[First Plague|First Plague]] and the [[Founding of Dunmar]], was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of administration of the Dharajun. After surviving the [[Great War]] relatively unscathed, Tokra was severely damaged in the [[Fire War]], but rebuilt and became a notable center of administration during the Nayan dynasty. 
 
 - (DR:: 1183): Resettled as a minor outpost by Dunmari settlers
 - (DR:: 1184): The Lakan Monastery is founded slightly to the south of Tokra
