@@ -24,7 +24,7 @@ The [[Dunmar Fellowship]] battles a demonic plant creature, ending its abyssal c
 
 ## Session Info
 
-***The party departs Raven's Hold with a [[Raven's Hold Hoard|number of treasures]].***
+***The party departs Raven's Hold with a [[Raven's Hold Treasure|number of treasures]].***
 ### Summary
 - The [[Dunmar Fellowship]] discovers treasures and clues about gnolls in [[Raven's Hold]], including weapons for an army.
 - [[Delwath]] senses extraplanar energy and they find a summoning circle on a bridge, which births a demonic creature.
