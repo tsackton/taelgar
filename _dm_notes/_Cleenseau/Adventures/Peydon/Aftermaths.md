@@ -10,7 +10,7 @@
 
 **Brigitte "Brick" Charpentier** – A towering, broad-shouldered woman with a broken nose and a thick, scarred forearm from a bad knife fight. She used to work as a carpenter’s apprentice but got kicked out after breaking a man's arm in a tavern brawl. Gareth recruited her for her strength, and she became the gang’s enforcer, collecting debts and roughing up troublemakers. Now that he’s dead, she’s uncertain—does she stay in Peydon and lay low, or take her skills elsewhere?
 
- **Noémie "Nox" Vallier** – A wiry, fast-moving brawler with a shaved head and sharp eyes. She grew up as a poacher and smuggler in the forests around Peydon, always skirting the law. Gareth saw her talent for ambushes and tracking, and she became the gang’s best at tailing people, sneaking into places, and making threats when needed. She never liked the hag, and with both Gareth and the witch gone, she’s trying to decide if Peydon is worth staying in—or if she should disappear before the town turns against the gang’s remnants.
+ **[[Noemie Vallier|Noémie "Nox" Vallier]]** – A wiry, fast-moving brawler with a shaved head and sharp eyes. She grew up as a poacher and smuggler in the forests around Peydon, always skirting the law. Gareth saw her talent for ambushes and tracking, and she became the gang’s best at tailing people, sneaking into places, and making threats when needed. She never liked the hag, and with both Gareth and the witch gone, she’s trying to decide if Peydon is worth staying in—or if she should disappear before the town turns against the gang’s remnants.
 
 ### **Aveline D’Arques - Trade Broker and Merchant Liaison**
 **Personality**: Aveline D'Arques is poised, charismatic, and effortlessly charming, with an almost magnetic ability to connect with others. She speaks with the smooth confidence of someone accustomed to negotiating deals and winning people over. Though she exudes warmth and politeness, there's a calculating edge to her—always assessing the room and the people in it, weighing her next move. Aveline is driven by ambition, and she presents herself as a dedicated servant to the town’s prosperity, though beneath her diplomatic demeanor lies a sharp, self-serving ambition. She is patient, manipulative when necessary, and enjoys having others depend on her expertise and judgment. Beneath her composed exterior, Aveline can be ruthless if it serves her interests.
@@ -79,7 +79,7 @@ Older daughter killed along with her husband and two young children in the Ashec
     
     - A stout and friendly woman in her 50s, with a no-nonsense attitude when it comes to food. She’s been with the family for many years and considers the lord's family her own. Despite the troubles in the household, she’s always eager to provide a warm meal and some comfort to the villagers.
         
-- **Lady’s Maid**: **Béatrice Roisier** (she/her) _[BAY-ah-trees RWAH-zyeh]_
+- **Lady’s Maid**: **[[Beatrice Roisier]]** (she/her) _[BAY-ah-trees RWAH-zyeh]_
     
     - A soft-spoken, elegant woman in her late 20s who has worked for the Daverre family for several years. She is loyal, but her eyes sometimes betray a subtle sense of unease, especially with all the strange events surrounding the household. She often whispers to the ladies of the house, offering advice or comfort in private.
         
