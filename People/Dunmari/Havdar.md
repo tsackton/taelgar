@@ -39,7 +39,6 @@ In the summer of DR 1748, he took on a pivotal role as the chief general to Naya
 
 Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of the Dunmari plains. He has dark, tangled hair and short, scrubby beard. He is usually wearing armor and carrying his spear.
 
-![[havdar.png|500]]
 ## Relationships
 
 - Nayan [[Sura]]: As her chief general and most trusted advisor, Havdar is unwavering in his loyalty to Nayan [[Sura]]. Their bond is strong, and he's fully committed to supporting her claim against her brother, even if it leads to civil war. Havdar first met her when she traveled in the east when he was young, and as a teenager was devastated by the news of her disappearance. He considers her rescue and reappearance a blessing from the gods. 

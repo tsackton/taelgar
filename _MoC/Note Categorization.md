@@ -248,7 +248,7 @@ Accept affiliations:  No.
 Type-specific displayDefaults?  No, but should have one.
 Type-specific header code for website? No, but should have one.
 
-All metadata is required, and more may be added, see: [[session-manifest-schema.json]].
+All metadata is required, and more may be added, see the session manifest json schema.
 
 ## Primary Source
 **Tag: `#source`**
