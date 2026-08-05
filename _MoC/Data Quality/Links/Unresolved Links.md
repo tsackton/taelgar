@@ -186,7 +186,7 @@ This is a static review list of links whose note or attachment target does not e
 
 ## `[[Captain Élodie Dubois]]` — 1 file · 1 occurrence
 
-[[Captain Élodie Dubois]]
+[[Captain Elodie Dubois]]
 
 - [[Groups/Sembaran Army/Army of the West|Army of the West]] — line 31
   > * The River Garrison, commanded by Captain Élodie Dubois

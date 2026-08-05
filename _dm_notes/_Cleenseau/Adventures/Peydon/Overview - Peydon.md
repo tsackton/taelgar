@@ -56,7 +56,7 @@ Noteable places in town:
 #### Scene 5: The Manor House
 **Magistrate Hubert Caillaux** – The town’s lawkeeper, appointed by Lord Émeric. A pragmatic man who enforces the laws selectively—he knows the hag is in charge but pretends otherwise, maintaining a fragile peace. He despises Gareth and is relieved he’s gone, but he fears what the hag might do next
 
-**Lord Émeric Daverre** – The weary and aging lord of Peydon. After the undead attack, he made a desperate bargain with the hag, and it has taken a toll on him—his hair turned white overnight, and he often seems lost in thought. He remains lord in name, but his authority is waning as he avoids conflict and focuses on keeping the town stable. He is protective of his daughter, **Ysabeau**, and quietly fears she is next in the hag’s schemes.
+**Lord [[Emeric Daverre]]** – The weary and aging lord of Peydon. After the undead attack, he made a desperate bargain with the hag, and it has taken a toll on him—his hair turned white overnight, and he often seems lost in thought. He remains lord in name, but his authority is waning as he avoids conflict and focuses on keeping the town stable. He is protective of his daughter, **Ysabeau**, and quietly fears she is next in the hag’s schemes.
 
 **Lady Estelle Daverre**. Emeric's wife. 
 **Lady Odile Daverre** Estelle's wife. 
