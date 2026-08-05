@@ -1,95 +1,183 @@
-# AGENTS.md – Taelgar Obsidian Vault
+# AGENTS.md - Taelgar Obsidian Vault
 
-This document explains how automated agents should work with this vault’s Markdown files.  
-Minimal code lives here; the content itself **is** the product.
+This repository is an Obsidian vault for the homebrew D&D world of Taelgar. Its
+lore, campaign records, and worldbuilding notes are the primary product. It also
+contains scripts, plugins, assets, and session-processing data that may have more
+specialized instructions.
 
----
+These instructions apply throughout the repository unless a more specific
+`AGENTS.md` or applicable task workflow says otherwise.
 
-## 1. What This Repo Is
+## 1. Scope and Approval
 
-- This repository is an Obsidian vault for homebrew D&D world of Taelgar, a D&D 5.5e setting.
-- All content is stored as Markdown notes, typically with YAML frontmatter.
-- Notes are a mix of canonical lore, campaign notes, DM notes, and brainstorming/worldbuilding. 
+Agents may search, inspect, and summarize the vault without modifying it. Do not
+create or edit files without user authorization.
 
-You are here to:
-- Search and summarize existing notes.
-- Clean up or lightly restructure existing content.
-- Create or update notes **only** when explicitly instructed.
+A narrow, targeted instruction is itself approval. Examples include adding a
+specified metadata value, expanding a specified stub, or replacing every instance
+of one specified name with another. Before a broader or interpretive change—such
+as open-ended cleanup, reorganizing a group of notes, or rewriting several notes
+for style—show a compact preview of the files and intended changes and wait for
+explicit approval.
 
-You are **not** here to:
-- Invent new setting details that do not already exist in the vault, unless explicitly instructed. 
+Authorization covers only the described operation:
 
----
+- Touch only the necessary files and sections.
+- A request for ideas does not authorize writing them into the vault.
+- Preserve pre-existing changes outside the task.
+- If the necessary scope becomes materially larger, stop and ask.
 
-## 2a. Golden Rules for Agents
+## 2. Core Rules
 
-1. **Search first, then answer.**
-   - When asked for information, search the vault for relevant notes.
-   - Prefer quoting, summarizing, or reorganizing existing content.
-   - If you cannot find it, say so clearly instead of guessing.
+1. **Search first.** Search relevant notes before answering lore questions or
+   editing content. If the vault does not support a claim, say so.
+2. **Do not invent canon.** Do not add unsupported lore, dates, names, events, or
+   connective explanations. Requested speculation remains noncanonical until the
+   user explicitly adopts it.
+3. **Keep sparse notes sparse.** Match length and certainty to the evidence. One
+   supported fact may justify only one sentence.
+4. **Preserve meaning and uncertainty.** Do not silently strengthen tentative
+   claims, resolve contradictions, or erase narrow exceptions.
+5. **Make the smallest sufficient change.** Do not fix unrelated errors or
+   formatting, even in an edited file.
+6. **Mark AI-edited content notes.** Every content note modified outside
+   `_sessions` must include `status/check/ai` in its YAML `tags`. The only status
+   operation an agent may perform is adding this tag. Never add, remove, or alter
+   `status/stub` or any other status tag; status cleanup requires human review.
+   Support files such as `AGENTS.md`, scripts, and configuration are not content
+   notes.
+7. **Preserve special syntax.** Leave unfamiliar Obsidian constructs, generated
+   blocks, callouts, code, and custom markers unchanged. Report concerns in chat
+   rather than adding an unapproved annotation.
 
-2. **Do not invent canon.**
-   - Do not introduce new lore, dates, names, or events unless the user explicitly asks for speculative ideas.
-   - When filling in gaps, keep speculation clearly marked as such (see `%%` comments below).
+## 3. Source Authority and Uncertainty
 
-3. **Always mark AI edits.**
-   - Any note you modify outside `_sessions` must be tagged with `status/check/ai` in its YAML frontmatter (see Section 5). Edits to notes in `_sessions` do not require this tag. However, you should *never* add other status tags to any notes you modify.
+| Source                         | Treatment                                                                                                                                                  |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Canonical reference notes      | Strongest lore authority when not marked for review, but still capable of rare uncaught errors.                                                            |
+| `Primary Sources`              | Canonical as in-world documents or artifacts; their claims may be incomplete, biased, or mistaken.                                                         |
+| Campaign and session records   | Evidence of events and of what characters experienced, observed, learned, or believed; not automatically omniscient truth.                                 |
+| `Worldbuilding`                | Development material, not canon unless separately adopted into a canonical note.                                                                           |
+| `_DM_` and `_dm_notes`         | Private DM or meta material that may be secret, tentative, or speculative. Do not expose it in player-facing prose without direction or canonical support. |
+| `_MoC`                         | Authoritative for vault structure, metadata, and editorial conventions, not setting lore.                                                                  |
+| `%%` comments                  | Meta, uncertain, or speculative; noncanonical by default.                                                                                                  |
+| `status/check/*` material      | Lower-confidence material requiring human review.                                                                                                          |
+| `status/gameupdate/*` material | The information in this note might have been superseded or impacted by game events that are not captured in the note.                                      |
 
-4. **Do not edit unrelated files.**
-   - Do not revert or modify any pre-existing uncommitted changes; only touch files you have been instructed to work on. If you think something should be reverted, ask first.
+These are defaults, not guarantees of correctness. When sources conflict:
 
----
+- Do not choose one merely because it is easier to write.
+- Preserve relevant uncertainty in the prose.
+- During an approved edit, add a precise `%%` comment near the affected passage
+  naming the conflict and sources.
+- Report the inconsistency to the user for human review.
 
-## 2b. Common Task Defintions
+## 4. Standard Workflow
 
-You will often be asked to perform the following tasks:
+Before editing:
 
-(1) Expand a stub:
+- Read the complete target note, including frontmatter and comments.
+- Check for and preserve pre-existing changes to the target.
+- Before changing metadata, review [[Note Categorization]] and
+  [[Metadata Specification]].
 
-If asked to expand one or more "stub" notes into a full note, follow this procedure:
-- Search the vault for information relevant to the target note
-- Match the length of the note to the amount of information actually present in the vault. If there is only one fact, write one sentence. If there is extensive source material, a longer note is appropriate.
-- Do not pad sparse notes with campaign recap, atmospheric prose, or repeated context. Short notes are acceptable and often preferred.
-- Add text to the note, following section 2c. Canon and Style Guide. Be sure to properly use DM Notes sections and comments. 
-- Use sensible markdown headers if needed; if given a template to follow, follow the style of the template exactly
-- If there is minimal information about the target, write what is possible without invention and indicate with a comment (`%%` - see below) that minimal information was available. 
-- Mention campaign events only when they are directly relevant to identifying or understanding the subject. Keep those mentions brief, and link to the session note with a useful alias, e.g. `[[Great Library Session Notes - Arc 4|the Suwi investigation]]`.
-- Always highlight contradictions or inconsistencies in source material for review
-- Always include links to source notes used. Links should be wiki-style `[[]]`, pointing to the file name without the `.md` extension or path. 
+### Search guidance
 
-(2) Reformat a note:
+- Search filenames first, then `name`, `aliases`, spelling or diacritic variants,
+  and both sides of aliased wikilinks. Search literal text before broadening
+  case-insensitively, and collision-check proposed names.
+- Start with likely canonical sources, then broaden deliberately to campaign and
+  session records, `Primary Sources`, `Worldbuilding`, and DM material.
+- For metadata, search anchored frontmatter fields rather than ordinary prose.
+- Do not count repeated session artifacts as independent evidence; use the
+  applicable workflow's finalized source of truth.
+- Read the full note and surrounding passage before relying on a match. Before
+  reporting that nothing was found, check filenames, metadata names and aliases,
+  variants, backlinks, and likely session sources, then report the search scope.
+- For vault-wide corrections, search filenames and every relevant format,
+  including transcripts, JSON, and YAML; exclude `.git` and use path-safe
+  operations.
 
-If asked to reformat or clean up a note, follow this procedure:
-- Take the existing text and rewrite it for clarity, conciseness, and detail, potentially changing headers
-- Insert the old text in comments (`%%` tags) in relevant sections, so the human reviewer can see the source material
-- Then, follow the "Expand a stub" procedure, but focus only on adding new information. Do not add redundant sections to an existing note.
+While editing:
 
-(3) Clean up a blank or staging note:
+- Change only the approved files and sections.
+- Preserve user-authored text outside the requested scope.
+- Do not move files or change link targets unless required by the task. 
+- Never rename files. If the user requests to rename a note, change the metadata `name` field but not the filename. 
+- For an exact field or section change, make only that change plus the required
+  `status/check/ai` addition.
 
-Blank notes and notes in `Worldbuilding/Staging` are often placeholders. When cleaning them up, aim for a quick bio or place reference, not a campaign recap.
-- If the vault contains only minimal information, write a minimal note: usually one or two sentences.
-- If the staging note exists only because an entity was mentioned in a session, identify the entity and the useful context, then stop.
-- Prefer visible text that answers "what is this?" over text that retells "what happened in the session?"
-- Put uncertainty, proposed names, unresolved filing questions, and source limitations in `%%` comments, not in the canonical text.
+After editing:
 
----
+- Re-read every changed file in full.
+- Confirm frontmatter occurs once at the top and parses as YAML.
+- Check edited tags, classification fields, special syntax, and wikilink targets.
+- Review the complete diff and run a scoped `git diff --check`.
+- Do not broaden the task to fix unrelated or pre-existing findings. Ignore
+  harmless end-of-file-only whitespace differences.
 
-## 2c. Canon and Style Guide
+For an exact vault-wide replacement, inspect the match set first, use path-safe
+operations, and verify both the replacements and any remaining matches afterward.
 
-This repository contains speculation, DM notes, and canonical information about Taelgar. 
-- Files in directories that start with an underscore (e.g., `_DM_`, `_dm_notes`) are DM information or meta information about the vault itself. DM information can be useful, but should be treated as speculative or brainstorming unless supported by information from elsewhere. 
-- Files in the Worldbuilding directory are explicitly brainstorming and should be treated as useful source material, but not necessarily canonical
-- Files in other directories are considered canon, unless they have a status tags that suggest errors or unreviewed AI text (e.g., status/check/errors, status/check/ai)
-- Information in commnets (`%%`) is always meta or speculative, though it can inform useful context. 
+## 5. Common Tasks
 
-Note are always written in the style of a player-facing, in-world encyclopedia. Stick to a professional tone with a complete in-world focus. 
+### 5.1 Expand a stub
 
-Write clearly and directly. Avoid circumlocutions like "it is said that" or "are said to" unless you are specifically citing an in world source. Treat general world knowledge as plain fact.
+- Search the vault for evidence about the subject.
+- Add to existing text rather than replacing it unless rewriting was requested.
+- Match the note's length to the evidence; do not pad it with atmosphere,
+  repeated context, or a campaign recap.
+- Follow the appropriate existing note or template.
+- Mention campaign events only when they identify or explain the subject. Keep
+  the mention brief and link the relevant session note with a useful alias.
+- Flag contradictions rather than resolving them.
+- If evidence is minimal, write a minimal factual note and add a concise `%%`
+  comment explaining the source limitation.
 
-Use comments (`%%`) to include meta information, such as context for information or other DM-facing notes. 
-Notes can optionally have a DM notes or meta section at the end, formatted like so:
+### 5.2 Reformat or clean up a note
 
-```
+- Rewrite only the approved scope for clarity and concision while preserving
+  meaning, uncertainty, and factual boundaries.
+- Add detail only from vault sources.
+- Preserve existing structures unless changing them is part of the task.
+- Do not copy all replaced prose into comments by default; Git history preserves
+  it. Retain particular wording in `%%` comments only when it contains ambiguity
+  or nuance that the rewrite cannot safely carry forward.
+
+If the user explicitly asks to preserve the existing text for review, preserve
+**all** pre-edit note body text in `%%` comments, excluding YAML frontmatter. This
+exception supports large rewrites where old and new prose must be visible together.
+
+### 5.3 Clean up a blank or staging note
+
+- Aim for a quick reference, not a campaign recap.
+- When evidence is sparse, answer "What is this?" in one or two factual sentences.
+- If the subject appears only in a session, identify it and give only useful
+  context.
+- Put uncertainty, proposed names, filing questions, and source limitations in
+  `%%` comments.
+- Do not promote staging material into canon or move it without explicit
+  instruction.
+
+## 6. Content and Obsidian Conventions
+
+### 6.1 Voice
+
+Canonical lore and reference notes use a professional, player-facing, in-world
+encyclopedia style. Write directly. Avoid "it is said that" unless attributing a
+claim to a particular in-world source; express genuine uncertainty precisely.
+
+Campaign records, Worldbuilding notes, `_DM_`, `_dm_notes`, `_MoC`, and repository
+documentation follow their own established purpose and style.
+
+### 6.2 Comments and speculation
+
+Use `%%` comments for uncertainty, editorial context, source limitations, and
+human-review notes. Do not place established canonical prose inside comments.
+
+For substantial DM or meta material, use:
+
+```markdown
 %%^Campaign:none%%
 
 (content)
@@ -97,200 +185,100 @@ Notes can optionally have a DM notes or meta section at the end, formatted like 
 %%^End%%
 ```
 
-Prefer `%%` comment blocks for brief asides; prefer %%^Campaign:none%% blocks for longer text, and especially for text that would benefit from headers. 
+Brainstorming stays in chat unless the user asks to write it. Put visible
+speculation in a Worldbuilding or other explicitly noncanonical context unless
+directed otherwise, with this marker immediately before it:
 
----
-
-## 3. Markdown & Obsidian Conventions
-
-- **File format**
-  - All notes are `.md`.
-  - Obsidian-style links: `[[Note Name]]` or `[[Note Name|alias]]`.
-- **Headings**
-  - Use `#`, `##`, `###` etc. Maintain existing heading hierarchy.
-- **Internal links**
-  - Do not change link targets unless explicitly asked.
-  - Do not rename files, as this may risk breaking links.
-- **Special syntax**
-  - Keep any callouts, code blocks, or custom inline markers as-is unless the user specifically requests changes.
-
-If you’re unsure what a construct does, leave it alone and annotate with a `%%` comment rather than altering it.
-
----
-
-## 4. YAML Frontmatter Conventions
-
-Most notes start with YAML frontmatter, for example:
-
-```yaml
----
-headerVersion: 2023.11.25
-tags: [person]
-species: human
-born: 1728
-gender: female
-ancestry: Chardonian
-whereabouts: Chardon
-dm_notes: none
-dm_owner: none
----
+```markdown
+%% Speculative ideas generated by AI at user request; not canon. %%
 ```
 
-**Frontmatter fields**
+### 6.3 Links and sources
 
-Frontmatter conventions are defined in these notes, stored in `_MoC`
-- Note Categorization
-- Metadata Specification
+- Use `[[Note Name]]` or `[[Note Name|alias]]`, normally without a path or `.md`.
+- Check for filename collisions rather than creating an ambiguous link.
+- Link sources naturally in the prose when useful to the reader.
+- If relevant sources do not fit naturally, list only those additional links in
+  a hidden block:
 
-Please review these notes before updating frontmatter and conform to conventions. 
-
-
-**Frontmatter style**
-- prefer compact one-line format for YAML lists; EXCEPTION: use multi-line lists for lists of dictionaries. 
-- always format dictionaries as single-line entries with {}
-- prefer to place commonly edited entries, such as whereabouts, dm_notes, dm_info, campaignInfo at the bottom of the yaml frontmatter
-- headerVersion and tags should always be the first two yaml entries
-
----
-
-## 5. AI Edit Tagging: status/check/ai
-
-Any time an automated agent modifies a note outside `_sessions`:
-
-- Ensure the note has YAML frontmatter.
-- Ensure it includes the tag status/check/ai.
-
-Notes under `_sessions` are exempt from this requirement and do not need the `status/check/ai` tag added solely because an automated agent edited them.
-
-Examples:
-
-Existing tags, inline:
-
-`tags: [place, status/stub]`
-
-becomes:
-
-`tags: [place, status/stub, status/check/ai]`
-
-
-No tags present:
-
-```
----
-headerVersion: 2023.11.25
----
+```markdown
+%% Sources:
+- [[Additional Source Note]]
+- [[Another Source Note]]
+%%
 ```
 
-becomes:
+- Omit the block when all relevant sources are linked naturally.
+- If the user requests a complete source list, include every source in the block,
+  including notes already linked in the prose.
+- Preserve existing headings, links, callouts, embeds, code blocks, and custom
+  markers unless the task specifically changes them.
 
-```
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-```
+### 6.4 Frontmatter
 
-Never remove status/check/ai yourself; that is reserved for human review.
+[[Note Categorization]] and [[Metadata Specification]] are authoritative. Follow
+these general rules:
 
----
+- Frontmatter appears once, at the beginning of the file.
+- Preserve an existing `headerVersion`; do not manually update it. Use the current
+  appropriate template for a new note.
+- `headerVersion` and `tags` are the first two fields when present.
+- Use compact one-line lists except for lists of dictionaries; format each
+  dictionary entry on one line with `{}`.
+- Keep commonly edited fields such as `whereabouts`, `dm_notes`, `dm_info`, and
+  `campaignInfo` near the bottom.
+- Use `species` as the primary classification field for a person and the
+  documented `typeOf` for non-person subjects when classification is required.
+  Do not introduce `subTypeOf` as a substitute.
+- Add metadata only when supported by evidence or required by the template.
+- Add `status/check/ai` to edited content notes outside `_sessions`. If another
+  status tag appears wrong or obsolete, report it instead of changing it.
 
-## 6. %% ... %% Comment Conventions
+## 7. Specialized and High-Risk Work
 
-`%%` marks Obsidian comments that are visible in the editor but not in preview.
-Agents use these for meta-notes, uncertainties, and minimal extractions.
+- **`_sessions`:** These files are exempt from `status/check/ai` and may have
+  strict preservation or pipeline requirements. Follow the applicable session
+  workflow and its stated source of truth. Do not normalize generated artifacts,
+  line identifiers, speaker order, or structured data unless required.
+- **Scripts and plugins:** Content-writing rules do not replace code-specific
+  engineering instructions for `_scripts`, `.scripts`, or `.obsidian/plugins`.
+  Authorization, narrow scope, preservation of unrelated changes, and validation
+  still apply.
+- **High-risk operations:** Bulk moves or renames, deletion, large-scale
+  restructuring, multi-note stylistic rewrites, collection-scale note creation,
+  and merging apparently similar entities require explicit scope. An exact
+  mechanical replacement of specified text is targeted work, not an open-ended
+  rewrite.
 
-### 6.1 General Rules
+## 8. Minimal Note Example
 
-Use `%%` for:
-- Uncertain information.
-- Meta commentary about how the note was created/edited.
-- TODOs or follow-up work for the human author.
-
-Do not put new canonical lore inside %%; anything in %% is non-canonical by default.
-
-### 6.2 When Extracting Minimal Information
-
-When you only have a tiny amount of information (e.g., from a transcript or partial reference):
-
-Create a very small, factual stub:
-
-A name.
-
-A one-line description strictly based on what’s in the source.
-
-Add a `%%` block at the top or near the relevant section explaining the limitation.
-
-Example stub note:
+This current person-note example is illustrative; use current templates and
+source evidence rather than copying it blindly.
 
 ```markdown
 ---
+headerVersion: 2023.11.25
 tags: [person, status/check/ai]
-type: person
+name: Szoltár
+species: hobgoblin
 ---
-
 # Szoltár
 
-Szoltár is a hobgoblin warrior who fought in the army of the [[Empress of Chaos]]. 
+Szoltár is a hobgoblin warrior of the [[Iron Fang]].
 
-%% Minimal details invented; based on session transcript only %%
+%% AI note: This minimal example uses [[Session 129 (DuFr)]] as its source. A real
+edit requires a complete vault search. %%
 ```
 
-For uncertainty in an existing note:
+The sentence is sourced; the comment records the evidence limitation without
+suggesting that details were invented.
 
-%% AI note: The following summary is based only on currently available notes.
-   If more detailed lore exists elsewhere, this section should be reviewed and expanded by a human. %%
+## 9. Final Checklist
 
-### 6.3 Marking Speculation
-
-If the user explicitly asks for speculative content or ideas:
-
-Clearly mark it:
-
-%% Speculative ideas generated by AI at user request. %%
-
-Do not mix speculative text and established lore without such a marker.
-
----
-
-## 7. Typical Tasks for Agents (Markdown Only)
-
-When working in this repo, you are generally allowed to:
-
-- Summarize existing notes into shorter reference sections.
-- Normalize formatting (headings, bullet lists, spacing) while preserving content.
-- Add missing frontmatter fields or tags, especially status/check/ai for notes outside `_sessions`.
-
-Create stub notes for entities that appear in other notes but lack their own pages, using:
-- Only facts present in the vault.
-- `%%` comments to flag that the stub is incomplete.
-
-Treat these as patterns, not hard rules; when in doubt, prefer less change and add a `%%` note.
-
----
-
-## 8. Operations to Avoid (Without Explicit Instruction)
-
-Do not perform the following unless the user explicitly tells you to, and even then, proceed carefully:
-
-- Bulk renaming or moving notes.
-- Large-scale restructuring of headings across many files.
-- Deleting any notes or sections.
-- Rewriting long passages of lore “for style” without a clear request.
-- Collapsing or merging distinct entities because they “seem similar.”
-
-If you think such a change is needed, add a `%%` comment suggesting it rather than doing it.
-
----
-
-## 9. Quick Checklist for Any Edit
-
-Before you finish editing a file:
-
-- Did you search the vault for relevant existing content?
-- Did you avoid inventing new canon, except where explicitly requested?
-- If you added speculative or incomplete material, did you wrap it in `%%` with a clear explanation?
-- If the edited note is outside `_sessions`, does its YAML frontmatter include status/check/ai?
-- Did you keep the change as small and reversible as possible?
-- When checking `git diff`, ignore minor end-of-file-only whitespace differences, such as an extra or missing final newline or extra or missing whitespace at the very end of the file. Do not make follow-up edits solely to normalize those EOF differences.
-
-If all answers are “yes,” your edit is likely acceptable.
+- The exact scope was authorized or the broader preview approved.
+- Relevant sources were searched; contradictions were preserved and reported.
+- No unsupported canon or certainty was introduced.
+- Unrelated prose and special syntax were preserved.
+- Required `status/check/ai` tags were added; no other status tag changed.
+- Frontmatter, classifications, and edited links were validated.
+- The final diff contains only intended changes.
