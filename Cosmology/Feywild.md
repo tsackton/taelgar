@@ -91,7 +91,7 @@ Specifically on Tyrwingha:
 Some relevant sources:
 - [[On the Creation and Destruction of Extra-Material Realms]]
 - [[Letter from the Oracle of the Red to the Mostreve Warlocks]]
-- [[Playing a Fey]]
+- [[Playing a Fae]]
 ### Geography
 
 The Feywild is a place of strange magic and deep emotion. Some basic facts of the layout and workings of the plane are detailed here:

@@ -34,14 +34,14 @@ The city walls are shaped like a bean, running north, then curving east before t
 
 Three paths lead through the town:
 * A narrow dirt track (known as [[Char Street]]) runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
-* A paved road ([[Market Road]]) leads from east to west, between the [[Market Gate]] and the [[North Gate]], and divides the [[North Close]] from the [[Garrison Quarter]] and [[Underhill]]
+* A paved road ([[Market Road]]) leads from east to west, between the [[Market Gate]] and the [[North Gate of Cleenseau|North Gate]], and divides the [[North Close]] from the [[Garrison Quarter]] and [[Underhill]]
 * A narrow track ([[Underhill Way]]) along the edge of the raised [[Essford Manor]] provides a shortcut from south to north
 
 In the center of the town, the [[Essford Manor]] stands on an acre of raised land surrounded by its own wooden palisade.
 
 Outside [[Essford Manor]] is a [[large plaza]] where the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] stands. There are three other holy places in the town: a [[shrine to the Night Queen]] inside [[Essford Manor]], an unusual [[shrine to the Wanderer]] along the banks of the Enst, sponsored by [[Selma Wisthelwind]] and with many characteristics of a [[Kestavo|kestavan]] shrine, and a [[shrine to the Father]] inside the garrison. The plaza is also home to a large fountain and cistern, feed from the [[Enst]] by a series of pipes. A further pipe system brings running water to some of the richer houses in the [[South Close]], including the [[Essford Manor]] and the [[The Crossroads Inn]]. 
 
-There are four gates into the walled city: the [[North Gate]], the [[Market Gate]] (in the east), the [[Garrison Gate]] (in the east, opening to the garrison  itself), and the [[River Gate]] (in the south, the main gate). All the gates are barred at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [[Army of the West]], per the order of the [[Essfords|Essfords]]. (There is no standing law in [[Sembara]] preventing commoners from carrying weapons).
+There are four gates into the walled city: the [[North Gate of Cleenseau|North Gate]], the [[Market Gate]] (in the east), the [[Garrison Gate of Cleenseau|Garrison Gate]] (in the east, opening to the garrison  itself), and the [[River Gate of Cleenseau|River Gate]] (in the south, the main gate). All the gates are barred at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [[Army of the West]], per the order of the [[Essfords|Essfords]]. (There is no standing law in [[Sembara]] preventing commoners from carrying weapons).
 
 On the south bank of the Enst, across the bridge, stands a large [[Ruined Fort (Cleenseau)|ruined garrison]], the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the [[Istabor Alliance]] and [[Sembara]]. 
 

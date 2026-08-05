@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-displayDefaults: {endStatus: killed in battle, dPast: "<endstatus:U> by [[The Heroes of Cleenseau]] on <enddate>"}
+displayDefaults: {endStatus: killed in battle, dPast: "<endstatus:U> by [[Heroes of Cleenseau|The Heroes of Cleenseau]] on <enddate>"}
 species: ogre
 gender: male
 died: 1719-12-06
