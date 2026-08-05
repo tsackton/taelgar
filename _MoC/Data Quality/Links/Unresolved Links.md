@@ -8,9 +8,9 @@ tags: [status/check/ai]
 
 This is a static review list of links whose note or attachment target does not exist. The live target beneath each heading is intentionally clickable so the missing note can be created directly. This report is excluded from the audit source set, so those convenience links do not affect later counts.
 
-- **82** unresolved targets: **79** notes and **3** attachments
-- **111** occurrences across **57** source files
-- **4023** source notes scanned; raw and generated processing material excluded
+- **62** unresolved targets: **59** notes and **3** attachments
+- **83** occurrences across **45** source files
+- **4037** source notes scanned; raw and generated processing material excluded
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted
 
@@ -58,8 +58,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Sembarans/Nicholas the Beggar|Nicholas the Beggar]] — line 25
   > …a beggar who lived in the ramshackle Beggar's Way outside of Cleenseau. His body was found in the Cleansing of the Ettercap Lair by Najeer, Izgil, Robin, and Celyn. He was believed to have been killed by spider's on or around October 14th.
 
-
-
 ## `[[Empress Kylanthe]]` — 1 file · 1 occurrence
 
 [[Empress Kylanthe]]
@@ -80,8 +78,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Campaigns/Cleenseau Campaign/Cleenseau Campaign - Index of NPCs|Cleenseau Campaign - Index of NPCs]] — line 10
   > The Essford family have been the lords of the Manor of Cleenseau for 70 years, since Reginald Essford was granted the manor as a reward for his service in the hobgoblin wars. They are the most prominent nobles in the region, and despite hav…
-
-
 
 ## `[[Hkaran Urban Culture]]` — 1 file · 1 occurrence
 
@@ -118,13 +114,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Groups/Sembaran Army/Army of Mostreve|Army of Mostreve]] — line 26
   > * the Maerwyn Garrison, in the southern Maerwyns
 
-## `[[Mahaut]]` — 1 file · 1 occurrence
-
-[[Mahaut]]
-
-- [[Campaigns/Cleenseau Campaign/Letters and Other Writings/Letter from Mahaut to Celyn|Letter from Mahaut to Celyn]] — line 5
-  > # Letter from Mahaut to Celyn
-
 ## `[[Mariner Exodus]]` — 1 file · 1 occurrence
 
 [[Mariner Exodus]]
@@ -138,7 +127,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[People/PCs/Into the Chasm/Chasm Explorers|Chasm Explorers]] — line 24
   > Jrain Fanlish, a traveler, messanger, and sometimes member of the Mezhai.
-
 
 ## `[[North Watch]]` — 1 file · 1 occurrence
 
@@ -161,12 +149,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 66
   > The one bandit left standing — Pierrot — turns to Viepuck-as-Gareth, clearly trying to figure out if he's going to help or what, and Viepuck says, "I got a better deal". We try to get Pierrot to give more information - Celyn standing there…
 
-## `[[Political Organization of Sembara]]` — 1 file · 1 occurrence
-
-[[Political Organization of Sembara]]
-
-- [[Gazetteer/Greater Sembara/Tyrwingha/Political Organization of Tyrwingha|Political Organization of Tyrwingha]] — line 12
-  > Unlike in Sembara, where the manor is the main unit of political organization, Tyrwingha is fundamentally organized, from the bottom, around the village, and from the top, around the earls.
 
 ## `[[Recapture of Cleenseau (Third Hobgoblin War)]]` — 1 file · 1 occurrence
 
@@ -196,34 +178,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[_DM_/Timelines/Old Timeline (Table)|Old Timeline (Table)]] — line 184; 6 occurrences in this file
   > …the metaphysics of other planes and Agata Dustmother with Tharandros. Decide to travel east with Havdar. | | Celestial meteor crashes in Yuvanti mountains. ROA | Fraternity of the Empty Moon arrives in Tokra, begins to set up secret lair. |
 
-## `[[Robert Sonneboar]]` — 1 file · 1 occurrence
-
-[[Robert Sonneboar]]
-
-- [[Gods and Religions/Holidays and Festivals/Festival of the Bridge|Festival of the Bridge]] — line 12
-  > …in Cleenseau and the surrounding towns. It commemorates an ancient miracle when a single patrol of guards, led by a blessed priest of the Warlord, Robert Sonneboar, held the bridge for three days against a orc horde without reinforcements.
-
-## `[[Roland Vaissier]]` — 1 file · 1 occurrence
-
-[[Roland Vaissier]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 30
-  > …Hag (or at least terrified into exclusively doing her bidding). The guardsman - Roland - asks Robin if he'll come along, and the party makes their way down, though Celyn vanishes into the crowd and moves stealthily because he's of the opini…
-
-## `[[Samuel Cordwander]]` — 1 file · 2 occurrences
-
-[[Samuel Cordwaner]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 24; 2 occurrences in this file
-  > …epuck works as a "telegraph machine," gathering intelligence and contacting allies. Samuel Cordwander, Odo's younger brother, is found and escorted to safety by Estiasilos. Gareth's interrogation reveals information about the Midnight Lady.
-
-## `[[Samuel Cordwaner]]` — 1 file · 1 occurrence
-
-[[Samuel Cordwaner]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 58
-  > …e could help with and how) and tracking down our friend Odo's teenaged brother, Samuel Cordwaner, previously presumed dead, but now hiding in the local hills and afraid to come out because he fled there from zombies and zombies are alarming…
-
 ## `[[Selestat]]` — 1 file · 1 occurrence
 
 [[Selestat]]
@@ -231,12 +185,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Gazetteer/Greater Sembara/Sembara/Barony of Aveil/Aveil Ridge|Aveil Ridge]] — line 20
   > …hobgoblin wars and as a source of tin. There are two tin mines in the northern slopes of the ridge, controlled by the Duchy of Wisford. The Aveil Road runs from the mining town of Sélestat in the north side of the ridge to the Wistel river.
 
-## `[[Serelys]]` — 1 file · 1 occurrence
-
-[[Serelys]]
-
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 120 - DM Notes|Session 120 - DM Notes]] — line 222
-  > Serelys is **eager, welcoming, forward—almost too much so**. She **seeks out newcomers the moment she senses them**. If the party **hesitates to approach Lord Soven**, **she will find them first**, appearing **suddenly, but as though she’s…
 
 ## `[[Settlement of Dunmar]]` — 1 file · 1 occurrence
 
@@ -273,19 +221,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Cosmology/Material Plane|Material Plane]] — line 26; comment
   > …Spelljammer vibe is not very compatible with Taelgar. The celestial bodies (the Sun, the Moon, and the Stars) obviously exist, and largely are similar to our world (there are not two moons or anything like that) but what they actually are i…
 
-## `[[Sunset Thread]]` — 1 file · 2 occurrences
-
-[[Sunset Thread]]
-
-- [[Campaigns/Dunmari Frontier Campaign/Session Notes/Session 65 (DuFr)|Session 65 (DuFr)]] — line 29; 2 occurrences in this file
-  > - Seeker bargains with Lady Eventide, trading a streak of his hair's color for a Sunset Thread to aid in crossing Lastlight Falls.
-
-## `[[Susanna]]` — 1 file · 1 occurrence
-
-[[Susanna]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16|Cleenseau - Session 16]] — line 40
-  > - **Susanna** – innkeeper in Maudorville, desperate to find her missing daughter
 
 ## `[[The Exodus of the Dunmari]]` — 1 file · 1 occurrence
 
@@ -294,19 +229,7 @@ This is a static review list of links whose note or attachment target does not e
 - [[People/Historical Figures/Asuddha|Asuddha]] — line 23
   > Born before the The Exodus of the Dunmari from their ancestral homelands in the south.
 
-## `[[The Maseau Embassy of 1590]]` — 1 file · 1 occurrence
 
-[[The Maseau Embassy of 1590]]
-
-- [[History/Timeline of Sembaran History|Timeline of Sembaran History]] — line 281
-  > - (DR:: 1590): The Shattered Ice Clan launches significant raids across Maseau, which sends an embassy to Sembara for aid
-
-## `[[The Mindknife War]]` — 1 file · 2 occurrences
-
-[[The Mindknife War]]
-
-- [[History/Timeline of the Mawar|Timeline of the Mawar]] — line 40; 2 occurrences in this file
-  > - (DR:: 1675): The Mindknife War begins in Mawar
 
 ## `[[Tibault the Butcher]]` — 1 file · 1 occurrence
 
@@ -315,12 +238,6 @@ This is a static review list of links whose note or attachment target does not e
 - [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24|Cleenseau - Session 24]] — line 64
   > …ecry and misses Celyn, but the guy with the boar spear that Celyn didn't spot — Tibault — stabs him successfully. Viepuck drops a sleep spell and takes out Tibault, so Celyn, whose patience is also worn thinner than gossamer, teleports off…
 
-## `[[Timeline of Skaer History]]` — 1 file · 1 occurrence
-
-[[Timeline of Skaer History]]
-
-- [[History/History of Greater Sembara|History of Greater Sembara]] — line 34
-  > …, and cover the modern areas of: Sembara, Maseau, Addermarch, Tyrwingha, and Ardlas. The Skaer Empire has largely faded away (but see Timeline of Skaer History), and there are several human cultures within and outside the Drankorian Empire:
 
 ## `[[Treaty of Châteauclair]]` — 1 file · 1 occurrence
 
@@ -356,20 +273,6 @@ This is a static review list of links whose note or attachment target does not e
 
 - [[Gazetteer/Major Rivers/Istaros Watershed/Naithale|Naithale]] — line 26
   > For many years after the Great War, the red dragon Vraedhul had a lair in the southern reaches of the Naithalë and smoke and steam would rise from the waters. The lair was destroyed in 1720 during the War of the Ashen Horde by unknown force…
-
-## `[[Wand of the Witch's Curse]]` — 1 file · 4 occurrences
-
-[[Wand of the Witch's Curse]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23|Cleenseau - Session 23]] — line 57; 4 occurrences in this file
-  > The item she wants? A particularly nasty magical item that we got when we killed Areschera: the Wand of the Witch's Curse. It creates lightning. (And the winds blow towards personal risk.)
-
-## `[[Wand of the Witches Curse]]` — 1 file · 2 occurrences
-
-[[Wand of the Witch's Curse]]
-
-- [[Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 20|Cleenseau - Session 20]] — line 37; 2 occurrences in this file
-  > …d likely to be intended to hold the magic items we looted off the dead fairy (a blatantly evil wand, a brooch that appears to not be magical, a rose that appears to be lightly smouldering, some rings (some of which belong to the Barony, whi…
 
 ## `[[Wickerley]]` — 1 file · 1 occurrence
 
