@@ -79,7 +79,7 @@ Although most of the hirelings, crew, and followers associated with the [[Dunmar
 
     ---
     ![[adam-gower.jpg|120]]
-    A [[Tollender|Tollen]] factor and agent, with a history of working for the [[Goodbarrels]]. Now serves as the [[Dunmar Fellowship]]'s representative in Tollen, managing trade goods and contracts. Based in [[Tollen]]. 
+    A [[Tollen]] factor and agent, with a history of working for the [[Goodbarrels]]. Now serves as the [[Dunmar Fellowship]]'s representative in Tollen, managing trade goods and contracts. Based in [[Tollen]]. 
 
 </div>
 
@@ -145,4 +145,3 @@ These people have been released and are recovering on [[Vindristjarna]], or sent
  - ![[vargus.png|left|120]][[Vargus]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Valius]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
 
 </div>
-

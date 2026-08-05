@@ -12,7 +12,7 @@ descTitle: The Bear Fey's Gambit
 # Cleenseau - Session 16
 
 >[!info] The Bear Fey's Gambit: in which the party negotiates with a fey lord and discovers a larger conspiracy
-> *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn Bettws]], [[Izgil Moonseeker]]*
+> *Featuring: [[Robin of Abenfyrd]], [[Viepuck]], [[Celyn|Celyn Bettws]], [[Izgil Moonseeker]]*
 > *In Taelgar: (DR:: 1720-02-07) to (DR:: 1720-02-17)*
 > *On Earth: July 28th, 2024*
 > *[[Maudorville]], [[Ashcombe]], [[Aslain]], and the [[Maudor Hills]]*
@@ -23,7 +23,7 @@ The party travels north to investigate the baroness, encounters harpies and a la
 
 - **(DR:: 1720-02-07) to (DR_end:: 1720-02-09):** [[Viepuck]] works as a "telegraph machine," gathering intelligence and contacting allies. [[Samuel Cordwander]], [[Odo Cordwaner|Odo's]] younger brother, is found and escorted to safety by [[Estiasilos]]. [[Gareth of Tollen|Gareth's]] interrogation reveals information about the [[Midnight Lady]].
 - **(DR:: 1720-02-09):** The party departs [[Cleenseau]] with cavalry, heading north toward [[Veltor]] to investigate the baroness, but stops at [[Maudorville]] first to gather intelligence.
-- **(DR:: 1720-02-10):** In [[Maudorville]], [[Izgil]] connects with [[Wilhem of Maudorville|Wilhem]], an administrator fascinated by the moon. The party investigates missing people and encounters singing creatures (harpies) off the road.
+- **(DR:: 1720-02-10):** In [[Maudorville]], [[Izgil Moonseeker|Izgil]] connects with [[Wilhem of Maudorville|Wilhem]], an administrator fascinated by the moon. The party investigates missing people and encounters singing creatures (harpies) off the road.
 - **(DR:: 1720-02-11):** Combat with harpies, bears, and fey creatures. The party tracks them to the lair of a large fey bear lord, where [[Celyn]] negotiates in proper fey fashion. The party promises not to harm specific harpies in exchange for information about three competing fey lords.
 - **(DR:: 1720-02-11):** The party convinces the village of [[Ashcombe]] to evacuate due to fey danger, leaving for [[Aslain]].
 - **(DR:: 1720-02-12) to (DR_end:: 1720-02-17):** The party arrives at [[Aslain]], receives a mysterious letter from the bear fey, and investigates various local incidents including temple destruction evidence and a poisoning case.
@@ -32,9 +32,9 @@ The party travels north to investigate the baroness, encounters harpies and a la
 
 - **[[Robin of Abenfyrd]]** – paladin, Order of the Charitable Wanderer
 - **[[Viepuck]]** – warlock and investigator
-- **[[Celyn Bettws]]** – Wyrdling cleric
+- **[[Celyn|Celyn Bettws]]** – Wyrdling cleric
 - **[[Izgil Moonseeker]]** – arcane investigator
-- **The Bear Fey** (name/title of the [[Gloomshaper]]'s servant) – large fey bear lord controlling harpies and lesser fey
+- **The Bear Fey** (name/title of the [[Lord Umbraeth|Gloomshaper]]'s servant) – large fey bear lord controlling harpies and lesser fey
 - **[[Duskhounds]]** – wild huntsman minion of the bear fey
 - **[[Wilhem of Maudorville]]** – moon-fascinated administrator of the temple of the Sibyl
 - **[[Susanna]]** – innkeeper in [[Maudorville]], desperate to find her missing daughter

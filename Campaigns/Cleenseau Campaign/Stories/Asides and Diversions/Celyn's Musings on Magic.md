@@ -8,7 +8,7 @@ tags: [source]
 >
 >In the end, Celyn really went on the road with [[Viepuck]] because he felt nudged.  He was not sure what useful he could do - the boy was much better at the quick-thinking social plays than he was, he’d noticed that - but he had brought the Wyrdling in to lean on the former lord, and he felt responsible to make sure the situation was resolved usefully.  
 >
->Anyway, watching Viepuck do the things that Viepuck did was fun.  Even if he drew his power from some alien source, the spirit he approached things from felt comfortable, familiar, a little Wyrdling-touched.  He wanted to see what would happen, even though it meant leaving [[Robin]] behind.  Though Robin was doing a bunch of organizing things and Celyn was no good at those and did not particularly want to be.  
+>Anyway, watching Viepuck do the things that Viepuck did was fun.  Even if he drew his power from some alien source, the spirit he approached things from felt comfortable, familiar, a little Wyrdling-touched.  He wanted to see what would happen, even though it meant leaving [[Robin of Abenfyrd|Robin]] behind.  Though Robin was doing a bunch of organizing things and Celyn was no good at those and did not particularly want to be.  
 >
 >In any case, someone needed to go, and talking to the horses made it clear that Celyn was most likely to be useful about it, so he went.  The ride was quiet, barring the occasional pause to investigate something and then move on because they did not have time to stay.  (Celyn wondered a little when he had gotten so calm about dead bodies.  But there had been a lot of them.  He supposed if he was going a little mad that was probably fine.)  
 >

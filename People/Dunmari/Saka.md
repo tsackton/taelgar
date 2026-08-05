@@ -14,7 +14,7 @@ dm_owner: tim
 ---
 # Saka
 >[!info]+ Biographical Info  
-> A [[Dunmari]] [[Humans|human]] (she/her)  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 on the [[Varashan|plains north of Tokra]], in [[Dunmar]] %%^End%%
