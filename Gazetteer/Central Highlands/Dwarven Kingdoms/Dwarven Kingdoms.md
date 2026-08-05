@@ -56,7 +56,7 @@ Additional notes copied from Google Drive:
 
   
 
-The Dwarven kingdoms of the Sentinel Range have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the Sentinel Range to the far north. The heart of this empire was what is now the area south of ~Ulrich Devastation~.
+The Dwarven kingdoms of the Sentinel Range have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the Sentinel Range to the far north. The heart of this empire was what is now the area south of ~Urlich Devastation~.
 
   
 
@@ -65,7 +65,7 @@ After the events at the end of the ~ThirdAge~, when Hkar fell and great wars wer
 
 - In the far south, south of ~Urlich~, is Ardith, growing rich on trade with Drankor, and later with Dunmar, until at the end of the Great War they were driven from their homes and settled south, in the Yuvanti mountains, founding Nardith.
     
-- A bit further north, Khatridun, centered on the great city of ~DwCity1~, which dates to early in the ~SecondAge~, one of the oldest surviving Dwarven cities during the ~ThirdAge~. While this kingdom suffered greatly in the Great War and the destruction of ~Urlich Monastery~, including the loss of ~DwCity1~, a remnant of this ancient kingdom survives on the border of Sembara. Once rich and prosperous on the trade between Sembara and Chardon, now the most history-oriented of the Dwarven kingdoms in the Sentinel Range.
+- A bit further north, Khatridun, centered on the great city of Azrathun, which dates to early in the ~SecondAge~, one of the oldest surviving Dwarven cities during the ~ThirdAge~. While this kingdom suffered greatly in the Great War and the destruction of ~Urlich Monastery~, including the loss of Azrathun, a remnant of this ancient kingdom survives on the border of Sembara. Once rich and prosperous on the trade between Sembara and Chardon, now the most history-oriented of the Dwarven kingdoms in the Sentinel Range.
     
 - West, Am'khazar, focused on mineral wealth and mining (roughly, rich-iron-mountains). 
     

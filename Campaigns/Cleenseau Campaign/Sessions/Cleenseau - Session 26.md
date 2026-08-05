@@ -19,7 +19,7 @@ Dramatis Personae:
 Viepuck and Izgil, who have complicated magical theory shit going on  
 Celyn and Robin, who hit things and heal people  
   
-When we left off we had [[~Lich Phylactery~|retrieved an evil sphere]] and yelled for help answering what to do with it.  
+When we left off we had [[Malach's Phylactery|retrieved an evil sphere]] and yelled for help answering what to do with it.  
   
   
 We are currently probably the second most powerful adventuring party that's in this region. (The third most powerful is working for us.) We are a seventh level party.  
