@@ -13,7 +13,7 @@ dm_notes: none
 
 %% @mike: to review; name check for the named wars - pretty happy with the names but want to let things sit for a little while before confirming %%
 
-The Serpentine Wars describe the fifty year period in the second have of the DR 1300s, during which the [[Dominion of Avatus]] expanded to control much of the [[Duchy of Maseau]] and the [[Maseau Gap]]. While the entire period was marked by border tension, it can be separated into five significant wars where substantial fighting occurred. 
+The Serpentine Wars describe the fifty year period in the second half of the DR 1300s, during which the [[Dominion of Avatus]] expanded to control much of the [[Duchy of Maseau]] and the [[Maseau Gap]]. While the entire period was marked by border tension, it can be separated into five significant wars where substantial fighting occurred. 
 
 ## The Westcliff War
 _DR 1353 - DR 1356_
