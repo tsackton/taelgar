@@ -91,22 +91,22 @@ From [[Timeline of Sembaran History]]:
 
 (DR:: 1422): Avatus conquers most of the **[[Duchy of Brovna]]**, but dwarven resistance (supported by [[Ardlas]]) keeps him from pushing north through mountain passes.  
 (DR:: 1425), summer: Avatus invades [[Sembara]].  
-(DR:: 1425), summer: He defeats the Sembaran army at the **[[Battle of Stavenford]]**.  
+(DR:: 1425), summer: He defeats the Sembaran army at the **Battle of Stavenford**.  
  (DR:: 1425), late fall: Sembaran forces abandon the lands between the [[Enst]] and [[Wistel]] rivers and retreat to [[Wisford]] for winter; Avatus consolidates gains.  
- (DR:: 1426), summer: [[Derik I]] returns with Tyrwinghan and Telhamite support, pushing Avatus south of the Wistel at the **[[Battle of Wisford]]**.  
- (DR:: 1427), summer: Derik pushes Avatus south of the Enst at the **[[Battle of Fellburn]]**.  
+ (DR:: 1426), summer: [[Derik I]] returns with Tyrwinghan and Telhamite support, pushing Avatus south of the Wistel at the **Battle of Wisford**.  
+ (DR:: 1427), summer: Derik pushes Avatus south of the Enst at the **Battle of Fellburn**.  
  (DR:: 1428), spring–summer: Derik campaigns south of the Enst, carrying the war into former Avatus territory.  
- (DR:: 1429), spring: Derik defeats Avatus at the decisive **[[Battle of Dalfield]]**.  
+ (DR:: 1429), spring: Derik defeats Avatus at the decisive **Battle of Dalfield**.  
  (DR:: 1429), late fall: The **[[Treaty of Wisford]]** formalizes Derik’s new order, codifying modern Sembara and cementing the [[House of Sewick]] as rulers of the joined crowns of Sembara, [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
  (DR:: 1430), summer–fall: Derik campaigns in the [[Mostreve Hills]] and signs the **[[Treaty of Valarin]]** with the emergent [[Istabor Alliance]], setting Sembara’s southern frontier at the edge of Avatus’s former dominion.  
  (DR:: 1432): Derik formally establishes new border polities—[[Duchy of Maseau]], [[Barony of Aveil]], [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]]—in lands previously controlled by Avatus and restores [[Duchy of Brovna|Brovna]].  
 
 #### Tyrwinghan & prophetic narrative
 
- A more mythic account in [[Tyrwingha  Ideas]] (and older “GDrive – Sembara Document”) presents Avatus/[[Avatus]] as a **military dictator ravaging Sembara** with hobgoblins and werewolves while prophets in Tyrwingha proclaim looming End Times.  
+ A more mythic account in [[Tyrwingha - Ideas]] (and older “GDrive – Sembara Document”) presents Avatus/[[Avatus]] as a **military dictator ravaging Sembara** with hobgoblins and werewolves while prophets in Tyrwingha proclaim looming End Times.  
  The Sembaran dukes’ pleas for aid are initially ignored; Tyrwingha’s queen is paralyzed by prophetic nightmares of her realm’s downfall if she intervenes.  
  Into this crisis rides **Derik I**, already a minor hero from pirate skirmishes, who receives a prophecy from a **lizardfolk elder**: if he does not overthrow **Avatus**, the “smallest cloud in the coming storm,” future horrors will be much worse.  
- When Derik lands in Tyrwingha, the Archfey **[[Ethlenn]]** appears, blesses him, and endorses him as king; his subsequent victory over Avatus and the [[Treaty of Wisford]] become the basis for the **unification of the crowns** of Sembara, Tyrwingha, and Telham.  
+ When Derik lands in Tyrwingha, the  **[[Archfey Ethlenn]]** appears, blesses him, and endorses him as king; his subsequent victory over Avatus and the [[Treaty of Wisford]] become the basis for the **unification of the crowns** of Sembara, Tyrwingha, and Telham.  
 
 #### Cleenseau‑specific events
 
@@ -120,7 +120,7 @@ From [[Timeline of Sembaran History]]:
 
  Older texts (e.g., **[[A Chronicle of Sembaran History]]**) describe [[Cha'mutte]] as the **hidden puppet master** behind the Dominion of Avatus, who, after Avatus’s defeat, shifts his attention north and eventually triggers the [[Great War]].  
  Later Discord chats suggest Avatus was **not explicitly allied** with Cha'mutte and that Cha'mutte was not yet punishing hobgoblins for refusing to serve, implying a more indirect or background influence.  
-   Sources: [[A Chronicle of Sembaran History]], [[Discord Chat  Avatus and Hobgolbins]], [[Discord Chat  Sembara History]].  
+   Sources: [[A Chronicle of Sembaran History]]
 
 ### Legacy & Remnants
 
@@ -130,7 +130,7 @@ From [[Timeline of Sembaran History]]:
 
  **Cultural echo.**  
    In later centuries, “Avatus” functions as a shorthand for a brutal hobgoblin‑backed autocrat. Places like Maseau and Aurbez are described as being **resettled** after the Dominion’s defeat, with pre‑Avatus political structures largely irrelevant to later history.  
-     Sources: [[Human Cultures of Taelgar]], “GDrive – Sembara Document”, [[Discord Chat  Upper Istaros Region]].  
+     Sources: [[Human Cultures of Taelgar]], “GDrive – Sembara Document”
 
  **Military and hobgoblin remnants.**  
    After Avatus’s fall, hobgoblin remnants—some loyal, some opportunistic—persist along the southern [[Sentinel Range]] and nearby Plaguelands, occasionally forming warbands that menace Sembara until the Great War and subsequent Blood Years reshape the region.  
@@ -144,7 +144,7 @@ From [[Timeline of Sembaran History]]:
      Sources: [[Hobgoblin Camp]], [[Cleenseau History Notes]]
  **Addermarch & ranger traditions.**  
    Discussion notes suggest the **rangers of Addermarch** may trace some of their origins to guerrilla fighters who resisted Avatus in the hills, contributing to the region’s identity as stubbornly unconquered highlands.  
-     Source: [[Discord Chat  Addermarch]].  
+
 
 > For cursed serpentine artifacts linked to Avatus‑era tombs in Addermarch (e.g., dagger and battleaxe), see [[Avatus Cursed Items Timeline]] for detail; they are not re‑summarized here.
 
@@ -159,8 +159,8 @@ Approximate, focusing on Avatus and his dominion rather than later mirror histor
    Source: [[Cleenseau History Notes]], [[Hobgoblin Camp]].  
  **(DR:: 1425)** – Avatus invades Sembara, defeating the royal army at [[Battle of Stavenford]]; Sembara retreats between the Enst and Wistel.  
  **(DR:: 1425–1426)** – Avatus occupies key southern Sembaran territories and consolidates; Cleenseau becomes a major staging base.  
- **(DR:: 1425–1426)** – Derik I receives prophecy, is crowned in [[Tyrwingha]] with Archfey [[Ethlenn]]’s blessing, and begins organizing a counter‑offensive (mythic account).  
-   Source: [[Tyrwingha  Ideas]].  
+ **(DR:: 1425–1426)** – Derik I receives prophecy, is crowned in [[Tyrwingha]] with [[Archfey Ethlenn]]’s blessing, and begins organizing a counter‑offensive (mythic account).  
+   Source: [[Tyrwingha - Ideas]].  
  **(DR:: 1426–1427)** – Derik wins the Battles of **Wisford** and **Fellburn**, pushing Avatus south of the Wistel and then the Enst.  
  **(DR:: 1428–1429)** – Derik carries the war into Avatus’s dominion; the Battle of **Dalfield** destroys Avatus’s field army and effectively ends his rule.  
  **(DR:: 1430–1432)** – Derik campaigns in the [[Mostreve Hills]], negotiates with the [[Istabor Alliance]], and formally reorganizes former Avatus territories into new duchies and baronies (Maseau, Aveil, Dunfry, Enford, restored Brovna).  
@@ -234,8 +234,7 @@ Approximate, focusing on Avatus and his dominion rather than later mirror histor
   
  **Older or explicitly provisional:**  
    [[A Chronicle of Sembaran History]] – superseded in places by Timeline of Sembaran History but still useful for flavor (especially Cha'mutte as puppet‑master).  
-   [[Tyrwingha  Ideas]] and “GDrive – Sembara Document” – mythic narrative of [[Avatus]]/Avatus and Derik I, strong on Tyrwinghan perspective and prophecy but written as brainstorming.  
-   [[Discord Chat  Avatus and Hobgolbins]], [[Discord Chat  Sembara History]], [[Discord Chat  Addermarch]], [[Discord Chat  History of Western Green Sea]] – rich for intent and vibe, but not always aligned with later writeups; good guidance for tone and unresolved questions.  
+   [[Tyrwingha - Ideas]] and “GDrive – Sembara Document” – mythic narrative of [[Avatus]]/Avatus and Derik I, strong on Tyrwinghan perspective and prophecy but written as brainstorming.  
 
 ## Intervening History: Fall of Drankor to Derik I (AI Summary)
 
