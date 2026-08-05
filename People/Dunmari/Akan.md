@@ -9,7 +9,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: 
-- {type: home, location: ~Karawa Desert~ }
+- {type: home, location: Karawa Desert }
 - {type away, start: 1748-03-21, end: 1748-03-23, location: Gomat Oasis }
 - {type: away, start: 1748-03-27, end: 1748-04-07, location: Karawa }
 - {type: away, start: 1748-04-07, end: 1748-04-12, location: travelling to Tokra }

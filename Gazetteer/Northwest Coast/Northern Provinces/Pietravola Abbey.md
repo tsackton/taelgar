@@ -7,7 +7,7 @@ typeOf: holy site
 subTypeOf: ruined
 whereabouts:
   - type: primary
-    location: ~North Voltara Hills~
+    location: Chalyte Hills
 dm_owner: none
 dm_notes: none
 typeOfAlias: abbey
