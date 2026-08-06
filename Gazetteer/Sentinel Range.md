@@ -36,9 +36,9 @@ The southern section, covering the area that was once the dwarven kingdom of [[A
 		- ***Real world analogs***: Perhaps somewhat similar to something like the less mountainous Yellowstone / Montana, or even perhaps the Whites. 
 	- The middle and southern sections are separated by the desolate of Urlich, created by [[Cha'mutte]]'s death. What this actually looks like is currently unknown, but it is dangerous and contains both random isolated mountains and vast chasms, and safe travel is impossible, not only because of dangerous inhabitants but because of unstable terrain. 
 		- ***Real world analogs:*** None, although perhaps some bits of Mordor could be a reasonable mental model. 
-	- Passes: the [[Sentinel Range]] is easily crossable only in a few places. 
+	- Passes: the [[Sentinel Range]] is easily crossable only in a few places. %% details need work, except the south which is well established 
 		- To the north, the gap between the middle section and the northern section is traversable in all seasons, but lightly settled; the northern section itself is extremely inhospitable in the highest peaks.
-		- The middle section has passes around [[~High Horn~]], west of the [[Zimkova|Highland Kingdoms]], and in the area west of the [[Western Marches]]. But the latter was disrupted by [[Cha'mutte]]'s death and is no longer considered passable. 
+		- The middle section has passes around [[~High Horn~]], west of the [[Zimkova|Highland Kingdoms]], and in the area west of the [[Western Marches]]. But the latter was disrupted by [[Cha'mutte]]'s death and is no longer considered passable. %%
 		- The south section has several routes that cross between the [[Refounded Alliance of Aurbez]] and northern [[Dunmar]]. 
 
 In the south, in northern [[Dunmar]], the mountains are steep and rocky, with only a handful of passes. In the winter, they are snow-covered, but there is little permanent ice and few or no glaciers. 

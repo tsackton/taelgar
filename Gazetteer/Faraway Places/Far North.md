@@ -21,7 +21,9 @@ Far north, beyond the northern lands of [[Vostok]] and [[Ursk]] lies a mysteriou
 ## Topography and Major Features
 Few have mapped this region, and little is known about the lands. A few features are well-attested:
 
-* A [[~Far North Steppe~|cold, dry steppe]] north of [[Vostok]] and the [[Grastenvakt|Gråstenvakt]]
+%% note: all of these features are in tentative, largely because they are too ill-defined to name, but mostly are expected to exist in some form %%
+
+* A [[~Far North Steppe~|cold, dry expanse of open land]] north of [[Vostok]] and the [[Grastenvakt|Gråstenvakt]]
 * A [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]], said to be the birthplace of [[Vimfrost]] and home to many frost-breathing dragons
 * A [[~North Ursk River System~|river system]] that drains from the [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]] to the eastern [[Green Sea]]
 

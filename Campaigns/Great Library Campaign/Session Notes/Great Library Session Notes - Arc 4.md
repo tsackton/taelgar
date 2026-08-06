@@ -105,6 +105,8 @@ The party confronts the beholder [[Vilaxes]] in a massive cavern dominated by a 
 
 Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status and reputation. [[Brelith]] apprentices himself to the chef at [[Finoc Small]]’s tavern, [[The Wandering Toad]], learning to cook, and opening a restaurant, [[The Hero's Feast]]. [[Adrik]] goes on a binge of pit fighting and gambling, managing to end up with a small profit. [[Samso]] travels to visit with [[Iara]] at the [[Lizardfolk]] community near [[Lake Valandros]], and learns more about the mysterious attacks. [[Alton]] opens a boisterous tavern and dive bar outside the city walls, called the [[Rogue’s Range]], with axe throwing for patrons. 
 
+%% note: Rogue's Range might be removed from canon - unclear %%
+
 Four months later, the [[Silver Tempests]] host a party, a grand opening for [[The Hero's Feast]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; and [[Aris]] and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
 
 ### Events
