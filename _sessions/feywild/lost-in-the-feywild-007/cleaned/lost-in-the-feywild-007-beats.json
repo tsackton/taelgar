@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+  "beats": [
+    {
+      "beatId": "b001",
+      "title": "Into the Lightless Prison",
+      "startUid": "u0001",
+      "endUid": "u0298",
+      "lineCount": 298,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After the recap, the party finds itself in the lightless 27th Room, tests the darkness, explores the root-filled chamber, reads the room's shifting year as 1351, and detects an obscured telepathic intelligence; the beat ends when Txarro calls out to it in Common.",
+      "dateEvidence": [
+        "Session metadata fixes both drStart and drEnd at 1740-10-06.",
+        "The episode resumes directly from Session 6 without a rest or ordinary in-world day transition; 1351 is presented as the prison room's shifting temporal coordinate."
+      ]
+    },
+    {
+      "beatId": "b002",
+      "title": "The Child and the Time Loop",
+      "startUid": "u0299",
+      "endUid": "u0698",
+      "lineCount": 400,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The childlike prisoner answers Txarro, recounts its teacher, the dreamers it hoards, and the cold playhouse built around it; the party learns that Hulda created a time loop to send his younger self toward the prison, and Tarek's description of a stolen cup begins to soften the entity before the mechanics of the final story challenge are introduced.",
+      "dateEvidence": [
+        "This conversation continues immediately from the party's exploration of the prison on 1740-10-06.",
+        "No rest, travel interval, or ordinary day transition occurs before the story challenge begins."
+      ]
+    },
+    {
+      "beatId": "b003",
+      "title": "Stories That Set Them Free",
+      "startUid": "u0699",
+      "endUid": "u1297",
+      "lineCount": 599,
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The DM introduces the mechanics for persuading the prisoner through stories, and the entire resulting challenge remains continuous through each character's story, the release of the dreamers, the prison's collapse, the entity's return home, the closing montage, and the end of the actual session.",
+      "dateEvidence": [
+        "The story challenge begins immediately after the prisoner's conversation with the party on 1740-10-06.",
+        "The actual session ends without a rest or a new in-world day; the visible twilight belongs to the Feywild setting and closing montage."
+      ]
+    },
+    {
+      "beatId": "b004",
+      "title": "Post-Game Discussion",
+      "startUid": "u1298",
+      "endUid": "u2557",
+      "lineCount": 1260,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The players and DM discuss the mystery, alternate outcomes, campaign design, skill mechanics, and note-taking after play has ended. This is a single post-game source beat and must be excluded entirely from the session recap.",
+      "dateEvidence": []
+    }
+  ]
+}

@@ -8,7 +8,14 @@ born: 1729
 whereabouts: 
 - {type: home, location: Wickerley}
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 ---
+# Edric
+>[!info]+ Biographical Info  
+> A [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
 
 Edric was born in the small village of [[Wickerley]], a good two day's walk north of the [[Great South Road]], in the [[Duchy of Telham]].  Wickerly is known for very little, although there are two brewers who sell to the surrounding villages, and the barley is said to be at least a bit better than average. It is a poor place, with little excitement and few reasons to stop. The most interesting event in the last hundred years, it is said, was Edric's birth. 
 

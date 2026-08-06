@@ -10,6 +10,7 @@ dm_owner: player
 dm_notes: none
 whereabouts: 
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 ---
 # Tarek
 >[!info]+ Biographical Info  

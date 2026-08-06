@@ -11,6 +11,7 @@ pronunciation: CHAH-roh
 whereabouts: 
 - {type: home, location: Greywash}
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 ---
 # Txarro
 *(CHAH-roh)*
