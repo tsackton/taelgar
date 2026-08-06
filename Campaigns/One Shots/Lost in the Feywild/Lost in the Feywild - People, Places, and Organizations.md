@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/ai]
+tags: [meta]
 name: "Lost in the Feywild: People, Places, and Organizations"
 dm_owner: none
 dm_notes: none
@@ -83,4 +83,3 @@ This page collects the named cast, recurring places, organizations, and books re
 | *[[The Riven Veil]]* | A theological and cosmological treatise by Marcion of Iridel, shelved among a larger collection of his works. | [[Lost in the Feywild - Episode 06\|Episode 6]] |
 | *[[Zharuk Akhal]]* | A famous dwarven cosmological treatise on the Far Realms; an empty shelf records that it is out by special dispensation. | [[Lost in the Feywild - Episode 06\|Episode 6]] |
 
-Episode 1 also mentions the party recovering a collection of unnamed old books from an ettin before the campaign began. The library of the [[27th House]] holds many other unnamed volumes; the listening-station notebooks are records rather than named books and are not included above.

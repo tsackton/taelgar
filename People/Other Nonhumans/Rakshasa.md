@@ -7,9 +7,9 @@ species: unknown
 speciesAlias: tiger-headed mortal
 gender: male
 whereabouts: 
-- {type: away, end: 9999, location: Lord Endless Ending's Manor}
-dm_owner: schwartz
-dm_notes: important
+- {type: away, end: 1740-10-07, location: Lord Endless Ending's Manor}
+dm_owner: none
+dm_notes: none
 ---
 # Rakshasa
 >[!info]+ Biographical Info  
@@ -19,3 +19,5 @@ dm_notes: important
 The Rakshasa is a tiger-headed mortal guest at [[Lord Endless Ending's Manor]]. He is a massive, well-dressed tiger-man, about eight feet tall, imposing and strange, who keeps his own council and smokes a pipe. He is collects stories, and claims to have been obsessed with the stories that unfold in the twilight after sunset, visiting the houses of the Twilight Kingdom studying and collecting them. But does not share them freely. 
 
 He does not reveal his true name, calling himself simply Rakshasa. Whether this is a homage to the fiendish namesake, a sly joke, a trick, a curse, or something else entirely, he does not reveal. 
+
+He was last seen in a quiet thatched cottage beside a road running parallel to the sunset, watching [[Kallipseis]] escape the collapsing [[27th House]] through a polished crystal scrying sphere. He packs the sphere away, draws on his pipe, sighs, and develops a sly smile.
