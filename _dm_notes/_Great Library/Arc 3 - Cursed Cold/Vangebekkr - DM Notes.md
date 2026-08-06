@@ -125,7 +125,7 @@ Armory. Weighted nets, giant greataxes, massive ballista sized javelins. Massive
  
 **West**
  
-Entrance to [Glacier Caves- DM Notes](Glacier%20Caves-%20DM%20Notes.md).
+Entrance to [[Glacier Caves- DM Notes]].
 
 **CURRENT SITUATION**
  

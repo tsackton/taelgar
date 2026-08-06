@@ -41,10 +41,10 @@ Lady Ellys
  
 She is very much in favor of pushing forward to Darkwood Keep and learning what is going on as soon as possible, no matter the cost to Adderfell. She will send her aide on this mission with party. 
  
-[Lord Wisym](Lord%20Wisym.md)
+Lord Wisym
  
 He will not speak much, leaving the debate to others, but will support the Earl as needed
  
-[Elder Anders](Elder%20Anders.md)
+Elder Anders
  
 He is concerned with the safety and protection of travelers, peasants, and everyone who is under the watchful eye of the Eightfold Divine. Will bring up duty a lot.

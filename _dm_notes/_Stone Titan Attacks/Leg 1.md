@@ -1,4 +1,4 @@
-Connections: [Thigh #1](Thigh%201.md), [Foot #1](Foot%201.md)
+Connections: [[Thigh 1|Thigh #1]], [[Foot 1|Foot #1]]
 
 Scene:
  

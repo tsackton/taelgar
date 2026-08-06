@@ -1,4 +1,4 @@
-Connections: [Neck](Neck.md), [Finale](Finale.md)
+Connections: [[Neck]], [[Finale]]
 
 Scene notes:
  

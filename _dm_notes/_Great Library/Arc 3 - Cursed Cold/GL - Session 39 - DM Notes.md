@@ -16,15 +16,15 @@ If they search, a DC 11 Survival check to follow tracks, which will lead back to
  
 If they don't search, the remaining orcs will note their companions did not return, and will track them and ambush them in the night.
  
-[Treasure](Orc%20Attack%20-%20DM%20Notes.md) at the camp, if they follow and search.
+[[Orc Attack - DM Notes|Treasure]] at the camp, if they follow and search.
  
 **Garrison Camp**
  
-Details: [Garrison Camp - DM Notes](Garrison%20Camp%20-%20DM%20Notes.md)
+Details: [[Garrison Camp - DM Notes]]
  
 **Troubled Fort**
  
-Details: [Troubled Fort - DM Notes](Troubled%20Fort%20-%20DM%20Notes.md)
+Details: [[Troubled Fort - DM Notes]]
    
 
 **NOTES**

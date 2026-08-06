@@ -28,7 +28,7 @@ One-sentence encyclopedic summary of this historical figure (era, title, dominio
 -  (DR:: YYYY-MM-DD): deed/event; immediate outcome and longer-term impact.
 
 ## Relationships (optional)
-- [[Ally/Rival]] — nature of interaction; alliances, betrayals, or dynastic ties.
+- Ally/Rival — nature of interaction; alliances, betrayals, or dynastic ties.
 ## Legacy & Influence (optional)
 How later cultures, polities, or religions remember this figure; laws, rituals, artifacts, or locations that persist. Note contested interpretations. Can include markdown list:
 - Site/Artifact — connection to the figure; current status; known guardians or claimants.

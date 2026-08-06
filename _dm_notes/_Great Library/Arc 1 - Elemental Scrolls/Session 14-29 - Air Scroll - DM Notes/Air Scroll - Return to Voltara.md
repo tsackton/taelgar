@@ -1,4 +1,4 @@
-Rerun [glacier](Ice%20Landscape.md). It is currently late afternoon, so seracs are main danger. Improvise a bit of if they roll poorly this should be tough.
+Rerun [[Ice Landscape|glacier]]. It is currently late afternoon, so seracs are main danger. Improvise a bit of if they roll poorly this should be tough.
  
 After crossing the glacier, it is dusk. Run wolves encounter (4 dire wolves, 2 winter wolves). These are not normal wolves, much more malicious than usual. They will stealth/ambush if possible. If this goes very badly for them, Dinia can come to their rescue.
  

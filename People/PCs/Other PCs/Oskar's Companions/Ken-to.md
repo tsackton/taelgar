@@ -1,17 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags:
+  - person
 name: Ken-to
-aliases: [Ken-To]
+aliases:
+  - Ken-To
 species: stoneborn
 gender: male
 player: Isaac Sackton
 whereabouts:
-- {type: home, location: Yuvanti Mountains}
+  - type: home
+    location: Yuvanti Mountains
 affiliations:
-- {org: Oskar's Companions, title: "One"}
+  - org: Oskar's Companions
+    title: One
 campaignInfo:
-- {campaign: DuFr, person: Riswynn, type: met, date: 1748-05-18}
+  - campaign: DuFr
+    person: Riswynn
+    type: met
+    date: 1748-05-18
 dm_owner: player
 dm_notes: none
 ---

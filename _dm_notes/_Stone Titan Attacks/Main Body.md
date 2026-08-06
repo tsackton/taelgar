@@ -1,6 +1,6 @@
 \> [!caution] This page contained a drawing which was not converted.   
 
-Connections: [Neck](Neck.md), [Thigh #1](Thigh%201.md), [Thigh #2](Thigh%202.md),
+Connections: [[Neck]], [[Thigh 1|Thigh #1]], [[Thigh 2|Thigh #2]],
 
 Scene:
  
@@ -26,11 +26,11 @@ Anyone who can speak Dwarven will recognize this as Dwarven architecture / const
  
 Buildings: four buildings remain and two notable landmarks:
 
-1. An outbuilding / kitchens with mostly intact roof -- this is where the stairs from [Thigh #2](Thigh%202.md) come up.
+1. An outbuilding / kitchens with mostly intact roof -- this is where the stairs from [[Thigh 2|Thigh #2]] come up.
 2. The main temple, still largely intact
 3. An outbuilding / dormitory, mostly rubble
 4. An outbuilding / library with a partially collapsed roof
-5. Collapsed / twisted fountain -- this is where the stairs from [Thigh #1](Thigh%201.md) come up.
+5. Collapsed / twisted fountain -- this is where the stairs from [[Thigh 1|Thigh #1]] come up.
 6. Crystal forest -- surrounding temple
 7. Quaggoth camp
  

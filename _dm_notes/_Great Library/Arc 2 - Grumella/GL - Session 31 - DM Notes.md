@@ -26,7 +26,7 @@ See what the party comes up with, and let them roll some Persuasion and Insight 
  
 He will suggest a mountain valley in the hills to the west, a safe place to shelter. But it is infested by manticores - if the manticores are killed and the lair destroyed, it will not only be a boon to the war (as the orcs have been capturing and training manticores as support) but will allow the centaurs to safely shelter and therefore can send aid in the form of 40 warriors.
  
-Details here: [Manticore Lair - DM Notes](Manticore%20Lair%20-%20DM%20Notes.md)
+Details here: [[Manticore Lair - DM Notes]]
  
 Some cryptic sayings, including cryptic names they will call people:
  
@@ -62,7 +62,7 @@ The valley is about 30 miles west of the centaur camp.
  
 Shadow dancer fight.
  
-Manticore lair, see [Manticore Lair - DM Notes](Manticore%20Lair%20-%20DM%20Notes.md)
+Manticore lair, see [[Manticore Lair - DM Notes]]
  
 ## Treasure Notes
  
