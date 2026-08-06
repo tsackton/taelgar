@@ -24,18 +24,28 @@ const rows = Object.entries(dv.app.metadataCache.unresolvedLinks)
         && !isIgnoredByObsidian(source)
         && Object.keys(targets).length > 0
     )
-    .map(([source, targets]) => ({
-        source,
-        file: dv.fileLink(source),
-        unresolvedLinks: Object.values(targets)
-            .reduce((total, occurrences) => total + occurrences, 0),
-    }))
+    .map(([source, targets]) => {
+        const unresolvedLinks = Object.values(targets)
+            .reduce((total, occurrences) => total + occurrences, 0);
+        const missingLinks = unresolvedLinks < 6
+            ? Object.keys(targets)
+                .sort((a, b) => dv.compare(a, b))
+                .map(target => dv.fileLink(target))
+            : "";
+
+        return {
+            source,
+            file: dv.fileLink(source),
+            unresolvedLinks,
+            missingLinks,
+        };
+    })
     .sort((a, b) =>
         b.unresolvedLinks - a.unresolvedLinks || dv.compare(a.source, b.source)
     );
 
 dv.table(
-    ["File", "Unresolved links"],
-    rows.map(row => [row.file, row.unresolvedLinks])
+    ["File", "Unresolved links", "Missing link(s), if fewer than 6"],
+    rows.map(row => [row.file, row.unresolvedLinks, row.missingLinks])
 );
 ```

@@ -39,7 +39,7 @@
 [2023-11-04 10:08 AM] Deciusmus: But the 3rd hobgoblin war is caused by a new leader amongst the shattered ice hobgoblins who explicitly is seeking bad things for humans - more Naziesque as opposed to Mussolini, say
 [2023-11-04 10:09 AM] Deciusmus: And so when Cleenseau is sacked they put some larger percentage of the humans to death, but keep the buildings
 [2023-11-04 10:09 AM] rsulfuratus: in your hobgoblin war notes, you have the 3rd hobgoblin war started by sembara, but I actually think it makes more sense if it is started by a new hobgoblin leader
-[2023-11-04 10:10 AM] rsulfuratus: DR 1644, summer: [[Charlotte II]] at the urging of her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
+[2023-11-04 10:10 AM] rsulfuratus: DR 1644, summer: [[Charlotte II]] at the urging of her husband Lionel Falconhurst, the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
 [2023-11-04 10:10 AM] Deciusmus: Right. Maybe change that
 [2023-11-04 10:10 AM] Deciusmus: Or alternatively keep it half-way. The new hobgoblin leader is starting the war against maseau not sembara
 [2023-11-04 10:11 AM] rsulfuratus: right, that could work too
@@ -83,9 +83,9 @@
     tags: `[event-source]`
     ---
     A series of battles between [[Sembara]] and the [[Shattered Ice Clan]] that pushed the hobgoblins south of the [[Enst]]. Characterized by exceptionally bad luck on the part of the hobgoblins, which is attributed in Sembara to Cece's personal connection to the [[The Father]]
-[2023-11-04 10:35 AM] Deciusmus: DR 1648, late winter: Charlotte II is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]
+[2023-11-04 10:35 AM] Deciusmus: DR 1648, late winter: Charlotte II is killed by hobgoblins while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]
     * DR 1648, late winter: Cece I crowned Queen
-    * DR 1648, early spring: The [[Army of the North]] attempts to break the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]], and is bogged down
+    * DR 1648, early spring: The [[Army of the North]] attempts to break the siege of Dunfry, and is bogged down
     * DR 1648, late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of
     * DR 1648, early summer: After a few stalemates, the [[Radiant Alliance]] breaks the siege of  Dunfry and the Armies of the North and West join with the Radiant Alliance
     * DR 1648, summer:  [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]

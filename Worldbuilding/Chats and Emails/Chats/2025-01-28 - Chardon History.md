@@ -116,7 +116,7 @@
 [2025-01-28 01:02 PM] rsulfuratus: hrm. maybe.
 [2025-01-28 01:02 PM] rsulfuratus: it is very annoying for taelgarverse though as I definitely want Dunmar to be the landing page for the Dunmar nav structure
 [2025-01-28 01:02 PM] rsulfuratus: but maybe that can be done manually
-[2025-01-28 01:03 PM] Deciusmus: I was wondering if See more: [[Realm of Sembara]] is the best solution
+[2025-01-28 01:03 PM] Deciusmus: I was wondering if See more: `[[Realm of Sembara]]` is the best solution
 [2025-01-28 01:03 PM] Deciusmus: Ie keep the Gazetter page short “dramitis persona” style no matter what and link to a longer page
 [2025-01-28 01:04 PM] rsulfuratus: ah. hmm. maybe
 [2025-01-28 01:07 PM] Deciusmus: For example, if I started a project to better define the Zimkovan realms I’m not sure that the best way to tackle culture and religion and politics and government would be on the separate Ardlas/Breva/etc pages

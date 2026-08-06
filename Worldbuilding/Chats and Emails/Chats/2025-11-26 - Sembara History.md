@@ -89,7 +89,7 @@ See more `[[Coming of Drankor]]`
 [2025-11-26 04:01 PM] Deciusmus: Note 3:
 [2025-11-26 04:01 PM] Deciusmus: ## Highland Conquest Wars
     
-    A series of campaigns by the Drankorian Emperor [[Empress Kylanthe]] against the Kestavan kingdoms in the foothills of the [[Sentinel Range]]. 
+    A series of campaigns by the Drankorian Emperor Kylanthe against the Kestavan kingdoms in the foothills of the [[Sentinel Range]]. 
     
     `%%`
     In the northern highlands however, and especially amongst the many lakes at the headwaters of the [[Volta]], the Drankorian armies bogged down in the cold, snowy winters, and it is said the very skies and earth rose up to defend the Highlanders. Conquest was slow and often abandoned, and in the mountain valleys the [[Mos Numena|Eight Divines]] were not widely acknowledged, and the old gods -- the *[[Kestavo]]* -- were still worshipped.
@@ -108,12 +108,12 @@ See more `[[Coming of Drankor]]`
 [2025-11-26 04:08 PM] Deciusmus: I think having a framework background information is more useful than a player reference
 [2025-11-26 04:08 PM] Deciusmus: I find it hard to say what a player reference should look like
 [2025-11-26 04:09 PM] Deciusmus: ## Coming of Drankor
-    _Start: Canonically sometime during the reign of  [[Anates]], DR 331 - 366, but not clear when_
-    _End: No canon established, but the [[Treaty of Tyrwingha]] was canonically signed in DR 423 and likely marked close to the end of this period_
-    
-    By the reign of Emperor [[Anates]] the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and start to encounter both the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. 
-    
-    See more [[Coming of Drankor]]
+_Start: Canonically sometime during the reign of  [[Anates]], DR 331 - 366, but not clear when_
+_End: No canon established, but the [[Treaty of Tyrwingha]] was canonically signed in DR 423 and likely marked close to the end of this period_
+
+By the reign of Emperor [[Anates]] the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and start to encounter both the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. 
+
+See more `[[Coming of Drankor]]`
 [2025-11-26 04:10 PM] Deciusmus: I mean, that is only two sentences, and it probably needs a third that describes the "end state" of the period
 [2025-11-26 04:12 PM] rsulfuratus: so here is an attempt at Tollen:
     
