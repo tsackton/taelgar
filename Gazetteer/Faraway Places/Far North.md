@@ -23,7 +23,7 @@ Few have mapped this region, and little is known about the lands. A few features
 
 * A [[~Far North Steppe~|cold, dry steppe]] north of [[Vostok]] and the [[Grastenvakt|Gråstenvakt]]
 * A [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]], said to be the birthplace of [[Vimfrost]] and home to many frost-breathing dragons
-* A [[~North Ursk River~|river system]] that drains from the [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]] to the eastern [[Green Sea]]
+* A [[~North Ursk River System~|river system]] that drains from the [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]] to the eastern [[Green Sea]]
 
 ## Civilizations and Cultures
 Although rumors persist of [[Kenku|kenku]] flying across the [[~Far North Steppe~|nothern steppe]], few can say where exactly these winged creatures live. 

@@ -518,6 +518,33 @@ function run() {
     /line 2/,
   );
 
+  const evidenceText = [
+    JSON.stringify({
+      record_type: "meta",
+      schema_version: 1,
+      place_count: 1,
+    }),
+    JSON.stringify({
+      record_type: "place-name-evidence",
+      schema_version: 1,
+      subject: wildRiver.path,
+      subject_name: wildRiver.name,
+      embeddedness: { band: "high", inbound: { unique_notes: 8 } },
+      campaigns: [],
+      naming: { documentation_depth: "documented", review_state: "needs-review" },
+    }),
+  ].join("\n");
+  const evidenceStore = core.parsePlaceEvidenceStore(evidenceText);
+  assert.equal(evidenceStore.metadata.place_count, 1);
+  assert.equal(evidenceStore.records.length, 1);
+  core.attachPlaceEvidence(wildCatalog, evidenceStore);
+  assert.equal(wildCatalog.concepts[0].placeEvidence.embeddedness.band, "high");
+  assert.equal(wildCatalog.subjects[0].placeEvidence.naming.review_state, "needs-review");
+  assert.throws(
+    () => core.parsePlaceEvidenceStore('{"record_type":"wrong"}\n'),
+    /line 1/,
+  );
+
   console.log("Name Explorer core tests passed.");
 }
 

@@ -1,6 +1,5 @@
 ---
-tags:
-  - place
+tags: [place]
 typeOf: marine feature
 typeOfAlias: bay
 ---

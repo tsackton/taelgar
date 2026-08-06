@@ -157,6 +157,11 @@ function run() {
     fs.readFileSync(decisionsPath, "utf8"),
   );
   const catalog = core.buildCatalog(subjects, decisions);
+  const evidencePath = path.join(vaultRoot, "_MoC/Place Name Evidence.jsonl");
+  const placeEvidence = core.parsePlaceEvidenceStore(
+    fs.readFileSync(evidencePath, "utf8"),
+  );
+  core.attachPlaceEvidence(catalog, placeEvidence);
 
   assert.ok(subjects.length > 2600, `Expected >2600 subjects, got ${subjects.length}`);
   assert.ok(catalog.subjects.length > 1000);
@@ -166,6 +171,12 @@ function run() {
   );
   assert.ok(catalog.concepts.length > catalog.subjects.length);
   assert.equal(catalog.orphans.length, 0);
+  const placeSubjectCount = catalog.subjects.filter(
+    (subject) =>
+      subject.noteType === "place" && subject.path.startsWith("Gazetteer/"),
+  ).length;
+  assert.equal(placeEvidence.records.length, placeSubjectCount);
+  assert.equal(placeEvidence.metadata.place_count, placeSubjectCount);
 
   const outerOcean = concept(
     catalog,
@@ -183,14 +194,14 @@ function run() {
 
   const karawaDesert = concept(
     catalog,
-    "Gazetteer/Greater Dunmar/Hara Basin/~Karawa Desert~.md",
+    "Gazetteer/Greater Dunmar/Hara Basin/Karawa Desert.md",
     "Karawa Desert",
   );
   assert.ok(karawaDesert);
   assert.equal(karawaDesert.needsNameReview, true);
   assert.deepEqual(
     karawaDesert.nameReviewReasons,
-    ["provisional-name-marker"],
+    ["status/check/name"],
   );
 
   const houseOfSewick = concept(
@@ -308,6 +319,11 @@ function run() {
       candidate.preferredForm === "Valley of the Hidden Forest"
     ).sourceForm,
     "Naun Tarvanos",
+  );
+  assert.ok(valley.every((candidate) => candidate.placeEvidence));
+  assert.equal(
+    valley[0].placeEvidence.subject,
+    "Gazetteer/Central Highlands/Valley of the Hidden Forest.md",
   );
 
   const ragath = catalog.concepts.filter(

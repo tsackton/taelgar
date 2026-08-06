@@ -1,5 +1,6 @@
 ---
 tags: [place]
+tentativeReason: "unclear if this exists"
 ---
 
 Brainstorming the "other branch of the Dunmari", which has never actually been introduced in a game and might not be canonical.
@@ -13,4 +14,3 @@ Brainstorming the "other branch of the Dunmari", which has never actually been i
 - Now sedentary
     
 - Traders? Connection between Green Sea economy and desert/points south?
-

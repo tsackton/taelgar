@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
+tags: [place]
 displayDefaults:
   defArt: ""
 name: Rogue's Range
@@ -13,6 +11,7 @@ whereabouts:
 dm_notes: none
 dm_owner: tim
 typeOfAlias: tavern
+tentativeReason: "unclear if this exists; from Great Library campaign, see note"
 ---
 # Rogue's Range
 >[!info]+ Information  
