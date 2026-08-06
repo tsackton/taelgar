@@ -7,8 +7,8 @@ species: fey
 speciesAlias: humanoid badger
 gender: male
 whereabouts: Lord Endless Ending's Manor
-dm_owner: schwartz
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # Endlessly Ending's Butler
 >[!info]+ Biographical Info  
