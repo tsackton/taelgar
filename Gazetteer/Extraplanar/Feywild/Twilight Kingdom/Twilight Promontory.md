@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place]
 typeOf: topographical feature
 typeOfAlias: promotory
 whereabouts: Twilight Kingdom
@@ -12,6 +12,10 @@ whereabouts: Twilight Kingdom
 
 The Twilight promontory is a rocky overlook reached by a westward path from the road north of [[Lord Endless Ending's Manor]]. 
 
+%%^Date:1740-10-07a%%
 A freestanding door at its end leads into the [[27th House]].
+%%^End%%
 
-%% the well is presumably a portal out of the universe, or some kind of hole in the universe, or maybe a portal to a Far Realm. nothing firm established. %%
+%%^Date:1740-10-07%%
+A strange well, seemingly bottomless, sits here. Some rumors say it leads outside the universe, to some strange alien realm. Others claim it is a hole in the universe that cannot be healed. No one who has entered it has ever returned.
+%%^End%%
