@@ -7,7 +7,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-05), evening: party ends at [[single door on the western promontory]].
+- Candidate party whereabouts: (DR:: 1740-10-05), evening: party ends at single door on the western promontory.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -19,7 +19,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.whereabouts.npcs -->
 - [[Lord Endless Ending]]: no whereabouts update; he remains at [[Lord Endless Ending's Manor]] while the party and [[Menestheus]] continue to the lone door.
-- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
+- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> single door on the western promontory.
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: single door on the western promontory}`
 - road guards: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's manor]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Lord Endless Ending's manor}`
@@ -30,8 +30,8 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- eastern screech owl familiar: candidate item-location update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
-- [[Brilliant Numbers]]: candidate item-location update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
+- eastern screech owl familiar: candidate item-location update from (DR:: 1740-10-05), evening ->single door on the western promontory.
+- [[Brilliant Numbers]]: candidate item-location update from (DR:: 1740-10-05), evening -> single door on the western promontory.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->

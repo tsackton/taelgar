@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Audit Taelgar tilde placeholders and internal link integrity.
 
-The scan is read-only. It indexes every visible Markdown note as a possible
-target, while excluding raw/generated source trees, templates, and inline or
-fenced code from the source scan. Both Obsidian wikilinks and local Markdown
-links ending in .md are checked. Reports are written as JSON and TSV files.
+The scan is read-only. It scans every Markdown note Obsidian indexes, apart
+from the generated clickable unresolved-link report itself, while excluding
+inline and fenced code. Both Obsidian wikilinks and local Markdown links ending
+in .md are checked. Reports are written as JSON and TSV files.
 """
 
 import argparse
@@ -39,6 +39,7 @@ BLOCK_RE = re.compile(r'(?:^|\s)\^([A-Za-z0-9_-]+)\s*$')
 REPORT_SOURCE_EXCLUSIONS = {
     '_MoC/Data Quality/Links/Unresolved Links.md',
 }
+OBSIDIAN_IGNORE_FILTERS = []
 
 
 def rel(path):
@@ -48,22 +49,47 @@ def rel(path):
 def indexed_markdown(path):
     r = rel(path)
     parts = Path(r).parts
-    if not parts or r == 'AGENTS.md':
+    if not parts:
         return False
     if parts[0] == '.backups' or any(p.startswith('.') for p in parts):
         return False
+    for pattern in OBSIDIAN_IGNORE_FILTERS:
+        try:
+            if re.search(pattern, r):
+                return False
+        except re.error:
+            if pattern in r:
+                return False
     return True
 
 
+def load_obsidian_ignore_filters():
+    """Read the same excluded-file patterns used by the Obsidian vault."""
+    config = ROOT / '.obsidian' / 'app.json'
+    if not config.exists():
+        return []
+    try:
+        data = json.loads(config.read_text(encoding='utf-8'))
+    except (OSError, json.JSONDecodeError):
+        return []
+    return [
+        pattern for pattern in data.get('userIgnoreFilters', [])
+        if isinstance(pattern, str) and pattern
+    ]
+
+
 def source_category(r):
-    top = Path(r).parts[0]
+    parts = Path(r).parts
+    top = parts[0]
+    if '_generated' in parts:
+        return 'generated'
+    if '_templates' in parts:
+        return 'template'
     if top in CANON_TOP:
         return 'canon'
     if top in {'_DM_', '_dm_notes'}:
         return 'session-dm'
-    if (top == '_sessions'
-            and '/sources/' not in '/' + r
-            and '/cleaned/' not in '/' + r):
+    if top == '_sessions':
         return 'session-dm'
     if r.startswith('Worldbuilding/Staging/'):
         return 'staging'
@@ -73,29 +99,14 @@ def source_category(r):
         return 'worldbuilding'
     if top == '_MoC':
         return 'vault-support'
-    return None
+    return 'other'
 
 
 def scanned_source(path):
     r = rel(path)
-    parts = Path(r).parts
     if r in REPORT_SOURCE_EXCLUSIONS:
         return False
-    cat = source_category(r)
-    if cat is None:
-        return False
-    if '_generated' in parts or '_templates' in parts or '_scripts' in parts:
-        return False
-    if ('_sessions' in parts
-            and ('/sources/' in '/' + r or '/cleaned/' in '/' + r)):
-        return False
-    if r.startswith('Worldbuilding/Chats and Emails/'):
-        return False
-    if r.startswith('Campaigns/Cleenseau Campaign/Raw Emails/'):
-        return False
-    if r.startswith("Campaigns/Cleenseau Campaign/Celyn's Stories/"):
-        return False
-    return True
+    return indexed_markdown(path)
 
 
 def split_frontmatter(text):
@@ -363,7 +374,7 @@ def write_unresolved_note(path, broken, metadata):
         '',
         f'- **{len(groups)}** unresolved targets: **{len(missing_notes)}** notes and **{len(missing_attachments)}** attachments',
         f'- **{len(broken)}** occurrences across **{len(unique_sources)}** source files',
-        f'- **{metadata["scanned_source_markdown"]}** source notes scanned; raw and generated processing material excluded',
+        f'- **{metadata["scanned_source_markdown"]}** Obsidian-indexed source notes scanned; this report itself excluded',
         f'- Includes **{metadata.get("total_markdown_links", 0)}** local `.md`-style Markdown links in addition to Obsidian wikilinks',
         '- Sorted by number of distinct source files, then alphabetically',
         '- One representative context snippet is shown per source file; repeated occurrences in that file are counted',
@@ -427,11 +438,12 @@ def parse_args():
 
 
 def main():
-    global ROOT, OUT, OLD
+    global ROOT, OUT, OLD, OBSIDIAN_IGNORE_FILTERS
     args = parse_args()
     ROOT = Path(args.root).expanduser().resolve()
     OUT = Path(args.output_dir).expanduser().resolve()
     OLD = Path(args.compare).expanduser().resolve() if args.compare else None
+    OBSIDIAN_IGNORE_FILTERS = load_obsidian_ignore_filters()
     if OUT.exists():
         shutil.rmtree(OUT)
     OUT.mkdir(parents=True)

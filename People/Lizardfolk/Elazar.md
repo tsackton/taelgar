@@ -43,7 +43,7 @@ SORT choice(contains(file.tags,"organization"), "Organization", "Person"), choic
 
 About 80, in the prime of his life, Elazar is a prophet, a seer, and a spirit guide. He has deeply felt visions, and exceptional perception into the spirit realms.
  
-However, he is also something of an outcast in his village of [Berdez](Berdez), and in Orekatu, and has a bit of a Cassandra-like reputation.
+However, he is also something of an outcast in his village of [[Bedez]], and in Orekatu, and has a bit of a Cassandra-like reputation.
  
 Not that he is not believed, not exactly. The nature of divination magic and the power of the ancestor's augury means that no one totally discounts him, and the village elders don't mistrust his words or anything.
  

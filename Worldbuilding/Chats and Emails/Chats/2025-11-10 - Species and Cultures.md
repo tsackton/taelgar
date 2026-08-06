@@ -58,7 +58,7 @@
     Spoken languages and common naming patterns as well as any in-world lore about the meaning of names.
     
     `%%`^Campaign:None`%%`
-    DM-facing notes for naming; link to [[Playing A Species#Species Names]] for specific examples / practice guidance.
+    DM-facing notes for naming; link to `[[Playing A Species#Species Names]]` for specific examples / practice guidance.
     `%%`^End`%%`
     ## Lifecycle
     

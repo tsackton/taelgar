@@ -7,10 +7,10 @@
 [u0007] - **March 19 (late night):** [[Viepuck]]’s urchin infiltration and disappearance triggers search; [[Etienne]] later jailed.
 [u0008] - **March 20 (morning):** Paranoia escalates; magistrate and steward consultations; [[Sylvan Writing|Sylvan]] evidence produced (unread) regarding [[Isabeau D'Aslain|the Baroness]] and [[Areschera|a fairy]].
 [u0009] - **March 20 (day):** Pendant ruse with sketch by [[Rene d'Aslain]]; [[Celyn]] studies tells; locate-object misdirection citing paired-set interference.
-[u0010] - **March 20 (evening):** Scrying on [[Robin]] detected; move to former [[Areschera|fairy]] tower barracks; dinner cancellation.
-[u0011] - **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by [[Robin]]; overnight public holding while the [[~Lich Killing Party~|heroes of the Night Queen]] advance their separate assault.
+[u0010] - **March 20 (evening):** Scrying on [[Robin of Abenfyrd|Robin]] detected; move to former [[Areschera|fairy]] tower barracks; dinner cancellation.
+[u0011] - **March 20 (sunset–night):** Courtyard accusation of murder and necromancy; daylight challenge by [[Robin of Abenfyrd|Robin]]; overnight public holding while the [[~Lich Killing Party~|heroes of the Night Queen]] advance their separate assault.
 [u0012] ## Cast of Characters
-[u0013] - **[[Robin]]** – paladin; dramatic negotiator and public challenger - **[[Viepuck]]** – arcane troublemaker; urchin disguise infiltration - **[[Celyn]]** – class-conscious observer; prophetic blessing source - **[[Izgil]]** – pedantic spellcaster; locate-object ruse architect - **[[Isabeau D'Aslain]]** – Baroness; suspected pact with [[Areschera|a fairy]] - **[[Marian]]** – Warlord cleric; strained Zone of Truth miracle - **[[Etienne]]** – Captain of the Guard; jailed amid chaos - **[[Merriweathers]]** – halfling tailors/intelligence network; vanish overnight - **[[Emeric]]** – steward - **[[Victorine Rosseau]]** – chief magistrate - **[[Thomas Dyerson]]** – circuit magistrate - **[[Esme d'Aslain]]** – niece; fearful yet fascinated by magic - **[[Rene d'Aslain]]** – artistic nephew; pendant sketch - **[[Graymalkin]]** – gryphon companion - **[[Robert I|the lich]]** – adversary referenced via self-detection spell
+[u0013] - **[[Robin of Abenfyrd|Robin]]** – paladin; dramatic negotiator and public challenger - **[[Viepuck]]** – arcane troublemaker; urchin disguise infiltration - **[[Celyn]]** – class-conscious observer; prophetic blessing source - **[[Izgil Moonseeker|Izgil]]** – pedantic spellcaster; locate-object ruse architect - **[[Isabeau D'Aslain]]** – Baroness; suspected pact with [[Areschera|a fairy]] - **[[Marian]]** – Warlord cleric; strained Zone of Truth miracle - **[[Etienne]]** – Captain of the Guard; jailed amid chaos - **[[Merriweathers]]** – halfling tailors/intelligence network; vanish overnight - **[[Emeric]]** – steward - **[[Victorine Rosseau]]** – chief magistrate - **[[Thomas Dyerson]]** – circuit magistrate - **[[Esme d'Aslain]]** – niece; fearful yet fascinated by magic - **[[Rene d'Aslain]]** – artistic nephew; pendant sketch - **[[Greymalkin]]** – gryphon companion - **[[Robert I|the lich]]** – adversary referenced via self-detection spell
 [u0014] ## Places
 [u0015] - **[[Veltor]]** – capital of the [[Barony of Aveil]] - **[[Granite Mug]]** – town inn for guards and locals - **[[Golden Quill]]** – law clerks’ inn - **Baroness’s Keep** – locus of oath, pendant ruse, and accusation - **Former [[Areschera|a fairy]] Tower** – repurposed barracks room - **[[Cleenseau Wood]]** – forest of prior uncertain necromantic encounters
 [u0016] ## Narrative
@@ -24,14 +24,14 @@
 [u0024] (Particularly #1 and #3.)
 [u0025] So: someone sends up to the Warlord temple to bring down [[Marian]], the senior person who can call upon miracles, to interrogate us about our intentions.
 [u0026] The runner arrives a bit breathless.
-[u0027] [[Robin]] of course immediately says something to the effect of, "Look, we've been summoned here, but if I can't go into the city without committing to break my vows as a knight if I encounter people in need of my strength I guess we're staying out here."
-[u0028] Now, [[Marian]] is a reasonable cleric who understands the value of the aforementioned #1 and #3 so there is an extended negotiation in which we commit to not using magic inside the city unless it is necessary for, you know, defense of the people, and swear according to powers that she accepts as legitimate ([[Robin]] on [[The Wanderer]], [[Celyn]] on [[The Wyrdling]]'s chance and fate, [[Izgil]] on the [[Baharazel]], and I ...
+[u0027] [[Robin of Abenfyrd|Robin]] of course immediately says something to the effect of, "Look, we've been summoned here, but if I can't go into the city without committing to break my vows as a knight if I encounter people in need of my strength I guess we're staying out here."
+[u0028] Now, [[Marian]] is a reasonable cleric who understands the value of the aforementioned #1 and #3 so there is an extended negotiation in which we commit to not using magic inside the city unless it is necessary for, you know, defense of the people, and swear according to powers that she accepts as legitimate ([[Robin of Abenfyrd|Robin]] on [[The Wanderer]], [[Celyn]] on [[The Wyrdling]]'s chance and fate, [[Izgil Moonseeker|Izgil]] on the [[Bahrazel|Bahrâzel]], and I ...
 [u0029] forget how [[Viepuck]] managed to finesse his nonsense).
 [u0030] Then we have to swear that we haven't encountered necromantic stuff in the last week, which is complicated!
 [u0031] Because we obtained that [[Malach's Phylactery|phylactery piece]] and were dealing with it at some level until yesterday morning, you see.
 [u0032] And for this she has - with visible strain - invoked a miracle of truth telling.
 [u0033] So we can't lie!
-[u0034] [[Robin]] manages to thread the needle by noting that we were in [[Cleenseau Wood]] and encountered all kinds of weird shit there and he could not promise that all of it _wasn't_ necromantic, everyone knows the forest is full of all kinds of weird haunted stuff.
+[u0034] [[Robin of Abenfyrd|Robin]] manages to thread the needle by noting that we were in [[Cleenseau Wood]] and encountered all kinds of weird shit there and he could not promise that all of it _wasn't_ necromantic, everyone knows the forest is full of all kinds of weird haunted stuff.
 [u0035] We were eventually pinned down to swearing - by [[Viepuck]]'s phrasing - that we had not encountered any necromantic stuff that [[Isabeau D'Aslain|the Baroness]] should be informed of that she was not already aware of, which works on many levels.
 [u0036] In telepathic contact with [[Viepuck]] (where some of this negotiation happened) [[Marian]] said something to the effect of "You know more than you're sharing" and after discussion did not get filled in but agreed to be a Help if we needed a Help in the future.
 [u0037] [[Veltor]] is a weird town - it's in the back-ass end of the broad valley between mountain spurs/haunted forest/etc.
@@ -39,19 +39,19 @@
 [u0039] Which means that there isn't any travel through - it's the end of the line - and there's very little reason to go there without being on Official Business, which means there are two inns/taverns in town.
 [u0040] The [[Golden Quill]] is for the law clerks, and the [[Granite Mug]] is for the townies.
 [u0041] We wound up in the [[Granite Mug]], which is currently full of guardsmen who have finished the night shift and are getting a meal before falling over.
-[u0042] One of whom - the [[Pierre the Guard|dwarf fanboy]] - spots us, squeaks an, "I know those guys!" type comment, and promptly gets buttonholed by [[Izgil]] who wants to talk to him about how he's doing, how things are, what's up with these new regulations, and so on.
+[u0042] One of whom - the [[Pierre the Guard|dwarf fanboy]] - spots us, squeaks an, "I know those guys!" type comment, and promptly gets buttonholed by [[Izgil Moonseeker|Izgil]] who wants to talk to him about how he's doing, how things are, what's up with these new regulations, and so on.
 [u0043] Which gets the entire crew listening to our reports of what's been going on in the rest of the barony in varying levels of competence at eavesdropping (none in [[Celyn]]'s league).
 [u0044] The proprietor, [[Brunna Marrek|the proprietor]], offers to set us up with a meeting with [[Etienne]], who is _from_ [[Veltor]] but has been in service to the baroness's family in [[Aslain]] for some time and this might be presumed loyal there and possibly a problem for us if his loyalty is kneejerk.
 [u0045] ETA: [[Viepuck]] does make a point of noting that normally in an inn he would put on a show but since he can't use his illusion spells right now he is tragically unable to do this thing.
 [u0046] We do various planning and drift over to knock on the [[Merriweathers]]' door, as while they're usually open in the afternoon they are known to occasionally respond when people knock.
 [u0047] We encounter one of them ([[Primrose Merriweather]]) hanging out watching the activity in the square on the way and promptly fall into a conversation about clothes.
-[u0048] ([[Robin]]: heavy armor, clothes not visible/relevant.
-[u0049] [[Izgil]]: dresses as well-off merchant class.
+[u0048] ([[Robin of Abenfyrd|Robin]]: heavy armor, clothes not visible/relevant.
+[u0049] [[Izgil Moonseeker|Izgil]]: dresses as well-off merchant class.
 [u0050] [[Viepuck]] the not-very-former-street-rat: deemed to be a sensible size by a halfling tailor.
 [u0051] [[Celyn]], who dresses like a well-off peasant: "We can probably help you.")
 [u0052] At which point, [[Celyn]] launches into an extremely well-informed and clearly conscious commentary on clothing, class, the implications of wearing particular clothing, the messages conveyed thereby, and so on— a topic he has been discussing with [[Viepuck]] on and off because he feels that [[Viepuck]] as a grifter should have solid understanding of how to construct an outfit for effect rather than merely copying off people with the right vibe.
-[u0053] [[Viepuck]], as a former tailor's apprentice, also has things to talk about regarding construction, and [[Izgil]] as a former merchant has thoughts about clothing as well, so the three of them and the two halflings (Primrose and her quiet brother [[Corrin Merriweather]]) talk shop for several hours.
-[u0054] ([[Celyn]] at one point checks in with [[Robin]] about whether or not he wants to be included in the talking shop, but [[Robin]] demurs.)
+[u0053] [[Viepuck]], as a former tailor's apprentice, also has things to talk about regarding construction, and [[Izgil Moonseeker|Izgil]] as a former merchant has thoughts about clothing as well, so the three of them and the two halflings (Primrose and her quiet brother [[Corrin Merriweather]]) talk shop for several hours.
+[u0054] ([[Celyn]] at one point checks in with [[Robin of Abenfyrd|Robin]] about whether or not he wants to be included in the talking shop, but [[Robin of Abenfyrd|Robin]] demurs.)
 [u0055] (I am eternally amused that [[Celyn]] dresses to give the impression that he's a well-off peasant _extremely intentionally_, and I am glad it came out so overtly for once.
 [u0056] The reasons are not _just_ that he's actually very class conscious _and is a well-off peasant damnit_, but they do include that.)
 [u0057] When the conversation works around to [[Isabeau D'Aslain|the Baroness]], [[Viepuck]] comments that she's evil.
@@ -60,10 +60,10 @@
 [u0060] We have lunch with the proprietor of the other inn for more intel gathering, I believe.
 [u0061] (I was out of the room/having a brain crash phase for a chunk of this bit.)
 [u0062] Amongst the intel we collect in here is that it is generally put around that [[Areschera|a fairy]] was verified to have turned up in mid-February, which we know is about six weeks later than when she made the deal with [[Isabeau D'Aslain|the Baroness]], which is dated like 2 January.
-[u0063] [[Izgil]] considers this inaccuracy in calendrical systems to be a personal insult which he cannot properly object to because the general consensus in town is that we do not poke that bear.
+[u0063] [[Izgil Moonseeker|Izgil]] considers this inaccuracy in calendrical systems to be a personal insult which he cannot properly object to because the general consensus in town is that we do not poke that bear.
 [u0064] Eventually we repair to our rooms in the [[Granite Mug]], and everyone goes to bed, with the information that [[Etienne]] will come chat with us over breakfast, and [[Isabeau D'Aslain|the Baroness]] expects to see us the day after tomorrow.
 [u0065] Only [[Viepuck]] decides to carry on his efforts to Troll The Everliving Fuck Out Of [[Isabeau D'Aslain|the Baroness]], sneaks out of town, disguises himself as a younger, more bedraggled urchin, and reports to the gate that he was told to deliver something to [[Isabeau D'Aslain|the Baroness]] in the middle of the night.
-[u0066] The gate guard ([[Marius]]) gets [[Etienne]], who does a perfunctory 'swear to not do magic' thing, takes the fake necklace that [[Viepuck]] had had [[Izgil]] make out of stuff we had lying around the party, goes, "This isn't what I was told to get, but okay, we'll see" and stashes the urchin in the keep.
+[u0066] The gate guard ([[Marius]]) gets [[Etienne]], who does a perfunctory 'swear to not do magic' thing, takes the fake necklace that [[Viepuck]] had had [[Izgil Moonseeker|Izgil]] make out of stuff we had lying around the party, goes, "This isn't what I was told to get, but okay, we'll see" and stashes the urchin in the keep.
 [u0067] [[Viepuck]] as the urchin proceeds to explain to everyone awake around him that he's scared and hungry, gets taken to the mess hall (where night staffer [[Hesta Brill]] feeds him), and ducks out when the middle of the night crew is looking the other way.
 [u0068] Which absolutely sets the cat among the pigeons.
 [u0069] When we wake up, in fact, we learn that [[Etienne]] has been jailed for incompetence, and there are people searching for this small boy who is suspected of being a necromancer because of course everything that goes wrong in the area is necromancers, the [[Merriweathers]] (who have had, as a family, a shop in this town for 200 years) have up and vanished in the night, and the general paranoia levels are ridiculous, and ongoing chaos is ongoing.
@@ -86,7 +86,7 @@
 [u0086] We get to a point in dealing with this that we basically crack out the proof that [[Isabeau D'Aslain|the Baroness]] and [[Areschera|a fairy]] were in cahoots, though nobody can read Sylvan but the party and we don't want to bother [[Marian]] to have us attest to it under verifiable oath she needs to sleep the last one off.
 [u0087] The [[Victorine Rosseau|magistrate]] wants to head off to the capital immediately to report on this chaos, we ask her to stay at least until after our audience with [[Isabeau D'Aslain|the Baroness]] because her word of honor holds a lot of weight.
 [u0088] (I don't know about everyone else but given that the high-level party is supposed to, we hope, take out [[Robert I|the lich]] at any moment now I figure the week of travel is enough time to not make this reporting a problem for the magistrate unless it was going to be a problem for everyone ever because they lost, so it is not worth convincing her not to go to the capital at all.)
-[u0089] ETA: [[Izgil]] gets the opportunity to explode in pedantic aggravation because _that contract is dated before February 12 argh_.
+[u0089] ETA: [[Izgil Moonseeker|Izgil]] gets the opportunity to explode in pedantic aggravation because _that contract is dated before February 12 argh_.
 [u0090] Which you can tell I meant to put in this because it was in his dramatis personae summary.
 [u0091] While we are having this conversation, [[Celyn]] hears someone come down the stairs and signals to people.
 [u0092] He can't hear what's being said at the end of the hall, but someone says it sounds like [[Isabeau D'Aslain|the Baroness]], so all the evidence bits are promptly hidden and everyone does their best to look like they're not up to something, with varying levels of success probably.
@@ -94,38 +94,38 @@
 [u0094] With a good enough description, yes.
 [u0095] She does description, we ask for a drawing, she sweeps us all up into the keep to get her nephew [[Rene d'Aslain]] who is a good artist to get him to draw the damn pendant (the [[Locket of Sending]]) while we scramble for a plan.
 [u0096] ETA: Because [[Celyn]] knows specifically that she is lying about the pendant he takes this opportunity to focus on trying to pull out her tells, as being better at knowing when she's lying in the future will be potentially useful.
-[u0097] There is some discussion, as [[Izgil]] works on the locate object spell, with [[Isabeau D'Aslain|the Baroness]]'s niece [[Esme d'Aslain]], who is scared of magic and also fascinated.
-[u0098] She's concerned that magical studies will twist someone, [[Izgil]] assures that with the correct attitude magic goes fine, but if magic is sought for reasons of power and domination that will twist people.
+[u0097] There is some discussion, as [[Izgil Moonseeker|Izgil]] works on the locate object spell, with [[Isabeau D'Aslain|the Baroness]]'s niece [[Esme d'Aslain]], who is scared of magic and also fascinated.
+[u0098] She's concerned that magical studies will twist someone, [[Izgil Moonseeker|Izgil]] assures that with the correct attitude magic goes fine, but if magic is sought for reasons of power and domination that will twist people.
 [u0099] A side comment about fear gets [[Celyn]] saying that it depends on the fear, because if the fear is driving the choices then that is bad, but if the fear is harnessed and overcome, that is beneficial, which gets [[Esme d'Aslain]] shooting a sidelong glance at her aunt.
 [u0100] We are not sure how to interpret that other than 'fear is a factor in auntie's stuff', which we kinda knew.
-[u0101] Anyway, according to plan [[Izgil]] does the magic and reports that he can't get a good location on [[Locket of Sending|the item]] because it's part of a paired set and they're interfering with each other.
+[u0101] Anyway, according to plan [[Izgil Moonseeker|Izgil]] does the magic and reports that he can't get a good location on [[Locket of Sending|the item]] because it's part of a paired set and they're interfering with each other.
 [u0102] [[Isabeau D'Aslain|the Baroness]] is basically at "Fabulous, we will try again tomorrow when you have figured out how to correct for that, come, let me show you to guest rooms.
 [u0103] Join us for a family dinner this evening after sunset." We are shown to guest rooms, and send to the [[Granite Mug]] for our stuff from the rented rooms.
-[u0104] In the guest rooms, [[Viepuck]] discovers we are being scried on via various shenanigans, and that the scry point is basically tracking [[Robin]] in specific.
-[u0105] [[Robin]]: Why me?
-[u0106] [[Izgil]]: You're the leader.
-[u0107] [[Robin]], bewildered: Am I?
+[u0104] In the guest rooms, [[Viepuck]] discovers we are being scried on via various shenanigans, and that the scry point is basically tracking [[Robin of Abenfyrd|Robin]] in specific.
+[u0105] [[Robin of Abenfyrd|Robin]]: Why me?
+[u0106] [[Izgil Moonseeker|Izgil]]: You're the leader.
+[u0107] [[Robin of Abenfyrd|Robin]], bewildered: Am I?
 [u0108] [[Celyn]]: Other people think so.
-[u0109] [[Robin]]: I guess?
+[u0109] [[Robin of Abenfyrd|Robin]]: I guess?
 [u0110] [[Celyn]]: You have the fanciest armor.
-[u0111] [[Robin]]: Okay....
+[u0111] [[Robin of Abenfyrd|Robin]]: Okay....
 [u0112] [[Celyn]]: What do people look for when they're looking for the leader?
 [u0113] The handsome man in the fancy armor.
-[u0114] ([[Robin]] could not argue with that sociological analysis, even if it was also [[Celyn]] being the world's least subtle flirter.)
+[u0114] ([[Robin of Abenfyrd|Robin]] could not argue with that sociological analysis, even if it was also [[Celyn]] being the world's least subtle flirter.)
 [u0115] (When I quoted that bit at someone else she said, "Also, have you seen the other people in your party." Which is a valid and entirely separate point, because the other people in the party are in fact _three lunatics_.)
 [u0116] The genuinely somewhat sensible thing to do here is to go to the guards and say "We're being spied on magically, please tell [[Isabeau D'Aslain|the Baroness]], she would want to know" because if [[Isabeau D'Aslain|the Baroness]] is responsible for the scry point then she has some sense we figured something out and knowing how paranoid she is, not telling her would be suspicious, and if [[Isabeau D'Aslain|the Baroness]] _isn't_ responsible for the scry point then there is even more going on and likewise.
 [u0117] After some flailing about, it is suggested that we move to a safe space in the dungeon in case we are attacked.
-[u0118] [[Robin]] is extremely disinclined to acquiesce to the request.
-[u0119] He also suggests to [[Izgil]] that "doesn't your spell require line of sight to the moon", which is a level of outright falsity that one does not expect from the paladin.
+[u0118] [[Robin of Abenfyrd|Robin]] is extremely disinclined to acquiesce to the request.
+[u0119] He also suggests to [[Izgil Moonseeker|Izgil]] that "doesn't your spell require line of sight to the moon", which is a level of outright falsity that one does not expect from the paladin.
 [u0120] We point out to the guards that if something comes to attack us we are better equipped to handle it than they are and it would be better to not put them between us and the problem, which they do in fact find convincing.
 [u0121] [[Viepuck]] eventually stomps over to the tower [[Areschera|a fairy]] was occupying so we can claim the barracks room on the top as least disruptive, though [[Annette|the replacement Clerk]] is quite put out by our nonsense.
-[u0122] (For which she apologizes several times.) We set up our stuff, [[Celyn]] plays dice games by himself because nobody else in the party is a gambler, [[Robin]] summons [[Graymalkin]] to hang out by the stairs, and eventually we tromp downstairs for dinner.
+[u0122] (For which she apologizes several times.) We set up our stuff, [[Celyn]] plays dice games by himself because nobody else in the party is a gambler, [[Robin of Abenfyrd|Robin]] summons [[Greymalkin]] to hang out by the stairs, and eventually we tromp downstairs for dinner.
 [u0123] The landing is full of guards who are supposed to keep us up there who say dinner has been cancelled.
-[u0124] They are going to be difficult until they see [[Graymalkin]] following us downstairs at which point this turns into an awkward parade of people following us as we go off in search of some damn food.
+[u0124] They are going to be difficult until they see [[Greymalkin]] following us downstairs at which point this turns into an awkward parade of people following us as we go off in search of some damn food.
 [u0125] (Honestly I suspect a lot of drama would have been prevented on their part if someone had had the wits to say something like "Something has come up, we're terribly sorry, we shall have a meal brought up to you immediately." [[Isabeau D'Aslain|the Baroness]]'s social graces in implementing deceptions are not up to standards.)
-[u0126] As we reach the keep's courtyard people scatter before us for reasons other than [[Graymalkin]], as eventually it turns into someone saying, "It's the necromancers!"
-[u0127] This is the point where [[Robin]], armed with his [[Lantern of the Bright Hearth|lantern]], casts a daylight spell to illuminate the sunset-level courtyard, mounts [[Graymalkin]], and demands to face his accusers, because he is absolutely not here for any of this nonsense and wants to have it sorted promptly.
+[u0126] As we reach the keep's courtyard people scatter before us for reasons other than [[Greymalkin]], as eventually it turns into someone saying, "It's the necromancers!"
+[u0127] This is the point where [[Robin of Abenfyrd|Robin]], armed with his [[Lantern of the Bright Hearth|lantern]], casts a daylight spell to illuminate the sunset-level courtyard, mounts [[Greymalkin]], and demands to face his accusers, because he is absolutely not here for any of this nonsense and wants to have it sorted promptly.
 [u0128] After a great deal of flailing about, we learn that the Baroness' guard claimed we did a runner after murdering two guards, which is patently nonsense by the fact that we came down looking for dinner and I suspect everyone knows it but random claims of necromancy are a thing these days, and we are eventually stashed in the courtyard overnight for everyone to watch and a trial will be held in the morning.
-[u0129] There is something about holding a magic item as a hostage but the only one that anyone has any real substantial investment in is [[Robin]]'s [[Lantern of the Bright Hearth|lantern]] and while he's willing to let someone else have custody of it for the interim he's not willing to let it out of his _sight_.
+[u0129] There is something about holding a magic item as a hostage but the only one that anyone has any real substantial investment in is [[Robin of Abenfyrd|Robin]]'s [[Lantern of the Bright Hearth|lantern]] and while he's willing to let someone else have custody of it for the interim he's not willing to let it out of his _sight_.
 [u0130] Given that we have achieved "this is probably going to be dramatic", we ping the [[~Lich Killing Party~|heroes of the Night Queen]] to say when our nonsense is now predicted to happen so they're aware of what they have to work with.
 [u0131] I do not know if we ever got any damn dinner.
