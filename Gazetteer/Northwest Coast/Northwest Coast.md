@@ -58,7 +58,7 @@ Although in the years before the [[Great War]] and the [[Blood Years]] that foll
 Elves:  None
 Dwarves:  ??
 Lizardfolk: ??
-Humans:  [[Mawar Confederacy]], [[~North Bay Realm~]], parts of Chardon that are remains of various ancient realms
+Humans:  [[Mawar Confederacy]], others undeveloped along the [[Slate Sea]], parts of Chardon that are remains of various ancient realms
 Stoneborn:  ??
 Hobgoblins: ??
 Dangerous Wildernesses: Yes

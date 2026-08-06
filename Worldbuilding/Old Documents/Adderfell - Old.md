@@ -27,7 +27,7 @@ _The cliff_. The central feature of Adderfell visible from a distance is a strik
  
 _Shops._ Most shops are located in the trade area, up from the docks; or alternatively near the market plaza along the warrens of streets and small alleyways in this area. The exception is weapons and armor; there are a weaponsmith and an armorer in the military district near the bottom of the steep climb, adjacent to the trade area. There are also goods available at market in the old town, and two large food markets (each several times a week), one in the poor area outside the walls and the other in the trade district.
  
-_Old Town Market._ Market has a variety of peddlers, tinkers, and merchants. Most simple goods are available, and some additional people. [Simi](Simi.md) the bookseller regularly spends mornings at the market; also [Hanse](Hanse.md) the jeweler, a friend of Simi.
+_Old Town Market._ Market has a variety of peddlers, tinkers, and merchants. Most simple goods are available, and some additional people. Simi the bookseller regularly spends mornings at the market; also Hanse the jeweler, a friend of Simi.
  
 _Temples_. There are four temples in town: 
 

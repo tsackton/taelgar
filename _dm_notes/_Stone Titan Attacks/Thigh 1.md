@@ -1,4 +1,4 @@
-Connections: [Leg #1](Leg%201.md), [Main Body](Main%20Body.md)
+Connections: [[Leg 1|Leg #1]], [[Main Body]]
 
 Scene:
  

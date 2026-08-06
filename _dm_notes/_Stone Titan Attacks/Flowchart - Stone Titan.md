@@ -1,29 +1,29 @@
 \> [!caution] This page contained a drawing which was not converted.   
 
-[Setup](Setup.md)
+[[Setup]]
    
 
-[Journey](Journey.md)
+[[Journey]]
 
-[Titan Appears](Titan%20Appears.md)
+[[Titan Appears]]
 
-[Head - Stone Titan](Head%20-%20Stone%20Titan.md)
+[[Head - Stone Titan]]
 
-[Neck](Neck.md)
+[[Neck]]
 
-[Main Body](Main%20Body.md)
+[[Main Body]]
 
-[Thigh #1](Thigh%201.md)
+[[Thigh 1|Thigh #1]]
 
-[Thigh #2](Thigh%202.md)
+[[Thigh 2|Thigh #2]]
 
 [Arm #2](Arm%202)
 
 [Arm #1](Arm%201)
 
-[Leg #1](Leg%201.md)
+[[Leg 1|Leg #1]]
 
-[Foot #1](Foot%201.md)
+[[Foot 1|Foot #1]]
 
 Notes:
  

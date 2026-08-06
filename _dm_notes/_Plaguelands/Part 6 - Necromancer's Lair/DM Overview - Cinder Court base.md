@@ -134,6 +134,6 @@ The doorway at the bottom of the pit is not trapped or locked, but requires a mi
  
 The bridge is trapped. Half way across, a 10' section is an illusion. Detectable with detect magic, or a DC 19 Intelligence (Perception) check. Otherwise, a DC 18 Dex save to avoid falling. If fall, take 3d6 bludgeoning damage and fall into mists. Only first person subject to trap, but also need to figure out how to cross.
  
-[see [DM Overview - Tower of the Dead](DM%20Overview%20-%20Tower%20of%20the%20Dead.md) for details]
+[[DM Overview - Tower of the Dead|see [DM Overview - Tower of the Dead]] for details]
 
 ![medieval watchtower Medieval Market Warhammer Terr...](Exported%20image%2020251029113935-0.jpeg)

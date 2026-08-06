@@ -1,4 +1,4 @@
-The approach to [Adderfell](Gazetteer/Greater%20Sembara/Addermarch/Adderfell.md) on the road is uneventful:
+The approach to [[Adderfell]] on the road is uneventful:
  
 _You approach Adderfell as the sun sinks low in the sky, maybe an hour before sunset. For the past several hours you’ve been traveling through a rich land of orchards, cows, and fields; despite the obvious agricultural bounty you see few people on the roads or in the fields._ 
  
@@ -8,4 +8,4 @@ _The ancient road you are following leads to the main gates of the walls._ 
  
 _What do you want to do?_
  
-[Eva](Eva.md) and [Bertram](Bertram.md) will stay with a friend in the area outside the walls, with a plan to sell their wares over the next couple of days and then return with a cousin and possibly hired guards. While they have nothing to pay you with, they tell you if you are ever in [Dunwick](Gazetteer/Greater%20Sembara/Addermarch/Dunwick.md) again to look them up and you’ll always have a place to stay.
+Eva and Bertram will stay with a friend in the area outside the walls, with a plan to sell their wares over the next couple of days and then return with a cousin and possibly hired guards. While they have nothing to pay you with, they tell you if you are ever in Dunwick again to look them up and you’ll always have a place to stay.

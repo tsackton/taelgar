@@ -2,23 +2,23 @@
 
 **Encounter Flowchart**
 
-[Adderfell Approach](Adderfell%20Approach.md)
+[[Adderfell Approach]]
 
-[Meeting Eofric](Meeting%20Eofric.md)
+[[Meeting Eofric]]
 
-[Owlbear Market Attack](Owlbear%20Market%20Attack.md)
+[[Owlbear Market Attack]]
 
-[Shadow Assassins](Shadow%20Assassins.md)
+[[Shadow Assassins]]
 
-[Council Meeting](Council%20Meeting.md)
+[[Council Meeting]]
 
-[Cinder Court Hideout](Cinder%20Court%20Hideout.md)
+[[Cinder Court Hideout - DM Notes|Cinder Court Hideout]]
 
 Owlbear attack happens on day between initial meeting with Eofric and council meeting, so if don't visit market during that day will miss it and just hear rumors.
 
-[City Scenes](City%20Scenes.md)
+[[City Scenes]]
 
-[Doppleganger chase](Doppleganger%20chase.md)
+Doplerganger Chase
 
 [Leaving Adderfell](Leaving%20Adderfell)
 
@@ -28,8 +28,8 @@ This section of the campaign starts with the approach to Adderfell and the intro
 
 ## Sessions
 
-1. [Session 1](Adderfell%20-%20Plaguelands%20-%20Session%20Notes.md): Adderfell, the Earl, and the Cinder Court
-2. [Session 2](Adderfell%20-%20Plaguelands%20-%20Session%20Notes.md): Exposing the Cinder Court Hideout
+1. [[Adderfell - Plaguelands - Session Notes|Session 1]]: Adderfell, the Earl, and the Cinder Court
+2. [[Adderfell - Plaguelands - Session Notes|Session 2]]: Exposing the Cinder Court Hideout
 
 Add:  
 Cinder Court Hideout part 2  

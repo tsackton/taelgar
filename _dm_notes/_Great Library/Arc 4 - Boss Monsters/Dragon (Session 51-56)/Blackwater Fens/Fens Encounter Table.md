@@ -23,7 +23,7 @@ Be creative - but the main idea here should be that once they are spotted once, 
 |14|Field of tri-flower fronds, with the additional false form characteristic, they look just like the usual dismal swamp vegetation (or at least don't look alive)|
 |15|Animated breath (acid) patrol. One will immediately flee to warn Nymthrax; the other will sacrifice itself to ensure its companion gets away.|
 |16|A small ruin, what was perhaps once a small chapel or village temple, but has been almost entirely swallowed by the swamp. Inside, two wraiths (one perhaps buffed with Forbidden Lairs / Ithryx wraith stats]|
-|17|A gray standing stone, use [The Harmony Stone](Gazetteer/Greater%20Chardon/Chardonian%20Empire/Chasa%20River%20Valley/Chasa%20River%20Valley.md) as background, halfway sunken and tipping over. If it is righted, will feel sense of peace, see the area as it once was. Safe place to long rest if fixed. Might add some weak enemies|
+|17|A gray standing stone, use [[Chasa River Valley|The Harmony Stone]] as background, halfway sunken and tipping over. If it is righted, will feel sense of peace, see the area as it once was. Safe place to long rest if fixed. Might add some weak enemies|
 |18|The top of what was once a castle sticking out of the ground. The area around it functions as quicksand, but if they can get past the quicksand and dig underground, it is a safe place to long rest. Some oozes hang out in quicksand, need to be killed first [|
 |19|pick one of 16-18, the wraith lair is safe to rest once killed|
 |20|A small chapel, amazing still intact, blessed by the night queen. Under effects of a _Hallow_ spell, and a safe place to long rest.|

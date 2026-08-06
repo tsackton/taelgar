@@ -2,7 +2,7 @@
 [u0002] Three lunatics and a paladin, once more.
 [u0003] Dramatis Personae:
 [u0004] Viepuck and Izgil, who have complicated magical theory shit going on Celyn and Robin, who hit things and heal people
-[u0005] When we left off we had [[~Lich Phylactery~|retrieved an evil sphere]] and yelled for help answering what to do with it.
+[u0005] When we left off we had [[Malach's Phylactery|retrieved an evil sphere]] and yelled for help answering what to do with it.
 [u0006] We are currently probably the second most powerful adventuring party that's in this region.
 [u0007] (The third most powerful is working for us.) We are a seventh level party.
 [u0008] The most powerful adventuring party?

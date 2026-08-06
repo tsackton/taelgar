@@ -1,4 +1,4 @@
-Connections: [Titan Appears](Titan%20Appears.md)
+Connections: [[Titan Appears]]
 
 Notes to improvise description:  
 -the landscape is mostly fields, many abandoned  
