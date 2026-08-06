@@ -191,7 +191,7 @@ With Menestheus, the party presses onward to the 27th House whose entry is a sim
 - [[Menestheus]] (met): displaced Drankorian scholar and guide from Thalestria's entourage
   - Lord Endless Ending's manor, 1740-10-05
   - Lord Endless Ending's manor -> single door on the western promontory, 1740-10-05
-- [[Endlessly Ending's Butler]] (met): anxious attendant to Lord Endless Ending
+- [[Endless Ending's Butler]] (met): anxious attendant to Lord Endless Ending
   - Lord Endless Ending's manor, 1740-10-05
 - road guards (met): doglike keepers of the road outside Lord Endless Ending's manor
   - Lord Endless Ending's manor, 1740-10-05

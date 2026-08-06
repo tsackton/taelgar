@@ -4,8 +4,8 @@ tags: [group, status/check/ai]
 name: Arithrimos Lamperum
 typeOf: secret society
 ancestry: Drankorian
-dm_owner: schwartz
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # The Arithrimos Lamperum
 >[!info]+ Information  
