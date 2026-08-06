@@ -3,7 +3,7 @@
  
 ### Synopsis
 
-Party arrived in Adderfell ([Adderfell Approach](Adderfell%20Approach.md)), said goodbye to Eva and Betram, then visited Earl ([Meeting Eofric](Meeting%20Eofric.md)). Afterward the party got rooms at [The Brass Thorn](The%20Brass%20Thorn.md), where they talked to [Ellyn](Ellyn.md) and heard some [rumors](City%20Scenes.md) before heading to bed. In the middle of the night, they were attacked and defeated the [Shadow Assassins](Shadow%20Assassins.md), in part by summoning a unicorn with a wild magic surge. In the morning they went shopping at the market, where they met Simi and made plans to meet him at his shop/home in the evening. At that point. [Owlbear Market Attack](Owlbear%20Market%20Attack.md) happened, and they followed the tracks of the spy to the [Cinder Court Hideout](Cinder%20Court%20Hideout.md), where they started to explore, driving off two bone crabs and capturing/killing thugs, plus rescuing Kave.
+Party arrived in Adderfell ([[Adderfell Approach]]), said goodbye to Eva and Betram, then visited Earl ([[Meeting Eofric]]). Afterward the party got rooms at [[The Brass Thorn]], where they talked to Ellyn and heard some [[City Scenes|rumors]] before heading to bed. In the middle of the night, they were attacked and defeated the [[Shadow Assassins]], in part by summoning a unicorn with a wild magic surge. In the morning they went shopping at the market, where they met Simi and made plans to meet him at his shop/home in the evening. At that point. [[Owlbear Market Attack]] happened, and they followed the tracks of the spy to the [[Cinder Court Hideout - DM Notes|Cinder Court Hideout]], where they started to explore, driving off two bone crabs and capturing/killing thugs, plus rescuing Kave.
  
 ### Developments
 

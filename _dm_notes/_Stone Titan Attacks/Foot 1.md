@@ -1,4 +1,4 @@
-Connections: [Leg #1](Leg%201.md)
+Connections: [[Leg 1|Leg #1]]
 
 Scene:
  

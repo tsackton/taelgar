@@ -1,6 +1,6 @@
 ## The Brass Thorn
  
-After talking to Earl Eofric, party found rooms at [The Brass Thorn](The%20Brass%20Thorn.md). Heard some rumors, including:
+After talking to Earl Eofric, party found rooms at [[The Brass Thorn]]. Heard some rumors, including:
  
 (2) A monster lives under the old city and comes out at night to eat people  
 (5) I came to Adderfell because I thought the walls would keep my family safe but now I don’t know, no where seems safe. It’s getting worse. Something has to be done. 

@@ -33,6 +33,6 @@ A large statue of the Wyrdling in human form, depicted as a two-faced jester, on
  
 There is a strange feeling about the place, not exactly a sense of peace but a sense of belonging. Whatever doubts you might feel about yourself, your place in the world, you feel like someone hears them and cares.
  
-The abbey is currently occupied by a lone hermit/priest, who goes by [Mel](Elderwood%20Arc%20NPCs.md).
+The abbey is currently occupied by a lone hermit/priest, who goes by [[Elderwood Arc NPCs|Mel]].
 
 %%^End%%

@@ -2,7 +2,7 @@
  
 Summarize situation - trapped in spider lair
  
-Run [Spider Woods - DM Notes](Spider%20Woods%20-%20DM%20Notes.md)  
+Run [[Spider Woods - DM Notes]]  
 Make sure to remember that Samso should notice scars, large claw marks, on the big spider, and acid burns
  
 When return:  

@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-06), evening still: party ends at [[27th Room]].
+- Candidate party whereabouts: (DR:: 1740-10-06), evening still: party ends at [[27th House]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -15,9 +15,9 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Kallipseis]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th Room]].
+- [[Kallipseis]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th House]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
-- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th Room]].
+- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th House]].
   - Whereabouts line: `- {type: away, start: 1740-10-05 to 1740-10-06, location: 27th Room}`
 <!-- /SLOT -->
 

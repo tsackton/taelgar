@@ -1,13 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags:
+  - person
 name: Agnor
 species: dwarf
 gender: male
 player: Isaac Sackton
-whereabouts: [{type: home, location: Tharn Todor}]
-affiliations: [{org: Oskar's Companions, title: "One"}]
-campaignInfo: [{campaign: DuFr, person: Riswynn, type: met, date: 1748-05-09}]
+whereabouts:
+  - type: home
+    location: Tharn Todor
+affiliations:
+  - org: Oskar's Companions
+    title: One
+campaignInfo:
+  - campaign: DuFr
+    person: Riswynn
+    type: met
+    date: 1748-05-09
 dm_owner: player
 dm_notes: none
 ---

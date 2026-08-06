@@ -17,7 +17,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- SLOT: updates.whereabouts.npcs -->
 - [[Aurae]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[central prison]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: central prison}`
-- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th Room]].
+- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th House]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
 - the prisoner: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[central prison]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: central prison}`

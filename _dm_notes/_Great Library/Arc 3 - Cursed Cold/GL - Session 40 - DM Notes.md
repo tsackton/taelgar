@@ -4,7 +4,7 @@ Summarize woods, northerners, village.
  
 Spend the night in the village, leave for spiders in morning. Here tales, etc, improvise some stuff, have some interesting mead and food and maybe some contests of strength for Adrik and agility for Samso.
  
-Run [Spider Woods - DM Notes](Spider%20Woods%20-%20DM%20Notes.md)
+Run [[Spider Woods - DM Notes]]
  
 Should be fine to improv and I have maps etc set up.
    

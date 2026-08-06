@@ -67,7 +67,7 @@ Looks like a dead tree. Same tactics as vine blights, really. Will attempt to am
 **Spiders**
  
 1. **2 Ettercap and 3 Giant Spiders.** 
-Ambush hunting. Use encounter here: [Pt 3 Enc - Darkwood Incursion](Pt%203%20Enc%20-%20Darkwood%20Incursion.md)**.** Passive perception 18 to notice webs; DC 15 on active search (Perception or Investigation)
+Ambush hunting. Use encounter here: [[Pt 3 Enc - Darkwood Incursion]]**.** Passive perception 18 to notice webs; DC 15 on active search (Perception or Investigation)
  5. **1d4+3 Giant Spiders**.
     
 _The forest here is growing denser, the trees drawing close around you and leaving little room to move. Suddenly, with a rush, the ground collapses beneath you!_

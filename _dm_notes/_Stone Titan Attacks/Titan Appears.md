@@ -1,4 +1,4 @@
-Connections: [Thigh #2](Thigh%202.md) or [Foot #1](Foot%201.md) or Foot #2
+Connections: [[Thigh 2|Thigh #2]] or [[Foot 1|Foot #1]] or Foot #2
 
 _A few miles ahead, a giant form comes into view. Too big to even be called a giant, it looks more like a mountain on two feet. Towering thousands of feet above the earth, a giant stone humanoid strides towards you, slowly but inexorably. Every minute or so, a leg the size of a tower lifts up, swings forward, and lands with a thud, arms swinging. What passes for a face, marked only by a single large red eye, stares unblinking towards the east and the direction of Dunmore._
  

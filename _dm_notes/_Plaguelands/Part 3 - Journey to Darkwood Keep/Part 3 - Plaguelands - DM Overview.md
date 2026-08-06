@@ -4,11 +4,11 @@ This section of the campaign starts with the departure from Adderfell, and ends 
 
 ![[Pasted image 20251103085509.png]]
  
-[Zone 2 - DM Notes](Zone%202%20-%20DM%20Notes.md)
+[[Zone 2 - DM Notes]]
 
-[Zone 1 - DM Notes](Zone%201%20-%20DM%20Notes.md)
+[[Zone 1 - DM Notes]]
 
-[Zone 3 - DM Notes](Zone%203%20-%20DM%20Notes.md)
+[[Zone 3 - DM Notes]]
 
 [Shep](Shepard)herd
 
@@ -16,7 +16,7 @@ Road
 
 Off road
 
-[Pt 3 Enc - Refugees](Pt%203%20Enc%20-%20Refugees.md)
+[[Pt 3 Enc - Refugees]]
 
 [Last Town](Last%20Town)
  
@@ -28,15 +28,15 @@ Off road
 
 ![Exported image](Exported%20image%2020251029113859-0.jpeg)                                                                                                   
 
-[Pt 3 Enc - Stranded Boat](Pt%203%20Enc%20-%20Stranded%20Boat.md)
+[[Pt 3 Enc - Stranded Boat]]
 
-[Pt 3 Enc - Burning Village](Pt%203%20Enc%20-%20Burning%20Village.md)
+[[Pt 3 Enc - Burning Village]]
 
-[Pt 3 Enc - Ambush](Pt%203%20Enc%20-%20Ambush.md)
+[[Pt 3 Enc - Ambush]]
 
-[Pt 3 Enc - Feywild Circle](Pt%203%20Enc%20-%20Feywild%20Circle.md)
+[[Pt 3 Enc - Feywild Circle]]
 
-[Pt 3 Enc - Darkwood Incursion](Pt%203%20Enc%20-%20Darkwood%20Incursion.md)
+[[Pt 3 Enc - Darkwood Incursion]]
 
 **Remove Ambush - village is abandoned, once they get to this point will switch from cultists/goblinoids to undead / forest. Can use hobgoblin patrol -- if party spends a long time helping clear road, can have them come along**
 

@@ -114,8 +114,7 @@ Friendly with party, enjoyed their company and trying to make the best of the tr
 
 ### Hanse
 
-She is a jeweler in Adderfell, sells from shop but also at market occasionally; friend of [Simi](Simi.md)
-
+She is a jeweler in Adderfell, sells from shop but also at market occasionally; friend of Simi
 ### Kave
 
 Prisoner of Cinder Court in Adderfell, attempted to flee

@@ -1,12 +1,12 @@
 
-[Outside](Outside.md)
+[[Outside]]
 
-[First floor](First%20floor.md)
+[[First floor]]
 
-[Second floor](Second%20floor.md)
+[[Second floor]]
 
-[Third floor](Third%20floor.md)
+[[Third floor]]
 
-[Fourth floor](Fourth%20floor.md)
+[[Fourth floor]]
 
-[Fifth floor](Fifth%20floor.md)
+[[Fifth floor]]

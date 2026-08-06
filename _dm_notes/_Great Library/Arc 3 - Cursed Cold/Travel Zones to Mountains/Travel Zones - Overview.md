@@ -33,9 +33,9 @@ The "troubled fort" is a major defensive fortification, with a bit of a garrison
  
 Encounters:  
 [Border Fort](Border%20Forts)  
-[Orc Attack - DM Notes](Orc%20Attack%20-%20DM%20Notes.md)  
-[Garrison Camp - DM Notes](Garrison%20Camp%20-%20DM%20Notes.md)  
-[Troubled Fort - DM Notes](Troubled%20Fort%20-%20DM%20Notes.md)
+[[Orc Attack - DM Notes]]  
+[[Garrison Camp - DM Notes]]  
+[[Troubled Fort - DM Notes]]
  
 ## Zone 3
  
@@ -45,9 +45,9 @@ The open woods and fields of the foothills of the \<CentralMountains\>. Crossing
  
 If they are paying attention, should soon notice signs of people following them. Will be an ambush but won't attack immediately, will demand to know what they are doing. If peaceful offer to lead them back to village, talk.
  
-[Northerners Territory - DM Notes](Northerners%20Territory%20-%20DM%20Notes.md)  
-[Spider Woods - DM Notes](Spider%20Woods%20-%20DM%20Notes.md)  
-[Haunted Elven Ruins - DM Notes](Haunted%20Elven%20Ruins%20-%20DM%20Notes.md)
+[[Northerners Territory - DM Notes]]  
+[[Spider Woods - DM Notes]]  
+[[Haunted Elven Ruins - DM Notes]]
  
 Should be a way, if they do well with northerners, for them to get a map and have a route to avoid the spider woods.
  
