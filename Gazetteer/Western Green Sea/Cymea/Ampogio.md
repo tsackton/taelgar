@@ -15,4 +15,4 @@ typeOfAlias: river
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The longest river in Cymea, flowing from the [[Mistfold Mountains]], along the western edge of the rocky interior, until it reaches the [[Western Green Sea]]. The upper reaches for the Ampogio are unnavigable, marked by frequent waterfalls as it cascades through the karst landscapes of interior Cymea. Below the confluence with the [[~Unnamed East Fork~]], the Ampogio slows and widens until it drains into the [[Western Green Sea]]. 
+The longest river in Cymea, flowing from the [[Mistfold Mountains]], along the western edge of the rocky interior, until it reaches the [[Western Green Sea]]. The upper reaches for the Ampogio are unnavigable, marked by frequent waterfalls as it cascades through the karst landscapes of interior Cymea. Below the confluence with the [[Carvaz]], the Ampogio slows and widens until it drains into the [[Western Green Sea]]. 

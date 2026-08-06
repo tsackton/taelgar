@@ -79,7 +79,7 @@ To the south, the free [[Orcs]] who call themselves the [[People of the Rainbow]
 
 %%SECRET
 The Plaguelands themselves are settled in places, primarily by hobgoblins, the descendants of the survivors of Cha'mutte's Southern Army. 
-- The largest group of hobgoblins, the ~mad scientist hobgoblins~, are organized into a large territory, optimized for research and magi-tech progress, and drawing on the chaos energy of the plaguelands; alliance of sorts with ooze titan. 
+- The largest group of hobgoblins, the [[Iron Fang]], are organized into a large territory, optimized for research and magi-tech progress, and drawing on the chaos energy of the plaguelands; alliance of sorts with ooze titan. 
 - Other scattered groups - often not more than a few dozen - live mostly in the badlands, and survive by raiding.
 - History of hobgoblins here needs to tie into the sembara hobgoblins wars
 

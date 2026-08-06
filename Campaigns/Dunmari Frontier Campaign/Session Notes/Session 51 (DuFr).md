@@ -49,7 +49,7 @@ Generation 1
 
 ### Timeline
 - (DR:: 1748-08-29), late night: Attacked by a shadow hunter and two yeth hounds around Kill shadow hunter. Manage to sleep. 
-- (DR:: 1748-08-30): Travel east during the day, heading overland away from the [[Chasa]]. Camp about 20 miles north of Arkad.
+- (DR:: 1748-08-30): Travel east during the day, heading overland away from the [[Chasa]]. Camp about 20 miles north of [[Arkad]].
 - (DR:: 1748-08-31): Travel through the day.
 - (DR:: 1748-08-31), night: Arrive at [[Arendum]]; take rooms at the [[Laughing Wolf Inn]].
 - (DR:: 1748-09-01): Spend the day in [[Arendum]], asking questions and planting rumors about going north upriver to the [[Dwarven Kingdoms]]. Send letters to Chardon.

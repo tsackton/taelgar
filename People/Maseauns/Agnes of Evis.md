@@ -11,7 +11,7 @@ aliases: [Agnés of Evis]
 gender: female
 whereabouts:
 - {type: home, location: Evis}
-- {type: away, start: 1719-12-05, end: 1719-12-07, location: ~SouthCleenseauScrublands~ }
+- {type: away, start: 1719-12-05, end: 1719-12-07, location: Wakog's Camp }
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
 dm_notes: none

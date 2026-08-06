@@ -34,8 +34,8 @@ Three watersheds and two mountain spurs divide Zimkova:
 * The [[Semb]] and [[Lake Derwent]] mark a turning of the land, and it grows steeper and hillier north of the [[Semb]]
 * The [[Volta]], in the north, has many lakes and tributaries, as it drains the lands between the [[~Central Sentinel Spur~]], the [[~North Sentinel Spur~]], and the [[Pekul Mountains]] 
 
-* The ~Southern Sentinel Spur~, extending east north of the [[Semb]] watershed, is treacherous terrain, and forms a boundary between southern and northern Zimkova. Many of the small rivers that form the Semb flow south from here
-* The ~Central Sentinel Spur~ stretches east to the Teft, and is the source of the [[Kasari]], one of the tributaries of the [[Volta]]. It divides the forests of [[Breva]] from the north
+* The [[~Southern Sentinel Spur~]], extending east north of the [[Semb]] watershed, is treacherous terrain, and forms a boundary between southern and northern Zimkova. Many of the small rivers that form the Semb flow south from here
+* The [[~Central Sentinel Spur~]] stretches east to the Teft, and is the source of the [[Kasari]], one of the tributaries of the [[Volta]]. It divides the forests of [[Breva]] from the north
 * The [[~North Sentinel Spur~]] forms the northern boundary of Zimkova, its high peaks unpassable much of the year, save by the foolhardy or brave
 
 ### The Great Chasm
@@ -47,7 +47,7 @@ A dense forest stretches from the [[Volta]] to [[Semb]]. Between the [[Teft]] an
 ### People and Culture
 The geography above forms three cultural regions:
 
-* South Zimkova, the lands south of the [[~Southern Sentinel Spur~]], the [[~Breva Forest~]], and west of the [[Braebein]]. This land has seen much intermixing with Sembara, and the realms of [[Ardlas]] and [[Lavnoch Plateau]] have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [[Zimka]], and although it has retained a unique culture and language, [[Mos Numena]] is the most common religion here and the worship of [[Kestavo]] has largely faded
+* South Zimkova, the lands south of the [[~Southern Sentinel Spur~]], the [[Breva Forest]], and west of the [[Braebein]]. This land has seen much intermixing with Sembara, and the realms of [[Ardlas]] and [[Lavnoch Plateau]] have been under the overlordship of Sembara at various times in their history. This land has lost many of the ancient traditions of the [[Zimka]], and although it has retained a unique culture and language, [[Mos Numena]] is the most common religion here and the worship of [[Kestavo]] has largely faded
 * Breva, nestled between the [[Teft]] and the [[Volta]], and separated from the north by the [[~Central Sentinel Spur~]], a unique blended culture, where kestavo still dominate and a fierce independent streak keeps the people independent
 * North Zimkova, lightly peopled and scattered, where the ancient ways still hold sway, a land of hunters and small fortified villages, mostly clinging to the [[Volta]] and its tributaries. 
 
@@ -86,7 +86,6 @@ Red 5: The Vostok high plateau. Unclear what is here.
 
 
 %%
-
 
 
 

@@ -22,7 +22,7 @@ Ithu'rax was an aboleth active in the [[Northwest Coast]] region in the DR 1740s
 
 %%^Campaign:none%%
 
-The aboleth backstory was never really established in game. There is potentially a connection with the Mindknife War, and potentially some connection with Dinia's undeveloped backstory as part of the Whistlers (also connected to Nerissa's undeveloped backstory). 
+The aboleth backstory was never really established in game. There is potentially a connection with [[the Mindknife War]], and potentially some connection with Dinia's undeveloped backstory as part of the Whistlers (also connected to Nerissa's undeveloped backstory). 
 
 Alternatively there is a connection to Mabist's backstory.
 
