@@ -40,7 +40,7 @@ The details of the Spiritual Realms are hard to flesh out without a better sense
 
 My sense is that it is easiest to travel to the "traditional Outer Planes", then the homes of the Embodied Gods, and last/most difficult the homes of the Incorporeal Gods (which might not really have a real physical existence in most cases, and might function more like simply the body of the Divine or something). 
 
-Also, it is not clear how people who follow Mos Numena, for example, interpret the Dunmari planes. Do they consider these just other gods they don't worship? Do they think of them as just different names for parts of the same gods (a la the high school conception of Aspects of Eru/Melkor)? How would, e.g., a Mos Numena theologian depict Arkaash?
+Also, it is not clear how people who follow Mos Numena, for example, interpret the Dunmari planes. Do they consider these just other gods they don't worship? Do they think of them as just different names for parts of the same gods (a la the high school conception of Aspects of Eru/Melkor)? How would, e.g., a Mos Numena theologian depict [[Arkaash]]?
 
 One idea:
 In standard [[Mos Numena]] theology, the Spiritual Realms are depicted in a tripartite arrangement: the Mos Numena Divine Realm in the center, often shown as a wide disc fed by the upwelling of the [[Land of the Dead|River of Souls]]; the realms of the [[Embodied Gods]] as spheres surrounding the central disc; and the primal realms, on the edges. 
