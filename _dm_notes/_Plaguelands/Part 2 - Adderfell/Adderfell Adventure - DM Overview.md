@@ -20,7 +20,7 @@ Owlbear attack happens on day between initial meeting with Eofric and council me
 
 Doplerganger Chase
 
-[Leaving Adderfell](Leaving%20Adderfell)
+Leaving Adderfell
 
 ## Synopsis
 

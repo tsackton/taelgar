@@ -49,7 +49,7 @@ The session starts as the party leaves [[Karawa]], heading west for [[Tokra]], t
 
 As he watches this scene unfold, [[Garret Tealeaf]] is suspicious, afraid of the magic you have taken from the lairs of powerful creatures, worried that perhaps the owner of this mirror is watching you, somehow. 
 
-The third day of travel is interrupted when [[Seeker]] hears a voice in his mind. It turns out to be a [[Fey|fey]] creature, [[Typhina]], who is currently trapped in the [[Ring of the Warded Mind]] [[Seeker]] obtained from [[Agata]]. She tells [[Ring of the Warded Mind#Typhina's Story|her story to Seeker telepathically]].
+The third day of travel is interrupted when [[Seeker]] hears a voice in his mind. It turns out to be a [[Fey|fey]] creature, [[Typhina]], who is currently trapped in the [[Ring of the Warded Mind]] [[Seeker]] obtained from [[Agata]]. She tells [[Ring of the Warded Mind|her story to Seeker telepathically]].
 
 On the fifth day of travel, the party passes a ruined aqueduct in the distance, and cannot resist the temptation to investigate. A Dunmari family of goat herders is camped here, and looks at the party strangely as they begin to climb over the aqueduct, exploring it. Eventually, they discover that a faint enchantment from Drankorian days still remains on this stonework, amplifying water that passes through the channel. [[Seeker]] constructs an earthen berm for easy access, so the Dunmari can use this as a small oasis in the desert, and the party spends the evening here, enjoying the food and company of the Dunmari herders. 
 

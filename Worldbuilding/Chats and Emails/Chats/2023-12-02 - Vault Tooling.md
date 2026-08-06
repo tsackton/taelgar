@@ -723,11 +723,11 @@
     Alias is special, it replaces the name `*`inside the link*
 [2023-12-02 09:23 PM] Deciusmus: So if you have
     
-    - {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: "2" }
-    
-    You get:
-    
-    Currently moored in the `[[main port of Wacahca]]`, in the Vermillion Isles
+- {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: "2" }
+
+You get:
+
+Currently moored in the `[[main port of Wacahca]]`, in the Vermillion Isles
 [2023-12-02 09:24 PM] Deciusmus: The same thing could be achieved with format string like
     
     format: "moorred in the main port of `<name:x>`" (x = no article)

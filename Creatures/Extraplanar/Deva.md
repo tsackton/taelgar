@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature]
+tags: [creature, status/check/ai]
 aliases: [devas, Devas]
 dm_notes: none
 dm_owner: none
@@ -11,7 +11,7 @@ Devas are a kind of [[Celestials|celestial]], rarely encountered but generally u
 
 A deva's appearance and bearing often reflects the power it serves. While many accounts from [[Mos Numena]] sources describe devas in the familiar language of shining humanoid angels, other accounts suggest stranger forms. 
 
-[[Oskar in Tharn Todor#Episode 2 The Celestial Meteor|Stories occasionally connect devas with falling stars or celestial meteors]], suggesting that at least some devas reach the [[Material Plane]] through violent or imperfect passages between realms, though few understand the metaphysical details of such violent passage. 
+[[Oskar in Tharn Todor#Episode 2: The Celestial Meteor|Stories occasionally connect devas with falling stars or celestial meteors]], suggesting that at least some devas reach the [[Material Plane]] through violent or imperfect passages between realms, though few understand the metaphysical details of such violent passage.
 
 %%^Campaign:none%%
 

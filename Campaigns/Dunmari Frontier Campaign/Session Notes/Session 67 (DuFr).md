@@ -1,5 +1,6 @@
 ---
-tags: [session-note]
+headerVersion: 2023.11.25
+tags: [session-note, status/check/ai]
 campaign: Dunmari Frontier
 sessionNumber: 67
 realWorldDate: 2022-12-04
@@ -35,7 +36,7 @@ The [[Dunmar Fellowship]] discovers Typhina's true identity as [[Agata|Agata Dus
 
 ## Narrative
 
-Our session begins at [[Lastlight Falls]] in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. [[Lastlight Falls]] is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner#^97cec2|memories]]. 
+Our session begins at [[Lastlight Falls]] in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. [[Lastlight Falls]] is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner|memories]].
 
 ![[amberglow-lastlight-falls.png|600]]
 
@@ -50,7 +51,7 @@ The party bargins to exchange the answers to three questions, and agreeing not t
 From here, the party proceeds, crossing the dry riverbed of the River of Time that no longer flows here, and finding the grotto of the nymph [[Melusine]], supposedly an old friend and ally of [[Typhina]].
 
 ![[amberglow-nymph-grotto.png|600]]
-The party speaks with [[Typhina]] and [[Melusine]], about [[Agata]], and the fey, and [[Ring of the Warded Mind#Typhina's Story|Typhina's story]], but come to no real conclusions and decide to continue to the Heartwood Grove.
+The party speaks with [[Typhina]] and [[Melusine]], about [[Agata]], and the fey, and [[Ring of the Warded Mind|Typhina's story]], but come to no real conclusions and decide to continue to the Heartwood Grove.
 
 The party arrives in the grove, seeing the massive tree before them, and [[Seeker]] steps forward to give the [[Ring of the Warded Mind]] to the tree, when evil laughter begins to echo through the woods. Emerging from the ring, reformed, is not [[Typhina]], but [[Agata]] Dustmother, who has been pretending to be [[Typhina]] for months. 
 
@@ -60,4 +61,3 @@ The party arrives in the grove, seeing the massive tree before them, and [[Seeke
 [[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].
 
 We end the session as the party returns to [[Lastlight Falls]] and exits the [[Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
-

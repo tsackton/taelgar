@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+tags: [status/check/ai]
 ---
 # Metadata Specification
 *last update: Dec 15th 2025*
@@ -75,9 +76,9 @@ For session notes to generate headers and indexes:
 
 ### Relationship and Linkage Fields
 
-- `whereabouts`: Current and historical location data. Can be a simple string, or a list of objects. Typically used for people and places, and occasionally for organizations and items. See [[Metadata Specification#Metadata Specification#Whereabouts Specification|details below]]. 
-- `affiliations`: Organizations or places the subject is associated with. Can be a list of strings (shorthand for member affiliations) or full objects. Typically only used for people. See [[Metadata Specification#Metadata Specification#Affiliations Specification|details below]]. 
-- `campaignInfo`: List of objects capturing when and how campaigns interacted with this page. Each entry may include `campaign` (short code like `dufr`), `type` (e.g. `met`, `killed`, `seen`), optional `person`, `date`, and optional format overrides. Drives “Met by X on Y in Z” style header lines. Typically used only for people, but in principle could be used for any note. See [[Metadata Specification#Metadata Specification#CampaignInfo Specification|details below]].
+- `whereabouts`: Current and historical location data. Can be a simple string, or a list of objects. Typically used for people and places, and occasionally for organizations and items. See [[Metadata Specification#Whereabouts Specification|details below]].
+- `affiliations`: Organizations or places the subject is associated with. Can be a list of strings (shorthand for member affiliations) or full objects. Typically only used for people. See [[Metadata Specification#Affiliations Specification|details below]].
+- `campaignInfo`: List of objects capturing when and how campaigns interacted with this page. Each entry may include `campaign` (short code like `dufr`), `type` (e.g. `met`, `killed`, `seen`), optional `person`, `date`, and optional format overrides. Drives “Met by X on Y in Z” style header lines. Typically used only for people, but in principle could be used for any note. See [[Metadata Specification#CampaignInfo Specification|details below]].
 - `knownTo`: List of campaign codes indicating the subject is known to that party (e.g. `knownTo: [DuFr, Clee]`). Used as a lightweight, queryable replacement for long `campaignInfo` logs; see “KnownTo Framework” below.
 - `partOf`: Simple parent relationship field. Used for non-location based relationships. Principally used to indicate organizations that are part of a larger organization (e.g., a unit in an army), or events that are part of a larger event (e.g., a battle in a war). For place-based relationships, use `whereabouts` which can handle much more complex information. 
 

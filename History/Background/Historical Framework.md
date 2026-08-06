@@ -209,7 +209,7 @@ _4133 - 5192 by the Dwarven Count of Years_
 
 The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and over the next 1000 years grew from a refugee camp to a continent-spanning empire.  The history of this period is defined by the expansion of Drankor, which occurs broadly in three phases:
 
-%% See [[Historical Framework - Open Questions#Drankorian Expansion]]  for open questions %%
+%% See [[Drankorian Empire - Open Questions]]  for open questions %%
 
 * The Founding Period (_CY 4133 - 4483_), when the unsettled lands along the [[Sea of Storms]], the south-western [[Green Sea]] coast, and in the [[Istaros Watershed]] are populated
 * The Eastern Expansion (_CY 4485 - 4585_), when the lands north of the [[Mostreve Hills]] are settled, and Drankor establishes a hegemony over the [[Western Gulf]], pushing out the [[Skaer]]
@@ -248,7 +248,7 @@ Outside of the Drankorian lands:
 * the [[Northerners]] cultures are continuing to spread; specific details outside of the Sembaran mixing pot are not clear, however these cultures should not have encountered Drankor yet
 * the [[Dunmar|Dunmari]] are somewhere east of Drankor, well outside the zone of settlement
 
-%% There is no clear story for when [[Cymea]] and [[~South Cymea~]] are settled by Drankorians -- see [[Historical Framework - Open Questions#Drankorian Expansion]] %%
+%% There is no clear story for when [[Cymea]] and [[~South Cymea~]] are settled by Drankorians -- see [[Drankorian Empire - Open Questions]] %%
 
 ### Expansion East
 _4485 - 4585 by the Dwarven Count of Years__
