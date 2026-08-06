@@ -5,9 +5,9 @@
 [2023-10-30 10:01 AM] rsulfuratus: Need something else for dwarven years
 [2023-10-30 10:52 AM] Deciusmus: Your dates for the end of the Drankorian conquest of Sembara (treat @ volta) don't line up
     
-    Drankor history has 402 (402 DR: The Treaty of Marhavn ('Mar-hahvn'), signed by Emperor Goristo, establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.)
-    
-    Tollen history has 414 (In 4547, the Drankorians and the Skaer sign a peace treaty, establishing the [[River Volta|Volta]] as the frontier of the [[Drankorian Empire]]. Tollen, on the north side of the [[River Volta|Volta]], remains technically outside the Drankorian territorial claim.)
+Drankor history has 402 (402 DR: The Treaty of Marhavn ('Mar-hahvn'), signed by Emperor Goristo, establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.)
+
+Tollen history has 414 (In 4547, the Drankorians and the Skaer sign a peace treaty, establishing the [[Volta]] as the frontier of the [[Drankorian Empire]]. Tollen, on the north side of the [[Volta]], remains technically outside the Drankorian territorial claim.)
     
     Did I do the math wrong? 4547-4133 = 414
 [2023-10-30 10:52 AM] Deciusmus: which date is right?

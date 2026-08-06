@@ -1,4 +1,4 @@
-Connections: [[Main Body]], [Leg #2](Leg%202)
+Connections: [[Main Body]], leg #2
 
 Scene:
  

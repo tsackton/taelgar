@@ -2,9 +2,9 @@
 """Audit Taelgar tilde placeholders and internal link integrity.
 
 The scan is read-only. It scans every Markdown note Obsidian indexes, apart
-from the generated clickable unresolved-link report itself, while excluding
-inline and fenced code. Both Obsidian wikilinks and local Markdown links ending
-in .md are checked. Reports are written as JSON and TSV files.
+from explicitly configured source exclusions, while excluding inline and
+fenced code. Both Obsidian wikilinks and local Markdown links ending in .md are
+checked. Reports are written as JSON and TSV files.
 """
 
 import argparse
@@ -38,6 +38,8 @@ HEADING_RE = re.compile(r'^\s{0,3}#{1,6}\s+(.+?)\s*#*\s*$')
 BLOCK_RE = re.compile(r'(?:^|\s)\^([A-Za-z0-9_-]+)\s*$')
 REPORT_SOURCE_EXCLUSIONS = {
     '_MoC/Data Quality/Links/Unresolved Links.md',
+    'Worldbuilding/Chats and Emails/Chats/2023-11-16 - Vault Tooling.md',
+    '_dm_notes/_Cleenseau/Adventures/Rinburg Monster.md',
 }
 OBSIDIAN_IGNORE_FILTERS = []
 
@@ -370,11 +372,11 @@ def write_unresolved_note(path, broken, metadata):
         '',
         'This is a static review list of links whose note or attachment target does not exist. '
         'The live target beneath each heading is intentionally clickable so the missing note can be created directly. '
-        'This report is excluded from the audit source set, so those convenience links do not affect later counts.',
+        'This report and configured legacy or tooling notes are excluded from the audit source set.',
         '',
         f'- **{len(groups)}** unresolved targets: **{len(missing_notes)}** notes and **{len(missing_attachments)}** attachments',
         f'- **{len(broken)}** occurrences across **{len(unique_sources)}** source files',
-        f'- **{metadata["scanned_source_markdown"]}** Obsidian-indexed source notes scanned; this report itself excluded',
+        f'- **{metadata["scanned_source_markdown"]}** Obsidian-indexed source notes scanned; **{len(REPORT_SOURCE_EXCLUSIONS)}** configured source exclusions applied',
         f'- Includes **{metadata.get("total_markdown_links", 0)}** local `.md`-style Markdown links in addition to Obsidian wikilinks',
         '- Sorted by number of distinct source files, then alphabetically',
         '- One representative context snippet is shown per source file; repeated occurrences in that file are counted',

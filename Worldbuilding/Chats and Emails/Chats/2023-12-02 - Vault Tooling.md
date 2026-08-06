@@ -344,7 +344,7 @@
 [2023-12-02 03:09 PM] rsulfuratus: any edits should ideally make that kind of header generation easier, not harder
 [2023-12-02 03:13 PM] Deciusmus: in theory, all you should have to do is:
     
-    displayDefaults: {startStatus:  brought into being, endStatus: "destroyed by [[Riswynnn]] and companions" }
+    displayDefaults: {startStatus:  brought into being, endStatus: "destroyed by [[Riswynn]] and companions" }
 [2023-12-02 03:13 PM] Deciusmus: the rest of it is, I think, just bad defaults
 [2023-12-02 03:14 PM] Deciusmus: places are going to be more of a mess because we haven't really thought about what the defaults should be
 [2023-12-02 03:14 PM] Deciusmus: In particular, I think places and organizations, unlike people, shouldn't have a separate origin and created lines
@@ -727,7 +727,7 @@
     
     You get:
     
-    Currently moored in the [[main port of Wacahca]], in the Vermillion Isles
+    Currently moored in the `[[main port of Wacahca]]`, in the Vermillion Isles
 [2023-12-02 09:24 PM] Deciusmus: The same thing could be achieved with format string like
     
     format: "moorred in the main port of `<name:x>`" (x = no article)

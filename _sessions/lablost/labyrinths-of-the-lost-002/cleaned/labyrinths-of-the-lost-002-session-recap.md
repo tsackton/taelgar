@@ -210,7 +210,7 @@ Feeling this must be a clue, the party goes to talk to the ghost again. Initiall
   - Perdoli Manor, 1748-10-18
 - basilisk (met): chained creature in the central courtyard
   - Perdoli Manor, 1748-10-18
-- [[ghost of J. M.|ghost of J. M.]] (met): mourning sailor ghost
+- [[Jacopo Marcelli|ghost of J.M.]] (met): mourning sailor ghost
   - Perdoli Manor, 1748-10-18
 - Folcan (mentioned): released goblin informant
 - Grimstone (mentioned): masked master inside the manor

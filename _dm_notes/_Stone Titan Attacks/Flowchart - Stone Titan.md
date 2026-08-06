@@ -17,9 +17,9 @@
 
 [[Thigh 2|Thigh #2]]
 
-[Arm #2](Arm%202)
+Arm #2
 
-[Arm #1](Arm%201)
+Arm #1
 
 [[Leg 1|Leg #1]]
 

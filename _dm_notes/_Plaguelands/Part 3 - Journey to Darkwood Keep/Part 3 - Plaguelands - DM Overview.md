@@ -10,7 +10,7 @@ This section of the campaign starts with the departure from Adderfell, and ends 
 
 [[Zone 3 - DM Notes]]
 
-[Shep](Shepard)herd
+Shepherd
 
 Road
 
@@ -18,9 +18,9 @@ Off road
 
 [[Pt 3 Enc - Refugees]]
 
-[Last Town](Last%20Town)
+Last Town
  
-[Darkwood Keep](section-id={1203C1B3-0321-3943-B6F4-5953544D0CA5})
+Darkwood Keep
 
 **Encounter Flowchart**
 

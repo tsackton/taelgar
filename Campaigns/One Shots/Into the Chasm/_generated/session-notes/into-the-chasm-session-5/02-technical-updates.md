@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1730-01-29), afternoon: party ends at [[Great Chasm suspended structure]].
+- Candidate party whereabouts: (DR:: 1730-01-29), afternoon: party ends at Great Chasm suspended structure.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -19,7 +19,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
   - Whereabouts line: `- {type: away, start: 1730-01-29, location: Great Chasm}`
 - Damaged custodian automaton: candidate whereabouts update from (DR:: 1730-01-29), afternoon -> [[Great Chasm]].
   - Whereabouts line: `- {type: away, start: 1730-01-29, location: Great Chasm}`
-- Lightning-shrouded orc: candidate whereabouts update from (DR:: 1730-01-29), afternoon -> [[Great Chasm suspended structure]].
+- Lightning-shrouded orc: candidate whereabouts update from (DR:: 1730-01-29), afternoon -> Great Chasm suspended structure.
   - Whereabouts line: `- {type: away, start: 1730-01-29, location: Great Chasm suspended structure}`
 <!-- /SLOT -->
 
