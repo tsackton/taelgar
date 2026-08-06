@@ -15,3 +15,12 @@ dm_notes: important
 The Arithrimos Lamperum was a Drankorian society dedicated to cataloging and understanding [[Extraplanar Weak Point|extraplanar weak points]] and other kinds of [[planar connections]]. For many years, the order recorded these places, using brilliant numbers as encoded location keys: large numbers, each built from prime factors of the same length, that could hide precise maps in plain sight, undecipherable to anyone who did not know the factors.
 
 In the waning days of the [[Drankorian Empire]], the order increasingly focused on closing what planar connections they could.
+
+
+%%
+
+
+Kallipseis originally worked with plants rather than fungi. By her account, she publicly opposed demands made by the [[Drankorian Empire|Empire]], while Thalestria believed the order's mission was too important to risk through such resistance. When Arithrimos Lamperum was disbanded, Thalestria blamed Kallipseis and left the 27th House with most of its personnel. Kallipseis remained behind and regarded the continued presence of herself and [[Menestheus]] as sufficient for the order to survive under her leadership.
+
+
+%%
