@@ -22,7 +22,7 @@ The `**`Age of Creation** began after the [[Riving]], when the multiverse was cr
 [2024-07-19 01:26 PM] Deciusmus: right. might be worth clarifying the impact, i.e. (although secondarily, could the embodied gods reach through easily, i.e. unlike in the current age, could gods act more easily and directly on the world?)
     
     
-    Throughout the long [[Age of Creation]], the [[Land of the Dead]] formed an impermeable barrier to the magic of creation. Although the [[Embodied Gods]] could reach across this barrier, to grant miracles and change the Material Plane, the magic of souls could not act, except through the Embodied Gods.
+Throughout the long Age of Creation, the [[Land of the Dead]] formed an impermeable barrier to the magic of creation. Although the [[Embodied Gods]] could reach across this barrier, to grant miracles and change the Material Plane, the magic of souls could not act, except through the Embodied Gods.
 [2024-07-19 01:26 PM] Deciusmus: Or something
 [2024-07-19 06:39 PM] rsulfuratus: re: multiverse, pushed this:
 
@@ -33,6 +33,6 @@ The duality of the [[Material Plane]] -- the physical structures of the universe
 Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the Elemental Planes, domains of pure physicality, capturing the essence of the fundamental elements of the universe.
 [2024-07-19 06:39 PM] rsulfuratus: Floating "above" the plane of souls in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and an not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]]. 
     
-    Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by [[The Riving]], which still resonance today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the plane of souls, but others have been described, including the domains of the [[Shadowfell]], the [[Nightmare Realm]], and the [[Mirror Realm]].
+Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by the [[Riving]], which still resonance today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the plane of souls, but others have been described, including the domains of the [[Shadowfolds]], the [[Nightmare Realm]], and the [[Mirror Realm]].
 [2024-07-19 09:24 PM] Deciusmus: I like that. I was playing around with using Shadowfells (plural) rather than Shadowfell, as a way to express the idea of different independent domains better
 

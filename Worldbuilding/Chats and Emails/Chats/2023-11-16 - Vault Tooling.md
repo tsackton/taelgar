@@ -14,41 +14,41 @@ I implemented a "getFileFromTarget" method that will, given a string, return the
                 "name": "Mike",
                 "file": "Delwath"
             },
-    ```
-    
-    The filemap is intended to be used to allow you to map terms (like say DuFr or clee) to a file without having those terms clutter up the alias namespace. Main uses are expected to be replacing the "campaigns" structure and potentially linking players to PCs, or providing short names for frontmatter for long names
+```
+The filemap is intended to be used to allow you to map terms (like say DuFr or clee) to a file without having those terms clutter up the alias namespace. Main uses are expected to be replacing the "campaigns" structure and potentially linking players to PCs, or providing short names for frontmatter for long names
 [2023-11-16 12:15 PM] Deciusmus: I also implemented a new getName which takes:
-    * a target string
-    * a linkType (never, always, exists)
-    * a case (title, default)
-    
-    And returns the right thing (i.e. something like [[x]] or x or [[name|x]] or whatever)
+* a target string
+* a linkType (never, always, exists)
+* a case (title, default)
+
+And returns the right thing (i.e. something like [[x]] or x or [[name|x]] or whatever)
 [2023-11-16 12:16 PM] Deciusmus: The main question is do you see any value in the campaign data? Right now it is just used to lookup the name for "clee" or "DuFr" for "last met by party" but I'd rather just use the name of the party page instead
 [2023-11-16 12:35 PM] Deciusmus: Then I would also get rid of the species and culture descriptor and we could either add aliases to the target pages or just use the file map
 [2023-11-16 02:03 PM] rsulfuratus: I don’t think there is any value in the campaign data
 [2023-11-16 02:17 PM] Deciusmus: Slight spec update:
-    
-    * "linkmap" { "from" : string, "to" : fileThatExists, "isAlias": true | false }
+
+* "linkmap" { "from" : string, "to" : fileThatExists, "isAlias": true | false }
 [2023-11-16 02:25 PM] Deciusmus: Behavior:
-    
-    Assume a file: Something with aliases Thing and Some and definitive article of "the"
-    Assume 2 linkmap entries :  { "from" : "st, "to" : "Something",  "isAlias":  false } &&   { "from" : "Special Something", "to" : "Something",  "isAlias":  true }
-    
-    getName("st") =>` "the [[Something]]"
-    getName("Something") =>` "the [[Something]]"
-    getName("Thing") =>` "[[Thing|Something]]"
-    getName("Some") =>` "[[Some|Something]]"
-    getName("Special Something") =>` "[[Special Something|Something]]"
+
+Assume a file: Something with aliases Thing and Some and definitive article of "the"
+Assume 2 linkmap entries :  { "from" : "st, "to" : "Something",  "isAlias":  false } &&   { "from" : "Special Something", "to" : "Something",  "isAlias":  true }
+
+getName("st") =>` "the [[Something]]"
+getName("Something") =>` "the [[Something]]"
+getName("Thing") =>` "[[Thing|Something]]"
+getName("Some") =>` "[[Some|Something]]"
+getName("Special Something") =>` "[[Special Something|Something]]"
 [2023-11-16 02:46 PM] Deciusmus: So basically:
-    
-    If your frontmatter (i.e. partOf: x) is an alias, you get
-    
-    a village in `[Alias|Real]`
+
+If your frontmatter (i.e. partOf: x) is an alias, you get
+
+a village in `[Alias|Real]`
+```
 [2023-11-16 02:46 PM] Deciusmus: We **don't** apply definitive articles to aliases, as it isn't clear the make sense
 [2023-11-16 02:59 PM] Deciusmus: You can in theory get slightly weird cases, i.e. if Open Scroll Hunters is an aliases for Society of the Open Scroll then  adding leaderOf: Open Scroll Hunters will generate
-    
-    Leader of Open Scroll Hunters instead of
-    Leader of the Open Scroll Hunters
+
+Leader of Open Scroll Hunters instead of
+Leader of the Open Scroll Hunters
 [2023-11-16 02:59 PM] Deciusmus: but I think fixing that is too complicated
 [2023-11-16 03:24 PM] rsulfuratus: that seems fine. it is less typing to add an article than to modify the link to generate an alias, and if there are a few random slightly grammatically incorrect pages no one will care
 [2023-11-16 03:47 PM] rsulfuratus: adding a few little bits to region notes during the day and realizing at some point I probably need to decide if Taelgar is the world or the continent....
@@ -156,25 +156,26 @@ I implemented a "getFileFromTarget" method that will, given a string, return the
 [2023-11-16 07:51 PM] rsulfuratus: but you also probably want a displayDefault to override following location chain
 [2023-11-16 07:51 PM] Deciusmus: Im not sure the use case for both actually
 [2023-11-16 07:52 PM] rsulfuratus: ```
-    ---
-    tags: `[organization]`
-    displayDefaults: {startStatus: founded, startPrefix: "existed ", endPrefix: " ", endStatus: disbanded}
-    campaignInfo: `[]`
-    name: The Family of Someones
-    pronunciation: s-o-someht
-    created: 1600
-    destroyed: 1700
-    basedIn: Cleenseau
-    orgType: family
-    partOf: OrganizationWithAll
-    ---
-    # The Family of Someones
-    *(s-o-someht)*
-    >``[!info]`+ Summary
-    >``$=dv.view("_scripts/view/get_PageDatedValue")`
-    >` Based in: [[Cleenseau]], [[Barony of Aveil]], [[Sembara]]
-    >` Parent Organization: [[OrganizationWithAll|Something Org Something]]
-    ```
+```
+---
+tags: `[organization]`
+displayDefaults: {startStatus: founded, startPrefix: "existed ", endPrefix: " ", endStatus: disbanded}
+campaignInfo: `[]`
+name: The Family of Someones
+pronunciation: s-o-someht
+created: 1600
+destroyed: 1700
+basedIn: Cleenseau
+orgType: family
+partOf: OrganizationWithAll
+---
+# The Family of Someones
+*(s-o-someht)*
+>``[!info]`+ Summary
+>``$=dv.view("_scripts/view/get_PageDatedValue")`
+>` Based in: [[Cleenseau]], [[Barony of Aveil]], [[Sembara]]
+>` Parent Organization: [[OrganizationWithAll|Something Org Something]]
+```
 [2023-11-16 07:52 PM] rsulfuratus: I'm not sure I can think of a real organization that has this property
 [2023-11-16 07:53 PM] rsulfuratus: but if we are eliminating special cases, you don't want basedIn, you just want a home whereabouts
 [2023-11-16 07:54 PM] rsulfuratus: so actually all the sembaran army stuff would need both a whereabouts and a partOf

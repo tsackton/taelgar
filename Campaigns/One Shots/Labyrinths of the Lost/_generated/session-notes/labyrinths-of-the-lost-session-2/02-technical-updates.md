@@ -34,7 +34,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.items -->
 - [[Steampup|steampup]]: candidate item-location update from (DR:: 1748-10-18) -> [[Perdoli Manor]].
-- silver ring with weathered pearl: candidate item-location update from (DR:: 1748-10-18) -> [[hidden private archive]].
+- silver ring with weathered pearl: candidate item-location update from (DR:: 1748-10-18) -> hidden private archive.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
