@@ -86,7 +86,7 @@ Tuesday, June 2, 2026
 <!-- SLOT: cast -->
 - [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): displaced Drankorian scholar and guide from Thalestria's entourage.
-- [[Endlessly Ending's Butler]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): anxious attendant to [[Lord Endless Ending]].
+- [[Endless Ending's Butler]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): anxious attendant to [[Lord Endless Ending]].
 - [[Lord Hulda]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): tiger-headed guest and informant from the prior session.
 - [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.

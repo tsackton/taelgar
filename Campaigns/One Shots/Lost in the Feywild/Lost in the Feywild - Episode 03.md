@@ -43,7 +43,7 @@ In [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the grandfather 
 
 The party reconstructs the working theory for Kaito. When the clock strikes zero, [[Lord Endless Ending]] must send a mortal guest toward the [[27th House|neighbor's house]]; the headless bodies on the road may be people who were sent that way and did not survive what came next.
 
-The party crosses the ballroom to [[Lord Endless Ending]], an elegant fey lord attended by an anxious [[Endlessly Ending's Butler|badger butler]]. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
+The party crosses the ballroom to [[Lord Endless Ending]], an elegant fey lord attended by an anxious [[Endless Ending's Butler|badger butler]]. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
 
 The badger presents the group and asks what gifts they have brought. [[Txarro]] offers the haunting sound of a loon from the mortal world, [[Edric]] gives a vial of holy water blessed by [[The Night Queen|the Night Queen]], Kaito turns his entrance into a showy musical performance, [[Tarek]] makes a mouse skull vanish as a fragment of death, and [[Ayveen]] presents her decorated moonrise composition. [[Lord Endless Ending]] answers the each gift with couplets of poetry and welcomes the mortals into his home.
 
@@ -95,7 +95,7 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 
 - [[Lord Endless Ending]] (they/them, fae): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
 - [[Menestheus]] (he/him, Drankorian human): displaced Drankorian scholar and guide from Thalestria's entourage.
-- [[Endlessly Ending's Butler]] (he/him, humanoid badger): anxious attendant to [[Lord Endless Ending]].
+- [[Endless Ending's Butler]] (he/him, humanoid badger): anxious attendant to [[Lord Endless Ending]].
 - [[Lord Hulda]] (he/him, Sembaran human): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (he/him, tiger-headed mortal): tiger-headed guest and informant from the prior session.
 - [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.
