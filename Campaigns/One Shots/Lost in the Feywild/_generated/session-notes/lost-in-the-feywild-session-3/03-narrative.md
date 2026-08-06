@@ -18,7 +18,7 @@ The party returns to the gate as the clock chimes again, where they meet the awa
 <!-- SLOT: narrative.intermediate -->
 In [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the grandfather clock strikes zero and the party regroups from their wanderings. The party pieces together its best theory: the clock's zero chime forces [[Lord Endless Ending]] to send mortal guests to the [[27th House|neighbor's house]]. Perhaps, the road deaths come from whatever happens beyond that house.
 
-After regrouping, the party crosses the ballroom to [[Lord Endless Ending]] and his anxious [[Endlessly Ending's Butler|badger butler]], answering his demand for gifts with Txarro's loon call, Edric's blessed water, Kaito's musical performance, Tarek's mouse-skull trick, and Ayveen's moonrise sheet music. [[Lord Endless Ending]] receives them with poetry before welcoming the mortals into his home.
+After regrouping, the party crosses the ballroom to [[Lord Endless Ending]] and his anxious [[Endless Ending's Butler|badger butler]], answering his demand for gifts with Txarro's loon call, Edric's blessed water, Kaito's musical performance, Tarek's mouse-skull trick, and Ayveen's moonrise sheet music. [[Lord Endless Ending]] receives them with poetry before welcoming the mortals into his home.
 
 Speaking to the Lord, [[Txarro]] admits that they are trapped in the Feywild and seeking a way home. [[Lord Endless Ending]] says there may be a way home lies through the nearest [[27th House|neighbor's house]], the same direction as the woman sent by the clock. When pressed, he describes being tricked by a mortal wizard into an agreement to send guests through that house whenever the clock strikes zero, and says the bargain can be undone if a glass key from the cold-iron 27th room is brought back and broken. 
 
@@ -38,7 +38,7 @@ In [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the grandfather 
 
 The party reconstructs the working theory for Kaito. When the clock strikes zero, [[Lord Endless Ending]] must send a mortal guest toward the [[27th House|neighbor's house]]; the headless bodies on the road may be people who were sent that way and did not survive what came next.
 
-The party crosses the ballroom to [[Lord Endless Ending]], an elegant fey lord attended by an anxious [[Endlessly Ending's Butler|badger butler]]. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
+The party crosses the ballroom to [[Lord Endless Ending]], an elegant fey lord attended by an anxious [[Endless Ending's Butler|badger butler]]. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
 
 The badger presents the group and asks what gifts they have brought. [[Txarro]] offers the haunting sound of a loon from the mortal world, [[Edric]] gives a vial of holy water blessed by [[The Night Queen|the Night Queen]], Kaito turns his entrance into a showy musical performance, [[Tarek]] makes a mouse skull vanish as a fragment of death, and [[Ayveen]] presents her decorated moonrise composition. [[Lord Endless Ending]] answers the each gift with couplets of poetry and welcomes the mortals into his home.
 

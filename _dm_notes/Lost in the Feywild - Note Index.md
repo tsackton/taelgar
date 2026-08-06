@@ -22,7 +22,7 @@ This index collects the human-facing notes most directly relevant to the [[Lost 
 - [[Pandel]] - ?? unknown
 - [[Rakshasa]] - ?? unknown
 - [[Lord Endless Ending]] - now the Lord of the Ended Revel
-- [[Endlessly Ending's Butler]] - still there with Lord of the Ended Revel
+- [[Endless Ending's Butler]] - still there with Lord of the Ended Revel
 - [[Menestheus]]  - dead
 - [[Thalestria]] - dead
 - [[Kallipseis]] - fungal golem, somewhere in the multiverse
