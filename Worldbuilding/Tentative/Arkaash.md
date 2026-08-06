@@ -3,8 +3,14 @@ headerVersion: 2023.11.25
 tags: [place, religion/fivesiblings, status/stub]
 dm_owner: tim
 dm_notes: important
+tentativeReason: "unclear if this exists; possible merge candidate"
 ---
 # Arkaash
+
+
+Not clear yet if incorporeal gods have separate "home planes"
+
+Some of the info could move to the Dunmari religion notes
 
 %% probably non-canonical / likely doesn't exist %%
 

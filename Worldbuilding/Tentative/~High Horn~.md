@@ -6,6 +6,7 @@ whereabouts: Zimkova
 dm_owner: none
 dm_notes: none
 typeOfAlias: mountain pass
+tentativeReason: "unclear if this exists; legacy from high school"
 ---
 
 Moved to tentative as, while there were "Battles of High Horn" in the old Great War campaign, it is not clear where this stands w/r/t current development of the Greater Sembara highlands. It is not necessarily clear there should or must be a canonical High Horn in this area. 

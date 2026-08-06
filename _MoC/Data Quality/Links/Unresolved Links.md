@@ -1,7 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
 # Unresolved Links
 
 *Generated 2026-08-05 by `_scripts/vault_integrity_audit.py`.*

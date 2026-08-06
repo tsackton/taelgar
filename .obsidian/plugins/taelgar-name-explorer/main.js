@@ -19,6 +19,7 @@ const VIEW_TYPE = "taelgar-name-explorer-view";
 const DEFAULT_SETTINGS = {
   decisionStorePath: "_MoC/Name Decisions.jsonl",
   exportPath: "_MoC/Name Explorer Catalog.jsonl",
+  placeEvidencePath: "_MoC/Place Name Evidence.jsonl",
   scanTextEvidence: true,
   pageSize: 100,
 };
@@ -105,6 +106,9 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
           file?.path === this.settings.decisionStorePath &&
           !this.storeWriteInProgress
         ) {
+          this.scheduleRefresh();
+        }
+        if (file?.path === this.settings.placeEvidencePath) {
           this.scheduleRefresh();
         }
       }),
@@ -206,6 +210,16 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
   async loadDecisionRecords() {
     const file = await this.ensureDecisionStore();
     return core.parseDecisionStore(await this.app.vault.read(file));
+  }
+
+  async loadPlaceEvidence() {
+    const path = this.settings.placeEvidencePath;
+    const file = this.app.vault.getAbstractFileByPath(path);
+    if (!file) return core.parsePlaceEvidenceStore("");
+    if (!(file instanceof TFile)) {
+      throw new Error(`Place evidence path is not a file: ${path}`);
+    }
+    return core.parsePlaceEvidenceStore(await this.app.vault.read(file));
   }
 
   async mutateDecisionStore(mutator) {
@@ -323,13 +337,15 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
     if (this.catalogPromise) return this.catalogPromise;
 
     this.catalogPromise = (async () => {
-      const [records, subjects] = await Promise.all([
+      const [records, subjects, placeEvidence] = await Promise.all([
         this.loadDecisionRecords(),
         this.buildSubjects(onProgress),
+        this.loadPlaceEvidence(),
       ]);
       const catalog = core.buildCatalog(subjects, records, {
         knownSubjectPaths: this.knownMarkdownPaths || new Set(),
       });
+      core.attachPlaceEvidence(catalog, placeEvidence);
       this.catalogCache = catalog;
       this.catalogPromise = null;
       return catalog;
@@ -386,6 +402,10 @@ class NameExplorerView extends ItemView {
       componentRole: "",
       relationship: "",
       nameReview: "",
+      embeddedness: "",
+      campaignEvidence: "",
+      namingDepth: "",
+      namingReviewState: "",
       sortKey: "preferredForm",
       sortDirection: "asc",
       page: 1,
@@ -473,6 +493,7 @@ class NameExplorerView extends ItemView {
         `${counts.components.toLocaleString()} components · ` +
         `${counts.corpus.toLocaleString()} corpus entries · ` +
         `${counts.nameReview.toLocaleString()} need name review · ` +
+        `${counts.placeEvidence.toLocaleString()} places with evidence · ` +
         `${counts.overridden.toLocaleString()} overridden · ` +
         `${counts.unknown.toLocaleString()} unknown`,
     });
@@ -654,6 +675,77 @@ class NameExplorerView extends ItemView {
         },
         "Name kind",
       ));
+      filters.appendChild(makeSelect(
+        [
+          ["", "All embeddedness"],
+          ["unlinked", "Unlinked"],
+          ["low", "Low embeddedness"],
+          ["medium", "Medium embeddedness"],
+          ["high", "High embeddedness"],
+          ["very-high", "Very high embeddedness"],
+        ],
+        this.state.embeddedness,
+        (value) => {
+          this.state.embeddedness = value;
+          this.state.page = 1;
+          this.render();
+        },
+        "Vault embeddedness",
+      ));
+      filters.appendChild(makeSelect(
+        [
+          ["", "All campaign evidence"],
+          ["any", "Any mapped campaign evidence"],
+          ["any-session", "Any session evidence"],
+          ["confirmed-transcript", "Confirmed in transcript"],
+          ["recurring", "Recurring in play"],
+          ["campaign-core", "Campaign core"],
+          ["campaign-context-only", "Campaign context only"],
+          ["none", "No mapped campaign evidence"],
+        ],
+        this.state.campaignEvidence,
+        (value) => {
+          this.state.campaignEvidence = value;
+          this.state.page = 1;
+          this.render();
+        },
+        "Campaign evidence",
+      ));
+      filters.appendChild(makeSelect(
+        [
+          ["", "All naming depth"],
+          ["none", "No naming documentation"],
+          ["form-only", "Forms only"],
+          ["documented", "Documented naming"],
+          ["developed", "Developed naming"],
+        ],
+        this.state.namingDepth,
+        (value) => {
+          this.state.namingDepth = value;
+          this.state.page = 1;
+          this.render();
+        },
+        "Naming documentation",
+      ));
+      filters.appendChild(makeSelect(
+        [
+          ["", "All naming review states"],
+          ["unreviewed", "Unreviewed"],
+          ["no-debate-signal", "No debate signal"],
+          ["curated", "Curated"],
+          ["needs-review", "Needs review"],
+          ["explicitly-provisional", "Explicitly provisional"],
+          ["explicitly-debated", "Explicitly debated"],
+          ["conflicting", "Conflicting"],
+        ],
+        this.state.namingReviewState,
+        (value) => {
+          this.state.namingReviewState = value;
+          this.state.page = 1;
+          this.render();
+        },
+        "Naming evidence state",
+      ));
     }
   }
 
@@ -758,6 +850,63 @@ class NameExplorerView extends ItemView {
           ].includes(this.state.relationship)
         ) return false;
       }
+      const placeEvidence = concept.placeEvidence;
+      const hasPlaceEvidenceFilter = Boolean(
+        this.state.embeddedness ||
+        this.state.campaignEvidence ||
+        this.state.namingDepth ||
+        this.state.namingReviewState
+      );
+      if (hasPlaceEvidenceFilter && !placeEvidence) return false;
+      if (
+        this.state.embeddedness &&
+        placeEvidence?.embeddedness?.band !== this.state.embeddedness
+      ) return false;
+      if (
+        this.state.namingDepth &&
+        placeEvidence?.naming?.documentation_depth !== this.state.namingDepth
+      ) return false;
+      if (
+        this.state.namingReviewState &&
+        placeEvidence?.naming?.review_state !== this.state.namingReviewState
+      ) return false;
+      if (this.state.campaignEvidence) {
+        const campaigns = placeEvidence?.campaigns || [];
+        if (
+          this.state.campaignEvidence === "any" &&
+          !campaigns.length
+        ) return false;
+        if (
+          this.state.campaignEvidence === "none" &&
+          campaigns.length
+        ) return false;
+        if (
+          this.state.campaignEvidence === "any-session" &&
+          !campaigns.some((campaign) => campaign.session_count > 0)
+        ) return false;
+        if (
+          this.state.campaignEvidence === "confirmed-transcript" &&
+          !campaigns.some((campaign) =>
+            campaign.introduced_in_play === "confirmed-transcript"
+          )
+        ) return false;
+        if (
+          this.state.campaignEvidence === "recurring" &&
+          !campaigns.some((campaign) =>
+            ["recurring", "campaign-core"].includes(campaign.recurrence)
+          )
+        ) return false;
+        if (
+          this.state.campaignEvidence === "campaign-core" &&
+          !campaigns.some((campaign) => campaign.recurrence === "campaign-core")
+        ) return false;
+        if (
+          this.state.campaignEvidence === "campaign-context-only" &&
+          !campaigns.some((campaign) =>
+            campaign.recurrence === "campaign-context-only"
+          )
+        ) return false;
+      }
       if (query) {
         const haystack = core.normalizeLoose([
           concept.preferredForm,
@@ -771,6 +920,15 @@ class NameExplorerView extends ItemView {
             component.text,
             component.role,
             component.effectiveLanguage.language,
+          ]),
+          placeEvidence?.embeddedness?.band,
+          placeEvidence?.naming?.documentation_depth,
+          placeEvidence?.naming?.review_state,
+          ...(placeEvidence?.campaigns || []).flatMap((campaign) => [
+            campaign.campaign,
+            campaign.introduced_in_play,
+            campaign.recurrence,
+            ...(campaign.forms_exposed || []),
           ]),
         ].join(" "));
         if (!haystack.includes(query)) return false;
@@ -793,6 +951,15 @@ class NameExplorerView extends ItemView {
         case "kindLabel": return concept.kindLabel;
         case "status": return concept.status;
         case "variants": return concept.forms.length;
+        case "embeddedness": return concept.placeEvidence?.embeddedness?.percentile_all_places ?? -1;
+        case "campaigns": return (concept.placeEvidence?.campaigns || []).reduce(
+          (total, campaign) => total + (campaign.session_count || 0),
+          0,
+        );
+        case "namingDepth": return ["none", "form-only", "documented", "developed"].indexOf(
+          concept.placeEvidence?.naming?.documentation_depth || "none",
+        );
+        case "namingReviewState": return concept.placeEvidence?.naming?.review_state || "";
         default: return core.normalizeLoose(concept.preferredForm);
       }
     };
@@ -846,6 +1013,9 @@ class NameExplorerView extends ItemView {
     this.renderSortableHeader(headerRow, "kindLabel", "Kind");
     this.renderSortableHeader(headerRow, "status", "Review");
     this.renderSortableHeader(headerRow, "variants", "Forms");
+    this.renderSortableHeader(headerRow, "embeddedness", "Embedded");
+    this.renderSortableHeader(headerRow, "campaigns", "Play");
+    this.renderSortableHeader(headerRow, "namingDepth", "Naming");
     headerRow.createEl("th", { text: "" });
 
     const tbody = table.createEl("tbody");
@@ -911,6 +1081,35 @@ class NameExplorerView extends ItemView {
       row.createEl("td", { text: concept.kindLabel });
       row.createEl("td").appendChild(statusChip(concept.status));
       row.createEl("td", { text: String(concept.forms.length) });
+      const placeEvidence = concept.placeEvidence;
+      const embeddedCell = row.createEl("td", {
+        text: placeEvidence
+          ? embeddednessLabel(placeEvidence.embeddedness)
+          : "—",
+      });
+      if (placeEvidence) {
+        embeddedCell.title = `${placeEvidence.embeddedness.inbound.unique_notes} inbound notes · ` +
+          `${placeEvidence.embeddedness.inbound.mentions} inbound mentions · ` +
+          `${placeEvidence.embeddedness.outbound.unique_notes} outbound notes`;
+      }
+      const campaignCell = row.createEl("td", {
+        text: campaignEvidenceLabel(placeEvidence?.campaigns || []),
+      });
+      if (placeEvidence?.campaigns?.length) {
+        campaignCell.title = placeEvidence.campaigns.map((campaign) =>
+          `${campaign.campaign}: ${campaign.session_count} sessions · ` +
+          `${campaign.introduced_in_play} · ${campaign.recurrence}`
+        ).join("\n");
+      }
+      const namingCell = row.createEl("td", {
+        text: placeEvidence
+          ? `${placeEvidence.naming.documentation_depth} · ${placeEvidence.naming.review_state}`
+          : "—",
+      });
+      if (placeEvidence) {
+        namingCell.title = `${placeEvidence.naming.languages.join(", ") || "Unknown language"} · ` +
+          `${placeEvidence.naming.evidence.length} naming evidence excerpts`;
+      }
       const editCell = row.createEl("td");
       editCell.appendChild(iconButton("pencil", "Edit", () => {
         new EditConceptModal(this.app, this.plugin, concept, this.catalog).open();
@@ -919,7 +1118,7 @@ class NameExplorerView extends ItemView {
       if (this.state.expanded.has(key)) {
         const detailRow = tbody.createEl("tr", { cls: "tne-detail-row" });
         const detailCell = detailRow.createEl("td", {
-          attr: { colspan: "11" },
+          attr: { colspan: "14" },
         });
         this.renderConceptDetails(detailCell, concept);
       }
@@ -1022,6 +1221,53 @@ class NameExplorerView extends ItemView {
             `${component.text} [${component.role}]`
           ).join(" + "),
       });
+    }
+    if (concept.placeEvidence) {
+      const place = grid.createDiv({ cls: "tne-place-evidence" });
+      place.createEl("strong", { text: "Place-name evidence" });
+      place.createEl("p", {
+        text: `${embeddednessLabel(concept.placeEvidence.embeddedness)} embeddedness · ` +
+          `${concept.placeEvidence.embeddedness.inbound.unique_notes} inbound notes · ` +
+          `${concept.placeEvidence.embeddedness.outbound.unique_notes} outbound notes · ` +
+          `${concept.placeEvidence.embeddedness.semantic_edges.inbound_unique_notes} semantic inlinks`,
+      });
+      place.createEl("p", {
+        text: `Naming: ${concept.placeEvidence.naming.documentation_depth} · ` +
+          `${concept.placeEvidence.naming.review_state} · ` +
+          `${concept.placeEvidence.naming.languages.join(", ") || "unknown language"}`,
+      });
+      if (concept.placeEvidence.campaigns.length) {
+        place.createEl("strong", { text: "Campaign evidence" });
+        const campaigns = place.createEl("ul", { cls: "tne-form-list" });
+        for (const campaign of concept.placeEvidence.campaigns) {
+          campaigns.createEl("li", {
+            text: `${campaign.campaign}: ${campaign.session_count} sessions · ` +
+              `${campaign.scene_session_count} scene sessions · ` +
+              `${campaign.transcript_session_count} transcript sessions ` +
+              `(${campaign.transcript_occurrences} mentions; ` +
+              `${campaign.player_transcript_occurrences} player / ` +
+              `${campaign.dm_transcript_occurrences} DM) · ` +
+              `${campaign.recap_session_count} recap sessions · ` +
+              `${campaign.published_note_session_count} published-note sessions · ` +
+              `${campaign.introduced_in_play} · ${campaign.recurrence}`,
+          });
+        }
+      }
+      if (concept.placeEvidence.unattributed_campaign_material?.length) {
+        place.createEl("p", {
+          text: `${concept.placeEvidence.unattributed_campaign_material.length} ` +
+            "additional campaign-context note(s) could not be assigned to one campaign.",
+        });
+      }
+      if (concept.placeEvidence.naming.evidence.length) {
+        place.createEl("strong", { text: "Naming passages" });
+        for (const item of concept.placeEvidence.naming.evidence.slice(0, 8)) {
+          place.createEl("blockquote", {
+            cls: "tne-evidence-quote",
+            text: `${item.context} · line ${item.line} · ${item.kind}: ${item.snippet}`,
+          });
+        }
+      }
     }
   }
 
@@ -1985,6 +2231,20 @@ class NameExplorerSettingTab extends PluginSettingTab {
       });
 
     new Setting(containerEl)
+      .setName("Place evidence")
+      .setDesc("Vault-relative JSONL file generated by the place-name analyzer.")
+      .addText((text) => {
+        text.setValue(this.plugin.settings.placeEvidencePath);
+        text.inputEl.addEventListener("change", async () => {
+          const value = text.getValue();
+          this.plugin.settings.placeEvidencePath =
+            value.trim() || DEFAULT_SETTINGS.placeEvidencePath;
+          await this.plugin.saveSettings();
+          await this.plugin.refreshOpenViews();
+        });
+      });
+
+    new Setting(containerEl)
       .setName("Scan text evidence")
       .setDesc("Read high-confidence, form-bound naming statements and conservative text-derived aliases. Disabling this makes indexing faster.")
       .addToggle((toggle) => {
@@ -2027,6 +2287,7 @@ function summarizeCatalog(catalog) {
     nameReview: catalog.concepts.filter(
       (concept) => concept.needsNameReview,
     ).length,
+    placeEvidence: catalog.placeEvidence?.records?.length || 0,
     overridden: catalog.concepts.filter(
       (concept) => concept.status === "overridden",
     ).length,
@@ -2085,6 +2346,38 @@ function languageChip(language, source) {
   chip.textContent = language;
   chip.title = `Language source: ${source}`;
   return chip;
+}
+
+function humanizeEvidenceValue(value) {
+  return String(value || "")
+    .split("-")
+    .filter(Boolean)
+    .map((part, index) => index ? part : part[0]?.toUpperCase() + part.slice(1))
+    .join(" ");
+}
+
+function embeddednessLabel(embeddedness) {
+  if (!embeddedness) return "—";
+  const percentile = embeddedness.percentile_all_places;
+  const percentage = typeof percentile === "number"
+    ? ` · ${Math.round(percentile * 100)}%`
+    : "";
+  return `${humanizeEvidenceValue(embeddedness.band)}${percentage}`;
+}
+
+function campaignEvidenceLabel(campaigns) {
+  if (!campaigns.length) return "—";
+  return campaigns
+    .slice()
+    .sort((left, right) =>
+      (right.session_count || 0) - (left.session_count || 0) ||
+      left.campaign.localeCompare(right.campaign)
+    )
+    .slice(0, 3)
+    .map((campaign) =>
+      `${campaign.campaign} ${campaign.session_count || "context"}`
+    )
+    .join(" · ");
 }
 
 function statusChip(status) {
