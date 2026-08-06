@@ -1,7 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
 # Metadata Specification
 *last update: Dec 15th 2025*
 

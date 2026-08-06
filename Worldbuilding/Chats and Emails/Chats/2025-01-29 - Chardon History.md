@@ -165,7 +165,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 05:20 PM] rsulfuratus: this picture still leaves the history of the voltara area south through lake valandros northern coast pretty undeveloped (basically, 1, 2, and 5 of the yellow kingdoms)
 [2025-01-29 05:20 PM] rsulfuratus: right
 [2025-01-29 05:21 PM] rsulfuratus: for lake valandros, i think that the east coast is caught up in the conclave war and was historically probably elven or denoqai anyway, and can be left relatively open-ended
-[2025-01-29 05:21 PM] Deciusmus: then imagine the Mindknife War is something from the north, i.e. the two blue arrows pointing at Mawar:
+[2025-01-29 05:21 PM] Deciusmus: then imagine [[the Mindknife War]] is something from the north, i.e. the two blue arrows pointing at Mawar:
 ![[../_assets/discord/image-CF136.png]]
 [2025-01-29 05:21 PM] Deciusmus: and chardon is busy building a road through the Tawir gap instead of helping
 [2025-01-29 05:21 PM] Deciusmus: along that southern blue road

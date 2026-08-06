@@ -124,7 +124,7 @@ During this period, the [[Hobgoblin Movements After Cha'Mutte#Eastern Split|East
 
 After the defeat of the dragon conclave, many hobgoblins are slain by Chardonian forces, but some, under the banner of the Shattered Ice clan, flee east (possibly fighting a small war against the Myraeni Gap people), and settle to lick their wounds around the desolation of Urlich and the Sentinels west of Sembara. They become a major force in Sembaran history, but cease to significantly influence the west coast. 
 
-Also during this period, the [[Hobgoblin Movements After Cha'Mutte#Central Split|Central Branch]] of Cha'mutte's Northern Army moves south into Amani. Amani holds out for longer, and perhaps some people flee to Northern Realm 1 and Northern Realm 5, but by the end of this period the ~Amani War~ is over with a decisive defeat for Amani, which is brutally subjugated by ~something~ (might be hobgoblins, but more likely is something else). 
+Also during this period, the [[Hobgoblin Movements After Cha'Mutte#Central Split|Central Branch]] of Cha'mutte's Northern Army moves south into Amani. Amani holds out for longer, and perhaps some people flee to Northern Realm 1 and Northern Realm 5, but by the end of this period the Amani War is over with a decisive defeat for Amani, which is brutally subjugated by ~something~ (might be hobgoblins, but more likely is something else). 
 
 At the end of the Conclave War Period, you have:
 - [[Ainumarya]], Amani, Volganis, and NR 4 destroyed completely; the Chasa River significantly ruined.

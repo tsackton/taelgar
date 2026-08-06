@@ -114,7 +114,7 @@ The Isinguese culture is a purely Drankorian culture. Originally a Drankorian pr
 Addermarch, although a somewhat unique place, does not have a strongly distinct culture, and is best thought of as part of the broader [[Sembara|Sembaran]] culture, although with significant influence from [[Tyrwingha]].
 ### Cymean
 
-### ~South Cymean~
+### [[~South Cymea~]]
 
 %% TODO: This is the area that is probably most in need of working out %%
 ### Intentionally Blank
@@ -125,7 +125,7 @@ Although there are likely human cultures spread throughout the Eastern Green Sea
 See [[Ursk]]
 ### Medju
 See [[Medju]]
-### ~Maritime Trade Peninsula~
+### [[~Maritime Trade Peninsula~]]
 This area could use some invention, even if it is to decide to should be intentionally blank
 ### Irrla
 See [[Irrla]]

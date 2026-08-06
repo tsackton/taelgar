@@ -53,7 +53,7 @@
 [2025-01-31 05:10 PM] Deciusmus: and then it repeats again only 10 years later, and this time chardon does better, etc
 [2025-01-31 05:10 PM] rsulfuratus: right. i think the will is there and i think after the defeat of the shadow armanda there is a lot of popular sentiment in chardon that it is a grave moral failing to leave the people of the north coast suffering under hobgoblin rule (which, although gentle for hobgoblins, is not great)
 [2025-01-31 05:11 PM] rsulfuratus: but it takes time for chardon to grow into the ability to win quickly and easily. by the 1670s they probably sweep up the last of the hobgoblins without much trouble
-[2025-01-31 05:11 PM] rsulfuratus: the only question then is why don't they get involved in the mindknife war? or if they do, why does mawar suffer so much?
+[2025-01-31 05:11 PM] rsulfuratus: the only question then is why don't they get involved in [[the mindknife war]]? or if they do, why does mawar suffer so much?
 [2025-01-31 05:13 PM] rsulfuratus: it kind of makes me think the mindkinfe war should be something pretty weird, like aberrations emerging from the middle of the peninsula or something
 [2025-01-31 05:14 PM] rsulfuratus: and really should probably not last 10 years, it should be a quick devasting war that crushes mawar before they can really even call for help. maybe chardon does help / send aid in the end but the damage is done
 [2025-01-31 05:15 PM] rsulfuratus: push it a bit later, so chardon is in its last expansionist phase, and then you have the combination of mawar being wary of invinting the chardonians in as well

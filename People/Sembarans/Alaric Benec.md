@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+tags:
+  - person
+  - status/stub
 whereabouts: Rinburg
-affiliations: [{org: Rinburg, title: Lord Mayor}]
+affiliations:
+  - org: Rinburg
+    title: Lord Mayor
 species: human
 gender: male
 ancestry: Sembaran

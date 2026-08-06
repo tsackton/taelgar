@@ -1,4 +1,4 @@
-Created for Elderwood arc; never introduced in game. 
+Created for Elderwood arc; never introduced in game, except as a placeholder/landmark; party never went there. 
 
 ## Arkad
 

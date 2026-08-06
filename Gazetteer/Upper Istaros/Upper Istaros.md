@@ -69,7 +69,7 @@ Relatively few [[Dwarves]] make their home in the Upper Istaros, and those that 
 To the south, the free [[Orcs]] who call themselves the [[People of the Rainbow]] farm and herd cattle in the floodplains between the [[Istaros]] and the [[Kulthul]], in the kingdom of [[Xurkhaz]]. Their kingdom is protected from the dangers around them, and the ever-present threat of [[Thark]]'s vengeance on orcs who escape his grasp, by the magic of the [[Cloak of Rainbows]]. 
 %%^End%%
 
-%%SECRET[v2:1af988b3c9457b74762ab1702a2e8498]%%
+%%SECRET[v2:db19fbc8bea8c1580362d8323d4b09ab]%%
 
 ## Climate
 
