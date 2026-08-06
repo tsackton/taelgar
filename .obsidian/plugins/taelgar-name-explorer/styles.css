@@ -94,7 +94,7 @@
   border-collapse: collapse;
   font-size: var(--font-ui-small);
   margin: 0;
-  min-width: 78rem;
+  min-width: 102rem;
   width: 100%;
 }
 
@@ -177,6 +177,12 @@
   gap: var(--size-4-6);
   grid-template-columns: minmax(16rem, 1fr) minmax(18rem, 1fr);
   padding: var(--size-4-2) var(--size-4-6);
+}
+
+.tne-place-evidence {
+  border-top: 1px solid var(--tne-border);
+  grid-column: 1 / -1;
+  padding-top: var(--size-4-3);
 }
 
 .tne-detail-grid p {

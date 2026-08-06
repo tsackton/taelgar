@@ -1,0 +1,3936 @@
+{
+  "record_type": "meta",
+  "schema_version": 1,
+  "generated_at": "2026-08-06T05:01:12.988Z",
+  "root": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar",
+  "place_count": 706,
+  "session_count": 216,
+  "campaign_coverage": {
+    "addermarch": {
+      "sessions": 20,
+      "with_published_note": 20,
+      "with_recap": 0,
+      "with_transcript": 0
+    },
+    "cleenseau": {
+      "sessions": 33,
+      "with_published_note": 28,
+      "with_recap": 4,
+      "with_transcript": 0
+    },
+    "dunmar-frontier": {
+      "sessions": 137,
+      "with_published_note": 137,
+      "with_recap": 11,
+      "with_transcript": 121
+    },
+    "gl": {
+      "sessions": 5,
+      "with_published_note": 5,
+      "with_recap": 0,
+      "with_transcript": 0
+    },
+    "into-the-chasm": {
+      "sessions": 6,
+      "with_published_note": 6,
+      "with_recap": 6,
+      "with_transcript": 6
+    },
+    "labyrinths-of-the-lost": {
+      "sessions": 3,
+      "with_published_note": 3,
+      "with_recap": 3,
+      "with_transcript": 3
+    },
+    "lost-in-the-feywild": {
+      "sessions": 6,
+      "with_published_note": 6,
+      "with_recap": 6,
+      "with_transcript": 6
+    },
+    "mawar-adventures": {
+      "sessions": 5,
+      "with_published_note": 5,
+      "with_recap": 5,
+      "with_transcript": 4
+    },
+    "oskar-s-adventures": {
+      "sessions": 1,
+      "with_published_note": 1,
+      "with_recap": 0,
+      "with_transcript": 0
+    }
+  },
+  "unattributed_campaign_material": {
+    "place_count": 23,
+    "note_count": 6,
+    "treatment": "Retained separately because the source note could not be assigned to one configured campaign."
+  },
+  "matching": {
+    "algorithm": "exact-after-NFKC-typography-whitespace-and-case-normalization; diacritics preserved; Unicode letter-number boundaries",
+    "candidate_form_count": 838,
+    "ambiguous_form_count": 2,
+    "ambiguous_forms": [
+      {
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ]
+      },
+      {
+        "form": "airion's floating tower",
+        "subjects": [
+          "Gazetteer/Northwest Coast/Fiamatara Mountains/Airion's Floating Tower.md",
+          "Gazetteer/Northwest Coast/Fiamatara Mountains/Airion’s Floating Tower.md"
+        ]
+      }
+    ],
+    "ambiguous_occurrence_count": 15,
+    "ambiguous_occurrence_examples": [
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 56 (DuFr).md",
+        "line": 52,
+        "uid": "",
+        "channel": "published_note",
+        "session": "dunmar-frontier:56"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 56 (DuFr).md",
+        "line": 62,
+        "uid": "",
+        "channel": "published_note",
+        "session": "dunmar-frontier:56"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-prepared.md",
+        "line": 243,
+        "uid": "u0243",
+        "channel": "transcript",
+        "session": "dunmar-frontier:56"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-prepared.md",
+        "line": 265,
+        "uid": "u0265",
+        "channel": "transcript",
+        "session": "dunmar-frontier:56"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-prepared.md",
+        "line": 314,
+        "uid": "u0314",
+        "channel": "transcript",
+        "session": "dunmar-frontier:56"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-prepared.md",
+        "line": 328,
+        "uid": "u0328",
+        "channel": "transcript",
+        "session": "dunmar-frontier:56"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-prepared.md",
+        "line": 572,
+        "uid": "u0572",
+        "channel": "transcript",
+        "session": "dunmar-frontier:57"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-prepared.md",
+        "line": 953,
+        "uid": "u0953",
+        "channel": "transcript",
+        "session": "dunmar-frontier:57"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-prepared.md",
+        "line": 472,
+        "uid": "u0472",
+        "channel": "transcript",
+        "session": "dunmar-frontier:58"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-source-prepared.md",
+        "line": 35,
+        "uid": "u0035",
+        "channel": "transcript",
+        "session": "dunmar-frontier:76"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "muddy river",
+        "subjects": [
+          "Gazetteer/Extraplanar/Shadowfolds/Morkalan/Muddy River.md",
+          "Gazetteer/Greater Sembara/Rivers/Volta Watershed/Muddy River (Tollen).md"
+        ],
+        "path": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-source-prepared.md",
+        "line": 36,
+        "uid": "u0036",
+        "channel": "transcript",
+        "session": "dunmar-frontier:76"
+      },
+      {
+        "kind": "ambiguous-form",
+        "form": "airion's floating tower",
+        "subjects": [
+          "Gazetteer/Northwest Coast/Fiamatara Mountains/Airion's Floating Tower.md",
+          "Gazetteer/Northwest Coast/Fiamatara Mountains/Airion’s Floating Tower.md"
+        ],
+        "path": "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 1.md",
+        "line": 161,
+        "uid": "",
+        "channel": "published_note",
+        "session": "gl:1"
+      }
+    ]
+  },
+  "session_joining": {
+    "methods": {
+      "bundle-only": 5,
+      "campaign-and-session-number": 191,
+      "published-only": 20
+    },
+    "records": [
+      {
+        "id": "addermarch:1",
+        "campaign": "addermarch",
+        "number": 1,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 01.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-001",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:2",
+        "campaign": "addermarch",
+        "number": 2,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 02.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-002",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:3",
+        "campaign": "addermarch",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 03.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-003",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:4",
+        "campaign": "addermarch",
+        "number": 4,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 04.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-004",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:5",
+        "campaign": "addermarch",
+        "number": 5,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 05.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-005",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:6",
+        "campaign": "addermarch",
+        "number": 6,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 06.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-006",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:7",
+        "campaign": "addermarch",
+        "number": 7,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 07.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-007",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:8",
+        "campaign": "addermarch",
+        "number": 8,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 08.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-008",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:9",
+        "campaign": "addermarch",
+        "number": 9,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 09.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-009",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:10",
+        "campaign": "addermarch",
+        "number": 10,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 10.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-010",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:11",
+        "campaign": "addermarch",
+        "number": 11,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 11.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-011",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:12",
+        "campaign": "addermarch",
+        "number": 12,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 12.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-012",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:13",
+        "campaign": "addermarch",
+        "number": 13,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 13.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-013",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:14",
+        "campaign": "addermarch",
+        "number": 14,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 14.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-014",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:15",
+        "campaign": "addermarch",
+        "number": 15,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 15.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-015",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:16",
+        "campaign": "addermarch",
+        "number": 16,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 16.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-016",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:17",
+        "campaign": "addermarch",
+        "number": 17,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 17.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-017",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:18",
+        "campaign": "addermarch",
+        "number": 18,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 18.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-018",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:19",
+        "campaign": "addermarch",
+        "number": 19,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 19.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-019",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "addermarch:20",
+        "campaign": "addermarch",
+        "number": 20,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Addermarch Campaign/Addermarch - Session 20.md"
+        ],
+        "bundle": "_sessions/addermarch/addermarch-020",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:1",
+        "campaign": "cleenseau",
+        "number": 1,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 01.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-001",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:2",
+        "campaign": "cleenseau",
+        "number": 2,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 02.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-002",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:3",
+        "campaign": "cleenseau",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 03.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-003",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:4",
+        "campaign": "cleenseau",
+        "number": 4,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 04.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-004",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:5",
+        "campaign": "cleenseau",
+        "number": 5,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 05.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-005",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:6",
+        "campaign": "cleenseau",
+        "number": 6,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 06.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-006",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:7",
+        "campaign": "cleenseau",
+        "number": 7,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 07.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-007",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:8",
+        "campaign": "cleenseau",
+        "number": 8,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 08.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-008",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:9",
+        "campaign": "cleenseau",
+        "number": 9,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 09.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-009",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:10",
+        "campaign": "cleenseau",
+        "number": 10,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 10.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-010",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:11",
+        "campaign": "cleenseau",
+        "number": 11,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 11.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-011",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:12",
+        "campaign": "cleenseau",
+        "number": 12,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 12.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-012",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:13",
+        "campaign": "cleenseau",
+        "number": 13,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 13.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-013",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:14",
+        "campaign": "cleenseau",
+        "number": 14,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 14.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-014",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:15",
+        "campaign": "cleenseau",
+        "number": 15,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 15.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-015",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:16",
+        "campaign": "cleenseau",
+        "number": 16,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 16.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-016",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:17",
+        "campaign": "cleenseau",
+        "number": 17,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 17.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-017",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": [
+          {
+            "path": "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 17.md",
+            "field": "sessionNumber",
+            "frontmatter_value": 16,
+            "filename_value": 17,
+            "resolution": "used-filename-value"
+          }
+        ]
+      },
+      {
+        "id": "cleenseau:18",
+        "campaign": "cleenseau",
+        "number": 18,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 18.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-018",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:19",
+        "campaign": "cleenseau",
+        "number": 19,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 19.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-019",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:20",
+        "campaign": "cleenseau",
+        "number": 20,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 20.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-020",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:21",
+        "campaign": "cleenseau",
+        "number": 21,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 21.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-021",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:22",
+        "campaign": "cleenseau",
+        "number": 22,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 22.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-022",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:23",
+        "campaign": "cleenseau",
+        "number": 23,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 23.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-023",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:24",
+        "campaign": "cleenseau",
+        "number": 24,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 24.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-024",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:25",
+        "campaign": "cleenseau",
+        "number": 25,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 25.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-025",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:26",
+        "campaign": "cleenseau",
+        "number": 26,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 26.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-026",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:27",
+        "campaign": "cleenseau",
+        "number": 27,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 27.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-027",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:28",
+        "campaign": "cleenseau",
+        "number": 28,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Cleenseau Campaign/Sessions/Cleenseau - Session 28.md"
+        ],
+        "bundle": "_sessions/cleenseau/cleenseau-028",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:29",
+        "campaign": "cleenseau",
+        "number": 29,
+        "join": {
+          "method": "bundle-only",
+          "confidence": 0.98
+        },
+        "published_notes": [],
+        "bundle": "_sessions/cleenseau/cleenseau-029",
+        "recap": "_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-session-recap.md",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:30",
+        "campaign": "cleenseau",
+        "number": 30,
+        "join": {
+          "method": "bundle-only",
+          "confidence": 0.98
+        },
+        "published_notes": [],
+        "bundle": "_sessions/cleenseau/cleenseau-030",
+        "recap": "_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session-recap.md",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:31",
+        "campaign": "cleenseau",
+        "number": 31,
+        "join": {
+          "method": "bundle-only",
+          "confidence": 0.98
+        },
+        "published_notes": [],
+        "bundle": "_sessions/cleenseau/cleenseau-031",
+        "recap": "_sessions/cleenseau/cleenseau-031/cleaned/cleenseau-031-session-recap.md",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:32",
+        "campaign": "cleenseau",
+        "number": 32,
+        "join": {
+          "method": "bundle-only",
+          "confidence": 0.98
+        },
+        "published_notes": [],
+        "bundle": "_sessions/cleenseau/cleenseau-032",
+        "recap": "_sessions/cleenseau/cleenseau-032/cleaned/cleenseau-032-session-recap.md",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "cleenseau:33",
+        "campaign": "cleenseau",
+        "number": 33,
+        "join": {
+          "method": "bundle-only",
+          "confidence": 0.98
+        },
+        "published_notes": [],
+        "bundle": "_sessions/cleenseau/cleenseau-033",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:1",
+        "campaign": "dunmar-frontier",
+        "number": 1,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 1 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:2",
+        "campaign": "dunmar-frontier",
+        "number": 2,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 2 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:3",
+        "campaign": "dunmar-frontier",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 3 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-003",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:4",
+        "campaign": "dunmar-frontier",
+        "number": 4,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 4 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-004",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:5",
+        "campaign": "dunmar-frontier",
+        "number": 5,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 5 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-005",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:6",
+        "campaign": "dunmar-frontier",
+        "number": 6,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 6 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-006",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:7",
+        "campaign": "dunmar-frontier",
+        "number": 7,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 7 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-007",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:8",
+        "campaign": "dunmar-frontier",
+        "number": 8,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-008",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:9",
+        "campaign": "dunmar-frontier",
+        "number": 9,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 9 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-009",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:10",
+        "campaign": "dunmar-frontier",
+        "number": 10,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 10 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-010",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:11",
+        "campaign": "dunmar-frontier",
+        "number": 11,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 11 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-011",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:12",
+        "campaign": "dunmar-frontier",
+        "number": 12,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 12 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-012",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:13",
+        "campaign": "dunmar-frontier",
+        "number": 13,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 13 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-013",
+        "recap": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session-recap.md",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:14",
+        "campaign": "dunmar-frontier",
+        "number": 14,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 14 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-014",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:15",
+        "campaign": "dunmar-frontier",
+        "number": 15,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 15 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-015",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:16",
+        "campaign": "dunmar-frontier",
+        "number": 16,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-016",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:17",
+        "campaign": "dunmar-frontier",
+        "number": 17,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 17 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-017",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:18",
+        "campaign": "dunmar-frontier",
+        "number": 18,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 18 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-018",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:19",
+        "campaign": "dunmar-frontier",
+        "number": 19,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 19 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-019",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:20",
+        "campaign": "dunmar-frontier",
+        "number": 20,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 20 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-020",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:21",
+        "campaign": "dunmar-frontier",
+        "number": 21,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 21 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-021",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:22",
+        "campaign": "dunmar-frontier",
+        "number": 22,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 22 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-022",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:23",
+        "campaign": "dunmar-frontier",
+        "number": 23,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 23 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-023",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:24",
+        "campaign": "dunmar-frontier",
+        "number": 24,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 24 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-024",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:25",
+        "campaign": "dunmar-frontier",
+        "number": 25,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 25 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-025",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:26",
+        "campaign": "dunmar-frontier",
+        "number": 26,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 26 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-026",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:27",
+        "campaign": "dunmar-frontier",
+        "number": 27,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 27 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-027",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:28",
+        "campaign": "dunmar-frontier",
+        "number": 28,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-028",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:29",
+        "campaign": "dunmar-frontier",
+        "number": 29,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 29 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-029",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-029/cleaned/dunmari-frontier-029-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:30",
+        "campaign": "dunmar-frontier",
+        "number": 30,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 30 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-030",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:31",
+        "campaign": "dunmar-frontier",
+        "number": 31,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 31 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-031",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-031/cleaned/dunmari-frontier-031-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:32",
+        "campaign": "dunmar-frontier",
+        "number": 32,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 32 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:33",
+        "campaign": "dunmar-frontier",
+        "number": 33,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 33 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-033",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:34",
+        "campaign": "dunmar-frontier",
+        "number": 34,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 34 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-034",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-034/cleaned/dunmari-frontier-034-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:35",
+        "campaign": "dunmar-frontier",
+        "number": 35,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 35 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-035",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-035/cleaned/dunmari-frontier-035-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:36",
+        "campaign": "dunmar-frontier",
+        "number": 36,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 36 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-036",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-036/cleaned/dunmari-frontier-036-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:37",
+        "campaign": "dunmar-frontier",
+        "number": 37,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 37 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-037",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:38",
+        "campaign": "dunmar-frontier",
+        "number": 38,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 38 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-038",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-038/cleaned/dunmari-frontier-038-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:39",
+        "campaign": "dunmar-frontier",
+        "number": 39,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 39 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-039",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:40",
+        "campaign": "dunmar-frontier",
+        "number": 40,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 40 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-040",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:41",
+        "campaign": "dunmar-frontier",
+        "number": 41,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 41 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-041",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:42",
+        "campaign": "dunmar-frontier",
+        "number": 42,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 42 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-042",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-042/cleaned/dunmari-frontier-042-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:43",
+        "campaign": "dunmar-frontier",
+        "number": 43,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 43 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-043",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-043/cleaned/dunmari-frontier-043-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:44",
+        "campaign": "dunmar-frontier",
+        "number": 44,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 44 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-044",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:45",
+        "campaign": "dunmar-frontier",
+        "number": 45,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-045",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:46",
+        "campaign": "dunmar-frontier",
+        "number": 46,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-046",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:47",
+        "campaign": "dunmar-frontier",
+        "number": 47,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 47 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-047",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:48",
+        "campaign": "dunmar-frontier",
+        "number": 48,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 48 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-048",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:49",
+        "campaign": "dunmar-frontier",
+        "number": 49,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 49 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-049",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-049/cleaned/dunmari-frontier-049-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:50",
+        "campaign": "dunmar-frontier",
+        "number": 50,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 50 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:51",
+        "campaign": "dunmar-frontier",
+        "number": 51,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 51 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:52",
+        "campaign": "dunmar-frontier",
+        "number": 52,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 52 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:53",
+        "campaign": "dunmar-frontier",
+        "number": 53,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 53 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-053",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:54",
+        "campaign": "dunmar-frontier",
+        "number": 54,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-054",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:55",
+        "campaign": "dunmar-frontier",
+        "number": 55,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 55 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-055",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-055/cleaned/dunmari-frontier-055-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:56",
+        "campaign": "dunmar-frontier",
+        "number": 56,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 56 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-056",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-056/cleaned/dunmari-frontier-056-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:57",
+        "campaign": "dunmar-frontier",
+        "number": 57,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 57 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-057",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-057/cleaned/dunmari-frontier-057-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:58",
+        "campaign": "dunmar-frontier",
+        "number": 58,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 58 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-058",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:59",
+        "campaign": "dunmar-frontier",
+        "number": 59,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 59 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-059",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-059/cleaned/dunmari-frontier-059-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:60",
+        "campaign": "dunmar-frontier",
+        "number": 60,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 60 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-060",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-060/cleaned/dunmari-frontier-060-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:61",
+        "campaign": "dunmar-frontier",
+        "number": 61,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 61 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-061",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:62",
+        "campaign": "dunmar-frontier",
+        "number": 62,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 62 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-062",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-062/cleaned/dunmari-frontier-062-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:63",
+        "campaign": "dunmar-frontier",
+        "number": 63,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 63 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-063",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-063/cleaned/dunmari-frontier-063-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:64",
+        "campaign": "dunmar-frontier",
+        "number": 64,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 64 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-064",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-064/cleaned/dunmari-frontier-064-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:65",
+        "campaign": "dunmar-frontier",
+        "number": 65,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 65 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-065",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-065/cleaned/dunmari-frontier-065-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:66",
+        "campaign": "dunmar-frontier",
+        "number": 66,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 66 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-066",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-066/cleaned/dunmari-frontier-066-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:67",
+        "campaign": "dunmar-frontier",
+        "number": 67,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 67 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-067",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-067/cleaned/dunmari-frontier-067-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:68",
+        "campaign": "dunmar-frontier",
+        "number": 68,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 68 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-068",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:69",
+        "campaign": "dunmar-frontier",
+        "number": 69,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 69 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-069",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-069/cleaned/dunmari-frontier-069-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:70",
+        "campaign": "dunmar-frontier",
+        "number": 70,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 70 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-070",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-070/cleaned/dunmari-frontier-070-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:71",
+        "campaign": "dunmar-frontier",
+        "number": 71,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 71 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-071",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:72",
+        "campaign": "dunmar-frontier",
+        "number": 72,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 72 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-072",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:73",
+        "campaign": "dunmar-frontier",
+        "number": 73,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 73 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-073",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-073/cleaned/dunmari-frontier-073-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:74",
+        "campaign": "dunmar-frontier",
+        "number": 74,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 74 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-074",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-074/cleaned/dunmari-frontier-074-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:75",
+        "campaign": "dunmar-frontier",
+        "number": 75,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 75 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-075",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-075/cleaned/dunmari-frontier-075-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:76",
+        "campaign": "dunmar-frontier",
+        "number": 76,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 76 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-076",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-076/cleaned/dunmari-frontier-076-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:77",
+        "campaign": "dunmar-frontier",
+        "number": 77,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 77 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-077",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-077/cleaned/dunmari-frontier-077-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:78",
+        "campaign": "dunmar-frontier",
+        "number": 78,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 78 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-078",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:79",
+        "campaign": "dunmar-frontier",
+        "number": 79,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 79 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-079",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-079/cleaned/dunmari-frontier-079-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:80",
+        "campaign": "dunmar-frontier",
+        "number": 80,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 80 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:81",
+        "campaign": "dunmar-frontier",
+        "number": 81,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 81 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:82",
+        "campaign": "dunmar-frontier",
+        "number": 82,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 82 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-082",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-082/cleaned/dunmari-frontier-082-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:83",
+        "campaign": "dunmar-frontier",
+        "number": 83,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 83 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-083",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-083/cleaned/dunmari-frontier-083-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:84",
+        "campaign": "dunmar-frontier",
+        "number": 84,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 84 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-084",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:85",
+        "campaign": "dunmar-frontier",
+        "number": 85,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 85 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-085",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-085/cleaned/dunmari-frontier-085-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:86",
+        "campaign": "dunmar-frontier",
+        "number": 86,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 86 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-086",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-086/cleaned/dunmari-frontier-086-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:87",
+        "campaign": "dunmar-frontier",
+        "number": 87,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-087",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:88",
+        "campaign": "dunmar-frontier",
+        "number": 88,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 88 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-088",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-088/cleaned/dunmari-frontier-088-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:89",
+        "campaign": "dunmar-frontier",
+        "number": 89,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 89 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-089",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-089/cleaned/dunmari-frontier-089-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:90",
+        "campaign": "dunmar-frontier",
+        "number": 90,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 90 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-090",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:91",
+        "campaign": "dunmar-frontier",
+        "number": 91,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 91 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-091",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-091/cleaned/dunmari-frontier-091-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:92",
+        "campaign": "dunmar-frontier",
+        "number": 92,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 92 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-092",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:93",
+        "campaign": "dunmar-frontier",
+        "number": 93,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 93 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-093",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-093/cleaned/dunmari-frontier-093-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:94",
+        "campaign": "dunmar-frontier",
+        "number": 94,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 94 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-094",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-094/cleaned/dunmari-frontier-094-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:95",
+        "campaign": "dunmar-frontier",
+        "number": 95,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 95 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-095",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-095/cleaned/dunmari-frontier-095-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:96",
+        "campaign": "dunmar-frontier",
+        "number": 96,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 96 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-096",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:97",
+        "campaign": "dunmar-frontier",
+        "number": 97,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 97 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-097",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-097/cleaned/dunmari-frontier-097-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:98",
+        "campaign": "dunmar-frontier",
+        "number": 98,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 98 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-098",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-098/cleaned/dunmari-frontier-098-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:99",
+        "campaign": "dunmar-frontier",
+        "number": 99,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 99 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-099",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-099/cleaned/dunmari-frontier-099-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:100",
+        "campaign": "dunmar-frontier",
+        "number": 100,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 100 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-100",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-100/cleaned/dunmari-frontier-100-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:101",
+        "campaign": "dunmar-frontier",
+        "number": 101,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-101",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:102",
+        "campaign": "dunmar-frontier",
+        "number": 102,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 102 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-102",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:103",
+        "campaign": "dunmar-frontier",
+        "number": 103,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-103",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:104",
+        "campaign": "dunmar-frontier",
+        "number": 104,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 104 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-104",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:105",
+        "campaign": "dunmar-frontier",
+        "number": 105,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 105 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-105",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": [
+          {
+            "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 105 (DuFr).md",
+            "field": "sessionNumber",
+            "frontmatter_value": 104,
+            "filename_value": 105,
+            "resolution": "used-filename-value"
+          }
+        ]
+      },
+      {
+        "id": "dunmar-frontier:106",
+        "campaign": "dunmar-frontier",
+        "number": 106,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 106 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-106",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:107",
+        "campaign": "dunmar-frontier",
+        "number": 107,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 107 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-107",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:108",
+        "campaign": "dunmar-frontier",
+        "number": 108,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 108 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:109",
+        "campaign": "dunmar-frontier",
+        "number": 109,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:110",
+        "campaign": "dunmar-frontier",
+        "number": 110,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 110 (DuFr).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:111",
+        "campaign": "dunmar-frontier",
+        "number": 111,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 111 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-111",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-111/cleaned/dunmari-frontier-111-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:112",
+        "campaign": "dunmar-frontier",
+        "number": 112,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 112 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-112",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-112/cleaned/dunmari-frontier-112-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:113",
+        "campaign": "dunmar-frontier",
+        "number": 113,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-113",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:114",
+        "campaign": "dunmar-frontier",
+        "number": 114,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 114 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-114",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:115",
+        "campaign": "dunmar-frontier",
+        "number": 115,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 115 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-115",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:116",
+        "campaign": "dunmar-frontier",
+        "number": 116,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 116 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-116",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:117",
+        "campaign": "dunmar-frontier",
+        "number": 117,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 117 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-117",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-117/cleaned/dunmari-frontier-117-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:118",
+        "campaign": "dunmar-frontier",
+        "number": 118,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-118",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:119",
+        "campaign": "dunmar-frontier",
+        "number": 119,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 119 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-119",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:120",
+        "campaign": "dunmar-frontier",
+        "number": 120,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 120 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-120",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:121",
+        "campaign": "dunmar-frontier",
+        "number": 121,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 121 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-121",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-121/cleaned/dunmari-frontier-121-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:122",
+        "campaign": "dunmar-frontier",
+        "number": 122,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 122 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-122",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-122/cleaned/dunmari-frontier-122-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:123",
+        "campaign": "dunmar-frontier",
+        "number": 123,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 123 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-123",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:124",
+        "campaign": "dunmar-frontier",
+        "number": 124,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-124",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:125",
+        "campaign": "dunmar-frontier",
+        "number": 125,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 125 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-125",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-125/cleaned/dunmari-frontier-125-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:126",
+        "campaign": "dunmar-frontier",
+        "number": 126,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 126 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-126",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:127",
+        "campaign": "dunmar-frontier",
+        "number": 127,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 127 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-127",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:128",
+        "campaign": "dunmar-frontier",
+        "number": 128,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 128 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-128",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-128/cleaned/dunmari-frontier-128-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:129",
+        "campaign": "dunmar-frontier",
+        "number": 129,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 129 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-129",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:130",
+        "campaign": "dunmar-frontier",
+        "number": 130,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 130 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-130",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-130/cleaned/dunmari-frontier-130-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:131",
+        "campaign": "dunmar-frontier",
+        "number": 131,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 131 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-131",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:132",
+        "campaign": "dunmar-frontier",
+        "number": 132,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 132 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-132",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-132/cleaned/dunmari-frontier-132-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:133",
+        "campaign": "dunmar-frontier",
+        "number": 133,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 133 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-133",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "dunmar-frontier:134",
+        "campaign": "dunmar-frontier",
+        "number": 134,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 134 (DuFr).md"
+        ],
+        "bundle": "_sessions/dunmar-frontier/dunmari-frontier-134",
+        "recap": "",
+        "transcript": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-source-prepared.md",
+        "transcript_source": "prepared",
+        "identity_warnings": []
+      },
+      {
+        "id": "path:Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Delwath Postscript)",
+        "campaign": "dunmar-frontier",
+        "number": null,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.7
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Delwath Postscript).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "path:Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Preparations for Limbo)",
+        "campaign": "dunmar-frontier",
+        "number": null,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.7
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Preparations for Limbo).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "path:Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Tollen Downtime)",
+        "campaign": "dunmar-frontier",
+        "number": null,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.7
+        },
+        "published_notes": [
+          "Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Tollen Downtime).md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "gl:1",
+        "campaign": "gl",
+        "number": 1,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 1.md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "gl:2",
+        "campaign": "gl",
+        "number": 2,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 2.md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "gl:3",
+        "campaign": "gl",
+        "number": 3,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 3.md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "gl:4",
+        "campaign": "gl",
+        "number": 4,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 4.md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "gl:5",
+        "campaign": "gl",
+        "number": 5,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.96
+        },
+        "published_notes": [
+          "Campaigns/Great Library Campaign/Session Notes/Great Library Session Notes - Arc 5.md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "into-the-chasm:1",
+        "campaign": "into-the-chasm",
+        "number": 1,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 01.md"
+        ],
+        "bundle": "_sessions/into-the-chasm/into-the-chasm-001",
+        "recap": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-session-recap.md",
+        "transcript": "_sessions/into-the-chasm/into-the-chasm-001/cleaned/into-the-chasm-001-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "into-the-chasm:2",
+        "campaign": "into-the-chasm",
+        "number": 2,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 02.md"
+        ],
+        "bundle": "_sessions/into-the-chasm/into-the-chasm-002",
+        "recap": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-session-recap.md",
+        "transcript": "_sessions/into-the-chasm/into-the-chasm-002/cleaned/into-the-chasm-002-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "into-the-chasm:3",
+        "campaign": "into-the-chasm",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 03.md"
+        ],
+        "bundle": "_sessions/into-the-chasm/into-the-chasm-003",
+        "recap": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-session-recap.md",
+        "transcript": "_sessions/into-the-chasm/into-the-chasm-003/cleaned/into-the-chasm-003-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "into-the-chasm:4",
+        "campaign": "into-the-chasm",
+        "number": 4,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 04.md"
+        ],
+        "bundle": "_sessions/into-the-chasm/into-the-chasm-004",
+        "recap": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-session-recap.md",
+        "transcript": "_sessions/into-the-chasm/into-the-chasm-004/cleaned/into-the-chasm-004-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "into-the-chasm:5",
+        "campaign": "into-the-chasm",
+        "number": 5,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 05.md"
+        ],
+        "bundle": "_sessions/into-the-chasm/into-the-chasm-005",
+        "recap": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-session-recap.md",
+        "transcript": "_sessions/into-the-chasm/into-the-chasm-005/cleaned/into-the-chasm-005-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "into-the-chasm:6",
+        "campaign": "into-the-chasm",
+        "number": 6,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Into the Chasm/Into the Chasm - Episode 06.md"
+        ],
+        "bundle": "_sessions/into-the-chasm/into-the-chasm-006",
+        "recap": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-session-recap.md",
+        "transcript": "_sessions/into-the-chasm/into-the-chasm-006/cleaned/into-the-chasm-006-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "labyrinths-of-the-lost:1",
+        "campaign": "labyrinths-of-the-lost",
+        "number": 1,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 1.md"
+        ],
+        "bundle": "_sessions/lablost/labyrinths-of-the-lost-001",
+        "recap": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-session-recap.md",
+        "transcript": "_sessions/lablost/labyrinths-of-the-lost-001/cleaned/labyrinths-of-the-lost-001-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "labyrinths-of-the-lost:2",
+        "campaign": "labyrinths-of-the-lost",
+        "number": 2,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 2.md"
+        ],
+        "bundle": "_sessions/lablost/labyrinths-of-the-lost-002",
+        "recap": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-session-recap.md",
+        "transcript": "_sessions/lablost/labyrinths-of-the-lost-002/cleaned/labyrinths-of-the-lost-002-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "labyrinths-of-the-lost:3",
+        "campaign": "labyrinths-of-the-lost",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Labyrinths of the Lost/Labyrinths of the Lost - Session 3.md"
+        ],
+        "bundle": "_sessions/lablost/labyrinths-of-the-lost-003",
+        "recap": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-session-recap.md",
+        "transcript": "_sessions/lablost/labyrinths-of-the-lost-003/cleaned/labyrinths-of-the-lost-003-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "lost-in-the-feywild:1",
+        "campaign": "lost-in-the-feywild",
+        "number": 1,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 01.md"
+        ],
+        "bundle": "_sessions/feywild/lost-in-the-feywild-001",
+        "recap": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session-recap.md",
+        "transcript": "_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "lost-in-the-feywild:2",
+        "campaign": "lost-in-the-feywild",
+        "number": 2,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 02.md"
+        ],
+        "bundle": "_sessions/feywild/lost-in-the-feywild-002",
+        "recap": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-session-recap.md",
+        "transcript": "_sessions/feywild/lost-in-the-feywild-002/cleaned/lost-in-the-feywild-002-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "lost-in-the-feywild:3",
+        "campaign": "lost-in-the-feywild",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 03.md"
+        ],
+        "bundle": "_sessions/feywild/lost-in-the-feywild-003",
+        "recap": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session-recap.md",
+        "transcript": "_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "lost-in-the-feywild:4",
+        "campaign": "lost-in-the-feywild",
+        "number": 4,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 04.md"
+        ],
+        "bundle": "_sessions/feywild/lost-in-the-feywild-004",
+        "recap": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-session-recap.md",
+        "transcript": "_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "lost-in-the-feywild:5",
+        "campaign": "lost-in-the-feywild",
+        "number": 5,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 05.md"
+        ],
+        "bundle": "_sessions/feywild/lost-in-the-feywild-005",
+        "recap": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-session-recap.md",
+        "transcript": "_sessions/feywild/lost-in-the-feywild-005/cleaned/lost-in-the-feywild-005-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "lost-in-the-feywild:6",
+        "campaign": "lost-in-the-feywild",
+        "number": 6,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Lost in the Feywild/Lost in the Feywild - Episode 06.md"
+        ],
+        "bundle": "_sessions/feywild/lost-in-the-feywild-006",
+        "recap": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-session-recap.md",
+        "transcript": "_sessions/feywild/lost-in-the-feywild-006/cleaned/lost-in-the-feywild-006-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "mawar-adventures:1",
+        "campaign": "mawar-adventures",
+        "number": 1,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 01.md"
+        ],
+        "bundle": "_sessions/mawar/mawar-adventures-001",
+        "recap": "_sessions/mawar/mawar-adventures-001/cleaned/mawar-adventures-001-session-recap.md",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      },
+      {
+        "id": "mawar-adventures:2",
+        "campaign": "mawar-adventures",
+        "number": 2,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 02.md"
+        ],
+        "bundle": "_sessions/mawar/mawar-adventures-002",
+        "recap": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-session-recap.md",
+        "transcript": "_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "mawar-adventures:3",
+        "campaign": "mawar-adventures",
+        "number": 3,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 03.md"
+        ],
+        "bundle": "_sessions/mawar/mawar-adventures-003",
+        "recap": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-session-recap.md",
+        "transcript": "_sessions/mawar/mawar-adventures-003/cleaned/mawar-adventures-003-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "mawar-adventures:4",
+        "campaign": "mawar-adventures",
+        "number": 4,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 04.md"
+        ],
+        "bundle": "_sessions/mawar/mawar-adventures-004",
+        "recap": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-session-recap.md",
+        "transcript": "_sessions/mawar/mawar-adventures-004/cleaned/mawar-adventures-004-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "mawar-adventures:5",
+        "campaign": "mawar-adventures",
+        "number": 5,
+        "join": {
+          "method": "campaign-and-session-number",
+          "confidence": 0.98
+        },
+        "published_notes": [
+          "Campaigns/Mawar Adventures/Episodes/Mawar Adventures Episode 05.md"
+        ],
+        "bundle": "_sessions/mawar/mawar-adventures-005",
+        "recap": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-session-recap.md",
+        "transcript": "_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-source-cleaned.md",
+        "transcript_source": "cleaned",
+        "identity_warnings": []
+      },
+      {
+        "id": "path:Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor",
+        "campaign": "oskar-s-adventures",
+        "number": null,
+        "join": {
+          "method": "published-only",
+          "confidence": 0.7
+        },
+        "published_notes": [
+          "Campaigns/One Shots/Oskar's Adventures/Oskar in Tharn Todor.md"
+        ],
+        "bundle": "",
+        "recap": "",
+        "transcript": "",
+        "transcript_source": "",
+        "identity_warnings": []
+      }
+    ]
+  }
+}

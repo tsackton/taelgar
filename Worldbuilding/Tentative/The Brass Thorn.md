@@ -1,3 +1,7 @@
+---
+tentativeReason: "unused concept from non-canon Plaguelands campaign"
+---
+
 Invented for first plaguelands campaign. 
 
 The Brass Thorn is an inn in [[Adderfell]], run by Ellyn

@@ -2065,6 +2065,53 @@ function catalogExportRecords(catalog) {
   }));
 }
 
+function parsePlaceEvidenceStore(text) {
+  const records = [];
+  let metadata = null;
+  String(text || "").split(/\r?\n/).forEach((line, index) => {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith("#")) return;
+    let record;
+    try {
+      record = JSON.parse(trimmed);
+    } catch (error) {
+      throw new Error(`Invalid JSON on place-evidence line ${index + 1}: ${error.message}`);
+    }
+    if (record?.record_type === "meta") {
+      metadata = record;
+      return;
+    }
+    if (
+      !record ||
+      record.record_type !== "place-name-evidence" ||
+      typeof record.subject !== "string" ||
+      !record.subject
+    ) {
+      throw new Error(`Invalid place-evidence record on line ${index + 1}`);
+    }
+    records.push(record);
+  });
+  return {
+    metadata,
+    records,
+    bySubject: new Map(records.map((record) => [record.subject, record])),
+  };
+}
+
+function attachPlaceEvidence(catalog, evidenceStore) {
+  const store = evidenceStore?.bySubject instanceof Map
+    ? evidenceStore
+    : parsePlaceEvidenceStore("");
+  for (const subject of catalog.subjects || []) {
+    subject.placeEvidence = store.bySubject.get(subject.path) || null;
+  }
+  for (const concept of catalog.concepts || []) {
+    concept.placeEvidence = store.bySubject.get(concept.subjectPath) || null;
+  }
+  catalog.placeEvidence = store;
+  return catalog;
+}
+
 function toStrings(value) {
   if (value == null) return [];
   if (Array.isArray(value)) {
@@ -2130,5 +2177,7 @@ module.exports = {
   upsertStoreRecord,
   removeStoreRecord,
   catalogExportRecords,
+  parsePlaceEvidenceStore,
+  attachPlaceEvidence,
   toStrings,
 };

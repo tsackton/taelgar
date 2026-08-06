@@ -1,8 +1,9 @@
 ---
-tags: [event, status/check/mike]
+tags: [event]
 typeOf: war
 dm_owner: joint
 dm_notes: important
+tentativeReason: "unclear if this exists"
 ---
 
 %% @mike: moving to tentative, but could be deleted; if it is the mention in the two linked notes should be removed %%

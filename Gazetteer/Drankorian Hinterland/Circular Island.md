@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place]
 displayDefaults: {defArt: "the"}
 name: Circular Island
 dm_owner: tim
@@ -14,7 +14,10 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% keeping status/check/name for now, but "The Circular Island" is pretty well established at this point. It probably had another Drankorian name but that could/should probably just be an alias %%
+%% naming details:
+the Circular Island is the established Common name based on the Dunmar Fellowship travels,; [[Milo Thistlefoot]] and [[Tilly Brineheart]]; and other various rumors that have developed post-Dunmar campaign
+we assume there was once a Drankorian name for the island, and perhaps even an old Hkaran one, but these have not been invented
+%%
 
 The Circular Island, so-called for is unique perfectly circular shape, is a remote island in the [[Sea of Storms]], off the coast of the [[Drankorian Hinterland]]. The island is difficult to approach, ringed by violent storms and protected by old magic that interferes with ordinary travel and divination. The only reliable modern accounts of it come from the travels of the [[Dunmar Fellowship]]. 
 

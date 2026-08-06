@@ -1,3 +1,7 @@
+---
+tentativeReason: "unused concept from Dunmar campaig"
+---
+
 ## Overview
  
 Acolyte of Shakun who led group to find Cintra. Killed by Samerki.

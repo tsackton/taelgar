@@ -1,3 +1,7 @@
+---
+tentativeReason: "unused concept from non-canonical campaign"
+---
+
 %% A character background Tim developed for an abortive family version of the Cleenseau campaign that ran for only a few sessions. [[Abenfyrd]] is a canonical place, but Caerwyn may or may not exist %%
 
 Caerwyn of Abenfyrd was born the fourth and youngest child of the castellan of the small town of Abenfyrd, in the northern edge of the Mostreve Hills in Tyrwingha. At the head of navigation of the Aben River, Abenfyrd was a quiet place to grow up, prosperous enough from the timber trade going south to the capitol and beyond, but too close to the Plaguelands to attract much settlement or growth.   
