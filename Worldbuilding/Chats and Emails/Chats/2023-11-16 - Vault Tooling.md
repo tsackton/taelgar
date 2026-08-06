@@ -4,10 +4,10 @@
 [2023-11-16 08:32 AM] rsulfuratus: check that - will push when I'm somewhere with better internet than Diesel
 [2023-11-16 12:05 PM] Deciusmus: I am mostly working today, but took a few minutes to do a bit of refactoring...
     
-    I implemented a "getFileFromTarget" method that will, given a string, return the "best match" file or undefined.
-    1) If there is an exact link (i.e. if [[target]] would work) it returns the exact link
-    2) otherwise, if there is a file with an alias, it returns the first one that matches (if you have 2 people with an alias of Robin it will return the first one it finds)
-    3) otherwise, it looks at a "filemap" structure in the metadata.json that looks like 
+I implemented a "getFileFromTarget" method that will, given a string, return the "best match" file or undefined.
+1) If there is an exact link (i.e. if `[[target]]` would work) it returns the exact link
+2) otherwise, if there is a file with an alias, it returns the first one that matches (if you have 2 people with an alias of Robin it will return the first one it finds)
+3) otherwise, it looks at a "filemap" structure in the metadata.json that looks like 
     
     ``` "filemap": `[
             {

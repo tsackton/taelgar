@@ -38,7 +38,7 @@ The party rescues [[Damien Montrichard]] from imprisonment, defeats a terrifying
 - **[[Areschera|Fairy Shapeshifter]]** – posing as [[Marguerite Deschamps]], pursuing the party
 - **[[Marguerite Deschamps]]** – murdered and replaced by fairy
 - **[[Istarias|Mysterious Fey Friend]]** – warns of the Gloomshaper's plans, helps escape
-- **[[Greymalkin]]** – [[Robin]]'s gryphon mount, guards the corpse and wants vengeance
+- **[[Greymalkin]]** – [[Robin of Abenfyrd|Robin]]'s gryphon mount, guards the corpse and wants vengeance
 - **[[Marceline Dupont|Captain of Horse]]** – informed of the conspiracy
 - **[[Victorine Rosseau|Magistrate]]** – agrees to delay trial, summons baroness
 - **[[Isabeau d'Aslain|Baroness]]** – expected to return in two days
@@ -115,7 +115,7 @@ Celyn: I recommend not running. It's much harder to sneak that way.
   
 While we are debating, Izgil's tremorsense notices someone coming up the stairs. [[Estiasilos|The eldritch octopus]] is hiding down there to report on what's going on, and we thus are aware of the fey that guy was the bodyguard for coming up, looking around at the situation, spotting the ball bearings, and, well, an illusion of her went into the room, carefully navigating around our chaos.  
   
-We know she's on the landing below us, and thus our route of escape is closed. We climb up to the widow's walk on the tower, carrying the body of the [[Duskhounds]] with us, and determine that Robin can get [[Damien Montrichard]] to [[Merriweather's Tailor Shop|the safehouse]] with a combination of the [[Ring of Jumping (Cleenseau)|ring of jumping]] (to get beyond the outer wall) and feather fall (to not plummet to their doom); the rest of us hop off the tower with just the feather fall and hide the corpse in a stable.  
+We know she's on the landing below us, and thus our route of escape is closed. We climb up to the widow's walk on the tower, carrying the body of the [[Duskhounds]] with us, and determine that Robin can get [[Damien Montrichard]] to [[Merriweather's Tailor Shop|the safehouse]] with a combination of the [[Ring of Jumping (Robin)|ring of jumping]] (to get beyond the outer wall) and feather fall (to not plummet to their doom); the rest of us hop off the tower with just the feather fall and hide the corpse in a stable.  
   
 A minute or three after we do this, the door up to the tower opens, and [[Estiasilos|the eldritch octopus]] gets the hell out of dodge.  
   

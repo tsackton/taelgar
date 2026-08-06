@@ -42,35 +42,35 @@
 [2025-10-27 10:12 AM] rsulfuratus: previous note was literally just a stub with dm_owner, dm_notes, and tags
 [2025-10-27 10:17 AM] rsulfuratus: here is candrosa:
     
-    ---
-    headerVersion: 2023.11.25
-    tags: `[person, status/cleanup/image, status/cleanup/incomplete]`
-    campaignInfo: `[{campaign: DuFr, type: met, date: 1748-03-22}, {campaign: DuFr, type: "entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]]", date: 1748-05-23}, {campaign: DuFr, type: last seen, date: 1748-06-19}]`
-    name: Candrosa
-    born: 1715
-    species: human
-    ancestry: Dunmari
-    gender: male
-    affiliations: `[{org: Shakun Mystai, title: Speaker, type: leader}]`
-    whereabouts:
-    - {type: home, location: 'Karawa'}
-    dm_notes: important
-    dm_owner: tim
-    ---
-    # Candrosa
-    >``[!info]`+ Biographical Info  
-    >` A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-    >` `$=dv.view("_scripts/view/get_PageDatedValue")`  
-    >` `$=dv.view("_scripts/view/get_Affiliations")`  
-    >`>` `$=dv.view("_scripts/view/get_Whereabouts")`
-    
-    ![[candrosa-portrait.png|right|400]]
-    Candrosa serves as Speaker of the [[Shakun Mystai]], acting as high priest, civic voice, and guardian of [[Karawa]]’s mesa-top temple. He balances political diplomacy with the desperate work of keeping [[Shakun's Protection]] functioning while the borderlands reel from gnoll incursions and otherworldly threats.
-    
-    ## Overview
-    - Oversees rites, initiations, and the weaving of dream-visions that guide mystai acolytes and border sentinels.  
-    - Coordinates with [[Elder Kisa]], [[Havdar]], and visiting leaders to align temple magic with the town’s survival needs.  
-    - Wields the [[Dreamweaver Staff]], channeling dreams to scout echo realms, inspire allies, and—when his judgment falters—nudge companions toward actions he feels the goddess demands.
+---
+headerVersion: 2023.11.25
+tags: `[person, status/cleanup/image, status/cleanup/incomplete]`
+campaignInfo: `[{campaign: DuFr, type: met, date: 1748-03-22}, {campaign: DuFr, type: "entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]]", date: 1748-05-23}, {campaign: DuFr, type: last seen, date: 1748-06-19}]`
+name: Candrosa
+born: 1715
+species: human
+ancestry: Dunmari
+gender: male
+affiliations: `[{org: Shakun Mystai, title: Speaker, type: leader}]`
+whereabouts:
+- {type: home, location: 'Karawa'}
+dm_notes: important
+dm_owner: tim
+---
+# Candrosa
+>``[!info]`+ Biographical Info  
+>` A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
+>` `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>` `$=dv.view("_scripts/view/get_Affiliations")`  
+>`>` `$=dv.view("_scripts/view/get_Whereabouts")`
+
+![[candrosa-portrait.png|right|400]]
+Candrosa serves as Speaker of the [[Shakun Mystai]], acting as high priest, civic voice, and guardian of [[Karawa]]’s mesa-top temple. He balances political diplomacy with the desperate work of keeping [[Shakun's Protection]] functioning while the borderlands reel from gnoll incursions and otherworldly threats.
+
+## Overview
+- Oversees rites, initiations, and the weaving of dream-visions that guide mystai acolytes and border sentinels.  
+- Coordinates with Elder [[Kisa]], [[Havdar]], and visiting leaders to align temple magic with the town’s survival needs.  
+- Wields the [[Dreamweaver Staff]], channeling dreams to scout echo realms, inspire allies, and—when his judgment falters—nudge companions toward actions he feels the goddess demands.
 [2025-10-27 10:17 AM] rsulfuratus: ## Personality & Outlook
     Pragmatic yet devout, Candrosa carries the weight of Karawa’s safety on little sleep. He is proudly Dunmari and protective of temple secrets, second-guessing himself whenever his caution endangers others. The loss of the [[Heart of Shakun]] exposed a streak of desperate improvisation: he will risk trust, even manipulating visions (as with [[Delwath]] in [[Session 26 (DuFr)]]) if the alternative is watching the mesa crumble. Since the Heart’s recovery he is humbler, quicker to confer with the [[Dunmar Fellowship]], and intent on rebuilding a wider circle of initiates.
     

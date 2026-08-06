@@ -15,12 +15,12 @@
 [2023-10-30 10:59 AM] rsulfuratus: but I don't really have a strong preference
 [2023-10-30 10:59 AM] Deciusmus: I will change Tollen doc
 [2023-10-30 11:00 AM] Deciusmus: I have this in my Sembara "new attempt at a timeline":
-    
-    DR 358: [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
-    DR 360: [[Emperor Anates]] crosses the [[River Enst|Enst]] and establishes a garrison at [[Cleenseau]]
-    DR 399: [[Emperor Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
-    DR 402: The [[Treaty of Marhavn]] ('Mar-hahvn') is signed by [[Emperor Goristo]] 
-    DR 431: The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
+
+DR 358: Anates campaigns around the [[Mostreve Hills]]
+DR 360: Emperor Anates crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
+DR 399: [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
+DR 402: The [[Treaty of Marhavn]] ('Mar-hahvn') is signed by [[Goristo]] 
+DR 431: The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
 [2023-10-30 12:43 PM] Deciusmus: here is my current working document.
     https://github.com/tsackton/taelgar/blob/main/History/Timeline%20of%20Sembaran%20History.md
 [2023-10-30 12:43 PM] Deciusmus: I think it is a nicer way to organize history. Trying to move away from the narrative chronology because I find it hard to actually make up stuff when I have to make up all the details to feed into a narrative

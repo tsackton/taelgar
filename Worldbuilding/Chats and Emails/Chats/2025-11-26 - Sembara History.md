@@ -55,23 +55,23 @@
 [2025-11-26 03:49 PM] Deciusmus: right.. one sec
 [2025-11-26 03:59 PM] Deciusmus: so just playing around...
     
-    Note 1: Framework
-    
-    # Historical Framework of Greater Sembara
-    This note outlines a basic framework for the history of the Greater Sembara region. It is intended to provide rough canonical guidelines for the general development, without getting into specific details about any exact event, which are developed in separate notes.
-    ## Migration Era
-    _Dates: Until the Downfall_
-    
-    The first humans to come to Greater Sembara were northerners, speaking a Northros language and traveling from the west over the Sentinels. They were later joined by the mariners, traveling from the east through the Green Sea, speaking an Eastros languages. The Tyrwinghans also have an ancient lineage and were present in the region by the end of the Migration Era, but their exact history (Eastros, Northros, or a unique migration from Hkar) is not determined.  When the humans came to the region, it was dominated by several large non-human civilizations: dwarves in the Sentinels, lizardfolk in a great swamp that stretched across the Wistel and Enst river valleys (although the exact extent is not canonical), and the elven forests to the south of what is now the Mostreve Hills.
-    
-    ## Post Downfall
-    _Dates: Downfall until DR 350_
-    ## Coming of Drankor
-    _Dates: DR 350 - DR 450_
-    
-    By the reign of Emperor [[Anates]] the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and start to encounter both the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. Over a period of between 50 and 100 years, Drankor established provinces amongst the great Sembaran Rivers.
-    
-    See more [[Coming of Drankor]]
+Note 1: Framework
+
+# Historical Framework of Greater Sembara
+This note outlines a basic framework for the history of the Greater Sembara region. It is intended to provide rough canonical guidelines for the general development, without getting into specific details about any exact event, which are developed in separate notes.
+## Migration Era
+_Dates: Until the Downfall_
+
+The first humans to come to Greater Sembara were northerners, speaking a Northros language and traveling from the west over the Sentinels. They were later joined by the mariners, traveling from the east through the Green Sea, speaking an Eastros languages. The Tyrwinghans also have an ancient lineage and were present in the region by the end of the Migration Era, but their exact history (Eastros, Northros, or a unique migration from Hkar) is not determined.  When the humans came to the region, it was dominated by several large non-human civilizations: dwarves in the Sentinels, lizardfolk in a great swamp that stretched across the Wistel and Enst river valleys (although the exact extent is not canonical), and the elven forests to the south of what is now the Mostreve Hills.
+
+## Post Downfall
+_Dates: Downfall until DR 350_
+## Coming of Drankor
+_Dates: DR 350 - DR 450_
+
+By the reign of Emperor [[Anates]] the burgeoning Drankorian civilization has spread northward and crossed the Mostreve Gap into the Sembaran river valleys and start to encounter both the Zimka, Tollish, and Skaer cultures. Although some sources might describe this as a conquest, in reality Drankorian rule was largely welcomed as a source of order and protection. Over a period of between 50 and 100 years, Drankor established provinces amongst the great Sembaran Rivers.
+
+See more `[[Coming of Drankor]]`
 [2025-11-26 04:00 PM] Deciusmus: note 2: Coming of Drankor
     
     
@@ -158,7 +158,7 @@
     
     `*`See also: [[Timeline of the Dharajun Dynasty]]*
     
-    The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[~Songara Plains~]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat.
+    The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[Songara Plains]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat.
 [2025-11-26 04:19 PM] rsulfuratus: but also it establishes a really minimal baseline canon that helps elsewhere
 [2025-11-26 04:21 PM] rsulfuratus: i'm not sure that really even needs any DM Notes, it is pretty clear the canonical beats that need to be preserved if anyone wants to invent more Dunmar history
 [2025-11-26 04:22 PM] Deciusmus: yeah, dunmar is kinda self contained so has less complexity in some places

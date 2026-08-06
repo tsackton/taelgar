@@ -315,7 +315,7 @@
     
     Adding a single sentence like
     
-    Hkar is known as the possibly mythical place of creation of humanity, and humanities first homeland. It is said to have sunk during the [[Downfall]]
+Hkar is known as the possibly mythical place of creation of humanity, and humanities first homeland. It is said to have sunk during the [[The Downfall|Downfall]]
     
     feels like it captures the essential info about hkar for a player in my game, for example
 [2025-01-15 06:03 PM] Deciusmus: but obviously there is a ton of stuff about hkar in the "world-lore" in our heads (mostly yours) and in a lot of random other docs in obisidian, and a useful project would be to pull that together into a better page.

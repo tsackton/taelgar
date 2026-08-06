@@ -23,7 +23,7 @@
 [u0023] _Thanks to Kiya for this, it is lightly edited, mostly to crosslink places and add details that would be too much on Dreamwidth_
 [u0024] Then of course we got the band back together by promptly reuniting with our [[Izgil Moonseeker|missing lunatic]], who we encountered on the road between [[Dallet]] and [[Beury]].
 [u0025] He and [[Rangers]] - [[Vahaiya]], [[Tristan Vaudrillard|Tristan]], and [[Remille Vauclaire|Remille]] had been clearing out undead dregs in the [[East Bog]].
-[u0026] After a brief reunion, Tristan and Remille, along with [[Emilie]], now reunited with her companions, head north toward the [[Aveil Hills]] in order to figure out what had happened to their friends - [[Damien Montrichard]], [[Enzo Brightwood]] and [[Adra Brightwood]]; [[Vahaiya]] remained, because they was concerned about the fey-realm portal we had previously discovered.
+[u0026] After a brief reunion, Tristan and Remille, along with [[Emilie]], now reunited with her companions, head north toward the [[Aveil Ridge]] in order to figure out what had happened to their friends - [[Damien Montrichard]], [[Enzo Brightwood]] and [[Adra Brightwood]]; [[Vahaiya]] remained, because they was concerned about the fey-realm portal we had previously discovered.
 [u0027] So a bunch of them went one way, and they went to keep watch over the portal and see if there was a pattern to it doing anything, and we all went to figure out what nonsense had happened in our absence.
 [u0028] Mostly there was a lot of petty administrative bullshit to work on to start with, which is primarily Robin's problem, with a side of being Viepuck's problem as Robin's squire, social secretary, and too-many-people filter.
 [u0029] Celyn checked in on the local Wyrdling temple in our secondary base of operations then tried to be helpful with administrative nonsense.
@@ -34,7 +34,7 @@
 [u0034] We are cross.
 [u0035] We send a letter to [[Rosalind Essford|Rosalind]], and another to [[Susanne Garay]].
 [u0036] The whole thing appears to be set up to neutralize anyone who has been effective about the problems.
-[u0037] The party is (at least currently) outside of the relevant hierarchies which means the problem in the court - we theorize some powerful warlock of the [[Gloomshaper]], an enemy of the fey queen of [[Tyrwingha]], where Celyn and Robin are from, who has claimed this area, apparently - cannot use that sort of order-giving to mess with us.
+[u0037] The party is (at least currently) outside of the relevant hierarchies which means the problem in the court - we theorize some powerful warlock of the [[Lord Umbraeth|Gloomshaper]], an enemy of the fey queen of [[Tyrwingha]], where Celyn and Robin are from, who has claimed this area, apparently - cannot use that sort of order-giving to mess with us.
 [u0038] Messing with us will have to be more direct.
 [u0039] We start setting up counter-rumors talking about the Duke's heroism and so on with Izgil puttering around going "Hmmm, but this doesn't make sense" about the particularly not-sensey bits.
 [u0040] We have also heard news from the western part of the area - the roads aren't so great that way - about other undead attacks and stupid army orders and how that's being dealt with.

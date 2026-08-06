@@ -135,11 +135,11 @@
 [u0135] The shadow takes a swing at Robin and tries to cast something that Izgil counterspells; Izgil puts a column of light on the thing to ruin its day further.
 [u0136] Viepuck has no radiant but he can do force and psychic damage and does so, knocking it back away from Robin.
 [u0137] I will note, as a player aside, that Robin has a habit of rolling flashy critical hits in major combats.
-[u0138] (Though this was not major-major.) This is apparently not merely that [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/) rolls well in major combats; he had to duck out before the fight so I was rolling for him and I rolled an 18 and a 20 and declared a smite on the critical, like ya do.
+[u0138] (Though this was not major-major.) This is apparently not merely that [**arcadinal**](https://arcadinal.dreamwidth.org/) rolls well in major combats; he had to duck out before the fight so I was rolling for him and I rolled an 18 and a 20 and declared a smite on the critical, like ya do.
 [u0139] (And did the smite at second level.
 [u0140] And because it was against an undead there was an extra die.
 [u0141] I rolled 10d8, five of which came up 8.
 [u0142] Also there were a 7 and a 6.)
-[u0143] (I then proceeded to take a photo of the dice and send [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)
+[u0143] (I then proceeded to take a photo of the dice and send [**arcadinal**](https://arcadinal.dreamwidth.org/) a message reading "I rolled a crit for you".)
 [u0144] Anyway, that ended the fight, and we retreated from the cursed compound though we did grab a couple of cloaks off the statues on the way out.
 [u0145] We have now contacted [[Raoul]] to say, "OKAY NOW WHAT," and that is where we end.

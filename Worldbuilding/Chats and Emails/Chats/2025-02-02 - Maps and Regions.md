@@ -1,8 +1,8 @@
 # 2025-02-02 - Maps and Regions
 
 [2025-02-02 10:49 AM] Deciusmus: So I'm struggling with trying to come up with a tone for Gazetteer landing pages that I like. This is part of why I've been going in circles on defining stuff, because it is easier to hit the right tone with "well defined" or "totally rumors" than with "sorta defined".
-    
-    But here are two attempts (using "Civ and Culture for the Western Green Sea") one more "in-world", one more "player"
+
+But here are two attempts (using "Civ and Culture for the Western Green Sea") one more "in-world", one more "player"
 Attachment (message.txt):
 ```txt
 ### **Style 1: "In-World" Perspective**
@@ -33,9 +33,9 @@ The region of Cymea and its surroundings is primarily home to humans, but other 
 - **Dwarves**: There are probably significant dwarven populations around [[~South Cymea~]], but dwarves are rare in Cymea and practically nonexistent in the Skaer Islands.
 - **Lizardfolk**: The Latazso swamp on the western border is a major lizardfolk homeland, so logically, there are some lizardfolk in Cymea and further south. However, the specifics of lizardfolk in southern Cymea haven’t been determined yet.
 - **Humans**: Three major human cultures exist in this region: 
-	- the [[Skaerhem|Skaer]], who mostly settle on the [[Skaerhem|Skaer Islands]], but are common sights as mariners across the region.
-	- [[Cymea]], a Drankorian province that had a significant maritime empire sometime before the [[Great War]] but is now in decline. This is a land of city-states and coastal towns without major political cohesion
-	- [[~South Cymea~]], a poorly defined Drankorian province (or perhaps multiple provinces) that suffered greatly during the [[Great War]] and [[Blood Years]]. Some type of polity has emerged, but its exact shape is unclear, although its influence on [[Skaerhem|Skaer]], [[Tollen]], and [[Tyrwingha]] is minimal
+- the [[Skaerhem|Skaer]], who mostly settle on the [[Skaerhem|Skaer Islands]], but are common sights as mariners across the region.
+- [[Cymea]], a Drankorian province that had a significant maritime empire sometime before the [[Great War]] but is now in decline. This is a land of city-states and coastal towns without major political cohesion
+- [[~South Cymea~]], a poorly defined Drankorian province (or perhaps multiple provinces) that suffered greatly during the [[Great War]] and [[Blood Years]]. Some type of polity has emerged, but its exact shape is unclear, although its influence on [[Skaerhem|Skaer]], [[Tollen]], and [[Tyrwingha]] is minimal
 - **Stoneborn**: There’s no indication of a significant Stoneborn population here.
 - **Dangerous Wilderness**: This region is relatively settled, and most "dangerous wilderness" elements will probably be placed in **Drankorian Hinterland** or **Upper Istaros** instead.
 ```
@@ -108,29 +108,29 @@ The region of Cymea and its surroundings is primarily home to humans, but other 
 [2025-02-02 11:59 AM] rsulfuratus: but, having player-facing region pages i think also works for simplicity
 [2025-02-02 12:00 PM] Deciusmus: I might take a stab at a halfling perspective page for one of the easier/simpler regions and see how it feels from both a fun/effort and usefulness perspective
 [2025-02-02 12:39 PM] Deciusmus: The halfling story of the western [[Green Sea]] is one of mariners and sailors, crumbing [[Cymea|coastal cities]] and proudly independent [[Skaerhem|Skaer]], numerous settlements along the coast, and mystery and danger inland.
-    
-    In the north, the halflings say, the [[Skaerhem|Skaer Islands]] are safe, and a good source of [[Skaer Steel|rare metals]] - but unwelcoming to outsiders looking to stay permanently. Those who do not worship the ocean god [[Kaikkea]] rarely find a home amongst the volcanoes and rocky hills of [[Skaerhem]]. 
-    
-    The [[Cymean Peninsula]], and the [[~Cymean Archipelago~]]  is a land of humans, long Drankorian provinces, and later a maritime power, it is now a place in decline. The numerous cities there are loosely called [[Cymea]] by the halflings, but a variety of different city-states squabble for dominance.
-    
-    _(The halflings would know the details of Cymea, including what non-humans live amongst the humans, but it hasn't been invented yet. - Eds.)_
-    
-    South of the [[~Cymea Border Mountains~]], lies more [[~South Cymea~|human lands]], once Drankorian provinces and later, after the fall of Drankor, traders with the cities of the [[Istabor Alliance]]. Since the destruction of [[Isingue]] during the [[Great War]], this land is diminished.
-    
-    _(The halflings would know the details of South Cymea, including what non-humans live there, but it hasn't been invented yet. - Eds.)_
-    
-    Inland of the human settlements, the land turns dangerous, and halflings warn travelers away.
+
+In the north, the halflings say, the [[Skaerhem|Skaer Islands]] are safe, and a good source of [[Skaer Steel|rare metals]] - but unwelcoming to outsiders looking to stay permanently. Those who do not worship the ocean god [[Kaikkea]] rarely find a home amongst the volcanoes and rocky hills of [[Skaerhem]]. 
+
+The [[Cymean Peninsula]], and the [[~Cymean Archipelago~]]  is a land of humans, long Drankorian provinces, and later a maritime power, it is now a place in decline. The numerous cities there are loosely called [[Cymea]] by the halflings, but a variety of different city-states squabble for dominance.
+
+_(The halflings would know the details of Cymea, including what non-humans live amongst the humans, but it hasn't been invented yet. - Eds.)_
+
+South of the [[Mistfold Mountains]], lies more [[~South Cymea~|human lands]], once Drankorian provinces and later, after the fall of Drankor, traders with the cities of the [[Istabor Alliance]]. Since the destruction of [[Isingue]] during the [[Great War]], this land is diminished.
+
+_(The halflings would know the details of South Cymea, including what non-humans live there, but it hasn't been invented yet. - Eds.)_
+
+Inland of the human settlements, the land turns dangerous, and halflings warn travelers away.
 [2025-02-02 01:43 PM] rsulfuratus: That works quite well I think
 [2025-02-02 02:43 PM] Deciusmus: what do you think:
-    
-    ## Major Historical Eras
-    The story of the [[Skaerhem|Skaer]] is well attested in religious and legendary sagas on the island, but independent verification of the facts is often difficult or impossible. The history of the [[Cymea|Cymean]] realms is difficult to untangle as many stories and chronicles have been written to justify modern events, and the truth of these chronicles is often questionable. 
-    
-    That said, historians in [[Tollen]] will agree on at least a broad story:
-    #### Skaer Era
-    _Before CY 4535_
-    The [[Skaerhem|Skaer]] settled the [[Skaerhem|Skaer Islands]] in the ancient days before the [[The Downfall|Downfall]], one of several human cultures that arose from the great [[~Mariners~|Mariner Exodus]] from [[Hkar]]. The Skaer established an maritime empire centered on the [[Vostok]] coast and the [[Western Gulf]], but also stretching as far south as the [[~Cymea Border Mountains~]] and as far west as [[Embry]]. The Skaer claim their empire included the [[~Cymean Archipelago~]], but some [[Cymea|Cymean]] sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the [[~Cymean Archipelago~]] was never Skaerish or Drankorian.
-    
+
+## Major Historical Eras
+The story of the [[Skaerhem|Skaer]] is well attested in religious and legendary sagas on the island, but independent verification of the facts is often difficult or impossible. The history of the [[Cymea|Cymean]] realms is difficult to untangle as many stories and chronicles have been written to justify modern events, and the truth of these chronicles is often questionable. 
+
+That said, historians in [[Tollen]] will agree on at least a broad story:
+#### Skaer Era
+_Before CY 4535_
+The [[Skaerhem|Skaer]] settled the [[Skaerhem|Skaer Islands]] in the ancient days before the [[The Downfall|Downfall]], one of several human cultures that arose from the great Mariner Exodus from [[Hkar]]. The Skaer established an maritime empire centered on the [[Vostok]] coast and the [[Western Gulf]], but also stretching as far south as the [[Mistfold Mountains]] and as far west as [[Embry]]. The Skaer claim their empire included the [[~Cymean Archipelago~]], but some [[Cymea|Cymean]] sources often describe the archipelago as uninhabited when the Drankorians arrived. Other sources claim the [[~Cymean Archipelago~]] was never Skaerish or Drankorian.
+
     (_The details of what these "other sources" say is known but not yet invented. - Eds.)_
 [2025-02-02 02:43 PM] Deciusmus: #### Drankorian Era
     _CY 4535 - 5192_

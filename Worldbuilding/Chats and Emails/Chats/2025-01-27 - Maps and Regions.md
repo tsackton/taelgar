@@ -1,3 +1,7 @@
+---
+headerVersion: 2023.11.25
+tags: [status/check/ai]
+---
 # 2025-01-27 - Maps and Regions
 
 [2025-01-27 09:33 AM] Deciusmus: I have meetings from 9-2pm today straight, with a handful of 15 or 30 minute breaks; I'm cleaing up some gazetter stuff.
@@ -460,7 +464,7 @@
 [2025-01-27 08:46 PM] rsulfuratus: i haven't
 [2025-01-27 08:50 PM] rsulfuratus: this is better I think:
     
-    In a pivotal scene from [[A Fool’s Fortune]], Estelis encounters a pixie offering to trade a “Field of Gold.” The pixie describes it with grandiose imagery: an endless plain of golden light, shimmering as far as the eye can see, where riches grow like grass and all who possess it are envied by kings. Entranced, Estelis cannot resist, and he offers a pouch of his finest gems to secure the deal. The pixie produces a delicate box, no larger than a hand, and insists the field lies within. “The gold is yours, fine merchant—just sow the seeds of your ambition, and it will flourish.” The audience, of course, recognizes the trap: inside the box lies nothing but a handful of dandelion seeds, whose blooms, in their fleeting moment, might appear golden in the sun
+    In a pivotal scene from [[A Fool's Fortune|A Fool’s Fortune]], Estelis encounters a pixie offering to trade a “Field of Gold.” The pixie describes it with grandiose imagery: an endless plain of golden light, shimmering as far as the eye can see, where riches grow like grass and all who possess it are envied by kings. Entranced, Estelis cannot resist, and he offers a pouch of his finest gems to secure the deal. The pixie produces a delicate box, no larger than a hand, and insists the field lies within. “The gold is yours, fine merchant—just sow the seeds of your ambition, and it will flourish.” The audience, of course, recognizes the trap: inside the box lies nothing but a handful of dandelion seeds, whose blooms, in their fleeting moment, might appear golden in the sun
 [2025-01-27 08:50 PM] Deciusmus: 
 Attachment (message.txt):
 ```txt

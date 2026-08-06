@@ -36,7 +36,7 @@ The party survives an assassination ambush, uncovers a fairy infiltrator in the 
 - **[[Viepuck]]** – member of the party, young warlock and legal scholar
 - **[[Celyn]]** – member of the party, rogue and cleric
 - **[[Izgil Moonseeker]]** – member of the party, dwarf
-- **[[Greymalkin]]** – [[Robin]]'s gryphon mount
+- **[[Greymalkin]]** – [[Robin of Abenfyrd|Robin]]'s gryphon mount
 - **Assassins** – two hired killers, one captured and executed overnight
 - **Bandits** – six hired bandits, some captured
 - **[[Marceline Dupont|Baronial Guard Captain]]** – rescues the party from ambush
@@ -83,7 +83,7 @@ In the distance, we hear the sound of approaching hoofbeats. [[Estiasilos|Viepuc
   
 Robin pursues the knocked-away assassin up the hill and knocks him on his ass again. Celyn comments to the surrendered guy, who he happens to be standing next to, "Don't move," then takes the few steps required to get to the assassin and finishes him off, then greets the remaining bandit with a very perky, "Hi!"  
   
-[![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/): Do you have intimidate?  
+[**artan**](https://artan.dreamwidth.org/): Do you have intimidate?  
 Me: I don't have intimidate but sometimes I say 'Hi!' to people and it works!  
 Gamemaster: Oh, he surrenders.  
   
@@ -124,7 +124,7 @@ We ask to talk with him. Every attempt to do so is nixed by [[Areschera|the cler
   
 I think this is where we get the information that one [[Sabine de Brune|Lady Debrune]] is stuck in a set of rooms with a polite guard keeping her from leaving. We know her cousin from Cleenseau - a complicated ally of sorts, perhaps. We go talk to [[Sabine de Brune|the lady]]. As names are given out, her apparent servant/assistant twitches when Celyn is mentioned; Celyn notices and then recognizes [[Istarias|him]] as the fey who warned him off some poisoned food in an earlier plotline. Celyn thus, predictably, goes off to talk to [[Istarias|the fairy]] while the rest of the party talks with [[Sabine de Brune|the lady]].  
   
-[![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/): Having the crazy person talk to the fairies certainly minimizes the risks of talking to fairies....  
+[**artan**](https://artan.dreamwidth.org/): Having the crazy person talk to the fairies certainly minimizes the risks of talking to fairies....  
 Me: Hey, my crazy is optimized for talking to fairies! ... except for the other crazy.  
   
 [[Istarias|The fairy]]'s suspicion is that the reason [[Sabine de Brune|the lady]] has been hauled in is to get them (possibly him) under the observation of Her, meaning [[Areschera|the fairy masquerading as the clerk]], and that [[Duskhounds|the Duskhound]] (terrifying horned fey) checks in on them occasionally. He would like help getting out. Celyn is not like he expected him to be. "Maybe better!" Celyn agrees we will do what we can.  

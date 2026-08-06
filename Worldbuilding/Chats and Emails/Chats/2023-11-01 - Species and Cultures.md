@@ -113,8 +113,8 @@
 [2023-11-01 03:32 PM] rsulfuratus: someday I'm going to rewrite all the dunmar stuff in timeline + events format
 [2023-11-01 03:32 PM] Deciusmus: i.e. it is easy to just say:
     
-    DR 1592: So and so dies at the [[Battle of Whatever]] 
-    
+DR 1592: So and so dies at the `[[Battle of Whatever]]`
+
     then create the stub in Events\1592
 [2023-11-01 03:33 PM] Deciusmus: Then if I ever wanted to make up details about the battle could just go to the one source for it
 [2023-11-01 03:33 PM] Deciusmus: That's the other approach, actually, to something like history.

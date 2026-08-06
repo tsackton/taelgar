@@ -16,7 +16,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Chaessenth]]: candidate whereabouts update from (DR:: 1747-11-09), afternoon -> [[deep ocean west of the Mawakel Peninsula]].
+- [[Chaessenth]]: candidate whereabouts update from (DR:: 1747-11-09), afternoon -> deep ocean west of the Mawakel Peninsula.
   - Whereabouts line: `- {type: away, start: 1747-11-09, location: deep ocean west of the Mawakel Peninsula}`
 <!-- /SLOT -->
 

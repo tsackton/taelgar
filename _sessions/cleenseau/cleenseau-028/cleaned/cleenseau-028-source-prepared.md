@@ -45,9 +45,9 @@
 [u0045] It was good to have a framework prepped?)
 [u0046] I made clear that Celyn was _furious_, in a tightly controlled way, but the boy is in fact an optimistic little ray of sunshine which I just typoed to "rage of sunshine" who is also a tightly wound coil of violence, it's just that he doesn't usually let the violence out when he's not actively in the process of stabbing something that needs to be stabbed.
 [u0047] Celyn explained that the party first encountered necromancy with the disease in January that spread through one neighborhood Cleenseau, afflicting primarily the very young and the very old, including the unborn.
-[u0048] (Yes, that is as horrifying as it sounds, I think that was before I was doing session summaries.) He noted that they dealt with the immediate source of the infection (Robin and the [[Wanderer]] did that part) and notable people died, but also - and this is the thing he's Big Mad about - not notable people, most particularly a young man named [[Cedric]] who he had been unable to protect, who died alone (because foolish orders had the army, with his partner in it, marching willy-nilly around the countryside) because he was, as Celyn said, "doing the bravest thing I can imagine" and his pregnancy turned zombie on him.
+[u0048] (Yes, that is as horrifying as it sounds, I think that was before I was doing session summaries.) He noted that they dealt with the immediate source of the infection (Robin and the [[The Wanderer]] did that part) and notable people died, but also - and this is the thing he's Big Mad about - not notable people, most particularly a young man named [[Cedric]] who he had been unable to protect, who died alone (because foolish orders had the army, with his partner in it, marching willy-nilly around the countryside) because he was, as Celyn said, "doing the bravest thing I can imagine" and his pregnancy turned zombie on him.
 [u0049] Celyn has been, in fact, looking for hints about what woke up the orb and what was going on there but the plot has not brought him near any of them.
-[u0050] (He had, at one point, had hope that the Baroness (with her known paranoia of necromancers) would have had thoughts about this, but that was before she started trying to wipe out the followers of the [[Night Queen]] (accusing them of necromancy), who is the goddess of _undead should rest in peace already_, so that 'fear of necromancy' thing was clearly a front.) He outright mocked the "ritual space" we found, noting that _he_ couldn't have stood up in it so clearly it didn't display the competence required to awaken undead several days' ride away.
+[u0050] (He had, at one point, had hope that the Baroness (with her known paranoia of necromancers) would have had thoughts about this, but that was before she started trying to wipe out the followers of the [[The Night Queen]] (accusing them of necromancy), who is the goddess of _undead should rest in peace already_, so that 'fear of necromancy' thing was clearly a front.) He outright mocked the "ritual space" we found, noting that _he_ couldn't have stood up in it so clearly it didn't display the competence required to awaken undead several days' ride away.
 [u0051] (Apparently it was a day for Celyn to make short jokes about himself.) He noted that other events overcame that search, that he had personally killed several fey, one of whom cursed him with her dying breath, and he still hadn't found any goddamn necromancers, and would really like to _have words with_ whatever was responsible for that orb.
 [u0052] (Obviously I have a lot of details from his speech because I wasn't off the cuff.)
 [u0053] The Baroness proceeded to try cross-examining him, saying "But you haven't denied the charges," to which he scoffed and said "I deny the charges" and noted he was up in the tower playing dice at the time that the crime occurred.
@@ -67,7 +67,7 @@
 [u0067] So the team of adventurers who were higher level than we are and had just destroyed his anchor could sneak in and kick his ass while he was distracted.
 [u0068] So Viepuck was in fact speaking truly, for ...
 [u0069] large values of "we".
-[u0070] This of course sends _ripples_ through the crowd, there are mutterings of treason, general uncertainty, general chaos, and then [[Marian]], terror in her eyes, affirms that the [[Warlord]] agrees that we spoke truly.
+[u0070] This of course sends _ripples_ through the crowd, there are mutterings of treason, general uncertainty, general chaos, and then [[Marian]], terror in her eyes, affirms that the [[The Warlord]] agrees that we spoke truly.
 [u0071] "Roll initiative."
 [u0072] A rip opens above the party, and a vaguely humanoid, immense shadow figure appears there.
 [u0073] There is screaming chaos from the onlookers; the Baroness takes mild cover but watches intensely.
@@ -80,7 +80,7 @@
 [u0080] Izgil sets off a few luminous fireballs to hit the big bad and the zombies; Celyn stabs things.
 [u0081] There is immense chaos.
 [u0082] The big bad tries to do something horrible to Robin, who fails his save, and then Celyn uses one of his cleric powers to unfail the save for him.
-[u0083] The shadow thing, mimicking Viepuck's voice - which you know probably sounds very unmenacing at base because Viepuck is, I repeat, _twelve_ - says something about false [[Wyrdling]] will not defeat him, and Celyn responds by blasting the shadow with literal divine light, because he _will_ make a point.
+[u0083] The shadow thing, mimicking Viepuck's voice - which you know probably sounds very unmenacing at base because Viepuck is, I repeat, _twelve_ - says something about false [[The Wyrdling]] will not defeat him, and Celyn responds by blasting the shadow with literal divine light, because he _will_ make a point.
 [u0084] There is a lot of blasting (Viepuck and Izgil) and repositioning.
 [u0085] Izgil casts Haste on Robin.
 [u0086] (Yes I do not remember the exact round sequence it was _very messy_.)

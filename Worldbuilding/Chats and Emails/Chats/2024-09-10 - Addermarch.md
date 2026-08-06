@@ -132,11 +132,11 @@
 [2024-09-10 06:30 PM] rsulfuratus: 👍
 [2024-09-10 06:43 PM] Deciusmus: ### Borders
     
-    To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. At the Aure, the high ridge of [[Westcliff]] is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to [[~High Peak of Tyrwinghan Ridge~]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
-    
-    The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
-    
-    To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the headwaters of the [[~Aure East Fork~]] flow, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows.
+To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. At the Aure, the high ridge of [[Westcliff]] is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to [[Garn Tyrn]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
+
+The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
+
+To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the headwaters of the [[Branth]] flow, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows.
 [2024-09-10 07:04 PM] rsulfuratus: Great
 [2024-09-10 08:39 PM] rsulfuratus: did you push any of this? working on some updates
 [2024-09-10 08:40 PM] Deciusmus: no, pushing a bit now

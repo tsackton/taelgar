@@ -64,12 +64,12 @@
 [u0064] Not bothering to hide any of her observations, and making clear she has reasonable intel on the party at least in terms of numbers (and possibly more).
 [u0065] So she comes up to the party to have a little conversation with us.
 [u0066] The gist of which was that she has no interest in any trouble, she just wants to give us what we want.
-[u0067] If we just leave her her little village, just one little town, she'll even tell us what the [[Umbraeth|Gloomshaper]] is up to and what he wants.
+[u0067] If we just leave her her little village, just one little town, she'll even tell us what the [[Lord Umbraeth|Gloomshaper]] is up to and what he wants.
 [u0068] She'll consider sweetening the deal as we don't look impressed.
 [u0069] But surely we have enough to worry about, she'll happily take herself off our list of problems, just as soon as we make a deal.
 [u0070] She noted we killed the shapeshifter; she thanks us for that.
 [u0071] She does want to know what we did with [[The Hunter]], whose name she gave us (and which I have forgotten, but it was something that ended Half-Bear in Greek.
-[u0072] Of which I know Arktos without having to think for reasons that will make [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://jenett.dreamwidth.org/profile)[**jenett**](https://jenett.dreamwidth.org/) laugh).
+[u0072] Of which I know Arktos without having to think for reasons that will make [**jenett**](https://jenett.dreamwidth.org/) laugh).
 [u0073] (ETA: Kiastíōn Hēmiárktos.) She tries to tempt Izgil with knowledge when he comes in from his quick duck outside to cast a detect magic, which doesn't go useful places.
 [u0074] Izgil, armed with Peer At The Magic skills, sees that she's got an illusion on, and auras of divination and necromancy that imply magic items stashed not on her person that give her access to particular powers.
 [u0075] These auras are not enough to chase back to the items themselves, unfortunately.
@@ -80,7 +80,7 @@
 [u0080] This produces a pause, and then the equivalent of "[blink blink] ANYWAY" from the Hag.
 [u0081] (I point out that she probably can't digest Robin's desires either as most of the ones he expresses boil down to "I wish people would be less terrible" and that is definitely not her department.
 [u0082] There's alien and then there's antithetical.)
-[u0083] She tries, again, to argue that we should make a deal with her, singling out the barmaid and saying, "[[Violet]]\, I helped you, right?"; the woman does a rictus smile and agrees that yes, yes, that was the case.
+[u0083] She tries, again, to argue that we should make a deal with her, singling out the barmaid and saying, "Violet, I helped you, right?"; the woman does a rictus smile and agrees that yes, yes, that was the case.
 [u0084] Celyn finally hits "Look, we do not have the power to give you title to the town and even if we did we wouldn't," so she basically shrugs, goes [Be Seeing You](https://giphy.com/gifs/clonespiracy-10MhRblMbDOt2g) and heads out.
 [u0085] We decline to try making this a physical brawl with all these innocent bystanders.
 [u0086] She heads east, into town, unlike Mara, who headed north, to the outlying suburbs.

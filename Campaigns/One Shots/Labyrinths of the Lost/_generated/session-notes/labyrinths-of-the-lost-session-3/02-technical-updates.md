@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-10-19), morning: party ends at [[mountain road below Perdoli Manor]].
+- Candidate party whereabouts: (DR:: 1748-10-19), morning: party ends at mountain road below Perdoli Manor.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -16,7 +16,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Pikeia]]: candidate whereabouts update from (DR:: 1748-10-19), morning -> [[mountain road below Perdoli Manor]].
+- [[Pikeia]]: candidate whereabouts update from (DR:: 1748-10-19), morning -> mountain road below Perdoli Manor.
   - Whereabouts line: `- {type: away, start: 1748-10-19, location: mountain road below Perdoli Manor}`
 <!-- /SLOT -->
 
@@ -26,10 +26,10 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- [[Steampup|steampup]]: candidate item-location update from (DR:: 1748-10-19), morning -> [[mountain road below Perdoli Manor]].
-- alchemist's tools: candidate item-location update from (DR:: 1748-10-19), morning -> [[mountain road below Perdoli Manor]].
-- ring of bird calls: candidate item-location update from (DR:: 1748-10-19), morning -> [[mountain road below Perdoli Manor]].
-- strangely weighted die: candidate item-location update from (DR:: 1748-10-19), morning -> [[mountain road below Perdoli Manor]].
+- [[Steampup|steampup]]: candidate item-location update from (DR:: 1748-10-19), morning -> mountain road below Perdoli Manor.
+- alchemist's tools: candidate item-location update from (DR:: 1748-10-19), morning -> mountain road below Perdoli Manor.
+- ring of bird calls: candidate item-location update from (DR:: 1748-10-19), morning -> mountain road below Perdoli Manor.
+- strangely weighted die: candidate item-location update from (DR:: 1748-10-19), morning -> mountain road below Perdoli Manor.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
