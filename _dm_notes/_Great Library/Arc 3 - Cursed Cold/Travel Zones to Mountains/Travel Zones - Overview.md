@@ -32,7 +32,7 @@ This is a frontier, a place where Chardon is moving in, encroaching on low densi
 The "troubled fort" is a major defensive fortification, with a bit of a garrison town associated. Along the Nahadi river.
  
 Encounters:  
-[Border Fort](Border%20Forts)  
+[[Border Fort - DM Notes]]
 [[Orc Attack - DM Notes]]  
 [[Garrison Camp - DM Notes]]  
 [[Troubled Fort - DM Notes]]

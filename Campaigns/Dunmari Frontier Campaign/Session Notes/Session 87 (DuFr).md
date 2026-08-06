@@ -68,7 +68,7 @@ We begin on [[Vindristjarna]], as the party has returned to the skyship after se
 
 [[Faldrak Bronzehammer|Faldrak]]'s writing is interrupted by the arrival of another message from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], this time concerning [[Philosopher's Information Concerning Binding Stones|the binding stones]]. The party reads and discusses. 
 
-The next day, the ship arrives at the edge of [[Orenlas]]. The forest is shrouded in mists, and the party is forced to land outside, on the shores of the large lake, using the [[Vindristjarna#Planar Prism|planar prism]] for the first time to construct a rainbow bridge from the ship to the ground. While Faldrak stays behind, the party ventures into the forest.
+The next day, the ship arrives at the edge of [[Orenlas]]. The forest is shrouded in mists, and the party is forced to land outside, on the shores of the large lake, using the [[Vindristjarna Mechanics#Planar Prism|planar prism]] for the first time to construct a rainbow bridge from the ship to the ground. While Faldrak stays behind, the party ventures into the forest.
 
 The paths open up as they walk, revealing visions and fragments of dreams of possible futures: Kenzo, mediating in an alien place of impossible depth; Delwath, traveling across the planes, protecting those in need across the multiverse; Seeker, writing a book in his home full of the laughter of his children and visions of his friends across the multiverse; Wellby, at sea, leagues and leagues west of any known land, perhaps, just perhaps glimpsing sight of a mountain rising from the horizon in the distance. You feel, as you walk, that this is Aldanor testing your desires, your hopes, and accepting you.
 

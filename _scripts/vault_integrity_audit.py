@@ -39,7 +39,11 @@ BLOCK_RE = re.compile(r'(?:^|\s)\^([A-Za-z0-9_-]+)\s*$')
 REPORT_SOURCE_EXCLUSIONS = {
     '_MoC/Data Quality/Links/Unresolved Links.md',
     'Worldbuilding/Chats and Emails/Chats/2023-11-16 - Vault Tooling.md',
+    'Worldbuilding/Chats and Emails/Chats/2023-12-02 - Vault Tooling.md',
     '_dm_notes/_Cleenseau/Adventures/Rinburg Monster.md',
+}
+LINK_SOURCE_EXCLUSIONS = {
+    ('Campaigns/Dunmari Frontier Campaign/Dunmari Frontier Campaign.md', 'sessions'),
 }
 OBSIDIAN_IGNORE_FILTERS = []
 
@@ -198,6 +202,15 @@ def norm_path(s):
     if s.casefold().endswith('.md'):
         s = s[:-3]
     return norm(s)
+
+
+def excluded_source_target(source, target):
+    """Return whether one specific source/target pair is intentionally ignored."""
+    normalized = norm_path(target)
+    return any(
+        source == excluded_source and normalized == norm_path(excluded_target)
+        for excluded_source, excluded_target in LINK_SOURCE_EXCLUSIONS
+    )
 
 
 def fragment_parts(target):
@@ -372,11 +385,14 @@ def write_unresolved_note(path, broken, metadata):
         '',
         'This is a static review list of links whose note or attachment target does not exist. '
         'The live target beneath each heading is intentionally clickable so the missing note can be created directly. '
-        'This report and configured legacy or tooling notes are excluded from the audit source set.',
+        'This report and configured legacy or tooling notes are excluded from the audit source set. '
+        'Specific generated source-and-target pairs may also be excluded.',
         '',
         f'- **{len(groups)}** unresolved targets: **{len(missing_notes)}** notes and **{len(missing_attachments)}** attachments',
         f'- **{len(broken)}** occurrences across **{len(unique_sources)}** source files',
-        f'- **{metadata["scanned_source_markdown"]}** Obsidian-indexed source notes scanned; **{len(REPORT_SOURCE_EXCLUSIONS)}** configured source exclusions applied',
+        f'- **{metadata["scanned_source_markdown"]}** Obsidian-indexed source notes scanned; '
+        f'**{len(REPORT_SOURCE_EXCLUSIONS)}** source exclusions and '
+        f'**{len(LINK_SOURCE_EXCLUSIONS)}** source-and-target exclusions applied',
         f'- Includes **{metadata.get("total_markdown_links", 0)}** local `.md`-style Markdown links in addition to Obsidian wikilinks',
         '- Sorted by number of distinct source files, then alphabetically',
         '- One representative context snippet is shown per source file; repeated occurrences in that file are counted',
@@ -570,7 +586,6 @@ def main():
             if not line:
                 continue
             for m in LINK_RE.finditer(line):
-                link_count += 1
                 embed = bool(m.group(1))
                 raw_link = m.group(0)
                 inside = m.group(2)
@@ -578,6 +593,9 @@ def main():
                 # The backslash is not part of the target.
                 target_part = inside.split('|', 1)[0].rstrip('\\').strip()
                 base, frag, frag_kind = fragment_parts(target_part)
+                if excluded_source_target(r, base):
+                    continue
+                link_count += 1
                 ext = Path(base).suffix.casefold()
                 is_attachment = ext in ATTACHMENT_EXTS
                 record = {
@@ -639,9 +657,11 @@ def main():
                 target_parts = local_markdown_target(markdown_link['body'])
                 if not target_parts:
                     continue
-                markdown_link_count += 1
                 decoded_path, frag = target_parts
                 display_target = Path(decoded_path).stem
+                if excluded_source_target(r, decoded_path):
+                    continue
+                markdown_link_count += 1
                 raw_link = markdown_link['raw_link']
                 record = {
                     'source': r, 'source_category': cat, 'line': line_no,

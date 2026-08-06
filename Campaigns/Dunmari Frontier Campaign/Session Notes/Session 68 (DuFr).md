@@ -1,5 +1,6 @@
 ---
-tags: [session-note]
+headerVersion: 2023.11.25
+tags: [session-note, status/check/ai]
 campaign: Dunmari Frontier
 sessionNumber: 68
 realWorldDate: 2023-01-05
@@ -37,7 +38,7 @@ The [[Dunmar Fellowship]] reunites, shares their extraordinary experiences, and 
 - [[Letter from Speaker Lara]]
 - [[Letter from Govir]]
 - [[Letter from Dee Wildcloak]]
-- [[Wellby#^3c01eb|Wellby's Letter]] **(personal)**
+- [[Wellby|Wellby's Letter]] **(personal)**
 - [[Kenzo#^21d014|Kenzo's Letter]] **(personal)**
 
 ### Scrying and Scouting

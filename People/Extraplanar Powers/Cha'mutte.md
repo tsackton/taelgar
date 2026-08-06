@@ -29,6 +29,6 @@ Wanted to "free the firstborn races from their shackles", which turned into, "I 
  
 Chaos agent extraordinaire.
  
-Killed by Beryl, Rai, Aerin, and Kyr at site of [Urlich Monastery](Urlich%20Monastery) in the central mountains. Death caused reveberations around the world, including creation of the cursed [Plaguelands](Plaguelands) south of Sembara and east of Dunmar.
+Killed by Beryl, Rai, Aerin, and Kyr at site of Urlich Monastery in the central mountains. Death caused reveberations around the world, including creation of the cursed [Plaguelands](Plaguelands) south of Sembara and east of Dunmar.
 
 %%

@@ -8,7 +8,7 @@ Can decide where they want to say:
 - Move to a fancier inn outside the city, choosing a comfortable lifestyle. Cost is 2 gp / day.
 - Move into the walled city, where they can stay at a comfortable, wealthy, or aristocractic lodging. Cost is 2 gp, 4 gp, or 10-20 gp per day.
  
-Choices of [Inns](Inns)
+Choices of Inns
  
 ## Shopping:
  
