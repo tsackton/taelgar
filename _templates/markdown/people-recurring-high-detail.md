@@ -29,16 +29,16 @@ A 4–6 sentence narrative establishing identity, current stakes, spheres of inf
 
 Timeline style (DR:: YYYY-MM-DD) bullet point list of events involving the NPC, written in brief sentences. Write in the style of an in-world Wikipedia article. 
 
-- (DR:: YYYY-MM-DD): action taken; consequence; who was affected, [[Session link if relevant|in-world session event name]].
-- (DR:: YYYY-MM-DD): event involving NPC, [[Session link if relevant|in-world session event name]].
+- (DR:: YYYY-MM-DD): action taken; consequence; who was affected, `[[Session link if relevant|in-world session event name]]`.
+- (DR:: YYYY-MM-DD): event involving NPC, `[[Session link if relevant|in-world session event name]]`.
 - (DR:: YYYY-MM-DD): event involving NPC but not PCs
 
 ## Relationships
 (markdown list, written in an in-world Wikipedia style)
 
-- [[Ally/Rival/Family]] — relationship nature, leverage held, reciprocity, and last significant interaction.
-- [[Mentor/Patron/Student]] — what binds them; costs and benefits.
-- [[Organization]] — how they use or are used by the group.
+- `[[Ally/Rival/Family]]` — relationship nature, leverage held, reciprocity, and last significant interaction.
+- `[[Mentor/Patron/Student]]` — what binds them; costs and benefits.
+- `[[Organization]]` — how they use or are used by the group.
 
 ## Appearance (optional)
 1–3 sentences on physical description, attire, notable details, and presentation. Write in the style of an in-world Wikipedia article. 

@@ -32,9 +32,9 @@ pronunciation: # optional, only include if available
 
 (markdown list, written in an in-world Wikipedia style)
 
-- [[Person A]] — nature of relationship (ally/rival/family/mentor/student); what each wants from the other.
-- [[Person B]] — brief description of tie and last notable interaction.
-- [[Organization/Group]] — membership or influence and what that implies.
+- `[[Person A]]` — nature of relationship (ally/rival/family/mentor/student); what each wants from the other.
+- `[[Person B]]` — brief description of tie and last notable interaction.
+- `[[Organization/Group]]` — membership or influence and what that implies.
 
 ## Events (optional)
 (markdown list, written in an in-world Wikipedia style; MM and DD are optional, always include year; if year is not available do not include date, or explicitly mark as approximate)

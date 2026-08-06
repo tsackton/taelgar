@@ -1,32 +1,41 @@
-This lists all the links that are linked but not yet created
+# Files with Unresolved Links
+
+This live view lists every indexed file containing one or more unresolved links, sorted by the number of unresolved link occurrences. The generated [[Unresolved Links]] report is omitted because its clickable missing targets are intentional.
 
 ```dataviewjs
-//Min Number of link before showing up
-const InterestLevel = 0 ; 
+const excludedSources = new Set([
+    "_MoC/Data Quality/Links/Unresolved Links.md",
+]);
+const ignoredPatterns = typeof dv.app.vault.getConfig === "function"
+    ? (dv.app.vault.getConfig("userIgnoreFilters") ?? [])
+    : [];
 
-//"hash" the missing links to find similar one (uppercase, space) could use some lemmatization.
-//const hashMissingLink = ( x ) => x.toUpperCase()
-const hashMissingLink = ( x ) => x.toUpperCase().replace(/[\s/\\]+/,"")
+const isIgnoredByObsidian = source => ignoredPatterns.some(pattern => {
+    try {
+        return new RegExp(pattern).test(source);
+    } catch {
+        return source.includes(pattern);
+    }
+});
 
-const r = 
-Object.entries(dv.app.metadataCache.unresolvedLinks) 
-	.filter( ( [k,v] )=> Object.keys( v ).length ) 
-	.flatMap( ( [k,v] ) => 
-      Object.keys( v ).map(x => 
-              ({ key: hashMissingLink( x ) 
-               , originalLink : dv.fileLink( x )
-               , source: `- ${ dv.fileLink( k ) }`
-               , source_and_originalLink: `- ${dv.fileLink( k )} (${dv.fileLink( x )})`
-               })
-        ))  
-  .sort( (a,b) => dv.compare( a.key, b.key ) )
+const rows = Object.entries(dv.app.metadataCache.unresolvedLinks)
+    .filter(([source, targets]) =>
+        !excludedSources.has(source)
+        && !isIgnoredByObsidian(source)
+        && Object.keys(targets).length > 0
+    )
+    .map(([source, targets]) => ({
+        source,
+        file: dv.fileLink(source),
+        unresolvedLinks: Object.values(targets)
+            .reduce((total, occurrences) => total + occurrences, 0),
+    }))
+    .sort((a, b) =>
+        b.unresolvedLinks - a.unresolvedLinks || dv.compare(a.source, b.source)
+    );
 
-dv.list(
-   dv.array( r )
-      .groupBy( t => t.key )
-      .where( t => t.rows.length > InterestLevel  )
-      .sort( t => t.key)
-//      .sort( t => t.rows.length , "desc")
-      .map( t => t.rows[0].originalLink + " ("+t.rows.source.length+"): \n" + t.rows.source_and_originalLink.join("\n") + "" )
-)
+dv.table(
+    ["File", "Unresolved links"],
+    rows.map(row => [row.file, row.unresolvedLinks])
+);
 ```

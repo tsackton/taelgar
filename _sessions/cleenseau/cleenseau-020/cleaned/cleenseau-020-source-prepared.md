@@ -84,12 +84,12 @@
 [u0084] [[Victorine Rosseau|The magistrate]] agrees that whiskey is a _fabulous_ idea in this situation yes.
 [u0085] We have some discussion about whether or not we need to facilitate getting [[Rene d'Aslain|Rene]] out, since he has his suspicions about [[Isabeau d'Aslain|the Baroness]] as a necromancer.
 [u0086] We cannot find a useful way of doing so.
-[u0087] [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/): Well, the pretty pretty paladin is leaving.
-[u0088] Everyone: [general hilarity] [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://arcadinal.dreamwidth.org/profile)[**arcadinal**](https://arcadinal.dreamwidth.org/), deadpan: The pretty pretty paladin is taken.
+[u0087] [**artan**](https://artan.dreamwidth.org/): Well, the pretty pretty paladin is leaving.
+[u0088] Everyone: [general hilarity] [**arcadinal**](https://arcadinal.dreamwidth.org/), deadpan: The pretty pretty paladin is taken.
 [u0089] It is generally agreed that Robin is not remotely the sort of person who would lead on an innocent teenager with an obvious rapidly-developing crush but also that that is not necessarily relevant to choices made by innocent teenagers with obvious crushes.
 [u0090] Fortunately we do not accidentally obtain a teenager with an obvious crush, as Rene has probably gone to sleep by the time we leave, as it's very, very late.
 [u0091] NPC: I am sure [[Isabeau d'Aslain|the baroness]] will want to reward you.
-[u0092] [![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/), blandly: Oh, I'm sure.
+[u0092] [**artan**](https://artan.dreamwidth.org/), blandly: Oh, I'm sure.
 [u0093] Matt, deadpan: Yikes.
 [u0094] The [[Ember Rose|ember-glowing rose]] is identified somewhere in here, as a protection from fire damage, and given to Celyn as the melee fighter who doesn't have preternatural shield defense abilities that let him negate blasts.
 [u0095] (We will re-evaluate this distribution when I get evasion.)

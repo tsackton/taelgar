@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-06), evening still: party ends at [[central prison]].
+- Candidate party whereabouts: (DR:: 1740-10-06), evening still: party ends at central prison.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -15,11 +15,11 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Aurae]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[central prison]].
+- [[Aurae]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> central prison.
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: central prison}`
 - [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[27th House]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
-- the prisoner: candidate whereabouts update from (DR:: 1740-10-06), evening still -> [[central prison]].
+- the prisoner: candidate whereabouts update from (DR:: 1740-10-06), evening still -> central prison.
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: central prison}`
 <!-- /SLOT -->
 
@@ -28,7 +28,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- glass key: candidate item-location update from (DR:: 1740-10-06), evening still -> [[central prison]].
+- glass key: candidate item-location update from (DR:: 1740-10-06), evening still -> central prison
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
