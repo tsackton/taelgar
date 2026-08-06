@@ -9,13 +9,15 @@ Many groups have adventured in Taelgar over the years.
 
 Among the most famous are the [[Heroes of the Great War]]. While many of the details of their adventures are lost to time, now told as legends and myths, the names of [[Rai]], [[Kyr]], [[Aerin]], and [[Beryl]], the heroes who defeated the shadow dragon [[Cha'mutte]] and ended the [[Great War]], are widely known. 
 
-In the DR 1700s, four groups of adventurers are most active in Taelgar:
+In the DR 1700s, four groups of adventurers have been most active in Taelgar:
 - The [[Dunmar Fellowship]], a renowned group of adventurers who met in [[Karawa]] in DR 1748, and have since [[Dunmari Frontier Campaign|traveled across much of the world of Taelgar]] in their flying skyship [[Vindristjarna]]. 
 - The [[Silver Tempests]], whose exploits are [[Great Library Campaign|chronicled elsewhere]], a group of heroes made a name for themselves in the [[Northern Provinces]] of the [[Drankorian Empire]] in the late DR 1740s. 
 - The [[Heroes of Cleenseau]], a party of heroes who met in [[Cleenseau]] in DR 1719, and have since made a name for themselves as they [[Cleenseau Campaign|work to defend]] the people of southern [[Sembara]]. 
 - The [[Addermarch Mercenaries]], a group of chance-met travelers, whose exploits in the service of [[Caradoc]] the alchemist are [[Addermarch Campaign|chronicled elsewhere]].
 
 Other adventurers include:
+- The [[Tollen Misfits]], who were tricked into the [[Feywild]] and [[Lost in the Feywild|navigated a strange mystery to escape]].
+- The [[Chasm Explorers]], who descended into the [[Great Chasm]] to [[Into the Chasm|stop a terrifying winter]].
 - The [[Adventurers of Mawar]], united by their shared home of [[Hamri]], and whose exploits are [[Mawar Adventures|told elsewhere]].
 - The [[Oskar's Companions|companions of Oskar and Riswynn]], who [[Oskar in Tharn Todor|solved some problems]] around [[Tharn Todor]] in DR 1748
 - The [[Labyrinth Prisoners|prisoners of Grimstone]], who [[Labyrinths of the Lost|escaped]] from an abandoned manor in [[Western Cymea]].

@@ -11,6 +11,7 @@ dm_notes: none
 pronunciation: AY-veen
 whereabouts: 
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 ---
 # Ayveen
 *(AY-veen)*
@@ -19,4 +20,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[ayveen.png]]
+![[ayveen.png|400|right]]

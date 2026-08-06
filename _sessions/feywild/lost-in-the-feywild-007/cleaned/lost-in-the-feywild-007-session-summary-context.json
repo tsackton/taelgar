@@ -1,0 +1,838 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-007/cleaned/lost-in-the-feywild-007-beat-facts.json",
+  "session": {
+    "campaign": "Lost in the Feywild",
+    "scope": "session",
+    "sessionNumber": 7,
+    "realWorldDate": "2026-08-04",
+    "drStart": "1740-10-06",
+    "drEnd": "1740-10-06"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "b001",
+        "b002",
+        "b003"
+      ],
+      "locationRefs": [
+        "27th Room",
+        "empty hillside above a ravine"
+      ],
+      "npcRefs": [
+        "the prisoner",
+        "Aurae",
+        "Menestheus"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "portable space-time clock",
+        "Lord Endless Ending's cup"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party enters the lightless 27th Room, discovers that they have arrived in the year 1351, and senses a strange telepathic mind nearby.",
+        "The prisoner tells how mortals turned it into a soul trap, reveals the time loop behind Hulda's deed, and softens when Tarek describes a cup from its teacher's house.",
+        "Five stories persuade the prisoner to release a hundred souls, after which Aurae and Dandelion House go still, the prisoner returns home, and the party is left beneath the twilight sky."
+      ],
+      "sourceLongSummaries": [
+        "After escaping the transformed Menestheus and carrying Aurae through the prison door, the party finds itself in absolute darkness within the 27th Room. Edric's Light spell succeeds but produces no visible light, while touch reveals a chamber choked with roots, bone-like growths, and coral forms. Tarek reads the portable clock by touch and determines that the prison is positioned in 1351, one year before Hulda's deed originated. Kaito's Detect Thoughts finds a language-using telepathic creature within thirty feet, but its mind is obscured by something like a distant chorus of other thoughts; Txarro calls out to it in Common.",
+        "A childlike voice speaks inside everyone's mind and explains that it once lived beside a bottomless well, where a beloved teacher taught it language, stories, and how to grow houses. It kept the beautiful dreams of the mortals who visited, and later people bearing cold metal and weapons built a cold playhouse around it, promised more dreams, and used it to hide souls. Now trapped, unable to sleep or choose what it wants, it clings to the dreamers for company while its fungal children sometimes take over mortal bodies and leave through a root at whatever place and time the prison occupies. The prisoner explains that an older Hulda once entered the prison, followed the root four centuries into the past, wrote the deed that reached his younger self, and died, making this the fourth successful iteration of someone returning to it. When it admits that it does not know how to release the dreams, Tarek describes the ornate cup he took from its teacher's house; the prisoner recalls that stories bind, require, and oblige its teacher.",
+        "The DM frames the resolution as a storytelling contest: each traveler must tell the prisoner a compelling story and add a Persuasion check to the group's total. Edric invokes the Night Queen and the divine cycle of souls, Kaito privately admits that collecting dreams never gave him the identity or happiness he has found in emptiness, Tarek recalls giving away a fire-protecting ring so a father could enter a burning building, Ayveen sings that absent lights endure in memory, and Txarro's ancestors speak through him about the village that had to let him leave so he could remain himself. Persuaded, the prisoner opens its hands and releases a hundred souls like milkweed seeds. Aurae becomes inert as the power sustaining it and the prison disappears, and Dandelion House collapses while the prisoner briefly reveals an incomprehensible form of bone, bramble, roots, mold, faces, and darkness. It becomes a child again, puts a finger to its lips, and descends the low stone well, leaving the five travelers on an empty hillside at twilight. A closing montage shows old Hulda dying among his slain mushroom servants; the prisoner's fungal children searching the Duchy of Tellim for a way home; Kallipseis awakening in a fungal golem body and plane shifting away with her number book; an unnamed tigerman watching her through a crystal sphere; the prisoner remembering its teacher beyond the universe; and Lord Endless Ending thinking of the child after his revel has ended. The party begins to consider the way home."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b001",
+          "title": "Into the Lightless Prison",
+          "boundaryReason": "After the recap, the party finds itself in the lightless 27th Room, tests the darkness, explores the root-filled chamber, reads the room's shifting year as 1351, and detects an obscured telepathic intelligence; the beat ends when Txarro calls out to it in Common.",
+          "dateStart": "1740-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0298"
+          },
+          "shortSummary": "The party enters the lightless 27th Room, discovers that they have arrived in the year 1351, and senses a strange telepathic mind nearby.",
+          "longSummary": "After escaping the transformed Menestheus and carrying Aurae through the prison door, the party finds itself in absolute darkness within the 27th Room. Edric's Light spell succeeds but produces no visible light, while touch reveals a chamber choked with roots, bone-like growths, and coral forms. Tarek reads the portable clock by touch and determines that the prison is positioned in 1351, one year before Hulda's deed originated. Kaito's Detect Thoughts finds a language-using telepathic creature within thirty feet, but its mind is obscured by something like a distant chorus of other thoughts; Txarro calls out to it in Common.",
+          "locationHints": {
+            "refs": [
+              "27th Room"
+            ],
+            "context": "lightless central prison chamber inside Dandelion House",
+            "notes": "The party begins just inside the prison door after escaping room 26."
+          },
+          "npcDetails": [
+            {
+              "name": "the prisoner",
+              "role": "encountered",
+              "context": "telepathic entity filling the 27th Room",
+              "notes": "Kaito senses one thinking creature together with a distant chorus of thoughts before it speaks."
+            },
+            {
+              "name": "Aurae",
+              "role": "companion",
+              "context": "clockwork research assistant carried in a makeshift backpack",
+              "notes": "Aurae remains quiet as the party explores the dark chamber."
+            },
+            {
+              "name": "Menestheus",
+              "role": "enemy",
+              "context": "transformed mushroom man left outside the prison door",
+              "notes": "The party has just escaped his attack in room 26."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "portable space-time clock",
+              "role": "encountered",
+              "notes": "Tarek reads its embossed dials by touch and determines that the prison is positioned in 1351."
+            }
+          ]
+        },
+        {
+          "beatId": "b002",
+          "title": "The Child and the Time Loop",
+          "boundaryReason": "The childlike prisoner answers Txarro, recounts its teacher, the dreamers it hoards, and the cold playhouse built around it; the party learns that Hulda created a time loop to send his younger self toward the prison, and Tarek's description of a stolen cup begins to soften the entity before the mechanics of the final story challenge are introduced.",
+          "dateStart": "1740-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0299",
+            "endUid": "u0698"
+          },
+          "shortSummary": "The prisoner tells how mortals turned it into a soul trap, reveals the time loop behind Hulda's deed, and softens when Tarek describes a cup from its teacher's house.",
+          "longSummary": "A childlike voice speaks inside everyone's mind and explains that it once lived beside a bottomless well, where a beloved teacher taught it language, stories, and how to grow houses. It kept the beautiful dreams of the mortals who visited, and later people bearing cold metal and weapons built a cold playhouse around it, promised more dreams, and used it to hide souls. Now trapped, unable to sleep or choose what it wants, it clings to the dreamers for company while its fungal children sometimes take over mortal bodies and leave through a root at whatever place and time the prison occupies. The prisoner explains that an older Hulda once entered the prison, followed the root four centuries into the past, wrote the deed that reached his younger self, and died, making this the fourth successful iteration of someone returning to it. When it admits that it does not know how to release the dreams, Tarek describes the ornate cup he took from its teacher's house; the prisoner recalls that stories bind, require, and oblige its teacher.",
+          "locationHints": {
+            "refs": [
+              "27th Room"
+            ],
+            "context": "lightless central prison chamber inside Dandelion House",
+            "notes": "The party remains near the chamber's former entrance while speaking with the prisoner."
+          },
+          "npcDetails": [
+            {
+              "name": "the prisoner",
+              "role": "encountered",
+              "context": "childlike telepathic entity confined in the 27th Room",
+              "notes": "It loves the dreams it has collected, misses its teacher and home, and does not understand how to choose or let the souls go."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "the prisoner's teacher",
+              "notes": "He found the prisoner as a small child, loved it, and taught it language, stories, and how to grow houses before leaving for his revel."
+            },
+            {
+              "name": "Hulda",
+              "role": "mentioned",
+              "context": "the older and younger selves joined by the deed's time loop",
+              "notes": "The prisoner says an older Hulda traveled through the root into the past, wrote the deed for his younger self, and died."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Lord Endless Ending's cup",
+              "role": "encountered",
+              "notes": "Tarek carries the small, heavily ornamented cup in a velvet bag and says it came from the prisoner's teacher's house."
+            },
+            {
+              "name": "Hulda's deed",
+              "role": "mentioned",
+              "notes": "The prisoner reveals that old Hulda wrote the promise in the past so that it would reach his younger self."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Arithrimos Lamperum",
+              "role": "mentioned",
+              "notes": "The people who built the prison used the entity to hide souls and control where and when it and its children emerged."
+            }
+          ]
+        },
+        {
+          "beatId": "b003",
+          "title": "Stories That Set Them Free",
+          "boundaryReason": "The DM introduces the mechanics for persuading the prisoner through stories, and the entire resulting challenge remains continuous through each character's story, the release of the dreamers, the prison's collapse, the entity's return home, the closing montage, and the end of the actual session.",
+          "dateStart": "1740-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0699",
+            "endUid": "u1297"
+          },
+          "shortSummary": "Five stories persuade the prisoner to release a hundred souls, after which Aurae and Dandelion House go still, the prisoner returns home, and the party is left beneath the twilight sky.",
+          "longSummary": "The DM frames the resolution as a storytelling contest: each traveler must tell the prisoner a compelling story and add a Persuasion check to the group's total. Edric invokes the Night Queen and the divine cycle of souls, Kaito privately admits that collecting dreams never gave him the identity or happiness he has found in emptiness, Tarek recalls giving away a fire-protecting ring so a father could enter a burning building, Ayveen sings that absent lights endure in memory, and Txarro's ancestors speak through him about the village that had to let him leave so he could remain himself. Persuaded, the prisoner opens its hands and releases a hundred souls like milkweed seeds. Aurae becomes inert as the power sustaining it and the prison disappears, and Dandelion House collapses while the prisoner briefly reveals an incomprehensible form of bone, bramble, roots, mold, faces, and darkness. It becomes a child again, puts a finger to its lips, and descends the low stone well, leaving the five travelers on an empty hillside at twilight. A closing montage shows old Hulda dying among his slain mushroom servants; the prisoner's fungal children searching the Duchy of Tellim for a way home; Kallipseis awakening in a fungal golem body and plane shifting away with her number book; an unnamed tigerman watching her through a crystal sphere; the prisoner remembering its teacher beyond the universe; and Lord Endless Ending thinking of the child after his revel has ended. The party begins to consider the way home.",
+          "locationHints": {
+            "refs": [
+              "27th Room",
+              "empty hillside above a ravine"
+            ],
+            "context": "the central prison and Dandelion House collapse, exposing the hillside and a low stone well",
+            "notes": "The closing montage also shifts to Hulda's house, the Duchy of Tellim, Kallipseis's laboratory, a roadside cottage, the void beyond the universe, and Lord Endless Ending's manor."
+          },
+          "npcDetails": [
+            {
+              "name": "the prisoner",
+              "role": "encountered",
+              "context": "telepathic child and soul collector",
+              "notes": "The stories teach it that letting go need not erase what it has experienced; it releases the souls and returns home through the bottomless well."
+            },
+            {
+              "name": "Aurae",
+              "role": "companion",
+              "context": "clockwork research assistant carried by the party",
+              "notes": "Aurae briefly awakens, then becomes still and inert when the souls cease powering the 27th Room."
+            },
+            {
+              "name": "Hulda",
+              "role": "mentioned",
+              "context": "elderly lord shown in the closing montage",
+              "notes": "Mortally wounded among the bodies of his mushroom servants, he drinks a potion but dies."
+            },
+            {
+              "name": "Kallipseis",
+              "role": "mentioned",
+              "context": "wizard head of Arithrimos Lamperum",
+              "notes": "Her soul awakens in a fungal golem body, retrieves a book of six-digit numbers, and plane shifts away as the house collapses."
+            },
+            {
+              "name": "unnamed tigerman",
+              "role": "mentioned",
+              "context": "observer in a roadside cottage",
+              "notes": "He watches Kallipseis through a polished crystal sphere and smiles after she escapes."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "the Lord of the Ended Revel and the prisoner's teacher",
+              "notes": "After his party has ended, he looks toward the sunset and thinks of the child he befriended."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Lord Endless Ending's cup",
+              "role": "encountered",
+              "notes": "Tarek still carries the cup while reflecting on taking and returning things before the stories begin."
+            },
+            {
+              "name": "fire-protecting ring",
+              "role": "mentioned",
+              "notes": "In Tarek's story, he gives the ring to a father so the man can enter a burning building to rescue a child."
+            },
+            {
+              "name": "book of six-digit numbers",
+              "role": "mentioned",
+              "notes": "Kallipseis consults the book before plane shifting out of the collapsing house."
+            },
+            {
+              "name": "polished crystal sphere",
+              "role": "mentioned",
+              "notes": "The unnamed tigerman uses it to watch Kallipseis escape."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Arithrimos Lamperum",
+              "role": "mentioned",
+              "notes": "The closing montage identifies Kallipseis as the order's wizard head."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Into the Lightless Prison",
+      "beatIds": [
+        "b001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0298"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0298"
+        }
+      ],
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "27th Room"
+      ],
+      "npcRefs": [
+        "the prisoner",
+        "Aurae",
+        "Menestheus"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "portable space-time clock"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party enters the lightless 27th Room, discovers that they have arrived in the year 1351, and senses a strange telepathic mind nearby."
+      ],
+      "sourceLongSummaries": [
+        "After escaping the transformed Menestheus and carrying Aurae through the prison door, the party finds itself in absolute darkness within the 27th Room. Edric's Light spell succeeds but produces no visible light, while touch reveals a chamber choked with roots, bone-like growths, and coral forms. Tarek reads the portable clock by touch and determines that the prison is positioned in 1351, one year before Hulda's deed originated. Kaito's Detect Thoughts finds a language-using telepathic creature within thirty feet, but its mind is obscured by something like a distant chorus of other thoughts; Txarro calls out to it in Common."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b001",
+          "title": "Into the Lightless Prison",
+          "boundaryReason": "After the recap, the party finds itself in the lightless 27th Room, tests the darkness, explores the root-filled chamber, reads the room's shifting year as 1351, and detects an obscured telepathic intelligence; the beat ends when Txarro calls out to it in Common.",
+          "dateStart": "1740-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0298"
+          },
+          "shortSummary": "The party enters the lightless 27th Room, discovers that they have arrived in the year 1351, and senses a strange telepathic mind nearby.",
+          "longSummary": "After escaping the transformed Menestheus and carrying Aurae through the prison door, the party finds itself in absolute darkness within the 27th Room. Edric's Light spell succeeds but produces no visible light, while touch reveals a chamber choked with roots, bone-like growths, and coral forms. Tarek reads the portable clock by touch and determines that the prison is positioned in 1351, one year before Hulda's deed originated. Kaito's Detect Thoughts finds a language-using telepathic creature within thirty feet, but its mind is obscured by something like a distant chorus of other thoughts; Txarro calls out to it in Common.",
+          "locationHints": {
+            "refs": [
+              "27th Room"
+            ],
+            "context": "lightless central prison chamber inside Dandelion House",
+            "notes": "The party begins just inside the prison door after escaping room 26."
+          },
+          "npcDetails": [
+            {
+              "name": "the prisoner",
+              "role": "encountered",
+              "context": "telepathic entity filling the 27th Room",
+              "notes": "Kaito senses one thinking creature together with a distant chorus of thoughts before it speaks."
+            },
+            {
+              "name": "Aurae",
+              "role": "companion",
+              "context": "clockwork research assistant carried in a makeshift backpack",
+              "notes": "Aurae remains quiet as the party explores the dark chamber."
+            },
+            {
+              "name": "Menestheus",
+              "role": "enemy",
+              "context": "transformed mushroom man left outside the prison door",
+              "notes": "The party has just escaped his attack in room 26."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "portable space-time clock",
+              "role": "encountered",
+              "notes": "Tarek reads its embossed dials by touch and determines that the prison is positioned in 1351."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "The Child and the Time Loop",
+      "beatIds": [
+        "b002"
+      ],
+      "sourceRange": {
+        "startUid": "u0299",
+        "endUid": "u0698"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0299",
+          "endUid": "u0698"
+        }
+      ],
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "27th Room"
+      ],
+      "npcRefs": [
+        "the prisoner"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Lord Endless Ending's cup"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The prisoner tells how mortals turned it into a soul trap, reveals the time loop behind Hulda's deed, and softens when Tarek describes a cup from its teacher's house."
+      ],
+      "sourceLongSummaries": [
+        "A childlike voice speaks inside everyone's mind and explains that it once lived beside a bottomless well, where a beloved teacher taught it language, stories, and how to grow houses. It kept the beautiful dreams of the mortals who visited, and later people bearing cold metal and weapons built a cold playhouse around it, promised more dreams, and used it to hide souls. Now trapped, unable to sleep or choose what it wants, it clings to the dreamers for company while its fungal children sometimes take over mortal bodies and leave through a root at whatever place and time the prison occupies. The prisoner explains that an older Hulda once entered the prison, followed the root four centuries into the past, wrote the deed that reached his younger self, and died, making this the fourth successful iteration of someone returning to it. When it admits that it does not know how to release the dreams, Tarek describes the ornate cup he took from its teacher's house; the prisoner recalls that stories bind, require, and oblige its teacher."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b002",
+          "title": "The Child and the Time Loop",
+          "boundaryReason": "The childlike prisoner answers Txarro, recounts its teacher, the dreamers it hoards, and the cold playhouse built around it; the party learns that Hulda created a time loop to send his younger self toward the prison, and Tarek's description of a stolen cup begins to soften the entity before the mechanics of the final story challenge are introduced.",
+          "dateStart": "1740-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0299",
+            "endUid": "u0698"
+          },
+          "shortSummary": "The prisoner tells how mortals turned it into a soul trap, reveals the time loop behind Hulda's deed, and softens when Tarek describes a cup from its teacher's house.",
+          "longSummary": "A childlike voice speaks inside everyone's mind and explains that it once lived beside a bottomless well, where a beloved teacher taught it language, stories, and how to grow houses. It kept the beautiful dreams of the mortals who visited, and later people bearing cold metal and weapons built a cold playhouse around it, promised more dreams, and used it to hide souls. Now trapped, unable to sleep or choose what it wants, it clings to the dreamers for company while its fungal children sometimes take over mortal bodies and leave through a root at whatever place and time the prison occupies. The prisoner explains that an older Hulda once entered the prison, followed the root four centuries into the past, wrote the deed that reached his younger self, and died, making this the fourth successful iteration of someone returning to it. When it admits that it does not know how to release the dreams, Tarek describes the ornate cup he took from its teacher's house; the prisoner recalls that stories bind, require, and oblige its teacher.",
+          "locationHints": {
+            "refs": [
+              "27th Room"
+            ],
+            "context": "lightless central prison chamber inside Dandelion House",
+            "notes": "The party remains near the chamber's former entrance while speaking with the prisoner."
+          },
+          "npcDetails": [
+            {
+              "name": "the prisoner",
+              "role": "encountered",
+              "context": "childlike telepathic entity confined in the 27th Room",
+              "notes": "It loves the dreams it has collected, misses its teacher and home, and does not understand how to choose or let the souls go."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "the prisoner's teacher",
+              "notes": "He found the prisoner as a small child, loved it, and taught it language, stories, and how to grow houses before leaving for his revel."
+            },
+            {
+              "name": "Hulda",
+              "role": "mentioned",
+              "context": "the older and younger selves joined by the deed's time loop",
+              "notes": "The prisoner says an older Hulda traveled through the root into the past, wrote the deed for his younger self, and died."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Lord Endless Ending's cup",
+              "role": "encountered",
+              "notes": "Tarek carries the small, heavily ornamented cup in a velvet bag and says it came from the prisoner's teacher's house."
+            },
+            {
+              "name": "Hulda's deed",
+              "role": "mentioned",
+              "notes": "The prisoner reveals that old Hulda wrote the promise in the past so that it would reach his younger self."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Arithrimos Lamperum",
+              "role": "mentioned",
+              "notes": "The people who built the prison used the entity to hide souls and control where and when it and its children emerged."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Stories That Set Them Free",
+      "beatIds": [
+        "b003"
+      ],
+      "sourceRange": {
+        "startUid": "u0699",
+        "endUid": "u1297"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0699",
+          "endUid": "u1297"
+        }
+      ],
+      "dateStart": "1740-10-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "27th Room",
+        "empty hillside above a ravine"
+      ],
+      "npcRefs": [
+        "the prisoner",
+        "Aurae"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Lord Endless Ending's cup"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Five stories persuade the prisoner to release a hundred souls, after which Aurae and Dandelion House go still, the prisoner returns home, and the party is left beneath the twilight sky."
+      ],
+      "sourceLongSummaries": [
+        "The DM frames the resolution as a storytelling contest: each traveler must tell the prisoner a compelling story and add a Persuasion check to the group's total. Edric invokes the Night Queen and the divine cycle of souls, Kaito privately admits that collecting dreams never gave him the identity or happiness he has found in emptiness, Tarek recalls giving away a fire-protecting ring so a father could enter a burning building, Ayveen sings that absent lights endure in memory, and Txarro's ancestors speak through him about the village that had to let him leave so he could remain himself. Persuaded, the prisoner opens its hands and releases a hundred souls like milkweed seeds. Aurae becomes inert as the power sustaining it and the prison disappears, and Dandelion House collapses while the prisoner briefly reveals an incomprehensible form of bone, bramble, roots, mold, faces, and darkness. It becomes a child again, puts a finger to its lips, and descends the low stone well, leaving the five travelers on an empty hillside at twilight. A closing montage shows old Hulda dying among his slain mushroom servants; the prisoner's fungal children searching the Duchy of Tellim for a way home; Kallipseis awakening in a fungal golem body and plane shifting away with her number book; an unnamed tigerman watching her through a crystal sphere; the prisoner remembering its teacher beyond the universe; and Lord Endless Ending thinking of the child after his revel has ended. The party begins to consider the way home."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b003",
+          "title": "Stories That Set Them Free",
+          "boundaryReason": "The DM introduces the mechanics for persuading the prisoner through stories, and the entire resulting challenge remains continuous through each character's story, the release of the dreamers, the prison's collapse, the entity's return home, the closing montage, and the end of the actual session.",
+          "dateStart": "1740-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0699",
+            "endUid": "u1297"
+          },
+          "shortSummary": "Five stories persuade the prisoner to release a hundred souls, after which Aurae and Dandelion House go still, the prisoner returns home, and the party is left beneath the twilight sky.",
+          "longSummary": "The DM frames the resolution as a storytelling contest: each traveler must tell the prisoner a compelling story and add a Persuasion check to the group's total. Edric invokes the Night Queen and the divine cycle of souls, Kaito privately admits that collecting dreams never gave him the identity or happiness he has found in emptiness, Tarek recalls giving away a fire-protecting ring so a father could enter a burning building, Ayveen sings that absent lights endure in memory, and Txarro's ancestors speak through him about the village that had to let him leave so he could remain himself. Persuaded, the prisoner opens its hands and releases a hundred souls like milkweed seeds. Aurae becomes inert as the power sustaining it and the prison disappears, and Dandelion House collapses while the prisoner briefly reveals an incomprehensible form of bone, bramble, roots, mold, faces, and darkness. It becomes a child again, puts a finger to its lips, and descends the low stone well, leaving the five travelers on an empty hillside at twilight. A closing montage shows old Hulda dying among his slain mushroom servants; the prisoner's fungal children searching the Duchy of Tellim for a way home; Kallipseis awakening in a fungal golem body and plane shifting away with her number book; an unnamed tigerman watching her through a crystal sphere; the prisoner remembering its teacher beyond the universe; and Lord Endless Ending thinking of the child after his revel has ended. The party begins to consider the way home.",
+          "locationHints": {
+            "refs": [
+              "27th Room",
+              "empty hillside above a ravine"
+            ],
+            "context": "the central prison and Dandelion House collapse, exposing the hillside and a low stone well",
+            "notes": "The closing montage also shifts to Hulda's house, the Duchy of Tellim, Kallipseis's laboratory, a roadside cottage, the void beyond the universe, and Lord Endless Ending's manor."
+          },
+          "npcDetails": [
+            {
+              "name": "the prisoner",
+              "role": "encountered",
+              "context": "telepathic child and soul collector",
+              "notes": "The stories teach it that letting go need not erase what it has experienced; it releases the souls and returns home through the bottomless well."
+            },
+            {
+              "name": "Aurae",
+              "role": "companion",
+              "context": "clockwork research assistant carried by the party",
+              "notes": "Aurae briefly awakens, then becomes still and inert when the souls cease powering the 27th Room."
+            },
+            {
+              "name": "Hulda",
+              "role": "mentioned",
+              "context": "elderly lord shown in the closing montage",
+              "notes": "Mortally wounded among the bodies of his mushroom servants, he drinks a potion but dies."
+            },
+            {
+              "name": "Kallipseis",
+              "role": "mentioned",
+              "context": "wizard head of Arithrimos Lamperum",
+              "notes": "Her soul awakens in a fungal golem body, retrieves a book of six-digit numbers, and plane shifts away as the house collapses."
+            },
+            {
+              "name": "unnamed tigerman",
+              "role": "mentioned",
+              "context": "observer in a roadside cottage",
+              "notes": "He watches Kallipseis through a polished crystal sphere and smiles after she escapes."
+            },
+            {
+              "name": "Lord Endless Ending",
+              "role": "mentioned",
+              "context": "the Lord of the Ended Revel and the prisoner's teacher",
+              "notes": "After his party has ended, he looks toward the sunset and thinks of the child he befriended."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Lord Endless Ending's cup",
+              "role": "encountered",
+              "notes": "Tarek still carries the cup while reflecting on taking and returning things before the stories begin."
+            },
+            {
+              "name": "fire-protecting ring",
+              "role": "mentioned",
+              "notes": "In Tarek's story, he gives the ring to a father so the man can enter a burning building to rescue a child."
+            },
+            {
+              "name": "book of six-digit numbers",
+              "role": "mentioned",
+              "notes": "Kallipseis consults the book before plane shifting out of the collapsing house."
+            },
+            {
+              "name": "polished crystal sphere",
+              "role": "mentioned",
+              "notes": "The unnamed tigerman uses it to watch Kallipseis escape."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Arithrimos Lamperum",
+              "role": "mentioned",
+              "notes": "The closing montage identifies Kallipseis as the order's wizard head."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "the prisoner",
+        "beatIds": [
+          "b001",
+          "b002",
+          "b003"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Aurae",
+        "beatIds": [
+          "b001",
+          "b003"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Menestheus",
+        "beatIds": [
+          "b001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "27th Room",
+        "beatIds": [
+          "b001",
+          "b002",
+          "b003"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "empty hillside above a ravine",
+        "beatIds": [
+          "b003"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "the prisoner",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "telepathic entity filling the 27th Room",
+          "beatIds": [
+            "b001",
+            "b002",
+            "b003"
+          ],
+          "history": [
+            {
+              "location": "27th Room",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            },
+            {
+              "location": "27th Room -> empty hillside above a ravine",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Aurae",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "clockwork research assistant carried in a makeshift backpack",
+          "beatIds": [
+            "b001",
+            "b003"
+          ],
+          "history": [
+            {
+              "location": "27th Room",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            },
+            {
+              "location": "27th Room -> empty hillside above a ravine",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Menestheus",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "transformed mushroom man left outside the prison door",
+          "beatIds": [
+            "b001"
+          ],
+          "history": [
+            {
+              "location": "27th Room",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "27th Room",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "lightless central prison chamber inside Dandelion House",
+          "beatIds": [
+            "b001",
+            "b002",
+            "b003"
+          ],
+          "visits": [
+            {
+              "dateStart": "1740-10-06",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1740-10-06",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "empty hillside above a ravine",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the central prison and Dandelion House collapse, exposing the hillside and a low stone well",
+          "beatIds": [
+            "b003"
+          ],
+          "visits": [
+            {
+              "dateStart": "1740-10-06",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "portable space-time clock",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b001"
+          ],
+          "history": [
+            {
+              "location": "27th Room",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Lord Endless Ending's cup",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b002",
+            "b003"
+          ],
+          "history": [
+            {
+              "location": "27th Room",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            },
+            {
+              "location": "27th Room -> empty hillside above a ravine",
+              "dateStart": "1740-10-06",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Lord Endless Ending",
+          "contextHint": "the prisoner's teacher"
+        },
+        {
+          "name": "Hulda",
+          "contextHint": "the older and younger selves joined by the deed's time loop"
+        },
+        {
+          "name": "Kallipseis",
+          "contextHint": "wizard head of Arithrimos Lamperum"
+        },
+        {
+          "name": "unnamed tigerman",
+          "contextHint": "observer in a roadside cottage"
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Arithrimos Lamperum",
+          "contextHint": null
+        }
+      ],
+      "items": [
+        {
+          "name": "Hulda's deed",
+          "contextHint": null
+        },
+        {
+          "name": "fire-protecting ring",
+          "contextHint": null
+        },
+        {
+          "name": "book of six-digit numbers",
+          "contextHint": null
+        },
+        {
+          "name": "polished crystal sphere",
+          "contextHint": null
+        }
+      ]
+    }
+  }
+}

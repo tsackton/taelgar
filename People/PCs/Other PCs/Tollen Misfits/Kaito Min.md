@@ -9,6 +9,7 @@ born: 1650
 whereabouts: 
 - {type: home, location: Orenlas}
 - {type: home, location: Tollen}
+- {type: away, start: 1740-10-05, location: Twilight Kingdom}
 ---
 # Kaito Min
 >[!info]+ Biographical Info  

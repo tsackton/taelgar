@@ -1,0 +1,2297 @@
+{
+  "summary": {
+    "changedLineCount": 359,
+    "replacementCount": 338,
+    "repeatedReplacementCount": 27,
+    "topReplacements": [
+      {
+        "from": "Charo",
+        "to": "Txarro",
+        "count": 10,
+        "headers": [
+          "[u0524 | 00:50:04.090-00:50:07.819 | DM]",
+          "[u0622 | 01:00:22.890-01:00:37.079 | DM]",
+          "[u0723 | 01:09:22.050-01:09:27.349 | Txarro]",
+          "[u1140 | 01:41:00.810-01:41:07.640 | Txarro]",
+          "[u1143 | 01:41:20.260-01:41:23.310 | Txarro]",
+          "[u1165 | 01:43:36.010-01:43:38.150 | Txarro]",
+          "[u1184 | 01:44:58.880-01:45:01.069 | Tarek]",
+          "[u1633 | 02:21:39.500-02:21:46.660 | Txarro]",
+          "[u1635 | 02:21:53.220-02:21:59.749 | Txarro]",
+          "[u2031 | 02:54:10.320-02:54:17.440 | Txarro]"
+        ]
+      },
+      {
+        "from": "Egypt",
+        "to": "Edric",
+        "count": 8,
+        "headers": [
+          "[u0616 | 00:59:49.110-00:59:53.129 | Edric]",
+          "[u0729 | 01:10:22.030-01:10:23.010 | DM]",
+          "[u0732 | 01:10:27.620-01:10:29.640 | Edric]",
+          "[u0738 | 01:11:01.280-01:11:07.230 | DM]",
+          "[u0749 | 01:11:34.860-01:11:42.240 | Edric]",
+          "[u0762 | 01:12:50.350-01:12:52.949 | Edric]",
+          "[u0812 | 01:16:14.310-01:16:20.689 | Edric]",
+          "[u2032 | 02:54:18.090-02:54:26.500 | Txarro]"
+        ]
+      },
+      {
+        "from": "Endlessly",
+        "to": "Endless",
+        "count": 8,
+        "headers": [
+          "[u0067 | 00:05:38.370-00:05:48.809 | DM]",
+          "[u1352 | 02:00:10.220-02:00:15.700 | Edric]",
+          "[u1581 | 02:16:35.690-02:16:44.869 | Edric]",
+          "[u1590 | 02:17:36.530-02:17:42.680 | Txarro]",
+          "[u1705 | 02:27:26.570-02:27:35.749 | Txarro]",
+          "[u2518 | 03:35:20.810-03:35:24.169 | Txarro]",
+          "[u2523 | 03:35:34.770-03:35:40.260 | Txarro]"
+        ]
+      },
+      {
+        "from": "Kato",
+        "to": "Kaito",
+        "count": 8,
+        "headers": [
+          "[u0184 | 00:18:25.750-00:18:27.340 | Kaito Min]",
+          "[u0564 | 00:54:12.530-00:54:17.419 | Ayveen]",
+          "[u0622 | 01:00:22.890-01:00:37.079 | DM]",
+          "[u0831 | 01:17:31.340-01:17:39.519 | DM]",
+          "[u0840 | 01:18:16.060-01:18:18.100 | Kaito Min]",
+          "[u1182 | 01:44:54.050-01:44:56.940 | Kaito Min]",
+          "[u1719 | 02:28:43.120-02:28:46.210 | Kaito Min]",
+          "[u1959 | 02:48:31.020-02:48:54.900 | Kaito Min]"
+        ]
+      },
+      {
+        "from": "role",
+        "to": "roll",
+        "count": 7,
+        "headers": [
+          "[u0774 | 01:14:14.370-01:14:19.719 | DM]",
+          "[u0821 | 01:16:59.960-01:17:05.030 | DM]",
+          "[u2241 | 03:12:52.830-03:12:58.869 | Txarro]",
+          "[u2253 | 03:14:30.910-03:14:39.979 | Edric]",
+          "[u2310 | 03:18:39.300-03:18:43.490 | Txarro]",
+          "[u2333 | 03:21:08.330-03:21:20.440 | Txarro]",
+          "[u2393 | 03:25:20.360-03:25:29.120 | Edric]"
+        ]
+      },
+      {
+        "from": "Sambara",
+        "to": "Sembara",
+        "count": 5,
+        "headers": [
+          "[u1475 | 02:08:38.270-02:08:44.550 | Txarro]",
+          "[u1498 | 02:10:09.710-02:10:15.080 | Txarro]",
+          "[u1506 | 02:10:41.730-02:10:52.080 | Edric]"
+        ]
+      },
+      {
+        "from": "Drancorian",
+        "to": "Drankorian",
+        "count": 4,
+        "headers": [
+          "[u0067 | 00:05:38.370-00:05:48.809 | DM]",
+          "[u1444 | 02:06:17.470-02:06:28.770 | Txarro]",
+          "[u1522 | 02:11:55.050-02:11:58.730 | DM]",
+          "[u2538 | 03:36:38.870-03:36:46.779 | DM]"
+        ]
+      },
+      {
+        "from": "RA",
+        "to": "Aurae",
+        "count": 4,
+        "headers": [
+          "[u0178 | 00:17:49.950-00:17:57.330 | DM]",
+          "[u0180 | 00:18:06.800-00:18:09.810 | DM]",
+          "[u2151 | 03:05:03.900-03:05:07.319 | DM]",
+          "[u2163 | 03:06:11.090-03:06:17.440 | Kaito Min]"
+        ]
+      },
+      {
+        "from": "Array",
+        "to": "Aurae",
+        "count": 3,
+        "headers": [
+          "[u0089 | 00:08:20.300-00:08:28.110 | DM]",
+          "[u0090 | 00:08:29.250-00:08:44.990 | DM]"
+        ]
+      },
+      {
+        "from": "Aveen",
+        "to": "Ayveen",
+        "count": 3,
+        "headers": [
+          "[u0168 | 00:16:33.660-00:16:36.260 | Ayveen]",
+          "[u1046 | 01:32:49.930-01:32:51.110 | DM]",
+          "[u1120 | 01:39:20.500-01:39:23.619 | Txarro]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2557,
+  "changedLineCount": 359,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0061 | 00:05:01.150-00:05:11.610 | DM]",
+      "lineNumber": 61,
+      "originalText": "into the prison, with the door closing behind, dodging out of the way, cleverly, quickly, from the grasping hands of Ministheus, now fully transformed into a mushroom man.",
+      "cleanedText": "into the prison, with the door closing behind, dodging out of the way, cleverly, quickly, from the grasping hands of Menestheus, now fully transformed into a mushroom man."
+    },
+    {
+      "header": "[u0064 | 00:05:25.300-00:05:29.109 | DM]",
+      "lineNumber": 64,
+      "originalText": "To a manor house at the wild northern edges of the Duchy of Tellum.",
+      "cleanedText": "To a manor house at the wild northern edges of the Duchy of Tellim."
+    },
+    {
+      "header": "[u0067 | 00:05:38.370-00:05:48.809 | DM]",
+      "lineNumber": 67,
+      "originalText": "Lord Endlessly Ending had been tricked into his compact by the wizard Thelestria, head of the Drancorian order Erythramos Limperum in the waning days of the Empire.",
+      "cleanedText": "Lord Endless Ending had been tricked into his compact by the wizard Thalestria, head of the Drankorian order Arithrimos Lamperum in the waning days of the Empire."
+    },
+    {
+      "header": "[u0075 | 00:06:40.200-00:06:49.370 | DM]",
+      "lineNumber": 75,
+      "originalText": "Joined by Manistheus, a member of the Lestria's party who she left behind when she made the bargain, the group enters the house of 27 rooms.",
+      "cleanedText": "Joined by Menestheus, a member of Thalestria's party who she left behind when she made the bargain, the group enters the house of 27 rooms."
+    },
+    {
+      "header": "[u0080 | 00:07:30.050-00:07:37.179 | DM]",
+      "lineNumber": 80,
+      "originalText": "And the steady supply of mortals, by the Lord endlessly ending, has kept it in constant motion to this day.",
+      "cleanedText": "And the steady supply of mortals, by Lord Endless Ending, has kept it in constant motion to this day."
+    },
+    {
+      "header": "[u0081 | 00:07:38.670-00:07:45.929 | DM]",
+      "lineNumber": 81,
+      "originalText": "The party makes their way through the house, fighting off fungal-transformed attackers, one of whom infects meniscus badly.",
+      "cleanedText": "The party makes their way through the house, fighting off fungal-transformed attackers, one of whom infects Menestheus badly."
+    },
+    {
+      "header": "[u0084 | 00:07:54.590-00:08:01.249 | DM]",
+      "lineNumber": 84,
+      "originalText": "They meet Calypsies, an ancient dwarven wizard, putting the final touches on a fungal golem body.",
+      "cleanedText": "They meet Kallipseis, an ancient dwarven wizard, putting the final touches on a fungal golem body."
+    },
+    {
+      "header": "[u0085 | 00:08:01.250-00:08:07.529 | DM]",
+      "lineNumber": 85,
+      "originalText": "Into which she intends to transfer her consciousness and restart the erythromos limperum.",
+      "cleanedText": "Into which she intends to transfer her consciousness and restart the Arithrimos Lamperum."
+    },
+    {
+      "header": "[u0089 | 00:08:20.300-00:08:28.110 | DM]",
+      "lineNumber": 89,
+      "originalText": "You come to the library and talk with a clockwork magical research assistant, who, unnamed, they give the name Array to.",
+      "cleanedText": "You come to the library and talk with a clockwork magical research assistant, who, unnamed, they give the name Aurae to."
+    },
+    {
+      "header": "[u0090 | 00:08:29.250-00:08:44.990 | DM]",
+      "lineNumber": 90,
+      "originalText": "Array helps them to understand… sorry, I should have written it in the second person. Array helps you to understand that the house is powered by the energy of trapped souls prevented from moving on to their afterlife, like water trapped behind a dam.",
+      "cleanedText": "Aurae helps them to understand… sorry, I should have written it in the second person. Aurae helps you to understand that the house is powered by the energy of trapped souls prevented from moving on to their afterlife, like water trapped behind a dam."
+    },
+    {
+      "header": "[u0091 | 00:08:45.950-00:08:51.539 | DM]",
+      "lineNumber": 91,
+      "originalText": "They read from the order's Erythrama Slim Parum's Allegories for the Initiated.",
+      "cleanedText": "They read from the order's Arithrimos Lamperum's Allegories for the Initiated."
+    },
+    {
+      "header": "[u0096 | 00:09:07.040-00:09:16.499 | DM]",
+      "lineNumber": 96,
+      "originalText": "mindless things that imitate minds, and then Aray writes a personal allegory for each of them. And with apologies, Tarek, that was the one thing I didn't have time to prep for you this week.",
+      "cleanedText": "mindless things that imitate minds, and then Aurae writes a personal allegory for each of them. And with apologies, Tarek, that was the one thing I didn't have time to prep for you this week."
+    },
+    {
+      "header": "[u0102 | 00:09:44.650-00:10:03.759 | DM]",
+      "lineNumber": 102,
+      "originalText": "As you open the door to the room with the child, Monistheus, now fully transformed into a mushroom man, attacks, but dodging him, you step through and close the door behind you, and stand now in an utter darkness, in something darker than darkness, in the absence even of the possibility of color, or form, or light.",
+      "cleanedText": "As you open the door to the room with the child, Menestheus, now fully transformed into a mushroom man, attacks, but dodging him, you step through and close the door behind you, and stand now in an utter darkness, in something darker than darkness, in the absence even of the possibility of color, or form, or light."
+    },
+    {
+      "header": "[u0119 | 00:12:06.930-00:12:08.270 | Edric]",
+      "lineNumber": 119,
+      "originalText": "Edrek is…",
+      "cleanedText": "Edric is…"
+    },
+    {
+      "header": "[u0131 | 00:13:07.620-00:13:13.920 | Edric]",
+      "lineNumber": 131,
+      "originalText": "Pierre that maybe he wouldn't admit to is… does he… does he even know who the good guys and the bad guys are?",
+      "cleanedText": "Fear that maybe he wouldn't admit to is… does he… does he even know who the good guys and the bad guys are?"
+    },
+    {
+      "header": "[u0137 | 00:13:28.130-00:13:35.479 | DM]",
+      "lineNumber": 137,
+      "originalText": "breathe, break the prison and breed this creature and end the necromantic…",
+      "cleanedText": "free, break the prison and free this creature and end the necromantic…"
+    },
+    {
+      "header": "[u0144 | 00:14:01.010-00:14:05.279 | Kaito Min]",
+      "lineNumber": 144,
+      "originalText": "Cato has been such a rollercoaster this whole… this whole journey.",
+      "cleanedText": "Kaito has been such a rollercoaster this whole… this whole journey."
+    },
+    {
+      "header": "[u0148 | 00:14:21.320-00:14:35.839 | Kaito Min]",
+      "lineNumber": 148,
+      "originalText": "performing and getting, you know, some… or whatever, whatever kind of mercenary stuff that they've been doing, and the tricks and games. And there's something about this return to total blackness and the void that is hitting Cato.",
+      "cleanedText": "performing and getting, you know, some… or whatever, whatever kind of mercenary stuff that they've been doing, and the tricks and games. And there's something about this return to total blackness and the void that is hitting Kaito."
+    },
+    {
+      "header": "[u0151 | 00:14:46.470-00:14:54.189 | Kaito Min]",
+      "lineNumber": 151,
+      "originalText": "There's a certain way in which the material life and all the shit in Tolin and whatever, it just has all evaporated, and he has gone someplace, like, pretty…",
+      "cleanedText": "There's a certain way in which the material life and all the shit in Taelgar and whatever, it just has all evaporated, and he has gone someplace, like, pretty…"
+    },
+    {
+      "header": "[u0157 | 00:15:17.210-00:15:17.760 | DM]",
+      "lineNumber": 157,
+      "originalText": "Charlie?",
+      "cleanedText": "Txarro?"
+    },
+    {
+      "header": "[u0159 | 00:15:25.120-00:15:29.680 | Txarro]",
+      "lineNumber": 159,
+      "originalText": "Having just wild shape to escape.",
+      "cleanedText": "Having just wild shaped to escape."
+    },
+    {
+      "header": "[u0160 | 00:15:30.370-00:15:34.930 | Txarro]",
+      "lineNumber": 160,
+      "originalText": "The tentacle of… Manestheus.",
+      "cleanedText": "The tentacle of… Menestheus."
+    },
+    {
+      "header": "[u0165 | 00:15:58.100-00:16:09.879 | Txarro]",
+      "lineNumber": 165,
+      "originalText": "Possibly wishing that he were a tiger instead of a lizard at this moment, as he looks into the darkness, which is presumably unpenetrable even with darkvision.",
+      "cleanedText": "Possibly wishing that he were a tiger instead of a lizard at this moment, as he looks into the darkness, which is presumably impenetrable even with darkvision."
+    },
+    {
+      "header": "[u0168 | 00:16:33.660-00:16:36.260 | Ayveen]",
+      "lineNumber": 168,
+      "originalText": "Aveen had been feeling pretty good about",
+      "cleanedText": "Ayveen had been feeling pretty good about"
+    },
+    {
+      "header": "[u0174 | 00:17:11.109-00:17:22.470 | Ayveen]",
+      "lineNumber": 174,
+      "originalText": "see… how… Continuing to… Do good and help.",
+      "cleanedText": "To see… how… Continuing to… Do good and help."
+    },
+    {
+      "header": "[u0178 | 00:17:49.950-00:17:57.330 | DM]",
+      "lineNumber": 178,
+      "originalText": "tied to one of your backs is RA, the sort of a bust of a,",
+      "cleanedText": "tied to one of your backs is Aurae, the sort of a bust of a,"
+    },
+    {
+      "header": "[u0180 | 00:18:06.800-00:18:09.810 | DM]",
+      "lineNumber": 180,
+      "originalText": "But if RA has opinions on what's going on.",
+      "cleanedText": "But if Aurae has opinions on what's going on."
+    },
+    {
+      "header": "[u0184 | 00:18:25.750-00:18:27.340 | Kaito Min]",
+      "lineNumber": 184,
+      "originalText": "AKA Kato's best friend.",
+      "cleanedText": "AKA Kaito's best friend."
+    },
+    {
+      "header": "[u0195 | 00:19:15.690-00:19:20.719 | Edric]",
+      "lineNumber": 195,
+      "originalText": "EJ's gonna… Cast light.",
+      "cleanedText": "Edric's gonna… Cast light."
+    },
+    {
+      "header": "[u0201 | 00:19:45.280-00:19:54.559 | DM]",
+      "lineNumber": 201,
+      "originalText": "The spell spells, it's not like it's counterspelled, or unable to be cast, it's just when casting, no light is produced.",
+      "cleanedText": "The spell succeeds, it's not like it's counterspelled, or unable to be cast, it's just when casting, no light is produced."
+    },
+    {
+      "header": "[u0204 | 00:20:08.020-00:20:12.030 | Edric]",
+      "lineNumber": 204,
+      "originalText": "Because, like, it doesn't shine through couple, so it presumably.",
+      "cleanedText": "Because, like, it doesn't shine through cover, so it presumably."
+    },
+    {
+      "header": "[u0225 | 00:21:51.090-00:21:53.859 | DM]",
+      "lineNumber": 225,
+      "originalText": "space we're in. We feel grappy.",
+      "cleanedText": "space we're in. We feel gravity."
+    },
+    {
+      "header": "[u0226 | 00:21:54.050-00:21:55.420 | DM]",
+      "lineNumber": 226,
+      "originalText": "soybean…",
+      "cleanedText": "So Ayveen…"
+    },
+    {
+      "header": "[u0228 | 00:22:06.100-00:22:07.780 | Edric]",
+      "lineNumber": 228,
+      "originalText": "I assume we can hear a bean.",
+      "cleanedText": "I assume we can hear Ayveen."
+    },
+    {
+      "header": "[u0252 | 00:24:09.280-00:24:11.250 | Txarro]",
+      "lineNumber": 252,
+      "originalText": "As an Eve? Okay.",
+      "cleanedText": "As an eave? Okay."
+    },
+    {
+      "header": "[u0253 | 00:24:11.560-00:24:17.519 | DM]",
+      "lineNumber": 253,
+      "originalText": "Yeah, and Eve, that's not the substance of the wall itself, but the substance of that stuff.",
+      "cleanedText": "Yeah, an eave, that's not the substance of the wall itself, but the substance of that stuff."
+    },
+    {
+      "header": "[u0261 | 00:24:53.280-00:24:56.990 | Kaito Min]",
+      "lineNumber": 261,
+      "originalText": "Schwartz, I'll detect, The tech thoughts.",
+      "cleanedText": "Schwartz, I'll detect thoughts."
+    },
+    {
+      "header": "[u0280 | 00:26:12.380-00:26:14.519 | Tarek]",
+      "lineNumber": 280,
+      "originalText": "I said to just… what year before.",
+      "cleanedText": "I said it was just… one year before."
+    },
+    {
+      "header": "[u0281 | 00:26:16.340-00:26:17.930 | Tarek]",
+      "lineNumber": 281,
+      "originalText": "Of strange.",
+      "cleanedText": "Oh, strange."
+    },
+    {
+      "header": "[u0282 | 00:26:35.730-00:26:40.590 | Txarro]",
+      "lineNumber": 282,
+      "originalText": "Charles said again, I really think we just go talk to this creature, whatever it is.",
+      "cleanedText": "Txarro said again, I really think we just go talk to this creature, whatever it is."
+    },
+    {
+      "header": "[u0290 | 00:27:14.460-00:27:17.890 | DM]",
+      "lineNumber": 290,
+      "originalText": "You're able to use language and telepathic mind.",
+      "cleanedText": "A creature that is able to use language and has a telepathic mind."
+    },
+    {
+      "header": "[u0305 | 00:28:38.560-00:28:40.630 | DM]",
+      "lineNumber": 305,
+      "originalText": "There, being on the far side of the well.",
+      "cleanedText": "They're being on the far side of the well."
+    },
+    {
+      "header": "[u0307 | 00:28:52.250-00:28:56.270 | DM]",
+      "lineNumber": 307,
+      "originalText": "The well is being cured just… Where I am.",
+      "cleanedText": "The well is being here, just… Where I am."
+    },
+    {
+      "header": "[u0329 | 00:31:00.730-00:31:02.110 | Tarek]",
+      "lineNumber": 329,
+      "originalText": "You're at the Beaver Dam.",
+      "cleanedText": "You're like the beaver dam."
+    },
+    {
+      "header": "[u0341 | 00:32:11.450-00:32:16.110 | DM]",
+      "lineNumber": 341,
+      "originalText": "After you appreciate the dreams that you've had per company.",
+      "cleanedText": "Have you appreciated the dreams that you've had for company?"
+    },
+    {
+      "header": "[u0342 | 00:32:17.340-00:32:21.710 | Ayveen]",
+      "lineNumber": 342,
+      "originalText": "Would you let them go if you went to your home at the bottom of the bottom as well?",
+      "cleanedText": "Would you let them go if you went to your home at the bottom of the bottomless well?"
+    },
+    {
+      "header": "[u0353 | 00:34:05.610-00:34:07.410 | DM]",
+      "lineNumber": 353,
+      "originalText": "I like this always.",
+      "cleanedText": "I am like this always."
+    },
+    {
+      "header": "[u0382 | 00:36:45.750-00:36:46.770 | DM]",
+      "lineNumber": 382,
+      "originalText": "becomes…",
+      "cleanedText": "It comes…"
+    },
+    {
+      "header": "[u0383 | 00:36:46.800-00:36:48.189 | DM]",
+      "lineNumber": 383,
+      "originalText": "Down the road?",
+      "cleanedText": "down the road?"
+    },
+    {
+      "header": "[u0424 | 00:40:20.580-00:40:38.990 | DM]",
+      "lineNumber": 424,
+      "originalText": "And, Charles' investigation suggests that, like, it's almost like a root-bound plant that has grown to fill the entire space of its pot, except maybe a relatively small open area where you are now. But that's somewhere towards the back, towards the top, is the center of the thing itself.",
+      "cleanedText": "And, Txarro's investigation suggests that, like, it's almost like a root-bound plant that has grown to fill the entire space of its pot, except maybe a relatively small open area where you are now. But that's somewhere towards the back, towards the top, is the center of the thing itself."
+    },
+    {
+      "header": "[u0429 | 00:41:07.250-00:41:09.139 | DM]",
+      "lineNumber": 429,
+      "originalText": "Never hear the dark.",
+      "cleanedText": "Can everyone hear in the dark?"
+    },
+    {
+      "header": "[u0431 | 00:41:11.470-00:41:13.399 | Ayveen]",
+      "lineNumber": 431,
+      "originalText": "Yes, we hear you, jerk.",
+      "cleanedText": "Yes, we hear you, Eric."
+    },
+    {
+      "header": "[u0440 | 00:41:57.170-00:42:03.690 | DM]",
+      "lineNumber": 440,
+      "originalText": "Have the soul's wish to return… Or depart. Or die.",
+      "cleanedText": "All the souls wish to return… Or depart. Or die."
+    },
+    {
+      "header": "[u0441 | 00:42:05.240-00:42:08.600 | DM]",
+      "lineNumber": 441,
+      "originalText": "We'll see to function.",
+      "cleanedText": "will cease to function."
+    },
+    {
+      "header": "[u0450 | 00:42:55.580-00:42:56.889 | Ayveen]",
+      "lineNumber": 450,
+      "originalText": "Not someone, too.",
+      "cleanedText": "Not so much into."
+    },
+    {
+      "header": "[u0452 | 00:43:01.460-00:43:05.599 | DM]",
+      "lineNumber": 452,
+      "originalText": "So it has a natural place in existence. People can get involved.",
+      "cleanedText": "So it has a natural place in existence. People got involved."
+    },
+    {
+      "header": "[u0453 | 00:43:05.840-00:43:08.369 | DM]",
+      "lineNumber": 453,
+      "originalText": "Being a soul track.",
+      "cleanedText": "Became a soul trap."
+    },
+    {
+      "header": "[u0466 | 00:44:32.270-00:44:35.100 | Ayveen]",
+      "lineNumber": 466,
+      "originalText": "Hasn't quite enough to maintain 100%.",
+      "cleanedText": "Hasn't quite been enough to maintain 100%."
+    },
+    {
+      "header": "[u0467 | 00:44:35.360-00:44:41.609 | Ayveen]",
+      "lineNumber": 467,
+      "originalText": "The rate that mortals have been coming has been quite enough to maintain 100% prison structural integrity.",
+      "cleanedText": "The rate that mortals have been coming hasn't been quite enough to maintain 100% prison structural integrity."
+    },
+    {
+      "header": "[u0470 | 00:44:46.740-00:44:51.879 | Ayveen]",
+      "lineNumber": 470,
+      "originalText": "Our world, and… We're able to be servants, and they got…",
+      "cleanedText": "Our world, and… were able to be servants, and they got…"
+    },
+    {
+      "header": "[u0471 | 00:44:52.090-00:44:59.630 | Ayveen]",
+      "lineNumber": 471,
+      "originalText": "out into the Feywild, and we're able to be… Dangerous.",
+      "cleanedText": "out into the Feywild, and were able to be… Dangerous."
+    },
+    {
+      "header": "[u0474 | 00:45:12.410-00:45:15.040 | DM]",
+      "lineNumber": 474,
+      "originalText": "Kiddo asks…",
+      "cleanedText": "Kaito asks…"
+    },
+    {
+      "header": "[u0508 | 00:48:26.710-00:48:33.590 | Edric]",
+      "lineNumber": 508,
+      "originalText": "My teacher is, power beyond understanding.",
+      "cleanedText": "My teacher is a power beyond understanding."
+    },
+    {
+      "header": "[u0510 | 00:48:45.860-00:48:52.479 | Edric]",
+      "lineNumber": 510,
+      "originalText": "As we transition, From life to death, from death to death to life, and makes the night safe.",
+      "cleanedText": "As we transition, From life to death, from death to life, and makes the night safe."
+    },
+    {
+      "header": "[u0524 | 00:50:04.090-00:50:07.819 | DM]",
+      "lineNumber": 524,
+      "originalText": "Charo keeps glancing over at the… Bole in the floor.",
+      "cleanedText": "Txarro keeps glancing over at the… hole in the floor."
+    },
+    {
+      "header": "[u0530 | 00:50:34.820-00:50:37.320 | DM]",
+      "lineNumber": 530,
+      "originalText": "Oh, you think we could just… Gah who?",
+      "cleanedText": "Oh, you think we could just… go through?"
+    },
+    {
+      "header": "[u0532 | 00:50:46.040-00:50:47.409 | DM]",
+      "lineNumber": 532,
+      "originalText": "That isn't a guess.",
+      "cleanedText": "That is my guess."
+    },
+    {
+      "header": "[u0551 | 00:53:13.740-00:53:15.790 | Txarro]",
+      "lineNumber": 551,
+      "originalText": "I'm gonna look over at Katerman.",
+      "cleanedText": "I'm gonna look over at Kaito Min."
+    },
+    {
+      "header": "[u0554 | 00:53:30.330-00:53:31.899 | Edric]",
+      "lineNumber": 554,
+      "originalText": "No, we can't weep this.",
+      "cleanedText": "No, we can't leave this."
+    },
+    {
+      "header": "[u0563 | 00:54:03.660-00:54:04.830 | Edric]",
+      "lineNumber": 563,
+      "originalText": "Glad we can't leave.",
+      "cleanedText": "That's why we can't leave."
+    },
+    {
+      "header": "[u0564 | 00:54:12.530-00:54:17.419 | Ayveen]",
+      "lineNumber": 564,
+      "originalText": "When dreamers don't have bodies anymore… sorry, Kato, were you about to say something?",
+      "cleanedText": "When dreamers don't have bodies anymore… sorry, Kaito, were you about to say something?"
+    },
+    {
+      "header": "[u0599 | 00:58:05.150-00:58:06.130 | Ayveen]",
+      "lineNumber": 599,
+      "originalText": "Through the route.",
+      "cleanedText": "Through the root."
+    },
+    {
+      "header": "[u0602 | 00:58:31.370-00:58:34.820 | Tarek]",
+      "lineNumber": 602,
+      "originalText": "1551, I think?",
+      "cleanedText": "1351, I think?"
+    },
+    {
+      "header": "[u0605 | 00:58:51.140-00:58:52.580 | DM]",
+      "lineNumber": 605,
+      "originalText": "1851?",
+      "cleanedText": "1351?"
+    },
+    {
+      "header": "[u0608 | 00:59:04.210-00:59:05.080 | Tarek]",
+      "lineNumber": 608,
+      "originalText": "Panihaha.",
+      "cleanedText": "Funny, haha."
+    },
+    {
+      "header": "[u0610 | 00:59:16.820-00:59:18.109 | Kaito Min]",
+      "lineNumber": 610,
+      "originalText": "Who? Old Hoga?",
+      "cleanedText": "Who? Old Hulda?"
+    },
+    {
+      "header": "[u0611 | 00:59:19.810-00:59:21.540 | DM]",
+      "lineNumber": 611,
+      "originalText": "Old hull… holder.",
+      "cleanedText": "Old Hul… Hulda."
+    },
+    {
+      "header": "[u0616 | 00:59:49.110-00:59:53.129 | Edric]",
+      "lineNumber": 616,
+      "originalText": "I'm not sure if Egypt… well, no Egypt would have said that, well, just kill it.",
+      "cleanedText": "I'm not sure if Edric… well, no, Edric would have said that, well, just kill it."
+    },
+    {
+      "header": "[u0622 | 01:00:22.890-01:00:37.079 | DM]",
+      "lineNumber": 622,
+      "originalText": "And Ivine, you are helping your parents' dream drift home? And Charo, you are caring for a whole village. And Kato Min, you are not being adrift, you are going home. And Edric, you are not being in the world at all. You are at the gate, where your godmother stands.",
+      "cleanedText": "And Ayveen, you are helping your parents' dream drift home? And Txarro, you are caring for a whole village. And Kaito Min, you are not being adrift, you are going home. And Edric, you are not being in the world at all. You are at the gate, where your godmother stands."
+    },
+    {
+      "header": "[u0623 | 01:00:38.480-01:00:45.150 | DM]",
+      "lineNumber": 623,
+      "originalText": "In this possibility, Old Hulda is not getting deed for my bones.",
+      "cleanedText": "In this possibility, Old Hulda is not getting the deed for my bones."
+    },
+    {
+      "header": "[u0633 | 01:01:42.080-01:01:52.870 | DM]",
+      "lineNumber": 633,
+      "originalText": "But young man Holta is getting my deed, and my children are helping find you, and you are being here, and your dreams are confusing me, and I cannot see what they are doing.",
+      "cleanedText": "But young man Hulda is getting my deed, and my children are helping find you, and you are being here, and your dreams are confusing me, and I cannot see what they are doing."
+    },
+    {
+      "header": "[u0647 | 01:03:20.190-01:03:24.279 | Tarek]",
+      "lineNumber": 647,
+      "originalText": "Anteloops are hard to reason about.",
+      "cleanedText": "Time loops are hard to reason about."
+    },
+    {
+      "header": "[u0648 | 01:03:29.790-01:03:31.520 | Tarek]",
+      "lineNumber": 648,
+      "originalText": "Time limbs are hard to reason about.",
+      "cleanedText": "Time loops are hard to reason about."
+    },
+    {
+      "header": "[u0651 | 01:03:51.110-01:03:54.920 | DM]",
+      "lineNumber": 651,
+      "originalText": "Not that is with all of you specifically, but the fourth time",
+      "cleanedText": "Not that it is with all of you specifically, but the fourth time"
+    },
+    {
+      "header": "[u0654 | 01:04:07.750-01:04:11.570 | DM]",
+      "lineNumber": 654,
+      "originalText": "It's ambiguous whether all four of those were Holder or whether those four were different.",
+      "cleanedText": "It's ambiguous whether all four of those were Hulda or whether those four were different."
+    },
+    {
+      "header": "[u0659 | 01:04:19.110-01:04:21.729 | DM]",
+      "lineNumber": 659,
+      "originalText": "The fourth run, yeah. The fourth one that's good at a result, yeah.",
+      "cleanedText": "The fourth run, yeah. The fourth one that's got a result, yeah."
+    },
+    {
+      "header": "[u0660 | 01:04:22.460-01:04:24.489 | Kaito Min]",
+      "lineNumber": 660,
+      "originalText": "Olga's number 4, and there were 3 others.",
+      "cleanedText": "Hulda's number 4, and there were 3 others."
+    },
+    {
+      "header": "[u0662 | 01:04:35.750-01:04:44.239 | DM]",
+      "lineNumber": 662,
+      "originalText": "You want this to be the last time, we want this to be the last time, what do we do? E-Jake literally just says that out loud.",
+      "cleanedText": "You want this to be the last time, we want this to be the last time, what do we do? Edric literally just says that out loud."
+    },
+    {
+      "header": "[u0672 | 01:05:23.870-01:05:26.450 | DM]",
+      "lineNumber": 672,
+      "originalText": "I take things and I give them back away.",
+      "cleanedText": "I take things and I give them back right away."
+    },
+    {
+      "header": "[u0675 | 01:05:36.360-01:05:37.590 | DM]",
+      "lineNumber": 675,
+      "originalText": "I'm gonna challenge back, actually.",
+      "cleanedText": "I'm gonna challenge that, actually."
+    },
+    {
+      "header": "[u0705 | 01:08:11.180-01:08:12.330 | DM]",
+      "lineNumber": 705,
+      "originalText": "who's really.",
+      "cleanedText": "Who's ready."
+    },
+    {
+      "header": "[u0712 | 01:08:37.599-01:08:47.590 | DM]",
+      "lineNumber": 712,
+      "originalText": "the way Felestria did with Endless, or an allegory, like the allegories written for you, or…",
+      "cleanedText": "the way Thalestria did with Endless, or an allegory, like the allegories written for you, or…"
+    },
+    {
+      "header": "[u0723 | 01:09:22.050-01:09:27.349 | Txarro]",
+      "lineNumber": 723,
+      "originalText": "Charo, who has never told a persuasive or convincing story in his entire life.",
+      "cleanedText": "Txarro, who has never told a persuasive or convincing story in his entire life."
+    },
+    {
+      "header": "[u0725 | 01:09:44.529-01:09:48.850 | DM]",
+      "lineNumber": 725,
+      "originalText": "Arik reflects on the nature of… Taking…",
+      "cleanedText": "Tarek reflects on the nature of… Taking…"
+    },
+    {
+      "header": "[u0729 | 01:10:22.030-01:10:23.010 | DM]",
+      "lineNumber": 729,
+      "originalText": "Egypt.",
+      "cleanedText": "Edric."
+    },
+    {
+      "header": "[u0730 | 01:10:23.330-01:10:24.030 | DM]",
+      "lineNumber": 730,
+      "originalText": "Agent.",
+      "cleanedText": "Edric."
+    },
+    {
+      "header": "[u0732 | 01:10:27.620-01:10:29.640 | Edric]",
+      "lineNumber": 732,
+      "originalText": "But I think Egypt's gonna do this anyway.",
+      "cleanedText": "But I think Edric's gonna do this anyway."
+    },
+    {
+      "header": "[u0734 | 01:10:39.900-01:10:41.450 | Edric]",
+      "lineNumber": 734,
+      "originalText": "of what Energy would do.",
+      "cleanedText": "of what Edric would do."
+    },
+    {
+      "header": "[u0738 | 01:11:01.280-01:11:07.230 | DM]",
+      "lineNumber": 738,
+      "originalText": "Egypt wants to basically, convince him that he's…",
+      "cleanedText": "Edric wants to basically, convince him that he's…"
+    },
+    {
+      "header": "[u0749 | 01:11:34.860-01:11:42.240 | Edric]",
+      "lineNumber": 749,
+      "originalText": "I need to find a dot, but I'll… I'll tell… I can just roll on the… I can just roll on the team. So… so Egypt's story is kind of like… so, like, he…",
+      "cleanedText": "I need to find a dot, but I'll… I'll tell… I can just roll on the… I can just roll on the team. So… so Edric's story is kind of like… so, like, he…"
+    },
+    {
+      "header": "[u0750 | 01:11:42.530-01:11:51.280 | Edric]",
+      "lineNumber": 750,
+      "originalText": "he, like, raised to the Night Queen, and… and, like, well, we're still in pitch darkness, right? So you can't actually see him, but you can hear his prayer.",
+      "cleanedText": "he, like, prays to the Night Queen, and… and, like, well, we're still in pitch darkness, right? So you can't actually see him, but you can hear his prayer."
+    },
+    {
+      "header": "[u0754 | 01:12:14.130-01:12:20.910 | DM]",
+      "lineNumber": 754,
+      "originalText": "And he tells, in sort of short, Short, static words, like… that…",
+      "cleanedText": "And he tells, in sort of short, Short, staccato words, like… that…"
+    },
+    {
+      "header": "[u0758 | 01:12:36.890-01:12:39.770 | Edric]",
+      "lineNumber": 758,
+      "originalText": "passing their soul into Talgar.",
+      "cleanedText": "passing their soul into Taelgar."
+    },
+    {
+      "header": "[u0762 | 01:12:50.350-01:12:52.949 | Edric]",
+      "lineNumber": 762,
+      "originalText": "Egypt tells the story in, like, a very…",
+      "cleanedText": "Edric tells the story in, like, a very…"
+    },
+    {
+      "header": "[u0774 | 01:14:14.370-01:14:19.719 | DM]",
+      "lineNumber": 774,
+      "originalText": "And for each of you, we're gonna take your role with modifiers and sum it up, and if the collective",
+      "cleanedText": "And for each of you, we're gonna take your roll with modifiers and sum it up, and if the collective"
+    },
+    {
+      "header": "[u0786 | 01:15:01.110-01:15:04.579 | Edric]",
+      "lineNumber": 786,
+      "originalText": "Oh, everybody should have Barnick Inspirations. How many Barnik Inspirations do you guys have got?",
+      "cleanedText": "Oh, everybody should have bardic inspirations. How many bardic inspirations do you guys have got?"
+    },
+    {
+      "header": "[u0801 | 01:15:36.260-01:15:38.400 | Edric]",
+      "lineNumber": 801,
+      "originalText": "I was gonna say, do I have advantage because I'm regions?",
+      "cleanedText": "I was gonna say, do I have advantage because I'm raging?"
+    },
+    {
+      "header": "[u0811 | 01:16:13.030-01:16:13.770 | Edric]",
+      "lineNumber": 811,
+      "originalText": "AJ?",
+      "cleanedText": "Edric?"
+    },
+    {
+      "header": "[u0812 | 01:16:14.310-01:16:20.689 | Edric]",
+      "lineNumber": 812,
+      "originalText": "Normally, it's actually quite… normally Egypt comes out of rage, like, in the post-combat rush, and it's like…",
+      "cleanedText": "Normally, it's actually quite… normally Edric comes out of rage, like, in the post-combat rush, and it's like…"
+    },
+    {
+      "header": "[u0813 | 01:16:20.820-01:16:31.980 | Edric]",
+      "lineNumber": 813,
+      "originalText": "a queer transition, and so he kind of flows through a little bit more easily. Here, he just, he, like, sits down, but you'll see it, but he just kind of almost collapses, like, he feels…",
+      "cleanedText": "a quicker transition, and so he kind of flows through a little bit more easily. Here, he just, he, like, sits down, but you'll see it, but he just kind of almost collapses, like, he feels…"
+    },
+    {
+      "header": "[u0818 | 01:16:48.620-01:16:52.880 | Kaito Min]",
+      "lineNumber": 818,
+      "originalText": "Plates of Schwartz. We're telling a story, and then… and then how does this relate to the rolling?",
+      "cleanedText": "Wait, so, Schwartz. We're telling a story, and then… and then how does this relate to the rolling?"
+    },
+    {
+      "header": "[u0821 | 01:16:59.960-01:17:05.030 | DM]",
+      "lineNumber": 821,
+      "originalText": "But you gotta tell… the story has to be effective, or it won't give you the role.",
+      "cleanedText": "But you gotta tell… the story has to be effective, or it won't give you the roll."
+    },
+    {
+      "header": "[u0823 | 01:17:06.210-01:17:09.430 | DM]",
+      "lineNumber": 823,
+      "originalText": "And it's gotta be about lettuce, like, something that would convince him to let go of souls.",
+      "cleanedText": "And it's gotta be about, like, something that would convince him to let go of souls."
+    },
+    {
+      "header": "[u0831 | 01:17:31.340-01:17:39.519 | DM]",
+      "lineNumber": 831,
+      "originalText": "So… Kano Min… you can't see Kato Min, of course none of us can see fucking anything.",
+      "cleanedText": "So… Kaito Min… you can't see Kaito Min, of course none of us can see fucking anything."
+    },
+    {
+      "header": "[u0833 | 01:17:42.910-01:17:49.609 | DM]",
+      "lineNumber": 833,
+      "originalText": "Again, this… being here… being here in this moment has been, like, honestly, kind of a religious experience for Tato Man.",
+      "cleanedText": "Again, this… being here… being here in this moment has been, like, honestly, kind of a religious experience for Kaito Min."
+    },
+    {
+      "header": "[u0840 | 01:18:16.060-01:18:18.100 | Kaito Min]",
+      "lineNumber": 840,
+      "originalText": "And Kato's basically, like.",
+      "cleanedText": "And Kaito's basically, like."
+    },
+    {
+      "header": "[u0846 | 01:18:40.510-01:18:42.869 | Kaito Min]",
+      "lineNumber": 846,
+      "originalText": "Enter it. The one to show souls.",
+      "cleanedText": "And Tarek. The one to show souls."
+    },
+    {
+      "header": "[u0857 | 01:19:03.880-01:19:04.999 | DM]",
+      "lineNumber": 857,
+      "originalText": "and not return.",
+      "cleanedText": "and not returned."
+    },
+    {
+      "header": "[u0876 | 01:20:28.410-01:20:30.119 | Kaito Min]",
+      "lineNumber": 876,
+      "originalText": "Or taken or lost.",
+      "cleanedText": "were taken or lost."
+    },
+    {
+      "header": "[u0893 | 01:21:42.610-01:22:01.880 | DM]",
+      "lineNumber": 893,
+      "originalText": "The sense was almost that the attention or focus of the prisoner was to the souls that it was holding, and Cato, after your story, the sense is almost that it's thinking of its home, it's thinking of the place and the thing that it was before and maybe after what it is here.",
+      "cleanedText": "The sense was almost that the attention or focus of the prisoner was to the souls that it was holding, and Kaito, after your story, the sense is almost that it's thinking of its home, it's thinking of the place and the thing that it was before and maybe after what it is here."
+    },
+    {
+      "header": "[u0912 | 01:23:00.240-01:23:03.640 | Kaito Min]",
+      "lineNumber": 912,
+      "originalText": "I mean, it's still pretty good, what, from 1 to a third.",
+      "cleanedText": "I mean, it's still pretty good, what, from a 1 to a 13."
+    },
+    {
+      "header": "[u0918 | 01:23:13.150-01:23:14.580 | Txarro]",
+      "lineNumber": 918,
+      "originalText": "But a VIN can give you blood.",
+      "cleanedText": "But Ayveen can give you bardic."
+    },
+    {
+      "header": "[u0919 | 01:23:14.580-01:23:15.179 | Edric]",
+      "lineNumber": 919,
+      "originalText": "Spain can give.",
+      "cleanedText": "Ayveen can give—"
+    },
+    {
+      "header": "[u0963 | 01:26:50.690-01:26:53.010 | Tarek]",
+      "lineNumber": 963,
+      "originalText": "Wondering if maybe that could be my way out.",
+      "cleanedText": "Wonder if maybe that could be my way out."
+    },
+    {
+      "header": "[u0972 | 01:27:20.530-01:27:22.660 | Tarek]",
+      "lineNumber": 972,
+      "originalText": "the kids I run this.",
+      "cleanedText": "the kids I ran with."
+    },
+    {
+      "header": "[u0990 | 01:28:57.310-01:29:05.490 | Tarek]",
+      "lineNumber": 990,
+      "originalText": "at… I never saw that man again. I don't know if his child… Survived.",
+      "cleanedText": "And… I never saw that man again. I don't know if his child… Survived."
+    },
+    {
+      "header": "[u0995 | 01:29:32.140-01:29:34.470 | DM]",
+      "lineNumber": 995,
+      "originalText": "With the story of the entity…",
+      "cleanedText": "With the story, the entity…"
+    },
+    {
+      "header": "[u1004 | 01:30:29.090-01:30:30.320 | DM]",
+      "lineNumber": 1004,
+      "originalText": "Give her luck?",
+      "cleanedText": "Do you have luck?"
+    },
+    {
+      "header": "[u1008 | 01:30:37.980-01:30:42.319 | Edric]",
+      "lineNumber": 1008,
+      "originalText": "If you're human, you'd have a heroic if you haven't used it yet, because you get whatever you want, Rev.",
+      "cleanedText": "If you're human, you'd have a heroic if you haven't used it yet, because you get one every long rest."
+    },
+    {
+      "header": "[u1015 | 01:30:57.930-01:30:59.549 | Edric]",
+      "lineNumber": 1015,
+      "originalText": "I don't think you used Relic, though.",
+      "cleanedText": "I don't think you used heroic, though."
+    },
+    {
+      "header": "[u1017 | 01:31:02.420-01:31:07.460 | Edric]",
+      "lineNumber": 1017,
+      "originalText": "We all forget to tick it when we want rest as humans, because D&D brawn doesn't automatically do it.",
+      "cleanedText": "We all forget to tick it when we long rest as humans, because D&D Beyond doesn't automatically do it."
+    },
+    {
+      "header": "[u1023 | 01:31:27.210-01:31:28.230 | Edric]",
+      "lineNumber": 1023,
+      "originalText": "Adribartic?",
+      "cleanedText": "Add your bardic?"
+    },
+    {
+      "header": "[u1024 | 01:31:28.710-01:31:31.410 | Tarek]",
+      "lineNumber": 1024,
+      "originalText": "And that's… what's the… how much is the bardic? 86?",
+      "cleanedText": "And that's… what's the… how much is the bardic? A d6?"
+    },
+    {
+      "header": "[u1025 | 01:31:31.410-01:31:32.330 | Txarro]",
+      "lineNumber": 1025,
+      "originalText": "sex.",
+      "cleanedText": "Six."
+    },
+    {
+      "header": "[u1032 | 01:31:43.680-01:31:44.430 | Kaito Min]",
+      "lineNumber": 1032,
+      "originalText": "Kill that.",
+      "cleanedText": "Killed that."
+    },
+    {
+      "header": "[u1034 | 01:31:48.840-01:31:59.670 | Ayveen]",
+      "lineNumber": 1034,
+      "originalText": "18? Has been, you know, giving out her bardic inspiration by drumming along gently with",
+      "cleanedText": "Ayveen has been, you know, giving out her bardic inspiration by drumming along gently with"
+    },
+    {
+      "header": "[u1036 | 01:32:05.330-01:32:07.959 | Ayveen]",
+      "lineNumber": 1036,
+      "originalText": "And now she eats a little bit more…",
+      "cleanedText": "And now she beats a little bit more…"
+    },
+    {
+      "header": "[u1046 | 01:32:49.930-01:32:51.110 | DM]",
+      "lineNumber": 1046,
+      "originalText": "Aveen…",
+      "cleanedText": "Ayveen…"
+    },
+    {
+      "header": "[u1050 | 01:33:24.840-01:33:26.310 | DM]",
+      "lineNumber": 1050,
+      "originalText": "Hey, Lord.",
+      "cleanedText": "A fey lord."
+    },
+    {
+      "header": "[u1076 | 01:35:28.630-01:35:30.700 | Ayveen]",
+      "lineNumber": 1076,
+      "originalText": "And are knowing that they are…",
+      "cleanedText": "And our knowing that they are…"
+    },
+    {
+      "header": "[u1111 | 01:38:41.720-01:38:48.060 | Ayveen]",
+      "lineNumber": 1111,
+      "originalText": "Elven Bartic colleague… Is another 3, so 26.",
+      "cleanedText": "Elven bardic colleague… Is another 3, so 26."
+    },
+    {
+      "header": "[u1117 | 01:39:08.000-01:39:09.079 | Ayveen]",
+      "lineNumber": 1117,
+      "originalText": "I'm the handgun.",
+      "cleanedText": "On the hand drum."
+    },
+    {
+      "header": "[u1120 | 01:39:20.500-01:39:23.619 | Txarro]",
+      "lineNumber": 1120,
+      "originalText": "Looks up as Aveen finishes.",
+      "cleanedText": "Looks up as Ayveen finishes."
+    },
+    {
+      "header": "[u1121 | 01:39:24.710-01:39:28.800 | Txarro]",
+      "lineNumber": 1121,
+      "originalText": "Her tail. And you can see that he's, like, kinda…",
+      "cleanedText": "Her tale. And you can see that he's, like, kinda…"
+    },
+    {
+      "header": "[u1122 | 01:39:29.640-01:39:32.489 | Txarro]",
+      "lineNumber": 1122,
+      "originalText": "Inflicted or despairing a little bit, like…",
+      "cleanedText": "Conflicted or despairing a little bit, like…"
+    },
+    {
+      "header": "[u1140 | 01:41:00.810-01:41:07.640 | Txarro]",
+      "lineNumber": 1140,
+      "originalText": "And those of you who know Charo don't really recognize him anymore. It's almost as if he's possessed.",
+      "cleanedText": "And those of you who know Txarro don't really recognize him anymore. It's almost as if he's possessed."
+    },
+    {
+      "header": "[u1143 | 01:41:20.260-01:41:23.310 | Txarro]",
+      "lineNumber": 1143,
+      "originalText": "This is the story of the lizardfolk Charo.",
+      "cleanedText": "This is the story of the lizardfolk Txarro."
+    },
+    {
+      "header": "[u1145 | 01:41:27.030-01:41:28.600 | Txarro]",
+      "lineNumber": 1145,
+      "originalText": "And Billy did.",
+      "cleanedText": "But we did."
+    },
+    {
+      "header": "[u1146 | 01:41:30.090-01:41:39.199 | Txarro]",
+      "lineNumber": 1146,
+      "originalText": "And the voice of Char begins speaking and tells the story of… A young man.",
+      "cleanedText": "And the voice of Txarro begins speaking and tells the story of… A young man."
+    },
+    {
+      "header": "[u1149 | 01:41:44.150-01:41:48.630 | Txarro]",
+      "lineNumber": 1149,
+      "originalText": "Lizard spoke villages, the ancestor explains to this…",
+      "cleanedText": "Lizardfolk villages, the ancestor explains to this…"
+    },
+    {
+      "header": "[u1153 | 01:42:16.750-01:42:31.089 | Txarro]",
+      "lineNumber": 1153,
+      "originalText": "And the voice continues staying, huh, while many thrive growing into the weave and vines of these nets that make the village strong and whole.",
+      "cleanedText": "And the voice continues, saying how, while many thrive growing into the weave and vines of these nets that make the village strong and whole."
+    },
+    {
+      "header": "[u1154 | 01:42:32.380-01:42:34.609 | Txarro]",
+      "lineNumber": 1154,
+      "originalText": "Chara was trapped.",
+      "cleanedText": "Txarro was trapped."
+    },
+    {
+      "header": "[u1165 | 01:43:36.010-01:43:38.150 | Txarro]",
+      "lineNumber": 1165,
+      "originalText": "As there was no longer Charo.",
+      "cleanedText": "Was that there was no longer Txarro."
+    },
+    {
+      "header": "[u1170 | 01:43:52.900-01:43:54.199 | Txarro]",
+      "lineNumber": 1170,
+      "originalText": "strict tourism.",
+      "cleanedText": "The strictures of"
+    },
+    {
+      "header": "[u1180 | 01:44:39.710-01:44:42.340 | Txarro]",
+      "lineNumber": 1180,
+      "originalText": "And Chara's eyes open, and he sort of blinks.",
+      "cleanedText": "And Txarro's eyes open, and he sort of blinks."
+    },
+    {
+      "header": "[u1182 | 01:44:54.050-01:44:56.940 | Kaito Min]",
+      "lineNumber": 1182,
+      "originalText": "Kato's like, that was really good.",
+      "cleanedText": "Kaito's like, that was really good."
+    },
+    {
+      "header": "[u1184 | 01:44:58.880-01:45:01.069 | Tarek]",
+      "lineNumber": 1184,
+      "originalText": "You did well, Charo. You did well.",
+      "cleanedText": "You did well, Txarro. You did well."
+    },
+    {
+      "header": "[u1204 | 01:46:48.920-01:46:51.229 | DM]",
+      "lineNumber": 1204,
+      "originalText": "Containing a something inside it.",
+      "cleanedText": "Containing something inside it."
+    },
+    {
+      "header": "[u1208 | 01:47:08.090-01:47:11.850 | DM]",
+      "lineNumber": 1208,
+      "originalText": "Let's go of the hundred souls it held.",
+      "cleanedText": "Lets go of the hundred souls it held."
+    },
+    {
+      "header": "[u1209 | 01:47:12.080-01:47:15.529 | DM]",
+      "lineNumber": 1209,
+      "originalText": "And lets them send onward, and they flow.",
+      "cleanedText": "And lets them speed onward, and they flow."
+    },
+    {
+      "header": "[u1214 | 01:47:37.660-01:47:40.730 | DM]",
+      "lineNumber": 1214,
+      "originalText": "A ray opens its mouth and its eyes.",
+      "cleanedText": "Aurae opens its mouth and its eyes."
+    },
+    {
+      "header": "[u1226 | 01:48:47.900-01:49:03.540 | DM]",
+      "lineNumber": 1226,
+      "originalText": "In its roots, the size of elephants are alive and writhing like slugs, like pale leeches exposed to the light, terrified, unthinking, reaching through the boundaries of the multiverse like living and clawed things.",
+      "cleanedText": "Its roots, the size of elephants, are alive and writhing like slugs, like pale leeches exposed to the light, terrified, unthinking, reaching through the boundaries of the multiverse like living and clawed things."
+    },
+    {
+      "header": "[u1246 | 01:51:11.820-01:51:17.680 | DM]",
+      "lineNumber": 1246,
+      "originalText": "That's where we'll end, and I… I have a closing… Montage 2.",
+      "cleanedText": "That's where we'll end, and I… I have a closing… montage, too."
+    },
+    {
+      "header": "[u1248 | 01:51:20.920-01:51:27.790 | DM]",
+      "lineNumber": 1248,
+      "originalText": "conversation or business up among the five of you. I don't want to cut it off without… if there's anything that needs…",
+      "cleanedText": "conversation or business among the five of you. I don't want to cut it off without… if there's anything that needs…"
+    },
+    {
+      "header": "[u1265 | 01:53:19.090-01:53:25.090 | DM]",
+      "lineNumber": 1265,
+      "originalText": "Through, just as you can see the glass tanks shaking and the houses destroyed.",
+      "cleanedText": "Through it, just as you can see the glass tanks shaking and the house is destroyed."
+    },
+    {
+      "header": "[u1267 | 01:53:41.940-01:53:57.510 | DM]",
+      "lineNumber": 1267,
+      "originalText": "And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Calypses, now wizard head of Erythramos lamparum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight.",
+      "cleanedText": "And as the room around her shakes, as pieces of the ceiling begin to fall to the floor, Kallipseis, now wizard head of Arithrimos Lamperum in a golem body, consults a book filled with long lists of six-digit numbers and blinks out of sight."
+    },
+    {
+      "header": "[u1271 | 01:54:22.140-01:54:23.600 | DM]",
+      "lineNumber": 1271,
+      "originalText": "and size.",
+      "cleanedText": "and sighs."
+    },
+    {
+      "header": "[u1282 | 01:55:42.800-01:55:49.060 | DM]",
+      "lineNumber": 1282,
+      "originalText": "And in the upper room of the dark house, the Lord of the ended revel looks out a high window.",
+      "cleanedText": "And in the upper room of the dark house, the Lord of the Ended Revel looks out a high window."
+    },
+    {
+      "header": "[u1289 | 01:56:11.350-01:56:12.180 | DM]",
+      "lineNumber": 1289,
+      "originalText": "That's where we'll live in.",
+      "cleanedText": "That's where we'll leave it."
+    },
+    {
+      "header": "[u1293 | 01:56:29.530-01:56:30.230 | Ayveen]",
+      "lineNumber": 1293,
+      "originalText": "Hey, wild.",
+      "cleanedText": "Feywild."
+    },
+    {
+      "header": "[u1308 | 01:57:05.420-01:57:06.909 | DM]",
+      "lineNumber": 1308,
+      "originalText": "I… anything I do, actually.",
+      "cleanedText": "I… I think I do, actually."
+    },
+    {
+      "header": "[u1311 | 01:57:20.180-01:57:23.240 | Txarro]",
+      "lineNumber": 1311,
+      "originalText": "Arm Realm entity crashed into Telgo.",
+      "cleanedText": "Far Realm entity crashed into Taelgar."
+    },
+    {
+      "header": "[u1315 | 01:57:28.460-01:57:29.440 | Txarro]",
+      "lineNumber": 1315,
+      "originalText": "Lian Realm.",
+      "cleanedText": "Far Realm."
+    },
+    {
+      "header": "[u1325 | 01:58:06.150-01:58:07.920 | Txarro]",
+      "lineNumber": 1325,
+      "originalText": "No, the rhythm…",
+      "cleanedText": "No, the Arithrimos…"
+    },
+    {
+      "header": "[u1326 | 01:58:07.920-01:58:08.639 | Edric]",
+      "lineNumber": 1326,
+      "originalText": "They're remiss, man.",
+      "cleanedText": "Arithrimos Lamperum."
+    },
+    {
+      "header": "[u1327 | 01:58:08.640-01:58:10.890 | Txarro]",
+      "lineNumber": 1327,
+      "originalText": "Bancroine Society.",
+      "cleanedText": "Drankorian society."
+    },
+    {
+      "header": "[u1328 | 01:58:10.890-01:58:11.340 | Edric]",
+      "lineNumber": 1328,
+      "originalText": "Crap.",
+      "cleanedText": "Trapped."
+    },
+    {
+      "header": "[u1336 | 01:58:50.820-01:58:51.370 | Tarek]",
+      "lineNumber": 1336,
+      "originalText": "Resilience.",
+      "cleanedText": "The Riven Veil."
+    },
+    {
+      "header": "[u1337 | 01:58:51.370-01:58:57.300 | Edric]",
+      "lineNumber": 1337,
+      "originalText": "I actually looked up the book, and I saw it was about the fire realms, but I didn't put two and two together.",
+      "cleanedText": "I actually looked up the book, and I saw it was about the Far Realms, but I didn't put two and two together."
+    },
+    {
+      "header": "[u1338 | 01:58:58.530-01:59:03.449 | Edric]",
+      "lineNumber": 1338,
+      "originalText": "The far round makes more canonical sense than the Feywild, for sure.",
+      "cleanedText": "The Far Realm makes more canonical sense than the Feywild, for sure."
+    },
+    {
+      "header": "[u1340 | 01:59:06.390-01:59:13.830 | Txarro]",
+      "lineNumber": 1340,
+      "originalText": "No, I knew it was far around from, like, session 3 or something. The first time we got the prisoner.",
+      "cleanedText": "No, I knew it was Far Realm from, like, session 3 or something. The first time we got the prisoner."
+    },
+    {
+      "header": "[u1341 | 01:59:14.980-01:59:18.060 | Txarro]",
+      "lineNumber": 1341,
+      "originalText": "One of the journals was clearly Far Rome.",
+      "cleanedText": "One of the journals was clearly Far Realm."
+    },
+    {
+      "header": "[u1344 | 01:59:33.370-01:59:35.770 | Edric]",
+      "lineNumber": 1344,
+      "originalText": "Schwartz has been mined every bit of it.",
+      "cleanedText": "Schwartz has been mining every bit of it."
+    },
+    {
+      "header": "[u1345 | 01:59:35.770-01:59:40.990 | Txarro]",
+      "lineNumber": 1345,
+      "originalText": "cosmology section of Taldarverse, which is incredibly satisfying.",
+      "cleanedText": "cosmology section of Taelgarverse, which is incredibly satisfying."
+    },
+    {
+      "header": "[u1348 | 02:00:00.540-02:00:02.450 | Txarro]",
+      "lineNumber": 1348,
+      "originalText": "called. Sold.",
+      "cleanedText": "called souls…"
+    },
+    {
+      "header": "[u1352 | 02:00:10.220-02:00:15.700 | Edric]",
+      "lineNumber": 1352,
+      "originalText": "But, so, Endlessly Ending was… Right.",
+      "cleanedText": "But, so, Endless Ending was… Right."
+    },
+    {
+      "header": "[u1362 | 02:00:42.990-02:00:53.520 | Txarro]",
+      "lineNumber": 1362,
+      "originalText": "But once the… Once the, the erythrovirus…",
+      "cleanedText": "But once the… Once the, the Arithrimos Lamperum…"
+    },
+    {
+      "header": "[u1381 | 02:01:48.880-02:01:52.979 | Edric]",
+      "lineNumber": 1381,
+      "originalText": "I mean, the firearms are canonically plural, there's not just one. Right.",
+      "cleanedText": "I mean, the Far Realms are canonically plural, there's not just one. Right."
+    },
+    {
+      "header": "[u1387 | 02:02:02.930-02:02:21.500 | Txarro]",
+      "lineNumber": 1387,
+      "originalText": "Nicole Ardwin's theory of the University of Toland that good and evil are not the right metrics to judge such alien realms, in her seminal work, The Exposition of the Alien Mind, she argued that some of the far realms that are home to beings who, if they could only be communicated, could bring much new knowledge to the world.",
+      "cleanedText": "Nicole Ardouin's theory of the University of Tollen that good and evil are not the right metrics to judge such alien realms, in her seminal work, The Exposition of the Alien Mind, she argued that some of the Far Realms that are home to beings who, if they could only be communicated with, could bring much new knowledge to the world."
+    },
+    {
+      "header": "[u1394 | 02:02:34.290-02:02:42.059 | Txarro]",
+      "lineNumber": 1394,
+      "originalText": "Intellectual history of… No, it's in… it's in Telgarverse, the Intellectual History of Cosmology in Telgar.",
+      "cleanedText": "Intellectual history of… No, it's in… it's in Taelgarverse, the Intellectual History of Cosmology in Taelgar."
+    },
+    {
+      "header": "[u1401 | 02:02:54.660-02:02:59.089 | Txarro]",
+      "lineNumber": 1401,
+      "originalText": "I told you, Schwartz is mining the deep cuts from Tago purse.",
+      "cleanedText": "I told you, Schwartz is mining the deep cuts from Taelgarverse."
+    },
+    {
+      "header": "[u1412 | 02:03:41.950-02:03:49.199 | Edric]",
+      "lineNumber": 1412,
+      "originalText": "Let Marches of Edward in there, because I have a Far Realms thing planned in my game. But it could be a different,",
+      "cleanedText": "The Marches of Enford in there, because I have a Far Realms thing planned in my game. But it could be a different,"
+    },
+    {
+      "header": "[u1413 | 02:03:49.550-02:03:54.749 | Edric]",
+      "lineNumber": 1413,
+      "originalText": "It's nowhere close… Martian Bankford is nowhere close to you. You put that Easter egg in for me, because I told you to.",
+      "cleanedText": "It's nowhere close… Marches of Enford is nowhere close to you. You put that Easter egg in for me, because I told you to."
+    },
+    {
+      "header": "[u1415 | 02:03:56.170-02:03:59.580 | Edric]",
+      "lineNumber": 1415,
+      "originalText": "But, there's other Fire Realms people.",
+      "cleanedText": "But, there's other Far Realms people."
+    },
+    {
+      "header": "[u1416 | 02:03:59.580-02:04:07.709 | Txarro]",
+      "lineNumber": 1416,
+      "originalText": "The Ardrum Deepseeker, who wrote the other far-round book I invented, also mysteriously vanished.",
+      "cleanedText": "Thardrum Deepseeker, who wrote the other Far Realm book I invented, also mysteriously vanished."
+    },
+    {
+      "header": "[u1417 | 02:04:09.380-02:04:15.139 | Txarro]",
+      "lineNumber": 1417,
+      "originalText": "So maybe he was one of the dwarves. Anyway, the Anthropomoros lampirum",
+      "cleanedText": "So maybe he was one of the dwarves. Anyway, the Arithrimos Lamperum"
+    },
+    {
+      "header": "[u1444 | 02:06:17.470-02:06:28.770 | Txarro]",
+      "lineNumber": 1444,
+      "originalText": "Drancor… for the fall of the Drancorian Empire that I wrote for the circular… for the Apollyon arc, which includes when he, like, consolidated power and…",
+      "cleanedText": "Drankor… for the fall of the Drankorian Empire that I wrote for South Cymea… for the Apollyon arc, which includes when he, like, consolidated power and…"
+    },
+    {
+      "header": "[u1445 | 02:06:29.780-02:06:36.550 | DM]",
+      "lineNumber": 1445,
+      "originalText": "And you all didn't get the exact date, but you did, from Menisthees, get the,",
+      "cleanedText": "And you all didn't get the exact date, but you did, from Menestheus, get the,"
+    },
+    {
+      "header": "[u1451 | 02:06:52.830-02:06:54.690 | Edric]",
+      "lineNumber": 1451,
+      "originalText": "Sure, it's sick.",
+      "cleanedText": "Sure, it's secret."
+    },
+    {
+      "header": "[u1455 | 02:07:11.260-02:07:22.589 | Txarro]",
+      "lineNumber": 1455,
+      "originalText": "So then, the order was disbanded. They had to establish a new way to keep the prison moving. So that's when they made the… they tricked the Faey lord into sending mortals.",
+      "cleanedText": "So then, the order was disbanded. They had to establish a new way to keep the prison moving. So that's when they made the… they tricked the fey lord into sending mortals."
+    },
+    {
+      "header": "[u1459 | 02:07:32.150-02:07:35.759 | Kaito Min]",
+      "lineNumber": 1459,
+      "originalText": "What the hell was going on with Holga in the fourth iteration, that whole thing?",
+      "cleanedText": "What the hell was going on with Hulda in the fourth iteration, that whole thing?"
+    },
+    {
+      "header": "[u1470 | 02:08:03.930-02:08:13.910 | Txarro]",
+      "lineNumber": 1470,
+      "originalText": "the central room in the prison was always at a rant… pointing to a random time back in Telgar. But… some of them presumably attempted to…",
+      "cleanedText": "the central room in the prison was always at a random… pointing to a random time back in Taelgar. But… some of them presumably attempted to…"
+    },
+    {
+      "header": "[u1474 | 02:08:31.360-02:08:37.960 | Txarro]",
+      "lineNumber": 1474,
+      "originalText": "get people back to free the entity, or at least interact with the entity, and Holda…",
+      "cleanedText": "get people back to free the entity, or at least interact with the entity, and Hulda…"
+    },
+    {
+      "header": "[u1475 | 02:08:38.270-02:08:44.550 | Txarro]",
+      "lineNumber": 1475,
+      "originalText": "showed up in 1351 Sambara. Sambara didn't exist at that point, actually.",
+      "cleanedText": "showed up in 1351 Sembara. Sembara didn't exist at that point, actually."
+    },
+    {
+      "header": "[u1476 | 02:08:45.320-02:08:47.830 | Txarro]",
+      "lineNumber": 1476,
+      "originalText": "But the ducks didn't tell him dead.",
+      "cleanedText": "But the Duchy of Tellim did."
+    },
+    {
+      "header": "[u1477 | 02:08:48.530-02:08:52.599 | Txarro]",
+      "lineNumber": 1477,
+      "originalText": "Tembarn as a language existed. He…",
+      "cleanedText": "Sembaran as a language existed. He…"
+    },
+    {
+      "header": "[u1496 | 02:10:06.480-02:10:07.080 | Tarek]",
+      "lineNumber": 1496,
+      "originalText": "outage.",
+      "cleanedText": "odd."
+    },
+    {
+      "header": "[u1498 | 02:10:09.710-02:10:15.080 | Txarro]",
+      "lineNumber": 1498,
+      "originalText": "Because he had learned modern Sambara, Sambarin in 1750, or 1750.",
+      "cleanedText": "Because he had learned modern Sembara, Sembaran in 1740, or 1740."
+    },
+    {
+      "header": "[u1499 | 02:10:15.080-02:10:15.690 | Tarek]",
+      "lineNumber": 1499,
+      "originalText": "1940.",
+      "cleanedText": "1740."
+    },
+    {
+      "header": "[u1500 | 02:10:16.090-02:10:25.519 | Txarro]",
+      "lineNumber": 1500,
+      "originalText": "So the deed that was 400 years old should have been written in a more archaic language, but wasn't. Right. Because it, in fact, was a time traveler who broke it. Right.",
+      "cleanedText": "So the deed that was 400 years old should have been written in a more archaic language, but wasn't. Right. Because it, in fact, was a time traveler who wrote it. Right."
+    },
+    {
+      "header": "[u1506 | 02:10:41.730-02:10:52.080 | Edric]",
+      "lineNumber": 1506,
+      "originalText": "archaic, and it's like, you know, it says this is in the court of the Duchy of Tellum, and doesn't mention Sambara, when it should have been in the court of Sambara, or something like that. Like, it would have had the wrong…",
+      "cleanedText": "archaic, and it's like, you know, it says this is in the court of the Duchy of Tellim, and doesn't mention Sembara, when it should have been in the court of Sembara, or something like that. Like, it would have had the wrong…"
+    },
+    {
+      "header": "[u1509 | 02:10:58.110-02:11:00.450 | Edric]",
+      "lineNumber": 1509,
+      "originalText": "But that savar didn't actually exist, if you know yet.",
+      "cleanedText": "But Sembara didn't actually exist, if you know yet."
+    },
+    {
+      "header": "[u1510 | 02:11:00.450-02:11:07.870 | Txarro]",
+      "lineNumber": 1510,
+      "originalText": "Didn't exist 400 years ago, so the legal language of the deed would have been wrong for 1752.",
+      "cleanedText": "Didn't exist 400 years ago, so the legal language of the deed would have been wrong for 1352."
+    },
+    {
+      "header": "[u1511 | 02:11:07.870-02:11:09.090 | Kaito Min]",
+      "lineNumber": 1511,
+      "originalText": "Alright, Troy.",
+      "cleanedText": "Alright, true."
+    },
+    {
+      "header": "[u1522 | 02:11:55.050-02:11:58.730 | DM]",
+      "lineNumber": 1522,
+      "originalText": "You're… you're confirming they're not a Drancorian secret society.",
+      "cleanedText": "You're… you're confirming they're not a Drankorian secret society."
+    },
+    {
+      "header": "[u1532 | 02:12:34.510-02:12:35.980 | Txarro]",
+      "lineNumber": 1532,
+      "originalText": "Canonautical, in fact.",
+      "cleanedText": "Canonical, in fact."
+    },
+    {
+      "header": "[u1540 | 02:13:39.890-02:13:46.659 | DM]",
+      "lineNumber": 1540,
+      "originalText": "the first couple of souls that it ate were members of the Earthra Muslim harem who were tracing",
+      "cleanedText": "the first couple of souls that it ate were members of the Arithrimos Lamperum who were tracing"
+    },
+    {
+      "header": "[u1549 | 02:14:31.540-02:14:32.290 | Tarek]",
+      "lineNumber": 1549,
+      "originalText": "It's a concert.",
+      "cleanedText": "It's a constant."
+    },
+    {
+      "header": "[u1550 | 02:14:32.290-02:14:36.729 | DM]",
+      "lineNumber": 1550,
+      "originalText": "be trimming those, otherwise it would grow, keep on growing across the plains.",
+      "cleanedText": "be trimming those, otherwise it would grow, keep on growing across the planes."
+    },
+    {
+      "header": "[u1561 | 02:15:27.990-02:15:31.449 | Edric]",
+      "lineNumber": 1561,
+      "originalText": "But was it also a polyod prison, kind of a similar mechanism?",
+      "cleanedText": "But was it also an Apollyon prison, kind of a similar mechanism?"
+    },
+    {
+      "header": "[u1565 | 02:15:35.750-02:15:41.039 | Txarro]",
+      "lineNumber": 1565,
+      "originalText": "Was a similar mechanism, except it was the reverse, the soles getting out.",
+      "cleanedText": "Was a similar mechanism, except it was the reverse, the souls getting out."
+    },
+    {
+      "header": "[u1575 | 02:16:07.010-02:16:11.410 | Txarro]",
+      "lineNumber": 1575,
+      "originalText": "But it just somehow totally feels completely Talgar-y.",
+      "cleanedText": "But it just somehow totally feels completely Taelgar-y."
+    },
+    {
+      "header": "[u1581 | 02:16:35.690-02:16:44.869 | Edric]",
+      "lineNumber": 1581,
+      "originalText": "Do you envision Endlessly Ending as… is this all his realm? Like, is he the lord of this realm, or is he, like, one of many in this, like…",
+      "cleanedText": "Do you envision Endless Ending as… is this all his realm? Like, is he the lord of this realm, or is he, like, one of many in this, like…"
+    },
+    {
+      "header": "[u1586 | 02:17:17.649-02:17:27.649 | DM]",
+      "lineNumber": 1586,
+      "originalText": "like, the people who rule each of the… who run each of those, are no less powerful than a Theylord is in their domain, it's just that it's very small.",
+      "cleanedText": "like, the people who rule each of the… who run each of those, are no less powerful than a fey lord is in their domain, it's just that it's very small."
+    },
+    {
+      "header": "[u1589 | 02:17:32.569-02:17:35.509 | DM]",
+      "lineNumber": 1589,
+      "originalText": "You know, in Endlessly Endings case, a little bit more, yeah.",
+      "cleanedText": "You know, in Endless Ending's case, a little bit more, yeah."
+    },
+    {
+      "header": "[u1590 | 02:17:36.530-02:17:42.680 | Txarro]",
+      "lineNumber": 1590,
+      "originalText": "Though I have it set up in Talgar verses, Lord Endlessly Ending is the Lord of Lord Endlessly Ending's manner.",
+      "cleanedText": "Though I have it set up in Taelgarverse, Lord Endless Ending is the Lord of Lord Endless Ending's manor."
+    },
+    {
+      "header": "[u1596 | 02:17:55.660-02:17:59.040 | DM]",
+      "lineNumber": 1596,
+      "originalText": "fairness, he no longer is Lord Endless Ending.",
+      "cleanedText": "In fairness, he no longer is Lord Endless Ending."
+    },
+    {
+      "header": "[u1597 | 02:17:59.049-02:17:59.999 | Edric]",
+      "lineNumber": 1597,
+      "originalText": "That was the Lord.",
+      "cleanedText": "Now he's the Lord."
+    },
+    {
+      "header": "[u1598 | 02:18:00.000-02:18:02.520 | DM]",
+      "lineNumber": 1598,
+      "originalText": "ended rebel who lives in his manor.",
+      "cleanedText": "of the Ended Revel who lives in his manor."
+    },
+    {
+      "header": "[u1600 | 02:18:07.459-02:18:25.579 | DM]",
+      "lineNumber": 1600,
+      "originalText": "Oh, oh, yeah. So, okay. So, alright, so the order dissolves, the ending gets tricked to sending people, the souls are the motive power that moves it, but the people, you know, spinning the thing are what keeps the entity from being able to see into the future. And at a certain point.",
+      "cleanedText": "Oh, oh, yeah. So, okay. So, alright, so the order dissolves, Endless Ending gets tricked into sending people, the souls are the motive power that moves it, but the people, you know, spinning the thing are what keeps the entity from being able to see into the future. And at a certain point."
+    },
+    {
+      "header": "[u1616 | 02:20:25.690-02:20:32.559 | DM]",
+      "lineNumber": 1616,
+      "originalText": "What would have happened is, Endless Landing would have stopped sending souls, the prison would have fallen apart.",
+      "cleanedText": "What would have happened is, Endless Ending would have stopped sending souls, the prison would have fallen apart."
+    },
+    {
+      "header": "[u1621 | 02:20:41.200-02:20:42.719 | Kaito Min]",
+      "lineNumber": 1621,
+      "originalText": "Why would it become a spore form?",
+      "cleanedText": "Why would it become a horror form?"
+    },
+    {
+      "header": "[u1630 | 02:21:16.640-02:21:28.599 | DM]",
+      "lineNumber": 1630,
+      "originalText": "And this is the thing, from that perspective, that's why Thelestria cared so much about keeping the prison going. Like, that's why Ministheus was so dedicated to the order.",
+      "cleanedText": "And this is the thing, from that perspective, that's why Thalestria cared so much about keeping the prison going. Like, that's why Menestheus was so dedicated to the order."
+    },
+    {
+      "header": "[u1633 | 02:21:39.500-02:21:46.660 | Txarro]",
+      "lineNumber": 1633,
+      "originalText": "Charo, I think, very str… I mean, happy to have been pushed by…",
+      "cleanedText": "Txarro, I think, very str… I mean, happy to have been pushed by…"
+    },
+    {
+      "header": "[u1634 | 02:21:47.270-02:21:52.670 | Txarro]",
+      "lineNumber": 1634,
+      "originalText": "Plato mostly, I guess, an Edric, convinced that the prisoner was good.",
+      "cleanedText": "Kaito mostly, I guess, and Edric, convinced that the prisoner was good."
+    },
+    {
+      "header": "[u1635 | 02:21:53.220-02:21:59.749 | Txarro]",
+      "lineNumber": 1635,
+      "originalText": "in the last session, Charo really basically wanted to take the key back to Lord of the Endlessly ending.",
+      "cleanedText": "in the last session, Txarro really basically wanted to take the key back to Lord Endless Ending."
+    },
+    {
+      "header": "[u1636 | 02:22:02.200-02:22:06.629 | Txarro]",
+      "lineNumber": 1636,
+      "originalText": "But I don't know what would have hopped, like… What would have happened?",
+      "cleanedText": "But I don't know what would have happened, like… What would have happened?"
+    },
+    {
+      "header": "[u1650 | 02:23:27.980-02:23:37.940 | DM]",
+      "lineNumber": 1650,
+      "originalText": "And another possibility was that you went back early enough to prevent… to warn Lord Ending about Thelestria and stop him from making the agreement in the first place.",
+      "cleanedText": "And another possibility was that you went back early enough to prevent… to warn Lord Ending about Thalestria and stop him from making the agreement in the first place."
+    },
+    {
+      "header": "[u1667 | 02:24:33.920-02:24:41.239 | Edric]",
+      "lineNumber": 1667,
+      "originalText": "Yeah, there was a tunnel, it was just gonna be 13, whatever, and we were like, let's not go. Charla was like, let's just go to the tunnel, what are we doing here? Just leave.",
+      "cleanedText": "Yeah, there was a tunnel, it was just gonna be 1351, whatever, and we were like, let's not go. Txarro was like, let's just go to the tunnel, what are we doing here? Just leave."
+    },
+    {
+      "header": "[u1670 | 02:24:48.370-02:24:51.080 | DM]",
+      "lineNumber": 1670,
+      "originalText": "Until 1752 or whatever.",
+      "cleanedText": "Until 1352 or whatever."
+    },
+    {
+      "header": "[u1682 | 02:25:21.490-02:25:31.519 | Ayveen]",
+      "lineNumber": 1682,
+      "originalText": "the time travel games did occur to me because you made it clear that Holda had died in the past, but still was born at his normal time and still had his normal life. So, like, I wasn't worried about.",
+      "cleanedText": "the time travel games did occur to me because you made it clear that Hulda had died in the past, but still was born at his normal time and still had his normal life. So, like, I wasn't worried about."
+    },
+    {
+      "header": "[u1692 | 02:26:05.640-02:26:12.369 | Txarro]",
+      "lineNumber": 1692,
+      "originalText": "we like Lord the Endlessly Ending. Yeah. I kind of felt sorry for him. Let's help him break the deal.",
+      "cleanedText": "we like Lord Endless Ending. Yeah. I kind of felt sorry for him. Let's help him break the deal."
+    },
+    {
+      "header": "[u1703 | 02:27:25.150-02:27:25.950 | Txarro]",
+      "lineNumber": 1703,
+      "originalText": "Drew.",
+      "cleanedText": "Door."
+    },
+    {
+      "header": "[u1704 | 02:27:25.950-02:27:26.570 | Kaito Min]",
+      "lineNumber": 1704,
+      "originalText": "Taking the keys.",
+      "cleanedText": "Taking the key."
+    },
+    {
+      "header": "[u1705 | 02:27:26.570-02:27:35.749 | Txarro]",
+      "lineNumber": 1705,
+      "originalText": "Not in the room at all, taking the key out of the door, walked back through the manor, unlocked the front door, walked to Lord Endlessly Ending's party, and given him the key. That's what he wanted us to do.",
+      "cleanedText": "Not in the room at all, taking the key out of the door, walked back through the manor, unlocked the front door, walked to Lord Endless Ending's party, and given him the key. That's what he wanted us to do."
+    },
+    {
+      "header": "[u1719 | 02:28:43.120-02:28:46.210 | Kaito Min]",
+      "lineNumber": 1719,
+      "originalText": "I totally would have done that, like, I think… I think Kato would have been…",
+      "cleanedText": "I totally would have done that, like, I think… I think Kaito would have been…"
+    },
+    {
+      "header": "[u1732 | 02:29:42.030-02:29:46.220 | Kaito Min]",
+      "lineNumber": 1732,
+      "originalText": "Got it, got it, got it, got it. So you don't even know what we would have done had we pecked the…",
+      "cleanedText": "Got it, got it, got it, got it. So you don't even know what we would have done had we picked the…"
+    },
+    {
+      "header": "[u1753 | 02:31:49.790-02:32:02.630 | DM]",
+      "lineNumber": 1753,
+      "originalText": "I love that. Then, after several pages of that, like, I… when it actually came time to set down and do the thing, like, I went back through all of the notes and said, like, yes, yes, yes, no, this, that.",
+      "cleanedText": "I love that. Then, after several pages of that, like, I… when it actually came time to sit down and do the thing, like, I went back through all of the notes and said, like, yes, yes, yes, no, this, that."
+    },
+    {
+      "header": "[u1776 | 02:33:47.740-02:34:02.310 | DM]",
+      "lineNumber": 1776,
+      "originalText": "I can't… I can't run the game, and I can't put the story together like Tim does. And we had just come off mics too recently, and I was like, oh, I don't… I don't actually know how to do a game the way that either of them did that game.",
+      "cleanedText": "I can't… I can't run the game, and I can't put the story together like Tim does. And we had just come off Mike's too recently, and I was like, oh, I don't… I don't actually know how to do a game the way that either of them did that game."
+    },
+    {
+      "header": "[u1786 | 02:35:00.160-02:35:05.100 | Txarro]",
+      "lineNumber": 1786,
+      "originalText": "If you look on TagOptVerse, you'll find many of these captured as audio highlights.",
+      "cleanedText": "If you look on Taelgarverse, you'll find many of these captured as audio highlights."
+    },
+    {
+      "header": "[u1807 | 02:36:48.070-02:36:48.930 | Kaito Min]",
+      "lineNumber": 1807,
+      "originalText": "Togar, yeah.",
+      "cleanedText": "Totally, yeah."
+    },
+    {
+      "header": "[u1845 | 02:39:10.740-02:39:15.930 | DM]",
+      "lineNumber": 1845,
+      "originalText": "For fairness, though, I offered you a combat with Monistheus, and you declined.",
+      "cleanedText": "For fairness, though, I offered you a combat with Menestheus, and you declined."
+    },
+    {
+      "header": "[u1846 | 02:39:17.250-02:39:29.019 | Txarro]",
+      "lineNumber": 1846,
+      "originalText": "Yeah, but mostly players don't want… like, nobody really wants… no character, even if… I mean, I might have enjoyed that combat, because I like combat, but, like, Char definitely doesn't want to fight.",
+      "cleanedText": "Yeah, but mostly players don't want… like, nobody really wants… no character, even if… I mean, I might have enjoyed that combat, because I like combat, but, like, Txarro definitely doesn't want to fight."
+    },
+    {
+      "header": "[u1864 | 02:40:45.910-02:41:03.530 | Kaito Min]",
+      "lineNumber": 1864,
+      "originalText": "Also, just, like, I, like, again, just, like, fucking around with the music. There were some times where you were talking, like, you were doing a monologue, and then the music would just, you know, it was, like, fairly random in terms of, like, the various playlists and stuff that I was fucking with, but it would, like, lie, and I was like, oh, shit, it felt, like, super, like, cinematic, you know what I mean? It was just, like, it was, like…",
+      "cleanedText": "Also, just, like, I, like, again, just, like, fucking around with the music. There were some times where you were talking, like, you were doing a monologue, and then the music would just, you know, it was, like, fairly random in terms of, like, the various playlists and stuff that I was fucking with, but it would, like, align, and I was like, oh, shit, it felt, like, super, like, cinematic, you know what I mean? It was just, like, it was, like…"
+    },
+    {
+      "header": "[u1891 | 02:42:54.980-02:42:56.060 | Edric]",
+      "lineNumber": 1891,
+      "originalText": "It's D.",
+      "cleanedText": "It's deep."
+    },
+    {
+      "header": "[u1911 | 02:44:25.030-02:44:33.809 | Kaito Min]",
+      "lineNumber": 1911,
+      "originalText": "Eatric was the moral center, otherwise we wouldn't have known what the fuck to do, because it was just like, well, like, there's endless things to do, and, like, it was just very… okay, alright, cool.",
+      "cleanedText": "Edric was the moral center, otherwise we wouldn't have known what the fuck to do, because it was just like, well, like, there's endless things to do, and, like, it was just very… okay, alright, cool."
+    },
+    {
+      "header": "[u1916 | 02:44:50.940-02:44:51.590 | Kaito Min]",
+      "lineNumber": 1916,
+      "originalText": "Kim's good.",
+      "cleanedText": "Tim's."
+    },
+    {
+      "header": "[u1922 | 02:45:12.310-02:45:18.940 | Txarro]",
+      "lineNumber": 1922,
+      "originalText": "Part of what makes it easy to figure out is if you've written 80% of Taldarverse.",
+      "cleanedText": "Part of what makes it easy to figure out is if you've written 80% of Taelgarverse."
+    },
+    {
+      "header": "[u1925 | 02:45:31.450-02:45:36.920 | Edric]",
+      "lineNumber": 1925,
+      "originalText": "The thing is, I literally looked up that book when Schwartz mentioned it, but I did not put 2&D together as…",
+      "cleanedText": "The thing is, I literally looked up that book when Schwartz mentioned it, but I did not put two and two together as…"
+    },
+    {
+      "header": "[u1937 | 02:46:30.110-02:46:33.379 | Txarro]",
+      "lineNumber": 1937,
+      "originalText": "No, it's never on too honest. But what I wanted to say is.",
+      "cleanedText": "No, it's never too obvious. But what I wanted to say is."
+    },
+    {
+      "header": "[u1943 | 02:47:01.570-02:47:09.159 | Txarro]",
+      "lineNumber": 1943,
+      "originalText": "So, so the plots, like, this type of stuff that happens in… happened in Denver, where it's a plot that you're supposed to be able to figure out.",
+      "cleanedText": "So, so the plots, like, this type of stuff that happens in… happened in Dunmar, where it's a plot that you're supposed to be able to figure out."
+    },
+    {
+      "header": "[u1958 | 02:48:24.450-02:48:31.020 | Kaito Min]",
+      "lineNumber": 1958,
+      "originalText": "Simple enough prompt, but then we could kind of all, like, go into art. So, I super agree with Michael that you're saying, it's like.",
+      "cleanedText": "Simple enough prompt, but then we could kind of all, like, go into ours. So, I super agree with Michael that you're saying, it's like."
+    },
+    {
+      "header": "[u1959 | 02:48:31.020-02:48:54.900 | Kaito Min]",
+      "lineNumber": 1959,
+      "originalText": "like, even though there was this, like, deep realm of choices that we could have made to do all this fucking time junking and blah blah blah, like, in a way, like, like, Kato Min was just like, I don't know what the fuck is going on, I'm in a dark place, but I'm also, like… and it really was, I think, like, I felt me, like, Dave Kong playing this character, I was embracing… I just felt the same, like, totally lost as, like, my character felt, and then it was just sort of like, okay, cool, like.",
+      "cleanedText": "like, even though there was this, like, deep realm of choices that we could have made to do all this fucking time junking and blah blah blah, like, in a way, like, like, Kaito Min was just like, I don't know what the fuck is going on, I'm in a dark place, but I'm also, like… and it really was, I think, like, I felt me, like, Dave Kong playing this character, I was embracing… I just felt the same, like, totally lost as, like, my character felt, and then it was just sort of like, okay, cool, like."
+    },
+    {
+      "header": "[u1972 | 02:50:03.500-02:50:04.189 | Txarro]",
+      "lineNumber": 1972,
+      "originalText": "You're going today.",
+      "cleanedText": "You're going to bed."
+    },
+    {
+      "header": "[u1982 | 02:50:15.650-02:50:17.039 | Ayveen]",
+      "lineNumber": 1982,
+      "originalText": "Thank you for one.",
+      "cleanedText": "Thank you, everyone."
+    },
+    {
+      "header": "[u1989 | 02:50:26.550-02:50:27.960 | Edric]",
+      "lineNumber": 1989,
+      "originalText": "I offered a badge.",
+      "cleanedText": "I'm off to bed."
+    },
+    {
+      "header": "[u1993 | 02:50:33.810-02:50:36.630 | Txarro]",
+      "lineNumber": 1993,
+      "originalText": "So I can make your Tago bursting.",
+      "cleanedText": "So I can make your Taelgarverse entry."
+    },
+    {
+      "header": "[u1996 | 02:50:39.210-02:50:42.509 | DM]",
+      "lineNumber": 1996,
+      "originalText": "She's like… Part of… part of what I had in mind was.",
+      "cleanedText": "It's like… Part of… part of what I had in mind was."
+    },
+    {
+      "header": "[u2009 | 02:51:57.100-02:52:05.889 | DM]",
+      "lineNumber": 2009,
+      "originalText": "And the same, too, like, in some of what the Erythrama Slamperin people were saying, and I don't know, just to try and… Yeah. …keep that motif going.",
+      "cleanedText": "And the same, too, like, in some of what the Arithrimos Lamperum people were saying, and I don't know, just to try and… Yeah. …keep that motif going."
+    },
+    {
+      "header": "[u2028 | 02:53:54.270-02:53:54.810 | Edric]",
+      "lineNumber": 2028,
+      "originalText": "React.",
+      "cleanedText": "Right."
+    },
+    {
+      "header": "[u2029 | 02:53:54.850-02:54:00.690 | Txarro]",
+      "lineNumber": 2029,
+      "originalText": "Lord Endlessly ending, and it was clear that that was a possibility, so it wasn't… it wasn't a…",
+      "cleanedText": "Lord Endless Ending, and it was clear that that was a possibility, so it wasn't… it wasn't a…"
+    },
+    {
+      "header": "[u2031 | 02:54:10.320-02:54:17.440 | Txarro]",
+      "lineNumber": 2031,
+      "originalText": "pushed harder to just… I mean, Charo maybe would have pushed harder to… To go down the tunnel.",
+      "cleanedText": "pushed harder to just… I mean, Txarro maybe would have pushed harder to… To go down the tunnel."
+    },
+    {
+      "header": "[u2032 | 02:54:18.090-02:54:26.500 | Txarro]",
+      "lineNumber": 2032,
+      "originalText": "and come out in 1351 if Egypt wasn't so committed to the moral cause of, like, Boom.",
+      "cleanedText": "and come out in 1351 if Edric wasn't so committed to the moral cause of, like, Boom."
+    },
+    {
+      "header": "[u2033 | 02:54:26.700-02:54:35.599 | DM]",
+      "lineNumber": 2033,
+      "originalText": "I was kicking myself a little bit, too, for having Moniclius not come into the room with you, because if he was in there.",
+      "cleanedText": "I was kicking myself a little bit, too, for having Menestheus not come into the room with you, because if he was in there."
+    },
+    {
+      "header": "[u2055 | 02:56:22.040-02:56:33.449 | DM]",
+      "lineNumber": 2055,
+      "originalText": "No, no, wait a minute, wait a minute, wait a minute. There absolutely it is. You could have rolled a goddamn investigation check in every single room with a book that you walked into, and…",
+      "cleanedText": "No, no, wait a minute, wait a minute, wait a minute. There absolutely is. You could have rolled a goddamn investigation check in every single room with a book that you walked into, and…"
+    },
+    {
+      "header": "[u2067 | 02:57:23.760-02:57:38.030 | Edric]",
+      "lineNumber": 2067,
+      "originalText": "That's fair, right? Like, I would just say, I need to go to bed, but I think you should just lean into your straights, like… Right. From a prepping perspective, it's like, don't…",
+      "cleanedText": "That's fair, right? Like, I would just say, I need to go to bed, but I think you should just lean into your strengths, like… Right. From a prepping perspective, it's like, don't…"
+    },
+    {
+      "header": "[u2069 | 02:57:43.430-02:57:44.510 | Edric]",
+      "lineNumber": 2069,
+      "originalText": "ARC.",
+      "cleanedText": "arc."
+    },
+    {
+      "header": "[u2079 | 02:58:12.470-02:58:14.850 | Edric]",
+      "lineNumber": 2079,
+      "originalText": "Deep box battles, and, you know…",
+      "cleanedText": "big boss battles, and, you know…"
+    },
+    {
+      "header": "[u2088 | 02:59:48.940-02:59:51.540 | Kaito Min]",
+      "lineNumber": 2088,
+      "originalText": "like, the various things that I've experienced with you all as DAs.",
+      "cleanedText": "like, the various things that I've experienced with you all as DMs."
+    },
+    {
+      "header": "[u2107 | 03:00:43.600-03:00:50.760 | Edric]",
+      "lineNumber": 2107,
+      "originalText": "I'm not even sure how much I experienced the lug pull. I mean, to me, it felt more like it was sort of…",
+      "cleanedText": "I'm not even sure how much I experienced the rug pull. I mean, to me, it felt more like it was sort of…"
+    },
+    {
+      "header": "[u2111 | 03:01:06.620-03:01:17.409 | Txarro]",
+      "lineNumber": 2111,
+      "originalText": "it was never clear what… other than wanting to go home, which was Char's primary motivation, it was never clear what the… where he would come down, because it was genuinely uncertain, like…",
+      "cleanedText": "it was never clear what… other than wanting to go home, which was Txarro's primary motivation, it was never clear what the… where he would come down, because it was genuinely uncertain, like…"
+    },
+    {
+      "header": "[u2115 | 03:01:29.860-03:01:54.779 | Kaito Min]",
+      "lineNumber": 2115,
+      "originalText": "You know, it's sort of like, you know, like, like, in the kind of canonical, like, Talgar with, like, you know, in the Tim campaigns, it's like, we're the heroes, and, like, there's, like, kind of all of this, like, ways in which we're these, like, kind of central characters, and this one was just, like, we're not, like, like, yeah, like, we did a thing that ended up being important, but it was sort of like, it was, it was like, like, there's just, it was just all of this shit that was so much not about us, like, at all. Like, we were just other souls walking down.",
+      "cleanedText": "You know, it's sort of like, you know, like, like, in the kind of canonical, like, Taelgar with, like, you know, in the Tim campaigns, it's like, we're the heroes, and, like, there's, like, kind of all of this, like, ways in which we're these, like, kind of central characters, and this one was just, like, we're not, like, like, yeah, like, we did a thing that ended up being important, but it was sort of like, it was, it was like, like, there's just, it was just all of this shit that was so much not about us, like, at all. Like, we were just other souls walking down."
+    },
+    {
+      "header": "[u2118 | 03:02:07.200-03:02:09.949 | Tarek]",
+      "lineNumber": 2118,
+      "originalText": "I think that makes me think of Kong for the… for the drug in it.",
+      "cleanedText": "I think that makes me think of Kong for the… for the dragonet"
+    },
+    {
+      "header": "[u2120 | 03:02:16.600-03:02:25.229 | Tarek]",
+      "lineNumber": 2120,
+      "originalText": "It's not that we're huge and powerful, but you just choose the right domino to knock over, and then it sets off a crazy cascade of events in subdirection.",
+      "cleanedText": "It's not that we're huge and powerful, but you just choose the right domino to knock over, and then it sets off a crazy cascade of events in some direction."
+    },
+    {
+      "header": "[u2122 | 03:02:26.680-03:02:41.790 | Kaito Min]",
+      "lineNumber": 2122,
+      "originalText": "Yeah, I mean, the Dragon Nut thing, I've got, like, a strong plot that I'm excited about that I think will be fun and will be satisfying, but I think, like, the, like, yeah, I'm just feeling through these little bits, man. It's just, like, it's a really… just, like, all these kind of different balances of, like, well, you know, like…",
+      "cleanedText": "Yeah, I mean, the dragonet thing, I've got, like, a strong plot that I'm excited about that I think will be fun and will be satisfying, but I think, like, the, like, yeah, I'm just feeling through these little bits, man. It's just, like, it's a really… just, like, all these kind of different balances of, like, well, you know, like…"
+    },
+    {
+      "header": "[u2139 | 03:03:58.820-03:04:01.950 | Txarro]",
+      "lineNumber": 2139,
+      "originalText": "Spark some curiosity about what defined.",
+      "cleanedText": "Spark some curiosity about what to find."
+    },
+    {
+      "header": "[u2145 | 03:04:27.740-03:04:35.920 | Edric]",
+      "lineNumber": 2145,
+      "originalText": "you don't want to just tell people the it. You're, like, it's, like, the problem with a library of books is what do you… what do you…",
+      "cleanedText": "you don't want to just tell people the answer. You're, like, it's, like, the problem with a library of books is what do you… what do you…"
+    },
+    {
+      "header": "[u2151 | 03:05:03.900-03:05:07.319 | DM]",
+      "lineNumber": 2151,
+      "originalText": "even having RA there saying, like, what can I help you find? Like.",
+      "cleanedText": "even having Aurae there saying, like, what can I help you find? Like."
+    },
+    {
+      "header": "[u2157 | 03:05:44.170-03:05:55.599 | Txarro]",
+      "lineNumber": 2157,
+      "originalText": "And you were like, we want to figure this idea out, right? So you did a ton of stuff about, like, Ryze, the pieces of Rye's hand, and the elderwood, and, like, what are all the rumors, right? But it really…",
+      "cleanedText": "And you were like, we want to figure this idea out, right? So you did a ton of stuff about, like, Rai, the pieces of Rai's hand, and the Elderwood, and, like, what are all the rumors, right? But it really…"
+    },
+    {
+      "header": "[u2163 | 03:06:11.090-03:06:17.440 | Kaito Min]",
+      "lineNumber": 2163,
+      "originalText": "I actually thought our RA, like, interacting with the RA, was actually really satisfying.",
+      "cleanedText": "I actually thought our Aurae, like, interacting with Aurae, was actually really satisfying."
+    },
+    {
+      "header": "[u2172 | 03:07:05.280-03:07:12.970 | Kaito Min]",
+      "lineNumber": 2172,
+      "originalText": "Exactly, exactly, right, which… which… yeah, we menaced the C's, and then… and then the RA both kind of served that a little bit.",
+      "cleanedText": "Exactly, exactly, right, which… Menestheus, and then Aurae, both kind of served that a little bit."
+    },
+    {
+      "header": "[u2176 | 03:07:29.160-03:07:38.449 | Edric]",
+      "lineNumber": 2176,
+      "originalText": "if you are a character like Seeker, who invests a lot in skills, in Dunbar, Seeker was always like, well, let's roll Arcana, right? Like, you… you…",
+      "cleanedText": "if you are a character like Seeker, who invests a lot in skills, in Dunmar, Seeker was always like, well, let's roll Arcana, right? Like, you… you…"
+    },
+    {
+      "header": "[u2191 | 03:08:33.570-03:08:38.369 | Edric]",
+      "lineNumber": 2191,
+      "originalText": "Right? And I basically had to skill check determine how many questions they could ask.",
+      "cleanedText": "Right? And I basically had the skill check determine how many questions they could ask."
+    },
+    {
+      "header": "[u2196 | 03:08:56.220-03:09:08.969 | Edric]",
+      "lineNumber": 2196,
+      "originalText": "you roll poor, you only get two questions, right? Versus you roll loud, you get seven questions, right? Like, it doesn't work in every context, but it could actually work in a library situation as well. You just have to suspend disbelief that",
+      "cleanedText": "you roll poor, you only get two questions, right? Versus you roll well, you get seven questions, right? Like, it doesn't work in every context, but it could actually work in a library situation as well. You just have to suspend disbelief that"
+    },
+    {
+      "header": "[u2204 | 03:09:38.560-03:09:44.260 | Kaito Min]",
+      "lineNumber": 2204,
+      "originalText": "really ask, because I just, this is like a Dragon X thing.",
+      "cleanedText": "really ask, because I just, this is like a dragonet thing."
+    },
+    {
+      "header": "[u2207 | 03:09:49.720-03:10:06.959 | Kaito Min]",
+      "lineNumber": 2207,
+      "originalText": "my hope for the Dragonettes is that, again, just as it relates to, like, mechanics and, like, skill stuff, it's like the whole, like, like, going back, and Mike, I think you've said this, and it just, like, like, it just felt like a very strong thing, where it's like, you know, the cool thing about your character is, like, the little, like, you know, things that you've created that.",
+      "cleanedText": "my hope for the dragonets is that, again, just as it relates to, like, mechanics and, like, skill stuff, it's like the whole, like, like, going back, and Mike, I think you've said this, and it just, like, like, it just felt like a very strong thing, where it's like, you know, the cool thing about your character is, like, the little, like, you know, things that you've created that."
+    },
+    {
+      "header": "[u2210 | 03:10:19.290-03:10:32.920 | Kaito Min]",
+      "lineNumber": 2210,
+      "originalText": "to scratch that satisfaction itch, again, is to sort of, like, in this… the next session when we all do our things, to, like, really kind of be creative about, like, what are the fun, random things as, like, you know, this is your first and maybe only time ever to play a Dragon Ant, so, like, this is, like, let's.",
+      "cleanedText": "to scratch that satisfaction itch, again, is to sort of, like, in this… the next session when we all do our things, to, like, really kind of be creative about, like, what are the fun, random things as, like, you know, this is your first and maybe only time ever to play a dragonet, so, like, this is, like, let's."
+    },
+    {
+      "header": "[u2216 | 03:10:59.670-03:11:09.360 | Edric]",
+      "lineNumber": 2216,
+      "originalText": "Right? The problem is that BAD doesn't have a very good mechanic for skills in particular, because it doesn't have a good mechanic for things that should be",
+      "cleanedText": "Right? The problem is that D&D doesn't have a very good mechanic for skills in particular, because it doesn't have a good mechanic for things that should be"
+    },
+    {
+      "header": "[u2217 | 03:11:09.600-03:11:18.059 | Edric]",
+      "lineNumber": 2217,
+      "originalText": "more granular than a Boolean success or failure. Skills are great if it's like, I'm trying to jump across a bridge, and I need to throw out acrobatics, but…",
+      "cleanedText": "more granular than a Boolean success or failure. Skills are great if it's like, I'm trying to jump across a bridge, and I need to roll Acrobatics, but…"
+    },
+    {
+      "header": "[u2219 | 03:11:20.050-03:11:29.770 | Edric]",
+      "lineNumber": 2219,
+      "originalText": "diploma, you know, why… like, there's lots of skills that… that are… are not a good binary, but I wouldn't try to solve that. Your magic thing about giving everybody little",
+      "cleanedText": "Diplomacy, you know, why… like, there's lots of skills that… that are… are not a good binary, but I wouldn't try to solve that. Your magic thing about giving everybody little"
+    },
+    {
+      "header": "[u2222 | 03:11:31.590-03:11:32.440 | Edric]",
+      "lineNumber": 2222,
+      "originalText": "barks.",
+      "cleanedText": "Sparks."
+    },
+    {
+      "header": "[u2223 | 03:11:33.180-03:11:39.790 | Edric]",
+      "lineNumber": 2223,
+      "originalText": "I would say, for Dragon Act, it's like, you almost de-emphasize, like, skills can't be the important thing about.",
+      "cleanedText": "I would say, for dragonets, it's like, you almost de-emphasize, like, skills can't be the important thing about."
+    },
+    {
+      "header": "[u2224 | 03:11:39.790-03:11:46.279 | Kaito Min]",
+      "lineNumber": 2224,
+      "originalText": "No, I want it to be the custom thing that you think is cool about the Dragon Net that you… but… Go, Derek.",
+      "cleanedText": "No, I want it to be the custom thing that you think is cool about the dragonet that you… but… Go, Eric."
+    },
+    {
+      "header": "[u2241 | 03:12:52.830-03:12:58.869 | Txarro]",
+      "lineNumber": 2241,
+      "originalText": "The outcome of each role matters a little bit, and it changes things, but there's not, like, one…",
+      "cleanedText": "The outcome of each roll matters a little bit, and it changes things, but there's not, like, one…"
+    },
+    {
+      "header": "[u2246 | 03:13:38.650-03:13:56.369 | Kaito Min]",
+      "lineNumber": 2246,
+      "originalText": "you know, it was not at all about skills, or like, you know, like, what you were good at, or what weapons you had. Like, none of that was really important at all. It was like… and that was actually really, I thought, really strong. It was, like, E-Jerk had this big moral thing, that drove the plot, Plato was going through this, like, existential crisis, and then, you know, like…",
+      "cleanedText": "you know, it was not at all about skills, or like, you know, like, what you were good at, or what weapons you had. Like, none of that was really important at all. It was like… and that was actually really, I thought, really strong. It was, like, Edric had this big moral thing, that drove the plot, Kaito was going through this, like, existential crisis, and then, you know, like…"
+    },
+    {
+      "header": "[u2248 | 03:14:00.500-03:14:04.029 | Kaito Min]",
+      "lineNumber": 2248,
+      "originalText": "plot, and not at all about, really, skills or dicebreaking.",
+      "cleanedText": "plot, and not at all about, really, skills or dice rolling."
+    },
+    {
+      "header": "[u2253 | 03:14:30.910-03:14:39.979 | Edric]",
+      "lineNumber": 2253,
+      "originalText": "It's like, with only one role, it's actually very, very, very difficult to… Have that mechanic.",
+      "cleanedText": "It's like, with only one roll, it's actually very, very, very difficult to… Have that mechanic."
+    },
+    {
+      "header": "[u2254 | 03:14:40.200-03:14:58.249 | Edric]",
+      "lineNumber": 2254,
+      "originalText": "work well, and the problem with… it's the same trap Tim falls into. It's the same situation that we had in Dunmark, where it's fun, because you have an opportunity to tell a cool story and listen to everybody else's cool stories, and it's very enjoyable from a, like, human interaction",
+      "cleanedText": "work well, and the problem with… it's the same trap Tim falls into. It's the same situation that we had in Dunmar, where it's fun, because you have an opportunity to tell a cool story and listen to everybody else's cool stories, and it's very enjoyable from a, like, human interaction"
+    },
+    {
+      "header": "[u2257 | 03:15:05.050-03:15:11.299 | Edric]",
+      "lineNumber": 2257,
+      "originalText": "Rolling one die across a bunch of people and having a buoyant success or failure is not actually a good game.",
+      "cleanedText": "Rolling one die across a bunch of people and having a binary success or failure is not actually a good game."
+    },
+    {
+      "header": "[u2258 | 03:15:11.620-03:15:14.739 | Edric]",
+      "lineNumber": 2258,
+      "originalText": "But it's a second game, even though it's a fun narrative.",
+      "cleanedText": "But it's a bad game, even though it's a fun narrative."
+    },
+    {
+      "header": "[u2273 | 03:15:43.810-03:15:49.180 | Txarro]",
+      "lineNumber": 2273,
+      "originalText": "I mean, this was Mike's point about the… in Dunbar, when you were getting… when you were getting through the…",
+      "cleanedText": "I mean, this was Mike's point about the… in Dunmar, when you were getting… when you were getting through the…"
+    },
+    {
+      "header": "[u2285 | 03:16:46.330-03:16:49.840 | Edric]",
+      "lineNumber": 2285,
+      "originalText": "there's a little bit of suspension this week, we know that there's not…",
+      "cleanedText": "there's a little bit of suspension of disbelief, we know that there's not…"
+    },
+    {
+      "header": "[u2292 | 03:17:20.130-03:17:24.300 | Edric]",
+      "lineNumber": 2292,
+      "originalText": "But it's always very unclear how to make dive rolling part of it meaningful.",
+      "cleanedText": "But it's always very unclear how to make die rolling part of it meaningful."
+    },
+    {
+      "header": "[u2299 | 03:17:56.800-03:18:03.869 | Edric]",
+      "lineNumber": 2299,
+      "originalText": "And so, you can respond. There's options. There's, oh man, we're not convincing them, let's change tax. There's… so…",
+      "cleanedText": "And so, you can respond. There's options. There's, oh man, we're not convincing them, let's change tactics. There's… so…"
+    },
+    {
+      "header": "[u2310 | 03:18:39.300-03:18:43.490 | Txarro]",
+      "lineNumber": 2310,
+      "originalText": "And the problem I ran into was it… the role kept failing.",
+      "cleanedText": "And the problem I ran into was it… the roll kept failing."
+    },
+    {
+      "header": "[u2325 | 03:19:54.750-03:20:07.889 | Txarro]",
+      "lineNumber": 2325,
+      "originalText": "as you start talking, maybe once it's sort of clear what the story is about, there's some way you can make a rule to see how it's responding. And one of the pieces of advice I've read is the way to think about these rules is not",
+      "cleanedText": "as you start talking, maybe once it's sort of clear what the story is about, there's some way you can make a roll to see how it's responding. And one of the pieces of advice I've read is the way to think about these rolls is not"
+    },
+    {
+      "header": "[u2329 | 03:20:40.080-03:20:51.590 | Txarro]",
+      "lineNumber": 2329,
+      "originalText": "Have a… have multiple dive roles during the course of one story. That gives you a chance to actually have an early failure that you can still recover from, because your story doesn't resonate.",
+      "cleanedText": "Have a… have multiple die rolls during the course of one story. That gives you a chance to actually have an early failure that you can still recover from, because your story doesn't resonate."
+    },
+    {
+      "header": "[u2332 | 03:21:03.890-03:21:07.949 | Txarro]",
+      "lineNumber": 2332,
+      "originalText": "Well, the… the… but… so, the thing about the Harlem story is, was…",
+      "cleanedText": "Well, the… the… but… so, the thing about the Hall of Stories is, was…"
+    },
+    {
+      "header": "[u2333 | 03:21:08.330-03:21:20.440 | Txarro]",
+      "lineNumber": 2333,
+      "originalText": "the stakes of any one role were way lower, because what you were trying to do was, like, navigate through the stories to learn information. And so if you… when you failed, it was fine, like…",
+      "cleanedText": "the stakes of any one roll were way lower, because what you were trying to do was, like, navigate through the stories to learn information. And so if you… when you failed, it was fine, like…"
+    },
+    {
+      "header": "[u2360 | 03:23:04.030-03:23:05.100 | Txarro]",
+      "lineNumber": 2360,
+      "originalText": "waking up, right?",
+      "cleanedText": "making up, right?"
+    },
+    {
+      "header": "[u2362 | 03:23:07.400-03:23:11.259 | Edric]",
+      "lineNumber": 2362,
+      "originalText": "if I was, like, thinking about dealt with in high persuasion.",
+      "cleanedText": "if I was, like, thinking about Delwath with high persuasion."
+    },
+    {
+      "header": "[u2371 | 03:23:39.480-03:23:42.119 | Edric]",
+      "lineNumber": 2371,
+      "originalText": "He took that out sometime in Europe, right?",
+      "cleanedText": "He did that all the time in your game, right?"
+    },
+    {
+      "header": "[u2377 | 03:24:10.400-03:24:15.069 | Txarro]",
+      "lineNumber": 2377,
+      "originalText": "Early Kenz, though, didn't like elves, right? Like, you know, or didn't like shadow elves.",
+      "cleanedText": "Early Kenzo, though, didn't like elves, right? Like, you know, or didn't like shadow elves."
+    },
+    {
+      "header": "[u2381 | 03:24:18.310-03:24:20.259 | Kaito Min]",
+      "lineNumber": 2381,
+      "originalText": "I'll FaceTime Continuum capability.",
+      "cleanedText": "All space-time continuum."
+    },
+    {
+      "header": "[u2382 | 03:24:20.600-03:24:24.850 | Txarro]",
+      "lineNumber": 2382,
+      "originalText": "Right? So… so maybe there's an NPC that just doesn't like Al, right?",
+      "cleanedText": "Right? So… so maybe there's an NPC that just doesn't like elves, right?"
+    },
+    {
+      "header": "[u2393 | 03:25:20.360-03:25:29.120 | Edric]",
+      "lineNumber": 2393,
+      "originalText": "there's not enough reflection of skill in… the D20 role is so variable compared to stats and pluses.",
+      "cleanedText": "there's not enough reflection of skill in… the D20 roll is so variable compared to stats and pluses."
+    },
+    {
+      "header": "[u2402 | 03:26:14.290-03:26:18.360 | Edric]",
+      "lineNumber": 2402,
+      "originalText": "like, that was one thing that sort of annoyed me about Delaware, was, like.",
+      "cleanedText": "like, that was one thing that sort of annoyed me about Delwath, was, like."
+    },
+    {
+      "header": "[u2410 | 03:26:53.690-03:27:04.910 | Txarro]",
+      "lineNumber": 2410,
+      "originalText": "That's hard to keep in mind. I mean, I tried to do that with Wellbe and Seeker, where I would just give you extra information, but it's a lot of work, right? And it's hard to keep track of that all, and…",
+      "cleanedText": "That's hard to keep in mind. I mean, I tried to do that with Wellby and Seeker, where I would just give you extra information, but it's a lot of work, right? And it's hard to keep track of that all, and…"
+    },
+    {
+      "header": "[u2415 | 03:27:35.450-03:27:46.489 | Edric]",
+      "lineNumber": 2415,
+      "originalText": "your failures are going to be different than the failures for the guy who has a minus-one charisma and no proof, right? Like… and I think everybody would sort of get along with just role-playing that, right? Like, it's just like…",
+      "cleanedText": "your failures are going to be different than the failures for the guy who has a minus-one charisma and no proficiency, right? Like… and I think everybody would sort of get along with just role-playing that, right? Like, it's just like…"
+    },
+    {
+      "header": "[u2417 | 03:27:48.440-03:27:56.470 | Edric]",
+      "lineNumber": 2417,
+      "originalText": "why did Egypt somebody of something? Well, because he just, like, stood there and said something totally dumb and made a total hash of it, whereas…",
+      "cleanedText": "why did Edric fail to persuade somebody of something? Well, because he just, like, stood there and said something totally dumb and made a total hash of it, whereas…"
+    },
+    {
+      "header": "[u2418 | 03:27:56.550-03:28:13.160 | Edric]",
+      "lineNumber": 2418,
+      "originalText": "deal with probably failed because they're, you know, some sort of prejudiced asshole who doesn't like elves, because, you know, because of speciesism and, you know, the kind of nonsense that is out there in the world that we happen.",
+      "cleanedText": "Delwath probably failed because they're, you know, some sort of prejudiced asshole who doesn't like elves, because, you know, because of speciesism and, you know, the kind of nonsense that is out there in the world that we inhabit."
+    },
+    {
+      "header": "[u2420 | 03:28:13.550-03:28:13.960 | Edric]",
+      "lineNumber": 2420,
+      "originalText": "exterior B.",
+      "cleanedText": "et cetera."
+    },
+    {
+      "header": "[u2422 | 03:28:16.340-03:28:17.030 | Edric]",
+      "lineNumber": 2422,
+      "originalText": "I'm gonna go back.",
+      "cleanedText": "I'm gonna go to bed."
+    },
+    {
+      "header": "[u2431 | 03:28:49.600-03:29:06.610 | Kaito Min]",
+      "lineNumber": 2431,
+      "originalText": "You know what I mean? Like, I actually, like, I've just been writing a whole bunch of stuff, like, in… in, like, my notes, and I've got, like, some, you know, but, like, shorts, like, for the sessions that you've been doing, like, what do you actually have that you're looking at? Like, is it, like, you wrote, like, do you have, like…",
+      "cleanedText": "You know what I mean? Like, I actually, like, I've just been writing a whole bunch of stuff, like, in… in, like, my notes, and I've got, like, some, you know, but, like, Schwartz, like, for the sessions that you've been doing, like, what do you actually have that you're looking at? Like, is it, like, you wrote, like, do you have, like…"
+    },
+    {
+      "header": "[u2437 | 03:29:26.690-03:29:30.339 | Txarro]",
+      "lineNumber": 2437,
+      "originalText": "I allowed multiple percenters to share, you should be okay.",
+      "cleanedText": "I allowed multiple presenters to share, you should be okay."
+    },
+    {
+      "header": "[u2446 | 03:30:06.610-03:30:07.650 | Kaito Min]",
+      "lineNumber": 2446,
+      "originalText": "with me? Schwartz?",
+      "cleanedText": "Can you share it with me, Schwartz?"
+    },
+    {
+      "header": "[u2448 | 03:30:09.150-03:30:19.169 | Txarro]",
+      "lineNumber": 2448,
+      "originalText": "Once you clone the Taldographer's repo, you'll get a huge amount of DM notes. Not the Dunmar Frontier DM notes, but pretty much all my other DM notes.",
+      "cleanedText": "Once you clone the Taelgarverse repo, you'll get a huge amount of DM notes. Not the Dunmar Frontier DM notes, but pretty much all my other DM notes."
+    },
+    {
+      "header": "[u2453 | 03:30:39.930-03:30:44.929 | Txarro]",
+      "lineNumber": 2453,
+      "originalText": "Okay, so here's, like, my… here, I can even go into Denmark.",
+      "cleanedText": "Okay, so here's, like, my… here, I can even go into Dunmar."
+    },
+    {
+      "header": "[u2455 | 03:30:47.600-03:30:54.360 | Txarro]",
+      "lineNumber": 2455,
+      "originalText": "with obsidian, here's, like, here's, like, this is what I'm gonna organize for Yukong. Here's the circular island.",
+      "cleanedText": "with Obsidian, here's, like, here's, like, this is what I'm gonna organize for you, Kong. Here's the Cymea arc."
+    },
+    {
+      "header": "[u2490 | 03:33:33.510-03:33:41.660 | Txarro]",
+      "lineNumber": 2490,
+      "originalText": "Which is really amazing for D&D notes, because, like, This is all of Taldarburse.",
+      "cleanedText": "Which is really amazing for D&D notes, because, like, This is all of Taelgarverse."
+    },
+    {
+      "header": "[u2505 | 03:34:40.990-03:34:44.589 | DM]",
+      "lineNumber": 2505,
+      "originalText": "Chima, I have to go to bed, what, what, right.",
+      "cleanedText": "Tim, I have to go to bed, what, what, right."
+    },
+    {
+      "header": "[u2509 | 03:34:51.550-03:34:52.680 | Txarro]",
+      "lineNumber": 2509,
+      "originalText": "Dad?",
+      "cleanedText": "Hulda?"
+    },
+    {
+      "header": "[u2510 | 03:34:52.950-03:34:54.390 | Txarro]",
+      "lineNumber": 2510,
+      "originalText": "Yep. Dad?",
+      "cleanedText": "Yep. Alden?"
+    },
+    {
+      "header": "[u2515 | 03:35:07.480-03:35:09.950 | Txarro]",
+      "lineNumber": 2515,
+      "originalText": "Calypsis is the fungal golem.",
+      "cleanedText": "Kallipseis is the fungal golem."
+    },
+    {
+      "header": "[u2517 | 03:35:13.410-03:35:19.879 | DM]",
+      "lineNumber": 2517,
+      "originalText": "Yes, and is somewhere in the multiverse restarting, according to her, the Erythramous lampurum.",
+      "cleanedText": "Yes, and is somewhere in the multiverse restarting, according to her, the Arithrimos Lamperum."
+    },
+    {
+      "header": "[u2518 | 03:35:20.810-03:35:24.169 | Txarro]",
+      "lineNumber": 2518,
+      "originalText": "What did you say Lord Endlessly Ending's name was now?",
+      "cleanedText": "What did you say Lord Endless Ending's name was now?"
+    },
+    {
+      "header": "[u2519 | 03:35:24.170-03:35:25.950 | DM]",
+      "lineNumber": 2519,
+      "originalText": "Yep, Lord of the Ended Rev.",
+      "cleanedText": "Yep, Lord of the Ended Revel."
+    },
+    {
+      "header": "[u2520 | 03:35:27.210-03:35:28.900 | Txarro]",
+      "lineNumber": 2520,
+      "originalText": "Rebel, of course.",
+      "cleanedText": "Revel, of course."
+    },
+    {
+      "header": "[u2521 | 03:35:29.470-03:35:32.290 | Txarro]",
+      "lineNumber": 2521,
+      "originalText": "The dandelion house is destroyed.",
+      "cleanedText": "The Dandelion House is destroyed."
+    },
+    {
+      "header": "[u2523 | 03:35:34.770-03:35:40.260 | Txarro]",
+      "lineNumber": 2523,
+      "originalText": "Twilight Kingdom is Quiet Kingdom, Lord Endlessly Ending's Manor is still a manor, but not a party.",
+      "cleanedText": "Twilight Kingdom is Twilight Kingdom, Lord Endless Ending's Manor is still a manor, but not a party."
+    },
+    {
+      "header": "[u2524 | 03:35:41.330-03:35:45.400 | DM]",
+      "lineNumber": 2524,
+      "originalText": "No, it's… right, Lord of the Ended Rebels Manor, yeah, that's exactly right, yep.",
+      "cleanedText": "No, it's… right, Lord of the Ended Revel's Manor, yeah, that's exactly right, yep."
+    },
+    {
+      "header": "[u2525 | 03:35:46.280-03:35:48.400 | Txarro]",
+      "lineNumber": 2525,
+      "originalText": "The 27,000 destroyed.",
+      "cleanedText": "The 27th House is destroyed."
+    },
+    {
+      "header": "[u2529 | 03:36:03.990-03:36:07.429 | DM]",
+      "lineNumber": 2529,
+      "originalText": "Our AI would reclassify not as dead, but as inanimate. Like…",
+      "cleanedText": "Aurae would reclassify not as dead, but as inanimate. Like…"
+    },
+    {
+      "header": "[u2536 | 03:36:24.460-03:36:29.400 | Txarro]",
+      "lineNumber": 2536,
+      "originalText": "the organization is, you know, exists as far as Calypsois exists.",
+      "cleanedText": "the organization is, you know, exists as far as Kallipseis exists."
+    },
+    {
+      "header": "[u2538 | 03:36:38.870-03:36:46.779 | DM]",
+      "lineNumber": 2538,
+      "originalText": "there's more… there's a lot more that could be built out about the organization, and feel free to build it out. Like, it's interesting to think about some of the Drancorian,",
+      "cleanedText": "there's more… there's a lot more that could be built out about the organization, and feel free to build it out. Like, it's interesting to think about some of the Drankorian,"
+    },
+    {
+      "header": "[u2542 | 03:37:00.420-03:37:00.900 | Txarro]",
+      "lineNumber": 2542,
+      "originalText": "Minimum.",
+      "cleanedText": "Mm-hmm."
+    },
+    {
+      "header": "[u2546 | 03:37:10.580-03:37:15.750 | Txarro]",
+      "lineNumber": 2546,
+      "originalText": "You call them the first at the very end, but I wasn't sure if that was the actual name.",
+      "cleanedText": "You call them the Thirst at the very end, but I wasn't sure if that was the actual name."
+    },
+    {
+      "header": "[u2550 | 03:37:36.030-03:37:39.599 | Txarro]",
+      "lineNumber": 2550,
+      "originalText": "If you find things that you want me to change in Telcoverse, let me know.",
+      "cleanedText": "If you find things that you want me to change in Taelgarverse, let me know."
+    },
+    {
+      "header": "[u2554 | 03:37:44.940-03:37:53.190 | DM]",
+      "lineNumber": 2554,
+      "originalText": "Thanks for making your world a… Taldarverse is unreal! Like, the… what you can build from that thing is unbelievable.",
+      "cleanedText": "Thanks for making your world a… Taelgarverse is unreal! Like, the… what you can build from that thing is unbelievable."
+    }
+  ]
+}
