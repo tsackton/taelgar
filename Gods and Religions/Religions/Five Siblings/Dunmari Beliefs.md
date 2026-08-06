@@ -31,8 +31,12 @@ The Dunmari believe several key tenets:
 - Anyone in covenant with the Five Siblings can be Dunmari, so immigration/conversion is not frowned upon, but it also isn’t encouraged. The communal side of Dunmari worship is a reflection of being part of the community, so even outsiders who live among the Dunmari and aren’t Dunmari themselves often participate in the communal rituals while worshipping their own gods in private (e.g., many dwarves in [[Askandi]] and [[Tokra]] follow this path, as do many Chardonians and others in [[Darba]]). But there is no sense that conversion glorifies the gods or increases their power or anything.
 - The Five Siblings have a purpose for the Dunmari, and the Dunmari exist as a people to fulfill this purpose. The exact nature of this higher purpose isn’t always clear, and communication from the gods is rarely straightforward or direct. Mystery cults seeking esoteric knowledge to explore the god’s desires and intentions are a major part of Dunmari religion. But this knowledge is seen as secret, protected, because if the gods wanted all the people to know exactly their purpose they would just share it directly.
 - In current day Dunmar, there is much debate about whether this purpose was served already in defeating Cha’mutte, or whether there is yet another task left to them, or whether their purpose is more complex than one great war.
+
+%% unclear canon
 ## The Afterlife
 
 The souls of those who die journey to a great expanse, an endless, featureless plain in all directions, where they are offered a choice: accept the judgement of the gods, or fade away. Judgement, here, is imprecise: this isn't a conscious weighing of your life's deeds before the gods, at least not as the Dunmari tell it. Rather, judgement might be interpreted as accepting the proximity of the gods, and all that entails, including the fact that the more betrayal, evil, and rejection of the community of the gods clings to your soul, the more painful and difficult contact with the gods will be. 
 
+
 Those who accept judgement go to [[Arkaash]], the realm of the Five Siblings. Those who do not, fade into the fabric of the [[Land of the Dead]], with all other lost souls. 
+%%
