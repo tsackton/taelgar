@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/check/ai]
+tags: [creature]
 aliases: [devas, Devas]
 dm_notes: none
 dm_owner: none

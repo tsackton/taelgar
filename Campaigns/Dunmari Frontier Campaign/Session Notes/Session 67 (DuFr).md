@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 67
 realWorldDate: 2022-12-04

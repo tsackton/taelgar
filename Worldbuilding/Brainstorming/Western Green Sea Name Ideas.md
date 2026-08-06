@@ -33,7 +33,6 @@ Pure Cymean:
 * Celmaro
 * Almézio
 * Ampor (perhaps a small tributary off the Ampogio)
-* Carvaz
 * Dovrez
 
 Slavic inspired:

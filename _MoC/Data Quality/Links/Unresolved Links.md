@@ -10,7 +10,7 @@ This is a static review list of links whose note or attachment target does not e
 
 - **0** unresolved targets: **0** notes and **0** attachments
 - **0** occurrences across **0** source files
-- **5293** Obsidian-indexed source notes scanned; **4** source exclusions and **1** source-and-target exclusions applied
+- **5295** Obsidian-indexed source notes scanned; **4** source exclusions and **1** source-and-target exclusions applied
 - Includes **0** local `.md`-style Markdown links in addition to Obsidian wikilinks
 - Sorted by number of distinct source files, then alphabetically
 - One representative context snippet is shown per source file; repeated occurrences in that file are counted

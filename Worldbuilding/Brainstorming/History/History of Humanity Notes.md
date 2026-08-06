@@ -49,7 +49,7 @@ Age of Drankor:
 
 - First to present-day Dunmar and points due east of the main river (which is largely depopulated as was previously mostly settled by Elder races)
     
-- Second to Green Sea: first ~South Cymea~ and ~Irebor~, then Cymea, then Sembara last.
+- Second to Green Sea: first [[~South Cymea~]] and ~Irebor~, then Cymea, then Sembara last.
     
 - Third to West Coast: first Chardon coastal plains, then islands/peninsula, then inland forests to the mountains.
     
@@ -272,7 +272,7 @@ or, it would be easily possible for western cymea, tyrwingha, coastal vostok, an
 
 - In the islands and the north coast of the green sea, the people are trading and interacting with the Drankorian empire but never significantly under threat of conquest. These people develop into the ~NorthCoast~, ~Skaer~, and ~GreenSeaIsland~ cultures, and especially in the far east and north retain the original eastern cultures.
     
-- Along the south coast of the green sea, stretching from ~South Cymea~ as far east as the eastern mountains, the influence of Drankor is much greater, and a blended “Drankor/eastern” culture develops. In most of this region, like the assimilated northerners, the worship of the Eight Divines displaces pre-existing religions. 
+- Along the south coast of the green sea, stretching from [[~South Cymea~]] as far east as the eastern mountains, the influence of Drankor is much greater, and a blended “Drankor/eastern” culture develops. In most of this region, like the assimilated northerners, the worship of the Eight Divines displaces pre-existing religions. 
     
 
 - The proto-Dunmari, a small and relatively isolated/culturally unique group, are of course aware of the existence of a great empire to the west, but remain aloof to its cultural influence.
@@ -309,7 +309,7 @@ In the 500 years between the fall of Drankor and the Great War, the following de
 - In the Green Sea
     
 
-- Development of Sembara, Vostok, Cymea, etc; plus ~Irebor~ and ~South Cymea~ with a more Drankorian (Cymea-like) culture
+- Development of Sembara, Vostok, Cymea, etc; plus ~Irebor~ and [[~South Cymea~]] with a more Drankorian (Cymea-like) culture
     
 
 - Dumari migration

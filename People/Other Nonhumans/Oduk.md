@@ -19,7 +19,7 @@ dm_notes: important
 
 Oduk is a demon created with the ability to corrupt animals into gnolls. 
 
-%% Potentially one of the many spawn of ~Yeenoghu~, the Demon Lord of Gnolls, but haven't decided about what demon lords exist in Taelgar particularly %%
+%% Potentially one of the many spawn of Yeenoghu, the Demon Lord of Gnolls, but haven't decided about what demon lords exist in Taelgar particularly or if Yeenoghu is one of them %%
 
 %%^Date:1748-03-01%%
 He was summoned into the material plane, in the abandoned Dunmari stronghold of [[Raven's Hold]], in the spring of 1748, where he was charged by his summoner to spawn as many gnoll warbands as possible and release them into the Dunmari frontier. He was [[Session 11 (DuFr)|banished back to the Abyss]] by the [[Dunmar Fellowship]] in April, 1748 DR. 

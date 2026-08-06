@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [source]
 ---
-# Letter from [[Alaric]], Lord Mayor of Rinburg
+# Letter from [[Alaric Benec]], Lord Mayor of Rinburg
 _Received January 14th, in [[Champimont]]_
 
 Robin and Company,
