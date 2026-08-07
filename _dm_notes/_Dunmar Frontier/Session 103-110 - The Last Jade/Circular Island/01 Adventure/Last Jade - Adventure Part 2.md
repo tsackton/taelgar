@@ -2,7 +2,7 @@
 
 ## Intro
 
-This part starts whenever the party decides to travel to the burn region, where [[Ra'ghemdros Lair]] and [[Cloudspinner's Prison]] are. 
+This part starts whenever the party decides to travel to the burn region, where [[Ra'ghemdros Lair - DM Notes]] and [[Cloudspinner's Prison - DM Notes]] are. 
 
 Should probably do a brief recap / refocus as they transition. 
 
@@ -10,17 +10,17 @@ Part 2 has four subparts: journey / lair ground / lair / prison
 
 ## Travel
 
-The safest way to approach is on the Pilgrim's Path. See: [[Pilgrimage Locations]] for path details. 
+The safest way to approach is on the Pilgrim's Path. See: [[Pilgrimage Locations - DM Notes]] for path details. 
 
 Generally speaking this is the only way to approach unnoticed, as the pilgrim's path retains a lot of important divine protections despite everything. 
 
 Random encounters could be:
-- [[Table - Remnants of Journey]]
-- [[Table - Pilgrim's Path]]
+- [[Table - Remnants of Journey - Last Jade]]
+- [[Table - Pilgrim's Path  - Last Jade]]
 
 Approaching at night would also generally be unnoticed. 
 
-Caveat: if they have explored the town and alerted [[Dragonet Info]], some might go warn [[Ra'ghemdros]]. In this case, lair ground and lair would be on alert, although practically speaking this is not going to change much. 
+Caveat: if they have explored the town and alerted [[Dragonets - Last Jade]], some might go warn [[Ra'ghemdros]]. In this case, lair ground and lair would be on alert, although practically speaking this is not going to change much. 
 
 ## Ra'ghemdros' Domain
 
@@ -28,7 +28,7 @@ This was once a beautiful garden estate, with water features, extensive grounds,
 - Symbol: A stylized flame rising from an open book, with sparks forming the shape of a sun above.
 - Manor: was originally the central keep of the order, laid out like a Roman villa, with a central pool that was a magically enchanted hot spring and spa (think: Roman baths, in some ways). Obviously much changed. 
 
-The area for about 3 miles around [[Ra'ghemdros Lair]] is within the burn, a region of garish terrain. These effects persist in the aboveground parts of lairs but vanish in the actual lairs themselves. 
+The area for about 3 miles around [[Ra'ghemdros Lair - DM Notes]] is within the burn, a region of garish terrain. These effects persist in the aboveground parts of lairs but vanish in the actual lairs themselves. 
 - The area is difficult terrain, and movement is difficult, as when you get close the entire area is spongy and soft, you feet sinking maybe 6" - 1 foot into gooey mud
 - The entire area is covered in strange red / orange / brown flowers. The colors look very much like a bruise, and the whole area feels like a bruise on the land. But distinctly "hot" colors - no blues/greens. This is in part an aftereffect of Cloudspinner's presence and the power of the sunset. 
 - Water in the region is supernaturally fouled. Enemies of the dragon that drink such water regurgitate it within minutes. There is also a thick scent of rot that makes breathing hard. 
@@ -36,8 +36,8 @@ The area for about 3 miles around [[Ra'ghemdros Lair]] is within the burn, a reg
 - The closer you get to the center, the more oppressive the odor and the more garish the colors.
 
 In the center of the lair is the remains of a manor, covering about 1/2 mile from end to end. The manor area is dominated by two large structures. See [[Dragon Lair region|map]].
-- The larger structure was once the large, open air thermal pool that was the center of the Concordia Pyrae manor. This is now partially in ruins, and the pool is serves as the entrance to [[Ra'ghemdros Lair]]. Numerous outbuildings are now overgrown with the weird spongey flowers and only vague outlines are visible (gray shaded on map), but the actual central baths are still visible (on map). 
-- The smaller structure was once the actual villa, with four stories, a tower, and two basement levels. The above-ground structure is nearly leveled, but a new prison complex exists in the basement (once the tomb and sanctum of the Concordia Pyrae), that holds [[Cloudspinner's Prison]].
+- The larger structure was once the large, open air thermal pool that was the center of the Concordia Pyrae manor. This is now partially in ruins, and the pool is serves as the entrance to [[Ra'ghemdros Lair - DM Notes]]. Numerous outbuildings are now overgrown with the weird spongey flowers and only vague outlines are visible (gray shaded on map), but the actual central baths are still visible (on map). 
+- The smaller structure was once the actual villa, with four stories, a tower, and two basement levels. The above-ground structure is nearly leveled, but a new prison complex exists in the basement (once the tomb and sanctum of the Concordia Pyrae), that holds [[Cloudspinner's Prison - DM Notes]].
 - The villa is perched on a small hill overlooking the thermal baths. There is a road that runs from the Pilgrim's Path to a open plaza, and then spilts to lead to thermal baths / manor. The manor is about 1/2 mile from the thermal baths. 
 
 ### Encounters
@@ -62,7 +62,7 @@ A pack of four chimeras patrols the approach. Will attack. Use the [MCDM statblo
 
 ### Dragonets
 
-Usually 10-15 [[Dragonet Info]] hang around the thermal pools. They will generally not be interested in combat and if presented with danger will alert Ra'ghemdros telepathically and then flee as quickly as possible. 
+Usually 10-15 [[Dragonets - Last Jade]] hang around the thermal pools. They will generally not be interested in combat and if presented with danger will alert Ra'ghemdros telepathically and then flee as quickly as possible. 
 
 If approached in conversation, will happily speak about the area. If the party has proved themselves, one might greet them to lead them to Ra'ghemdros. 
 
@@ -92,5 +92,5 @@ There are the bones of some dragonets here who happened to venture into the area
 ## Move On
 
 From here, party can either enter:
-- [[Ra'ghemdros Lair]], via the thermal pool 
-- [[Cloudspinner's Prison]], via the manor courtyard
+- [[Ra'ghemdros Lair - DM Notes]], via the thermal pool 
+- [[Cloudspinner's Prison - DM Notes]], via the manor courtyard

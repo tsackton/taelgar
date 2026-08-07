@@ -14,7 +14,7 @@ All pilgrimage locations are safe places for a Short or Long Rest.
 
 The pilgrim's path is a remarkably smooth and well-maintained road, wide enough for four to walk abreast, paved with large marble tiles of grays, blues, and greens that shine against the darkness and rubble of the black/brown dirt and stone of the surface. Even just stepping on the road makes one feel light and easy still. 
 
-For random encounters on the road, see: [[Table - Pilgrim's Path]]
+For random encounters on the road, see: [[Table - Pilgrim's Path  - Last Jade]]
 
 ## Divine Statues
 

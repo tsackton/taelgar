@@ -1,8 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 This document collects open questions about the general [[Historical Framework]] of Taelgar.
 
 ### Orenlas and Drankor

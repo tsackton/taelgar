@@ -1,7 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
 ## Avatus Brainstorming (AI Summary)
 
 Codex summary of all notes that mention Avatus. 

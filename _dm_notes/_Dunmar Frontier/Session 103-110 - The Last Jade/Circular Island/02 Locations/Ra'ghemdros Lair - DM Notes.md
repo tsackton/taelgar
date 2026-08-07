@@ -15,7 +15,7 @@ _**Corrosive Vents.**_ The vents spew acid in short, irregular bursts. Each cre
 
 ## B2. Abyssal Swamp
 
-The tunnel opens into a sprawling, unnatural swamp—a pool of extraplanar, acidic liquid—in which [[Ra'ghemdros]] submerges themself to communicate with the [[Dragonet Info]]. It has the following features:
+The tunnel opens into a sprawling, unnatural swamp—a pool of extraplanar, acidic liquid—in which [[Ra'ghemdros]] submerges themself to communicate with the [[Dragonets - Last Jade]]. It has the following features:
 
 - “An expanse of black liquid forms an unnatural swamp that seeps up this cavern’s walls—thicker than water, but thinner than muck. Ripples occasionally disrupt the viscous surface.”
 - “Obsidian, plant-shaped formations stick out of the liquid.”
@@ -43,7 +43,7 @@ If the whole party is dazed in this way, they will eventually find themselves br
 
 ## B4.  Treasure Cleaning
 
-Four [[Dragonet Info]] are hear, working cleaning and polishing some items from the hoard. 
+Four [[Dragonets - Last Jade]] are hear, working cleaning and polishing some items from the hoard. 
 
 ## B6.  Light-Harvesting Depths
 
@@ -65,7 +65,7 @@ When a creature enters this room, they must succeed on a DC 17 Dexterity saving 
 
 **Coins**. Ra'ghemdros has collected basically every coin on the island, which amounts to about 500,000 silver coins; 700,000 copper coins; 30,000 gold coins. These are all Drankorian, and are neatly arranged in designs and patterns, ordered from oldest to newest, with different metals separated. With some investigation can find coins as far back as the height of the Great Peace in the DR 600s, although most coins date from Vestian or later, and many are from Apollyon's reign (last ~150 years of the Empire).
 
-**Common Jewelry**. There are thousands upon thousands of examples of common jewelry collected here. Detailed in [[Ra'ghemdros Hoard]].
+**Common Jewelry**. There are thousands upon thousands of examples of common jewelry collected here. Detailed in [[Ra'ghemdros Hoard - DM Notes]].
 
 **Statues**: Interwoven through the chamber are perfectly preserved marble statues. About 20 in total, of a various of human and elven forms, although a few may be mystical or magical creatures. 
 
@@ -79,10 +79,10 @@ Eats through anything. Entering requires DC 21 Con save, 6d4 damage, half on suc
 
 ### Special Hoard
 
-12 magic items: [[Ra'ghemdros Hoard#Magic]]
+12 magic items: [[Ra'ghemdros Hoard - DM Notes#Magic]]
 
 
-18 special art pieces/heirlooms: [[Ra'ghemdros Hoard#Special Treasures]]. these are things Ra'ghemdros picked out to display. probably has a bit of a rotating vibe. 
+18 special art pieces/heirlooms: [[Ra'ghemdros Hoard - DM Notes#Special Treasures]]. these are things Ra'ghemdros picked out to display. probably has a bit of a rotating vibe. 
 
 ## B8. Ra'ghemdros' Chamber
 

@@ -1,8 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 This page captures some of the reasoning behind decisions in the [[Historical Framework]] document, and also captures some of our older thinking that has since been discarded.
 
 The primary chat that clarified a lot of this is [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-25 - Deep History]]. Some additional information is found in:

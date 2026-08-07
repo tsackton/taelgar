@@ -8,7 +8,7 @@ When Hkar fell, the dragonets scattered. Many ended up in the feywild (pseudodra
 
 Many did not like Apollyon, perhaps most. Some looked to Cha'mutte as a hero. It is mostly these that ended up on the Circular Island. 
 
-In the current day, there is a stable population of about 400-500 dragonets on the island. Most of them live among [[Alectia and Environs]]. 
+In the current day, there is a stable population of about 400-500 dragonets on the island. Most of them live among [[Alectia and Environs - DM Notes]]. 
 
 ## Mechanics
 

@@ -1,7 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
 # 2025-01-27 - Maps and Regions
 
 [2025-01-27 09:33 AM] Deciusmus: I have meetings from 9-2pm today straight, with a handful of 15 or 30 minute breaks; I'm cleaing up some gazetter stuff.

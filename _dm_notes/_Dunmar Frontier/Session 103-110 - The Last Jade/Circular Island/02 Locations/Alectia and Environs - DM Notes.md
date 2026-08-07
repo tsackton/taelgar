@@ -28,9 +28,9 @@ From exploring, the basic fact that this was once a port should be obvious, as s
 
 ### Encounters
 
-**Plague Echoes**: Alectia suffered from major plague impacts, so [[Table - Plague Echoes|plague zones]] are very common. At least once per hour while exploring should trigger one. 
+**Plague Echoes**: Alectia suffered from major plague impacts, so [[Table - Plague Echoes - Last Jade|plague zones]] are very common. At least once per hour while exploring should trigger one. 
 
-**Monsters**: Additionally, any [[Table - Circular Island Monsters|random monster]] could exist in the city. Consider adding the following lair action:
+**Monsters**: Additionally, any [[Table - Circular Island Monsters - Last Jade|random monster]] could exist in the city. Consider adding the following lair action:
 
 - **Crumbling Rubble.** Pieces of the structure crumble into three 5-foot cubes within 30 feet of the ruined keep creature. Creatures in those areas must succeed on a DC 12 plus PB Dexterity saving throw or take PBd6 bludgeoning damage. Those areas become [difficult terrain](https://www.dndbeyond.com/sources/basic-rules/adventuring#DifficultTerrain).
 
@@ -40,7 +40,7 @@ From exploring, the basic fact that this was once a port should be obvious, as s
 - Three [Rot Angels](https://www.dndbeyond.com/sources/dnd/wel/coronal-hollow#RotAngel) lurk over the water. 
 - Four [empowered bog bodies](https://www.dndbeyond.com/monsters/4516788-empowered-bog-body) lurk in the water. Will try to drag targets into the deep pools to drown them. 
 
-**Dragonets:** Occasionally, [[Dragonet Info]] lurk in the town. These are much more likely than other dragonets to be dubious of [[Ra'ghemdros]], as the town is dangerous but untrafficked so it is a reasonable spot to sneak away, if you can avoid the monsters and the plague echoes. 
+**Dragonets:** Occasionally, [[Dragonets - Last Jade]] lurk in the town. These are much more likely than other dragonets to be dubious of [[Ra'ghemdros]], as the town is dangerous but untrafficked so it is a reasonable spot to sneak away, if you can avoid the monsters and the plague echoes. 
 
 ### Information
 
@@ -66,10 +66,10 @@ Dragonets only tend to live in manors with (a) surviving tower and (b) overgrown
 
 ### Manor
 
-Each manor was once the home base of a [[Table - Drankorian Societies|Drankorian Society]]. Basic improv for manors is:
+Each manor was once the home base of a [[Table - Drankorian Societies - Last Jade|Drankorian Society]]. Basic improv for manors is:
 
-(a) Decide if [[Dragonet Info]] are present. If yes, there are no monsters, and structure should have some integrity. But dragonets might attack. If no, continue.
-(b) Decide which society this was for, improvising from: [[Table - Drankorian Societies]]
+(a) Decide if [[Dragonets - Last Jade]] are present. If yes, there are no monsters, and structure should have some integrity. But dragonets might attack. If no, continue.
+(b) Decide which society this was for, improvising from: [[Table - Drankorian Societies - Last Jade]]
 (c) Pick a danger, a vibe, and a piece of info from below. Although, again, no treasure as this will have all been gathered by [[Ra'ghemdros]] minions. 
 
 #### Manor Vibes
@@ -83,7 +83,7 @@ Again, these are mostly ruined. Less obvious signs of huge magical battle, but n
 Manors were not hit by plague in the same way, so no plague curses here.
 
 One of two possibilities:
-- Lair: use something from above, could e.g. reuse Lacuna or Flintmoth Swarm or Haunts or look at more ideas in [[Table - Circular Island Monsters]]
+- Lair: use something from above, could e.g. reuse Lacuna or Flintmoth Swarm or Haunts or look at more ideas in [[Table - Circular Island Monsters - Last Jade]]
 - Traps: manor is unstable or otherwise falling apart. This could either be damage ([Trap Effects](https://www.dndbeyond.com/sources/dnd/dmg-2014/adventure-environments#TrapEffects)), magical effects e.g. [Eldritch Storm](https://www.dndbeyond.com/sources/dnd/tcoe/dungeon-masters-tools#EldritchStorms) / [Spell Hazards](https://www.dndbeyond.com/sources/dnd/tcoe/dungeon-masters-tools#SpellEquivalentsofNaturalHazards), or [Unraveling Magic](https://www.dndbeyond.com/sources/dnd/tcoe/dungeon-masters-tools#UnravelingMagic). Some manors might instead be [Infested](https://www.dndbeyond.com/sources/dnd/tcoe/dungeon-masters-tools#Infested). Could also use [Emotional Echoes](https://www.dndbeyond.com/sources/dnd/tcoe/dungeon-masters-tools#EmotionalEchoes). 
 
 #### Manor Info
