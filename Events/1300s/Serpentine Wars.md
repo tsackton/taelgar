@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/mike, status/check/name]
+tags: [event, status/check/mike]
 DR: 1353
 DR_end: 1403
 typeOf: war

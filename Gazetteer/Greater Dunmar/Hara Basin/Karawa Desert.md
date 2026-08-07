@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place]
 typeOf: desert
 whereabouts: Dunmari Basin
 dm_owner: tim
