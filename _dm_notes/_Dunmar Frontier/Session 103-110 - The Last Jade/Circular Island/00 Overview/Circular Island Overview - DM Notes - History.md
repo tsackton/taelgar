@@ -55,7 +55,7 @@
   - Most ruins from this period are now destroyed.
   - A few teleportation circles still exist, particularly in the manors around Alectia and the Grand Forum. Perhaps especially including the [[Fides Lucaris]] manor?
   - The port city is still largely intact, and one manor has been reused as Cloudspinner's prison.
-  - The library was burned down and is mostly destroyed, though some information could potentially be gleaned (presumably anything interesting is now in [[Ra'ghemdros Lair]])
+  - The library was burned down and is mostly destroyed, though some information could potentially be gleaned (presumably anything interesting is now in [[Ra'ghemdros Lair - DM Notes]])
 
 ---
 
