@@ -33,8 +33,8 @@ Terrain is pretty open, barren land here.
 - Check hex map for distances
 
 Encounters:
-- [[Table - Remnants of Journey]] would be appropriate for the journey. Remnants of a refugee camp might be a good option, perhaps with some vague sense of it being a preserved place, e.g. ancient remnants that were more recently roped off. 
-- If they cross the travel line between the towers and the burn patch, there is a chance of being spotted by a dragonet patrol. See: [[Dragonet Info]]
+- [[Table - Remnants of Journey - Last Jade]] would be appropriate for the journey. Remnants of a refugee camp might be a good option, perhaps with some vague sense of it being a preserved place, e.g. ancient remnants that were more recently roped off. 
+- If they cross the travel line between the towers and the burn patch, there is a chance of being spotted by a dragonet patrol. See: [[Dragonets - Last Jade]]
 - Otherwise, should not be much in the way of encounters, at least until they reach the Pilgrim Path.
 
 ## Scenes
@@ -43,15 +43,15 @@ Encounters:
 
 Generally, assume the first thing they will encounter is the statue and the pilgrim's path. 
 
-See: [[Pilgrimage Locations]] for tower, path, etc, which they will cross just before reaching town.
-See: [[Table - Pilgrim's Path]] for random Pilgrim's Path encounters
+See: [[Pilgrimage Locations - DM Notes]] for tower, path, etc, which they will cross just before reaching town.
+See: [[Table - Pilgrim's Path  - Last Jade]] for random Pilgrim's Path encounters
 
 ### Settled Area
 
 If the party continues to the ruins of Alectia, they will encounter the wrecked manors, the town itself, and possible the grand forum. 
 
-See: [[Alectia and Environs]] for details.
+See: [[Alectia and Environs - DM Notes]] for details.
 
 ## Move On
 
-Part 1 ends when finished exploring the ruins and when they have the information about Apollyon and Cha'mutte to track down (a) [[Ra'ghemdros Lair]] and (b) [[Apollyon's Tower]].
+Part 1 ends when finished exploring the ruins and when they have the information about Apollyon and Cha'mutte to track down (a) [[Ra'ghemdros Lair - DM Notes]] and (b) [[Apollyon's Tower]].

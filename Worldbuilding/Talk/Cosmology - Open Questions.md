@@ -1,8 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [status/check/ai]
----
-
 This document collects open questions about the multiverse and cosmology, including the metaphysics of the divine, but excluding specific questions about religion. 
 
 ## Divine Power in Taelgar

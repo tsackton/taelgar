@@ -4,7 +4,7 @@
 
 This starts when the party decides to travel to Apollyon's Tower, and has three subparts: journey, tower grounds, tower.
 
-Will also do a brief recap. This part might be triggered by rescuing Cloudspinner and learning more about the conflict between Cha'mutte and Apollyon, or by rescuing the last jade (see: Final Jade), or by other [[Ruins Secrets and Clues]]. 
+Will also do a brief recap. This part might be triggered by rescuing Cloudspinner and learning more about the conflict between Cha'mutte and Apollyon, or by rescuing the last jade (see: Final Jade), or by other [[Ruins Secrets and Clues - Last Jade]]. 
 
 Will do a brief summary.
 
@@ -13,15 +13,15 @@ Will do a brief summary.
 This is largely based on hexmap. Should largely be safe. There is nothing really dangerous on the island once you get into the forest until you enter the lair zone around Apollyon's tower, as nothing of [[Ra'ghemdros]] goes into the forest or beyond. 
 
 Consider:
-- [[Pilgrimage Locations]]
+- [[Pilgrimage Locations - DM Notes]]
 - [[Circular Island Overview - DM Notes - Locations]]
 
 This is a good time to encounter:
-- [[Table - Remnants of Journey]]
+- [[Table - Remnants of Journey - Last Jade]]
 
 If need to draw out timing:
-- [[Table - Plague Echoes]]
-- [[Table - Circular Island Monsters]]
+- [[Table - Plague Echoes - Last Jade]]
+- [[Table - Circular Island Monsters - Last Jade]]
 
 Good opportunity to drop clues, if information still incomplete or if they spend time in the forest (e.g., memory pools). 
 
