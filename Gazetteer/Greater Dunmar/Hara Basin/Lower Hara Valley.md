@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
+tags: [place]
 whereabouts: Dunmari Basin
 typeOf: grassland
 dm_owner: tim

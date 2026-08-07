@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+tags: [place]
 dm_owner: tim
 dm_notes: none
 typeOf: wetlands
