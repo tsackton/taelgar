@@ -13,10 +13,12 @@ dm_notes: none
 Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a strange inheritance, a Fey bargain, an ancient magical society, and a prisoner at the center of a mysterious house. What begins with a seemingly ordinary journey through [[Varrow Forest]] to [[Dandelion House]] leads into the [[Feywild]], through an endlessly ending party, and into a house built to move its prisoner through space and time.
 
 >[! abstract] Campaign Information  
+>
 > - The [[Tollen Misfits|PCs]], a found family band of adventurers from around Tollen: [[Edric]], [[Kaito Min]], [[Txarro]], [[Ayveen]], and [[Tarek]]
 > - The places, people, and organizations met along the way: [[Lost in the Feywild - People, Places, and Organizations|People, Places, and More]]
 
 >[! note]+ *The Tale of the Dandelion Child, told by halfling storytellers around the taverns of Tollen*
+>
 >There are tales that begin with a war, and others with a wedding, but this one began with kindness, which, as any good storyteller will tell you, can cause more trouble than either. 
 >
 >Long ago, the story goes, a fey lord in a twilight realm, known as Lord Revel Beginning, found a lonely child beside a bottomless well. The child had no words and knew little of the world, so Revel taught it language, letters, games, and stories. They taught it about trees and roads and doors, and showed it how to stretch its roots and grow itself into houses. They taught it many things, but could not linger, for Lord Revel Beginning was bound to the beginnings of things. They returned, bound by their nature as the fey are, to their manor, to begin a magnificent revel, promising to come back when the party was over. 
@@ -55,6 +57,7 @@ Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a
 - [[Aurae's Allegories]] — four stories told by the clockwork library assistant before the party entered the central prison.
 
 ## The Journey
+
   ![[dandelion-house.jpg]]
 
 **[[Dandelion House]]:** An ancient Drankorian manor, a centuries-old deed, and a hidden door beneath the roots.
