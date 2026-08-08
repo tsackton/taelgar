@@ -5,6 +5,6 @@ Historically, divine magic was the most common and accessible form of magic in T
 Arcane magic is still common and powerful; primal magic exists but is likely rare. 
 
 Chalyte is rare and powerful, ala Hextech
-Chaos glass is common, and functions like gunpowder.
+Chaos glass is common, and functions like gunpowder and industrial fuel. The technological implications of chaos glass and chalyte are developed in [[Taelgar-2 Technology]].
 
-There may be other kinds of "extraplanar glass" that exist - pending development/invention. 
+There may be other kinds of "extraplanar glass" that exist - pending development/invention.

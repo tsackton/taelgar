@@ -1,8 +1,8 @@
 # Dark Taelgar in the Current Day
 
-This note captures the current-day tone and broad structure of dark Taelgar. It is not yet a history of how the world reached this state, and the exact technology available remains to be settled.
+This note captures the current-day tone and broad structure of dark Taelgar. It is not yet a history of how the world reached this state, and the exact technology available remains provisional.
 
-See also: [[Taelgar-2 Species After the Godfall]]
+See also: [[Taelgar-2 Species After the Godfall]], [[Taelgar-2 Magic]], [[Taelgar-2 Technology]], and [[Taelgar-2 Concept Art]]
 
 ## Core Vibe
 
@@ -16,7 +16,7 @@ The setting combines different kinds of darkness in different regions:
 
 The Godfall is the shared catastrophe, but the idea is that it allows a variety of darker themes to co-exist across "Dark Taelgar". All are unified by a few principles of magic, outlined in: [[Taelgar-2 Magic]]
 
-There is also a general degree of shared technology, focused on a particular magi-tech / steampunk vibe, but technological progress can vary across the world. See more in: ADD TECHNOLOGY NOTE. 
+There is also a general degree of shared technology, focused on a particular magi-tech / steampunk vibe, but technological progress can vary across the world. See more in [[Taelgar-2 Technology]].
 
 Together these create a shared system of [[Taelgar-2 Mechanics|playable classes and species]] that should be unified across the setting. 
 
@@ -114,7 +114,7 @@ Chardon can have steam-powered factories, elevated freight lines, passenger tram
 
 There is no implication that a continent-wide rail system exists. Tracks outside defended territory are easily sabotaged, bridges cannot be maintained, fuel and clean water are scarce, and every ruler along the route demands control or tribute. Furthermore steam engines require either dangerous chaos glass (prone to exploding) or expensive chalyte, and so are not a mass-market technology. 
 
-See more TECHNOLOGY NOTE. 
+See more in [[Taelgar-2 Technology]].
 
 ### Maritime Trade
 

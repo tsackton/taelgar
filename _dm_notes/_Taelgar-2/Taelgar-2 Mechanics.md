@@ -20,4 +20,4 @@ Others are not available:
 
 Divine magic no longer exists, so Cleric and Paladin are not playable classes. However, I think everything else survives, though the flavor might change. 
 
-Guns are common and available, and standard steampunk rules apply. 
+Guns are common and available. The broader technological assumptions, including the possible place of artificers, powered armor, energy weapons, and construct player characters, are developed in [[Taelgar-2 Technology]].
