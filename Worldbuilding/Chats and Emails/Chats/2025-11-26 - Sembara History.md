@@ -144,21 +144,21 @@ See more `[[Coming of Drankor]]`
 [2025-11-26 04:16 PM] Deciusmus: yeah, just playing around, I think you are correct
 [2025-11-26 04:17 PM] rsulfuratus: i guess my general feeling is that many places initially have a timeline of X history note, but that over time as sections get too long and need more space they get chopped out
 [2025-11-26 04:18 PM] rsulfuratus: here is also Dunmar. This is I think good for a player-facing note:
-    
-    
-    ### Aatmaji Dynasty
-    DR 1173 - DR 1395
-    
-    `*`See also: [[Timeline of the Aatmaji Dynasty]]*
-    
-    The first Samraat of Dunmar, the blessed [[Bhishma]] who became a deity after her death, founded the ruling [[Aatmaji dynasty]], which ruled Dunmar for 212 years. During this time, [[Kharsan]] was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [[Drankor]], a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [[Dasa]], the last of the Aatmaji rulers attempted to invade [[Drankor]], and failed, disastrously, never to return. 
-    
-    ### Dharajun Dynasty
-    DR 1403 - DR 1545
-    
-    `*`See also: [[Timeline of the Dharajun Dynasty]]*
-    
-    The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[Songara Plains]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat.
+
+
+### Aatmaji Dynasty
+DR 1173 - DR 1395
+
+`*`See also: [[Timeline of the Aatmaji Dynasty]]*
+
+The first Samraat of Dunmar, the blessed [[Bhishma]] who became a deity after her death, founded the ruling [[Aatmaji dynasty]], which ruled Dunmar for 212 years. During this time, [[Kharsan]] was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [[Drankor]], a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [[Dasa]], the last of the Aatmaji rulers attempted to invade [[Drankor]], and failed, disastrously, never to return. 
+
+### Dharajun Dynasty
+DR 1403 - DR 1545
+
+`*`See also: [[Timeline of the Dharajun Dynasty]]*
+
+The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[Songara Plains]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[Stoneway]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat.
 [2025-11-26 04:19 PM] rsulfuratus: but also it establishes a really minimal baseline canon that helps elsewhere
 [2025-11-26 04:21 PM] rsulfuratus: i'm not sure that really even needs any DM Notes, it is pretty clear the canonical beats that need to be preserved if anyone wants to invent more Dunmar history
 [2025-11-26 04:22 PM] Deciusmus: yeah, dunmar is kinda self contained so has less complexity in some places
