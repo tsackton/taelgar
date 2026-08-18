@@ -8,7 +8,7 @@ excludePublish:
 ancestry: fey
 typeOf: extraplanar domain
 dm_notes: none
-dm_owner: mike,tim
+dm_owner: joint
 ---
 # Amberglow
 >[!info]+ Information

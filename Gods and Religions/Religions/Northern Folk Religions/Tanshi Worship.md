@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
 tags: [religion/tanshi, background]
-dm_owner: shared,tim
+dm_owner: joint
 dm_notes: important
 ---
 # Tanshi Worship

@@ -1,7 +1,7 @@
 ---
 tags: [background, religion/mosnumena]
 excludePublish: ["all"]
-dm_owner: shared,tim
+dm_owner: joint
 dm_notes: important
 ---
 

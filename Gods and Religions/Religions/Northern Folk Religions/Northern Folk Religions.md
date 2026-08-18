@@ -1,6 +1,6 @@
 ---
 tags: [background]
-dm_owner: shared,tim
+dm_owner: joint
 dm_notes: important
 ---
 # Northern Folk Religions

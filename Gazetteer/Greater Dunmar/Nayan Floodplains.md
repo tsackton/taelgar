@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 typeOf: region
 whereabouts: Greater Dunmar
 dm_notes: color

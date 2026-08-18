@@ -19,3 +19,15 @@ views:
         direction: DESC
       - property: dm_notes
         direction: ASC
+  - type: table
+    name: unflitered
+    filters:
+      and:
+        - dm_notes != "none"
+        - "!dm_owner.isEmpty()"
+        - dm_notes != "color"
+        - dm_notes != "important"
+    order:
+      - file.name
+      - dm_notes
+      - dm_owner
