@@ -1,6 +1,6 @@
 ---
 tags: [status/stub, source]
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 ---
 

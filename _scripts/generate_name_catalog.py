@@ -7,8 +7,10 @@ not attempt named entity recognition across general prose.
 
 Outputs:
 
-* ``_MoC/Name Catalog.md``: human-browsable tables grouped by in-world language.
-* ``_MoC/Name Catalog.jsonl``: one machine-readable JSON object per note.
+* ``_Plugins/Name Explorer/Name Catalog.md``: human-browsable tables grouped by
+  in-world language.
+* ``_Plugins/Name Explorer/Name Catalog.jsonl``: one machine-readable JSON
+  object per note.
 
 Only the Python standard library is required. The frontmatter reader is narrow
 but tolerant of the vault's YAML-like conventions, including inline and
@@ -358,12 +360,12 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--markdown",
-        default="_MoC/Name Catalog.md",
+        default="_Plugins/Name Explorer/Name Catalog.md",
         help="Markdown output path, relative to root",
     )
     parser.add_argument(
         "--jsonl",
-        default="_MoC/Name Catalog.jsonl",
+        default="_Plugins/Name Explorer/Name Catalog.jsonl",
         help="JSONL output path, relative to root",
     )
     return parser.parse_args()
@@ -1059,7 +1061,7 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
         "For a quick collision search:",
         "",
         "```sh",
-        'rg -i "candidate|similar-form" "_MoC/Name Catalog.jsonl"',
+        'rg -i "candidate|similar-form" "_Plugins/Name Explorer/Name Catalog.jsonl"',
         "```",
         "",
         "Useful JSONL fields include `name`, `normalized`, `aliases`, `note_type`, "

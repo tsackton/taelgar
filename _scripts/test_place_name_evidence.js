@@ -2,6 +2,7 @@
 
 const assert = require("node:assert/strict");
 
+const analyzer = require("./analyze_place_names.js");
 const evidence = require("./place_name_evidence.js");
 
 function concept(subjectPath, preferredForm, forms = [preferredForm]) {
@@ -13,6 +14,24 @@ function concept(subjectPath, preferredForm, forms = [preferredForm]) {
 }
 
 function run() {
+  const defaults = analyzer.parseArgs([]);
+  assert.equal(
+    defaults.decisions,
+    "_Plugins/Name Explorer/Name Decisions.jsonl",
+  );
+  assert.equal(
+    defaults.output,
+    "_Plugins/Name Explorer/Place Name Evidence.jsonl",
+  );
+  assert.equal(
+    defaults.summary,
+    "_Plugins/Name Explorer/Place Name Evidence Summary.json",
+  );
+  assert.equal(
+    analyzer.parseArgs(["--decisions", "custom/decisions.jsonl"]).decisions,
+    "custom/decisions.jsonl",
+  );
+
   const catalog = {
     concepts: [
       concept("Gazetteer/Serrania.md", "Serranía"),

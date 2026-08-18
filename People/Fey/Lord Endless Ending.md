@@ -6,8 +6,8 @@ speciesAlias: fae
 name: Lord of the Ended Revel
 gender: enby
 aliases: [Lord Endlessly Ending, Lord Ending, Lord Revel Beginning, Lord Revel, Lord of the Ended Revel]
-dm_owner: schwartz
-dm_notes: important
+dm_owner: none
+dm_notes: none
 whereabouts: Lord Endless Ending's Manor
 affiliations:
   - {org: Lord Endless Ending's Manor, type: leader, title: Lord}

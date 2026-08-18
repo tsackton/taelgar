@@ -8,7 +8,7 @@ whereabouts:
 - {type: primary, location: Labkhan }
 - {type: secondary, location: Central Highlands }
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Khatridun
 >[!info]+ Information  

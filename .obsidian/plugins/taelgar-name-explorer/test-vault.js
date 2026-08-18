@@ -152,12 +152,18 @@ function run() {
   const subjects = markdownFiles(vaultRoot)
     .map(buildSubject)
     .filter(Boolean);
-  const decisionsPath = path.join(vaultRoot, "_MoC/Name Decisions.jsonl");
+  const decisionsPath = path.join(
+    vaultRoot,
+    "_Plugins/Name Explorer/Name Decisions.jsonl",
+  );
   const decisions = core.parseDecisionStore(
     fs.readFileSync(decisionsPath, "utf8"),
   );
   const catalog = core.buildCatalog(subjects, decisions);
-  const evidencePath = path.join(vaultRoot, "_MoC/Place Name Evidence.jsonl");
+  const evidencePath = path.join(
+    vaultRoot,
+    "_Plugins/Name Explorer/Place Name Evidence.jsonl",
+  );
   const placeEvidence = core.parsePlaceEvidenceStore(
     fs.readFileSync(evidencePath, "utf8"),
   );

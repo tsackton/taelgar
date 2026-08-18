@@ -1,0 +1,21 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!file.folder.contains("_")'
+        - '!file.folder.contains("assets")'
+        - '!file.folder.startsWith("Worldbuilding")'
+        - '!file.folder.contains("Campaigns")'
+        - and:
+            - dm_owner == "none"
+            - dm_notes == "color"
+    order:
+      - file.name
+      - dm_notes
+      - dm_owner
+    sort:
+      - property: dm_owner
+        direction: DESC
+      - property: dm_notes
+        direction: ASC

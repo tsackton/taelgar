@@ -6,16 +6,20 @@ const path = require("node:path");
 
 const evidence = require("./place_name_evidence.js");
 
+const DEFAULT_DATA_DIR = "_Plugins/Name Explorer";
+
 function parseArgs(argv) {
   const options = {
     root: process.cwd(),
-    output: "_MoC/Place Name Evidence.jsonl",
-    summary: "_MoC/Place Name Evidence Summary.json",
+    decisions: `${DEFAULT_DATA_DIR}/Name Decisions.jsonl`,
+    output: `${DEFAULT_DATA_DIR}/Place Name Evidence.jsonl`,
+    summary: `${DEFAULT_DATA_DIR}/Place Name Evidence Summary.json`,
     stdout: false,
   };
   for (let index = 0; index < argv.length; index += 1) {
     const value = argv[index];
     if (value === "--root") options.root = argv[++index];
+    else if (value === "--decisions") options.decisions = argv[++index];
     else if (value === "--output") options.output = argv[++index];
     else if (value === "--summary") options.summary = argv[++index];
     else if (value === "--stdout") options.stdout = true;
@@ -31,6 +35,7 @@ function usage() {
     "",
     "Options:",
     "  --root PATH       Vault root (default: current directory)",
+    "  --decisions PATH  Vault-relative Name Explorer decision store",
     "  --output PATH     Vault-relative JSONL output path",
     "  --summary PATH    Vault-relative summary JSON path",
     "  --stdout          Print JSONL instead of writing files",
@@ -56,7 +61,9 @@ function main(argv = process.argv.slice(2)) {
     return 0;
   }
   const root = path.resolve(options.root);
-  const result = evidence.buildEvidenceRecords(root);
+  const result = evidence.buildEvidenceRecords(root, {
+    decisionPath: options.decisions,
+  });
   const jsonl = [result.meta, ...result.records]
     .map((record) => JSON.stringify(record))
     .join("\n") + "\n";

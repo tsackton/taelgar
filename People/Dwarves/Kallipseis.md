@@ -6,6 +6,8 @@ species: dwarf
 gender: female
 whereabouts:
   - {type: away, location: 27th House, end: 1740-10-06}
+dm_owner: none
+dm_notes: none
 ---
 # Kallipseis
 >[!info]+ Biographical Info  

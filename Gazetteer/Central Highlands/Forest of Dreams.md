@@ -5,7 +5,7 @@ campaignInfo:
 name: Forest of Dreams
 typeOf: forest
 whereabouts: Ainumarya
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # The Forest of Dreams

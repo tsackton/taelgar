@@ -7,6 +7,8 @@ typeOf: book
 typeOfAlias: treatise
 written: "during the [[History of the Drankorian Empire|Drankorian Era]]"
 author: "an early member of the [[Arithrimos Lamperum]]"
+dm_notes: none
+dm_owner: none
 ---
 # On the Science and Possibilities of Soul Bindery
 >[!info]+ Information  

@@ -8,7 +8,7 @@ species: human
 ancestry: Urskan
 gender: male
 dm_notes: important
-dm_owner: shared
+dm_owner: joint
 player: Mike Sackton
 aliases: [Artem]
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}

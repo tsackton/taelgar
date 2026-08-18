@@ -110,7 +110,7 @@ post 1560: settlement of Chasa River valley by Chardonians
 [2025-01-29 04:45 PM] rsulfuratus: so the yellow "kingdom 4" is already subjugated or destroyed
 [2025-01-29 04:46 PM] rsulfuratus: a reasonable story is that cha'mutte is originally intending to move the north army south and the south army north to conquer both sides of ulrich pass for whatever reason the "monastery" is so important to the kill the gods goal
 [2025-01-29 04:46 PM] rsulfuratus: but actions of the high school campaign force an accelerated timeline so just dumps a bunch of hobgoblins in the pass via magic shadow portals
-[2025-01-29 04:47 PM] rsulfuratus: so i think the most likely starting point is that, when the Great War ends in 1545, Pandar effectively covers the "Cha'mutte arrows", the forest of dreams, and "kingdom 4"
+[2025-01-29 04:47 PM] rsulfuratus: so i think the most likely starting point is that, when the Great War ends in 1545, Pandar effectively covers the "Cha'mutte arrows", the [[forest of dreams]], and "kingdom 4"
 [2025-01-29 04:49 PM] rsulfuratus: a side point is that when cha'mutte dies there is a major kenku revolt in pandar. and without magic pandar probably becomes pretty inhospitable, certainly not a place that can support anything close to the popuation density living there in the 1530s or whenever
 [2025-01-29 04:49 PM] rsulfuratus: but it isn't like the blackwater fens is great agricultural land either
 [2025-01-29 04:50 PM] rsulfuratus: my feeling is the most likely reason for the delay is actually that hobgoblins set up an early hobgoblin kingdom in Voltara area, more or less

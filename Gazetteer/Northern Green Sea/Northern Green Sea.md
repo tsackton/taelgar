@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/wip]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
-dm_owner: joint,tim
+dm_owner: joint
 dm_notes: important
 ---
 # The Northern Green Sea

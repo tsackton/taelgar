@@ -5,7 +5,7 @@ typeOf: settlement
 typeOfAlias: mining village
 whereabouts: Barony of Aveil
 dm_owner: none
-dm_info: none
+dm_notes: none
 ---
 # Beldor
 >[!info]+ Information  

@@ -36,7 +36,7 @@
 [2025-11-30 11:00 AM] Deciusmus: The upper Semb valley is pretty low elevation, and the Aine Hills are much gentler than the Braebin
 [2025-11-30 11:00 AM] Deciusmus: I was consdering whether Ardlas should actually be the Duchy of Ardlas
 [2025-11-30 11:00 AM] Deciusmus: and make it a bit more Maseau like - a part of the general Sembara feudal culture that no longer recognizes the monarch of sembara
-[2025-11-30 11:04 AM] Deciusmus: I think what makes Ardlas interesting is a very close relationship with the dwarves of Khatridun and, especially in the north, a place the Zimka of Lavnoch immigrate to for better opportunities.
+[2025-11-30 11:04 AM] Deciusmus: I think what makes Ardlas interesting is a very close relationship with the dwarves of [[Khatridun]] and, especially in the north, a place the Zimka of Lavnoch immigrate to for better opportunities.
     
     But it isn't particularly cut off from Sembara. I don't think the border is contested exactly but the upper Semb valley and the Aine Hills seem like the kind of places where 
     (a) the basic feudal logic of Sembaran manorialism probably still holds

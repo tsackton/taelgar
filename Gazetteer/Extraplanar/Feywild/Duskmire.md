@@ -7,7 +7,7 @@ typeOf: extraplanar domain
 excludePublish:
   - all
 dm_notes: important
-dm_owner: mike,tim
+dm_owner: joint
 ---
 # Duskmire
 >[!info]+ Information  

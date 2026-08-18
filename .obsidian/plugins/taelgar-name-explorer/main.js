@@ -15,11 +15,12 @@ const nodePath = require("path");
 let core;
 
 const VIEW_TYPE = "taelgar-name-explorer-view";
+const DEFAULT_DATA_DIR = "_Plugins/Name Explorer";
 
 const DEFAULT_SETTINGS = {
-  decisionStorePath: "_MoC/Name Decisions.jsonl",
-  exportPath: "_MoC/Name Explorer Catalog.jsonl",
-  placeEvidencePath: "_MoC/Place Name Evidence.jsonl",
+  decisionStorePath: `${DEFAULT_DATA_DIR}/Name Decisions.jsonl`,
+  exportPath: `${DEFAULT_DATA_DIR}/Name Explorer Catalog.jsonl`,
+  placeEvidencePath: `${DEFAULT_DATA_DIR}/Place Name Evidence.jsonl`,
   scanTextEvidence: true,
   pageSize: 100,
 };
