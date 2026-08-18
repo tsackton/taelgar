@@ -3,7 +3,7 @@ These are rough notes to organize thoughts on Deno'qai, elves, what old kingdoms
 1. Drankorian age. Drankor conquerors as far as Lake Valandros, but not really further. Mawar remains independent, as many of the 'coastal northerners' retreated to the Mawakel peninsula to avoid Drankorian conquest / assimilation. So you have:
     1. Coastal / south and west of Lake Valandros: Drankorian empire
     2. East of Lake Valandros: Ainumarya, the "second growth" elven kingdom, where many elves retreated after the fall of Alcarinquë.
-    3. Among the elves and north of Ainumarya, extending up to the Forest of Dreams, you have a number of loosely connected Deno'qai communities, the "inland northerners"
+    3. Among the elves and north of Ainumarya, extending up to the [[Forest of Dreams]], you have a number of loosely connected Deno'qai communities, the "inland northerners"
     4. On the current-day Voltara plains and coast you have a number of Drankorian satellites, minor kingdoms, and the like, some more "Northern" and some more "Drankorian"
     5. To the north, you have Pandar, at this time mostly isolated and not yet obviously the growing power base of a great evil shadow dragon.
     6. West of Pandar is left undeveloped, as is the far north. These could be other strands of northerners, or non-humans.

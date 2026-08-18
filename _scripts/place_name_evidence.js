@@ -538,7 +538,7 @@ function createNoteIndex(root, ignoreFilters = loadIgnoreFilters(root)) {
   return { notes, byPath, byStem, byAlias, resolve, resolveMarkdown };
 }
 
-function buildPlaceCatalog(index, root) {
+function buildPlaceCatalog(index, root, options = {}) {
   const subjects = [];
   const placeNotes = new Map();
   for (const note of index.notes) {
@@ -574,7 +574,17 @@ function buildPlaceCatalog(index, root) {
     subjects.push(subject);
     placeNotes.set(note.path, note);
   }
-  const decisionPath = path.join(root, "_MoC", "Name Decisions.jsonl");
+  const decisionPath = path.resolve(
+    root,
+    options.decisionPath || "_Plugins/Name Explorer/Name Decisions.jsonl",
+  );
+  const relativeDecisionPath = path.relative(root, decisionPath);
+  if (
+    relativeDecisionPath.startsWith("..") ||
+    path.isAbsolute(relativeDecisionPath)
+  ) {
+    throw new Error(`Decision store must remain inside the vault: ${options.decisionPath}`);
+  }
   const decisionText = fs.existsSync(decisionPath) ? fs.readFileSync(decisionPath, "utf8") : "";
   const records = nameCore.parseDecisionStore(decisionText);
   const catalog = nameCore.buildCatalog(subjects, records, {
@@ -1617,9 +1627,9 @@ function namingEvidenceForSubject(subject, note, concepts, decisionRecords) {
   };
 }
 
-function buildEvidenceRecords(root) {
+function buildEvidenceRecords(root, options = {}) {
   const index = createNoteIndex(root);
-  const placeCatalog = buildPlaceCatalog(index, root);
+  const placeCatalog = buildPlaceCatalog(index, root, options);
   const formMatcher = buildFormMatcher(placeCatalog.catalog);
   const definitions = loadCampaignDefinitions(root);
   const registry = discoverSessionRegistry(root, index, definitions);

@@ -49,7 +49,7 @@ Laying in front of the bust is a ceremonial longsword, carved with Elvish runes 
  
 _Dwarven_
  
-Three pieces of columns from the chapel have been moved here, and arranged in a triangle. Stacked in a small pile are 10 silver trade bars (10 lb each, 100 gp each), marked with a Dwarven stamp of Nidzahar. Among the silver bars is a small silver orb sculpted to look like a moon, which is an Orb of Time.
+Three pieces of columns from the chapel have been moved here, and arranged in a triangle. Stacked in a small pile are 10 silver trade bars (10 lb each, 100 gp each), marked with a Dwarven stamp of [[Nidzahar]]. Among the silver bars is a small silver orb sculpted to look like a moon, which is an Orb of Time.
  
 Alone on one pillar is an exquisitely crafted necklace: the chain is made of fine gold, and each of the six pendants hanging from the chain is an intricately crafted shape looking like flowing rock encasing rubies (exquisite very rare art object).
  

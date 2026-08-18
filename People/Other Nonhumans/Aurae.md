@@ -4,6 +4,8 @@ tags: [person]
 name: Aurae
 species: construct
 gender: enby
+dm_owner: none
+dm_notes: none
 ---
 # Aurae
 >[!info]+ Biographical Info  

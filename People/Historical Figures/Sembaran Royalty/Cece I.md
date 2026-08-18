@@ -13,7 +13,7 @@ affiliations:
 - {place: Tyrwingha, start: 1648-12-11}
 - {org: House of Sewick, type: primary}
 dm_notes: important
-dm_owner: shared
+dm_owner: joint
 ---
 # Queen Cece I
 >[!info]+ Biographical Info  

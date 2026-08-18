@@ -32,7 +32,7 @@ The blue areas are firstborn -- elves, mostly, with a small dwarven kingdom in t
 
   
 
-My main area of interest is what I am calling the Five Kingdoms (although not all are monarchies), the area basically between the old border of Drankor and the Forest of Dreams. These are basically the various polities that emerge out of the Drankorian satellite kingdoms that are a mix of Drankorians and assimilated Northerners. No detailed history / politics, just a few sentence sketches to flavor treasure and ruins. Here is what I have so far, realizing that not everything needs to be fleshed out. 
+My main area of interest is what I am calling the Five Kingdoms (although not all are monarchies), the area basically between the old border of Drankor and the [[Forest of Dreams]]. These are basically the various polities that emerge out of the Drankorian satellite kingdoms that are a mix of Drankorians and assimilated Northerners. No detailed history / politics, just a few sentence sketches to flavor treasure and ruins. Here is what I have so far, realizing that not everything needs to be fleshed out. 
 
   
 

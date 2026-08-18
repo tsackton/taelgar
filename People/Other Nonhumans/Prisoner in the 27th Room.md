@@ -7,6 +7,8 @@ whereabouts:
 - {type: home, location: Far Realms}
 - {type: home, location: 27th House, end: 1740-10-06}
 - {type: home, start: 1740-10-07}
+dm_owner: schwartz
+dm_notes: none
 ---
 # Prisoner in the 27th Room
 >[!info]+ Biographical Info  

@@ -11,7 +11,7 @@ whereabouts:
     location: Taelgar
     linkText: in
 dm_notes: important
-dm_owner: shared
+dm_owner: joint
 typeOfAlias: sea
 ---
 # The Green Sea

@@ -9,7 +9,7 @@ aliases:
   - Aistanë
   - Drogar
   - Mahar
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 typeOfAlias: river
 ---

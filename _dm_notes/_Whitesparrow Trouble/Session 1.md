@@ -6,7 +6,7 @@ Characters will gather at Westgate to meet Oona and begin their journey to White
  
 Oona is a traveling merchant, trader, peddler, who plys the roads among the various small highland freeholds.
  
-She has brought salt (from the coast), tea, honey, and salt fish; she also picked up some luxury leather goods (boots, belts) in Blackwater Bridge, and some coin; after Whitesparrow she will continue west to the dwarven kindgom of Khatridun where she will pick up finely crafted luxury goods, and return via Whitesparrow to Blackwater Bridge. A small route, but generally a pleasant one.
+She has brought salt (from the coast), tea, honey, and salt fish; she also picked up some luxury leather goods (boots, belts) in Blackwater Bridge, and some coin; after Whitesparrow she will continue west to the dwarven kindgom of [[Khatridun]] where she will pick up finely crafted luxury goods, and return via Whitesparrow to Blackwater Bridge. A small route, but generally a pleasant one.
  
 Oona’s Appearance  
 Oona is of average height for a halfling, just under three feet  

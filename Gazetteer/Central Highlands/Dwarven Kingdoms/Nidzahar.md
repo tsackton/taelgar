@@ -9,7 +9,7 @@ whereabouts:
 - {type: secondary, location: Central Highlands }
 pronunciation: NID-zah-har
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Nidzahar
 *(NID-zah-har)*

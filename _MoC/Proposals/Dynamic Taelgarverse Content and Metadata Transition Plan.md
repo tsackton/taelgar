@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Dynamic Taelgarverse Content and Metadata Transition Plan
 
 > [!warning] Proposal

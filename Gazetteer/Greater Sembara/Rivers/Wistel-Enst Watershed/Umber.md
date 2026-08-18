@@ -7,8 +7,8 @@ typeOfAlias: river
 whereabouts: 
 - {type: primary, location: Addermarch}
 - {type: secondary, location: Wistel-Enst Watershed }
-dm_owner: none
-dm_notes: tim
+dm_owner: tim
+dm_notes: none
 ---
 # Umber
 >[!info]+ Information  

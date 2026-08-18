@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [creature, status/wip]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # Orcs

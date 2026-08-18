@@ -1,6 +1,6 @@
 ---
 tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm]
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 ---
 

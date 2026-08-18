@@ -4,8 +4,8 @@ tags: [object]
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
 name: Allegories for the Initiated
 ancestry: Drankorian
-dm_owner: schwartz
-dm_notes: important
+dm_owner: none
+dm_notes: none
 typeOf: book
 written: "during the [[History of the Drankorian Empire|Drankorian Era]]"
 author: "[[Arithrimos Lamperum]]"
