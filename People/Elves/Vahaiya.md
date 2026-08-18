@@ -16,7 +16,7 @@ whereabouts:
 - {type: home, start: '', end: 1545, location: Ainumarya}
 - {type: away, start: 1545, end: 1720-07-30, location: 'traveling around greater Sembara'}
 - {type: home, start: 1720-07-31, location: Erelion}
-dm_owner: mike,tim
+dm_owner: joint
 dm_notes: none
 ---
 # Vahaiya

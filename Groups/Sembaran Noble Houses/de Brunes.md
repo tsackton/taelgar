@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [group, status/check/mike]
-dm_owner: mike,tim
+dm_owner: joint
 dm_notes: none
 typeOf: family
 ---

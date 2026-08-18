@@ -9,7 +9,7 @@ whereabouts: Greater Sembara
 aliases:
   - Tyrwinghan
 dm_notes: important
-dm_owner: shared,mike
+dm_owner: joint
 typeOfAlias: monarchy
 ---
 # Tyrwingha

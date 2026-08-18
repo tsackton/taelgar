@@ -84,7 +84,7 @@
     (a) Garamjala moves to ruins of drankor
     (b) Chataan Mountains moves to Greater Chardon (it was previously in Darba Highlands, but Darba Highlands was also defined as "the hills south of the Chataan mts, so I think moving is correct)
     
-    The River Chaudi gets a bit funny as it is in the "Nayan Floodplains" which is now split across regions (north of shrev = dunmar, south of shrev = ruins of drankor).
+    The River [[Chaudi]] gets a bit funny as it is in the "Nayan Floodplains" which is now split across regions (north of shrev = dunmar, south of shrev = ruins of drankor).
 [2025-01-24 11:59 AM] Deciusmus: I havent' done  it, but the "Greater Dunmar" main page simplies to define 4 major topological features of Greater Dunmar:
     - Yuvanti Mts
     - Nayan Floodplain

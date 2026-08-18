@@ -6,7 +6,7 @@ name: Rangers
 typeOf: army
 whereabouts: Greater Sembara
 dm_notes: none
-dm_owner: mike,tim
+dm_owner: joint
 ---
 # The Rangers
 >[!info]+ Information  

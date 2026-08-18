@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 aliases: [The Riving, Long Pause]
 displayDefaults: {defArt: "the"}
 tags: [event, status/stub]
-dm_owner: shared,tim
+dm_owner: joint
 dm_notes: important
 ---
 
