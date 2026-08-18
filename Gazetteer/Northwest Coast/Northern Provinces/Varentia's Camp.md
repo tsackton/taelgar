@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/check/name
+  - status/gameupdate/gl
 name: Varentia’s Camp
 typeOf: building
 subTypeOf: fortified frontier camp

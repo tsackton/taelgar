@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/gameupdate/gl]
 typeOf: grassland
 whereabouts: 
 - {type: secondary, location: Northern Provinces }

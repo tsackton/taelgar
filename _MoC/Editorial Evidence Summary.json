@@ -1,0 +1,1513 @@
+{
+  "schema_version": 2,
+  "generated_at": "2026-08-18T15:27:17.987Z",
+  "note_count": 2202,
+  "category_counts": {
+    "ancestry": 14,
+    "background": 131,
+    "creature": 46,
+    "event": 72,
+    "group": 138,
+    "meta": 36,
+    "object": 117,
+    "person": 793,
+    "place": 753,
+    "power": 86,
+    "source": 16
+  },
+  "profile_counts": {
+    "ancestry": 14,
+    "background.framework": 18,
+    "background.other": 113,
+    "creature.bestiary": 31,
+    "creature.species": 15,
+    "event": 72,
+    "group": 138,
+    "meta": 36,
+    "object.artifact-or-other": 33,
+    "object.book": 71,
+    "object.material": 13,
+    "person": 793,
+    "place.biome": 35,
+    "place.extraplanar": 68,
+    "place.infrastructure": 35,
+    "place.landform": 75,
+    "place.realm": 71,
+    "place.region": 50,
+    "place.settlement": 164,
+    "place.structure": 117,
+    "place.water-feature": 129,
+    "place.watershed": 9,
+    "power": 86,
+    "primary-source": 16
+  },
+  "proposed_graph_role_counts": {
+    "container": 90,
+    "framework": 43,
+    "hub": 158,
+    "leaf": 609,
+    "unclear": 1302
+  },
+  "candidate_signal_counts": {
+    "campaign-continuity-debt": 148,
+    "classification-anomaly": 49,
+    "container-low-player-prose-within-profile": 5,
+    "explicit-editorial-marker": 128,
+    "high-inbound-low-player-prose-within-profile": 48,
+    "low-player-prose-within-profile": 399,
+    "publication-decision": 23,
+    "review-status-tag": 227,
+    "source-material-to-synthesize": 44
+  },
+  "status_tag_counts": {
+    "status/check/ai": 34,
+    "status/check/errors": 16,
+    "status/check/mike": 49,
+    "status/check/name": 44,
+    "status/check/tim": 2,
+    "status/cleanup/image": 15,
+    "status/cleanup/map": 9,
+    "status/cleanup/metadata": 80,
+    "status/cleanup/text": 58,
+    "status/cleanup/whereabouts": 4,
+    "status/gameupdate/chasm": 1,
+    "status/gameupdate/clee": 19,
+    "status/gameupdate/dufr": 53,
+    "status/gameupdate/dufru": 1,
+    "status/gameupdate/feywild": 2,
+    "status/gameupdate/gl": 70,
+    "status/review": 17,
+    "status/stub": 117,
+    "status/wip": 35
+  },
+  "profile_statistics": {
+    "ancestry": {
+      "notes": 14,
+      "unscoped_visible_words": {
+        "count": 14,
+        "min": 43,
+        "p25": 228,
+        "median": 379,
+        "p75": 441,
+        "max": 837
+      },
+      "player_facing_visible_words": {
+        "count": 14,
+        "min": 43,
+        "p25": 228,
+        "median": 379,
+        "p75": 441,
+        "max": 837
+      },
+      "canonical_inbound_notes": {
+        "count": 14,
+        "min": 3,
+        "p25": 7,
+        "median": 7,
+        "p75": 12,
+        "max": 51
+      },
+      "structured_children": {
+        "count": 14,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 3
+      },
+      "hierarchical_dependents": {
+        "count": 14,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 3
+      },
+      "located_entities": {
+        "count": 14,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 14,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 7
+      }
+    },
+    "background.framework": {
+      "notes": 18,
+      "unscoped_visible_words": {
+        "count": 18,
+        "min": 26,
+        "p25": 185,
+        "median": 499,
+        "p75": 997,
+        "max": 3311
+      },
+      "player_facing_visible_words": {
+        "count": 18,
+        "min": 26,
+        "p25": 185,
+        "median": 499,
+        "p75": 997,
+        "max": 3311
+      },
+      "canonical_inbound_notes": {
+        "count": 18,
+        "min": 0,
+        "p25": 1,
+        "median": 1,
+        "p75": 3,
+        "max": 32
+      },
+      "structured_children": {
+        "count": 18,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 9
+      },
+      "hierarchical_dependents": {
+        "count": 18,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 9
+      },
+      "located_entities": {
+        "count": 18,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 18,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 2
+      }
+    },
+    "background.other": {
+      "notes": 113,
+      "unscoped_visible_words": {
+        "count": 113,
+        "min": 0,
+        "p25": 92,
+        "median": 241,
+        "p75": 627,
+        "max": 5657
+      },
+      "player_facing_visible_words": {
+        "count": 113,
+        "min": 0,
+        "p25": 93,
+        "median": 241,
+        "p75": 650,
+        "max": 5657
+      },
+      "canonical_inbound_notes": {
+        "count": 113,
+        "min": 0,
+        "p25": 2,
+        "median": 3,
+        "p75": 9,
+        "max": 55
+      },
+      "structured_children": {
+        "count": 113,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 15
+      },
+      "hierarchical_dependents": {
+        "count": 113,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 15
+      },
+      "located_entities": {
+        "count": 113,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 1
+      },
+      "distinct_campaign_sessions": {
+        "count": 113,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 10
+      }
+    },
+    "creature.bestiary": {
+      "notes": 31,
+      "unscoped_visible_words": {
+        "count": 31,
+        "min": 0,
+        "p25": 0,
+        "median": 49,
+        "p75": 102,
+        "max": 742
+      },
+      "player_facing_visible_words": {
+        "count": 31,
+        "min": 0,
+        "p25": 0,
+        "median": 49,
+        "p75": 102,
+        "max": 742
+      },
+      "canonical_inbound_notes": {
+        "count": 31,
+        "min": 0,
+        "p25": 1,
+        "median": 3,
+        "p75": 5,
+        "max": 45
+      },
+      "structured_children": {
+        "count": 31,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "hierarchical_dependents": {
+        "count": 31,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 31,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 31,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 10
+      }
+    },
+    "creature.species": {
+      "notes": 15,
+      "unscoped_visible_words": {
+        "count": 15,
+        "min": 0,
+        "p25": 71,
+        "median": 520,
+        "p75": 640,
+        "max": 1717
+      },
+      "player_facing_visible_words": {
+        "count": 15,
+        "min": 0,
+        "p25": 71,
+        "median": 520,
+        "p75": 640,
+        "max": 1717
+      },
+      "canonical_inbound_notes": {
+        "count": 15,
+        "min": 7,
+        "p25": 10,
+        "median": 27,
+        "p75": 56,
+        "max": 478
+      },
+      "structured_children": {
+        "count": 15,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "hierarchical_dependents": {
+        "count": 15,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 15,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 15,
+        "min": 4,
+        "p25": 6,
+        "median": 10,
+        "p75": 19,
+        "max": 32
+      }
+    },
+    "event": {
+      "notes": 72,
+      "unscoped_visible_words": {
+        "count": 72,
+        "min": 0,
+        "p25": 47,
+        "median": 64,
+        "p75": 121,
+        "max": 1870
+      },
+      "player_facing_visible_words": {
+        "count": 72,
+        "min": 0,
+        "p25": 47,
+        "median": 68,
+        "p75": 121,
+        "max": 1870
+      },
+      "canonical_inbound_notes": {
+        "count": 72,
+        "min": 0,
+        "p25": 2,
+        "median": 4,
+        "p75": 7,
+        "max": 161
+      },
+      "structured_children": {
+        "count": 72,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 3
+      },
+      "hierarchical_dependents": {
+        "count": 72,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 3
+      },
+      "located_entities": {
+        "count": 72,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 72,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 25
+      }
+    },
+    "group": {
+      "notes": 138,
+      "unscoped_visible_words": {
+        "count": 138,
+        "min": 0,
+        "p25": 30,
+        "median": 60,
+        "p75": 110,
+        "max": 553
+      },
+      "player_facing_visible_words": {
+        "count": 138,
+        "min": 0,
+        "p25": 30,
+        "median": 61,
+        "p75": 111,
+        "max": 553
+      },
+      "canonical_inbound_notes": {
+        "count": 138,
+        "min": 0,
+        "p25": 1,
+        "median": 4,
+        "p75": 7,
+        "max": 227
+      },
+      "structured_children": {
+        "count": 138,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 6
+      },
+      "hierarchical_dependents": {
+        "count": 138,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 6
+      },
+      "located_entities": {
+        "count": 138,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 3
+      },
+      "distinct_campaign_sessions": {
+        "count": 138,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 2,
+        "max": 106
+      }
+    },
+    "meta": {
+      "notes": 36,
+      "unscoped_visible_words": {
+        "count": 36,
+        "min": 0,
+        "p25": 102,
+        "median": 293,
+        "p75": 1047,
+        "max": 5240
+      },
+      "player_facing_visible_words": {
+        "count": 36,
+        "min": 0,
+        "p25": 102,
+        "median": 293,
+        "p75": 1047,
+        "max": 5240
+      },
+      "canonical_inbound_notes": {
+        "count": 36,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 1,
+        "max": 8
+      },
+      "structured_children": {
+        "count": 36,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "hierarchical_dependents": {
+        "count": 36,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 36,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 36,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      }
+    },
+    "object.artifact-or-other": {
+      "notes": 33,
+      "unscoped_visible_words": {
+        "count": 33,
+        "min": 18,
+        "p25": 47,
+        "median": 74,
+        "p75": 138,
+        "max": 553
+      },
+      "player_facing_visible_words": {
+        "count": 33,
+        "min": 18,
+        "p25": 65,
+        "median": 89,
+        "p75": 169,
+        "max": 553
+      },
+      "canonical_inbound_notes": {
+        "count": 33,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 6,
+        "max": 15
+      },
+      "structured_children": {
+        "count": 33,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 14
+      },
+      "hierarchical_dependents": {
+        "count": 33,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 33,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 14
+      },
+      "distinct_campaign_sessions": {
+        "count": 33,
+        "min": 0,
+        "p25": 1,
+        "median": 3,
+        "p75": 4,
+        "max": 49
+      }
+    },
+    "object.book": {
+      "notes": 71,
+      "unscoped_visible_words": {
+        "count": 71,
+        "min": 26,
+        "p25": 48,
+        "median": 61,
+        "p75": 92,
+        "max": 1879
+      },
+      "player_facing_visible_words": {
+        "count": 71,
+        "min": 26,
+        "p25": 51,
+        "median": 63,
+        "p75": 106,
+        "max": 1879
+      },
+      "canonical_inbound_notes": {
+        "count": 71,
+        "min": 0,
+        "p25": 2,
+        "median": 2,
+        "p75": 3,
+        "max": 15
+      },
+      "structured_children": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "hierarchical_dependents": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 3
+      }
+    },
+    "object.material": {
+      "notes": 13,
+      "unscoped_visible_words": {
+        "count": 13,
+        "min": 17,
+        "p25": 41,
+        "median": 57,
+        "p75": 112,
+        "max": 354
+      },
+      "player_facing_visible_words": {
+        "count": 13,
+        "min": 17,
+        "p25": 41,
+        "median": 63,
+        "p75": 112,
+        "max": 354
+      },
+      "canonical_inbound_notes": {
+        "count": 13,
+        "min": 0,
+        "p25": 1,
+        "median": 2,
+        "p75": 6,
+        "max": 28
+      },
+      "structured_children": {
+        "count": 13,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "hierarchical_dependents": {
+        "count": 13,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 13,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 13,
+        "min": 0,
+        "p25": 1,
+        "median": 3,
+        "p75": 4,
+        "max": 11
+      }
+    },
+    "person": {
+      "notes": 793,
+      "unscoped_visible_words": {
+        "count": 793,
+        "min": 0,
+        "p25": 29,
+        "median": 50,
+        "p75": 90,
+        "max": 6433
+      },
+      "player_facing_visible_words": {
+        "count": 793,
+        "min": 0,
+        "p25": 29,
+        "median": 54,
+        "p75": 97,
+        "max": 6433
+      },
+      "canonical_inbound_notes": {
+        "count": 793,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 37
+      },
+      "structured_children": {
+        "count": 793,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 5
+      },
+      "hierarchical_dependents": {
+        "count": 793,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 1
+      },
+      "located_entities": {
+        "count": 793,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 5
+      },
+      "distinct_campaign_sessions": {
+        "count": 793,
+        "min": 0,
+        "p25": 1,
+        "median": 1,
+        "p75": 2,
+        "max": 126
+      }
+    },
+    "place.biome": {
+      "notes": 35,
+      "unscoped_visible_words": {
+        "count": 35,
+        "min": 1,
+        "p25": 25,
+        "median": 75,
+        "p75": 110,
+        "max": 520
+      },
+      "player_facing_visible_words": {
+        "count": 35,
+        "min": 1,
+        "p25": 28,
+        "median": 76,
+        "p75": 110,
+        "max": 520
+      },
+      "canonical_inbound_notes": {
+        "count": 35,
+        "min": 1,
+        "p25": 4,
+        "median": 6,
+        "p75": 12,
+        "max": 28
+      },
+      "structured_children": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 2,
+        "p75": 3,
+        "max": 13
+      },
+      "hierarchical_dependents": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 7
+      },
+      "located_entities": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 2,
+        "max": 6
+      },
+      "distinct_campaign_sessions": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 2,
+        "max": 9
+      }
+    },
+    "place.extraplanar": {
+      "notes": 68,
+      "unscoped_visible_words": {
+        "count": 68,
+        "min": 2,
+        "p25": 66,
+        "median": 97,
+        "p75": 293,
+        "max": 1216
+      },
+      "player_facing_visible_words": {
+        "count": 68,
+        "min": 23,
+        "p25": 71,
+        "median": 117,
+        "p75": 317,
+        "max": 1255
+      },
+      "canonical_inbound_notes": {
+        "count": 68,
+        "min": 0,
+        "p25": 2,
+        "median": 4,
+        "p75": 13,
+        "max": 63
+      },
+      "structured_children": {
+        "count": 68,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 26
+      },
+      "hierarchical_dependents": {
+        "count": 68,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 22
+      },
+      "located_entities": {
+        "count": 68,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 9
+      },
+      "distinct_campaign_sessions": {
+        "count": 68,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 30
+      }
+    },
+    "place.infrastructure": {
+      "notes": 35,
+      "unscoped_visible_words": {
+        "count": 35,
+        "min": 3,
+        "p25": 31,
+        "median": 50,
+        "p75": 82,
+        "max": 733
+      },
+      "player_facing_visible_words": {
+        "count": 35,
+        "min": 3,
+        "p25": 31,
+        "median": 50,
+        "p75": 82,
+        "max": 733
+      },
+      "canonical_inbound_notes": {
+        "count": 35,
+        "min": 0,
+        "p25": 2,
+        "median": 3,
+        "p75": 5,
+        "max": 19
+      },
+      "structured_children": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 9
+      },
+      "hierarchical_dependents": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 2
+      },
+      "located_entities": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 9
+      },
+      "distinct_campaign_sessions": {
+        "count": 35,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 5
+      }
+    },
+    "place.landform": {
+      "notes": 75,
+      "unscoped_visible_words": {
+        "count": 75,
+        "min": 0,
+        "p25": 22,
+        "median": 48,
+        "p75": 132,
+        "max": 699
+      },
+      "player_facing_visible_words": {
+        "count": 75,
+        "min": 0,
+        "p25": 22,
+        "median": 51,
+        "p75": 138,
+        "max": 1266
+      },
+      "canonical_inbound_notes": {
+        "count": 75,
+        "min": 0,
+        "p25": 2,
+        "median": 5,
+        "p75": 10,
+        "max": 112
+      },
+      "structured_children": {
+        "count": 75,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 2,
+        "max": 17
+      },
+      "hierarchical_dependents": {
+        "count": 75,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 14
+      },
+      "located_entities": {
+        "count": 75,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 7
+      },
+      "distinct_campaign_sessions": {
+        "count": 75,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 2,
+        "max": 8
+      }
+    },
+    "place.realm": {
+      "notes": 71,
+      "unscoped_visible_words": {
+        "count": 71,
+        "min": 3,
+        "p25": 25,
+        "median": 87,
+        "p75": 313,
+        "max": 2761
+      },
+      "player_facing_visible_words": {
+        "count": 71,
+        "min": 3,
+        "p25": 25,
+        "median": 87,
+        "p75": 313,
+        "max": 2761
+      },
+      "canonical_inbound_notes": {
+        "count": 71,
+        "min": 0,
+        "p25": 3,
+        "median": 7,
+        "p75": 18,
+        "max": 230
+      },
+      "structured_children": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 5,
+        "max": 31
+      },
+      "hierarchical_dependents": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 28
+      },
+      "located_entities": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 12
+      },
+      "distinct_campaign_sessions": {
+        "count": 71,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 2,
+        "max": 44
+      }
+    },
+    "place.region": {
+      "notes": 50,
+      "unscoped_visible_words": {
+        "count": 50,
+        "min": 10,
+        "p25": 75,
+        "median": 204,
+        "p75": 430,
+        "max": 1337
+      },
+      "player_facing_visible_words": {
+        "count": 50,
+        "min": 10,
+        "p25": 75,
+        "median": 204,
+        "p75": 430,
+        "max": 1337
+      },
+      "canonical_inbound_notes": {
+        "count": 50,
+        "min": 0,
+        "p25": 3,
+        "median": 7,
+        "p75": 13,
+        "max": 34
+      },
+      "structured_children": {
+        "count": 50,
+        "min": 0,
+        "p25": 0,
+        "median": 3,
+        "p75": 7,
+        "max": 25
+      },
+      "hierarchical_dependents": {
+        "count": 50,
+        "min": 0,
+        "p25": 0,
+        "median": 2,
+        "p75": 5,
+        "max": 21
+      },
+      "located_entities": {
+        "count": 50,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 5
+      },
+      "distinct_campaign_sessions": {
+        "count": 50,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 12
+      }
+    },
+    "place.settlement": {
+      "notes": 164,
+      "unscoped_visible_words": {
+        "count": 164,
+        "min": 1,
+        "p25": 28,
+        "median": 62,
+        "p75": 136,
+        "max": 1608
+      },
+      "player_facing_visible_words": {
+        "count": 164,
+        "min": 1,
+        "p25": 28,
+        "median": 62,
+        "p75": 136,
+        "max": 1608
+      },
+      "canonical_inbound_notes": {
+        "count": 164,
+        "min": 0,
+        "p25": 2,
+        "median": 5,
+        "p75": 9,
+        "max": 112
+      },
+      "structured_children": {
+        "count": 164,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 87
+      },
+      "hierarchical_dependents": {
+        "count": 164,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 37
+      },
+      "located_entities": {
+        "count": 164,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 78
+      },
+      "distinct_campaign_sessions": {
+        "count": 164,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 2,
+        "max": 41
+      }
+    },
+    "place.structure": {
+      "notes": 117,
+      "unscoped_visible_words": {
+        "count": 117,
+        "min": 3,
+        "p25": 30,
+        "median": 58,
+        "p75": 109,
+        "max": 531
+      },
+      "player_facing_visible_words": {
+        "count": 117,
+        "min": 3,
+        "p25": 32,
+        "median": 67,
+        "p75": 116,
+        "max": 531
+      },
+      "canonical_inbound_notes": {
+        "count": 117,
+        "min": 0,
+        "p25": 1,
+        "median": 2,
+        "p75": 4,
+        "max": 30
+      },
+      "structured_children": {
+        "count": 117,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 9
+      },
+      "hierarchical_dependents": {
+        "count": 117,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 6
+      },
+      "located_entities": {
+        "count": 117,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 8
+      },
+      "distinct_campaign_sessions": {
+        "count": 117,
+        "min": 0,
+        "p25": 1,
+        "median": 1,
+        "p75": 3,
+        "max": 17
+      }
+    },
+    "place.water-feature": {
+      "notes": 129,
+      "unscoped_visible_words": {
+        "count": 129,
+        "min": 1,
+        "p25": 19,
+        "median": 36,
+        "p75": 76,
+        "max": 651
+      },
+      "player_facing_visible_words": {
+        "count": 129,
+        "min": 1,
+        "p25": 19,
+        "median": 36,
+        "p75": 76,
+        "max": 651
+      },
+      "canonical_inbound_notes": {
+        "count": 129,
+        "min": 0,
+        "p25": 2,
+        "median": 4,
+        "p75": 8,
+        "max": 70
+      },
+      "structured_children": {
+        "count": 129,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 8
+      },
+      "hierarchical_dependents": {
+        "count": 129,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 5
+      },
+      "located_entities": {
+        "count": 129,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 4
+      },
+      "distinct_campaign_sessions": {
+        "count": 129,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 8
+      }
+    },
+    "place.watershed": {
+      "notes": 9,
+      "unscoped_visible_words": {
+        "count": 9,
+        "min": 20,
+        "p25": 65,
+        "median": 127,
+        "p75": 135,
+        "max": 354
+      },
+      "player_facing_visible_words": {
+        "count": 9,
+        "min": 20,
+        "p25": 65,
+        "median": 127,
+        "p75": 135,
+        "max": 354
+      },
+      "canonical_inbound_notes": {
+        "count": 9,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 5,
+        "max": 12
+      },
+      "structured_children": {
+        "count": 9,
+        "min": 1,
+        "p25": 2,
+        "median": 5,
+        "p75": 11,
+        "max": 23
+      },
+      "hierarchical_dependents": {
+        "count": 9,
+        "min": 1,
+        "p25": 2,
+        "median": 5,
+        "p75": 11,
+        "max": 23
+      },
+      "located_entities": {
+        "count": 9,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 9,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 1
+      }
+    },
+    "power": {
+      "notes": 86,
+      "unscoped_visible_words": {
+        "count": 86,
+        "min": 8,
+        "p25": 30,
+        "median": 54,
+        "p75": 83,
+        "max": 405
+      },
+      "player_facing_visible_words": {
+        "count": 86,
+        "min": 8,
+        "p25": 30,
+        "median": 57,
+        "p75": 86,
+        "max": 456
+      },
+      "canonical_inbound_notes": {
+        "count": 86,
+        "min": 0,
+        "p25": 2,
+        "median": 4,
+        "p75": 8,
+        "max": 47
+      },
+      "structured_children": {
+        "count": 86,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 1
+      },
+      "hierarchical_dependents": {
+        "count": 86,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 86,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 1
+      },
+      "distinct_campaign_sessions": {
+        "count": 86,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 3,
+        "max": 22
+      }
+    },
+    "primary-source": {
+      "notes": 16,
+      "unscoped_visible_words": {
+        "count": 16,
+        "min": 0,
+        "p25": 186,
+        "median": 274,
+        "p75": 483,
+        "max": 764
+      },
+      "player_facing_visible_words": {
+        "count": 16,
+        "min": 0,
+        "p25": 186,
+        "median": 274,
+        "p75": 483,
+        "max": 764
+      },
+      "canonical_inbound_notes": {
+        "count": 16,
+        "min": 0,
+        "p25": 0,
+        "median": 1,
+        "p75": 2,
+        "max": 10
+      },
+      "structured_children": {
+        "count": 16,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "hierarchical_dependents": {
+        "count": 16,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "located_entities": {
+        "count": 16,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 0,
+        "max": 0
+      },
+      "distinct_campaign_sessions": {
+        "count": 16,
+        "min": 0,
+        "p25": 0,
+        "median": 0,
+        "p75": 1,
+        "max": 2
+      }
+    }
+  },
+  "calibration": {
+    "state": "calibrated",
+    "reviewed_examples": 40,
+    "findings": [
+      "Container role is structural evidence, not importance; container-low-prose thresholds are profile-aware and stricter than in the first revision.",
+      "Publication decisions are prompted by publishing state and content-channel imbalance, without requiring high graph centrality.",
+      "The explorer decision model should separate setting importance from campaign importance and offer publication as a work type.",
+      "Watersheds are bounded linker notes and use their own profile rather than the general region standard.",
+      "Private-heavy notes with some public prose can still require a publication-completeness decision."
+    ],
+    "note": "Calibrated through four interactive review groups. Candidate signals remain transparent prompts for human review, not quality judgments."
+  }
+}

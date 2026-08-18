@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/gameupdate/gl]
 displayDefaults: {defArt: ""}
 name: The Hero's Feast
 created: 1748-08-07

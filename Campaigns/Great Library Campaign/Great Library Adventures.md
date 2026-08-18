@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+tags: [session-note]
 name: The Chronicles of the Silver Tempests
 ---
 # The Chronicles of the Silver Tempests
@@ -39,4 +40,6 @@ This full story is told in the [[Great Library Session Notes - Arc 4|Chronicles 
 
 After months of waiting, clues to the mysterious disappearance of [[Urkabi]], [[Samso]]'s village, arrive with a new traveler, [[Blue]]. The [[Silver Tempests]] set off to the south to investigate, traveling to the city of [[Castrella]], and then into the mountains on a hunt for [[Yeshara]], the wolf-eyed queen of a shadowy realm called [[Cairn Dor]]. Fighting through shadowy enemies, the [[Silver Tempests]] find a portal to [[Cairn Dor]] called the [[Cleaver-Stone]], as well as a series of stone plinths that form a soul compass, facilitating the theft of mortals from the [[Material Plane]] to serve as dreamers for the [[Shemra Azem]], the sleepless, every-vigilant army of [[Cairn Dor]]. With the aid of clues found in the old Drankorian fortress guarding this place, the [[Silver Tempests]] shut down the portal and the soul compass, but retreat to [[Castrella]] to regroup before venturing into [[Cairn Dor]] itself. 
 
-This ongoing story is documented in the [[Great Library Session Notes - Arc 5|Chronicles of the Quest for Answers to Extraplanar Mysteries]].
+After a few weeks of recovery and research, the [[Silver Tempests]] enter [[Cairn Dor]], where they learn that the sleeping dreamers sustain the [[Shemra Azem]] and keep [[Yeshara]] from harm. With the aid of [[Joram of Eshlem]], the party finds the [[Wolf Queen's Stillings]], awakens the kidnapped lizardfolk, and causes their [[Shemra Azem]] guards to fall before defeating [[Yeshara]] herself. But when the wolf-eyed queen falls, the party, the rescued dreamers, and the people of [[Cairn Dor]] fall into a magical sleep. [[Samso]], protected from the enchantment in earth elemental form, wanders the realm alone for years before finally joining his companions in sleep. When the party and the rescued dreamers awaken, they discover that almost four years have passed, though the people of [[Cairn Dor]] remain asleep. They escape through a portal to [[Enderra]] and escort the surviving lizardfolk, including much of [[Samso]]'s family, back to [[Urkabi]]. Along the way, they learn that [[Voltara]] is in chaos and the [[Northern Provinces]] have split from the [[Chardonian Empire]]. 
+
+This full story is told in the [[Great Library Session Notes - Arc 5|Chronicles of the Quest for Answers to Extraplanar Mysteries]].

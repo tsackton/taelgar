@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place, status/gameupdate/gl]
 displayDefaults:
   endStatus: mysteriously vanished in
 destroyed: 1737

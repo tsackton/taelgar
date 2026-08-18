@@ -4,6 +4,8 @@ tags: [object]
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AUn> <typeof:AUn><(, written )written:nx><( by )author:nx>"}
 typeOf: book
 typeOfAlias: cosmological treatise
+dm_owner: none
+dm_notes: none
 ---
 # Codex Maledictum
 >[!info]+ Information  

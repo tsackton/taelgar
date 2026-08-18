@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/gl]
 name: Julius of Voltara
 ancestry: Chardonian
 species: human

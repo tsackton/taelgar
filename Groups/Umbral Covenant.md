@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+tags: [group, status/gameupdate/gl]
 dm_notes: important
 dm_owner: tim
 typeOf: army

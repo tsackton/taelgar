@@ -9,6 +9,8 @@ whereabouts:
 - {type: home, location: Wickerley}
 - {type: home, location: Tollen}
 - {type: away, start: 1740-10-05, location: Twilight Kingdom}
+dm_owner: player
+dm_notes: important
 ---
 # Edric
 >[!info]+ Biographical Info  
