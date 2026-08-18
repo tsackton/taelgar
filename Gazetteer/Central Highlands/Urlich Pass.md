@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [placem, status/check/errors]
+tags: [place, status/check/errors]
 displayDefaults: {defArt: ""}
 name: Urlich Pass
 typeOf: topographical feature

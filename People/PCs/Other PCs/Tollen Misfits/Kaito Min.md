@@ -10,6 +10,8 @@ whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Tollen}
 - {type: away, start: 1740-10-05, location: Twilight Kingdom}
+dm_owner: player
+dm_notes: important
 ---
 # Kaito Min
 >[!info]+ Biographical Info  

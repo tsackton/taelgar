@@ -1,5 +1,7 @@
 ---
 tags: [group]
+dm_owner: mike
+dm_notes: important
 ---
 
 

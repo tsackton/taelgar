@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+tags: [group, status/gameupdate/gl]
 name: Order of Twilight
 typeOf: religious order
 dm_owner: none

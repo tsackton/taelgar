@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/gameupdate/gl]
+tags: [object]
 name: Thunderbrand
 typeOf: warhammer
 subTypeOf: magical
@@ -13,4 +13,4 @@ dm_notes: none
 > ([[Dwarves|dwarven]] magical warhammer)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A powerful magical warhammer, of dwarven make, recovered in the [[Goldpeak Mines]] mines under [[Goldpeak Mountain]] alongside [[Coldguard]]. 
+A powerful magical warhammer, of dwarven make, currently wielded by [[Adrik]]. It was lost in the [[Goldpeak Mines]] mines under [[Goldpeak Mountain]] for many years, with the magical shield [[Coldguard]], until both were recovered by the [[Silver Tempests]]. 

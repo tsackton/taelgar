@@ -14,7 +14,7 @@ typeOfAlias: empire
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% NOTE: current as of May 1749 - NOT updated for post-Dunmar Frontier events %%
+%% NOTE: current as of May (POV:: 1749) - NOT updated for post-Dunmar Frontier events %%
 
 The Chardonian Empire is a large and powerful realm ruled from the city of [[Chardon]]. Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [[Chalyte|chalyte]] trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [[Voltara]] in the north to [[Illoria]] in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [[Drankorian Empire]] 
 

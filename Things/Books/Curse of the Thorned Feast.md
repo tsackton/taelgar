@@ -6,6 +6,8 @@ typeOf: book
 typeOfAlias: ballad
 ancestry: Chardonian
 written: "sometime after the [[Fall of Drankor]]"
+dm_owner: none
+dm_notes: none
 ---
 # Curse of the Thorned Feast
 >[!info]+ Information  

@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: topographical feature
+dm_owner: mike
+dm_notes: important
 ---
 # The Zimkova Highlands
 >[!info]+ Information  

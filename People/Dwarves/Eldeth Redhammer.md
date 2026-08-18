@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/gameupdate/gl]
 name: Eldeth Redhammer
 born: 1711
 species: dwarf

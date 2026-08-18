@@ -23,7 +23,10 @@ The manor has a courtyard garden, service and common rooms around the courtyard,
 
 %% 
 In DR 1752, _Transport Via Plants_ to the courtyard failed, suggesting changes/destruction, but details have not yet been revealed in game 
-DM notes; [[GL - Session 38 - DM Notes]]
+
+Likely has been either destroyed or taken over. Canonically, Brelith escaped with the contents of the vault. Julius' fate has not been revealed. 
+
+DM notes: [[GL - Session 38 - DM Notes]]
 
 (DR:: 1748-03-10): cast Hallow with Fear effect, targeting anyone without permission to be in the manor; Adrik and rest get extradimensional vault
 (DR:: 1748-03-11): Brelith sleeps

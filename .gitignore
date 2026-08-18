@@ -29,6 +29,13 @@ assets/unshared/
 !.obsidian/plugins/taelgar-name-explorer/styles.css
 !.obsidian/plugins/taelgar-name-explorer/test-core.js
 !.obsidian/plugins/taelgar-name-explorer/test-vault.js
+!.obsidian/plugins/taelgar-editorial-review
+!.obsidian/plugins/taelgar-editorial-review/manifest.json
+!.obsidian/plugins/taelgar-editorial-review/main.js
+!.obsidian/plugins/taelgar-editorial-review/core.js
+!.obsidian/plugins/taelgar-editorial-review/styles.css
+!.obsidian/plugins/taelgar-editorial-review/test-core.js
+!.obsidian/plugins/taelgar-editorial-review/test-vault.js
 !.obsidian/metadata.json
 !.obsidian/snippets
 .obsidian/snippets/*

@@ -4,6 +4,8 @@ tags: [place]
 typeOf: topographical feature
 typeOfAlias: promotory
 whereabouts: Twilight Kingdom
+dm_owner: none
+dm_notes: none
 ---
 # The Twilight Promontory
 >[!info]+ Information  
