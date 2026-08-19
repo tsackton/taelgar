@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T14:40:45-04:00"
-lintVersion: "2.2"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 displayDefaults: {dPastHasStart: "Began on <startdate>, ended on <enddate>"}
-tags: [event]
+tags: [event, status/check/lint]
 typeOf: war
 DR: 1747-05-28
 DR_end: 1749-07-25
-POV: 1750
 name: Chardon-Dunmar War
 dm_owner: tim
 dm_notes: none
+POV: 1750
 ---
 # The Chardon-Dunmar War
 >[!info]+ Information  
@@ -89,4 +89,20 @@ povNotes: "Accuracy range: DR 1750 and later, after Fausto's role and Apollyon's
 
 %%^Metadata:names:v1%%
 - {name: Chardon-Dunmar War, role: primary, language: Common, pronunciation: title, status: inferred, notes: descriptive Common title formed from the two belligerent realms}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **warning — `dm.notes_private_evidence_suspect`:** Additional local hidden material links here from [[Short Adventure Ideas (2025-2026)]]. The existing SECRET link does not account for that note. Review `dm_notes: none`; if the hidden material is significant, change it to either `color` or `important`. Do not change it merely because a link exists.
+
+### Applied changes
+
+- Moved `POV` to its canonical final frontmatter position and retained the retrospective DR 1750 article model.
+
+### Validated
+
+- The later causal account of Fausto and Apollyon is intentionally retrospective and does not make the dated DR 1743–1749 chronology internally inconsistent.
 %%^End%%

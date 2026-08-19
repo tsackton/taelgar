@@ -542,35 +542,56 @@ module TaelgarNoteLint
       rescue Errno::ENOENT, Errno::EACCES
         next
       end
+      @mention_cache = {}
     end
 
     def mentions(note)
-      resolvable_names = note.identity_names.select do |name|
-        @index.resolve_identity(name, note.path) == [note.path]
-      end
-      @documents.each_with_object([]) do |(path, original_text), matches|
-        text = TaelgarNoteLint.mask_markdown_code(original_text)
-        lines = []
-        kinds = []
-        text.lines.each_with_index do |line, index|
-          linked = line.scan(/(?<!!)\[\[([^\]\n]+)\]\]/).flatten.any? do |raw|
-            @index.resolve(raw, path).include?(note.path)
-          end
-          named = resolvable_names.any? { |name| exact_name_match?(line, name) }
-          next unless linked || named
+      preload([note]) unless @mention_cache.key?(note.path)
+      @mention_cache.fetch(note.path)
+    end
 
-          lines << index + 1
-          kinds << "link" if linked
-          kinds << "name" if named
+    def preload(notes)
+      pending = notes.uniq { |note| note.path }.reject { |note| @mention_cache.key?(note.path) }
+      return if pending.empty?
+
+      target_paths = pending.each_with_object({}) { |note, paths| paths[note.path] = true }
+      resolvable_names = pending.each_with_object({}) do |note, names|
+        names[note.path] = note.identity_names.select do |name|
+          @index.resolve_identity(name, note.path) == [note.path]
         end
-        next if lines.empty?
-
-        matches << {
-          "path" => path,
-          "lines" => lines.uniq,
-          "matchKinds" => kinds.uniq
-        }
       end
+      matches_by_target = Hash.new { |hash, key| hash[key] = [] }
+
+      @documents.each do |path, original_text|
+        text = TaelgarNoteLint.mask_markdown_code(original_text)
+        lines_by_target = Hash.new { |hash, key| hash[key] = [] }
+        kinds_by_target = Hash.new { |hash, key| hash[key] = [] }
+        text.lines.each_with_index do |line, index|
+          linked_targets = line.scan(/(?<!!)\[\[([^\]\n]+)\]\]/).flatten.flat_map do |raw|
+            @index.resolve(raw, path)
+          end.select { |target| target_paths.key?(target) }.uniq
+          linked_targets.each do |target|
+            lines_by_target[target] << index + 1
+            kinds_by_target[target] << "link"
+          end
+
+          resolvable_names.each do |target, names|
+            next unless names.any? { |name| exact_name_match?(line, name) }
+
+            lines_by_target[target] << index + 1
+            kinds_by_target[target] << "name"
+          end
+        end
+        lines_by_target.each do |target, lines|
+          matches_by_target[target] << {
+            "path" => path,
+            "lines" => lines.uniq,
+            "matchKinds" => kinds_by_target[target].uniq
+          }
+        end
+      end
+
+      pending.each { |note| @mention_cache[note.path] = matches_by_target[note.path] }
     end
 
     private
@@ -640,6 +661,10 @@ module TaelgarNoteLint
         "findings" => findings.sort_by { |finding| finding_sort_key(finding) },
         "summary" => summarize(findings)
       }
+    end
+
+    def preload_dm_notes(notes)
+      @dm_scanner&.preload(notes)
     end
 
     private
@@ -1573,10 +1598,16 @@ module TaelgarNoteLint
   end
 
   class FreshnessScanner
+    attr_reader :baseline_ref
+
     def initialize(root:, index:, baseline_ref: nil, linted_at: nil)
       @root = Pathname.new(root).expand_path
       @index = index
       @baseline_ref = baseline_ref || resolve_time_ref(linted_at)
+      @changed_paths_cache = nil
+      @diff_cache = {}
+      @log_cache = {}
+      @numstat_cache = {}
     end
 
     def scan(note_report)
@@ -1621,8 +1652,10 @@ module TaelgarNoteLint
     end
 
     def changed_paths
-      output = git("diff", "--name-only", "-z", @baseline_ref, "--")
-      output.split("\0").reject(&:empty?)
+      @changed_paths_cache ||= begin
+        output = git("diff", "--name-only", "-z", @baseline_ref, "--")
+        output.split("\0").reject(&:empty?)
+      end
     end
 
     def invention_source?(path)
@@ -1676,7 +1709,7 @@ module TaelgarNoteLint
 
     def build_candidate(path, mentions, target_path, target_names, target_plain_names)
       additions, deletions = numstat(path)
-      diff = git("diff", "--unified=0", @baseline_ref, "--", path)
+      diff = @diff_cache[path] ||= git("diff", "--unified=0", @baseline_ref, "--", path)
       added_lines = diff.lines.select { |line| line.start_with?("+") && !line.start_with?("+++") }
       mention_changed = if path.end_with?("beat-facts.json")
                           lowered = target_names.map { |name| TaelgarNoteLint.normalize(name) }
@@ -1693,7 +1726,7 @@ module TaelgarNoteLint
                           end
                         end
 
-      log = git("log", "-1", "--format=%H%x09%cI%x09%s", "--", path).strip.split("\t", 3)
+      log = (@log_cache[path] ||= git("log", "-1", "--format=%H%x09%cI%x09%s", "--", path)).strip.split("\t", 3)
       {
         "path" => path,
         "sourceKind" => source_kind(path),
@@ -1707,8 +1740,10 @@ module TaelgarNoteLint
     end
 
     def numstat(path)
-      fields = git("diff", "--numstat", @baseline_ref, "--", path).strip.split(/\s+/, 3)
-      [integer_or_zero(fields[0]), integer_or_zero(fields[1])]
+      @numstat_cache[path] ||= begin
+        fields = git("diff", "--numstat", @baseline_ref, "--", path).strip.split(/\s+/, 3)
+        [integer_or_zero(fields[0]), integer_or_zero(fields[1])]
+      end
     end
 
     def integer_or_zero(value)

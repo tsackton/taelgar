@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T14:40:45-04:00"
-lintVersion: "2.2"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [person]
 species: human
 ancestry: Tollender
 campaignInfo:
-- {campaign: dufr, date: 1748-12-29, type: met}
+  - {campaign: dufr, date: 1748-12-29, type: met}
 born: 1716
 gender: male
 name: Thomas Hawke

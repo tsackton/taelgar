@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T11:00:23-04:00"
-lintVersion: "2.1"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof>"}
+tags: [group]
 typeOf: family
 typeOfAlias: dynasty
-tags: [group]
 ancestry: Dunmari
 name: Aatmaji dynasty
 pronunciation: AAT-mah-jee
 dm_owner: tim
 dm_notes: important
+POV: 1700s
 ---
 # The Aatmaji Dynasty
 *(AAT-mah-jee)*
@@ -37,8 +38,7 @@ dv.table(["Person", "Info", "Born", "Died"],
 
 %%^Metadata:article:v1%%
 mode: historical reference
-pov: current-setting reference looking back on a completed dynasty
-povNotes: The visible article speaks retrospectively about a dynasty that ended in DR 1395. Its incompleteness is a coverage problem, not a need for a separate timeline POV comment.
+povNotes: "Accuracy range: broadly the DR 1700s. The visible article is a current-setting retrospective on a dynasty that ended in DR 1395; its historical dates do not make the article's speaking point contemporary with the dynasty."
 %%^End%%
 
 %%^Metadata:names:v1%%

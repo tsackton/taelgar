@@ -1,18 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Istaros
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+tags: [place, status/check/lint]
 typeOf: waterway
+typeOfAlias: river
+name: Istaros
+aliases: [Aistanë, Drogar, Mahar]
 whereabouts: Istaros Watershed
-aliases:
-  - Aistanë
-  - Drogar
-  - Mahar
-lintedAt: "2026-08-19T01:07:33-04:00"
-lintVersion: 2
 dm_owner: joint
 dm_notes: important
-typeOfAlias: river
+POV: post-Great-War
 ---
 # Istaros
 >[!info]+ Information
@@ -40,37 +38,41 @@ Once, the Istaros joined the Hara, forming a broad river that flowed past the fa
 
 The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[Orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[First Plague]] and the fall of Drankor.
 
-%%^Metadata:names%%
-version: 1
-names:
-  - {form: Istaros, role: primary, language: unknown, languageStatus: unresolved, pronunciationStatus: unresolved, derivation: corruption, sourceForm: Aistanë, sourceLanguage: Elvish, certainty: likely}
-  - {form: Aistanë, role: historical, language: Elvish, languageStatus: documented, pronunciationStatus: documented, pronunciation: EYE-stah-neh, derivation: original, meaning: blessed water, certainty: documented}
-  - {form: Drogar, role: regional, language: Orcish, languageStatus: documented, derivation: unknown}
-  - {form: Mahar, role: regional, language: Dunmari, languageStatus: documented, derivation: unknown}
+%%^Metadata:names:v1%%
+- {name: Istaros, role: primary, language: unknown, pronunciation: ISS-tah-rohs, derivedFrom: Aistanë, status: proposed, notes: likely corruption of the Elvish form; source language and exact sound change are unresolved}
+- {name: Aistanë, role: historical, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, status: documented}
+- {name: Drogar, role: regional, language: Orcish, status: documented}
+- {name: Mahar, role: regional, language: Dunmari, status: documented}
+%%^End%%
+
+%%^Metadata:map:v1%%
+status: missing
+locations: []
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: "Accuracy range: post-Great-War. The article contrasts the present cursed watershed with earlier river landscapes and deliberately leaves the lower Istaros and the fate of Isingue's life-giving water uncertain."
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
-- Linted: 2026-08-19T01:07:33-04:00
-- Linter version: 2
-- Profile: major river
-- Article mode: current encyclopedic geography
-- Temporal POV: post-Great-War present, with historical contrasts
-- Inference confidence: high
-- POV suitability: broadly suitable; the article correctly leaves the lower river's present condition uncertain
-- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
 
 ### Open findings
-- [ ] **Pronunciation:** required for “Istaros” and absent. Aistanë's documented pronunciation does not establish how the corrupted form is pronounced.
-- [ ] **Name evidence:** the source language of the present form “Istaros” remains unresolved even though its proposed Elvish source is recorded.
-- [ ] **Map coverage:** a major river should have a registered map representation or route plus source, mouth, and confluences. The prose names these features, but no coordinate system or route data is recorded.
-- [ ] **Later invention:** later DuFr material connects Isingue's life-giving water more specifically to the Heartroot and its wound. Decide whether that belongs in this public watershed article, a campaign block, or only the linked Isingue/Heartroot notes.
-- [ ] **Private attestation:** `dm_notes: important` is not machine-verifiable.
+
+- [ ] **warning — `name.pronunciation_missing`:** `ISS-tah-rohs` is a low-confidence spelling-based proposal. The note says Istaros is probably a corruption of Aistanë, but the sound change and present form’s source language are unresolved. If accepted, copy:
+  ```yaml
+  pronunciation: ISS-tah-rohs
+  ```
+  and update the primary name entry’s status.
+- [ ] **warning — `metadata.map_location_missing`:** A major waterway requires map metadata. Replace the explicit `status: missing` block with supported route, source, mouth, and confluence data when available; do not invent coordinates.
+- [ ] **suggestion — `coverage.newer_heartroot_evidence`:** Later DuFr source material identifies the ancient fertility around Isingue more specifically with the Heartroot and its wounding. Decide whether that belongs here or only in linked campaign material. Copy-ready campaign-scoped candidate: `%%^Campaign:dufr%% The [[Dunmar Fellowship]] learned that the ancient fertility along the upper Istaros was bound to the [[Heartroot]], a vast symbiotic magic wounded during the [[Great War]]; an untainted fragment survived on the [[Aurbez Plateau]]. %%^End%%`
 
 ### Applied changes
-- Added the trial lint state, `status/check/ai`, and a naming block preserving documented names and uncertainty.
-- Normalized the tag list and corrected “confluence of with” to “confluence with.”
 
-### Evidence reviewed
-- [[Isingue]]; [[Heartroot]]; [[Heartroot Vision]]; [[Background/Languages]]; current article
+- Added `POV: post-Great-War`, current article metadata, an explicit missing-map block, and v1 name metadata preserving the documented regional names and unresolved primary form.
+
+### Validated
+
+- Local hidden material supports `dm_notes: important`. The article honestly leaves the lower river and the fate of Isingue’s life-giving water uncertain.
 %%^End%%

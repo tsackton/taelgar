@@ -1,9 +1,11 @@
 ---
-lintedAt: "2026-08-19T11:00:23-04:00"
-lintVersion: "2.1"
-tags: [source, status/cleanup/text]
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+tags: [source, status/cleanup/text, status/check/lint]
+name: Story about Hags
 dm_owner: tim
 dm_notes: none
+POV: timeless
 ---
 %% this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%
 
@@ -25,6 +27,21 @@ With a weary heart you return to the village, thinking of how you can do what sh
 
 %%^Metadata:article:v1%%
 mode: preserved external source material awaiting adaptation
-pov: undated second-person narrative
-povNotes: The narrative sequence belongs to the preserved source artifact, not to Taelgar chronology. Lint may assess attribution and adaptation, but it must not declare the source’s assertions factually wrong.
+povNotes: "Accuracy range: not tied to Taelgar chronology. This is an undated second-person source narrative whose internal sequence belongs to the preserved artifact; its assertions are source material rather than claims the linter can declare factually wrong."
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **suggestion — `status.cleanup_text_pending`:** `status/cleanup/text` and the opening comment deliberately mark this preserved external source as awaiting a decision about Taelgar-specific adaptation and reformatting. This is editorial work, not an assertion that the source narrative is factually wrong.
+
+### Applied changes
+
+- Added the explicit note name, `POV: timeless`, and current article metadata while preserving the source text exactly.
+
+### Validated
+
+- As primary source material, the narrative itself is not subject to incorrectness findings; lint applies only to attribution, adaptation, and metadata.
 %%^End%%

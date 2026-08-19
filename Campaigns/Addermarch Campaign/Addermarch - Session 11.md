@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "2.1"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 11
@@ -12,6 +12,7 @@ players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 tagline: in which the party discovers a fey mystery.
 descTitle: The Cursed Song
 name: Addermarch Campaign - Session 11
+POV: 1715
 ---
 # Addermarch Campaign - Session 11
 
@@ -87,6 +88,5 @@ Although it is now dark, the party sets out to return to [[Haldrenn]] with [[Row
 
 %%^Metadata:article:v1%%
 mode: campaign record
-pov: source record of events played as DR 1715-05-16 through DR 1715-05-17
-povNotes: The session note is authoritative for what occurred in play. Addermarch is canonical and explicitly set in DR 1715, so this record’s DR 1715-05-16 through DR 1715-05-17 dates are anchored in the campaign chronology.
+povNotes: "Accuracy range: DR 1715-05-16 through DR 1715-05-17. This is an authoritative source record of events played on those dates; the note's viewpoint is the session chronology itself."
 %%^End%%

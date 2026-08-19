@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T11:00:23-04:00"
-lintVersion: "2.1"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [place]
 typeOf: watershed
-whereabouts: Hara Basin
 name: Hara Watershed
 pronunciation: HAH-rah
+whereabouts: Hara Basin
 dm_owner: tim
 dm_notes: none
+POV: 1700s
 ---
 # The Hara Watershed
 *(HAH-rah)*
@@ -25,8 +26,7 @@ The major tributaries of the Hara river include:
 
 %%^Metadata:article:v1%%
 mode: geographic reference
-pov: current-setting account
-povNotes: The article summarizes stable drainage, seasonal flow, and cultural geography. Later campaign references use this watershed but do not establish a changed historical state that needs its own article POV.
+povNotes: "Accuracy range: broadly the DR 1700s. The article summarizes stable drainage, seasonal flow, and cultural geography; later campaign references use the watershed but do not establish a changed historical state."
 %%^End%%
 
 %%^Metadata:names:v1%%

@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-19T11:00:23-04:00"
-lintVersion: "2.1"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [session-note]
 campaign: Dunmar Frontier
 sessionNumber: 41
@@ -11,6 +11,7 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party returns to Tokra and plans their next steps
 descTitle: "Monsoon's Arrival"
 name: Dunmari Frontier - Session 41
+POV: 1748
 ---
 # Dunmari Frontier - Session 41
 
@@ -71,6 +72,5 @@ We end as the conversation fades and the party agrees that [[Johar]] will come w
 
 %%^Metadata:article:v1%%
 mode: campaign record
-pov: retrospective account of DR 1748-07-06 through DR 1748-07-13
-povNotes: The bounded dates and campaign perspective are part of the source record. The linter may flag unclear wording or downstream continuity work, but it must not declare the session’s recorded events factually wrong.
+povNotes: "Accuracy range: DR 1748-07-06 through DR 1748-07-13. The bounded dates and campaign perspective are part of this authoritative source record; the note's viewpoint is the recorded session chronology."
 %%^End%%

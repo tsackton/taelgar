@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T14:40:45-04:00"
-lintVersion: "2.2"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [person, testcase]
 species: halfling
 ancestry: null
@@ -37,42 +37,5 @@ povNotes: "Accuracy range: minimal. This is a snapshot of Alton Greenleaf at the
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Alton Greenleaf, role: primary, language: Common, pronunciation: obvious, status: documented}
-%%^End%%
-
-%%^Lint%%
-## Open findings
-
-- [ ] `relationship.unresolved_location` (warning): the ongoing `whereabouts` entry uses `traveling east to Tokra` as a location target, but no such note or alias exists. [[Session 42 (DuFr)]] establishes only that Alton and Lyle were at the [[Melavan Caravanserai]] on DR 1748-07-18 and intended to travel east toward [[Tokra]]; it does not establish a later arrival.
-- [ ] `name.language_inferred` (suggestion): the name block treats the English-readable “Alton Greenleaf” as Common because [[Languages]] maps written-out English names to Common. No source explicitly identifies the in-world language of his name; confirm or revise that inference.
-
-## Copy-ready candidate
-
-If the unresolvable journey entry is not intended as a special testcase, the source-bounded whereabouts are:
-
-```yaml
-whereabouts:
-- {type: away, start: 1748-07-18, end: 1748-07-18, location: Melavan Caravanserai}
-```
-
-## Applied changes
-
-- Added experimental `POV: 1748` and a minimal-range `povNotes` explanation; this deliberately records only the encounter and immediate stated journey.
-- Added `knownTo: [dufr]`, supported by the direct encounter in [[Session 42 (DuFr)]].
-- Added persistent name metadata and the obvious-pronunciation exception.
-- Canonicalized frontmatter layout, including explicit nulls for the existing empty `born` and `ancestry` fields, and wrote the 2.2 lint state.
-
-## Evidence reviewed
-
-- [[Session 42 (DuFr)]] for the DR 1748-07-18 encounter, Alton's brother, and their stated direction of travel.
-- [[Greenleafs]] for the same family relationship and travel plan; it adds no established earlier or later life.
-- [[Languages]] for the provisional Common name-language inference.
-
-## Validated judgments
-
-- `Accuracy range: minimal` is useful here: the note is an accurate encounter snapshot, not an incomplete biography.
-- “Alton Greenleaf” qualifies for the obvious ordinary-name pronunciation exception.
-- No local-only `_DM_` note was found that makes `dm_notes: none` suspect.
-- The campaign annotation is embedded in the information callout below the title; the deterministic comment-placement suggestion is not applicable.
-- The current 2.2 validator still requires the pre-proposal free-text `pov` key in article metadata. This experiment intentionally uses searchable frontmatter `POV` plus `povNotes` instead, so that validator error is a proposal/tooling mismatch rather than an article deficiency.
+- {name: Alton Greenleaf, role: primary, language: Common, pronunciation: obvious, status: inferred, notes: Common is inferred from the ordinary English-form personal name and descriptive surname}
 %%^End%%

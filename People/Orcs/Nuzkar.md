@@ -1,21 +1,23 @@
 ---
-headerVersion: 2023.11.25
-tags: [person]
-name: Nuzkar
-born: 1698
 activeYear: 1740
-gender: female
+headerVersion: 2023.11.25
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+tags: [person, status/check/lint]
 species: orc
+born: 1698
+gender: female
+image: nuzkar-small.png
+name: Nuzkar
 pronunciation: NUZ-car
 whereabouts:
-- {type: home, location: Gorzum}
-- {type: home, location: Uzgukhar}
-- {type: away, location: Vindristjarna, end: 9999}
-image: nuzkar-small.png
-lintedAt: "2026-08-19T01:07:33-04:00"
-lintVersion: 2
-dm_notes: color
+  - {type: home, location: Gorzum}
+  - {type: home, location: Uzgukhar}
+  - {type: away, location: Vindristjarna, end: 9999}
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: color
+POV: 1749
 ---
 # Nuzkar
 *(NUZ-car)*
@@ -57,38 +59,29 @@ Her sister is eager to go with her -- Aygul has always been the type who would h
 
 %%
 
-%%^Metadata:names%%
-version: 1
-names:
-  - {form: Nuzkar, role: primary, language: Orcish, languageStatus: inferred, pronunciationStatus: documented, pronunciation: NUZ-car, derivation: unknown}
+%%^Metadata:names:v1%%
+- {name: Nuzkar, role: primary, language: Orcish, pronunciation: NUZ-car, status: inferred, notes: pronunciation is documented; source language is inferred from her Orcish context}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: character reference with dated fact and shared development history
+povNotes: "Accuracy range: approximately DR 1748–1749. The visible biography and Vindristjarna whereabouts fit Nuzkar's Dunmar Frontier involvement, while the rededication is explicitly bounded to DR 1748 and the commented history remains unfinished development rather than article prose."
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
-- Linted: 2026-08-19T01:07:33-04:00
-- Linter version: 2
-- Profile: person with dated and shared development material
-- Article mode: current character reference plus a DR 1748 fact block and a shared development history
-- Temporal POV: the rededication is correctly bounded to DR 1748; the visible biography and whereabouts do not declare their present
-- Inference confidence: medium
-- POV suitability: mixed; the dated fact is safe, but the current location model needs human interpretation
-- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
 
 ### Open findings
-- [ ] **Knowledge metadata:** `knownTo` is required for people but absent. Multiple DuFr records establish direct party interaction; determine the precise campaign value rather than inferring a universal audience.
-- [ ] **Temporal whereabouts:** two undated homes plus an `away` entry at Vindristjarna with `end: 9999` do not clearly say when she moved, whether the homes are simultaneous, or what the article considers current.
-- [ ] **Legacy metadata:** `activeYear: 1740` needs a human disposition; its meaning is not clear enough for mechanical migration.
-- [ ] **Internal development material:** the shared history still contains placeholders such as `~husband~` and explicitly tentative causal ideas. This is unfinished in-note development, not a cross-note factual conflict.
-- [ ] **Name evidence:** pronunciation is present, but Orcish as the name's source language is inferred from Nuzkar's culture rather than documented.
-- [ ] **Private attestation:** `dm_notes: color` cannot be validated from tracked material alone.
+
+- [ ] **suggestion — `frontmatter.deprecated_field`:** `activeYear: 1740` is obsolete. If it only meant “this article is useful around the current campaign era,” remove it because `POV: 1749` now records that viewpoint. If it was intended as publication gating, choose the appropriate Date block or `audience` rule instead; its original meaning is not mechanically recoverable.
+- [ ] **suggestion — `whereabouts.temporal_start_unclear`:** The two undated homes are compatible with origin/family homes, and `end: 9999` is a supported ongoing-away sentinel, but the Vindristjarna entry has no start. If the Session 83 meeting marks the start of her travel, the copy-ready replacement is `{type: away, start: 1748-12-30, end: 9999, location: Vindristjarna}`; otherwise use the supported departure date.
+- [ ] **suggestion — `editorial.shared_development_placeholders`:** The shared history still contains `~husband~`, an explicitly tentative causal idea, and unfinished sentences. These are development placeholders rather than cross-note factual conflicts; complete or clear them during human review.
 
 ### Applied changes
-- Added the trial lint state, `status/check/ai`, and an uncertainty-preserving naming block.
-- Normalized harmless frontmatter spacing without changing the whereabouts data.
+
+- Added `knownTo: [dufr]`, `POV: 1749`, current article metadata, migrated the name block to v1, and canonicalized the nondeprecated frontmatter.
 
 ### Validated
-- The DR 1748 block is an appropriate temporal boundary and does not need to be rewritten as a whole-note `asOf` field.
 
-### Evidence reviewed
-- [[Aygul]]; [[Hezguli]]; [[Battle for Uzgukhar]]; DuFr session references; current visible note, date block, and shared history
+- Local hidden material supports `dm_notes: color`; no color-versus-important judgment is needed. The DR 1748 fact block remains properly bounded.
 %%^End%%
