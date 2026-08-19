@@ -214,6 +214,9 @@ directed otherwise, with this marker immediately before it:
 
 - Use `[[Note Name]]` or `[[Note Name|alias]]`, normally without a path or `.md`.
 - Check for filename collisions rather than creating an ambiguous link.
+- Obsidian resolves a bare wikilink against filenames, not frontmatter `name` or
+  `aliases`. Use those identity fields for search and metadata matching, but do
+  not report a wikilink collision solely because another note has the same alias.
 - Link sources naturally in the prose when useful to the reader.
 - If relevant sources do not fit naturally, list only those additional links in
   a hidden block:
@@ -245,8 +248,8 @@ these general rules:
   `lintVersion`, `displayDefaults`; then `tags`, `typeOf`, `typeOfAlias` or their
   person-note equivalents, and `ancestry`; then other fields in stable relative
   order; then `name`, `aliases`, `pronunciation`; then `affiliations` and
-  `whereabouts`; then `knownTo`, `excludePublish`, `audience`, `dm_owner`, and
-  `dm_notes`.
+  `whereabouts`; then `knownTo`, `excludePublish`, `audience`, `dm_owner`,
+  `dm_notes`, and finally `POV`.
 - Format lists containing only strings on one line. Format dictionaries on one
   line with `{}`. Format lists containing dictionaries as expanded lists, with
   each dictionary on its own single line.

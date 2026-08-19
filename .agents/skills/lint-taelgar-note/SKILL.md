@@ -22,6 +22,7 @@ Read the complete target note before acting. Load only the references relevant t
 - Before changing metadata, read `../../../_MoC/Metadata Specification.md` and `../../../_MoC/Note Categorization.md`.
 - For names or pronunciation, read `../../../_MoC/Name Metadata.md` and the relevant language material under `../../../Background/Languages.md`.
 - For campaign values, read `../../../_MoC/Campaign Registry.md`; `../../../_scripts/session_note_campaigns.json` is the authoritative registry.
+- For article temporality, read `../../../_MoC/Temporal POV Metadata.md`.
 - Read `../../../_MoC/Taelgar Note Linter.md`, the authoritative lint specification, and capture its `linterVersion`.
 
 ## Run the deterministic pass
@@ -57,7 +58,7 @@ Infer the profile from the note's tags, classifications, structure, content, and
 - identity, classification, aliases, strict pronunciation disposition, and human-curated name metadata;
 - `knownTo` for people and objects, and map metadata for waterways, roads, and settlements;
 - canonical long campaign names in `campaign` frontmatter and lowercase short codes in `knownTo`, `campaignInfo`, and `Campaign:*` blocks;
-- article mode, temporal point of view, and a note-specific `povNotes` explanation;
+- searchable frontmatter `POV`, article mode, and a note-specific `povNotes` explanation; every completed write-mode lint records the broadest honest POV value supported by the note;
 - internal inconsistency separately from cross-note conflict;
 - completeness against already established facts separately from opportunities to invent more;
 - editorial clarity, spelling, metadata organization, special syntax, and every existing `status/*` tag.
@@ -66,17 +67,17 @@ Session notes and Primary Sources are authoritative source records: do not call 
 
 ## Search for later invention
 
-Search filenames, `name`, aliases, spelling variants, links, backlinks, and relevant surrounding passages. Follow vault source authority, beginning with likely canonical sources and broadening deliberately to campaign and session records, Primary Sources, Worldbuilding, and DM material.
+Search filenames, `name`, aliases, spelling variants, links, backlinks, and relevant surrounding passages. Use `name` and aliases for discovery and metadata matching, but remember that Obsidian bare wikilinks resolve filenames only. Follow vault source authority, beginning with likely canonical sources and broadening deliberately to campaign and session records, Primary Sources, Worldbuilding, and DM material.
 
 Use Git history as the freshness boundary. Starting from the previous `lintedAt`, prioritize newer external sources—especially session notes, campaign notes, finalized `beat-facts.json`, `_DM_`, and `_dm_notes`—that mention or resolve to the subject. A clean-preserving edit to the target itself does not make it stale; invention elsewhere can.
 
-When `dm_owner` is `tim`, `joint`, or `none`, search `_DM_` for notes that link or could link to the subject. Report paths and relevance without quoting or exposing private content. If `dm_notes` has no local evidence, suggest removal but never remove it automatically because it can represent off-vault or remembered information. Question `dm_notes: none` when local evidence makes it suspect.
+When `dm_owner` is `tim`, `joint`, or `none`, search `_DM_` for notes that link or could link to the subject. Report found Markdown notes as wikilinks and describe relevance without quoting or exposing private content. Treat `dm_notes: color` and `dm_notes: important` alike: local evidence supports either positive value and is not a reason to change between them. If positive `dm_notes` has no local evidence, suggest human review but never remove it automatically because it can represent off-vault or remembered information. A `%%SECRET[v2:01d09d28f3c9b99beed3e3ecc2487a5f]%%` block—even one containing only links to hidden material—communicates that the page has a secret and can support `dm_notes: none` when it accounts for the found material and no additional unlinked DM source remains. Question `dm_notes: none` only when additional unlinked local evidence makes it suspect.
 
 ## Apply safe lint-owned changes
 
-- Canonicalize frontmatter deterministically: deprecated fields first; then `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`; classification; other fields; naming; relationships; and visibility/DM fields. Keep string lists and dictionaries on one line, and expand lists of dictionaries one entry per line. Never change `headerVersion`.
+- Canonicalize frontmatter deterministically: deprecated fields first; then `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`; classification; other fields; naming; relationships; visibility/DM fields; and finally `POV` immediately after `dm_notes`. Keep string lists and dictionaries on one line, and expand lists of dictionaries one entry per line. Never change `headerVersion`.
 - Put meta comments about note quality or POV immediately below the complete header block. Leave other private comments in place unless a clearer arrangement is obvious; suggest uncertain moves rather than performing them.
-- Put persistent `Metadata:names:v1`, `Metadata:map:v1`, and `Metadata:article:v1` blocks at the end of the note after prose and comments. Keep the Lint block, when required, after persistent metadata.
+- Put persistent `Metadata:names:v1`, `Metadata:map:v1`, and `Metadata:article:v1` blocks at the end of the note after prose and comments. The article block records `mode` and note-specific `povNotes`; `POV` itself belongs in frontmatter. Migrate legacy inline `(POV:: ...)` fields and legacy article-block `pov` keys when linting. Keep the Lint block, when required, after persistent metadata.
 - Treat name metadata as human-curated. When proposing pronunciation, explain the language and derivation in the report. When proposing deprecated-field replacement or useful POV metadata/comments, provide copy-ready candidate text.
 - List every automatic or editorial change in the open report. If the final result is clean and therefore has no report, summarize those changes in chat; Git preserves the diff.
 - Never silently rewrite lore, dates, names, classifications, uncertainty, or private material. Never remove a status tag other than `status/check/lint` under the clean-lint rule below.
