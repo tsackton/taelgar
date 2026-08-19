@@ -245,6 +245,29 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 10. Write `lintedAt`, the captured `lintVersion`, and either the open report/tag or the clean state.
 11. Re-read the complete note, validate YAML and structured blocks, inspect the full diff, and report the result in chat.
 
+### Batch execution
+
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.3, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+
+Batch preparation builds the vault link/identity index once, scans `_DM_` once for all targets, and groups freshness work by the Git commit resolved from each note's own prior `lintedAt`. Within a shared baseline it reuses the changed-path list, per-source diff, line counts, and last-commit evidence. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
+
+Routine routing follows the adopted invalidation model:
+
+- an unlinted note requires review;
+- a stale `lintVersion` requires a complete current-version review using the old timestamp as its freshness baseline when valid;
+- a current note with a newer external source that mentions it requires judgment about whether invention elsewhere has overtaken the article; and
+- a current note with no newer invention candidate is eligible for a no-op and is not edited merely to refresh its timestamp.
+
+Routing is triage, not a substitute for an explicit request. If the user specifically asks to re-lint a named note, review it completely even when routine routing would permit a no-op.
+
+Batch writes have three phases:
+
+1. **Prepare:** produce a read-only manifest and gather shared deterministic, DM, and Git evidence.
+2. **Review and snapshot:** read and judge each included note, apply any supported persistent changes while preserving its old lint completion state, then snapshot the reviewed file checksum.
+3. **Finalize:** require one clean or open decision per manifest note; verify the manifest, reviewed checksum, and preserved old completion state; construct every proposed final note; and deterministically validate all of them before writing any completion state.
+
+The finalizer writes the current validator version and one offset-bearing completion timestamp, removes or replaces the old report, and clears or sets only `status/check/lint` according to the decision. It stages same-directory replacements so each file replacement is atomic and rolls back ordinary write failures after a complete preflight. A checksum or state mismatch aborts the whole batch; it must never be bypassed by manually advancing the affected notes.
+
 ## Deferred design areas
 
 The following remain deliberately unsettled and are not universal lint requirements:

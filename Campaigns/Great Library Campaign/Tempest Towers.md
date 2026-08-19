@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T14:40:45-04:00"
-lintVersion: "2.2"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [place]
 typeOf: building
 typeOfAlias: bastion
-POV: 1748
 name: Tempest Towers
 affiliations:
   - {type: primary, org: Silver Tempests}
 whereabouts:
   - {type: home, location: Voltara, startFilter: "2"}
+POV: 1748
 ---
 # The Tempest Towers
 >[!info]+ Information  

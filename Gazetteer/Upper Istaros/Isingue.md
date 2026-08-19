@@ -1,26 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, testcase]
-displayDefaults:
-  endStatus: Consumed by Cha'mutte's plague in
-  wOrigin: <primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>
-  wPastHome: <end> <target>
-  dPast: ""
-campaignInfo: []
-name: Isingue
-destroyed: 1545
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+displayDefaults: {endStatus: "Consumed by Cha'mutte's plague in", wOrigin: "<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
+tags: [place, testcase, status/check/lint]
 typeOf: settlement
+typeOfAlias: city
 ancestry: Isinguer
+campaignInfo: []
+destroyed: 1545
+name: Isingue
 affiliations:
   - {org: ruined, type: primary, start: 1545}
 whereabouts:
   - {type: home, location: Istabor Alliance}
   - {type: home, start: 1545, location: Plaguelands}
-lintedAt: "2026-08-19T01:07:33-04:00"
-lintVersion: 2
-dm_notes: important
 dm_owner: tim
-typeOfAlias: city
+dm_notes: important
+POV: 1749
 ---
 # Isingue
 >[!info]+ Information  
@@ -32,7 +29,7 @@ The now-ruined city on the [[Istaros]], once the cultural and spiritual capital 
 
 Legends and stories say that Isingue was founded where the waters of the [[Istaros]] gave magical, life-giving energy to the land and to the people who drank them, and it was from this magic that the densely settled small towns and villages near Isingue drew their wealth. 
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 The [[Dunmar Fellowship]] discovered that the ruined city of Isingue seems to be currently occupied by some kind of acidic ooze monster, capable of flinging acidic globules strong enough to eat away at stone from hundreds of feet away. 
 %%^End%%
 
@@ -279,3 +276,39 @@ maybe
 i'm not sure how big a role the rangers play in your campaign but feel free to have some reverberations echoing back to the rangers via beryl if it make sense
 
 %%
+
+%%^Metadata:article:v1%%
+mode: campaign-era geographic reference
+povNotes: "Accuracy range: DR 1749. The visible article describes the ruined city after the Dunmar Fellowship observed its acidic occupant; the extensive shared comments preserve provisional ancient history and possible future development rather than a second canonical viewpoint."
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Isingue, role: primary, language: Isinguese, pronunciation: ee-SANG, status: proposed, notes: language is inferred from the city's own language tradition; pronunciation is a low-confidence French-influenced reading}
+%%^End%%
+
+%%^Metadata:map:v1%%
+status: missing
+locations: []
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **warning — `name.pronunciation_missing`:** `ee-SANG` is a low-confidence French-influenced proposal based on the Isinguese analogue in [[Languages]], not documented Taelgar phonology. If accepted, copy:
+  ```yaml
+  pronunciation: ee-SANG
+  ```
+  and update the name entry’s status.
+- [ ] **warning — `metadata.map_location_missing`:** This settlement requires map metadata. Replace the explicit `status: missing` block when supported world-map coordinates are known; do not invent a hex.
+- [ ] **warning — `relationship.unresolved`:** `affiliations: [{org: ruined, type: primary, start: 1545}]` treats the adjective `ruined` as an organization and does not resolve to a note. If it is only a display workaround, remove that affiliation and rely on `destroyed: 1545`, `displayDefaults`, and the prose; otherwise replace it with the intended real relationship.
+
+### Applied changes
+
+- Canonicalized frontmatter, added `POV: 1749`, changed the campaign marker to `Campaign:dufr`, and added current article, proposed name, and missing-map metadata.
+
+### Validated
+
+- Local hidden material supports `dm_notes: important`. The extensive shared comments are provisional worldbuilding and therefore do not generate incorrectness findings.
+%%^End%%

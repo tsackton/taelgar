@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 tags: [background]
-lintedAt: "2026-08-19T01:07:33-04:00"
-lintVersion: 2
-dm_notes: none
+name: Wards of Tollen
 dm_owner: tim
+dm_notes: none
+POV: 1740s
 ---
 # Wards of Tollen
 
@@ -49,3 +51,11 @@ dm_owner: tim
 
 (17) **[[Tideswell]]** is the outer south-bank waterfront, a poorer strip of shacks, stilt-houses, fish sheds, and small yards, prone to flooding at high tide.
 
+%%^Metadata:article:v1%%
+mode: city district index
+povNotes: "Accuracy range: the DR 1740s campaign era. The list presents Tollen's current ward organization and character; later urban development could change individual descriptions or boundaries."
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Wards of Tollen, role: primary, language: Common, pronunciation: title, status: inferred, notes: descriptive index title}
+%%^End%%

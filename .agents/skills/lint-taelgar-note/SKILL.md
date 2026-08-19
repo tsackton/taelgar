@@ -1,6 +1,6 @@
 ---
 name: lint-taelgar-note
-description: Lint or re-lint a Taelgar vault note with deterministic validation and source-grounded editorial judgment, then write or clear versioned lint state. Use when the user asks to lint, re-lint, validate the completeness or currency of, or apply Taelgar lint metadata to a note. Do not use for ordinary lore editing without a lint request.
+description: Lint, re-lint, or batch-lint Taelgar vault notes with deterministic validation and source-grounded editorial judgment, then write or clear versioned lint state. Use when the user asks to lint, re-lint, batch-review, validate the completeness or currency of, or apply Taelgar lint metadata to one or more notes. Do not use for ordinary lore editing without a lint request.
 ---
 
 # Lint Taelgar Note
@@ -40,6 +40,38 @@ ruby _scripts/validate_taelgar_note.rb --format json --linted-at "PREVIOUS_TIMES
 ```
 
 Keep link and relationship checks enabled for the final pass. Capture `validatorVersion` from the JSON output and require it to match the specification's `linterVersion`. Use `--fix-frontmatter` only after reading the complete note, then inspect the diff and confirm that parsed values and comments were preserved.
+
+## Batch multiple notes efficiently
+
+For two or more notes, use `_scripts/lint_taelgar_notes.rb` so the batch shares the vault index, scans `_DM_` once, and reuses Git evidence for notes with the same baseline. The batch tooling changes execution cost, not lint rules or the requirement to read and judge every included note completely.
+
+Prepare a read-only manifest for named notes:
+
+```sh
+ruby _scripts/lint_taelgar_notes.rb prepare --output /tmp/taelgar-lint-manifest.json "PATH/ONE.md" "PATH/TWO.md"
+```
+
+For routine vault maintenance, select previously linted notes and omit current notes with no newer invention candidate:
+
+```sh
+ruby _scripts/lint_taelgar_notes.rb prepare --all-linted --only-needs-review --output /tmp/taelgar-lint-manifest.json
+```
+
+Use `--stale` instead of `--all-linted` to select only notes whose stored version differs from the current validator. The manifest contains a separate deterministic report, prior completion state, freshness baseline, candidate sources, checksum, and routing reason for every included note. `current_with_no_newer_invention_candidate` is eligible for a no-op during routine maintenance. An explicit user request to re-lint a named note still requires complete review even if its routing result is no-op eligible.
+
+Read each included note in full and perform the ordinary expectation, source, and agentic review below. Apply supported persistent metadata or lint-owned edits first, but do not yet change `lintedAt`, `lintVersion`, `status/check/lint`, or the old Lint block. After those edits, snapshot all reviewed files:
+
+```sh
+ruby _scripts/lint_taelgar_notes.rb snapshot --manifest /tmp/taelgar-lint-manifest.json --output /tmp/taelgar-lint-decisions.json
+```
+
+Fill every decision with `outcome: clean` and no report, or `outcome: open` and one complete replacement `%%^Lint%%` block. Then dry-run finalization before writing:
+
+```sh
+ruby _scripts/lint_taelgar_notes.rb finalize --manifest /tmp/taelgar-lint-manifest.json --decisions /tmp/taelgar-lint-decisions.json
+```
+
+If preflight succeeds, repeat with `--write`. The finalizer refuses a different manifest, unresolved decisions, changed reviewed checksums, changed old completion state, unsafe frontmatter, invalid open reports, or any deterministic error in the proposed final notes. It validates every result before writing any, uses one completion timestamp and validator version, stages same-directory replacements, and rolls back ordinary write failures. Do not bypass a failed finalizer by manually advancing lint state.
 
 ## Re-lint a stale version
 

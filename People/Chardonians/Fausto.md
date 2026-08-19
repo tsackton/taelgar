@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T14:40:45-04:00"
-lintVersion: "2.2"
-tags: [person, status/gameupdate/dufr]
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
 born: 1714
 died: 1749-05-24
-POV: 1740s
 gender: male
 campaignInfo:
   - {campaign: dufr, date: 1748-08-23, type: met}
@@ -22,6 +21,7 @@ whereabouts:
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1740s
 ---
 # Fausto
 >[!info]+ Biographical Info
@@ -48,5 +48,21 @@ povNotes: "Accuracy range: uneven across the mid-1730s through DR 1749. The main
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Fausto, role: primary, language: Chardonian, pronunciation: FOW-stoh, status: proposed, notes: Chardonian is inferred from his ancestry and life in Chardon}
+- {name: Fausto, role: primary, language: Chardonian, pronunciation: FOW-stoh, status: inferred, notes: Chardonian is inferred from his ancestry and life in Chardon}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **suggestion — `status.gameupdate_historical_snapshot`:** `status/gameupdate/dufr` may now be stale. The article is deliberately a `POV: 1740s` pre-death portrait, while `died: 1749-05-24` and `povNotes` explicitly bound that snapshot. A human may remove the game-update tag if it only marked the later death; retain it if it represents other established DuFr facts that still need incorporation.
+
+### Applied changes
+
+- Moved `POV` to the canonical final position and reconciled the name entry’s inferred status with the accepted frontmatter pronunciation.
+
+### Validated
+
+- Later facts do not make an intentionally earlier-POV portrait incorrect. Local hidden material supports `dm_notes: important`.
 %%^End%%

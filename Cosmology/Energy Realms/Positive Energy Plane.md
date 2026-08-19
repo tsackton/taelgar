@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-aliases: [Plane of Blossoming Currents]
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+tags: [place, status/check/lint]
 typeOf: plane
 typeOfAlias: hypothesized energy realm
+name: Positive Energy Plane
+aliases: [Plane of Blossoming Currents]
 whereabouts:
   - {type: home, location: Energy Realms, wHome: "A <typeof> in <home:2>"}
-lintedAt: "2026-08-19T01:07:33-04:00"
-lintVersion: 2
 dm_owner: tim
 dm_notes: none
+POV: post-Great-War
 ---
 # The Positive Energy Plane
 >[!info]+ Information
@@ -20,36 +22,29 @@ The Positive Energy Plane is a hypothesized [[Energy Realms|Energy Realm]], desc
 
 Some scholars in the [[Faculty of Metaphysics]] speculate that this may correspond to the Positive Energy Plane. However, no planar traveler is known to have reached the Positive Energy Plane and returned safely.
 
-%%^Metadata:names%%
-version: 1
-names:
-  - {form: Positive Energy Plane, role: primary, language: Common, languageStatus: inferred, pronunciationStatus: exception-title, derivation: descriptive, certainty: scholarly}
-  - {form: Plane of Blossoming Currents, role: translated-source-form, language: Common, languageStatus: inferred, pronunciationStatus: exception-title, derivation: translation, sourceLanguage: Lizardling, certainty: likely}
+%%^Metadata:names:v1%%
+- {name: Positive Energy Plane, role: primary, language: Common, pronunciation: title, status: inferred, notes: descriptive Faculty label for a hypothesized realm}
+- {name: Plane of Blossoming Currents, role: translated source form, language: Common, pronunciation: title, status: inferred, notes: English translation associated with Aznoke's Lizardling epic; original form unrecorded}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: in-world scholarly hypothesis
+povNotes: "Accuracy range: post-Great-War scholarly discourse. The visible article reports a current Faculty interpretation of Aznoke's much older epic rather than asserting an omniscient cosmological fact."
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
-- Linted: 2026-08-19T01:07:33-04:00
-- Linter version: 2
-- Profile: cosmological place / scholarly hypothesis
-- Article mode: in-world scholarly reference
-- Temporal POV: later Faculty interpretation of an older lizardfolk account; not an omniscient cosmology statement
-- Inference confidence: high
-- POV suitability: suitable, with an attribution nuance still to resolve
-- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
 
 ### Open findings
-- [ ] **Name relationship:** frontmatter presents “Plane of Blossoming Currents” as a flat alias, but the prose says only that Faculty scholars speculate it corresponds to the Positive Energy Plane. Decide whether aliases can represent an uncertain translated identification or need a qualified naming relationship.
-- [ ] **Epistemic context:** Aznoké describes stages in a cycle of life and death; later Faculty translation may flatten that model into discrete planes. Consider one short clarification so the article preserves the source's POV rather than silently privileging the later classification.
-- [ ] **Translation evidence:** Lizardling is inferred from Aznoké and the epic. The exact original-language form is not recorded, so the English phrase should not be treated as documented etymology.
+
+- [ ] **warning — `name.uncertain_alias_equivalence`:** Frontmatter makes `Plane of Blossoming Currents` a flat alias, while the prose says only that Faculty scholars speculate that Aznoke’s phrase refers to the Positive Energy Plane. If that identification remains uncertain, remove it from `aliases` and retain the qualified form in `Metadata:names:v1`.
+- [ ] **suggestion — `coverage.source_pov_clarification`:** The article may flatten Aznoke’s cyclical account into the Faculty’s discrete-plane model. Copy-ready candidate: “Faculty scholars identify Aznoke’s Plane of Blossoming Currents with a possible positive-energy realm, although the surviving translation may recast one stage of her cyclical cosmology as a discrete plane.”
 
 ### Applied changes
-- Added the trial lint state, `status/check/ai`, and a naming block that distinguishes the scholarly label from the translated source form.
-- Removed one duplicated space before `[[The Endless Currents]]`.
+
+- Added the explicit subject name, `POV: post-Great-War`, current article metadata, and a v1 name block that treats the English translated form as inferred rather than a documented original.
 
 ### Validated
-- The plain-English scholarly title does not require a separate pronunciation.
 
-### Evidence reviewed
-- [[Aznoke]]; [[The Endless Currents]]; [[Energy Realms]]; [[Intellectual History of Cosmology in Taelgar]]; [[Background/Languages]]
+- The plain-English scholarly title needs no separate pronunciation. The note remains an attributed scholarly hypothesis, not an omniscient cosmology statement.
 %%^End%%

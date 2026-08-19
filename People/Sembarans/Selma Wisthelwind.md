@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T11:00:23-04:00"
-lintVersion: "2.1"
-tags: [person]
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
+tags: [person, status/check/lint]
 species: human
 ancestry: Zimka
 born: 1644
@@ -17,6 +17,7 @@ whereabouts:
 knownTo: [clee]
 dm_owner: mike
 dm_notes: none
+POV: 1720
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Info  
@@ -29,6 +30,25 @@ dm_notes: none
 
 %%^Metadata:article:v1%%
 mode: character reference
-pov: DR 1720 Cleenseau campaign reference
-povNotes: The relative phrase “8 years ago” is interpretable only from the Cleenseau campaign’s DR 1720 viewpoint. Because the article can be read outside that campaign, an explicit POV comment would preserve the intended date relationship.
+povNotes: "Accuracy range: approximately the DR 1720 Cleenseau campaign era. The article assumes that Selma still owns the Fox's Flagon after buying it in DR 1712; it establishes no later endpoint for her proprietorship."
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Selma Wisthelwind, role: primary, language: Zimkovan, pronunciation: SELL-ma WISS-thel-wind, status: proposed, notes: language inferred from her Zimka origin; pronunciation is a cautious spelling-based reading}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **warning — `name.pronunciation_missing`:** `SELL-ma WISS-thel-wind` is a cautious spelling-based proposal. Zimkovan is inferred from Selma’s Zimka origin, while [[Languages]] gives analogues but no exact rules. If accepted, copy:
+  ```yaml
+  pronunciation: SELL-ma WISS-thel-wind
+  ```
+  and update the name entry’s status.
+
+### Applied changes
+
+- Added `POV: 1720`, current article metadata, and a proposed v1 name entry. Removed the stale explanation about “8 years ago,” because the prose now uses the explicit DR 1712 date.
 %%^End%%

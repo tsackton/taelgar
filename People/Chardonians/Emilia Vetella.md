@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T11:00:23-04:00"
-lintVersion: "2.1"
+lintedAt: "2026-08-19T16:23:04-04:00"
+lintVersion: "2.3"
 displayDefaults: {defArt: ""}
 tags: [person]
 species: human
 ancestry: Chardonian
 gender: female
+name: Emilia Vetella
+pronunciation: eh-MEE-lee-ah veh-TELL-ah
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1750
 ---
 # Emilia Vetella
 >[!info]+ Biographical Info  
@@ -19,8 +22,7 @@ Emilia Vetella is the Lord Admiral of the Chardonian Navy and a trusted advisor 
 
 %%^Metadata:article:v1%%
 mode: character reference
-pov: current-setting account after DR 1749
-povNotes: The article presents Emilia by her current title. The DR 1749 appointment is historical support for that title, not a separate article perspective; the missing campaign outcome is a coverage issue.
+povNotes: "Accuracy range: approximately DR 1749–1752. The article presents Emilia after her DR 1749 appointment and includes the naval campaign's victory outside Darba; it does not imply that she held the title before the war."
 %%^End%%
 
 %%^Metadata:names:v1%%
