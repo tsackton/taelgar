@@ -1,17 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Nuzkar
 born: 1698
 activeYear: 1740
 gender: female
 species: orc
 pronunciation: NUZ-car
-whereabouts: 
-- {type: home, location: Gorzum }
+whereabouts:
+- {type: home, location: Gorzum}
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
 image: nuzkar-small.png
+lintedAt: "2026-08-19T01:07:33-04:00"
+lintVersion: 2
 dm_notes: color
 dm_owner: tim
 ---
@@ -54,3 +56,39 @@ So when a flying ship appears, looking for a loremaster and archivist, and willi
 Her sister is eager to go with her -- Aygul has always been the type who would have gone into the world, but she would not leave her sister, even though her sister kept talking about exploring/looking for stories/etc
 
 %%
+
+%%^Metadata:names%%
+version: 1
+names:
+  - {form: Nuzkar, role: primary, language: Orcish, languageStatus: inferred, pronunciationStatus: documented, pronunciation: NUZ-car, derivation: unknown}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+- Linted: 2026-08-19T01:07:33-04:00
+- Linter version: 2
+- Profile: person with dated and shared development material
+- Article mode: current character reference plus a DR 1748 fact block and a shared development history
+- Temporal POV: the rededication is correctly bounded to DR 1748; the visible biography and whereabouts do not declare their present
+- Inference confidence: medium
+- POV suitability: mixed; the dated fact is safe, but the current location model needs human interpretation
+- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
+
+### Open findings
+- [ ] **Knowledge metadata:** `knownTo` is required for people but absent. Multiple DuFr records establish direct party interaction; determine the precise campaign value rather than inferring a universal audience.
+- [ ] **Temporal whereabouts:** two undated homes plus an `away` entry at Vindristjarna with `end: 9999` do not clearly say when she moved, whether the homes are simultaneous, or what the article considers current.
+- [ ] **Legacy metadata:** `activeYear: 1740` needs a human disposition; its meaning is not clear enough for mechanical migration.
+- [ ] **Internal development material:** the shared history still contains placeholders such as `~husband~` and explicitly tentative causal ideas. This is unfinished in-note development, not a cross-note factual conflict.
+- [ ] **Name evidence:** pronunciation is present, but Orcish as the name's source language is inferred from Nuzkar's culture rather than documented.
+- [ ] **Private attestation:** `dm_notes: color` cannot be validated from tracked material alone.
+
+### Applied changes
+- Added the trial lint state, `status/check/ai`, and an uncertainty-preserving naming block.
+- Normalized harmless frontmatter spacing without changing the whereabouts data.
+
+### Validated
+- The DR 1748 block is an appropriate temporal boundary and does not need to be rewritten as a whole-note `asOf` field.
+
+### Evidence reviewed
+- [[Aygul]]; [[Hezguli]]; [[Battle for Uzgukhar]]; DuFr session references; current visible note, date block, and shared history
+%%^End%%

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
+lintedAt: "2026-08-19T01:07:33-04:00"
+lintVersion: 2
 dm_notes: none
 dm_owner: tim
 ---
@@ -33,9 +35,7 @@ dm_owner: tim
 
 (11) **[[Fairgate]]**, split into [[Fairgate Inner]] and [[Fairgate Outer]] is the western gate district, a mix of markets, caravan inns, and halfling homes linked to the [[Fairgrounds (Tollen)|Fairgrounds]] and the farms of [[Fairgate Outer]].
 
-[[Fairgate Outer]]
 ![[fairgate-outer-v1.png]]
-
 
 (12) **[[Haurhill]]** is the rise above the [[Little River]], built around the remains of an old Drankorian fort.
 
@@ -48,3 +48,36 @@ dm_owner: tim
 (16) **[[Fenslane]]** is a south-bank ward on reclaimed marsh, with plank-walked lanes, modest houses, and workshops for the dockworkers and families who live near the river.
 
 (17) **[[Tideswell]]** is the outer south-bank waterfront, a poorer strip of shacks, stilt-houses, fish sheds, and small yards, prone to flooding at high tide.
+
+%%^Metadata:names%%
+version: 1
+names:
+  - {form: Wards of Tollen, role: primary, language: Common, languageStatus: inferred, pronunciationStatus: unresolved, pronunciationSource: Tollen, derivation: descriptive}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+- Linted: 2026-08-19T01:07:33-04:00
+- Linter version: 2
+- Profile: urban background / geographic collection
+- Article mode: current character-facing city reference
+- Temporal POV: modern Tollen, without a declared year
+- Inference confidence: medium
+- POV suitability: suitable while ward identities remain stable; future campaign changes should be evaluated against this current-reference mode
+- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
+
+### Open findings
+- [ ] **Pronunciation inheritance:** the plain-English phrase “Wards of” needs none, but “Tollen” should inherit from the base place note. That base note currently lacks a pronunciation, so the dependency is unresolved rather than duplicated here.
+- [ ] **Map structure:** the note includes ward images and numbered descriptions, but no registered spatial geometry or coordinate scheme. Decide whether city wards should use polygons, map pins, or only linked image regions before adding a map block.
+- [ ] **Name evidence:** the title's Common descriptive structure is inferred; the source and pronunciation of “Tollen” belong on the base note.
+
+### Applied changes
+- Added the trial lint state, `status/check/ai`, and a descriptive-title naming block.
+- Removed a stray standalone `[[Fairgate Outer]]` link and one extra blank line while preserving the image and ward description.
+
+### Validated
+- The differing brainstorming orientation in `Worldbuilding/Brainstorming/Tollen - Design Note.md` did not generate an incorrectness or cross-note-conflict finding. Worldbuilding is development context, not authority over this canonical note.
+
+### Evidence reviewed
+- [[Tollen]]; all linked ward notes and embedded map images; current note; Worldbuilding Tollen design context
+%%^End%%

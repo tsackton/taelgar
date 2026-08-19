@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/ai]
+campaign: DuFr
+lintedAt: "2026-08-19T01:07:33-04:00"
+lintVersion: 2
 ---
 # An Annotated (Partial) Map of Drankor
 
@@ -24,3 +27,37 @@ A number of fragmentary sources describe the regular streets of the city of [[Dr
 ***The Teeth of Drankor***
 It appears the river was lined with a series of defensive fortifications, towers of might and magic built in the early days of Drankor. We believe they fell into disuse as defensive measures, given that a fragment of a story describes "the great promenade that follows the mighty river and the teeth of the city, where light and warmth shines from the many windows in the many colored towers that rise along the banks of the river, like a forest of jewels." However, another source, again a fragment only, mentions how "...lightning shone from the top of the Sapphire Tower, striking in all directions, even to the warships south of the city on the rivers, and thus smote the raiders..."
 
+%%^Metadata:names%%
+version: 1
+names:
+  - {form: "An Annotated (Partial) Map of Drankor", role: document-title, language: Common, languageStatus: inferred, pronunciationStatus: exception-title, derivation: descriptive}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+- Linted: 2026-08-19T01:07:33-04:00
+- Linter version: 2
+- Profile: source material / campaign document
+- Article mode: layered primary source — Nuzkar's reconstruction and annotations around a partial Dunmari copy derived partly from Drankorian material
+- Temporal POV: at least three distinct periods and speakers are present; their exact document and annotation dates are not recorded
+- Inference confidence: high
+- POV suitability: the layers are readable, but explicit provenance would make later interpretation safer
+- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
+
+### Open findings
+- [ ] **Source provenance:** record, if known, the approximate date of the Dunmari report and the date/context of Nuzkar's reconstruction. Do not collapse statements from the Drankorian source, Dunmari scholar, and Nuzkar into one factual POV.
+- [ ] **Ambiguous links:** each `[[Drankor]]` link resolves to more than one note in the vault. The intended city/empire target must be chosen by a human; the linter did not rewrite them.
+- [ ] **Map structure:** the embedded image is the artifact itself. It should not receive invented world hexes, but may eventually need asset provenance or image-region metadata distinct from gazetteer geometry.
+- [ ] **Name evidence:** the document title is a descriptive editorial title; its exact historical title, if any, is unknown.
+
+### Applied changes
+- Added `campaign: DuFr`, which is required for source material in the DuFr campaign directory.
+- Added the trial lint state, `status/check/ai`, and a document-title naming block.
+
+### Validated
+- A source-document title is exempt from the strict pronunciation requirement.
+- No content inside the layered source was rewritten.
+
+### Evidence reviewed
+- [[Report of the Aagiri to Samraat Dasa]]; [[Nuzkar]]; current source document and embedded `drankor-map.png`
+%%^End%%

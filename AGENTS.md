@@ -40,9 +40,15 @@ Authorization covers only the described operation:
    claims, resolve contradictions, or erase narrow exceptions.
 5. **Make the smallest sufficient change.** Do not fix unrelated errors or
    formatting, even in an edited file.
-6. **Mark AI-edited content notes.** Every content note modified outside
-   `_sessions` must include `status/check/ai` in its YAML `tags`. The only status
-   operation an agent may perform is adding this tag. Never add, remove, or alter
+6. **Mark agent-edited content notes.** Every content note modified outside
+   `_sessions` must include `status/check/ai` in its YAML `tags`, except that an
+   explicitly approved Taelgar note-linter run uses `status/check/lint` instead.
+   The linter may add or retain `status/check/lint` while it writes deterministic
+   frontmatter normalization, recognized lint/metadata blocks, approved comment
+   reordering, and logged lint fixes. A human removes `status/check/lint` after
+   reviewing or resolving the report. The only status operations an agent may
+   perform are adding `status/check/ai` during ordinary content work or adding
+   `status/check/lint` during an approved lint run. Never add, remove, or alter
    `status/stub` or any other status tag; status cleanup requires human review.
    Support files such as `AGENTS.md`, scripts, and configuration are not content
    notes.
@@ -104,8 +110,8 @@ While editing:
 - Preserve user-authored text outside the requested scope.
 - Do not move files or change link targets unless required by the task. 
 - Never rename files. If the user requests to rename a note, change the metadata `name` field but not the filename. 
-- For an exact field or section change, make only that change plus the required
-  `status/check/ai` addition.
+- For an exact field or section change, make only that change plus the applicable
+  `status/check/ai` or approved linter `status/check/lint` addition.
 
 After editing:
 
@@ -175,6 +181,12 @@ documentation follow their own established purpose and style.
 Use `%%` comments for uncertainty, editorial context, source limitations, and
 human-review notes. Do not place established canonical prose inside comments.
 
+Standalone meta comments about note quality or the note's temporal point of view
+belong immediately below frontmatter and recognized persistent metadata blocks,
+before the title or other note text. A linter may move an unambiguously qualifying
+comment there only if it preserves the comment text exactly. Other comments stay
+in place unless an obvious rearrangement is proposed for human review.
+
 For substantial DM or meta material, use:
 
 ```markdown
@@ -222,21 +234,31 @@ these general rules:
 - Frontmatter appears once, at the beginning of the file.
 - Preserve an existing `headerVersion`; do not manually update it. Use the current
   appropriate template for a new note.
-- `headerVersion` and `tags` are the first two fields when present.
-- Use compact one-line lists except for lists of dictionaries; format each
-  dictionary entry on one line with `{}`.
-- Keep commonly edited fields such as `whereabouts`, `dm_notes`, `dm_info`, and
-  `campaignInfo` near the bottom.
+- Deprecated or obsolete fields are preserved but placed before `headerVersion`
+  so they are conspicuous during review.
+- Canonical field groups are ordered as follows: `headerVersion`, `lintedAt`,
+  `lintVersion`, `displayDefaults`; then `tags`, `typeOf`, `typeOfAlias` or their
+  person-note equivalents, and `ancestry`; then other fields in stable relative
+  order; then `name`, `aliases`, `pronunciation`; then `affiliations` and
+  `whereabouts`; then `knownTo`, `excludePublish`, `audience`, `dm_owner`, and
+  `dm_notes`.
+- Format lists containing only strings on one line. Format dictionaries on one
+  line with `{}`. Format lists containing dictionaries as expanded lists, with
+  each dictionary on its own single line.
+- Fields not named in these groups retain stable relative order in the “other
+  fields” group; do not invent a second ordering rule for them.
 - Use `species` as the primary classification field for a person and the
   documented `typeOf` for non-person subjects when classification is required.
   Do not introduce `subTypeOf` as a substitute.
 - Add metadata only when supported by evidence or required by the template.
-- Add `status/check/ai` to edited content notes outside `_sessions`. If another
-  status tag appears wrong or obsolete, report it instead of changing it.
+- Add the applicable `status/check/ai` or approved linter `status/check/lint` tag
+  to edited content notes outside `_sessions`. If another status tag appears
+  wrong or obsolete, report it instead of changing it.
 
 ## 7. Specialized and High-Risk Work
 
-- **`_sessions`:** These files are exempt from `status/check/ai` and may have
+- **`_sessions`:** These files are exempt from `status/check/ai` and
+  `status/check/lint` and may have
   strict preservation or pipeline requirements. Follow the applicable session
   workflow and its stated source of truth. Do not normalize generated artifacts,
   line identifiers, speaker order, or structured data unless required.
@@ -279,6 +301,7 @@ suggesting that details were invented.
 - Relevant sources were searched; contradictions were preserved and reported.
 - No unsupported canon or certainty was introduced.
 - Unrelated prose and special syntax were preserved.
-- Required `status/check/ai` tags were added; no other status tag changed.
+- The applicable `status/check/ai` or approved linter `status/check/lint` tags
+  were added; no other status tag changed.
 - Frontmatter, classifications, and edited links were validated.
 - The final diff contains only intended changes.
