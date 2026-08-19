@@ -3,14 +3,14 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-19T16:23:04-04:00"
 lintVersion: "2.3"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: building
 typeOfAlias: tower
 name: "Apollyon's Tower"
 whereabouts:
   - {type: home, location: Circular Island, startFilter: "1", linkText: "on"}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1749
 ---
 # Apollyon's Tower
@@ -34,24 +34,4 @@ In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, l
 %%^Metadata:article:v1%%
 mode: campaign-era place reference
 povNotes: "Accuracy range: DR 1749 after the Dunmar Fellowship's assault. The visible article combines stable physical and historical description with the party's dated exploration; the SECRET block contains private encounter design rather than a second article viewpoint."
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Open findings
-
-- [ ] **warning — `name.pronunciation_inherited_unresolved`:** The title’s pronunciation is inherited from `Apollyon`, but [[Apollyon]] has no accepted pronunciation. A cautious conventional-English proposal is `uh-POL-ee-on`; the source language remains unknown. Copy-ready candidate for the Apollyon note:
-  ```yaml
-  pronunciation: uh-POL-ee-on
-  ```
-  Accept or replace that pronunciation before treating the tower’s inherited exception as resolved.
-
-### Applied changes
-
-- Canonicalized frontmatter, added the explicit name and `POV: 1749`, changed the campaign marker to `Campaign:dufr`, and migrated the article/name blocks to the current schemas.
-
-### Validated
-
-- Existing local hidden notes support `dm_notes: important`; they are not an open finding. The SECRET block remains private encounter material and is not legacy syntax.
 %%^End%%

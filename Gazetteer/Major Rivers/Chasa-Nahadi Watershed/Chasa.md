@@ -40,8 +40,8 @@ povNotes: "Accuracy range: broadly the DR 1700s. The article describes the river
 
 %%^Metadata:map:v1%%
 locations:
-- {role: source, map: world, geometry: point, locator: 12.08.D22}
-- {role: outlet, feature: Gulf of Chardon, map: world, geometry: point, locator: 13.07.B01}
+- {role: source, feature: Sentinel foothills, map: world, locator: 12.08.D22}
+- {role: outlet, feature: Gulf of Chardon, map: world, locator: 13.07.B01}
 %%^End%%
 
 %% Unshared DM notes have color information:

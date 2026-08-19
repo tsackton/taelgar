@@ -4,6 +4,7 @@ tags: [person, testcase, status/gameupdate/dufr]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
+pronunciation: ah-pol-LEE-on
 born:
 species: undead
 subspecies: lich
@@ -18,8 +19,9 @@ dm_notes: important
 dm_owner: tim
 ---
 # Emperor Apollyon
->[!info]+ Biographical Info
-> lich ([[Undead|undead]]), he/him
+*(ah-pol-LEE-on)*
+>[!info]+ Biographical Info  
+> lich ([[Undead|undead]]), he/him  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [[Scepter of Command]], and perhaps other artifacts of power. Was a very successful general and commander. 

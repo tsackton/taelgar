@@ -175,7 +175,32 @@ Metadata relationship resolution is a separate system and may use the vault's na
 
 ### Map metadata
 
-`Metadata:map:v1` is required for waterways, roads, and settlements and optional for other places. When positions are unknown, the linter writes typed location entries with their structural fields filled and only their position fields blank; it never writes `status: missing` with `locations: []`. Waterways receive `source` and `outlet` world-map points with blank `feature` and `locator`; roads receive one world-map path with blank `sourceHex` and `outletHex`; settlements receive one world-map point with a blank `locator`. These blanks remain an open `metadata.map_location_missing` finding until a human supplies them. Existing empty placeholders are replaced with the typed form on re-lint. A coordinate in `13.07.F16` form always uses `map: world`. Coordinates remain strings.
+`Metadata:map:v1` is required for waterways, roads, and settlements and optional for other places. The supported model has only single-hex locations and two-ended features. Every location entry has `map` and `locator`; it may also have `role` or `feature`. `geometry`, `hex`, `sourceHex`, and `outletHex` are not part of the model. On re-lint, redundant `geometry` is removed and legacy position keys are converted to equivalent `locator` entries when that can be done without guessing.
+
+When positions are unknown, the linter writes the appropriate location entries and leaves their `locator` values blank; it never writes `status: missing` with `locations: []`. A blank locator remains an open `metadata.map_location_missing` finding until a human supplies it. A blank optional `feature` is not a finding. Existing empty placeholders are replaced with the typed form on re-lint. A coordinate in `13.07.F16` form always uses `map: world`. Coordinates remain strings.
+
+Waterways have two directionally meaningful entries:
+
+```yaml
+locations:
+  - {role: source, feature: , map: world, locator: }
+  - {role: outlet, feature: , map: world, locator: }
+```
+
+Roads have two unordered endpoints. They do not use `start` and `end` roles because either direction would be arbitrary; `feature` can optionally name a city or other feature at each endpoint:
+
+```yaml
+locations:
+  - {feature: , map: world, locator: }
+  - {feature: , map: world, locator: }
+```
+
+Settlements and other single-hex features have one entry:
+
+```yaml
+locations:
+  - {map: world, locator: }
+```
 
 ### Article metadata and comment placement
 
@@ -274,7 +299,7 @@ The following remain deliberately unsettled and are not universal lint requireme
 
 - positive campaign semantics for `audience`;
 - a replacement for long historical `whereabouts` lists;
-- a complete registry and geometry model for regional maps;
+- a registry and location model for regional maps beyond the supported single-hex and two-end cases;
 - whether significant shared DM material needs an authored frontmatter field;
 - a queryable development-priority scale; and
 - bounded relationship propagation beyond direct freshness links.

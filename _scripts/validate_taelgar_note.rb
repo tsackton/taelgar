@@ -163,13 +163,16 @@ module TaelgarNoteLint
     locations = case type.to_s
                 when "waterway"
                   [
-                    "  - {role: source, feature: , map: world, geometry: point, locator: }",
-                    "  - {role: outlet, feature: , map: world, geometry: point, locator: }"
+                    "  - {role: source, feature: , map: world, locator: }",
+                    "  - {role: outlet, feature: , map: world, locator: }"
                   ]
                 when "road"
-                  ["  - {map: world, geometry: path, sourceHex: , outletHex: }"]
+                  [
+                    "  - {feature: , map: world, locator: }",
+                    "  - {feature: , map: world, locator: }"
+                  ]
                 when "settlement"
-                  ["  - {map: world, geometry: point, locator: }"]
+                  ["  - {map: world, locator: }"]
                 else
                   return nil
                 end
@@ -1335,19 +1338,18 @@ module TaelgarNoteLint
             line: line, provisional: true, details: map_template_details(note))
       end
 
-      locations.each do |entry|
-        if entry["geometry"].to_s.strip.empty?
-          add(findings, "metadata.map_geometry_missing", "error", "required",
-              "Each map location requires geometry.", line: line)
+      locations.each_with_index do |entry, index|
+        if entry["map"].to_s.strip.empty?
+          add(findings, "metadata.map_required_field", "error", "required",
+              "Map location #{index + 1} is missing map.", line: line)
         end
-        world_locator = entry.any? do |key, value|
-          %w[hex locator sourceHex outletHex].include?(key.to_s) && value.to_s.match?(WORLD_HEX_PATTERN)
-        end
-        if world_locator && entry["map"].to_s != "world"
+        if entry["locator"].to_s.match?(WORLD_HEX_PATTERN) && entry["map"].to_s != "world"
           add(findings, "metadata.map_world_hex_mismatch", "error", "required",
               "A 13.07.F16-style locator always belongs to map: world.", line: line)
         end
       end
+
+      validate_map_profile_shape(note, locations, findings, line) unless locations.empty?
 
       missing_positions = map_position_gaps(note, locations)
       unless locations.empty? || missing_positions.empty?
@@ -1366,28 +1368,50 @@ module TaelgarNoteLint
     def map_position_gaps(note, locations)
       case note.data["typeOf"].to_s
       when "settlement"
-        entry = locations.find { |item| item["geometry"].to_s == "point" } || locations.first
+        entry = locations.first
         entry && !entry["locator"].to_s.strip.empty? ? [] : ["locator"]
       when "road"
-        entry = locations.find { |item| item["geometry"].to_s == "path" } || locations.first
-        %w[sourceHex outletHex].select { |field| entry.nil? || entry[field].to_s.strip.empty? }
-      when "waterway"
-        path_entry = locations.find { |item| item["geometry"].to_s == "path" }
-        if path_entry
-          return %w[sourceHex outletHex].select { |field| path_entry[field].to_s.strip.empty? }
+        2.times.each_with_object([]) do |index, gaps|
+          entry = locations[index]
+          gaps << "endpoint #{index + 1}.locator" if entry.nil? || entry["locator"].to_s.strip.empty?
         end
-
+      when "waterway"
         %w[source outlet].flat_map do |role|
           entry = locations.find { |item| item["role"].to_s == role }
           if entry
-            %w[feature locator].select { |field| entry[field].to_s.strip.empty? }
-              .map { |field| "#{role}.#{field}" }
+            entry["locator"].to_s.strip.empty? ? ["#{role}.locator"] : []
           else
             ["#{role} entry"]
           end
         end
       else
-        []
+        locations.each_with_index.each_with_object([]) do |(entry, index), gaps|
+          gaps << "location #{index + 1}.locator" if entry["locator"].to_s.strip.empty?
+        end
+      end
+    end
+
+    def validate_map_profile_shape(note, locations, findings, line)
+      case note.data["typeOf"].to_s
+      when "settlement"
+        return if locations.length == 1
+
+        add(findings, "metadata.map_profile_shape", "error", "required",
+            "A settlement map block requires exactly one location entry.", line: line,
+            details: map_template_details(note))
+      when "road"
+        return if locations.length == 2
+
+        add(findings, "metadata.map_profile_shape", "error", "required",
+            "A road map block requires exactly two unordered endpoint entries.", line: line,
+            details: map_template_details(note))
+      when "waterway"
+        roles = locations.map { |entry| entry["role"].to_s }
+        return if locations.length == 2 && roles.sort == %w[outlet source]
+
+        add(findings, "metadata.map_profile_shape", "error", "required",
+            "A waterway map block requires exactly one source entry and one outlet entry.", line: line,
+            details: map_template_details(note))
       end
     end
 

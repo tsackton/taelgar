@@ -1,13 +1,13 @@
 ---
 lintedAt: "2026-08-19T16:23:04-04:00"
 lintVersion: "2.3"
-tags: [source, status/cleanup/text, status/check/lint]
+tags: [source, status/cleanup/text]
 name: Story about Hags
-dm_owner: tim
+dm_owner: none
 dm_notes: none
 POV: timeless
 ---
-%% this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%
+%% status/cleanup/text - this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%
 
 Think for a second of how much you actually know as a commoner. You probably don't know specifically 'Hags', you instead have heard rumors about "The Woman of the Cliffs". People whisper that she's evil, cruel, and malicious. But you're in the tavern one night drinking away your worries about your eldest daughter's growing illness when Svenson, the local drunkard, is speaking to your neighbor, Wilfun, about his and his wife's problems having a child, and he says "Why not speak to the woman of the cliffs? They say she has powers". The other locals shush him up, talking about how bad an idea it is. But your neighbor looks thoughtful. You finish your tankard and forget about it.
 
@@ -28,20 +28,4 @@ With a weary heart you return to the village, thinking of how you can do what sh
 %%^Metadata:article:v1%%
 mode: preserved external source material awaiting adaptation
 povNotes: "Accuracy range: not tied to Taelgar chronology. This is an undated second-person source narrative whose internal sequence belongs to the preserved artifact; its assertions are source material rather than claims the linter can declare factually wrong."
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Open findings
-
-- [ ] **suggestion — `status.cleanup_text_pending`:** `status/cleanup/text` and the opening comment deliberately mark this preserved external source as awaiting a decision about Taelgar-specific adaptation and reformatting. This is editorial work, not an assertion that the source narrative is factually wrong.
-
-### Applied changes
-
-- Added the explicit note name, `POV: timeless`, and current article metadata while preserving the source text exactly.
-
-### Validated
-
-- As primary source material, the narrative itself is not subject to incorrectness findings; lint applies only to attribution, adaptation, and metadata.
 %%^End%%
