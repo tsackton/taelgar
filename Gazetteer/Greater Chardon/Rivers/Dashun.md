@@ -26,8 +26,8 @@ A minor river in the [[Coastlands]], south of the [[Chasa]], flowing from the [[
 
 %%^Metadata:map:v1%%
 locations:
-  - {role: source, feature: Chardon Hills, map: world, geometry: point, locator: 13.07.F16}
-  - {role: outlet, feature: Gulf of Chardon, map: world, geometry: point, locator: 13.07.C18}
+  - {role: source, feature: Chardon Hills, map: world, locator: 13.07.F16}
+  - {role: outlet, feature: Gulf of Chardon, map: world, locator: 13.07.C18}
 %%^End%%
 
 %%^Metadata:article:v1%%

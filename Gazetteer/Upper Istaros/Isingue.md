@@ -287,8 +287,7 @@ povNotes: "Accuracy range: DR 1749. The visible article describes the ruined cit
 %%^End%%
 
 %%^Metadata:map:v1%%
-status: missing
-locations: []
+- {map: world, locator: }
 %%^End%%
 
 %%^Lint%%

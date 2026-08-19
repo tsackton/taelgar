@@ -1,5 +1,4 @@
 ---
-activeYear: 1740
 headerVersion: 2023.11.25
 lintedAt: "2026-08-19T16:23:04-04:00"
 lintVersion: "2.3"
@@ -13,7 +12,7 @@ pronunciation: NUZ-car
 whereabouts:
   - {type: home, location: Gorzum}
   - {type: home, location: Uzgukhar}
-  - {type: away, location: Vindristjarna, end: 9999}
+  - {type: away, start: 1749-01-24, end: 1749-06-18, location: Vindristjarna}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
@@ -32,6 +31,10 @@ She has a twin sister, [[Aygul]], as well as a husband and large family in Uzguk
 
 %%^Date:1748%%
 Inspired by [[Riswynn]] and the [[Battle for Uzgukhar]] to rededicate herself to her childhood dream of doing more for all orcs who suffer, unfree, in [[Thark]]'s control. 
+%%^End%%
+
+%%^Date:1749-06-18%%
+On [[Session 124 (DuFr)|June 18, 1749]], Nuzkar left [[Vindristjarna]] with [[Riswynn]], [[Aygul]], and [[Kethra]], teleporting to [[Uzgukhar]] to join Riswynn's campaign to challenge Thark's control over the orcs with the [[Crown of Purity]].
 %%^End%%
 
 %% notes
@@ -60,12 +63,12 @@ Her sister is eager to go with her -- Aygul has always been the type who would h
 %%
 
 %%^Metadata:names:v1%%
-- {name: Nuzkar, role: primary, language: Orcish, pronunciation: NUZ-car, status: inferred, notes: pronunciation is documented; source language is inferred from her Orcish context}
+- {name: Nuzkar, role: primary, language: Orcish, pronunciation: NUZ-car}
 %%^End%%
 
 %%^Metadata:article:v1%%
 mode: character reference with dated fact and shared development history
-povNotes: "Accuracy range: approximately DR 1748–1749. The visible biography and Vindristjarna whereabouts fit Nuzkar's Dunmar Frontier involvement, while the rededication is explicitly bounded to DR 1748 and the commented history remains unfinished development rather than article prose."
+povNotes: "Accuracy range: approximately DR 1748–1749. The visible biography follows Nuzkar from her rededication through her June 1749 departure from Vindristjarna with Riswynn to challenge Thark's influence, while the commented history remains unfinished development rather than article prose."
 %%^End%%
 
 %%^Lint%%
@@ -74,14 +77,15 @@ povNotes: "Accuracy range: approximately DR 1748–1749. The visible biography a
 ### Open findings
 
 - [ ] **suggestion — `frontmatter.deprecated_field`:** `activeYear: 1740` is obsolete. If it only meant “this article is useful around the current campaign era,” remove it because `POV: 1749` now records that viewpoint. If it was intended as publication gating, choose the appropriate Date block or `audience` rule instead; its original meaning is not mechanically recoverable.
-- [ ] **suggestion — `whereabouts.temporal_start_unclear`:** The two undated homes are compatible with origin/family homes, and `end: 9999` is a supported ongoing-away sentinel, but the Vindristjarna entry has no start. If the Session 83 meeting marks the start of her travel, the copy-ready replacement is `{type: away, start: 1748-12-30, end: 9999, location: Vindristjarna}`; otherwise use the supported departure date.
 - [ ] **suggestion — `editorial.shared_development_placeholders`:** The shared history still contains `~husband~`, an explicitly tentative causal idea, and unfinished sentences. These are development placeholders rather than cross-note factual conflicts; complete or clear them during human review.
 
 ### Applied changes
 
 - Added `knownTo: [dufr]`, `POV: 1749`, current article metadata, migrated the name block to v1, and canonicalized the nondeprecated frontmatter.
+- Corrected the Vindristjarna dates and added Nuzkar's Session 124 departure with Riswynn to the visible biography.
 
 ### Validated
 
 - Local hidden material supports `dm_notes: color`; no color-versus-important judgment is needed. The DR 1748 fact block remains properly bounded.
+- Sessions 89 and 124 establish her service aboard Vindristjarna from DR 1749-01-24 through DR 1749-06-18 and her subsequent departure with Riswynn's campaign against Thark's control.
 %%^End%%

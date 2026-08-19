@@ -33,5 +33,5 @@ povNotes: "Accuracy range: the DR 1700s broadly."
 
 %%^Metadata:map:v1%%
 locations:
-  - {geometry: point, map: world, locator: "13.11.D07"}
+  - {map: world, locator: "13.11.D07"}
 %%^End%%

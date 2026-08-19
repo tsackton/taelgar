@@ -46,8 +46,9 @@ The Istaros has many names. To the original Drankorians, the refugees from [[Hka
 %%^End%%
 
 %%^Metadata:map:v1%%
-status: missing
-locations: []
+locations:
+- {role: source, feature: , map: world, locator: }
+- {role: outlet, feature: , map: world, locator: }
 %%^End%%
 
 %%^Metadata:article:v1%%

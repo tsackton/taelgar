@@ -244,7 +244,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
         %%^Metadata:map:v1%%
         locations:
-          - {geometry: path, map: world, sourceHex: "01.01.A01", outletHex: "01.01.B02"}
+          - {role: source, feature: , map: world, locator: "01.01.A01"}
+          - {role: outlet, feature: , map: world, locator: "01.01.B02"}
         %%^End%%
 
         %%^Lint%%
@@ -494,20 +495,21 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "waterway" => <<~BLOCK.chomp,
         %%^Metadata:map:v1%%
         locations:
-          - {role: source, feature: , map: world, geometry: point, locator: }
-          - {role: outlet, feature: , map: world, geometry: point, locator: }
+          - {role: source, feature: , map: world, locator: }
+          - {role: outlet, feature: , map: world, locator: }
         %%^End%%
       BLOCK
       "road" => <<~BLOCK.chomp,
         %%^Metadata:map:v1%%
         locations:
-          - {map: world, geometry: path, sourceHex: , outletHex: }
+          - {feature: , map: world, locator: }
+          - {feature: , map: world, locator: }
         %%^End%%
       BLOCK
       "settlement" => <<~BLOCK.chomp
         %%^Metadata:map:v1%%
         locations:
-          - {map: world, geometry: point, locator: }
+          - {map: world, locator: }
         %%^End%%
       BLOCK
     }
@@ -531,9 +533,12 @@ class ValidateTaelgarNoteTest < Minitest::Test
     cases = {
       "waterway" => [
         TaelgarNoteLint.map_block_template("waterway"),
-        %w[source.feature source.locator outlet.feature outlet.locator]
+        %w[source.locator outlet.locator]
       ],
-      "road" => [TaelgarNoteLint.map_block_template("road"), %w[sourceHex outletHex]],
+      "road" => [
+        TaelgarNoteLint.map_block_template("road"),
+        ["endpoint 1.locator", "endpoint 2.locator"]
+      ],
       "settlement" => [TaelgarNoteLint.map_block_template("settlement"), %w[locator]]
     }
 
@@ -557,20 +562,21 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "waterway" => <<~BLOCK.chomp,
         %%^Metadata:map:v1%%
         locations:
-          - {role: source, feature: Chardon Hills, map: world, geometry: point, locator: "13.07.F16"}
-          - {role: outlet, feature: Gulf of Chardon, map: world, geometry: point, locator: "13.07.C18"}
+          - {role: source, feature: , map: world, locator: "13.07.F16"}
+          - {role: outlet, feature: Gulf of Chardon, map: world, locator: "13.07.C18"}
         %%^End%%
       BLOCK
       "road" => <<~BLOCK.chomp,
         %%^Metadata:map:v1%%
         locations:
-          - {map: world, geometry: path, sourceHex: "13.07.F16", outletHex: "13.07.C18"}
+          - {feature: Chardon, map: world, locator: "13.07.F16"}
+          - {feature: Tollen, map: world, locator: "13.07.C18"}
         %%^End%%
       BLOCK
       "settlement" => <<~BLOCK.chomp
         %%^Metadata:map:v1%%
         locations:
-          - {map: world, geometry: point, locator: "13.07.F16"}
+          - {map: world, locator: "13.07.F16"}
         %%^End%%
       BLOCK
     }
@@ -603,10 +609,33 @@ class ValidateTaelgarNoteTest < Minitest::Test
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     report = validator.validate_text(
       "Gazetteer/Test Road.md",
-      "---\ntags: [place]\ntypeOf: road\n---\n%%^Metadata:map:v1%%\nlocations:\n  - {geometry: path, map: regional, hex: 13.07.F16}\n%%^End%%\n# Test Road\n"
+      "---\ntags: [place]\ntypeOf: road\n---\n%%^Metadata:map:v1%%\nlocations:\n  - {feature: Chardon, map: regional, locator: 13.07.F16}\n  - {feature: Tollen, map: world, locator: 13.07.C18}\n%%^End%%\n# Test Road\n"
     )
 
     assert_includes rule_ids(report), "metadata.map_world_hex_mismatch"
+  end
+
+  def test_map_profile_shapes_and_required_map_field_are_validated
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+
+    road = validator.validate_text(
+      "Gazetteer/Test Road.md",
+      "---\ntags: [place]\ntypeOf: road\n---\n%%^Metadata:map:v1%%\nlocations:\n  - {feature: Chardon, map: world, locator: 13.07.F16}\n%%^End%%\n# Test Road\n"
+    )
+    assert_includes rule_ids(road), "metadata.map_profile_shape"
+
+    waterway = validator.validate_text(
+      "Gazetteer/Test River.md",
+      "---\ntags: [place]\ntypeOf: waterway\n---\n%%^Metadata:map:v1%%\nlocations:\n  - {role: source, feature: , map: world, locator: 13.07.F16}\n  - {role: source, feature: , map: world, locator: 13.07.C18}\n%%^End%%\n# Test River\n"
+    )
+    assert_includes rule_ids(waterway), "metadata.map_profile_shape"
+
+    settlement = validator.validate_text(
+      "Gazetteer/Test Settlement.md",
+      "---\ntags: [place]\ntypeOf: settlement\n---\n%%^Metadata:map:v1%%\nlocations:\n  - {locator: 13.07.F16}\n%%^End%%\n# Test Settlement\n"
+    )
+    assert_includes rule_ids(settlement), "metadata.map_required_field"
   end
 
   def test_private_comment_forms_remain_semantically_distinct
