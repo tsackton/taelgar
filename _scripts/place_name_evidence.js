@@ -755,12 +755,13 @@ function loadCampaignDefinitions(root) {
     for (const [slug, raw] of Object.entries(payload.campaigns || {})) {
       definitions.set(slug, {
         slug,
-        name: slug,
-        aliases: new Set([slug, ...(raw.aliases || [])]),
+        name: raw.name || slug,
+        aliases: new Set([slug, raw.name, raw.code, ...(raw.aliases || [])].filter(Boolean)),
         sessionRoot: raw.sessionRoot || "",
         campaignRoot: normalizeSlashes(raw.campaignRoot || ""),
         notePattern: raw.notePattern || "",
-        code: (raw.aliases || [])[0] || slug,
+        code: raw.code || slug,
+        official: true,
       });
     }
   }
@@ -792,8 +793,10 @@ function loadCampaignDefinitions(root) {
         };
         definitions.set(slug, definition);
       }
-      definition.code = campaign.code || definition.code;
-      definition.name = (campaign.aliases || [])[0] || definition.name;
+      if (!definition.official) {
+        definition.code = campaign.code || definition.code;
+        definition.name = (campaign.aliases || [])[0] || definition.name;
+      }
       definition.sessionNoteFolder = folder;
       for (const alias of [campaign.code, ...(campaign.aliases || [])]) {
         if (alias) definition.aliases.add(alias);

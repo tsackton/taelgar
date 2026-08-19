@@ -1,8 +1,8 @@
 ---
-lintedAt: "2026-08-19T09:51:53-04:00"
+lintedAt: "2026-08-19T11:00:23-04:00"
 lintVersion: "2.1"
-tags: [session-note, status/check/lint]
-campaign: Dunmari Frontier
+tags: [session-note]
+campaign: Dunmar Frontier
 sessionNumber: 41
 realWorldDate: 2022-03-03
 DR: 1748-07-06
@@ -12,12 +12,6 @@ tagline: in which the party returns to Tokra and plans their next steps
 descTitle: "Monsoon's Arrival"
 name: Dunmari Frontier - Session 41
 ---
-%%^Metadata:article:v1%%
-profile: session-note
-mode: campaign record
-pov: retrospective account of DR 1748-07-06 through 1748-07-13
-%%^End%%
-
 # Dunmari Frontier - Session 41
 
 >[!info] Monsoon's Arrival: in which the party returns to Tokra and plans their next steps
@@ -69,38 +63,14 @@ That afternoon, the party moves to the monastery to wait for their [[Portable Ho
 
 Over the next few days, the party speaks with [[Kassi]] (details on what she reports are described in [[Research from Kassi]]), and then speaks with Speaker [[Lara]], when she returns from her trip to the east.
 
-Speaker [[Lara]] has traveled east, and spoken with Nayan [[Sura]], drawn, she thinks, by the gods to help make sense of the current moment. But [[Lara]] fears this is a moment that [[Laka]] did not foresee, and does not know exactly what to do. She sees the will of [[Aagir]] in [[Sura]]; [[Aagir]] has always been the force in [[Dunmar]] pushing for war, pushing to drive east and exterminate the evil forces that threaten [[Dunmar]]. But whether this impulse will lead to safety, or just needless death, [[Lara]] does not know and cannot see. In the past, riding east in force has led to much death, but whether needless is hard to say, and if [[Sura]] summoned the might of [[Aagir]] and rode forth, [[Lara]] fears that [[Dunmar]] may meet a glorious end. [[Nayan Karnas]] is a servant of [[Sonkar]] – a goddess many think cold, perhaps even heartless, for she is the one that sits in judgment of the dead. And yet she is also the one that mourns life cut short the most, the lost potential of the prematurely dead to create art and beauty in the world. 
+Speaker [[Lara]] has traveled east, and spoken with Nayan [[Sura]], drawn, she thinks, by the gods to help make sense of the current moment. But [[Lara]] fears this is a moment that [[Laka]] did not foresee, and does not know exactly what to do. She sees the will of [[Aagir]] in [[Sura]]; [[Aagir]] has always been the force in [[Dunmar]] pushing for war, pushing to drive east and exterminate the evil forces that threaten [[Dunmar]]. But whether this impulse will lead to safety, or just needless death, [[Lara]] does not know and cannot see. In the past, riding east in force has led to much death, but whether this has been needless is hard to say, and if [[Sura]] summoned the might of [[Aagir]] and rode forth, [[Lara]] fears that [[Dunmar]] may meet a glorious end. [[Nayan Karnas]] is a servant of [[Sonkar]] – a goddess many think cold, perhaps even heartless, for she is the one that sits in judgment of the dead. And yet she is also the one that mourns life cut short the most, the lost potential of the prematurely dead to create art and beauty in the world. 
 
 While a solution is not immediately apparent to Speaker [[Lara]], she has decided to send [[Johar]] to [[Nayahar]] to speak with [[Nayan Karnas]], to try to prevent war at least. However, rumor is that the roads are dangerous now, both from evil that may have slipped in to [[Dunmar]] over the last months, and from the usual banditry that is caused by famine and war. So, she asks the party to escort him, at least as far as the coast. 
 
 We end as the conversation fades and the party agrees that [[Johar]] will come with them to [[Darba]].
 
-%%^Lint%%
-## Open findings
-
-- [ ] `campaign.noncanonical_code`: replace the campaign alias with the canonical registry code.
-- [ ] `editorial.unclear_clause`: “whether needless is hard to say” appears incomplete and needs a human wording choice.
-- [ ] `editorial.timeline_voice`: the timeline alternates between imperative shorthand (“Leave,” “Travel”) and retrospective prose; decide whether that compression is intentional.
-
-## Copy-ready candidates
-
-```yaml
-campaign: DuFr
-```
-
-## Applied changes
-
-- Canonicalized frontmatter layout and added lint state.
-- Added persistent article metadata.
-- Removed the stray timeline-list indent and its trailing whitespace; changed “since we rescued” to “since his rescue,” “describe” to “describes,” and “this is impulse” to “this impulse.”
-
-## Evidence reviewed
-
-- The complete session note and its bounded dates.
-- [[Session 37 (DuFr)]] for Govir’s rescue.
-- Current backlinks and the campaign registry; no newer invention-bearing source mentions this session note directly.
-
-## Status disposition
-
-- No pre-existing status tags required disposition.
+%%^Metadata:article:v1%%
+mode: campaign record
+pov: retrospective account of DR 1748-07-06 through DR 1748-07-13
+povNotes: The bounded dates and campaign perspective are part of the source record. The linter may flag unclear wording or downstream continuity work, but it must not declare the session’s recorded events factually wrong.
 %%^End%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, testcase, status/check/ai]
+tags: [place, testcase]
 displayDefaults:
   endStatus: Consumed by Cha'mutte's plague in
   wOrigin: <primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>
@@ -23,9 +23,9 @@ dm_owner: tim
 typeOfAlias: city
 ---
 # Isingue
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The now-ruined city on the [[Istaros]], once the cultural and spiritual capital of the [[Istabor Alliance]].
@@ -279,36 +279,3 @@ maybe
 i'm not sure how big a role the rangers play in your campaign but feel free to have some reverberations echoing back to the rangers via beryl if it make sense
 
 %%
-
-%%^Metadata:names%%
-version: 1
-names:
-  - {form: Isingue, role: primary, language: unknown, languageStatus: unresolved, pronunciationStatus: unresolved, derivation: unknown}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-- Linted: 2026-08-19T01:07:33-04:00
-- Linter version: 2
-- Profile: ruined settlement with campaign material
-- Article mode: current encyclopedic reference plus a DuFr-relative campaign block and shared development history
-- Temporal POV: visible article is post-DR 1545; “currently” in the DuFr block is tied only implicitly to the Fellowship's visit
-- Inference confidence: high
-- POV suitability: mixed; the visible historical/current contrast works, but the campaign-relative present needs a date or durable wording
-- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
-
-### Open findings
-- [ ] **Temporal POV:** date or rephrase the DuFr statement that the ooze “seems to be currently” occupying the ruin. That claim is suitable campaign knowledge, but its present tense will drift.
-- [ ] **Coverage:** later DuFr records add the Heartroot, the wound toward Limbo, the ooze's scale, the Rangers, and the consequences for the life-giving waters. The public note has not yet been reconciled with that invention.
-- [ ] **Internal conflict:** the shared Discord history explores a survived/rebuilt Isingue, while current metadata and visible prose say the city was destroyed. This is an in-note development conflict, not a cross-note canon conflict, and should be quick for a human to retire or preserve explicitly.
-- [ ] **Relationship metadata:** `affiliations` treats `ruined` as an organization. Replace or remove that legacy value after deciding what the affiliation display is meant to communicate.
-- [ ] **Pronunciation and name language:** both are required for this name but unresolved. “Isinguese” is a relevant language, not proof that the older city name originated in it.
-- [ ] **Private attestation:** `dm_notes: important` cannot be validated from tracked files alone.
-
-### Applied changes
-- Added the trial lint state, `status/check/ai`, and an uncertainty-preserving naming block.
-- Reformatted metadata dictionaries to the current compact style and corrected “capitol” to “capital.”
-
-### Evidence reviewed
-- [[Session 129 (DuFr)]]; [[Session 130 (DuFr)]]; [[Session 134 (DuFr)]]; [[Heartroot]]; current note, campaign block, and shared Discord history
-%%^End%%

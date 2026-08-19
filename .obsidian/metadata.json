@@ -11,28 +11,48 @@
     ],
     "campaigns": [
         {
-            "code": "DuFr",
+            "code": "dufr",
             "partyPage": "Dunmar Fellowship",
             "sessionNoteFolder": "Campaigns/Dunmari Frontier Campaign/Session Notes",
-            "aliases": ["dufr", "Dunmari Frontier", "Dunmari Frontier Campaign", "Dunmar Frontier", "Dunmar Frontier Campaign"]
+            "aliases": ["DuFr", "Dunmari Frontier", "Dunmari Frontier Campaign", "Dunmar Frontier", "Dunmar Frontier Campaign"]
         },
         {
-            "code": "Clee",
+            "code": "clee",
             "partyPage": "Heroes of Cleenseau",
             "sessionNoteFolder": "Campaigns/Cleenseau Campaign/Sessions",
-            "aliases": ["clee", "Cleenseau", "Cleenseau Campaign"]
+            "aliases": ["Clee", "Cleenseau", "Cleenseau Campaign"]
         },
         {
-            "code": "GL",
+            "code": "grli",
             "partyPage": "Silver Tempests",
             "sessionNoteFolder": "Campaigns/Great Library Campaign/Session Notes",
-            "aliases": ["gl", "Great Library", "Great Library Campaign"]
+            "aliases": ["GL", "gl", "Great Library", "Great Library Campaign"]
         },
         {
             "code": "adma",
             "partyPage": "Addermarch Mercenaries",
             "sessionNoteFolder": "Campaigns/Addermarch Campaign",
             "aliases": ["ADMA", "Addermarch", "Addermarch Campaign"]
+        },
+        {
+            "code": "mawar",
+            "sessionNoteFolder": "Campaigns/Mawar Adventures/Episodes",
+            "aliases": ["Mawar", "Mawar Adventures"]
+        },
+        {
+            "code": "itc",
+            "sessionNoteFolder": "Campaigns/One Shots/Into the Chasm",
+            "aliases": ["Into the Chasm"]
+        },
+        {
+            "code": "lablost",
+            "sessionNoteFolder": "Campaigns/One Shots/Labyrinths of the Lost",
+            "aliases": ["ll", "Labyrinths of the Lost"]
+        },
+        {
+            "code": "feywild",
+            "sessionNoteFolder": "Campaigns/One Shots/Lost in the Feywild",
+            "aliases": ["litf", "Lost in the Feywild"]
         }
     ],
     "requiredDisplayDefaults": {

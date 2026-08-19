@@ -1,6 +1,3 @@
----
-headerVersion: 2023.11.25
----
 # Javascript Notes
 **WARNING: outdated and incomplete**
 
@@ -26,7 +23,7 @@ This folder contains templater user functions.
 To track and summarize party interactions with NPCs (and other entities) without cluttering YAML with long logs:
 
 - Use `knownTo` in frontmatter as the **source of truth** for “this party knows this subject”.
-  - Example: `knownTo: [DuFr, Clee]`
+  - Example: `knownTo: [dufr, clee]`
 - Rely on session notes as **evidence**: session notes should link entities that appear in them.
 - Add a generated “Campaign Interactions” section to the subject page to avoid manually searching backlinks.
 
@@ -40,8 +37,8 @@ Example section on an NPC page:
 To show interactions for a single campaign only:
 
 ```markdown
-## Campaign Interactions (DuFr)
-`$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current(), "DuFr")`
+## Campaign Interactions (dufr)
+`$=customJS.OutputHandler.outputCampaignInteractions(dv.current().file.name, dv.current(), "dufr")`
 ```
 
-Campaign codes (and mapping to party pages and session-note folders) are configured in `.obsidian/metadata.json` under `campaigns` (`code`, `partyPage`, `sessionNoteFolder`, optional `aliases`).
+Canonical campaign names, lowercase codes, aliases, party pages, and session paths are configured in `_scripts/session_note_campaigns.json`; see [[Campaign Registry]]. `.obsidian/metadata.json` remains a compatibility input for older code and is not authoritative.

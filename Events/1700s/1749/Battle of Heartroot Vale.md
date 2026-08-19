@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/ai]
+tags: [event]
 typeOf: battle
 DR: 1749-08-12
 whereabouts: Aurbez Plateau
@@ -24,31 +24,4 @@ Noticing the deception, the [[Dunmar Fellowship]] raced to intercept the [[Empre
 version: 1
 names:
   - {form: Battle of Heartroot Vale, role: primary, language: Common, languageStatus: inferred, pronunciationStatus: exception-title, derivation: descriptive}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-- Linted: 2026-08-19T01:07:33-04:00
-- Linter version: 2
-- Profile: dated event
-- Article mode: retrospective event summary
-- Temporal POV: bounded to DR 1749-08-12
-- Inference confidence: high
-- POV suitability: suitable; later references do not make a completed, correctly dated event account stale
-- Review signal after this run: no substantive unresolved lint issue; `status/check/ai` remains because the agent edited the note
-
-### Open findings
-- None beyond human verification of the safe edit and the provisional naming block.
-
-### Applied changes
-- Added the trial lint state, `status/check/ai`, and a descriptive-title naming block.
-- Corrected “climatic victory” to “climactic victory.”
-- Preserved the pre-existing local change linking `[[Chaos Metal]]` without a path.
-
-### Validated
-- A separate pronunciation is not required for this plain-English event title.
-- Sessions 132–134 support the event sequence and outcome.
-
-### Evidence reviewed
-- [[Session 132 (DuFr)]]; [[Session 133 (DuFr)]]; [[Session 134 (DuFr)]]; current event note
 %%^End%%

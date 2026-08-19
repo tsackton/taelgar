@@ -23,7 +23,7 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "2.1"
+  VERSION = "2.2"
   SCHEMA_VERSION = 3
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
@@ -31,6 +31,24 @@ module TaelgarNoteLint
     timelineDescriptor pcOwner rarity leaderOf reignStart aNoDate aPast
     aPastWithStart aCurrent
   ].freeze
+
+  DEPRECATED_FRONTMATTER_REPLACEMENTS = {
+    "activeYear" => "Use created for entity existence, a Date block for passage visibility, or audience for publication scope, according to the original meaning.",
+    "subTypeOf" => "Use the primary typeOf when this is the real classification; otherwise use typeOfAlias, partOf, or affiliations as appropriate.",
+    "subTypeOfAlias" => "Use typeOfAlias when this is display wording; otherwise incorporate it into the replacement for subTypeOf.",
+    "subspecies" => "Use species for the primary biological classification and typeOfAlias only for display wording.",
+    "speciesAlias" => "Use typeOfAlias for display wording, or an accepted ancestry/species value when it is classification.",
+    "deity" => "Represent the relationship with affiliations, partOf, or ordinary linked prose.",
+    "timelineDescriptor" => "Use explicit lifecycle dates, Date blocks, or persistent article POV metadata according to the intended temporal meaning.",
+    "pcOwner" => "Use the current player/character ownership field adopted by the applicable character template; confirm the intended semantics before migration.",
+    "rarity" => "Move game-mechanical rarity to the applicable mechanics block or retained item field selected by human review.",
+    "leaderOf" => "Use an affiliation entry with type: leader.",
+    "reignStart" => "Put the start date on the corresponding leader affiliation.",
+    "aNoDate" => "Use displayDefaults or an affiliation-level format override.",
+    "aPast" => "Use displayDefaults or an affiliation-level formatPast override.",
+    "aPastWithStart" => "Use displayDefaults or an affiliation-level formatPast override.",
+    "aCurrent" => "Use displayDefaults or an affiliation-level formatCurrent override."
+  }.freeze
 
   FRONTMATTER_HEAD_FIELDS = %w[
     headerVersion lintedAt lintVersion displayDefaults
@@ -60,6 +78,8 @@ module TaelgarNoteLint
   PRONUNCIATION_EXCEPTIONS = %w[obvious title meta].freeze
   MAP_REQUIRED_TYPES = %w[waterway road settlement].freeze
   WORLD_HEX_PATTERN = /\A\d{2}\.\d{2}\.[A-Z]\d{2}\z/
+  METADATA_BLOCK_PATTERN = /%%\^Metadata:(names|map|article)(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
+  LINT_BLOCK_PATTERN = /%%\^Lint%%\s*(.*?)\s*%%\^End%%/m
 
   PLACE_TYPES = [
     "settlement", "realm", "neighborhood", "region", "watershed", "plane",
@@ -95,6 +115,25 @@ module TaelgarNoteLint
 
   def normalize(value)
     value.to_s.strip.downcase.gsub(/\s+/, " ")
+  end
+
+  def mask_markdown_code(text)
+    fence = nil
+    masked = text.lines.map do |line|
+      if fence
+        closing = line.match?(/\A {0,3}#{Regexp.escape(fence[0])}{#{fence[1]},}[ \t]*(?:\r?\n|\z)/)
+        fence = nil if closing
+        line.gsub(/[^\r\n]/, " ")
+      elsif (match = line.match(/\A {0,3}(`{3,}|~{3,})/))
+        run = match[1]
+        fence = [run[0], run.length]
+        line.gsub(/[^\r\n]/, " ")
+      else
+        line
+      end
+    end.join
+
+    masked.gsub(/(`+)[^\r\n]*?\1/) { |span| span.gsub(/[^\r\n]/, " ") }
   end
 
   def yaml_load(text)
@@ -359,7 +398,15 @@ module TaelgarNoteLint
     end
 
     def resolve(value)
+      resolve_entry(value)&.fetch("code")
+    end
+
+    def resolve_entry(value)
       @lookup[TaelgarNoteLint.normalize(value)]
+    end
+
+    def canonical_name(value)
+      resolve_entry(value)&.fetch("name")
     end
 
     def canonical?(value)
@@ -379,24 +426,43 @@ module TaelgarNoteLint
     private
 
     def load_registry
-      path = @root.join(".obsidian", "metadata.json")
-      return unless path.file?
-
+      path = @root.join("_scripts", "session_note_campaigns.json")
+      raise ArgumentError, "Campaign registry not found: #{path}" unless path.file?
       payload = JSON.parse(TaelgarNoteLint.read_text(path))
-      Array(payload["campaigns"]).each do |entry|
-        next unless entry.is_a?(Hash) && entry["code"]
+      entries = payload["campaigns"]
+      unless entries.is_a?(Hash) && !entries.empty?
+        raise ArgumentError, "Campaign registry must contain a nonempty campaigns object"
+      end
 
-        campaign = entry.dup
-        session_folder = campaign["sessionNoteFolder"].to_s.sub(%r{/(Session Notes|Sessions)\z}, "")
-        campaign["campaignRoot"] = session_folder unless session_folder.empty?
+      codes = {}
+      entries.each do |slug, raw|
+        unless raw.is_a?(Hash)
+          raise ArgumentError, "Campaign #{slug} must be a JSON object"
+        end
+        name = raw["name"].to_s.strip
+        code = raw["code"].to_s.strip
+        raise ArgumentError, "Campaign #{slug} is missing name" if name.empty?
+        unless code.match?(/\A[a-z][a-z0-9]*\z/)
+          raise ArgumentError, "Campaign #{slug} code must be lowercase alphanumeric: #{code.inspect}"
+        end
+        if codes.key?(code)
+          raise ArgumentError, "Campaign code #{code} is duplicated by #{codes[code]} and #{slug}"
+        end
+        codes[code] = slug
+
+        campaign = raw.merge("slug" => slug, "name" => name, "code" => code)
         @campaigns << campaign
-        ([campaign["code"]] + Array(campaign["aliases"])).each do |value|
-          @lookup[TaelgarNoteLint.normalize(value)] = campaign["code"].to_s
+        ([slug, name, code] + Array(campaign["aliases"])).each do |value|
+          key = TaelgarNoteLint.normalize(value)
+          next if key.empty?
+          if @lookup.key?(key) && @lookup[key]["code"] != code
+            raise ArgumentError, "Campaign alias #{value.inspect} resolves to more than one campaign"
+          end
+          @lookup[key] = campaign
         end
       end
-    rescue JSON::ParserError
-      @campaigns = []
-      @lookup = {}
+    rescue JSON::ParserError => error
+      raise ArgumentError, "Campaign registry is invalid JSON: #{error.message}"
     end
   end
 
@@ -452,6 +518,54 @@ module TaelgarNoteLint
     end
   end
 
+  class DMNoteScanner
+    def initialize(root:, index:)
+      @root = Pathname.new(root).expand_path
+      @index = index
+      @documents = Dir.glob(@root.join("_DM_", "**", "*.md").to_s).sort.each_with_object([]) do |absolute, documents|
+        path = TaelgarNoteLint.relative_path(@root, absolute)
+        documents << [path, TaelgarNoteLint.read_text(absolute)]
+      rescue Errno::ENOENT, Errno::EACCES
+        next
+      end
+    end
+
+    def mentions(note)
+      resolvable_names = note.identity_names.select do |name|
+        @index.resolve(name, note.path) == [note.path]
+      end
+      @documents.each_with_object([]) do |(path, original_text), matches|
+        text = TaelgarNoteLint.mask_markdown_code(original_text)
+        lines = []
+        kinds = []
+        text.lines.each_with_index do |line, index|
+          linked = line.scan(/(?<!!)\[\[([^\]\n]+)\]\]/).flatten.any? do |raw|
+            @index.resolve(raw, path).include?(note.path)
+          end
+          named = resolvable_names.any? { |name| exact_name_match?(line, name) }
+          next unless linked || named
+
+          lines << index + 1
+          kinds << "link" if linked
+          kinds << "name" if named
+        end
+        next if lines.empty?
+
+        matches << {
+          "path" => path,
+          "lines" => lines.uniq,
+          "matchKinds" => kinds.uniq
+        }
+      end
+    end
+
+    private
+
+    def exact_name_match?(text, name)
+      text.match?(/(?<![[:alnum:]_])#{Regexp.escape(name)}(?![[:alnum:]_])/i)
+    end
+  end
+
   class Validator
     attr_reader :registry
 
@@ -460,6 +574,7 @@ module TaelgarNoteLint
       @registry = CampaignRegistry.new(@root)
       @check_links = check_links
       @index = index || (check_links ? NoteIndex.new(@root) : nil)
+      @dm_scanner = check_links ? DMNoteScanner.new(root: @root, index: @index) : nil
     end
 
     def validate_path(path)
@@ -505,6 +620,7 @@ module TaelgarNoteLint
           "path" => path,
           "name" => note.data["name"] || Pathname.new(path).basename(".md").to_s,
           "profile" => note.tags.find { |tag| DESCRIPTIVE_TAGS.include?(tag) },
+          "authority" => source_authority(note),
           "statuses" => statuses
         },
         "findings" => findings.sort_by { |finding| finding_sort_key(finding) },
@@ -525,6 +641,13 @@ module TaelgarNoteLint
       finding["provisional"] = true if provisional
       finding["details"] = details if details
       findings << finding
+    end
+
+    def source_authority(note)
+      return "session-source" if note.tags.include?("session-note")
+      return "primary-source" if note.tags.include?("source") || note.tags.include?("primary-source")
+
+      "reference"
     end
 
     def validate_frontmatter(note, findings)
@@ -641,11 +764,26 @@ module TaelgarNoteLint
         end
       end
 
-      if note.data.key?("subTypeOf")
-        add(findings, "classification.deprecated_subtype", "suggestion", "recommended",
-            "subTypeOf is legacy and inconsistently used; retain it for now but review it during metadata migration.",
-            line: note.field_line("subTypeOf"), provisional: true)
+      DEPRECATED_FRONTMATTER_FIELDS.each do |field|
+        next unless note.data.key?(field)
+
+        rule_id = field == "subTypeOf" ? "classification.deprecated_subtype" : "frontmatter.deprecated_field"
+        replacement = deprecated_replacement(note, field)
+        add(findings, rule_id, "suggestion", "recommended",
+            "#{field} is deprecated or obsolete. Proposed replacement: #{replacement}",
+            line: note.field_line(field), provisional: true,
+            details: { "field" => field, "replacement" => replacement })
       end
+    end
+
+    def deprecated_replacement(note, field)
+      value = note.data[field]
+      if field == "subTypeOf" && !value.to_s.strip.empty? && note.data["typeOfAlias"].to_s.strip.empty? &&
+         !note.data["typeOf"].to_s.strip.empty?
+        return "typeOfAlias: #{value} preserves this note's secondary display wording alongside typeOf: #{note.data['typeOf']}."
+      end
+
+      DEPRECATED_FRONTMATTER_REPLACEMENTS.fetch(field)
     end
 
     def validate_campaign_metadata(note, findings)
@@ -662,13 +800,16 @@ module TaelgarNoteLint
       campaign_code = nil
       campaign_applicable = campaign_field_applicable?(note)
       if campaign_value && !campaign_value.to_s.strip.empty?
-        campaign_code = @registry.resolve(campaign_value)
-        if campaign_code.nil?
+        campaign_entry = @registry.resolve_entry(campaign_value)
+        if campaign_entry.nil?
           add(findings, "campaign.unknown_code", "error", "required",
               "Unknown campaign value: #{campaign_value}.", line: note.field_line("campaign"))
-        elsif campaign_value.to_s != campaign_code
-          add(findings, "campaign.noncanonical_code", "suggestion", "recommended",
-              "Campaign value resolves to #{campaign_code}; the canonical code is preferred.",
+        else
+          campaign_code = campaign_entry["code"]
+        end
+        if campaign_entry && campaign_value.to_s != campaign_entry["name"]
+          add(findings, "campaign.noncanonical_name", "suggestion", "recommended",
+              "campaign frontmatter uses the canonical long name: #{campaign_entry['name']}.",
               line: note.field_line("campaign"), provisional: true)
         end
         unless campaign_applicable
@@ -715,12 +856,12 @@ module TaelgarNoteLint
       if campaign_applicable && campaign_value.to_s.strip.empty? && note.tags.include?("session-note")
         add(findings, "campaign.session_missing", "error", "required",
             "Session notes require campaign identity.", line: 1,
-            details: path_campaign ? { "campaign" => path_campaign["code"] } : nil)
+            details: path_campaign ? { "campaign" => path_campaign["name"] } : nil)
       elsif campaign_applicable && path_campaign && campaign_value.to_s.strip.empty?
         add(findings, "campaign.document_missing", "warning", "conditional",
-            "This campaign meta/source document should identify campaign #{path_campaign['code']}.",
+            "This campaign meta/source document should identify campaign #{path_campaign['name']}.",
             line: 1, provisional: true,
-            details: { "campaign" => path_campaign["code"] })
+            details: { "campaign" => path_campaign["name"] })
       elsif campaign_applicable && path_campaign && campaign_code && campaign_code != path_campaign["code"]
         add(findings, "campaign.directory_mismatch", "error", "conditional",
             "The campaign field resolves to #{campaign_code}, but the directory belongs to #{path_campaign['code']}.",
@@ -746,7 +887,7 @@ module TaelgarNoteLint
           next if value.to_s == resolved
 
           add(findings, "campaign.noncanonical_code", "suggestion", "recommended",
-              "#{field} value #{value} resolves to #{resolved}; use the canonical code.",
+              "#{field} value #{value} resolves to #{resolved}; use the canonical lowercase code.",
               line: note.field_line(field), provisional: true)
         end
       end.uniq
@@ -772,8 +913,14 @@ module TaelgarNoteLint
           add(findings, "campaign.audience_unknown_code", "error", "required",
               "audience contains an unknown campaign value: #{raw}.",
               line: note.field_line("audience"), provisional: true)
-        elsif !negated
-          positives << resolved
+        else
+          canonical = negated ? "!#{resolved}" : resolved
+          if raw != canonical
+            add(findings, "campaign.audience_noncanonical_code", "suggestion", "recommended",
+                "audience value #{raw} resolves to #{canonical}; use the canonical lowercase code.",
+                line: note.field_line("audience"), provisional: true)
+          end
+          positives << resolved unless negated
         end
       end.tap do |positives|
         positives << "all" if normalized.include?("all")
@@ -789,10 +936,35 @@ module TaelgarNoteLint
         add(findings, "dm.notes_unknown", "error", "required",
             "Unknown dm_notes value: #{note.data['dm_notes']}.", line: note.field_line("dm_notes"))
       end
+
+      owner = note.data["dm_owner"].to_s
+      return unless %w[tim joint none].include?(owner) && @dm_scanner
+
+      sources = @dm_scanner.mentions(note)
+      dm_notes = note.data["dm_notes"].to_s
+      if sources.any?
+        if dm_notes.empty? || dm_notes == "none"
+          add(findings, "dm.notes_private_evidence_suspect", "warning", "conditional",
+              "Local-only _DM_ notes link or could link to this subject; review whether dm_notes: none is still accurate.",
+              line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
+              details: { "sources" => sources })
+        else
+          add(findings, "dm.notes_private_evidence_found", "info", "judgment",
+              "Local-only _DM_ notes support reviewing the current dm_notes attestation.",
+              line: note.field_line("dm_notes"), provisional: true,
+              details: { "sources" => sources })
+        end
+      elsif %w[color important].include?(dm_notes)
+        add(findings, "dm.notes_no_local_evidence", "suggestion", "judgment",
+            "No local-only _DM_ note links or could link to this subject. Consider removing dm_notes, but retain it if it represents unrecorded knowledge or another off-vault source.",
+            line: note.field_line("dm_notes"), provisional: true)
+      end
     end
 
     def validate_content_blocks(note, findings)
-      text = text_without_lint_payload(note.text)
+      masked = TaelgarNoteLint.mask_markdown_code(note.text)
+      validate_lint_report_state(note, findings, masked)
+      text = text_without_lint_payload(masked)
       if text.include?("%%SECRET")
         add(findings, "privacy.secret_block", "info", "required",
             "A valid local-only SECRET block is present; its contents must remain excluded from GitHub and public artifacts.",
@@ -886,12 +1058,40 @@ module TaelgarNoteLint
       validate_meta_comment_positions(note, findings)
     end
 
+    def validate_lint_report_state(note, findings, searchable)
+      lint_match = searchable.match(LINT_BLOCK_PATTERN)
+      lint_tagged = note.tags.include?("status/check/lint")
+
+      if lint_match && !lint_tagged
+        add(findings, "lint.report_without_status", "error", "required",
+            "A Lint block with open work requires status/check/lint.",
+            line: TaelgarNoteLint.line_number(searchable, lint_match.begin(0)))
+      elsif lint_tagged && !lint_match
+        add(findings, "lint.status_without_report", "error", "required",
+            "status/check/lint requires a Lint block with at least one open finding.",
+            line: note.field_line("tags") || 1)
+      end
+
+      return unless lint_match
+      return if lint_match[1].match?(/^\s*-\s+\[ \]\s+/)
+
+      add(findings, "lint.report_without_open_findings", "error", "required",
+          "A Lint block must contain at least one unchecked error, warning, or suggestion; remove the block and status/check/lint after a clean lint.",
+          line: TaelgarNoteLint.line_number(searchable, lint_match.begin(0)))
+    end
+
     def validate_metadata_blocks(note, findings)
       blocks = Hash.new { |hash, key| hash[key] = [] }
-      searchable = text_without_lint_payload(note.text)
-      searchable.to_enum(:scan, /%%\^Metadata:(names|map|article)(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m).each do
+      searchable = text_without_lint_payload(TaelgarNoteLint.mask_markdown_code(note.text))
+      searchable.to_enum(:scan, METADATA_BLOCK_PATTERN).each do
         match = Regexp.last_match
-        blocks[match[1]] << [match[3], TaelgarNoteLint.line_number(searchable, match.begin(0)), match[2]]
+        blocks[match[1]] << [
+          match[3],
+          TaelgarNoteLint.line_number(searchable, match.begin(0)),
+          match[2],
+          match.begin(0),
+          match.end(0)
+        ]
       end
 
       blocks.each do |kind, entries|
@@ -899,7 +1099,7 @@ module TaelgarNoteLint
           add(findings, "metadata.duplicate_#{kind}_block", "error", "required",
               "Only one Metadata:#{kind} block is allowed.", line: entries[1][1])
         end
-        payload, line, version = entries.first
+        payload, line, version, _start_offset, _end_offset = entries.first
         if version != "1"
           rule = version.nil? ? "metadata.legacy_#{kind}_marker" : "metadata.invalid_#{kind}_version"
           severity = version.nil? ? "suggestion" : "error"
@@ -936,6 +1136,28 @@ module TaelgarNoteLint
             "Waterways, roads, and settlements require a Metadata:map:v1 block.",
             line: note.field_line("typeOf") || 1)
       end
+
+
+      validate_metadata_block_positions(searchable, blocks, findings)
+    end
+
+    def validate_metadata_block_positions(searchable, blocks, findings)
+      entries = blocks.values.flatten(1)
+      return if entries.empty?
+
+      first_start = entries.map { |entry| entry[3] }.min
+      last_end = entries.map { |entry| entry[4] }.max
+      lint_match = searchable.match(LINT_BLOCK_PATTERN)
+      residue = searchable[first_start..-1].to_s
+        .gsub(METADATA_BLOCK_PATTERN, "")
+        .gsub(LINT_BLOCK_PATTERN, "")
+        .strip
+      misplaced = !residue.empty? || (lint_match && lint_match.begin(0) < last_end)
+      return unless misplaced
+
+      add(findings, "metadata.position", "error", "required",
+          "Persistent Metadata blocks belong at the end of the note after article text and comments, immediately before the Lint block when present.",
+          line: TaelgarNoteLint.line_number(searchable, first_start))
     end
 
     def validate_name_block(data, findings, line)
@@ -982,7 +1204,8 @@ module TaelgarNoteLint
     end
 
     def name_block_data(note)
-      match = text_without_lint_payload(note.text).match(/%%\^Metadata:names:v1%%\s*(.*?)\s*%%\^End%%/m)
+      searchable = text_without_lint_payload(TaelgarNoteLint.mask_markdown_code(note.text))
+      match = searchable.match(/%%\^Metadata:names:v1%%\s*(.*?)\s*%%\^End%%/m)
       return nil unless match
 
       TaelgarNoteLint.yaml_load(match[1])
@@ -1035,11 +1258,16 @@ module TaelgarNoteLint
         return
       end
 
-      missing = %w[profile mode pov].select { |field| data[field].to_s.strip.empty? }
-      return if missing.empty?
-
-      add(findings, "metadata.article_required_field", "error", "required",
-          "Metadata:article:v1 is missing: #{missing.join(', ')}.", line: line)
+      missing = %w[mode pov povNotes].select { |field| data[field].to_s.strip.empty? }
+      unless missing.empty?
+        add(findings, "metadata.article_required_field", "error", "required",
+            "Metadata:article:v1 is missing: #{missing.join(', ')}.", line: line)
+      end
+      if data.key?("profile")
+        add(findings, "metadata.article_redundant_profile", "suggestion", "recommended",
+            "Article profile repeats the descriptive frontmatter tag; remove profile and use povNotes for useful interpretive context.",
+            line: line, provisional: true)
+      end
     end
 
     def convert_legacy_metadata(kind, data)
@@ -1069,19 +1297,32 @@ module TaelgarNoteLint
     end
 
     def validate_meta_comment_positions(note, findings)
-      title_offset = note.body.index(/^#\s+/)
-      return unless title_offset
+      body = TaelgarNoteLint.mask_markdown_code(note.body)
+      header_end = header_block_end(body)
+      return unless header_end
 
-      note.body.to_enum(:scan, /%%(?!\^|SECRET)(.*?)%%/m).each do
+      prefix = body[0...header_end].gsub(METADATA_BLOCK_PATTERN, "")
+      prefix.to_enum(:scan, /%%(?!\^)(.*?)%%/m).each do
         match = Regexp.last_match
-        content = match[1]
-        next unless content.match?(/\(POV::|\b(?:TODO|FIXME)\b|\b(?:stale|needs (?:review|cleanup|rewrite|update)|source limitation)\b/i)
-        next if match.begin(0) < title_offset
-
-        add(findings, "comment.meta_position", "suggestion", "recommended",
-            "This note-quality or POV comment belongs below persistent metadata and before the title.",
-            line: note.body_start_line + note.body[0...match.begin(0)].count("\n"), provisional: true)
+        add(findings, "comment.before_header", "suggestion", "recommended",
+            "Comments belong below the title and its immediately following information/header callout.",
+            line: note.body_start_line + body[0...match.begin(0)].count("\n"), provisional: true)
       end
+    end
+
+    def header_block_end(body)
+      title = body.match(/^#\s+.*(?:\n|\z)/)
+      return nil unless title
+
+      offset = title.end(0)
+      lines = body[offset..-1].to_s.lines
+      index = 0
+      index += 1 while index < lines.length && lines[index].strip.empty?
+      if index < lines.length && lines[index].lstrip.start_with?(">")
+        index += 1 while index < lines.length && lines[index].lstrip.start_with?(">")
+        index += 1 while index < lines.length && lines[index].strip.empty?
+      end
+      offset + lines[0...index].join.length
     end
 
     def validate_editorial_mechanics(note, findings)
@@ -1109,7 +1350,8 @@ module TaelgarNoteLint
     end
 
     def validate_links(note, findings)
-      text_without_review_blocks(note.text).to_enum(:scan, /(?<!!)\[\[([^\]\n]+)\]\]/).each do
+      searchable = text_without_review_blocks(TaelgarNoteLint.mask_markdown_code(note.text))
+      searchable.to_enum(:scan, /(?<!!)\[\[([^\]\n]+)\]\]/).each do
         match = Regexp.last_match
         raw = match[1]
         candidates = @index.resolve(raw, note.path)
@@ -1531,6 +1773,7 @@ module TaelgarNoteLint
         lines << ""
         lines << "- Path: `#{note['path']}`"
         lines << "- Profile: `#{note['profile'] || 'unresolved'}`"
+        lines << "- Authority: `#{note['authority']}`"
         lines << "- Existing status: #{note['statuses'].empty? ? 'none' : note['statuses'].map { |tag| "`#{tag}`" }.join(', ')}"
         lines << "- Findings: #{summary['errors']} errors, #{summary['warnings']} warnings, #{summary['suggestions']} suggestions, #{summary['info']} informational"
         lines << ""
@@ -1549,6 +1792,11 @@ module TaelgarNoteLint
             location = finding["line"] ? " (line #{finding['line']})" : ""
             provisional = finding["provisional"] ? " [provisional]" : ""
             lines << "- **#{finding['severity']}** `#{finding['ruleId']}`#{location}#{provisional}: #{finding['message']}"
+            Array(finding.dig("details", "sources")).each do |source|
+              source_lines = Array(source["lines"])
+              location_text = source_lines.empty? ? "" : " (lines #{source_lines.join(', ')})"
+              lines << "  - `#{source['path']}`#{location_text}"
+            end
           end
         end
 
