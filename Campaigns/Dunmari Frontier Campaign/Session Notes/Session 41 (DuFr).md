@@ -1,5 +1,7 @@
 ---
-tags: [session-note]
+lintedAt: "2026-08-19T09:51:53-04:00"
+lintVersion: "2.1"
+tags: [session-note, status/check/lint]
 campaign: Dunmari Frontier
 sessionNumber: 41
 realWorldDate: 2022-03-03
@@ -7,9 +9,15 @@ DR: 1748-07-06
 DR_end: 1748-07-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party returns to Tokra and plans their next steps
-descTitle: Monsoon's Arrival
+descTitle: "Monsoon's Arrival"
 name: Dunmari Frontier - Session 41
 ---
+%%^Metadata:article:v1%%
+profile: session-note
+mode: campaign record
+pov: retrospective account of DR 1748-07-06 through 1748-07-13
+%%^End%%
+
 # Dunmari Frontier - Session 41
 
 >[!info] Monsoon's Arrival: in which the party returns to Tokra and plans their next steps
@@ -31,7 +39,7 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
 - [[Kaleha]] plans to execute the captured werewolf; the party prepares to leave for [[Darba]], tasked with escorting [[Johar]] on Speaker [[Lara]]'s request.
 
 ### Timeline
- - (DR:: 1748-07-06), early afternoon: Leave Saka's camp. [[Kenzo]] gifted scrolls for collecting stories, and [[Saka]] urges him to take his duties as a mystai of Bhishma seriously. Travel south to [[Tokra]]. 
+- (DR:: 1748-07-06), early afternoon: Leave Saka's camp. [[Kenzo]] gifted scrolls for collecting stories, and [[Saka]] urges him to take his duties as a mystai of Bhishma seriously. Travel south to [[Tokra]].
 - (DR:: 1748-07-07): Travel south to [[Tokra]].
 - (DR:: 1748-07-08): Travel south to [[Tokra]].
 - (DR:: 1748-07-08), evening: Arrive in [[Tokra]]. Reunite with [[Riswynn]] at [[Kirian's]] for dinner. [[Kenzo]] listens to [[Kirian]]'s life [[Kirian's Story|story]].
@@ -51,7 +59,7 @@ The next two days are spent in uneventful travel south back to [[Tokra]], in the
 
 The next day, the party takes care of errands around [[Tokra]]. First, a quick stop at [[The Red Lily Inn]] to check on [[Garret Tealeaf]] and [[Ander Charmheart]] and his family, and then to the [[Archives]]. In the [[Archives]], there are papers and notes spread all over the place, seemingly [[Govir]]’s recent work. The party heads downstairs to the Hardstone’s quarters, where they speak with [[Fallthra Hardstone]]. She has been worried about [[Dag Hardstone]]’s dreams – of a dark woods, in twilight, the sounds of a hunt in the distance. But [[Delwath]] assures her the dreams are safe, the echoes of the god that cured him from lycanthropy. 
 
-The party then goes to talk to [[Govir]]. He has seemingly barely slept since we rescued, and has figured out a lot about the ritual from the notes [[Delwath]] translated. He tells the story, which confirms what the party learned from their captives. He has also found more information in the [[Archives]], not well cataloged or noted, that describe the ritual and the goal of the [[Fraternity of the Empty Moon]] from the last time they were in [[Tokra]], many generations ago. [[Govir]] is convinced that the [[Archives]] could be better organized and there is much to learn hidden in the depths of the records and letters here. 
+The party then goes to talk to [[Govir]]. He has seemingly barely slept since his rescue, and has figured out a lot about the ritual from the notes [[Delwath]] translated. He tells the story, which confirms what the party learned from their captives. He has also found more information in the [[Archives]], not well cataloged or noted, that describes the ritual and the goal of the [[Fraternity of the Empty Moon]] from the last time they were in [[Tokra]], many generations ago. [[Govir]] is convinced that the [[Archives]] could be better organized and there is much to learn hidden in the depths of the records and letters here. 
 
 After speaking with [[Govir]], the party briefly speaks with [[Ardan]], convincing him to give [[Govir]] the time and resources to lead a reorganization of the material stored in the [[Archives]], and leaving [[Govir]] with a list of things to try to dig up information about. While it will take some time (months, not weeks), he is dedicated to the cause, and [[Ardan]] is willing to fund several assistants for him. 
 
@@ -61,8 +69,38 @@ That afternoon, the party moves to the monastery to wait for their [[Portable Ho
 
 Over the next few days, the party speaks with [[Kassi]] (details on what she reports are described in [[Research from Kassi]]), and then speaks with Speaker [[Lara]], when she returns from her trip to the east.
 
-Speaker [[Lara]] has traveled east, and spoken with Nayan [[Sura]], drawn, she thinks, by the gods to help make sense of the current moment. But [[Lara]] fears this is a moment that [[Laka]] did not foresee, and does not know exactly what to do. She sees the will of [[Aagir]] in [[Sura]]; [[Aagir]] has always been the force in [[Dunmar]] pushing for war, pushing to drive east and exterminate the evil forces that threaten [[Dunmar]]. But whether this is impulse will lead to safety, or just needless death, [[Lara]] does not know and cannot see. In the past, riding east in force has led to much death, but whether needless is hard to say, and if [[Sura]] summoned the might of [[Aagir]] and rode forth, [[Lara]] fears that [[Dunmar]] may meet a glorious end. [[Nayan Karnas]] is a servant of [[Sonkar]] – a goddess many think cold, perhaps even heartless, for she is the one that sits in judgment of the dead. And yet she is also the one that mourns life cut short the most, the lost potential of the prematurely dead to create art and beauty in the world. 
+Speaker [[Lara]] has traveled east, and spoken with Nayan [[Sura]], drawn, she thinks, by the gods to help make sense of the current moment. But [[Lara]] fears this is a moment that [[Laka]] did not foresee, and does not know exactly what to do. She sees the will of [[Aagir]] in [[Sura]]; [[Aagir]] has always been the force in [[Dunmar]] pushing for war, pushing to drive east and exterminate the evil forces that threaten [[Dunmar]]. But whether this impulse will lead to safety, or just needless death, [[Lara]] does not know and cannot see. In the past, riding east in force has led to much death, but whether needless is hard to say, and if [[Sura]] summoned the might of [[Aagir]] and rode forth, [[Lara]] fears that [[Dunmar]] may meet a glorious end. [[Nayan Karnas]] is a servant of [[Sonkar]] – a goddess many think cold, perhaps even heartless, for she is the one that sits in judgment of the dead. And yet she is also the one that mourns life cut short the most, the lost potential of the prematurely dead to create art and beauty in the world. 
 
 While a solution is not immediately apparent to Speaker [[Lara]], she has decided to send [[Johar]] to [[Nayahar]] to speak with [[Nayan Karnas]], to try to prevent war at least. However, rumor is that the roads are dangerous now, both from evil that may have slipped in to [[Dunmar]] over the last months, and from the usual banditry that is caused by famine and war. So, she asks the party to escort him, at least as far as the coast. 
 
 We end as the conversation fades and the party agrees that [[Johar]] will come with them to [[Darba]].
+
+%%^Lint%%
+## Open findings
+
+- [ ] `campaign.noncanonical_code`: replace the campaign alias with the canonical registry code.
+- [ ] `editorial.unclear_clause`: “whether needless is hard to say” appears incomplete and needs a human wording choice.
+- [ ] `editorial.timeline_voice`: the timeline alternates between imperative shorthand (“Leave,” “Travel”) and retrospective prose; decide whether that compression is intentional.
+
+## Copy-ready candidates
+
+```yaml
+campaign: DuFr
+```
+
+## Applied changes
+
+- Canonicalized frontmatter layout and added lint state.
+- Added persistent article metadata.
+- Removed the stray timeline-list indent and its trailing whitespace; changed “since we rescued” to “since his rescue,” “describe” to “describes,” and “this is impulse” to “this impulse.”
+
+## Evidence reviewed
+
+- The complete session note and its bounded dates.
+- [[Session 37 (DuFr)]] for Govir’s rescue.
+- Current backlinks and the campaign registry; no newer invention-bearing source mentions this session note directly.
+
+## Status disposition
+
+- No pre-existing status tags required disposition.
+%%^End%%

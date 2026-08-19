@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place, status/check/ai]
 name: Istaros
 typeOf: waterway
 whereabouts: Istaros Watershed
@@ -9,6 +8,8 @@ aliases:
   - Aistanë
   - Drogar
   - Mahar
+lintedAt: "2026-08-19T01:07:33-04:00"
+lintVersion: 2
 dm_owner: joint
 dm_notes: important
 typeOfAlias: river
@@ -25,7 +26,7 @@ The source of the Istaros is [[Lake Aeulian]], which in turn is fed by the [[And
 
 Near [[Isingue]], the Istaros is joined by the [[Thalurien|Thalúrien]], a major tributary from the east. The waters at this confluence were long known to be magically blessed, giving exceptional fertility to the soils of this land, which was the culturally and mystical center of the [[Istabor Alliance]]. Now, the city of Isingue is ruined, consumed by the [[Cha'mutte's Plague]], and the fate of the life-giving magic of the land is unknown. 
 
-The upper Istaros ends a hundred miles or so south of Isingue, at the confluence of with the [[Kezhur]], where the river enters a rocky, broken landscape, where the land was shattered by Cha'mutte's magic.
+The upper Istaros ends a hundred miles or so south of Isingue, at the confluence with the [[Kezhur]], where the river enters a rocky, broken landscape, where the land was shattered by Cha'mutte's magic.
 
 ## Middle Istaros
 
@@ -38,3 +39,38 @@ Once, the Istaros joined the Hara, forming a broad river that flowed past the fa
 ## Names
 
 The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[Orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[First Plague]] and the fall of Drankor.
+
+%%^Metadata:names%%
+version: 1
+names:
+  - {form: Istaros, role: primary, language: unknown, languageStatus: unresolved, pronunciationStatus: unresolved, derivation: corruption, sourceForm: Aistanë, sourceLanguage: Elvish, certainty: likely}
+  - {form: Aistanë, role: historical, language: Elvish, languageStatus: documented, pronunciationStatus: documented, pronunciation: EYE-stah-neh, derivation: original, meaning: blessed water, certainty: documented}
+  - {form: Drogar, role: regional, language: Orcish, languageStatus: documented, derivation: unknown}
+  - {form: Mahar, role: regional, language: Dunmari, languageStatus: documented, derivation: unknown}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+- Linted: 2026-08-19T01:07:33-04:00
+- Linter version: 2
+- Profile: major river
+- Article mode: current encyclopedic geography
+- Temporal POV: post-Great-War present, with historical contrasts
+- Inference confidence: high
+- POV suitability: broadly suitable; the article correctly leaves the lower river's present condition uncertain
+- Review signal: yes — `status/check/ai` is the live-trial stand-in; clear it after human review
+
+### Open findings
+- [ ] **Pronunciation:** required for “Istaros” and absent. Aistanë's documented pronunciation does not establish how the corrupted form is pronounced.
+- [ ] **Name evidence:** the source language of the present form “Istaros” remains unresolved even though its proposed Elvish source is recorded.
+- [ ] **Map coverage:** a major river should have a registered map representation or route plus source, mouth, and confluences. The prose names these features, but no coordinate system or route data is recorded.
+- [ ] **Later invention:** later DuFr material connects Isingue's life-giving water more specifically to the Heartroot and its wound. Decide whether that belongs in this public watershed article, a campaign block, or only the linked Isingue/Heartroot notes.
+- [ ] **Private attestation:** `dm_notes: important` is not machine-verifiable.
+
+### Applied changes
+- Added the trial lint state, `status/check/ai`, and a naming block preserving documented names and uncertainty.
+- Normalized the tag list and corrected “confluence of with” to “confluence with.”
+
+### Evidence reviewed
+- [[Isingue]]; [[Heartroot]]; [[Heartroot Vision]]; [[Background/Languages]]; current article
+%%^End%%

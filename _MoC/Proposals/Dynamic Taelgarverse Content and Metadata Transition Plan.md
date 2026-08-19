@@ -1,3 +1,6 @@
+---
+tags: [meta, status/check/ai]
+---
 # Dynamic Taelgarverse Content and Metadata Transition Plan
 
 > [!warning] Proposal
@@ -23,7 +26,7 @@ The transition must improve the source data without making the current static Ta
 | `knownTo` | Canonical current/final campaign knowledge | Normalize and fill |
 | `campaignInfo` | Optional curated interaction highlights | Preserve; audit sparsity and usefulness |
 | `audience` | Website visibility and relevance | Add |
-| `campaign` | Campaign identity on campaign-directory and session records; also used for automatic campaign detection | Preserve; validate against the campaign registry |
+| `campaign` | Campaign identity on session notes, campaign meta pages, and campaign source material | Preserve where applicable; validate against the campaign registry |
 | `excludePublish` | Legacy publication control | Retain until dynamic-site cutover, then remove |
 | `activeYear` | Ambiguous legacy date gate | Audit individually; retain until dynamic-site cutover, then remove |
 
@@ -32,7 +35,7 @@ The transition must improve the source data without making the current static Ta
 - `knownTo` is the authoritative answer to “does this campaign, at its current or final state, know this subject?” It does not attempt to reconstruct knowledge as of an earlier session.
 - `campaignInfo` records only selected interactions whose curated description is useful. It is not expected to contain every mention of a frequently recurring subject.
 - Links from session notes are the comprehensive evidence for where a subject appeared. They support a generated Campaign Appearances display and may suggest missing `knownTo`, but do not silently change `knownTo`.
-- `campaign` identifies the campaign to which a campaign note or session note belongs. This field is already widely used and is expected to remain the main input for classifying session backlinks and campaign-directory content.
+- `campaign` identifies the campaign to which a session note, campaign meta page, or campaign source document belongs. Folder placement alone does not make the field appropriate for an in-world person, place, group, object, event, or other entity.
 
 ### Date and campaign controls
 
@@ -132,13 +135,14 @@ Rules:
 
 ### `campaign`
 
-The existing `campaign` field on campaign-directory and session notes remains authoritative for identifying the campaign to which the note belongs.
+The existing `campaign` field remains authoritative for identifying campaign-owned documents: session notes, campaign-specific meta pages, and source material such as handouts or in-world documents introduced for a campaign. It is not entity classification and should not be added to an in-world person, place, group, object, event, or similar subject merely because the file lives under `Campaigns/`.
 
 Rules:
 
 - Accept existing human-readable campaign values through registry aliases.
-- Do not require campaign notes to duplicate their campaign identity in `knownTo`.
-- Use the resolved campaign code when grouping session backlinks, inferring the audience of campaign records, and validating campaign-directory placement.
+- Do not require applicable campaign documents to duplicate their campaign identity in `knownTo`.
+- Use the resolved campaign code when grouping session backlinks and inferring the audience of applicable campaign documents.
+- Use `knownTo` and `audience`, not `campaign`, for in-world entities, including entities stored in campaign directories.
 - Audit missing or contradictory values, but do not mass-rewrite this field unless validation shows a real mismatch. It is believed to be largely complete.
 
 ### `audience`
@@ -171,7 +175,7 @@ audience: [none]
 Audience resolution:
 
 1. Begin with campaigns listed in `knownTo`.
-2. For campaign-directory and session records, add the campaign resolved from `campaign`.
+2. For session notes, campaign meta pages, and campaign source material, add the campaign resolved from `campaign`.
 3. Add positive campaign codes from `audience`.
 4. Expand `all` to the complete selectable campaign set and general browsing.
 5. Apply `!Campaign` exclusions.
@@ -221,8 +225,17 @@ Rules:
 - `all`, negation, and lists are not permitted in campaign blocks.
 - Unmarked prose is general prose.
 - Campaign blocks express campaign perspective or campaign-specific detail, not general world chronology.
-- `%%^Campaign:none%%` is a special private-content block. It is never a selectable campaign and its contents must never be shipped to the public site.
+- `%%^Campaign:none%%` is a structured shared-DM block. It is committed to Git and visible to collaborators, but it is never a selectable campaign and its contents must never be shipped to the public site.
 - Generated campaign blocks in regenerated headers must be inventoried separately from authored body blocks. Source cleanup must not edit generated header output as if it were authored prose.
+
+### Other nonpublic comments
+
+Two Obsidian comment forms have different collaboration semantics from `Campaign:none`:
+
+- `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%` is local secret material excluded from GitHub sharing. It may hold information intentionally hidden from other Taelgarverse collaborators. It is valid syntax, not a legacy form and not a migration candidate for `Campaign:none`.
+- ordinary `%% ... %%` comments are shared through Git but omitted from rendered/public prose. They may hold DM information, sources, editorial notes, uncertainty, or lightweight operational material.
+
+Validation must distinguish all three forms. It may validate boundaries and publication behavior, but it must not expose SECRET contents in generated reports or mechanically migrate one form to another.
 
 ### Date blocks
 
@@ -286,7 +299,9 @@ Use:
 - a campaign block for campaign-specific perspective or detail;
 - `knownTo` for current/final campaign knowledge;
 - `audience` for page-level website relevance;
-- `Campaign:none` or `audience: [none]` for content that must not be published.
+- an ordinary comment or `Campaign:none` for shared nonpublic material, depending on whether a lightweight comment or structured block is needed;
+- `SECRET` for local material that must not be shared through GitHub; and
+- `audience: [none]` for an entire page that must not be published.
 
 Do not use a date block merely because a fact has a date. Additive historical prose can remain visible at later dates. A block is needed when the prose should not be shown in every date view.
 
@@ -317,12 +332,13 @@ Report at least:
 - audience exclusions contradicting `knownTo`;
 - unresolved audience;
 - malformed `campaignInfo`;
-- campaign-directory notes whose `campaign` is missing or inconsistent;
+- session notes, campaign meta pages, or campaign source documents whose `campaign` is missing or inconsistent;
+- in-world entities that incorrectly use `campaign` because of campaign-directory placement;
 - legacy fields requiring semantic review.
 
 ### Content block audit
 
-One record per authored campaign, date, or private block, including:
+One record per authored campaign, date, SECRET, or ordinary comment block, including:
 
 - path and line;
 - raw and normalized marker;
@@ -332,7 +348,9 @@ One record per authored campaign, date, or private block, including:
 - paired state block, if detected;
 - nesting, unmatched marker, invalid code, or invalid date;
 - whether the block occurs in generated header material or authored body text;
-- preliminary classification as world state, campaign perspective, private content, or unclear.
+- preliminary classification as world state, campaign perspective, local SECRET material, shared DM material, editorial comment, or unclear.
+
+SECRET contents must not be copied into a shared audit. Record only safe structural metadata such as path, line, balanced state, and presence unless the report itself remains within the same local-only boundary.
 
 The existing audit baseline found campaign/date material in a minority of notes, but all occurrences should be re-counted by the reproducible audit before edits begin.
 
@@ -364,7 +382,7 @@ The existing audit baseline found campaign/date material in a minority of notes,
 
 - Add `audience: [none]` alongside unambiguous `excludePublish: [all]` cases.
 - Classify clearly global reference and meta pages as `audience: [all]`.
-- Allow `knownTo` and campaign-directory `campaign` to provide inferred campaign audiences rather than duplicating those values unnecessarily.
+- Allow `knownTo` and applicable campaign-document `campaign` values to provide inferred campaign audiences rather than duplicating those values unnecessarily.
 - Review campaign-specific exclusions and pages with no resolved audience by coherent category.
 - Retain `excludePublish` for compatibility.
 
@@ -374,7 +392,8 @@ The existing audit baseline found campaign/date material in a minority of notes,
 - Review every `Date:Xa` block and every paired old/new state.
 - Review remaining from-date blocks for the distinction between additive history and replaceable state.
 - Review every authored campaign block for a single canonical campaign and correct use as perspective rather than chronology.
-- Review all `Campaign:none` blocks as publication boundaries without exposing or rewriting their private content.
+- Review all `Campaign:none` blocks and ordinary comments as shared nonpublic material without exposing them in public output.
+- Validate SECRET boundaries without copying, rewriting, or exposing SECRET content in shared artifacts.
 - Do not introduce new nesting until the compatibility parser is ready.
 
 ### Phase 5: resolve legacy fields
@@ -407,7 +426,7 @@ This proposal should not become policy merely by existing. Adoption requires upd
 - State unambiguously that `knownTo` is canonical current/final campaign knowledge and is not backdated.
 - Reframe `campaignInfo` as optional curated interaction highlights rather than a second source of campaign knowledge or a comprehensive log.
 - Document the invariant that a `campaignInfo` campaign should normally be present in `knownTo`.
-- Expand the `campaign` field documentation beyond session-note chronology to cover campaign identification and registry-based detection for campaign-directory content.
+- Expand the `campaign` field documentation beyond session-note chronology to cover campaign meta pages and source material, while explicitly excluding ordinary in-world entities regardless of folder.
 - Replace the inline description of `.obsidian/metadata.json` campaigns with the dedicated campaign-registry specification and compatibility note.
 - Mark `excludePublish` and `activeYear` as legacy during transition and remove them after cutover.
 - Add the formal campaign/date/private content-block grammar or link to a dedicated adopted block specification.
@@ -433,13 +452,14 @@ This proposal should not become policy merely by existing. Adoption requires upd
 ### [[Note Categorization]]
 
 - Clarify which in-world entity types may use `knownTo` and optional `campaignInfo`.
-- Clarify that session and campaign-directory notes use `campaign` for campaign identity and need not duplicate it in `knownTo`.
+- Clarify that session notes, campaign meta pages, and campaign source material use `campaign` for document identity and need not duplicate it in `knownTo`.
+- Clarify that in-world entities use `knownTo` and `audience`, even inside campaign directories.
 - Add `audience` guidance for background, meta, primary-source, and campaign-specific pages without making empty fields mandatory in every template.
 
 ### [[Vault Organization]]
 
-- Clarify that campaign-directory placement and `campaign` metadata jointly support campaign detection.
-- Preserve `Campaign:none` as a private publication boundary.
+- Clarify that document role, not campaign-directory placement alone, determines whether `campaign` applies.
+- Preserve the distinct roles of local SECRET blocks, shared ordinary comments, and shared structured `Campaign:none` blocks.
 - Add a short distinction among campaign perspective blocks, date-state blocks, and general prose.
 
 ### [[Map of Content]]
@@ -474,6 +494,7 @@ This proposal should not become policy merely by existing. Adoption requires upd
 - Reconstructing what a campaign knew at an arbitrary past session.
 - Treating hidden campaign material as secret once it has been shipped to the browser.
 - Populating `campaignInfo` with every session mention.
+- Adding `campaign` to in-world entities merely because they live in a campaign directory.
 - Inventing exact dates where the source supports only a year or month.
 - Removing compatibility fields before the dynamic site is ready.
 - Implementing the dynamic site as part of the metadata cleanup.

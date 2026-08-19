@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 3,
+  "description": "Reduced regression fixtures derived from the initial six-note Great Library lint trial on 2026-08-18.",
+  "cases": [
+    {
+      "id": "great-library",
+      "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Great Library.md",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [place, status/gameupdate/gl]\nname: Great Library\nwhereabouts: Chardon\ntypeOf: building\ndm_notes: important\ndm_owner: tim\ntypeOfAlias: library\n---\n# The Great Library\n\nThe Sibyline Archives were expanded to accomodate books saved from the Fall of Drankor.\n\n%%SECRET\nThe Hetaeri Magica functions as the board of directors for the library.\n%%\n",
+      "expectedRuleIds": [
+        "editorial.common_typo",
+        "privacy.secret_block"
+      ]
+    },
+    {
+      "id": "julius-of-voltara",
+      "path": "People/Chardonians/Julius of Voltara.md",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [person, status/gameupdate/gl]\nname: Julius of Voltara\nancestry: Chardonian\nspecies: human\nwhereabouts:\n- {type: home, location: Voltara}\naffiliations:\n- {org: Silver Tempests, title: Steward}\ncampaignInfo:\n- {campaign: GL, type: met}\nknownTo: []\ndm_owner: none\ndm_notes: none\n---\n# Julius of Voltara\n\nJulius serves as steward at Tempest Towers.\n",
+      "expectedRuleIds": [
+        "campaign.missing_known_to"
+      ]
+    },
+    {
+      "id": "purple-pig",
+      "path": "Gazetteer/Northwest Coast/Northern Provinces/Voltara/The Purple Pig.md",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [place, status/gameupdate/gl]\nname: The Purple Pig\ntypeOf: inn\nwhereabouts:\n- {type: primary, location: Voltara}\ndm_notes: none\ndm_owner: none\n---\n# The Purple Pig\n\nThe inn was destroyed during Grumella's War and was rebuild with aid from the Silver Tempests.\n\n%% Metagame and campaign notes\nIts later fate is not determined.\n%%\n",
+      "expectedRuleIds": [
+        "editorial.common_typo",
+        "privacy.shared_comment"
+      ]
+    },
+    {
+      "id": "order-of-twilight",
+      "path": "Groups/Order of Twilight.md",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [group, status/gameupdate/gl]\nname: Order of Twilight\ntypeOf: religious order\ndm_owner: none\ndm_notes: none\n---\n# The Order of Twilight\n\n%%^Date:1740%%\nThe Order has begun to regrow.\n%%^End%%\n\nIt had smaller presences elsewhere in to the south and west.\n\n%% DM Notes\nCompleted and superseded adventure branches remain here for review.\n%%\n",
+      "expectedRuleIds": [
+        "editorial.common_typo",
+        "privacy.shared_comment"
+      ]
+    },
+    {
+      "id": "thunderbrand",
+      "path": "Campaigns/Great Library Campaign/Treasure/Thunderbrand.md",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [object]\nname: Thunderbrand\ntypeOf: warhammer\nsubTypeOf: magical\nancestry: dwarven\nknownTo: []\ndm_owner: none\ndm_notes: none\n---\n# Thunderbrand\n\nA magical warhammer recovered in the Goldpeak Mines mines under Goldpeak Mountain.\n",
+      "expectedRuleIds": [
+        "classification.deprecated_subtype",
+        "editorial.repeated_word"
+      ]
+    },
+    {
+      "id": "tempest-towers",
+      "path": "Campaigns/Great Library Campaign/Tempest Towers.md",
+      "note": "---\nheaderVersion: 2023.11.25\ntags: [place]\nwhereabouts:\n- {type: home, location: Voltara, startFilter: \"2\"}\ntypeOf: building\naffiliations:\n- {type: primary, org: Silver Tempests}\n---\n# The Tempest Towers\n\n%% Written from DR (POV:: 1748) point of view. %%\n\nThe Tempest Towers are the Silver Tempests' manor.\n\n%%\nIn DR 1752, transport to the courtyard failed. The current fate of the manor and its steward has not been revealed.\n%%\n",
+      "expectedRuleIds": [
+        "identity.implicit_name",
+        "privacy.shared_comment",
+        "temporal.inline_pov"
+      ]
+    }
+  ]
+}

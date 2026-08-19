@@ -1,3 +1,6 @@
+---
+tags: [meta, status/check/ai]
+---
 # Dynamic Taelgarverse Build and Implementation Plan
 
 > [!warning] Proposal
@@ -67,7 +70,9 @@ Campaign and date filtering are reader-convenience features, not access control.
 The following are hard publication boundaries:
 
 - `audience: [none]` pages are not shipped.
-- `%%^Campaign:none%%` content is stripped before public output.
+- `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%` content remains outside GitHub sharing and public output.
+- ordinary `%% ... %%` comments are shared through Git but omitted from public output.
+- `%%^Campaign:none%%` content is shared through Git but stripped before public output.
 - ignored/private directories and other explicit private-source rules remain excluded.
 
 ## User experience
@@ -233,7 +238,7 @@ The scanner should:
 - retain every page visible in at least one public audience;
 - stop excluding pages by a single configured campaign set;
 - stop excluding pages by `activeYear` after legacy cutover;
-- compute effective audience from `knownTo`, campaign-directory `campaign`, and explicit `audience`;
+- compute effective audience from `knownTo`, applicable `campaign` values on session notes, campaign meta pages, and campaign source material, plus explicit `audience`;
 - report unclassified pages;
 - retain metadata necessary for navigation, search, backlinks, lists, and direct-page notices.
 
@@ -250,6 +255,8 @@ Supported authored blocks:
 - `Date:X` — visible from `X` onward;
 - `Date:Xa` — visible before `X`.
 
+The source pass must also recognize two Obsidian comment forms outside that structured-block grammar: local-only `SECRET` blocks and ordinary Git-shared comments. Neither is a legacy alias for `Campaign:none`.
+
 The parser must:
 
 - validate markers and terminators;
@@ -257,7 +264,8 @@ The parser must:
 - normalize dates through one shared date implementation;
 - reject same-type nesting;
 - eventually allow cross-type campaign/date nesting as logical AND;
-- remove private content before link extraction, search indexing, backlinks, and HTML generation;
+- remove ordinary comments and `Campaign:none` content before link extraction, search indexing, backlinks, and HTML generation;
+- verify that SECRET content is absent before any GitHub or public-build artifact is created, without copying its contents into shared diagnostics;
 - distinguish generated header variants from authored blocks;
 - preserve Markdown rendering inside public blocks.
 
@@ -273,7 +281,7 @@ Generate a compact versioned manifest keyed by stable page URL or slug. Each pag
 - tags/page type needed by browse surfaces;
 - explicit and effective audience;
 - directly known campaigns from `knownTo` for relevance ranking;
-- campaign identity for campaign/session records;
+- campaign identity for session notes, campaign meta pages, and campaign source material;
 - whether the page is globally relevant;
 - search/list visibility information;
 - optional Campaign Appearances data or a reference to it.
@@ -461,7 +469,8 @@ Campaign registry:
 Audience:
 
 - `knownTo` inference;
-- campaign-directory `campaign` inference;
+- applicable session/meta/source `campaign` inference;
+- rejection of `campaign` as audience identity on ordinary in-world entities;
 - explicit additions;
 - `all`, `none`, and negation;
 - contradiction warnings;
@@ -471,6 +480,8 @@ Blocks:
 
 - one-code campaign blocks;
 - `Campaign:none` hard stripping;
+- ordinary comment stripping;
+- SECRET presence checks that do not expose content;
 - from-date inclusive boundary;
 - before-date exclusive boundary;
 - year/month/day precision;
@@ -493,6 +504,7 @@ Create a small synthetic vault containing:
 
 - a global page;
 - a campaign-specific page;
+- an in-world entity inside a campaign directory that uses `knownTo`, not `campaign`;
 - a multi-campaign known page;
 - a never-publish page;
 - public and private campaign blocks;
@@ -675,7 +687,7 @@ The implementation is complete when:
 - selected views persist and can be shared;
 - archived and multi-campaign/player views work without separate builds;
 - direct links handle out-of-view public pages clearly;
-- `Campaign:none`, `audience: [none]`, and other private material are absent from public artifacts;
+- SECRET content, ordinary comments, `Campaign:none`, `audience: [none]`, and other nonpublic material are absent from public artifacts;
 - legacy profile comparisons have no unexplained differences;
 - build time and deployed size remain within the repository's documented deployment constraints;
 - `excludePublish` and `activeYear` can be removed without changing intended publication behavior;

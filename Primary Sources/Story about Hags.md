@@ -1,8 +1,16 @@
 ---
-tags: [source, status/cleanup/text]
+lintedAt: "2026-08-19T09:51:53-04:00"
+lintVersion: "2.1"
+tags: [source, status/cleanup/text, status/check/lint]
 dm_owner: tim
 dm_notes: color
 ---
+
+%%^Metadata:article:v1%%
+profile: source
+mode: borrowed source material awaiting adaptation
+pov: unanchored second-person illustrative scenario
+%%^End%%
 
 %% this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%
 
@@ -21,3 +29,35 @@ The first signs of trouble come several months later. Some of the villagers come
 Planning to confront the Woman of the Cliffs, you ascend into her lair again. However all she will tell you (and she is fearsome enough you do not push) is that she will explain all if you simply sprinkle this vial into the food or drink of the mayor's wife. You refuse, she calmly states you owe her a favor, and if you say no she can take back your daughter's good health.
 
 With a weary heart you return to the village, thinking of how you can do what she demands... when you pass your neighbor's' house, for a second you think you can see their four month old daughter through the window. She smiles and laughs at you in a way more knowing than any baby that young should be able to.
+
+%%^Lint%%
+## Open findings
+
+- [ ] `source.attribution_missing`: the note says this was copied from Reddit but does not preserve an author, post title, URL, or retrieval context.
+- [ ] `source.adaptation_incomplete`: names such as Svenson and Wilfun and the generic “Woman of the Cliffs” have not been placed in a specific Taelgar culture.
+- [ ] `identity.implicit_name`: add the filename-derived working title if this remains a standalone source note.
+- [ ] `editorial.possessive`: “neighbor's' house” should be resolved after deciding whether the intended noun is singular or plural.
+- [ ] `editorial.hyphenation`: “four month old daughter” should be “four-month-old daughter.”
+
+## Copy-ready candidates
+
+```yaml
+name: Story about Hags
+```
+
+## Applied changes
+
+- Canonicalized frontmatter layout and added lint state.
+- Added persistent article metadata while leaving the copied source text unchanged.
+- Kept the existing source/quality comment immediately below persistent metadata.
+
+## Evidence reviewed
+
+- The complete source note and vault-wide backlinks.
+- [[Agata]], [[Fey]], [[Cloudspinner]], and Dunmari Frontier Sessions 17 and 36, which use this as a generic hag model rather than establishing an in-world narrator or location.
+- No source attribution beyond the existing Reddit comment was found in the vault.
+
+## Status disposition
+
+- `status/cleanup/text`: still valid; both attribution and cultural adaptation remain unresolved.
+%%^End%%
