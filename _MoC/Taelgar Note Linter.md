@@ -141,7 +141,7 @@ String-only lists and dictionaries use one line. Lists of dictionaries are expan
 
 ### Naming and pronunciation
 
-Pronunciation is required for named in-world subjects unless contextual judgment records a plain-English title, meta note, genuinely obvious ordinary name, or inherited compound-name exception. A proposal must explain its language, derivation, and uncertainty and remains noncanonical until accepted.
+Pronunciation is required for named in-world subjects unless contextual judgment records a plain-English title, meta note, genuinely obvious ordinary name, or inherited compound-name exception. A proposal must explain its language, derivation, and uncertainty and remains noncanonical until accepted. When [[Languages]] documents a real-world analogue, the linter must use that analogue to generate and explain a natural pronunciation or adaptation of the spelling. Missing exact in-world phonology makes the result proposed rather than documented; it does not justify an English-default reading.
 
 Human-curated subject-specific naming data uses `Metadata:names:v1` as documented in [[Name Metadata]]. The linter validates but does not overwrite accepted name data or invent etymology to fill a block. `unknown` is a valid language value when no stronger evidence exists.
 
@@ -175,7 +175,7 @@ Metadata relationship resolution is a separate system and may use the vault's na
 
 ### Map metadata
 
-`Metadata:map:v1` is required for waterways, roads, and settlements and optional for other places. Missing required coordinates can be represented explicitly with `status: missing` and `locations: []`, which remains an open finding. A coordinate in `13.07.F16` form always uses `map: world`. Coordinates remain strings.
+`Metadata:map:v1` is required for waterways, roads, and settlements and optional for other places. When positions are unknown, the linter writes typed location entries with their structural fields filled and only their position fields blank; it never writes `status: missing` with `locations: []`. Waterways receive `source` and `outlet` world-map points with blank `feature` and `locator`; roads receive one world-map path with blank `sourceHex` and `outletHex`; settlements receive one world-map point with a blank `locator`. These blanks remain an open `metadata.map_location_missing` finding until a human supplies them. Existing empty placeholders are replaced with the typed form on re-lint. A coordinate in `13.07.F16` form always uses `map: world`. Coordinates remain strings.
 
 ### Article metadata and comment placement
 
@@ -249,7 +249,7 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 `_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.3, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
 
-Batch preparation builds the vault link/identity index once, scans `_DM_` once for all targets, and groups freshness work by the Git commit resolved from each note's own prior `lintedAt`. Within a shared baseline it reuses the changed-path list, per-source diff, line counts, and last-commit evidence. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
+Batch preparation builds the vault link/identity index once and scans `_DM_` once for all targets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, matching private evidence also receives a separate modification-time freshness check. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
 
 Routine routing follows the adopted invalidation model:
 

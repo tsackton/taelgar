@@ -40,7 +40,7 @@ Whenever the linter proposes a pronunciation, the lint report must explain its d
 3. an established cultural naming pattern or real-world analogue documented in [[Languages]]; or
 4. a cautious reading of the spelling when no stronger rule exists.
 
-The report must distinguish these bases and state uncertainty. A real-world analogue alone is not an exact phonology. If the evidence supports only a rough reading, say so rather than presenting the proposal as documented.
+The report must distinguish these bases and state uncertainty. When [[Languages]] supplies a real-world analogue, the linter always uses it to generate an analogue-informed pronunciation: ask how the spelling would naturally be pronounced or adapted in that language, and explain the concrete consonant, digraph, vowel, and stress choices. A real-world analogue alone is not exact in-world phonology, so the result remains `proposed`; that uncertainty must never cause an unexplained fallback to English pronunciation. Use a merely spelling-based reading only when no stronger language rule, naming pattern, or analogue exists. If multiple documented analogues give materially different readings, identify a preferred proposal and explain the alternatives.
 
 The literal values `obvious`, `title`, `meta`, and `inherited from <name>` record reviewed exceptions to a separate pronunciation. They should be used only when the reason is clear from the note and the referenced component has an accepted pronunciation where applicable.
 

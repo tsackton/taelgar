@@ -3,6 +3,7 @@
 require "fileutils"
 require "json"
 require "minitest/autorun"
+require "open3"
 require "tmpdir"
 
 require_relative "lint_taelgar_notes"
@@ -62,6 +63,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
         case arguments
         when ["diff", "--name-only", "-z", "baseline", "--"]
           "Campaigns/Shared Update.md\0"
+        when ["ls-files", "--others", "--exclude-standard", "-z", "--"]
+          ""
         when ["diff", "--unified=0", "baseline", "--", "Campaigns/Shared Update.md"]
           "+[[Alpha Person]] and [[Beta Person]] changed.\n"
         when ["diff", "--numstat", "baseline", "--", "Campaigns/Shared Update.md"]
@@ -85,6 +88,44 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal 1, scanner.calls.count { |call| call[0] == "log" }
   end
 
+  def test_freshness_scanner_includes_newer_untracked_invention_sources
+    root = make_vault
+    write_note(root, "People/Alpha Person.md", person_note("Alpha Person", linted: true))
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(
+      root,
+      "commit",
+      "-q",
+      "-m",
+      "base",
+      env: {
+        "GIT_AUTHOR_DATE" => "2026-08-19T08:00:00-04:00",
+        "GIT_COMMITTER_DATE" => "2026-08-19T08:00:00-04:00"
+      }
+    )
+    source = File.join(root, "Campaigns", "New Invention.md")
+    write_note(root, "Campaigns/New Invention.md", "# New Invention\n\n[[Alpha Person]] gained a title.\n")
+    modified = Time.iso8601("2026-08-19T10:00:00-04:00")
+    File.utime(modified, modified, source)
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    scanner = TaelgarNoteLint::FreshnessScanner.new(root: root, index: index, baseline_ref: "HEAD")
+
+    freshness = scanner.scan(
+      { "note" => { "path" => "People/Alpha Person.md" } },
+      linted_at: "2026-08-19T09:00:00-04:00"
+    )
+    candidate = freshness.fetch("candidates").first
+
+    refute_nil candidate
+    assert_equal "Campaigns/New Invention.md", candidate.fetch("path")
+    assert candidate.fetch("mentionChanged")
+    assert candidate.fetch("workingTreeChanged")
+    assert_nil candidate.fetch("lastCommit")
+  end
+
   def test_preparer_marks_unlinted_notes_for_review_without_a_git_baseline
     root = make_vault
     write_note(root, "People/Alpha Person.md", person_note("Alpha Person", linted: false))
@@ -98,6 +139,129 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal TaelgarNoteLint::VERSION, manifest.fetch("validatorVersion")
   end
 
+  def test_newer_local_dm_evidence_routes_a_current_note_for_review
+    root = make_vault
+    path = "People/Alpha Person.md"
+    text = person_note("Alpha Person", linted: true)
+    write_note(root, path, text)
+    dm_path = "_DM_/New Secret.md"
+    write_note(root, dm_path, "# New Secret\n\n[[Alpha Person]] has a new secret.\n")
+    modified = Time.iso8601("2026-08-19T10:00:00-04:00")
+    File.utime(modified, modified, File.join(root, dm_path))
+    note = TaelgarNoteLint::ParsedNote.new(path, text)
+    report = {
+      "summary" => { "errors" => 0 },
+      "findings" => [
+        {
+          "ruleId" => "dm.notes_private_evidence_found",
+          "details" => { "sources" => [{ "path" => dm_path }] }
+        }
+      ]
+    }
+    preparer = TaelgarNoteLint::Batch::Preparer.allocate
+    preparer.instance_variable_set(:@root, Pathname.new(root))
+
+    dm_freshness = preparer.send(:dm_freshness_for, note, report)
+    routing = preparer.send(
+      :routing_for,
+      note,
+      { "candidates" => [] },
+      dm_freshness,
+      report
+    )
+
+    assert_equal [dm_path], dm_freshness.fetch("candidates").map { |item| item.fetch("path") }
+    assert routing.fetch("reviewRecommended")
+    assert_equal "newer_private_dm_evidence", routing.fetch("reason")
+  end
+
+  def test_git_baseline_prefers_the_commit_that_records_the_lint_state
+    root = make_vault
+    write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    commit = git(
+      root,
+      "commit",
+      "-q",
+      "-m",
+      "record lint state",
+      env: {
+        "GIT_AUTHOR_DATE" => "2026-08-19T10:00:00-04:00",
+        "GIT_COMMITTER_DATE" => "2026-08-19T10:00:00-04:00"
+      }
+    )
+    ref = git(root, "rev-parse", "HEAD").strip
+    path = "Meta/Current.md"
+    note = TaelgarNoteLint::ParsedNote.new(path, File.read(File.join(root, path)))
+
+    baseline = TaelgarNoteLint::Batch::GitBaselineResolver.new(root).resolve(note)
+
+    assert_equal ref, baseline.fetch("ref")
+    assert_equal "lint_state_commit", baseline.fetch("kind")
+    assert_equal "", commit
+  end
+
+  def test_git_baseline_falls_back_to_the_timestamp_commit_while_lint_state_is_uncommitted
+    root = make_vault
+    write_note(root, "Meta/Current.md", "---\ntags: [meta]\nname: Current\n---\n# Current\n")
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(
+      root,
+      "commit",
+      "-q",
+      "-m",
+      "base",
+      env: {
+        "GIT_AUTHOR_DATE" => "2026-08-19T08:00:00-04:00",
+        "GIT_COMMITTER_DATE" => "2026-08-19T08:00:00-04:00"
+      }
+    )
+    ref = git(root, "rev-parse", "HEAD").strip
+    write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
+    path = "Meta/Current.md"
+    note = TaelgarNoteLint::ParsedNote.new(path, File.read(File.join(root, path)))
+
+    baseline = TaelgarNoteLint::Batch::GitBaselineResolver.new(root).resolve(note)
+
+    assert_equal ref, baseline.fetch("ref")
+    assert_equal "timestamp_commit", baseline.fetch("kind")
+  end
+
+  def test_git_baseline_survives_human_clearing_of_report_and_tag
+    root = make_vault
+    write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION, open: true))
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(
+      root,
+      "commit",
+      "-q",
+      "-m",
+      "record open lint",
+      env: {
+        "GIT_AUTHOR_DATE" => "2026-08-19T10:00:00-04:00",
+        "GIT_COMMITTER_DATE" => "2026-08-19T10:00:00-04:00"
+      }
+    )
+    ref = git(root, "rev-parse", "HEAD").strip
+    write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
+    path = "Meta/Current.md"
+    note = TaelgarNoteLint::ParsedNote.new(path, File.read(File.join(root, path)))
+
+    baseline = TaelgarNoteLint::Batch::GitBaselineResolver.new(root).resolve(note)
+
+    assert_equal ref, baseline.fetch("ref")
+    assert_equal "lint_state_commit", baseline.fetch("kind")
+  end
+
   def test_cli_discovers_linted_notes_on_the_vault_ruby_version
     root = make_vault
     write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
@@ -109,6 +273,21 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
     assert_equal ["Meta/Current.md", "Meta/Stale.md"], all
     assert_equal ["Meta/Stale.md"], stale
+  end
+
+  def test_cli_returns_an_empty_manifest_when_no_stale_notes_exist
+    root = make_vault
+    write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
+    output = File.join(root, "empty-stale-manifest.json")
+
+    result = TaelgarNoteLint::Batch::CLI.new(
+      ["prepare", "--root", root, "--stale", "--output", output]
+    ).run
+    manifest = JSON.parse(File.read(output))
+
+    assert_equal 0, result
+    assert_equal [], manifest.fetch("notes")
+    assert_equal 0, manifest.dig("selectionSummary", "selected")
   end
 
   def test_snapshot_and_finalizer_write_clean_and_open_states_together
@@ -305,5 +484,12 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       decisions: decisions,
       completed_at: COMPLETED_AT
     )
+  end
+
+  def git(root, *arguments, env: {})
+    stdout, stderr, status = Open3.capture3(env, "git", *arguments, chdir: root)
+    raise "git #{arguments.join(' ')} failed: #{stderr}" unless status.success?
+
+    stdout
   end
 end
