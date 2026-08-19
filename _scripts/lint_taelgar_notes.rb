@@ -50,6 +50,13 @@ module TaelgarNoteLint
       }
     end
 
+    def completion_identity(note)
+      {
+        "lintedAt" => canonical_state_value(note.data["lintedAt"]),
+        "lintVersion" => canonical_state_value(note.data["lintVersion"])
+      }
+    end
+
     def relative_note_path(root, path)
       absolute = Pathname.new(path)
       absolute = root.join(absolute) unless absolute.absolute?
@@ -70,20 +77,34 @@ module TaelgarNoteLint
         @cache = {}
       end
 
-      def ref_for(linted_at)
-        value = Batch.canonical_state_value(linted_at)
-        return nil if value.to_s.empty?
+      def resolve(note)
+        value = Batch.canonical_state_value(note.data["lintedAt"])
+        return { "ref" => nil, "kind" => nil } if value.to_s.empty?
 
         Time.iso8601(value)
-        @cache[value] ||= begin
+        state = Batch.completion_identity(note)
+        cache_key = [note.path, state]
+        completion_ref = @cache[cache_key] ||= completion_state_commit(note.path, value, state)
+        return { "ref" => completion_ref, "kind" => "lint_state_commit" } if completion_ref
+
+        time_ref = @cache[value] ||= begin
           output = git("rev-list", "-1", "--before=#{value}", "HEAD").strip
           output.empty? ? nil : output
         end
+        { "ref" => time_ref, "kind" => time_ref ? "timestamp_commit" : nil }
       rescue ArgumentError
-        nil
+        { "ref" => nil, "kind" => nil }
       end
 
       private
+
+      def completion_state_commit(path, linted_at, state)
+        commits = git("log", "--format=%H", "--reverse", "--since=#{linted_at}", "--", path).lines.map(&:strip)
+        commits.find do |commit|
+          text = git("show", "#{commit}:#{path}")
+          Batch.completion_identity(ParsedNote.new(path, text)) == state
+        end
+      end
 
       def git(*arguments)
         stdout, stderr, status = Open3.capture3("git", *arguments, chdir: @root.to_s)
@@ -130,10 +151,10 @@ module TaelgarNoteLint
 
       def prepare_note(note)
         absolute = @root.join(note.path)
-        text = TaelgarNoteLint.read_text(absolute)
         report = @validator.validate_path(note.path)
         freshness = freshness_for(note, report)
-        routing = routing_for(note, freshness)
+        dm_freshness = dm_freshness_for(note, report)
+        routing = routing_for(note, freshness, dm_freshness, report)
         {
           "path" => note.path,
           "file" => {
@@ -144,7 +165,8 @@ module TaelgarNoteLint
           "priorCompletionState" => Batch.completion_state(note),
           "routing" => routing,
           "deterministic" => report,
-          "freshness" => freshness
+          "freshness" => freshness,
+          "dmFreshness" => dm_freshness
         }
       end
 
@@ -152,18 +174,49 @@ module TaelgarNoteLint
         linted_at = note.data["lintedAt"]
         return { "baselineRef" => nil, "candidates" => [], "skipped" => "The note has no prior lint timestamp." } unless linted_at
 
-        baseline = @baselines.ref_for(linted_at)
-        return { "baselineRef" => nil, "candidates" => [], "skipped" => "The prior lint timestamp is invalid or predates Git history." } unless baseline
+        baseline = @baselines.resolve(note)
+        unless baseline["ref"]
+          return { "baselineRef" => nil, "baselineKind" => nil, "candidates" => [], "skipped" => "The prior lint timestamp is invalid or predates Git history." }
+        end
 
-        scanner = @freshness_scanners[baseline] ||= FreshnessScanner.new(
+        scanner = @freshness_scanners[baseline.fetch("ref")] ||= FreshnessScanner.new(
           root: @root,
           index: @index,
-          baseline_ref: baseline
+          baseline_ref: baseline.fetch("ref")
         )
-        scanner.scan(report)
+        scanner.scan(report, linted_at: Batch.canonical_state_value(linted_at)).merge("baselineKind" => baseline.fetch("kind"))
       end
 
-      def routing_for(note, freshness)
+      def dm_freshness_for(note, report)
+        linted_at = Batch.canonical_state_value(note.data["lintedAt"])
+        return { "basis" => "filesystem_mtime", "candidates" => [] } if linted_at.to_s.empty?
+
+        lint_time = Time.iso8601(linted_at)
+        sources = report.fetch("findings").each_with_object({}) do |finding, by_path|
+          Array(finding.dig("details", "sources")).each do |source|
+            path = source["path"].to_s
+            next unless path.start_with?("_DM_/")
+
+            by_path[path] ||= []
+            by_path[path] << finding.fetch("ruleId")
+          end
+        end
+        candidates = sources.each_with_object([]) do |(path, rule_ids), selected|
+          absolute = @root.join(path)
+          next unless absolute.file? && File.mtime(absolute) > lint_time
+
+          selected << {
+            "path" => path,
+            "modifiedAt" => File.mtime(absolute).iso8601(6),
+            "ruleIds" => rule_ids.uniq
+          }
+        end
+        { "basis" => "filesystem_mtime", "candidates" => candidates.sort_by { |item| item.fetch("path") } }
+      rescue ArgumentError
+        { "basis" => "filesystem_mtime", "candidates" => [], "skipped" => "The prior lint timestamp is invalid." }
+      end
+
+      def routing_for(note, freshness, dm_freshness, report)
         prior_version = Batch.canonical_state_value(note.data["lintVersion"])
         candidates = freshness.fetch("candidates", [])
         if note.data["lintedAt"].nil? || prior_version.nil?
@@ -171,6 +224,12 @@ module TaelgarNoteLint
           review = true
         elsif prior_version != VERSION
           reason = "stale_linter_version"
+          review = true
+        elsif report.dig("summary", "errors").to_i.positive?
+          reason = "deterministic_error"
+          review = true
+        elsif dm_freshness.fetch("candidates", []).any?
+          reason = "newer_private_dm_evidence"
           review = true
         elsif candidates.any? { |candidate| candidate["mentionChanged"] }
           reason = "newer_mention_changed"
@@ -457,7 +516,17 @@ module TaelgarNoteLint
         root = options[:root].expand_path
         paths = discover_paths(root, options)
         paths.concat(@argv)
-        manifest = Preparer.new(root: root).prepare(paths)
+        if paths.empty? && (options[:all_linted] || options[:stale])
+          manifest = {
+            "schemaVersion" => SCHEMA_VERSION,
+            "validatorVersion" => VERSION,
+            "generatedAt" => Time.now.iso8601,
+            "root" => root.to_s,
+            "notes" => []
+          }
+        else
+          manifest = Preparer.new(root: root).prepare(paths)
+        end
         selected_count = manifest.fetch("notes").length
         review_count = manifest.fetch("notes").count { |record| record.dig("routing", "reviewRecommended") }
         if options[:only_needs_review]

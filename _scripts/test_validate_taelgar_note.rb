@@ -487,6 +487,117 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(optional), "metadata.map_missing"
   end
 
+  def test_missing_map_findings_supply_profile_specific_skeletons
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    expected = {
+      "waterway" => <<~BLOCK.chomp,
+        %%^Metadata:map:v1%%
+        locations:
+          - {role: source, feature: , map: world, geometry: point, locator: }
+          - {role: outlet, feature: , map: world, geometry: point, locator: }
+        %%^End%%
+      BLOCK
+      "road" => <<~BLOCK.chomp,
+        %%^Metadata:map:v1%%
+        locations:
+          - {map: world, geometry: path, sourceHex: , outletHex: }
+        %%^End%%
+      BLOCK
+      "settlement" => <<~BLOCK.chomp
+        %%^Metadata:map:v1%%
+        locations:
+          - {map: world, geometry: point, locator: }
+        %%^End%%
+      BLOCK
+    }
+
+    expected.each do |type, candidate|
+      report = validator.validate_text(
+        "Gazetteer/Test.md",
+        "---\ntags: [place]\ntypeOf: #{type}\n---\n# Test\n"
+      )
+      finding = report.fetch("findings").find { |item| item["ruleId"] == "metadata.map_missing" }
+
+      refute_nil finding
+      assert_equal candidate, finding.dig("details", "candidate")
+      refute_includes candidate, "status: missing"
+    end
+  end
+
+  def test_typed_map_skeletons_remain_open_until_positions_are_filled
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    cases = {
+      "waterway" => [
+        TaelgarNoteLint.map_block_template("waterway"),
+        %w[source.feature source.locator outlet.feature outlet.locator]
+      ],
+      "road" => [TaelgarNoteLint.map_block_template("road"), %w[sourceHex outletHex]],
+      "settlement" => [TaelgarNoteLint.map_block_template("settlement"), %w[locator]]
+    }
+
+    cases.each do |type, (block, missing_fields)|
+      report = validator.validate_text(
+        "Gazetteer/Test.md",
+        "---\ntags: [place]\ntypeOf: #{type}\n---\n# Test\n\n#{block}\n"
+      )
+      finding = report.fetch("findings").find { |item| item["ruleId"] == "metadata.map_location_missing" }
+
+      refute_nil finding
+      assert_equal missing_fields, finding.dig("details", "missingFields")
+      refute_includes rule_ids(report), "metadata.map_geometry_missing"
+    end
+  end
+
+  def test_completed_typed_map_entries_clear_the_missing_location_finding
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    blocks = {
+      "waterway" => <<~BLOCK.chomp,
+        %%^Metadata:map:v1%%
+        locations:
+          - {role: source, feature: Chardon Hills, map: world, geometry: point, locator: "13.07.F16"}
+          - {role: outlet, feature: Gulf of Chardon, map: world, geometry: point, locator: "13.07.C18"}
+        %%^End%%
+      BLOCK
+      "road" => <<~BLOCK.chomp,
+        %%^Metadata:map:v1%%
+        locations:
+          - {map: world, geometry: path, sourceHex: "13.07.F16", outletHex: "13.07.C18"}
+        %%^End%%
+      BLOCK
+      "settlement" => <<~BLOCK.chomp
+        %%^Metadata:map:v1%%
+        locations:
+          - {map: world, geometry: point, locator: "13.07.F16"}
+        %%^End%%
+      BLOCK
+    }
+
+    blocks.each do |type, block|
+      report = validator.validate_text(
+        "Gazetteer/Test.md",
+        "---\ntags: [place]\ntypeOf: #{type}\n---\n# Test\n\n#{block}\n"
+      )
+
+      refute_includes rule_ids(report), "metadata.map_location_missing"
+    end
+  end
+
+  def test_legacy_empty_map_placeholder_proposes_the_typed_replacement
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Gazetteer/Test.md",
+      "---\ntags: [place]\ntypeOf: settlement\n---\n# Test\n\n%%^Metadata:map:v1%%\nstatus: missing\nlocations: []\n%%^End%%\n"
+    )
+    finding = report.fetch("findings").find { |item| item["ruleId"] == "metadata.map_location_missing" }
+
+    refute_nil finding
+    assert_equal TaelgarNoteLint.map_block_template("settlement"), finding.dig("details", "candidate")
+  end
+
   def test_world_hex_locator_requires_world_map
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)

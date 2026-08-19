@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-19T16:23:04-04:00"
 lintVersion: "2.3"
-tags: [person, status/check/lint]
+tags: [person, status/check/mike]
 species: human
 ancestry: Zimka
 born: 1644
 gender: female
 name: Selma Wisthelwind
+pronunciation: SELL-mah VIS-tel-vind
 affiliations:
   - {org: "The Fox's Flagon", type: leader, title: Proprietor, start: 1712}
 whereabouts:
@@ -20,11 +21,14 @@ dm_notes: none
 POV: 1720
 ---
 # Selma Wisthelwind
+*(SELL-mah VIS-tel-vind)*
 >[!info]+ Biographical Info  
-> A Zimka [[Humans|human]] (she/her)  
+> A [[Zimka]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% validate pronunciation, which is based on ChatGPT Baltic-ish interpretation %%
 
 ![[selma-wisthelwind.png|right|320]]Selma bought [[The Fox's Flagon]] for cash in DR 1712 and appears to enjoy running the inn as a form of retirement. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [[Kestavo]] religion of [[Zimkova]].
 
@@ -34,7 +38,7 @@ povNotes: "Accuracy range: approximately the DR 1720 Cleenseau campaign era. The
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Selma Wisthelwind, role: primary, language: Zimkovan, pronunciation: SELL-ma WISS-thel-wind, status: proposed, notes: language inferred from her Zimka origin; pronunciation is a cautious spelling-based reading}
+- {name: Selma Wisthelwind, role: primary, language: Zimkovan, pronunciation: SELL-mah VIS-tel-vind, status: proposed}
 %%^End%%
 
 %%^Lint%%

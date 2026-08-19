@@ -159,6 +159,24 @@ module TaelgarNoteLint
     decode_utf8(path).first
   end
 
+  def map_block_template(type)
+    locations = case type.to_s
+                when "waterway"
+                  [
+                    "  - {role: source, feature: , map: world, geometry: point, locator: }",
+                    "  - {role: outlet, feature: , map: world, geometry: point, locator: }"
+                  ]
+                when "road"
+                  ["  - {map: world, geometry: path, sourceHex: , outletHex: }"]
+                when "settlement"
+                  ["  - {map: world, geometry: point, locator: }"]
+                else
+                  return nil
+                end
+
+    "%%^Metadata:map:v1%%\nlocations:\n#{locations.join("\n")}\n%%^End%%"
+  end
+
   def decode_utf8(path)
     text = File.binread(path.to_s).force_encoding(Encoding::UTF_8)
     valid = text.valid_encoding?
@@ -560,6 +578,11 @@ module TaelgarNoteLint
           @index.resolve_identity(name, note.path) == [note.path]
         end
       end
+      targets_by_name = Hash.new { |hash, key| hash[key] = [] }
+      resolvable_names.each do |target, names|
+        names.each { |name| targets_by_name[TaelgarNoteLint.normalize(name)] << target }
+      end
+      name_pattern = combined_name_pattern(resolvable_names.values.flatten)
       matches_by_target = Hash.new { |hash, key| hash[key] = [] }
 
       @documents.each do |path, original_text|
@@ -575,11 +598,11 @@ module TaelgarNoteLint
             kinds_by_target[target] << "link"
           end
 
-          resolvable_names.each do |target, names|
-            next unless names.any? { |name| exact_name_match?(line, name) }
-
-            lines_by_target[target] << index + 1
-            kinds_by_target[target] << "name"
+          line.scan(name_pattern).each do |matched_name|
+            targets_by_name[TaelgarNoteLint.normalize(matched_name)].each do |target|
+              lines_by_target[target] << index + 1
+              kinds_by_target[target] << "name"
+            end
           end
         end
         lines_by_target.each do |target, lines|
@@ -596,9 +619,13 @@ module TaelgarNoteLint
 
     private
 
-    def exact_name_match?(text, name)
-      text.match?(/(?<![[:alnum:]_])#{Regexp.escape(name)}(?![[:alnum:]_])/i)
+    def combined_name_pattern(names)
+      alternatives = names.uniq.sort_by { |name| -name.length }.map { |name| Regexp.escape(name) }
+      return /(?!)/ if alternatives.empty?
+
+      Regexp.new("(?<![[:alnum:]_])(?:#{alternatives.join('|')})(?![[:alnum:]_])", Regexp::IGNORECASE)
     end
+
   end
 
   class Validator
@@ -1191,7 +1218,7 @@ module TaelgarNoteLint
         end
         case kind
         when "names" then validate_name_block(data, findings, line)
-        when "map" then validate_map_block(data, findings, line)
+        when "map" then validate_map_block(note, data, findings, line)
         when "article" then validate_article_block(data, findings, line)
         end
       end
@@ -1203,8 +1230,9 @@ module TaelgarNoteLint
 
       if map_required?(note) && blocks["map"].empty?
         add(findings, "metadata.map_missing", "error", "required",
-            "Waterways, roads, and settlements require a Metadata:map:v1 block.",
-            line: note.field_line("typeOf") || 1)
+            "Waterways, roads, and settlements require a Metadata:map:v1 block; add the typed skeleton and leave only its position fields blank.",
+            line: note.field_line("typeOf") || 1,
+            details: map_template_details(note))
       end
 
 
@@ -1283,7 +1311,7 @@ module TaelgarNoteLint
       nil
     end
 
-    def validate_map_block(data, findings, line)
+    def validate_map_block(note, data, findings, line)
       unless data.is_a?(Hash)
         add(findings, "metadata.map_shape", "error", "required",
             "Metadata:map:v1 requires a YAML dictionary.", line: line)
@@ -1299,11 +1327,12 @@ module TaelgarNoteLint
 
       if locations.empty? && data["status"].to_s != "missing"
         add(findings, "metadata.map_empty_without_status", "error", "required",
-            "An empty map locations list requires status: missing.", line: line)
+            "An empty map locations list must be replaced with the typed map skeleton.", line: line,
+            details: map_template_details(note))
       elsif locations.empty?
         add(findings, "metadata.map_location_missing", "warning", "conditional",
-            "Required map coverage is explicitly missing and needs human completion.",
-            line: line, provisional: true)
+            "Replace status: missing and the empty locations list with the typed map skeleton; leave only unknown position fields blank.",
+            line: line, provisional: true, details: map_template_details(note))
       end
 
       locations.each do |entry|
@@ -1318,6 +1347,47 @@ module TaelgarNoteLint
           add(findings, "metadata.map_world_hex_mismatch", "error", "required",
               "A 13.07.F16-style locator always belongs to map: world.", line: line)
         end
+      end
+
+      missing_positions = map_position_gaps(note, locations)
+      unless locations.empty? || missing_positions.empty?
+        add(findings, "metadata.map_location_missing", "warning", "conditional",
+            "Map position fields remain incomplete: #{missing_positions.join(', ')}.",
+            line: line, provisional: true,
+            details: { "missingFields" => missing_positions })
+      end
+    end
+
+    def map_template_details(note)
+      candidate = TaelgarNoteLint.map_block_template(note.data["typeOf"])
+      candidate ? { "candidate" => candidate } : nil
+    end
+
+    def map_position_gaps(note, locations)
+      case note.data["typeOf"].to_s
+      when "settlement"
+        entry = locations.find { |item| item["geometry"].to_s == "point" } || locations.first
+        entry && !entry["locator"].to_s.strip.empty? ? [] : ["locator"]
+      when "road"
+        entry = locations.find { |item| item["geometry"].to_s == "path" } || locations.first
+        %w[sourceHex outletHex].select { |field| entry.nil? || entry[field].to_s.strip.empty? }
+      when "waterway"
+        path_entry = locations.find { |item| item["geometry"].to_s == "path" }
+        if path_entry
+          return %w[sourceHex outletHex].select { |field| path_entry[field].to_s.strip.empty? }
+        end
+
+        %w[source outlet].flat_map do |role|
+          entry = locations.find { |item| item["role"].to_s == role }
+          if entry
+            %w[feature locator].select { |field| entry[field].to_s.strip.empty? }
+              .map { |field| "#{role}.#{field}" }
+          else
+            ["#{role} entry"]
+          end
+        end
+      else
+        []
       end
     end
 
@@ -1604,15 +1674,19 @@ module TaelgarNoteLint
       @root = Pathname.new(root).expand_path
       @index = index
       @baseline_ref = baseline_ref || resolve_time_ref(linted_at)
+      @default_linted_at = linted_at
       @changed_paths_cache = nil
       @diff_cache = {}
       @log_cache = {}
       @numstat_cache = {}
+      @untracked_paths = nil
+      @working_tree_cache = {}
     end
 
-    def scan(note_report)
+    def scan(note_report, linted_at: nil)
       return { "baselineRef" => nil, "candidates" => [], "skipped" => "No Git baseline supplied." } unless @baseline_ref
 
+      freshness_time = linted_at || @default_linted_at
       target_path = note_report.fetch("note").fetch("path")
       target_names = target_identity_names(target_path)
       target_plain_names = target_primary_names(target_path)
@@ -1632,7 +1706,10 @@ module TaelgarNoteLint
         )
         next if source_mentions.empty?
 
-        selected << build_candidate(path, source_mentions, target_path, target_names, target_plain_names)
+        candidate = build_candidate(path, source_mentions, target_path, target_names, target_plain_names)
+        next unless source_newer_than?(candidate, path, freshness_time)
+
+        selected << candidate
       end
 
       candidates.sort_by! do |candidate|
@@ -1653,8 +1730,9 @@ module TaelgarNoteLint
 
     def changed_paths
       @changed_paths_cache ||= begin
-        output = git("diff", "--name-only", "-z", @baseline_ref, "--")
-        output.split("\0").reject(&:empty?)
+        tracked = git("diff", "--name-only", "-z", @baseline_ref, "--").split("\0").reject(&:empty?)
+        @untracked_paths = git("ls-files", "--others", "--exclude-standard", "-z", "--").split("\0").reject(&:empty?)
+        (tracked + @untracked_paths).uniq
       end
     end
 
@@ -1709,8 +1787,12 @@ module TaelgarNoteLint
 
     def build_candidate(path, mentions, target_path, target_names, target_plain_names)
       additions, deletions = numstat(path)
-      diff = @diff_cache[path] ||= git("diff", "--unified=0", @baseline_ref, "--", path)
-      added_lines = diff.lines.select { |line| line.start_with?("+") && !line.start_with?("+++") }
+      added_lines = if untracked?(path)
+                      TaelgarNoteLint.read_text(@root.join(path)).lines.map { |line| "+#{line}" }
+                    else
+                      diff = @diff_cache[path] ||= git("diff", "--unified=0", @baseline_ref, "--", path)
+                      diff.lines.select { |line| line.start_with?("+") && !line.start_with?("+++") }
+                    end
       mention_changed = if path.end_with?("beat-facts.json")
                           lowered = target_names.map { |name| TaelgarNoteLint.normalize(name) }
                           added_lines.any? do |line|
@@ -1733,6 +1815,8 @@ module TaelgarNoteLint
         "mentionLines" => mentions,
         "mentionChanged" => mention_changed,
         "changedLines" => { "added" => additions, "deleted" => deletions },
+        "modifiedAt" => File.mtime(@root.join(path)).iso8601(6),
+        "workingTreeChanged" => working_tree_changed?(path),
         "lastCommit" => log[0],
         "lastCommitAt" => log[1],
         "lastCommitSubject" => log[2]
@@ -1741,8 +1825,42 @@ module TaelgarNoteLint
 
     def numstat(path)
       @numstat_cache[path] ||= begin
-        fields = git("diff", "--numstat", @baseline_ref, "--", path).strip.split(/\s+/, 3)
-        [integer_or_zero(fields[0]), integer_or_zero(fields[1])]
+        if untracked?(path)
+          [TaelgarNoteLint.read_text(@root.join(path)).lines.length, 0]
+        else
+          fields = git("diff", "--numstat", @baseline_ref, "--", path).strip.split(/\s+/, 3)
+          [integer_or_zero(fields[0]), integer_or_zero(fields[1])]
+        end
+      end
+    end
+
+    def source_newer_than?(candidate, path, linted_at)
+      return true if linted_at.to_s.empty?
+
+      lint_time = Time.iso8601(linted_at.to_s)
+      commit_time = candidate["lastCommitAt"]
+      return true if commit_time && Time.iso8601(commit_time) > lint_time
+      return false unless working_tree_changed?(path)
+
+      File.mtime(@root.join(path)) > lint_time
+    rescue ArgumentError
+      true
+    end
+
+    def untracked?(path)
+      changed_paths unless @untracked_paths
+      @untracked_paths.include?(path)
+    end
+
+    def working_tree_changed?(path)
+      return true if untracked?(path)
+
+      @working_tree_cache[path] ||= begin
+        _stdout, stderr, status = Open3.capture3("git", "diff", "--quiet", "HEAD", "--", path, chdir: @root.to_s)
+        return false if status.success?
+        return true if status.exitstatus == 1
+
+        raise "Git command failed: #{stderr.force_encoding(Encoding::UTF_8).scrub.strip}"
       end
     end
 
@@ -1880,6 +1998,13 @@ module TaelgarNoteLint
               source_lines = Array(source["lines"])
               location_text = source_lines.empty? ? "" : " (lines #{source_lines.join(', ')})"
               lines << "  - #{markdown_note_reference(source['path'])}#{location_text}"
+            end
+            candidate = finding.dig("details", "candidate")
+            if candidate
+              lines << ""
+              lines << "  ```yaml"
+              candidate.lines.each { |line| lines << "  #{line.chomp}" }
+              lines << "  ```"
             end
           end
         end
