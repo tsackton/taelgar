@@ -1,11 +1,11 @@
 ---
-linterVersion: "2.2"
+linterVersion: "2.3"
 name: Taelgar Note Linter
 ---
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **2.2** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **2.3** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -20,6 +20,7 @@ This specification defines lint behavior and state. It operates alongside:
 - [[Metadata Specification]] and [[Note Categorization]] for general note metadata;
 - [[Campaign Registry]] and `_scripts/session_note_campaigns.json` for campaign identities and codes;
 - [[Name Metadata]] for human-curated name blocks;
+- [[Temporal POV Metadata]] for the searchable article viewpoint and `povNotes` interpretation;
 - `AGENTS.md` for editing authorization, source authority, and status-tag permissions;
 - `.agents/skills/lint-taelgar-note/SKILL.md` for the executable agent workflow; and
 - `_scripts/validate_taelgar_note.rb` for deterministic rules and safe frontmatter formatting.
@@ -34,7 +35,7 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "2.2"
+lintVersion: "2.3"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
@@ -90,6 +91,8 @@ Applicable profiles include people, places and more specific place types, groups
 
 Every completed contextual lint identifies the article's mode and speaking position, then judges whether the prose is suitable for that point of view. Temporal review is not a generic requirement to date every fact. It distinguishes lifecycle dates, dated relationships, date blocks, current reference prose, historical snapshots, bounded event accounts, campaign-relative language, and layered primary-source viewpoints.
 
+The completed lint records the searchable scalar viewpoint in frontmatter `POV` and the practical interpretation in the persistent article block's `povNotes`, following [[Temporal POV Metadata]]. Use the broadest honest value: a year, decade, century, named era, or `timeless`. A year is approximate rather than an exact validity boundary. `povNotes` may record an approximate, asymmetric, or minimal accuracy range and should distinguish unknown periods from established later developments.
+
 Later truth does not make an explicitly earlier-POV note incorrect. A defect exists when the note silently mixes incompatible viewpoints, uses unanchored changing language, exposes later knowledge in an earlier view, or applies campaign/date blocks inconsistently.
 
 ### Structural role and importance
@@ -123,7 +126,7 @@ Editing the target note does not itself invalidate a clean lint. The relevant qu
 
 ### Frontmatter
 
-Version 2.2 uses this canonical ordering:
+Version 2.3 uses this canonical ordering:
 
 1. deprecated or obsolete fields, retained conspicuously for human migration;
 2. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
@@ -131,7 +134,8 @@ Version 2.2 uses this canonical ordering:
 4. unclassified fields in stable original order;
 5. `name`, `aliases`, `pronunciation`;
 6. `affiliations`, `whereabouts`; and
-7. `knownTo`, `excludePublish`, `audience`, `dm_owner`, `dm_notes`.
+7. `knownTo`, `excludePublish`, `audience`, `dm_owner`, `dm_notes`; and
+8. `POV`, immediately after `dm_notes` and therefore last in frontmatter.
 
 String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter never changes `headerVersion`, silently deletes a deprecated field, or rewrites unsafe YAML. Every deprecated-field finding proposes a plausible replacement or a bounded human choice.
 
@@ -157,7 +161,17 @@ The linter distinguishes three private in-note forms:
 - ordinary `%% ... %%` comments are Git-shared, nonpublic DM or editorial material; and
 - `Campaign:none` blocks are structured Git-shared DM material excluded from Taelgarverse.
 
-`dm_notes` is a human attestation that relevant information exists outside Git-tracked material or in someone's head. Shared comments or blocks do not imply it. For `dm_owner: tim`, `joint`, or `none`, the linter searches `_DM_` for direct links or unique exact-name matches, reports matching paths without exposing content, and uses the result only to question or support human review of `dm_notes`. It never removes `dm_notes` automatically.
+`dm_notes` is a human attestation that relevant information exists outside Git-tracked material or in someone's head. Shared comments or blocks do not imply it. For `dm_owner: tim`, `joint`, or `none`, the linter searches `_DM_` for direct links or unique exact-name matches, reports matching Markdown notes as wikilinks without exposing content, and uses the result only to question or support human review of `dm_notes`. It never removes `dm_notes` automatically.
+
+The linter does not adjudicate `color` versus `important`; both mean that the human attestation is present. When local hidden notes support an existing non-`none` value, they are supporting evidence rather than an open finding. Report found Markdown notes as Obsidian wikilinks, not raw filesystem-path lists.
+
+`dm_notes: none` is compatible with a SECRET block. A SECRET block—including one that only links to hidden material—already communicates that the page has a secret. If it accounts for the hidden material found and no additional unlinked `_DM_` material remains, retain `dm_notes: none` without complaint. Additional unlinked hidden material may still justify a human-review warning. If `color` or `important` has no local file evidence, a suggestion to review the attestation is permitted, but the field may represent information in someone's head or another off-vault source and must never be removed automatically.
+
+### Links and relationship metadata
+
+Obsidian resolves a bare wikilink target from filenames, not from frontmatter `name` or `aliases`. Link validation therefore treats `[[Drankor]]` as a link to a file named `Drankor.md`; an alias on another file does not make that link ambiguous. Explicit paths disambiguate genuine duplicate filenames.
+
+Metadata relationship resolution is a separate system and may use the vault's name and alias conventions. `whereabouts.location` also permits descriptive free text such as `traveling east to Tokra`. A value that does not resolve to a note is not by itself malformed and does not produce an unresolved-relationship finding. The contextual pass may still report a demonstrated typo, contradiction, or misleading location, but it must not replace an existing supported entry with an identical duplicate.
 
 ### Map metadata
 
@@ -165,17 +179,22 @@ The linter distinguishes three private in-note forms:
 
 ### Article metadata and comment placement
 
-Persistent article data lives at the end of the note after prose and comments:
+The searchable viewpoint lives at the end of frontmatter:
+
+```yaml
+POV: 1750
+```
+
+Persistent article interpretation lives at the end of the note after prose and comments:
 
 ```yaml
 %%^Metadata:article:v1%%
 mode: geographic reference
-pov: current setting reference
-povNotes: Present-tense geographic description; historical background does not change the article's speaking point.
+povNotes: "Accuracy range: approximately DR 1748–1752. Present-tense geographic description; historical background does not change the article's speaking point."
 %%^End%%
 ```
 
-`mode`, `pov`, and `povNotes` describe the article rather than the lint run and remain after review. The descriptive profile is already represented by the note tag and is not repeated.
+`POV`, `mode`, and `povNotes` describe the article rather than the lint run and remain after review. The descriptive profile is already represented by the note tag and is not repeated. A completed lint requires `POV`, `mode`, and `povNotes`; the old inline `(POV:: ...)` annotation and article-block `pov` key are deprecated. On re-lint, migrate their meaning into the frontmatter value and `povNotes` rather than preserving duplicate temporal labels.
 
 Comments belong below the complete header block: the title and any immediately following information/header callout. The linter moves only an unambiguously misplaced comment while preserving its text exactly; uncertain rearrangements become suggestions.
 

@@ -85,6 +85,32 @@ class ValidateTaelgarNoteTest < Minitest::Test
     end)
   end
 
+  def test_wikilinks_resolve_filenames_not_frontmatter_aliases
+    root = make_vault
+    write_note(root, "Gazetteer/Drankor.md", "---\ntags: [place]\nname: City of Drankor\ntypeOf: settlement\n---\n# Drankor\n")
+    write_note(
+      root,
+      "History/Drankorian Empire.md",
+      "---\ntags: [place]\nname: Drankorian Empire\naliases: [Drankor, Old Drankor]\ntypeOf: realm\n---\n# Drankorian Empire\n"
+    )
+    write_note(
+      root,
+      "People/Apollyon.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\naffiliations: [{org: Old Drankor}]\nwhereabouts: traveling east to Tokra\n---\n# Apollyon\n\nImprisoned in [[Drankor]], not [[Old Drankor]].\n"
+    )
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: true)
+    report = validator.validate_path("People/Apollyon.md")
+
+    refute_includes rule_ids(report), "link.ambiguous"
+    assert_equal 1, report.fetch("findings").count { |finding| finding["ruleId"] == "link.unresolved" }
+    refute(report.fetch("findings").any? do |finding|
+      finding["ruleId"] == "relationship.unresolved" && finding.dig("details", "target") == "Old Drankor"
+    end)
+    refute(report.fetch("findings").any? do |finding|
+      finding["ruleId"].start_with?("relationship.") && finding.dig("details", "target") == "traveling east to Tokra"
+    end)
+  end
+
   def test_invalid_utf8_in_markdown_is_reported_without_aborting_the_index
     root = make_vault
     path = File.join(root, "People", "Broken Encoding.md")
@@ -199,16 +225,16 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T00:00:00-04:00"
-        lintVersion: "2.2"
+        lintVersion: "2.3"
         tags: [place]
         typeOf: waterway
         pronunciation: RIH-ver
+        POV: 1750
         ---
         # River
 
         %%^Metadata:article:v1%%
         mode: geographic reference
-        pov: current setting reference
         povNotes: Stable geographic prose with no campaign-relative temporal language.
         %%^End%%
 
@@ -250,15 +276,15 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T09:00:00-04:00"
-        lintVersion: "2.2"
+        lintVersion: "2.3"
         tags: [session-note]
         campaign: Great Library
+        POV: 1748
         ---
         # Session 1
 
         %%^Metadata:article:v1%%
         mode: campaign record
-        pov: source record of events played in DR 1748
         povNotes: The session note is authoritative for what occurred in play.
         %%^End%%
       MARKDOWN
@@ -309,22 +335,68 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T09:00:00-04:00"
-        lintVersion: "2.1"
+        lintVersion: "2.2"
         tags: [meta]
         name: Meta
+        POV: timeless
         ---
         # Meta
 
         %%^Metadata:article:v1%%
         mode: meta
-        pov: current operational reference
         povNotes: This note describes the current vault workflow.
         %%^End%%
       MARKDOWN
     )
 
     assert_includes rule_ids(report), "lint.version_outdated"
-    assert_equal "2.2", report.fetch("validatorVersion")
+    assert_equal "2.3", report.fetch("validatorVersion")
+  end
+
+  def test_completed_lints_require_scalar_frontmatter_pov_and_article_notes
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    missing = validator.validate_text(
+      "Meta.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-19T09:00:00-04:00"
+        lintVersion: "2.3"
+        tags: [meta]
+        ---
+        # Meta
+
+        %%^Metadata:article:v1%%
+        mode: meta
+        povNotes: This note is not tied to in-world chronology.
+        %%^End%%
+      MARKDOWN
+    )
+    malformed = validator.validate_text(
+      "Meta.md",
+      "---\ntags: [meta]\nPOV: []\n---\n# Meta\n"
+    )
+    legacy = validator.validate_text(
+      "Meta.md",
+      <<~MARKDOWN
+        ---
+        tags: [meta]
+        POV: timeless
+        ---
+        # Meta
+
+        %%^Metadata:article:v1%%
+        mode: meta
+        pov: current operational reference
+        povNotes: This note is not tied to in-world chronology.
+        %%^End%%
+      MARKDOWN
+    )
+
+    assert_includes rule_ids(missing), "metadata.pov_missing"
+    assert_includes rule_ids(malformed), "metadata.pov_shape"
+    assert_includes rule_ids(legacy), "metadata.article_legacy_pov"
+    refute_includes rule_ids(legacy), "metadata.article_required_field"
   end
 
   def test_malformed_name_block_reports_errors_without_aborting_identity_checks
@@ -345,6 +417,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         dm_notes: none
+        POV: 1740s
         aliases:
           - First
           - Second
@@ -371,7 +444,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     formatted = TaelgarNoteLint::FrontmatterFormatter.new(note).format_text
-    expected_fields = %w[subTypeOf headerVersion lintedAt lintVersion displayDefaults tags species customField name aliases whereabouts knownTo dm_notes]
+    expected_fields = %w[subTypeOf headerVersion lintedAt lintVersion displayDefaults tags species customField name aliases whereabouts knownTo dm_notes POV]
     reparsed = TaelgarNoteLint::ParsedNote.new("People/Test.md", formatted)
 
     assert_equal expected_fields, reparsed.field_order
@@ -585,7 +658,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
   def test_metadata_blocks_are_at_note_end_and_article_metadata_does_not_repeat_profile
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
-    block = "%%^Metadata:article:v1%%\nmode: geographic reference\npov: current setting reference\npovNotes: Stable present-day geography.\n%%^End%%"
+    block = "%%^Metadata:article:v1%%\nmode: geographic reference\npovNotes: Stable present-day geography.\n%%^End%%"
     misplaced = validator.validate_text(
       "Gazetteer/Test.md",
       "---\ntags: [place]\ntypeOf: forest\n---\n#{block}\n\n# Test\n\nBody.\n"
@@ -656,18 +729,41 @@ class ValidateTaelgarNoteTest < Minitest::Test
     write_note(root, "_DM_/Dunmar Notes.md", "# Dunmar Notes\n\n[[Aatmaji Dynasty]] has a private ruler list.\n")
     write_note(
       root,
+      "Groups/Positive Dynasty.md",
+      "---\ntags: [group]\nname: Positive Dynasty\ndm_owner: tim\ndm_notes: color\n---\n# Positive Dynasty\n"
+    )
+    write_note(root, "_DM_/Positive Notes.md", "# Positive Notes\n\n[[Positive Dynasty]] has private color.\n")
+    write_note(
+      root,
+      "People/Secret Subject.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: none\ndm_notes: none\n---\n# Secret Subject\n\n%%SECRET\n[[_DM_/Secret Detail]]\n%%\n"
+    )
+    write_note(root, "_DM_/Secret Detail.md", "# Secret Detail\n\n[[Secret Subject]] has hidden material.\n")
+    write_note(
+      root,
       "People/No Private File.md",
       "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: tim\ndm_notes: important\n---\n# No Private File\n"
     )
     index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: true, index: index)
     suspect = validator.validate_path("Groups/Aatmaji Dynasty.md")
+    supported = validator.validate_path("Groups/Positive Dynasty.md")
+    accounted = validator.validate_path("People/Secret Subject.md")
     unsupported = validator.validate_path("People/No Private File.md")
     finding = suspect.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_suspect" }
 
     refute_nil finding
     assert_equal ["_DM_/Dunmar Notes.md"], finding.dig("details", "sources").map { |source| source["path"] }
+    assert_includes rule_ids(supported), "dm.notes_private_evidence_found"
+    refute_includes rule_ids(supported), "dm.notes_no_local_evidence"
+    refute_includes rule_ids(accounted), "dm.notes_private_evidence_suspect"
+    assert_includes rule_ids(accounted), "dm.notes_secret_evidence_accounted"
     assert_includes rule_ids(unsupported), "dm.notes_no_local_evidence"
+
+    suspect["fixes"] = []
+    markdown = TaelgarNoteLint::CLI.new([]).send(:markdown, [suspect])
+    assert_includes markdown, "[[_DM_/Dunmar Notes]]"
+    refute_includes markdown, "`_DM_/Dunmar Notes.md`"
   end
 
   def test_deprecated_fields_include_replacement_guidance

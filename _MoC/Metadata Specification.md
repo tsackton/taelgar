@@ -1,5 +1,5 @@
 # Metadata Specification
-*last update: Dec 15th 2025*
+*last update: Aug 19th 2026*
 
 This note summarizes the metadata specification for YAML frontmatter. 
 
@@ -13,9 +13,9 @@ Some brainstorming and ideas:
 - `headerVersion`: String version marker added by header scripts (typically a date like `2023.11.25`). Automatically added upon header generation. Do not manually edit. 
 - `tags`: Obsidian tags for categorization and status. One descriptive tag is usually required (`person`, `place`, `organization`, `item`, `event`, etc.); status tags (e.g. `status/stub`, `status/cleanup/*`, `status/gameupdate/*`) are optional. Represented as an inline list (`tags: [person]`). See: [[Note Categorization]] and [[Note Status]].
 - `dm_owner`: String indicating who is responsible for the page. Acceptable values: `tim`, `mike`, `joint`, `player`, `none`. See: [[Note Status]]
-- `dm_notes`: String indicating whether dm notes exist. Acceptable values: `important`, `color`, `none`. See: [[Note Status]].
+- `dm_notes`: String indicating whether DM notes exist. Acceptable values: `important`, `color`, `none`. `important` and `color` are both positive indications; linting does not adjudicate between them. A `%%SECRET[v2:01d09d28f3c9b99beed3e3ecc2487a5f]%%` block can account for hidden material and support `dm_notes: none` when no additional unlinked DM material is found. See: [[Note Status]].
 - `name`: Canonical page name used by display code. If omitted, the file name is used. 
-- `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Used primarily in link resolution.
+- `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Useful for search, display, and metadata matching. Obsidian bare wikilinks resolve filenames, not frontmatter aliases.
 - `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations may be recorded in the persistent block described by [[Name Metadata]].
 - `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.png`). Not used by any core header generation functions but very useful in data view tables, i.e. of items.
 
@@ -41,6 +41,7 @@ See: [[Metadata Specification#Date Formats|Date Formats]]
 - `realWorldDate`: Real‑world date a session was played, in `YYYY‑MM‑DD` form.
 - `timelineDescriptor`:Label used in timelines and event lists (e.g. “War of the Cloak”) for dates extracted from this note. Often matches or summarizes the page title. ***Warning: possibly obsolete / possibly not working, and inconsistently used.***
 - `pageTargetDate`: Optional override for “current date” used by queries and header scripts, primarily for debugging. 
+- `POV`: Approximate temporal point of view from which the article reads coherently. Use a year, decade, century, named era, or `timeless`; see [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
 
 ### Type-Specific Fields
 
@@ -179,6 +180,8 @@ The following object fields are used for display formatting; see Whereabouts For
 - `format`: per-hop format override (applied after displayDefault).
 - `startFilter`: per-chain filter override when the chain starts from this whereabout.
 - any valid displayDefault key can also be specified in a whereabout. 
+
+The `location` value may be a descriptive phrase rather than a note target, such as `traveling east to Tokra`. This is valid free text and should not be treated as a broken relationship. A dated whereabouts entry is also not missing merely because a linter might phrase the same location differently; proposals must account for the existing whereabouts history before suggesting additions.
 
 #### Valid Types
 

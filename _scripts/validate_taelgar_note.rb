@@ -23,7 +23,7 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "2.2"
+  VERSION = "2.3"
   SCHEMA_VERSION = 3
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
@@ -61,7 +61,7 @@ module TaelgarNoteLint
   FRONTMATTER_IDENTITY_FIELDS = %w[name aliases pronunciation].freeze
   FRONTMATTER_RELATIONSHIP_FIELDS = %w[affiliations whereabouts].freeze
   FRONTMATTER_TAIL_FIELDS = %w[
-    knownTo excludePublish audience dm_owner dm_notes
+    knownTo excludePublish audience dm_owner dm_notes POV
   ].freeze
 
   DESCRIPTIVE_TAGS = %w[
@@ -469,7 +469,8 @@ module TaelgarNoteLint
   class NoteIndex
     def initialize(root)
       @root = root
-      @by_name = Hash.new { |hash, key| hash[key] = [] }
+      @by_filename = Hash.new { |hash, key| hash[key] = [] }
+      @by_identity = Hash.new { |hash, key| hash[key] = [] }
       @by_path = {}
       build
     end
@@ -485,7 +486,7 @@ module TaelgarNoteLint
         return [direct].compact
       end
 
-      candidates = @by_name[TaelgarNoteLint.normalize(clean)].uniq
+      candidates = @by_filename[TaelgarNoteLint.normalize(clean)].uniq
       return candidates unless candidates.empty?
 
       return [] unless source_path
@@ -493,6 +494,17 @@ module TaelgarNoteLint
       source_dir = Pathname.new(source_path).dirname
       relative = source_dir.join(clean).cleanpath.to_s
       [@by_path[TaelgarNoteLint.normalize(relative)]].compact
+    end
+
+    def resolve_identity(target, source_path = nil)
+      clean = target.to_s.split("|", 2).first.to_s.split("#", 2).first.to_s.strip
+      clean = clean.split("^", 2).first.to_s.strip
+      return [] if clean.empty?
+
+      clean = clean.sub(/\.md\z/i, "").tr("\\", "/").sub(%r{\A\./}, "")
+      return resolve(clean, source_path) if clean.include?("/")
+
+      @by_identity[TaelgarNoteLint.normalize(clean)].uniq
     end
 
     private
@@ -507,11 +519,13 @@ module TaelgarNoteLint
 
         path_key = rel.sub(/\.md\z/i, "")
         @by_path[TaelgarNoteLint.normalize(path_key)] = rel
+        filename = path.basename(".md").to_s
+        @by_filename[TaelgarNoteLint.normalize(filename)] << rel
 
         text = TaelgarNoteLint.read_text(path)
         parsed = ParsedNote.new(rel, text)
         names = parsed.identity_names
-        names.each { |name| @by_name[TaelgarNoteLint.normalize(name)] << rel }
+        names.each { |name| @by_identity[TaelgarNoteLint.normalize(name)] << rel }
       rescue Errno::ENOENT, Errno::EACCES
         next
       end
@@ -532,7 +546,7 @@ module TaelgarNoteLint
 
     def mentions(note)
       resolvable_names = note.identity_names.select do |name|
-        @index.resolve(name, note.path) == [note.path]
+        @index.resolve_identity(name, note.path) == [note.path]
       end
       @documents.each_with_object([]) do |(path, original_text), matches|
         text = TaelgarNoteLint.mask_markdown_code(original_text)
@@ -715,6 +729,19 @@ module TaelgarNoteLint
                 line: note.field_line("lintVersion"), provisional: true)
           end
         end
+      end
+
+      if note.data.key?("POV")
+        pov = note.data["POV"]
+        unless (pov.is_a?(String) && !pov.strip.empty?) || pov.is_a?(Integer)
+          add(findings, "metadata.pov_shape", "error", "required",
+              "POV must be a nonempty string or integer scalar.",
+              line: note.field_line("POV"))
+        end
+      elsif linted_at && lint_version
+        add(findings, "metadata.pov_missing", "error", "required",
+            "Completed lints require a frontmatter POV value.",
+            line: note.field_line("lintVersion") || 1)
       end
     end
 
@@ -944,21 +971,39 @@ module TaelgarNoteLint
       dm_notes = note.data["dm_notes"].to_s
       if sources.any?
         if dm_notes.empty? || dm_notes == "none"
-          add(findings, "dm.notes_private_evidence_suspect", "warning", "conditional",
-              "Local-only _DM_ notes link or could link to this subject; review whether dm_notes: none is still accurate.",
-              line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
-              details: { "sources" => sources })
+          secret_paths = secret_linked_dm_paths(note)
+          unlinked_sources = sources.reject { |source| secret_paths.include?(source["path"]) }
+          if unlinked_sources.any?
+            add(findings, "dm.notes_private_evidence_suspect", "warning", "conditional",
+                "Additional local-only _DM_ notes link or could link to this subject but are not accounted for by a SECRET-block link; review whether dm_notes: none is still accurate.",
+                line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
+                details: { "sources" => unlinked_sources })
+          else
+            add(findings, "dm.notes_secret_evidence_accounted", "info", "judgment",
+                "SECRET-block links account for the local-only _DM_ evidence and support retaining dm_notes: none.",
+                line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
+                details: { "sources" => sources })
+          end
         else
           add(findings, "dm.notes_private_evidence_found", "info", "judgment",
-              "Local-only _DM_ notes support reviewing the current dm_notes attestation.",
+              "Local-only _DM_ notes support the current positive dm_notes attestation.",
               line: note.field_line("dm_notes"), provisional: true,
               details: { "sources" => sources })
         end
       elsif %w[color important].include?(dm_notes)
         add(findings, "dm.notes_no_local_evidence", "suggestion", "judgment",
-            "No local-only _DM_ note links or could link to this subject. Consider removing dm_notes, but retain it if it represents unrecorded knowledge or another off-vault source.",
+            "No local-only _DM_ note links or could link to this subject. Review whether the positive dm_notes attestation still represents unrecorded knowledge or another off-vault source; never remove it automatically.",
             line: note.field_line("dm_notes"), provisional: true)
       end
+    end
+
+    def secret_linked_dm_paths(note)
+      text = TaelgarNoteLint.mask_markdown_code(note.text)
+      text.scan(/%%SECRET\b(.*?)%%/m).flatten.flat_map do |payload|
+        payload.scan(/(?<!!)\[\[([^\]\n]+)\]\]/).flatten.flat_map do |raw|
+          @index.resolve(raw, note.path)
+        end
+      end.select { |path| path.start_with?("_DM_/") }.uniq
     end
 
     def validate_content_blocks(note, findings)
@@ -1049,8 +1094,8 @@ module TaelgarNoteLint
 
       pov = text.match(/\(POV::\s*[^)]+\)/)
       if pov
-        add(findings, "temporal.inline_pov", "info", "judgment",
-            "A legacy note-level POV comment is present; preserve its meaning in Metadata:article before removing it.",
+        add(findings, "temporal.inline_pov", "suggestion", "recommended",
+            "A legacy inline POV field is present; move its scalar viewpoint to frontmatter POV and preserve any qualification in Metadata:article povNotes.",
             line: TaelgarNoteLint.line_number(text, pov.begin(0)), provisional: true)
       end
 
@@ -1258,10 +1303,15 @@ module TaelgarNoteLint
         return
       end
 
-      missing = %w[mode pov povNotes].select { |field| data[field].to_s.strip.empty? }
+      missing = %w[mode povNotes].select { |field| data[field].to_s.strip.empty? }
       unless missing.empty?
         add(findings, "metadata.article_required_field", "error", "required",
             "Metadata:article:v1 is missing: #{missing.join(', ')}.", line: line)
+      end
+      if data.key?("pov")
+        add(findings, "metadata.article_legacy_pov", "suggestion", "recommended",
+            "Move the article block's legacy pov value to frontmatter POV and preserve its useful explanation in povNotes.",
+            line: line, provisional: true)
       end
       if data.key?("profile")
         add(findings, "metadata.article_redundant_profile", "suggestion", "recommended",
@@ -1370,13 +1420,12 @@ module TaelgarNoteLint
     def validate_relationships(note, findings)
       relationships = []
       whereabouts = note.data["whereabouts"]
-      if whereabouts.is_a?(String)
-        relationships << ["whereabouts", whereabouts, note.field_line("whereabouts")]
-      elsif whereabouts.is_a?(Array)
-        whereabouts.each do |entry|
-          relationships << ["whereabouts", entry["location"], note.field_line("whereabouts")] if entry.is_a?(Hash)
+      if whereabouts.is_a?(Array)
+        unless whereabouts.all? { |entry| entry.is_a?(Hash) }
+          add(findings, "relationship.whereabouts_shape", "error", "required",
+              "whereabouts must be a string or list of dictionaries.", line: note.field_line("whereabouts"))
         end
-      elsif whereabouts
+      elsif whereabouts && !whereabouts.is_a?(String)
         add(findings, "relationship.whereabouts_shape", "error", "required",
             "whereabouts must be a string or list of dictionaries.", line: note.field_line("whereabouts"))
       end
@@ -1399,7 +1448,7 @@ module TaelgarNoteLint
       relationships.each do |field, target, line|
         next if target.to_s.strip.empty? || TaelgarNoteLint.normalize(target) == "none"
 
-        candidates = @index.resolve(target.to_s, note.path)
+        candidates = @index.resolve_identity(target.to_s, note.path)
         if candidates.empty?
           add(findings, "relationship.unresolved", "warning", "required",
               "#{field} target does not resolve: #{target}.", line: line,
@@ -1753,7 +1802,7 @@ module TaelgarNoteLint
         options.banner = "Usage: validate_taelgar_note.rb [options] NOTE [NOTE ...]"
         options.on("--root PATH", "Vault root (default: current directory)") { |value| @options[:root] = value }
         options.on("--format FORMAT", %w[markdown json], "markdown or json") { |value| @options[:format] = value }
-        options.on("--fix-frontmatter", "Rewrite safe frontmatter into canonical 2.1 form") { @options[:fix_frontmatter] = true }
+        options.on("--fix-frontmatter", "Rewrite safe frontmatter into the current canonical form") { @options[:fix_frontmatter] = true }
         options.on("--since-ref REF", "Git commit/ref used as the freshness baseline") { |value| @options[:baseline_ref] = value }
         options.on("--linted-at TIME", "Resolve the last commit at or before this lint timestamp") { |value| @options[:linted_at] = value }
         options.on("--no-links", "Skip link and relationship resolution") { @options[:check_links] = false }
@@ -1795,7 +1844,7 @@ module TaelgarNoteLint
             Array(finding.dig("details", "sources")).each do |source|
               source_lines = Array(source["lines"])
               location_text = source_lines.empty? ? "" : " (lines #{source_lines.join(', ')})"
-              lines << "  - `#{source['path']}`#{location_text}"
+              lines << "  - #{markdown_note_reference(source['path'])}#{location_text}"
             end
           end
         end
@@ -1813,13 +1862,19 @@ module TaelgarNoteLint
           else
             candidates.each do |candidate|
               changed = candidate["mentionChanged"] ? "mention changed" : "mention unchanged; source changed"
-              lines << "- `#{candidate['path']}` (#{candidate['sourceKind']}; #{changed}; lines #{candidate['mentionLines'].join(', ')})"
+              lines << "- #{markdown_note_reference(candidate['path'])} (#{candidate['sourceKind']}; #{changed}; lines #{candidate['mentionLines'].join(', ')})"
             end
           end
         end
         lines << ""
       end
       lines.join("\n").rstrip
+    end
+
+    def markdown_note_reference(path)
+      return "`#{path}`" unless path.to_s.end_with?(".md")
+
+      "[[#{path.sub(/\.md\z/, '')}]]"
     end
   end
 end
