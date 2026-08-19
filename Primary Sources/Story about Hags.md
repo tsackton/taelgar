@@ -1,17 +1,10 @@
 ---
-lintedAt: "2026-08-19T09:51:53-04:00"
+lintedAt: "2026-08-19T11:00:23-04:00"
 lintVersion: "2.1"
-tags: [source, status/cleanup/text, status/check/lint]
+tags: [source, status/cleanup/text]
 dm_owner: tim
-dm_notes: color
+dm_notes: none
 ---
-
-%%^Metadata:article:v1%%
-profile: source
-mode: borrowed source material awaiting adaptation
-pov: unanchored second-person illustrative scenario
-%%^End%%
-
 %% this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%
 
 Think for a second of how much you actually know as a commoner. You probably don't know specifically 'Hags', you instead have heard rumors about "The Woman of the Cliffs". People whisper that she's evil, cruel, and malicious. But you're in the tavern one night drinking away your worries about your eldest daughter's growing illness when Svenson, the local drunkard, is speaking to your neighbor, Wilfun, about his and his wife's problems having a child, and he says "Why not speak to the woman of the cliffs? They say she has powers". The other locals shush him up, talking about how bad an idea it is. But your neighbor looks thoughtful. You finish your tankard and forget about it.
@@ -30,34 +23,8 @@ Planning to confront the Woman of the Cliffs, you ascend into her lair again. Ho
 
 With a weary heart you return to the village, thinking of how you can do what she demands... when you pass your neighbor's' house, for a second you think you can see their four month old daughter through the window. She smiles and laughs at you in a way more knowing than any baby that young should be able to.
 
-%%^Lint%%
-## Open findings
-
-- [ ] `source.attribution_missing`: the note says this was copied from Reddit but does not preserve an author, post title, URL, or retrieval context.
-- [ ] `source.adaptation_incomplete`: names such as Svenson and Wilfun and the generic “Woman of the Cliffs” have not been placed in a specific Taelgar culture.
-- [ ] `identity.implicit_name`: add the filename-derived working title if this remains a standalone source note.
-- [ ] `editorial.possessive`: “neighbor's' house” should be resolved after deciding whether the intended noun is singular or plural.
-- [ ] `editorial.hyphenation`: “four month old daughter” should be “four-month-old daughter.”
-
-## Copy-ready candidates
-
-```yaml
-name: Story about Hags
-```
-
-## Applied changes
-
-- Canonicalized frontmatter layout and added lint state.
-- Added persistent article metadata while leaving the copied source text unchanged.
-- Kept the existing source/quality comment immediately below persistent metadata.
-
-## Evidence reviewed
-
-- The complete source note and vault-wide backlinks.
-- [[Agata]], [[Fey]], [[Cloudspinner]], and Dunmari Frontier Sessions 17 and 36, which use this as a generic hag model rather than establishing an in-world narrator or location.
-- No source attribution beyond the existing Reddit comment was found in the vault.
-
-## Status disposition
-
-- `status/cleanup/text`: still valid; both attribution and cultural adaptation remain unresolved.
+%%^Metadata:article:v1%%
+mode: preserved external source material awaiting adaptation
+pov: undated second-person narrative
+povNotes: The narrative sequence belongs to the preserved source artifact, not to Taelgar chronology. Lint may assess attribution and adaptation, but it must not declare the source’s assertions factually wrong.
 %%^End%%

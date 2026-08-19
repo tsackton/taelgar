@@ -1,4 +1,4 @@
- # Display Control
+# Display Control
 *last update: Dec 15th 2025*
 
 ## Overview of Display Generation
@@ -335,14 +335,7 @@ These keys are templates for party‑meeting lines driven by `campaignInfo`:
 
 Per‑entry overrides in `campaignInfo`, using `format`, replace the defaults. 
 
-**Known campaign codes (as of 2025‑12‑10)**:
-*(these will properly link to appropriate party pages when used in campaignInfo)*
-
-- `dufr` – `Dunmar Fellowship`
-- `clee` – `Heroes of Cleenseau`
-- `gw` - `Heroes of the Great War` 
-- `adma` - `Addermarch Mercenaries`
-- `gl` - `Silver Tempests`
+Canonical campaign codes and party-page mappings are maintained in [[Campaign Registry]] and `_scripts/session_note_campaigns.json`. `campaignInfo`, `knownTo`, and campaign blocks use the registry's lowercase codes.
 
 ---
 
@@ -581,4 +574,3 @@ The JSON blocks below show the effective displayDefaults for the primary page ty
   "ruledBy": ""
 }
 ```
-

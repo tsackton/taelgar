@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lint Taelgar Note"
+  short_description: "Context-aware Taelgar note linting"
+  default_prompt: "Use $lint-taelgar-note to lint or re-lint a Taelgar vault note."

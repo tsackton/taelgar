@@ -294,8 +294,15 @@ def load_display_metadata() -> Dict[str, Any]:
 def build_campaign_lookup(campaigns: Dict[str, Dict[str, Any]]) -> Dict[str, str]:
     lookup: Dict[str, str] = {}
     for canonical_slug, config in campaigns.items():
-        keys = [canonical_slug, *(config.get("aliases") or [])]
+        keys = [
+            canonical_slug,
+            config.get("name"),
+            config.get("code"),
+            *(config.get("aliases") or []),
+        ]
         for key in keys:
+            if key is None:
+                continue
             normalized = slugify_text(key)
             if normalized:
                 lookup[normalized] = canonical_slug
@@ -305,9 +312,12 @@ def build_campaign_lookup(campaigns: Dict[str, Dict[str, Any]]) -> Dict[str, str
 def format_campaign_help(campaigns: Dict[str, Dict[str, Any]]) -> str:
     lines = ["Available campaigns:"]
     for canonical_slug in sorted(campaigns):
-        aliases = campaigns[canonical_slug].get("aliases") or []
+        config = campaigns[canonical_slug]
+        name = config.get("name") or canonical_slug
+        code = config.get("code") or canonical_slug
+        aliases = config.get("aliases") or []
         alias_text = f" (aliases: {', '.join(aliases)})" if aliases else ""
-        lines.append(f"  - {canonical_slug}{alias_text}")
+        lines.append(f"  - {name} [{code}] ({canonical_slug}){alias_text}")
     return "\n".join(lines)
 
 

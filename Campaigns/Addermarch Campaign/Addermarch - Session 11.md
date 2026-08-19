@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T09:51:53-04:00"
+lintedAt: "2026-08-19T11:40:58-04:00"
 lintVersion: "2.1"
-tags: [session-note, status/check/lint]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 11
 realWorldDate: 2025-06-15
@@ -13,12 +13,6 @@ tagline: in which the party discovers a fey mystery.
 descTitle: The Cursed Song
 name: Addermarch Campaign - Session 11
 ---
-%%^Metadata:article:v1%%
-profile: session-note
-mode: campaign record
-pov: retrospective account using provisional DR 1715-05-16 through 1715-05-17 dates
-%%^End%%
-
 # Addermarch Campaign - Session 11
 
 >[!info] The Cursed Song: in which the party discovers a fey mystery.
@@ -33,7 +27,7 @@ The party learns of strange happenings in [[Haldrenn]] and rescues a lost girl.
 
 - **(DR:: 1715-05-16):** [[Caradoc]] visits the party in [[Roscombe]] with rumors of maddened livestock in [[Haldrenn]], and asks the party to investigate.  After acquiring potions from [[Caradoc]] in [[Brantor]], the heroes march northeast into the [[Highmoor]] and camp in the open hills.
 - **(DR:: 1715-05-17), day:** The party reaches [[Haldrenn]] in the late afternoon, and learns from nine-year-old [[Bran]] that six-year-old [[Rowena]] is missing and a funeral for [[Olay]] (gored by his own bull) is imminent. [[Bran]] recites a creepy [[Hollow Men|“Hollow Men”]] rhyme said to warn of the [[Morlaith|Briarheart]].
-- **(DR:: 1715-05-17), early evening:** Questions to charcoal-burner **[[Karl]]** and priest-storyteller **[[Helen of Haldrenn]]** uncover more of the strange events. [[Drou]]’s animal-speech reveals the cattle are tormented by a relentless song compelling violence.
+- **(DR:: 1715-05-17), early evening:** Questions to charcoal-burner **[[Karl]]** and priest-storyteller **[[Helen of Haldrenn]]** uncover more of the strange events. [[Drou]]’s _Speak with Animals_ reveals the cattle are tormented by a relentless song compelling violence.
 - **(DR:: 1715-05-17), sunset:** Tracking prints and using [[Fazoth de Brune|Fazoth]]’s fey-lantern, the party follows [[Rowena]]’s trail east into the hills and locates her hiding in a cave filled with maddened bees. Swarms are dispersed by Cloud of Daggers, Chromatic Orb, and Dissonant Whispers; [[Rowena]] is rescued unharmed.
 - **(DR:: 1715-05-17), night:** As the rescuers crest the last ridge toward [[Haldrenn]] the fey-lantern flares and the howls of worgs attacking the village echo across the darkened fields.
 
@@ -91,33 +85,8 @@ Inside the cave, the party is attacked by three swarms of enraged bees. Although
 
 Although it is now dark, the party sets out to return to [[Haldrenn]] with [[Rowena]]. We end as the party approaches the final hill, as the lantern of fey tracking lights up and the sound of worgs can be heard ahead, attacking the village.
 
-%%^Lint%%
-## Open findings
-
-- [ ] `campaign.noncanonical_code`: replace the campaign alias with the canonical registry code.
-- [ ] `temporal.campaign_unmoored`: [[Campaigns - Open Questions]] says the canonical Addermarch campaign is still unmoored in time; treat the DR 1715 dates as provisional even though the note is internally consistent.
-- [ ] `editorial.wording`: “Drou’s animal-speech” is understandable but awkward; consider naming the spell or ability if the exact mechanic matters.
-
-## Copy-ready candidates
-
-```yaml
-campaign: adma
-```
-
-## Applied changes
-
-- Canonicalized frontmatter layout and added lint state.
-- Added persistent article metadata.
-- Corrected “reveal” to “reveals” and “discrete” to “discreet,” clarified Caradoc’s request for discretion, and supplied the missing article before “small, shallow cave.”
-
-## Evidence reviewed
-
-- The complete session note and its dated timeline.
-- Later linked summaries in [[Haldrenn]], [[Caradoc]], [[Duncan of Haldrenn]], and [[Helen of Haldrenn]]; these elaborate from this session rather than contradicting it.
-- [[Campaigns - Open Questions]] for the campaign’s canonical but not yet anchored chronology.
-- The campaign registry, which resolves `Addermarch` to `adma`.
-
-## Status disposition
-
-- No pre-existing status tags required disposition.
+%%^Metadata:article:v1%%
+mode: campaign record
+pov: source record of events played as DR 1715-05-16 through DR 1715-05-17
+povNotes: The session note is authoritative for what occurred in play. Addermarch is canonical and explicitly set in DR 1715, so this record’s DR 1715-05-16 through DR 1715-05-17 dates are anchored in the campaign chronology.
 %%^End%%

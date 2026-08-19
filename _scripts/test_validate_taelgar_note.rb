@@ -11,6 +11,16 @@ require_relative "validate_taelgar_note"
 class ValidateTaelgarNoteTest < Minitest::Test
   FIXTURE_PATH = File.join(__dir__, "tests", "fixtures", "taelgar_note_lint_trial.json")
 
+  def test_adopted_specification_records_the_validator_version
+    specification = TaelgarNoteLint::ParsedNote.new(
+      "_MoC/Taelgar Note Linter.md",
+      File.read(File.join(__dir__, "..", "_MoC", "Taelgar Note Linter.md"))
+    )
+
+    assert_nil specification.yaml_error
+    assert_equal TaelgarNoteLint::VERSION, specification.data["linterVersion"]
+  end
+
   def setup
     @temporary_roots = []
   end
@@ -63,7 +73,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     write_note(
       root,
       "People/Julius.md",
-      "---\ntags: [person]\nname: Julius\nspecies: human\nwhereabouts: Voltara\nknownTo: [GL]\n---\n# Julius\n\nSee [[Voltara]] and [[Missing Manor]].\n"
+      "---\ntags: [person]\nname: Julius\nspecies: human\nwhereabouts: Voltara\nknownTo: [grli]\n---\n# Julius\n\nSee [[Voltara]] and [[Missing Manor]].\n"
     )
     index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: true, index: index)
@@ -106,7 +116,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     entity = validator.validate_text(
       "Campaigns/Great Library Campaign/Treasure/Hammer.md",
-      "---\ntags: [object]\ntypeOf: weapon\nknownTo: [GL]\n---\n# Hammer\n"
+      "---\ntags: [object]\ntypeOf: weapon\nknownTo: [grli]\n---\n# Hammer\n"
     )
     refute_includes rule_ids(entity), "campaign.document_missing"
     refute_includes rule_ids(entity), "campaign.directory_missing"
@@ -127,7 +137,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     misplaced = validator.validate_text(
       "Campaigns/Great Library Campaign/Treasure/Hammer.md",
-      "---\ntags: [object]\ntypeOf: weapon\ncampaign: GL\n---\n# Hammer\n"
+      "---\ntags: [object]\ntypeOf: weapon\ncampaign: Great Library\n---\n# Hammer\n"
     )
     assert_includes rule_ids(misplaced), "campaign.unexpected_entity_field"
     refute_includes rule_ids(misplaced), "campaign.audience_unclassified"
@@ -139,11 +149,11 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     person = validator.validate_text(
       "People/Julius.md",
-      "---\ntags: [person]\nspecies: human\ncampaignInfo: [{campaign: GL, date: 1748}]\n---\n# Julius\n"
+      "---\ntags: [person]\nspecies: human\ncampaignInfo: [{campaign: grli, date: 1748}]\n---\n# Julius\n"
     )
     object = validator.validate_text(
       "Campaigns/Great Library Campaign/Treasure/Hammer.md",
-      "---\ntags: [object]\ntypeOf: weapon\ncampaignInfo: [{campaign: GL, date: 1748}]\n---\n# Hammer\n"
+      "---\ntags: [object]\ntypeOf: weapon\ncampaignInfo: [{campaign: grli, date: 1748}]\n---\n# Hammer\n"
     )
 
     assert_includes rule_ids(person), "campaign.missing_known_to"
@@ -167,7 +177,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
     source = validator.validate_text(
       "Campaigns/Great Library Campaign/Handouts/Letter.md",
-      "---\ntags: [source]\ncampaign: GL\n---\n# Letter\n"
+      "---\ntags: [source]\ncampaign: Great Library\n---\n# Letter\n"
     )
     obvious = validator.validate_text(
       "People/Thomas Hawke.md",
@@ -189,15 +199,17 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T00:00:00-04:00"
-        lintVersion: "2.1"
+        lintVersion: "2.2"
         tags: [place]
         typeOf: waterway
         pronunciation: RIH-ver
         ---
+        # River
+
         %%^Metadata:article:v1%%
-        profile: place
         mode: geographic reference
-        pov: current
+        pov: current setting reference
+        povNotes: Stable geographic prose with no campaign-relative temporal language.
         %%^End%%
 
         %%^Metadata:names:v1%%
@@ -209,9 +221,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
           - {geometry: path, map: world, sourceHex: "01.01.A01", outletHex: "01.01.B02"}
         %%^End%%
 
-        # River
-
         %%^Lint%%
+        - [ ] **Suggestion — trial.open:** Review this trial finding.
         Trial report quotes a fixed typo: climatic victory.
         It may also mention a deliberately unresolved report-only link: [[Missing Review Source]].
         Copy candidate: %% (POV:: 1748) %%
@@ -227,6 +238,56 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(report), "link.unresolved"
     refute_includes rule_ids(report), "privacy.shared_comment"
     refute_includes rule_ids(report), "temporal.inline_pov"
+    refute_includes rule_ids(report), "metadata.position"
+    refute_includes rule_ids(report), "metadata.article_redundant_profile"
+  end
+
+  def test_clean_lint_has_no_report_or_status
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-19T09:00:00-04:00"
+        lintVersion: "2.2"
+        tags: [session-note]
+        campaign: Great Library
+        ---
+        # Session 1
+
+        %%^Metadata:article:v1%%
+        mode: campaign record
+        pov: source record of events played in DR 1748
+        povNotes: The session note is authoritative for what occurred in play.
+        %%^End%%
+      MARKDOWN
+    )
+
+    refute_includes rule_ids(report), "lint.report_without_status"
+    refute_includes rule_ids(report), "lint.status_without_report"
+    refute_includes rule_ids(report), "lint.report_without_open_findings"
+  end
+
+  def test_lint_report_and_status_require_each_other_and_open_work
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report_without_status = validator.validate_text(
+      "Meta.md",
+      "---\ntags: [meta]\n---\n# Meta\n\n%%^Lint%%\n- [ ] **Suggestion — test.open:** Review.\n%%^End%%\n"
+    )
+    status_without_report = validator.validate_text(
+      "Meta.md",
+      "---\ntags: [meta, status/check/lint]\n---\n# Meta\n"
+    )
+    closed_report = validator.validate_text(
+      "Meta.md",
+      "---\ntags: [meta, status/check/lint]\n---\n# Meta\n\n%%^Lint%%\n- [x] **Suggestion — test.closed:** Reviewed.\n%%^End%%\n"
+    )
+
+    assert_includes rule_ids(report_without_status), "lint.report_without_status"
+    assert_includes rule_ids(status_without_report), "lint.status_without_report"
+    assert_includes rule_ids(closed_report), "lint.report_without_open_findings"
   end
 
   def test_lint_state_fields_must_be_written_together
@@ -238,6 +299,32 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     assert_includes rule_ids(report), "lint.state_incomplete"
+  end
+
+  def test_stale_lint_version_is_reported_against_the_current_version
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Meta.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-19T09:00:00-04:00"
+        lintVersion: "2.1"
+        tags: [meta]
+        name: Meta
+        ---
+        # Meta
+
+        %%^Metadata:article:v1%%
+        mode: meta
+        pov: current operational reference
+        povNotes: This note describes the current vault workflow.
+        %%^End%%
+      MARKDOWN
+    )
+
+    assert_includes rule_ids(report), "lint.version_outdated"
+    assert_equal "2.2", report.fetch("validatorVersion")
   end
 
   def test_malformed_name_block_reports_errors_without_aborting_identity_checks
@@ -384,13 +471,13 @@ class ValidateTaelgarNoteTest < Minitest::Test
     write_note(
       root,
       "People/Julius.md",
-      "---\ntags: [person]\nname: Julius Prime\nspecies: human\nknownTo: [GL]\n---\n# Julius\n"
+      "---\ntags: [person]\nname: Julius Prime\nspecies: human\nknownTo: [grli]\n---\n# Julius\n"
     )
     session_path = "Campaigns/Great Library Campaign/Session Notes/Session 1.md"
     write_note(
       root,
       session_path,
-      "---\ntags: [session-note]\ncampaign: GL\n---\n# Session 1\n\n[[Julius]] greets the party.\n"
+      "---\ntags: [session-note]\ncampaign: Great Library\n---\n# Session 1\n\n[[Julius]] greets the party.\n"
     )
     git(root, "init", "-q")
     git(root, "add", ".")
@@ -433,11 +520,209 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute report.fetch("findings").any? { |finding| finding["ruleId"].start_with?("freshness.") }
   end
 
+  def test_authoritative_campaign_registry_has_the_adopted_names_and_codes
+    root = Pathname.new(__dir__).parent
+    registry = TaelgarNoteLint::CampaignRegistry.new(root)
+    expected = {
+      "Addermarch" => "adma",
+      "Dunmar Frontier" => "dufr",
+      "Cleenseau" => "clee",
+      "Great Library" => "grli",
+      "Mawar Adventures" => "mawar",
+      "Into the Chasm" => "itc",
+      "Labyrinths of the Lost" => "lablost",
+      "Lost in the Feywild" => "feywild"
+    }
+
+    assert_equal expected, registry.campaigns.to_h { |campaign| [campaign.fetch("name"), campaign.fetch("code")] }
+    assert_equal "dufr", registry.resolve("Dunmari Frontier")
+    assert_equal "Dunmar Frontier", registry.canonical_name("DuFr")
+  end
+
+  def test_runtime_campaign_compatibility_metadata_matches_the_authoritative_registry
+    root = Pathname.new(__dir__).parent
+    registry = TaelgarNoteLint::CampaignRegistry.new(root)
+    compatibility = JSON.parse(root.join(".obsidian", "metadata.json").read).fetch("campaigns")
+    by_code = compatibility.to_h { |campaign| [campaign.fetch("code"), campaign] }
+
+    assert_equal registry.campaigns.map { |campaign| campaign.fetch("code") }.sort, by_code.keys.sort
+    registry.campaigns.each do |campaign|
+      compatible = by_code.fetch(campaign.fetch("code"))
+      expected_folder = Pathname.new(campaign.fetch("campaignRoot"))
+        .join(Pathname.new(campaign.fetch("notePattern")).dirname).cleanpath.to_s
+      recognized_names = [compatible.fetch("code"), *compatible.fetch("aliases", [])]
+        .map { |value| TaelgarNoteLint.normalize(value) }
+
+      assert_includes recognized_names, TaelgarNoteLint.normalize(campaign.fetch("name"))
+      assert_equal expected_folder, compatible.fetch("sessionNoteFolder")
+      if campaign["partyPage"]
+        assert_equal campaign.fetch("partyPage"), compatible.fetch("partyPage")
+      end
+    end
+  end
+
+  def test_campaign_frontmatter_uses_long_name_and_scoped_metadata_uses_lowercase_code
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    canonical = validator.validate_text(
+      "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
+      "---\ntags: [session-note]\ncampaign: Great Library\n---\n# Session 1\n"
+    )
+    aliases = validator.validate_text(
+      "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
+      "---\ntags: [session-note]\ncampaign: GL\n---\n# Session 1\n"
+    )
+    known = validator.validate_text(
+      "People/Julius.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: [GL]\n---\n# Julius\n"
+    )
+
+    refute_includes rule_ids(canonical), "campaign.noncanonical_name"
+    assert_includes rule_ids(aliases), "campaign.noncanonical_name"
+    assert_includes rule_ids(known), "campaign.noncanonical_code"
+  end
+
+  def test_metadata_blocks_are_at_note_end_and_article_metadata_does_not_repeat_profile
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    block = "%%^Metadata:article:v1%%\nmode: geographic reference\npov: current setting reference\npovNotes: Stable present-day geography.\n%%^End%%"
+    misplaced = validator.validate_text(
+      "Gazetteer/Test.md",
+      "---\ntags: [place]\ntypeOf: forest\n---\n#{block}\n\n# Test\n\nBody.\n"
+    )
+    placed = validator.validate_text(
+      "Gazetteer/Test.md",
+      "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n\nBody.\n\n#{block}\n"
+    )
+    redundant = validator.validate_text(
+      "Gazetteer/Test.md",
+      "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n\nBody.\n\n#{block.sub('mode:', "profile: place\nmode:")}\n"
+    )
+
+    assert_includes rule_ids(misplaced), "metadata.position"
+    refute_includes rule_ids(placed), "metadata.position"
+    assert_includes rule_ids(redundant), "metadata.article_redundant_profile"
+  end
+
+  def test_comments_belong_below_title_and_header_callout
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    above = validator.validate_text(
+      "Gazetteer/Test.md",
+      "---\ntags: [place]\ntypeOf: forest\n---\n%% editorial comment %%\n# Test\n> [!info] Header\n\nBody.\n"
+    )
+    below = validator.validate_text(
+      "Gazetteer/Test.md",
+      "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n> [!info] Header\n\n%% editorial comment %%\n\nBody.\n"
+    )
+
+    assert_includes rule_ids(above), "comment.before_header"
+    refute_includes rule_ids(below), "comment.before_header"
+  end
+
+  def test_markdown_code_examples_are_not_parsed_as_live_blocks_or_links
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: true)
+    report = validator.validate_text(
+      "_MoC/Examples.md",
+      <<~MARKDOWN
+        ---
+        tags: [meta]
+        ---
+        # Examples
+
+        Inline example: `%%^Campaign:dufr%%` and `[[Missing Inline Example]]`.
+
+        ```yaml
+        %%^Metadata:names:v1%%
+        - {name: Example, language: unknown, source: "[[Missing Fenced Example]]"}
+        %%^End%%
+        ```
+      MARKDOWN
+    )
+
+    refute rule_ids(report).any? { |rule_id| rule_id.start_with?("syntax.") }
+    refute rule_ids(report).any? { |rule_id| rule_id.start_with?("metadata.") }
+    refute_includes rule_ids(report), "link.unresolved"
+  end
+
+  def test_dm_notes_review_uses_local_dm_mentions_without_overriding_human_attestation
+    root = make_vault
+    write_note(
+      root,
+      "Groups/Aatmaji Dynasty.md",
+      "---\ntags: [group]\nname: Aatmaji Dynasty\ndm_owner: tim\ndm_notes: none\n---\n# Aatmaji Dynasty\n"
+    )
+    write_note(root, "_DM_/Dunmar Notes.md", "# Dunmar Notes\n\n[[Aatmaji Dynasty]] has a private ruler list.\n")
+    write_note(
+      root,
+      "People/No Private File.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: tim\ndm_notes: important\n---\n# No Private File\n"
+    )
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: true, index: index)
+    suspect = validator.validate_path("Groups/Aatmaji Dynasty.md")
+    unsupported = validator.validate_path("People/No Private File.md")
+    finding = suspect.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_suspect" }
+
+    refute_nil finding
+    assert_equal ["_DM_/Dunmar Notes.md"], finding.dig("details", "sources").map { |source| source["path"] }
+    assert_includes rule_ids(unsupported), "dm.notes_no_local_evidence"
+  end
+
+  def test_deprecated_fields_include_replacement_guidance
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Groups/Dynasty.md",
+      "---\ntags: [group]\ntypeOf: family\nsubTypeOf: dynasty\n---\n# Dynasty\n"
+    )
+    finding = report.fetch("findings").find { |item| item["ruleId"] == "classification.deprecated_subtype" }
+
+    refute_nil finding
+    assert_includes finding.fetch("message"), "typeOfAlias: dynasty"
+  end
+
+  def test_session_and_primary_source_authority_are_explicit_in_reports
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    session = validator.validate_text(
+      "Campaigns/Great Library Campaign/Session Notes/Session 1.md",
+      "---\ntags: [session-note]\ncampaign: Great Library\n---\n# Session 1\n"
+    )
+    source = validator.validate_text(
+      "Primary Sources/Letter.md",
+      "---\ntags: [source]\n---\n# Letter\n"
+    )
+
+    assert_equal "session-source", session.dig("note", "authority")
+    assert_equal "primary-source", source.dig("note", "authority")
+  end
+
   private
 
   def make_vault
     root = Dir.mktmpdir("taelgar-note-lint-test.")
     @temporary_roots << root
+    FileUtils.mkdir_p(File.join(root, "_scripts"))
+    File.write(
+      File.join(root, "_scripts", "session_note_campaigns.json"),
+      JSON.pretty_generate(
+        "schemaVersion" => 2,
+        "campaigns" => {
+          "great-library" => {
+            "name" => "Great Library",
+            "code" => "grli",
+            "aliases" => ["Great Library Campaign", "GL", "gl"],
+            "partyPage" => "Silver Tempests",
+            "sessionRoot" => "great-library",
+            "campaignRoot" => "Campaigns/Great Library Campaign",
+            "notePattern" => "Session Notes/Great Library Session Notes - Arc {session}.md",
+            "defaultTemplate" => "composable-session-note.md"
+          }
+        }
+      )
+    )
     FileUtils.mkdir_p(File.join(root, ".obsidian"))
     File.write(
       File.join(root, ".obsidian", "metadata.json"),

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/check/ai]
+tags: [group]
 ancestry: orc
 typeOf: communal society
 lintedAt: "2026-08-19T01:07:33-04:00"

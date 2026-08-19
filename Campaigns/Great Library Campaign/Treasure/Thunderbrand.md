@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/check/ai]
+tags: [object]
 name: Thunderbrand
 typeOf: warhammer
 subTypeOf: magical

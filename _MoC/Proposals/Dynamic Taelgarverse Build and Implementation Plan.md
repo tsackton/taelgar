@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Dynamic Taelgarverse Build and Implementation Plan
 
 > [!warning] Proposal

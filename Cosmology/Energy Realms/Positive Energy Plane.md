@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 aliases: [Plane of Blossoming Currents]
 typeOf: plane
 typeOfAlias: hypothesized energy realm

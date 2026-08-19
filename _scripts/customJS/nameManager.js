@@ -55,8 +55,9 @@ class NameManager {
     }
 
     getCampaignConfig(codeOrAlias) {
-        // Canonical campaign config lives in `.obsidian/metadata.json` under `campaigns`.
-        // Backwards compatible with legacy `{prefix, sessionNoteFolder}` entries.
+        // Runtime campaign config is mirrored in `.obsidian/metadata.json` under `campaigns`.
+        // `_scripts/session_note_campaigns.json` is authoritative; the mirror remains
+        // backwards compatible with legacy `{prefix, sessionNoteFolder}` entries.
 
         const normalize = (value) => (value ?? "").toString().trim()
         const normalizeKey = (value) => normalize(value).toLowerCase()

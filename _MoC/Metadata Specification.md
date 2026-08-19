@@ -16,7 +16,7 @@ Some brainstorming and ideas:
 - `dm_notes`: String indicating whether dm notes exist. Acceptable values: `important`, `color`, `none`. See: [[Note Status]].
 - `name`: Canonical page name used by display code. If omitted, the file name is used. 
 - `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Used primarily in link resolution.
-- `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). 
+- `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations may be recorded in the persistent block described by [[Name Metadata]].
 - `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.png`). Not used by any core header generation functions but very useful in data view tables, i.e. of items.
 
 ### Classification and Type Fields
@@ -75,7 +75,7 @@ For session notes to generate headers and indexes:
 - `whereabouts`: Current and historical location data. Can be a simple string, or a list of objects. Typically used for people and places, and occasionally for organizations and items. See [[Metadata Specification#Whereabouts Specification|details below]].
 - `affiliations`: Organizations or places the subject is associated with. Can be a list of strings (shorthand for member affiliations) or full objects. Typically only used for people. See [[Metadata Specification#Affiliations Specification|details below]].
 - `campaignInfo`: List of objects capturing when and how campaigns interacted with this page. Each entry may include `campaign` (short code like `dufr`), `type` (e.g. `met`, `killed`, `seen`), optional `person`, `date`, and optional format overrides. Drives “Met by X on Y in Z” style header lines. Typically used only for people, but in principle could be used for any note. See [[Metadata Specification#CampaignInfo Specification|details below]].
-- `knownTo`: List of campaign codes indicating the subject is known to that party (e.g. `knownTo: [DuFr, Clee]`). Used as a lightweight, queryable replacement for long `campaignInfo` logs; see “KnownTo Framework” below.
+- `knownTo`: List of canonical lowercase campaign codes indicating the subject is known to that party (e.g. `knownTo: [dufr, clee]`). Used as a lightweight, queryable replacement for long `campaignInfo` logs; see “KnownTo Framework” below and [[Campaign Registry]].
 - `partOf`: Simple parent relationship field. Used for non-location based relationships. Principally used to indicate organizations that are part of a larger organization (e.g., a unit in an army), or events that are part of a larger event (e.g., a battle in a war). For place-based relationships, use `whereabouts` which can handle much more complex information. 
 
 #### KnownTo Framework
@@ -88,19 +88,14 @@ Purpose: track which campaign parties have met or otherwise meaningfully interac
 Use `knownTo` on the subject page as the authoritative indicator that the party knows them.
 
 ```yaml
-knownTo: [DuFr]
+knownTo: [dufr]
 ```
 
 **Evidence and summaries.**  
 Session notes are expected to link to people/places/items that appear in them. A “Campaign Interactions” section on the subject page can be generated from session-note backlinks (first/most recent/other mentions) and can optionally suggest missing `knownTo` codes when it finds session links for a campaign not listed in `knownTo`.
 
 **Campaign configuration.**  
-Campaign codes are defined in `.obsidian/metadata.json` under `campaigns`. Each entry should include:
-- `code` (canonical short code, e.g. `DuFr`)
-- `partyPage` (page name for the party, e.g. `Dunmar Fellowship`)
-- `sessionNoteFolder` (path to the campaign’s session notes directory)
-
-`aliases` can optionally be used to map a campaign’s `campaign:` frontmatter (or filename suffixes) back to the canonical `code`.
+Canonical campaign names, lowercase codes, aliases, and session paths are defined in `_scripts/session_note_campaigns.json`; see [[Campaign Registry]]. The older campaign list in `.obsidian/metadata.json` is a compatibility copy and is not authoritative for linting.
 
 ### Display and header control
 
@@ -397,7 +392,7 @@ Purpose: track when and how specific campaigns interacted with the subject of a 
 ### Object Fields
 
 The following object fields are used to define a campaignInfo entry; see Derived Campaign Interactions, below:
-- `campaign` (required): short code for the campaign (e.g., `DuFr`, `Clee`, `MC`). Used both for display and to match against configured campaign prefixes in `.obsidian/metadata.json`. Output lines are wrapped in campaign blocks with this code. 
+- `campaign` (required): canonical lowercase short code for the campaign (e.g., `dufr`, `clee`, `grli`) from [[Campaign Registry]]. Used both for display and to match campaign configuration. Output lines are wrapped in campaign blocks with this code.
 - `date` (required for display): the in‑world date of the interaction. Typical date formatting applies; if missing, the entry can still be used for “knows about” queries but will not generate a header line.
 - `type`: describes the interaction itself (e.g., `met`, `killed`, `freed`, `seen`, `attended his lecture`). Defaults to `seen` when omitted. 
 - `person`: optional override for who did the interacting. If omitted, defaults to the `campaign` code (which is then resolved to a page via NameManager and linkmap). Typically used when only a specific PC should appear in the output line. 
@@ -430,7 +425,7 @@ For a given page, the event manager derives a list of “party meeting” entrie
 The result is a list of records:
 
 - `text`: fully formatted “Met by X on Y in Z” style line for that entry.
-- `campaign`: the campaign code for the entry (e.g., `DuFr`).
+- `campaign`: the canonical lowercase campaign code for the entry (e.g., `dufr`).
 - `date`: normalized date of the interaction.
 - `location`: the resolved `current` location name at that date.
 
@@ -459,13 +454,13 @@ CampaignInfo is easiest to work with if you follow some simple patterns:
 ```yaml
 # Simple kill record with default formatting (People/Orcs/Gorkil)
 campaignInfo:
-  - {campaign: DuFr, person: Seeker, type: killed, date: 1748-05-05}
+  - {campaign: dufr, person: Seeker, type: killed, date: 1748-05-05}
 ```
 
 ```yaml
 # Custom free‑from‑mirror line with a session link (People/Orcs/Nogu)
 campaignInfo:
-  - {campaign: DuFr,
+  - {campaign: dufr,
      type: "freed from the [[Mirror of Soul Trapping]] into [[Lubash|Lubash's]] care",
      date: 1748-12-05,
      format: "<met:u> by <person> on [[Session 71 (DuFr)|<target>]] in <current:1>"}
@@ -474,7 +469,7 @@ campaignInfo:
 ```yaml
 # Complex interaction description using met/person tokens (People/Dunmari/Johar)
 campaignInfo:
-  - {campaign: DuFr, date: 1749-02-01, type: reunited,
+  - {campaign: dufr, date: 1749-02-01, type: reunited,
      format: "<met:t> with <person> on <target> <current:2qr>"}
 ```
 

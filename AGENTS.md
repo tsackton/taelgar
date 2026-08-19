@@ -43,13 +43,15 @@ Authorization covers only the described operation:
 6. **Mark agent-edited content notes.** Every content note modified outside
    `_sessions` must include `status/check/ai` in its YAML `tags`, except that an
    explicitly approved Taelgar note-linter run uses `status/check/lint` instead.
-   The linter may add or retain `status/check/lint` while it writes deterministic
-   frontmatter normalization, recognized lint/metadata blocks, approved comment
-   reordering, and logged lint fixes. A human removes `status/check/lint` after
-   reviewing or resolving the report. The only status operations an agent may
-   perform are adding `status/check/ai` during ordinary content work or adding
-   `status/check/lint` during an approved lint run. Never add, remove, or alter
-   `status/stub` or any other status tag; status cleanup requires human review.
+   The linter adds or retains `status/check/lint` only when a complete lint leaves
+   an open error, warning, or suggestion. A complete clean lint writes no Lint
+   block and may remove only `status/check/lint` together with any previous Lint
+   block. The only status operations an agent may perform are adding
+   `status/check/ai` during ordinary content work, adding `status/check/lint` for
+   open lint work, or removing `status/check/lint` after an explicitly approved
+   complete re-lint finds no open work. Never add, remove, or alter `status/stub`
+   or any other status tag; status cleanup requires human review.
+   [[Taelgar Note Linter]] is the authoritative lint specification.
    Support files such as `AGENTS.md`, scripts, and configuration are not content
    notes.
 7. **Preserve special syntax.** Leave unfamiliar Obsidian constructs, generated
@@ -61,10 +63,11 @@ Authorization covers only the described operation:
 | Source                         | Treatment                                                                                                                                                  |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Canonical reference notes      | Strongest lore authority when not marked for review, but still capable of rare uncaught errors.                                                            |
-| `Primary Sources`              | Canonical as in-world documents or artifacts; their claims may be incomplete, biased, or mistaken.                                                         |
-| Campaign and session records   | Evidence of events and of what characters experienced, observed, learned, or believed; not automatically omniscient truth.                                 |
+| `Primary Sources`              | Fundamental source artifacts. A source's claims may be incomplete, biased, or mistaken in-world, but the linter never declares the source note itself factually wrong. |
+| Campaign and session records   | Fundamental records of play and of what characters experienced, observed, learned, or believed. They are not omniscient truth, but the linter never declares the record itself factually wrong. |
 | `Worldbuilding`                | Development material, not canon unless separately adopted into a canonical note.                                                                           |
-| `_DM_` and `_dm_notes`         | Private DM or meta material that may be secret, tentative, or speculative. Do not expose it in player-facing prose without direction or canonical support. |
+| `_DM_`                         | Local, unshared DM material. It may support a `dm_notes` attestation but must not be exposed in shared or player-facing prose.                              |
+| `_dm_notes`                    | Git-shared, nonpublic DM or meta material that may be tentative or speculative. Do not expose it in player-facing prose without direction or canonical support. |
 | `_MoC`                         | Authoritative for vault structure, metadata, and editorial conventions, not setting lore.                                                                  |
 | `%%` comments                  | Meta, uncertain, or speculative; noncanonical by default.                                                                                                  |
 | `status/check/*` material      | Lower-confidence material requiring human review.                                                                                                          |
@@ -111,7 +114,7 @@ While editing:
 - Do not move files or change link targets unless required by the task. 
 - Never rename files. If the user requests to rename a note, change the metadata `name` field but not the filename. 
 - For an exact field or section change, make only that change plus the applicable
-  `status/check/ai` or approved linter `status/check/lint` addition.
+  status operation described in rule 6.
 
 After editing:
 
@@ -181,11 +184,13 @@ documentation follow their own established purpose and style.
 Use `%%` comments for uncertainty, editorial context, source limitations, and
 human-review notes. Do not place established canonical prose inside comments.
 
-Standalone meta comments about note quality or the note's temporal point of view
-belong immediately below frontmatter and recognized persistent metadata blocks,
-before the title or other note text. A linter may move an unambiguously qualifying
-comment there only if it preserves the comment text exactly. Other comments stay
-in place unless an obvious rearrangement is proposed for human review.
+Comments belong below the note's header block, never between frontmatter and the
+title or above an immediately following information/header callout. A linter may
+move an unambiguously misplaced comment below that header only if it preserves the
+comment text exactly. Other comments stay in place unless an obvious rearrangement
+is proposed for human review. Persistent `Metadata:*` blocks belong at the end of
+the note, after article text and comments and immediately before a replaceable
+`Lint` block when one is present.
 
 For substantial DM or meta material, use:
 
@@ -251,9 +256,14 @@ these general rules:
   documented `typeOf` for non-person subjects when classification is required.
   Do not introduce `subTypeOf` as a substitute.
 - Add metadata only when supported by evidence or required by the template.
-- Add the applicable `status/check/ai` or approved linter `status/check/lint` tag
-  to edited content notes outside `_sessions`. If another status tag appears
-  wrong or obsolete, report it instead of changing it.
+- `_scripts/session_note_campaigns.json` is the authoritative campaign registry.
+  Use its canonical long `name` for `campaign` frontmatter and its lowercase
+  `code` for `knownTo`, `campaignInfo`, and `Campaign:*` blocks. Aliases are
+  accepted for resolution but are not canonical authored values. Positive
+  `audience` semantics remain a separate, underdeveloped design question.
+- Apply the status lifecycle in rule 6 to edited content notes outside
+  `_sessions`. If another status tag appears wrong or obsolete, report it instead
+  of changing it.
 
 ## 7. Specialized and High-Risk Work
 
@@ -301,7 +311,7 @@ suggesting that details were invented.
 - Relevant sources were searched; contradictions were preserved and reported.
 - No unsupported canon or certainty was introduced.
 - Unrelated prose and special syntax were preserved.
-- The applicable `status/check/ai` or approved linter `status/check/lint` tags
-  were added; no other status tag changed.
+- The applicable status lifecycle in rule 6 was followed; no other status tag
+  changed.
 - Frontmatter, classifications, and edited links were validated.
 - The final diff contains only intended changes.

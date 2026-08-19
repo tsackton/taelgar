@@ -1,36 +1,28 @@
 ---
-subTypeOf: dynasty
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T09:51:53-04:00"
+lintedAt: "2026-08-19T11:00:23-04:00"
 lintVersion: "2.1"
-displayDefaults: {boxInfo: "<ancestry:UA> <subtypeof>"}
-tags: [group, status/check/lint]
+displayDefaults: {boxInfo: "<ancestry:UA> <typeof>"}
 typeOf: family
+typeOfAlias: dynasty
+tags: [group]
 ancestry: Dunmari
 name: Aatmaji dynasty
+pronunciation: AAT-mah-jee
 dm_owner: tim
 dm_notes: important
 ---
-%%^Metadata:article:v1%%
-profile: group
-mode: historical reference
-pov: retrospective current-setting account
-%%^End%%
-
-%%^Metadata:names:v1%%
-- {name: Aatmaji, role: dynastic name, language: Dunmari, pronunciation: AAT-mah-jee, status: proposed}
-%%^End%%
-
-%% have a full list of Samraats of this dynasty in DM notes FWIW%%
-
 # The Aatmaji Dynasty
+*(AAT-mah-jee)*
 >[!info]+ Information  
 > A [[Dunmar|Dunmari]] dynasty  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The first ruling dynasty of [[Dunmar]], founded by [[Bhishma]]. 
+%% have a full list of Samraats of this dynasty in DM notes FWIW%%
 
-%%^Campaign:None%%
+The first ruling dynasty of [[Dunmar]], founded by [[Bhishma]]. The Aatmaji dynasty ruled [[Dunmar]] from DR 1173 to DR 1395, with [[Kharsan]] as its administrative center. It ended when its last Samraat, [[Dasa]], led a disastrous expedition into [[Gazetteer/Drankorian Hinterland/Drankor/Drankor|Drankor]] and never returned.
+
+%%^Campaign:none%%
 ### Historical Members
 
 ```dataviewjs
@@ -43,38 +35,12 @@ dv.table(["Person", "Info", "Born", "Died"],
 ```
 %%^End%%
 
-%%^Lint%%
-## Open findings
+%%^Metadata:article:v1%%
+mode: historical reference
+pov: current-setting reference looking back on a completed dynasty
+povNotes: The visible article speaks retrospectively about a dynasty that ended in DR 1395. Its incompleteness is a coverage problem, not a need for a separate timeline POV comment.
+%%^End%%
 
-- [ ] `pronunciation.missing`: the Dunmari-based pronunciation below is a proposal, not accepted frontmatter.
-- [ ] `classification.deprecated_subtype`: `subTypeOf: dynasty` is preserved at the conspicuous beginning of frontmatter for human migration.
-- [ ] `coverage.established_history`: the visible article omits the dynasty’s seat, duration, and fall, all established elsewhere.
-- [ ] `syntax.noncanonical_campaign_block`: change `Campaign:None` to `Campaign:none` if the private block is retained.
-- [ ] `dm_notes.attestation`: the moved comment explicitly supports `dm_notes: important`, but the off-vault list cannot be checked by the linter.
-
-## Copy-ready candidates
-
-```yaml
-pronunciation: AAT-mah-jee
-```
-
-```markdown
-The Aatmaji dynasty ruled [[Dunmar]] from DR 1173 to DR 1395, with [[Kharsan]] as its administrative center. It ended when its last Samraat, [[Dasa]], led a disastrous expedition into [[Gazetteer/Drankorian Hinterland/Drankor/Drankor|Drankor]] and never returned.
-```
-
-## Applied changes
-
-- Canonicalized frontmatter layout and added lint state.
-- Added persistent article and simplified name metadata.
-- Moved the existing note-quality/source comment above the title without changing its text.
-
-## Evidence reviewed
-
-- [[Dunmar]] for the dynasty’s dates, Kharsan seat, and end under Dasa.
-- [[Kharsan]] and [[Dasa]] for the administrative center, tombs, and last ruler.
-- [[Timeline of the Aatmaji Dynasty]] and later campaign-linked references for scope; no cross-note contradiction found.
-
-## Status disposition
-
-- No pre-existing status tags required disposition.
+%%^Metadata:names:v1%%
+- {name: Aatmaji, language: Dunmari, pronunciation: AAT-mah-jee, status: documented}
 %%^End%%
