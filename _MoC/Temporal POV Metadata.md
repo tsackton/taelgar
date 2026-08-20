@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Temporal POV Metadata
 
 > [!info] Adopted specification

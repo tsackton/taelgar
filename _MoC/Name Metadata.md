@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Name Metadata
 
 `Metadata:names:v1` identifies the named in-world subject or work described by a note and records subject-specific facts about its names. It complements the ordinary `name`, `aliases`, and `pronunciation` frontmatter fields: frontmatter holds accepted display values, while the name block records language, meaning, derivation, alternate forms, and unresolved or proposed decisions.
