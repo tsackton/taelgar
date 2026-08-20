@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {wPastHome: "Spread across <home:1> and <secondary:1>", defArt: ""}
 tags: [event, status/check/lint]
 typeOf: plague
@@ -27,8 +27,8 @@ Still a lot to confirm here, but the aftereffects in the current day are largely
 %%
 
 %%^Metadata:names:v1%%
-- {name: Cha'mutte's Plague, role: primary, language: Common, pronunciation: title, status: documented, notes: Descriptive event title.}
-- {name: Cha'mutte, role: component, language: unknown, pronunciation: chah-MOOT-teh, status: proposed, notes: Spelling-based three-syllable reading with stress on the marked middle syllable; no exact source-language rule or recorded pronunciation was found.}
+- {name: Cha'mutte's Plague, role: primary, language: Common, status: documented, notes: Descriptive event title.}
+- {name: Cha'mutte, role: component, language: unknown, pronunciation: shah-MUTT, status: documented, notes: Accepted pronunciation recorded on the Cha'mutte subject note.}
 %%^End%%
 
 %%^Metadata:article:v1%%
@@ -41,14 +41,13 @@ povNotes: The plague event is fixed in DR 1545, while the statement about its pr
 
 ### Open findings
 
-- [ ] **warning — name.pronunciation_missing:** chah-MOOT-teh is a cautious three-syllable spelling-based proposal for Cha'mutte, with medial stress. No exact source language, cultural naming rule, or recorded pronunciation was found. If accepted, add an accepted pronunciation to the Cha'mutte subject note and change this component entry to status: documented.
 - [ ] **suggestion — coverage.confirmation:** The shared comment explicitly says the present-day extent remains to be confirmed. [[First Plague]] distinguishes the DR 1545 mist plague from the DR 1059 catastrophe, while [[Great War]] and [[Plaguelands]] support only the broad event and aftermath. A more detailed copy-ready expansion would invent unresolved mechanics or geography, so a human should confirm the boundary and transmission model before adding it.
 
 ### Applied changes
 
-- Canonicalized frontmatter; added the explicit name, POV: 1750, and persistent name/article metadata; and preserved the explicit uncertainty about the modern aftermath.
+- Replaced the earlier spelling-based Cha'mutte proposal with the accepted `shah-MUTT` pronunciation recorded on [[Cha'mutte]].
 
 ### Validated
 
-- The positive dm_notes value is supported by [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Kharsan/Kharsan History|Kharsan History]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Kharsan/Mechanics|Kharsan Mechanics]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Monastery of Bhishma/Text|Bhishma text]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Backstory|Campaign Backstory]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Brainstorming|Campaign Brainstorming]], [[_DM_/_Dunmari Frontier/Pre-Session-63/DM Version - Bhishma Monastery|DM Version - Bhishma Monastery]], [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Table - Plague Echoes|Table - Plague Echoes]], [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Rewritten|Circular Island Rewritten]], [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/adventure_overview|Circular Island adventure overview]], [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming|Desolation brainstorming]], and [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Isingue Arc Brainstorming|Isingue Arc brainstorming]].
+- Multiple linked local-only campaign notes support the existing positive `dm_notes` value.
 %%^End%%

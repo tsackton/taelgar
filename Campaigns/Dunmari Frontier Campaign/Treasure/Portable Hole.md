@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [object]
 typeOf: container
 typeOfAlias: magical container
@@ -26,7 +26,7 @@ Upon receiving the portable hole, the Dunmar Fellowship was warned to follow the
 - Don’t rip the material from the outside or especially from the inside, as any tear can rip apart and eject everything inside into a random other plane. 
 
 %%^Metadata:names:v1%%
-- {name: Dunmar Fellowship's Portable Hole, role: primary, language: Common, pronunciation: title, status: documented, notes: Descriptive title for the party's portable hole.}
+- {name: Dunmar Fellowship's Portable Hole, role: primary, language: Common, status: documented, notes: Descriptive title for the party's portable hole.}
 %%^End%%
 
 %%^Metadata:article:v1%%

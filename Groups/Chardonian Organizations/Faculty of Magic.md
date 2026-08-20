@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>", partOf: ""}
 tags: [group, status/gameupdate/dufr, status/check/lint]
 typeOf: faculty
 partOf: University of Chardon
 name: Faculty of Magic
-pronunciation: title
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
@@ -26,7 +25,7 @@ The Faculty of Magic is intertwined with other institutions of the academic quar
 %%SECRET[v2:433f07c252c48992d96c538a61140b39]%%
 
 %%^Metadata:names:v1%%
-- {name: Faculty of Magic, role: primary, language: Common, pronunciation: title, status: documented, notes: Plain descriptive institutional title.}
+- {name: Faculty of Magic, role: primary, language: Common, status: documented, notes: Plain descriptive institutional title.}
 %%^End%%
 
 %%^Metadata:article:v1%%
@@ -39,13 +38,9 @@ povNotes: The visible overview describes the Faculty before the DR 1749 fallout 
 
 ### Open findings
 
-- [ ] **suggestion — status.gameupdate_historical_snapshot:** The visible overview is deliberately bounded to POV: 1748. [[Session 125 (DuFr)]] later records broad criticism of the University of Chardon for failing to detect Fausto and the Cleansed, while the SECRET block preserves Faculty-specific development material. If status/gameupdate/dufr marked only that later fallout, a human can remove it after accepting the historical snapshot; retain it if the visible Faculty article should incorporate those consequences.
-
-### Applied changes
-
-- Canonicalized frontmatter and added the title pronunciation exception, POV: 1748, and persistent name/article metadata.
+- [ ] **suggestion — status.gameupdate_historical_snapshot:** The visible overview is deliberately bounded to `POV: 1748`. [[Session 125 (DuFr)]] later records broad criticism of the University of Chardon for failing to detect Fausto and the Cleansed, while the SECRET block preserves Faculty-specific development material. If `status/gameupdate/dufr` marked only that later fallout, a human can remove it after accepting the historical snapshot; retain it if the visible Faculty article should incorporate those consequences.
 
 ### Validated
 
-- The positive dm_notes value is supported by [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Power Structures|Power Structures]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49|Session 49 DM source]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Raw NPCs from ChatGPT|Raw NPCs from ChatGPT]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes|Session 125 DM Notes]], and [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - Brainstorming|Session 126 Brainstorming]]. The SECRET block remains local-only.
+- Local-only notes support the existing positive `dm_notes` value. Faculty of Magic is a plain descriptive institutional title and does not need a pronunciation field.
 %%^End%%

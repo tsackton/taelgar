@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [event]
 typeOf: battle
 DR: 1749-08-12
@@ -23,7 +23,7 @@ The [[Rangers]] and the [[Refounded Alliance of Aurbez|Aurbeze]] and [[Lizardfol
 Noticing the deception, the [[Dunmar Fellowship]] raced to intercept the [[Empress of Chaos]], using _Teleport_ to arrive at the vale in time. With a _Force Cage_ protecting the [[Heartroot]] itself, the [[Dunmar Fellowship|Fellowship]] attacked. The battle seemed to be won when the party defeated the [[Empress of Chaos|Empress]], but her [[Chaos Metal]] armor erupted into a cataclysm of elemental chaos, unleashing a devastating attack that disrupted the _Force Cage_ and exposed the vulnerable [[Heartroot]]. To stop it, [[Kenzo]] transformed into a silver dragon, destroying the elemental cataclysm, saving the [[Heartroot]], and then turning on the last of the [[Iron Fang]] survivors, leading a devastating counterattack that shattered the hobgoblin lines.
 
 %%^Metadata:names:v1%%
-- {name: Battle of Heartroot Vale, role: primary, language: Common, pronunciation: title, status: inferred, notes: descriptive title from the battle's location}
+- {name: Battle of Heartroot Vale, role: primary, language: Common, status: inferred, notes: descriptive title from the battle's location}
 %%^End%%
 
 %%^Metadata:article:v1%%

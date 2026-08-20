@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -24,11 +24,17 @@ Apollyon's Tower is a black marble spire on the coast of the [[Circular Island]]
 In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, libraries, and throne room, and carrying away the treasures now catalogued as [[Apollyon's Tower Treasure]].
 %%^End%%
 
-%%SECRET[v2:336d2b6a742073ad1667272cfcf6ff5e]%%
+%% see also:
+[[Last Jade - Adventure Part 3]] 
+[[Circular Island Overview - DM Notes - History]] 
+[[Circular Island Overview - DM notes v2]]
+%%
+
+%%SECRET[v2:37460b525e99cba6a30986fd7729f371]%%
 
 %%^Metadata:names:v1%%
-- {name: "Apollyon's Tower", role: primary, language: Common, pronunciation: inherited from Apollyon, status: inferred, notes: descriptive possessive title; the component pronunciation remains unresolved}
-- {name: Apollyon, role: name component, language: unknown, status: unresolved}
+- {name: "Apollyon's Tower", role: primary, language: Common, status: inferred, notes: Descriptive possessive title.}
+- {name: Apollyon, role: name component, language: Drankorian, pronunciation: ah-pol-LEE-on, status: documented, notes: Accepted pronunciation recorded on the Apollyon subject note.}
 %%^End%%
 
 %%^Metadata:article:v1%%

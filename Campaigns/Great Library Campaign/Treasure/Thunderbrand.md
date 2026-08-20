@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [object]
 typeOf: warhammer
 typeOfAlias: magical warhammer
@@ -20,7 +20,7 @@ POV: 1748
 A powerful magical warhammer, of dwarven make, currently wielded by [[Adrik]]. It was lost in the [[Goldpeak Mines]] under [[Goldpeak Mountain]] for many years, with the magical shield [[Coldguard]], until both were recovered by the [[Silver Tempests]].
 
 %%^Metadata:names:v1%%
-- {name: Thunderbrand, role: primary, language: Common, pronunciation: obvious, status: inferred, notes: descriptive Common compound}
+- {name: Thunderbrand, role: primary, language: Common, status: inferred, notes: descriptive Common compound}
 %%^End%%
 
 %%^Metadata:article:v1%%

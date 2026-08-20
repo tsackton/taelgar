@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person, status/check/lint]
 species: unknown
 name: Prisoner in the 27th Room
@@ -15,7 +15,6 @@ dm_notes: none
 POV: 1740
 ---
 # Prisoner in the 27th Room
-*(title)*
 >[!info]+ Biographical Info  
 > An unknown  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -42,9 +41,9 @@ In DR 1740, [[Tollen Misfits|five travelers]] entered the central prison and tol
 
 %%^Metadata:names:v1%%
 - {name: Prisoner in the 27th Room, role: primary, language: Common, status: documented, notes: Descriptive title; the being's true name was never spoken.}
-- {name: Child, role: alias, language: Common, pronunciation: title, status: documented, notes: Name used by Lord Revel Beginning.}
-- {name: Dreamer, role: alias, language: Common, pronunciation: title, status: documented, notes: Descriptive alias.}
-- {name: Thirst, role: alias, language: Common, pronunciation: title, status: documented, notes: Name used by the Arithrimos Lamperum.}
+- {name: Child, role: alias, language: Common, status: documented, notes: Name used by Lord Revel Beginning.}
+- {name: Dreamer, role: alias, language: Common, status: documented, notes: Descriptive alias.}
+- {name: Thirst, role: alias, language: Common, status: documented, notes: Name used by the Arithrimos Lamperum.}
 %%^End%%
 
 %%^Metadata:article:v1%%
@@ -57,14 +56,9 @@ povNotes: The history culminates in the prisoner's release on DR 1740-10-07. Its
 
 ### Open findings
 
-- [ ] **warning — whereabouts.incomplete_entry:** The final whereabouts row begins on DR 1740-10-07 but has no location, even though the article says the prisoner traveled beyond the universe. Copy-ready replacement: - {type: away, start: 1740-10-07, location: beyond the Multiverse}.
-- [ ] **suggestion — dm.owner_legacy_normalized:** The invalid legacy value dm_owner: schwartz was normalized to the accepted registry value dm_owner: mike. Confirm that schwartz was intended to identify Mike; otherwise replace it with the correct accepted owner value.
-
-### Applied changes
-
-- Canonicalized frontmatter; added the title pronunciation exception, knownTo: [feywild], POV: 1740, and persistent name/article metadata; normalized the DM-owner value; and corrected prisoned plus the past-present-future list.
+- [ ] **suggestion — dm.owner_legacy_normalized:** The invalid legacy value `dm_owner: schwartz` was previously normalized to the accepted registry value `dm_owner: mike`. Confirm that Schwartz was intended to identify Mike; otherwise replace it with the correct accepted owner value.
 
 ### Validated
 
-- The history is complete through the prisoner's DR 1740-10-07 release and treats the later destination as descriptive free text, which is permitted in whereabouts.
+- The history is complete through the prisoner's DR 1740-10-07 release and treats the later destination as permitted descriptive free text in `whereabouts`.
 %%^End%%

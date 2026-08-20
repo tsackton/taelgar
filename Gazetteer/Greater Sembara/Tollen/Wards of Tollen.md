@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [background]
 name: Wards of Tollen
 dm_owner: tim
@@ -54,8 +54,4 @@ POV: 1740s
 %%^Metadata:article:v1%%
 mode: city district index
 povNotes: "Accuracy range: the DR 1740s campaign era. The list presents Tollen's current ward organization and character; later urban development could change individual descriptions or boundaries."
-%%^End%%
-
-%%^Metadata:names:v1%%
-- {name: Wards of Tollen, role: primary, language: Common, pronunciation: title, status: inferred, notes: descriptive index title}
 %%^End%%

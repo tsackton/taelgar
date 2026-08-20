@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><( by )author:nx>"}
 tags: [object]
 typeOf: book
@@ -9,7 +9,6 @@ typeOfAlias: religious poem
 ancestry: Mos Numena
 written: "during the [[History of the Drankorian Empire|Drankorian Era]]"
 name: Blossom of the Eightfold Light
-pronunciation: title
 knownTo: []
 dm_owner: none
 dm_notes: none
@@ -23,7 +22,7 @@ POV: timeless
 *Blossom of the Eightfold Light* is an ancient [[Mos Numena|Mos Numenan]] lyrical poem about the [[Divine Presence]], the [[Plane of Creation]], and the [[Mos Numena Pantheon|Eight Divines]]. 
 
 %%^Metadata:names:v1%%
-- {name: Blossom of the Eightfold Light, role: primary, language: Common, pronunciation: title, status: documented, notes: Translated descriptive work title.}
+- {name: Blossom of the Eightfold Light, role: primary, language: Common, status: documented, notes: Translated descriptive work title.}
 %%^End%%
 
 %%^Metadata:article:v1%%

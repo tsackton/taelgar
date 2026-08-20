@@ -190,7 +190,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(object), "campaign.audience_unclassified"
   end
 
-  def test_pronunciation_requires_contextual_disposition_for_named_subjects
+  def test_pronunciation_requires_an_actual_value_and_uses_absence_for_contextual_exemptions
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     missing = validator.validate_text(
@@ -205,7 +205,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "Campaigns/Great Library Campaign/Handouts/Letter.md",
       "---\ntags: [source]\ncampaign: Great Library\n---\n# Letter\n"
     )
-    obvious = validator.validate_text(
+    placeholder = validator.validate_text(
       "People/Thomas Hawke.md",
       "---\ntags: [person]\nspecies: human\nknownTo: []\n---\n# Thomas Hawke\n\n%%^Metadata:names:v1%%\n- {name: Thomas Hawke, language: Common, pronunciation: obvious}\n%%^End%%\n"
     )
@@ -213,7 +213,21 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes rule_ids(missing), "pronunciation.missing_or_exception"
     refute_includes rule_ids(present), "pronunciation.missing_or_exception"
     refute_includes rule_ids(source), "pronunciation.missing_or_exception"
-    refute_includes rule_ids(obvious), "pronunciation.missing_or_exception"
+    assert_includes rule_ids(placeholder), "pronunciation.missing_or_exception"
+    assert_includes rule_ids(placeholder), "metadata.names_pronunciation_placeholder"
+  end
+
+  def test_name_blocks_are_forbidden_on_meta_and_discouraged_on_nonreligious_background_notes
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    block = "%%^Metadata:names:v1%%\n- {name: Example, language: Common}\n%%^End%%\n"
+    meta = validator.validate_text("Meta/Example.md", "---\ntags: [meta]\n---\n# Example\n\n#{block}")
+    background = validator.validate_text("Background/Example.md", "---\ntags: [background]\n---\n# Example\n\n#{block}")
+    religion = validator.validate_text("Religion/Example.md", "---\ntags: [background, religion/example]\n---\n# Example\n\n#{block}")
+
+    assert_includes rule_ids(meta), "metadata.names_forbidden_for_meta"
+    assert_includes rule_ids(background), "metadata.names_unnecessary_for_background"
+    refute_includes rule_ids(religion), "metadata.names_unnecessary_for_background"
   end
 
   def test_trial_metadata_and_lint_blocks_are_recognized_and_validated
@@ -351,7 +365,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     assert_includes rule_ids(report), "lint.version_outdated"
-    assert_equal "2.4", report.fetch("validatorVersion")
+    assert_equal "2.5", report.fetch("validatorVersion")
   end
 
   def test_completed_lints_require_scalar_frontmatter_pov_and_article_notes

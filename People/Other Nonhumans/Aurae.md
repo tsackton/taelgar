@@ -2,12 +2,14 @@
 headerVersion: 2023.11.25
 tags: [person]
 name: Aurae
+pronunciation: OUR-ray or ARR-ray
 species: construct
 gender: enby
 dm_owner: none
 dm_notes: none
 ---
 # Aurae
+*(OUR-ray or ARR-ray)*
 >[!info]+ Biographical Info  
 > A construct (they/them)
 

@@ -16,7 +16,7 @@ Some brainstorming and ideas:
 - `dm_notes`: String indicating whether DM notes exist. Acceptable values: `important`, `color`, `none`. `important` and `color` are both positive indications; linting does not adjudicate between them. A `%%SECRET[v2:01d09d28f3c9b99beed3e3ecc2487a5f]%%` block can account for hidden material and support `dm_notes: none` when no additional unlinked DM material is found. See: [[Note Status]].
 - `name`: Canonical page name used by display code. If omitted, the file name is used. 
 - `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Useful for search, display, and metadata matching. Obsidian bare wikilinks resolve filenames, not frontmatter aliases.
-- `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations may be recorded in the persistent block described by [[Name Metadata]].
+- `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). The value must be an actual pronunciation. Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations may be recorded in the persistent block described by [[Name Metadata]]. An obvious name, descriptive title, or other contextual exemption omits the field rather than using `obvious`, `title`, `meta`, or `inherited from ...` as a value.
 - `image`: Lead image filename (and optionally path) associated with the page (e.g. `egnir-small.png`). Not used by any core header generation functions but very useful in data view tables, i.e. of items.
 
 ### Classification and Type Fields

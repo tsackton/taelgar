@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -10,7 +10,6 @@ campaignInfo:
 born: 1691
 gender: male
 name: Kaeso
-pronunciation: KAI-soh
 affiliations: [Shakun Mystai]
 whereabouts:
   - {type: home, end: 1712, location: Chardon}
@@ -109,14 +108,14 @@ povNotes: The visible biography is a late-1748 to 1749 snapshot. Kaeso's whereab
 
 ### Open findings
 
-- [ ] **warning — name.pronunciation_missing:** KAI-soh is the preferred analogue-informed proposal. [[Languages]] maps Chardonian to Latin and Italian; the proposal gives ae its Latinate diphthong, keeps the opening consonant hard, and uses two syllables. KAY-zoh is a plausible more Italianized alternative if intervocalic s is voiced. If the preferred form is accepted, copy pronunciation: KAI-soh and change the name entry to status: documented.
-- [ ] **suggestion — coverage.campaign_update:** The visible biography and campaign metadata do not yet consolidate the later Mawar stay and DuFr scrying material already listed in the shared review comment. Copy-ready visible candidate from [[Mawar Adventures Episode 05]]: By DR 1749, Kaeso was staying in [[Hamri]], where he had warned local leaders about Chardon's exploitation of magic and the dangers of chalyte. The exact date for the later February scrying remains unresolved, so no additional campaignInfo row should be copied until it is confirmed.
+- [ ] **warning — name.pronunciation_missing:** `KAI-soh` is the preferred analogue-informed proposal. [[Languages]] maps Chardonian to Latin and Italian; Classical Latin reads `ae` as a diphthong, keeps the opening consonant hard, and does not voice intervocalic `s`. `KAY-zoh` is a plausible more Italianized alternative. If `KAI-soh` is accepted, copy `pronunciation: KAI-soh` and change the name entry to `status: documented`.
+- [ ] **suggestion — coverage.campaign_update:** The visible biography and campaign metadata do not yet consolidate the later Mawar stay and Dunmar Frontier scrying material already listed in the shared review comment. Copy-ready visible candidate from [[Mawar Adventures Episode 05]]: By DR 1749, Kaeso was staying in [[Hamri]], where he had warned local leaders about Chardon's exploitation of magic and the dangers of chalyte. The exact date for the later February scrying remains unresolved, so no additional `campaignInfo` row should be copied until it is confirmed.
 
 ### Applied changes
 
-- Canonicalized frontmatter; normalized knownTo and campaignInfo to registered mawar and dufr codes; moved the Campaign:dufr block below the complete header callout; and added POV: 1749 plus persistent proposed-name/article metadata.
+- Removed the unaccepted pronunciation proposal from frontmatter; it remains correctly marked `status: proposed` in the persistent name block.
 
 ### Validated
 
-- The existing positive dm_notes value is supported by [[_DM_/Timelines/NPC Travels|NPC Travels]], [[_DM_/Timelines/Old Timeline (Table)|Old Timeline]], [[_DM_/Timelines/Unified Timeline From OneNote|Unified Timeline From OneNote]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart|Chardon NPC Flowchart]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48|Session 48 DM source]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49|Session 49 DM source]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Hralgar (Session 62- )/Session 62/Session 62 1|Session 62 DM source]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime|Session 32 Downtime]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part III Saving the Te'kula/Arrival|Elderwood Arrival]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Calendar Eras - DuFr Player Background|Calendar Eras]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background|Dunmar Campaign Dates]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Kenzo (OneNote)|Kenzo OneNote]], [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon|Events Since Chardon]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 124 - DM Notes|Session 124 DM Notes]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes|Session 125 DM Notes]], and [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Time Skip - Bullet Points|Time Skip - Bullet Points]]. The existing cleanup status tags remain justified by the unintegrated material.
+- The existing positive `dm_notes` value is supported by linked local-only notes. The cleanup tags remain justified by the unintegrated material.
 %%^End%%

@@ -378,6 +378,33 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal COMPLETED_AT, result.fetch("completedAt")
   end
 
+  def test_finalizer_replaces_old_report_containing_copy_ready_block_markers
+    root = make_vault
+    path = "Meta/Open.md"
+    text = meta_note("Open", version: "2.2", open: true).sub(
+      "- [ ] **Suggestion — old.review:** Old review item.",
+      "- [ ] **Suggestion — old.review:** Copy `%%^Campaign:dufr%% Example. %%^End%%`."
+    )
+    write_note(root, path, text)
+    manifest, manifest_sha = manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    decision["outcome"] = "open"
+    decision["lintReport"] = <<~REPORT.strip
+      %%^Lint%%
+      - [ ] **Suggestion — review.current:** Human review is still required.
+      %%^End%%
+    REPORT
+
+    finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    result = File.read(File.join(root, path))
+
+    refute_includes result, "old.review"
+    refute_includes result, "Campaign:dufr"
+    assert_equal 1, result.scan("%%^Lint%%").length
+    assert_includes result, "review.current"
+  end
+
   def test_finalizer_rejects_a_file_changed_after_snapshot
     root = make_vault
     write_note(root, "Meta/Clean.md", meta_note("Clean", version: "2.2"))
@@ -449,14 +476,14 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       #{lint_fields}tags: [person]
       name: #{name}
       species: human
-      pronunciation: obvious
+      pronunciation: NAYM
       knownTo: []
       POV: 1750
       ---
       # #{name}
 
       %%^Metadata:names:v1%%
-      - {name: #{name}, language: Common, pronunciation: obvious}
+      - {name: #{name}, language: Common, pronunciation: NAYM}
       %%^End%%
 
       %%^Metadata:article:v1%%

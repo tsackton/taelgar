@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [source]
 campaign: Dunmar Frontier
 name: Two Letters from Stormcaller Tower
@@ -15,7 +15,7 @@ POV: 1059
 "I hope this message finds you alive. You all must flee west as quickly as possible. There is no time to worry about [[Hralgar]]. Head west: [[Chardon]] may be safe. A plague of great magical power has struck, the Emperor is already dead, several Magistri teleported to safety but where they have gone is unknown. [[Drankor]] has fallen and the east is in chaos. I fear the danger is spreading quickly, and this may be the end of us all."
 
 %%^Metadata:names:v1%%
-- {name: Two Letters from Stormcaller Tower, role: primary, language: Common, pronunciation: title, status: documented, notes: Descriptive source-compilation title.}
+- {name: Two Letters from Stormcaller Tower, role: primary, language: Common, status: documented, notes: Descriptive source-compilation title.}
 %%^End%%
 
 %%^Metadata:article:v1%%

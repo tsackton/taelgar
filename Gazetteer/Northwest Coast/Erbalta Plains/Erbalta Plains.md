@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: grassland
 name: Erbalta Plains
@@ -77,13 +77,9 @@ povNotes: Physical geography is broadly stable, but political-control claims des
 
 ### Open findings
 
-- [ ] **suggestion — status.gameupdate_historical_snapshot:** The article now explicitly uses POV: 1740s, under which its political-control paragraph remains a valid historical snapshot. [[Great Library Session Notes - Arc 5]] establishes that by DR 1752 the Northern Provinces had split from the Chardonian Empire and Airion's Floating Tower had returned to the plains. If the historical snapshot is intended, a human can remove status/gameupdate/gl. If this should instead become a current DR 1752 article, change POV to 1752 and copy: By DR 1752, the Northern Provinces had split from the Chardonian Empire, leaving the empire's claim and effective control over the Erbalta Plains unsettled. Airion's Floating Tower had also returned to the plains.
-
-### Applied changes
-
-- Canonicalized frontmatter; added the explicit name, POV: 1740s, and persistent name/article metadata; and corrected Erbalata, Summers and long, relative dense, and oltara without changing the provisional etymology.
+- [ ] **suggestion — status.gameupdate_historical_snapshot:** The article explicitly uses `POV: 1740s`, under which its political-control paragraph remains a valid historical snapshot. [[Great Library Session Notes - Arc 5]] establishes that by DR 1752 the Northern Provinces had split from the Chardonian Empire and Airion's Floating Tower had returned to the plains. If the historical snapshot is intended, a human can remove `status/gameupdate/gl`. If this should instead become a current DR 1752 article, change `POV` to `1752` and copy: By DR 1752, the Northern Provinces had split from the Chardonian Empire, leaving the empire's claim and effective control over the Erbalta Plains unsettled. Airion's Floating Tower had also returned to the plains.
 
 ### Validated
 
-- The physical geography is stable. The in-note ChatGPT etymology remains explicitly provisional Campaign:none material and is not treated as accepted canon.
+- The physical geography is stable. The in-note ChatGPT etymology remains explicitly provisional `Campaign:none` material and is not treated as accepted canon.
 %%^End%%
