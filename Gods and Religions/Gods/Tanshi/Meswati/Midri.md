@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [power, religion/tanshi]
 typeOf: tanshi
 name: Midri
@@ -10,7 +10,7 @@ affiliations:
   - {org: Meswati, type: primary}
 dm_owner: none
 dm_notes: none
-POV: post-Great-War
+POV: modern
 ---
 # Midri
 *(MID-ree)*
@@ -30,7 +30,6 @@ In DR 1748, [[Delwath]], [[Aristaea]], and [[Iascaire]] freed Midri and the othe
 - {name: Midri, role: primary, language: Deno'qai, pronunciation: MID-ree, status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: divine-power reference
-povNotes: The powers, seasonal associations, and Great War history are useful throughout the post-Great-War era. The DR 1748-10-15 date block records Midri's later release and return to the Ko'zula.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; Midri's powers, seasonal associations, and Great War history apply across the era, while the DR 1748-10-15 date block records the later release and return to the Ko'zula.
 %%^End%%

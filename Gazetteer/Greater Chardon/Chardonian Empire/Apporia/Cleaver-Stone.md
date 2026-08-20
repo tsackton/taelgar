@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 displayDefaults: {wSecondary: "Connected to <secondary:1>"}
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: planar link
@@ -13,7 +13,7 @@ whereabouts:
   - {type: secondary, location: Cairn Dor}
 dm_owner: none
 dm_notes: none
-POV: "1748"
+POV: 1748
 ---
 # Cleaver-Stone
 >[!info]+ Information  
@@ -26,20 +26,18 @@ An ancient trilithic portal-stone hidden in the uplands of the [[Kedron]] river,
 Significant in GL Arc 5, see [[GL - Session 62 - DM Notes]], [[Great Library Session Notes - Arc 5]]
 %%
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: DR 1748. Location reference for the portal around the Silver Tempests' expedition; the visible article does not state its later locked condition."
+%%^Metadata:names:v1%%
+- {name: Cleaver-Stone, role: primary, language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 snapshot before the Silver Tempests locked the portal later that year; the visible article does not describe its later condition.
 %%^End%%
 
 %%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
+## Taelgar note lint
 
 ### Open findings
-- [ ] **Warning — status.disposition:** Existing status `status/gameupdate/gl` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
-- [ ] **Warning — coverage.later_invention:** Great Library Arc 5 records that the Silver Tempests locked the portal and disabled the soul compass in DR 1748. Candidate: add a DR 1748 dated passage stating that the portal was locked after the Silver Tempests' expedition.
+
+- [ ] **Warning — coverage.later_material_change:** [[Great Library Session Notes - Arc 5]] records that on DR 1748-09-20 the Silver Tempests used Drankorian instructions to lock the Cleaver-Stone portal. The visible article still describes an unqualified active connection. Human choice: add a dated passage such as `%%^Date:1748-09-20%% In DR 1748, the Silver Tempests locked the portal after their expedition into Cairn Dor. %%^End%%`, defer the update while retaining `status/gameupdate/gl`, or intentionally preserve the pre-lock snapshot and disposition that status.
 %%^End%%

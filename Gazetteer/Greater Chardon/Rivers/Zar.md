@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/check/name, status/check/lint]
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Zar
@@ -10,7 +10,7 @@ pronunciation: ZAR
 whereabouts: Coastlands
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Zar
 *(ZAR)*
@@ -20,11 +20,9 @@ POV: 1740s
 
 One of the major rivers of the [[Coastlands]], rising from the [[Beacon Hills]] and flowing west to the [[Endless Ocean]].
 
-%%
-Source ([[Beacon Hills]]): 12.07.A23
-Outlet ([[Gulf of Chardon]]): 12.06.I11
-Name from the Northros for boundary (Zar)
-%%
+%%^Metadata:names:v1%%
+- {name: Zar, role: primary, language: Northros, meaning: boundary, status: documented}
+%%^End%%
 
 %%^Metadata:map:v1%%
 locations:
@@ -32,17 +30,6 @@ locations:
   - {role: outlet, feature: Gulf of Chardon, map: world, locator: "12.06.I11"}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Zar; the visible description is a current-era reference, while established history and later developments may remain incomplete."
-%%^End%%
-
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
-
-### Open findings
-- [ ] **Warning — status.disposition:** Existing status `status/check/name` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the river's course from the Beacon Hills to the Endless Ocean is stable.
 %%^End%%

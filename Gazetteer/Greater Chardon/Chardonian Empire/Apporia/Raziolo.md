@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
+tags: [place]
 typeOf: realm
 typeOfAlias: province
 name: Raziolo
@@ -10,9 +10,9 @@ pronunciation: ra-TSYO-lo
 whereabouts:
   - {type: primary, location: Chardonian Empire, startFilter: r}
   - {type: secondary, location: Apporia, startFilter: r}
-dm_owner: tim
+dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Raziolo
 *(ra-TSYO-lo)*
@@ -22,7 +22,7 @@ POV: 1740s
 
 Raziolo is one of the three Apporian provinces on the northern coast of [[Apporia|the Apporian Peninsula]], occupying the flat coastal plain on the northern tip of the peninsula. It is a region of hot, dry summers and mild winters, where fields of winter wheat give way to brown earth and olive groves. 
 
-Raziolo was not overrun during the [[War of the Dark Rift]], was the last of the Apporian provinces to join the [[Chardonian Empire]], and still retains an independent, autonomous streak. 
+Raziolo, unlike the other Apporian provinces, was not overrun during the [[War of the Dark Rift]]. It was the last to join the [[Chardonian Empire]], and still retains an independent, autonomous streak. 
 
 %%^Campaign:none%%
 
@@ -48,16 +48,10 @@ Main port has a big agricultural market, has the most traders. Would be location
 
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: political-geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Raziolo; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: Raziolo, role: primary, language: Chardonian, pronunciation: ra-TSYO-lo, status: documented}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Peninsula NPC Notes]], [[Session 98 - DM Notes]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the present-day province, climate, and autonomous character are framed in the DR 1700s, while its accession to the Chardonian Empire is not precisely dated.
 %%^End%%
