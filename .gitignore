@@ -20,6 +20,7 @@ assets/unshared/
 .agents/*
 !.agents/skills/
 !.agents/skills/**
+.agents/skills/.DS_Store
 
 !.obsidian
 .obsidian/*

@@ -62,6 +62,7 @@ Plain-English titles, meta labels, and genuinely obvious ordinary names do not n
 - Keep one dictionary per name form.
 - Edit the existing entry when correcting evidence about the same form; do not append a second copy.
 - Add an entry when the subject genuinely has another historical, translated, disputed, or alternate form.
+- Preserve established name-specific meaning, derivation, naming agent, and historical circumstance or timing in the appropriate fields or `notes`; a minimal entry omits unsupported or redundant fields but does not discard documented naming context.
 - Preserve uncertainty with `status` and `notes`; do not resolve competing etymologies silently.
 - Whenever a name-block entry has a pronunciation and frontmatter either has none or has a different value, use `notes` to record the block value's source or derivation. A matching frontmatter pronunciation needs no separate source note.
 - When accepting a proposal, update its status, copy an accepted primary pronunciation to frontmatter, and resolve the corresponding lint item.

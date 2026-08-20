@@ -188,9 +188,9 @@ Comments belong below the note's header block, never between frontmatter and the
 title or above an immediately following information/header callout. A linter may
 move an unambiguously misplaced comment below that header only if it preserves the
 comment text exactly. Other comments stay in place unless an obvious rearrangement
-is proposed for human review. Persistent `Metadata:*` blocks belong at the end of
-the note, after article text and comments and immediately before a replaceable
-`Lint` block when one is present.
+is proposed for human review. Persistent `Metadata:*` and `povNotes:v1` blocks
+belong at the end of the note, after article text and comments and immediately
+before a replaceable `Lint` block when one is present.
 
 For substantial DM or meta material, use:
 

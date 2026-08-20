@@ -32,6 +32,8 @@ POV: modern
 
 `modern` does not assert that every sentence is accurate throughout the entire era. A modern article may still have approximate, one-sided, event-bounded, or discontinuous coverage recorded in `povNotes`.
 
+That qualification does not make `modern` appropriate when a central undated claim is a time-sensitive present state. A specific living person's current leadership, office, whereabouts, age or life stage, or active relationship normally requires a supported decade or year unless the evidence establishes that the state is broadly stable across the modern era. `povNotes` explains the chosen viewpoint's limits; it does not compensate for a viewpoint that is too broad.
+
 ### Decade
 
 ```yaml
