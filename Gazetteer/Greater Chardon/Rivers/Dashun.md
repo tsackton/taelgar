@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-19T16:23:04-04:00"
 lintVersion: "2.3"
-tags: [place, status/check/name, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Dashun
@@ -33,20 +33,4 @@ locations:
 %%^Metadata:article:v1%%
 mode: geographic reference
 povNotes: "Accuracy range: broadly the DR 1700s. The note describes a stable river course and does not depend on a campaign-era event or changing political condition."
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Open findings
-
-- [ ] **suggestion — `status.name_review_disposition`:** The pronunciation, language, meaning, and source form are now documented, so `status/check/name` appears to have no remaining work. A human may remove `status/check/name`; the linter is not authorized to remove non-lint status tags.
-
-### Applied changes
-
-- Added the explicit name, `POV: 1700s`, current article/name metadata, and changed both `13.07.*` map locators from `unregistered` to the required `world` map.
-
-### Validated
-
-- The source and outlet coordinates now satisfy the world-hex rule, and the stable geographic description fits the broad DR 1700s viewpoint.
 %%^End%%

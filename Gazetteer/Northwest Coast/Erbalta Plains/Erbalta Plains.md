@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl]
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
+tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: grassland
-whereabouts: 
-- {type: secondary, location: Northern Provinces }
-- {type: primary, location: Northwest Coast }
-dm_notes: none
-dm_owner: none
+name: Erbalta Plains
 pronunciation: air-BAWL-tuh
+whereabouts:
+  - {type: secondary, location: Northern Provinces}
+  - {type: primary, location: Northwest Coast}
+dm_owner: none
+dm_notes: none
+POV: 1740s
 ---
 # The Erbalta Plains
 *(air-BAWL-tuh)*
@@ -23,11 +27,11 @@ The Erbalta Plains are too dry for extensive agriculture outside of irrigated fi
 
 ## Borders
 
-The Erbalata Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[Chalyte Hills]]. 
+The Erbalta Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[Chalyte Hills]].
 
 ## Climate
 
-Isolated from the moderating influence of the [[Endless Ocean]] by the rugged [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers and long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls along the main river provide the brief growing season that sustains the region’s hardy grasslands and scattered riparian groves.
+Isolated from the moderating influence of the [[Endless Ocean]] by the rugged [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers are long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls along the main river provide the brief growing season that sustains the region’s hardy grasslands and scattered riparian groves.
 
 %%^Campaign:none%%
 
@@ -43,7 +47,7 @@ real world analogs, although generally the Erbalta Plains are slightly warmer:
 
 Northern part - north of Voltara - is largely unsettled and was the home base of [[Grumella's Horde]]. They were defeated in the Great Library campaign ([[Grumella's War]]), potentially leaving a power vacuum. This is rugged steppe, and more rugged to the northeast. Lots of little canyons, etc. Dangerous and not patrolled. 
 
-Southern part - herders and (some) farmers, the Voltara hinterlands. But not densely settled. Also supports relative dense centaur populations. Safer; the road south is heavily patrolled; oltara is economically based around the chalyte trade, and probably is a net importer of food from elsewhere in the Empire. Most goods travel south to Lake Valandros overland, and then to Chardon by riverboat. The main river in the plains is not reliably navigable by anything large enough to move substantial goods. 
+Southern part - herders and (some) farmers, the Voltara hinterlands. But not densely settled. Also supports relatively dense centaur populations. Safer; the road south is heavily patrolled; Voltara is economically based around the chalyte trade, and probably is a net importer of food from elsewhere in the Empire. Most goods travel south to Lake Valandros overland, and then to Chardon by riverboat. The main river in the plains is not reliably navigable by anything large enough to move substantial goods.
 
 ### Etymology
 
@@ -57,4 +61,29 @@ Southern part - herders and (some) farmers, the Voltara hinterlands. But not den
 |4|**Erbalta** (vernacular Drankorian)|/air-**BAHL**-tuh/|In many Romance lines initial _h-_ became silent and the vowel fronted (_herba_ → _erba_, “grass” in modern Italian) ([Collins Dictionary](https://www.collinsdictionary.com/dictionary/italian-english/erba?utm_source=chatgpt.com "English Translation of “ERBA” \| Collins Italian-English Dictionary")); the same loss yields **Er-** here. Unstressed final _-a_ shortens to /uh/.|
 |5|**Erbalta Plains** (Common-tongue trade maps)|/air-**BAWL**-tuh PLAYNZ/|Traders keep the local sound **Er-** and add a redundant Common generic “Plains,” just as “Sahara Desert” repeats the meaning of _ṣaḥrāʾ_ “desert” ([Ancestry](https://www.ancestry.com/first-name-meaning/alta?utm_source=chatgpt.com "Alta : Meaning and Origin of First Name - Ancestry.com")). Frontier English eyes round the middle vowel to /aw/ by analogy with “bald, brawl.”|
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Erbalta Plains, role: primary, language: Drankorian, pronunciation: air-BAWL-tuh, status: documented, notes: Recorded pronunciation; the in-note etymology is explicitly provisional and is not treated as accepted canon.}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: Physical geography is broadly stable, but political-control claims describe the late-1740s setting and may have been overtaken by Great Library campaign events.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **suggestion — status.gameupdate_historical_snapshot:** The article now explicitly uses POV: 1740s, under which its political-control paragraph remains a valid historical snapshot. [[Great Library Session Notes - Arc 5]] establishes that by DR 1752 the Northern Provinces had split from the Chardonian Empire and Airion's Floating Tower had returned to the plains. If the historical snapshot is intended, a human can remove status/gameupdate/gl. If this should instead become a current DR 1752 article, change POV to 1752 and copy: By DR 1752, the Northern Provinces had split from the Chardonian Empire, leaving the empire's claim and effective control over the Erbalta Plains unsettled. Airion's Floating Tower had also returned to the plains.
+
+### Applied changes
+
+- Canonicalized frontmatter; added the explicit name, POV: 1740s, and persistent name/article metadata; and corrected Erbalata, Summers and long, relative dense, and oltara without changing the provisional etymology.
+
+### Validated
+
+- The physical geography is stable. The in-note ChatGPT etymology remains explicitly provisional Campaign:none material and is not treated as accepted canon.
 %%^End%%

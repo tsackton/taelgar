@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
 displayDefaults: {defArt: the}
+tags: [background]
+name: Energy Realms
+pronunciation: title
 dm_owner: tim
 dm_notes: none
+POV: 1748
 ---
 # The Energy Realms
 
-In the [[Standard Multiversal Model]], made famous by the [[Faculty of Metaphysics]] at the [[University of Chardon]], the Energy Realms are the name for the collection of planes associated with the fundamental energies of the multiverse. The traditional model, popularized by [[Julius Ceptuso]], postulates five fundamental energies of matter, Earth, Air, Fire, Water, and Magic, each associated with an Energy Realm. Although modern metaphysical cosmologists typically consider Magic to be a fundamental multiversal force and do not include the Plane of Magic within the Energy Realms, the five fundamental energies retain a hold on the population conception. 
+In the [[Standard Multiversal Model]], made famous by the [[Faculty of Metaphysics]] at the [[University of Chardon]], the Energy Realms are the name for the collection of planes associated with the fundamental energies of the multiverse. The traditional model, popularized by [[Julius Ceptuso]], postulates five fundamental energies of matter, Earth, Air, Fire, Water, and Magic, each associated with an Energy Realm. Although modern metaphysical cosmologists typically consider Magic to be a fundamental multiversal force and do not include the Plane of Magic within the Energy Realms, the five fundamental energies retain a hold on the popular conception.
 
-This traditional model postulates there are only four (or five, if the Plane of Magic is included) Energy Realms. The strongest argument for this claim comes from the seminal work of the cosmological philosopher [[Lyrannis of Aquilona]], [[On Elemental Forms]], who exhaustively cataloged folklore, myth, and observation considering the nature of elemental beings, with a focus on the sentient and powerful genies. She conclusively shows that the vast majority of creatures with a "pure elemental essence" are associated Fire, Water, Earth, or Air. 
+This traditional model postulates there are only four (or five, if the Plane of Magic is included) Energy Realms. The strongest argument for this claim comes from the seminal work of the cosmological philosopher [[Lyrannis of Aquilona]], [[On Elemental Forms]], who exhaustively cataloged folklore, myth, and observation considering the nature of elemental beings, with a focus on the sentient and powerful genies. She conclusively shows that the vast majority of creatures with a "pure elemental essence" are associated with Fire, Water, Earth, or Air.
 ## Alternate Conceptions
 
 ### Airion's Compound Elemental Planes
@@ -32,7 +37,7 @@ Dwarven metaphysicists traditionally postulate a model of the Energy Realms base
 In this model, the essence of Spirit is associated with the [[Heart of the Mountain]], while the other six energies associated with specific Energy Realms, implying the existence of an [[Elemental Plane of Metal]]. While [[Lyrannis of Aquilona]] dismisses this, citing a lack of evidence of pure metal elementals, empirical metaphysicists have documented descriptions of places -- assumed to be part of the [[Elemental Plane of Earth]] -- that resemble massive twisted caverns of iron, which some theorists believe could instead be the mysterious [[Elemental Plane of Metal]]. Others claim that what the dwarves call the [[Elemental Plane of Metal]] is in fact Airion's [[Ironroot]] and [[Pyreforge]], two of the Compound Realms of the Elemental Plane of Earth. 
 ### The Eightfold Essences
 
-The lizardfolk mystic [[Aznoke|Aznoké]], in her epic poem _[[The Endless Currents]]_, described the Eightfold Essences as the combination of the physical energies (Fire, Air, Earth, Water), the fundamental energies (Magic and Spirit), and the cyclical energies (Life and Death). She speaks of the [[Positive Energy Plane|Plane of Blossoming Currents]] as the wellspring of vitality, where life flows into being like a river surging forth from its source, representing the cyclical energy of Life. Its counterpart, the [[Negative Energy Plane|Plane of Still Waters]], is a tranquil, shadowed realm where the currents of life slow and pool, allowing death to cleanse and prepare for renewal, representing the cyclical energy of Death. While Aznoké's teachings emphasize the unity of these forces within the natural cycle, some scholars in the[[ Faculty of Metaphysics]] have speculated that they correspond to the hypothesized [[Positive Energy Plane]] and [[Negative Energy Plane]], which no planar traveler has yet reached and returned from safely.
+The lizardfolk mystic [[Aznoke|Aznoké]], in her epic poem _[[The Endless Currents]]_, described the Eightfold Essences as the combination of the physical energies (Fire, Air, Earth, Water), the fundamental energies (Magic and Spirit), and the cyclical energies (Life and Death). She speaks of the [[Positive Energy Plane|Plane of Blossoming Currents]] as the wellspring of vitality, where life flows into being like a river surging forth from its source, representing the cyclical energy of Life. Its counterpart, the [[Negative Energy Plane|Plane of Still Waters]], is a tranquil, shadowed realm where the currents of life slow and pool, allowing death to cleanse and prepare for renewal, representing the cyclical energy of Death. While Aznoké's teachings emphasize the unity of these forces within the natural cycle, some scholars in the [[Faculty of Metaphysics]] have speculated that they correspond to the hypothesized [[Positive Energy Plane]] and [[Negative Energy Plane]], which no planar traveler has yet reached and returned from safely.
 
 %%^Campaign:none%%
 
@@ -60,3 +65,12 @@ dv.table(
 %%^End%%
 
 %%SECRET[v2:e27c0eb910256782df4e49eb2c4f30b2]%%
+
+%%^Metadata:names:v1%%
+- {name: Energy Realms, role: primary, language: Common, pronunciation: title, status: documented, notes: Descriptive scholarly category.}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: scholarly cosmology overview
+povNotes: Presents competing models current in the 1740s-1750s. References to recent rediscovery of Airion put it after DR 1747 or so when the Great Library campaign recovered the [[Elemental Scrolls of Airion]].
+%%^End%%

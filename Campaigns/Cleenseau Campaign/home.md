@@ -1,10 +1,13 @@
 ---
-tags:
-  - meta
-hide:
-  - toc
-  - navigation
+headerVersion: 2023.11.25
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
+tags: [meta]
+hide: [toc, navigation]
 session-template: home.html
+campaign: Cleenseau
+name: Cleenseau Campaign Home
+POV: timeless
 ---
 This website is the campaign bible for the [[Cleenseau Campaign]], a D&D game set in the world of Taelgar, a magical shared world developed by my brother and I. 
 
@@ -12,7 +15,7 @@ Been here before? Check out the [[Index of Changes]].
 
 Please note that some information here is intended to be for certain players only. That information will be in a spoiler warning block, like so:
 
->[!INFO]- Delwaths's Background (For Mike's Eyes Only)
+>[!INFO]- Delwath's Background (For Mike's Eyes Only)
 > Some secret information about Delwath.
 
 When you see this, please don't expand the spoiler block unless you are the target player.
@@ -20,3 +23,8 @@ When you see this, please don't expand the spoiler block unless you are the targ
 You most likely want to start with the [[Cleenseau Campaign - Index of NPCs|NPCs]], session notes, and other information about the [[Cleenseau Campaign]]. Then you might want to read about [[Sembara]] and [[Tyrwingha]], two of the major realms. Or you might want to read about the religion of [[Mos Numena]] or just explore the [[World of Taelgar]]. 
 
 For more information about mechanics and other world background for players specifically, see the [[Player's Guide]] or the [[House Rules (Mike)]].
+
+%%^Metadata:article:v1%%
+mode: campaign portal
+povNotes: Navigation and player guidance rather than a dated setting snapshot.
+%%^End%%

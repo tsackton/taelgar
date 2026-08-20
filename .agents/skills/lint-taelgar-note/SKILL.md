@@ -1,11 +1,17 @@
 ---
 name: lint-taelgar-note
-description: Lint, re-lint, or batch-lint Taelgar vault notes with deterministic validation and source-grounded editorial judgment, then write or clear versioned lint state. Use when the user asks to lint, re-lint, batch-review, validate the completeness or currency of, or apply Taelgar lint metadata to one or more notes. Do not use for ordinary lore editing without a lint request.
+description: Lint, re-lint, or batch-lint eligible Taelgar vault notes with deterministic validation and source-grounded editorial judgment, then write or clear versioned lint state. Use when the user asks to lint, re-lint, batch-review, validate the completeness or currency of, or apply Taelgar lint metadata to one or more notes. Never lint notes under Worldbuilding; do not use for ordinary lore editing without a lint request.
 ---
 
 # Lint Taelgar Note
 
 Combine the vault validator with a source-grounded editorial review. Report actual deficiencies relative to the note's expected scope, not mere opportunities for invention.
+
+## Applicability boundary
+
+- Never lint a note under `Worldbuilding/**`. These are provisional development artifacts, not articles subject to the linter's completeness and verification contract.
+- If a named target or batch contains a Worldbuilding note, stop before editing or recording lint state and report that it is outside scope. Replace it in a random sample rather than counting it.
+- Worldbuilding notes may still be searched and cited as provisional evidence while linting an eligible note elsewhere in the vault.
 
 ## Choose the mode
 
@@ -95,7 +101,7 @@ Infer the profile from the note's tags, classifications, structure, content, and
 - completeness against already established facts separately from opportunities to invent more;
 - editorial clarity, spelling, metadata organization, special syntax, and every existing `status/*` tag.
 
-Session notes and Primary Sources are authoritative source records: do not call them factually wrong. Their accounts can still be incomplete, internally inconsistent, biased, unclear, or poorly structured. Worldbuilding notes are explicitly provisional: describe internal inconsistency, divergence, or development status, but never issue an incorrectness finding merely because canon differs.
+Session notes and Primary Sources are authoritative source records: do not call them factually wrong. Their accounts can still be incomplete, internally inconsistent, biased, unclear, or poorly structured. Worldbuilding notes are outside lint scope, though they remain provisional evidence that may inform review of an eligible target.
 
 ## Search for later invention
 

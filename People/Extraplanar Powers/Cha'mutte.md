@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [power, status/review]
 name: Cha'mutte
+pronunciation: shah-MUTT
 typeOf: elder wyrm
 gender: male
 died: 1545
@@ -9,8 +10,9 @@ dm_owner: tim
 dm_notes: important
 ---
 # Cha'mutte
->[!info]+ Biographical Info
-> an elder wyrm (he/him)
+*(SHAH-MUTT)*
+>[!info]+ Information  
+> An elder wyrm (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 %%  status/incomplete ->  should probably capture more information about motives and the backstory of the Great War, and whatever details we remember of Cha'mutte's appearance and form in battle among other things from high school, to at least have consistent things to drop into games where interesting - although of course cha'mutte's appearance varies and is scary enough that people would report variable rumors. also lots of secret notes in various places that could usefully be consolidated, some of which should be listed behind dufr campaign section to capture information the dunmar party has learned but might need a quick way to reference %%

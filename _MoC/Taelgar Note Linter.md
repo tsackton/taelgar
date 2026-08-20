@@ -1,11 +1,11 @@
 ---
-linterVersion: "2.3"
+linterVersion: "2.4"
 name: Taelgar Note Linter
 ---
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **2.3** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **2.4** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -27,6 +27,12 @@ This specification defines lint behavior and state. It operates alongside:
 
 When these disagree, do not silently choose one. Stop the write-mode lint, report the mismatch, and correct the specification, governance, skill, implementation, and tests together.
 
+## Applicability
+
+Notes under `Worldbuilding/**` are categorically outside the linter's scope. They are provisional development artifacts rather than articles subject to the linter's completeness and verification contract. Do not write `lintedAt`, `lintVersion`, `status/check/lint`, or persistent lint metadata to them, and do not count them in lint samples.
+
+Worldbuilding notes remain usable as provisional evidence while linting an eligible note elsewhere in the vault. Their authority and uncertainty must be preserved.
+
 ## Versioning
 
 The current adopted linter version is stored in this note's `linterVersion` field. The deterministic validator exposes the same value as `validatorVersion`.
@@ -35,7 +41,7 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "2.3"
+lintVersion: "2.4"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
@@ -81,7 +87,7 @@ The deterministic formatter may be run in safe-fix mode only when it can preserv
 
 ## Expectation profile
 
-The linter derives a profile from the note's tags, classification, content, structure, and role. Folder placement alone is insufficient.
+For eligible notes, the linter derives a profile from the note's tags, classification, content, structure, and role. Folder placement alone is insufficient except for the categorical `Worldbuilding/**` exclusion.
 
 ### Subject or document type
 
@@ -105,7 +111,7 @@ Search likely canonical sources first, then campaign and session records, Primar
 
 Session notes and Primary Sources are fundamental source records. The linter may flag malformed metadata, damaged syntax, attribution problems, internal ambiguity, or usability issues, but it never declares the source note itself factually wrong because another note disagrees. Downstream reference notes must represent or reconcile what the source establishes.
 
-Worldbuilding notes are explicitly provisional. The linter may report internal inconsistency, divergence from current canon, or unclear development status, but it never issues an incorrectness finding merely because a proposal was not adopted or later canon differs.
+Worldbuilding notes are explicitly provisional evidence and are never lint targets. When they inform a lint elsewhere, a proposal's non-adoption or divergence from later canon is not itself evidence that the eligible target is wrong.
 
 Distinguish:
 
@@ -126,7 +132,7 @@ Editing the target note does not itself invalidate a clean lint. The relevant qu
 
 ### Frontmatter
 
-Version 2.3 uses this canonical ordering:
+Version 2.4 uses this canonical ordering:
 
 1. deprecated or obsolete fields, retained conspicuously for human migration;
 2. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
@@ -272,7 +278,9 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.3, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.4, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+
+Automatic batch discovery excludes `Worldbuilding/**`. Explicit preparation rejects a Worldbuilding target, and snapshot/finalization reject any manifest that contains one, including a manifest created under an older rule set.
 
 Batch preparation builds the vault link/identity index once and scans `_DM_` once for all targets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, matching private evidence also receives a separate modification-time freshness check. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
 

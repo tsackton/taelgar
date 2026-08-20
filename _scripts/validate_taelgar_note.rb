@@ -23,7 +23,7 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "2.3"
+  VERSION = "2.4"
   SCHEMA_VERSION = 3
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
