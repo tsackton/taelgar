@@ -1,21 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/review]
-name: Chardon
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/review, status/check/lint]
 typeOf: settlement
-whereabouts: 
-- {type: primary, location: Drankorian Empire, end: 1059}
-- {type: primary, location: Chardonian Empire, start: 1545}
+typeOfAlias: city
+name: Chardon
+whereabouts:
+  - {type: primary, location: Drankorian Empire, end: 1059}
+  - {type: primary, location: Chardonian Empire, start: 1545}
 dm_owner: tim
 dm_notes: important
-typeOfAlias: city
+POV: "1749"
 ---
 # Chardon
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Chardon is a city of many things. It is the bustling capitol and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic, host to the scholars, wizards, and academics of the [[Great Library]] and the [[University of Chardon]]. It is a trade hub and economic powerhouse, known primarily as the only source of processed [[chalyte]], but also as a city of artisans, producing clocks, optics, fine weaponry, scrolls, and other high value goods, and more recently as a major shipbuilder. 
+Chardon is a city of many things. It is the bustling capital and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic, host to the scholars, wizards, and academics of the [[Great Library]] and the [[University of Chardon]]. It is a trade hub and economic powerhouse, known primarily as the only source of processed [[chalyte]], but also as a city of artisans, producing clocks, optics, fine weaponry, scrolls, and other high value goods, and more recently as a major shipbuilder.
 
 Founded as a small outpost of the [[Drankorian Empire]] more than 1000 years ago, over the course of its long history Chardon has grown from a backwater to among the most powerful and cosmopolitan cities of the known world, home to more than 500,000 people. Like [[Drankor]] before it, Chardon is a city full of professional associations, scholarly societies, private clubs, and collegia, some more secret than others. Most well known are the magical organizations: the secretive [[Hetaeri Magica]], the scholarly [[Society of the Open Scroll]], and the famous faculty of the [[University of Chardon]]. But numerous smaller societies form the fabric of social life in Chardon. 
 
@@ -33,9 +36,9 @@ The bustle of the busy port on the [[South Bank]] dominates the soundscape of th
 
 On the [[North Bank]] of the river, in the shadow of [[Mount Nera]], weirs and waterworks are mixed with numerous short, squat buildings of black stone, emitting an acrid stench. These are the [[chalyte]] refineries, the source of much of Chardon's wealth, the buildings where the dirty and dangerous work of turning the raw chalyte ore shipped from the north into precious fuel for the magical works of the city takes place. Few live by choice amongst the dirt and stench of these refineries, but this doesn't stop the spread of slums along the [[North Bank]], filled with those who have no other options, hemmed in by the chalyte works downriver, and the walled estates upriver, beyond the spur of [[Mount Nera]] that shelters the rich from the noise and stink of the refineries. 
 
-The vast arch of the [[River Bridge (Chardon)|River Bridge]] provides the main route across the [[Chasa]]. Wide enough for four carts to pass abreast, and enchanted to rise as needed to allow ships to pass, steady foot traffic passes under the watchful eyes of the [[Praecanti Vigiles]] - traders, chalyte dealers, wizards and scholars, farmers with goods for market, and many more. Upriver, the [[Chardon Bridge]] is used more by locals, farmers as well as the rich and powerful. Smaller, series of twelve arches, this bridge marks the height of navigation for tall-masted sailing ships, although riverboat traffic is frequent here.
+The vast arch of the [[River Bridge (Chardon)|River Bridge]] provides the main route across the [[Chasa]]. Wide enough for four carts to pass abreast, and enchanted to rise as needed to allow ships to pass, steady foot traffic passes under the watchful eyes of the [[Praecanti Vigiles]] - traders, chalyte dealers, wizards and scholars, farmers with goods for market, and many more. Upriver, the [[Chardon Bridge]] is used more by locals, farmers as well as the rich and powerful. Smaller, with a series of twelve arches, this bridge marks the height of navigation for tall-masted sailing ships, although riverboat traffic is frequent here.
 
-The [[South Bank]], where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the [[Imperial Palace]], the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
+The [[South Bank]], where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights are spread across the city: the three great markets and dozens of smaller markets, the [[Imperial Palace]], the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
 
 ## History
 
@@ -89,7 +92,7 @@ Precincts VIII - XVI form the outer core of the [[South Bank]], numbered from VI
 
 Precincts XVII - XXI are on the [[North Bank]]; while Precincts XVIII and XIX are inside the north walls, XVII, XX, and XXI are the administrative units for the northern suburbs, with XVII containing the largest part of the chalyte refineries and the slums of the [[Riverside Quarter]]. 
 
-To the south of the city, extensive suburban development is not incorporated into the adminstrative precincts, and instead represents a patchwork of arrangements. 
+To the south of the city, extensive suburban development is not incorporated into the administrative precincts, and instead represents a patchwork of arrangements.
 
 East of Mount Nera on the north bank, the [[Nera Domains]] are a collection of private estates and lordly manors of the rich and powerful. 
 
@@ -155,3 +158,27 @@ Thieves guild type? Other guilds? Artisans?
 
 
 %%SECRET[v2:7bb8e34dca4c4ab48f6b1ce89425318e]%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: settlement reference
+povNotes: "Accuracy range: approximately DR 1748-1749. City reference with retrospective history; current political and neighborhood details may not reflect every DR 1749 development."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Added or populated the required Metadata:map:v1 block.
+- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Latinate Chardonian reading: ch before a read as hard k and first-syllable stress. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Chardon, language: Chardonian, pronunciation: KAR-dohn, status: proposed}`. Accept it in frontmatter only after human review.
+- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+- [ ] **Warning — status.disposition:** Existing status `status/review` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+- [ ] **Warning — editorial.scope_incomplete:** The note retains status/review, unfinished historical and governmental sections, and current-era material not reconciled with Sessions 124-129. Candidate: review the visible city overview against the DR 1749 unrest and reforms before treating it as a campaign-current city article.
+%%^End%%

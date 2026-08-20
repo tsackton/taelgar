@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Old Chardon Canal
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: waterway
+typeOfAlias: canal
+name: Old Chardon Canal
 whereabouts: Portalia
 dm_owner: tim
 dm_notes: important
-typeOfAlias: canal
+POV: 1740s
 ---
 # The Old Chardon Canal
 >[!info]+ Information  
@@ -52,5 +54,24 @@ Thus, it is possible to make the transit in one day, by departing [[Fort Ameli]]
 
 %%SECRET[v2:497d4bfba89bc2ebf6bbdc14ab874bd1]%%
 
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: Emerald Bay, map: world, locator: }
+  - {role: outlet, feature: Gulf of Chardon, map: world, locator: }
+%%^End%%
 
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Old Chardon Canal; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
 
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Added or populated the required Metadata:map:v1 block.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Latinate Chardonian reading: hard ch in Chardon; English descriptive components retained. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Old Chardon Canal, language: Chardonian, pronunciation: old KAR-dohn kuh-NAL, status: proposed}`. Accept it in frontmatter only after human review.
+- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks source.locator, outlet.locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+%%^End%%

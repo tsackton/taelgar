@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-displayDefaults:
-  defArt: ""
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+displayDefaults: {defArt: ""}
+tags: [place, status/check/lint]
 typeOf: realm
+typeOfAlias: province
+name: Alta Tonaro
 whereabouts:
-  - type: primary
-    location: Chardonian Empire
+  - {type: primary, location: Chardonian Empire}
 dm_owner: tim
 dm_notes: important
-typeOfAlias: province
+POV: 1740s
 ---
 # Alta Tonaro
 >[!info]+ Information  
@@ -28,3 +29,17 @@ In DR 1689, reports reached [[Chardon]] that traces of [[chalyte]] had been foun
 But it was not to last. By DR 1704 [[chalyte]] production had peaked, and in DR 1706 it was obvious that the boom was not to last. The last surface mine ceased production in DR 1712, and by DR 1720, as Magistros [[Seva Auratan]] came to power, the [[Chataan Mountains]] were fortified and declared unsafe for travel. 
 
 Since then, silver production has continued around [[Argento]], but, though valuable, silver has only a tiny fraction of the value of [[chalyte]], and [[Alta Tonaro]] is now considered a poor backwater by most.
+
+%%^Metadata:article:v1%%
+mode: political-geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Alta Tonaro; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Italian/Latin analogue: open vowels and penultimate stress in Tonaro. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Alta Tonaro, language: Chardonian, pronunciation: AHL-tah toh-NAH-roh, status: proposed}`. Accept it in frontmatter only after human review.
+%%^End%%

@@ -1,17 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/map
-aliases:
-  - Apporian Peninsula
-  - Apporian
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/cleanup/map, status/check/lint]
 typeOf: topographical feature
-whereabouts: Greater Chardon
+typeOfAlias: peninsula
+name: Apporia
+aliases: [Apporian Peninsula, Apporian]
 pronunciation: a-POHR-ree-ah
+whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
-typeOfAlias: peninsula
+POV: 1740s
 ---
 # Apporia
 *(a-POHR-ree-ah)*
@@ -68,3 +68,17 @@ The marine culture is deeply ingrained in the coastal society of the Chardonian 
 The interior of the peninsula presents a stark contrast to the coast, with a series of rugged valleys, steep terrain, and a few isolated high plateaus. This region experiences greater rainfall than the coastal areas, creating conditions akin to a temperate rainforest with dense, lush vegetation. The highlands are sparsely populated due to their inaccessibility and the harsh living conditions. Settlement is hindered by the rough terrain, with its deep ravines and precipitous mountains, often shrouded in mists. These lands remain largely uncharted, with tales of hidden valleys and mysterious creatures that discourage exploration. The few brave souls who have ventured into these hinterlands speak of ancient ruins and untamed wilds, holding secrets from an age long past, guarded by the very landscape itself.
 
 %%
+
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Apporia; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+
+### Open findings
+- [ ] **Warning — status.disposition:** Existing status `status/cleanup/map` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+%%^End%%

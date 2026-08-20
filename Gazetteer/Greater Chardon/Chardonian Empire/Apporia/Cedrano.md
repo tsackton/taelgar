@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place]
 typeOf: realm
-whereabouts: Chardonian Empire
+typeOfAlias: province
+name: Cedrano
 pronunciation: KEH-dran-oh
+whereabouts: Chardonian Empire
 dm_owner: tim
 dm_notes: important
-typeOfAlias: province
+POV: 1740s
 ---
 # Cedrano
 *(KEH-dran-oh)*
@@ -28,3 +31,8 @@ This province is dominated by the rocky coastline, where the interior highlands 
 Possible village names: Ombraforte
 
 %%
+
+%%^Metadata:article:v1%%
+mode: political-geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Cedrano; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%

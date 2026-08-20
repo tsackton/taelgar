@@ -1,20 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl, status/gameupdate/dufr]
-aliases: [Chardonian]
-name: Chardonian Empire
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/check/lint]
 typeOf: realm
+typeOfAlias: empire
+name: Chardonian Empire
+aliases: [Chardonian]
 whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
-typeOfAlias: empire
+POV: "1749"
 ---
 # The Chardonian Empire
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% NOTE: current as of May (POV:: 1749) - NOT updated for post-Dunmar Frontier events %%
 
 The Chardonian Empire is a large and powerful realm ruled from the city of [[Chardon]]. Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [[Chalyte|chalyte]] trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [[Voltara]] in the north to [[Illoria]] in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [[Drankorian Empire]] 
 
@@ -75,7 +76,7 @@ In the most commonly told imperial chronology:
 
 %% this needs more detail about the pre-1584 wars, and the currently undeveloped hobgoblin stalemate in the coastlands; a little more detail probably needs to be invented first %%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Places in Chardonian Empire
 ```dataviewjs
 const { util } = customJS
@@ -103,4 +104,21 @@ dv.table(["Place", "Type Of"],
 - [[War of the Dark Rift]] 
 - [[Praecanti Vigiles]] and [[Imperial Palace]] (staging writeups used in recent campaigns; treat as DM-facing unless moved into Gazetteer).
 
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: political-geographic reference
+povNotes: "Accuracy range: through May DR 1749. Imperial reference snapshot that intentionally predates the July-August DR 1749 chalyte reforms and later campaign developments."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Migrated the legacy inline POV and normalized campaign-block codes.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Latinate derivative of Chardon with stress on the do syllable. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Chardonian Empire, language: Chardonian, pronunciation: kar-DOH-nee-an empire, status: proposed}`. Accept it in frontmatter only after human review.
+- [ ] **Warning — status.disposition:** Existing status `status/gameupdate/gl`, `status/gameupdate/dufr` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+- [ ] **Warning — coverage.later_invention:** Session 129 records July-August DR 1749 chalyte reforms, while the article explicitly remains a May DR 1749 snapshot. Candidate: either keep the earlier snapshot clearly dated or add a dated update covering the mining company, refinery seizures, and new refining corporation.
 %%^End%%

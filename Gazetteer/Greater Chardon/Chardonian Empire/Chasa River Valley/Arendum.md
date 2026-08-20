@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Arendum
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: settlement
-whereabouts: Chasa River Valley
-dm_notes: important
-dm_owner: tim
 typeOfAlias: city
+name: Arendum
+whereabouts: Chasa River Valley
+dm_owner: tim
+dm_notes: important
+POV: 1740s
 ---
 # Arendum
 >[!info]+ Information
@@ -26,3 +28,25 @@ Arendum is a substantial provincial town, with a frontier vibe. Built on the rui
 Border town and timber capital of the Elderwood province. Built on the destroyed city-state of Kin-Aska, a pre-Great War settlement of mixed Drankorian and Northros population.
 
 %%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: settlement reference
+povNotes: "Accuracy range: approximately the DR 1740s. Settlement Reference for Arendum; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Added or populated the required Metadata:map:v1 block.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Latin analogue: penultimate stress and final um. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Arendum, language: Chardonian, pronunciation: ah-REN-doom, status: proposed}`. Accept it in frontmatter only after human review.
+- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+- [ ] **Warning — coverage.established_fact_missing:** Session 51 establishes that Arendum is organized around defense and has visible tension with nearby Deno'qai communities. Candidate: add a concise sentence about the defensive character and observed Chardonian-Deno'qai tension, attributed to the DR 1748 campaign snapshot.
+%%^End%%
