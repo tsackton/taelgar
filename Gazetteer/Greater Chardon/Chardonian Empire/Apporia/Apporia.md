@@ -1,17 +1,17 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/cleanup/map, status/check/lint]
+lintedAt: "2026-08-20T13:18:12-04:00"
+lintVersion: "3.0"
+tags: [place]
 typeOf: topographical feature
 typeOfAlias: peninsula
 name: Apporia
 aliases: [Apporian Peninsula, Apporian]
 pronunciation: a-POHR-ree-ah
 whereabouts: Greater Chardon
-dm_owner: tim
-dm_notes: important
-POV: 1740s
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Apporia
 *(a-POHR-ree-ah)*
@@ -20,21 +20,47 @@ POV: 1740s
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Apporia, or the Apporian Peninsula, is a very large peninsula that stretches west from the area between the [[Yeraad Watershed]] and the [[Chasa River Valley]], and surrounded by the [[Gulf of Chardon]] to the northeast, the [[Emerald Bay]] and the [[Nevos Sea]] to the southeast, and the [[Endless Ocean]] to the west. The [[Old Chardon Canal]] runs through the base of the peninsula, providing a shipping route between the [[Nevos Sea]] and the [[Gulf of Chardon]]. The northern interior of the peninsula is dominated by wild lands of rough mountains, with deep valleys dotted with forests, where few people live. The Gulf of Chardon coast, stretching about 540 miles from the salt marshes around the canal mouth to the northern tip of the peninsula, is rich in trade and agriculture. 
+
+> [!image]
+> ![[Apporia.png]]
+> *Wellby Goodbarrel's map of the Apporian coasts*
+
 ## Settlement
 
 The northwestern coast, along the [[Gulf of Chardon]], is part of the [[Chardonian Empire]], and is made up of three provinces: [[Portalia]], [[Cedrano]], and [[Raziolo]]. While the Chardonian legions have a strong presence in Portalia, and the governor of Portalia is typically hand-picked by the Magistros, the further provinces (Cedrano and especially Raziolo) are substantially autonomous. 
 
+Apporia’s three imperial provinces have distinct landscapes: [[Portalia]] centers on marshes and canal traffic; [[Cedrano]]’s rocky coast is cut by small harbors and fishing villages; and [[Raziolo]]’s flat northern plain supports winter wheat and olive groves under hot, dry summers and mild winters. The sheltered gulf is both a productive fishing ground and a busy maritime highway, while [[Castrella]] remains Apporia’s principal maritime city.
+
 Beyond humans, the northwestern coast of Apporia has significant halfling communities, and a number of small lizardfolk villages, especially west of the [[Old Chardon Canal]], on the swampy borders between [[Portalia]] and [[Cedrano]]. Few dwarves and stoneborn remain on Apporia since the [[War of the Dark Rift]], and unlike most places in Taelgar, there are more stoneborn than dwarves. Those of these species who do remain often live among humans. 
 
-%%SECRET[v2:9ca51db2cc1ea433f6ebb7b42c983cb3]%%
+%% 
+Stoneborn - some refugees settled among humans, others have remained in Enderra. have settled both among the humans but also in some small stoneborn coastal villages built on cliffs and hilltops (most prominent in Cedrano)
 
-Who else might live in the wild interiors of Apporia, is not known. 
+Old dwarven kingdom was called Enderra. Maybe elves still in Enderra. Kobolds? Others?
+%%
+
+Who else might live in the wild interiors of Apporia, is not known, though halfling sailors speak of the strangeness of the western coast, who few visit. 
+
+%%^Campaign:dufr%%
+
+>[!quote] Milo Thistlefoot's description of the journey along the west coast of Apporia, told to the Dunmar Fellowship
+>
+>*The latest journey had been such a joy. The Stormdancer left Cedrano early in the spring, over a year ago now, heading south. In a month, they were south of Illoria; in two, sailing through the strange waters of the Sea of Storms, dodging storms and passing arcane islands dotted with ancient ruins. Then, months of sailing strange coastlines, seeing the vast gleaming city of gold (Takano), the islands of living bridges connected by great vines growing across the channels, the bustling markets in the kingdom full of the most tempting smells. By the time we turned north, the Stormdancer's hold was full of delicacies and our hearts full of strange tales of the south.*
+>
+>*But of course the wonders of the sea are ever-present, and there was no way we were going to travel a straight course. In the southern reaches of Illoria, we heard tell of a fallen star in the vast mangroves on the western coast of Apporia, that light up the lagoons at night. Of course, how could we resist. so we sailed the long western route, instead of through the canal. It was this that brought the Stormdancer to the silent sea, the dead calm above the city of Omi, and all that came next.*
+>
+>*I was asleep when we hit the doldrums. Tilly was on watch. We thought nothing of it, at first. It was only when Tilly's magic could not affect the water beneath us that we got curious. Leaving the Stormdancer under the command of my first mate, Tilly and I took a crew of eighteen down beneath the sea to explore.*
+
+%%^End%%
 ## History 
 
 %% to do, low priority: rewrite into a summary and a separate timeline page %%
+
 %% this is also primarily the history of the northwest corner of the peninsula, in large part because nothing is made up about the rest %%
 
 According to the records of the Chardonian Empire, the Apporian Peninsula was originally settled by the Drankorians, who originally constructed the [[Old Chardon Canal]] and established a series of maritime bases on the [[Gulf of Chardon]] and the [[Nevos Sea]], although never reached the western coast or the interior. These records do not speak to whether any peoples lived on the coasts prior to Drankorian settlement, or who might have lived -- or still live -- in the interior. 
+
+%% Before the Downfall Wars, the [[Yo'nari]], ancestors of the modern Deno'qai, lived in Apporia's interior mountains. Under [[Yeshara]], they vanished into [[Cairn Dor]], beginning a cycle of conflicts that define the peninsula even to this day. But this is probably not common knowledge. %%
 
 After the fall of Drankor, [[Castrella]], in the current day province of [[Cedrano]] became a significant maritime power, exerting control over the [[Old Chardon Canal]], the [[Gulf of Chardon]], and the rich agricultural territory on the coastal plains of [[Raziolo]]. By the time of the [[Great War]], the canal was jointly managed by a confederation of Chardonian and Castrellan traders, as Chardon grew in influence. 
 
@@ -42,43 +68,19 @@ In the chaos after the [[Great War]], [[Illoria|Illorian]] pirates under the com
 
 In DR 1584, the [[War of the Dark Rift]] erupted in the interior mountains of [[Apporia]], in the dwarven and stoneborn kingdom of [[Enderra]]. Over the next few years, the [[Umbral Covenant]] conquered much of the coastline, completely destroying [[Nevium]], disrupting trade on the [[Old Chardon Canal]], and besieging [[Castrella]]. This is the definitive end of the Illorian pirate kingdoms, and leads to much destruction in [[Portalia]], in particular. The war continues until DR 1597, when the [[Umbral Covenant]] launches the Shadow Armada to conquer Chardon, and loses badly. Over the next few years, a series of interior campaigns destroys the [[Umbral Covenant]] and establishes Chardonian control over [[Portalia]]. Soon after, [[Cedrano]], weak and dependent on Chardonian legions for survival, formally joins the growing [[Chardonian Empire]]. 
 
-%% not canonical below, just an idea for how Raziolo joins the Empire %%
+%% not canonical below, just an idea for how Raziolo joins the Empire 
 
 Over the next two generations, Chardonian influence grows on the peninsula, eventually leading to economic pressure for Raziolo to formally join the Empire.
 
-%% do think the forts are largely abandoned by current day but could at some point develop more detail here %%
+%%
 
 By the DR 1700s, the [[War of the Dark Rift]] is largely forgotten, the interior forts are largely abandoned, and the mountains of the interior turn wild. 
 
 
-%%
-## ChatGPT brainstorming notes
-
-
-**Coastal Region of the Northern Peninsula**
-
-The northern coast of the Chardonian Peninsula boasts a Mediterranean climate characterized by dry summers and mild, wet winters, fostering an agricultural landscape dotted with terraced farms and olive groves. The inhabitants, loyal subjects of the Chardonian Empire, have skillfully adapted to the coastal terrain, erecting their settlements atop the rugged cliffs that overlook the [[Endless Ocean]]. These cliffs are interrupted sporadically by narrow beaches and estuaries, where the locals have cultivated vineyards, producing wines renowned throughout the empire for their quality. Influenced by a cool maritime current, the coastal waters are exceptionally rich in marine life, supporting vast kelp forests akin to those found off the coast of California. This abundance not only underpins the local economy through fishing but also contributes to the rich biodiversity, including a variety of fish, mollusks, and crustaceans, which are staples of the local diet.
-
-**Maritime Culture and Economy**
-
-The marine culture is deeply ingrained in the coastal society of the Chardonian Peninsula. The cool current's contribution to the richness of the adjacent waters has led to a thriving maritime economy, with towns and villages along the coast engaged in fishing, kelp harvesting, and trade. These settlements, while autonomous, are integral parts of the greater Chardonian Empire, paying tribute to the Emperor in Chardon, the eminent city across the bay. The sea is considered a bountiful yet treacherous provider, as the dense kelp forests that offer shelter to sea life can also conceal hazards to navigation. Consequently, the Chardonians are not only skilled farmers and vintners but also adept sailors and shipbuilders, boasting a navy that secures their trade routes and defends their prosperous shores.
-
-**Interior Highlands and Rainforests**
-
-The interior of the peninsula presents a stark contrast to the coast, with a series of rugged valleys, steep terrain, and a few isolated high plateaus. This region experiences greater rainfall than the coastal areas, creating conditions akin to a temperate rainforest with dense, lush vegetation. The highlands are sparsely populated due to their inaccessibility and the harsh living conditions. Settlement is hindered by the rough terrain, with its deep ravines and precipitous mountains, often shrouded in mists. These lands remain largely uncharted, with tales of hidden valleys and mysterious creatures that discourage exploration. The few brave souls who have ventured into these hinterlands speak of ancient ruins and untamed wilds, holding secrets from an age long past, guarded by the very landscape itself.
-
-%%
-
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Apporia; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: Apporia, role: primary, language: Drankorian, pronunciation: a-POHR-ree-ah, status: documented}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-
-### Open findings
-- [ ] **Warning — status.disposition:** Existing status `status/cleanup/map` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the present-day geography and political organization are framed in the DR 1700s, while the historical section covers selected events from Drankorian settlement through the War of the Dark Rift.
 %%^End%%

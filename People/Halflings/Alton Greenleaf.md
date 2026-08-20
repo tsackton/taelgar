@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T13:18:12-04:00"
+lintVersion: "3.0"
 tags: [person, testcase]
 species: halfling
 ancestry: null
@@ -31,11 +31,10 @@ A halfling wanderer, traveling with only his brother.
 ## Relationships
 - [[Lyle Greenleaf]], brother and traveling companion.
 
-%%^Metadata:article:v1%%
-mode: encounter snapshot
-povNotes: "Accuracy range: minimal. This is a snapshot of Alton Greenleaf at the DR 1748-07-18 encounter and his immediate eastward journey. Nothing is established about his earlier or later life."
+%%^Metadata:names:v1%%
+- {name: Alton Greenleaf, role: primary, language: Common, status: documented}
 %%^End%%
 
-%%^Metadata:names:v1%%
-- {name: Alton Greenleaf, role: primary, language: Common, status: inferred, notes: Common is inferred from the ordinary English-form personal name and descriptive surname}
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 encounter snapshot covering Alton's meeting at the Melavan Caravanserai and immediate eastward journey; earlier and later life are not described.
 %%^End%%

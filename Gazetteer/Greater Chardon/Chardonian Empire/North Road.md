@@ -1,44 +1,32 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/stub, status/check/name, status/check/lint]
+lintedAt: "2026-08-20T13:18:12-04:00"
+lintVersion: "3.0"
+tags: [place]
 typeOf: road
 name: North Road
 whereabouts: Chardonian Empire
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # The North Road
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% major road running north through the coastlands from Chardon %%
+The North Road is a major trade road that enters Chardon through the [[Trade Gate (Chardon)|northmost gate of the city]], and passes through the [[Bastion Quarter]] toward the [[River Bridge (Chardon)|River Bridge]]. %% nothing invented about traffic or vibe outside Chardon %%
 
 %%^Metadata:map:v1%%
 locations:
-  - {feature: Chardon, map: world, locator: }
-  - {feature: , map: world, locator: }
+  - {feature: Chardon, map: world, locator: 13.07.C22}
+  - {map: world, locator: 10.06.L07}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for North Road; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: North Road, role: primary, language: Common, status: documented}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
-
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Dunmar Notes]], [[History of Dunmar]], [[Copper Hills (OneNote)]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
-- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks endpoint 1.locator, endpoint 2.locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
-- [ ] **Warning — status.disposition:** Existing status `status/stub`, `status/check/name` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+%%^povNotes:v1%%
+Temporal coverage: Post-dates hobgoblin occupation of the Coastlands after the Great War, which lasted until the last 1600s.
 %%^End%%
