@@ -1,3 +1,6 @@
+---
+tags: [meta, status/check/ai]
+---
 # Metadata Specification
 *last update: Aug 20th 2026*
 
@@ -13,7 +16,7 @@ Some brainstorming and ideas:
 - `headerVersion`: String version marker added by header scripts (typically a date like `2023.11.25`). Automatically added upon header generation. Do not manually edit. 
 - `tags`: Obsidian tags for categorization and status. One descriptive tag is usually required (`person`, `place`, `organization`, `item`, `event`, etc.); status tags (e.g. `status/stub`, `status/cleanup/*`, `status/gameupdate/*`) are optional. Represented as an inline list (`tags: [person]`). See: [[Note Categorization]] and [[Note Status]].
 - `dm_owner`: String indicating who is responsible for the page. Acceptable values: `tim`, `mike`, `joint`, `player`, `none`. See: [[Note Status]]
-- `dm_notes`: String indicating whether DM notes exist. Acceptable values: `important`, `color`, `none`. `important` and `color` are both positive indications; linting does not adjudicate between them. A `%%SECRET[v2:01d09d28f3c9b99beed3e3ecc2487a5f]%%` block can account for hidden material and support `dm_notes: none` when no additional unlinked DM material is found. See: [[Note Status]].
+- `dm_notes`: Human attestation indicating whether useful private, non-shared DM information exists. Acceptable values: `important`, `color`, `none`; linting does not adjudicate between the two positive values or automatically change an attestation. The contextual lint review uses only matching `_DM_` Markdown notes: `none` plus matches receives an informational reference list, a positive value plus no matches receives a verification suggestion, `none` plus no matches needs no comment, and a positive value plus matches receives an informational reference list. Once reviewed under the adopted `dmNotesReviewVersion`, `lintedAt` validates the attestation until a matching `_DM_` file is modified later or the minimum review version is raised. In-note `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks never count as positive external evidence and never affect the linter's candidate-based review. See: [[Note Status]] and [[Taelgar Note Linter]].
 - `name`: Canonical page name used by display code. If omitted, the file name is used. This frontmatter field does not replace the persistent `Metadata:names:v1` block required when the note's subject is a named in-world thing or work; see [[Name Metadata]].
 - `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Useful for search, display, and metadata matching. Obsidian bare wikilinks resolve filenames, not frontmatter aliases.
 - `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). The value must be an actual pronunciation. Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations are recorded in the persistent block described by [[Name Metadata]]. An obvious name, descriptive title, or other contextual exemption omits the pronunciation field rather than using `obvious`, `title`, `meta`, or `inherited from ...` as a value; that exemption does not remove a required name block.
@@ -41,7 +44,7 @@ See: [[Metadata Specification#Date Formats|Date Formats]]
 - `realWorldDate`: Real‑world date a session was played, in `YYYY‑MM‑DD` form.
 - `timelineDescriptor`:Label used in timelines and event lists (e.g. “War of the Cloak”) for dates extracted from this note. Often matches or summarizes the page title. ***Warning: possibly obsolete / possibly not working, and inconsistently used.***
 - `pageTargetDate`: Optional override for “current date” used by queries and header scripts, primarily for debugging. 
-- `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, or a year. It is not a validity interval; the persistent article block's `povNotes` records approximate, uncertain, narrow, or discontinuous temporal coverage. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
+- `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, a year, or `undated`. Test `modern`, a decade, and a year in that order; use `undated` only when the note and its sources support none of them. `undated` records missing temporal support, not timeless truth or stability. `POV` is not a validity interval; the persistent `%%^povNotes:v1%%` text block records approximate, uncertain, narrow, discontinuous, or unsupported temporal coverage. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
 
 ### Type-Specific Fields
 

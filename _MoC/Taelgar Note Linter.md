@@ -1,11 +1,14 @@
 ---
-linterVersion: "2.6"
+tags: [meta, status/check/ai]
+linterVersion: "3.0"
+dmNotesReviewVersion: "3.0"
+nameReviewVersion: "3.0"
 name: Taelgar Note Linter
 ---
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **2.6** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **3.0** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -21,6 +24,7 @@ This specification defines lint behavior and state. It operates alongside:
 - [[Campaign Registry]] and `_scripts/session_note_campaigns.json` for campaign identities and codes;
 - [[Name Metadata]] for human-curated name blocks;
 - [[Temporal POV Metadata]] for the searchable article viewpoint and `povNotes` interpretation;
+- [[Note Status]] for the meanings and lifecycle semantics of `status/*` tags;
 - `AGENTS.md` for editing authorization, source authority, and status-tag permissions;
 - `.agents/skills/lint-taelgar-note/SKILL.md` for the executable agent workflow; and
 - `_scripts/validate_taelgar_note.rb` for deterministic rules and safe frontmatter formatting.
@@ -29,9 +33,9 @@ When these disagree, do not silently choose one. Stop the write-mode lint, repor
 
 ## Applicability
 
-Notes under `Worldbuilding/**` are categorically outside the linter's scope. They are provisional development artifacts rather than articles subject to the linter's completeness and verification contract. Do not write `lintedAt`, `lintVersion`, `status/check/lint`, or persistent lint metadata to them, and do not count them in lint samples.
+Any note whose path contains a directory segment named `Worldbuilding` or beginning with `.` or `_` is categorically outside the linter's target scope. This applies at every nesting depth, including `Campaigns/_generated/**` and `Campaigns/.chatgpt/**`. Do not write `lintedAt`, `lintVersion`, `status/check/lint`, or persistent lint metadata to these notes, and do not count them in lint samples.
 
-Worldbuilding notes remain usable as provisional evidence while linting an eligible note elsewhere in the vault. Their authority and uncertainty must be preserved.
+Every other Markdown note is an eligible target; tag, note type, and other directory names do not create exclusions. Target eligibility does not filter evidence. All relevant vault Markdown notes—including notes under Worldbuilding and dot or underscore directories—remain searchable and citable while linting an eligible target. Their ordinary authority, privacy, and uncertainty still apply; Worldbuilding remains provisional rather than canonical merely because it is evidence.
 
 ## Versioning
 
@@ -41,12 +45,16 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "2.6"
+lintVersion: "3.0"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
 
 Increase the linter version when a change can alter applicability, severity, findings, safe-fix behavior, persistent lint state, or report interpretation. Editorial clarification that cannot change an outcome does not require a bump. Schema versions such as `Metadata:names:v1` and the validator's output `schemaVersion` are independent of the linter version.
+
+`dmNotesReviewVersion` is an independent minimum prior linter version for the contextual `dm_notes` evidence review. A note whose valid `lintVersion` is at least this value treats its recorded `lintedAt` as the last DM-attestation validation unless a matching `_DM_` source has since been modified. Unrelated future linter-version increases do not re-trigger DM review. When the adopted DM-review rules change, set `dmNotesReviewVersion` to the new linter version so older attestations are reviewed once under the new rules. Compare dotted versions numerically rather than lexically.
+
+`nameReviewVersion` is the independent minimum prior linter version for contextual name-block applicability and pronunciation review. A note with a valid `lintedAt` whose numeric `lintVersion` is at least this value skips that contextual review during later lints. Existing name blocks still receive deterministic schema validation, and entries marked `proposed`, `disputed`, or `unresolved` still produce deterministic human-review tasks without being recalculated. When name-review rules change, raise `nameReviewVersion`; a human who changes the primary subject of a note can force review by removing its lint completion version.
 
 An older `lintVersion` remains an accurate record of the earlier check, but it makes the note a candidate for re-linting under the current rules.
 
@@ -54,7 +62,7 @@ An older `lintVersion` remains an accurate record of the earlier check, but it m
 
 A stale version is any present `lintVersion` that differs from `validatorVersion`, including a legacy numeric value such as `2`. Staleness means that the previous result used an older rule set; it does not itself prove that the note has a substantive defect.
 
-Before changing the note, preserve the previous `lintedAt`, `lintVersion`, `status/check/lint` state, and Lint block as historical input. If the old `lintedAt` is a valid timestamp, use it as the Git freshness baseline even when the version is stale. Then run every deterministic and contextual rule from the current version. Do not perform a version-only migration or assume that an earlier clean result satisfies a newly applicable rule.
+Before changing the note, preserve the previous `lintedAt`, `lintVersion`, `status/check/lint` state, and Lint block as historical input. If the old `lintedAt` is a valid timestamp, use it as the Git freshness baseline even when the version is stale. Then run every currently applicable deterministic and contextual rule from the current version. The contextual `dm_notes` and name reviews remain not applicable when their independent gates are satisfied. Do not perform a version-only migration or assume that an earlier clean result satisfies a newly applicable rule.
 
 The prior Lint block and status are evidence, not findings to copy forward. Re-evaluate each old item against the current note and current sources, validate persistent metadata under current schemas, and build the final report only from findings that remain open under the current version. The initial `lint.version_outdated` finding is resolved by successful completion and does not by itself justify a new Lint block.
 
@@ -76,32 +84,32 @@ The deterministic formatter may be run in safe-fix mode only when it can preserv
 ## Core principles
 
 1. **Expectations come before judgment.** Apply explicit, reviewable expectations rather than inventing a new standard for each note.
-2. **Expectations are contextual.** Entity type, article mode, temporal point of view, structural role, and importance affect what completeness means.
+2. **Expectations are contextual.** Entity type, temporal point of view, structural role, and importance affect what completeness means.
 3. **Deterministic and agentic findings remain distinguishable.** A malformed field is different from an evidence-backed coverage gap or editorial suggestion.
 4. **Correctness, coverage, and invention are different.** Missing established information is not the same as an opportunity to invent more.
-5. **Status tags require disposition.** A completed lint validates or questions every existing `status/*` tag.
+5. **Non-check status tags require disposition.** A completed lint assesses every existing `status/*` tag outside `status/check/*`; human-review check tags are preserved without semantic assessment.
 6. **Privacy concepts remain separate.** Campaign knowledge, player audience, page publication, private material, DM ownership, and off-vault information are not interchangeable.
-7. **The report exists only for open work.** Persistent article metadata survives; the replaceable Lint block does not survive a clean lint.
+7. **The report exists only for open work.** Persistent temporal metadata survives; the replaceable Lint block does not survive a clean lint.
 8. **Freshness is external.** Clean-preserving edits to the target do not invalidate a lint; later invention elsewhere in the vault can.
-9. **Automation preserves meaning.** Safe normalization must not strengthen certainty, resolve ambiguity, or damage special syntax.
+9. **Automation preserves meaning and visibility.** Apply a change only when one lint-owned correction preserves meaning, uncertainty, attribution, temporal framing, and audience visibility; otherwise propose it.
 
 ## Expectation profile
 
-For eligible notes, the linter derives a profile from the note's tags, classification, content, structure, and role. Folder placement alone is insufficient except for the categorical `Worldbuilding/**` exclusion.
+For eligible notes, the linter derives a profile from the note's tags, classification, content, structure, and role. Folder placement alone is insufficient except for the categorical target exclusions for Worldbuilding and dot or underscore directories at any depth.
 
 ### Subject or document type
 
 Applicable profiles include people, places and more specific place types, groups, organizations, powers, creatures, objects, events, ancestries, backgrounds, primary sources, session notes, campaign documents, and meta material. People use `species`; non-people use documented `typeOf` values where classification is required.
 
-### Article mode and temporal point of view
+### Temporal point of view
 
-Every completed contextual lint identifies the article's mode and speaking position, then judges whether the prose is suitable for that point of view. Temporal review is not a generic requirement to date every fact. It distinguishes lifecycle dates, dated relationships, date blocks, current reference prose, historical snapshots, bounded event accounts, campaign-relative language, and layered primary-source viewpoints.
+Every completed contextual lint identifies the article's speaking position, then judges whether the prose is suitable for that point of view. Temporal review is not a generic requirement to date every fact. It distinguishes lifecycle dates, dated relationships, date blocks, current reference prose, historical snapshots, bounded event accounts, campaign-relative language, and layered primary-source viewpoints.
 
-The completed lint records the searchable scalar viewpoint in frontmatter `POV` and the practical interpretation in the persistent article block's `povNotes`, following [[Temporal POV Metadata]]. `POV` is the article's best single temporal reading position, not its validity interval or the span between its oldest and newest facts. Use the least precise useful ordinary value: `modern` for a broadly DR 1700s speaking position, a decade when rough campaign era or life stage matters, or a year for a narrower snapshot. Century values, named eras, and `timeless` are legacy choices to reconsider contextually on re-lint.
+The completed lint records the searchable scalar viewpoint in frontmatter `POV` and the practical interpretation as plain text in the persistent `%%^povNotes:v1%%` block, following [[Temporal POV Metadata]]. `POV` is the article's best single temporal reading position, not its validity interval or the span between its oldest and newest facts. Test the ordinary values in order: use `modern` when the current DR 1700s campaign era is precise enough; otherwise use a decade when a rough campaign era or life stage is precise enough; otherwise use a year for a narrower supported snapshot. Use `undated` only when all three tests fail because the note and its sources support no temporal reading position. `undated` records missing temporal support, not timeless truth or stability, and does not excuse incompatible undated states. Century values, named eras, and `timeless` are legacy choices to reconsider contextually on re-lint.
 
-Choose `POV` from the undated visible frame. Historical backstory does not widen the viewpoint, and an isolated dated paragraph does not narrow it. `povNotes` begins with `Temporal coverage:` and concisely records the article's actual shape: broad or approximately bounded coverage, a narrow snapshot, one-sided uncertainty, or discontinuous periods with gaps. Name event boundaries when established, distinguish unknown periods from contradicted states, and never invent an exact cutoff or infer continuity between separated facts. Before choosing a narrow POV, isolate supported later facts or state changes in the smallest useful `Date:*` blocks.
+Choose `POV` from the undated visible frame. Historical backstory does not widen the viewpoint, and an isolated dated paragraph does not narrow it. `povNotes` begins with `Temporal coverage:` and concisely records the article's actual shape: broad or approximately bounded coverage, a narrow snapshot, one-sided uncertainty, or discontinuous periods with gaps. Name event boundaries when established, distinguish unknown periods from contradicted states, and never invent an exact cutoff or infer continuity between separated facts. Before choosing a narrow POV, propose the smallest useful `Date:*` blocks for supported later facts or state changes; do not apply a new block without approval because it can change filtered visibility.
 
-Later truth does not make an explicitly earlier-POV note incorrect. A defect exists when the note silently mixes incompatible viewpoints, uses unanchored changing language, exposes later knowledge in an earlier view, or applies campaign/date blocks inconsistently.
+Later truth does not by itself make an explicitly earlier-POV note incorrect, but a later fact that would materially change the article still requires the human coverage, POV, and game-update disposition below. A defect exists when the note silently mixes incompatible viewpoints, uses unanchored changing language, exposes later knowledge in an earlier view, or applies campaign/date blocks inconsistently.
 
 ### Structural role and importance
 
@@ -109,7 +117,7 @@ A bounded glossary entry, connector, overview, hub, minor subject, and major cam
 
 ## Source authority and correctness
 
-Search likely canonical sources first, then campaign and session records, Primary Sources, Worldbuilding, shared DM material, and local `_DM_` material as applicable. Read the surrounding passage and preserve uncertainty and source distinctions.
+Search likely canonical sources first, then campaign and session records, Primary Sources, Worldbuilding, shared DM material, local `_DM_` material, and other relevant vault notes as applicable. Target-ineligible paths remain evidence paths. Read the surrounding passage and preserve uncertainty and source distinctions.
 
 Session notes and Primary Sources are fundamental source records. The linter may flag malformed metadata, damaged syntax, attribution problems, internal ambiguity, or usability issues, but it never declares the source note itself factually wrong because another note disagrees. Downstream reference notes must represent or reconcile what the source establishes.
 
@@ -130,11 +138,39 @@ A newer mention is only a candidate. The contextual pass decides whether it chan
 
 Editing the target note does not itself invalidate a clean lint. The relevant question is whether invention elsewhere in the vault has overtaken what the article represents.
 
+## Coverage and suggestions
+
+For every potentially missing fact or event, first determine whether an appropriate vault source establishes it. Unestablished information is a development opportunity rather than an incorrectness or coverage finding. Provisional material may motivate future invention but does not establish a missing fact.
+
+Established information is a `coverage.established_fact_missing` warning when omitting it would materially mislead the reader about the subject, its state, a major relationship, or the article's central account, or would leave the article materially outdated. Materiality is not inferred from note length, backlink count, or the mere existence of additional detail. Established information that is not materially required may support a suggestion under the threshold below; otherwise its omission is not a finding.
+
+An established fact or event that would materially change the article must be reported as `coverage.later_material_change` even when it occurs after the recorded `POV`. The linter records a human decision rather than silently treating the information as outside scope: update the article and `POV`; defer the update and add or retain the appropriate `status/gameupdate/*` tag; or intentionally preserve the earlier article and `POV`, in which case the applicable game-update tag can be removed. The linter does not choose among these outcomes or alter game-update tags.
+
+An editorial suggestion must be grounded in a named source, exact passage, metadata problem, or other specific evidence; name the affected note or notes; propose a concrete addition, correction, or bounded human choice; explain the practical improvement; and be important enough to justify retaining `status/check/lint`. Evidence and resolution may cross note boundaries. Concise evidence-backed additions to stubs are valid suggestions when they improve usefulness; brevity alone is not a defect. Vague prompts to expand, add detail, or improve context are not findings. A lesser observation may be reported informationally when useful, but it does not retain a Lint block or lint status.
+
+## Status disposition
+
+`status/check/*` tags record human-review state and are never semantically assessed by the linter. Preserve them without a supported, questioned, or not-assessable disposition and never recreate a check tag that a human removed. `status/check/lint` remains mechanically governed by the Lint report lifecycle and deterministic report/tag consistency, but it is not evidence about the note and receives no semantic assessment.
+
+For every existing `status/*` tag outside `status/check/*`, record one disposition without altering the tag:
+
+- **supported:** the note and appropriate vault evidence support the documented status; no open finding is required;
+- **questioned:** concrete evidence suggests the tag no longer describes the note; report `status.questioned` as a warning with a bounded human choice; or
+- **not assessable:** the tag depends on human intent, provenance, unfinished plans, or unavailable evidence; preserve it without creating an open finding solely for that uncertainty.
+
+Judge `status/stub` by whether the note still lacks useful detail, not by word count. Judge `status/gameupdate/*` against established intervening game events and the article's recorded temporal framing. When the coverage rule leaves a human choice between updating, deferring, or preserving an earlier `POV`, the game-update tag is not assessable until that choice is made. Apply the same rubric to other non-check statuses using [[Note Status]]. Never add, remove, replace, or normalize any status tag except `status/check/lint` through its authorized lifecycle.
+
+## Safe fixes and proposals
+
+When no more specific rule controls the action, apply a change automatically only if exactly one correction satisfies the adopted rules, the operation is lint-owned, and it preserves lore meaning, uncertainty, attribution, temporal framing, and player/DM visibility. Supported descriptive metadata may be applied when it records one unambiguous interpretation of the existing note rather than changing that interpretation. If multiple reasonable corrections exist, a human decision remains, or meaning or visibility could change, provide a copy-ready proposal instead.
+
+Canonical frontmatter ordering and formatting, versioned lint-state replacement, unambiguous one-to-one legacy-syntax conversion, and exact movement of an unambiguously misplaced header comment are ordinary automatic cases. Prose or lore changes, competing classifications or metadata interpretations, new or moved `Date:*`, `Campaign:*`, or secret blocks that can change filtered visibility, ambiguous comment moves or map conversions, and all changes to human attestations or non-lint status tags are proposal-only.
+
 ## Adopted metadata and structural checks
 
 ### Frontmatter
 
-Version 2.6 uses this canonical ordering:
+Version 3.0 uses this canonical ordering:
 
 1. deprecated or obsolete fields, retained conspicuously for human migration;
 2. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
@@ -149,11 +185,13 @@ String-only lists and dictionaries use one line. Lists of dictionaries are expan
 
 ### Naming and pronunciation
 
-Pronunciation is required for named in-world subjects unless contextual judgment recognizes a plain-English title or genuinely obvious ordinary name. Every `pronunciation` value must be an actual pronounceable guide; contextual exemptions are represented by absence, never by sentinel text such as `title`, `obvious`, `meta`, or `inherited from ...`. A proposal must explain its language, derivation, and uncertainty and remains noncanonical until accepted. When [[Languages]] documents a real-world analogue, the linter must use that analogue to generate and explain a natural pronunciation or adaptation of the spelling. Missing exact in-world phonology makes the result proposed rather than documented; it does not justify an English-default reading.
+Perform contextual name review when the note has no valid `lintedAt`/`lintVersion` pair or its prior version is numerically lower than `nameReviewVersion`. A valid prior version at or above the threshold suppresses both missing-block applicability review and pronunciation search or derivation. The gate never suppresses deterministic validation of an existing block. A `proposed`, `disputed`, or `unresolved` entry remains an open deterministic human-review task; preserve it without recalculating the entry.
 
-Every note whose subject is a named in-world thing or work uses `Metadata:names:v1` as documented in [[Name Metadata]]. Applicability is semantic rather than tag-, folder-, or title-based: people, places, objects, groups, events, powers, creatures, ancestries or cultures, religions, primary-source works, and other named in-world subjects require the block. A `background`-tagged entity article still requires it. A meta or background page that organizes, analyzes, or summarizes information without itself describing an in-world subject does not; examples include `History of Sembara`, `Timeline of Tollen`, and `West Coast History Framework`.
+When review applies, first decide semantically whether the note's primary subject is a named in-world thing or in-world work. Notes about people, places, objects, groups, events, powers, creatures, ancestries or cultures, religions, primary-source works, and other named in-world subjects use `Metadata:names:v1` as documented in [[Name Metadata]]. A meta or background page that merely organizes, analyzes, or summarizes in-world material does not. Tag, folder, and title do not decide applicability.
 
-The linter validates but does not overwrite accepted name data or invent etymology to fill a block. When no stronger name facts are known, it writes a minimal entry containing the exact subject name and `language: unknown`. An analogue-derived or otherwise unaccepted pronunciation is retained in the block with `status: proposed`, explained in the Lint report while unresolved, and never promoted to frontmatter before human acceptance. A plain-English or otherwise obvious name may omit pronunciation, but it does not omit the required name block.
+For an applicable note, write a minimal primary entry with the exact subject name and its established language, or `language: unknown`; add other forms only when documented and never invent etymology. When creating a missing entry, if frontmatter has an actual pronunciation, treat the note itself as the source and record the matching entry as `status: documented` without requiring a source note. Otherwise use an explicit recorded pronunciation when found, mark it `documented`, and cite its source in `notes`. If the complete name is a genuinely obvious ordinary name or plain-English title, omit pronunciation. Otherwise derive the strongest supported proposal and store it with `status: proposed`, with its source or derivation in `notes`, until human acceptance. Preserve an existing unresolved entry rather than recalculating it; that rule takes precedence over the creation rule.
+
+Use adopted language rules before cultural patterns or a real-world analogue in [[Languages]], and a cautious spelling-based reading only when no stronger basis exists. Missing exact in-world phonology leaves an analogue-derived result proposed. Every pronunciation must be pronounceable; exemptions use absence rather than sentinel text. Whenever a name-block entry has a pronunciation and frontmatter either has no pronunciation or has a different one, its `notes` must record the block value's source or derivation. A matching frontmatter pronunciation needs no source note. Never overwrite accepted frontmatter or recalculate an unresolved block entry automatically.
 
 ### Campaign knowledge and identity
 
@@ -171,15 +209,26 @@ The linter distinguishes three private in-note forms:
 - ordinary `%% ... %%` comments are Git-shared, nonpublic DM or editorial material; and
 - `Campaign:none` blocks are structured Git-shared DM material excluded from Taelgarverse.
 
-`dm_notes` is a human attestation that relevant information exists outside Git-tracked material or in someone's head. Shared comments or blocks do not imply it. For `dm_owner: tim`, `joint`, or `none`, the linter searches `_DM_` for direct links or unique exact-name matches, reports matching Markdown notes as wikilinks without exposing content, and uses the result only to question or support human review of `dm_notes`. It never removes `dm_notes` automatically.
+`dm_notes` is a human attestation that relevant information exists outside Git-tracked material or in someone's head. Shared comments or blocks do not imply it. Basic vocabulary validation always applies, but the contextual evidence review has an independent validation boundary. For `dm_owner: tim`, `joint`, or `none`, perform that review when any of the following is true:
 
-The linter does not adjudicate `color` versus `important`; both mean that the human attestation is present. When local hidden notes support an existing non-`none` value, they are supporting evidence rather than an open finding. Report found Markdown notes as Obsidian wikilinks, not raw filesystem-path lists.
+- the note has no valid `lintedAt`/`lintVersion` pair;
+- its prior `lintVersion` is numerically lower than `dmNotesReviewVersion`; or
+- an `_DM_` Markdown note that directly links or uniquely matches the subject has a filesystem modification time later than `lintedAt`.
 
-`dm_notes: none` is compatible with a SECRET block. A SECRET block—including one that only links to hidden material—already communicates that the page has a secret. If it accounts for the hidden material found and no additional unlinked `_DM_` material remains, retain `dm_notes: none` without complaint. Additional unlinked hidden material may still justify a human-review warning. If `color` or `important` has no local file evidence, a suggestion to review the attestation is permitted, but the field may represent information in someone's head or another off-vault source and must never be removed automatically.
+If none applies, do not re-check or report on the `dm_notes` attestation during that lint. If a newer matching source triggers review, evaluate the complete current match set, not only the new source. A newer nonmatching `_DM_` file does not trigger review.
+
+When review applies, use these four outcomes:
+
+- `dm_notes: none` with no matches is valid and produces no finding.
+- `dm_notes: none` with matches produces an informational “Did you check these notes?” list. Candidate presence alone is not a suggestion to change the human attestation.
+- `dm_notes: color` or `important` with no matches produces the suggestion “No `_DM_` notes found; verify `dm_notes`.” The field may represent information in someone's head or another off-vault source and must never be removed automatically.
+- `dm_notes: color` or `important` with matches produces an informational reference list. The linter does not adjudicate between the two positive values.
+
+Report matching Markdown notes as Obsidian wikilinks without exposing content. The presence or contents of `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks in the target never trigger, suppress, support, or otherwise affect the candidate-based `dm_notes` review; they are separate privacy mechanisms. In-note secret material remains compatible with `dm_notes: none` under [[Note Status]].
 
 ### Links and relationship metadata
 
-Obsidian resolves a bare wikilink target from filenames, not from frontmatter `name` or `aliases`. Link validation therefore treats `[[Drankor]]` as a link to a file named `Drankor.md`; an alias on another file does not make that link ambiguous. Explicit paths disambiguate genuine duplicate filenames.
+Obsidian resolves a bare wikilink target from filenames, not from frontmatter `name` or `aliases`. Link validation therefore treats `[[Drankor]]` as a link to a file named `Drankor.md`; an alias on another file does not make that link ambiguous. Explicit paths disambiguate genuine duplicate filenames. Markdown notes inside dot-prefixed directories are not link or relationship targets and do not create filename, name, or alias collisions, although they remain searchable and citable evidence.
 
 Metadata relationship resolution is a separate system and may use the vault's name and alias conventions. `whereabouts.location` also permits descriptive free text such as `traveling east to Tokra`. A value that does not resolve to a note is not by itself malformed and does not produce an unresolved-relationship finding. The contextual pass may still report a demonstrated typo, contradiction, or misleading location, but it must not replace an existing supported entry with an identical duplicate.
 
@@ -212,7 +261,7 @@ locations:
   - {map: world, locator: }
 ```
 
-### Article metadata and comment placement
+### POV metadata and comment placement
 
 The searchable viewpoint lives at the end of frontmatter:
 
@@ -220,16 +269,15 @@ The searchable viewpoint lives at the end of frontmatter:
 POV: 1750
 ```
 
-Persistent article interpretation lives at the end of the note after prose and comments:
+The persistent temporal interpretation lives at the end of the note after prose and comments:
 
-```yaml
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Temporal coverage: approximately DR 1748–1752; the present-tense geography is continuous across that interval, while older history does not change the article's speaking point."
+```markdown
+%%^povNotes:v1%%
+Temporal coverage: approximately DR 1748–1752; the present-tense geography is continuous across that interval, while older history does not change the article's speaking point.
 %%^End%%
 ```
 
-`POV`, `mode`, and `povNotes` describe the article rather than the lint run and remain after review. The descriptive profile is already represented by the note tag and is not repeated. A completed lint requires `POV`, `mode`, and `povNotes`; the old inline `(POV:: ...)` annotation and article-block `pov` key are deprecated. On re-lint, migrate their meaning into the frontmatter value and `povNotes` rather than preserving duplicate temporal labels.
+`POV` and `povNotes` describe the article rather than the lint run and remain after review. A completed lint requires frontmatter `POV` and one nonempty `povNotes:v1` text block. `mode` has no adopted semantics and is not retained. The old inline `(POV:: ...)` annotation and `Metadata:article` block are deprecated. Every full re-lint independently reassesses both `POV` and `povNotes` against the current note and applicable evidence. The legacy block's `povNotes` value is evidence whose meaning must not be lost, not accepted final output: retain it unchanged only when the contextual review confirms that it remains accurate; otherwise rewrite it. Move any useful legacy `pov` meaning into frontmatter or the explanation, and discard `mode`, `profile`, and other obsolete article-block keys.
 
 Comments belong below the complete header block: the title and any immediately following information/header callout. The linter moves only an unambiguously misplaced comment while preserving its text exactly; uncertain rearrangements become suggestions.
 
@@ -282,20 +330,27 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.6, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 3.0, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
 
-Automatic batch discovery excludes `Worldbuilding/**`. Explicit preparation rejects a Worldbuilding target, and snapshot/finalization reject any manifest that contains one, including a manifest created under an older rule set.
+Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Explicit preparation rejects such targets, and snapshot/finalization reject any manifest that contains one, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
 
-Batch preparation builds the vault link/identity index once and scans `_DM_` once for all targets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, matching private evidence also receives a separate modification-time freshness check. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
+Batch preparation builds the vault link/identity index once and scans `_DM_` once for all targets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, the shared DM scan records each matching file's modification time directly; this evidence both gates contextual DM review and routes a current note when a matching private source is newer than `lintedAt`. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
 
-Routine routing follows the adopted invalidation model:
+Batch selection resolves scope before routing:
+
+1. The user's named files, folders, collection, or sample are the maximum scope; selection flags never broaden it.
+2. Remove target-ineligible paths.
+3. A plain `lint` request excludes every note with a valid prior `lintedAt`/`lintVersion` pair. Stale versions, open findings, deterministic errors, or newer evidence do not override this default.
+4. Only explicit language such as `re-lint`, `lint again`, or `refresh the lint` authorizes including previously linted notes, and only within the target that language modifies. Mixed scopes are prepared separately.
+
+The batch CLI enforces this boundary: named targets are filtered by default, `--re-lint` includes valid prior lint state, and `--all-linted` or `--stale` require `--re-lint`. Within an explicitly authorized re-lint scope, routing follows the adopted invalidation model:
 
 - an unlinted note requires review;
 - a stale `lintVersion` requires a complete current-version review using the old timestamp as its freshness baseline when valid;
 - a current note with a newer external source that mentions it requires judgment about whether invention elsewhere has overtaken the article; and
 - a current note with no newer invention candidate is eligible for a no-op and is not edited merely to refresh its timestamp.
 
-Routing is triage, not a substitute for an explicit request. If the user specifically asks to re-lint a named note, review it completely even when routine routing would permit a no-op.
+Routing is triage after selection, never authorization to re-lint. If the user specifically asks to re-lint a named note, review it completely even when routing would permit a no-op.
 
 Batch writes have three phases:
 

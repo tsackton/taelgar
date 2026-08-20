@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 ## Linted, Other Status
 
 ```dataview

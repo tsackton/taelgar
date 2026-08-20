@@ -126,6 +126,41 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_nil candidate.fetch("lastCommit")
   end
 
+  def test_freshness_scanner_keeps_target_ineligible_markdown_notes_as_evidence
+    root = make_vault
+    target = "People/Alpha Person.md"
+    write_note(root, target, person_note("Alpha Person", linted: true))
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(root, "commit", "-q", "-m", "base")
+
+    evidence_paths = [
+      ".chatgpt/Hidden Evidence.md",
+      "Campaigns/.chatgpt/Nested Hidden Evidence.md",
+      "Campaigns/_generated/Generated Evidence.md",
+      "Worldbuilding/Provisional Evidence.md"
+    ]
+    modified = Time.iso8601("2026-08-19T10:00:00-04:00")
+    evidence_paths.each do |path|
+      write_note(root, path, "# Evidence\n\n[[Alpha Person]] changed.\n")
+      File.utime(modified, modified, File.join(root, path))
+    end
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    assert_empty index.resolve("Hidden Evidence")
+    assert_empty index.resolve("Nested Hidden Evidence")
+    assert_equal ["Campaigns/_generated/Generated Evidence.md"], index.resolve("Generated Evidence")
+    scanner = TaelgarNoteLint::FreshnessScanner.new(root: root, index: index, baseline_ref: "HEAD")
+
+    freshness = scanner.scan(
+      { "note" => { "path" => target } },
+      linted_at: "2026-08-19T09:00:00-04:00"
+    )
+
+    assert_equal evidence_paths.sort, freshness.fetch("candidates").map { |item| item.fetch("path") }.sort
+  end
+
   def test_preparer_marks_unlinted_notes_for_review_without_a_git_baseline
     root = make_vault
     write_note(root, "People/Alpha Person.md", person_note("Alpha Person", linted: false))
@@ -149,19 +184,12 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     modified = Time.iso8601("2026-08-19T10:00:00-04:00")
     File.utime(modified, modified, File.join(root, dm_path))
     note = TaelgarNoteLint::ParsedNote.new(path, text)
-    report = {
-      "summary" => { "errors" => 0 },
-      "findings" => [
-        {
-          "ruleId" => "dm.notes_private_evidence_found",
-          "details" => { "sources" => [{ "path" => dm_path }] }
-        }
-      ]
-    }
+    report = { "summary" => { "errors" => 0 }, "findings" => [] }
+    sources = [{ "path" => dm_path, "modifiedAt" => modified.iso8601(6), "matchKinds" => ["link"] }]
     preparer = TaelgarNoteLint::Batch::Preparer.allocate
     preparer.instance_variable_set(:@root, Pathname.new(root))
 
-    dm_freshness = preparer.send(:dm_freshness_for, note, report)
+    dm_freshness = preparer.send(:dm_freshness_for, note, sources)
     routing = preparer.send(
       :routing_for,
       note,
@@ -171,8 +199,34 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     )
 
     assert_equal [dm_path], dm_freshness.fetch("candidates").map { |item| item.fetch("path") }
+    assert_equal ["link"], dm_freshness.dig("candidates", 0, "matchKinds")
     assert routing.fetch("reviewRecommended")
     assert_equal "newer_private_dm_evidence", routing.fetch("reason")
+  end
+
+  def test_older_local_dm_evidence_does_not_route_a_validated_note
+    root = make_vault
+    path = "People/Alpha Person.md"
+    text = person_note("Alpha Person", linted: true)
+    write_note(root, path, text)
+    note = TaelgarNoteLint::ParsedNote.new(path, text)
+    sources = [
+      {
+        "path" => "_DM_/Existing Secret.md",
+        "modifiedAt" => "2026-08-19T08:00:00-04:00",
+        "matchKinds" => ["link"]
+      }
+    ]
+    report = { "summary" => { "errors" => 0 }, "findings" => [] }
+    preparer = TaelgarNoteLint::Batch::Preparer.allocate
+    preparer.instance_variable_set(:@root, Pathname.new(root))
+
+    dm_freshness = preparer.send(:dm_freshness_for, note, sources)
+    routing = preparer.send(:routing_for, note, { "candidates" => [] }, dm_freshness, report)
+
+    assert_empty dm_freshness.fetch("candidates")
+    refute routing.fetch("reviewRecommended")
+    assert_equal "current_with_no_newer_invention_candidate", routing.fetch("reason")
   end
 
   def test_git_baseline_prefers_the_commit_that_records_the_lint_state
@@ -267,6 +321,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
     write_note(root, "Meta/Stale.md", meta_note("Stale", version: "2.2"))
     write_note(root, "Worldbuilding/Linted.md", meta_note("Linted Worldbuilding", version: "2.2"))
+    write_note(root, "Campaigns/_generated/Linted.md", meta_note("Generated Lint", version: "2.2"))
+    write_note(root, "Campaigns/.chatgpt/Linted.md", meta_note("Hidden Lint", version: "2.2"))
     cli = TaelgarNoteLint::Batch::CLI.new([])
 
     all = cli.send(:discover_paths, Pathname.new(root), all_linted: true, stale: false)
@@ -276,20 +332,30 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal ["Meta/Stale.md"], stale
   end
 
-  def test_preparer_rejects_explicit_worldbuilding_targets
+  def test_preparer_rejects_any_worldbuilding_dot_or_underscore_directory_segment
     root = make_vault
-    write_note(root, "Worldbuilding/Idea.md", "# Idea\n")
+    paths = [
+      "Worldbuilding/Idea.md",
+      "Campaigns/Worldbuilding/Idea.md",
+      ".chatgpt/Idea.md",
+      "Campaigns/.chatgpt/Idea.md",
+      "_generated/Idea.md",
+      "Campaigns/_generated/Idea.md"
+    ]
+    paths.each { |path| write_note(root, path, "# Idea\n") }
 
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      TaelgarNoteLint::Batch::Preparer.new(root: root).prepare(["Worldbuilding/Idea.md"])
+    paths.each do |path|
+      error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+        TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
+      end
+
+      assert_includes error.message, "outside Taelgar Note Linter scope"
     end
-
-    assert_includes error.message, "Worldbuilding notes are outside"
   end
 
-  def test_snapshot_and_finalizer_reject_legacy_worldbuilding_manifests
+  def test_snapshot_and_finalizer_reject_legacy_ineligible_manifests
     root = make_vault
-    path = "Worldbuilding/Old Lint.md"
+    path = "Campaigns/_generated/Old Lint.md"
     write_note(root, path, meta_note("Old Lint", version: TaelgarNoteLint::VERSION))
     manifest, manifest_sha = manifest_for(root, [path])
 
@@ -318,8 +384,62 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       finalizer(root, manifest, manifest_sha, decisions).finalize
     end
 
-    assert_includes snapshot_error.message, "Worldbuilding notes are outside"
-    assert_includes finalize_error.message, "Worldbuilding notes are outside"
+    assert_includes snapshot_error.message, "outside Taelgar Note Linter scope"
+    assert_includes finalize_error.message, "outside Taelgar Note Linter scope"
+  end
+
+  def test_cli_skips_valid_prior_lints_unless_relint_is_explicit
+    root = make_vault
+    current = "Meta/Current.md"
+    stale = "Meta/Stale.md"
+    unlinted = "People/Unlinted.md"
+    write_note(root, current, meta_note("Current", version: TaelgarNoteLint::VERSION))
+    write_note(root, stale, meta_note("Stale", version: "2.2"))
+    write_note(root, unlinted, person_note("Unlinted"))
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(root, "commit", "-q", "-m", "base")
+    ordinary_output = File.join(root, "ordinary.json")
+    relint_output = File.join(root, "relint.json")
+
+    ordinary_result = TaelgarNoteLint::Batch::CLI.new(
+      ["prepare", "--root", root, "--output", ordinary_output, current, stale, unlinted]
+    ).run
+    relint_result = TaelgarNoteLint::Batch::CLI.new(
+      ["prepare", "--root", root, "--re-lint", "--output", relint_output, current, stale]
+    ).run
+    ordinary = JSON.parse(File.read(ordinary_output))
+    relint = JSON.parse(File.read(relint_output))
+
+    assert_equal 0, ordinary_result
+    assert_equal [unlinted], ordinary.fetch("notes").map { |note| note.fetch("path") }
+    assert_equal 2, ordinary.dig("selectionSummary", "skippedAlreadyLinted")
+    assert_equal 0, relint_result
+    assert_equal [current, stale].sort, relint.fetch("notes").map { |note| note.fetch("path") }.sort
+  end
+
+  def test_cli_requires_explicit_relint_for_linted_discovery_flags
+    root = make_vault
+    _stdout, stderr = capture_io do
+      result = TaelgarNoteLint::Batch::CLI.new(["prepare", "--root", root, "--all-linted"]).run
+      assert_equal 2, result
+    end
+
+    assert_includes stderr, "require --re-lint"
+  end
+
+  def test_cli_rejects_broad_discovery_mixed_with_named_scope
+    root = make_vault
+    _stdout, stderr = capture_io do
+      result = TaelgarNoteLint::Batch::CLI.new(
+        ["prepare", "--root", root, "--re-lint", "--all-linted", "Meta/Named.md"]
+      ).run
+      assert_equal 2, result
+    end
+
+    assert_includes stderr, "cannot be combined with named targets"
   end
 
   def test_cli_returns_an_empty_manifest_when_no_stale_notes_exist
@@ -328,7 +448,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     output = File.join(root, "empty-stale-manifest.json")
 
     result = TaelgarNoteLint::Batch::CLI.new(
-      ["prepare", "--root", root, "--stale", "--output", output]
+      ["prepare", "--root", root, "--re-lint", "--stale", "--output", output]
     ).run
     manifest = JSON.parse(File.read(output))
 
@@ -486,9 +606,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       - {name: #{name}, language: Common, pronunciation: NAYM}
       %%^End%%
 
-      %%^Metadata:article:v1%%
-      mode: biographical reference
-      povNotes: "Temporal coverage: a DR 1750 biographical portrait."
+      %%^povNotes:v1%%
+      Temporal coverage: a DR 1750 biographical portrait.
       %%^End%%
     MARKDOWN
   end
@@ -516,9 +635,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       ---
       # #{name}
 
-      %%^Metadata:article:v1%%
-      mode: meta reference
-      povNotes: "Temporal coverage: modern; this meta reference has no narrower in-world limitation."
+      %%^povNotes:v1%%
+      Temporal coverage: modern; this meta reference has no narrower in-world limitation.
       %%^End%%
       #{report}
     MARKDOWN

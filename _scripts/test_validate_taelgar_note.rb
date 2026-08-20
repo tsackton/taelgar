@@ -19,6 +19,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     assert_nil specification.yaml_error
     assert_equal TaelgarNoteLint::VERSION, specification.data["linterVersion"]
+    assert_equal TaelgarNoteLint::DM_NOTES_REVIEW_VERSION, specification.data["dmNotesReviewVersion"]
+    assert_equal TaelgarNoteLint::NAME_REVIEW_VERSION, specification.data["nameReviewVersion"]
   end
 
   def setup
@@ -109,6 +111,35 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute(report.fetch("findings").any? do |finding|
       finding["ruleId"].start_with?("relationship.") && finding.dig("details", "target") == "traveling east to Tokra"
     end)
+  end
+
+  def test_dot_directory_notes_do_not_create_link_or_relationship_ambiguity
+    root = make_vault
+    canonical_path = "Gazetteer/Old Chardon Canal.md"
+    write_note(
+      root,
+      canonical_path,
+      "---\ntags: [place]\nname: Old Chardon Canal\ntypeOf: waterway\n---\n# Old Chardon Canal\n"
+    )
+    write_note(
+      root,
+      ".backups/snapshot/Old Chardon Canal.md",
+      "---\ntags: [place]\nname: Old Chardon Canal\ntypeOf: waterway\n---\n# Old Chardon Canal\n"
+    )
+    write_note(
+      root,
+      "People/Canal Keeper.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\nwhereabouts: Old Chardon Canal\n---\n# Canal Keeper\n\nSee [[Old Chardon Canal]].\n"
+    )
+
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    report = TaelgarNoteLint::Validator.new(root: root, check_links: true, index: index)
+                                    .validate_path("People/Canal Keeper.md")
+
+    assert_equal [canonical_path], index.resolve("Old Chardon Canal", "People/Canal Keeper.md")
+    assert_equal [canonical_path], index.resolve_identity("Old Chardon Canal", "People/Canal Keeper.md")
+    refute_includes rule_ids(report), "link.ambiguous"
+    refute_includes rule_ids(report), "relationship.ambiguous"
   end
 
   def test_invalid_utf8_in_markdown_is_reported_without_aborting_the_index
@@ -213,11 +244,11 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes rule_ids(missing), "pronunciation.missing_or_exception"
     refute_includes rule_ids(present), "pronunciation.missing_or_exception"
     refute_includes rule_ids(source), "pronunciation.missing_or_exception"
-    assert_includes rule_ids(placeholder), "pronunciation.missing_or_exception"
+    refute_includes rule_ids(placeholder), "pronunciation.missing_or_exception"
     assert_includes rule_ids(placeholder), "metadata.names_pronunciation_placeholder"
   end
 
-  def test_name_blocks_are_forbidden_on_meta_and_discouraged_on_nonreligious_background_notes
+  def test_name_block_applicability_is_not_inferred_from_meta_or_background_tags
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     block = "%%^Metadata:names:v1%%\n- {name: Example, language: Common}\n%%^End%%\n"
@@ -225,9 +256,91 @@ class ValidateTaelgarNoteTest < Minitest::Test
     background = validator.validate_text("Background/Example.md", "---\ntags: [background]\n---\n# Example\n\n#{block}")
     religion = validator.validate_text("Religion/Example.md", "---\ntags: [background, religion/example]\n---\n# Example\n\n#{block}")
 
-    assert_includes rule_ids(meta), "metadata.names_forbidden_for_meta"
-    assert_includes rule_ids(background), "metadata.names_unnecessary_for_background"
+    refute_includes rule_ids(meta), "metadata.names_forbidden_for_meta"
+    refute_includes rule_ids(background), "metadata.names_unnecessary_for_background"
     refute_includes rule_ids(religion), "metadata.names_unnecessary_for_background"
+  end
+
+  def test_name_review_gate_skips_contextual_findings_after_threshold
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    current = validator.validate_text(
+      "People/Reviewed Person.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::NAME_REVIEW_VERSION}"
+        tags: [person]
+        species: human
+        ---
+        # Reviewed Person
+      MARKDOWN
+    )
+    stale = validator.validate_text(
+      "People/Stale Person.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "2.10"
+        tags: [person]
+        species: human
+        ---
+        # Stale Person
+      MARKDOWN
+    )
+
+    refute_includes rule_ids(current), "identity.implicit_name"
+    refute_includes rule_ids(current), "pronunciation.missing_or_exception"
+    assert_includes rule_ids(stale), "identity.implicit_name"
+    assert_includes rule_ids(stale), "pronunciation.missing_or_exception"
+  end
+
+  def test_unresolved_name_entries_remain_deterministic_open_work_without_recalculation
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "People/Reviewed Names.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::NAME_REVIEW_VERSION}"
+        tags: [person]
+        species: human
+        name: Reviewed Names
+        ---
+        # Reviewed Names
+
+        %%^Metadata:names:v1%%
+        - {name: Reviewed Names, language: Common, pronunciation: ree-VYOOD, status: proposed, notes: Spelling-based proposal}
+        - {name: Older Name, language: Common, status: disputed}
+        - {name: Hidden Name, language: unknown, status: unresolved}
+        %%^End%%
+      MARKDOWN
+    )
+
+    assert_equal 3, rule_ids(report).count("metadata.names_unresolved_status")
+    refute_includes rule_ids(report), "pronunciation.missing_or_exception"
+  end
+
+  def test_name_block_pronunciation_requires_notes_only_when_frontmatter_does_not_match
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    matching = validator.validate_text(
+      "People/Matching.md",
+      "---\ntags: [person]\nspecies: human\npronunciation: MATCH-ing\n---\n# Matching\n\n%%^Metadata:names:v1%%\n- {name: Matching, language: Common, pronunciation: MATCH-ing, status: documented}\n%%^End%%\n"
+    )
+    unexplained = validator.validate_text(
+      "People/Unexplained.md",
+      "---\ntags: [person]\nspecies: human\n---\n# Unexplained\n\n%%^Metadata:names:v1%%\n- {name: Unexplained, language: Common, pronunciation: un-PLAYND, status: documented}\n%%^End%%\n"
+    )
+    explained = validator.validate_text(
+      "People/Explained.md",
+      "---\ntags: [person]\nspecies: human\n---\n# Explained\n\n%%^Metadata:names:v1%%\n- {name: Explained, language: Common, pronunciation: ex-PLAYND, status: documented, notes: Recorded in [[Pronunciation Source]]}\n%%^End%%\n"
+    )
+
+    refute_includes rule_ids(matching), "metadata.names_pronunciation_notes_missing"
+    assert_includes rule_ids(unexplained), "metadata.names_pronunciation_notes_missing"
+    refute_includes rule_ids(explained), "metadata.names_pronunciation_notes_missing"
   end
 
   def test_trial_metadata_and_lint_blocks_are_recognized_and_validated
@@ -247,9 +360,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
         ---
         # River
 
-        %%^Metadata:article:v1%%
-        mode: geographic reference
-        povNotes: "Temporal coverage: modern; the geographic prose has no narrower campaign-relative limitation."
+        %%^povNotes:v1%%
+        Temporal coverage: modern; the geographic prose has no narrower campaign-relative limitation.
         %%^End%%
 
         %%^Metadata:names:v1%%
@@ -280,7 +392,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(report), "privacy.shared_comment"
     refute_includes rule_ids(report), "temporal.inline_pov"
     refute_includes rule_ids(report), "metadata.position"
-    refute_includes rule_ids(report), "metadata.article_redundant_profile"
+    refute_includes rule_ids(report), "metadata.pov_notes_empty"
   end
 
   def test_clean_lint_has_no_report_or_status
@@ -298,9 +410,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
         ---
         # Session 1
 
-        %%^Metadata:article:v1%%
-        mode: campaign record
-        povNotes: "Temporal coverage: the DR 1748 session chronology; this is an authoritative record rather than a continuous current-state article."
+        %%^povNotes:v1%%
+        Temporal coverage: the DR 1748 session chronology; this is an authoritative record rather than a continuous current-state article.
         %%^End%%
       MARKDOWN
     )
@@ -357,18 +468,17 @@ class ValidateTaelgarNoteTest < Minitest::Test
         ---
         # Meta
 
-        %%^Metadata:article:v1%%
-        mode: meta
-        povNotes: This note describes the current vault workflow.
+        %%^povNotes:v1%%
+        Temporal coverage: this note describes the current vault workflow.
         %%^End%%
       MARKDOWN
     )
 
     assert_includes rule_ids(report), "lint.version_outdated"
-    assert_equal "2.6", report.fetch("validatorVersion")
+    assert_equal "3.0", report.fetch("validatorVersion")
   end
 
-  def test_completed_lints_require_scalar_frontmatter_pov_and_article_notes
+  def test_completed_lints_require_scalar_frontmatter_pov_and_pov_notes
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     missing = validator.validate_text(
@@ -381,9 +491,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
         ---
         # Meta
 
-        %%^Metadata:article:v1%%
-        mode: meta
-        povNotes: This note is not tied to in-world chronology.
+        %%^povNotes:v1%%
+        Temporal coverage: this note is not tied to in-world chronology.
         %%^End%%
       MARKDOWN
     )
@@ -410,19 +519,79 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     assert_includes rule_ids(missing), "metadata.pov_missing"
     assert_includes rule_ids(malformed), "metadata.pov_shape"
-    assert_includes rule_ids(legacy), "metadata.article_legacy_pov"
-    refute_includes rule_ids(legacy), "metadata.article_required_field"
+    assert_includes rule_ids(legacy), "metadata.legacy_article_block"
+    refute_includes rule_ids(legacy), "metadata.pov_notes_empty"
   end
 
-  def test_malformed_name_block_reports_errors_without_aborting_identity_checks
+  def test_pov_notes_blocks_require_v1_nonempty_plain_text_and_are_unique
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    valid = validator.validate_text(
+      "Meta/Valid.md",
+      "---\ntags: [meta]\n---\n# Valid\n\n%%^povNotes:v1%%\nTemporal coverage: modern; plain text needs no YAML quoting.\n%%^End%%\n"
+    )
+    unversioned = validator.validate_text(
+      "Meta/Unversioned.md",
+      "---\ntags: [meta]\n---\n# Unversioned\n\n%%^povNotes%%\nTemporal coverage: modern.\n%%^End%%\n"
+    )
+    empty = validator.validate_text(
+      "Meta/Empty.md",
+      "---\ntags: [meta]\n---\n# Empty\n\n%%^povNotes:v1%%\n%%^End%%\n"
+    )
+    duplicate = validator.validate_text(
+      "Meta/Duplicate.md",
+      "---\ntags: [meta]\n---\n# Duplicate\n\n%%^povNotes:v1%%\nTemporal coverage: modern.\n%%^End%%\n\n%%^povNotes:v1%%\nTemporal coverage: modern.\n%%^End%%\n"
+    )
+    missing = validator.validate_text(
+      "Meta/Missing.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::VERSION}\"\ntags: [meta]\nPOV: modern\n---\n# Missing\n"
+    )
+
+    refute_includes rule_ids(valid), "syntax.unknown_content_marker"
+    refute_includes rule_ids(valid), "metadata.invalid_pov_notes_version"
+    refute_includes rule_ids(valid), "metadata.pov_notes_empty"
+    assert_includes rule_ids(unversioned), "metadata.invalid_pov_notes_version"
+    assert_includes rule_ids(empty), "metadata.pov_notes_empty"
+    assert_includes rule_ids(duplicate), "metadata.duplicate_pov_notes_block"
+    assert_includes rule_ids(missing), "metadata.pov_notes_missing"
+  end
+
+  def test_completed_lints_accept_undated_pov_when_temporal_support_is_absent
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Background/Undated Example.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::VERSION}"
+        tags: [background]
+        POV: undated
+        ---
+        # Undated Example
+
+        The available material does not establish when this account should be read.
+
+        %%^povNotes:v1%%
+        Temporal coverage: undated; the available evidence does not support a modern, decade, or year reading position.
+        %%^End%%
+      MARKDOWN
+    )
+
+    refute_includes rule_ids(report), "metadata.pov_missing"
+    refute_includes rule_ids(report), "metadata.pov_shape"
+    assert_equal "3.0", report.fetch("validatorVersion")
+  end
+
+  def test_current_name_review_still_validates_malformed_existing_blocks
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     report = validator.validate_text(
       "People/Julius.md",
-      "---\ntags: [person]\nspecies: human\nknownTo: []\n---\n# Julius\n\n%%^Metadata:names:v1%%\n- not-a-mapping\n%%^End%%\n"
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::NAME_REVIEW_VERSION}\"\ntags: [person]\nspecies: human\nknownTo: []\n---\n# Julius\n\n%%^Metadata:names:v1%%\n- not-a-mapping\n%%^End%%\n"
     )
 
-    assert_includes rule_ids(report), "identity.implicit_name"
+    refute_includes rule_ids(report), "identity.implicit_name"
     assert_includes rule_ids(report), "metadata.names_shape"
   end
 
@@ -722,6 +891,12 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "Gazetteer/Recent Regional Synthesis.md",
       "---\ntags: [place]\ntypeOf: region\naudience: [all]\n---\n# Recent Regional Synthesis\n\nJulius Prime is relevant here.\n"
     )
+    hidden_source_path = ".backups/Research/Julius Notes.md"
+    write_note(
+      root,
+      hidden_source_path,
+      "---\ntags: [meta]\naudience: [none]\n---\n# Julius Notes\n\n[[Julius]] once crossed this region.\n"
+    )
     binary_path = File.join(root, "_dm_notes", "map.png")
     File.binwrite(binary_path, "\x89PNG\x00[[Julius]]\xFF".b)
     git(root, "add", ".")
@@ -743,6 +918,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal true, by_path.fetch("_dm_notes/Current Plans.md").fetch("mentionChanged")
     assert_equal "vault-note", by_path.fetch("Gazetteer/Recent Regional Synthesis.md").fetch("sourceKind")
     assert_equal true, by_path.fetch("Gazetteer/Recent Regional Synthesis.md").fetch("mentionChanged")
+    assert_equal "vault-note", by_path.fetch(hidden_source_path).fetch("sourceKind")
+    assert_equal true, by_path.fetch(hidden_source_path).fetch("mentionChanged")
     refute_includes by_path.keys, "_dm_notes/map.png"
     refute report.fetch("findings").any? { |finding| finding["ruleId"].start_with?("freshness.") }
   end
@@ -809,10 +986,10 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes rule_ids(known), "campaign.noncanonical_code"
   end
 
-  def test_metadata_blocks_are_at_note_end_and_article_metadata_does_not_repeat_profile
+  def test_persistent_blocks_are_at_note_end_and_legacy_article_blocks_get_a_copy_ready_migration
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
-    block = "%%^Metadata:article:v1%%\nmode: geographic reference\npovNotes: \"Temporal coverage: modern; the geography has no narrower established limitation.\"\n%%^End%%"
+    block = "%%^povNotes:v1%%\nTemporal coverage: modern; the geography has no narrower established limitation.\n%%^End%%"
     misplaced = validator.validate_text(
       "Gazetteer/Test.md",
       "---\ntags: [place]\ntypeOf: forest\n---\n#{block}\n\n# Test\n\nBody.\n"
@@ -821,14 +998,16 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "Gazetteer/Test.md",
       "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n\nBody.\n\n#{block}\n"
     )
-    redundant = validator.validate_text(
+    legacy = validator.validate_text(
       "Gazetteer/Test.md",
-      "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n\nBody.\n\n#{block.sub('mode:', "profile: place\nmode:")}\n"
+      "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n\nBody.\n\n%%^Metadata:article:v1%%\nmode: geographic reference\npovNotes: \"Temporal coverage: modern; the geography has no narrower established limitation.\"\n%%^End%%\n"
     )
 
     assert_includes rule_ids(misplaced), "metadata.position"
     refute_includes rule_ids(placed), "metadata.position"
-    assert_includes rule_ids(redundant), "metadata.article_redundant_profile"
+    finding = legacy.fetch("findings").find { |item| item["ruleId"] == "metadata.legacy_article_block" }
+    refute_nil finding
+    assert_equal block, finding.dig("details", "candidate")
   end
 
   def test_comments_belong_below_title_and_header_callout
@@ -845,6 +1024,17 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     assert_includes rule_ids(above), "comment.before_header"
     refute_includes rule_ids(below), "comment.before_header"
+  end
+
+  def test_inline_campaign_block_in_header_callout_is_not_a_meta_comment
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "People/Test.md",
+      "---\ntags: [person]\nspecies: human\n---\n# Test\n> [!info] Header\n>> %%^Campaign:dufr%% Met by the party. %%^End%%\n\nBody.\n"
+    )
+
+    refute_includes rule_ids(report), "comment.before_header"
   end
 
   def test_markdown_code_examples_are_not_parsed_as_live_blocks_or_links
@@ -873,7 +1063,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(report), "link.unresolved"
   end
 
-  def test_dm_notes_review_uses_local_dm_mentions_without_overriding_human_attestation
+  def test_dm_notes_review_uses_four_state_table_without_secret_block_influence
     root = make_vault
     write_note(
       root,
@@ -898,26 +1088,141 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "People/No Private File.md",
       "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: tim\ndm_notes: important\n---\n# No Private File\n"
     )
+    write_note(
+      root,
+      "People/No Private Needed.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: tim\ndm_notes: none\n---\n# No Private Needed\n"
+    )
     index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: true, index: index)
-    suspect = validator.validate_path("Groups/Aatmaji Dynasty.md")
+    review = validator.validate_path("Groups/Aatmaji Dynasty.md")
     supported = validator.validate_path("Groups/Positive Dynasty.md")
-    accounted = validator.validate_path("People/Secret Subject.md")
+    secret = validator.validate_path("People/Secret Subject.md")
     unsupported = validator.validate_path("People/No Private File.md")
-    finding = suspect.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_suspect" }
+    clean_none = validator.validate_path("People/No Private Needed.md")
+    finding = review.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_review" }
 
     refute_nil finding
+    assert_equal "info", finding.fetch("severity")
     assert_equal ["_DM_/Dunmar Notes.md"], finding.dig("details", "sources").map { |source| source["path"] }
     assert_includes rule_ids(supported), "dm.notes_private_evidence_found"
     refute_includes rule_ids(supported), "dm.notes_no_local_evidence"
-    refute_includes rule_ids(accounted), "dm.notes_private_evidence_suspect"
-    assert_includes rule_ids(accounted), "dm.notes_secret_evidence_accounted"
+    assert_includes rule_ids(secret), "dm.notes_private_evidence_review"
     assert_includes rule_ids(unsupported), "dm.notes_no_local_evidence"
+    refute rule_ids(clean_none).any? { |rule_id| rule_id.start_with?("dm.notes_") }
 
-    suspect["fixes"] = []
-    markdown = TaelgarNoteLint::CLI.new([]).send(:markdown, [suspect])
+    review["fixes"] = []
+    markdown = TaelgarNoteLint::CLI.new([]).send(:markdown, [review])
     assert_includes markdown, "[[_DM_/Dunmar Notes]]"
     refute_includes markdown, "`_DM_/Dunmar Notes.md`"
+  end
+
+  def test_dm_notes_review_uses_linted_at_until_matching_private_source_is_modified
+    root = make_vault
+    linted_at = "2026-08-20T09:00:00-04:00"
+    note_path = "Groups/Validated Dynasty.md"
+    write_note(
+      root,
+      note_path,
+      <<~MARKDOWN
+        ---
+        lintedAt: "#{linted_at}"
+        lintVersion: "#{TaelgarNoteLint::DM_NOTES_REVIEW_VERSION}"
+        tags: [group]
+        name: Validated Dynasty
+        dm_owner: tim
+        dm_notes: none
+        POV: undated
+        ---
+        # Validated Dynasty
+
+        %%^povNotes:v1%%
+        Temporal coverage: undated; the available evidence does not support a modern, decade, or year reading position.
+        %%^End%%
+      MARKDOWN
+    )
+    dm_path = File.join(root, "_DM_", "Validated Notes.md")
+    write_note(root, "_DM_/Validated Notes.md", "# Validated Notes\n\n[[Validated Dynasty]] has private material.\n")
+    old_time = Time.iso8601("2026-08-20T08:00:00-04:00")
+    File.utime(old_time, old_time, dm_path)
+
+    old_validator = TaelgarNoteLint::Validator.new(root: root, check_links: true)
+    old_report = old_validator.validate_path(note_path)
+
+    refute_includes rule_ids(old_report), "dm.notes_private_evidence_review"
+
+    new_time = Time.iso8601("2026-08-20T10:00:00-04:00")
+    File.utime(new_time, new_time, dm_path)
+    new_validator = TaelgarNoteLint::Validator.new(root: root, check_links: true)
+    new_report = new_validator.validate_path(note_path)
+    finding = new_report.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_review" }
+
+    refute_nil finding
+    assert_equal "_DM_/Validated Notes.md", finding.dig("details", "sources", 0, "path")
+    assert_operator Time.iso8601(finding.dig("details", "sources", 0, "modifiedAt")), :>, Time.iso8601(linted_at)
+  end
+
+  def test_dm_notes_review_rechecks_versions_below_threshold_and_always_validates_vocabulary
+    root = make_vault
+    note_path = "Groups/Legacy Dynasty.md"
+    write_note(
+      root,
+      note_path,
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "2.7"
+        tags: [group]
+        name: Legacy Dynasty
+        dm_owner: tim
+        dm_notes: none
+        ---
+        # Legacy Dynasty
+      MARKDOWN
+    )
+    dm_path = File.join(root, "_DM_", "Legacy Notes.md")
+    write_note(root, "_DM_/Legacy Notes.md", "# Legacy Notes\n\n[[Legacy Dynasty]] has private material.\n")
+    old_time = Time.iso8601("2026-08-20T08:00:00-04:00")
+    File.utime(old_time, old_time, dm_path)
+    write_note(
+      root,
+      "Groups/Validated Positive.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::VERSION}"
+        tags: [group]
+        name: Validated Positive
+        dm_owner: tim
+        dm_notes: important
+        ---
+        # Validated Positive
+      MARKDOWN
+    )
+    unrelated_path = File.join(root, "_DM_", "Unrelated New Notes.md")
+    write_note(root, "_DM_/Unrelated New Notes.md", "# Unrelated New Notes\n\nNothing matches the validated subject.\n")
+    new_time = Time.iso8601("2026-08-20T10:00:00-04:00")
+    File.utime(new_time, new_time, unrelated_path)
+    write_note(
+      root,
+      "Groups/Invalid Attestation.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::DM_NOTES_REVIEW_VERSION}"
+        tags: [group]
+        name: Invalid Attestation
+        dm_owner: tim
+        dm_notes: tim
+        ---
+        # Invalid Attestation
+      MARKDOWN
+    )
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: true)
+
+    assert_includes rule_ids(validator.validate_path(note_path)), "dm.notes_private_evidence_review"
+    refute_includes rule_ids(validator.validate_path("Groups/Validated Positive.md")), "dm.notes_no_local_evidence"
+    assert_includes rule_ids(validator.validate_path("Groups/Invalid Attestation.md")), "dm.notes_unknown"
   end
 
   def test_deprecated_fields_include_replacement_guidance

@@ -71,14 +71,36 @@ module TaelgarNoteLint
       raise BatchError, "Target is not inside the vault: #{path}"
     end
 
-    def worldbuilding_path?(path)
-      Pathname.new(path).each_filename.first == "Worldbuilding"
+    def lint_target_exclusion(path)
+      directories = Pathname.new(path).each_filename.to_a[0...-1]
+      return "Worldbuilding" if directories.include?("Worldbuilding")
+      return "dot directory" if directories.any? { |part| part.start_with?(".") }
+      return "underscore directory" if directories.any? { |part| part.start_with?("_") }
+
+      nil
+    end
+
+    def lintable_path?(path)
+      lint_target_exclusion(path).nil?
     end
 
     def ensure_lintable_path!(path)
-      return unless worldbuilding_path?(path)
+      exclusion = lint_target_exclusion(path)
+      return unless exclusion
 
-      raise BatchError, "Worldbuilding notes are outside Taelgar Note Linter scope: #{path}"
+      raise BatchError, "Notes under dot directories, underscore directories, or Worldbuilding are outside Taelgar Note Linter scope (matched #{exclusion}): #{path}"
+    end
+
+    def valid_completion_pair?(note)
+      linted_at = canonical_state_value(note.data["lintedAt"])
+      lint_version = canonical_state_value(note.data["lintVersion"])
+      return false if linted_at.to_s.empty? || lint_version.to_s.empty?
+
+      Time.iso8601(linted_at)
+      Gem::Version.new(lint_version)
+      true
+    rescue ArgumentError
+      false
     end
 
     class GitBaselineResolver
@@ -164,7 +186,7 @@ module TaelgarNoteLint
         absolute = @root.join(note.path)
         report = @validator.validate_path(note.path)
         freshness = freshness_for(note, report)
-        dm_freshness = dm_freshness_for(note, report)
+        dm_freshness = dm_freshness_for(note, @validator.dm_sources(note))
         routing = routing_for(note, freshness, dm_freshness, report)
         {
           "path" => note.path,
@@ -198,28 +220,20 @@ module TaelgarNoteLint
         scanner.scan(report, linted_at: Batch.canonical_state_value(linted_at)).merge("baselineKind" => baseline.fetch("kind"))
       end
 
-      def dm_freshness_for(note, report)
+      def dm_freshness_for(note, sources)
         linted_at = Batch.canonical_state_value(note.data["lintedAt"])
         return { "basis" => "filesystem_mtime", "candidates" => [] } if linted_at.to_s.empty?
 
         lint_time = Time.iso8601(linted_at)
-        sources = report.fetch("findings").each_with_object({}) do |finding, by_path|
-          Array(finding.dig("details", "sources")).each do |source|
-            path = source["path"].to_s
-            next unless path.start_with?("_DM_/")
-
-            by_path[path] ||= []
-            by_path[path] << finding.fetch("ruleId")
-          end
-        end
-        candidates = sources.each_with_object([]) do |(path, rule_ids), selected|
-          absolute = @root.join(path)
-          next unless absolute.file? && File.mtime(absolute) > lint_time
+        candidates = sources.each_with_object([]) do |source, selected|
+          path = source["path"].to_s
+          modified_at = source["modifiedAt"].to_s
+          next unless path.start_with?("_DM_/") && Time.iso8601(modified_at) > lint_time
 
           selected << {
             "path" => path,
-            "modifiedAt" => File.mtime(absolute).iso8601(6),
-            "ruleIds" => rule_ids.uniq
+            "modifiedAt" => modified_at,
+            "matchKinds" => Array(source["matchKinds"]).uniq
           }
         end
         { "basis" => "filesystem_mtime", "candidates" => candidates.sort_by { |item| item.fetch("path") } }
@@ -517,20 +531,40 @@ module TaelgarNoteLint
       private
 
       def prepare
-        options = { root: Pathname.pwd, all_linted: false, stale: false, only_needs_review: false }
+        options = { root: Pathname.pwd, all_linted: false, stale: false, only_needs_review: false, re_lint: false }
         parser = OptionParser.new do |opts|
           opts.banner = "Usage: lint_taelgar_notes.rb prepare [options] [NOTE ...]"
           opts.on("--root PATH", "Vault root") { |value| options[:root] = Pathname.new(value) }
+          opts.on("--re-lint", "Include notes with valid prior lint completion state") { options[:re_lint] = true }
           opts.on("--all-linted", "Select every note with lint completion state") { options[:all_linted] = true }
           opts.on("--stale", "Select notes whose lintVersion is not current") { options[:stale] = true }
           opts.on("--only-needs-review", "Exclude current notes with no freshness candidates") { options[:only_needs_review] = true }
           opts.on("--output PATH", "Write JSON to a file instead of stdout") { |value| options[:output] = value }
         end
         parser.parse!(@argv)
+        if (options[:all_linted] || options[:stale]) && !options[:re_lint]
+          raise BatchError, "--all-linted and --stale require --re-lint because completed notes are excluded by default."
+        end
+        if (options[:all_linted] || options[:stale]) && @argv.any?
+          raise BatchError, "Broad linted-note discovery cannot be combined with named targets; resolve the user's scope first."
+        end
         root = options[:root].expand_path
         paths = discover_paths(root, options)
         paths.concat(@argv)
-        if paths.empty? && (options[:all_linted] || options[:stale])
+        paths = paths.map { |path| Batch.relative_note_path(root, path) }.uniq.sort
+        paths.each { |path| Batch.ensure_lintable_path!(path) }
+        requested_count = paths.length
+        unless options[:re_lint]
+          paths.reject! do |path|
+            absolute = root.join(path)
+            next false unless absolute.file?
+
+            note = ParsedNote.new(path, TaelgarNoteLint.read_text(absolute))
+            Batch.valid_completion_pair?(note)
+          end
+        end
+        skipped_already_linted = requested_count - paths.length
+        if paths.empty?
           manifest = {
             "schemaVersion" => SCHEMA_VERSION,
             "validatorVersion" => VERSION,
@@ -547,6 +581,8 @@ module TaelgarNoteLint
           manifest["notes"].select! { |record| record.dig("routing", "reviewRecommended") }
         end
         manifest["selectionSummary"] = {
+          "requested" => requested_count,
+          "skippedAlreadyLinted" => skipped_already_linted,
           "selected" => selected_count,
           "reviewRecommended" => review_count,
           "noOpEligible" => selected_count - review_count,
@@ -609,12 +645,10 @@ module TaelgarNoteLint
       def discover_paths(root, options)
         return [] unless options[:all_linted] || options[:stale]
 
-        Dir.glob(root.join("**", "*.md").to_s).sort.each_with_object([]) do |absolute, paths|
+        Dir.glob(root.join("**", "*.md").to_s, File::FNM_DOTMATCH).sort.each_with_object([]) do |absolute, paths|
           relative = TaelgarNoteLint.relative_path(root, absolute)
-          parts = Pathname.new(relative).each_filename.to_a
-          next if parts.any? { |part| part.start_with?(".") }
           next if File.basename(relative) == "AGENTS.md"
-          next if Batch.worldbuilding_path?(relative)
+          next unless Batch.lintable_path?(relative)
 
           note = ParsedNote.new(relative, TaelgarNoteLint.read_text(absolute))
           has_lint_state = note.data.key?("lintedAt") || note.data.key?("lintVersion")
