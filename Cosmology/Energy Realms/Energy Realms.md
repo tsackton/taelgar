@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {defArt: the}
 tags: [background]
 name: Energy Realms
-pronunciation: title
 dm_owner: tim
 dm_notes: none
 POV: 1748
@@ -66,11 +65,8 @@ dv.table(
 
 %%SECRET[v2:e27c0eb910256782df4e49eb2c4f30b2]%%
 
-%%^Metadata:names:v1%%
-- {name: Energy Realms, role: primary, language: Common, pronunciation: title, status: documented, notes: Descriptive scholarly category.}
-%%^End%%
-
 %%^Metadata:article:v1%%
 mode: scholarly cosmology overview
 povNotes: Presents competing models current in the 1740s-1750s. References to recent rediscovery of Airion put it after DR 1747 or so when the Great Library campaign recovered the [[Elemental Scrolls of Airion]].
 %%^End%%
+

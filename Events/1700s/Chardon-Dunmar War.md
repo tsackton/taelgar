@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {dPastHasStart: "Began on <startdate>, ended on <enddate>"}
 tags: [event]
 typeOf: war
@@ -88,5 +88,5 @@ povNotes: "Accuracy range: DR 1750 and later, after Fausto's role and Apollyon's
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Chardon-Dunmar War, role: primary, language: Common, pronunciation: title, status: inferred, notes: descriptive Common title formed from the two belligerent realms}
+- {name: Chardon-Dunmar War, role: primary, language: Common, status: inferred, notes: descriptive Common title formed from the two belligerent realms}
 %%^End%%

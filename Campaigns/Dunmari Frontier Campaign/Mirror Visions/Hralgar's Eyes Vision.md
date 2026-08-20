@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 tags: [event]
 typeOf: vision
@@ -29,7 +29,7 @@ Wellby attempts to read lips and gives a halting phonetic translation, not well 
 %%SECRET[v2:71a787b8630153b035249c971489d2d8]%%
 
 %%^Metadata:names:v1%%
-- {name: Hralgar's Eyes Vision, role: primary, language: Common, pronunciation: title, status: documented, notes: Descriptive title inherited from the subject Hralgar.}
+- {name: Hralgar's Eyes Vision, role: primary, language: Common, status: documented, notes: Descriptive title inherited from the subject Hralgar.}
 - {name: Hralgar, role: component, language: Giant, pronunciation: HRAL-gar, status: documented}
 %%^End%%
 

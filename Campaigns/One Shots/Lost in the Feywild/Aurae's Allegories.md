@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [source]
 campaign: Lost in the Feywild
 name: "Aurae's Allegories"
@@ -11,7 +11,6 @@ POV: 1740
 # Aurae's Allegories
 
 Meeting the Tollen Misfits, the mechanical-magic automata *Aurae* explains: “I am a synthesizer of research and information. I have read the contents of the library and help researchers find what they need. And... and because it has been some time since those services have been needed, I have been writing my own books about the people I meet. I pay very close attention to everything I have ever read, and everything I notice about you inside and out, and I tell you a story about who you are.”
-
 
 ### Edric's Story from Aurae ###
 I will tell you a story about trustworthy friends.
@@ -56,6 +55,11 @@ When she died, she died very far from home, and if anyone ate her remains, I do 
 
 Until, the man who dearly wanted to keep his friends safe learned that his neighbor kept a monster in her cellar. What was he to do?
 
+
+%%^Metadata:names:v1%%
+- {name: "Aurae's Allegories", role: primary, language: Common, status: documented, notes: Descriptive title for the allegories told by Aurae.}
+- {name: Aurae, role: name component, language: Drankorian, pronunciation: OUR-ray or ARR-ray, status: documented}
+%%^End%%
 
 %%^Metadata:article:v1%%
 mode: campaign primary-source collection

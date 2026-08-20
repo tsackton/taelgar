@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person, testcase]
 species: halfling
 ancestry: null
@@ -37,5 +37,5 @@ povNotes: "Accuracy range: minimal. This is a snapshot of Alton Greenleaf at the
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Alton Greenleaf, role: primary, language: Common, pronunciation: obvious, status: inferred, notes: Common is inferred from the ordinary English-form personal name and descriptive surname}
+- {name: Alton Greenleaf, role: primary, language: Common, status: inferred, notes: Common is inferred from the ordinary English-form personal name and descriptive surname}
 %%^End%%

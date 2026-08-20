@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person]
 species: human
 ancestry: Tollender
@@ -41,5 +41,5 @@ povNotes: "Accuracy range: approximately DR 1748–1752. The exact year is not m
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Thomas Hawke, role: primary name, language: Tollish, pronunciation: obvious, status: documented}
+- {name: Thomas Hawke, role: primary name, language: Tollish, status: documented}
 %%^End%%

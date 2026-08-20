@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -56,11 +56,7 @@ povNotes: "Accuracy range: uneven across the mid-1730s through DR 1749. The main
 
 ### Open findings
 
-- [ ] **suggestion — `status.gameupdate_historical_snapshot`:** `status/gameupdate/dufr` may now be stale. The article is deliberately a `POV: 1740s` pre-death portrait, while `died: 1749-05-24` and `povNotes` explicitly bound that snapshot. A human may remove the game-update tag if it only marked the later death; retain it if it represents other established DuFr facts that still need incorporation.
-
-### Applied changes
-
-- Moved `POV` to the canonical final position and reconciled the name entry’s inferred status with the accepted frontmatter pronunciation.
+- [ ] **suggestion — status.gameupdate_historical_snapshot:** `status/gameupdate/dufr` may now be stale. The article is deliberately a `POV: 1740s` pre-death portrait, while `died: 1749-05-24` and `povNotes` explicitly bound that snapshot. A human may remove the game-update tag if it only marked the later death; retain it if it represents other established Dunmar Frontier facts that still need incorporation.
 
 ### Validated
 

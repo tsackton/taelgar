@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [place]
 typeOf: building
 typeOfAlias: bastion
@@ -43,5 +43,5 @@ povNotes: "Accuracy range: DR 1747–1748. This describes the Silver Tempests' m
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Tempest Towers, role: primary name, language: Common, pronunciation: title, status: inferred, notes: descriptive plain-English title}
+- {name: Tempest Towers, role: primary name, language: Common, status: inferred, notes: descriptive plain-English title}
 %%^End%%

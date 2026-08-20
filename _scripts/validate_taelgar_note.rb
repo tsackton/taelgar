@@ -23,7 +23,7 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "2.4"
+  VERSION = "2.5"
   SCHEMA_VERSION = 3
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
@@ -70,16 +70,20 @@ module TaelgarNoteLint
   ].freeze
 
   NAMED_SUBJECT_TAGS = %w[
-    ancestry background creature event group item object person place power
+    ancestry creature event group item object person place power
     organization
   ].freeze
 
   NAME_STATUSES = %w[documented inferred proposed disputed unresolved].freeze
-  PRONUNCIATION_EXCEPTIONS = %w[obvious title meta].freeze
+  PRONUNCIATION_PLACEHOLDERS = %w[obvious title meta].freeze
   MAP_REQUIRED_TYPES = %w[waterway road settlement].freeze
   WORLD_HEX_PATTERN = /\A\d{2}\.\d{2}\.[A-Z]\d{2}\z/
   METADATA_BLOCK_PATTERN = /%%\^Metadata:(names|map|article)(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
-  LINT_BLOCK_PATTERN = /%%\^Lint%%\s*(.*?)\s*%%\^End%%/m
+  # A lint report can contain copy-ready structured-block examples with their
+  # own %%^End%% markers. Because the Lint block is required to be the final
+  # structured block in a note, match through its last end marker rather than
+  # stopping at an example nested in the report text.
+  LINT_BLOCK_PATTERN = /%%\^Lint%%\s*(.*)\s*%%\^End%%/m
 
   PLACE_TYPES = [
     "settlement", "realm", "neighborhood", "region", "watershed", "plane",
@@ -816,10 +820,16 @@ module TaelgarNoteLint
       end
 
 
-      if NAMED_SUBJECT_TAGS.include?(profile) && note.data["pronunciation"].to_s.strip.empty? &&
-         !accepted_pronunciation_exception?(note)
+      pronunciation = note.data["pronunciation"].to_s.strip
+      if placeholder_pronunciation?(pronunciation)
+        add(findings, "pronunciation.placeholder_value", "error", "required",
+            "pronunciation must contain an actual human-readable pronunciation, not an exemption label; omit the field when the name is exempt.",
+            line: note.field_line("pronunciation"))
+      end
+
+      if NAMED_SUBJECT_TAGS.include?(profile) && pronunciation.empty?
         add(findings, "pronunciation.missing_or_exception", "warning", "conditional",
-            "This named in-world subject needs a pronunciation or a contextual obvious-name/title exception.",
+            "This named in-world subject needs an actual pronunciation unless contextual judgment confirms that the name is an obvious ordinary name or plain-English title; exemptions are represented by omitting pronunciation.",
             line: note.field_line("name") || 1, provisional: true)
       end
 
@@ -1220,7 +1230,7 @@ module TaelgarNoteLint
           data = convert_legacy_metadata(kind, data)
         end
         case kind
-        when "names" then validate_name_block(data, findings, line)
+        when "names" then validate_name_block(note, data, findings, line)
         when "map" then validate_map_block(note, data, findings, line)
         when "article" then validate_article_block(data, findings, line)
         end
@@ -1261,7 +1271,7 @@ module TaelgarNoteLint
           line: TaelgarNoteLint.line_number(searchable, first_start))
     end
 
-    def validate_name_block(data, findings, line)
+    def validate_name_block(note, data, findings, line)
       unless data.is_a?(Array) && !data.empty? && data.all? { |entry| entry.is_a?(Hash) }
         add(findings, "metadata.names_shape", "error", "required",
             "Metadata:names:v1 requires a nonempty YAML list of dictionaries.", line: line)
@@ -1275,11 +1285,27 @@ module TaelgarNoteLint
               "A name entry is missing: #{missing.join(', ')}.", line: line)
         end
         status = entry["status"].to_s
-        next if status.empty? || NAME_STATUSES.include?(status)
+        unless status.empty? || NAME_STATUSES.include?(status)
+          add(findings, "metadata.names_status", "error", "required",
+              "Unknown name status: #{status}.", line: line,
+              details: { "allowed" => NAME_STATUSES })
+        end
 
-        add(findings, "metadata.names_status", "error", "required",
-            "Unknown name status: #{status}.", line: line,
-            details: { "allowed" => NAME_STATUSES })
+        next unless placeholder_pronunciation?(entry["pronunciation"])
+
+        add(findings, "metadata.names_pronunciation_placeholder", "error", "required",
+            "A name entry's pronunciation must be an actual human-readable pronunciation, not an exemption label; omit the key when no separate pronunciation is needed.",
+            line: line)
+      end
+
+      if note.tags.include?("meta")
+        add(findings, "metadata.names_forbidden_for_meta", "error", "required",
+            "Meta notes do not describe an in-world named subject and must not have Metadata:names:v1.",
+            line: line)
+      elsif note.tags.include?("background") && !note.tags.any? { |tag| tag == "religion" || tag.start_with?("religion/") }
+        add(findings, "metadata.names_unnecessary_for_background", "suggestion", "conditional",
+            "Background notes normally do not need name metadata unless they also describe a named religion or another clearly named in-world subject.",
+            line: line, provisional: true)
       end
     end
 
@@ -1293,15 +1319,9 @@ module TaelgarNoteLint
       false
     end
 
-    def accepted_pronunciation_exception?(note)
-      data = name_block_data(note)
-      return false unless data.is_a?(Array)
-
-      primary = data.find { |entry| entry.is_a?(Hash) && entry["role"].to_s == "primary" } || data.first
-      return false unless primary
-
-      pronunciation = primary["pronunciation"].to_s
-      PRONUNCIATION_EXCEPTIONS.include?(pronunciation) || pronunciation.start_with?("inherited")
+    def placeholder_pronunciation?(value)
+      pronunciation = value.to_s.strip.downcase
+      PRONUNCIATION_PLACEHOLDERS.include?(pronunciation) || pronunciation.start_with?("inherited from")
     end
 
     def name_block_data(note)
@@ -1449,9 +1469,9 @@ module TaelgarNoteLint
 
           converted = { "name" => entry["form"], "language" => entry["language"] }
           converted["role"] = entry["role"] if entry["role"]
-          converted["pronunciation"] = entry["pronunciation"] if entry["pronunciation"]
-          status = entry["pronunciationStatus"].to_s
-          converted["pronunciation"] = status.sub("exception-", "") if status.start_with?("exception-")
+          if entry["pronunciation"] && !placeholder_pronunciation?(entry["pronunciation"])
+            converted["pronunciation"] = entry["pronunciation"]
+          end
           converted.compact
         end
       when "map"

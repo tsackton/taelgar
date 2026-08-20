@@ -1,11 +1,11 @@
 ---
-linterVersion: "2.4"
+linterVersion: "2.5"
 name: Taelgar Note Linter
 ---
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **2.4** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **2.5** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -41,7 +41,7 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "2.4"
+lintVersion: "2.5"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
@@ -97,7 +97,7 @@ Applicable profiles include people, places and more specific place types, groups
 
 Every completed contextual lint identifies the article's mode and speaking position, then judges whether the prose is suitable for that point of view. Temporal review is not a generic requirement to date every fact. It distinguishes lifecycle dates, dated relationships, date blocks, current reference prose, historical snapshots, bounded event accounts, campaign-relative language, and layered primary-source viewpoints.
 
-The completed lint records the searchable scalar viewpoint in frontmatter `POV` and the practical interpretation in the persistent article block's `povNotes`, following [[Temporal POV Metadata]]. Use the broadest honest value: a year, decade, century, named era, or `timeless`. A year is approximate rather than an exact validity boundary. `povNotes` may record an approximate, asymmetric, or minimal accuracy range and should distinguish unknown periods from established later developments.
+The completed lint records the searchable scalar viewpoint in frontmatter `POV` and the practical interpretation in the persistent article block's `povNotes`, following [[Temporal POV Metadata]]. Use the broadest honest value: a year, decade, century, named era, or `timeless`. A year is approximate rather than an exact validity boundary. `povNotes` may record an approximate, asymmetric, or minimal accuracy range and should distinguish unknown periods from established later developments. Before choosing a narrow POV, isolate supported later facts or state changes in the smallest useful `Date:*` blocks; one DR 1747 sentence does not make an otherwise decade-generic article a DR 1747 snapshot.
 
 Later truth does not make an explicitly earlier-POV note incorrect. A defect exists when the note silently mixes incompatible viewpoints, uses unanchored changing language, exposes later knowledge in an earlier view, or applies campaign/date blocks inconsistently.
 
@@ -132,7 +132,7 @@ Editing the target note does not itself invalidate a clean lint. The relevant qu
 
 ### Frontmatter
 
-Version 2.4 uses this canonical ordering:
+Version 2.5 uses this canonical ordering:
 
 1. deprecated or obsolete fields, retained conspicuously for human migration;
 2. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
@@ -147,9 +147,9 @@ String-only lists and dictionaries use one line. Lists of dictionaries are expan
 
 ### Naming and pronunciation
 
-Pronunciation is required for named in-world subjects unless contextual judgment records a plain-English title, meta note, genuinely obvious ordinary name, or inherited compound-name exception. A proposal must explain its language, derivation, and uncertainty and remains noncanonical until accepted. When [[Languages]] documents a real-world analogue, the linter must use that analogue to generate and explain a natural pronunciation or adaptation of the spelling. Missing exact in-world phonology makes the result proposed rather than documented; it does not justify an English-default reading.
+Pronunciation is required for named in-world subjects unless contextual judgment recognizes a plain-English title or genuinely obvious ordinary name. Every `pronunciation` value must be an actual pronounceable guide; contextual exemptions are represented by absence, never by sentinel text such as `title`, `obvious`, `meta`, or `inherited from ...`. A proposal must explain its language, derivation, and uncertainty and remains noncanonical until accepted. When [[Languages]] documents a real-world analogue, the linter must use that analogue to generate and explain a natural pronunciation or adaptation of the spelling. Missing exact in-world phonology makes the result proposed rather than documented; it does not justify an English-default reading.
 
-Human-curated subject-specific naming data uses `Metadata:names:v1` as documented in [[Name Metadata]]. The linter validates but does not overwrite accepted name data or invent etymology to fill a block. `unknown` is a valid language value when no stronger evidence exists.
+Human-curated subject-specific naming data uses `Metadata:names:v1` as documented in [[Name Metadata]]. The linter validates but does not overwrite accepted name data or invent etymology to fill a block. `unknown` is a valid language value when no stronger evidence exists. Do not create the block merely to restate a descriptive article title. Meta notes never receive it. Background notes normally receive it only when also tagged `religion/*` and recording a religious name, or when contextual judgment establishes that the note really names another in-world subject rather than discussing a general topic.
 
 ### Campaign knowledge and identity
 
@@ -278,7 +278,7 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.4, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 2.5, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
 
 Automatic batch discovery excludes `Worldbuilding/**`. Explicit preparation rejects a Worldbuilding target, and snapshot/finalization reject any manifest that contains one, including a manifest created under an older rule set.
 

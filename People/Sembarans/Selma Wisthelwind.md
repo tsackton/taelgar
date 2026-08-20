@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T16:23:04-04:00"
-lintVersion: "2.3"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person, status/check/mike]
 species: human
 ancestry: Zimka
@@ -28,7 +28,7 @@ POV: 1720
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% validate pronunciation, which is based on ChatGPT Baltic-ish interpretation %%
+%% validate pronunciation, which is based on ChatGPT Baltic-ish interpretation. delete the lint block once you confirm  %%
 
 ![[selma-wisthelwind.png|right|320]]Selma bought [[The Fox's Flagon]] for cash in DR 1712 and appears to enjoy running the inn as a form of retirement. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [[Kestavo]] religion of [[Zimkova]].
 
@@ -38,7 +38,7 @@ povNotes: "Accuracy range: approximately the DR 1720 Cleenseau campaign era. The
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Selma Wisthelwind, role: primary, language: Zimkovan, pronunciation: SELL-mah VIS-tel-vind, status: proposed}
+- {name: Selma Wisthelwind, role: primary, language: Zimkovan, pronunciation: SELL-mah VIS-tel-vind, status: proposed, notes: Baltic-informed reading; w is adapted as v and the nonnative th cluster as t. Latvian-style initial stress and Lithuanian stress variation make the compound stress the main uncertainty.}
 %%^End%%
 
 %%^Lint%%
@@ -46,13 +46,13 @@ povNotes: "Accuracy range: approximately the DR 1720 Cleenseau campaign era. The
 
 ### Open findings
 
-- [ ] **warning — `name.pronunciation_missing`:** `SELL-ma WISS-thel-wind` is a cautious spelling-based proposal. Zimkovan is inferred from Selma’s Zimka origin, while [[Languages]] gives analogues but no exact rules. If accepted, copy:
-  ```yaml
-  pronunciation: SELL-ma WISS-thel-wind
-  ```
-  and update the name entry’s status.
+- [ ] **warning — name.pronunciation_unconfirmed:** The current `SELL-mah VIS-tel-vind` value is a genuinely Baltic-informed proposal, not an English-default reading. [[Languages]] explicitly maps Zimkovan to Baltic languages: the proposal adapts nonnative `w` to `v`, adapts the nonnative `th` cluster to `t`, and uses short Baltic-style vowels. Latvian favors initial stress, while Lithuanian stress is variable, so the surname's stress remains the main uncertainty. If Mike accepts it, copy-ready name entry: `- {name: Selma Wisthelwind, role: primary, language: Zimkovan, pronunciation: SELL-mah VIS-tel-vind, status: documented}`; then the validation comment and `status/check/mike` can be cleared by a human.
 
 ### Applied changes
 
-- Added `POV: 1720`, current article metadata, and a proposed v1 name entry. Removed the stale explanation about “8 years ago,” because the prose now uses the explicit DR 1712 date.
+- Expanded the persistent name entry to record the concrete Baltic sound choices behind the proposal.
+
+### Validated
+
+- `POV: 1720` correctly anchors the DR 1712 inn purchase and current proprietorship to the Cleenseau campaign era.
 %%^End%%

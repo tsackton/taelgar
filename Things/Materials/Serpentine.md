@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [object]
 typeOf: material
 name: Serpentine
-pronunciation: obvious
 knownTo: [adma, clee]
 dm_owner: none
 dm_notes: none
@@ -26,7 +25,7 @@ Serpentine weapons have featured in Addermarch campaign; serpentine also feature
 %%
 
 %%^Metadata:names:v1%%
-- {name: Serpentine, role: primary, language: Common, pronunciation: obvious, status: documented, notes: Ordinary Common material name.}
+- {name: Serpentine, role: primary, language: Common, status: documented, notes: Ordinary Common material name.}
 %%^End%%
 
 %%^Metadata:article:v1%%

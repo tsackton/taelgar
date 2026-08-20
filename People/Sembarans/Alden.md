@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
 tags: [person]
 species: alien fungal entity
 died: 1740-10-07
 gender: male
 name: Alden
-pronunciation: obvious
 whereabouts: Dandelion House
 knownTo: [feywild]
 dm_owner: none
@@ -25,7 +24,7 @@ Alden is an alien fungal child of the [[Prisoner in the 27th Room]], who appeare
 Alden, along with many other fungal aliens, was killed by [[Lord Hulda]] when the [[Prisoner in the 27th Room]] was set free and [[Lost in the Feywild - Episode 07|disappeared to a strange alien realm]].
 
 %%^Metadata:names:v1%%
-- {name: Alden, role: primary, language: Sembaran, pronunciation: obvious, status: documented.}
+- {name: Alden, role: primary, language: Sembaran, status: documented}
 %%^End%%
 
 %%^Metadata:article:v1%%

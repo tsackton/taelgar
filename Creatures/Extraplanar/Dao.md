@@ -1,36 +1,33 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T19:08:29-04:00"
-lintVersion: "2.4"
-tags: [creature, status/stub, status/check/lint]
+lintedAt: "2026-08-19T21:07:45-04:00"
+lintVersion: "2.5"
+tags: [creature]
 name: Dao
+pronunciation: DOW
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: timeless
 ---
+# Dao
+*(DOW)*
+
+Dao are powerful native beings of the [[Elemental Plane of Earth]], commonly described as stone-skinned miners and jewelers with extensive subterranean domains.
+
+%% 
+minimal invention. Great Library fought one in [[Great Library Session Notes - Arc 2]], and there is some discussion in [[Roc Quest - DM Notes]], [[roc-quest-notes-1.png]], and [[roc-quest-notes-2.png]]. most of this is around conflict between dao and air elements, and how Dao prize roc eggs which they petrify as a delicacy. 
+
+i think the vibe of all the elemental genies is more diverse than traditionally portrayed in D&D, so this may reflect one strand of Dao culture, while others prize artistry or something. 
+
+keeping dm_owner Tim as the Great Library campaign is going to have a big elemental arc next. 
+
+%%
 
 %%^Metadata:names:v1%%
-- {name: Dao, role: primary, language: unknown, pronunciation: DOW, status: proposed, notes: Follows the ordinary fantasy spelling; no exact Taelgar source language or recorded pronunciation was found.}
+- {name: Dao, role: primary, language: unknown, pronunciation: DOW, status: documented, notes: Follows the ordinary fantasy spelling; no exact Taelgar source language or recorded pronunciation was found.}
 %%^End%%
 
 %%^Metadata:article:v1%%
 mode: creature stub
-povNotes: No dated claims are present; the note is explicitly an undeveloped stub.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Open findings
-
-- [ ] **warning — name.pronunciation_missing:** DOW is a cautious spelling-based proposal because no exact source language, cultural pattern, or recorded pronunciation was found. If accepted, copy pronunciation: DOW and change the name entry to status: documented.
-- [ ] **suggestion — coverage.stub:** The note is an empty status/stub even though [[Metaphysics of Creatures]] and [[Elemental Plane of Earth]] support a minimal definition. Copy-ready candidate: Dao are powerful native beings of the [[Elemental Plane of Earth]], commonly described as stone-skinned miners and jewelers with extensive subterranean domains.
-
-### Applied changes
-
-- Added headerVersion, the explicit name, POV: timeless, and persistent proposed-name/article metadata while preserving status/stub.
-
-### Validated
-
-- Local-only references in [[_DM_/Timelines/Old Timeline (Table)|Old Timeline]], [[_DM_/Timelines/Unified Timeline From OneNote|Unified Timeline From OneNote]], and [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Mawar Religion|Mawar Religion]] support the existing positive dm_notes value; color versus important is not a lint distinction.
+povNotes: No dated claims are present; the note is explicitly minimal as little has been invented in play about Dao
 %%^End%%
