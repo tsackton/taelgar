@@ -13,21 +13,21 @@ Many Taelgar notes describe their subjects from an implicit point in the setting
 POV: 1750
 ```
 
-This is an editorial anchor, not a strict validity interval. The field belongs at the very end of frontmatter, immediately after `dm_notes` when that field is present.
+This is the article's best single temporal reading position: the date or era from which its undated prose reads most coherently. It is an editorial anchor, not a validity interval, a summary of every dated fact, or a claim that the article has continuous coverage around that point. The field belongs at the very end of frontmatter, immediately after `dm_notes` when that field is present.
 
 ## Values
 
-Use one scalar value whose precision communicates how closely the article is tied to a point in time.
+Use one scalar value whose precision communicates how closely the article's undated speaking position is tied to a point in time. Ordinary authored values are `modern`, a decade, or a year.
 
-### Year
+### Modern
 
 ```yaml
-POV: 1750
+POV: modern
 ```
 
-A year means roughly around that year. A difference of a few years is normally harmless unless the article makes an exact claim. An approximate five-year range is a useful intuition, not a deterministic rule.
+`modern` means that no finer temporal anchor is useful within the current campaign era, broadly the DR 1700s. It is the ordinary value for material that works across modern play or whose finer placement does not matter. It deliberately replaces the former broad distinctions among `timeless`, `post-Great-War`, and `1700s`; any meaningful earlier or later limitation belongs in `povNotes`.
 
-For example, `POV: 1750` can support describing [[Thomas Hawke]] as being in his early or mid-thirties. It would not support the same description in DR 1720 or DR 1770.
+`modern` does not assert that every sentence is accurate throughout the entire era. A modern article may still have approximate, one-sided, event-bounded, or discontinuous coverage recorded in `povNotes`.
 
 ### Decade
 
@@ -37,93 +37,91 @@ POV: 1740s
 
 A decade captures a campaign era or rough life stage when the exact year does not matter. Typical campaign-era values include `1710s` for Addermarch, `1720s` for Cleenseau, and `1740s` for Dunmari Frontier material.
 
-Use a narrower year or dated passages if a change inside the decade materially changes the article.
+Use a decade when the rough era itself matters to the undated article, not merely because the article happens to mention an event in that decade.
 
-### Century
-
-```yaml
-POV: 1700s
-```
-
-A century means the article remains serviceable across a broad historical span. This is expected to be uncommon. `1700s` is technically ambiguous with the first decade of the century; that ambiguity is acceptable. Use `povNotes` or a representative year when the distinction matters.
-
-### Named era
+### Year
 
 ```yaml
-POV: post-Great-War
+POV: 1750
 ```
 
-A named era means a major world-state boundary matters more than a campaign date. Clear values such as `post-Riving`, `post-Downfall`, `post-Fall-of-Drankor`, and `post-Great-War` may be used without a formal registry. `povNotes` should explain any ambiguity.
+A year means the undated article is a relatively narrow snapshot: a person's age or life stage, a current office or whereabouts, a campaign encounter, or a world state close to that year matters to how it reads. The year remains approximate unless the article or `povNotes` establishes a narrower boundary.
 
-### Timeless
+For example, `POV: 1750` can support describing [[Thomas Hawke]] as being in his early or mid-thirties. It would not support the same description in DR 1720 or DR 1770.
 
-```yaml
-POV: timeless
-```
-
-`timeless` means the note was reviewed and its purpose and ordinary claims are not meaningfully anchored to in-world chronology. It often fits meta, structural, or rules-oriented notes. It does not mean the subject is metaphysically eternal or that the note can never need revision.
-
-No `POV` means no temporal classification has been recorded. `POV: timeless` means the question was considered and the note was deliberately classified as temporally insensitive. A completed write-mode lint therefore records a `POV` value.
+Century values, named eras, and `timeless` are legacy choices under linter 2.6. On re-lint, reconsider rather than mechanically replacing them: use `modern` when no finer current-era anchor matters, or a decade or year when the article actually assumes one. No `POV` means no temporal classification has been recorded. A completed write-mode lint records a `POV` value.
 
 ## Choosing a value
 
-Use the broadest description that remains honest about the visible article.
+Choose `POV` from the undated visible article frame. Ask: **if the reader had to stand at one date or era for the present-tense descriptions, ages, offices, relationships, political conditions, or physical state to read naturally, where would that be?**
 
-- Use a year when age, office, whereabouts, a recent event, or a changing world state places the prose near a particular time.
-- Use a decade when rough campaign era or life stage matters but an individual year does not.
-- Use a century only when the article genuinely remains useful across most of it.
-- Use a named era when a major historical boundary is the important distinction.
-- Use `timeless` only after deciding that in-world chronology is not material.
+- Use `modern` when no finer position matters within the DR 1700s campaign era.
+- Use a decade when a rough campaign era, city state, or life stage matters but an individual year does not.
+- Use a year when a specific age, office, whereabouts, encounter, or changing world state makes the article a narrower snapshot.
 
-More precision is not automatically better. A broad value must not conceal an article that silently mixes incompatible viewpoints; use dated passages or revise the article when the distinction matters.
+Use the least precise value that still communicates the article's reading position. Do not choose `POV` from the oldest and newest dates mentioned, treat it as the midpoint of an accuracy range, or widen it merely because the article contains historical background. Likewise, one dated event does not narrow an otherwise broad article. `povNotes` carries the shape of temporal coverage, including any gaps or qualifications.
 
 ### Isolate narrower dated state
 
-Choose the article POV after separating passages whose truth or visibility begins at a known date. A single dated event or later state should not force the entire note to use that year when the rest of the article is useful across a decade or era.
+Choose the article POV after separating passages whose truth or visibility begins at a known date. A single dated event or later state should not force the entire note to use that year when the rest of the article has a broader speaking position.
 
 Use `Date:X` around the smallest passage that should appear only on or after `X`. Keep durable identity, description, and history outside the block. The resulting `POV` describes that durable article frame, while the date block supplies the narrower layer.
 
-For example, a character description useful throughout the 1740s can use `POV: 1740s` even if a final sentence about a DR 1747 encounter is wrapped in `%%^Date:1747%%`. A power whose identity is stable after the Great War can use `POV: post-Great-War`, with a `%%^Date:1748-10-15%%` passage recording the power's later release. Use paired before/after blocks only when both states need to be stated explicitly.
+For example, a character description with a generic 1740s speaking position can use `POV: 1740s` even if a final sentence about a DR 1747 encounter is wrapped in `%%^Date:1747%%`. A broadly modern power can use `POV: modern`, with a `%%^Date:1748-10-15%%` passage recording its later release. Use paired before/after blocks only when both states need to be stated explicitly.
 
 ## `povNotes`
 
-`POV` is deliberately coarse. The persistent `Metadata:article:v1` block records the note-specific explanation:
+`POV` is deliberately coarse. The persistent `Metadata:article:v1` block records the note-specific temporal coverage:
 
 ```yaml
 %%^Metadata:article:v1%%
 mode: character reference
-povNotes: "Accuracy range: approximately DR 1748–1752. The exact year is not material, but the description assumes the subject is in the same broad life stage."
+povNotes: "Temporal coverage: a DR 1748 portrait of the subject in the same broad life stage; earlier and later life are not described."
 %%^End%%
 ```
 
-`povNotes` should explain, when relevant:
+`povNotes` begins with `Temporal coverage:` and briefly explains how the article can be used away from its POV. It should record, when relevant:
 
-- why the selected POV fits the article;
-- the practical range of dates over which the article can be used;
-- whether coverage becomes partial or uneven away from the main POV;
-- which periods are unknown rather than contradicted; and
-- which later developments do not invalidate an intentionally earlier snapshot.
+- an approximate continuous range when the evidence supports one;
+- events or developments that bound the article before or after;
+- one-sided uncertainty when an exact boundary is not established;
+- a narrow encounter, age, or life-stage snapshot;
+- discontinuous coverage, such as childhood followed by current-day material with intervening decades omitted; and
+- which periods are unknown rather than contradicted, or which later developments leave an intentionally historical snapshot valid as history.
 
-The accuracy range is editorial guidance, not a second machine-readable date system. It may be approximate, asymmetric, or qualified in prose. When stating a range is useful, begin with `Accuracy range:` so it is easy to recognize and search.
+This is editorial guidance, not a second machine-readable date system. Do not invent an exact date merely to make a clean interval, infer continuity between separated facts, or treat the oldest and newest facts as complete coverage. Keep `povNotes` concise—normally one sentence and at most two when discontinuity or uncertainty needs explanation. Do not restate lifecycle dates, dated metadata, or every `Date:*` block unless they materially affect how the article should be read.
 
-### Minimal snapshots
+### Broad modern state with event bounds
 
-Use `Accuracy range: minimal` when a note records only a momentary encounter or similarly narrow snapshot and the vault does not establish the subject before or after it. “Minimal” describes the evidence's temporal reach, not the note's quality or importance.
+Some modern states have approximate event-defined bounds even when no narrower single POV is useful:
 
 ```yaml
-POV: 1748
+POV: modern
 ```
 
 ```yaml
 %%^Metadata:article:v1%%
-mode: encounter snapshot
-povNotes: "Accuracy range: minimal. This is a snapshot of Alton Greenleaf at the DR 1748-07-18 encounter and his immediate eastward journey. Nothing is established about his earlier or later life."
+mode: geographic reference
+povNotes: "Temporal coverage: approximately DR 1715–1749, after the Riftstone Gorge Disaster and before the Dunmar Fellowship expedition."
 %%^End%%
 ```
 
-### Uneven coverage
+A Chardon neighborhood whose state is tied to a broader urban phase can use:
 
-Some notes cover a longer period but not uniformly. Describe that shape rather than pretending the article has one clean validity interval.
+```yaml
+POV: modern
+```
+
+```yaml
+%%^Metadata:article:v1%%
+mode: urban reference
+povNotes: "Temporal coverage: approximately the late 1600s through early DR 1749; describes post-chalyte, pre-Dunmar Fellowship Chardon."
+%%^End%%
+```
+
+### One-sided uncertainty
+
+Do not invent a boundary when the article establishes only that earlier or later use needs care:
 
 ```yaml
 POV: 1740s
@@ -131,14 +129,14 @@ POV: 1740s
 
 ```yaml
 %%^Metadata:article:v1%%
-mode: character reference
-povNotes: "Accuracy range: uneven across the mid-1730s through DR 1749. The main portrait describes Fausto before his death in the late 1740s. A DR 1738 use must account for his age and the partial record of his adventuring and return to Chardon, while excluding later deeds and relationships. His childhood and origins are explicitly unknown, not available for extrapolation."
+mode: city district index
+povNotes: "Temporal coverage: the complete 17-ward layout is established for the 1740s. At earlier dates, some newer wards or outer subdivisions may not yet exist, but their settlement dates are not established."
 %%^End%%
 ```
 
-### Historical snapshots and retrospective accounts
+### Narrow and discontinuous people
 
-An intentionally historical place description remains accurate even when later events change the place:
+A narrow character portrait uses the year of the visible life stage, even when a dated paragraph records an event within that portrait:
 
 ```yaml
 POV: 1748
@@ -146,23 +144,27 @@ POV: 1748
 
 ```yaml
 %%^Metadata:article:v1%%
-mode: campaign reference
-povNotes: "Accuracy range: DR 1747–1748. This describes Tempest Towers during the Silver Tempests' active use of it as a Voltara base. Later DR 1752 evidence suggests that access or control changed during the time skip, but does not make this deliberately historical snapshot incorrect."
+mode: campaign-aware character reference
+povNotes: "Temporal coverage: a DR 1748 portrait of Jumi as a very young child; earlier and later life are not described."
 %%^End%%
 ```
 
-An event note may date earlier events while speaking from later knowledge:
+When an article includes separated periods, describe the discontinuity instead of presenting a continuous range:
 
 ```yaml
-POV: 1750
+POV: 1748
 ```
 
 ```yaml
 %%^Metadata:article:v1%%
-mode: retrospective event synthesis
-povNotes: "Accuracy range: DR 1750 and later, after Fausto's role and Apollyon's defeat had become known. The chronology covers DR 1743–1749, but its causal interpretation is intentionally retrospective and should not be exposed to an earlier viewpoint."
+mode: character reference
+povNotes: "Temporal coverage: a DR 1748 present-day portrait with selected childhood and early-adult backstory; the intervening years are not comprehensively described."
 %%^End%%
 ```
+
+### Historical snapshots and records
+
+An intentionally historical place description remains accurate as a historical snapshot even when later events change the place. A session note, Primary Source, or retrospective event account may describe older events from its own recorded or later speaking position. Choose `POV` from that speaking position, use `DR` and `DR_end` for the event chronology where applicable, and use `povNotes` to distinguish the record's temporal layers rather than forcing them into one continuous accuracy range.
 
 ## Relationship to other metadata
 
@@ -179,13 +181,13 @@ povNotes: "Accuracy range: DR 1750 and later, after Fausto's role and Apollyon's
 
 ## Linter behavior and legacy forms
 
-The linter validates that `POV` is a nonempty scalar and that a completed lint records one. The contextual pass judges whether its precision and `povNotes` are honest for the article.
+The linter validates that `POV` is a nonempty scalar and that a completed lint records one. The contextual pass judges whether `modern`, a decade, or a year is the least precise useful reading position and whether `povNotes` honestly and concisely describes the article's coverage.
 
-The contextual pass also checks whether a narrow dated passage has unnecessarily narrowed the whole-note POV. When a supported date block can isolate that passage without changing its meaning, the linter should propose or apply the copy-ready block and retain the broadest honest article POV.
+The contextual pass selects `POV` from the undated visible frame, then separately classifies coverage as broad, approximately bounded, narrow, one-sided uncertain, or discontinuous. It never infers continuity between separated facts or exact boundaries from uncertainty. It also checks whether a narrow dated passage has unnecessarily narrowed the whole-note POV. When a supported date block can isolate that passage without changing its meaning, the linter should propose or apply the copy-ready block and retain the broader article POV.
 
 The searchable frontmatter field replaces two older note-level representations:
 
 - inline `(POV:: ...)` annotations; and
 - the free-text `pov` key formerly used inside `Metadata:article:v1`.
 
-On re-lint, preserve their meaning by moving the scalar viewpoint to `POV` and the explanation or qualification to `povNotes`. Do not retain duplicate temporal labels after migration.
+On re-lint, preserve their meaning by moving the scalar viewpoint to `POV` and the explanation or qualification to `povNotes`. Reconsider legacy broad values under the 2.6 vocabulary rather than blindly replacing them, and migrate useful existing `Accuracy range:` text into concise `Temporal coverage:` wording. Do not retain duplicate temporal labels after migration.
