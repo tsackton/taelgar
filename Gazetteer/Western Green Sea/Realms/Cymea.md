@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 aliases: [Cymean]
 name: Cymea
+pronunciation: sigh-ME-ah
 typeOf: region
 whereabouts: Western Green Sea
 dm_owner: tim

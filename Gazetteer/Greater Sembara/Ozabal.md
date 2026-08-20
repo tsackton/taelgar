@@ -20,3 +20,7 @@ typeOfAlias: swamp
 A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[Lizardfolk]] population. 
 
 The Ozabal is the remnants, along with the [[Latazaro]] swamp, of the [[Urtzabala|vast wetlands]] that once covered much of the Sembaran lowlands, before the [[The Downfall|Downfall]]. 
+
+%% 
+naming note: Ozabal is supposed to gently echo the ancient name of [[Urtzabala]]
+%%

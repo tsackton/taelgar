@@ -1,13 +1,13 @@
 ---
-linterVersion: "3.0"
+linterVersion: "3.2"
 dmNotesReviewVersion: "3.0"
-nameReviewVersion: "3.0"
+nameReviewVersion: "3.2"
 name: Taelgar Note Linter
 ---
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **3.0** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **3.2** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -34,7 +34,11 @@ When these disagree, do not silently choose one. Stop the write-mode lint, repor
 
 Any note whose path contains a directory segment named `Worldbuilding` or beginning with `.` or `_` is categorically outside the linter's target scope. This applies at every nesting depth, including `Campaigns/_generated/**` and `Campaigns/.chatgpt/**`. Do not write `lintedAt`, `lintVersion`, `status/check/lint`, or persistent lint metadata to these notes, and do not count them in lint samples.
 
-Every other Markdown note is an eligible target; tag, note type, and other directory names do not create exclusions. Target eligibility does not filter evidence. All relevant vault Markdown notes—including notes under Worldbuilding and dot or underscore directories—remain searchable and citable while linting an eligible target. Their ordinary authority, privacy, and uncertainty still apply; Worldbuilding remains provisional rather than canonical merely because it is evidence.
+An otherwise in-scope note is lintable only when its authored body contains at least one complete natural-language sentence conveying setting, campaign, character, object, or source-record content. The sentence may be visible or inside an authored ordinary comment, `SECRET`, `Campaign:*`, or `Date:*` block. It need not end in punctuation, but it must express a complete thought. This is a semantic judgment, not a word-count, punctuation, or regular-expression test.
+
+Frontmatter, headings, images or embeds, isolated names, labels, dates, tags, wikilinks, noun phrases, fragmentary list items, editorial reminders, and linter-owned `Metadata:*`, `povNotes`, and `Lint` blocks do not satisfy the minimum. A list, table, callout, or quotation qualifies only when it contains at least one complete subject-matter sentence. Evaluate the authored body before any lint-owned edit; existing lint output cannot make a textless note eligible. The deterministic validator rejects objectively empty, heading-only, embed-only, and linter-output-only bodies. Text that survives that mechanical screen is only a candidate, and the contextual pass must still confirm that it includes a complete subject-matter sentence. When that judgment is uncertain, the note is ineligible.
+
+Tag, note type, and other directory names do not create additional exclusions. An explicitly named ineligible note is reported and left unchanged. Collections omit it; samples replace it rather than counting it. Target eligibility does not filter evidence. All relevant vault Markdown notes—including notes under Worldbuilding and dot or underscore directories—remain searchable and citable while linting an eligible target. Their ordinary authority, privacy, and uncertainty still apply; Worldbuilding remains provisional rather than canonical merely because it is evidence.
 
 ## Versioning
 
@@ -44,7 +48,7 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "3.0"
+lintVersion: "3.2"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
@@ -191,6 +195,8 @@ Perform contextual name review when the note has no valid `lintedAt`/`lintVersio
 When review applies, first decide semantically whether the note's primary subject is a named in-world thing or in-world work. Notes about people, places, objects, groups, events, powers, creatures, ancestries or cultures, religions, primary-source works, and other named in-world subjects use `Metadata:names:v1` as documented in [[Name Metadata]]. A meta or background page that merely organizes, analyzes, or summarizes in-world material does not. Tag, folder, and title do not decide applicability.
 
 For an applicable note, write a minimal primary entry with the exact subject name and its established language, or `language: unknown`; add other forms only when documented and never invent etymology. Preserve established name-specific meaning, derivation, naming agent, and historical circumstance or timing in the appropriate fields or `notes`; “minimal” means omitting unsupported or redundant fields, not discarding documented naming context. When creating a missing entry, if frontmatter has an actual pronunciation, treat the note itself as the source and record the matching entry as `status: documented` without requiring a source note. Otherwise use an explicit recorded pronunciation when found, mark it `documented`, and cite its source in `notes`. If the complete name is a genuinely obvious ordinary name or plain-English title, omit pronunciation. Otherwise derive the strongest supported proposal and store it with `status: proposed`, with its source or derivation in `notes`, until human acceptance. Preserve an existing unresolved entry rather than recalculating it; that rule takes precedence over the creation rule.
+
+Evaluate every displayed work-title form independently under [[Name Metadata]]. Infer `language: Common` only when the form consists entirely of ordinary modern-English words and no contrary title-language evidence exists; record an explicit translation as such. Non-English, constructed, or transliterated forms do not receive that presumption: use an unambiguous established language or `language: unknown`. The title-form language does not establish the language of the work's text, and ancestry, origin, or authorship is not sufficient evidence by itself.
 
 Use adopted language rules before cultural patterns or a real-world analogue in [[Languages]], and a cautious spelling-based reading only when no stronger basis exists. Missing exact in-world phonology leaves an analogue-derived result proposed. Every pronunciation must be pronounceable; exemptions use absence rather than sentinel text. Whenever a name-block entry has a pronunciation and frontmatter either has no pronunciation or has a different one, its `notes` must record the block value's source or derivation. A matching frontmatter pronunciation needs no source note. Never overwrite accepted frontmatter or recalculate an unresolved block entry automatically.
 
@@ -343,9 +349,9 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 3.0, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 3.2, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
 
-Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Explicit preparation rejects such targets, and snapshot/finalization reject any manifest that contains one, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
+Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Preparation also omits objectively textless bodies and records them in `selectionSummary.skippedNoReviewableProse`; the agent must separately screen surviving text for a complete subject-matter sentence before preparing the final candidate set. Explicit preparation rejects path-ineligible targets, and snapshot/finalization reject any manifest note that becomes objectively textless, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
 
 Batch preparation builds the vault link/identity index once and scans `_DM_` once for all targets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, the shared DM scan records each matching file's modification time directly; this evidence both gates contextual DM review and routes a current note when a matching private source is newer than `lintedAt`. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
 
@@ -353,8 +359,9 @@ Batch selection resolves scope before routing:
 
 1. The user's named files, folders, collection, or sample are the maximum scope; selection flags never broaden it.
 2. Remove target-ineligible paths.
-3. A plain `lint` request excludes every note with a valid prior `lintedAt`/`lintVersion` pair. Stale versions, open findings, deterministic errors, or newer evidence do not override this default.
-4. Only explicit language such as `re-lint`, `lint again`, or `refresh the lint` authorizes including previously linted notes, and only within the target that language modifies. Mixed scopes are prepared separately.
+3. Remove notes without at least one complete authored subject-matter sentence; for a sample, select replacements from within the authorized scope until the requested count is reached.
+4. A plain `lint` request excludes every note with a valid prior `lintedAt`/`lintVersion` pair. Stale versions, open findings, deterministic errors, or newer evidence do not override this default.
+5. Only explicit language such as `re-lint`, `lint again`, or `refresh the lint` authorizes including previously linted notes, and only within the target that language modifies. Mixed scopes are prepared separately.
 
 The batch CLI enforces this boundary: named targets are filtered by default, `--re-lint` includes valid prior lint state, and `--all-linted` or `--stale` require `--re-lint`. Within an explicitly authorized re-lint scope, routing follows the adopted invalidation model:
 

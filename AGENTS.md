@@ -121,6 +121,12 @@ After editing:
 - Re-read every changed file in full.
 - Confirm frontmatter occurs once at the top and parses as YAML.
 - Check edited tags, classification fields, special syntax, and wikilink targets.
+- Exception: after an authorized `lint-taelgar-note` batch finalizer succeeds and
+  verifies the written hashes, follow that skill's risk-based post-finalization
+  verification instead of independently repeating the full-file, YAML, tag,
+  special-syntax, and link checks above. This exception does not waive complete
+  scoped-diff review or scoped `git diff --check`; any mismatch, tool-reported
+  anomaly, or later manual edit restores the ordinary requirements.
 - Review the complete diff and run a scoped `git diff --check`.
 - Do not broaden the task to fix unrelated or pre-existing findings. Ignore
   harmless end-of-file-only whitespace differences.

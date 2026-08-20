@@ -353,6 +353,69 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     end
   end
 
+  def test_cli_skips_objectively_sentence_less_notes_before_preparation
+    root = make_vault
+    notes = {
+      "Meta/Frontmatter Only.md" => "---\ntags: [meta]\n---\n",
+      "Meta/Heading Only.md" => "---\ntags: [meta]\n---\n# Heading Only\n",
+      "Meta/Image Only.md" => "---\ntags: [source]\n---\n![[map.png]]\n",
+      "Meta/Comment Sentence.md" => "---\ntags: [meta]\n---\n# Comment Sentence\n\n%% This comment records a complete subject-matter sentence. %%\n"
+    }
+    notes.each { |path, text| write_note(root, path, text) }
+    output = File.join(root, "manifest.json")
+
+    result = TaelgarNoteLint::Batch::CLI.new(
+      ["prepare", "--root", root, "--output", output, *notes.keys]
+    ).run
+    manifest = JSON.parse(File.read(output))
+
+    assert_equal 0, result
+    assert_equal ["Meta/Comment Sentence.md"], manifest.fetch("notes").map { |note| note.fetch("path") }
+    assert_equal 4, manifest.dig("selectionSummary", "requested")
+    assert_equal 3, manifest.dig("selectionSummary", "skippedNoReviewableProse")
+    assert_equal [
+      "Meta/Frontmatter Only.md",
+      "Meta/Heading Only.md",
+      "Meta/Image Only.md"
+    ], manifest.dig("selectionSummary", "skippedNoReviewableProsePaths").sort
+    assert_equal 0, manifest.dig("selectionSummary", "skippedAlreadyLinted")
+  end
+
+  def test_preparer_snapshot_and_finalizer_reject_objectively_sentence_less_notes
+    root = make_vault
+    path = "Meta/Heading Only.md"
+    write_note(root, path, "---\ntags: [meta]\n---\n# Heading Only\n")
+
+    prepare_error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
+    end
+
+    manifest, manifest_sha = manifest_for(root, [path])
+    snapshot_error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      snapshot(root, manifest, manifest_sha)
+    end
+    decisions = {
+      "schemaVersion" => TaelgarNoteLint::Batch::DECISION_SCHEMA_VERSION,
+      "validatorVersion" => TaelgarNoteLint::VERSION,
+      "manifestSha256" => manifest_sha,
+      "notes" => [
+        {
+          "path" => path,
+          "expectedSha256" => TaelgarNoteLint::Batch.file_sha256(File.join(root, path)),
+          "outcome" => "clean",
+          "lintReport" => nil
+        }
+      ]
+    }
+    finalize_error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+
+    [prepare_error, snapshot_error, finalize_error].each do |error|
+      assert_includes error.message, "no authored body candidate"
+    end
+  end
+
   def test_snapshot_and_finalizer_reject_legacy_ineligible_manifests
     root = make_vault
     path = "Campaigns/_generated/Old Lint.md"
@@ -496,6 +559,41 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_includes open, "status/check/lint"
     assert_includes open, "review.open"
     assert_equal COMPLETED_AT, result.fetch("completedAt")
+    result.fetch("notes").each do |record|
+      assert_equal record.fetch("sha256"), TaelgarNoteLint::Batch.file_sha256(File.join(root, record.fetch("path")))
+    end
+  end
+
+  def test_finalizer_rolls_back_a_post_write_checksum_mismatch
+    root = make_vault
+    path = "Meta/Clean.md"
+    write_note(root, path, meta_note("Clean", version: "2.2"))
+    original = File.read(File.join(root, path))
+    manifest, manifest_sha = manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").first["outcome"] = "clean"
+    corrupting_finalizer = Class.new(TaelgarNoteLint::Batch::Finalizer) do
+      private
+
+      def stage_candidate(candidate)
+        entry = super
+        File.open(entry.fetch("new_file").path, "ab") { |file| file.write("\ncorrupted after staging\n") }
+        entry
+      end
+    end
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      corrupting_finalizer.new(
+        root: root,
+        manifest: manifest,
+        manifest_sha256: manifest_sha,
+        decisions: decisions,
+        completed_at: COMPLETED_AT
+      ).finalize(write: true)
+    end
+
+    assert_includes error.message, "Written file checksum mismatch"
+    assert_equal original, File.read(File.join(root, path))
   end
 
   def test_finalizer_replaces_old_report_containing_copy_ready_block_markers
@@ -602,6 +700,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       ---
       # #{name}
 
+      #{name} is a documented person in this test vault.
+
       %%^Metadata:names:v1%%
       - {name: #{name}, language: Common, pronunciation: NAYM}
       %%^End%%
@@ -634,6 +734,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       POV: modern
       ---
       # #{name}
+
+      #{name} describes a lint workflow fixture in this test vault.
 
       %%^povNotes:v1%%
       Temporal coverage: modern; this meta reference has no narrower in-world limitation.

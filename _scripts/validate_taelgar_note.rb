@@ -24,10 +24,10 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "3.0"
-  SCHEMA_VERSION = 3
+  VERSION = "3.2"
+  SCHEMA_VERSION = 4
   DM_NOTES_REVIEW_VERSION = "3.0"
-  NAME_REVIEW_VERSION = "3.0"
+  NAME_REVIEW_VERSION = "3.2"
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
     activeYear subTypeOf subTypeOfAlias subspecies speciesAlias deity
@@ -91,6 +91,12 @@ module TaelgarNoteLint
   # structured block in a note, match through its last end marker rather than
   # stopping at an example nested in the report text.
   LINT_BLOCK_PATTERN = /%%\^Lint%%\s*(.*)\s*%%\^End%%/m
+  LINT_OWNED_BODY_PATTERNS = [
+    METADATA_BLOCK_PATTERN,
+    POV_NOTES_BLOCK_PATTERN,
+    LEGACY_ARTICLE_BLOCK_PATTERN,
+    LINT_BLOCK_PATTERN
+  ].freeze
 
   PLACE_TYPES = [
     "settlement", "realm", "neighborhood", "region", "watershed", "plane",
@@ -145,6 +151,40 @@ module TaelgarNoteLint
     end.join
 
     masked.gsub(/(`+)[^\r\n]*?\1/) { |span| span.gsub(/[^\r\n]/, " ") }
+  end
+
+  # This is deliberately only the deterministic half of lint eligibility. It
+  # removes forms that can never satisfy the authored-sentence minimum. Any
+  # surviving text still requires contextual judgment that it contains a
+  # complete subject-matter sentence rather than a label, fragment, or reminder.
+  def authored_body_candidate_text(note)
+    text = LINT_OWNED_BODY_PATTERNS.reduce(note.body.dup) do |body, pattern|
+      body.gsub(pattern, "")
+    end
+    text = text.gsub(/!\[\[[^\]\n]+\]\]/, " ")
+    text = text.gsub(/!\[[^\]\n]*\]\([^\n)]*\)/, " ")
+    text = text.gsub(/!\[[^\]\n]*\]\[[^\]\n]*\]/, " ")
+    text = text.gsub(/<img\b[^>]*>/i, " ")
+
+    lines = text.lines
+    kept = lines.each_with_index.each_with_object([]) do |(line, index), selected|
+      stripped = line.strip
+      next if stripped.empty?
+      next if stripped.match?(/\A\#{1,6}(?:\s+.*)?\z/)
+      next if stripped.match?(/\A(?:=+|-+)\z/)
+      next if index + 1 < lines.length && lines[index + 1].strip.match?(/\A(?:=+|-+)\z/)
+      next if stripped.match?(/\A%%\^[^%\n]+%%\z/)
+      next if stripped.match?(/\A>\s*\[![^\]]+\][+-]?(?:\s+.*)?\z/)
+      next if stripped.match?(/\A(?:[-*_]\s*){3,}\z/)
+
+      selected << line
+    end
+
+    kept.join.gsub(/<!--|-->|%%/, " ")
+  end
+
+  def authored_body_candidate?(note)
+    authored_body_candidate_text(note).match?(/[[:alnum:]]/)
   end
 
   def yaml_load(text)
@@ -678,6 +718,7 @@ module TaelgarNoteLint
       findings = []
 
       validate_frontmatter(note, findings)
+      target_eligibility = validate_target_eligibility(note, findings)
       if note.frontmatter_state == :present && !note.yaml_error
         validate_identity_and_classification(note, findings)
         validate_campaign_metadata(note, findings)
@@ -699,6 +740,7 @@ module TaelgarNoteLint
           "authority" => source_authority(note),
           "statuses" => statuses
         },
+        "targetEligibility" => target_eligibility,
         "findings" => findings.sort_by { |finding| finding_sort_key(finding) },
         "summary" => summarize(findings)
       }
@@ -732,6 +774,30 @@ module TaelgarNoteLint
       return "primary-source" if note.tags.include?("source") || note.tags.include?("primary-source")
 
       "reference"
+    end
+
+    def validate_target_eligibility(note, findings)
+      unless note.frontmatter_state == :present && !note.yaml_error
+        return {
+          "status" => "undetermined",
+          "reason" => "frontmatter_invalid"
+        }
+      end
+
+      if TaelgarNoteLint.authored_body_candidate?(note)
+        return {
+          "status" => "agent_confirmation_required",
+          "reason" => "authored_text_candidate_present"
+        }
+      end
+
+      add(findings, "lint.target_no_reviewable_prose", "error", "required",
+          "The note has no authored body text that can contain a complete subject-matter sentence after headings, images or embeds, and linter-owned blocks are excluded; it is not a lint target.",
+          line: note.body_start_line)
+      {
+        "status" => "ineligible",
+        "reason" => "no_authored_sentence_candidate"
+      }
     end
 
     def validate_frontmatter(note, findings)
@@ -2054,7 +2120,10 @@ module TaelgarNoteLint
         absolute = Pathname.new(path)
         absolute = root.join(absolute) unless absolute.absolute?
         text = TaelgarNoteLint.read_text(absolute)
-        formatted = FrontmatterFormatter.new(ParsedNote.new(path, text)).format_text
+        note = ParsedNote.new(path, text)
+        next unless TaelgarNoteLint.authored_body_candidate?(note)
+
+        formatted = FrontmatterFormatter.new(note).format_text
         next if formatted == text
 
         File.write(absolute, formatted)
