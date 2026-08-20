@@ -1,5 +1,4 @@
 ---
-tags: [meta, status/check/ai]
 linterVersion: "3.0"
 dmNotesReviewVersion: "3.0"
 nameReviewVersion: "3.0"
