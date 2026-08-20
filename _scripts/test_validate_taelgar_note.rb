@@ -249,7 +249,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
         %%^Metadata:article:v1%%
         mode: geographic reference
-        povNotes: Stable geographic prose with no campaign-relative temporal language.
+        povNotes: "Temporal coverage: modern; the geographic prose has no narrower campaign-relative limitation."
         %%^End%%
 
         %%^Metadata:names:v1%%
@@ -300,7 +300,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
         %%^Metadata:article:v1%%
         mode: campaign record
-        povNotes: The session note is authoritative for what occurred in play.
+        povNotes: "Temporal coverage: the DR 1748 session chronology; this is an authoritative record rather than a continuous current-state article."
         %%^End%%
       MARKDOWN
     )
@@ -365,7 +365,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     assert_includes rule_ids(report), "lint.version_outdated"
-    assert_equal "2.5", report.fetch("validatorVersion")
+    assert_equal "2.6", report.fetch("validatorVersion")
   end
 
   def test_completed_lints_require_scalar_frontmatter_pov_and_article_notes
@@ -812,7 +812,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
   def test_metadata_blocks_are_at_note_end_and_article_metadata_does_not_repeat_profile
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
-    block = "%%^Metadata:article:v1%%\nmode: geographic reference\npovNotes: Stable present-day geography.\n%%^End%%"
+    block = "%%^Metadata:article:v1%%\nmode: geographic reference\npovNotes: \"Temporal coverage: modern; the geography has no narrower established limitation.\"\n%%^End%%"
     misplaced = validator.validate_text(
       "Gazetteer/Test.md",
       "---\ntags: [place]\ntypeOf: forest\n---\n#{block}\n\n# Test\n\nBody.\n"

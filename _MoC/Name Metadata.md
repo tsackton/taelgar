@@ -1,8 +1,10 @@
 # Name Metadata
 
-`Metadata:names:v1` records subject-specific facts about the names used on a note. It complements the ordinary `name`, `aliases`, and `pronunciation` frontmatter fields: frontmatter holds accepted display values, while the name block records language, meaning, derivation, alternate forms, and unresolved or proposed decisions.
+`Metadata:names:v1` identifies the named in-world subject or work described by a note and records subject-specific facts about its names. It complements the ordinary `name`, `aliases`, and `pronunciation` frontmatter fields: frontmatter holds accepted display values, while the name block records language, meaning, derivation, alternate forms, and unresolved or proposed decisions.
 
-Use the block only when the note is actually about a named in-world subject or work and there is useful name-specific information to preserve. A descriptive article title does not by itself justify a name block. Meta notes never use name blocks. Background notes normally omit them unless they are also tagged `religion/*` and the block captures the name of the religion, or the note clearly concerns another named in-world concept rather than a general topic.
+Every note whose subject is a named in-world thing or work uses the block. Apply this rule semantically rather than by tag, folder, or title: notes about people, places, objects, groups, events, powers, creatures, ancestries or cultures, religions, primary-source works, and other named in-world subjects require it. A `background`-tagged note that actually describes a named in-world subject still requires the block.
+
+Do not use the block on a meta or background page that organizes, analyzes, or summarizes information without itself describing an in-world subject. For example, `History of Sembara`, `Timeline of Tollen`, and `West Coast History Framework` do not receive blocks merely because their titles contain in-world names. When a qualifying subject has no established language or other name facts, use a minimal entry with its exact name and `language: unknown`; do not invent etymology. A plain-English or otherwise obvious name may omit pronunciation, but it does not omit the name block.
 
 The block belongs with other persistent metadata blocks at the end of the note, after article text and comments but before the replaceable lint report.
 
@@ -33,7 +35,7 @@ The first entry is treated as primary unless another entry explicitly uses `role
 
 ## Pronunciation workflow
 
-An accepted primary pronunciation belongs in frontmatter so existing headers can display it. A proposed pronunciation may appear in the name block with `status: proposed`, but it remains unresolved until a human accepts it and copies it to frontmatter. Every authored `pronunciation` value must be a pronunciation that a reader can say aloud.
+An accepted primary pronunciation belongs in frontmatter so existing headers can display it. A proposed pronunciation belongs in the name block with `status: proposed`, but it remains unresolved until a human accepts it and copies it to frontmatter. Do not leave the only copy of a proposed pronunciation in a replaceable lint report. Every authored `pronunciation` value must be a pronunciation that a reader can say aloud.
 
 Whenever the linter proposes a pronunciation, the lint report must explain its derivation. The explanation should identify the strongest available basis:
 

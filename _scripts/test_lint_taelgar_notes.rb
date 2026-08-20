@@ -488,7 +488,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
       %%^Metadata:article:v1%%
       mode: biographical reference
-      povNotes: Accuracy is centered on DR 1750.
+      povNotes: "Temporal coverage: a DR 1750 biographical portrait."
       %%^End%%
     MARKDOWN
   end
@@ -512,13 +512,13 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       lintVersion: "#{version}"
       tags: #{tag}
       name: #{name}
-      POV: timeless
+      POV: modern
       ---
       # #{name}
 
       %%^Metadata:article:v1%%
       mode: meta reference
-      povNotes: This note is not tied to an in-world date.
+      povNotes: "Temporal coverage: modern; this meta reference has no narrower in-world limitation."
       %%^End%%
       #{report}
     MARKDOWN
