@@ -1,15 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
 tags: [person]
 species: human
 ancestry: Chardonian
 gender: female
-whereabouts: Chardon
 died: 1577
+name: Paulina Nusinius
+pronunciation: pow-LEE-nah noo-SEE-nee-oos
+whereabouts: Chardon
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1700s
 ---
 # Paulina Nusinius
+*(pow-LEE-nah noo-SEE-nee-oos)*
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -17,4 +24,13 @@ dm_notes: none
 
 Paulina Nusinius was a Chardonian scholar and metaphysicist, who wrote shortly after the Great War on the relationship between Cha’mutte and Limbo. 
 
-She is best known for the [[Research about Limbo and Cha'mutte|provocative thesis]] that Cha’mutte was, in some sense, part of Limbo itself, and that at his death Limbo and the Material Plane briefly collapsed together. She argued that the post-war upheavals such as the rising of the [[Yuvanti Mountains]] and the collapse of [[Urlich Pass]] could be interpreted as consequences of Limbo's temporary but powerful influence on the Material Plane. 
+She is best known for the [[Research about Limbo and Cha'mutte|provocative thesis]] that Cha’mutte was, in some sense, part of Limbo itself, and that at his death Limbo and the Material Plane briefly collapsed together. She argued that the post-war upheavals such as the rising of the [[Yuvanti Mountains]] and the collapse of [[Urlich Pass]] could be interpreted as consequences of Limbo's temporary but powerful influence on the Material Plane.
+
+%%^Metadata:names:v1%%
+- {name: Paulina Nusinius, role: primary, language: Chardonian, pronunciation: pow-LEE-nah noo-SEE-nee-oos, status: documented}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: historical biography
+povNotes: All claims concern a scholar who died in DR 1577 and remain usable throughout the 1700s; the note does not attempt to summarize later acceptance or rejection of her theory.
+%%^End%%

@@ -225,7 +225,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T00:00:00-04:00"
-        lintVersion: "2.3"
+        lintVersion: "#{TaelgarNoteLint::VERSION}"
         tags: [place]
         typeOf: waterway
         pronunciation: RIH-ver
@@ -277,7 +277,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T09:00:00-04:00"
-        lintVersion: "2.3"
+        lintVersion: "#{TaelgarNoteLint::VERSION}"
         tags: [session-note]
         campaign: Great Library
         POV: 1748
@@ -351,7 +351,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     assert_includes rule_ids(report), "lint.version_outdated"
-    assert_equal "2.3", report.fetch("validatorVersion")
+    assert_equal "2.4", report.fetch("validatorVersion")
   end
 
   def test_completed_lints_require_scalar_frontmatter_pov_and_article_notes
@@ -362,7 +362,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
       <<~MARKDOWN
         ---
         lintedAt: "2026-08-19T09:00:00-04:00"
-        lintVersion: "2.3"
+        lintVersion: "#{TaelgarNoteLint::VERSION}"
         tags: [meta]
         ---
         # Meta

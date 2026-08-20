@@ -6,6 +6,7 @@ tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
 name: Istaros
+pronunciation: ISS-tah-rohs
 aliases: [Aistanë, Drogar, Mahar]
 whereabouts: Istaros Watershed
 dm_owner: joint
@@ -13,8 +14,9 @@ dm_notes: important
 POV: post-Great-War
 ---
 # Istaros
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(ISS-tah-rohs)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Istaros is a major river that flows several thousand miles from its source in the [[Mostreve Hills]] to the [[Sea of Storms]]. The [[Istaros Watershed]] has been central to many rich realms, including the [[Drankorian Empire]] and later the [[Istabor Alliance]], but since the [[Great War]] it has been largely cursed and deserted, as nearly the entire river system flows through the [[Desolation of Cha'mutte]]. 
@@ -39,10 +41,10 @@ Once, the Istaros joined the Hara, forming a broad river that flowed past the fa
 The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[Orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[First Plague]] and the fall of Drankor.
 
 %%^Metadata:names:v1%%
-- {name: Istaros, role: primary, language: unknown, pronunciation: ISS-tah-rohs, derivedFrom: Aistanë, status: proposed, notes: likely corruption of the Elvish form; source language and exact sound change are unresolved}
-- {name: Aistanë, role: historical, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, status: documented}
-- {name: Drogar, role: regional, language: Orcish, status: documented}
-- {name: Mahar, role: regional, language: Dunmari, status: documented}
+- {name: Istaros,  language: Common, pronunciation: ISS-tah-rohs, derivedFrom: Aistanë, notes: corruption of the Elvish form}
+- {name: Aistanë, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, status: documented}
+- {name: Drogar,  language: Orcish, status: documented}
+- {name: Mahar,  language: Dunmari, status: documented}
 %%^End%%
 
 %%^Metadata:map:v1%%
@@ -61,7 +63,7 @@ povNotes: "Accuracy range: post-Great-War. The article contrasts the present cur
 
 ### Open findings
 
-- [ ] **warning — `name.pronunciation_missing`:** `ISS-tah-rohs` is a low-confidence spelling-based proposal. The note says Istaros is probably a corruption of Aistanë, but the sound change and present form’s source language are unresolved. If accepted, copy:
+- [x] **warning — `name.pronunciation_missing`:** `ISS-tah-rohs` is a low-confidence spelling-based proposal. The note says Istaros is probably a corruption of Aistanë, but the sound change and present form’s source language are unresolved. If accepted, copy:
   ```yaml
   pronunciation: ISS-tah-rohs
   ```

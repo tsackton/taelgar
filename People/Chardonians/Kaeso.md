@@ -1,25 +1,29 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/text]
-knownTo: [Mawar, DuFr]
-campaignInfo:
-- {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
-name: Kaeso
-born: 1691
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
+tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+  - {campaign: dufr, person: Delwath, date: 1748-10-12, type: scryed}
+born: 1691
 gender: male
+name: Kaeso
+pronunciation: KAI-soh
 affiliations: [Shakun Mystai]
 whereabouts:
-- {type: home, end: 1712, location: Chardon}
-- {type: away, start: 1713, prefix: traveling in, location: Dunmar}
-- {type: away, start: 1717, location: Karawa}
-- {type: away, start: 1719, location: Taelgar, prefix: traveling widely across, format: ""}
-- {type: home, start: 1723, end: 1748-09-09, location: Chardon}
-- {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
-- {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ""}
-dm_notes: important
+  - {type: home, end: 1712, location: Chardon}
+  - {type: away, start: 1713, prefix: traveling in, location: Dunmar}
+  - {type: away, start: 1717, location: Karawa}
+  - {type: away, start: 1719, location: Taelgar, prefix: traveling widely across, format: ""}
+  - {type: home, start: 1723, end: 1748-09-09, location: Chardon}
+  - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
+  - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ""}
+knownTo: [mawar, dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 ---
 # Kaeso
 >[!info]+ Biographical Info
@@ -27,7 +31,10 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Scryed with [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
+
+%%^Campaign:dufr%%
+Scryed with [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]]
+%%^End%%
 
 %% clean up campaign info and text, add image, copy various notes from Kenzo brainstorming in DM folder %%
 ![[kaeso.png|right|400]]
@@ -87,3 +94,29 @@ Source links:
 - [[Yaz]]
 - [[Wazir]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Kaeso, role: primary, language: Chardonian, pronunciation: KAI-soh, status: proposed, notes: Chardonian uses Latin and Italian analogues; ae is read as a diphthong and the opening consonant remains hard. An Italianized KAY-zoh is a plausible alternative if intervocalic s is voiced.}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: campaign-aware character reference
+povNotes: The visible biography is a late-1748 to 1749 snapshot. Kaeso's whereabouts in Hamri and later scrying appearances need consolidation before the note can reliably answer where he is within that interval.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **warning — name.pronunciation_missing:** KAI-soh is the preferred analogue-informed proposal. [[Languages]] maps Chardonian to Latin and Italian; the proposal gives ae its Latinate diphthong, keeps the opening consonant hard, and uses two syllables. KAY-zoh is a plausible more Italianized alternative if intervocalic s is voiced. If the preferred form is accepted, copy pronunciation: KAI-soh and change the name entry to status: documented.
+- [ ] **suggestion — coverage.campaign_update:** The visible biography and campaign metadata do not yet consolidate the later Mawar stay and DuFr scrying material already listed in the shared review comment. Copy-ready visible candidate from [[Mawar Adventures Episode 05]]: By DR 1749, Kaeso was staying in [[Hamri]], where he had warned local leaders about Chardon's exploitation of magic and the dangers of chalyte. The exact date for the later February scrying remains unresolved, so no additional campaignInfo row should be copied until it is confirmed.
+
+### Applied changes
+
+- Canonicalized frontmatter; normalized knownTo and campaignInfo to registered mawar and dufr codes; moved the Campaign:dufr block below the complete header callout; and added POV: 1749 plus persistent proposed-name/article metadata.
+
+### Validated
+
+- The existing positive dm_notes value is supported by [[_DM_/Timelines/NPC Travels|NPC Travels]], [[_DM_/Timelines/Old Timeline (Table)|Old Timeline]], [[_DM_/Timelines/Unified Timeline From OneNote|Unified Timeline From OneNote]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart|Chardon NPC Flowchart]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48|Session 48 DM source]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49|Session 49 DM source]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Hralgar (Session 62- )/Session 62/Session 62 1|Session 62 DM source]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime|Session 32 Downtime]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part III Saving the Te'kula/Arrival|Elderwood Arrival]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Calendar Eras - DuFr Player Background|Calendar Eras]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background|Dunmar Campaign Dates]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Kenzo (OneNote)|Kenzo OneNote]], [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon|Events Since Chardon]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 124 - DM Notes|Session 124 DM Notes]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes|Session 125 DM Notes]], and [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Time Skip - Bullet Points|Time Skip - Bullet Points]]. The existing cleanup status tags remain justified by the unintegrated material.
+%%^End%%

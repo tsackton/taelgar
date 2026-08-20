@@ -266,6 +266,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     root = make_vault
     write_note(root, "Meta/Current.md", meta_note("Current", version: TaelgarNoteLint::VERSION))
     write_note(root, "Meta/Stale.md", meta_note("Stale", version: "2.2"))
+    write_note(root, "Worldbuilding/Linted.md", meta_note("Linted Worldbuilding", version: "2.2"))
     cli = TaelgarNoteLint::Batch::CLI.new([])
 
     all = cli.send(:discover_paths, Pathname.new(root), all_linted: true, stale: false)
@@ -273,6 +274,52 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
     assert_equal ["Meta/Current.md", "Meta/Stale.md"], all
     assert_equal ["Meta/Stale.md"], stale
+  end
+
+  def test_preparer_rejects_explicit_worldbuilding_targets
+    root = make_vault
+    write_note(root, "Worldbuilding/Idea.md", "# Idea\n")
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      TaelgarNoteLint::Batch::Preparer.new(root: root).prepare(["Worldbuilding/Idea.md"])
+    end
+
+    assert_includes error.message, "Worldbuilding notes are outside"
+  end
+
+  def test_snapshot_and_finalizer_reject_legacy_worldbuilding_manifests
+    root = make_vault
+    path = "Worldbuilding/Old Lint.md"
+    write_note(root, path, meta_note("Old Lint", version: TaelgarNoteLint::VERSION))
+    manifest, manifest_sha = manifest_for(root, [path])
+
+    snapshot_error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      TaelgarNoteLint::Batch::Snapshotter.new(
+        root: root,
+        manifest: manifest,
+        manifest_sha256: manifest_sha
+      ).snapshot
+    end
+
+    decisions = {
+      "schemaVersion" => TaelgarNoteLint::Batch::DECISION_SCHEMA_VERSION,
+      "validatorVersion" => TaelgarNoteLint::VERSION,
+      "manifestSha256" => manifest_sha,
+      "notes" => [
+        {
+          "path" => path,
+          "expectedSha256" => TaelgarNoteLint::Batch.file_sha256(File.join(root, path)),
+          "outcome" => "clean",
+          "lintReport" => nil
+        }
+      ]
+    }
+    finalize_error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+
+    assert_includes snapshot_error.message, "Worldbuilding notes are outside"
+    assert_includes finalize_error.message, "Worldbuilding notes are outside"
   end
 
   def test_cli_returns_an_empty_manifest_when_no_stale_notes_exist
@@ -395,7 +442,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
   end
 
   def person_note(name, linted: false)
-    lint_fields = linted ? "lintedAt: \"2026-08-19T09:00:00-04:00\"\nlintVersion: \"2.3\"\n" : ""
+    lint_fields = linted ? "lintedAt: \"2026-08-19T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::VERSION}\"\n" : ""
     <<~MARKDOWN
       ---
       headerVersion: 1

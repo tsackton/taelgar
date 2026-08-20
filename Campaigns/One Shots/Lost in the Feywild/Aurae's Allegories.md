@@ -1,6 +1,16 @@
-## Aurae's Allegories 
+---
+headerVersion: 2023.11.25
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
+tags: [source]
+campaign: Lost in the Feywild
+name: "Aurae's Allegories"
+POV: 1740
+---
 
-Meeting the Tollen Misfits, the mechnical-magic automata *Aurae* explains: “I am a synthesizer of research and information. I have read the contents of the library and help researchers find what they need. And... and because it has been some time since those services have been needed, I have been writing my own books about the people I meet. I pay very close attention to everything I haver ever read, and everything I notice about you inside and out, and I tell you a story about who you are.”
+# Aurae's Allegories
+
+Meeting the Tollen Misfits, the mechanical-magic automata *Aurae* explains: “I am a synthesizer of research and information. I have read the contents of the library and help researchers find what they need. And... and because it has been some time since those services have been needed, I have been writing my own books about the people I meet. I pay very close attention to everything I have ever read, and everything I notice about you inside and out, and I tell you a story about who you are.”
 
 
 ### Edric's Story from Aurae ###
@@ -11,7 +21,7 @@ She didn’t live in a house, but sat beside the one gate which is in the fence 
 
 Each time a bright sun was born, it passed through the world, and over the village, and through the gate into the darkness to the place where all stars go after they’ve gone out. Each time, the old woman would open the gate, and gently greet her sun by its name as it went through.
 
-Until one day, a boy in the village fell in love with the suns that went by. All day long he watched them, and cried when they passed beyond his site. So he fashioned a net at the end of a tall pole, and caught the sun as it passed, and put it in a box just for himself, not knowing that the old woman was waiting for her child at the gate that divides night from day.
+Until one day, a boy in the village fell in love with the suns that went by. All day long he watched them, and cried when they passed beyond his sight. So he fashioned a net at the end of a tall pole, and caught the sun as it passed, and put it in a box just for himself, not knowing that the old woman was waiting for her child at the gate that divides night from day.
 
 What is the purpose of a trustworthy friend under that twilight sky? One who would truly be a friend to the old woman, and the sun, and the boy?
 
@@ -27,9 +37,9 @@ And then, under a twilight sky it came to a house that offered it a reason. What
 ### Ayveen's Story from Aurae ###
 I will tell you a story about light and joy and wellbeing, and doing good.
 
-Once upon a time, a forester planted a forest. Row after row of sapling grew upright and strong and beautiful. She would walk down the rows and sigh with contentment: everything was right and in its rightful place. When the trees lost a branch in the storm, she would bandage them, and heal them, and help them grow strong again. When they grew sad at the thought of one day being cut down, she would help them remember that all things which have a beginning have an ending.
+Once upon a time, a forester planted a forest. Row after row of saplings grew upright and strong and beautiful. She would walk down the rows and sigh with contentment: everything was right and in its rightful place. When the trees lost a branch in the storm, she would bandage them, and heal them, and help them grow strong again. When they grew sad at the thought of one day being cut down, she would help them remember that all things which have a beginning have an ending.
 
-But a storm that started on a distant ocean silvered the leaves with hail, and burned the branches with lightning, and overturned the trunks with wind. So the forester packed her bag, and put on her warm clean coat, and tucked her dagger into her belt, and went looking for another forest: for a place where everything made sense, and the trees grew right, where should could tend to a new grove and cure and heal.
+But a storm that started on a distant ocean silvered the leaves with hail, and burned the branches with lightning, and overturned the trunks with wind. So the forester packed her bag, and put on her warm clean coat, and tucked her dagger into her belt, and went looking for another forest: for a place where everything made sense, and the trees grew right, where she could tend to a new grove and cure and heal.
 
 In the morning as she looked, she trusted it was just over the next hill. At noon, she was sure it would be in the next town. At sunset, she was sure it was around the next block of the city. Years passed, but the place she looked for never appeared. 
 
@@ -45,3 +55,9 @@ At dinner, her guests made toasts to her: “your work is keeping all of us safe
 When she died, she died very far from home, and if anyone ate her remains, I do not know that story. In time, her friends forgot what was locked under the floor. Forgot the doors of stone and magic and iron. Forgot even where her house was. Like night forgetting the day.
 
 Until, the man who dearly wanted to keep his friends safe learned that his neighbor kept a monster in her cellar. What was he to do?
+
+
+%%^Metadata:article:v1%%
+mode: campaign primary-source collection
+povNotes: Records allegories told by Aurae to the Tollen Misfits during the Lost in the Feywild campaign in DR 1740; the stories are preserved as source material rather than tested as factual claims.
+%%^End%%

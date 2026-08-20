@@ -13,6 +13,7 @@ whereabouts:
   - {type: home, location: Gorzum}
   - {type: home, location: Uzgukhar}
   - {type: away, start: 1749-01-24, end: 1749-06-18, location: Vindristjarna}
+  - {type: away, start: 1749-06-18, end: 9999, location: traveling with Riswynn}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: color

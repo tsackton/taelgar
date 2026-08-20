@@ -71,6 +71,16 @@ module TaelgarNoteLint
       raise BatchError, "Target is not inside the vault: #{path}"
     end
 
+    def worldbuilding_path?(path)
+      Pathname.new(path).each_filename.first == "Worldbuilding"
+    end
+
+    def ensure_lintable_path!(path)
+      return unless worldbuilding_path?(path)
+
+      raise BatchError, "Worldbuilding notes are outside Taelgar Note Linter scope: #{path}"
+    end
+
     class GitBaselineResolver
       def initialize(root)
         @root = Pathname.new(root).expand_path
@@ -128,6 +138,7 @@ module TaelgarNoteLint
       def prepare(paths)
         relative_paths = paths.map { |path| Batch.relative_note_path(@root, path) }.uniq.sort
         raise BatchError, "No notes were selected." if relative_paths.empty?
+        relative_paths.each { |path| Batch.ensure_lintable_path!(path) }
 
         notes = relative_paths.map do |path|
           absolute = @root.join(path)
@@ -289,6 +300,7 @@ module TaelgarNoteLint
         unless @manifest["schemaVersion"] == SCHEMA_VERSION
           raise BatchError, "Unsupported batch manifest schema: #{@manifest['schemaVersion'].inspect}"
         end
+        @manifest.fetch("notes").each { |record| Batch.ensure_lintable_path!(record.fetch("path")) }
         return if @manifest["validatorVersion"].to_s == VERSION
 
         raise BatchError, "Manifest validator version #{@manifest['validatorVersion'].inspect} does not match #{VERSION}."
@@ -348,6 +360,8 @@ module TaelgarNoteLint
         unless @manifest["validatorVersion"].to_s == VERSION && @decisions["validatorVersion"].to_s == VERSION
           raise BatchError, "Batch files do not match validator version #{VERSION}."
         end
+        @manifest.fetch("notes").each { |record| Batch.ensure_lintable_path!(record.fetch("path")) }
+        @decisions.fetch("notes").each { |decision| Batch.ensure_lintable_path!(decision.fetch("path")) }
         return if @decisions["manifestSha256"] == @manifest_sha256
 
         raise BatchError, "Decision file was created from a different manifest."
@@ -600,6 +614,7 @@ module TaelgarNoteLint
           parts = Pathname.new(relative).each_filename.to_a
           next if parts.any? { |part| part.start_with?(".") }
           next if File.basename(relative) == "AGENTS.md"
+          next if Batch.worldbuilding_path?(relative)
 
           note = ParsedNote.new(relative, TaelgarNoteLint.read_text(absolute))
           has_lint_state = note.data.key?("lintedAt") || note.data.key?("lintVersion")

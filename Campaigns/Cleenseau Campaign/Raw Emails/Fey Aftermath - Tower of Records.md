@@ -1,5 +1,11 @@
 ---
+headerVersion: 2023.11.25
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
 tags: [meta]
+campaign: Cleenseau
+name: Fey Aftermath - Tower of Records
+POV: 1720
 ---
 
 meta: continuing to split this up; this contains the results of the search of the Tower of Records; one more email about the mind-reading of the chamberlain and the discussion on the group still to come. for those with minimum energy skip down to the bit I've flagged as **MOST INTERESTING PART**]
@@ -136,3 +142,7 @@ Each of the five boxes has very different looking dust in it. These are probably
 
 All different. You can identify a potion just by sipping a bit, unlike other items.
 
+%%^Metadata:article:v1%%
+mode: campaign correspondence archive
+povNotes: Records the Cleenseau party's Tower of Records exchange in the DR 1720 campaign era; exact dates belong to the underlying correspondence and sessions.
+%%^End%%

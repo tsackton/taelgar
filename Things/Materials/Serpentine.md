@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-19T19:08:29-04:00"
+lintVersion: "2.4"
 tags: [object]
-name: Serpentine
 typeOf: material
+name: Serpentine
+pronunciation: obvious
+knownTo: [adma, clee]
 dm_owner: none
 dm_notes: none
+POV: 1700s
 ---
 # Serpentine
 >[!info]+ Information  
@@ -19,3 +24,12 @@ Serpentine weapons, produced by [[Avatus]], played a major role in the [[Serpent
 Primarily associated with [[Avatus]] and the [[Dominion of Avatus]] at the moment, and was a major part of his expansion and wars. Serpentine sources in [[Mostreve Hills]] and the foothills of the Sentinels (west Maseau) were major causes of the [[Serpentine Wars|wars with Avatus]].
 Serpentine weapons have featured in Addermarch campaign; serpentine also featured in Cleenseau in an association with Avatus-era forts. 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Serpentine, role: primary, language: Common, pronunciation: obvious, status: documented, notes: Ordinary Common material name.}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: material reference
+povNotes: The magical properties and historical role are stable across the 1700s; campaign appearances add examples rather than changing the material's definition.
+%%^End%%
