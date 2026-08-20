@@ -113,6 +113,7 @@ Infer the profile from the note's tags, classifications, structure, content, and
 - searchable frontmatter `POV` and a concise note-specific `povNotes` temporal-coverage explanation; every completed write-mode lint records the least precise useful reading position supported by the undated visible article frame, or `undated` only when no reading position is supported;
 - internal inconsistency separately from cross-note conflict;
 - completeness against already established facts separately from opportunities to invent more;
+- substantial Git-shared nonpublic material for public-safe facts or concrete adoption candidates that are absent from the visible article;
 - editorial clarity, spelling, metadata organization, special syntax, and every existing non-`check` `status/*` tag; preserve `status/check/*` as unassessed human-review state.
 
 Session notes and Primary Sources are authoritative source records: do not call them factually wrong. Their accounts can still be incomplete, internally inconsistent, biased, unclear, or poorly structured. All Markdown notes remain discoverable evidence even when their paths make them ineligible lint targets; apply the ordinary authority and privacy distinctions to their claims. Worldbuilding remains provisional evidence.
@@ -133,6 +134,18 @@ When review is triggered, report matching `_DM_` Markdown notes as wikilinks wit
 - `dm_notes: color` or `important` with matches: list them informationally for reference; do not adjudicate between the two positive values.
 
 The presence or contents of `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks inside the target never trigger, suppress, or otherwise affect this `dm_notes` review. They are separate privacy mechanisms.
+
+## Review shared nonpublic material
+
+During every full lint, independently review substantial ordinary `%% ... %%` comments and `Campaign:none` blocks in the target for useful material absent from the visible article. This review is always applicable and is not gated by `dmNotesReviewVersion`. Do not create a finding merely because a comment or block is long. Separate:
+
+- public-safe description, history, geography, culture, or other reader-facing information;
+- DM-only encounters, mechanics, treasure, secrets, and unpublished twists; and
+- brainstorming, source notes, and editorial reminders.
+
+If an appropriate source establishes public-safe information and omitting it materially weakens or misleads the visible article, apply the ordinary coverage rule below. If useful material appears only in the noncanonical shared comment or block but is a specific, coherent candidate for human adoption, report `editorial.public_material_candidate` as a suggestion rather than treating it as established canon. The suggestion must identify the exact private passage, explain why the visible note would improve, and include copy-ready public prose. When public candidates are intermingled with usable DM material, also propose a bounded organization for the remaining private guidance. The candidate must be important enough to justify retaining `status/check/lint`; omit minor possibilities.
+
+Never promote or reorganize private material automatically. Copy or paraphrase only the public-safe subset into the Git-shared Lint proposal; do not expose DM mechanics, treasure, secrets, or unresolved brainstorming. Never copy or paraphrase material from `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%` blocks or local `_DM_` notes into the Git-shared Lint report.
 
 ## Review names and pronunciation
 
