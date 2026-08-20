@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-20T18:24:04-04:00"
+lintVersion: "3.1"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Cecilia Lister's Story"
+POV: 1748
 ---
 # Cecilia Lister's Story
 ([[Session 81 (DuFr)|collected by]] [[Kenzo]])
@@ -24,3 +29,4 @@ She was embarrassed at first, she recalled, not wanting to make a scene or be fa
 After a decade of this, having long ago earned enough coin for her parents and older brother to stop working, and to set her younger brother up as the captain of a merchant ship, she grew bored. The simple art of protective charms did not push her talents, she said.  Soon after her 37th birthday, her parents died, and she found herself needing to move on from the ocean.
 
 So in her late 30s she turned to tattoos, marveling in the complexity of the interplay between the person and the magic of the ink. And this, along with using her wealth and position to aid struggling young artists, has been her joy and passion ever since. 
+

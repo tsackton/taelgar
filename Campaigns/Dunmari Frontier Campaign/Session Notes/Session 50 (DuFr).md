@@ -1,14 +1,17 @@
 ---
+lintedAt: "2026-08-20T18:24:04-04:00"
+lintVersion: "3.1"
 tags: [session-note]
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 sessionNumber: 50
 realWorldDate: 2022-07-21
 DR: 1748-08-24
 DR_end: 1748-08-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party desperately flees east
-descTitle: Fleeing Shadows
+descTitle: Shadows in the Night
 name: Dunmari Frontier - Session 50
+POV: 1748
 ---
 # Dunmari Frontier - Session 50
 
@@ -30,7 +33,7 @@ The [[Dunmar Fellowship]] escapes eastward, contending with shadow attacks and n
 - (DR:: 1748-08-24), afternoon: Sneak to a safe place to rest 15 miles east of [[Chardon]]; sleep. Kenzo dreams of [[Hralgar]].
 - (DR:: 1748-08-25), morning. Wellby buys horses at a small market town; Delwath scries. [[Kenzo]], [[Seeker]], and [[Delwath]] hide in the [[Mirror of Soul Trapping]]. Wellby rides as fast as possible, passing [[Metium]] and traveling 70 miles east before stopping at midnight to rest.
 - (DR:: 1748-08-26): [[Wellby]] rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
-- (DR:: 1748-08-27): Ride 45 miles east before a horse throws a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of [[Erlona]], about 210 miles east of [[Chardon]]. Fitful night marred by dreams of a spear-wielding shadow creature.
+- (DR:: 1748-08-27): Ride 45 miles east before a horse pulls a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of [[Erlona]], about 210 miles east of [[Chardon]]. Fitful night marred by dreams of a spear-wielding shadow creature.
 - (DR:: 1748-08-28), morning: Sell old horses and buy new ones in [[Erlona]].
 - (DR::1748-08-28), afternoon. [[Wellby]] hides in the [[Mirror of Soul Trapping]] while Kenzo rides east. 
 - (DR:: 1748-08-28), evening: Pass the [[Scar of Shadowfire]]. Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.

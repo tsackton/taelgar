@@ -146,13 +146,77 @@ class ValidateTaelgarNoteTest < Minitest::Test
     root = make_vault
     path = File.join(root, "People", "Broken Encoding.md")
     FileUtils.mkdir_p(File.dirname(path))
-    File.binwrite(path, "---\ntags: [person]\nspecies: human\nknownTo: []\naudience: [all]\n---\n# Broken \xFF\n".b)
+    File.binwrite(path, "---\ntags: [person]\nspecies: human\nknownTo: []\naudience: [all]\n---\n# Broken \xFF\n\nThis record contains a complete sentence despite its damaged title.\n".b)
 
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     report = validator.validate_path(path)
 
     assert_includes rule_ids(report), "file.invalid_utf8"
     assert_equal 1, report.fetch("summary").fetch("errors")
+  end
+
+  def test_target_eligibility_rejects_only_objectively_sentence_less_bodies
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    prefix = "---\ntags: [meta]\n---\n"
+    ineligible_bodies = {
+      "frontmatter only" => "",
+      "heading only" => "# Heading Only\n",
+      "setext heading only" => "Heading Only\n============\n",
+      "image only" => "![[map.png]]\n",
+      "markdown image only" => "![Map of the route](map.png)\n",
+      "lint output only" => <<~MARKDOWN
+        # Generated Only
+
+        %%^povNotes:v1%%
+        Temporal coverage: this generated sentence does not make the note lintable.
+        %%^End%%
+
+        %%^Lint%%
+        - [ ] **Suggestion — test.generated:** This generated report also does not count.
+        %%^End%%
+      MARKDOWN
+    }
+
+    ineligible_bodies.each do |label, body|
+      report = validator.validate_text("Meta/#{label}.md", "#{prefix}#{body}")
+
+      assert_includes rule_ids(report), "lint.target_no_reviewable_prose", label
+      assert_equal "ineligible", report.dig("targetEligibility", "status"), label
+    end
+
+    complete_comment = validator.validate_text(
+      "Creatures/Goblins.md",
+      "#{prefix}# Goblins\n\n%% Goblins often live under hobgoblin rule. %%\n"
+    )
+    fragment_comment = validator.validate_text(
+      "Creatures/Dragonet.md",
+      "#{prefix}# Dragonet\n\n%% dragonet on circular island %%\n"
+    )
+
+    refute_includes rule_ids(complete_comment), "lint.target_no_reviewable_prose"
+    assert_equal "agent_confirmation_required", complete_comment.dig("targetEligibility", "status")
+    refute_includes rule_ids(fragment_comment), "lint.target_no_reviewable_prose"
+    assert_equal "agent_confirmation_required", fragment_comment.dig("targetEligibility", "status")
+  end
+
+  def test_fix_frontmatter_leaves_an_objectively_ineligible_note_unchanged
+    root = make_vault
+    path = "Meta/Heading Only.md"
+    original = "---\ntags:\n  - meta\nheaderVersion: 1\n---\n# Heading Only\n"
+    write_note(root, path, original)
+
+    stdout, _stderr = capture_io do
+      result = TaelgarNoteLint::CLI.new(
+        ["--root", root, "--format", "json", "--no-links", "--fix-frontmatter", path]
+      ).run
+      assert_equal 1, result
+    end
+    report = JSON.parse(stdout).first
+
+    assert_equal original, File.read(File.join(root, path))
+    assert_includes rule_ids(report), "lint.target_no_reviewable_prose"
+    assert_empty report.fetch("fixes")
   end
 
   def test_unknown_structured_content_marker_is_an_error
@@ -475,7 +539,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     assert_includes rule_ids(report), "lint.version_outdated"
-    assert_equal "3.0", report.fetch("validatorVersion")
+    assert_equal TaelgarNoteLint::VERSION, report.fetch("validatorVersion")
   end
 
   def test_completed_lints_require_scalar_frontmatter_pov_and_pov_notes
@@ -580,7 +644,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
 
     refute_includes rule_ids(report), "metadata.pov_missing"
     refute_includes rule_ids(report), "metadata.pov_shape"
-    assert_equal "3.0", report.fetch("validatorVersion")
+    assert_equal TaelgarNoteLint::VERSION, report.fetch("validatorVersion")
   end
 
   def test_current_name_review_still_validates_malformed_existing_blocks

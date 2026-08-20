@@ -91,6 +91,16 @@ module TaelgarNoteLint
       raise BatchError, "Notes under dot directories, underscore directories, or Worldbuilding are outside Taelgar Note Linter scope (matched #{exclusion}): #{path}"
     end
 
+    def objectively_lintable_note?(note)
+      TaelgarNoteLint.authored_body_candidate?(note)
+    end
+
+    def ensure_objectively_lintable_note!(note)
+      return if objectively_lintable_note?(note)
+
+      raise BatchError, "Note has no authored body candidate for a complete subject-matter sentence and is not lintable: #{note.path}"
+    end
+
     def valid_completion_pair?(note)
       linted_at = canonical_state_value(note.data["lintedAt"])
       lint_version = canonical_state_value(note.data["lintVersion"])
@@ -168,6 +178,7 @@ module TaelgarNoteLint
 
           ParsedNote.new(path, TaelgarNoteLint.read_text(absolute))
         end
+        notes.each { |note| Batch.ensure_objectively_lintable_note!(note) }
         @validator.preload_dm_notes(notes)
 
         records = notes.map { |note| prepare_note(note) }
@@ -288,6 +299,7 @@ module TaelgarNoteLint
           path = record.fetch("path")
           text = TaelgarNoteLint.read_text(@root.join(path))
           note = ParsedNote.new(path, text)
+          Batch.ensure_objectively_lintable_note!(note)
           unless Batch.completion_state(note) == record.fetch("priorCompletionState")
             raise BatchError, "Lint completion state changed after preparation: #{path}"
           end
@@ -401,6 +413,7 @@ module TaelgarNoteLint
           raise BatchError, "Reviewed file changed after snapshot: #{path}"
         end
         current_note = ParsedNote.new(path, current_text)
+        Batch.ensure_objectively_lintable_note!(current_note)
         unless Batch.completion_state(current_note) == record.fetch("priorCompletionState")
           raise BatchError, "Lint completion state changed before finalization: #{path}"
         end
@@ -470,6 +483,11 @@ module TaelgarNoteLint
             File.rename(entry.fetch("new_file").path, entry.fetch("target"))
             committed << entry
           end
+          staged.each do |entry|
+            next if Batch.file_sha256(entry.fetch("target")) == entry.fetch("expectedSha256")
+
+            raise BatchError, "Written file checksum mismatch: #{entry.fetch('path')}"
+          end
         rescue StandardError => error
           committed.reverse_each do |entry|
             rollback_path = entry.fetch("rollback_file").path
@@ -492,7 +510,9 @@ module TaelgarNoteLint
         write_tempfile(new_file, candidate.fetch("text"), mode)
         write_tempfile(rollback_file, TaelgarNoteLint.read_text(target), mode)
         {
+          "path" => candidate.fetch("path"),
           "target" => target,
+          "expectedSha256" => Batch.sha256(candidate.fetch("text")),
           "new_file" => new_file,
           "rollback_file" => rollback_file
         }
@@ -554,6 +574,18 @@ module TaelgarNoteLint
         paths = paths.map { |path| Batch.relative_note_path(root, path) }.uniq.sort
         paths.each { |path| Batch.ensure_lintable_path!(path) }
         requested_count = paths.length
+        skipped_no_reviewable_prose = []
+        paths.reject! do |path|
+          absolute = root.join(path)
+          next false unless absolute.file?
+
+          note = ParsedNote.new(path, TaelgarNoteLint.read_text(absolute))
+          next false if Batch.objectively_lintable_note?(note)
+
+          skipped_no_reviewable_prose << path
+          true
+        end
+        lintable_candidate_count = paths.length
         unless options[:re_lint]
           paths.reject! do |path|
             absolute = root.join(path)
@@ -563,7 +595,7 @@ module TaelgarNoteLint
             Batch.valid_completion_pair?(note)
           end
         end
-        skipped_already_linted = requested_count - paths.length
+        skipped_already_linted = lintable_candidate_count - paths.length
         if paths.empty?
           manifest = {
             "schemaVersion" => SCHEMA_VERSION,
@@ -582,6 +614,8 @@ module TaelgarNoteLint
         end
         manifest["selectionSummary"] = {
           "requested" => requested_count,
+          "skippedNoReviewableProse" => skipped_no_reviewable_prose.length,
+          "skippedNoReviewableProsePaths" => skipped_no_reviewable_prose,
           "skippedAlreadyLinted" => skipped_already_linted,
           "selected" => selected_count,
           "reviewRecommended" => review_count,

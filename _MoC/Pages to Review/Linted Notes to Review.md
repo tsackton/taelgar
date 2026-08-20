@@ -48,13 +48,21 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 
 Set `lintedCleanAfter` to the ISO 8601 date and time after which cleanly linted notes should appear. The default preserves all existing results.
 
-lintedCleanAfter:: 2026-08-20T14:56:45-04:00
+lintedCleanAfter:: 2026-08-20T18:06:45-04:00
 
 ```dataview
-TABLE join(split(file.path, "/", 2), "/") as Folder, 
-      length(file.inlinks) as Backlinks
+TABLE join(split(file.path, "/", 2), "/") as Folder, lintVersion
 FROM !#status/check/lint
 WHERE lintedAt AND date(lintedAt) > date(this.lintedCleanAfter)
-FLATTEN length(file.inlinks) AS BacklinkCount
-SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
+SORT join(split(file.path, "/", 2), "/")
+```
+
+## All Current Version Linted
+
+currentLintVersion:: "3.1"
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder, lintVersion, date(lintedAt)
+WHERE lintVersion and lintVersion = this.currentLintVersion
+SORT date(lintedAt)
 ```

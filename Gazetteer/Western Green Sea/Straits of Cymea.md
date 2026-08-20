@@ -1,17 +1,29 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Straits of Cymea
+lintedAt: "2026-08-20T18:24:04-04:00"
+lintVersion: "3.1"
+tags: [place]
 typeOf: marine feature
+typeOfAlias: strait
+name: Straits of Cymea
+pronunciation: sigh-ME-ah
 whereabouts: Green Sea
 dm_owner: none
 dm_notes: none
-typeOfAlias: strait
+POV: modern
 ---
 # The Straits of Cymea
+*(sigh-ME-ah)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A narrow passage between [[Vostok]] and [[Cymea]] that connects the [[Western Gulf]] to the rest of the [[Green Sea|Green Sea]]. 
+
+%%^Metadata:names:v1%%
+- {name: Straits of Cymea, role: primary, language: Common, pronunciation: sigh-MEH-ah, status: documented, notes: Common descriptive title}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography; the article does not attempt to describe changing historical control of the straits.
+%%^End%%

@@ -1,7 +1,8 @@
 ---
+lintedAt: "2026-08-20T18:24:04-04:00"
+lintVersion: "3.1"
 tags: [session-note]
-name: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 sessionNumber: 53
 realWorldDate: 2022-07-31
 DR: 1748-09-30
@@ -9,6 +10,8 @@ DR_end: 1748-10-06
 players: [Delwath]
 tagline: in which Delwath uncovers the secret of the Meswati
 descTitle: Armbands of Entrapment
+name: Dunmari Frontier - Delwath Solo Session 1 (Prequel)
+POV: 1748
 ---
 # Dunmari Frontier - Delwath Solo Session 1 (Prequel)
 
