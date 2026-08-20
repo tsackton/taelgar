@@ -19,12 +19,15 @@ require "json"
 require "open3"
 require "optparse"
 require "pathname"
+require "rubygems/version"
 require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "2.6"
+  VERSION = "3.0"
   SCHEMA_VERSION = 3
+  DM_NOTES_REVIEW_VERSION = "3.0"
+  NAME_REVIEW_VERSION = "3.0"
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
     activeYear subTypeOf subTypeOfAlias subspecies speciesAlias deity
@@ -75,10 +78,14 @@ module TaelgarNoteLint
   ].freeze
 
   NAME_STATUSES = %w[documented inferred proposed disputed unresolved].freeze
+  OPEN_NAME_STATUSES = %w[proposed disputed unresolved].freeze
   PRONUNCIATION_PLACEHOLDERS = %w[obvious title meta].freeze
   MAP_REQUIRED_TYPES = %w[waterway road settlement].freeze
   WORLD_HEX_PATTERN = /\A\d{2}\.\d{2}\.[A-Z]\d{2}\z/
-  METADATA_BLOCK_PATTERN = /%%\^Metadata:(names|map|article)(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
+  METADATA_BLOCK_PATTERN = /%%\^Metadata:(names|map)(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
+  POV_NOTES_BLOCK_PATTERN = /%%\^povNotes(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
+  LEGACY_ARTICLE_BLOCK_PATTERN = /%%\^Metadata:article(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
+  SCOPED_CONTENT_BLOCK_PATTERN = /%%\^(?:Campaign|Date):[^%\n]+%%.*?%%\^End%%/m
   # A lint report can contain copy-ready structured-block examples with their
   # own %%^End%% markers. Because the Lint block is required to be the final
   # structured block in a note, match through its last end marker rather than
@@ -535,12 +542,11 @@ module TaelgarNoteLint
     private
 
     def build
-      Dir.glob(@root.join("**", "*.md").to_s).sort.each do |absolute|
+      Dir.glob(@root.join("**", "*.md").to_s, File::FNM_DOTMATCH).sort.each do |absolute|
         path = Pathname.new(absolute)
         rel = TaelgarNoteLint.relative_path(@root, path)
-        parts = Pathname.new(rel).each_filename.to_a
-        next if parts.any? { |part| part.start_with?(".") }
         next if path.basename.to_s == "AGENTS.md"
+        next if rel.split("/")[0...-1].any? { |part| part.start_with?(".") }
 
         path_key = rel.sub(/\.md\z/i, "")
         @by_path[TaelgarNoteLint.normalize(path_key)] = rel
@@ -563,7 +569,7 @@ module TaelgarNoteLint
       @index = index
       @documents = Dir.glob(@root.join("_DM_", "**", "*.md").to_s).sort.each_with_object([]) do |absolute, documents|
         path = TaelgarNoteLint.relative_path(@root, absolute)
-        documents << [path, TaelgarNoteLint.read_text(absolute)]
+        documents << [path, TaelgarNoteLint.read_text(absolute), File.mtime(absolute).iso8601(6)]
       rescue Errno::ENOENT, Errno::EACCES
         next
       end
@@ -592,7 +598,7 @@ module TaelgarNoteLint
       name_pattern = combined_name_pattern(resolvable_names.values.flatten)
       matches_by_target = Hash.new { |hash, key| hash[key] = [] }
 
-      @documents.each do |path, original_text|
+      @documents.each do |path, original_text, modified_at|
         text = TaelgarNoteLint.mask_markdown_code(original_text)
         lines_by_target = Hash.new { |hash, key| hash[key] = [] }
         kinds_by_target = Hash.new { |hash, key| hash[key] = [] }
@@ -616,7 +622,8 @@ module TaelgarNoteLint
           matches_by_target[target] << {
             "path" => path,
             "lines" => lines.uniq,
-            "matchKinds" => kinds_by_target[target].uniq
+            "matchKinds" => kinds_by_target[target].uniq,
+            "modifiedAt" => modified_at
           }
         end
       end
@@ -699,6 +706,10 @@ module TaelgarNoteLint
 
     def preload_dm_notes(notes)
       @dm_scanner&.preload(notes)
+    end
+
+    def dm_sources(note)
+      @dm_scanner ? @dm_scanner.mentions(note) : []
     end
 
     private
@@ -813,7 +824,8 @@ module TaelgarNoteLint
         return
       end
 
-      if note.data["name"].to_s.strip.empty? && !valid_name_block_present?(note)
+      review_names = name_review_required?(note)
+      if review_names && note.data["name"].to_s.strip.empty? && !valid_name_block_present?(note)
         add(findings, "identity.implicit_name", "suggestion", "recommended",
             "The filename supplies the name, but the full target metadata profile prefers an explicit name.",
             line: 1, provisional: true)
@@ -827,7 +839,8 @@ module TaelgarNoteLint
             line: note.field_line("pronunciation"))
       end
 
-      if NAMED_SUBJECT_TAGS.include?(profile) && pronunciation.empty?
+      if review_names && NAMED_SUBJECT_TAGS.include?(profile) && pronunciation.empty? &&
+         !name_block_has_pronunciation?(note) && !unresolved_name_block_present?(note)
         add(findings, "pronunciation.missing_or_exception", "warning", "conditional",
             "This named in-world subject needs an actual pronunciation unless contextual judgment confirms that the name is an obvious ordinary name or plain-English title; exemptions are represented by omitting pronunciation.",
             line: note.field_line("name") || 1, provisional: true)
@@ -1033,42 +1046,46 @@ module TaelgarNoteLint
       return unless %w[tim joint none].include?(owner) && @dm_scanner
 
       sources = @dm_scanner.mentions(note)
+      return unless dm_notes_review_required?(note, sources)
+
       dm_notes = note.data["dm_notes"].to_s
       if sources.any?
         if dm_notes.empty? || dm_notes == "none"
-          secret_paths = secret_linked_dm_paths(note)
-          unlinked_sources = sources.reject { |source| secret_paths.include?(source["path"]) }
-          if unlinked_sources.any?
-            add(findings, "dm.notes_private_evidence_suspect", "warning", "conditional",
-                "Additional local-only _DM_ notes link or could link to this subject but are not accounted for by a SECRET-block link; review whether dm_notes: none is still accurate.",
-                line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
-                details: { "sources" => unlinked_sources })
-          else
-            add(findings, "dm.notes_secret_evidence_accounted", "info", "judgment",
-                "SECRET-block links account for the local-only _DM_ evidence and support retaining dm_notes: none.",
-                line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
-                details: { "sources" => sources })
-          end
+          add(findings, "dm.notes_private_evidence_review", "info", "judgment",
+              "Did you check these local-only _DM_ notes? They link or could link to this subject; retain dm_notes: none unless human review finds useful external DM information.",
+              line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
+              details: { "sources" => sources })
         else
           add(findings, "dm.notes_private_evidence_found", "info", "judgment",
-              "Local-only _DM_ notes support the current positive dm_notes attestation.",
+              "Local-only _DM_ notes support the current positive dm_notes attestation; list them for reference.",
               line: note.field_line("dm_notes"), provisional: true,
               details: { "sources" => sources })
         end
       elsif %w[color important].include?(dm_notes)
         add(findings, "dm.notes_no_local_evidence", "suggestion", "judgment",
-            "No local-only _DM_ note links or could link to this subject. Review whether the positive dm_notes attestation still represents unrecorded knowledge or another off-vault source; never remove it automatically.",
+            "No local-only _DM_ notes found; verify dm_notes. The positive attestation may still represent remembered information or another off-vault source, so never remove it automatically.",
             line: note.field_line("dm_notes"), provisional: true)
       end
     end
 
-    def secret_linked_dm_paths(note)
-      text = TaelgarNoteLint.mask_markdown_code(note.text)
-      text.scan(/%%SECRET\b(.*?)%%/m).flatten.flat_map do |payload|
-        payload.scan(/(?<!!)\[\[([^\]\n]+)\]\]/).flatten.flat_map do |raw|
-          @index.resolve(raw, note.path)
+    def dm_notes_review_required?(note, sources)
+      linted_at = note.data["lintedAt"].to_s
+      lint_version = note.data["lintVersion"].to_s
+      return true if linted_at.strip.empty? || lint_version.strip.empty?
+
+      lint_time = Time.iso8601(linted_at)
+      return true if Gem::Version.new(lint_version) < Gem::Version.new(DM_NOTES_REVIEW_VERSION)
+
+      sources.any? do |source|
+        begin
+          modified_at = source["modifiedAt"].to_s
+          modified_at.empty? || Time.iso8601(modified_at) > lint_time
+        rescue ArgumentError
+          true
         end
-      end.select { |path| path.start_with?("_DM_/") }.uniq
+      end
+    rescue ArgumentError
+      true
     end
 
     def validate_content_blocks(note, findings)
@@ -1119,7 +1136,7 @@ module TaelgarNoteLint
         end
 
         stack << [kind, value, line]
-        unless %w[Campaign Date Lint Metadata].include?(kind)
+        unless %w[Campaign Date Lint Metadata povNotes].include?(kind)
           add(findings, "syntax.unknown_content_marker", "error", "required",
               "Unknown structured content marker: #{kind}.", line: line)
         end
@@ -1147,9 +1164,13 @@ module TaelgarNoteLint
         elsif kind == "Lint" && !value.empty?
           add(findings, "syntax.invalid_lint_marker", "error", "required",
               "The Lint marker does not take a value.", line: line)
-        elsif kind == "Metadata" && !value.match?(/\A(?:names|map|article)(?::v1)?\z/)
+        elsif kind == "Metadata" && !value.match?(/\A(?:names|map)(?::v1)?\z/) &&
+              !value.match?(/\Aarticle(?::v1)?\z/)
           add(findings, "syntax.unknown_metadata_block", "error", "required",
               "Unknown Metadata block type: #{value}.", line: line)
+        elsif kind == "povNotes" && !value.empty? && !value.match?(/\Av\d+\z/)
+          add(findings, "metadata.invalid_pov_notes_version", "error", "required",
+              "The povNotes block must use %%^povNotes:v1%%.", line: line)
         end
       end
       stack.each do |kind, value, line|
@@ -1160,7 +1181,7 @@ module TaelgarNoteLint
       pov = text.match(/\(POV::\s*[^)]+\)/)
       if pov
         add(findings, "temporal.inline_pov", "suggestion", "recommended",
-            "A legacy inline POV field is present; move its scalar viewpoint to frontmatter POV and preserve any qualification in Metadata:article povNotes.",
+            "A legacy inline POV field is present; move its scalar viewpoint to frontmatter POV and preserve any qualification in the povNotes:v1 text block.",
             line: TaelgarNoteLint.line_number(text, pov.begin(0)), provisional: true)
       end
 
@@ -1232,13 +1253,54 @@ module TaelgarNoteLint
         case kind
         when "names" then validate_name_block(note, data, findings, line)
         when "map" then validate_map_block(note, data, findings, line)
-        when "article" then validate_article_block(data, findings, line)
         end
       end
 
-      if note.data["lintedAt"] && blocks["article"].empty?
-        add(findings, "metadata.article_missing", "error", "required",
-            "Linted notes require a persistent Metadata:article:v1 block.", line: 1)
+      pov_notes_blocks = []
+      searchable.to_enum(:scan, POV_NOTES_BLOCK_PATTERN).each do
+        match = Regexp.last_match
+        pov_notes_blocks << [
+          match[2],
+          TaelgarNoteLint.line_number(searchable, match.begin(0)),
+          match[1],
+          match.begin(0),
+          match.end(0)
+        ]
+      end
+      if pov_notes_blocks.length > 1
+        add(findings, "metadata.duplicate_pov_notes_block", "error", "required",
+            "Only one povNotes:v1 block is allowed.", line: pov_notes_blocks[1][1])
+      end
+      if pov_notes_blocks.any?
+        payload, line, version, _start_offset, _end_offset = pov_notes_blocks.first
+        if version != "1"
+          add(findings, "metadata.invalid_pov_notes_version", "error", "required",
+              "The povNotes block must use %%^povNotes:v1%%.", line: line)
+        end
+        if payload.to_s.strip.empty?
+          add(findings, "metadata.pov_notes_empty", "error", "required",
+              "The povNotes:v1 block requires nonempty plain text.", line: line)
+        end
+      end
+
+      legacy_article_blocks = []
+      searchable.to_enum(:scan, LEGACY_ARTICLE_BLOCK_PATTERN).each do
+        match = Regexp.last_match
+        legacy_article_blocks << [
+          match[2],
+          TaelgarNoteLint.line_number(searchable, match.begin(0)),
+          match[1],
+          match.begin(0),
+          match.end(0)
+        ]
+      end
+      legacy_article_blocks.each do |payload, line, _version, _start_offset, _end_offset|
+        validate_legacy_article_block(payload, findings, line)
+      end
+
+      if note.data["lintedAt"] && pov_notes_blocks.empty?
+        add(findings, "metadata.pov_notes_missing", "error", "required",
+            "Linted notes require a persistent %%^povNotes:v1%% text block.", line: 1)
       end
 
       if map_required?(note) && blocks["map"].empty?
@@ -1248,12 +1310,11 @@ module TaelgarNoteLint
             details: map_template_details(note))
       end
 
-
-      validate_metadata_block_positions(searchable, blocks, findings)
+      position_entries = blocks.values.flatten(1) + pov_notes_blocks + legacy_article_blocks
+      validate_metadata_block_positions(searchable, position_entries, findings)
     end
 
-    def validate_metadata_block_positions(searchable, blocks, findings)
-      entries = blocks.values.flatten(1)
+    def validate_metadata_block_positions(searchable, entries, findings)
       return if entries.empty?
 
       first_start = entries.map { |entry| entry[3] }.min
@@ -1261,13 +1322,15 @@ module TaelgarNoteLint
       lint_match = searchable.match(LINT_BLOCK_PATTERN)
       residue = searchable[first_start..-1].to_s
         .gsub(METADATA_BLOCK_PATTERN, "")
+        .gsub(POV_NOTES_BLOCK_PATTERN, "")
+        .gsub(LEGACY_ARTICLE_BLOCK_PATTERN, "")
         .gsub(LINT_BLOCK_PATTERN, "")
         .strip
       misplaced = !residue.empty? || (lint_match && lint_match.begin(0) < last_end)
       return unless misplaced
 
       add(findings, "metadata.position", "error", "required",
-          "Persistent Metadata blocks belong at the end of the note after article text and comments, immediately before the Lint block when present.",
+          "Persistent metadata and povNotes blocks belong at the end of the note after article text and comments, immediately before the Lint block when present.",
           line: TaelgarNoteLint.line_number(searchable, first_start))
     end
 
@@ -1278,6 +1341,7 @@ module TaelgarNoteLint
         return
       end
 
+      frontmatter_pronunciation = TaelgarNoteLint.normalize(note.data["pronunciation"])
       data.each do |entry|
         missing = %w[name language].select { |field| entry[field].to_s.strip.empty? }
         unless missing.empty?
@@ -1291,22 +1355,40 @@ module TaelgarNoteLint
               details: { "allowed" => NAME_STATUSES })
         end
 
-        next unless placeholder_pronunciation?(entry["pronunciation"])
+        if OPEN_NAME_STATUSES.include?(status)
+          add(findings, "metadata.names_unresolved_status", "warning", "conditional",
+              "Name entry #{entry['name'].to_s.inspect} remains status: #{status}; preserve the entry without recalculating it and keep a human-review task open.",
+              line: line, details: { "name" => entry["name"], "status" => status })
+        end
 
-        add(findings, "metadata.names_pronunciation_placeholder", "error", "required",
-            "A name entry's pronunciation must be an actual human-readable pronunciation, not an exemption label; omit the key when no separate pronunciation is needed.",
-            line: line)
-      end
+        pronunciation = entry["pronunciation"].to_s.strip
+        if placeholder_pronunciation?(pronunciation)
+          add(findings, "metadata.names_pronunciation_placeholder", "error", "required",
+              "A name entry's pronunciation must be an actual human-readable pronunciation, not an exemption label; omit the key when no separate pronunciation is needed.",
+              line: line)
+          next
+        end
 
-      if note.tags.include?("meta")
-        add(findings, "metadata.names_forbidden_for_meta", "error", "required",
-            "Meta notes do not describe an in-world named subject and must not have Metadata:names:v1.",
-            line: line)
-      elsif note.tags.include?("background") && !note.tags.any? { |tag| tag == "religion" || tag.start_with?("religion/") }
-        add(findings, "metadata.names_unnecessary_for_background", "suggestion", "conditional",
-            "Background notes normally do not need name metadata unless they also describe a named religion or another clearly named in-world subject.",
-            line: line, provisional: true)
+        next if pronunciation.empty? ||
+                (!frontmatter_pronunciation.empty? &&
+                 TaelgarNoteLint.normalize(pronunciation) == frontmatter_pronunciation) ||
+                !entry["notes"].to_s.strip.empty?
+
+        add(findings, "metadata.names_pronunciation_notes_missing", "warning", "conditional",
+            "A name-block pronunciation that does not match frontmatter must use notes to record its source or derivation.",
+            line: line, details: { "name" => entry["name"], "pronunciation" => pronunciation })
       end
+    end
+
+    def name_review_required?(note)
+      linted_at = note.data["lintedAt"].to_s
+      lint_version = note.data["lintVersion"].to_s
+      return true if linted_at.strip.empty? || lint_version.strip.empty?
+
+      Time.iso8601(linted_at)
+      Gem::Version.new(lint_version) < Gem::Version.new(NAME_REVIEW_VERSION)
+    rescue ArgumentError
+      true
     end
 
     def valid_name_block_present?(note)
@@ -1317,6 +1399,20 @@ module TaelgarNoteLint
         end
     rescue Psych::Exception
       false
+    end
+
+    def name_block_has_pronunciation?(note)
+      data = name_block_data(note)
+      data.is_a?(Array) && data.any? do |entry|
+        entry.is_a?(Hash) && !entry["pronunciation"].to_s.strip.empty?
+      end
+    end
+
+    def unresolved_name_block_present?(note)
+      data = name_block_data(note)
+      data.is_a?(Array) && data.any? do |entry|
+        entry.is_a?(Hash) && OPEN_NAME_STATUSES.include?(entry["status"].to_s)
+      end
     end
 
     def placeholder_pronunciation?(value)
@@ -1435,28 +1531,23 @@ module TaelgarNoteLint
       end
     end
 
-    def validate_article_block(data, findings, line)
-      unless data.is_a?(Hash)
-        add(findings, "metadata.article_shape", "error", "required",
-            "Metadata:article:v1 requires a YAML dictionary.", line: line)
-        return
+    def validate_legacy_article_block(payload, findings, line)
+      details = nil
+      begin
+        data = TaelgarNoteLint.yaml_load(payload)
+        if data.is_a?(Hash) && !data["povNotes"].to_s.strip.empty?
+          details = {
+            "candidate" => "%%^povNotes:v1%%\n#{data['povNotes'].to_s.strip}\n%%^End%%"
+          }
+        end
+      rescue Psych::Exception => error
+        add(findings, "metadata.invalid_legacy_article_yaml", "error", "required",
+            "The legacy Metadata:article block is not valid YAML: #{error.message.lines.first.to_s.strip}",
+            line: line)
       end
-
-      missing = %w[mode povNotes].select { |field| data[field].to_s.strip.empty? }
-      unless missing.empty?
-        add(findings, "metadata.article_required_field", "error", "required",
-            "Metadata:article:v1 is missing: #{missing.join(', ')}.", line: line)
-      end
-      if data.key?("pov")
-        add(findings, "metadata.article_legacy_pov", "suggestion", "recommended",
-            "Move the article block's legacy pov value to frontmatter POV and preserve its useful explanation in povNotes.",
-            line: line, provisional: true)
-      end
-      if data.key?("profile")
-        add(findings, "metadata.article_redundant_profile", "suggestion", "recommended",
-            "Article profile repeats the descriptive frontmatter tag; remove profile and use povNotes for useful interpretive context.",
-            line: line, provisional: true)
-      end
+      add(findings, "metadata.legacy_article_block", "suggestion", "recommended",
+          "Replace the legacy Metadata:article block with %%^povNotes:v1%% plain text, use its povNotes text as evidence for independent contextual reassessment, and discard mode, profile, and other obsolete keys.",
+          line: line, provisional: true, details: details)
     end
 
     def convert_legacy_metadata(kind, data)
@@ -1490,7 +1581,11 @@ module TaelgarNoteLint
       header_end = header_block_end(body)
       return unless header_end
 
-      prefix = body[0...header_end].gsub(METADATA_BLOCK_PATTERN, "")
+      prefix = body[0...header_end]
+        .gsub(METADATA_BLOCK_PATTERN, "")
+        .gsub(POV_NOTES_BLOCK_PATTERN, "")
+        .gsub(LEGACY_ARTICLE_BLOCK_PATTERN, "")
+        .gsub(SCOPED_CONTENT_BLOCK_PATTERN, "")
       prefix.to_enum(:scan, /%%(?!\^)(.*?)%%/m).each do
         match = Regexp.last_match
         add(findings, "comment.before_header", "suggestion", "recommended",
@@ -1602,7 +1697,7 @@ module TaelgarNoteLint
 
     def generic_comment_segments(text)
       text.scan(/%%(.*?)%%/m).map(&:first).reject do |segment|
-        segment.strip.match?(/\A(?:SECRET|\^(?:Campaign|Date|Lint|Metadata|End)(?::|\z))/)
+        segment.strip.match?(/\A(?:SECRET|\^(?:Campaign|Date|Lint|Metadata|povNotes|End)(?::|\z))/)
       end
     end
 
@@ -1675,11 +1770,11 @@ module TaelgarNoteLint
     end
 
     def hidden_structured_block_start?(line)
-      line.match?(/^\s*%%\^(?:Lint|Metadata(?::[^%]+)?|Campaign:none)%%\s*$/)
+      line.match?(/^\s*%%\^(?:Lint|Metadata(?::[^%]+)?|povNotes:v1|Campaign:none)%%\s*$/)
     end
 
     def review_block_start?(line)
-      line.match?(/^\s*%%\^(?:Lint|Metadata(?::[^%]+)?)%%\s*$/)
+      line.match?(/^\s*%%\^(?:Lint|Metadata(?::[^%]+)?|povNotes:v1)%%\s*$/)
     end
 
     def structured_block_end?(line)
@@ -1781,10 +1876,7 @@ module TaelgarNoteLint
     end
 
     def invention_source?(path)
-      parts = Pathname.new(path).each_filename.to_a
-      return false if parts.include?("_generated")
-      return path.end_with?("beat-facts.json") if parts.first == "_sessions"
-      return false if %w[.agents .codex .git .obsidian .trash _MoC _scripts _sessions _templates z_Assets].include?(parts.first)
+      return true if path.end_with?("beat-facts.json")
 
       path.end_with?(".md") && File.basename(path) != "AGENTS.md"
     end
@@ -1919,8 +2011,8 @@ module TaelgarNoteLint
       return "beat-facts" if path.end_with?("beat-facts.json")
       return "dm-note" if %w[_DM_ _dm_notes].include?(parts.first)
       return "session-note" if parts.include?("Session Notes") || parts.include?("Sessions")
+      return "development-note" if parts.include?("Worldbuilding")
       return "campaign-note" if parts.first == "Campaigns"
-      return "development-note" if parts.first == "Worldbuilding"
 
       "vault-note"
     end

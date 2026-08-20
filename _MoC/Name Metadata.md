@@ -1,3 +1,6 @@
+---
+tags: [meta, status/check/ai]
+---
 # Name Metadata
 
 `Metadata:names:v1` identifies the named in-world subject or work described by a note and records subject-specific facts about its names. It complements the ordinary `name`, `aliases`, and `pronunciation` frontmatter fields: frontmatter holds accepted display values, while the name block records language, meaning, derivation, alternate forms, and unresolved or proposed decisions.
@@ -5,6 +8,12 @@
 Every note whose subject is a named in-world thing or work uses the block. Apply this rule semantically rather than by tag, folder, or title: notes about people, places, objects, groups, events, powers, creatures, ancestries or cultures, religions, primary-source works, and other named in-world subjects require it. A `background`-tagged note that actually describes a named in-world subject still requires the block.
 
 Do not use the block on a meta or background page that organizes, analyzes, or summarizes information without itself describing an in-world subject. For example, `History of Sembara`, `Timeline of Tollen`, and `West Coast History Framework` do not receive blocks merely because their titles contain in-world names. When a qualifying subject has no established language or other name facts, use a minimal entry with its exact name and `language: unknown`; do not invent etymology. A plain-English or otherwise obvious name may omit pronunciation, but it does not omit the name block.
+
+## Linter review gate
+
+[[Taelgar Note Linter]] defines `nameReviewVersion`, an independent minimum version for contextual name review. The linter reviews name-block applicability and searches for or derives pronunciation when a note has no valid `lintedAt`/`lintVersion` pair or its prior `lintVersion` is numerically lower than that threshold. A valid prior version at or above the threshold suppresses that contextual review during later lints. If a human changes the note's primary subject, removing its lint completion version forces a new review.
+
+The gate never suppresses deterministic schema validation of an existing block. Entries with `status: proposed`, `disputed`, or `unresolved` remain deterministic human-review tasks even when contextual review is skipped; preserve them without recalculating or replacing them.
 
 The block belongs with other persistent metadata blocks at the end of the note, after article text and comments but before the replaceable lint report.
 
@@ -35,7 +44,7 @@ The first entry is treated as primary unless another entry explicitly uses `role
 
 ## Pronunciation workflow
 
-An accepted primary pronunciation belongs in frontmatter so existing headers can display it. A proposed pronunciation belongs in the name block with `status: proposed`, but it remains unresolved until a human accepts it and copies it to frontmatter. Do not leave the only copy of a proposed pronunciation in a replaceable lint report. Every authored `pronunciation` value must be a pronunciation that a reader can say aloud.
+An accepted primary pronunciation belongs in frontmatter so existing headers can display it. When creating a missing entry, a pronunciation matching frontmatter uses `status: documented`; no source note is needed because the note itself is the source. If a name-block entry has a pronunciation and frontmatter either has none or has a different value, identify the block value's source or derivation in `notes`. A proposed pronunciation belongs in the name block with `status: proposed` and records its derivation in `notes`; it remains unresolved until a human accepts it and copies it to frontmatter. Preserve an existing unresolved entry rather than recalculating it. Do not leave the only copy of a proposed pronunciation in a replaceable lint report. Every authored `pronunciation` value must be a pronunciation that a reader can say aloud.
 
 Whenever the linter proposes a pronunciation, the lint report must explain its derivation. The explanation should identify the strongest available basis:
 
@@ -54,5 +63,6 @@ Plain-English titles, meta labels, and genuinely obvious ordinary names do not n
 - Edit the existing entry when correcting evidence about the same form; do not append a second copy.
 - Add an entry when the subject genuinely has another historical, translated, disputed, or alternate form.
 - Preserve uncertainty with `status` and `notes`; do not resolve competing etymologies silently.
+- Whenever a name-block entry has a pronunciation and frontmatter either has none or has a different value, use `notes` to record the block value's source or derivation. A matching frontmatter pronunciation needs no separate source note.
 - When accepting a proposal, update its status, copy an accepted primary pronunciation to frontmatter, and resolve the corresponding lint item.
 - Removing the lint report does not remove this block. It is persistent human-curated metadata.
