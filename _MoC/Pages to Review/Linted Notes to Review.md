@@ -20,6 +20,16 @@ FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
 
+## Linted, DM notes or DM info remains
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder, 
+      length(file.inlinks) as Backlinks, dm_notes as "DM Notes", dm_owner as "DM Owner"
+FROM !#status/check/lint
+WHERE lintVersion = "3.0" and (dm_notes != "none" or dm_owner != "none") and (dm_notes)
+FLATTEN length(file.inlinks) AS BacklinkCount
+SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
+```
 
 
 ## Linted, Check Mike
@@ -38,7 +48,7 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 
 Set `lintedCleanAfter` to the ISO 8601 date and time after which cleanly linted notes should appear. The default preserves all existing results.
 
-lintedCleanAfter:: 2026-08-20T14:00:45-04:00
+lintedCleanAfter:: 2026-08-20T14:56:45-04:00
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 

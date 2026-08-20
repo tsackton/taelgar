@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: neighborhood
@@ -10,7 +10,7 @@ name: Nera Domains
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Nera Domains
 >[!info]+ Information  
@@ -19,17 +19,19 @@ POV: 1740s
 
 The Nera Domains are a general term for the collection of private estates, manors, and towers that dot the sheltered eastern slopes of the [[Mount Nera]] spur.
 
-%%^Metadata:article:v1%%
-mode: urban reference
-povNotes: "Accuracy range: approximately the DR 1740s. Urban Reference for Nera Domains; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: Nera Domains, role: primary, language: Chardonian, pronunciation: NEH-rah doh-MAYNZ, status: proposed, notes: Italian/Latin-informed reading of Nera with the Common descriptive component Domains; exact in-world Chardonian phonology is not established.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the term describes the established collection of private estates east of Mount Nera, while their individual ownership and development dates are not recorded.
 %%^End%%
 
 %%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
+## Taelgar note lint
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Italian/Latin analogue for Nera with an English descriptive component. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Nera Domains, language: Chardonian, pronunciation: NEH-rah doh-MAYNZ, status: proposed}`. Accept it in frontmatter only after human review.
-- [ ] **Suggestion — dm.notes_no_local_evidence:** The positive `dm_notes` attestation has no matching local-only file. Confirm whether it represents off-vault or remembered information; retain it unless a human decides otherwise.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `NEH-rah doh-MAYNZ` from the Italian/Latin analogue documented for Chardonian and the Common descriptive component. If accepted, add `pronunciation: NEH-rah doh-MAYNZ` to frontmatter and change the entry to `status: documented`; otherwise revise the proposal.
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No matching local-only `_DM_` note was found for the positive `dm_notes: important` attestation. Confirm whether it represents remembered or off-vault information; retain the attestation unless a human decides otherwise.
 %%^End%%

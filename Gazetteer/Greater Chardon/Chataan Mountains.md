@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
+tags: [place, status/gameupdate/dufr]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Chataan Mountains
@@ -10,7 +10,7 @@ pronunciation: cha-TAWN
 whereabouts: Greater Chardon
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # The Chataan Mountains
 *(cha-TAWN)*
@@ -24,16 +24,10 @@ To the northeast, the Chataans merge with the rugged hills of the [[Myraeni Gap]
 
 ![[chataan-landscape.jpg]]
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Chataan Mountains; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: Chataan Mountains, role: primary, language: Dunmari, pronunciation: cha-TAWN, status: documented}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Session 42]], [[Chalyte Giants Brainstorming]], [[Session 124 - DM Notes]], [[Session 126 - Brainstorming]], [[Session 126 - DM Notes]], [[Session 128 - DM Notes]], [[Session 129 - DM Notes]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes stable topography and climate. Post DR 1749, became a major chalyte mining region, and was incorporated much more strongly into the Chardonian Empire. These mining and political developments do not change the geographic description.
 %%^End%%

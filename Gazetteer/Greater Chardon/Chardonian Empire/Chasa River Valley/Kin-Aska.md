@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [place, status/cleanup/metadata, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
@@ -11,7 +11,7 @@ name: Kin-Aska
 whereabouts: Chasa River Valley
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Kin-Aska
 >[!info]+ Information
@@ -25,24 +25,24 @@ A former city in the [[Chasa]] river valley, destroyed during the [[Blood Years]
 %% confirm pre-Great-War culture here with West Coast notes%%
 %% clean up header formatting %%
 
+%%^Metadata:names:v1%%
+- {name: Kin-Aska, role: primary, language: unknown, pronunciation: kin-AHS-kah, status: proposed, notes: Cautious clear-vowel reading; the mixed Northros and Drankorian context does not establish one source language.}
+%%^End%%
+
 %%^Metadata:map:v1%%
 locations:
   - {map: world, locator: }
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: settlement reference
-povNotes: "Accuracy range: approximately the DR 1740s. Settlement Reference for Kin-Aska; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes the ancient city's destruction in DR 1555 and the present-day settlement of Arendum on its ruins.
 %%^End%%
 
 %%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
+## Taelgar note lint
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** The mixed Northros/Drankorian context does not establish one language; this is a cautious clear-vowel proposal. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Kin-Aska, language: unknown, pronunciation: kin-AHS-kah, status: proposed}`. Accept it in frontmatter only after human review.
-- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
-- [ ] **Warning — status.disposition:** Existing status `status/cleanup/metadata` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `kin-AHS-kah` as a cautious clear-vowel reading because the mixed Northros and Drankorian context does not establish one source language. If accepted, add `pronunciation: kin-AHS-kah` to frontmatter and change the entry to `status: documented`; otherwise revise the proposal.
+- [ ] **Warning — metadata.map_location_missing:** The required settlement map block has no locator. Fill the existing blank `locator` from the authoritative map; do not guess a coordinate.
 %%^End%%

@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [source]
 campaign: Dunmar Frontier
 name: Two Letters from Stormcaller Tower
-POV: 1059
+POV: 1050s
 ---
-
 # Two Letters from Stormcaller Tower
 
 "Tell [[Eudomes]] that we will arrive in two weeks time. We expect to speak to the captured being, whom you call [[Hralgar]]. The [[Occulta Ludum]] will be overjoyed to hear the binding seems to have worked, but tell [[Eudomes]] to be cautious above all else, keep this secret. Giants are dangerous in all their forms, even to us, and binding a storm giant at the peak of their power is the most dangerous business of all."
@@ -18,7 +17,6 @@ POV: 1059
 - {name: Two Letters from Stormcaller Tower, role: primary, language: Common, status: documented, notes: Descriptive source-compilation title.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: primary-source compilation
-povNotes: The letters describe conditions around the fall of Drankor in DR 1059; their claims are preserved as contemporary in-world testimony.
+%%^povNotes:v1%%
+Temporal coverage: DR 1059; the letters describe conditions around the fall of Drankor, and their claims are preserved as contemporary in-world testimony.
 %%^End%%

@@ -50,7 +50,7 @@ Secretly a member of the [[Shakun Mystai]].
  
 Kenzo's mentor/patron/protector in Chardon. Lives in the Panemsgate neighborhood, south of the [[Kylos Market]].
  
-Trained at the university, including higher learning from the faculty of Magic, but never a great caster [he is probably something like a level 3-5 melee bard], more an adventurer type, "practical magician". After his training, left to seek knowledge elsewhere, eventually ending up in Karawa and joining the Shakun Mystai.
+Trained at the university, including higher learning from the [[faculty of Magic]], but never a great caster [he is probably something like a level 3-5 melee bard], more an adventurer type, "practical magician". After his training, left to seek knowledge elsewhere, eventually ending up in Karawa and joining the Shakun Mystai.
  
 When he returned, he refused to speak of his travels, holding is oath to the Mystai sacred. Was expelled from the Society of the Open Scroll for this, and left the academy, although retains some old contacts, especially his master from his university days, Roscelia.
  

@@ -4,7 +4,7 @@ lintedAt: "2026-08-20T13:18:12-04:00"
 lintVersion: "3.0"
 tags: [background]
 name: Wards of Tollen
-dm_owner: tim
+dm_owner: none
 dm_notes: none
 POV: 1740s
 ---

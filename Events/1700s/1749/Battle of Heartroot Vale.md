@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [event]
 typeOf: battle
 DR: 1749-08-12
@@ -26,7 +26,6 @@ Noticing the deception, the [[Dunmar Fellowship]] raced to intercept the [[Empre
 - {name: Battle of Heartroot Vale, role: primary, language: Common, status: inferred, notes: descriptive title from the battle's location}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: event account
-povNotes: "Accuracy range: DR 1749-08-12 and immediately afterward. The article recounts the battle from the established session record and does not rely on later historical interpretation."
+%%^povNotes:v1%%
+Temporal coverage: DR 1749-08-12 and immediately afterward; the article recounts the battle from the established session record without relying on later historical interpretation.
 %%^End%%

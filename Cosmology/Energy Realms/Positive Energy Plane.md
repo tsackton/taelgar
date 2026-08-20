@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [place]
 typeOf: plane
 typeOfAlias: hypothesized energy realm
@@ -11,7 +11,7 @@ whereabouts:
   - {type: home, location: Energy Realms, wHome: "A <typeof> in <home:2>"}
 dm_owner: tim
 dm_notes: none
-POV: post-Great-War
+POV: modern
 ---
 # The Positive Energy Plane
 >[!info]+ Information
@@ -25,7 +25,6 @@ The Positive Energy Plane is a hypothesized [[Energy Realms|Energy Realm]], desc
 - {name: Plane of Blossoming Currents, role: translated source form, language: Common, status: inferred, notes: English translation associated with Aznoke's Lizardling epic; original form unrecorded}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: in-world scholarly hypothesis
-povNotes: "Accuracy range: post-Great-War scholarly discourse. The visible article reports a current Faculty interpretation of Aznoke's much older epic rather than asserting an omniscient cosmological fact."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article reports the current scholarly interpretation of Aznoké's much older epic rather than asserting an omniscient cosmological fact.
 %%^End%%

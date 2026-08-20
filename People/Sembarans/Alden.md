@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [person]
 species: alien fungal entity
 died: 1740-10-07
@@ -27,7 +27,6 @@ Alden, along with many other fungal aliens, was killed by [[Lord Hulda]] when th
 - {name: Alden, role: primary, language: Sembaran, status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign biography
-povNotes: Complete through Alden's death on DR 1740-10-07; the description of his behavior and appearance is the preceding campaign snapshot.
+%%^povNotes:v1%%
+Temporal coverage: a DR 1740 campaign portrait complete through Alden's death on DR 1740-10-07; his appearance and behavior describe the preceding days at Dandelion House.
 %%^End%%

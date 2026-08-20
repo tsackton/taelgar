@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 tags: [object]
 typeOf: container
 typeOfAlias: magical container
@@ -9,7 +9,7 @@ ancestry: Dunmari
 ddbLink: https://www.dndbeyond.com/magic-items/4699-portable-hole
 name: "Dunmar Fellowship's Portable Hole"
 knownTo: [dufr]
-POV: 1748
+POV: 1740s
 ---
 # The Dunmar Fellowship's Portable Hole
 >[!info]+ Information  
@@ -29,7 +29,6 @@ Upon receiving the portable hole, the Dunmar Fellowship was warned to follow the
 - {name: Dunmar Fellowship's Portable Hole, role: primary, language: Common, status: documented, notes: Descriptive title for the party's portable hole.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign item reference
-povNotes: Describes the item from its acquisition by the Dunmar Fellowship on DR 1748-07-15; later inventory changes do not alter the handling rules recorded here.
+%%^povNotes:v1%%
+Temporal coverage: the DR 1740s from the Dunmar Fellowship's acquisition of the item on DR 1748-07-15 through its later campaign use; its final disposition is not established.
 %%^End%%

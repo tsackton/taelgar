@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T14:57:54-04:00"
+lintVersion: "3.0"
 displayDefaults: {dPastHasStart: "Began on <startdate>, ended on <enddate>"}
 tags: [event]
 typeOf: war
@@ -82,11 +82,10 @@ The treaty ended the open war, but not its consequences. In Chardon, Fausto's fa
 
 %%SECRET[v2:bd0db4f3351dbfed625bbab96e189ba8]%%
 
-%%^Metadata:article:v1%%
-mode: retrospective event synthesis
-povNotes: "Accuracy range: DR 1750 and later, after Fausto's role and Apollyon's defeat had become known. The chronology covers DR 1743–1749, but its causal interpretation is intentionally retrospective and should not be exposed to an earlier viewpoint."
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {name: Chardon-Dunmar War, role: primary, language: Common, status: inferred, notes: descriptive Common title formed from the two belligerent realms}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: DR 1750 and later, after Fausto's role and Apollyon's defeat had become known; the chronology covers DR 1743–1749, but its causal interpretation is intentionally retrospective and should not be exposed to an earlier viewpoint.
 %%^End%%

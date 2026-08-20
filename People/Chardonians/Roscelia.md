@@ -22,7 +22,7 @@ dm_owner: tim
 %% copy notes from OneNote, update header to add campaign Info %%
 
 ![[roscelia.png|right|400]]
-An elderly magician, prim and proper, a member of the Faculty of Magic at the [[University of Chardon]] and [[Kaeso]]'s mentor.
+An elderly magician, prim and proper, a member of the [[Faculty of Magic]] at the [[University of Chardon]] and [[Kaeso]]'s mentor.
 
 Still somewhat friendly with [[Kaeso]], despite her disappointment in his path and refusal to share secrets with the [[Society of the Open Scroll]]. 
 
@@ -32,7 +32,7 @@ Still somewhat friendly with [[Kaeso]], despite her disappointment in his path a
  
 Title: Roscelia Verinus, Professor of Magic, Argent Chair of Theurgy
  
-Kaeso's old teacher, on the faculty of Magic at the University of Chardon but mostly retired from teaching. Definitely has some wizard levels. A member of the Hetaeri Magica as well as the University. Not associated with Great Library, but is a member of the Society of the Open Scroll. Disappointed in Kaeso but still likes him as a friend, and they have mostly agreed to disagree about his experiences.
+Kaeso's old teacher, on the [[faculty of Magic]] at the University of Chardon but mostly retired from teaching. Definitely has some wizard levels. A member of the Hetaeri Magica as well as the University. Not associated with Great Library, but is a member of the Society of the Open Scroll. Disappointed in Kaeso but still likes him as a friend, and they have mostly agreed to disagree about his experiences.
  
 ## Appearance
  
