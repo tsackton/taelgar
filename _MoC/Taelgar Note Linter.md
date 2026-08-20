@@ -228,6 +228,18 @@ When review applies, use these four outcomes:
 
 Report matching Markdown notes as Obsidian wikilinks without exposing content. The presence or contents of `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks in the target never trigger, suppress, support, or otherwise affect the candidate-based `dm_notes` review; they are separate privacy mechanisms. In-note secret material remains compatible with `dm_notes: none` under [[Note Status]].
 
+### Shared nonpublic content review
+
+Every full lint independently reviews substantial ordinary `%% ... %%` comments and `Campaign:none` blocks in the target for useful material absent from the visible article. This review is always applicable and is not gated by `dmNotesReviewVersion`. Comment or block length alone never creates a finding. The contextual review separates:
+
+- public-safe description, history, geography, culture, or other reader-facing information;
+- DM-only encounters, mechanics, treasure, secrets, and unpublished twists; and
+- brainstorming, source notes, and editorial reminders.
+
+When an appropriate source establishes public-safe information and its omission materially weakens or misleads the visible article, the ordinary coverage rule applies. When useful material appears only in the noncanonical shared comment or block but is a specific, coherent candidate for human adoption, report `editorial.public_material_candidate` as a suggestion rather than treating it as established canon. The finding identifies the exact private passage, explains the practical improvement, and includes copy-ready public prose. When public candidates are intermingled with usable DM material, it also proposes a bounded organization for the remaining private guidance. Minor possibilities that do not justify retaining `status/check/lint` are omitted.
+
+The linter never promotes or reorganizes private material automatically. A Git-shared Lint proposal copies or paraphrases only the public-safe subset and does not expose DM mechanics, treasure, secrets, unpublished twists, or unresolved brainstorming. It never copies or paraphrases material from `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%` blocks or local `_DM_` notes into the Git-shared Lint report.
+
 ### Links and relationship metadata
 
 Obsidian resolves a bare wikilink target from filenames, not from frontmatter `name` or `aliases`. Link validation therefore treats `[[Drankor]]` as a link to a file named `Drankor.md`; an alias on another file does not make that link ambiguous. Explicit paths disambiguate genuine duplicate filenames. Markdown notes inside dot-prefixed directories are not link or relationship targets and do not create filename, name, or alias collisions, although they remain searchable and citable evidence.

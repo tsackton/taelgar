@@ -5,8 +5,7 @@ lintVersion: "3.0"
 tags: [place, status/cleanup/metadata, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
-campaignInfo: []
-destroyed: 1
+destroyed: 1555
 name: Kin-Aska
 whereabouts: Chasa River Valley
 dm_owner: tim
@@ -14,16 +13,17 @@ dm_notes: important
 POV: modern
 ---
 # Kin-Aska
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-A former city in the [[Chasa]] river valley, destroyed during the [[Blood Years]] in the [[Battle of Kin-Aska]]. The present-day [[Arendum]] is largely built on the ruins of Kin-Aska.
 
 %% confirm destroyed date with info on the wars in the west after the defeat of Cha'mutte %%
 %% confirm pre-Great-War culture here with West Coast notes%%
 %% clean up header formatting %%
+
+A former city in the [[Chasa]] river valley, destroyed during the [[Blood Years]] in the [[Battle of Kin-Aska]]. The present-day [[Arendum]] is largely built on the ruins of Kin-Aska.
+
 
 %%^Metadata:names:v1%%
 - {name: Kin-Aska, role: primary, language: unknown, pronunciation: kin-AHS-kah, status: proposed, notes: Cautious clear-vowel reading; the mixed Northros and Drankorian context does not establish one source language.}
