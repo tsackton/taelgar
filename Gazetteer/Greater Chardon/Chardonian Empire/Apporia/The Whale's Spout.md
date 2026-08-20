@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: The Whale's Spout
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place]
 typeOf: inn
+typeOfAlias: tavern
+name: "The Whale's Spout"
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-typeOfAlias: tavern
+POV: 1740s
 ---
-# The The Whale's Spout
+# The Whale's Spout
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -21,3 +23,8 @@ GL Arc 5: support location during Castrella downtime: see [[Great Library Sessio
 
 [[Mabist]] placed [[Camile]] and [[Arturo]] here.
 %%
+
+%%^Metadata:article:v1%%
+mode: location reference
+povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for The Whale's Spout; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%

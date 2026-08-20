@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: realm
+typeOfAlias: province
+name: Portalia
 whereabouts:
-  - type: primary
-    location: Chardonian Empire
-  - type: secondary
-    location: Apporia
+  - {type: primary, location: Chardonian Empire}
+  - {type: secondary, location: Apporia}
 dm_owner: tim
 dm_notes: important
-typeOfAlias: province
+POV: 1740s
 ---
 # Portalia
 >[!info]+ Information  
@@ -29,3 +30,17 @@ notes
 - Most Chardonian of the Apporian provinces; not particularly autonomous. 
 - This province includes the canal and some distance to each side. The north coast (Gulf of Chardon) is largely salt marsh and swampy; this is not an agriculturally rich area and the economy is dominated by the canal and the sea. The central hills are the lowest here, although still some rise of land towards the center of the peninsula. 
 %%
+
+%%^Metadata:article:v1%%
+mode: political-geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Portalia; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Italian/Latin analogue: open vowels and stress on ta. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Portalia, language: Chardonian, pronunciation: por-TAH-lee-ah, status: proposed}`. Accept it in frontmatter only after human review.
+%%^End%%

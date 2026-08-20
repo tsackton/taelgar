@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-displayDefaults:
-  wHome: <ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>
-  defArt: ""
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>", defArt: ""}
+tags: [place]
 typeOf: neighborhood
+typeOfAlias: neighborhood
+name: Ragwater Basin
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
-typeOfAlias: neighborhood
+POV: "1749"
 ---
 # Ragwater Basin
 >[!info]+ Information  
@@ -20,4 +21,9 @@ Ragwater Basin, usually just called the Basin, is a neighborhood downriver from 
 
 This is a dirty, stinking area, and only the poorest of the poor actually live here. The nearby [[Riverside Quarter]], huddled against the banks of the [[Chasa]], is only marginally more pleasant. 
 
-Together, the Basin and Riverside make up Precinct XVII.  
+Together, the Basin and Riverside make up Precinct XVII.
+
+%%^Metadata:article:v1%%
+mode: urban reference
+povNotes: "Accuracy range: through early DR 1749. Urban reference baseline before refinery damage, seizures, and ownership changes recorded in Sessions 124-129."
+%%^End%%

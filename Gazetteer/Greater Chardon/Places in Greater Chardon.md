@@ -1,8 +1,12 @@
 ---
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
 tags: [background]
-excludePublish: ["all"]
+name: Places in Greater Chardon
+excludePublish: [all]
 dm_owner: none
 dm_notes: none
+POV: timeless
 ---
 ### Places in Greater Chardon
 ```dataviewjs
@@ -14,4 +18,7 @@ dv.table(["Place", "Type Of"],
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```
 
-
+%%^Metadata:article:v1%%
+mode: generated index
+povNotes: "Accuracy range: timeless. Generated structural index whose results depend on current vault metadata rather than an in-world speaking date."
+%%^End%%

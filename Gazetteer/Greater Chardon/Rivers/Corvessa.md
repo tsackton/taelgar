@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
-whereabouts: Coastlands
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/name, status/check/lint]
 typeOf: waterway
+typeOfAlias: river
+name: Corvessa
+pronunciation: kor-VESS-uh
+whereabouts: Coastlands
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
-pronunciation: kor-VESS-uh
+POV: 1740s
 ---
 # Corvessa
 *(kor-VESS-uh)*
@@ -20,3 +24,24 @@ One of the major rivers of the [[Coastlands]], rising from the [[Beacon Hills]] 
 Source ([[Beacon Hills]]): 12.07.A09
 Outlet ([[Endless Ocean]]): 12.06.D24
 %%
+
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: Beacon Hills, map: world, locator: "12.07.A09"}
+  - {role: outlet, feature: Endless Ocean, map: world, locator: "12.06.D24"}
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Corvessa; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Added or populated the required Metadata:map:v1 block.
+
+### Open findings
+- [ ] **Warning — status.disposition:** Existing status `status/check/name` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+%%^End%%

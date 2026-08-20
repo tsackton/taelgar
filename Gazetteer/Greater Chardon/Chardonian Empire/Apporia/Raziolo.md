@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-dm_owner: tim
-dm_notes: none
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: realm
 typeOfAlias: province
-whereabouts: 
-- {type: primary, location: Chardonian Empire, startFilter: "r"}
-- {type: secondary, location: Apporia, startFilter: "r"}
+name: Raziolo
 pronunciation: ra-TSYO-lo
+whereabouts:
+  - {type: primary, location: Chardonian Empire, startFilter: r}
+  - {type: secondary, location: Apporia, startFilter: r}
+dm_owner: tim
+dm_notes: none
+POV: 1740s
 ---
 # Raziolo
 *(ra-TSYO-lo)*
@@ -42,4 +46,18 @@ A lot of hill forts and other fortifications in the area from the War of the Dar
 
 Main port has a big agricultural market, has the most traders. Would be location for various merfolk collectors and merchants. 
 
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: political-geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Raziolo; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+
+### Open findings
+- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Peninsula NPC Notes]], [[Session 98 - DM Notes]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
 %%^End%%

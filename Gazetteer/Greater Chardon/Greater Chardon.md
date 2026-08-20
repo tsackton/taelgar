@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
-displayDefaults: {defArt: '' }
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+displayDefaults: {defArt: ""}
+tags: [place, status/wip, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Greater Chardon
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: 1740s
 ---
 # Greater Chardon
 >[!info]+ Information  
@@ -47,7 +52,7 @@ Dangerous Wildernesses: No
 
 {descriptive in world text about climate}
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 {real world climate analogs and inspiration}
 
@@ -98,7 +103,7 @@ When the [[Great War]] came, the lands north of [[Chardon]] bore the brunt of th
 
 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 _See also: [[Places in Greater Chardon]]
 
@@ -188,3 +193,21 @@ Major features include a major river, large forests to the east against the Sent
 *Adventures:* Illoria has been at the edge of several Dunmari Frontier adventures, but only two sessions were actually set in the Nevos Sea, and primarily involved traveling to and then through the [[Old Chardon Canal]]. The merfolk arc of the Dunmari Frontier was partially set on the north coast of Apporia. 
 
 %%
+
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: "Accuracy range: uneven across the DR 1740s. Regional reference draft; visible placeholders and mixed development material make the article incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Normalized campaign-block codes.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Latinate Chardonian reading for Chardon with an English descriptive component. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Greater Chardon, language: Chardonian, pronunciation: GREY-ter KAR-dohn, status: proposed}`. Accept it in frontmatter only after human review.
+- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Uncategorized Events]], [[Mawar Religion]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+- [ ] **Warning — status.disposition:** Existing status `status/wip` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+- [ ] **Warning — editorial.scope_incomplete:** The article retains status/wip, visible placeholders, raw drafting, and mixed canonical and developmental material. Candidate: complete a scoped editorial rewrite only after separately approving the intended canonical article structure.
+%%^End%%

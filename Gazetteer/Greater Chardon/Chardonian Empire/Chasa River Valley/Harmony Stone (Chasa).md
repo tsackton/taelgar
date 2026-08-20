@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Harmony Stone
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: infrastructure
 typeOfAlias: monolith
+name: Harmony Stone
 whereabouts:
   - {type: home, location: Chasa River Valley, startFilter: "2"}
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: 1740s
 ---
 # The Harmony Stone
 >[!info]+ Information  
@@ -28,4 +31,21 @@ A deep resonance runs through the statue, though. Elves, in particular, may trig
  
 "You see a great forest around you, superimposed over the modern landscape. Trees stretching hundreds of feet into the air, a golden evening light turning the forest to burnished copper as the sun sinks in the west. A small group of elves stand here, by the stone. They are warriors - elegant, graceful, and powerful in their confidence of their own skill and value. One, seemingly the leader, wears a thin circlet of silver on her brow, her long silver hair tied back in a braid; she steps forward and the human delegation bows before her. You can here them murmur, in a language you do not know but somehow can understand, blessing to the tanshi, asking the gods of the forest, the spirit of the eagle, the spirit of the flowing water, to bless this meeting. As they rise, you feel pulled upwards in the swirl of smoke rising from the small fire where the sacrifices to the gods were burned, and as you are pulled upwards you see superimposed on the land below a vision of endless wilds, a forest not of this world, the home of Aldanor and Elmerca, and suddenly your perspective is returned to the present day and the world as it is."
  
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: location reference
+povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for Harmony Stone; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+
+### Validated judgments
+- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
+
+### Open findings
+- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Chasa River Valley (OneNote)]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
 %%^End%%

@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: neighborhood
+typeOfAlias: urban area
+name: North Bank
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: none
-typeOfAlias: urban area
+POV: "1749"
 ---
 # The North Bank
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The North Bank refers to the neighborhoods of [[Chardon]] on the north side of the [[Chasa|Chasa River]]
-.
+The North Bank refers to the neighborhoods of [[Chardon]] on the north side of the [[Chasa|Chasa River]].
 
 The dominant geographic feature on the North Bank is [[Mount Nera]], a long extinct volcano, with a conic summit peak of basalt and obsidian, rumored to be deeply magical. While the bulk of the mountain itself rises some distance from the river, a sharp spur runs north-south between the summit and the river, dividing the North Bank.
 
@@ -29,7 +31,7 @@ The central part of the walled area, known as the [[Bastion Quarter]], and cente
 East (upriver) of the fortifications along the height of land of the [[Mount Nera]] spur, the land is hillier and dryer, and this region, known as the [[Nera Domains]], is dotted with elaborate manors of the rich and prosperous. 
 
 Two major bridges cross the [[Chasa]], connecting the North Bank to the bulk of the city to the south. 
-- The farthest downriver, connecting the [[Bastion Quarter]] to the [[Precinct VII]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with an enchanted mechanism allowing the middle section to be be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
+- The farthest downriver, connecting the [[Bastion Quarter]] to the [[Precinct VII]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with an enchanted mechanism allowing the middle section to be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast.
 - Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to  [[Precinct VI]]. 
 
 These bridge crossings are supplemented by numerous ferries that dot the shores of the [[Chasa]]. 
@@ -56,4 +58,22 @@ Landmark name ideas - not yet used
 | **Mill Channel Crane**    | Ragwater Basin | Iron tread-wheel crane (30 ft reach) used to swing chalyte ore-casks from barges -- iconic skyline silhouette.         |
 | **Bastion Fountain**      | Bastion Square | Marble cistern fed by an uphill spring; reputed to neutralise chalyte dust—queue of workers each dawn.                 |
 | **Arcade of the Compass** | Summit Quarter | Covered colonnade holding workshops of instrument-makers; mosaics in the vault depict zodiacal constellations.         |
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: urban reference
+povNotes: "Accuracy range: through early DR 1749. Urban reference baseline before the damage and institutional changes recorded in Sessions 124-129."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
+
+### Validated judgments
+- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
+
+### Open findings
+- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Session 48]], [[Darba (OneNote)]], [[Chardon Timeline]], [[Session 124 - DM Notes]], [[Session 126 - Brainstorming]], [[Session 126 - DM Notes]], [[Time Skip - Bullet Points]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
 %%^End%%

@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-whereabouts: Chardonian Empire
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
+tags: [place, status/check/lint]
 typeOf: region
 name: Chasa River Valley
-dm_notes: none
+whereabouts: Chardonian Empire
 dm_owner: tim
+dm_notes: none
+POV: 1740s
 ---
 # The Chasa River Valley
 >[!info]+ Information  
@@ -64,4 +67,19 @@ Mileage from Chardon:
 - Mile 510: Arendum
  
 
+%%^End%%
+
+%%^Metadata:article:v1%%
+mode: geographic reference
+povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Chasa River Valley; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^End%%
+
+%%^Lint%%
+### Applied changes
+- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
+- Added persistent Metadata:article:v1 interpretation.
+
+### Open findings
+- [ ] **Warning — pronunciation.missing_or_exception:** Italian analogue for Chasa: intervocalic s voiced as z with first-syllable stress. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Chasa River Valley, language: Chardonian, pronunciation: KAH-zah river valley, status: proposed}`. Accept it in frontmatter only after human review.
+- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Uncategorized Events]], [[Elderwood Arc NPCs]], [[Chasa River Valley (OneNote)]], [[Flowchart - Elderwood Part 1]], [[Arendum (OneNote)]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
 %%^End%%

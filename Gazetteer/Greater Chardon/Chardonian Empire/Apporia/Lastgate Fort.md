@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-08-19T22:19:46-04:00"
+lintVersion: "2.5"
 displayDefaults: {defArt: ""}
-name: Lastgate Fort
-aliases: [Presidion Lymara, Lymara, Lymaran Presidion]
+tags: [place]
 typeOf: building
 typeOfAlias: fort
 ancestry: Drankorian
-whereabouts: 
-- {type: primary, location: Kedron, linkText: "on the"}
+name: Lastgate Fort
+aliases: [Presidion Lymara, Lymara, Lymaran Presidion]
+whereabouts:
+  - {type: primary, location: Kedron, linkText: on the}
 dm_owner: none
 dm_notes: none
+POV: "1748"
 ---
 # Lastgate Fort
 >[!info]+ Information  
@@ -31,3 +34,8 @@ After the empire fell, the fort was abandoned and knowledge of its purpose faded
 In September DR 1748, the [[Silver Tempests]] followed an old Drankorian milestone into the Kedron interior and reached Lastgate Fort. They explored the fortress, found a surviving Drankorian archive, and passed through the locked door into the ruins beyond. Their expedition produced the first surviving account of what lay past Lastgate and established the relationship among the fort, the [[Cleaver-Stone]], and [[Cairn Dor]]. Using instructions preserved in the archive, they locked the portal and disabled the soul compass, interrupting the raids responsible for the [[Lizardfolk Village Disappearances]].
 
 %% some DM details in [[GL - Session 62 - DM Notes]] %%
+
+%%^Metadata:article:v1%%
+mode: location reference
+povNotes: "Accuracy range: DR 1748 and later. Retrospective location history incorporating the Silver Tempests' September DR 1748 expedition."
+%%^End%%
