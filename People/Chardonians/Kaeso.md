@@ -25,15 +25,12 @@ dm_notes: important
 POV: 1749
 ---
 # Kaeso
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%%^Campaign:dufr%%
-Scryed with [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]]
-%%^End%%
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]], the [[Mawakel Peninsula]] %%^End%%
 
 %% clean up campaign info and text, add image, copy various notes from Kenzo brainstorming in DM folder %%
 ![[kaeso.png|right|400]]
