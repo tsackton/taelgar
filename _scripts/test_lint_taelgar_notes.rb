@@ -202,7 +202,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
     record = manifest.fetch("notes").first
 
-    assert_equal "3.2", manifest.fetch("validatorVersion")
+    assert_equal "3.3", manifest.fetch("validatorVersion")
     refute record.dig("deterministic", "reviewGates", "pov", "required")
     refute record.dig("deterministic", "reviewGates", "pov", "povNotesApplicable")
     refute_includes record.dig("deterministic", "findings").map { |finding| finding.fetch("ruleId") },

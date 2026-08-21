@@ -1,5 +1,5 @@
 ---
-linterVersion: "3.2"
+linterVersion: "3.3"
 dmNotesReviewVersion: "3.0"
 nameReviewVersion: "3.2"
 povReviewVersion: "3.2"
@@ -8,7 +8,7 @@ name: Taelgar Note Linter
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **3.2** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **3.3** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -49,7 +49,7 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "3.2"
+lintVersion: "3.3"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
@@ -60,7 +60,7 @@ Increase the linter version when a change can alter applicability, severity, fin
 
 `nameReviewVersion` is the independent minimum prior linter version for contextual name-block applicability and pronunciation review. A note with a valid `lintedAt` whose numeric `lintVersion` is at least this value skips that contextual review during later lints. Existing name blocks still receive deterministic schema validation, and entries marked `proposed`, `disputed`, or `unresolved` still produce deterministic human-review tasks without being recalculated. When name-review rules change, raise `nameReviewVersion`; a human who changes the primary subject of a note can force review by removing its lint completion version.
 
-`povReviewVersion` is the independent minimum prior linter version for contextual `POV` selection and, where applicable, `povNotes` review. A present `povNotes` block bypasses this gate and is always rechecked together with `POV`; the linter must retain the block because removing one is always a human-only decision. Only when `povNotes` is absent does the gate compare the prior lint: a note with a valid `lintedAt` whose numeric `lintVersion` is at least this value preserves its valid existing `POV` without recomputing it and preserves the absence of `povNotes`. Deterministic validation still reports a missing or malformed `POV`, a forbidden or malformed present `povNotes` block, and other structural defects. When POV-review rules change, raise `povReviewVersion`; a human can force contextual POV review by removing the lint completion version. This gate is adopted at `povReviewVersion: "3.2"` without changing `linterVersion`: the correction does not make notes already linted at 3.2 stale or recreate `povNotes` that were deliberately removed.
+`povReviewVersion` is the independent minimum prior linter version for contextual `POV` selection and, where applicable, `povNotes` review. A present `povNotes` block bypasses this gate and is always rechecked together with `POV`; the linter must retain the block because removing one is always a human-only decision. Only when `povNotes` is absent does the gate compare the prior lint: a note with a valid `lintedAt` whose numeric `lintVersion` is at least this value preserves its valid existing `POV` without recomputing it and preserves the absence of `povNotes`. Deterministic validation still reports a missing or malformed `POV`, a forbidden or malformed present `povNotes` block, and other structural defects. When POV-review rules change, raise `povReviewVersion`; a human can force contextual POV review by removing the lint completion version. The POV gate remains `povReviewVersion: "3.2"`: a note at that version can be stale under the current linter while still skipping contextual POV recomputation when `povNotes` is absent.
 
 The deterministic report exposes the three contextual boundaries under `reviewGates.names`, `reviewGates.dmNotes`, and `reviewGates.pov`. For POV, `required` is always true when `povNotes` is present; when it is absent, `required` reflects the version comparison. The POV record also exposes `povNotesApplicable`, so the same decision is available in single-note output and each batch manifest packet rather than being recomputed by the reviewing agent.
 
@@ -124,6 +124,24 @@ Later truth does not by itself make an explicitly earlier-POV note incorrect, bu
 ### Structural role and importance
 
 A bounded glossary entry, connector, overview, hub, minor subject, and major campaign subject do not have the same coverage expectations. Importance informs contextual judgment but never becomes a generic word-count or heading requirement.
+
+### Editorial sufficiency
+
+Every completed lint assigns exactly one editorial verdict to the note as a reference artifact:
+
+- **Sufficient:** the note performs its present role and provides setting-specific substance proportional to its demonstrated importance.
+- **Sufficient, worth expanding:** the note is already adequate, but one bounded addition would materially improve its usefulness.
+- **Underdeveloped:** the note lacks a central setting-specific account, established role, current state, consequence, or other core dimension required by its demonstrated importance and reference role.
+
+Derive the verdict from the complete note and vault evidence: subject or document type, structural role, demonstrated importance, setting-specific content, central established relationships or state, consequences, and visible completeness. Do not infer importance or insufficiency from word count, backlink count, `status/*`, `dm_notes`, generic genre familiarity, or the mere existence of additional facts elsewhere. A short minor connector can be sufficient. An important subject represented only by a generic definition can be underdeveloped.
+
+Visible incomplete structure is evidence only when the author has established a central section and left it with placeholders, fragments, or hidden planning instead of an account. Several such central sections can make an otherwise long and polished note underdeveloped; polished volume elsewhere does not compensate for them. One peripheral unfinished section ordinarily supports at most **Sufficient, worth expanding**. The linter does not require conventional template headings merely because they could exist.
+
+For a person, a defining relationship, role, and fate can be enough for a minor connector. An important person requires established central consequences and current state when those are material to the reference account. Apply the same proportional principle to places, events, objects, organizations, and other subjects rather than imposing a universal checklist.
+
+**Sufficient, worth expanding** is a chat-only verdict. It never creates or retains a Lint block, `status/check/lint`, or an editorial comment, and it does not lower the existing materiality threshold for established-fact findings. Communicate it in the handoff with the single bounded addition that would be most useful.
+
+An **Underdeveloped** verdict must identify concrete central missing dimensions. When an appropriate source establishes the missing or outdated information, use `coverage.established_fact_missing` or `coverage.later_material_change`. Otherwise use the agentic judgment rule `editorial.note_underdeveloped`, with default severity **suggestion**, only when the expectation profile and exact incomplete passage or structure provide enough evidence for a durable task. Its proposed resolution names the smallest useful development scope and never invents canon or merely says to expand the note. Do not report the same gap under both an editorial and a coverage rule.
 
 ## Source authority and correctness
 
@@ -348,7 +366,7 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 4. Derive the contextual expectation profile.
 5. Resolve names, aliases, links, backlinks, relationships, campaigns, and relevant dates.
 6. Gather sources according to authority, including newer invention after the prior lint.
-7. Perform agentic review for correctness, coverage, editorial quality, status disposition, and development opportunity.
+7. Perform agentic review for correctness, coverage, editorial quality, editorial sufficiency, status disposition, and development opportunity.
 8. Apply only authorized lint-owned changes and write supported persistent metadata.
 9. Re-run deterministic validation with links enabled and confirm the specification and validator versions agree.
 10. Write `lintedAt`, the captured `lintVersion`, and either the open report/tag or the clean state.
@@ -356,7 +374,7 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 3.2, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 3.3, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
 
 Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Preparation also omits objectively textless bodies and records them in `selectionSummary.skippedNoReviewableProse`; the agent must separately screen surviving text for a complete subject-matter sentence before preparing the final candidate set. Explicit preparation rejects path-ineligible targets, and snapshot/finalization reject any manifest note that becomes objectively textless, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
 
