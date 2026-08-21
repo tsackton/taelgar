@@ -202,7 +202,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
     record = manifest.fetch("notes").first
 
-    assert_equal "3.3", manifest.fetch("validatorVersion")
+    assert_equal "3.4", manifest.fetch("validatorVersion")
     refute record.dig("deterministic", "reviewGates", "pov", "required")
     refute record.dig("deterministic", "reviewGates", "pov", "povNotesApplicable")
     refute_includes record.dig("deterministic", "findings").map { |finding| finding.fetch("ruleId") },
@@ -437,6 +437,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
         {
           "path" => path,
           "expectedSha256" => TaelgarNoteLint::Batch.file_sha256(File.join(root, path)),
+          "eligibility" => "eligible",
+          "editorialVerdict" => "Sufficient",
           "outcome" => "clean",
           "lintReport" => nil
         }
@@ -473,6 +475,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
         {
           "path" => path,
           "expectedSha256" => TaelgarNoteLint::Batch.file_sha256(File.join(root, path)),
+          "eligibility" => "eligible",
+          "editorialVerdict" => "Sufficient",
           "outcome" => "clean",
           "lintReport" => nil
         }
@@ -570,8 +574,10 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     ).snapshot
     decisions.fetch("notes").each do |decision|
       if decision["path"] == "Meta/Clean.md"
+        decision["editorialVerdict"] = "Sufficient"
         decision["outcome"] = "clean"
       else
+        decision["editorialVerdict"] = "Sufficient, worth expanding"
         decision["outcome"] = "open"
         decision["lintReport"] = <<~REPORT.strip
           %%^Lint%%
@@ -606,6 +612,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     original = File.read(File.join(root, path))
     manifest, manifest_sha = manifest_for(root, [path])
     decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").first["editorialVerdict"] = "Sufficient"
     decisions.fetch("notes").first["outcome"] = "clean"
     corrupting_finalizer = Class.new(TaelgarNoteLint::Batch::Finalizer) do
       private
@@ -642,6 +649,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest, manifest_sha = manifest_for(root, [path])
     decisions = snapshot(root, manifest, manifest_sha)
     decision = decisions.fetch("notes").first
+    decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "open"
     decision["lintReport"] = <<~REPORT.strip
       %%^Lint%%
@@ -663,6 +671,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     write_note(root, "Meta/Clean.md", meta_note("Clean", version: "2.2"))
     manifest, manifest_sha = manifest_for(root, ["Meta/Clean.md"])
     decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").first["editorialVerdict"] = "Sufficient"
     decisions.fetch("notes").first["outcome"] = "clean"
     path = File.join(root, "Meta", "Clean.md")
     File.write(path, File.read(path).sub("# Clean", "# Clean changed elsewhere"))
@@ -681,7 +690,9 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     write_note(root, "Meta/Second.md", meta_note("Second", version: "2.2"))
     manifest, manifest_sha = manifest_for(root, ["Meta/First.md", "Meta/Second.md"])
     decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes")[0]["editorialVerdict"] = "Sufficient"
     decisions.fetch("notes")[0]["outcome"] = "clean"
+    decisions.fetch("notes")[1]["editorialVerdict"] = "Sufficient"
     decisions.fetch("notes")[1]["outcome"] = "open"
     decisions.fetch("notes")[1]["lintReport"] = "%%^Lint%%\nNo task.\n%%^End%%"
 
@@ -693,7 +704,340 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_includes File.read(File.join(root, "Meta", "Second.md")), 'lintVersion: "2.2"'
   end
 
+  def test_workspace_enforces_note_and_token_shard_limits_with_singleton_oversize_notes
+    root = make_vault
+    paths = 23.times.map do |index|
+      path = format("Meta/Fixture %02d.md", index)
+      write_note(root, path, meta_note(format("Fixture %02d", index), version: "2.2"))
+      path
+    end
+    manifest, manifest_sha = manifest_for(root, paths)
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      TaelgarNoteLint::Batch::WorkspaceBuilder.new(
+        root: root,
+        manifest: manifest,
+        manifest_sha256: manifest_sha,
+        output_dir: File.join(root, ".lint-review")
+      )
+    end
+    assert_includes error.message, "outside the vault"
+    review_dir = Dir.mktmpdir("lint-review.")
+    @temporary_roots << review_dir
+
+    workspace = TaelgarNoteLint::Batch::WorkspaceBuilder.new(
+      root: root,
+      manifest: manifest,
+      manifest_sha256: manifest_sha,
+      output_dir: review_dir,
+      max_notes: 10,
+      max_tokens: 1_000_000
+    ).build
+
+    assert_equal [10, 10, 3], workspace.fetch("shards").map { |shard| shard.fetch("noteCount") }
+    assert_equal paths.sort, workspace.fetch("shards").flat_map { |shard| shard.fetch("paths") }.sort
+    paths.each do |path|
+      assert_equal File.binread(File.join(root, path)), File.binread(File.join(review_dir, "candidates", path))
+    end
+
+    tiny_review_dir = Dir.mktmpdir("lint-review-tiny.")
+    @temporary_roots << tiny_review_dir
+    tiny = TaelgarNoteLint::Batch::WorkspaceBuilder.new(
+      root: root,
+      manifest: manifest,
+      manifest_sha256: manifest_sha,
+      output_dir: tiny_review_dir,
+      max_notes: 10,
+      max_tokens: 1
+    ).build
+    assert_equal Array.new(paths.length, 1), tiny.fetch("shards").map { |shard| shard.fetch("noteCount") }
+    assert tiny.fetch("shards").all? { |shard| shard.fetch("estimatedInputTokens") > 1 }
+  end
+
+  def test_workspace_loader_merges_shards_independently_of_workspace_order
+    root = make_vault
+    paths = %w[Alpha Beta Gamma].map do |name|
+      path = "Meta/#{name}.md"
+      write_note(root, path, meta_note(name, version: "2.2"))
+      path
+    end
+    manifest, manifest_sha, review_dir, workspace = build_workspace(root, paths, max_notes: 1)
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    workspace["shards"].reverse!
+    File.write(File.join(review_dir, "workspace.json"), "#{JSON.pretty_generate(workspace)}\n")
+
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    assert_equal paths.sort, decisions.fetch("notes").map { |decision| decision.fetch("path") }
+    assert decisions.fetch("workspaceMode")
+  end
+
+  def test_workspace_finalizer_uses_staged_candidates_and_leaves_ineligible_notes_unchanged
+    root = make_vault
+    eligible_path = "Meta/Eligible.md"
+    ineligible_path = "Meta/Placeholder.md"
+    write_note(root, eligible_path, meta_note("Eligible", version: "2.2"))
+    placeholder = "---\ntags: [meta]\n---\n# Placeholder\n\n%% TODO %%\n"
+    write_note(root, ineligible_path, placeholder)
+    manifest, manifest_sha, review_dir, = build_workspace(root, [eligible_path, ineligible_path])
+    staged_eligible = File.join(review_dir, "candidates", eligible_path)
+    File.write(staged_eligible, File.read(staged_eligible).sub("name: Eligible\n", "name: Eligible\naliases: [Eligible Record]\n"))
+    complete_workspace_results(review_dir) do |decision|
+      if decision["path"] == eligible_path
+        decision["eligibility"] = "eligible"
+        decision["editorialVerdict"] = "Sufficient, worth expanding"
+        decision["outcome"] = "open"
+        decision["lintReport"] = lint_report("review.open")
+      else
+        decision["eligibility"] = "ineligible"
+        decision["eligibilityReason"] = "The authored comment is only an editorial placeholder."
+        decision["editorialVerdict"] = nil
+        decision["outcome"] = nil
+        decision["adjudication"] = "complete"
+      end
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    eligible = File.read(File.join(root, eligible_path))
+
+    assert_includes eligible, "aliases: [Eligible Record]"
+    assert_includes eligible, 'lintVersion: "3.4"'
+    assert_includes eligible, "review.open"
+    assert_equal placeholder, File.read(File.join(root, ineligible_path))
+    assert_equal "ineligible", result.fetch("notes").find { |note| note["path"] == ineligible_path }.fetch("outcome")
+  end
+
+  def test_finalizer_accepts_the_supported_editorial_verdict_and_state_matrix
+    root = make_vault
+    cases = {
+      "Sufficient Clean" => ["Sufficient", "clean", nil],
+      "Sufficient Open" => ["Sufficient", "open", lint_report("review.open")],
+      "Worth Clean" => ["Sufficient, worth expanding", "clean", nil],
+      "Worth Open" => ["Sufficient, worth expanding", "open", lint_report("metadata.review")],
+      "Underdeveloped Open" => ["Underdeveloped", "open", lint_report("coverage.established_fact_missing")]
+    }
+    paths = cases.keys.map do |name|
+      path = "Meta/#{name}.md"
+      write_note(root, path, meta_note(name, version: "2.2"))
+      path
+    end
+    manifest, manifest_sha = manifest_for(root, paths)
+    decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").each do |decision|
+      verdict, outcome, report = cases.fetch(File.basename(decision.fetch("path"), ".md"))
+      decision["editorialVerdict"] = verdict
+      decision["outcome"] = outcome
+      decision["lintReport"] = report
+    end
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    assert_equal cases.values.map { |_verdict, outcome, _report| outcome }.sort,
+                 result.fetch("notes").map { |note| note.fetch("outcome") }.sort
+  end
+
+  def test_finalizer_rejects_invalid_editorial_lifecycle_combinations
+    root = make_vault
+    path = "Meta/Editorial.md"
+    write_note(root, path, meta_note("Editorial", version: "2.2"))
+    manifest, manifest_sha = manifest_for(root, [path])
+
+    underdeveloped_clean = snapshot(root, manifest, manifest_sha)
+    underdeveloped_clean.fetch("notes").first.merge!(
+      "editorialVerdict" => "Underdeveloped",
+      "outcome" => "clean"
+    )
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, underdeveloped_clean).finalize
+    end
+    assert_includes error.message, "must remain open"
+
+    worth_finding = snapshot(root, manifest, manifest_sha)
+    worth_finding.fetch("notes").first.merge!(
+      "editorialVerdict" => "Sufficient, worth expanding",
+      "outcome" => "open",
+      "lintReport" => lint_report("editorial.worth_expanding")
+    )
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, worth_finding).finalize
+    end
+    assert_includes error.message, "cannot be represented"
+
+    unadjudicated = snapshot(root, manifest, manifest_sha)
+    unadjudicated.fetch("notes").first.merge!(
+      "editorialVerdict" => "Underdeveloped",
+      "outcome" => "open",
+      "lintReport" => lint_report("editorial.note_underdeveloped")
+    )
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, unadjudicated).finalize
+    end
+    assert_includes error.message, "requires completed Sol xhigh adjudication"
+  end
+
+  def test_workspace_refuses_incomplete_results_and_changed_live_targets_before_any_write
+    root = make_vault
+    paths = %w[First Second].map do |name|
+      path = "Meta/#{name}.md"
+      write_note(root, path, meta_note(name, version: "2.2"))
+      path
+    end
+    originals = paths.to_h { |path| [path, File.read(File.join(root, path))] }
+    manifest, manifest_sha, review_dir, = build_workspace(root, paths, max_notes: 1)
+    first_result = JSON.parse(File.read(File.join(review_dir, "results", "shard-001.json")))
+    first_result.fetch("notes").first.merge!(
+      "eligibility" => "eligible",
+      "editorialVerdict" => "Sufficient",
+      "outcome" => "clean"
+    )
+    File.write(File.join(review_dir, "results", "shard-001.json"), "#{JSON.pretty_generate(first_result)}\n")
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    end
+    assert_includes error.message, "completed semantic eligibility"
+    paths.each { |path| assert_equal originals.fetch(path), File.read(File.join(root, path)) }
+
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    changed_path = File.join(root, paths.last)
+    File.write(changed_path, File.read(changed_path).sub("# Second", "# Second changed elsewhere"))
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    end
+    assert_includes error.message, "changed after preparation"
+    assert_equal originals.fetch(paths.first), File.read(File.join(root, paths.first))
+  end
+
+  def test_workspace_rejects_duplicate_assignments_manifest_mismatches_and_changed_staged_completion_state
+    root = make_vault
+    paths = %w[Alpha Beta].map do |name|
+      path = "Meta/#{name}.md"
+      write_note(root, path, meta_note(name, version: "2.2"))
+      path
+    end
+    manifest, manifest_sha, review_dir, workspace = build_workspace(root, paths, max_notes: 1)
+    duplicate = JSON.parse(JSON.generate(workspace))
+    duplicate.fetch("shards").last["paths"] = [duplicate.dig("shards", 0, "paths", 0)]
+    File.write(File.join(review_dir, "workspace.json"), "#{JSON.pretty_generate(duplicate)}\n")
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    end
+    assert_includes error.message, "more than once"
+
+    File.write(File.join(review_dir, "workspace.json"), "#{JSON.pretty_generate(workspace)}\n")
+    result_path = File.join(review_dir, workspace.dig("shards", 0, "result"))
+    result = JSON.parse(File.read(result_path))
+    result["manifestSha256"] = "wrong-manifest"
+    File.write(result_path, "#{JSON.pretty_generate(result)}\n")
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    end
+    assert_includes error.message, "does not match"
+
+    result["manifestSha256"] = manifest_sha
+    File.write(result_path, "#{JSON.pretty_generate(result)}\n")
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    staged_path = File.join(review_dir, "candidates", paths.first)
+    File.write(staged_path, File.read(staged_path).sub('lintVersion: "2.2"', 'lintVersion: "9.9"'))
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "changed after its review result"
+
+    workspace = JSON.parse(File.read(File.join(review_dir, "workspace.json")))
+    shard = workspace.fetch("shards").find { |item| item.fetch("paths").include?(paths.first) }
+    result_path = File.join(review_dir, shard.fetch("result"))
+    result = JSON.parse(File.read(result_path))
+    result.fetch("notes").find { |decision| decision.fetch("path") == paths.first }["candidateSha256"] =
+      TaelgarNoteLint::Batch.file_sha256(staged_path)
+    File.write(result_path, "#{JSON.pretty_generate(result)}\n")
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "Staged lint completion state changed"
+  end
+
+  def test_cli_json_outputs_are_private
+    root = make_vault
+    path = "Meta/Private Output.md"
+    write_note(root, path, person_note("Private Output"))
+    output = File.join(root, "manifest.json")
+    File.write(output, "old\n")
+    File.chmod(0o644, output)
+
+    result = TaelgarNoteLint::Batch::CLI.new(
+      ["prepare", "--root", root, "--output", output, path]
+    ).run
+
+    assert_equal 0, result
+    assert_equal 0o600, File.stat(output).mode & 0o777
+  end
+
   private
+
+  def build_workspace(root, paths, max_notes: 10, max_tokens: 30_000)
+    manifest, manifest_sha = manifest_for(root, paths)
+    review_dir = Dir.mktmpdir("lint-review.")
+    @temporary_roots << review_dir
+    workspace = TaelgarNoteLint::Batch::WorkspaceBuilder.new(
+      root: root,
+      manifest: manifest,
+      manifest_sha256: manifest_sha,
+      output_dir: review_dir,
+      max_notes: max_notes,
+      max_tokens: max_tokens
+    ).build
+    [manifest, manifest_sha, review_dir, workspace]
+  end
+
+  def complete_workspace_results(review_dir)
+    workspace = JSON.parse(File.read(File.join(review_dir, "workspace.json")))
+    workspace.fetch("shards").each do |shard|
+      result_path = File.join(review_dir, shard.fetch("result"))
+      result = JSON.parse(File.read(result_path))
+      result.fetch("notes").each do |decision|
+        yield decision
+        decision["candidateSha256"] = TaelgarNoteLint::Batch.file_sha256(
+          File.join(review_dir, "candidates", decision.fetch("path"))
+        )
+      end
+      File.write(result_path, "#{JSON.pretty_generate(result)}\n")
+    end
+  end
+
+  def load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    TaelgarNoteLint::Batch::WorkspaceLoader.new(
+      root: root,
+      manifest: manifest,
+      manifest_sha256: manifest_sha,
+      review_dir: review_dir
+    ).decisions
+  end
+
+  def lint_report(rule_id)
+    <<~REPORT.strip
+      %%^Lint%%
+      - [ ] **Suggestion — #{rule_id}:** Human review is still required.
+      %%^End%%
+    REPORT
+  end
 
   def make_vault
     root = Dir.mktmpdir("taelgar-batch-lint-test.")
@@ -781,10 +1125,15 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
   def manifest_for(root, paths)
     records = paths.map do |path|
-      text = File.read(File.join(root, path))
+      absolute = File.join(root, path)
+      text = File.read(absolute)
       note = TaelgarNoteLint::ParsedNote.new(path, text)
       {
         "path" => path,
+        "file" => {
+          "sha256" => TaelgarNoteLint::Batch.file_sha256(absolute),
+          "bytes" => File.size(absolute)
+        },
         "priorCompletionState" => TaelgarNoteLint::Batch.completion_state(note)
       }
     end

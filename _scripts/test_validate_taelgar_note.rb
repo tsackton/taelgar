@@ -22,7 +22,11 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal TaelgarNoteLint::DM_NOTES_REVIEW_VERSION, specification.data["dmNotesReviewVersion"]
     assert_equal TaelgarNoteLint::NAME_REVIEW_VERSION, specification.data["nameReviewVersion"]
     assert_equal TaelgarNoteLint::POV_REVIEW_VERSION, specification.data["povReviewVersion"]
-    assert_equal "3.3", TaelgarNoteLint::VERSION
+    assert_equal "3.4", TaelgarNoteLint::VERSION
+    assert_equal 5, TaelgarNoteLint::SCHEMA_VERSION
+    assert_equal "3.4", TaelgarNoteLint::DM_NOTES_REVIEW_VERSION
+    assert_equal "3.4", TaelgarNoteLint::NAME_REVIEW_VERSION
+    assert_equal "3.4", TaelgarNoteLint::POV_REVIEW_VERSION
   end
 
   def test_adopted_governance_records_editorial_sufficiency_lifecycle
@@ -33,10 +37,41 @@ class ValidateTaelgarNoteTest < Minitest::Test
       assert_includes specification, verdict
       assert_includes skill, verdict
     end
-    assert_includes specification, "**Sufficient, worth expanding** is a chat-only verdict."
-    assert_includes specification, "It never creates or retains a Lint block, `status/check/lint`, or an editorial comment"
+    assert_includes specification, "**Sufficient, worth expanding** is a handoff-only verdict."
+    assert_includes specification, "By itself, it cannot create a Lint block, `status/check/lint`, or an editorial finding."
+    assert_includes specification, "Does the visible note currently perform its reference role without a central gap?"
     assert_includes specification, "`editorial.note_underdeveloped`"
     assert_includes skill, "`editorial.note_underdeveloped`"
+    assert_includes skill, "uncertainty after the mechanical screen favors inclusion"
+    assert_includes skill, "`gpt-5.6-sol` with `xhigh` reasoning"
+    assert_includes skill, "`gpt-5.6-terra` at `high`"
+  end
+
+  def test_all_contextual_review_gates_reopen_for_pre_3_4_lints
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "People/Previous Review.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "3.3"
+        tags: [person]
+        species: human
+        knownTo: []
+        dm_owner: tim
+        dm_notes: none
+        POV: modern
+        ---
+        # Previous Review
+
+        A person recorded in the current campaign era.
+      MARKDOWN
+    )
+
+    assert report.dig("reviewGates", "names", "required")
+    assert report.dig("reviewGates", "pov", "required")
+    assert report.dig("reviewGates", "dmNotes", "required")
   end
 
   def setup
@@ -171,7 +206,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal 1, report.fetch("summary").fetch("errors")
   end
 
-  def test_target_eligibility_rejects_only_objectively_sentence_less_bodies
+  def test_target_eligibility_rejects_only_objectively_blank_or_generated_bodies
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     prefix = "---\ntags: [meta]\n---\n"
@@ -209,11 +244,17 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "Creatures/Dragonet.md",
       "#{prefix}# Dragonet\n\n%% dragonet on circular island %%\n"
     )
+    title_dependent_definition = validator.validate_text(
+      "Gazetteer/Northern Peak.md",
+      "#{prefix}# Northern Peak\n\nA large, prominent peak in the northern mountains.\n"
+    )
 
     refute_includes rule_ids(complete_comment), "lint.target_no_reviewable_prose"
     assert_equal "agent_confirmation_required", complete_comment.dig("targetEligibility", "status")
     refute_includes rule_ids(fragment_comment), "lint.target_no_reviewable_prose"
     assert_equal "agent_confirmation_required", fragment_comment.dig("targetEligibility", "status")
+    refute_includes rule_ids(title_dependent_definition), "lint.target_no_reviewable_prose"
+    assert_equal "agent_confirmation_required", title_dependent_definition.dig("targetEligibility", "status")
   end
 
   def test_fix_frontmatter_leaves_an_objectively_ineligible_note_unchanged
