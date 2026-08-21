@@ -7,6 +7,12 @@ description: Lint, re-lint, or batch-lint eligible Taelgar vault notes with dete
 
 Combine deterministic validation with one source-grounded contextual review. The adopted rules live in `../../../_MoC/Taelgar Note Linter.md`; do not reproduce or improvise a competing rule set.
 
+## Isolate live guidance from lint history
+
+- For ordinary lint, re-lint, batch, and check-only work, do not search, read, cite, or rely on Codex memories, rollout summaries, or prior-run guidance. The live skill, adopted specification, current validator, current governance files, and current vault evidence are the only procedural authorities.
+- Consult historical linter material only when the user explicitly asks for history, rationale, maintenance, or regression analysis. Version-specific historical results never establish the current workflow or rule set.
+- A task that changes `linterVersion` includes a mandatory read-only memory audit before handoff. Check whether active memory presents the superseded version as current or routes ordinary lint work to version-specific historical guidance. If correction is needed, tell the user and request the direct authorization required to submit a memory-update note; do not declare the version-update lifecycle complete without surfacing that step. Generated memory files are never edited directly.
+
 ## Gate the target and mode first
 
 - Exclude any note with a `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Ineligible paths remain searchable evidence.
@@ -26,6 +32,28 @@ Read every target completely. Read the adopted specification once per task or ba
 - article temporality: `../../../_MoC/Temporal POV Metadata.md`.
 
 For a batch, the manifest is the reusable result of link, relationship, `_DM_`, Git-freshness, and deterministic checks. Do not rerun those searches per note unless the packet reports ambiguity, a tool failure, or a contextual question it cannot answer.
+
+## Select samples and collections mechanically
+
+For a random sample, capped alphabetical collection, directory-wide collection, or lint-state-based collection, run the read-only selector from the vault root instead of hand-building the target list:
+
+```sh
+# Five random unlinted People notes
+ruby _scripts/select_taelgar_lint_notes.rb --random --cap 5 People
+
+# First ten alphabetical unlinted Chardonians notes
+ruby _scripts/select_taelgar_lint_notes.rb --cap 10 People/Chardonians
+
+# Every unlinted note under one directory (no cap means all matches)
+ruby _scripts/select_taelgar_lint_notes.rb People/Chardonians
+
+# Ten random stale completed notes from the vault
+ruby _scripts/select_taelgar_lint_notes.rb --re-lint --state stale --random --cap 10 .
+```
+
+The default state is `unlinted`, meaning no valid `lintedAt`/`lintVersion` pair. `linted` means any valid pair, `stale` means a valid pair whose version differs from the live validator version, `current` means a valid pair at that exact version, and `all` ignores completion state. The completed-note states require `--re-lint`; use that flag only when the user explicitly authorized re-linting. With `--re-lint` and no explicit state, the selector uses `all`. Alphabetical order is the default. `--random` records its effective seed in the JSON, and an explicit `--seed` reproduces a sample. Omit `--cap`/`--limit` to select the entire matching scope. Multiple file or directory scopes form one deduplicated collection.
+
+The selector recursively discovers Markdown files, applies the batch linter's path exclusions and objective authored-body screen, filters completion state, orders the survivors, and applies the cap last. Its default JSON reports counts, state breakdown, exclusions, random seed, and exact selected paths; `--format paths` emits only those paths. It never edits notes and does not replace the editorial worker's semantic eligibility judgment. Run it once per requested collection, show the user the exact paths before review when they requested that gate, and reuse the same list for preparation rather than drawing another random sample.
 
 ## Keep semantic judgment on Sol xhigh
 

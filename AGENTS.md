@@ -276,6 +276,15 @@ these general rules:
 
 ## 7. Specialized and High-Risk Work
 
+- **Taelgar linter memory isolation:** When `lint-taelgar-note` applies, do not
+  consult Codex memories, rollout summaries, or prior-run guidance for ordinary
+  lint execution or calibration. The live skill, adopted specification,
+  validator, governance files, and vault evidence are authoritative. Historical
+  linter material is available only when the user explicitly requests history,
+  rationale, maintenance, or regression analysis. Any task that changes
+  `linterVersion` must perform the skill's read-only memory audit and surface any
+  required memory reconciliation before handoff, so the user does not have to
+  remember that lifecycle step.
 - **`_sessions`:** These files are exempt from `status/check/ai` and
   `status/check/lint` and may have
   strict preservation or pipeline requirements. Follow the applicable session
