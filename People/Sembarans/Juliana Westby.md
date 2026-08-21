@@ -25,6 +25,10 @@ POV: 1720
 %%lady of cranmere, young, recently inherited after her mother died in the undead stuff, actively seeking husband is the main news
 excited to host the party%%
 
+
+
+
+
 %%^Metadata:names:v1%%
 - {name: Juliana Westby, role: primary, language: Sembaran, pronunciation: joo-lee-AN-uh WEST-bee, notes: "Proposed from the English side of the Sembaran analogue; a more French-influenced first-name reading remains possible, and exact in-world phonology is not recorded.", status: proposed}
 %%^End%%
