@@ -439,10 +439,16 @@ module TaelgarNoteLint
     end
 
     class Preparer
-      def initialize(root:)
+      def initialize(root:, force_dm_notes_review: false)
         @root = Pathname.new(root).expand_path
+        @force_dm_notes_review = force_dm_notes_review
         @index = NoteIndex.new(@root)
-        @validator = Validator.new(root: @root, check_links: true, index: @index)
+        @validator = Validator.new(
+          root: @root,
+          check_links: true,
+          index: @index,
+          force_dm_notes_review: force_dm_notes_review
+        )
         @baselines = GitBaselineResolver.new(@root)
         @freshness_scanners = {}
       end
@@ -465,6 +471,7 @@ module TaelgarNoteLint
         {
           "schemaVersion" => SCHEMA_VERSION,
           "validatorVersion" => VERSION,
+          "forcedReviewGates" => @force_dm_notes_review ? ["dmNotes"] : [],
           "generatedAt" => Time.now.iso8601,
           "root" => @root.to_s,
           "notes" => records
@@ -1400,11 +1407,21 @@ module TaelgarNoteLint
       private
 
       def prepare
-        options = { root: Pathname.pwd, all_linted: false, stale: false, only_needs_review: false, re_lint: false }
+        options = {
+          root: Pathname.pwd,
+          all_linted: false,
+          stale: false,
+          only_needs_review: false,
+          re_lint: false,
+          force_dm_review: false
+        }
         parser = OptionParser.new do |opts|
           opts.banner = "Usage: lint_taelgar_notes.rb prepare [options] [NOTE ...]"
           opts.on("--root PATH", "Vault root") { |value| options[:root] = Pathname.new(value) }
           opts.on("--re-lint", "Include notes with valid prior lint completion state") { options[:re_lint] = true }
+          opts.on("--force-dm-review", "Re-run dm_notes evidence review for named re-lint targets") do
+            options[:force_dm_review] = true
+          end
           opts.on("--all-linted", "Select every note with lint completion state") { options[:all_linted] = true }
           opts.on("--stale", "Select notes whose lintVersion is not current") { options[:stale] = true }
           opts.on("--only-needs-review", "Exclude current notes with no freshness candidates") { options[:only_needs_review] = true }
@@ -1413,6 +1430,12 @@ module TaelgarNoteLint
         parser.parse!(@argv)
         if (options[:all_linted] || options[:stale]) && !options[:re_lint]
           raise BatchError, "--all-linted and --stale require --re-lint because completed notes are excluded by default."
+        end
+        if options[:force_dm_review] && !options[:re_lint]
+          raise BatchError, "--force-dm-review requires --re-lint."
+        end
+        if options[:force_dm_review] && @argv.empty?
+          raise BatchError, "--force-dm-review requires explicitly named targets."
         end
         if (options[:all_linted] || options[:stale]) && @argv.any?
           raise BatchError, "Broad linted-note discovery cannot be combined with named targets; resolve the user's scope first."
@@ -1454,7 +1477,7 @@ module TaelgarNoteLint
             "notes" => []
           }
         else
-          manifest = Preparer.new(root: root).prepare(paths)
+          manifest = Preparer.new(root: root, force_dm_notes_review: options[:force_dm_review]).prepare(paths)
         end
         selected_count = manifest.fetch("notes").length
         review_count = manifest.fetch("notes").count { |record| record.dig("routing", "reviewRecommended") }

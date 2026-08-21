@@ -1381,6 +1381,53 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_operator Time.iso8601(finding.dig("details", "sources", 0, "modifiedAt")), :>, Time.iso8601(linted_at)
   end
 
+  def test_dm_notes_review_can_be_forced_for_an_explicit_targeted_repair
+    root = make_vault
+    linted_at = "2026-08-20T09:00:00-04:00"
+    note_path = "Groups/Forced Review.md"
+    write_note(
+      root,
+      note_path,
+      <<~MARKDOWN
+        ---
+        lintedAt: "#{linted_at}"
+        lintVersion: "#{TaelgarNoteLint::DM_NOTES_REVIEW_VERSION}"
+        tags: [group]
+        name: Forced Review
+        dm_owner: tim
+        dm_notes: none
+        POV: undated
+        ---
+        # Forced Review
+
+        This dynasty is documented in the test vault.
+
+        %%^povNotes:v1%%
+        Temporal coverage: undated; the available evidence does not support a modern, decade, or year reading position.
+        %%^End%%
+      MARKDOWN
+    )
+    dm_path = File.join(root, "_DM_", "Forced Review Notes.md")
+    write_note(root, "_DM_/Forced Review Notes.md", "# Notes\n\n[[Forced Review]] has private material.\n")
+    old_time = Time.iso8601("2026-08-20T08:00:00-04:00")
+    File.utime(old_time, old_time, dm_path)
+
+    ordinary = TaelgarNoteLint::Validator.new(root: root, check_links: true).validate_path(note_path)
+    forced = TaelgarNoteLint::Validator.new(
+      root: root,
+      check_links: true,
+      force_dm_notes_review: true
+    ).validate_path(note_path)
+
+    refute ordinary.dig("reviewGates", "dmNotes", "required")
+    refute_includes rule_ids(ordinary), "dm.notes_private_evidence_review"
+    assert forced.dig("reviewGates", "dmNotes", "required")
+    assert_includes rule_ids(forced), "dm.notes_private_evidence_review"
+    assert_equal "_DM_/Forced Review Notes.md",
+                 forced.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_review" }
+                       .dig("details", "sources", 0, "path")
+  end
+
   def test_dm_notes_review_rechecks_versions_below_threshold_and_always_validates_vocabulary
     root = make_vault
     note_path = "Groups/Legacy Dynasty.md"
