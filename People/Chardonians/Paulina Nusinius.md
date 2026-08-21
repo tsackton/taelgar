@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person]
 species: human
 ancestry: Chardonian
@@ -13,7 +13,7 @@ whereabouts: Chardon
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # Paulina Nusinius
 *(pow-LEE-nah noo-SEE-nee-oos)*
@@ -30,7 +30,6 @@ She is best known for the [[Research about Limbo and Cha'mutte|provocative thesi
 - {name: Paulina Nusinius, role: primary, language: Chardonian, pronunciation: pow-LEE-nah noo-SEE-nee-oos, status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: historical biography
-povNotes: All claims concern a scholar who died in DR 1577 and remain usable throughout the 1700s; the note does not attempt to summarize later acceptance or rejection of her theory.
+%%^povNotes:v1%%
+Temporal coverage: all claims concern a scholar who died in DR 1577 and remain usable throughout the 1700s; the note does not attempt to summarize later acceptance or rejection of her theory.
 %%^End%%

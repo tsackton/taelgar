@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/mike]
 typeOf: topographical feature
 typeOfAlias: line of hills
@@ -21,7 +21,7 @@ The Tyrwinghan Hills, locally known as the Cefren (*KEV-ren*) in Tyrwingha, are 
 
 %%^Metadata:names:v1%%
 - {name: Tyrwinghan Hills, role: primary, language: Common, status: documented, notes: descriptive Common title for the locally named Cefren}
-- {name: Cefren, role: local, language: Tyrwinghan, pronunciation: KEV-ren, status: documented
+- {name: Cefren, role: local, language: Tyrwinghan, pronunciation: KEV-ren, notes: Pronunciation recorded in the visible article text., status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

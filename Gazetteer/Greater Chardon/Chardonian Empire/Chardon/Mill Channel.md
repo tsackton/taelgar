@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: canal
@@ -9,7 +9,7 @@ name: Mill Channel
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # The Mill Channel
 >[!info]+ Information  
@@ -24,22 +24,27 @@ locations:
   - {role: outlet, feature: Chasa, map: world, locator: }
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Mill Channel; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Mill Channel", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and industrial use of the channel; no construction date or later change to its route is described.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
-- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
 
 ### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
 
 ### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Chardon Timeline]], [[Session 125 - DM Notes]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
-- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks source.locator, outlet.locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+
+- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: source.locator, outlet.locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [power]
 typeOf: archfey
 gender: male
@@ -21,7 +21,7 @@ POV: modern
 
 Harrow, the Shadow That Looms, is an archfey and the ruler of [[Darkfall]]. He is often spoken of in the same sentence as [[Wend]], the Silence That Follows, ruler of [[Hollowdark]]. 
 
-Harrow is not merely dark; he is an occlusion, a destruction of light. Wend is not merely quiet; she is the silence that moves after him, the terror of the moment when silence falls in the darkness. When both are near, witnesses perceive one as substantial and the other as an afterimage, but accounts disagree about which was which. That uncertainty sustains the belief that they may be conjoined beings, or or two aspects of the same dread, though the truth of the matter is not recorded. 
+Harrow is not merely dark; he is an occlusion, a destruction of light. Wend is not merely quiet; she is the silence that moves after him, the terror of the moment when silence falls in the darkness. When both are near, witnesses perceive one as substantial and the other as an afterimage, but accounts disagree about which was which. That uncertainty sustains the belief that they may be conjoined beings, or two aspects of the same dread, though the truth of the matter is not recorded.
 
 
 %%^Campaign:none%%

@@ -1,11 +1,11 @@
 ---
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [source, status/cleanup/text]
 name: Story about Hags
 dm_owner: none
 dm_notes: none
-POV: timeless
+POV: undated
 ---
 %% status/cleanup/text - this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%
 
@@ -25,7 +25,10 @@ Planning to confront the Woman of the Cliffs, you ascend into her lair again. Ho
 
 With a weary heart you return to the village, thinking of how you can do what she demands... when you pass your neighbor's' house, for a second you think you can see their four month old daughter through the window. She smiles and laughs at you in a way more knowing than any baby that young should be able to.
 
-%%^Metadata:article:v1%%
-mode: preserved external source material awaiting adaptation
-povNotes: "Accuracy range: not tied to Taelgar chronology. This is an undated second-person source narrative whose internal sequence belongs to the preserved artifact; its assertions are source material rather than claims the linter can declare factually wrong."
+%%^Metadata:names:v1%%
+- {name: "Story about Hags", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: undated; this is a second-person source narrative whose internal sequence belongs to the preserved artifact rather than a dated Taelgar snapshot.
 %%^End%%

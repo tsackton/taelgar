@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/lint]
 typeOf: realm
 typeOfAlias: province
@@ -11,7 +11,7 @@ whereabouts:
   - {type: secondary, location: Apporia}
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Portalia
 >[!info]+ Information  
@@ -31,16 +31,28 @@ notes
 - This province includes the canal and some distance to each side. The north coast (Gulf of Chardon) is largely salt marsh and swampy; this is not an agriculturally rich area and the economy is dominated by the canal and the sea. The central hills are the lowest here, although still some rise of land towards the center of the peninsula. 
 %%
 
-%%^Metadata:article:v1%%
-mode: political-geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Portalia; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Portalia", role: "primary", language: "Chardonian", pronunciation: "por-TAH-lee-ah", notes: "Italian/Latin analogue: open vowels and stress on ta.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern provincial description centered on the Chardon Canal; destruction during the War of the Dark Rift and Chardonian rebuilding are historical background.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Italian/Latin analogue: open vowels and stress on ta. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Portalia, language: Chardonian, pronunciation: por-TAH-lee-ah, status: proposed}`. Accept it in frontmatter only after human review.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Portalia — por-TAH-lee-ah` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:57:54-04:00"
-lintVersion: "3.0"
-tags: [place]
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
+tags: [place, status/check/ai]
 typeOf: topographical feature
 typeOfAlias: mountain
 name: Thundercrown
@@ -23,5 +23,5 @@ A large, prominent peak in the northern [[Chataan Mountains]], noted to be near 
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern; the mountain and its association with a rich chalyte source are established starting in the early DR 1700s. 
+Temporal coverage: broadly modern; the mountain and its association with a rich chalyte source are established starting in the early DR 1700s. Chalyte mining resumes in the Chataans in DR 1749 and dramatically changes the surrounding region; the article does not describe Thundercrown's later mining role.
 %%^End%%

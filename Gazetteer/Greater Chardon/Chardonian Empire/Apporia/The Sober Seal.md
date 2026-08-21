@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: inn
@@ -10,7 +10,7 @@ name: The Sober Seal
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: 1748
 ---
 # The Sober Seal
 >[!info]+ Information  
@@ -27,7 +27,10 @@ Kind of a lowbrow place. Seafood stew, rough bread. Rowdy
 GL Arc 5: part of the party’s information-gathering in Castrella. See: [[Great Library Session Notes - Arc 5]]
 %%
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for The Sober Seal; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "The Sober Seal", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 snapshot of the tavern during the Silver Tempests' information-gathering and planning in Castrella; earlier and later operation are not described.
 %%^End%%

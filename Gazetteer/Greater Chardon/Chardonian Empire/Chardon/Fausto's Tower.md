@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:21:35-04:00"
-lintVersion: "3.0"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place, status/gameupdate/dufr, status/check/lint]
 typeOf: building
@@ -22,7 +22,7 @@ Fausto's Tower is the residence and workshop of [[Fausto]], a wealthy Chardonian
 %% Extensive DM notes elsewhere %%
 
 %%^Metadata:names:v1%%
-- {name: "Fausto's Tower", role: primary, language: Chardonian, pronunciation: FOW-stoh, status: documented}
+- {name: "Fausto's Tower", role: primary, language: Chardonian, pronunciation: FOW-stohz TOW-er, notes: Derived from Fausto's accepted FOW-stoh pronunciation plus the ordinary English possessive and title., status: proposed}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -32,9 +32,17 @@ Temporal coverage: a pre-defeat snapshot through early DR 1749, before Fausto's 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+
 ### Validated judgments
-- The positive `dm_notes` attestation has matching local-only evidence in [[_DM_/Timelines/Apollyon Endgame Timeline]], [[_DM_/Timelines/NPC Travels]], [[_DM_/Timelines/Old Timeline (Table)]], [[_DM_/Timelines/Unified Timeline From OneNote]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Hralgar's Eyes (OneNote)]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Character Developments/Scrying]], [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]], and [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]. No private content was copied into this note.
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- Non-check status disposition: `status/gameupdate/dufr` is not assessable pending the open temporal or coverage choice; no status was changed.
+
 ### Open findings
-- [x] **Warning — metadata.names_unresolved_status:** The complete-name pronunciation `FOW-stohz TOW-er` is derived from Fausto's accepted `FOW-stoh` pronunciation plus the ordinary English possessive and title. If that reading and `language: Chardonian` are correct, change the entry to `status: documented`; otherwise correct the pronunciation or language and document the source.
+
 - [ ] **Warning — coverage.later_material_change:** [[Session 125 (DuFr)]] establishes that by DR 1749-06-27 the tower had been entered, explored, and placed under close guard after Fausto's defeat. Choose one bounded outcome: update the article and POV to include that state; defer it and retain `status/gameupdate/dufr`; or intentionally preserve this DR 1748 historical snapshot and remove the game-update tag after human review.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Fausto's Tower — FOW-stohz TOW-er` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

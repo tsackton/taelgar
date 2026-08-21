@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
@@ -34,6 +34,13 @@ Temporal coverage: an early DR 1720 portrait during Eleanor's advanced illness; 
 
 %%^Lint%%
 ## Taelgar note lint
+
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+
+### Validated judgments
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- Non-check status disposition: `status/gameupdate/clee` is not assessable pending the open temporal or coverage choice; no status was changed.
 
 ### Open findings
 

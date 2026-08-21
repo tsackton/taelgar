@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof>"}
 tags: [group]
 typeOf: family
@@ -11,7 +11,7 @@ name: Aatmaji dynasty
 pronunciation: AAT-mah-jee
 dm_owner: tim
 dm_notes: important
-POV: 1700s
+POV: modern
 ---
 # The Aatmaji Dynasty
 *(AAT-mah-jee)*
@@ -36,9 +36,8 @@ dv.table(["Person", "Info", "Born", "Died"],
 ```
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: historical reference
-povNotes: "Accuracy range: broadly the DR 1700s. The visible article is a current-setting retrospective on a dynasty that ended in DR 1395; its historical dates do not make the article's speaking point contemporary with the dynasty."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern. The visible article is a current-setting retrospective on a dynasty that ended in DR 1395; its historical dates do not make the article's speaking point contemporary with the dynasty.
 %%^End%%
 
 %%^Metadata:names:v1%%

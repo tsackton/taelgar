@@ -4,17 +4,6 @@ These are pages that need checking of some kind. Usually this is just a simple r
 
 ## Review
 
-### Lint Cleanup
-
-```dataview
-TABLE join(split(file.path, "/", 2), "/") as Folder, 
-      length(file.inlinks) as Backlinks
-FROM #status/check/lint
-WHERE lintVersion = "3.0" or lintVersion = "3.1"
-FLATTEN length(file.inlinks) AS BacklinkCount
-SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
-```
-
 
 ### Needs AI Cleanup
 

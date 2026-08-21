@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 tags: [event]
 typeOf: vision
@@ -31,9 +31,4 @@ Wellby attempts to read lips and gives a halting phonetic translation, not well 
 %%^Metadata:names:v1%%
 - {name: Hralgar's Eyes Vision, role: primary, language: Common, status: documented, notes: Descriptive title inherited from the subject Hralgar.}
 - {name: Hralgar, role: component, language: Giant, pronunciation: HRAL-gar, status: documented}
-%%^End%%
-
-%%^Metadata:article:v1%%
-mode: campaign mirror-vision record
-povNotes: Records the mirror vision shown on DR 1748-09-22; the vision itself ranges across Hralgar's earlier imprisonment and later discoveries.
 %%^End%%

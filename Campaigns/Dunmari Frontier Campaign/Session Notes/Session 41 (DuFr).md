@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [session-note]
 campaign: Dunmar Frontier
 sessionNumber: 41
@@ -69,8 +69,3 @@ Speaker [[Lara]] has traveled east, and spoken with Nayan [[Sura]], drawn, she t
 While a solution is not immediately apparent to Speaker [[Lara]], she has decided to send [[Johar]] to [[Nayahar]] to speak with [[Nayan Karnas]], to try to prevent war at least. However, rumor is that the roads are dangerous now, both from evil that may have slipped in to [[Dunmar]] over the last months, and from the usual banditry that is caused by famine and war. So, she asks the party to escort him, at least as far as the coast. 
 
 We end as the conversation fades and the party agrees that [[Johar]] will come with them to [[Darba]].
-
-%%^Metadata:article:v1%%
-mode: campaign record
-povNotes: "Accuracy range: DR 1748-07-06 through DR 1748-07-13. The bounded dates and campaign perspective are part of this authoritative source record; the note's viewpoint is the recorded session chronology."
-%%^End%%

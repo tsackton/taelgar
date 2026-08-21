@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [source]
 campaign: Lost in the Feywild
 name: "Aurae's Allegories"
@@ -58,10 +58,6 @@ Until, the man who dearly wanted to keep his friends safe learned that his neigh
 
 %%^Metadata:names:v1%%
 - {name: "Aurae's Allegories", role: primary, language: Common, status: documented, notes: Descriptive title for the allegories told by Aurae.}
-- {name: Aurae, role: name component, language: Drankorian, pronunciation: OUR-ray or ARR-ray, status: documented}
+- {name: Aurae, role: name component, language: Drankorian, pronunciation: OUR-ray or ARR-ray, notes: Recorded pronunciation; its source is not identified in the note., status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign primary-source collection
-povNotes: Records allegories told by Aurae to the Tollen Misfits during the Lost in the Feywild campaign in DR 1740; the stories are preserved as source material rather than tested as factual claims.
-%%^End%%

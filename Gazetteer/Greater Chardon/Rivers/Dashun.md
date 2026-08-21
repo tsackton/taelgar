@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
@@ -10,7 +10,7 @@ pronunciation: DAH-shoon
 whereabouts: Chardonian Empire
 dm_owner: none
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # Dashun
 *(DAH-shoon)*
@@ -30,7 +30,6 @@ locations:
   - {role: outlet, feature: Gulf of Chardon, map: world, locator: 13.07.C18}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: broadly the DR 1700s. The note describes a stable river course and does not depend on a campaign-era event or changing political condition."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern. The note describes a stable river course and does not depend on a campaign-era event or changing political condition.
 %%^End%%

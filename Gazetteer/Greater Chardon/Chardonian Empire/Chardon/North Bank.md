@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
+tags: [place]
 typeOf: neighborhood
 typeOfAlias: urban area
 name: North Bank
@@ -60,20 +60,10 @@ Landmark name ideas - not yet used
 | **Arcade of the Compass** | Summit Quarter | Covered colonnade holding workshops of instrument-makers; mosaics in the vault depict zodiacal constellations.         |
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: urban reference
-povNotes: "Accuracy range: through early DR 1749. Urban reference baseline before the damage and institutional changes recorded in Sessions 124-129."
+%%^Metadata:names:v1%%
+- {name: "North Bank", role: "primary", language: "Common", status: "documented"}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
-
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Session 48]], [[Darba (OneNote)]], [[Chardon Timeline]], [[Session 124 - DM Notes]], [[Session 126 - Brainstorming]], [[Session 126 - DM Notes]], [[Time Skip - Bullet Points]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+%%^povNotes:v1%%
+Temporal coverage: through early DR 1749. Urban reference baseline before the damage and institutional changes recorded in Sessions 124-129.
 %%^End%%

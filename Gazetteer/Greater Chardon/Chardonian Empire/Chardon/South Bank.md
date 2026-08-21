@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: neighborhood
 typeOfAlias: urban area
@@ -9,7 +9,7 @@ name: South Bank
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # The South Bank
 >[!info]+ Information  
@@ -20,7 +20,10 @@ The South Bank describes the bulk of the city of [[Chardon]], consisting of ever
 
 This is also the where Chardon gets its monicker the City of Towers, for the skyline of the South Bank is dominated by the hundreds of towers of Chardon, especially to the south and east, clustered around the ancient University district in [[Precinct IV]].
 
-%%^Metadata:article:v1%%
-mode: urban reference
-povNotes: "Accuracy range: approximately the DR 1740s. Urban Reference for South Bank; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "South Bank", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern urban geography and landmark layout; no dated change to the South Bank's extent or skyline is described.
 %%^End%%

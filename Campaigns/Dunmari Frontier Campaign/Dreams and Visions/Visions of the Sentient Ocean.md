@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [source]
 campaign: Dunmar Frontier
 name: Visions of the Sentient Ocean
@@ -83,7 +83,3 @@ Delwath thinks of the memory of the [[Meswati]], the lost gods of the [[Deno'qai
 *And with your answers and thoughts, it lets you pass, not sure of the answer, but trusting you to find the right one, and an ending that is better than the present.*
 
 
-%%^Metadata:article:v1%%
-mode: campaign vision record
-povNotes: Records the Sentient Ocean vision received during the Dunmar Frontier campaign in DR 1749; as a primary-source account, it preserves what the characters experienced rather than asserting an omniscient interpretation.
-%%^End%%

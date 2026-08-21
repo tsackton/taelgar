@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:57:54-04:00"
-lintVersion: "3.0"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/cleanup/metadata, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
@@ -41,8 +41,16 @@ Temporal coverage: broadly modern; the article describes the ancient city's dest
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+
+### Validated judgments
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- Non-check status disposition: `status/cleanup/metadata` is not assessable because they record human editorial intent; no status was changed.
+
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `kin-AHS-kah` as a cautious clear-vowel reading because the mixed Northros and Drankorian context does not establish one source language. If accepted, add `pronunciation: kin-AHS-kah` to frontmatter and change the entry to `status: documented`; otherwise revise the proposal.
-- [ ] **Warning — metadata.map_location_missing:** The required settlement map block has no locator. Fill the existing blank `locator` from the authoritative map; do not guess a coordinate.
+- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Kin-Aska — kin-AHS-kah` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

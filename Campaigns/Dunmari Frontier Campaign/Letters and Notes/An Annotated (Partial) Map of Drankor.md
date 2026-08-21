@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:57:54-04:00"
-lintVersion: "3.0"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [source]
 campaign: Dunmar Frontier
 name: An Annotated (Partial) Map of Drankor
@@ -31,8 +31,4 @@ It appears the river was lined with a series of defensive fortifications, towers
 
 %%^Metadata:names:v1%%
 - {name: An Annotated (Partial) Map of Drankor, role: primary, language: Common, status: documented}
-%%^End%%
-
-%%^povNotes:v1%%
-Temporal coverage: DR 1749; Nuzkar assembled and annotated this partial reconstruction during the Dunmar Fellowship's Tollen downtime, while the report and Drankorian material she quotes are much older source layers.
 %%^End%%

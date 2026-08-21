@@ -28,6 +28,7 @@ module TaelgarNoteLint
   SCHEMA_VERSION = 4
   DM_NOTES_REVIEW_VERSION = "3.0"
   NAME_REVIEW_VERSION = "3.2"
+  POV_REVIEW_VERSION = "3.2"
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
     activeYear subTypeOf subTypeOfAlias subspecies speciesAlias deity
@@ -76,6 +77,8 @@ module TaelgarNoteLint
     ancestry creature event group item object person place power
     organization
   ].freeze
+
+  CAMPAIGN_RECORD_TAGS = %w[session-note meta source].freeze
 
   NAME_STATUSES = %w[documented inferred proposed disputed unresolved].freeze
   OPEN_NAME_STATUSES = %w[proposed disputed unresolved].freeze
@@ -716,13 +719,15 @@ module TaelgarNoteLint
     def validate_text(path, text)
       note = ParsedNote.new(path, text)
       findings = []
+      dm_applicable = %w[tim joint none].include?(note.data["dm_owner"].to_s)
+      dm_sources = @dm_scanner && dm_applicable ? @dm_scanner.mentions(note) : []
 
       validate_frontmatter(note, findings)
       target_eligibility = validate_target_eligibility(note, findings)
       if note.frontmatter_state == :present && !note.yaml_error
         validate_identity_and_classification(note, findings)
         validate_campaign_metadata(note, findings)
-        validate_dm_metadata(note, findings)
+        validate_dm_metadata(note, findings, dm_sources)
         validate_content_blocks(note, findings)
         validate_editorial_mechanics(note, findings)
         validate_links(note, findings) if @check_links
@@ -741,6 +746,7 @@ module TaelgarNoteLint
           "statuses" => statuses
         },
         "targetEligibility" => target_eligibility,
+        "reviewGates" => contextual_review_gates(note, dm_sources),
         "findings" => findings.sort_by { |finding| finding_sort_key(finding) },
         "summary" => summarize(findings)
       }
@@ -1098,7 +1104,7 @@ module TaelgarNoteLint
       end.uniq
     end
 
-    def validate_dm_metadata(note, findings)
+    def validate_dm_metadata(note, findings, sources)
       if note.data.key?("dm_owner") && !DM_OWNERS.include?(note.data["dm_owner"].to_s)
         add(findings, "dm.owner_unknown", "error", "required",
             "Unknown dm_owner value: #{note.data['dm_owner']}.", line: note.field_line("dm_owner"))
@@ -1111,7 +1117,6 @@ module TaelgarNoteLint
       owner = note.data["dm_owner"].to_s
       return unless %w[tim joint none].include?(owner) && @dm_scanner
 
-      sources = @dm_scanner.mentions(note)
       return unless dm_notes_review_required?(note, sources)
 
       dm_notes = note.data["dm_notes"].to_s
@@ -1246,8 +1251,13 @@ module TaelgarNoteLint
 
       pov = text.match(/\(POV::\s*[^)]+\)/)
       if pov
+        message = if pov_notes_applicable?(note)
+                    "A legacy inline POV field is present; move its scalar viewpoint to frontmatter POV and preserve any qualification in the povNotes:v1 text block."
+                  else
+                    "A legacy inline POV field is present; move its scalar viewpoint to frontmatter POV. Campaigns notes tagged session-note, meta, or source do not use povNotes."
+                  end
         add(findings, "temporal.inline_pov", "suggestion", "recommended",
-            "A legacy inline POV field is present; move its scalar viewpoint to frontmatter POV and preserve any qualification in the povNotes:v1 text block.",
+            message,
             line: TaelgarNoteLint.line_number(text, pov.begin(0)), provisional: true)
       end
 
@@ -1339,6 +1349,11 @@ module TaelgarNoteLint
       end
       if pov_notes_blocks.any?
         payload, line, version, _start_offset, _end_offset = pov_notes_blocks.first
+        unless pov_notes_applicable?(note)
+          add(findings, "metadata.pov_notes_not_applicable", "error", "required",
+              "Campaigns notes tagged session-note, meta, or source require frontmatter POV but must not contain a povNotes block.",
+              line: line)
+        end
         if version != "1"
           add(findings, "metadata.invalid_pov_notes_version", "error", "required",
               "The povNotes block must use %%^povNotes:v1%%.", line: line)
@@ -1361,12 +1376,12 @@ module TaelgarNoteLint
         ]
       end
       legacy_article_blocks.each do |payload, line, _version, _start_offset, _end_offset|
-        validate_legacy_article_block(payload, findings, line)
+        validate_legacy_article_block(note, payload, findings, line)
       end
 
-      if note.data["lintedAt"] && pov_notes_blocks.empty?
+      if note.data["lintedAt"] && pov_notes_applicable?(note) && pov_notes_blocks.empty? && pov_review_required?(note)
         add(findings, "metadata.pov_notes_missing", "error", "required",
-            "Linted notes require a persistent %%^povNotes:v1%% text block.", line: 1)
+            "Temporal POV review requires a persistent %%^povNotes:v1%% text block.", line: 1)
       end
 
       if map_required?(note) && blocks["map"].empty?
@@ -1446,15 +1461,55 @@ module TaelgarNoteLint
       end
     end
 
-    def name_review_required?(note)
+    def contextual_review_gates(note, dm_sources)
+      dm_applicable = %w[tim joint none].include?(note.data["dm_owner"].to_s)
+      {
+        "names" => {
+          "minimumVersion" => NAME_REVIEW_VERSION,
+          "required" => name_review_required?(note)
+        },
+        "pov" => {
+          "minimumVersion" => POV_REVIEW_VERSION,
+          "required" => pov_review_required?(note),
+          "povNotesApplicable" => pov_notes_applicable?(note)
+        },
+        "dmNotes" => {
+          "minimumVersion" => DM_NOTES_REVIEW_VERSION,
+          "required" => dm_applicable && dm_notes_review_required?(note, dm_sources),
+          "evidenceComplete" => !dm_applicable || !@dm_scanner.nil?
+        }
+      }
+    end
+
+    def review_version_required?(note, minimum_version)
       linted_at = note.data["lintedAt"].to_s
       lint_version = note.data["lintVersion"].to_s
       return true if linted_at.strip.empty? || lint_version.strip.empty?
 
       Time.iso8601(linted_at)
-      Gem::Version.new(lint_version) < Gem::Version.new(NAME_REVIEW_VERSION)
+      Gem::Version.new(lint_version) < Gem::Version.new(minimum_version)
     rescue ArgumentError
       true
+    end
+
+    def name_review_required?(note)
+      review_version_required?(note, NAME_REVIEW_VERSION)
+    end
+
+    def pov_review_required?(note)
+      pov_notes_present?(note) || review_version_required?(note, POV_REVIEW_VERSION)
+    end
+
+    def pov_notes_present?(note)
+      searchable = text_without_lint_payload(TaelgarNoteLint.mask_markdown_code(note.text))
+      searchable.match?(/%%\^povNotes(?::[^%\n]+)?%%/)
+    end
+
+    def pov_notes_applicable?(note)
+      parts = Pathname.new(note.path).each_filename.to_a
+      return true unless parts.first == "Campaigns"
+
+      (note.tags & CAMPAIGN_RECORD_TAGS).empty?
     end
 
     def valid_name_block_present?(note)
@@ -1597,11 +1652,11 @@ module TaelgarNoteLint
       end
     end
 
-    def validate_legacy_article_block(payload, findings, line)
+    def validate_legacy_article_block(note, payload, findings, line)
       details = nil
       begin
         data = TaelgarNoteLint.yaml_load(payload)
-        if data.is_a?(Hash) && !data["povNotes"].to_s.strip.empty?
+        if pov_notes_applicable?(note) && data.is_a?(Hash) && !data["povNotes"].to_s.strip.empty?
           details = {
             "candidate" => "%%^povNotes:v1%%\n#{data['povNotes'].to_s.strip}\n%%^End%%"
           }
@@ -1611,8 +1666,13 @@ module TaelgarNoteLint
             "The legacy Metadata:article block is not valid YAML: #{error.message.lines.first.to_s.strip}",
             line: line)
       end
+      message = if pov_notes_applicable?(note)
+                  "Replace the legacy Metadata:article block with %%^povNotes:v1%% plain text, use its povNotes text as evidence when contextual POV review applies, and discard mode, profile, and other obsolete keys."
+                else
+                  "Remove the legacy Metadata:article block after preserving its scalar viewpoint in frontmatter POV. Campaigns notes tagged session-note, meta, or source do not use povNotes; discard mode, profile, and other obsolete keys."
+                end
       add(findings, "metadata.legacy_article_block", "suggestion", "recommended",
-          "Replace the legacy Metadata:article block with %%^povNotes:v1%% plain text, use its povNotes text as evidence for independent contextual reassessment, and discard mode, profile, and other obsolete keys.",
+          message,
           line: line, provisional: true, details: details)
     end
 

@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [power, religion/tanshi]
 typeOf: tanshi
 name: "Mek'ire"
 pronunciation: mehk-EER-eh
 dm_owner: none
 dm_notes: none
-POV: timeless
+POV: modern
 ---
 # Mek'ire
 *(mehk-EER-eh)*
@@ -21,7 +21,6 @@ The spirit of carving, particularly small and decorative carving, and finely ma
 - {name: "Mek'ire", role: primary, language: Deno'qai, pronunciation: mehk-EER-eh, status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: divine power reference
-povNotes: "Accuracy range: timeless. The article describes Mek'ire's enduring sphere and customary favor rather than a changing office, campaign state, or dated manifestation."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes Mek'ire's sphere and customary favor without a narrower dated manifestation.
 %%^End%%

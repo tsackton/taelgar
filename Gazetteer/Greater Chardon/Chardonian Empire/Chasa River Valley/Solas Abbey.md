@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: holy site
@@ -11,7 +11,7 @@ whereabouts:
   - {type: home, location: Chasa River Valley, startFilter: r}
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Solas Abbey
 >[!info]+ Information  
@@ -40,17 +40,24 @@ The abbey is currently occupied by a lone hermit/priest, who goes by [[Elderwood
 
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for Solas Abbey; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Solas Abbey", role: "primary", language: "Chardonian", pronunciation: "SOH-lahs abbey", notes: "Latin/Italian analogue for Solas with an English descriptive component.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern post-order view in which Solas Abbey is partially ruined and the Solatine Order is defunct; the date of abandonment and any earlier or later occupancy are not established.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Latin/Italian analogue for Solas with an English descriptive component. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Solas Abbey, language: Chardonian, pronunciation: SOH-lahs abbey, status: proposed}`. Accept it in frontmatter only after human review.
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Elderwood Arc NPCs]], [[Chasa River Valley (OneNote)]], [[SESSION II]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Solas Abbey — SOH-lahs abbey` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

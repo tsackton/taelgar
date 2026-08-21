@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: waterway
 typeOfAlias: brook
 name: Cedar Brook
@@ -12,7 +12,7 @@ whereabouts:
   - {type: secondary, location: Yeraad Watershed, startFilter: r}
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Cedar Brook
 >[!info]+ Information  
@@ -27,20 +27,24 @@ locations:
   - {role: outlet, feature: Silverflood, map: world, locator: }
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Cedar Brook; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Cedar Brook", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography of Cedar Brook's course from the Chataan Mountains to the Silverflood. Chalyte mining resumes in the surrounding region in DR 1749 and dramatically changes Alta Tonaro, without any established change to the brook's course.
 %%^End%%
 
 %%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
+## Taelgar note lint
 
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
 
 ### Open findings
-- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks source.locator, outlet.locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+
+- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: source.locator, outlet.locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+
 %%^End%%

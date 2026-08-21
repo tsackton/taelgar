@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:57:54-04:00"
-lintVersion: "3.0"
-tags: [place, status/gameupdate/dufr]
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
+tags: [place, status/gameupdate/dufr, status/check/ai]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Chataan Mountains
@@ -29,5 +29,5 @@ To the northeast, the Chataans merge with the rugged hills of the [[Myraeni Gap]
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern; the article describes stable topography and climate. Post DR 1749, became a major chalyte mining region, and was incorporated much more strongly into the Chardonian Empire. These mining and political developments do not change the geographic description.
+Temporal coverage: broadly modern; the article describes stable topography and climate. Beginning in DR 1749, the resumption of chalyte mining and much stronger Chardonian imperial incorporation dramatically transformed the region, although those developments do not change the geographic description.
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: building
 typeOfAlias: bastion
@@ -37,9 +37,8 @@ DM notes: [[GL - Session 38 - DM Notes]]
 
 %%
 
-%%^Metadata:article:v1%%
-mode: campaign reference
-povNotes: "Accuracy range: DR 1747–1748. This describes the Silver Tempests' manor during their active use of it as a Voltara base. Later DR 1752 evidence suggests that access or control changed during the time skip, but does not make this deliberately historical snapshot incorrect."
+%%^povNotes:v1%%
+Temporal coverage: DR 1747–1748. This describes the Silver Tempests' manor during their active use of it as a Voltara base. Later DR 1752 evidence suggests that access or control changed during the time skip, but does not make this deliberately historical snapshot incorrect.
 %%^End%%
 
 %%^Metadata:names:v1%%

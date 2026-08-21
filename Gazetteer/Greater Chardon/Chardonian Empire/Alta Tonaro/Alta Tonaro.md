@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/ai]
 typeOf: realm
 typeOfAlias: province
 name: Alta Tonaro
@@ -11,7 +11,7 @@ whereabouts:
   - {type: primary, location: Chardonian Empire}
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Alta Tonaro
 >[!info]+ Information  
@@ -30,16 +30,24 @@ But it was not to last. By DR 1704 [[chalyte]] production had peaked, and in DR 
 
 Since then, silver production has continued around [[Argento]], but, though valuable, silver has only a tiny fraction of the value of [[chalyte]], and [[Alta Tonaro]] is now considered a poor backwater by most.
 
-%%^Metadata:article:v1%%
-mode: political-geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Alta Tonaro; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Alta Tonaro", role: "primary", language: "Chardonian", pronunciation: "AHL-tah toh-NAH-roh", notes: "Italian/Latin analogue: open vowels and penultimate stress in Tonaro.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a post-DR 1720 provincial view after the chalyte boom and closure of the surface mines; the account separately traces the boom and decline from DR 1689 through DR 1720. Beginning in DR 1749, renewed chalyte mining dramatically transforms the province; the visible description of Alta Tonaro as a poor backwater applies only before that change.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Italian/Latin analogue: open vowels and penultimate stress in Tonaro. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Alta Tonaro, language: Chardonian, pronunciation: AHL-tah toh-NAH-roh, status: proposed}`. Accept it in frontmatter only after human review.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Alta Tonaro — AHL-tah toh-NAH-roh` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

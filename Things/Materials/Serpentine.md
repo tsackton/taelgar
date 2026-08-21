@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [object]
 typeOf: material
 name: Serpentine
 knownTo: [adma, clee]
 dm_owner: none
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # Serpentine
 >[!info]+ Information  
@@ -28,7 +28,6 @@ Serpentine weapons have featured in Addermarch campaign; serpentine also feature
 - {name: Serpentine, role: primary, language: Common, status: documented, notes: Ordinary Common material name.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: material reference
-povNotes: The magical properties and historical role are stable across the 1700s; campaign appearances add examples rather than changing the material's definition.
+%%^povNotes:v1%%
+Temporal coverage: the magical properties and historical role are stable across the 1700s; campaign appearances add examples rather than changing the material's definition.
 %%^End%%

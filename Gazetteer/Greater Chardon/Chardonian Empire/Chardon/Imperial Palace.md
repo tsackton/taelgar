@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
+tags: [place]
 typeOf: building
 typeOfAlias: palace
 ancestry: Chardonian
@@ -10,7 +10,7 @@ name: Imperial Palace
 whereabouts: Chardon
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: 1749
 ---
 # The Imperial Palace
 >[!info]+ Information  
@@ -36,19 +36,10 @@ DM notes / sources
 
 %%
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for Imperial Palace; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Imperial Palace", role: "primary", language: "Common", status: "documented"}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Session 48]], [[Session 126 - DM Notes]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 snapshot of the palace under Mitus Verina Auratan, including the audience spaces and security recorded during the Dunmar Fellowship's visit; earlier and later administrations are not described.
 %%^End%%

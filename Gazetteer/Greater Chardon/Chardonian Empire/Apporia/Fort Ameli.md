@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: building
@@ -12,7 +12,7 @@ whereabouts:
   - {type: secondary, location: Apporia, startFilter: "1"}
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Fort Ameli
 >[!info]+ Information  
@@ -23,17 +23,24 @@ Fort Ameli is a [[Chardonian Empire|Chardonian]] fort that guards the entrance t
 
 Ships making passage through the canal are required to dock here, pay tolls, and take on a windcaller pilot.
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for Fort Ameli; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Fort Ameli", role: "primary", language: "Chardonian", pronunciation: "fort ah-MEH-lee", notes: "Italian/Latin analogue: pure vowels and penultimate stress in Ameli.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern view of the fort's canal-control role and pilot procedures; its Drankorian construction and repeated rebuilding are older history without established dates.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Italian/Latin analogue: pure vowels and penultimate stress in Ameli. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Fort Ameli, language: Chardonian, pronunciation: fort ah-MEH-lee, status: proposed}`. Accept it in frontmatter only after human review.
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Session 47]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Fort Ameli — fort ah-MEH-lee` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

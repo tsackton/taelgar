@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: settlement
 typeOfAlias: market town
@@ -10,7 +10,7 @@ pronunciation: TY-gayt
 whereabouts: Addermarch
 dm_owner: none
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # Tygate
 *(TY-gayt)*
@@ -22,9 +22,8 @@ Tygate is a small market town near the southern sources of the [[Aure]], set aga
 
 The main road from Adderfell passes through Tygate before turning southwest to supply [[Darkwood Keep]] on the frontier.
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: the DR 1700s broadly."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern.
 %%^End%%
 
 %%^Metadata:names:v1%%

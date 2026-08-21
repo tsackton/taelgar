@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place, status/wip, status/check/lint]
 typeOf: region
@@ -194,20 +194,30 @@ Major features include a major river, large forests to the east against the Sent
 
 %%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: uneven across the DR 1740s. Regional reference draft; visible placeholders and mixed development material make the article incomplete."
+%%^Metadata:names:v1%%
+- {name: "Greater Chardon", role: "primary", language: "Chardonian", pronunciation: "GREY-ter KAR-dohn", notes: "Latinate Chardonian reading for Chardon with an English descriptive component.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: uneven across the DR 1740s. Regional reference draft; visible placeholders and mixed development material make the article incomplete.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Normalized campaign-block codes.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- Non-check status disposition: `status/wip` is supported by the note's current structure or cited campaign state; no status was changed.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Latinate Chardonian reading for Chardon with an English descriptive component. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Greater Chardon, language: Chardonian, pronunciation: GREY-ter KAR-dohn, status: proposed}`. Accept it in frontmatter only after human review.
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Uncategorized Events]], [[Mawar Religion]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
-- [ ] **Warning — status.disposition:** Existing status `status/wip` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+
 - [ ] **Warning — editorial.scope_incomplete:** The article retains status/wip, visible placeholders, raw drafting, and mixed canonical and developmental material. Candidate: complete a scoped editorial rewrite only after separately approving the intended canonical article structure.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Greater Chardon — GREY-ter KAR-dohn` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

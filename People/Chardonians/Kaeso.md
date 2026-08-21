@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -98,24 +98,25 @@ Source links:
 - {name: Kaeso, role: primary, language: Chardonian, pronunciation: KAI-soh, status: proposed, notes: Chardonian uses Latin and Italian analogues; ae is read as a diphthong and the opening consonant remains hard. An Italianized KAY-zoh is a plausible alternative if intervocalic s is voiced.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign-aware character reference
-povNotes: The visible biography is a late-1748 to 1749 snapshot. Kaeso's whereabouts in Hamri and later scrying appearances need consolidation before the note can reliably answer where he is within that interval.
+%%^povNotes:v1%%
+Temporal coverage: the visible biography is a late-1748 to 1749 snapshot. Kaeso's whereabouts in Hamri and later scrying appearances need consolidation before the note can reliably answer where he is within that interval.
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- Non-check status disposition: `status/cleanup/metadata`, `status/cleanup/text` are not assessable because they record human editorial intent; no status was changed.
+
 ### Open findings
 
-- [ ] **warning — name.pronunciation_missing:** `KAI-soh` is the preferred analogue-informed proposal. [[Languages]] maps Chardonian to Latin and Italian; Classical Latin reads `ae` as a diphthong, keeps the opening consonant hard, and does not voice intervocalic `s`. `KAY-zoh` is a plausible more Italianized alternative. If `KAI-soh` is accepted, copy `pronunciation: KAI-soh` and change the name entry to `status: documented`.
-- [ ] **suggestion — coverage.campaign_update:** The visible biography and campaign metadata do not yet consolidate the later Mawar stay and Dunmar Frontier scrying material already listed in the shared review comment. Copy-ready visible candidate from [[Mawar Adventures Episode 05]]: By DR 1749, Kaeso was staying in [[Hamri]], where he had warned local leaders about Chardon's exploitation of magic and the dangers of chalyte. The exact date for the later February scrying remains unresolved, so no additional `campaignInfo` row should be copied until it is confirmed.
+- [ ] **suggestion — coverage.established_fact_missing:** The visible biography and campaign metadata do not yet consolidate the later Mawar stay and Dunmar Frontier scrying material already listed in the shared review comment. Copy-ready visible candidate from [[Mawar Adventures Episode 05]]: By DR 1749, Kaeso was staying in [[Hamri]], where he had warned local leaders about Chardon's exploitation of magic and the dangers of chalyte. The exact date for the later February scrying remains unresolved, so no additional `campaignInfo` row should be copied until it is confirmed.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Kaeso — KAI-soh` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
 
-### Applied changes
-
-- Removed the unaccepted pronunciation proposal from frontmatter; it remains correctly marked `status: proposed` in the persistent name block.
-
-### Validated
-
-- The existing positive `dm_notes` value is supported by linked local-only notes. The cleanup tags remain justified by the unintegrated material.
 %%^End%%

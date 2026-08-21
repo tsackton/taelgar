@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person]
 species: orc
 born: 1698
@@ -17,7 +17,7 @@ whereabouts:
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
-POV: 1740s
+POV: "1740s"
 ---
 # Nuzkar
 *(NUZ-car)*
@@ -63,7 +63,6 @@ Her sister is eager to go with her -- Aygul has always been the type who would h
 - {name: Nuzkar, role: primary, language: Orcish, pronunciation: NUZ-car}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: character reference with dated fact and shared development history
-povNotes: "The general description and family relationships fit a generic DR 1740s context. The DR 1748 and DR 1749 date blocks record Nuzkar's rededication and later departure with Riswynn, while the commented history remains unintroduced backstory development."
+%%^povNotes:v1%%
+Temporal coverage: the general description and family relationships fit a generic DR 1740s context. The DR 1748 and DR 1749 date blocks record Nuzkar's rededication and later departure with Riswynn, while the commented history remains unintroduced backstory development.
 %%^End%%

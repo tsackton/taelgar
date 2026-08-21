@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -37,7 +37,6 @@ In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, l
 - {name: Apollyon, role: name component, language: Drankorian, pronunciation: ah-pol-LEE-on, status: documented, notes: Accepted pronunciation recorded on the Apollyon subject note.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign-era place reference
-povNotes: "Accuracy range: DR 1749 after the Dunmar Fellowship's assault. The visible article combines stable physical and historical description with the party's dated exploration; the SECRET block contains private encounter design rather than a second article viewpoint."
+%%^povNotes:v1%%
+Temporal coverage: DR 1749 after the Dunmar Fellowship's assault. The visible article combines stable physical and historical description with the party's dated exploration.
 %%^End%%

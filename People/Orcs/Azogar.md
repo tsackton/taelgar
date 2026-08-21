@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person]
 species: orc
 campaignInfo:
@@ -42,4 +42,3 @@ Azogar is very knowledgeable about the history of his people, and can tell many 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1748-1749 campaign portrait of Azogar's role and appearance.
 %%^End%%
-

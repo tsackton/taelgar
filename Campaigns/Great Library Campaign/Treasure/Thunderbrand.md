@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [object]
 typeOf: warhammer
 typeOfAlias: magical warhammer
@@ -23,7 +23,6 @@ A powerful magical warhammer, of dwarven make, currently wielded by [[Adrik]]. I
 - {name: Thunderbrand, role: primary, language: Common, status: inferred, notes: descriptive Common compound}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign object reference
-povNotes: "Accuracy range: through DR 1748-08-25. Great Library records establish that the Silver Tempests recovered and empowered Thunderbrand and that Adrik still wielded it during Arc 4; later campaign invention could change the present-tense ownership."
+%%^povNotes:v1%%
+Temporal coverage: through DR 1748-08-25. Great Library records establish that the Silver Tempests recovered and empowered Thunderbrand and that Adrik still wielded it during Arc 4; later campaign invention could change the present-tense ownership.
 %%^End%%
