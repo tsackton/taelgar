@@ -1,6 +1,10 @@
 currentLinterVersion:: "3.4"
+lintedCleanAfter:: 2026-08-21T18:00:45-04:00
+lintedAfter:: 2026-08-21T18:00:45-04:00
 
 ### Need Lint Cleanup
+
+Has the lint status tag and the current linter version. 
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
@@ -13,7 +17,7 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 
 ## Recent Runs
 
-lintedAfter:: 2026-08-21T10:06:45-04:00
+All linted notes after the lintedAfter time above. 
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder,
@@ -34,9 +38,7 @@ SORT POV
 
 ## Linted Clean
 
-Set `lintedCleanAfter` to the ISO 8601 date and time after which cleanly linted notes should appear. The default preserves all existing results.
-
-lintedCleanAfter:: 2026-08-21T10:06:45-04:00
+All linted notes with no status tag, current version, and linted after the lintedCleanAfter date. 
 
 
 ```dataview
@@ -56,6 +58,8 @@ SORT POV
 
 ## Linted Clean, DM Owner or DM Notes Remain
 
+All linted notes with no status tag, current version, linted after the lintedCleanAfter date, and not none for either dm owner or dm notes. 
+
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks, dm_notes as "DM Notes", dm_owner as "DM Owner"
@@ -67,6 +71,7 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 
 ## Linted Clean, DM Owner None
 
+All linted notes with no status tag, current version, linted after the lintedCleanAfter date, and none for dm owner.
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
@@ -78,6 +83,8 @@ SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
 
 ## Linted Clean, DM Notes None
+
+All linted notes with no status tag, current version, linted after the lintedCleanAfter date, and none for dm notes.
 
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
