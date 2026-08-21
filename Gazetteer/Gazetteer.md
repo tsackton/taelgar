@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
-excludePublish: ["all"]
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
+tags: [meta, status/check/lint]
+name: Gazetteer
+excludePublish: [all]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Gazetteer
 
@@ -12,7 +16,7 @@ This directory contains **character-facing**, **meta**, and **in-world** pages a
 ## Region Organization and Notes
 Using this as a place for tracking general organization across regions. Regions are generally 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## Regions of Taelgar
 ```dataviewjs
 const { util } = customJS
@@ -126,3 +130,21 @@ FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Gazetteer")))
 SORT length(file.inlinks) DESC
 ```
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern as a vault-maintenance index; its query results change with the current contents of the Gazetteer.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit meta-page name, normalized the private-block sentinel to `Campaign:none`, and added persistent temporal metadata for the live vault index.
+
+### Validated judgments
+- The `Campaign:none` block is an operational Dataview index rather than narrative DM material.
+- The local-only `_DM_` candidates were generic matches to the word Gazetteer and do not justify changing `dm_notes: none`.
+
+### Open findings
+- [ ] **Suggestion — editorial.prose_clarity:** The passage `Using this as a place for tracking general organization across regions. Regions are generally` ends with an incomplete sentence and obscures the section's purpose. Copy-ready replacement: `This section tracks general organization across regions.`
+%%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
 tags: [place, status/wip, status/check/lint]
 typeOf: region
@@ -205,19 +205,17 @@ Temporal coverage: uneven across the DR 1740s. Regional reference draft; visible
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+### Editorial assessment
+- **Underdeveloped** — The visible note does not yet perform its regional-reference role. Its current boundaries are unclear, its in-world introduction is still a placeholder, and its central topography, civilizations and cultures, climate, and present-day regional organization remain placeholders or mixed draft material. The smallest useful scope is to settle the region's boundaries, then replace the central placeholders with a concise sourced overview while retaining unresolved development outside the canonical article.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/wip` is supported by the note's current structure or cited campaign state; no status was changed.
+- Non-check status disposition: status/wip is supported by the visible placeholders, raw drafting, and unfinished regional structure; no status was changed.
+- Shared nonpublic units were reviewed as editorial planning, source pointers, placeholders, or unresolved development material; none independently supplied a safe automatic public rewrite.
 
 ### Open findings
 
-- [ ] **Warning — editorial.scope_incomplete:** The article retains status/wip, visible placeholders, raw drafting, and mixed canonical and developmental material. Candidate: complete a scoped editorial rewrite only after separately approving the intended canonical article structure.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Greater Chardon — GREY-ter KAR-dohn` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — consistency.cross_note:** The visible old-page boundaries include Apporia, the Nevos Sea, Illoria, the Mawakel Peninsula, and other western lands, while [[Geography of Taelgar]] now lists Greater Chardon, the Northwest Coast, and Nevos and Apporia as separate major regions. Candidate: decide the current Greater Chardon boundary first, then align the visible overview, boundary list, regional links, and any downstream location relationships to that adopted scope.
+- [ ] **Warning — coverage.established_fact_missing:** The article's central overview, topography, cultures, and climate remain placeholders even though [[Geography of Taelgar]], [[Chardonian Empire]], [[Coastlands]], and the linked watershed and Apporian notes establish substantial regional geography and current political context. After the boundary decision, replace the placeholders with a concise in-world overview of the region's settled scope, major landforms and waterways, principal cultures and realms, and broad climate; preserve source uncertainty rather than importing the hidden speculative material as canon.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent Greater Chardon name entry remains status: proposed with the pronunciation GREY-ter KAR-dohn. Review its mixed Common and Chardonian derivation, then accept the pronunciation in frontmatter or correct the persistent entry.
 
 %%^End%%

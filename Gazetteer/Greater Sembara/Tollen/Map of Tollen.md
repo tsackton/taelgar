@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 tags: [background]
-dm_notes: none
+name: Map of Tollen
 dm_owner: tim
+dm_notes: none
+POV: 1740s
 ---
 # Map of Tollen
 
@@ -31,9 +35,9 @@ Numbered from 1 to 17:
 
 *A note about "Inner" and "Outer" wards:*
 
-Riversgate, Fairgate, and Brooklawn are split into "Inner" (inside the walls) and "Outer" (outside the walls). Riversgate and Brooklawn were divided when the walls were expanded west; Fairgate Outer grew up around the [[Fairgrounds (Tollen)]] north of the city. The boundaries of Outer wards are approximate. 
+Riversgate, Fairgate, and Brooklawn are split into "Inner" (inside the walls) and "Outer" (outside the walls). Riversgate and Brooklawn were divided when the walls were expanded west; Fairgate Outer grew up around the [[Fairgrounds (Tollen)]] north of the city. The boundaries of Outer wards are approximate.
 
-The northern wards (Guildgate, Godshome, Nordgate) and eastern wards (Magnus Street, Skepwalk) are not split into "Inner" and "Outer". There is little settlement beyond the eastern walls, because of the marshes. The best farmland in the Tollen area is along the banks of the Carnbrook, so north of the northern wards is mostly fields; the small villages in this direction have not been incorporated into the city. 
+The northern wards (Guildgate, Godshome, Nordgate) and eastern wards (Magus Street, Skepwalk) are not split into "Inner" and "Outer". There is little settlement beyond the eastern walls, because of the marshes. The best farmland in the Tollen area is along the banks of the Carnbrook, so north of the northern wards is mostly fields; the small villages in this direction have not been incorporated into the city.
 
 ## Gates
 _from east to west_
@@ -47,7 +51,7 @@ Guild Gate
 [[Fair Gate]]
 [[Tanner's Gate (Tollen)|Tanner's Gate]]
 River Gate
-East Gate
+West Gate
 
 ## Rivers
 _from east to west_
@@ -60,6 +64,10 @@ Little River, channeled and partially covered in some places
 
 ## Terrain
 
-Green areas are swampy, though much of this has been drained and reclaimed. 
+Green areas are swampy, though much of this has been drained and reclaimed.
 
-Lighter brown areas are low rises or small hills, the most significant of which is in Haurhill, to the west. 
+Lighter brown areas are low rises or small hills, the most significant of which is in Haurhill, to the west.
+
+%%^povNotes:v1%%
+Temporal coverage: the complete 17-ward layout is established for the 1740s; at earlier dates some newer outer wards may not yet exist, but their settlement dates are not established.
+%%^End%%
