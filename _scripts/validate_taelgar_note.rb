@@ -688,10 +688,11 @@ module TaelgarNoteLint
   class Validator
     attr_reader :registry
 
-    def initialize(root:, check_links: true, index: nil)
+    def initialize(root:, check_links: true, index: nil, force_dm_notes_review: false)
       @root = Pathname.new(root).expand_path
       @registry = CampaignRegistry.new(@root)
       @check_links = check_links
+      @force_dm_notes_review = force_dm_notes_review
       @index = index || (check_links ? NoteIndex.new(@root) : nil)
       @dm_scanner = check_links ? DMNoteScanner.new(root: @root, index: @index) : nil
     end
@@ -1140,6 +1141,8 @@ module TaelgarNoteLint
     end
 
     def dm_notes_review_required?(note, sources)
+      return true if @force_dm_notes_review
+
       linted_at = note.data["lintedAt"].to_s
       lint_version = note.data["lintVersion"].to_s
       return true if linted_at.strip.empty? || lint_version.strip.empty?

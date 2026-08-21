@@ -209,6 +209,38 @@ class BatchLintTaelgarNotesTest < Minitest::Test
                     "metadata.pov_notes_missing"
   end
 
+  def test_preparer_can_force_only_the_dm_review_gate_for_targeted_repair
+    root = make_vault
+    path = "People/Forced DM Review.md"
+    note = person_note("Forced DM Review", linted: true).sub(
+      "knownTo: []\n",
+      "knownTo: []\ndm_owner: tim\ndm_notes: none\n"
+    )
+    write_note(root, path, note)
+    dm_path = File.join(root, "_DM_", "Forced DM Review Notes.md")
+    write_note(root, "_DM_/Forced DM Review Notes.md", "# Notes\n\n[[Forced DM Review]] has private material.\n")
+    old_time = Time.iso8601("2026-08-19T08:00:00-04:00")
+    File.utime(old_time, old_time, dm_path)
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(root, "commit", "-q", "-m", "record lint state")
+
+    ordinary = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
+    forced = TaelgarNoteLint::Batch::Preparer.new(root: root, force_dm_notes_review: true).prepare([path])
+
+    assert_equal [], ordinary.fetch("forcedReviewGates")
+    refute ordinary.dig("notes", 0, "deterministic", "reviewGates", "dmNotes", "required")
+    assert_equal ["dmNotes"], forced.fetch("forcedReviewGates")
+    assert forced.dig("notes", 0, "deterministic", "reviewGates", "dmNotes", "required")
+    assert_equal ["_DM_/Forced DM Review Notes.md"],
+                 forced.dig("notes", 0, "deterministic", "findings")
+                       .select { |finding| finding["ruleId"] == "dm.notes_private_evidence_review" }
+                       .flat_map { |finding| finding.dig("details", "sources") }
+                       .map { |source| source.fetch("path") }
+  end
+
   def test_newer_local_dm_evidence_routes_a_current_note_for_review
     root = make_vault
     path = "People/Alpha Person.md"
