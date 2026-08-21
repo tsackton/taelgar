@@ -9,7 +9,7 @@ name: River Bridge
 aliases: [River Bridge]
 whereabouts: Chardon
 dm_owner: tim
-dm_notes: color
+dm_notes: none
 POV: modern
 ---
 # The River Bridge

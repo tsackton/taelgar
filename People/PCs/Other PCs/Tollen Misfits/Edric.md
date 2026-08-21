@@ -15,7 +15,7 @@ whereabouts:
   - {type: away, start: 1740-10-05, location: Twilight Kingdom}
 knownTo: [feywild]
 dm_owner: player
-dm_notes: important
+dm_notes: none
 POV: 1740
 ---
 # Edric
