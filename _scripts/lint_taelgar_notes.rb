@@ -9,6 +9,7 @@
 # checksum, prior-state, and deterministic-validation preflight.
 
 require "digest"
+require "fileutils"
 require "json"
 require "open3"
 require "optparse"
@@ -20,8 +21,17 @@ require_relative "validate_taelgar_note"
 
 module TaelgarNoteLint
   module Batch
-    SCHEMA_VERSION = 1
-    DECISION_SCHEMA_VERSION = 1
+    SCHEMA_VERSION = 2
+    DECISION_SCHEMA_VERSION = 2
+    WORKSPACE_SCHEMA_VERSION = 1
+    DEFAULT_MAX_NOTES = 10
+    DEFAULT_MAX_TOKENS = 30_000
+    ESTIMATED_CHARACTERS_PER_TOKEN = 3
+    EDITORIAL_VERDICTS = [
+      "Sufficient",
+      "Sufficient, worth expanding",
+      "Underdeveloped"
+    ].freeze
 
     class BatchError < StandardError; end
 
@@ -98,7 +108,27 @@ module TaelgarNoteLint
     def ensure_objectively_lintable_note!(note)
       return if objectively_lintable_note?(note)
 
-      raise BatchError, "Note has no authored body candidate for a complete subject-matter sentence and is not lintable: #{note.path}"
+      raise BatchError, "Note has no authored body candidate after objective blank-stub screening and is not lintable: #{note.path}"
+    end
+
+    def estimated_input_tokens(record)
+      bytes = record.dig("file", "bytes").to_i
+      packet = record.merge(
+        "candidateRelativePath" => "candidates/#{record.fetch('path')}",
+        "estimatedInputTokens" => 0
+      )
+      packet_bytes = JSON.pretty_generate(packet).bytesize + 256
+      ((bytes + packet_bytes).to_f / ESTIMATED_CHARACTERS_PER_TOKEN).ceil
+    end
+
+    def ensure_external_review_dir!(root, path)
+      root = Pathname.new(root).expand_path
+      path = Pathname.new(path).expand_path
+      if path == root || path.to_s.start_with?("#{root}#{File::SEPARATOR}")
+        raise BatchError, "Review workspace must be outside the vault: #{path}"
+      end
+
+      path
     end
 
     def valid_completion_pair?(note)
@@ -307,8 +337,15 @@ module TaelgarNoteLint
           {
             "path" => path,
             "expectedSha256" => Batch.file_sha256(@root.join(path)),
+            "candidateSha256" => Batch.file_sha256(@root.join(path)),
+            "eligibility" => "eligible",
+            "eligibilityReason" => nil,
+            "editorialVerdict" => nil,
             "outcome" => "review_required",
-            "lintReport" => nil
+            "lintReport" => nil,
+            "handoff" => nil,
+            "needsAdjudication" => false,
+            "adjudication" => "not_required"
           }
         end
         {
@@ -330,6 +367,269 @@ module TaelgarNoteLint
         return if @manifest["validatorVersion"].to_s == VERSION
 
         raise BatchError, "Manifest validator version #{@manifest['validatorVersion'].inspect} does not match #{VERSION}."
+      end
+    end
+
+    class WorkspaceBuilder
+      def initialize(root:, manifest:, manifest_sha256:, output_dir:, max_notes: DEFAULT_MAX_NOTES,
+                     max_tokens: DEFAULT_MAX_TOKENS)
+        @root = Pathname.new(root).expand_path
+        @manifest = manifest
+        @manifest_sha256 = manifest_sha256
+        @output_dir = Batch.ensure_external_review_dir!(@root, output_dir)
+        @max_notes = Integer(max_notes)
+        @max_tokens = Integer(max_tokens)
+        raise BatchError, "Shard limits must be positive." unless @max_notes.positive? && @max_tokens.positive?
+      rescue ArgumentError, TypeError
+        raise BatchError, "Shard limits must be positive integers."
+      end
+
+      def build
+        records = validate_manifest!
+        prepare_output_dir!
+        shards = build_shards(records)
+        copy_candidates(records)
+        shard_records = shards.each_with_index.map { |shard, index| write_shard(shard, index + 1) }
+        workspace = {
+          "schemaVersion" => WORKSPACE_SCHEMA_VERSION,
+          "decisionSchemaVersion" => DECISION_SCHEMA_VERSION,
+          "validatorVersion" => VERSION,
+          "manifestSha256" => @manifest_sha256,
+          "createdAt" => Time.now.iso8601,
+          "maxNotes" => @max_notes,
+          "maxEstimatedInputTokens" => @max_tokens,
+          "shards" => shard_records
+        }
+        write_json(@output_dir.join("workspace.json"), workspace)
+        workspace
+      end
+
+      private
+
+      def validate_manifest!
+        unless @manifest["schemaVersion"] == SCHEMA_VERSION
+          raise BatchError, "Unsupported batch manifest schema: #{@manifest['schemaVersion'].inspect}"
+        end
+        unless @manifest["validatorVersion"].to_s == VERSION
+          raise BatchError, "Manifest validator version #{@manifest['validatorVersion'].inspect} does not match #{VERSION}."
+        end
+
+        records = @manifest.fetch("notes").sort_by { |record| record.fetch("path") }
+        paths = records.map { |record| record.fetch("path") }
+        raise BatchError, "Manifest contains duplicate note paths." unless paths.uniq.length == paths.length
+
+        records.each do |record|
+          path = record.fetch("path")
+          Batch.ensure_lintable_path!(path)
+          unless Batch.relative_note_path(@root, path) == path
+            raise BatchError, "Manifest contains a noncanonical note path: #{path}"
+          end
+          absolute = @root.join(path)
+          raise BatchError, "Note does not exist: #{path}" unless absolute.file?
+          expected_sha = record.dig("file", "sha256").to_s
+          if expected_sha.empty? || Batch.file_sha256(absolute) != expected_sha
+            raise BatchError, "Live note changed after preparation: #{path}"
+          end
+          note = ParsedNote.new(path, TaelgarNoteLint.read_text(absolute))
+          Batch.ensure_objectively_lintable_note!(note)
+          unless Batch.completion_state(note) == record.fetch("priorCompletionState")
+            raise BatchError, "Lint completion state changed after preparation: #{path}"
+          end
+        end
+        records
+      end
+
+      def prepare_output_dir!
+        if @output_dir.exist? && (!@output_dir.directory? || @output_dir.children.any?)
+          raise BatchError, "Review workspace must be absent or empty: #{@output_dir}"
+        end
+        FileUtils.mkdir_p(@output_dir.join("candidates"))
+        FileUtils.mkdir_p(@output_dir.join("packets"))
+        FileUtils.mkdir_p(@output_dir.join("results"))
+        [@output_dir, @output_dir.join("candidates"), @output_dir.join("packets"), @output_dir.join("results")].each do |directory|
+          File.chmod(0o700, directory)
+        end
+      end
+
+      def build_shards(records)
+        shards = []
+        current = []
+        current_tokens = 0
+        records.each do |record|
+          estimate = Batch.estimated_input_tokens(record)
+          if current.any? && (current.length >= @max_notes || current_tokens + estimate > @max_tokens)
+            shards << current
+            current = []
+            current_tokens = 0
+          end
+          current << [record, estimate]
+          current_tokens += estimate
+        end
+        shards << current unless current.empty?
+        shards
+      end
+
+      def copy_candidates(records)
+        records.each do |record|
+          path = record.fetch("path")
+          destination = @output_dir.join("candidates", path)
+          FileUtils.mkdir_p(destination.dirname)
+          destination.dirname.ascend do |directory|
+            break if directory == @output_dir
+
+            File.chmod(0o700, directory)
+          end
+          File.binwrite(destination, File.binread(@root.join(path)))
+          File.chmod(0o600, destination)
+        end
+      end
+
+      def write_shard(shard, number)
+        shard_id = format("shard-%03d", number)
+        packet_path = "packets/#{shard_id}.json"
+        result_path = "results/#{shard_id}.json"
+        estimated_tokens = shard.sum { |_record, estimate| estimate }
+        packet_notes = shard.map do |record, estimate|
+          record.merge(
+            "candidateRelativePath" => "candidates/#{record.fetch('path')}",
+            "estimatedInputTokens" => estimate
+          )
+        end
+        result_notes = shard.map do |record, _estimate|
+          {
+            "path" => record.fetch("path"),
+            "candidateSha256" => record.dig("file", "sha256"),
+            "eligibility" => "review_required",
+            "eligibilityReason" => nil,
+            "editorialVerdict" => nil,
+            "outcome" => "review_required",
+            "lintReport" => nil,
+            "handoff" => nil,
+            "needsAdjudication" => false,
+            "adjudication" => "not_required"
+          }
+        end
+        packet = {
+          "schemaVersion" => SCHEMA_VERSION,
+          "validatorVersion" => VERSION,
+          "manifestSha256" => @manifest_sha256,
+          "shardId" => shard_id,
+          "estimatedInputTokens" => estimated_tokens,
+          "notes" => packet_notes
+        }
+        result = {
+          "schemaVersion" => DECISION_SCHEMA_VERSION,
+          "validatorVersion" => VERSION,
+          "manifestSha256" => @manifest_sha256,
+          "shardId" => shard_id,
+          "notes" => result_notes
+        }
+        write_json(@output_dir.join(packet_path), packet)
+        write_json(@output_dir.join(result_path), result)
+        {
+          "id" => shard_id,
+          "packet" => packet_path,
+          "result" => result_path,
+          "noteCount" => shard.length,
+          "estimatedInputTokens" => estimated_tokens,
+          "paths" => shard.map { |record, _estimate| record.fetch("path") }
+        }
+      end
+
+      def write_json(path, document)
+        File.write(path, "#{JSON.pretty_generate(document)}\n")
+        File.chmod(0o600, path)
+      end
+    end
+
+    class WorkspaceLoader
+      def initialize(root:, manifest:, manifest_sha256:, review_dir:)
+        @root = Pathname.new(root).expand_path
+        @manifest = manifest
+        @manifest_sha256 = manifest_sha256
+        @review_dir = Batch.ensure_external_review_dir!(@root, review_dir)
+      end
+
+      def decisions
+        workspace = JSON.parse(File.binread(@review_dir.join("workspace.json")).force_encoding(Encoding::UTF_8).scrub)
+        validate_workspace!(workspace)
+        expected_paths = @manifest.fetch("notes").map { |record| record.fetch("path") }.sort
+        assigned_paths = workspace.fetch("shards").flat_map { |shard| shard.fetch("paths") }
+        raise BatchError, "Review workspace assigns a note more than once." unless assigned_paths.uniq.length == assigned_paths.length
+        unless assigned_paths.sort == expected_paths
+          raise BatchError, "Review workspace must assign every manifest note exactly once."
+        end
+
+        notes = workspace.fetch("shards").sort_by { |shard| shard.fetch("id") }.flat_map do |shard|
+          load_shard_result(shard)
+        end
+        paths = notes.map { |note| note.fetch("path") }
+        raise BatchError, "Shard results contain duplicate note paths." unless paths.uniq.length == paths.length
+        unless paths.sort == expected_paths
+          raise BatchError, "Shard results must contain exactly one result for every manifest note."
+        end
+        {
+          "schemaVersion" => DECISION_SCHEMA_VERSION,
+          "validatorVersion" => VERSION,
+          "manifestSha256" => @manifest_sha256,
+          "workspaceMode" => true,
+          "notes" => notes.sort_by { |note| note.fetch("path") }
+        }
+      end
+
+      private
+
+      def validate_workspace!(workspace)
+        unless workspace["schemaVersion"] == WORKSPACE_SCHEMA_VERSION &&
+               workspace["decisionSchemaVersion"] == DECISION_SCHEMA_VERSION
+          raise BatchError, "Unsupported review workspace schema."
+        end
+        unless workspace["validatorVersion"].to_s == VERSION && workspace["manifestSha256"] == @manifest_sha256
+          raise BatchError, "Review workspace does not match the manifest or validator version."
+        end
+      end
+
+      def load_shard_result(shard)
+        result_relative = shard.fetch("result")
+        result_path = safe_workspace_path(result_relative)
+        result = JSON.parse(File.binread(result_path).force_encoding(Encoding::UTF_8).scrub)
+        unless result["schemaVersion"] == DECISION_SCHEMA_VERSION && result["validatorVersion"].to_s == VERSION &&
+               result["manifestSha256"] == @manifest_sha256 && result["shardId"] == shard.fetch("id")
+          raise BatchError, "Shard result does not match its workspace assignment: #{shard.fetch('id')}"
+        end
+        expected_paths = shard.fetch("paths").sort
+        actual_paths = result.fetch("notes").map { |note| note.fetch("path") }.sort
+        unless actual_paths == expected_paths && actual_paths.uniq.length == actual_paths.length
+          raise BatchError, "Shard result paths do not match its assignment: #{shard.fetch('id')}"
+        end
+
+        result.fetch("notes").map do |decision|
+          path = decision.fetch("path")
+          candidate = safe_candidate_path(path)
+          raise BatchError, "Staged candidate is missing: #{path}" unless candidate.file?
+
+          decision.merge("_candidatePath" => candidate.to_s)
+        end
+      end
+
+      def safe_workspace_path(relative)
+        base = @review_dir.expand_path
+        path = base.join(relative).expand_path
+        unless path.to_s.start_with?("#{base}#{File::SEPARATOR}")
+          raise BatchError, "Review workspace contains an unsafe path: #{relative}"
+        end
+
+        path
+      end
+
+      def safe_candidate_path(note_path)
+        base = @review_dir.join("candidates").expand_path
+        path = base.join(note_path).expand_path
+        unless path.to_s.start_with?("#{base}#{File::SEPARATOR}")
+          raise BatchError, "Review workspace contains an unsafe candidate path: #{note_path}"
+        end
+
+        path
       end
     end
 
@@ -361,7 +661,7 @@ module TaelgarNoteLint
         candidates = decision_list.map do |decision|
           build_candidate(decision, records.fetch(decision.fetch("path")), validator)
         end
-        commit(candidates) if write
+        commit(candidates.reject { |candidate| candidate["skipWrite"] }) if write
         {
           "schemaVersion" => DECISION_SCHEMA_VERSION,
           "validatorVersion" => VERSION,
@@ -370,6 +670,8 @@ module TaelgarNoteLint
           "notes" => candidates.map do |candidate|
             {
               "path" => candidate.fetch("path"),
+              "eligibility" => candidate.fetch("eligibility"),
+              "editorialVerdict" => candidate["editorialVerdict"],
               "outcome" => candidate.fetch("outcome"),
               "sha256" => Batch.sha256(candidate.fetch("text"))
             }
@@ -399,28 +701,58 @@ module TaelgarNoteLint
         unless paths.sort == records.keys.sort
           raise BatchError, "Decision file must contain exactly one result for every manifest note."
         end
-        unresolved = decisions.select { |decision| !%w[clean open].include?(decision["outcome"]) }
-        return if unresolved.empty?
-
-        raise BatchError, "Every note needs a clean or open outcome before finalization: #{unresolved.map { |item| item['path'] }.join(', ')}"
+        decisions.each { |decision| validate_completed_decision!(decision) }
       end
 
       def build_candidate(decision, record, validator)
         path = decision.fetch("path")
         absolute = @root.join(path)
-        current_text = TaelgarNoteLint.read_text(absolute)
-        unless Batch.file_sha256(absolute) == decision.fetch("expectedSha256")
-          raise BatchError, "Reviewed file changed after snapshot: #{path}"
+        expected_sha = if @decisions["workspaceMode"]
+                         record.dig("file", "sha256").to_s
+                       else
+                         decision.fetch("expectedSha256")
+                       end
+        unless Batch.file_sha256(absolute) == expected_sha
+          boundary = @decisions["workspaceMode"] ? "preparation" : "snapshot"
+          raise BatchError, "Reviewed file changed after #{boundary}: #{path}"
         end
-        current_note = ParsedNote.new(path, current_text)
-        Batch.ensure_objectively_lintable_note!(current_note)
-        unless Batch.completion_state(current_note) == record.fetch("priorCompletionState")
+        live_text = TaelgarNoteLint.read_text(absolute)
+        live_note = ParsedNote.new(path, live_text)
+        Batch.ensure_objectively_lintable_note!(live_note)
+        unless Batch.completion_state(live_note) == record.fetch("priorCompletionState")
           raise BatchError, "Lint completion state changed before finalization: #{path}"
         end
 
+        staged_text = decision["_candidatePath"] ? TaelgarNoteLint.read_text(decision.fetch("_candidatePath")) : live_text
+        candidate_sha = decision["candidateSha256"].to_s
+        candidate_sha = decision["expectedSha256"].to_s if candidate_sha.empty? && !@decisions["workspaceMode"]
+        unless candidate_sha.match?(/\A[0-9a-f]{64}\z/) && Batch.sha256(staged_text) == candidate_sha
+          raise BatchError, "Staged candidate changed after its review result was completed: #{path}"
+        end
+        if decision.fetch("eligibility") == "ineligible"
+          unless staged_text == live_text
+            raise BatchError, "A semantically ineligible staged candidate must remain unchanged: #{path}"
+          end
+          return {
+            "path" => path,
+            "eligibility" => "ineligible",
+            "editorialVerdict" => nil,
+            "outcome" => "ineligible",
+            "expectedSha256" => expected_sha,
+            "text" => live_text,
+            "skipWrite" => true
+          }
+        end
+
+        staged_note = ParsedNote.new(path, staged_text)
+        Batch.ensure_objectively_lintable_note!(staged_note)
+        unless Batch.completion_state(staged_note) == record.fetch("priorCompletionState")
+          raise BatchError, "Staged lint completion state changed before finalization: #{path}"
+        end
         outcome = decision.fetch("outcome")
         report = validate_report(decision["lintReport"], outcome, path)
-        text_without_lint = current_text.gsub(LINT_BLOCK_PATTERN, "")
+        validate_editorial_consistency!(decision, report)
+        text_without_lint = staged_text.gsub(LINT_BLOCK_PATTERN, "")
         note = ParsedNote.new(path, text_without_lint)
         raise BatchError, "Cannot finalize invalid frontmatter in #{path}: #{note.yaml_error || note.frontmatter_state}" unless note.frontmatter_state == :present && !note.yaml_error
 
@@ -441,8 +773,10 @@ module TaelgarNoteLint
 
         {
           "path" => path,
+          "eligibility" => "eligible",
+          "editorialVerdict" => decision.fetch("editorialVerdict"),
           "outcome" => outcome,
-          "expectedSha256" => decision.fetch("expectedSha256"),
+          "expectedSha256" => expected_sha,
           "text" => formatted
         }
       rescue FrontmatterFormatter::UnsafeFrontmatter => error
@@ -466,6 +800,64 @@ module TaelgarNoteLint
         end
 
         report
+      end
+
+      def validate_completed_decision!(decision)
+        path = decision.fetch("path")
+        if decision["needsAdjudication"] == true
+          raise BatchError, "A shard result still requires adjudication: #{path}"
+        end
+
+        case decision["eligibility"]
+        when "ineligible"
+          if decision["eligibilityReason"].to_s.strip.empty?
+            raise BatchError, "A semantically ineligible result requires a concise reason: #{path}"
+          end
+          unless decision["adjudication"] == "complete"
+            raise BatchError, "A semantically ineligible result requires completed Sol xhigh adjudication: #{path}"
+          end
+          unless decision["editorialVerdict"].nil? && decision["outcome"].nil? &&
+                 decision["lintReport"].to_s.strip.empty? && decision["handoff"].to_s.strip.empty?
+            raise BatchError, "A semantically ineligible result cannot carry a verdict, outcome, Lint report, or handoff: #{path}"
+          end
+        when "eligible"
+          verdict = decision["editorialVerdict"]
+          unless EDITORIAL_VERDICTS.include?(verdict) && %w[clean open].include?(decision["outcome"])
+            raise BatchError, "Every eligible note needs an editorial verdict and clean or open outcome: #{path}"
+          end
+          if verdict == "Underdeveloped" && decision["outcome"] != "open"
+            raise BatchError, "An Underdeveloped verdict must remain open: #{path}"
+          end
+          if report_rule_ids(decision["lintReport"]).include?("editorial.note_underdeveloped") &&
+             decision["adjudication"] != "complete"
+            raise BatchError, "Invention-based underdevelopment requires completed Sol xhigh adjudication: #{path}"
+          end
+        else
+          raise BatchError, "Every note needs completed semantic eligibility review: #{path}"
+        end
+      end
+
+      def validate_editorial_consistency!(decision, report)
+        path = decision.fetch("path")
+        verdict = decision.fetch("editorialVerdict")
+        rule_ids = report_rule_ids(report)
+        if rule_ids.any? { |rule_id| rule_id.include?("worth_expanding") }
+          raise BatchError, "Worth expanding cannot be represented as a persistent lint finding: #{path}"
+        end
+        if rule_ids.include?("editorial.note_underdeveloped") && verdict != "Underdeveloped"
+          raise BatchError, "editorial.note_underdeveloped requires an Underdeveloped verdict: #{path}"
+        end
+        return unless verdict == "Underdeveloped"
+
+        central_gap = rule_ids.include?("editorial.note_underdeveloped") ||
+                      rule_ids.any? { |rule_id| rule_id.start_with?("coverage.") }
+        unless central_gap
+          raise BatchError, "An Underdeveloped verdict requires a coverage or editorial.note_underdeveloped finding: #{path}"
+        end
+      end
+
+      def report_rule_ids(report)
+        report.to_s.scan(/\*\*(?:Error|Warning|Suggestion)\s+—\s+([a-z0-9_.-]+):/i).flatten
       end
 
       def commit(candidates)
@@ -537,6 +929,7 @@ module TaelgarNoteLint
         command = @argv.shift
         case command
         when "prepare" then prepare
+        when "workspace" then workspace
         when "snapshot" then snapshot
         when "finalize" then finalize
         else
@@ -648,6 +1041,38 @@ module TaelgarNoteLint
         0
       end
 
+      def workspace
+        options = {
+          root: Pathname.pwd,
+          max_notes: DEFAULT_MAX_NOTES,
+          max_tokens: DEFAULT_MAX_TOKENS
+        }
+        parser = OptionParser.new do |opts|
+          opts.banner = "Usage: lint_taelgar_notes.rb workspace --manifest FILE --review-dir DIR [options]"
+          opts.on("--root PATH", "Vault root") { |value| options[:root] = Pathname.new(value) }
+          opts.on("--manifest PATH", "Prepared batch manifest") { |value| options[:manifest] = value }
+          opts.on("--review-dir PATH", "Temporary staged review workspace") { |value| options[:review_dir] = value }
+          opts.on("--max-notes N", Integer, "Maximum notes per shard (default #{DEFAULT_MAX_NOTES})") { |value| options[:max_notes] = value }
+          opts.on("--max-tokens N", Integer, "Maximum estimated input tokens per shard (default #{DEFAULT_MAX_TOKENS})") { |value| options[:max_tokens] = value }
+          opts.on("--output PATH", "Write workspace summary JSON to a file") { |value| options[:output] = value }
+        end
+        parser.parse!(@argv)
+        raise BatchError, "--manifest and --review-dir are required." unless options[:manifest] && options[:review_dir]
+
+        manifest_text = File.binread(options[:manifest]).force_encoding(Encoding::UTF_8).scrub
+        manifest = JSON.parse(manifest_text)
+        document = WorkspaceBuilder.new(
+          root: options[:root],
+          manifest: manifest,
+          manifest_sha256: Batch.sha256(manifest_text),
+          output_dir: options[:review_dir],
+          max_notes: options[:max_notes],
+          max_tokens: options[:max_tokens]
+        ).build
+        write_json(document, options[:output])
+        0
+      end
+
       def finalize
         options = { root: Pathname.pwd, write: false }
         parser = OptionParser.new do |opts|
@@ -655,20 +1080,34 @@ module TaelgarNoteLint
           opts.on("--root PATH", "Vault root") { |value| options[:root] = Pathname.new(value) }
           opts.on("--manifest PATH", "Prepared batch manifest") { |value| options[:manifest] = value }
           opts.on("--decisions PATH", "Completed batch decisions") { |value| options[:decisions] = value }
+          opts.on("--review-dir PATH", "Completed staged review workspace") { |value| options[:review_dir] = value }
           opts.on("--at TIME", "Completion timestamp; defaults to now") { |value| options[:at] = value }
           opts.on("--write", "Commit the prevalidated lint states") { options[:write] = true }
           opts.on("--output PATH", "Write result JSON to a file") { |value| options[:output] = value }
         end
         parser.parse!(@argv)
-        raise BatchError, "--manifest and --decisions are required." unless options[:manifest] && options[:decisions]
+        raise BatchError, "--manifest is required." unless options[:manifest]
+        if options[:decisions] && options[:review_dir] || !options[:decisions] && !options[:review_dir]
+          raise BatchError, "Provide exactly one of --decisions or --review-dir."
+        end
 
         manifest_text = File.binread(options[:manifest]).force_encoding(Encoding::UTF_8).scrub
         manifest = JSON.parse(manifest_text)
-        decisions = JSON.parse(File.binread(options[:decisions]).force_encoding(Encoding::UTF_8).scrub)
+        manifest_sha = Batch.sha256(manifest_text)
+        decisions = if options[:review_dir]
+                      WorkspaceLoader.new(
+                        root: options[:root],
+                        manifest: manifest,
+                        manifest_sha256: manifest_sha,
+                        review_dir: options[:review_dir]
+                      ).decisions
+                    else
+                      JSON.parse(File.binread(options[:decisions]).force_encoding(Encoding::UTF_8).scrub)
+                    end
         result = Finalizer.new(
           root: options[:root],
           manifest: manifest,
-          manifest_sha256: Batch.sha256(manifest_text),
+          manifest_sha256: manifest_sha,
           decisions: decisions,
           completed_at: options[:at]
         ).finalize(write: options[:write])
@@ -695,14 +1134,20 @@ module TaelgarNoteLint
 
       def write_json(document, path)
         rendered = "#{JSON.pretty_generate(document)}\n"
-        path ? File.write(path, rendered) : puts(rendered)
+        if path
+          File.write(path, rendered)
+          File.chmod(0o600, path)
+        else
+          puts(rendered)
+        end
       end
 
       def usage
         <<~TEXT
           Usage: lint_taelgar_notes.rb COMMAND [options]
             prepare   Build shared deterministic and freshness evidence packets
-            snapshot  Capture reviewed file checksums and create a decision template
+            workspace Create bounded shards and staged candidate copies
+            snapshot  Compatibility mode for a legacy live-note review
             finalize  Preflight and optionally write all lint completion states
         TEXT
       end

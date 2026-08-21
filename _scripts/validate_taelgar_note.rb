@@ -24,11 +24,11 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "3.3"
-  SCHEMA_VERSION = 4
-  DM_NOTES_REVIEW_VERSION = "3.0"
-  NAME_REVIEW_VERSION = "3.2"
-  POV_REVIEW_VERSION = "3.2"
+  VERSION = "3.4"
+  SCHEMA_VERSION = 5
+  DM_NOTES_REVIEW_VERSION = "3.4"
+  NAME_REVIEW_VERSION = "3.4"
+  POV_REVIEW_VERSION = "3.4"
 
   DEPRECATED_FRONTMATTER_FIELDS = %w[
     activeYear subTypeOf subTypeOfAlias subspecies speciesAlias deity
@@ -157,9 +157,9 @@ module TaelgarNoteLint
   end
 
   # This is deliberately only the deterministic half of lint eligibility. It
-  # removes forms that can never satisfy the authored-sentence minimum. Any
-  # surviving text still requires contextual judgment that it contains a
-  # complete subject-matter sentence rather than a label, fragment, or reminder.
+  # removes forms that can never supply authored subject-matter content. Any
+  # surviving text still requires contextual judgment that it communicates a
+  # substantive assertion rather than a label, placeholder, or reminder.
   def authored_body_candidate_text(note)
     text = LINT_OWNED_BODY_PATTERNS.reduce(note.body.dup) do |body, pattern|
       body.gsub(pattern, "")
@@ -798,11 +798,11 @@ module TaelgarNoteLint
       end
 
       add(findings, "lint.target_no_reviewable_prose", "error", "required",
-          "The note has no authored body text that can contain a complete subject-matter sentence after headings, images or embeds, and linter-owned blocks are excluded; it is not a lint target.",
+          "The note has no authored body candidate after headings, images or embeds, and linter-owned blocks are excluded; it is not a lint target.",
           line: note.body_start_line)
       {
         "status" => "ineligible",
-        "reason" => "no_authored_sentence_candidate"
+        "reason" => "no_authored_body_candidate"
       }
     end
 

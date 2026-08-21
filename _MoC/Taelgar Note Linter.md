@@ -1,14 +1,14 @@
 ---
-linterVersion: "3.3"
-dmNotesReviewVersion: "3.0"
-nameReviewVersion: "3.2"
-povReviewVersion: "3.2"
+linterVersion: "3.4"
+dmNotesReviewVersion: "3.4"
+nameReviewVersion: "3.4"
+povReviewVersion: "3.4"
 name: Taelgar Note Linter
 ---
 # Taelgar Note Linter
 
 > [!info] Adopted specification
-> This note defines version **3.3** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
+> This note defines version **3.4** of the Taelgar note linter. The operational skill is `.agents/skills/lint-taelgar-note/SKILL.md`; deterministic validation is implemented by `_scripts/validate_taelgar_note.rb`.
 
 ## Purpose
 
@@ -35,9 +35,9 @@ When these disagree, do not silently choose one. Stop the write-mode lint, repor
 
 Any note whose path contains a directory segment named `Worldbuilding` or beginning with `.` or `_` is categorically outside the linter's target scope. This applies at every nesting depth, including `Campaigns/_generated/**` and `Campaigns/.chatgpt/**`. Do not write `lintedAt`, `lintVersion`, `status/check/lint`, or persistent lint metadata to these notes, and do not count them in lint samples.
 
-An otherwise in-scope note is lintable only when its authored body contains at least one complete natural-language sentence conveying setting, campaign, character, object, or source-record content. The sentence may be visible or inside an authored ordinary comment, `SECRET`, `Campaign:*`, or `Date:*` block. It need not end in punctuation, but it must express a complete thought. This is a semantic judgment, not a word-count, punctuation, or regular-expression test.
+An otherwise in-scope note is lintable when its authored body makes a substantive statement about its subject or source. The statement may be visible or inside an authored ordinary comment, `SECRET`, `Campaign:*`, or `Date:*` block. It need not be grammatically complete when the note title supplies the subject or an implied copula. Definitional phrases, elliptical reference prose, factual list entries, tables, callouts, and quotations qualify when they communicate a complete subject-matter assertion. This is a semantic judgment, not a word-count, punctuation, or regular-expression test.
 
-Frontmatter, headings, images or embeds, isolated names, labels, dates, tags, wikilinks, noun phrases, fragmentary list items, editorial reminders, and linter-owned `Metadata:*`, `povNotes`, and `Lint` blocks do not satisfy the minimum. A list, table, callout, or quotation qualifies only when it contains at least one complete subject-matter sentence. Evaluate the authored body before any lint-owned edit; existing lint output cannot make a textless note eligible. The deterministic validator rejects objectively empty, heading-only, embed-only, and linter-output-only bodies. Text that survives that mechanical screen is only a candidate, and the contextual pass must still confirm that it includes a complete subject-matter sentence. When that judgment is uncertain, the note is ineligible.
+Frontmatter, headings, images or embeds, isolated names, labels, dates, tags, wikilinks, TODOs, editorial reminders, and linter-owned `Metadata:*`, `povNotes`, and `Lint` blocks do not satisfy the minimum. One or a few words in a comment also do not qualify when they communicate no substantive fact. Evaluate the authored body before any lint-owned edit; existing lint output cannot make a textless note eligible. The deterministic validator rejects objectively empty, heading-only, embed-only, and linter-output-only bodies. Text that survives that mechanical screen is an authored-content candidate for contextual confirmation, not evidence that a grammatical sentence exists. After that screen, uncertainty favors inclusion; declare the note ineligible only when the remaining material is clearly placeholder or nonassertive content.
 
 Tag, note type, and other directory names do not create additional exclusions. An explicitly named ineligible note is reported and left unchanged. Collections omit it; samples replace it rather than counting it. Target eligibility does not filter evidence. All relevant vault Markdown notes—including notes under Worldbuilding and dot or underscore directories—remain searchable and citable while linting an eligible target. Their ordinary authority, privacy, and uncertainty still apply; Worldbuilding remains provisional rather than canonical merely because it is evidence.
 
@@ -49,7 +49,7 @@ Every completed write-mode lint records:
 
 ```yaml
 lintedAt: "2026-08-19T11:40:58-04:00"
-lintVersion: "3.3"
+lintVersion: "3.4"
 ```
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
@@ -60,7 +60,7 @@ Increase the linter version when a change can alter applicability, severity, fin
 
 `nameReviewVersion` is the independent minimum prior linter version for contextual name-block applicability and pronunciation review. A note with a valid `lintedAt` whose numeric `lintVersion` is at least this value skips that contextual review during later lints. Existing name blocks still receive deterministic schema validation, and entries marked `proposed`, `disputed`, or `unresolved` still produce deterministic human-review tasks without being recalculated. When name-review rules change, raise `nameReviewVersion`; a human who changes the primary subject of a note can force review by removing its lint completion version.
 
-`povReviewVersion` is the independent minimum prior linter version for contextual `POV` selection and, where applicable, `povNotes` review. A present `povNotes` block bypasses this gate and is always rechecked together with `POV`; the linter must retain the block because removing one is always a human-only decision. Only when `povNotes` is absent does the gate compare the prior lint: a note with a valid `lintedAt` whose numeric `lintVersion` is at least this value preserves its valid existing `POV` without recomputing it and preserves the absence of `povNotes`. Deterministic validation still reports a missing or malformed `POV`, a forbidden or malformed present `povNotes` block, and other structural defects. When POV-review rules change, raise `povReviewVersion`; a human can force contextual POV review by removing the lint completion version. The POV gate remains `povReviewVersion: "3.2"`: a note at that version can be stale under the current linter while still skipping contextual POV recomputation when `povNotes` is absent.
+`povReviewVersion` is the independent minimum prior linter version for contextual `POV` selection and, where applicable, `povNotes` review. A present `povNotes` block bypasses this gate and is always rechecked together with `POV`; the linter must retain the block because removing one is always a human-only decision. Only when `povNotes` is absent does the gate compare the prior lint: a note with a valid `lintedAt` whose numeric `lintVersion` is at least this value preserves its valid existing `POV` without recomputing it and preserves the absence of `povNotes`. Deterministic validation still reports a missing or malformed `POV`, a forbidden or malformed present `povNotes` block, and other structural defects. When POV-review rules change, raise `povReviewVersion`; a human can force contextual POV review by removing the lint completion version.
 
 The deterministic report exposes the three contextual boundaries under `reviewGates.names`, `reviewGates.dmNotes`, and `reviewGates.pov`. For POV, `required` is always true when `povNotes` is present; when it is absent, `required` reflects the version comparison. The POV record also exposes `povNotesApplicable`, so the same decision is available in single-note output and each batch manifest packet rather than being recomputed by the reviewing agent.
 
@@ -131,17 +131,25 @@ Every completed lint assigns exactly one editorial verdict to the note as a refe
 
 - **Sufficient:** the note performs its present role and provides setting-specific substance proportional to its demonstrated importance.
 - **Sufficient, worth expanding:** the note is already adequate, but one bounded addition would materially improve its usefulness.
-- **Underdeveloped:** the note lacks a central setting-specific account, established role, current state, consequence, or other core dimension required by its demonstrated importance and reference role.
+- **Underdeveloped:** the note does not currently perform its reference role because it lacks a central setting-specific account, role, state, consequence, or other core dimension required by its demonstrated importance.
 
-Derive the verdict from the complete note and vault evidence: subject or document type, structural role, demonstrated importance, setting-specific content, central established relationships or state, consequences, and visible completeness. Do not infer importance or insufficiency from word count, backlink count, `status/*`, `dm_notes`, generic genre familiarity, or the mere existence of additional facts elsewhere. A short minor connector can be sufficient. An important subject represented only by a generic definition can be underdeveloped.
+Use this controlling question: **Does the visible note currently perform its reference role without a central gap?** If not, the verdict is **Underdeveloped**. If it does and one bounded addition would materially improve it, the verdict is **Sufficient, worth expanding**. Otherwise the verdict is **Sufficient**.
 
-Visible incomplete structure is evidence only when the author has established a central section and left it with placeholders, fragments, or hidden planning instead of an account. Several such central sections can make an otherwise long and polished note underdeveloped; polished volume elsewhere does not compensate for them. One peripheral unfinished section ordinarily supports at most **Sufficient, worth expanding**. The linter does not require conventional template headings merely because they could exist.
+The following rules control that judgment:
 
-For a person, a defining relationship, role, and fate can be enough for a minor connector. An important person requires established central consequences and current state when those are material to the reference account. Apply the same proportional principle to places, events, objects, organizations, and other subjects rather than imposing a universal checklist.
+- Underdevelopment requires an identifiable central missing dimension. The fact that more could be written is not enough.
+- Existing vault evidence is not required for every underdevelopment verdict. A subject whose central importance is clear may be underdeveloped because important lore still needs to be invented.
+- When an appropriate source establishes the missing or outdated information, use `coverage.established_fact_missing` or `coverage.later_material_change`. When a central dimension has not yet been invented, use `editorial.note_underdeveloped`.
+- Reserve invention-based underdevelopment for subjects whose importance or centrality is clear from their setting or campaign role, important relationships or consequences, structural function, or broad pattern of use and backlinks. A backlink pattern is one signal among others, never a numerical score or threshold.
+- A bounded or minor note can be sufficient with very little prose when it performs its reference role. When importance is unclear or the missing material is optional rather than central, use **Sufficient** or **Sufficient, worth expanding**, not **Underdeveloped**.
+- Visible incomplete structure matters when the author has established a central section and left it with placeholders, fragments, or hidden planning instead of an account. Several such central sections strongly support **Underdeveloped**; polished volume elsewhere does not compensate for them. One peripheral unfinished section ordinarily supports at most **Sufficient, worth expanding**.
+- Do not require conventional template headings, generic genre material, a word count, or a universal entity checklist.
 
-**Sufficient, worth expanding** is a chat-only verdict. It never creates or retains a Lint block, `status/check/lint`, or an editorial comment, and it does not lower the existing materiality threshold for established-fact findings. Communicate it in the handoff with the single bounded addition that would be most useful.
+For a person, a defining relationship, role, and fate can be enough for a minor connector. An important person may require central consequences and current state when those are material to the reference account. Apply the same proportional principle to places, events, objects, organizations, and other subjects.
 
-An **Underdeveloped** verdict must identify concrete central missing dimensions. When an appropriate source establishes the missing or outdated information, use `coverage.established_fact_missing` or `coverage.later_material_change`. Otherwise use the agentic judgment rule `editorial.note_underdeveloped`, with default severity **suggestion**, only when the expectation profile and exact incomplete passage or structure provide enough evidence for a durable task. Its proposed resolution names the smallest useful development scope and never invents canon or merely says to expand the note. Do not report the same gap under both an editorial and a coverage rule.
+**Sufficient, worth expanding** is a handoff-only verdict. By itself, it cannot create a Lint block, `status/check/lint`, or an editorial finding. Other findings are evaluated independently, and the note is open whenever any remain. Communicate the verdict in the handoff with the single bounded addition that would be most useful.
+
+An **Underdeveloped** verdict must identify the exact central missing dimensions and the smallest useful development scope without inventing canon or merely saying to expand the note. Do not report the same gap under both an editorial and a coverage rule. `editorial.note_underdeveloped` has default severity **suggestion** and is appropriate only for the balanced, central-importance case above.
 
 ## Source authority and correctness
 
@@ -168,9 +176,9 @@ Editing the target note does not itself invalidate a clean lint. The relevant qu
 
 ## Coverage and suggestions
 
-For every potentially missing fact or event, first determine whether an appropriate vault source establishes it. Unestablished information is a development opportunity rather than an incorrectness or coverage finding. Provisional material may motivate future invention but does not establish a missing fact.
+For every potentially missing fact or event, first determine whether an appropriate vault source establishes it. Unestablished information is a development opportunity rather than an incorrectness or coverage finding, but a clearly central uninvented dimension may support `editorial.note_underdeveloped` under the editorial sufficiency rules. Provisional material may motivate future invention but does not establish a missing fact.
 
-Established information is a `coverage.established_fact_missing` warning when omitting it would materially mislead the reader about the subject, its state, a major relationship, or the article's central account, or would leave the article materially outdated. Materiality is not inferred from note length, backlink count, or the mere existence of additional detail. Established information that is not materially required may support a suggestion under the threshold below; otherwise its omission is not a finding.
+Established information is a `coverage.established_fact_missing` warning when omitting it would materially mislead the reader about the subject, its state, a major relationship, or the article's central account, or would leave the article materially outdated. Materiality is not determined mechanically from note length, backlink count, or the mere existence of additional detail. Established information that is not materially required may support a suggestion under the threshold below; otherwise its omission is not a finding.
 
 An established fact or event that would materially change the article must be reported as `coverage.later_material_change` even when it occurs after the recorded `POV`. The linter records a human decision rather than silently treating the information as outside scope: update the article and `POV`; defer the update and add or retain the appropriate `status/gameupdate/*` tag; or intentionally preserve the earlier article and `POV`, in which case the applicable game-update tag can be removed. The linter does not choose among these outcomes or alter game-update tags.
 
@@ -374,9 +382,9 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. It is an operational optimization of linter 3.3, not a different rule set: it does not change applicability, severity, persistent state, or report interpretation and therefore does not itself require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. Its sharding and staging are operational mechanisms, not a different rule set; changing only their configurable size limits does not require a linter-version increase.
 
-Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Preparation also omits objectively textless bodies and records them in `selectionSummary.skippedNoReviewableProse`; the agent must separately screen surviving text for a complete subject-matter sentence before preparing the final candidate set. Explicit preparation rejects path-ineligible targets, and snapshot/finalization reject any manifest note that becomes objectively textless, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
+Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Preparation also omits objectively blank, heading-only, embed-only, and linter-output-only bodies and records them in `selectionSummary.skippedNoReviewableProse`. Surviving authored-content candidates receive semantic eligibility review inside their assigned shard. Explicit preparation rejects path-ineligible targets, and workspace creation and finalization reject any manifest note that becomes objectively blank, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
 
 Batch preparation builds the vault link/identity index once and scans `_DM_` once for all targets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, the shared DM scan records each matching file's modification time directly; this evidence both gates contextual DM review and routes a current note when a matching private source is newer than `lintedAt`. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, and agentic review.
 
@@ -384,7 +392,7 @@ Batch selection resolves scope before routing:
 
 1. The user's named files, folders, collection, or sample are the maximum scope; selection flags never broaden it.
 2. Remove target-ineligible paths.
-3. Remove notes without at least one complete authored subject-matter sentence; for a sample, select replacements from within the authorized scope until the requested count is reached.
+3. Remove objectively blank or generated-only stubs. Semantically review each surviving authored-content candidate; for a sample, replace only notes whose remaining material is clearly placeholder or nonassertive content.
 4. A plain `lint` request excludes every note with a valid prior `lintedAt`/`lintVersion` pair. Stale versions, open findings, deterministic errors, or newer evidence do not override this default.
 5. Only explicit language such as `re-lint`, `lint again`, or `refresh the lint` authorizes including previously linted notes, and only within the target that language modifies. Mixed scopes are prepared separately.
 
@@ -397,13 +405,18 @@ The batch CLI enforces this boundary: named targets are filtered by default, `--
 
 Routing is triage after selection, never authorization to re-lint. If the user specifically asks to re-lint a named note, review it completely even when routing would permit a no-op.
 
-Batch writes have three phases:
+Batch execution has four phases:
 
-1. **Prepare:** produce a read-only manifest and gather shared deterministic, DM, and Git evidence.
-2. **Review and snapshot:** read and judge each included note, apply any supported persistent changes while preserving its old lint completion state, then snapshot the reviewed file checksum.
-3. **Finalize:** require one clean or open decision per manifest note; verify the manifest, reviewed checksum, and preserved old completion state; construct every proposed final note; and deterministically validate all of them before writing any completion state.
+1. **Prepare:** produce one read-only manifest and gather shared deterministic, DM, and Git evidence.
+2. **Shard and stage:** create a private temporary review workspace. Group path-near notes where practical and cap each shard at 10 notes or approximately 30,000 estimated input tokens, whichever comes first. Estimate conservatively from note bytes plus its serialized manifest packet; a note above the token limit receives a singleton shard. These are configurable operational defaults.
+3. **Parallel review:** assign each shard to a fresh-context editorial worker. The worker may search the full vault but reads only its packet and staged candidates by default, edits only those staged copies, and returns compact structured results. No worker writes a live note.
+4. **Finalize:** require exactly one completed result per manifest note; verify assignment, manifest and validator versions, live and staged checksums, preserved old completion state, eligibility, editorial-verdict and clean/open consistency, and every proposed final note before writing anything.
 
-The finalizer writes the current validator version and one offset-bearing completion timestamp, removes or replaces the old report, and clears or sets only `status/check/lint` according to the decision. It stages same-directory replacements so each file replacement is atomic and rolls back ordinary write failures after a complete preflight. A checksum or state mismatch aborts the whole batch; it must never be bypassed by manually advancing the affected notes.
+The user-facing coordinator is also the batch manager and uses `gpt-5.6-sol` at `xhigh` reasoning. Every semantic eligibility, source, privacy, coverage, editorial sufficiency, and report-writing decision belongs to a fresh `gpt-5.6-sol` `xhigh` editorial worker. Spawn those workers without inherited conversational history and give each only the authoritative rules and its bounded shard. An optional `gpt-5.6-terra` `high` helper may run preparation, construct shards, track completion, validate schemas and hashes, and invoke finalization; it must not interpret note content or alter an editorial result. Deterministic scripts remain the authority for those mechanical operations. Do not create a separate managing agent when the user-facing coordinator can manage the shards directly, because that needlessly consumes an editorial worker slot.
+
+Each temporary result records only the path, the staged candidate's final SHA-256, semantic eligibility, a concise reason when ineligible, editorial verdict when eligible, clean/open outcome, replacement Lint report when open, optional one-line handoff, and whether adjudication remains required. Record the SHA-256 only after the candidate and result are complete; later candidate mutation invalidates the result. A semantic-ineligible result and an invention-based `editorial.note_underdeveloped` result require a second `gpt-5.6-sol` `xhigh` review. Any worker uncertainty also requires that adjudication. These temporary records are not note content or permanent calibration data.
+
+The finalizer leaves semantically ineligible notes unchanged. For eligible notes it writes the current validator version and one offset-bearing completion timestamp, removes or replaces the old report, and clears or sets only `status/check/lint` according to independently open findings. **Sufficient** and **Sufficient, worth expanding** may each be clean or open; **Underdeveloped** must be open. The finalizer stages same-directory replacements so each file replacement is atomic and rolls back ordinary write failures after a complete preflight. File-based manifests, workspaces, results, and finalization output use owner-only permissions because their evidence records can expose private paths. A missing result, pending adjudication, checksum or state mismatch, later staged-candidate mutation, or invalid verdict/outcome combination aborts the whole batch and must never be bypassed by manually advancing the affected notes.
 
 ## Deferred design areas
 
