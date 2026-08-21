@@ -10,6 +10,28 @@ FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
 
+## Recent Runs
+
+lintedAfter:: 2026-08-21T10:06:45-04:00
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder,
+    lintVersion,  date(lintedAt) as "Linted At",
+    choice(
+	    typeof(POV) = "duration",
+	    durationformat(choice(typeof(POV) = "duration", POV, null), "s's'"),
+	    string(POV)
+	) as POV,
+    choice(
+        contains(file.etags, "#status/check/lint"),
+        "No",
+        "Yes"
+    ) as "Clean?"
+WHERE lintedAt AND date(lintedAt) > date(this.lintedAfter)
+SORT date(lintedAt)
+```
+
+
 
 ## Linted Clean
 

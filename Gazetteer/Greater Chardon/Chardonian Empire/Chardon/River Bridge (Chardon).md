@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T12:28:14-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: bridge
@@ -26,5 +26,5 @@ The central segment of the bridge, marking the dividing line between the [[Basti
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern infrastructure and use; no construction date or later alteration to the bridge's fortified, inhabited, and movable form is established.
+Temporal coverage: broadly modern infrastructure and use; Chardon's history dates the bridge's construction to DR 1374, and no later alteration to its fortified, inhabited, and movable form is established.
 %%^End%%

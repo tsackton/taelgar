@@ -22,7 +22,7 @@ require_relative "validate_taelgar_note"
 module TaelgarNoteLint
   module Batch
     SCHEMA_VERSION = 2
-    DECISION_SCHEMA_VERSION = 2
+    DECISION_SCHEMA_VERSION = 3
     WORKSPACE_SCHEMA_VERSION = 1
     DEFAULT_MAX_NOTES = 10
     DEFAULT_MAX_TOKENS = 30_000
@@ -32,6 +32,40 @@ module TaelgarNoteLint
       "Sufficient, worth expanding",
       "Underdeveloped"
     ].freeze
+    COMPLETION_FIELDS = %w[lintedAt lintVersion].freeze
+    PRIVACY_VISIBILITY_FIELDS = %w[knownTo excludePublish audience dm_owner dm_notes].freeze
+    REVIEW_CATEGORIES = %w[
+      completion_lifecycle
+      frontmatter_formatting
+      metadata
+      persistent_metadata
+      body_prose
+      private_or_visibility_sensitive
+      non_lint_status
+      custom_syntax
+    ].freeze
+    TARGETED_REVIEW_CATEGORIES = %w[
+      metadata
+      persistent_metadata
+      body_prose
+      private_or_visibility_sensitive
+      non_lint_status
+      custom_syntax
+    ].freeze
+    BODY_EDIT_BASES = %w[objective_typo objective_punctuation objective_duplication objective_grammar source_correction].freeze
+    SHARED_NONPUBLIC_DISPOSITIONS = %w[
+      redundant_with_public
+      public_adoption_candidate
+      dm_only
+      speculative_or_unresolved
+      source_pointer
+      no_useful_material
+    ].freeze
+    OPEN_SHARED_NONPUBLIC_RULES = {
+      "redundant_with_public" => "editorial.shared_material_redundant",
+      "public_adoption_candidate" => "editorial.public_material_candidate"
+    }.freeze
+    EXPANSION_CERTAINTIES = %w[established reported assumed provisional uninvented].freeze
 
     class BatchError < StandardError; end
 
@@ -43,6 +77,196 @@ module TaelgarNoteLint
 
     def file_sha256(path)
       Digest::SHA256.file(path.to_s).hexdigest
+    end
+
+    def canonical_review_value(value)
+      case value
+      when Hash
+        value.keys.map(&:to_s).sort.to_h do |key|
+          source_key = value.key?(key) ? key : value.keys.find { |candidate| candidate.to_s == key }
+          [key, canonical_review_value(value[source_key])]
+        end
+      when Array
+        value.map { |item| canonical_review_value(item) }
+      when Date, Time
+        value.iso8601
+      else
+        value
+      end
+    end
+
+    def review_frontmatter(note)
+      data = note.data.each_with_object({}) do |(key, value), memo|
+        next if COMPLETION_FIELDS.include?(key.to_s)
+
+        memo[key.to_s] = value
+      end
+      data["tags"] = Array(data["tags"]).reject { |tag| tag.to_s == "status/check/lint" }
+      canonical_review_value(data)
+    end
+
+    def non_lint_statuses(note)
+      note.tags.grep(/\Astatus\//).reject { |tag| tag == "status/check/lint" }.sort
+    end
+
+    def body_without_lint(note)
+      note.body.gsub(LINT_BLOCK_PATTERN, "").sub(/\n*\z/, "\n")
+    end
+
+    def body_without_persistent_lint_metadata(note)
+      body = body_without_lint(note)
+      [METADATA_BLOCK_PATTERN, POV_NOTES_BLOCK_PATTERN, LEGACY_ARTICLE_BLOCK_PATTERN].each do |pattern|
+        body = body.gsub(pattern, "")
+      end
+      body.sub(/\n*\z/, "\n")
+    end
+
+    def persistent_lint_metadata(note)
+      [METADATA_BLOCK_PATTERN, POV_NOTES_BLOCK_PATTERN, LEGACY_ARTICLE_BLOCK_PATTERN].flat_map do |pattern|
+        note.body.to_enum(:scan, pattern).map { Regexp.last_match[0] }
+      end
+    end
+
+    def sensitive_content(note)
+      body = body_without_lint(note)
+      scoped = body.scan(SCOPED_CONTENT_BLOCK_PATTERN)
+      comments = body.scan(/%%(.*?)%%/m).map(&:first).reject do |segment|
+        segment.strip.match?(/\A\^(?:Lint|Metadata|povNotes|End)(?::|\z)/)
+      end
+      [scoped, comments]
+    end
+
+    def shared_nonpublic_units(note)
+      body = body_without_lint(note)
+      [METADATA_BLOCK_PATTERN, POV_NOTES_BLOCK_PATTERN, LEGACY_ARTICLE_BLOCK_PATTERN].each do |pattern|
+        body = body.gsub(pattern, "")
+      end
+      units = []
+      body.to_enum(:scan, SCOPED_CONTENT_BLOCK_PATTERN).each do
+        match = Regexp.last_match[0]
+        next unless match.match?(/\A%%\^Campaign:none%%/)
+
+        units << shared_nonpublic_unit("Campaign:none", match)
+      end
+      without_scoped = body.gsub(SCOPED_CONTENT_BLOCK_PATTERN, "")
+      without_scoped.to_enum(:scan, /%%(.*?)%%/m).each do
+        match = Regexp.last_match
+        payload = match[1].to_s
+        stripped = payload.strip
+        next if stripped.empty? || stripped.start_with?("SECRET") || stripped.start_with?("^")
+        next unless stripped.match?(/[[:alnum:]]/)
+
+        units << shared_nonpublic_unit("comment", match[0])
+      end
+      units
+    end
+
+    def shared_nonpublic_unit(kind, text)
+      {
+        "kind" => kind,
+        "contentSha256" => sha256(text)
+      }
+    end
+
+    def shared_nonpublic_review_template(note)
+      shared_nonpublic_units(note).map do |unit|
+        unit.merge("disposition" => "review_required", "summary" => nil)
+      end
+    end
+
+    def name_block_data(note)
+      match = note.body.match(/%%\^Metadata:names:v1%%\s*(.*?)\s*%%\^End%%/m)
+      return [] unless match
+
+      data = TaelgarNoteLint.yaml_load(match[1])
+      data.is_a?(Array) ? data : []
+    rescue Psych::Exception
+      []
+    end
+
+    def populated_documented_value?(value)
+      return false if value.nil?
+      return !value.strip.empty? if value.is_a?(String)
+      return !value.empty? if value.respond_to?(:empty?)
+
+      true
+    end
+
+    def documented_name_identity(entry)
+      [canonical_review_value(entry["name"]), canonical_review_value(entry["role"])]
+    end
+
+    def semantic_body_for_edit_declaration(note)
+      body_without_persistent_lint_metadata(note)
+        .gsub(/[ \t]+(?=\r?$)/, "")
+        .sub(/\n*\z/, "\n")
+    end
+
+    def custom_syntax_lines(note)
+      body_without_lint(note).lines.each_with_object([]) do |line, selected|
+        stripped = line.strip
+        next if stripped.match?(/\A%%\^(?:Lint|Metadata|povNotes|End)(?::|%%|\z)/)
+        next unless stripped.match?(/(?:%%\^(?:Campaign|Date):|%%SECRET|!\[\[|>\s*\[!|\A```|\A~~~|\$=|\((?:DR|POV)::)/)
+
+        selected << line
+      end
+    end
+
+    def classify_change(before_text, after_text)
+      before_note = ParsedNote.new("before.md", before_text)
+      after_note = ParsedNote.new("after.md", after_text)
+      categories = []
+      categories << "completion_lifecycle" if completion_state(before_note) != completion_state(after_note)
+
+      before_frontmatter = review_frontmatter(before_note)
+      after_frontmatter = review_frontmatter(after_note)
+      if before_frontmatter != after_frontmatter
+        categories << "metadata"
+      elsif before_note.frontmatter_lines != after_note.frontmatter_lines
+        categories << "frontmatter_formatting"
+      end
+
+      categories << "persistent_metadata" if persistent_lint_metadata(before_note) != persistent_lint_metadata(after_note)
+      if body_without_persistent_lint_metadata(before_note) != body_without_persistent_lint_metadata(after_note)
+        categories << "body_prose"
+      end
+      privacy_fields_changed = PRIVACY_VISIBILITY_FIELDS.any? do |field|
+        canonical_review_value(before_note.data[field]) != canonical_review_value(after_note.data[field])
+      end
+      if privacy_fields_changed || sensitive_content(before_note) != sensitive_content(after_note)
+        categories << "private_or_visibility_sensitive"
+      end
+      categories << "non_lint_status" if non_lint_statuses(before_note) != non_lint_statuses(after_note)
+      categories << "custom_syntax" if custom_syntax_lines(before_note) != custom_syntax_lines(after_note)
+      categories = REVIEW_CATEGORIES.select { |category| categories.include?(category) }
+      categories = ["completion_lifecycle"] if categories.empty? && before_text != after_text
+      targeted = (categories & TARGETED_REVIEW_CATEGORIES).any?
+      {
+        "level" => targeted ? "targeted" : "mechanical",
+        "categories" => categories
+      }
+    end
+
+    def introduced_whitespace_errors(before_text, after_text)
+      Tempfile.create(["taelgar-lint-before-", ".md"]) do |before_file|
+        Tempfile.create(["taelgar-lint-after-", ".md"]) do |after_file|
+          before_file.binmode
+          after_file.binmode
+          before_file.write(before_text)
+          after_file.write(after_text)
+          before_file.flush
+          after_file.flush
+          stdout, stderr, status = Open3.capture3(
+            "git", "diff", "--no-index", "--check", "--no-ext-diff", "--",
+            before_file.path, after_file.path
+          )
+          unless [0, 1].include?(status.exitstatus) || (!stdout.empty? && stderr.empty?)
+            raise BatchError, "Whitespace preflight failed: #{stderr.strip}"
+          end
+
+          stdout.lines.grep(/:(?:\d+): (?:trailing whitespace|space before tab|new blank line at EOF)/)
+        end
+      end
     end
 
     def canonical_state_value(value)
@@ -344,6 +568,10 @@ module TaelgarNoteLint
             "outcome" => "review_required",
             "lintReport" => nil,
             "handoff" => nil,
+            "bodyEdits" => [],
+            "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
+            "editorialAssessment" => nil,
+            "expansionCandidate" => nil,
             "needsAdjudication" => false,
             "adjudication" => "not_required"
           }
@@ -496,8 +724,10 @@ module TaelgarNoteLint
           )
         end
         result_notes = shard.map do |record, _estimate|
+          path = record.fetch("path")
+          note = ParsedNote.new(path, TaelgarNoteLint.read_text(@root.join(path)))
           {
-            "path" => record.fetch("path"),
+            "path" => path,
             "candidateSha256" => record.dig("file", "sha256"),
             "eligibility" => "review_required",
             "eligibilityReason" => nil,
@@ -505,6 +735,10 @@ module TaelgarNoteLint
             "outcome" => "review_required",
             "lintReport" => nil,
             "handoff" => nil,
+            "bodyEdits" => [],
+            "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
+            "editorialAssessment" => nil,
+            "expansionCandidate" => nil,
             "needsAdjudication" => false,
             "adjudication" => "not_required"
           }
@@ -661,19 +895,22 @@ module TaelgarNoteLint
         candidates = decision_list.map do |decision|
           build_candidate(decision, records.fetch(decision.fetch("path")), validator)
         end
+        review_summary = review_summary(candidates)
         commit(candidates.reject { |candidate| candidate["skipWrite"] }) if write
         {
           "schemaVersion" => DECISION_SCHEMA_VERSION,
           "validatorVersion" => VERSION,
           "completedAt" => @completed_at,
           "wrote" => write,
+          "reviewSummary" => review_summary,
           "notes" => candidates.map do |candidate|
             {
               "path" => candidate.fetch("path"),
               "eligibility" => candidate.fetch("eligibility"),
               "editorialVerdict" => candidate["editorialVerdict"],
               "outcome" => candidate.fetch("outcome"),
-              "sha256" => Batch.sha256(candidate.fetch("text"))
+              "sha256" => Batch.sha256(candidate.fetch("text")),
+              "review" => candidate.fetch("review")
             }
           end
         }
@@ -740,6 +977,7 @@ module TaelgarNoteLint
             "outcome" => "ineligible",
             "expectedSha256" => expected_sha,
             "text" => live_text,
+            "review" => { "level" => "mechanical", "categories" => [] },
             "skipWrite" => true
           }
         end
@@ -752,6 +990,9 @@ module TaelgarNoteLint
         outcome = decision.fetch("outcome")
         report = validate_report(decision["lintReport"], outcome, path)
         validate_editorial_consistency!(decision, report)
+        validate_declared_body_edits!(decision, live_note, staged_note, path)
+        validate_shared_nonpublic_review!(decision, staged_note, report, outcome, path)
+        validate_documented_names_preserved!(live_note, staged_note, path)
         text_without_lint = staged_text.gsub(LINT_BLOCK_PATTERN, "")
         note = ParsedNote.new(path, text_without_lint)
         raise BatchError, "Cannot finalize invalid frontmatter in #{path}: #{note.yaml_error || note.frontmatter_state}" unless note.frontmatter_state == :present && !note.yaml_error
@@ -770,6 +1011,11 @@ module TaelgarNoteLint
           rules = errors.map { |finding| finding["ruleId"] }.uniq.join(", ")
           raise BatchError, "Final deterministic validation failed for #{path}: #{rules}"
         end
+        whitespace_errors = Batch.introduced_whitespace_errors(live_text, formatted)
+        unless whitespace_errors.empty?
+          details = whitespace_errors.first(5).map(&:strip).join("; ")
+          raise BatchError, "Final candidate introduces whitespace errors in #{path}: #{details}"
+        end
 
         {
           "path" => path,
@@ -777,7 +1023,8 @@ module TaelgarNoteLint
           "editorialVerdict" => decision.fetch("editorialVerdict"),
           "outcome" => outcome,
           "expectedSha256" => expected_sha,
-          "text" => formatted
+          "text" => formatted,
+          "review" => Batch.classify_change(live_text, formatted)
         }
       rescue FrontmatterFormatter::UnsafeFrontmatter => error
         raise BatchError, "Cannot safely format #{path}: #{error.message}"
@@ -817,8 +1064,10 @@ module TaelgarNoteLint
             raise BatchError, "A semantically ineligible result requires completed Sol xhigh adjudication: #{path}"
           end
           unless decision["editorialVerdict"].nil? && decision["outcome"].nil? &&
-                 decision["lintReport"].to_s.strip.empty? && decision["handoff"].to_s.strip.empty?
-            raise BatchError, "A semantically ineligible result cannot carry a verdict, outcome, Lint report, or handoff: #{path}"
+                 decision["lintReport"].to_s.strip.empty? && decision["handoff"].to_s.strip.empty? &&
+                 Array(decision["bodyEdits"]).empty? && Array(decision["sharedNonpublicReview"]).empty? &&
+                 decision["editorialAssessment"].to_s.strip.empty? && decision["expansionCandidate"].nil?
+            raise BatchError, "A semantically ineligible result cannot carry a verdict, outcome, report, handoff, or review payload: #{path}"
           end
         when "eligible"
           verdict = decision["editorialVerdict"]
@@ -832,6 +1081,8 @@ module TaelgarNoteLint
              decision["adjudication"] != "complete"
             raise BatchError, "Invention-based underdevelopment requires completed Sol xhigh adjudication: #{path}"
           end
+          validate_expansion_candidate!(decision, path)
+          validate_editorial_assessment!(decision, path)
         else
           raise BatchError, "Every note needs completed semantic eligibility review: #{path}"
         end
@@ -849,6 +1100,10 @@ module TaelgarNoteLint
         end
         return unless verdict == "Underdeveloped"
 
+        unless report.to_s.match?(/^### Editorial assessment\s*$.*?\*\*Underdeveloped\*\*/m)
+          raise BatchError, "An Underdeveloped report must include an explicit editorial assessment: #{path}"
+        end
+
         central_gap = rule_ids.include?("editorial.note_underdeveloped") ||
                       rule_ids.any? { |rule_id| rule_id.start_with?("coverage.") }
         unless central_gap
@@ -858,6 +1113,127 @@ module TaelgarNoteLint
 
       def report_rule_ids(report)
         report.to_s.scan(/\*\*(?:Error|Warning|Suggestion)\s+—\s+([a-z0-9_.-]+):/i).flatten
+      end
+
+      def validate_expansion_candidate!(decision, path)
+        expansion = decision["expansionCandidate"]
+        if decision["editorialVerdict"] != "Sufficient, worth expanding"
+          unless expansion.nil?
+            raise BatchError, "Only a Sufficient, worth expanding verdict may carry an expansion candidate: #{path}"
+          end
+          return
+        end
+        unless expansion.is_a?(Hash) && !expansion["addition"].to_s.strip.empty? &&
+               !expansion["benefit"].to_s.strip.empty? && expansion["sources"].is_a?(Array) &&
+               !expansion["sources"].empty?
+          raise BatchError, "Sufficient, worth expanding requires a concrete structured expansion candidate: #{path}"
+        end
+        expansion.fetch("sources").each do |source|
+          unless source.is_a?(Hash) && !source["path"].to_s.strip.empty? &&
+                 !source["evidence"].to_s.strip.empty? && EXPANSION_CERTAINTIES.include?(source["certainty"].to_s)
+            raise BatchError, "Every expansion source needs path, evidence, and supported certainty: #{path}"
+          end
+        end
+      end
+
+      def validate_editorial_assessment!(decision, path)
+        assessment = decision["editorialAssessment"]
+        if decision["editorialVerdict"] == "Underdeveloped"
+          if assessment.to_s.strip.empty?
+            raise BatchError, "An Underdeveloped verdict requires an explicit editorial assessment: #{path}"
+          end
+        elsif !assessment.nil?
+          raise BatchError, "Only an Underdeveloped verdict may carry an editorial assessment: #{path}"
+        end
+      end
+
+      def validate_declared_body_edits!(decision, live_note, staged_note, path)
+        before = Batch.semantic_body_for_edit_declaration(live_note)
+        after = Batch.semantic_body_for_edit_declaration(staged_note)
+        edits = Array(decision["bodyEdits"])
+        if before == after
+          raise BatchError, "A result without body prose changes cannot declare body edits: #{path}" unless edits.empty?
+          return
+        end
+        if edits.empty?
+          raise BatchError, "Every body prose change requires a declared objective edit: #{path}"
+        end
+        edits.each do |edit|
+          unless edit.is_a?(Hash) && !edit["original"].to_s.empty? && !edit["replacement"].to_s.empty? &&
+                 BODY_EDIT_BASES.include?(edit["basis"].to_s)
+            raise BatchError, "Every body edit needs original, replacement, and an objective basis: #{path}"
+          end
+          unless before.include?(edit.fetch("original")) && after.include?(edit.fetch("replacement"))
+            raise BatchError, "A declared body edit does not match the staged prose: #{path}"
+          end
+          if edit["basis"] == "source_correction" && edit["sourcePath"].to_s.strip.empty?
+            raise BatchError, "A source correction body edit needs sourcePath: #{path}"
+          end
+        end
+      end
+
+      def validate_shared_nonpublic_review!(decision, staged_note, report, outcome, path)
+        expected = Batch.shared_nonpublic_units(staged_note)
+        reviews = Array(decision["sharedNonpublicReview"])
+        expected_keys = expected.map { |unit| [unit["kind"], unit["contentSha256"]] }.sort
+        review_keys = reviews.map { |unit| [unit["kind"], unit["contentSha256"]] }.sort
+        unless expected_keys == review_keys && review_keys.uniq.length == review_keys.length
+          raise BatchError, "Shared nonpublic review must disposition every current comment and Campaign:none block exactly once: #{path}"
+        end
+        rule_ids = report_rule_ids(report)
+        reviews.each do |review|
+          disposition = review["disposition"].to_s
+          unless SHARED_NONPUBLIC_DISPOSITIONS.include?(disposition) && !review["summary"].to_s.strip.empty?
+            raise BatchError, "Every shared nonpublic unit needs a supported disposition and summary: #{path}"
+          end
+          required_rule = OPEN_SHARED_NONPUBLIC_RULES[disposition]
+          next unless required_rule
+          unless outcome == "open" && rule_ids.include?(required_rule)
+            raise BatchError, "#{disposition} requires open #{required_rule}: #{path}"
+          end
+        end
+        OPEN_SHARED_NONPUBLIC_RULES.each do |disposition, rule_id|
+          next unless rule_ids.include?(rule_id)
+          next if reviews.any? { |review| review["disposition"] == disposition }
+
+          raise BatchError, "#{rule_id} requires a matching shared nonpublic disposition: #{path}"
+        end
+      end
+
+      def validate_documented_names_preserved!(live_note, staged_note, path)
+        before = Batch.name_block_data(live_note).select { |entry| entry.is_a?(Hash) && entry["status"] == "documented" }
+        after = Batch.name_block_data(staged_note).select { |entry| entry.is_a?(Hash) }
+        before.each do |original|
+          identity = Batch.documented_name_identity(original)
+          candidate = after.find { |entry| Batch.documented_name_identity(entry) == identity }
+          unless candidate && candidate["status"] == "documented"
+            raise BatchError, "A documented name entry was removed or downgraded: #{path}"
+          end
+          original.each do |key, value|
+            next unless Batch.populated_documented_value?(value)
+            next if Batch.canonical_review_value(candidate[key]) == Batch.canonical_review_value(value)
+
+            raise BatchError, "A populated documented name value changed (#{key}): #{path}"
+          end
+        end
+      end
+
+      def review_summary(candidates)
+        changed = candidates.reject { |candidate| candidate.fetch("text") == TaelgarNoteLint.read_text(@root.join(candidate.fetch("path"))) }
+        targeted = changed.select { |candidate| candidate.dig("review", "level") == "targeted" }
+        mechanical = changed - targeted
+        summary = {
+          "changedPaths" => changed.map { |candidate| candidate.fetch("path") },
+          "mechanicalOnlyPaths" => mechanical.map { |candidate| candidate.fetch("path") },
+          "targetedReviewPaths" => targeted.map { |candidate| candidate.fetch("path") },
+          "categories" => {}
+        }
+        REVIEW_CATEGORIES.each do |category|
+          paths = changed.select { |candidate| candidate.dig("review", "categories").include?(category) }
+                         .map { |candidate| candidate.fetch("path") }
+          summary.fetch("categories")[category] = paths unless paths.empty?
+        end
+        summary
       end
 
       def commit(candidates)
