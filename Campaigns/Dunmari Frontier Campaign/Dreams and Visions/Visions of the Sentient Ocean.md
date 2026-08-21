@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T15:54:27-04:00"
+lintVersion: "3.4"
 tags: [source]
 campaign: Dunmar Frontier
 name: Visions of the Sentient Ocean
@@ -81,5 +81,3 @@ Delwath thinks of the memory of the [[Meswati]], the lost gods of the [[Deno'qai
 *Now you can see the water below you has become clear, and you see the ruined city of Omi below you—the rotted bits of jade, the cracked foundations, this rift. You’re still high enough up that you sense you’re not quite through, but you see what is there now. And you hear the ocean asking, "How can this be made better? It’s asking not just about its story, but your stories too—where does this story go, and how does it end?"*
 
 *And with your answers and thoughts, it lets you pass, not sure of the answer, but trusting you to find the right one, and an ending that is better than the present.*
-
-

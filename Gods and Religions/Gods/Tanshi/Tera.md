@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T10:48:34-04:00"
+lintedAt: "2026-08-21T15:58:36-04:00"
 lintVersion: "3.4"
 tags: [power, religion/tanshi]
 typeOf: tanshi

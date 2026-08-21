@@ -21,7 +21,7 @@ dm_notes: color
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on June 19th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
-An older man, in his mid-50s, bulky and solidly built, with gray eyes, short black hair, and a beard. He is the blacksmith in [[Karawa]], and a common partron of [[Ikram’s]], where he can often be found drinking in the courtyard in the evenings. 
+An older man, in his mid-50s, bulky and solidly built, with gray eyes, short black hair, and a beard. He is the blacksmith in [[Karawa]], and a common partron of [[Ikram's]], where he can often be found drinking in the courtyard in the evenings. 
 
 %%need to update whereabouts with the rest of the Karawa refugees%%
 

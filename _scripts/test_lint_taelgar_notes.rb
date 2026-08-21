@@ -473,7 +473,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
           "editorialVerdict" => "Sufficient",
           "outcome" => "clean",
           "lintReport" => nil,
-          "dmNotesReview" => { "required" => false, "sourceReviews" => [] }
+          "dmNotesReview" => { "required" => false, "sourceReviews" => [] },
+          "secretReview" => []
         }
       ]
     }
@@ -1074,7 +1075,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal "open", result.fetch("notes").first.fetch("outcome")
   end
 
-  def test_finalizer_requires_structured_dm_source_dispositions_and_exact_wikilinks
+  def test_finalizer_positive_dm_attestation_needs_dispositions_but_no_source_list
     root = make_vault
     path = "People/DM Review.md"
     write_note(
@@ -1096,6 +1097,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal source_path, source_review.fetch("path")
     source_review["disposition"] = "matching"
     source_review["summary"] = "Confirmed as a direct subject link."
+    source_review["recovery"] = "not_applicable"
     decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "open"
     decision["lintReport"] = <<~REPORT.strip
@@ -1107,27 +1109,257 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       %%^End%%
     REPORT
 
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
+    aliased_link = link.sub(/\]\]\z/, "|private source]]")
+    decision["lintReport"] = <<~REPORT.strip
+      %%^Lint%%
+      - #{aliased_link}
+
+      - [ ] **Suggestion — review.current:** Human review is still required.
+      %%^End%%
+    REPORT
     error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
       finalizer(root, manifest, manifest_sha, decisions).finalize
     end
-    assert_includes error.message, "must list every confirmed _DM_ match"
-
-    link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
-    decision["lintReport"] = decision.fetch("lintReport").sub(
-      "Matching local-only notes support the positive attestation.",
-      "Matching local-only notes support the positive attestation: #{link}."
-    )
-    finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_includes error.message, "must not be listed"
 
     decision["outcome"] = "clean"
     decision["lintReport"] = nil
-    decision["handoff"] = "Sufficient and clean."
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+  end
+
+  def test_finalizer_omits_unhelpful_dm_notes_none_matches_from_note_and_handoff
+    root = make_vault
+    path = "People/No Recovery.md"
+    write_note(
+      root,
+      path,
+      person_note("No Recovery").sub(
+        "knownTo: []\n",
+        "knownTo: []\ndm_owner: tim\ndm_notes: none\n"
+      )
+    )
+    source_path = "_DM_/No Recovery Notes.md"
+    write_note(root, source_path, "# Notes\n\n[[No Recovery]] repeats the public note.\n")
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    decision.dig("dmNotesReview", "sourceReviews", 0).merge!(
+      "disposition" => "matching",
+      "summary" => "Confirmed as a direct subject link.",
+      "recovery" => "no_recoverable_material"
+    )
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "clean"
+
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
+    aliased_link = link.sub(/\]\]\z/, "|private source]]")
+    decision["handoff"] = "- #{aliased_link}"
     error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
       finalizer(root, manifest, manifest_sha, decisions).finalize
     end
-    assert_includes error.message, "clean-result handoff"
+    assert_includes error.message, "must not be listed"
+  end
 
-    decision["handoff"] = "Sufficient and clean; matching source: #{link}."
+  def test_finalizer_requires_private_recovery_handoff_and_list_form_links
+    root = make_vault
+    path = "People/Recoverable.md"
+    write_note(
+      root,
+      path,
+      person_note("Recoverable").sub(
+        "knownTo: []\n",
+        "knownTo: []\ndm_owner: tim\ndm_notes: none\n"
+      )
+    )
+    source_path = "_DM_/Recoverable Notes.md"
+    write_note(root, source_path, "# Recoverable\n\n[[Recoverable]] wears a silver badge.\n")
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    chat_summary = "The private note adds a distinctive silver badge absent from the public article."
+    candidate = "Recoverable wears a distinctive silver badge."
+    decision.dig("dmNotesReview", "sourceReviews", 0).merge!(
+      "disposition" => "matching",
+      "summary" => "Confirmed as a direct subject link.",
+      "recovery" => "public_candidate",
+      "chatSummary" => chat_summary,
+      "candidate" => candidate
+    )
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "clean"
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "chat handoff must explain"
+
+    link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
+    decision["handoff"] = "#{chat_summary}\n\n#{candidate}\n\nSource: #{link}"
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "chat handoff must explain"
+
+    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}\n\nSource: #{link}"
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "Markdown list items in the chat handoff"
+
+    aliased_link = link.sub(/\]\]\z/, "|private source]]")
+    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}\n\n- #{aliased_link}"
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    decision["outcome"] = "open"
+    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}"
+    decision["lintReport"] = <<~REPORT.strip
+      %%^Lint%%
+      ### Validated judgments
+      - Recoverable local-only source: #{link}
+
+      - [ ] **Suggestion — review.current:** Human review is still required.
+      %%^End%%
+    REPORT
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "own Markdown list item"
+
+    decision["lintReport"] = <<~REPORT.strip
+      %%^Lint%%
+      ### Validated judgments
+      Recoverable local-only source:
+      - #{link}
+
+      - [ ] **Suggestion — review.current:** Human review is still required.
+      %%^End%%
+    REPORT
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}\n\n- #{aliased_link}"
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "must be omitted from the chat handoff"
+    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}"
+
+    decision["lintReport"] = decision.fetch("lintReport").sub(
+      "Recoverable local-only source:",
+      "Recoverable local-only source: [[Recoverable]] wears a silver badge."
+    )
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "Raw _DM_ source content"
+
+    decision["lintReport"] = decision.fetch("lintReport").sub(
+      "Recoverable local-only source: [[Recoverable]] wears a silver badge.",
+      "Recoverable local-only source:"
+    )
+
+    decision["lintReport"] = decision.fetch("lintReport").sub(
+      "Recoverable local-only source:",
+      "Recoverable local-only source: #{candidate}"
+    )
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "must not appear in the Git-shared Lint report"
+  end
+
+  def test_finalizer_keeps_recoverable_secret_content_in_chat_only
+    root = make_vault
+    path = "People/Secret Recovery.md"
+    note = person_note("Secret Recovery").sub(
+      "\n%%^Metadata:names:v1%%",
+      "\n%%SECRET Code is 1234. %%\n\n%%^Metadata:names:v1%%"
+    )
+    write_note(root, path, note)
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    secret_review = decision.fetch("secretReview").first
+    summary = "The SECRET block contains a short access code absent from the visible article."
+    candidate = "Record access code 1234 in Secret Recovery's private reference material."
+    secret_review.merge!(
+      "disposition" => "private_candidate",
+      "summary" => summary,
+      "candidate" => candidate
+    )
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "clean"
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "chat handoff must explain"
+
+    decision["handoff"] = "Destination: private\n\n#{summary}\n\n#{candidate}"
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    decision["outcome"] = "open"
+    decision["lintReport"] = lint_report("review.current").sub(
+      "Human review is still required.",
+      "Human review is still required. Code is 1234."
+    )
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "Raw SECRET content"
+  end
+
+  def test_finalizer_ignores_links_in_the_old_lint_block_and_supports_identical_secret_blocks
+    root = make_vault
+    path = "People/Old Private Link.md"
+    source_path = "_DM_/Old Private Link Notes.md"
+    link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
+    note = person_note("Old Private Link")
+      .sub("tags: [person]", "tags: [person, status/check/lint]")
+      .sub("knownTo: []\n", "knownTo: []\ndm_owner: tim\ndm_notes: none\n")
+      .sub(
+        "\n%%^Metadata:names:v1%%",
+        "\n%%SECRET Repeated secret detail for ordinal testing. %%\n\n%%SECRET Repeated secret detail for ordinal testing. %%\n\n%%^Metadata:names:v1%%"
+      )
+      .sub(
+        /\z/,
+        "\n%%^Lint%%\nRecovered source:\n- #{link}\n\n- [ ] **Suggestion — old.review:** Old task.\n%%^End%%\n"
+      )
+    write_note(root, path, note)
+    write_note(root, source_path, "# Notes\n\n[[Old Private Link]] has a recoverable bronze clasp.\n")
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    summary = "The private source adds a bronze clasp absent from the article."
+    candidate = "Old Private Link wears a bronze clasp."
+    decision.dig("dmNotesReview", "sourceReviews", 0).merge!(
+      "disposition" => "matching",
+      "summary" => "Confirmed as a direct subject link.",
+      "recovery" => "public_candidate",
+      "chatSummary" => summary,
+      "candidate" => candidate
+    )
+    decision.fetch("secretReview").each do |review|
+      review.merge!(
+        "disposition" => "no_recoverable_material",
+        "summary" => "The repeated SECRET block adds no useful recovery candidate."
+      )
+    end
+    assert_equal [1, 2], decision.fetch("secretReview").map { |review| review.fetch("ordinal") }
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "clean"
+    decision["handoff"] = "Destination: public\n\n#{summary}\n\n#{candidate}"
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "Markdown list items in the chat handoff"
+
+    decision["handoff"] = "Destination: public\n\n#{summary}\n\n#{candidate}\n\n- #{link}"
     finalizer(root, manifest, manifest_sha, decisions).finalize
   end
 
@@ -1149,6 +1381,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     source_review = decision.dig("dmNotesReview", "sourceReviews", 0)
     source_review["disposition"] = "not_matching"
     source_review["summary"] = "Rejected as a subject-name collision."
+    source_review["recovery"] = "not_applicable"
     decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "open"
     decision["lintReport"] = lint_report("review.current")

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T15:54:27-04:00"
+lintVersion: "3.4"
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: building
 typeOfAlias: library
@@ -37,18 +37,50 @@ Temporal coverage: a broadly modern institutional overview with founding and exp
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+### Editorial assessment
+**Underdeveloped**. The visible article identifies the Great Library's broad purpose and two early historical facts but omits its established modern institutional relationships and operating role. The smallest useful scope is one sourced paragraph connecting it to the [[University of Chardon]], [[Hetaeri Magica]], [[Society of the Open Scroll]], and archivist-led expeditions.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/gameupdate/gl` is supported by the note's current structure or cited campaign state; no status was changed.
+- The documented Common descriptive name does not require a pronunciation entry.
+- The broad modern POV is usable, but its notes correctly acknowledge that later Great Library campaign developments are not represented in the visible article.
+- The existing `status/gameupdate/gl` tag is preserved: the exact disposition of later campaign material requires human editorial choice.
+- The ordinary editorial comment is a source pointer and remains useful until the incorporation work is resolved.
+- Confirmed local-only references are listed below without exposing their content.
+
+### Private-source references
+- Did you check these local-only notes?
+  - [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Apollyon (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Vola Forena (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chalice of the Runepriest (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Power Structures]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Raven's Hold/Session 11]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Session 15]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Session 16]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Stormcaller Tower (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 44]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/NPCS of Morkalan/Vita and Caius]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Riswynn Solo Arc]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/History of Blasted Plains]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Major Players]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Backstory]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Brainstorming]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Summary]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Player Questions]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Secrets of Karawa]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Strangers in Town]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Kenzo (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Riswynn (OneNote)]]
+  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics - ChatGPT Summary]]
+  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics]]
+  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
+  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - Brainstorming]]
+  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - DM Notes]]
+  - [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Stormcaller Tower - DM Version]]
 
 ### Open findings
-
-- [ ] **Warning — editorial.scope_incomplete:** The note explicitly says OneNote material remains to be incorporated and retains status/gameupdate/gl. Candidate: reconcile the institutional overview with the identified human-authored OneNote source before clearing the status.
-
+- [ ] **Warning — coverage.established_fact_missing:** Add a concise, source-grounded modern overview. Copy-ready candidate: Beyond preserving books and artifacts, the Great Library is an independent academic institution closely affiliated with the [[University of Chardon]] through the [[Hetaeri Magica]]. It provides much of the funding for the [[Society of the Open Scroll]] and sponsors archivist-led expeditions to recover lost knowledge and magic; in DR 1747, Archivist [[Lyra]] hired the future [[Silver Tempests]] to recover the [[Elemental Scrolls of Airion]].
 %%^End%%

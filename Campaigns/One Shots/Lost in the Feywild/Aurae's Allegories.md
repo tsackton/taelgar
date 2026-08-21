@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T15:54:27-04:00"
+lintVersion: "3.4"
 tags: [source]
 campaign: Lost in the Feywild
 name: "Aurae's Allegories"
@@ -60,4 +60,3 @@ Until, the man who dearly wanted to keep his friends safe learned that his neigh
 - {name: "Aurae's Allegories", role: primary, language: Common, status: documented, notes: Descriptive title for the allegories told by Aurae.}
 - {name: Aurae, role: name component, language: Drankorian, pronunciation: OUR-ray or ARR-ray, notes: Recorded pronunciation; its source is not identified in the note., status: documented}
 %%^End%%
-

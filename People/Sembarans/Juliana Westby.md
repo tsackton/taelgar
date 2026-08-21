@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T13:33:35-04:00"
 lintVersion: "3.4"
-tags: [person, status/cleanup/text, status/check/lint]
+tags: [person, status/check/mike]
 species: human
 ancestry: Sembaran
 gender: female
@@ -24,6 +24,7 @@ POV: 1720
 
 %%lady of cranmere, young, recently inherited after her mother died in the undead stuff, actively seeking husband is the main news
 excited to host the party%%
+
 
 
 

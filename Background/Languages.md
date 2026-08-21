@@ -92,6 +92,12 @@ _Real world analog: Northros languages are based on Semitic languages_
 
 %% note: Northos language scripts are in flux and might change, should generally not be considered canonical, excepting Mawaran%%
 
+##### Old Northros
+A general term for the early languages spoken by the northerners during the first migrations before the Downfall. Historical only now, though Deno'qai is the most similar modern tongue, and might be mutually intelligible to a degree, and Old Zimkovan probably has some similarities too. 
+
+_Real world analog_: Semitic languages generally
+_Alphabet_: Unknown. %% Previously was stated as an alphabet based on Elvish, but it might be better to have it be a Northros alphabet %%
+
 ##### Old Zimkovan
 The ancient language of the [[Zimkova|Zimka]] people, mostly no longer spoken outside of the most traditional and isolated parts of northern [[Zimkova]] and parts of the [[Lavnoch Plateau]].
 

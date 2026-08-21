@@ -19,6 +19,6 @@ dm_notes: important
 
 %%need to get campaign info and whereabouts from various other notes%%
 
-![[ikram.png|left|350]]The owner of the caravanserai in Karawa, the eponymously named [[Ikram’s]]. He is proud of his establishment, the food and drink it serves, and the commerce it attracts. Perennially optimistic, sociable, and friendly. Always ready with a drink and a story, to tell or to hear; prone to gossip and particularly fond of travelers and new stories. 
+![[ikram.png|left|350]]The owner of the caravanserai in Karawa, the eponymously named [[Ikram's]]. He is proud of his establishment, the food and drink it serves, and the commerce it attracts. Perennially optimistic, sociable, and friendly. Always ready with a drink and a story, to tell or to hear; prone to gossip and particularly fond of travelers and new stories. 
 
 %%SECRET[v2:4b4618ee2a6f47d4eb1dee3f4eb9e3bd]%%

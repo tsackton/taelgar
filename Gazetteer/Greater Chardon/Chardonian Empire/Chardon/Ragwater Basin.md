@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T15:54:27-04:00"
+lintVersion: "3.4"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>", defArt: ""}
-tags: [place]
+tags: [place, status/gameupdate/dufr]
 typeOf: neighborhood
 typeOfAlias: neighborhood
 name: Ragwater Basin
 whereabouts: North Bank
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: "1749"
 ---
 # Ragwater Basin
@@ -28,5 +28,5 @@ Together, the Basin and Riverside make up Precinct XVII.
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: through early DR 1749. Urban reference baseline before refinery damage, seizures, and ownership changes recorded in Sessions 124-129.
+Temporal coverage: through early DR 1749. Urban reference baseline before refinery damage, seizures, and ownership changes recorded in Sessions 124-129. See: [[Chardon Chalyte Riots]], [[Chardonian Chalyte Trade Reforms]], and [[Session 129 (DuFr)]].
 %%^End%%

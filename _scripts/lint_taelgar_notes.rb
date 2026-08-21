@@ -22,7 +22,7 @@ require_relative "validate_taelgar_note"
 module TaelgarNoteLint
   module Batch
     SCHEMA_VERSION = 2
-    DECISION_SCHEMA_VERSION = 4
+    DECISION_SCHEMA_VERSION = 5
     WORKSPACE_SCHEMA_VERSION = 1
     DEFAULT_MAX_NOTES = 10
     DEFAULT_MAX_TOKENS = 30_000
@@ -62,6 +62,18 @@ module TaelgarNoteLint
       no_useful_material
     ].freeze
     DM_SOURCE_DISPOSITIONS = %w[matching not_matching].freeze
+    DM_RECOVERY_DISPOSITIONS = %w[
+      not_applicable
+      no_recoverable_material
+      public_candidate
+      private_candidate
+    ].freeze
+    SECRET_RECOVERY_DISPOSITIONS = %w[
+      no_recoverable_material
+      public_candidate
+      private_candidate
+      speculative_or_unresolved
+    ].freeze
     OPEN_SHARED_NONPUBLIC_RULES = {
       "redundant_with_public" => "editorial.shared_material_redundant",
       "public_adoption_candidate" => "editorial.public_material_candidate"
@@ -175,6 +187,30 @@ module TaelgarNoteLint
       end
     end
 
+    def secret_units(note)
+      body = body_without_lint(note)
+      [METADATA_BLOCK_PATTERN, POV_NOTES_BLOCK_PATTERN, LEGACY_ARTICLE_BLOCK_PATTERN].each do |pattern|
+        body = body.gsub(pattern, "")
+      end
+      body.to_enum(:scan, /%%SECRET\b.*?%%/m).each_with_index.map do |_match, index|
+        {
+          "kind" => "SECRET",
+          "ordinal" => index + 1,
+          "contentSha256" => sha256(Regexp.last_match[0])
+        }
+      end
+    end
+
+    def secret_review_template(note)
+      secret_units(note).map do |unit|
+        unit.merge(
+          "disposition" => "review_required",
+          "summary" => nil,
+          "candidate" => nil
+        )
+      end
+    end
+
     def dm_notes_candidate_sources(record)
       Array(record.dig("deterministic", "findings")).flat_map do |finding|
         next [] unless finding["ruleId"].to_s.start_with?("dm.notes_")
@@ -191,13 +227,84 @@ module TaelgarNoteLint
       {
         "required" => required,
         "sourceReviews" => dm_notes_candidate_sources(record).map do |path|
-          { "path" => path, "disposition" => "review_required", "summary" => nil }
+          {
+            "path" => path,
+            "disposition" => "review_required",
+            "summary" => nil,
+            "recovery" => "review_required",
+            "chatSummary" => nil,
+            "candidate" => nil
+          }
         end
       }
     end
 
     def dm_note_wikilink(path)
       "[[#{path.sub(/\.md\z/, '')}]]"
+    end
+
+    def dm_note_wikilink_pattern(path)
+      target = Regexp.escape(path.sub(/\.md\z/, ""))
+      /\[\[#{target}(?:\.md)?(?:\|[^\]\r\n]+)?\]\]/
+    end
+
+    def contains_dm_note_wikilink?(text, path)
+      text.to_s.match?(dm_note_wikilink_pattern(path))
+    end
+
+    def markdown_list_contains_wikilink?(text, path)
+      link = dm_note_wikilink_pattern(path)
+      text.to_s.lines.any? { |line| line.match?(/\A\s*-\s+#{link}(?:\s.*)?\z/) }
+    end
+
+    def public_identity_fragments(note)
+      values = [File.basename(note.path.to_s, ".md"), note.data["name"], *Array(note.data["aliases"])]
+      values.map { |value| value.to_s.gsub(/\s+/, " ").strip.downcase }.reject(&:empty?).uniq
+    end
+
+    def private_text_fragments(text, ignored_fragments: [])
+      ignored = ignored_fragments.each_with_object({}) { |fragment, memo| memo[fragment.to_s.downcase] = true }
+      content = text.to_s.sub(/\A---\r?\n.*?\r?\n---\r?\n/m, "")
+      content.lines.each_with_object([]) do |line, fragments|
+        heading = line.strip.start_with?("#")
+        fragment = line.strip
+          .sub(/\A%%SECRET\b\s*/, "")
+          .sub(/%%\z/, "")
+          .sub(/\A(?:[-*+]|\d+\.)\s+/, "")
+          .sub(/\A#+\s*/, "")
+          .gsub(/[*_`]/, "")
+          .gsub(/\s+/, " ")
+          .strip
+        next if fragment.empty? || fragment == "---"
+        next if fragment.start_with?("```", "~~~")
+        next if fragment.match?(/\A\[\[[^\]]+\]\]\z/)
+        next if heading && fragment.match?(/\A(?:notes?|dm notes?|private notes?)\z/i)
+
+        normalized = fragment.downcase
+        next if ignored[normalized]
+
+        fragments << normalized if normalized.length >= 4
+        words = normalized.split
+        words.each_cons(4) do |phrase|
+          candidate = phrase.join(" ")
+          fragments << candidate if candidate.length >= 16
+        end
+      end.uniq
+    end
+
+    def private_excerpt_in_report?(report, source_text, ignored_fragments: [])
+      normalized_report = report.to_s
+        .gsub(/\[\[_DM_\/[^\]]+\]\]/, "")
+        .gsub(/[*_`]/, "")
+        .gsub(/\s+/, " ")
+        .downcase
+      private_text_fragments(source_text, ignored_fragments: ignored_fragments).any? do |fragment|
+        normalized_report.include?(fragment)
+      end
+    end
+
+    def recovery_destination_marker(disposition)
+      disposition == "public_candidate" ? "Destination: public" : "Destination: private"
     end
 
     def name_block_data(note)
@@ -603,6 +710,7 @@ module TaelgarNoteLint
             "handoff" => nil,
             "bodyEdits" => [],
             "dmNotesReview" => Batch.dm_notes_review_template(record),
+            "secretReview" => Batch.secret_review_template(note),
             "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
             "editorialAssessment" => nil,
             "expansionCandidate" => nil,
@@ -771,6 +879,7 @@ module TaelgarNoteLint
             "handoff" => nil,
             "bodyEdits" => [],
             "dmNotesReview" => Batch.dm_notes_review_template(record),
+            "secretReview" => Batch.secret_review_template(note),
             "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
             "editorialAssessment" => nil,
             "expansionCandidate" => nil,
@@ -1027,6 +1136,7 @@ module TaelgarNoteLint
         validate_editorial_consistency!(decision, report)
         validate_declared_body_edits!(decision, live_note, staged_note, path)
         validate_dm_notes_review!(decision, record, staged_note, report, outcome, path)
+        validate_secret_review!(decision, staged_note, report, path)
         validate_shared_nonpublic_review!(decision, staged_note, report, outcome, path)
         validate_documented_names_preserved!(live_note, staged_note, path)
         text_without_lint = staged_text.gsub(LINT_BLOCK_PATTERN, "")
@@ -1081,6 +1191,15 @@ module TaelgarNoteLint
         unless match[1].match?(/\*\*(?:Error|Warning|Suggestion)\s+—\s+[a-z0-9_.-]+:/i)
           raise BatchError, "Open Lint tasks must include a severity and stable rule ID: #{path}"
         end
+        report.lines.each do |line|
+          dm_links = line.scan(/\[\[_DM_\/[^\]]+\]\]/)
+          next if dm_links.empty?
+
+          list_item = line.match?(/\A\s*-\s+\[\[_DM_\/[^\]]+\]\](?:\s.*)?\z/)
+          unless dm_links.length == 1 && list_item
+            raise BatchError, "Every _DM_ wikilink in a Lint report must be its own Markdown list item: #{path}"
+          end
+        end
 
         report
       end
@@ -1102,6 +1221,7 @@ module TaelgarNoteLint
           unless decision["editorialVerdict"].nil? && decision["outcome"].nil? &&
                  decision["lintReport"].to_s.strip.empty? && decision["handoff"].to_s.strip.empty? &&
                  Array(decision["bodyEdits"]).empty? && decision["dmNotesReview"].nil? &&
+                 Array(decision["secretReview"]).empty? &&
                  Array(decision["sharedNonpublicReview"]).empty? &&
                  decision["editorialAssessment"].to_s.strip.empty? && decision["expansionCandidate"].nil?
             raise BatchError, "A semantically ineligible result cannot carry a verdict, outcome, report, handoff, or review payload: #{path}"
@@ -1116,6 +1236,9 @@ module TaelgarNoteLint
           end
           unless decision["dmNotesReview"].is_a?(Hash)
             raise BatchError, "Every eligible note needs a structured dm_notes review result: #{path}"
+          end
+          unless decision["secretReview"].is_a?(Array)
+            raise BatchError, "Every eligible note needs a structured SECRET review result: #{path}"
           end
           if report_rule_ids(decision["lintReport"]).include?("editorial.note_underdeveloped") &&
              decision["adjudication"] != "complete"
@@ -1237,25 +1360,157 @@ module TaelgarNoteLint
           unless DM_SOURCE_DISPOSITIONS.include?(source["disposition"].to_s) && !source["summary"].to_s.strip.empty?
             raise BatchError, "Every dm_notes source needs matching or not_matching disposition and a summary: #{path}"
           end
+
+          disposition = source["disposition"].to_s
+          recovery = source["recovery"].to_s
+          dm_notes = staged_note.data["dm_notes"].to_s
+          none_attestation = dm_notes.empty? || dm_notes == "none"
+          if disposition != "matching" || !none_attestation
+            unless recovery == "not_applicable" && source["chatSummary"].to_s.strip.empty? &&
+                   source["candidate"].to_s.strip.empty?
+              raise BatchError, "Only a confirmed match for dm_notes: none may carry private recovery content: #{path}"
+            end
+            next
+          end
+
+          unless DM_RECOVERY_DISPOSITIONS.include?(recovery) && recovery != "not_applicable"
+            raise BatchError, "Every confirmed match for dm_notes: none needs a recovery disposition: #{path}"
+          end
+          if %w[public_candidate private_candidate].include?(recovery)
+            if source["chatSummary"].to_s.strip.empty? || source["candidate"].to_s.strip.empty?
+              raise BatchError, "Every recoverable dm_notes source needs a chat summary and copy-ready candidate: #{path}"
+            end
+          elsif !source["chatSummary"].to_s.strip.empty? || !source["candidate"].to_s.strip.empty?
+            raise BatchError, "A dm_notes source without recoverable material cannot carry chat-only content: #{path}"
+          end
+        end
+
+        source_reviews.each do |source|
+          source_path = @root.join(source.fetch("path"))
+          next unless source_path.file?
+          next unless Batch.private_excerpt_in_report?(
+            report,
+            TaelgarNoteLint.read_text(source_path),
+            ignored_fragments: Batch.public_identity_fragments(staged_note)
+          )
+
+          raise BatchError, "Raw _DM_ source content must not appear in the Git-shared Lint report: #{path}"
+        end
+
+        recoverable_sources = source_reviews.select do |source|
+          source["disposition"] == "matching" && %w[public_candidate private_candidate].include?(source["recovery"])
+        end
+        if recoverable_sources.any?
+          handoff = decision["handoff"].to_s
+          recoverable_sources.each do |source|
+            destination_marker = Batch.recovery_destination_marker(source.fetch("recovery"))
+            unless handoff.include?(destination_marker) && handoff.include?(source.fetch("chatSummary")) &&
+                   handoff.include?(source.fetch("candidate"))
+              raise BatchError, "The chat handoff must explain every recoverable _DM_ source and give its candidate addition: #{path}"
+            end
+            [source["chatSummary"], source["candidate"]].each do |private_text|
+              if report.to_s.include?(private_text.to_s)
+                raise BatchError, "Chat-only _DM_ content must not appear in the Git-shared Lint report: #{path}"
+              end
+            end
+          end
+
+          if outcome == "open"
+            missing_from_report = recoverable_sources.reject do |source|
+              Batch.markdown_list_contains_wikilink?(report, source.fetch("path"))
+            end
+            unless missing_from_report.empty?
+              raise BatchError, "Recoverable _DM_ links in an open note must be Markdown list items in the Lint report: #{path}"
+            end
+            duplicated_in_handoff = recoverable_sources.select do |source|
+              Batch.contains_dm_note_wikilink?(handoff, source.fetch("path"))
+            end
+            unless duplicated_in_handoff.empty?
+              raise BatchError, "_DM_ links already listed in an open Lint report must be omitted from the chat handoff: #{path}"
+            end
+          else
+            final_body = Batch.body_without_lint(staged_note)
+            missing_from_note = recoverable_sources.reject do |source|
+              Batch.markdown_list_contains_wikilink?(final_body, source.fetch("path"))
+            end
+            duplicated_in_handoff = recoverable_sources.reject { |source| missing_from_note.include?(source) }.select do |source|
+              Batch.contains_dm_note_wikilink?(handoff, source.fetch("path"))
+            end
+            unless duplicated_in_handoff.empty?
+              raise BatchError, "_DM_ links already listed in the clean note must be omitted from the chat handoff: #{path}"
+            end
+            missing_from_handoff = missing_from_note.reject do |source|
+              Batch.markdown_list_contains_wikilink?(handoff, source.fetch("path"))
+            end
+            unless missing_from_handoff.empty?
+              raise BatchError, "Recoverable _DM_ links absent from a clean note must be Markdown list items in the chat handoff: #{path}"
+            end
+          end
+        end
+
+        nonrecoverable_sources = source_reviews - recoverable_sources
+        nonrecoverable_sources.each do |source|
+          source_path = source.fetch("path")
+          if Batch.contains_dm_note_wikilink?(report, source_path) ||
+             Batch.contains_dm_note_wikilink?(decision["handoff"], source_path)
+            raise BatchError, "Nonrecoverable or positive-attestation _DM_ sources must not be listed in note or chat output: #{path}"
+          end
         end
 
         matching_paths = source_reviews.each_with_object([]) do |source, paths|
           paths << source["path"] if source["disposition"] == "matching"
         end
-        if matching_paths.any?
-          destination = outcome == "open" ? report.to_s : decision["handoff"].to_s
-          location = outcome == "open" ? "Lint report" : "clean-result handoff"
-          missing = matching_paths.reject { |source| destination.include?(Batch.dm_note_wikilink(source)) }
-          unless missing.empty?
-            raise BatchError, "The #{location} must list every confirmed _DM_ match as an Obsidian wikilink: #{path}"
-          end
-          return
-        end
+        return if matching_paths.any?
 
         dm_notes = staged_note.data["dm_notes"].to_s
         return unless %w[color important].include?(dm_notes)
         unless outcome == "open" && report_rule_ids(report).include?("dm.notes_no_local_evidence")
           raise BatchError, "A positive dm_notes attestation without a confirmed match requires open dm.notes_no_local_evidence: #{path}"
+        end
+      end
+
+      def validate_secret_review!(decision, staged_note, report, path)
+        expected = Batch.secret_units(staged_note)
+        reviews = Array(decision["secretReview"])
+        expected_keys = expected.map { |unit| [unit["kind"], unit["ordinal"], unit["contentSha256"]] }.sort
+        review_keys = reviews.map { |unit| [unit["kind"], unit["ordinal"], unit["contentSha256"]] }.sort
+        unless expected_keys == review_keys && review_keys.uniq.length == review_keys.length
+          raise BatchError, "SECRET review must disposition every current SECRET block exactly once: #{path}"
+        end
+
+        handoff = decision["handoff"].to_s
+        Batch.secret_units(staged_note).each_with_index do |_unit, index|
+          secret_text = staged_note.body.to_enum(:scan, /%%SECRET\b.*?%%/m).map { Regexp.last_match[0] }[index]
+          next unless Batch.private_excerpt_in_report?(
+            report,
+            secret_text,
+            ignored_fragments: Batch.public_identity_fragments(staged_note)
+          )
+
+          raise BatchError, "Raw SECRET content must not appear in the Git-shared Lint report: #{path}"
+        end
+        reviews.each do |review|
+          disposition = review["disposition"].to_s
+          unless SECRET_RECOVERY_DISPOSITIONS.include?(disposition) && !review["summary"].to_s.strip.empty?
+            raise BatchError, "Every SECRET block needs a supported recovery disposition and summary: #{path}"
+          end
+          if %w[public_candidate private_candidate].include?(disposition)
+            if review["candidate"].to_s.strip.empty?
+              raise BatchError, "Every recoverable SECRET block needs a copy-ready candidate: #{path}"
+            end
+            destination_marker = Batch.recovery_destination_marker(disposition)
+            unless handoff.include?(destination_marker) && handoff.include?(review.fetch("summary")) &&
+                   handoff.include?(review.fetch("candidate"))
+              raise BatchError, "The chat handoff must explain every recoverable SECRET block and give its candidate addition: #{path}"
+            end
+            [review["summary"], review["candidate"]].each do |private_text|
+              if report.to_s.include?(private_text.to_s)
+                raise BatchError, "Chat-only SECRET content must not appear in the Git-shared Lint report: #{path}"
+              end
+            end
+          elsif !review["candidate"].to_s.strip.empty?
+            raise BatchError, "A SECRET block without recoverable material cannot carry a candidate addition: #{path}"
+          end
         end
       end
 

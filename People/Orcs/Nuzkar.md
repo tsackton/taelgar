@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T15:54:27-04:00"
+lintVersion: "3.4"
 tags: [person]
 species: orc
 born: 1698
@@ -17,7 +17,7 @@ whereabouts:
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
-POV: "1740s"
+POV: 1749
 ---
 # Nuzkar
 *(NUZ-car)*
@@ -59,10 +59,12 @@ So when a flying ship appears, looking for a loremaster and archivist, and willi
 Her sister is eager to go with her -- Aygul has always been the type who would have gone into the world, but she would not leave her sister, even though her sister kept talking about exploring/looking for stories. 
 %%
 
+%%SECRET[v2:0d1ddb96d55f4820f2fff7fd0c990987]%%
+
 %%^Metadata:names:v1%%
 - {name: Nuzkar, role: primary, language: Orcish, pronunciation: NUZ-car}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: the general description and family relationships fit a generic DR 1740s context. The DR 1748 and DR 1749 date blocks record Nuzkar's rededication and later departure with Riswynn, while the commented history remains unintroduced backstory development.
+Temporal coverage: a DR 1749 portrait of Nuzkar as a scholar and archivist, with dated passages marking her January rededication and June departure with Riswynn; the commented material remains tentative backstory rather than established article history.
 %%^End%%
