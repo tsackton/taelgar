@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
-tags: [place]
+tags: [place, status/check/lint]
 typeOf: island
 name: Calcara Island
 pronunciation: kahl-KAH-rah
@@ -50,5 +50,21 @@ Two main encounters:
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern; but pre-dates the post-campaign Dunmar Fellowship / Kenzo events, so inaccurate after 1750ish.
+Temporal coverage: broadly modern; the island's geography is stable, while the DR 1749 date block records Kazuro's residence and later plans for the island remain unresolved.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Rechecked the temporal metadata and clarified that the island's geography is broadly modern, Kazuro's residence is recorded by the DR 1749 block, and later plans remain unresolved.
+
+### Validated judgments
+- The documented Calcara Island name entry and pronunciation were preserved.
+- Matching local-only DM notes were checked; they do not invalidate the human attestation dm_notes: none.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment mixes player-safe cave description with speculative curse and encounter planning. [[Session 99 (DuFr)]] independently establishes the cave-filled limestone coast, Kazuro's blue-lit cave, its small dock and steps, and the party's promise to help him establish a school. Copy-ready public candidate: `Calcara's limestone cliffs contain numerous sea caves. Kazuro's cave is lit by a pale blue glow and has a small dock and steps leading to his stone dwelling. In DR 1749, he agreed to share his water-breathing concoctions after the [[Dunmar Fellowship]] promised to help him establish a small school.` Keep the unadopted future-site and encounter material hidden and separate unless a human canon decision is made.
+
 %%^End%%

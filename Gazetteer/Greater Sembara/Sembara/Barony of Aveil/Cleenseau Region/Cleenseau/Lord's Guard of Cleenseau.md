@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 displayDefaults: {boxInfo: ""}
-name: Lord's Guard of Cleenseau
+tags: [group, status/check/lint]
 typeOf: army
-subTypeOf: warband
+typeOfAlias: warband
+name: "Lord's Guard of Cleenseau"
 whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: color
+POV: 1720
 ---
 # The Lord's Guard of Cleenseau
 >[!info]+ Information  
@@ -28,7 +31,7 @@ The town watch is led by [[Beatrix Thorne]], and the current members are:
 * Clarissa, a guardswoman, recently killed by zombies
 * Jacques, a guardsman, recently killed by zombies
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Members
 
 ```dataviewjs
@@ -38,4 +41,25 @@ dv.table(["Person", "Info", "Current Location"],
 				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: "Lord's Guard of Cleenseau", role: primary, language: Common, pronunciation: LORDZ gard of KLEN-sew, notes: "The title words follow their ordinary Common reading; the Cleenseau component uses the pronunciation documented in [[Cleenseau]].", status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 snapshot whose leadership statements span incompatible states before and after the January undead attacks and require human reconciliation.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Converted deprecated `subTypeOf: warband` to `typeOfAlias: warband`, normalized the `Campaign:none` sentinel, and added supported name and temporal metadata.
+
+### Validated judgments
+- The `Campaign:none` block is an operational member index rather than narrative DM material.
+
+### Open findings
+- [ ] **Warning — coverage.later_material_change:** The article mixes incompatible January DR 1720 leadership states: it names [[Ysabel]] as sheriff, later calls [[Beatrix Thorne]] the current leader, and still names [[Ames Benthey]] as household commander. Campaign records establish that most of the guard and Ames left for Embry on January 3, [[Robin of Abenfyrd]] became acting captain, Ysabel died during the undead attacks, and Beatrix became sheriff on January 11. Choose a coherent article date and update the leadership, roster, `POV`, and `povNotes`; alternatively preserve an earlier snapshot and use the applicable game-update status.
 %%^End%%

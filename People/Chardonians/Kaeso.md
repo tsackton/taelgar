@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -99,24 +99,23 @@ Source links:
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: the visible biography is a late-1748 to 1749 snapshot. Kaeso's whereabouts in Hamri and later scrying appearances need consolidation before the note can reliably answer where he is within that interval.
+Temporal coverage: a late-1748 to DR 1749 snapshot; the visible biography is general, while whereabouts and campaign records place Kaeso in Hamri from October 1748 through at least May 1749.
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
 
 ### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Rechecked the temporal record and clarified that campaign evidence places Kaeso in Hamri from October DR 1748 through at least May DR 1749.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/cleanup/metadata`, `status/cleanup/text` are not assessable because they record human editorial intent; no status was changed.
+- Matching local-only DM notes support retaining the positive dm_notes attestation.
+- Non-check status disposition: status/cleanup/metadata and status/cleanup/text are not assessable because they record human editorial intent; neither was changed.
+- The later Mawar record corroborates the existing Hamri whereabouts; the scrying scenes do not support a new exact location row without human interpretation.
 
 ### Open findings
 
-- [ ] **suggestion — coverage.established_fact_missing:** The visible biography and campaign metadata do not yet consolidate the later Mawar stay and Dunmar Frontier scrying material already listed in the shared review comment. Copy-ready visible candidate from [[Mawar Adventures Episode 05]]: By DR 1749, Kaeso was staying in [[Hamri]], where he had warned local leaders about Chardon's exploitation of magic and the dangers of chalyte. The exact date for the later February scrying remains unresolved, so no additional `campaignInfo` row should be copied until it is confirmed.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Kaeso — KAI-soh` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — coverage.established_fact_missing:** The visible biography identifies Kaeso as Kenzo's mentor and a former Society member but omits the central anti-chalyte position established in [[Session 48 (DuFr)]]. Copy-ready candidate: `In DR 1748, Kaeso warned the [[Dunmar Fellowship]] that the Auratan family's control of the chalyte trade had given it dangerous influence, and that overuse of [[Chalyte|chalyte]] could burn away a user's soul.`
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent Kaeso name entry remains status: proposed with the pronunciation KAI-soh. Review the recorded Chardonian analogue and the KAY-zoh alternative, then accept an actual pronunciation in frontmatter or correct the persistent entry.
 
 %%^End%%

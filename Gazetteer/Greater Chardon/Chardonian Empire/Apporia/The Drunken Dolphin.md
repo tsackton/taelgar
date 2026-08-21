@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: inn
@@ -10,7 +10,7 @@ name: The Drunken Dolphin
 whereabouts: Castrella
 dm_owner: tim
 dm_notes: color
-POV: 1748
+POV: modern
 ---
 # The Drunken Dolphin
 >[!info]+ Information  
@@ -28,23 +28,22 @@ popular, relatively high-quality food, less of a rowdy place, known for singers
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1748 snapshot of the tavern during the Silver Tempests' information-gathering in Castrella; earlier and later operation are not described.
+Temporal coverage: approximately DR 1748–1749; the tavern is documented during visits by the Silver Tempests and Dunmar Fellowship, while earlier and later operation are not established.
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
 
 ### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+- Reassessed the article viewpoint as broadly modern and recorded the approximately DR 1748-1749 documented visits by the Silver Tempests and Dunmar Fellowship.
 
 ### Validated judgments
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- The plain-English tavern title does not require a pronunciation, and the documented Common name entry was preserved.
+- The rowdiness tension is confined to noncanonical shared planning rather than the visible article; it is handled in the bounded adoption decision below, not as a factual error in the campaign record.
 
 ### Open findings
 
-- [ ] **Warning — consistency.cross_note:** Session 98 calls the Drunken Dolphin a rowdy sailor's tavern, while the note's hidden planning comment says it is less rowdy. Candidate: decide whether Session 98's played description or the later planning note governs the tavern's tone, then align the visible sentence.
-- [ ] **Suggestion — dm.notes_no_local_evidence:** No local-only _DM_ notes found; verify dm_notes. The positive attestation may still represent remembered information or another off-vault source, so never remove it automatically.
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment contains a useful public-safe description of the tavern's food and singers, but its claim that the tavern is less rowdy conflicts with [[Session 98 (DuFr)]], which records it as a rowdy sailor's tavern. Copy-ready bounded candidate that preserves the supported and nonconflicting material: `The Drunken Dolphin is a popular dockside tavern known for relatively high-quality food and for the singers who perform there.` Decide separately whether to omit or reconcile the disputed rowdiness characterization.
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No matching local-only DM notes were found. Verify the positive dm_notes: color attestation; it may still represent remembered information or another off-vault source, so do not remove it automatically.
 
 %%^End%%

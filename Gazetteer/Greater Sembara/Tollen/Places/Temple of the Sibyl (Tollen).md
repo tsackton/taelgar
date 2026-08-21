@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 tags: [place]
-name: Temple of the Sibyl (Tollen)
 typeOf: holy site
 typeOfAlias: temple
-affiliations: [{org: The Sibyl, type: primary}]
+name: Temple of the Sibyl (Tollen)
+affiliations:
+  - {org: The Sibyl, type: primary}
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Temple of the Sibyl (Tollen)
 >[!info]+ Information  
@@ -19,3 +23,11 @@ The Temple of the Sibyl in [[Tollen]] is a vast domed temple in [[Godshome]], it
 ![[dome-of-the-sibyl.png]]
 
 ![[temple-of-sibyl-interior.png]]
+
+%%^Metadata:names:v1%%
+- {name: Temple of the Sibyl (Tollen), role: primary, language: Common, notes: "Plain Common descriptive title; the parenthetical distinguishes this temple from others in the vault.", status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern architectural description; no dated alteration to the temple is established.
+%%^End%%

@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T13:33:35-04:00"
+lintVersion: "3.4"
 tags: [meta]
 typeOf: hoard
 campaign: Dunmar Frontier
@@ -17,4 +17,3 @@ POV: 1748
 - A single small turquoise stone, found in wyvern lair in [[Vandar]], worth 70 gp.
 - Well-worked decorative saddle, found in wyvern lair in [[Vandar]], worth 40 gp.
 - Golden bracelet set with pearls, found in wyvern lair in [[Vandar]], worth 8 gp.
-
