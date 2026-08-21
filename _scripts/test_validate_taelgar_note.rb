@@ -22,7 +22,21 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal TaelgarNoteLint::DM_NOTES_REVIEW_VERSION, specification.data["dmNotesReviewVersion"]
     assert_equal TaelgarNoteLint::NAME_REVIEW_VERSION, specification.data["nameReviewVersion"]
     assert_equal TaelgarNoteLint::POV_REVIEW_VERSION, specification.data["povReviewVersion"]
-    assert_equal "3.2", TaelgarNoteLint::VERSION
+    assert_equal "3.3", TaelgarNoteLint::VERSION
+  end
+
+  def test_adopted_governance_records_editorial_sufficiency_lifecycle
+    specification = File.read(File.join(__dir__, "..", "_MoC", "Taelgar Note Linter.md"))
+    skill = File.read(File.join(__dir__, "..", ".agents", "skills", "lint-taelgar-note", "SKILL.md"))
+
+    ["Sufficient", "Sufficient, worth expanding", "Underdeveloped"].each do |verdict|
+      assert_includes specification, verdict
+      assert_includes skill, verdict
+    end
+    assert_includes specification, "**Sufficient, worth expanding** is a chat-only verdict."
+    assert_includes specification, "It never creates or retains a Lint block, `status/check/lint`, or an editorial comment"
+    assert_includes specification, "`editorial.note_underdeveloped`"
+    assert_includes skill, "`editorial.note_underdeveloped`"
   end
 
   def setup
