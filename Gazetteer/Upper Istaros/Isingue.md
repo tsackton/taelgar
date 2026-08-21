@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {endStatus: "Consumed by Cha'mutte's plague in", wOrigin: "<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
 tags: [place, testcase, status/gameupdate/dufr]
 typeOf: settlement
@@ -53,9 +53,8 @@ Reclaiming the magic - Key
 And if it seemed important for them to be on a side, [[Beryl]] could have told them whether reclaiming the water is possible
 %%
 
-%%^Metadata:article:v1%%
-mode: campaign-era geographic reference
-povNotes: "Accuracy range: DR 1720s to early DR 1749. The visible article describes the ruined city after the Dunmar Fellowship observed its acidic occupant; the extensive shared comments preserve provisional ancient history and possible future development rather than a second canonical viewpoint. This does not reflect any events after the destruction of Apollyon, the seeds of chaos, or the events of the [[Battle of Heartroot Vale]] and the end of the Dunmar Fellowship campaign."
+%%^povNotes:v1%%
+Temporal coverage: DR 1720s to early DR 1749. The visible article describes the ruined city after the Dunmar Fellowship observed its acidic occupant; the extensive shared comments preserve provisional ancient history and possible future development rather than a second canonical viewpoint. This does not reflect any events after the destruction of Apollyon, the seeds of chaos, or the events of the [[Battle of Heartroot Vale]] and the end of the Dunmar Fellowship campaign.
 %%^End%%
 
 %%^Metadata:names:v1%%

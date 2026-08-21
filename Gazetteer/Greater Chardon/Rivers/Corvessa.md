@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/name, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
@@ -10,7 +10,7 @@ pronunciation: kor-VESS-uh
 whereabouts: Coastlands
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Corvessa
 *(kor-VESS-uh)*
@@ -31,17 +31,27 @@ locations:
   - {role: outlet, feature: Endless Ocean, map: world, locator: "12.06.D24"}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Corvessa; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Corvessa", role: "primary", language: "Chardonian", pronunciation: "kor-VESS-uh", notes: "The existing status/check/name indicates that the name remains under human review.", status: "unresolved"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography of the Corvessa from the Beacon Hills to the Endless Ocean; no dated course change is described.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+
+### Validated judgments
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
 
 ### Open findings
-- [ ] **Warning — status.disposition:** Existing status `status/check/name` remains in force. Its underlying name, cleanup, review, game-update, stub, or work-in-progress question requires human disposition; the lint did not alter it.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Corvessa — kor-VESS-uh` (unresolved). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

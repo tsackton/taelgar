@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: realm
 typeOfAlias: province
@@ -10,7 +10,7 @@ pronunciation: KEH-dran-oh
 whereabouts: Chardonian Empire
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Cedrano
 *(KEH-dran-oh)*
@@ -32,7 +32,10 @@ Possible village names: Ombraforte
 
 %%
 
-%%^Metadata:article:v1%%
-mode: political-geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Political-geographic Reference for Cedrano; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Cedrano", role: "primary", language: "Chardonian", pronunciation: "KEH-dran-oh", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern provincial and geographic description; the War of the Dark Rift and Cedrano's DR 1599 incorporation are historical background.
 %%^End%%

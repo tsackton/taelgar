@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: "", wSecondary: "Located offshore of <secondary:1>"}
 tags: [place, status/check/lint]
 typeOf: marine feature
@@ -12,7 +12,7 @@ whereabouts:
   - {type: secondary, location: Apporia}
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Tamaro Bay
 >[!info]+ Information  
@@ -23,17 +23,27 @@ Tamaro Bay is a bay on the western coast of [[Apporia|the Apporian Peninsula]]. 
 
 %% See more: [[Dorian Almare]], [[Ballad of the Jade Garden]] %%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Tamaro Bay; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Tamaro Bay", role: "primary", language: "Chardonian", pronunciation: "tah-MAH-roh bay", notes: "Italian analogue for Tamaro: open vowels and penultimate stress.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and folklore associated with Tamaro Bay; the article gives no dated change to the bay or boundary for the reported merfolk sightings.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+
+### Validated judgments
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Italian analogue for Tamaro: open vowels and penultimate stress. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Tamaro Bay, language: Chardonian, pronunciation: tah-MAH-roh bay, status: proposed}`. Accept it in frontmatter only after human review.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Tamaro Bay — tah-MAH-roh bay` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

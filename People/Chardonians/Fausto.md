@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -42,9 +42,8 @@ He is also apparently a member of a secret organization called [[The Cleansed]].
 
 %%SECRET[v2:2c87cd608fd3ac407d3a435d50dd53bc]%%
 
-%%^Metadata:article:v1%%
-mode: character reference
-povNotes: "Accuracy range: uneven across the mid-1730s through DR 1749. The main portrait describes Fausto before his death in the late 1740s. A DR 1738 use must account for his age and the partial record of his adventuring and return to Chardon, while excluding later deeds and relationships. His childhood and origins are explicitly unknown, not available for extrapolation."
+%%^povNotes:v1%%
+Temporal coverage: uneven across the mid-1730s through DR 1749. The main portrait describes Fausto before his death in the late 1740s. A DR 1738 use must account for his age and the partial record of his adventuring and return to Chardon, while excluding later deeds and relationships. His childhood and origins are explicitly unknown, not available for extrapolation.
 %%^End%%
 
 %%^Metadata:names:v1%%
@@ -54,11 +53,17 @@ povNotes: "Accuracy range: uneven across the mid-1730s through DR 1749. The main
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- Non-check status disposition: `status/gameupdate/dufr` is not assessable pending the open temporal or coverage choice; no status was changed.
+
 ### Open findings
 
 - [ ] **suggestion — status.gameupdate_historical_snapshot:** `status/gameupdate/dufr` may now be stale. The article is deliberately a `POV: 1740s` pre-death portrait, while `died: 1749-05-24` and `povNotes` explicitly bound that snapshot. A human may remove the game-update tag if it only marked the later death; retain it if it represents other established Dunmar Frontier facts that still need incorporation.
 
-### Validated
-
-- Later facts do not make an intentionally earlier-POV portrait incorrect. Local hidden material supports `dm_notes: important`.
 %%^End%%

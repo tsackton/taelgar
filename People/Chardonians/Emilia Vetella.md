@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [person]
 species: human
@@ -20,9 +20,8 @@ POV: 1750
 
 Emilia Vetella is the Lord Admiral of the Chardonian Navy and a trusted advisor to [[Mitus Verina Auratan]]. In DR 1749, Emilia was appointed admiral of the fleet for the [[Chardon-Dunmar War]], whose naval campaign culminated in a Chardonian victory outside [[Darba]].
 
-%%^Metadata:article:v1%%
-mode: character reference
-povNotes: "Accuracy range: approximately DR 1749–1752. The article presents Emilia after her DR 1749 appointment and includes the naval campaign's victory outside Darba; it does not imply that she held the title before the war."
+%%^povNotes:v1%%
+Temporal coverage: approximately DR 1749–1752. The article presents Emilia after her DR 1749 appointment and includes the naval campaign's victory outside Darba; it does not imply that she held the title before the war.
 %%^End%%
 
 %%^Metadata:names:v1%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: inn
@@ -9,7 +9,7 @@ name: The Chapterhouse
 whereabouts: Precinct IV
 dm_owner: none
 dm_notes: color
-POV: 1740s
+POV: modern
 ---
 # The Chapterhouse
 >[!info]+ Information
@@ -18,7 +18,10 @@ POV: 1740s
 
 A quiet student tavern in [[Precinct IV]], the university district of [[Chardon]]
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for The Chapterhouse; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "The Chapterhouse", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern snapshot of the Chapterhouse as a quiet university-district tavern; no opening, closing, or ownership dates are established.
 %%^End%%

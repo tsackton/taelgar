@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
@@ -9,7 +9,7 @@ name: Kedron
 whereabouts: Cedrano
 dm_owner: tim
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Kedron
 >[!info]+ Information  
@@ -29,18 +29,29 @@ locations:
   - {role: outlet, feature: , map: world, locator: }
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: approximately the DR 1740s. Geographic Reference for Kedron; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Kedron", role: "primary", language: "Chardonian", pronunciation: "KEH-dron", notes: "Chardonian Greek-loan analogue: hard k, short e, and first-syllable stress.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography of the river and its inhabited valley; the article establishes no dated change to the Kedron's course or settlement pattern.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
 
 ### Open findings
-- [ ] **Warning — pronunciation.missing_or_exception:** Chardonian Greek-loan analogue: hard k, short e, and first-syllable stress. Copy-ready candidate for a Metadata:names:v1 block: `- {name: Kedron, language: Chardonian, pronunciation: KEH-dron, status: proposed}`. Accept it in frontmatter only after human review.
-- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks source.locator, outlet.locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+
+- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: source.locator, outlet.locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Kedron — KEH-dron` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

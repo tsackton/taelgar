@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:57:54-04:00"
-lintVersion: "3.0"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {wSecondary: "Connected to <secondary:1>"}
 tags: [place]
 typeOf: planar link

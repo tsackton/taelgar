@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [meta]
 campaign: Cleenseau
 name: Fey Aftermath - Tower of Records
@@ -141,8 +141,3 @@ Each of the five boxes has very different looking dust in it. These are probably
 > All the same, or different?  I suspect this will need to go into our stack of stuff to ID.  
 
 All different. You can identify a potion just by sipping a bit, unlike other items.
-
-%%^Metadata:article:v1%%
-mode: campaign correspondence archive
-povNotes: Records the Cleenseau party's Tower of Records exchange in the DR 1720 campaign era; exact dates belong to the underlying correspondence and sessions.
-%%^End%%

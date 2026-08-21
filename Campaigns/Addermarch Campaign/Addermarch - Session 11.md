@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 11
@@ -86,7 +86,3 @@ Inside the cave, the party is attacked by three swarms of enraged bees. Although
 
 Although it is now dark, the party sets out to return to [[Haldrenn]] with [[Rowena]]. We end as the party approaches the final hill, as the lantern of fey tracking lights up and the sound of worgs can be heard ahead, attacking the village.
 
-%%^Metadata:article:v1%%
-mode: campaign record
-povNotes: "Accuracy range: DR 1715-05-16 through DR 1715-05-17. This is an authoritative source record of events played on those dates; the note's viewpoint is the session chronology itself."
-%%^End%%

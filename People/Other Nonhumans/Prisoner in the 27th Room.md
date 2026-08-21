@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person, status/check/lint]
 species: unknown
 name: Prisoner in the 27th Room
@@ -46,19 +46,22 @@ In DR 1740, [[Tollen Misfits|five travelers]] entered the central prison and tol
 - {name: Thirst, role: alias, language: Common, status: documented, notes: Name used by the Arithrimos Lamperum.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign biography
-povNotes: The history culminates in the prisoner's release on DR 1740-10-07. Its origin and prison history are retrospective, while its post-release existence beyond the universe is only described at that departure point.
+%%^povNotes:v1%%
+Temporal coverage: the history culminates in the prisoner's release on DR 1740-10-07. Its origin and prison history are retrospective, while its post-release existence beyond the universe is only described at that departure point.
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+
 ### Open findings
 
 - [ ] **suggestion — dm.owner_legacy_normalized:** The invalid legacy value `dm_owner: schwartz` was previously normalized to the accepted registry value `dm_owner: mike`. Confirm that Schwartz was intended to identify Mike; otherwise replace it with the correct accepted owner value.
 
-### Validated
-
-- The history is complete through the prisoner's DR 1740-10-07 release and treats the later destination as permitted descriptive free text in `whereabouts`.
 %%^End%%

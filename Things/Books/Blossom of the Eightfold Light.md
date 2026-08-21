@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><( by )author:nx>"}
 tags: [object]
 typeOf: book
@@ -12,7 +12,7 @@ name: Blossom of the Eightfold Light
 knownTo: []
 dm_owner: none
 dm_notes: none
-POV: timeless
+POV: modern
 ---
 # Blossom of the Eightfold Light
 >[!info]+ Information  
@@ -25,7 +25,6 @@ POV: timeless
 - {name: Blossom of the Eightfold Light, role: primary, language: Common, status: documented, notes: Translated descriptive work title.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: work reference
-povNotes: The note identifies an ancient religious poem and makes no claim tied to a changing present-day snapshot.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the note is a present-day reference to an ancient religious poem and does not depend on a narrower current state.
 %%^End%%

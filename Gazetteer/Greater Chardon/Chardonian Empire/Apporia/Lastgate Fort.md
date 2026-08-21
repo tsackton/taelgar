@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -35,7 +35,11 @@ In September DR 1748, the [[Silver Tempests]] followed an old Drankorian milesto
 
 %% some DM details in [[GL - Session 62 - DM Notes]] %%
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: DR 1748 and later. Retrospective location history incorporating the Silver Tempests' September DR 1748 expedition."
+%%^Metadata:names:v1%%
+- {name: "Lastgate Fort", role: "primary", language: "Common", status: "documented"}
+- {name: "Presidion Lymara", role: "historical", language: "Drankorian", status: "documented", pronunciation: "preh-SID-ee-on LEE-mah-rah"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: DR 1748 and later. Retrospective location history incorporating the Silver Tempests' September DR 1748 expedition.
 %%^End%%

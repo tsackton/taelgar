@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/gameupdate/dufr]
 typeOf: waterway
 typeOfAlias: river
@@ -11,7 +11,7 @@ pronunciation: ISS-tah-rohs
 whereabouts: Istaros Watershed
 dm_owner: joint
 dm_notes: none
-POV: post-Great-War
+POV: modern
 ---
 # Istaros
 *(ISS-tah-rohs)*
@@ -48,9 +48,9 @@ The Istaros has many names. To the original Drankorians, the refugees from [[Hka
 
 %%^Metadata:names:v1%%
 - {name: Istaros, role: primary, language: Common, pronunciation: ISS-tah-rohs, derivedFrom: Aistanë, status: documented, notes: Likely corruption of the Elvish form.}
-- {name: Aistanë, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, status: documented}
-- {name: Drogar, language: Orcish, pronunciation: droh-GAHR, status: documented}
-- {name: Mahar, language: Dunmari, pronunciation: mah-HAHR, status: documented}
+- {name: Aistanë, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, notes: Name form and pronunciation recorded in the visible article's name history., status: documented}
+- {name: Drogar, language: Orcish, pronunciation: droh-GAHR, notes: Name form and pronunciation recorded in the visible article's name history., status: documented}
+- {name: Mahar, language: Dunmari, pronunciation: mah-HAHR, notes: Name form and pronunciation recorded in the visible article's name history., status: documented}
 %%^End%%
 
 %%^Metadata:map:v1%%
@@ -59,7 +59,6 @@ locations:
   - {role: outlet, feature: Sea of Storms, map: world, locator: 19.11.E17}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: post-Great-War. The article contrasts the present cursed watershed with earlier river landscapes and deliberately leaves the lower Istaros and the fate of Isingue's life-giving water uncertain. Does not reflect any events after the end of the Dunmar campaign and the defeat of the ooze at Isingue and the return of the Heartroot."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern after the Great War; the article contrasts the cursed watershed with earlier river landscapes and does not incorporate events after the Dunmar campaign's conclusion.
 %%^End%%

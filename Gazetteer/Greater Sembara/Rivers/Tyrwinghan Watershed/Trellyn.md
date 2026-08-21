@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
@@ -11,7 +11,7 @@ pronunciation: TRELL-yin
 whereabouts: Tyrwingha
 dm_owner: none
 dm_notes: none
-POV: timeless
+POV: modern
 ---
 # Trellyn
 *(TRELL-yin)*
@@ -31,7 +31,6 @@ locations:
   - {role: outlet, feature: Aben, map: world, locator: 12.12.B.08}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: The course description is not tied to a narrow historical snapshot.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the river-course description is not tied to a narrower historical snapshot.
 %%^End%%

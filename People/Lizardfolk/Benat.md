@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person]
 species: lizardfolk
 ancestry: salt
@@ -13,7 +13,7 @@ whereabouts: Hamri
 knownTo: [mawar]
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: "1740s"
 ---
 # Benat
 *(beh-NAHT)*
@@ -44,7 +44,6 @@ Source links:
 - {name: Benat, role: primary, language: Lizardling, pronunciation: beh-NAHT, status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: campaign character reference
-povNotes: The general character description is useful across the DR 1740s. The DR 1747 date block records Benat's role in the Mawar Episode 02 aftermath without narrowing the whole article to that event.
+%%^povNotes:v1%%
+Temporal coverage: the general character description is useful across the DR 1740s. The DR 1747 date block records Benat's role in the Mawar Episode 02 aftermath without narrowing the whole article to that event.
 %%^End%%

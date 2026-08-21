@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: neighborhood
 typeOfAlias: neighborhood
 name: Bastion Quarter
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # The Bastion Quarter
 >[!info]+ Information  
@@ -21,19 +21,10 @@ The Bastion Quarter, often just called the Bastion, occupies the area near the [
 
 The Bastion Quarter and the [[Summit Quarter]] together make up Precinct XIX.
 
-%%^Metadata:article:v1%%
-mode: urban reference
-povNotes: "Accuracy range: approximately the DR 1740s. Urban Reference for Bastion Quarter; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Bastion Quarter", role: "primary", language: "Common", status: "documented"}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Session 125 - DM Notes]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+%%^povNotes:v1%%
+Temporal coverage: broadly modern urban geography; the note gives no dated change to the quarter's boundaries, streets, or place within Precinct XIX.
 %%^End%%

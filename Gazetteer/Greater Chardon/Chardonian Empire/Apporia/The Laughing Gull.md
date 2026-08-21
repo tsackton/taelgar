@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
+tags: [place]
 typeOf: inn
 typeOfAlias: tavern
 name: The Laughing Gull
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: 1748
 ---
 # The Laughing Gull
 >[!info]+ Information  
@@ -24,20 +24,10 @@ A tavern in [[Castrella]].
 GL Arc 5 context: research and rumor-gathering hub in Castrella. See: [[Great Library Session Notes - Arc 5]]
 %%
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for The Laughing Gull; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "The Laughing Gull", role: "primary", language: "Common", status: "documented"}
 %%^End%%
 
-%%^Lint%%
-### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
-
-### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
-
-### Open findings
-- [ ] **Warning — dm.notes_private_evidence_suspect:** Local-only evidence in [[Episode 5]] is not accounted for by an in-note SECRET link. Review whether `dm_notes: none` remains accurate; do not remove or change the field automatically.
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 snapshot of the tavern where the Silver Tempests regrouped and later lodged during their Castrella investigations; earlier and later operation are not described.
 %%^End%%

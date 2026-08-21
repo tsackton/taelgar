@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
@@ -49,13 +49,16 @@ Temporal coverage: a modern retrospective summary of Elaine II's reigns through 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+
+### Validated judgments
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+
 ### Open findings
 
 - [ ] **Error — consistency.cross_note:** The affiliations date Elaine II's Tyrwinghan reign from DR 1713-09-12 and her Sembaran reign from DR 1720-06-15. [[The Election of Elaine II]] records her election in Tyrwingha on DR 1713-06-03, while [[Cleenseau - Session 28]] records a Sembaran regnal shift on DR 1720-03-26 and [[Robert I]] records his death on DR 1720-06-15. Determine whether these are election, proclamation, coronation, or effective-reign dates, then align the affiliations and visible explanation without treating the session record as factually wrong.
 - [ ] **Warning — coverage.established_fact_missing:** The visible biography omits the central succession history established by [[The Election of Elaine II]] and [[Timeline of Sembaran History]]: election as queen of Tyrwingha in DR 1713, designation as Robert I's Sembaran heir in DR 1718, and accession in DR 1720. After resolving the exact dates, add a concise paragraph covering those three transitions.
 - [ ] **Suggestion — editorial.public_material_candidate:** The shared comment proposes describing her reign as peaceful and prosperous, and [[Arryn III]] independently supports that characterization while not supporting the stronger claim of an intentional return to Cece I's era. Copy-ready bounded candidate: `Her reign in Sembara is remembered as a period of peace and prosperity.`
 
-### Applied changes
-
-- Added `knownTo: [clee]`, persistent name metadata, and a modern retrospective temporal frame; `status/check/mike` remains unassessed.
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>", defArt: ""}
 tags: [place]
 typeOf: neighborhood
@@ -23,7 +23,10 @@ This is a dirty, stinking area, and only the poorest of the poor actually live h
 
 Together, the Basin and Riverside make up Precinct XVII.
 
-%%^Metadata:article:v1%%
-mode: urban reference
-povNotes: "Accuracy range: through early DR 1749. Urban reference baseline before refinery damage, seizures, and ownership changes recorded in Sessions 124-129."
+%%^Metadata:names:v1%%
+- {name: "Ragwater Basin", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: through early DR 1749. Urban reference baseline before refinery damage, seizures, and ownership changes recorded in Sessions 124-129.
 %%^End%%

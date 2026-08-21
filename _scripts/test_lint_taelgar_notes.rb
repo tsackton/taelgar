@@ -174,6 +174,41 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal TaelgarNoteLint::VERSION, manifest.fetch("validatorVersion")
   end
 
+  def test_preparer_carries_the_pov_review_gate_without_changing_linter_version
+    root = make_vault
+    path = "Campaigns/Great Library Campaign/Session Notes/Session 1.md"
+    write_note(
+      root,
+      path,
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-19T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::POV_REVIEW_VERSION}"
+        tags: [session-note]
+        campaign: Great Library
+        POV: 1748
+        ---
+        # Session 1
+
+        The party crossed the river during this session.
+      MARKDOWN
+    )
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(root, "commit", "-q", "-m", "record lint state")
+
+    manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
+    record = manifest.fetch("notes").first
+
+    assert_equal "3.2", manifest.fetch("validatorVersion")
+    refute record.dig("deterministic", "reviewGates", "pov", "required")
+    refute record.dig("deterministic", "reviewGates", "pov", "povNotesApplicable")
+    refute_includes record.dig("deterministic", "findings").map { |finding| finding.fetch("ruleId") },
+                    "metadata.pov_notes_missing"
+  end
+
   def test_newer_local_dm_evidence_routes_a_current_note_for_review
     root = make_vault
     path = "People/Alpha Person.md"

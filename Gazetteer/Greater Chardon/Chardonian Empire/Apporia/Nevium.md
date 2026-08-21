@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
@@ -13,7 +13,7 @@ whereabouts:
   - {type: primary, location: Portalia}
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # Nevium
 *(NEH-vee-oom)*
@@ -31,17 +31,27 @@ locations:
   - {map: world, locator: }
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: settlement reference
-povNotes: "Accuracy range: approximately the DR 1740s. Settlement Reference for Nevium; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "Nevium", role: "primary", language: "Chardonian", pronunciation: "NEH-vee-oom", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern portrait of prosperous Nevium after the canal reopened in DR 1619; the city's DR 1589 destruction and early-1600s rebuilding are historical background.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Added or populated the required Metadata:map:v1 block.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
 
 ### Open findings
-- [ ] **Warning — metadata.map_location_missing:** The required map block still lacks locator. Candidate: fill only the blank `locator` values in the existing Metadata:map:v1 block from the authoritative map; do not guess coordinates.
+
+- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+
 %%^End%%

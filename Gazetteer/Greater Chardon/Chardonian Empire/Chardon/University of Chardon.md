@@ -1,8 +1,8 @@
 ---
 timelineDescriptor: University of Chardon
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/check/lint]
 typeOf: building
 typeOfAlias: university
@@ -12,7 +12,7 @@ whereabouts:
   - {type: home, start: 980, location: Chardon}
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: modern
 ---
 # The University of Chardon
 >[!info]+ Information
@@ -54,20 +54,29 @@ The [[Hetaeri Magica]], which draws members from both the University of Chardon 
 - (DR:: 939): The University of Chardon is founded in Chardon on the authority of an Imperial Charter from Eiphis the Blind, the Emperor of Drankor.
 - (DR:: 1065): The University of Chardon expands, absorbing many refugees from the destruction of Drankor during the [[First Plague|First Plague]].
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for University of Chardon; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "University of Chardon", role: "primary", language: "Chardonian", pronunciation: "university of KAR-dohn", notes: "Latinate Chardonian reading for Chardon with an English descriptive frame.", status: "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern account of the university's organization and governance; its DR 939 founding and DR 1065 expansion are separate historical layers.
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
 ### Applied changes
-- Canonicalized frontmatter, added an explicit `name`, and recorded the note's reviewed `POV`.
-- Added persistent Metadata:article:v1 interpretation.
-- Applied high-confidence spelling, punctuation, title, or light-clarity corrections.
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
 
 ### Validated judgments
-- The missing-pronunciation check was dispositioned as not applicable because this is a plain-English descriptive title or an otherwise obvious ordinary label.
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
 
 ### Open findings
-- [ ] **Suggestion — frontmatter.deprecated_field:** `timelineDescriptor` is deprecated or potentially obsolete. Candidate: confirm that the University timeline still consumes it, then either retain it deliberately or approve a separate migration; the lint preserved it.
+
+- [ ] **Suggestion — frontmatter.deprecated_field:** timelineDescriptor is deprecated or obsolete. Proposed replacement: Use explicit lifecycle dates, Date blocks, or persistent article POV metadata according to the intended temporal meaning.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `University of Chardon — university of KAR-dohn` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

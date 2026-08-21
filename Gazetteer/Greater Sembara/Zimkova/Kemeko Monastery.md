@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: building
 typeOfAlias: monastery
@@ -37,7 +37,6 @@ Blood feathers, rituals, in the Chasm because no one bothers them there, not bec
 - {name: Kemeko Monastery, role: primary, language: Kenku, pronunciation: keh-MEH-koh, status: documented}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic campaign reference
-povNotes: Describes the monastery as encountered for the Into the Chasm campaign in DR 1730. Its Great War-era foundation is approximate, while the visible location and function are a campaign-era snapshot.
+%%^povNotes:v1%%
+Temporal coverage: describes the monastery as encountered for the Into the Chasm campaign in DR 1730. Its Great War-era foundation is approximate, while the visible location and function are a campaign-era snapshot.
 %%^End%%

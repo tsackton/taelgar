@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T14:57:54-04:00"
-lintVersion: "3.0"
-tags: [person, status/check/mike]
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Zimka
 born: 1644
@@ -36,4 +36,19 @@ POV: 1720
 
 %%^povNotes:v1%%
 Temporal coverage: approximately the DR 1720 Cleenseau campaign era; the article assumes that Selma still owns the Fox's Flagon after buying it in DR 1712, but establishes no later endpoint for her proprietorship.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+
+### Validated judgments
+- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Selma Wisthelwind — SELL-mah VIS-tel-vind` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+
 %%^End%%

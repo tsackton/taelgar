@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [session-note]
 campaign: Dunmar Frontier
 sessionNumber: 50
@@ -56,4 +56,4 @@ The next day, the party sets out again, with [[Kenzo]] on the horses, but he is 
 
 During the journey, [[Delwath]] also spends time Scrying, and sees [[Marcella]] and [[Sura]]. [[Marcella]] is in the mountains to the east, sleeping. [[Sura]] is praying in her tent, reading a prayer book waiting for someone, and then a messenger arrives. He says he has ridden all the way to [[Tokra]], and no one there knew the secret of unpetrifying a person. [[Govir]], at the [[Archives]], is doing some research to see what he can learn, but no one knows how the sword caused this. 
 
-Trying to sleep, [[Seeker]] again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [[Seeker]], as the sound of howls echoes in from near the camp, and the session ends. 
+Trying to sleep, [[Seeker]] again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [[Seeker]], as the sound of howls echoes in from near the camp, and the session ends.

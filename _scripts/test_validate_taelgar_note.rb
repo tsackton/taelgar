@@ -21,6 +21,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal TaelgarNoteLint::VERSION, specification.data["linterVersion"]
     assert_equal TaelgarNoteLint::DM_NOTES_REVIEW_VERSION, specification.data["dmNotesReviewVersion"]
     assert_equal TaelgarNoteLint::NAME_REVIEW_VERSION, specification.data["nameReviewVersion"]
+    assert_equal TaelgarNoteLint::POV_REVIEW_VERSION, specification.data["povReviewVersion"]
+    assert_equal "3.2", TaelgarNoteLint::VERSION
   end
 
   def setup
@@ -357,6 +359,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(current), "pronunciation.missing_or_exception"
     assert_includes rule_ids(stale), "identity.implicit_name"
     assert_includes rule_ids(stale), "pronunciation.missing_or_exception"
+    refute current.dig("reviewGates", "names", "required")
+    assert stale.dig("reviewGates", "names", "required")
   end
 
   def test_unresolved_name_entries_remain_deterministic_open_work_without_recalculation
@@ -474,15 +478,14 @@ class ValidateTaelgarNoteTest < Minitest::Test
         ---
         # Session 1
 
-        %%^povNotes:v1%%
-        Temporal coverage: the DR 1748 session chronology; this is an authoritative record rather than a continuous current-state article.
-        %%^End%%
+        The party crossed the river during this session.
       MARKDOWN
     )
 
     refute_includes rule_ids(report), "lint.report_without_status"
     refute_includes rule_ids(report), "lint.status_without_report"
     refute_includes rule_ids(report), "lint.report_without_open_findings"
+    refute_includes rule_ids(report), "metadata.pov_notes_not_applicable"
   end
 
   def test_lint_report_and_status_require_each_other_and_open_work
@@ -587,6 +590,101 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(legacy), "metadata.pov_notes_empty"
   end
 
+  def test_pov_review_gate_and_campaign_record_pov_notes_profile
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    current_session = validator.validate_text(
+      "Campaigns/Test Campaign/Session Notes/Session 1.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::POV_REVIEW_VERSION}"
+        tags: [session-note]
+        POV: 1748
+        ---
+        # Session 1
+
+        The party crossed the river during this session.
+      MARKDOWN
+    )
+    session_with_notes = validator.validate_text(
+      "Campaigns/Test Campaign/Session Notes/Session 2.md",
+      <<~MARKDOWN
+        ---
+        lintedAt: "2026-08-20T09:00:00-04:00"
+        lintVersion: "#{TaelgarNoteLint::POV_REVIEW_VERSION}"
+        tags: [session-note]
+        POV: 1748
+        ---
+        # Session 2
+
+        The party returned during this session.
+
+        %%^povNotes:v1%%
+        Temporal coverage: the DR 1748 session chronology.
+        %%^End%%
+      MARKDOWN
+    )
+    campaign_meta = validator.validate_text(
+      "Campaigns/Test Campaign/Home.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::POV_REVIEW_VERSION}\"\ntags: [meta]\nPOV: 1740s\n---\n# Home\n\nThis page summarizes the campaign.\n"
+    )
+    campaign_source = validator.validate_text(
+      "Campaigns/Test Campaign/Letter.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::POV_REVIEW_VERSION}\"\ntags: [source]\nPOV: 1748\n---\n# Letter\n\nThe letter records a warning.\n"
+    )
+    campaign_legacy = validator.validate_text(
+      "Campaigns/Test Campaign/Legacy Letter.md",
+      "---\ntags: [source]\nPOV: 1748\n---\n# Legacy Letter\n\nThe letter records a warning.\n\n%%^Metadata:article:v1%%\nmode: source\npovNotes: The letter was received in DR 1748.\n%%^End%%\n"
+    )
+    current_missing_pov = validator.validate_text(
+      "Campaigns/Test Campaign/Missing POV.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::POV_REVIEW_VERSION}\"\ntags: [meta]\n---\n# Missing POV\n\nThis page summarizes the campaign.\n"
+    )
+    campaign_entity = validator.validate_text(
+      "Campaigns/Test Campaign/Place.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::POV_REVIEW_VERSION}\"\ntags: [place]\ntypeOf: settlement\nPOV: 1748\n---\n# Place\n\nThis settlement appears in the campaign.\n"
+    )
+    noncampaign_source = validator.validate_text(
+      "Primary Sources/Letter.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::POV_REVIEW_VERSION}\"\ntags: [source]\nPOV: 1748\n---\n# Letter\n\nThe letter records a warning.\n"
+    )
+    current_with_notes = validator.validate_text(
+      "People/Current POV.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::POV_REVIEW_VERSION}\"\ntags: [person]\nspecies: human\nPOV: 1748\n---\n# Current POV\n\nThis person is recorded in the campaign era.\n\n%%^povNotes:v1%%\nTemporal coverage: the DR 1748 campaign era.\n%%^End%%\n"
+    )
+    stale = validator.validate_text(
+      "People/Stale POV.md",
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"3.1\"\ntags: [person]\nspecies: human\nPOV: 1748\n---\n# Stale POV\n\nThis person is recorded in the campaign era.\n"
+    )
+
+    refute current_session.dig("reviewGates", "pov", "required")
+    refute current_session.dig("reviewGates", "pov", "povNotesApplicable")
+    refute_includes rule_ids(current_session), "metadata.pov_notes_missing"
+    assert session_with_notes.dig("reviewGates", "pov", "required")
+    assert_includes rule_ids(session_with_notes), "metadata.pov_notes_not_applicable"
+    [campaign_meta, campaign_source].each do |report|
+      refute report.dig("reviewGates", "pov", "required")
+      refute report.dig("reviewGates", "pov", "povNotesApplicable")
+      refute_includes rule_ids(report), "metadata.pov_notes_missing"
+    end
+    legacy_finding = campaign_legacy.fetch("findings").find { |finding| finding["ruleId"] == "metadata.legacy_article_block" }
+    refute_nil legacy_finding
+    assert_nil legacy_finding.dig("details", "candidate")
+    assert_includes legacy_finding.fetch("message"), "do not use povNotes"
+    refute current_missing_pov.dig("reviewGates", "pov", "required")
+    assert_includes rule_ids(current_missing_pov), "metadata.pov_missing"
+    [campaign_entity, noncampaign_source].each do |report|
+      refute report.dig("reviewGates", "pov", "required")
+      assert report.dig("reviewGates", "pov", "povNotesApplicable")
+      refute_includes rule_ids(report), "metadata.pov_notes_missing"
+    end
+    assert current_with_notes.dig("reviewGates", "pov", "required")
+    assert stale.dig("reviewGates", "pov", "required")
+    assert_includes rule_ids(stale), "metadata.pov_notes_missing"
+    assert_equal TaelgarNoteLint::POV_REVIEW_VERSION, stale.dig("reviewGates", "pov", "minimumVersion")
+  end
+
   def test_pov_notes_blocks_require_v1_nonempty_plain_text_and_are_unique
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
@@ -606,9 +704,9 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "Meta/Duplicate.md",
       "---\ntags: [meta]\n---\n# Duplicate\n\n%%^povNotes:v1%%\nTemporal coverage: modern.\n%%^End%%\n\n%%^povNotes:v1%%\nTemporal coverage: modern.\n%%^End%%\n"
     )
-    missing = validator.validate_text(
+    stale_missing = validator.validate_text(
       "Meta/Missing.md",
-      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::VERSION}\"\ntags: [meta]\nPOV: modern\n---\n# Missing\n"
+      "---\nlintedAt: \"2026-08-20T09:00:00-04:00\"\nlintVersion: \"3.1\"\ntags: [meta]\nPOV: modern\n---\n# Missing\n"
     )
 
     refute_includes rule_ids(valid), "syntax.unknown_content_marker"
@@ -617,7 +715,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes rule_ids(unversioned), "metadata.invalid_pov_notes_version"
     assert_includes rule_ids(empty), "metadata.pov_notes_empty"
     assert_includes rule_ids(duplicate), "metadata.duplicate_pov_notes_block"
-    assert_includes rule_ids(missing), "metadata.pov_notes_missing"
+    assert_includes rule_ids(stale_missing), "metadata.pov_notes_missing"
   end
 
   def test_completed_lints_accept_undated_pov_when_temporal_support_is_absent
@@ -1214,6 +1312,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     old_report = old_validator.validate_path(note_path)
 
     refute_includes rule_ids(old_report), "dm.notes_private_evidence_review"
+    refute old_report.dig("reviewGates", "dmNotes", "required")
 
     new_time = Time.iso8601("2026-08-20T10:00:00-04:00")
     File.utime(new_time, new_time, dm_path)
@@ -1222,6 +1321,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     finding = new_report.fetch("findings").find { |item| item["ruleId"] == "dm.notes_private_evidence_review" }
 
     refute_nil finding
+    assert new_report.dig("reviewGates", "dmNotes", "required")
     assert_equal "_DM_/Validated Notes.md", finding.dig("details", "sources", 0, "path")
     assert_operator Time.iso8601(finding.dig("details", "sources", 0, "modifiedAt")), :>, Time.iso8601(linted_at)
   end

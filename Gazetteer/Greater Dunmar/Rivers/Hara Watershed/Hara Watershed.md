@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: watershed
 name: Hara Watershed
@@ -9,7 +9,7 @@ pronunciation: HAH-rah
 whereabouts: Hara Basin
 dm_owner: tim
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # The Hara Watershed
 *(HAH-rah)*
@@ -24,9 +24,8 @@ The major tributaries of the Hara river include:
 - The [[Sukal]], a seasonal river that flows east from the [[Copper Hills]]. 
 - The [[Thandar]], which flows south from the [[Sentinel Range|Sentinels]] and joins the Hara north of [[Tokra]]. 
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: broadly the DR 1700s. The article summarizes stable drainage, seasonal flow, and cultural geography; later campaign references use the watershed but do not establish a changed historical state."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern. The article summarizes stable drainage, seasonal flow, and cultural geography; later campaign references use the watershed but do not establish a changed historical state.
 %%^End%%
 
 %%^Metadata:names:v1%%

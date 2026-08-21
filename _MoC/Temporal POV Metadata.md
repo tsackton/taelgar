@@ -15,6 +15,8 @@ POV: 1750
 
 This is the article's best single temporal reading position: the date or era from which its undated prose reads most coherently. It is an editorial anchor, not a validity interval, a summary of every dated fact, or a claim that the article has continuous coverage around that point. The field belongs at the very end of frontmatter, immediately after `dm_notes` when that field is present.
 
+Every completed lint records `POV`. Most notes also use `povNotes`, but a note under `Campaigns/**` tagged `session-note`, `meta`, or `source` records only `POV` and must not contain a `povNotes` block. These campaign records already carry their chronology or documentary role in their own content and metadata; the extra interpretation block is not part of their profile.
+
 ## Values
 
 Use one scalar value whose precision communicates how closely the article's undated speaking position is tied to a point in time. Ordinary authored values are `modern`, a decade, a year, or `undated`.
@@ -25,11 +27,11 @@ Use one scalar value whose precision communicates how closely the article's unda
 POV: modern
 ```
 
-`modern` means that no finer temporal anchor is useful within the current campaign era, broadly the DR 1700s. It is the ordinary value for material that works across modern play or whose finer placement does not matter. It deliberately replaces the former broad distinctions among `timeless`, `post-Great-War`, and `1700s`; any meaningful earlier or later limitation belongs in `povNotes`.
+`modern` means that no finer temporal anchor is useful within the current campaign era, broadly the DR 1700s. It is the ordinary value for material that works across modern play or whose finer placement does not matter. It deliberately replaces the former broad distinctions among `timeless`, `post-Great-War`, and `1700s`; any meaningful earlier or later limitation belongs in `povNotes` when that block is applicable.
 
-`modern` does not assert that every sentence is accurate throughout the entire era. A modern article may still have approximate, one-sided, event-bounded, or discontinuous coverage recorded in `povNotes`.
+`modern` does not assert that every sentence is accurate throughout the entire era. When the note's profile uses `povNotes`, a modern article may still have approximate, one-sided, event-bounded, or discontinuous coverage recorded there.
 
-That qualification does not make `modern` appropriate when a central undated claim is a time-sensitive present state. A specific living person's current leadership, office, whereabouts, age or life stage, or active relationship normally requires a supported decade or year unless the evidence establishes that the state is broadly stable across the modern era. `povNotes` explains the chosen viewpoint's limits; it does not compensate for a viewpoint that is too broad.
+That qualification does not make `modern` appropriate when a central undated claim is a time-sensitive present state. A specific living person's current leadership, office, whereabouts, age or life stage, or active relationship normally requires a supported decade or year unless the evidence establishes that the state is broadly stable across the modern era. When applicable, `povNotes` explains the chosen viewpoint's limits; it does not compensate for a viewpoint that is too broad.
 
 ### Decade
 
@@ -72,7 +74,7 @@ Choose `POV` from the undated visible article frame. Ask: **if the reader had to
 3. Otherwise, use a year if a specific age, office, whereabouts, encounter, or changing world state supplies a narrower supported snapshot.
 4. Use `undated` only if none of those reading positions is supported by the note or its sources.
 
-Use the least precise value that still communicates the article's reading position. Do not choose `POV` from the oldest and newest dates mentioned, treat it as the midpoint of an accuracy range, or widen it merely because the article contains historical background. Likewise, one dated event does not narrow an otherwise broad article. `povNotes` carries the shape of temporal coverage, including any gaps or qualifications.
+Use the least precise value that still communicates the article's reading position. Do not choose `POV` from the oldest and newest dates mentioned, treat it as the midpoint of an accuracy range, or widen it merely because the article contains historical background. Likewise, one dated event does not narrow an otherwise broad article. When applicable, `povNotes` carries the shape of temporal coverage, including any gaps or qualifications.
 
 ### Isolate narrower dated state
 
@@ -84,7 +86,7 @@ For example, a character description with a generic 1740s speaking position can 
 
 ## `povNotes`
 
-`POV` is deliberately coarse. The persistent `povNotes:v1` block records the note-specific temporal coverage as plain text:
+For notes whose profile uses it, the persistent `povNotes:v1` block supplements deliberately coarse `POV` with note-specific temporal coverage as plain text:
 
 ```markdown
 %%^povNotes:v1%%
@@ -92,7 +94,7 @@ Temporal coverage: a DR 1748 portrait of the subject in the same broad life stag
 %%^End%%
 ```
 
-`povNotes` begins with `Temporal coverage:` and briefly explains how the article can be used away from its POV. It should record, when relevant:
+`povNotes` is not used for notes under `Campaigns/**` tagged `session-note`, `meta`, or `source`. Everywhere else, it begins with `Temporal coverage:` and briefly explains how the article can be used away from its POV. It should record, when relevant:
 
 - an approximate continuous range when the evidence supports one;
 - events or developments that bound the article before or after;
@@ -102,7 +104,7 @@ Temporal coverage: a DR 1748 portrait of the subject in the same broad life stag
 - which periods are unknown rather than contradicted, or which later developments leave an intentionally historical snapshot valid as history.
 - when `POV` is `undated`, that the available evidence does not support `modern`, a decade, or a year.
 
-This is editorial guidance, not a second machine-readable date system. Do not invent an exact date merely to make a clean interval, infer continuity between separated facts, or treat the oldest and newest facts as complete coverage. Keep `povNotes` concise—normally one sentence and at most two when discontinuity or uncertainty needs explanation. Do not restate lifecycle dates, dated metadata, or every `Date:*` block unless they materially affect how the article should be read.
+This is editorial guidance, not a second machine-readable date system. Do not invent an exact date merely to make a clean interval, infer continuity between separated facts, or treat the oldest and newest facts as complete coverage. Keep `povNotes` concise—normally one sentence and at most two when discontinuity or uncertainty needs explanation. Do not restate lifecycle dates, dated metadata, or every `Date:*` block unless they materially affect how the article should be read. If the note contains no temporal information and its sources establish no material temporal constraint, a generic sentence saying that its coverage is broadly modern is sufficient.
 
 ### Broad modern state with event bounds
 
@@ -172,7 +174,7 @@ Temporal coverage: a DR 1748 present-day portrait with selected childhood and ea
 
 ### Historical snapshots and records
 
-An intentionally historical place description remains accurate as a historical snapshot even when later events change the place. A session note, Primary Source, or retrospective event account may describe older events from its own recorded or later speaking position. Choose `POV` from that speaking position, use `DR` and `DR_end` for the event chronology where applicable, and use `povNotes` to distinguish the record's temporal layers rather than forcing them into one continuous accuracy range.
+An intentionally historical place description remains accurate as a historical snapshot even when later events change the place. A session note, Primary Source, or retrospective event account may describe older events from its own recorded or later speaking position. Choose `POV` from that speaking position and use `DR` and `DR_end` for the event chronology where applicable. Campaigns records in the exempt profile stop there; non-exempt historical articles can use `povNotes` to distinguish temporal layers rather than forcing them into one continuous accuracy range.
 
 ### Unsupported temporal position
 
@@ -203,13 +205,15 @@ Temporal coverage: undated; the available evidence does not support a modern, de
 
 ## Linter behavior and legacy forms
 
-The linter validates that `POV` is a nonempty scalar and that a completed lint records one. It also requires exactly one nonempty `%%^povNotes:v1%%` plain-text block. The contextual pass tests `modern`, a decade, and a year in that order before permitting `undated`, and judges whether `povNotes` honestly and concisely describes the article's coverage.
+The linter validates that `POV` is a nonempty scalar and that a completed lint records one. It does not create a `povNotes` block for notes under `Campaigns/**` tagged `session-note`, `meta`, or `source`; a present block is a categorical finding for human review. For other notes, a temporal POV review requires exactly one nonempty `%%^povNotes:v1%%` plain-text block; when an absent block is protected by the version gate, its absence is preserved instead. The linter never removes an existing `povNotes` block: removal is always a human-only decision.
 
-The contextual pass selects `POV` from the undated visible frame, then separately classifies coverage as broad, approximately bounded, narrow, one-sided uncertain, or discontinuous. It never infers continuity between separated facts or exact boundaries from uncertainty. It also checks whether a narrow dated passage has unnecessarily narrowed the whole-note POV. When a supported date block can isolate that passage without changing its meaning, the linter should propose or apply the copy-ready block and retain the broader article POV.
+Contextual POV selection has its own `povReviewVersion` gate in [[Taelgar Note Linter]]. A present `povNotes` block bypasses that gate and is always rechecked together with `POV`. Only when `povNotes` is absent does the gate compare the prior lint: when the note has a valid `lintedAt` and a numeric `lintVersion` at or above the threshold, preserve its valid existing `POV` without recomputing it and preserve the absence of `povNotes`. Deterministic `POV` shape and presence validation, categorical block applicability, and validation of any present block still apply. When review is required, test `modern`, a decade, and a year in that order before permitting `undated`, and judge any applicable `povNotes` against the article's actual coverage.
+
+When temporal POV review is required, the contextual pass selects `POV` from the undated visible frame, then separately classifies coverage as broad, approximately bounded, narrow, one-sided uncertain, or discontinuous. It never infers continuity between separated facts or exact boundaries from uncertainty. It also checks whether a narrow dated passage has unnecessarily narrowed the whole-note POV. When a supported date block can isolate that passage without changing its meaning, the linter should propose or apply the copy-ready block and retain the broader article POV.
 
 The searchable frontmatter field replaces two older note-level representations:
 
 - inline `(POV:: ...)` annotations; and
 - the legacy `Metadata:article` block, including its free-text `pov` key.
 
-On every full re-lint, independently reassess both `POV` and `povNotes` against the current note and applicable evidence. Preserve the meaning of legacy temporal material, but treat the legacy article block's `povNotes` text as evidence rather than accepted final output: retain it unchanged only when the contextual review confirms that it remains accurate; otherwise rewrite it. Move the scalar viewpoint to `POV` and the explanation or qualification to the plain-text `povNotes:v1` block, discard `mode`, `profile`, and other obsolete keys, reconsider legacy broad values under the 2.8 vocabulary rather than blindly replacing them, and migrate useful existing `Accuracy range:` text into concise `Temporal coverage:` wording. Do not retain duplicate temporal labels after migration.
+When temporal POV review is required, independently reassess `POV` and any present `povNotes` against the current note and evidence. Preserve the meaning of legacy temporal material, but treat a legacy article block's `povNotes` text as evidence rather than accepted final output. For notes whose profile uses `povNotes`, retain that text unchanged only when contextual review confirms it remains accurate; otherwise rewrite it. For exempt Campaigns records, do not create a block; if one is already present, retain it and report the mismatch for human disposition. Discard `mode`, `profile`, and other obsolete article-block keys only when doing so does not remove the existing `povNotes` block, reconsider legacy broad values under the 2.8 vocabulary rather than blindly replacing them, and avoid duplicate temporal labels after migration.

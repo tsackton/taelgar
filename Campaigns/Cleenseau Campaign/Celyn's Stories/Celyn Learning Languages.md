@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-20T18:24:04-04:00"
-lintVersion: "3.1"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [source]
 campaign: Cleenseau
 name: Celyn Learning Languages
@@ -107,7 +107,3 @@ He was Tyrwinghan.  The accent was not as deep as Celyn’s, and not from near 
 %% 
 Tudur is the person who Celyn and cousin Ilean apprenticed with for doing the fairy-faith maintenance stuff.  He’s semi-retired, not because of age, but because of arthritis making him grumpy about going up into the hills proper; I think he’s probably in his forties.
 %%
-
-%%^povNotes:v1%%
-Temporal coverage: a discontinuous life-history source spanning Celyn's childhood through later travels in the Cleenseau era; exact dates and intervening periods are not established.
-%%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: grassland
 name: Erbalta Plains
@@ -67,19 +67,23 @@ Southern part - herders and (some) farmers, the Voltara hinterlands. But not den
 - {name: Erbalta Plains, role: primary, language: Drankorian, pronunciation: air-BAWL-tuh, status: documented, notes: Recorded pronunciation; the in-note etymology is explicitly provisional and is not treated as accepted canon.}
 %%^End%%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: Physical geography is broadly stable, but political-control claims describe the late-1740s setting and may have been overtaken by Great Library campaign events.
+%%^povNotes:v1%%
+Temporal coverage: physical geography is broadly stable, but political-control claims describe the late-1740s setting and may have been overtaken by Great Library campaign events.
 %%^End%%
 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
+- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+
+### Validated judgments
+- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Non-check status disposition: `status/gameupdate/gl` is not assessable pending the open temporal or coverage choice; no status was changed.
+
 ### Open findings
 
 - [ ] **suggestion — status.gameupdate_historical_snapshot:** The article explicitly uses `POV: 1740s`, under which its political-control paragraph remains a valid historical snapshot. [[Great Library Session Notes - Arc 5]] establishes that by DR 1752 the Northern Provinces had split from the Chardonian Empire and Airion's Floating Tower had returned to the plains. If the historical snapshot is intended, a human can remove `status/gameupdate/gl`. If this should instead become a current DR 1752 article, change `POV` to `1752` and copy: By DR 1752, the Northern Provinces had split from the Chardonian Empire, leaving the empire's claim and effective control over the Erbalta Plains unsettled. Airion's Floating Tower had also returned to the plains.
 
-### Validated
-
-- The physical geography is stable. The in-note ChatGPT etymology remains explicitly provisional `Campaign:none` material and is not treated as accepted canon.
 %%^End%%

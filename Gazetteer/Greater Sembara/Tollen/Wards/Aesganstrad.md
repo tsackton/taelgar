@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: neighborhood
 typeOfAlias: ward
@@ -10,7 +10,7 @@ pronunciation: ESS-gahn-strahd
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # Aesganstrad
 *(ESS-gahn-strahd)*
@@ -28,9 +28,8 @@ Best preserved of the ancient districts. Likely some landmarks or other features
 Dunmar campaign never went to this district, except maybe as part of an un-narrated walk to some other destination. 
 %%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: the DR 1700s broadly. The visible article describes present-day Tollen; the ancient Aesgan material remains provisional shared DM development and does not create a second historical speaking point."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern. The visible article describes present-day Tollen; the ancient Aesgan material remains provisional shared DM development and does not create a second historical speaking point.
 %%^End%%
 
 %%^Metadata:names:v1%%

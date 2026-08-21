@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
@@ -13,7 +13,7 @@ whereabouts:
   - {type: secondary, location: Chasa-Nahadi Watershed}
 dm_owner: tim
 dm_notes: none
-POV: 1700s
+POV: modern
 ---
 # Chasa
 *(CHA-sa)*
@@ -37,9 +37,8 @@ The name, Chasa, derives from Qadis, the old Northros name for the river, meanin
 [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes|Session 125 - DM Notes]], [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 129 - DM Notes|Session 129 - DM Notes]], - in Chardon
 %%
 
-%%^Metadata:article:v1%%
-mode: geographic reference
-povNotes: "Accuracy range: broadly the DR 1700s. The article describes the river's enduring course, navigation, and regional role rather than a dated campaign state; later travel records add encounters without changing that geographic viewpoint."
+%%^povNotes:v1%%
+Temporal coverage: broadly modern. The article describes the river's enduring course, navigation, and regional role rather than a dated campaign state; later travel records add encounters without changing that geographic viewpoint.
 %%^End%%
 
 %%^Metadata:names:v1%%

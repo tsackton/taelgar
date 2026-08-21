@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T22:19:46-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: bridge
@@ -10,7 +10,7 @@ aliases: [River Bridge]
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: color
-POV: 1740s
+POV: modern
 ---
 # The River Bridge
 >[!info]+ Information  
@@ -21,7 +21,10 @@ The River Bridge is one of the engineering and magical marvels of [[Chardon]].  
 
 The central segment of the bridge, marking the dividing line between the [[Bastion Quarter]] (Precinct XIX) and Precinct VII on the [[South Bank]], is enchanted with a magical mechanism that allows the bridge to rise, for defense, traffic control, and to allow ocean-going ships to pass.
 
-%%^Metadata:article:v1%%
-mode: location reference
-povNotes: "Accuracy range: approximately the DR 1740s. Location Reference for River Bridge; the visible description is a current-era reference, while established history and later developments may remain incomplete."
+%%^Metadata:names:v1%%
+- {name: "River Bridge", role: "primary", language: "Common", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern infrastructure and use; no construction date or later alteration to the bridge's fortified, inhabited, and movable form is established.
 %%^End%%

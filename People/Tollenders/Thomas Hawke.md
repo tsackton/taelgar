@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-19T21:07:45-04:00"
-lintVersion: "2.5"
+lintedAt: "2026-08-20T19:36:26-04:00"
+lintVersion: "3.2"
 tags: [person]
 species: human
 ancestry: Tollender
@@ -35,9 +35,8 @@ Born and raised in [[Tollen]], Thomas Hawke is an ambitious scholar at the [[Uni
 
 %%SECRET[v2:5f8aec0976e7cbfc68fd9955a9cde47f]%%
 
-%%^Metadata:article:v1%%
-mode: character reference
-povNotes: "Accuracy range: approximately DR 1748–1752. The exact year is not material, but the description assumes Hawke is in his early-to-mid thirties and established at the University of Tollen; the direct meeting occurred in late DR 1748."
+%%^povNotes:v1%%
+Temporal coverage: approximately DR 1748–1752. The exact year is not material, but the description assumes Hawke is in his early-to-mid thirties and established at the University of Tollen; the direct meeting occurred in late DR 1748.
 %%^End%%
 
 %%^Metadata:names:v1%%
