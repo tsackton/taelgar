@@ -11,7 +11,7 @@ pronunciation: SAH-ree-ah
 knownTo: []
 dm_owner: none
 dm_notes: none
-POV: undated
+POV: modern
 ---
 # Saria
 *(SAH-ree-ah)*
@@ -33,5 +33,5 @@ Her biography, dates, correspondents, or institutional role probably require mor
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: undated; the available evidence does not support a modern, decade, or year reading position for Saria's life.
+Temporal coverage: a broadly modern note, though Saria is currently unplaced in time. 
 %%^End%%
