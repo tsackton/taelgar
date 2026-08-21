@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-21T10:48:34-04:00"
+lintVersion: "3.4"
 tags: [person, status/gameupdate/gl]
 species: halfling
-name: Alton
 gender: male
 born: 1722
+name: Alton
 affiliations:
-- {org: Silver Tempests}
-whereabouts: 
-- {type: home, end: 1747-01-01, location: Chardon}
-- {type: home, start: 1747-04-08, location: Voltara}
+  - {org: Silver Tempests}
+whereabouts:
+  - {type: home, end: 1747-01-01, location: Chardon}
+  - {type: home, start: 1747-04-08, location: Voltara}
+knownTo: [grli]
 dm_owner: tim
 dm_notes: none
+POV: 1748
 ---
 # Alton
 >[!info]+ Biographical Info  
@@ -26,4 +30,12 @@ When Alton heard that the [[Great Library]] was recruiting adventurers to search
 
 Nearly a year later, in March of DR 1748, Alton joined a group of adventurers, including [[Cassia]], a human paladin, and [[Brottor]], a dwarf, to investigate the depths of the ruined mines under [[Goldpeak Mountain]]. During the mission, [[Brottor]] was killed by minions of [[Vilaxes]], and Alton and Cassia only survived because of the [[Silver Tempests]], who found them and joined forces to defeat [[Vilaxes]]. 
 
-Since then, Alton has been living in [[Voltara]] and occasionally traveling with the [[Silver Tempests]]. 
+Since then, Alton has been living in [[Voltara]] and occasionally traveling with the [[Silver Tempests]].
+
+%%^Metadata:names:v1%%
+- {name: Alton, role: primary, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 portrait with childhood and early-adventuring backstory; Alton's later fate is not established here.
+%%^End%%

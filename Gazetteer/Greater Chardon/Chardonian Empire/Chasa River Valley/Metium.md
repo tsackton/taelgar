@@ -1,73 +1,42 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-21T12:28:14-04:00"
+lintVersion: "3.4"
+tags: [place]
 typeOf: settlement
 typeOfAlias: city
 name: Metium
+pronunciation: MEH-tee-oom
 whereabouts: Chasa River Valley
 dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
 # Metium
+*(MEH-tee-oom)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Metium is a walled city about 60 miles upriver from [[Chardon]], at the confluence of the [[Chasa]] and the [[Nahadi]] rivers. Although small in comparison to Chardon, it is a wealthy city, at the center of a highly productive wine growing region, and a hub for river traffic. Messages flow regularly from here to Chardon. 
+Metium is a walled city about 60 miles upriver from [[Chardon]], at the confluence of the [[Chasa]] and the [[Nahadi]] rivers. Although small in comparison to Chardon, it is a wealthy city, at the center of a highly productive wine growing region, and a hub for river traffic. Messages flow regularly from here to Chardon. There is considerable wine trade through Metium's river port, both downriver to Chardon for local consumption or export, and upriver to Arendum or Lake Valandros for local consumption.
 
-Metium traces its history back to the [[Drankorian Empire]], originally as a fortification to protect a small river port. Although it quickly outstripped its humble beginnings, parts of the original fort still remain, integrated into the city walls and the foundations of several buildings in the oldest district. Metium was briefly sacked during the [[Conclave War]] until it was freed after Chardon's victory at the [[Battle of Metium]]. Since the end of the [[Conclave War]], Metium has grown rapidly, recovering and more from the damage dealt.
+Metium traces its history back to the [[Drankorian Empire]], originally as a fortification to protect a small river port. Although it quickly outstripped its humble beginnings, parts of the original fort still remain, integrated into the city walls and the foundations of several buildings in the oldest district. Metium was a small city in the orbit of Chardon before the [[Great War]]; even then it had a reputation as a trading post, wine center, and crossroads, with significant river traffic. During the [[Conclave War]], it was the site of Chardon's victory at the [[Battle of Metium]]. Since the end of the [[Conclave War]], Metium has grown rapidly, recovering and more from the damage dealt.
 
-The most notable landmark is the massive Triumphal Arch in the center of the market square, commemorating the great victory over the hobgoblins and dragon conclave. Almost as significant is the Tomb of the Valiant Defender, another monument to honor that war. Beneath the city, remnants of Metium’s old fortifications and drainage systems form an extensive underground network. Originally built as part of the city’s defenses and later expanded into a sewer system, these tunnels have become a hidden underworld used by smugglers, thieves, and others seeking refuge from the city’s watch. Many sections of this network are still uncharted, with rumors of lost chambers holding Drankorian relics or even forgotten treasures from the city's sacking during the [[Conclave War]].
+The most notable landmark is the massive Triumphal Arch in the center of the market square, commemorating the great victory over the hobgoblins and dragon conclave. Almost as significant is the Tomb of the Valiant Defender, another monument to honor that war. Beneath the city, remnants of Metium’s old fortifications and drainage systems form an extensive underground network. These tunnels and sewers have become a hidden tangled maze, often used by smugglers and thieves and other ne'er-do-wells. Many sections of this network are still uncharted: rumors of lost chambers holding Drankorian relics or stranger things persist.
 
-The city is famous for its annual wine festival, held each autumn after the harvest. Traders and vintners from all across the region gather for a week of celebrations, competitions, and tastings. During this time, the city’s market square overflows with barrels of wine, decorated stalls, and entertainers, attracting both locals and travelers. The festival is a highlight of the year, giving even the humblest of citizens a chance to revel in the region's prosperity.
+The city is famous for its annual wine festival, held each autumn after the harvest. Traders and vintners from all across the region gather for a week of celebrations, competitions, and tastings. During this time, the city’s market square overflows with barrels of wine and decorated stalls, attracting both locals and travelers. 
 
-%% One Note
-
-closest to Chardon, a center of wine production and a major market/trading town at the confluence of the Chasa and Nahadi rivers. Within the same province as Chardon.
-
-## Metium
- 
-Metium was a small city in the orbit of Chardon in the pre-war period; even then it had a reputation as a trading post, wine center, and crossroads, with significant river traffic. During and just after war, attracted lots of fleeing refugees and grew quickly, enlarging the walls twice. Was the site of Chardon's victorious climatical battle during the Blood Years.
- 
-The most notable landmark is the massive Triumphal Arch in the center of the market square, commemorating the great victory over the hobgoblins and dragon conclave. Almost as significant is the Tomb of the Valiant Defender, another monument to honor that war.
- 
-In the current day, Metium is mostly known as the center of a major wine growing region. There is considerable wine trade through Metium's river port, both downriver to Chardon for local consumption or export, and upriver to Arendum or Lake Valandros for local consumption.
- 
-Vibe is commerce/wine/trade/money.
- 
-%%
+%% Vibe is commerce/wine/trade/money %%
 
 %%^Metadata:map:v1%%
 locations:
-  - {map: world, locator: }
+  - {map: world, locator: 13.07.A24}
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Metium", role: "primary", language: "Chardonian", pronunciation: "MEH-tee-oom", notes: "Latin analogue: separate i and u vowels and first-syllable stress.", status: "proposed"}
+- {name: "Metium", role: "primary", language: "Chardonian", pronunciation: "MEH-tee-oom", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1748 civic and economic snapshot of Metium, with its Drankorian origins and Conclave War history described separately rather than as continuous coverage.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-
-### Open findings
-
-- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Metium — MEH-tee-oom` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
-
 %%^End%%

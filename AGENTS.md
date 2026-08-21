@@ -125,9 +125,11 @@ After editing:
   verifies the written hashes, follow that skill's risk-based post-finalization
   verification instead of independently repeating the full-file, YAML, tag,
   special-syntax, and link checks above. This exception does not waive complete
-  scoped-diff review or scoped `git diff --check`; any mismatch, tool-reported
-  anomaly, or later manual edit restores the ordinary requirements.
-- Review the complete diff and run a scoped `git diff --check`.
+  changed-path confirmation, review of every targeted-risk hunk, or scoped
+  `git diff --check`; any mismatch, tool-reported anomaly, or later manual edit
+  other than the skill's proven trailing-whitespace-only exception restores the
+  appropriate ordinary requirements.
+- Review the complete diff and run a scoped `git diff --check`. Exception: after an authorized `lint-taelgar-note` batch finalizer succeeds, use its `reviewSummary` routing instead of semantically rereading mechanically proven completion-lifecycle and frontmatter-formatting hunks; verify all changed paths, inspect every targeted-review hunk, and follow the skill's risk-based reread rules. A proven trailing-horizontal-whitespace-only cleanup after finalization needs only whitespace verification and a passing scoped `git diff --check`, not refinalization or note-level revalidation.
 - Do not broaden the task to fix unrelated or pre-existing findings. Ignore
   harmless end-of-file-only whitespace differences.
 

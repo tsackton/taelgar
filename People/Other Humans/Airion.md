@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [person]
 knownTo: [Mawar, GL]
 name: Airion the Mistspeaker
+pronunciation: AIR-ee-on
 aliases: [Airion the Mistspeaker]
 born:
 species: human
@@ -13,6 +14,7 @@ dm_owner: tim
 dm_notes: important
 ---
 # Airion the Mistspeaker
+*(AIR-ee-on)*
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`

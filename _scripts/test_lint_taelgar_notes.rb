@@ -579,6 +579,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       else
         decision["editorialVerdict"] = "Sufficient, worth expanding"
         decision["outcome"] = "open"
+        decision["expansionCandidate"] = expansion_candidate
         decision["lintReport"] = <<~REPORT.strip
           %%^Lint%%
           - [ ] **Suggestion — review.open:** Human review is still required.
@@ -790,12 +791,14 @@ class BatchLintTaelgarNotesTest < Minitest::Test
         decision["eligibility"] = "eligible"
         decision["editorialVerdict"] = "Sufficient, worth expanding"
         decision["outcome"] = "open"
+        decision["expansionCandidate"] = expansion_candidate
         decision["lintReport"] = lint_report("review.open")
       else
         decision["eligibility"] = "ineligible"
         decision["eligibilityReason"] = "The authored comment is only an editorial placeholder."
         decision["editorialVerdict"] = nil
         decision["outcome"] = nil
+        decision["sharedNonpublicReview"] = []
         decision["adjudication"] = "complete"
       end
     end
@@ -811,6 +814,104 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal "ineligible", result.fetch("notes").find { |note| note["path"] == ineligible_path }.fetch("outcome")
   end
 
+  def test_finalizer_reports_mechanical_and_targeted_review_paths
+    root = make_vault
+    paths = ["Meta/Routine.md", "Meta/Metadata.md", "Meta/Body.md"]
+    paths.each { |path| write_note(root, path, meta_note(File.basename(path, ".md"), version: "2.2")) }
+    manifest, manifest_sha, review_dir, = build_workspace(root, paths)
+    metadata_candidate = File.join(review_dir, "candidates", "Meta", "Metadata.md")
+    body_candidate = File.join(review_dir, "candidates", "Meta", "Body.md")
+    File.write(metadata_candidate, File.read(metadata_candidate).sub("name: Metadata\n", "name: Metadata\naliases: [Metadata Record]\n"))
+    File.write(body_candidate, File.read(body_candidate).sub("Body describes", "Body clearly describes"))
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+      if decision["path"] == "Meta/Body.md"
+        decision["bodyEdits"] = [
+          {"original" => "Body describes", "replacement" => "Body clearly describes", "basis" => "objective_grammar"}
+        ]
+      end
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    summary = result.fetch("reviewSummary")
+    reviews = result.fetch("notes").to_h { |note| [note.fetch("path"), note.fetch("review")] }
+
+    assert_equal ["Meta/Routine.md"], summary.fetch("mechanicalOnlyPaths")
+    assert_equal ["Meta/Body.md", "Meta/Metadata.md"], summary.fetch("targetedReviewPaths").sort
+    assert_equal ["Meta/Body.md"], summary.dig("categories", "body_prose")
+    assert_equal ["Meta/Metadata.md"], summary.dig("categories", "metadata")
+    assert_equal "mechanical", reviews.dig("Meta/Routine.md", "level")
+    assert_equal "targeted", reviews.dig("Meta/Metadata.md", "level")
+    assert_equal "targeted", reviews.dig("Meta/Body.md", "level")
+  end
+
+  def test_finalizer_rejects_new_trailing_whitespace_before_any_write
+    root = make_vault
+    path = "Meta/Whitespace.md"
+    write_note(root, path, meta_note("Whitespace", version: "2.2"))
+    original = File.read(File.join(root, path))
+    manifest, manifest_sha, review_dir, = build_workspace(root, [path])
+    candidate = File.join(review_dir, "candidates", path)
+    File.write(candidate, File.read(candidate).sub("test vault.\n", "test vault. \n"))
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    end
+
+    assert_includes error.message, "introduces whitespace errors"
+    assert_equal original, File.read(File.join(root, path))
+  end
+
+  def test_whitespace_preflight_ignores_unchanged_existing_trailing_space
+    before = "# Existing\n\nThis line already has trailing space. \n"
+    after = "---\nlintedAt: now\n---\n#{before}"
+
+    assert_empty TaelgarNoteLint::Batch.introduced_whitespace_errors(before, after)
+  end
+
+  def test_change_classifier_routes_private_status_and_custom_syntax_changes
+    before = <<~MARKDOWN
+      ---
+      tags: [meta]
+      dm_notes: none
+      ---
+      # Review
+
+      A visible statement.
+    MARKDOWN
+    after = <<~MARKDOWN
+      ---
+      tags: [meta, status/gameupdate/gl]
+      dm_notes: color
+      ---
+      # Review
+
+      A visible statement.
+
+      %%^Campaign:none%%
+      Private planning.
+      %%^End%%
+    MARKDOWN
+
+    review = TaelgarNoteLint::Batch.classify_change(before, after)
+
+    assert_equal "targeted", review.fetch("level")
+    assert_includes review.fetch("categories"), "metadata"
+    assert_includes review.fetch("categories"), "body_prose"
+    assert_includes review.fetch("categories"), "private_or_visibility_sensitive"
+    assert_includes review.fetch("categories"), "non_lint_status"
+    assert_includes review.fetch("categories"), "custom_syntax"
+  end
+
   def test_finalizer_accepts_the_supported_editorial_verdict_and_state_matrix
     root = make_vault
     cases = {
@@ -818,7 +919,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       "Sufficient Open" => ["Sufficient", "open", lint_report("review.open")],
       "Worth Clean" => ["Sufficient, worth expanding", "clean", nil],
       "Worth Open" => ["Sufficient, worth expanding", "open", lint_report("metadata.review")],
-      "Underdeveloped Open" => ["Underdeveloped", "open", lint_report("coverage.established_fact_missing")]
+      "Underdeveloped Open" => ["Underdeveloped", "open", underdeveloped_report("coverage.established_fact_missing")]
     }
     paths = cases.keys.map do |name|
       path = "Meta/#{name}.md"
@@ -832,6 +933,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       decision["editorialVerdict"] = verdict
       decision["outcome"] = outcome
       decision["lintReport"] = report
+      decision["expansionCandidate"] = expansion_candidate if verdict == "Sufficient, worth expanding"
+      decision["editorialAssessment"] = "The fixture omits its central account." if verdict == "Underdeveloped"
     end
 
     result = finalizer(root, manifest, manifest_sha, decisions).finalize
@@ -860,7 +963,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     worth_finding.fetch("notes").first.merge!(
       "editorialVerdict" => "Sufficient, worth expanding",
       "outcome" => "open",
-      "lintReport" => lint_report("editorial.worth_expanding")
+      "lintReport" => lint_report("editorial.worth_expanding"),
+      "expansionCandidate" => expansion_candidate
     )
     error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
       finalizer(root, manifest, manifest_sha, worth_finding).finalize
@@ -871,12 +975,136 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     unadjudicated.fetch("notes").first.merge!(
       "editorialVerdict" => "Underdeveloped",
       "outcome" => "open",
-      "lintReport" => lint_report("editorial.note_underdeveloped")
+      "lintReport" => underdeveloped_report("editorial.note_underdeveloped"),
+      "editorialAssessment" => "The fixture lacks a central uninvented dimension."
     )
     error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
       finalizer(root, manifest, manifest_sha, unadjudicated).finalize
     end
     assert_includes error.message, "requires completed Sol xhigh adjudication"
+  end
+
+  def test_finalizer_requires_declared_objective_body_edits
+    root = make_vault
+    path = "Meta/Prose.md"
+    write_note(root, path, meta_note("Prose", version: "2.2"))
+    manifest, manifest_sha, review_dir, = build_workspace(root, [path])
+    candidate = File.join(review_dir, "candidates", path)
+    File.write(candidate, File.read(candidate).sub("Prose describes", "Prose elegantly describes"))
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+
+    assert_includes error.message, "declared objective edit"
+  end
+
+  def test_finalizer_requires_open_findings_for_public_or_redundant_shared_material
+    root = make_vault
+    path = "Meta/Shared.md"
+    note = meta_note("Shared", version: "2.2").sub(
+      "\n%%^povNotes:v1%%",
+      "\n%% The visible article already records this fixture fact. %%\n\n%%^povNotes:v1%%"
+    )
+    write_note(root, path, note)
+    manifest, manifest_sha, review_dir, = build_workspace(root, [path])
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+      decision.fetch("sharedNonpublicReview").first.merge!(
+        "disposition" => "redundant_with_public",
+        "summary" => "The shared comment duplicates the visible fixture fact."
+      )
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "requires open editorial.shared_material_redundant"
+
+    complete_workspace_results(review_dir) do |decision|
+      decision["outcome"] = "open"
+      decision["lintReport"] = lint_report("editorial.shared_material_redundant")
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    assert_equal "open", result.fetch("notes").first.fetch("outcome")
+  end
+
+  def test_finalizer_preserves_documented_name_values_but_allows_supported_additions
+    root = make_vault
+    path = "People/Documented.md"
+    note = person_note("Documented").sub(
+      "- {name: Documented, language: Common, pronunciation: NAYM}",
+      "- {name: Documented, language: Common, status: documented}"
+    )
+    write_note(root, path, note)
+    manifest, manifest_sha, review_dir, = build_workspace(root, [path])
+    candidate = File.join(review_dir, "candidates", path)
+    File.write(candidate, File.read(candidate).sub("language: Common", "language: unknown"))
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "documented name value changed"
+
+    File.write(candidate, File.read(File.join(root, path)).sub(
+      "language: Common, status: documented",
+      "language: Common, pronunciation: NAYM, status: documented"
+    ))
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    assert_equal "clean", result.fetch("notes").first.fetch("outcome")
+  end
+
+  def test_underdeveloped_note_can_carry_distinct_coverage_and_invention_findings
+    root = make_vault
+    path = "Meta/Two Gaps.md"
+    write_note(root, path, meta_note("Two Gaps", version: "2.2"))
+    manifest, manifest_sha = manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    report = <<~REPORT.strip
+      %%^Lint%%
+      ### Editorial assessment
+      - **Underdeveloped** — The fixture omits one established fact and one separate uninvented dimension.
+
+      - [ ] **Warning — coverage.established_fact_missing:** Add the established fixture fact.
+      - [ ] **Suggestion — editorial.note_underdeveloped:** Develop the separate central dimension.
+      %%^End%%
+    REPORT
+    decisions.fetch("notes").first.merge!(
+      "editorialVerdict" => "Underdeveloped",
+      "editorialAssessment" => "The fixture has distinct established and uninvented central gaps.",
+      "outcome" => "open",
+      "lintReport" => report,
+      "adjudication" => "complete"
+    )
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    assert_equal "Underdeveloped", result.fetch("notes").first.fetch("editorialVerdict")
+    assert_equal "open", result.fetch("notes").first.fetch("outcome")
   end
 
   def test_workspace_refuses_incomplete_results_and_changed_live_targets_before_any_write
@@ -1037,6 +1265,31 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       - [ ] **Suggestion — #{rule_id}:** Human review is still required.
       %%^End%%
     REPORT
+  end
+
+  def underdeveloped_report(rule_id)
+    <<~REPORT.strip
+      %%^Lint%%
+      ### Editorial assessment
+      - **Underdeveloped** — The fixture omits its central account.
+
+      - [ ] **Suggestion — #{rule_id}:** Human review is still required.
+      %%^End%%
+    REPORT
+  end
+
+  def expansion_candidate
+    {
+      "addition" => "Add one bounded fixture detail.",
+      "benefit" => "It makes the fixture more useful.",
+      "sources" => [
+        {
+          "path" => "Meta/Source.md",
+          "evidence" => "The source records the bounded fixture detail.",
+          "certainty" => "established"
+        }
+      ]
+    }
   end
 
   def make_vault

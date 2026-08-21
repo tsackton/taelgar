@@ -14,6 +14,8 @@ Evaluate each displayed name form separately. When a work title consists entirel
 
 The gate never suppresses deterministic schema validation of an existing block. Entries with `status: proposed`, `disputed`, or `unresolved` remain deterministic human-review tasks even when contextual review is skipped; preserve them without recalculating or replacing them.
 
+During ordinary lint, an existing entry with `status: documented` remains documented and every populated documented value remains unchanged. The linter may add a supported missing field, such as a pronunciation that was not previously recorded, but it never deletes, replaces, downgrades, or reinterprets an existing documented value. If another note describes a documented value differently, preserve the documented entry and open `metadata.names_documented_conflict` for human resolution rather than choosing between the sources.
+
 The block belongs with other persistent metadata blocks at the end of the note, after article text and comments but before the replaceable lint report.
 
 ```yaml
@@ -61,6 +63,7 @@ Plain-English titles, meta labels, and genuinely obvious ordinary names do not n
 - Keep one dictionary per name form.
 - Edit the existing entry when correcting evidence about the same form; do not append a second copy.
 - Add an entry when the subject genuinely has another historical, translated, disputed, or alternate form.
+- During ordinary lint, preserve `status: documented` and every populated value on that entry; add supported missing fields without rewriting existing ones. A targeted human-authorized correction may resolve a documented conflict outside the automatic lint workflow.
 - Preserve established name-specific meaning, derivation, naming agent, and historical circumstance or timing in the appropriate fields or `notes`; a minimal entry omits unsupported or redundant fields but does not discard documented naming context.
 - Preserve uncertainty with `status` and `notes`; do not resolve competing etymologies silently.
 - Whenever a name-block entry has a pronunciation and frontmatter either has none or has a different value, use `notes` to record the block value's source or derivation. A matching frontmatter pronunciation needs no separate source note.
