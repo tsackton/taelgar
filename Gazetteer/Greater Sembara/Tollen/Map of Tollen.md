@@ -4,7 +4,7 @@ lintedAt: "2026-08-21T13:33:35-04:00"
 lintVersion: "3.4"
 tags: [background]
 name: Map of Tollen
-dm_owner: tim
+dm_owner: none
 dm_notes: none
 POV: 1740s
 ---

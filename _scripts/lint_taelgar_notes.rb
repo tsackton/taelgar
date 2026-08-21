@@ -22,7 +22,7 @@ require_relative "validate_taelgar_note"
 module TaelgarNoteLint
   module Batch
     SCHEMA_VERSION = 2
-    DECISION_SCHEMA_VERSION = 3
+    DECISION_SCHEMA_VERSION = 4
     WORKSPACE_SCHEMA_VERSION = 1
     DEFAULT_MAX_NOTES = 10
     DEFAULT_MAX_TOKENS = 30_000
@@ -61,6 +61,7 @@ module TaelgarNoteLint
       source_pointer
       no_useful_material
     ].freeze
+    DM_SOURCE_DISPOSITIONS = %w[matching not_matching].freeze
     OPEN_SHARED_NONPUBLIC_RULES = {
       "redundant_with_public" => "editorial.shared_material_redundant",
       "public_adoption_candidate" => "editorial.public_material_candidate"
@@ -172,6 +173,31 @@ module TaelgarNoteLint
       shared_nonpublic_units(note).map do |unit|
         unit.merge("disposition" => "review_required", "summary" => nil)
       end
+    end
+
+    def dm_notes_candidate_sources(record)
+      Array(record.dig("deterministic", "findings")).flat_map do |finding|
+        next [] unless finding["ruleId"].to_s.start_with?("dm.notes_")
+
+        Array(finding.dig("details", "sources"))
+      end.each_with_object([]) do |source, paths|
+        path = source["path"].to_s
+        paths << path unless path.empty?
+      end.uniq.sort
+    end
+
+    def dm_notes_review_template(record)
+      required = record.dig("deterministic", "reviewGates", "dmNotes", "required") == true
+      {
+        "required" => required,
+        "sourceReviews" => dm_notes_candidate_sources(record).map do |path|
+          { "path" => path, "disposition" => "review_required", "summary" => nil }
+        end
+      }
+    end
+
+    def dm_note_wikilink(path)
+      "[[#{path.sub(/\.md\z/, '')}]]"
     end
 
     def name_block_data(note)
@@ -569,6 +595,7 @@ module TaelgarNoteLint
             "lintReport" => nil,
             "handoff" => nil,
             "bodyEdits" => [],
+            "dmNotesReview" => Batch.dm_notes_review_template(record),
             "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
             "editorialAssessment" => nil,
             "expansionCandidate" => nil,
@@ -736,6 +763,7 @@ module TaelgarNoteLint
             "lintReport" => nil,
             "handoff" => nil,
             "bodyEdits" => [],
+            "dmNotesReview" => Batch.dm_notes_review_template(record),
             "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
             "editorialAssessment" => nil,
             "expansionCandidate" => nil,
@@ -991,6 +1019,7 @@ module TaelgarNoteLint
         report = validate_report(decision["lintReport"], outcome, path)
         validate_editorial_consistency!(decision, report)
         validate_declared_body_edits!(decision, live_note, staged_note, path)
+        validate_dm_notes_review!(decision, record, staged_note, report, outcome, path)
         validate_shared_nonpublic_review!(decision, staged_note, report, outcome, path)
         validate_documented_names_preserved!(live_note, staged_note, path)
         text_without_lint = staged_text.gsub(LINT_BLOCK_PATTERN, "")
@@ -1065,7 +1094,8 @@ module TaelgarNoteLint
           end
           unless decision["editorialVerdict"].nil? && decision["outcome"].nil? &&
                  decision["lintReport"].to_s.strip.empty? && decision["handoff"].to_s.strip.empty? &&
-                 Array(decision["bodyEdits"]).empty? && Array(decision["sharedNonpublicReview"]).empty? &&
+                 Array(decision["bodyEdits"]).empty? && decision["dmNotesReview"].nil? &&
+                 Array(decision["sharedNonpublicReview"]).empty? &&
                  decision["editorialAssessment"].to_s.strip.empty? && decision["expansionCandidate"].nil?
             raise BatchError, "A semantically ineligible result cannot carry a verdict, outcome, report, handoff, or review payload: #{path}"
           end
@@ -1076,6 +1106,9 @@ module TaelgarNoteLint
           end
           if verdict == "Underdeveloped" && decision["outcome"] != "open"
             raise BatchError, "An Underdeveloped verdict must remain open: #{path}"
+          end
+          unless decision["dmNotesReview"].is_a?(Hash)
+            raise BatchError, "Every eligible note needs a structured dm_notes review result: #{path}"
           end
           if report_rule_ids(decision["lintReport"]).include?("editorial.note_underdeveloped") &&
              decision["adjudication"] != "complete"
@@ -1169,6 +1202,53 @@ module TaelgarNoteLint
           if edit["basis"] == "source_correction" && edit["sourcePath"].to_s.strip.empty?
             raise BatchError, "A source correction body edit needs sourcePath: #{path}"
           end
+        end
+      end
+
+      def validate_dm_notes_review!(decision, record, staged_note, report, outcome, path)
+        review = decision.fetch("dmNotesReview")
+        expected_required = record.dig("deterministic", "reviewGates", "dmNotes", "required") == true
+        unless review["required"] == expected_required
+          raise BatchError, "The dm_notes review result does not match the manifest review gate: #{path}"
+        end
+
+        expected_paths = Batch.dm_notes_candidate_sources(record)
+        source_reviews = Array(review["sourceReviews"])
+        actual_paths = source_reviews.map { |source| source["path"].to_s }
+        unless actual_paths.sort == expected_paths && actual_paths.uniq.length == actual_paths.length
+          raise BatchError, "The dm_notes review must disposition every manifest source exactly once: #{path}"
+        end
+
+        unless expected_required
+          unless source_reviews.empty?
+            raise BatchError, "A skipped dm_notes review cannot carry source dispositions: #{path}"
+          end
+          return
+        end
+
+        source_reviews.each do |source|
+          unless DM_SOURCE_DISPOSITIONS.include?(source["disposition"].to_s) && !source["summary"].to_s.strip.empty?
+            raise BatchError, "Every dm_notes source needs matching or not_matching disposition and a summary: #{path}"
+          end
+        end
+
+        matching_paths = source_reviews.each_with_object([]) do |source, paths|
+          paths << source["path"] if source["disposition"] == "matching"
+        end
+        if matching_paths.any?
+          destination = outcome == "open" ? report.to_s : decision["handoff"].to_s
+          location = outcome == "open" ? "Lint report" : "clean-result handoff"
+          missing = matching_paths.reject { |source| destination.include?(Batch.dm_note_wikilink(source)) }
+          unless missing.empty?
+            raise BatchError, "The #{location} must list every confirmed _DM_ match as an Obsidian wikilink: #{path}"
+          end
+          return
+        end
+
+        dm_notes = staged_note.data["dm_notes"].to_s
+        return unless %w[color important].include?(dm_notes)
+        unless outcome == "open" && report_rule_ids(report).include?("dm.notes_no_local_evidence")
+          raise BatchError, "A positive dm_notes attestation without a confirmed match requires open dm.notes_no_local_evidence: #{path}"
         end
       end
 

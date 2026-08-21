@@ -440,7 +440,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
           "eligibility" => "eligible",
           "editorialVerdict" => "Sufficient",
           "outcome" => "clean",
-          "lintReport" => nil
+          "lintReport" => nil,
+          "dmNotesReview" => { "required" => false, "sourceReviews" => [] }
         }
       ]
     }
@@ -798,6 +799,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
         decision["eligibilityReason"] = "The authored comment is only an editorial placeholder."
         decision["editorialVerdict"] = nil
         decision["outcome"] = nil
+        decision["dmNotesReview"] = nil
         decision["sharedNonpublicReview"] = []
         decision["adjudication"] = "complete"
       end
@@ -1038,6 +1040,94 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     result = finalizer(root, manifest, manifest_sha, decisions).finalize
 
     assert_equal "open", result.fetch("notes").first.fetch("outcome")
+  end
+
+  def test_finalizer_requires_structured_dm_source_dispositions_and_exact_wikilinks
+    root = make_vault
+    path = "People/DM Review.md"
+    write_note(
+      root,
+      path,
+      person_note("DM Review").sub(
+        "knownTo: []\n",
+        "knownTo: []\ndm_owner: tim\ndm_notes: important\n"
+      )
+    )
+    source_path = "_DM_/DM Review Notes.md"
+    write_note(root, source_path, "# DM Review Notes\n\n[[DM Review]] has private support.\n")
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    source_review = decision.dig("dmNotesReview", "sourceReviews", 0)
+
+    assert decision.dig("dmNotesReview", "required")
+    assert_equal source_path, source_review.fetch("path")
+    source_review["disposition"] = "matching"
+    source_review["summary"] = "Confirmed as a direct subject link."
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "open"
+    decision["lintReport"] = <<~REPORT.strip
+      %%^Lint%%
+      ### Validated judgments
+      - Matching local-only notes support the positive attestation.
+
+      - [ ] **Suggestion — review.current:** Human review is still required.
+      %%^End%%
+    REPORT
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "must list every confirmed _DM_ match"
+
+    link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
+    decision["lintReport"] = decision.fetch("lintReport").sub(
+      "Matching local-only notes support the positive attestation.",
+      "Matching local-only notes support the positive attestation: #{link}."
+    )
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+
+    decision["outcome"] = "clean"
+    decision["lintReport"] = nil
+    decision["handoff"] = "Sufficient and clean."
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "clean-result handoff"
+
+    decision["handoff"] = "Sufficient and clean; matching source: #{link}."
+    finalizer(root, manifest, manifest_sha, decisions).finalize
+  end
+
+  def test_finalizer_requires_no_local_evidence_finding_when_every_dm_candidate_is_rejected
+    root = make_vault
+    path = "People/Rejected DM Candidate.md"
+    write_note(
+      root,
+      path,
+      person_note("Rejected DM Candidate").sub(
+        "knownTo: []\n",
+        "knownTo: []\ndm_owner: tim\ndm_notes: color\n"
+      )
+    )
+    write_note(root, "_DM_/Rejected DM Candidate Notes.md", "# Notes\n\n[[Rejected DM Candidate]] is a collision.\n")
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    source_review = decision.dig("dmNotesReview", "sourceReviews", 0)
+    source_review["disposition"] = "not_matching"
+    source_review["summary"] = "Rejected as a subject-name collision."
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "open"
+    decision["lintReport"] = lint_report("review.current")
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize
+    end
+    assert_includes error.message, "requires open dm.notes_no_local_evidence"
+
+    decision["lintReport"] = lint_report("dm.notes_no_local_evidence")
+    finalizer(root, manifest, manifest_sha, decisions).finalize
   end
 
   def test_finalizer_preserves_documented_name_values_but_allows_supported_additions
@@ -1395,6 +1485,12 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       "validatorVersion" => TaelgarNoteLint::VERSION,
       "notes" => records
     }
+    manifest_text = "#{JSON.pretty_generate(manifest)}\n"
+    [manifest, TaelgarNoteLint::Batch.sha256(manifest_text)]
+  end
+
+  def prepared_manifest_for(root, paths)
+    manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare(paths)
     manifest_text = "#{JSON.pretty_generate(manifest)}\n"
     [manifest, TaelgarNoteLint::Batch.sha256(manifest_text)]
   end

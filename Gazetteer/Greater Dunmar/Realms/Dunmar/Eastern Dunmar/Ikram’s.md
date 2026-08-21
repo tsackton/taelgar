@@ -6,7 +6,6 @@ tags: [place, status/check/lint]
 typeOf: inn
 typeOfAlias: caravanserai
 ancestry: Dunmari
-campaignInfo: []
 name: "Ikram's"
 whereabouts: Karawa
 dm_owner: none
