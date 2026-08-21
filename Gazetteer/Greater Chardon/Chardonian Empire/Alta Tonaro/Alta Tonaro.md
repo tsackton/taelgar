@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-20T19:36:26-04:00"
 lintVersion: "3.2"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint, status/check/ai]
+tags: [place]
 typeOf: realm
 typeOfAlias: province
 name: Alta Tonaro
@@ -31,7 +31,7 @@ But it was not to last. By DR 1704 [[chalyte]] production had peaked, and in DR 
 Since then, silver production has continued around [[Argento]], but, though valuable, silver has only a tiny fraction of the value of [[chalyte]], and [[Alta Tonaro]] is now considered a poor backwater by most.
 
 %%^Metadata:names:v1%%
-- {name: "Alta Tonaro", role: "primary", language: "Chardonian", pronunciation: "AHL-tah toh-NAH-roh", notes: "Italian/Latin analogue: open vowels and penultimate stress in Tonaro.", status: "proposed"}
+- {name: "Alta Tonaro", role: "primary", language: "Chardonian", pronunciation: "AHL-tah toh-NAH-roh", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

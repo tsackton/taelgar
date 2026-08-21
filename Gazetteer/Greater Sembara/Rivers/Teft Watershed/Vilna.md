@@ -6,6 +6,7 @@ displayDefaults: {defArt: the}
 tags: [place]
 typeOfAlias: river
 name: Vilna
+pronunciation: VIL-nah
 whereabouts:
   - {type: primary, location: Zimkova}
   - {type: secondary, location: Teft Watershed}
@@ -14,6 +15,7 @@ dm_notes: none
 POV: modern
 ---
 # The Vilna
+*(VIL-nah)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

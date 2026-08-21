@@ -25,7 +25,7 @@ A small Dunmari village. Houses of adobe / mud brick, except a few bigger or mor
 
 [[Red Mesa]]: a massive red stone flat-topped mesa that looms over the village. 
 
-[[Ikram’s|The caravanserai]]: Largely destroyed in the gnoll attacks. A new caravanserai is under construction, larger and better fortified. 
+[[Ikram's|The caravanserai]]: Largely destroyed in the gnoll attacks. A new caravanserai is under construction, larger and better fortified. 
 
 The Oasis: The central feature of the town is a small oasis. Over the years a marble pool and short wall has been built around it, allowing water to be drawn off for various uses. The reliability and purity of the water here has established Karawa as a waypoint and gathering place for the Dunmari. Palm trees provide shade and shelter and make the oasis square a place where people linger. Fouled by gnolls, but now clear again. There has always been a holy spring here, a place that people said could show you glimpses of dreams and faraway visions of possible futures, guarded and protected by a small Mystery Cult dedicated to [[Shakun]].
 

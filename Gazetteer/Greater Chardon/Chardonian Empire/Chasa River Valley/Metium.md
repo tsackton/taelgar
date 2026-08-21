@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T12:28:14-04:00"
+lintedAt: "2026-08-21T15:58:36-04:00"
 lintVersion: "3.4"
 tags: [place]
 typeOf: settlement
@@ -10,7 +10,7 @@ pronunciation: MEH-tee-oom
 whereabouts: Chasa River Valley
 dm_owner: tim
 dm_notes: none
-POV: 1748
+POV: modern
 ---
 # Metium
 *(MEH-tee-oom)*
@@ -38,5 +38,5 @@ locations:
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1748 civic and economic snapshot of Metium, with its Drankorian origins and Conclave War history described separately rather than as continuous coverage.
+Temporal coverage: broadly modern; the civic and economic description reflects Metium after its long recovery from the Conclave War, while its Drankorian origins and war history are older layers.
 %%^End%%

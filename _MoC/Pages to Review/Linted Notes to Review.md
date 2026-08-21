@@ -1,3 +1,4 @@
+currentLinterVersion:: "3.4"
 
 ### Need Lint Cleanup
 
@@ -5,7 +6,7 @@
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks
 FROM #status/check/lint
-WHERE lintVersion = "3.4"
+WHERE lintVersion = this.currentLinterVersion
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
@@ -28,15 +29,15 @@ TABLE join(split(file.path, "/", 2), "/") as Folder,
         "Yes"
     ) as "Clean?"
 WHERE lintedAt AND date(lintedAt) > date(this.lintedAfter)
-SORT date(lintedAt)
+SORT POV
 ```
 
 ## Linted Clean
 
 Set `lintedCleanAfter` to the ISO 8601 date and time after which cleanly linted notes should appear. The default preserves all existing results.
 
-lintedCleanAfter:: 2026-08-21T15:06:45-04:00
-currentLinterVersion:: "3.4"
+lintedCleanAfter:: 2026-08-21T10:06:45-04:00
+
 
 ```dataview
 TABLE
@@ -46,7 +47,7 @@ TABLE
 	    typeof(POV) = "duration",
 	    durationformat(choice(typeof(POV) = "duration", POV, null), "s's'"),
 	    string(POV)
-	) as POV
+	) as POV, pronunciation
 FROM !#status/check/lint
 WHERE lintedAt AND date(lintedAt) > date(this.lintedCleanAfter) AND lintVersion = this.currentLinterVersion
 SORT POV
@@ -72,6 +73,17 @@ TABLE join(split(file.path, "/", 2), "/") as Folder,
       length(file.inlinks) as Backlinks, dm_notes as "DM Notes", dm_owner as "DM Owner"
 FROM !#status/check/lint
 WHERE (dm_owner = "none") and (dm_owner) and lintVersion = this.currentLinterVersion and date(lintedAt) > date(this.lintedCleanAfter)
+FLATTEN length(file.inlinks) AS BacklinkCount
+SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
+```
+
+## Linted Clean, DM Notes None
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder, 
+      length(file.inlinks) as Backlinks, dm_notes as "DM Notes", dm_owner as "DM Owner"
+FROM !#status/check/lint
+WHERE (dm_notes = "none") and (dm_notes) and lintVersion = this.currentLinterVersion and date(lintedAt) > date(this.lintedCleanAfter)
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```

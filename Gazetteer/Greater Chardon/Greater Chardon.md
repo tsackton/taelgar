@@ -1,18 +1,20 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T13:33:35-04:00"
+lintedAt: "2026-08-21T15:58:36-04:00"
 lintVersion: "3.4"
 displayDefaults: {defArt: ""}
-tags: [place, status/wip, status/check/lint]
+tags: [place, status/wip]
 typeOf: region
 name: Greater Chardon
+pronunciation: "CHAR-din"
 whereabouts:
   - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
-POV: 1740s
+POV: modern
 ---
 # Greater Chardon
+*(CHAR-din)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -25,7 +27,7 @@ POV: 1740s
 * [ ] History
 * [ ] Climate
 * [ ] Climate - Real World
-* [x] DM Notes
+* [ ] DM Notes
 %%
 
 {intro text}
@@ -195,27 +197,9 @@ Major features include a major river, large forests to the east against the Sent
 %%
 
 %%^Metadata:names:v1%%
-- {name: "Greater Chardon", role: "primary", language: "Chardonian", pronunciation: "GREY-ter KAR-dohn", notes: "Latinate Chardonian reading for Chardon with an English descriptive component.", status: "proposed"}
+- {name: "Greater Chardon", role: "primary", language: "Drankorian", pronunciation: "CHAR-din", notes: the name Chardon dates to the Drankorian Empire, though it is possible the pronunciation has drifted over time, this is not decided, status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: uneven across the DR 1740s. Regional reference draft; visible placeholders and mixed development material make the article incomplete.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Editorial assessment
-- **Underdeveloped** — The visible note does not yet perform its regional-reference role. Its current boundaries are unclear, its in-world introduction is still a placeholder, and its central topography, civilizations and cultures, climate, and present-day regional organization remain placeholders or mixed draft material. The smallest useful scope is to settle the region's boundaries, then replace the central placeholders with a concise sourced overview while retaining unresolved development outside the canonical article.
-
-### Validated judgments
-- Non-check status disposition: status/wip is supported by the visible placeholders, raw drafting, and unfinished regional structure; no status was changed.
-- Shared nonpublic units were reviewed as editorial planning, source pointers, placeholders, or unresolved development material; none independently supplied a safe automatic public rewrite.
-
-### Open findings
-
-- [ ] **Warning — consistency.cross_note:** The visible old-page boundaries include Apporia, the Nevos Sea, Illoria, the Mawakel Peninsula, and other western lands, while [[Geography of Taelgar]] now lists Greater Chardon, the Northwest Coast, and Nevos and Apporia as separate major regions. Candidate: decide the current Greater Chardon boundary first, then align the visible overview, boundary list, regional links, and any downstream location relationships to that adopted scope.
-- [ ] **Warning — coverage.established_fact_missing:** The article's central overview, topography, cultures, and climate remain placeholders even though [[Geography of Taelgar]], [[Chardonian Empire]], [[Coastlands]], and the linked watershed and Apporian notes establish substantial regional geography and current political context. After the boundary decision, replace the placeholders with a concise in-world overview of the region's settled scope, major landforms and waterways, principal cultures and realms, and broad climate; preserve source uncertainty rather than importing the hidden speculative material as canon.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent Greater Chardon name entry remains status: proposed with the pronunciation GREY-ter KAR-dohn. Review its mixed Common and Chardonian derivation, then accept the pronunciation in frontmatter or correct the persistent entry.
-
+Temporal coverage: broadly modern but uneven; the draft mixes current regional statements, historical overview, and unresolved planning, so temporal use remains limited until its boundaries and central placeholders are resolved.
 %%^End%%

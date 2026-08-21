@@ -7,6 +7,7 @@ tags: [place]
 typeOf: building
 typeOfAlias: floating tower
 name: "Airion's Floating Tower"
+pronunciation: AIR-ee-on
 whereabouts:
   - {type: home, location: Blacksilver Peak, end: 1748-01-11}
 dm_owner: tim

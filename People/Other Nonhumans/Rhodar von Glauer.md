@@ -1,13 +1,17 @@
 ---
-headerVersion: 2023.11.25
-tags: [person, status/gameupdate/dufr]
-title: Lord
-species: undead
 subspecies: vampire
+headerVersion: 2023.11.25
+lintedAt: "2026-08-21T15:54:27-04:00"
+lintVersion: "3.4"
+tags: [person, status/gameupdate/dufr, status/check/lint]
+species: undead
+title: Lord
 died: 1749-05-03
 name: Rhodar von Glauer
-dm_notes: important
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1749
 ---
 # Lord Rhodar Von Glauer
 >[!info]+ Biographical Info  
@@ -17,7 +21,7 @@ dm_owner: tim
 %%SECRET[v2:6996d1fb24b9da71bc5bc8047d76d8de]%%
 
 %%^Campaign:dufr%%
-*Watching the Dunmar Fellowship infilitrate his lair, Rhodar von Glauer thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out.* 
+*Watching the Dunmar Fellowship infiltrate his lair, Rhodar von Glauer thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out.*
 
 *In those days, the Rodyna Okolov was strong. The eyes and the shield, people said, Okolov and Morozmir, the watchers and the protectors, the heart of the defense of Ursk against the dragons of the north, always seeking to reclaim their power, to rise again in another great host, to see another Vimfrost take all the north.*
 
@@ -29,6 +33,38 @@ dm_owner: tim
 
 *He had his Sight, and somewhere there must be a solution. It was a little, nagging thing that gave him the answer. A petty hedge witch, who had made some kind of promise to a fiend, she knew not who, but it gave her power, and strength outside the krev. She was nothing, a pointless plaything for the devil. He, though, was far from nothing. She had to die, of course, but in her death, a deal could be made. Freedom, and eternal life, the only cost a price he would never pay, for he never planned to die. He even grew to love the taste of blood.*
 
-*He grins, in the darkness, eager for new blood to fill his ranks.
+*He grins, in the darkness, eager for new blood to fill his ranks.*
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Rhodar von Glauer, language: unknown, pronunciation: ROH-dahr fon GLOW-er, notes: "Proposed from a cautious reading of the spelling because the adopted name's source language and exact in-world phonology are not established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 confrontation-era portrait with selected earlier backstory; the visible narrative stops before Rhodar's permanent death on May 3rd.
+%%^End%%
+
+%%^Lint%%
+### Editorial assessment
+**Underdeveloped**. The campaign-framed backstory stops immediately before the decisive confrontation and does not state Rhodar's permanent death or the collapse of Shadowkeep. The smallest useful development is one dated outcome paragraph identifying the Dunmar Fellowship's victory and its immediate consequence.
+
+### Applied changes
+- Corrected `infilitrate` to `infiltrate` and closed the final italicized paragraph.
+
+### Validated judgments
+- `status/gameupdate/dufr` is supported because the visible narrative predates Rhodar's established death and the destruction of his keep.
+
+### DM evidence review
+Confirmed matching private notes; contents are not reproduced:
+- [[_DM_/_Dunmari Frontier/Campaign Outline - Arcs and Levels]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 96 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 97 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Shadowkeep - DM Notes]]
+
+### Open work
+- [ ] **Warning — coverage.later_material_change:** `[[Session 97 (DuFr)]]` establishes that the Dunmar Fellowship permanently destroyed Rhodar on May 3rd, 1749, and `[[Shadowkeep]]` establishes that the keep collapsed when the infernal magic tied to him failed. Choose one bounded resolution: add a dated outcome paragraph and retain the DR 1749 POV; defer the update while retaining `status/gameupdate/dufr`; or intentionally preserve the pre-confrontation snapshot and review the game-update tag.
+- [ ] **Warning — metadata.names_unresolved_status:** The adopted name's source language is not established. Review the cautious spelling-based proposal `ROH-dahr fon GLOW-er`; if accepted, copy it to frontmatter and change the name entry to `status: documented`.
+- [ ] **Suggestion — frontmatter.deprecated_field:** `subspecies: vampire` is deprecated. Decide whether `vampire` is the primary classification (`species: vampire`) or display wording for the broader `species: undead` classification (`typeOfAlias: vampire`), then remove the deprecated field.
 %%^End%%
