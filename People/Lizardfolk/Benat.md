@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [person]
+lintedAt: "2026-08-21T18:55:31-04:00"
+lintVersion: "3.4"
+tags: [person, status/check/lint]
 species: lizardfolk
 ancestry: salt
 born: 1677
@@ -13,7 +13,7 @@ whereabouts: Hamri
 knownTo: [mawar]
 dm_owner: none
 dm_notes: none
-POV: "1740s"
+POV: 1740s
 ---
 # Benat
 *(beh-NAHT)*
@@ -46,4 +46,23 @@ Source links:
 
 %%^povNotes:v1%%
 Temporal coverage: the general character description is useful across the DR 1740s. The DR 1747 date block records Benat's role in the Mawar Episode 02 aftermath without narrowing the whole article to that event.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Canonicalized the scalar POV value without changing its meaning.
+
+### Validated judgments
+- Editorial sufficiency: **Sufficient**.
+- The shared note comment combines useful source pointers with one adoption-ready public statement that is supported by a public campaign record.
+
+### Private-source pointers
+- [[_DM_/_Mawar Confederacy/Ep 4/Mawar Ep 4 - DM Notes]]
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** [[Mawar Adventures Episode 02]] documents Benat's role in Azar's later departure, while the visible dated prose gives only a general account of his help. Consider adding: `After the confrontation, Benat escorted [[Azar the Lost|Azar]] from [[Hamri]] to a southern lizardfolk settlement, where Azar planned to recover before returning to answer for the harm he had caused.`
+
 %%^End%%

@@ -1,19 +1,21 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 name: Arendum
+pronunciation: ah-REN-doom
 whereabouts: Chasa River Valley
 dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
 # Arendum
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(ah-REN-doom)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% substantial notes in OneNote from Cape / Elderwood adventure %%
@@ -31,11 +33,11 @@ Border town and timber capital of the Elderwood province. Built on the destroyed
 
 %%^Metadata:map:v1%%
 locations:
-  - {map: world, locator: }
+  - {map: world, locator: 12.08.C23}
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Arendum", role: "primary", language: "Chardonian", pronunciation: "ah-REN-doom", notes: "Latin analogue: penultimate stress and final um.", status: "proposed"}
+- {name: "Arendum", role: "primary", language: "Chardonian", pronunciation: "ah-REN-doom", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -45,19 +47,11 @@ Temporal coverage: a DR 1748 frontier-town snapshot, with the present settlement
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** Session 51 establishes that Arendum is organized around defense and has visible tension with nearby Deno'qai communities. Candidate: add a concise sentence about the defensive character and observed Chardonian-Deno'qai tension, attributed to the DR 1748 campaign snapshot.
-- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Arendum — ah-REN-doom` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — coverage.established_fact_missing:** [[Session 51 (DuFr)]] establishes that Arendum's gates and towers face the Elderwood and that friction with neighboring forest communities has produced a substantial imperial garrison, but the visible article gives only the town's river-trade setting. Candidate: add "Arendum's gates and towers face the Elderwood, reflecting its role as a fortified frontier town. Friction with neighboring forest communities has brought a substantial imperial garrison to the settlement."
+- [ ] **Warning — metadata.map_location_missing:** The settlement map record has a blank locator. Fill it only from the authoritative map; do not guess a coordinate.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry for Arendum remains status: proposed. Review the recorded pronunciation and linguistic analogue, then accept it in frontmatter or correct the persistent entry.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared briefing-email block repeats the town's visible trade, road, ferry, and frontier description. If the approximate five-hundred-mile distance from the imperial capital remains useful, adopt it only after source review; otherwise retain only the source pointer and remove duplicated summary prose.
 
 %%^End%%

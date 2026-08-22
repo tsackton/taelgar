@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T18:44:38-04:00"
+lintVersion: "3.4"
 tags: [person]
 species: orc
 campaignInfo:
@@ -31,7 +31,8 @@ POV: 1749
 
 Azogar is an old [[Orcs|orc]] loremaster from [[Xurkhaz]], one of the unchained [[Orcs|orcs]] of the [[People of the Rainbow]]. He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 
 
-Azogar is very knowledgeable about the history of his people, and can tell many stories of the [[People of the Rainbow]], both before and after the founding of [[Xurkhaz]]. He serves as one of the primary advisors to [[Lubash]], the chief of [[Xurkhaz]]. 
+Azogar is exacting and inquisitive, with a particular interest in how unfamiliar magic works. He is also very knowledgeable about the history of his people, and can tell many stories of the [[People of the Rainbow]], both before and after the founding of [[Xurkhaz]]. He serves as one of the primary advisors to [[Lubash]], the chief of [[Xurkhaz]]. 
+
 
 %%SECRET[v2:4912a94ceab22d465130084474d9a3a7]%%
 

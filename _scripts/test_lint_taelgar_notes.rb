@@ -42,6 +42,27 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal expected, notes.to_h { |note| [note.path, batched.mentions(note)] }
   end
 
+  def test_preparer_builds_traceable_clustered_dm_dossier_and_relevant_language_guidance
+    root = make_vault
+    path = "People/Chardonians/Alpha Person.md"
+    write_note(root, path, person_note("Alpha Person").sub("species: human", "species: human\nancestry: Chardonian"))
+    2.times do |index|
+      write_note(root, "_DM_/Family #{index + 1}.md", "# Notes\n\n[[Alpha Person]] wears a silver badge.\n")
+    end
+
+    manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
+    record = manifest.fetch("notes").first
+    dossier = record.fetch("dmEvidence")
+
+    assert_equal 2, dossier.fetch("sourceCount")
+    assert_equal 1, dossier.fetch("clusters").length
+    assert_equal "exact", dossier.dig("clusters", 0, "duplicateKind")
+    assert_equal ["_DM_/Family 1.md", "_DM_/Family 2.md"], dossier.dig("clusters", 0, "sourcePaths")
+    assert dossier.fetch("sources").all? { |source| source.fetch("contexts").first.fetch("text").include?("silver badge") }
+    languages = record.dig("languageGuidance", "entries").map { |entry| entry.fetch("language") }
+    assert_includes languages, "Common"
+  end
+
   def test_freshness_scanner_reuses_git_evidence_for_notes_with_one_baseline
     root = make_vault
     write_note(root, "People/Alpha Person.md", person_note("Alpha Person"))
@@ -202,7 +223,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
     record = manifest.fetch("notes").first
 
-    assert_equal "3.4", manifest.fetch("validatorVersion")
+    assert_equal TaelgarNoteLint::VERSION, manifest.fetch("validatorVersion")
     refute record.dig("deterministic", "reviewGates", "pov", "required")
     refute record.dig("deterministic", "reviewGates", "pov", "povNotesApplicable")
     refute_includes record.dig("deterministic", "findings").map { |finding| finding.fetch("ruleId") },
@@ -473,7 +494,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
           "editorialVerdict" => "Sufficient",
           "outcome" => "clean",
           "lintReport" => nil,
-          "dmNotesReview" => { "required" => false, "sourceReviews" => [] },
+          "dmNotesReview" => { "required" => false, "clusterReviews" => [] },
           "secretReview" => []
         }
       ]
@@ -649,6 +670,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     decisions = snapshot(root, manifest, manifest_sha)
     decisions.fetch("notes").first["editorialVerdict"] = "Sufficient"
     decisions.fetch("notes").first["outcome"] = "clean"
+    decisions.fetch("notes").first["selfReview"] = completed_self_review
     corrupting_finalizer = Class.new(TaelgarNoteLint::Batch::Finalizer) do
       private
 
@@ -739,7 +761,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_includes File.read(File.join(root, "Meta", "Second.md")), 'lintVersion: "2.2"'
   end
 
-  def test_workspace_enforces_note_and_token_shard_limits_with_singleton_oversize_notes
+  def test_workspace_balances_token_bounded_shards_with_singleton_oversize_notes
     root = make_vault
     paths = 23.times.map do |index|
       path = format("Meta/Fixture %02d.md", index)
@@ -764,14 +786,16 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       manifest: manifest,
       manifest_sha256: manifest_sha,
       output_dir: review_dir,
-      max_notes: 10,
-      max_tokens: 1_000_000
+      max_tokens: 4_000
     ).build
 
-    assert_equal [10, 10, 3], workspace.fetch("shards").map { |shard| shard.fetch("noteCount") }
+    assert workspace.fetch("shards").length > 1
+    assert workspace.fetch("shards").all? { |shard| shard.fetch("estimatedInputTokens") <= 4_000 }
+    shard_tokens = workspace.fetch("shards").map { |shard| shard.fetch("estimatedInputTokens") }
+    assert_operator shard_tokens.max - shard_tokens.min, :<, 2_000
     assert_equal paths.sort, workspace.fetch("shards").flat_map { |shard| shard.fetch("paths") }.sort
     paths.each do |path|
-      assert_equal File.binread(File.join(root, path)), File.binread(File.join(review_dir, "candidates", path))
+      assert_equal File.binread(File.join(root, path)), File.binread(staged_candidate_path(review_dir, path))
     end
 
     tiny_review_dir = Dir.mktmpdir("lint-review-tiny.")
@@ -781,7 +805,6 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       manifest: manifest,
       manifest_sha256: manifest_sha,
       output_dir: tiny_review_dir,
-      max_notes: 10,
       max_tokens: 1
     ).build
     assert_equal Array.new(paths.length, 1), tiny.fetch("shards").map { |shard| shard.fetch("noteCount") }
@@ -795,7 +818,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       write_note(root, path, meta_note(name, version: "2.2"))
       path
     end
-    manifest, manifest_sha, review_dir, workspace = build_workspace(root, paths, max_notes: 1)
+    manifest, manifest_sha, review_dir, workspace = build_workspace(root, paths, max_tokens: 1)
     complete_workspace_results(review_dir) do |decision|
       decision["eligibility"] = "eligible"
       decision["editorialVerdict"] = "Sufficient"
@@ -818,7 +841,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     placeholder = "---\ntags: [meta]\n---\n# Placeholder\n\n%% TODO %%\n"
     write_note(root, ineligible_path, placeholder)
     manifest, manifest_sha, review_dir, = build_workspace(root, [eligible_path, ineligible_path])
-    staged_eligible = File.join(review_dir, "candidates", eligible_path)
+    staged_eligible = staged_candidate_path(review_dir, eligible_path)
     File.write(staged_eligible, File.read(staged_eligible).sub("name: Eligible\n", "name: Eligible\naliases: [Eligible Record]\n"))
     complete_workspace_results(review_dir) do |decision|
       if decision["path"] == eligible_path
@@ -834,7 +857,6 @@ class BatchLintTaelgarNotesTest < Minitest::Test
         decision["outcome"] = nil
         decision["dmNotesReview"] = nil
         decision["sharedNonpublicReview"] = []
-        decision["adjudication"] = "complete"
       end
     end
     decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
@@ -843,7 +865,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     eligible = File.read(File.join(root, eligible_path))
 
     assert_includes eligible, "aliases: [Eligible Record]"
-    assert_includes eligible, 'lintVersion: "3.4"'
+    assert_includes eligible, "lintVersion: \"#{TaelgarNoteLint::VERSION}\""
     assert_includes eligible, "review.open"
     assert_equal placeholder, File.read(File.join(root, ineligible_path))
     assert_equal "ineligible", result.fetch("notes").find { |note| note["path"] == ineligible_path }.fetch("outcome")
@@ -854,8 +876,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     paths = ["Meta/Routine.md", "Meta/Metadata.md", "Meta/Body.md"]
     paths.each { |path| write_note(root, path, meta_note(File.basename(path, ".md"), version: "2.2")) }
     manifest, manifest_sha, review_dir, = build_workspace(root, paths)
-    metadata_candidate = File.join(review_dir, "candidates", "Meta", "Metadata.md")
-    body_candidate = File.join(review_dir, "candidates", "Meta", "Body.md")
+    metadata_candidate = staged_candidate_path(review_dir, "Meta/Metadata.md")
+    body_candidate = staged_candidate_path(review_dir, "Meta/Body.md")
     File.write(metadata_candidate, File.read(metadata_candidate).sub("name: Metadata\n", "name: Metadata\naliases: [Metadata Record]\n"))
     File.write(body_candidate, File.read(body_candidate).sub("Body describes", "Body clearly describes"))
     complete_workspace_results(review_dir) do |decision|
@@ -889,7 +911,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     write_note(root, path, meta_note("Whitespace", version: "2.2"))
     original = File.read(File.join(root, path))
     manifest, manifest_sha, review_dir, = build_workspace(root, [path])
-    candidate = File.join(review_dir, "candidates", path)
+    candidate = staged_candidate_path(review_dir, path)
     File.write(candidate, File.read(candidate).sub("test vault.\n", "test vault. \n"))
     complete_workspace_results(review_dir) do |decision|
       decision["eligibility"] = "eligible"
@@ -976,6 +998,9 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
     assert_equal cases.values.map { |_verdict, outcome, _report| outcome }.sort,
                  result.fetch("notes").map { |note| note.fetch("outcome") }.sort
+    assert_includes result.fetch("handoff"), "Benefit: It makes the fixture more useful."
+    assert_includes result.fetch("handoff"), "> Add one bounded fixture detail."
+    assert_includes result.fetch("handoff"), "[[Meta/Source]] — established"
   end
 
   def test_finalizer_rejects_invalid_editorial_lifecycle_combinations
@@ -1006,17 +1031,36 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     end
     assert_includes error.message, "cannot be represented"
 
-    unadjudicated = snapshot(root, manifest, manifest_sha)
-    unadjudicated.fetch("notes").first.merge!(
+    self_reviewed = snapshot(root, manifest, manifest_sha)
+    self_reviewed.fetch("notes").first.merge!(
       "editorialVerdict" => "Underdeveloped",
       "outcome" => "open",
       "lintReport" => underdeveloped_report("editorial.note_underdeveloped"),
       "editorialAssessment" => "The fixture lacks a central uninvented dimension."
     )
+    result = finalizer(root, manifest, manifest_sha, self_reviewed).finalize
+    assert_equal "Underdeveloped", result.fetch("notes").first.fetch("editorialVerdict")
+  end
+
+  def test_finalizer_requires_worker_self_review_without_a_second_adjudicator
+    root = make_vault
+    path = "Meta/Self Review.md"
+    write_note(root, path, meta_note("Self Review", version: "2.2"))
+    manifest, manifest_sha = manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").first.merge!("editorialVerdict" => "Sufficient", "outcome" => "clean")
+
     error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, unadjudicated).finalize
+      TaelgarNoteLint::Batch::Finalizer.new(
+        root: root,
+        manifest: manifest,
+        manifest_sha256: manifest_sha,
+        decisions: decisions,
+        completed_at: COMPLETED_AT
+      ).finalize
     end
-    assert_includes error.message, "requires completed Sol xhigh adjudication"
+
+    assert_includes error.message, "requires completed evidence, privacy-sanity, and candidate self-review"
   end
 
   def test_finalizer_requires_declared_objective_body_edits
@@ -1024,7 +1068,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     path = "Meta/Prose.md"
     write_note(root, path, meta_note("Prose", version: "2.2"))
     manifest, manifest_sha, review_dir, = build_workspace(root, [path])
-    candidate = File.join(review_dir, "candidates", path)
+    candidate = staged_candidate_path(review_dir, path)
     File.write(candidate, File.read(candidate).sub("Prose describes", "Prose elegantly describes"))
     complete_workspace_results(review_dir) do |decision|
       decision["eligibility"] = "eligible"
@@ -1075,7 +1119,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal "open", result.fetch("notes").first.fetch("outcome")
   end
 
-  def test_finalizer_positive_dm_attestation_needs_dispositions_but_no_source_list
+  def test_finalizer_reports_positive_dm_attestation_sources_mechanically
     root = make_vault
     path = "People/DM Review.md"
     write_note(
@@ -1091,46 +1135,30 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest, manifest_sha = prepared_manifest_for(root, [path])
     decisions = snapshot(root, manifest, manifest_sha)
     decision = decisions.fetch("notes").first
-    source_review = decision.dig("dmNotesReview", "sourceReviews", 0)
+    source_review = decision.dig("dmNotesReview", "clusterReviews", 0)
 
     assert decision.dig("dmNotesReview", "required")
-    assert_equal source_path, source_review.fetch("path")
+    assert_equal "dm-cluster-001", source_review.fetch("clusterId")
     source_review["disposition"] = "matching"
     source_review["summary"] = "Confirmed as a direct subject link."
     source_review["recovery"] = "not_applicable"
     decision["editorialVerdict"] = "Sufficient"
-    decision["outcome"] = "open"
-    decision["lintReport"] = <<~REPORT.strip
-      %%^Lint%%
-      ### Validated judgments
-      - Matching local-only notes support the positive attestation.
-
-      - [ ] **Suggestion — review.current:** Human review is still required.
-      %%^End%%
-    REPORT
-
-    finalizer(root, manifest, manifest_sha, decisions).finalize
-
     link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
-    aliased_link = link.sub(/\]\]\z/, "|private source]]")
-    decision["lintReport"] = <<~REPORT.strip
-      %%^Lint%%
-      - #{aliased_link}
-
-      - [ ] **Suggestion — review.current:** Human review is still required.
-      %%^End%%
-    REPORT
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "must not be listed"
-
     decision["outcome"] = "clean"
     decision["lintReport"] = nil
-    finalizer(root, manifest, manifest_sha, decisions).finalize
+    clean_result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_includes clean_result.fetch("handoff"), link
+    assert_includes clean_result.fetch("handoff"), "supports the positive `dm_notes` attestation"
+
+    decision["outcome"] = "open"
+    decision["lintReport"] = lint_report("review.current")
+    finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    written = File.read(File.join(root, path))
+    assert_match(/^### DM evidence$/, written)
+    assert_match(/^- #{Regexp.escape(link)}$/, written)
   end
 
-  def test_finalizer_omits_unhelpful_dm_notes_none_matches_from_note_and_handoff
+  def test_finalizer_omits_unhelpful_dm_notes_none_matches_from_mechanical_handoff
     root = make_vault
     path = "People/No Recovery.md"
     write_note(
@@ -1146,7 +1174,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest, manifest_sha = prepared_manifest_for(root, [path])
     decisions = snapshot(root, manifest, manifest_sha)
     decision = decisions.fetch("notes").first
-    decision.dig("dmNotesReview", "sourceReviews", 0).merge!(
+    decision.dig("dmNotesReview", "clusterReviews", 0).merge!(
       "disposition" => "matching",
       "summary" => "Confirmed as a direct subject link.",
       "recovery" => "no_recoverable_material"
@@ -1154,18 +1182,12 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "clean"
 
-    finalizer(root, manifest, manifest_sha, decisions).finalize
-
     link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
-    aliased_link = link.sub(/\]\]\z/, "|private source]]")
-    decision["handoff"] = "- #{aliased_link}"
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "must not be listed"
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    refute_includes result.fetch("handoff"), link
   end
 
-  def test_finalizer_requires_private_recovery_handoff_and_list_form_links
+  def test_finalizer_generates_private_recovery_handoff_and_open_note_links
     root = make_vault
     path = "People/Recoverable.md"
     write_note(
@@ -1177,13 +1199,17 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       )
     )
     source_path = "_DM_/Recoverable Notes.md"
-    write_note(root, source_path, "# Recoverable\n\n[[Recoverable]] wears a silver badge.\n")
+    write_note(
+      root,
+      source_path,
+      "# Recoverable\n\n%%^Campaign:none%%\nhuman\nsession notes\n[[Recoverable]] wears a silver badge.\n%%^End%%\n"
+    )
     manifest, manifest_sha = prepared_manifest_for(root, [path])
     decisions = snapshot(root, manifest, manifest_sha)
     decision = decisions.fetch("notes").first
     chat_summary = "The private note adds a distinctive silver badge absent from the public article."
     candidate = "Recoverable wears a distinctive silver badge."
-    decision.dig("dmNotesReview", "sourceReviews", 0).merge!(
+    decision.dig("dmNotesReview", "clusterReviews", 0).merge!(
       "disposition" => "matching",
       "summary" => "Confirmed as a direct subject link.",
       "recovery" => "public_candidate",
@@ -1193,86 +1219,22 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "clean"
 
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "chat handoff must explain"
-
     link = TaelgarNoteLint::Batch.dm_note_wikilink(source_path)
-    decision["handoff"] = "#{chat_summary}\n\n#{candidate}\n\nSource: #{link}"
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "chat handoff must explain"
-
-    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}\n\nSource: #{link}"
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "Markdown list items in the chat handoff"
-
-    aliased_link = link.sub(/\]\]\z/, "|private source]]")
-    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}\n\n- #{aliased_link}"
-    finalizer(root, manifest, manifest_sha, decisions).finalize
+    clean_result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_includes clean_result.fetch("handoff"), "Destination: public"
+    assert_includes clean_result.fetch("handoff"), chat_summary
+    assert_includes clean_result.fetch("handoff"), candidate
+    assert_includes clean_result.fetch("handoff"), "- #{link}"
 
     decision["outcome"] = "open"
-    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}"
-    decision["lintReport"] = <<~REPORT.strip
-      %%^Lint%%
-      ### Validated judgments
-      - Recoverable local-only source: #{link}
-
-      - [ ] **Suggestion — review.current:** Human review is still required.
-      %%^End%%
-    REPORT
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "own Markdown list item"
-
-    decision["lintReport"] = <<~REPORT.strip
-      %%^Lint%%
-      ### Validated judgments
-      Recoverable local-only source:
-      - #{link}
-
-      - [ ] **Suggestion — review.current:** Human review is still required.
-      %%^End%%
-    REPORT
-    finalizer(root, manifest, manifest_sha, decisions).finalize
-
-    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}\n\n- #{aliased_link}"
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "must be omitted from the chat handoff"
-    decision["handoff"] = "Destination: public\n\n#{chat_summary}\n\n#{candidate}"
-
-    decision["lintReport"] = decision.fetch("lintReport").sub(
-      "Recoverable local-only source:",
-      "Recoverable local-only source: [[Recoverable]] wears a silver badge."
-    )
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "Raw _DM_ source content"
-
-    decision["lintReport"] = decision.fetch("lintReport").sub(
-      "Recoverable local-only source: [[Recoverable]] wears a silver badge.",
-      "Recoverable local-only source:"
-    )
-
-    decision["lintReport"] = decision.fetch("lintReport").sub(
-      "Recoverable local-only source:",
-      "Recoverable local-only source: #{candidate}"
-    )
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "must not appear in the Git-shared Lint report"
+    decision["lintReport"] = lint_report("review.current")
+    open_result = finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    written = File.read(File.join(root, path))
+    assert_match(/^- #{Regexp.escape(link)}$/, written)
+    assert_includes open_result.fetch("handoff"), "Sources: recorded in the note's Lint block."
   end
 
-  def test_finalizer_keeps_recoverable_secret_content_in_chat_only
+  def test_finalizer_generates_recoverable_secret_handoff
     root = make_vault
     path = "People/Secret Recovery.md"
     note = person_note("Secret Recovery").sub(
@@ -1294,23 +1256,10 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "clean"
 
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "chat handoff must explain"
-
-    decision["handoff"] = "Destination: private\n\n#{summary}\n\n#{candidate}"
-    finalizer(root, manifest, manifest_sha, decisions).finalize
-
-    decision["outcome"] = "open"
-    decision["lintReport"] = lint_report("review.current").sub(
-      "Human review is still required.",
-      "Human review is still required. Code is 1234."
-    )
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "Raw SECRET content"
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_includes result.fetch("handoff"), "Destination: private"
+    assert_includes result.fetch("handoff"), summary
+    assert_includes result.fetch("handoff"), candidate
   end
 
   def test_finalizer_ignores_links_in_the_old_lint_block_and_supports_identical_secret_blocks
@@ -1336,7 +1285,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     decision = decisions.fetch("notes").first
     summary = "The private source adds a bronze clasp absent from the article."
     candidate = "Old Private Link wears a bronze clasp."
-    decision.dig("dmNotesReview", "sourceReviews", 0).merge!(
+    decision.dig("dmNotesReview", "clusterReviews", 0).merge!(
       "disposition" => "matching",
       "summary" => "Confirmed as a direct subject link.",
       "recovery" => "public_candidate",
@@ -1352,15 +1301,10 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal [1, 2], decision.fetch("secretReview").map { |review| review.fetch("ordinal") }
     decision["editorialVerdict"] = "Sufficient"
     decision["outcome"] = "clean"
-    decision["handoff"] = "Destination: public\n\n#{summary}\n\n#{candidate}"
-
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      finalizer(root, manifest, manifest_sha, decisions).finalize
-    end
-    assert_includes error.message, "Markdown list items in the chat handoff"
-
-    decision["handoff"] = "Destination: public\n\n#{summary}\n\n#{candidate}\n\n- #{link}"
-    finalizer(root, manifest, manifest_sha, decisions).finalize
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_includes result.fetch("handoff"), summary
+    assert_includes result.fetch("handoff"), candidate
+    assert_includes result.fetch("handoff"), "- #{link}"
   end
 
   def test_finalizer_requires_no_local_evidence_finding_when_every_dm_candidate_is_rejected
@@ -1378,7 +1322,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     manifest, manifest_sha = prepared_manifest_for(root, [path])
     decisions = snapshot(root, manifest, manifest_sha)
     decision = decisions.fetch("notes").first
-    source_review = decision.dig("dmNotesReview", "sourceReviews", 0)
+    source_review = decision.dig("dmNotesReview", "clusterReviews", 0)
     source_review["disposition"] = "not_matching"
     source_review["summary"] = "Rejected as a subject-name collision."
     source_review["recovery"] = "not_applicable"
@@ -1404,7 +1348,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     )
     write_note(root, path, note)
     manifest, manifest_sha, review_dir, = build_workspace(root, [path])
-    candidate = File.join(review_dir, "candidates", path)
+    candidate = staged_candidate_path(review_dir, path)
     File.write(candidate, File.read(candidate).sub("language: Common", "language: unknown"))
     complete_workspace_results(review_dir) do |decision|
       decision["eligibility"] = "eligible"
@@ -1452,8 +1396,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       "editorialVerdict" => "Underdeveloped",
       "editorialAssessment" => "The fixture has distinct established and uninvented central gaps.",
       "outcome" => "open",
-      "lintReport" => report,
-      "adjudication" => "complete"
+      "lintReport" => report
     )
 
     result = finalizer(root, manifest, manifest_sha, decisions).finalize
@@ -1470,7 +1413,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       path
     end
     originals = paths.to_h { |path| [path, File.read(File.join(root, path))] }
-    manifest, manifest_sha, review_dir, = build_workspace(root, paths, max_notes: 1)
+    manifest, manifest_sha, review_dir, = build_workspace(root, paths, max_tokens: 1)
     first_result = JSON.parse(File.read(File.join(review_dir, "results", "shard-001.json")))
     first_result.fetch("notes").first.merge!(
       "eligibility" => "eligible",
@@ -1508,7 +1451,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       write_note(root, path, meta_note(name, version: "2.2"))
       path
     end
-    manifest, manifest_sha, review_dir, workspace = build_workspace(root, paths, max_notes: 1)
+    manifest, manifest_sha, review_dir, workspace = build_workspace(root, paths, max_tokens: 1)
     duplicate = JSON.parse(JSON.generate(workspace))
     duplicate.fetch("shards").last["paths"] = [duplicate.dig("shards", 0, "paths", 0)]
     File.write(File.join(review_dir, "workspace.json"), "#{JSON.pretty_generate(duplicate)}\n")
@@ -1535,7 +1478,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       decision["editorialVerdict"] = "Sufficient"
       decision["outcome"] = "clean"
     end
-    staged_path = File.join(review_dir, "candidates", paths.first)
+    staged_path = staged_candidate_path(review_dir, paths.first)
     File.write(staged_path, File.read(staged_path).sub('lintVersion: "2.2"', 'lintVersion: "9.9"'))
     decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
     error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
@@ -1575,7 +1518,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
   private
 
-  def build_workspace(root, paths, max_notes: 10, max_tokens: 30_000)
+  def build_workspace(root, paths, max_tokens: 40_000)
     manifest, manifest_sha = manifest_for(root, paths)
     review_dir = Dir.mktmpdir("lint-review.")
     @temporary_roots << review_dir
@@ -1584,7 +1527,6 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       manifest: manifest,
       manifest_sha256: manifest_sha,
       output_dir: review_dir,
-      max_notes: max_notes,
       max_tokens: max_tokens
     ).build
     [manifest, manifest_sha, review_dir, workspace]
@@ -1597,9 +1539,8 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       result = JSON.parse(File.read(result_path))
       result.fetch("notes").each do |decision|
         yield decision
-        decision["candidateSha256"] = TaelgarNoteLint::Batch.file_sha256(
-          File.join(review_dir, "candidates", decision.fetch("path"))
-        )
+        decision["selfReview"] = completed_self_review
+        decision["candidateSha256"] = TaelgarNoteLint::Batch.file_sha256(staged_candidate_path(review_dir, decision.fetch("path")))
       end
       File.write(result_path, "#{JSON.pretty_generate(result)}\n")
     end
@@ -1662,6 +1603,25 @@ class BatchLintTaelgarNotesTest < Minitest::Test
             "aliases" => ["Great Library Campaign"]
           }
         }
+      )
+    )
+    FileUtils.mkdir_p(File.join(root, "Background"))
+    File.write(File.join(root, "Background", "Languages.md"), "# Languages\n\n##### Common\n_Real world analog_: Modern English\n")
+    File.write(
+      File.join(root, "_scripts", "language_pronunciation_analogues.json"),
+      JSON.pretty_generate(
+        "schemaVersion" => 1,
+        "sourcePath" => "Background/Languages.md",
+        "sourceSha256" => "fixture",
+        "languages" => [
+          {
+            "language" => "Common",
+            "lookupTerms" => ["Common"],
+            "analogues" => ["Modern English"],
+            "status" => "defined",
+            "sourceHeading" => "Common"
+          }
+        ]
       )
     )
     root
@@ -1769,6 +1729,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
   end
 
   def finalizer(root, manifest, manifest_sha, decisions)
+    decisions.fetch("notes").each { |decision| decision["selfReview"] = completed_self_review }
     TaelgarNoteLint::Batch::Finalizer.new(
       root: root,
       manifest: manifest,
@@ -1776,6 +1737,24 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       decisions: decisions,
       completed_at: COMPLETED_AT
     )
+  end
+
+  def completed_self_review
+    {
+      "complete" => true,
+      "evidenceAndVerdict" => true,
+      "privacySanity" => true,
+      "candidateValidation" => true,
+      "notes" => nil
+    }
+  end
+
+  def staged_candidate_path(review_dir, path)
+    workspace = JSON.parse(File.read(File.join(review_dir, "workspace.json")))
+    shard = workspace.fetch("shards").find { |item| item.fetch("paths").include?(path) }
+    raise "No staged shard for #{path}" unless shard
+
+    File.join(review_dir, "candidates", shard.fetch("id"), path)
   end
 
   def git(root, *arguments, env: {})

@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place, status/gameupdate/gl, status/check/lint]
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
+tags: [place, status/gameupdate/gl]
 typeOf: grassland
 name: Erbalta Plains
-pronunciation: air-BAWL-tuh
+pronunciation: air-BAHL-tuh
 whereabouts:
   - {type: secondary, location: Northern Provinces}
   - {type: primary, location: Northwest Coast}
@@ -14,16 +14,18 @@ dm_notes: none
 POV: 1740s
 ---
 # The Erbalta Plains
-*(air-BAWL-tuh)*
+*(air-BAHL-tuh)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby grass, wind-twisted sagebrush, and silver bunchgrasses; shallow coulees dot the lowlands along the river, their chalky banks bright with purple thistle, while dusty limestone bluffs rise softly in the highlands. Along the river, cottonwood groves and reed beds thrive, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
+The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby grass, wind-twisted sagebrush, and silver bunchgrasses; shallow coulees dot the lowlands along the river, their chalky banks bright with purple thistle, while dusty limestone bluffs rise in the highlands. Along the river, cottonwood groves and reed beds thrive, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
 
 The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields in riparian valleys, though barley, flax, and drought-tolerant pulses are common, and hay from riparian meadows is crucial to support animal stock. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
 
 ![[erbalta-plains.png]]
+
+Settlement is sparse across much of the Erbalta. North of Voltara, rugged and largely unsettled steppe is cut by small canyons, and is largely an unsettled and undefended frontier. This was once the territory of [[Grumella's Horde]], but orcs have become a rare sight since [[Grumella's War|her defeat]]. To the south, the Voltara hinterlands support herding, limited farming, and substantial centaur populations. This area, especially along the south road, is heavily patrolled by Chardonian forces seeking to protect the chalyte shipments traveling overland to [[Lake Valandros]]. 
 
 ## Borders
 
@@ -34,56 +36,17 @@ The Erbalta Plains refer to the entire [[Snake River]] valley grasslands in the 
 Isolated from the moderating influence of the [[Endless Ocean]] by the rugged [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers are long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls along the main river provide the brief growing season that sustains the region’s hardy grasslands and scattered riparian groves.
 
 %%^Campaign:none%%
-
-### Climate Notes
-
 **cold semi-arid (Köppen BSk) rain-shadow climate**
 real world analogs, although generally the Erbalta Plains are slightly warmer:
 - [Snake-Columbia steppe](https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/snake-columbia-shrub-steppe)
 - [Great Hungarian Plain](https://www.britannica.com/place/Great-Alfold)
 - [Shrublands of the Okanogan Dry Forest](https://www.oneearth.org/ecoregions/okanogan-dry-forests/)
-
-### DM Notes
-
-Northern part - north of Voltara - is largely unsettled and was the home base of [[Grumella's Horde]]. They were defeated in the Great Library campaign ([[Grumella's War]]), potentially leaving a power vacuum. This is rugged steppe, and more rugged to the northeast. Lots of little canyons, etc. Dangerous and not patrolled. 
-
-Southern part - herders and (some) farmers, the Voltara hinterlands. But not densely settled. Also supports relatively dense centaur populations. Safer; the road south is heavily patrolled; Voltara is economically based around the chalyte trade, and probably is a net importer of food from elsewhere in the Empire. Most goods travel south to Lake Valandros overland, and then to Chardon by riverboat. The main river in the plains is not reliably navigable by anything large enough to move substantial goods.
-
-### Etymology
-
-(from ChatGPT)
-
-|Stage|Spelling on artefacts & maps|English-style pronunciation|Why it sounds that way|
-|---|---|---|---|
-|1|**ʿArav-altā**|/ah-**RAHV** ahl-**TAH**/|Root **ʿArav** mirrors Heb. _ʿarabah_ “steppe/plain,” whose modern Israeli form is pronounced _ah-RA-vah_ ([YouTube](https://www.youtube.com/watch?v=hzSXGHnqfHQ&utm_source=chatgpt.com "How to Pronounce Arabah? (CORRECTLY) - YouTube"), [Bible Hub](https://biblehub.com/hebrew/6160.htm?utm_source=chatgpt.com "6160. עֲרָבָה (arabah) -- Desert, Plain, Wilderness, Steppe")). Northros keeps a back /ḥ/ (dropped in the table form) and final long _-ā_.|
-|2|**Arbalta** (early Imperial transliteration)|/ahr-**BAHL**-tah/|Drankorian scribes lose the guttural ʿ > Ø and shift v > b, exactly the change seen when _ʿarabah_ entered Greek & Latin texts ([Wikipedia](https://en.wikipedia.org/wiki/Arabah?utm_source=chatgpt.com "Arabah")). Stress stays on the middle syllable.|
-|3|**Herbalta** (folk-etymologised “tall-grass”)|/her-**BAHL**-tah/|Scholars re-parse **Arb-** as Lat. _herb-_ “grass” ([Wiktionary](https://en.wiktionary.org/wiki/herba?utm_source=chatgpt.com "herba - Wiktionary, the free dictionary"), [Latin Dictionary](https://latindictionary.wikidot.com/noun%3Aherba?utm_source=chatgpt.com "Herba - The Latin Dictionary")) and tag on feminine _alta_ “high/tall” ([Latin Dictionary](https://www.latin-dictionary.net/search/latin/alta?utm_source=chatgpt.com "Latin Definitions for: alta (Latin Search) - Latin-Dictionary.net"), [Fiveable](https://library.fiveable.me/key-terms/ap-latin/alta-nominative-singular?utm_source=chatgpt.com "Alta - nominative singular - (AP Latin) - Vocab, Definition, Explanations")); Latin gives a clear /h/ and keeps broad /a/.|
-|4|**Erbalta** (vernacular Drankorian)|/air-**BAHL**-tuh/|In many Romance lines initial _h-_ became silent and the vowel fronted (_herba_ → _erba_, “grass” in modern Italian) ([Collins Dictionary](https://www.collinsdictionary.com/dictionary/italian-english/erba?utm_source=chatgpt.com "English Translation of “ERBA” \| Collins Italian-English Dictionary")); the same loss yields **Er-** here. Unstressed final _-a_ shortens to /uh/.|
-|5|**Erbalta Plains** (Common-tongue trade maps)|/air-**BAWL**-tuh PLAYNZ/|Traders keep the local sound **Er-** and add a redundant Common generic “Plains,” just as “Sahara Desert” repeats the meaning of _ṣaḥrāʾ_ “desert” ([Ancestry](https://www.ancestry.com/first-name-meaning/alta?utm_source=chatgpt.com "Alta : Meaning and Origin of First Name - Ancestry.com")). Frontier English eyes round the middle vowel to /aw/ by analogy with “bald, brawl.”|
-
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Erbalta Plains, role: primary, language: Drankorian, pronunciation: air-BAWL-tuh, status: documented, notes: Recorded pronunciation; the in-note etymology is explicitly provisional and is not treated as accepted canon.}
+- {name: Erbalta Plains, role: primary, language: Chardonian, pronunciation: air-BAHL-tuh, status: documented, notes: "Erbalta developed from Old Northros ʿArav-altā, built on a root meaning steppe or plain. Drankorian transmission dropped the initial guttural and changed _v_ to _b_, producing Arbalta, which later became Erbalta in vernacular speech"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: physical geography is broadly stable, but political-control claims describe the late-1740s setting and may have been overtaken by Great Library campaign events.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Non-check status disposition: `status/gameupdate/gl` is not assessable pending the open temporal or coverage choice; no status was changed.
-
-### Open findings
-
-- [ ] **suggestion — status.gameupdate_historical_snapshot:** The article explicitly uses `POV: 1740s`, under which its political-control paragraph remains a valid historical snapshot. [[Great Library Session Notes - Arc 5]] establishes that by DR 1752 the Northern Provinces had split from the Chardonian Empire and Airion's Floating Tower had returned to the plains. If the historical snapshot is intended, a human can remove `status/gameupdate/gl`. If this should instead become a current DR 1752 article, change `POV` to `1752` and copy: By DR 1752, the Northern Provinces had split from the Chardonian Empire, leaving the empire's claim and effective control over the Erbalta Plains unsettled. Airion's Floating Tower had also returned to the plains.
-
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: neighborhood
 typeOfAlias: ward
@@ -19,6 +19,8 @@ POV: modern
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 One of the ancient original wards of the city of [[Tollen]], Aesganstrad lies to the north and west along the [[Volta]] from [[Fiskurth]]. Together with Fiskurth and [[Skepwalk]], it forms the ancient core of pre-Drankorian [[Tollen]]; today it is a tangle of narrow streets, leaning houses, and old statues to forgotten heroes.
+
+The ward takes its name from Aesgan, a semi-mythical Skaegish hero said to have protected Tollen after the Downfall.
 
 %% DM Notes
 Aesgan, for whom the ward is named, is a putative semi-mythical Skaegish hero who is said to have protected/resettled Tollen after the Downfall. Who or what Aesgan was is not canonical, but their existence in some form, at least in myth, is canonical. E.g. Aesgan could have been an elf or a dragon and later became associated with the Skaer, but should have a real existence of some kind. 

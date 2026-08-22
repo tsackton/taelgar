@@ -21,7 +21,7 @@ The Hara Watershed is the river system that drains the central plains of [[Dunma
 
 The major tributaries of the Hara river include:
 - The [[Sone]], which flows east across the [[Songara Plains]].
-- The [[Sukal]], a seasonal river that flows east from the [[Copper Hills]]. 
+- The [[Sukal]], a perennial though strongly seasonal river that flows east from the [[Copper Hills]]. 
 - The [[Thandar]], which flows south from the [[Sentinel Range|Sentinels]] and joins the Hara north of [[Tokra]]. 
 
 %%^povNotes:v1%%

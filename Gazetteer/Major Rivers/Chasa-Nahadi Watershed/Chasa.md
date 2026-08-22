@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
@@ -23,7 +23,7 @@ POV: modern
 
 %% the [[Chasa River Valley]] note has most useful details about the region %%
 
-The Chasa is the principal river of the [[Chasa River Valley]]. Rising in the foothills of the [[Sentinel Range|Sentinels]], it flows west through vast forests and rich agricultural lands before it is joined by the [[Nahadi]] just east of [[Chardon]]. At Chardon, the river spreads into a wide estuary and fertile floodplain beneath [[Mount Nera]]. The Chasa is navigable along nearly its entire length, and the river carries grain, timber, and other goods downriver toward Chardon’s busy port.
+The Chasa is the principal river of the [[Chasa River Valley]]. Rising in the foothills of the [[Sentinel Range|Sentinels]], it flows west through vast forests and rich agricultural lands before it is joined by the [[Nahadi]] just east of [[Chardon]], following a course of roughly 500 miles from Arendum to Chardon. At Chardon, the river spreads into a wide estuary and fertile floodplain beneath [[Mount Nera]]. The Chasa is navigable along nearly its entire length, and the river carries grain, timber, and other goods downriver toward Chardon’s busy port.
 
 Numerous tributaries join the Chasa along its course.
 

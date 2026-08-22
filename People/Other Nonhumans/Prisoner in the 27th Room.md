@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T18:44:38-04:00"
+lintVersion: "3.4"
 tags: [person, status/check/lint]
 species: unknown
 name: Prisoner in the 27th Room
@@ -53,15 +53,12 @@ Temporal coverage: the history culminates in the prisoner's release on DR 1740-1
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Editorial sufficiency: **Sufficient**.
+- The newer Edric lint report mentions the prisoner's release of captive souls, an event already covered by this article; it does not establish a later material change.
 
 ### Open findings
 
-- [ ] **suggestion — dm.owner_legacy_normalized:** The invalid legacy value `dm_owner: schwartz` was previously normalized to the accepted registry value `dm_owner: mike`. Confirm that Schwartz was intended to identify Mike; otherwise replace it with the correct accepted owner value.
+- [ ] **Suggestion — dm.owner_legacy_normalized:** The current note uses `dm_owner: mike`, while the prior lint recorded that this was an automatic normalization of the legacy value `schwartz`. Confirm that Schwartz was intended to identify Mike; otherwise replace it with the correct accepted owner value.
 
 %%^End%%

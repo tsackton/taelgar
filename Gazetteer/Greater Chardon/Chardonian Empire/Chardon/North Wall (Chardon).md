@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: wall
@@ -16,11 +16,10 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The North Wall describes the fortifications, constructed during the [[Great War]] and the [[Blood Years]], that encircle Precincts XVIII and XIX on the [[North Bank]] of the [[Chasa]], enclosing the neighborhoods of [[Bastion Quarter|Bastion]], [[Summit Quarter|Summit]], and the [[Chalyte Levels]]. 
+The North Wall describes the fortifications, constructed during the [[Great War]] and the [[Blood Years]], that encircle Precincts XVIII and XIX on the [[North Bank]] of the [[Chasa]], enclosing the neighborhoods of [[Bastion Quarter|Bastion]], [[Summit Quarter|Summit]], and the [[Chalyte Levels]]. Built to defend Chardon against hobgoblin attacks from the north as part of extensive fortifications on [[Mount Nera]], the wall is far less important as a fortification in the modern era, when the North Road passes through it into the heart of the empire
 
 %% notes
-defense against hobgoblins to the north, was major fortification and part of extensive defenses on Mount Nera
-now less important as defense, obviously, as the north road leads into the heart of the empire
+add link to hobgoblin wars once created
 %%
 
 %%^Metadata:names:v1%%
