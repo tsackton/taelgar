@@ -159,6 +159,13 @@ A number of mutually understandable languages and dialects spoken in Sembara, Ty
 _Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
 _Alphabet_: Sembaran is written using the Drankorian alphabet
 *Intelligibility*: Tollish is mutually intelligible with Sembaran. There are numerous cognates between Sembaran and [[Languages#Isinguese|Isinguese]], but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Sembaran.
+
+##### Addermarian
+A dialect of Sembaran spoken in Addermarch. Has numerous loan words from Tyrwinghan, but otherwise preserves the general Sembaran structure and influences.
+
+_Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan
+_Alphabet_: Addermarian is written using the Drankorian alphabet
+*Intelligibility*: Tollish and Sembaran are mutually intelligible with Addermarian. There are numerous cognates between Addermarian and [[Languages#Isinguese|Isinguese]], but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Addermarian. Addermarian has some Tyrwinghan loan words but is not generally mutually understandable. 
 ##### Tollish
 The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
 
