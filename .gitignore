@@ -15,6 +15,16 @@ assets/unshared/
 # Ignore dot directories
 .*/
 
+# Local plaintext recovery store for the tracked secret filter
+.secrets-v2/
+
+# Include the repository-side secret-filter safety workflow
+!.github/
+.github/*
+!.github/workflows/
+.github/workflows/*
+!.github/workflows/secret-filter.yml
+
 # Include repo-local agent skills
 !.agents/
 .agents/*
