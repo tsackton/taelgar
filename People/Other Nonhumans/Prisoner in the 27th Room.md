@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T18:44:38-04:00"
 lintVersion: "3.4"
-tags: [person, status/check/lint]
+tags: [person]
 species: unknown
 name: Prisoner in the 27th Room
 whereabouts:
@@ -10,7 +10,7 @@ whereabouts:
   - {type: home, location: 27th House, end: 1740-10-06}
   - {type: away, start: 1740-10-07, location: beyond the Multiverse}
 knownTo: [feywild]
-dm_owner: mike
+dm_owner: schwartz
 dm_notes: none
 POV: 1740
 ---
@@ -39,6 +39,9 @@ The being's fungal children grew inside bodies whose souls it had taken. Some le
 
 In DR 1740, [[Tollen Misfits|five travelers]] entered the central prison and told stories that persuaded the being to release the souls it held. With the prison's source of power gone, the [[27th House]] collapsed. The prisoner emerged in a form that mortal minds could only approximate as a seven-story dandelion of darkness, bone, roots, mold, tentacles, and familiar faces. It then appeared as a child once more, descended through the low stone well, and traveled beyond the universe. There, it could again perceive all of its possibilities clearly and thought not of the souls it had kept, but of the teacher who had loved it into speech.
 
+
+
+
 %%^Metadata:names:v1%%
 - {name: Prisoner in the 27th Room, role: primary, language: Common, status: documented, notes: Descriptive title; the being's true name was never spoken.}
 - {name: Child, role: alias, language: Common, status: documented, notes: Name used by Lord Revel Beginning.}
@@ -48,17 +51,4 @@ In DR 1740, [[Tollen Misfits|five travelers]] entered the central prison and tol
 
 %%^povNotes:v1%%
 Temporal coverage: the history culminates in the prisoner's release on DR 1740-10-07. Its origin and prison history are retrospective, while its post-release existence beyond the universe is only described at that departure point.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Validated judgments
-- Editorial sufficiency: **Sufficient**.
-- The newer Edric lint report mentions the prisoner's release of captive souls, an event already covered by this article; it does not establish a later material change.
-
-### Open findings
-
-- [ ] **Suggestion — dm.owner_legacy_normalized:** The current note uses `dm_owner: mike`, while the prior lint recorded that this was an automatic normalization of the legacy value `schwartz`. Confirm that Schwartz was intended to identify Mike; otherwise replace it with the correct accepted owner value.
-
 %%^End%%

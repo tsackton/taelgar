@@ -265,15 +265,14 @@ async function ensureCustomJsMetadataLoaded() {
         return;
     }
     customJS.state = customJS.state ?? {};
-    if (customJS.state.coreMeta) {
+    if (customJS.state.coreMeta && customJS.state.campaignRegistry) {
         return;
     }
-    if (typeof app === "undefined" || !app.vault?.adapter?.read) {
+    if (!customJS.init?.invoke) {
         return;
     }
 
-    const metadataPath = joinVaultPaths(app.vault.configDir || ".obsidian", "metadata.json");
-    customJS.state.coreMeta = JSON.parse(await app.vault.adapter.read(metadataPath));
+    await customJS.init.invoke();
 }
 
 function normalizeTargetDateCandidate(value) {

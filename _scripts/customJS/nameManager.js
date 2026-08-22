@@ -55,9 +55,8 @@ class NameManager {
     }
 
     getCampaignConfig(codeOrAlias) {
-        // Runtime campaign config is mirrored in `.obsidian/metadata.json` under `campaigns`.
-        // `_scripts/session_note_campaigns.json` is authoritative; the mirror remains
-        // backwards compatible with legacy `{prefix, sessionNoteFolder}` entries.
+        // `loadMetadata.js` populates this from the authoritative
+        // `_scripts/session_note_campaigns.json` registry.
 
         const normalize = (value) => (value ?? "").toString().trim()
         const normalizeKey = (value) => normalize(value).toLowerCase()
@@ -65,28 +64,23 @@ class NameManager {
         let query = normalizeKey(codeOrAlias)
         if (!query) return undefined
 
-        let campaigns = this.#getElementFromMetadata("campaigns")
+        let campaigns = customJS.state.campaignRegistry
         if (!Array.isArray(campaigns)) return undefined
-
-        const resolvePartyPageFallback = (code) => {
-            let linkmap = this.#getElementFromMetadata("linkmap")
-            if (!Array.isArray(linkmap)) return undefined
-            let match = linkmap.find(m => normalizeKey(m?.from) === normalizeKey(code))
-            return match?.to ? normalize(match.to) : undefined
-        }
 
         for (let c of campaigns) {
             if (!c) continue
 
-            let code = normalize(c.code ?? c.prefix)
-            let partyPage = normalize(c.partyPage) || resolvePartyPageFallback(code)
+            let code = normalize(c.code)
+            let partyPage = normalize(c.partyPage)
             let sessionNoteFolder = normalize(c.sessionNoteFolder)
             let aliases = Array.isArray(c.aliases) ? c.aliases.map(a => normalize(a)).filter(Boolean) : []
 
-            let keys = [code, ...aliases].map(normalizeKey).filter(Boolean)
+            let keys = [c.slug, c.name, code, ...aliases].map(normalizeKey).filter(Boolean)
             if (!keys.includes(query)) continue
 
             return {
+                slug: normalize(c.slug),
+                name: normalize(c.name),
                 code,
                 partyPage,
                 sessionNoteFolder,

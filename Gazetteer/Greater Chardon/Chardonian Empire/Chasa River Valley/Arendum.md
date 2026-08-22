@@ -50,8 +50,8 @@ Temporal coverage: a DR 1748 frontier-town snapshot, with the present settlement
 ### Open findings
 
 - [ ] **Warning — coverage.established_fact_missing:** [[Session 51 (DuFr)]] establishes that Arendum's gates and towers face the Elderwood and that friction with neighboring forest communities has produced a substantial imperial garrison, but the visible article gives only the town's river-trade setting. Candidate: add "Arendum's gates and towers face the Elderwood, reflecting its role as a fortified frontier town. Friction with neighboring forest communities has brought a substantial imperial garrison to the settlement."
-- [ ] **Warning — metadata.map_location_missing:** The settlement map record has a blank locator. Fill it only from the authoritative map; do not guess a coordinate.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry for Arendum remains status: proposed. Review the recorded pronunciation and linguistic analogue, then accept it in frontmatter or correct the persistent entry.
+- [x] **Warning — metadata.map_location_missing:** The settlement map record has a blank locator. Fill it only from the authoritative map; do not guess a coordinate.
+- [x] **Warning — metadata.names_unresolved_status:** The persistent entry for Arendum remains status: proposed. Review the recorded pronunciation and linguistic analogue, then accept it in frontmatter or correct the persistent entry.
 - [ ] **Suggestion — editorial.shared_material_redundant:** The shared briefing-email block repeats the town's visible trade, road, ferry, and frontier description. If the approximate five-hundred-mile distance from the imperial capital remains useful, adopt it only after source review; otherwise retain only the source pointer and remove duplicated summary prose.
 
 %%^End%%

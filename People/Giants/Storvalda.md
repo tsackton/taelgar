@@ -1,13 +1,20 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-08-21T23:46:56-04:00"
 lintVersion: "3.4"
 tags: [person, status/stub, status/check/lint]
+species: giant
+subspecies: frost
 name: Storvalda
 knownTo: []
 dm_owner: tim
 dm_notes: important
 POV: undated
 ---
+# Storvalda
+>[!info]+ Biographical Info  
+> A [[Giants|giant]] (frost)
+
 
 %%SECRET[v2:f8a083ca2beace29d9476faef6abe59f]%%
 

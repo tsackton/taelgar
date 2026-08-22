@@ -36,10 +36,7 @@ function shouldSkipForExport(file) {
 async function prepareForExport(tp, headerType) {
 
     await forceLoadCustomJS()
-
-    const metadataFilePath = app.vault.configDir + "/metadata.json";
-    let metadataFile = await app.vault.adapter.read(metadataFilePath);
-    customJS.state.coreMeta = JSON.parse(metadataFile)
+    await customJS.init.invoke()
 
     const { OutputHandler } = customJS
     const { DateManager } = customJS

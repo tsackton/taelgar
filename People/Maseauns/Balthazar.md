@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T23:46:56-04:00"
 lintVersion: "3.4"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/mike]
 species: human
 ancestry: Mazeanne
 born: 1705-03-15

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-21T23:46:56-04:00"
 lintVersion: "3.4"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
-tags: [place, status/check/lint]
+tags: [place, status/gameupdate/dufr]
 typeOf: infrastructure
 typeOfAlias: market
 name: Foundry Market
@@ -17,24 +17,23 @@ POV: "1749"
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Foundry Market is a rough-and-tumble, dawn to dusk, daily open market in the [[Chalyte Levels]] slums, occupying a cleared casting-yard at the western edge of the district, just inside the [[North Wall (Chardon)|North Wall]]. It serves refinery laborers and nearby residents with stalls selling coarse bread, dried fish, second-hand clothing, reclaimed firewood, and simple iron tools repaired from refinery scrap. Hiring corners operate at first light, where foremen select day workers for kiln maintenance, slag hauling, and other piece-rate tasks.
+The Foundry Market is a rough-and-tumble, dawn to dusk, daily market in the [[Chalyte Levels]] slums. It occupies a rectangular plaza just inside the western bastion of the [[North Wall (Chardon)|North Wall]]. Dozens of timber-framed stalls cluster in the plaza, canvas roofs patched with sailcloth and cast-off blankets. It serves laborers and nearby residents with stalls selling coarse bread, dried fish, mended clothing, reclaimed firewood, and simple iron tools repaired from refinery scrap. Hiring corners operate at first light, where foremen select day workers for piece-rate tasks in the chalyte refineries nearby. 
+
+%%^Date:1749-06-25%%
+
+>[!iattention] The Foundry Market during the chalyte riots, DR 1749
+>*Coarse loaves of blackened bread sit in straw baskets; dried fish hang in strings from roof beams, their skins cracked and flaking ash. Ash streaks the cobbles, and here and there a collapsed beam forms a makeshift barrier around a smoldering pile of refuse. The air tastes of burnt resin and sulfur from smelting fires, mingled with the sharper bite of spilled chalyte slag.* 
+>
+>*Roughly 200 laborers and slum dwellers mill between stalls. Some queue at a battered trough where a bucket of murky canal water is being ladled by a gaunt woman; others cluster around an overturned cart piled with stale loaves, where what looks like a priest in tattered robes hands out black bread to the hungry while her companion preaches about the evils of chalyte and the healing power of the Eight Divines. A legion captain stands on a low dais, helmet tucked under his arm, eyes scanning the crowd. The cloying odor of burnt wood mingles with the metallic tang of chalyte dust. Beneath it all, the sharp stench of uncollected refuse, rotting fish, and human waste hints at the recent fighting.*
+>
+*At the heart of the plaza stands a once‐ornate marble fountain. Now it is empty and cracked, one trough filled with ash and broken pottery. A few children play around its base, trying to scoop the last muddy drops from a jagged crack. To the southeast, opposite the wall, a tavern stands undamaged by the fires, the sign of a black swan on a crimson background swaying in the slight breeze.*
+
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: "Foundry Market", role: "primary", language: "Common", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: through early DR 1749. Urban location baseline before the unrest and institutional changes recorded in Sessions 124-129.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Open findings
-
-- [ ] **Warning — coverage.later_material_change:** [[Session 125 (DuFr)]] records the Chalyte Levels after the June DR 1749 riots and fires, materially later than this note's pre-unrest market portrait. Choose whether to update the article and `POV`, defer the update with `status/gameupdate/dufr`, or intentionally preserve the early-1749 snapshot. Copy-ready option for an updated article: `After the June 1749 unrest, the Foundry Market stood amid a heavily damaged Chalyte Levels, where unemployment, factional fighting, and recent arson had disrupted ordinary life.`
-
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
+Temporal coverage: through early DR 1749, with dated block showing the impact of the riots. Urban location baseline before the unrest and institutional changes recorded in Sessions 124-129.
 %%^End%%

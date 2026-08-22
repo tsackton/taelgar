@@ -10,6 +10,7 @@ gender: male
 campaignInfo:
   - {campaign: dufr, date: 1748-05-11, type: met}
 name: Karmana
+pronunciation: kar-MAH-nah
 whereabouts: Monastery of Bhishma
 knownTo: [dufr]
 dm_owner: tim
@@ -17,16 +18,21 @@ dm_notes: important
 POV: 1748
 ---
 # Karmana
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+*(kar-MAH-nah)*
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Monastery of Bhishma]], the [[Garamjala Desert]] %%^End%%
 
 %%need to figure out how to properly deal with undead%%
 %%need to add whereabouts and campaign info%%
 
 The last master of the [[Order of the Awakened Soul]] at the [[Monastery of Bhishma]], now a ghost.
 
+%%SECRET[v2:002b144fe04df3576c97d4fb851dfa88]%%
+
 %%^Metadata:names:v1%%
-- {name: Karmana, role: primary, language: Dunmari, pronunciation: kar-MAH-nah, status: proposed, notes: The Dunmari Hindi and Indo-Iranian analogue supports this cautious reading; exact in-world phonology is not recorded.}
+- {name: Karmana, role: primary, language: Dunmari, pronunciation: kar-MAH-nah, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

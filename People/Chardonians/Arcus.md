@@ -12,6 +12,7 @@ born: 1723
 gender: male
 died: 1748-03-15
 name: Arcus
+pronunciation: AR-koos
 affiliations: [Society of the Open Scroll]
 whereabouts:
   - {type: home, location: Chardon}
@@ -25,12 +26,12 @@ dm_notes: none
 POV: 1748
 ---
 # Arcus
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Discovered as a statue with the [[Dunmar Fellowship]] on March 25th, 1748 in the [[Dunmari Fort (Gomat)]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Discovered as a statue by the [[Dunmar Fellowship]] on March 25th, 1748 in the [[Dunmari Fort (Gomat)]] %%^End%%
 
 %% some canonical travel not captured in whereabouts yet %%
 
@@ -44,7 +45,11 @@ Passed through [[Karawa]] alone in late February or early March, according to [[
 ## Chronology
 
 ```dataview
-LIST WITHOUT ID events.text flatten file.lists as events where contains(events.text, this.file.name) and contains(events.text, "DR") sort events.DR
+LIST WITHOUT ID events.text
+FROM [[Arcus]] AND -"_sessions" AND -"Worldbuilding"
+FLATTEN file.lists AS events
+WHERE contains(events.text, this.file.name) AND contains(events.text, "DR")
+SORT events.DR
 ```
 %%^End%%
 
@@ -56,7 +61,7 @@ Temporal coverage: a DR 1748 account of Arcus's final expedition and petrified s
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Arcus, language: Chardonian, pronunciation: AR-koos, notes: proposed from the documented Chardonian Latin analogue; c before u is hard and the first syllable is stressed, status: proposed}
+- {name: Arcus, language: Chardonian, pronunciation: AR-koos, status: documented}
 %%^End%%
 
 %%^Lint%%

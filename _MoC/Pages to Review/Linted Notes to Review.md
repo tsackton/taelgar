@@ -9,7 +9,20 @@ Has the lint status tag and the current linter version.
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks
-FROM #status/check/lint
+FROM #status/check/lint and !#status/check/mike
+WHERE lintVersion = this.currentLinterVersion
+FLATTEN length(file.inlinks) AS BacklinkCount
+SORT join(split(file.path, "/", 2), "/")
+```
+
+### Need Lint Cleanup - Mike
+
+Has the lint status tag and the current linter version. 
+
+```dataview
+TABLE join(split(file.path, "/", 2), "/") as Folder, 
+      length(file.inlinks) as Backlinks
+FROM #status/check/lint and #status/check/mike
 WHERE lintVersion = this.currentLinterVersion
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT BacklinkCount DESC
@@ -52,7 +65,7 @@ TABLE
 	) as POV, pronunciation
 FROM !#status/check/lint
 WHERE lintedAt AND date(lintedAt) > date(this.lintedCleanAfter) AND lintVersion = this.currentLinterVersion
-SORT POV
+SORT POV, pronunciation
 ```
 
 

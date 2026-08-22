@@ -1,6 +1,7 @@
 async function regenerateHeader(tp, headerType) {
 
- 
+    await customJS.init.invoke()
+
     const { OutputHandler } = customJS
 
     async function updateCurrentFile(someContent, someFile) {

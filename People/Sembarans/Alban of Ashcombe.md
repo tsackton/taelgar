@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T18:44:38-04:00"
 lintVersion: "3.4"
-tags: [person, status/stub, status/check/lint]
+tags: [person, status/stub, status/check/lint, status/check/mike]
 species: human
 name: Alban of Ashcombe
 knownTo: [clee]
@@ -10,7 +10,9 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-
+# Alban of Ashcombe
+>[!info]+ Biographical Info  
+> A [[Humans|human]]
 
 %%
 
