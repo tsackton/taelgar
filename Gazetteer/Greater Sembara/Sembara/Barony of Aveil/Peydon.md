@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T19:01:27-04:00"
 lintVersion: "3.4"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/check/mike]
 typeOf: settlement
 typeOfAlias: village
 population: 498
@@ -30,7 +30,7 @@ locations:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Peydon", role: "primary", language: "unknown", pronunciation: "Pay-dun", status: "documented"}
+- {name: "Peydon", role: "primary", language: "Sembaran", pronunciation: "Pay-dun", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

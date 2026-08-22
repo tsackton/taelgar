@@ -10,7 +10,7 @@ gender: female
 born: 1701
 image: kethra-small.png
 name: Kethra Silverspark
-aliases: [Kethra Silverspark]
+pronunciation: KETH-rah SIL-ver-spark
 affiliations:
   - {org: Silversparks, type: primary}
 whereabouts:
@@ -24,18 +24,20 @@ dm_notes: color
 POV: 1749
 ---
 # Kethra Silverspark
->[!info]+ Biographical Info
-> A [[Dwarves|dwarf]] (she/her), of the [[Silversparks|Silverspark Clan]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(KETH-rah SIL-ver-spark)*
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (she/her), of the [[Silversparks|Silverspark Clan]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 28th, 1749 in [[Pava and Avaras' House]], the [[Garamjala Desert]] %%^End%%
 
 ![[kethra-final-option1.png|right|400]]Kethra Silverspark, great-grandaughter of [[Nora Silverspark]], is a proud dwarven smith and novice adventurer from [[Tharn Todor]]. 
 
 Inspired by the tales of [[Riswynn]]'s heroic adventures in returning the [[Chalice of the Runepriest]] and putting to rest the ghosts of [[Nora Silverspark]] and [[Hagrim]], among others, she decided to leave home and put herself in Riswynn's service.
 
 %%^Metadata:names:v1%%
-- {name: Kethra Silverspark, role: primary, language: unknown, pronunciation: KETH-rah SIL-ver-spark, status: proposed, notes: Kethra follows the Tolkien-style Dwarvish analogue and Silverspark is read as an ordinary Common compound; the full name's exact in-world language and phonology are not recorded.}
+- {name: Kethra Silverspark, role: primary, language: Dwarven, pronunciation: KETH-rah SIL-ver-spark, status: documented, notes: Dwarven family name translated into Common.}
 %%^End%%
 
 %%^povNotes:v1%%

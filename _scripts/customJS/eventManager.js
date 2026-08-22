@@ -32,7 +32,8 @@ class EventManager {
                 let formatStr = element.wParty ?? element.format ?? format
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let person = element.person ?? element.campaign
+                    let partyPage = NameManager.getCampaignPartyPage(element.campaign)
+                    let person = element.person ?? partyPage ?? element.campaign
                     if (person) {
                         let type = element.type ?? "seen"
                         let personName = NameManager.getNameObject(person, pageType)   
