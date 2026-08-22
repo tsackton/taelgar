@@ -1124,12 +1124,12 @@ module TaelgarNoteLint
       if sources.any?
         if dm_notes.empty? || dm_notes == "none"
           add(findings, "dm.notes_private_evidence_review", "info", "judgment",
-              "Review these local-only _DM_ candidates. For genuine matches, surface only plausible recoverable material in the private chat handoff; retain dm_notes: none unless a human changes the attestation.",
+              "Review the mechanically prepared local-only _DM_ evidence clusters. Surface plausible recoverable material in the private handoff; retain dm_notes: none unless a human changes the attestation.",
               line: note.field_line("dm_notes") || note.field_line("dm_owner"), provisional: true,
               details: { "sources" => sources })
         else
           add(findings, "dm.notes_private_evidence_found", "info", "judgment",
-              "Local-only _DM_ candidates are available to validate the current positive dm_notes attestation; no user-facing source list is required when a genuine match is confirmed.",
+              "Local-only _DM_ candidates are available to validate the current positive dm_notes attestation. Confirmed source links are reported mechanically in the Lint block when the note is open, or in the private handoff when it is clean.",
               line: note.field_line("dm_notes"), provisional: true,
               details: { "sources" => sources })
         end

@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/check/lint]
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
+tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text]
 typeOf: realm
 typeOfAlias: empire
 name: Chardonian Empire
+pronunciation: char-DOH-nee-an
 aliases: [Chardonian]
 whereabouts: Greater Chardon
 dm_owner: tim
@@ -13,9 +14,18 @@ dm_notes: important
 POV: "1749"
 ---
 # The Chardonian Empire
+*(char-DOH-nee-an)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% to do:
+The article is explicitly a May 1749 snapshot, but later established events materially changed the state it describes. [[Chardon-Dunmar War]] records the July 25 treaty and Chardonian suzerainty over Darba; [[Chardonian Chalyte Trade Reforms]] records the end of the four-family chalyte monopoly; and [[Great Library Session Notes - Arc 5]] establishes that the Northern Provinces were separated from the empire by DR 1752. Human review should either update the article and POV metadata, preserve the dated snapshot while adding the documented deferral state, or intentionally retain the snapshot as historical reference.
+
+Also needs a general text cleanup, and a review of the DM notes
+
+The Places in the Chardonian Empire query should be optimized
+%%
 
 The Chardonian Empire is a large and powerful realm ruled from the city of [[Chardon]]. Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [[Chalyte|chalyte]] trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [[Voltara]] in the north to [[Illoria]] in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [[Drankorian Empire]] 
 
@@ -77,7 +87,7 @@ In the most commonly told imperial chronology:
 %% this needs more detail about the pre-1584 wars, and the currently undeveloped hobgoblin stalemate in the coastlands; a little more detail probably needs to be invented first %%
 
 %%^Campaign:none%%
-### Places in Chardonian Empire
+## Places in Chardonian Empire
 ```dataviewjs
 const { util } = customJS
 dv.table(["Place", "Type Of"], 
@@ -107,29 +117,10 @@ dv.table(["Place", "Type Of"],
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Chardonian Empire", role: "primary", language: "Chardonian", pronunciation: "kar-DOH-nee-an empire", notes: "Latinate derivative of Chardon with stress on the do syllable.", status: "proposed"}
+- {name: "Chardonian Empire", role: "primary", language: "Chardonian", pronunciation: "char-DOH-nee-an empire", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: through May DR 1749. Imperial reference snapshot that intentionally predates the July-August DR 1749 chalyte reforms and later campaign developments.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/gameupdate/gl`, `status/gameupdate/dufr` are not assessable pending the open temporal or coverage choice; no status was changed.
-
-### Open findings
-
-- [ ] **Warning — coverage.later_material_change:** Session 129 records July-August DR 1749 chalyte reforms, while the article explicitly remains a May DR 1749 snapshot. Candidate: either keep the earlier snapshot clearly dated or add a dated update covering the mining company, refinery seizures, and new refining corporation.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Chardonian Empire — kar-DOH-nee-an empire` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
-
-%%^End%%

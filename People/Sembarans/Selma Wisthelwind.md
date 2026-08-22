@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T18:44:38-04:00"
+lintVersion: "3.4"
 tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Zimka
@@ -41,14 +41,12 @@ Temporal coverage: approximately the DR 1720 Cleenseau campaign era; the article
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-
 ### Validated judgments
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- The shared editorial comment points to the unresolved persistent name entry and creates no separate public-material task.
+- The DR 1720 viewpoint and its temporal interpretation remain supported.
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Selma Wisthelwind — SELL-mah VIS-tel-vind` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Selma Wisthelwind — SELL-mah VIS-tel-vind` (proposed). The entry records a Baltic-informed Zimkovan derivation; a human should accept the pronunciation in frontmatter or correct the persistent entry.
 
 %%^End%%

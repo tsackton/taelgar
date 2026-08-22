@@ -1,0 +1,549 @@
+{
+  "schemaVersion": 1,
+  "sourcePath": "Background/Languages.md",
+  "sourceSha256": "982a25d5aa7e2486c6662d6bd4c34e9ff36745037dc19006ed1797ecdee1a9be",
+  "languages": [
+    {
+      "language": "Common",
+      "lookupTerms": [
+        "Common"
+      ],
+      "analogues": [
+        "Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world."
+      ],
+      "analogueText": "Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world.",
+      "status": "defined",
+      "sourceHeading": "Common",
+      "sourceLine": 28
+    },
+    {
+      "language": "Eastros",
+      "lookupTerms": [
+        "Eastros"
+      ],
+      "analogues": [
+        "Balto-Slavic."
+      ],
+      "analogueText": "Balto-Slavic.",
+      "status": "defined",
+      "sourceHeading": "Eastros",
+      "sourceLine": 34
+    },
+    {
+      "language": "Drankorian",
+      "lookupTerms": [
+        "Drankorian",
+        "Drankor"
+      ],
+      "analogues": [
+        "Classical Latin; occasional Classical Greek loan words"
+      ],
+      "analogueText": "Classical Latin; occasional Classical Greek loan words",
+      "status": "defined",
+      "sourceHeading": "Drankorian",
+      "sourceLine": 54
+    },
+    {
+      "language": "Cymean",
+      "lookupTerms": [
+        "Cymean",
+        "Cymea"
+      ],
+      "analogues": [
+        "Spanish or Portugese, but with some Italian."
+      ],
+      "analogueText": "Spanish or Portugese, but with some Italian.",
+      "status": "defined",
+      "sourceHeading": "Cymean",
+      "sourceLine": 59
+    },
+    {
+      "language": "Isinguese",
+      "lookupTerms": [
+        "Isinguese",
+        "Isingue"
+      ],
+      "analogues": [
+        "Spanish or French, more French in the northern areas, Spanish to the south"
+      ],
+      "analogueText": "Spanish or French, more French in the northern areas, Spanish to the south",
+      "status": "defined",
+      "sourceHeading": "Isinguese",
+      "sourceLine": 65
+    },
+    {
+      "language": "Chardonian",
+      "lookupTerms": [
+        "Chardonian",
+        "Chardonians",
+        "Chardon"
+      ],
+      "analogues": [
+        "Italian or Latin, with occasional loan words from Classic Greek. Chardon itself tends to be more Latinate, in imitation of Drankor, whereas other dialects are more Italian."
+      ],
+      "analogueText": "Italian or Latin, with occasional loan words from Classic Greek. Chardon itself tends to be more Latinate, in imitation of Drankor, whereas other dialects are more Italian.",
+      "status": "defined",
+      "sourceHeading": "Chardonian",
+      "sourceLine": 71
+    },
+    {
+      "language": "Illorian",
+      "lookupTerms": [
+        "Illorian",
+        "Illoria"
+      ],
+      "analogues": [
+        "Not defined. %% Likely Italian%%"
+      ],
+      "analogueText": "Not defined. %% Likely Italian%%",
+      "status": "undetermined",
+      "sourceHeading": "Illoria",
+      "sourceLine": 79
+    },
+    {
+      "language": "Old Northros",
+      "lookupTerms": [
+        "Old Northros"
+      ],
+      "analogues": [
+        "Semitic languages generally"
+      ],
+      "analogueText": "Semitic languages generally",
+      "status": "defined",
+      "sourceHeading": "Old Northros",
+      "sourceLine": 98
+    },
+    {
+      "language": "Old Zimkovan",
+      "lookupTerms": [
+        "Old Zimkovan"
+      ],
+      "analogues": [
+        "Maltese"
+      ],
+      "analogueText": "Maltese",
+      "status": "defined",
+      "sourceHeading": "Old Zimkovan",
+      "sourceLine": 104
+    },
+    {
+      "language": "Mawaran",
+      "lookupTerms": [
+        "Mawaran",
+        "Mawakel"
+      ],
+      "analogues": [
+        "Arabic"
+      ],
+      "analogueText": "Arabic",
+      "status": "defined",
+      "sourceHeading": "Mawaran",
+      "sourceLine": 109
+    },
+    {
+      "language": "Deno'qai",
+      "lookupTerms": [
+        "Deno'qai"
+      ],
+      "analogues": [
+        "Hebrew or Arabic"
+      ],
+      "analogueText": "Hebrew or Arabic",
+      "status": "defined",
+      "sourceHeading": "Deno'qai",
+      "sourceLine": 114
+    },
+    {
+      "language": "Vargaldi",
+      "lookupTerms": [
+        "Vargaldi"
+      ],
+      "analogues": [
+        "Not defined, although many names are Slavic reflecting Eastros influences."
+      ],
+      "analogueText": "Not defined, although many names are Slavic reflecting Eastros influences.",
+      "status": "undetermined",
+      "sourceHeading": "Vargaldi",
+      "sourceLine": 119
+    },
+    {
+      "language": "Ancient Eastros",
+      "lookupTerms": [
+        "Ancient Eastros"
+      ],
+      "analogues": [
+        "Balto-Slavic"
+      ],
+      "analogueText": "Balto-Slavic",
+      "status": "defined",
+      "sourceHeading": "Ancient Eastros",
+      "sourceLine": 134
+    },
+    {
+      "language": "Skaegish",
+      "lookupTerms": [
+        "Skaegish",
+        "Skaer"
+      ],
+      "analogues": [
+        "Finnish or Norwegian, with some Swedish influences"
+      ],
+      "analogueText": "Finnish or Norwegian, with some Swedish influences",
+      "status": "defined",
+      "sourceHeading": "Skaegish",
+      "sourceLine": 139
+    },
+    {
+      "language": "Urksan",
+      "lookupTerms": [
+        "Urksan",
+        "Urskan",
+        "Ursk"
+      ],
+      "analogues": [
+        "Russian"
+      ],
+      "analogueText": "Russian",
+      "status": "defined",
+      "sourceHeading": "Urksan",
+      "sourceLine": 144
+    },
+    {
+      "language": "Old Tollish",
+      "lookupTerms": [
+        "Old Tollish"
+      ],
+      "analogues": [
+        "Balto-Slavic"
+      ],
+      "analogueText": "Balto-Slavic",
+      "status": "defined",
+      "sourceHeading": "Old Tollish",
+      "sourceLine": 149
+    },
+    {
+      "language": "Zimkovan",
+      "lookupTerms": [
+        "Zimkovan",
+        "Zimkova",
+        "Zimka"
+      ],
+      "analogues": [
+        "Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan)."
+      ],
+      "analogueText": "Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan).",
+      "status": "defined",
+      "sourceHeading": "Zimkovan",
+      "sourceLine": 154
+    },
+    {
+      "language": "Sembaran",
+      "lookupTerms": [
+        "Sembaran",
+        "Sembara"
+      ],
+      "analogues": [
+        "French (more prevalent in the South) and English (more prevalent in the north and Addermarch)"
+      ],
+      "analogueText": "French (more prevalent in the South) and English (more prevalent in the north and Addermarch)",
+      "status": "defined",
+      "sourceHeading": "Sembaran",
+      "sourceLine": 159
+    },
+    {
+      "language": "Addermarian",
+      "lookupTerms": [
+        "Addermarian"
+      ],
+      "analogues": [
+        "French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan"
+      ],
+      "analogueText": "French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan",
+      "status": "defined",
+      "sourceHeading": "Addermarian",
+      "sourceLine": 166
+    },
+    {
+      "language": "Tollish",
+      "lookupTerms": [
+        "Tollish",
+        "Tollen",
+        "Tollender"
+      ],
+      "analogues": [
+        "English, with some Germanic or Slavic loan words"
+      ],
+      "analogueText": "English, with some Germanic or Slavic loan words",
+      "status": "defined",
+      "sourceHeading": "Tollish",
+      "sourceLine": 172
+    },
+    {
+      "language": "Dunmari",
+      "lookupTerms": [
+        "Dunmari",
+        "Dunmar"
+      ],
+      "analogues": [
+        "Hindi or other Indo-Iranian (Persian)"
+      ],
+      "analogueText": "Hindi or other Indo-Iranian (Persian)",
+      "status": "defined",
+      "sourceHeading": "Dunmari",
+      "sourceLine": 186
+    },
+    {
+      "language": "Vosic",
+      "lookupTerms": [
+        "Vosic",
+        "Vos",
+        "Vostok"
+      ],
+      "analogues": [
+        "Undetermined"
+      ],
+      "analogueText": "Undetermined",
+      "status": "undetermined",
+      "sourceHeading": "Vosic",
+      "sourceLine": 193
+    },
+    {
+      "language": "Tyrwinghan",
+      "lookupTerms": [
+        "Tyrwinghan",
+        "Tyrwinghans",
+        "Tyrwingha"
+      ],
+      "analogues": [
+        "Welsh"
+      ],
+      "analogueText": "Welsh",
+      "status": "defined",
+      "sourceHeading": "Tyrwinghan",
+      "sourceLine": 200
+    },
+    {
+      "language": "Hkaran",
+      "lookupTerms": [
+        "Hkaran",
+        "Hkar"
+      ],
+      "analogues": [
+        "Indo-European, broadly"
+      ],
+      "analogueText": "Indo-European, broadly",
+      "status": "defined",
+      "sourceHeading": "Hkaran",
+      "sourceLine": 205
+    },
+    {
+      "language": "Dwarvish",
+      "lookupTerms": [
+        "Dwarvish",
+        "Dwarven",
+        "Dwarf",
+        "Dwarves"
+      ],
+      "analogues": [
+        "Tolkien Dwarvish"
+      ],
+      "analogueText": "Tolkien Dwarvish",
+      "status": "defined",
+      "sourceHeading": "Dwarvish",
+      "sourceLine": 214
+    },
+    {
+      "language": "Elvish",
+      "lookupTerms": [
+        "Elvish",
+        "Elven",
+        "Elf",
+        "Elves"
+      ],
+      "analogues": [
+        "Tolkien Elvish"
+      ],
+      "analogueText": "Tolkien Elvish",
+      "status": "defined",
+      "sourceHeading": "Elvish",
+      "sourceLine": 222
+    },
+    {
+      "language": "Lizardling",
+      "lookupTerms": [
+        "Lizardling",
+        "Lizardfolk"
+      ],
+      "analogues": [
+        "Basque"
+      ],
+      "analogueText": "Basque",
+      "status": "defined",
+      "sourceHeading": "Lizardling",
+      "sourceLine": 230
+    },
+    {
+      "language": "Stoneborn",
+      "lookupTerms": [
+        "Stoneborn"
+      ],
+      "analogues": [
+        "Xhosan"
+      ],
+      "analogueText": "Xhosan",
+      "status": "defined",
+      "sourceHeading": "Stoneborn",
+      "sourceLine": 236
+    },
+    {
+      "language": "Orcish",
+      "lookupTerms": [
+        "Orcish",
+        "Orc",
+        "Orcs"
+      ],
+      "analogues": [
+        "Turkic"
+      ],
+      "analogueText": "Turkic",
+      "status": "defined",
+      "sourceHeading": "Orcish",
+      "sourceLine": 241
+    },
+    {
+      "language": "Goblin",
+      "lookupTerms": [
+        "Goblin",
+        "Goblins",
+        "Hobgoblin",
+        "Hobgoblins",
+        "Katonylev"
+      ],
+      "analogues": [
+        "Katonylev is based on Hungarian. Other hobgoblin languages may have diverse real world mappings."
+      ],
+      "analogueText": "Katonylev is based on Hungarian. Other hobgoblin languages may have diverse real world mappings.",
+      "status": "provisional",
+      "sourceHeading": "Goblin",
+      "sourceLine": 253
+    },
+    {
+      "language": "Halfling",
+      "lookupTerms": [
+        "Halfling",
+        "Halflings"
+      ],
+      "analogues": [
+        "Igbo, but may change or be diverse"
+      ],
+      "analogueText": "Igbo, but may change or be diverse",
+      "status": "provisional",
+      "sourceHeading": "Halfling",
+      "sourceLine": 259
+    },
+    {
+      "language": "Centaur",
+      "lookupTerms": [
+        "Centaur",
+        "Centaurs"
+      ],
+      "analogues": [
+        "Diverse, but names often have a classical Greek element"
+      ],
+      "analogueText": "Diverse, but names often have a classical Greek element",
+      "status": "provisional",
+      "sourceHeading": "Centaur",
+      "sourceLine": 270
+    },
+    {
+      "language": "Giant",
+      "lookupTerms": [
+        "Giant",
+        "Giants",
+        "Titan",
+        "Titans"
+      ],
+      "analogues": [
+        "Old Norse"
+      ],
+      "analogueText": "Old Norse",
+      "status": "defined",
+      "sourceHeading": "Giant",
+      "sourceLine": 275
+    },
+    {
+      "language": "Kenku",
+      "lookupTerms": [
+        "Kenku"
+      ],
+      "analogues": [
+        "Sioux"
+      ],
+      "analogueText": "Sioux",
+      "status": "defined",
+      "sourceHeading": "Kenku",
+      "sourceLine": 284
+    },
+    {
+      "language": "Merfolk",
+      "lookupTerms": [
+        "Merfolk"
+      ],
+      "analogues": [
+        "None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables."
+      ],
+      "analogueText": "None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables.",
+      "status": "undetermined",
+      "sourceHeading": "Merfolk",
+      "sourceLine": 289
+    },
+    {
+      "language": "Gnoll",
+      "lookupTerms": [
+        "Gnoll",
+        "Gnolls"
+      ],
+      "analogues": [
+        "Nothing specific."
+      ],
+      "analogueText": "Nothing specific.",
+      "status": "undetermined",
+      "sourceHeading": "Gnoll",
+      "sourceLine": 295
+    },
+    {
+      "language": "Sylvan",
+      "lookupTerms": [
+        "Sylvan",
+        "Feywild",
+        "Fey"
+      ],
+      "analogues": [
+        "None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration."
+      ],
+      "analogueText": "None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.",
+      "status": "provisional",
+      "sourceHeading": "Sylvan",
+      "sourceLine": 305
+    },
+    {
+      "language": "Primordial",
+      "lookupTerms": [
+        "Primordial",
+        "Aquan",
+        "Auran",
+        "Ignan",
+        "Terran",
+        "Elemental",
+        "Elementals"
+      ],
+      "analogues": [
+        "Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names."
+      ],
+      "analogueText": "Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names.",
+      "status": "undetermined",
+      "sourceHeading": "Primordial",
+      "sourceLine": 310
+    }
+  ]
+}

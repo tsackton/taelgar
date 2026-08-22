@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T18:44:38-04:00"
+lintVersion: "3.4"
 tags: [person, status/stub, status/check/lint]
 species: human
 name: Alban of Ashcombe
@@ -28,16 +28,16 @@ Temporal coverage: a Cleenseau-era snapshot around DR 1720; the note contains on
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+### Editorial assessment
+- **Underdeveloped** — The visible note contains no reference article. Campaign material establishes Alban's current Ashcombe temple office and his defining relationship to Rufus; the hidden working comment separately provides specific disability, wisdom, and disposition material awaiting adoption. The smallest useful scope is one concise visible paragraph covering those supported dimensions. No separate uninvented central dimension is demonstrated.
 
 ### Validated judgments
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/stub` is supported by the note's current structure or cited campaign state; no status was changed.
+- Non-check status disposition: `status/stub` is supported because the note still has no visible article; no status was changed.
+- The shared nonpublic comment was reviewed as a public-adoption candidate; it remains hidden pending human adoption.
 
 ### Open findings
 
-- [ ] **suggestion — coverage.stub:** The note contains only a hidden working comment, so collaborators have no visible reference text. Copy-ready candidate from that comment: Alban is the one-legged administrator of [[Ashcombe]]'s temple to [[The Wildling]], known locally as a repository of village wisdom.
+- [ ] **Warning — coverage.established_fact_missing:** [[Hunter Aftermaths]] identifies Alban as the current administrator of [[Ashcombe]]'s temple to [[The Wildling]] and as the adopted father of the temple's apprentice, [[Rufus of Ashcombe|Rufus]]. Because the note has no visible prose, omitting this office and defining relationship leaves its central account absent. Copy-ready candidate: `Alban is the current administrator of [[Ashcombe]]'s temple to [[The Wildling]], and [[Rufus of Ashcombe|Rufus]], his adopted son, serves as his apprentice.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared working comment records Alban's disabling accident, village wisdom, and bitterness about his injury, but none of that material is public. Copy-ready candidate: `Alban lost a leg in an accident several years ago. He remains a repository of village wisdom, though he tends toward bitterness about his injury.`
 
 %%^End%%

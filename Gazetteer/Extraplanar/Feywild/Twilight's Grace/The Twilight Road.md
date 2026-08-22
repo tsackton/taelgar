@@ -1,15 +1,20 @@
 ---
-headerVersion: 2023.11.25  
-tags: [place, status/wip]
-typeOf: planar link  
-typeOfAlias: fey portal  
+headerVersion: 2023.11.25
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
+tags: [place, status/cleanup/text, status/check/ai]
+typeOf: planar link
+typeOfAlias: fey portal
+name: The Twilight Road
+aliases: ["Traveler's Road"]
 whereabouts:
-- {type: home, location: Twilight's Grace}
-- {type: secondary, location: Tyrwingha}  
-dm_owner: mike  
+  - {type: home, location: "Twilight's Grace"}
+  - {type: secondary, location: Tyrwingha}
+dm_owner: mike
 dm_notes: none
+POV: modern
 ---
-# The Twlight Road
+# The Twilight Road
 
 > [!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`
@@ -21,7 +26,7 @@ dm_notes: none
 The Twilight Road is an old and indirect crossing between [[Twilight's Grace]] and western [[Tyrwingha]]. On the Material Plane, it emerges in the countryside roughly two days’ walk east of [[Eskbridge]]. The Road is used by messengers, wanderers, scouts, and travelers who wish to pass between the worlds without the ceremony or scrutiny of [[Twilight's Pool]].
 ## In Tyrwingha
 
-On the mortal side, the Traveler’s Road is a narrow, twisting path through lightly wooded country. It is overgrown with thorn, elder, hazel, and long grass, and in places moss covers the remnants of ancient paving stones. The path does not appear to lead anywhere important. It bends frequently, doubles back upon itself, narrows between leaning trees, and occasionally vanishes beneath roots and undergrowth before reappearing a few yards farther on. Although it's existence is broadly known 
+On the mortal side, the Traveler’s Road is a narrow, twisting path through lightly wooded country. It is overgrown with thorn, elder, hazel, and long grass, and in places moss covers the remnants of ancient paving stones. The path does not appear to lead anywhere important. It bends frequently, doubles back upon itself, narrows between leaning trees, and occasionally vanishes beneath roots and undergrowth before reappearing a few yards farther on. Its existence is broadly known.
 
 Travelers sometimes report:
 
@@ -58,4 +63,14 @@ On reaching Tyrwingha, the change is subtle. The light becomes flatter, the air 
 - This is the practical and comparatively discreet western crossing.
 - It emerges one to two days from Eskbridge, not immediately beside the town.
 - It should feel like an old road that remembers having once been important.  
-    %%
+
+%%
+
+%%^Metadata:names:v1%%
+- {name: The Twilight Road, role: primary, language: Common, status: inferred, notes: Descriptive plain-Common title.}
+- {name: Traveler's Road, role: alias, language: Common, status: inferred, notes: Alternate name used in the visible article.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the crossing and its approaches are described as a current but otherwise undated landscape.
+%%^End%%

@@ -21,12 +21,15 @@ require_relative "validate_taelgar_note"
 
 module TaelgarNoteLint
   module Batch
-    SCHEMA_VERSION = 2
-    DECISION_SCHEMA_VERSION = 5
-    WORKSPACE_SCHEMA_VERSION = 1
-    DEFAULT_MAX_NOTES = 10
-    DEFAULT_MAX_TOKENS = 30_000
+    SCHEMA_VERSION = 3
+    DECISION_SCHEMA_VERSION = 6
+    WORKSPACE_SCHEMA_VERSION = 2
+    DEFAULT_MAX_TOKENS = 40_000
     ESTIMATED_CHARACTERS_PER_TOKEN = 3
+    DM_DOSSIER_SCHEMA_VERSION = 1
+    LANGUAGE_GUIDANCE_SCHEMA_VERSION = 1
+    LANGUAGE_GUIDANCE_PATH = "_scripts/language_pronunciation_analogues.json"
+    SELF_REVIEW_KEYS = %w[evidenceAndVerdict privacySanity candidateValidation].freeze
     EDITORIAL_VERDICTS = [
       "Sufficient",
       "Sufficient, worth expanding",
@@ -212,23 +215,16 @@ module TaelgarNoteLint
     end
 
     def dm_notes_candidate_sources(record)
-      Array(record.dig("deterministic", "findings")).flat_map do |finding|
-        next [] unless finding["ruleId"].to_s.start_with?("dm.notes_")
-
-        Array(finding.dig("details", "sources"))
-      end.each_with_object([]) do |source, paths|
-        path = source["path"].to_s
-        paths << path unless path.empty?
-      end.uniq.sort
+      Array(record.dig("dmEvidence", "sources")).map { |source| source["path"].to_s }.reject(&:empty?).uniq.sort
     end
 
     def dm_notes_review_template(record)
       required = record.dig("deterministic", "reviewGates", "dmNotes", "required") == true
       {
         "required" => required,
-        "sourceReviews" => dm_notes_candidate_sources(record).map do |path|
+        "clusterReviews" => (required ? Array(record.dig("dmEvidence", "clusters")) : []).map do |cluster|
           {
-            "path" => path,
+            "clusterId" => cluster.fetch("id"),
             "disposition" => "review_required",
             "summary" => nil,
             "recovery" => "review_required",
@@ -237,6 +233,21 @@ module TaelgarNoteLint
           }
         end
       }
+    end
+
+    def self_review_template
+      {
+        "complete" => false,
+        "evidenceAndVerdict" => false,
+        "privacySanity" => false,
+        "candidateValidation" => false,
+        "notes" => nil
+      }
+    end
+
+    def dm_cluster_sources(record, cluster_id)
+      cluster = Array(record.dig("dmEvidence", "clusters")).find { |item| item["id"] == cluster_id }
+      cluster ? Array(cluster["sourcePaths"]).sort : []
     end
 
     def dm_note_wikilink(path)
@@ -255,52 +266,6 @@ module TaelgarNoteLint
     def markdown_list_contains_wikilink?(text, path)
       link = dm_note_wikilink_pattern(path)
       text.to_s.lines.any? { |line| line.match?(/\A\s*-\s+#{link}(?:\s.*)?\z/) }
-    end
-
-    def public_identity_fragments(note)
-      values = [File.basename(note.path.to_s, ".md"), note.data["name"], *Array(note.data["aliases"])]
-      values.map { |value| value.to_s.gsub(/\s+/, " ").strip.downcase }.reject(&:empty?).uniq
-    end
-
-    def private_text_fragments(text, ignored_fragments: [])
-      ignored = ignored_fragments.each_with_object({}) { |fragment, memo| memo[fragment.to_s.downcase] = true }
-      content = text.to_s.sub(/\A---\r?\n.*?\r?\n---\r?\n/m, "")
-      content.lines.each_with_object([]) do |line, fragments|
-        heading = line.strip.start_with?("#")
-        fragment = line.strip
-          .sub(/\A%%SECRET\b\s*/, "")
-          .sub(/%%\z/, "")
-          .sub(/\A(?:[-*+]|\d+\.)\s+/, "")
-          .sub(/\A#+\s*/, "")
-          .gsub(/[*_`]/, "")
-          .gsub(/\s+/, " ")
-          .strip
-        next if fragment.empty? || fragment == "---"
-        next if fragment.start_with?("```", "~~~")
-        next if fragment.match?(/\A\[\[[^\]]+\]\]\z/)
-        next if heading && fragment.match?(/\A(?:notes?|dm notes?|private notes?)\z/i)
-
-        normalized = fragment.downcase
-        next if ignored[normalized]
-
-        fragments << normalized if normalized.length >= 4
-        words = normalized.split
-        words.each_cons(4) do |phrase|
-          candidate = phrase.join(" ")
-          fragments << candidate if candidate.length >= 16
-        end
-      end.uniq
-    end
-
-    def private_excerpt_in_report?(report, source_text, ignored_fragments: [])
-      normalized_report = report.to_s
-        .gsub(/\[\[_DM_\/[^\]]+\]\]/, "")
-        .gsub(/[*_`]/, "")
-        .gsub(/\s+/, " ")
-        .downcase
-      private_text_fragments(source_text, ignored_fragments: ignored_fragments).any? do |fragment|
-        normalized_report.include?(fragment)
-      end
     end
 
     def recovery_destination_marker(disposition)
@@ -475,7 +440,11 @@ module TaelgarNoteLint
         "estimatedInputTokens" => 0
       )
       packet_bytes = JSON.pretty_generate(packet).bytesize + 256
-      ((bytes + packet_bytes).to_f / ESTIMATED_CHARACTERS_PER_TOKEN).ceil
+      serialized_tokens = ((bytes + packet_bytes).to_f / ESTIMATED_CHARACTERS_PER_TOKEN).ceil
+      evidence_complexity = Array(record.dig("dmEvidence", "clusters")).length * 300 +
+                            Array(record.dig("freshness", "candidates")).length * 150 +
+                            Array(record.dig("deterministic", "findings")).length * 40
+      serialized_tokens + evidence_complexity
     end
 
     def ensure_external_review_dir!(root, path)
@@ -545,6 +514,168 @@ module TaelgarNoteLint
       end
     end
 
+    class DMEvidenceDossier
+      CONTEXT_RADIUS = 2
+      NEAR_DUPLICATE_THRESHOLD = 0.8
+
+      def initialize(root)
+        @root = Pathname.new(root).expand_path
+      end
+
+      def build(sources)
+        source_records = Array(sources).sort_by { |source| source.fetch("path") }.map do |source|
+          build_source(source)
+        end
+        contexts = source_records.flat_map { |source| source.fetch("contexts") }
+        {
+          "schemaVersion" => DM_DOSSIER_SCHEMA_VERSION,
+          "generatedBy" => "mechanical",
+          "sourceCount" => source_records.length,
+          "matchCount" => source_records.sum { |source| source.fetch("matchedLines").length },
+          "matchTypeCounts" => source_records.flat_map { |source| source.fetch("matchKinds") }
+                                            .each_with_object(Hash.new(0)) { |kind, counts| counts[kind] += 1 }
+                                            .sort.to_h,
+          "sources" => source_records,
+          "clusters" => cluster_contexts(contexts)
+        }
+      end
+
+      private
+
+      def build_source(source)
+        path = source.fetch("path")
+        lines = TaelgarNoteLint.read_text(@root.join(path)).lines
+        matched_lines = Array(source["lines"]).map(&:to_i).select(&:positive?).uniq.sort
+        ranges = matched_lines.map do |line|
+          [[line - CONTEXT_RADIUS, 1].max, [line + CONTEXT_RADIUS, lines.length].min]
+        end
+        merged = ranges.each_with_object([]) do |range, combined|
+          if combined.any? && range.first <= combined.last.last + 1
+            combined.last[1] = [combined.last.last, range.last].max
+          else
+            combined << range.dup
+          end
+        end
+        contexts = merged.map.with_index do |(start_line, end_line), index|
+          text = lines[(start_line - 1)..(end_line - 1)].join
+          {
+            "id" => "#{Digest::SHA256.hexdigest("#{path}:#{start_line}:#{end_line}")[0, 12]}",
+            "path" => path,
+            "ordinal" => index + 1,
+            "startLine" => start_line,
+            "endLine" => end_line,
+            "text" => text,
+            "contentSha256" => Batch.sha256(text),
+            "normalizedSha256" => Batch.sha256(normalize_context(text))
+          }
+        end
+        {
+          "path" => path,
+          "sourceFamily" => Pathname.new(path).dirname.to_s,
+          "modifiedAt" => source["modifiedAt"],
+          "matchKinds" => Array(source["matchKinds"]).uniq.sort,
+          "matchedLines" => matched_lines,
+          "contexts" => contexts
+        }
+      end
+
+      def cluster_contexts(contexts)
+        groups = []
+        contexts.sort_by { |context| [context.fetch("path"), context.fetch("startLine")] }.each do |context|
+          normalized = normalize_context(context.fetch("text"))
+          tokens = normalized.scan(/[[:alnum:]]+/).uniq
+          group = groups.find do |candidate|
+            candidate[:normalized] == normalized || jaccard(candidate[:tokens], tokens) >= NEAR_DUPLICATE_THRESHOLD
+          end
+          if group
+            group[:contexts] << context
+          else
+            groups << { normalized: normalized, tokens: tokens, contexts: [context] }
+          end
+        end
+        groups.each_with_index.map do |group, index|
+          normalized_values = group.fetch(:contexts).map { |context| normalize_context(context.fetch("text")) }.uniq
+          {
+            "id" => format("dm-cluster-%03d", index + 1),
+            "duplicateKind" => if group.fetch(:contexts).length == 1
+                                 "single"
+                               elsif normalized_values.length == 1
+                                 "exact"
+                               else
+                                 "near"
+                               end,
+            "sourcePaths" => group.fetch(:contexts).map { |context| context.fetch("path") }.uniq.sort,
+            "contextCount" => group.fetch(:contexts).length,
+            "contexts" => group.fetch(:contexts).map do |context|
+              %w[id path ordinal startLine endLine contentSha256].to_h { |key| [key, context.fetch(key)] }
+            end
+          }
+        end
+      end
+
+      def normalize_context(text)
+        text.to_s
+            .gsub(/\[\[([^\]|]+)(?:\|[^\]]+)?\]\]/, '\\1')
+            .gsub(/[^[:alnum:]'\s]/, " ")
+            .downcase
+            .gsub(/\s+/, " ")
+            .strip
+      end
+
+      def jaccard(left, right)
+        union = left | right
+        return 0.0 if union.empty?
+
+        (left & right).length.to_f / union.length
+      end
+    end
+
+    class LanguageGuidance
+      attr_reader :reference
+
+      def initialize(root)
+        @root = Pathname.new(root).expand_path
+        path = @root.join(LANGUAGE_GUIDANCE_PATH)
+        raise BatchError, "Generated language guidance is missing: #{LANGUAGE_GUIDANCE_PATH}" unless path.file?
+
+        @data = JSON.parse(TaelgarNoteLint.read_text(path))
+        unless @data["schemaVersion"] == LANGUAGE_GUIDANCE_SCHEMA_VERSION && @data["languages"].is_a?(Array)
+          raise BatchError, "Generated language guidance uses an unsupported schema."
+        end
+        source = @root.join(@data.fetch("sourcePath"))
+        raise BatchError, "Language guidance source is missing: #{@data.fetch('sourcePath')}" unless source.file?
+        if source.mtime > path.mtime
+          raise BatchError, "Generated language guidance is stale; regenerate it because #{@data.fetch('sourcePath')} is newer."
+        end
+        @reference = {
+          "path" => LANGUAGE_GUIDANCE_PATH,
+          "sha256" => Batch.file_sha256(path),
+          "sourcePath" => @data.fetch("sourcePath"),
+          "sourceSha256" => @data.fetch("sourceSha256")
+        }
+      rescue JSON::ParserError => error
+        raise BatchError, "Generated language guidance is invalid JSON: #{error.message}"
+      end
+
+      def for(note)
+        values = [note.path, note.data["name"], *Array(note.data["aliases"]), note.data["ancestry"], note.data["species"]]
+        Batch.name_block_data(note).each do |entry|
+          values << entry["language"] if entry.is_a?(Hash)
+        end
+        haystack = values.compact.join("\n")
+        entries = @data.fetch("languages").each_with_object([]) do |entry, selected|
+          matches = entry.fetch("lookupTerms").select { |term| haystack.match?(/(?<![[:alnum:]_])#{Regexp.escape(term)}(?![[:alnum:]_])/i) }
+          next if matches.empty?
+
+          selected << entry.merge("matchedLookupTerms" => matches)
+        end
+        {
+          "sidecar" => @reference,
+          "entries" => entries
+        }
+      end
+    end
+
     class Preparer
       def initialize(root:, force_dm_notes_review: false)
         @root = Pathname.new(root).expand_path
@@ -558,6 +689,8 @@ module TaelgarNoteLint
         )
         @baselines = GitBaselineResolver.new(@root)
         @freshness_scanners = {}
+        @dm_dossiers = DMEvidenceDossier.new(@root)
+        @language_guidance = LanguageGuidance.new(@root)
       end
 
       def prepare(paths)
@@ -581,6 +714,7 @@ module TaelgarNoteLint
           "forcedReviewGates" => @force_dm_notes_review ? ["dmNotes"] : [],
           "generatedAt" => Time.now.iso8601,
           "root" => @root.to_s,
+          "languageGuidance" => @language_guidance.reference,
           "notes" => records
         }
       end
@@ -591,7 +725,10 @@ module TaelgarNoteLint
         absolute = @root.join(note.path)
         report = @validator.validate_path(note.path)
         freshness = freshness_for(note, report)
-        dm_freshness = dm_freshness_for(note, @validator.dm_sources(note))
+        dm_sources = @validator.dm_sources(note)
+        dm_evidence = @dm_dossiers.build(dm_sources)
+        language_guidance = @language_guidance.for(note)
+        dm_freshness = dm_freshness_for(note, dm_sources)
         routing = routing_for(note, freshness, dm_freshness, report)
         {
           "path" => note.path,
@@ -604,7 +741,15 @@ module TaelgarNoteLint
           "routing" => routing,
           "deterministic" => report,
           "freshness" => freshness,
-          "dmFreshness" => dm_freshness
+          "dmFreshness" => dm_freshness,
+          "dmEvidence" => dm_evidence,
+          "languageGuidance" => language_guidance,
+          "evidenceSummary" => {
+            "freshnessCandidates" => Array(freshness["candidates"]).length,
+            "dmSources" => dm_sources.length,
+            "dmClusters" => dm_evidence.fetch("clusters").length,
+            "languageEntries" => language_guidance.fetch("entries").length
+          }
         }
       end
 
@@ -714,8 +859,7 @@ module TaelgarNoteLint
             "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
             "editorialAssessment" => nil,
             "expansionCandidate" => nil,
-            "needsAdjudication" => false,
-            "adjudication" => "not_required"
+            "selfReview" => Batch.self_review_template
           }
         end
         {
@@ -741,24 +885,21 @@ module TaelgarNoteLint
     end
 
     class WorkspaceBuilder
-      def initialize(root:, manifest:, manifest_sha256:, output_dir:, max_notes: DEFAULT_MAX_NOTES,
-                     max_tokens: DEFAULT_MAX_TOKENS)
+      def initialize(root:, manifest:, manifest_sha256:, output_dir:, max_tokens: DEFAULT_MAX_TOKENS)
         @root = Pathname.new(root).expand_path
         @manifest = manifest
         @manifest_sha256 = manifest_sha256
         @output_dir = Batch.ensure_external_review_dir!(@root, output_dir)
-        @max_notes = Integer(max_notes)
         @max_tokens = Integer(max_tokens)
-        raise BatchError, "Shard limits must be positive." unless @max_notes.positive? && @max_tokens.positive?
+        raise BatchError, "Shard token limit must be positive." unless @max_tokens.positive?
       rescue ArgumentError, TypeError
-        raise BatchError, "Shard limits must be positive integers."
+        raise BatchError, "Shard token limit must be a positive integer."
       end
 
       def build
         records = validate_manifest!
         prepare_output_dir!
         shards = build_shards(records)
-        copy_candidates(records)
         shard_records = shards.each_with_index.map { |shard, index| write_shard(shard, index + 1) }
         workspace = {
           "schemaVersion" => WORKSPACE_SCHEMA_VERSION,
@@ -766,8 +907,8 @@ module TaelgarNoteLint
           "validatorVersion" => VERSION,
           "manifestSha256" => @manifest_sha256,
           "createdAt" => Time.now.iso8601,
-          "maxNotes" => @max_notes,
           "maxEstimatedInputTokens" => @max_tokens,
+          "shardingStrategy" => "largest-estimate-first balanced bins with soft path locality",
           "shards" => shard_records
         }
         write_json(@output_dir.join("workspace.json"), workspace)
@@ -822,36 +963,30 @@ module TaelgarNoteLint
       end
 
       def build_shards(records)
-        shards = []
-        current = []
-        current_tokens = 0
-        records.each do |record|
-          estimate = Batch.estimated_input_tokens(record)
-          if current.any? && (current.length >= @max_notes || current_tokens + estimate > @max_tokens)
-            shards << current
-            current = []
-            current_tokens = 0
+        weighted = records.map { |record| [record, Batch.estimated_input_tokens(record)] }
+        oversize, ordinary = weighted.partition { |_record, estimate| estimate > @max_tokens }
+        desired_bins = [(ordinary.sum { |_record, estimate| estimate }.to_f / @max_tokens).ceil, 1].max
+        bins = Array.new(ordinary.empty? ? 0 : desired_bins) { [] }
+        ordinary.sort_by { |record, estimate| [-estimate, record.fetch("path")] }.each do |item|
+          record, estimate = item
+          candidates = bins.each_index.select do |index|
+            bins[index].sum { |_existing, tokens| tokens } + estimate <= @max_tokens
           end
-          current << [record, estimate]
-          current_tokens += estimate
-        end
-        shards << current unless current.empty?
-        shards
-      end
-
-      def copy_candidates(records)
-        records.each do |record|
-          path = record.fetch("path")
-          destination = @output_dir.join("candidates", path)
-          FileUtils.mkdir_p(destination.dirname)
-          destination.dirname.ascend do |directory|
-            break if directory == @output_dir
-
-            File.chmod(0o700, directory)
+          if candidates.empty?
+            bins << [item]
+            next
           end
-          File.binwrite(destination, File.binread(@root.join(path)))
-          File.chmod(0o600, destination)
+          parent = Pathname.new(record.fetch("path")).dirname.to_s
+          selected = candidates.min_by do |index|
+            tokens = bins[index].sum { |_existing, value| value }
+            same_parent = bins[index].count { |existing, _value| Pathname.new(existing.fetch("path")).dirname.to_s == parent }
+            [tokens, -same_parent, index]
+          end
+          bins[selected] << item
         end
+        (bins.reject(&:empty?) + oversize.map { |item| [item] })
+          .map { |shard| shard.sort_by { |record, _estimate| record.fetch("path") } }
+          .sort_by { |shard| shard.first.first.fetch("path") }
       end
 
       def write_shard(shard, number)
@@ -859,9 +994,10 @@ module TaelgarNoteLint
         packet_path = "packets/#{shard_id}.json"
         result_path = "results/#{shard_id}.json"
         estimated_tokens = shard.sum { |_record, estimate| estimate }
+        shard.each { |record, _estimate| copy_candidate(record, shard_id) }
         packet_notes = shard.map do |record, estimate|
           record.merge(
-            "candidateRelativePath" => "candidates/#{record.fetch('path')}",
+            "candidateRelativePath" => "candidates/#{shard_id}/#{record.fetch('path')}",
             "estimatedInputTokens" => estimate
           )
         end
@@ -883,8 +1019,7 @@ module TaelgarNoteLint
             "sharedNonpublicReview" => Batch.shared_nonpublic_review_template(note),
             "editorialAssessment" => nil,
             "expansionCandidate" => nil,
-            "needsAdjudication" => false,
-            "adjudication" => "not_required"
+            "selfReview" => Batch.self_review_template
           }
         end
         packet = {
@@ -912,6 +1047,19 @@ module TaelgarNoteLint
           "estimatedInputTokens" => estimated_tokens,
           "paths" => shard.map { |record, _estimate| record.fetch("path") }
         }
+      end
+
+      def copy_candidate(record, shard_id)
+        path = record.fetch("path")
+        destination = @output_dir.join("candidates", shard_id, path)
+        FileUtils.mkdir_p(destination.dirname)
+        destination.dirname.ascend do |directory|
+          break if directory == @output_dir
+
+          File.chmod(0o700, directory)
+        end
+        File.binwrite(destination, File.binread(@root.join(path)))
+        File.chmod(0o600, destination)
       end
 
       def write_json(path, document)
@@ -983,7 +1131,7 @@ module TaelgarNoteLint
 
         result.fetch("notes").map do |decision|
           path = decision.fetch("path")
-          candidate = safe_candidate_path(path)
+          candidate = safe_candidate_path(shard.fetch("id"), path)
           raise BatchError, "Staged candidate is missing: #{path}" unless candidate.file?
 
           decision.merge("_candidatePath" => candidate.to_s)
@@ -1000,14 +1148,163 @@ module TaelgarNoteLint
         path
       end
 
-      def safe_candidate_path(note_path)
-        base = @review_dir.join("candidates").expand_path
+      def safe_candidate_path(shard_id, note_path)
+        base = @review_dir.join("candidates", shard_id).expand_path
         path = base.join(note_path).expand_path
         unless path.to_s.start_with?("#{base}#{File::SEPARATOR}")
           raise BatchError, "Review workspace contains an unsafe candidate path: #{note_path}"
         end
 
         path
+      end
+    end
+
+    class HandoffRenderer
+      def initialize(decisions:, records:, candidates:)
+        @decisions = decisions
+        @records = records
+        @candidates = candidates.to_h { |candidate| [candidate.fetch("path"), candidate] }
+      end
+
+      def render
+        eligible = @decisions.select { |decision| decision["eligibility"] == "eligible" }
+        open = eligible.select { |decision| decision["outcome"] == "open" }
+        lines = [
+          "## Taelgar lint review handoff",
+          "",
+          "Reviewed #{eligible.length} eligible notes: #{open.length} open and #{eligible.length - open.length} clean."
+        ]
+        render_note_outcomes(lines)
+        render_expansions(lines, eligible)
+        render_dm_recoveries(lines, eligible)
+        render_secret_recoveries(lines, eligible)
+        render_worker_notes(lines, eligible)
+        lines.join("\n").sub(/\n*\z/, "\n")
+      end
+
+      private
+
+      def render_note_outcomes(lines)
+        return if @decisions.empty?
+
+        lines.concat(["", "### Note outcomes", ""])
+        @decisions.sort_by { |decision| decision.fetch("path") }.each do |decision|
+          if decision["eligibility"] == "ineligible"
+            lines << "- #{wikilink(decision.fetch('path'))} — ineligible: #{decision.fetch('eligibilityReason')}"
+            next
+          end
+
+          rules = decision["lintReport"].to_s.scan(/\*\*(?:Error|Warning|Suggestion)\s+—\s+([a-z0-9_.-]+):/i).flatten.uniq
+          suffix = rules.empty? ? "" : " — #{rules.join(', ')}"
+          lines << "- #{wikilink(decision.fetch('path'))} — #{decision.fetch('outcome')}; #{decision.fetch('editorialVerdict')}#{suffix}"
+        end
+      end
+
+      def render_expansions(lines, decisions)
+        expansions = decisions.select { |decision| decision["expansionCandidate"].is_a?(Hash) }
+        return if expansions.empty?
+
+        lines.concat(["", "### Bounded expansion candidates"])
+        expansions.sort_by { |decision| decision.fetch("path") }.each do |decision|
+          expansion = decision.fetch("expansionCandidate")
+          lines.concat([
+            "",
+            "#### #{wikilink(decision.fetch('path'))}",
+            "",
+            "Benefit: #{expansion.fetch('benefit')}",
+            "",
+            "Copy-paste-ready statement:",
+            "",
+            blockquote(expansion.fetch("addition")),
+            "",
+            "Sources:"
+          ])
+          expansion.fetch("sources").each do |source|
+            lines << "- #{wikilink(source.fetch('path'))} — #{source.fetch('certainty')}: #{source.fetch('evidence')}"
+          end
+        end
+      end
+
+      def render_dm_recoveries(lines, decisions)
+        sections = []
+        decisions.sort_by { |decision| decision.fetch("path") }.each do |decision|
+          record = @records.fetch(decision.fetch("path"))
+          reviews = Array(decision.dig("dmNotesReview", "clusterReviews"))
+          dm_notes = ParsedNote.new(decision.fetch("path"), @candidates.fetch(decision.fetch("path")).fetch("text")).data["dm_notes"].to_s
+          reviews.each do |review|
+            next unless review["disposition"] == "matching"
+
+            sources = Batch.dm_cluster_sources(record, review.fetch("clusterId"))
+            if %w[public_candidate private_candidate].include?(review["recovery"])
+              sections << [decision, review, sources, :recovery]
+            elsif %w[color important].include?(dm_notes) && decision["outcome"] == "clean"
+              sections << [decision, review, sources, :attestation]
+            end
+          end
+        end
+        return if sections.empty?
+
+        lines.concat(["", "### DM evidence and recoveries"])
+        sections.each do |decision, review, sources, kind|
+          lines.concat(["", "#### #{wikilink(decision.fetch('path'))}", ""])
+          if kind == :recovery
+            lines << Batch.recovery_destination_marker(review.fetch("recovery"))
+            lines.concat(["", review.fetch("chatSummary"), "", "Copy-paste-ready statement:", "", blockquote(review.fetch("candidate"))])
+          else
+            lines << "Confirmed local-only evidence supports the positive `dm_notes` attestation."
+          end
+          if decision["outcome"] == "open"
+            lines.concat(["", "Sources: recorded in the note's Lint block."])
+          else
+            lines.concat(["", "Sources:"])
+            sources.each { |source| lines << "- #{wikilink(source)}" }
+          end
+        end
+      end
+
+      def render_secret_recoveries(lines, decisions)
+        recoveries = decisions.flat_map do |decision|
+          Array(decision["secretReview"]).each_with_object([]) do |review, selected|
+            next unless %w[public_candidate private_candidate].include?(review["disposition"])
+
+            selected << [decision, review]
+          end
+        end
+        return if recoveries.empty?
+
+        lines.concat(["", "### SECRET recoveries"])
+        recoveries.each do |decision, review|
+          lines.concat([
+            "",
+            "#### #{wikilink(decision.fetch('path'))}",
+            "",
+            Batch.recovery_destination_marker(review.fetch("disposition")),
+            "",
+            review.fetch("summary"),
+            "",
+            "Copy-paste-ready statement:",
+            "",
+            blockquote(review.fetch("candidate"))
+          ])
+        end
+      end
+
+      def render_worker_notes(lines, decisions)
+        notes = decisions.reject { |decision| decision["handoff"].to_s.strip.empty? }
+        return if notes.empty?
+
+        lines.concat(["", "### Additional worker notes"])
+        notes.sort_by { |decision| decision.fetch("path") }.each do |decision|
+          lines.concat(["", "#### #{wikilink(decision.fetch('path'))}", "", decision.fetch("handoff").to_s.strip])
+        end
+      end
+
+      def wikilink(path)
+        "[[#{path.to_s.sub(/\.md\z/, '')}]]"
+      end
+
+      def blockquote(text)
+        text.to_s.lines.map { |line| "> #{line.chomp}" }.join("\n")
       end
     end
 
@@ -1040,6 +1337,7 @@ module TaelgarNoteLint
           build_candidate(decision, records.fetch(decision.fetch("path")), validator)
         end
         review_summary = review_summary(candidates)
+        handoff = HandoffRenderer.new(decisions: decision_list, records: records, candidates: candidates).render
         commit(candidates.reject { |candidate| candidate["skipWrite"] }) if write
         {
           "schemaVersion" => DECISION_SCHEMA_VERSION,
@@ -1047,6 +1345,7 @@ module TaelgarNoteLint
           "completedAt" => @completed_at,
           "wrote" => write,
           "reviewSummary" => review_summary,
+          "handoff" => handoff,
           "notes" => candidates.map do |candidate|
             {
               "path" => candidate.fetch("path"),
@@ -1132,7 +1431,8 @@ module TaelgarNoteLint
           raise BatchError, "Staged lint completion state changed before finalization: #{path}"
         end
         outcome = decision.fetch("outcome")
-        report = validate_report(decision["lintReport"], outcome, path)
+        report_value = add_dm_evidence_links(decision["lintReport"], decision, record, staged_note, outcome)
+        report = validate_report(report_value, outcome, path)
         validate_editorial_consistency!(decision, report)
         validate_declared_body_edits!(decision, live_note, staged_note, path)
         validate_dm_notes_review!(decision, record, staged_note, report, outcome, path)
@@ -1206,17 +1506,12 @@ module TaelgarNoteLint
 
       def validate_completed_decision!(decision)
         path = decision.fetch("path")
-        if decision["needsAdjudication"] == true
-          raise BatchError, "A shard result still requires adjudication: #{path}"
-        end
+        validate_self_review!(decision, path)
 
         case decision["eligibility"]
         when "ineligible"
           if decision["eligibilityReason"].to_s.strip.empty?
             raise BatchError, "A semantically ineligible result requires a concise reason: #{path}"
-          end
-          unless decision["adjudication"] == "complete"
-            raise BatchError, "A semantically ineligible result requires completed Sol xhigh adjudication: #{path}"
           end
           unless decision["editorialVerdict"].nil? && decision["outcome"].nil? &&
                  decision["lintReport"].to_s.strip.empty? && decision["handoff"].to_s.strip.empty? &&
@@ -1240,14 +1535,18 @@ module TaelgarNoteLint
           unless decision["secretReview"].is_a?(Array)
             raise BatchError, "Every eligible note needs a structured SECRET review result: #{path}"
           end
-          if report_rule_ids(decision["lintReport"]).include?("editorial.note_underdeveloped") &&
-             decision["adjudication"] != "complete"
-            raise BatchError, "Invention-based underdevelopment requires completed Sol xhigh adjudication: #{path}"
-          end
           validate_expansion_candidate!(decision, path)
           validate_editorial_assessment!(decision, path)
         else
           raise BatchError, "Every note needs completed semantic eligibility review: #{path}"
+        end
+      end
+
+      def validate_self_review!(decision, path)
+        review = decision["selfReview"]
+        unless review.is_a?(Hash) && review["complete"] == true &&
+               SELF_REVIEW_KEYS.all? { |key| review[key] == true }
+          raise BatchError, "Every worker result requires completed evidence, privacy-sanity, and candidate self-review: #{path}"
         end
       end
 
@@ -1342,131 +1641,94 @@ module TaelgarNoteLint
           raise BatchError, "The dm_notes review result does not match the manifest review gate: #{path}"
         end
 
-        expected_paths = Batch.dm_notes_candidate_sources(record)
-        source_reviews = Array(review["sourceReviews"])
-        actual_paths = source_reviews.map { |source| source["path"].to_s }
-        unless actual_paths.sort == expected_paths && actual_paths.uniq.length == actual_paths.length
-          raise BatchError, "The dm_notes review must disposition every manifest source exactly once: #{path}"
+        expected_clusters = Array(record.dig("dmEvidence", "clusters"))
+        expected_ids = expected_clusters.map { |cluster| cluster.fetch("id") }
+        cluster_reviews = Array(review["clusterReviews"])
+        actual_ids = cluster_reviews.map { |cluster| cluster["clusterId"].to_s }
+        unless actual_ids.sort == expected_ids.sort && actual_ids.uniq.length == actual_ids.length
+          raise BatchError, "The dm_notes review must disposition every evidence cluster exactly once: #{path}"
         end
 
         unless expected_required
-          unless source_reviews.empty?
-            raise BatchError, "A skipped dm_notes review cannot carry source dispositions: #{path}"
+          unless cluster_reviews.empty?
+            raise BatchError, "A skipped dm_notes review cannot carry cluster dispositions: #{path}"
           end
           return
         end
 
-        source_reviews.each do |source|
-          unless DM_SOURCE_DISPOSITIONS.include?(source["disposition"].to_s) && !source["summary"].to_s.strip.empty?
-            raise BatchError, "Every dm_notes source needs matching or not_matching disposition and a summary: #{path}"
+        cluster_reviews.each do |cluster|
+          unless DM_SOURCE_DISPOSITIONS.include?(cluster["disposition"].to_s) && !cluster["summary"].to_s.strip.empty?
+            raise BatchError, "Every dm_notes cluster needs matching or not_matching disposition and a summary: #{path}"
           end
 
-          disposition = source["disposition"].to_s
-          recovery = source["recovery"].to_s
+          disposition = cluster["disposition"].to_s
+          recovery = cluster["recovery"].to_s
           dm_notes = staged_note.data["dm_notes"].to_s
           none_attestation = dm_notes.empty? || dm_notes == "none"
           if disposition != "matching" || !none_attestation
-            unless recovery == "not_applicable" && source["chatSummary"].to_s.strip.empty? &&
-                   source["candidate"].to_s.strip.empty?
+            unless recovery == "not_applicable" && cluster["chatSummary"].to_s.strip.empty? &&
+                   cluster["candidate"].to_s.strip.empty?
               raise BatchError, "Only a confirmed match for dm_notes: none may carry private recovery content: #{path}"
             end
             next
           end
 
           unless DM_RECOVERY_DISPOSITIONS.include?(recovery) && recovery != "not_applicable"
-            raise BatchError, "Every confirmed match for dm_notes: none needs a recovery disposition: #{path}"
+            raise BatchError, "Every confirmed dm_notes cluster for dm_notes: none needs a recovery disposition: #{path}"
           end
           if %w[public_candidate private_candidate].include?(recovery)
-            if source["chatSummary"].to_s.strip.empty? || source["candidate"].to_s.strip.empty?
-              raise BatchError, "Every recoverable dm_notes source needs a chat summary and copy-ready candidate: #{path}"
+            if cluster["chatSummary"].to_s.strip.empty? || cluster["candidate"].to_s.strip.empty?
+              raise BatchError, "Every recoverable dm_notes cluster needs a chat summary and copy-ready candidate: #{path}"
             end
-          elsif !source["chatSummary"].to_s.strip.empty? || !source["candidate"].to_s.strip.empty?
-            raise BatchError, "A dm_notes source without recoverable material cannot carry chat-only content: #{path}"
+          elsif !cluster["chatSummary"].to_s.strip.empty? || !cluster["candidate"].to_s.strip.empty?
+            raise BatchError, "A dm_notes cluster without recoverable material cannot carry recovery content: #{path}"
           end
         end
 
-        source_reviews.each do |source|
-          source_path = @root.join(source.fetch("path"))
-          next unless source_path.file?
-          next unless Batch.private_excerpt_in_report?(
-            report,
-            TaelgarNoteLint.read_text(source_path),
-            ignored_fragments: Batch.public_identity_fragments(staged_note)
-          )
+        reportable_paths = cluster_reviews.flat_map do |cluster|
+          next [] unless cluster["disposition"] == "matching"
 
-          raise BatchError, "Raw _DM_ source content must not appear in the Git-shared Lint report: #{path}"
+          dm_notes = staged_note.data["dm_notes"].to_s
+          positive = %w[color important].include?(dm_notes)
+          recoverable = %w[public_candidate private_candidate].include?(cluster["recovery"])
+          next [] unless positive || recoverable
+
+          Batch.dm_cluster_sources(record, cluster.fetch("clusterId"))
         end
-
-        recoverable_sources = source_reviews.select do |source|
-          source["disposition"] == "matching" && %w[public_candidate private_candidate].include?(source["recovery"])
-        end
-        if recoverable_sources.any?
-          handoff = decision["handoff"].to_s
-          recoverable_sources.each do |source|
-            destination_marker = Batch.recovery_destination_marker(source.fetch("recovery"))
-            unless handoff.include?(destination_marker) && handoff.include?(source.fetch("chatSummary")) &&
-                   handoff.include?(source.fetch("candidate"))
-              raise BatchError, "The chat handoff must explain every recoverable _DM_ source and give its candidate addition: #{path}"
-            end
-            [source["chatSummary"], source["candidate"]].each do |private_text|
-              if report.to_s.include?(private_text.to_s)
-                raise BatchError, "Chat-only _DM_ content must not appear in the Git-shared Lint report: #{path}"
-              end
-            end
-          end
-
-          if outcome == "open"
-            missing_from_report = recoverable_sources.reject do |source|
-              Batch.markdown_list_contains_wikilink?(report, source.fetch("path"))
-            end
-            unless missing_from_report.empty?
-              raise BatchError, "Recoverable _DM_ links in an open note must be Markdown list items in the Lint report: #{path}"
-            end
-            duplicated_in_handoff = recoverable_sources.select do |source|
-              Batch.contains_dm_note_wikilink?(handoff, source.fetch("path"))
-            end
-            unless duplicated_in_handoff.empty?
-              raise BatchError, "_DM_ links already listed in an open Lint report must be omitted from the chat handoff: #{path}"
-            end
-          else
-            final_body = Batch.body_without_lint(staged_note)
-            missing_from_note = recoverable_sources.reject do |source|
-              Batch.markdown_list_contains_wikilink?(final_body, source.fetch("path"))
-            end
-            duplicated_in_handoff = recoverable_sources.reject { |source| missing_from_note.include?(source) }.select do |source|
-              Batch.contains_dm_note_wikilink?(handoff, source.fetch("path"))
-            end
-            unless duplicated_in_handoff.empty?
-              raise BatchError, "_DM_ links already listed in the clean note must be omitted from the chat handoff: #{path}"
-            end
-            missing_from_handoff = missing_from_note.reject do |source|
-              Batch.markdown_list_contains_wikilink?(handoff, source.fetch("path"))
-            end
-            unless missing_from_handoff.empty?
-              raise BatchError, "Recoverable _DM_ links absent from a clean note must be Markdown list items in the chat handoff: #{path}"
-            end
+        if outcome == "open"
+          missing = reportable_paths.uniq.reject { |source_path| Batch.markdown_list_contains_wikilink?(report, source_path) }
+          unless missing.empty?
+            raise BatchError, "Reportable _DM_ links in an open note must be Markdown list items in the Lint report: #{path}"
           end
         end
 
-        nonrecoverable_sources = source_reviews - recoverable_sources
-        nonrecoverable_sources.each do |source|
-          source_path = source.fetch("path")
-          if Batch.contains_dm_note_wikilink?(report, source_path) ||
-             Batch.contains_dm_note_wikilink?(decision["handoff"], source_path)
-            raise BatchError, "Nonrecoverable or positive-attestation _DM_ sources must not be listed in note or chat output: #{path}"
-          end
-        end
-
-        matching_paths = source_reviews.each_with_object([]) do |source, paths|
-          paths << source["path"] if source["disposition"] == "matching"
-        end
-        return if matching_paths.any?
+        return if cluster_reviews.any? { |cluster| cluster["disposition"] == "matching" }
 
         dm_notes = staged_note.data["dm_notes"].to_s
         return unless %w[color important].include?(dm_notes)
         unless outcome == "open" && report_rule_ids(report).include?("dm.notes_no_local_evidence")
           raise BatchError, "A positive dm_notes attestation without a confirmed match requires open dm.notes_no_local_evidence: #{path}"
         end
+      end
+
+      def add_dm_evidence_links(report, decision, record, staged_note, outcome)
+        return report unless outcome == "open"
+
+        dm_notes = staged_note.data["dm_notes"].to_s
+        positive = %w[color important].include?(dm_notes)
+        paths = Array(decision.dig("dmNotesReview", "clusterReviews")).flat_map do |cluster|
+          next [] unless cluster["disposition"] == "matching"
+          next [] unless positive || %w[public_candidate private_candidate].include?(cluster["recovery"])
+
+          Batch.dm_cluster_sources(record, cluster.fetch("clusterId"))
+        end.uniq.sort
+        return report if paths.empty?
+
+        missing = paths.reject { |source_path| Batch.contains_dm_note_wikilink?(report, source_path) }
+        return report if missing.empty?
+
+        section = "### DM evidence\n" + missing.map { |source_path| "- #{Batch.dm_note_wikilink(source_path)}" }.join("\n")
+        report.to_s.strip.sub(/\n?%%\^End%%\z/, "\n\n#{section}\n%%^End%%")
       end
 
       def validate_secret_review!(decision, staged_note, report, path)
@@ -1478,17 +1740,6 @@ module TaelgarNoteLint
           raise BatchError, "SECRET review must disposition every current SECRET block exactly once: #{path}"
         end
 
-        handoff = decision["handoff"].to_s
-        Batch.secret_units(staged_note).each_with_index do |_unit, index|
-          secret_text = staged_note.body.to_enum(:scan, /%%SECRET\b.*?%%/m).map { Regexp.last_match[0] }[index]
-          next unless Batch.private_excerpt_in_report?(
-            report,
-            secret_text,
-            ignored_fragments: Batch.public_identity_fragments(staged_note)
-          )
-
-          raise BatchError, "Raw SECRET content must not appear in the Git-shared Lint report: #{path}"
-        end
         reviews.each do |review|
           disposition = review["disposition"].to_s
           unless SECRET_RECOVERY_DISPOSITIONS.include?(disposition) && !review["summary"].to_s.strip.empty?
@@ -1497,16 +1748,6 @@ module TaelgarNoteLint
           if %w[public_candidate private_candidate].include?(disposition)
             if review["candidate"].to_s.strip.empty?
               raise BatchError, "Every recoverable SECRET block needs a copy-ready candidate: #{path}"
-            end
-            destination_marker = Batch.recovery_destination_marker(disposition)
-            unless handoff.include?(destination_marker) && handoff.include?(review.fetch("summary")) &&
-                   handoff.include?(review.fetch("candidate"))
-              raise BatchError, "The chat handoff must explain every recoverable SECRET block and give its candidate addition: #{path}"
-            end
-            [review["summary"], review["candidate"]].each do |private_text|
-              if report.to_s.include?(private_text.to_s)
-                raise BatchError, "Chat-only SECRET content must not appear in the Git-shared Lint report: #{path}"
-              end
             end
           elsif !review["candidate"].to_s.strip.empty?
             raise BatchError, "A SECRET block without recoverable material cannot carry a candidate addition: #{path}"
@@ -1778,7 +2019,6 @@ module TaelgarNoteLint
       def workspace
         options = {
           root: Pathname.pwd,
-          max_notes: DEFAULT_MAX_NOTES,
           max_tokens: DEFAULT_MAX_TOKENS
         }
         parser = OptionParser.new do |opts|
@@ -1786,7 +2026,6 @@ module TaelgarNoteLint
           opts.on("--root PATH", "Vault root") { |value| options[:root] = Pathname.new(value) }
           opts.on("--manifest PATH", "Prepared batch manifest") { |value| options[:manifest] = value }
           opts.on("--review-dir PATH", "Temporary staged review workspace") { |value| options[:review_dir] = value }
-          opts.on("--max-notes N", Integer, "Maximum notes per shard (default #{DEFAULT_MAX_NOTES})") { |value| options[:max_notes] = value }
           opts.on("--max-tokens N", Integer, "Maximum estimated input tokens per shard (default #{DEFAULT_MAX_TOKENS})") { |value| options[:max_tokens] = value }
           opts.on("--output PATH", "Write workspace summary JSON to a file") { |value| options[:output] = value }
         end
@@ -1800,7 +2039,6 @@ module TaelgarNoteLint
           manifest: manifest,
           manifest_sha256: Batch.sha256(manifest_text),
           output_dir: options[:review_dir],
-          max_notes: options[:max_notes],
           max_tokens: options[:max_tokens]
         ).build
         write_json(document, options[:output])

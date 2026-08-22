@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T18:55:31-04:00"
+lintVersion: "3.4"
 tags: [person, status/gameupdate/dufr, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -53,17 +53,15 @@ Temporal coverage: uneven across the mid-1730s through DR 1749. The main portrai
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
+### Editorial assessment
+**Underdeveloped**. Public notes describe a completed later phase that the article omits: Fausto moved from private patronage into institutional coercion, armed leadership, death, and later civic consequences. One compact late-career paragraph would repair this central gap.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/gameupdate/dufr` is not assessable pending the open temporal or coverage choice; no status was changed.
+- The existing game-update marker awaits a human choice about temporal scope.
+- The positive off-vault attestation is supported. No local material is restated.
 
 ### Open findings
-
-- [ ] **suggestion — status.gameupdate_historical_snapshot:** `status/gameupdate/dufr` may now be stale. The article is deliberately a `POV: 1740s` pre-death portrait, while `died: 1749-05-24` and `povNotes` explicitly bound that snapshot. A human may remove the game-update tag if it only marked the later death; retain it if it represents other established Dunmar Frontier facts that still need incorporation.
-
+- [ ] **Warning — coverage.later_material_change:** Later public records materially supersede the article's visible endpoint. Decide whether to update the article and `POV`, defer revision under the existing game-update marker, or retain the earlier snapshot after review.
+  - Public evidence: [[Hetaeri Magica]], [[Pandemonium Scroll]], [[Amelia]], [[Gaspar]], [[Windcallers]], and the public play record dated DR 1749-05-24.
+  - Copy-ready update if adopted: During DR 1749, Fausto became a leading architect of open conflict while extending the Cleansed network through magical institutions and state administration. He also took battlefield command. His final confrontation on (DR:: 1749-05-24) ended in his death and the loss of the controlling artifact. The resulting collapse of his influence disrupted public offices, accelerated reform of the chalyte economy, and changed the city's balance of power.
 %%^End%%

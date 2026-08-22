@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place]
+lintedAt: "2026-08-21T19:01:27-04:00"
+lintVersion: "3.4"
+tags: [place, status/cleanup/text]
 typeOf: building
 typeOfAlias: palace
 ancestry: Chardonian
@@ -16,6 +16,8 @@ POV: 1749
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% to do, rewrite a bit to make less stilted and remove the shared comment %%
 
 The Imperial Palace of [[Chardon]] crowns the [[South Bank]], occupying a prominent position among the city’s many towers and monuments. It serves as the [[Mitus Verina Auratan|Magistros]]’s seat and the administrative hub of the Empire’s heartland, receiving envoys, issuing decrees, and coordinating the defense and civic order.
 
@@ -33,7 +35,7 @@ DM notes / sources
 - [[Praecanti Vigiles]]; Praecanti Primis
 - [[Mitus Verina Auratan]]; [[Tiberius]]
 
-
+From campaign: Visitors surrender weapons and magical foci at the gates before guards escort them through opulent halls to private audiences. The Magistros's own chamber is stark, sunlit, and simply furnished
 %%
 
 %%^Metadata:names:v1%%
