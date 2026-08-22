@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: inn

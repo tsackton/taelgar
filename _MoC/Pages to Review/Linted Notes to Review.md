@@ -12,7 +12,7 @@ TABLE join(split(file.path, "/", 2), "/") as Folder,
 FROM #status/check/lint
 WHERE lintVersion = this.currentLinterVersion
 FLATTEN length(file.inlinks) AS BacklinkCount
-SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
+SORT BacklinkCount DESC
 ```
 
 ## Recent Runs

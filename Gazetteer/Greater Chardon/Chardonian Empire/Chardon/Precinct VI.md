@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
-tags: [place]
+tags: [place, status/check/lint]
 typeOf: neighborhood
 typeOfAlias: precinct
 name: Precinct VI
@@ -28,4 +28,17 @@ Precinct VI is the center of the Chardonian port district.
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; identifies Precinct VI with Chardon's modern port district, without establishing when that congruence began.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Validated judgments
+- `Precinct VI` is a plain-English title and needs no pronunciation field.
+- The shared comment records that the positive DM attestation refers to unwritten ideas rather than recoverable in-note material.
+
+### Open findings
+
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No local-only `_DM_` notes were found. Verify the positive `dm_notes: color` attestation; it may still represent the unwritten ideas recorded by the shared comment and must not be removed automatically.
+
 %%^End%%

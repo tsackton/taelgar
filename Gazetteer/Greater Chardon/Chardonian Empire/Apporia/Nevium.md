@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
@@ -42,16 +42,13 @@ Temporal coverage: a broadly modern portrait of prosperous Nevium after the cana
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-
 ### Open findings
 
-- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+- [ ] **Warning — metadata.map_location_missing:** The required world-map locator remains blank. Fill the existing `locator` value from the authoritative map; do not guess a coordinate.
 
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 47]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Adventure Arc Outline]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
 %%^End%%

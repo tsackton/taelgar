@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
 tags: [place, status/check/lint]
 typeOf: neighborhood
@@ -32,16 +32,8 @@ Temporal coverage: broadly modern urban and social geography; the note establish
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-
 ### Open findings
 
-- [ ] **Suggestion — dm.notes_no_local_evidence:** No local-only _DM_ notes found; verify dm_notes. The positive attestation may still represent remembered information or another off-vault source, so never remove it automatically.
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No local-only `_DM_` note was found for this subject. Verify the positive `dm_notes: color` attestation; it may still represent remembered or off-vault information, so do not remove it automatically.
 
 %%^End%%

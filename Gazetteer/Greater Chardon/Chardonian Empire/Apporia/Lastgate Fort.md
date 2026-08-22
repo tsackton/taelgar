@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -37,7 +37,7 @@ In September DR 1748, the [[Silver Tempests]] followed an old Drankorian milesto
 
 %%^Metadata:names:v1%%
 - {name: "Lastgate Fort", role: "primary", language: "Common", status: "documented"}
-- {name: "Presidion Lymara", role: "historical", language: "Drankorian", status: "documented", pronunciation: "preh-SID-ee-on LEE-mah-rah"}
+- {name: "Presidion Lymara", role: "historical", language: "Drankorian", status: "documented", pronunciation: "preh-SID-ee-on LEE-mah-rah", notes: "Pronunciation derived from the Drankorian Classical Latin analogue."}
 %%^End%%
 
 %%^povNotes:v1%%

@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Balthazar
-born: 1705-03-15
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
+tags: [person, status/check/lint]
 species: human
 ancestry: Mazeanne
+born: 1705-03-15
 gender: male
+name: Balthazar
 whereabouts:
-- {type: home, location: Evis}
-- {type: away, location: "Wakog's Camp", start: 1719-10-14, end: 1719-12-05}
-- {type: home, start: 1719-12-06, location: Cleenseau}
-dm_notes: none
+  - {type: home, location: Evis}
+  - {type: away, location: "Wakog's Camp", start: 1719-10-14, end: 1719-12-05}
+  - {type: home, start: 1719-12-06, location: Cleenseau}
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720
 ---
 # Balthazar
 >[!info]+ Biographical Info  
@@ -25,4 +29,24 @@ dm_owner: mike
 He recently acquired an odd egg from [[Viepuck|Viepuck's]] patron and has become somewhat obsessive about tending it, although he will speak to no one other than the [[Heroes of Cleenseau]] about what he is doing with it. Even to them, he is cagy, and he seems to see it as a puzzle he needs to solve on his own.
 
 Since [[Pyravela]] he has spent a lot of time on [[Char Street]] begging various food merchants for spoiled and otherwise discarded food. He seems to be looking for something, but he won't tell anyone, even [[Viepuck]], what it is. That said, he is always happy to run errands or otherwise help out, especially for a coin or two. He seems to be pretty good at slipping through crowds, and is extremely bright, if somewhat weak and still more sickly and frail than he really should be.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Balthazar, role: primary, language: unknown, pronunciation: BAL-thuh-zahr, notes: "Cautious spelling-based reading; no stronger language or pronunciation evidence was found.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 portrait following Balthazar's rescue from Wakog's Camp and resettlement in Cleenseau; his earlier life and later development are not recorded.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `knownTo: [clee]` from the Cleenseau campaign record and added the persistent name and temporal metadata.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `Balthazar — BAL-thuh-zahr` from a cautious spelling-based reading because no stronger language or pronunciation evidence was found. Candidate: review the reading, then add `pronunciation: BAL-thuh-zahr` to frontmatter and mark the entry documented, or correct the proposal.
+
 %%^End%%
