@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: topographical feature
 typeOfAlias: peninsula
@@ -31,15 +31,9 @@ The northwestern coast, along the [[Gulf of Chardon]], is part of the [[Chardoni
 
 Apporia’s three imperial provinces have distinct landscapes: [[Portalia]] centers on marshes and canal traffic; [[Cedrano]]’s rocky coast is cut by small harbors and fishing villages; and [[Raziolo]]’s flat northern plain supports winter wheat and olive groves under hot, dry summers and mild winters. The sheltered gulf is both a productive fishing ground and a busy maritime highway, while [[Castrella]] remains Apporia’s principal maritime city.
 
-Beyond humans, the northwestern coast of Apporia has significant halfling communities, and a number of small lizardfolk villages, especially west of the [[Old Chardon Canal]], on the swampy borders between [[Portalia]] and [[Cedrano]]. Few dwarves and stoneborn remain on Apporia since the [[War of the Dark Rift]], and unlike most places in Taelgar, there are more stoneborn than dwarves. Those of these species who do remain often live among humans. 
+Beyond humans, the northwestern coast of Apporia has significant halfling communities, and a number of small lizardfolk villages, especially around the [[Old Chardon Canal]], on the swampy borders between [[Portalia]] and [[Cedrano]]. Few dwarves and stoneborn remain on Apporia since the [[War of the Dark Rift]], and unlike most places in Taelgar, there are more stoneborn than dwarves. Those of these species who do remain often live among humans. Some stoneborn refugees settled among Apporia’s human communities, while others established small coastal villages on cliffs and hilltops, especially in Cedrano.
 
-%% 
-Stoneborn - some refugees settled among humans, others have remained in Enderra. have settled both among the humans but also in some small stoneborn coastal villages built on cliffs and hilltops (most prominent in Cedrano)
-
-Old dwarven kingdom was called Enderra. Maybe elves still in Enderra. Kobolds? Others?
-%%
-
-Who else might live in the wild interiors of Apporia, is not known, though halfling sailors speak of the strangeness of the western coast, who few visit. 
+Who else might live in the wild interiors of Apporia, is not known, though halfling sailors speak of the strangeness of the western coast, that few visit. 
 
 %%^Campaign:dufr%%
 
@@ -55,7 +49,6 @@ Who else might live in the wild interiors of Apporia, is not known, though halfl
 ## History 
 
 %% to do, low priority: rewrite into a summary and a separate timeline page %%
-
 %% this is also primarily the history of the northwest corner of the peninsula, in large part because nothing is made up about the rest %%
 
 According to the records of the Chardonian Empire, the Apporian Peninsula was originally settled by the Drankorians, who originally constructed the [[Old Chardon Canal]] and established a series of maritime bases on the [[Gulf of Chardon]] and the [[Nevos Sea]], although never reached the western coast or the interior. These records do not speak to whether any peoples lived on the coasts prior to Drankorian settlement, or who might have lived -- or still live -- in the interior. 
@@ -82,5 +75,5 @@ By the DR 1700s, the [[War of the Dark Rift]] is largely forgotten, the interior
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern; the present-day geography and political organization are framed in the DR 1700s, while the historical section covers selected events from Drankorian settlement through the War of the Dark Rift.
+Temporal coverage: broadly modern; the present-day geography and political organization are framed in the DR 1700s, while the historical section covers selected events from Drankorian settlement through the post-War of the Dark Rift imperial era.
 %%^End%%

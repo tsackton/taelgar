@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place]
+lintedAt: "2026-08-21T23:46:56-04:00"
+lintVersion: "3.4"
+tags: [place, status/check/lint]
 typeOf: realm
 typeOfAlias: province
 name: Cedrano
@@ -38,4 +38,16 @@ Possible village names: Ombraforte
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern provincial and geographic description; the War of the Dark Rift and Cedrano's DR 1599 incorporation are historical background.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment contains a coherent public-safe economic detail absent from the visible article: Cedrano's rugged terrain supports little agriculture, while silver mines and coastal resources contribute to its wealth. If adopted, add: `Cedrano supports little agriculture, but its economy draws on rich silver mines and the bounty of its coastal waters.` Retain the real-world design analogues and tentative village name in hidden planning material if they remain useful.
+
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 102 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
 %%^End%%

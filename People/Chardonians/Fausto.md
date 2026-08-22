@@ -2,14 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T18:55:31-04:00"
 lintVersion: "3.4"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 born: 1714
 died: 1749-05-24
 gender: male
 campaignInfo:
-  - {campaign: dufr, date: 1748-08-23, type: met}
   - {campaign: dufr, date: 1749-05-24, type: killed}
 name: Fausto
 pronunciation: FOW-stoh
@@ -18,50 +17,42 @@ whereabouts:
   - {type: home, start: 1731-01-01, end: "", location: Chardon}
   - {type: away, start: 1734-01-01, end: "", prefix: adventuring in, location: West Coast Region}
   - {type: home, start: 1737-01-01, end: "", location: Chardon}
+  - {type: away, start: 1749-05-10, end: 1749-05-16, prefix: traveling east through, location: Yeraad Watershed}
+  - {type: away, start: 1749-05-16, end: 1749-05-22, location: Myraeni Gap}
+  - {type: away, start: 1749-05-22, end: 1749-05-23, location: Vindristjarna}
+  - {type: away, start: 1749-05-24, end: 1749-05-24, location: Temple of the Eight Divines}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: 1750
 ---
 # Fausto
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(FOW-stoh)*
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Killed by the [[Dunmar Fellowship]] on May 24th, 1749 in the [[Temple of the Eight Divines]], [[Drankor]] %%^End%%
 
-%%collate notes from Chardon arc in OneNote%%
+![[fausto.jpg|right|400]]Fausto is a wealthy Chardonian, moving with ease among wizards, scholars, rich merchants, and adventurers, known primarily for his patronage of scholarly expeditions through the [[Society of the Open Scroll]]. He is a striking man, with fine features, well-groomed curly black hair, and an elegant style that clearly yet subtly displays access to considerable wealth. He does not speak of his childhood, and his origins are obscure, but by his early adulthood he possessed a mysterious fortune, and was beginning to establish a name for himself as a patron of magical study. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard.
 
-![[fausto.jpg|right|400]]A young, striking man, with fine features, well-groomed curly black hair, and elegant dress that clearly yet subtly displays his wealth. Fausto is not from a wealthy background, and he does not speak of his childhood. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard.
+Despite holding no official wizardly or scholarly position, and having no reputation for scholarship, Fausto is very influential in Chardonian scholarly circles. He is skilled at spreading his wealth around, and his parties are popular among both rich and powerful of the city and the scholars and mages of the University hoping for funding. He has financed many scholars, funding their research, and frequently sponsors treasure hunting expeditions through the [[Society of the Open Scroll]]. These expeditions range widely, mostly across [[Dunmar]] and the southern [[Sentinel Range|Sentinels]], in search of Drankorian ruins and lost Drankorian artifacts. Among the large number of scholars and adventurers he has funded are [[Servius]], [[Dee Wildcloak]], [[Dain Goldhammer]], [[Alban]], and [[Arcus]].  
 
-Although he is well-connected, Fausto lacks official rank at either the [[University of Chardon]] or the Great Library, and is not known for his scholarship. However, he is skilled at spreading his wealth around, and his parties are popular among both rich and powerful of the city and the scholars and mages of the University hoping for funding. He is a major funder of treasure hunters associated with the [[Society of the Open Scroll]]. He funded many expeditions across [[Dunmar]], including [[Kadmos]] and company (rumored); [[Servius]]; and [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]'s expedition to [[Stormcaller Tower]]. He probably also funded [[Arcus]], given that he traveled with many of these people.
+He has a charming, friendly, and unassuming demeanor, always eager to help those who ask for it, and always willing to help connect people. Though, he rarely says much about his own goals, deflecting questions about what he seeks to gain from all this aid with a smile and his favorite line: "I was blessed with good fortune, I just want to give back to the world now." 
 
-Fausto is also a powerful enchanter who tricked [[Dunmar Fellowship]], attempting to capture or kill them when they came to his tower to make an exchange for [[Hralgar's Eyes]]. 
+%%^Date:1749-08-10%%
+Fausto's public patronage concealed his true purpose. He was the leader of [[The Cleansed]], a secret organization working to restore [[Apollyon]] to power and complete his vision of a pure, unsullied human species, restored to the glory of the ancient days in [[Hkar]]. He was the possessor of the [[Crown of Purity]], through which he controlled important members of the [[Hetaeri Magica]] and the [[Chamber of Stamps]], allowing him to manipulate Chardon's [[chalyte]] trade to provide vast quantities of gold for [[The Cleansed]]'s quest to recover the lost Drankorian artifacts of Apollyon. 
 
-He is also apparently a member of a secret organization called [[The Cleansed]]. 
+These revelations, made public in the aftermath of the [[Chardon Chalyte Riots]], upended public understanding of his role in the [[Chardon-Dunmar War]]. He was a key instigator of the march to war, taking public command of the Seventh Guard and accompanying the Chardonian army toward the Dunmari frontier. Later rumors speak of how he left the army just before battle was joined, teleporting to [[Drankor]] itself in a final effort to resurrect his patron and master [[Apollyon]], only to be defeated by the [[Dunmar Fellowship]] at the [[Temple of the Eight Divines]] when [[Kenzo]] ripped the [[Crown of Purity]] from his head. 
 
-%%SECRET[v2:2c87cd608fd3ac407d3a435d50dd53bc]%%
+Fausto's death unraveled the magical coercion that had kept [[The Cleansed]] in control of the Chardon [[chalyte]] trade, and exposed widespread corruption among the [[Chalyte Oligarchs of Chardon]] and the [[Curia of 42]]. This, eventually, was the trigger that lead to the [[Chardon Chalyte Riots]], the disarray of the [[Hetaeri Magica]], and ultimately the [[Chardonian Chalyte Trade Reforms]]. 
+%%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: uneven across the mid-1730s through DR 1749. The main portrait describes Fausto before his death in the late 1740s. A DR 1738 use must account for his age and the partial record of his adventuring and return to Chardon, while excluding later deeds and relationships. His childhood and origins are explicitly unknown, not available for extrapolation.
+Temporal coverage: uneven across the mid-1730s through DR 1749. The main portrait describes Fausto before his death in the late 1740s, with the dated block giving his death and secrets. A DR 1738 use must account for his age and the partial record of his adventuring and return to Chardon, while excluding later deeds and relationships. His childhood and origins are explicitly unknown, not available for extrapolation.
 %%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Fausto, role: primary, language: Chardonian, pronunciation: FOW-stoh, status: inferred, notes: Chardonian is inferred from his ancestry and life in Chardon}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Editorial assessment
-**Underdeveloped**. Public notes describe a completed later phase that the article omits: Fausto moved from private patronage into institutional coercion, armed leadership, death, and later civic consequences. One compact late-career paragraph would repair this central gap.
-
-### Validated judgments
-- The existing game-update marker awaits a human choice about temporal scope.
-- The positive off-vault attestation is supported. No local material is restated.
-
-### Open findings
-- [ ] **Warning — coverage.later_material_change:** Later public records materially supersede the article's visible endpoint. Decide whether to update the article and `POV`, defer revision under the existing game-update marker, or retain the earlier snapshot after review.
-  - Public evidence: [[Hetaeri Magica]], [[Pandemonium Scroll]], [[Amelia]], [[Gaspar]], [[Windcallers]], and the public play record dated DR 1749-05-24.
-  - Copy-ready update if adopted: During DR 1749, Fausto became a leading architect of open conflict while extending the Cleansed network through magical institutions and state administration. He also took battlefield command. His final confrontation on (DR:: 1749-05-24) ended in his death and the loss of the controlling artifact. The resulting collapse of his influence disrupted public offices, accelerated reform of the chalyte economy, and changed the city's balance of power.
 %%^End%%
