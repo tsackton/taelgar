@@ -27,6 +27,7 @@ dm_notes: important
 %%^Date:1748%%
 - (DR:: 1748). Elazar began to acquire a reputation as far-sighted and wise, after he warned of the troubles of the [[Azta Lekua]]. 
 - (DR:: 1748-09-30). Elazar met [[Kenzo]] when [[Kenzo]] appeared in [[Orekatu]]. Taught [[Kenzo]] the lizardfolk language and introduced him to lizardfolk spiritual practices over the next month.
+
 %%^End%%
 
 %%^Campaign:None%%

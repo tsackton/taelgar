@@ -38,6 +38,7 @@ After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garre
 - (DR:: 1747): Oswalt meets and falls in love with [[Jasmine Sunmeadow]] in [[Darba]]
 - (DR:: 1748): Jasmine and Oswalt are married
 - (DR:: 1748-08-09): Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
+
 %%^End%%
 
 %% notes

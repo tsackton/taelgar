@@ -40,6 +40,7 @@ A young, rambunctious and excessively curious halfling, traveling with the Charm
 %%^End%%
 
 %%^Campaign:None%%
+
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
 FROM #person OR #organization 
@@ -47,6 +48,7 @@ WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.fil
 SORT choice(species, species, typeof)
 ```
 %%^End%%
+
 %%^Campaign:DuFr%%
 ## Events
 In March 1748, Ander was taken with a demonic curse as a result of accidental contact with Abyssal energy during the demon summoning at [[Raven's Hold]]. The curse caused him to suffer from an overwhelming hunger for raw flesh. When the demon [[Oduk]] was killed by the [[Dunmar Fellowship]], Ander was released from the worst of the curse. As of the summer of 1748, he still suffered from occasional confusion and difficulty speaking and finding the right word, describing the feeling as the wounds left by the shrapnel from a chaotic bomb that exploded in his mind. 
@@ -55,6 +57,7 @@ In March 1748, Ander was taken with a demonic curse as a result of accidental co
 - (DR:: 1748-03-19): While exploring the ruined Dunmari fort of [[Raven's Hold]], Ander Charmheart heard a strange chanting, and was grabbed by a thorny vine while trying to flee. He later described this as like a wave of chaotic dark energy washing over him, and then exploding in his mind like a bomb. 
 - (DR:: 1748-03-22): Ander Charmheart begins to display signs of madness, feeling either consumed by a ravenous hunger for raw flesh, or raving about the coming master who would consume the world. 
 - (DR:: 1748-04-12): Ander Charmheart is released from the demonic curse possessing him, when the demon [[Oduk]] is killed by the [[Dunmar Fellowship]] in [[Raven's Hold]]
+
 %%^End%%
 
 

@@ -44,6 +44,7 @@ The demon at Raven's Hold was later killed by [[Dunmar Fellowship]], but [[Ander
 - (DR:: 1748-06-30): Meet [[Wellby]] in [[Tokra]], receive gifts from him to help get them on their feet again. Introduced to [[Garret Tealeaf]]. 
 - (DR:: 1748-07-18):  [[Garret Tealeaf]] and the Charmhearts leave [[Tokra]], planning on heading to [[Darba]] with trade goods and reconnecting with the Tealeafs, if possible.
 - (DR:: 1748-08-13): Charmhearts and [[Garret Tealeaf]] arrive in [[Darba]].
+
 %%^End%%
 
 

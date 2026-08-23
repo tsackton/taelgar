@@ -29,5 +29,6 @@ In DR 1747, Motua fought [[Grash]] in the [[Land of the Dead]], and was wounded,
 - (DR:: 1747-06-11) [[Grash]] enters the [[Land of the Dead]] to activate the [[Ring of Undying]], and encounters [[Motua]]. They fight, and [[Motua]] is wounded.
 - (DR:: 1747-07-02) [[Motua]] lands, disoriented, in the [[Azta Lekua|Footprint of the Gods]].
 - (DR:: 1748-11-06) [[Kenzo]], [[Izzarak]], and [[Enari]] heal [[Motua]].
+
 %%^End%%
 

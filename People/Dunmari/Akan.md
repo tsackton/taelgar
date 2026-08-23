@@ -42,4 +42,5 @@ A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, 
 - (DR:: 1748-06-08): Leaves [[Tokra]] to return to [[Karawa]]
 - (DR:: 1748-06-15): Returns to [[Karawa]] from [[Tokra]], for the [[Feast of Bhishma]]
 - (DR:: 1748-06-22): Returns to nomadic lifestyle traveling north and east of [[Karawa]] with his extended family and his diminished sheep herds. 
+
 %%^End%%
