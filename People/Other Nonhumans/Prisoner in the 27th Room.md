@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: unknown
 name: Prisoner in the 27th Room
@@ -38,6 +38,11 @@ When mortals began visiting, the being found their dreams/souls beautiful and ke
 The being's fungal children grew inside bodies whose souls it had taken. Some left through a root extending from the prison, emerging at random places and times determined by the unpredictable movements of the [[27th House]] shifting the prison's time and location. These children survived their parent's departure; those in the [[Varrow Forest]] continue to make new siblings and search for the hidden door that would lead them home.
 
 In DR 1740, [[Tollen Misfits|five travelers]] entered the central prison and told stories that persuaded the being to release the souls it held. With the prison's source of power gone, the [[27th House]] collapsed. The prisoner emerged in a form that mortal minds could only approximate as a seven-story dandelion of darkness, bone, roots, mold, tentacles, and familiar faces. It then appeared as a child once more, descended through the low stone well, and traveled beyond the universe. There, it could again perceive all of its possibilities clearly and thought not of the souls it had kept, but of the teacher who had loved it into speech.
+
+
+
+
+
 
 
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/errors, status/check/lint]
 typeOf: realm
 name: Addermarch
@@ -259,15 +259,18 @@ Temporal coverage: broad history through the modern era; the present-day account
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- Later edits to [[Bartoz]] and [[Einrik Arpaad]] add individual DR 1715 campaign history but do not materially change the realm-level account.
+
 ### Open findings
 
-- [ ] **Warning — content.internal_conflict:** The overview says Addermarch acknowledged the sovereignty of Sembaran monarchs before the Great War, while the detailed history and adjacent hidden note describe only a limited overking relationship through Derik III. Candidate: `Addermarch has never accepted permanent subordination to Sembaran or Tyrwinghan monarchs. It did, however, acknowledge Derik I and his successors through Derik III as overkings during the close alliance before the Great War.`
-- [ ] **Warning — correctness.cross_note_conflict:** The early-1400s passage gives that invasion the Addermarian occupation and guerrilla resistance that the Serpentine Wars and Dominion of Avatus notes date to DR 1369–1388; those sources instead place Avatus's later invasion in the Enst valley in the early DR 1420s. Candidate: `After a few decades of uneasy peace, Avatus invaded Sembara in the early DR 1420s and occupied much of the Enst valley, leaving Addermarch increasingly isolated.`
-- [ ] **Warning — content.internal_conflict:** The visible account says Addermarch was not heavily affected by the DR 1720 undead attacks, while the hidden discussion explicitly says the realm's experience is ill-defined. Candidate: `When the Undead Attacks in Sembara began in DR 1720, the extent of the fighting in Addermarch was not recorded, but the devastation in the Enst valley prompted renewed fortification and watchfulness.`
-
-### DM evidence
-- [[_DM_/Brainstorming/Family Campaign Ideas]]
-- [[_DM_/Campaign Work Tracker]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 81 - DM Notes]]
+- [ ] **Warning — content.internal_conflict:** The overview says Addermarch acknowledged the sovereignty of Sembaran monarchs before the Great War, while the detailed history and adjacent hidden note describe only a limited overking relationship through [[Derik III]] without Sembaran vassalage. Candidate: `Addermarch has never accepted permanent subordination to Sembaran or Tyrwinghan monarchs. It did, however, acknowledge Derik I and his successors through Derik III as overkings during the close alliance before the Great War.`
+- [ ] **Warning — correctness.cross_note_conflict:** The early-1400s passage gives that invasion the Addermarian occupation and guerrilla resistance that [[Serpentine Wars]] and [[Dominion of Avatus]] date to DR 1369–1388; those sources instead place Avatus's later invasion in the Enst valley in the early DR 1420s. Candidate: `After a few decades of uneasy peace, Avatus invaded Sembara in the early DR 1420s and occupied much of the Enst valley, leaving Addermarch increasingly isolated.`
+- [ ] **Warning — content.internal_conflict:** The visible account says Addermarch was not heavily affected by the DR 1720 undead attacks, while the hidden discussion says the realm's experience is not established and presents several possible alternatives. Candidate: `When the Undead Attacks in Sembara began in DR 1720, the extent of the fighting in Addermarch was not recorded, but the devastation in the Enst valley prompted renewed fortification and watchfulness.`
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden Southern Borderlands comment beginning “Also mid-Atlantic Appalachians but very wooded” substantially repeats the visible account of the [[Shadowmere]], [[Mournebrook]], rising eastern hills, and border defenses. Candidate: remove that comment after retaining only its distinct unresolved guidance as `%% Unresolved: decide whether to add the Mournebrook's mapped course and Tygate's timber-and-charcoal trade to the public geography. %%`
 %%^End%%

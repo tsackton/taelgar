@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>", partOf: ""}
 tags: [group, status/gameupdate/dufr]
 typeOf: faculty

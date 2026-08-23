@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:58:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
@@ -102,21 +102,19 @@ Temporal coverage: a late-1748 to DR 1749 snapshot; the visible biography is gen
 %%^Lint%%
 ## Taelgar note lint
 
-### Editorial assessment
-**Underdeveloped**. The visible note establishes Kaeso's connection to [[Kenzo]], his former Society membership, and his secret affiliation, but it omits the anti-chalyte conviction that drives his recorded role in DR 1748 and leaves his usable appearance, manner, and personal loyalties entirely in hidden planning. The smallest useful scope is one source-grounded paragraph on his opposition to chalyte exploitation and one bounded, human-approved public characterization drawn from the existing shared comment.
-
 ### Applied changes
-- Rechecked the temporal record and clarified that campaign evidence places Kaeso in Hamri from October DR 1748 through at least May DR 1749.
+- None.
 
 ### Validated judgments
-- Matching local-only DM notes support retaining the positive `dm_notes` attestation; no private content was copied into this report. Confirmed matches: [[_DM_/Timelines/NPC Travels]], [[_DM_/Timelines/Old Timeline (Table)]], [[_DM_/Timelines/Unified Timeline From OneNote]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Hralgar (Session 62- )/Session 62/Session 62 1]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Calendar Eras - DuFr Player Background]], [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]], [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 124 - DM Notes]], [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]], and [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Time Skip - Bullet Points]].
-- Non-check status disposition: status/cleanup/metadata and status/cleanup/text are not assessable because they record human editorial intent; neither was changed.
-- The later Mawar record corroborates the existing Hamri whereabouts; the scrying scenes do not support a new exact location row without human interpretation.
+- The existing `POV: 1749` and `povNotes` remain supported: the visible biography is general, while campaign and whereabouts evidence place Kaeso in Hamri from October DR 1748 into DR 1749.
+- Non-check status disposition: `status/cleanup/text` is supported by the unresolved hidden characterization and source-grounded coverage work; `status/cleanup/metadata` is not assessable because it records human cleanup intent and the current lint found no deterministic metadata defect. Neither tag was changed.
+
+### Editorial assessment
+**Underdeveloped**. Kaeso is an important mentor and recurring ally, but the visible reference article omits the anti-chalyte conviction that drives his established DR 1748 role. The smallest useful scope is one source-grounded paragraph explaining that position; the hidden public-safe characterization can then be considered as a separate bounded addition.
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** The visible biography identifies Kaeso as Kenzo's mentor and a former Society member but omits the central anti-chalyte position established in [[Session 48 (DuFr)]]. Copy-ready candidate: `In DR 1748, Kaeso warned the [[Dunmar Fellowship]] that the Auratan family's control of the chalyte trade had given it dangerous influence, and that overuse of [[Chalyte|chalyte]] could burn away a user's soul.`
-- [ ] **Suggestion — editorial.public_material_candidate:** The hidden `One Note` comment's `Appearance`, `Mannerisms`, and `Motives` sections contain a coherent public-safe characterization that is absent from the article. Copy-ready candidate: `In his late fifties, Kaeso has a lively, lined face, scraggly black hair, a few days' stubble, olive skin, and plain dress. He speaks emphatically with his hands and remains fiercely loyal to [[Kenzo]], wanting above all to see his former student thrive. He distrusts the academic establishment's arrogance and passivity, especially its unwillingness to confront the harms of the chalyte trade.` Retain the remaining hidden material for human review rather than promoting it automatically.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent Kaeso name entry remains status: proposed with the pronunciation KAI-soh. Review the recorded Chardonian analogue and the KAY-zoh alternative, then accept an actual pronunciation in frontmatter or correct the persistent entry.
-
+- [ ] **Warning — coverage.established_fact_missing:** [[Session 48 (DuFr)]] establishes that Kaeso opposed the Auratan family's control of the chalyte trade and believed chalyte abuse could burn away a user's soul, but this central motivation is absent from the visible biography. Copy-ready candidate: `In DR 1748, Kaeso warned the [[Dunmar Fellowship]] that the Auratan family's control of the chalyte trade had given it dangerous influence, and that overuse of [[Chalyte|chalyte]] could burn away a user's soul.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden `One Note` comment contains a coherent public-safe characterization—Kaeso's appearance, emphatic hand gestures, loyalty to [[Kenzo]], and opposition to institutional passivity—that is absent from the visible article, alongside private mechanics that should remain hidden. Copy-ready candidate: `In his late fifties, Kaeso has a lively, lined face, scraggly black hair, a few days' stubble, olive skin, and plain dress. He speaks emphatically with his hands and remains fiercely loyal to [[Kenzo]], wanting above all to see his former student thrive. He distrusts the academic establishment's arrogance and passivity, especially its unwillingness to confront the harms of the chalyte trade.` Retain the private mechanics and unresolved planning in the comment unless a human reorganizes them.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent Kaeso name entry remains `status: proposed` with `KAI-soh`, while its notes identify `KAY-zoh` as an alternative under the Chardonian analogue. Human resolution is required: accept one pronunciation by adding it to frontmatter and changing the entry to `status: documented`, or revise the proposal and its derivation.
 %%^End%%

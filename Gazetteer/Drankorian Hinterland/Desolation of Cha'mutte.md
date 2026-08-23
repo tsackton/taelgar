@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/errors, status/check/lint]
 typeOf: region
 name: "Desolation of Cha'mutte"
@@ -49,20 +49,20 @@ Temporal coverage: broadly modern geography with historical origins in the DR 10
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- No additional validated judgments.
+
 ### Editorial assessment
-- **Underdeveloped** — The note's central identity is unresolved: it treats several regions with materially different origins and conditions as one magically corrupted area, while its own comments question the umbrella name, scope, and boundaries.
+- **Underdeveloped** — The note's central identity remains unresolved: it treats several regions with materially different origins and conditions as one magically corrupted area, while the intended scope of the umbrella name and its eastern and southern boundaries have not been established.
 
-- [ ] **Error — correctness.cross_note_conflict:** Reconcile the opening description with the established origins of the component regions. [[Garamjala Desert]] describes a post-[[Great War]] uplift and rain-shadow desert rather than general magical corruption; [[Nashtkar]] is only patchily haunted along the plague's western edge; and [[Plaguelands]] and [[Isingue]] place the heaviest effects of [[Cha'mutte's Plague]] around Isingue. If the broad umbrella is retained, a source-aligned replacement is: "The name 'Desolation of Cha'mutte' is used broadly for several devastated or inhospitable regions between Drankor and Isingue, but those regions have different origins and conditions. The lands around [[Drankor]] were cursed during the [[First Plague]]; the [[Garamjala Desert]] formed after the [[Great War]] through uplift and rain shadow; the [[Nashtkar]] is arid terrain unevenly haunted where [[Cha'mutte's Plague]] struck; and the [[Plaguelands]] around [[Isingue]] bear the plague's strongest lingering magical effects."
-- [ ] **Suggestion — editorial.note_underdeveloped:** Decide whether this note should be restricted to the cursed lands around Drankor or should define a broad, possibly imprecise in-world umbrella term. Then state which named regions belong to it and where its boundaries lie; those scope and boundary decisions are not yet established by the vault.
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Session 24]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa Redux (Sessions 17-18)/Session 17]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/History of Blasted Plains]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Arcs]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Isingue Arc Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Plaguelands Adventure]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
+### Open findings
+- [ ] **Error — correctness.cross_note_conflict:** The opening says the entire Desolation is magically corrupted by the [[First Plague]] and [[Great War]], but [[Garamjala Desert]] describes a postwar uplift and rain-shadow desert, [[Nashtkar]] describes plague effects as uneven and patchy, and [[Plaguelands]] describes heavy plague effects around [[Isingue]]. If the broad umbrella is retained, replace the opening with: "The name 'Desolation of Cha'mutte' is used broadly for several devastated or inhospitable regions between [[Drankor]] and [[Isingue]], but those regions have different origins and conditions. The lands around Drankor are tied to the First Plague; the Garamjala Desert formed after the Great War through uplift and rain shadow; the Nashtkar is arid terrain only unevenly haunted where [[Cha'mutte's Plague]] reached its western edge; and the Plaguelands around Isingue were heavily affected by that plague."
+- [ ] **Suggestion — editorial.note_underdeveloped:** Make a bounded human choice between restricting this note to the cursed lands around [[Drankor]] or defining the Desolation as a broad, possibly imprecise in-world umbrella. Then state which named regions belong to it and give the smallest supported boundary description; the intended scope and boundaries are not yet established by the vault.
 %%^End%%

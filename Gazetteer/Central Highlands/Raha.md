@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
@@ -80,7 +80,16 @@ Temporal coverage: a DR 1747 village snapshot centered on the Silver Tempests' v
 %%^End%%
 
 %%^Lint%%
-- [ ] **Warning — metadata.map_location_missing:** Add Raha's verified coordinates to the world map locator; the vault establishes its relative location east of Chardon and within the Highveil Forest, but not an exact map position.
-- [ ] **Suggestion — editorial.public_material_candidate:** Decide whether to adopt the public-safe religious explanation currently preserved in a shared comment. Copy-ready candidate: "Raha follows a local form of [[Northern Folk Religions|Northern folk religion]] shaped by Drankorian and Chardonian influence. Its people make sacrifices to local gods called tanshi, drawing them to the village to carry messages to greater, less clearly defined divine powers."
+## Taelgar note lint
 
+### Applied changes
+- None.
+
+### Validated judgments
+- The DR 1747 article viewpoint remains supported by the Great Library campaign record of Hakar's leadership during the Silver Tempests' visit.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** Raha's map metadata still lacks a verified world-map locator. The article and Great Library record establish its relative location in the Highveil Forest east of Chardon, but they do not supply an exact coordinate. Once the coordinate is verified, set the existing `locator` value to that coordinate.
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared religious-practice comment contains a coherent public-safe explanation of the village's altar and sacrifice practices that would materially improve the visible account. Copy-ready candidate: "Raha follows a local form of [[Northern Folk Religions|Northern folk religion]] shaped by Drankorian and Chardonian influence. Its people make sacrifices to local gods called tanshi, drawing them to the village to carry messages to greater, less clearly defined divine powers."
 %%^End%%

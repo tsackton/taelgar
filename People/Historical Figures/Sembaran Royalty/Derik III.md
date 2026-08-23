@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:58:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/review, testcase, status/check/lint]
 species: human
 ancestry: Sembaran
@@ -47,19 +47,21 @@ Temporal coverage: a modern retrospective summary of Derik III's life and reign 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- None.
+
+### Validated judgments
+- status/cleanup/metadata remains supported by the note's unresolved metadata comment.
+- status/review remains supported by the unresolved historical and metadata work.
+- The shared comment is an editorial source pointer and planning note; it was retained unchanged.
+- Later changes in [[Addermarch]] and [[Timeline of Sembaran History]] corroborate Derik III's broad importance but retain unresolved framing and do not support an automatic article update.
+
 ### Editorial assessment
 **Underdeveloped**. The visible note identifies Derik III's reign, reputation, marriages, and succession, but it omits two established parts of his military career: the pre-reign campaign against [[Vimfrost]] and his death fighting near [[Valarin]] during the [[Bloodlust Wars]]. Separately, the vault still lacks an adopted, concrete account of what Derik III personally did during the [[Great War]] to earn his reputation as a legendary commander and savior. The smallest useful scope is a concise sourced addition covering the established prewar and postwar facts, plus one bounded account of his Great War command once that material is invented or adopted.
 
-### Applied changes
-- Added required `knownTo: []`, persistent regnal-name metadata, and a modern retrospective temporal frame.
-
-### Validated judgments
-- `status/cleanup/metadata` is supported by the note's own unresolved metadata comment.
-- `status/review` is supported by the same unresolved historical and metadata work.
-- The shared comment is an editorial source pointer and planning note, not public canon.
-- Confirmed local-only matches are listed for review without disclosing their contents: [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]] and [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Northern Green Sea - DM Notes]]. Their presence does not by itself justify changing `dm_notes: none`.
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-- [ ] **Warning — coverage.established_fact_missing:** [[Vimfrost's War]] establishes Derik III's defining pre-reign victory, while [[Hobgoblin Movements After Cha'Mutte]] and [[Timeline of Sembaran History]] place his death in fighting near [[Valarin]] during the [[Bloodlust Wars]], with the exact wider war chronology still under review. Copy-ready addition: `Before taking the Sembaran throne, Derik III helped lead the allied forces of Sembara, Vostok, Kaldhalla, and their dwarven and stoneborn allies to defeat the dragon [[Vimfrost]]; the campaign also saw part of the ancient [[Grastenvakt|Gråstenvakt]] rediscovered and repaired. In DR 1549, he was killed fighting the Iron Fang hobgoblins near [[Valarin]] during the [[Bloodlust Wars]].`
-- [ ] **Suggestion — editorial.note_underdeveloped:** Develop the specific actions and command decisions during the [[Great War]] that earned Derik III his visible reputation as a legendary commander and savior. The adopted [[Great War]] and [[Battle of Urlich Pass]] notes establish the conflict, Sembaran participation, and the outcome, but not Derik III's individual role; the established prewar and postwar endpoints above do not supply this missing transition.
+- [ ] **Warning — coverage.established_fact_missing:** [[Vimfrost's War]] establishes Derik III's defining pre-reign victory, while [[Hobgoblin Movements After Cha'Mutte]] and [[Timeline of Sembaran History]] place his death in fighting near [[Valarin]] in DR 1549 during the conflict usually called the [[Bloodlust Wars]], whose exact wider chronology remains under review. Copy-ready candidate: Before taking the Sembaran throne, Derik III helped lead the combined human, dwarven, stoneborn, and frost-giant forces that defeated [[Vimfrost]]. During the campaign, part of the ancient [[Grastenvakt|Gråstenvakt]] was rediscovered and repaired. In DR 1549, he died fighting the [[Iron Fang]] near [[Valarin]] during the conflict usually called the [[Bloodlust Wars]].
+- [ ] **Suggestion — editorial.note_underdeveloped:** Develop the specific actions and command decisions during the [[Great War]] that earned Derik III his visible reputation as a legendary commander and savior. The adopted [[Great War]] and [[Battle of Urlich Pass]] notes establish the conflict, Sembaran participation, and the outcome, but not Derik III's individual role; the established prewar and postwar endpoints above do not supply this missing central dimension.
 %%^End%%

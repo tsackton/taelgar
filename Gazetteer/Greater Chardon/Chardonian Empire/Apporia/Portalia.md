@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: realm
 typeOfAlias: province
@@ -26,7 +26,7 @@ Portalia is centered around the [[Old Chardon Canal]], which is the primary econ
 
 Other towns and cities in Portalia include [[Pergia]], on the southern coast; and [[Artevus]], a minor fishing village near the northern border of the province. The Chardonian Navy maintains a number of fortifications to protect the canal, the most significant being [[Fort Varian]] on the north side, and [[Fort Ameli]] on the south side. 
 
-Unlike the other Apporian provinces, Portalia is closely governed from Chardon, and has limited automony, largely because of the importance of the canal. 
+Unlike the other Apporian provinces, Portalia is closely governed from Chardon, and has limited autonomy, largely because of the importance of the canal.
 
 %%^Metadata:names:v1%%
 - {name: Portalia, role: primary, language: Chardonian, pronunciation: por-TAH-lee-ah, meaning: passage or crossing, notes: "the name dervies from the Drankorian word for passage or crossing", status: documented}
