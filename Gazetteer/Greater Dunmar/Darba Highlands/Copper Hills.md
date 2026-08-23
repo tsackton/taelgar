@@ -18,6 +18,8 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% TIM: there is significant adventure material in my DM notes, including a haunted tower you never discovered. not sure how much is actually useful but noting for the record %%
+
 ![[copper-hills-landscape.jpg|right|450]]The Copper Hills are a rugged, arid region of dry valleys and rocky, sun-baked slopes rising gently from the plains, between [[Tokra]] and [[Darba]]. Sparse vegetation clings to the hillsides, with hardy desert grasses and low, twisted trees sheltered in shaded ravines. Intense monsoonal rains briefly turn dusty riverbeds into muddy torrents, bringing a short-lived burst of green and wildflowers to the hills before the land fades back to browns and grays. This area was once famous for copper mining, but is largely abandoned now. The abandoned mining village of [[Vandar]] is typical of the ruined towns that can be found among the hills. 
 
 While several seasonal and intermittent rivers flow north from the Copper Hills, the only perennial river with the Copper Hills as its source is the [[Sukal]], which flows east to its confluence with the [[Hara]]. 

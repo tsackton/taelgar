@@ -1,342 +1,686 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "sourcePath": "Background/Languages.md",
   "sourceSha256": "982a25d5aa7e2486c6662d6bd4c34e9ff36745037dc19006ed1797ecdee1a9be",
+  "families": [
+    {
+      "entryType": "family",
+      "family": "Drankorian",
+      "lookupTerms": [
+        "Drankorian Language Family"
+      ],
+      "guidance": {
+        "kind": "family",
+        "mappingStatus": "defined",
+        "analogueText": "Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations",
+        "sourceHeading": "Drankorian Language Family",
+        "sourceLine": 50
+      },
+      "sourceHeading": "Drankorian Language Family",
+      "sourceHeadingLine": 43
+    },
+    {
+      "entryType": "family",
+      "family": "Northros",
+      "lookupTerms": [
+        "Northros",
+        "Northos",
+        "Northros Language Family"
+      ],
+      "guidance": {
+        "kind": "family",
+        "mappingStatus": "defined",
+        "analogueText": "Northros languages are based on Semitic languages",
+        "sourceHeading": "Northros Language Family",
+        "sourceLine": 91
+      },
+      "sourceHeading": "Northros Language Family",
+      "sourceHeadingLine": 88
+    },
+    {
+      "entryType": "family",
+      "family": "Eastros",
+      "lookupTerms": [
+        "Eastros Language Family"
+      ],
+      "guidance": {
+        "kind": "family",
+        "mappingStatus": "defined",
+        "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+        "sourceHeading": "Eastros Language Family",
+        "sourceLine": 130
+      },
+      "sourceHeading": "Eastros Language Family",
+      "sourceHeadingLine": 127
+    }
+  ],
   "languages": [
     {
+      "entryType": "language",
       "language": "Common",
       "lookupTerms": [
         "Common"
       ],
-      "analogues": [
-        "Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world.",
-      "status": "defined",
       "sourceHeading": "Common",
-      "sourceLine": 28
+      "sourceHeadingLine": 25,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world.",
+        "sourceHeading": "Common",
+        "sourceLine": 28
+      }
     },
     {
+      "entryType": "language",
       "language": "Eastros",
       "lookupTerms": [
         "Eastros"
       ],
-      "analogues": [
-        "Balto-Slavic."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Balto-Slavic.",
-      "status": "defined",
       "sourceHeading": "Eastros",
-      "sourceLine": 34
+      "sourceHeadingLine": 31,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Balto-Slavic.",
+        "sourceHeading": "Eastros",
+        "sourceLine": 34
+      }
     },
     {
+      "entryType": "language",
       "language": "Drankorian",
       "lookupTerms": [
         "Drankorian",
         "Drankor"
       ],
-      "analogues": [
-        "Classical Latin; occasional Classical Greek loan words"
+      "family": "Drankorian",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations",
+          "sourceHeading": "Drankorian Language Family",
+          "sourceLine": 50,
+          "source": "Drankorian"
+        }
       ],
-      "analogueText": "Classical Latin; occasional Classical Greek loan words",
-      "status": "defined",
       "sourceHeading": "Drankorian",
-      "sourceLine": 54
+      "sourceHeadingLine": 51,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Classical Latin; occasional Classical Greek loan words",
+        "sourceHeading": "Drankorian",
+        "sourceLine": 54
+      }
     },
     {
+      "entryType": "language",
       "language": "Cymean",
       "lookupTerms": [
         "Cymean",
         "Cymea"
       ],
-      "analogues": [
-        "Spanish or Portugese, but with some Italian."
+      "family": "Drankorian",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations",
+          "sourceHeading": "Drankorian Language Family",
+          "sourceLine": 50,
+          "source": "Drankorian"
+        }
       ],
-      "analogueText": "Spanish or Portugese, but with some Italian.",
-      "status": "defined",
       "sourceHeading": "Cymean",
-      "sourceLine": 59
+      "sourceHeadingLine": 56,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Spanish or Portugese, but with some Italian.",
+        "sourceHeading": "Cymean",
+        "sourceLine": 59
+      }
     },
     {
+      "entryType": "language",
       "language": "Isinguese",
       "lookupTerms": [
         "Isinguese",
         "Isingue"
       ],
-      "analogues": [
-        "Spanish or French, more French in the northern areas, Spanish to the south"
+      "family": "Drankorian",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations",
+          "sourceHeading": "Drankorian Language Family",
+          "sourceLine": 50,
+          "source": "Drankorian"
+        }
       ],
-      "analogueText": "Spanish or French, more French in the northern areas, Spanish to the south",
-      "status": "defined",
       "sourceHeading": "Isinguese",
-      "sourceLine": 65
+      "sourceHeadingLine": 62,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Spanish or French, more French in the northern areas, Spanish to the south",
+        "sourceHeading": "Isinguese",
+        "sourceLine": 65
+      }
     },
     {
+      "entryType": "language",
       "language": "Chardonian",
       "lookupTerms": [
         "Chardonian",
         "Chardonians",
         "Chardon"
       ],
-      "analogues": [
-        "Italian or Latin, with occasional loan words from Classic Greek. Chardon itself tends to be more Latinate, in imitation of Drankor, whereas other dialects are more Italian."
+      "family": "Drankorian",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations",
+          "sourceHeading": "Drankorian Language Family",
+          "sourceLine": 50,
+          "source": "Drankorian"
+        }
       ],
-      "analogueText": "Italian or Latin, with occasional loan words from Classic Greek. Chardon itself tends to be more Latinate, in imitation of Drankor, whereas other dialects are more Italian.",
-      "status": "defined",
       "sourceHeading": "Chardonian",
-      "sourceLine": 71
+      "sourceHeadingLine": 68,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Italian or Latin, with occasional loan words from Classic Greek. Chardon itself tends to be more Latinate, in imitation of Drankor, whereas other dialects are more Italian.",
+        "sourceHeading": "Chardonian",
+        "sourceLine": 71
+      }
     },
     {
+      "entryType": "language",
       "language": "Illorian",
       "lookupTerms": [
         "Illorian",
         "Illoria"
       ],
-      "analogues": [
-        "Not defined. %% Likely Italian%%"
+      "family": "Drankorian",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations",
+          "sourceHeading": "Drankorian Language Family",
+          "sourceLine": 50,
+          "source": "Drankorian"
+        }
       ],
-      "analogueText": "Not defined. %% Likely Italian%%",
-      "status": "undetermined",
       "sourceHeading": "Illoria",
-      "sourceLine": 79
+      "sourceHeadingLine": 76,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "Not defined. %% Likely Italian%%",
+        "sourceHeading": "Illoria",
+        "sourceLine": 79
+      }
     },
     {
+      "entryType": "language",
       "language": "Old Northros",
       "lookupTerms": [
         "Old Northros"
       ],
-      "analogues": [
-        "Semitic languages generally"
+      "family": "Northros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Northros languages are based on Semitic languages",
+          "sourceHeading": "Northros Language Family",
+          "sourceLine": 91,
+          "source": "Northros"
+        }
       ],
-      "analogueText": "Semitic languages generally",
-      "status": "defined",
       "sourceHeading": "Old Northros",
-      "sourceLine": 98
+      "sourceHeadingLine": 95,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Semitic languages generally",
+        "sourceHeading": "Old Northros",
+        "sourceLine": 98
+      }
     },
     {
+      "entryType": "language",
       "language": "Old Zimkovan",
       "lookupTerms": [
         "Old Zimkovan"
       ],
-      "analogues": [
-        "Maltese"
+      "family": "Northros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Northros languages are based on Semitic languages",
+          "sourceHeading": "Northros Language Family",
+          "sourceLine": 91,
+          "source": "Northros"
+        }
       ],
-      "analogueText": "Maltese",
-      "status": "defined",
       "sourceHeading": "Old Zimkovan",
-      "sourceLine": 104
+      "sourceHeadingLine": 101,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Maltese",
+        "sourceHeading": "Old Zimkovan",
+        "sourceLine": 104
+      }
     },
     {
+      "entryType": "language",
       "language": "Mawaran",
       "lookupTerms": [
         "Mawaran",
+        "Mawarian",
         "Mawakel"
       ],
-      "analogues": [
-        "Arabic"
+      "family": "Northros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Northros languages are based on Semitic languages",
+          "sourceHeading": "Northros Language Family",
+          "sourceLine": 91,
+          "source": "Northros"
+        }
       ],
-      "analogueText": "Arabic",
-      "status": "defined",
       "sourceHeading": "Mawaran",
-      "sourceLine": 109
+      "sourceHeadingLine": 106,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Arabic",
+        "sourceHeading": "Mawaran",
+        "sourceLine": 109
+      }
     },
     {
+      "entryType": "language",
       "language": "Deno'qai",
       "lookupTerms": [
         "Deno'qai"
       ],
-      "analogues": [
-        "Hebrew or Arabic"
+      "family": "Northros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Northros languages are based on Semitic languages",
+          "sourceHeading": "Northros Language Family",
+          "sourceLine": 91,
+          "source": "Northros"
+        }
       ],
-      "analogueText": "Hebrew or Arabic",
-      "status": "defined",
       "sourceHeading": "Deno'qai",
-      "sourceLine": 114
+      "sourceHeadingLine": 111,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Hebrew or Arabic",
+        "sourceHeading": "Deno'qai",
+        "sourceLine": 114
+      }
     },
     {
+      "entryType": "language",
       "language": "Vargaldi",
       "lookupTerms": [
         "Vargaldi"
       ],
-      "analogues": [
-        "Not defined, although many names are Slavic reflecting Eastros influences."
+      "family": "Northros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Northros languages are based on Semitic languages",
+          "sourceHeading": "Northros Language Family",
+          "sourceLine": 91,
+          "source": "Northros"
+        }
       ],
-      "analogueText": "Not defined, although many names are Slavic reflecting Eastros influences.",
-      "status": "undetermined",
       "sourceHeading": "Vargaldi",
-      "sourceLine": 119
+      "sourceHeadingLine": 116,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "Not defined, although many names are Slavic reflecting Eastros influences.",
+        "sourceHeading": "Vargaldi",
+        "sourceLine": 119
+      }
     },
     {
+      "entryType": "language",
       "language": "Ancient Eastros",
       "lookupTerms": [
         "Ancient Eastros"
       ],
-      "analogues": [
-        "Balto-Slavic"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "Balto-Slavic",
-      "status": "defined",
       "sourceHeading": "Ancient Eastros",
-      "sourceLine": 134
+      "sourceHeadingLine": 131,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Balto-Slavic",
+        "sourceHeading": "Ancient Eastros",
+        "sourceLine": 134
+      }
     },
     {
+      "entryType": "language",
       "language": "Skaegish",
       "lookupTerms": [
         "Skaegish",
         "Skaer"
       ],
-      "analogues": [
-        "Finnish or Norwegian, with some Swedish influences"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "Finnish or Norwegian, with some Swedish influences",
-      "status": "defined",
       "sourceHeading": "Skaegish",
-      "sourceLine": 139
+      "sourceHeadingLine": 136,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Finnish or Norwegian, with some Swedish influences",
+        "sourceHeading": "Skaegish",
+        "sourceLine": 139
+      }
     },
     {
+      "entryType": "language",
       "language": "Urksan",
       "lookupTerms": [
         "Urksan",
         "Urskan",
         "Ursk"
       ],
-      "analogues": [
-        "Russian"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "Russian",
-      "status": "defined",
       "sourceHeading": "Urksan",
-      "sourceLine": 144
+      "sourceHeadingLine": 141,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Russian",
+        "sourceHeading": "Urksan",
+        "sourceLine": 144
+      }
     },
     {
+      "entryType": "language",
       "language": "Old Tollish",
       "lookupTerms": [
         "Old Tollish"
       ],
-      "analogues": [
-        "Balto-Slavic"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "Balto-Slavic",
-      "status": "defined",
       "sourceHeading": "Old Tollish",
-      "sourceLine": 149
+      "sourceHeadingLine": 146,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Balto-Slavic",
+        "sourceHeading": "Old Tollish",
+        "sourceLine": 149
+      }
     },
     {
+      "entryType": "language",
       "language": "Zimkovan",
       "lookupTerms": [
         "Zimkovan",
         "Zimkova",
         "Zimka"
       ],
-      "analogues": [
-        "Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan)."
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan).",
-      "status": "defined",
       "sourceHeading": "Zimkovan",
-      "sourceLine": 154
+      "sourceHeadingLine": 151,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan).",
+        "sourceHeading": "Zimkovan",
+        "sourceLine": 154
+      }
     },
     {
+      "entryType": "language",
       "language": "Sembaran",
       "lookupTerms": [
         "Sembaran",
         "Sembara"
       ],
-      "analogues": [
-        "French (more prevalent in the South) and English (more prevalent in the north and Addermarch)"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "French (more prevalent in the South) and English (more prevalent in the north and Addermarch)",
-      "status": "defined",
       "sourceHeading": "Sembaran",
-      "sourceLine": 159
+      "sourceHeadingLine": 156,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "French (more prevalent in the South) and English (more prevalent in the north and Addermarch)",
+        "sourceHeading": "Sembaran",
+        "sourceLine": 159
+      }
     },
     {
+      "entryType": "language",
       "language": "Addermarian",
       "lookupTerms": [
-        "Addermarian"
+        "Addermarian",
+        "Addermarians",
+        "Addermarch"
       ],
-      "analogues": [
-        "French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan",
-      "status": "defined",
       "sourceHeading": "Addermarian",
-      "sourceLine": 166
+      "sourceHeadingLine": 163,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "French (more prevalent in the South) and English (more prevalent in the north and Addermarch), with some Welsh influence from Tyrwinghan",
+        "sourceHeading": "Addermarian",
+        "sourceLine": 166
+      }
     },
     {
+      "entryType": "language",
       "language": "Tollish",
       "lookupTerms": [
         "Tollish",
         "Tollen",
         "Tollender"
       ],
-      "analogues": [
-        "English, with some Germanic or Slavic loan words"
+      "family": "Eastros",
+      "fallbackGuidance": [
+        {
+          "kind": "family",
+          "mappingStatus": "defined",
+          "analogueText": "Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages",
+          "sourceHeading": "Eastros Language Family",
+          "sourceLine": 130,
+          "source": "Eastros"
+        }
       ],
-      "analogueText": "English, with some Germanic or Slavic loan words",
-      "status": "defined",
       "sourceHeading": "Tollish",
-      "sourceLine": 172
+      "sourceHeadingLine": 169,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "English, with some Germanic or Slavic loan words",
+        "sourceHeading": "Tollish",
+        "sourceLine": 172
+      }
     },
     {
+      "entryType": "language",
       "language": "Dunmari",
       "lookupTerms": [
         "Dunmari",
         "Dunmar"
       ],
-      "analogues": [
-        "Hindi or other Indo-Iranian (Persian)"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Hindi or other Indo-Iranian (Persian)",
-      "status": "defined",
       "sourceHeading": "Dunmari",
-      "sourceLine": 186
+      "sourceHeadingLine": 183,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Hindi or other Indo-Iranian (Persian)",
+        "sourceHeading": "Dunmari",
+        "sourceLine": 186
+      }
     },
     {
+      "entryType": "language",
       "language": "Vosic",
       "lookupTerms": [
         "Vosic",
         "Vos",
         "Vostok"
       ],
-      "analogues": [
-        "Undetermined"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Undetermined",
-      "status": "undetermined",
       "sourceHeading": "Vosic",
-      "sourceLine": 193
+      "sourceHeadingLine": 190,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "Undetermined",
+        "sourceHeading": "Vosic",
+        "sourceLine": 193
+      }
     },
     {
+      "entryType": "language",
       "language": "Tyrwinghan",
       "lookupTerms": [
         "Tyrwinghan",
         "Tyrwinghans",
         "Tyrwingha"
       ],
-      "analogues": [
-        "Welsh"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Welsh",
-      "status": "defined",
       "sourceHeading": "Tyrwinghan",
-      "sourceLine": 200
+      "sourceHeadingLine": 197,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Welsh",
+        "sourceHeading": "Tyrwinghan",
+        "sourceLine": 200
+      }
     },
     {
+      "entryType": "language",
       "language": "Hkaran",
       "lookupTerms": [
         "Hkaran",
         "Hkar"
       ],
-      "analogues": [
-        "Indo-European, broadly"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Indo-European, broadly",
-      "status": "defined",
       "sourceHeading": "Hkaran",
-      "sourceLine": 205
+      "sourceHeadingLine": 202,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Indo-European, broadly",
+        "sourceHeading": "Hkaran",
+        "sourceLine": 205
+      }
     },
     {
+      "entryType": "language",
       "language": "Dwarvish",
       "lookupTerms": [
         "Dwarvish",
@@ -344,15 +688,21 @@
         "Dwarf",
         "Dwarves"
       ],
-      "analogues": [
-        "Tolkien Dwarvish"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Tolkien Dwarvish",
-      "status": "defined",
       "sourceHeading": "Dwarvish",
-      "sourceLine": 214
+      "sourceHeadingLine": 211,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Tolkien Dwarvish",
+        "sourceHeading": "Dwarvish",
+        "sourceLine": 214
+      }
     },
     {
+      "entryType": "language",
       "language": "Elvish",
       "lookupTerms": [
         "Elvish",
@@ -360,57 +710,103 @@
         "Elf",
         "Elves"
       ],
-      "analogues": [
-        "Tolkien Elvish"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Tolkien Elvish",
-      "status": "defined",
       "sourceHeading": "Elvish",
-      "sourceLine": 222
+      "sourceHeadingLine": 219,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Tolkien Elvish",
+        "sourceHeading": "Elvish",
+        "sourceLine": 222
+      }
     },
     {
+      "entryType": "language",
       "language": "Lizardling",
       "lookupTerms": [
         "Lizardling",
         "Lizardfolk"
       ],
-      "analogues": [
-        "Basque"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Basque",
-      "status": "defined",
       "sourceHeading": "Lizardling",
-      "sourceLine": 230
+      "sourceHeadingLine": 227,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Basque",
+        "sourceHeading": "Lizardling",
+        "sourceLine": 230
+      }
     },
     {
+      "entryType": "language",
       "language": "Stoneborn",
       "lookupTerms": [
         "Stoneborn"
       ],
-      "analogues": [
-        "Xhosan"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Xhosan",
-      "status": "defined",
       "sourceHeading": "Stoneborn",
-      "sourceLine": 236
+      "sourceHeadingLine": 233,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Xhosan",
+        "sourceHeading": "Stoneborn",
+        "sourceLine": 236
+      }
     },
     {
+      "entryType": "language",
       "language": "Orcish",
       "lookupTerms": [
         "Orcish",
         "Orc",
         "Orcs"
       ],
-      "analogues": [
-        "Turkic"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Turkic",
-      "status": "defined",
       "sourceHeading": "Orcish",
-      "sourceLine": 241
+      "sourceHeadingLine": 238,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Turkic",
+        "sourceHeading": "Orcish",
+        "sourceLine": 241
+      }
     },
     {
+      "entryType": "language",
+      "language": "Free Orcish",
+      "lookupTerms": [
+        "Free Orcish",
+        "Free Orcs",
+        "People of the Rainbow"
+      ],
+      "parentLanguage": "Orcish",
+      "fallbackGuidance": [
+        {
+          "kind": "parent_language",
+          "mappingStatus": "defined",
+          "analogueText": "Turkic",
+          "sourceHeading": "Orcish",
+          "sourceLine": 241,
+          "source": "Orcish"
+        }
+      ],
+      "sourceHeading": "Free Orcish",
+      "sourceHeadingLine": 245
+    },
+    {
+      "entryType": "language",
       "language": "Goblin",
       "lookupTerms": [
         "Goblin",
@@ -419,43 +815,61 @@
         "Hobgoblins",
         "Katonylev"
       ],
-      "analogues": [
-        "Katonylev is based on Hungarian. Other hobgoblin languages may have diverse real world mappings."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Katonylev is based on Hungarian. Other hobgoblin languages may have diverse real world mappings.",
-      "status": "provisional",
       "sourceHeading": "Goblin",
-      "sourceLine": 253
+      "sourceHeadingLine": 250,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "provisional",
+        "analogueText": "Katonylev is based on Hungarian. Other hobgoblin languages may have diverse real world mappings.",
+        "sourceHeading": "Goblin",
+        "sourceLine": 253
+      }
     },
     {
+      "entryType": "language",
       "language": "Halfling",
       "lookupTerms": [
         "Halfling",
         "Halflings"
       ],
-      "analogues": [
-        "Igbo, but may change or be diverse"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Igbo, but may change or be diverse",
-      "status": "provisional",
       "sourceHeading": "Halfling",
-      "sourceLine": 259
+      "sourceHeadingLine": 256,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "provisional",
+        "analogueText": "Igbo, but may change or be diverse",
+        "sourceHeading": "Halfling",
+        "sourceLine": 259
+      }
     },
     {
+      "entryType": "language",
       "language": "Centaur",
       "lookupTerms": [
         "Centaur",
         "Centaurs"
       ],
-      "analogues": [
-        "Diverse, but names often have a classical Greek element"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Diverse, but names often have a classical Greek element",
-      "status": "provisional",
       "sourceHeading": "Centaur",
-      "sourceLine": 270
+      "sourceHeadingLine": 267,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "provisional",
+        "analogueText": "Diverse, but names often have a classical Greek element",
+        "sourceHeading": "Centaur",
+        "sourceLine": 270
+      }
     },
     {
+      "entryType": "language",
       "language": "Giant",
       "lookupTerms": [
         "Giant",
@@ -463,70 +877,100 @@
         "Titan",
         "Titans"
       ],
-      "analogues": [
-        "Old Norse"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Old Norse",
-      "status": "defined",
       "sourceHeading": "Giant",
-      "sourceLine": 275
+      "sourceHeadingLine": 272,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Old Norse",
+        "sourceHeading": "Giant",
+        "sourceLine": 275
+      }
     },
     {
+      "entryType": "language",
       "language": "Kenku",
       "lookupTerms": [
         "Kenku"
       ],
-      "analogues": [
-        "Sioux"
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Sioux",
-      "status": "defined",
       "sourceHeading": "Kenku",
-      "sourceLine": 284
+      "sourceHeadingLine": 281,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "defined",
+        "analogueText": "Sioux",
+        "sourceHeading": "Kenku",
+        "sourceLine": 284
+      }
     },
     {
+      "entryType": "language",
       "language": "Merfolk",
       "lookupTerms": [
         "Merfolk"
       ],
-      "analogues": [
-        "None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables.",
-      "status": "undetermined",
       "sourceHeading": "Merfolk",
-      "sourceLine": 289
+      "sourceHeadingLine": 286,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables.",
+        "sourceHeading": "Merfolk",
+        "sourceLine": 289
+      }
     },
     {
+      "entryType": "language",
       "language": "Gnoll",
       "lookupTerms": [
         "Gnoll",
         "Gnolls"
       ],
-      "analogues": [
-        "Nothing specific."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Nothing specific.",
-      "status": "undetermined",
       "sourceHeading": "Gnoll",
-      "sourceLine": 295
+      "sourceHeadingLine": 292,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "Nothing specific.",
+        "sourceHeading": "Gnoll",
+        "sourceLine": 295
+      }
     },
     {
+      "entryType": "language",
       "language": "Sylvan",
       "lookupTerms": [
         "Sylvan",
         "Feywild",
         "Fey"
       ],
-      "analogues": [
-        "None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.",
-      "status": "provisional",
       "sourceHeading": "Sylvan",
-      "sourceLine": 305
+      "sourceHeadingLine": 302,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.",
+        "sourceHeading": "Sylvan",
+        "sourceLine": 305
+      }
     },
     {
+      "entryType": "language",
       "language": "Primordial",
       "lookupTerms": [
         "Primordial",
@@ -537,13 +981,18 @@
         "Elemental",
         "Elementals"
       ],
-      "analogues": [
-        "Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names."
+      "fallbackGuidance": [
+
       ],
-      "analogueText": "Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names.",
-      "status": "undetermined",
       "sourceHeading": "Primordial",
-      "sourceLine": 310
+      "sourceHeadingLine": 307,
+      "directGuidance": {
+        "kind": "direct",
+        "mappingStatus": "undetermined",
+        "analogueText": "Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names.",
+        "sourceHeading": "Primordial",
+        "sourceLine": 310
+      }
     }
   ]
 }

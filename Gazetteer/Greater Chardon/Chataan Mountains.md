@@ -8,7 +8,7 @@ typeOfAlias: mountain range
 name: Chataan Mountains
 pronunciation: cha-TAWN
 whereabouts: Greater Chardon
-dm_owner: none
+dm_owner: tim
 dm_notes: none
 POV: modern
 ---

@@ -105,5 +105,5 @@ TABLE join(split(file.path, "/", 2), "/") as Folder,
 FROM !#status/check/lint
 WHERE (dm_notes = "none") and (dm_notes) and lintVersion = this.currentLinterVersion and date(lintedAt) > date(this.lintedCleanAfter)
 FLATTEN length(file.inlinks) AS BacklinkCount
-SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
+SORT dm_owner
 ```

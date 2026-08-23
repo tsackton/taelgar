@@ -11,7 +11,7 @@ whereabouts:
   - {type: primary, location: Chardonian Empire}
   - {type: secondary, location: Apporia}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # Portalia
