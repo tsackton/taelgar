@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/name, status/check/lint]
+tags: [place, status/check/name]
 typeOf: infrastructure
 typeOfAlias: gate
 name: "Merchants's Gate"
@@ -30,18 +30,4 @@ Don't love the name.  It is the largest gate in the north wall, but not clear ho
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern urban infrastructure and merchant-district use; no construction date or later change to the gate's role is established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- The newer [[Bastion Quarter]], [[North Bank]], and [[North Road]] mentions were reviewed; they corroborate the gate's location and merchant-district role without establishing a later material change.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry for `Merchants's Gate` remains unresolved. [[Bastion Quarter]] and [[North Bank]] use `Merchant's Gate`, while this note uses `Merchants's Gate`. Choose the accepted form or another name, then update the heading, frontmatter `name`, relevant display aliases, and the persistent name entry together.
 %%^End%%

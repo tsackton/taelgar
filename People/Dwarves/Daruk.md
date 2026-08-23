@@ -37,5 +37,3 @@ A dwarven scholar, who lived and died before the [[Great War]], and was fascinat
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern retrospective summary of Daruk's pre-Great-War life, with a campaign-scoped report heard in DR 1748 whose truth remains unresolved.
 %%^End%%
-
-%%^Lint%%
