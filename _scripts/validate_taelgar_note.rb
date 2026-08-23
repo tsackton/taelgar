@@ -24,7 +24,7 @@ require "time"
 require "yaml"
 
 module TaelgarNoteLint
-  VERSION = "3.4"
+  VERSION = "3.5"
   SCHEMA_VERSION = 5
   DM_NOTES_REVIEW_VERSION = "3.4"
   NAME_REVIEW_VERSION = "3.4"

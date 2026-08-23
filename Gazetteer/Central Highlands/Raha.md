@@ -2,17 +2,19 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-22T23:50:36-04:00"
 lintVersion: "3.4"
-tags: [status/check/errors, place, status/check/lint]
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
 ancestry: "Deno'qai"
 name: Raha
+pronunciation: RAH-hah
 whereabouts: Highveil Forest
 dm_owner: tim
 dm_notes: color
 POV: 1747
 ---
 # Raha
+*(RAH-hah)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -70,7 +72,7 @@ locations:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Raha, role: primary, language: Deno'qai, pronunciation: RAH-hah, notes: "Proposed from the documented Deno'qai Hebrew or Arabic analogue; exact in-world phonology is not established.", status: proposed}
+- {name: Raha, role: primary, language: Deno'qai, pronunciation: RAH-hah,  status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -79,9 +81,6 @@ Temporal coverage: a DR 1747 village snapshot centered on the Silver Tempests' v
 
 %%^Lint%%
 - [ ] **Warning — metadata.map_location_missing:** Add Raha's verified coordinates to the world map locator; the vault establishes its relative location east of Chardon and within the Highveil Forest, but not an exact map position.
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the proposed pronunciation `RAH-hah`. It is a cautious proposal based on the documented Deno'qai Hebrew or Arabic analogue, with open vowels and pronounced `h`; the exact in-world phonology is not established.
 - [ ] **Suggestion — editorial.public_material_candidate:** Decide whether to adopt the public-safe religious explanation currently preserved in a shared comment. Copy-ready candidate: "Raha follows a local form of [[Northern Folk Religions|Northern folk religion]] shaped by Drankorian and Chardonian influence. Its people make sacrifices to local gods called tanshi, drawing them to the village to carry messages to greater, less clearly defined divine powers."
 
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Baz'aku (OneNote)]]
 %%^End%%

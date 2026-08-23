@@ -1069,6 +1069,77 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal "Underdeveloped", result.fetch("notes").first.fetch("editorialVerdict")
   end
 
+  def test_finalizer_adds_compact_discussion_route_only_to_underdeveloped_notes
+    root = make_vault
+    underdeveloped_path = "People/Discussion Route.md"
+    sufficient_path = "People/Reference Voice.md"
+    write_note(root, underdeveloped_path, person_note("Discussion Route"))
+    write_note(root, sufficient_path, person_note("Reference Voice"))
+    write_note(
+      root,
+      "Worldbuilding/Talk/First Discussion.md",
+      "# First\n\n[[Discussion Route]] and [[Reference Voice]] are discussed here.\n"
+    )
+    write_note(
+      root,
+      "Worldbuilding/Brainstorming/Second Discussion.md",
+      "# Second\n\nDiscussion Route and Reference Voice receive more discussion here.\n"
+    )
+    manifest, manifest_sha = manifest_for(root, [underdeveloped_path, sufficient_path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").each do |decision|
+      if decision.fetch("path") == underdeveloped_path
+        decision["editorialVerdict"] = "Underdeveloped"
+        decision["outcome"] = "open"
+        decision["lintReport"] = full_underdeveloped_report("editorial.note_underdeveloped")
+        decision["editorialAssessment"] = "The fixture omits its central account."
+      else
+        decision["editorialVerdict"] = "Sufficient"
+        decision["outcome"] = "open"
+        decision["lintReport"] = lint_report("editorial.reference_voice")
+      end
+    end
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    route = TaelgarNoteLint::Batch::DISCUSSION_RESEARCH_ROUTE
+    underdeveloped = File.read(File.join(root, underdeveloped_path))
+    sufficient = File.read(File.join(root, sufficient_path))
+
+    assert_equal 1, underdeveloped.scan(route).length
+    assert_operator underdeveloped.index("### Editorial assessment"), :<, underdeveloped.index(route)
+    assert_operator underdeveloped.index(route), :<, underdeveloped.index("### Open findings")
+    refute_includes sufficient, route
+    refute_includes result.fetch("handoff"), "Discussion research"
+    refute_includes underdeveloped, "Worldbuilding/Talk/First Discussion"
+  end
+
+  def test_underdeveloped_finalization_fails_closed_without_discussion_sidecar
+    root = make_vault
+    path = "People/Missing Discussion Sidecar.md"
+    write_note(root, path, person_note("Missing Discussion Sidecar"))
+    manifest, manifest_sha = manifest_for(root, [path])
+    decisions = snapshot(root, manifest, manifest_sha)
+    decisions.fetch("notes").first.merge!(
+      "editorialVerdict" => "Underdeveloped",
+      "outcome" => "open",
+      "lintReport" => full_underdeveloped_report("editorial.note_underdeveloped"),
+      "editorialAssessment" => "The fixture omits its central account.",
+      "selfReview" => completed_self_review
+    )
+
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      TaelgarNoteLint::Batch::Finalizer.new(
+        root: root,
+        manifest: manifest,
+        manifest_sha256: manifest_sha,
+        decisions: decisions,
+        completed_at: COMPLETED_AT
+      ).finalize
+    end
+
+    assert_includes error.message, "Worldbuilding discussion sidecar is missing"
+  end
+
   def test_finalizer_requires_worker_self_review_without_a_second_adjudicator
     root = make_vault
     path = "Meta/Self Review.md"
@@ -1674,6 +1745,26 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     REPORT
   end
 
+  def full_underdeveloped_report(rule_id)
+    <<~REPORT.strip
+      %%^Lint%%
+      ## Taelgar note lint
+
+      ### Applied changes
+      - None.
+
+      ### Validated judgments
+      - No additional validated judgments.
+
+      ### Editorial assessment
+      - **Underdeveloped** — The fixture omits its central account.
+
+      ### Open findings
+      - [ ] **Suggestion — #{rule_id}:** Human review is still required.
+      %%^End%%
+    REPORT
+  end
+
   def expansion_candidate
     {
       "addition" => "Add one bounded fixture detail.",
@@ -1854,12 +1945,25 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
   def finalizer(root, manifest, manifest_sha, decisions)
     decisions.fetch("notes").each { |decision| decision["selfReview"] = completed_self_review }
+    refresh_worldbuilding_discussion_index(root) if decisions.fetch("notes").any? do |decision|
+      decision["editorialVerdict"] == "Underdeveloped"
+    end
     TaelgarNoteLint::Batch::Finalizer.new(
       root: root,
       manifest: manifest,
       manifest_sha256: manifest_sha,
       decisions: decisions,
       completed_at: COMPLETED_AT
+    )
+  end
+
+  def refresh_worldbuilding_discussion_index(root)
+    output = Pathname.new(root).join(TaelgarWorldbuildingDiscussionIndex::OUTPUT_PATH)
+    FileUtils.mkdir_p(output.dirname)
+    output.write(
+      "#{JSON.pretty_generate(TaelgarWorldbuildingDiscussionIndex.build(Pathname.new(root)))}\n",
+      mode: "w",
+      encoding: "UTF-8"
     )
   end
 

@@ -22,7 +22,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal TaelgarNoteLint::DM_NOTES_REVIEW_VERSION, specification.data["dmNotesReviewVersion"]
     assert_equal TaelgarNoteLint::NAME_REVIEW_VERSION, specification.data["nameReviewVersion"]
     assert_equal TaelgarNoteLint::POV_REVIEW_VERSION, specification.data["povReviewVersion"]
-    assert_equal "3.4", TaelgarNoteLint::VERSION
+    assert_equal "3.5", TaelgarNoteLint::VERSION
     assert_equal 5, TaelgarNoteLint::SCHEMA_VERSION
     assert_equal "3.4", TaelgarNoteLint::DM_NOTES_REVIEW_VERSION
     assert_equal "3.4", TaelgarNoteLint::NAME_REVIEW_VERSION
@@ -45,6 +45,12 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes skill, "uncertainty after the mechanical screen favors inclusion"
     assert_includes skill, "`gpt-5.6-sol` with `xhigh` reasoning"
     assert_includes skill, "`gpt-5.6-terra` at `high`"
+    assert_includes specification, "`editorial.reference_voice`"
+    assert_includes skill, "`editorial.reference_voice`"
+    assert_includes specification, "Worldbuilding discussion routing"
+    assert_includes skill, "generate_worldbuilding_discussion_index.rb"
+    assert_includes specification, "A party visit, conversation, purchase, overnight stay, routine encounter"
+    assert_includes skill, "A campaign appearance is not coverage merely because it happened."
   end
 
   def test_all_contextual_review_gates_reopen_for_pre_3_4_lints

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-22T23:22:55-04:00"
 lintVersion: "3.4"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -12,6 +12,7 @@ gender: male
 died: 1715-04-01
 title: Sir
 name: Einrik Arpaad
+pronunciation: EYE-nrik AR-pahd
 affiliations:
   - {org: Torvaine Watch, title: commander, type: leader}
 whereabouts:
@@ -22,6 +23,7 @@ dm_notes: none
 POV: 1715
 ---
 # Sir Einrik Arpaad
+*(EYE-nrik AR-pahd)*
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -47,17 +49,14 @@ command of [[Torvaine Watch]]: was possessed by a cursed dagger ([[Serpentine Da
 
 ghost laid to rest in [[Addermarch - Session 04]]
 
+stole name from elsewhere and decided it makes most sense as Tollish, so assume he is from a Tollish family that settled in Addermarch a generation or two ago for unknown reasons. 
+
 %%
 
 %%^Metadata:names:v1%%
-- {name: Einrik Arpaad, language: Addermarian, pronunciation: EYE-nrik AR-pahd, notes: Eastros Germanic and Scandinavian family analogue with pronounced initial diphthong and long aa, status: proposed}
+- {name: Einrik Arpaad, language: Tollish, pronunciation: EYE-nrik AR-pahd, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 retrospective account through the dispersal of Einrik's ghost; his earlier service is summarized without a complete chronology.
-%%^End%%
-
-%%^Lint%%
-- [ ] **Warning — metadata.names_unresolved_status:** The proposed pronunciation `EYE-nrik AR-pahd` is an Eastros Germanic and Scandinavian derivation rather than documented usage. A human should accept it by changing the name entry status to `inferred` or `documented`, or replace it with the intended pronunciation.
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared DM comment points to a formal pre-curse report in which Einrik told Lady Duval he had executed a nameless mage who refused the toll. Consider adopting that supported detail as a concise illustration of his rigid gatekeeping before the dagger's corruption; the remaining shorthand repeats the public account.
 %%^End%%

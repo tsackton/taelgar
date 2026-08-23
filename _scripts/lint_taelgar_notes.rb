@@ -18,6 +18,7 @@ require "tempfile"
 require "time"
 
 require_relative "validate_taelgar_note"
+require_relative "generate_worldbuilding_discussion_index"
 
 module TaelgarNoteLint
   module Batch
@@ -82,6 +83,7 @@ module TaelgarNoteLint
       "public_adoption_candidate" => "editorial.public_material_candidate"
     }.freeze
     EXPANSION_CERTAINTIES = %w[established reported assumed provisional uninvented].freeze
+    DISCUSSION_RESEARCH_ROUTE = "- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material."
 
     class BatchError < StandardError; end
 
@@ -1436,7 +1438,8 @@ module TaelgarNoteLint
           raise BatchError, "Staged lint completion state changed before finalization: #{path}"
         end
         outcome = decision.fetch("outcome")
-        report_value = add_dm_evidence_links(decision["lintReport"], decision, record, staged_note, outcome)
+        report_value = add_worldbuilding_discussion_route(decision["lintReport"], decision, live_note)
+        report_value = add_dm_evidence_links(report_value, decision, record, staged_note, outcome)
         report = validate_report(report_value, outcome, path)
         validate_editorial_consistency!(decision, report)
         validate_declared_body_edits!(decision, live_note, staged_note, path)
@@ -1734,6 +1737,28 @@ module TaelgarNoteLint
 
         section = "### DM evidence\n" + missing.map { |source_path| "- #{Batch.dm_note_wikilink(source_path)}" }.join("\n")
         report.to_s.strip.sub(/\n?%%\^End%%\z/, "\n\n#{section}\n%%^End%%")
+      end
+
+      def add_worldbuilding_discussion_route(report, decision, live_note)
+        return report unless decision["editorialVerdict"] == "Underdeveloped"
+
+        discussion = worldbuilding_discussion_index.for(live_note)
+        return report unless discussion["significant"] == true
+
+        text = report.to_s.strip
+        return report if text.include?(DISCUSSION_RESEARCH_ROUTE)
+
+        if text.match?(/^### Open findings\s*$/)
+          text.sub(/^### Open findings\s*$/, "#{DISCUSSION_RESEARCH_ROUTE}\n\n### Open findings")
+        else
+          text.sub(/\n(?=\s*-\s+\[ \]\s+)/, "\n\n#{DISCUSSION_RESEARCH_ROUTE}\n")
+        end
+      end
+
+      def worldbuilding_discussion_index
+        @worldbuilding_discussion_index ||= TaelgarWorldbuildingDiscussionIndex::Sidecar.new(@root)
+      rescue TaelgarWorldbuildingDiscussionIndex::Error => error
+        raise BatchError, error.message
       end
 
       def validate_secret_review!(decision, staged_note, report, path)
