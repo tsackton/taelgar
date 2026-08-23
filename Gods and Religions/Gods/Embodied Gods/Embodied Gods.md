@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 tags: [background, status/check/errors, status/check/lint]
 name: Embodied Gods
 aliases: [embodied god]
@@ -30,19 +30,12 @@ Temporal coverage: broadly modern theological classification with mythic creatio
 ## Taelgar note lint
 
 ### Applied changes
-- Added the explicit note name and a modern article POV.
-- Repaired the missing space in the Mad One link.
+- None.
 
 ### Validated judgments
-- The article preserves the distinction between well-attested Thark and rumored other creations of the Three Despairs.
-- This is a theological category organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
-- The complete local-only dossier confirms evidence relevant to the positive `dm_notes: important` attestation.
-- `status/check/errors` was preserved.
+- The broadly modern theological POV remains suitable, and the article preserves the distinction between well-attested Thark and the rumored other creations of the Three Despairs.
 
 ### Open findings
-- [ ] **Suggestion — editorial.shared_material_redundant:** The opening shared comment asks for a rewrite distinguishing Thark from the rumored embodied gods and for the Firstborn term to be added; both requests are already implemented. Remove the resolved comment after human confirmation.
 
-### DM evidence
-- [[_DM_/Secret Worldbuilding/Mulitverse]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+- [ ] **Suggestion — editorial.shared_material_redundant:** The opening shared comment asks for a clearer distinction between Thark and the rumored embodied gods and for the Firstborn term to be added, but both requests are already implemented in the visible article. Remove the resolved comment after human confirmation.
 %%^End%%

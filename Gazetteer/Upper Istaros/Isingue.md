@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 displayDefaults: {endStatus: "Consumed by Cha'mutte's plague in", wOrigin: "<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
-tags: [place, testcase, status/gameupdate/dufr]
+tags: [place, testcase, status/gameupdate/dufr, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 ancestry: Isinguer
@@ -64,4 +64,55 @@ Temporal coverage: DR 1720s to early DR 1749. The visible article describes the 
 %%^Metadata:map:v1%%
 locations:
   - {map: world, locator: 14.11.F21}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- `POV: 1748` and the retained `povNotes:v1` block accurately preserve the article as a pre-conclusion Dunmar Frontier snapshot; [[Session 134 (DuFr)]] establishes later developments, so `status/gameupdate/dufr` remains supported while those developments are deferred.
+- The documented Isinguese name and pronunciation remain unchanged and supported.
+- The complete local-only evidence dossier contains numerous genuine Isingue matches and supports the positive `dm_notes: important` attestation; only source links, not private contents, are reportable here.
+
+### Editorial assessment
+**Underdeveloped**. The visible article identifies Isingue as the ruined cultural and spiritual capital of the [[Istabor Alliance]], preserves a founding legend, and records the DR 1748 ooze sighting, but it lacks a central public account of two established dimensions: the [[Heartroot]]-based fertility magic and regional role of the prewar city, and Isingue's destruction in DR 1545 together with its refugee legacy. The smallest useful scope is two concise historical paragraphs. Later Dunmar Frontier developments remain separately and explicitly deferred under `status/gameupdate/dufr`.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** [[Istaros]] and [[Istabor Alliance]] establish that Isingue's fertility magic came from the [[Heartroot]] and that the city was the magical center of a loose, agriculturally rich confederation, not only a place associated with a founding legend. Candidate: "The life-giving power of the waters was part of the [[Heartroot]], a vast living root-like magic intertwined with the upper [[Istaros]]. Isingue served as the magical center of the loose [[Istabor Alliance]], whose surrounding agricultural communities prospered from that fertility and from trade between Cymea, Dunmar, and Sembara."
+- [ ] **Warning — coverage.established_fact_missing:** [[Cha'mutte's Plague]], [[Istabor Alliance]], and [[Refounded Alliance of Aurbez]] establish the city's destruction and central diaspora legacy, which the visible body currently reduces to an unexplained ruined state. Candidate: "During the [[Great War]], Isingue bore the brunt of [[Cha'mutte's Plague]] and was destroyed in DR 1545. Survivors fled north and west; many of their descendants later formed the [[Refounded Alliance of Aurbez]], preserving Isinguese identity while debating whether the old homeland should be reclaimed."
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared comment beginning "Something about the waters" substantially repeats the visible account of life-giving water, rich soil, fertility, and prosperous nearby settlements while intermixing those repetitions with still-useful development questions. Replace its prose after the Discord source pointer with this bounded planning note: "Development questions: Did Isingue's rejection of Drankorian ritual study lead to a Mos Numena cult center and local town-meeting rule? Did Cha'mutte corrupt or suppress the healing and fertility magic of the Istaros? Do the Rangers descend from guardians of that magic, with a pre-Great-War origin and a later focus on Sembara's southern border? Reclaiming the water's magic, rather than rebuilding the city, may be their central goal; Beryl may know whether restoration is possible."
+
+### DM evidence
+- [[_DM_/Dunmar Epilogues]]
+- [[_DM_/_Campaign 3/Campaign 3 - Early Brainstorming - Overview]]
+- [[_DM_/_Campaign 3/Dunmar Epliogue - Campaign 3 Timing]]
+- [[_DM_/_Dunmari Frontier/Brainstorming - DM]]
+- [[_DM_/_Dunmari Frontier/Final Arc Planning - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Leveling]]
+- [[_DM_/_Dunmari Frontier/Session 0.75 Planning Notes]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Arc Outline - The Last Jade]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Empress of Chaos Adventure]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Isingue Arc Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Limbo/Isingue - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Limbo/LImbo Arc Overview]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Limbo/Nantucket Planning]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Notes - Session 129]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Plaguelands Adventure]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Planning Update - Plaguelands]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 130 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 131 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 132 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 133 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 134 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 70 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
 %%^End%%

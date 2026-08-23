@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: topographical feature
 typeOfAlias: pass
 name: Urlich Pass
@@ -47,16 +47,3 @@ See also:
 Temporal coverage: broad history through the modern era; the pass's post-Great-War devastation is presented as continuing, while the site's earlier nature remains uncertain.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- `POV: modern` and the retained `povNotes:v1` block accurately frame the pass's broad history and continuing postwar danger.
-- The newer [[Derik III]] mention occurs in that note's lint discussion and adds no new fact about Urlich Pass.
-
-### Open findings
-- [ ] **Suggestion — editorial.public_material_candidate:** The `Campaign:none` block contains one coherent, public-safe relationship absent from the visible article: a proposed Feywild counterpart. If this relationship is adopted as canon, add: "In the [[Feywild]], the region around Urlich Pass is echoed by [[Sharpspire]], a fallen realm that has been uninhabited and dangerous since the [[Great War]]." Retain the remainder of the block's unresolved site-origin planning as hidden material.
-%%^End%%

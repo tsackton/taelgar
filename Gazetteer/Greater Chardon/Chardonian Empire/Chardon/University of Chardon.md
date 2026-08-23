@@ -1,8 +1,8 @@
 ---
 timelineDescriptor: University of Chardon
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: building
 typeOfAlias: university
@@ -48,7 +48,7 @@ In addition to the undergraduate lecti, the University of Chardon has five gradu
 
 The University of Chardon operates under its original Drankorian Charter granted in DR 939, and thus claims to be above and outside the laws and politics of the current day city. Students who are accused of crimes are, according to the university, only able to be tried and punished by university courts (although the Imperial bureaucracy claims the ability to confine students to university grounds without trial, which is occasionally contentious).
 
-The [[Hetaeri Magica]], which draws members from both the University of Chardon and the [[Great Library]] controls and propagates rules on the use of magic within [[Precinct IV]], the academic quarter of Chardon. 
+The [[Hetaeri Magica]], which draws members from both the University of Chardon and the [[Great Library]], controls and propagates rules on the use of magic within [[Precinct IV]], the academic quarter of Chardon.
 ## History
 
 - (DR:: 939): The University of Chardon is founded in Chardon on the authority of an Imperial Charter from Eiphis the Blind, the Emperor of Drankor.
@@ -66,17 +66,26 @@ Temporal coverage: a broadly modern account of the university's organization and
 ## Taelgar note lint
 
 ### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+- Added the missing comma after `[[Great Library]]` in the Hetaeri Magica sentence.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- `POV: modern` and the existing `povNotes:v1` accurately describe a broadly modern institutional account with separate DR 939 and DR 1065 historical layers.
+- Newer-source candidates corroborate the university's academic role and relationships without establishing a separate material change to the institution.
+- Confirmed local `_DM_` matches support the existing positive `dm_notes: important` attestation; their source links will be appended mechanically without exposing private contents.
 
 ### Open findings
 
-- [ ] **Suggestion — frontmatter.deprecated_field:** timelineDescriptor is deprecated or obsolete. Proposed replacement: Use explicit lifecycle dates, Date blocks, or persistent article POV metadata according to the intended temporal meaning.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `University of Chardon — university of KAR-dohn` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Suggestion — frontmatter.deprecated_field:** `timelineDescriptor: University of Chardon` is deprecated and duplicates chronology already carried by `created: 939`, the History timeline, and persistent POV metadata. Candidate: remove `timelineDescriptor: University of Chardon` while retaining those current temporal fields.
+- [ ] **Warning — metadata.whereabouts_conflict:** The sole whereabouts entry begins the University's Chardon location in DR 980, but `created: 939`, the visible founding history, and [[Chardon]] all place its founding in Chardon in DR 939. Candidate: determine whether DR 980 marks an undocumented relocation; if it does not, replace `{type: home, start: 980, location: Chardon}` with `{type: home, start: 939, location: Chardon}`.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent `University of Chardon — university of KAR-dohn` entry remains `status: proposed`. Candidate: review the recorded Chardonian language and Latinate derivation, then either accept it by copying the full pronunciation to frontmatter and setting the entry to `documented`, or correct the proposal while preserving its derivation note.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The comment beginning `While the university controls the largest portion of land` substantially repeats the visible account of decentralized, contentious competition, while its claims about comparative political power and imperial encouragement remain unresolved. Candidate: remove the repeated explanation and retain only `%% Research before adoption: determine whether the University's fragmented governance limits its political power relative to the Great Library and Hetaeri Magica, and whether imperial policy encourages that fragmentation. %%`
+- [ ] **Suggestion — editorial.public_material_candidate:** The comment beginning `The lecti are named XXX Hall or XXX Lectum` contains a coherent public-facing naming distinction absent from the article. Copy-ready candidate: Halls are generally associated with external orders, while lecti more often take the names of their patrons, though the distinction is not absolute.
 
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Power Structures]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - Brainstorming]]
 %%^End%%

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T13:33:35-04:00"
-lintVersion: "3.4"
-tags: [person]
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
 born: 1726
@@ -40,4 +40,19 @@ The messenger, Amus, is a young, brash man, shaken by the experience of being a 
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1747 encounter portrait centered on Amus's service as a Great Library messenger and his ransom from kobolds; earlier and later life are not described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The current Great Library session record confirms Amus's ransom and the kobolds' retention of the map; its later edit does not add a material post-ransom change.
+
+### Open findings
+
+- [ ] **Warning — content.internal_conflict:** The campaign header says `Ransomed grli`, while the article and [[Great Library Session Notes - Arc 1#Session 16|Session 16]] say the [[Silver Tempests]] ransomed Amus, and the live campaign registry identifies `grli` as the Great Library campaign code with the Silver Tempests as its party. Candidate: `>> %%^Campaign:grli%% Ransomed by the [[Silver Tempests]] on July 10th, 1747 in [[Greater Voltara]], the [[Northern Provinces]], the [[Chardonian Empire]] %%^End%%`
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden comment partly repeats the visible ransom account but adds a coherent public-safe aftermath: Amus was shaken, remained dedicated to the Great Library, and immediately warned that the kobolds still had the map. Candidate: `Though shaken by his captivity, Amus remained dedicated to the Great Library and warned his rescuers that the kobolds still held the map he had been carrying.` After adoption or rejection, remove the repeated ransom summary from the hidden comment.
 %%^End%%

@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
-tags: [place, status/check/mike]
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/mike, status/check/lint]
 typeOf: realm
 destroyed: 1545
 name: Istabor Alliance
-pronunciation: ees-tah-BOR
 aliases: [Isinguer, Isinguese]
+pronunciation: ees-tah-BOR
 dm_owner: joint
 dm_notes: none
 POV: modern
@@ -76,4 +76,25 @@ The Istabor brainstorming converges on a strong central concept: a prosperous, d
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern retrospective of the pre-DR 1545 alliance and the Plaguelands left after its destruction; the realm's formation and internal history are not yet described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter field order without changing any values.
+
+### Validated judgments
+- `POV: modern` and the retained `povNotes:v1` accurately frame a modern retrospective of the destroyed alliance.
+- Newer mentions in [[Duchy of Maseau]], [[Istaros]], and [[Isingue]] corroborate the alliance's fertile watershed, destruction, and refugee legacy without contradicting the visible body.
+
+### Editorial assessment
+**Underdeveloped**. The visible note identifies the alliance's territory, economic role, destruction, and diaspora, but it does not explain how the polity formed or how its loose confederation functioned. The smallest useful scope is a bounded account of its formation, relationship with the [[Dominion of Avatus]], and high-level institutions, preserving the still-unsettled chronology and borders.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The [[Istaros]] account establishes that the life-giving fertility of the upper river derived from the [[Heartroot]], a defining source of the alliance's agricultural wealth that is absent from the visible note. Candidate: `The life-giving fertility of the upper [[Istaros]] derived from the [[Heartroot]], a vast root-like magic intertwined with the watershed. Its power supported the densely settled agricultural communities around [[Isingue]], the alliance's cultural, spiritual, and magical center.`
+- [ ] **Suggestion — editorial.note_underdeveloped:** The note's own temporal assessment says its formation and internal history are not described, and the public article supplies no account of why the member communities formed an alliance, how their relationship with the [[Dominion of Avatus]] developed, or what institutions coordinated them. Develop those central dimensions while leaving exact dates, borders, and constitutional details open where the vault has not settled them; copy-ready prose is not applicable until those choices are made.
+- [ ] **Suggestion — editorial.public_material_candidate:** The `Codex Summary of Istabor Brainstorming` in the `Campaign:none` block contains a coherent public-safe high-level description of the alliance's political character, intermingled with unresolved dates, borders, Ranger origins, funerary customs, and other private development material. Candidate if adopted: `The Alliance was a loose union of self-governing towns, villages, and freeholds, united by shared agriculture, trade, religion, and mutual defense rather than centralized rule. Isingue served as its cultural, spiritual, and magical center.` Retain the unresolved specifics privately until they are separately settled.
 %%^End%%

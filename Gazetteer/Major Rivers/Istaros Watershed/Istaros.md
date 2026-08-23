@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 tags: [place, status/gameupdate/dufr]
 typeOf: waterway
 typeOfAlias: river
@@ -60,5 +60,5 @@ locations:
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern after the Great War; the article contrasts the cursed watershed with earlier river landscapes and does not incorporate events after the Dunmar campaign's conclusion.
+Temporal coverage: broadly modern after the Great War; the article contrasts the cursed watershed with earlier river landscapes and stops before the Dunmar Fellowship's destruction of the Istaros ooze and any resulting remediation.
 %%^End%%

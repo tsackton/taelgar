@@ -53,6 +53,24 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes skill, "A campaign appearance is not coverage merely because it happened."
   end
 
+  def test_status_check_name_is_omitted_from_lint_status_summary
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Meta/Status Summary.md",
+      <<~MARKDOWN
+        ---
+        tags: [meta, status/check/name, status/check/ai, status/stub]
+        ---
+        # Status Summary
+
+        This note has substantive fixture prose.
+      MARKDOWN
+    )
+
+    assert_equal ["status/check/ai", "status/stub"], report.dig("note", "statuses")
+  end
+
   def test_all_contextual_review_gates_reopen_for_pre_3_4_lints
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)

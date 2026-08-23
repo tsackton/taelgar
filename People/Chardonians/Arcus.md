@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 displayDefaults: {endStatus: petrified}
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -62,27 +62,4 @@ Temporal coverage: a DR 1748 account of Arcus's final expedition and petrified s
 
 %%^Metadata:names:v1%%
 - {name: Arcus, language: Chardonian, pronunciation: AR-koos, status: documented}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied automatically
-- Added `knownTo: [dufr]` from the existing Dunmar Frontier interaction record.
-- Added `POV: 1748` and a persistent temporal note describing the article as an account of Arcus's final expedition and petrified state.
-- Added a persistent primary-name entry with a proposed Chardonian pronunciation.
-
-### Validated judgments
-- The visible article is sufficient for Arcus's role as a minor expedition and campaign connector: it identifies his profession, affiliation, companions, route, and fate.
-- `status/cleanup/metadata` is supported by the existing editorial reminder and unresolved precision in the dated travel metadata; the tag is preserved for human review.
-- `dm_notes: none` is retained. Matching local-only sources do not by themselves change the human attestation.
-
-### Open findings
-- [ ] **Warning — metadata.names_unresolved_status:** The proposed pronunciation `AR-koos` uses the documented Chardonian Latin analogue: `c` before `u` is hard, and the first syllable is stressed. Confirm or replace it.
-  - Copy-ready acceptance if correct: add `pronunciation: AR-koos` to frontmatter and change the Arcus name entry to `status: documented`.
-
-### DM evidence
-- [[_DM_/Staging/NPC Ideas - Unused]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Hralgar's Eyes (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Rampaging Beasts (Session 1-3)/Session 1/Clues in Karawa]]
 %%^End%%

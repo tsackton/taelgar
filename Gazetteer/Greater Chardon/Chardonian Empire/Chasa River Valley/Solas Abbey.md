@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: holy site
 typeOfAlias: abandoned abbey
 name: Solas Abbey
+pronunciation: "SOH-lahs abbey"
 whereabouts:
   - {type: home, location: Chasa River Valley, startFilter: r}
 dm_owner: none
@@ -14,6 +15,7 @@ dm_notes: none
 POV: modern
 ---
 # Solas Abbey
+*(SOH-lahs abbey)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -41,23 +43,9 @@ The abbey is currently occupied by a lone hermit/priest, who goes by [[Elderwood
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Solas Abbey", role: "primary", language: "Chardonian", pronunciation: "SOH-lahs abbey", notes: "Latin/Italian analogue for Solas with an English descriptive component.", status: "proposed"}
+- {name: "Solas Abbey", role: "primary", language: "Chardonian", pronunciation: "SOH-lahs abbey",  status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern post-order view in which Solas Abbey is partially ruined and the Solatine Order is defunct; the date of abandonment and any earlier or later occupancy are not established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Solas Abbey — SOH-lahs abbey` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
-
 %%^End%%

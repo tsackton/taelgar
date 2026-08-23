@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:58:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
@@ -29,7 +29,7 @@ most tributaries are not yet named. probably could use a watershed pages at some
 %%
 
 %%^Metadata:names:v1%%
-- {name: Yeraad, role: primary, language: Northros, pronunciation:  yeh-RAHD, meaning: Green River, status: documented, notes: name from ancient Northros for "Green"}
+- {name: Yeraad, role: primary, language: Old Northros, pronunciation:  yeh-RAHD, meaning: Green River, status: documented, notes: name from ancient Northros for "Green"}
 %%^End%%
 
 %%^Metadata:map:v1%%

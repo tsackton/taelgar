@@ -1,7 +1,7 @@
 ---
 timelineDescriptor: Sembaran History
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: a}
 tags: [background, status/check/errors, status/check/lint]
 name: Timeline of Sembaran History
@@ -346,25 +346,24 @@ Temporal coverage: a retrospective chronology from DR 300 through DR 1718, read 
 %%^Lint%%
 ## Taelgar note lint
 
-### Editorial assessment
-**Underdeveloped**. Although the timeline has broad chronological coverage, central periods are still explicitly provisional: Drankorian incorporation and retreat, early post-plague political structure, parts of unification, the Great War preamble and highland material, and nearly all development after DR 1718. Reconcile the dated canonical event and person notes first, then revise only affected statements while retaining uncertainty elsewhere.
-
 ### Applied changes
-- Added a late-1710s retrospective POV and documented the article's temporal coverage.
-- Corrected objective spelling, grammar, word-break, and historical-name errors without changing disputed chronology.
+- None.
 
 ### Validated judgments
-- This is a historical organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
-- The older `A Chronicle of Sembaran History` is provisional Worldbuilding material and was not promoted over canonical notes.
-- `status/check/errors` was preserved.
-- The complete local-only dossier contains no evidence clusters; `dm_notes: none` remains supported.
+- The late-1710s retrospective POV and its temporal-coverage note accurately describe the article's frame.
+- Newer nominated source changes either left their mentions unchanged or added review material rather than new historical evidence; they do not require a further timeline update.
+- The shared nonpublic material was reviewed as editorial provenance, unresolved development, and two bounded public-adoption candidates; it was retained unchanged.
+
+### Editorial assessment
+**Underdeveloped**. Although the timeline has broad chronological coverage, central periods remain explicitly provisional: the nature of Drankorian incorporation and retreat, the early post-plague political structure, parts of the unification chronology, and the Great War preamble and highland history. The smallest useful scope is a series of bounded source-led passes that reconciles dated canonical event and person notes first while preserving uncertainty where the history remains uninvented.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
 - [ ] **Error — content.internal_conflict:** The DR 1552 entries say Bertram I dies in winter and then say Bertram I stops collecting Maseau's rents in spring. Determine whether the rent decision belongs to Jane's regency or Bertram II, or whether one date is wrong.
-- [ ] **Warning — correctness.cross_note_conflict:** This timeline dates Cleenseau's liberation to early summer DR 1648. `Cleenseau History Notes` narrates it in early spring DR 1649 but also contains a period list using DR 1648. Reconcile the contradictory source dates before adopting either one.
-- [ ] **Error — correctness.cross_note_conflict:** The Peace of Cece begins in DR 1650 and says the Shattered Ice dominion was gone by autumn 1650, while this timeline and `Third Hobgoblin War (Sembara)` place the war's end in DR 1653. Move the peace boundary to DR 1653 or state that fighting continued through the decisive defeat in DR 1653.
+- [ ] **Warning — correctness.cross_note_conflict:** This timeline dates Cleenseau's liberation to early summer DR 1648. [[Cleenseau History Notes]] narrates it in early spring DR 1649 but also contains a period list using DR 1648. Reconcile the contradictory source dates before adopting either one.
 - [ ] **Suggestion — frontmatter.deprecated_field:** `timelineDescriptor` is deprecated. Remove it only after confirming no remaining consumer needs it; the explicit POV and dated entries now carry its temporal function.
-- [ ] **Suggestion — editorial.public_material_candidate:** Surface the conquest-mechanism uncertainty. If approved, replace the opening sentence with: `Over a series of campaigns and treaties spanning roughly sixty years, Drankor established control over large portions of the region; the balance between military conquest and voluntary incorporation remains uncertain.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared conquest comment records a public-safe uncertainty that materially qualifies the opening account. If approved, replace the first sentence after the overview with: `Over a series of campaigns and treaties spanning roughly sixty years, Drankor established control over large portions of the region; the balance between military conquest and voluntary incorporation remains uncertain.`
 - [ ] **Suggestion — editorial.public_material_candidate:** The closing shared framework offers a cautious Great War political overview. If approved, add: `At the height of the Great War, Sembara's political reach was layered rather than uniform: Brovna, Maseau, and Ardlas were core duchies; Tyrwingha shared the crown; Addermarch, Vostok, and Breva accepted temporary overlordship; and Lavnoch's relationship remained unclear.`
-- [ ] **Suggestion — editorial.note_underdeveloped:** Resolve the provisional Drankorian retreat, post-plague political structure, unification chronology, Great War preamble and highland material, and post-DR 1718 coverage in bounded source-led passes.
+- [ ] **Suggestion — editorial.note_underdeveloped:** Resolve the provisional Drankorian incorporation and retreat, post-plague political structure, unification chronology, and Great War preamble and highland material in bounded source-led passes.
 %%^End%%

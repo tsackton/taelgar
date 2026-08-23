@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:22:55-04:00"
-lintVersion: "3.4"
-tags: [person]
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -59,4 +59,18 @@ stole name from elsewhere and decided it makes most sense as Tollish, so assume 
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 retrospective account through the dispersal of Einrik's ghost; his earlier service is summarized without a complete chronology.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- Later edits to [[Addermarch]] and [[Bartoz]] corroborate the existing Torvaine Watch account and do not materially change Einrik's reference article.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden DM comment contains one coherent, public-safe pre-corruption episode from [[Session 2 - DM Notes]] that would concretely support the visible claim that Einrik's rigid gatekeeping predated the dagger's influence; the same comment also repeats public fate details and carries a separate unresolved Tollish-origin note. Candidate public prose: `Before the dagger's influence, Einrik had already shown uncompromising rigidity: he ordered the execution of an unnamed mage who refused the watch's toll and attacked a soldier when denied passage.` After adopting or rejecting that sentence, replace the hidden unit with a bounded source pointer and the unresolved Tollish-origin note, omitting the duplicated curse and ghost summary.
 %%^End%%

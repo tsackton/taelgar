@@ -743,7 +743,9 @@ module TaelgarNoteLint
         validate_relationships(note, findings) if @check_links
       end
 
-      statuses = note.tags.select { |tag| tag.start_with?("status/") }
+      statuses = note.tags.select do |tag|
+        tag.start_with?("status/") && tag != "status/check/name"
+      end
       {
         "schemaVersion" => SCHEMA_VERSION,
         "validatorVersion" => VERSION,

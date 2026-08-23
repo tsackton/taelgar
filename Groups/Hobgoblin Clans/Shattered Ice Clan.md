@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 tags: [group, status/check/errors, status/check/lint]
 typeOf: clan
 ancestry: hobgoblin
@@ -45,16 +45,22 @@ Temporal coverage: broad history from the Great War through the modern era; the 
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The broadly modern POV remains suitable for a history extending from the Great War to the uncertain survival of later raiders.
+- Newer source activity does not establish a different current clan history; the dedicated war and movement notes continue to support the unresolved early chronology.
+
 ### Editorial assessment
 
-**Underdeveloped**. The visible clan history omits its established service in Cha'mutte's Northern Army, participation in the Conclave War, eastward flight through the Sentinels, and central role in the First Hobgoblin War, leaving the core chronology incomplete.
+**Underdeveloped**. The visible clan history omits its established service in Cha'mutte's Northern Army, participation in the Conclave War, eastward flight through the Sentinels, and central role in the First Hobgoblin War. The smallest useful development scope is a coherent early chronology connecting those events to the already described Second and Third Hobgoblin Wars.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** Add the clan's established early chronology from the dedicated war and movement notes. Candidate: `During the Great War, the Shattered Ice Clan served in Cha'mutte's Northern Army. After joining the postwar Conclave War against Chardon and escaping its defeat, the clan fled east through the Sentinels. About a generation later, it launched the First Hobgoblin War, after which its forces remained established in the Western Marches and western Maseau.`
-- [ ] **Suggestion — editorial.public_material_candidate:** The final hidden comment contains a potentially useful distinction between the clan's territorial aims in the Second Hobgoblin War and its new leader's eliminationist aims in the Third, but it also contains an obsolete denial of the clan's role in the First Hobgoblin War. Candidate: `During the Second Hobgoblin War, the clan sought territory south of the Enst and viewed Maseau as a buffer against the Iron Fang hobgoblins of the Plaguelands. By DR 1644, a new leader had redirected the clan toward the destruction of the human realms, beginning the Third Hobgoblin War.` Consider adopting only this bounded distinction and discard the obsolete First-War denial.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 130 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+- [ ] **Warning — coverage.established_fact_missing:** Add the clan's established early chronology from [[Hobgoblin Movements After Cha'Mutte]] and [[First Hobgoblin War (Sembara)]]. Candidate: `During the Great War, the Shattered Ice Clan served in Cha'mutte's Northern Army. After Cha'mutte's death, it joined the Conclave War against Chardon, escaped the defeat, and fled east through the [[Sentinel Range|Sentinels]]. About a generation later, it launched the [[First Hobgoblin War (Sembara)|First Hobgoblin War]], after which its forces remained established in the Western Marches and western [[Duchy of Maseau|Maseau]].`
+- [ ] **Suggestion — editorial.public_material_candidate:** The final shared comment contains a potentially useful distinction between the clan's territorial aims in the Second Hobgoblin War and its new leader's eliminationist aims in the Third, but it also contains an obsolete denial of the clan's role in the First Hobgoblin War. Candidate: `During the [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]], the clan sought territory south of the [[Enst]] and viewed Maseau as a buffer against the [[Iron Fang]] hobgoblins of the Plaguelands. By DR 1644, a new leader had redirected the clan toward the destruction of the human realms, beginning the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]].` Consider adopting only this bounded distinction and discarding the obsolete First-War denial.
 %%^End%%

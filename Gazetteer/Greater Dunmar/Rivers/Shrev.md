@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Shrev
-pronunciation: "SHREV"
 aliases: [River Shrev, Shrev River]
+pronunciation: SHREV
 whereabouts: Nayan Floodplains
 dm_owner: none
 dm_notes: none
@@ -36,5 +36,5 @@ locations:
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern physical geography from the Yuvanti Mountains to the Nevos Sea; no dated course change is described.
+Temporal coverage: broadly modern physical geography and the Shrev's long-standing role as Dunmar's southern frontier during much of the Nayan Dynasty; no dated course change is described.
 %%^End%%

@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
-tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text]
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
+tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text, status/check/lint]
 typeOf: realm
 typeOfAlias: empire
 name: Chardonian Empire
-pronunciation: char-DOH-nee-an
 aliases: [Chardonian]
+pronunciation: char-DOH-nee-an
 whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
@@ -27,7 +27,7 @@ Also needs a general text cleanup, and a review of the DM notes
 The Places in the Chardonian Empire query should be optimized
 %%
 
-The Chardonian Empire is a large and powerful realm ruled from the city of [[Chardon]]. Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [[Chalyte|chalyte]] trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [[Voltara]] in the north to [[Illoria]] in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [[Drankorian Empire]] 
+The Chardonian Empire is a large and powerful realm ruled from the city of [[Chardon]]. Its power rests on the legions, the city’s institutions of learning and magic, and the wealth of the [[Chalyte|chalyte]] trade. The Chardonian Empire grew from the city of Chardon in the years after the Great War, expanding in fits and starts until it stretched across the entire western coast from [[Voltara]] in the north to [[Illoria]] in the south. Today, the Chardonian Empire is vast and powerful, the dominant cultural, academic, and military force in the west, a place of learning and magic and innovation, that sees itself as the defender of civilization against the forces of evil and the heir to the [[Drankorian Empire]].
 
 ## The Empire and Its Lands
 
@@ -45,7 +45,7 @@ Major regions of the empire include:
 
 ## Rule and Administration
 
-The far-flung Chardonian Empire is controlled and protected by the power of the [[Chardonian Legion]], and ruled by the imperial bureaucracy based in Chardon itself. The Magistros is both the ruler of the city of [[Chardon]] and the head of the vast imperial state, but control is exercised primarily through the extensive civil service and, in the provinces, by governors proconsuls, and chartered officials, often supported by legionary garrisons. The [[Curia of 42]], the elected assembly of the city of [[Chardon]], exercises limited control over the imperial bureaucracy, but retains the power to shape the economy of the Chardonian Empire via itse control over charter monopolies, administered by the [[Chamber of Stamps]].
+The far-flung Chardonian Empire is controlled and protected by the power of the [[Chardonian Legion]], and ruled by the imperial bureaucracy based in Chardon itself. The Magistros is both the ruler of the city of [[Chardon]] and the head of the vast imperial state, but control is exercised primarily through the extensive civil service and, in the provinces, by governors, proconsuls, and chartered officials, often supported by legionary garrisons. The [[Curia of 42]], the elected assembly of the city of [[Chardon]], exercises limited control over the imperial bureaucracy, but retains the power to shape the economy of the Chardonian Empire via its control over charter monopolies, administered by the [[Chamber of Stamps]].
 
 Some provinces, such as [[Greater Voltara]] and much of the [[Northern Provinces]], have a strong and direct imperial presence; other places, such as [[Cedrano]] and [[Raziolo]] in [[Apporia]], have substantial local autonomy. [[Illoria]] is a special case: it exists as a vassal state with [[Chardon]] as suzerain, controlling naval affairs and foreign policy but allowing relative independence to govern local matters. 
 
@@ -104,10 +104,29 @@ In the most commonly told imperial chronology:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Chardonian Empire", role: "primary", language: "Chardonian", pronunciation: "char-DOH-nee-an empire", status: "documented"}
+- {name: "Chardonian Empire", role: "primary", language: "Chardonian", pronunciation: "char-DOH-nee-an empire", notes: "Full displayed form combines the accepted frontmatter pronunciation with the ordinary English word empire.", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: through May DR 1749. Imperial reference snapshot that intentionally predates the July-August DR 1749 chalyte reforms and later campaign developments.
 %%^End%%
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting without changing metadata values.
+- Added a derivation note to the documented `Chardonian Empire` name entry explaining why its full-form pronunciation includes the ordinary English word `empire`.
+- Corrected an omitted terminal period, an omitted comma in `governors, proconsuls`, and the objective typo `itse`.
+
+### Validated judgments
+- `POV: 1749` and the existing `povNotes:v1` accurately frame the visible article as an intentional snapshot through May DR 1749.
+- Later-source review found no additional material change beyond the already identified post-May treaty, chalyte reforms, and eventual separation of the Northern Provinces.
+- Non-check status dispositions: `status/gameupdate/dufr` remains supported by the July DR 1749 treaty and chalyte reforms; `status/gameupdate/gl` remains supported by the Northern Provinces' separation by DR 1752; and `status/cleanup/text` remains supported by the open reference-voice work. None was changed.
+- All four Git-shared nonpublic units were reviewed: two are source or editorial pointers and two preserve unresolved development prompts; none contains a distinct public-adoption candidate.
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** The visible article intentionally stops in May DR 1749, but [[Chardon-Dunmar War]] establishes the July 25 treaty and Chardonian suzerainty over Darba, [[Chardonian Chalyte Trade Reforms]] establishes the end of four-family control and a new imperial chalyte order in July-August, and [[Great Library Session Notes - Arc 5]] establishes that the Northern Provinces had separated from the empire by DR 1752. Candidate: choose one bounded treatment—update the article and its `POV`/`povNotes` through a chosen later date; explicitly retain the existing game-update deferral and record that choice in the hidden editorial note; or preserve the May 1749 article as a historical snapshot and review the game-update tags accordingly.
+- [ ] **Suggestion — editorial.reference_voice:** The opening paragraph repeats broad claims that the empire is `large and powerful` or `vast and powerful`, then compresses several institutional, cultural, and ideological claims into one inflated final sentence. Human rewrite brief: make the opening a direct overview while preserving Chardon as the capital, the legions, the institutions of learning and magic, chalyte wealth, post-Great-War expansion, and the empire's self-conception as defender of civilization and heir to Drankor; remove repetition and separate claims that need clearer support or attribution. A copy-ready replacement is deliberately not supplied for this rule.
+%%^End%%

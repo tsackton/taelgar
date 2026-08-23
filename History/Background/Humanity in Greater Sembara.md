@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 tags: [background, status/check/errors, status/check/lint]
 name: Humanity in Greater Sembara
 excludePublish: [all]
@@ -175,8 +175,21 @@ Temporal coverage: a diachronic synthesis from pre-Downfall migrations through t
 %%^End%%
 
 %%^Lint%%
-### Editorial assessment
-- **Underdeveloped** — The article attempts a continuous history of humanity in Greater Sembara, but its central transition from the Great War to the modern cultural landscape is entirely blank despite established public material elsewhere in the vault.
+## Taelgar note lint
 
-- [ ] **Warning — coverage.established_fact_missing:** Fill the empty `## The Great War and Rise of Sembara` section with the established transition rather than leaving the chronology disconnected. Copy-ready source-grounded draft: "During the [[Great War]], [[Sembara]] and the [[Istabor Alliance]] fought against [[Cha'mutte]]. The war ended in DR 1545, but the destruction of [[Isingue]] and the spread of [[Cha'mutte's Plague]] shattered the Istabor heartland and sent refugees into [[Duchy of Maseau|Maseau]], [[Addermarch]], the [[Mostreve Hills]], and the future [[Refounded Alliance of Aurbez]]. In the war's aftermath, Sembara endured the Blood Years while Isinguese refugees preserved their traditions in northern borderlands." Verify the synthesis against [[Great War]], [[Timeline of Sembaran History]], and [[Refounded Alliance of Aurbez]] before adoption.
+### Applied changes
+- None.
+
+### Validated judgments
+- `POV: modern` and the retained `povNotes:v1` accurately describe a diachronic synthesis whose final frame is the modern cultural landscape.
+- The newer [[Addermarch]] edit does not change its reference to this background note and does not introduce a later material change to the synthesis.
+
+### Editorial assessment
+**Underdeveloped**. The note's central historical sequence still has no account of the Great War and its transition into the modern cultural landscape, while Vostok is named as a core region but remains undeveloped in every era. The smallest useful scope is one sourced Great War transition and one separately developed outline for Vostok's northern, coastal, and interior cultural strands.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The empty `## The Great War and Rise of Sembara` section breaks the note's chronology even though [[Great War]], [[Timeline of Sembaran History]], and [[Refounded Alliance of Aurbez]] establish the war's end, Isingue's destruction, and the resulting diaspora. Candidate: `During the [[Great War]], [[Sembara]] and the [[Istabor Alliance]] fought [[Cha'mutte]]'s forces. The war ended in DR 1545, when Cha'mutte was defeated, but [[Isingue]] was destroyed and refugees from Istabor resettled in [[Duchy of Maseau|Maseau]], the [[Borderlands]], [[Addermarch]], the [[Mostreve Hills]], and the [[Aurbez Plateau]]. These displacements shaped the modern Isinguese diaspora and the communities that later became the [[Refounded Alliance of Aurbez]].`
+- [ ] **Suggestion — editorial.note_underdeveloped:** Vostok is part of the note's stated scope, but the migration, Drankorian, post-Drankorian, and modern sections all leave its cultural history unknown, and the modern section says its culture has not yet been invented. Develop the smallest coherent outline by deciding how the coastal, lowland, and interior Vos relate to the northern and mariner migrations, then state what remains unknown; copy-ready prose is not applicable until those choices are made.
 %%^End%%
