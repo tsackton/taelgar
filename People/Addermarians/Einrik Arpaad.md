@@ -1,19 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [adma]
-campaignInfo: [{campaign: adma, type: "confronted", date: 1715-04-28}, {campaign: adma, type: "laid to rest by", person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}]
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
+tags: [person, status/check/lint]
 species: human
 ancestry: Addermarian
+campaignInfo:
+  - {campaign: adma, type: confronted, date: 1715-04-28}
+  - {campaign: adma, type: laid to rest by, person: Owen Tavish, date: 1715-05-06, wParty: "<met:u> <person> on <target> <current:1q>"}
 gender: male
 died: 1715-04-01
 title: Sir
-affiliations: [{org: Torvaine Watch, title: commander, type: leader}]
-whereabouts:
-- {type: home, location: Torvaine Watch}
-dm_notes: none
-dm_owner: none
 name: Einrik Arpaad
+affiliations:
+  - {org: Torvaine Watch, title: commander, type: leader}
+whereabouts:
+  - {type: home, location: Torvaine Watch}
+knownTo: [adma]
+dm_owner: none
+dm_notes: none
+POV: 1715
 ---
 # Sir Einrik Arpaad
 >[!info]+ Biographical Info  
@@ -42,3 +48,16 @@ command of [[Torvaine Watch]]: was possessed by a cursed dagger ([[Serpentine Da
 ghost laid to rest in [[Addermarch - Session 04]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Einrik Arpaad, language: Addermarian, pronunciation: EYE-nrik AR-pahd, notes: Eastros Germanic and Scandinavian family analogue with pronounced initial diphthong and long aa, status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 retrospective account through the dispersal of Einrik's ghost; his earlier service is summarized without a complete chronology.
+%%^End%%
+
+%%^Lint%%
+- [ ] **Warning — metadata.names_unresolved_status:** The proposed pronunciation `EYE-nrik AR-pahd` is an Eastros Germanic and Scandinavian derivation rather than documented usage. A human should accept it by changing the name entry status to `inferred` or `documented`, or replace it with the intended pronunciation.
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared DM comment points to a formal pre-curse report in which Einrik told Lady Duval he had executed a nameless mage who refused the toll. Consider adopting that supported detail as a concise illustration of his rigid gatekeeping before the dagger's corruption; the remaining shorthand repeats the public account.
+%%^End%%

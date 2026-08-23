@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place, status/check/lint]
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
+tags: [place]
 typeOf: waterway
 typeOfAlias: canal
 name: Mill Channel
@@ -20,8 +20,8 @@ The Mill Channel is the largest of the canals and waterworks that connects the r
 
 %%^Metadata:map:v1%%
 locations:
-  - {role: source, feature: Chasa, map: world, locator: }
-  - {role: outlet, feature: Chasa, map: world, locator: }
+  - {role: source, feature: Chasa, map: world, locator: 13.07.B09}
+  - {role: outlet, feature: Chasa, map: world, locator: 13.07.B09}
 %%^End%%
 
 %%^Metadata:names:v1%%
@@ -32,19 +32,3 @@ locations:
 Temporal coverage: broadly modern geography and industrial use of the channel; no construction date or later change to its route is described.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-
-### Open findings
-
-- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: source.locator, outlet.locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
-
-%%^End%%

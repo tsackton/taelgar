@@ -1,19 +1,26 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-campaignInfo: [{campaign: adma, type: "met", date: 1715-05-06}]
-name: Isolde of Roscombe
 species: human
 ancestry: Addermarian
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-05-06}
 gender: female
-affiliations: [{org: Temple of the Sibyl (Roscombe), title: temple administrator, type: member}]
+name: Isolde of Roscombe
+pronunciation: ih-ZOL-duh
+affiliations:
+  - {org: Temple of the Sibyl (Roscombe), title: temple administrator, type: member}
 whereabouts:
-- {type: home, location: Roscombe}
+  - {type: home, location: Roscombe}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 ---
 # Isolde of Roscombe
+*(ih-ZOL-duh)*
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
@@ -32,3 +39,11 @@ Practical and composed, Isolde prizes order and preparedness. She has little pat
 - Steward handling of the dagger and vault logistics:  [[Adventure 2 - Caves of the Cockatrice]]
 - Temple introductions and follow‑ups: [[Addermarch - Session 06]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Isolde of Roscombe, language: Addermarian, pronunciation: ih-ZOL-duh, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Isolde as Roscombe's temple steward during the Serpentine Dagger crisis; earlier and later service are not described.
+%%^End%%

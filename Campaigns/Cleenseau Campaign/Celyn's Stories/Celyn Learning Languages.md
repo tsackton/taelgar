@@ -1,10 +1,10 @@
 ---
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [source]
 campaign: Cleenseau
 name: Celyn Learning Languages
-POV: 1720s
+POV: 1710s
 ---
 
 When Llinos was five, Blodwen declared that she was going to learn Sembaran.  It became a whole thing, because “learning Sembaran” was not the sort of thing that the family tended to care much about; the vines didn’t care about the language of a distant and largely irrelevant capital.  

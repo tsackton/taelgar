@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [source]
 campaign: Dunmar Frontier
 name: "Cecilia Lister's Story"
@@ -16,7 +16,7 @@ She was born to a modest family of fisherfolk. It was a hard childhood, full of 
 
 The best parts of her childhood were the days her mother would take her to the big market near the docks in [[Fiskurth]], where she could watch the bustle of the city. She tells [[Kenzo]] she remembers being fascinated by the bright colors of the bolts of cloth being loaded onto merchant ships, by the songs of the [[Halflings|halfling]] selling strange-smelling spices, by cheap illusions of the market performers trying to earn a quick coin with a flashy display of simple magic. 
 
-This might have been her life, selling fish at market until she was old, following in her parents footsteps. But, when she was 14, everything changed. 
+This might have been her life, selling fish at market until she was old, following in her parents' footsteps. But, when she was 14, everything changed.
 
 In the spring of 1708, a sickness swept through [[Tollen]], a wasting disease that hit the crowded streets of [[Fiskurth]] and [[Skepwalk]] particularly hard, especially among the many families without spare coin or labor to donate to a temple for a blessing of healing. Cecilia's older brother was sick for a month, and while he eventually recovered he was cursed with spells of weakness ever after. Cecilia found herself forced to join her father on the ocean in his place. Learning to sail and read the ocean was hard and did not come naturally to her. 
 

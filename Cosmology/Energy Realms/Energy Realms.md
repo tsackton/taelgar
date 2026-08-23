@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: the}
 tags: [background]
 name: Energy Realms
@@ -18,7 +18,7 @@ This traditional model postulates there are only four (or five, if the Plane of 
 
 ### Airion's Compound Elemental Planes
 
-The recent rediscovery of the [[The Codex of Compound Planes]] by the famous wizard and elementalist [[Airion|Airion the Mistspeaker]] calls into question the traditional model, however. Airion devoted his life to the study of the elemental planes, until he was tragically killed in his prime during the [[Great War]]. Much of his work was lost during the [[Blood Years]], but recent efforts by the [[Great Library]] to recover lost knowledge have paid dividends. In [[The Codex of Compound Planes]], [[Airion]] claims, by careful experimentation with planar travel, to have isolated specific metaphysical energies associated with a number of Compound Elemental Realms, which  have traditionally been considered localized regions of the vast Elemental Realms. Airion speaks of at least eight of these Compound Elemental Planes that represent what he calls the secondary energies, to distinguish them from the five fundamental energies. 
+The recent rediscovery of the [[The Codex of Compound Planes]] by the famous wizard and elementalist [[Airion|Airion the Mistspeaker]] calls into question the traditional model, however. Airion devoted his life to the study of the elemental planes, until he was tragically killed in his prime during the [[Great War]]. Much of his work was lost during the [[Blood Years]], but recent efforts by the [[Great Library]] to recover lost knowledge have paid dividends. In [[The Codex of Compound Planes]], [[Airion]] claims, by careful experimentation with planar travel, to have isolated specific metaphysical energies associated with a number of Compound Elemental Realms, which have traditionally been considered localized regions of the vast Elemental Realms. Airion speaks of at least eight of these Compound Elemental Planes that represent what he calls the secondary energies, to distinguish them from the five fundamental energies.
 
 He describes:
 - [[Frostfell]], representing the energy of cold and associated with preservation, a blend of Water and Air
@@ -33,7 +33,7 @@ He describes:
 
 Dwarven metaphysicists traditionally postulate a model of the Energy Realms based on the ancient theory, supposedly spoken to the first dwarves by the [[Bahrazel|Firstborn]] themselves, of the seven fundamental energies of the [[Material Plane]]: Spirit (associated with the Ruler), Magic (associated with the Runecrafter), Earth (associated with the Priest), Air (associated with the Traveler), Fire (associated with the Stoneworker), Water (associated with the Farmer), and Metal (associated with the Warrior).
 
-In this model, the essence of Spirit is associated with the [[Heart of the Mountain]], while the other six energies associated with specific Energy Realms, implying the existence of an [[Elemental Plane of Metal]]. While [[Lyrannis of Aquilona]] dismisses this, citing a lack of evidence of pure metal elementals, empirical metaphysicists have documented descriptions of places -- assumed to be part of the [[Elemental Plane of Earth]] -- that resemble massive twisted caverns of iron, which some theorists believe could instead be the mysterious [[Elemental Plane of Metal]]. Others claim that what the dwarves call the [[Elemental Plane of Metal]] is in fact Airion's [[Ironroot]] and [[Pyreforge]], two of the Compound Realms of the Elemental Plane of Earth. 
+In this model, the essence of Spirit is associated with the [[Heart of the Mountain]], while the other six energies are associated with specific Energy Realms, implying the existence of an [[Elemental Plane of Metal]]. While [[Lyrannis of Aquilona]] dismisses this, citing a lack of evidence of pure metal elementals, empirical metaphysicists have documented descriptions of places -- assumed to be part of the [[Elemental Plane of Earth]] -- that resemble massive twisted caverns of iron, which some theorists believe could instead be the mysterious [[Elemental Plane of Metal]]. Others claim that what the dwarves call the [[Elemental Plane of Metal]] is in fact Airion's [[Ironroot]] and [[Pyreforge]], two of the Compound Realms of the Elemental Plane of Earth.
 ### The Eightfold Essences
 
 The lizardfolk mystic [[Aznoke|Aznoké]], in her epic poem _[[The Endless Currents]]_, described the Eightfold Essences as the combination of the physical energies (Fire, Air, Earth, Water), the fundamental energies (Magic and Spirit), and the cyclical energies (Life and Death). She speaks of the [[Positive Energy Plane|Plane of Blossoming Currents]] as the wellspring of vitality, where life flows into being like a river surging forth from its source, representing the cyclical energy of Life. Its counterpart, the [[Negative Energy Plane|Plane of Still Waters]], is a tranquil, shadowed realm where the currents of life slow and pool, allowing death to cleanse and prepare for renewal, representing the cyclical energy of Death. While Aznoké's teachings emphasize the unity of these forces within the natural cycle, some scholars in the [[Faculty of Metaphysics]] have speculated that they correspond to the hypothesized [[Positive Energy Plane]] and [[Negative Energy Plane]], which no planar traveler has yet reached and returned from safely.

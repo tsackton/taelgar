@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: neighborhood
@@ -30,13 +30,7 @@ Temporal coverage: broadly modern urban geography; the note gives no dated chang
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
 ### Open findings
 
-- [ ] **Suggestion — dm.notes_no_local_evidence:** No local-only _DM_ notes found; verify dm_notes. The positive attestation may still represent remembered information or another off-vault source, so never remove it automatically.
-
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No matching local-only `_DM_` note was found for Precinct VII. Verify whether `dm_notes: important` refers to remembered or off-vault material; retain it if so, or have a human change it to `none` if no private material exists.
 %%^End%%

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [place]
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
+tags: [place, status/check/lint]
 typeOf: building
 typeOfAlias: bastion
 name: Tempest Towers
@@ -43,4 +43,12 @@ Temporal coverage: DR 1747–1748. This describes the Silver Tempests' manor dur
 
 %%^Metadata:names:v1%%
 - {name: Tempest Towers, role: primary name, language: Common, status: inferred, notes: descriptive plain-English title}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** [[Great Library Session Notes - Arc 5]] records that in DR 1752 the Silver Tempests learned of chaos in [[Voltara]] and an attempt to use _Transport Via Plants_ to reach the Tempest Towers courtyard failed, suggesting that its tree had been felled. Choose whether to update the visible article and `POV`, defer the update by having a human add the applicable `status/gameupdate/grli` tag, or explicitly preserve the DR 1747–1748 historical snapshot without a game-update tag. Copy-ready update candidate: “By DR 1752, an attempt to reach the Tempest Towers courtyard by _Transport Via Plants_ failed, suggesting that the courtyard tree had been felled; the manor's condition and control were otherwise unknown.”
 %%^End%%

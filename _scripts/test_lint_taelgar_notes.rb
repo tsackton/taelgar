@@ -1146,6 +1146,31 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_equal "open", result.fetch("notes").first.fetch("outcome")
   end
 
+  def test_finalizer_accepts_distinct_identical_shared_comments
+    root = make_vault
+    path = "Meta/Duplicate Shared Comments.md"
+    comment = "%% This repeated private fixture guidance is intentional. %%"
+    note = meta_note("Duplicate Shared Comments", version: "2.2").sub(
+      "\n%%^povNotes:v1%%",
+      "\n#{comment}\n\n#{comment}\n\n%%^povNotes:v1%%"
+    )
+    write_note(root, path, note)
+    manifest, manifest_sha, review_dir, = build_workspace(root, [path])
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+      decision.fetch("sharedNonpublicReview").each do |review|
+        review["disposition"] = "dm_only"
+        review["summary"] = "The repeated fixture guidance remains intentionally private."
+      end
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_equal "clean", result.fetch("notes").first.fetch("outcome")
+  end
+
   def test_finalizer_reports_positive_dm_attestation_sources_mechanically
     root = make_vault
     path = "People/DM Review.md"
@@ -1183,6 +1208,54 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     written = File.read(File.join(root, path))
     assert_match(/^### DM evidence$/, written)
     assert_match(/^- #{Regexp.escape(link)}$/, written)
+  end
+
+  def test_finalizer_skips_older_dm_clusters_when_review_gate_is_not_required
+    root = make_vault
+    path = "People/Skipped DM Review.md"
+    write_note(
+      root,
+      path,
+      person_note("Skipped DM Review", linted: true).sub(
+        "knownTo: []\n",
+        "knownTo: []\ndm_owner: tim\ndm_notes: none\n"
+      )
+    )
+    source_path = "_DM_/Skipped DM Review Notes.md"
+    write_note(root, source_path, "# Notes\n\n[[Skipped DM Review]] has older private support.\n")
+    git(root, "init", "-q")
+    git(root, "config", "user.email", "lint-test@example.invalid")
+    git(root, "config", "user.name", "Lint Test")
+    git(root, "add", ".")
+    git(
+      root,
+      "commit",
+      "-q",
+      "-m",
+      "base",
+      env: {
+        "GIT_AUTHOR_DATE" => "2026-08-19T08:30:00-04:00",
+        "GIT_COMMITTER_DATE" => "2026-08-19T08:30:00-04:00"
+      }
+    )
+    source = File.join(root, source_path)
+    older = Time.iso8601("2026-08-19T08:00:00-04:00")
+    File.utime(older, older, source)
+
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    record = manifest.fetch("notes").first
+    assert_equal false, record.dig("deterministic", "reviewGates", "dmNotes", "required")
+    assert_equal 1, record.dig("dmEvidence", "clusters").length
+
+    decisions = snapshot(root, manifest, manifest_sha)
+    decision = decisions.fetch("notes").first
+    assert_equal false, decision.dig("dmNotesReview", "required")
+    assert_empty decision.dig("dmNotesReview", "clusterReviews")
+    decision["editorialVerdict"] = "Sufficient"
+    decision["outcome"] = "clean"
+
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize
+    assert_equal "clean", result.fetch("notes").first.fetch("outcome")
   end
 
   def test_finalizer_omits_unhelpful_dm_notes_none_matches_from_mechanical_handoff

@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/errors]
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
-name: Urlich Pass
+tags: [place, status/check/errors, status/check/lint]
 typeOf: topographical feature
-whereabouts: Sentinel Range
-dm_notes: none
-dm_owner: none
 typeOfAlias: pass
+name: Urlich Pass
+whereabouts: Sentinel Range
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Urlich Pass
 >[!info]+ Information  
@@ -34,4 +37,19 @@ See also:
 - [[Great War Notes]]
 - [[Timeline of Sembaran History]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Urlich Pass, language: unknown, pronunciation: UR-likh pass, notes: cautiously derived from the spelling because no explicit pronunciation or language guidance was found, status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broad history through the modern era; the pass's post-Great-War devastation is presented as continuing, while the site's earlier nature remains uncertain.
+%%^End%%
+
+%%^Lint%%
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `UR-likh pass` from a cautious spelling-based reading because no language or explicit pronunciation evidence was found. Review the proposal, then accept it in frontmatter or mark it documented, or replace it with the intended pronunciation.
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden Campaign:none block contains a player-safe possibility that the battle occurred at Urlich Monastery, while its firstborn and extraplanar purpose remains speculative. Candidate: `The Battle of Urlich Pass was fought at Urlich Monastery; the monastery's original purpose is unknown.` Consider adopting only this bounded statement and leaving the proposed explanations hidden unless separately established.
 %%^End%%

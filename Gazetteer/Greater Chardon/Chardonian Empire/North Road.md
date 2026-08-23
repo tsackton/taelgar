@@ -19,7 +19,7 @@ The North Road is a major trade road that enters Chardon through the [[Trade Gat
 
 %%^Metadata:map:v1%%
 locations:
-  - {feature: Chardon, map: world, locator: 13.07.C22}
+  - {feature: Chardon, map: world, locator: 13.07.B09}
   - {map: world, locator: 10.06.L07}
 %%^End%%
 

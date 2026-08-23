@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-name: Karl
 species: human
 ancestry: Addermarian
 gender: male
 born: 1678
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-05-17}
+name: Karl
 whereabouts:
-- {type: home, location: Haldrenn}
-campaignInfo: [{campaign: adma, type: met, date: 1715-05-17}]
+  - {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 ---
 # Karl
 >[!info]+ Biographical Info  
@@ -25,3 +29,11 @@ A soot‑stained charcoal burner of [[Haldrenn]]; father of [[Bran]] and husband
 %% DM (PC interactions)
 - Briefed the Addermarch Mercenaries about [[Olay]]’s death and the cattle’s strange rage: [[Addermarch - Session 11]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Karl, language: Addermarian, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Karl as a Haldrenn charcoal burner, husband, and father; earlier and later life are not described.
+%%^End%%

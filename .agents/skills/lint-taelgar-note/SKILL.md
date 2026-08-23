@@ -127,7 +127,35 @@ Write the validator's exact quoted version and an offset-bearing timestamp only 
 - **Open:** one final `%%^Lint%%` block, `status/check/lint`, and at least one unchecked task with severity, stable rule ID, evidence, and a copy-ready candidate where applicable.
 - **Clean:** no Lint block and no `status/check/lint`; retain the new completion pair and supported persistent metadata.
 
-Reports contain only current open work. Preserve unresolved human decisions; do not keep checked tasks, empty reports, or tags justified only by information. Record applied changes in an open report or, for a clean lint, in the handoff.
+Every open result must use the complete human-review report structure below. A bare task list is never a complete Lint report, even when the note has only one finding and even if the current deterministic validator accepts it. Do not omit an empty core section; use the stated `None` bullet instead.
+
+```markdown
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — rule.id:** Evidence and a copy-ready candidate where applicable.
+%%^End%%
+```
+
+Populate the report as follows:
+
+- **Applied changes:** list every substantive automatic lint-owned change made in this run, including governed metadata normalization and objective body corrections. Do not list routine `lintedAt`, `lintVersion`, report-lifecycle, or `status/check/lint` mechanics. Use exactly `- None.` when there were no substantive automatic changes.
+- **Validated judgments:** record concise, share-safe results of completed contextual review that materially explain the outcome, such as corroborating newer-source review, support for a positive `dm_notes` attestation, or confirmation that a `SECRET` block was reviewed without reproducing its contents. Never copy, quote, or paraphrase private material here. Use exactly `- No additional validated judgments.` when no such result needs recording.
+- **Editorial assessment:** for an Underdeveloped verdict only, insert `### Editorial assessment` between **Validated judgments** and **Open findings**, with the required explicit account of every central missing dimension. Omit this section for other verdicts.
+- **Open findings:** include every and only current unresolved finding as an unchecked task with severity, stable rule ID, evidence, and a copy-ready candidate where applicable. This section must contain at least one task.
+- **DM evidence:** when reportable `_DM_` sources exist, the finalizer appends `### DM evidence` after **Open findings**, with one exact source wikilink per dash-bulleted line. The worker must not invent, paraphrase, or manually recover private evidence. Omit this section when there are no reportable links.
+
+Before recording `candidateSha256`, the worker must explicitly verify that every open candidate contains the title and all three core headings exactly once, that any conditional headings are correctly placed, and that no unchecked task appears outside **Open findings**.
+
+Reports contain only current open work plus the applied-change and validated-judgment record required above. Preserve unresolved human decisions; do not keep checked tasks, empty reports, or tags justified only by information. For a clean lint, record applied changes in the handoff instead because the note retains no Lint block.
 
 ## Verify and hand off
 

@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - status/check/errors
-  - place
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [status/check/errors, place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
-ancestry: Deno'qai
+ancestry: "Deno'qai"
+name: Raha
 whereabouts: Highveil Forest
-dm_notes: color
 dm_owner: tim
+dm_notes: color
+POV: 1747
 ---
 # Raha
 >[!info]+ Information  
@@ -18,8 +20,6 @@ dm_owner: tim
 %%settlement of Deno'qai developed for Great Library campaign, pre-Deno'qai lore, needs some work%%
 
 
-# Raha
-
 Location: About a day’s journey east of the northeastern corner of the Chardonian empire, in the forest on the slopes of the [[Sentinel Range|Sentinels]]
 
 Size: a medium sized village of about 60 buildings, housing perhaps 200 people
@@ -28,7 +28,7 @@ Age: Raha has been settled for nearly 100 years now
 
 Condition: simple wooden architecture, thatch or other simple roofing, but well-constructed and maintained
 
-Government: Hakar, A local chief chosen by the village, who represents the village in inter-village councils
+Government: Hakar, a local chief chosen by the village, who represents the village in inter-village councils
 
 People: Northerners -- blue eyed, long haired, pale, generally large and thick featured
 
@@ -51,15 +51,37 @@ Layout:
 
   
 
-History: Founded Northerners who had been living in marginal land moving into the forest after the end of the Blood Years; the people have only a hazy sense of their past but do remember stories of when they were living at the margins of society and do not want to return to that life under Chardonian rule. The biggest event of note in the village history are the Great Blizzard about a generation back, although like all villages in this area it has experienced the occasional monster attack.
+History: Founded by Northerners who had been living in marginal land moving into the forest after the end of the Blood Years; the people have only a hazy sense of their past but do remember stories of when they were living at the margins of society and do not want to return to that life under Chardonian rule. The biggest event of note in the village history is the Great Blizzard about a generation back, although like all villages in this area it has experienced the occasional monster attack.
 
   
 
-Vibe: The people here are wary of outsiders, but friendly once they decide you are trustworthy. They are proud of their local traditions, especially their sausage and pigs, and often hold races while riding pigs in the sparring ground, sometimes mounted pig wrestling as well. The regular cycle of festivals and sacrifices bring life to the village, as each one is accompanied by a feast.
+Vibe: The people here are wary of outsiders, but friendly once they decide you are trustworthy. They are proud of their local traditions, especially their sausage and pigs, and often hold races while riding pigs in the sparring ground, sometimes mounted pig wrestling as well. The regular cycle of festivals and sacrifices brings life to the village, as each one is accompanied by a feast.
 
   
 
-Services: there is no inn or tavern, but travelers who meet the approval of Hakar can sleep in the great hall, and several villagers brew beer they’d be happy to sell. Rations can be obtained from the butcher or in trade from Hakar. There is also a tanner/leatherworker in the village, a not-very-skilled blacksmith, and a few of the soldiers have some skill in repairing basic items. Finally, an old woman collects herbs and other things from the forest and brew concoctions -- not truly magical, but many common potions can be obtained from her.  
+Services: there is no inn or tavern, but travelers who meet the approval of Hakar can sleep in the great hall, and several villagers brew beer they’d be happy to sell. Rations can be obtained from the butcher or in trade from Hakar. There is also a tanner/leatherworker in the village, a not-very-skilled blacksmith, and a few of the soldiers have some skill in repairing basic items. Finally, an old woman collects herbs and other things from the forest and brews concoctions -- not truly magical, but many common potions can be obtained from her.  
 
   
-Downtime: There is not much to do in Raha; even gathering rumors is questionable at best. However, one can compete in the pig wrestling matches, which uses pit fighting rules but requires an animal handling check, a strength check, and a dexterity check.
+Downtime: There is not much to do in Raha; even gathering rumors is questionable at best. However, one can compete in the pig wrestling matches, which use pit fighting rules but require an animal handling check, a strength check, and a dexterity check.
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Raha, role: primary, language: Deno'qai, pronunciation: RAH-hah, notes: "Proposed from the documented Deno'qai Hebrew or Arabic analogue; exact in-world phonology is not established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1747 village snapshot centered on the Silver Tempests' visit and Hakar's leadership; the settlement's earlier history is only approximately dated.
+%%^End%%
+
+%%^Lint%%
+- [ ] **Warning — metadata.map_location_missing:** Add Raha's verified coordinates to the world map locator; the vault establishes its relative location east of Chardon and within the Highveil Forest, but not an exact map position.
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the proposed pronunciation `RAH-hah`. It is a cautious proposal based on the documented Deno'qai Hebrew or Arabic analogue, with open vowels and pronounced `h`; the exact in-world phonology is not established.
+- [ ] **Suggestion — editorial.public_material_candidate:** Decide whether to adopt the public-safe religious explanation currently preserved in a shared comment. Copy-ready candidate: "Raha follows a local form of [[Northern Folk Religions|Northern folk religion]] shaped by Drankorian and Chardonian influence. Its people make sacrifices to local gods called tanshi, drawing them to the village to carry messages to greater, less clearly defined divine powers."
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Baz'aku (OneNote)]]
+%%^End%%

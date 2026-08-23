@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-name: Manfred
 species: human
 ancestry: Addermarian
 gender: male
 born: 1676
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-05-17}
+name: Manfred
 whereabouts:
-- {type: home, location: Haldrenn}
-campaignInfo: [{campaign: adma, type: met, date: 1715-05-17}]
+  - {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 ---
 # Manfred
 >[!info]+ Biographical Info  
@@ -25,3 +29,11 @@ A burly villager of [[Haldrenn]], father to [[Rowena]] and one of the hamlet’s
 %% DM (PC interactions)
 - Bonfire discussion after the worg attack with Helen and Karl; details on Duncan and fey tensions: [[Addermarch - Session 12]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Manfred, language: Addermarian, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Manfred's family and community role during the Haldrenn fey disturbances.
+%%^End%%

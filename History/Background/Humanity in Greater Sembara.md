@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/errors]
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [background, status/check/errors, status/check/lint]
+name: Humanity in Greater Sembara
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 # Humanity in Greater Sembara
 
@@ -30,7 +34,7 @@ The most important context for the history of humanity in the Greater Sembara ar
 * The eastern mariners, who came from the eastern green sea, shortly before the Downfall
 * The Drankorians, who came from the south, during the first phase of Drankorian expansion after the Downfall
 
-Each of these waves of migration lead to significant cultural intermixing and the birth of new cultures. 
+Each of these waves of migration led to significant cultural intermixing and the birth of new cultures.
 ## Earliest Migrations
 The first humans arrived in the Greater Sembaran region in the years between 3450 and 3650 %% this is not necessarily canonical, but it should be somewhat before the founding of Tollen %% from the west, crossing over the Sentinels. These earliest migrants spoke a Northros language, and worshipped in the tradition of the [[Northern Folk Religions]], although the exact details of their culture and language have been lost to time. 
 
@@ -53,16 +57,16 @@ Old Brainstorming:
 
 %%
 
-A third human culture, the Tyrwinghans, was settled in the lands claimed by [[Archfey Ethlenn]] by 4000, although whether there origin was northern, eastern, or something else is not decided. 
+A third human culture, the Tyrwinghans, was settled in the lands claimed by [[Archfey Ethlenn]] by 4000, although whether their origin was northern, eastern, or something else is not decided.
 
 So at the time of the Downfall, out of the mixing of these mariner and northerner cultures, there are at least a handful of emerging cultural strands:
 
 - In the highlands, particularly the upper Volta, Lavnoch, and the higher foothills of the Sentinels, a culture worshipping kestavo and speaking a Northros tongue (this will become Old Zimkovan)
 - On the coasts, a seafaring culture speaking an Eastros tongue, who will become the Skaer
-- In between -- in the fertile river valleys of the Semb, Volta, and Teft -- a mixed culture that increasing comes to speak an Eastros tongue, but worship kestavo (these will become the lowland Zimka)
+- In between -- in the fertile river valleys of the Semb, Volta, and Teft -- a mixed culture that increasingly comes to speak an Eastros tongue, but worship kestavo (these will become the lowland Zimka)
 * The Tyrwinghans, somewhat isolated from the rest, with cultural and linguistic ties to the Tollish culture, but also separated from the rest of human culture by the great lizardfolk swamp
 
-Some other cultures may be emerging here as well, those these are less established:
+Some other cultures may be emerging here as well, though these are less established:
 - A Tollish culture, centered on the Gulf of Tollen and the mouth of the Volta, perhaps that is religiously unusual or otherwise is somewhat apart the other intermixed cultures
 
 %% One possible neat solution here:
@@ -77,7 +81,7 @@ So you get basically three diverging languages -- Zimka, Old Tollish, Skaer -- t
 
 * The Zimka, as they came to be known, spread across three distinct regions: the foothills near the headwaters of the [[Volta]] and the [[Lavnoch Plateau]]; the upper [[Semb]] valley; and the [[Volta]] river valley and the forests it passes through
 * The Skaer, dedicated to the ocean, settled on their islands and dominating the sea and the immediate coasts
-* The Tollish culture, a blend of the Skaer and Zimka, speaking a Eastros language but worshipping different gods than the Skaer brethren either kestavo or something kestavo like, or a pantheon that died out during the Downfall, which came to dominate the lower Semb, the lower Volta, and the Teft river valleys. Tollen itself could have been seen as Tollish, or it could be seen as Skaer, I'm not sure the distinction is really important at this ancient date
+* The Tollish culture, a blend of the Skaer and Zimka, speaking an Eastros language but worshipping different gods than the Skaer brethren either kestavo or something kestavo like, or a pantheon that died out during the Downfall, which came to dominate the lower Semb, the lower Volta, and the Teft river valleys. Tollen itself could have been seen as Tollish, or it could be seen as Skaer, I'm not sure the distinction is really important at this ancient date
 %%
 
 Exactly what is happening Vostok at this time is unclear. 
@@ -88,7 +92,7 @@ At least two cultural strands: in the northern parts of Vostok, a culture with c
 ## The Downfall
 The Downfall impacts the lizardfolk and elves more than the humans. The great lizardfolk kingdoms vanish, surviving only in the small settlements in Ozobal and elsewhere along the river deltas, and the elves retreat to their isolated forest of Orenlas. Many humans die, but the basic cultures survive, as do the Tyrwinghans, who are mostly unscathed, likely due to the influence and protection of [[Archfey Ethlenn]]. 
 
-During the next three hundred or so years, the Skaer blossom and an Skaegish Empire spreads along the coasts, though exactly how this Skaer culture relates to the lowland Zimka or the Tollish culture is unclear and not determined. 
+During the next three hundred or so years, the Skaer blossom and a Skaegish Empire spreads along the coasts, though exactly how this Skaer culture relates to the lowland Zimka or the Tollish culture is unclear and not determined.
 
 By the year 4400, as the Drankorian expansion begins in the south, there are several human cultures:
 
@@ -105,7 +109,7 @@ Key points:
 - The Skaer emerge as a unified culture worshipping Kaikkea and dominating the seas
 
 ## Coming of Drankor
-Between 4475 and 4535 (330s - 400s, DR) Drankor rapidlly expands north, and the Istabor Valley, Cymea, and Sembara are settled by the rapidly growing Drankorian population.
+Between 4475 and 4535 (330s - 400s, DR) Drankor rapidly expands north, and the Istabor Valley, Cymea, and Sembara are settled by the rapidly growing Drankorian population.
 
 In Istabor and Cymea there are few humans as these lands were once part of the great non-human empires. The Drankorian culture dominates here. North of the Mostreve Hills, however, the Drankorians encounter the diverse mixed mariner and northerner cultures here. 
 
@@ -125,7 +129,7 @@ For 600-700 years, Drankor rules the Sembaran Provinces in (mostly) peace, and t
 * In the north, the Zimka increasingly remain kestavan worshippers, and the "old" and "new" Zimka increasingly intermingle and reunify. The Eastros-based language comes to dominate, although some small pockets of Old Zimka remain, especially in a ritual context and in the higher elevations, and many of the kestavo have Old Zimka names. 
 * In the central Sembaran provinces, the intercessionist form of Mos Numena develops and a broad Sembaran culture starts to form
 * In Tyrwingha, there is much intermixing with the Sembaran culture, but a strong traditionalist attitude as well, and the Tyrwinghan language remains common in rural areas, but the Sembaran form of worship is adopted with some small Tyrwinghan flavors
-* Maseau and the Isataros watershed increasingly develop a very Drankorian culture, with closer ties to Drankor itself
+* Maseau and the Istaros watershed increasingly develop a very Drankorian culture, with closer ties to Drankor itself
 
 %% The Istabor watershed in particular is not well developed here and this should be not considered canon; the main point is that Maseau is fairly culturally distinct from the main Sembaran provinces, and is more purely Drankorian %%
 ## The Great War and Rise of Sembara
@@ -148,7 +152,7 @@ A culture that arose in the river valleys of Sembara in ancient days, out of the
 
 ### Sembarans
 
-A Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks an Eastros language with significant Drankorian influence, and worships Mos Numea. 
+A Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks an Eastros language with significant Drankorian influence, and worships Mos Numena.
 
 ### Tollish
 
@@ -165,3 +169,14 @@ _Cultures on the borders of Greater Sembara_
 - Across the Western Gulf, the Cymeans, a Drankorian culture speaking a Drankorian language, settled across the Cymean Peninsula. This is a much more purely Drankorian culture than Sembarans, Tyrwinghans, or Tollish. 
 - South of Greater Sembara, in the upper Istaros area, the Isinguese, a Drankorian culture speaking a Drankorian language, though largely driven from their homelands by the aftermath of the Great War. 
 - In the Western Green Sea, the [[Skaer]], an oceanic mariner culture speaking an Eastros language, using the mariner alphabet, and worshipping [[Kaikkea]], the ocean goddess. The Skaer are in some manner the descendants of the ancient mariner settlers. 
+
+%%^povNotes:v1%%
+Temporal coverage: a diachronic synthesis from pre-Downfall migrations through the broadly modern cultural landscape; many early dates and several cultural transitions are explicitly approximate, provisional, or still undeveloped.
+%%^End%%
+
+%%^Lint%%
+### Editorial assessment
+- **Underdeveloped** — The article attempts a continuous history of humanity in Greater Sembara, but its central transition from the Great War to the modern cultural landscape is entirely blank despite established public material elsewhere in the vault.
+
+- [ ] **Warning — coverage.established_fact_missing:** Fill the empty `## The Great War and Rise of Sembara` section with the established transition rather than leaving the chronology disconnected. Copy-ready source-grounded draft: "During the [[Great War]], [[Sembara]] and the [[Istabor Alliance]] fought against [[Cha'mutte]]. The war ended in DR 1545, but the destruction of [[Isingue]] and the spread of [[Cha'mutte's Plague]] shattered the Istabor heartland and sent refugees into [[Duchy of Maseau|Maseau]], [[Addermarch]], the [[Mostreve Hills]], and the future [[Refounded Alliance of Aurbez]]. In the war's aftermath, Sembara endured the Blood Years while Isinguese refugees preserved their traditions in northern borderlands." Verify the synthesis against [[Great War]], [[Timeline of Sembaran History]], and [[Refounded Alliance of Aurbez]] before adoption.
+%%^End%%

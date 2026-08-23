@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/errors]
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [background, status/check/errors, status/check/lint]
+name: Embodied Gods
 aliases: [embodied god]
 dm_owner: none
 dm_notes: important
+POV: modern
 ---
 # Embodied Gods
 
@@ -16,4 +20,29 @@ The divinities known as the Embodied Gods are the direct creations of the [[High
 
 The most well known of the Embodied Gods are the deities created by the [[Divine Presence]], and often known as the Firstborn, who themselves created new species in their images. These are: [[Aldanor]] and [[Elmerca]], the Living Tree and the Wild Star of the elves; [[Entamba]], the Elder Mountain of the stoneborn; [[Hazkunde]], [[Bero]], [[Udazkena]], and [[Negu]], sometimes known as Spring, Summer, Autumn, and Winter, the four [[Tharzen Anzinakoa]] of the lizardfolk; the [[Uzdan|Ruler]], [[Karthel|Runecrafter]], [[Fanrukel|Priest]], [[Azar|Warrior]], [[Maganna|Traveler]], [[Tarbaka|Stoneworker]], and [[Oshkir|Farmer]], the seven [[Bahrazel]] of the dwarves; and [[Nwana]], called the Stranger-Child, [[Obito]], called the Merchant-Musician, and [[Jemghari]], called the Traveler-Storyteller, the two-faced [[First Ones]] of the halflings.
 
-Less well understood among the Embodied Gods are the creations of the [[Three Despairs]], imbued with the same divine power as the Firstborn, but twisted for destructive ends. Among these, the most widely known is [[Thark]], the God of War Without End, created by the union of [[Umidzka]] and [[G'Zab]], who gave rise to the orcs, and through his compulsion drives them to violence for the sake of violence. Elven lore records rumors of other embodied gods spawned by the Three Despairs, including [[Ghesyn]], the Goddess of the End, also known as the Hopeless One, the offspring of [[G'Zab]] and [[Jinnik]]; the [[Endless Chaos]], the offspring of [[Umidzka]] and [[Jinnik]]; and the[[ Mad One]], the embodied avatar of [[Jinnik]].
+Less well understood among the Embodied Gods are the creations of the [[Three Despairs]], imbued with the same divine power as the Firstborn, but twisted for destructive ends. Among these, the most widely known is [[Thark]], the God of War Without End, created by the union of [[Umidzka]] and [[G'Zab]], who gave rise to the orcs, and through his compulsion drives them to violence for the sake of violence. Elven lore records rumors of other embodied gods spawned by the Three Despairs, including [[Ghesyn]], the Goddess of the End, also known as the Hopeless One, the offspring of [[G'Zab]] and [[Jinnik]]; the [[Endless Chaos]], the offspring of [[Umidzka]] and [[Jinnik]]; and the [[Mad One]], the embodied avatar of [[Jinnik]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern theological classification with mythic creation history; no narrower present-day state controls the article.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit note name and a modern article POV.
+- Repaired the missing space in the Mad One link.
+
+### Validated judgments
+- The article preserves the distinction between well-attested Thark and rumored other creations of the Three Despairs.
+- This is a theological category organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
+- The complete local-only dossier confirms evidence relevant to the positive `dm_notes: important` attestation.
+- `status/check/errors` was preserved.
+
+### Open findings
+- [ ] **Suggestion — editorial.shared_material_redundant:** The opening shared comment asks for a rewrite distinguishing Thark from the rumored embodied gods and for the Firstborn term to be added; both requests are already implemented. Remove the resolved comment after human confirmation.
+
+### DM evidence
+- [[_DM_/Secret Worldbuilding/Mulitverse]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+%%^End%%

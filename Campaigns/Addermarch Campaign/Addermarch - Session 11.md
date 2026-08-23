@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 11
@@ -85,4 +85,3 @@ With a few hours until sunset, the party decides to search for [[Rowena]], the m
 Inside the cave, the party is attacked by three swarms of enraged bees. Although their stings are painful, [[Fazoth de Brune|Fazoth]]'s _Cloud of Daggers_, [[Drou]]'s _Dissonant Whispers_, and [[Yvan Greenrabbit|Yvan]]'s _Chromatic Orb_ make quick work of them. As the few surviving bees flee, [[Rowena]] emerges from a small nook, where she had hidden, using her canvas foraging bag as cover to prevent the bees from being able to enter.
 
 Although it is now dark, the party sets out to return to [[Haldrenn]] with [[Rowena]]. We end as the party approaches the final hill, as the lantern of fey tracking lights up and the sound of worgs can be heard ahead, attacking the village.
-

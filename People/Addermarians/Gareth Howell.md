@@ -1,22 +1,25 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-campaignInfo: 
-- {campaign: adma, type: "met", date: 1715-04-30}
-name: Gareth Howell
 species: human
 ancestry: Addermarian
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-04-30}
 gender: male
 title: Sir
+name: Gareth Howell
+pronunciation: GAR-eth HOW-ell
 affiliations:
-- {org: Duval Household, title: Captain of the Guard}
+  - {org: Duval Household, title: Captain of the Guard}
 whereabouts:
-- {type: away, location: Torvaine Forest, start: 1715-04-28, end: 1715-04-30}
-- {type: home, location: Roscombe}
+  - {type: away, location: Torvaine Forest, start: 1715-04-28, end: 1715-04-30}
+  - {type: home, location: Roscombe}
+knownTo: [adma]
 dm_owner: tim
 dm_notes: none
-pronunciation: GAR-eth HOW-ell
+POV: 1715
 ---
 # Sir Gareth Howell
 *(GAR-eth HOW-ell)*
@@ -34,4 +37,12 @@ Gareth Howell is the captain of Lady [[Elowen Duval]]’s household guard, respo
 ## Relationships
 - [[Elowen Duval]] — Castellan he serves.
 - [[Colette du Bois]] — Squire under his mentorship.
-- [[Addermarch Mercenaries]] — Trusted partners for missions beyond his regular capacity
+- [[Addermarch Mercenaries]] — Trusted partners for missions beyond his regular capacity.
+
+%%^Metadata:names:v1%%
+- {name: Gareth Howell, language: Addermarian, pronunciation: GAR-eth HOW-ell, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Gareth's active command and relationships in Roscombe; earlier and later service are not described.
+%%^End%%

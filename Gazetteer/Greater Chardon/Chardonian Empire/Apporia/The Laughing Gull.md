@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: inn
 typeOfAlias: tavern
@@ -18,10 +18,9 @@ POV: 1748
 
 A tavern in [[Castrella]].
 
-%%
- Where the party regrouped to discuss legends of [[Yeshara]] and the [[Shemra Azem]].
- 
-GL Arc 5 context: research and rumor-gathering hub in Castrella. See: [[Great Library Session Notes - Arc 5]]
+%% Great Library campaign notes:
+Where the party regrouped to discuss legends of [[Yeshara]] and the [[Shemra Azem]].
+research and rumor-gathering hub in Castrella. See: [[Great Library Session Notes - Arc 5]]
 %%
 
 %%^Metadata:names:v1%%

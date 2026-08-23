@@ -1,7 +1,11 @@
 ---
-tags: [background, religion/halflings, status/check/errors]
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [background, religion/halflings, status/check/errors, status/check/lint]
+name: Halfling Religious Practice
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Halfling Religious Practice
 
@@ -16,12 +20,13 @@ Halflings do not have deep traditions of prayer, or organized religious practice
 Nonetheless, some religious traditions are common among halfling communities.
 ## Prayers and Worship
 
-Prayer and worship traditions in halfling culture typically serves to call the attention of the [[First Ones]], to ask them to attend with purpose, to help create and preserve strong memories. Prayers for beginnings, and for endings, are often said, and especially prayers to remember those who have passed and ensure their memories are strong. 
+Prayer and worship traditions in halfling culture typically serve to call the attention of the [[First Ones]], to ask them to attend with purpose, to help create and preserve strong memories. Prayers for beginnings, and for endings, are often said, and especially prayers to remember those who have passed and ensure their memories are strong.
 
-History-bearers, those halflings who through practice or divine inspiration have a deeper, and stronger, connection to the racial memory, bear witness to these beginnings and endings, and many halfling prayers are also stories of the past. In this way, the history-bearers serve as a priesthood and to mark occasions.   
+History-bearers, those halflings who through practice or divine inspiration have a deeper, and stronger, connection to the racial memory, bear witness to these beginnings and endings, and many halfling prayers are also stories of the past. In this way, the history-bearers serve as a priesthood and mark occasions.
+
 ## Sacred Places
 
-Halflings build no temples, rarely settling in one place for long enough to be concerned with the construction of physical monuments to the gods. But halfling shrines dot the landscape, often in natural places that capture particular experiences, that evoke the feelings of an aesthetic that embraces life-as-it-is, not life as something artificially made to be perfect. A small, out of the way path off a main trade road, that leads to a particular ravine or grove of tree or waterfall may turn out to be a sacred halfling shrine.
+Halflings build no temples, rarely settling in one place for long enough to be concerned with the construction of physical monuments to the gods. But halfling shrines dot the landscape, often in natural places that capture particular experiences, that evoke the feelings of an aesthetic that embraces life-as-it-is, not life as something artificially made to be perfect. A small, out of the way path off a main trade road, that leads to a particular ravine or grove of trees or waterfall may turn out to be a sacred halfling shrine.
 
 %% the following is an idea that needs refinement I think
 Halflings also believe that some particular memories become, in a way, shrines. Over time, some memories fade, even in the racial consciousness, but others, those that capture this religious feeling, are experienced and re-experienced over and over again, and accumulate more memories to them, so you can not only experience the original memory, but the memory of a particularly famous storyteller experiencing the original memory for the first time. And then layered on top of that would be new memories that echo and reflect these memories. So you might have, say, the shrine to a calm day at sea, which isn't a place, or isn't just a place, but rather is a huge accumulation of memories and experiences. There would still be places -- say a high cliff overlooking a sheltered bay -- where the experience of this memory shrine might feel particularly strong. But also a lot of halfling religious practice would involve praying alongside and in the context of their racial memories, and priests in the halfling tradition would be closely associated with tradition keepers.
@@ -35,3 +40,24 @@ Halflings, when they die, do not long linger as individual, distinct souls. Inst
 In this way, the Divine Realm of the First Ones is less a place than a memory, a superposition of all the experiences, hopes, and dreams of halflings since the dawn of time. 
 
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern halfling religious practice; the visible article does not establish a narrower dated change in these traditions.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit note name and a modern article POV.
+- Corrected three objective grammar errors in the visible prose.
+
+### Validated judgments
+- The article gives a usable short account of ordinary practice while preserving unresolved afterlife material in a shared comment.
+- This is a religious-practice organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
+- The complete local-only dossier contains no evidence clusters; `dm_notes: none` remains supported.
+- `status/check/errors` was preserved.
+
+### Open findings
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared memory-shrine idea is coherent with the public `Halflings` note but remains provisional. If approved, add: `Some halflings also speak of memories themselves as shrines. Experiences retold across generations can gather layers of later recollection, and certain places may make one of these communal memory-shrines especially vivid.`
+%%^End%%

@@ -13,6 +13,6 @@ Seva Auratan served as Magistros of Chardon in the early 18th century DR, presid
 
 %%
 DM notes / sources
-- Gazetteer: Alta Tonaro — production peak and later interdiction by 1720 as Seva comes to power.
+- Gazetteer: [[Alta Tonaro]] — production peak and later interdiction by 1720 as Seva comes to power.
 - Discord Chat – Chardon History: Appius Auratan’s discovery (1671), family timeline; Seva’s relationship to later Magistros Mitus Verina Auratan.
 %%

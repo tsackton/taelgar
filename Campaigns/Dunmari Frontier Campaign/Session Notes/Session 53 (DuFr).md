@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [session-note]
 campaign: Dunmar Frontier
 sessionNumber: 53
@@ -42,15 +42,15 @@ POV: 1748
 
 
 ## Narrative
-We begin as [[Delwath]] arrives in the vast northern forests, in the late afternoon, the only sign of civilization a campfire in the distance. Approaching the campfire, [[Delwath]] sees a hunting camp of maybe a dozen Deno'qai, surprised and awed to see an [[Elves]] speaking their tongue. The leader of the hunting band introduces himself as [[Kaslan]], and he speaks with [[Delwath]] briefly about the lost tanshi, the Meswati, when [[Delwath]] says he is here to find them. 
+We begin as [[Delwath]] arrives in the vast northern forests, in the late afternoon, the only sign of civilization a campfire in the distance. Approaching the campfire, [[Delwath]] sees a hunting camp of maybe a dozen Deno'qai, surprised and awed to see an [[Elves|elf]] speaking their tongue. The leader of the hunting band introduces himself as [[Kaslan]], and he speaks with [[Delwath]] briefly about the lost tanshi, the Meswati, when [[Delwath]] says he is here to find them.
 
-[[Kaslan]] insists [[Delwath]] come to the [[Ko'zula]] village and speak with [[Ninu]], the chief. Spending the night in camp, [[Delwath]] hears something of how the [[Timeline of the Northern Deno'qai|Ko'zula surived the Great War]]. A young boy, [[Zevi of the Ko'zula|Zevi]], is assigned to guide him the next morning, and they arrive a few days later.
+[[Kaslan]] insists [[Delwath]] come to the [[Ko'zula]] village and speak with [[Ninu]], the chief. Spending the night in camp, [[Delwath]] hears something of how the [[Timeline of the Northern Deno'qai|Ko'zula survived the Great War]]. A young boy, [[Zevi of the Ko'zula|Zevi]], is assigned to guide him the next morning, and they arrive a few days later.
 
 In the village, [[Delwath]] is welcomed with a feast, and meets [[Ninu]]. From her, he learns stories of the Meswati. To begin her tale, she brings out two fragments of broken armbands, melted and split, which [[Delwath]] recognizes immediately, for one is identical to the armband he touched before being teleported to the shadow realm. It has been in the village for many years, and no one thought anything of it. Last year, a deathless warlock wearing the second armband emerged from the [[Forest of Nightmares]] and attacked the village. A warrior from the village, [[Jotha]] was gravely wounded near death, and grasped the deathless creature to hold it to the ground for her companions to butcher, but as she touched the armband she vanished. [[Iascaire]], a druid skilled in the manipulation of fire, destroyed both, hoping it would do something, but nothing happened. 
 
-This was the exact moment that [[Delwath]] fell from the sky outside [[Kharsan]].
+This was the exact moment when [[Delwath]] fell from the sky outside [[Kharsan]].
 
-As [[Delwath]] mentions this, [[Ninu]] tells [[Delwath]] that the Deno'qai have long though the Meswati were trapped, somehow, by the evil magic of [[Cha'mutte]], for most believe that cannot truly be killed as long as they are not forgotten. [[Delwath]] suggests that it is likely these armbands that have trapped the Meswati, for one, [[Yezali]], was trapped with him. Destroying the armbands that captured each tanshi, then, may be the key to freeing them. 
+As [[Delwath]] mentions this, [[Ninu]] tells [[Delwath]] that the Deno'qai have long thought the Meswati were trapped, somehow, by the evil magic of [[Cha'mutte]], for most believe they cannot truly be killed as long as they are not forgotten. [[Delwath]] suggests that it is likely these armbands that have trapped the Meswati, for one, [[Yezali]], was trapped with him. Destroying the armbands that captured each tanshi, then, may be the key to freeing them.
 
 Asking where the other armbands may be found, [[Ninu]] tells [[Delwath]] that a stoneborn, [[Aristaea]], knows the [[Forest of Nightmares]] well, and is at a hunting camp with [[Iascaire]], the druid. [[Ninu]] suggests they would help [[Delwath]] with his quest. 
 
