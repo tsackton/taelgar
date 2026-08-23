@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T13:33:35-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 displayDefaults: {boxInfo: ""}
 tags: [group, status/check/mike, status/check/lint]
 typeOf: army
@@ -57,11 +57,17 @@ Temporal coverage: a DR 1720 snapshot whose leadership statements span incompati
 ## Taelgar note lint
 
 ### Applied changes
-- Converted deprecated `subTypeOf: warband` to `typeOfAlias: warband`, normalized the `Campaign:none` sentinel, and added supported name and temporal metadata.
+- None.
 
 ### Validated judgments
-- The `Campaign:none` block is an operational member index rather than narrative DM material.
+- The `Campaign:none` block is an operational member index rather than narrative public material.
+- Cleenseau campaign records corroborate the departure of most of the guard and [[Ames Benthey]], [[Robin of Abenfyrd]]'s appointment as acting captain, [[Ysabel]]'s death, and [[Beatrix Thorne]]'s later promotion.
+
+### Editorial assessment
+
+**Underdeveloped**. The visible article does not provide a coherent DR 1720 reference snapshot because its leadership, troop strength, and roster mix states from before and after the January departures and undead attacks.
 
 ### Open findings
-- [ ] **Warning — coverage.later_material_change:** The article mixes incompatible January DR 1720 leadership states: it names [[Ysabel]] as sheriff, later calls [[Beatrix Thorne]] the current leader, and still names [[Ames Benthey]] as household commander. Campaign records establish that most of the guard and Ames left for Embry on January 3, [[Robin of Abenfyrd]] became acting captain, Ysabel died during the undead attacks, and Beatrix became sheriff on January 11. Choose a coherent article date and update the leadership, roster, `POV`, and `povNotes`; alternatively preserve an earlier snapshot and use the applicable game-update status.
+
+- [ ] **Warning — coverage.later_material_change:** The article names [[Ysabel]] as sheriff, later calls [[Beatrix Thorne]] the current leader, still names [[Ames Benthey]] as household commander, and describes the guard as an eighteen-person troop even though campaign records establish major January DR 1720 changes. For a post-attack snapshot, use: `After [[Ames Benthey]] and most of the guard departed for [[Embry]] on January 3, [[Robin of Abenfyrd]] became acting captain. [[Ysabel]] was killed during the undead attacks, and [[Beatrix Thorne]] became sheriff on January 11.` Then reconcile the roster, troop strength, `POV`, and `povNotes` to that state; alternatively preserve a coherent earlier snapshot and use the applicable game-update status.
 %%^End%%

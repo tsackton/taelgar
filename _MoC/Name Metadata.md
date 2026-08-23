@@ -22,6 +22,8 @@ Evaluate each displayed name form separately. When a work title consists entirel
 
 The gate never suppresses deterministic schema validation of an existing block. Entries with `status: proposed`, `disputed`, or `unresolved` remain deterministic human-review tasks even when contextual review is skipped; preserve them without recalculating or replacing them.
 
+`status/check/name` is independent human-review state and has no `Metadata:names:v1` meaning. Ignore it when deciding block applicability or populating any entry, including `status`, `notes`, and other fields; preserve the tag unchanged.
+
 During ordinary lint, an existing entry with `status: documented` remains documented and every populated documented value remains unchanged. The linter may add a supported missing field, such as a pronunciation that was not previously recorded, but it never deletes, replaces, downgrades, or reinterprets an existing documented value. If another note describes a documented value differently, preserve the documented entry and open `metadata.names_documented_conflict` for human resolution rather than choosing between the sources.
 
 The block belongs with other persistent metadata blocks at the end of the note, after article text and comments but before the replaceable lint report.

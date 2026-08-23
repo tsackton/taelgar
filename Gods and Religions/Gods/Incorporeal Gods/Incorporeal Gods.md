@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 tags: [background, status/check/errors, status/check/lint]
 name: Incorporeal Gods
 aliases: [incorporeal god]
@@ -41,16 +41,24 @@ Temporal coverage: broadly modern theological classification with mythic and his
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- Current material in [[Bhishma]], [[Shakun]], [[Kenku]], and [[Metaphysics of Creatures]] confirms that the prior demigod-mechanism and kenku-divinity issues remain unresolved.
+
 ### Editorial assessment
 
-**Underdeveloped**. The note establishes the useful core idea that incorporeal gods arise from and depend upon human belief, but its demigod mechanism does not fit several of its own examples, and its relationship to the separately recognized demigod and small-god categories remains unresolved.
+**Underdeveloped**. The note establishes that incorporeal gods arise from and depend upon human belief, but it still lacks a coherent account of the different paths to demigodhood and of whether pantheonic gods and intercessory small gods belong to one metaphysical class.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-
-- [ ] **Error — correctness.cross_note_conflict:** Rework the universal claim that an incorporeal god creates a demigod by gifting power. [[Bhishma]] became divine through the prayers and wishes of the Dunmari after her mortal death, [[Shakun]] is described as the divine child of Bhishma and Laka, and [[Metaphysics of Creatures]] allows divinity through accreted soulstuff or a gift. Candidate: `Demigod is a broad and incompletely understood category for singular beings who have transcended ordinary mortality without fitting cleanly among the High, Embodied, or fully developed Incorporeal Gods. Some may receive power from an existing divinity, while others, such as [[Bhishma]], rise through accumulated belief. The paths to demigodhood and the boundary between demigods and other divinities remain unresolved.`
-- [ ] **Warning — coverage.later_material_change:** Reconcile Vorshitaal's legacy description as "the god of the kenku" with the current [[Kenku]] and [[Metaphysics of Creatures]] material, which instead establishes the time-displaced [[Aerin]] as the kenku Firstborn and leaves kenku metaphysics unresolved. Candidate: `The divine history of the kenku remains unresolved; current kenku material identifies [[Aerin]] as their metaphysically ambiguous Firstborn rather than establishing Vorshitaal as their god.`
-- [ ] **Suggestion — editorial.note_underdeveloped:** Decide whether pantheonic incorporeal gods and the intercessory small gods described in [[Tanshi]] and regional folk traditions are one metaphysical class or distinct kinds of divinity. Preserve that distinction as unresolved until adopted, rather than inferring a taxonomy from the current examples.
-
-### DM evidence
-- [[_DM_/Secret Worldbuilding/Mulitverse]]
+- [ ] **Error — correctness.cross_note_conflict:** The Demigods section presents a universal mechanism in which an incorporeal god creates a demigod by gifting power, but [[Bhishma]] became divine through Dunmari prayer after her mortal death, [[Shakun]] is described as the divine child of Bhishma and Laka, and [[Metaphysics of Creatures]] allows transcendence through accreted soulstuff or a gift. Candidate: `Demigod is a broad and incompletely understood category for singular beings who have transcended ordinary mortality without fitting cleanly among the High, Embodied, or fully developed Incorporeal Gods. Some may receive power from an existing divinity, while others, such as [[Bhishma]], rise through accumulated belief. The paths to demigodhood and the boundary between demigods and other divinities remain unresolved.`
+- [ ] **Warning — coverage.later_material_change:** Reconcile Vorshitaal's legacy description as "the god of the kenku" with current [[Kenku]] and [[Metaphysics of Creatures]] material, which instead identifies the time-displaced [[Aerin]] as the metaphysically ambiguous kenku Firstborn and leaves kenku soulstuff unresolved. Candidate: `The divine history of the kenku remains unresolved; current kenku material identifies [[Aerin]] as their metaphysically ambiguous Firstborn rather than establishing Vorshitaal as their god.`
+- [ ] **Suggestion — editorial.note_underdeveloped:** Decide whether pantheonic incorporeal gods and the intercessory small gods described in [[Tanshi]] and the [[Northern Folk Religions]] are one metaphysical class or distinct kinds of divinity. Preserve the distinction as unresolved until adopted rather than inferring a taxonomy from the current examples.
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden passage beginning "this is maybe not fully canon" contains a coherent but explicitly tentative account of ancient incorporeal powers. Decide whether to adopt that account publicly. Candidate: `Among the oldest incorporeal divinities are the demon lords of the Abyss, the archdevils of the Nine Hells, the Earth Mother of Arborea, and the archangels of Celestia. Though few retain organized worship in modern Taelgar, they endure by drawing on humanity's diffuse prayers, hopes, fears, and nightmares.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden passage beginning "not definitively canon" could preserve an unresolved metaphysical question as an in-world theological debate. Candidate: `Some theologians argue that embodied gods cannot create lesser gods without permanently diminishing themselves; others hold that such gifts were possible in the Age of Creation, when embodied gods still walked the world.`
 %%^End%%

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:22:55-04:00"
-lintVersion: "3.4"
-tags: [person]
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Addermarian
 born: 1692
@@ -66,4 +66,18 @@ Timeline:
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 retrospective account through the recovery of Duncan's body on May 27; his earlier life is only briefly described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The DR 1715 retrospective POV is suitable for the visible account through the recovery of Duncan's body, and the detailed Campaign:none chronology remains appropriately private.
+
+### Open findings
+
+- [ ] **Warning — correctness.unsupported_certainty:** The frontmatter value `died: 1715-05-14` assigns an exact death day, but the public campaign record establishes only that Duncan was found dead on May 27 and does not establish May 14. Candidate: `died: 1715-05` until a source supports a precise day.
 %%^End%%

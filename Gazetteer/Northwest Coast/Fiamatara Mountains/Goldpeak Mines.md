@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place]
+tags: [place, status/check/lint]
 typeOf: infrastructure
 typeOfAlias: mine
 name: Goldpeak Mines
@@ -46,4 +46,23 @@ Dwarves of Goldspire Peak and other places around - sword wraiths cursed to haun
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern history of the abandoned Dwarven workings; the visible article does not identify a narrower current-state snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- Great Library session records establish the complex's named internal areas and the durable DR 1747–1748 changes used below.
+- The shared DM comment was reviewed as an operational campaign-reference block; private encounter material is not reproduced here.
+
+### Editorial assessment
+
+**Underdeveloped**. The one-sentence visible article identifies the complex and its abandonment but omits its established internal structure and the durable changes caused by the Forge of Fire eruption and the end of [[Vilaxes]]'s occupation.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** Add the established structure and durable recent state changes from [[Great Library Session Notes - Arc 1]] and [[Great Library Session Notes - Arc 4]]. Candidate: `The complex includes the [[Goldpeak Mines|Forge of Fire]], upper Dwarven roads and waystations reaching toward [[Blacksilver Peak]], and deeper caverns. In DR 1747, a magma eruption largely destroyed the Forge of Fire after the [[Flamekeeper Scroll]] was removed. By DR 1748, the lower mines were controlled by the beholder [[Vilaxes]], whose death ended his occupation of the deep complex.`
 %%^End%%

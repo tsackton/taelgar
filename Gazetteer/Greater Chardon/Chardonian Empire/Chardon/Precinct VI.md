@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: neighborhood
@@ -19,7 +19,7 @@ POV: modern
 
 %% preserving dm notes - color until i have a chance to write down some vibes in my head about the Chardonian port %%
 
-Precinct VI is the center of the Chardonian port district.
+Precinct VI is the center of the Chardonian port district. It is one of the seven precincts forming the inner core of the original Drankorian city.
 
 %%^Metadata:names:v1%%
 - {name: Precinct VI, role: primary, language: Common, status: documented}

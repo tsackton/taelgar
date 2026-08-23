@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:22:55-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -66,4 +66,3 @@ The Duval seal shows a stylized valley between two mountains with an oak tree in
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 snapshot of Elowen Duval as Roscombe's castellan, with events concentrated from late April through May of that year; earlier and later tenure are not described.
 %%^End%%
-

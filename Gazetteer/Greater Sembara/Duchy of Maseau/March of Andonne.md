@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/errors, status/check/lint]
 typeOf: realm
 typeOfAlias: march
@@ -44,8 +44,16 @@ Temporal coverage: a DR 1750 frontier description; the physical geography extend
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- No additional validated judgments.
+
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the proposed pronunciation `MARCH of ahn-DON`. The title words use their ordinary Common reading; `Andonne` follows the southern Sembaran French analogue, with a silent final `e`, pronounced doubled `n`, and final-syllable stress, but exact in-world phonology is not established.
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared DR 1750 notes contain a coherent public-safe boundary and settlement summary, and the river condition is corroborated by [[Andonne]] and [[Andonne Plain]], but the synthesis remains unadopted. Candidate: `By DR 1750, the March is a lightly settled frontier bounded broadly by the [[Masance]] to the west, the [[Andonne]] to the south, Maseau to the north, and the [[Darkwood]] frontier to the east. Most castles and towns cluster along the [[Maseau - Dunmar Road]] and the western Andonne. Farther east, the river becomes ash-choked and hostile to life before reaching [[Lake Aeulian]].`
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the proposed pronunciation `MARCH of ahn-DON`. The title words use their ordinary Common reading; `Andonne` follows the documented southern Sembaran French analogue, but exact in-world phonology is not established. Candidate: if accepted, add `pronunciation: MARCH of ahn-DON` to frontmatter and mark the persistent entry `status: documented`; otherwise correct the persistent pronunciation, derivation note, and status together.
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared DR 1750 Notes comment contains a coherent public-safe boundary and settlement synthesis. [[Andonne]], [[Andonne Plain]], and [[Maseau - Dunmar Road]] corroborate the western settlement pattern and the river's eastern condition. Candidate: `By DR 1750, the March is a lightly settled frontier extending from Maseau south to the [[Andonne]], with most castles and towns concentrated along the [[Maseau - Dunmar Road]] and the western stretches of the river. Farther east, the Andonne becomes ash-choked and unsafe before reaching [[Lake Aeulian]].`
 %%^End%%

@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: region
 name: Chasa River Valley
 whereabouts: Chardonian Empire
 dm_owner: tim
-dm_notes: none
+dm_notes: color
 POV: 1748
 ---
 # The Chasa River Valley
@@ -81,16 +81,20 @@ Temporal coverage: a DR 1748 view of the valley's settlements, road and river tr
 ## Taelgar note lint
 
 ### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+- None.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
+- `POV: 1748` and the existing `povNotes:v1` block remain appropriate for the article's DR 1748 travel and settlement frame.
+- The current `_DM_` evidence clusters were reviewed without copying private contents into this report.
+- The shared climate-analogue comment and `Campaign:none` material were reviewed; the distinct public-safe landholding and market-town material is reported below.
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Chasa River Valley — KAH-zah river valley` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `Chasa River Valley — KAH-zah river valley` from a Chardonian analogue, while the newer dedicated [[Chasa]] note documents the river name as Old Northros and pronounces it `CHA-sa`. Decide whether the valley name uses the documented river pronunciation or a distinct Chardonian adaptation; then accept the chosen complete pronunciation in frontmatter and mark the entry documented, or correct the proposal and its derivation.
+- [ ] **Error — correctness.cross_note_conflict:** The travel section says the [[Chasa]] is navigable "along its entire length," while the newer dedicated [[Chasa]] note says it is navigable "along nearly its entire length." If the river note controls, replace the sentence opening with `The river is the region's spine, navigable along nearly its entire length, carrying grain, casks, and cut wood toward larger ports.` Otherwise revise the dedicated river account so both notes preserve the intended limit.
+- [ ] **Suggestion — editorial.public_material_candidate:** The `Campaign:none` section's `Estates, labor, and landholding` and market-town administration bullets contain coherent public-safe civic and economic material absent from the visible article. Adopting it would explain how the valley's agrarian economy and local government work beyond the existing landscape and travel account. Copy-ready candidate: `Landholding in the Chasa River Valley does not use serfdom. Large estates hire laborers or lease land to tenants, while many villages consist of independent smallholders. Chartered market towns collect taxes and administer justice for surrounding farms and villages through local magistrates, and larger towns may maintain palisades and garrisons.`
 
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
 %%^End%%

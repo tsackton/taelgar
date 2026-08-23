@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:54:27-04:00"
-lintVersion: "3.4"
-tags: [person]
+lintedAt: "2026-08-23T18:23:23-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -37,4 +37,18 @@ Born and raised in Roscombe, Bertrand has a personal connection to the Wanderer 
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 portrait of Bertrand as proprietor of the Traveler's Rest; earlier life is summarized and later life is not described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- Later edits to [[Roscombe]] and [[Emma Cole]] corroborate Bertrand's role at the Traveler's Rest and do not require a material coverage update.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_pronunciation_notes_missing:** The documented name block gives `behr-TRAHN luh-BLAHN`, while frontmatter and the displayed pronunciation give `behr-TRAHN luh-BLAHNK`; the block does not name a source or derivation for the differing final consonant. Candidate: decide which pronunciation is accepted. If `BLAHNK` is intended, make a targeted human correction to the documented block; if `BLAHN` is an established alternate, retain it and add `notes` naming its source or derivation.
 %%^End%%

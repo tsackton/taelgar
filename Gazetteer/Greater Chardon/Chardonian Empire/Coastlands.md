@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
 tags: [place, status/check/name, status/check/lint]
 typeOf: region
@@ -68,15 +68,13 @@ Temporal coverage: broadly modern regional geography, climate, and settlement; t
 ## Taelgar note lint
 
 ### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+- None.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Newer source candidates corroborate the boundaries, agriculture, drainage, and imperial framing already represented in the article; no later material change was identified.
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Coastlands` (unresolved). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
-
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent `Coastlands` name entry remains `status: unresolved`, matching the existing `status/check/name`. Review its recorded Common-language classification and naming status, then accept the entry or correct it.
+- [ ] **Suggestion — editorial.public_material_candidate:** The `Campaign:none` block contains a coherent public-safe claim about the region's place in the empire alongside source pointers, duplicated geography, and unresolved planning. Candidate: `The Coastlands are part of the core of the Chardonian Empire, where Chardonian rule is generally popular.` If adopted, retain the source pointers and unsettled Low Coast and urbanization questions privately, and remove only hidden text that duplicates the visible article.
 %%^End%%

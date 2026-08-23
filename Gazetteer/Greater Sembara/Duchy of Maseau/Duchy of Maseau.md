@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T17:36:36-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/errors, status/check/lint]
 typeOf: realm
 name: Duchy of Maseau
@@ -50,14 +50,23 @@ Temporal coverage: broadly modern frontier description, with historical backgrou
 %%^End%%
 
 %%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The broadly modern `POV` remains suitable: the article's present-day frontier description is undated, while the older wars are historical background.
+
 ### Editorial assessment
 
-**Underdeveloped**. The note gives a usable modern frontier sketch but not a stable history of the duchy. It omits Maseau's subjugation by the Dominion of Avatus and its central role in the First, Second, and Third Hobgoblin Wars, while its strongest Great War and resource claims remain uncertain or internally inconsistent.
+**Underdeveloped**. The note gives a usable modern frontier sketch, but its central political and military history is incomplete and internally unstable: it omits Maseau's subjugation by the [[Dominion of Avatus]] and its role in the three hobgoblin wars, while the visible Great War depopulation and resource claims remain unresolved.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** Add the established political and military chronology from [[Dominion of Avatus]], [[First Hobgoblin War (Sembara)]], [[Second Hobgoblin War (Sembara)]], [[Third Hobgoblin War (Sembara)]], and [[Hobgoblin Movements After Cha'Mutte]]. Candidate: `During the Serpentine Wars, [[Avatus]] subjugated Maseau as part of his dominion over the southern Sembaran realms. Maseau regained its independence after [[Derik I]] defeated Avatus, but the duchy was repeatedly contested after the Great War: the [[Shattered Ice Clan]] seized western Maseau in the First Hobgoblin War, renewed its campaigns there in the Second, and opened the Third Hobgoblin War with an assault on Maseau.`
-- [ ] **Warning — correctness.unsupported_certainty:** The claim that Maseau was "essentially depopulated during the Great War" is not established by the current historical sources, which distinguish the war from the later Bloodlust Wars and hobgoblin campaigns. Candidate: `Maseau suffered prolonged population loss during the Great War and the conflicts that followed, and later received refugees from [[Isingue]] and the former [[Istabor Alliance]]; the extent of depopulation caused by the Great War itself remains unclear.`
+- [ ] **Warning — coverage.established_fact_missing:** Add the established political and military chronology from [[Dominion of Avatus]], [[First Hobgoblin War (Sembara)]], [[Second Hobgoblin War (Sembara)]], [[Third Hobgoblin War (Sembara)]], and [[Hobgoblin Movements After Cha'Mutte]]. Candidate: `During the [[Serpentine Wars]], the [[Dominion of Avatus]] subjugated Maseau. [[Derik I]] restored the duchy after defeating Avatus, but Maseau was repeatedly contested after the Great War: the [[Shattered Ice Clan]] remained established in western Maseau after the First Hobgoblin War, renewed its campaigns there in the Second, and began the Third with an assault on the duchy.`
+- [ ] **Warning — correctness.unsupported_certainty:** The claim that Maseau was "essentially depopulated during the Great War" is not established by the current historical sources, which separately document the later Blood Plague and hobgoblin campaigns. Candidate: `The extent of population loss during the Great War itself is unclear. The Blood Plague and later hobgoblin wars devastated the southern realms, and Maseau also received refugees from [[Isingue]] and the former [[Istabor Alliance]].`
 - [ ] **Warning — content.internal_conflict:** The note says Maseau never possessed rich natural resources but later describes abandoned mines that offer easy riches. Candidate: `Maseau's prewar prosperity depended heavily on trade through the [[Maseau Gap]]. Its southern mountains also contain abandoned mines, although the scale and present importance of their resources are not established.`
-- [ ] **Suggestion — editorial.note_underdeveloped:** Rebuild the duchy's historical overview around the established Avatus and hobgoblin-war chronology, then decide separately which refugee, Ranger, resource, and militarization ideas in the shared comments should become public canon.
+- [ ] **Suggestion — editorial.public_material_candidate:** The long shared comment contains a coherent but unadopted proposal for a refugee-centered, Ranger-supported, more militarized frontier identity, intermingled with duplicated southern-Maseau prose and unresolved resource ideas. Candidate if adopted: `After the Sembaran crown withdrew from much of Maseau during the plague years, the ducal house became a rallying point for refugees from the Great War. Repeated hobgoblin invasions later shaped Maseau into a heavily militarized frontier society, while [[Rangers]] became important defenders of its southern marches.` Retain the unresolved mineral-resource and modern political-analogy ideas privately until separately settled.
 %%^End%%

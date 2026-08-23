@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T16:50:31-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
@@ -47,11 +47,22 @@ Temporal coverage: a DR 1748 frontier-town snapshot, with the present settlement
 %%^Lint%%
 ## Taelgar note lint
 
-### Open findings
+### Applied changes
+- None.
 
-- [ ] **Warning — coverage.established_fact_missing:** [[Session 51 (DuFr)]] establishes that Arendum's gates and towers face the Elderwood and that friction with neighboring forest communities has produced a substantial imperial garrison, but the visible article gives only the town's river-trade setting. Candidate: add "Arendum's gates and towers face the Elderwood, reflecting its role as a fortified frontier town. Friction with neighboring forest communities has brought a substantial imperial garrison to the settlement."
-- [x] **Warning — metadata.map_location_missing:** The settlement map record has a blank locator. Fill it only from the authoritative map; do not guess a coordinate.
-- [x] **Warning — metadata.names_unresolved_status:** The persistent entry for Arendum remains status: proposed. Review the recorded pronunciation and linguistic analogue, then accept it in frontmatter or correct the persistent entry.
-- [ ] **Suggestion — editorial.shared_material_redundant:** The shared briefing-email block repeats the town's visible trade, road, ferry, and frontier description. If the approximate five-hundred-mile distance from the imperial capital remains useful, adopt it only after source review; otherwise retain only the source pointer and remove duplicated summary prose.
+### Validated judgments
+- The DR 1748 `POV` and existing temporal-coverage note remain appropriate for the article's frontier-town snapshot.
+- The newer [[Metium]] and [[Chasa]] source candidates retain unchanged mentions of Arendum and establish no later material change to this article.
+
+### Editorial assessment
+- **Underdeveloped** — The visible article does not yet provide a reliable present-day reference account of Arendum. It lacks the town's established road-and-river position, timber role, and defensive setting, while its relationship with neighboring Deno'qai communities is temporally ambiguous and conflicts with DR 1748 sources if read as current. The smallest useful development is a compact account of those dimensions that retains the established Kin-Aska origin.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — correctness.cross_note_conflict:** The unanchored phrase “good relations with the nearby Deno'qai tribes” can be read as a current claim about Arendum, which is incompatible with the DR 1748 account in [[Session 51 (DuFr)]] of tension, no Deno'qai in town, and a settlement organized around defense. [[Baz'aku]] and [[On the Lost People of the Forests]] instead distinguish an earlier trading relationship from the later deterioration caused by timber encroachment and raids. If the existing phrase was meant to describe historic Kin-Aska rather than modern Arendum, anchor that meaning explicitly; otherwise use: `Arendum historically traded with nearby Deno'qai communities, especially the [[Baz'aku]]. By DR 1748, however, relations had deteriorated amid Chardonian timber encroachment and Deno'qai raids.`
+- [ ] **Warning — coverage.established_fact_missing:** [[Chasa]], [[Chasa River Valley]], [[Baz'aku]], and [[Session 51 (DuFr)]] establish Arendum's central modern role as the timber hub at the upriver end of the main road from Chardon, with a garrison and defensive posture shaped by frontier tension. Candidate: `The main road along the [[Chasa]] reaches Arendum roughly 500 miles upriver from [[Chardon]]. The town is a timber hub on the [[Elderwood]] frontier, and its garrison and defensive organization reflect the tension with neighboring Deno'qai communities.`
+- [ ] **Suggestion — editorial.prose_clarity:** The fragment “Built on the ruins of a former city-state, [[Kin-Aska]], which was a Chardonian satellite, a mixed Northlander/Drankorian culture” has no main verb and leaves it unclear whether the mixed culture belongs to Kin-Aska or Arendum. Candidate: `Arendum is a substantial provincial town on the eastern frontier of the [[Chardonian Empire]]. It was built on the ruins of [[Kin-Aska]], a former Chardonian satellite city-state with a mixed Northlander and Drankorian population.`
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared Cape-adventure briefing block substantially repeats the visible Kin-Aska origin and mixed-population description, while its distinct road, distance, and timber details are addressed by the established-source coverage finding above. After adopting the useful facts, replace the block with `%% Source: Cape adventure briefing emails. %%` if the pointer remains useful; otherwise remove it.
 
 %%^End%%
