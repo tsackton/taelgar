@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -28,7 +28,7 @@ Valtrius University was one of the three major universities of [[Drankor]] in th
 - A dynamic institution blending magical innovation with practical applications, such as engineering and military support.
 - Known for applied magic, breakthroughs in enchantments, and experimental weaponry, it was indispensable to Drankor’s infrastructure and war efforts, especially against planar incursions. 
 
-**Ruins Description**:
+**Ruins Inspiration Ideas** 
 - Tall, shadowy towers remain eerily intact, faintly glowing with residual magic.
 - Angular stone buildings overrun with vines, their interiors littered with shattered devices and charred magic circles. 
 - Laboratories and forges, partially preserved by magical auras, contain broken artifacts and scorch marks from volatile enchantments.

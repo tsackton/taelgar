@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
-tags: [place, status/cleanup/text]
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
+tags: [place, status/cleanup/text, status/check/lint]
 typeOf: building
 typeOfAlias: palace
 ancestry: Chardonian
@@ -44,4 +44,25 @@ From campaign: Visitors surrender weapons and magical foci at the gates before g
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1749 snapshot of the palace under Mitus Verina Auratan, including the audience spaces and security recorded during the Dunmar Fellowship's visit; earlier and later administrations are not described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- `status/cleanup/text` remains supported: the visible prose and its shared editorial comments still identify text and source-separation work for human review.
+- Newer-source candidates were reviewed; they corroborate the palace's South Bank placement and DR 1749 framing without establishing a later material change.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.reference_voice:** The sentences beginning `It serves as the Magistros's seat and the administrative hub` and `Colonnades, courtyards, and elevated galleries provide controlled movement` materially rely on generic institutional language and source-noted extrapolation. Preserve the established South Bank location, the Magistros's seat, the opulent audience halls, and the austere sunlit private chamber, but have a human rewrite or remove unsupported administrative functions, colonnades, courtyards, narrowing passages, galleries, and security zoning. A replacement is deliberately not supplied because this rule requires a human rewrite.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The long `DM notes / sources` comment substantially repeats the visible layout and audience details while mixing source provenance with explicit extrapolation. Replace it with a compact source-and-limits note, or remove the duplicated details while retaining distinct editorial guidance. Copy-ready candidate: `%% Sources and editorial limits
+- [[Chardon]] and [[South Bank]] support the palace's skyline placement.
+- [[Session 126 (DuFr)]] supports the gate protocol, opulent halls, and austere, sunlit private chamber.
+- Courtyards, colonnades, narrowing passages, secured inner wards, and broader administrative functions are extrapolations rather than established facts.
+%%`
 %%^End%%

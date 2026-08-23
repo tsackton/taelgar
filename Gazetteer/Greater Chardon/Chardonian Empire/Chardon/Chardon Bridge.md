@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: bridge
 name: Chardon Bridge
-pronunciation: "CHAR-din bridge"
+pronunciation: CHAR-din bridge
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: none
@@ -25,5 +25,5 @@ One of the two major permanent bridges that cross the [[Chasa|Chasa River]] in t
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern infrastructure and navigation; no construction date or later alteration to the bridge is established.
+Temporal coverage: broadly modern infrastructure and navigation; the bridge's DR 844 construction is historical background, and no later alteration is established.
 %%^End%%

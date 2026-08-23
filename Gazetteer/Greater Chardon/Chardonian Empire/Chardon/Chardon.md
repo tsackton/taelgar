@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 tags: [place, status/review, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 name: Chardon
-pronunciation: "CHAR-din"
+pronunciation: CHAR-din
 whereabouts:
   - {type: primary, location: Drankorian Empire, end: 1059}
   - {type: primary, location: Chardonian Empire, start: 1545}
@@ -176,171 +176,22 @@ Temporal coverage: through early DR 1749; the visible city description predates 
 ## Taelgar note lint
 
 ### Applied changes
-- Rechecked the article viewpoint under linter 3.4, retained `POV: 1749`, and clarified `povNotes:v1` that the visible city description is an early-DR-1749 snapshot predating the Pandemonium incursion, chalyte riots, and chalyte reforms.
-- Completed the full linter 3.4 review and prepared the atomic completion-state refresh.
-
-### Editorial assessment
-**Underdeveloped**: The visible article has substantial description and early history, but its central Government and Key Organizations sections contain no public account, and its early-DR-1749 civic frame predates established city-wide upheaval and reform. The smallest useful scope is a sourced overview of civic authority and major institutions, followed by a human decision about whether to update the article through mid-DR 1749 or preserve the earlier snapshot.
+- Normalized frontmatter order and collection formatting without changing metadata values.
 
 ### Validated judgments
-- Later freshness candidates were reviewed. Most are cleanup or metadata changes in related notes; the material change requiring disposition is the established mid-DR-1749 city crisis and reform recorded in Sessions 124-129.
-- `status/review` is supported by the unfinished central sections and unresolved temporal update; no non-lint status was changed.
-- Matching local-only evidence supports retaining `dm_notes: important`; no private content was copied into this report.
+- `POV: 1749` remains an appropriate early-DR-1749 reference frame, and `povNotes:v1` accurately identifies the later city events outside the visible article.
+- Later freshness candidates do not establish another material change to Chardon beyond the already outstanding mid-DR-1749 crisis and reform.
+- `status/review` remains supported by the unfinished central sections and unresolved temporal update; no non-lint status was changed.
+- All eight Git-shared comments were reviewed. Source pointers and unresolved brainstorming remain preserved; actionable public material and redundancy are reported below.
+
+### Editorial assessment
+**Underdeveloped**: The visible article has substantial description and early history, but its central Government and Key Organizations sections lack a public reference account, and its early-DR-1749 civic frame predates established city-wide upheaval and reform. The smallest useful scope is a sourced overview of civic authority and major institutions, followed by a human decision about whether to update the article through the July and early-August DR 1749 reforms or preserve the earlier snapshot.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-- [ ] **Warning — coverage.later_material_change:** [[Session 124 (DuFr)]] and [[Session 125 (DuFr)]] establish Eightfold Flame riots, martial law, refinery fires, severe North Bank damage, and a fractured power structure; [[Session 129 (DuFr)]] establishes refinery seizures, the Imperial Chalyte Mining Company, the Chalyte Refining Corporation, and the Guild of Chalyte Workers by August DR 1749. Candidate: choose one bounded treatment—update the city article and its `POV`/`povNotes` through those reforms; defer the update with the applicable game-update status; or intentionally preserve the early-DR-1749 snapshot and mark later developments as outside its frame.
-- [ ] **Warning — coverage.established_fact_missing:** The visible Government and Key Organizations sections provide no reference account, although [[Chardonian Empire]], [[Great Library]], and [[Session 126 (DuFr)]] establish the core civic structure. Copy-ready candidate: Chardon is governed by the [[Mitus Verina Auratan|Magistros]], who commands the legions and imperial bureaucracy, while the elected [[Curia of 42]] retains authority over chartered monopolies through the [[Chamber of Stamps]]. Civic power also centers on the [[Great Library]], the [[University of Chardon]], the [[Hetaeri Magica]], the [[Society of the Open Scroll]], and the [[Praecanti Vigiles]].
-- [ ] **Suggestion — editorial.public_material_candidate:** The comments beginning `population estimates:` and `rough history of how things got this way` contain coherent, public-safe material absent from the visible article. Copy-ready candidate: About 350,000 people live in the South Bank city proper, roughly 100,000 on the North Bank and around its industrial districts, about 80,000 in southern and eastern faubourgs and suburbs, and around 10,000 on estates east of [[Mount Nera]]. The North Bank’s industrial role grew after the [[Fall of Drankor]], when the city claimed former legionary land, divided it into taxed wards, and funded waterworks for mills; the northern walls and barracks followed during the Blood Years, and many barracks later became worker housing as chalyte refineries replaced older mills. South of the river, suburbs outside the old walls grew during the long peace, some were incorporated during the Great War, while later estates retained privileges that kept newer settlements outside city government.
-- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden Trade and Economy comment repeats the visible overview’s trade, magic, and chalyte claims while adding two distinct development prompts. Candidate: remove the repeated summary from the comment and retain only the unsourced prompts about widespread chalyte-powered conveniences and long-distance ocean routes until they are sourced or adopted.
-- [x] **Warning — metadata.map_location_missing:** The settlement’s `Metadata:map:v1` block still has a blank `locator`. Fill it from the authoritative map; do not guess a coordinate.
-- [x] **Warning — metadata.names_unresolved_status:** The persistent `Chardon — KAR-dohn` name entry remains `status: proposed`. Review the Chardonian/Latinate derivation; if accepted, copy the pronunciation to frontmatter and update the entry’s status, or correct the proposal.
-
-### DM evidence
-- [[_DM_/Brainstorming/Short Adventure Ideas (2025-2026)]]
-- [[_DM_/Dunmar Epilogues]]
-- [[_DM_/Meta/Map Notes]]
-- [[_DM_/Secret Worldbuilding/Dunmar Notes]]
-- [[_DM_/Secret Worldbuilding/History of Dunmar]]
-- [[_DM_/Secret Worldbuilding/Language and Culture From OneNote]]
-- [[_DM_/Staging/Darba (OneNote - v2)]]
-- [[_DM_/Staging/NPC Ideas - Unused]]
-- [[_DM_/Timelines/Apollyon Endgame Timeline]]
-- [[_DM_/Timelines/NPC Travels]]
-- [[_DM_/Timelines/Old Timeline (Table)]]
-- [[_DM_/Timelines/Uncategorized Events]]
-- [[_DM_/Timelines/Unified Timeline From OneNote]]
-- [[_DM_/_Campaign 3/Campaign 3 - Early Brainstorming - Overview]]
-- [[_DM_/_Campaign 3/Dunmar Epliogue - Campaign 3 Timing]]
-- [[_DM_/_Dunmari Frontier/Brainstorming - DM]]
-- [[_DM_/_Dunmari Frontier/Campaign Outline - Arcs and Levels]]
-- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Apollyon (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Hralgar (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Vola Forena (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chalice of the Runepriest (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Finding Artifacts in Chardon]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Hralgar's Eyes (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Power Structures]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Hralgar (Session 62- )/Session 62/Session 62 1]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Monastery of Bhishma/Text]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Session 20]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Session 21]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa Redux (Sessions 17-18)/Session 17]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa Redux (Sessions 17-18)/Session 18]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Raven's Hold/Map Raven’s Hold]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Raven's Hold/Session 11]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Raven's Hold/Session 12]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Raven's Hold/Session 13]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Session 15]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Session 16]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Tower Text]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Travel to Tower/Session 14]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Rampaging Beasts (Session 1-3)/Session 1/Character Intros]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Darba/Darba (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Emerald Song (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/General Notes]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Road to Darba/Old Trade Road]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Road to Darba/Road to Darba]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 42]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 44]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 46 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 47]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Agata Dustmother/Agata's Lair (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Karawa/Shakun Ritual]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 29]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 30/Agata's Lair, Revised]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Riswynn Solo Arc]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wellby Solo Arc]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Arc overview/Arc overview]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Arc overview/Overall Flowchat]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Character Developments/Scrying]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Part I To Arendum]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/The Shadow Hunter]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Part II Finding the Te'kula]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 34]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 36]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 37]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 41]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Servius Scroll Text]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Tokra (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Campaign Outline]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/History of Blasted Plains]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Leveling Up]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Major Players]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Misc Ideas]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Arcs]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Backstory]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Pitch]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Summary]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Faction Action]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Reorganizing Flowchart 623]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Secrets of Karawa]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Strangers in Town]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/The Mystery of Shakun]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Timeline - Dunmari Old]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/The Relics of Apollyon]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Calendar Eras - DuFr Player Background]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Kenzo (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Riswynn (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Seeker (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Final Arc Planning - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Fox and Hunter Intro]]
-- [[_DM_/_Dunmari Frontier/Leveling]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/Chardonian Treasure Hunters]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/DM Version - Bhishma Monastery]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/DM Version - Shakun Initiation Rite]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]]
-- [[_DM_/_Dunmari Frontier/Session 0.75 Planning Notes]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Apollyon Dopplegangers]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Planning Update - Last Jade]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 103 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Arc Outline]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 115 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 116 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 120 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 121 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 123 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Bastion Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chalyte Giant Adventure]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chalyte Giants Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chalyte Oligarch]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics - ChatGPT Summary]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Raw NPCs from ChatGPT]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 124 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 128 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Isingue Arc Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Notes - Session 129]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 129 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 130 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Session 64 - DM notes]]
-- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Session 65 - DM notes]]
-- [[_DM_/_Dunmari Frontier/Session 66-68 (Phasing Stone)/Session 68 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 73 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Brainstorming - Scepter Arc]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Prep Notes]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 96 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 97 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Peninsula NPC Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 99 - DM Notes]]
-- [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Mawar Religion]]
-- [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Time Skip - Bullet Points]]
-- [[_DM_/_Mawar Confederacy/Jasper Thundertree]]
+- [ ] **Warning — coverage.later_material_change:** [[Session 124 (DuFr)]] and [[Session 125 (DuFr)]] establish June DR 1749 Eightfold Flame riots, martial law, refinery fires, and severe damage across the North Bank; [[Session 129 (DuFr)]] establishes the July and early-August response, including the [[Imperial Chalyte Mining Company]], refinery seizures, the [[Chalyte Refining Corporation]], and worker representation through the [[Guild of Chalyte Workers]]. Candidate: choose one bounded treatment—update the city article and its `POV`/`povNotes` through these reforms; defer the update with the applicable game-update status; or intentionally preserve the early-DR-1749 snapshot and mark the later developments as outside its frame.
+- [ ] **Warning — coverage.established_fact_missing:** The visible Government and Key Organizations sections provide no public reference account, although [[Chardonian Empire]] and [[Session 126 (DuFr)]] establish the core civic structure and the article itself identifies the principal institutions. Copy-ready candidate: Chardon is ruled by the [[Mitus Verina Auratan|Magistros]], who also heads the empire and administers it through an extensive civil service. The elected [[Curia of 42]] exercises limited control over that bureaucracy but controls chartered monopolies through the [[Chamber of Stamps]]. Major civic institutions include the [[Great Library]], the [[University of Chardon]], the [[Hetaeri Magica]], the [[Society of the Open Scroll]], and the [[Praecanti Vigiles]].
+- [ ] **Suggestion — editorial.public_material_candidate:** The comments beginning `population estimates:` and `rough history of how things got this way` contain coherent, public-safe material absent from the visible article. Copy-ready candidate: About 350,000 people live in the South Bank city proper, roughly 100,000 on the North Bank and around its industrial districts, about 80,000 in southern and eastern faubourgs and suburbs, and around 10,000 on estates east of [[Mount Nera]]. The North Bank’s industrial role grew after the [[Fall of Drankor]], when the city claimed former legionary land, divided it into taxed wards, and funded waterworks for mills; northern walls and barracks followed during the Blood Years, and many barracks later became worker housing as chalyte refineries replaced older mills. South of the river, suburbs outside the old walls grew during the long peace, some were incorporated during the Great War, and later privileged estates helped keep newer settlements outside city government.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden Trade and Economy comment largely repeats the visible overview’s trade, magic, and chalyte claims while adding two unsourced development prompts. Candidate: replace it with `%% Research before adoption: verify how widely chalyte powers common conveniences in Chardon and which long-distance ocean routes routinely pass through its port. %%`
 %%^End%%

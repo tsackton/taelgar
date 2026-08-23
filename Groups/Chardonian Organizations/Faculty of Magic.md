@@ -22,7 +22,7 @@ The Faculty of Magic is one of the five graduate faculties of the [[University o
 
 The Faculty of Magic is intertwined with other institutions of the academic quarter. Many of its members also participate in organizations such as the [[Society of the Open Scroll]], and the university as a whole is closely affiliated with the [[Great Library]] and the [[Hetaeri Magica]].
 
-%%SECRET[v2:21ca94f85e214102eadd9b3c29c61022]%%
+%%SECRET[v2:082c998ee5be3ea82217bfb3470a1b8b]%%
 
 %%^Metadata:names:v1%%
 - {name: Faculty of Magic, role: primary, language: Common, status: documented, notes: Plain descriptive institutional title.}

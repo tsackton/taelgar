@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T13:33:35-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 tags: [meta]
 name: Gazetteer
 excludePublish: [all]
@@ -127,4 +127,3 @@ FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Gazetteer")))
 SORT length(file.inlinks) DESC
 ```
-

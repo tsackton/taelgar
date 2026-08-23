@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:54:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -26,7 +26,7 @@ Fort Ameli is a [[Chardonian Empire|Chardonian]] fort that guards the entrance t
 Ships making passage through the canal are required to dock here, pay tolls, and take on a windcaller pilot.
 
 %%^Metadata:names:v1%%
-- {name: "Fort Ameli", role: "primary", language: "Chardonian", pronunciation: "fort ah-MEH-lee", status: "documented"}
+- {name: "Fort Ameli", role: "primary", language: "Chardonian", pronunciation: "fort ah-MEH-lee", notes: "Full-form pronunciation combines the ordinary title 'Fort' with the accepted frontmatter pronunciation 'ah-MEH-lee'.", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

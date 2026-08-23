@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 tags: [meta]
 campaign: Cleenseau
 name: Fey Aftermath - Tower of Records
 POV: 1720
 ---
 
-meta: continuing to split this up; this contains the results of the search of the Tower of Records; one more email about the mind-reading of the chamberlain and the discussion on the group still to come. for those with minimum energy skip down to the bit I've flagged as **MOST INTERESTING PART**]
+meta: continuing to split this up; this contains the results of the search of the Tower of Records; one more email about the mind-reading of the chamberlain and the discussion on the group still to come. for those with minimum energy skip down to the bit I've flagged as **MOST INTERESTING PART**
 
   
 

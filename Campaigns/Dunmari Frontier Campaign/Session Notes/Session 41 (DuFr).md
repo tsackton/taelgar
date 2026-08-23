@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmar Frontier
 sessionNumber: 41
@@ -50,7 +50,7 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
 ## Narrative
 We begin as the party finishes their conversation with [[Saka]], and prepares to return to [[Tokra]] after sharing a meal with [[Saka]] and her family. As they depart, [[Saka]] pulls [[Kenzo]] aside, reminding him not to neglect his duties as a Mystai of [[Bhishma]]. She gives him 10 scrolls that can be used to collect the stories of the people of [[Dunmar]], to be stored in the [[Hall of Stories]] at some point in the future. 
 
-The next two days are spent in uneventful travel south back to [[Tokra]], in the hot, dry, weather, arriving the evening of July 8th, and returning to [[Kirian's]], where they had been staying. Here, they are given messages from [[Govir]] at the [[Archives]], from [[Fallthra Hardstone]], from [[Kassi]] at the [[Lakan Monastery]], from [[Kaleha]], and from [[Riswynn]]. After meeting up with [[Riswynn]] again, the party returns to [[Kirian's]] for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [[Kenzo]] listens to [[Kirian]]’s [[Kirian's Story|story]].
+The next two days are spent in uneventful travel south back to [[Tokra]], in the hot, dry weather, arriving the evening of July 8th, and returning to [[Kirian's]], where they had been staying. Here, they are given messages from [[Govir]] at the [[Archives]], from [[Fallthra Hardstone]], from [[Kassi]] at the [[Lakan Monastery]], from [[Kaleha]], and from [[Riswynn]]. After meeting up with [[Riswynn]] again, the party returns to [[Kirian's]] for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [[Kenzo]] listens to [[Kirian]]’s [[Kirian's Story|story]].
 
 The next day, the party takes care of errands around [[Tokra]]. First, a quick stop at [[The Red Lily Inn]] to check on [[Garret Tealeaf]] and [[Ander Charmheart]] and his family, and then to the [[Archives]]. In the [[Archives]], there are papers and notes spread all over the place, seemingly [[Govir]]’s recent work. The party heads downstairs to the Hardstone’s quarters, where they speak with [[Fallthra Hardstone]]. She has been worried about [[Dag Hardstone]]’s dreams – of a dark woods, in twilight, the sounds of a hunt in the distance. But [[Delwath]] assures her the dreams are safe, the echoes of the god that cured him from lycanthropy. 
 

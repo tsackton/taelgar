@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 tags: [place, status/gameupdate/dufr, status/check/lint]
 typeOf: realm
 typeOfAlias: kingdom
@@ -12,7 +12,7 @@ whereabouts:
   - {type: home, location: Chataan Mountains}
 dm_owner: tim
 dm_notes: important
-POV: "1748"
+POV: "1749"
 ---
 # Ulgrathar
 *(ool-GRAH-thar)*
@@ -33,22 +33,19 @@ Temporal coverage: through DR 1749-07-04, a historical realm snapshot before Dhr
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- Changed `POV` from `1748` to `1749` so the scalar viewpoint matches the article's established pre-defeat DR 1749 snapshot.
+
+### Validated judgments
+- `status/gameupdate/dufr` is not assessable until the later-material-change decision is made; preserve it unchanged.
+
 ### Editorial assessment
 
-**Underdeveloped**. The visible article omits two central dimensions: the enclave's defining coercive chalyte-mining regime under Dhrukmir, and the established post-defeat state that overtook this historical snapshot. The smallest useful scope is one compact paragraph on Dhrukmir's rule and the mines, plus a human decision about whether to update or intentionally preserve the pre-defeat article.
-
-### Status disposition
-
-- `status/gameupdate/dufr` — not assessable until the later-material-change decision is made; preserve it unchanged.
+**Underdeveloped**. The visible article omits two central dimensions: the enclave's defining coercive chalyte-mining regime under Dhrukmir, and the established post-defeat state that overtook this historical snapshot. The smallest useful scope is one compact paragraph on Dhrukmir's rule and the mine, plus a human decision about whether to update or intentionally preserve the pre-defeat article.
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** [[Session 127 (DuFr)]] describes Ulgrathar as a stone-giant enclave and mine that Dhrukmir made his personal domain, using [[Dauthleiptr|Dauðleiptr]] to control and enslave its giant population. The current sentence that he “protects his realm” omits this defining coercive role. Copy-ready candidate: “Ulgrathar was a stone-giant enclave and chalyte mine in the [[Chataan Mountains]]. The stone giant [[Dhrukmir]] made it his personal domain, using [[Dauthleiptr|Dauðleiptr]] to control and enslave its giant population.”
+- [ ] **Warning — coverage.established_fact_missing:** [[Session 127 (DuFr)]] describes Ulgrathar as a stone-giant enclave and mine that [[Dhrukmir]] made his personal domain, using [[Dauthleiptr|Dauðleiptr]] to control and enslave its giant population. The current sentence that he “protects his realm” omits this defining coercive role. Copy-ready candidate: “Ulgrathar was a stone-giant enclave and chalyte mine in the [[Chataan Mountains]]. The stone giant [[Dhrukmir]] made it his personal domain, using [[Dauthleiptr|Dauðleiptr]] to control and enslave its giant population.”
 
 - [ ] **Warning — coverage.later_material_change:** [[Session 128 (DuFr)]] and [[Session 129 (DuFr)]] record Dhrukmir's defeat, the destruction of Dauðleiptr, the giants' liberation and dispersal, and the transfer of the chalyte source to new imperial exploitation. Decide whether to update the visible article and `POV`, defer the update while retaining `status/gameupdate/dufr`, or intentionally preserve the historical snapshot and have a human clear the game-update tag. Copy-ready update candidate: “After Dhrukmir's defeat in DR 1749, the surviving stone giants dispersed or remained in solitary holds around Ulgrathar, while the chalyte mines passed into renewed Chardonian exploitation.”
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chalyte Giants Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 128 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 129 - DM Notes]]
 %%^End%%

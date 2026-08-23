@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-21T10:48:34-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Dunmar Frontier
 sessionNumber: 27
