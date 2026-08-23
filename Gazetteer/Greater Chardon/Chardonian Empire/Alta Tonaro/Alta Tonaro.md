@@ -1,24 +1,26 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: ""}
-tags: [place]
+tags: [place, status/gameupdate/dufr]
 typeOf: realm
 typeOfAlias: province
 name: Alta Tonaro
+pronunciation: "AHL-tah toh-NAH-roh"
 whereabouts:
   - {type: primary, location: Chardonian Empire}
 dm_owner: tim
-dm_notes: important
+dm_notes: color
 POV: modern
 ---
 # Alta Tonaro
+*(AHL-tah toh-NAH-roh)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-*A brief description of the province of Alta Tonaro, produced by an assistant in the Imperial Office of Cartography*
+%% TIM: preserving dm notes color until I write down some vibes in my head %%
 
 [[Alta Tonaro]] occupies the northern foothills of the [[Chataan Mountains]], centered around the mining town of [[Argento]] and the riparian valleys of the [[Silverflood]]. Until the recent conquests in [[Illoria]], this was the southernmost province of the Empire. 
 
@@ -36,18 +38,4 @@ Since then, silver production has continued around [[Argento]], but, though valu
 
 %%^povNotes:v1%%
 Temporal coverage: a post-DR 1720 provincial view after the chalyte boom and closure of the surface mines; the account separately traces the boom and decline from DR 1689 through DR 1720. Beginning in DR 1749, renewed chalyte mining dramatically transforms the province; the visible description of Alta Tonaro as a poor backwater applies only before that change.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Alta Tonaro — AHL-tah toh-NAH-roh` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
-
 %%^End%%

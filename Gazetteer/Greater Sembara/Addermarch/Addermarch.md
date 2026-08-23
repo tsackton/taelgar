@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/errors]
-name: Addermarch
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [place, status/check/errors, status/check/lint]
 typeOf: realm
-whereabouts: Greater Sembara
+name: Addermarch
 aliases: [Addermarian]
+whereabouts: Greater Sembara
 dm_owner: tim
 dm_notes: important
+POV: modern
 ---
 # Addermarch
 >[!info]+ Information  
@@ -18,7 +21,7 @@ dm_notes: important
 %% Old Documents from first Plaguelands campaign. Not canonical but might have useful vibes to mine:
 - [[Southern Addermarch - Gazetteer]]
 - [[Tygate - Gazetteer]]
-- [[Addermarch - Old.pdf]]
+- [Addermarch - Old.pdf](<../../../Worldbuilding/Old Documents/Addermarch - Old.pdf>)
 
 %%
 
@@ -40,7 +43,7 @@ With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own cours
 Leaving in for now that Addermarch earls acknowledged [[Derik I]] as their overking, which lasted until the death of [[Derik III]]. 
 %%
 
-Now, Addermarch is a land of small farmers, foresters, highland cattle, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber, wool, and cheese. Addermarch has friendly relationships with the three human kingdoms on its borders: [[Tyrwingha]], [[Sembara]], and [[Duchy of Maseau|Maseau]]. Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
+Now, Addermarch is a land of small farmers, foresters, highland cattle, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber, wool, and cheese. Addermarch has friendly relationships with the three human kingdoms on its borders: [[Tyrwingha]], [[Sembara]], and [[Duchy of Maseau|Maseau]]. Sembara is economically and culturally dominant in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
 ## Geography 
 
 *See more: [[Mostreve Hills]]*
@@ -83,7 +86,7 @@ Addermarch consists of four distinctive regions, each with their own culture and
 #### Western Highlands
 _See more: [[Carlinshire]], [[Weskershire]], [[Bramshire]], [[Westcliff]]_
 
-To the west and northwest, the rugged terrain of the [[Westcliff]] tumbles down to the [[Velan]] river valley. This is a region of rough hills and mountains, which form high and often-impassable ramparts, especially on the western borders. It is also a region of productive, forested valleys, especially along the [[Velan]]; the lowlands near [[Valcroix]], at the confluence of the [[Velan]] and the [[Umber]], are one of the major agricultural centers of Addermarch. The high meadows, though, are more isolated, cut off from the [[Velan]] by the dense [[Torvaine Forest]], and are lightly populated by sheepherders and harder farmers. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins. 
+To the west and northwest, the rugged terrain of the [[Westcliff]] tumbles down to the [[Velan]] river valley. This is a region of rough hills and mountains, which form high and often-impassable ramparts, especially on the western borders. It is also a region of productive, forested valleys, especially along the [[Velan]]; the lowlands near [[Valcroix]], at the confluence of the [[Velan]] and the [[Umber]], are one of the major agricultural centers of Addermarch. The high meadows, though, are more isolated, cut off from the [[Velan]] by the dense [[Torvaine Forest]], and are lightly populated by sheepherders and hardy farmers. This area was extensively fortified at multiple times in the past, but the castles in the hills have not all been maintained and many are now in ruins.
 
 %% Setting for the [[Addermarch Campaign]]. vibe is Appalachian, but also the higher peaks have a bit more rugged feel and thin soil, with lots of caves and pasturelands. Generally rolling hills gradually climbing to steep hills/mountains. Mostly sheep herders. %%
 
@@ -124,7 +127,7 @@ To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of 
 
 To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. At the Aure, the high ridge of [[Westcliff]] is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to [[Garn Tyrn]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
 
-The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
+The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demesne of Tyrwinghan earls, and the drier, arid slopes to the south and west, the land of Addermarian earls.
 
 To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[Branth]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
 
@@ -166,7 +169,7 @@ During the [[Second Hobgoblin War (Sembara)]], Addermarch and [[Duchy of Maseau|
 
 When peace finally comes with the defeat of the [[Shattered Ice Clan]] in DR 1653, the borders of Addermarch are (relatively) safe for the first time in 300 years. The second half of the 1600s is a time of rapid growth in Addermarch. [[Adderfell]] grows, and many of the brandy houses are founded during this time. Roads are repaired, and river traffic on the [[Aure]] grows significantly. The [[Darkwood]] still looms, but these are golden years, a time of peace and prosperity. 
 
-In these golden years last until DR 1720, when the [[Undead Attacks in Sembara]] break out. While Addermarch is not heavily affected by undead itself, the [[Enst]] valley suffers a great deal, and once again the people of Addermarch refortify. In the modern day, Addermarch remains watchful. The generation that came of age during the zombie attacks, now the earls and knights of the realm, have not forgotten.
+These golden years last until DR 1720, when the [[Undead Attacks in Sembara]] break out. While Addermarch is not heavily affected by undead itself, the [[Enst]] valley suffers a great deal, and once again the people of Addermarch refortify. In the modern day, Addermarch remains watchful. The generation that came of age during the zombie attacks, now the earls and knights of the realm, have not forgotten.
 
 %% this is a little undeveloped and needs input on current events from Taelgar 1720, plus recent Sembaran history which is currently non-existent. however, basic vibe is that 1650-1720 was a period of rapid growth, economic development, and a time when resources went to roads and cities not castles and forts. since the zombie attacks, things are a bit more balanced and people don't forget, so current day is not exactly the "golden age" vibe but also not the "isolated guerilla warriors of the 1600-1650" period. 
 
@@ -192,7 +195,7 @@ Natural features include:
 Settlements include:
 - [[Adderfell]], the largest settlement and only city in Addermarch, at the height of navigation of the [[Aure]], center of apple farming and brandy production
 - [[Tygate]], a small market town near the southern border
-- [[Valcroix]], a market town at the confluence of the [[Umber]] and [[Velan]]rivers
+- [[Valcroix]], a market town at the confluence of the [[Umber]] and [[Velan]] rivers
 - [[Roscombe]], a market town in the northwestern highlands, near [[Torvaine Forest]]
 - [[Brantor]], a village near [[Roscombe]]
 
@@ -200,7 +203,7 @@ Settlements include:
 
 ### Culture and Religion
 
-The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worshop [[Mos Numena]], following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there is no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found). 
+The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worship [[Mos Numena]], following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there are no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found).
 
 The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the [[Darkwood]] and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [[Dwarves|dwarves]] than one might expect, but more [[Elves|elves]], mostly from [[Orenlas]], and [[Lizardfolk|lizardfolk]], mostly from the [[Ozabal]] and [[Latazaro]] swamps. 
 
@@ -246,3 +249,25 @@ Earl of HIghlands is poorest, at least in the 1710s. This is both sparsely popul
 ### Economy, Trade, and Foreign Relations
 
 Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
+
+%%^Metadata:names:v1%%
+- {name: Addermarch, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broad history through the modern era; the present-day account is set after the DR 1720 undead attacks, but its exact current year is not established.
+%%^End%%
+
+%%^Lint%%
+### Open findings
+
+- [ ] **Warning — content.internal_conflict:** The overview says Addermarch acknowledged the sovereignty of Sembaran monarchs before the Great War, while the detailed history and adjacent hidden note describe only a limited overking relationship through Derik III. Candidate: `Addermarch has never accepted permanent subordination to Sembaran or Tyrwinghan monarchs. It did, however, acknowledge Derik I and his successors through Derik III as overkings during the close alliance before the Great War.`
+- [ ] **Warning — correctness.cross_note_conflict:** The early-1400s passage gives that invasion the Addermarian occupation and guerrilla resistance that the Serpentine Wars and Dominion of Avatus notes date to DR 1369–1388; those sources instead place Avatus's later invasion in the Enst valley in the early DR 1420s. Candidate: `After a few decades of uneasy peace, Avatus invaded Sembara in the early DR 1420s and occupied much of the Enst valley, leaving Addermarch increasingly isolated.`
+- [ ] **Warning — content.internal_conflict:** The visible account says Addermarch was not heavily affected by the DR 1720 undead attacks, while the hidden discussion explicitly says the realm's experience is ill-defined. Candidate: `When the Undead Attacks in Sembara began in DR 1720, the extent of the fighting in Addermarch was not recorded, but the devastation in the Enst valley prompted renewed fortification and watchfulness.`
+
+### DM evidence
+- [[_DM_/Brainstorming/Family Campaign Ideas]]
+- [[_DM_/Campaign Work Tracker]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 81 - DM Notes]]
+%%^End%%

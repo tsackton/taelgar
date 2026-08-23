@@ -1,20 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [adma]
-aliases: [Aurenxis]
-campaignInfo: 
-- {campaign: adma, type: "hired", date: 1715-05-02, wParty: "<met:u> <person> on <target> <current:rq>"}
-name: Caradoc
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
+tags: [person, status/check/lint]
 species: human
 ancestry: Addermarian
+campaignInfo:
+  - {campaign: adma, type: hired, date: 1715-05-02, wParty: "<met:u> <person> on <target> <current:rq>"}
 gender: male
 born: 1653
+name: Caradoc
+aliases: [Aurenxis]
 whereabouts:
-- {type: home, location: Brantor}
-- {type: away, location: Roscombe, start: 1715-05-02, end: 1715-05-02}
-dm_notes: none
+  - {type: home, location: Brantor}
+  - {type: away, location: Roscombe, start: 1715-05-02, end: 1715-05-02}
+knownTo: [adma]
 dm_owner: tim
+dm_notes: none
+POV: 1715
 ---
 # Caradoc
 >[!info]+ Biographical Info  
@@ -29,7 +32,7 @@ Despite his age, Caradoc moves with crisp focus. He has short white hair, keen g
 
 Caradoc pays generously for rare ingredients and dangerous errands. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. He does not share where and how he came by his coin, though he always seems to have enough for a generous commission. 
 
-Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]] and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, but it explains his familiarity with [[Morlaith]] and his caution around disturbances tied to the [[Feywild]].
+Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, but it explains his familiarity with [[Morlaith]] and his caution around disturbances tied to the [[Feywild]].
 
 ## Events
 - (DR:: 1715-05-02): [[Addermarch - Session 03|Hired the Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
@@ -78,3 +81,22 @@ For the purposes of the adventure:
 - Caradoc wants to deal with these troubles quietly, without involving the authorities
 - Definitely seems to be on the side of the rural people of [[Carlinshire]], but might seem a little old fashioned. Cares about maintaining the "old ways" for example.
 %%
+
+%%^Metadata:names:v1%%
+- {name: Caradoc, language: Addermarian, pronunciation: CARE-uh-dock, notes: "Proposed from the English and Welsh influence documented for northern Addermarian: initial stress, reduced middle vowel, and a hard final c.", status: proposed}
+- {name: Aurenxis, role: alias, language: unknown, pronunciation: AWR-en-kiss, notes: "Pronunciation documented in [[Addermarch - Session 14]].", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Caradoc as an active alchemist and patron, with selected earlier Feywild history; the intervening decades are not comprehensively described.
+%%^End%%
+
+%%^Lint%%
+### Applied lint-owned changes
+- Added the governed names and temporal POV metadata required for this lint pass.
+- Added the missing comma separating Caradoc's knowledge of Trueflame from the following independent clause.
+
+### Open work
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name now has a proposed pronunciation, CARE-uh-dock. The proposal follows the English and Welsh influence documented for northern Addermarian: initial stress, a reduced middle vowel, and a hard final c. Candidate: if accepted, copy CARE-uh-dock to frontmatter and change the Caradoc name entry to status: documented.
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared DM comment contains a coherent public-safe account of Caradoc's early Feywild history, while also containing rumors and unresolved campaign planning that should remain private. Candidate public prose: Caradoc was born in DR 1653 at the end of the Third Hobgoblin War, and as a teenager crossed into Morlaith's realm; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemical reactions. Keep the rumor list, unresolved motive, and adventure-use notes hidden.
+%%^End%%

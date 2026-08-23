@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: canal
@@ -44,7 +44,7 @@ At Mile 87, the Canal enters the Gulf of Chardon, passing [[Fort Varian]], built
 
 ## Canal Passage
 
-The canal itself is 87 miles long, although the southern 10 miles are a tidal estuary that ships can navigate on their own. Passage is regulated and taxed. Ships must passage the canal under the control of a Chardonian pilot. Galleys can proceed under their own power, but sailing ships must be controlled by a windcaller. Under control of a windcaller, most sailing ships can make 4 miles per hour in the canal, so the complete passage takes around 20 hours. 
+The canal itself is 87 miles long, although the southern 10 miles are a tidal estuary that ships can navigate on their own. Passage is regulated and taxed. Ships must transit the canal under the control of a Chardonian pilot. Galleys can proceed under their own power, but sailing ships must be controlled by a windcaller. Under control of a windcaller, most sailing ships can make 4 miles per hour in the canal, so the complete passage takes around 20 hours.
 
 The Cut, between the Emerald Bay and Lake Stillwater, and the Narrows, between Lake Stillwater and the Gulf of Chardon, prevent ships from passing each other during transit, so departure times are coordinated to prevent blockages. 
 
@@ -72,16 +72,20 @@ Temporal coverage: a broadly modern account of the canal's route, traffic rules,
 ## Taelgar note lint
 
 ### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
+- Corrected the grammar in the canal-passage description without changing its meaning.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; no additional material change beyond the open coverage tasks below was identified.
+- Newer-source candidates were reviewed; they corroborate the canal's route, operation, and history without establishing the missing endpoint locators.
+- The current positive `dm_notes` attestation is supported by matching local-only sources.
+- The SECRET block was reviewed for chat-only recovery; no private contents are reproduced here.
 
 ### Open findings
 
-- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: source.locator, outlet.locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Old Chardon Canal — old KAR-dohn kuh-NAL` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — metadata.map_location_missing:** The waterway map record still has blank `source.locator` and `outlet.locator` values. Fill them only from an authoritative map; do not infer either coordinate from a nearby settlement.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry for `Old Chardon Canal — old KAR-dohn kuh-NAL` remains `status: proposed`. Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
 
+
+### DM evidence
+- [[_DM_/Timelines/Apollyon Endgame Timeline]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
 %%^End%%

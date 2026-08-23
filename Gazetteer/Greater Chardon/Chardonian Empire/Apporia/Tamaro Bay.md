@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {defArt: "", wSecondary: "Located offshore of <secondary:1>"}
 tags: [place, status/check/lint]
 typeOf: marine feature
@@ -34,16 +34,14 @@ Temporal coverage: broadly modern geography and folklore associated with Tamaro 
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
-### Validated judgments
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Tamaro Bay — tah-MAH-roh bay` (proposed). Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry for `Tamaro Bay — tah-MAH-roh bay` remains `status: proposed`. Review the recorded Chardonian/Italian-analogue derivation and pronunciation, then accept it in frontmatter if appropriate or correct the persistent entry.
 
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Adventure Arc Outline]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Peninsula NPC Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 99 - DM Notes]]
 %%^End%%

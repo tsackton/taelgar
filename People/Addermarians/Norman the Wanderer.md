@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-campaignInfo: [{campaign: adma, type: "met", date: 1715-05-12}]
-name: Norman the Wanderer
 species: human
 ancestry: Addermarian
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-05-12}
 gender: male
+name: Norman the Wanderer
 whereabouts:
-- {type: home, location: Stonewolds}
+  - {type: home, location: Stonewolds}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 ---
 # Norman the Wanderer
 >[!info]+ Biographical Info  
@@ -29,3 +33,11 @@ Norman is a hermit who typically wanders the western [[Stonewolds]], living off 
 - “These are my hills,” “double‑big man,” and guidance at dawn: [[Adventure 4 - Into the Underdark]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Norman the Wanderer, language: Addermarian, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Norman in the western Stonewolds, centered on his two-day encounter with the Addermarch Mercenaries; earlier and later life are not described.
+%%^End%%

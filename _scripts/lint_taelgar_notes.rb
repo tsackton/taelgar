@@ -1646,19 +1646,19 @@ module TaelgarNoteLint
           raise BatchError, "The dm_notes review result does not match the manifest review gate: #{path}"
         end
 
-        expected_clusters = Array(record.dig("dmEvidence", "clusters"))
-        expected_ids = expected_clusters.map { |cluster| cluster.fetch("id") }
         cluster_reviews = Array(review["clusterReviews"])
-        actual_ids = cluster_reviews.map { |cluster| cluster["clusterId"].to_s }
-        unless actual_ids.sort == expected_ids.sort && actual_ids.uniq.length == actual_ids.length
-          raise BatchError, "The dm_notes review must disposition every evidence cluster exactly once: #{path}"
-        end
-
         unless expected_required
           unless cluster_reviews.empty?
             raise BatchError, "A skipped dm_notes review cannot carry cluster dispositions: #{path}"
           end
           return
+        end
+
+        expected_clusters = Array(record.dig("dmEvidence", "clusters"))
+        expected_ids = expected_clusters.map { |cluster| cluster.fetch("id") }
+        actual_ids = cluster_reviews.map { |cluster| cluster["clusterId"].to_s }
+        unless actual_ids.sort == expected_ids.sort && actual_ids.uniq.length == actual_ids.length
+          raise BatchError, "The dm_notes review must disposition every evidence cluster exactly once: #{path}"
         end
 
         cluster_reviews.each do |cluster|
@@ -1765,7 +1765,7 @@ module TaelgarNoteLint
         reviews = Array(decision["sharedNonpublicReview"])
         expected_keys = expected.map { |unit| [unit["kind"], unit["contentSha256"]] }.sort
         review_keys = reviews.map { |unit| [unit["kind"], unit["contentSha256"]] }.sort
-        unless expected_keys == review_keys && review_keys.uniq.length == review_keys.length
+        unless expected_keys == review_keys
           raise BatchError, "Shared nonpublic review must disposition every current comment and Campaign:none block exactly once: #{path}"
         end
         rule_ids = report_rule_ids(report)

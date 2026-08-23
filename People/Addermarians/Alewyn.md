@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-name: Alewyn
-pronunciation: EYE-loo-in
 species: human
 ancestry: Addermarian
 gender: female
-whereabouts: [{type: home, location: Haldrenn}]
-campaignInfo: [{campaign: adma, type: met, date: 1715-05-19}]
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-05-19}
+name: Alewyn
+pronunciation: EYE-loo-in
+whereabouts:
+  - {type: home, location: Haldrenn}
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 ---
 # Alewyn
 *(EYE-loo-in)*
@@ -20,3 +25,11 @@ dm_notes: none
 >> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 19th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
 
 Alewyn is a villager in [[Haldrenn]], whose home serves as an informal winter tavern. She is warm, talkative, and well supplied with local gossip.
+
+%%^Metadata:names:v1%%
+- {name: Alewyn, language: Addermarian, pronunciation: EYE-loo-in, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 snapshot of Alewyn as a Haldrenn villager and winter hearthkeeper; earlier and later life are not described.
+%%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: neighborhood
 typeOfAlias: urban area
@@ -18,7 +18,7 @@ POV: modern
 
 The South Bank describes the bulk of the city of [[Chardon]], consisting of everything south of the [[Chasa|Chasa River]]. This includes most of the most famous landmarks, such as the [[Great Library]], the [[University of Chardon]], the [[Imperial Palace]], the Cathedral Plaza of the Eight Divines, the Pillar of Victory, Haldir's Tomb, and the Hospital of the Mother's Grace. 
 
-This is also the where Chardon gets its monicker the City of Towers, for the skyline of the South Bank is dominated by the hundreds of towers of Chardon, especially to the south and east, clustered around the ancient University district in [[Precinct IV]].
+This is also where Chardon gets its moniker the City of Towers, for the skyline of the South Bank is dominated by the hundreds of towers of Chardon, especially to the south and east, clustered around the ancient University district in [[Precinct IV]].
 
 %%^Metadata:names:v1%%
 - {name: "South Bank", role: "primary", language: "Common", status: "documented"}

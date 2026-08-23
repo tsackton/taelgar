@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 tags: [place]
 typeOf: neighborhood
 typeOfAlias: urban area
@@ -9,7 +9,7 @@ name: North Bank
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: none
-POV: "1749"
+POV: modern
 ---
 # The North Bank
 >[!info]+ Information  
@@ -20,7 +20,7 @@ The North Bank refers to the neighborhoods of [[Chardon]] on the north side of t
 
 The dominant geographic feature on the North Bank is [[Mount Nera]], a long extinct volcano, with a conic summit peak of basalt and obsidian, rumored to be deeply magical. While the bulk of the mountain itself rises some distance from the river, a sharp spur runs north-south between the summit and the river, dividing the North Bank.
 
-To the west (downriver) of the spur, the land slopes steeply down to a flat lowlands along the [[Chasa]]. Historically much of this area was dominated by paper mills, with several mill streams and canals cut to redirect water from the [[Chasa]]. In the present day, this industrial infrastructure has largely been repurposed for [[chalyte]] refining, though the area is still known as [[Ragwater Basin]], though this is often shortened to just the Basin. The largest canal, the [[Mill Channel]], now carries riverboats of raw [[chalyte]] ore from [[Voltara]] directly to the refineries for processing.  
+To the west (downriver) of the spur, the land slopes steeply down to a flat lowlands along the [[Chasa]]. Historically much of this area was dominated by paper mills, with several mill streams and canals cut to redirect water from the [[Chasa]]. In the present day, this industrial infrastructure has largely been repurposed for [[chalyte]] refining, though the area is still known as [[Ragwater Basin]], often shortened to just the Basin. The largest canal, the [[Mill Channel]], now carries riverboats of raw [[chalyte]] ore from [[Voltara]] directly to the refineries for processing.
 
 During the [[Great War]] and the [[Blood Years]], the [[North Wall (Chardon)]] was built, running along the height of the [[Mount Nera]] spur, then cutting in two broad switchbacks west and turning in a broad sweep to encompass most of the lowlands, excluding the industrial [[Ragwater Basin]]. The [[Mill Channel]] runs through the middle of the walled area, exiting the walls to the west via a [[River Gate North (Chardon)|river gate]]. 
 
@@ -65,5 +65,5 @@ Landmark name ideas - not yet used
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: through early DR 1749. Urban reference baseline before the damage and institutional changes recorded in Sessions 124-129.
+Temporal coverage: approximately the late 1600s through early DR 1749; describes post-chalyte, pre-Dunmar Fellowship North Bank before the damage and institutional changes recorded in Sessions 124-129.
 %%^End%%

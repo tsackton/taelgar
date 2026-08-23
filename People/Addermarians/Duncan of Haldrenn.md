@@ -1,34 +1,39 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-name: Duncan of Haldrenn
 species: human
 ancestry: Addermarian
 born: 1692
 died: 1715-05-14
 gender: male
 campaignInfo:
-- {campaign: adma, type: found dead, date: 1715-05-27}
+  - {campaign: adma, type: found dead, date: 1715-05-27}
+name: Duncan of Haldrenn
+pronunciation: DUN-kan of HAL-dren
 whereabouts:
-- {type: home, location: Haldrenn}
-- {type: away, location: Highmoor, start: 1715-03, end: 1715-05-03}
-- {type: away, location: Nightsong Roots, start: 1715-05-06, end: 1715-05-07}
-- {type: away, location: Highmoor, start: 1715-08, end: 1715-05-10}
-- {type: away, location: Serethwyn Tor, start: 1715-05-10, end: 9999}
+  - {type: home, location: Haldrenn}
+  - {type: away, location: Highmoor, start: "1715-03-01", end: 1715-05-03}
+  - {type: away, location: Nightsong Roots, start: 1715-05-06, end: 1715-05-07}
+  - {type: away, location: Highmoor, start: "1715-05-08", end: 1715-05-10}
+  - {type: away, location: Serethwyn Tor, start: 1715-05-10, end: 9999}
+knownTo: [adma]
 dm_owner: tim
 dm_notes: none
+POV: 1715
 ---
 # Duncan of Haldrenn
+*(DUN-kan of HAL-dren)*
 >[!info]+ Biographical Info  
 > An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Found dead by the [[Addermarch Mercenaries]] on May 27th, 1715 in [[Serethwyn Tor]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-Duncan of Haldrenn was a boastful shepherd from [[Haldrenn]]. He lived alone in a small stone cottage on the edge of [[Haldrenn]], spending his summers with sheep in the high moors and winters around [[Alewyn]]’s hearth, where villagers knew him as boastful and full of unlikely claims. During the winter of DR 1714-1715, his talk of hidden treasure became unusually serious, and in March 1715 he vanished into the [[Highmoor]] after claiming he knew where to find riches. 
+Duncan of Haldrenn was a shepherd from [[Haldrenn]]. He lived alone in a small stone cottage on the edge of the village, spending his summers with sheep in the high moors and winters around [[Alewyn]]’s hearth, where villagers knew him as boastful and full of unlikely tall tales and exaggerated stories of his prowess. During the winter of DR 1714-1715, his talk of hidden treasure became unusually serious, and in March 1715 he vanished into the [[Highmoor]] after claiming he knew where to find riches. 
 
-His disappearance was later connected  to the anger of the [[Morlaith|Briarheart]], and the investigation of the [[Addermarch Mercenaries]] tied him to the [[Serpentine Battleaxe]], the stolen heart of the Singing Tree, and the ruins beneath [[Serethwyn Tor]]. He was found dead beneath [[Serethwyn Tor]] on (DR:: 1715-05-27), along with a sheaf of letters to his associate [[Kelvyn]]; the letters connected Duncan to [[Geoffrey]] and a mysterious patron searching for [[serpentine]]. 
+His disappearance was later connected to the anger of the [[Morlaith|Briarheart]], and the investigation of the [[Addermarch Mercenaries]] tied him to the [[Serpentine Battleaxe]], the stolen heart of the Singing Tree, the murder of [[Geoffrey]], and the ruins beneath [[Serethwyn Tor]]. He was found dead beneath [[Serethwyn Tor]] on (DR:: 1715-05-27), along with a sheaf of letters to his associate [[Kelvyn]]; the letters connected Duncan to [[Geoffrey]] and a mysterious patron searching for [[serpentine]].
 
 %%^Campaign:none%%
 
@@ -53,4 +58,12 @@ Timeline:
 - (DR:: 1715-05-27): The party finds Duncan’s decapitated body, the stolen heart, and the Serpentine Battleaxe beneath Serethwyn Tor. **Session source:** [[Addermarch - Session 20]].
 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Duncan of Haldrenn, language: Addermarian, pronunciation: DUN-kan of HAL-dren, notes: English-prevalent Addermarch analogue with ordinary English Duncan and phonetic Haldrenn, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 retrospective account through the recovery of Duncan's body on May 27; his earlier life is only briefly described.
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
 tags: [place]
 typeOf: neighborhood
@@ -10,7 +10,7 @@ name: Riverside Quarter
 whereabouts: North Bank
 dm_owner: tim
 dm_notes: important
-POV: "1749"
+POV: modern
 ---
 # The Riverside Quarter
 >[!info]+ Information  
@@ -26,5 +26,5 @@ Riverside together with the [[Ragwater Basin|Basin]] makes up Precinct XVII.
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: through early DR 1749. Urban reference baseline before the damage and ownership changes recorded in Sessions 124-129.
+Temporal coverage: approximately the late 1600s through early DR 1749; describes post-chalyte, pre-Dunmar Fellowship Riverside before the damage and ownership changes recorded in Sessions 124-129.
 %%^End%%

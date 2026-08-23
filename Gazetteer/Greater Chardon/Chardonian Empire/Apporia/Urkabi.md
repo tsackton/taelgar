@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {endStatus: mysteriously vanished in}
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: settlement
@@ -46,18 +46,14 @@ Temporal coverage: through DR 1748. Historical settlement snapshot after the dis
 %%^Lint%%
 ## Taelgar note lint
 
-### Applied changes
-- Completed the full linter 3.2 review and refreshed the atomic lint completion state.
-- Reassessed the article viewpoint and replaced the legacy Metadata:article block with persistent POV and povNotes:v1 metadata.
-- Added the applicable persistent Metadata:names:v1 entry after the independent name review.
-
 ### Validated judgments
-- Shared nonpublic comments and Campaign:none material were reviewed; no additional public-safe candidate met the reporting threshold beyond any task below.
-- Non-check status disposition: `status/gameupdate/gl` is not assessable pending the open temporal or coverage choice; no status was changed.
+- The documented Lizardling name and pronunciation were preserved.
+- The shared nonpublic comment is an editorial source pointer and was retained unchanged.
+- Non-check status disposition: `status/gameupdate/gl` is not assessable until the later-material choice below is resolved; no status was changed.
 
 ### Open findings
 
-- [ ] **Warning — coverage.later_material_change:** Great Library Arc 5 records the rescued lizardfolk returning to Urkabi in DR 1752. Candidate: add a DR 1752 dated passage stating that rescued villagers returned to Urkabi.
-- [ ] **Warning — metadata.map_location_missing:** Map position fields remain incomplete: locator. Fill only the blank locator values from the authoritative map; do not guess coordinates.
+- [ ] **Warning — coverage.later_material_change:** [[Great Library Session Notes - Arc 5]] records that in DR 1752 the Silver Tempests rescued surviving villagers from [[Cairn Dor]] and escorted them back to Urkabi, materially changing this DR 1748 historical snapshot. Choose whether to update the article and `POV`, defer the update under the existing `status/gameupdate/gl`, or intentionally preserve the earlier article and later remove that status. Candidate if updating: add a DR 1752 dated passage stating, "In DR 1752, the [[Silver Tempests]] brought the surviving villagers back to Urkabi after rescuing them from [[Cairn Dor]], where they had been held as magical dreamers."
+- [ ] **Warning — metadata.map_location_missing:** The settlement map record has a blank `locator`. Fill it only from an authoritative map; do not guess coordinates.
 
 %%^End%%

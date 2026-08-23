@@ -1,11 +1,14 @@
 ---
-tags: [background, status/check/errors]
-displayDefaults: {defArt: a}
-excludePublish: ["all"]
-name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+displayDefaults: {defArt: a}
+tags: [background, status/check/errors, status/check/lint]
+name: Timeline of Sembaran History
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
+POV: 1710s
 ---
 
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up. discussion in discord chats that needs to be linked %%
@@ -18,9 +21,9 @@ dm_notes: none
 DR 300 - DR 431
 
 ### Overview
-In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Zimkova|Zimka]] live in the foothills of the [[Sentinel Range]], and have spread amongst the highlands, and down the valleys of the great rivers: the [[Semb]], the [[Volta]], the [[Teft]], and the [[Wistel]]. Along the coast, [[Skaer]] mariners raid, intermarry, and settle amongst the Zimka, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for remnants: [[Ozabal]], at the mouth of the [[Wistel]] and [[Latazaro]], in the east, where a thriving lizardfolk communities remain. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]], but otherwise the southern lands are largely empty of humans. 
+In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Zimkova|Zimka]] live in the foothills of the [[Sentinel Range]], and have spread amongst the highlands, and down the valleys of the great rivers: the [[Semb]], the [[Volta]], the [[Teft]], and the [[Wistel]]. Along the coast, [[Skaer]] mariners raid, intermarry, and settle amongst the Zimka, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for remnants: [[Ozabal]], at the mouth of the [[Wistel]] and [[Latazaro]], in the east, where thriving lizardfolk communities remain. South of the Wistel is the mixed community of humans, clustered along the coast, united by their shared allegiance to the [[Archfey Ethlenn]], but otherwise the southern lands are largely empty of humans.
 
-Over a series of start-and-start campaigns over 60 years, the Drankorian armies occupy large portions of this land. %% what this "conquest" looks like in practice is unclear, and may involve Sembarans willing or even eagerly joining the Drankorian Empire; the existence of the two treaties below is canonical but they are not necessarily the result of war %%
+Over a series of stop-and-start campaigns over 60 years, the Drankorian armies occupy large portions of this land. %% what this "conquest" looks like in practice is unclear, and may involve Sembarans willing or even eagerly joining the Drankorian Empire; the existence of the two treaties below is canonical but they are not necessarily the result of war %%
 ###
 * ((DR:: 358)): Emperor [[Anates]] campaigns around the [[Mostreve Hills]] %% Anates is canonically the first emperor to establish a Drankorian presence in Sembara but exact timing is not canonical %%
 * (DR:: 360): Emperor [[Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
@@ -146,10 +149,10 @@ Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], e
 ##
 - (DR:: 1420): [[Derik I]], of a cadet branch of the [[House of Entranca]], marries Johanna of Telham, the younger daughter of the [[Duchy of Telham|Duchess of Telham]]
 - (DR:: 1422): [[Derik I]] distinguishes himself in the Castrota Pirate War
-- (DR:: 1422): [[Avatus]] conquerors most of the [[Duchy of Brovna]], but is prevented from pushing through the pass by dwarven efforts, supported by [[Ardlas]].  The pleas of the Duke of Brovna for aid from Sembara are ignored.
+- (DR:: 1422): [[Avatus]] conquers most of the [[Duchy of Brovna]], but is prevented from pushing through the pass by dwarven efforts, supported by [[Ardlas]].  The pleas of the Duke of Brovna for aid from Sembara are ignored.
 - (DR:: 1425), summer: [[Avatus|Avatus]] invades [[Sembara]]
 - (DR:: 1425), summer: [[Avatus|Avatus]] defeats the Sembaran army at the Battle of Stavenford
-- (DR:: 1425), late summer: [[Derik I]] receives a prophecy fortelling his future kingship (The Prophecy of Udazken)
+- (DR:: 1425), late summer: [[Derik I]] receives a prophecy foretelling his future kingship (The Prophecy of Udazken)
 - (DR:: 1425), late fall: Sembaran army abandons all the lands between the [[Enst]] and the [[Wistel]] and retreats to [[Wisford]] for the winter
 - (DR:: 1425), winter: [[Derik I]] [[Derik I's Arrival in Tyrwingha|lands]] in [[Tyrwingha]] and is proclaimed king by [[Archfey Ethlenn]]
 - (DR:: 1426), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Wistel]] at the Battle of Wisford
@@ -159,7 +162,7 @@ Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], e
 - (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treaty of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
-- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]] in the lands formally controlled by [[Avatus]]. He also reestablishes the [[Duchy of Brovna]].
+- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]] in the lands formerly controlled by [[Avatus]]. He also reestablishes the [[Duchy of Brovna]].
 
 %% None of the dates above need to be canon except 1425 King of Tyrwingha  although I think the general vibe is correct, as is the idea of Derik I establishing a bunch of duchies in old Avatus lands in the 1430s or late 1420s. The dates for Battle of Fellburn, Battle of Stavenford, and Battle of Wisford can move +/- 1-2 years but should be relatively close to the above, and the battles are canon %%
 
@@ -211,8 +214,7 @@ Several times the dwarves send diplomatic missions to Sembara, asking the king t
 
 %% @Tim This is in flavor canon, as is Vimfrost's War, but nothing here was intended by me to be canon beyond what you think should be %%
 
-After his defeat as the hidden puppet master of [[Dominion of Avatus]], [[Cha'mutte]] has turned his attention north, where far across the [[Sentinel Range]] he is growing an empire. Still maintaining foo
-tholds in the southern [[Sentinel Range]] where several loyal hobgoblin tribes attempt to prevent the consolidation of the [[Istabor Alliance]] into a united front, he has turned his attention to a move from the north, through the empty northern steppes. Still working through proxies, and not ready to show himself yet, he summoned one of his dragonspawn, the ancient white dragon Vimfrost, and set him to gather allies across the northern plains -- orcs, monstrosities, ogres, and trolls -- and set upon Vostok and Zimkova from the north. 
+After his defeat as the hidden puppet master of [[Dominion of Avatus]], [[Cha'mutte]] has turned his attention north, where far across the [[Sentinel Range]] he is growing an empire. Still maintaining footholds in the southern [[Sentinel Range]] where several loyal hobgoblin tribes attempt to prevent the consolidation of the [[Istabor Alliance]] into a united front, he has turned his attention to a move from the north, through the empty northern steppes. Still working through proxies, and not ready to show himself yet, he summoned one of his dragonspawn, the ancient white dragon Vimfrost, and set him to gather allies across the northern plains -- orcs, monstrosities, ogres, and trolls -- and set upon Vostok and Zimkova from the north. 
 
 %% Needs thought 
 At the same time, a group of religious fanatics worshipping the children of [[Vaqar]]  began to establish themselves in [[Zimkova]] and the Volta borderlands in Vostok, taking control of [[Zimkova]] and persecuting followers of the Eightfold Way.  
@@ -235,7 +237,7 @@ By DR 1525, Derik III is at least nominally acknowledged as the overlord and hig
 
 Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Great War]].
 ## The Blood Years
-DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
+DR 1545 - DR 1574; 26 Derik III - 7 Wisym I
 
 %% See [[Cleenseau History Notes]] for some details on how this and later sections played out in Cleenseau. It should be consitent but continuity errors should be resolved in favor of Cleenseau History Notes %%
 ### Overview
@@ -245,7 +247,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1546): Significant refugee populations from [[Istabor Alliance|Istabor]] are settled in [[Duchy of Maseau|Maseau]], the [[Borderlands]], [[Addermarch]], and the [[Mostreve Hills]]
 - (DR:: 1547): The [[Bloodlust Wars]] begin
 - (DR:: 1549), summer: [[Derik III]] dies on the battlefield at [[Valarin]]
-- (DR:: 1549), fall: The [[Bloodlust Wars]] ends
+- (DR:: 1549), fall: The [[Bloodlust Wars]] end
 - (DR:: 1549), summer: [[Bertram I]] is crowned with his mother, [[Jane of Tollen]] as regent
 - (DR:: 1549), summer: The [[Tyrwingha]] [[Oracle of the Riven|Oracles]] elevate Rhys Taffolet to the crown instead of [[Bertram I]]. [[Jane of Tollen]] accepts this decision and does not attempt to force [[Tyrwingha]] to rejoin the Unified Crown.
 - (DR:: 1550), fall: Rumors reach [[Embry]] of orc hordes in [[Vostok]]
@@ -270,7 +272,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1566): [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
 - (DR:: 1568): The [[Interregnum of 1568]]. [[Wisym I]] appointed King.
 ## The Hobgoblin Wars
-DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
+DR 1574 - DR 1650; 7 Wisym I - 2 Cece I
 
 %% everything in this section is basically canonical although needs review with more finalized hobgoblin history %%
 
@@ -289,13 +291,13 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] probes the fortifications along the [[Enst]], launching attacks on [[Cleenseau]] and [[Rinburg]], both of which are repelled at some cost. The [[Rinburg]] bridge is destroyed, but hobgoblins establish a fortified camp near [[Dallet]]
 - (DR:: 1645):  Afraid of collaboration with [[Sembara]], the hobgoblins begin a series of brutal campaigns against the remaining humans living south of the [[Enst]]. Raiding continues north of the [[Enst]] and the armies swell around [[Rinburg]] and [[Cleenseau]]
 - (DR:: 1646), summer: The Sembaran Grand Army is defeated at the Battle of Rinburg. [[Rinburg]] is occupied, and [[Cleenseau]] and [[Dunfry]] are isolated
-- (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conquerors [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
+- (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conquers [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
 - (DR:: 1647): The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
 - (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the Earl of Addermarch holds the line of the [[Aure]] at the Battle of the Aure
 - (DR:: 1647), summer: [[Dunfry]] is besieged
 - (DR:: 1647), late fall: [[Fellburn]] is sacked
 - (DR:: 1648), late fall: [[Arryn II]] is killed by hobgoblins while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]. His daughter, [[Charlotte II]] is caught in the same attack, but survives for two months before dying of an injury that resisted all magical healing
-- (DR:: 1648), late winter: Cece I crowned Queen
+- (DR:: 1648), late winter: Cece I is crowned queen
 - (DR:: 1648), early spring: The [[Army of the North]] attempts to break the siege of Dunfry, and is bogged down
 - (DR:: 1648), late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of
 - (DR:: 1648), early summer: After a few stalemates, the [[Radiant Alliance]] sweeps across Sembara. [[Rinburg]] and [[Cleenseau]] are liberated and the siege of Dunfry is broken
@@ -304,7 +306,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1650), summer: The Enford Campaign pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
 - (DR:: 1653): The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] ends
 ## The Peace of Cece
-DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
+DR 1650 - DR 1713; 2 Cece I - 65 Cece I
 ### Overview
 %% everything in this section is basically canonical %%
 
@@ -319,7 +321,7 @@ Since DR 1713 (1 Robert I)
 - (DR:: 1715), spring: [[Rowena Chemare]], [[Robert I|Robert's]] wife, is murdered by bandits in the [[Aine Hills]] while visiting her family holdings
 - (DR:: 1715), summer: Robert leads the [[Army of the North]] on a summer campaign against bandits in the [[Aine Hills]] and [[Highlands|Sembaran Highlands]]
 - (DR:: 1716), spring: [[Robert I|Robert's]] eldest son, Robert of Sewick is infected by a lycanthrope and disappears shortly afterward west of [[Marches of Enford|Enford]] 
-- (DR:: 1717), fall: [[Robert I|Robert's]] daughter, Arabella of Sewick dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children as being passed down to her son.
+- (DR:: 1717), fall: [[Robert I|Robert's]] daughter, Arabella of Sewick dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children had been passed down to her son.
 - (DR:: 1717), late winter: [[Robert I|Robert's]] younger son, Thaddeus of Sewick is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
 - (DR:: 1718), early spring: The Royal Council meets over [[Robert I|Robert's]] objections and declares [[Elaine II]] the heir to the Sembaran throne. [[Robert I]] acquiesces, although he vows to remarry and produce a new heir from his body.
 
@@ -336,3 +338,33 @@ In general, therefore, I think the Great War era Sembara has a couple of types o
 
 The death of Derik III ends the unified rule with Tyrwingha, Vostok, Addermarch, and Breva. Brovna is destoryed by the Great War / Limbo. Maseau and Ardlas are abandoned between the end of the Great War and the Interregun after the almost-war between Anne and Elaine I although exactly when is unclear. Lavnoch is not well defined.
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: a retrospective chronology from DR 300 through DR 1718, read from the late 1710s; gaps, parenthetical entries, and shared comments preserve substantial uncertainty rather than continuous coverage.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Editorial assessment
+**Underdeveloped**. Although the timeline has broad chronological coverage, central periods are still explicitly provisional: Drankorian incorporation and retreat, early post-plague political structure, parts of unification, the Great War preamble and highland material, and nearly all development after DR 1718. Reconcile the dated canonical event and person notes first, then revise only affected statements while retaining uncertainty elsewhere.
+
+### Applied changes
+- Added a late-1710s retrospective POV and documented the article's temporal coverage.
+- Corrected objective spelling, grammar, word-break, and historical-name errors without changing disputed chronology.
+
+### Validated judgments
+- This is a historical organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
+- The older `A Chronicle of Sembaran History` is provisional Worldbuilding material and was not promoted over canonical notes.
+- `status/check/errors` was preserved.
+- The complete local-only dossier contains no evidence clusters; `dm_notes: none` remains supported.
+
+### Open findings
+- [ ] **Error — content.internal_conflict:** The DR 1552 entries say Bertram I dies in winter and then say Bertram I stops collecting Maseau's rents in spring. Determine whether the rent decision belongs to Jane's regency or Bertram II, or whether one date is wrong.
+- [ ] **Warning — correctness.cross_note_conflict:** This timeline dates Cleenseau's liberation to early summer DR 1648. `Cleenseau History Notes` narrates it in early spring DR 1649 but also contains a period list using DR 1648. Reconcile the contradictory source dates before adopting either one.
+- [ ] **Error — correctness.cross_note_conflict:** The Peace of Cece begins in DR 1650 and says the Shattered Ice dominion was gone by autumn 1650, while this timeline and `Third Hobgoblin War (Sembara)` place the war's end in DR 1653. Move the peace boundary to DR 1653 or state that fighting continued through the decisive defeat in DR 1653.
+- [ ] **Suggestion — frontmatter.deprecated_field:** `timelineDescriptor` is deprecated. Remove it only after confirming no remaining consumer needs it; the explicit POV and dated entries now carry its temporal function.
+- [ ] **Suggestion — editorial.public_material_candidate:** Surface the conquest-mechanism uncertainty. If approved, replace the opening sentence with: `Over a series of campaigns and treaties spanning roughly sixty years, Drankor established control over large portions of the region; the balance between military conquest and voluntary incorporation remains uncertain.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The closing shared framework offers a cautious Great War political overview. If approved, add: `At the height of the Great War, Sembara's political reach was layered rather than uniform: Brovna, Maseau, and Ardlas were core duchies; Tyrwingha shared the crown; Addermarch, Vostok, and Breva accepted temporary overlordship; and Lavnoch's relationship remained unclear.`
+- [ ] **Suggestion — editorial.note_underdeveloped:** Resolve the provisional Drankorian retreat, post-plague political structure, unification chronology, Great War preamble and highland material, and post-DR 1718 coverage in bounded source-led passes.
+%%^End%%

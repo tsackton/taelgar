@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-22T23:40:59-04:00"
+lintVersion: "3.4"
 displayDefaults: {dPastHasStart: "Began on <startdate>, ended on <enddate>"}
 tags: [event]
 typeOf: war
@@ -22,7 +22,7 @@ In the aftermath of the Chardon-Dunmar War, as news concerning the [[Session 116
 
 ## Background
 
-While the [[Society of the Open Scroll]] privately sent adventurers and artifact collectors acting independently into [[Dunmar]] as early as DR 1743, it was not until end of the Illorian Wars and the ascension of [[Mitus Verina Auratan]] to Magistros in DR 1746 that trade negotiations between Chardonian representatives and [[Nayan Karnas]] began in earnest. On (DR:: 1747-05-28), the [[Nayahar Articles]] established the formal right of Chardonian scholarly societies to extract and return artifacts found on Dunmari land to Chardon; it is conventional to date the beginning of the Chardon-Dunmar War to the signing of these articles. While it later became clear that [[Fausto]] and the [[The Cleansed]] were the driving force behind these agreements, they were initially perceived by [[Mitus Verina Auratan]]'s allies as a necessary compromise to solidify support for Mitus' rule among the [[Hetaeri Magica]]. As part of these negotiations, Chardon agreed to supply magical and military aid to [[Nayan Karnas]]. 
+While the [[Society of the Open Scroll]] privately sent adventurers and artifact collectors acting independently into [[Dunmar]] as early as DR 1743, it was not until the end of the Illorian Wars and the ascension of [[Mitus Verina Auratan]] to Magistros in DR 1746 that trade negotiations between Chardonian representatives and [[Nayan Karnas]] began in earnest. On (DR:: 1747-05-28), the [[Nayahar Articles]] established the formal right of Chardonian scholarly societies to extract and return artifacts found on Dunmari land to Chardon; it is conventional to date the beginning of the Chardon-Dunmar War to the signing of these articles. While it later became clear that [[Fausto]] and the [[The Cleansed]] were the driving force behind these agreements, they were initially perceived by [[Mitus Verina Auratan]]'s allies as a necessary compromise to solidify support for Mitus' rule among the [[Hetaeri Magica]]. As part of these negotiations, Chardon agreed to supply magical and military aid to [[Nayan Karnas]].
 
 By late DR 1747, several major [[Society of the Open Scroll]] [[Open Scroll Expeditions in Dunmar|expeditions]] were ongoing in [[Dunmar]], including several that were secretly missions of [[The Cleansed]]. Around this time, the first Chardonian troops began arriving in [[Dunmar]] as well, including a major garrison at [[Tokra]] consisting of mageguards and elite soldiers serving alongside Dunmari troops loyal to [[Nayan Karnas|Karnas]]. Given that [[Nayan Karnas|Karnas]] was already unpopular in central and eastern Dunmar, these forces were seen as a provocation by many Dunmari. 
 

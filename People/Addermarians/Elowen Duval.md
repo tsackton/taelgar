@@ -1,24 +1,28 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-22T23:22:55-04:00"
+lintVersion: "3.4"
 tags: [person]
-knownTo: [adma]
-campaignInfo: 
-- {campaign: adma, type: met, date: 1715-05-01}
-- {campaign: adma, type: rewarded, date: 1715-05-04, wParty: "<met:u> <person> on <target> <current:1>"}
-- {campaign: adma, type: "hosted a dinner including", date: 1715-05-07, wParty: "<met:u> <person> on <target> <current:1>"}
-name: Elowen Duval
 species: human
 ancestry: Addermarian
+campaignInfo:
+  - {campaign: adma, type: met, date: 1715-05-01}
+  - {campaign: adma, type: rewarded, date: 1715-05-04, wParty: "<met:u> <person> on <target> <current:1>"}
+  - {campaign: adma, type: hosted a dinner including, date: 1715-05-07, wParty: "<met:u> <person> on <target> <current:1>"}
 gender: female
 title: Lady
-affiliations: 
-- {org: Roscombe, title: castellan, type: leader}
-- {org: Duval Household, title: head, type: leader}
-whereabouts:
-- {type: home, location: Roscombe}
-dm_notes: important
-dm_owner: tim
+name: Elowen Duval
+aliases: [Duval Household]
 pronunciation: EL-oh-wen doo-VAL
+affiliations:
+  - {org: Roscombe, title: castellan, type: leader}
+  - {org: Duval Household, title: head, type: leader}
+whereabouts:
+  - {type: home, location: Roscombe}
+knownTo: [adma]
+dm_owner: tim
+dm_notes: color
+POV: 1715
 ---
 # Lady Elowen Duval
 *(EL-oh-wen doo-VAL)*
@@ -30,10 +34,11 @@ pronunciation: EL-oh-wen doo-VAL
 >> %%^Campaign:adma%% Rewarded the [[Addermarch Mercenaries]] on May 4th, 1715 [[Roscombe]] %%^End%%  
 >> %%^Campaign:adma%% Hosted a dinner including the [[Addermarch Mercenaries]] on May 7th, 1715 [[Roscombe]] %%^End%%
 
-Elowen Duval is the castellan of [[Roscombe]] and head of the Duval Household, governing the town and its scattered upland hinterlands from Duval Manor. She oversees frontier defense, trade, civic administration, and the upkeep of Roscombe's old walls. Though formally she is a vassal of the Earl of Westcliff, he rarely ventures to Roscombe during his circuits, given Elowen unusual independence. 
+%% preserving dm notes color for some color/roleplaying vibes to capture that i need to write down %%
+
+Elowen Duval is the castellan of [[Roscombe]] and head of the Duval Household, governing the town and its scattered upland hinterlands from Duval Manor. She oversees frontier defense, trade, civic administration, and the upkeep of Roscombe's old walls. Though formally she is a vassal of the Earl of Westcliff, he rarely ventures to Roscombe during his circuits, giving Elowen unusual independence.
 
 Lady Duval rules through practical delegation. She relies on Sir [[Gareth Howell]] and the household guard for field matters, Master [[Ernault]] and the manor clerks for records and administration, and [[Owen Tavish]] for counsel when religious or supernatural dangers touch Roscombe.
-
 ![[duval-shield.png|right|250]]
 ## Heraldry
 
@@ -53,3 +58,12 @@ The Duval seal shows a stylized valley between two mountains with an oak tree in
 - [[Owen Tavish]] — Priest of [[The Sibyl]] whom she consults on spiritual and supernatural matters.
 - [[Colette du Bois]] — Squire in her household guard.
 - [[Addermarch Mercenaries]] — Capable outsiders whom she rewards, hosts, and treats as useful troubleshooters for sensitive local problems.
+
+%%^Metadata:names:v1%%
+- {name: Elowen Duval, language: Addermarian, pronunciation: EL-oh-wen doo-VAL, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 snapshot of Elowen Duval as Roscombe's castellan, with events concentrated from late April through May of that year; earlier and later tenure are not described.
+%%^End%%
+

@@ -1,8 +1,12 @@
 ---
-tags: [background, status/check/errors]
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [background, status/check/errors, status/check/lint]
+name: Traditions around Death
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 
 %% see warning but not totally obvious what the errors are %%
@@ -29,7 +33,7 @@ I think my vision is that this isn't a longing for something else, or a wearines
 %%
 
 The exact details of elven traditions around death are intentionally vague at the moment, but the elves did inspire the Drankorian traditions, I think, in two important ways:
-* The elves are *in control* either consciously or unconsciously. The willingly enter the [[Land of the Dead]], at some level, rather than have to be pulled or guided there by an external entity. Therefore the concerns of the [[#Northern Traditions]] would be very foreign to the elvish experience - even an elf dying of some magical disease or their wounds likely has some ability to see the door, so to speak and willingly walk into the [[Land of the Dead]]. For elves, it is perhaps not something the gods help with, but something the gods have given them as an ability. So perhaps just as the ability to have children (create new life/souls) is granted to the elves by [[Aldanor]], the elves see the ability to leave the Material Realm as granted to them by [[Elmerca]] - but it is *their* ability, at some level, not [[Elmerca]]. Perhaps even as far back as Hkar, this elven attitude was permeating the Drankorian religious tenets, encouraging strains of thought that centralized the journey through the [[Land of the Dead]] as dangerous, as opposed to the transition from Taelgar to the [[Land of the Dead]]. Perhaps elven stories of the dangers in the [[Land of the Dead]] helped cement this
+* The elves are *in control* either consciously or unconsciously. The willingly enter the [[Land of the Dead]], at some level, rather than have to be pulled or guided there by an external entity. Therefore the concerns of the [[Traditions around Death#Northern Traditions|Northern Traditions]] would be very foreign to the elvish experience - even an elf dying of some magical disease or their wounds likely has some ability to see the door, so to speak and willingly walk into the [[Land of the Dead]]. For elves, it is perhaps not something the gods help with, but something the gods have given them as an ability. So perhaps just as the ability to have children (create new life/souls) is granted to the elves by [[Aldanor]], the elves see the ability to leave the Material Realm as granted to them by [[Elmerca]] - but it is *their* ability, at some level, not [[Elmerca]]. Perhaps even as far back as Hkar, this elven attitude was permeating the Drankorian religious tenets, encouraging strains of thought that centralized the journey through the [[Land of the Dead]] as dangerous, as opposed to the transition from Taelgar to the [[Land of the Dead]]. Perhaps elven stories of the dangers in the [[Land of the Dead]] helped cement this
 * Without detailing the specifics, elves likely would have some ceremony of passing. I think this would have the flavor of a goodbye, but perhaps not a particularly "human feast" flavor. It would likely take place over some relatively extended period of time (months/years?) and have some cyclic element, as well as perhaps even a return to sleep and dreaming(? not sure about that). I think the state of a dying elf and the *attitude* of a goodbye/farewell ritual amongst elves transmuted in human culture to a more specific event. Although elves might also have a specifically timed "goodbye" for when an elf has completed the journey through the [[Land of the Dead]]. 
 
 %%
@@ -44,7 +48,7 @@ Not sure what other influences might spread here but perhaps the farewells below
 
 ### Northern Traditions
 
-In general, the basic framework (as seen in the kestavo tradition) of of "small god guides soul through [[Land of the Dead]], which requires a body in order for the gods to find the soul" is probably broadly true among all the northern folk religions. However, the specific details will vary. The kestavo are very location-oriented, with each spirit having a home, whereas the Deno'qai are not. So although the tanshi would serve the same role in Deno'qai culture, with appropriate sacrifices replacing a location/place based framework. this might have some implications for recovery of lost bodies - for example the Deno'qai would see less of a problem with mass graves on a battlefield assuming appropriate sacrifices could attract the tanshi to the burial location. 
+In general, the basic framework (as seen in the kestavo tradition) of "small god guides soul through [[Land of the Dead]], which requires a body in order for the gods to find the soul" is probably broadly true among all the northern folk religions. However, the specific details will vary. The kestavo are very location-oriented, with each spirit having a home, whereas the Deno'qai are not. So although the tanshi would serve the same role in Deno'qai culture, with appropriate sacrifices replacing a location/place based framework. this might have some implications for recovery of lost bodies - for example the Deno'qai would see less of a problem with mass graves on a battlefield assuming appropriate sacrifices could attract the tanshi to the burial location.
 
 ### Chardon
 
@@ -69,3 +73,27 @@ The Mawar tradition shares with the Sembaran tradition an emphasis, from the old
 
 What is important in Mawar tradition however, are the tokens, not really the burial, and so it is often the case that for example sailors, or warriors going into battle will bring/wear several tokens on their bodies, in case they die lost at sea or whatever.
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern comparative notes with historical discussion of elven and Drankorian influence; many cultural details remain explicitly provisional rather than temporally fixed.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Editorial assessment
+**Underdeveloped**. The note does not yet provide a stable comparative reference: elven rites and the Deno'qai mechanism remain provisional, while the Chardon and Mawar sections are entirely hidden as outdated design material. The smallest useful scope is to settle one tradition at a time against its religion or culture note, beginning with elven departure and northern body-recovery practice.
+
+### Applied changes
+- Added the explicit note name and a modern article POV.
+- Repaired the self-heading link and removed one duplicated word.
+
+### Validated judgments
+- This is a comparative background organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
+- `status/check/errors` was preserved.
+- The complete local-only dossier contains no evidence clusters; `dm_notes: none` remains supported.
+
+### Open findings
+- [ ] **Suggestion — editorial.note_underdeveloped:** Decide the elven departure and farewell model, verify the northern and Deno'qai guide-and-body claims, and replace or retire the hidden Chardon and Mawar drafts only after their religion notes support public prose.
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared elven "doneness" comment offers a bounded clarification, but it is not yet adopted. If approved, add: `An elf's decision to die is sometimes described as a sense that their time is complete: not weariness or longing, but an experience of "doneness" that has no close human analogue.`
+%%^End%%

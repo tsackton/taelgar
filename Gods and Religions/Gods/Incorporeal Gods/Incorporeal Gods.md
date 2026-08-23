@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/errors]
+lintedAt: "2026-08-22T23:50:36-04:00"
+lintVersion: "3.4"
+tags: [background, status/check/errors, status/check/lint]
+name: Incorporeal Gods
 aliases: [incorporeal god]
 dm_owner: none
 dm_notes: important
+POV: modern
 ---
 # Incorporeal Gods
 
@@ -31,3 +35,22 @@ A number of demigods dot the landscape of Taelgar. Some, like [[Shakun]] and [[B
 %% not definitively canon
 Theologians and scholars debate whether the embodied gods, like the incorporeal gods, can imbue some of their divine power into powerful creatures, creating lesser gods. Without a way to regain their strength, some say this is impossible, as the embodied gods would be permanently diminished. Others, however, argue the embodied gods are old, and in the Age of Creation when they walked the earth, many things were possible that now are not.
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern theological classification with mythic and historical examples; the relationships among incorporeal gods, demigods, and small gods remain unsettled.
+%%^End%%
+
+%%^Lint%%
+### Editorial assessment
+
+**Underdeveloped**. The note establishes the useful core idea that incorporeal gods arise from and depend upon human belief, but its demigod mechanism does not fit several of its own examples, and its relationship to the separately recognized demigod and small-god categories remains unresolved.
+
+### Open findings
+
+- [ ] **Error — correctness.cross_note_conflict:** Rework the universal claim that an incorporeal god creates a demigod by gifting power. [[Bhishma]] became divine through the prayers and wishes of the Dunmari after her mortal death, [[Shakun]] is described as the divine child of Bhishma and Laka, and [[Metaphysics of Creatures]] allows divinity through accreted soulstuff or a gift. Candidate: `Demigod is a broad and incompletely understood category for singular beings who have transcended ordinary mortality without fitting cleanly among the High, Embodied, or fully developed Incorporeal Gods. Some may receive power from an existing divinity, while others, such as [[Bhishma]], rise through accumulated belief. The paths to demigodhood and the boundary between demigods and other divinities remain unresolved.`
+- [ ] **Warning — coverage.later_material_change:** Reconcile Vorshitaal's legacy description as "the god of the kenku" with the current [[Kenku]] and [[Metaphysics of Creatures]] material, which instead establishes the time-displaced [[Aerin]] as the kenku Firstborn and leaves kenku metaphysics unresolved. Candidate: `The divine history of the kenku remains unresolved; current kenku material identifies [[Aerin]] as their metaphysically ambiguous Firstborn rather than establishing Vorshitaal as their god.`
+- [ ] **Suggestion — editorial.note_underdeveloped:** Decide whether pantheonic incorporeal gods and the intercessory small gods described in [[Tanshi]] and regional folk traditions are one metaphysical class or distinct kinds of divinity. Preserve that distinction as unresolved until adopted, rather than inferring a taxonomy from the current examples.
+
+### DM evidence
+- [[_DM_/Secret Worldbuilding/Mulitverse]]
+%%^End%%
