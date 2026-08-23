@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: inn
 typeOfAlias: tavern
@@ -9,7 +9,7 @@ name: The Laughing Gull
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-POV: 1748
+POV: modern
 ---
 # The Laughing Gull
 >[!info]+ Information  
@@ -28,5 +28,5 @@ research and rumor-gathering hub in Castrella. See: [[Great Library Session Note
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1748 snapshot of the tavern where the Silver Tempests regrouped and later lodged during their Castrella investigations; earlier and later operation are not described.
+Temporal coverage: broadly modern; the visible article identifies the tavern without tying its operation to a narrower date, while the hidden campaign notes record a DR 1748 visit.
 %%^End%%

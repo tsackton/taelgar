@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 displayDefaults: {endStatus: mysteriously vanished in}
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: settlement
@@ -46,6 +46,9 @@ Temporal coverage: through DR 1748. Historical settlement snapshot after the dis
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- None.
+
 ### Validated judgments
 - The documented Lizardling name and pronunciation were preserved.
 - The shared nonpublic comment is an editorial source pointer and was retained unchanged.
@@ -53,7 +56,6 @@ Temporal coverage: through DR 1748. Historical settlement snapshot after the dis
 
 ### Open findings
 
-- [ ] **Warning — coverage.later_material_change:** [[Great Library Session Notes - Arc 5]] records that in DR 1752 the Silver Tempests rescued surviving villagers from [[Cairn Dor]] and escorted them back to Urkabi, materially changing this DR 1748 historical snapshot. Choose whether to update the article and `POV`, defer the update under the existing `status/gameupdate/gl`, or intentionally preserve the earlier article and later remove that status. Candidate if updating: add a DR 1752 dated passage stating, "In DR 1752, the [[Silver Tempests]] brought the surviving villagers back to Urkabi after rescuing them from [[Cairn Dor]], where they had been held as magical dreamers."
+- [ ] **Warning — coverage.later_material_change:** [[Great Library Session Notes - Arc 5]] records that in DR 1752 the Silver Tempests rescued surviving villagers from [[Cairn Dor]] and escorted them back to Urkabi, materially changing this DR 1748 historical snapshot. Choose whether to update the article and `POV`, defer the update under the existing `status/gameupdate/gl`, or intentionally preserve the earlier article and later remove that status. Candidate if updating: add a DR 1752 dated passage stating, ‘In DR 1752, the [[Silver Tempests]] brought the surviving villagers back to Urkabi after rescuing them from [[Cairn Dor]], where they had been held as magical dreamers.’
 - [ ] **Warning — metadata.map_location_missing:** The settlement map record has a blank `locator`. Fill it only from an authoritative map; do not guess coordinates.
-
 %%^End%%

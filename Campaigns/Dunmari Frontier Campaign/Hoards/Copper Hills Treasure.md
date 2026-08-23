@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-21T13:33:35-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
 campaign: Dunmar Frontier

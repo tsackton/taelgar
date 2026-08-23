@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:58:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -25,7 +25,7 @@ Fort Varian guards the northern mouth of the [[Old Chardon Canal]], where the ca
 This fort, a striking castle rising from a prominence among the salt marshes of the northern entrance to the [[Old Chardon Canal]], is the most significant of the Chardonian Navy’s fortifications in the area, and serves as the departure point for the canal’s daily southbound convoy.
 
 %%^Metadata:names:v1%%
-- {name: Fort Varian, role: primary, language: Chardonian, pronunciation: fort VAH-ree-ahn, status: documented}
+- {name: Fort Varian, role: primary, language: Chardonian, pronunciation: fort VAH-ree-ahn, notes: "Full-form pronunciation combines the ordinary title 'Fort' with the accepted frontmatter pronunciation 'VAH-ree-ahn'.", status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

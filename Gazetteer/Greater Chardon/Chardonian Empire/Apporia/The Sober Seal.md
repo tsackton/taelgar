@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T10:48:34-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: inn
@@ -10,7 +10,7 @@ name: The Sober Seal
 whereabouts: Castrella
 dm_owner: none
 dm_notes: none
-POV: 1748
+POV: modern
 ---
 # The Sober Seal
 >[!info]+ Information  
@@ -32,5 +32,5 @@ GL Arc 5: part of the party’s information-gathering in Castrella. See: [[Great
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1748 snapshot of the tavern during the Silver Tempests' information-gathering and planning in Castrella; earlier and later operation are not described.
+Temporal coverage: broadly modern; the visible tavern description is not tied to a narrower date, while the hidden campaign notes record a DR 1748 visit.
 %%^End%%

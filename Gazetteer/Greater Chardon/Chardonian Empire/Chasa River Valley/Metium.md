@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: settlement
 typeOfAlias: city
 name: Metium
@@ -26,8 +26,6 @@ The most notable landmark is the massive Triumphal Arch in the center of the mar
 
 The city is famous for its annual wine festival, held each autumn after the harvest. Traders and vintners from all across the region gather for a week of celebrations, competitions, and tastings. During this time, the city’s market square overflows with barrels of wine and decorated stalls, attracting both locals and travelers. 
 
-%% Vibe is commerce/wine/trade/money %%
-
 %%^Metadata:map:v1%%
 locations:
   - {map: world, locator: 13.07.A24}
@@ -39,19 +37,4 @@ locations:
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; the civic and economic description reflects Metium after its long recovery from the Conclave War, while its Drankorian origins and war history are older layers.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Corrected "recovering and more from the damage dealt" to "more than recovering from the damage dealt" as an objective grammar fix.
-
-### Validated judgments
-- The later edit to [[Session 50 (DuFr)]] affected only its lint completion state and end-of-file formatting; it did not change the established Metium passages.
-- The visible article remains a broadly modern civic and economic reference account.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.shared_material_redundant:** The shared comment "Vibe is commerce/wine/trade/money" substantially repeats the visible article's established emphasis on wealth, wine production, commerce, and river trade without preserving distinct guidance. Copy-ready action: remove `%% Vibe is commerce/wine/trade/money %%`, or retain only any distinct editorial direction the current article does not already express.
 %%^End%%

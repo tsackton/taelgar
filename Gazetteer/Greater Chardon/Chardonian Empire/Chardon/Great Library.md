@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:54:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: building
 typeOfAlias: library
@@ -16,7 +16,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Great Library is an ancient scholarly institution and library complex, located in the academic quarter of [[Chardon]]. It has been synonymous with magical scholarship for centuries, and is the oldest academic institution in Chardon. Few who visit the city fail to be impressed by the massive, 600-foot-tall twisting spire of the grandest building in the library complex rising over the city, or the extravagant rumors of the secrets hidden in its locked archives. The stated purpose of the Great Library is to collect and preserve knowledge of magic for the benefit of all, though in practice 
+The Great Library is an ancient scholarly institution and library complex, located in the academic quarter of [[Chardon]]. It has been synonymous with magical scholarship for centuries, and is the oldest academic institution in Chardon. Few who visit the city fail to be impressed by the massive, 600-foot-tall twisting spire of the grandest building in the library complex rising over the city, or the extravagant rumors of the secrets hidden in its locked archives. The stated purpose of the Great Library is to collect and preserve knowledge of magic for the benefit of all.
 
 
 - **What the Great Library is now**
@@ -59,50 +59,22 @@ Temporal coverage: a broadly modern institutional overview with founding and exp
 %%^Lint%%
 ## Taelgar note lint
 
-### Editorial assessment
-**Underdeveloped**. The visible article identifies the Great Library's broad purpose and two early historical facts but omits its established modern institutional relationships and operating role. The smallest useful scope is one sourced paragraph connecting it to the [[University of Chardon]], [[Hetaeri Magica]], [[Society of the Open Scroll]], and archivist-led expeditions.
+### Applied changes
+- Removed the dangling “though in practice” clause from the opening paragraph, restoring a complete sentence without adding lore.
 
 ### Validated judgments
 - The documented Common descriptive name does not require a pronunciation entry.
-- The broad modern POV is usable, but its notes correctly acknowledge that later Great Library campaign developments are not represented in the visible article.
-- The existing `status/gameupdate/gl` tag is preserved: the exact disposition of later campaign material requires human editorial choice.
-- The ordinary editorial comment is a source pointer and remains useful until the incorporation work is resolved.
-- Confirmed local-only references are listed below without exposing their content.
+- `POV: modern` and the existing temporal note remain accurate for the broadly modern institutional frame and its separate DR 688 and DR 1063 history.
+- Later-source changes corroborate the Library's academic relationships and recovery role but do not establish a separate material change beyond the open coverage work.
+- The existing `status/gameupdate/gl` tag is supported by the still-unincorporated DR 1747 recovery of the [[Elemental Scrolls of Airion]]; no non-lint status was changed.
+- The local-only `SECRET` block was reviewed without exposing its contents in this report.
 
-### Private-source references
-- Did you check these local-only notes?
-  - [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Apollyon (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Vola Forena (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chalice of the Runepriest (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chardon NPC Flowchart]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Power Structures]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Raven's Hold/Session 11]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Session 15]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Session 16]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Stormcaller Tower (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 44]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/NPCS of Morkalan/Vita and Caius]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Riswynn Solo Arc]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/History of Blasted Plains]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Major Players]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Backstory]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Brainstorming]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Summary]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Player Questions]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Secrets of Karawa]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Strangers in Town]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Kenzo (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Riswynn (OneNote)]]
-  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics - ChatGPT Summary]]
-  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics]]
-  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
-  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - Brainstorming]]
-  - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - DM Notes]]
-  - [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Stormcaller Tower - DM Version]]
+### Editorial assessment
+**Underdeveloped**. The visible article is still a drafting scaffold: it identifies the Library's broad purpose and early history, but it does not yet provide a complete reference account of the institution's modern relationships or active recovery work. The smallest useful scope is to convert the existing outline into sourced prose covering the University, Hetaeri Magica, Society of the Open Scroll, and one representative archivist-led expedition.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-- [ ] **Warning — coverage.established_fact_missing:** Add a concise, source-grounded modern overview. Copy-ready candidate: Beyond preserving books and artifacts, the Great Library is an independent academic institution closely affiliated with the [[University of Chardon]] through the [[Hetaeri Magica]]. It provides much of the funding for the [[Society of the Open Scroll]] and sponsors archivist-led expeditions to recover lost knowledge and magic; in DR 1747, Archivist [[Lyra]] hired the future [[Silver Tempests]] to recover the [[Elemental Scrolls of Airion]].
+- [ ] **Warning — coverage.established_fact_missing:** [[University of Chardon]], [[Hetaeri Magica]], [[Society of the Open Scroll]], [[Lyra]], and [[Great Library Session Notes - Arc 1]] establish the Library's modern academic relationships and active recovery role, whose absence leaves the central institutional account incomplete. Copy-ready candidate: The Great Library operates alongside, but separately from, the [[University of Chardon]]. The [[Hetaeri Magica]] coordinates magical training and rules between the two institutions, while the Library supplies most of the funding for the [[Society of the Open Scroll]], whose membership is drawn largely from Library and University academics. The Library also employs Archivists such as [[Lyra]] to sponsor expeditions for lost knowledge and magic; in DR 1747, Lyra hired the adventurers who became the [[Silver Tempests]] to recover the [[Elemental Scrolls of Airion]].
+- [ ] **Suggestion — editorial.reference_voice:** The four bold outline sections beginning `What the Great Library is now` are visible editing instructions rather than reference prose, so the article shifts from an encyclopedia entry into a drafting brief. Human rewrite brief: replace or remove that outline while preserving its sourced scope—present function, Sibyline origins, academic relationships, and archivist-led expeditions—and keep routine campaign events out of the institutional account.
 %%^End%%

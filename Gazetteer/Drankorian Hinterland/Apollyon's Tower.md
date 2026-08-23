@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
@@ -18,10 +18,14 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Apollyon's Tower is a black marble spire on the coast of the [[Circular Island]], once a stronghold and retreat of the Drankorian emperor [[Apollyon]], a place of dark study and craft. The tower itself is almost 250 feet tall, with a main section that rises 140 feet from the ground, and battlements and a tower extension that rise another 100 feet, capped with a platform open to the sky. After the [[Fall of Drankor]], the tower stood abandoned and warded, looming over the island’s storm‑lashed shore. 
+Apollyon's Tower is a black marble spire on the coast of the [[Circular Island]], once a stronghold and retreat of the Drankorian emperor [[Apollyon]], a place of dark study and craft. The tower itself is almost 250 feet tall, with a main section that rises 140 feet from the ground, and battlements and a tower extension that rise another 100 feet, capped with a platform open to the sky. 
+
+After the [[Fall of Drankor]], the tower stood abandoned and warded, looming over the island’s storm‑lashed shore. 
 
 %%^Campaign:dufr%%
-In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, libraries, and throne room, and carrying away the treasures now catalogued as [[Apollyon's Tower Treasure]]. During this exploration, they learned that Apollyon used the site's forge and ritual chambers to prepare his lich transformation and construct the dagger that became his phylactery; notes recovered there later helped them identify the sacrifices bound to [[Apollyon's Phylactery]] and provide clues that led to its destruction.
+In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, carrying away the treasures now catalogued as [[Apollyon's Tower Treasure]]. During this exploration, they explored the tower's ten levels, including the subterranean storage vault and a magical forge, a variety of former public and residential floors, an extensive Omnis Pura sanctum and meeting chamber, Apollyon's library and private study, and an upper ritual chamber marked by ancient blood stains, with [[Apollyon's Soulbinding Manacles|soul-binding manacles]] anchored to the wall.
+
+They learned that Apollyon used the site's forge and ritual chambers to prepare his lich transformation and construct the dagger that became his phylactery; notes recovered there later helped them identify the sacrifices bound to [[Apollyon's Phylactery]] and provide clues that led to its destruction.
 %%^End%%
 
 %% see also:
@@ -38,5 +42,5 @@ In DR 1749 the [[Dunmar Fellowship]] assaulted the ruin, uncovering its forge, l
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: DR 1749 after the Dunmar Fellowship's assault. The visible article combines stable physical and historical description with the party's dated exploration.
+Temporal coverage: broadly modern; the visible article combines stable physical and historical description with a campaign-scoped account of the Dunmar Fellowship's DR 1749 exploration.
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 displayDefaults: {wPastHome: "Spread across <home:1> and <secondary:1>", defArt: ""}
 tags: [event, status/cleanup/text, status/check/lint]
 typeOf: plague
@@ -38,32 +38,20 @@ Temporal coverage: the plague event is fixed in DR 1545, while the statement abo
 %%^Lint%%
 ## Taelgar note lint
 
-### Editorial assessment
-**Underdeveloped**. The visible article identifies the plague's creator, form, broad extent, and destructive legacy, but it does not provide a central account of how the plague afflicted people, how its active phase proceeded, or how it ended. The smallest useful development scope is a concise course-and-effects section that separates established consequences from unresolved transmission and duration.
-
 ### Applied changes
-- Added the documented source of Cha'mutte's pronunciation to the existing Metadata:names:v1 component entry.
+- None.
 
 ### Validated judgments
-- `POV: 1750` and the existing `povNotes:v1` block remain appropriate for an event account that combines DR 1545 history with explicitly provisional modern aftermath notes.
-- `status/cleanup/text` remains supported because the article still lacks a central account of the plague's course and retains an explicit confirmation note.
-- Confirmed local source clusters support `dm_notes: important`; the finalizer will append their source links without exposing private contents.
+- `POV: 1750` and the retained `povNotes:v1` block remain appropriate for the DR 1545 event account and its explicitly provisional modern-aftermath framing.
+- `status/cleanup/text` remains supported because the visible article still lacks a central account of the plague's course and retains an explicit confirmation note.
+- The newer [[Desolation of Cha'mutte]] edit does not establish a settled replacement account; that source remains under open conflict and development review.
+
+### Editorial assessment
+**Underdeveloped**. The visible article identifies the plague's creator, red-mist form, broad extent, and destructive legacy, but it does not provide a central account of how the plague afflicted people, how its active phase proceeded, or how that phase ended. The smallest useful development scope is a concise course-and-effects section that separates established consequences from unresolved transmission, duration, and ending.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-- [ ] **Suggestion — editorial.note_underdeveloped:** The event's defining operation and course are missing. Develop a short section answering how the red mist afflicted victims, whether and how it spread, how long the active plague persisted after DR 1545, and how the active outbreak ended. Preserve the uncertainty recorded in [[First Plague]] rather than presenting its provisional details as settled canon.
-- [ ] **Warning — coverage.established_fact_missing:** The article's broad statement that the plague destroyed eastern Dunmari cities omits established long-term consequences central to its legacy: [[Kharsan]] records that the city remained lifeless for a decade and was left haunted, while [[Nashtkar]] records uneven lingering effects in the western plague zone. Candidate: "The plague's effects endured after DR 1545: Kharsan remained lifeless for a decade and was left haunted, while parts of the Nashtkar continue to bear uneven traces of the devastation."
-
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Kharsan/Kharsan History]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Kharsan/Mechanics]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Monastery of Bhishma/Text]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Backstory]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/DM Version - Bhishma Monastery]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Table - Plague Echoes]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Rewritten]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/adventure_overview]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Isingue Arc Brainstorming]]
+- [ ] **Suggestion — editorial.note_underdeveloped:** Develop a short section explaining how the red mist afflicted victims, whether and how the active plague spread, how long it persisted after DR 1545, and how the active outbreak ended. The current vault does not settle all of these questions, so preserve uncertainty rather than inventing a complete mechanism or chronology.
+- [ ] **Warning — coverage.established_fact_missing:** [[Nashtkar]] establishes a central long-term consequence omitted from the visible legacy account: the region lay along the plague's western edge and remains unevenly haunted rather than uniformly devastated. Candidate: "In the [[Nashtkar]], along the plague's western edge, the devastation still lingers unevenly, haunting some areas but not others."
 %%^End%%

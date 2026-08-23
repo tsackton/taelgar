@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T15:25:54-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: canal
@@ -72,20 +72,14 @@ Temporal coverage: a broadly modern account of the canal's route, traffic rules,
 ## Taelgar note lint
 
 ### Applied changes
-- Corrected the grammar in the canal-passage description without changing its meaning.
+- None.
 
 ### Validated judgments
-- Newer-source candidates were reviewed; they corroborate the canal's route, operation, and history without establishing the missing endpoint locators.
-- The current positive `dm_notes` attestation is supported by matching local-only sources.
+- Newer-source candidates were reviewed; they add a temporary DR 1749 wartime obstruction and clearing but do not establish a durable change to the canal's route or ordinary operation.
 - The SECRET block was reviewed for chat-only recovery; no private contents are reproduced here.
 
 ### Open findings
 
 - [ ] **Warning — metadata.map_location_missing:** The waterway map record still has blank `source.locator` and `outlet.locator` values. Fill them only from an authoritative map; do not infer either coordinate from a nearby settlement.
 - [ ] **Warning — metadata.names_unresolved_status:** The persistent entry for `Old Chardon Canal — old KAR-dohn kuh-NAL` remains `status: proposed`. Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
-
-
-### DM evidence
-- [[_DM_/Timelines/Apollyon Endgame Timeline]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
 %%^End%%

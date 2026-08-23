@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T13:33:35-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
 tags: [meta]
 hide: [toc, navigation]
 session-template: home.html
@@ -9,7 +9,7 @@ campaign: Cleenseau
 name: Cleenseau Campaign Home
 POV: undated
 ---
-This website is the campaign bible for the [[Cleenseau Campaign]], a D&D game set in the world of Taelgar, a magical shared world developed by my brother and I. 
+This website is the campaign bible for the [[Cleenseau Campaign]], a D&D game set in the world of Taelgar, a magical shared world developed by my brother and me.
 
 Been here before? Check out the [[Index of Changes]].
 

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
-tags: [place, status/cleanup/text, status/check/ai]
+lintedAt: "2026-08-23T14:23:24-04:00"
+lintVersion: "3.5"
+tags: [place, status/cleanup/text, status/check/ai, status/check/lint]
 typeOf: planar link
 typeOfAlias: fey portal
 name: The Twilight Road
@@ -73,4 +73,20 @@ On reaching Tyrwingha, the change is subtle. The light becomes flatter, the air 
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; the crossing and its approaches are described as a current but otherwise undated landscape.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The existing `status/cleanup/text` tag remains supported by the note's editorial marker and the reference-voice review.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.reference_voice:** The sections "In Tyrwingha," "In Twilight's Grace," and "Crossing" rely on a long sequence of atmospheric motifs and generalized claims whose support is not identified, including contradictory signposts, star-reflecting puddles, unseen houses, and temporal misdirection. Human rewrite brief: retain the established route endpoints, its discreet western function, the roughly one-to-two-day emergence east of Eskbridge, the old-road character, and the behavioral crossing rule; distinguish which additional manifestations are established, and cut unsupported or repetitive atmosphere. A copy-ready replacement is deliberately not applicable because this requires human judgment.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The final `%% notes ... %%` block repeats the visible facts that this is the discreet western crossing and emerges one to two days from Eskbridge; its last bullet is editorial direction rather than additional canon. Candidate: replace that block with `%% notes\n\n- It should feel like an old road that remembers having once been important.\n\n%%` if that guidance is still useful, or remove the block entirely after the rewrite.
 %%^End%%
