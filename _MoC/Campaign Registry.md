@@ -1,5 +1,9 @@
 # Campaign Registry
 
+linterAudienceSpecialValues:: "all", "none"
+
+The field above records the reserved non-campaign `audience` values recognized by the validator. It does not settle the positive campaign-audience design discussed below.
+
 The authoritative machine-readable campaign registry is `_scripts/session_note_campaigns.json`. It supplies both campaign metadata conventions and session-note pipeline configuration. Other files may retain compatibility copies temporarily, but linters and new tools must validate against this registry rather than infer codes from folder names or legacy metadata.
 
 ## Canonical names and codes

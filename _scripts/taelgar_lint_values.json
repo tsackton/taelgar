@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "path": "_MoC/Campaign Registry.md",
+      "fields": [
+        "linterAudienceSpecialValues"
+      ],
+      "sha256": "74c16e471e3771df5950c8d5dd01e08383d44168bf79ba96fa13dfbc83c2c6b1"
+    },
+    {
+      "path": "_MoC/Data Categorization/Place Categories.md",
+      "fields": [
+        "canonical",
+        "linterAliases"
+      ],
+      "sha256": "7d8d96d0efbeeceb7ac2fb40f3ce32d245cc5ae486f1d52fc1eaa37dda6691a2"
+    },
+    {
+      "path": "_MoC/Name Metadata.md",
+      "fields": [
+        "linterCommonNamedSubjectTags",
+        "linterNameStatuses",
+        "linterOpenNameStatuses",
+        "linterPronunciationPlaceholderPrefixes",
+        "linterPronunciationPlaceholders"
+      ],
+      "sha256": "211df541a5b3f1a40c825c3558aed53d14d1a17030b0197e20bb3539a0707e7a"
+    },
+    {
+      "path": "_MoC/Note Categorization.md",
+      "fields": [
+        "linterCampaignRecordTags",
+        "linterDescriptiveTagAliases",
+        "linterDescriptiveTags",
+        "linterKnownToRequiredTags"
+      ],
+      "sha256": "90f8ab94edec3038fad97058e67d43bd73652555764254b8cf81e2136f7861f1"
+    },
+    {
+      "path": "_MoC/Note Status.md",
+      "fields": [
+        "linterDmNotes",
+        "linterDmOwners",
+        "linterLocalDmReviewOwners"
+      ],
+      "sha256": "5ff7e97c88db8098955581aa6bcbbf57a906e4cb38742befd32a8c54e25923ff"
+    },
+    {
+      "path": "_MoC/Taelgar Note Linter.md",
+      "fields": [
+        "linterMapRequiredPlaceTypes"
+      ],
+      "sha256": "bc01eb8d1d8844bd3d817eb7bc49683cd87ad4e68c2ab6ff48f95089ddf23615"
+    }
+  ],
+  "values": {
+    "descriptiveTags": [
+      "person",
+      "power",
+      "place",
+      "event",
+      "object",
+      "group",
+      "ancestry",
+      "creature",
+      "session-note",
+      "source",
+      "background",
+      "meta"
+    ],
+    "campaignRecordTags": [
+      "session-note",
+      "meta",
+      "source"
+    ],
+    "knownToRequiredTags": [
+      "person",
+      "object"
+    ],
+    "nameStatuses": [
+      "documented",
+      "inferred",
+      "proposed",
+      "disputed",
+      "unresolved"
+    ],
+    "openNameStatuses": [
+      "proposed",
+      "disputed",
+      "unresolved"
+    ],
+    "commonNamedSubjectTags": [
+      "ancestry",
+      "creature",
+      "event",
+      "group",
+      "object",
+      "person",
+      "place",
+      "power"
+    ],
+    "pronunciationPlaceholders": [
+      "obvious",
+      "title",
+      "meta"
+    ],
+    "pronunciationPlaceholderPrefixes": [
+      "inherited from"
+    ],
+    "placeTypes": [
+      "neighborhood",
+      "realm",
+      "settlement",
+      "region",
+      "watershed",
+      "extraplanar domain",
+      "planar link",
+      "plane",
+      "forest",
+      "wetlands",
+      "desert",
+      "grassland",
+      "waterway",
+      "lake",
+      "marine feature",
+      "topographical feature",
+      "subterranean feature",
+      "island",
+      "inn",
+      "building",
+      "holy site",
+      "road",
+      "infrastructure",
+      "battlefield"
+    ],
+    "dmOwners": [
+      "mike",
+      "tim",
+      "player",
+      "joint",
+      "schwartz",
+      "kong",
+      "eric",
+      "isaac",
+      "none"
+    ],
+    "dmNotes": [
+      "none",
+      "color",
+      "important"
+    ],
+    "localDmReviewOwners": [
+      "tim",
+      "joint",
+      "none"
+    ],
+    "audienceSpecialValues": [
+      "all",
+      "none"
+    ],
+    "mapRequiredPlaceTypes": [
+      "waterway",
+      "road",
+      "settlement"
+    ]
+  },
+  "aliases": {
+    "descriptiveTags": {
+      "item": "object",
+      "primary-source": "source",
+      "organization": "group"
+    },
+    "placeTypes": {
+      "buliding": "building",
+      "topographic feature": "topographical feature"
+    }
+  },
+  "provenance": {
+    "values.descriptiveTags": {
+      "path": "_MoC/Note Categorization.md",
+      "field": "linterDescriptiveTags"
+    },
+    "values.campaignRecordTags": {
+      "path": "_MoC/Note Categorization.md",
+      "field": "linterCampaignRecordTags"
+    },
+    "values.knownToRequiredTags": {
+      "path": "_MoC/Note Categorization.md",
+      "field": "linterKnownToRequiredTags"
+    },
+    "values.nameStatuses": {
+      "path": "_MoC/Name Metadata.md",
+      "field": "linterNameStatuses"
+    },
+    "values.openNameStatuses": {
+      "path": "_MoC/Name Metadata.md",
+      "field": "linterOpenNameStatuses"
+    },
+    "values.commonNamedSubjectTags": {
+      "path": "_MoC/Name Metadata.md",
+      "field": "linterCommonNamedSubjectTags"
+    },
+    "values.pronunciationPlaceholders": {
+      "path": "_MoC/Name Metadata.md",
+      "field": "linterPronunciationPlaceholders"
+    },
+    "values.pronunciationPlaceholderPrefixes": {
+      "path": "_MoC/Name Metadata.md",
+      "field": "linterPronunciationPlaceholderPrefixes"
+    },
+    "values.placeTypes": {
+      "path": "_MoC/Data Categorization/Place Categories.md",
+      "field": "canonical"
+    },
+    "values.dmOwners": {
+      "path": "_MoC/Note Status.md",
+      "field": "linterDmOwners"
+    },
+    "values.dmNotes": {
+      "path": "_MoC/Note Status.md",
+      "field": "linterDmNotes"
+    },
+    "values.localDmReviewOwners": {
+      "path": "_MoC/Note Status.md",
+      "field": "linterLocalDmReviewOwners"
+    },
+    "values.audienceSpecialValues": {
+      "path": "_MoC/Campaign Registry.md",
+      "field": "linterAudienceSpecialValues"
+    },
+    "values.mapRequiredPlaceTypes": {
+      "path": "_MoC/Taelgar Note Linter.md",
+      "field": "linterMapRequiredPlaceTypes"
+    },
+    "aliases.descriptiveTags": {
+      "path": "_MoC/Note Categorization.md",
+      "field": "linterDescriptiveTagAliases"
+    },
+    "aliases.placeTypes": {
+      "path": "_MoC/Data Categorization/Place Categories.md",
+      "field": "linterAliases"
+    }
+  }
+}

@@ -1,6 +1,13 @@
 # Note Categorization
 *last update: Dec 24th 2025*
 
+linterDescriptiveTags:: "person", "power", "place", "event", "object", "group", "ancestry", "creature", "session-note", "source", "background", "meta"
+linterDescriptiveTagAliases:: {"item": "object", "primary-source": "source", "organization": "group"}
+linterCampaignRecordTags:: "session-note", "meta", "source"
+linterKnownToRequiredTags:: "person", "object"
+
+The `linter*` fields above are the machine-readable validator vocabulary. They are deliberately kept here, beside the human-readable category definitions, so a human can review or extend them without editing validator code. Alias entries recognize older descriptive tags and point to the canonical tag used for lint expectations.
+
 Notes (pages) are categorized based on the combination of a descriptive tag, and a typeOf string. Both descriptive tags and typeOf strings are controlled vocabulary, and pages that do not have a canonical descriptive tag + typeOf combination will be flagged in queries in Data Cleaning. 
 
 There are 12 primary note categories, which are described below. These are not meant to exhaustively categorize every note in the vault; instead, they guide both Markdown templates / formatting, required/expecting metadata, and automatic header generation.
