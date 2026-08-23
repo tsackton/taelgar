@@ -110,20 +110,83 @@ class ValidateTaelgarNoteTest < Minitest::Test
     end
   end
 
-  def test_detailed_place_vocabulary_accepts_building_and_rejects_the_documentation_typo
+  def test_place_vocabulary_comes_from_moc_and_distinguishes_aliases_from_unknown_values
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
-    valid = validator.validate_text(
+    building = validator.validate_text(
       "Gazetteer/Tower.md",
       "---\nheaderVersion: 1\ntags: [place]\nname: Tower\ntypeOf: building\naudience: [all]\n---\n# Tower\n"
     )
-    invalid = validator.validate_text(
+    battlefield = validator.validate_text(
+      "Gazetteer/Battlefield.md",
+      "---\nheaderVersion: 1\ntags: [place]\nname: Battlefield\ntypeOf: battlefield\naudience: [all]\n---\n# Battlefield\n"
+    )
+    legacy_alias = validator.validate_text(
       "Gazetteer/Tower.md",
       "---\nheaderVersion: 1\ntags: [place]\nname: Tower\ntypeOf: buliding\naudience: [all]\n---\n# Tower\n"
     )
+    unknown = validator.validate_text(
+      "Gazetteer/Sky Island.md",
+      "---\nheaderVersion: 1\ntags: [place]\nname: Sky Island\ntypeOf: sky island\naudience: [all]\n---\n# Sky Island\n"
+    )
 
-    refute_includes rule_ids(valid), "classification.place_type_unknown"
-    assert_includes rule_ids(invalid), "classification.place_type_unknown"
+    refute_includes rule_ids(building), "classification.place_type_unknown"
+    refute_includes rule_ids(battlefield), "classification.place_type_unknown"
+    assert_includes rule_ids(legacy_alias), "classification.place_type_noncanonical"
+    refute_includes rule_ids(legacy_alias), "classification.place_type_unknown"
+    assert_includes rule_ids(unknown), "classification.place_type_unknown"
+  end
+
+  def test_dm_owner_vocabulary_comes_from_moc
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    accepted = validator.validate_text(
+      "People/Schwartz Subject.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: schwartz\ndm_notes: none\n---\n# Schwartz Subject\n"
+    )
+    unknown = validator.validate_text(
+      "People/New Owner.md",
+      "---\ntags: [person]\nspecies: human\nknownTo: []\ndm_owner: new-human\ndm_notes: none\n---\n# New Owner\n"
+    )
+
+    refute_includes rule_ids(accepted), "dm.owner_unknown"
+    assert_includes rule_ids(unknown), "dm.owner_unknown"
+  end
+
+  def test_generated_lint_value_sidecar_matches_moc_declarations
+    root = File.expand_path("..", __dir__)
+    stdout, stderr, status = Open3.capture3(
+      "ruby", File.join(__dir__, "generate_taelgar_lint_values.rb"), "--check", "--root", root
+    )
+
+    assert status.success?, "#{stdout}\n#{stderr}"
+  end
+
+  def test_validator_rejects_a_stale_lint_value_sidecar
+    root = make_vault
+    status_path = File.join(root, "_MoC", "Note Status.md")
+    File.open(status_path, "a") { |file| file.write("\nUnrelated prose after generation.\n") }
+    TaelgarNoteLint::Validator.new(root: root, check_links: false)
+
+    text = File.read(status_path).sub(/^linterDmOwners::.*$/) { |line| "#{line}, \"new-owner\"" }
+    File.write(status_path, text)
+
+    error = assert_raises(TaelgarLintValues::Error) do
+      TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    end
+    assert_includes error.message, "taelgar_lint_values.json is stale"
+  end
+
+  def test_validator_has_no_hand_authored_editorial_replacement_dictionary
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    report = validator.validate_text(
+      "Background/Marked Prose.md",
+      "---\ntags: [background]\n---\n# Marked Prose\n\nA climatic victory may accomodate unusual prose.\n"
+    )
+
+    refute TaelgarNoteLint.const_defined?(:EDITORIAL_PATTERNS, false)
+    refute_includes rule_ids(report), "editorial.common_typo"
   end
 
   def test_link_and_relationship_resolution_are_scoped_to_the_target_note
@@ -1532,6 +1595,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     root = Dir.mktmpdir("taelgar-note-lint-test.")
     @temporary_roots << root
     FileUtils.mkdir_p(File.join(root, "_scripts"))
+    copy_lint_value_catalog(root)
     File.write(
       File.join(root, "_scripts", "session_note_campaigns.json"),
       JSON.pretty_generate(
@@ -1564,6 +1628,19 @@ class ValidateTaelgarNoteTest < Minitest::Test
       )
     )
     root
+  end
+
+  def copy_lint_value_catalog(root)
+    repository_root = File.expand_path("..", __dir__)
+    source_sidecar = File.join(__dir__, "taelgar_lint_values.json")
+    sidecar = JSON.parse(File.read(source_sidecar))
+    FileUtils.cp(source_sidecar, File.join(root, "_scripts", "taelgar_lint_values.json"))
+    sidecar.fetch("sources").each do |source|
+      relative_path = source.fetch("path")
+      destination = File.join(root, relative_path)
+      FileUtils.mkdir_p(File.dirname(destination))
+      FileUtils.cp(File.join(repository_root, relative_path), destination)
+    end
   end
 
   def write_note(root, relative_path, text)

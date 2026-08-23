@@ -1,6 +1,9 @@
 # Place Categories
 
 canonical::  "neighborhood", "realm", "settlement", "region", "watershed",  "extraplanar domain", "planar link", "plane", "forest", "wetlands", "desert", "grassland", "waterway", "lake", "marine feature", "topographical feature", "subterranean feature", "island", "inn", "building", "holy site", "road", "infrastructure", "battlefield"
+linterAliases:: {"buliding": "building", "topographic feature": "topographical feature"}
+
+`canonical` and `linterAliases` are the machine-readable validator vocabulary. The aliases are documented legacy spellings that may be normalized to the listed canonical value; any other value is left unchanged and reported for human review.
 
 communities:: "neighborhood", "realm", "settlement"
 regions:: "region", "watershed"

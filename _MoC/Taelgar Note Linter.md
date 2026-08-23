@@ -25,11 +25,14 @@ This specification defines lint behavior and state. It operates alongside:
 - [[Name Metadata]] for human-curated name blocks;
 - [[Temporal POV Metadata]] for the searchable article viewpoint and `povNotes` interpretation;
 - [[Note Status]] for the meanings and lifecycle semantics of `status/*` tags;
+- the explicit `linter*::` value declarations in those `_MoC` notes, aggregated into `_scripts/taelgar_lint_values.json` by `_scripts/generate_taelgar_lint_values.rb`;
 - `AGENTS.md` for editing authorization, source authority, and status-tag permissions;
 - `.agents/skills/lint-taelgar-note/SKILL.md` for the executable agent workflow; and
 - `_scripts/validate_taelgar_note.rb` for deterministic rules and safe frontmatter formatting.
 
 When these disagree, do not silently choose one. Stop the write-mode lint, report the mismatch, and correct the specification, governance, skill, implementation, and tests together.
+
+Human-maintained accepted values and documented aliases live in the visible `_MoC` declarations, never in copied validator arrays. The generated JSON is only a checked, deterministic index with declaration hashes. A missing, stale, or malformed sidecar stops validation. Values absent from both an accepted list and its explicit alias map are reported for human review and are not assigned a replacement.
 
 ## Applicability
 
@@ -54,7 +57,7 @@ lintVersion: "3.5"
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
 
-Increase the linter version when a change can alter applicability, severity, findings, safe-fix behavior, persistent lint state, or report interpretation. Editorial clarification that cannot change an outcome does not require a bump. Schema versions such as `Metadata:names:v1` and the validator's output `schemaVersion` are independent of the linter version.
+Change the linter version only with explicit user authorization. When a version change is authorized, use it for changes that can alter applicability, severity, findings, safe-fix behavior, persistent lint state, or report interpretation; editorial clarification that cannot change an outcome does not require a bump. Schema versions such as `Metadata:names:v1` and the validator's output `schemaVersion` are independent of the linter version.
 
 `dmNotesReviewVersion` is an independent minimum prior linter version for the contextual `dm_notes` evidence review. A note whose valid `lintVersion` is at least this value treats its recorded `lintedAt` as the last DM-attestation validation unless a matching `_DM_` source has since been modified. Unrelated future linter-version increases do not re-trigger DM review. When the adopted DM-review rules change, set `dmNotesReviewVersion` to the new linter version so older attestations are reviewed once under the new rules. Compare dotted versions numerically rather than lexically.
 
@@ -87,7 +90,7 @@ The linter has two note-level modes:
 
 A request to lint or re-lint a named note authorizes lint-owned changes: deterministic frontmatter normalization, supported persistent metadata, unambiguous meta-comment placement, approved high-confidence light editorial fixes, and lint state. Broader prose rewriting, speculative lore development, or multi-note cleanup still requires its own scope and approval.
 
-The deterministic formatter may be run in safe-fix mode only when it can preserve parsed values, comments, meaningful quoting, unknown fields, and special syntax. Editorial fixes are opt-in and limited to objective typos, punctuation, duplicated words, and other defects whose correction is unambiguous without changing voice, cadence, uncertainty, or meaning. Unusual, awkward, archaic, or stylistically marked phrasing is not itself defective. When phrasing materially impairs comprehension but correction requires judgment, preserve it and report `editorial.prose_clarity` with the exact passage, an explanation, and a copy-ready candidate. Mere stylistic preference is not a finding. Editorial fixes never decide names, dates, classifications, lore, uncertainty, private material, or conflicts.
+The deterministic formatter may be run in safe-fix mode only when it can preserve parsed values, comments, meaningful quoting, unknown fields, and special syntax. Editorial fixes are opt-in and limited to objective typos, punctuation, duplicated words, and other defects whose correction is unambiguous without changing voice, cadence, uncertainty, or meaning. The deterministic validator does not maintain a hand-authored dictionary of prose regex replacements. Unusual, awkward, archaic, or stylistically marked phrasing is not itself defective. When phrasing materially impairs comprehension but correction requires judgment, preserve it and report `editorial.prose_clarity` with the exact passage, an explanation, and a copy-ready candidate. Mere stylistic preference is not a finding. Editorial fixes never decide names, dates, classifications, lore, uncertainty, private material, or conflicts.
 
 ## Core principles
 
@@ -315,6 +318,8 @@ Obsidian resolves a bare wikilink target from filenames, not from frontmatter `n
 Metadata relationship resolution is a separate system and may use the vault's name and alias conventions. `whereabouts.location` also permits descriptive free text such as `traveling east to Tokra`. A value that does not resolve to a note is not by itself malformed and does not produce an unresolved-relationship finding. The contextual pass may still report a demonstrated typo, contradiction, or misleading location, but it must not replace an existing supported entry with an identical duplicate.
 
 ### Map metadata
+
+linterMapRequiredPlaceTypes:: "waterway", "road", "settlement"
 
 `Metadata:map:v1` is required for waterways, roads, and settlements and optional for other places. The supported model has only single-hex locations and two-ended features. Every location entry has `map` and `locator`; it may also have `role` or `feature`. `geometry`, `hex`, `sourceHex`, and `outletHex` are not part of the model. On re-lint, redundant `geometry` is removed and legacy position keys are converted to equivalent `locator` entries when that can be done without guessing.
 

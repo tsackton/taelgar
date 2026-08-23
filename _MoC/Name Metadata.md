@@ -1,5 +1,13 @@
 # Name Metadata
 
+linterNameStatuses:: "documented", "inferred", "proposed", "disputed", "unresolved"
+linterOpenNameStatuses:: "proposed", "disputed", "unresolved"
+linterCommonNamedSubjectTags:: "ancestry", "creature", "event", "group", "object", "person", "place", "power"
+linterPronunciationPlaceholders:: "obvious", "title", "meta"
+linterPronunciationPlaceholderPrefixes:: "inherited from"
+
+The `linter*` fields above make the validator's name vocabulary reviewable here instead of burying it in code. `linterCommonNamedSubjectTags` is only a deterministic hint for common cases; the applicability rule below remains semantic and is not closed to those tags.
+
 `Metadata:names:v1` identifies the named in-world subject or work described by a note and records subject-specific facts about its names. It complements the ordinary `name`, `aliases`, and `pronunciation` frontmatter fields: frontmatter holds accepted display values, while the name block records language, meaning, derivation, alternate forms, and unresolved or proposed decisions.
 
 Every note whose subject is a named in-world thing or work uses the block. Apply this rule semantically rather than by tag, folder, or title: notes about people, places, objects, groups, events, powers, creatures, ancestries or cultures, religions, primary-source works, and other named in-world subjects require it. A `background`-tagged note that actually describes a named in-world subject still requires the block.

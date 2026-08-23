@@ -1,6 +1,12 @@
 # Note Status
 *last update: Dec 15th 2025*
 
+linterDmOwners:: "mike", "tim", "player", "joint", "schwartz", "kong", "eric", "isaac", "none"
+linterDmNotes:: "none", "color", "important"
+linterLocalDmReviewOwners:: "tim", "joint", "none"
+
+The `linter*` fields above are the machine-readable validator vocabulary. `linterLocalDmReviewOwners` identifies the ownership values for which this vault can perform its local `_DM_` evidence scan; it is an operational subset, not a restriction on valid ownership values.
+
 An important component of a note (page) is its status, which encompasses completeness, accuracy, potential for future invention, and related topics. Note status is currently captured in two ways: using DM frontmatter, and using status tags. These are meant to work together. 
 
 ## DM Frontmatter

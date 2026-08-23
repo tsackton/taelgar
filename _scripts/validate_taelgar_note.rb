@@ -15,6 +15,7 @@
 # development sufficiency remain responsibilities of the contextual lint pass.
 
 require "date"
+require "digest"
 require "json"
 require "open3"
 require "optparse"
@@ -22,6 +23,8 @@ require "pathname"
 require "rubygems/version"
 require "time"
 require "yaml"
+
+require_relative "generate_taelgar_lint_values"
 
 module TaelgarNoteLint
   VERSION = "3.5"
@@ -68,22 +71,6 @@ module TaelgarNoteLint
     knownTo excludePublish audience dm_owner dm_notes POV
   ].freeze
 
-  DESCRIPTIVE_TAGS = %w[
-    ancestry background creature event group item meta object person place power
-    primary-source session-note source organization
-  ].freeze
-
-  NAMED_SUBJECT_TAGS = %w[
-    ancestry creature event group item object person place power
-    organization
-  ].freeze
-
-  CAMPAIGN_RECORD_TAGS = %w[session-note meta source].freeze
-
-  NAME_STATUSES = %w[documented inferred proposed disputed unresolved].freeze
-  OPEN_NAME_STATUSES = %w[proposed disputed unresolved].freeze
-  PRONUNCIATION_PLACEHOLDERS = %w[obvious title meta].freeze
-  MAP_REQUIRED_TYPES = %w[waterway road settlement].freeze
   WORLD_HEX_PATTERN = /\A\d{2}\.\d{2}\.[A-Z]\d{2}\z/
   METADATA_BLOCK_PATTERN = /%%\^Metadata:(names|map)(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
   POV_NOTES_BLOCK_PATTERN = /%%\^povNotes(?::v(\d+))?%%\s*(.*?)\s*%%\^End%%/m
@@ -101,17 +88,6 @@ module TaelgarNoteLint
     LINT_BLOCK_PATTERN
   ].freeze
 
-  PLACE_TYPES = [
-    "settlement", "realm", "neighborhood", "region", "watershed", "plane",
-    "extraplanar domain", "planar link", "wetlands", "forest", "plain",
-    "grassland", "desert", "inn", "building", "road", "holy site",
-    "infrastructure", "waterway", "marine feature", "lake",
-    "topographical feature", "topographic feature", "subterranean feature",
-    "landform", "island"
-  ].freeze
-
-  DM_OWNERS = %w[tim mike joint player none].freeze
-  DM_NOTES = %w[important color none].freeze
   SOURCE_PRIORITIES = {
     "beat-facts" => 0,
     "dm-note" => 1,
@@ -120,16 +96,6 @@ module TaelgarNoteLint
     "vault-note" => 4,
     "development-note" => 5
   }.freeze
-
-  EDITORIAL_PATTERNS = [
-    [/(?:\b)accomodate(?:\b)/i, "accommodate"],
-    [/\bclimatic victory\b/i, "climactic victory"],
-    [/\bcultural and spiritual capitol\b/i, "cultural and spiritual capital"],
-    [/\bconfluence of with\b/i, "confluence with"],
-    [/\bGoldpeak Mines mines\b/i, "Goldpeak Mines"],
-    [/\bwas rebuild\b/i, "was rebuilt"],
-    [/\bin to the (?:north|south|east|west)\b/i, "to the named direction"]
-  ].freeze
 
   module_function
 
@@ -541,6 +507,47 @@ module TaelgarNoteLint
     end
   end
 
+  class LintValueCatalog
+    def initialize(root)
+      @root = Pathname.new(root).expand_path
+      @data = TaelgarLintValues.read(@root)
+      validate_source_hashes!
+    end
+
+    def values(key)
+      @data.fetch("values").fetch(key)
+    end
+
+    def aliases(key)
+      @data.fetch("aliases").fetch(key, {})
+    end
+
+    def canonical_value(key, value)
+      raw = value.to_s
+      return raw if values(key).include?(raw)
+
+      aliases(key)[raw]
+    end
+
+    private
+
+    def validate_source_hashes!
+      @data.fetch("sources").each do |source|
+        relative_path = source.fetch("path")
+        path = @root.join(relative_path)
+        raise TaelgarLintValues::Error, "Lint value source is missing: #{relative_path}" unless path.file?
+
+        text = path.read(encoding: "UTF-8")
+        actual = TaelgarLintValues.declaration_digest(text, relative_path, source.fetch("fields"))
+        next if actual == source.fetch("sha256")
+
+        raise TaelgarLintValues::Error,
+              "#{TaelgarLintValues::OUTPUT_PATH} is stale for #{relative_path}; regenerate it with " \
+              "ruby _scripts/generate_taelgar_lint_values.rb --write."
+      end
+    end
+  end
+
   class NoteIndex
     def initialize(root)
       @root = root
@@ -690,6 +697,7 @@ module TaelgarNoteLint
 
     def initialize(root:, check_links: true, index: nil, force_dm_notes_review: false)
       @root = Pathname.new(root).expand_path
+      @lint_values = LintValueCatalog.new(@root)
       @registry = CampaignRegistry.new(@root)
       @check_links = check_links
       @force_dm_notes_review = force_dm_notes_review
@@ -720,7 +728,7 @@ module TaelgarNoteLint
     def validate_text(path, text)
       note = ParsedNote.new(path, text)
       findings = []
-      dm_applicable = %w[tim joint none].include?(note.data["dm_owner"].to_s)
+      dm_applicable = local_dm_review_applicable?(note)
       dm_sources = @dm_scanner && dm_applicable ? @dm_scanner.mentions(note) : []
 
       validate_frontmatter(note, findings)
@@ -742,7 +750,7 @@ module TaelgarNoteLint
         "note" => {
           "path" => path,
           "name" => note.data["name"] || Pathname.new(path).basename(".md").to_s,
-          "profile" => note.tags.find { |tag| DESCRIPTIVE_TAGS.include?(tag) },
+          "profile" => profile_for(note),
           "authority" => source_authority(note),
           "statuses" => statuses
         },
@@ -763,6 +771,30 @@ module TaelgarNoteLint
 
     private
 
+    def value_list(key)
+      @lint_values.values(key)
+    end
+
+    def alias_map(key)
+      @lint_values.aliases(key)
+    end
+
+    def profile_for(note)
+      note.tags.each do |tag|
+        canonical = @lint_values.canonical_value("descriptiveTags", tag)
+        return canonical if canonical
+      end
+      nil
+    end
+
+    def campaign_record?(note)
+      value_list("campaignRecordTags").include?(profile_for(note))
+    end
+
+    def local_dm_review_applicable?(note)
+      value_list("localDmReviewOwners").include?(note.data["dm_owner"].to_s)
+    end
+
     def add(findings, rule_id, severity, rule_class, message, line: nil, provisional: false, details: nil)
       finding = {
         "ruleId" => rule_id,
@@ -777,8 +809,9 @@ module TaelgarNoteLint
     end
 
     def source_authority(note)
-      return "session-source" if note.tags.include?("session-note")
-      return "primary-source" if note.tags.include?("source") || note.tags.include?("primary-source")
+      profile = profile_for(note)
+      return "session-source" if profile == "session-note"
+      return "primary-source" if profile == "source"
 
       "reference"
     end
@@ -889,7 +922,16 @@ module TaelgarNoteLint
     end
 
     def validate_identity_and_classification(note, findings)
-      profile = note.tags.find { |tag| DESCRIPTIVE_TAGS.include?(tag) }
+      raw_profile = note.tags.find do |tag|
+        value_list("descriptiveTags").include?(tag) || alias_map("descriptiveTags").key?(tag)
+      end
+      profile = profile_for(note)
+      if raw_profile && raw_profile != profile
+        add(findings, "classification.descriptive_tag_noncanonical", "suggestion", "recommended",
+            "Descriptive tag #{raw_profile} is a documented alias; use #{profile}.",
+            line: note.field_line("tags"), provisional: true,
+            details: { "value" => raw_profile, "canonical" => profile })
+      end
       unless profile
         add(findings, "classification.descriptive_tag_missing", "error", "required",
             "No recognized descriptive tag identifies the note profile.",
@@ -912,7 +954,7 @@ module TaelgarNoteLint
             line: note.field_line("pronunciation"))
       end
 
-      if review_names && NAMED_SUBJECT_TAGS.include?(profile) && pronunciation.empty? &&
+      if review_names && value_list("commonNamedSubjectTags").include?(profile) && pronunciation.empty? &&
          !name_block_has_pronunciation?(note) && !unresolved_name_block_present?(note)
         add(findings, "pronunciation.missing_or_exception", "warning", "conditional",
             "This named in-world subject needs an actual pronunciation unless contextual judgment confirms that the name is an obvious ordinary name or plain-English title; exemptions are represented by omitting pronunciation.",
@@ -930,12 +972,17 @@ module TaelgarNoteLint
         if type.empty?
           add(findings, "classification.place_type_missing", "error", "required",
               "Place notes require typeOf.", line: note.field_line("tags"))
-        elsif !PLACE_TYPES.include?(type)
+        elsif (canonical = alias_map("placeTypes")[type])
+          add(findings, "classification.place_type_noncanonical", "suggestion", "recommended",
+              "Place typeOf value #{type} is a documented alias; use #{canonical}.",
+              line: note.field_line("typeOf"), provisional: true,
+              details: { "value" => type, "canonical" => canonical })
+        elsif !value_list("placeTypes").include?(type)
           add(findings, "classification.place_type_unknown", "warning", "required",
               "Unknown place typeOf value: #{type}.", line: note.field_line("typeOf"),
-              details: { "allowed" => PLACE_TYPES })
+              details: { "allowed" => value_list("placeTypes") })
         end
-      when "object", "item"
+      when "object"
         if note.data["typeOf"].to_s.strip.empty?
           add(findings, "classification.object_type_missing", "error", "required",
               "Object notes require typeOf.", line: note.field_line("tags"))
@@ -968,7 +1015,8 @@ module TaelgarNoteLint
       known_to = string_list(note.data["knownTo"])
       known_codes = validate_campaign_values(note, findings, "knownTo", known_to)
 
-      if !(note.tags & %w[person object item]).empty? && !note.data.key?("knownTo")
+      known_to_profile = value_list("knownToRequiredTags").include?(profile_for(note))
+      if known_to_profile && !note.data.key?("knownTo")
         add(findings, "campaign.known_to_missing", "error", "required",
             "Person and object notes must declare knownTo, using an empty list when no campaign is recorded.",
             line: note.field_line("tags"))
@@ -1021,7 +1069,6 @@ module TaelgarNoteLint
         end
       end
 
-      known_to_profile = !(note.tags & %w[person object item]).empty?
       missing_known_to = known_to_profile ? campaign_info_codes.uniq - known_codes : []
       unless missing_known_to.empty?
         add(findings, "campaign.missing_known_to", "warning", "conditional",
@@ -1031,7 +1078,7 @@ module TaelgarNoteLint
       end
 
       path_campaign = @registry.campaign_for_path(note.path)
-      if campaign_applicable && campaign_value.to_s.strip.empty? && note.tags.include?("session-note")
+      if campaign_applicable && campaign_value.to_s.strip.empty? && profile_for(note) == "session-note"
         add(findings, "campaign.session_missing", "error", "required",
             "Session notes require campaign identity.", line: 1,
             details: path_campaign ? { "campaign" => path_campaign["name"] } : nil)
@@ -1050,7 +1097,7 @@ module TaelgarNoteLint
     end
 
     def campaign_field_applicable?(note)
-      !(note.tags & %w[session-note meta source]).empty?
+      campaign_record?(note)
     end
 
     def validate_campaign_values(note, findings, field, values)
@@ -1082,7 +1129,7 @@ module TaelgarNoteLint
       values.each_with_object([]) do |value, positives|
         raw = value.to_s.strip
         normalized_value = TaelgarNoteLint.normalize(raw)
-        next if %w[all none].include?(normalized_value)
+        next if value_list("audienceSpecialValues").include?(normalized_value)
 
         negated = raw.start_with?("!")
         campaign_value = negated ? raw[1..-1] : raw
@@ -1106,17 +1153,19 @@ module TaelgarNoteLint
     end
 
     def validate_dm_metadata(note, findings, sources)
-      if note.data.key?("dm_owner") && !DM_OWNERS.include?(note.data["dm_owner"].to_s)
+      if note.data.key?("dm_owner") && !value_list("dmOwners").include?(note.data["dm_owner"].to_s)
         add(findings, "dm.owner_unknown", "error", "required",
-            "Unknown dm_owner value: #{note.data['dm_owner']}.", line: note.field_line("dm_owner"))
+            "Unknown dm_owner value: #{note.data['dm_owner']}.", line: note.field_line("dm_owner"),
+            details: { "allowed" => value_list("dmOwners") })
       end
-      if note.data.key?("dm_notes") && !DM_NOTES.include?(note.data["dm_notes"].to_s)
+      if note.data.key?("dm_notes") && !value_list("dmNotes").include?(note.data["dm_notes"].to_s)
         add(findings, "dm.notes_unknown", "error", "required",
-            "Unknown dm_notes value: #{note.data['dm_notes']}.", line: note.field_line("dm_notes"))
+            "Unknown dm_notes value: #{note.data['dm_notes']}.", line: note.field_line("dm_notes"),
+            details: { "allowed" => value_list("dmNotes") })
       end
 
       owner = note.data["dm_owner"].to_s
-      return unless %w[tim joint none].include?(owner) && @dm_scanner
+      return unless value_list("localDmReviewOwners").include?(owner) && @dm_scanner
 
       return unless dm_notes_review_required?(note, sources)
 
@@ -1133,7 +1182,7 @@ module TaelgarNoteLint
               line: note.field_line("dm_notes"), provisional: true,
               details: { "sources" => sources })
         end
-      elsif %w[color important].include?(dm_notes)
+      elsif value_list("dmNotes").include?(dm_notes) && dm_notes != "none"
         add(findings, "dm.notes_no_local_evidence", "suggestion", "judgment",
             "No local-only _DM_ notes found; verify dm_notes. The positive attestation may still represent remembered information or another off-vault source, so never remove it automatically.",
             line: note.field_line("dm_notes"), provisional: true)
@@ -1433,13 +1482,13 @@ module TaelgarNoteLint
               "A name entry is missing: #{missing.join(', ')}.", line: line)
         end
         status = entry["status"].to_s
-        unless status.empty? || NAME_STATUSES.include?(status)
+        unless status.empty? || value_list("nameStatuses").include?(status)
           add(findings, "metadata.names_status", "error", "required",
               "Unknown name status: #{status}.", line: line,
-              details: { "allowed" => NAME_STATUSES })
+              details: { "allowed" => value_list("nameStatuses") })
         end
 
-        if OPEN_NAME_STATUSES.include?(status)
+        if value_list("openNameStatuses").include?(status)
           add(findings, "metadata.names_unresolved_status", "warning", "conditional",
               "Name entry #{entry['name'].to_s.inspect} remains status: #{status}; preserve the entry without recalculating it and keep a human-review task open.",
               line: line, details: { "name" => entry["name"], "status" => status })
@@ -1465,7 +1514,7 @@ module TaelgarNoteLint
     end
 
     def contextual_review_gates(note, dm_sources)
-      dm_applicable = %w[tim joint none].include?(note.data["dm_owner"].to_s)
+      dm_applicable = local_dm_review_applicable?(note)
       {
         "names" => {
           "minimumVersion" => NAME_REVIEW_VERSION,
@@ -1512,7 +1561,7 @@ module TaelgarNoteLint
       parts = Pathname.new(note.path).each_filename.to_a
       return true unless parts.first == "Campaigns"
 
-      (note.tags & CAMPAIGN_RECORD_TAGS).empty?
+      !campaign_record?(note)
     end
 
     def valid_name_block_present?(note)
@@ -1535,13 +1584,14 @@ module TaelgarNoteLint
     def unresolved_name_block_present?(note)
       data = name_block_data(note)
       data.is_a?(Array) && data.any? do |entry|
-        entry.is_a?(Hash) && OPEN_NAME_STATUSES.include?(entry["status"].to_s)
+        entry.is_a?(Hash) && value_list("openNameStatuses").include?(entry["status"].to_s)
       end
     end
 
     def placeholder_pronunciation?(value)
       pronunciation = value.to_s.strip.downcase
-      PRONUNCIATION_PLACEHOLDERS.include?(pronunciation) || pronunciation.start_with?("inherited from")
+      value_list("pronunciationPlaceholders").include?(pronunciation) ||
+        value_list("pronunciationPlaceholderPrefixes").any? { |prefix| pronunciation.start_with?(prefix) }
     end
 
     def name_block_data(note)
@@ -1702,7 +1752,7 @@ module TaelgarNoteLint
     end
 
     def map_required?(note)
-      note.tags.include?("place") && MAP_REQUIRED_TYPES.include?(note.data["typeOf"].to_s)
+      profile_for(note) == "place" && value_list("mapRequiredPlaceTypes").include?(note.data["typeOf"].to_s)
     end
 
     def validate_meta_comment_positions(note, findings)
@@ -1750,14 +1800,6 @@ module TaelgarNoteLint
           word = link_repeated && repeated == link_repeated ? link_repeated[3] : repeated[1]
           add(findings, "editorial.repeated_word", "suggestion", "recommended",
               "Repeated word: #{word} #{word}.", line: line_number)
-        end
-        EDITORIAL_PATTERNS.each do |pattern, replacement|
-          match = line.match(pattern)
-          next unless match
-
-          add(findings, "editorial.common_typo", "suggestion", "recommended",
-              "Possible mechanical prose error '#{match[0]}'; consider '#{replacement}'.",
-              line: line_number)
         end
       end
     end
