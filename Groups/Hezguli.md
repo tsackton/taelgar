@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
-tags: [group]
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
+tags: [group, status/check/lint]
 typeOf: communal society
 ancestry: orc
 name: Hezguli
@@ -29,4 +29,18 @@ The Hezguli also serve as a mutual-aid community for freed orcs learning to live
 
 %%^povNotes:v1%%
 Temporal coverage: the DR 1740s campaign era; the community's association with Murook is a current leadership state, and earlier or later leadership is not established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The newer [[Nuzkar]] mention was reviewed; it corroborates the Hezguli's support for orcs struggling after release from Thark and does not establish a later material change.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared comment beginning `this is supposed to have vibes` substantially repeats the visible article's account of mutual aid, fellowship, difficulty resisting the curse, and lasting scars. Remove the comment after human confirmation, or retain only the distinct editorial direction as `%% Editorial tone: a fellowship of recovery and mutual aid; not additional canon. %%`.
 %%^End%%

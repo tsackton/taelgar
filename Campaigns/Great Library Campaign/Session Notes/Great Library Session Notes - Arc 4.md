@@ -107,7 +107,7 @@ Back in [[Voltara]], the [[Silver Tempests]] enjoys the rewards of their status 
 
 %% note: Rogue's Range might be removed from canon - unclear %%
 
-Four months later, the [[Silver Tempests]] host a party, a grand opening for [[The Hero's Feast]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; and [[Aris]] and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
+Four months later, the [[Silver Tempests]] host a party, a grand opening for [[The Hero's Feast]]. Many old friends are there, thanks to [[Samso]]’s new magic ability to teleport via plants: [[Dinia]], from the north; [[Brelith]]’s parents and some other dwarves of [[Zarkandur]]; [[Aris]], who is remaining in the [[Voltara]] area; and some other centaurs, who are leaving on the next stop in their migration and have come to say goodbye. It is a big success.
 
 ### Events
 

@@ -1,6 +1,6 @@
 ---
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T11:10:54-04:00"
+lintVersion: "3.5"
 tags: [background, religion/halflings, status/check/errors, status/check/lint]
 name: Halfling Religious Practice
 dm_owner: joint
@@ -49,15 +49,13 @@ Temporal coverage: broadly modern halfling religious practice; the visible artic
 ## Taelgar note lint
 
 ### Applied changes
-- Added the explicit note name and a modern article POV.
-- Corrected three objective grammar errors in the visible prose.
+- None.
 
 ### Validated judgments
-- The article gives a usable short account of ordinary practice while preserving unresolved afterlife material in a shared comment.
-- This is a religious-practice organizer, not a named in-world subject, so a `Metadata:names:v1` block is not applicable.
-- The complete local-only dossier contains no evidence clusters; `dm_notes: none` remains supported.
-- `status/check/errors` was preserved.
+- The visible article provides a usable account of ordinary practice, prayer, history-bearers, and sacred places.
+- The canon-review source comment and unresolved afterlife material remain editorial guidance rather than public prose.
 
 ### Open findings
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared memory-shrine idea is coherent with the public `Halflings` note but remains provisional. If approved, add: `Some halflings also speak of memories themselves as shrines. Experiences retold across generations can gather layers of later recollection, and certain places may make one of these communal memory-shrines especially vivid.`
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment about some memories becoming shrines contains a coherent public-safe extension of the article, and [[Halflings]] independently describes layered communal memories. If this idea is approved here, add: `Some halflings also speak of memories themselves as shrines. Experiences retold across generations can gather layers of later recollection, and certain places may make one of these communal memory-shrines especially vivid.`
 %%^End%%
