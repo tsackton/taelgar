@@ -34,6 +34,7 @@ Recently, she married [[Oswalt Tealeaf]], and they booked passage on the [[Emera
 - (DR:: 1747): Jasmine meets and falls in love with [[Oswalt Tealeaf]] in [[Darba]]
 - (DR:: 1748): Jasmine and Oswalt are married
 - (DR:: 1748-08-09): Jasmine and Oswalt leave Darba together on the Emerald Song, heading for adventure
+
 %%^End%%
 
 %% notes

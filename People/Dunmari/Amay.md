@@ -25,6 +25,7 @@ A captain in the Dunmari army, in service of [[Illyan]] and ultimately the Samra
 ## Chronology
 - (DR:: 1748-06-03): Arrives in Tokra with the first wave of [[Nayan Karnas]]'s army, under the command of [[Illyan]]. 
 - (DR:: 1748-07-02): Briefly encounters [[Dunmar Fellowship]] in Tokra while escorting them to [[Illyan]]'s camp. 
+
 %%^End%%
 
 %%SECRET[v2:fec1d7f066508f696dd103e553b12647]%%

@@ -40,8 +40,10 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 - Dee has traveled and adventured with the dwarf [[Dain Goldhammer]] and the Chardonian [[Alban]]. 
 - Dee's adventures have largely been funded by the Chardonian wizard [[Fausto]]
 - Dee knows other adventurers associated with the [[Society of the Open Scroll]], including [[Arcus]] and  [[Vola]]. She is particularly friendly with Vola. 
+
 %%^Date:1748-08-22%%
 - (DR:: 1748-08-22): Dee Wildcloak has a short romantic encounter with [[Wellby]]
+
 %%^End%%
 
 

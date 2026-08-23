@@ -35,4 +35,5 @@ The journeys of the Flaming Tempest were reconstructed from the log records by [
 - (DR:: 1748-02-23) *(Flaming Tempest):* Puts into harbor in a small island off the Cymean coast
 - (DR:: 1748-04-01) *(Flaming Tempest):* Departs small island off the Cymean coast
 - (DR:: 1748-05-03) *(Flaming Tempest):* Arrives at Vetta
+
 %%^End%%

@@ -48,4 +48,5 @@ Garret spent the next 11 years in servitude, as a wooden scarecrow, until he was
 
  - (DR:: 1737): Tealeaf clan fights off [[Dustthorn Horde]] orcs, but are then ambushed by [[Agata]]. [[Garret Tealeaf]] is captured.
   - (DR:: 1748-06-02):  [[Garret Tealeaf]] is freed from his imprisonment as a wooden scarecrow by [[Seeker]] and the [[Dunmar Fellowship]]. 
+  
 %%^End%%
