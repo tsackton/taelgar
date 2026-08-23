@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Metadata Specification
 *last update: Aug 20th 2026*
 

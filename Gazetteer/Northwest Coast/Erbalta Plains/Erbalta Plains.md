@@ -19,9 +19,9 @@ POV: 1740s
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby grass, wind-twisted sagebrush, and silver bunchgrasses; shallow coulees dot the lowlands along the river, their chalky banks bright with purple thistle, while dusty limestone bluffs rise in the highlands. Along the river, cottonwood groves and reed beds thrive, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
+The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby, short grasses and hardy low bushes; shallow coulees dot the lowlands along the river, while limestone bluffs rise in the highlands. Along the river, some trees grow, supporting a vibrant riparian ecosystem, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
 
-The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields in riparian valleys, though barley, flax, and drought-tolerant pulses are common, and hay from riparian meadows is crucial to support animal stock. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
+The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields and in some riparian valleys. What does grow is hardy and drought tolerant: barley, flax, some pulses, and hay from riparian meadows. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
 
 ![[erbalta-plains.png]]
 
@@ -33,7 +33,7 @@ The Erbalta Plains refer to the entire [[Snake River]] valley grasslands in the 
 
 ## Climate
 
-Isolated from the moderating influence of the [[Endless Ocean]] by the rugged [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers are long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls along the main river provide the brief growing season that sustains the region’s hardy grasslands and scattered riparian groves.
+Isolated from the moderating influence of the [[Endless Ocean]] by the [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers are long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls dump rain that swells the rivers and sustains the region’s hardy grasslands and scattered riparian groves.
 
 %%^Campaign:none%%
 **cold semi-arid (Köppen BSk) rain-shadow climate**
