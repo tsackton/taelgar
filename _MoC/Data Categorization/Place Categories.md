@@ -9,7 +9,7 @@ biomes:: "forest", "wetlands", "desert", "grassland"
 waterfeatures:: "waterway", "lake", "marine feature"
 landforms:: "topographical feature", "subterranean feature", "island"
 structures:: "inn", "building", "holy site"
-infrastructure:: "road", "infrastructure"
+infrastructure:: "road", "infrastructure", "battlefield"
 
 ## Missing Type Of
 

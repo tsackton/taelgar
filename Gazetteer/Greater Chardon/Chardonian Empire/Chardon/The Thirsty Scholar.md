@@ -1,15 +1,14 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-20T19:36:26-04:00"
-lintVersion: "3.2"
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: inn
-campaignInfo: []
 name: The Thirsty Scholar
 whereabouts: Chardon
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: modern
 ---
 # The Thirsty Scholar

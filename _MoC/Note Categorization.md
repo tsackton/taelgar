@@ -123,17 +123,18 @@ _Related specifically to extraplanar features._
 - **island** is used to describe any island feature
 
 #### Structures
-*Related to any kind of building.*
+*Related to any kind of building*
 
 - **inn** is used for inns, taverns, and other places where adventurers commonly find themselves
 - **holy site** is used for any building or other site associated with a religion
 - **building** is used for all other structures
 
 #### Infrastructure
-*Related to other artificial, constructed features that aren't buildings*
+*Related to other artificial, constructed features that aren't buildings; this also includes human-influenced features on the landscape such as battlefield.**
 
 - **road** is used for any kind of road or street
 - **infrastructure** is used for all other kinds of infrastructure
+- **battlefield** is used for battlefields
 
 ## Event
 **Tag: `#event`**

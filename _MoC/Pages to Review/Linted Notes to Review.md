@@ -1,6 +1,6 @@
-currentLinterVersion:: "3.4"
-lintedCleanAfter:: 2026-08-21T18:00:45-04:00
-lintedAfter:: 2026-08-21T18:00:45-04:00
+currentLinterVersion:: "3.5"
+lintedCleanAfter:: 2026-08-23T08:00:45-04:00
+lintedAfter:: 2026-08-23T08:00:45-04:00
 
 ### Need Lint Cleanup
 
@@ -46,7 +46,7 @@ TABLE join(split(file.path, "/", 2), "/") as Folder,
         "Yes"
     ) as "Clean?"
 WHERE lintedAt AND date(lintedAt) > date(this.lintedAfter)
-SORT POV
+SORT date(lintedAt) DESC
 ```
 
 ## Linted Clean

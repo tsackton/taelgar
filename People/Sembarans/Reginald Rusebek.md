@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
 title: Baron
@@ -41,12 +41,13 @@ Temporal coverage: a retrospective account of the DR 1719 charges, execution, an
 ## Taelgar note lint
 
 ### Applied changes
-- Added supported identity, campaign-knowledge, name, and temporal metadata.
-- Corrected duplicated punctuation, the noun form of `cover-up`, and the misspelling `hafllings`.
+- None.
+
+### Validated judgments
+- No additional validated judgments.
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** The proposed pronunciation `REJ-uh-nuhld ROOZ-bek` uses the English analogue documented for Sembaran to read `Reginald` and a cautious spelling-based reading of `Rusebek`; no exact in-world phonology or recorded pronunciation resolves the proposal. A human should accept the pronunciation in frontmatter or correct the persistent entry.
-- [ ] **Warning — coverage.established_fact_missing:** [[Cleenseau - Session 27]] records that the Heroes of Cleenseau had encountered a suspicion that Rusebek was framed, while this article presents his guilt without that documented uncertainty. Decide whether to include the party's unresolved report. Copy-ready candidate: "Although Rusebek was convicted and executed, the Heroes of Cleenseau later encountered suspicions that he had been framed; their source and the truth of the claim remain unclear."
-
+- [ ] **Warning — metadata.names_unresolved_status:** The primary-name entry retains the proposed pronunciation `REJ-uh-nuhld ROOZ-bek`, using the documented English analogue for Sembaran to read `Reginald` and a cautious spelling-based reading of `Rusebek`; no exact in-world phonology or recorded pronunciation resolves it. If accepted, add `pronunciation: REJ-uh-nuhld ROOZ-bek` to frontmatter and change the entry to `status: documented`; otherwise replace it with the human-approved pronunciation.
+- [ ] **Warning — coverage.established_fact_missing:** [[Cleenseau Campaign - Timeline]] records Rusebek's execution in DR 1719, while [[Cleenseau - Session 27]] records that the Heroes of Cleenseau later encountered an unresolved suspicion that he had been framed. The article currently omits the execution and presents his guilt without that documented uncertainty. After the first paragraph, add: "Rusebek was executed on DR 1719-03-19. The Heroes of Cleenseau later encountered a suspicion that he had been framed, but their source and the truth of the claim remain unclear."
 %%^End%%

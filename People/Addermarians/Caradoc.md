@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:22:55-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/lint]
 species: human
 ancestry: Addermarian
@@ -92,11 +92,16 @@ Temporal coverage: a DR 1715 portrait of Caradoc as an active alchemist and patr
 %%^End%%
 
 %%^Lint%%
-### Applied lint-owned changes
-- Added the governed names and temporal POV metadata required for this lint pass.
-- Added the missing comma separating Caradoc's knowledge of Trueflame from the following independent clause.
+## Taelgar note lint
 
-### Open work
-- [ ] **Warning — metadata.names_unresolved_status:** The primary name now has a proposed pronunciation, CARE-uh-dock. The proposal follows the English and Welsh influence documented for northern Addermarian: initial stress, a reduced middle vowel, and a hard final c. Candidate: if accepted, copy CARE-uh-dock to frontmatter and change the Caradoc name entry to status: documented.
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared DM comment contains a coherent public-safe account of Caradoc's early Feywild history, while also containing rumors and unresolved campaign planning that should remain private. Candidate public prose: Caradoc was born in DR 1653 at the end of the Third Hobgoblin War, and as a teenager crossed into Morlaith's realm; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemical reactions. Keep the rumor list, unresolved motive, and adventure-use notes hidden.
+### Applied changes
+- None.
+
+### Validated judgments
+- The shared nonpublic comment was reviewed; its potentially public backstory is separable from rumors, unresolved planning, and adventure-use guidance that should remain private.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary-name entry retains the proposed pronunciation `CARE-uh-dock`, derived from the documented English and Welsh influence on northern Addermarian. If accepted, add `pronunciation: CARE-uh-dock` to frontmatter and change the Caradoc entry to `status: documented`; otherwise replace the proposal with the human-approved pronunciation.
+- [ ] **Suggestion — editorial.public_material_candidate:** The Backstory portion of the shared DM comment offers a coherent public-safe account that would connect Caradoc's documented birth year, prematurely white hair, alchemical ability, and Morlaith connection; the Rumors, unresolved motive, and adventure-use portions should remain hidden. Copy-ready public prose: "Caradoc was born in DR 1653, the year the Third Hobgoblin War ended. As a teenager he crossed into Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemical reactions." Retain the remaining rumor list and unresolved planning in the comment.
 %%^End%%

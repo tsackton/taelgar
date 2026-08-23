@@ -25,7 +25,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%^Date:1721a%%
+%%^Date:1721b%%
 A young princeling of [[Tyrwingha]], he is a quite and mild-mannered child who is said to particularly love stories about his namesake, [[Arryn I]]. 
 %%^End%%
 

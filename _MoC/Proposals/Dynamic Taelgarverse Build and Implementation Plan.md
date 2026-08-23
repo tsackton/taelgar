@@ -250,7 +250,7 @@ Supported authored blocks:
 - `Campaign:Code` — one canonical campaign;
 - `Campaign:none` — hard private exclusion;
 - `Date:X` — visible from `X` onward;
-- `Date:Xa` — visible before `X`.
+- `Date:Xb` — visible before `X`; `b` means "before."
 
 The source pass must also recognize two Obsidian comment forms outside that structured-block grammar: local-only `SECRET` blocks and ordinary Git-shared comments. Neither is a legacy alias for `Campaign:none`.
 

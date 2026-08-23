@@ -80,9 +80,9 @@ Use the least precise value that still communicates the article's reading positi
 
 Choose the article POV after separating passages whose truth or visibility begins at a known date. A single dated event or later state should not force the entire note to use that year when the rest of the article has a broader speaking position.
 
-Use `Date:X` around the smallest passage that should appear only on or after `X`. Keep durable identity, description, and history outside the block. The resulting `POV` describes that durable article frame, while the date block supplies the narrower layer.
+Use `Date:X` around the smallest passage that should appear only on or after `X`. Use `Date:Xb` around a passage that should appear strictly before `X`. The `b` means "before"; `Date:Xa` is not valid syntax. Keep durable identity, description, and history outside the block. The resulting `POV` describes that durable article frame, while the date block supplies the narrower layer.
 
-For example, a character description with a generic 1740s speaking position can use `POV: 1740s` even if a final sentence about a DR 1747 encounter is wrapped in `%%^Date:1747%%`. A broadly modern power can use `POV: modern`, with a `%%^Date:1748-10-15%%` passage recording its later release. Use paired before/after blocks only when both states need to be stated explicitly.
+For example, a character description with a generic 1740s speaking position can use `POV: 1740s` even if a final sentence about a DR 1747 encounter is wrapped in `%%^Date:1747%%`. A broadly modern power can use `POV: modern`, with a `%%^Date:1748-10-15%%` passage recording its later release. When both states need to be stated explicitly, pair `Date:Xb` for the old state with `Date:X` for the new state at the same cutoff; the old state is hidden and the new state becomes visible on `X`.
 
 ## `povNotes`
 

@@ -247,7 +247,7 @@ Visible on and after October 7, 1740.
 ```
 
 ```markdown
-%%^Date:1740-10-07a%%
+%%^Date:1740-10-07b%%
 
 Visible before October 7, 1740.
 
@@ -257,13 +257,14 @@ Visible before October 7, 1740.
 Formal semantics:
 
 - `Date:X` is visible when the selected date is greater than or equal to `X`.
-- `Date:Xa` is visible when the selected date is strictly less than `X`.
+- `Date:Xb` is visible when the selected date is strictly less than `X`; `b` means "before."
+- `Date:Xa` is invalid.
 - Paired old/new states may use the same cutoff without overlapping.
 
 Example:
 
 ```markdown
-%%^Date:1740-10-07a%%
+%%^Date:1740-10-07b%%
 
 The house still stands.
 
@@ -386,7 +387,7 @@ The existing audit baseline found campaign/date material in a minority of notes,
 ### Phase 4: audit and correct content blocks
 
 - Correct invalid marker syntax without changing prose or meaning.
-- Review every `Date:Xa` block and every paired old/new state.
+- Review every `Date:Xb` block and every paired old/new state.
 - Review remaining from-date blocks for the distinction between additive history and replaceable state.
 - Review every authored campaign block for a single canonical campaign and correct use as perspective rather than chronology.
 - Review all `Campaign:none` blocks and ordinary comments as shared nonpublic material without exposing them in public output.

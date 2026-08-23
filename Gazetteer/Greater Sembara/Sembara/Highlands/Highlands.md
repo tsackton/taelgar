@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
 tags: [place, status/check/errors]
 typeOf: region
@@ -11,7 +11,7 @@ aliases: [Sembaran Highlands]
 whereabouts: Sembara
 dm_owner: none
 dm_notes: none
-POV: modern
+POV: 1710s
 ---
 # The Highlands
 >[!info]+ Information  
@@ -30,5 +30,5 @@ Recent revitalization of trade has seen a growth in the importance of woolen fab
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern regional description during the peaceful years of Cece I; the note also preserves older settlement and political patterns without assigning them precise dates.
+Temporal coverage: the DR 1710s, including the peaceful final years of Cece I's reign; older settlement and political patterns are described without precise dates.
 %%^End%%

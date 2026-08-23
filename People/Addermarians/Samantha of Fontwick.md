@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:22:55-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -26,7 +26,7 @@ Samantha is a villager from [[Fontwick]], a small village west of [[Roscombe]]. 
 
 ## Events
 - (DR:: 1715-05-11): Encountered the [[Addermarch Mercenaries]] while fleeing an ankheg attack on her cattle, and led them back to the farm.
-- (DR:: 1715-05-12): Stood watch during [[Addermarch - Session 06|the night battle]] and gratefully received funds from [[Yvan Greenrabbit]] to restock her herd.
+- (DR:: 1715-05-12): Gratefully received funds from [[Yvan Greenrabbit]] to restock her herd, and provided the party with food for the road. 
 
 %% DM (PC interactions and sources)
 

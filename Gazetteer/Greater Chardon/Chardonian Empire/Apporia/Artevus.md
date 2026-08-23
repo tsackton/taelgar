@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:40:59-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T11:35:40-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: settlement
 typeOfAlias: town
@@ -10,7 +10,7 @@ name: Artevus
 pronunciation: ar-TEH-woos
 whereabouts: Portalia
 dm_owner: tim
-dm_notes: color
+dm_notes: none
 POV: modern
 ---
 # Artevus
