@@ -48,7 +48,7 @@ The species traits you use are determined by the nature of the plane that touche
 - If you are touched by an elemental plane, such as the [[Elemental Plane of Fire|Plane of Fire]] or the [[Elemental Plane of Air]], use the Elemental-Touched traits below. 
 - You also have the option of using the [[Playing a Human|Human]] species traits, and reflecting your plane touched nature in your class, e.g. as a sorcerer or warlock with an origin appropriate to your plane-touched nature. 
 
-%%^Campagin:none%%
+%%^Campaign:none%%
 
 This is basically built on the Tiefling framework, with some small tweaks. But you essentially get:
 
@@ -58,7 +58,7 @@ This is basically built on the Tiefling framework, with some small tweaks. But y
 (4) A planar legacy trait, that gives you a cantrip at 1st, a 1st level spell at 3rd, and a 2nd level spell at 5th
 
 
-%% notes end %%
+%%^End%%
 
 ### Plane-Touched
 

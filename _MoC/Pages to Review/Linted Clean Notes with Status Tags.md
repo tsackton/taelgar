@@ -1,6 +1,6 @@
 ## Linted Notes with Status Tags
 
-currentLinterVersion:: "3.4"
+currentLinterVersion:: "3.5"
 
 ```dataview
 TABLE

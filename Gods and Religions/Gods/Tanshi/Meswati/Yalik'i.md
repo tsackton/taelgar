@@ -18,6 +18,6 @@ The [[Tanshi]] of crisp, cold weather, frosty mornings and autumn rains. Particu
 
 One of the [[Meswati]], the lost tanshi, trapped during the [[Great War]] and silent since. 
 
-%%^Date:1748-11-01^%%
+%%^Date:1748-11-01%%
 In the fall of 1748 DR, Yalik'i was [[Session 54 (DuFr)|freed]] by [[Delwath]], [[Aristaea]], and [[Iascaire]] from imprisonment in one of [[Cha'mutte]]'s shadow realms. 
 %%^End%%

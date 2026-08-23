@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 gender: male
 born: 1653
 name: Caradoc
+pronunciation: CARE-uh-dock
 aliases: [Aurenxis]
 whereabouts:
   - {type: home, location: Brantor}
@@ -20,19 +21,20 @@ dm_notes: none
 POV: 1715
 ---
 # Caradoc
+*(CARE-uh-dock)*
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Hired the [[Addermarch Mercenaries]] on May 2nd, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage-laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. Though rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
+Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage-laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. 
 
-Despite his age, Caradoc moves with crisp focus. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to his clients. 
+Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy more of a scholarly pursue and civic duty than a means to riches. He does not share where and how he came by his coin. Caradoc pays generously for rare ingredients, especially those that are dangerous to collect. He bankrolls expeditions rather than traveling himself, relying on agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. 
 
-Caradoc pays generously for rare ingredients and dangerous errands. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. He does not share where and how he came by his coin, though he always seems to have enough for a generous commission. 
+Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
 
-Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, but it explains his familiarity with [[Morlaith]] and his caution around disturbances tied to the [[Feywild]].
+Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, though those who know him well may learn that as a teenager he crossed into Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemy.
 
 ## Events
 - (DR:: 1715-05-02): [[Addermarch - Session 03|Hired the Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
@@ -83,25 +85,10 @@ For the purposes of the adventure:
 %%
 
 %%^Metadata:names:v1%%
-- {name: Caradoc, language: Addermarian, pronunciation: CARE-uh-dock, notes: "Proposed from the English and Welsh influence documented for northern Addermarian: initial stress, reduced middle vowel, and a hard final c.", status: proposed}
-- {name: Aurenxis, role: alias, language: unknown, pronunciation: AWR-en-kiss, notes: "Pronunciation documented in [[Addermarch - Session 14]].", status: documented}
+- {name: Caradoc, language: Addermarian, pronunciation: CARE-uh-dock, status: documented}
+- {name: Aurenxis, role: alias, language: Sylvan, pronunciation: AWR-en-kiss, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 portrait of Caradoc as an active alchemist and patron, with selected earlier Feywild history; the intervening decades are not comprehensively described.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- The shared nonpublic comment was reviewed; its potentially public backstory is separable from rumors, unresolved planning, and adventure-use guidance that should remain private.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The primary-name entry retains the proposed pronunciation `CARE-uh-dock`, derived from the documented English and Welsh influence on northern Addermarian. If accepted, add `pronunciation: CARE-uh-dock` to frontmatter and change the Caradoc entry to `status: documented`; otherwise replace the proposal with the human-approved pronunciation.
-- [ ] **Suggestion — editorial.public_material_candidate:** The Backstory portion of the shared DM comment offers a coherent public-safe account that would connect Caradoc's documented birth year, prematurely white hair, alchemical ability, and Morlaith connection; the Rumors, unresolved motive, and adventure-use portions should remain hidden. Copy-ready public prose: "Caradoc was born in DR 1653, the year the Third Hobgoblin War ended. As a teenager he crossed into Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemical reactions." Retain the remaining rumor list and unresolved planning in the comment.
 %%^End%%
