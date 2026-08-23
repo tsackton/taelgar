@@ -1,10 +1,10 @@
 ---
-subspecies: satyr
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T15:54:27-04:00"
 lintVersion: "3.4"
 tags: [person, status/gameupdate/dufr, status/check/lint]
-species: fey
+species: satyr
+gender: male
 name: Valeris
 whereabouts:
   - {type: home, end: 1749-06-07, location: Sunwine Hall}
@@ -17,7 +17,7 @@ POV: 1749
 ---
 # Valeris
 >[!info]+ Biographical Info  
-> A [[Fey|fey]] (satyr)  
+> A [[Satyrs|satyr]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[valeris.jpg|right|300]]Valeris is a satyr, a musician and gambler, cursed to speak only the absolute truth, unable even to sugar coat his words with lies of omission. 

@@ -61,6 +61,23 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert dossier.fetch("sources").all? { |source| source.fetch("contexts").first.fetch("text").include?("silver badge") }
     languages = record.dig("languageGuidance", "entries").map { |entry| entry.fetch("language") }
     assert_includes languages, "Common"
+    common = record.dig("languageGuidance", "entries").find { |entry| entry["language"] == "Common" }
+    assert_equal "Modern English", common.dig("directGuidance", "analogueText")
+    assert_equal 2, record.dig("languageGuidance", "sidecar", "schemaVersion")
+  end
+
+  def test_preparer_matches_family_level_language_guidance
+    root = make_vault
+    path = "People/Northros Name.md"
+    write_note(root, path, person_note("Northros Name").sub("language: Common", "language: Northros"))
+
+    manifest = TaelgarNoteLint::Batch::Preparer.new(root: root).prepare([path])
+    entries = manifest.dig("notes", 0, "languageGuidance", "entries")
+    family = entries.find { |entry| entry["entryType"] == "family" && entry["family"] == "Northros" }
+
+    refute_nil family
+    assert_equal "Semitic languages generally", family.dig("guidance", "analogueText")
+    assert_includes family.fetch("matchedLookupTerms"), "Northros"
   end
 
   def test_freshness_scanner_reuses_git_evidence_for_notes_with_one_baseline
@@ -935,6 +952,16 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_empty TaelgarNoteLint::Batch.introduced_whitespace_errors(before, after)
   end
 
+  def test_whitespace_preflight_handles_secret_blocks_without_running_the_vault_filter
+    before = "# Private\n\n%%SECRET Existing private material. %%\n"
+    after = "---\nlintedAt: now\n---\n#{before}"
+
+    assert_empty TaelgarNoteLint::Batch.introduced_whitespace_errors(before, after)
+
+    with_new_trailing_space = after.sub("private material. %%\n", "private material. %% \n")
+    assert_equal 1, TaelgarNoteLint::Batch.introduced_whitespace_errors(before, with_new_trailing_space).length
+  end
+
   def test_change_classifier_routes_private_status_and_custom_syntax_changes
     before = <<~MARKDOWN
       ---
@@ -1610,16 +1637,40 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     File.write(
       File.join(root, "_scripts", "language_pronunciation_analogues.json"),
       JSON.pretty_generate(
-        "schemaVersion" => 1,
+        "schemaVersion" => 2,
         "sourcePath" => "Background/Languages.md",
         "sourceSha256" => "fixture",
+        "families" => [
+          {
+            "entryType" => "family",
+            "family" => "Northros",
+            "lookupTerms" => ["Northros"],
+            "guidance" => {
+              "kind" => "family",
+              "mappingStatus" => "defined",
+              "analogueText" => "Semitic languages generally",
+              "sourceHeading" => "Northros Language Family",
+              "sourceLine" => 1
+            },
+            "sourceHeading" => "Northros Language Family",
+            "sourceHeadingLine" => 1
+          }
+        ],
         "languages" => [
           {
+            "entryType" => "language",
             "language" => "Common",
             "lookupTerms" => ["Common"],
-            "analogues" => ["Modern English"],
-            "status" => "defined",
-            "sourceHeading" => "Common"
+            "directGuidance" => {
+              "kind" => "direct",
+              "mappingStatus" => "defined",
+              "analogueText" => "Modern English",
+              "sourceHeading" => "Common",
+              "sourceLine" => 1
+            },
+            "fallbackGuidance" => [],
+            "sourceHeading" => "Common",
+            "sourceHeadingLine" => 1
           }
         ]
       )

@@ -2,60 +2,41 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-21T23:46:56-04:00"
 lintVersion: "3.4"
-tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
+tags: [person]
 species: human
 ancestry: Urskan
-campaignInfo: []
 born: 1710
 gender: male
 name: Radomir
+pronunciation: ra-duh-MEER
 whereabouts:
   - {type: home, location: Ursk}
+  - {type: away, start: 1731, end: 1735, location: Far North, alias: "fleeing Ursk across the Far North"}
+  - {type: away, start: 1735, end: 1736, location: Sentinel Range, alias: Sentinels}
+  - {type: away, start: 1736, end: 1741, location: Far North, alias: "fleeing Ursk across the Far North"}
 knownTo: [dufr]
 dm_owner: tim
-dm_notes: important
-POV: 1748
+dm_notes: none
+POV: 1749
 ---
 # Radomir
+*(ra-duh-MEER)*
 >[!info]+ Biographical Info  
 > An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A man from a strange place to the east.
+Radomir is an Urskan man who is principly notable for having found a [[Jade Piece of Rai's Hand|strange piece of jade]] on the edge of vast glacier in the [[Yengorza Mountains]]. He carried this item for several years, but it haunted his dreams, and eventually he fled [[Ursk]], looking for a way to destroy it. After many years of travel, the tales of which are largely lost, he ended up back in Ursk. By DR 1749, Radomir was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz, who had taken the jade from him. He had little contact with anyone, although his sister Yelena sometimes brought medicine.
 
-## Safri's Tale 
+His ultimate fate is unknown. One tale of his adventures is recorded below. 
 
-Maybe 10 or 15 years ago she met a strange man, maybe 25 at the time, from somewhere faraway to the east. Ursk, he said, and he spoke halting Common with a strange accent. He said his name was Radomir. He had run a long way, across the empty plains of the kenku and over the mountains, fleeing home, he claimed. He carried with him a [[Jade Piece of Rai's Hand]] that he said he found in the far north, in the ice. The full tale is his to tell, not mine. But he also asked about destroying artifacts, for this [[Jade Piece of Rai's Hand]] he carried haunted his dreams.
+>[!info] Safri's Tale of Radomir
+>Safri, a [[Deno'qai]] druid and sage living in the northern [[Sentinel Range|Sentinels]], spoke of Radomir to [[Delwath]], who recorded this tale. She said that 10 or 15 years ago, in the DR 1730s, she met a strange man. He was maybe 25 at the time, from somewhere faraway to the east, fleeing demons, he said. He spoke halting Common, with a strange accent, and said his home was called Ursk. He had fled, running a long way across empty plains and over the mountains, trying to outrun the voices in his dreams. He had found a [[Jade Piece of Rai's Hand|strange piece of jade]], he said, a mysterious and clearly magical object, in the ice. Soon after he found it, he began having terrible dreams. He believed the jade spoke to him, taunted him, and he wanted to destroy it. He asked about ways to destroy powerful artifacts. The full tale is his to tell, Safri said, and she did not know his ultimate fate. 
 
 %%^Metadata:names:v1%%
-- {name: Radomir, role: primary, language: Urksan, pronunciation: ruh-duh-MEER, notes: "Russian analogue: final stress and reduction of the two unstressed o vowels toward uh.", status: proposed}
+- {name: Radomir, role: primary, language: Urksan, pronunciation: ra-duh-MEER, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1748 secondhand account of Radomir's earlier flight from Ursk and encounter with Safri; his later return and current circumstances are not yet incorporated.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added `knownTo: [dufr]` and the persistent name and temporal metadata.
-
-### Editorial assessment
-**Underdeveloped**. The visible note gives only Safri’s older secondhand account. It lacks the established later state central to Radomir’s reference entry: his return to Ursk, poor health and isolation, monitored surrender to the Rodnya Voknaz, his relationship with Yelena, and the later disposition of the jade.
-
-### Validated judgments
-- `status/cleanup/text` and `status/cleanup/metadata` remain supported by the central coverage gap and unresolved metadata; both were preserved unchanged.
-- Matching local-only sources support the existing positive `dm_notes: important` attestation; their paths will be recorded mechanically without exposing their contents.
-
-### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** `Scrying Delwath Nov 15`, `Scrying Delwath Tollen Downtime`, `Jade Piece of Rai's Hand`, and the Dunmar Frontier session record establish Radomir’s later circumstances, which are absent from the article. Candidate: add “By DR 1749, Radomir had returned to Ursk and was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz following his surrender. The group had taken the jade from him, while his sister Yelena sometimes brought medicine; the Dunmar Fellowship later recovered the jade after defeating Rhodar von Glauer.”
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `Radomir — ruh-duh-MEER` from the Urksan Russian analogue, using final stress and reducing the two unstressed o vowels toward `uh`. Candidate: review the derivation, then add `pronunciation: ruh-duh-MEER` to frontmatter and mark the entry documented, or correct the proposal.
-
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
+Temporal coverage: a DR 1749 account of Radomir's earlier flight from Ursk and encounter with Safri, plus his return to Ursk. His fate after the Dunmar Fellowship's visit to Ursk is not captured. 
 %%^End%%

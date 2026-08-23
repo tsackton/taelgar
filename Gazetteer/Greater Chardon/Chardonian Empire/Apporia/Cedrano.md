@@ -9,7 +9,7 @@ name: Cedrano
 pronunciation: KEH-dran-oh
 whereabouts: Chardonian Empire
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # Cedrano

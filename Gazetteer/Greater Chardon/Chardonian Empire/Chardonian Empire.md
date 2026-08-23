@@ -11,7 +11,7 @@ aliases: [Chardonian]
 whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
-POV: "1749"
+POV: 1749
 ---
 # The Chardonian Empire
 *(char-DOH-nee-an)*
@@ -85,19 +85,6 @@ In the most commonly told imperial chronology:
 - The current era: Chardon’s legions have recently conquered [[Illoria]], turning a pirate archipelago into a protectorate.
 
 %% this needs more detail about the pre-1584 wars, and the currently undeveloped hobgoblin stalemate in the coastlands; a little more detail probably needs to be invented first %%
-
-%%^Campaign:none%%
-## Places in Chardonian Empire
-```dataviewjs
-const { util } = customJS
-dv.table(["Place", "Type Of"], 
-			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))
-				.sort(b => util.s("<maintype>", b.file))
-				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
-```
-
-%%^End%%
 
 %%^Campaign:none%%
 ## DM notes

@@ -21,13 +21,13 @@ require_relative "validate_taelgar_note"
 
 module TaelgarNoteLint
   module Batch
-    SCHEMA_VERSION = 3
+    SCHEMA_VERSION = 4
     DECISION_SCHEMA_VERSION = 6
     WORKSPACE_SCHEMA_VERSION = 2
     DEFAULT_MAX_TOKENS = 40_000
     ESTIMATED_CHARACTERS_PER_TOKEN = 3
     DM_DOSSIER_SCHEMA_VERSION = 1
-    LANGUAGE_GUIDANCE_SCHEMA_VERSION = 1
+    LANGUAGE_GUIDANCE_SCHEMA_VERSION = 2
     LANGUAGE_GUIDANCE_PATH = "_scripts/language_pronunciation_analogues.json"
     SELF_REVIEW_KEYS = %w[evidenceAndVerdict privacySanity candidateValidation].freeze
     EDITORIAL_VERDICTS = [
@@ -354,9 +354,12 @@ module TaelgarNoteLint
           after_file.write(after_text)
           before_file.flush
           after_file.flush
+          # Keep the no-index comparison outside the vault so its Markdown
+          # attributes cannot invoke the repository's required secret filter.
           stdout, stderr, status = Open3.capture3(
             "git", "diff", "--no-index", "--check", "--no-ext-diff", "--",
-            before_file.path, after_file.path
+            before_file.path, after_file.path,
+            chdir: File.dirname(before_file.path)
           )
           unless [0, 1].include?(status.exitstatus) || (!stdout.empty? && stderr.empty?)
             raise BatchError, "Whitespace preflight failed: #{stderr.strip}"
@@ -639,7 +642,8 @@ module TaelgarNoteLint
         raise BatchError, "Generated language guidance is missing: #{LANGUAGE_GUIDANCE_PATH}" unless path.file?
 
         @data = JSON.parse(TaelgarNoteLint.read_text(path))
-        unless @data["schemaVersion"] == LANGUAGE_GUIDANCE_SCHEMA_VERSION && @data["languages"].is_a?(Array)
+        unless @data["schemaVersion"] == LANGUAGE_GUIDANCE_SCHEMA_VERSION &&
+               @data["families"].is_a?(Array) && @data["languages"].is_a?(Array)
           raise BatchError, "Generated language guidance uses an unsupported schema."
         end
         source = @root.join(@data.fetch("sourcePath"))
@@ -649,6 +653,7 @@ module TaelgarNoteLint
         end
         @reference = {
           "path" => LANGUAGE_GUIDANCE_PATH,
+          "schemaVersion" => LANGUAGE_GUIDANCE_SCHEMA_VERSION,
           "sha256" => Batch.file_sha256(path),
           "sourcePath" => @data.fetch("sourcePath"),
           "sourceSha256" => @data.fetch("sourceSha256")
@@ -663,7 +668,7 @@ module TaelgarNoteLint
           values << entry["language"] if entry.is_a?(Hash)
         end
         haystack = values.compact.join("\n")
-        entries = @data.fetch("languages").each_with_object([]) do |entry, selected|
+        entries = (@data.fetch("languages") + @data.fetch("families")).each_with_object([]) do |entry, selected|
           matches = entry.fetch("lookupTerms").select { |term| haystack.match?(/(?<![[:alnum:]_])#{Regexp.escape(term)}(?![[:alnum:]_])/i) }
           next if matches.empty?
 

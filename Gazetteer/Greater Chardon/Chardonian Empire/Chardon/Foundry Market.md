@@ -10,7 +10,7 @@ name: Foundry Market
 whereabouts: Chalyte Levels
 dm_owner: tim
 dm_notes: color
-POV: "1749"
+POV: 1749
 ---
 # The Foundry Market
 >[!info]+ Information  

@@ -13,7 +13,7 @@ whereabouts:
   - {type: primary, location: Kedron, linkText: on the}
 dm_owner: none
 dm_notes: none
-POV: "1748"
+POV: 1748
 ---
 # Lastgate Fort
 >[!info]+ Information  
