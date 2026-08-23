@@ -6,7 +6,7 @@ See [[Note Categorization]] for the list of well-known tags. When changing that 
 
 ```dataview
 TABLE split(file.path,"/",1)[0] as Folder, length(file.inlinks) as Backlinks
-From !"Worldbuilding" and !"assets" and !"AGENTS"
+From !"Worldbuilding" and !"assets" and !"AGENTS" and "!_sessions"
 WHERE !startswith(file.folder, "_") and (
 !contains(tags, "object") and 
 !contains(tags, "background") and 

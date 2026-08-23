@@ -1,6 +1,6 @@
 # Place Categories
 
-canonical::  "neighborhood", "realm", "settlement", "region", "watershed",  "extraplanar domain", "planar link", "plane", "forest", "wetlands", "desert", "grassland", "waterway", "lake", "marine feature", "topographical feature", "subterranean feature", "island", "inn", "building", "holy site", "road", "infrastructure"
+canonical::  "neighborhood", "realm", "settlement", "region", "watershed",  "extraplanar domain", "planar link", "plane", "forest", "wetlands", "desert", "grassland", "waterway", "lake", "marine feature", "topographical feature", "subterranean feature", "island", "inn", "building", "holy site", "road", "infrastructure", "battlefield"
 
 communities:: "neighborhood", "realm", "settlement"
 regions:: "region", "watershed"

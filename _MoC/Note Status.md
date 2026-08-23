@@ -23,7 +23,7 @@ Special note about secrets: If all the information relevant to a page is capture
 
 This is intended to reflect the degree to which a particular person has plans for a thing, or has ideas that might constrain the direction of the thing, implying that they should be consulted regarding any planning involving the note. 
 
-Valid values are mike, tim, player, joint, or none. Typically, `joint` has been used inconsistently and might require some rethinking. 
+Valid values are mike, tim, player, joint, schwartz, kong, eric, isaac, or none. Typically, `joint` has been used inconsistently and might require some rethinking. 
 
 ## Status Tags
 

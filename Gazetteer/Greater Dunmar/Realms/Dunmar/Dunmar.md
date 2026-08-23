@@ -1,17 +1,17 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T19:01:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [place, status/gameupdate/dufr]
 typeOf: realm
 typeOfAlias: theocracy
 created: 1173
 name: Dunmar
-pronunciation: DUN-mar
 aliases: [Dunmari]
+pronunciation: DUN-mar
 whereabouts: Greater Dunmar
 dm_owner: tim
-dm_notes: none
+dm_notes: color
 POV: 1748
 ---
 # Dunmar
@@ -23,7 +23,9 @@ POV: 1748
 
 %%needs to be rewritten to account for division between Sura and Karnas %%
 
-Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands south of the [[Sentinel Range|Sentinels]], bordered by the coast of the [[Nevos Sea]] and the [[Myraeni Gap]] in the west, the [[Sentinel Range]] in the north, and the  barren wastelands of the [[Nashtkar]] and the [[Garamjala Desert]] in the east and south. Founded in DR 1173 by the great leader and first Samraat [[Bhishma]], who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [[Great War]] and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
+%%TIM: mostly quite detailed and complete but some cultural vibes that i might still add %%
+
+Dunmar is an ancient theocratic monarchy stretching more than 700 miles across the central lowlands south of the [[Sentinel Range|Sentinels]], bordered by the coast of the [[Nevos Sea]] and the [[Myraeni Gap]] in the west, the [[Sentinel Range]] in the north, and the barren wastelands of the [[Nashtkar]] and the [[Garamjala Desert]] in the east and south. Founded in DR 1173 by the great leader and first Samraat [[Bhishma]], who is now a goddess and a divine protector of her people, Dunmar survived the turmoil of the [[Great War]] and the upheavals that followed, and now occupies a land much-changed from the fertile grasslands of its founding.
 
 Dunmar was founded on the territory that was formerly the heartland of the [[Drankorian Empire]], but left largely, although not entirely, empty by the [[First Plague]]. The palace and administrative center of the [[Aatmaji Dynasty]], the founding dynasty of Dunmar, was [[Kharsan]] and the [[Kharja]] river valley. When the [[Aatmaji Dynasty]] was ended after a disastrous attempt to invade and cleanse [[Drankor]], after a short period of chaos, the political and cultural center of the country moved west under the [[Dharajun Dynasty]], to the city of [[Tokra]]. Dunmar reached its peak of power and influence during this time, thanks in part to its agricultural wealth (largely in horses and sheep) and overland trade network connecting the east and west. 
 
@@ -66,7 +68,7 @@ The southern and eastern borders of Dunmar are dangerous wildlands. To the south
 
 To the west, Dunmar is bordered by the [[Nevos Sea]], the [[Chataan Mountains]], and the [[Myraeni Gap]], beyond which lie the islands of [[Illoria]], and the [[Chardonian Empire]]. 
 
-To the north, the [[Sentinel Range]] forms the northern, and largely impassable, border of Dunmar, though several passes through the mountains made overland connections with the  [[Greater Sembara]] region and the [[Western Green Sea]].
+To the north, the [[Sentinel Range]] forms the northern, and largely impassable, border of Dunmar, though several passes through the mountains made overland connections with the [[Greater Sembara]] region and the [[Western Green Sea]].
 
 ## History
 
@@ -110,7 +112,7 @@ In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity 
 
 ### Culture
 
-The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [[Dunmari Religion]]. The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [[Dunmari Architecture|Dunmari architectural styles]]. 
+The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [[Dunmari Religion|Five Siblings]]. The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [[Dunmari Architecture|Dunmari architectural styles]]. 
 
 During the Nayan Dynasty, a more sedentary culture has developed on the fertile [[Nayan Floodplains]] and [[Darba Highlands]]. 
 

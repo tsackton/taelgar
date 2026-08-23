@@ -4,6 +4,7 @@ lintedAt: "2026-08-21T10:48:34-04:00"
 lintVersion: "3.4"
 displayDefaults: {defArt: the}
 tags: [place]
+typeOf: waterway
 typeOfAlias: river
 name: Vilna
 pronunciation: VIL-nah

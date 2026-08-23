@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:22:55-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T12:50:50-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Addermarian
@@ -30,9 +30,6 @@ A villager of [[Haldrenn]], child of the charcoal‑maker [[Karl]] and [[Isolde 
 ## Events
 - (DR:: 1715-05-17): [[Addermarch - Session 11|Reported the Hollow Men rhyme]] and the disappearance of [[Rowena]] to [[Addermarch Mercenaries|visitors]] in Haldrenn.
 
-%% DM (PC interactions)
-- Spoke with the Addermarch Mercenaries on arrival to Haldrenn; see [[Addermarch - Session 11]]
-%%
 
 %%^Metadata:names:v1%%
 - {name: Bran, language: Addermarian, pronunciation: BRAHN, status: documented}
