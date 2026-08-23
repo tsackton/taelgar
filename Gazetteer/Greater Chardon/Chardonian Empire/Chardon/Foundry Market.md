@@ -17,7 +17,7 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Foundry Market is a rough-and-tumble, dawn to dusk, daily market in the [[Chalyte Levels]] slums. It occupies a rectangular plaza just inside the western bastion of the [[North Wall (Chardon)|North Wall]]. Dozens of timber-framed stalls cluster in the plaza, canvas roofs patched with sailcloth and cast-off blankets. It serves laborers and nearby residents with stalls selling coarse bread, dried fish, mended clothing, reclaimed firewood, and simple iron tools repaired from refinery scrap. Hiring corners operate at first light, where foremen select day workers for piece-rate tasks in the chalyte refineries nearby. 
+The Foundry Market is a rough-and-tumble, dawn to dusk, daily market in the [[Chalyte Levels]] slums. It occupies a rectangular plaza just inside the western bastion of the [[North Wall (Chardon)|North Wall]]. Dozens of timber-framed stalls cluster in the plaza, canvas roofs patched with sailcloth and cast-off blankets. It serves laborers and nearby residents with stalls selling coarse bread, dried fish, mended clothing, reclaimed firewood, and simple iron tools repaired from refinery scrap. Hiring corners operate most days at dawn, where foremen find day workers for piece-rate tasks in the chalyte refineries nearby. 
 
 %%^Date:1749-06-25%%
 
