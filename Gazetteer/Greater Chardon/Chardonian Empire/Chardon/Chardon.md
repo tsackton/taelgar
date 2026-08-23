@@ -6,6 +6,7 @@ tags: [place, status/review, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 name: Chardon
+pronunciation: "CHAR-din"
 whereabouts:
   - {type: primary, location: Drankorian Empire, end: 1059}
   - {type: primary, location: Chardonian Empire, start: 1545}
@@ -14,6 +15,7 @@ dm_notes: important
 POV: "1749"
 ---
 # Chardon
+*(CHAR-din)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -163,7 +165,7 @@ locations:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Chardon", role: "primary", language: "Chardonian", pronunciation: "KAR-dohn", notes: "Latinate Chardonian reading: ch before a read as hard k and first-syllable stress.", status: "proposed"}
+- {name: "Chardon", role: "primary", language: "Chardonian", pronunciation: "CHAR-din", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -190,9 +192,8 @@ Temporal coverage: through early DR 1749; the visible city description predates 
 - [ ] **Warning — coverage.established_fact_missing:** The visible Government and Key Organizations sections provide no reference account, although [[Chardonian Empire]], [[Great Library]], and [[Session 126 (DuFr)]] establish the core civic structure. Copy-ready candidate: Chardon is governed by the [[Mitus Verina Auratan|Magistros]], who commands the legions and imperial bureaucracy, while the elected [[Curia of 42]] retains authority over chartered monopolies through the [[Chamber of Stamps]]. Civic power also centers on the [[Great Library]], the [[University of Chardon]], the [[Hetaeri Magica]], the [[Society of the Open Scroll]], and the [[Praecanti Vigiles]].
 - [ ] **Suggestion — editorial.public_material_candidate:** The comments beginning `population estimates:` and `rough history of how things got this way` contain coherent, public-safe material absent from the visible article. Copy-ready candidate: About 350,000 people live in the South Bank city proper, roughly 100,000 on the North Bank and around its industrial districts, about 80,000 in southern and eastern faubourgs and suburbs, and around 10,000 on estates east of [[Mount Nera]]. The North Bank’s industrial role grew after the [[Fall of Drankor]], when the city claimed former legionary land, divided it into taxed wards, and funded waterworks for mills; the northern walls and barracks followed during the Blood Years, and many barracks later became worker housing as chalyte refineries replaced older mills. South of the river, suburbs outside the old walls grew during the long peace, some were incorporated during the Great War, while later estates retained privileges that kept newer settlements outside city government.
 - [ ] **Suggestion — editorial.shared_material_redundant:** The hidden Trade and Economy comment repeats the visible overview’s trade, magic, and chalyte claims while adding two distinct development prompts. Candidate: remove the repeated summary from the comment and retain only the unsourced prompts about widespread chalyte-powered conveniences and long-distance ocean routes until they are sourced or adopted.
-- [ ] **Warning — metadata.map_location_missing:** The settlement’s `Metadata:map:v1` block still has a blank `locator`. Fill it from the authoritative map; do not guess a coordinate.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent `Chardon — KAR-dohn` name entry remains `status: proposed`. Review the Chardonian/Latinate derivation; if accepted, copy the pronunciation to frontmatter and update the entry’s status, or correct the proposal.
-
+- [x] **Warning — metadata.map_location_missing:** The settlement’s `Metadata:map:v1` block still has a blank `locator`. Fill it from the authoritative map; do not guess a coordinate.
+- [x] **Warning — metadata.names_unresolved_status:** The persistent `Chardon — KAR-dohn` name entry remains `status: proposed`. Review the Chardonian/Latinate derivation; if accepted, copy the pronunciation to frontmatter and update the entry’s status, or correct the proposal.
 
 ### DM evidence
 - [[_DM_/Brainstorming/Short Adventure Ideas (2025-2026)]]
