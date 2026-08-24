@@ -27,7 +27,10 @@ Juliana Westby is the young lady of [[Cranford]]. She inherited the position aft
 
 This incident was one of several significant fey incursions into the [[Barony of Aveil]] during the winter of 1720, and concern around these fey incursions is said to have motivated [[Elaine II]] when she appointed [[Cadfael de Dufferin]], from [[Tyrwingha]], as the baron of [[Barony of Aveil|Aveil]].
 
+%%^Metadata:names:v1%%
+- {name: Juliana Westby, role: primary, language: Sembaran, pronunciation: joo-lee-AN-uh WEST-bee, status: documented}
+%%^End%%
+
 %%^povNotes:v1%%
 Temporal coverage: a DR 1720 post-undead-attacks snapshot centered on the Cranford suitor-murder investigation; earlier and later life are not described.
 %%^End%%
-

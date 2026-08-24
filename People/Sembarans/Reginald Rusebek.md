@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/lint]
+tags: [person, status/check/mike]
 species: human
 ancestry: Sembaran
 title: Baron
@@ -31,6 +31,10 @@ Reginald Rusebek was charged with treason & murder in February 1719. He was said
 At least partially to appease the halflings, the whole family was declared unable to inherit, and the Rusebeks mostly ended up leaving Sembara for Maseau.
 
 In the summer of 1720, during the trial of [[Isabeau D'Aslain]] for necromancy and treason, significant evidence came to light suggesting that in fact, Reginald was framed for these crimes, and he true crime was being suspicious of Isabeau. Despite this, the Rusebeks remained settled in [[Duchy of Maseau|Maseau]] and did not sue to reclaim their legitimacy.
+
+%%^Metadata:names:v1%%
+- {name: Reginald Rusebek, role: primary, language: Sembaran, pronunciation: REJ-uh-nuhld ROOZ-bek, status: documented}
+%%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a retrospective account of the DR 1719 charges, execution, and resulting disinheritance and dispersal of the Rusebek family; later family history is not described.

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: petrified}
-tags: [person, status/cleanup/metadata]
+tags: [person, status/cleanup/text]
 species: human
 ancestry: Chardonian
 campaignInfo:
