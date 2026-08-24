@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/lint]
+tags: [person]
 species: human
 ancestry: Mazeanne
 born: 1705-03-15
@@ -15,6 +15,7 @@ whereabouts:
 knownTo: [clee]
 dm_owner: mike
 dm_notes: none
+pronunciation: BAL-thuh-zahr
 POV: 1720
 ---
 # Balthazar
@@ -31,24 +32,17 @@ He recently acquired an odd egg from [[Viepuck|Viepuck's]] patron and has become
 Since [[Pyravela]] he has spent a lot of time on [[Char Street]] begging various food merchants for spoiled and otherwise discarded food. He seems to be looking for something, but he won't tell anyone, even [[Viepuck]], what it is. That said, he is always happy to run errands or otherwise help out, especially for a coin or two. He seems to be pretty good at slipping through crowds, and is extremely bright, if somewhat weak and still more sickly and frail than he really should be.
 %%^End%%
 
+%%
+Although a minor NPC, he almost certainly participated in some way in the [[Undead Attacks in Sembara]] and the fallout from the disruption they caused; what impact this had on his life is not determined here. Similarly, he was on a path to becoming a warlock of the same patron as [[Viepuck]]. Whether he succeeded and what this means for his character growth is not recording.
+
+He was rescued by the [[Heroes of Cleenseau]] so invention of his post-rescue fate should be reserved.
+%%
+
+
 %%^Metadata:names:v1%%
 - {name: Balthazar, role: primary, language: unknown, pronunciation: BAL-thuh-zahr, notes: "Cautious spelling-based reading; no stronger language or pronunciation evidence was found.", status: proposed}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1720 portrait following Balthazar's rescue from Wakog's Camp and resettlement in Cleenseau; his earlier life and later development are not recorded.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `Balthazar — BAL-thuh-zahr` from a cautious spelling-based reading because no stronger language or pronunciation evidence was found. Candidate: review the reading, then add `pronunciation: BAL-thuh-zahr` to frontmatter and mark the entry documented, or correct the proposal.
 %%^End%%
