@@ -48,9 +48,9 @@ The Istaros has many names. To the original Drankorians, the refugees from [[Hka
 
 %%^Metadata:names:v1%%
 - {name: Istaros, role: primary, language: Common, pronunciation: ISS-tah-rohs, derivedFrom: Aistanë, status: documented, notes: Likely corruption of the Elvish form.}
-- {name: Aistanë, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, notes: Name form and pronunciation recorded in the visible article's name history., status: documented}
-- {name: Drogar, language: Orcish, pronunciation: droh-GAHR, notes: Name form and pronunciation recorded in the visible article's name history., status: documented}
-- {name: Mahar, language: Dunmari, pronunciation: mah-HAHR, notes: Name form and pronunciation recorded in the visible article's name history., status: documented}
+- {name: Aistanë, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, status: documented}
+- {name: Drogar, language: Orcish, pronunciation: droh-GAHR, status: documented}
+- {name: Mahar, language: Dunmari, pronunciation: mah-HAHR, status: documented}
 %%^End%%
 
 %%^Metadata:map:v1%%
