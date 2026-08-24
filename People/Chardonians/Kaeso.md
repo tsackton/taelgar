@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/text, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 born: 1691
@@ -20,7 +20,7 @@ whereabouts:
   - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ""}
 knownTo: [mawar, dufr]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1749
 ---
 # Kaeso
@@ -31,89 +31,21 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% clean up campaign info and text, add image, copy various notes from Kenzo brainstorming in DM folder %%
-![[kaeso.png|right|400]]
-[[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
+![[kaeso.png|right|400]]Kaeso is a well-traveled Chardonian scholar and practical magician, and a  friend and mentor to [[Kenzo]] of the [[Dunmar Fellowship]]. In his late fifties, he has a lively face, scraggly black hair, and olive skin; he prefers simple, functional dress. Though graying patches of hair and care-worn lines on his face show signs of his age, he maintains a youthful energy, and speaks  emphatically with his hands. 
+## Background
+Kaeso was born and raised in Chardon, and studied under [[Roscelia]] at the [[Faculty of Magic]] in the [[University of Chardon]] as a youth. He was never the most talented student, but his steady persistence carried him through university. Kaeso was not drawn to the academic life, and soon left Chardon to travel widely, passing through [[Dunmar]], [[Karawa]], and many other places. %%^Campaign:dufr%%Here, he was initiated into the [[Shakun Mystai]], a secret only other initiates can learn.%%^End%%
 
-Secretly a member of the [[Shakun Mystai]]. 
+He returned to Chardon in his thirties, convinced that the exploitation and commercialization of magic he saw throughout Chardon, but most especially in the [[Chalyte Oligarchs of Chardon|Chardon chalyte trade]], was wrong. He refused to share the magical knowledge he had learned on his travels with the [[Society of the Open Scroll]], earning him expulsion, though he maintained cordial relationships with some individuals, including [[Roscelia]]. During this time, he met [[Kenzo]], a child at the time, and took him in, devoting much of his time to protecting and teaching him. He also began corresponding with others concerned that many in Chardon, including the political and academic establishments, were far too cavalier about the harms and dangers of the chalyte trade. 
 
-%% One Note
-
-## Two-Note Summary
- 
-**Purpose:** ally to Kenzo, information-giver and supporter  
-**Trait (Value):** The exploitation and commercialization of magic in Chardon is a mistake. This manifests both in his doubts about the Society of the Open Scroll and its mission to learn everything about everything; and in his concern about the influence of chalyte on the imperial side of things.
- 
-Kenzo's mentor/patron/protector in Chardon. Lives in the Panemsgate neighborhood, south of the [[Kylos Market]].
- 
-Trained at the university, including higher learning from the [[faculty of Magic]], but never a great caster [he is probably something like a level 3-5 melee bard], more an adventurer type, "practical magician". After his training, left to seek knowledge elsewhere, eventually ending up in Karawa and joining the Shakun Mystai.
- 
-When he returned, he refused to speak of his travels, holding is oath to the Mystai sacred. Was expelled from the Society of the Open Scroll for this, and left the academy, although retains some old contacts, especially his master from his university days, Roscelia.
- 
-## Appearance
- 
-In his late 50s - some wrinkles but still a lively face, scraggly black hair, and a few day's stubble. Olive skin, plain dress.
- 
-## Mannerisms
- 
-Uses his hands a lot - for emphasis, also to pull people close, create space.
- 
-## Motives
- 
-He is fully on Kenzo's side, just wants him to thrive. Has already burned most of his bridges in the academy so not concerned about burning more.
- 
-He still respects some people in the Society and especially at the University, but can't agree with the combination of arrogance and passivity - wishes the Hetaeri Magica and others would take a more active role against the chalyte trade, instead of just looking down on it. Even maybe helping those who burn themselves out using it, doing something to stop overdoses and deaths.
- 
-But these days his focus and concern is really on the political side of things -- control of the chalyte trade consolidated under the Auratan family has given them too much power.
-
-%%
-
-%%
-AI NPC proposal - Mawar review, 2026-05-07
-
-Proposed whereabouts/metadata updates:
-- Existing whereabouts already places Kaeso in [[Hamri]] starting DR 1748-10-12. Consider confirming this line through at least DR 1749-05-26, since Mawar Episode 05 lists him as a Chardonian scholar recently staying in Hamri.
-- Add campaignInfo for Delwath's later February DR 1749 scrying: Kaeso is seen with [[Yaz]] on a tower overlooking stormy ocean, and later in a cozy rented room or lodging.
-- Add campaignInfo or a note for Mawar Episode 05 if you want Mawar visibility distinct from DuFr scrying.
-
-Proposed text updates:
-- Add Mawar-side text from the Ep05 intro draft: Kaeso arrived in Hamri at the start of October DR 1748, brought warnings about Chardon's greed for magic and chalyte overuse, and spent long evenings talking with [[Wazir]].
-- Add that he was distressed by news from Dunmar during the winter of DR 1748-1749, but later said Dunmar held.
-- Keep deeper Kenzo/Shakun Mystai material in DM notes or carefully player-facing sections, depending on what Kaeso has revealed in play.
-
-Source links:
-- [[Mawar Adventures Episode 05]]
-- [[Mawar Ep 5 - Intro Draft]]
-- [[Scrying Delwath Oct 21]]
-- [[Scrying Delwath Tollen Downtime]]
-- [[Yaz]]
-- [[Wazir]]
-%%
+%%^Date:1749-06-01%%
+## Recent Events 
+Kaeso reconnected with his old student, [[Kenzo]], in Chardon on (DR::1748-08-21), overjoyed to see him thriving. Soon after, the [[Dunmar Fellowship]] were attacked by [[Fausto]] and fled [[Fausto's Tower|his tower]]. Kaeso learned he was going to be invited to [[Fausto's Tower]] for questioining in connection with this incident, and chose to flee the city instead. By October 1748, he had made his way to [[Hamri]]. He has lived in exile here, staying at the [[Leviathan Inn]] on [[Wazir]]'s invitation, since then, waiting for the situation in [[Chardon]] to shift. 
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Kaeso, role: primary, language: Chardonian, pronunciation: KAI-soh, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a late-1748 to DR 1749 snapshot; the visible biography is general, while whereabouts and campaign records place Kaeso in Hamri from October 1748 through at least May 1749.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- The existing `POV: 1749` and `povNotes` remain supported: the visible biography is general, while campaign and whereabouts evidence place Kaeso in Hamri from October DR 1748 into DR 1749.
-- Non-check status disposition: `status/cleanup/text` is supported by the unresolved hidden characterization and source-grounded coverage work; `status/cleanup/metadata` is not assessable because it records human cleanup intent and the current lint found no deterministic metadata defect. Neither tag was changed.
-
-### Editorial assessment
-**Underdeveloped**. Kaeso is an important mentor and recurring ally, but the visible reference article omits the anti-chalyte conviction that drives his established DR 1748 role. The smallest useful scope is one source-grounded paragraph explaining that position; the hidden public-safe characterization can then be considered as a separate bounded addition.
-
-### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** [[Session 48 (DuFr)]] establishes that Kaeso opposed the Auratan family's control of the chalyte trade and believed chalyte abuse could burn away a user's soul, but this central motivation is absent from the visible biography. Copy-ready candidate: `In DR 1748, Kaeso warned the [[Dunmar Fellowship]] that the Auratan family's control of the chalyte trade had given it dangerous influence, and that overuse of [[Chalyte|chalyte]] could burn away a user's soul.`
-- [ ] **Suggestion — editorial.public_material_candidate:** The hidden `One Note` comment contains a coherent public-safe characterization—Kaeso's appearance, emphatic hand gestures, loyalty to [[Kenzo]], and opposition to institutional passivity—that is absent from the visible article, alongside private mechanics that should remain hidden. Copy-ready candidate: `In his late fifties, Kaeso has a lively, lined face, scraggly black hair, a few days' stubble, olive skin, and plain dress. He speaks emphatically with his hands and remains fiercely loyal to [[Kenzo]], wanting above all to see his former student thrive. He distrusts the academic establishment's arrogance and passivity, especially its unwillingness to confront the harms of the chalyte trade.` Retain the private mechanics and unresolved planning in the comment unless a human reorganizes them.
-- [x] **Warning — metadata.names_unresolved_status:** The persistent Kaeso name entry remains `status: proposed` with `KAI-soh`, while its notes identify `KAY-zoh` as an alternative under the Chardonian analogue. Human resolution is required: accept one pronunciation by adding it to frontmatter and changing the entry to `status: documented`, or revise the proposal and its derivation.
+Temporal coverage: a late-1748 to May DR 1749 snapshot; the visible biography is general, while whereabouts and campaign records place Kaeso in Hamri from October 1748 through at least May 1749.
 %%^End%%
