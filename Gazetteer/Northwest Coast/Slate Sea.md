@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
-tags: [place, status/stub, status/check/lint]
+tags: [place]
 typeOf: marine feature
 typeOfAlias: bay
 name: Slate Sea
@@ -16,9 +16,9 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%
-The large bay north of the [[Mawakel Peninsula]] along the west coast
+The Slate Sea is the large bay north of the [[Mawakel Peninsula]] along the west coast.
 
+%%
 From old geo doc: where the largest concentration of the original “west northlanders” who still live on the mainland live
 
 Naming: the exact reason it is called the Slate Sea is left unclear right now. 
@@ -51,6 +51,6 @@ Temporal coverage: broadly modern geography; the available evidence establishes 
 - Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
 
 ### Open findings
-- [ ] **Suggestion — editorial.public_material_candidate:** The opening shared sentence is a coherent public-safe geographic description, while the remaining cultural and naming ideas stay speculative. Candidate: `The Slate Sea is the large bay north of the [[Mawakel Peninsula]] along Taelgar's west coast.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The opening shared sentence is a coherent public-safe geographic description, while the remaining cultural and naming ideas stay speculative. Candidate: ``
 - [ ] **Suggestion — editorial.note_underdeveloped:** The reference note has no visible article text and therefore does not currently perform even its bounded marine-feature role. Resolve this by adopting or revising the one-sentence public candidate above; additional expansion is optional.
 %%^End%%
