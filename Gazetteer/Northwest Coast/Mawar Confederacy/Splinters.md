@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-23T23:55:52-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
 tags: [place]
-displayDefaults: {defArt: "the"}
-name: Splinters
-aliases: [Splinters]
 typeOf: region
 typeOfAlias: island chain
-whereabouts: 
-- {type: secondary, location: Hamri, linkText: "offshore from", startFilter: "1"}
-- {type: primary, location: Mawakel Peninsula}
-dm_notes: none
+name: Splinters
+aliases: [Splinters]
+whereabouts:
+  - {type: secondary, location: Hamri, linkText: offshore from, startFilter: "1"}
+  - {type: primary, location: Mawakel Peninsula}
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Splinters
 >[!info]+ Information  
@@ -21,3 +24,11 @@ The Splinters are a chain of small, rocky islands near [[Hamri]]. There are few 
 ## Azar's Lair
 
 In DR 1747, [[Azar the Lost]] kept a lair in the Splinters while carrying out his attempts to restore his drowned wife [[Nadine]] and their sons. After the fight at [[Hamri#The Shark's Dock|Shark's Dock]], the [[Adventurers of Mawar]] searched the lair, destroyed two more drowned servants, and found [[Sefa]] dead there.
+
+%%^Metadata:names:v1%%
+- {name: Splinters, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography, with Azar's use of the islands dated to DR 1747.
+%%^End%%

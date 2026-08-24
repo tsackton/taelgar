@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/gameupdate/gl]
-name: Northern Provinces
-whereabouts: 
-- {type: primary, location: Chardonian Empire }
-- {type: secondary, location: Northwest Coast }
+lintedAt: "2026-08-24T09:25:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/gameupdate/gl, status/check/lint]
 typeOf: realm
 typeOfAlias: group of provinces
-dm_notes: none
+name: Northern Provinces
+whereabouts:
+  - {type: primary, location: Chardonian Empire}
+  - {type: secondary, location: Northwest Coast}
 dm_owner: tim
+dm_notes: none
+POV: 1740s
 ---
 # The Northern Provinces
 >[!info]+ Information  
@@ -104,4 +107,29 @@ Relatively little is canonically developed about the politics and imperial organ
 
 **Rule of thumb:** expect the upriver leg to take **about 60 % longer** than drifting downstream, and budget an extra buffer day for every 200 river-miles in spring when melt-flows run strongest.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Northern Provinces, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a pre-DR 1752 view of the Northern Provinces as part of the Chardonian Empire; their later separation is not incorporated.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added persistent name metadata; the plain-English descriptive title does not require a pronunciation.
+- Recorded a 1740s POV and its pre-DR 1752 temporal interpretation.
+
+### Validated judgments
+- `status/gameupdate/gl` is not assessable until the human decides whether to update the article through the DR 1752 separation, defer the update, or preserve the earlier snapshot; the tag was preserved unchanged.
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** The opening still defines the Northern Provinces as provinces of the [[Chardonian Empire]], but [[Great Library Session Notes - Arc 5]] establishes that they had split from the empire by DR 1752 amid chaos in [[Voltara]]. Human choice: update the article and its `POV`/`povNotes` through a chosen later date; defer the update and retain `status/gameupdate/gl`; or intentionally preserve the pre-1752 snapshot and then review the game-update tag. Copy-ready update if the later state is adopted: `By DR 1752, the Northern Provinces had separated from the [[Chardonian Empire]] amid political upheaval in [[Voltara]]; the available record does not yet establish their new political organization or boundaries.`
+- [ ] **Suggestion — editorial.public_material_candidate:** The first hidden `Campaign:none` block mixes unresolved border and defense planning with a coherent public-safe account of the transport network that explains how the frontier's chalyte economy connects to Chardon. Consider adopting only this bounded subset: `The province's major trade road runs south from [[Voltara]] to [[Lake Valandros]], where chalyte and other goods continue toward [[Chardon]] by lake and river. A second route runs west to the coast, continuing toward Chardon either by sea around [[Mawar]] or overland along the [[Tawir Forest]] and the [[Mawar Mountains]].` Retain the unresolved province counts, western border, and causal explanations in the hidden block.
 %%^End%%

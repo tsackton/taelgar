@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T19:47:35-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: stoneborn
 gender: male
@@ -30,9 +30,9 @@ POV: 1748
 Ken-to is a stoneborn monk and mystic who lives in an isolated hut, high in the [[Yuvanti Mountains]] west of [[Tharn Todor]]. 
 
 %%^Metadata:names:v1%%
-- {name: Ken-to, role: primary, language: Stoneborn, pronunciation: KEN-toh, status: documented.}
+- {name: Ken-to, role: primary, language: Stoneborn, pronunciation: KEN-toh, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a narrow DR 1748 campaign portrait around Ken-to's warning about the celestial meteor and the danger in the Yuvanti Mountains; earlier and later life are not described.
+Temporal coverage: a DR 1748 portrait of Ken-to as an isolated monk in the Yuvanti Mountains; earlier and later life are not described.
 %%^End%%

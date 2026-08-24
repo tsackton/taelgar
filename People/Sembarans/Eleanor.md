@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
-tags: [person, status/gameupdate/clee, status/check/lint, status/check/mike]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+tags: [person, status/gameupdate/clee, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: female
@@ -35,13 +35,14 @@ Temporal coverage: an early DR 1720 portrait during Eleanor's advanced illness; 
 %%^Lint%%
 ## Taelgar note lint
 
+### Applied changes
+- None.
+
 ### Validated judgments
-- Editorial sufficiency: **Sufficient**.
-- Non-check status disposition: `status/gameupdate/clee` is not assessable pending the open temporal or coverage choice; no status was changed.
+- [[Cleenseau - Session 11]] and [[El's Story]] establish only an attempted DR 1720 healing, not an outcome or durable change; under the campaign-event coverage filter, the attempt alone does not require reference-note coverage.
+- Non-check status disposition: `status/gameupdate/clee` is not assessable because the healing outcome remains unknown; no status was changed.
 
 ### Open findings
 
-- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Session 11]] and [[El's Story]] establish that Robin attempted to heal Eleanor in DR 1720, but do not establish the outcome. Choose a bounded treatment: add the attempted healing while preserving the uncertain outcome; retain the current pre-outcome snapshot with `status/gameupdate/clee`; or update the present-state prose if another source establishes what happened.
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment says Eleanor's mother came from the [[Barony of Vaubonne]]. This is a specific public-safe adoption candidate but is not independently established elsewhere. Copy-ready candidate if adopted: `Eleanor's mother was originally from the [[Barony of Vaubonne]].`
-
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment states that Eleanor's mother came from the [[Barony of Vaubonne]]. This is a specific public-safe adoption candidate, but no independent reviewed source establishes it. Copy-ready candidate if adopted: `Eleanor's mother was originally from the [[Barony of Vaubonne]].`
 %%^End%%

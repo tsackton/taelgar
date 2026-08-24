@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: fae
 gender: male
@@ -24,7 +24,7 @@ POV: 1715
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Rescued by the [[Addermarch Mercenaries]] on May 18th, 1715 in the [[Feywild]] %%^End%%
 
-Vaelithar is a fae from [[Twilight's Edge]], companion of [[Liraene]], who escaped the clutches of a corrupted Singing Tree in DR 1715, with the aid of the [[Addermarch Mercenaries]]. 
+Vaelithar is a fae from [[Twilight's Edge]] who escaped the clutches of a corrupted Singing Tree in DR 1715 with the aid of the [[Addermarch Mercenaries]]. His companion, [[Liraene]], died before she could be rescued, trapped by the corrupted tree. 
 
 %%^Metadata:names:v1%%
 - {name: Vaelithar, role: primary, language: Sylvan, pronunciation: VAY-lih-thar, status: documented}

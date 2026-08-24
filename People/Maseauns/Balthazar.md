@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Mazeanne
 born: 1705-03-15
@@ -43,10 +43,12 @@ Temporal coverage: a DR 1720 portrait following Balthazar's rescue from Wakog's 
 ## Taelgar note lint
 
 ### Applied changes
-- Added `knownTo: [clee]` from the Cleenseau campaign record and added the persistent name and temporal metadata.
+- None.
+
+### Validated judgments
+- No additional validated judgments.
 
 ### Open findings
 
 - [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `Balthazar — BAL-thuh-zahr` from a cautious spelling-based reading because no stronger language or pronunciation evidence was found. Candidate: review the reading, then add `pronunciation: BAL-thuh-zahr` to frontmatter and mark the entry documented, or correct the proposal.
-
 %%^End%%

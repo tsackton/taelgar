@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-aliases:
-  - Firepeaks
-name: Fiatara Mountains
+lintedAt: "2026-08-23T23:55:52-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: topographical feature
+typeOfAlias: mountain range
+name: Fiatara Mountains
+aliases: [Firepeaks]
+pronunciation: fya-TAH-rah
 whereabouts: Northwest Coast
 dm_owner: tim
 dm_notes: none
-pronunciation: fya-TAH-rah
-typeOfAlias: mountain range
+POV: modern
 ---
 # The Fiatara Mountains
 *(fya-TAH-rah)*
@@ -26,7 +27,7 @@ The mountains trend generally north–south, forming a barrier between coastal f
 
 ## Notable Peaks and Sites
 
-- [[Goldpeak Mountain]]: The southernmost major peak with extensive [[Deeprivers|Deepriver Clan]] workings beneath, forming the extensive linked shafts and deep caverns of the [[Goldpeak Mines]].
+- [[Goldpeak Mountain]]: One of the southernmost major peaks, with extensive [[Deeprivers|Deepriver Clan]] workings beneath that form the linked shafts and deep caverns of the [[Goldpeak Mines]].
 - [[Blacksilver Peak]]: A prominent summit in the northern part of the range, often wreathed in storms. Ancient Dwarven approaches lead to a cave system and the so‑called “Endless Stair” rising through the heart of the mountain; legends tie this route to access for [[Airion's Floating Tower]].
 
 ## Environment and Travel
@@ -45,3 +46,14 @@ Campaign Notes (GL)
 - DR 1747‑07‑19 → 07‑25: Expedition to [[Blacksilver Peak]]. Approach across the plains included hobgoblin patrols, a frost giant with remorhaz, basilisks, and a troll lair at the cave entrance. A giant eagle aided passage to the old Dwarven road. The “Endless Stair” climbed within the mountain, passing a collapsed section, a broken waystation with black puddings, and emerging to glacier country en route to [[Airion's Floating Tower]].
 - Later arc: Deep levels under Goldpeak were held by the beholder [[Vilaxes]] (dolgaunt minions, alarm gongs, gas‑spore/pit trap, explosive glyphs, corrupted minotaurs). Central sanctum featured a grotesque treasure‑melted idol and assorted potions and items.
 %%
+
+%%^Metadata:names:v1%%
+- {name: Fiatara Mountains, language: Chardonian, pronunciation: fya-TAH-rah, derivedFrom: Fiam Tara, notes: Softened from the ancient Drankorian form by Chardonian mapmakers, status: documented}
+- {name: Fiam Tara, role: historical, language: Drankorian, meaning: Fire Crest, status: documented}
+- {name: Firepeaks, role: alias, language: unknown, notes: Used by common folk of Voltara, status: documented}
+- {name: Khûldram, role: historical, language: Dwarven, pronunciation: KOOL-drahm, meaning: Crown of Hidden Fire, notes: Abandoned Dwarven name; pronunciation recorded in the article's Names section, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the Great War abandonment of the Dwarven workings is historical background rather than a narrower speaking point.
+%%^End%%

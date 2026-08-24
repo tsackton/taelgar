@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags:
   - place
   - status/check/mike
+  - status/check/ai
 name: Lavnoch Plateau
 aliases:
   - Lavnoch

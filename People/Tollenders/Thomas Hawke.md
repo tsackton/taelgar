@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Tollender
@@ -25,11 +25,11 @@ POV: 1748
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
-![[thomas-hawke.png|right|400]]Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [[University of Tollen]], recognized more for his dramatic flair than his academic pursuits. He is a handsome man in his early-to-mid 30s, well-dressed and exuding confidence.
+![[thomas-hawke.png|right|400]]Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [[University of Tollen]], recognized more for his dramatic flair than his academic pursuits. He is captivated by the allure of legends and tales, and has a passion for stories he can borrow from for his plays. Tales from distant lands, in particular, can be guaranteed to catch his attention and ensnare his interest.
 
-Born and raised in [[Tollen]], Thomas Hawke is an ambitious scholar at the [[University of Tollen]]. While he holds a lectureship in rhetoric, his true passion leans more towards drama than academia. He is captivated by the allure of legends and tales, and has a passion for stories he can borrow from in his plays. His work, notably the locally famous play "[[Luminastra's Gift]]," has showcased his potential and marked him as an influential figure in the theatrical world.
+His work, notably the locally famous play "[[Luminastra's Gift]]," has showcased his potential and marked him as an influential figure in the theatrical world.
 
-Hawke's fascination with legends and tales is well-known; he is always seeking the most exotic tales and stories as fodder for his plays. Tales from distant lands, in particular, can be guaranteed to catch his attention and ensnare his interest. 
+Born and raised in [[Tollen]], he is a handsome man in his early-to-mid 30s, well-dressed and exuding confidence.
 
 %%^povNotes:v1%%
 Temporal coverage: approximately DR 1748–1752. The exact year is not material, but the description assumes Hawke is in his early-to-mid thirties and established at the University of Tollen; the direct meeting occurred in late DR 1748.

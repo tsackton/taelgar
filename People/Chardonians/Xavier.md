@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Chardonian
@@ -26,7 +26,7 @@ A childhood friend of [[Kenzo]]'s, Xavier lost his father to a refinery accident
 
 He lives with his mother, [[Francisca]], and sister, [[Adina]], in a small apartment near the [[Foundry Market]]. Like many of the dwellings in the [[Chalyte Levels]], it is a small, cramped place, in a building that once housed a smithy but now has been converted to tenements. Xavier and his family live in a small room with a sleeping area with two straw mats, and a hearth, and not much more. A few stools and a low bench by the wall provide seating; a chest pushed under the bench stores the family's few possessions, mostly sewing material. There is only a single small window, with wooden shutters. 
 
-%%^Date:1749-06-27%% During the [[Chardon Chalyte Riots]], Xavier served as hired muscle for the [[Eightfold Flame]]. He helped [[Kenzo]] and the [[Dunmar Fellowship]] connect with [[Eightfold Flame]] leaders, introducing them to [[Andros]] and other resistance leaders at [[The Cackling Swan]]. %%^End%%`
+%%^Date:1749-06-27%% During the [[Chardon Chalyte Riots]], Xavier served as hired muscle for the [[Eightfold Flame]]. He helped [[Kenzo]] and the [[Dunmar Fellowship]] connect with [[Eightfold Flame]] leaders, introducing them to [[Andros]] and other resistance leaders at [[The Cackling Swan]]. %%^End%%
 
 %% Vibes during the riots:
 Xavier often hangs around these days. Begging is useless with so many poor, and there is never any work, unless he is contacted by Andros for a brawl. He helps with small jobs around the room, but often just idles.

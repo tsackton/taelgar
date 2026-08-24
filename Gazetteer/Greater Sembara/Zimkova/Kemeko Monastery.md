@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: building
 typeOfAlias: monastery
 ancestry: kenku
@@ -39,18 +39,4 @@ Blood feathers, rituals, in the Chasm because no one bothers them there, not bec
 
 %%^povNotes:v1%%
 Temporal coverage: describes the monastery as encountered for the Into the Chasm campaign in DR 1730. Its Great War-era foundation is approximate, while the visible location and function are a campaign-era snapshot.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- The shared Campaign:none block was reviewed; its bounded public-safe founding and purpose statement is separable from the remaining speculative architecture, ritual, and adventure guidance.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.public_material_candidate:** The Campaign:none block gives a coherent public-safe account of the monastery's founding era and purpose that is absent from the visible article. Candidate: `Founded during or shortly after the [[Great War]], Kemeko preserves the martial tradition of [[Aerin]].` If adopted, retain the provisional architecture, blood-feather ritual, and adventure-facing location rationale inside the private block rather than promoting them with this sentence.
 %%^End%%

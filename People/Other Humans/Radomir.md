@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Urskan
@@ -11,9 +11,9 @@ name: Radomir
 pronunciation: ra-duh-MEER
 whereabouts:
   - {type: home, location: Ursk}
-  - {type: away, start: 1731, end: 1735, location: Far North, alias: "fleeing Ursk across the Far North"}
+  - {type: away, start: 1731, end: 1735, location: Far North, alias: fleeing Ursk across the Far North}
   - {type: away, start: 1735, end: 1736, location: Sentinel Range, alias: Sentinels}
-  - {type: away, start: 1736, end: 1741, location: Far North, alias: "fleeing Ursk across the Far North"}
+  - {type: away, start: 1736, end: 1741, location: Far North, alias: fleeing Ursk across the Far North}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
@@ -26,7 +26,7 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Radomir is an Urskan man who is principly notable for having found a [[Jade Piece of Rai's Hand|strange piece of jade]] on the edge of vast glacier in the [[Yengorza Mountains]]. He carried this item for several years, but it haunted his dreams, and eventually he fled [[Ursk]], looking for a way to destroy it. After many years of travel, the tales of which are largely lost, he ended up back in Ursk. By DR 1749, Radomir was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz, who had taken the jade from him. He had little contact with anyone, although his sister Yelena sometimes brought medicine.
+Radomir is an Urskan man who is principally notable for having found a [[Jade Piece of Rai's Hand|strange piece of jade]] on the edge of a vast glacier in the [[Yengorza Mountains]]. He carried this item for several years, but it haunted his dreams, and eventually he fled [[Ursk]], looking for a way to destroy it. After many years of travel, the tales of which are largely lost, he ended up back in Ursk. By DR 1749, Radomir was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz, who had taken the jade from him. He had little contact with anyone, although his sister Yelena sometimes brought medicine.
 
 His ultimate fate is unknown. One tale of his adventures is recorded below. 
 

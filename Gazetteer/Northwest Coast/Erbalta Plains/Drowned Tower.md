@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Drowned Tower
+lintedAt: "2026-08-23T23:55:52-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: building
-subTypeOf:
+subTypeOf: null
+typeOfAlias: ruined tower
+name: Drowned Tower
 whereabouts: Erbalta Plains
 dm_owner: none
 dm_notes: none
-typeOfAlias: ruined tower
+POV: modern
 ---
 
 # The Drowned Tower
@@ -40,4 +42,24 @@ More DM notes in the `_dm_notes` folder
 
 %%
 
- 
+%%^Metadata:names:v1%%
+- {name: Drowned Tower, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the tower's ancient origins are undated, and the visible article does not incorporate its DR 1747 expedition.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added supported name and temporal POV metadata.
+
+### Validated judgments
+- The obvious English title does not require a pronunciation; the shared campaign comment remains a source dossier rather than public article prose.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** [[Great Library Session Notes - Arc 1]] and [[Deepwater Scroll]] establish the tower's defining DR 1747 expedition, including the cleansing of its corrupted fountain and recovery of the scroll, but the visible article omits that later history. Copy-ready candidate: "In DR 1747, an expedition from the [[Great Library]] cleansed the tower's corrupted fountain and recovered the [[Deepwater Scroll]] from a hiding place anchored in the [[Elemental Plane of Water]]."
+%%^End%%

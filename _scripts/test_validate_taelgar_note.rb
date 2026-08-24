@@ -29,28 +29,37 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal "3.4", TaelgarNoteLint::POV_REVIEW_VERSION
   end
 
-  def test_adopted_governance_records_editorial_sufficiency_lifecycle
+  def test_adopted_specification_records_semantic_lifecycle
     specification = File.read(File.join(__dir__, "..", "_MoC", "Taelgar Note Linter.md"))
-    skill = File.read(File.join(__dir__, "..", ".agents", "skills", "lint-taelgar-note", "SKILL.md"))
 
     ["Sufficient", "Sufficient, worth expanding", "Underdeveloped"].each do |verdict|
       assert_includes specification, verdict
-      assert_includes skill, verdict
     end
     assert_includes specification, "**Sufficient, worth expanding** is a handoff-only verdict."
     assert_includes specification, "By itself, it cannot create a Lint block, `status/check/lint`, or an editorial finding."
     assert_includes specification, "Does the visible note currently perform its reference role without a central gap?"
     assert_includes specification, "`editorial.note_underdeveloped`"
-    assert_includes skill, "`editorial.note_underdeveloped`"
-    assert_includes skill, "uncertainty after the mechanical screen favors inclusion"
+    assert_includes specification, "`editorial.reference_voice`"
+    assert_includes specification, "Worldbuilding discussion routing"
+    assert_includes specification, "A party visit, conversation, purchase, overnight stay, routine encounter"
+    assert_includes specification, "## Taelgar note lint"
+    assert_includes specification, "### Applied changes"
+    assert_includes specification, "### Validated judgments"
+    assert_includes specification, "### Open findings"
+  end
+
+  def test_skill_records_operational_lint_contract
+    skill = File.read(File.join(__dir__, "..", ".agents", "skills", "lint-taelgar-note", "SKILL.md"))
+
+    assert_includes skill, "../../../_MoC/Taelgar Note Linter.md"
+    assert_includes skill, "ruby _scripts/validate_taelgar_note.rb"
+    assert_includes skill, "ruby _scripts/lint_taelgar_notes.rb prepare"
+    assert_includes skill, "ruby _scripts/lint_taelgar_notes.rb finalize --write"
     assert_includes skill, "`gpt-5.6-sol` with `xhigh` reasoning"
     assert_includes skill, "`gpt-5.6-terra` at `high`"
-    assert_includes specification, "`editorial.reference_voice`"
-    assert_includes skill, "`editorial.reference_voice`"
-    assert_includes specification, "Worldbuilding discussion routing"
+    assert_includes skill, "candidateSha256"
+    assert_includes skill, "reviewSummary"
     assert_includes skill, "generate_worldbuilding_discussion_index.rb"
-    assert_includes specification, "A party visit, conversation, purchase, overnight stay, routine encounter"
-    assert_includes skill, "A campaign appearance is not coverage merely because it happened."
   end
 
   def test_status_check_name_is_omitted_from_lint_status_summary

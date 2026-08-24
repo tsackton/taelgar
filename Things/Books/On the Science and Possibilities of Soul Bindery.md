@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-22T23:50:36-04:00"
-lintVersion: "3.4"
-displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
-tags: [object, status/check/errors, status/check/lint]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author:nx>", startStatus: completed in}
+tags: [object, status/check/errors]
 typeOf: book
 typeOfAlias: treatise
 written: "during the [[History of the Drankorian Empire|Drankorian Era]]"
@@ -16,7 +16,7 @@ POV: modern
 ---
 # On the Science and Possibilities of Soul Bindery
 >[!info]+ Information  
-> A treatise, written during the [[History of the Drankorian Empire|Drankorian Era]], by the an early member of the [[Arithrimos Lamperum]]  
+> A treatise, written during the [[History of the Drankorian Empire|Drankorian Era]], by an early member of the [[Arithrimos Lamperum]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%  the timing of this book vs Yendalo's life is not obvious and might need thought, but should be possible to reconcile. Eucaustis is unnamed elsewhere and might need a page %%
@@ -31,10 +31,4 @@ The book also speaks disparagingly of what the author calls soul hoarders: "A so
 
 %%^povNotes:v1%%
 Temporal coverage: a modern retrospective description of a Drankorian-era treatise; the work's exact composition date and relationship to Yendalo remain unresolved.
-%%^End%%
-
-%%^Lint%%
-### Open findings
-
-- [ ] **Warning — editorial.common_typo:** The information callout says `by the an early member`. Candidate: replace only `by the an` with `by an` while retaining the callout's two-space Markdown hard break.
 %%^End%%

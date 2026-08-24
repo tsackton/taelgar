@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:55:31-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Chardonian
@@ -24,7 +24,7 @@ whereabouts:
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-POV: 1750
+POV: 1740s
 ---
 # Fausto
 *(FOW-stoh)*
@@ -46,11 +46,11 @@ Fausto's public patronage concealed his true purpose. He was the leader of [[The
 
 These revelations, made public in the aftermath of the [[Chardon Chalyte Riots]], upended public understanding of his role in the [[Chardon-Dunmar War]]. He was a key instigator of the march to war, taking public command of the Seventh Guard and accompanying the Chardonian army toward the Dunmari frontier. Later rumors speak of how he left the army just before battle was joined, teleporting to [[Drankor]] itself in a final effort to resurrect his patron and master [[Apollyon]], only to be defeated by the [[Dunmar Fellowship]] at the [[Temple of the Eight Divines]] when [[Kenzo]] ripped the [[Crown of Purity]] from his head. 
 
-Fausto's death unraveled the magical coercion that had kept [[The Cleansed]] in control of the Chardon [[chalyte]] trade, and exposed widespread corruption among the [[Chalyte Oligarchs of Chardon]] and the [[Curia of 42]]. This, eventually, was the trigger that lead to the [[Chardon Chalyte Riots]], the disarray of the [[Hetaeri Magica]], and ultimately the [[Chardonian Chalyte Trade Reforms]]. 
+Fausto's death unraveled the magical coercion that had kept [[The Cleansed]] in control of the Chardon [[chalyte]] trade, and exposed widespread corruption among the [[Chalyte Oligarchs of Chardon]] and the [[Curia of 42]]. This, eventually, was the trigger that led to the [[Chardon Chalyte Riots]], the disarray of the [[Hetaeri Magica]], and ultimately the [[Chardonian Chalyte Trade Reforms]].
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: uneven across the mid-1730s through DR 1749. The main portrait describes Fausto before his death in the late 1740s, with the dated block giving his death and secrets. A DR 1738 use must account for his age and the partial record of his adventuring and return to Chardon, while excluding later deeds and relationships. His childhood and origins are explicitly unknown, not available for extrapolation.
+Temporal coverage: a 1740s public portrait of Fausto with selected early-life backstory; the dated DR 1749 block records his exposed allegiance, wartime role, and death.
 %%^End%%
 
 %%^Metadata:names:v1%%

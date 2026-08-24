@@ -1,29 +1,34 @@
 ---
-timelineDescriptor: University of Chardon
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/cleanup/text]
 typeOf: building
 typeOfAlias: university
 created: 939
+timelineDescriptor: University of Chardon
 name: University of Chardon
+pronunciation: "university of CHAR-din"
 whereabouts:
-  - {type: home, start: 980, location: Chardon}
+  - {type: home, start: 939, location: Chardon}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # The University of Chardon
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(university of CHAR-din)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-![[university-of-chardon.png|600]]
 
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [[Precinct IV]] in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [[Great Library]], as well as the [[Hetaeri Magica]] and the [[Society of the Open Scroll]], but has its own independent rules and governance. 
 
-*In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
+
+> [!image]
+>![[university-of-chardon.png]]
+>*In the middle of the oldest part of Chardon, the towers and spires of the Chardonian Lecti, the halls and colleges that make up the University of Chardon, rise above the bustle of the students, faculty, tutors, and others, sharing the skyline with the towers of famous wizards dancing with subtle magic.*
+
 ## Facilities and Organization
 
 ### Undergraduate Lecti
@@ -54,38 +59,13 @@ The [[Hetaeri Magica]], which draws members from both the University of Chardon 
 - (DR:: 939): The University of Chardon is founded in Chardon on the authority of an Imperial Charter from Eiphis the Blind, the Emperor of Drankor.
 - (DR:: 1065): The University of Chardon expands, absorbing many refugees from the destruction of Drankor during the [[First Plague|First Plague]].
 
+
+%%SECRET[v2:d67b6707021f30d62125650b310d31f3]%%
+
 %%^Metadata:names:v1%%
-- {name: "University of Chardon", role: "primary", language: "Chardonian", pronunciation: "university of KAR-dohn", notes: "Latinate Chardonian reading for Chardon with an English descriptive frame.", status: "proposed"}
+- {name: "University of Chardon", role: "primary", language: "Chardonian", pronunciation: "university of CHAR-din", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern account of the university's organization and governance; its DR 939 founding and DR 1065 expansion are separate historical layers.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the missing comma after `[[Great Library]]` in the Hetaeri Magica sentence.
-
-### Validated judgments
-- `POV: modern` and the existing `povNotes:v1` accurately describe a broadly modern institutional account with separate DR 939 and DR 1065 historical layers.
-- Newer-source candidates corroborate the university's academic role and relationships without establishing a separate material change to the institution.
-- Confirmed local `_DM_` matches support the existing positive `dm_notes: important` attestation; their source links will be appended mechanically without exposing private contents.
-
-### Open findings
-
-- [ ] **Suggestion — frontmatter.deprecated_field:** `timelineDescriptor: University of Chardon` is deprecated and duplicates chronology already carried by `created: 939`, the History timeline, and persistent POV metadata. Candidate: remove `timelineDescriptor: University of Chardon` while retaining those current temporal fields.
-- [ ] **Warning — metadata.whereabouts_conflict:** The sole whereabouts entry begins the University's Chardon location in DR 980, but `created: 939`, the visible founding history, and [[Chardon]] all place its founding in Chardon in DR 939. Candidate: determine whether DR 980 marks an undocumented relocation; if it does not, replace `{type: home, start: 980, location: Chardon}` with `{type: home, start: 939, location: Chardon}`.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent `University of Chardon — university of KAR-dohn` entry remains `status: proposed`. Candidate: review the recorded Chardonian language and Latinate derivation, then either accept it by copying the full pronunciation to frontmatter and setting the entry to `documented`, or correct the proposal while preserving its derivation note.
-- [ ] **Suggestion — editorial.shared_material_redundant:** The comment beginning `While the university controls the largest portion of land` substantially repeats the visible account of decentralized, contentious competition, while its claims about comparative political power and imperial encouragement remain unresolved. Candidate: remove the repeated explanation and retain only `%% Research before adoption: determine whether the University's fragmented governance limits its political power relative to the Great Library and Hetaeri Magica, and whether imperial policy encourages that fragmentation. %%`
-- [ ] **Suggestion — editorial.public_material_candidate:** The comment beginning `The lecti are named XXX Hall or XXX Lectum` contains a coherent public-facing naming distinction absent from the article. Copy-ready candidate: Halls are generally associated with external orders, while lecti more often take the names of their patrons, though the distinction is not absolute.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Power Structures]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - Brainstorming]]
 %%^End%%

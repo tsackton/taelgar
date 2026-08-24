@@ -370,6 +370,34 @@ If any error, warning, or suggestion remains open:
 - distinguish automatic changes, informational observations, validated judgments, status dispositions, and open work; and
 - replace the previous report rather than accumulating reports.
 
+Every open report uses this complete structure. A bare task list is not a valid report, even when the note has only one finding:
+
+```markdown
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — rule.id:** Evidence and a copy-ready candidate where applicable.
+%%^End%%
+```
+
+The core title and three core headings appear exactly once. Populate them as follows:
+
+- **Applied changes:** list every substantive automatic lint-owned change from the current run. Omit routine `lintedAt`, `lintVersion`, report-lifecycle, and `status/check/lint` mechanics. Use exactly `- None.` when there were no substantive automatic changes.
+- **Validated judgments:** record only concise, share-safe contextual results that materially explain the outcome, such as corroborating newer-source review, support for a positive `dm_notes` attestation, or confirmation that a `SECRET` block was reviewed. Never copy, quote, or paraphrase private material here. Use exactly `- No additional validated judgments.` when nothing needs recording.
+- **Editorial assessment:** for an Underdeveloped verdict only, insert `### Editorial assessment` between **Validated judgments** and **Open findings** and name every central missing dimension. Omit it for other verdicts. The batch finalizer may append the compact Worldbuilding discussion route after the verdict is already complete.
+- **Open findings:** include every and only current unresolved finding as an unchecked task with severity, stable rule ID, evidence, and a copy-ready candidate where applicable. No unchecked task may appear outside this section.
+- **DM evidence:** when reportable `_DM_` sources exist, the batch finalizer appends `### DM evidence` after **Open findings**, with one exact source wikilink per dash-bulleted line. Never include private contents. Omit the section when there are no reportable links.
+
+Reports contain only current open work plus the applied-change and validated-judgment record. Preserve unresolved human decisions; do not retain checked tasks, an empty report, or a tag justified only by informational observations. For a clean lint, put any applied-change summary in the user-facing handoff because the note retains no Lint block.
+
 If no error, warning, or suggestion remains open:
 
 - write no Lint block;
@@ -395,43 +423,19 @@ A check-only lint changes nothing and records no new timestamp. If evidence gath
 
 ### Batch execution
 
-`_scripts/lint_taelgar_notes.rb` is the adopted batch wrapper around the same versioned rules. Its sharding and staging are operational mechanisms, not a different rule set; changing only their configurable size limits does not require a linter-version increase.
+`_scripts/lint_taelgar_notes.rb` applies these same rules through the operational workflow defined in `.agents/skills/lint-taelgar-note/SKILL.md`. Sharding, staging, model assignment, result-file layout, token limits, finalizer commands, and review routing are execution mechanics rather than a second policy set; changing only configurable operational limits does not require a linter-version increase.
 
-Automatic batch discovery excludes every note with any `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment. Preparation also omits objectively blank, heading-only, embed-only, and linter-output-only bodies and records them in `selectionSummary.skippedNoReviewableProse`. Surviving authored-content candidates receive semantic eligibility review inside their assigned shard. Explicit preparation rejects path-ineligible targets, and workspace creation and finalization reject any manifest note that becomes objectively blank, including a manifest created under an older rule set. These exclusions never filter the evidence index or source search.
+The following invariants govern every batch:
 
-Batch preparation builds the vault link/identity index once, scans `_DM_` once for all targets, loads the generated language-analogue sidecar once, and creates reusable per-note evidence packets. For each note, its preferred freshness baseline is the first Git commit containing the prior `lintedAt` and `lintVersion`. The tag and report are deliberately excluded from baseline identity because a human can clear them without changing the verification boundary. This prevents either that normal clear or a delayed commit of the completed lint from making the lint commit itself appear to be later invention. If the completion pair has not yet been committed, the fallback is the last commit at or before `lintedAt`. Freshness work is grouped by the resulting Git commit; within a shared baseline the batch reuses the changed-path list, per-source diff, line counts, and last-commit evidence. New untracked invention sources are included when their filesystem modification time is later than `lintedAt`. Because local-only `_DM_` files are outside Git, the shared DM scan records each matching file's modification time directly; this evidence both gates contextual DM review and routes a current note when a matching private source is newer than `lintedAt`. The preparer also extracts bounded contexts for every match and clusters exact or near duplicates without discarding their paths. Every note still receives its own deterministic report, prior completion state, freshness candidates, checksum, relevant language entries, complete DM dossier, and agentic review.
-
-Batch selection resolves scope before routing:
-
-1. The user's named files, folders, collection, or sample are the maximum scope; selection flags never broaden it.
-2. Remove target-ineligible paths.
-3. Remove objectively blank or generated-only stubs. Semantically review each surviving authored-content candidate; for a sample, replace only notes whose remaining material is clearly placeholder or nonassertive content.
-4. A plain `lint` request excludes every note with a valid prior `lintedAt`/`lintVersion` pair. Stale versions, open findings, deterministic errors, or newer evidence do not override this default.
-5. Only explicit language such as `re-lint`, `lint again`, or `refresh the lint` authorizes including previously linted notes, and only within the target that language modifies. Mixed scopes are prepared separately.
-
-The batch CLI enforces this boundary: named targets are filtered by default, `--re-lint` includes valid prior lint state, and `--all-linted` or `--stale` require `--re-lint`. Within an explicitly authorized re-lint scope, routing follows the adopted invalidation model:
-
-- an unlinted note requires review;
-- a stale `lintVersion` requires a complete current-version review using the old timestamp as its freshness baseline when valid;
-- a current note with a newer external source that mentions it requires judgment about whether invention elsewhere has overtaken the article; and
-- a current note with no newer invention candidate is eligible for a no-op and is not edited merely to refresh its timestamp.
-
-Routing is triage after selection, never authorization to re-lint. If the user specifically asks to re-lint a named note, review it completely even when routing would permit a no-op.
-
-Batch execution has four phases:
-
-1. **Prepare:** produce one read-only manifest and gather shared deterministic, DM, and Git evidence.
-2. **Shard and stage:** create a private temporary review workspace. Use largest-estimate-first balanced bins with a default cap of approximately 40,000 estimated input tokens and no note-count floor or ceiling. The estimate includes note and serialized packet size plus evidence-complexity allowances; path locality is a soft tie-breaker. A note above the token limit receives a singleton shard. Each shard has its own staged candidate directory, which is the worker's file allowlist. These are configurable operational defaults.
-3. **Parallel review:** assign each shard to a fresh-context editorial worker. The worker may search the full vault but reads only its packet and staged candidates by default, edits only those staged copies, and returns compact structured results. No worker writes a live note.
-4. **Finalize:** require exactly one completed result per manifest note; verify assignment, manifest and validator versions, live and staged checksums, preserved old completion state, eligibility, editorial-verdict and clean/open consistency, and every proposed final note before writing anything.
-
-The user-facing coordinator is also the batch manager and uses `gpt-5.6-sol` at `xhigh` reasoning. Every semantic eligibility, source, privacy, coverage, editorial sufficiency, and report-writing decision belongs to a fresh `gpt-5.6-sol` `xhigh` editorial worker. Spawn those workers without inherited conversational history and give each only the authoritative rules and its bounded shard. The same worker reviews its own completed evidence, verdict, candidate, privacy sanity, and result while that context remains loaded. Do not create separate managing, review, or adjudication agents. An optional `gpt-5.6-terra` `high` helper may run preparation, construct shards, track completion, validate schemas and hashes, and invoke finalization; it must not interpret note content or alter an editorial result. Deterministic scripts remain the authority for those mechanical operations.
-
-Each temporary result records the path, the staged candidate's final SHA-256, semantic eligibility, a concise reason when ineligible, editorial verdict when eligible, clean/open outcome, replacement Lint report when open, optional concise supplemental handoff, declared objective body edits, structured dispositions for every `_DM_` evidence cluster, `SECRET` block, and shared-nonpublic unit, an explicit editorial assessment when underdeveloped, a structured expansion candidate when worth expanding, and completed worker self-review checks. A recoverable `_DM_` or `SECRET` item records its public or private destination, a content-level chat summary, and a bounded copy-ready candidate. An expansion candidate records the exact addition, practical benefit, and one or more source records containing path, evidence, and certainty. Record the SHA-256 only after the candidate and result are complete; later candidate mutation invalidates the result. Difficult, semantic-ineligible, and invention-based underdeveloped notes are not routed to another reviewer; the original worker completes the same explicit self-review fields. These owner-only temporary records may contain private content but are not note content or permanent calibration data.
-
-The finalizer leaves semantically ineligible notes unchanged. For eligible notes it writes the current validator version and one offset-bearing completion timestamp, removes or replaces the old report, and clears or sets only `status/check/lint` according to independently open findings. **Sufficient** and **Sufficient, worth expanding** may each be clean or open; **Underdeveloped** must be open. It mechanically inserts the appropriate DM evidence links into open reports. Only when a completed result is already Underdeveloped does it load the Worldbuilding discussion sidecar; a significant match adds the compact research route to the editorial assessment without entering the chat handoff. It generates the complete private chat handoff from structured results, including all recoverable DM and SECRET additions and every worth-expanding candidate's sourced benefit and copy-paste-ready statement. The finalizer stages same-directory replacements so each file replacement is atomic and rolls back ordinary write failures after a complete preflight. It rejects newly introduced whitespace errors before writing and returns a `reviewSummary` that separates mechanically proven completion-lifecycle or frontmatter-formatting changes from targeted-review changes involving metadata, persistent metadata, body prose, private or visibility-sensitive content, non-lint statuses, or custom syntax. File-based manifests, workspaces, results, and finalization output use owner-only permissions because their evidence records can expose private paths and excerpts. A missing result, incomplete self-review, out-of-allowlist assignment, checksum or state mismatch, later staged-candidate mutation, whitespace error, or invalid verdict/outcome combination aborts the whole batch and must never be bypassed by manually advancing the affected notes.
-
-After a successful batch write, the coordinator verifies that every changed path is authorized, accepts `mechanicalOnlyPaths` without rereading routine diff hunks, and inspects only the finalizer's `targetedReviewPaths`. A metadata-only target needs a bounded value check rather than a repeat source review. Body prose, private or visibility-sensitive content, non-lint statuses, and custom syntax receive closer hunk review and a full-note reread only when the hunk lacks enough context or an anomaly appears. Scoped `git diff --check` remains a backstop rather than the first whitespace gate. A post-finalization correction proven to remove only trailing horizontal whitespace changes neither semantic content nor structural lint proof and does not require refinalization, validator reruns, or a note reread; any other later edit receives the targeted verification appropriate to its change category.
+1. The user's named files, folders, collection, or sample are the maximum scope. Selection and routing never broaden authorization, and previously linted notes require explicit re-lint authorization.
+2. Target-ineligible paths are excluded from selection but remain evidence. Preparation mechanically omits objectively blank or generated-only bodies; a reviewing worker semantically judges each surviving authored-content candidate.
+3. Preparation gathers reusable deterministic, identity, link, Git-freshness, language, and private-evidence packets. A worker reuses that packet and does not repeat successful discovery merely because another rule family consults the same evidence.
+4. Review occurs only in a private staged workspace. Workers may search the vault but never edit live notes, unassigned candidates, or another worker's result.
+5. Every semantic decision belongs to one qualified fresh-context editorial worker, which completes its own evidence, verdict, privacy, candidate, and result self-review. Deterministic tooling controls selection, schemas, hashes, finalization, and rollback and never reinterprets an editorial result.
+6. Every manifest note receives exactly one schema-valid result. An ineligible note remains unchanged; an eligible note records exactly one editorial verdict, a clean or open outcome consistent with that verdict, every required structured disposition, and a complete replacement report when open.
+7. Routing is triage after authorization. A stale note receives a complete current-rule review; a current note with a newer evidence candidate receives the applicable judgment; a current note without a newer candidate may be a no-op. An explicitly requested re-lint of a named note is nevertheless completed even when routing would otherwise permit a no-op.
+8. Finalization is fail-closed and all-or-nothing. It verifies assignment, versions, live and staged hashes, preserved prior state, result consistency, privacy structures, report structure, and every proposed final note before writing. Any missing result, incomplete self-review, out-of-scope assignment, state or checksum mismatch, later staged mutation, invalid outcome, validation failure, or newly introduced whitespace error aborts the batch.
+9. Successful write finalization uses one validator version and timestamp, atomically replaces every authorized note, verifies written hashes, and rolls back ordinary failures. Owner-only temporary artifacts protect private evidence. The generated `reviewSummary` and handoff drive the coordinator's bounded post-write verification under the operational skill.
 
 ## Deferred design areas
 

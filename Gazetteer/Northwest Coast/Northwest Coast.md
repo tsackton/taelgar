@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+lintedAt: "2026-08-24T09:25:51-04:00"
+lintVersion: "3.5"
+tags: [place, status/wip, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Northwest Coast
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Northwest Coast
 >[!info]+ Information  
@@ -67,7 +72,7 @@ Dangerous Wildernesses: Yes
 
 {descriptive in world text about climate}
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 {real world climate analogs and inspiration}
 
@@ -78,7 +83,7 @@ _See more: {links}_
 
 {descriptive text of major era}
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 _See also: [[Places in the Northwest Coast]]
 
@@ -95,4 +100,35 @@ _See also: [[Places in the Northwest Coast]]
 *Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara.
 
 *Important Places in Staging:* The [[Slate Sea]] and [[Mawar Mountains]] could use names; the [[Nahadi]] river is not well named north of [[Lake Valandros]]. The [[~Mawakel Large Island~]] is totally undeveloped and could use at least a name.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Northwest Coast, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the visible cultural and political frame is post-Great War, while the unfinished sections do not establish a narrower interval.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting and added the explicit page name.
+- Normalized both legacy `Campaign:None` sentinels to `Campaign:none`.
+- Added a minimal name entry; the plain-English regional name does not require a pronunciation.
+- Added `POV: modern` and a persistent temporal-coverage note.
+
+### Validated judgments
+- `status/wip` is supported by the literal placeholders and unfinished central sections.
+- The shared comments and `Campaign:none` blocks are editorial guidance, provisional development, or intentionally private material and were not promoted into public prose.
+
+### Editorial assessment
+- **Underdeveloped** — The visible article lacks a substantive regional introduction, a topographic and climatic synthesis, and a usable historical overview; literal placeholders remain in all three central areas.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The Topography and Climate sections are empty even though [[Fiatara Mountains]], [[Erbalta Plains]], [[Mawakel Peninsula]], and [[Tawir Forest]] establish a central geographic and climatic outline. A bounded synthesis could begin: “The [[Fiatara Mountains]] form the region's principal north–south barrier, separating coastal forests from the cold, semi-arid [[Erbalta Plains]]. The [[Mawakel Peninsula]] and [[Tawir Forest]] define much of the western and northern landscape.” Preserve unresolved borders and deeper climate questions in the private guidance.
+- [ ] **Suggestion — editorial.note_underdeveloped:** Replace `{intro text}` and the Major Historical Eras placeholder with a concise regional definition and a high-level historical frame. The smallest useful scope is one paragraph defining the Northwest Coast's extent and structural role, plus one paragraph distinguishing the established post-Great-War Chardonian expansion and independent Mawar sphere from unresolved deeper origins and borders.
 %%^End%%

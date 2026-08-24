@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/lint]
 species: dwarf
 campaignInfo:
@@ -47,16 +47,16 @@ Temporal coverage: a DR 1749 origin portrait of Kethra before and during her ear
 %%^Lint%%
 ## Taelgar note lint
 
-### Editorial assessment
-**Underdeveloped**. The visible account stops at Kethra's decision to enter Riswynn's service and does not yet represent the central established later course of that service: joining Vindristjarna after seeking Riswynn as a mentor, accompanying her during the doppelganger crisis, and departing with her for Uzgukhar.
-
 ### Applied changes
-- Added the established Dunmar Frontier interaction, `knownTo`, DR 1749 `POV` and `povNotes`, a persistent pronunciation proposal, and the June 1749 move from Vindristjarna to Uzgukhar; normalized frontmatter formatting.
+- None.
 
 ### Validated judgments
-- Matching local-only sources support `dm_notes: color`; their contents are not reproduced here.
+- No additional validated judgments.
+
+### Editorial assessment
+**Underdeveloped**. The visible account stops at Kethra's decision to enter Riswynn's service and does not represent the central established later course of that service: joining Vindristjarna, accompanying Riswynn during the doppelganger crisis, and departing with her for Uzgukhar.
 
 ### Open findings
-- [ ] **Warning — coverage.established_fact_missing:** [[Session 89 (DuFr)]], [[Session 103 (DuFr)]], and [[Session 124 (DuFr)]] establish the central later role absent from the visible article: Kethra joined Vindristjarna after seeking Riswynn as a mentor, accompanied her during the doppelganger crisis, and later went with her to Uzgukhar. Copy-ready candidate: “By DR 1749, Kethra had joined the crew of Vindristjarna after seeking out Riswynn as a mentor. She accompanied Riswynn back to Tharn Todor to confront a doppelganger recruiting dwarves to their deaths and later went with her to Uzgukhar to support the campaign to free orcs from Thark.”
-- [ ] **Warning — pronunciation.review_pending:** Persistent pronunciation review remains open for `Kethra Silverspark — KETH-rah SIL-ver-spark` (proposed). The Tolkien-style Dwarvish analogue and ordinary Common compound support this cautious reading, but the full form's exact in-world language and phonology are not established. Accept it by adding `pronunciation: KETH-rah SIL-ver-spark` to frontmatter and changing the entry to `status: documented`, or correct the proposal.
+
+- [ ] **Warning — coverage.established_fact_missing:** [[Session 89 (DuFr)]], [[Session 103 (DuFr)]], and [[Session 124 (DuFr)]] establish the central later role absent from the visible article: Kethra joined Vindristjarna after seeking Riswynn as a mentor, accompanied her to confront the doppelganger recruiting dwarves to their deaths, and later went with her to Uzgukhar. Copy-ready candidate: “By DR 1749, Kethra had joined the crew of [[Vindristjarna]] after seeking out [[Riswynn]] as a mentor. She accompanied Riswynn back to [[Tharn Todor]] to confront a doppelganger recruiting dwarves to their deaths and later went with her to [[Uzgukhar]] to support the campaign to free orcs from [[Thark]].”
 %%^End%%

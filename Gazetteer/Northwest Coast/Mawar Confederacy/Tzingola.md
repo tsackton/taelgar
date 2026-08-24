@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-23T23:55:52-04:00"
+lintVersion: "3.5"
 tags: [place]
-aliases: [Tzingola Marshes, North Marshes]
-name: Tzingola
-pronunciation: tseen-GOH-lah
 typeOf: wetlands
 typeOfAlias: salt marsh
+name: Tzingola
+aliases: [Tzingola Marshes, North Marshes]
+pronunciation: tseen-GOH-lah
 whereabouts: Mawakel Peninsula
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Tzingola
 *(tseen-GOH-lah)*
@@ -28,3 +31,11 @@ Source links:
 - [[Eskorola]]
 - [[Mawar Ep 4 - DM Notes]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Tzingola, role: primary, language: Lizardling, pronunciation: tseen-GOH-lah, notes: "The visible article identifies this as the local lizardfolk name.", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography with a separate account of the DR 1747 captivity and release of Chaessenth.
+%%^End%%

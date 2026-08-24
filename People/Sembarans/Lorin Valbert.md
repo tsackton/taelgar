@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
 gender: male
@@ -28,7 +28,7 @@ POV: 1710s
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[lorin-valbet.png|right|320]]Lorin Valbert is the lord of [[Asineau]]. He is a cousin of the old lord, [[Lucas Asa]] ,via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power. 
+![[lorin-valbet.png|right|320]]Lorin Valbert is the lord of [[Asineau]]. He is a cousin of the old lord, [[Lucas Asa]], via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power.
 
 He has a wife and two young children who often reside in [[Embry]].
 
@@ -52,10 +52,14 @@ Temporal coverage: a late-1710s portrait of Lorin as lord of Asineau, with a Dat
 ## Taelgar note lint
 
 ### Applied changes
-- Normalized frontmatter, added `knownTo: [clee]`, recorded `POV: 1710s` with persistent name and temporal-review metadata, and canonicalized the campaign block from `Clee` to `clee`.
+- Corrected the misplaced punctuation in `[[Lucas Asa]] ,via` to `[[Lucas Asa]], via`.
+
+### Validated judgments
+- The DR 1710s viewpoint remains coherent because the existing Date:1720 block isolates Lorin's later flight, although that dated account is materially incomplete.
+- The newer Metadata Specification mention is an unchanged governance example and supplies no later lore about Lorin.
 
 ### Open findings
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `Lorin Valbert — loh-RAN val-BAIR` from the southern Sembaran French analogue. Review the proposal; if accepted, copy it to frontmatter and change the entry to `status: documented`, or revise the entry while preserving its derivation.
-- [ ] **Warning — coverage.established_fact_missing:** [[Cleenseau - Session 11]] and [[Cleenseau - Session 12]] establish that [[Viepuck]] and [[Izgil]] deliberately deceived Lorin about a fey curse, that he renounced his claim to Asineau, and that the party recovered most of the manor's money and horses before helping him continue east. The existing Date:1720 passage attributes his flight only to fear and family misfortune, which materially obscures the party's role and the renunciation. Candidate replacement: `On January 11, DR 1720, [[Viepuck]] and [[Izgil]] deliberately convinced Lorin that the manor was cursed and that fey were pursuing him. Lorin fled the next morning and renounced his claim to Asineau. After [[Celyn]] and Viepuck caught him near [[Rinburg]], he returned most of the manor's money and horses before continuing east across the river.`
 
+- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Session 11]] and [[Cleenseau - Session 12]] establish material DR 1720 consequences missing from the existing Date:1720 passage: [[Viepuck]] and [[Izgil]] deliberately deceived Lorin about a fey curse, Lorin renounced Asineau, and the party recovered most of the manor's money and horses before helping him continue east. Choose whether to expand the existing dated passage, defer the update with `status/gameupdate/clee`, or intentionally preserve a partial earlier account. Copy-ready replacement for the existing Date:1720 paragraph: `On January 11, DR 1720, [[Viepuck]] and [[Izgil]] convinced Lorin that the manor was cursed and that fey were pursuing him, building on his fear that the misfortune of the Asa family was falling on him amid the [[Undead Attacks in Sembara]]. Lorin fled the next morning and renounced his claim to Asineau. After [[Celyn]] and Viepuck caught him, he returned most of the manor's money and horses before continuing east across the river.`
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `Lorin Valbert — loh-RAN val-BAIR` from the southern Sembaran French analogue. Review the proposal; if accepted, copy it to frontmatter and change the entry to `status: documented`, or revise it while preserving its derivation.
 %%^End%%
