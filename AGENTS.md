@@ -250,11 +250,10 @@ these general rules:
 - Frontmatter appears once, at the beginning of the file.
 - Preserve an existing `headerVersion`; do not manually update it. Use the current
   appropriate template for a new note.
-- Deprecated or obsolete fields are preserved but placed before `headerVersion`
-  so they are conspicuous during review.
 - Canonical field groups are ordered as follows: `headerVersion`, `lintedAt`,
-  `lintVersion`, `displayDefaults`; then `tags`, `typeOf`, `typeOfAlias` or their
-  person-note equivalents, and `ancestry`; then other fields in stable relative
+  `lintVersion`, `displayDefaults`; then the classification group (`tags`,
+  `typeOf`, `subTypeOf`, `typeOfAlias`, `subTypeOfAlias`, `species`,
+  `subspecies`, `speciesAlias`, `ancestry`); then other fields in stable relative
   order; then `name`, `aliases`, `pronunciation`; then `affiliations` and
   `whereabouts`; then `knownTo`, `excludePublish`, `audience`, `dm_owner`,
   `dm_notes`, and finally `POV`.

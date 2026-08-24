@@ -5,6 +5,7 @@ linterDescriptiveTags:: "person", "power", "place", "event", "object", "group", 
 linterDescriptiveTagAliases:: {"item": "object", "primary-source": "source", "organization": "group"}
 linterCampaignRecordTags:: "session-note", "meta", "source"
 linterKnownToRequiredTags:: "person", "object"
+linterMapRequiredPlaceTypes:: "waterway", "road", "settlement"
 
 The `linter*` fields above are the machine-readable validator vocabulary. They are deliberately kept here, beside the human-readable category definitions, so a human can review or extend them without editing validator code. Alias entries recognize older descriptive tags and point to the canonical tag used for lint expectations.
 
@@ -22,7 +23,7 @@ The person tag is used for all named sentient beings, except those who are suffi
 The person note expects the following metadata:
 
 Classification: species (required), ancestry, subspecies, gender
-Other: pronouns (only use if different from gender), title, ka (for elves), ddbLink (for PCs or NPCs with character sheets)
+Other: knownTo (required; use `[]` when no campaign knowledge is known), pronouns (only use if different from gender), title, ka (for elves), ddbLink (for PCs or NPCs with character sheets)
 Dates: born, died
 Accepts whereabouts: yes
 Accept affiliations: yes
@@ -80,7 +81,7 @@ Type-specific header code for website? Yes, computed by outputs.js
 
 ### Classification Requirements
 
-Places use a controlled vocabulary for typeOf, which can be one of: settlement, realm, neighborhood, region, watershed, plane, extraplanar domain, planar link, wetlands, forest, plain, desert, inn, buliding, road, holy site, infrastructure, waterway, marine feature, lake, topographical feature, subterranean feature, or landform. 
+Places use a controlled vocabulary for typeOf, which is defined in [[Place Categories]]. 
 
 Place typeOf categories are organized into several broad groups. These are not tagged anywhere, but are meant to be small enough that it is feasible to write simple dataview queries or base filters to pull up all of a category. In the future this may be revised (e.g., an additional layer such as typeCategory might be added to frontmatter, potentially auto-populated). 
 
@@ -173,7 +174,7 @@ Definition: The object tag is used for any kind of physical object, including bo
 The object note expects the following metadata:
 
 Classification: typeOf (required), subTypeOf, ancestry
-Other: rarity, pcOwner, ddbLink
+Other: knownTo (required; use `[]` when no campaign knowledge is known), rarity, pcOwner, ddbLink
 Dates: created, destroyed
 Accepts whereabouts: Yes.
 Accept affiliations: Yes.

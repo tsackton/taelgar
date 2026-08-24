@@ -27,42 +27,20 @@ require "yaml"
 require_relative "generate_taelgar_lint_values"
 
 module TaelgarNoteLint
+  # Human-controlled: never change without explicit human direction.
   VERSION = "3.5"
   SCHEMA_VERSION = 5
   DM_NOTES_REVIEW_VERSION = "3.4"
   NAME_REVIEW_VERSION = "3.4"
   POV_REVIEW_VERSION = "3.4"
 
-  DEPRECATED_FRONTMATTER_FIELDS = %w[
-    activeYear subTypeOf subTypeOfAlias subspecies speciesAlias deity
-    timelineDescriptor pcOwner rarity leaderOf reignStart aNoDate aPast
-    aPastWithStart aCurrent
-  ].freeze
-
-  DEPRECATED_FRONTMATTER_REPLACEMENTS = {
-    "activeYear" => "Use created for entity existence, a Date block for passage visibility, or audience for publication scope, according to the original meaning.",
-    "subTypeOf" => "Use the primary typeOf when this is the real classification; otherwise use typeOfAlias, partOf, or affiliations as appropriate.",
-    "subTypeOfAlias" => "Use typeOfAlias when this is display wording; otherwise incorporate it into the replacement for subTypeOf.",
-    "subspecies" => "Use species for the primary biological classification and typeOfAlias only for display wording.",
-    "speciesAlias" => "Use typeOfAlias for display wording, or an accepted ancestry/species value when it is classification.",
-    "deity" => "Represent the relationship with affiliations, partOf, or ordinary linked prose.",
-    "timelineDescriptor" => "Use explicit lifecycle dates, Date blocks, or persistent article POV metadata according to the intended temporal meaning.",
-    "pcOwner" => "Use the current player/character ownership field adopted by the applicable character template; confirm the intended semantics before migration.",
-    "rarity" => "Move game-mechanical rarity to the applicable mechanics block or retained item field selected by human review.",
-    "leaderOf" => "Use an affiliation entry with type: leader.",
-    "reignStart" => "Put the start date on the corresponding leader affiliation.",
-    "aNoDate" => "Use displayDefaults or an affiliation-level format override.",
-    "aPast" => "Use displayDefaults or an affiliation-level formatPast override.",
-    "aPastWithStart" => "Use displayDefaults or an affiliation-level formatPast override.",
-    "aCurrent" => "Use displayDefaults or an affiliation-level formatCurrent override."
-  }.freeze
-
   FRONTMATTER_HEAD_FIELDS = %w[
     headerVersion lintedAt lintVersion displayDefaults
   ].freeze
 
   FRONTMATTER_CLASSIFICATION_FIELDS = %w[
-    tags typeOf typeOfAlias species ancestry
+    tags typeOf subTypeOf typeOfAlias subTypeOfAlias
+    species subspecies speciesAlias ancestry
   ].freeze
 
   FRONTMATTER_IDENTITY_FIELDS = %w[name aliases pronunciation].freeze
@@ -334,13 +312,12 @@ module TaelgarNoteLint
 
     def ordered_fields
       source_order = (@note.field_order + @note.data.keys).uniq
-      reserved = DEPRECATED_FRONTMATTER_FIELDS + FRONTMATTER_HEAD_FIELDS +
-                 FRONTMATTER_CLASSIFICATION_FIELDS + FRONTMATTER_IDENTITY_FIELDS +
+      reserved = FRONTMATTER_HEAD_FIELDS + FRONTMATTER_CLASSIFICATION_FIELDS +
+                 FRONTMATTER_IDENTITY_FIELDS +
                  FRONTMATTER_RELATIONSHIP_FIELDS + FRONTMATTER_TAIL_FIELDS
       other = source_order.reject { |field| reserved.include?(field) }
 
       [
-        DEPRECATED_FRONTMATTER_FIELDS,
         FRONTMATTER_HEAD_FIELDS,
         FRONTMATTER_CLASSIFICATION_FIELDS,
         other,
@@ -991,26 +968,6 @@ module TaelgarNoteLint
         end
       end
 
-      DEPRECATED_FRONTMATTER_FIELDS.each do |field|
-        next unless note.data.key?(field)
-
-        rule_id = field == "subTypeOf" ? "classification.deprecated_subtype" : "frontmatter.deprecated_field"
-        replacement = deprecated_replacement(note, field)
-        add(findings, rule_id, "suggestion", "recommended",
-            "#{field} is deprecated or obsolete. Proposed replacement: #{replacement}",
-            line: note.field_line(field), provisional: true,
-            details: { "field" => field, "replacement" => replacement })
-      end
-    end
-
-    def deprecated_replacement(note, field)
-      value = note.data[field]
-      if field == "subTypeOf" && !value.to_s.strip.empty? && note.data["typeOfAlias"].to_s.strip.empty? &&
-         !note.data["typeOf"].to_s.strip.empty?
-        return "typeOfAlias: #{value} preserves this note's secondary display wording alongside typeOf: #{note.data['typeOf']}."
-      end
-
-      DEPRECATED_FRONTMATTER_REPLACEMENTS.fetch(field)
     end
 
     def validate_campaign_metadata(note, findings)

@@ -13,7 +13,7 @@ Some brainstorming and ideas:
 - `headerVersion`: String version marker added by header scripts (typically a date like `2023.11.25`). Automatically added upon header generation. Do not manually edit. 
 - `tags`: Obsidian tags for categorization and status. One descriptive tag is usually required (`person`, `place`, `organization`, `item`, `event`, etc.); status tags (e.g. `status/stub`, `status/cleanup/*`, `status/gameupdate/*`) are optional. Represented as an inline list (`tags: [person]`). See: [[Note Categorization]] and [[Note Status]].
 - `dm_owner`: String indicating who is responsible for the page. The reviewable accepted-value list lives in [[Note Status]].
-- `dm_notes`: Human attestation indicating whether useful private, non-shared DM information exists. The reviewable accepted-value list lives in [[Note Status]]; linting does not adjudicate between the positive values or automatically change an attestation. Batch preparation mechanically dossiers matching `_DM_` Markdown notes and clusters duplicate contexts without discarding source paths. For the negative value, a genuine cluster with plausible recoverable material receives a private chat-only summary and copy-ready candidate; matching but unhelpful clusters remain traceable temporary evidence without user-facing output. A positive value plus no confirmed matches receives a verification suggestion. Confirmed positive-attestation matches are always reported as exact source links: mechanically inserted as separate dash-bulleted wikilinks in an independently open Lint block, or listed in the mechanically generated private handoff when the note is clean. Private content never enters the Git-shared report, and privacy review is a quick semantic sanity check rather than raw-text overlap proof. Once reviewed under the adopted `dmNotesReviewVersion`, `lintedAt` validates the attestation until a matching `_DM_` file is modified later or the minimum review version is raised. In-note `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks never count as positive external evidence and never affect the candidate-based review. `SECRET` blocks are nevertheless eligible for the same private chat-only recovery handoff. See: [[Note Status]] and [[Taelgar Note Linter]].
+- `dm_notes`: Human attestation indicating whether useful private, non-shared DM information remains that is not already captured in the shared or public note or its shared backlinks. The reviewable accepted-value list lives in [[Note Status]]; linting does not adjudicate between the positive values or automatically change an attestation. Batch preparation mechanically dossiers matching `_DM_` Markdown notes and clusters duplicate contexts without discarding source paths. For the negative value, a genuine cluster with plausible recoverable material receives a private chat-only summary and copy-ready candidate so the human can judge both the material and the continued accuracy of the attestation; matching but unhelpful clusters remain traceable temporary evidence without user-facing output. A positive value plus no confirmed matches receives a verification suggestion. Confirmed positive-attestation matches are always reported as exact source links: mechanically inserted as separate dash-bulleted wikilinks in an independently open Lint block, or listed in the mechanically generated private handoff when the note is clean. Private content never enters the Git-shared report, and privacy review is a quick semantic sanity check rather than raw-text overlap proof. Once reviewed under the adopted `dmNotesReviewVersion`, `lintedAt` validates the attestation until a matching `_DM_` file is modified later or the minimum review version is raised. In-note `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks never count as positive external evidence and never affect the candidate-based review. `SECRET` blocks are nevertheless eligible for the same private chat-only recovery handoff. See: [[Note Status]] and [[Taelgar Note Linter]].
 - `name`: Canonical page name used by display code. If omitted, the file name is used. This frontmatter field does not replace the persistent `Metadata:names:v1` block required when the note's subject is a named in-world thing or work; see [[Name Metadata]].
 - `aliases`: List of alternate names for the subject, including accented forms and alternate identities. Useful for search, display, and metadata matching. Obsidian bare wikilinks resolve filenames, not frontmatter aliases.
 - `pronunciation`: Human‑readable pronunciation guide (e.g. `yoo-VAHN-tee`). The value must be an actual pronunciation. Accepted primary pronunciations belong here; language, derivation, alternate forms, and proposed pronunciations are recorded in the persistent block described by [[Name Metadata]]. An obvious name, descriptive title, or other contextual exemption omits the pronunciation field rather than using `obvious`, `title`, `meta`, or `inherited from ...` as a value; that exemption does not remove a required name block.
@@ -41,7 +41,7 @@ See: [[Metadata Specification#Date Formats|Date Formats]]
 - `realWorldDate`: Real‑world date a session was played, in `YYYY‑MM‑DD` form.
 - `timelineDescriptor`:Label used in timelines and event lists (e.g. “War of the Cloak”) for dates extracted from this note. Often matches or summarizes the page title. ***Warning: possibly obsolete / possibly not working, and inconsistently used.***
 - `pageTargetDate`: Optional override for “current date” used by queries and header scripts, primarily for debugging. 
-- `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, a year, or `undated`. Test `modern`, a decade, and a year in that order; use `undated` only when the note and its sources support none of them. `undated` records missing temporal support, not timeless truth or stability. `POV` is not a validity interval. For most notes, the persistent `%%^povNotes:v1%%` text block records approximate, uncertain, narrow, discontinuous, or unsupported temporal coverage; a generic broadly-modern statement is sufficient when no temporal information or material temporal constraint is established. Notes under `Campaigns/**` tagged `session-note`, `meta`, or `source` require `POV` but must not be given a new `povNotes` block. A present `povNotes` block is always contextually rechecked and retained; removing an existing block is always a human-only decision. Only when the block is absent does a valid prior lint at or above the adopted `povReviewVersion` skip contextual POV selection and preserve the block's absence; deterministic validation still checks the stored `POV` and reports a categorically forbidden block for human review. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
+- `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, a year, or `undated`. Test `modern`, a decade, and a year in that order; use `undated` only when the note and its sources support none of them. `undated` records missing temporal support, not timeless truth or stability. `POV` is not a validity interval. For most notes, the persistent `%%^povNotes:v1%%` text block records approximate, uncertain, narrow, discontinuous, or unsupported temporal coverage. When the visible undated prose naturally functions as current-era reference prose and no evidence requires a narrower or nonmodern reading, `modern` with a generic broadly-modern coverage statement is sufficient. When no coherent temporal reading position is supported, use `undated` and record that limitation. Notes under `Campaigns/**` tagged `session-note`, `meta`, or `source` require `POV` but must not be given a new `povNotes` block. A present `povNotes` block is always contextually rechecked and retained; removing an existing block is always a human-only decision. Only when the block is absent does a valid prior lint at or above the adopted `povReviewVersion` skip contextual POV selection and preserve the block's absence; deterministic validation still checks the stored `POV` and reports a categorically forbidden block for human review. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
 
 ### Type-Specific Fields
 
@@ -76,7 +76,7 @@ For session notes to generate headers and indexes:
 - `whereabouts`: Current and historical location data. Can be a simple string, or a list of objects. Typically used for people and places, and occasionally for organizations and items. See [[Metadata Specification#Whereabouts Specification|details below]].
 - `affiliations`: Organizations or places the subject is associated with. Can be a list of strings (shorthand for member affiliations) or full objects. Typically only used for people. See [[Metadata Specification#Affiliations Specification|details below]].
 - `campaignInfo`: List of objects capturing when and how campaigns interacted with this page. Each entry may include `campaign` (short code like `dufr`), `type` (e.g. `met`, `killed`, `seen`), optional `person`, `date`, and optional format overrides. Drives “Met by X on Y in Z” style header lines. Typically used only for people, but in principle could be used for any note. See [[Metadata Specification#CampaignInfo Specification|details below]].
-- `knownTo`: List of canonical lowercase campaign codes indicating the subject is known to that party (e.g. `knownTo: [dufr, clee]`). Used as a lightweight, queryable replacement for long `campaignInfo` logs; see “KnownTo Framework” below and [[Campaign Registry]].
+- `knownTo`: List of canonical lowercase campaign codes indicating the subject is known to that party (e.g. `knownTo: [dufr, clee]`). Required for people and objects; `[]` explicitly records that no campaign knowledge is known. Used as a lightweight, queryable replacement for long `campaignInfo` logs; see “KnownTo Framework” below and [[Campaign Registry]].
 - `partOf`: Simple parent relationship field. Used for non-location based relationships. Principally used to indicate organizations that are part of a larger organization (e.g., a unit in an army), or events that are part of a larger event (e.g., a battle in a war). For place-based relationships, use `whereabouts` which can handle much more complex information. 
 
 #### KnownTo Framework
@@ -119,7 +119,7 @@ Typical person pages (e.g. `People/*/*.md`) have:
 
 - Identity and Classification fields: `name`, `species`, `ancestry`, `gender`, optional `pronouns`if different from what is implied by gender, `aliases`, `pronunciation`, optional `image`
 - Chronology: `born`, optional `died`
-- Relationships: `affiliations`, `whereabouts`, optional `campaignInfo`
+- Relationships: required `knownTo`, plus `affiliations`, `whereabouts`, and optional `campaignInfo`
 - Special cases: `ka` for elves; `player` and `ddbLink` for PCs
 
 ### `place`
@@ -144,7 +144,7 @@ Typical item/treasure pages (mostly under campaign treasure folders) have:
 
 - Classification: `typeOf` (e.g. `mirror`, `ring`), optional `subTypeOf` (e.g. `magical`), `typeOfAlias`
 - Identity: `name`, optional `image`, `rarity`
-- Relationships: `whereabouts`, optional `pcOwner`
+- Relationships: required `knownTo`, plus `whereabouts` and optional `pcOwner`
 - Mechanics: `ddbLink` where appropriate
 
 ### `event`
@@ -162,6 +162,43 @@ Session notes (primarily under `Campaigns/*/Session Notes`) typically have:
 - Identity: `name` (often `Campaign – Session N`), `tagline`, `descTitle`
 - Chronology: `campaign`, `sessionNumber`, `realWorldDate`, `DR`, optional `DR_end`
 - Relationships: `players`, optional `companions`
+
+## Map Metadata Specification
+
+Purpose: record structured map locations in the persistent `Metadata:map:v1` block. The block is required for waterways, roads, and settlements and optional for other places; the machine-readable required-place-type list lives with the other linter category declarations in [[Note Categorization]].
+
+The supported model has only single-hex locations and two-ended features. Every location entry has `map` and `locator`; it may also have `role` or `feature`. `geometry`, `hex`, `sourceHex`, and `outletHex` are not part of the model. A coordinate in `13.07.F16` form always uses `map: world`, and coordinates remain strings.
+
+When positions are unknown, use the appropriate typed location entries and leave only their `locator` values blank. Do not use `status: missing` with `locations: []`. A blank optional `feature` is valid.
+
+Waterways have two directionally meaningful entries:
+
+```yaml
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: , map: world, locator: }
+  - {role: outlet, feature: , map: world, locator: }
+%%^End%%
+```
+
+Roads have two unordered endpoints. They do not use `start` and `end` roles because either direction would be arbitrary; `feature` can optionally name a city or other feature at each endpoint:
+
+```yaml
+%%^Metadata:map:v1%%
+locations:
+  - {feature: , map: world, locator: }
+  - {feature: , map: world, locator: }
+%%^End%%
+```
+
+Settlements and other single-hex features have one entry:
+
+```yaml
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+```
 
 ## Whereabouts Specification
 

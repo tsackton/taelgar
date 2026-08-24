@@ -25,7 +25,7 @@ module TaelgarLintValues
     "dmNotes" => ["_MoC/Note Status.md", "linterDmNotes"],
     "localDmReviewOwners" => ["_MoC/Note Status.md", "linterLocalDmReviewOwners"],
     "audienceSpecialValues" => ["_MoC/Campaign Registry.md", "linterAudienceSpecialValues"],
-    "mapRequiredPlaceTypes" => ["_MoC/Taelgar Note Linter.md", "linterMapRequiredPlaceTypes"]
+    "mapRequiredPlaceTypes" => ["_MoC/Note Categorization.md", "linterMapRequiredPlaceTypes"]
   }.freeze
 
   ALIAS_FIELDS = {

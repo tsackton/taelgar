@@ -69,7 +69,7 @@ Century values, named eras, and `timeless` are legacy choices under linter 2.8. 
 
 Choose `POV` from the undated visible article frame. Ask: **if the reader had to stand at one date or era for the present-tense descriptions, ages, offices, relationships, political conditions, or physical state to read naturally, where would that be?** Test these values in order:
 
-1. Use `modern` if the current DR 1700s campaign era is precise enough for the undated prose.
+1. Use `modern` when the visible undated prose naturally functions as current-era reference prose and no evidence makes that reading misleading; an explicit modern date is not required. A dated campaign interaction supports that choice only when it anchors the state described by the article, rather than merely dating an encounter, mention, discovery, or act of reading.
 2. Otherwise, use a decade if a rough campaign era, city state, or life stage is precise enough but the current era as a whole is not.
 3. Otherwise, use a year if a specific age, office, whereabouts, encounter, or changing world state supplies a narrower supported snapshot.
 4. Use `undated` only if none of those reading positions is supported by the note or its sources.
@@ -104,7 +104,7 @@ Temporal coverage: a DR 1748 portrait of the subject in the same broad life stag
 - which periods are unknown rather than contradicted, or which later developments leave an intentionally historical snapshot valid as history.
 - when `POV` is `undated`, that the available evidence does not support `modern`, a decade, or a year.
 
-This is editorial guidance, not a second machine-readable date system. Do not invent an exact date merely to make a clean interval, infer continuity between separated facts, or treat the oldest and newest facts as complete coverage. Keep `povNotes` concise—normally one sentence and at most two when discontinuity or uncertainty needs explanation. Do not restate lifecycle dates, dated metadata, or every `Date:*` block unless they materially affect how the article should be read. If the note contains no temporal information and its sources establish no material temporal constraint, a generic sentence saying that its coverage is broadly modern is sufficient.
+This is editorial guidance, not a second machine-readable date system. Do not invent an exact date merely to make a clean interval, infer continuity between separated facts, or treat the oldest and newest facts as complete coverage. Keep `povNotes` concise—normally one sentence and at most two when discontinuity or uncertainty needs explanation. Do not restate lifecycle dates, dated metadata, or every `Date:*` block unless they materially affect how the article should be read. When the visible undated prose naturally functions as current-era reference prose and neither it nor its sources establishes a narrower or contrary temporal constraint, a generic sentence saying that its coverage is broadly modern is sufficient. When no coherent modern, decade, or year reading position is supported, use `undated` and record that limitation instead.
 
 ### Broad modern state with event bounds
 
@@ -209,7 +209,7 @@ The linter validates that `POV` is a nonempty scalar and that a completed lint r
 
 Contextual POV selection has its own `povReviewVersion` gate in [[Taelgar Note Linter]]. A present `povNotes` block bypasses that gate and is always rechecked together with `POV`. Only when `povNotes` is absent does the gate compare the prior lint: when the note has a valid `lintedAt` and a numeric `lintVersion` at or above the threshold, preserve its valid existing `POV` without recomputing it and preserve the absence of `povNotes`. Deterministic `POV` shape and presence validation, categorical block applicability, and validation of any present block still apply. When review is required, test `modern`, a decade, and a year in that order before permitting `undated`, and judge any applicable `povNotes` against the article's actual coverage.
 
-When temporal POV review is required, the contextual pass selects `POV` from the undated visible frame, then separately classifies coverage as broad, approximately bounded, narrow, one-sided uncertain, or discontinuous. It never infers continuity between separated facts or exact boundaries from uncertainty. It also checks whether a narrow dated passage has unnecessarily narrowed the whole-note POV. When a supported date block can isolate that passage without changing its meaning, the linter should propose or apply the copy-ready block and retain the broader article POV.
+When temporal POV review is required, the contextual pass selects `POV` from the undated visible frame, then separately classifies coverage as broad, approximately bounded, narrow, one-sided uncertain, or discontinuous. It never infers continuity between separated facts or exact boundaries from uncertainty. It also checks whether a narrow dated passage has unnecessarily narrowed the whole-note POV. When a supported `Date:*` block could isolate that passage without changing its meaning, the linter should propose a copy-ready block and retain the broader article POV. It must not apply a new or moved `Date:*` block without explicit human approval because doing so can change filtered visibility.
 
 The searchable frontmatter field replaces two older note-level representations:
 

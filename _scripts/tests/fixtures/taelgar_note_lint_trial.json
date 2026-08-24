@@ -39,7 +39,6 @@
       "path": "Campaigns/Great Library Campaign/Treasure/Thunderbrand.md",
       "note": "---\nheaderVersion: 2023.11.25\ntags: [object]\nname: Thunderbrand\ntypeOf: warhammer\nsubTypeOf: magical\nancestry: dwarven\nknownTo: []\ndm_owner: none\ndm_notes: none\n---\n# Thunderbrand\n\nA magical warhammer recovered in the Goldpeak Mines mines under Goldpeak Mountain.\n",
       "expectedRuleIds": [
-        "classification.deprecated_subtype",
         "editorial.repeated_word"
       ]
     },
