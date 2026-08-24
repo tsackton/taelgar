@@ -8,7 +8,7 @@ typeOf: inn
 name: The Chapterhouse
 whereabouts: Precinct IV
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: 1748
 ---
 # The Chapterhouse

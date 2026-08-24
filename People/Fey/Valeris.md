@@ -12,7 +12,7 @@ whereabouts:
   - {type: away, start: 1749-06-12, end: 9999, location: Amberglow}
 knownTo: [dufr]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1749
 ---
 # Valeris
