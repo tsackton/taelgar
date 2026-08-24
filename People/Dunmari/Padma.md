@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Dunmari
@@ -11,8 +11,8 @@ campaignInfo:
   - {campaign: dufr, type: met, date: 1748-07-26}
 name: Padma
 pronunciation: PAD-mah
-whereabouts: 
-- {type: home, location: Tokra-Darba Road, linkText: "on", format: "at Padma's caravanserai <name:q>", startFilter: "1"}
+whereabouts:
+  - {type: home, location: Tokra-Darba Road, linkText: "on", format: "at Padma's caravanserai <name:q>", startFilter: "1"}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
@@ -29,7 +29,7 @@ POV: 1748
 Padma is the master of a caravanserai waystation, often called the Darba Gateway Inn by foreign travelers, on the [[Tokra-Darba Road]]; it is one of the first waystations on the west side of the [[Copper Hills]], and well-defended, making it a safe haven from the occasional dangers of the [[Copper Hills]].  Given this location, Padma is generally well-positioned to receive and pass along news. 
 
 %%^Date:1748-07-26%%
-In late July 1748, her caravanserai was briefly cut off from [[Tokra]] by wyverns who had made a nest in the ruined mining town of [[Vandar]]. She was pleased to receive news that [[Dunmar Fellowship]] had killed the wyverns and the road was clear. 
+In late July 1748, her caravanserai was briefly cut off from [[Tokra]] by wyverns who had made a nest in the ruined mining town of [[Vandar]]. She was pleased to receive news that the [[Dunmar Fellowship]] had killed the wyverns and the road was clear.
 %%^End%%
 
 %%

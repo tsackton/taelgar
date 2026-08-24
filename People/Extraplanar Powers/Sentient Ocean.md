@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:54:27-04:00"
-lintVersion: "3.4"
-tags: [power]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+tags: [power, status/check/lint]
 typeOf: power
 typeOfAlias: living ocean
 name: Sentient Ocean
@@ -35,4 +35,19 @@ Those who have traveled among the [[Merfolk]] often report distinctive rumors an
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern lore with a DR 1749 campaign account of Omi layered onto older origin traditions.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- None.
+
+### Validated judgments
+- The newer edit to [[Visions of the Sentient Ocean]] changes lint state and emphasis markup only; its account of the Sentient Ocean is unchanged.
+- `POV: modern` and the existing temporal-coverage note remain supported by the broadly modern reference frame and the dated DR 1749 campaign account.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The final sentence of the `Campaign:dufr` passage calls the Sentient Ocean the merfolk's "divinity," but [[Visions of the Sentient Ocean]] presents merfolk mysticism as centered on memory and the Garden of Names, with no temples or conventional worship. This makes the religious relationship stronger than the source supports. Copy-ready candidate: "Though these rumors are far from clear, they paint a picture of an alien entity from some distant extraplanar realm, possessing unfathomable power and serving as the creator and protector of the merfolk."
 %%^End%%

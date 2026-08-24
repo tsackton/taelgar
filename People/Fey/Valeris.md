@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:54:27-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
 species: satyr
 gender: male
@@ -35,27 +35,28 @@ need to add details of his backstory / why he was cursed from session notes
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a June DR 1749 portrait spanning Valeris's time at Sunwine Hall and journey into Amberglow; his later fate is not established.
+Temporal coverage: a June DR 1749 portrait spanning Valeris's time at Sunwine Hall and journey into Amberglow; the visible article does not include his decision on DR 1749-06-13 to remain there.
 %%^End%%
 
 %%^Lint%%
-### Editorial assessment
-**Underdeveloped**. The visible article omits the established origin and price of Valeris's truth curse and his established June 1749 decision to remain in Amberglow. The smallest useful development is one concise backstory paragraph from `[[Session 120 (DuFr)]]` plus one dated outcome sentence from `[[Session 123 (DuFr)]]`.
+## Taelgar note lint
+
+### Applied changes
+- Updated `povNotes` to replace the obsolete claim that Valeris's later fate was unestablished with the established DR 1749-06-13 outcome boundary.
 
 ### Validated judgments
-- `status/gameupdate/dufr` is supported because the campaign established a later location and purpose not represented in the visible prose.
-- The ordinary comment is a source pointer for the missing backstory.
+- `status/gameupdate/dufr` remains supported because the established outcome at the Prismwell is not represented in the visible article.
+- The shared comment is a source pointer for the missing backstory.
+- The SECRET block was reviewed for possible recovery without exposing its contents here.
+- The DR 1749 viewpoint remains appropriate; the persistent temporal note now accurately identifies the visible article's omitted later outcome.
 
-### DM evidence review
-Confirmed matching private notes; contents are not reproduced:
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 120 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 121 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 122 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 123 - DM Notes]]
+### Editorial assessment
 
-### Open work
-- [ ] **Warning — coverage.established_fact_missing:** `[[Session 120 (DuFr)]]` establishes the defining cause of the curse: Valeris told a reality-altering story to undo Yasara the Golden's oath, and the price was that he could never lie again. Add a bounded account such as: "Valeris's curse began when he told a story powerful enough to undo an oath sworn by Yasara the Golden. Reality accepted the tale, but thereafter Valeris could never speak a lie."
-- [ ] **Warning — coverage.later_material_change:** `[[Session 123 (DuFr)]]` establishes that after traveling with the Dunmar Fellowship, Valeris remained in Amberglow to help repair the realm and perhaps free himself of the curse. Choose whether to add this as a dated outcome and update the temporal framing, defer it while retaining `status/gameupdate/dufr`, or intentionally preserve the earlier portrait.
-- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed pronunciation `vuh-LAIR-iss`, derived from the documented lyrical and partly Classical-Greek-inspired pattern for Sylvan names. If accepted, copy it to frontmatter and change the name entry to `status: documented`.
-- [ ] **Suggestion — frontmatter.deprecated_field:** `subspecies: satyr` is deprecated. Decide whether `satyr` is the primary classification (`species: satyr`) or display wording for the broader `species: fey` classification (`typeOfAlias: satyr`), then remove the deprecated field.
+**Underdeveloped**. The visible article identifies Valeris and his curse but omits the established cause of that defining curse and the established outcome of his journey through Amberglow. The smallest useful development is one concise backstory paragraph from [[Session 120 (DuFr)]] plus one dated outcome sentence from [[Session 123 (DuFr)]].
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** [[Session 120 (DuFr)]] establishes that Valeris became unable to lie after telling a reality-altering story to undo an oath sworn by Yasara the Golden. This is the defining cause of the curse around which the visible article is organized. Copy-ready candidate: `Valeris's curse began when he told a story powerful enough to undo an oath sworn by Yasara the Golden. Reality accepted the tale, but thereafter Valeris could never speak a lie.`
+- [ ] **Warning — coverage.later_material_change:** [[Session 123 (DuFr)]] establishes that on DR 1749-06-13 Valeris remained in Amberglow to help repair the realm and perhaps free himself from the curse. Choose whether to add this dated outcome, defer the update while retaining `status/gameupdate/dufr`, or intentionally preserve the earlier portrait. Copy-ready candidate if updating: `After [[Cloudspinner]] was freed at the [[Prismwell]] on DR 1749-06-13, Valeris remained in [[Amberglow]] to help repair the realm and perhaps free himself from his curse.`
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `Valeris — vuh-LAIR-iss` from the documented lyrical and partly Classical-Greek-inspired pattern for Sylvan names. Review the proposal; if accepted, copy it to frontmatter and change the entry to `status: documented`, or revise it while preserving its derivation.
 %%^End%%

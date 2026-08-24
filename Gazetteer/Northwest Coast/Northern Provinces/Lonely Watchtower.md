@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Lonely Watchtower
+lintedAt: "2026-08-23T23:55:52-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: building
+typeOfAlias: ruined tower
+name: Lonely Watchtower
 whereabouts:
-  - type: primary
-    location: Chalyte Hills
+  - {type: primary, location: Chalyte Hills}
 dm_owner: none
 dm_notes: none
-typeOfAlias: ruined tower
+POV: modern
 ---
 # The Lonely Watchtower
 >[!info]+ Information  
@@ -29,3 +30,11 @@ Site of the party’s assault on [[Raluhk|Raluhk the Orog]] and the rescue of [[
 See: [[Session 8 - GL - Adventure]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Lonely Watchtower, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the tower's use during Grumella's War is a historical episode within its longer abandonment.
+%%^End%%

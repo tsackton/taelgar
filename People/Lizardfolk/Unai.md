@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T23:46:56-04:00"
-lintVersion: "3.4"
-tags: [person, status/check/lint, status/check/mike]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/lint]
 species: lizardfolk
 ancestry: null
 gender: female
@@ -34,10 +34,12 @@ Temporal coverage: a DR 1720 portrait of Unai as Ganboa's herbalist, healer, and
 ## Taelgar note lint
 
 ### Applied changes
-- Normalized frontmatter, added `knownTo: [clee]`, and recorded `POV: 1720` with persistent name and temporal-review metadata.
+- None.
+
+### Validated judgments
+- The DR 1720 viewpoint and its persistent temporal interpretation remain supported.
 
 ### Open findings
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `Unai — oo-NYE` from the Lizardling Basque analogue. Review the proposal; if accepted, copy `oo-NYE` to frontmatter and change the entry to `status: documented`, or revise the entry while preserving its derivation.
-- [ ] **Suggestion — dm.notes_no_local_evidence:** No matching local-only `_DM_` note was found for the positive `dm_notes: color` attestation. Verify whether the attestation refers to remembered or off-vault material; preserve it unless a human decides otherwise.
 
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `Unai — oo-NYE` from the Lizardling Basque analogue. Review the proposal; if accepted, copy `oo-NYE` to frontmatter and change the entry to `status: documented`, or revise the entry while preserving its derivation.
 %%^End%%

@@ -1,10 +1,10 @@
 ---
-subspecies: vampire
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T15:54:27-04:00"
-lintVersion: "3.4"
-tags: [person, status/gameupdate/dufr, status/check/lint]
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: undead
+subspecies: vampire
 title: Lord
 died: 1749-05-03
 name: Rhodar von Glauer
@@ -21,6 +21,20 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 %%^Campaign:dufr%%
+
+Rhodar von Glauer, styling himself Lord of Shadowkeep, was the former leader of the Rodnya Okolov, until he betrayed Ursk through an infernal bargain. He became a vampire lord, and escaped Ursk, establishing himself at [[Shadowkeep]] on [[Drachen Peak]], west of [[Ursk]]. From here, he terrorized northern coast of the [[Green Sea]], and raided western Ursk, for victims required for his blood thirst. His rule was ended on (DR:: 1749-05-03) when the [[Dunmar Fellowship]] invaded [[Shadowkeep]], destroyed Rhodar, and triggered the collapse of the castle. 
+
+## History
+
+Rhodar was born in an obscure village in the foothills of the [[Yengorza Mountains]], poor but blessed with an innate skill with magic. He joined the Rodnya Okolov (now know as the [[Eyes of Vedmakov]]), and advanced quickly through their ranks. He was extremely talented, and took naturally to the Watcher's Sight. 
+
+But, as his power grew, so to did the bonds of the krev. Rhodar rebelled against these strictures, always seeking ways around them. Eventually, he discovered one: an infernal bargain. He made a pact with a devil, trading his eternal soul for ageless life, power, and escape from Ursk's bonds. 
+
+It was then he truly became Lord Rhodar von Glauer, forgetting his birth name. He fled Ursk, and established himself in [[Shadowkeep]], outside the western border of Ursk. From here, he began a rule of terror, his domain stretching along the north coast of the Green Sea. He even began raiding into western Ursk on occasion. Over the years, the border stabilized, and in DR 1748-DR 1749 Rhodar was in talks with some Urskan factions to establish peace at last. 
+
+However, on (DR:: 1749-05-03) the [[Dunmar Fellowship]] killed Rhodar in his lair, ending his rule and ultimately causing the collapse of [[Shadowkeep]] itself. 
+
+## Character and Ambition
 
 >[!quote] Rhodar Von Glauer's Memories of his Life
 >*Watching the Dunmar Fellowship infiltrate his lair, Rhodar von Glauer thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out.*
@@ -40,33 +54,9 @@ POV: 1749
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Rhodar von Glauer, language: Urskan, pronunciation: ROH-dahr fon GLOW-er, status: documentation}
+- {name: Rhodar von Glauer, language: Urskan, pronunciation: ROH-dahr fon GLOW-er, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1749 confrontation-era portrait with selected earlier backstory;.
-%%^End%%
-
-%%^Lint%%
-### Editorial assessment
-**Underdeveloped**. The campaign-framed backstory stops immediately before the decisive confrontation and does not state Rhodar's permanent death or the collapse of Shadowkeep. The smallest useful development is one dated outcome paragraph identifying the Dunmar Fellowship's victory and its immediate consequence.
-
-### Applied changes
-- Corrected `infilitrate` to `infiltrate` and closed the final italicized paragraph.
-
-### Validated judgments
-- `status/gameupdate/dufr` is supported because the visible narrative predates Rhodar's established death and the destruction of his keep.
-
-### DM evidence review
-Confirmed matching private notes; contents are not reproduced:
-- [[_DM_/_Dunmari Frontier/Campaign Outline - Arcs and Levels]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 96 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 97 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Shadowkeep - DM Notes]]
-
-### Open work
-- [ ] **Warning — coverage.later_material_change:** `[[Session 97 (DuFr)]]` establishes that the Dunmar Fellowship permanently destroyed Rhodar on May 3rd, 1749, and `[[Shadowkeep]]` establishes that the keep collapsed when the infernal magic tied to him failed. Choose one bounded resolution: add a dated outcome paragraph and retain the DR 1749 POV; defer the update while retaining `status/gameupdate/dufr`; or intentionally preserve the pre-confrontation snapshot and review the game-update tag.
-- [ ] **Warning — metadata.names_unresolved_status:** The adopted name's source language is not established. Review the cautious spelling-based proposal `ROH-dahr fon GLOW-er`; if accepted, copy it to frontmatter and change the name entry to `status: documented`.
-- [ ] **Suggestion — frontmatter.deprecated_field:** `subspecies: vampire` is deprecated. Decide whether `vampire` is the primary classification (`species: vampire`) or display wording for the broader `species: undead` classification (`typeOfAlias: vampire`), then remove the deprecated field.
+Temporal coverage: a DR 1749 confrontation-era portrait with selected earlier backstory.
 %%^End%%

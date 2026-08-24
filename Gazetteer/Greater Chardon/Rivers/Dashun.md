@@ -7,7 +7,7 @@ typeOf: waterway
 typeOfAlias: river
 name: Dashun
 pronunciation: DAH-shoon
-whereabouts: Chardonian Empire
+whereabouts: Coastlands
 dm_owner: none
 dm_notes: none
 POV: modern

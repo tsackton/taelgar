@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-24T09:25:51-04:00"
+lintVersion: "3.5"
 tags: [place, status/gameupdate/gl]
-name: Order of Twilight Temple (Voltara)
 typeOf: holy site
+typeOfAlias: temple
+name: Order of Twilight Temple (Voltara)
 whereabouts:
-  - type: primary
-    location: Northern Provinces
+  - {type: primary, location: Northern Provinces}
 dm_owner: none
 dm_notes: none
-typeOfAlias: temple
+POV: 1747
 ---
 
 # Order of Twilight Temple (Voltara)
@@ -28,3 +30,11 @@ Ruins of an [[Order of Twilight]] temple south‑west of [[Voltara]], desecrated
 Recovered items included temple silver and order‑marked relics; Abyssal corruption had spawned maw demons, rutterkin, and a glabrezu as the final assault as the portal closed.
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Order of Twilight Temple (Voltara), role: primary, language: Common, notes: "Plain Common descriptive title; the parenthetical distinguishes this temple from other Order of Twilight sites.", status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1747 post-reconsecration snapshot; the extent and timing of later physical rebuilding are not established.
+%%^End%%

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-21T18:44:38-04:00"
-lintVersion: "3.4"
+lintedAt: "2026-08-23T23:02:51-04:00"
+lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
@@ -43,12 +43,13 @@ Temporal coverage: a DR 1748 encounter portrait of Karmana as the ghost guarding
 ## Taelgar note lint
 
 ### Applied changes
-- Added the established Dunmar Frontier interaction, current monastery whereabouts, `knownTo`, `POV`, `povNotes`, and a persistent pronunciation proposal; normalized frontmatter formatting.
+- None.
 
 ### Validated judgments
-- `status/cleanup/metadata` remains supported because the shared comment's undead-classification question is unresolved; no status was changed.
-- Matching local-only sources support `dm_notes: important`; their contents are not reproduced here.
+- The local-only `SECRET` block was reviewed; useful material is routed only through the private lint handoff.
+- `status/cleanup/metadata` remains supported by the unresolved undead-classification question.
 
 ### Open findings
-- [ ] **Warning — metadata.names_unresolved_status:** Persistent name review remains open for `Karmana — kar-MAH-nah` (proposed). The Dunmari Hindi and Indo-Iranian analogue supports this cautious reading, but exact in-world phonology is not established. Accept it by adding `pronunciation: kar-MAH-nah` to frontmatter and changing the name entry to `status: documented`, or correct the proposal.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared comment `%%need to add whereabouts and campaign info%%` is obsolete because both `whereabouts` and `campaignInfo` are now present in frontmatter. Candidate: remove that comment.
 %%^End%%

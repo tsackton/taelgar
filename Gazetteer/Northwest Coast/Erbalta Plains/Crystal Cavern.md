@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-08-23T23:55:52-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: subterranean feature
-whereabouts:
-  - type: secondary
-    location: Northern Provinces
-  - type: primary
-    location: Erbalta Plains
-dm_notes: none
-dm_owner: none
 typeOfAlias: cave
+name: Crystal Cavern
+whereabouts:
+  - {type: secondary, location: Northern Provinces}
+  - {type: primary, location: Erbalta Plains}
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Crystal Cavern
 >[!info]+ Information  
@@ -185,4 +187,27 @@ If negotiations fail, the party may simply leave and report back to **Lyra**—s
 
 ---
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Crystal Cavern, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern, describing the cavern after the DR 1747 recovery of the Stonemaster Scroll.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter, added an explicit `name`, and added persistent name and temporal POV metadata.
+
+### Validated judgments
+- The plain-English subject name does not require a pronunciation.
+- The `Campaign:none` block was reviewed as DM-only encounter and adventure material.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** [[Great Library Session Notes - Arc 1]] and [[Stonemaster Scroll]] establish that the [[Silver Tempests]] recovered the Stonemaster Scroll here in DR 1747, which explains the absent guardian and empty obsidian charge. Add: “In DR 1747, the [[Silver Tempests]] recovered the [[Stonemaster Scroll]] from the cavern, leaving its rune guardian gone and the obsidian tube that held the scroll empty.”
 %%^End%%
