@@ -419,6 +419,186 @@ function provisionalNameInfo(value) {
   };
 }
 
+function splitInlineMapping(value) {
+  const parts = [];
+  let current = "";
+  let quote = "";
+  let depth = 0;
+  for (let index = 0; index < value.length; index += 1) {
+    const character = value[index];
+    if (quote) {
+      current += character;
+      if (character === quote) {
+        if (quote === "'" && value[index + 1] === "'") {
+          current += value[index + 1];
+          index += 1;
+        } else if (index === 0 || value[index - 1] !== "\\") {
+          quote = "";
+        }
+      }
+      continue;
+    }
+    let previous = index - 1;
+    while (previous >= 0 && /\s/.test(value[previous])) previous -= 1;
+    const startsQuote = previous < 0 || ":,[{(".includes(value[previous]);
+    if ((character === "'" || character === '"') && startsQuote) {
+      quote = character;
+      current += character;
+    } else if ("[{(".includes(character)) {
+      depth += 1;
+      current += character;
+    } else if ("]})".includes(character)) {
+      depth = Math.max(0, depth - 1);
+      current += character;
+    } else if (character === "," && depth === 0) {
+      if (current.trim()) parts.push(current.trim());
+      current = "";
+    } else {
+      current += character;
+    }
+  }
+  if (current.trim()) parts.push(current.trim());
+  return parts;
+}
+
+function inlineMappingSeparator(value) {
+  let quote = "";
+  let depth = 0;
+  for (let index = 0; index < value.length; index += 1) {
+    const character = value[index];
+    if (quote) {
+      if (character === quote) {
+        if (quote === "'" && value[index + 1] === "'") {
+          index += 1;
+        } else if (index === 0 || value[index - 1] !== "\\") {
+          quote = "";
+        }
+      }
+      continue;
+    }
+    let previous = index - 1;
+    while (previous >= 0 && /\s/.test(value[previous])) previous -= 1;
+    const startsQuote = previous < 0 || ":,[{(".includes(value[previous]);
+    if ((character === "'" || character === '"') && startsQuote) {
+      quote = character;
+    } else if ("[{(".includes(character)) depth += 1;
+    else if ("]})".includes(character)) depth = Math.max(0, depth - 1);
+    else if (character === ":" && depth === 0) return index;
+  }
+  return -1;
+}
+
+function parseInlineScalar(value) {
+  const text = String(value || "").trim();
+  if (text.length < 2) return text;
+  if (text.startsWith('"') && text.endsWith('"')) {
+    try {
+      return JSON.parse(text);
+    } catch (_error) {
+      return text.slice(1, -1);
+    }
+  }
+  if (text.startsWith("'") && text.endsWith("'")) {
+    return text.slice(1, -1).replace(/''/g, "'");
+  }
+  return text;
+}
+
+function normalizeMetadataLanguage(value) {
+  const language = normalizeTypography(value);
+  if (!language || language.toLocaleLowerCase("en") === "unknown") {
+    return "Unknown";
+  }
+  const known = LANGUAGE_DEFINITIONS.find(([, candidate]) =>
+    candidate.toLocaleLowerCase("en") === language.toLocaleLowerCase("en")
+  );
+  return known ? known[1] : language;
+}
+
+function parseNameMetadata(text) {
+  const entries = [];
+  let inBlock = false;
+  for (const line of String(text || "").split(/\r?\n/)) {
+    const trimmed = line.trim();
+    if (trimmed === "%%^Metadata:names:v1%%") {
+      inBlock = true;
+      continue;
+    }
+    if (!inBlock) continue;
+    if (trimmed === "%%^End%%") break;
+    const item = trimmed.match(/^-\s*\{(.*)\}\s*$/);
+    if (!item) continue;
+    const entry = {};
+    for (const part of splitInlineMapping(item[1])) {
+      const separator = inlineMappingSeparator(part);
+      if (separator < 1) continue;
+      const key = part.slice(0, separator).trim();
+      if (!/^[A-Za-z][A-Za-z0-9_-]*$/.test(key)) continue;
+      entry[key] = parseInlineScalar(part.slice(separator + 1));
+    }
+    const name = cleanAlias(entry.name);
+    if (!plausibleName(name)) continue;
+    entries.push({
+      ...entry,
+      name,
+      language: normalizeMetadataLanguage(entry.language),
+      source: "name-metadata",
+    });
+  }
+  return entries;
+}
+
+function normalizedMetadataRole(entry) {
+  return normalizeStrict(entry?.role);
+}
+
+function isComponentNameMetadata(entry) {
+  return ["component", "name component"].includes(
+    normalizedMetadataRole(entry),
+  );
+}
+
+function primaryNameMetadataEntry(entries) {
+  const nameEntries = (entries || []).filter(
+    (entry) => !isComponentNameMetadata(entry),
+  );
+  return nameEntries.find((entry) =>
+    normalizedMetadataRole(entry).startsWith("primary")
+  ) || nameEntries[0] || null;
+}
+
+function nameMetadataForForm(subject, form) {
+  const key = normalizeStrict(form);
+  if (!key) return null;
+  return (subject.nameMetadata || []).find((entry) =>
+    !isComponentNameMetadata(entry) && normalizeStrict(entry.name) === key
+  ) || null;
+}
+
+function nameMetadataForComponent(subject, component) {
+  const keys = new Set([
+    normalizeStrict(component.text),
+    normalizeStrict(String(component.text || "").replace(/[’']s$/i, "")),
+  ]);
+  return (subject.nameMetadata || []).find((entry) =>
+    isComponentNameMetadata(entry) && keys.has(normalizeStrict(entry.name))
+  ) || null;
+}
+
+function nameMetadataLanguage(entry, basis) {
+  if (!entry) return null;
+  const language = normalizeMetadataLanguage(entry.language);
+  return {
+    ...languageResult(
+      familyForLanguage(language),
+      language,
+      "name-metadata",
+      basis || `Metadata:names:v1 entry for ${entry.name}`,
+    ),
+    nameMetadata: entry,
+  };
+}
+
 function nameReviewForSubject(subject) {
   const tags = toStrings(subject.tags).map((tag) =>
     String(tag).replace(/^#/, "").toLocaleLowerCase("en")
@@ -979,6 +1159,14 @@ function languageFromLocations(locations) {
 }
 
 function inferPrimaryLanguage(subject) {
+  const metadata = nameMetadataForForm(subject, subject.name) ||
+    primaryNameMetadataEntry(subject.nameMetadata);
+  if (metadata) {
+    return nameMetadataLanguage(
+      metadata,
+      `Metadata:names:v1 primary entry for ${metadata.name}`,
+    );
+  }
   const explicit = explicitLanguageForName(
     subject.body,
     subject.name,
@@ -1009,6 +1197,13 @@ function inferPrimaryLanguage(subject) {
 }
 
 function inferConceptLanguage(concept, subject, primaryLanguage) {
+  const metadata = nameMetadataForForm(subject, concept.preferredForm);
+  if (metadata) {
+    return nameMetadataLanguage(
+      metadata,
+      `Metadata:names:v1 entry for ${metadata.name}`,
+    );
+  }
   if (concept.role === "primary") return primaryLanguage;
   const explicit = explicitLanguageForName(
     subject.body,
@@ -1046,6 +1241,13 @@ function mergeObservedForms(subject) {
   const primaryName = provisionalNameInfo(subject.name).text;
   const candidates = [
     { text: primaryName, source: "primary" },
+    ...(subject.nameMetadata || [])
+      .filter((entry) => !isComponentNameMetadata(entry))
+      .map((entry) => ({
+        text: entry.name,
+        source: "name-metadata",
+        nameMetadata: entry,
+      })),
     ...toStrings(subject.aliases).map((text) => ({ text, source: "frontmatter" })),
     ...(subject.textAliases || []),
   ];
@@ -1068,6 +1270,7 @@ function mergeObservedForms(subject) {
     if (candidate.evidence && !record.evidence.includes(candidate.evidence)) {
       record.evidence.push(candidate.evidence);
     }
+    if (candidate.nameMetadata) record.nameMetadata = candidate.nameMetadata;
   }
   return [...byKey.values()];
 }
@@ -1081,6 +1284,7 @@ function makeConcept(subject, form, role) {
     preferredForm: form.text,
     normalized: normalizeLoose(form.text),
     role,
+    nameMetadata: form.nameMetadata || nameMetadataForForm(subject, form.text),
     forms: [
       {
         ...form,
@@ -1324,7 +1528,27 @@ function decomposeDisplayName(value, subject) {
     : decomposeNonPersonName(value, subject);
 }
 
-function inferredLanguageForComponent(component, concept, subject) {
+function inferredLanguageForComponent(
+  component,
+  concept,
+  subject,
+  isPrimaryComponent = false,
+) {
+  const componentMetadata = nameMetadataForComponent(subject, component);
+  if (componentMetadata) {
+    return nameMetadataLanguage(
+      componentMetadata,
+      `Metadata:names:v1 component entry for ${componentMetadata.name}`,
+    );
+  }
+
+  if (isPrimaryComponent && concept.nameMetadata) {
+    return nameMetadataLanguage(
+      concept.nameMetadata,
+      `Metadata:names:v1 entry for ${concept.nameMetadata.name}`,
+    );
+  }
+
   if (component.role === "ordinal") {
     return languageResult(
       "Special",
@@ -1510,11 +1734,13 @@ function decorateComponent(
     component,
     concept,
     subject,
+    isPrimaryComponent,
   );
   let effectiveLanguage = inferredLanguage;
   let languageSource = [
     "text-evidence",
     "conflict",
+    "name-metadata",
   ].includes(inferredLanguage.confidence)
     ? inferredLanguage.confidence
     : inferredLanguage.confidence === "convention"
@@ -1546,7 +1772,9 @@ function decorateComponent(
     );
     languageSource = "decision";
   } else if (
-    !["text-evidence", "conflict"].includes(inferredLanguage.confidence) &&
+    !["text-evidence", "conflict", "name-metadata"].includes(
+      inferredLanguage.confidence,
+    ) &&
     CORPUS_COMPONENT_ROLES.has(component.role)
   ) {
     matchedRule = firstMatchingRule(
@@ -1574,6 +1802,12 @@ function decorateComponent(
       status = "confirmed";
     } else status = "overridden";
   } else if (languageSource === "rule") status = "rule";
+  else if (languageSource === "name-metadata") {
+    const metadataStatus = normalizeStrict(
+      inferredLanguage.nameMetadata?.status,
+    );
+    status = metadataStatus ? `metadata-${metadataStatus}` : "metadata";
+  }
   else if (languageSource === "text-evidence") status = "text-evidence";
   else if (languageSource === "conflict") status = "conflict";
   else if (languageSource === "convention") status = "convention";
@@ -1611,6 +1845,7 @@ function decorateComponent(
     corpusSetting,
     corpusEligible,
     notes: componentDecision?.notes || "",
+    nameMetadata: inferredLanguage.nameMetadata || null,
   };
 }
 
@@ -1815,6 +2050,8 @@ function buildCatalog(subjects, records, options = {}) {
         sourceForm: conceptDecision?.sourceForm ||
           (conventionalUnattestedTranslation ? "unattested" : ""),
         decisionNotes: conceptDecision?.notes || "",
+        pronunciation: concept.nameMetadata?.pronunciation ||
+          (concept.role === "primary" ? subject.pronunciation : ""),
         languageSummary: languageSummary(decoratedComponents),
         corpusComponents: decoratedComponents.filter(
           (component) => component.corpusEligible,
@@ -2060,7 +2297,17 @@ function catalogExportRecords(catalog) {
         rendering: component.rendering,
       })),
     })),
-    pronunciation: concept.subject.pronunciation || "",
+    pronunciation: concept.pronunciation || "",
+    name_metadata: concept.nameMetadata ? {
+      name: concept.nameMetadata.name,
+      role: concept.nameMetadata.role || null,
+      language: concept.nameMetadata.language,
+      pronunciation: concept.nameMetadata.pronunciation || null,
+      meaning: concept.nameMetadata.meaning || null,
+      derived_from: concept.nameMetadata.derivedFrom || null,
+      notes: concept.nameMetadata.notes || null,
+      status: concept.nameMetadata.status || null,
+    } : null,
     tags: concept.subject.tags,
   }));
 }
@@ -2146,6 +2393,8 @@ module.exports = {
   normalizeStrict,
   normalizeLoose,
   provisionalNameInfo,
+  parseNameMetadata,
+  primaryNameMetadataEntry,
   nameReviewForSubject,
   subtypeForSubject,
   subtypeChoices,
