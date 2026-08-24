@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-23T23:02:51-04:00"
+lintedAt: "2026-08-24T11:03:17-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: undead
 subspecies: vampire
 title: Lord
@@ -10,33 +10,35 @@ died: 1749-05-03
 name: Rhodar von Glauer
 pronunciation: ROH-dahr fon GLOW-er
 knownTo: [dufr]
+whereabouts: Shadowkeep
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1749
 ---
 # Lord Rhodar Von Glauer
 *(ROH-dahr fon GLOW-er)*
 >[!info]+ Biographical Info  
 > An [[Undead|undead]] (vampire)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%^Campaign:dufr%%
 
-Rhodar von Glauer, styling himself Lord of Shadowkeep, was the former leader of the Rodnya Okolov, until he betrayed Ursk through an infernal bargain. He became a vampire lord, and escaped Ursk, establishing himself at [[Shadowkeep]] on [[Drachen Peak]], west of [[Ursk]]. From here, he terrorized northern coast of the [[Green Sea]], and raided western Ursk, for victims required for his blood thirst. His rule was ended on (DR:: 1749-05-03) when the [[Dunmar Fellowship]] invaded [[Shadowkeep]], destroyed Rhodar, and triggered the collapse of the castle. 
+Rhodar von Glauer, styling himself Lord of Shadowkeep, was the former leader of the Rodnya Okolov until he betrayed Ursk through an infernal bargain. He became a vampire lord and escaped Ursk, establishing himself at [[Shadowkeep]] on [[Drachen Peak]], west of [[Ursk]]. From here, he terrorized the northern coast of the [[Green Sea]] and raided western Ursk for victims to sate his thirst for blood. His rule was ended on (DR:: 1749-05-03) when the [[Dunmar Fellowship]] invaded [[Shadowkeep]], destroyed Rhodar, and triggered the collapse of the castle.
 
 ## History
 
-Rhodar was born in an obscure village in the foothills of the [[Yengorza Mountains]], poor but blessed with an innate skill with magic. He joined the Rodnya Okolov (now know as the [[Eyes of Vedmakov]]), and advanced quickly through their ranks. He was extremely talented, and took naturally to the Watcher's Sight. 
+Rhodar was born in an obscure village in the foothills of the [[Yengorza Mountains]], poor but blessed with an innate skill with magic. He joined the Rodnya Okolov (now known as the [[Eyes of Vedmakov]]), and advanced quickly through their ranks. He was extremely talented, and took naturally to the Watcher's Sight.
 
-But, as his power grew, so to did the bonds of the krev. Rhodar rebelled against these strictures, always seeking ways around them. Eventually, he discovered one: an infernal bargain. He made a pact with a devil, trading his eternal soul for ageless life, power, and escape from Ursk's bonds. 
+But as his power grew, so too did the bonds of the krev. Rhodar rebelled against these strictures, always seeking ways around them. Eventually, he discovered one: an infernal bargain. He made a pact with a devil, trading his eternal soul for ageless life, power, and escape from Ursk's bonds.
 
-It was then he truly became Lord Rhodar von Glauer, forgetting his birth name. He fled Ursk, and established himself in [[Shadowkeep]], outside the western border of Ursk. From here, he began a rule of terror, his domain stretching along the north coast of the Green Sea. He even began raiding into western Ursk on occasion. Over the years, the border stabilized, and in DR 1748-DR 1749 Rhodar was in talks with some Urskan factions to establish peace at last. 
+It was then he truly became Lord Rhodar von Glauer, forgetting his birth name. He fled Ursk, and established himself in [[Shadowkeep]], outside the western border of Ursk. From here, he began a rule of terror, his domain stretching along the north coast of the Green Sea. He even began raiding into western Ursk on occasion. Over the years, the border stabilized, and in DR 1748–1749 Rhodar was in talks with some Urskan factions to establish peace at last. For Rhodar, peace with Urks was crucial to allow him to push west, into Skaerhem and even as far as Tollen. 
 
 However, on (DR:: 1749-05-03) the [[Dunmar Fellowship]] killed Rhodar in his lair, ending his rule and ultimately causing the collapse of [[Shadowkeep]] itself. 
 
 ## Character and Ambition
 
->[!quote] Rhodar Von Glauer's Memories of his Life
+>[!quote] Rhodar von Glauer's Memories of his Life
 >*Watching the Dunmar Fellowship infiltrate his lair, Rhodar von Glauer thinks back. He can still remember his days among the living. He joined the Eyes of Vedmakov out of a sense of patriotism, he supposes. Misguided, it turned out.*
 >
 >*In those days, the Rodyna Okolov was strong. The eyes and the shield, people said, Okolov and Morozmir, the watchers and the protectors, the heart of the defense of Ursk against the dragons of the north, always seeking to reclaim their power, to rise again in another great host, to see another Vimfrost take all the north.*
@@ -53,10 +55,12 @@ However, on (DR:: 1749-05-03) the [[Dunmar Fellowship]] killed Rhodar in his lai
 
 %%^End%%
 
+%%SECRET[v2:f6c53b10d074ff24defe47683b7a2de3]%%
+
 %%^Metadata:names:v1%%
 - {name: Rhodar von Glauer, language: Urskan, pronunciation: ROH-dahr fon GLOW-er, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1749 confrontation-era portrait with selected earlier backstory.
+Temporal coverage: a DR 1749 retrospective through Rhodar's permanent destruction on May 3rd, with selected earlier backstory.
 %%^End%%
