@@ -57,7 +57,7 @@ lintVersion: "3.5"
 
 The linter must take `lintVersion` from the validator output for that run. It must not infer the version from the target note, copy an older value, or maintain a separate hard-coded skill version. If `linterVersion` and `validatorVersion` disagree, the lint fails and writes no new timestamp.
 
-Change the linter version only with explicit user authorization. When a version change is authorized, use it for changes that can alter applicability, severity, findings, safe-fix behavior, persistent lint state, or report interpretation; editorial clarification that cannot change an outcome does not require a bump. Schema versions such as `Metadata:names:v1` and the validator's output `schemaVersion` are independent of the linter version.
+The linter version is a human-controlled parameter. Change it only when a human explicitly directs that version change. Never infer authorization from an implementation change, bug fix, specification reconciliation, test change, altered lint outcomes, or maintenance request. When a version change is explicitly authorized, use the directed value consistently in the adopted specification and validator. Schema versions such as `Metadata:names:v1` and the validator's output `schemaVersion` are independent of the linter version.
 
 `dmNotesReviewVersion` is an independent minimum prior linter version for the contextual `dm_notes` evidence review. A note whose valid `lintVersion` is at least this value treats its recorded `lintedAt` as the last DM-attestation validation unless a matching `_DM_` source has since been modified. Unrelated future linter-version increases do not re-trigger DM review. When the adopted DM-review rules change, set `dmNotesReviewVersion` to the new linter version so older attestations are reviewed once under the new rules. Compare dotted versions numerically rather than lexically.
 
@@ -120,7 +120,7 @@ Every completed lint records the searchable scalar viewpoint in frontmatter `POV
 
 When contextual POV review applies, do not use `modern` merely because `povNotes` can state a narrower limitation. When the undated article centrally describes a specific living person's current leadership, office, whereabouts, age or life stage, or active relationship, that state normally makes the modern era too broad; use a supported decade or year unless the evidence establishes that the state is broadly stable across the era.
 
-When contextual POV review applies, choose `POV` from the undated visible frame. Historical backstory does not widen the viewpoint, and an isolated dated paragraph does not narrow it. When `povNotes` is applicable, it begins with `Temporal coverage:` and concisely records the article's actual shape: broad or approximately bounded coverage, a narrow snapshot, one-sided uncertainty, or discontinuous periods with gaps. If no temporal information or material temporal constraint is established, a generic statement that coverage is broadly modern is sufficient. Name event boundaries when established, distinguish unknown periods from contradicted states, and never invent an exact cutoff or infer continuity between separated facts. Before choosing a narrow POV, propose the smallest useful `Date:*` blocks for supported later facts or state changes; do not apply a new block without approval because it can change filtered visibility.
+When contextual POV review applies, choose `POV` from the undated visible frame. Historical backstory does not widen the viewpoint, and an isolated dated paragraph does not narrow it. When `povNotes` is applicable, it begins with `Temporal coverage:` and concisely records the article's actual shape: broad or approximately bounded coverage, a narrow snapshot, one-sided uncertainty, or discontinuous periods with gaps. When the visible undated prose naturally functions as current-era reference prose and no evidence requires a narrower or nonmodern reading, `modern` is appropriate and a generic broadly-modern coverage statement is sufficient. A dated interaction supports that reading only when it anchors the state described by the article. If no coherent modern, decade, or year reading position is supported, use `undated` and record that limitation. Name event boundaries when established, distinguish unknown periods from contradicted states, and never invent an exact cutoff or infer continuity between separated facts. Before choosing a narrow POV, propose the smallest useful `Date:*` blocks for supported later facts or state changes; do not apply a new block without approval because it can change filtered visibility.
 
 Later truth does not by itself make an explicitly earlier-POV note incorrect, but a later fact that would materially change the article still requires the human coverage, POV, and game-update disposition below. A defect exists when the note silently mixes incompatible viewpoints, uses unanchored changing language, exposes later knowledge in an earlier view, or applies campaign/date blocks inconsistently.
 
@@ -235,18 +235,17 @@ Canonical frontmatter ordering and formatting, versioned lint-state replacement,
 
 ### Frontmatter
 
-Version 3.0 uses this canonical ordering:
+The canonical ordering is:
 
-1. deprecated or obsolete fields, retained conspicuously for human migration;
-2. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
-3. `tags`, `typeOf`, `typeOfAlias` or person equivalents, and `ancestry`;
-4. unclassified fields in stable original order;
-5. `name`, `aliases`, `pronunciation`;
-6. `affiliations`, `whereabouts`; and
-7. `knownTo`, `excludePublish`, `audience`, `dm_owner`, `dm_notes`; and
-8. `POV`, immediately after `dm_notes` and therefore last in frontmatter.
+1. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
+2. the classification group: `tags`, `typeOf`, `subTypeOf`, `typeOfAlias`, `subTypeOfAlias`, `species`, `subspecies`, `speciesAlias`, and `ancestry`;
+3. unclassified fields in stable original order;
+4. `name`, `aliases`, `pronunciation`;
+5. `affiliations`, `whereabouts`; and
+6. `knownTo`, `excludePublish`, `audience`, `dm_owner`, `dm_notes`; and
+7. `POV`, immediately after `dm_notes` and therefore last in frontmatter.
 
-String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter never changes `headerVersion`, silently deletes a deprecated field, or rewrites unsafe YAML. Every deprecated-field finding proposes a plausible replacement or a bounded human choice.
+String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter never changes `headerVersion`, silently deletes a field, or rewrites unsafe YAML.
 
 ### Naming and pronunciation
 
@@ -278,7 +277,7 @@ The linter distinguishes three private in-note forms:
 - ordinary `%% ... %%` comments are Git-shared, nonpublic DM or editorial material; and
 - `Campaign:none` blocks are structured Git-shared DM material excluded from Taelgarverse.
 
-`dm_notes` is a human attestation that relevant information exists outside Git-tracked material or in someone's head. Shared comments or blocks do not imply it. Basic vocabulary validation always applies, but the contextual evidence review has an independent validation boundary. For `dm_owner: tim`, `joint`, or `none`, perform that review when any of the following is true:
+`dm_notes` is a human attestation that useful information remains outside Git-tracked material or in someone's head and is not already captured in the shared or public note or its shared backlinks. Shared comments or blocks do not imply it. Basic vocabulary validation always applies, but the contextual evidence review has an independent validation boundary. For `dm_owner: tim`, `joint`, or `none`, perform that review when any of the following is true:
 
 - the note has no valid `lintedAt`/`lintVersion` pair;
 - its prior `lintVersion` is numerically lower than `dmNotesReviewVersion`; or
@@ -289,13 +288,13 @@ If none applies, do not re-check or report on the `dm_notes` attestation during 
 When review applies, use these four attestation outcomes:
 
 - `dm_notes: none` with no matches is valid and produces no finding.
-- `dm_notes: none` with matches requires semantic disposition of the mechanically clustered candidates. Candidate presence alone is not a suggestion to change the human attestation. When a genuine cluster contains plausible public or private material absent from the target, surface that material in the private chat handoff as described below; otherwise produce no user-facing list.
+- `dm_notes: none` with matches requires semantic disposition of the mechanically clustered candidates. Candidate presence alone is not a suggestion to change the human attestation. When a genuine cluster contains plausible useful public or private material not already captured in the shared or public record, surface it in the private chat handoff so the human can judge both the material and whether the attestation remains accurate; otherwise produce no user-facing list.
 - `dm_notes: color` or `important` with no matches produces the suggestion “No `_DM_` notes found; verify `dm_notes`.” The field may represent information in someone's head or another off-vault source and must never be removed automatically.
 - `dm_notes: color` or `important` with matches supports the positive attestation. Confirmed source links are always reported: in the Lint block when the note is independently open, or in the private chat handoff when the note is clean. The linter does not adjudicate between the two positive values and does not screen those sources for recoverable public additions.
 
 Batch preparation constructs a mechanical evidence dossier before editorial review. It preserves every matching path, filesystem modification time, match kind, matched line, bounded source context, source-family grouping, and exact or near-duplicate context cluster. Clustering reduces repeated judgment but never discards a source or its provenance. Workers review each unique cluster once rather than screening every duplicate path separately. This dossier is owner-only temporary evidence and is not note content.
 
-For each genuine `_DM_` cluster for a target with `dm_notes: none`, record whether it offers no recoverable material, a plausible public addition, or a plausible private addition. A plausible addition receives the exact handoff marker `Destination: public` or `Destination: private`, a content-level summary, and a bounded copy-ready candidate in the mechanically rendered private user-facing chat. This content may be quoted or paraphrased in chat but must not be intentionally copied or paraphrased into a Git-tracked note, Git-shared Lint report, or other shared artifact. Privacy validation is a quick semantic sanity check completed by the editorial worker, not an exhaustive raw-text or lexical-overlap proof. The recovery remains an optional human adoption choice and creates no finding or attestation change by itself.
+For each genuine `_DM_` cluster for a target with `dm_notes: none`, record whether it offers no recoverable material, a plausible public addition, or a plausible private addition. A plausible addition receives the exact handoff marker `Destination: public` or `Destination: private`, a content-level summary, and a bounded copy-ready candidate in the mechanically rendered private user-facing chat. This content may be quoted or paraphrased in chat but must not be intentionally copied or paraphrased into a Git-tracked note, Git-shared Lint report, or other shared artifact. Privacy validation is a quick semantic sanity check completed by the editorial worker, not an exhaustive raw-text or lexical-overlap proof. The human decides separately whether the material is genuinely useful, whether to adopt it, and whether the attestation remains accurate; the linter itself creates no finding or attestation change.
 
 When a note with a plausible `_DM_` recovery is already open for an independent finding, the finalizer records only the supporting note paths in the replacement Lint block under an informational heading, with each exact Obsidian wikilink on its own dash-bulleted Markdown list item. It uses the same destination for confirmed positive-attestation support. Any `_DM_` wikilink the linter records in a Lint block must use that one-link-per-list-item form; inline links and multiple links on one item are invalid. Do not include private contents there. Because those links are then available in the note, the mechanically rendered chat handoff says that sources are recorded in the Lint block rather than duplicating them. For a clean note, the handoff includes the exact source links as a Markdown list. Do not list merely matching `dm_notes: none` sources that add nothing recoverable.
 
@@ -321,34 +320,9 @@ Metadata relationship resolution is a separate system and may use the vault's na
 
 ### Map metadata
 
-linterMapRequiredPlaceTypes:: "waterway", "road", "settlement"
+`Metadata:map:v1` follows [[Metadata Specification#Map Metadata Specification]]. Its required place types are declared by `linterMapRequiredPlaceTypes` in [[Note Categorization]].
 
-`Metadata:map:v1` is required for waterways, roads, and settlements and optional for other places. The supported model has only single-hex locations and two-ended features. Every location entry has `map` and `locator`; it may also have `role` or `feature`. `geometry`, `hex`, `sourceHex`, and `outletHex` are not part of the model. On re-lint, redundant `geometry` is removed and legacy position keys are converted to equivalent `locator` entries when that can be done without guessing.
-
-When positions are unknown, the linter writes the appropriate location entries and leaves their `locator` values blank; it never writes `status: missing` with `locations: []`. A blank locator remains an open `metadata.map_location_missing` finding until a human supplies it. A blank optional `feature` is not a finding. Existing empty placeholders are replaced with the typed form on re-lint. A coordinate in `13.07.F16` form always uses `map: world`. Coordinates remain strings.
-
-Waterways have two directionally meaningful entries:
-
-```yaml
-locations:
-  - {role: source, feature: , map: world, locator: }
-  - {role: outlet, feature: , map: world, locator: }
-```
-
-Roads have two unordered endpoints. They do not use `start` and `end` roles because either direction would be arbitrary; `feature` can optionally name a city or other feature at each endpoint:
-
-```yaml
-locations:
-  - {feature: , map: world, locator: }
-  - {feature: , map: world, locator: }
-```
-
-Settlements and other single-hex features have one entry:
-
-```yaml
-locations:
-  - {map: world, locator: }
-```
+The linter validates the adopted block shape and required entry types. On re-lint, it removes redundant `geometry`, converts legacy position keys to equivalent `locator` entries when that can be done without guessing, and replaces legacy empty placeholders with the appropriate typed form. When positions are unknown, it leaves only the required `locator` values blank; each blank locator remains an open `metadata.map_location_missing` finding until a human supplies it. A blank optional `feature` is not a finding.
 
 ### POV metadata and comment placement
 

@@ -909,7 +909,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
         aliases:
           - First
           - Second
-        subTypeOf: obsolete
+        timelineDescriptor: Test timeline
+        subTypeOf: secondary
         whereabouts:
           - type: home
             location: Voltara
@@ -932,7 +933,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     formatted = TaelgarNoteLint::FrontmatterFormatter.new(note).format_text
-    expected_fields = %w[subTypeOf headerVersion lintedAt lintVersion displayDefaults tags species customField name aliases whereabouts knownTo dm_notes POV]
+    expected_fields = %w[headerVersion lintedAt lintVersion displayDefaults tags subTypeOf species timelineDescriptor customField name aliases whereabouts knownTo dm_notes POV]
     reparsed = TaelgarNoteLint::ParsedNote.new("People/Test.md", formatted)
 
     assert_equal expected_fields, reparsed.field_order
@@ -1578,17 +1579,37 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes rule_ids(validator.validate_path("Groups/Invalid Attestation.md")), "dm.notes_unknown"
   end
 
-  def test_deprecated_fields_include_replacement_guidance
+  def test_supported_frontmatter_fields_do_not_emit_retired_deprecation_rules
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     report = validator.validate_text(
       "Groups/Dynasty.md",
-      "---\ntags: [group]\ntypeOf: family\nsubTypeOf: dynasty\n---\n# Dynasty\n"
+      <<~MARKDOWN
+        ---
+        tags: [group]
+        typeOf: family
+        subTypeOf: dynasty
+        subTypeOfAlias: ruling dynasty
+        subspecies: highborn
+        speciesAlias: dynast
+        deity: Laka
+        timelineDescriptor: The Dynasty
+        pcOwner: Hero
+        rarity: rare
+        activeYear: 1740
+        leaderOf: Realm
+        reignStart: 1700
+        aNoDate: undated
+        aPast: past
+        aPastWithStart: past with start
+        aCurrent: current
+        ---
+        # Dynasty
+      MARKDOWN
     )
-    finding = report.fetch("findings").find { |item| item["ruleId"] == "classification.deprecated_subtype" }
 
-    refute_nil finding
-    assert_includes finding.fetch("message"), "typeOfAlias: dynasty"
+    refute_includes rule_ids(report), "classification.deprecated_subtype"
+    refute_includes rule_ids(report), "frontmatter.deprecated_field"
   end
 
   def test_session_and_primary_source_authority_are_explicit_in_reports

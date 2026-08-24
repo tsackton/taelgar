@@ -33,9 +33,10 @@
         "linterCampaignRecordTags",
         "linterDescriptiveTagAliases",
         "linterDescriptiveTags",
-        "linterKnownToRequiredTags"
+        "linterKnownToRequiredTags",
+        "linterMapRequiredPlaceTypes"
       ],
-      "sha256": "90f8ab94edec3038fad97058e67d43bd73652555764254b8cf81e2136f7861f1"
+      "sha256": "0d708efe84bf4a495049d68d3d548499a49a8ca2ae2013d0c6d2aa65658034ba"
     },
     {
       "path": "_MoC/Note Status.md",
@@ -45,13 +46,6 @@
         "linterLocalDmReviewOwners"
       ],
       "sha256": "5ff7e97c88db8098955581aa6bcbbf57a906e4cb38742befd32a8c54e25923ff"
-    },
-    {
-      "path": "_MoC/Taelgar Note Linter.md",
-      "fields": [
-        "linterMapRequiredPlaceTypes"
-      ],
-      "sha256": "bc01eb8d1d8844bd3d817eb7bc49683cd87ad4e68c2ab6ff48f95089ddf23615"
     }
   ],
   "values": {
@@ -230,7 +224,7 @@
       "field": "linterAudienceSpecialValues"
     },
     "values.mapRequiredPlaceTypes": {
-      "path": "_MoC/Taelgar Note Linter.md",
+      "path": "_MoC/Note Categorization.md",
       "field": "linterMapRequiredPlaceTypes"
     },
     "aliases.descriptiveTags": {
