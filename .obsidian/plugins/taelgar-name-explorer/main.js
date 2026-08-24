@@ -282,14 +282,21 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
           const tags = core.toStrings(frontmatter.tags).map((tag) =>
             String(tag).replace(/^#/, "").toLocaleLowerCase("en")
           );
-          const rawName = core.toStrings(frontmatter.name)[0];
-          const sourceName = rawName || file.basename;
+          const rawText = await this.app.vault.cachedRead(file);
+          const nameMetadata = core.parseNameMetadata(rawText);
+          const primaryNameMetadata = core.primaryNameMetadataEntry(
+            nameMetadata,
+          );
+          const fallbackRawName = core.toStrings(frontmatter.name)[0] ||
+            file.basename;
+          const fallbackNameInfo = core.provisionalNameInfo(fallbackRawName);
+          const rawName = primaryNameMetadata?.name ||
+            fallbackRawName;
+          const sourceName = rawName;
           const nameInfo = core.provisionalNameInfo(sourceName);
           const noteType = core.chooseNoteType(tags);
           const subtypeInfo = core.subtypeForSubject(noteType, frontmatter);
-          const body = this.settings.scanTextEvidence
-            ? await this.app.vault.cachedRead(file)
-            : "";
+          const body = this.settings.scanTextEvidence ? rawText : "";
           const aliases = core.toStrings(frontmatter.aliases);
           return {
             path: file.path,
@@ -297,7 +304,8 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
             fileName: file.basename,
             rawName: sourceName,
             name: nameInfo.text,
-            provisionalName: nameInfo.provisional,
+            provisionalName: fallbackNameInfo.provisional ||
+              nameInfo.provisional,
             noteType,
             subtypes: subtypeInfo.values,
             subtypeLabel: subtypeInfo.label,
@@ -310,7 +318,9 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
             ],
             ancestry: core.toStrings(frontmatter.ancestry),
             locations: core.toStrings(frontmatter.whereabouts),
-            pronunciation: core.toStrings(frontmatter.pronunciation)[0] || "",
+            pronunciation: primaryNameMetadata?.pronunciation ||
+              core.toStrings(frontmatter.pronunciation)[0] || "",
+            nameMetadata,
             aliases,
             textAliases: this.settings.scanTextEvidence
               ? core.extractTextAliases(body, nameInfo.text)
@@ -573,6 +583,12 @@ class NameExplorerView extends ItemView {
         ["overridden", "Overridden"],
         ["confirmed", "Confirmed"],
         ["reviewed-unknown", "Reviewed unknown"],
+        ["metadata-documented", "Name metadata: documented"],
+        ["metadata-inferred", "Name metadata: inferred"],
+        ["metadata-proposed", "Name metadata: proposed"],
+        ["metadata-disputed", "Name metadata: disputed"],
+        ["metadata-unresolved", "Name metadata: unresolved"],
+        ["metadata", "Name metadata"],
         ["rule", "Catalog rule"],
         ["text-evidence", "Text evidence"],
         ["conflict", "Conflicting evidence"],
@@ -1188,6 +1204,29 @@ class NameExplorerView extends ItemView {
     if (concept.decisionNotes) {
       evidence.createEl("p", { text: concept.decisionNotes });
     }
+    if (concept.nameMetadata) {
+      const metadata = concept.nameMetadata;
+      const details = [
+        metadata.role ? `role: ${metadata.role}` : "",
+        metadata.status ? `status: ${metadata.status}` : "",
+        metadata.pronunciation
+          ? `pronunciation: ${metadata.pronunciation}`
+          : "",
+        metadata.meaning ? `meaning: ${metadata.meaning}` : "",
+        metadata.derivedFrom
+          ? `derived from: ${metadata.derivedFrom}`
+          : "",
+      ].filter(Boolean);
+      evidence.createEl("p", {
+        text: `Name metadata${details.length ? ` — ${details.join(" · ")}` : ""}`,
+      });
+      if (metadata.notes) {
+        evidence.createEl("p", {
+          cls: "tne-muted",
+          text: metadata.notes,
+        });
+      }
+    }
     if (concept.needsNameReview) {
       evidence.createEl("p", {
         cls: "tne-name-review-note",
@@ -1643,9 +1682,9 @@ class EditConceptModal extends Modal {
 
     new Setting(contentEl)
       .setName("Language decision")
-      .setDesc("Leave blank to use text evidence, catalog rules, or inference.")
+      .setDesc("Leave blank to use note metadata, text evidence, catalog rules, or inference.")
       .addDropdown((dropdown) => {
-        dropdown.addOption("", "Use rule or inference");
+        dropdown.addOption("", "Use note metadata, rule, or inference");
         for (const [, language] of core.LANGUAGE_DEFINITIONS) {
           dropdown.addOption(language, language);
         }
@@ -2386,6 +2425,12 @@ function statusChip(status) {
     "reviewed-unknown": "Reviewed unknown",
     overridden: "Overridden",
     confirmed: "Confirmed",
+    "metadata-documented": "Metadata: documented",
+    "metadata-inferred": "Metadata: inferred",
+    "metadata-proposed": "Metadata: proposed",
+    "metadata-disputed": "Metadata: disputed",
+    "metadata-unresolved": "Metadata: unresolved",
+    metadata: "Name metadata",
     rule: "Rule",
     "text-evidence": "Text evidence",
     conflict: "Conflict",

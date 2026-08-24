@@ -102,8 +102,13 @@ function buildSubject(file) {
     tag.replace(/^#/, "").toLocaleLowerCase("en")
   );
   if (!tags.length) return null;
-  const rawName =
-    field(lines, "name")[0] || path.basename(file.relative, ".md");
+  const nameMetadata = core.parseNameMetadata(raw);
+  const primaryNameMetadata = core.primaryNameMetadataEntry(nameMetadata);
+  const fallbackRawName = field(lines, "name")[0] ||
+    path.basename(file.relative, ".md");
+  const fallbackNameInfo = core.provisionalNameInfo(fallbackRawName);
+  const rawName = primaryNameMetadata?.name ||
+    fallbackRawName;
   const nameInfo = core.provisionalNameInfo(rawName);
   const noteType = core.chooseNoteType(tags);
   const species = field(lines, "species");
@@ -123,7 +128,7 @@ function buildSubject(file) {
     fileName: path.basename(file.relative, ".md"),
     rawName,
     name: nameInfo.text,
-    provisionalName: nameInfo.provisional,
+    provisionalName: fallbackNameInfo.provisional || nameInfo.provisional,
     noteType,
     subtypes: subtypeInfo.values,
     subtypeLabel: subtypeInfo.label,
@@ -133,7 +138,9 @@ function buildSubject(file) {
     species: [...species, ...field(lines, "subspecies")],
     ancestry: field(lines, "ancestry"),
     locations: [...field(lines, "whereabouts"), ...locations],
-    pronunciation: field(lines, "pronunciation")[0] || "",
+    pronunciation: primaryNameMetadata?.pronunciation ||
+      field(lines, "pronunciation")[0] || "",
+    nameMetadata,
     aliases: field(lines, "aliases"),
     textAliases: core.extractTextAliases(body, nameInfo.text),
     body,
@@ -177,6 +184,25 @@ function run() {
   );
   assert.ok(catalog.concepts.length > catalog.subjects.length);
   assert.equal(catalog.orphans.length, 0);
+
+  const istaros = concept(
+    catalog,
+    "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+    "Istaros",
+  );
+  assert.ok(istaros);
+  assert.equal(istaros.effectiveLanguage.language, "Common");
+  assert.equal(istaros.languageSource, "name-metadata");
+  assert.equal(istaros.pronunciation, "ISS-tah-rohs");
+  const aistane = concept(
+    catalog,
+    "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+    "Aistanë",
+  );
+  assert.ok(aistane);
+  assert.equal(aistane.effectiveLanguage.language, "Elvish");
+  assert.equal(aistane.pronunciation, "EYE-stah-neh");
+
   const placeSubjectCount = catalog.subjects.filter(
     (subject) =>
       subject.noteType === "place" && subject.path.startsWith("Gazetteer/"),

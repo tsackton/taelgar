@@ -268,6 +268,11 @@
   color: var(--color-green);
 }
 
+.tne-language-chip.source-name-metadata {
+  border-color: var(--color-cyan);
+  color: var(--color-cyan);
+}
+
 .tne-language-chip.source-conflict {
   border-color: var(--color-red);
   color: var(--color-red);
@@ -285,10 +290,30 @@
 }
 
 .tne-status-chip.status-confirmed,
-.tne-status-chip.status-text-evidence {
+.tne-status-chip.status-text-evidence,
+.tne-status-chip.status-metadata-documented {
   background: rgba(var(--color-green-rgb), 0.12);
   border-color: var(--color-green);
   color: var(--color-green);
+}
+
+.tne-status-chip.status-metadata,
+.tne-status-chip.status-metadata-inferred {
+  border-color: var(--color-cyan);
+  color: var(--color-cyan);
+}
+
+.tne-status-chip.status-metadata-proposed {
+  background: rgba(var(--color-orange-rgb), 0.12);
+  border-color: var(--color-orange);
+  color: var(--color-orange);
+}
+
+.tne-status-chip.status-metadata-disputed,
+.tne-status-chip.status-metadata-unresolved {
+  background: rgba(var(--color-red-rgb), 0.1);
+  border-color: var(--color-red);
+  color: var(--color-red);
 }
 
 .tne-status-chip.status-convention {

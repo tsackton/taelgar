@@ -16,6 +16,7 @@ function subject(overrides = {}) {
     ancestry: [],
     locations: [],
     pronunciation: "",
+    nameMetadata: [],
     aliases: [],
     heading: "",
     textAliases: [],
@@ -29,6 +30,83 @@ function run() {
     core.NOTE_TYPES,
     ["ancestry", "place", "group", "power", "person"],
   );
+
+  const parsedNameMetadata = core.parseNameMetadata([
+    "# Example",
+    "",
+    "%%^Metadata:names:v1%%",
+    "- {name: Aistanë, role: historical, language: Elvish, pronunciation: EYE-stah-neh, meaning: blessed water, status: documented}",
+    "- {name: Istaros, role: primary, language: Common, derivedFrom: Aistanë, notes: \"Likely corruption, retained in Common.\", status: inferred}",
+    "- {name: 'Istaros'' Root', role: name component, language: unknown}",
+    "- {name: Hero's Feast, role: name component, language: Common, notes: the hero's translated title, status: documented}",
+    "%%^End%%",
+  ].join("\n"));
+  assert.equal(parsedNameMetadata.length, 4);
+  assert.deepEqual(parsedNameMetadata[1], {
+    name: "Istaros",
+    role: "primary",
+    language: "Common",
+    derivedFrom: "Aistanë",
+    notes: "Likely corruption, retained in Common.",
+    status: "inferred",
+    source: "name-metadata",
+  });
+  assert.equal(parsedNameMetadata[2].name, "Istaros' Root");
+  assert.equal(parsedNameMetadata[2].language, "Unknown");
+  assert.equal(parsedNameMetadata[3].name, "Hero's Feast");
+  assert.equal(parsedNameMetadata[3].notes, "the hero's translated title");
+  assert.equal(
+    core.primaryNameMetadataEntry(parsedNameMetadata).name,
+    "Istaros",
+  );
+
+  const metadataSubject = subject({
+    path: "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+    rawName: "Istaros",
+    name: "Istaros",
+    noteType: "place",
+    tags: ["place"],
+    species: [],
+    nameMetadata: parsedNameMetadata,
+  });
+  const metadataCatalog = core.buildCatalog([metadataSubject], []);
+  assert.deepEqual(
+    metadataCatalog.concepts.map((item) => item.preferredForm).sort(),
+    ["Aistanë", "Istaros"].sort(),
+  );
+  const metadataPrimary = metadataCatalog.concepts.find(
+    (item) => item.preferredForm === "Istaros",
+  );
+  const metadataHistorical = metadataCatalog.concepts.find(
+    (item) => item.preferredForm === "Aistanë",
+  );
+  assert.equal(metadataPrimary.effectiveLanguage.language, "Common");
+  assert.equal(metadataPrimary.languageSource, "name-metadata");
+  assert.equal(metadataPrimary.status, "metadata-inferred");
+  assert.equal(metadataHistorical.effectiveLanguage.language, "Elvish");
+  assert.equal(metadataHistorical.status, "metadata-documented");
+  assert.equal(metadataHistorical.pronunciation, "EYE-stah-neh");
+  assert.equal(
+    metadataCatalog.concepts.some((item) =>
+      item.preferredForm === "Istaros' Root"
+    ),
+    false,
+  );
+  const metadataExport = core.catalogExportRecords(metadataCatalog).find(
+    (item) => item.preferred_form === "Aistanë",
+  );
+  assert.equal(metadataExport.pronunciation, "EYE-stah-neh");
+  assert.equal(metadataExport.name_metadata.meaning, "blessed water");
+
+  const metadataOverride = core.buildCatalog([metadataSubject], [{
+    type: "concept",
+    subject: metadataSubject.path,
+    concept: "primary",
+    language: "Drankorian",
+  }]).concepts.find((item) => item.preferredForm === "Istaros");
+  assert.equal(metadataOverride.effectiveLanguage.language, "Drankorian");
+  assert.equal(metadataOverride.languageSource, "decision");
+  assert.equal(metadataOverride.status, "overridden");
   assert.deepEqual(
     core.subtypeForSubject("person", {
       species: ["elf"],

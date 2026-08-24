@@ -2,14 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/cleanup/text, status/check/lint]
+tags: [person, status/cleanup/text, status/check/lint]
 species: human
 ancestry: Chardonian
-campaignInfo:
-  - {campaign: dufr, person: Delwath, date: 1748-10-12, type: scryed}
 born: 1691
 gender: male
 name: Kaeso
+pronunciation: KAI-soh
 affiliations: [Shakun Mystai]
 whereabouts:
   - {type: home, end: 1712, location: Chardon}
@@ -25,12 +24,12 @@ dm_notes: important
 POV: 1749
 ---
 # Kaeso
+*(KAI-soh)*
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]], the [[Mawakel Peninsula]] %%^End%%
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% clean up campaign info and text, add image, copy various notes from Kenzo brainstorming in DM folder %%
 ![[kaeso.png|right|400]]
@@ -92,7 +91,7 @@ Source links:
 %%
 
 %%^Metadata:names:v1%%
-- {name: Kaeso, role: primary, language: Chardonian, pronunciation: KAI-soh, status: proposed, notes: Chardonian uses Latin and Italian analogues; ae is read as a diphthong and the opening consonant remains hard. An Italianized KAY-zoh is a plausible alternative if intervocalic s is voiced.}
+- {name: Kaeso, role: primary, language: Chardonian, pronunciation: KAI-soh, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -116,5 +115,5 @@ Temporal coverage: a late-1748 to DR 1749 snapshot; the visible biography is gen
 
 - [ ] **Warning — coverage.established_fact_missing:** [[Session 48 (DuFr)]] establishes that Kaeso opposed the Auratan family's control of the chalyte trade and believed chalyte abuse could burn away a user's soul, but this central motivation is absent from the visible biography. Copy-ready candidate: `In DR 1748, Kaeso warned the [[Dunmar Fellowship]] that the Auratan family's control of the chalyte trade had given it dangerous influence, and that overuse of [[Chalyte|chalyte]] could burn away a user's soul.`
 - [ ] **Suggestion — editorial.public_material_candidate:** The hidden `One Note` comment contains a coherent public-safe characterization—Kaeso's appearance, emphatic hand gestures, loyalty to [[Kenzo]], and opposition to institutional passivity—that is absent from the visible article, alongside private mechanics that should remain hidden. Copy-ready candidate: `In his late fifties, Kaeso has a lively, lined face, scraggly black hair, a few days' stubble, olive skin, and plain dress. He speaks emphatically with his hands and remains fiercely loyal to [[Kenzo]], wanting above all to see his former student thrive. He distrusts the academic establishment's arrogance and passivity, especially its unwillingness to confront the harms of the chalyte trade.` Retain the private mechanics and unresolved planning in the comment unless a human reorganizes them.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent Kaeso name entry remains `status: proposed` with `KAI-soh`, while its notes identify `KAY-zoh` as an alternative under the Chardonian analogue. Human resolution is required: accept one pronunciation by adding it to frontmatter and changing the entry to `status: documented`, or revise the proposal and its derivation.
+- [x] **Warning — metadata.names_unresolved_status:** The persistent Kaeso name entry remains `status: proposed` with `KAI-soh`, while its notes identify `KAY-zoh` as an alternative under the Chardonian analogue. Human resolution is required: accept one pronunciation by adding it to frontmatter and changing the entry to `status: documented`, or revise the proposal and its derivation.
 %%^End%%
