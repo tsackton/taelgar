@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/mike, status/check/lint]
+tags: [place, status/check/lint]
 typeOf: realm
 destroyed: 1545
 name: Istabor Alliance

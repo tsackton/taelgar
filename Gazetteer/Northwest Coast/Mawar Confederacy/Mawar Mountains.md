@@ -35,7 +35,7 @@ Dahraz (dah-RAHZ) Qahrat (KAH-raht)
 
 %%^Metadata:names:v1%%
 - {name: Mawar Mountains, role: primary, language: Common, pronunciation: mah-WAHR MOUN-tinz, notes: "Proposed from the Mawaran Arabic analogue for the Mawar name component; the English generic follows ordinary Common pronunciation.", status: proposed}
-- {name: Dahrat, role: local, language: Mawaran, pronunciation: DAH-raht, notes: "Local name and pronunciation recorded in the note's naming gloss.", status: documented}
+- {name: Dahrat, role: local, language: Mawaran, pronunciation: DAH-raht, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

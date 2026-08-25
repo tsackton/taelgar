@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/ai]
 typeOf: subterranean feature
 typeOfAlias: cave
 name: Crystal Cavern
@@ -35,11 +35,11 @@ Two enormous stone footprints jut from the entrance rubble. A curious player can
 
 Should anyone replace the missing obsidian tube, the broken plinth is capable of knitting itself into a new rocky guardian after a day’s rest. This once held the [[Stonemaster Scroll]] until it was recovered by the [[Silver Tempests]]. 
 
-# The Crystal Chasm - Original
+## The Crystal Chasm - Original
 
----
+These are my original DM notes, reformatted and possibly changed by ChatGPT. The basic dungeon was stolen from an Adventurer's League PDF. 
 
-## Across the Grasslands
+### Across the Grasslands
 
 The Crystal Chasm is hidden in a small cave complex at the far end of a canyon beyond open grasslands.  
 * **Orc presence:** Orc bands roam the plains; hiding is difficult.  
@@ -47,9 +47,7 @@ The Crystal Chasm is hidden in a small cave complex at the far end of a canyon b
   * **Fast pace** – avoids notice.  
   * **Slow pace** – likely encounter with one or two orc scouts.
 
----
-
-## Canyon Approach
+### Canyon Approach
 
 Once in the canyon, cover is better but the terrain is rough. A **trail of giant-sized tracks** suggests a hill-giant scouting party passed through. Parties should be thinking _stealth_ at this stage.
 
@@ -58,9 +56,7 @@ Once in the canyon, cover is better but the terrain is rough. A **trail of giant
 
 * **Passive Perception 12+** – Characters spot many humanoid tracks, a pair of immense footprints, and bear-like paw marks.
 
----
-
-## Cave Mouth & Entrance Cavern
+### Cave Mouth & Entrance Cavern
 
 ### At the Cave Opening
 Signs of recent disturbance are everywhere—tracks lead directly inside.  
@@ -91,9 +87,7 @@ Two large orcs stand 40 ft away. The bigger one, scarred across one eye and carr
 
 *Interrogation:* If coerced into talking, the orcs admit they’re holding the cave for reinforcements to “sort out the exploration disaster.”
 
----
-
-## South Tunnel – Swarm of Cursed Orcs
+### South Tunnel – Swarm of Cursed Orcs
 
 > *Box text*  
 > High-pitched squeaks echo from the darkness. You expect rats—but an angry swarm of orcs, no larger than mice, floods toward you. Their tiny axes gleam. Then every lantern sputters out at once.
@@ -107,7 +101,7 @@ Two large orcs stand 40 ft away. The bigger one, scarred across one eye and carr
 
 ---
 
-## Southern Cavern – Slayermighty & Blooddrinker
+### Southern Cavern – Slayermighty & Blooddrinker
 
 The cavern is lantern-lit. Eastward, a vast **chasm** (the Crystal Rift) splits the floor, sparkling in the lamplight.
 
@@ -142,7 +136,7 @@ When Slayermighty falls, the bear calms. When the curse expires, she convulses a
 
 ---
 
-## The Crystal Rift
+### The Crystal Rift
 
 *As you approach the chasm in the floor, you can see that the edge is lined with glimmering crystals of quartz in different colors, reflecting the light. The chasm descends into darkness below, stretching beyond the reach of your light or darkvision.*
 
@@ -166,7 +160,7 @@ At the bottom, a rough passage stretches **40 ft** to a **rune-covered stone pil
 
 ---
 
-## The Rune Pillar & Stone Guardian
+### The Rune Pillar & Stone Guardian
 
 > *Box text*  
 > As you approach the pillar, the hallway opens up into a circular room, with a ceiling extending into darkness above. A loud rumbling sound echos through the cavern, a noise of gears grinding and stone being crushed. The pillar begins to move, and grow, and a huge stone humanoid emerges, towering above you, made of granite. It is all hard edges and hard stone, with fists the bigger than your head. You see runes dancing along its body as it moves, occasionally flashing black. Behind the creature, on a remanent of the pillar, sits a black obsidian tube with the edge of a scroll peaking out. 
@@ -195,19 +189,4 @@ If negotiations fail, the party may simply leave and report back to **Lyra**—s
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern, describing the cavern after the DR 1747 recovery of the Stonemaster Scroll.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter, added an explicit `name`, and added persistent name and temporal POV metadata.
-
-### Validated judgments
-- The plain-English subject name does not require a pronunciation.
-- The `Campaign:none` block was reviewed as DM-only encounter and adventure material.
-
-### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** [[Great Library Session Notes - Arc 1]] and [[Stonemaster Scroll]] establish that the [[Silver Tempests]] recovered the Stonemaster Scroll here in DR 1747, which explains the absent guardian and empty obsidian charge. Add: “In DR 1747, the [[Silver Tempests]] recovered the [[Stonemaster Scroll]] from the cavern, leaving its rune guardian gone and the obsidian tube that held the scroll empty.”
 %%^End%%

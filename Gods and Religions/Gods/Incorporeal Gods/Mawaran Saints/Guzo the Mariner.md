@@ -5,6 +5,7 @@ knownTo: [Mawar]
 aliases: [Guzo]
 displayDefaults: { boxInfo: "<ancestry:UA> <typeof:sAU> <(()pronouns())>, <(part of )primary>" }
 name: Guzo the Mariner
+pronunciation: GOO-zoh
 ancestry: Mawaran
 typeOf: saint
 gender: male
@@ -14,6 +15,7 @@ affiliations:
 - {org: Mos Numena, type: primary}
 ---
 # Guzo the Mariner
+*(GOO-zoh)*
 >[!info]+ Information  
 > A [[Mawar Confederacy|Mawaran]] saint (he/him), part of [[Mos Numena]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
