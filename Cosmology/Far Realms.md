@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Far Realms
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Far Realms
 
@@ -29,3 +33,11 @@ The secret does not have any relevance to mind flayers or related aberrations.
 %%^End%%
 
 %%SECRET[v2:f3681d0bc3d4ff2212e4c84730913292]%%
+
+%%^Metadata:names:v1%%
+- {name: Far Realms, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article summarizes long-standing scholarly theories and historical examples without assuming a narrower present-day state.
+%%^End%%

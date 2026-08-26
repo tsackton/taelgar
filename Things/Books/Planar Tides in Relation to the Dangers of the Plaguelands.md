@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T22:52:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
 tags: [object]
-displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
 typeOf: book
 typeOfAlias: cosmological treatise
 ancestry: Dwarven
-dm_owner: none
-dm_notes: none
 created: 1703
 author: Harbek Ferrystone
+name: Planar Tides in Relation to the Dangers of the Plaguelands
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Planar Tides in Relation to the Dangers of the Plaguelands
 >[!info]+ Information  
@@ -27,3 +32,11 @@ His mathematical treatment of this was complex, for neither planar drift nor pla
 However, Harbek's mathematical predictions were discredited in DR 1720, when the [[War of the Ashen Horde]] broke out in the [[March of Andonne]] and the [[Refounded Alliance of Aurbez]] at a time when, according to Harbek's predictions, Limbo was distant from the Material Plane and no planar outbursts should have been possible.
 
 Subsequently, Harbek's work fell into obscurity. Nonetheless, Ferrystone’s work continues to be cited in discussions of Limbo’s influence on the Plaguelands.
+
+%%^Metadata:names:v1%%
+- {name: Planar Tides in Relation to the Dangers of the Plaguelands, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article follows the treatise from its DR 1703 publication through its DR 1720 discrediting and later reception.
+%%^End%%

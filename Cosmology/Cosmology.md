@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [meta]
-excludePublish: ["all"]
+name: Cosmology
+excludePublish: [all]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Cosmology
 
@@ -181,3 +185,7 @@ FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Cosmology")))
 SORT length(file.inlinks) DESC
 ```
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; this maintenance page describes the current organization and review views for the Cosmology directory.
+%%^End%%

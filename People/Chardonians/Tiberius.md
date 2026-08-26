@@ -1,23 +1,29 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: [{campaign: DuFr, type: "met", date: 1749-06-27}]
+lintedAt: "2026-08-25T23:14:40-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
+campaignInfo:
+  - {campaign: dufr, type: met, date: 1749-06-27}
 gender: male
-whereabouts: Chardon
+name: Tiberius
 affiliations:
-- {org: Chardonian Navy, title: Windcaller}
-- {org: Auratan's Pride, title: Windcaller}
+  - {org: Chardonian Navy, title: Windcaller}
+  - {org: "Auratan's Pride", title: Windcaller}
+whereabouts: Chardon
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1749
 ---
 # Tiberius
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on June 27th, 1749 in [[Chardon]], the [[Chardonian Empire]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 27th, 1749 in [[Chardon]], the [[Chardonian Empire]] %%^End%%
 
 ![[tiberius.png|left|400]]Tiberius is a [[Chardonian Empire|Chardonian]] [[Windcallers|Windcaller]] in the service of [[Mitus Verina Auratan]], the Magistros of [[Chardon]]. He serves aboard the [[Auratan's Pride]], one of the Magistros' naval flagships, and is one of the most powerful Windcallers in active service. 
 
@@ -81,3 +87,30 @@ Sources: clone/crown concern (line 7749), political read (line 333)
 - By session 129, he appears among the Magistros’ advisors.
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Tiberius, language: Chardonian, pronunciation: tih-BEHR-ee-oos, notes: "Proposed from Chardon's more Latinate Chardonian analogue, with four syllables and stress on BEHR; exact in-world phonology is not established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 portrait of Tiberius during the Chardon crisis; his earlier and later service are not comprehensively described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting.
+- Added the explicit primary `name` and `knownTo: [dufr]`, and normalized the Dunmar Frontier code in `campaignInfo` and the campaign header block.
+- Added persistent `Metadata:names:v1` metadata with a Chardonian language assignment and an analogue-derived pronunciation proposal.
+- Added `POV: 1749` and a `povNotes:v1` block identifying the article as a DR 1749 portrait.
+
+### Validated judgments
+- `Chardonian Navy` is valid descriptive affiliation text even though it does not resolve to a note.
+- The three matching local evidence clusters add no useful information beyond the shared source dossier.
+- The large shared comment functions as a source and inference dossier for the visible portrait.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The new `Metadata:names:v1` entry proposes `tih-BEHR-ee-oos` from Chardon's more Latinate Chardonian analogue, with four syllables and stress on `BEHR`; exact in-world phonology is not established. If the proposal is accepted, add `pronunciation: tih-BEHR-ee-oos` to frontmatter and change the entry to `status: documented`; otherwise revise the pronunciation and derivation note.
+%%^End%%

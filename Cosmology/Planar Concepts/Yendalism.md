@@ -1,10 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Yendalism
+pronunciation: yen-DAH-liz-um
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Yendalism
+*(yen-DAH-liz-um)*
 
 Yendalism is a school of metaphysical cosmology associated with the [[Stoneborn]] metaphysicist [[Yendalo]]. It rejects the detailed categories of the [[Standard Multiversal Model]] and instead divides the planes according to their relationship to the [[Land of the Dead]], which Yendalists call the [[Land of the Dead|Divine Veil]].
 
@@ -12,4 +18,12 @@ In Yendalist thought, the [[Inner Realms]] are the planes on the near side of th
 
 Yendalists argue that this division matters because souls cannot naturally sustain themselves in the Inner Realms after death, while they can endure as they cross the [[Land of the Dead]] and in the spiritual realms beyond it. The Divine Veil therefore both separates the Inner and Outer Realms and provides the passage through which souls move between them. Yendalism also challenges the centrality of the [[Material Plane]] and [[Plane of Souls]], and some Yendalists claim that the souls of all denizens of the Inner Realms are reflected in the constellations of the Plane of Souls.
 
- Yendalism differs from many standard academic cosmologies in its emphasis on contemplation and mystical perception as powerful forms of inquiry that can reveal novel metaphysical insights into the ordering of the [[Multiverse]].
+Yendalism differs from many standard academic cosmologies in its emphasis on contemplation and mystical perception as powerful forms of inquiry that can reveal novel metaphysical insights into the ordering of the [[Multiverse]].
+
+%%^Metadata:names:v1%%
+- {name: Yendalism, language: Stoneborn, pronunciation: yen-DAH-liz-um, derivedFrom: Yendalo, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about Yendalist cosmology; Yendalo's date and the school's chronology remain unknown.
+%%^End%%

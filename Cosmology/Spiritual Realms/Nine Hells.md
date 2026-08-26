@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: plane
 typeOfAlias: spiritual realm
+name: Nine Hells
 whereabouts:
   - {type: home, location: Spiritual Realms, wHome: "A <typeof> in the <home:1>"}
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # The Nine Hells
 >[!info]+ Information
@@ -18,3 +22,11 @@ The Nine Hells are a [[Spiritual Realms|Spiritual Realm]], and the home of [[Dev
 The archdevils of the Nine Hells exist in a rigid hierarchy of power and influence. Among devils, possession of armies of servants, typically from mortal souls corrupted to evil and bound to servitude, is the surest way to gain strength and position.
 
 %% while few details have been invented, the standard D&D Nine Hells is a reasonable first proxy if needed for quick invention %%
+
+%%^Metadata:names:v1%%
+- {name: Nine Hells, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article gives an undated reference account of the realm and its inhabitants.
+%%^End%%

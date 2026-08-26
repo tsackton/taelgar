@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
-displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
-name: On the Lost People of the Forests
+lintedAt: "2026-08-25T22:52:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
+tags: [object, status/check/lint]
 typeOf: book
 typeOfAlias: geographical treatise
 ancestry: Chardonian
-dm_owner: none
-dm_notes: color
 created: 1725
 author: Gnaeus
+name: On the Lost People of the Forests
+knownTo: [dufr]
+dm_owner: none
+dm_notes: color
+POV: modern
 ---
 # On the Lost People of the Forests
 >[!info]+ Information  
@@ -19,7 +23,7 @@ author: Gnaeus
 
 %% double check to make sure I have all  text about this book here %%
 
-Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchanment magic in his research.
+Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchantment magic in his research.
 
 "In a book by Chardonian scholar, [[Gnaeus]], written about a generation ago (maybe 20ish years), recently acquired from a book trader, [[Kassi]] finds a mention of [[Rai]]. The book is a record/catalog of surviving people of the forests of [[Chardon]]. He describes a story of a group of people, northerners, who live upriver from [[Chardon]] in the great forest, mysterious, few tales of them. But he found a way in, he used magic to convince one to speak of their secret religion, and learned it was a cult dedicated to the Demigod of Magic [[Rai]], who speaks through the dreams of the high priest."
 
@@ -27,11 +31,11 @@ This book records the details of [[Gnaeus]]' journey to the [[Elderwood]]:
 
 "25 years ago, as a young student, [[Gnaeus]] was intrigued by the stories and mysteries of the great forest, known as variously [[Ainumarya]] (from the original elvish name, meaning the home of the first gods, referring to the whole stretch) and more recently the surviving pieces are named the [[Elderwood]], the [[Crimson Forest]] (after the rumors that the trees ran red with the blood of the elves), and the [[Forest of Dreams]], from south to north.
 
-Few tales came to [[Chardon]] of what happened in these woods after the [[Great War]]; in 1555 a great host of hobgoblins, trolls, cursed beasts of shadow, and other monsters, led by a conclave of dragons, defeated the Chardonians in two battles, the [[Battle of Kin-Aska]] on the banks of the [[Chasa]] River, and the [[Battle of Shadowfire]], only 250 miles northeast of [[Chardon]]. After a hasty retreat, and much sacrifice to slow the advance, this host was defeated in a great battle only 55 miles east of [[Chardon]], the [[Battle of Metium]]. Rumors that, at great cost to themselves, many elves at fought a year's long delaying battle to weaken this host before it reached [[Chardon]] persist, although few know the truth.
+Few tales came to [[Chardon]] of what happened in these woods after the [[Great War]]; in 1555 a great host of hobgoblins, trolls, cursed beasts of shadow, and other monsters, led by a conclave of dragons, defeated the Chardonians in two battles, the [[Battle of Kin-Aska]] on the banks of the [[Chasa]] River, and the [[Battle of Shadowfire]], only 250 miles northeast of [[Chardon]]. After a hasty retreat, and much sacrifice to slow the advance, this host was defeated in a great battle only 55 miles east of [[Chardon]], the [[Battle of Metium]]. Rumors that, at great cost to themselves, many elves had fought a year's long delaying battle to weaken this host before it reached [[Chardon]] persist, although few know the truth.
 
 Since then, the [[Chardonian Empire]] has grown as it has rebuilt, but never beyond the confluence of the [[Chasa]] and the [[Kayan]], and many stories and rumors persist as to what happened to [[Ainumarya]] and what has been rebuilt and resettled in the past 200 years.
 
-[[Gnaeus]] grew up in [[Arendum]] and thus was draw to exploring the people of the [[Crimson Forest]] and the [[Elderwood]]. He knew, as a child, of the [[Baz'aku]], a group of the Deno'qai who traded occasionally with [[Arendum]] and lived on the eaves of the [[Elderwood]].
+[[Gnaeus]] grew up in [[Arendum]] and thus was drawn to exploring the people of the [[Crimson Forest]] and the [[Elderwood]]. He knew, as a child, of the [[Baz'aku]], a group of the Deno'qai who traded occasionally with [[Arendum]] and lived on the eaves of the [[Elderwood]].
 
 As a student, then, he sought out these people, hired guides, and set off into the [[Elderwood]] to learn what was there.
 
@@ -52,3 +56,28 @@ Four generations ago they returned to these woods, but it wasn't until 30 years 
 Since then, [[Gnaeus]] learned, [[Aasimti]] has kept the [[Te'kula]] hidden and safe. They would not speak of what they must be kept safe from, saying that speaking its name summoned it, and then even [[Aasimti]] could not keep them safe. But it dwelt in the east, and first came to their lands, in disguise, soon after [[Aasimti]] was found, speaking with a honeyed tongue and asking for [[Rai]]'s spirit, then threatening utter destruction when [[Jordo]] refused. It was only a desperate prayer to [[Rai]] to hide them that kept [[Te'kula]] alive.
 
 After 30 days, when his guide's enchantment ceased, the guide turned on him, and the [[Te'kula]] followed. [[Gnaeus]] fled downriver, barely escaping with his life."
+
+%%^Metadata:names:v1%%
+- {name: On the Lost People of the Forests, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article summarizes a work completed around DR 1725 and its retrospective account of Gnaeus's earlier Elderwood journey.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Canonically formatted frontmatter and added supported `knownTo: [dufr]` and `POV` metadata.
+- Added persistent name and temporal-coverage metadata.
+- Corrected the objective errors `enchanment`, `elves at fought`, and `was draw`.
+
+### Validated judgments
+- The opening shared comment is an editorial checklist without recoverable public or private content.
+- The account preserves Gnaeus's attribution and exposes his use of coercive enchantment rather than presenting the ethnography as unqualified fact.
+
+### Open findings
+
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes`. The `color` attestation may still represent remembered or off-vault information, so retain it unless a human confirms a different value.
+%%^End%%

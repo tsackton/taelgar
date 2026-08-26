@@ -1,33 +1,37 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Multiverse
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Multiverse
 
 A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
 
-While there are many ways to describe the multiverse, the most widely known descriptions come from elven scholars, who depict the multiverse as pair of intersecting domes balanced between two opposite poles: below, the dome of the physical planes rising from the roiling chaos of the [[Plane of Magic]]; above, the dome of the planes of sentience, descending from the blinding intensity of the [[Plane of Creation]].  
+While there are many ways to describe the multiverse, the most widely known descriptions come from elven scholars, who depict the multiverse as a pair of intersecting domes balanced between two opposite poles: below, the dome of the physical planes rising from the roiling chaos of the [[Plane of Magic]]; above, the dome of the planes of sentience, descending from the blinding intensity of the [[Plane of Creation]].
 
 The duality of the [[Material Plane]] -- the physical structures of the universe -- and the [[Plane of Souls]] -- the soul structures of the sentient inhabitants of the universe -- sit at the intersection of these domes, the [[Material Plane]] anchored to the dome of physicality, the Plane of Souls anchored to the dome of sentience. 
 
 Descending below the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the sea of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the Elemental Realms of [[Elemental Plane of Air|Air]], [[Elemental Plane of Fire|Fire]], [[Elemental Plane of Earth|Earth]], and [[Elemental Plane of Water|Water]], domains of pure physicality, capturing the essence of the fundamental elements of the universe. 
 
-Floating above the plane of souls in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and an not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]]. 
+Floating above the plane of souls in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and a not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]].
 
 Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by the [[Riving]], which still resonate today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the plane of souls, but others have been described or hinted in obscure texts, including the domains of the [[Shadowfolds]], the [[Nightmare Realm]], and the [[Mirror Realm]]. 
 
 >[!faq] The Classification of Planes
 >There are, of course, many typologies of planes that are possible, and arcane cosmologists argue at length about the fundamental nature of the cosmos. However, among the [[Faculty of Metaphysics]] at the [[University of Chardon]], the following scheme currently enjoys the most scholarly support, and has become known as the [[Standard Multiversal Model]]:
 >
-> **Fundamental Planes**: There are six planes that are considered to be the fundamental units of all creation: the [[Plane of Creation]] and its dilute echo the [[Astral Plane]]; the [[Plane of Magic]] and its dilute echo the [[Ethereal Plane]]; and the duality of the [[Material Plane]] and the [[Plane of Souls]]. These six planes are unique and unlike any other planes, although some scholars consider the[[ Material Plane]] and the [[Plane of Souls]] to be one entity, metaphysically, and others consider the [[Plane of Creation]] and the [[Plane of Magic]] to be just particularly dense regions of the Astral Plane and the Ethereal Plane, respectively. 
+> **Fundamental Planes**: There are six planes that are considered to be the fundamental units of all creation: the [[Plane of Creation]] and its dilute echo the [[Astral Plane]]; the [[Plane of Magic]] and its dilute echo the [[Ethereal Plane]]; and the duality of the [[Material Plane]] and the [[Plane of Souls]]. These six planes are unique and unlike any other planes, although some scholars consider the [[Material Plane]] and the [[Plane of Souls]] to be one entity, metaphysically, and others consider the [[Plane of Creation]] and the [[Plane of Magic]] to be just particularly dense regions of the Astral Plane and the Ethereal Plane, respectively.
 > 
 > **Energy Realms**: The [[Energy Realms]] are considered to be all the planes that exist within the confines of the [[Ethereal Plane]]. Chief among these are the fundamental Elemental Realms, although the [[Plane of Magic]] is often also considered an Energy Realm. Some scholars believe that other energy realms exist to be discovered, such as the hypothesized [[Positive Energy Plane]] and [[Negative Energy Plane]], but others believe the Elemental Realms are the only Energy Realms. 
 > 
 > **Spiritual Realms:** The [[Spiritual Realms]] are the planes of the divine, the planes of gods and demons and other spiritual beings, which some speculate are made of the pure material of creation, which they call [[Soulstuff]]. While most scholars consider the [[Land of the Dead]] to be a part of the [[Spiritual Realms]], others argue it should be considered a region of the [[Astral Plane]], or even its own Fundamental Plane. 
 > 
-> **Echo Realms**: The [[Echo Realms]], in the opinion of the metaphysical scholars of [[University of Chardon|Chardon]], are not really true planes at all. They are merely echoes of the particular moment when the Material Plane, the Plane of Souls, and the energy realms were separated into different planes during the [[Riving]]. This, it is said, is why they are rarely continuous and complete, like the [[Energy Realms]], but rather often exist as discrete domains. Some [[Ulfgar Frostbeard|scholars]] even go so far as to consider the [[Feywild]] as a the third part of a trinity that includes material, soul, and magic, and do not consider it to even belong among the Echo Realms, but this is a distinctly minority opinion at the [[University of Chardon]] (although not elsewhere).
+> **Echo Realms**: The [[Echo Realms]], in the opinion of the metaphysical scholars of [[University of Chardon|Chardon]], are not really true planes at all. They are merely echoes of the particular moment when the Material Plane, the Plane of Souls, and the energy realms were separated into different planes during the [[Riving]]. This, it is said, is why they are rarely continuous and complete, like the [[Energy Realms]], but rather often exist as discrete domains. Some [[Ulfgar Frostbeard|scholars]] even go so far as to consider the [[Feywild]] as the third part of a trinity that includes material, soul, and magic, and do not consider it to even belong among the Echo Realms, but this is a distinctly minority opinion at the [[University of Chardon]] (although not elsewhere).
 > 
 > The most popular alternative classification, [[Yendalism]], proposes a radically different classification, dividing the planes into the [[Inner Realms]], made of physical energy and arcane magic, and the [[Outer Realms]], made of [[Soulstuff]], separated by the barrier of the [[Land of the Dead]]. 
 
@@ -107,4 +111,8 @@ dv.table(
 ```
 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article presents current scholarly models, while the hidden creation account remains explicitly speculative and undated.
 %%^End%%

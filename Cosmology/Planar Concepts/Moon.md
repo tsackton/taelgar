@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
-excludePublish: ["all"]
+name: Moon
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Moon
 
@@ -43,4 +47,12 @@ My only feeling about the moon stuff is that I would like to keep what the moon 
 
 There are many many stories about the origins and true nature of the moon and you would have little sense of what is or is not true. The bit you would understand a bit better is the nature of planar tides. The moon influences how the planes interact with Taelgar in an important way. When it is full, it pulls on the spiritual realms (the homes of the gods, and places like Arborea, Pandemonium, and the Nine Hells -- the Outer Planes in traditional D&D sense) and draws them closer to Taelgar itself. When it is new, the tides pull the opposite way, so to speak, and it pulls the elemental planes, the Feywild, and the Shadowfell and related planes closer.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Moon, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the note combines undated cosmological discussion with a DR 1748 campaign account, while the moon's origin remains unresolved.
 %%^End%%

@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-whereabouts:
-  - type: primary
-    location: Echo Realms
-    wHome: A <typeOf> in <home:1>
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: plane
-dm_notes: none
-dm_owner: tim
 typeOfAlias: rumored plane
+name: Nightmare Realm
+whereabouts:
+  - {type: primary, location: Echo Realms, wHome: "A <typeOf> in <home:1>"}
+dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Nightmare Realm
 >[!info]+ Information  
@@ -20,6 +21,14 @@ Many rumors exist about the hypothesized Nightmare Realm. [[On Metaphysics]] hyp
 
 %%^Campaign:none%%
 
-Only rumors exist of this place. Whether it exists or not is left undetermined for some future adventure or game/worldbuliding need. 
+Only rumors exist of this place. Whether it exists or not is left undetermined for some future adventure or game/worldbuilding need.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Nightmare Realm, role: primary, language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article presents current scholarly uncertainty about the realm and its older textual traditions rather than asserting that the realm exists.
 %%^End%%

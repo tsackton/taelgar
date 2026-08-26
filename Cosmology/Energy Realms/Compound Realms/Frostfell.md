@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-aliases: [Elemental Plane of Ice, Plane of Ice, Compound Plane of Cold]
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [place]
-whereabouts: 
-- {type: home, location: Energy Realms, wHome: "A <typeOf> in <home:2>"}
 typeOf: plane
-dm_notes: none
+name: Frostfell
+aliases: [Elemental Plane of Ice, Plane of Ice, Compound Plane of Cold]
+whereabouts:
+  - {type: home, location: Energy Realms, wHome: "A <typeOf> in <home:2>"}
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # Frostfell
 >[!info]+ Information  
@@ -17,4 +21,12 @@ Frostfell, also known as the Elemental Plane of Ice, and identified with [[Airio
 
 The famous Drankorian work [[On the Nature of Heat]], although primarily a text of natural history, provides the best summary of Frostfell: *It is a land of bitter cold, with vast ice fields dotted with freezing pools of liquid colder than ice, giving way to glaciers on the edge of an ocean filled with icebergs and endless bitter storms of freezing wind and howling snow.*
 
-While [[Lyrannis of Aquilona]] did not catalog any powerful genies of ice or cold native to Frostfell, [[On Elemental Forms]] does contain an extended discussion of creatures of ice and snow, including snow trolls, frost giants, and massive ice constructs, that are though to dwell in Frostfell. However, [[Lyrannis of Aquilona|Lyrannis]] argued that as Frostfell has no true native creatures, merely inhabitants who are at home in the cold, it should not be considered a true elemental realm. The truth of this conjuncture remains a subject of much scholarly debate. 
+While [[Lyrannis of Aquilona]] did not catalog any powerful genies of ice or cold native to Frostfell, [[On Elemental Forms]] does contain an extended discussion of creatures of ice and snow, including snow trolls, frost giants, and massive ice constructs, that are thought to dwell in Frostfell. However, [[Lyrannis of Aquilona|Lyrannis]] argued that as Frostfell has no true native creatures, merely inhabitants who are at home in the cold, it should not be considered a true elemental realm. The truth of this conjecture remains a subject of much scholarly debate.
+
+%%^Metadata:names:v1%%
+- {name: Frostfell, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article summarizes current scholarly descriptions and debate without a narrower supported date.
+%%^End%%

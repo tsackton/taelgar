@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T22:52:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
 tags: [object]
-rarity: unique
 typeOf: book
 typeOfAlias: magical book
+rarity: unique
+author: an unknown author
+name: The Runes of Creation
 whereabouts: Seeker
-displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-author: "an unknown author"
+POV: 1748
 ---
 # The Runes of Creation
 >[!info]+ Information  
@@ -27,3 +32,11 @@ Concentrating, you can start to pull out bits of information from the noise.
 This book seems to be about the theory of runes and how each piece of a runic incantation combines in a specific way to shape extraplanar energy itself. As you delve deeper, you begin to glimpse a little of how runic magic actually works, instead of just following the rituals to channel energy. The essence line, the heart of each rune, draws in a specific kind of extraplanar energy. The pattern line, building off the essence line, shapes it and directs the energy. Amplification, augmentation and elaboration lines further control the power and effect of the rune. There is still much you cannot understand, as this is way more than you can take in at once -- why some runes only need to be spoken aloud to channel power, but others need physicality, or why it is easy to amplify some runes but not others. Much deeper study will be needed to fully grasp the depths of what is described here.
 
 While you only scratched the surface of this tome, there is much still to be learned from your brief study. You begin to see how you can add elaboration lines to your runes of inspiration, adding more power and depth to those runes. You learn from the book a few new complex runic incantations."
+
+%%^Metadata:names:v1%%
+- {name: The Runes of Creation, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 snapshot of Seeker's acquisition and early study of the book; its earlier origin and later history are unresolved.
+%%^End%%

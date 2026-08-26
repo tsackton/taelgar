@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
-excludePublish: ["all"]
+name: Stars
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Stars
 
@@ -26,4 +30,8 @@ The fixed constellations are usually magical / special in some way. Some are con
 
 In general, the world of Taelgar is curved, but whether it is a globe or something else is unclear and indeed impossible to know. No one has circumnavigated the ocean, for example.
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the note records current cosmological thinking, with older ideas preserved only as unresolved background.
 %%^End%%

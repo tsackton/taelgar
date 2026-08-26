@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T22:52:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
 tags: [object]
-displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
 typeOf: book
 typeOfAlias: cosmological treatise
 ancestry: Stoneborn
+author: Yendalo
+name: On the Power of Creation
+knownTo: []
 dm_owner: none
 dm_notes: none
-author: Yendalo
+POV: modern
 ---
 # On the Power of Creation
 >[!info]+ Information  
@@ -24,4 +29,12 @@ From this perspective, the Divine Veil is both a boundary and a passage. It prot
 
 Historical note from Codex: The work's intended tone is modeled chiefly on Ibn 'Arabi's visionary and relational cosmology, with a smaller Palamite influence in its treatment of contemplation as a disciplined source of knowledge. Its metaphors should carry genuine philosophical weight rather than serving as decorative mystical language.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: On the Power of Creation, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes Yendalo's undated treatise and its interpretation of the Divine Veil.
 %%^End%%

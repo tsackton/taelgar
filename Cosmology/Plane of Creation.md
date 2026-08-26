@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 tags: [place]
 typeOf: plane
-displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
-whereabouts: 
-- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
-- {type: secondary, location: Astral Plane}
+name: Plane of Creation
+whereabouts:
+  - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+  - {type: secondary, location: Astral Plane}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Plane of Creation
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Plane of Creation is the name given by experimental theologists to the ultimate source of divine power,  the place where [[Soulstuff]] originates, and the home of the [[Divine Presence]].  Most scholars do not believe this is a place a traveler can visit, or at least not visit and survive; indeed, recent theoretical calculations by the theological cosmologist [[Heloise of Tollen]] suggests that the Plane of Creation itself may be an infinitely dense agglomeration of [[Soulstuff]], impenetrable to any force except the [[Divine Presence]].
+The Plane of Creation is the name given by experimental theologists to the ultimate source of divine power, the place where [[Soulstuff]] originates, and the home of the [[Divine Presence]]. Most scholars do not believe this is a place a traveler can visit, or at least not visit and survive; indeed, recent theoretical calculations by the theological cosmologist [[Heloise of Tollen]] suggest that the Plane of Creation itself may be an infinitely dense agglomeration of [[Soulstuff]], impenetrable to any force except the [[Divine Presence]].
 
 %%^Campaign:none%%
 
@@ -24,7 +28,6 @@ The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ul
 - [[Soulstuff]]
 - [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 - [[2025-01-21 - Divine Power in Taelgar]]
-- [[Riving]]
 - [[Riving]]
 
 The basic vibe, whatever the exact details, is that the Plane of Creation is the divine counterpart to the Plane of Magic, the source of all divine magic, and the home -- in whatever sense they have of home -- of the [[Divine Presence]], and that the Divine Presence is an effectively (or actually) infinite source of divine magic / [[Soulstuff]] etc. 
@@ -36,4 +39,12 @@ In any case, the Plane of Creation is not a place where souls end up in any kind
 Open questions:
 - [[Cosmology - Open Questions]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Plane of Creation, language: Common, status: inferred, notes: Plain Common theological-cosmology title.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern scholarly reference prose; the underlying metaphysics remain partly unsettled.
 %%^End%%
