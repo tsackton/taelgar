@@ -8,6 +8,7 @@ ancestry: Chardonian
 born: 1721
 gender: female
 name: Vola Forena
+pronunciation: VOH-lah foh-REH-nah
 affiliations:
   - {org: Society of the Open Scroll, type: member}
 whereabouts:
@@ -20,6 +21,7 @@ dm_notes: important
 POV: 1748
 ---
 # Vola Forena
+*(VOH-lah foh-REH-nah)*
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -54,7 +56,7 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 %%SECRET[v2:1fd3d4ae8482ed32861e066335cf1060]%%
 
 %%^Metadata:names:v1%%
-- {name: Vola Forena, language: Chardonian, pronunciation: VOH-lah foh-REH-nah, notes: proposed from the Chardonian Italian or Latin analogue; uses open Italian-style vowels with first-syllable stress in Vola and middle-syllable stress in Forena, status: proposed}
+- {name: Vola Forena, language: Chardonian, pronunciation: VOH-lah foh-REH-nah, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -78,7 +80,7 @@ Temporal coverage: a DR 1748 portrait with childhood backstory and a partial chr
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry remains `status: proposed` because no accepted pronunciation is recorded. Review the Chardonian Italian-or-Latin-analogue proposal `VOH-lah foh-REH-nah`, using open Italian-style vowels, first-syllable stress in *Vola*, and middle-syllable stress in *Forena*. If accepted, mark the entry `documented` and copy the pronunciation to frontmatter; otherwise revise it and record the chosen basis.
+- [x] **Warning — metadata.names_unresolved_status:** The primary name entry remains `status: proposed` because no accepted pronunciation is recorded. Review the Chardonian Italian-or-Latin-analogue proposal `VOH-lah foh-REH-nah`, using open Italian-style vowels, first-syllable stress in *Vola*, and middle-syllable stress in *Forena*. If accepted, mark the entry `documented` and copy the pronunciation to frontmatter; otherwise revise it and record the chosen basis.
 - [ ] **Warning — coverage.later_material_change:** The visible article and terminal `whereabouts` stop with Vola trapped in the [[Mirror of Soul Trapping]] from DR 1748-12-08 onward. [[Session 124 (DuFr)]] records her release on DR 1749-06-19 and recovery aboard [[Vindristjarna]], while [[Session 129 (DuFr)]] records her departure from [[Chardon]] for [[Apporia]] on DR 1749-08-02. Choose whether to update the article, chronology, `whereabouts`, and `POV`; defer the update and retain `status/gameupdate/dufr`; or intentionally preserve a DR 1748 snapshot. For an update, add: `In DR 1749, Vola was released from the [[Mirror of Soul Trapping]], remained temporarily aboard [[Vindristjarna]] while recovering, and later left [[Chardon]] for [[Apporia]].` At minimum, change the mirror whereabout to `- {type: away, start: 1748-12-08, end: 1749-06-19, location: Mirror of Soul Trapping}` and add `- {type: away, start: 1749-08-02, end: 9999, prefix: traveling in, location: Apporia}`; separately decide how to represent the June–August interval.
 
 ### DM evidence
