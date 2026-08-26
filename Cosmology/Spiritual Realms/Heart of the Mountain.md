@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [place]
-whereabouts: 
-- {type: home, location: Divine Realms, wHome: "A <ancestry> <typeOf> in the <home:1>"}
-ancestry: dwarven
 typeOf: plane
-dm_notes: none
+ancestry: dwarven
+name: Heart of the Mountain
+whereabouts:
+  - {type: home, location: Divine Realms, wHome: "A <ancestry> <typeOf> in the <home:1>"}
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Heart of the Mountain
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Heart of the Mountain is the home of the [[Bahrazel]], the Firstborn of the [[Dwarves]] and is acknowledged  as one of the [[Divine Realms]] of the [[Embodied Gods ]]in the [[Standard Multiversal Model]].  Although it has been described in many ways over the long years of dwarves, the [[Iron Verses]], among the most famous of the dwarven religious epics, describe: 
+The Heart of the Mountain is the home of the [[Bahrazel]], the Firstborn of the [[Dwarves]], and is acknowledged as one of the [[Divine Realms]] of the [[Embodied Gods]] in the [[Standard Multiversal Model]]. Although it has been described in many ways over the long history of the dwarves, the [[Iron Verses]], among the most famous of the dwarven religious epics, describe:
 
 >*A vast cavern hundreds and hundreds of feet across, with endless tunnels that leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows. Small motes of light that float in the air, causing the flecks of white gemstones and silver veins that run through the walls of the cave to glitter and sparkle. In the center of the open space is a perfectly smooth pool of water, deep and dark. The only sound is the distant, rhythmic clang of hammer on iron, ringing almost like a bell, the tempo slow but steady.*
 
@@ -25,3 +29,10 @@ The Heart of the Mountain is perhaps the most well-known of the [[Divine Realms]
 
 > _The mountain gives, the mountain takes. A name is given, and a debt is sworn.  No dwarf may bear power without price, nor pass unchanged through the forge of the Bahrazel, nor fail to heed their call at need, should they wish to return to the caverns of the Firstborn at the end._
 
+%%^Metadata:names:v1%%
+- {name: Heart of the Mountain, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about a longstanding divine realm and the enduring dwarven traditions associated with it.
+%%^End%%

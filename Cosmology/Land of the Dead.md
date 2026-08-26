@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 tags: [place]
+typeOf: plane
 name: Land of the Dead
 aliases: [River of Souls, Divine Veil]
-displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
-whereabouts: 
-- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
-- {type: secondary, location: Astral Plane}
-typeOf: plane
-dm_notes: none
+whereabouts:
+  - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+  - {type: secondary, location: Astral Plane}
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Land of the Dead
 >[!info]+ Information  
@@ -37,14 +40,14 @@ In most religious traditions around Taelgar, the Land of the Dead is of key theo
 
 ### The Divine Veil
 
-Famously, [[Yendalo]] the [[Stoneborn]] forcibly argued in his treatise [[On the Power of Creation]] that the Land of the Dead is, from a cosmological point of view, best understood of as a veil that shields the [[Inner Realms]] from the full onslaught of the divine power of Creation. Indeed, its appearance and role as a gathering place of the dead is purely coincidental: as souls are, naturally, made of [[Soulstuff]], it simply takes time for souls to diffuse through the barrier of the Divine Veil. As evidence, [[Yendalo]] pointed to the observation that all depictions of the Land of the Dead share some kind of motive force, something that pulls or attracts souls, which he interprets as the longing of [[Soulstuff]] to return to the [[Plane of Creation]]. 
+Famously, [[Yendalo]] the [[Stoneborn]] forcibly argued in his treatise [[On the Power of Creation]] that the Land of the Dead is, from a cosmological point of view, best understood as a veil that shields the [[Inner Realms]] from the full onslaught of the divine power of Creation. Indeed, its appearance and role as a gathering place of the dead is purely coincidental: as souls are, naturally, made of [[Soulstuff]], it simply takes time for souls to diffuse through the barrier of the Divine Veil. As evidence, [[Yendalo]] pointed to the observation that all depictions of the Land of the Dead share some kind of motive force, something that pulls or attracts souls, which he interprets as the longing of [[Soulstuff]] to return to the [[Plane of Creation]].
 
-While most theologians reject the idea that the Journey of Souls is simply the mechanical process of [[Soulstuff]] diffusing across a cosmological barrier, it is generally accepted that Divine power flows far more easily though the channels provided by souls, and that for deities to manifest the power of creation directly in the [[Material Plane]] often carries a great cost. Thus, it only through link through the barrier of the Land of the Dead provided by the connection between the Divine and the [[Soulstuff]] of the [[Plane of Souls]] that most miracles occur, although there are [[Founding of Dunmar|dramatic exceptions]]. 
+While most theologians reject the idea that the Journey of Souls is simply the mechanical process of [[Soulstuff]] diffusing across a cosmological barrier, it is generally accepted that Divine power flows far more easily through the channels provided by souls, and that for deities to manifest the power of creation directly in the [[Material Plane]] often carries a great cost. Thus, most miracles occur only through the link across the barrier of the Land of the Dead provided by the connection between the Divine and the [[Soulstuff]] of the [[Plane of Souls]], although there are [[Founding of Dunmar|dramatic exceptions]].
 ### Inhabitants of the Land of the Dead
 
 *See more: [[Gidari]]*
 
-The Gidari are strange creatures, rarely encountered by mortals, but frequently described by those who return from death. They are the guardians, protectors, and guides of souls while they traverse the [[Land of the Dead]]. They make sure that these souls reach their destination beyond the veil, and they prevent interference with the journey of souls. While Gidari take no sides in the conflicts over mortal souls, they are implacable enemies of those would violate the sanctity of dead souls.
+The Gidari are strange creatures, rarely encountered by mortals, but frequently described by those who return from death. They are the guardians, protectors, and guides of souls while they traverse the [[Land of the Dead]]. They make sure that these souls reach their destination beyond the veil, and they prevent interference with the journey of souls. While Gidari take no sides in the conflicts over mortal souls, they are implacable enemies of those who would violate the sanctity of dead souls.
 
 %%^Campaign:dufr%%
 ### Traveling to the Land of the Dead
@@ -60,7 +63,7 @@ Worse, being on the Land of the Dead for more than a short time saps the will of
 The Land of the Dead has a number of important impacts and details.
 ### Resurrection Magic
 
-*These are guidelines for how resurrection magic interactions with the journey of the soul.*
+*These are guidelines for how resurrection magic interacts with the journey of the soul.*
 
 - _Revivify_ can only bring back a dead creature before its soul has departed the [[Material Plane]] and entered the Land of the Dead. This usually happens quickly, hence the 1 minute limitation on _Revivify_ although spells like _Gentle Repose_ can suspend the journey of the soul for a time. 
 - _Raise Dead_, _Reincarnate_, and other spells that have a 10 day limit can retrieve a soul from the Land of the Dead and restore it to the body (or a new body), but cannot find a soul that has passed beyond the Land of the Dead into the [[Spiritual Realms]] beyond, or a soul that has faded from existence. Note the key limitation of these spells is the Land of the Dead component, and while this should typically take 10 days (this is the traditional understanding of the length of the journey of the soul in most religions), it can be longer or shorter depending on the in-world context. 
@@ -91,4 +94,14 @@ See also:
 
 More brainstorming and discussion in backlinks and unlinked mentions. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Land of the Dead, language: unknown, status: documented}
+- {name: River of Souls, role: alias, language: unknown, status: documented}
+- {name: Divine Veil, role: alias, language: unknown, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern theological and metaphysical synthesis with historical traditions and a campaign-specific account of travel by living visitors.
 %%^End%%

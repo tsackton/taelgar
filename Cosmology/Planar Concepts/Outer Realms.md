@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Outer Realms
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Outer Realms
 
-The Outer Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], that represent the collection of planes that are beyond the barrier of the [[Land of the Dead|Divine Veil]] (contrast with the [[Inner Realms]]). These include primarily the [[Spiritual Realms]], but [[Land of the Dead|Divine Veil]] itself, and the [[Plane of Creation]] are also considered Outer Realms of a sort. 
+The Outer Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], representing the collection of planes that are beyond the barrier of the [[Land of the Dead|Divine Veil]] (contrast with the [[Inner Realms]]). These include primarily the [[Spiritual Realms]], but the [[Land of the Dead|Divine Veil]] itself, and the [[Plane of Creation]] are also considered Outer Realms of a sort.
 
 [[Yendalism|Yendalists]] argue that this classification is superior to others, as the Outer Realms represent the planes on which the souls of the dead can sustain themselves without fading or being cursed with undeath.
 
@@ -23,4 +27,12 @@ Relevant brainstorming and other notes:
 - [[Extraplanar Natives]]
 - [[Metaphysics of Souls]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Outer Realms, language: Common, status: inferred, notes: Plain Common Yendalist classification term.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about a cosmological classification whose underlying metaphysical truth remains contested.
 %%^End%%

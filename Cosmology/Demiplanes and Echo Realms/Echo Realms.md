@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
+tags: [background]
+name: Echo Realms
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Echo Realms
 
@@ -36,4 +40,12 @@ A fair bit of discussion about the nature of Echo Realms:
 Note that canonically, centaurs believe in the Echo Realms theory, but they are somewhat anti-fey and also strongly feel a connection to the Material Plane, so this is perhaps not surprising. See:
 - [[Session 18 (DuFr)]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Echo Realms, role: primary, language: unknown, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article summarizes the Standard Multiversal Model and current criticisms while treating older scholarship historically.
 %%^End%%

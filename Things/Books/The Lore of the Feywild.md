@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T22:52:37-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
 tags: [object]
 typeOf: book
 typeOfAlias: cosmological treatise
 ancestry: Chardonian
-displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: "completed in"}
-dm_owner: none
-dm_notes: none
 author: Ulfgar Frostbeard
 created: 1733
+name: The Lore of the Feywild
+knownTo: [dufr]
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Lore of the Feywild
 >[!info]+ Information  
@@ -22,13 +27,13 @@ Ulfgar is among the primary proponents of the unlikely theory that the [[Feywild
 
 ## The Fey Discourses
 
-The book, however, is better known for its second part, *Collected Discourses on the Fey, Their Realms, and Their Ways*, often referred as simply the *Fey Discourses*. This is an extensive collection, rambling and full of digressions, consisting  of stories, tales, and myths, many contradicting each other, collected from many sources around the west coast and the [[Chardonian Empire]].
+The book, however, is better known for its second part, *Collected Discourses on the Fey, Their Realms, and Their Ways*, often referred to simply as the *Fey Discourses*. This is an extensive collection, rambling and full of digressions, consisting of stories, tales, and myths, many contradicting each other, collected from many sources around the west coast and the [[Chardonian Empire]].
 
-The Fey Discourses is famous particularly for the rare sources it collects. It contain the most complete summary of the lost [[Drankorian Empire|Drankorian]] play, [[A Fool's Fortune]], which recounts the tragi-comedic story of a hapless merchant who finds himself tricked out of his wealth in the Feywild; a nearly complete translation of the works of the elven poet [[Calenya]] of [[Orenlas]], who wrote frequently on the marvels of the [[Feywild ]]; one of the only recorded versions, pieced together from the unpublished notes of [[Eukos the Wanderer]], of the [[Deno'qai]] epic [[The Tales of Ma'qaar]]; the largest surviving fragment of the ancient book [[Terrageum Virion]], considered ancient even by the [[Drankorian Empire|Drankorians]], and often translated as "The Geography of Wonder"; and the only complete copy of the legends of the Feywild spoken by [[Breda Mistweaver]], a cloud giant mystic, to an unnamed scholar from [[Amani]], which were thought lost forever during the [[Great War]].
+The Fey Discourses is famous particularly for the rare sources it collects. It contains the most complete summary of the lost [[Drankorian Empire|Drankorian]] play, [[A Fool's Fortune]], which recounts the tragi-comedic story of a hapless merchant who finds himself tricked out of his wealth in the Feywild; a nearly complete translation of the works of the elven poet [[Calenya]] of [[Orenlas]], who wrote frequently on the marvels of the [[Feywild]]; one of the only recorded versions, pieced together from the unpublished notes of [[Eukos the Wanderer]], of the [[Deno'qai]] epic [[The Tales of Ma'qaar]]; the largest surviving fragment of the ancient book [[Terrageum Virion]], considered ancient even by the [[Drankorian Empire|Drankorians]], and often translated as "The Geography of Wonder"; and the only complete copy of the legends of the Feywild spoken by [[Breda Mistweaver]], a cloud giant mystic, to an unnamed scholar from [[Amani]], which were thought lost forever during the [[Great War]].
 
 %% ter-RAH-gee-um VEER-ee-on %%
 
-It also represents one of the most complete recorded collections of oral histories and traveler's tales about the Feywild, although some scholars would point out it has a strong Chardonian bias and tends to ignore tales from places like [[Tyrwingha]]. Although the entirety of the _Fey Discourses_ is far to long to summarize here, a few key points are recorded.
+It also represents one of the most complete recorded collections of oral histories and traveler's tales about the Feywild, although some scholars would point out it has a strong Chardonian bias and tends to ignore tales from places like [[Tyrwingha]]. Although the entirety of the _Fey Discourses_ is far too long to summarize here, a few key points are recorded.
 
 %% loosely modeled on: https://en.wikipedia.org/wiki/Bibliotheca_(Apollodorus) %%
 
@@ -36,9 +41,9 @@ It also represents one of the most complete recorded collections of oral histori
 
 There are numerous stories about interactions between the fey and natives of the [[Material Plane]] collected in the *Fey Discourses*. While these stories are diverse and unusual, Ulfgar organizes them into a handful of themes.
 
-First, he collects a large number of tales about what he calls the trickster fairies -- the small people of the Feywild, the pixies and sprites and brownies and others. In these tales, the fairies usually get the better of things, and they are often written almost as morality plays. The merchant who things too highly of himself is tricked by a pixie; the knight-turned-ruffian finds her spoils constantly stolen by a quickling. Commonly in these tales the fairies act with honor, of a sort, but always seek to twist the words of those they bargain with, often to achieve mischievous or humorous ends. In Ulfgar's telling, the most dangerous of the trickster fairies are the hags, who are often involved in tales where things slide from playful to spiteful and the person getting a comeuppance is lured by desperation rather than greed.
+First, he collects a large number of tales about what he calls the trickster fairies -- the small people of the Feywild, the pixies and sprites and brownies and others. In these tales, the fairies usually get the better of things, and they are often written almost as morality plays. The merchant who thinks too highly of himself is tricked by a pixie; the knight-turned-ruffian finds her spoils constantly stolen by a quickling. Commonly in these tales the fairies act with honor, of a sort, but always seek to twist the words of those they bargain with, often to achieve mischievous or humorous ends. In Ulfgar's telling, the most dangerous of the trickster fairies are the hags, who are often involved in tales where things slide from playful to spiteful and the person getting a comeuppance is lured by desperation rather than greed.
 
-Second, he collects some tales, mostly from traveler's accounts, of the revelers, as he calls them. Most famous are the satyrs, who frequently, it is said, bring their revelry to the [[Material Plane]], but more elegant and refined are those who are often simply called fey, or fae, the graceful and refined lords and ladies of the courts of the Feywild. The tales of the revelers collected by Ulfgar frequently focus on both the undeniable glamour and beauty of fey parties, and also the dangers such things hold for natives of the [[Material Plane]]. In particular, Ulgar seems fascinated by stories of people who failed to repay debts, often without realizing they had incurred them in the first place, and the dire consequences of such a failure. However, there are also stories of the generosity of fey. In one memorable tale a lost traveler stumbles into the Feywild, and is given food and dressed in splendor, in exchange only for an honest tale of his life.
+Second, he collects some tales, mostly from traveler's accounts, of the revelers, as he calls them. Most famous are the satyrs, who frequently, it is said, bring their revelry to the [[Material Plane]], but more elegant and refined are those who are often simply called fey, or fae, the graceful and refined lords and ladies of the courts of the Feywild. The tales of the revelers collected by Ulfgar frequently focus on both the undeniable glamour and beauty of fey parties, and also the dangers such things hold for natives of the [[Material Plane]]. In particular, Ulfgar seems fascinated by stories of people who failed to repay debts, often without realizing they had incurred them in the first place, and the dire consequences of such a failure. However, there are also stories of the generosity of fey. In one memorable tale a lost traveler stumbles into the Feywild, and is given food and dressed in splendor, in exchange only for an honest tale of his life.
 
 Finally, Ulfgar collects tales of what he calls the spirits of the land: dryads and naiads and nymphs who usually are strongly associated with a specific place. Ulfgar seems less interested in these tales, and there are far fewer here. The longest section is devoted to the classic Chardonian ballad, [[Curse of the Thorned Feast]], which concerns a wronged dryad and the curse she places on the knight who wronged her.
 
@@ -50,7 +55,7 @@ Despite the contradictions, Ulfgar asserts that two fundamental truths remain co
 
 #### Fey Realms
 
-Ulfgar expresses particular fascination with the many fey realms, cataloging dozens (with a focus on those west of the Sentinels). However, he acknowledges the great challenge of identifying unique and consistent domains. The problem, as Ulfgar writes, is that most tales and stories simply describe a journey to the [[Feywild]], perhaps occasionally mentioning the name of a fey ruler. Given the changeable nature of the Feywild itself, and the many names by which fey realms are identified, it can be extremely challenging catalog a consistent set of unique realms. However, Ulfgar highlights eight realms that he considers "reasonably certain" to be real:
+Ulfgar expresses particular fascination with the many fey realms, cataloging dozens (with a focus on those west of the Sentinels). However, he acknowledges the great challenge of identifying unique and consistent domains. The problem, as Ulfgar writes, is that most tales and stories simply describe a journey to the [[Feywild]], perhaps occasionally mentioning the name of a fey ruler. Given the changeable nature of the Feywild itself, and the many names by which fey realms are identified, it can be extremely challenging to catalog a consistent set of unique realms. However, Ulfgar highlights eight realms that he considers "reasonably certain" to be real:
 
 
 1. [[Twilight's Grace]], the only realm east of the [[Sentinel Range|Sentinels]] described in detail in the _Fey Discourses_. This place, Ulfgar says, is a land of twilight ruled by the graceful queen [[Archfey Ethlenn|Ethlenn]]. Twilight's Grace is the Feywild counterpart to [[Tyrwingha]], a place that has long been known for its deep and abiding connection to the fey.
@@ -64,11 +69,19 @@ Ulfgar expresses particular fascination with the many fey realms, cataloging doz
 
 ### Traveling Between Worlds
 
-There are many, many tales of the brave, foolish, and unsuspecting finding themselves crossing between worlds, often unwittingly. Most of these stories contradict each other in details, and there is, in Ulfgar's opinion, no reliable information about what might lead a traveler to step between worlds unawares. Ulgar, in his marginalia, often suspects these are the accounts of those who wronged fey, knowing or unknowingly, and were pulled across in punishment.
+There are many, many tales of the brave, foolish, and unsuspecting finding themselves crossing between worlds, often unwittingly. Most of these stories contradict each other in details, and there is, in Ulfgar's opinion, no reliable information about what might lead a traveler to step between worlds unawares. Ulfgar, in his marginalia, often suspects these are the accounts of those who wronged fey, knowing or unknowingly, and were pulled across in punishment.
 
 Nonetheless, it is clear that in some places, as Ulfgar puts it, "the barrier between the material and the magical is thin." After extensive collation between stories, Ulfgar proposes four fey portals that he believes can reliably be expected to allow a person to intentionally step from our world to the [[Feywild]]. These are:
 
 - [[Lastlight Falls]], described as an incongruous waterfall with no clear source, that glows with an inner light at the moment of sunset. It is located in what is now the [[Nashtkar]], northwest of [[Kharsan]] and south of the [[Sentinel Range|Sentinels]] on the [[Material Plane]], and connects to the fey realm of [[Amberglow]].
 - [[Deepforest Stones]], described as a grove of three gnarled and bent trees that seemingly grow of stone itself, inside which no sound can be heard. It is located near the source of the [[Kayan]] in the [[Elderwood]] on the [[Material Plane]], and connects to the fey realm of [[Dreamhaven]].
-- [[Tangled Vale]], described as sheltered pocket of moss and small flowers contained with dense brier of tangled thorns, that feels like stepping into a bright painting. It is located in the [[Tawir Forest]] on the [[Material Plane]], although supposedly the exact place changes, and connects to they fey realm of [[Wildrun]].
-- [[Golden Door]], described as a door of shining afternoon sunlight, said to only appear to those who fortune favors. In is located somewhere along the ancient road that follow the north bank of the [[Yeraad]] in the [[Material Plane]], and connects to the fey realm of [[Fortune's Rest]].
+- [[Tangled Vale]], described as a sheltered pocket of moss and small flowers contained within a dense brier of tangled thorns, that feels like stepping into a bright painting. It is located in the [[Tawir Forest]] on the [[Material Plane]], although supposedly the exact place changes, and connects to the fey realm of [[Wildrun]].
+- [[Golden Door]], described as a door of shining afternoon sunlight, said to only appear to those who fortune favors. It is located somewhere along the ancient road that follows the north bank of the [[Yeraad]] in the [[Material Plane]], and connects to the fey realm of [[Fortune's Rest]].
+
+%%^Metadata:names:v1%%
+- {name: The Lore of the Feywild, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes Ulfgar's DR 1733 work, its surviving contents, and its current scholarly reputation.
+%%^End%%

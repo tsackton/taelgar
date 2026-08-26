@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
-whereabouts: 
-- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
-- {type: secondary, location: Astral Plane}
+tags: [place]
 typeOf: plane
+name: Plane of Souls
 aliases: [Plane of Consciousness]
-dm_notes: none
+whereabouts:
+  - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+  - {type: secondary, location: Astral Plane}
 dm_owner: joint
+dm_notes: none
+POV: modern
 ---
 # The Plane of Souls
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-In the classical texts of [[Mos Numena ]]theology that have come down from the days before the [[The Downfall|Downfall]], the Plane of Souls is described as a realm of pure thought, where the sparks of the souls of all sentient beings native to the [[Material Plane]] float like constellations. These ancient texts say the Plane of Souls is the connection between the material and the divine, and that each soul that floats in the constellations on the Plane of Souls is a locus for divine miracles. Without the Plane of Souls, in Mos Numenan tradition, we would be mindless constructs. 
+In the classical texts of [[Mos Numena]] theology that have come down from the days before the [[The Downfall|Downfall]], the Plane of Souls is described as a realm of pure thought, where the sparks of the souls of all sentient beings native to the [[Material Plane]] float like constellations. These ancient texts say the Plane of Souls is the connection between the material and the divine, and that each soul that floats in the constellations on the Plane of Souls is a locus for divine miracles. Without the Plane of Souls, in Mos Numenan tradition, we would be mindless constructs.
 
 While most scholars and theologians accept a version of this depiction, and the theology of the Plane of Souls as the intersection between the material and the divine is common across diverse religious traditions, the [[Fey]] tell a different tale. According to the theologian [[Camilla of Drankor]], the most prominent ancient scholar of fey cosmology, the fey believe the Plane of Souls is but a pale, distant echo of the vibrant chaos of the [[Dreamworld]]. These heretical opinions are not widely accepted by any theological cosmologists, excepting the followers of [[Yendalism]], who persist in claiming that the souls of all denizens of what they call the [[Inner Realms]] are reflected in the constellations of the [[Plane of Souls]]. 
 
@@ -24,7 +28,7 @@ The Plane of Souls is connected to how the divine act in the world. In particula
 
 The Plane of Souls has three relevant impacts worth keeping in mind:
 - Although there is no specific definition of psionics in Taelgar, any magical effects that represent a magical "inner strength" (such as monk focus, or certain types of psionics) would likely be a result of a particular "strength of soul" on the Plane of Souls. While there are not really any direct mechanical consequences of this, for flavor reasons it is worth keeping in mind that these magics are quite distinct from arcane magic or divine miracles. The flavor should tend towards drawing on the power of the [[Soulstuff]] that resides within you
-- The Dreamworld is an echo realm (in some sense - maybe the fey are right?) of the Plane of Souls, and so the most common way to reach the Dreamworld would typically be through the Plane of Souls. This is mostly a color things, but e.g. traveling to the Dreamworld from the Material Plane at least should usually pass through the constellation of souls, narratively.
+- The Dreamworld is an echo realm (in some sense - maybe the fey are right?) of the Plane of Souls, and so the most common way to reach the Dreamworld would typically be through the Plane of Souls. This is mostly a color thing, but e.g. traveling to the Dreamworld from the Material Plane at least should usually pass through the constellation of souls, narratively.
 - The Plane of Souls either connects to, or is part of, the [[Astral Plane]]. Astral Projection would normally start from your spark on the Plane of Souls, for example. 
 
 Beyond this, in-world or meta details are a bit vague. Note, however, that the "ancient understanding" that only natives of the Material Plane have souls on the Plane of Souls is likely at least incomplete. Who has souls and what that means remains an open question, see below.
@@ -35,4 +39,13 @@ Relevant open questions:
 Discussion:
 - [[2025-01-21 - Divine Power in Taelgar]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Plane of Souls, role: primary, language: Common, status: documented}
+- {name: Plane of Consciousness, role: alias, language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article presents current theological and scholarly interpretations of much older traditions.
 %%^End%%

@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
-whereabouts: 
-- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
-- {type: secondary, location: Ethereal Plane}
+tags: [place]
 typeOf: plane
-dm_notes: none
+name: Plane of Magic
+whereabouts:
+  - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+  - {type: secondary, location: Ethereal Plane}
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Plane of Magic
 >[!info]+ Information  
@@ -22,7 +26,7 @@ The Plane of Magic is the name given by arcane cosmologists to the source of the
 > This theory starts from the observation that [[Ley Lines]], presumed to be a manifestation of contact with the Plane of Magic, can be found in all planes that any experimental cosmologist has studied. To [[Avariel]], this implied that while most planes can be thought of as isolated bubbles, sometimes superimposed on one another (as the Material Plane and the [[Plane of Souls]] are), the Plane of Magic must be something different. She proposed that the Plane of Magic is best thought of as existing in a higher dimension than other planes, such that it could not be fully modeled in the usual four dimensions of planar geometry, and it would thus contact all other planes.
 > 
 > #### The Sea of Energy
-> This theory derives from the claims of the Planar Dualists that there are only two fundamental planes: the [[Astral Plane]] and the [[Ethereal Plane]]. In this model, the [[Ethereal Plane]] is depicted a vast ocean upon which the rest of the [[Multiverse]] floats, with what others might call the Plane of Magic depicted as the deepest shoals. In this model, [[Ley Lines]] are rivers of magical energy, flowing to and through the [[Ethereal Plane]], cascading like waterfalls through the [[Multiverse]] and ultimately flowing to the deepest wells of magic at the bottom of the [[Ethereal Plane]]. While [[Planar Dualism]] would hardly be considered a dominant multiversal model, the metaphor of the [[Plane of Magic]] as a chaotic sea, and [[Ley Lines]] as rivers flowing into is, is popular among many scholars, even among those who reject the claims of planar dualism otherwise. 
+> This theory derives from the claims of the Planar Dualists that there are only two fundamental planes: the [[Astral Plane]] and the [[Ethereal Plane]]. In this model, the [[Ethereal Plane]] is depicted as a vast ocean upon which the rest of the [[Multiverse]] floats, with what others might call the Plane of Magic depicted as the deepest shoals. In this model, [[Ley Lines]] are rivers of magical energy, flowing to and through the [[Ethereal Plane]], cascading like waterfalls through the [[Multiverse]] and ultimately flowing to the deepest wells of magic at the bottom of the [[Ethereal Plane]]. While [[Planar Dualism]] would hardly be considered a dominant multiversal model, the metaphor of the [[Plane of Magic]] as a chaotic sea, and [[Ley Lines]] as rivers flowing into it, is popular among many scholars, even among those who reject the claims of planar dualism otherwise.
 
 %%^Campaign:none%%
 
@@ -35,3 +39,11 @@ Fundamentally, the source of arcane magic. However, the deeper metaphysics are a
 %%^End%%
 
 %%SECRET[v2:a5ea74cfc71174ad0f6fd6451ab3f0c4]%%
+
+%%^Metadata:names:v1%%
+- {name: Plane of Magic, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the note presents current scholarly uncertainty and competing models without asserting a narrower changing state.
+%%^End%%

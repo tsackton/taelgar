@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [place]
-aliases: [Prime Material Plane, Prime Realm, Mundane Realm, Mundane World]
 typeOf: plane
-whereabouts: 
-- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+name: Material Plane
+aliases: [Prime Material Plane, Prime Realm, Mundane Realm, Mundane World]
+whereabouts:
+  - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Material Plane
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Material Plane, sometimes called the Prime Material Plane or simply the Prime Realm, is the name traditionally given to the plane in which the world of Taelgar, and possibly other words, exist. The Material Plane, along with its spiritual counterpart the [[Plane of Souls]], is considered by almost all scholars to be the center of the [[Multiverse]]. This pair of planes - the material and the spiritual - is where the [[Astral Plane]] and [[Ethereal Plane]] intersect, and is believed by theological cosmologists to be the home for life to thrive created by the [[Divine Presence]] during the [[Riving]]. 
+The Material Plane, sometimes called the Prime Material Plane or simply the Prime Realm, is the name traditionally given to the plane in which the world of Taelgar, and possibly other worlds, exist. The Material Plane, along with its spiritual counterpart the [[Plane of Souls]], is considered by almost all scholars to be the center of the [[Multiverse]]. This pair of planes - the material and the spiritual - is where the [[Astral Plane]] and [[Ethereal Plane]] intersect, and is believed by theological cosmologists to be the home for life to thrive created by the [[Divine Presence]] during the [[Riving]].
 
 >[!danger] Minority Opinions about the Material Plane
 >Despite the clear centrality of the Material Plane in most multiversal models, there remain some scholars who question the standard depictions accepted by both arcane and theological cosmologists.
@@ -24,3 +28,11 @@ The Material Plane, sometimes called the Prime Material Plane or simply the Prim
 >
 
 %% note: This description is meant to leave open the possibility of other worlds ala Spelljammer, but the general feeling is that the Spelljammer vibe is not very compatible with Taelgar. The celestial bodies (the Sun, the [[Moon]], and the [[Stars]]) obviously exist, and largely are similar to our world (there are not two moons or anything like that) but what they actually are is not defined %%
+
+%%^Metadata:names:v1%%
+- {name: Material Plane, language: Common}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes current cosmological scholarship without a narrower dated state.
+%%^End%%

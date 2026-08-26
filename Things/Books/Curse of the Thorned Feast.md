@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: "2026-08-25T22:52:37-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:x><( by )author:x>"}
+tags: [object]
 typeOf: book
 typeOfAlias: ballad
 ancestry: Chardonian
 written: "sometime after the [[Fall of Drankor]]"
+name: Curse of the Thorned Feast
+knownTo: []
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Curse of the Thorned Feast
 >[!info]+ Information  
@@ -17,3 +22,11 @@ dm_notes: none
 *Curse of the Thorned Feast* is a classic Chardonian ballad often sung as a cautionary tale. It tells of a wandering warrior or knight who wrongs a dryad by dining eagerly in her grove without proper thanks or recompense, and is cursed to serve the forest for a hundred and one years.
 
 %% timing note: The current date only places this after the [[Fall of Drankor]]. Since [[The Lore of the Feywild]] treats it as a classic Chardonian ballad and was completed in DR 1733, this ballad must predate DR 1733 if that relationship is retained. most likely it pre-dates the Great War %%
+
+%%^Metadata:names:v1%%
+- {name: Curse of the Thorned Feast, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose; the ballad's composition is bounded only after the Fall of Drankor and before DR 1733.
+%%^End%%

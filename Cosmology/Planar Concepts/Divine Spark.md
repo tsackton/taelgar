@@ -1,11 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
-excludePublish: ["all"]
+name: Divine Spark
+excludePublish: [clee]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Divine Spark
+
+The Divine Spark is the unique power of humanity through which human belief can create and sustain the [[Incorporeal Gods]]. 
 
 %%^Campaign:none%%
 
@@ -26,4 +32,12 @@ Some possible context around the not-yet-developed "worship Divine Presence Dire
 
 However, very little has been settled in-game, even to the point it is not obvious what the open questions are. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Divine Spark, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the note preserves undated development material about a concept that spans human history.
 %%^End%%

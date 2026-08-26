@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
-whereabouts: 
-- {type: home, location: Spiritual Realms, wHome: "A <typeOf> in the <home:1>"}
-- {type: secondary, location: Divine Realms}
+tags: [place]
 typeOf: plane
+name: Pandemonium
+whereabouts:
+  - {type: home, location: Spiritual Realms, wHome: "A <typeOf> in the <home:1>"}
+  - {type: secondary, location: Divine Realms}
 dm_owner: tim
 dm_notes: none
+POV: 1749
 ---
 # Pandemonium
 >[!info]+ Information  
@@ -24,9 +28,19 @@ The [[Standard Multiversal Model]] places Pandemonium among the undifferentiated
 Those who have studied [[On the Foundations of Madness]] believe the strongest evidence in support of its claims comes from the apparent connection between Pandemonium and [[Lycanthropes|lycanthropy]], often referred to as the curse of the Mad One, though the exact metaphysics of this connection remain a mystery. 
 
 %%^Campaign:dufr%%
-Recent events in [[Chardon]] have brought home the reality of Pandemonium for many. The first disjointed reports on the [[Pandemonium Incursion in Chardon]] described a wind that tore through the [[Kylos Market]], a howl so intense that many who heard it apparently fell dead, and throughout the city flashes and visions of a labyrinth of endless tunnels filled only with the fierce howling wind stunned thousands upon thousands. And yet, according to the official investigation organized by the [[Society of the Open Scroll]], that was far from the worst effects. The howling wind froze into a jagged wall of cracked stone, through which strange mad whispers can still be heard -- for the wizards of the [[Hetaeri Magica]] have yet to succeed in removing this cursed stone. Worse is the troubling outbreaks of lycanthropy that now plague the city. It seems certain, based on the Society's investigation, that many who survived that first terrifying howl only appeared to be unaffected. Daily reports now hint that even hearing the whispers of the cracked stone may be hazardous. 
+
+>[!warning] *A report on the Pandemonium Incursion in Chardon, May 1749*
+>Recent events in [[Chardon]] have brought home the reality of Pandemonium for many. The first disjointed reports on the [[Pandemonium Incursion in Chardon]] described a wind that tore through the [[Kylos Market]], a howl so intense that many who heard it apparently fell dead, and throughout the city flashes and visions of a labyrinth of endless tunnels filled only with the fierce howling wind stunned thousands upon thousands. And yet, according to the official investigation organized by the [[Society of the Open Scroll]], that was far from the worst effects. The howling wind froze into a jagged wall of cracked stone, through which strange mad whispers can still be heard -- for the wizards of the [[Hetaeri Magica]] have yet to succeed in removing this cursed stone. Worse is the troubling outbreaks of lycanthropy that now plague the city. It seems certain, based on the Society's investigation, that many who survived that first terrifying howl only appeared to be unaffected. Daily reports now hint that even hearing the whispers of the cracked stone may be hazardous. 
 
 %%^End%%
 
 
 %%SECRET[v2:027660a5b2d69a2524819955e6fb525b]%%
+
+%%^Metadata:names:v1%%
+- {name: Pandemonium, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern cosmological description with a DR 1749 campaign-era snapshot of the immediate aftermath of the Chardon incursion.
+%%^End%%

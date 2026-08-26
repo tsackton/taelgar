@@ -1,21 +1,27 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: plane
+name: Shadowfolds
 whereabouts: Echo Realms
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Shadowfolds
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Shadowfolds are the name, popularized by the Drankorian text [[On Metaphysics]], for the collection of demiplanes associated particularly with the resonances of great evil. In the [[Standard Multiversal Model]], these are considered [[Echo Realms]]: the few reliable reports of planar travelers who explored and lived to escape these dark domains suggest that, like the [[Feywild]], there is a rough physical correspondence between the features of  Shadowfolds domains and the [[Material Plane]]. 
+The Shadowfolds are the name, popularized by the Drankorian text [[On Metaphysics]], for the collection of demiplanes associated particularly with the resonances of great evil. In the [[Standard Multiversal Model]], these are considered [[Echo Realms]]: the few reliable reports of planar travelers who explored and lived to escape these dark domains suggest that, like the [[Feywild]], there is a rough physical correspondence between the features of Shadowfolds domains and the [[Material Plane]].
 
 Unlike Fey Realms, the domains of the Shadowfolds cannot be so easily traversed, and travel between them is difficult, if not impossible. Indeed, each Shadowfold domain is perhaps better considered to be its own demiplane, as [[Camilla of Drankor]] proposed, colored and shaped by the particular evils of whatever dread lord made it. [[Emyr of Tafolwern]] even went so far as to propose that the Shadowfolds are really prisons for those who commit vast sins, and the existence of each Shadowfold domain is tied to the punishment of a particular evil soul, trapped there forever. 
 
-*(While there is more to say about the Shadowfolds, and significant lore likely exists, it largely has not been invented yet! - Eds.)
+Many Shadowfolds domains have been speculated to exist, but only a few are reliably documented. [[Morkalan]], a dwarven realm bound to [[Hagrim|Hagrim's]] betrayal was visited by [[Riswynn]] and companions and [[Session 58 (DuFr)|destroyed]] in DR 1748. [[Cairn Dor]], a realm created by [[Yeshara|Yeshara's]] rite to free the [[Yo'nari]] from sleep and dreams, was [[Great Library Session Notes - Arc 5|explored]] by the [[Silver Tempests]] in DR 1747. 
+
+*(While there is more to say about the Shadowfolds, and significant lore likely exists, it largely has not been invented yet! - Eds.)*
 
 %%^Campaign:none%%
 
@@ -33,4 +39,12 @@ Name brainstorming:
 Shadowfell, Shadowfolds, Shadowlands, Plane of Shadows, Domains of Shadow, Shadow Realms
 Darkfolds, Darklands, Shadowdark
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Shadowfolds, language: unknown, notes: "The current name is marked tentative in shared planning, where several alternatives remain under consideration.", status: unresolved}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern scholarly descriptions and surviving traveler reports; historical theories do not narrow the article's viewpoint.
 %%^End%%

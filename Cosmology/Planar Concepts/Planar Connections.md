@@ -1,11 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
-excludePublish: ["all"]
+name: Planar Connections
+excludePublish: [clee]
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # Planar Connections
+
+Planar geographers widely discuss two commonly understood forms for planar connection. [[Extraplanar Weak Point|Extraplanar weak points]] allow influence or energy to leak from one two to another, but do not permit passage. Planar portals, in contrast, are doorways between fixed points on different planes that allow a traveler to step directly between planes, though they may only function at particular times or under certain conditions. 
+
+A more controversial third category, known as [[Elemental Vortex|planar upwellings]] or elemental vortexes, are temporary and unpredictable connections between planes that can carry creatures or objects between planes, sometimes without warning.
 
 %%^Campaign:none%%
 
@@ -17,4 +25,8 @@ In general, it is probably best to think about three general kinds of planar con
 
 (3) Actual planar portals let you simply walk to another plane. These can be permanent features of the world ([[Lastlight Falls]]), or temporarily created by magic (e.g., the Gate spell). These should be quite rare, although portals to the Feywild may be relatively more common (but I think many "portals" to the Feywild may actually be more akin to "fey vortexes" than true portals). Generally speaking the distinction is at least in part about whether you can accidentally walk through. Planar portals are usually pretty obvious - you can see the other plane on the other side, for example. 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern taxonomy of planar connections; the shared design guidance remains partly tentative but is not tied to a narrower date.
 %%^End%%

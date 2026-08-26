@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T23:38:37-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Spiritual Realms
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Spiritual Realms
 
@@ -17,6 +21,8 @@ All planar geographers distinguish the [[Divine Realms]], the "home of the gods"
 Followers of [[Yendalism]] typically add a fifth truth to this list:
 - **The Principle of Veiled Dominion** – No power within the spiritual realms may act freely upon any of the [[Inner Realms]], for the [[Land of the Dead|Divine Veil]] stands between them; yet through passage, pact, or willing soul, their influence may cross beyond their own dominion.
 
+Known Spiritual Realms include the [[Abyss]], [[Arborea]], [[Limbo]], [[Nine Hells]], and [[Pandemonium]], as well as the [[Divine Realms]] associated with embodied gods, such as the [[Heart of the Mountain]].
+
 %%^Campaign:none%%
 ## List of Spiritual Realms
 
@@ -29,4 +35,12 @@ dv.table(["Place"],
 				.map(b => [util.s("<name:x>", b.file)]))
 ```
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Spiritual Realms, language: Common, status: inferred, notes: Plain Common Standard Multiversal Model classification term.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about the Standard Multiversal Model and its Yendalist counterpart.
 %%^End%%
