@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person,  status/cleanup/metadata]
-campaignInfo: []
-name: Crispus
-born: 1697
+lintedAt: "2026-08-25T09:29:24-04:00"
+lintVersion: "3.5"
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Chardonian
+campaignInfo: []
+born: 1697
 gender: male
-title: 
-affiliations: 
-- {org: Great Library, title: Senior Archivist}
-whereabouts:
-- {type: home, location: Chardon}
+title: null
+name: Crispus
 pronunciation: CRIS-pus
-dm_notes: important
+affiliations:
+  - {org: Great Library, title: Senior Archivist}
+whereabouts:
+  - {type: home, location: Chardon}
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1748
 ---
 # Crispus
 *(CRIS-pus)*
@@ -29,3 +33,11 @@ dm_owner: tim
 A senior Archivist at the [[Great Library]], in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 
 
 %%SECRET[v2:47cb0eae94f5d9951d71fad9547bb357]%%
+
+%%^Metadata:names:v1%%
+- {name: Crispus, language: Chardonian, pronunciation: CRIS-pus, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 portrait of Crispus as a senior Great Library archivist sponsoring artifact-recovery expeditions; his later status is not established.
+%%^End%%

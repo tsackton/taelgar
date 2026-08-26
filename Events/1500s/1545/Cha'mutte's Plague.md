@@ -28,7 +28,7 @@ Still a lot to confirm here, but the aftereffects in the current day are largely
 
 %%^Metadata:names:v1%%
 - {name: Cha'mutte's Plague, role: primary, language: Common, status: documented, notes: Descriptive event title.}
-- {name: Cha'mutte, role: component, language: unknown, pronunciation: shah-MUTT, status: documented, notes: "Pronunciation documented in [[Cha'mutte]]."}
+- {name: Cha'mutte, role: component, language: unknown, pronunciation: shah-MUTT, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

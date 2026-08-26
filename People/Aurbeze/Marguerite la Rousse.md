@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-25T09:29:24-04:00"
+lintVersion: "3.5"
 tags: [person]
-campaignInfo:
-- {campaign: DuFr, date: 1749-08-07, type: met}
-name: Marguerite la Rousse
-born: 1711
 species: human
 ancestry: Aurbeze
+campaignInfo:
+  - {campaign: dufr, date: 1749-08-07, type: met}
+born: 1711
 gender: female
-aliases:
+name: Marguerite la Rousse
+aliases: []
+pronunciation: mar-guh-REET la ROUSE
 whereabouts:
-- {type: home, location: Aurbez Plateau}
-- {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
+  - {type: home, location: Aurbez Plateau}
+  - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
-pronunciation: mar-guh-REET la ROUSE
+POV: 1749
 ---
 # Marguerite La Rousse
 *(mar-guh-REET la ROUSE)*
@@ -22,7 +26,7 @@ pronunciation: mar-guh-REET la ROUSE
 > An Aurbeze [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
 
 ![[marguerite-la-rousse.png|right|400]]Marguerite is an Aurbeze militia captain and capable fighter, formerly a highland shepherd on the [[Aurbez Plateau]]. She commands respect among the plateau militias, bringing practical experience and resolve to local defense. Her leadership emphasizes endurance, coordination with the [[Rangers]], and protection of rural households.
 
@@ -40,3 +44,11 @@ She is a sun-browned woman with red hair, typically wearing her worn but careful
 - First met at the War Council at Three Wells (DR:: 1749-08-07): [[Session 130 (DuFr)|War Council at Three Wells]].
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Marguerite la Rousse, language: unknown, pronunciation: mar-guh-REET la ROUSE, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 portrait of Marguerite as a militia captain during the defense against the Empress of Chaos; her earlier life is described only briefly.
+%%^End%%
