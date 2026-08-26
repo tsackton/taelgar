@@ -22,7 +22,7 @@ POV: modern
 
 %% needs a more specific whereabouts but the region is not well developed yet %%
 
-A coastal village west of the [[Fiatara Mountains]] and near the [[Slate Sea]]. 
+A coastal village west of the [[Fiatara Mountains]] and near the [[Slate Sea]]. Villagers from Suwi frequently log the woods along the shore of [[Lake Suwi]], a small lake upriver from the village.
 
 %%
 GL Arc 4: staging point for investigation of nearby lake caverns and the aboleth [[Ithu’rax]].

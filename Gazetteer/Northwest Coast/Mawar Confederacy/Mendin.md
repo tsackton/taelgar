@@ -20,7 +20,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Mendin is a small town and port on the western coast of the [[Mawakel Peninsula]], near the [[Chardonian Empire]], used as a stopping place by travelers and traders. 
+Mendin is a small town and port on the western coast of the [[Mawakel Peninsula]], near the [[Chardonian Empire]], used as a stopping place by travelers and traders. A small Chardonian trade mission operates in Mendin, and a salt lizardfolk community lies just to its north.
 
 %%
 Source links:

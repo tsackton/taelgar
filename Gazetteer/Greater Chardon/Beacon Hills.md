@@ -18,6 +18,8 @@ POV: modern
 
 A region of rugged hills and rough terrain west of [[Lake Valandros]]. Many small rivers rise in these hills and flow west to the [[Endless Ocean]] through the [[Coastlands]], including the [[Breakrock]], [[Sevros]], [[Corvessa]], and [[Zar]].
 
+The hills take their name from beacon towers first built by the Drankorians during the [[Western Wars]], and repurposed repeatedly in later centuries.
+
 %% 
 some previous brainstorming suggests possibly a region of mining for Chardon, and also an area where refugees hid out during the hobgoblin occupation of the upper coast of the [[Coastlands]] 
 %%
