@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: infrastructure
 typeOfAlias: monolith
 name: Harmony Stone
@@ -18,6 +18,8 @@ POV: modern
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Harmony Stone is an ancient gray‑white monolith, 60 feet tall and tapering to a point from a 15 foot base, standing along the river road of the [[Chasa River Valley]], between [[Metium]] and [[Erlona]]. Weathered Elvish and Northros runes mark it as a place of treaty and trade.
+
+It is one of the [[Elven Treaty Stones]] scattered across [[Greater Chardon]], the [[Northwest Coast]], and the [[Central Highlands]], ancient markers associated with forgotten treaties between [[elves]] and the [[Northerners|early human settlers]] of this area. 
 
 %%^Campaign:none%%
 
@@ -39,18 +41,4 @@ A deep resonance runs through the statue, though. Elves, in particular, may trig
 
 %%^povNotes:v1%%
 Temporal coverage: no obvious reason to think this has changed during the current campaign era. 
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Corrected the misspellings `recurrs` and `here` in the preserved `Campaign:none` block.
-
-### Validated judgments
-- The primary name is an obvious Common-language descriptive title, so no pronunciation entry is required.
-
-### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** The visible article identifies the Harmony Stone as a treaty-and-trade marker but omits its established place among the [[Elven Treaty Stones]] and its surviving memory-stirring magic. [[Elven Treaty Stones]] describes the wider class and names the Harmony Stone as one example; [[Chasa River Valley]] says this stone still stirs old memories for elves. Add: "It is one of the [[Elven Treaty Stones]] scattered across [[Greater Chardon]], the [[Northwest Coast]], and the [[Central Highlands]], ancient markers of agreements between elves and early human settlers, and it still stirs old memories for elves."
 %%^End%%

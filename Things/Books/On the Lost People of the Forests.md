@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
-tags: [object, status/check/lint]
+tags: [object, status/cleanup/text]
 typeOf: book
 typeOfAlias: geographical treatise
 ancestry: Chardonian
@@ -12,7 +12,7 @@ author: Gnaeus
 name: On the Lost People of the Forests
 knownTo: [dufr]
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: modern
 ---
 # On the Lost People of the Forests
@@ -20,8 +20,6 @@ POV: modern
 > A [[Chardonian Empire|Chardonian]] geographical treatise, by [[Gnaeus]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
-
-%% double check to make sure I have all  text about this book here %%
 
 Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchantment magic in his research.
 
@@ -63,21 +61,4 @@ After 30 days, when his guide's enchantment ceased, the guide turned on him, and
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; the article summarizes a work completed around DR 1725 and its retrospective account of Gnaeus's earlier Elderwood journey.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Canonically formatted frontmatter and added supported `knownTo: [dufr]` and `POV` metadata.
-- Added persistent name and temporal-coverage metadata.
-- Corrected the objective errors `enchanment`, `elves at fought`, and `was draw`.
-
-### Validated judgments
-- The opening shared comment is an editorial checklist without recoverable public or private content.
-- The account preserves Gnaeus's attribution and exposes his use of coercive enchantment rather than presenting the ethnography as unqualified fact.
-
-### Open findings
-
-- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes`. The `color` attestation may still represent remembered or off-vault information, so retain it unless a human confirms a different value.
 %%^End%%

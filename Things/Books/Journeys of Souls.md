@@ -9,13 +9,13 @@ typeOfAlias: religious text
 ancestry: Hkaran
 written: "before [[The Downfall|Downfall]]"
 author: an unknown scholar
-name: Journey of the Souls
+name: Journeys of Souls
 knownTo: [dufr, feywild]
 dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Journey of the Souls
+# Journeys of Souls
 >[!info]+ Information  
 > A [[Hkar|Hkaran]] religious text, written before [[The Downfall|Downfall]], by an unknown scholar  
 > `$=dv.view("_scripts/view/get_Affiliations")`
@@ -50,7 +50,7 @@ Temporal coverage: broadly modern; the article summarizes an ancient pre-Downfal
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** The note's `name` and heading use *Journey of the Souls*, while the filename and [[Session 16 (DuFr)]] use *Journeys of Souls*. Choose the accepted title and whether the other form remains an alias. Candidate: set `name` to the accepted form, add the other form to `aliases`, and mark both corresponding `Metadata:names:v1` entries documented or otherwise resolved.
+- [x] **Warning — metadata.names_unresolved_status:** The note's `name` and heading use *Journey of the Souls*, while the filename and [[Session 16 (DuFr)]] use *Journeys of Souls*. Choose the accepted title and whether the other form remains an alias. Candidate: set `name` to the accepted form, add the other form to `aliases`, and mark both corresponding `Metadata:names:v1` entries documented or otherwise resolved.
 
 ### DM evidence
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Tower Text]]

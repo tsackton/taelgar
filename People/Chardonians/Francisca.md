@@ -22,7 +22,7 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Francisca, mother of [[Xavier]] and [[Adina]], is a poor seamstress who does piece-work sewing and mending out of the small apartment she shares with her children near the [[Foundry Market]]. In good times, she has a small stall on the edge of the [[Foundry Market]]; in bad times, she hides in her apartment and yells at her children. She is middle aged, but looks older.
+Francisca, mother of [[Xavier]] and [[Adina]], is a poor seamstress who does piece-work sewing and mending out of the small apartment she shares with her children near the [[Foundry Market]]. In good times, she has a small stall on the edge of the [[Foundry Market]]; in bad times, she hides in her apartment and yells at her children. She is middle aged, but looks older. 
 
 Her chief hope is that her children will have a better life than she has had.
 

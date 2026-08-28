@@ -28,6 +28,8 @@ POV: 1749
 
 ![[nuzkar-potrait.png|right|320]]An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [[Thark]]'s enslavement works, and how to free more of her people. She has a twin sister, [[Aygul]], as well as a husband and large family in Uzgukhar. 
 
+Nuzkar is an older orc woman with pale green skin and graying hair; she favors colorful linen clothing.
+
 %%^Date:1749-01-20%%
 She was inspired by [[Riswynn]] and the [[Battle for Uzgukhar]] to rededicate herself to her childhood dream of doing more for all orcs who suffer, unfree, in [[Thark]]'s control, and joined the [[Dunmar Fellowship]] to travel on [[Vindristjarna]]. 
 %%^End%%
