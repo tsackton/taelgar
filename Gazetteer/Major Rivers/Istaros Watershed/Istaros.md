@@ -38,10 +38,16 @@ The upper Istaros ends a hundred miles or so south of Isingue, at the confluence
 
 The Middle Istaros, known as the Drogar to the orcs of Xurkhaz, starts just south of the confluence with the [[Kezhur]], among the rocky hills of the southern Plaguelands. The river flows through a series of gorges cut into the uplifted land, with several dramatic waterfalls created during the cataclysm after the Great War. 
 
-Here, the Istaros forms the eastern border of the [[Xurkhaz]], as it enters a rocky desert for a hundred miles before spilling onto the flat arid landscape of the eastern Garamjala. Here, the river makes a wide bend around the Garamjala Plateau, before turning southwest and joining the [[Yandare]]. This is the section of the Istaros known as the Mahar to the Dunmari. 
+Here, the Istaros forms the eastern border of the [[Xurkhaz]], as it enters a rocky desert for a hundred miles before spilling onto the flat arid landscape of the eastern Garamjala. At [[Uzgukhar]], the [[Kulthul]] joins the Istaros from the west; the river valley around this confluence is one of the most densely settled parts of [[Xurkhaz]].
+
+Beyond [[Xurkhaz]], the river makes a wide bend around the Garamjala Plateau, before turning southwest and joining the [[Yandare]]. This is the section of the Istaros known as the Mahar to the Dunmari. 
 ## Lower Istaros
 
 Once, the Istaros joined the Hara, forming a broad river that flowed past the famous city of Drankor, the center of the Drankorian Empire. Now, none know what remains of the lower Istaros, or if the Hara even still reaches the Istaros. 
+
+%%^Campaign:dufr%%
+Where the Istaros drops away from the Garamjala Plateau, it descends through massive waterfalls; farther south, the surrounding land becomes increasingly lush and gives way to dense jungle near the coast.
+%%^End%%
 ## Names
 
 The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[Orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[First Plague]] and the fall of Drankor.

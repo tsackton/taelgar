@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/wip, status/check/lint]
+tags: [place, status/wip]
 typeOf: region
 name: Greater Chardon
 pronunciation: CHAR-din
@@ -202,24 +202,4 @@ Major features include a major river, large forests to the east against the Sent
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern but uneven; the draft mixes current regional statements, historical overview, and unresolved planning, so temporal use remains limited until its boundaries and central placeholders are resolved.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized the safe frontmatter representation of `pronunciation` without changing its parsed value.
-
-### Validated judgments
-- Non-check status disposition: `status/wip` is supported by the visible placeholders, editorial checklist, raw planning fragments, and appended old-page material; no status was changed.
-- Later updates to Apporia, the Chardonian Empire, the Chataan Mountains, and the Chasa elaborate subregions without creating a discrete contradiction or later-material change in this broadly modern regional draft.
-
-### Editorial assessment
-- **Underdeveloped** — The visible article still lacks a finished in-world introduction, map and topography account, civilizations-and-cultures synthesis, and climate account. Its history also shifts between finished prose, placeholders, raw planning, duplicated summary, and an appended old page, so it does not yet perform a coherent regional-reference role.
-
-- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
-
-### Open findings
-- [ ] **Suggestion — editorial.note_underdeveloped:** Several central sections remain literal placeholders or unresolved planning rather than a reference account. Smallest useful development scope: define the region's extent in a concise introduction, replace the map/topography and climate placeholders with supported summaries, add a bounded civilizations-and-cultures synthesis that distinguishes established facts from invention, and consolidate the historical material into one coherent public sequence.
-- [ ] **Suggestion — editorial.reference_voice:** The `The Blood Years`, `Early Imperial Era`, and `Imperial Expansion` subsections mix encyclopedia prose with raw notes such as "basic idea," undated planning fragments, and a three-phase outline, followed by duplicated historical summary. Human rewrite brief: preserve supported dates, named conflicts, and explicit uncertainty; separate tentative development from adopted prose; consolidate duplicate chronology; and remove placeholders without silently canonizing the speculative details.
 %%^End%%

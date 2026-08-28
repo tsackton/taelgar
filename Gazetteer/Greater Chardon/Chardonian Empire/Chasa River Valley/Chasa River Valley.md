@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/ai]
 typeOf: region
 name: Chasa River Valley
 whereabouts: Chardonian Empire
@@ -15,7 +15,7 @@ POV: 1748
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Chasa river valley is a broad, fertile basin, a major agricultural heartland of the [[Chardonian Empire]], where terraced vineyards and fields of grain spread from the  lowlands near [[Chardon]] and the confluence of the [[Chasa]] and the [[Nahadi]], to the gentle foothills of the interior. Winters are soft and rain-laden; summers arrive warm and bright, yielding long growing seasons that make the region famed for its wines. Inland, the seasons sharpen, with hot summer afternoons and occasional frosts in winter, yet rainfall remains ample, feeding vast evergreen forests. The valley’s mosaic of rich soils, reliable rains, and varied elevations underpins a thriving agrarian culture and busy river trade.
+The Chasa river valley is a broad, fertile basin, a major agricultural heartland of the [[Chardonian Empire]], where terraced vineyards and fields of grain spread from the lowlands near [[Chardon]] and the confluence of the [[Chasa]] and the [[Nahadi]], to the gentle foothills of the interior. Winters are soft and rain-laden; summers arrive warm and bright, yielding long growing seasons that make the region famed for its wines. Inland, the seasons sharpen, with hot summer afternoons and occasional frosts in winter, yet rainfall remains ample, feeding vast evergreen forests. The valley’s mosaic of rich soils, reliable rains, and varied elevations underpins a thriving agrarian culture and busy river trade.
 
 %% think Willamette Valley, Burgundy, Central Valley, etc. Climate is mild, a mix of Mediterranean and oceanic (Koppen Cfb/Csb), with wet winters and warm, sunny summers. %%
 
@@ -65,36 +65,15 @@ Mileage from Chardon:
 - Mile 255: Site of the Battle of Shadowfire, a major Chardonian defeat.
 - Mile 363: Solus Abbey
 - Mile 510: Arendum
- 
+
+ [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
 
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Chasa River Valley", role: "primary", language: "Chardonian", pronunciation: "KAH-zah river valley", notes: "Italian analogue for Chasa: intervocalic s voiced as z with first-syllable stress.", status: "proposed"}
+- {name: "Chasa River Valley", role: "primary", language: "Old Northros", pronunciation: "CHA-sa", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1748 view of the valley's settlements, road and river traffic, agriculture, and frontier travel; older wars and settlement history are described separately rather than as continuous coverage.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- `POV: 1748` and the existing `povNotes:v1` block remain appropriate for the article's DR 1748 travel and settlement frame.
-- The current `_DM_` evidence clusters were reviewed without copying private contents into this report.
-- The shared climate-analogue comment and `Campaign:none` material were reviewed; the distinct public-safe landholding and market-town material is reported below.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `Chasa River Valley — KAH-zah river valley` from a Chardonian analogue, while the newer dedicated [[Chasa]] note documents the river name as Old Northros and pronounces it `CHA-sa`. Decide whether the valley name uses the documented river pronunciation or a distinct Chardonian adaptation; then accept the chosen complete pronunciation in frontmatter and mark the entry documented, or correct the proposal and its derivation.
-- [ ] **Error — correctness.cross_note_conflict:** The travel section says the [[Chasa]] is navigable "along its entire length," while the newer dedicated [[Chasa]] note says it is navigable "along nearly its entire length." If the river note controls, replace the sentence opening with `The river is the region's spine, navigable along nearly its entire length, carrying grain, casks, and cut wood toward larger ports.` Otherwise revise the dedicated river account so both notes preserve the intended limit.
-- [ ] **Suggestion — editorial.public_material_candidate:** The `Campaign:none` section's `Estates, labor, and landholding` and market-town administration bullets contain coherent public-safe civic and economic material absent from the visible article. Adopting it would explain how the valley's agrarian economy and local government work beyond the existing landscape and travel account. Copy-ready candidate: `Landholding in the Chasa River Valley does not use serfdom. Large estates hire laborers or lease land to tenants, while many villages consist of independent smallholders. Chartered market towns collect taxes and administer justice for surrounding farms and villages through local magistrates, and larger towns may maintain palisades and garrisons.`
-
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
 %%^End%%

@@ -10,12 +10,13 @@ campaignInfo:
 gender: male
 born: 1681
 name: Martino
+pronunciation: mar-TEE-noh
 whereabouts:
   - {type: home, end: 1749-05-07, location: Artevus}
   - {type: away, start: 1749-05-07, end: 1749-05-11, location: "Summer's Breeze"}
 knownTo: [dufr]
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 POV: 1749
 ---
 # Martino
@@ -32,7 +33,7 @@ He is extremely knowledgeable about the waters and coasts of [[Apporia]], but no
 %%SECRET[v2:b5d785bf48c765a697e976bb7d0dff0b]%%
 
 %%^Metadata:names:v1%%
-- {name: Martino, language: Chardonian, pronunciation: mar-TEE-noh, notes: "Proposed from the Italian and Latin analogue for Chardonian, with articulated vowels and penultimate stress; exact in-world phonology is not established.", status: proposed}
+- {name: Martino, language: Chardonian, pronunciation: mar-TEE-noh,  status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
