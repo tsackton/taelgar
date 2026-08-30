@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 gender: male
 died: 1715-03-29
 name: Wulfram
+pronunciation: WULL-frum
 affiliations:
   - {org: Torvaine Watch, title: temple steward, type: member}
 whereabouts:
@@ -20,8 +21,9 @@ dm_notes: none
 POV: modern
 ---
 # Wulfram
+*(WULL-frum)*
 >[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
+> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
@@ -36,25 +38,9 @@ Letter: [[Session 2 - DM Notes]]
 %%
 
 %%^Metadata:names:v1%%
-- {name: Wulfram, language: Addermarian, pronunciation: WULL-frum, notes: "Proposed from the English-dominant Addermarch analogue: initial W retained, short u in Wul-, and an unstressed final syllable.", status: proposed}
+- {name: Wulfram, language: Addermarian, pronunciation: WULL-frum,  status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a retrospective account of Wulfram's service and death at Torvaine Watch in DR 1715; no other life periods are described.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added supported name and temporal-POV metadata.
-- Corrected a duplicated space in the final sentence.
-
-### Validated judgments
-- The shared source pointer was reviewed and retained.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** The article identifies Wulfram as steward of [[The Warlord]], while its cited [[Session 2 - DM Notes]] says the Torvaine Watch chapel was dedicated to [[The Mother]]. Resolve which source controls. If the cited source is correct, use: Wulfram was the temple steward of [[The Mother]] at [[Torvaine Watch]].
-- [ ] **Warning — metadata.names_unresolved_status:** The proposed pronunciation WULL-frum follows the English-dominant Addermarch analogue, retaining initial W, a short vowel in the first syllable, and an unstressed final syllable. Accept it by moving it to frontmatter and marking the name entry documented, or replace it with the intended pronunciation.
 %%^End%%

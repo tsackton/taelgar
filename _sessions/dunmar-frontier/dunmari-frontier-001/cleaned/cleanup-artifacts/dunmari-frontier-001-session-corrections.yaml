@@ -1,0 +1,212 @@
+allReplacements:
+- from: Delweth
+  to: Delwath
+  count: 4
+  headers:
+  - '[u1907 | 01:44:01.416-01:44:10.686 | Delwath]'
+  - '[u1911 | 01:44:25.076-01:44:30.876 | Kenzo]'
+  - '[u1922 | 01:45:02.856-01:45:04.416 | Delwath]'
+  - '[u2321 | 02:06:26.652-02:06:33.852 | DM]'
+- from: a
+  to: an
+  count: 2
+  headers:
+  - '[u1125 | 01:01:21.590-01:01:23.430 | DM]'
+  - '[u2465 | 02:14:51.088-02:14:53.228 | Seeker]'
+- from: caravan saray
+  to: caravanserai
+  count: 2
+  headers:
+  - '[u0028 | 00:02:16.320-00:02:21.660 | DM]'
+  - '[u0031 | 00:02:40.180-00:02:45.080 | DM]'
+- from: initiate
+  to: initiative
+  count: 2
+  headers:
+  - '[u0395 | 00:24:32.426-00:24:35.646 | DM]'
+  - '[u0442 | 00:26:49.696-00:26:53.196 | DM]'
+- from: mut
+  to: mutte
+  count: 2
+  headers:
+  - '[u1514 | 01:21:19.174-01:21:21.374 | DM]'
+  - '[u1859 | 01:41:20.240-01:41:23.460 | Delwath]'
+- from: '112'
+  to: One or two
+  count: 1
+  headers:
+  - '[u1803 | 01:38:27.660-01:38:30.260 | Wellby]'
+- from: Alf
+  to: elf
+  count: 1
+  headers:
+  - '[u0280 | 00:17:51.824-00:17:55.104 | Delwath]'
+- from: Badya
+  to: But yeah
+  count: 1
+  headers:
+  - '[u2542 | 02:19:03.878-02:19:04.508 | Kenzo]'
+- from: Della
+  to: Delwath
+  count: 1
+  headers:
+  - '[u0894 | 00:48:54.122-00:49:00.812 | Delwath]'
+- from: Dunmarion
+  to: Dunmari on
+  count: 1
+  headers:
+  - '[u2813 | 02:34:25.852-02:34:29.052 | DM]'
+- from: I ' ve
+  to: have
+  count: 1
+  headers:
+  - '[u0091 | 00:06:15.822-00:06:24.932 | DM]'
+- from: Seeker
+  to: Speaker
+  count: 1
+  headers:
+  - '[u0046 | 00:03:37.920-00:03:45.899 | DM]'
+- from: Taelgar
+  to: Delwath
+  count: 1
+  headers:
+  - '[u2083 | 01:52:49.960-01:52:56.740 | Kenzo]'
+- from: Ulf
+  to: elf
+  count: 1
+  headers:
+  - '[u1857 | 01:41:12.220-01:41:13.080 | Kenzo]'
+- from: Vancer
+  to: benches
+  count: 1
+  headers:
+  - '[u1385 | 01:13:59.342-01:14:00.902 | DM]'
+- from: accolades
+  to: acolytes
+  count: 1
+  headers:
+  - '[u0089 | 00:06:02.260-00:06:12.331 | DM]'
+- from: caravansai
+  to: caravanserai
+  count: 1
+  headers:
+  - '[u1018 | 00:55:57.202-00:56:04.962 | DM]'
+- from: dripping
+  to: snapping
+  count: 1
+  headers:
+  - '[u0673 | 00:37:23.076-00:37:26.726 | DM]'
+- from: else
+  to: elf
+  count: 1
+  headers:
+  - '[u2321 | 02:06:26.652-02:06:33.852 | DM]'
+- from: guesses
+  to: guess
+  count: 1
+  headers:
+  - '[u2804 | 02:33:38.792-02:33:46.052 | DM]'
+- from: hand
+  to: hyena
+  count: 1
+  headers:
+  - '[u0738 | 00:40:19.846-00:40:26.266 | DM]'
+- from: her
+  to: him
+  count: 1
+  headers:
+  - '[u2780 | 02:32:13.828-02:32:14.888 | Delwath]'
+- from: her
+  to: your
+  count: 1
+  headers:
+  - '[u1923 | 01:45:07.896-01:45:12.636 | Kenzo]'
+- from: it
+  to: up
+  count: 1
+  headers:
+  - '[u0972 | 00:53:27.782-00:53:29.362 | DM]'
+- from: last
+  to: laugh
+  count: 1
+  headers:
+  - '[u0521 | 00:30:33.070-00:30:33.529 | Delwath]'
+- from: lept
+  to: leapt
+  count: 1
+  headers:
+  - '[u1663 | 01:30:23.882-01:30:29.642 | DM]'
+- from: mists
+  to: midst
+  count: 1
+  headers:
+  - '[u0081 | 00:05:07.360-00:05:17.800 | DM]'
+- from: night ingredients
+  to: nightly dreams
+  count: 1
+  headers:
+  - '[u0005 | 00:00:05.640-00:00:11.780 | DM]'
+- from: roles
+  to: rolls
+  count: 1
+  headers:
+  - '[u0323 | 00:20:35.696-00:20:41.356 | DM]'
+- from: say
+  to: saying
+  count: 1
+  headers:
+  - '[u2386 | 02:10:38.636-02:10:43.215 | Delwath]'
+- from: that
+  to: whether
+  count: 1
+  headers:
+  - '[u2404 | 02:11:58.476-02:12:02.836 | DM]'
+- from: who ' s young from Halpoon who ' s
+  to: was yelling for help and it was
+  count: 1
+  headers:
+  - '[u0290 | 00:18:15.576-00:18:19.196 | Delwath]'
+- from: with
+  to: at
+  count: 1
+  headers:
+  - '[u0671 | 00:37:21.106-00:37:23.076 | DM]'
+- from: zahina
+  to: hyena
+  count: 1
+  headers:
+  - '[u0668 | 00:37:04.865-00:37:12.826 | DM]'
+repeatedReplacements:
+- from: Delweth
+  to: Delwath
+  count: 4
+  headers:
+  - '[u1907 | 01:44:01.416-01:44:10.686 | Delwath]'
+  - '[u1911 | 01:44:25.076-01:44:30.876 | Kenzo]'
+  - '[u1922 | 01:45:02.856-01:45:04.416 | Delwath]'
+  - '[u2321 | 02:06:26.652-02:06:33.852 | DM]'
+- from: a
+  to: an
+  count: 2
+  headers:
+  - '[u1125 | 01:01:21.590-01:01:23.430 | DM]'
+  - '[u2465 | 02:14:51.088-02:14:53.228 | Seeker]'
+- from: caravan saray
+  to: caravanserai
+  count: 2
+  headers:
+  - '[u0028 | 00:02:16.320-00:02:21.660 | DM]'
+  - '[u0031 | 00:02:40.180-00:02:45.080 | DM]'
+- from: initiate
+  to: initiative
+  count: 2
+  headers:
+  - '[u0395 | 00:24:32.426-00:24:35.646 | DM]'
+  - '[u0442 | 00:26:49.696-00:26:53.196 | DM]'
+- from: mut
+  to: mutte
+  count: 2
+  headers:
+  - '[u1514 | 01:21:19.174-01:21:21.374 | DM]'
+  - '[u1859 | 01:41:20.240-01:41:23.460 | Delwath]'
+unresolvedPhrases: []

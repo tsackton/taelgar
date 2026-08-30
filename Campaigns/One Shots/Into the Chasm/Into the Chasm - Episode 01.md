@@ -1,26 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 1
 realWorldDate: 2025-11-17
 DR: 1730-01-25
 DR_end: 1730-01-25
-players:
-  - Finnan
-  - Jrain
-  - Eolo
-  - Ekko
-  - Justas
+players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 01
+name: Into the Chasm - Episode 1
 descTitle: Into the Chasm
 tagline: in which a storm flings five strangers into Zeyfa's maze
 sessionKey: into-the-chasm-session-1
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 01
+# Into the Chasm - Episode 1
 
 >[!info] Into the Chasm: in which a storm flings five strangers into Zeyfa's maze
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*
@@ -44,7 +38,7 @@ Drawn by omens around the [[Great Chasm]], five adventurers and a terrified Zimk
 
 ## Cast of Characters
 
-- [[Kalima]] (she/her, Zimka human): terrified Zimkovan survivor and the party's only clear guide to the maze.
+- [[Kalima]] (she/her, the Zimka human): terrified Zimkovan survivor and the party's only clear guide to the maze.
 - [[Rala]] (she/her, hawk beast): Jrain's bird companion, battered by the fall and sent to scout the snow chamber.
 - [[Zeyfa]] (*ZAY-fah*;): cruel west wind and ruling power named over the labyrinth.
 - [[Eidrikas]] (*AYD-ree-kahs*; he/him): missing mystic and Ekko's mentor tied to the vanished expedition.

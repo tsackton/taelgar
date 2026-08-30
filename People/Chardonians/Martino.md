@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 campaignInfo:
@@ -20,6 +20,7 @@ dm_notes: none
 POV: 1749
 ---
 # Martino
+*(mar-TEE-noh)*
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -38,28 +39,4 @@ He is extremely knowledgeable about the waters and coasts of [[Apporia]], but no
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1749 portrait of Martino after his injury and retirement, with earlier sailing experience described only broadly.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting and added the explicit name field.
-- Added `knownTo: [dufr]`.
-- Added persistent Chardonian name metadata with the proposed pronunciation `mar-TEE-noh`.
-- Added `POV: 1749` and a persistent temporal-coverage note.
-
-### Validated judgments
-- Confirmed local-only evidence supports the positive `dm_notes` attestation.
-- The `SECRET` block was reviewed without exposing its contents; its unresolved accuracy caveat prevents a safe recovery proposal.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry remains `status: proposed` because no accepted pronunciation is recorded. Review the Italian- and Latin-analogue proposal `mar-TEE-noh`; if accepted, mark the entry `documented` and copy the pronunciation to frontmatter, or revise it and record the chosen basis.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Adventure Arc Outline]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Peninsula NPC Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 99 - DM Notes]]
 %%^End%%

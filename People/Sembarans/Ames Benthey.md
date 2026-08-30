@@ -1,22 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
-name: Ames Benthey
-born: 1675
+lintedAt: "2026-08-28T16:53:46-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo:
+  - {campaign: clee, date: 1720-01-03}
+born: 1675
 gender: male
-affiliations: 
-- {org: Lord's Guard of Cleenseau, title: Captain, type: leader }
-- {org: Essfords, title: Guard Captain }
-- {org: Lord's Council of Cleenseau}
+name: Ames Benthey
+affiliations:
+  - {org: "Lord's Guard of Cleenseau", title: Captain, type: leader}
+  - {org: Essfords, title: Guard Captain}
+  - {org: "Lord's Council of Cleenseau"}
 whereabouts:
-- {type: home, location: Cleenseau }
-- {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
-- {type: away, start: 1720-01-20, end: 9999, location: Embry }
-dm_notes: color
+  - {type: home, location: Cleenseau}
+  - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry}
+  - {type: away, start: 1720-01-20, end: 9999, location: Embry}
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 ---
 # Ames Benthey
 >[!info]+ Biographical Info  
@@ -33,7 +38,7 @@ dm_owner: mike
 
 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Relationships
 ```dataviewjs
 const { util } = customJS
@@ -45,3 +50,27 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 ```
 %%^End%%
 
+%%^Metadata:names:v1%%
+- {name: Ames Benthey, role: primary, language: Sembaran, pronunciation: AYMZ BEN-thee, status: proposed, notes: "English-side Sembaran analogue: Ames uses a long a and Benthey takes initial stress; exact in-world phonology is not documented."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 portrait of Ames around his departure from Cleenseau for Embry; earlier and later career are not described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added `knownTo: [clee]`, a DR 1720 `POV`, and persistent name and temporal metadata.
+- Normalized the legacy `Campaign:None` marker to `Campaign:none`.
+
+### Validated judgments
+- The `Campaign:none` block is an operational relationship index rather than narrative material.
+- The DR 1720 campaign timeline supports Ames's departure for Embry, already represented by his whereabouts metadata.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block retains the proposed Sembaran pronunciation `AYMZ BEN-thee`, using the English side of the Sembaran analogue in [[Languages]]. If accepted, add `pronunciation: AYMZ BEN-thee` to frontmatter and change the name entry to `status: documented`; otherwise revise the proposal while preserving its derivation.
+%%^End%%

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Arrivals in Karawa",
+      "startUid": "u0001",
+      "endUid": "u0197",
+      "lineCount": 197,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.",
+      "dateEvidence": [
+        "The manifest starts the session on 1748-03-21.",
+        "The opening narration places Kenzo's approach to Karawa in the morning light."
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "The Hyenas Charge",
+      "startUid": "u0198",
+      "endUid": "u0660",
+      "lineCount": 463,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The four characters converge, size one another up amid the emergency, and enter combat; the beat ends after Kenzo's opening flurry before the hyena's counterattack.",
+      "dateEvidence": [
+        "This beat continues directly from the morning arrival scenes.",
+        "The DM explicitly confirms that the fight occurs in the morning."
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Hyenas Brought Down",
+      "startUid": "u0661",
+      "endUid": "u0978",
+      "lineCount": 318,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The hyenas answer the party's first attacks and the remaining combat plays through to Wellby's killing strike on the final beast.",
+      "dateEvidence": [
+        "This is the uninterrupted second phase of the same morning combat.",
+        "The beat ends with the final hyena expiring."
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Aftermath and Introductions",
+      "startUid": "u0979",
+      "endUid": "u1199",
+      "lineCount": 221,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "With the hyenas dead, the villagers scatter for help while the strangers tend the wounded, inspect the bodies, and begin introducing themselves.",
+      "dateEvidence": [
+        "The beat begins immediately after the morning fight ends.",
+        "No travel or elapsed-time transition occurs before the party's conversation."
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Strangers Find Common Ground",
+      "startUid": "u1200",
+      "endUid": "u1564",
+      "lineCount": 365,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The four strangers trade names and histories, compare what brought them to Karawa, and discover Delwath's concern about a disturbance in the Weave before help arrives.",
+      "dateEvidence": [
+        "This conversation continues at the teahouse directly after the battle.",
+        "The transcript later still identifies the current time as morning."
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "Karawa Asks for Help",
+      "startUid": "u1565",
+      "endUid": "u1905",
+      "lineCount": 341,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Beli, Kisa, and Candrosa arrive to heal the wounded and assess the attack; Kisa asks Delwath to investigate after Beli's magic fails and the leaders depart.",
+      "dateEvidence": [
+        "The leaders arrive during the same uninterrupted morning aftermath.",
+        "The beat ends when Kisa leaves to tend the villagers."
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "The Investigation Begins",
+      "startUid": "u1906",
+      "endUid": "u2314",
+      "lineCount": 409,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Delwath recruits the other three, the new group rests and equips itself, and Seeker visits the temple before everyone regathers to follow the beasts' tracks.",
+      "dateEvidence": [
+        "Delwath explicitly says it is still morning as the group discusses the attack.",
+        "Only a short rest and preparation interval passes before departure."
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Tracks into the Badlands",
+      "startUid": "u2315",
+      "endUid": "u2808",
+      "lineCount": 494,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves Karawa, follows the attackers northeast into the canyonlands, loses the trail, and climbs to a vantage where a distant dust cloud offers a new lead.",
+      "dateEvidence": [
+        "The party departs after the same morning's attack and several hours of tracking pass.",
+        "The DM explicitly places the party in the early afternoon sun near the end of the beat."
+      ]
+    },
+    {
+      "beatId": "b09",
+      "title": "Alesh on the Old Road",
+      "startUid": "u2809",
+      "endUid": "u3158",
+      "lineCount": 350,
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party intercepts Alesh, learns about Gomat and the dangers near Nashtkar, and decides to push toward the oasis after she rides on to Karawa.",
+      "dateEvidence": [
+        "The party reaches Alesh an hour or two after the early-afternoon sighting.",
+        "The DM explicitly says it is about four in the afternoon during the travel discussion."
+      ]
+    },
+    {
+      "beatId": "b10",
+      "title": "Nightfall at Gomat",
+      "startUid": "u3159",
+      "endUid": "u3315",
+      "lineCount": 157,
+      "dateStart": "1748-03-21",
+      "dateEnd": "1748-03-22",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
+      "dateEvidence": [
+        "The party sets out after the four-in-the-afternoon conversation on 1748-03-21.",
+        "The transcript explicitly narrates a cold night, a long rest, and a pre-dawn departure on the following day.",
+        "The arrival in moonlight is therefore inferred to occur on 1748-03-22."
+      ]
+    }
+  ]
+}

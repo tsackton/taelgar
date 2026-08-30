@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Four Travelers Meet in Karawa",
+      "beatIds": ["b01", "b02", "b03"],
+      "rationale": "The separate arrivals flow directly into the shared hyena fight that brings the four travelers together."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Aftermath and Introductions",
+      "beatIds": ["b04", "b05"],
+      "rationale": "The immediate aftermath, examination of the hyenas, and introductions form one continuous teahouse scene."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Karawa Asks for Help",
+      "beatIds": ["b06"],
+      "rationale": "Kisa and Candrosa arrive and shift the situation from introductions to a formal request for investigation."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Into the Badlands",
+      "beatIds": ["b07", "b08"],
+      "rationale": "The party forms, prepares, follows the trail, and enters the desert in one continuous outbound journey."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Road to Gomat",
+      "beatIds": ["b09", "b10"],
+      "rationale": "Alesh redirects the investigation toward Gomat, and the ensuing road journey ends with the discovery at the oasis."
+    }
+  ]
+}

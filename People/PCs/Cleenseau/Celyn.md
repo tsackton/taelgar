@@ -1,26 +1,30 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Celyn
-born: 1697
+lintedAt: "2026-08-28T16:53:46-04:00"
+lintVersion: "3.5"
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
-ddbLink: https://www.dndbeyond.com/characters/90849827
 ancestry: Tyrwinghan
+born: 1697
+ddbLink: https://www.dndbeyond.com/characters/90849827
 gender: male
+player: Kiya Nicoll
+name: Celyn
+affiliations:
+  - {org: Heroes of Cleenseau}
+  - {org: "Mahaut's Miracle Players", start: "1717-12", end: 1719-06-29}
+whereabouts:
+  - {type: away, start: "1715-03", end: "1715-12", location: Ruthin}
+  - {type: home, end: "1716-10", location: Clawyn}
+  - {type: away, start: "1716-10", end: "1717-01", location: Tafolwern}
+  - {type: away, start: "1717-02", end: 1719-06-29, location: "traveling with Mahaut's Miracle Players"}
+  - {type: away, start: 1719-06-29, end: 1720-10-17, location: traveling to Cleenseau}
+  - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
+  - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
 dm_owner: player
 dm_notes: important
-player: Kiya Nicoll
-affiliations: 
-- {org: Heroes of Cleenseau }
-- {org: Mahaut's Miracle Players, start: 1717-12, end: 1719-06-29 }
-whereabouts:
-- {type: away, start: 1715-03, end: 1715-12, location: Ruthin }
-- {type: home, end: 1716-10, location: Clawyn}
-- {type: away, start: 1716-10, end: 1717-01, location: Tafolwern }
-- {type: away, start: 1717-02, end: 1719-06-29, location: traveling with Mahaut's Miracle Players}
-- {type: away, start: 1719-06-29, end: 1720-10-17, location: traveling to Cleenseau }
-- {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
-- {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+POV: 1720
 ---
 # Celyn
 >[!info]+ Biographical Info  
@@ -69,3 +73,28 @@ There are a number of stories about Celyn, but please only read these if they ha
 * [[Celyn's Story of Leaving Home]]
 * [[Celyn's Musings on Magic]]
 * [[Celyn and Mahaut’s Miracle Players]]
+
+%%^Metadata:names:v1%%
+- {name: Celyn, language: Tyrwinghan, pronunciation: KEH-lin, meaning: holly, notes: "The meaning is documented in this note; the pronunciation is proposed from the Welsh analogue for Tyrwinghan, with c read as k and first-syllable stress.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 present-day portrait with selected childhood and early-adult backstory; later campaign events and the intervening years are not comprehensively described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `knownTo: [clee]`.
+- Added a DR 1720 `POV` and a temporal note distinguishing the present portrait from Celyn's childhood and early-adult history.
+- Added a proposed Tyrwinghan name entry preserving the documented meaning *holly* and deriving a pronunciation from the Welsh analogue.
+
+### Validated judgments
+- `status/gameupdate/clee` remains supported pending a human decision about the later campaign material and current whereabouts.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The new name entry proposes **KEH-lin** from the Welsh analogue for Tyrwinghan, with *c* read as *k* and first-syllable stress; this note itself documents the meaning *holly*. Accept the pronunciation by copying it to frontmatter and changing the entry to `status: documented`, or revise it with human evidence.
+- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Session 28]] places the Heroes in [[Asineau]] by DR 1720-04-01, and the later session recaps establish Celyn's continuing work there and his Feywild mapping with [[Izgil Moonseeker|Izgil]], while the current whereabouts ends at Champimont on DR 1720-01-16. Choose whether to update the article and whereabouts, defer while retaining `status/gameupdate/clee`, or preserve an intentionally earlier snapshot. Copy-ready prose candidate: **By DR 1720, Celyn was based with the [[Heroes of Cleenseau]] at [[Asineau]], where he helped develop the village's economy and began mapping nearby Feywild realms with [[Izgil Moonseeker|Izgil]].** Copy-ready whereabouts candidate: **`- {type: away, start: 1720-04-01, location: Asineau}`**
+%%^End%%

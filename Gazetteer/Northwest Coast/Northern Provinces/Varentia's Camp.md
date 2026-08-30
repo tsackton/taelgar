@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: building
 subTypeOf: fortified frontier camp
@@ -13,7 +14,7 @@ dm_owner: tim
 dm_notes: none
 POV: 1747
 ---
-# The Varentia’s Camp
+# Varentia’s Camp
 *(vah-REN-tee-ah)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  

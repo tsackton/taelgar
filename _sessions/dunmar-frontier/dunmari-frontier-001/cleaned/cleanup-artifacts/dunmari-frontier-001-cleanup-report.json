@@ -1,0 +1,350 @@
+{
+  "summary": {
+    "changedLineCount": 41,
+    "replacementCount": 34,
+    "repeatedReplacementCount": 5,
+    "topReplacements": [
+      {
+        "from": "Delweth",
+        "to": "Delwath",
+        "count": 4,
+        "headers": [
+          "[u1907 | 01:44:01.416-01:44:10.686 | Delwath]",
+          "[u1911 | 01:44:25.076-01:44:30.876 | Kenzo]",
+          "[u1922 | 01:45:02.856-01:45:04.416 | Delwath]",
+          "[u2321 | 02:06:26.652-02:06:33.852 | DM]"
+        ]
+      },
+      {
+        "from": "a",
+        "to": "an",
+        "count": 2,
+        "headers": [
+          "[u1125 | 01:01:21.590-01:01:23.430 | DM]",
+          "[u2465 | 02:14:51.088-02:14:53.228 | Seeker]"
+        ]
+      },
+      {
+        "from": "caravan saray",
+        "to": "caravanserai",
+        "count": 2,
+        "headers": [
+          "[u0028 | 00:02:16.320-00:02:21.660 | DM]",
+          "[u0031 | 00:02:40.180-00:02:45.080 | DM]"
+        ]
+      },
+      {
+        "from": "initiate",
+        "to": "initiative",
+        "count": 2,
+        "headers": [
+          "[u0395 | 00:24:32.426-00:24:35.646 | DM]",
+          "[u0442 | 00:26:49.696-00:26:53.196 | DM]"
+        ]
+      },
+      {
+        "from": "mut",
+        "to": "mutte",
+        "count": 2,
+        "headers": [
+          "[u1514 | 01:21:19.174-01:21:21.374 | DM]",
+          "[u1859 | 01:41:20.240-01:41:23.460 | Delwath]"
+        ]
+      },
+      {
+        "from": "112",
+        "to": "One or two",
+        "count": 1,
+        "headers": [
+          "[u1803 | 01:38:27.660-01:38:30.260 | Wellby]"
+        ]
+      },
+      {
+        "from": "Alf",
+        "to": "elf",
+        "count": 1,
+        "headers": [
+          "[u0280 | 00:17:51.824-00:17:55.104 | Delwath]"
+        ]
+      },
+      {
+        "from": "Badya",
+        "to": "But yeah",
+        "count": 1,
+        "headers": [
+          "[u2542 | 02:19:03.878-02:19:04.508 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Della",
+        "to": "Delwath",
+        "count": 1,
+        "headers": [
+          "[u0894 | 00:48:54.122-00:49:00.812 | Delwath]"
+        ]
+      },
+      {
+        "from": "Dunmarion",
+        "to": "Dunmari on",
+        "count": 1,
+        "headers": [
+          "[u2813 | 02:34:25.852-02:34:29.052 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3315,
+  "changedLineCount": 41,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0005 | 00:00:05.640-00:00:11.780 | DM]",
+      "lineNumber": 5,
+      "originalText": "the color of the desert, however, pales in comparison to the vividness of your night ingredients.",
+      "cleanedText": "the color of the desert, however, pales in comparison to the vividness of your nightly dreams."
+    },
+    {
+      "header": "[u0028 | 00:02:16.320-00:02:21.660 | DM]",
+      "lineNumber": 28,
+      "originalText": "A bustling tavern caravan saray stands on the outskirts of town.",
+      "cleanedText": "A bustling tavern caravanserai stands on the outskirts of town."
+    },
+    {
+      "header": "[u0031 | 00:02:40.180-00:02:45.080 | DM]",
+      "lineNumber": 31,
+      "originalText": "uh, heading down, uh, towards the caravan saray to find a room for the night,",
+      "cleanedText": "uh, heading down, uh, towards the caravanserai to find a room for the night,"
+    },
+    {
+      "header": "[u0046 | 00:03:37.920-00:03:45.899 | DM]",
+      "lineNumber": 46,
+      "originalText": "Uh, Seeker Candrosa is the, is the person that you would be looking for, who's, like, the head of the temple.",
+      "cleanedText": "Uh, Speaker Candrosa is the, is the person that you would be looking for, who's, like, the head of the temple."
+    },
+    {
+      "header": "[u0081 | 00:05:07.360-00:05:17.800 | DM]",
+      "lineNumber": 81,
+      "originalText": "After the Dunmari got over the shock of seeing a real elf in their mists, probably the first one many of them had ever seen in their lives, and learned you could be useful around the village, you found lodging in the top of a small,",
+      "cleanedText": "After the Dunmari got over the shock of seeing a real elf in their midst, probably the first one many of them had ever seen in their lives, and learned you could be useful around the village, you found lodging in the top of a small,"
+    },
+    {
+      "header": "[u0089 | 00:06:02.260-00:06:12.331 | DM]",
+      "lineNumber": 89,
+      "originalText": "You've been, uh, you know, asking around about the, the temple, and there's- A number of, like, lay accolades and, and other sort of people",
+      "cleanedText": "You've been, uh, you know, asking around about the, the temple, and there's- A number of, like, lay acolytes and, and other sort of people"
+    },
+    {
+      "header": "[u0091 | 00:06:15.822-00:06:24.932 | DM]",
+      "lineNumber": 91,
+      "originalText": "And you do occasionally meet, um, see, and I've talked to a few times in the past, uh, Speaker Candrosa, who's the sort of public face, um, of the temp-",
+      "cleanedText": "And you do occasionally meet, um, see, and have talked to a few times in the past, uh, Speaker Candrosa, who's the sort of public face, um, of the temp-"
+    },
+    {
+      "header": "[u0280 | 00:17:51.824-00:17:55.104 | Delwath]",
+      "lineNumber": 280,
+      "originalText": "Um, so, uh, Alf, um,",
+      "cleanedText": "Um, so, uh, elf, um,"
+    },
+    {
+      "header": "[u0290 | 00:18:15.576-00:18:19.196 | Delwath]",
+      "lineNumber": 290,
+      "originalText": "Like somebody who's young from Halpoon who's clear there was some attack going on.",
+      "cleanedText": "Like somebody was yelling for help and it was clear there was some attack going on."
+    },
+    {
+      "header": "[u0323 | 00:20:35.696-00:20:41.356 | DM]",
+      "lineNumber": 323,
+      "originalText": "like, the Beyond 20 setup so we can do, um, transfer roles and stuff?",
+      "cleanedText": "like, the Beyond 20 setup so we can do, um, transfer rolls and stuff?"
+    },
+    {
+      "header": "[u0395 | 00:24:32.426-00:24:35.646 | DM]",
+      "lineNumber": 395,
+      "originalText": "Okay. [laughs] So initiate.",
+      "cleanedText": "Okay. [laughs] So initiative."
+    },
+    {
+      "header": "[u0442 | 00:26:49.696-00:26:53.196 | DM]",
+      "lineNumber": 442,
+      "originalText": "Right in the front and center of your character sheet, like next to armor class, there's initiate.",
+      "cleanedText": "Right in the front and center of your character sheet, like next to armor class, there's initiative."
+    },
+    {
+      "header": "[u0521 | 00:30:33.070-00:30:33.529 | Delwath]",
+      "lineNumber": 521,
+      "originalText": "They, they last-",
+      "cleanedText": "They, they laugh-"
+    },
+    {
+      "header": "[u0668 | 00:37:04.865-00:37:12.826 | DM]",
+      "lineNumber": 668,
+      "originalText": "you know, man runs down and whack, whack, uh, smashes the zahina, uh, this large hyena-like creature, it turns around",
+      "cleanedText": "you know, man runs down and whack, whack, uh, smashes the hyena, uh, this large hyena-like creature, it turns around"
+    },
+    {
+      "header": "[u0671 | 00:37:21.106-00:37:23.076 | DM]",
+      "lineNumber": 671,
+      "originalText": "... lunges forward with you, with your j-",
+      "cleanedText": "... lunges forward at you, with your j-"
+    },
+    {
+      "header": "[u0673 | 00:37:23.076-00:37:26.726 | DM]",
+      "lineNumber": 673,
+      "originalText": "... with its jaw dripping at you as you just-",
+      "cleanedText": "... with its jaw snapping at you as you just-"
+    },
+    {
+      "header": "[u0738 | 00:40:19.846-00:40:26.266 | DM]",
+      "lineNumber": 738,
+      "originalText": "Um, this one is gonna look around, and the giant hand now is gonna charge towards this woman.",
+      "cleanedText": "Um, this one is gonna look around, and the giant hyena now is gonna charge towards this woman."
+    },
+    {
+      "header": "[u0894 | 00:48:54.122-00:49:00.812 | Delwath]",
+      "lineNumber": 894,
+      "originalText": "So another crackling blast of energy comes flying out from Della's hand, and hits the creature again.",
+      "cleanedText": "So another crackling blast of energy comes flying out from Delwath's hand, and hits the creature again."
+    },
+    {
+      "header": "[u0972 | 00:53:27.782-00:53:29.362 | DM]",
+      "lineNumber": 972,
+      "originalText": "... oh, now that it's prone, it actually can't stand it.",
+      "cleanedText": "... oh, now that it's prone, it actually can't stand up."
+    },
+    {
+      "header": "[u1018 | 00:55:57.202-00:56:04.962 | DM]",
+      "lineNumber": 1018,
+      "originalText": "This is like... This is the tavern here, the caravansai with the courtyard and where sort of, uh, merchant stalls and stuff.",
+      "cleanedText": "This is like... This is the tavern here, the caravanserai with the courtyard and where sort of, uh, merchant stalls and stuff."
+    },
+    {
+      "header": "[u1125 | 01:01:21.590-01:01:23.430 | DM]",
+      "lineNumber": 1125,
+      "originalText": "Seeker make a investigation check.",
+      "cleanedText": "Seeker make an investigation check."
+    },
+    {
+      "header": "[u1385 | 01:13:59.342-01:14:00.902 | DM]",
+      "lineNumber": 1385,
+      "originalText": "You know, Vancer, yeah.",
+      "cleanedText": "You know, benches, yeah."
+    },
+    {
+      "header": "[u1514 | 01:21:19.174-01:21:21.374 | DM]",
+      "lineNumber": 1514,
+      "originalText": "On top of, of course, Cha'mut killing everybody.",
+      "cleanedText": "On top of, of course, Cha'mutte killing everybody."
+    },
+    {
+      "header": "[u1663 | 01:30:23.882-01:30:29.642 | DM]",
+      "lineNumber": 1663,
+      "originalText": "I hesitate to even think what would have happened if you had not lept to our defense.",
+      "cleanedText": "I hesitate to even think what would have happened if you had not leapt to our defense."
+    },
+    {
+      "header": "[u1803 | 01:38:27.660-01:38:30.260 | Wellby]",
+      "lineNumber": 1803,
+      "originalText": "112 stories of magic.",
+      "cleanedText": "One or two stories of magic."
+    },
+    {
+      "header": "[u1857 | 01:41:12.220-01:41:13.080 | Kenzo]",
+      "lineNumber": 1857,
+      "originalText": "How old are you, Ulf?",
+      "cleanedText": "How old are you, elf?"
+    },
+    {
+      "header": "[u1859 | 01:41:20.240-01:41:23.460 | Delwath]",
+      "lineNumber": 1859,
+      "originalText": "What, what would people call the Battle of Cha'mut, Tim?",
+      "cleanedText": "What, what would people call the Battle of Cha'mutte, Tim?"
+    },
+    {
+      "header": "[u1907 | 01:44:01.416-01:44:10.686 | Delwath]",
+      "lineNumber": 1907,
+      "originalText": "So Delweth will sort of turn to the three of you and say, \"I could use some assistance in, uh,",
+      "cleanedText": "So Delwath will sort of turn to the three of you and say, \"I could use some assistance in, uh,"
+    },
+    {
+      "header": "[u1911 | 01:44:25.076-01:44:30.876 | Kenzo]",
+      "lineNumber": 1911,
+      "originalText": "Delweth, I, I'll be honest, I, I think the last time I saw an elf was when I was a young boy, and,",
+      "cleanedText": "Delwath, I, I'll be honest, I, I think the last time I saw an elf was when I was a young boy, and,"
+    },
+    {
+      "header": "[u1922 | 01:45:02.856-01:45:04.416 | Delwath]",
+      "lineNumber": 1922,
+      "originalText": "Delweth looks quite interested.",
+      "cleanedText": "Delwath looks quite interested."
+    },
+    {
+      "header": "[u1923 | 01:45:07.896-01:45:12.636 | Kenzo]",
+      "lineNumber": 1923,
+      "originalText": "I, I, I, I gauge her interest and continue, and also look very interested at you.",
+      "cleanedText": "I, I, I, I gauge your interest and continue, and also look very interested at you."
+    },
+    {
+      "header": "[u2083 | 01:52:49.960-01:52:56.740 | Kenzo]",
+      "lineNumber": 2083,
+      "originalText": "When I, when I... After I deal with the tavern, um, if I'm able to, I try to find, uh, Taelgar.",
+      "cleanedText": "When I, when I... After I deal with the tavern, um, if I'm able to, I try to find, uh, Delwath."
+    },
+    {
+      "header": "[u2321 | 02:06:26.652-02:06:33.852 | DM]",
+      "lineNumber": 2321,
+      "originalText": "you know, fol- You're mostly, um, you know, you've got, uh, the else, Delweth's horse.",
+      "cleanedText": "you know, fol- You're mostly, um, you know, you've got, uh, the elf, Delwath's horse."
+    },
+    {
+      "header": "[u2386 | 02:10:38.636-02:10:43.215 | Delwath]",
+      "lineNumber": 2386,
+      "originalText": "I mean, are you say, is the rock stretch gigantic?",
+      "cleanedText": "I mean, are you saying, is the rock stretch gigantic?"
+    },
+    {
+      "header": "[u2404 | 02:11:58.476-02:12:02.836 | DM]",
+      "lineNumber": 2404,
+      "originalText": "that the terrain will shift s- shortly to something that's easy to track.",
+      "cleanedText": "whether the terrain will shift s- shortly to something that's easy to track."
+    },
+    {
+      "header": "[u2465 | 02:14:51.088-02:14:53.228 | Seeker]",
+      "lineNumber": 2465,
+      "originalText": "It's a open question, I think.",
+      "cleanedText": "It's an open question, I think."
+    },
+    {
+      "header": "[u2542 | 02:19:03.878-02:19:04.508 | Kenzo]",
+      "lineNumber": 2542,
+      "originalText": "Badya, do you-",
+      "cleanedText": "But yeah, do you-"
+    },
+    {
+      "header": "[u2780 | 02:32:13.828-02:32:14.888 | Delwath]",
+      "lineNumber": 2780,
+      "originalText": "I'll tell her, I mean,",
+      "cleanedText": "I'll tell him, I mean,"
+    },
+    {
+      "header": "[u2804 | 02:33:38.792-02:33:46.052 | DM]",
+      "lineNumber": 2804,
+      "originalText": "if you angle your dir- you could make a guesses to angle your direction of travel, so you would kind of cut off the whatever's moving up there.",
+      "cleanedText": "if you angle your dir- you could make a guess to angle your direction of travel, so you would kind of cut off the whatever's moving up there."
+    },
+    {
+      "header": "[u2813 | 02:34:25.852-02:34:29.052 | DM]",
+      "lineNumber": 2813,
+      "originalText": "a, it's definitely a Dunmarion horseback.",
+      "cleanedText": "a, it's definitely a Dunmari on horseback."
+    },
+    {
+      "header": "[u2884 | 02:38:30.332-02:38:32.492 | Delwath]",
+      "lineNumber": 2884,
+      "originalText": "I think from of all you've just told us, yes.",
+      "cleanedText": "I think from all you've just told us, yes."
+    }
+  ]
+}

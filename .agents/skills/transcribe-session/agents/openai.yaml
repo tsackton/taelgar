@@ -1,0 +1,4 @@
+interface:
+  display_name: "Transcribe Session"
+  short_description: "Transcribe RPG audio and verify speaker labels"
+  default_prompt: "Use $transcribe-session to transcribe an RPG session recording into a pipeline-ready VTT."
