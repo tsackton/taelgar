@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
-arc:
+arc: {session.arc}
 sessionNumber: {session.session_number}
 realWorldDate: {session.real_date}
 DR: {session.dr_start}
@@ -24,18 +24,17 @@ tagline: "{session.tagline}"
 
 {session.summary}
 
-{session.pull_quotes}
-
-
-{session.audio_highlights}
+{session.highlights}
 
 ## Timeline
 
+{session.table_notes}
+
 {timeline}
 
-## Cast of Characters
+## People and Places
 
-### People
+### NPCs
 
 {cast}
 
@@ -43,14 +42,14 @@ tagline: "{session.tagline}"
 
 {groups}
 
-## Places
+### Locations
 
 {locations}
+
 
 ## Narrative
 
 {narrative.long}
-
 
 ## Combat
 

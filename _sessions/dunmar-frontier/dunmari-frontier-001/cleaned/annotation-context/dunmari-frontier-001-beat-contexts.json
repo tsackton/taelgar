@@ -24,13 +24,13 @@
         "startUid": "u0001",
         "endUid": "u0197",
         "lineCount": 197,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": false,
         "boundaryReason": "The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.",
         "dateEvidence": [
-          "The manifest starts the session on 1748-03-21.",
+          "The manifest starts the session on 1748-03-22.",
           "The opening narration places Kenzo's approach to Karawa in the morning light."
         ],
         "startIndex": 0,
@@ -40,7 +40,7 @@
       "nextBeat": {
         "beatId": "b02",
         "title": "The Hyenas Charge",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -49,8 +49,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -1273,7 +1273,7 @@
         "startUid": "u0198",
         "endUid": "u0660",
         "lineCount": 463,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": true,
@@ -1288,13 +1288,13 @@
       "previousBeat": {
         "beatId": "b01",
         "title": "Arrivals in Karawa",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b03",
         "title": "Hyenas Brought Down",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -1303,8 +1303,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -4123,7 +4123,7 @@
         "startUid": "u0661",
         "endUid": "u0978",
         "lineCount": 318,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": true,
@@ -4138,13 +4138,13 @@
       "previousBeat": {
         "beatId": "b02",
         "title": "The Hyenas Charge",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b04",
         "title": "Aftermath and Introductions",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -4153,8 +4153,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -6103,7 +6103,7 @@
         "startUid": "u0979",
         "endUid": "u1199",
         "lineCount": 221,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": false,
@@ -6118,13 +6118,13 @@
       "previousBeat": {
         "beatId": "b03",
         "title": "Hyenas Brought Down",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b05",
         "title": "Strangers Find Common Ground",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -6133,8 +6133,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -7501,7 +7501,7 @@
         "startUid": "u1200",
         "endUid": "u1564",
         "lineCount": 365,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": false,
@@ -7516,13 +7516,13 @@
       "previousBeat": {
         "beatId": "b04",
         "title": "Aftermath and Introductions",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b06",
         "title": "Karawa Asks for Help",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -7531,8 +7531,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -9763,7 +9763,7 @@
         "startUid": "u1565",
         "endUid": "u1905",
         "lineCount": 341,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": false,
@@ -9778,13 +9778,13 @@
       "previousBeat": {
         "beatId": "b05",
         "title": "Strangers Find Common Ground",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b07",
         "title": "The Investigation Begins",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -9793,8 +9793,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -11881,7 +11881,7 @@
         "startUid": "u1906",
         "endUid": "u2314",
         "lineCount": 409,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "morning",
         "containsCombat": false,
@@ -11896,13 +11896,13 @@
       "previousBeat": {
         "beatId": "b06",
         "title": "Karawa Asks for Help",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b08",
         "title": "Tracks into the Badlands",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -11911,8 +11911,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -14407,7 +14407,7 @@
         "startUid": "u2315",
         "endUid": "u2808",
         "lineCount": 494,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "afternoon",
         "containsCombat": false,
@@ -14422,13 +14422,13 @@
       "previousBeat": {
         "beatId": "b07",
         "title": "The Investigation Begins",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b09",
         "title": "Alesh on the Old Road",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "session": {
@@ -14437,8 +14437,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -17443,7 +17443,7 @@
         "startUid": "u2809",
         "endUid": "u3158",
         "lineCount": 350,
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null,
         "timeWindow": "afternoon",
         "containsCombat": false,
@@ -17458,14 +17458,14 @@
       "previousBeat": {
         "beatId": "b08",
         "title": "Tracks into the Badlands",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": {
         "beatId": "b10",
         "title": "Nightfall at Gomat",
-        "dateStart": "1748-03-21",
-        "dateEnd": "1748-03-22"
+        "dateStart": "1748-03-22",
+        "dateEnd": "1748-03-23"
       },
       "session": {
         "title": null,
@@ -17473,8 +17473,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {
@@ -19615,15 +19615,15 @@
         "startUid": "u3159",
         "endUid": "u3315",
         "lineCount": 157,
-        "dateStart": "1748-03-21",
-        "dateEnd": "1748-03-22",
+        "dateStart": "1748-03-22",
+        "dateEnd": "1748-03-23",
         "timeWindow": null,
         "containsCombat": false,
         "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
         "dateEvidence": [
-          "The party sets out after the four-in-the-afternoon conversation on 1748-03-21.",
+          "The party sets out after the four-in-the-afternoon conversation on 1748-03-22.",
           "The transcript explicitly narrates a cold night, a long rest, and a pre-dawn departure on the following day.",
-          "The arrival in moonlight is therefore inferred to occur on 1748-03-22."
+          "The arrival in moonlight is therefore inferred to occur on 1748-03-23."
         ],
         "startIndex": 3158,
         "endIndex": 3314
@@ -19631,7 +19631,7 @@
       "previousBeat": {
         "beatId": "b09",
         "title": "Alesh on the Old Road",
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       },
       "nextBeat": null,
@@ -19641,8 +19641,8 @@
         "scope": "session",
         "sourceType": "transcript",
         "sessionNumber": 1,
-        "drStart": "1748-03-21",
-        "drEnd": "1748-03-22",
+        "drStart": "1748-03-22",
+        "drEnd": "1748-03-23",
         "realWorldDate": "2020-05-29",
         "participants": [
           {

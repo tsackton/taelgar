@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: desert
-whereabouts: Dunmari Basin
+whereabouts: Hara Basin
 dm_owner: tim
 dm_notes: important
 ---

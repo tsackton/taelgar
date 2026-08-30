@@ -18,7 +18,7 @@
       "partyPage": "Dunmar Fellowship",
       "sessionRoot": "dunmar-frontier",
       "campaignRoot": "Campaigns/Dunmari Frontier Campaign",
-      "notePattern": "Session Notes/Session {session} (DuFr).md",
+      "notePattern": "Session Notes/Dunmar Frontier - Session {session_padded}.md",
       "defaultTemplate": "dunmar-frontier-template.md"
     },
     "cleenseau": {

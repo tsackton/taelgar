@@ -4,8 +4,8 @@ scope: session
 campaign: Dunmari Frontier
 sessionNumber: 1
 realWorldDate: '2020-05-29'
-drStart: '1748-03-21'
-drEnd: '1748-03-22'
+drStart: '1748-03-22'
+drEnd: '1748-03-23'
 drStartTime: null
 drEndTime: null
 participants:
