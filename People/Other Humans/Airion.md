@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-08-28T16:53:46-04:00"
+lintVersion: "3.5"
 tags: [person]
-knownTo: [Mawar, GL]
-name: Airion the Mistspeaker
-pronunciation: AIR-ee-on
-aliases: [Airion the Mistspeaker]
-born:
 species: human
-ancestry:
+ancestry: null
+born: null
 gender: male
 died: 1545
+name: Airion the Mistspeaker
+aliases: [Airion the Mistspeaker]
+pronunciation: AIR-ee-on
+knownTo: [mawar, grli]
 dm_owner: tim
 dm_notes: important
+POV: modern
 ---
 # Airion the Mistspeaker
 *(AIR-ee-on)*
@@ -55,4 +58,12 @@ Source notes:
 
 Older source caveat: Great Library DM notes sometimes use variant spellings for Airion. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Airion the Mistspeaker, language: unknown, pronunciation: AIR-ee-on, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern retrospective prose about Airion's pre-Great-War scholarship and the later recovery and influence of his work.
 %%^End%%

@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-name: Greymalkin
-displayDefaults: {startStatus: "appeared from the Feywild on" }
-born: 1720-01-07
+lintedAt: "2026-08-28T16:53:46-04:00"
+lintVersion: "3.5"
+displayDefaults: {startStatus: appeared from the Feywild on}
+tags: [person, status/check/lint]
 species: fey
 subspecies: griffin
-affiliations: [{org: Heroes of Cleenseau, title: Companion}]
+born: 1720-01-07
 gender: male
+name: Greymalkin
+affiliations:
+  - {org: Heroes of Cleenseau, title: Companion}
+knownTo: [clee]
 dm_owner: player
 dm_notes: important
+POV: 1720
 ---
 # Greymalkin
 >[!info]+ Biographical Info  
@@ -23,3 +28,32 @@ dm_notes: important
 ![[greymalkin-2.png]]
 
 %% Was once a fey from Sharpspire, before its fall. Very unclear history as to how he ended up a companion to Robin, but has a history with Duskmire from the pre-Great War era %%
+
+%%^Metadata:names:v1%%
+- {name: Greymalkin, role: translated, language: Common, meaning: grey cat, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 portrait of Greymalkin as Robin's companion, with a much older Feywild history that the visible article does not yet explain.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `knownTo: [clee]`.
+- Added a documented Common translation entry for Greymalkin's name.
+- Added a DR 1720 `POV` and temporal note distinguishing his current companionship from his much older Feywild history.
+
+### Validated judgments
+- The hidden origin comment remains unresolved because its claim that Greymalkin came from Sharpspire conflicts with the primary-source account locating his birth at the Refuge of the Gossamer Veil.
+
+### Editorial assessment
+- **Underdeveloped**. The visible article omits Greymalkin's established origin, former bond with Aelirios Sunblade, loss of his home and wings, reason for answering Robin's call, and the current search for his wings; these are central to his role in the campaign.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** [[Greymalkin's Story]] establishes that Greymalkin was born at the [[Refuge of the Gossamer Veil]], served [[Aelirios Sunblade]], lost his home and wings in Lord Umbraeth's conquest, and later answered the light carried by [[Robin of Abenfyrd|Robin]]. The current article's tentative 'apparently nowhere' account omits this defining history. Copy-ready candidate: **Greymalkin was born at the [[Refuge of the Gossamer Veil]] in [[Amberglow]] about two centuries before DR 1720 and served as companion, adviser, and guide to [[Aelirios Sunblade]]. When Lord Umbraeth conquered the refuge, Aelirios fell and Greymalkin's wings were shorn. Greymalkin later answered the light of Robin's lantern, taking Robin as a new companion and resolving not to fail again.**
+- [ ] **Warning — coverage.later_material_change:** The Session 32 recap establishes that the party learned Izar the Red may keep Greymalkin's lost wings in his trophy room and set out toward his keep. Choose whether to update the article to the current campaign state, defer the update with `status/gameupdate/clee`, or preserve an intentionally earlier snapshot. Copy-ready candidate: **During the party's DR 1720 return to the Feywild, they learned that Izar the Red may keep Greymalkin's lost wings in his trophy room and set out for his keep.**
+%%^End%%

@@ -1,0 +1,1742 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 1,
+    "realWorldDate": "2020-05-29",
+    "drStart": "1748-03-21",
+    "drEnd": "1748-03-22"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01",
+        "b02",
+        "b03",
+        "b04",
+        "b05",
+        "b06",
+        "b07"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "wounded villager",
+        "Beli",
+        "Badya",
+        "Candrosa",
+        "Kisa"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [
+        "Seeker's ley-line diagram",
+        "red ochre healing paste"
+      ],
+      "combatBeatIds": [
+        "b02",
+        "b03"
+      ],
+      "sourceShortSummaries": [
+        "Kenzo recognizes Karawa from his recurring dreams as giant hyenas attack, while Delwath hears villagers calling for the elf who has defended them before.",
+        "The four strangers converge at Karawa's edge and enter battle with two giant hyenas before Kenzo batters one with his staff and bare hands.",
+        "Kenzo kills one hyena while Delwath, Seeker, and Wellby combine magic, terrain, and a precise final strike to bring down the second and save a wounded villager.",
+        "Beli runs to fetch Candrosa while Delwath and Wellby move the rescued villager into Badya's teahouse and the four strangers begin examining the attack.",
+        "The strangers exchange names and histories while the bloody hyena corpses, Delwath's sense of distorted magic, and Seeker's ley-line research point toward a deeper mystery.",
+        "Beli heals Delwath and Kenzo before Kisa asks the strangers to investigate the escalating attacks and Candrosa reacts uneasily to the failure of Beli's magic.",
+        "Delwath recruits the other three travelers, who rest and prepare before Seeker examines the mesa and the group finds the hyenas' eastbound tracks."
+      ],
+      "sourceLongSummaries": [
+        "Since leaving Tokra, Kenzo has dreamed nightly of strange landscapes, especially a red sandstone mesa sheltering a clear oasis. He reaches Karawa and finds that exact mesa, temple, oasis, and village before cries for help reveal two enormous hyenas charging into town. In a parallel introduction, Delwath has spent several months lodging above Badya's teahouse, investigating the Temple of Shakun and helping during an earlier hyena attack; his morning is interrupted when villagers call for the elf again.",
+        "Kenzo, Delwath, Seeker, and Wellby emerge from different parts of Karawa and see two horse-sized hyenas selecting victims among the fleeing villagers. After the strangers size one another up, a hyena mauls a young villager and the fight begins. Delwath fires a crackling magical blast, Seeker's first crossbow shot goes wide, and Kenzo rushes into melee, landing a rapid sequence of staff and unarmed strikes that badly wounds one beast.",
+        "Kenzo repeatedly pounds the first hyena with his staff and fists, endures a vicious bite, and finally kills it. Wellby stabilizes the villager the beasts mauled, while Beli repeatedly tries and fails to call on divine magic. Against the other hyena, Delwath uses crackling blasts and black flame, Seeker distracts it with an illusory baby antelope and then drops its forelegs into an excavated hole, and Wellby exploits its prone position to drive his sword into a weak point and end the fight.",
+        "As warnings of more beasts echo through Karawa, the villagers scatter and Beli leaves to get Candrosa. Delwath carries the stabilized man into Badya's teahouse, where Badya agrees to watch him, and then rejoins Kenzo, Wellby, and Seeker beside the hyena corpses. They establish that the beasts entered from the east-northeast and were not simply ordinary animals enlarged by a spell; dried blood on one body suggests the hyenas fought or killed something before reaching Karawa, giving the strangers their first clue to follow.",
+        "Kenzo, Wellby, Seeker, and Delwath introduce themselves and compare what drew them to Karawa. Seeker notes dried blood from earlier violence on a hyena and proposes tracking the beasts, while Delwath senses a distortion in the Weave around the scene. Under the teahouse awning, Seeker heals Kenzo and explains that magical lines converge within the mesa and Temple of Shakun; Wellby identifies himself as a mapmaker seeking the blank lands to the east, and the group begins recognizing overlapping interests in Karawa, old Dunmar, and the source of the attack.",
+        "Beli returns with Candrosa and Elder Kisa, heals Delwath and Kenzo with red ochre paste, and helps other acolytes carry the wounded villager away. Kisa explains that this is the third recent attack, that the beasts are growing stronger, and that the approaching festival leaves Karawa dangerously exposed; she asks Delwath and the travelers to investigate. When Delwath reports that Beli's divine magic failed and that he sensed a distortion in the Weave resembling the power of ancient elven masters, Candrosa turns pale, acknowledges mysteries he cannot discuss openly, and leaves to check on his acolytes while Kisa entrusts the problem to Delwath.",
+        "Delwath asks Kenzo, Wellby, and Seeker to help track the beasts, and all three agree despite their separate interests in Candrosa, the temple, and the lands east of Karawa. During a short preparation interval, Kenzo secures a room, Wellby equips himself for travel, and Seeker inspects the Temple of Shakun from outside, confirming a powerful convergence inside the mesa and sensing an unidentified concentration of valuable stone. Once the group regathers, Delwath and Wellby search the town's outskirts, recover the two hyenas' large claw prints heading east, and prepare to follow them with Delwath's horse and supplies."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b01",
+          "title": "Arrivals in Karawa",
+          "boundaryReason": "The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0197"
+          },
+          "shortSummary": "Kenzo recognizes Karawa from his recurring dreams as giant hyenas attack, while Delwath hears villagers calling for the elf who has defended them before.",
+          "longSummary": "Since leaving Tokra, Kenzo has dreamed nightly of strange landscapes, especially a red sandstone mesa sheltering a clear oasis. He reaches Karawa and finds that exact mesa, temple, oasis, and village before cries for help reveal two enormous hyenas charging into town. In a parallel introduction, Delwath has spent several months lodging above Badya's teahouse, investigating the Temple of Shakun and helping during an earlier hyena attack; his morning is interrupted when villagers call for the elf again.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the western approach, the village edge, and Delwath's rooms above Badya's teahouse",
+            "notes": "The beat presents parallel introductory scenes within and immediately outside Karawa."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Kenzo is seeking him, while Delwath has met him during his inquiries into the temple."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Kenzo seeks its speaker and Delwath has spent months investigating its secret rites at the Temple of Shakun."
+            }
+          ]
+        },
+        {
+          "beatId": "b02",
+          "title": "The Hyenas Charge",
+          "boundaryReason": "The four characters converge, size one another up amid the emergency, and enter combat; the beat ends after Kenzo's opening flurry before the hyena's counterattack.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0198",
+            "endUid": "u0660"
+          },
+          "shortSummary": "The four strangers converge at Karawa's edge and enter battle with two giant hyenas before Kenzo batters one with his staff and bare hands.",
+          "longSummary": "Kenzo, Delwath, Seeker, and Wellby emerge from different parts of Karawa and see two horse-sized hyenas selecting victims among the fleeing villagers. After the strangers size one another up, a hyena mauls a young villager and the fight begins. Delwath fires a crackling magical blast, Seeker's first crossbow shot goes wide, and Kenzo rushes into melee, landing a rapid sequence of staff and unarmed strikes that badly wounds one beast.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the northeastern village edge outside the caravanserai and Badya's teahouse",
+            "notes": "The combat begins in the street where the four characters converge."
+          },
+          "npcDetails": [
+            {
+              "name": "wounded villager",
+              "role": "encountered",
+              "context": "young man attacked by a giant hyena",
+              "notes": "He is mauled and left unconscious and dying during the opening exchange."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "giant hyenas",
+                "notes": "Two horse-sized hyenas charge into Karawa and attack villagers."
+              }
+            ],
+            "notes": "The beat covers the characters' convergence, initiative, and the opening attacks against the two hyenas."
+          }
+        },
+        {
+          "beatId": "b03",
+          "title": "Hyenas Brought Down",
+          "boundaryReason": "The hyenas answer the party's first attacks and the remaining combat plays through to Wellby's killing strike on the final beast.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0661",
+            "endUid": "u0978"
+          },
+          "shortSummary": "Kenzo kills one hyena while Delwath, Seeker, and Wellby combine magic, terrain, and a precise final strike to bring down the second and save a wounded villager.",
+          "longSummary": "Kenzo repeatedly pounds the first hyena with his staff and fists, endures a vicious bite, and finally kills it. Wellby stabilizes the villager the beasts mauled, while Beli repeatedly tries and fails to call on divine magic. Against the other hyena, Delwath uses crackling blasts and black flame, Seeker distracts it with an illusory baby antelope and then drops its forelegs into an excavated hole, and Wellby exploits its prone position to drive his sword into a weak point and end the fight.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the northeastern village edge outside the caravanserai and Badya's teahouse",
+            "notes": "This beat continues in the same street battle space as the opening combat."
+          },
+          "npcDetails": [
+            {
+              "name": "Beli",
+              "role": "companion",
+              "context": "Shakun initiate fighting beside the strangers",
+              "notes": "She tries several times to invoke divine power, but nothing happens."
+            },
+            {
+              "name": "wounded villager",
+              "role": "encountered",
+              "context": "young man mauled by a giant hyena",
+              "notes": "Wellby stabilizes him with a successful medicine check before he bleeds out."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "giant hyenas",
+                "notes": "Kenzo kills one; Wellby delivers the final strike against the other after the party disables it."
+              }
+            ],
+            "notes": "The combat ends with both hyenas dead and the badly injured villager stabilized."
+          }
+        },
+        {
+          "beatId": "b04",
+          "title": "Aftermath and Introductions",
+          "boundaryReason": "With the hyenas dead, the villagers scatter for help while the strangers tend the wounded, inspect the bodies, and begin introducing themselves.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0979",
+            "endUid": "u1199"
+          },
+          "shortSummary": "Beli runs to fetch Candrosa while Delwath and Wellby move the rescued villager into Badya's teahouse and the four strangers begin examining the attack.",
+          "longSummary": "As warnings of more beasts echo through Karawa, the villagers scatter and Beli leaves to get Candrosa. Delwath carries the stabilized man into Badya's teahouse, where Badya agrees to watch him, and then rejoins Kenzo, Wellby, and Seeker beside the hyena corpses. They establish that the beasts entered from the east-northeast and were not simply ordinary animals enlarged by a spell; dried blood on one body suggests the hyenas fought or killed something before reaching Karawa, giving the strangers their first clue to follow.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the street beside the caravanserai and the adjoining Badya's teahouse",
+            "notes": "The action shifts briefly into the teahouse to shelter the wounded villager, then returns to the hyena corpses outside."
+          },
+          "npcDetails": [
+            {
+              "name": "Beli",
+              "role": "encountered",
+              "context": "Shakun initiate",
+              "notes": "She recognizes Delwath and runs toward the temple to fetch Candrosa."
+            },
+            {
+              "name": "Badya",
+              "role": "encountered",
+              "context": "teahouse worker",
+              "notes": "She remains hidden inside during the attack and takes charge of the stabilized villager afterward."
+            },
+            {
+              "name": "wounded villager",
+              "role": "encountered",
+              "context": "survivor of the hyena attack",
+              "notes": "Delwath carries him into the teahouse after Wellby stabilizes him."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Beli leaves the battlefield to bring him to the scene."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Beli leaves to bring the order's speaker after the attack."
+            }
+          ]
+        },
+        {
+          "beatId": "b05",
+          "title": "Strangers Find Common Ground",
+          "boundaryReason": "The four strangers trade names and histories, compare what brought them to Karawa, and discover Delwath's concern about a disturbance in the Weave before help arrives.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1200",
+            "endUid": "u1564"
+          },
+          "shortSummary": "The strangers exchange names and histories while the bloody hyena corpses, Delwath's sense of distorted magic, and Seeker's ley-line research point toward a deeper mystery.",
+          "longSummary": "Kenzo, Wellby, Seeker, and Delwath introduce themselves and compare what drew them to Karawa. Seeker notes dried blood from earlier violence on a hyena and proposes tracking the beasts, while Delwath senses a distortion in the Weave around the scene. Under the teahouse awning, Seeker heals Kenzo and explains that magical lines converge within the mesa and Temple of Shakun; Wellby identifies himself as a mapmaker seeking the blank lands to the east, and the group begins recognizing overlapping interests in Karawa, old Dunmar, and the source of the attack.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Badya's teahouse and its shaded tables at the northeastern village edge",
+            "notes": "The conversation begins beside the hyena corpses and settles at the teahouse tables."
+          },
+          "npcDetails": [
+            {
+              "name": "Badya",
+              "role": "encountered",
+              "context": "teahouse worker",
+              "notes": "Delwath asks her to bring fresh food as the strangers recover and talk."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Kenzo and Seeker both reveal that they came to Karawa hoping to speak with him."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Seeker's ley-line diagram",
+              "role": "encountered",
+              "notes": "His star-shaped sketch places a convergence of magical lines within the Temple of Shakun and its mesa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Seeker describes the local mystery cult and its possible connection to the magical convergence beneath the temple."
+            }
+          ]
+        },
+        {
+          "beatId": "b06",
+          "title": "Karawa Asks for Help",
+          "boundaryReason": "Beli, Kisa, and Candrosa arrive to heal the wounded and assess the attack; Kisa asks Delwath to investigate after Beli's magic fails and the leaders depart.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1565",
+            "endUid": "u1905"
+          },
+          "shortSummary": "Beli heals Delwath and Kenzo before Kisa asks the strangers to investigate the escalating attacks and Candrosa reacts uneasily to the failure of Beli's magic.",
+          "longSummary": "Beli returns with Candrosa and Elder Kisa, heals Delwath and Kenzo with red ochre paste, and helps other acolytes carry the wounded villager away. Kisa explains that this is the third recent attack, that the beasts are growing stronger, and that the approaching festival leaves Karawa dangerously exposed; she asks Delwath and the travelers to investigate. When Delwath reports that Beli's divine magic failed and that he sensed a distortion in the Weave resembling the power of ancient elven masters, Candrosa turns pale, acknowledges mysteries he cannot discuss openly, and leaves to check on his acolytes while Kisa entrusts the problem to Delwath.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Badya's teahouse at the northeastern village edge",
+            "notes": "Karawa's leaders meet the party inside the teahouse after the attack."
+          },
+          "npcDetails": [
+            {
+              "name": "Beli",
+              "role": "encountered",
+              "context": "Shakun initiate and healer",
+              "notes": "She heals Delwath and Kenzo, then helps carry the wounded villager away."
+            },
+            {
+              "name": "Candrosa",
+              "role": "encountered",
+              "context": "Speaker of Shakun",
+              "notes": "He is alarmed by Beli's failed magic and Delwath's description of the distorted Weave, but says some mysteries cannot be discussed openly."
+            },
+            {
+              "name": "Kisa",
+              "role": "encountered",
+              "context": "elder and unofficial leader of Karawa",
+              "notes": "She explains the growing danger and asks Delwath and the travelers to investigate before the festival."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "red ochre healing paste",
+              "role": "encountered",
+              "notes": "Beli applies the muddy temple preparation to close Delwath's and Kenzo's wounds."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "encountered",
+              "notes": "The order's speaker, initiate, and acolytes respond to the attack and care for the wounded."
+            }
+          ]
+        },
+        {
+          "beatId": "b07",
+          "title": "The Investigation Begins",
+          "boundaryReason": "Delwath recruits the other three, the new group rests and equips itself, and Seeker visits the temple before everyone regathers to follow the beasts' tracks.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1906",
+            "endUid": "u2314"
+          },
+          "shortSummary": "Delwath recruits the other three travelers, who rest and prepare before Seeker examines the mesa and the group finds the hyenas' eastbound tracks.",
+          "longSummary": "Delwath asks Kenzo, Wellby, and Seeker to help track the beasts, and all three agree despite their separate interests in Candrosa, the temple, and the lands east of Karawa. During a short preparation interval, Kenzo secures a room, Wellby equips himself for travel, and Seeker inspects the Temple of Shakun from outside, confirming a powerful convergence inside the mesa and sensing an unidentified concentration of valuable stone. Once the group regathers, Delwath and Wellby search the town's outskirts, recover the two hyenas' large claw prints heading east, and prepare to follow them with Delwath's horse and supplies.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Badya's teahouse, the caravanserai, the Temple of Shakun, and the eastern outskirts",
+            "notes": "The party handles several same-town errands before locating the attackers' trail at the edge of Karawa."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Kenzo and Seeker still hope to speak with him and gain access to the secretive temple."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Seeker examines the exterior of their temple but does not gain access to its interior."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b08",
+        "b09"
+      ],
+      "locationRefs": [
+        "Karawa",
+        "canyonlands east-northeast of Karawa",
+        "old trade road toward Gomat"
+      ],
+      "npcRefs": [
+        "Alesh"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Wellby's grappling hook"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party follows the hyenas east-northeast until their tracks vanish in rocky badlands, then climbs for a view and chooses a moving dust cloud to the north as its next lead.",
+        "The party intercepts Alesh on the old trade road, learns of missing herders and renewed danger around Gomat, and decides to push toward the oasis."
+      ],
+      "sourceLongSummaries": [
+        "The group follows the giant claw prints east-northeast through blooming scrub for several hours, but the trail disappears when the terrain becomes bare rock. They continue along the beasts' general heading while discussing whether magic, Shakun, or the realm of dreams might explain the attack, only to become disoriented among twisting slot and box canyons. Wellby uses a grappling hook to climb above the badlands, reestablishes Karawa's direction, spots a much deeper canyon to the east and a moving dust cloud to the north, and the party decides to intercept whatever is raising the dust.",
+        "Leaving the canyonlands, the party discovers that the dust belongs to Alesh, a Dunmari scout returning from Gomat. She has seen nothing dangerous on the road itself, but reports missing herders, unsettling rumors among scouts and pastoralists, and fears that the old dangers of the Nashtkar may be returning. The blood on the hyenas and the line of their approach make Gomat the party's best lead; Alesh explains the route, identifies Akan and his family as friendly herders camped there, then rides on toward her own family while the group chooses a hurried journey to the oasis over returning to defend Karawa."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b08",
+          "title": "Tracks into the Badlands",
+          "boundaryReason": "The party leaves Karawa, follows the attackers northeast into the canyonlands, loses the trail, and climbs to a vantage where a distant dust cloud offers a new lead.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2315",
+            "endUid": "u2808"
+          },
+          "shortSummary": "The party follows the hyenas east-northeast until their tracks vanish in rocky badlands, then climbs for a view and chooses a moving dust cloud to the north as its next lead.",
+          "longSummary": "The group follows the giant claw prints east-northeast through blooming scrub for several hours, but the trail disappears when the terrain becomes bare rock. They continue along the beasts' general heading while discussing whether magic, Shakun, or the realm of dreams might explain the attack, only to become disoriented among twisting slot and box canyons. Wellby uses a grappling hook to climb above the badlands, reestablishes Karawa's direction, spots a much deeper canyon to the east and a moving dust cloud to the north, and the party decides to intercept whatever is raising the dust.",
+          "locationHints": {
+            "refs": [
+              "Karawa",
+              "canyonlands east-northeast of Karawa"
+            ],
+            "context": "following the hyenas' tracks from scrub desert into rocky badlands",
+            "notes": "The party loses the physical trail on bare rock and ends the beat turning north toward a distant dust cloud."
+          },
+          "itemDetails": [
+            {
+              "name": "Wellby's grappling hook",
+              "role": "encountered",
+              "notes": "Wellby uses it to reach a high vantage above the canyonlands and find the party's next lead."
+            }
+          ]
+        },
+        {
+          "beatId": "b09",
+          "title": "Alesh on the Old Road",
+          "boundaryReason": "The party intercepts Alesh, learns about Gomat and the dangers near Nashtkar, and decides to push toward the oasis after she rides on to Karawa.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2809",
+            "endUid": "u3158"
+          },
+          "shortSummary": "The party intercepts Alesh on the old trade road, learns of missing herders and renewed danger around Gomat, and decides to push toward the oasis.",
+          "longSummary": "Leaving the canyonlands, the party discovers that the dust belongs to Alesh, a Dunmari scout returning from Gomat. She has seen nothing dangerous on the road itself, but reports missing herders, unsettling rumors among scouts and pastoralists, and fears that the old dangers of the Nashtkar may be returning. The blood on the hyenas and the line of their approach make Gomat the party's best lead; Alesh explains the route, identifies Akan and his family as friendly herders camped there, then rides on toward her own family while the group chooses a hurried journey to the oasis over returning to defend Karawa.",
+          "locationHints": {
+            "refs": [
+              "canyonlands east-northeast of Karawa",
+              "old trade road toward Gomat"
+            ],
+            "context": "intercepting Alesh northwest of the canyonlands and conferring beside the road",
+            "notes": "The party leaves the badlands, reaches the old road, and ends ready to follow it east toward Gomat Oasis."
+          },
+          "npcDetails": [
+            {
+              "name": "Alesh",
+              "role": "encountered",
+              "context": "Dunmari scout returning from Gomat",
+              "notes": "She shares reports of missing herders, warns about the Nashtkar, explains the road to Gomat, and then rides toward her family."
+            },
+            {
+              "name": "Akan",
+              "role": "mentioned",
+              "context": "herder camped at Gomat Oasis",
+              "notes": "Alesh recommends that the party seek him and his family for information when they reach the oasis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "b10"
+      ],
+      "locationRefs": [
+        "old trade road east of Karawa",
+        "Gomat Oasis"
+      ],
+      "npcRefs": [
+        "giant lizards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents."
+      ],
+      "sourceLongSummaries": [
+        "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b10",
+          "title": "Nightfall at Gomat",
+          "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3159",
+            "endUid": "u3315"
+          },
+          "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
+          "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-21",
+            "dateEnd": "1748-03-22",
+            "dayPosition": "start"
+          },
+          "locationHints": {
+            "refs": [
+              "old trade road east of Karawa",
+              "Gomat Oasis"
+            ],
+            "context": "an overnight camp followed by a forced march through the desert to the oasis",
+            "notes": "The journey crosses into the following day and ends at the edge of the silent herders' camp."
+          },
+          "npcDetails": [
+            {
+              "name": "giant lizards",
+              "role": "enemy",
+              "context": "three pony-sized beasts at Gomat Oasis",
+              "notes": "They are feeding on dead sheep in the darkness and appear unaware of the party when the session ends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-03-22",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "b10"
+      ],
+      "locationRefs": [
+        "old trade road east of Karawa",
+        "Gomat Oasis"
+      ],
+      "npcRefs": [
+        "giant lizards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents."
+      ],
+      "sourceLongSummaries": [
+        "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b10",
+          "title": "Nightfall at Gomat",
+          "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
+          "dateStart": "1748-03-22",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3159",
+            "endUid": "u3315"
+          },
+          "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
+          "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-21",
+            "dateEnd": "1748-03-22",
+            "dayPosition": "end"
+          },
+          "locationHints": {
+            "refs": [
+              "old trade road east of Karawa",
+              "Gomat Oasis"
+            ],
+            "context": "an overnight camp followed by a forced march through the desert to the oasis",
+            "notes": "The journey crosses into the following day and ends at the edge of the silent herders' camp."
+          },
+          "npcDetails": [
+            {
+              "name": "giant lizards",
+              "role": "enemy",
+              "context": "three pony-sized beasts at Gomat Oasis",
+              "notes": "They are feeding on dead sheep in the darkness and appear unaware of the party when the session ends."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "combat",
+      "title": "Four Travelers Meet in Karawa",
+      "beatIds": [
+        "b01",
+        "b02",
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0978"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0197"
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0660"
+        },
+        {
+          "startUid": "u0661",
+          "endUid": "u0978"
+        }
+      ],
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "wounded villager",
+        "Beli"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "giant hyenas"
+      ],
+      "sourceShortSummaries": [
+        "Kenzo recognizes Karawa from his recurring dreams as giant hyenas attack, while Delwath hears villagers calling for the elf who has defended them before.",
+        "The four strangers converge at Karawa's edge and enter battle with two giant hyenas before Kenzo batters one with his staff and bare hands.",
+        "Kenzo kills one hyena while Delwath, Seeker, and Wellby combine magic, terrain, and a precise final strike to bring down the second and save a wounded villager."
+      ],
+      "sourceLongSummaries": [
+        "Since leaving Tokra, Kenzo has dreamed nightly of strange landscapes, especially a red sandstone mesa sheltering a clear oasis. He reaches Karawa and finds that exact mesa, temple, oasis, and village before cries for help reveal two enormous hyenas charging into town. In a parallel introduction, Delwath has spent several months lodging above Badya's teahouse, investigating the Temple of Shakun and helping during an earlier hyena attack; his morning is interrupted when villagers call for the elf again.",
+        "Kenzo, Delwath, Seeker, and Wellby emerge from different parts of Karawa and see two horse-sized hyenas selecting victims among the fleeing villagers. After the strangers size one another up, a hyena mauls a young villager and the fight begins. Delwath fires a crackling magical blast, Seeker's first crossbow shot goes wide, and Kenzo rushes into melee, landing a rapid sequence of staff and unarmed strikes that badly wounds one beast.",
+        "Kenzo repeatedly pounds the first hyena with his staff and fists, endures a vicious bite, and finally kills it. Wellby stabilizes the villager the beasts mauled, while Beli repeatedly tries and fails to call on divine magic. Against the other hyena, Delwath uses crackling blasts and black flame, Seeker distracts it with an illusory baby antelope and then drops its forelegs into an excavated hole, and Wellby exploits its prone position to drive his sword into a weak point and end the fight."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b01",
+          "title": "Arrivals in Karawa",
+          "boundaryReason": "The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0197"
+          },
+          "shortSummary": "Kenzo recognizes Karawa from his recurring dreams as giant hyenas attack, while Delwath hears villagers calling for the elf who has defended them before.",
+          "longSummary": "Since leaving Tokra, Kenzo has dreamed nightly of strange landscapes, especially a red sandstone mesa sheltering a clear oasis. He reaches Karawa and finds that exact mesa, temple, oasis, and village before cries for help reveal two enormous hyenas charging into town. In a parallel introduction, Delwath has spent several months lodging above Badya's teahouse, investigating the Temple of Shakun and helping during an earlier hyena attack; his morning is interrupted when villagers call for the elf again.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the western approach, the village edge, and Delwath's rooms above Badya's teahouse",
+            "notes": "The beat presents parallel introductory scenes within and immediately outside Karawa."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Kenzo is seeking him, while Delwath has met him during his inquiries into the temple."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Kenzo seeks its speaker and Delwath has spent months investigating its secret rites at the Temple of Shakun."
+            }
+          ]
+        },
+        {
+          "beatId": "b02",
+          "title": "The Hyenas Charge",
+          "boundaryReason": "The four characters converge, size one another up amid the emergency, and enter combat; the beat ends after Kenzo's opening flurry before the hyena's counterattack.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0198",
+            "endUid": "u0660"
+          },
+          "shortSummary": "The four strangers converge at Karawa's edge and enter battle with two giant hyenas before Kenzo batters one with his staff and bare hands.",
+          "longSummary": "Kenzo, Delwath, Seeker, and Wellby emerge from different parts of Karawa and see two horse-sized hyenas selecting victims among the fleeing villagers. After the strangers size one another up, a hyena mauls a young villager and the fight begins. Delwath fires a crackling magical blast, Seeker's first crossbow shot goes wide, and Kenzo rushes into melee, landing a rapid sequence of staff and unarmed strikes that badly wounds one beast.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the northeastern village edge outside the caravanserai and Badya's teahouse",
+            "notes": "The combat begins in the street where the four characters converge."
+          },
+          "npcDetails": [
+            {
+              "name": "wounded villager",
+              "role": "encountered",
+              "context": "young man attacked by a giant hyena",
+              "notes": "He is mauled and left unconscious and dying during the opening exchange."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "giant hyenas",
+                "notes": "Two horse-sized hyenas charge into Karawa and attack villagers."
+              }
+            ],
+            "notes": "The beat covers the characters' convergence, initiative, and the opening attacks against the two hyenas."
+          }
+        },
+        {
+          "beatId": "b03",
+          "title": "Hyenas Brought Down",
+          "boundaryReason": "The hyenas answer the party's first attacks and the remaining combat plays through to Wellby's killing strike on the final beast.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0661",
+            "endUid": "u0978"
+          },
+          "shortSummary": "Kenzo kills one hyena while Delwath, Seeker, and Wellby combine magic, terrain, and a precise final strike to bring down the second and save a wounded villager.",
+          "longSummary": "Kenzo repeatedly pounds the first hyena with his staff and fists, endures a vicious bite, and finally kills it. Wellby stabilizes the villager the beasts mauled, while Beli repeatedly tries and fails to call on divine magic. Against the other hyena, Delwath uses crackling blasts and black flame, Seeker distracts it with an illusory baby antelope and then drops its forelegs into an excavated hole, and Wellby exploits its prone position to drive his sword into a weak point and end the fight.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the northeastern village edge outside the caravanserai and Badya's teahouse",
+            "notes": "This beat continues in the same street battle space as the opening combat."
+          },
+          "npcDetails": [
+            {
+              "name": "Beli",
+              "role": "companion",
+              "context": "Shakun initiate fighting beside the strangers",
+              "notes": "She tries several times to invoke divine power, but nothing happens."
+            },
+            {
+              "name": "wounded villager",
+              "role": "encountered",
+              "context": "young man mauled by a giant hyena",
+              "notes": "Wellby stabilizes him with a successful medicine check before he bleeds out."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "giant hyenas",
+                "notes": "Kenzo kills one; Wellby delivers the final strike against the other after the party disables it."
+              }
+            ],
+            "notes": "The combat ends with both hyenas dead and the badly injured villager stabilized."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Aftermath and Introductions",
+      "beatIds": [
+        "b04",
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u0979",
+        "endUid": "u1564"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0979",
+          "endUid": "u1199"
+        },
+        {
+          "startUid": "u1200",
+          "endUid": "u1564"
+        }
+      ],
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Beli",
+        "Badya",
+        "wounded villager"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Seeker's ley-line diagram"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Beli runs to fetch Candrosa while Delwath and Wellby move the rescued villager into Badya's teahouse and the four strangers begin examining the attack.",
+        "The strangers exchange names and histories while the bloody hyena corpses, Delwath's sense of distorted magic, and Seeker's ley-line research point toward a deeper mystery."
+      ],
+      "sourceLongSummaries": [
+        "As warnings of more beasts echo through Karawa, the villagers scatter and Beli leaves to get Candrosa. Delwath carries the stabilized man into Badya's teahouse, where Badya agrees to watch him, and then rejoins Kenzo, Wellby, and Seeker beside the hyena corpses. They establish that the beasts entered from the east-northeast and were not simply ordinary animals enlarged by a spell; dried blood on one body suggests the hyenas fought or killed something before reaching Karawa, giving the strangers their first clue to follow.",
+        "Kenzo, Wellby, Seeker, and Delwath introduce themselves and compare what drew them to Karawa. Seeker notes dried blood from earlier violence on a hyena and proposes tracking the beasts, while Delwath senses a distortion in the Weave around the scene. Under the teahouse awning, Seeker heals Kenzo and explains that magical lines converge within the mesa and Temple of Shakun; Wellby identifies himself as a mapmaker seeking the blank lands to the east, and the group begins recognizing overlapping interests in Karawa, old Dunmar, and the source of the attack."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b04",
+          "title": "Aftermath and Introductions",
+          "boundaryReason": "With the hyenas dead, the villagers scatter for help while the strangers tend the wounded, inspect the bodies, and begin introducing themselves.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0979",
+            "endUid": "u1199"
+          },
+          "shortSummary": "Beli runs to fetch Candrosa while Delwath and Wellby move the rescued villager into Badya's teahouse and the four strangers begin examining the attack.",
+          "longSummary": "As warnings of more beasts echo through Karawa, the villagers scatter and Beli leaves to get Candrosa. Delwath carries the stabilized man into Badya's teahouse, where Badya agrees to watch him, and then rejoins Kenzo, Wellby, and Seeker beside the hyena corpses. They establish that the beasts entered from the east-northeast and were not simply ordinary animals enlarged by a spell; dried blood on one body suggests the hyenas fought or killed something before reaching Karawa, giving the strangers their first clue to follow.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the street beside the caravanserai and the adjoining Badya's teahouse",
+            "notes": "The action shifts briefly into the teahouse to shelter the wounded villager, then returns to the hyena corpses outside."
+          },
+          "npcDetails": [
+            {
+              "name": "Beli",
+              "role": "encountered",
+              "context": "Shakun initiate",
+              "notes": "She recognizes Delwath and runs toward the temple to fetch Candrosa."
+            },
+            {
+              "name": "Badya",
+              "role": "encountered",
+              "context": "teahouse worker",
+              "notes": "She remains hidden inside during the attack and takes charge of the stabilized villager afterward."
+            },
+            {
+              "name": "wounded villager",
+              "role": "encountered",
+              "context": "survivor of the hyena attack",
+              "notes": "Delwath carries him into the teahouse after Wellby stabilizes him."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Beli leaves the battlefield to bring him to the scene."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Beli leaves to bring the order's speaker after the attack."
+            }
+          ]
+        },
+        {
+          "beatId": "b05",
+          "title": "Strangers Find Common Ground",
+          "boundaryReason": "The four strangers trade names and histories, compare what brought them to Karawa, and discover Delwath's concern about a disturbance in the Weave before help arrives.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1200",
+            "endUid": "u1564"
+          },
+          "shortSummary": "The strangers exchange names and histories while the bloody hyena corpses, Delwath's sense of distorted magic, and Seeker's ley-line research point toward a deeper mystery.",
+          "longSummary": "Kenzo, Wellby, Seeker, and Delwath introduce themselves and compare what drew them to Karawa. Seeker notes dried blood from earlier violence on a hyena and proposes tracking the beasts, while Delwath senses a distortion in the Weave around the scene. Under the teahouse awning, Seeker heals Kenzo and explains that magical lines converge within the mesa and Temple of Shakun; Wellby identifies himself as a mapmaker seeking the blank lands to the east, and the group begins recognizing overlapping interests in Karawa, old Dunmar, and the source of the attack.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Badya's teahouse and its shaded tables at the northeastern village edge",
+            "notes": "The conversation begins beside the hyena corpses and settles at the teahouse tables."
+          },
+          "npcDetails": [
+            {
+              "name": "Badya",
+              "role": "encountered",
+              "context": "teahouse worker",
+              "notes": "Delwath asks her to bring fresh food as the strangers recover and talk."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Kenzo and Seeker both reveal that they came to Karawa hoping to speak with him."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Seeker's ley-line diagram",
+              "role": "encountered",
+              "notes": "His star-shaped sketch places a convergence of magical lines within the Temple of Shakun and its mesa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Seeker describes the local mystery cult and its possible connection to the magical convergence beneath the temple."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Karawa Asks for Help",
+      "beatIds": [
+        "b06"
+      ],
+      "sourceRange": {
+        "startUid": "u1565",
+        "endUid": "u1905"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1565",
+          "endUid": "u1905"
+        }
+      ],
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Beli",
+        "Candrosa",
+        "Kisa"
+      ],
+      "organizationRefs": [
+        "Shakun Mystai"
+      ],
+      "itemRefs": [
+        "red ochre healing paste"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Beli heals Delwath and Kenzo before Kisa asks the strangers to investigate the escalating attacks and Candrosa reacts uneasily to the failure of Beli's magic."
+      ],
+      "sourceLongSummaries": [
+        "Beli returns with Candrosa and Elder Kisa, heals Delwath and Kenzo with red ochre paste, and helps other acolytes carry the wounded villager away. Kisa explains that this is the third recent attack, that the beasts are growing stronger, and that the approaching festival leaves Karawa dangerously exposed; she asks Delwath and the travelers to investigate. When Delwath reports that Beli's divine magic failed and that he sensed a distortion in the Weave resembling the power of ancient elven masters, Candrosa turns pale, acknowledges mysteries he cannot discuss openly, and leaves to check on his acolytes while Kisa entrusts the problem to Delwath."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b06",
+          "title": "Karawa Asks for Help",
+          "boundaryReason": "Beli, Kisa, and Candrosa arrive to heal the wounded and assess the attack; Kisa asks Delwath to investigate after Beli's magic fails and the leaders depart.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1565",
+            "endUid": "u1905"
+          },
+          "shortSummary": "Beli heals Delwath and Kenzo before Kisa asks the strangers to investigate the escalating attacks and Candrosa reacts uneasily to the failure of Beli's magic.",
+          "longSummary": "Beli returns with Candrosa and Elder Kisa, heals Delwath and Kenzo with red ochre paste, and helps other acolytes carry the wounded villager away. Kisa explains that this is the third recent attack, that the beasts are growing stronger, and that the approaching festival leaves Karawa dangerously exposed; she asks Delwath and the travelers to investigate. When Delwath reports that Beli's divine magic failed and that he sensed a distortion in the Weave resembling the power of ancient elven masters, Candrosa turns pale, acknowledges mysteries he cannot discuss openly, and leaves to check on his acolytes while Kisa entrusts the problem to Delwath.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Badya's teahouse at the northeastern village edge",
+            "notes": "Karawa's leaders meet the party inside the teahouse after the attack."
+          },
+          "npcDetails": [
+            {
+              "name": "Beli",
+              "role": "encountered",
+              "context": "Shakun initiate and healer",
+              "notes": "She heals Delwath and Kenzo, then helps carry the wounded villager away."
+            },
+            {
+              "name": "Candrosa",
+              "role": "encountered",
+              "context": "Speaker of Shakun",
+              "notes": "He is alarmed by Beli's failed magic and Delwath's description of the distorted Weave, but says some mysteries cannot be discussed openly."
+            },
+            {
+              "name": "Kisa",
+              "role": "encountered",
+              "context": "elder and unofficial leader of Karawa",
+              "notes": "She explains the growing danger and asks Delwath and the travelers to investigate before the festival."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "red ochre healing paste",
+              "role": "encountered",
+              "notes": "Beli applies the muddy temple preparation to close Delwath's and Kenzo's wounds."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "encountered",
+              "notes": "The order's speaker, initiate, and acolytes respond to the attack and care for the wounded."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Into the Badlands",
+      "beatIds": [
+        "b07",
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u1906",
+        "endUid": "u2808"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1906",
+          "endUid": "u2314"
+        },
+        {
+          "startUid": "u2315",
+          "endUid": "u2808"
+        }
+      ],
+      "dateStart": "1748-03-21",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa",
+        "canyonlands east-northeast of Karawa"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Wellby's grappling hook"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Delwath recruits the other three travelers, who rest and prepare before Seeker examines the mesa and the group finds the hyenas' eastbound tracks.",
+        "The party follows the hyenas east-northeast until their tracks vanish in rocky badlands, then climbs for a view and chooses a moving dust cloud to the north as its next lead."
+      ],
+      "sourceLongSummaries": [
+        "Delwath asks Kenzo, Wellby, and Seeker to help track the beasts, and all three agree despite their separate interests in Candrosa, the temple, and the lands east of Karawa. During a short preparation interval, Kenzo secures a room, Wellby equips himself for travel, and Seeker inspects the Temple of Shakun from outside, confirming a powerful convergence inside the mesa and sensing an unidentified concentration of valuable stone. Once the group regathers, Delwath and Wellby search the town's outskirts, recover the two hyenas' large claw prints heading east, and prepare to follow them with Delwath's horse and supplies.",
+        "The group follows the giant claw prints east-northeast through blooming scrub for several hours, but the trail disappears when the terrain becomes bare rock. They continue along the beasts' general heading while discussing whether magic, Shakun, or the realm of dreams might explain the attack, only to become disoriented among twisting slot and box canyons. Wellby uses a grappling hook to climb above the badlands, reestablishes Karawa's direction, spots a much deeper canyon to the east and a moving dust cloud to the north, and the party decides to intercept whatever is raising the dust."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b07",
+          "title": "The Investigation Begins",
+          "boundaryReason": "Delwath recruits the other three, the new group rests and equips itself, and Seeker visits the temple before everyone regathers to follow the beasts' tracks.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1906",
+            "endUid": "u2314"
+          },
+          "shortSummary": "Delwath recruits the other three travelers, who rest and prepare before Seeker examines the mesa and the group finds the hyenas' eastbound tracks.",
+          "longSummary": "Delwath asks Kenzo, Wellby, and Seeker to help track the beasts, and all three agree despite their separate interests in Candrosa, the temple, and the lands east of Karawa. During a short preparation interval, Kenzo secures a room, Wellby equips himself for travel, and Seeker inspects the Temple of Shakun from outside, confirming a powerful convergence inside the mesa and sensing an unidentified concentration of valuable stone. Once the group regathers, Delwath and Wellby search the town's outskirts, recover the two hyenas' large claw prints heading east, and prepare to follow them with Delwath's horse and supplies.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Badya's teahouse, the caravanserai, the Temple of Shakun, and the eastern outskirts",
+            "notes": "The party handles several same-town errands before locating the attackers' trail at the edge of Karawa."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Speaker of Shakun",
+              "notes": "Kenzo and Seeker still hope to speak with him and gain access to the secretive temple."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Shakun Mystai",
+              "role": "mentioned",
+              "notes": "Seeker examines the exterior of their temple but does not gain access to its interior."
+            }
+          ]
+        },
+        {
+          "beatId": "b08",
+          "title": "Tracks into the Badlands",
+          "boundaryReason": "The party leaves Karawa, follows the attackers northeast into the canyonlands, loses the trail, and climbs to a vantage where a distant dust cloud offers a new lead.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2315",
+            "endUid": "u2808"
+          },
+          "shortSummary": "The party follows the hyenas east-northeast until their tracks vanish in rocky badlands, then climbs for a view and chooses a moving dust cloud to the north as its next lead.",
+          "longSummary": "The group follows the giant claw prints east-northeast through blooming scrub for several hours, but the trail disappears when the terrain becomes bare rock. They continue along the beasts' general heading while discussing whether magic, Shakun, or the realm of dreams might explain the attack, only to become disoriented among twisting slot and box canyons. Wellby uses a grappling hook to climb above the badlands, reestablishes Karawa's direction, spots a much deeper canyon to the east and a moving dust cloud to the north, and the party decides to intercept whatever is raising the dust.",
+          "locationHints": {
+            "refs": [
+              "Karawa",
+              "canyonlands east-northeast of Karawa"
+            ],
+            "context": "following the hyenas' tracks from scrub desert into rocky badlands",
+            "notes": "The party loses the physical trail on bare rock and ends the beat turning north toward a distant dust cloud."
+          },
+          "itemDetails": [
+            {
+              "name": "Wellby's grappling hook",
+              "role": "encountered",
+              "notes": "Wellby uses it to reach a high vantage above the canyonlands and find the party's next lead."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "The Road to Gomat",
+      "beatIds": [
+        "b09",
+        "b10"
+      ],
+      "sourceRange": {
+        "startUid": "u2809",
+        "endUid": "u3315"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2809",
+          "endUid": "u3158"
+        },
+        {
+          "startUid": "u3159",
+          "endUid": "u3315"
+        }
+      ],
+      "dateStart": "1748-03-21",
+      "dateEnd": "1748-03-22",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "canyonlands east-northeast of Karawa",
+        "old trade road toward Gomat",
+        "old trade road east of Karawa",
+        "Gomat Oasis"
+      ],
+      "npcRefs": [
+        "Alesh",
+        "giant lizards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party intercepts Alesh on the old trade road, learns of missing herders and renewed danger around Gomat, and decides to push toward the oasis.",
+        "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents."
+      ],
+      "sourceLongSummaries": [
+        "Leaving the canyonlands, the party discovers that the dust belongs to Alesh, a Dunmari scout returning from Gomat. She has seen nothing dangerous on the road itself, but reports missing herders, unsettling rumors among scouts and pastoralists, and fears that the old dangers of the Nashtkar may be returning. The blood on the hyenas and the line of their approach make Gomat the party's best lead; Alesh explains the route, identifies Akan and his family as friendly herders camped there, then rides on toward her own family while the group chooses a hurried journey to the oasis over returning to defend Karawa.",
+        "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b09",
+          "title": "Alesh on the Old Road",
+          "boundaryReason": "The party intercepts Alesh, learns about Gomat and the dangers near Nashtkar, and decides to push toward the oasis after she rides on to Karawa.",
+          "dateStart": "1748-03-21",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2809",
+            "endUid": "u3158"
+          },
+          "shortSummary": "The party intercepts Alesh on the old trade road, learns of missing herders and renewed danger around Gomat, and decides to push toward the oasis.",
+          "longSummary": "Leaving the canyonlands, the party discovers that the dust belongs to Alesh, a Dunmari scout returning from Gomat. She has seen nothing dangerous on the road itself, but reports missing herders, unsettling rumors among scouts and pastoralists, and fears that the old dangers of the Nashtkar may be returning. The blood on the hyenas and the line of their approach make Gomat the party's best lead; Alesh explains the route, identifies Akan and his family as friendly herders camped there, then rides on toward her own family while the group chooses a hurried journey to the oasis over returning to defend Karawa.",
+          "locationHints": {
+            "refs": [
+              "canyonlands east-northeast of Karawa",
+              "old trade road toward Gomat"
+            ],
+            "context": "intercepting Alesh northwest of the canyonlands and conferring beside the road",
+            "notes": "The party leaves the badlands, reaches the old road, and ends ready to follow it east toward Gomat Oasis."
+          },
+          "npcDetails": [
+            {
+              "name": "Alesh",
+              "role": "encountered",
+              "context": "Dunmari scout returning from Gomat",
+              "notes": "She shares reports of missing herders, warns about the Nashtkar, explains the road to Gomat, and then rides toward her family."
+            },
+            {
+              "name": "Akan",
+              "role": "mentioned",
+              "context": "herder camped at Gomat Oasis",
+              "notes": "Alesh recommends that the party seek him and his family for information when they reach the oasis."
+            }
+          ]
+        },
+        {
+          "beatId": "b10",
+          "title": "Nightfall at Gomat",
+          "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
+          "dateStart": "1748-03-21",
+          "dateEnd": "1748-03-22",
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3159",
+            "endUid": "u3315"
+          },
+          "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
+          "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",
+          "locationHints": {
+            "refs": [
+              "old trade road east of Karawa",
+              "Gomat Oasis"
+            ],
+            "context": "an overnight camp followed by a forced march through the desert to the oasis",
+            "notes": "The journey crosses into the following day and ends at the edge of the silent herders' camp."
+          },
+          "npcDetails": [
+            {
+              "name": "giant lizards",
+              "role": "enemy",
+              "context": "three pony-sized beasts at Gomat Oasis",
+              "notes": "They are feeding on dead sheep in the darkness and appear unaware of the party when the session ends."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "wounded villager",
+        "beatIds": [
+          "b02",
+          "b03",
+          "b04"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Beli",
+        "beatIds": [
+          "b03",
+          "b04",
+          "b06"
+        ],
+        "relationKinds": [
+          "companion",
+          "met"
+        ]
+      },
+      {
+        "name": "Badya",
+        "beatIds": [
+          "b04",
+          "b05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Candrosa",
+        "beatIds": [
+          "b06"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Kisa",
+        "beatIds": [
+          "b06"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Alesh",
+        "beatIds": [
+          "b09"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "giant lizards",
+        "beatIds": [
+          "b10"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-001",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03"
+        ],
+        "enemyRefs": [
+          "giant hyenas"
+        ],
+        "dateStart": "1748-03-21",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Karawa",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06",
+          "b07",
+          "b08"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "canyonlands east-northeast of Karawa",
+        "beatIds": [
+          "b08",
+          "b09"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "old trade road toward Gomat",
+        "beatIds": [
+          "b09"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "old trade road east of Karawa",
+        "beatIds": [
+          "b10"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Gomat Oasis",
+        "beatIds": [
+          "b10"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "wounded villager",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "young man attacked by a giant hyena",
+          "beatIds": [
+            "b02",
+            "b03",
+            "b04"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Beli",
+          "relationKinds": [
+            "companion",
+            "met"
+          ],
+          "contextHint": "Shakun initiate fighting beside the strangers",
+          "beatIds": [
+            "b03",
+            "b04",
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Badya",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "teahouse worker",
+          "beatIds": [
+            "b04",
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Candrosa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Speaker of Shakun",
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Kisa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "elder and unofficial leader of Karawa",
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Alesh",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Dunmari scout returning from Gomat",
+          "beatIds": [
+            "b09"
+          ],
+          "history": [
+            {
+              "location": "canyonlands east-northeast of Karawa -> old trade road toward Gomat",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "giant lizards",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "three pony-sized beasts at Gomat Oasis",
+          "beatIds": [
+            "b10"
+          ],
+          "history": [
+            {
+              "location": "old trade road east of Karawa -> Gomat Oasis",
+              "dateStart": "1748-03-21",
+              "dateEnd": "1748-03-22"
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Karawa",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "the western approach, the village edge, and Delwath's rooms above Badya's teahouse",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06",
+            "b07",
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "canyonlands east-northeast of Karawa",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "following the hyenas' tracks from scrub desert into rocky badlands",
+          "beatIds": [
+            "b08",
+            "b09"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "old trade road toward Gomat",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "intercepting Alesh northwest of the canyonlands and conferring beside the road",
+          "beatIds": [
+            "b09"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "old trade road east of Karawa",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "an overnight camp followed by a forced march through the desert to the oasis",
+          "beatIds": [
+            "b10"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": "1748-03-22",
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Gomat Oasis",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "an overnight camp followed by a forced march through the desert to the oasis",
+          "beatIds": [
+            "b10"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-21",
+              "dateEnd": "1748-03-22",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "Seeker's ley-line diagram",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "red ochre healing paste",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b06"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Wellby's grappling hook",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b08"
+          ],
+          "history": [
+            {
+              "location": "Karawa -> canyonlands east-northeast of Karawa",
+              "dateStart": "1748-03-21",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Akan",
+          "contextHint": "herder camped at Gomat Oasis"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-001/cleaned/dunmari-frontier-001-recap-scenes.json"
+}
