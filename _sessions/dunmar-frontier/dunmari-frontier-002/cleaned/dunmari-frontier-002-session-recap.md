@@ -180,10 +180,10 @@ Leaving Gomat behind, the party follows the lizard tracks along an [[Stoneway|an
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image:
-- Image Placement:
-- Image Render:
-- Image Caption:
+- Image: dunmar-session-2-daraar-canyon-approach.jpg
+- Image Placement: start
+- Image Render: left|600
+- Image Caption: The Dunmar Fellowship looks across Daraar Canyon into the Nashktar beyond. 
 
 #### Short
 At Daraar Canyon, sheer basalt and loose talus force them to postpone their descent until the next morning. After an uneasy night, Seeker shelters Delwath's horse in a packed-earth barn before the party crosses the canyon on foot. 
@@ -228,16 +228,16 @@ Beyond the canyon, the remnants of the ancient road cross a cracked landscape of
 - Organizations: none
 - Items: none
 - Enemies: skeletons
-- Image:
-- Image Placement:
-- Image Render:
-- Image Caption:
+- Image: skeletons-emerge-gomat-fort.jpg
+- Image Placement: end
+- Image Render: right|400
+- Image Caption: A skeleton emerges from a burial mound outside an old Dunmari fort.
 
 #### Short
 At the ruined Dunmar fort, the party destroys four skeletons that emerge from a recently disturbed burial mound, then enter the fort seeking information and answers. 
 
 #### Long
-The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defensive wall. Two large earthen mounds flank the old causeway. As the party studies the grass-covered mound and its rubble-strewn counterpart, Kenzo senses undead nearby, just as a skeletal hand breaks through the disturbed earth. Four skeletons pull themselves from the earth and attack; Kenzo meets them with staff and fists, Delwath strikes with crackling magic, Wellby fights with bow and blade, and Seeker bolsters his companions after discovering that sleep magic cannot affect the dead. Once all four skeletons are destroyed, the party finds signs that the mound was excavated recently, though they cannot identify who disturbed it or what awakened its occupants. Seeker recognizes the ruins as a Great War-era Dunmari defensive fort, and the party leaves the neighboring grassy mound untouched before passing through the gate, seeking information and answers. 
+The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defensive wall. Two large earthen mounds flank the old causeway. As the party studies the grass-covered mound and its rubble-strewn counterpart, Kenzo senses undead nearby, just as a skeletal hand breaks through the disturbed earth. Four skeletons pull themselves from the earth and attack; Kenzo meets them with staff and fists, Delwath strikes with crackling magic, Wellby fights with bow and blade, and Seeker bolsters his companions after discovering that sleep magic cannot affect the dead. Once all four skeletons are destroyed, the party finds signs that the mound was excavated recently, though they cannot identify who disturbed it or what awakened its occupants. Seeker recognizes the ruins as a Great War-era Dunmari defensive fort; the party leaves the neighboring grassy mound untouched before passing through the gate, seeking information and answers. 
 
 ## Cast
 
@@ -254,7 +254,7 @@ The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defen
 - Daraar Canyon
   - Summary: A vast, geologically unnatural chasm cutting across the ancient road into the Nashtkar.
   - Date Visited: 1748-03-24
-- Nashktar
+- Nashtkar
   - Summary: The rocky, dangerous desert beyond the Daraar Canyon. 
   - Date Visited: 1748-03-25
 - Dunmari Fort (Gomat)
