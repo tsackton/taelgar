@@ -8,20 +8,20 @@
 
 - Range: `u0001` → `u0262`
 - Lines: 262
-- Date: 1748-03-22
+- Date: 1748-03-23
 - Date Resolution: exact
 - Time Window: evening
 - Combat: no
 - Boundary Reason: The session opens with the party surveying the giant lizards and ruined camp at Gomat, then ends this beat as they commit to the attack and roll initiative.
 - Date Evidence:
-  - session.yaml starts the session on 1748-03-22
+  - session.yaml starts the session on 1748-03-23
   - the opening recap and scene description explicitly place the arrival at sunset and in early night
 
 ## b02 — Battle at Gomat
 
 - Range: `u0263` → `u0754`
 - Lines: 492
-- Date: 1748-03-22
+- Date: 1748-03-23
 - Date Resolution: exact
 - Time Window: night
 - Combat: yes
@@ -34,7 +34,7 @@
 
 - Range: `u0755` → `u1124`
 - Lines: 370
-- Date: 1748-03-22
+- Date: 1748-03-23
 - Date Resolution: exact
 - Time Window: night
 - Combat: no
@@ -47,20 +47,20 @@
 
 - Range: `u1125` → `u1302`
 - Lines: 178
-- Date: 1748-03-23
+- Date: 1748-03-24
 - Date Resolution: inferred
 - Time Window: morning
 - Combat: no
 - Boundary Reason: Morning light reveals the attack site and eastbound tracks; the party dissects a lizard before a wounded rider reaches the oasis.
 - Date Evidence:
-  - the transcript explicitly says the morning comes after the March 22 long rest
+  - the transcript explicitly says the morning comes after the March 23 long rest
   - the sun is rising while the party investigates the camp
 
 ## b05 — Akan Returns to Gomat
 
 - Range: `u1303` → `u1765`
 - Lines: 463
-- Date: 1748-03-23
+- Date: 1748-03-24
 - Date Resolution: inferred
 - Time Window: morning
 - Combat: no
@@ -73,7 +73,7 @@
 
 - Range: `u1766` → `u2154`
 - Lines: 389
-- Date: 1748-03-23
+- Date: 1748-03-24
 - Date Resolution: inferred
 - Time Window: unknown
 - Combat: no
@@ -86,7 +86,7 @@
 
 - Range: `u2155` → `u2540`
 - Lines: 386
-- Date: 1748-03-23
+- Date: 1748-03-24
 - Date Resolution: inferred
 - Time Window: evening
 - Combat: no
@@ -99,20 +99,20 @@
 
 - Range: `u2541` → `u2925`
 - Lines: 385
-- Date: 1748-03-24
+- Date: 1748-03-25
 - Date Resolution: inferred
 - Time Window: morning
 - Combat: no
 - Boundary Reason: On the next morning, the party shelters Delwath's horse, descends into Daraar Canyon, and follows converging animal tracks toward the gentler eastern ascent.
 - Date Evidence:
-  - the transcript explicitly begins this beat with the next morning after the March 23 camp
+  - the transcript explicitly begins this beat with the next morning after the March 24 camp
   - the descent and tracking occur continuously without another rest
 
 ## b09 — The Bloodthirsty Wilds
 
 - Range: `u2926` → `u3167`
 - Lines: 242
-- Date: 1748-03-24
+- Date: 1748-03-25
 - Date Resolution: inferred
 - Time Window: midday
 - Combat: no
@@ -125,7 +125,7 @@
 
 - Range: `u3168` → `u3354`
 - Lines: 187
-- Date: 1748-03-24
+- Date: 1748-03-25
 - Date Resolution: inferred
 - Time Window: midday
 - Combat: no
@@ -138,7 +138,7 @@
 
 - Range: `u3355` → `u3732`
 - Lines: 378
-- Date: 1748-03-24
+- Date: 1748-03-25
 - Date Resolution: inferred
 - Time Window: midday
 - Combat: yes
@@ -151,7 +151,7 @@
 
 - Range: `u3733` → `u4059`
 - Lines: 327
-- Date: 1748-03-24
+- Date: 1748-03-25
 - Date Resolution: inferred
 - Time Window: midday
 - Combat: no

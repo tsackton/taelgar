@@ -6,7 +6,7 @@
 ## Arrivals in Karawa
 *b01*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: no
 **Short Summary**: Kenzo recognizes Karawa from his recurring dreams as giant hyenas attack, while Delwath hears villagers calling for the elf who has defended them before.
@@ -23,7 +23,7 @@
 ## The Hyenas Charge
 *b02*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: yes (start)
 **Main Enemies**:
@@ -42,7 +42,7 @@
 ## Hyenas Brought Down
 *b03*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: yes (end)
 **Main Enemies**:
@@ -62,7 +62,7 @@
 ## Aftermath and Introductions
 *b04*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: no
 **Short Summary**: Beli runs to fetch Candrosa while Delwath and Wellby move the rescued villager into Badya's teahouse and the four strangers begin examining the attack.
@@ -82,7 +82,7 @@
 ## Strangers Find Common Ground
 *b05*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: no
 **Short Summary**: The strangers exchange names and histories while the bloody hyena corpses, Delwath's sense of distorted magic, and Seeker's ley-line research point toward a deeper mystery.
@@ -101,7 +101,7 @@
 ## Karawa Asks for Help
 *b06*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: no
 **Short Summary**: Beli heals Delwath and Kenzo before Kisa asks the strangers to investigate the escalating attacks and Candrosa reacts uneasily to the failure of Beli's magic.
@@ -121,7 +121,7 @@
 ## The Investigation Begins
 *b07*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: morning
 **Combat**: no
 **Short Summary**: Delwath recruits the other three travelers, who rest and prepare before Seeker examines the mesa and the group finds the hyenas' eastbound tracks.
@@ -138,7 +138,7 @@
 ## Tracks into the Badlands
 *b08*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: afternoon
 **Combat**: no
 **Short Summary**: The party follows the hyenas east-northeast until their tracks vanish in rocky badlands, then climbs for a view and chooses a moving dust cloud to the north as its next lead.
@@ -154,7 +154,7 @@
 ## Alesh on the Old Road
 *b09*
 
-**Date**: 1748-03-21
+**Date**: 1748-03-22
 **Time Window**: afternoon
 **Combat**: no
 **Short Summary**: The party intercepts Alesh on the old trade road, learns of missing herders and renewed danger around Gomat, and decides to push toward the oasis.
@@ -171,7 +171,7 @@
 ## Nightfall at Gomat
 *b10*
 
-**Date**: 1748-03-21 to 1748-03-22
+**Date**: 1748-03-22 to 1748-03-23
 **Time Window**: unknown
 **Combat**: no
 **Short Summary**: After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.

@@ -1,0 +1,1424 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 2,
+    "realWorldDate": "2020-06-12",
+    "drStart": "1748-03-23",
+    "drEnd": "1748-03-25"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b01"
+      ],
+      "locationRefs": [
+        "Gomat Oasis"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "At sunset, the party reaches Gomat Oasis and finds three giant lizards feeding among dead sheep and abandoned tents before committing to an attack."
+      ],
+      "sourceLongSummaries": [
+        "After recalling their journey from Karawa, the party arrives at Gomat Oasis shortly after sunset. Three giant lizards are feeding on sheep around a damaged camp, with no people visible and no immediate response from the tents. The group studies the animals and terrain, discusses whether the lizards resemble the giant hyenas that attacked Karawa, takes positions around the camp, and decides to strike before the creatures can react."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b01",
+          "title": "Lizards at Gomat Oasis",
+          "boundaryReason": "The session opens with the party surveying the giant lizards and ruined camp at Gomat, then ends this beat as they commit to the attack and roll initiative.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0262"
+          },
+          "shortSummary": "At sunset, the party reaches Gomat Oasis and finds three giant lizards feeding among dead sheep and abandoned tents before committing to an attack.",
+          "longSummary": "After recalling their journey from Karawa, the party arrives at Gomat Oasis shortly after sunset. Three giant lizards are feeding on sheep around a damaged camp, with no people visible and no immediate response from the tents. The group studies the animals and terrain, discusses whether the lizards resemble the giant hyenas that attacked Karawa, takes positions around the camp, and decides to strike before the creatures can react.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the oasis camp and surrounding tents at sunset",
+            "notes": "The party surveys the camp from the western approach before spreading out to attack."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b02",
+        "b03"
+      ],
+      "locationRefs": [
+        "Gomat Oasis"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [
+        "b02"
+      ],
+      "sourceShortSummaries": [
+        "The party battles and kills the three giant lizards at Gomat, whose relentless attacks reinforce the sense that the animals are behaving unnaturally.",
+        "After finding no magic or human remains at the damaged camp, the party considers the lizards' strange violence and spends an uneventful night at Gomat Oasis."
+      ],
+      "sourceLongSummaries": [
+        "The party attacks three giant lizards among the tents at Gomat Oasis. Delwath uses his curse, crackling blasts, and black flame; Seeker fights with crossbow fire, thunderous magic, and an enlarging projectile; Wellby shoots from range; and Kenzo closes with his staff and rapid unarmed blows. The lizards repeatedly fixate on whoever last injured them, ignoring easier prey, and continue attacking until the party kills all three.",
+        "The party searches the lizards, tents, and surrounding camp after the battle. They find no magical aura, human bodies, or clear reason for the creatures' behavior, while the damaged camp and dead sheep suggest far more killing than feeding. Recalling Alesh's report that travelers had occupied the oasis that morning, they discuss possible links to the giant hyenas, make camp, set watches, and complete a quiet long rest."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b02",
+          "title": "Battle at Gomat",
+          "boundaryReason": "The beat begins with initiative and contains the complete fight against the three giant lizards, ending once the last creature falls.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u0263",
+            "endUid": "u0754"
+          },
+          "shortSummary": "The party battles and kills the three giant lizards at Gomat, whose relentless attacks reinforce the sense that the animals are behaving unnaturally.",
+          "longSummary": "The party attacks three giant lizards among the tents at Gomat Oasis. Delwath uses his curse, crackling blasts, and black flame; Seeker fights with crossbow fire, thunderous magic, and an enlarging projectile; Wellby shoots from range; and Kenzo closes with his staff and rapid unarmed blows. The lizards repeatedly fixate on whoever last injured them, ignoring easier prey, and continue attacking until the party kills all three.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the tents and grazing ground around the oasis camp",
+            "notes": "The complete fight takes place within the abandoned camp."
+          },
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "giant lizards",
+                "notes": "Three giant lizards attack with unusual persistence and are all killed."
+              }
+            ],
+            "notes": "The beat contains the entire combat, from the party's opening attacks through the death of the final lizard."
+          }
+        },
+        {
+          "beatId": "b03",
+          "title": "Night at the Oasis",
+          "boundaryReason": "After the battle, the party searches the bodies and tents, considers the lizards' strange behavior, and camps through an uneventful night.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u0755",
+            "endUid": "u1124"
+          },
+          "shortSummary": "After finding no magic or human remains at the damaged camp, the party considers the lizards' strange violence and spends an uneventful night at Gomat Oasis.",
+          "longSummary": "The party searches the lizards, tents, and surrounding camp after the battle. They find no magical aura, human bodies, or clear reason for the creatures' behavior, while the damaged camp and dead sheep suggest far more killing than feeding. Recalling Alesh's report that travelers had occupied the oasis that morning, they discuss possible links to the giant hyenas, make camp, set watches, and complete a quiet long rest.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the damaged camp and the party's campsite beside the oasis",
+            "notes": "The party remains at Gomat through the night."
+          },
+          "npcDetails": [
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "traveler encountered on the road from Karawa",
+              "notes": "Her earlier report establishes that people were camped at Gomat on the morning before the party arrived."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b04",
+        "b05"
+      ],
+      "locationRefs": [
+        "Gomat Oasis"
+      ],
+      "npcRefs": [
+        "Akan"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "holy symbol of Chidya"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Morning light reveals the scale of the attack and lizard tracks heading east, while a wounded rider approaches Gomat from the northwest.",
+        "Akan returns to Gomat, recounts the lizard attack that killed four of his family, and recovers the survivors and their supplies before the party follows the creatures east."
+      ],
+      "sourceLongSummaries": [
+        "At sunrise, the party studies the oasis in daylight. They find extensive signs of a panicked attack, confirm that the giant lizards have ordinary anatomy despite old wounds, and distinguish lizard tracks running east along the road from the travelers' tracks leading northwest. As they investigate, a lone rider approaches cautiously from the northwest, visibly wounded and watching the camp for danger.",
+        "The rider identifies himself as Akan and explains that four giant lizards attacked his extended family during the previous day's hottest hours. They killed one lizard at great cost, leaving four of eleven family members dead, and the seven survivors fled into the northern hills without supplies. After learning that the party killed the remaining three, Akan retrieves the survivors while the group gathers the scattered belongings and finds his dead sister's holy symbol of Chidya. Akan and his family reclaim their camp and prepare to return toward Karawa, while the party decides to follow the lizard tracks east into the dangerous lands beyond Gomat."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b04",
+          "title": "Tracks in Morning Light",
+          "boundaryReason": "Morning light reveals the attack site and eastbound tracks; the party dissects a lizard before a wounded rider reaches the oasis.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1125",
+            "endUid": "u1302"
+          },
+          "shortSummary": "Morning light reveals the scale of the attack and lizard tracks heading east, while a wounded rider approaches Gomat from the northwest.",
+          "longSummary": "At sunrise, the party studies the oasis in daylight. They find extensive signs of a panicked attack, confirm that the giant lizards have ordinary anatomy despite old wounds, and distinguish lizard tracks running east along the road from the travelers' tracks leading northwest. As they investigate, a lone rider approaches cautiously from the northwest, visibly wounded and watching the camp for danger.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the camp, nearby tracks, and western approach in morning light",
+            "notes": "The approaching rider is later identified as Akan."
+          },
+          "npcDetails": [
+            {
+              "name": "Akan",
+              "role": "encountered",
+              "context": "wounded rider returning to the oasis",
+              "notes": "He approaches cautiously from the northwest before identifying himself in the next beat."
+            }
+          ]
+        },
+        {
+          "beatId": "b05",
+          "title": "Akan Returns to Gomat",
+          "boundaryReason": "The rider identifies himself as Akan, recounts the fatal lizard attack, retrieves the survivors and supplies, and helps frame the danger east of Gomat before the party departs.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1303",
+            "endUid": "u1765"
+          },
+          "shortSummary": "Akan returns to Gomat, recounts the lizard attack that killed four of his family, and recovers the survivors and their supplies before the party follows the creatures east.",
+          "longSummary": "The rider identifies himself as Akan and explains that four giant lizards attacked his extended family during the previous day's hottest hours. They killed one lizard at great cost, leaving four of eleven family members dead, and the seven survivors fled into the northern hills without supplies. After learning that the party killed the remaining three, Akan retrieves the survivors while the group gathers the scattered belongings and finds his dead sister's holy symbol of Chidya. Akan and his family reclaim their camp and prepare to return toward Karawa, while the party decides to follow the lizard tracks east into the dangerous lands beyond Gomat.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the damaged family camp and surrounding grazing ground",
+            "notes": "The party remains at the oasis until Akan's surviving family has returned and recovered its supplies."
+          },
+          "npcDetails": [
+            {
+              "name": "Akan",
+              "role": "encountered",
+              "context": "survivor of the lizard attack",
+              "notes": "He identifies the dead and surviving members of his family, retrieves the other survivors, and describes the dangers east of Gomat."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "Akan's relative and fellow traveler",
+              "notes": "Akan learns that she left before the attack and was last seen heading toward Karawa."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "holy symbol of Chidya",
+              "role": "encountered",
+              "notes": "The party finds the intricately braided wooden amulet that belonged to Akan's sister and returns it to him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "b06"
+      ],
+      "locationRefs": [
+        "Gomat Oasis",
+        "Daraar Canyon"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Following the lizard tracks east from Gomat, the party travels the ruined road through the Nashtkar and finds more animals killed with inexplicable excess violence."
+      ],
+      "sourceLongSummaries": [
+        "The party leaves Gomat Oasis and follows the clear lizard tracks east along an ancient Dunmari road. During the journey they discuss elves, Delwath's past, and the disturbing dreams that have drawn several of them toward this country. Farther east they find peccaries killed beside the road, with some partly eaten but others slaughtered and abandoned, adding another example of animals behaving with unnatural aggression as the day approaches evening."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b06",
+          "title": "East into the Nashtkar",
+          "boundaryReason": "The party follows the lizard trail east, discusses elves and dreams during the journey, and finds further evidence of unnaturally violent animals before evening approaches.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1766",
+            "endUid": "u2154"
+          },
+          "shortSummary": "Following the lizard tracks east from Gomat, the party travels the ruined road through the Nashtkar and finds more animals killed with inexplicable excess violence.",
+          "longSummary": "The party leaves Gomat Oasis and follows the clear lizard tracks east along an ancient Dunmari road. During the journey they discuss elves, Delwath's past, and the disturbing dreams that have drawn several of them toward this country. Farther east they find peccaries killed beside the road, with some partly eaten but others slaughtered and abandoned, adding another example of animals behaving with unnatural aggression as the day approaches evening.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis",
+              "Daraar Canyon"
+            ],
+            "context": "east along the ancient trade road through the Nashtkar",
+            "notes": "The beat covers the day's eastward travel and ends shortly before the party examines the canyon itself."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b07"
+      ],
+      "locationRefs": [
+        "Daraar Canyon"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party reaches Daraar Canyon, scouts its hazardous descent, finds evidence of a concealed earlier camp, and sleeps uneasily above the western rim."
+      ],
+      "sourceLongSummaries": [
+        "Late in the day, the party reaches a vast canyon whose sheer basalt formations look geologically unnatural. They examine the lizard trail, a ruined way station, and possible routes down, but the steep talus and fading light make an immediate crossing dangerous, especially for Delwath's horse. Returning to the western rim, they find traces of an earlier camp whose occupants deliberately concealed their tracks, make a fireless camp, and pass a fitful but uninterrupted night."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b07",
+          "title": "Camping Above Daraar Canyon",
+          "boundaryReason": "The party reaches the unnatural canyon late in the day, scouts a route down, discovers signs of a concealed earlier camp, and spends a fitful but uninterrupted night above the descent.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2155",
+            "endUid": "u2540"
+          },
+          "shortSummary": "The party reaches Daraar Canyon, scouts its hazardous descent, finds evidence of a concealed earlier camp, and sleeps uneasily above the western rim.",
+          "longSummary": "Late in the day, the party reaches a vast canyon whose sheer basalt formations look geologically unnatural. They examine the lizard trail, a ruined way station, and possible routes down, but the steep talus and fading light make an immediate crossing dangerous, especially for Delwath's horse. Returning to the western rim, they find traces of an earlier camp whose occupants deliberately concealed their tracks, make a fireless camp, and pass a fitful but uninterrupted night.",
+          "locationHints": {
+            "refs": [
+              "Daraar Canyon"
+            ],
+            "context": "the western rim, a ruined way station, and a scouted descent route",
+            "notes": "The party camps above the canyon after deciding not to descend before dark."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-006",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b08"
+      ],
+      "locationRefs": [
+        "Daraar Canyon western rim",
+        "Daraar Canyon eastern ascent"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party shelters Delwath's horse, descends Daraar Canyon, and finds many animal trails converging on the eastern slope, including tracks from giant lizards and hyenas."
+      ],
+      "sourceLongSummaries": [
+        "The next morning, the party decides that Delwath's horse cannot safely cross the canyon. Seeker shapes a packed-earth shelter for it, and the group makes a careful descent through loose basalt and talus to the canyon floor. On the gentler eastern side, they find numerous animal tracks converging on the ascent, including the lizard trail they have followed and giant-hyena tracks heading south, indicating that multiple aggressive creatures passed through the same area."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b08",
+          "title": "Crossing Daraar Canyon",
+          "boundaryReason": "On the next morning, the party shelters Delwath's horse, descends into Daraar Canyon, and follows converging animal tracks toward the gentler eastern ascent.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u2541",
+            "endUid": "u2925"
+          },
+          "shortSummary": "The party shelters Delwath's horse, descends Daraar Canyon, and finds many animal trails converging on the eastern slope, including tracks from giant lizards and hyenas.",
+          "longSummary": "The next morning, the party decides that Delwath's horse cannot safely cross the canyon. Seeker shapes a packed-earth shelter for it, and the group makes a careful descent through loose basalt and talus to the canyon floor. On the gentler eastern side, they find numerous animal tracks converging on the ascent, including the lizard trail they have followed and giant-hyena tracks heading south, indicating that multiple aggressive creatures passed through the same area.",
+          "locationHints": {
+            "refs": [
+              "Daraar Canyon western rim",
+              "Daraar Canyon eastern ascent"
+            ],
+            "context": "the western slope, canyon floor, and track-covered eastern side",
+            "notes": "Delwath's horse remains sheltered on the western rim while the party crosses on foot."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-007",
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "b09",
+        "b10",
+        "b11",
+        "b12"
+      ],
+      "locationRefs": [
+        "Daraar Canyon",
+        "Dunmari Fort"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "insect repellent salve"
+      ],
+      "combatBeatIds": [
+        "b11"
+      ],
+      "sourceShortSummaries": [
+        "East of Daraar Canyon, even ordinary insects seem bloodthirsty, and the party finds a poisoned giant hyena beside a dead giant scorpion while approaching a ruined fort.",
+        "The party surveys a ruined Dunmari fort and the grassy and rubble mounds outside its gate until Kenzo senses undead nearby.",
+        "Four skeletons claw out of the rubble mound and attack, but the party destroys them in a brief battle outside the fort.",
+        "The party finds signs of recent digging around the skeleton mound, identifies the ruins as a Great War-era Dunmari fort, and enters the gate as the session ends."
+      ],
+      "sourceLongSummaries": [
+        "Beyond the canyon, the ancient road crosses a cracked and violently distorted landscape toward two distant gate towers. Scorpions swarm a carcass, biting insects harass the party until Seeker shares his repellent salve, and no human tracks can be distinguished among the many animal trails. Nearer the ruins, they find a dead giant scorpion and two dead giant hyenas beside a third hyena that is poisoned, partly paralyzed, and still trying to attack; Wellby kills the suffering animal before the party continues toward the fort around lunchtime.",
+        "Approaching the abandoned fort, the party sees paired gate towers, an earthen defensive wall, surviving buildings within, and scattered foundations outside. Two mounds flank the old causeway: one grass-covered and one formed from rubble and broken stone. The group scans the ruins for magic, life, and recent tracks, and Kenzo's divine awareness detects undead near the rubble mound just before a bony arm breaks through the surface.",
+        "Four skeletons emerge from the disturbed rubble mound and rush the nearest living creatures. Kenzo meets them with his staff and fists, Delwath uses crackling and necrotic magic, Wellby attacks with bow and blade, and Seeker reinforces his companions with magical sketches after discovering that sleep magic does not affect undead. The party withstands the skeletons' attacks and destroys all four, leaving their bones scattered and partly reduced to dust beside the causeway.",
+        "After the battle, the party examines the rubble mound and concludes that its surface was disturbed recently, though they cannot determine who dug there or what awakened the dead. The skeletons are humanoid but not human, and the group considers whether they were old attackers or defenders buried outside the fort. Seeker identifies the ruins as a Dunmari defensive fort from the Great War era, built to guard the northern country, and the party decides not to excavate the neighboring grassy mound before proceeding through the gate toward the surviving buildings inside."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b09",
+          "title": "The Bloodthirsty Wilds",
+          "boundaryReason": "Beyond the canyon, the landscape and its animals display pervasive aggression as the party follows the ruined road toward two distant towers.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u2926",
+            "endUid": "u3167"
+          },
+          "shortSummary": "East of Daraar Canyon, even ordinary insects seem bloodthirsty, and the party finds a poisoned giant hyena beside a dead giant scorpion while approaching a ruined fort.",
+          "longSummary": "Beyond the canyon, the ancient road crosses a cracked and violently distorted landscape toward two distant gate towers. Scorpions swarm a carcass, biting insects harass the party until Seeker shares his repellent salve, and no human tracks can be distinguished among the many animal trails. Nearer the ruins, they find a dead giant scorpion and two dead giant hyenas beside a third hyena that is poisoned, partly paralyzed, and still trying to attack; Wellby kills the suffering animal before the party continues toward the fort around lunchtime.",
+          "locationHints": {
+            "refs": [
+              "Daraar Canyon",
+              "Dunmari Fort"
+            ],
+            "context": "the shattered ancient road east of the canyon and the approach to the distant gate towers",
+            "notes": "The beat ends as the party reaches the final approach to the fort."
+          },
+          "itemDetails": [
+            {
+              "name": "insect repellent salve",
+              "role": "encountered",
+              "notes": "Seeker carries the foul-smelling salve and shares it when biting insects harass the party."
+            }
+          ]
+        },
+        {
+          "beatId": "b10",
+          "title": "Ruined Fort and Mounds",
+          "boundaryReason": "The party studies the abandoned fort, its ruined outbuildings, and the paired grassy and rubble mounds until Kenzo senses undead near the causeway.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u3168",
+            "endUid": "u3354"
+          },
+          "shortSummary": "The party surveys a ruined Dunmari fort and the grassy and rubble mounds outside its gate until Kenzo senses undead nearby.",
+          "longSummary": "Approaching the abandoned fort, the party sees paired gate towers, an earthen defensive wall, surviving buildings within, and scattered foundations outside. Two mounds flank the old causeway: one grass-covered and one formed from rubble and broken stone. The group scans the ruins for magic, life, and recent tracks, and Kenzo's divine awareness detects undead near the rubble mound just before a bony arm breaks through the surface.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort"
+            ],
+            "context": "the ruined gate approach, causeway, and paired exterior mounds",
+            "notes": "The party remains outside the fortifications while surveying the site."
+          }
+        },
+        {
+          "beatId": "b11",
+          "title": "Skeletons from the Earth",
+          "boundaryReason": "Skeletal arms emerge from the disturbed rubble mound, beginning a complete combat that ends when Kenzo shatters the last skeleton.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u3355",
+            "endUid": "u3732"
+          },
+          "shortSummary": "Four skeletons claw out of the rubble mound and attack, but the party destroys them in a brief battle outside the fort.",
+          "longSummary": "Four skeletons emerge from the disturbed rubble mound and rush the nearest living creatures. Kenzo meets them with his staff and fists, Delwath uses crackling and necrotic magic, Wellby attacks with bow and blade, and Seeker reinforces his companions with magical sketches after discovering that sleep magic does not affect undead. The party withstands the skeletons' attacks and destroys all four, leaving their bones scattered and partly reduced to dust beside the causeway.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort"
+            ],
+            "context": "the causeway and disturbed rubble mound outside the fort gate",
+            "notes": "The complete combat occurs outside the fortifications."
+          },
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "skeletons",
+                "notes": "Four nonhuman humanoid skeletons emerge from the rubble mound and are destroyed."
+              }
+            ],
+            "notes": "The beat contains the entire combat from the skeletons' emergence through the destruction of the last one."
+          }
+        },
+        {
+          "beatId": "b12",
+          "title": "Reading the Disturbed Ground",
+          "boundaryReason": "After the battle, the party investigates the recently disturbed mound, identifies the fort's Great War design, and enters the fort as the session ends.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u3733",
+            "endUid": "u4059"
+          },
+          "shortSummary": "The party finds signs of recent digging around the skeleton mound, identifies the ruins as a Great War-era Dunmari fort, and enters the gate as the session ends.",
+          "longSummary": "After the battle, the party examines the rubble mound and concludes that its surface was disturbed recently, though they cannot determine who dug there or what awakened the dead. The skeletons are humanoid but not human, and the group considers whether they were old attackers or defenders buried outside the fort. Seeker identifies the ruins as a Dunmari defensive fort from the Great War era, built to guard the northern country, and the party decides not to excavate the neighboring grassy mound before proceeding through the gate toward the surviving buildings inside.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort"
+            ],
+            "context": "the exterior mounds, causeway, gate towers, and first view into the fort interior",
+            "notes": "The session ends as the party enters the fort."
+          }
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "combat",
+      "title": "Lizards at Gomat Oasis",
+      "beatIds": [
+        "b01",
+        "b02",
+        "b03"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u1124"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0262"
+        },
+        {
+          "startUid": "u0263",
+          "endUid": "u0754"
+        },
+        {
+          "startUid": "u0755",
+          "endUid": "u1124"
+        }
+      ],
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Gomat Oasis"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "giant lizards"
+      ],
+      "sourceShortSummaries": [
+        "At sunset, the party reaches Gomat Oasis and finds three giant lizards feeding among dead sheep and abandoned tents before committing to an attack.",
+        "The party battles and kills the three giant lizards at Gomat, whose relentless attacks reinforce the sense that the animals are behaving unnaturally.",
+        "After finding no magic or human remains at the damaged camp, the party considers the lizards' strange violence and spends an uneventful night at Gomat Oasis."
+      ],
+      "sourceLongSummaries": [
+        "After recalling their journey from Karawa, the party arrives at Gomat Oasis shortly after sunset. Three giant lizards are feeding on sheep around a damaged camp, with no people visible and no immediate response from the tents. The group studies the animals and terrain, discusses whether the lizards resemble the giant hyenas that attacked Karawa, takes positions around the camp, and decides to strike before the creatures can react.",
+        "The party attacks three giant lizards among the tents at Gomat Oasis. Delwath uses his curse, crackling blasts, and black flame; Seeker fights with crossbow fire, thunderous magic, and an enlarging projectile; Wellby shoots from range; and Kenzo closes with his staff and rapid unarmed blows. The lizards repeatedly fixate on whoever last injured them, ignoring easier prey, and continue attacking until the party kills all three.",
+        "The party searches the lizards, tents, and surrounding camp after the battle. They find no magical aura, human bodies, or clear reason for the creatures' behavior, while the damaged camp and dead sheep suggest far more killing than feeding. Recalling Alesh's report that travelers had occupied the oasis that morning, they discuss possible links to the giant hyenas, make camp, set watches, and complete a quiet long rest."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b01",
+          "title": "Lizards at Gomat Oasis",
+          "boundaryReason": "The session opens with the party surveying the giant lizards and ruined camp at Gomat, then ends this beat as they commit to the attack and roll initiative.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0262"
+          },
+          "shortSummary": "At sunset, the party reaches Gomat Oasis and finds three giant lizards feeding among dead sheep and abandoned tents before committing to an attack.",
+          "longSummary": "After recalling their journey from Karawa, the party arrives at Gomat Oasis shortly after sunset. Three giant lizards are feeding on sheep around a damaged camp, with no people visible and no immediate response from the tents. The group studies the animals and terrain, discusses whether the lizards resemble the giant hyenas that attacked Karawa, takes positions around the camp, and decides to strike before the creatures can react.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the oasis camp and surrounding tents at sunset",
+            "notes": "The party surveys the camp from the western approach before spreading out to attack."
+          }
+        },
+        {
+          "beatId": "b02",
+          "title": "Battle at Gomat",
+          "boundaryReason": "The beat begins with initiative and contains the complete fight against the three giant lizards, ending once the last creature falls.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u0263",
+            "endUid": "u0754"
+          },
+          "shortSummary": "The party battles and kills the three giant lizards at Gomat, whose relentless attacks reinforce the sense that the animals are behaving unnaturally.",
+          "longSummary": "The party attacks three giant lizards among the tents at Gomat Oasis. Delwath uses his curse, crackling blasts, and black flame; Seeker fights with crossbow fire, thunderous magic, and an enlarging projectile; Wellby shoots from range; and Kenzo closes with his staff and rapid unarmed blows. The lizards repeatedly fixate on whoever last injured them, ignoring easier prey, and continue attacking until the party kills all three.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the tents and grazing ground around the oasis camp",
+            "notes": "The complete fight takes place within the abandoned camp."
+          },
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "giant lizards",
+                "notes": "Three giant lizards attack with unusual persistence and are all killed."
+              }
+            ],
+            "notes": "The beat contains the entire combat, from the party's opening attacks through the death of the final lizard."
+          }
+        },
+        {
+          "beatId": "b03",
+          "title": "Night at the Oasis",
+          "boundaryReason": "After the battle, the party searches the bodies and tents, considers the lizards' strange behavior, and camps through an uneventful night.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u0755",
+            "endUid": "u1124"
+          },
+          "shortSummary": "After finding no magic or human remains at the damaged camp, the party considers the lizards' strange violence and spends an uneventful night at Gomat Oasis.",
+          "longSummary": "The party searches the lizards, tents, and surrounding camp after the battle. They find no magical aura, human bodies, or clear reason for the creatures' behavior, while the damaged camp and dead sheep suggest far more killing than feeding. Recalling Alesh's report that travelers had occupied the oasis that morning, they discuss possible links to the giant hyenas, make camp, set watches, and complete a quiet long rest.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the damaged camp and the party's campsite beside the oasis",
+            "notes": "The party remains at Gomat through the night."
+          },
+          "npcDetails": [
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "traveler encountered on the road from Karawa",
+              "notes": "Her earlier report establishes that people were camped at Gomat on the morning before the party arrived."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Akan Returns to Gomat",
+      "beatIds": [
+        "b04",
+        "b05"
+      ],
+      "sourceRange": {
+        "startUid": "u1125",
+        "endUid": "u1765"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1125",
+          "endUid": "u1302"
+        },
+        {
+          "startUid": "u1303",
+          "endUid": "u1765"
+        }
+      ],
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Gomat Oasis"
+      ],
+      "npcRefs": [
+        "Akan"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "holy symbol of Chidya"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Morning light reveals the scale of the attack and lizard tracks heading east, while a wounded rider approaches Gomat from the northwest.",
+        "Akan returns to Gomat, recounts the lizard attack that killed four of his family, and recovers the survivors and their supplies before the party follows the creatures east."
+      ],
+      "sourceLongSummaries": [
+        "At sunrise, the party studies the oasis in daylight. They find extensive signs of a panicked attack, confirm that the giant lizards have ordinary anatomy despite old wounds, and distinguish lizard tracks running east along the road from the travelers' tracks leading northwest. As they investigate, a lone rider approaches cautiously from the northwest, visibly wounded and watching the camp for danger.",
+        "The rider identifies himself as Akan and explains that four giant lizards attacked his extended family during the previous day's hottest hours. They killed one lizard at great cost, leaving four of eleven family members dead, and the seven survivors fled into the northern hills without supplies. After learning that the party killed the remaining three, Akan retrieves the survivors while the group gathers the scattered belongings and finds his dead sister's holy symbol of Chidya. Akan and his family reclaim their camp and prepare to return toward Karawa, while the party decides to follow the lizard tracks east into the dangerous lands beyond Gomat."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b04",
+          "title": "Tracks in Morning Light",
+          "boundaryReason": "Morning light reveals the attack site and eastbound tracks; the party dissects a lizard before a wounded rider reaches the oasis.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1125",
+            "endUid": "u1302"
+          },
+          "shortSummary": "Morning light reveals the scale of the attack and lizard tracks heading east, while a wounded rider approaches Gomat from the northwest.",
+          "longSummary": "At sunrise, the party studies the oasis in daylight. They find extensive signs of a panicked attack, confirm that the giant lizards have ordinary anatomy despite old wounds, and distinguish lizard tracks running east along the road from the travelers' tracks leading northwest. As they investigate, a lone rider approaches cautiously from the northwest, visibly wounded and watching the camp for danger.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the camp, nearby tracks, and western approach in morning light",
+            "notes": "The approaching rider is later identified as Akan."
+          },
+          "npcDetails": [
+            {
+              "name": "Akan",
+              "role": "encountered",
+              "context": "wounded rider returning to the oasis",
+              "notes": "He approaches cautiously from the northwest before identifying himself in the next beat."
+            }
+          ]
+        },
+        {
+          "beatId": "b05",
+          "title": "Akan Returns to Gomat",
+          "boundaryReason": "The rider identifies himself as Akan, recounts the fatal lizard attack, retrieves the survivors and supplies, and helps frame the danger east of Gomat before the party departs.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u1303",
+            "endUid": "u1765"
+          },
+          "shortSummary": "Akan returns to Gomat, recounts the lizard attack that killed four of his family, and recovers the survivors and their supplies before the party follows the creatures east.",
+          "longSummary": "The rider identifies himself as Akan and explains that four giant lizards attacked his extended family during the previous day's hottest hours. They killed one lizard at great cost, leaving four of eleven family members dead, and the seven survivors fled into the northern hills without supplies. After learning that the party killed the remaining three, Akan retrieves the survivors while the group gathers the scattered belongings and finds his dead sister's holy symbol of Chidya. Akan and his family reclaim their camp and prepare to return toward Karawa, while the party decides to follow the lizard tracks east into the dangerous lands beyond Gomat.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis"
+            ],
+            "context": "the damaged family camp and surrounding grazing ground",
+            "notes": "The party remains at the oasis until Akan's surviving family has returned and recovered its supplies."
+          },
+          "npcDetails": [
+            {
+              "name": "Akan",
+              "role": "encountered",
+              "context": "survivor of the lizard attack",
+              "notes": "He identifies the dead and surviving members of his family, retrieves the other survivors, and describes the dangers east of Gomat."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "Akan's relative and fellow traveler",
+              "notes": "Akan learns that she left before the attack and was last seen heading toward Karawa."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "holy symbol of Chidya",
+              "role": "encountered",
+              "notes": "The party finds the intricately braided wooden amulet that belonged to Akan's sister and returns it to him."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "East into the Nashtkar",
+      "beatIds": [
+        "b06"
+      ],
+      "sourceRange": {
+        "startUid": "u1766",
+        "endUid": "u2154"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1766",
+          "endUid": "u2154"
+        }
+      ],
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Gomat Oasis",
+        "Daraar Canyon"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Following the lizard tracks east from Gomat, the party travels the ruined road through the Nashtkar and finds more animals killed with inexplicable excess violence."
+      ],
+      "sourceLongSummaries": [
+        "The party leaves Gomat Oasis and follows the clear lizard tracks east along an ancient Dunmari road. During the journey they discuss elves, Delwath's past, and the disturbing dreams that have drawn several of them toward this country. Farther east they find peccaries killed beside the road, with some partly eaten but others slaughtered and abandoned, adding another example of animals behaving with unnatural aggression as the day approaches evening."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b06",
+          "title": "East into the Nashtkar",
+          "boundaryReason": "The party follows the lizard trail east, discusses elves and dreams during the journey, and finds further evidence of unnaturally violent animals before evening approaches.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1766",
+            "endUid": "u2154"
+          },
+          "shortSummary": "Following the lizard tracks east from Gomat, the party travels the ruined road through the Nashtkar and finds more animals killed with inexplicable excess violence.",
+          "longSummary": "The party leaves Gomat Oasis and follows the clear lizard tracks east along an ancient Dunmari road. During the journey they discuss elves, Delwath's past, and the disturbing dreams that have drawn several of them toward this country. Farther east they find peccaries killed beside the road, with some partly eaten but others slaughtered and abandoned, adding another example of animals behaving with unnatural aggression as the day approaches evening.",
+          "locationHints": {
+            "refs": [
+              "Gomat Oasis",
+              "Daraar Canyon"
+            ],
+            "context": "east along the ancient trade road through the Nashtkar",
+            "notes": "The beat covers the day's eastward travel and ends shortly before the party examines the canyon itself."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Crossing Daraar Canyon",
+      "beatIds": [
+        "b07",
+        "b08"
+      ],
+      "sourceRange": {
+        "startUid": "u2155",
+        "endUid": "u2925"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2155",
+          "endUid": "u2540"
+        },
+        {
+          "startUid": "u2541",
+          "endUid": "u2925"
+        }
+      ],
+      "dateStart": "1748-03-24",
+      "dateEnd": "1748-03-25",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Daraar Canyon",
+        "Daraar Canyon western rim",
+        "Daraar Canyon eastern ascent"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party reaches Daraar Canyon, scouts its hazardous descent, finds evidence of a concealed earlier camp, and sleeps uneasily above the western rim.",
+        "The party shelters Delwath's horse, descends Daraar Canyon, and finds many animal trails converging on the eastern slope, including tracks from giant lizards and hyenas."
+      ],
+      "sourceLongSummaries": [
+        "Late in the day, the party reaches a vast canyon whose sheer basalt formations look geologically unnatural. They examine the lizard trail, a ruined way station, and possible routes down, but the steep talus and fading light make an immediate crossing dangerous, especially for Delwath's horse. Returning to the western rim, they find traces of an earlier camp whose occupants deliberately concealed their tracks, make a fireless camp, and pass a fitful but uninterrupted night.",
+        "The next morning, the party decides that Delwath's horse cannot safely cross the canyon. Seeker shapes a packed-earth shelter for it, and the group makes a careful descent through loose basalt and talus to the canyon floor. On the gentler eastern side, they find numerous animal tracks converging on the ascent, including the lizard trail they have followed and giant-hyena tracks heading south, indicating that multiple aggressive creatures passed through the same area."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b07",
+          "title": "Camping Above Daraar Canyon",
+          "boundaryReason": "The party reaches the unnatural canyon late in the day, scouts a route down, discovers signs of a concealed earlier camp, and spends a fitful but uninterrupted night above the descent.",
+          "dateStart": "1748-03-24",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2155",
+            "endUid": "u2540"
+          },
+          "shortSummary": "The party reaches Daraar Canyon, scouts its hazardous descent, finds evidence of a concealed earlier camp, and sleeps uneasily above the western rim.",
+          "longSummary": "Late in the day, the party reaches a vast canyon whose sheer basalt formations look geologically unnatural. They examine the lizard trail, a ruined way station, and possible routes down, but the steep talus and fading light make an immediate crossing dangerous, especially for Delwath's horse. Returning to the western rim, they find traces of an earlier camp whose occupants deliberately concealed their tracks, make a fireless camp, and pass a fitful but uninterrupted night.",
+          "locationHints": {
+            "refs": [
+              "Daraar Canyon"
+            ],
+            "context": "the western rim, a ruined way station, and a scouted descent route",
+            "notes": "The party camps above the canyon after deciding not to descend before dark."
+          }
+        },
+        {
+          "beatId": "b08",
+          "title": "Crossing Daraar Canyon",
+          "boundaryReason": "On the next morning, the party shelters Delwath's horse, descends into Daraar Canyon, and follows converging animal tracks toward the gentler eastern ascent.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u2541",
+            "endUid": "u2925"
+          },
+          "shortSummary": "The party shelters Delwath's horse, descends Daraar Canyon, and finds many animal trails converging on the eastern slope, including tracks from giant lizards and hyenas.",
+          "longSummary": "The next morning, the party decides that Delwath's horse cannot safely cross the canyon. Seeker shapes a packed-earth shelter for it, and the group makes a careful descent through loose basalt and talus to the canyon floor. On the gentler eastern side, they find numerous animal tracks converging on the ascent, including the lizard trail they have followed and giant-hyena tracks heading south, indicating that multiple aggressive creatures passed through the same area.",
+          "locationHints": {
+            "refs": [
+              "Daraar Canyon western rim",
+              "Daraar Canyon eastern ascent"
+            ],
+            "context": "the western slope, canyon floor, and track-covered eastern side",
+            "notes": "Delwath's horse remains sheltered on the western rim while the party crosses on foot."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "The Bloodthirsty Wilds",
+      "beatIds": [
+        "b09"
+      ],
+      "sourceRange": {
+        "startUid": "u2926",
+        "endUid": "u3167"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2926",
+          "endUid": "u3167"
+        }
+      ],
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Daraar Canyon",
+        "Dunmari Fort"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "insect repellent salve"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "East of Daraar Canyon, even ordinary insects seem bloodthirsty, and the party finds a poisoned giant hyena beside a dead giant scorpion while approaching a ruined fort."
+      ],
+      "sourceLongSummaries": [
+        "Beyond the canyon, the ancient road crosses a cracked and violently distorted landscape toward two distant gate towers. Scorpions swarm a carcass, biting insects harass the party until Seeker shares his repellent salve, and no human tracks can be distinguished among the many animal trails. Nearer the ruins, they find a dead giant scorpion and two dead giant hyenas beside a third hyena that is poisoned, partly paralyzed, and still trying to attack; Wellby kills the suffering animal before the party continues toward the fort around lunchtime."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b09",
+          "title": "The Bloodthirsty Wilds",
+          "boundaryReason": "Beyond the canyon, the landscape and its animals display pervasive aggression as the party follows the ruined road toward two distant towers.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u2926",
+            "endUid": "u3167"
+          },
+          "shortSummary": "East of Daraar Canyon, even ordinary insects seem bloodthirsty, and the party finds a poisoned giant hyena beside a dead giant scorpion while approaching a ruined fort.",
+          "longSummary": "Beyond the canyon, the ancient road crosses a cracked and violently distorted landscape toward two distant gate towers. Scorpions swarm a carcass, biting insects harass the party until Seeker shares his repellent salve, and no human tracks can be distinguished among the many animal trails. Nearer the ruins, they find a dead giant scorpion and two dead giant hyenas beside a third hyena that is poisoned, partly paralyzed, and still trying to attack; Wellby kills the suffering animal before the party continues toward the fort around lunchtime.",
+          "locationHints": {
+            "refs": [
+              "Daraar Canyon",
+              "Dunmari Fort"
+            ],
+            "context": "the shattered ancient road east of the canyon and the approach to the distant gate towers",
+            "notes": "The beat ends as the party reaches the final approach to the fort."
+          },
+          "itemDetails": [
+            {
+              "name": "insect repellent salve",
+              "role": "encountered",
+              "notes": "Seeker carries the foul-smelling salve and shares it when biting insects harass the party."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "combat",
+      "title": "Skeletons at the Ruined Fort",
+      "beatIds": [
+        "b10",
+        "b11",
+        "b12"
+      ],
+      "sourceRange": {
+        "startUid": "u3168",
+        "endUid": "u4059"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u3168",
+          "endUid": "u3354"
+        },
+        {
+          "startUid": "u3355",
+          "endUid": "u3732"
+        },
+        {
+          "startUid": "u3733",
+          "endUid": "u4059"
+        }
+      ],
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dunmari Fort"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "skeletons"
+      ],
+      "sourceShortSummaries": [
+        "The party surveys a ruined Dunmari fort and the grassy and rubble mounds outside its gate until Kenzo senses undead nearby.",
+        "Four skeletons claw out of the rubble mound and attack, but the party destroys them in a brief battle outside the fort.",
+        "The party finds signs of recent digging around the skeleton mound, identifies the ruins as a Great War-era Dunmari fort, and enters the gate as the session ends."
+      ],
+      "sourceLongSummaries": [
+        "Approaching the abandoned fort, the party sees paired gate towers, an earthen defensive wall, surviving buildings within, and scattered foundations outside. Two mounds flank the old causeway: one grass-covered and one formed from rubble and broken stone. The group scans the ruins for magic, life, and recent tracks, and Kenzo's divine awareness detects undead near the rubble mound just before a bony arm breaks through the surface.",
+        "Four skeletons emerge from the disturbed rubble mound and rush the nearest living creatures. Kenzo meets them with his staff and fists, Delwath uses crackling and necrotic magic, Wellby attacks with bow and blade, and Seeker reinforces his companions with magical sketches after discovering that sleep magic does not affect undead. The party withstands the skeletons' attacks and destroys all four, leaving their bones scattered and partly reduced to dust beside the causeway.",
+        "After the battle, the party examines the rubble mound and concludes that its surface was disturbed recently, though they cannot determine who dug there or what awakened the dead. The skeletons are humanoid but not human, and the group considers whether they were old attackers or defenders buried outside the fort. Seeker identifies the ruins as a Dunmari defensive fort from the Great War era, built to guard the northern country, and the party decides not to excavate the neighboring grassy mound before proceeding through the gate toward the surviving buildings inside."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b10",
+          "title": "Ruined Fort and Mounds",
+          "boundaryReason": "The party studies the abandoned fort, its ruined outbuildings, and the paired grassy and rubble mounds until Kenzo senses undead near the causeway.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u3168",
+            "endUid": "u3354"
+          },
+          "shortSummary": "The party surveys a ruined Dunmari fort and the grassy and rubble mounds outside its gate until Kenzo senses undead nearby.",
+          "longSummary": "Approaching the abandoned fort, the party sees paired gate towers, an earthen defensive wall, surviving buildings within, and scattered foundations outside. Two mounds flank the old causeway: one grass-covered and one formed from rubble and broken stone. The group scans the ruins for magic, life, and recent tracks, and Kenzo's divine awareness detects undead near the rubble mound just before a bony arm breaks through the surface.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort"
+            ],
+            "context": "the ruined gate approach, causeway, and paired exterior mounds",
+            "notes": "The party remains outside the fortifications while surveying the site."
+          }
+        },
+        {
+          "beatId": "b11",
+          "title": "Skeletons from the Earth",
+          "boundaryReason": "Skeletal arms emerge from the disturbed rubble mound, beginning a complete combat that ends when Kenzo shatters the last skeleton.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u3355",
+            "endUid": "u3732"
+          },
+          "shortSummary": "Four skeletons claw out of the rubble mound and attack, but the party destroys them in a brief battle outside the fort.",
+          "longSummary": "Four skeletons emerge from the disturbed rubble mound and rush the nearest living creatures. Kenzo meets them with his staff and fists, Delwath uses crackling and necrotic magic, Wellby attacks with bow and blade, and Seeker reinforces his companions with magical sketches after discovering that sleep magic does not affect undead. The party withstands the skeletons' attacks and destroys all four, leaving their bones scattered and partly reduced to dust beside the causeway.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort"
+            ],
+            "context": "the causeway and disturbed rubble mound outside the fort gate",
+            "notes": "The complete combat occurs outside the fortifications."
+          },
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "skeletons",
+                "notes": "Four nonhuman humanoid skeletons emerge from the rubble mound and are destroyed."
+              }
+            ],
+            "notes": "The beat contains the entire combat from the skeletons' emergence through the destruction of the last one."
+          }
+        },
+        {
+          "beatId": "b12",
+          "title": "Reading the Disturbed Ground",
+          "boundaryReason": "After the battle, the party investigates the recently disturbed mound, identifies the fort's Great War design, and enters the fort as the session ends.",
+          "dateStart": "1748-03-25",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u3733",
+            "endUid": "u4059"
+          },
+          "shortSummary": "The party finds signs of recent digging around the skeleton mound, identifies the ruins as a Great War-era Dunmari fort, and enters the gate as the session ends.",
+          "longSummary": "After the battle, the party examines the rubble mound and concludes that its surface was disturbed recently, though they cannot determine who dug there or what awakened the dead. The skeletons are humanoid but not human, and the group considers whether they were old attackers or defenders buried outside the fort. Seeker identifies the ruins as a Dunmari defensive fort from the Great War era, built to guard the northern country, and the party decides not to excavate the neighboring grassy mound before proceeding through the gate toward the surviving buildings inside.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort"
+            ],
+            "context": "the exterior mounds, causeway, gate towers, and first view into the fort interior",
+            "notes": "The session ends as the party enters the fort."
+          }
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Akan",
+        "beatIds": [
+          "b04",
+          "b05"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-001",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03"
+        ],
+        "enemyRefs": [
+          "giant lizards"
+        ],
+        "dateStart": "1748-03-23",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-006",
+        "beatIds": [
+          "b10",
+          "b11",
+          "b12"
+        ],
+        "enemyRefs": [
+          "skeletons"
+        ],
+        "dateStart": "1748-03-25",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Gomat Oasis",
+        "beatIds": [
+          "b01",
+          "b02",
+          "b03",
+          "b04",
+          "b05",
+          "b06"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Daraar Canyon",
+        "beatIds": [
+          "b06",
+          "b07",
+          "b09"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Daraar Canyon western rim",
+        "beatIds": [
+          "b08"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Daraar Canyon eastern ascent",
+        "beatIds": [
+          "b08"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Dunmari Fort",
+        "beatIds": [
+          "b09",
+          "b10",
+          "b11",
+          "b12"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Akan",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "wounded rider returning to the oasis",
+          "beatIds": [
+            "b04",
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Gomat Oasis",
+              "dateStart": "1748-03-24",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Gomat Oasis",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "the oasis camp and surrounding tents at sunset",
+          "beatIds": [
+            "b01",
+            "b02",
+            "b03",
+            "b04",
+            "b05",
+            "b06"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-23",
+              "dateEnd": "1748-03-24",
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-03-24",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Daraar Canyon",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "east along the ancient trade road through the Nashtkar",
+          "beatIds": [
+            "b06",
+            "b07",
+            "b09"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-24",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-03-25",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Daraar Canyon western rim",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "the western slope, canyon floor, and track-covered eastern side",
+          "beatIds": [
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-25",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Daraar Canyon eastern ascent",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the western slope, canyon floor, and track-covered eastern side",
+          "beatIds": [
+            "b08"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-25",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Dunmari Fort",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the shattered ancient road east of the canyon and the approach to the distant gate towers",
+          "beatIds": [
+            "b09",
+            "b10",
+            "b11",
+            "b12"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-25",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "holy symbol of Chidya",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b05"
+          ],
+          "history": [
+            {
+              "location": "Gomat Oasis",
+              "dateStart": "1748-03-24",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "insect repellent salve",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b09"
+          ],
+          "history": [
+            {
+              "location": "Daraar Canyon -> Dunmari Fort",
+              "dateStart": "1748-03-25",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Alesh",
+          "contextHint": "traveler encountered on the road from Karawa"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-recap-scenes.json"
+}

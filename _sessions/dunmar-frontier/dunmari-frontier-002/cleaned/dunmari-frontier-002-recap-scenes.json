@@ -1,0 +1,41 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Lizards at Gomat Oasis",
+      "beatIds": ["b01", "b02", "b03"],
+      "rationale": "The approach, battle, aftermath, and overnight rest are one continuous effort to secure the abandoned camp at Gomat."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Akan Returns to Gomat",
+      "beatIds": ["b04", "b05"],
+      "rationale": "The morning investigation leads directly into Akan's return, his account of the attack, and the recovery of his surviving family."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "East into the Nashtkar",
+      "beatIds": ["b06"],
+      "rationale": "Leaving Gomat begins a distinct travel situation centered on following the lizard tracks and finding further evidence of unnatural violence."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Crossing Daraar Canyon",
+      "beatIds": ["b07", "b08"],
+      "rationale": "Scouting, camping above, and crossing the canyon all concern the same physical obstacle despite the overnight date boundary."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Bloodthirsty Wilds",
+      "beatIds": ["b09"],
+      "rationale": "The terrain east of the canyon presents a new situation in which pervasive animal aggression accompanies the approach to the distant fort."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Skeletons at the Ruined Fort",
+      "beatIds": ["b10", "b11", "b12"],
+      "rationale": "The fort survey, skeleton attack, and post-battle investigation form one continuous encounter at the same site with the same immediate goal."
+    }
+  ]
+}

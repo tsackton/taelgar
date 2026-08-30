@@ -4,7 +4,7 @@
   "facts": [
     {
       "beatId": "b01",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "Kenzo recognizes Karawa from his recurring dreams as giant hyenas attack, while Delwath hears villagers calling for the elf who has defended them before.",
@@ -37,7 +37,7 @@
     },
     {
       "beatId": "b02",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "The four strangers converge at Karawa's edge and enter battle with two giant hyenas before Kenzo batters one with his staff and bare hands.",
@@ -72,7 +72,7 @@
     },
     {
       "beatId": "b03",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "Kenzo kills one hyena while Delwath, Seeker, and Wellby combine magic, terrain, and a precise final strike to bring down the second and save a wounded villager.",
@@ -113,7 +113,7 @@
     },
     {
       "beatId": "b04",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "Beli runs to fetch Candrosa while Delwath and Wellby move the rescued villager into Badya's teahouse and the four strangers begin examining the attack.",
@@ -164,7 +164,7 @@
     },
     {
       "beatId": "b05",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "The strangers exchange names and histories while the bloody hyena corpses, Delwath's sense of distorted magic, and Seeker's ley-line research point toward a deeper mystery.",
@@ -209,7 +209,7 @@
     },
     {
       "beatId": "b06",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "Beli heals Delwath and Kenzo before Kisa asks the strangers to investigate the escalating attacks and Candrosa reacts uneasily to the failure of Beli's magic.",
@@ -260,7 +260,7 @@
     },
     {
       "beatId": "b07",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "shortSummary": "Delwath recruits the other three travelers, who rest and prepare before Seeker examines the mesa and the group finds the hyenas' eastbound tracks.",
@@ -293,7 +293,7 @@
     },
     {
       "beatId": "b08",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "afternoon",
       "shortSummary": "The party follows the hyenas east-northeast until their tracks vanish in rocky badlands, then climbs for a view and chooses a moving dust cloud to the north as its next lead.",
@@ -320,7 +320,7 @@
     },
     {
       "beatId": "b09",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "afternoon",
       "shortSummary": "The party intercepts Alesh on the old trade road, learns of missing herders and renewed danger around Gomat, and decides to push toward the oasis.",
@@ -354,8 +354,8 @@
     },
     {
       "beatId": "b10",
-      "dateStart": "1748-03-21",
-      "dateEnd": "1748-03-22",
+      "dateStart": "1748-03-22",
+      "dateEnd": "1748-03-23",
       "timeWindow": null,
       "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
       "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",

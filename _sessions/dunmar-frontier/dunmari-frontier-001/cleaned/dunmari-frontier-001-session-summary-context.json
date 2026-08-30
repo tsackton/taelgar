@@ -8,13 +8,13 @@
     "scope": "session",
     "sessionNumber": 1,
     "realWorldDate": "2020-05-29",
-    "drStart": "1748-03-21",
-    "drEnd": "1748-03-22"
+    "drStart": "1748-03-22",
+    "drEnd": "1748-03-23"
   },
   "timelineBlocks": [
     {
       "blockId": "timeline-001",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "resolution": "part-of-day",
@@ -71,7 +71,7 @@
           "beatId": "b01",
           "title": "Arrivals in Karawa",
           "boundaryReason": "The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -107,7 +107,7 @@
           "beatId": "b02",
           "title": "The Hyenas Charge",
           "boundaryReason": "The four characters converge, size one another up amid the emergency, and enter combat; the beat ends after Kenzo's opening flurry before the hyena's counterattack.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -147,7 +147,7 @@
           "beatId": "b03",
           "title": "Hyenas Brought Down",
           "boundaryReason": "The hyenas answer the party's first attacks and the remaining combat plays through to Wellby's killing strike on the final beast.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -193,7 +193,7 @@
           "beatId": "b04",
           "title": "Aftermath and Introductions",
           "boundaryReason": "With the hyenas dead, the villagers scatter for help while the strangers tend the wounded, inspect the bodies, and begin introducing themselves.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -247,7 +247,7 @@
           "beatId": "b05",
           "title": "Strangers Find Common Ground",
           "boundaryReason": "The four strangers trade names and histories, compare what brought them to Karawa, and discover Delwath's concern about a disturbance in the Weave before help arrives.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -296,7 +296,7 @@
           "beatId": "b06",
           "title": "Karawa Asks for Help",
           "boundaryReason": "Beli, Kisa, and Candrosa arrive to heal the wounded and assess the attack; Kisa asks Delwath to investigate after Beli's magic fails and the leaders depart.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -351,7 +351,7 @@
           "beatId": "b07",
           "title": "The Investigation Begins",
           "boundaryReason": "Delwath recruits the other three, the new group rests and equips itself, and Seeker visits the temple before everyone regathers to follow the beasts' tracks.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -387,7 +387,7 @@
     },
     {
       "blockId": "timeline-002",
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "afternoon",
       "resolution": "part-of-day",
@@ -421,7 +421,7 @@
           "beatId": "b08",
           "title": "Tracks into the Badlands",
           "boundaryReason": "The party leaves Karawa, follows the attackers northeast into the canyonlands, loses the trail, and climbs to a vantage where a distant dust cloud offers a new lead.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
@@ -450,7 +450,7 @@
           "beatId": "b09",
           "title": "Alesh on the Old Road",
           "boundaryReason": "The party intercepts Alesh, learns about Gomat and the dangers near Nashtkar, and decides to push toward the oasis after she rides on to Karawa.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
@@ -486,69 +486,6 @@
     },
     {
       "blockId": "timeline-003",
-      "dateStart": "1748-03-21",
-      "dateEnd": null,
-      "timeWindow": null,
-      "resolution": "day",
-      "beatIds": [
-        "b10"
-      ],
-      "locationRefs": [
-        "old trade road east of Karawa",
-        "Gomat Oasis"
-      ],
-      "npcRefs": [
-        "giant lizards"
-      ],
-      "organizationRefs": [],
-      "itemRefs": [],
-      "combatBeatIds": [],
-      "sourceShortSummaries": [
-        "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents."
-      ],
-      "sourceLongSummaries": [
-        "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party."
-      ],
-      "sourceEntries": [
-        {
-          "beatId": "b10",
-          "title": "Nightfall at Gomat",
-          "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
-          "dateStart": "1748-03-21",
-          "dateEnd": null,
-          "timeWindow": null,
-          "sourceRange": {
-            "startUid": "u3159",
-            "endUid": "u3315"
-          },
-          "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
-          "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",
-          "sourceDateSpan": {
-            "dateStart": "1748-03-21",
-            "dateEnd": "1748-03-22",
-            "dayPosition": "start"
-          },
-          "locationHints": {
-            "refs": [
-              "old trade road east of Karawa",
-              "Gomat Oasis"
-            ],
-            "context": "an overnight camp followed by a forced march through the desert to the oasis",
-            "notes": "The journey crosses into the following day and ends at the edge of the silent herders' camp."
-          },
-          "npcDetails": [
-            {
-              "name": "giant lizards",
-              "role": "enemy",
-              "context": "three pony-sized beasts at Gomat Oasis",
-              "notes": "They are feeding on dead sheep in the darkness and appear unaware of the party when the session ends."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "blockId": "timeline-004",
       "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": null,
@@ -587,8 +524,71 @@
           "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
           "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",
           "sourceDateSpan": {
-            "dateStart": "1748-03-21",
-            "dateEnd": "1748-03-22",
+            "dateStart": "1748-03-22",
+            "dateEnd": "1748-03-23",
+            "dayPosition": "start"
+          },
+          "locationHints": {
+            "refs": [
+              "old trade road east of Karawa",
+              "Gomat Oasis"
+            ],
+            "context": "an overnight camp followed by a forced march through the desert to the oasis",
+            "notes": "The journey crosses into the following day and ends at the edge of the silent herders' camp."
+          },
+          "npcDetails": [
+            {
+              "name": "giant lizards",
+              "role": "enemy",
+              "context": "three pony-sized beasts at Gomat Oasis",
+              "notes": "They are feeding on dead sheep in the darkness and appear unaware of the party when the session ends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "b10"
+      ],
+      "locationRefs": [
+        "old trade road east of Karawa",
+        "Gomat Oasis"
+      ],
+      "npcRefs": [
+        "giant lizards"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents."
+      ],
+      "sourceLongSummaries": [
+        "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b10",
+          "title": "Nightfall at Gomat",
+          "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
+          "dateStart": "1748-03-23",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3159",
+            "endUid": "u3315"
+          },
+          "shortSummary": "After camping beside the old road, the party force-marches through the following day and reaches Gomat exhausted to find giant lizards feeding among silent tents.",
+          "longSummary": "The party follows the ancient road through land visibly twisted by past cataclysms, camps for a cold and quiet night, and resumes before dawn. They push through a full day of desert heat into the moonlit evening, leaving Kenzo, Wellby, and Seeker exhausted. At Gomat Oasis the tents stand silent and unlit; dead sheep lie near the camp, and three pony-sized lizards tear into the carcasses without yet noticing the party.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-22",
+            "dateEnd": "1748-03-23",
             "dayPosition": "end"
           },
           "locationHints": {
@@ -639,7 +639,7 @@
           "endUid": "u0978"
         }
       ],
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "resolution": "part-of-day",
@@ -670,7 +670,7 @@
           "beatId": "b01",
           "title": "Arrivals in Karawa",
           "boundaryReason": "The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -706,7 +706,7 @@
           "beatId": "b02",
           "title": "The Hyenas Charge",
           "boundaryReason": "The four characters converge, size one another up amid the emergency, and enter combat; the beat ends after Kenzo's opening flurry before the hyena's counterattack.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -746,7 +746,7 @@
           "beatId": "b03",
           "title": "Hyenas Brought Down",
           "boundaryReason": "The hyenas answer the party's first attacks and the remaining combat plays through to Wellby's killing strike on the final beast.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -812,7 +812,7 @@
           "endUid": "u1564"
         }
       ],
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "resolution": "part-of-day",
@@ -842,7 +842,7 @@
           "beatId": "b04",
           "title": "Aftermath and Introductions",
           "boundaryReason": "With the hyenas dead, the villagers scatter for help while the strangers tend the wounded, inspect the bodies, and begin introducing themselves.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -896,7 +896,7 @@
           "beatId": "b05",
           "title": "Strangers Find Common Ground",
           "boundaryReason": "The four strangers trade names and histories, compare what brought them to Karawa, and discover Delwath's concern about a disturbance in the Weave before help arrives.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -960,7 +960,7 @@
           "endUid": "u1905"
         }
       ],
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": "morning",
       "resolution": "part-of-day",
@@ -990,7 +990,7 @@
           "beatId": "b06",
           "title": "Karawa Asks for Help",
           "boundaryReason": "Beli, Kisa, and Candrosa arrive to heal the wounded and assess the attack; Kisa asks Delwath to investigate after Beli's magic fails and the leaders depart.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -1065,7 +1065,7 @@
           "endUid": "u2808"
         }
       ],
-      "dateStart": "1748-03-21",
+      "dateStart": "1748-03-22",
       "dateEnd": null,
       "timeWindow": null,
       "resolution": "part-of-day",
@@ -1092,7 +1092,7 @@
           "beatId": "b07",
           "title": "The Investigation Begins",
           "boundaryReason": "Delwath recruits the other three, the new group rests and equips itself, and Seeker visits the temple before everyone regathers to follow the beasts' tracks.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "morning",
           "sourceRange": {
@@ -1128,7 +1128,7 @@
           "beatId": "b08",
           "title": "Tracks into the Badlands",
           "boundaryReason": "The party leaves Karawa, follows the attackers northeast into the canyonlands, loses the trail, and climbs to a vantage where a distant dust cloud offers a new lead.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
@@ -1177,8 +1177,8 @@
           "endUid": "u3315"
         }
       ],
-      "dateStart": "1748-03-21",
-      "dateEnd": "1748-03-22",
+      "dateStart": "1748-03-22",
+      "dateEnd": "1748-03-23",
       "timeWindow": null,
       "resolution": "date-range",
       "locationRefs": [
@@ -1207,7 +1207,7 @@
           "beatId": "b09",
           "title": "Alesh on the Old Road",
           "boundaryReason": "The party intercepts Alesh, learns about Gomat and the dangers near Nashtkar, and decides to push toward the oasis after she rides on to Karawa.",
-          "dateStart": "1748-03-21",
+          "dateStart": "1748-03-22",
           "dateEnd": null,
           "timeWindow": "afternoon",
           "sourceRange": {
@@ -1243,8 +1243,8 @@
           "beatId": "b10",
           "title": "Nightfall at Gomat",
           "boundaryReason": "The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.",
-          "dateStart": "1748-03-21",
-          "dateEnd": "1748-03-22",
+          "dateStart": "1748-03-22",
+          "dateEnd": "1748-03-23",
           "timeWindow": null,
           "sourceRange": {
             "startUid": "u3159",
@@ -1355,7 +1355,7 @@
         "enemyRefs": [
           "giant hyenas"
         ],
-        "dateStart": "1748-03-21",
+        "dateStart": "1748-03-22",
         "dateEnd": null
       }
     ],
@@ -1434,7 +1434,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1454,7 +1454,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1472,7 +1472,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1489,7 +1489,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1506,7 +1506,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1523,7 +1523,7 @@
           "history": [
             {
               "location": "canyonlands east-northeast of Karawa -> old trade road toward Gomat",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1540,8 +1540,8 @@
           "history": [
             {
               "location": "old trade road east of Karawa -> Gomat Oasis",
-              "dateStart": "1748-03-21",
-              "dateEnd": "1748-03-22"
+              "dateStart": "1748-03-22",
+              "dateEnd": "1748-03-23"
             }
           ]
         }
@@ -1566,12 +1566,12 @@
           ],
           "visits": [
             {
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null,
               "kind": "visited"
             },
             {
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null,
               "kind": "traveled-through"
             }
@@ -1590,12 +1590,12 @@
           ],
           "visits": [
             {
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null,
               "kind": "visited"
             },
             {
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null,
               "kind": "traveled-through"
             }
@@ -1612,7 +1612,7 @@
           ],
           "visits": [
             {
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null,
               "kind": "visited"
             }
@@ -1629,8 +1629,8 @@
           ],
           "visits": [
             {
-              "dateStart": "1748-03-21",
-              "dateEnd": "1748-03-22",
+              "dateStart": "1748-03-22",
+              "dateEnd": "1748-03-23",
               "kind": "traveled-through"
             }
           ]
@@ -1646,8 +1646,8 @@
           ],
           "visits": [
             {
-              "dateStart": "1748-03-21",
-              "dateEnd": "1748-03-22",
+              "dateStart": "1748-03-22",
+              "dateEnd": "1748-03-23",
               "kind": "visited"
             }
           ]
@@ -1666,7 +1666,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1685,7 +1685,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1702,7 +1702,7 @@
           "history": [
             {
               "location": "Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]
@@ -1719,7 +1719,7 @@
           "history": [
             {
               "location": "Karawa -> canyonlands east-northeast of Karawa",
-              "dateStart": "1748-03-21",
+              "dateStart": "1748-03-22",
               "dateEnd": null
             }
           ]

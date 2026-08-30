@@ -894,8 +894,6 @@ def parse_location_entries(lines: Sequence[str], label: str, errors: List[str]) 
             continue
         if normalize_optional_string(entry.get("summary")) is None:
             errors.append(f"{label} entry '{entry['name']}' is missing Summary.")
-        if normalize_optional_string(entry.get("sublocations")) is None:
-            errors.append(f"{label} entry '{entry['name']}' is missing Sublocations.")
         if normalize_optional_string(entry.get("dateVisited")) is None:
             errors.append(f"{label} entry '{entry['name']}' is missing Date Visited.")
     return entries
@@ -995,7 +993,10 @@ def build_slots(
     info_slots["session.desc_title"] = header.get("Desc Title", "")
     info_slots["session.tagline"] = header.get("Tagline", "")
     info_slots["session.summary"] = header.get("One-Sentence Summary", "")
-    info_slots["session.pull_quotes"] = render_pull_quotes_slot(recap["pullQuotes"])
+    info_slots["session.arc"] = render_optional_yaml_scalar(header.get("Arc"))
+    info_slots["session.table_notes"] = render_table_notes_slot(header.get("Table Notes"))
+    pull_quotes = render_pull_quotes_slot(recap["pullQuotes"])
+    info_slots["session.pull_quotes"] = pull_quotes
     audio_source = resolve_audio_source_path(session_payload, base_dir=session_dir)
     rendered_audio_highlights: List[Dict[str, str]] = []
     if not recap["audioHighlights"]:
@@ -1021,9 +1022,11 @@ def build_slots(
             status_messages.append(
                 f"Generated {len(rendered_audio_highlights)} audio clip(s) in {audio_output_root}: {outputs}"
             )
-    info_slots["session.audio_highlights"] = render_audio_highlights_slot(
+    audio_highlights = render_audio_highlights_slot(
         rendered_audio_highlights,
     )
+    info_slots["session.audio_highlights"] = audio_highlights
+    info_slots["session.highlights"] = render_highlights_slot(pull_quotes, audio_highlights)
     info_slots["session.dm"] = header.get("DM", "")
     info_slots["session.pcs"] = render_inline_csv_as_bullets(header.get("PCs", ""))
     info_slots["session.pcs_plain_inline"] = render_inline_csv_plain(header.get("PCs", ""))
@@ -1069,7 +1072,6 @@ def build_slots(
     groups_text, group_reviews = render_entity_slot(
         recap["organizations"],
         note_index,
-        include_history=True,
         campaign_slug=campaign_slug,
         display_metadata=display_metadata,
     )
@@ -1081,7 +1083,6 @@ def build_slots(
     items_text, item_reviews = render_entity_slot(
         recap["items"],
         note_index,
-        include_history=True,
         campaign_slug=campaign_slug,
         display_metadata=display_metadata,
     )
@@ -1188,25 +1189,47 @@ def render_location_slot(
 
 def render_combat_slot(entries: Sequence[Dict[str, Any]]) -> str:
     if not entries:
-        return "- none"
+        return ""
     lines: List[str] = []
     for entry in entries:
-        enemies = ", ".join(entry.get("enemies", [])) or "none"
-        lines.append(f"- {entry['title']}: {enemies}. {entry['contextOutcome']}")
-    return "\n".join(lines).strip()
+        title = ensure_sentence(entry["title"])
+        context_outcome = ensure_sentence(entry["contextOutcome"])
+        lines.append(f"**{title}** {context_outcome}".strip())
+    return "\n\n".join(lines).strip()
 
 
 def render_pull_quotes_slot(entries: Sequence[Dict[str, str]]) -> str:
-    lines = ["> [!quote] %% NO TITLE %%"]
+    blocks: List[str] = []
     for entry in entries:
         quote = normalize_optional_string(entry.get("Quote"))
         speaker = normalize_optional_string(entry.get("Speaker")) or "Pull Quote"
         if quote is None:
             continue
-        lines.append(f"> *{strip_matching_quotes(quote)}* - {speaker}")
-    if len(lines) == 1:
+        blocks.append(f"> [!quote] {speaker}\n> *{strip_matching_quotes(quote)}*")
+    return "\n\n".join(blocks).strip()
+
+
+def render_highlights_slot(pull_quotes: str, audio_highlights: str) -> str:
+    blocks = [block for block in (pull_quotes, audio_highlights) if block]
+    if not blocks:
         return ""
-    return "\n".join(lines).strip()
+    return "## Highlights\n\n" + "\n\n".join(blocks)
+
+
+def render_optional_yaml_scalar(value: Any) -> str:
+    text = normalize_optional_string(value)
+    if text is None or text.casefold() == "none":
+        return ""
+    return json.dumps(strip_wikilinks(text), ensure_ascii=False)
+
+
+def render_table_notes_slot(value: Any) -> str:
+    text = normalize_optional_string(value)
+    if text is None or text.casefold() == "none":
+        return ""
+    lines = ["> [!info] Table Notes"]
+    lines.extend(f"> {line}" for line in text.splitlines())
+    return "\n".join(lines)
 
 
 def strip_matching_quotes(value: str) -> str:
@@ -1642,6 +1665,8 @@ def resolve_session_note_context_tokens(
 
 AUTOLINK_SLOT_NAMES = {
     "session.summary",
+    "session.highlights",
+    "session.table_notes",
     "session.pcs",
     "session.pcs_inline",
     "session.companions_inline",

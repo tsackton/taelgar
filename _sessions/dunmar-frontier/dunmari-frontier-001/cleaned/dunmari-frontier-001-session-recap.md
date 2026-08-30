@@ -9,17 +9,19 @@
 - Campaign: Dunmari Frontier
 - Scope: session
 - Session Number: 1
-- DR Date: 1748-03-21 to 1748-03-22
+- DR Date: 1748-03-22 to 1748-03-23
 - Real Date: 2020-05-29
 - DM: Tim Sackton
 - PCs: Kenzo, Wellby, Delwath, Seeker
+- Arc: Arc 1: Dangers in the Desert
+- Table Notes: Kenzo, Seeker, Wellby, and Delwath meet, and our campaign begins at level 1. 
 
 ## Timeline
 
-### Mar 21st, 1748 (morning)
+### Mar 22nd, 1748 (morning)
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1748-03-21), morning
+- Timeline Key: (DR:: 1748-03-22), morning
 - Resolution: part-of-day
 - Beat IDs: b01, b02, b03, b04, b05, b06, b07
 - Locations: Karawa
@@ -31,10 +33,10 @@
 #### Short
 Four strangers band together to protect Karawa from giant hyenas. Afterward, Elder Kisa and Speaker Candrosa ask Delwath and companions for help.
 
-### Mar 21st, 1748 (afternoon)
+### Mar 22nd, 1748 (afternoon)
 
 - Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1748-03-21), afternoon
+- Timeline Key: (DR:: 1748-03-22), afternoon
 - Resolution: part-of-day
 - Beat IDs: b08, b09, b10
 - Locations: Karawa, canyonlands east-northeast of Karawa, old trade road toward Gomat
@@ -46,10 +48,10 @@ Four strangers band together to protect Karawa from giant hyenas. Afterward, Eld
 #### Short
 The party follows the hyenas' trail into the canyonlands, and meets Alesh on the Stoneway. They turn east towards Gomat Oasis, making a cold overnight camp on the road.
 
-### Mar 22nd, 1748
+### Mar 23rd, 1748
 
 - Timeline Segment: timeline-004
-- Timeline Key: (DR:: 1748-03-22)
+- Timeline Key: (DR:: 1748-03-23)
 - Resolution: day
 - Beat IDs: b10
 - Locations: old trade road east of Karawa, Gomat Oasis
@@ -67,7 +69,7 @@ A long day of travel brings the party to the Gomat Oasis at moonrise, where they
 
 - Kind: combat
 - Beat IDs: b01, b02, b03
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Time: morning
 - Source Range: u0001 -> u0978
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-001-transcript.md
@@ -75,7 +77,7 @@ A long day of travel brings the party to the Gomat Oasis at moonrise, where they
 - NPCs: wounded villager, Beli
 - Organizations: none
 - Items: none
-- Enemies: giant hyenas
+- Enemies: two giant hyenas
 - Image:
 - Image Placement:
 - Image Render:
@@ -91,7 +93,7 @@ Our campaign begins as four travelers converge on the small Dunmari village of K
 
 - Kind: beat
 - Beat IDs: b04, b05
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Time: morning
 - Source Range: u0979 -> u1564
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-002-transcript.md
@@ -114,7 +116,7 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 
 - Kind: beat
 - Beat IDs: b06
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Time: morning
 - Source Range: u1565 -> u1905
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-003-transcript.md
@@ -123,10 +125,10 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 - Organizations: Shakun Mystai
 - Items: red ochre healing paste
 - Enemies: none
-- Image:
-- Image Placement:
-- Image Render:
-- Image Caption:
+- Image: elder-kisa-v2.jpg
+- Image Placement: start
+- Image Render: right|400
+- Image Caption: Elder Kisa asks the party for help. 
 
 #### Short
 Elder Kisa and Speaker Candrosa arrive, and ask the strangers to investigate the growing attacks. 
@@ -138,7 +140,7 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. Beli applies the temple
 
 - Kind: beat
 - Beat IDs: b07, b08
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Time: unknown
 - Source Range: u1906 -> u2808
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-004-transcript.md
@@ -147,10 +149,10 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. Beli applies the temple
 - Organizations: none
 - Items: Wellby's grappling hook
 - Enemies: none
-- Image:
-- Image Placement:
-- Image Render:
-- Image Caption:
+- Image: alesh-on-the-road.jpg
+- Image Placement: start
+- Image Render: left|400
+- Image Caption: Alesh on the Stoneway, east of Karawa
 
 #### Short
 The newly formed party follows the hyenas' tracks east into the badlands. The trail disappears on bare rock in the canyonlands, but Wellby climbs to a high vantage and spots a moving dust cloud along the old road.
@@ -162,7 +164,7 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 
 - Kind: beat
 - Beat IDs: b09, b10
-- Date: 1748-03-21 to 1748-03-22
+- Date: 1748-03-22 to 1748-03-23
 - Time: unknown
 - Source Range: u2809 -> u3315
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-005-transcript.md
@@ -171,10 +173,10 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image:
-- Image Placement:
+- Image: dunmar-frontier-session-1-gomat.jpg
+- Image Placement: end
 - Image Render:
-- Image Caption:
+- Image Caption: Giant lizards feeding at Gomat Oasis in the moonlight
 
 #### Short
 Investigating the dust cloud, the party meets a Dunmari scout, Alesh, on the Stoneway, the old Drankorian trade road. Her warning sends the party toward Gomat. After a long march the next day, the party reaches Gomat to find empty tents and giant lizards feeding on dead sheep.
@@ -182,50 +184,49 @@ Investigating the dust cloud, the party meets a Dunmari scout, Alesh, on the Sto
 #### Long
 The dust cloud belongs to Alesh, a Dunmari scout returning from Gomat, where she had spent the night with Akan and his family, who were grazing their herds in the area. She speaks with the party, discussing the attacks on the town, and how in her childhood people were scared, but for the past decade the [[Nashtkar]], the blasted plains, has seemed, if not safe, at least less of a constant threat to [[Karawa]]. But perhaps that was changing, she mused. She rides on for the grazing lands north of [[Karawa]], while the party turns east for Gomat. 
 
-They follow the ancient road east through land twisted by cataclysm and make a cold camp by the side of the road. The next morning, the party resumes travel before dawn, for a long, punishing march through the heat of the day. By evening, exhausted from the long, hard day of travel, they arrive at the oasis, only to see tents, yes, but also three enormous lizards, 10 feet long and scaly, ripping into dead sheep scattered across the ground.
-
+They follow the [[Stoneway|ancient road]] east through land twisted by cataclysm and make a cold camp by the side of the road. The next morning, the party resumes travel before dawn, for a long, punishing march through the heat of the day. By evening, exhausted from the long, hard day of travel, they arrive at the oasis, only to see tents, yes, but also three enormous lizards, ten feet long and scaly, ripping into dead sheep scattered across the ground.
 ## Cast
 
 ### NPCs
 
 - Beli (met): Shakun initiate who fights beside the strangers
-  - Karawa, 1748-03-21
+  - Karawa, 1748-03-22
 - Badya (met): a teahouse worker
-  - Karawa, 1748-03-21
+  - Karawa, 1748-03-22
 - Candrosa (met): the Speaker of the Shakun Mystai
-  - Karawa, 1748-03-21
+  - Karawa, 1748-03-22
 - Kisa (met): elder and unofficial spokeswoman for Karawa
-  - Karawa, 1748-03-21
+  - Karawa, 1748-03-22
 - Alesh (met): Dunmari scout returning from Gomat
-  - Stoneway, 1748-03-21
+  - Stoneway, 1748-03-22
 
 ## Locations
 
 - Karawa
   - Summary: A desert settlement around an oasis beneath a red sandstone mesa, where the four travelers meet, repel a giant hyena attack, and accept Kisa's request to investigate.
   - Sublocations: Ikram's, the village edge, and Badya's teahouse
-  - Date Visited: 1748-03-21
+  - Date Visited: 1748-03-22
 - Karawa Desert
   - Summary: Rocky badlands where the hyenas' trail vanishes
-  - Date Visited: 1748-03-21
+  - Date Visited: 1748-03-22
 - Stoneway
   - Summary: An ancient route where the party meets Alesh; further east, it passes through cataclysm-scarred desert before reaching the Gomat Oasis. 
-  - Date Visited: 1748-03-21
+  - Date Visited: 1748-03-22
 - Gomat Oasis
   - Summary: A herders' oasis where the party finds empty tents, dead sheep, and three giant lizards feeding in the moonlight.
-  - Date Visited: 1748-03-22
+  - Date Visited: 1748-03-23
 
 ## Organizations And Items
 
 ### Organizations
 
 - Shakun Mystai (encountered): The secretive order centered on the Temple of Shakun.
-  - Karawa, 1748-03-21
+  - Karawa, 1748-03-22
 
 ### Items
 
 - Red ochre healing paste (encountered): A muddy temple preparation that Beli uses to close Delwath's and Kenzo's wounds.
-  - Karawa, 1748-03-21
+  - Karawa, 1748-03-22
 
 ## Combat
 

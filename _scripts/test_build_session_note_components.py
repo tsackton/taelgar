@@ -180,11 +180,13 @@ class SessionNoteComponentsTest(unittest.TestCase):
             - Tagline: in which the party descends
             - One-Sentence Summary: The party descends into Zeyfa's Labyrinth, fights Ashen Knives raiders, and escapes with Kalima and Romil's token.
             - Campaign: Test Campaign
+            - Arc: Beneath the Great Chasm
             - Session Number: 12
             - DR Date: 1730-01-25
             - Real Date: 2026-03-29
             - DM: Maris
             - PCs: Ekko, Justas, Eolo
+            - Table Notes: The party advances to level 4.
 
             ## Timeline
 
@@ -445,6 +447,8 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
         self.assertEqual(recap["header"]["Title"], "Test Session 12: Into the Labyrinth")
         self.assertEqual(recap["header"]["Desc Title"], "Into the Labyrinth")
+        self.assertEqual(recap["header"]["Arc"], "Beneath the Great Chasm")
+        self.assertEqual(recap["header"]["Table Notes"], "The party advances to level 4.")
         self.assertEqual(len(recap["timeline"]), 2)
         self.assertEqual(recap["timeline"][1]["locations"], ["Great Chasm Encampment"])
         self.assertEqual(recap["recap"][1]["kind"], "combat")
@@ -461,6 +465,14 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
         self.assertEqual(recap["header"]["Title"], "Test Session 12: Into the Labyrinth")
         self.assertEqual(len(recap["timeline"]), 2)
+
+    def test_parser_allows_locations_without_sublocations(self) -> None:
+        text = re.sub(r"(?m)^  - Sublocations:.*\n", "", self.reviewed_recap_text())
+
+        recap = parse_session_recap(text)
+
+        self.assertIsNone(recap["locations"][0]["sublocations"])
+        self.assertIsNone(recap["locations"][1]["sublocations"])
 
     def test_parser_allows_human_removed_zoom_sections(self) -> None:
         text = re.sub(
@@ -579,7 +591,15 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: session.summary -->", info_text)
         self.assertIn("<!-- SLOT: session.pull_quotes -->", info_text)
         self.assertIn("<!-- SLOT: session.audio_highlights -->", info_text)
+        self.assertIn("<!-- SLOT: session.highlights -->\n<!-- /SLOT -->", info_text)
         self.assertIn("<!-- SLOT: session.desc_title -->", info_text)
+        self.assertIn('<!-- SLOT: session.arc -->\n"Beneath the Great Chasm"', info_text)
+        self.assertIn(
+            "<!-- SLOT: session.table_notes -->\n"
+            "> [!info] Table Notes\n"
+            "> The party advances to level 4.",
+            info_text,
+        )
         self.assertIn("<!-- SLOT: session.dr_end -->\n1730-01-25", info_text)
         self.assertIn("<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25)", info_text)
         self.assertIn("<!-- SLOT: session.pcs_plain_inline -->\nEkko, Justas, Eolo", info_text)
@@ -597,7 +617,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
             "- [[Ashen Knives]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): raiders contesting the labyrinth approaches.",
             info_text,
         )
-        self.assertIn("  - [[Zeyfa's Labyrinth]], 1730-01-25", info_text)
+        self.assertNotIn("  - [[Zeyfa's Labyrinth]], 1730-01-25", self.slot_body(info_text, "groups"))
         frontmatter = info_text.split("---", 2)[1]
         self.assertNotIn("[[", frontmatter)
         self.assertIn(
@@ -605,6 +625,11 @@ class SessionNoteComponentsTest(unittest.TestCase):
             info_text,
         )
         self.assertEqual(self.slot_body(info_text, "objects"), self.slot_body(info_text, "items.treasure"))
+        self.assertNotIn("  - [[Zeyfa's Labyrinth]], 1730-01-25", self.slot_body(info_text, "objects"))
+        self.assertEqual(
+            self.slot_body(info_text, "combat.summary"),
+            "**The [[Ashen Knives]] Ambush.** The party survives an [[Ashen Knives]] ambush in the labyrinth, routs the raiders, and recovers [[Romil's token]].",
+        )
 
         tech_text = tech_path.read_text(encoding="utf-8")
         tech_frontmatter = tech_text.split("---", 2)[1]
@@ -652,6 +677,49 @@ class SessionNoteComponentsTest(unittest.TestCase):
             self.slot_body(info_text, "session.featuring_inline"),
             "Featuring: Ekko, Justas, and Eolo",
         )
+
+    def test_dunmar_template_groups_people_and_places(self) -> None:
+        template_path = SCRIPT_PATH.parents[1] / "_templates" / "session-notes" / "dunmar-frontier-template.md"
+        template_text = template_path.read_text(encoding="utf-8")
+
+        self.assertIn(
+            "## People and Places\n\n"
+            "### NPCs\n\n{cast}\n\n"
+            "### Organizations\n\n{groups}\n\n"
+            "### Locations\n\n{locations}",
+            template_text,
+        )
+        self.assertNotIn("## Cast of Characters", template_text)
+        self.assertNotIn("\n## Places\n", template_text)
+        self.assertIn("{session.summary}\n\n{session.highlights}\n\n## Timeline", template_text)
+        self.assertIn("{session.table_notes}\n\n## Narrative\n\n{narrative.long}", template_text)
+        self.assertNotIn("{session.pull_quotes}", template_text)
+        self.assertNotIn("{session.audio_highlights}", template_text)
+
+    def test_builder_leaves_human_owned_session_fields_blank_when_none(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text()
+            .replace("- Arc: Beneath the Great Chasm", "- Arc: none")
+            .replace("- Table Notes: The party advances to level 4.", "- Table Notes: none"),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: session.arc -->\n<!-- /SLOT -->", info_text)
+        self.assertIn("<!-- SLOT: session.table_notes -->\n<!-- /SLOT -->", info_text)
 
     def test_builder_renders_images_and_pull_quotes_but_no_audio_without_source(self) -> None:
         vault = self.make_workspace()
@@ -720,9 +788,19 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
         self.assertIn(
             "<!-- SLOT: session.pull_quotes -->\n"
-            "> [!quote] %% NO TITLE %%\n"
-            "> *The maze remembers.* - Kalima\n"
-            "> *It opens only once.* - Sera",
+            "> [!quote] Kalima\n"
+            "> *The maze remembers.*\n\n"
+            "> [!quote] Sera\n"
+            "> *It opens only once.*",
+            info_text,
+        )
+        self.assertIn(
+            "<!-- SLOT: session.highlights -->\n"
+            "## Highlights\n\n"
+            "> [!quote] [[Kalima]]\n"
+            "> *The maze remembers.*\n\n"
+            "> [!quote] Sera\n"
+            "> *It opens only once.*",
             info_text,
         )
         self.assertIn("<!-- SLOT: session.audio_highlights -->\n<!-- /SLOT -->", info_text)

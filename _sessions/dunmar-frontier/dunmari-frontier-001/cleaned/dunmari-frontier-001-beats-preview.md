@@ -8,20 +8,20 @@
 
 - Range: `u0001` → `u0197`
 - Lines: 197
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: no
 - Boundary Reason: The session opens with separate arrival vignettes for the four characters and closes this introductory movement just before they converge on the disturbance in town.
 - Date Evidence:
-  - The manifest starts the session on 1748-03-21.
+  - The manifest starts the session on 1748-03-22.
   - The opening narration places Kenzo's approach to Karawa in the morning light.
 
 ## b02 — The Hyenas Charge
 
 - Range: `u0198` → `u0660`
 - Lines: 463
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: yes
@@ -34,7 +34,7 @@
 
 - Range: `u0661` → `u0978`
 - Lines: 318
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: yes
@@ -47,7 +47,7 @@
 
 - Range: `u0979` → `u1199`
 - Lines: 221
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: no
@@ -60,7 +60,7 @@
 
 - Range: `u1200` → `u1564`
 - Lines: 365
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: no
@@ -73,7 +73,7 @@
 
 - Range: `u1565` → `u1905`
 - Lines: 341
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: no
@@ -86,7 +86,7 @@
 
 - Range: `u1906` → `u2314`
 - Lines: 409
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: morning
 - Combat: no
@@ -99,7 +99,7 @@
 
 - Range: `u2315` → `u2808`
 - Lines: 494
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
@@ -112,7 +112,7 @@
 
 - Range: `u2809` → `u3158`
 - Lines: 350
-- Date: 1748-03-21
+- Date: 1748-03-22
 - Date Resolution: exact
 - Time Window: afternoon
 - Combat: no
@@ -125,12 +125,12 @@
 
 - Range: `u3159` → `u3315`
 - Lines: 157
-- Date: 1748-03-21 to 1748-03-22
+- Date: 1748-03-22 to 1748-03-23
 - Date Resolution: inferred
 - Time Window: unknown
 - Combat: no
 - Boundary Reason: The party follows the old road, camps overnight, then pushes through the following day to reach Gomat after dark, where giant lizards feed among the silent tents.
 - Date Evidence:
-  - The party sets out after the four-in-the-afternoon conversation on 1748-03-21.
+  - The party sets out after the four-in-the-afternoon conversation on 1748-03-22.
   - The transcript explicitly narrates a cold night, a long rest, and a pre-dawn departure on the following day.
-  - The arrival in moonlight is therefore inferred to occur on 1748-03-22.
+  - The arrival in moonlight is therefore inferred to occur on 1748-03-23.
