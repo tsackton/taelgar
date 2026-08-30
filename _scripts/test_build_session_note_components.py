@@ -296,7 +296,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
             ### NPCs
 
-            - Kalima (companion): frightened guide
+            - Kalima (companion, met): frightened guide
               - Zeyfa's Labyrinth, 1730-01-25
               - Great Chasm Encampment, 1730-01-25
 
@@ -449,6 +449,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(recap["timeline"][1]["locations"], ["Great Chasm Encampment"])
         self.assertEqual(recap["recap"][1]["kind"], "combat")
         self.assertEqual(recap["cast"][0]["name"], "Kalima")
+        self.assertEqual(recap["cast"][0]["relation"], "companion, met")
         self.assertEqual(recap["locations"][0]["summary"], "frozen maze beneath the Great Chasm")
         self.assertEqual(recap["locations"][0]["sublocations"], "ice bridge, first forked passages")
         self.assertEqual(recap["locations"][0]["dateVisited"], "1730-01-25")
@@ -460,6 +461,27 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
         self.assertEqual(recap["header"]["Title"], "Test Session 12: Into the Labyrinth")
         self.assertEqual(len(recap["timeline"]), 2)
+
+    def test_parser_allows_human_removed_zoom_sections(self) -> None:
+        text = re.sub(
+            r"\n#### Long\n.*?(?=\n### Jan 25th, 1730 \(evening\))",
+            "",
+            self.reviewed_recap_text(),
+            count=1,
+            flags=re.DOTALL,
+        )
+        text = re.sub(
+            r"\n#### Intermediate\n.*?(?=\n#### Long)",
+            "",
+            text,
+            count=1,
+            flags=re.DOTALL,
+        )
+
+        recap = parse_session_recap(text)
+
+        self.assertEqual(recap["timeline"][0]["long"], "")
+        self.assertEqual(recap["recap"][0]["intermediate"], "")
 
     def test_parser_extracts_optional_recap_media(self) -> None:
         text = (
@@ -515,7 +537,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
         linked = (
             self.reviewed_recap_text()
             .replace("Locations: Zeyfa's Labyrinth", "Locations: [[Zeyfa's Labyrinth]]")
-            .replace("- Kalima (companion):", "- [[Kalima]] (companion):")
+            .replace("- Kalima (companion, met):", "- [[Kalima]] (companion, met):")
             .replace("- Zeyfa's Labyrinth\n", "- [[Zeyfa's Labyrinth]]\n")
             .replace("- Romil's token (encountered):", "- [[Romil's token]] (encountered):")
             .replace("  - Zeyfa's Labyrinth, 1730-01-25", "  - [[Zeyfa's Labyrinth]], 1730-01-25")
@@ -561,9 +583,16 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: session.dr_end -->\n1730-01-25", info_text)
         self.assertIn("<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25)", info_text)
         self.assertIn("<!-- SLOT: session.pcs_plain_inline -->\nEkko, Justas, Eolo", info_text)
+        self.assertIn("<!-- SLOT: session.companions_plain_inline -->\nKalima", info_text)
+        self.assertIn("<!-- SLOT: session.companions_inline -->\n[[Kalima]]", info_text)
+        self.assertIn(
+            "<!-- SLOT: session.featuring_inline -->\nFeaturing: Ekko, Justas, and Eolo, with [[Kalima]]",
+            info_text,
+        )
         self.assertIn("Into the Labyrinth", info_text)
         self.assertIn("<!-- SLOT: timeline -->", info_text)
         self.assertIn("<!-- SLOT: groups -->", info_text)
+        self.assertIn("<!-- SLOT: objects -->", info_text)
         self.assertIn(
             "- [[Ashen Knives]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): raiders contesting the labyrinth approaches.",
             info_text,
@@ -575,6 +604,7 @@ class SessionNoteComponentsTest(unittest.TestCase):
             "- [[Zeyfa's Labyrinth]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): frozen maze beneath the Great Chasm. Session context includes: ice bridge and first forked passages.",
             info_text,
         )
+        self.assertEqual(self.slot_body(info_text, "objects"), self.slot_body(info_text, "items.treasure"))
 
         tech_text = tech_path.read_text(encoding="utf-8")
         tech_frontmatter = tech_text.split("---", 2)[1]
@@ -589,6 +619,39 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.short -->", narrative_text)
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
+
+    def test_builder_leaves_companion_slots_blank_when_no_npc_is_tagged_companion(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text().replace("(companion, met)", "(met)"),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn(
+            "<!-- SLOT: session.companions_plain_inline -->\n<!-- /SLOT -->",
+            info_text,
+        )
+        self.assertIn(
+            "<!-- SLOT: session.companions_inline -->\n<!-- /SLOT -->",
+            info_text,
+        )
+        self.assertEqual(
+            self.slot_body(info_text, "session.featuring_inline"),
+            "Featuring: Ekko, Justas, and Eolo",
+        )
 
     def test_builder_renders_images_and_pull_quotes_but_no_audio_without_source(self) -> None:
         vault = self.make_workspace()

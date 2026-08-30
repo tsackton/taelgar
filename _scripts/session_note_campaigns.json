@@ -19,7 +19,7 @@
       "sessionRoot": "dunmar-frontier",
       "campaignRoot": "Campaigns/Dunmari Frontier Campaign",
       "notePattern": "Session Notes/Session {session} (DuFr).md",
-      "defaultTemplate": "composable-session-note.md"
+      "defaultTemplate": "dunmar-frontier-template.md"
     },
     "cleenseau": {
       "name": "Cleenseau",

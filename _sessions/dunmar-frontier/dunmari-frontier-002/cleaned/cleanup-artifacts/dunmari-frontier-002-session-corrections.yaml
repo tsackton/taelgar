@@ -1,0 +1,296 @@
+allReplacements:
+- from: Alf
+  to: Elf
+  count: 2
+  headers:
+  - '[u2005 | 01:44:00.686-01:44:00.755 | Unknown]'
+  - '[u2090 | 01:48:20.896-01:48:23.236 | Kenzo]'
+- from: Delweth
+  to: Delwath
+  count: 2
+  headers:
+  - '[u0090 | 00:05:26.060-00:05:28.000 | Seeker]'
+  - '[u0099 | 00:05:46.300-00:05:50.180 | DM]'
+- from: quarter staff
+  to: quarterstaff
+  count: 2
+  headers:
+  - '[u0430 | 00:21:07.716-00:21:11.436 | Kenzo]'
+  - '[u0657 | 00:31:05.916-00:31:13.396 | Kenzo]'
+- from: this
+  to: these
+  count: 2
+  headers:
+  - '[u2958 | 02:30:54.320-02:30:59.780 | DM]'
+- from: wizard
+  to: lizard
+  count: 2
+  headers:
+  - '[u2609 | 02:16:28.572-02:16:31.232 | Delwath]'
+  - '[u2887 | 02:26:51.940-02:26:53.800 | Delwath]'
+- from: ', nice'
+  to: night ' s
+  count: 1
+  headers:
+  - '[u2514 | 02:11:39.220-02:11:41.900 | Kenzo]'
+- from: A
+  to: Oh,
+  count: 1
+  headers:
+  - '[u3012 | 02:33:54.440-02:33:55.020 | DM]'
+- from: Alf
+  to: elf
+  count: 1
+  headers:
+  - '[u2395 | 02:05:12.012-02:05:13.972 | Kenzo]'
+- from: Dal
+  to: Del
+  count: 1
+  headers:
+  - '[u1104 | 00:53:14.188-00:53:17.128 | Delwath]'
+- from: Dalwath
+  to: Delwath
+  count: 1
+  headers:
+  - '[u1104 | 00:53:14.188-00:53:17.128 | Delwath]'
+- from: Kenza
+  to: Kenzo
+  count: 1
+  headers:
+  - '[u2123 | 01:50:03.108-01:50:05.228 | Kenzo]'
+- from: Kim
+  to: Tim
+  count: 1
+  headers:
+  - '[u1783 | 01:31:38.486-01:31:39.026 | Wellby]'
+- from: Shimut
+  to: Cha ' mutte
+  count: 1
+  headers:
+  - '[u2140 | 01:50:54.548-01:50:59.108 | Delwath]'
+- from: Simas
+  to: Tim
+  count: 1
+  headers:
+  - '[u0784 | 00:36:50.748-00:36:53.848 | Kenzo]'
+- from: Some ancient
+  to: Something ate
+  count: 1
+  headers:
+  - '[u3132 | 02:39:58.350-02:40:00.380 | Seeker]'
+- from: Squeezed
+  to: Sweet
+  count: 1
+  headers:
+  - '[u2642 | 02:17:53.362-02:17:53.792 | Unknown]'
+- from: Wow. Base sight
+  to: Well, Eldritch Sight
+  count: 1
+  headers:
+  - '[u0807 | 00:37:57.278-00:37:58.548 | Unknown]'
+- from: a
+  to: something
+  count: 1
+  headers:
+  - '[u4007 | 03:27:48.958-03:27:50.558 | DM]'
+- from: a
+  to: the
+  count: 1
+  headers:
+  - '[u2218 | 01:56:05.440-01:56:15.600 | DM]'
+- from: bold
+  to: boul
+  count: 1
+  headers:
+  - '[u2337 | 02:01:27.180-02:01:37.460 | DM]'
+- from: cackling
+  to: crackling
+  count: 1
+  headers:
+  - '[u0435 | 00:21:18.476-00:21:29.276 | DM]'
+- from: chance
+  to: tents
+  count: 1
+  headers:
+  - '[u0041 | 00:02:54.460-00:02:55.500 | Unknown]'
+- from: circulet
+  to: circlet
+  count: 1
+  headers:
+  - '[u1427 | 01:10:24.010-01:10:31.590 | DM]'
+- from: construct
+  to: make out
+  count: 1
+  headers:
+  - '[u3195 | 02:43:24.300-02:43:29.260 | DM]'
+- from: contending
+  to: continuing
+  count: 1
+  headers:
+  - '[u0051 | 00:03:20.840-00:03:22.750 | Delwath]'
+- from: drastic die
+  to: dusty dry
+  count: 1
+  headers:
+  - '[u2163 | 01:52:43.048-01:52:53.088 | DM]'
+- from: earthen works
+  to: earthworks
+  count: 1
+  headers:
+  - '[u3178 | 02:42:05.780-02:42:09.920 | DM]'
+- from: else
+  to: of the rest
+  count: 1
+  headers:
+  - '[u1787 | 01:31:53.376-01:31:55.906 | DM]'
+- from: face sight
+  to: Eldritch Sight
+  count: 1
+  headers:
+  - '[u0999 | 00:48:27.108-00:48:32.548 | Delwath]'
+- from: gate
+  to: gait
+  count: 1
+  headers:
+  - '[u0443 | 00:21:47.386-00:21:49.156 | Seeker]'
+- from: have
+  to: hide
+  count: 1
+  headers:
+  - '[u2603 | 02:16:13.002-02:16:15.432 | Wellby]'
+- from: in the
+  to: an
+  count: 1
+  headers:
+  - '[u0246 | 00:13:02.904-00:13:06.524 | Wellby]'
+- from: killed
+  to: hit
+  count: 1
+  headers:
+  - '[u0757 | 00:35:49.736-00:35:55.356 | Delwath]'
+- from: left
+  to: right
+  count: 1
+  headers:
+  - '[u3190 | 02:43:04.900-02:43:07.880 | DM]'
+- from: ley line
+  to: layer
+  count: 1
+  headers:
+  - '[u1517 | 01:15:52.714-01:15:54.254 | Wellby]'
+- from: lightly
+  to: slightly
+  count: 1
+  headers:
+  - '[u0484 | 00:23:16.956-00:23:19.356 | Wellby]'
+- from: long sword
+  to: longsword
+  count: 1
+  headers:
+  - '[u3483 | 03:00:39.122-03:00:42.882 | Delwath]'
+- from: makes
+  to: made
+  count: 1
+  headers:
+  - '[u0282 | 00:14:32.684-00:14:34.524 | Wellby]'
+- from: me
+  to: like
+  count: 1
+  headers:
+  - '[u0710 | 00:33:09.756-00:33:11.156 | Unknown]'
+- from: mini - fig
+  to: minifig
+  count: 1
+  headers:
+  - '[u0282 | 00:14:32.684-00:14:34.524 | Wellby]'
+- from: 'no'
+  to: note
+  count: 1
+  headers:
+  - '[u1106 | 00:53:19.658-00:53:25.428 | Wellby]'
+- from: nod
+  to: nods
+  count: 1
+  headers:
+  - '[u0251 | 00:13:17.964-00:13:21.524 | Delwath]'
+- from: path
+  to: past
+  count: 1
+  headers:
+  - '[u2163 | 01:52:43.048-01:52:53.088 | DM]'
+- from: screams
+  to: streams
+  count: 1
+  headers:
+  - '[u0621 | 00:28:49.455-00:28:59.476 | Seeker]'
+- from: stone cunning
+  to: Stonecunning
+  count: 1
+  headers:
+  - '[u3335 | 02:51:16.258-02:51:20.438 | Seeker]'
+- from: strack
+  to: stri
+  count: 1
+  headers:
+  - '[u0657 | 00:31:05.916-00:31:13.396 | Kenzo]'
+- from: the
+  to: I
+  count: 1
+  headers:
+  - '[u0337 | 00:16:38.284-00:16:42.884 | Delwath]'
+- from: they
+  to: I
+  count: 1
+  headers:
+  - '[u0337 | 00:16:38.284-00:16:42.884 | Delwath]'
+- from: up
+  to: out
+  count: 1
+  headers:
+  - '[u0325 | 00:16:19.324-00:16:21.064 | Delwath]'
+- from: wizards
+  to: lizards
+  count: 1
+  headers:
+  - '[u1662 | 01:26:07.912-01:26:10.622 | Delwath]'
+- from: your
+  to: . You ' re
+  count: 1
+  headers:
+  - '[u1072 | 00:51:27.948-00:51:33.848 | DM]'
+- from: your shot
+  to: earshot
+  count: 1
+  headers:
+  - '[u1868 | 01:36:00.676-01:36:03.826 | Kenzo]'
+repeatedReplacements:
+- from: Alf
+  to: Elf
+  count: 2
+  headers:
+  - '[u2005 | 01:44:00.686-01:44:00.755 | Unknown]'
+  - '[u2090 | 01:48:20.896-01:48:23.236 | Kenzo]'
+- from: Delweth
+  to: Delwath
+  count: 2
+  headers:
+  - '[u0090 | 00:05:26.060-00:05:28.000 | Seeker]'
+  - '[u0099 | 00:05:46.300-00:05:50.180 | DM]'
+- from: quarter staff
+  to: quarterstaff
+  count: 2
+  headers:
+  - '[u0430 | 00:21:07.716-00:21:11.436 | Kenzo]'
+  - '[u0657 | 00:31:05.916-00:31:13.396 | Kenzo]'
+- from: this
+  to: these
+  count: 2
+  headers:
+  - '[u2958 | 02:30:54.320-02:30:59.780 | DM]'
+- from: wizard
+  to: lizard
+  count: 2
+  headers:
+  - '[u2609 | 02:16:28.572-02:16:31.232 | Delwath]'
+  - '[u2887 | 02:26:51.940-02:26:53.800 | Delwath]'
+unresolvedPhrases: []

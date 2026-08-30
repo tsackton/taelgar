@@ -571,7 +571,7 @@ def parse_timeline_section(lines: Sequence[str], errors: List[str]) -> List[Dict
                 "items": parse_name_list(data.get("Items")),
                 "combatBeats": parse_name_list(data.get("Combat Beats")),
                 "short": parse_required_subsection(block_lines, "#### Short", f"timeline {block_id or heading}", errors),
-                "long": parse_required_subsection(block_lines, "#### Long", f"timeline {block_id or heading}", errors),
+                "long": parse_subsection(block_lines, "#### Long") or "",
             }
         )
     return parsed
@@ -601,11 +601,9 @@ def parse_recap_section(lines: Sequence[str], errors: List[str]) -> List[Dict[st
                 "items": parse_name_list(data.get("Items")),
                 "enemies": parse_name_list(data.get("Enemies")),
                 "images": parse_recap_images(data, f"recap {match.group('block_id')}", errors),
-                "short": parse_required_subsection(block_lines, "#### Short", f"recap {match.group('block_id')}", errors),
-                "intermediate": parse_required_subsection(
-                    block_lines, "#### Intermediate", f"recap {match.group('block_id')}", errors
-                ),
-                "long": parse_required_subsection(block_lines, "#### Long", f"recap {match.group('block_id')}", errors),
+                "short": parse_subsection(block_lines, "#### Short") or "",
+                "intermediate": parse_subsection(block_lines, "#### Intermediate") or "",
+                "long": parse_subsection(block_lines, "#### Long") or "",
             }
         )
     return parsed
@@ -1030,6 +1028,14 @@ def build_slots(
     info_slots["session.pcs"] = render_inline_csv_as_bullets(header.get("PCs", ""))
     info_slots["session.pcs_plain_inline"] = render_inline_csv_plain(header.get("PCs", ""))
     info_slots["session.pcs_inline"] = render_inline_csv_as_links(header.get("PCs", ""), note_index)
+    pc_names = split_csvish(header.get("PCs", ""))
+    companion_names = extract_companion_names(recap["cast"], excluding=pc_names)
+    info_slots["session.companions_plain_inline"] = ", ".join(strip_wikilinks(name) for name in companion_names)
+    info_slots["session.companions_inline"] = render_names_as_natural_links(companion_names, note_index)
+    featuring = f"Featuring: {render_names_as_natural_links(pc_names, note_index) or 'none'}"
+    if companion_names:
+        featuring += f", with {info_slots['session.companions_inline']}"
+    info_slots["session.featuring_inline"] = featuring
     info_slots["session.session_number"] = render_scalar(session_payload.get("sessionNumber"))
     dr_start = normalize_optional_string(session_payload.get("drStart")) or header.get("DR Date", "")
     dr_end = normalize_optional_string(session_payload.get("drEnd")) or ""
@@ -1080,6 +1086,7 @@ def build_slots(
         display_metadata=display_metadata,
     )
     info_slots["items.treasure"] = items_text
+    info_slots["objects"] = items_text
     review_lines.extend(item_reviews)
 
     final_timeline = recap["timeline"][-1] if recap["timeline"] else None
@@ -1637,6 +1644,8 @@ AUTOLINK_SLOT_NAMES = {
     "session.summary",
     "session.pcs",
     "session.pcs_inline",
+    "session.companions_inline",
+    "session.featuring_inline",
     "timeline",
     "cast",
     "locations",
@@ -1644,6 +1653,7 @@ AUTOLINK_SLOT_NAMES = {
     "groups",
     "combat.summary",
     "items.treasure",
+    "objects",
     "updates.whereabouts.party",
     "updates.whereabouts.locations",
     "updates.whereabouts.npcs",
@@ -1704,6 +1714,30 @@ def ensure_sentence(value: str) -> str:
 
 def split_csvish(value: str) -> List[str]:
     return [part.strip() for part in value.split(",") if part.strip()]
+
+
+def relation_qualifiers(entry: Dict[str, Any]) -> set[str]:
+    return {part.casefold() for part in split_csvish(str(entry.get("relation", "")))}
+
+
+def extract_companion_names(
+    entries: Sequence[Dict[str, Any]],
+    *,
+    excluding: Sequence[str] = (),
+) -> List[str]:
+    excluded = {normalize_name(strip_wikilinks(name)) for name in excluding}
+    seen: set[str] = set()
+    companions: List[str] = []
+    for entry in entries:
+        name = normalize_optional_string(entry.get("name"))
+        if name is None or "companion" not in relation_qualifiers(entry):
+            continue
+        normalized = normalize_name(strip_wikilinks(name))
+        if normalized in excluded or normalized in seen:
+            continue
+        seen.add(normalized)
+        companions.append(name)
+    return companions
 
 
 def format_natural_list(parts: Sequence[str]) -> str:
@@ -1777,6 +1811,11 @@ def render_inline_csv_as_links(value: str, note_index: VaultNoteIndex) -> str:
     parts = [part.strip() for part in value.split(",") if part.strip()]
     rendered = [note_index.resolve(part).link(part) for part in parts]
     return ", ".join(rendered) if rendered else "none"
+
+
+def render_names_as_natural_links(names: Sequence[str], note_index: VaultNoteIndex) -> str:
+    rendered = [note_index.resolve(name).link(name) for name in names if name.strip()]
+    return format_natural_list(rendered) if rendered else ""
 
 
 def render_inline_location_links(entries: Sequence[Dict[str, Any]], note_index: VaultNoteIndex) -> str:
