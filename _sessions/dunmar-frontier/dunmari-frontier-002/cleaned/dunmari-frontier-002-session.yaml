@@ -1,0 +1,40 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 2
+realWorldDate: '2020-06-12'
+drStart: '1748-03-22'
+drEnd: '1748-03-25'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers:
+  - Kenzo
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers:
+  - Wellby
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers:
+  - Delwath
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Seeker
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - DM
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/sources/audio_only.identified-scribe-fallback.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session
+  2/audio_only.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/sources/dunmar-frontier-session002.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/sources/dunmar-frontier-core-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/sources/dunmar-frontier-session002-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-speaker-stats.json

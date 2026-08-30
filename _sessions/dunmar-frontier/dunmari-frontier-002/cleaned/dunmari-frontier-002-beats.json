@@ -1,0 +1,211 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-002/cleaned/dunmari-frontier-002-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Lizards at Gomat Oasis",
+      "startUid": "u0001",
+      "endUid": "u0262",
+      "lineCount": 262,
+      "dateStart": "1748-03-22",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party surveying the giant lizards and ruined camp at Gomat, then ends this beat as they commit to the attack and roll initiative.",
+      "dateEvidence": [
+        "session.yaml starts the session on 1748-03-22",
+        "the opening recap and scene description explicitly place the arrival at sunset and in early night"
+      ]
+    },
+    {
+      "beatId": "b02",
+      "title": "Battle at Gomat",
+      "startUid": "u0263",
+      "endUid": "u0754",
+      "lineCount": 492,
+      "dateStart": "1748-03-22",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The beat begins with initiative and contains the complete fight against the three giant lizards, ending once the last creature falls.",
+      "dateEvidence": [
+        "the fight follows directly from the sunset approach",
+        "the transcript explicitly identifies the scene as early night"
+      ]
+    },
+    {
+      "beatId": "b03",
+      "title": "Night at the Oasis",
+      "startUid": "u0755",
+      "endUid": "u1124",
+      "lineCount": 370,
+      "dateStart": "1748-03-22",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the battle, the party searches the bodies and tents, considers the lizards' strange behavior, and camps through an uneventful night.",
+      "dateEvidence": [
+        "the DM says the night is still and quiet after combat",
+        "the beat ends with watches and a long rest immediately before the next morning"
+      ]
+    },
+    {
+      "beatId": "b04",
+      "title": "Tracks in Morning Light",
+      "startUid": "u1125",
+      "endUid": "u1302",
+      "lineCount": 178,
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Morning light reveals the attack site and eastbound tracks; the party dissects a lizard before a wounded rider reaches the oasis.",
+      "dateEvidence": [
+        "the transcript explicitly says the morning comes after the March 22 long rest",
+        "the sun is rising while the party investigates the camp"
+      ]
+    },
+    {
+      "beatId": "b05",
+      "title": "Akan Returns to Gomat",
+      "startUid": "u1303",
+      "endUid": "u1765",
+      "lineCount": 463,
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The rider identifies himself as Akan, recounts the fatal lizard attack, retrieves the survivors and supplies, and helps frame the danger east of Gomat before the party departs.",
+      "dateEvidence": [
+        "Akan arrives during the same morning investigation",
+        "no rest or time jump occurs before the party decides to continue east"
+      ]
+    },
+    {
+      "beatId": "b06",
+      "title": "East into the Nashtkar",
+      "startUid": "u1766",
+      "endUid": "u2154",
+      "lineCount": 389,
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party follows the lizard trail east, discusses elves and dreams during the journey, and finds further evidence of unnaturally violent animals before evening approaches.",
+      "dateEvidence": [
+        "the road journey begins in mid-morning after the party leaves Gomat",
+        "the DM says the group talks and travels through the day until it is getting toward evening"
+      ]
+    },
+    {
+      "beatId": "b07",
+      "title": "Camping Above Daraar Canyon",
+      "startUid": "u2155",
+      "endUid": "u2540",
+      "lineCount": 386,
+      "dateStart": "1748-03-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party reaches the unnatural canyon late in the day, scouts a route down, discovers signs of a concealed earlier camp, and spends a fitful but uninterrupted night above the descent.",
+      "dateEvidence": [
+        "the canyon appears in the late-afternoon sun with about an hour until sunset",
+        "the party makes camp and sleeps before the transcript announces the next morning"
+      ]
+    },
+    {
+      "beatId": "b08",
+      "title": "Crossing Daraar Canyon",
+      "startUid": "u2541",
+      "endUid": "u2925",
+      "lineCount": 385,
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "On the next morning, the party shelters Delwath's horse, descends into Daraar Canyon, and follows converging animal tracks toward the gentler eastern ascent.",
+      "dateEvidence": [
+        "the transcript explicitly begins this beat with the next morning after the March 23 camp",
+        "the descent and tracking occur continuously without another rest"
+      ]
+    },
+    {
+      "beatId": "b09",
+      "title": "The Bloodthirsty Wilds",
+      "startUid": "u2926",
+      "endUid": "u3167",
+      "lineCount": 242,
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Beyond the canyon, the landscape and its animals display pervasive aggression as the party follows the ruined road toward two distant towers.",
+      "dateEvidence": [
+        "the eastward ascent follows directly from the morning canyon crossing",
+        "the DM says it is about lunchtime by the time the party reaches the final approach"
+      ]
+    },
+    {
+      "beatId": "b10",
+      "title": "Ruined Fort and Mounds",
+      "startUid": "u3168",
+      "endUid": "u3354",
+      "lineCount": 187,
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party studies the abandoned fort, its ruined outbuildings, and the paired grassy and rubble mounds until Kenzo senses undead near the causeway.",
+      "dateEvidence": [
+        "the fort survey follows immediately from the lunchtime approach",
+        "there is no intervening rest or travel transition"
+      ]
+    },
+    {
+      "beatId": "b11",
+      "title": "Skeletons from the Earth",
+      "startUid": "u3355",
+      "endUid": "u3732",
+      "lineCount": 378,
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Skeletal arms emerge from the disturbed rubble mound, beginning a complete combat that ends when Kenzo shatters the last skeleton.",
+      "dateEvidence": [
+        "the undead emerge during the same midday fort approach",
+        "the fight proceeds without a time or location break"
+      ]
+    },
+    {
+      "beatId": "b12",
+      "title": "Reading the Disturbed Ground",
+      "startUid": "u3733",
+      "endUid": "u4059",
+      "lineCount": 327,
+      "dateStart": "1748-03-24",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After the battle, the party investigates the recently disturbed mound, identifies the fort's Great War design, and enters the fort as the session ends.",
+      "dateEvidence": [
+        "the investigation begins immediately after the skeleton fight",
+        "the party enters the fort without another travel or rest transition"
+      ]
+    }
+  ]
+}

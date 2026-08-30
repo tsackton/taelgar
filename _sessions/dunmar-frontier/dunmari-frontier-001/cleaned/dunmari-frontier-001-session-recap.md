@@ -132,7 +132,7 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 Elder Kisa and Speaker Candrosa arrive, and ask the strangers to investigate the growing attacks. 
 
 #### Long
-Soon, Beli returns with Speaker Candrosa and Elder Kisa. She applies the temple's red ochre healing paste to Delwath's and Kenzo's wounds, and helps other acolytes carry the rescued villager away. In the tea house, the village elders speak to the party. Kisa explains that this is the third attack on Karawa recently, stronger and more dangerous than the previous two. With the approaching Festival of Rebirth, she is worried that the village is dangerously exposed, and so she asks Delwath and the travelers to find the cause of these attacks. Delwath reports Beli's failed divine magic, at which Candrosa turns pale. He admits that some mysteries cannot be discussed openly and withdraws, while Kisa entrusts the investigation to the group.
+Soon, Beli returns with Speaker Candrosa and Elder Kisa. Beli applies the temple's red ochre healing paste to Delwath's and Kenzo's wounds, and helps other acolytes carry the rescued villager away. In the tea house, the village elders speak to the party. Kisa explains that this is the third attack on Karawa recently, stronger and more dangerous than the previous two. With the approaching Festival of Rebirth, she is worried that the village is dangerously exposed, and so she asks Delwath to find the cause of these attacks. Delwath reports Beli's failed divine magic, at which Candrosa turns pale. He admits that some mysteries cannot be discussed openly and withdraws, while Kisa entrusts the investigation to the group.
 
 ### recap-004 | Into the Badlands
 
@@ -142,7 +142,7 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. She applies the temple'
 - Time: unknown
 - Source Range: u1906 -> u2808
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-004-transcript.md
-- Locations: Karawa, canyonlands east-northeast of Karawa
+- Locations: Karawa, Karawa Desert
 - NPCs: none
 - Organizations: none
 - Items: Wellby's grappling hook
@@ -156,7 +156,7 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. She applies the temple'
 The newly formed party follows the hyenas' tracks east into the badlands. The trail disappears on bare rock in the canyonlands, but Wellby climbs to a high vantage and spots a moving dust cloud along the old road.
 
 #### Long
-Kenzo, Wellby, and Seeker accept Delwath's invitation to help investigate and prepare for the journey, while Seeker confirms a powerful magical convergence inside Karawa's mesa. Delwath and Wellby recover the hyenas' claw prints at the village edge, and the new party follows them east-northeast through blooming scrub until the trail disappears where the land gives way to bare rock. Continuing along the beasts' general heading, the travelers lose their bearings among twisting slot and box canyons. Wellby uses his grappling hook to climb above the badlands, reestablishes the direction of Karawa, and spots a moving dust cloud to the north, giving the party a new lead.
+Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat. Some skillful tracking from Delwath and Wellby allowed the newly formed party to pick up the trail of the beasts, leading a bit north of due east, into the desert. After about half a day of travel, the terrain gradually becomes rockier, eventually leading to an area of small box canyons and rocky terrain, where the party loses the trail of the beasts. As Delwath and Kenzo talk, and Seeker ponders geology, Wellby realizes that, in this twisting terrain, he was unsure of which direction was which and even where Karawa lay. Climbing via grappling hook to a high point, he looks around, seeing nothing stirring across the canyonlands, which extended for miles to the east towards a large, distant canyon. To the north, a cloud of dust points towards something moving along the Stoneway, the old trade road.
 
 ### recap-005 | The Road to Gomat
 
@@ -166,7 +166,7 @@ Kenzo, Wellby, and Seeker accept Delwath's invitation to help investigate and pr
 - Time: unknown
 - Source Range: u2809 -> u3315
 - Polished Transcript: beat-transcripts/dunmari-frontier-001-recap-005-transcript.md
-- Locations: canyonlands east-northeast of Karawa, old trade road toward Gomat, old trade road east of Karawa, Gomat Oasis
+- Locations: Karawa Desert, Stoneway, Gomat Oasis
 - NPCs: Alesh, giant lizards
 - Organizations: none
 - Items: none
@@ -177,72 +177,55 @@ Kenzo, Wellby, and Seeker accept Delwath's invitation to help investigate and pr
 - Image Caption:
 
 #### Short
-Alesh's warning sends the party toward Gomat, where a forced march ends amid silent tents and giant lizards feeding on dead sheep.
-
-#### Intermediate
-The party intercepts Alesh on the old road and learns of missing herders and renewed danger near Gomat. They follow her directions, camp overnight, and force-march through the next day before reaching the silent oasis at moonrise and finding three giant lizards feeding beside the tents.
+Investigating the dust cloud, the party meets a Dunmari scout, Alesh, on the Stoneway, the old Drankorian trade road. Her warning sends the party toward Gomat. After a long march the next day, the party reaches Gomat to find empty tents and giant lizards feeding on dead sheep.
 
 #### Long
-The dust cloud belongs to Alesh, a Dunmari scout returning from Gomat, who reports missing herders, troubling rumors, and fears that the old dangers of the Nashtkar may be returning. Because the blood on the hyenas and the direction of their approach both point toward the oasis, she explains the route and recommends seeking Akan and his family there before riding on toward Karawa. The party follows the ancient road east through land twisted by cataclysms, makes a cold camp, and resumes before dawn for a punishing march through the next day's heat. At moonrise they find Gomat dark and silent, with dead sheep scattered near the tents and three pony-sized giant lizards tearing into the carcasses.
+The dust cloud belongs to Alesh, a Dunmari scout returning from Gomat, where she had spent the night with Akan and his family, who were grazing their herds in the area. She speaks with the party, discussing the attacks on the town, and how in her childhood people were scared, but for the past decade the [[Nashtkar]], the blasted plains, has seemed, if not safe, at least less of a constant threat to [[Karawa]]. But perhaps that was changing, she mused. She rides on for the grazing lands north of [[Karawa]], while the party turns east for Gomat. 
+
+They follow the ancient road east through land twisted by cataclysm and make a cold camp by the side of the road. The next morning, the party resumes travel before dawn, for a long, punishing march through the heat of the day. By evening, exhausted from the long, hard day of travel, they arrive at the oasis, only to see tents, yes, but also three enormous lizards, 10 feet long and scaly, ripping into dead sheep scattered across the ground.
 
 ## Cast
 
 ### NPCs
 
-- wounded villager (met): young man attacked by a giant hyena
+- Beli (met): Shakun initiate who fights beside the strangers
   - Karawa, 1748-03-21
-- Beli (companion, met): Shakun initiate fighting beside the strangers
+- Badya (met): a teahouse worker
   - Karawa, 1748-03-21
-- Badya (met): teahouse worker
+- Candrosa (met): the Speaker of the Shakun Mystai
   - Karawa, 1748-03-21
-- Candrosa (met): Speaker of Shakun
-  - Karawa, 1748-03-21
-- Kisa (met): elder and unofficial leader of Karawa
+- Kisa (met): elder and unofficial spokeswoman for Karawa
   - Karawa, 1748-03-21
 - Alesh (met): Dunmari scout returning from Gomat
-  - canyonlands east-northeast of Karawa -> old trade road toward Gomat, 1748-03-21
-- giant lizards (met): three pony-sized beasts at Gomat Oasis
-  - old trade road east of Karawa -> Gomat Oasis, 1748-03-21 to 1748-03-22
-- Akan (mentioned): herder camped at Gomat Oasis
+  - Stoneway, 1748-03-21
 
 ## Locations
 
 - Karawa
   - Summary: A desert settlement around an oasis beneath a red sandstone mesa, where the four travelers meet, repel a giant hyena attack, and accept Kisa's request to investigate.
-  - Sublocations: the western approach, the village edge, and Delwath's rooms above Badya's teahouse
+  - Sublocations: Ikram's, the village edge, and Badya's teahouse
   - Date Visited: 1748-03-21
-- canyonlands east-northeast of Karawa
-  - Summary: Rocky badlands where the hyenas' trail vanishes and Wellby climbs above the twisting canyons to recover the party's bearings.
-  - Sublocations: following the hyenas' tracks from scrub desert into rocky badlands
+- Karawa Desert
+  - Summary: Rocky badlands where the hyenas' trail vanishes
   - Date Visited: 1748-03-21
-- old trade road toward Gomat
-  - Summary: An ancient route where the party meets Alesh and learns of missing herders and renewed danger near Gomat.
-  - Sublocations: intercepting Alesh northwest of the canyonlands and conferring beside the road
+- Stoneway
+  - Summary: An ancient route where the party meets Alesh; further east, it passes through cataclysm-scarred desert before reaching the Gomat Oasis. 
   - Date Visited: 1748-03-21
-- old trade road east of Karawa
-  - Summary: A cataclysm-scarred desert road that the party follows through an overnight camp and a punishing march toward Gomat.
-  - Sublocations: an overnight camp followed by a forced march through the desert to the oasis
-  - Date Visited: 1748-03-21 to 1748-03-22
 - Gomat Oasis
-  - Summary: A herders' oasis where the party finds silent tents, dead sheep, and three giant lizards feeding in the moonlight.
-  - Sublocations: an overnight camp followed by a forced march through the desert to the oasis
-  - Date Visited: 1748-03-21 to 1748-03-22
+  - Summary: A herders' oasis where the party finds empty tents, dead sheep, and three giant lizards feeding in the moonlight.
+  - Date Visited: 1748-03-22
 
 ## Organizations And Items
 
 ### Organizations
 
-- Shakun Mystai (encountered): The secretive order centered on the Temple of Shakun; its speaker Candrosa, initiate Beli, and other acolytes respond to the attack and care for the wounded.
+- Shakun Mystai (encountered): The secretive order centered on the Temple of Shakun.
   - Karawa, 1748-03-21
 
 ### Items
 
-- Seeker's ley-line diagram (encountered): A star-shaped sketch showing magical lines converging within Karawa's mesa and the Temple of Shakun.
+- Red ochre healing paste (encountered): A muddy temple preparation that Beli uses to close Delwath's and Kenzo's wounds.
   - Karawa, 1748-03-21
-- red ochre healing paste (encountered): A muddy temple preparation that Beli uses to close Delwath's and Kenzo's wounds.
-  - Karawa, 1748-03-21
-- Wellby's grappling hook (encountered): Wellby uses it to reach a high vantage above the canyonlands and locate the party's next lead.
-  - Karawa -> canyonlands east-northeast of Karawa, 1748-03-21
 
 ## Combat
 
@@ -262,91 +245,16 @@ The dust cloud belongs to Alesh, a Dunmari scout returning from Gomat, who repor
 
 ## Pull Quotes
 
-- ID: quote-b01-002
-  - Quote: "But you hardly notice as your steps slow, then stop, and you realize that you are staring at an image out of your dreams."
-  - Speaker: DM
-  - Source Lines: u0023-u0026
-
-
-- ID: quote-b02-002
-  - Quote: "It is a big, nasty thing to punch in the face like that."
-  - Speaker: Seeker
-  - Source Lines: u0660
-
-
-- ID: quote-b03-002
-  - Quote: "It's mounted on an antelope, and there's clearly no antelope there."
-  - Speaker: DM
-  - Source Lines: u0917-u0918
-
-
-- ID: quote-b04-001
-  - Quote: "Are there likely to be more of these things? Like, do we know which direction they came from?"
-  - Speaker: Seeker
-  - Source Lines: u1109-u1110
-
-
 - ID: quote-b05-002
   - Quote: "There's so much blank on the map to the east of here. I've always been curious."
   - Speaker: Wellby
   - Source Lines: u1501-u1503
 
-
-- ID: quote-b06-002
-  - Quote: "That is news that perhaps touches upon some mysteries I may not speak of openly today."
-  - Speaker: Candrosa
-  - Source Lines: u1741-u1744
-
-
-- ID: quote-b07-001
-  - Quote: "If these things came from the east or the south, I have an unlimited amount of time to spend on this journey."
-  - Speaker: Wellby
-  - Source Lines: u1950
-
-
-- ID: quote-b08-002
-  - Quote: "We got animal dust to the north, we got the big canyon to the east, and we've got a whole lot of mess between here or there with nothing moving and no obvious paths through."
-  - Speaker: Wellby
-  - Source Lines: u2756-u2757
-
-
-- ID: quote-b09-002
-  - Quote: "If what you said is true and danger is coming out of the east again, I fear that maybe those days of my childhood are coming back."
-  - Speaker: Alesh
-  - Source Lines: u2938
-
-
-- ID: quote-b10-002
-  - Quote: "In front of the sheep, chewing on them in the darkness, three enormous lizards."
-  - Speaker: DM
-  - Source Lines: u3250-u3252
-
 ## Audio Highlights
 
-- ID: audio-001
-  - Title: Kenzo's recurring dreams carry him through impossible landscapes to the red sandstone mesa and oasis that will draw him into Karawa.
-  - Speaker: DM
-  - Source Lines: u0003-u0018
-  - Output: audio-001.m4a
-  - Why Called Out: A vivid, self-contained campaign-opening narration with strong imagery and a clear final reveal.
-
 - ID: audio-002
-  - Title: Kisa thanks the travelers for saving Karawa, explains why the third and strongest attack cannot be ignored, and asks whether they understand the danger.
-  - Speaker: Kisa
+  - Title: Elder Kisa thanks the travelers for saving Karawa, and asks for help understanding the rampaging beast attacks
+  - Speaker: Elder Kisa
   - Source Lines: u1658-u1677
   - Output: audio-002.m4a
   - Why Called Out: A strong in-character appeal that establishes the village's stakes and turns four strangers into an investigating party.
-
-- ID: audio-003
-  - Title: Alesh recalls warnings about old graves and battlefields and fears that the dangers of her childhood are returning from the east.
-  - Speaker: Alesh
-  - Source Lines: u2930-u2938
-  - Output: audio-003.m4a
-  - Why Called Out: A compact, ominous piece of regional history delivered in a distinct NPC voice.
-
-- ID: audio-004
-  - Title: The party reaches silent Gomat by moonlight and discovers dead sheep and three pony-sized lizards feeding beside the camp.
-  - Speaker: DM
-  - Source Lines: u3235-u3256
-  - Output: audio-004.m4a
-  - Why Called Out: A visual cliffhanger with escalating reveals and immediate tension for the next session.
