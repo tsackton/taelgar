@@ -16,18 +16,10 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- SLOT: updates.whereabouts.npcs -->
 - [[Kalima]]: candidate whereabouts update from (DR:: 1730-01-25), afternoon -> [[Zeyfa's Labyrinth]].
   - Whereabouts line: `- {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}`
-- Unnamed man of Melusa: candidate whereabouts update from (DR:: 1730-01-25), afternoon -> [[Zeyfa's Labyrinth]].
-  - Whereabouts line: `- {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}`
-- wind-creatures: candidate whereabouts update from (DR:: 1730-01-25), afternoon -> [[Zeyfa's Labyrinth]].
-  - Whereabouts line: `- {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}`
-- shaggy white beast: candidate whereabouts update from (DR:: 1730-01-25), afternoon -> [[Zeyfa's Labyrinth]].
-  - Whereabouts line: `- {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}`
-- shadowy beast creatures: candidate whereabouts update from (DR:: 1730-01-25), afternoon -> [[Zeyfa's Labyrinth]].
-  - Whereabouts line: `- {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}`
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1730-01-25), afternoon: The party travels deeper into [[Zeyfa's Labyrinth]], learns of Melusa from a dead sacrifice, survives the maze's whiteout loops, and reaches the beast's chamber.
+- (DR:: 1730-01-25), afternoon: The party travels deeper into [[Zeyfa's Labyrinth]]. They speak with a dead man, survive the maze's whiteout conditions, and reach the beast's chamber.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
@@ -35,10 +27,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
-- Unnamed man of Melusa: no matching note found in the vault index
-- wind-creatures: no matching note found in the vault index
-- shaggy white beast: no matching note found in the vault index
-- shadowy beast creatures: no matching note found in the vault index
 - Romil's token: no matching note found in the vault index
 - plain silver ring: no matching note found in the vault index
 <!-- /SLOT -->

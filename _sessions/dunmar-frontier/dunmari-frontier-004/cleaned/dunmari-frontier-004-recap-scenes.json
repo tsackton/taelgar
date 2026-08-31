@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Return to Karawa",
+      "beatIds": ["beat-001"],
+      "rationale": "The party closes out its exploration of the fort, inventories the recovered relics, and completes the multi-day journey back to Karawa."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Following Arcus's Trail",
+      "beatIds": ["beat-002", "beat-003", "beat-004"],
+      "rationale": "The report to Kisa flows directly into a continuous afternoon and evening investigation through Ikram and Jasu, with the immediate goal of identifying Arcus and understanding his interest in Great War artifacts."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Voice among the Charmhearts",
+      "beatIds": ["beat-005"],
+      "rationale": "The visit to the halfling encampment introduces a new group, location, and threat when Ander reveals the consuming master's voice."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Shakun's Failing Protection",
+      "beatIds": ["beat-006", "beat-007"],
+      "rationale": "The attempted vigil, Candrosa's interruption, and the private temple meeting form one continuous late-night situation culminating in his revelation and plea for help."
+    }
+  ]
+}

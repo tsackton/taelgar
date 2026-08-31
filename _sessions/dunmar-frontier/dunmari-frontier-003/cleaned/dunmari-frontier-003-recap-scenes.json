@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Tracks Into the Fort",
+      "beatIds": ["beat-001", "beat-002", "beat-003"],
+      "rationale": "The party's approach, the ankheg ambush, and the immediate investigation of its burrow form one continuous sequence before the party turns to the temple and towers."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Sanctuary and Spoils",
+      "beatIds": ["beat-004"],
+      "rationale": "The party rests and investigates the fort's temple and towers in a distinct aboveground interlude that ends with the decision to descend below."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Stone Trails Below",
+      "beatIds": ["beat-005", "beat-006", "beat-007"],
+      "rationale": "The statue, cockatrice nursery, and cistern are successive discoveries in one continuous underground exploration following the obsidian trail."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Battle for the Obsidian",
+      "beatIds": ["beat-008", "beat-009"],
+      "rationale": "The skeleton assault and the emergence of the obsidian staff-bearer are two phases of the same uninterrupted combat."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Breaking the Staff",
+      "beatIds": ["beat-010", "beat-011"],
+      "rationale": "The post-battle study leads directly to the decision and repeated attempts to destroy the staff, culminating after the overnight rest."
+    }
+  ]
+}
