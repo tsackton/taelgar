@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-003/cleaned/dunmari-frontier-003-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "The Abandoned Camp",
+      "startUid": "u0001",
+      "endUid": "u0286",
+      "lineCount": 286,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The session opens with the party surveying the ruined fort and investigating the disturbed campsite outside its walls; the beat ends when they decide to cross the causeway and scout inside.",
+      "dateEvidence": [
+        "The session manifest dates the session to 1748-03-25.",
+        "At u0218-u0219 the DM says the party left first thing in the morning and reached the fort in the mid-to-late morning."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Ambush in the Fort",
+      "startUid": "u0287",
+      "endUid": "u0719",
+      "lineCount": 433,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Wellby's scouting draws the party into the fort's central ruin, where an ankheg erupts beneath him; the beat ends with Delwath killing it.",
+      "dateEvidence": [
+        "This follows directly from the morning campsite investigation without a rest or day transition.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Aftermath and Burrow",
+      "startUid": "u0720",
+      "endUid": "u0869",
+      "lineCount": 150,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the ankheg dies, the party examines its burrow and the animal traffic below the headquarters, then turns toward the pentagonal building for shelter and a rest.",
+      "dateEvidence": [
+        "This immediately follows the ankheg fight on the manifest date.",
+        "At u0855 the party proposes having lunch and taking a short rest."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Temple and Towers",
+      "startUid": "u0870",
+      "endUid": "u1217",
+      "lineCount": 348,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party explores the Dunmari temple, rests, and searches the entrance towers, ending after they recover a magical horn and decide to descend underground.",
+      "dateEvidence": [
+        "At u1111 the DM states that it is early afternoon.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Statue and Coin",
+      "startUid": "u1218",
+      "endUid": "u1629",
+      "lineCount": 412,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party descends into the tunnels, finds a lifelike stone explorer, and experiments with a heavy golden coin that becomes a floating disc; the beat ends as they reform their marching order.",
+      "dateEvidence": [
+        "This follows directly from the early-afternoon tower search with no rest or time transition.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Cockatrice Nursery",
+      "startUid": "u1630",
+      "endUid": "u1795",
+      "lineCount": 166,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Continuing through the narrow branch, the party discovers young cockatrices repeatedly petrifying a lion, retreats, and chooses the other passage.",
+      "dateEvidence": [
+        "This is continuous with the afternoon tunnel exploration and contains no rest or day transition.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Beneath the Cistern",
+      "startUid": "u1796",
+      "endUid": "u1968",
+      "lineCount": 173,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party takes the wider branch beneath the ruined cistern, pauses to reason through the fort's history and the obsidian signal, and presses toward a larger cavern.",
+      "dateEvidence": [
+        "At u1802 the DM describes midafternoon sunlight entering through the cistern.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Skeletons in the Dark",
+      "startUid": "u1969",
+      "endUid": "u2201",
+      "lineCount": 233,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "A hostile compulsion and three descending skeletons begin the cavern battle; the beat ends as a second threat enters from the far passage.",
+      "dateEvidence": [
+        "The battle begins immediately after the party's midafternoon approach through the cistern passage.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "The Obsidian Bearer",
+      "startUid": "u2202",
+      "endUid": "u2498",
+      "lineCount": 297,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "An undead hobgoblin carrying a darkness-wreathed obsidian staff joins the fight, which ends when Kenzo strikes it down and the staff clatters free.",
+      "dateEvidence": [
+        "This is the uninterrupted second phase of the cavern battle on the manifest date.",
+        "No rest or time transition separates it from beat-008."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Secrets of the Staff",
+      "startUid": "u2499",
+      "endUid": "u2789",
+      "lineCount": 291,
+      "dateStart": "1748-03-25",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After the battle, the party studies the undead and its still-hostile obsidian staff, identifies a flaw in the crystal, and debates where it can safely be destroyed.",
+      "dateEvidence": [
+        "This follows immediately after the cavern battle without a rest or day transition.",
+        "The session manifest dates the session to 1748-03-25."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Shattering the Obsidian",
+      "startUid": "u2790",
+      "endUid": "u3098",
+      "lineCount": 309,
+      "dateStart": "1748-03-25",
+      "dateEnd": "1748-03-26",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party destroys the obsidian despite its psychic defenses, sees the surrounding beasts calm, then rests overnight in the temple and returns toward camp the next morning.",
+      "dateEvidence": [
+        "The destruction follows directly from the same-day afternoon investigation.",
+        "At u3054-u3064 the party takes a long rest, wakes in the morning, and heads back toward camp, implying 1748-03-26."
+      ]
+    }
+  ]
+}

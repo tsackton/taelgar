@@ -1,0 +1,2194 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 4,
+    "realWorldDate": "2020-07-09",
+    "drStart": "1748-03-26",
+    "drEnd": "1748-03-29"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-03-26",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Dunmari Fort",
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Arcus"
+      ],
+      "organizationRefs": [
+        "Dunmari Religion"
+      ],
+      "itemRefs": [
+        "Aagir's Everlight",
+        "Black Iron Staff",
+        "Holy symbol of Cha'mutte",
+        "Floating Disc Coin",
+        "Horn of Silent Alarm (Dunmari)",
+        "Recovered Dunmari temple relics"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa."
+      ],
+      "sourceLongSummaries": [
+        "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "From the Fort to Karawa",
+          "boundaryReason": "The party wakes in the pacified fort, investigates the temple and tunnels, inventories the recovered relics, and then makes the uneventful multi-day journey west to a festival-swollen Karawa.",
+          "dateStart": "1748-03-26",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0517"
+          },
+          "shortSummary": "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa.",
+          "longSummary": "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-26",
+            "dateEnd": "1748-03-29",
+            "dayPosition": "start"
+          },
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort",
+              "Karawa"
+            ],
+            "context": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+            "notes": "The beat begins on March 26 at the fort and ends with the party's arrival in Karawa on March 29."
+          },
+          "npcDetails": [
+            {
+              "name": "Arcus",
+              "role": "encountered",
+              "context": "petrified explorer left at the fort",
+              "notes": "The party still does not know his name; Seeker makes a detailed sketch before they depart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Aagir's Everlight",
+              "role": "encountered",
+              "notes": "The party carries the enchanted spearpoint statuette away from the fort."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party records its Draconic inscription and carries the staff to Karawa."
+            },
+            {
+              "name": "Holy symbol of Cha'mutte",
+              "role": "encountered",
+              "notes": "A black-pearl and polished-silver symbol in a twisted-flame design recovered from the cavern."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "encountered",
+              "notes": "The party retains the old Chardonian coin that transforms into a hovering disc."
+            },
+            {
+              "name": "Horn of Silent Alarm (Dunmari)",
+              "role": "encountered",
+              "notes": "The party carries the magical horn recovered from the fort."
+            },
+            {
+              "name": "Recovered Dunmari temple relics",
+              "role": "encountered",
+              "notes": "The party transports the portable sacred objects back toward Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Dunmari Religion",
+              "role": "encountered",
+              "notes": "The party inventories sacred objects recovered from the fort's temple to the Five Siblings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-03-27",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Dunmari Fort",
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Arcus"
+      ],
+      "organizationRefs": [
+        "Dunmari Religion"
+      ],
+      "itemRefs": [
+        "Aagir's Everlight",
+        "Black Iron Staff",
+        "Holy symbol of Cha'mutte",
+        "Floating Disc Coin",
+        "Horn of Silent Alarm (Dunmari)",
+        "Recovered Dunmari temple relics"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa."
+      ],
+      "sourceLongSummaries": [
+        "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "From the Fort to Karawa",
+          "boundaryReason": "The party wakes in the pacified fort, investigates the temple and tunnels, inventories the recovered relics, and then makes the uneventful multi-day journey west to a festival-swollen Karawa.",
+          "dateStart": "1748-03-27",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0517"
+          },
+          "shortSummary": "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa.",
+          "longSummary": "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-26",
+            "dateEnd": "1748-03-29",
+            "dayPosition": "middle"
+          },
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort",
+              "Karawa"
+            ],
+            "context": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+            "notes": "The beat begins on March 26 at the fort and ends with the party's arrival in Karawa on March 29."
+          },
+          "npcDetails": [
+            {
+              "name": "Arcus",
+              "role": "encountered",
+              "context": "petrified explorer left at the fort",
+              "notes": "The party still does not know his name; Seeker makes a detailed sketch before they depart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Aagir's Everlight",
+              "role": "encountered",
+              "notes": "The party carries the enchanted spearpoint statuette away from the fort."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party records its Draconic inscription and carries the staff to Karawa."
+            },
+            {
+              "name": "Holy symbol of Cha'mutte",
+              "role": "encountered",
+              "notes": "A black-pearl and polished-silver symbol in a twisted-flame design recovered from the cavern."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "encountered",
+              "notes": "The party retains the old Chardonian coin that transforms into a hovering disc."
+            },
+            {
+              "name": "Horn of Silent Alarm (Dunmari)",
+              "role": "encountered",
+              "notes": "The party carries the magical horn recovered from the fort."
+            },
+            {
+              "name": "Recovered Dunmari temple relics",
+              "role": "encountered",
+              "notes": "The party transports the portable sacred objects back toward Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Dunmari Religion",
+              "role": "encountered",
+              "notes": "The party inventories sacred objects recovered from the fort's temple to the Five Siblings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-03-28",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Dunmari Fort",
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Arcus"
+      ],
+      "organizationRefs": [
+        "Dunmari Religion"
+      ],
+      "itemRefs": [
+        "Aagir's Everlight",
+        "Black Iron Staff",
+        "Holy symbol of Cha'mutte",
+        "Floating Disc Coin",
+        "Horn of Silent Alarm (Dunmari)",
+        "Recovered Dunmari temple relics"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa."
+      ],
+      "sourceLongSummaries": [
+        "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "From the Fort to Karawa",
+          "boundaryReason": "The party wakes in the pacified fort, investigates the temple and tunnels, inventories the recovered relics, and then makes the uneventful multi-day journey west to a festival-swollen Karawa.",
+          "dateStart": "1748-03-28",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0517"
+          },
+          "shortSummary": "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa.",
+          "longSummary": "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-26",
+            "dateEnd": "1748-03-29",
+            "dayPosition": "middle"
+          },
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort",
+              "Karawa"
+            ],
+            "context": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+            "notes": "The beat begins on March 26 at the fort and ends with the party's arrival in Karawa on March 29."
+          },
+          "npcDetails": [
+            {
+              "name": "Arcus",
+              "role": "encountered",
+              "context": "petrified explorer left at the fort",
+              "notes": "The party still does not know his name; Seeker makes a detailed sketch before they depart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Aagir's Everlight",
+              "role": "encountered",
+              "notes": "The party carries the enchanted spearpoint statuette away from the fort."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party records its Draconic inscription and carries the staff to Karawa."
+            },
+            {
+              "name": "Holy symbol of Cha'mutte",
+              "role": "encountered",
+              "notes": "A black-pearl and polished-silver symbol in a twisted-flame design recovered from the cavern."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "encountered",
+              "notes": "The party retains the old Chardonian coin that transforms into a hovering disc."
+            },
+            {
+              "name": "Horn of Silent Alarm (Dunmari)",
+              "role": "encountered",
+              "notes": "The party carries the magical horn recovered from the fort."
+            },
+            {
+              "name": "Recovered Dunmari temple relics",
+              "role": "encountered",
+              "notes": "The party transports the portable sacred objects back toward Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Dunmari Religion",
+              "role": "encountered",
+              "notes": "The party inventories sacred objects recovered from the fort's temple to the Five Siblings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Dunmari Fort",
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Arcus"
+      ],
+      "organizationRefs": [
+        "Dunmari Religion"
+      ],
+      "itemRefs": [
+        "Aagir's Everlight",
+        "Black Iron Staff",
+        "Holy symbol of Cha'mutte",
+        "Floating Disc Coin",
+        "Horn of Silent Alarm (Dunmari)",
+        "Recovered Dunmari temple relics"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa."
+      ],
+      "sourceLongSummaries": [
+        "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "From the Fort to Karawa",
+          "boundaryReason": "The party wakes in the pacified fort, investigates the temple and tunnels, inventories the recovered relics, and then makes the uneventful multi-day journey west to a festival-swollen Karawa.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0517"
+          },
+          "shortSummary": "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa.",
+          "longSummary": "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth.",
+          "sourceDateSpan": {
+            "dateStart": "1748-03-26",
+            "dateEnd": "1748-03-29",
+            "dayPosition": "end"
+          },
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort",
+              "Karawa"
+            ],
+            "context": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+            "notes": "The beat begins on March 26 at the fort and ends with the party's arrival in Karawa on March 29."
+          },
+          "npcDetails": [
+            {
+              "name": "Arcus",
+              "role": "encountered",
+              "context": "petrified explorer left at the fort",
+              "notes": "The party still does not know his name; Seeker makes a detailed sketch before they depart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Aagir's Everlight",
+              "role": "encountered",
+              "notes": "The party carries the enchanted spearpoint statuette away from the fort."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party records its Draconic inscription and carries the staff to Karawa."
+            },
+            {
+              "name": "Holy symbol of Cha'mutte",
+              "role": "encountered",
+              "notes": "A black-pearl and polished-silver symbol in a twisted-flame design recovered from the cavern."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "encountered",
+              "notes": "The party retains the old Chardonian coin that transforms into a hovering disc."
+            },
+            {
+              "name": "Horn of Silent Alarm (Dunmari)",
+              "role": "encountered",
+              "notes": "The party carries the magical horn recovered from the fort."
+            },
+            {
+              "name": "Recovered Dunmari temple relics",
+              "role": "encountered",
+              "notes": "The party transports the portable sacred objects back toward Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Dunmari Religion",
+              "role": "encountered",
+              "notes": "The party inventories sacred objects recovered from the fort's temple to the Five Siblings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Kisa",
+        "Ikram"
+      ],
+      "organizationRefs": [
+        "Karawa Council"
+      ],
+      "itemRefs": [
+        "Black Iron Staff",
+        "Sketch of Arcus"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party reports its success to Kisa, who connects current dangers to the Summer of Red Storms and directs them to Ikram and Candrosa.",
+        "At the caravanserai, Ikram identifies the petrified explorer as Arcus and shares news about his movements, recent attacks, and the coming festival."
+      ],
+      "sourceLongSummaries": [
+        "The party finds Kisa in Karawa's council chamber and reports that it destroyed the apparent source of the animals' unnatural aggression. Kisa says the last three days have been quiet but that returning travelers report fresh axebeak attacks. The Draconic inscription on the Black Iron Staff leaves her out of her depth, and she recommends consulting Candrosa. She recounts the Summer of Red Storms, when half-human, half-hyena creatures crossed the border about forty years ago, and identifies Seeker's sketch as a stranger rather than a Karawa local. She directs the party to Ikram for more information and offers them food and lodging at the town's expense.",
+        "Ikram welcomes the party to his crowded caravanserai and recognizes Seeker's sketch as Arcus, a quiet foreign traveler who stayed one night four or five weeks earlier. Arcus paid with old Chardonian silver, showed a strong interest in artifacts, and spoke with the smith Jasu before leaving. Ikram also describes attacks on Akan's and Devana's families, discusses the festival's axebeak-riding competition, and explains that cockatrice petrification is normally temporary. He recommends Alesh for ancient artifacts and Candrosa for magic before the party decides to question Jasu."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "Kisa Hears Their Report",
+          "boundaryReason": "Back in Karawa, the party reports its success to Kisa, learns of the Summer of Red Storms and recent attacks, and is directed toward Ikram and the temple.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0518",
+            "endUid": "u0768"
+          },
+          "shortSummary": "The party reports its success to Kisa, who connects current dangers to the Summer of Red Storms and directs them to Ikram and Candrosa.",
+          "longSummary": "The party finds Kisa in Karawa's council chamber and reports that it destroyed the apparent source of the animals' unnatural aggression. Kisa says the last three days have been quiet but that returning travelers report fresh axebeak attacks. The Draconic inscription on the Black Iron Staff leaves her out of her depth, and she recommends consulting Candrosa. She recounts the Summer of Red Storms, when half-human, half-hyena creatures crossed the border about forty years ago, and identifies Seeker's sketch as a stranger rather than a Karawa local. She directs the party to Ikram for more information and offers them food and lodging at the town's expense.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "council chamber beside the public square",
+            "notes": "The report takes place shortly after the party arrives in town."
+          },
+          "npcDetails": [
+            {
+              "name": "Kisa",
+              "role": "encountered",
+              "context": "Karawa elder receiving the party's report",
+              "notes": "She shares news from returning travelers and directs the party toward local sources of expertise."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "context": "unidentified man in Seeker's sketch",
+              "notes": "Kisa confirms that the petrified explorer is not from Karawa but does not know his name."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "rider warning outlying people about the danger",
+              "notes": "Kisa says Alesh has gone out to carry news that the threat has ended."
+            },
+            {
+              "name": "Ikram",
+              "role": "mentioned",
+              "context": "recommended source of information about visitors",
+              "notes": "Kisa directs the party to Ikram to identify the man in Seeker's sketch."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "recommended expert on the staff and its magic",
+              "notes": "Kisa suggests that Candrosa may understand more about the Black Iron Staff."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party shows Kisa the staff and its Draconic inscription."
+            },
+            {
+              "name": "Sketch of Arcus",
+              "role": "encountered",
+              "notes": "Kisa examines Seeker's drawing of the petrified explorer."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Karawa Council",
+              "role": "encountered",
+              "notes": "Kisa receives the party's report in the council chamber."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Stories at Ikram's",
+          "boundaryReason": "The party enters the bustling caravanserai, where Ikram identifies Arcus and shares news of artifacts, attacked herders, and the festival's coming competitions.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0769",
+            "endUid": "u1094"
+          },
+          "shortSummary": "At the caravanserai, Ikram identifies the petrified explorer as Arcus and shares news about his movements, recent attacks, and the coming festival.",
+          "longSummary": "Ikram welcomes the party to his crowded caravanserai and recognizes Seeker's sketch as Arcus, a quiet foreign traveler who stayed one night four or five weeks earlier. Arcus paid with old Chardonian silver, showed a strong interest in artifacts, and spoke with the smith Jasu before leaving. Ikram also describes attacks on Akan's and Devana's families, discusses the festival's axebeak-riding competition, and explains that cockatrice petrification is normally temporary. He recommends Alesh for ancient artifacts and Candrosa for magic before the party decides to question Jasu.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Ikram's caravanserai and courtyard",
+            "notes": "The establishment is busy with visitors gathered for the approaching festival."
+          },
+          "npcDetails": [
+            {
+              "name": "Ikram",
+              "role": "encountered",
+              "context": "proprietor of the caravanserai",
+              "notes": "He identifies Arcus and shares information about travelers, attacks, and local expertise."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "context": "foreign traveler in Seeker's sketch",
+              "notes": "Ikram identifies him as a quiet visitor interested in artifacts who stayed four or five weeks earlier."
+            },
+            {
+              "name": "Jasu",
+              "role": "mentioned",
+              "context": "smith consulted by Arcus",
+              "notes": "Ikram says Arcus spoke with Jasu during his brief stay."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "recommended expert on ancient Dunmari artifacts",
+              "notes": "Ikram says she is currently away from town."
+            },
+            {
+              "name": "Akan",
+              "role": "mentioned",
+              "context": "herder whose family suffered an attack",
+              "notes": "Ikram reports that Akan's family was among those harmed."
+            },
+            {
+              "name": "Devana",
+              "role": "mentioned",
+              "context": "herder whose family suffered an axebeak attack",
+              "notes": "Ikram reports that Devana's family was also attacked."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "recommended source of magical expertise",
+              "notes": "Ikram suggests consulting Candrosa about magical matters."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Sketch of Arcus",
+              "role": "encountered",
+              "notes": "Ikram recognizes the man in Seeker's drawing."
+            },
+            {
+              "name": "Chardonian silver coins",
+              "role": "mentioned",
+              "notes": "Ikram says Arcus paid with unusually old Chardonian silver."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "mentioned",
+              "notes": "The party discusses the recovered coin as another old Chardonian object."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-006",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Jasu",
+        "Bree Charmheart",
+        "Ander Charmheart"
+      ],
+      "organizationRefs": [
+        "Charmhearts"
+      ],
+      "itemRefs": [
+        "Wellby's map",
+        "Sketch of Arcus"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After comparing maps and theories about Arcus, the party learns from Jasu that the explorer left behind strangely resilient silvered spearpoints.",
+        "At the Charmhearts' camp, a disheveled Ander points at Wellby and speaks blissfully of a master who will consume him and the world."
+      ],
+      "sourceLongSummaries": [
+        "The party compares Wellby's map with Seeker's observations of ley lines and considers possible links among Arcus, Chardon, and the recent disturbances. They find Jasu closing his blacksmith shop and accompany him back to Ikram's, where he recognizes Arcus from Seeker's sketch. Jasu says Arcus was interested in Great War artifacts and left two silvered spearpoints to be hafted, expecting to return within weeks. The metal resists heat, reforging, and every attempt to work it, so Jasu promises to show the spearpoints to the party in the morning. He also names Alesh as the best local expert on Dunmari artifacts.",
+        "The party walks through Karawa's festival encampment to the colorful wagons of a large Sembaran halfling company. Bree Charmheart welcomes them at first, but grows guarded when Wellby asks about an ill and disheveled companion who had spoken into his mind. As the party prepares to leave, Ander Charmheart staggers from a wagon, points at Wellby, says that he spoke to him, and declares with serene joy that the master will eat him soon. Once they are away, Wellby explains that Ander hears an endless voice promising joy, demanding that he join the master, and saying the master will consume the world. The party suspects a connection to the Black Iron Staff and the disturbances around Karawa."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "Maps and Jasu's Clues",
+          "boundaryReason": "After reviewing what they know about Arcus and the region, the party visits Jasu and learns about the explorer's silvered spearpoints and interest in Great War artifacts.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1095",
+            "endUid": "u1537"
+          },
+          "shortSummary": "After comparing maps and theories about Arcus, the party learns from Jasu that the explorer left behind strangely resilient silvered spearpoints.",
+          "longSummary": "The party compares Wellby's map with Seeker's observations of ley lines and considers possible links among Arcus, Chardon, and the recent disturbances. They find Jasu closing his blacksmith shop and accompany him back to Ikram's, where he recognizes Arcus from Seeker's sketch. Jasu says Arcus was interested in Great War artifacts and left two silvered spearpoints to be hafted, expecting to return within weeks. The metal resists heat, reforging, and every attempt to work it, so Jasu promises to show the spearpoints to the party in the morning. He also names Alesh as the best local expert on Dunmari artifacts.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Jasu's blacksmith shop and Ikram's caravanserai",
+            "notes": "The party crosses a short distance within town and conducts the interview at Ikram's."
+          },
+          "npcDetails": [
+            {
+              "name": "Jasu",
+              "role": "encountered",
+              "context": "Karawa blacksmith who worked for Arcus",
+              "notes": "He describes the unusual spearpoints and agrees to show them to the party the next morning."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "context": "foreign artifact-seeker who hired Jasu",
+              "notes": "Jasu says Arcus expected to return within a few weeks but never did."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "recommended expert on Dunmari artifacts",
+              "notes": "Jasu says she is the person to consult when she returns to town."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wellby's map",
+              "role": "encountered",
+              "notes": "The party uses it to discuss Dunmar, Chardon, and Seeker's observations of ley lines."
+            },
+            {
+              "name": "Sketch of Arcus",
+              "role": "encountered",
+              "notes": "Jasu recognizes Arcus from Seeker's drawing."
+            },
+            {
+              "name": "Arcus's silvered spearpoints",
+              "role": "mentioned",
+              "notes": "Two apparently new spearpoints that resist Jasu's attempts to heat, reforge, or haft them."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "mentioned",
+              "notes": "The party decides not to display it publicly and plans to show it to Jasu later."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "The Charmhearts' Troubling Secret",
+          "boundaryReason": "The party visits Bree Charmheart's camp, where her guarded reception gives way to an alarming encounter with a disheveled halfling who speaks ecstatically of a consuming master.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1538",
+            "endUid": "u1776"
+          },
+          "shortSummary": "At the Charmhearts' camp, a disheveled Ander points at Wellby and speaks blissfully of a master who will consume him and the world.",
+          "longSummary": "The party walks through Karawa's festival encampment to the colorful wagons of a large Sembaran halfling company. Bree Charmheart welcomes them at first, but grows guarded when Wellby asks about an ill and disheveled companion who had spoken into his mind. As the party prepares to leave, Ander Charmheart staggers from a wagon, points at Wellby, says that he spoke to him, and declares with serene joy that the master will eat him soon. Once they are away, Wellby explains that Ander hears an endless voice promising joy, demanding that he join the master, and saying the master will consume the world. The party suspects a connection to the Black Iron Staff and the disturbances around Karawa.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the Charmhearts' wagons in the festival encampment west of the caravanserai",
+            "notes": "The party visits the halfling travelers around their evening cookfire."
+          },
+          "npcDetails": [
+            {
+              "name": "Bree Charmheart",
+              "role": "encountered",
+              "context": "leader of the halfling travelers",
+              "notes": "She initially welcomes the party but becomes protective and asks them to leave when Ander appears."
+            },
+            {
+              "name": "Ander Charmheart",
+              "role": "encountered",
+              "context": "disheveled halfling hearing an unceasing voice",
+              "notes": "He is not named in the beat; his later-established identity is Ander Charmheart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Black Iron Staff",
+              "role": "mentioned",
+              "notes": "The party wonders whether the staff and the voice in Ander's mind share a source."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Charmhearts",
+              "role": "encountered",
+              "notes": "A large Sembaran halfling traveling company camped in colorful wagons for the festival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-007",
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Candrosa",
+        "Ikram",
+        "Havdar"
+      ],
+      "organizationRefs": [
+        "Temple of Shakun"
+      ],
+      "itemRefs": [
+        "Black Iron Staff",
+        "Candrosa's amulet",
+        "Healing mud vials"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Candrosa interrupts the party's vigil at the oasis and insists on speaking after Wellby retrieves a very drunk Kenzo from Ikram's.",
+        "Candrosa reveals that Shakun's ancient border protections are failing and asks the party to help defend Dunmar from threats now crossing its borders."
+      ],
+      "sourceLongSummaries": [
+        "Delwath, Seeker, and Wellby settle near Karawa's oasis for an overnight vigil, hoping that meditation might bring insight from Shakun, while Kenzo continues drinking with Ikram. Around 10:30 or 11:00 p.m., Candrosa crosses the temple plaza, interrupts the vigil, and says that new messages make an immediate conversation necessary. He sends Wellby to collect Kenzo, whose attempted halfling sobering ritual with three eggs and a stick ends in thrown eggs. As the party gathers, a young, well-equipped warrior later identified as Havdar rides from the Temple of Shakun toward the encampment.",
+        "Candrosa leads the party into a side room of the Temple of Shakun, where the Black Iron Staff and their questions expose his fear and uncertainty. After hearing why each traveler came to Karawa, he casts Zone of Truth and asks whether they intend to aid the town. Satisfied, he reveals that Shakun's magic has hidden and protected Dunmar's borders since the aftermath of the Great War, but now seems to have failed. Havdar has returned from fighting half-human, half-hyena creatures south of Karawa, an unending lightning storm has appeared to the northeast, and Ander's voice adds another unexplained threat. Candrosa begs the party to serve as the mundane defense Shakun no longer provides, asks for secrecy to prevent panic before the Festival of Rebirth, and proposes speaking with Havdar in the morning. Before sending them to rest, he gives each traveler a vial of healing mud as thanks and a token of trust."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "Meditation Interrupted",
+          "boundaryReason": "Delwath, Seeker, and Wellby attempt an overnight vigil at the oasis until Candrosa interrupts them and sends Wellby to collect a drunken Kenzo from Ikram's.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1777",
+            "endUid": "u2065"
+          },
+          "shortSummary": "Candrosa interrupts the party's vigil at the oasis and insists on speaking after Wellby retrieves a very drunk Kenzo from Ikram's.",
+          "longSummary": "Delwath, Seeker, and Wellby settle near Karawa's oasis for an overnight vigil, hoping that meditation might bring insight from Shakun, while Kenzo continues drinking with Ikram. Around 10:30 or 11:00 p.m., Candrosa crosses the temple plaza, interrupts the vigil, and says that new messages make an immediate conversation necessary. He sends Wellby to collect Kenzo, whose attempted halfling sobering ritual with three eggs and a stick ends in thrown eggs. As the party gathers, a young, well-equipped warrior later identified as Havdar rides from the Temple of Shakun toward the encampment.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the oasis and Temple of Shakun plaza, with a brief visit to Ikram's caravanserai",
+            "notes": "Most of the party remains beside the oasis while Wellby retrieves Kenzo."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "encountered",
+              "context": "mystai who summons the party to an urgent meeting",
+              "notes": "He interrupts the vigil after receiving troubling news."
+            },
+            {
+              "name": "Ikram",
+              "role": "encountered",
+              "context": "drinking companion at the caravanserai",
+              "notes": "Kenzo is still drinking with him when Wellby arrives."
+            },
+            {
+              "name": "Havdar",
+              "role": "encountered",
+              "context": "armed rider leaving the Temple of Shakun",
+              "notes": "He is unnamed when seen; Candrosa identifies him in the following beat as the warrior returning from a battle south of Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Temple of Shakun",
+              "role": "encountered",
+              "notes": "Candrosa emerges from the temple, and Havdar rides away from it as the party assembles."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Shakun's Protection Fails",
+          "boundaryReason": "Inside the Temple of Shakun, Candrosa tests the party's intentions, reveals that Shakun's border protections are failing, and asks them to help defend Dunmar.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2066",
+            "endUid": "u2485"
+          },
+          "shortSummary": "Candrosa reveals that Shakun's ancient border protections are failing and asks the party to help defend Dunmar from threats now crossing its borders.",
+          "longSummary": "Candrosa leads the party into a side room of the Temple of Shakun, where the Black Iron Staff and their questions expose his fear and uncertainty. After hearing why each traveler came to Karawa, he casts Zone of Truth and asks whether they intend to aid the town. Satisfied, he reveals that Shakun's magic has hidden and protected Dunmar's borders since the aftermath of the Great War, but now seems to have failed. Havdar has returned from fighting half-human, half-hyena creatures south of Karawa, an unending lightning storm has appeared to the northeast, and Ander's voice adds another unexplained threat. Candrosa begs the party to serve as the mundane defense Shakun no longer provides, asks for secrecy to prevent panic before the Festival of Rebirth, and proposes speaking with Havdar in the morning. Before sending them to rest, he gives each traveler a vial of healing mud as thanks and a token of trust.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "a private side room inside the Temple of Shakun",
+            "notes": "The late-night meeting ends the session."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "encountered",
+              "context": "mystai revealing the failure of Shakun's protection",
+              "notes": "He tests the party's intentions, asks for their aid and discretion, and gives them healing mud."
+            },
+            {
+              "name": "Havdar",
+              "role": "mentioned",
+              "context": "warrior returning from battle south of Karawa",
+              "notes": "Candrosa proposes that the party hear his report in the morning."
+            },
+            {
+              "name": "Speaker Lora",
+              "role": "mentioned",
+              "context": "person who sent Kenzo to find Candrosa",
+              "notes": "Kenzo reveals that Candrosa is the reason he came to Karawa."
+            },
+            {
+              "name": "Ander Charmheart",
+              "role": "mentioned",
+              "context": "halfling hearing an endless voice",
+              "notes": "The party reports his disturbing statements to Candrosa."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "Kenzo places the staff on the table while the party explains what happened beneath the fort."
+            },
+            {
+              "name": "Candrosa's amulet",
+              "role": "encountered",
+              "notes": "Candrosa holds it while casting Zone of Truth around the party."
+            },
+            {
+              "name": "Healing mud vials",
+              "role": "encountered",
+              "notes": "Candrosa gives one small vial to each party member as thanks and a token of good faith."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Temple of Shakun",
+              "role": "encountered",
+              "notes": "Candrosa reveals that its divine border protections have failed and the town has long trusted the temple as its guardian."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Return to Karawa",
+      "beatIds": [
+        "beat-001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0517"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0517"
+        }
+      ],
+      "dateStart": "1748-03-26",
+      "dateEnd": "1748-03-29",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Dunmari Fort",
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Arcus"
+      ],
+      "organizationRefs": [
+        "Dunmari Religion"
+      ],
+      "itemRefs": [
+        "Aagir's Everlight",
+        "Black Iron Staff",
+        "Holy symbol of Cha'mutte",
+        "Floating Disc Coin",
+        "Horn of Silent Alarm (Dunmari)",
+        "Recovered Dunmari temple relics"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa."
+      ],
+      "sourceLongSummaries": [
+        "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "From the Fort to Karawa",
+          "boundaryReason": "The party wakes in the pacified fort, investigates the temple and tunnels, inventories the recovered relics, and then makes the uneventful multi-day journey west to a festival-swollen Karawa.",
+          "dateStart": "1748-03-26",
+          "dateEnd": "1748-03-29",
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0517"
+          },
+          "shortSummary": "The party inventories the fort's relics, leaves the petrified Arcus behind, and makes the three-day journey west to a crowded Karawa.",
+          "longSummary": "Waking in the now-peaceful temple, the party confirms that the tunnel beneath the fort was dug by a creature and predates the recent disturbances. They inventory the relics recovered from the temple and caverns, copy the Black Iron Staff's Draconic inscription, and debate what to do about the cockatrices and the petrified explorer. Seeker sketches Arcus before the party leaves him in the fort and carries the relics west across the desert. The unnatural tension has lifted from the land, and after three days of uneventful travel they reach Karawa, where crowds have gathered for the Festival of Rebirth.",
+          "locationHints": {
+            "refs": [
+              "Dunmari Fort",
+              "Karawa"
+            ],
+            "context": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+            "notes": "The beat begins on March 26 at the fort and ends with the party's arrival in Karawa on March 29."
+          },
+          "npcDetails": [
+            {
+              "name": "Arcus",
+              "role": "encountered",
+              "context": "petrified explorer left at the fort",
+              "notes": "The party still does not know his name; Seeker makes a detailed sketch before they depart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Aagir's Everlight",
+              "role": "encountered",
+              "notes": "The party carries the enchanted spearpoint statuette away from the fort."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party records its Draconic inscription and carries the staff to Karawa."
+            },
+            {
+              "name": "Holy symbol of Cha'mutte",
+              "role": "encountered",
+              "notes": "A black-pearl and polished-silver symbol in a twisted-flame design recovered from the cavern."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "encountered",
+              "notes": "The party retains the old Chardonian coin that transforms into a hovering disc."
+            },
+            {
+              "name": "Horn of Silent Alarm (Dunmari)",
+              "role": "encountered",
+              "notes": "The party carries the magical horn recovered from the fort."
+            },
+            {
+              "name": "Recovered Dunmari temple relics",
+              "role": "encountered",
+              "notes": "The party transports the portable sacred objects back toward Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Dunmari Religion",
+              "role": "encountered",
+              "notes": "The party inventories sacred objects recovered from the fort's temple to the Five Siblings."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Following Arcus's Trail",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0518",
+        "endUid": "u1537"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0518",
+          "endUid": "u0768"
+        },
+        {
+          "startUid": "u0769",
+          "endUid": "u1094"
+        },
+        {
+          "startUid": "u1095",
+          "endUid": "u1537"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Kisa",
+        "Ikram",
+        "Jasu"
+      ],
+      "organizationRefs": [
+        "Karawa Council"
+      ],
+      "itemRefs": [
+        "Black Iron Staff",
+        "Sketch of Arcus",
+        "Wellby's map"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party reports its success to Kisa, who connects current dangers to the Summer of Red Storms and directs them to Ikram and Candrosa.",
+        "At the caravanserai, Ikram identifies the petrified explorer as Arcus and shares news about his movements, recent attacks, and the coming festival.",
+        "After comparing maps and theories about Arcus, the party learns from Jasu that the explorer left behind strangely resilient silvered spearpoints."
+      ],
+      "sourceLongSummaries": [
+        "The party finds Kisa in Karawa's council chamber and reports that it destroyed the apparent source of the animals' unnatural aggression. Kisa says the last three days have been quiet but that returning travelers report fresh axebeak attacks. The Draconic inscription on the Black Iron Staff leaves her out of her depth, and she recommends consulting Candrosa. She recounts the Summer of Red Storms, when half-human, half-hyena creatures crossed the border about forty years ago, and identifies Seeker's sketch as a stranger rather than a Karawa local. She directs the party to Ikram for more information and offers them food and lodging at the town's expense.",
+        "Ikram welcomes the party to his crowded caravanserai and recognizes Seeker's sketch as Arcus, a quiet foreign traveler who stayed one night four or five weeks earlier. Arcus paid with old Chardonian silver, showed a strong interest in artifacts, and spoke with the smith Jasu before leaving. Ikram also describes attacks on Akan's and Devana's families, discusses the festival's axebeak-riding competition, and explains that cockatrice petrification is normally temporary. He recommends Alesh for ancient artifacts and Candrosa for magic before the party decides to question Jasu.",
+        "The party compares Wellby's map with Seeker's observations of ley lines and considers possible links among Arcus, Chardon, and the recent disturbances. They find Jasu closing his blacksmith shop and accompany him back to Ikram's, where he recognizes Arcus from Seeker's sketch. Jasu says Arcus was interested in Great War artifacts and left two silvered spearpoints to be hafted, expecting to return within weeks. The metal resists heat, reforging, and every attempt to work it, so Jasu promises to show the spearpoints to the party in the morning. He also names Alesh as the best local expert on Dunmari artifacts."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "Kisa Hears Their Report",
+          "boundaryReason": "Back in Karawa, the party reports its success to Kisa, learns of the Summer of Red Storms and recent attacks, and is directed toward Ikram and the temple.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0518",
+            "endUid": "u0768"
+          },
+          "shortSummary": "The party reports its success to Kisa, who connects current dangers to the Summer of Red Storms and directs them to Ikram and Candrosa.",
+          "longSummary": "The party finds Kisa in Karawa's council chamber and reports that it destroyed the apparent source of the animals' unnatural aggression. Kisa says the last three days have been quiet but that returning travelers report fresh axebeak attacks. The Draconic inscription on the Black Iron Staff leaves her out of her depth, and she recommends consulting Candrosa. She recounts the Summer of Red Storms, when half-human, half-hyena creatures crossed the border about forty years ago, and identifies Seeker's sketch as a stranger rather than a Karawa local. She directs the party to Ikram for more information and offers them food and lodging at the town's expense.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "council chamber beside the public square",
+            "notes": "The report takes place shortly after the party arrives in town."
+          },
+          "npcDetails": [
+            {
+              "name": "Kisa",
+              "role": "encountered",
+              "context": "Karawa elder receiving the party's report",
+              "notes": "She shares news from returning travelers and directs the party toward local sources of expertise."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "context": "unidentified man in Seeker's sketch",
+              "notes": "Kisa confirms that the petrified explorer is not from Karawa but does not know his name."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "rider warning outlying people about the danger",
+              "notes": "Kisa says Alesh has gone out to carry news that the threat has ended."
+            },
+            {
+              "name": "Ikram",
+              "role": "mentioned",
+              "context": "recommended source of information about visitors",
+              "notes": "Kisa directs the party to Ikram to identify the man in Seeker's sketch."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "recommended expert on the staff and its magic",
+              "notes": "Kisa suggests that Candrosa may understand more about the Black Iron Staff."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "The party shows Kisa the staff and its Draconic inscription."
+            },
+            {
+              "name": "Sketch of Arcus",
+              "role": "encountered",
+              "notes": "Kisa examines Seeker's drawing of the petrified explorer."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Karawa Council",
+              "role": "encountered",
+              "notes": "Kisa receives the party's report in the council chamber."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Stories at Ikram's",
+          "boundaryReason": "The party enters the bustling caravanserai, where Ikram identifies Arcus and shares news of artifacts, attacked herders, and the festival's coming competitions.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0769",
+            "endUid": "u1094"
+          },
+          "shortSummary": "At the caravanserai, Ikram identifies the petrified explorer as Arcus and shares news about his movements, recent attacks, and the coming festival.",
+          "longSummary": "Ikram welcomes the party to his crowded caravanserai and recognizes Seeker's sketch as Arcus, a quiet foreign traveler who stayed one night four or five weeks earlier. Arcus paid with old Chardonian silver, showed a strong interest in artifacts, and spoke with the smith Jasu before leaving. Ikram also describes attacks on Akan's and Devana's families, discusses the festival's axebeak-riding competition, and explains that cockatrice petrification is normally temporary. He recommends Alesh for ancient artifacts and Candrosa for magic before the party decides to question Jasu.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Ikram's caravanserai and courtyard",
+            "notes": "The establishment is busy with visitors gathered for the approaching festival."
+          },
+          "npcDetails": [
+            {
+              "name": "Ikram",
+              "role": "encountered",
+              "context": "proprietor of the caravanserai",
+              "notes": "He identifies Arcus and shares information about travelers, attacks, and local expertise."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "context": "foreign traveler in Seeker's sketch",
+              "notes": "Ikram identifies him as a quiet visitor interested in artifacts who stayed four or five weeks earlier."
+            },
+            {
+              "name": "Jasu",
+              "role": "mentioned",
+              "context": "smith consulted by Arcus",
+              "notes": "Ikram says Arcus spoke with Jasu during his brief stay."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "recommended expert on ancient Dunmari artifacts",
+              "notes": "Ikram says she is currently away from town."
+            },
+            {
+              "name": "Akan",
+              "role": "mentioned",
+              "context": "herder whose family suffered an attack",
+              "notes": "Ikram reports that Akan's family was among those harmed."
+            },
+            {
+              "name": "Devana",
+              "role": "mentioned",
+              "context": "herder whose family suffered an axebeak attack",
+              "notes": "Ikram reports that Devana's family was also attacked."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "recommended source of magical expertise",
+              "notes": "Ikram suggests consulting Candrosa about magical matters."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Sketch of Arcus",
+              "role": "encountered",
+              "notes": "Ikram recognizes the man in Seeker's drawing."
+            },
+            {
+              "name": "Chardonian silver coins",
+              "role": "mentioned",
+              "notes": "Ikram says Arcus paid with unusually old Chardonian silver."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "mentioned",
+              "notes": "The party discusses the recovered coin as another old Chardonian object."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Maps and Jasu's Clues",
+          "boundaryReason": "After reviewing what they know about Arcus and the region, the party visits Jasu and learns about the explorer's silvered spearpoints and interest in Great War artifacts.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1095",
+            "endUid": "u1537"
+          },
+          "shortSummary": "After comparing maps and theories about Arcus, the party learns from Jasu that the explorer left behind strangely resilient silvered spearpoints.",
+          "longSummary": "The party compares Wellby's map with Seeker's observations of ley lines and considers possible links among Arcus, Chardon, and the recent disturbances. They find Jasu closing his blacksmith shop and accompany him back to Ikram's, where he recognizes Arcus from Seeker's sketch. Jasu says Arcus was interested in Great War artifacts and left two silvered spearpoints to be hafted, expecting to return within weeks. The metal resists heat, reforging, and every attempt to work it, so Jasu promises to show the spearpoints to the party in the morning. He also names Alesh as the best local expert on Dunmari artifacts.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "Jasu's blacksmith shop and Ikram's caravanserai",
+            "notes": "The party crosses a short distance within town and conducts the interview at Ikram's."
+          },
+          "npcDetails": [
+            {
+              "name": "Jasu",
+              "role": "encountered",
+              "context": "Karawa blacksmith who worked for Arcus",
+              "notes": "He describes the unusual spearpoints and agrees to show them to the party the next morning."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "context": "foreign artifact-seeker who hired Jasu",
+              "notes": "Jasu says Arcus expected to return within a few weeks but never did."
+            },
+            {
+              "name": "Alesh",
+              "role": "mentioned",
+              "context": "recommended expert on Dunmari artifacts",
+              "notes": "Jasu says she is the person to consult when she returns to town."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wellby's map",
+              "role": "encountered",
+              "notes": "The party uses it to discuss Dunmar, Chardon, and Seeker's observations of ley lines."
+            },
+            {
+              "name": "Sketch of Arcus",
+              "role": "encountered",
+              "notes": "Jasu recognizes Arcus from Seeker's drawing."
+            },
+            {
+              "name": "Arcus's silvered spearpoints",
+              "role": "mentioned",
+              "notes": "Two apparently new spearpoints that resist Jasu's attempts to heat, reforge, or haft them."
+            },
+            {
+              "name": "Black Iron Staff",
+              "role": "mentioned",
+              "notes": "The party decides not to display it publicly and plans to show it to Jasu later."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "The Voice among the Charmhearts",
+      "beatIds": [
+        "beat-005"
+      ],
+      "sourceRange": {
+        "startUid": "u1538",
+        "endUid": "u1776"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1538",
+          "endUid": "u1776"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Bree Charmheart",
+        "Ander Charmheart"
+      ],
+      "organizationRefs": [
+        "Charmhearts"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the Charmhearts' camp, a disheveled Ander points at Wellby and speaks blissfully of a master who will consume him and the world."
+      ],
+      "sourceLongSummaries": [
+        "The party walks through Karawa's festival encampment to the colorful wagons of a large Sembaran halfling company. Bree Charmheart welcomes them at first, but grows guarded when Wellby asks about an ill and disheveled companion who had spoken into his mind. As the party prepares to leave, Ander Charmheart staggers from a wagon, points at Wellby, says that he spoke to him, and declares with serene joy that the master will eat him soon. Once they are away, Wellby explains that Ander hears an endless voice promising joy, demanding that he join the master, and saying the master will consume the world. The party suspects a connection to the Black Iron Staff and the disturbances around Karawa."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "The Charmhearts' Troubling Secret",
+          "boundaryReason": "The party visits Bree Charmheart's camp, where her guarded reception gives way to an alarming encounter with a disheveled halfling who speaks ecstatically of a consuming master.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1538",
+            "endUid": "u1776"
+          },
+          "shortSummary": "At the Charmhearts' camp, a disheveled Ander points at Wellby and speaks blissfully of a master who will consume him and the world.",
+          "longSummary": "The party walks through Karawa's festival encampment to the colorful wagons of a large Sembaran halfling company. Bree Charmheart welcomes them at first, but grows guarded when Wellby asks about an ill and disheveled companion who had spoken into his mind. As the party prepares to leave, Ander Charmheart staggers from a wagon, points at Wellby, says that he spoke to him, and declares with serene joy that the master will eat him soon. Once they are away, Wellby explains that Ander hears an endless voice promising joy, demanding that he join the master, and saying the master will consume the world. The party suspects a connection to the Black Iron Staff and the disturbances around Karawa.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the Charmhearts' wagons in the festival encampment west of the caravanserai",
+            "notes": "The party visits the halfling travelers around their evening cookfire."
+          },
+          "npcDetails": [
+            {
+              "name": "Bree Charmheart",
+              "role": "encountered",
+              "context": "leader of the halfling travelers",
+              "notes": "She initially welcomes the party but becomes protective and asks them to leave when Ander appears."
+            },
+            {
+              "name": "Ander Charmheart",
+              "role": "encountered",
+              "context": "disheveled halfling hearing an unceasing voice",
+              "notes": "He is not named in the beat; his later-established identity is Ander Charmheart."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Black Iron Staff",
+              "role": "mentioned",
+              "notes": "The party wonders whether the staff and the voice in Ander's mind share a source."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Charmhearts",
+              "role": "encountered",
+              "notes": "A large Sembaran halfling traveling company camped in colorful wagons for the festival."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Shakun's Failing Protection",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "sourceRange": {
+        "startUid": "u1777",
+        "endUid": "u2485"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1777",
+          "endUid": "u2065"
+        },
+        {
+          "startUid": "u2066",
+          "endUid": "u2485"
+        }
+      ],
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Karawa"
+      ],
+      "npcRefs": [
+        "Candrosa",
+        "Ikram",
+        "Havdar"
+      ],
+      "organizationRefs": [
+        "Temple of Shakun"
+      ],
+      "itemRefs": [
+        "Black Iron Staff",
+        "Candrosa's amulet",
+        "Healing mud vials"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Candrosa interrupts the party's vigil at the oasis and insists on speaking after Wellby retrieves a very drunk Kenzo from Ikram's.",
+        "Candrosa reveals that Shakun's ancient border protections are failing and asks the party to help defend Dunmar from threats now crossing its borders."
+      ],
+      "sourceLongSummaries": [
+        "Delwath, Seeker, and Wellby settle near Karawa's oasis for an overnight vigil, hoping that meditation might bring insight from Shakun, while Kenzo continues drinking with Ikram. Around 10:30 or 11:00 p.m., Candrosa crosses the temple plaza, interrupts the vigil, and says that new messages make an immediate conversation necessary. He sends Wellby to collect Kenzo, whose attempted halfling sobering ritual with three eggs and a stick ends in thrown eggs. As the party gathers, a young, well-equipped warrior later identified as Havdar rides from the Temple of Shakun toward the encampment.",
+        "Candrosa leads the party into a side room of the Temple of Shakun, where the Black Iron Staff and their questions expose his fear and uncertainty. After hearing why each traveler came to Karawa, he casts Zone of Truth and asks whether they intend to aid the town. Satisfied, he reveals that Shakun's magic has hidden and protected Dunmar's borders since the aftermath of the Great War, but now seems to have failed. Havdar has returned from fighting half-human, half-hyena creatures south of Karawa, an unending lightning storm has appeared to the northeast, and Ander's voice adds another unexplained threat. Candrosa begs the party to serve as the mundane defense Shakun no longer provides, asks for secrecy to prevent panic before the Festival of Rebirth, and proposes speaking with Havdar in the morning. Before sending them to rest, he gives each traveler a vial of healing mud as thanks and a token of trust."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "Meditation Interrupted",
+          "boundaryReason": "Delwath, Seeker, and Wellby attempt an overnight vigil at the oasis until Candrosa interrupts them and sends Wellby to collect a drunken Kenzo from Ikram's.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1777",
+            "endUid": "u2065"
+          },
+          "shortSummary": "Candrosa interrupts the party's vigil at the oasis and insists on speaking after Wellby retrieves a very drunk Kenzo from Ikram's.",
+          "longSummary": "Delwath, Seeker, and Wellby settle near Karawa's oasis for an overnight vigil, hoping that meditation might bring insight from Shakun, while Kenzo continues drinking with Ikram. Around 10:30 or 11:00 p.m., Candrosa crosses the temple plaza, interrupts the vigil, and says that new messages make an immediate conversation necessary. He sends Wellby to collect Kenzo, whose attempted halfling sobering ritual with three eggs and a stick ends in thrown eggs. As the party gathers, a young, well-equipped warrior later identified as Havdar rides from the Temple of Shakun toward the encampment.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "the oasis and Temple of Shakun plaza, with a brief visit to Ikram's caravanserai",
+            "notes": "Most of the party remains beside the oasis while Wellby retrieves Kenzo."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "encountered",
+              "context": "mystai who summons the party to an urgent meeting",
+              "notes": "He interrupts the vigil after receiving troubling news."
+            },
+            {
+              "name": "Ikram",
+              "role": "encountered",
+              "context": "drinking companion at the caravanserai",
+              "notes": "Kenzo is still drinking with him when Wellby arrives."
+            },
+            {
+              "name": "Havdar",
+              "role": "encountered",
+              "context": "armed rider leaving the Temple of Shakun",
+              "notes": "He is unnamed when seen; Candrosa identifies him in the following beat as the warrior returning from a battle south of Karawa."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Temple of Shakun",
+              "role": "encountered",
+              "notes": "Candrosa emerges from the temple, and Havdar rides away from it as the party assembles."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Shakun's Protection Fails",
+          "boundaryReason": "Inside the Temple of Shakun, Candrosa tests the party's intentions, reveals that Shakun's border protections are failing, and asks them to help defend Dunmar.",
+          "dateStart": "1748-03-29",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2066",
+            "endUid": "u2485"
+          },
+          "shortSummary": "Candrosa reveals that Shakun's ancient border protections are failing and asks the party to help defend Dunmar from threats now crossing its borders.",
+          "longSummary": "Candrosa leads the party into a side room of the Temple of Shakun, where the Black Iron Staff and their questions expose his fear and uncertainty. After hearing why each traveler came to Karawa, he casts Zone of Truth and asks whether they intend to aid the town. Satisfied, he reveals that Shakun's magic has hidden and protected Dunmar's borders since the aftermath of the Great War, but now seems to have failed. Havdar has returned from fighting half-human, half-hyena creatures south of Karawa, an unending lightning storm has appeared to the northeast, and Ander's voice adds another unexplained threat. Candrosa begs the party to serve as the mundane defense Shakun no longer provides, asks for secrecy to prevent panic before the Festival of Rebirth, and proposes speaking with Havdar in the morning. Before sending them to rest, he gives each traveler a vial of healing mud as thanks and a token of trust.",
+          "locationHints": {
+            "refs": [
+              "Karawa"
+            ],
+            "context": "a private side room inside the Temple of Shakun",
+            "notes": "The late-night meeting ends the session."
+          },
+          "npcDetails": [
+            {
+              "name": "Candrosa",
+              "role": "encountered",
+              "context": "mystai revealing the failure of Shakun's protection",
+              "notes": "He tests the party's intentions, asks for their aid and discretion, and gives them healing mud."
+            },
+            {
+              "name": "Havdar",
+              "role": "mentioned",
+              "context": "warrior returning from battle south of Karawa",
+              "notes": "Candrosa proposes that the party hear his report in the morning."
+            },
+            {
+              "name": "Speaker Lora",
+              "role": "mentioned",
+              "context": "person who sent Kenzo to find Candrosa",
+              "notes": "Kenzo reveals that Candrosa is the reason he came to Karawa."
+            },
+            {
+              "name": "Ander Charmheart",
+              "role": "mentioned",
+              "context": "halfling hearing an endless voice",
+              "notes": "The party reports his disturbing statements to Candrosa."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Black Iron Staff",
+              "role": "encountered",
+              "notes": "Kenzo places the staff on the table while the party explains what happened beneath the fort."
+            },
+            {
+              "name": "Candrosa's amulet",
+              "role": "encountered",
+              "notes": "Candrosa holds it while casting Zone of Truth around the party."
+            },
+            {
+              "name": "Healing mud vials",
+              "role": "encountered",
+              "notes": "Candrosa gives one small vial to each party member as thanks and a token of good faith."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Temple of Shakun",
+              "role": "encountered",
+              "notes": "Candrosa reveals that its divine border protections have failed and the town has long trusted the temple as its guardian."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Arcus",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Kisa",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Ikram",
+        "beatIds": [
+          "beat-003",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Jasu",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Bree Charmheart",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Ander Charmheart",
+        "beatIds": [
+          "beat-005"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Candrosa",
+        "beatIds": [
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Havdar",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Dunmari Fort",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Karawa",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Arcus",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "petrified explorer left at the fort",
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Kisa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Karawa elder receiving the party's report",
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ikram",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "proprietor of the caravanserai",
+          "beatIds": [
+            "beat-003",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Jasu",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Karawa blacksmith who worked for Arcus",
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Bree Charmheart",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "leader of the halfling travelers",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Ander Charmheart",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "disheveled halfling hearing an unceasing voice",
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Candrosa",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "mystai who summons the party to an urgent meeting",
+          "beatIds": [
+            "beat-006",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Havdar",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "armed rider leaving the Temple of Shakun",
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Dunmari Fort",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+          "beatIds": [
+            "beat-001"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29",
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Karawa",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the ruined fort, road west past Gomat, and the eastern approach to Karawa",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Dunmari Religion",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Karawa Council",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Charmhearts",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Temple of Shakun",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "Aagir's Everlight",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Black Iron Staff",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            },
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Holy symbol of Cha'mutte",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Floating Disc Coin",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Horn of Silent Alarm (Dunmari)",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Recovered Dunmari temple relics",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dunmari Fort -> Karawa",
+              "dateStart": "1748-03-26",
+              "dateEnd": "1748-03-29"
+            }
+          ]
+        },
+        {
+          "name": "Sketch of Arcus",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002",
+            "beat-003",
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Wellby's map",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Candrosa's amulet",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Healing mud vials",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Karawa",
+              "dateStart": "1748-03-29",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Alesh",
+          "contextHint": "rider warning outlying people about the danger"
+        },
+        {
+          "name": "Akan",
+          "contextHint": "herder whose family suffered an attack"
+        },
+        {
+          "name": "Devana",
+          "contextHint": "herder whose family suffered an axebeak attack"
+        },
+        {
+          "name": "Speaker Lora",
+          "contextHint": "person who sent Kenzo to find Candrosa"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Chardonian silver coins",
+          "contextHint": null
+        },
+        {
+          "name": "Arcus's silvered spearpoints",
+          "contextHint": null
+        }
+      ]
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-recap-scenes.json"
+}

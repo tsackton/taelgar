@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "From the Fort to Karawa",
+      "startUid": "u0001",
+      "endUid": "u0517",
+      "lineCount": 517,
+      "dateStart": "1748-03-26",
+      "dateEnd": "1748-03-29",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party wakes in the pacified fort, investigates the temple and tunnels, inventories the recovered relics, and then makes the uneventful multi-day journey west to a festival-swollen Karawa.",
+      "dateEvidence": [
+        "The session manifest begins on 1748-03-26, and at u0003 the party awakens in the temple after the prior night's rest.",
+        "At u0448-u0451 the DM estimates three or four days to Karawa, and the session manifest ends on 1748-03-29."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Kisa Hears Their Report",
+      "startUid": "u0518",
+      "endUid": "u0768",
+      "lineCount": 251,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Back in Karawa, the party reports its success to Kisa, learns of the Summer of Red Storms and recent attacks, and is directed toward Ikram and the temple.",
+      "dateEvidence": [
+        "This follows the party's arrival on the session manifest's final date, 1748-03-29.",
+        "At u0518 the DM states that it is late afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Stories at Ikram's",
+      "startUid": "u0769",
+      "endUid": "u1094",
+      "lineCount": 326,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party enters the bustling caravanserai, where Ikram identifies Arcus and shares news of artifacts, attacked herders, and the festival's coming competitions.",
+      "dateEvidence": [
+        "The visit follows directly from the late-afternoon meeting with Kisa on 1748-03-29.",
+        "At u0784 the DM describes people sitting outside in the afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Maps and Jasu's Clues",
+      "startUid": "u1095",
+      "endUid": "u1537",
+      "lineCount": 443,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "After reviewing what they know about Arcus and the region, the party visits Jasu and learns about the explorer's silvered spearpoints and interest in Great War artifacts.",
+      "dateEvidence": [
+        "This continues the same visit to Karawa on 1748-03-29 without a rest or day transition.",
+        "At u1067 the DM says it is getting toward dinnertime, and at u1365 Jasu is preparing to head in for dinner."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Charmhearts' Troubling Secret",
+      "startUid": "u1538",
+      "endUid": "u1776",
+      "lineCount": 239,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party visits Bree Charmheart's camp, where her guarded reception gives way to an alarming encounter with a disheveled halfling who speaks ecstatically of a consuming master.",
+      "dateEvidence": [
+        "The party leaves Jasu and immediately walks to the nearby halfling camp on 1748-03-29.",
+        "At u1555 the halflings are gathered around a fire cooking dinner."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Meditation Interrupted",
+      "startUid": "u1777",
+      "endUid": "u2065",
+      "lineCount": 289,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Delwath, Seeker, and Wellby attempt an overnight vigil at the oasis until Candrosa interrupts them and sends Wellby to collect a drunken Kenzo from Ikram's.",
+      "dateEvidence": [
+        "At u1777-u1778 the group establishes that it is dinnertime on the same day.",
+        "At u1931-u1932 the DM places Candrosa's arrival late at night, around 10:30 or 11:00 p.m."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Shakun's Protection Fails",
+      "startUid": "u2066",
+      "endUid": "u2485",
+      "lineCount": 420,
+      "dateStart": "1748-03-29",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Inside the Temple of Shakun, Candrosa tests the party's intentions, reveals that Shakun's border protections are failing, and asks them to help defend Dunmar.",
+      "dateEvidence": [
+        "This continues directly from Candrosa's late-night summons on 1748-03-29.",
+        "The session ends when Candrosa sends the party to rest and promises to continue in the morning."
+      ]
+    }
+  ]
+}

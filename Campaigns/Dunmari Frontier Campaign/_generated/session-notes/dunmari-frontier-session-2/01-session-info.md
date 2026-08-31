@@ -14,11 +14,11 @@ Into the Wilds
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-in which the party follows signs of unnatural violence into the Nashktar
+in which the party follows signs of unnatural violence into the Nashtkar
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-After defeating giant lizards, securing the [[Gomat|Gomat Oasis]], the party speaks with [[Akan]] and then heads east, follows signs of unnatural animal violence across the [[Daraar Canyon]] to a ruined Dunmari fort, where they fight and destroy four skeletons.
+After defeating the giant lizards and securing [[Gomat|Gomat Oasis]], the party speaks with [[Akan]] and then heads east, following signs of unnatural animal violence across the [[Daraar Canyon]] to a ruined Dunmari fort, where they fight and destroy four skeletons.
 <!-- /SLOT -->
 
 <!-- SLOT: session.arc -->
@@ -109,7 +109,6 @@ Friday, June 12, 2020
 
 <!-- SLOT: timeline -->
 - (DR:: 1748-03-23), evening: The party kills three giant lizards feeding on dead sheep at the [[Gomat|Gomat Oasis]], then camps for the night.
-- (DR:: 1748-03-24), morning: [[Akan]] recounts the fatal attack on his family before the party follows the lizard tracks east.
 - (DR:: 1748-03-24): The party meets the herder [[Akan]], who recounts the lizard attack, and then follows the road, and the tracks of the lizards, east into the [[Nashtkar]]. Arriving at the [[Daraar Canyon]], the party camps for the night.
 - (DR:: 1748-03-25), morning: The party crosses [[Daraar Canyon]] and finds animal tracks converging on the eastern slope.
 - (DR:: 1748-03-25), midday: Pressing ahead, the party reaches a ruined Dunmari fort, where they destroy four skeletons and begin to investigate.
