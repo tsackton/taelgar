@@ -48,21 +48,6 @@ The party explores the [[Dunmari Fort (Gomat)|ruined fort]] and kills an ankheg 
 #### Short
 The party shatters the staff's obsidian crown, ending its aura of rage, and then makes camp for the night in the temple. 
 
-### Mar 26th, 1748
-
-- Timeline Segment: timeline-004
-- Timeline Key: (DR:: 1748-03-26)
-- Resolution: day
-- Beat IDs: beat-011
-- Locations: obsidian cavern, Gomat
-- NPCs: Arcus
-- Organizations: none
-- Items: Black Iron Staff, Aagir's Everlight, Obsidian shard, Cha'mutte symbol necklace, Floating Disc Coin
-- Combat Beats: none
-
-#### Short
-The party leaves the fort, heading west back towards the Daraar Canyon and Karawa beyond. 
-
 ## Recap
 
 ### recap-001 | Entering the Fort
@@ -220,20 +205,20 @@ After defeating the undead, the party realizes the obsidian staff must be the so
 
 ### Items
 
-- Aagir's Everlight (encountered): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian
+- Aagir's Everlight (encountered): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian, kept by Kenzo
   - Dunmari Fort, 1748-03-25
   - obsidian cavern -> Gomat, 1748-03-25 to 1748-03-26
-- Dunmari temple relics (encountered): including chalices, candlesticks, amulets, and other sacred objects
+- Dunmari temple relics (encountered): including chalices, candlesticks, amulets, and other sacred objects, gathered by the party
   - Dunmari Fort, 1748-03-25
-- Horn of Silent Alarm (Dunmari) (encountered): magical ram's horn decorated with silver filigree in a running-horse design
+- Horn of Silent Alarm (Dunmari) (encountered): magical ram's horn decorated with silver filigree in a running-horse design, kept by Kenzo
   - Dunmari Fort, 1748-03-25
-- Floating Disc Coin (encountered): heavy old Chardonian coin that unfolds into a hovering disc when flipped
-  - Dunmari Fort, 1748-03-25
-  - obsidian cavern -> Gomat, 1748-03-25 to 1748-03-26
-- Black Iron Staff (encountered): weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead."
+- Floating Disc Coin (encountered): heavy old Chardonian coin that unfolds into a hovering disc when flipped, kept by Seeker
   - Dunmari Fort, 1748-03-25
   - obsidian cavern -> Gomat, 1748-03-25 to 1748-03-26
-- Cha'mutte symbol necklace (encountered): silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies
+- Black Iron Staff (encountered): weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead." Kept by the party. 
+  - Dunmari Fort, 1748-03-25
+  - obsidian cavern -> Gomat, 1748-03-25 to 1748-03-26
+- Cha'mutte symbol necklace (encountered): silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies, kept by the party. 
   - Dunmari Fort, 1748-03-25
   - obsidian cavern -> Gomat, 1748-03-25 to 1748-03-26
 - Obsidian shards (encountered): mundane fragments collected after the staff's magical crown was shattered

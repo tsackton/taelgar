@@ -477,7 +477,7 @@
 [u0477 | 00:44:59.370-00:45:00.660 | Delwath] Good morning. Morning.
 [u0478 | 00:45:00.750-00:45:04.050 | Kenzo] Oh, what a night last night that was
 [u0479 | 00:45:05.970-00:45:07.890 | Kenzo] I have some memories well be a strong exit you
-[u0480 | 00:45:08.310-00:45:08.880 | Unknown] With that happened.
+[u0480 | 00:45:08.310-00:45:08.880 | Kenzo] With that happened.
 [u0481 | 00:45:11.580-00:45:11.820 | Seeker] It was
 [u0482 | 00:45:13.230-00:45:13.980 | Wellby] Yes, indeed.
 [u0483 | 00:45:17.010-00:45:21.780 | Kenzo] Yeah. What did what an evening I I kind of barely remember. I mean, I have
@@ -590,7 +590,7 @@
 [u0590 | 00:54:06.840-00:54:07.380 | Seeker] Where did you go
 [u0591 | 00:54:09.630-00:54:10.920 | Delwath] Wasn't a story void.
 [u0592 | 00:54:11.670-00:54:11.970 | Unknown] No.
-[u0593 | 00:54:16.050-00:54:16.440 | Unknown] More of
+[u0593 | 00:54:16.050-00:54:16.440 | Delwath] More of
 [u0594 | 00:54:19.560-00:54:23.310 | Delwath] That why not check this only with Kensal, I guess.
 [u0595 | 00:54:25.890-00:54:26.520 | Delwath] For
 [u0596 | 00:54:27.780-00:54:30.960 | Delwath] Most of the last 200 years I was
