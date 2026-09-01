@@ -153,10 +153,10 @@
   - Why Called Out: A self-contained, ominous eyewitness story that foreshadows the danger later reported by Havdar.
 
 - ID: audio-003
-  - Source Lines: u1722-u1740
-  - Speaker: DM (Ander and Bree Charmheart)
-  - Summary: Ander stumbles from the wagon, recognizes Wellby, and peacefully announces that the master will eat him soon as Bree hurries him away.
-  - Why Called Out: The session's sharpest tonal turn, combining narration, character performance, and the first direct evidence that the threatening voice persists.
+  - Source Lines: u1726-u1737
+  - Speaker: DM (Ander Charmheart)
+  - Summary: Bree turns and sees a disheveled Ander stumble from the wagon; he points at Wellby, repeats that Wellby spoke to him, and calmly says the master will eat him soon.
+  - Why Called Out: A tightly bounded character reveal that moves from Bree's reaction to Ander's unsettling declaration, without the surrounding approach or aftermath.
 
 - ID: audio-004
   - Source Lines: u2269-u2331

@@ -1,0 +1,195 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-005/cleaned/dunmari-frontier-005-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Kenzo Enters the Dreamworld",
+      "startUid": "u0001",
+      "endUid": "u0307",
+      "lineCount": 307,
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Candrosa wakes Kenzo before dawn, reveals their linked visions, sends him through the Dreamweaver Staff, and asks the party to remain for the coming council.",
+      "dateEvidence": [
+        "The session manifest begins on 1748-03-30, and u0004-u0022 place this scene in the predawn hours through sunrise.",
+        "At u0308 the narration resets to the party's return to Karawa and their morning gathering, ending the private scene."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Breakfast and the Awakened Soul",
+      "startUid": "u0308",
+      "endUid": "u0775",
+      "lineCount": 468,
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party reads Candrosa's letter over breakfast, climbs the mesa to find Kenzo, and discusses his vision, the Awakened Soul, magic, and the gods.",
+      "dateEvidence": [
+        "At u0311-u0317 the party wakes and gathers for breakfast on the morning following the predawn scene.",
+        "At u0444 the party reaches Kenzo around nine in the morning."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Raven's Hold Revealed",
+      "startUid": "u0776",
+      "endUid": "u1000",
+      "lineCount": 225,
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Wellby recounts Ander's encounter with a chanting presence and grasping vine at Raven's Hold, prompting the party to consider its next investigations and festival plans.",
+      "dateEvidence": [
+        "This story follows directly from the party's morning conversation with Kenzo without a time or day transition.",
+        "At u1001 the DM explicitly moves the action to that afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Jasu's Spearpoints and Seeker's Net",
+      "startUid": "u1001",
+      "endUid": "u1347",
+      "lineCount": 347,
+      "dateStart": "1748-03-30",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "At Jasu's workshop, the party examines Arcus's silvered spearpoints, asks about the vanished explorer, and commissions Seeker's chain throwing net.",
+      "dateEvidence": [
+        "At u1001 the DM places the visit that afternoon, still on the session manifest's opening date.",
+        "At u1348-u1351 the narration advances into the following day, ending the workshop scene."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Gifts, Rumors, and Staff Dancing",
+      "startUid": "u1348",
+      "endUid": "u1645",
+      "lineCount": 298,
+      "dateStart": "1748-03-31",
+      "dateEnd": "1748-04-02",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "A multi-day festival montage brings the party gifts and rumors before Kenzo dominates the staff-dancing competition and Seeker records his victory in sequential drawings.",
+      "dateEvidence": [
+        "At u1351 the DM advances to the next morning after 1748-03-30, establishing 1748-03-31.",
+        "At u1448 the DM frames the following material as highlights from the next three days; the established session timeline places Kenzo's staff-dancing victory on 1748-04-02.",
+        "At u1659 the party is back at Ikram's at the end of the competition day."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Rumors Before the Axebeak Race",
+      "startUid": "u1646",
+      "endUid": "u1809",
+      "lineCount": 164,
+      "dateStart": "1748-04-02",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Back at Ikram's after the staff contest, Delwath shares rumors about travelers, ruins, and divine unease while the party prepares for the next day's axebeak competition.",
+      "dateEvidence": [
+        "At u1659 the party reconvenes at Ikram's at the end of the staff-dancing day.",
+        "At u1797 the party sleeps, and u1810 begins the next morning's axebeak competition."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "The Axebeak Riding Contest",
+      "startUid": "u1810",
+      "endUid": "u2066",
+      "lineCount": 257,
+      "dateStart": "1748-04-03",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Wellby survives a bloody but impressive axebeak ride, Kenzo fares worse, and the returning scouts arrive in time for the riding events and tomorrow's council.",
+      "dateEvidence": [
+        "At u1810-u1826 the DM explicitly begins the morning of the axebeak competition after the prior night's sleep.",
+        "At u2063-u2066 the party learns that the council will meet tomorrow, establishing the next day transition."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Scout Reports Divide the Council",
+      "startUid": "u2067",
+      "endUid": "u2236",
+      "lineCount": 170,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party enters the morning council, hears Havdar and Alesh report the gnoll threat, and listens as the leaders divide among attack, aid, defense, and flight.",
+      "dateEvidence": [
+        "At u2067 the party wakes the morning after the 1748-04-03 riding contest.",
+        "At u2074 the council is scheduled for ten o'clock, and u2112 begins the meeting."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Weighing Karawa's Options",
+      "startUid": "u2237",
+      "endUid": "u2602",
+      "lineCount": 366,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Asked to break the impasse, the party questions the council about evacuation, defense, Arcus, Raven's Hold, available forces, and the region's geography.",
+      "dateEvidence": [
+        "This deliberation continues directly within the same ten-o'clock council meeting on 1748-04-04.",
+        "At u2603 Seeker shifts from information gathering to a concrete fortification proposal."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Kenzo's Evacuation Plan",
+      "startUid": "u2603",
+      "endUid": "u2904",
+      "lineCount": 302,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Seeker maps defenses and moving forces while Kenzo argues that Havdar should escort Karawa's people west before returning to support a later counterattack.",
+      "dateEvidence": [
+        "This planning follows without interruption during the morning council meeting on 1748-04-04.",
+        "At u2904 Havdar accepts the central escort proposal, ending the plan's formation."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "The Council Reaches Accord",
+      "startUid": "u2905",
+      "endUid": "u3141",
+      "lineCount": 237,
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The council agrees to evacuate Karawa, fortify Shakun's temple, seek the Samraat's army, scout south, and send the party north toward Raven's Hold.",
+      "dateEvidence": [
+        "This is the conclusion of the same morning council meeting on 1748-04-04.",
+        "At u3125-u3138 Kisa declares the council decided and assigns departures after the festival before the session closes."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Dreamworld and Dark Memories",
+      "beatIds": ["beat-001", "beat-002", "beat-003"],
+      "rationale": "Kenzo's private spirit journey flows into one continuous morning conversation on the mesa in which the party compares supernatural experiences and adds Ander's Raven's Hold account to its possible leads."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Spearpoints and a Throwing Net",
+      "beatIds": ["beat-004"],
+      "rationale": "The afternoon visit to Jasu introduces a new location and immediate goal: examining Arcus's spearpoints and negotiating Seeker's commission."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Festival of Rebirth",
+      "beatIds": ["beat-005", "beat-006", "beat-007"],
+      "rationale": "The gifts, staff-dancing tournament, rumor exchange, and axebeak race form the festival interlude while the party waits for the scouts, ending when Alesh and Havdar return with urgent news."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Fate of Karawa",
+      "beatIds": ["beat-008", "beat-009", "beat-010", "beat-011"],
+      "rationale": "The scouts' reports, the party's questions, Kenzo's proposal, and the final assignments are one uninterrupted council meeting with the single goal of deciding how Karawa should respond."
+    }
+  ]
+}
