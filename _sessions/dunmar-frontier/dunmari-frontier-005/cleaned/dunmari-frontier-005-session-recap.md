@@ -308,8 +308,6 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
 - Shakun Mystai (encountered): Candrosa's order guides Kenzo's spirit journey and prepares to remain behind in Karawa's temple.
   - Karawa, 1748-03-30
   - Karawa, 1748-04-04
-- Karawa Council (encountered): Karawa's leaders hear the scout reports and adopt a coordinated plan of evacuation, fortification, diplomacy, and reconnaissance.
-  - Karawa, 1748-04-04
 - Order of the Awakened Soul (mentioned): A Dreamworld figure tells Kenzo to seek the order's stories.
 - Great Library (mentioned): Rumor accuses the Chardonian institution of seeking or plundering Dunmari artifacts.
 - Havdar's Warband (mentioned): Havdar's forty riders become the planned escort for Karawa's evacuation.
@@ -318,11 +316,7 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
 
 - Dreamweaver Staff (encountered): Candrosa uses the staff to send Kenzo into the Dreamworld.
   - Karawa, 1748-03-30
-- Kenzo's jade amulet (encountered): Kenzo wears the amulet during the spirit journey tied to his changing jade hand.
-  - Karawa, 1748-03-30
 - Letter from Candrosa (encountered): Candrosa asks the party to remain in Karawa for the scouts' return and the council meeting.
-  - Karawa, 1748-03-30
-- silvered Great War spearpoints (encountered): Arcus's two spearpoints bear abjuration and anti-undead runes that resist Jasu's forge.
   - Karawa, 1748-03-30
 - Seeker's chain throwing net (encountered): Jasu accepts Seeker's design and agrees to build the weighted net for payment on delivery.
   - Karawa, 1748-03-30
@@ -332,12 +326,8 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
   - Karawa, 1748-03-31 to 1748-04-02
 - The Legendary Staff of Kenzo (encountered): Seeker turns Kenzo's tournament performance into an illustrated sequential narrative.
   - Karawa, 1748-03-31 to 1748-04-02
-- Horn of Silent Alarm (Dunmari) (encountered): Alesh identifies the magical horn as the kind carried by postwar Dunmari border scouts.
+- Horn of Silent Alarm (Dunmari) (encountered): Alesh identifies the magical horn as the kind carried by Dunmari border scouts after the Great War.
   - Karawa, 1748-04-04
-- Sketch of Arcus (encountered): Seeker's drawing helps the council discuss the petrified explorer's route and interest in Great War forts.
-  - Karawa, 1748-04-04
-- dark metal circlet (mentioned): Delwath says touching the circlet preceded his two-century imprisonment in a gray false world.
-- dried thorny vine fragment (mentioned): Ander kept a piece of the blood-red vine that attacked him at Raven's Hold.
 
 ## Combat
 
@@ -362,40 +352,10 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
   - Speaker: Seeker
   - Source Lines: u0578-u0586
 
-- ID: quote-beat-003-001
-  - Quote: "He was consumed either by ravenous hunger for raw flesh—I saw goats that he dismembered by hand—or by raving, as he was when we went there, about a coming master who would consume the world in joy."
-  - Speaker: Wellby
-  - Source Lines: u0799-u0802
-
-- ID: quote-beat-004-001
-  - Quote: "No matter what I do, I can't seem to heat them up, and I can't seem to work the metal."
-  - Speaker: Jasu
-  - Source Lines: u1012-u1023
-
-- ID: quote-beat-005-001
-  - Quote: "You know what this occasion merits? I'm actually gonna bring to this world a totally new form that I call the graphic novel."
-  - Speaker: Seeker
-  - Source Lines: u1606-u1607
-
-- ID: quote-beat-006-001
-  - Quote: "Let's hope Jeevali shows us a sign of favor, and that we haven't been forsaken in the eyes of the Siblings."
-  - Speaker: Karawa rumor
-  - Source Lines: u1754-u1784
-
-- ID: quote-beat-007-001
-  - Quote: "It takes a bite out of my hand, and I don't even flinch. I'm focused. I don't want to spook this thing."
-  - Speaker: Wellby
-  - Source Lines: u1911-u1913
-
 - ID: quote-beat-008-001
   - Quote: "There is a storm of thunder, lightning, and wild wind sitting on the plains that does not seem to move."
   - Speaker: Alesh
   - Source Lines: u2150-u2156
-
-- ID: quote-beat-009-002
-  - Quote: "The darkness at Raven's Hold could spread, and the storms could grow, all without us knowing what's there."
-  - Speaker: Delwath
-  - Source Lines: u2445-u2455
 
 - ID: quote-beat-010-002
   - Quote: "The danger isn't that you die gloriously in battle. The danger is that you and your men return to Karawa as these hyena creatures."
