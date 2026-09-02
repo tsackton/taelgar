@@ -139,8 +139,10 @@ Still looking for any other way out, Txarro dives into the river beside the mano
 - Items: Brilliant Numbers, Menestheus's book, single door, eastern screech owl familiar
 - Enemies: none
 - Image: the-door-on-the-cliff.jpg
-- Image Placement: end
-- Image Render: 
+- Image Role: figure
+- Image Size: large
+- Image Placement:
+- Image Render:
 - Image Caption: The lonely door on a cliff leading to the 27th Room
 #### Short
 The party returns to the gate as the clock chimes again, where they meet the awakened scholar Menestheus. He explains Thalestria's order and leads them to the lone door down the road. 

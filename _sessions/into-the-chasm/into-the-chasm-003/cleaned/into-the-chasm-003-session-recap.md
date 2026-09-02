@@ -120,9 +120,9 @@ The earthen tunnel carries them out onto a cliffside, with view of Melusa above,
 Kalima leads the Chasm Explorers into the fog-bound village, where five new strange extraplanar gashes guarded by an ice wolf have appeared in the cliff. After passing quietly through the village, Kalima's family takes the party in for the night. 
 
 #### Long
-Kalima hurries the party up switchbacks as the path climbs through fog and floating stone along the edge of the Great Chasm. The climb leads to Melusa, a cliffside village draped in fog. Walking quietly through the village trying to remain unnoticed, the party sees five strange extraplanar gashes in a cliff, guarded by a massive ice wolf statue, before Kalima leads them quickly to Nura, her sister, and Khaled, her brother-in-law. 
+Kalima hurries the party up switchbacks as the path climbs through fog and floating stone along the edge of the Great Chasm. The climb leads to Melusa, a cliffside village draped in fog. Walking quietly through the village trying to remain unnoticed, the party sees five unnatural, jagged gashes cut across Melusa’s rear cliff face, roughly shoulder width but much taller than a person, with blurred, smudged edges that seem superimposed upon the stone rather than cut into it. Looking directly at the boundary is difficult: it does not quite register as something real. They are guarded by a massive ice wolf statue. 
 
-At Nura and Khaled's house, Kalima's family receives the party with caution and urgency while the baby Samir sleeps nearby. Kalima, taking out Justas's light-enchanted stone, tells her family this is proof that the Kestavo are more than stories. 
+Kalima leads them quickly past the strange gashes, to Nura, her sister, and Khaled, her brother-in-law. At Nura and Khaled's house, Kalima's family receives the party with caution and urgency while the baby Samir sleeps nearby. Kalima, taking out Justas's light-enchanted stone, tells her family this is proof that the Kestavo are more than stories. 
  
 ### recap-004 | Endurance and Sacrifice
 
@@ -162,7 +162,7 @@ The conservation winds down as a gong rings out across the village, signaling it
 After the gong, Ekko and Finnan scout the village and palace, learning that soldiers from the ice palace are already moving toward Melusa.
 
 #### Long
-After the village settles under the gong, Ekko slips out as a gray cat to scout the strange gashes. The mirror-like gashes seem to lead to different places, and are watched by human guards in addition to the ice wolf statue.
+After the village settles under the gong, Ekko slips out as a gray cat to scout the strange gashes. Each opens onto a different scene: one into the heart of a swirling maelstrom, with lightning crackling beyond it; one into a strange shimmering world of crisscrossing spikes and passageways of jagged metal, twisting, and continually moving; one into a vision of impossible colors, cycling blue and green light followed by colors that cannot be described; one into an endless burning wasteland filled with swirling, pouring ash; one into a distorted counterpart of Melusa’s ledge, with a similar stream and pond but no village, floating islands, or Ice Palace, only a ruined stone structure rising from the pond as though a tower had been sliced off.
 
 Finnan extends the search with Clairvoyance and sees a circular disk in the Ice Palace covered in dense Sylvan writing, illuminated by a pale light. Below it, soldiers prepare to hunt the fey trickster spirit Finnan had sent to investigate the palace. Our session ends as the party hides and tries to rest for the evening. 
 

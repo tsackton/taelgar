@@ -206,7 +206,9 @@ The party moves through a dead plant greenhouse, a picked-over armory, and an un
 - Items: map library collection, room 25 listening notebook, chained library books
 - Enemies: none
 - Image: 27th-house-library.png
-- Image Placement: end
+- Image Role: hero
+- Image Size:
+- Image Placement:
 - Image Render:
 - Image Caption: The library in the 27th House
 

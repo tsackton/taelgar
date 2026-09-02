@@ -19,11 +19,11 @@ After leaving the halflings, the party splits for the evening. [[Delwath]], [[Se
 <!-- /SLOT -->
 
 <!-- SLOT: narrative.long -->
-> [!image|left]
-> ![[karawa-festival-scene-v1.jpg|400]]
-> *[[Karawa]], filled with visitors for the [[Festival of Rebirth]]*
-
 Our session begins as the party wakes in the fort's temple to find that the oppressive tension has vanished from the surrounding land. Leaving the quieted fort with what they can carry from the temple, the party crosses the desert without incident. Traveling back to [[Karawa]] takes three days, moving at a fast but not exhausting pace. Arriving in the late afternoon on March 29th, the town has changed. Lots of visitors -- not just Dunmari -- have arrived for the [[Festival of Rebirth]], and the markets and games that accompany it, and a large tent city has grown up on the outskirts of town. The caravanserai and the village are bustling with activity and trade.
+
+> [!image|hero]
+> ![[karawa-festival-scene-v1.jpg]]
+> *[[Karawa]], filled with visitors for the [[Festival of Rebirth]]*
 
 Right away, the party finds Elder [[Kisa]] and reports to her that they seem to have destroyed the source of the disturbances. [[Kisa]] has been quite worried, as news of several more attacks has arrived with travelers returning for the festival. Worried, she talks about the [[Summer of Red Storms]], a time about forty years ago when some half-human, half-hyena creatures rampaged across the border for two months before they were stopped. She also tells them the [[Arcus|petrified explorer]] depicted in Seeker's sketch is not someone from [[Karawa]], directing them to [[Ikram]] if they want to learn more. As they leave, she tells them that the town will pay for their stay at [[Ikram's]] in gratitude for the aid they provided.
 
@@ -31,8 +31,8 @@ Heading to the [[Ikram's|caravanserai]], the party meets [[Ikram]], who is eager
 
 After a bit more conversation with [[Ikram]] about lighter subjects, including the upcoming axebeak riding competition before the [[Festival of Rebirth]], the party heads for [[Jasu]]’s shop to ask about [[Arcus]]. Reaching him just as he is closing his forge for the evening, they return to [[Ikram's]] with [[Jasu]] for a light dinner. [[Jasu]] tells them [[Arcus]] was asking about artifacts, especially anything from the [[Great War]]. He left a couple of silvered spearpoints behind and asked [[Jasu]] to haft them so they could be used. [[Arcus]] apparently expected to be back in town within a few weeks, and [[Jasu]] finds it strange that he has not returned. The silvered spearpoints were odd, too, [[Jasu]] says: hard to work with and resistant to forging.
 
-> [!image|right]
-> ![[bree-and-ander-charmheart.jpg|400]]
+> [!image|right standard]
+> ![[bree-and-ander-charmheart.jpg]]
 > *A disturbed [[Ander Charmheart]] speaks joyfully of the all-consuming master.*
 
 Leaving [[Jasu]] to his dinner, the party heads to meet a group of halflings -- marked by their colorful wagons -- in town for the [[Festival of Rebirth]] and its associated markets. The matriarch of the group introduces herself as [[Bree Charmheart]] and welcomes the party to sit and chat for a bit. After some small talk with [[Wellby]] about their shared Sembaran origins, she strangely grows chilly and unwelcoming. [[Wellby]] asks her about her sick companion, and she responds abruptly, acting as though they have overstayed their welcome. Just before the party leaves, a [[Ander Charmheart|disheveled halfling]] staggers out of one of the wagons, looking dazed but with an incongruous look of joy on his face. As the party hurries away, [[Wellby]] informs the party that this disheveled halfling has been talking to him about the master, saying “*The master is waiting. You'll find joy with the master. The master wants you to come and join us. Over and over and over. I asked him to name the master, and he said the master is my master. The master will consume the world and bring us joy.*”
@@ -43,7 +43,7 @@ As the party assembles outside the temple, an armored rider, later identified as
 
 He asks them to keep the failure of [[Shakun's Protection|Shakun's protection]] secret through the [[Festival of Rebirth]] and to speak with [[Havdar]] in the morning. Our session ends as [[Candrosa]] gives each member of the [[Dunmar Fellowship]] a vial of healing mud as thanks and a token of trust, and the party heads to bed.
 
-> [!image|right]
-> ![[candrosa-dunmar-session-4.jpg|500]]
+> [!image|figure standard]
+> ![[candrosa-dunmar-session-4.jpg]]
 > *A worried [[Candrosa]] tells the [[Dunmar Fellowship]] about [[Shakun's Protection]]*
 <!-- /SLOT -->

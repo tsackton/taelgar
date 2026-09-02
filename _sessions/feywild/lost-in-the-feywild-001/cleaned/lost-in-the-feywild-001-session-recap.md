@@ -104,8 +104,10 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Items: none
 - Enemies: none
 - Image: varrow-forest.jpg
-- Image Placement: start
-- Image Render: right|400
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: Walking through Varrow Forest
 
 #### Short
@@ -135,8 +137,10 @@ Alden then speaks of Dandelion House with rapturous but genuine emotion -- Kaito
 - Items: dandelion crest
 - Enemies: none
 - Image: dandelion-house.jpg
-- Image Placement: end
-- Image Render: 
+- Image Role: hero
+- Image Size:
+- Image Placement:
+- Image Render:
 - Image Caption: Dandelion House
 
 #### Short
@@ -197,8 +201,10 @@ After Hulda leaves them, Tarek reads the Sembaran document again and senses that
 - Items: gold key, hidden door
 - Enemies: none
 - Image: the-door-in-the-floor.jpg
-- Image Placement: start
-- Image Render: left|400
+- Image Role: aside
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: The root tunnel to the unknown
 
 #### Short

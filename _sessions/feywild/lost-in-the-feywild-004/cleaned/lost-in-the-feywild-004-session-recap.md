@@ -228,8 +228,10 @@ Menestheus connects the phrase to his book, The Shape of Possibility, about math
 - Items: fungal golem body, white-fiber infection
 - Enemies: none
 - Image: 27th-house-fungal-room.png
-- Image Placement: beginning
-- Image Render: 
+- Image Role: figure
+- Image Size: large
+- Image Placement:
+- Image Render:
 - Image Caption: The fungal garden of Kallipseis in the 27th House
 
 #### Short

@@ -4,6 +4,15 @@
     display: none;
 }
 
+body {
+    --taelgar-aside-small: 12.5rem;
+    --taelgar-aside-standard: 20rem;
+    --taelgar-aside-large: 26rem;
+    --taelgar-figure-small: 24rem;
+    --taelgar-figure-standard: 36rem;
+    --taelgar-figure-large: 48rem;
+}
+
 .internal-embed.image-embed[alt="right"],
 .internal-embed.image-embed[alt^="right|"],
 .internal-embed.image-embed[alt$="|right"],
@@ -66,47 +75,328 @@ img[alt*="|left|"] {
     margin-top: 0;
 }
 
-.callout[data-callout="image"][data-callout-metadata="right"] {
+.callout[data-callout="image"][data-callout-metadata~="right"] {
     float: right;
     margin: 0 0 1rem 1rem;
 }
 
-.callout[data-callout="image"][data-callout-metadata="left"] {
+.callout[data-callout="image"][data-callout-metadata~="left"] {
     float: left;
     margin: 0 1rem 1rem 0;
 }
 
+/* Semantic image defaults. Bare left/right callouts above retain legacy sizing. */
+.callout[data-callout="image"][data-callout-metadata~="aside"],
+.callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="small"],
+.callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="standard"],
+.callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="large"],
+.callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="small"],
+.callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="standard"],
+.callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="large"] {
+    float: right;
+    margin: 0 0 1rem 1rem;
+    width: var(--taelgar-aside-standard);
+}
+
+.callout[data-callout="image"][data-callout-metadata~="left"] {
+    float: left;
+    margin: 0 1rem 1rem 0;
+}
+
+.callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="small"],
+.callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="small"],
+.callout[data-callout="image"][data-callout-metadata~="aside"][data-callout-metadata~="small"] {
+    width: var(--taelgar-aside-small);
+}
+
+.callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="large"],
+.callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="large"],
+.callout[data-callout="image"][data-callout-metadata~="aside"][data-callout-metadata~="large"] {
+    width: var(--taelgar-aside-large);
+}
+
+.callout[data-callout="image"][data-callout-metadata~="figure"] {
+    float: none;
+    margin: 1rem auto;
+    width: var(--taelgar-figure-standard);
+}
+
+.callout[data-callout="image"][data-callout-metadata~="figure"][data-callout-metadata~="small"] {
+    width: var(--taelgar-figure-small);
+}
+
+.callout[data-callout="image"][data-callout-metadata~="figure"][data-callout-metadata~="large"] {
+    width: var(--taelgar-figure-large);
+}
+
+.callout[data-callout="image"][data-callout-metadata~="hero"] {
+    float: none;
+    margin: 1.25rem auto;
+    width: 100%;
+}
+
+.callout[data-callout="image"][data-callout-metadata~="exact"] {
+    width: fit-content;
+}
+
+.callout[data-callout="image"][data-callout-metadata~="figure"] .image-embed,
+.callout[data-callout="image"][data-callout-metadata~="figure"] img,
+.callout[data-callout="image"][data-callout-metadata~="hero"] .image-embed,
+.callout[data-callout="image"][data-callout-metadata~="hero"] img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+.callout[data-callout="gallery"] {
+    background: transparent;
+    border: 0;
+    box-shadow: none;
+    padding: 0;
+}
+
+.callout[data-callout="gallery"] .callout-title {
+    display: none;
+}
+
+.callout[data-callout="gallery"] .callout-content > ul {
+    display: grid;
+    gap: 0.8rem;
+    grid-template-columns: repeat(auto-fit, minmax(min(15rem, 100%), 1fr));
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.callout[data-callout="gallery"] .callout-content > ul > li,
+.callout[data-callout="gallery"] .callout-content > ul > li > p {
+    margin: 0;
+}
+
+.callout[data-callout="gallery"] .image-embed,
+.callout[data-callout="gallery"] img {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+/* Named sizes also work on direct embeds such as ![[portrait.png|right|small]]. */
+.internal-embed.image-embed[alt="small"],
+.internal-embed.image-embed[alt^="small|"],
+.internal-embed.image-embed[alt$="|small"],
+.internal-embed.image-embed[alt*="|small|"],
+img[alt="small"],
+img[alt^="small|"],
+img[alt$="|small"],
+img[alt*="|small|"] {
+    width: var(--taelgar-figure-small);
+}
+
+.internal-embed.image-embed[alt="standard"],
+.internal-embed.image-embed[alt^="standard|"],
+.internal-embed.image-embed[alt$="|standard"],
+.internal-embed.image-embed[alt*="|standard|"],
+img[alt="standard"],
+img[alt^="standard|"],
+img[alt$="|standard"],
+img[alt*="|standard|"] {
+    width: var(--taelgar-figure-standard);
+}
+
+.internal-embed.image-embed[alt="large"],
+.internal-embed.image-embed[alt^="large|"],
+.internal-embed.image-embed[alt$="|large"],
+.internal-embed.image-embed[alt*="|large|"],
+img[alt="large"],
+img[alt^="large|"],
+img[alt$="|large"],
+img[alt*="|large|"] {
+    width: var(--taelgar-figure-large);
+}
+
+.internal-embed.image-embed:is([alt="aside"], [alt^="aside|"], [alt$="|aside"], [alt*="|aside|"]),
+img:is([alt="aside"], [alt^="aside|"], [alt$="|aside"], [alt*="|aside|"]) {
+    float: right;
+    margin: 0 0 1rem 1rem;
+    width: var(--taelgar-aside-standard);
+}
+
+.internal-embed.image-embed:is([alt^="aside|"][alt$="|small"]),
+img:is([alt^="aside|"][alt$="|small"]) {
+    width: var(--taelgar-aside-small);
+}
+
+.internal-embed.image-embed:is([alt^="aside|"][alt$="|large"]),
+img:is([alt^="aside|"][alt$="|large"]) {
+    width: var(--taelgar-aside-large);
+}
+
+.internal-embed.image-embed:is([alt="figure"], [alt^="figure|"], [alt$="|figure"], [alt*="|figure|"]),
+img:is([alt="figure"], [alt^="figure|"], [alt$="|figure"], [alt*="|figure|"]) {
+    display: block;
+    float: none;
+    margin: 1rem auto;
+    max-width: 100%;
+}
+
+.internal-embed.image-embed[alt="figure"],
+img[alt="figure"] {
+    width: var(--taelgar-figure-standard);
+}
+
+.internal-embed.image-embed:is([alt="hero"], [alt^="hero|"], [alt$="|hero"], [alt*="|hero|"]),
+img:is([alt="hero"], [alt^="hero|"], [alt$="|hero"], [alt*="|hero|"]) {
+    display: block;
+    float: none;
+    margin: 1.25rem auto;
+    max-width: 100%;
+    width: 100%;
+}
+
+.internal-embed.image-embed:is([alt^="right|"][alt$="|small"], [alt^="left|"][alt$="|small"]),
+img:is([alt^="right|"][alt$="|small"], [alt^="left|"][alt$="|small"]) {
+    width: var(--taelgar-aside-small);
+}
+
+.internal-embed.image-embed:is([alt^="right|"][alt$="|standard"], [alt^="left|"][alt$="|standard"]),
+img:is([alt^="right|"][alt$="|standard"], [alt^="left|"][alt$="|standard"]) {
+    width: var(--taelgar-aside-standard);
+}
+
+.internal-embed.image-embed:is([alt^="right|"][alt$="|large"], [alt^="left|"][alt$="|large"]),
+img:is([alt^="right|"][alt$="|large"], [alt^="left|"][alt$="|large"]) {
+    width: var(--taelgar-aside-large);
+}
+
 @media (min-width: 500px) {
-    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="right"]) {
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="aside"]),
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="right"]) {
         display: inline;
         z-index: 30;
     }
 
-    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="right"]) > div > .callout {
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="aside"]) > div > .callout,
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="right"]) > div > .callout {
         float: right;
         margin: 0 0 1rem 1rem;
         z-index: 30;
     }
 
-    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="left"]) {
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="left"]) {
         display: inline;
         z-index: 30;
     }
 
-    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="left"]) > div > .callout {
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="left"]) > div > .callout {
         float: left;
         margin: 0 1rem 1rem 0;
         z-index: 30;
     }
 
-    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="right"]) > .edit-block-button,
-    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata="left"]) > .edit-block-button {
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="aside"]) > .edit-block-button,
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="right"]) > .edit-block-button,
+    .markdown-source-view .cm-embed-block.cm-callout:has(> div.markdown-rendered > .callout[data-callout="image"][data-callout-metadata~="left"]) > .edit-block-button {
         display: none;
+    }
+}
+
+@media (max-width: 699px) {
+    .callout[data-callout="image"][data-callout-metadata~="aside"],
+    .callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="small"],
+    .callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="standard"],
+    .callout[data-callout="image"][data-callout-metadata~="right"][data-callout-metadata~="large"],
+    .callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="small"],
+    .callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="standard"],
+    .callout[data-callout="image"][data-callout-metadata~="left"][data-callout-metadata~="large"],
+    .internal-embed.image-embed:is([alt^="aside|"], [alt^="right|"][alt$="|small"], [alt^="right|"][alt$="|standard"], [alt^="right|"][alt$="|large"], [alt^="left|"][alt$="|small"], [alt^="left|"][alt$="|standard"], [alt^="left|"][alt$="|large"]),
+    img:is([alt^="aside|"], [alt^="right|"][alt$="|small"], [alt^="right|"][alt$="|standard"], [alt^="right|"][alt$="|large"], [alt^="left|"][alt$="|small"], [alt^="left|"][alt$="|standard"], [alt^="left|"][alt$="|large"]) {
+        float: none;
+        margin: 0.75rem auto;
+        max-width: 100%;
     }
 }
 
 .markdown-reading-view .markdown-preview-view:not(.is-readable-line-width)>.markdown-preview-sizer {
     margin: inherit;
+}
+
+/* Live Preview renders callout images outside the native image widget, so it
+   needs its own zoom control. Reading View continues to use Obsidian's lightbox. */
+.markdown-source-view .callout .taelgar-callout-image-frame {
+    position: relative;
+}
+
+.markdown-source-view .callout .taelgar-callout-zoom-button {
+    align-items: center;
+    background: var(--background-primary-alt);
+    border: 1px solid var(--background-modifier-border);
+    border-radius: var(--radius-s);
+    box-shadow: var(--shadow-s);
+    color: var(--text-muted);
+    display: flex;
+    height: var(--clickable-icon-size, 30px);
+    justify-content: center;
+    opacity: 0;
+    padding: var(--size-2-2);
+    position: absolute;
+    right: 2.4rem;
+    top: 0.4rem;
+    transition: opacity 100ms ease, color 100ms ease;
+    width: var(--clickable-icon-size, 30px);
+    z-index: 5;
+}
+
+.markdown-source-view .callout .taelgar-callout-image-frame:hover > .taelgar-callout-zoom-button,
+.markdown-source-view .callout .taelgar-callout-zoom-button:focus-visible {
+    opacity: 1;
+}
+
+.markdown-source-view .callout .taelgar-callout-zoom-button:hover {
+    color: var(--text-normal);
+}
+
+.markdown-source-view .callout[data-callout="image"] img,
+.markdown-source-view .callout[data-callout="gallery"] img {
+    cursor: zoom-in;
+}
+
+.taelgar-live-preview-lightbox {
+    align-items: center;
+    background: rgb(0 0 0 / 0.86);
+    display: flex;
+    inset: 0;
+    justify-content: center;
+    padding: 2rem;
+    position: fixed;
+    z-index: 100000;
+}
+
+.taelgar-live-preview-lightbox-image {
+    box-shadow: 0 1rem 4rem rgb(0 0 0 / 0.55);
+    height: auto !important;
+    margin: 0 !important;
+    max-height: calc(100vh - 4rem) !important;
+    max-width: calc(100vw - 4rem) !important;
+    object-fit: contain;
+    width: auto !important;
+}
+
+.taelgar-live-preview-lightbox-close {
+    background: rgb(0 0 0 / 0.5);
+    border: 1px solid rgb(255 255 255 / 0.25);
+    border-radius: var(--radius-s);
+    color: white;
+    position: fixed;
+    right: 1rem;
+    top: 1rem;
+}
+
+@media (hover: none) {
+    .markdown-source-view .callout .taelgar-callout-zoom-button {
+        opacity: 1;
+    }
 }
 
 .mermaid svg {

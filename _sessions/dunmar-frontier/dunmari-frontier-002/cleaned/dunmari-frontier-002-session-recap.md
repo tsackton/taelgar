@@ -166,9 +166,12 @@ Leaving Gomat behind, the party follows the lizard tracks along an [[Stoneway|an
 - Items: none
 - Enemies: none
 - Image: dunmar-session-2-daraar-canyon-approach.jpg
-- Image Placement: start
-- Image Render: left|600
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: The Dunmar Fellowship looks across Daraar Canyon into the Nashtkar beyond. 
+- Image Alt: Four travelers looking across a broad desert canyon
 
 #### Short
 At Daraar Canyon, sheer basalt and loose talus force them to postpone their descent until the next morning. After an uneasy night, Seeker shelters Delwath's horse in a packed-earth barn before the party crosses the canyon on foot. 
@@ -214,9 +217,12 @@ Beyond the canyon, the remnants of the ancient road cross a cracked landscape of
 - Items: none
 - Enemies: skeletons
 - Image: skeletons-emerge-gomat-fort.jpg
-- Image Placement: end
-- Image Render: right|600
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: A skeleton emerges from a burial mound outside an old Dunmari fort.
+- Image Alt: A skeleton climbing from an earthen burial mound
 
 #### Short
 At the ruined Dunmari fort, the party destroys four skeletons that emerge from a recently disturbed burial mound, then enters the fort seeking information and answers. 

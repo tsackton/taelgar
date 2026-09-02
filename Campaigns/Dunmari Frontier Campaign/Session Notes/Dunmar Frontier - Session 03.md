@@ -39,6 +39,8 @@ The [[Dunmar Fellowship]] explores a ruined Dunmari fort, where they uncover and
 
 ## Timeline
 
+
+
 - (DR:: 1748-03-25), afternoon: The party explores the [[Dunmari Fort (Gomat)|ruined fort]] and kills an ankheg that ambushes [[Wellby]]. Searching the caves below, they find a [[Arcus|petrified explorer]], and defeat the undead bearer of a malignant black iron staff.
 - (DR:: 1748-03-25), evening: The party shatters the staff's obsidian crown, ending its aura of rage, and then makes camp for the night in the temple.
 
@@ -48,10 +50,15 @@ The [[Dunmar Fellowship]] explores a ruined Dunmari fort, where they uncover and
 
 - [[Arcus]] (*AR-koos*; he/him, Chardonian human): petrified explorer in the cockatrice caves beneath the fort.
 
+### Organizations
+
+
+
 ### Locations
 
 - [[Dunmari Fort (Gomat)]] (fort in [[Nashtkar]], [[Greater Dunmar]]): a ruined Dunmari fort whose preserved temple and underground caverns held Dunmari relics, petrified creatures, and the source of the animals' unnatural rage. Session context includes: abandoned campsite and causeway, ruined headquarters, temple of the [[Dunmari Pantheon|Five Siblings]], gate towers, ankheg tunnels, cockatrice nursery, dry cistern channel, and southern cavern.
 - [[Nashtkar]] (region in [[Greater Dunmar]]): desert surrounding the ruined fort, noticeably calmer after the obsidian's influence ended. Session context includes: party camp outside the fort.
+
 
 ## Narrative
 
@@ -71,15 +78,17 @@ Descending through the ankheg's passage -- a low, narrow crawl -- the party reac
 
 From this cavern, the party explores the narrower of the two tunnels, which leads to a muddy nursery where cockatrice hatchlings and eggs surround a lion caught in a cycle of petrification and recovery. Unwilling to alert the young or their parents, the party backs away. They instead take the wider branch beneath the cracked cistern and follow its dry channel south.
 
-> [!image|left]
-> ![[cockatrice-lair.jpg|500]]
-> *Young cockatrice hatchlings attack and petrify a lion.*
+> [!gallery]
+> - ![[cockatrice-lair.jpg]]
+>   *Young cockatrice hatchlings attack and petrify a lion.*
+> - ![[dunmar-session-03-arcus-petrified.jpg]]
+>   *[[Arcus]], petrified beside the [[Floating Disc Coin]].*
+
+> [!image|right standard]
+> ![[deathlock-at-gomat-fort.jpg]]
+> *An undead hobgoblin carries a cursed iron staff.*
 
 The tunnel leads to a larger cavern, where a wave of unnatural rage washes over the party just as three skeletons drop from the ceiling and attack. [[Delwath]] holds the narrow approach while the others fight from behind him, destroying one skeleton with a Hex-enhanced blow as [[Seeker]] turns the floating disc into an improvised barrier. A rotting undead hobgoblin enters the fray, carrying a black iron staff crowned by a pulsing obsidian stone, sending waves of rage and dark energy through the cavern. The party finishes the skeletons and concentrates on their new enemy: [[Delwath]] curses it, [[Seeker]] and [[Wellby]] attack from range, and [[Kenzo]] closes through its defenses. Wellby's hidden shot leaves it badly wounded, and [[Kenzo]] strikes it down, but the fallen staff continues to radiate hostility.
-
-> [!image|right]
-> ![[deathlock-at-gomat-fort.jpg|500]]
-> *An undead hobgoblin carries a cursed iron staff.*
 
 After defeating the undead, the party realizes the obsidian staff must be the source of the abnormal beasts. [[Seeker]] finds a flaw in the obsidian, allowing [[Kenzo]] and [[Wellby]] to crack it, and [[Delwath]] to shatter it with a summoned shadowy blade. While the obsidian seems to resist non-magical damage, a few blows are enough for it to shatter, and calm to prevail, although at the cost of some damaging psychic backlash. With the obsidian destroyed, the violent influence fades. Peace and calm permeate the area, and the party spends a quiet, restful night in the temple.
 

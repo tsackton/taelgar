@@ -19,6 +19,7 @@ Metadata is primarily used to control automatic header generation, and allow dat
 
 [[Taelgarverse Code]]: contains information about Python and JavaScript code associated with header generation, dataviewJS queries, etc. 
 [[Templates]]: describes templates that can be used, both for the Templater plugin and plain Markdown templates that can be copied and filled out. 
+[[Image Callouts]]: describes image roles, named sizes, captions, galleries, session recap image fields, and the Obsidian lightbox.
 
 ## Subdirectories
 
@@ -28,4 +29,4 @@ Metadata is primarily used to control automatic header generation, and allow dat
 - Data Cleaning: Contains various pages with queries that are meant to uncover bad data in various ways. These are generally speaking either notes that should have specific frontmatter but don't, or various kinds of bad or obsolete data. 
 - Data Quality: Contains various pages with queries meant to uncover potentially missing things, or various other kinds of issues that don't rise to the level of major data issues 
 - Queries: Contains examples of various useful dataview and dataviewjs queries that might be reused; also contains information about how to write new queries. (formerly "Examples")
-- Pages to Review: Contains pages that need review in various ways, usually based on status tags and/or dm_notes. 
+- Pages to Review: Contains pages that need review in various ways, usually based on status tags and/or dm_notes.

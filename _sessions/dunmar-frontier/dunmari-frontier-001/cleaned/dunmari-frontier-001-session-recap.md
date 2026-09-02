@@ -126,9 +126,12 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 - Items: red ochre healing paste
 - Enemies: none
 - Image: elder-kisa-v2.jpg
-- Image Placement: start
-- Image Render: right|400
+- Image Role: aside
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: Elder Kisa asks the party for help. 
+- Image Alt: Elder Kisa speaking in the tea house
 
 #### Short
 Elder Kisa and Speaker Candrosa arrive and ask the strangers to investigate the growing attacks. 
@@ -150,9 +153,12 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. Beli applies the temple
 - Items: Wellby's grappling hook
 - Enemies: none
 - Image: alesh-on-the-road.jpg
-- Image Placement: start
-- Image Render: left|400
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: Alesh on the Stoneway, east of Karawa
+- Image Alt: Alesh riding along the old Stoneway
 
 #### Short
 The newly formed party follows the hyenas' tracks east into the badlands. The trail disappears on bare rock in the canyonlands, but Wellby climbs to a high vantage and spots a moving dust cloud along the old road.
@@ -174,9 +180,12 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 - Items: none
 - Enemies: none
 - Image: dunmar-frontier-session-1-gomat.jpg
-- Image Placement: end
+- Image Role: hero
+- Image Size:
+- Image Placement:
 - Image Render:
 - Image Caption: Giant lizards feeding at Gomat Oasis in the moonlight
+- Image Alt: Giant lizards among dead sheep at a moonlit oasis
 
 #### Short
 Investigating the dust cloud, the party meets a Dunmari scout, Alesh, on the Stoneway, the old Drankorian trade road. Her warning sends the party toward Gomat. After a long march the next day, the party reaches Gomat to find empty tents and giant lizards feeding on dead sheep.

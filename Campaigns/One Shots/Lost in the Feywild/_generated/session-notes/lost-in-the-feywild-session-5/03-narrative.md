@@ -65,4 +65,8 @@ In the map library, [[Menestheus]] recalls other [[Arithrimos Lamperum]] facilit
 Beyond a fabrication lab, the party finds another listening station. The prisoner's looping voice in the [[Transcriptions from the Prisoner#The Prisoner|transcriptions]] addresses [[Lord Hulda|Hulda]] directly: the dragon-killer is bringing five friends, those friends are outside its room now, and they can hear it. The party realizes that [[Prisoner in the 27th Room|the prisoner]] is describing them in the present.
 
 One door short of [[Prisoner in the 27th Room|the prisoner]], the party enters a vast library with books chained to its shelves. A human-sized porcelain and clockwork torso is anchored to a desk just inside. As the party enters, it raises its head, opens its eyes, and studies them.
+
+> [!image|hero]
+> ![[27th-house-library.png]]
+> *The library in the [[27th House]]*
 <!-- /SLOT -->
