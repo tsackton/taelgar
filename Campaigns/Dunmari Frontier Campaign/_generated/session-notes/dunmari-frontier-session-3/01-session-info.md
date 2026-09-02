@@ -114,7 +114,6 @@ Thursday, July 2, 2020
 <!-- SLOT: timeline -->
 - (DR:: 1748-03-25), afternoon: The party explores the [[Dunmari Fort (Gomat)|ruined fort]] and kills an ankheg that ambushes [[Wellby]]. Searching the caves below, they find a [[Arcus|petrified explorer]], and defeat the undead bearer of a malignant black iron staff.
 - (DR:: 1748-03-25), evening: The party shatters the staff's obsidian crown, ending its aura of rage, and then makes camp for the night in the temple.
-- (DR:: 1748-03-26): The party leaves the fort, heading west back towards the [[Daraar Canyon]] and Karawa beyond.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
@@ -140,21 +139,21 @@ Thursday, July 2, 2020
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
-- [[Aagir's Everlight]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian.
-- Dunmari temple relics: including chalices, candlesticks, amulets, and other sacred objects.
-- [[Horn of Silent Alarm (Dunmari)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): magical ram's horn decorated with silver filigree in a running-horse design.
-- [[Floating Disc Coin]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): heavy old Chardonian coin that unfolds into a hovering disc when flipped.
-- Black Iron Staff: weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead.".
-- Cha'mutte symbol necklace: silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies.
+- [[Aagir's Everlight]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian, kept by [[Kenzo]].
+- Dunmari temple relics: including chalices, candlesticks, amulets, and other sacred objects, gathered by the party.
+- [[Horn of Silent Alarm (Dunmari)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): magical ram's horn decorated with silver filigree in a running-horse design, kept by [[Kenzo]].
+- [[Floating Disc Coin]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): heavy old Chardonian coin that unfolds into a hovering disc when flipped, kept by [[Seeker]].
+- Black Iron Staff: weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead." Kept by the party.
+- Cha'mutte symbol necklace: silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies, kept by the party.
 - Obsidian shards: mundane fragments collected after the staff's magical crown was shattered.
 <!-- /SLOT -->
 
 <!-- SLOT: objects -->
-- [[Aagir's Everlight]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian.
-- Dunmari temple relics: including chalices, candlesticks, amulets, and other sacred objects.
-- [[Horn of Silent Alarm (Dunmari)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): magical ram's horn decorated with silver filigree in a running-horse design.
-- [[Floating Disc Coin]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): heavy old Chardonian coin that unfolds into a hovering disc when flipped.
-- Black Iron Staff: weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead.".
-- Cha'mutte symbol necklace: silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies.
+- [[Aagir's Everlight]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): silver spearpoint statuette with an unconsuming flame, later used as a wedge against the obsidian, kept by [[Kenzo]].
+- Dunmari temple relics: including chalices, candlesticks, amulets, and other sacred objects, gathered by the party.
+- [[Horn of Silent Alarm (Dunmari)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): magical ram's horn decorated with silver filigree in a running-horse design, kept by [[Kenzo]].
+- [[Floating Disc Coin]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): heavy old Chardonian coin that unfolds into a hovering disc when flipped, kept by [[Seeker]].
+- Black Iron Staff: weapon crowned with malignant obsidian that radiated rage even after its bearer died, carved with a quote in Draconic: "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead." Kept by the party.
+- Cha'mutte symbol necklace: silver wing-and-flame necklace with a black pearl, tentatively associated with Cha'mutte's armies, kept by the party.
 - Obsidian shards: mundane fragments collected after the staff's magical crown was shattered.
 <!-- /SLOT -->

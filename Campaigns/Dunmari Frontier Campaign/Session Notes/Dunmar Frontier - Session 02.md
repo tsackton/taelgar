@@ -49,6 +49,7 @@ After defeating the giant lizards and securing [[Gomat|Gomat Oasis]], the party 
 ### NPCs
 
 - [[Akan]] (he/him, Dunmari human): wounded Dunmari herder, returning to the [[Gomat|Gomat Oasis]].
+
 ### Locations
 
 - [[Gomat|Gomat Oasis]] (oasis in [[Eastern Dunmar]], [[Dunmar]]): A herders' oasis and roadside camp where giant lizards slaughtered sheep and attacked Akan's family.
@@ -87,4 +88,4 @@ The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defen
 ## Treasure and Things
 
 - Holy symbol of [[Chidya]]: An intricately braided wooden amulet belonging to Akan's sister, found among the scattered camp goods and returned to him.
-- insect repellent salve: A foul-smelling salve [[Seeker]] shares to ward off aggressive biting insects east of [[Daraar Canyon]].
+- Insect repellent salve: A foul-smelling salve [[Seeker]] shares to ward off aggressive biting insects east of [[Daraar Canyon]].
