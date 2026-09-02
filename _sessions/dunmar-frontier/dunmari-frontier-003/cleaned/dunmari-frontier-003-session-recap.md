@@ -120,9 +120,19 @@ After their rest, they turn to search the two gate towers; one is choked with ru
 - Items: Floating Disc Coin
 - Enemies: none
 - Image: cockatrice-lair.jpg
-- Image Placement: end
-- Image Render: left|500
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: Young cockatrice hatchlings attack and petrify a lion.
+- Image Alt: Cockatrice hatchlings surrounding a partly petrified lion
+- Image 2: dunmar-session-03-arcus-petrified.jpg
+- Image 2 Role: figure
+- Image 2 Size: standard
+- Image 2 Placement:
+- Image 2 Render:
+- Image 2 Caption: [[Arcus]], petrified beside the [[Floating Disc Coin]].
+- Image 2 Alt: A one-armed petrified explorer beside a glowing golden disc in a dark cavern
 
 #### Short
 Descending into the caves, they find the missing camper petrified and missing an arm beside a heavy Chardonian coin that unfolds into a hovering disc. The narrower branch leads to cockatrice hatchlings repeatedly turning a trapped lion to stone, so the party retreats rather than risk the nursery. They take the wider route beneath the cistern and follow the dry watercourse ahead. 
@@ -147,9 +157,12 @@ From this cavern, the party explores the narrower of the two tunnels, which lead
 - Items: Floating Disc Coin, Black Iron Staff
 - Enemies: Animated skeletons, Undead hobgoblin staff-bearer
 - Image: deathlock-at-gomat-fort.jpg
-- Image Placement: end
-- Image Render: right|500
+- Image Role: aside
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: An undead hobgoblin carries a cursed iron staff.
+- Image Alt: An undead hobgoblin raising an obsidian-topped iron staff
 
 #### Short
 They emerge in a larger cavern, where a wave of unnatural rage signals an attack by three skeletons, soon joined by an undead hobgoblin wielding an obsidian-topped iron staff that radiates wave after wave of anger and violent rage. The party destroys the skeletons, and overwhelms their staff-bearing master. 

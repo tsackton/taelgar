@@ -27,6 +27,8 @@ COMPONENT_SPECS = [
     ("02-technical-updates.md", "Technical Updates", "technical"),
     ("03-narrative.md", "Narrative", "narrative"),
 ]
+IMAGE_ROLES = {"aside", "figure", "hero"}
+IMAGE_SIZES = {"small", "standard", "large"}
 
 
 class FrontmatterDumper(yaml.SafeDumper):
@@ -689,31 +691,68 @@ def parse_keyed_bullets(lines: Sequence[str], *, label: str, errors: List[str]) 
 
 
 def parse_recap_images(data: Dict[str, str], label: str, errors: List[str]) -> List[Dict[str, str]]:
-    image_value = normalize_optional_string(data.get("Image"))
-    if image_value is None or image_value.casefold() == "none":
-        return []
+    image_numbers: List[int] = []
+    if "Image" in data or "Image 1" in data:
+        image_numbers.append(1)
+    image_numbers.extend(
+        sorted(
+            int(match.group(1))
+            for key in data
+            if (match := re.fullmatch(r"Image (\d+)", key)) and int(match.group(1)) > 1
+        )
+    )
 
-    path, render_from_embed = parse_image_path_and_render(image_value)
-    if not path:
-        errors.append(f"{label} has an empty Image value.")
-        return []
+    images: List[Dict[str, str]] = []
+    for number in image_numbers:
+        image_key = "Image" if number == 1 and "Image" in data else f"Image {number}"
+        image_value = normalize_optional_string(data.get(image_key))
+        if image_value is None or image_value.casefold() == "none":
+            continue
 
-    placement = normalize_optional_string(data.get("Image Placement")) or "start"
-    placement = placement.casefold()
-    if placement not in {"start", "end"}:
-        errors.append(f"{label} Image Placement must be 'start' or 'end', got {placement!r}.")
-        placement = "start"
+        path, render_from_embed = parse_image_path_and_render(image_value)
+        if not path:
+            errors.append(f"{label} has an empty {image_key} value.")
+            continue
 
-    render = normalize_optional_string(data.get("Image Render")) or render_from_embed or ""
-    caption = normalize_optional_string(data.get("Image Caption")) or ""
-    return [
-        {
-            "path": path,
-            "placement": placement,
-            "render": render,
-            "caption": caption,
-        }
-    ]
+        prefix = image_key
+        role = normalize_image_role(data.get(f"{prefix} Role"))
+        render = normalize_optional_string(data.get(f"{prefix} Render")) or render_from_embed or ""
+        _align, render_size, _remaining = parse_semantic_image_render(render)
+        size = normalize_image_size(data.get(f"{prefix} Size")) or render_size or ""
+        placement = normalize_optional_string(data.get(f"{prefix} Placement"))
+        if placement is None:
+            placement = "end" if role in {"figure", "hero"} else "start"
+        placement = placement.casefold()
+        if placement in {"before", "top", "beginning"}:
+            placement = "start"
+        elif placement in {"after", "bottom"}:
+            placement = "end"
+        if placement not in {"start", "end"}:
+            errors.append(f"{label} {image_key} Placement must be 'start' or 'end', got {placement!r}.")
+            placement = "start"
+
+        images.append(
+            {
+                "path": path,
+                "placement": placement,
+                "render": render,
+                "caption": normalize_optional_string(data.get(f"{prefix} Caption")) or "",
+                "role": role or "",
+                "size": size,
+                "alt": normalize_optional_string(data.get(f"{prefix} Alt")) or "",
+            }
+        )
+    return images
+
+
+def normalize_image_role(value: Any) -> Optional[str]:
+    role = (normalize_optional_string(value) or "").casefold()
+    return role if role in IMAGE_ROLES else None
+
+
+def normalize_image_size(value: Any) -> Optional[str]:
+    size = (normalize_optional_string(value) or "").casefold()
+    return size if size in IMAGE_SIZES else None
 
 
 def parse_image_path_and_render(value: str) -> Tuple[str, str]:
@@ -1554,12 +1593,31 @@ def render_narrative_zoom(recap_blocks: Sequence[Dict[str, Any]], field_name: st
 
 
 def render_recap_images(block: Dict[str, Any], *, placement: str) -> str:
-    rendered = [
-        render_recap_image(image)
-        for image in block.get("images", [])
-        if image.get("placement") == placement
-    ]
-    return "\n\n".join(item for item in rendered if item).strip()
+    placed = [image for image in block.get("images", []) if image.get("placement") == placement]
+    rendered: List[str] = []
+    figure_group: List[Dict[str, str]] = []
+
+    def flush_figures() -> None:
+        if not figure_group:
+            return
+        if len(figure_group) == 1:
+            item = render_recap_image(figure_group[0])
+        else:
+            item = render_recap_gallery(figure_group)
+        if item:
+            rendered.append(item)
+        figure_group.clear()
+
+    for image in placed:
+        if image.get("role") == "figure":
+            figure_group.append(image)
+            continue
+        flush_figures()
+        item = render_recap_image(image)
+        if item:
+            rendered.append(item)
+    flush_figures()
+    return "\n\n".join(rendered).strip()
 
 
 def render_recap_image(image: Dict[str, str]) -> str:
@@ -1568,6 +1626,22 @@ def render_recap_image(image: Dict[str, str]) -> str:
         return ""
     render = image.get("render", "").strip()
     caption = image.get("caption", "").strip()
+    role = image.get("role", "").strip()
+    if role:
+        align, render_size, embed_render = parse_semantic_image_render(render)
+        size = image.get("size", "").strip() or render_size or "standard"
+        sizing = "exact" if embed_render else size
+        if role == "aside":
+            metadata = f"{align or 'right'} {sizing}"
+        elif role == "figure":
+            metadata = f"figure {sizing}"
+        else:
+            metadata = "hero exact" if embed_render else "hero"
+        lines = [f"> [!image|{metadata}]", f"> {format_image_embed(path, embed_render)}"]
+        if caption:
+            lines.append(f"> *{caption}*")
+        return "\n".join(lines)
+
     if not caption:
         return format_image_embed(path, render)
 
@@ -1580,6 +1654,20 @@ def render_recap_image(image: Dict[str, str]) -> str:
             f"> *{caption}*",
         ]
     )
+
+
+def render_recap_gallery(images: Sequence[Dict[str, str]]) -> str:
+    lines = ["> [!gallery]"]
+    for image in images:
+        path = image.get("path", "").strip()
+        if not path:
+            continue
+        _align, _size, embed_render = parse_semantic_image_render(image.get("render", ""))
+        lines.append(f"> - {format_image_embed(path, embed_render)}")
+        caption = image.get("caption", "").strip()
+        if caption:
+            lines.append(f">   *{caption}*")
+    return "\n".join(lines) if len(lines) > 1 else ""
 
 
 def format_image_embed(path: str, render: str) -> str:
@@ -1600,6 +1688,24 @@ def split_captioned_image_render(render: str) -> Tuple[str, str]:
             continue
         remaining.append(token)
     return modifier, "|".join(remaining)
+
+
+def parse_semantic_image_render(render: str) -> Tuple[str, str, str]:
+    align = ""
+    size = ""
+    remaining: List[str] = []
+    for raw_token in render.split("|"):
+        token = raw_token.strip()
+        lowered = token.casefold()
+        if not token:
+            continue
+        if lowered in {"left", "right"} and not align:
+            align = lowered
+        elif lowered in IMAGE_SIZES and not size:
+            size = lowered
+        else:
+            remaining.append(token)
+    return align, size, "|".join(remaining)
 
 
 def build_note_context(

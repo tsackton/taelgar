@@ -75,4 +75,8 @@ Continuing through the maze, the party enters a fungal greenhouse and laboratory
 She says other rooms became infected, that white fibers colonize flesh and can eventually produce aggressive bodies with mouths in their chests, and that she is building a fungal golem body so she can leave safely and rebuild the order.
 
 She also says listeners claimed there is another door inside the [[27th House|27th Room]], [[Prisoner in the 27th Room|the prisoner]] may be a child kept from growing up or dying, and the glass key can unlock every locked door in the house, including the front door.
+
+> [!image|figure large]
+> ![[27th-house-fungal-room.png]]
+> *The fungal garden of [[Kallipseis]] in the [[27th House]]*
 <!-- /SLOT -->

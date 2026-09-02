@@ -82,7 +82,7 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 	So take the secret path I cannot see,
 	bring back the key to finally set me free.
 
-> [!image]
+> [!image|figure large]
 > ![[the-door-on-the-cliff.jpg]]
 > *The lonely door on a cliff leading to the 27th Room*
 <!-- /SLOT -->

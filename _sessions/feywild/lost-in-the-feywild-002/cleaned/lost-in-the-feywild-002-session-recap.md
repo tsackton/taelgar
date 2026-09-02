@@ -50,8 +50,10 @@ The party emerges from Dandelion House's root passage into the Twilight Kingdom,
 - Items: bone-like root material
 - Enemies: none
 - Image: the-coral-bone-house.jpg
-- Image Placement: end
-- Image Render: left|450
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: The root-bone echo of the Dandelion House
 
 #### Short
@@ -130,8 +132,10 @@ Their answers are strange but useful. The bodies on the road did not come from t
 - Items: unusual string instruments
 - Enemies: none
 - Image: the-endlessly-ending-party.jpg
-- Image Placement: end
-- Image Render: 
+- Image Role: hero
+- Image Size:
+- Image Placement:
+- Image Render:
 - Image Caption: The endlessly ending party in the Twilight Kingdom 
 
 #### Short

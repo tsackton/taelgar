@@ -94,9 +94,12 @@ The party reaches Karawa in the late afternoon, now swollen with people for the 
 - Items: Aagir's Everlight, Black Iron Staff, Holy symbol of Cha'mutte, Floating Disc Coin, Horn of Silent Alarm (Dunmari), Recovered Dunmari temple relics
 - Enemies: none
 - Image: karawa-festival-scene-v1.jpg
-- Image Placement: start
-- Image Render: left|400
+- Image Role: hero
+- Image Size:
+- Image Placement:
+- Image Render:
 - Image Caption: Karawa, filled with visitors for the Festival of Rebirth
+- Image Alt: Crowds and colorful tents filling Karawa for the festival
 
 #### Short
 Our session begins as the party leaves the quieted Dunmari fort and makes the three-day journey back to Karawa, now transformed by crowds gathering for the Festival of Rebirth.
@@ -146,9 +149,12 @@ After a bit more conversation with [[Ikram]] about lighter subjects, including t
 - Items: none
 - Enemies: none
 - Image: bree-and-ander-charmheart.jpg
-- Image Placement: start
-- Image Render: right|400
+- Image Role: aside
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: A disturbed Ander Charmheart speaks joyfully of the all-consuming master. 
+- Image Alt: Bree and Ander Charmheart beside a colorful wagon
 
 #### Short
 Leaving Jasu to his dinner, the party heads to meet the Charmhearts, a group of halflings in town for the festival. A disturbed Ander Charmheart emerges from his wagon and speaks joyfully of a master who will consume him and the world.
@@ -170,9 +176,12 @@ Leaving [[Jasu]] to his dinner, the party heads to meet a group of halflings -- 
 - Items: Black Iron Staff, Candrosa's amulet, Healing mud vials
 - Enemies: none
 - Image: candrosa-dunmar-session-4.jpg
-- Image Placement: end
-- Image Render: right|500
+- Image Role: figure
+- Image Size: standard
+- Image Placement:
+- Image Render:
 - Image Caption: A worried Candrosa tells the Dunmar Fellowship about Shakun's Protection
+- Image Alt: Candrosa speaking anxiously with the fellowship at night
 
 #### Short
 After leaving the halflings, the party splits for the evening. Delwath, Seeker, and Wellby head to the oasis, while Kenzo stays to talk and drink with Ikram. Well past sunset, Candrosa emerges and summons the group together, then reveals that Shakun's ancient border protections are failing and begs the party to help defend Dunmar.

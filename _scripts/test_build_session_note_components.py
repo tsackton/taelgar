@@ -545,6 +545,108 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(recap["pullQuotes"][0]["ID"], "quote-test-001")
         self.assertEqual(recap["audioHighlights"][0]["Output"], "kalima-explains-the-maze.m4a")
 
+    def test_parser_and_renderer_support_semantic_images_and_galleries(self) -> None:
+        text = (
+            self.reviewed_recap_text()
+            .replace(
+                "- Enemies: none\n\n"
+                "#### Short\n"
+                "The party descends",
+                "- Enemies: none\n"
+                "- Image: first-view.jpg\n"
+                "- Image Role: figure\n"
+                "- Image Size: small\n"
+                "- Image Placement:\n"
+                "- Image Render:\n"
+                "- Image Caption: The first frozen fork.\n"
+                "- Image Alt: Frosted stone passages\n"
+                "- Image 2: second-view.jpg\n"
+                "- Image 2 Role: figure\n"
+                "- Image 2 Size: large\n"
+                "- Image 2 Placement:\n"
+                "- Image 2 Render: 480\n"
+                "- Image 2 Caption: The bridge below.\n"
+                "- Image 2 Alt:\n\n"
+                "#### Short\n"
+                "The party descends",
+                1,
+            )
+            .replace(
+                "- Enemies: Ashen Knives raiders\n\n"
+                "#### Short\n"
+                "Ashen Knives",
+                "- Enemies: Ashen Knives raiders\n"
+                "- Image: ambush.jpg\n"
+                "- Image Role: hero\n"
+                "- Image Size:\n"
+                "- Image Placement:\n"
+                "- Image Render:\n"
+                "- Image Caption: The ambush closes in.\n"
+                "- Image Alt:\n\n"
+                "#### Short\n"
+                "Ashen Knives",
+                1,
+            )
+        )
+
+        recap = parse_session_recap(text)
+        first_images = recap["recap"][0]["images"]
+        self.assertEqual(len(first_images), 2)
+        self.assertEqual(first_images[0]["role"], "figure")
+        self.assertEqual(first_images[0]["size"], "small")
+        self.assertEqual(first_images[0]["placement"], "end")
+        self.assertEqual(first_images[0]["alt"], "Frosted stone passages")
+        self.assertEqual(recap["recap"][1]["images"][0]["role"], "hero")
+        self.assertEqual(recap["recap"][1]["images"][0]["placement"], "end")
+
+        long_narrative = components.render_narrative_zoom(recap["recap"], "long")
+        self.assertIn(
+            "> [!gallery]\n"
+            "> - ![[first-view.jpg]]\n"
+            ">   *The first frozen fork.*\n"
+            "> - ![[second-view.jpg|480]]\n"
+            ">   *The bridge below.*",
+            long_narrative,
+        )
+        self.assertIn(
+            "> [!image|hero]\n"
+            "> ![[ambush.jpg]]\n"
+            "> *The ambush closes in.*",
+            long_narrative,
+        )
+        self.assertIn(
+            "> [!image|left exact]\n"
+            "> ![[portrait.jpg|280]]\n"
+            "> *A supporting portrait.*",
+            components.render_recap_image(
+                {
+                    "path": "portrait.jpg",
+                    "placement": "start",
+                    "render": "left|280",
+                    "caption": "A supporting portrait.",
+                    "role": "aside",
+                    "size": "small",
+                }
+            ),
+        )
+
+    def test_parser_accepts_legacy_image_placement_aliases(self) -> None:
+        text = self.reviewed_recap_text().replace(
+            "- Enemies: none\n\n"
+            "#### Short\n"
+            "The party descends",
+            "- Enemies: none\n"
+            "- Image: old-scene.jpg\n"
+            "- Image Placement: beginning\n\n"
+            "#### Short\n"
+            "The party descends",
+            1,
+        )
+
+        recap = parse_session_recap(text)
+
+        self.assertEqual(recap["recap"][0]["images"][0]["placement"], "start")
+
     def test_parser_normalizes_wikilinked_world_entries(self) -> None:
         linked = (
             self.reviewed_recap_text()
