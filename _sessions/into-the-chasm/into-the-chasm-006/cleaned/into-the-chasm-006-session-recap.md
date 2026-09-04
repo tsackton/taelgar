@@ -1,22 +1,20 @@
----
-tags: [status/recap-review]
----
-
 # Session Recap
 
 ## Session Header
 
-- Title: The Rescue of Melusa
+- Title: Into the Chasm - Episode 6
 - Desc Title: The Portal Narrows
-- Tagline: in which the willing escape Melusa
-- One-Sentence Summary: The party recovers the keystone, delays the repair long enough to return to Melusa, rescues the villagers willing to flee, and begins arranging their survival in the true Great Chasm.
+- Tagline: in which the willing flee Melusa
+- One-Sentence Summary: After recovering the chasm engine's keystone, the party postpones its repair, returns to a failing Melusa, and leads dozens of willing villagers through the unstable portal to safety.
 - Campaign: Into the Chasm
+- Arc: none
 - Scope: session
 - Session Number: 6
 - DR Date: 1730-01-29
 - Real Date: 2026-02-04
 - DM: Mike Sackton
 - PCs: Finnan, Jrain, Eolo, Ekko, Justas
+- Table Notes: none
 
 ## Timeline
 
@@ -33,10 +31,7 @@ tags: [status/recap-review]
 - Combat Beats: none
 
 #### Short
-The keystone is recovered and carried back to Eidrikas before the party delays the repair for Melusa.
-
-#### Long
-In the lower engine hall, the party studies the black pillars and secures the keystone after its pull nearly draws Eolo downward. Eidrikas confirms the repair will likely close the unstable portals, and the group chooses one final return to Melusa before restoring the mechanism.
+The party recovers the keystone, but postpones repairing the chasm engine long enough to return to Melusa.
 
 ### Jan 29th, 1730 (night)
 
@@ -51,10 +46,7 @@ In the lower engine hall, the party studies the black pillars and secures the ke
 - Combat Beats: beat-003, beat-006
 
 #### Short
-The party returns to Melusa, evacuates the willing through the wisp-choked portal, and begins arranging shelter.
-
-#### Long
-The return opens into a wisp swarm and a village unsettled by the ruined guard post, dead ice wolf, and missing Vaqar. Zahara's faction and a few others flee through a dangerous extraction, after which Eidrikas and the party begin the practical work of shelter, food, and resettlement.
+The party evacuates Melusa's willing dissidents through the portal before Eidrikas restores the keystone.
 
 ## Recap
 
@@ -70,15 +62,22 @@ The return opens into a wisp swarm and a village unsettled by the ruined guard p
 - Organizations: none
 - Items: Keystone
 - Enemies: none
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-In the damaged lower hall, the party searches the aftermath of the orc fight and finds the keystone among black pillars and active hatches.
+With the orcs defeated, the party finds the stolen keystone amid the black pillars of the ruined engine hall.
 
 #### Intermediate
-The chamber below Eidrikas's platform proves larger and stranger than the chase allowed them to see. Six light-drinking pillars pass through the hall, glowing hatches ring their bases, and the carved keystone lies where the orcs dropped it.
+With the orcs dead, the party can finally study the hall beneath Eidrikas's platform. Six light-absorbing pillars pierce the floor beside flickering hatches, while the curved, rune-carved keystone lies where the raiders dropped it.
 
 #### Long
-With the last orc dead, the party finally has time to read the shape of the lower engine hall. The black pillars continue through the floor into deeper machinery, debris marks the violence of the earlier fight, and the keystone waits at the far end of the chamber amid a system that is still active and not fully understood.
+With the last orc dead, the party can finally take in the vast hall beneath Eidrikas's platform. Six black pillars—neither plainly stone nor metal—descend through the floor, surrounded by hatches lit from below with an unsteady purple-blue glow. Broken gears, rods, and stone lie scattered across the chamber, and the stolen keystone rests fifty feet away: a jagged arc of black stone banded with silver runes and dark channels. Eolo's metal-seeking bolt bends toward one of the pillars, while Finnan's magic reveals that the pillars and keystone share an enchantment of extraordinary complexity. The open hatches promise another level below, but the keystone is the piece Eidrikas needs.
 
 ### recap-002 | Stone Returned to Eidrikas
 
@@ -92,15 +91,22 @@ With the last orc dead, the party finally has time to read the shape of the lowe
 - Organizations: none
 - Items: Keystone
 - Enemies: none
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-When the keystone's pull threatens Eolo, Finnan steadies him, the party wraps the stone, and the group carries it back to Eidrikas.
+When its charm draws Eolo toward the hatches below, Finnan breaks the spell, and the party carries the wrapped stone back to Eidrikas.
 
 #### Intermediate
-The recovered stone proves dangerous as soon as Eolo moves to throw it away, drawing him toward the hatches until Finnan suppresses the charm with calm emotions. The group contains the unnaturally light keystone, returns to Eidrikas's platform, and learns that restoring it should stabilize the mechanism while closing the unstable openings.
+That curiosity turns dangerous when the unnaturally light keystone compels Eolo to carry it toward the hatches. Finnan suppresses the charm with _Calm Emotions_, the party wraps the stone in a scavenged cloak, and Ekko and Eolo fly it to Eidrikas, who agrees to delay the repair for one last rescue in Melusa.
 
 #### Long
-The keystone almost turns recovery into another disaster when its strange pull fixes on Eolo and urges him toward the depths below the hatches. Finnan's calm emotions buys the party enough control to wrap the stone and carry it safely back through the machinery. Eidrikas recognizes it as the missing arc of the chasm engine, but because restoring it may close the portal to Melusa, the party chooses a short rest and one last rescue attempt before the repair is made.
+The danger shows itself as soon as Eolo touches the keystone. It is light enough to sling across his shoulders, raises every feather with static, and leaves him evasive about a voice urging him toward the hatches. When he tries to toss the stone to Justas and fly below, Jrain yields the first move to Finnan, whose _Calm Emotions_ snaps Eolo free of the compulsion. Jrain wraps the stone in a scavenged cloak, allowing Ekko and Eolo to carry it safely back to Eidrikas. Still gritting his teeth as his body completes the broken runic circle, Eidrikas confirms that replacing the missing arc should steady the planes and close the chaotic portals. He can hold on for days but not weeks, so the party leaves the keystone beside him, rests until stars appear above the chasm, and prepares one last return to Melusa.
 
 ### recap-003 | Night Return to Melusa
 
@@ -114,15 +120,22 @@ The keystone almost turns recovery into another disaster when its strange pull f
 - Organizations: none
 - Items: none
 - Enemies: Portal wisps
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-After nightfall, they return through the white portal and break away from a cloud of portal wisps clustered around the ruined guard site.
+They leave the repair unfinished for one last rescue in Melusa, only to emerge into a swarm of white portal wisps.
 
 #### Intermediate
-The short rest carries the chasm side into starlight, and the party steps back through expecting a fast errand. Instead, glowing white wisps swarm them beside the shattered ice wolf, forcing them to retreat from the portal before they can judge what has happened in Melusa.
+After resting into night, they cross the white portal and emerge inside a dense swarm of stinging wisps beside the shattered ice wolf. The party runs clear as the creatures drift back toward the gateway, revealing a dark palace, an abandoned guard post, and ash and flying metal spilling from the neighboring cracks.
 
 #### Long
-By the time the party finishes resting, stars are visible over the true chasm, and the white portal still hangs open. Their return to Melusa drops them directly into a dense mass of crackling portal wisps around the broken ice wolf and the damaged plaza. They fight and run their way clear, then take in the dark palace, the empty guard position, the ash-marked wreckage, and the silent village around the salmon pool.
+Leaving the wrapped keystone with Eidrikas, the party crosses the white portal in quick succession. Melusa receives them with dozens of glowing wisps that swarm Eolo and Justas and sting Jrain and Finnan as they arrive. Everyone sprints away, batting the creatures aside until the swarm yields and gathers again around the portal. Only then can they see how much has changed: the forty-foot ice wolf lies shattered across the plaza, a spike shoots from the metal crack, ash billows from another opening and coats the wreckage, and no guards remain. Beyond the salmon pool, the village still stands, but the Ice Palace is dark and its bridge is gone.
 
 ### recap-004 | Refugees Gathered
 
@@ -136,15 +149,22 @@ By the time the party finishes resting, stars are visible over the true chasm, a
 - Organizations: none
 - Items: none
 - Enemies: none
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-Once clear, they find Zahara's group in hiding and learn that a giant force from the ash portal smashed the guards and scattered the village's certainty.
+After escaping the swarm, they find Zahara and learn that a vast fist from the ash portal destroyed the palace guards and ice wolf.
 
 #### Intermediate
-The party chooses the dissidents over the dark palace and reaches Zahara's cramped safehouse, where a failed escape has already left a body behind. Zahara explains that the cracks worsened, something vast from the ash realm destroyed the guards and ice wolf, and only a small group is ready to risk the portal.
+With no sign of Malquin, the party leaves the dark palace alone and searches Iskander's side of the village. They find Zahara sheltering with a few dissidents and the body of a failed escapee, learn that a house-sized fist from the ash realm smashed the guards and ice wolf, and begin planning to move everyone already willing to flee.
 
 #### Long
-Rather than spend their remaining time probing the darkened palace, the party heads toward Iskander's side of Melusa and finds Zahara crowded into a small house with a few allies and the body of someone killed by the white lights. Zahara tells them that a house-sized fist burst from the ash realm, smashed the guards and ice wolf, and left no one certain what became of Malquin the Vaqar. With the village frightened and divided, the party turns from general persuasion to the narrower task of moving whoever is already willing.
+Rather than risk the silent palace, the party hurries toward Iskander's side of Melusa and sends Rala to check Zahara's island refuge. A voice ushers them into a cramped house, where Zahara and a handful of dissidents wait beside the body of someone killed trying to cross the white lights alone. Zahara tells them the cracks worsened after their departure and that a fist the size of a house burst from the ash realm, smashed the guards and the ice wolf, and vanished. No one has seen Malquin since, and attempts to enter the palace have failed. Iskander is already gathering others who want to leave, but fear of the wisps has trapped them. With no time to persuade the whole village, the party devises a guarded dash through the portal and names the salmon pool as the rallying point.
 
 ### recap-005 | The Town Crier's Plea
 
@@ -158,15 +178,22 @@ Rather than spend their remaining time probing the darkened palace, the party he
 - Organizations: none
 - Items: none
 - Enemies: none
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-Finnan's public warning draws a crowd, but an older woman's challenge leaves most of Melusa behind and concentrates the rescue on the willing.
+Finnan rallies the village, but most follow an older woman's counsel and remain behind while a few dozen gather to leave.
 
 #### Intermediate
-Finnan moves through the village with music and urgent warnings, telling people the gateway will not stay open. An older woman blames the party for the crisis and defends the absent ruler's order, so the group stops trying to convert the whole settlement and gathers the smaller crowd already clustering near Ekko's polar bear form.
+Finnan carries the warning through Melusa on his fiddle while Ekko, fishing in polar bear form, becomes the rallying point. An older woman accuses the party of bringing the curse and turns most of the crowd toward the dark palace, so the party rejects a risky visit or false command from Malquin and commits to rescuing the thirty-five people gathered with Iskander and Kalima.
 
 #### Long
-Finnan turns the rescue into a public summons, using music, projection, and plain warning to tell Melusa that anyone who wants out must be ready when the dangerous lights are drawn away. The appeal brings people into the square, but an older woman answers him with accusation, calling the party the source of the curse and arguing that a capricious god is still better than no god. The crowd hesitates, Kalima and Iskander's group remain among the willing, and the party decides that saving the committed thirty-odd people is better than risking everyone on an uncertain deception or confrontation.
+With minutes to work, Finnan turns his fiddle into a town crier's drumbeat and calls the villagers from their houses, promising safe passage when the lights are drawn away. Ekko changes into a polar bear and fishes from the salmon pool, giving the willing an unmistakable landmark. Nearly fifty people gather to hear Finnan, but a stooped older woman accuses the strangers of bringing the curse and insists that a capricious god is better than an absent one. Most look to her and the dark palace instead of moving toward the portal. Iskander and Kalima arrive among thirty-five willing refugees, while others watch from a distance. The party considers confronting Malquin or using an illusion to command a general flight, but the danger of the palace, the uncertain fate of those who stay, and the refugees' uncertain life outside settle the question: they will save the people who have chosen to go.
 
 ### recap-006 | Evacuation Through the Wisps
 
@@ -180,15 +207,22 @@ Finnan turns the rescue into a public summons, using music, projection, and plai
 - Organizations: none
 - Items: Keystone
 - Enemies: Portal wisps
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-The party runs the evacuation under pressure, drawing the wisps away while Eolo receives refugees and Eidrikas waits to restore the keystone.
+Justas, Ekko, and Finnan's summoned fae hold off the wisps while Jrain sends the refugees through to Eolo, and Eidrikas restores the keystone.
 
 #### Intermediate
-Justas advances into the swarm under spirit guardians, Finnan's fae throws darkness through the chaos, and Ekko helps pull the wisps off the portal as a polar bear. Jrain meters the waves of refugees, Eolo organizes them on Eidrikas's platform, and the party holds long enough for the last runners to cross before signaling the repair.
+Once the evacuation begins, Justas wades into the swarm behind shield and _Spirit Guardians_, Finnan's fae scatters darkness, and Ekko intercepts stragglers in polar bear form. Jrain feeds the refugees through in small groups, Eolo seats them safely on the crowded platform, and the defenders hold until one last villager follows Justas and Finnan through and Eidrikas can replace the keystone.
 
 #### Long
-The rescue turns tactical as Justas ties himself off, strides into the white swarm behind shield and spirit guardians, and lets the wisps spend themselves against him while Finnan's tricksy fae blinks through the air spreading darkness. Ekko joins the distraction in polar bear shape, Jrain controls the pace so panic does not jam the narrow portal, and Eolo catches and lines up refugees on the crowded far platform. Once the main group has crossed, Justas stays long enough to thin the remaining wisps and draw one last young villager through, then the party signals Eidrikas to set the keystone back into the mechanism.
+With thirty-five people waiting, Eolo crosses first to receive them on the narrow platform while Justas ties the party's rope around his waist, raises his shield, and walks into the swarm beneath _Spirit Guardians_. Finnan sends a tricksy fae blinking through the wisps in bursts of darkness, and Ekko's polar bear draws off any that drift back toward the portal. The first frightened group bunches at the opening, so Jrain waits for each wave to clear before sending the next. On the far side, Eolo catches the refugees and seats them in a tight row above the chasm. The wisps batter Ekko, break apart against Justas's radiant guardians, and finally overwhelm Finnan's fae, but the last group crosses safely. Justas stays behind until only a few lights remain; his final call draws one more young villager from the crowd, and Finnan waits for them both before following. Once everyone is packed onto the platform, Eidrikas sets the keystone into the broken arc. The runes blaze, the platform steadies, and the portal begins to peel from the wall.
 
 ### recap-007 | Aftermath and Debrief
 
@@ -202,15 +236,22 @@ The rescue turns tactical as Justas ties himself off, strides into the white swa
 - Organizations: none
 - Items: none
 - Enemies: none
+- Image:
+- Image Role:
+- Image Size:
+- Image Placement:
+- Image Render:
+- Image Caption:
+- Image Alt:
 
 #### Short
-With the portal peeling away, the rescue becomes logistics: space, food, lifts out of the chasm, and a future home for the Melusans.
+With the portal closing and the engine stable, the party begins arranging food, shelter, transport, and a new home for the displaced Melusans.
 
 #### Intermediate
-The repaired mechanism steadies the platform and begins stripping the portal from the wall, leaving the refugees crowded in the true chasm. Eidrikas points them toward safer space below, proposes asking Kemeko for kenku help, and works with the party on the first practical plan for getting people fed, sheltered, lifted out, and eventually resettled.
+As the portal peels away, the refugees crowd Eidrikas's platform and stare into the true chasm. Eidrikas directs them toward safer space on the machinery below, offers to seek help from Kemeko, and joins the party in planning a camp, lifts to the surface, and eventual resettlement among Old Zimkovan speakers.
 
 #### Long
-Once the keystone is restored, the immediate danger gives way to a platform full of displaced Melusans staring at the true chasm and asking how they can survive it. Eidrikas shifts from secret-keeping to triage, suggests moving the crowd down onto the larger machinery, and identifies Kemeko as the obvious source of kenku help for hauling people out. The party also learns that nearby tunnels may explain how the orcs and Stoneborn reached this sacred layer, but the urgent work is now camp, food, transport, and finding Old Zimkovan-speaking communities that can take the refugees in.
+As the white portal slowly scrapes away, the refugees crowd the floating platform, stare into the depths, and whisper questions about whether any of this is normal. Eidrikas takes bird form to reach them and reluctantly sets aside the secrets of the Vejo Vaikai for the immediate problem of survival. The larger machinery below should now be safe enough for a camp, and Kemeko can send kenku to help carry people the mile or more to the surface. Nearby tunnels may explain how the orcs and Stoneborn entered this sacred layer, but searching them can wait. Finnan plans to go ahead and look for an underpopulated northern village where people still speak Old Zimkovan; Justas will stay with the later lifts, and Jrain will share any useful memories of the region. Eidrikas can carry four refugees at a time as a giant swan, making food, bedrolls, transport, and a place to settle difficult problems rather than impossible ones.
 
 ## Cast
 
@@ -233,11 +274,11 @@ Once the keystone is restored, the immediate danger gives way to a platform full
 ## Locations
 
 - Great Chasm
-  - Summary: sacred chasm machinery site where Eidrikas holds a damaged runic engine together and where the rescued Melusans first emerge into the true world
+  - Summary: Sacred chasm machinery site where Eidrikas holds a damaged planar engine together and the rescued Melusans emerge into the true world.
   - Sublocations: damaged lower hall of the runic engine beneath Eidrikas's platform, threaded with six black pillars and ringed with glowing hatches
   - Date Visited: 1730-01-29
 - Melusa
-  - Summary: failing hidden village-realm whose willing dissidents escape through the white portal after the palace guard collapses
+  - Summary: Isolated village-realm whose willing dissidents escape after strange portals overwhelm the palace guard and destabilize the settlement.
   - Sublocations: through the white portal and away from the broken ice-wolf plaza beside the salmon pool
   - Date Visited: 1730-01-29
 
@@ -245,27 +286,27 @@ Once the keystone is restored, the immediate danger gives way to a platform full
 
 ### Organizations
 
-- Kemeko Monastery (mentioned): Kenku monastery proposed as the source of help for lifting and supporting the Melusan refugees.
+- Kemeko Monastery (mentioned): Kenku monastery asked to help lift the refugees from the Great Chasm.
 
 ### Items
 
-- Keystone (encountered): Missing runic arc recovered from the orcs, carried back to Eidrikas, and restored to stabilize the chasm mechanism.
+- Keystone (encountered): Curved, rune-carved arc recovered from the orcs and restored to stabilize the chasm engine.
   - Great Chasm, 1730-01-29
   - Melusa -> Great Chasm, 1730-01-29
 
 ## Combat
 
-### recap-003 | Wisp Breakout
+### recap-003 | Breakout at the White Portal
 
 - Beat IDs: beat-003
 - Enemies: Portal wisps
-- Context / Outcome: The party returns to Melusa through a cloud of portal wisps, survives the immediate swarm, and pulls clear enough to assess the village.
+- Context / Outcome: The party emerges inside a dense swarm of portal wisps and fights clear without casualties, leaving the creatures clustered around the gateway.
 
-### recap-006 | Wisp Evacuation
+### recap-006 | The Last Crossing
 
 - Beat IDs: beat-006
 - Enemies: Portal wisps
-- Context / Outcome: Justas, Ekko, and Finnan's fae draw the portal wisps away long enough for Eolo and Jrain to move the willing refugees through before the keystone is restored.
+- Context / Outcome: Justas, Ekko, and Finnan's summoned fae draw the portal wisps away while Jrain and Eolo move the refugees through, allowing the last willing villager to escape before Eidrikas restores the keystone.
 
 
 ## Source Files

@@ -6,43 +6,42 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Narrative
 
 <!-- SLOT: narrative.short -->
-The party reaches [[Eidrikas]] on the floating rock, confirms who he is, and accepts the charge to recover the stolen black runic stone.
+We begin with the party on a floating rock in the [[Great Chasm]], where [[Ekko]] has returned from speaking to his mentor, [[Eidrikas]]. The party then scouts the suspended structure and prepares to descend after the orcs.
 
-They bring the floating stone to the upper chamber, test the blue column's warped gravity, and find a controlled descent route.
+The party maneuvers the floating rock to the cylinder’s broken upper chamber, where a strange column of blue light seems to create dangerously shifting gravity. [[Eolo]], of course, tests the strange effect, though fails to be graceful about it, but the party does not stay to investigate. Instead, they follow the orcs’ route through a crack in the floor and descend into the chamber below.
 
-Below, a damaged custodian wakes, identifies the orcs as unauthorized, and repeats that repairs cannot resume until the threat is gone.
+Below, an unusual damaged custodian wakes and speaks to the party. It identifies the orcs as unauthorized,  repeating that repairs cannot resume until the threat is gone. Instead of venturing through the lightning-filled chamber below, the party decides to ascend and return to the lowest level via their flocking rock platform.
 
-They abandon the lightning-filled route, climb back through the heavy gravity, reposition the floating stone, and open the lowest hatch.
+The party decides against descending through the lightning-filled chamber, instead making the difficult climb back through the heavy gravity, where they regain their floating rock and move it around to the structure’s larger bottom section. Opening a hatch in its roof, they find a ruined chamber containing a group of arguing orcs and a lone lightning-shrouded figure.
 
-They drop into the lower chamber, use Hypnotic Pattern to pin down much of the orc force, and survive the god caller's lightning, fear, and final stand.
-
-With the god caller dead, the search for the stolen stone is left for next time and the table turns to scheduling.
+The party drops into the ruined chamber and attacks. Finnan’s _Hypnotic Pattern_ gives an immediate advantage, incapacitating three of the clustered orcs. But the fight turns when the lightning-shrouded orc joins the battle, the Thark-marked god caller terrifies [[Eolo]] and [[Ekko]], and an explosive burst nearly kills [[Justas Rhostrin|Justas]]. [[Eolo]] finally brings down the god caller, and the two remaining entranced orcs are dispatched without difficulty.
 <!-- /SLOT -->
 
 <!-- SLOT: narrative.intermediate -->
-[[Ekko]] verifies that [[Eidrikas]] is truly his mentor and not another deception, while the others take stock of the dead around the tilted platform and the strange structure hanging below it. [[Eidrikas]] explains that surviving orcs fled downward with a crucial runic stone, warns them about the Thark-marked leader, and makes clear that the failing mechanism cannot hold much longer.
-
-They steer the floating stone close enough to use it as a retreat point, then probe the first chamber under Eidrikas's platform. The blue column running through the room bends gravity around itself, the crushed orc corpse shows the danger plainly, and the recovered rope gives them enough control to keep moving downward.
-
-The next chamber contains crystal structures, floor hatches, and a battered stone-and-metal custodian that still responds when [[Finnan Oakstride|Finnan]] speaks Giant. It can confirm that the orcs passed through without authorization, but its broken instructions collapse back into the same answer: the active threat below must be removed before repair functions return.
-
-The chamber below the custodian offers a dangerous lightning-filled conduit rather than a clean path, so they decide not to force their way through it. They haul themselves back out, move the floating stone around the structure, and peer through the final hatch into a wrecked lower chamber where arguing orcs and a separate lightning-shrouded figure wait.
-
-Finnan's Hypnotic Pattern gives them the advantage by locking several lesser orcs in place while the party cuts down those still moving. The fight turns once the lightning-shrouded orcs reenter the field, the Thark-marked god caller starts terrifying [[Ekko]] and [[Eolo]], and the party has to grind through explosive deaths and heavy blows before [[Eolo]] finally brings the leader down.
-
-The fight ends before anyone searches the bodies or secures the missing runic stone, leaving the party still in the ruined lower chamber. Play stops there, and the remaining conversation shifts to future Chasm dates and how the end of this expedition fits around the group's other campaign plans.
 <!-- /SLOT -->
 
 <!-- SLOT: narrative.long -->
-The approach leaves the party suspended beside Eidrikas's damaged platform, with the [[Great Chasm]] below and the cylindrical mechanism hanging beneath the broken runic array. [[Ekko]] confirms Eidrikas's identity, [[Eidrikas]] describes the battle that let the orcs steal the black stone, and the group commits to pursuing the survivors before the force coursing through the machinery overwhelms him.
+We begin with the party on a floating rock in the [[Great Chasm]], where [[Ekko]] has returned from speaking to his mentor, [[Eidrikas]]. Ekko's Detect Thoughts reveals Eidrikas's pain, his effort to resist the force coursing through him, and memories only the two of them would share, allowing the party to feel confident this is really Ekko's mentor. From their small floating rock platform near the cliff, the party considers the route into the machinery below. A rope hangs from the damaged platform where [[Eidrikas]] holds the broken circuit together to the upper chamber of a larger cylindrical complex, below. [[Eolo]] flies down to scout the complex, after which the party begins moving their rock towards the entrance.
 
-With [[Eidrikas]] still holding the mechanism above them, they shift from the exposed platform into the upper chamber of the suspended structure. Careful experiments around the blue column reveal how quickly the room's gravity can turn lethal, so they recover the hanging rope, avoid the fate of the smashed orc, and work their way through the cracked floors toward the next level.
+The party maneuvers the floating rock to the broken rim of the cylindrical structure beneath Eidrikas’s platform. Looking into the chamber, they see a strange column of blue light, and a crushed orc. [[Eolo]] descends into the chamber, flying around, and discovers somewhat awkwardly that gravity is unusually heavy near the chamber’s outer wall. Meanwhile, [[Ekko]] retrieves the rope orcs used, allowing everyone to climb safely down from the rock.
 
-The party lands in a more complex middle chamber and finds one automaton still intact enough to answer questions. [[Finnan Oakstride|Finnan]] presses it for a way to stabilize the structure or repair the damage, but the custodian offers only rigid fragments of procedure, leaving the party with no useful alternative to continuing after the orcs.
+[[Eolo]], of course, cannot resist approaching the blue column, and gets yanks by a powerful force across the boundary, sustaining minor injuries. Inside, gravity nearly disappears. Unclear what the point of the blue light is, or how it functions, the party turns to the cracks in the floor used by the orcs to descend. Securing the rope, they climb down, with minimal incident despite the strange gravity.
 
-Rather than attack the angry lightning coherence directly, the party retreats through the difficult gravity of the middle levels and regroups outside on the floating stone. They drag it around to the larger lower section, examine the black pillars and hatch there, and open a view onto the bottom chamber, where the main orc cluster is separated from a crackling foe off to one side.
+The party descends into a chamber filled with crystalline structures and metal hatches. Two humanoid figures made of stone and metal occupy alcoves along the walls: one has collapsed, while the other is badly damaged but still active. 
 
-The ambush begins cleanly, with much of the lower chamber disabled before the orcs can organize and the party carefully avoiding anything that would wake the entranced enemies. That control erodes as the separate lightning-wreathed foe loops into the melee, surviving orcs drag the fight across the chamber, and the god caller's curses and lightning make him the true center of the battle. [[Justas Rhostrin|Justas]] nearly falls when the last lightning orc erupts on death, but the party keeps enough pressure on the Thark-marked leader for Eolo's arrows to end the fight.
+The surviving construct wakes, cycling through several languages before [[Finnan Oakstride|Finnan]] recognizes Giant and attempts to speak with it. It asks whether the party is authorized, and [[Finnan Oakstride|Finnan]] explains that they are pursuing unauthorized orcs who stole an important part of the mechanism. The damaged custodian confirms that unauthorized agents caused damage, but otherwise struggles to answer Finnan’s questions. It can only repeat that its repair functions are suspended while a threat remains.
 
-The lower chamber is quiet enough for the aftermath to begin, but the recovery of Eidrikas's stolen stone is deliberately held for the next gathering. The fiction pauses with the party among the defeated orcs, and the rest of the night becomes out-of-character planning for the next Into the Chasm session and the campaign schedule around it.
+Through a hatch in the floor, the party sees immense black conduits descending through a lightning-filled chamber below. A dead, blackened orc, and an intense, almost willful knot of lightning twisting in seeming-anger suggest this may not be a safe way to proceed. The party decides to return to its floating rock and take the safer route around. As they leave, the custodian asks whether they intend to eliminate the threat, and [[Justas Rhostrin|Justas]] assures it that they do.
+
+While the party begins the difficult climb back through the upper chamber’s heavy gravity, [[Eolo]] flies down for a closer look at the strange knot of lightning. It appears malevolent, out of place, and coherent enough to attack. [[Eolo]] draws both crossbows and considers testing that possibility, but, after a rare moment of caution, decides against it and flies back up.
+
+Getting everyone out proves more difficult than getting in, given the strange gravity in the chamber. [[Jrain Fanlish|Jrain]] resorts to _Jump_, [[Finnan Oakstride|Finnan]] uses _Misty Step_, and [[Ekko]] transforms into a polar bear to take advantage of his own magically enhanced jumping. [[Justas Rhostrin|Justas]], alone, insists on climbing, managing to exhaust himself in the process. The party finally regroups on the floating rock and maneuvers it around the outside of the structure to the roof of the much larger bottom section.
+
+There, the six black conduits pass through the roof beside a large metal hatch. Opening the hatch, the party looks down into a vast, wrecked chamber filled with rubble, smashed pillars, and scattered magical lights. They hear a group of orcs arguing in one direction and see a single orc crackling with lightning in the other. Unable to understand the argument, they decide to attack the larger group first.
+
+The party drops through the hatch toward the larger group of orcs. Although the guards notice their approach, [[Finnan Oakstride|Finnan]] acts quickly, casting _Hypnotic Pattern_ and trapping three enemies in a motionless stupor. The party carefully avoids waking them while [[Ekko]], [[Eolo]], [[Jrain Fanlish|Jrain]], and [[Justas Rhostrin|Justas]] cut down the orcs still able to fight. One enemy manages to awaken an ally, while the separate lightning-shrouded orc races across the chamber to join the battle.
+
+[[Finnan Oakstride|Finnan]] briefly drives the lightning-shrouded orc away with a command, but it soon, sending arcs of lightning through much of the party. Meanwhile, the Thark-marked God Caller becomes the center of the fight, answering spells with psychic curses and repeatedly terrifying [[Eolo]] and [[Ekko]]. The party gradually wears both enemies down, until [[Justas Rhostrin|Justas]] kills the lightning-shrouded orc with a _Guiding Bolt_. The creature explodes in a violent burst of lightning, leaving [[Justas Rhostrin|Justas]] barely standing.
+
+The God Caller continues fighting even after nearly all his allies have fallen, repeatedly striking [[Eolo]] with his axe while the rest of the party closes in. One arrow drives the god caller to his knees, but he tears it free and rises again; the next knocks him facedown and finally kills him. Our session ends as the party surrounds and dispatches the two orcs still trapped by Finnan’s spell.
 <!-- /SLOT -->
