@@ -1,76 +1,63 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - session-note
+tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 4
 realWorldDate: 2026-01-08
 DR: 1730-01-26
 DR_end: 1730-01-29
-players:
-  - Finnan
-  - Jrain
-  - Eolo
-  - Ekko
-  - Justas
+players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
-name: Into the Chasm - Episode 04
-descTitle: The Druid in the Circuit
-tagline: in which Malquin bargains and Eidrikas endures
+name: Into the Chasm - Episode 4
+descTitle: Escape from Melusa
+tagline: in which the party bargains with Malquin for a way home
 sessionKey: into-the-chasm-session-4
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 06
+# Into the Chasm - Episode 4
 
->[!info] The Druid in the Circuit: in which Malquin bargains and Eidrikas endures
+>[!info] Escape from Melusa: in which the party bargains with Malquin for a way home
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*
 > *In Taelgar: (DR:: 1730-01-26) to (DR:: 1730-01-29)*
 > *On Earth: Thursday, January 8, 2026*
 > *[[Melusa]], Ice Palace, and [[Great Chasm]]*
 
-After [[Kalima]] disappears into Zahara's care, the party confronts Malquin for passage out of [[Melusa]] and finds [[Eidrikas]] holding the broken chasm mechanism together in the true [[Great Chasm]].
+After a tense night in [[Melusa]], the party bargains with Malquin for passage home; stepping through a strange gash in reality they find [[Eidrikas]] in the true [[Great Chasm]].
 
 ## Timeline
 
-- (DR:: 1730-01-26) - (DR_end:: 1730-01-27), night: [[Kalima]] leaves [[Melusa]] under Zahara's cover while Malquin's guards search the village.
-- (DR:: 1730-01-27), morning: [[Samir]] reveals Taquin's memories before the party chooses a direct challenge to Malquin.
-- (DR:: 1730-01-27), midday: Malquin grants passage only after demanding proof that the outside world is real.
-- (DR:: 1730-01-27) - (DR_end:: 1730-01-29): [[Eidrikas]] holds the failing chasm mechanism together after [[Orcs|orcs]] steal its missing stone.
+- (DR:: 1730-01-26), night: During the so-called night, [[Kalima]] slips from [[Nura]] and Khaled's house, as Ice Palace soldiers move outside. The party stays hidden and rests.
+- (DR:: 1730-01-27): The party learns more about [[Melusa]] and the rebels who want to escape, led by [[Zahara]]. Deciding to bargain directly with Malquin, the party enters the Ice Palace. Malquin veers between fear and authority, but lets the party leave if they return with proof the outside world is real. The [[Chasm Explorers]] escape through a strange gash in reality that shows a mirror of Melusa's ledge, without the village.
+- (DR:: 1730-01-27) - (DR_end:: 1730-01-29): Stepping through the gash, the party finds themselves in the [[Great Chasm]], a few days later, where they meet [[Eidrikas]], who asks for help to restore the [[Great Chasm]].
 
 ## Cast of Characters
 
-- [[Kalima]] (she/her, the Zimka human): hidden guest.
-- Zahara: secret guide in the whiteout.
-- [[Samir]]: wakeful baby.
-- [[Nura]]: host and interpreter of village beliefs.
-- [[Taquin]]: remembering soul speaking through [[Samir]].
-- [[Iskander]]: Zahara's contact in [[Melusa]].
-- Ice wolf guardian: watcher at the safe gash.
-- Malquin the Vaqar: ruler of the demiplane.
-- [[Eidrikas]] (*AYD-ree-kahs*; he/him): druid holding the mechanism together.
-- [[Orcs]]: fugitives below the mechanism.
-- [[Pakrinek]] (*PACK-ree-neck*; kenku): fallen kenku companion.
+- [[Kalima]] (she/her, the Zimka human): guide to [[Melusa]] and Old Zimkovan woman rescued by the party.
+- [[Zahara]]: leader of the [[Melusa]] rebels.
+- [[Samir]]: wakeful baby with a strange old soul.
+- [[Nura]]: Kalima's sister and the party's host in [[Melusa]].
+- [[Taquin]]: an old soul speaking through the infant [[Samir]].
+- [[Iskander]]: member of the rebels and Zahara's contact in [[Melusa]].
+- [[Forquarion|Malquin the Vaqar]]: ruler of the demiplane; the Melusan name for [[Forquarion|Forquarion the Frostbinder]].
+- [[Eidrikas]] (*AYD-ree-kahs*; he/him): druid in the [[Great Chasm]], member of the [[Vejo Vaikai]].
+- [[Pakrinek]] (*PACK-ree-neck*; kenku): fallen kenku companion of [[Eidrikas]].
 
 ## Places
 
-- [[Melusa]] (place Unknown): Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff. Session context includes: [[Nura]] and Khaled's house, the snowy lane outside, Iskander's hut near the cattle-island bridge, the cliffside gashes, and the safe gash below the Ice Palace.
-- Ice Palace: Malquin's floating palace, reached by a conjured bridge and dominated by an unstable audience with its ruler. Session context includes: the entrance hall and throne-room-like audience chamber.
-- [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): The true chasm beyond [[Melusa]], where floating carved platforms surround a failing planar mechanism. Session context includes: arrival cliff face, movable floating stone, carved platform network, and damaged mechanism site.
+- [[Melusa]] (place Unknown): Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff. Session context includes: [[Nura]] and Khaled's house, Iskander's hut near the cattle-island bridge, and the cliffside gashes.
+- Ice Palace: Malquin's floating palace, reached by a conjured bridge of ice. Session context includes: the entrance hall and throne-room-like audience chamber.
+- [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): The true chasm beyond [[Melusa]], where floating carved platforms surround a failing planar mechanism.
 
 ## Narrative
 
-The party's fragile refuge in [[Nura]] and Khaled's cramped house breaks when [[Jrain Fanlish|Jrain]] hears the door open during her watch. [[Kalima]] slips out with the guide later identified as Zahara while Malquin's soldiers move through the village, and [[Samir]] lies awake watching the escape. With the whiteout hiding both [[Kalima]] and the patrols, the party lets the moment pass, remains concealed, and finishes the long rest.
+Our session begins at night, as the party hides and rests. During the night, [[Jrain Fanlish|Jrain]] hears the door open during her watch, and sees [[Kalima]] slip into the whiteout fog outside, following a guide, while Malquin's soldiers move through the village, and [[Samir]] lies awake watching the escape.
 
-Morning brings no simple explanation for Kalima's flight. [[Samir]], still only a baby, answers with memories of falling toward the labyrinth and seeing Zahara above him, then identifies himself as [[Taquin]]. [[Nura]] describes Melusa's wrong-soul curse and the brief lives expected for such children, and Finnan's magic ties the realm's strange sky and limits to Malquin's rule. Rather than rely on the village elders, the party decides Zahara's troublemakers are the better path to answers.
+Morning brings no simple explanation for Kalima's flight. [[Samir]], still only a baby, answers with memories of falling toward the labyrinth and seeing [[Zahara]] above him, then identifies himself as [[Taquin]]. [[Nura]] describes Melusa's wrong-soul curse and the brief lives expected for such children. The party discusses what to do next, and decides that, rather than rely on the village elders, they should talk Zahara's troublemakers, likely a better path to answers.
 
-Acting on the lead from [[Nura]] and [[Samir]], the party walks through [[Melusa]] toward Zahara's side of the village and meets [[Iskander]] near the cattle-island bridge. Once convinced they are serious, he gives them the rebel version of the prison: five gashes in the cliff, one apparently safe exit held by Malquin's forces, a forty-foot ice wolf, and villagers too frightened or resigned to act. He also sketches the small scale of Zahara's circle and the private refuge where they withdraw when the village becomes unsafe.
+Leaving [[Nura]] and Khaled's house, the [[Chasm Explorers]] walk through [[Melusa]] to find [[Iskander]], a contact of Zahara's. Once he is convinced they are serious, he tells the party more about the five gashes in the cliff. They appeared a few months ago, but the one apparently safe exit is held by Malquin's forces and guarded by a forty-foot ice wolf. A few have tried to escape, and failed, but most of the villagers are too frightened or resigned to act. He also explains more about Zaraha's rebels. There are only a handful of them, he says, and they often withdraw to a hidden refuge on one of the floating islands when the village feels unsafe.
 
-With Iskander's information exhausted, the party chooses action over more quiet investigation. They ask him to warn Zahara's circle that confronting Malquin may create an opening, then move to the cliffside gashes where the ice wolf watches the safe passage. [[Eolo]] tests the metal gash and comes away with a sharp, shimmering fragment and a mangled arm, proving the other cracks are dangerous. The party then announces itself in Sylvan and illusion, drawing enough attention for the bridge to the Ice Palace to form.
+With Iskander's information exhausted, the party decides to act instead of spend more time investigating the situation, and develops a plan to confront Malquin directly. They ask [[Iskander]] to warn Zahara's circle, so they are not caught off guard if this creates an opening for escape, and then leave Iskander's for the Ice Palace. Along the way, the party stops to look at the gashes; [[Eolo]] tests the metal gash and comes away with a sharp, shimmering fragment of metal, and a mangled arm. Reaching the edge of the village, the party announces themselves, drawing enough attention for the bridge to the Ice Palace to form.
 
-The Ice Palace audience is less a formal reception than an encounter with a ruler struggling to hold himself together. Malquin appears and reappears around the chamber, names himself Malquin the Vaqar, and alternates between grand authority, terror of annihilation, and suspicion that the party might be another false thing from the whispers. The severed head from the labyrinth unsettles him, but it also helps make the outside feel possible. In the end he bargains: they may pass through the safe gash with his necklace as a token, but he wants proof that what waits beyond is real and survivable.
+Inside the Ice Palace, the party comes face to face with Malquin. The audience is less a formal reception than an encounter with a ruler struggling to hold himself together. Malquin appears and reappears around the chamber, names himself [[Forquarion|Malquin the Vaqar]], and alternates between grand authority, terror of annihilation, and suspicion that the party might be another false thing from the whispers that speak to him. The severed head from the labyrinth unsettles him, but it also helps make the outside feel possible. In the end he bargains: they may pass through the apparently safe mirror-world gash, with his necklace as a token, but he wants proof that what waits beyond is real and not some trick.
 
-Malquin's permission proves real enough for the ice wolf to let them approach, and the party prepares for the unknown by tying a rope around its leg before jumping through the gash. The portal opens onto a sheer cliff in the true [[Great Chasm]], where carved floating platforms hang above a larger mechanism streaked with unstable light while new tears split the sky. [[Eolo]] and [[Ekko]] help the others reach the stones, and clairvoyance points them to [[Eidrikas]], alive but in agony as he uses his body to complete the damaged circuit. He tells them that [[Orcs|orcs]] overran the site, killed [[Pakrinek]], and carried a vital stone down through the platform network. His count of days also reveals that four extra days passed outside while the party was trapped in [[Melusa]], leaving only a narrow window to recover the stolen piece.
-
-## Combat
-
-- none
+Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true [[Great Chasm]]. Below them, the party sees strange carved floating platforms in the Chasm, flicking with unstable light. [[Eolo]] and [[Ekko]] help the others reach the stones, where they see a person below. Clairvoyance reveals this is [[Eidrikas]], alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells the [[Ekko]] that [[Orcs|orcs]] overran the site, killed [[Pakrinek]], and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in [[Melusa]], leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences.

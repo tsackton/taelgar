@@ -170,10 +170,10 @@ Inside the Ice Palace, the party comes face to face with Malquin. The audience i
 - Enemies: none
 
 #### Short
-Stepping through the mirror-world gash with Malquin's permission, they find themselves in the Great Chasm again. Eidrikas is here, trapped in a failing strange mechanical stone platform, and tells them that orcs attacked, killed Pakrinek, and fled downward with a crucial piece of the Chasm machinery. 
+Stepping through the mirror-world gash with Malquin's permission, they find themselves in the Great Chasm again. Eidrikas is here, trapped in a failing strange mechanical stone platform, and tells Ekko that orcs attacked, killed Pakrinek, and fled downward with a crucial piece of the Chasm machinery. 
 
 #### Long
-Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true Great Chasm. Below them, the party sees strange carved floating platforms in the Chasm, flicking with unstable light. Eolo and Ekko help the others reach the stones, where they see a person below. Clairvoyance reveals this is Eidrikas, alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells the party that orcs overran the site, killed Pakrinek, and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in Melusa, leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences. 
+Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true Great Chasm. Below them, the party sees strange carved floating platforms in the Chasm, flicking with unstable light. Eolo and Ekko help the others reach the stones, where they see a person below. Clairvoyance reveals this is Eidrikas, alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells the Ekko that orcs overran the site, killed Pakrinek, and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in Melusa, leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences. 
 
 ## Cast
 
