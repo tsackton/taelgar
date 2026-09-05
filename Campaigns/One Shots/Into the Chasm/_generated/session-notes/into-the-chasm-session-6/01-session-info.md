@@ -6,19 +6,34 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Session Info
 
 <!-- SLOT: session.title -->
-The Rescue of Melusa
+Into the Chasm - Episode 6
 <!-- /SLOT -->
 
 <!-- SLOT: session.desc_title -->
-The Portal Narrows
+The Chasm Restored
 <!-- /SLOT -->
 
 <!-- SLOT: session.tagline -->
-in which the willing escape Melusa
+in which the willing flee Melusa
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-The party recovers the keystone, delays the repair long enough to return to [[Melusa]], rescues the villagers willing to flee, and begins arranging their survival in the true [[Great Chasm]].
+After recovering the chasm engine's keystone, the party returns to [[Melusa]] and leads dozens of willing villagers through the unstable portal to safety.
+<!-- /SLOT -->
+
+<!-- SLOT: session.arc -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.table_notes -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.pull_quotes -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.audio_highlights -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.highlights -->
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -39,6 +54,18 @@ Finnan, Jrain, Eolo, Ekko, Justas
 
 <!-- SLOT: session.pcs_inline -->
 [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_plain_inline -->
+Kalima
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_inline -->
+[[Kalima]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.featuring_inline -->
+Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], and [[Justas Rhostrin|Justas]], with [[Kalima]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.session_number -->
@@ -70,22 +97,21 @@ Wednesday, February 4, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1730-01-29), afternoon: The keystone is recovered and carried back to [[Eidrikas]] before the party delays the repair for [[Melusa]].
-- (DR:: 1730-01-29), night: The party returns to [[Melusa]], evacuates the willing through the wisp-choked portal, and begins arranging shelter.
+- (DR:: 1730-01-29), evening: The party recovers the keystone, but postpones repairing the chasm engine long enough to return to [[Melusa]], where they evacuate a handful of willing dissident.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
 - [[Eidrikas]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): mentor and living bridge in the mechanism.
-- Zahara: leader of the dissidents.
+- [[Zahara]] (<(*)pronunciation(*;)> <typeof:sn>): leader of the dissidents.
 - Older Melusan woman: skeptical elder rallying people to stay.
-- [[Iskander]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): organizer of the willing group.
+- [[Iskander]] (<(*)pronunciation(*;)> <typeof:sn>): organizer of the willing group.
 - [[Kalima]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): refugee among the willing.
-- Malquin the Vaqar: missing ruler of [[Melusa]].
+- [[Forquarion|Malquin the Vaqar]] (<(*)pronunciation(*;)> <typeof:sn>): missing ruler of [[Melusa]].
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Great Chasm]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): sacred chasm machinery site where [[Eidrikas]] holds a damaged runic engine together and where the rescued Melusans first emerge into the true world. Session context includes: damaged lower hall of the runic engine beneath Eidrikas's platform and threaded with six black pillars and ringed with glowing hatches.
-- [[Melusa]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): failing hidden village-realm whose willing dissidents escape through the white portal after the palace guard collapses. Session context includes: through the white portal and away from the broken ice-wolf plaza beside the salmon pool.
+- [[Great Chasm]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Sacred chasm machinery site where [[Eidrikas]] holds a damaged planar engine together and the rescued Melusans emerge into the true world.
+- [[Melusa]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Isolated village-realm whose willing dissidents escape after strange portals overwhelm the palace guard and destabilize the settlement.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
@@ -93,16 +119,19 @@ Wednesday, February 4, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->
-- [[Kemeko Monastery]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Kenku monastery proposed as the source of help for lifting and supporting the Melusan refugees.
+- [[Kemeko Monastery]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Kenku monastery asked to help lift the refugees from the [[Great Chasm]].
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
-- Wisp Breakout: Portal wisps. The party returns to [[Melusa]] through a cloud of portal wisps, survives the immediate swarm, and pulls clear enough to assess the village.
-- Wisp Evacuation: Portal wisps. [[Justas Rhostrin|Justas]], [[Ekko]], and Finnan's fae draw the portal wisps away long enough for [[Eolo]] and [[Jrain Fanlish|Jrain]] to move the willing refugees through before the keystone is restored.
+**Breakout at the White Portal.** The party emerges inside a dense swarm of portal wisps and fights clear without casualties, leaving the creatures clustered around the gateway.
+
+**The Last Crossing.** [[Justas Rhostrin|Justas]], [[Ekko]], and Finnan's summoned fey draw the portal wisps away while [[Jrain Fanlish|Jrain]] and [[Eolo]] move the refugees through, allowing the last willing villager to escape before [[Eidrikas]] restores the keystone.
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
-- Keystone: Missing runic arc recovered from the orcs, carried back to [[Eidrikas]], and restored to stabilize the chasm mechanism.
-  - [[Great Chasm]], 1730-01-29
-  - [[Melusa]] -> [[Great Chasm]], 1730-01-29
+- Keystone: Curved, rune-carved arc recovered from the orcs and restored to stabilize the chasm engine.
+<!-- /SLOT -->
+
+<!-- SLOT: objects -->
+- Keystone: Curved, rune-carved arc recovered from the orcs and restored to stabilize the chasm engine.
 <!-- /SLOT -->
