@@ -1,30 +1,57 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
-name: Kalima
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/ai, status/check/lint]
 species: human
 ancestry: Zimka
 gender: female
+name: Kalima
+pronunciation: kah-LEE-mah
 whereabouts:
   - {type: away, start: 1730-01-22, end: 1730-01-25, location: Great Chasm}
-  - {type: away, start: 1730-01-25, location: Zeyfa's Labyrinth}
+  - {type: away, start: 1730-01-25, location: "Zeyfa's Labyrinth"}
+knownTo: [itc]
 dm_owner: none
 dm_notes: none
+POV: 1730
 ---
 # Kalima
+*(kah-LEE-mah)*
 >[!info]+ Biographical Info  
 > A [[Zimka]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:Into the Chasm%% Met the Into the Chasm on January 25th, 1730 the Zeyfa's Labyrinth %%^End%%
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% AI generated: review metadata for accuracy and review text for polish%%
 
-Kalima is a Zimkovan woman from a hidden people bound to [[Zeyfa]] and [[Zeyfa's Labyrinth]]. She emerged from the [[Great Chasm]] near [[Kemeko Monastery]] in late January 1730, terrified of kenku and speaking Old Zimkovan.
+Kalima is a Zimkovan woman from [[Melusa]], the sister of [[Nura]] and sister-in-law of [[Khaled]]. She emerged from the [[Great Chasm]] near [[Kemeko Monastery]] in late January 1730, terrified of kenku and speaking Old Zimkovan.
 
-When an unnatural storm swept Kalima and the adventurers into the chasm, she identified their destination as Zeyfa's Labyrinth, a place she believed no one truly escaped. She described her people as descendants of refugees from an ancient catastrophe, trapped near the labyrinth and forced to appease the West Wind by sending sacrifices into the maze. Kalima warned that the only possible way out lay deeper inside, toward the beast, and that the labyrinth was no place to sleep.
+She described her people as descendants of refugees from an ancient catastrophe, forced to appease the West Wind with sacrifices sent into [[Zeyfa's Labyrinth]]. She believed no one truly escaped the maze, and warned that its only possible exit lay deeper inside, toward the beast.
 
-Kalima is frightened of kenku, but after [[Finnan Oakstride]] and [[Justas Rhostrin]] protected her and spoke with her in Old Zimkovan, she agreed to travel with the party if she could stay between them.
+An unnatural storm swept her back into the labyrinth with the [[Chasm Explorers]]. With [[Finnan Oakstride]] and [[Justas Rhostrin]] protecting her, she traveled with them through the maze and led them to her family in Melusa. She later joined the refugees they evacuated from the village, who eventually settled elsewhere.
 
 %%
-AI note: This note was expanded from Into the Chasm session 1 information only. [[Into the Chasm - Episode 01]] lists Kalima's emergence as 1729-01-22, but the surrounding session timeline and [[Into the Chasm Intros]] place it shortly before the 1730-01-25 session; this note treats 1729 as a typo and uses 1730-01-22. Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
+AI note: Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm - Episode 03]], and [[Into the Chasm - Episode 06]]. The current Episode 01 timeline records her emergence on 1730-01-22. The refugees' eventual settlement is not named.
 %%
+
+%%^Metadata:names:v1%%
+- {name: Kalima, language: unknown, pronunciation: kah-LEE-mah, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1730 account of escape from the labyrinth, return to Melusa, and evacuation; the eventual settlement is unnamed.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Updated the explicitly AI-authored identity, eventual escape, and source note; added name and temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- Updated the visible identity, family relationships, and eventual evacuation from the public session records; the old comment about a 1729 typo no longer describes the current Episode 01 timeline.
+
+### Open findings
+
+- [ ] **Warning — metadata.whereabouts_outdated:** The active `whereabouts` entry leaves Kalima in Zeyfa's Labyrinth indefinitely from 1730-01-25, but [[Into the Chasm - Episode 03]] records her leaving it for Melusa that day, and [[Into the Chasm - Episode 06]] records her later evacuation. Close the labyrinth entry with `end: 1730-01-25` and record the subsequent Melusa stay; leave the final settlement unnamed. The exact evacuation date needs chronology confirmation because Episode 06's narrative includes rest and the following days despite its single-day timeline.
+%%^End%%

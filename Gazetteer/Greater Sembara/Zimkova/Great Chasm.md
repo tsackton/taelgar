@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: { defArt: "the" }
-name: Great Chasm
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/check/lint]
 typeOf: topographical feature
-typeOfAlias: chasm
-whereabouts: Zimkova
-dm_notes: none
-dm_owner: none
 subTypeOf: gorge
+typeOfAlias: chasm
+name: Great Chasm
+whereabouts: Zimkova
+knownTo: [itc]
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Great Chasm
 >[!info]+ Information  
@@ -32,4 +36,28 @@ What else lurks in the depths of the chasm is not known, though rumors speak of 
 
 In the "Into the Chasm" miniseries the idea of a large planar stabilizing artifact (or several such artifacts) floating in the mysterious "borderlands" of the Chasm was established. Potentially created by giants, or potentially some extra-planar beings, it had the vibe of odd materials (floating stone, glowing runes) and the implication that it somehow stabilized the planar vortexes in the Chasm. One of these stabilizing artifacts was damaged in 1730 and restoring it was part of the theme of the Into the Chasm miniseries. Exactly what planar mechanics this used, who created it, or exactly what it was was never canonically established.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Great Chasm, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and local beliefs, with a separate shared DM account of the DR 1730 adventure.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported name and temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- Great Chasm is a plain-English title and needs no pronunciation. The apparent repeated "was was" is grammatical: the first completes "what it was" and the second introduces "never canonically established". The complete private block was reviewed, including its noncanonical capitalized sentinel; its contents were not promoted into public prose.
+
+### Open findings
+
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The final private section uses `%%^Campaign:None%%`; the canonical reserved sentinel is `%%^Campaign:none%%`. Review this exact case correction while retaining the block's contents and private audience.
+- [ ] **Suggestion — editorial.prose_clarity:** The sentence "The depths of the chasm sometimes appear to have massive spires, and but at other times they are not visible" has conflicting conjunctions. Candidate: `The depths of the chasm sometimes appear to have massive spires, but at other times they are not visible.` This preserves uncertainty and the changing appearance.
+- [ ] **Warning — coverage.later_material_change:** The final shared DM paragraph says the number and nature of the stabilizing artifacts were not established. The closing account of [[Into the Chasm - Episode 06]] provides a more specific account and records the repair. Reconcile that bounded private paragraph with the episode's final explanation, retaining the uncertainty about builders and precise metaphysics and keeping its secret material within the private block. The public geography can retain `POV: modern`.
 %%^End%%

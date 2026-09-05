@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: halfling
 born: 1678
 gender: male
@@ -15,7 +15,7 @@ whereabouts: Zimkova
 knownTo: [itc]
 dm_owner: player
 dm_notes: important
-POV: 1729
+POV: 1730
 ---
 # Finnan Oakstride
 >[!info]+ Biographical Info  
@@ -36,26 +36,12 @@ In DR 1706, during the golden age of [[Cece I]], when Finnan was 28, he amicably
 
 In DR 1724, when Finnan was 46, he found himself spending more and more time among the [[Zimkova|Zimkovans]], beginning to systematically gather their stories and songs and legends. Soon after, he met [[Justas Rhostrin]], a local priest of the [[Kestavo]], and for the past five years he has largely traveled with Justas, gathering songs and stories and legends.
 
+In DR 1730, Finnan joined [[Justas Rhostrin]] and the other [[Chasm Explorers]] in investigating the [[Great Chasm]]. Drawn into [[Zeyfa's Labyrinth]] and [[Melusa]], he used his music, magic, and knowledge of old stories to calm and interpret for [[Kalima]], and later helped rally and evacuate roughly thirty Melusans into the true Great Chasm.
+
 %%^Metadata:names:v1%%
 - {name: Finnan Oakstride, language: unknown, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1729 portrait of Finnan's life before the Into the Chasm expedition; the visible article does not cover the established DR 1730 campaign developments.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter; added the explicit name, `knownTo: [itc]`, and a DR 1729 POV that reflects the visible pre-expedition article.
-- Added the persistent name and temporal-coverage blocks.
-- Corrected four objective grammar and repeated-word errors in the biography.
-
-### Validated judgments
-- `Finnan Oakstride` is readily pronounceable from its ordinary spelling, so no separate pronunciation proposal is needed.
-
-### Open findings
-
-- [ ] **Warning — coverage.later_material_change:** [[Into the Chasm - Episode 01]] through [[Into the Chasm - Episode 06]] establish a material DR 1730 continuation that the visible article, which ends in DR 1729, does not cover. Finnan entered the Great Chasm with the other Chasm Explorers, used his music, magic, and knowledge of old stories to aid Kalima and the group, and helped rally and evacuate roughly thirty Melusans. Choose whether to update the article and POV to DR 1730, defer the update with `status/gameupdate/itc`, or intentionally preserve the pre-expedition snapshot. Copy-ready addition if updating: `In DR 1730, Finnan joined [[Justas Rhostrin]] and the other [[Chasm Explorers]] in investigating the [[Great Chasm]]. Drawn into [[Zeyfa's Labyrinth]] and [[Melusa]], he used his music, magic, and knowledge of old stories to calm and interpret for [[Kalima]], and later helped rally and evacuate roughly thirty Melusans into the true Great Chasm.`
 %%^End%%

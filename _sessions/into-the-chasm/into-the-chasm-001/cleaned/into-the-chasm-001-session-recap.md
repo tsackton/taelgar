@@ -29,7 +29,7 @@
 - Combat Beats: none
 
 #### Short
-An orcish horde lead by a fierce warrior calling herself the [[Ravager of Winter]] rampages out of the Sentinels and across northern [[Zimkova]]
+An orcish horde led by a fierce warrior calling herself the [[Ravager of Winter]] rampages out of the Sentinels and across northern [[Zimkova]]
 
 ### August 28th, 1729
 
@@ -76,7 +76,7 @@ Scattered remains of the Ravager's horde spread south and east, plaguing [[Breva
 - Combat Beats: none
 
 #### Short
-Strange omens emerge from the Great Chasm: a summer thunderstorm, out of season in October; a sandstorm, thick and dry, with scorching heat, in November; a boulder of volcanic stone, aflame with green fire, which tumbled down the rapids and floated to the Green Sea; a rainbow of glass that shattered into a hundred thousand pieces, in December; a living sheet of ice that drifted down the Teft like a predator, leaving dead fish and frozen banks in its wake, soon after. 
+Strange omens emerge from the Great Chasm: a summer thunderstorm, out of season in October; a sandstorm, thick and dry, with scorching heat, in November; a boulder of volcanic stone, aflame with green fire, which tumbles down the rapids and floats to the Green Sea; a rainbow of glass that shatters into a hundred thousand pieces, in December; a living sheet of ice that drifts down the Teft like a predator, leaving dead fish and frozen banks in its wake, soon after.
 
 
 ### Jan 2nd-7th, 1730
@@ -107,7 +107,7 @@ The sky above the [[Great Chasm]] turns black, blotting out the sun.
 - Combat Beats: none
 
 #### Short
-The [[Vejo Vaikai ]]gather some of their wisest mystics, lead by [[Eidrikas]], Ekko's mentor, and protected by [[Pakrinek]], one of the warriors of Kemeko, to investigate strange happens in the [[Great Chasm]].
+The [[Vejo Vaikai]] gather some of their wisest mystics, led by [[Eidrikas]], Ekko's mentor, and protected by [[Pakrinek]], one of the warriors of Kemeko, to investigate strange happenings in the [[Great Chasm]].
 
 
 ### Jan 16th, 1730
@@ -123,7 +123,7 @@ The [[Vejo Vaikai ]]gather some of their wisest mystics, lead by [[Eidrikas]], E
 - Combat Beats: none
 
 #### Short
-A cloud of superheated steam obscures the Great Chasm near [[Kemeko Monastery]]; fog and mist rises from the depths
+A cloud of superheated steam obscures the Great Chasm near [[Kemeko Monastery]]; fog and mist rise from the depths
 
 
 ### Jan 22nd, 1730
@@ -154,7 +154,7 @@ A cloud of superheated steam obscures the Great Chasm near [[Kemeko Monastery]];
 - Combat Beats: beat-003, beat-004, beat-005
 
 #### Short
-Ekko, Finnan, Jrain, Justas, Eolo, and Kalima are pulled by an unnatural storm into the [[Great Chasm]]. Landing on an ice flow, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
+Ekko, Finnan, Jrain, Justas, Eolo, and Kalima are pulled by an unnatural storm into the [[Great Chasm]]. Landing on an ice floe, they survive an attack by ice wolves, introduce themselves to each other, and prepare to explore.
 
 ## Recap
 
@@ -194,7 +194,7 @@ For generations, the Great Chasm has split Zimkova, an endless cleft of strange 
 They awaken on an ice platform floating in darkness, under the false sky of the shrieking white storm, and begin taking stock of one another, when Eolo approaches a frozen ice statue of a giant wolf.
 
 #### Long
-They awaken on an ice platform, apparently floating in a black void, the false sky of a shrieking white storm overhead. Dim blue light glows from inside the platform, revealing two bridges leading off into darkness and a large frozen statue of a wolf before each bridge. Finnan plays a simple melody on his clay pipe, bringing light and clear looks to the platform. Eolo snaps to standing with both crossbows drawn, Ekko lowers a wing to restrain Eolo from panicked action, Justas rises defensively with axe and shield, and Jrain regains her poise standing beside the [[Kalima|young Zimkovan woman]] she tried to protect during the fall. The woman is dressed in unfamiliar leathers and furs, terrified, and only speaks Old Zimkovan; when Finnan sings to calm her, the wind nearly steals his voice, but the spell settles her. As he starts to question the woman, Eolo approaches one of the frozen ice statues of a giant wolf.
+They awaken on an ice platform, apparently floating in a black void, the false sky of a shrieking white storm overhead. Dim blue light glows from inside the platform, revealing two bridges leading off into darkness and a large frozen statue of a wolf before each bridge. Finnan plays a simple melody on his clay pipe, illuminating the platform. Eolo snaps to standing with both crossbows drawn, Ekko lowers a wing to restrain Eolo from panicked action, Justas rises defensively with axe and shield, and Jrain regains her poise standing beside the [[Kalima|young Zimkovan woman]] she tried to protect during the fall. The woman is dressed in unfamiliar leathers and furs, terrified, and only speaks Old Zimkovan; when Finnan sings to calm her, the wind nearly steals his voice, but the spell settles her. As he starts to question the woman, Eolo approaches one of the frozen ice statues of a giant wolf.
 
 ### recap-003 | Ice Wolves Awaken
 
@@ -213,7 +213,7 @@ They awaken on an ice platform, apparently floating in a black void, the false s
 His approach wakes the icebound wolves, and a desperate fight breaks out against wind-shades, chasm wisps, and darkness.
 
 #### Long
-The wolf begins to move as Eolo approaches, gathering itself to pounce. Eolo tries a telekinetic shove and fires crossbow bolts, but the guardian gets the better of the exchange, knocking him down, biting into his throat, and leaving an icy shard pulsing in his neck. Ekko takes the shape of a polar bear, cracking the other wolf's shell of ice, while Jrain puts arrows into the first guardian. Justas steps into the fight with axe, shield, and a conjured _Spiritual Weapon_. Finnan's music and calming magic keeps panic from breaking into unchecked fear. As the battle proceeds, wind-shades sweep in from the darkness: one terrible shriek drops the Zimkovan woman unconscious on the ice. The first wolf shatters, and chasm wisps spill out of it, drawn to light. They snuff Finnan's magical glow, and leave the party fighting by the platform's dim blue light, trying to shove Finnan toward the edge. As Justas and Eolo weather the wolves' bites and the party finally defeats the platform guardians, Finnan brings the Zimokvan woman back with a healing word. 
+The wolf begins to move as Eolo approaches, gathering itself to pounce. Eolo tries a telekinetic shove and fires crossbow bolts, but the guardian gets the better of the exchange, knocking him down, biting into his throat, and leaving an icy shard pulsing in his neck. Ekko takes the shape of a polar bear, cracking the other wolf's shell of ice, while Jrain puts arrows into the first guardian. Justas steps into the fight with axe, shield, and a conjured _Spiritual Weapon_. Finnan's music and calming magic keep panic from breaking into unchecked fear. As the battle proceeds, wind-shades sweep in from the darkness: one terrible shriek drops the Zimkovan woman unconscious on the ice. The first wolf shatters, and chasm wisps spill out of it, drawn to light. They snuff Finnan's magical glow, and leave the party fighting by the platform's dim blue light, trying to shove Finnan toward the edge. As Justas and Eolo weather the wolves' bites and the party finally defeats the platform guardians, Finnan brings the Zimkovan woman back with a healing word.
 
 ### recap-004 | Kalima Names the Labyrinth
 
@@ -251,7 +251,7 @@ After the last wisp is gone, quiet falls on the ice platform. With the last of h
 While the woman clutches Romil's token beside Finnan's illusory hearth, Finnan turns to the others and recounts her story, telling a tale of the ancient people before [[The Downfall]] who fled into the labyrinth. The strangers compare how the storm caught each of them; the woman adds that the West Wind sends her people into the labyrinth as sacrifices.
 
 #### Long
-As the woman steadies herself by the illusory, but calming, hearth, Finnan turns from her to the others, introduces himself as Finnan Oakstride, and retells her tale: before Drankor, when much of the land was [[Urtzabala|swamp]], as [[The Downfall]] reshaped the world her people fled into this place, and became trapped in its maze. The strangers then speak of their own journeys that brought them here, before the conversation turns to what the group knows of the chasm, Kemeko, the Kestavo, and Zeyfa. When Jrain the woman asks what appeases the West Wind, Finnan gently draws the her back, calming her confusion over what he is and then receiving the answer: when the sun sets and the new ones are old enough, the West Wind demands that one of her people be sent into its labyrinth as a sacrifice. 
+As the woman steadies herself by the illusory, but calming, hearth, Finnan turns from her to the others, introduces himself as Finnan Oakstride, and retells her tale: before Drankor, when much of the land was [[Urtzabala|swamp]], as [[The Downfall]] reshaped the world her people fled into this place, and became trapped in its maze. The strangers then speak of their own journeys that brought them here, before the conversation turns to what the group knows of the chasm, Kemeko, the Kestavo, and Zeyfa. When Jrain asks the woman what appeases the West Wind, Finnan gently draws her back into the conversation, calming her confusion over what he is and then receiving the answer: when the sun sets and the new ones are old enough, the West Wind demands that one of her people be sent into its labyrinth as a sacrifice. 
 
 ### recap-006 | Rest, Recon, and Descent
 
@@ -270,7 +270,7 @@ As the woman steadies herself by the illusory, but calming, hearth, Finnan turns
 The woman introduces herself as Kalima and warns that every path leads to the beast. With no other options, the adventurers and Kalima set off across one of the bridges, into the labyrinth. 
 
 #### Long
-The conversation stretches into a short rest. Finnan looks for magic, but apart from Justas's shield nothing on the platform or in the false sky gives a clean signature. Meanwhile the cloud presses lower, the wind howls harder, and the woman curls in on herself, saying the beast does not like waiting. The group tests the platform for means of escape, but are rebuffed. An object dropped straight down is blown violently back; even Eolo and Ekko leaping into the void only to learn that the updraft makes escape by flight impossible. With little choice, the party decides to brave the bridges, the maze, and the beast. When Finnan asks, the woman introduces herself as Kalima, and tells the party that all paths lead to the beast. She only escaped by luck, after finding an earthen tunnel and digging through it. Justas and Finnan argue that she is safer with them than left on the platform alone; she agrees to come if she can stay between them, and the group sets out across the bridge into the snowy maze. 
+The conversation stretches into a short rest. Finnan looks for magic, but apart from Justas's shield nothing on the platform or in the false sky gives a clean signature. Meanwhile the cloud presses lower, the wind howls harder, and the woman curls in on herself, saying the beast does not like waiting. The group tests the platform for means of escape, but are rebuffed. An object dropped straight down is blown violently back; Eolo and Ekko leaping into the void only confirms that the updraft makes escape by flight impossible. With little choice, the party decides to brave the bridges, the maze, and the beast. When Finnan asks, the woman introduces herself as Kalima, and tells the party that all paths lead to the beast. She only escaped by luck, after finding an earthen tunnel and digging through it. Justas and Finnan argue that she is safer with them than left on the platform alone; she agrees to come if she can stay between them, and the group sets out across the bridge into the snowy maze. 
 
 ## Cast
 

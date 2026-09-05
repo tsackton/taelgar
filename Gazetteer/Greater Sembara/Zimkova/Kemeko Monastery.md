@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: building
 typeOfAlias: monastery
 ancestry: kenku
@@ -10,6 +10,7 @@ name: Kemeko Monastery
 pronunciation: keh-MEH-koh
 whereabouts:
   - {type: home, location: Great Chasm}
+knownTo: [itc]
 dm_owner: mike
 dm_notes: none
 POV: 1730

@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-name: Sentinel Range
-diplayDefaults: {defArt: "the"}
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/cleanup/text, status/check/lint, status/check/ai]
 typeOf: topographical feature
+typeOfAlias: mountain range
+name: Sentinel Range
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
-whereabouts: 
-- {type: home, location: Taelgar, linkText: in}
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: color
-typeOfAlias: mountain range
+POV: modern
 ---
 # The Sentinel Range
 >[!info]+ Information
@@ -101,77 +104,68 @@ Ward / watch
 
 Here are some from ChatGPT:
 
-**Thundar Peaks**  
-_Short form: Thundars or The Thunds_  
-Emphasizes the stormy nature of the mountains.
-
-**Frostfang Ridge**  
-_Short form: Frostfangs or The Fangs_  
-Highlighting the icy, sharp nature of the peaks.
-
-**Stormcrown Crests**  
-_Short form: Crowns or The Crests_  
-Emphasizing the stormy summits of the mountains.
-
-**Stoneheart Range** _Short form: Stonehearts or The Hearts_  
-Represents the central, "heart" role the mountains might play in the continent.
-
-**Titanback Mountains**  
-_Short form: Titanbacks or The Titans_  
-Evokes a sense of grand scale.
-
-**Skyreach Ridges**  
-_Short form: Skyridges or The Reaches_  
-Suggests peaks so tall they seem to touch the sky.
-
-**Earthspine Heights**  
-_Short form: Earthspines or The Spines_  
-Describes the mountain range as the backbone of the continent.
-
-**Stormhold Peaks**  
-_Short form: Stormholds or The Holds_  
-Represents the stormy nature, but without the icy connotation.
-
-**Sunderpeak Mountains**  
-_Short form: Sunderpeaks or The Sunders_  
-A name implying that the mountains themselves sundered or split the continent in ages past.
-
-**Stormhaven Heights**  
-_Short form: Stormhavens or The Havens_  
-Suggesting the mountains are a haven for storms, emphasizing both the dangerous and snow-covered aspects.
-
-**Stonecliff Divide**  
-_Short form: Stonecliffs or The Cliffs_  
-A rugged, imposing range much like the Rockies.
-
-**Skyplume Peaks**  
-_Short form: Skyplumes or The Plumes_  
-Evoking the towering height and misty, cloud-covered summits.
-
-**Ridgehorn Mountains**  
-_Short form: Ridgehorns or The Horns_  
-Evoking the jagged, horn-like peaks typical of alpine regions.
-
-**Cloudcap Crests**  
-_Short form: Cloudcaps or The Caps_  
-Conjuring up the often mist-covered peaks of the range.
-
-**Whitecrown Mountains**  
-_Short form: Whitecrowns or The Crowns_  
-Reflecting snow-covered peaks resembling crowns.
-
-**Blackstone Divide**  
-_Short form: Blackstones or The Stones_  
-Evoking the stark, rugged nature of the mountains.
-
-**Watchward Divide**  
-_Short form: Watchwards or The Wards_  
-Suggesting the mountains have a guarding or warding role against external threats.
-
-**Guardianstone Range**  
-_Short form: Guardianstones or The Guardians_  
-Suggesting the mountains act as sentinels or protectors.
+- **Thundar Peaks** (Thundars or The Thunds): stormy mountains.
+- **Frostfang Ridge** (Frostfangs or The Fangs): icy, sharp peaks.
+- **Stormcrown Crests** (Crowns or The Crests): stormy summits.
+- **Stoneheart Range** (Stonehearts or The Hearts): a possible central or “heart” role in the continent.
+- **Titanback Mountains** (Titanbacks or The Titans): immense scale.
+- **Skyreach Ridges** (Skyridges or The Reaches): peaks that seem to touch the sky.
+- **Earthspine Heights** (Earthspines or The Spines): the range as the continent's backbone.
+- **Stormhold Peaks** (Stormholds or The Holds): storms without an icy connotation.
+- **Sunderpeak Mountains** (Sunderpeaks or The Sunders): a name that would imply the mountains split the continent in ages past.
+- **Stormhaven Heights** (Stormhavens or The Havens): a haven for storms, emphasizing danger and snow.
+- **Stonecliff Divide** (Stonecliffs or The Cliffs): a rugged, imposing range like the Rockies.
+- **Skyplume Peaks** (Skyplumes or The Plumes): towering summits covered in mist and cloud.
+- **Ridgehorn Mountains** (Ridgehorns or The Horns): jagged, horn-like alpine peaks.
+- **Cloudcap Crests** (Cloudcaps or The Caps): peaks often covered in mist.
+- **Whitecrown Mountains** (Whitecrowns or The Crowns): snow-covered peaks resembling crowns.
+- **Blackstone Divide** (Blackstones or The Stones): stark, rugged mountains.
+- **Watchward Divide** (Watchwards or The Wards): a suggested guarding role against external threats.
+- **Guardianstone Range** (Guardianstones or The Guardians): mountains imagined as sentinels or protectors.
 
 Ultimately probably makes sense that these prominent mountains would have many names, but probably want a primary English name for reference, with alternative dwarven, stoneborn, and perhaps deno'qai or dunmari alternatives
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Sentinel Range, language: Common, status: documented}
+- {name: Sentinels, role: alias, language: Common, status: documented}
+- {name: Sentinel Mountains, role: alias, language: Common, status: documented}
+- {name: Indalas, role: alias, language: Stoneborn, pronunciation: een-DAH-lahs, notes: "Stoneborn name documented in the article. Proposed from the Xhosan analogue in Languages, with clear vowels and penultimate stress; the final s is retained as written. Exact in-world phonology is unrecorded.", status: proposed}
+- {name: Labkhan, role: alias, language: Dwarvish, pronunciation: LAHB-khahn, notes: "Dwarven name documented in the article. Proposed from the Tolkien Dwarvish analogue in Languages: short a vowels, aspirated kh, and first-syllable stress; exact in-world phonology is unrecorded.", status: proposed}
+- {name: Beredri, role: alias, language: "Deno'qai", pronunciation: beh-RED-ree, notes: "Name documented in the article. Old name notes brainstorm an Amharic Beredo connection without adopting an etymology. The proposed adapted reading uses clear e vowels, a pronounced r, final ee, and penultimate stress; the Hebrew or Arabic guidance in Languages does not establish an exact rule for this form.", status: proposed}
+- {name: Tushara, role: alias, language: Dunmari, pronunciation: too-SHAA-rah, notes: "Dunmari name documented in the article; old name notes include Tushāra. Proposed from the Hindi or Indo-Iranian analogue in Languages, with sh and the indicated long medial a; exact in-world phonology is unrecorded.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography after the Great War; older kingdoms and the destruction around Urlich provide historical context without narrowing the present regional overview.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Corrected the misspelled `diplayDefaults` field to `displayDefaults` and normalized frontmatter ordering.
+- Added name metadata for the established forms and a broadly modern temporal viewpoint with its coverage note.
+
+### Validated judgments
+- `Sentinel Range`, `Sentinels`, and `Sentinel Mountains` are ordinary Common names and need no pronunciation guide.
+- `status/cleanup/text` remains supported by the mixture of geographic reference prose and visible development guidance; the tag is unchanged.
+- Reviewed the shared naming and pass brainstorms as unresolved material. The positive external DM attestation has confirmed geographic matches; unrelated uses of “sentinels” were excluded.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the four alternate-name pronunciation proposals in `Metadata:names:v1`: Indalas `een-DAH-lahs` uses the Stoneborn Xhosan analogue with clear vowels and penultimate stress; Labkhan `LAHB-khahn` uses the Dwarvish Tolkien analogue with short a and aspirated kh; Beredri `beh-RED-ree` is a cautious adaptation that acknowledges the old Amharic name brainstorm and the broader Hebrew/Arabic Deno'qai guidance; Tushara `too-SHAA-rah` uses the Hindi/Indo-Iranian analogue and the old Tushāra spelling. These are proposed readings, not established phonology; accept or correct each entry without adopting the brainstormed etymologies.
+- [ ] **Suggestion — editorial.reference_voice:** The regional sections expose the “Real world analogs” paragraphs, “These are stereotypical high mountains,” and “What this actually looks like is currently unknown.” These are development instructions and real-world comparisons inside player-facing geographic prose. Rewrite the bounded Northern, Central, and Southern Sentinels sections in reference voice while preserving their terrain, climate, boundaries, travel limitations, and genuine uncertainty; retain any useful design guidance privately through a separately approved visibility change.
+- [ ] **Suggestion — editorial.prose_clarity:** Under Southern Sentinels, the bullets beginning “The northern and middle sections are separated” and “The middle and southern sections are separated” discuss range-wide divisions, but their placement makes them read as subdivisions of the south. Move those two boundary bullets with their associated analogues, and the range-wide “Passes” bullet, beneath a sibling heading such as `### Divisions and Passes`; preserve the existing hidden pass-development text and its visibility.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Drikod (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 78 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 83 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - Dunmar Notes]]
+%%^End%%

@@ -22,7 +22,7 @@
 - Timeline Key: (DR:: 1730-01-29), afternoon
 - Resolution: part-of-day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006, beat-007, beat-008
-- Locations: Great Chasm, Great Chasm suspended structure
+- Locations: Great Chasm
 - NPCs: Eidrikas, Damaged custodian automaton, Lightning-shrouded orc
 - Organizations: none
 - Items: none
@@ -71,7 +71,7 @@ The party maneuvers the floating rock to the cylinder’s broken upper chamber, 
 #### Long
 The party maneuvers the floating rock to the broken rim of the cylindrical structure beneath Eidrikas’s platform. Looking into the chamber, they see a strange column of blue light, and a crushed orc. Eolo descends into the chamber, flying around, and discovers somewhat awkwardly that gravity is unusually heavy near the chamber’s outer wall. Meanwhile, Ekko retrieves the rope orcs used, allowing everyone to climb safely down from the rock.
 
-Eolo, of course, cannot resist approaching the blue column, and gets yanks by a powerful force across the boundary, sustaining minor injuries. Inside, gravity nearly disappears. Unclear what the point of the blue light is, or how it functions, the party turns to the cracks in the floor used by the orcs to descend. Securing the rope, they climb down, with minimal incident despite the strange gravity. 
+Eolo, of course, cannot resist approaching the blue column, and gets yanked by a powerful force across the boundary, sustaining minor injuries. Inside, gravity nearly disappears. Unclear what the point of the blue light is, or how it functions, the party turns to the cracks in the floor used by the orcs to descend. Securing the rope, they climb down, with minimal incident despite the strange gravity.
 
 ### recap-003 | Parley with the Custodian
 
@@ -104,7 +104,7 @@ Through a hatch in the floor, the party sees immense black conduits descending t
 - Date: 1730-01-29
 - Time: afternoon
 - Source Range: u1210 -> u1564
-- Locations: Great Chasm suspended structure
+- Locations: Great Chasm
 - NPCs: Lightning-shrouded orc
 - Organizations: none
 - Items: none
@@ -139,7 +139,7 @@ The party drops into the ruined chamber and attacks. Finnan’s _Hypnotic Patter
 #### Long
 The party drops through the hatch toward the larger group of orcs. Although the guards notice their approach, Finnan acts quickly, casting _Hypnotic Pattern_ and trapping three enemies in a motionless stupor. The party carefully avoids waking them while Ekko, Eolo, Jrain, and Justas cut down the orcs still able to fight. One enemy manages to awaken an ally, while the separate lightning-shrouded orc races across the chamber to join the battle.
 
-Finnan briefly drives the lightning-shrouded orc away with a command, but it soon, sending arcs of lightning through much of the party. Meanwhile, the Thark-marked God Caller becomes the center of the fight, answering spells with psychic curses and repeatedly terrifying Eolo and Ekko. The party gradually wears both enemies down, until Justas kills the lightning-shrouded orc with a _Guiding Bolt_. The creature explodes in a violent burst of lightning, leaving Justas barely standing.
+Finnan briefly drives the lightning-shrouded orc away with a command, but it soon returns, sending arcs of lightning through much of the party. Meanwhile, the Thark-marked God Caller becomes the center of the fight, answering spells with psychic curses and repeatedly terrifying Eolo and Ekko. The party gradually wears both enemies down, until Justas kills the lightning-shrouded orc with a _Guiding Bolt_. The creature explodes in a violent burst of lightning, leaving Justas barely standing.
 
 The God Caller continues fighting even after nearly all his allies have fallen, repeatedly striking Eolo with his axe while the rest of the party closes in. One arrow drives the god caller to his knees, but he tears it free and rises again; the next knocks him facedown and finally kills him. Our session ends as the party surrounds and dispatches the two orcs still trapped by Finnan’s spell. 
 
@@ -156,11 +156,7 @@ The God Caller continues fighting even after nearly all his allies have fallen, 
 
 - Great Chasm
   - Summary: immense chasm and ancient mechanism site where Eidrikas holds a damaged runic platform together while the party descends after the stolen stabilizing stone
-  - Sublocations: floating rock beside Eidrikas's tilted runic platform above the suspended cylindrical structure
-  - Date Visited: 1730-01-29
-- Great Chasm suspended structure
-  - Summary: broken multi-level structure beneath Eidrikas's platform, containing warped gravity, a damaged custodian, dangerous lightning systems, and the ruined chamber where the orcs gather
-  - Sublocations: climbing out, repositioning the floating stone, and opening the last hatch into the larger lower section
+  - Sublocations: floating rock beside Eidrikas's tilted runic platform, heavy-gravity upper chamber, custodian chamber, lightning chamber, ruined lower hall
   - Date Visited: 1730-01-29
 
 ## Organizations And Items

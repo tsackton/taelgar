@@ -1,10 +1,14 @@
 ---
-tags: [event, status/stub]
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [event, status/stub, status/check/lint]
+typeOf: cataclysm
 campaignInfo: []
 name: The Downfall
 aliases: [Downfall]
 dm_owner: tim
 dm_notes: important
+POV: undated
 ---
 
 %% no useful player-facing text; tagging as stub and setting to comment %%
@@ -23,3 +27,56 @@ Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar,
 Thus, at the end of the Third Age all was changed, the elder races diminished, and the time of the humans at hand.
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: The Downfall, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: undated; no visible article establishes a modern, decade, or year reading position. The hidden retrospective draft has not been adopted as public prose.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `typeOf: cataclysm`, a minimal primary name entry, and temporal metadata recording the absence of a visible article frame.
+
+### Validated judgments
+- The hidden authored account makes the note eligible, but its opening editorial comment explicitly withholds it from player-facing use; it remains unchanged and noncanonical.
+- The plain-English name needs no pronunciation; its in-world naming language is not established.
+- `status/stub` is supported because the note has no visible subject account; the tag is preserved.
+- Confirmed local source matches support the existing positive `dm_notes` attestation. Unrelated uses of the ordinary word “downfall” were excluded.
+
+### Editorial assessment
+**Underdeveloped**: The visible note lacks a definition of the event, its relationship to the Downfall Wars, and its principal consequences. The smallest useful scope is a short sourced public summary; the hidden draft is not authority for adopting its wider historical claims.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** No visible prose explains the subject. [[Downfall Wars]] identifies the Downfall as the culmination of those wars, the fall of Hkar, and the shattering of much of the old world; [[Hkar]] preserves the account of the island sinking, and the public History section of [[Drankorian Empire]] identifies refugees from Hkar as the principal founders of Drankor. Add a short visible account, for example: “The Downfall was the cataclysm at the end of the [[Downfall Wars]], remembered for the sinking of [[Hkar]] and the reshaping of much of Taelgar. Refugees from Hkar founded [[Drankor]], from which the [[Drankorian Empire]] grew.” This supplies the central definition and consequence without publishing the withheld draft or resolving its unadopted details.
+
+### DM evidence
+- [[_DM_/Brainstorming/Short Adventure Ideas (2025-2026)]]
+- [[_DM_/Secret Worldbuilding/Dunmar Notes]]
+- [[_DM_/Secret Worldbuilding/History of Dunmar]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Kenzo Solo Arc/Kingdom of Orekatu]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Notes - Solo Arcs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wave Dancer's Information]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Circular Island Overview - DM notes v2]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Pilgrimage Locations]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Ruins Secrets and Clues]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Table - Pilgrim's Path]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Overview - DM notes v1]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Rewritten]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/adventure_overview]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 132 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 133 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Edge of Echoes - Map Key]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
+- [[_DM_/_Mawar Confederacy/Ep 5 - Lost Legacy/Mawar Religion]]
+%%^End%%

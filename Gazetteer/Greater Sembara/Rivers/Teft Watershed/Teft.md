@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: "the"}
-name: Teft
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
-whereabouts: 
-- {type: primary, location: Greater Sembara}
-- {type: secondary, location: Teft Watershed }
-dm_notes: none
+name: Teft
+whereabouts:
+  - {type: primary, location: Greater Sembara}
+  - {type: secondary, location: Teft Watershed}
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Teft
 >[!info]+ Information  
@@ -34,3 +37,32 @@ Feywild ideas and notes:
 	- A bunch more here :[[Fey Realms]],
 
 %%
+
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: Sentinel Range, map: world, locator: 10.10.B18}
+  - {role: outlet, feature: Western Gulf, map: world, locator: 11.11.H20}
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Teft, language: unknown, pronunciation: TEFT, notes: "Proposed using the northern English branch of the regional Sembaran analogue in Languages: one syllable, short e, and pronounced final ft. Exact in-world name language is not established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern river geography and cultural associations; the ancient kestavan tradition is described as historical.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added mapped source and outlet from [[Teft Watershed]], a proposed pronunciation, and modern temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- [[Teft Watershed]] provides the source and sea-outlet coordinates. Feywild brainstorming remains explicitly provisional.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `TEFT`, one syllable with short e and an audible final ft, using the northern English branch of the regional Sembaran analogue in [[Languages]]. The language of this particular name is not established. Accept with `pronunciation: TEFT` in frontmatter and `status: documented` in the entry, or revise.
+- [ ] **Warning — correctness.cross_note_conflict:** The first paragraph says the river runs “south through the [[Great Chasm]]”, whereas [[Great Chasm]] places the entrance west of its channel and the river’s exit at the east end. Resolve the direction against the map; the supported minimal candidate is “east through the [[Great Chasm]] before continuing to the [[Western Gulf]] north of [[Embry]]”. This leaves the larger downstream course unspecified.
+%%^End%%

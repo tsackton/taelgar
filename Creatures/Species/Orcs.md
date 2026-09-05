@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/wip]
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [creature, status/wip, status/check/lint, status/check/ai]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Orcs
 
@@ -35,5 +38,35 @@ The most famous of these orcs are the [[People of the Rainbow]], living in the d
 
 Free orcs live in the constant shadow of [[Thark]]'s hunters. [[Thark]] watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [[Thark]]'s orcs than those who have broken free: any tribe that tries to turn from [[Thark]]'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [[Thark]]'s probing eyes. 
 
-%%SECRET[v2:246bfcf32c28fb87a7ffe16c5961e34d]%%
+%%SECRET[v2:91bea42275a3217d29741081b3b334b6]%%
 
+%%^Metadata:names:v1%%
+- {name: Orcs, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the species description, Thark's curse, and the existence of free orcs form a current-era overview without a narrower dated snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized the order of the DM metadata fields.
+- Added a minimal name entry and broadly modern temporal metadata.
+
+### Validated judgments
+- Orcs is an ordinary species name; no pronunciation guide is needed, and its name-language origin is not established.
+- `status/wip` is not assessable: the note provides a usable species overview, but the tag records an unfinished formatting intention that requires its author's judgment. Preserved unchanged.
+- Reviewed the local DM evidence, both SECRET blocks, and the shared editorial comment; preserved their privacy and provisional status and retained the human DM attestations.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.objective_copyediting:** Three small errors remain in the public prose. In the opening paragraph, replace “Although most orcs live in small groups, but when a leader blessed by [[Thark]] arises” with “Although most orcs live in small groups, when a leader blessed by [[Thark]] arises” to remove the doubled conjunction. In “Imposing and Violent,” replace “breathren” with “brethren.” In “Families and Hordes,” replace “a group of orcs often extend no further” with “a group of orcs often extends no further” for subject–verb agreement. These preserve the existing claims and can be applied as one bounded copyedit.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Archive Mysteries]]
+- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 70 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 71 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes]]
+%%^End%%

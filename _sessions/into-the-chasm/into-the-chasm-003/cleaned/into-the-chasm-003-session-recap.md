@@ -10,7 +10,7 @@
 - Scope: session
 - Session Number: 3
 - DR Date: 1730-01-25 to 1730-01-26
-- Real Date: 2026-01-08
+- Real Date: 2025-12-16
 - DM: Mike Sackton
 - PCs: Finnan, Jrain, Eolo, Ekko, Justas
 
@@ -80,7 +80,7 @@ Ekko and Finnan scout the village with shapeshifting and magic, learning the Ice
 The party lands in the black-stone chamber and fights the shaggy white beast, defeating it and the living snow echoes that shield it.
 
 #### Long
-Our session begins as the party slides into a chamber, its walls made of black stone, the place Kalima has dreaded, the home of Zefya's beast. The creature, a shaggy white monstrosity, rears large and turns to fight, calling up living snow echoes of the party to defend itself. The living snow punishes the party, drawing attacks and forcing the Chasm Explorers to probe for weaknesses while protecting Kalima, keeping her out of sight. Ekko's summons a pack of spirit animals to aid him, Justas summons spiritual protectors, and Finnan summons a fey spirit, all of which leap into battle. With Rala and Jrain's attacks, and Eolo's psionic strikes, this is enough to turn the tides, once the party realizes that the snow echoes are vulnerable to each other's attacks. When the final echoes fall, the exposed beast dies under Eolo's psionic volley and the chamber shifts around the group. 
+Our session begins as the party slides into a chamber, its walls made of black stone, the place Kalima has dreaded, the home of Zeyfa's beast. The creature, a shaggy white monstrosity, rears large and turns to fight, calling up living snow echoes of the party to defend itself. The living snow punishes the party, drawing attacks and forcing the Chasm Explorers to probe for weaknesses while protecting Kalima, keeping her out of sight. Ekko summons a pack of spirit animals to aid him, Justas summons spiritual protectors, and Finnan summons a fey spirit, all of which leap into battle. With Rala and Jrain's attacks, and Eolo's psionic strikes, this is enough to turn the tides, once the party realizes that the snow echoes are vulnerable to each other's attacks. When the final echoes fall, the exposed beast dies under Eolo's psionic volley and the chamber shifts around the group.
 
 ### recap-002 | Through the Earthen Exit
 
@@ -99,9 +99,9 @@ Our session begins as the party slides into a chamber, its walls made of black s
 With the beast dead, the chamber opens into earth and the party follows Kalima toward Melusa, after Justas takes the beast's head as a trophy.
 
 #### Long
-As the beast dies, the unnatural chamber softens into earth and granite and exposes a way out of Zeyfa's Labyrinth. The party pauses long enough to for Justas to take the creature's head as a trophy, and to read the changed space for meaning before trusting Kalima's route forward.
+As the beast dies, the unnatural chamber softens into earth and granite and exposes a way out of Zeyfa's Labyrinth. The party pauses long enough for Justas to take the creature's head as a trophy, and to read the changed space for meaning before trusting Kalima's route forward.
 
-The earthen tunnel carries them out onto a cliffside, with view of Melusa above, the village Kalima has been trying to reach, as well as a floating ice palace. Finnan sends his trickster fey spirit toward the Ice Palace in search of Forquarion the Frostbinder, the rumored lord of the ice palace that rules and protects Melusa. 
+The earthen tunnel carries them out onto a cliffside, with a view of Melusa above, the village Kalima has been trying to reach, as well as a floating ice palace. Finnan sends his trickster fey spirit toward the Ice Palace in search of Forquarion the Frostbinder, the rumored lord of the Ice Palace, who rules and protects Melusa.
 
 ### recap-003 | Hidden in Melusa
 
@@ -141,9 +141,9 @@ Kalima leads them quickly past the strange gashes, to Nura, her sister, and Khal
 Safe for the moment out of sight, the party learns about Melusa from Kalima's family. 
 
 #### Long
-Safe for the moment out of sight, the party talks to Nura, Khaled, and Kalima. The conversation winds through the history and struggles of Melusa, which endures because what other choice is there. The fog cannot be crossed, and people do not leave the village, so all that is left is to endure what the place requires. The land itself seems stuck out of time: the sun rarely sets in Melusa, but when it does, it only rises again after a sacrifice is sent into the labyrinth. Even the souls of the dead seem stuck, somehow. The party also learns about the strangeness of Melusa: the villager's ancestors were brought here, rescued from a calamity, by Zefya, and now Zefya rules, and the Kestavo are nothing more than half-remembered tales. Justas' appearance, and Kestavan magic, shakes Nura, Khaled, and Kalima, forcing them to wonder about the ancient stories of the gods. 
+Safe for the moment out of sight, the party talks to Nura, Khaled, and Kalima. The conversation winds through the history and struggles of Melusa, which endures because what other choice is there. The fog cannot be crossed, and people do not leave the village, so all that is left is to endure what the place requires. The land itself seems stuck out of time: the sun rarely sets in Melusa, but when it does, it only rises again after a sacrifice is sent into the labyrinth. Even the souls of the dead seem stuck, somehow. The party also learns about the strangeness of Melusa: the villagers' ancestors were brought here, rescued from a calamity, by Zeyfa, and now Zeyfa rules, and the Kestavo are nothing more than half-remembered tales. Justas's appearance and Kestavan magic shake Nura, Khaled, and Kalima, forcing them to wonder about the ancient stories of the gods.
 
-The conservation winds down as a gong rings out across the village, signaling it is time to rest. 
+The conversation winds down as a gong rings out across the village, signaling it is time to rest.
 
 ### recap-005 | Portals and Night Watch
 
@@ -164,7 +164,7 @@ After the gong, Ekko and Finnan scout the village and palace, learning that sold
 #### Long
 After the village settles under the gong, Ekko slips out as a gray cat to scout the strange gashes. Each opens onto a different scene: one into the heart of a swirling maelstrom, with lightning crackling beyond it; one into a strange shimmering world of crisscrossing spikes and passageways of jagged metal, twisting, and continually moving; one into a vision of impossible colors, cycling blue and green light followed by colors that cannot be described; one into an endless burning wasteland filled with swirling, pouring ash; one into a distorted counterpart of Melusa’s ledge, with a similar stream and pond but no village, floating islands, or Ice Palace, only a ruined stone structure rising from the pond as though a tower had been sliced off.
 
-Finnan extends the search with Clairvoyance and sees a circular disk in the Ice Palace covered in dense Sylvan writing, illuminated by a pale light. Below it, soldiers prepare to hunt the fey trickster spirit Finnan had sent to investigate the palace. Our session ends as the party hides and tries to rest for the evening. 
+Finnan extends the search with Clairvoyance and sees a circular disk in the Ice Palace covered in dense Sylvan writing, illuminated by a pale light. Below it, soldiers prepare to hunt the fey trickster spirit Finnan sent earlier to investigate the palace. Our session ends as the party hides and tries to rest for the evening.
 
 ## Cast
 
@@ -188,7 +188,7 @@ Finnan extends the search with Clairvoyance and sees a circular disk in the Ice 
 
 - Zeyfa's Labyrinth
   - Summary: Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward Melusa.
-  - Sublocations: Black-stone lair of Zefya's beast.
+  - Sublocations: Black-stone lair of Zeyfa's beast.
   - Date Visited: 1730-01-25
 - Melusa
   - Summary: Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace.
@@ -208,11 +208,11 @@ Finnan extends the search with Clairvoyance and sees a circular disk in the Ice 
 
 ## Combat
 
-### recap-001 | Zefya's Beast and the Living Snow Echoes
+### recap-001 | Zeyfa's Beast and the Living Snow Echoes
 
 - Beat IDs: beat-001, beat-002, beat-003, beat-004
 - Enemies: Shaggy white beast, Living Snow echoes
-- Context / Outcome: The party faces the shaggy white beast, Zeftya's monster feared by Kalima, who is using living snow echoes of the party to protect itself.  The Chasm Explorers keep Kalima hidden, break the Living Snow echoes, and kill the beast. 
+- Context / Outcome: The party faces the shaggy white beast, Zeyfa's monster feared by Kalima, who is using living snow echoes of the party to protect itself.  The Chasm Explorers keep Kalima hidden, break the Living Snow echoes, and kill the beast.
 
 
 ## Source Files

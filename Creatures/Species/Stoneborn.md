@@ -1,9 +1,12 @@
 ---
-tags: [creature, status/wip]
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [creature, status/wip, status/check/lint]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 dm_owner: joint
 dm_notes: important
+POV: modern
 ---
 # Stoneborn
 
@@ -70,3 +73,91 @@ Like [[Dwarves|dwarves]] Stoneborn ascribe meaning to their use names as therefo
 Outsiders typically refer to Stoneborn as either Stoneborn or Goliaths, referring to their large size. Stoneborn themselves sometimes adopt these terms when out in the world, but in their own society typically refer to themselves as Namatye, the people of the mountain. 
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Stoneborn, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; describes Stoneborn physiology and customary mountain-community life in the current campaign era, without a narrower dated snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added a minimal primary name entry and broadly modern temporal metadata.
+
+### Validated judgments
+- Stoneborn is an obvious English compound and needs no pronunciation guide; the in-world language of this displayed name is not established.
+- The positive `dm_notes: important` attestation has confirmed local-source support; the attestation is preserved.
+- `status/wip` is not assessable as a completion decision: the authored comment calls for a change of format, whose intended endpoint is not specified. The tag is preserved.
+- The comment headed “not canonical yet” explicitly preserves an unsettled naming idea and remains noncanonical.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The “Mountain folk” section gives a usual weight of 400–500 pounds, while [[Playing a Stoneborn#Basic Traits|Playing a Stoneborn]] gives 280–450 pounds. The “Stoneborn Names” section says all Stoneborn have a clan name and most take a use name, while [[Playing a Stoneborn#Stoneborn Names|the character-creation account]] makes community and use names optional and describes a single given name as typical. That source retains `status/check/mike`, so neither account is silently preferred. Reconcile both notes. If the character-creation account is adopted, replace “weighing between 400 and 500 pounds” with “weighing between 280 and 450 pounds” and use this bounded opening for the names section: `Stoneborn typically have a single given name. Some also use the name of their community, especially when traveling outside their homeland, and some take a use name reflecting their skill or training. Names are not gendered in Stoneborn society.` Preserve or explicitly decide the remaining clan-change and apprenticeship-lineage customs rather than erasing them incidentally.
+- [ ] **Warning — coverage.established_fact_missing:** “No kings or queens rule over the Stoneborn, and no leaders hold sway” reads as universal, but the public account in [[Kaldhalla]] establishes that King Brimskarda's giants dominate northern Svinjo communities where many stoneborn exchange labor for protection. Qualify the customary model and acknowledge the established exception. Candidate replacement for that sentence: `Independent Stoneborn communities have no kings or queens. In the northern [[Svinjo Mountains]], however, many stoneborn live under the dominance of [[Kaldhalla]], exchanging labor for the protection of its frost giant steadings.` This preserves the consensus-based cultural account without denying external rule over some communities.
+- [ ] **Suggestion — editorial.repeated_word:** The “Strange and Foreign” callout repeats a word in “swamps, forests, and and green living things”. Replace with `swamps, forests, and green living things`.
+- [ ] **Suggestion — editorial.prose_correctness:** Correct the bounded prose defects without changing the surrounding voice: “Stoneborn are considered an adult” → `Stoneborn are considered adults`; “these indviduals” → `these individuals`; “Stoneborn ascribe meaning to their use names as therefore often introduce themselves” → `Stoneborn ascribe meaning to their use names and therefore often introduce themselves`.
+
+### DM evidence
+- [[_DM_/Secret Worldbuilding/Dunmar Notes]]
+- [[_DM_/Secret Worldbuilding/History of Dunmar]]
+- [[_DM_/Secret Worldbuilding/Mulitverse]]
+- [[_DM_/Timelines/NPC Travels]]
+- [[_DM_/Timelines/Old Timeline (Table)]]
+- [[_DM_/Timelines/Uncategorized Events]]
+- [[_DM_/Timelines/Unified Timeline From OneNote]]
+- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Candrosa (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Cintra (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chalice of the Runepriest (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 28/Session 28]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Background - Delwath Solo Arc]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Hagrim of Morkalan]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Main Quest - Riswynn Solo]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Riswynn Solo Arc]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/The Domain of Morkalan/Lost Camps]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/The Domain of Morkalan/The Domain of Morkalan]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Timelines - Solo Arcs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wave Dancer's Information]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 35]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 37]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Arc Notes]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Area Map/Tokra Area Map]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Tokra (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Faction Action]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Timeline - Dunmari Old]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Drikod (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Final Arc Planning - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Pre-Session-63/Chardonian Treasure Hunters]]
+- [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Ra'ghemdros Hoard]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 116 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Aurbez NPC Charts]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Notes - Session 129]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 129 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 130 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 132 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 133 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 134 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Session 65 - DM notes]]
+- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 70 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Brainstorming - Scepter Arc]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/North Coast Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Northern Green Sea - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 85 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 92 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 93 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Adventure Arc Outline]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Peninsula NPC Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 99 - DM Notes]]
+%%^End%%

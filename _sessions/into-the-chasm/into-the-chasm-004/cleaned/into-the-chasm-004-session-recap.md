@@ -97,7 +97,7 @@ Our session begins at night, as the party hides and rests. During the night, Jra
 #### Short
 In the morning, the infant Samir speaks with Taquin's memories. Nura explains the wrong-soul curse of Melusa, and after some discussion, the party decides to speak with Zahara's circle of rebels. 
 #### Long
-Morning brings no simple explanation for Kalima's flight. Samir, still only a baby, answers with memories of falling toward the labyrinth and seeing Zahara above him, then identifies himself as Taquin. Nura describes Melusa's wrong-soul curse and the brief lives expected for such children. The party discusses what to do next, and decides that, rather than rely on the village elders, they should talk Zahara's troublemakers, likely a better path to answers.
+Morning brings no simple explanation for Kalima's flight. Samir, still only a baby, answers with memories of falling toward the labyrinth and seeing Zahara above him, then identifies himself as Taquin. Nura describes Melusa's wrong-soul curse and the brief lives expected for such children. The party discusses what to do next, and decides that, rather than rely on the village elders, they should talk to Zahara's troublemakers, likely a better path to answers.
 
 ### recap-003 | Troublemakers of Melusa
 
@@ -116,7 +116,7 @@ Morning brings no simple explanation for Kalima's flight. Samir, still only a ba
 Leaving Nura and Khaled's house, the Chasm Explorers cross Melusa to find Iskander, a contact of Zahara's. He describes the gashes, speaks of repeated failed escapes, and tells the party about Zahara's refuge. 
 
 #### Long
-Leaving Nura and Khaled's house, the Chasm Explorers walk through Melusa to find Iskander, a contact of Zahara's. Once he is convinced they are serious, he tells the party more about the five gashes in the cliff. They appeared a few months ago, but the one apparently safe exit is held by Malquin's forces and guarded by a forty-foot ice wolf. A few have tried to escape, and failed, but most of the villagers are too frightened or resigned to act. He also explains more about Zaraha's rebels. There are only a handful of them, he says, and they often withdraw to a hidden refuge on one of the floating islands when the village feels unsafe. 
+Leaving Nura and Khaled's house, the Chasm Explorers walk through Melusa to find Iskander, a contact of Zahara's. Once he is convinced they are serious, he tells the party more about the five gashes in the cliff. They appeared a few months ago, but the one apparently safe exit is held by Malquin's forces and guarded by a forty-foot ice wolf. A few have tried to escape, and failed, but most of the villagers are too frightened or resigned to act. He also explains more about Zahara's rebels. There are only a handful of them, he says, and they often withdraw to a hidden refuge on one of the floating islands when the village feels unsafe.
 
 ### recap-004 | Confronting Malquin
 
@@ -173,7 +173,7 @@ Inside the Ice Palace, the party comes face to face with Malquin. The audience i
 Stepping through the mirror-world gash with Malquin's permission, they find themselves in the Great Chasm again. Eidrikas is here, trapped in a failing strange mechanical stone platform, and tells Ekko that orcs attacked, killed Pakrinek, and fled downward with a crucial piece of the Chasm machinery. 
 
 #### Long
-Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true Great Chasm. Below them, the party sees strange carved floating platforms in the Chasm, flicking with unstable light. Eolo and Ekko help the others reach the stones, where they see a person below. Clairvoyance reveals this is Eidrikas, alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells the Ekko that orcs overran the site, killed Pakrinek, and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in Melusa, leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences. 
+Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true Great Chasm. Below them, the party sees strange carved floating platforms in the Chasm, flickering with unstable light. Eolo and Ekko help the others reach the stones, where they see a person below. Clairvoyance reveals this is Eidrikas, alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells Ekko that orcs overran the site, killed Pakrinek, and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in Melusa, leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences.
 
 ## Cast
 

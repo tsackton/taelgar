@@ -1,10 +1,17 @@
 ---
-tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm]
+headerVersion: 2023.11.25
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm, status/check/lint]
+typeOf: religion
+name: Kestavo
+pronunciation: kes-TA-voh
 dm_owner: joint
 dm_notes: important
+POV: modern
 ---
-
-# The *kestavo*
+# Kestavo
+*(kes-TA-voh)*
 
 %% tagging check/mike and status/gameupdate/chasm instead of errors, but feel free to add errors if needed: needs a pass to determine what is canon, what is brainstorming, what is obsolete %%
 
@@ -170,6 +177,32 @@ One idea would be to actually have the traditional Kestavo religion not actually
 Alternatively, with a bit of tweaking the wind and the earth could be Ahra and Malik. The small gods carry messages to the wind, basically. Would need to play around a bit but I think there is potential here.
  %%
 
+%%^Metadata:names:v1%%
+- {name: Kestavo, language: unknown, pronunciation: kes-TA-voh, status: documented}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern religious practice, with selected ancient background; hidden discussions include unresolved and potentially obsolete alternatives.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added supported name and temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- The four confirmed local DM clusters support the positive dm_notes attestation. `status/gameupdate/chasm`: not assessable without the intended human update scope; preserve it. The consulted sessions establish local experiences and beliefs, not a broad change to all Kestavan practice.
+
+### Open findings
+
+- [ ] **Warning — lore.internal_name_conflict:** The visible paragraph introducing [[Zeyfa]] and [[Vaqar]] switches to "children of Ziva" and "children of Vacla"; Traditionalist Practice also uses "children of Ziva". [[Zeyfa]] and [[Vaqar]] describe the corresponding spirits under the current names. Confirm the intended referents, then use `children of Zeyfa` and `children of Vaqar` consistently in these visible passages; retain older forms in historical brainstorming unless separately reviewed.
+- [ ] **Warning — lore.internal_theology_conflict:** The first Besla bullet says she asks "Ahra" for rain, while the later Besla passage says Ako. [[Besla]] and [[Divine Presence]] likewise use Ako for the Kestavo tradition. Candidate for the first bullet: replace `asks Ahra` with `asks [[Divine Presence|Ako]]`; confirm before changing theological wording.
+- [ ] **Suggestion — editorial.visible_reminder:** The first Kamak bullet includes the editorial instruction `(change name)` in visible prose, while [[Kamak]] and [[Lake Kamchak]] use the existing lake name. Resolve whether the name remains provisional; at minimum move that reminder into an ordinary comment below the header or remove it if obsolete, preserving the intended naming uncertainty.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Lakan Monastery/Notes from Kassi]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Delwath (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Northern Green Sea - DM Notes]]
+%%^End%%
