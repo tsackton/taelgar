@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Nidzahar
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: realm
 ancestry: dwarven
-whereabouts: 
-- {type: primary, location: Labkhan }
-- {type: secondary, location: Central Highlands }
+name: Nidzahar
 pronunciation: NID-zah-har
+whereabouts:
+  - {type: primary, location: Labkhan}
+  - {type: secondary, location: Central Highlands}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Nidzahar
 *(NID-zah-har)*
@@ -36,3 +39,25 @@ One general comment. Since your game is set around 1650, a dwarf who is 200 year
   A minor additional comment - I think telescope would be known fairly widely in Nidzahar. Still of course totally reasonable to be seeking a master crafter in Clenseau known for particularly good ones, but I think it would be a little strange for a dwarf from Nidzahar, especially one fascinated by the moon, not to be familiar with telescopes.
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Nidzahar, language: Dwarvish, pronunciation: NID-zah-har, meaning: east-land, notes: "The visible article gives this as a loose translation.", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and post-Great War economic position, with selected earlier history.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported name and temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- [[Dwarven Kingdoms]] corroborates the realm's modern technological and economic role; the article is sufficient as a concise realm overview.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The final comment contains a developed statement that telescopes are widely known in Nidzahar, alongside repeated postwar economic background and distinct notes on Izgil's chronology. Consider adding `Telescopes are widely known in Nidzahar.` to Culture and Economy. If adopted, trim the comment's repeated economic summary while retaining its distinct character-background and chronology guidance. This would give a concrete example of the realm's technical craft tradition without promoting the surrounding possibilities.
+%%^End%%

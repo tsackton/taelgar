@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Breva
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: realm
+name: Breva
 whereabouts: Zimkova
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Breva
 >[!info]+ Information  
@@ -27,5 +30,29 @@ But nothing made up is canonical or has come up in game so there is a lot of roo
 
 %%
 
+%%^Metadata:names:v1%%
+- {name: Breva, language: unknown, pronunciation: BREH-vah, notes: "Proposal informed by the Zimkovan Baltic analogue in Languages: pronounce consonants directly, e as eh and a as ah; prefer initial stress as in Latvian, while Lithuanian stress is not fixed. The name language and stress are not independently established.", status: proposed}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern identification as a highland kingdom; the hidden political possibilities are unresolved development material.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported name and temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- The comment expressly preserves unadopted political alternatives; [[Anne]] also warns that its Brevan succession ideas predate later invention and may be obsolete.
+
+### Editorial assessment
+**Underdeveloped** — The kingdom lacks a usable visible geographical and cultural identity beyond its generic type. A short, source-checked account of its position and distinguishing culture is the smallest useful repair.
+
+- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The visible article identifies only "A highlander kingdom." [[Zimkova]] describes the realm between the Teft and Volta, occupying the populated part of the Breva Forest, with a blended culture and continued kestavo worship. This is the central geographical and cultural account the realm note lacks. That source is itself marked for review, so confirm its details before adopting: `Breva is a highland kingdom of [[Zimkova]], between the [[Teft]] and [[Volta]]. Much of the realm lies within the populated part of the Breva Forest, where worship of the [[Kestavo]] remains prominent.` Keep the target's expressly provisional political notes unadopted.
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed `BREH-vah` pronunciation in the name block. It uses the Zimkovan Baltic analogue in [[Languages]]: direct b/r/v consonants, e as eh, a as ah, and initial stress as in Latvian; Lithuanian stress is variable. The source language of the specific name is not established, so `language: unknown` is retained and the proposal remains uncertain. Accept a pronunciation into frontmatter or supply the intended form.
+%%^End%%

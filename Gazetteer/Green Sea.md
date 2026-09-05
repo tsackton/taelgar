@@ -1,18 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/text
-campaignInfo:
-name: Green Sea
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [place, status/cleanup/text, status/check/lint]
 typeOf: marine feature
-whereabouts:
-  - type: home
-    location: Taelgar
-    linkText: in
-dm_notes: important
-dm_owner: joint
 typeOfAlias: sea
+campaignInfo: null
+name: Green Sea
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
+dm_owner: joint
+dm_notes: important
+POV: modern
 ---
 # The Green Sea
 >[!info]+ Information
@@ -47,4 +46,57 @@ The Green Sea stretches from the far east to the middle of the continent. To the
 
 %%
 
+%%^Metadata:names:v1%%
+- {name: Green Sea, language: unknown, notes: "Named for the greenish tint produced by abundant phytoplankton in the Western Green Sea, as described in this note.", status: documented}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography, climate, and seasonal sailing conditions; no narrower current-era viewpoint is required.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting without changing existing values.
+- Added the primary name entry, preserving the note's explanation of the sea's name; pronunciation is unnecessary for this plain-English name.
+- Added `POV: modern` and the persistent temporal-coverage note for the current-era geographic overview.
+
+### Validated judgments
+- `status/cleanup/text`: supported by the retained source-integration reminder and the extensive unintegrated geography and climate comment; preserved for human disposition.
+- The geography and seasonal sailing overview performs the note's current reference role. Regional accounts in [[Western Green Sea]], [[Eastern Green Sea]], [[Northern Green Sea]], [[Western Gulf]], [[Cymean Peninsula]], [[Skaerhem]], and [[Irrla]] support its principal geographic relationships.
+- The positive `dm_notes` attestation is supported by confirmed local source matches. No private source contents were incorporated into shared prose.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The final sentence under “Notes from GDrive” in the ordinary climate comment gives a developed account of settlement distribution, beginning “While the west is densely settled, in the east, along both coasts, most people live close to the ocean”. This remains unadopted shared source material, but a short public paragraph would explain how the climatic contrasts affect habitation. Decide whether to adopt this bounded candidate: “The western Green Sea is densely settled. In the east, most people live along the coasts, with cold and snow limiting inland settlement in the north and desert encroaching in the south.” If adopted, remove only that source sentence from the comment; retain the remaining climatic explanations and source notes for separate review. Do not promote the older Irrla climate analogy with this change: [[Irrla]] describes damp coastal winters with little snow, whereas the comment describes winter snow on the northwestern side.
+
+### DM evidence
+- [[_DM_/Brainstorming/Campaigns Overview]]
+- [[_DM_/Secret Worldbuilding/Dunmar Notes]]
+- [[_DM_/Secret Worldbuilding/History of Dunmar]]
+- [[_DM_/Secret Worldbuilding/Language and Culture From OneNote]]
+- [[_DM_/_Campaign 3/Campaign 3 - Early Brainstorming - Overview]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 49]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 43]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 27]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Kenzo Solo Arc/Kingdom of Orekatu]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Notes - Solo Arcs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Prequel - Wellby]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Session 1 - Wellby]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wave Dancer's Information]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wellby Solo Arc]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Misc Ideas]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Solo Quests]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Calendar Eras - DuFr Player Background]]
+- [[_DM_/_Dunmari Frontier/NPCs/Bernie Tidewater]]
+- [[_DM_/_Dunmari Frontier/Session 66-68 (Phasing Stone)/Session 66 - DM notes]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Vetta/Vetta DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Orenlas - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 96 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 97 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 100 - DM Notes]]
+%%^End%%

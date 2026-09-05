@@ -106,7 +106,7 @@ With the fissure exuding snow and gusts of heat, the party plans a more delibera
 #### Short
 Wandering the labyrinth, the party finds a frozen corpse. Speak with Dead reveals clues about Kalima's people and the maze itself. 
 #### Long
-The storm pauses as the party reaches a small, frozen side chamber, where a human corpse hangs pinned to the wall by ice. Finnan speaks to him with magic. The dead man answers with fragments of a life in Melusa, his and Kalima's home. He tells of a cliffside village from whence he came; the sunrise sacrifice that forced him into the maze; the wind that killed him and left his soul lost. Finnan's ancestral memories hint at a connection between Melusa, and the old kestavo called Melua, associated with a waterfall on the Teft long, long ago.
+The storm pauses as the party reaches a small, frozen side chamber, where a human corpse hangs pinned to the wall by ice. Finnan speaks to him with magic. The dead man answers with fragments of a life in Melusa, his and Kalima's home. He tells of his cliffside village, of being chosen at sunrise as a sacrifice, and of the wind that killed him and left his soul lost. Finnan's ancestral memories hint at a connection between Melusa, and the old kestavo called Melua, associated with a waterfall on the Teft long, long ago.
 
 ### recap-005 | The Looping White Maze
 

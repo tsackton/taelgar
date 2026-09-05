@@ -1,29 +1,41 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/mike]
-name: Eidrikas
+species: human
 gender: male
+name: Eidrikas
+pronunciation: AYD-ree-kahs
 affiliations:
   - {org: Vejo Vaikai, title: mystic}
 whereabouts:
-  - {type: away, start: 1730-01-08, location: Great Chasm}
+ - {type: home, Zimkova}
+ - {type: away, start: 1730-01-08, end: 1730-02-01, location: Great Chasm}
+knownTo: [itc]
 dm_owner: none
 dm_notes: none
-pronunciation: AYD-ree-kahs
+POV: 1730
 ---
 # Eidrikas
 *(AYD-ree-kahs)*
 >[!info]+ Biographical Info  
-> (he/him)  
+> A [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% AI generated: review metadata for accuracy and review text for polish%%
+Eidrikas is a mystic of the [[Vejo Vaikai]], and [[Ekko]] mentor. 
 
-Eidrikas is a mystic of the [[Vejo Vaikai]] and the mentor of [[Ekko]]. In January 1730, he led a group of Vejo Vaikai mystics into the [[Great Chasm]] to investigate strange happenings there, under the protection of warriors from [[Kemeko Monastery]].
+%%^Date:1730%%
+In January 1730, he led a group of Vejo Vaikai mystics into the [[Great Chasm]] to investigate strange happenings there, under the protection of warriors from [[Kemeko Monastery]]. The group lost contact with the surface, and were feared dead. 
 
-Eidrikas did not return from the expedition before the events that drew the party into [[Zeyfa's Labyrinth]]. His disappearance is one of the reasons Ekko and [[Jrain Fanlish]] were drawn into the chasm.
+When the [[Chasm Explorers]] found him later that month, Eidrikas was alive but holding a damaged runic mechanism together with his own body. After they recovered its stolen keystone, he repaired the mechanism and helped carry refugees from [[Melusa]] out of the chasm, taking the form of a giant swan.
+%%^End%%
 
-%%
-AI note: This note was expanded from Into the Chasm session 1 information only. The session establishes Eidrikas as missing at that point, but does not establish his species or final fate. Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
-%%
+%%^Metadata:names:v1%%
+- {name: Eidrikas, language: Zimkovan, pronunciation: AYD-ree-kahs, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1730 account of the January expedition, survival, and rescue work; earlier life and subsequent whereabouts are not established here.
+%%^End%%

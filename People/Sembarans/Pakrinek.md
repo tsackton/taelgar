@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
-name: Pakrinek
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/ai]
 species: kenku
+died: 1730
+name: Pakrinek
+pronunciation: PACK-ree-neck
 affiliations:
   - {org: Kemeko Monastery, title: warrior}
 whereabouts:
   - {type: away, start: 1730-01-08, location: Great Chasm}
+knownTo: [itc]
 dm_owner: none
 dm_notes: none
-pronunciation: PACK-ree-neck
+POV: 1730
 ---
 # Pakrinek
 *(PACK-ree-neck)*
@@ -20,10 +25,18 @@ pronunciation: PACK-ree-neck
 
 %% AI generated: review metadata for accuracy and review text for polish%%
 
-Pakrinek is a kenku warrior of [[Kemeko Monastery]]. In January 1730, Pakrinek accompanied the [[Vejo Vaikai]] expedition led by [[Eidrikas]] into the [[Great Chasm]] as one of the warriors assigned to protect the mystics.
+Pakrinek was a kenku warrior of [[Kemeko Monastery]]. In January 1730, Pakrinek accompanied the [[Vejo Vaikai]] expedition led by [[Eidrikas]] into the [[Great Chasm]] as one of the warriors assigned to protect the mystics.
 
-Pakrinek had not returned from the expedition before the party was drawn into [[Zeyfa's Labyrinth]]. [[Jrain Fanlish]] named Pakrinek among the lost investigators tied to the chasm.
+Pakrinek was killed by orcs at a runic mechanism in the chasm, according to [[Eidrikas|Eidrikas's]] account to the [[Chasm Explorers]] later that month.
 
 %%
-AI note: This note was expanded from Into the Chasm session 1 information only. The session establishes Pakrinek as missing at that point, but does not establish gender, age, or final fate. Sources: [[Into the Chasm - Episode 01]], [[Into the Chasm Intros]], [[into-the-chasm-001-session-recap]].
+AI note: [[Into the Chasm - Episode 01]] establishes the expedition; [[Into the Chasm - Episode 04]] records Eidrikas reporting Pakrinek's death. Gender and age are not established by these sources.
 %%
+
+%%^Metadata:names:v1%%
+- {name: Pakrinek, language: unknown, pronunciation: PACK-ree-neck, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1730 account of the January expedition and reported death; no earlier biography is established here.
+%%^End%%

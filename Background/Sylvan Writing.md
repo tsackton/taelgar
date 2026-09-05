@@ -1,7 +1,11 @@
 ---
-tags: [background]
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Sylvan Writing
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 
 The Sylvan system of writing is a complex and magical script that is primarily characterized by its artistry and magic. It is logo-syllabic, and often written non-linearly, for example with the most important concepts in the center of a work and other concepts radiating outward or spiraling from the central concepts. It is also magical: all Sylvan writing depends on magical [determinatives](https://en.wikipedia.org/wiki/Determinative) to distinguish meaning. These determinatives are not visually indicated, but are a magical layer that provides a sense of feeling or emotion to the reader.  These emotional determinatives, if written by a powerful enough fey, can even cause a change in emotions or thoughts to the reader (although the words must be read and understood for this to occur, a mere glance, nor an uneducated one, is never sufficient).
@@ -20,3 +24,25 @@ Additionally, although this might not be well known, the fey have developed a wa
  a) a non-magical and simplified version of the fey writing (Elvish) which just represents phonemes/syllables like normal writing systems 
  b) fey learning to use their writing tricks on other languages
 %%
+
+%%^Metadata:names:v1%%
+- {name: Sylvan Writing, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description of Sylvan writing, with undated historical development of its nonmagical orthographies.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit display name, a minimal name block, and broadly modern temporal metadata.
+
+### Validated judgments
+- The visible magical-script and Elvish-orthography account agrees with [[Languages#Sylvan]]. No local DM evidence was found.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The ordinary comment beginning “Fey writing originated in mythic days” contains a coherent extension of the visible account: emotional enchantments can be applied to other languages. Consider adopting only this public-safe candidate: “Fey can also imbue writing in other languages with emotional enchantments. In Sylvan, these enchantments are necessary to distinguish meanings that the visible glyphs leave ambiguous.” This clarifies what is unique to Sylvan while preserving the existing requirement that writing must be read and understood to affect a reader. This proposal comes from a noncanonical shared comment, not independent established lore; keep its separate origin and Elvish-development notes hidden pending a decision.
+%%^End%%

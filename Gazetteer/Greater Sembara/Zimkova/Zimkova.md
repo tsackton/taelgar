@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/mike
-name: Zimkova
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/mike, status/check/lint]
 typeOf: region
-aliases:
-  - Highland Kingdoms
+name: Zimkova
+aliases: [Highland Kingdoms]
 whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Zimkova
 >[!info]+ Information  
@@ -87,6 +87,27 @@ Red 5: The Vostok high plateau. Unclear what is here.
 
 %%
 
+%%^Metadata:names:v1%%
+- {name: Zimkova, language: unknown, pronunciation: "ZIM-koh-vah", notes: "Proposed using the Latvian branch of the regional Zimkovan analogue in Languages: initial stress, short i, hard k, and full o and a vowels. Lithuanian stress can differ; exact in-world pronunciation and name language are not established.", status: proposed}
+- {name: Highland Kingdoms, role: alias, language: unknown}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography and cultures, with uncertain migration traditions preserved as legends.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added proposed name metadata and modern temporal coverage; normalized frontmatter.
+
+### Validated judgments
+- Despite the incomplete outline, the remaining geography and cultural sections perform the regional reference role. The Lavnoch disagreement remains a human decision, not an automatic replacement from a lower-confidence source.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** `ZIM-koh-vah` is proposed from the Latvian branch of the Zimkovan analogue in [[Languages]], using initial stress, short i, hard k, and full o/a vowels. Lithuanian could give different stress, and the name’s precise language is not established. Accept with `pronunciation: ZIM-koh-vah` and `status: documented`, or revise.
+- [ ] **Suggestion — editorial.prose_clarity:** Geography and Climate announces “four main regions” but lists only two, ending the second with “a mix of dense pine forests and”. Preserve the stated details with this bounded replacement for the introduction and its two bullets: “Zimkova is a broad region of highland plateaus, dense forest, and boreal wetlands stretching across the northern part of [[Greater Sembara]]. The upper [[Volta]] is a great depression between 800 and 1,200 feet, with scattered pine forests, peat bogs, and kettle lakes; the river rises from many small tributaries. The Breva Forest is a hilly, forested highland between 1,800 and 3,000 feet, with dense pine forests.” Alternatively finish the four-region scheme from an adopted map. The later heading sentence says “two mountain spurs” but lists three; change it to “Three watersheds and three mountain spurs divide Zimkova:” if the three listed spurs are intended.
+- [ ] **Warning — correctness.cross_note_conflict:** People and Culture calls [[Lavnoch Plateau]] one of the “realms” under Sembaran overlordship. [[Lavnoch Plateau]] now describes scattered clans and explicitly says it was refactored away from an earlier distinct kingdom; that note remains under review. Resolve the political characterization before retaining the realm claim. A conservative candidate is “This land has seen much intermixing with Sembara and includes [[Ardlas]] and the [[Lavnoch Plateau]].” Retain a historical overlordship claim only for the places and dates supported after review.
+%%^End%%

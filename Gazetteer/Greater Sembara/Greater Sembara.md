@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-09-05T16:06:33-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
+tags: [place, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Greater Sembara
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Greater Sembara
 >[!info]+ Information  
@@ -121,3 +126,25 @@ _See also: [[List of Places in Greater Sembara]]_
 *Important Places in Staging:* The following places could use canonical names: [[Vostok Plateau]], [[Lake Pekul]], [[~Skaer Shores~]], [[Draukar Hills]], [[Pekul Mountains]], [[South Vostok Hills]], [[Gulf of Tollen]]
 %%^End%%
 
+%%^Metadata:names:v1%%
+- {name: Greater Sembara, language: unknown, pronunciation: "GRAY-ter sem-BAH-rah", notes: "Proposed from the English component Greater and the northern English branch of the Sembaran analogue in Languages; three syllables in Sembara with penultimate stress are a cautious adaptation, not adopted phonology.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography and cultures, with a brief account of settlement before the Downfall.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the display name, proposed name pronunciation, and modern temporal metadata; normalized frontmatter.
+
+### Validated judgments
+- The note supplies a substantial geographic and cultural overview. Its unfinished historical-era outline is peripheral to that role; the linked [[Humanity in Greater Sembara]] and [[Timeline of Sembaran History]] provide dedicated historical routes.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `GRAY-ter sem-BAH-rah`, using ordinary English for Greater and the northern English branch of the Sembaran analogue in [[Languages]]: hard g, clear m/b consonants, three syllables in Sembara, and cautiously chosen penultimate stress. The southern French analogue would suggest different stress; exact in-world pronunciation is not established. Accept by adding `pronunciation: GRAY-ter sem-BAH-rah` to frontmatter and setting the name entry to `status: documented`, or revise the proposal.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Both private blocks use `%%^Campaign:None%%` (after Climate and before DM Notes and Meta). The canonical marker is `%%^Campaign:none%%`. Replace these two markers after checking filtered visibility; their contents and boundaries should remain unchanged.
+%%^End%%
