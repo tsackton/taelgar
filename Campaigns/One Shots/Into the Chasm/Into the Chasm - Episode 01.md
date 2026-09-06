@@ -38,16 +38,16 @@ Drawn by omens around the [[Great Chasm]], five adventurers and a terrified Zimk
 
 ## Cast of Characters
 
-- [[Kalima]] (she/her, the Zimka human): a terrified Zimkovan survivor and the party's only clear guide to the maze.
-- [[Rala]] (she/her, hawk beast): Jrain's bird companion, battered by the fall and sent to scout the snow chamber.
-- [[Zeyfa]] (*ZAY-fah*;): cruel west wind and ruling power named over the labyrinth.
-- [[Eidrikas]] (*AYD-ree-kahs*; he/him): missing mystic and Ekko's mentor tied to the vanished expedition.
+- [[Kalima]] (*kah-LEE-mah*; she/her, the Zimka human): a terrified Zimkovan survivor and the party's only clear guide to the maze.
+- [[Rala]] (*RAH-lah*; she/her, hawk beast): Jrain's bird companion, battered by the fall and sent to scout the snow chamber.
+- [[Zeyfa]] (*ZAY-fah*; spirit): cruel west wind and ruling power named over the labyrinth.
+- [[Eidrikas]] (*AYD-ree-kahs*; he/him, human): missing mystic and Ekko's mentor tied to the vanished expedition.
 - [[Pakrinek]] (*PACK-ree-neck*; kenku): missing Kemeko companion named among the lost investigators.
 
 ## Places
 
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): vast chasm where the worsening omens culminate in the storm that sweeps the party away.
-- [[Zeyfa's Labyrinth]] (labyrinth in the [[Great Chasm]], [[Zimkova]]): hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall. Session context includes: floating ice platform suspended in darkness and with bridges leading deeper into a maze.
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zefya's Realm]]): hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall. Session context includes: floating ice platform suspended in darkness and with bridges leading deeper into a maze..
 
 ## Narrative
 
@@ -65,4 +65,4 @@ The conversation stretches into a short rest. [[Finnan Oakstride|Finnan]] looks 
 
 ## Combat
 
-**Ice Platform Battle.** A fight erupts when the frozen wolves awaken and escalates through wind-shades and chasm wisps before the party stabilizes [[Kalima]] and secures the platform.
+**Ice Platform Battle.** The fight erupts when the frozen wolves awaken and escalates through wind-shades and chasm wisps before the party stabilizes [[Kalima]] and secures the platform.

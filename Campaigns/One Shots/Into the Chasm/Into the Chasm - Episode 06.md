@@ -30,17 +30,17 @@ After recovering the chasm engine's keystone, the party returns to [[Melusa]] an
 
 ## Cast of Characters
 
-- [[Eidrikas]] (*AYD-ree-kahs*; he/him): mentor and living bridge in the mechanism.
-- [[Zahara]]: leader of the dissidents.
+- [[Eidrikas]] (*AYD-ree-kahs*; he/him, human): mentor and living bridge in the mechanism.
+- [[Zahara]] (*zah-HAH-rah*; person): leader of the dissidents.
 - Older Melusan woman: skeptical elder rallying people to stay.
-- [[Iskander]]: organizer of the willing group.
-- [[Kalima]] (she/her, the Zimka human): refugee among the willing.
-- [[Forquarion|Malquin the Vaqar]]: missing ruler of [[Melusa]].
+- [[Iskander]] (*is-KAN-der*; person): organizer of the willing group.
+- [[Kalima]] (*kah-LEE-mah*; she/her, the Zimka human): refugee among the willing.
+- [[Forquarion|Malquin the Vaqar]] (*for-KWAH-ree-on*; person): missing ruler of [[Melusa]].
 
 ## Places
 
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): Sacred chasm machinery site where [[Eidrikas]] holds a damaged planar engine together and the rescued Melusans emerge into the true world.
-- [[Melusa]] (place Unknown): Isolated village-realm whose willing dissidents escape after strange portals overwhelm the palace guard and destabilize the settlement.
+- [[Melusa]] (*meh-LOO-sah*; village in [[Zefya's Realm]]): Isolated village-realm whose willing dissidents escape after strange portals overwhelm the palace guard and destabilize the settlement.
 
 ## Narrative
 

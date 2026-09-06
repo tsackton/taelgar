@@ -50,10 +50,6 @@ The [[Dunmar Fellowship]] explores a ruined Dunmari fort, where they uncover and
 
 - [[Arcus]] (*AR-koos*; he/him, Chardonian human): petrified explorer in the cockatrice caves beneath the fort.
 
-### Organizations
-
-
-
 ### Locations
 
 - [[Dunmari Fort (Gomat)]] (fort in [[Nashtkar]], [[Greater Dunmar]]): a ruined Dunmari fort whose preserved temple and underground caverns held Dunmari relics, petrified creatures, and the source of the animals' unnatural rage. Session context includes: abandoned campsite and causeway, ruined headquarters, temple of the [[Dunmari Pantheon|Five Siblings]], gate towers, ankheg tunnels, cockatrice nursery, dry cistern channel, and southern cavern.

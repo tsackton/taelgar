@@ -32,17 +32,17 @@ The party kills the shaggy white beast, allowing them to escape [[Zeyfa's Labyri
 
 ## Cast of Characters
 
-- [[Kalima]] (she/her, the Zimka human): hidden survivor and Zimka woman.
-- [[Rala]] (she/her, hawk beast): Jrain's avian companion.
-- [[Nura]]: Kalima's sister and host of the [[Chasm Explorers]] in [[Melusa]].
-- [[Khaled]]: Nura's husband.
-- [[Samir]]: [[Nura]] and Khaled's child, a strange too-knowing baby with an old soul.
-- [[Forquarion|Forquarion the Frostbinder]]: master of the beast and supposed lord of the Ice Palace.
+- [[Kalima]] (*kah-LEE-mah*; she/her, the Zimka human): hidden survivor and Zimka woman.
+- [[Rala]] (*RAH-lah*; she/her, hawk beast): Jrain's avian companion.
+- [[Nura]] (*NOO-rah*; she/her, the Zimka human): Kalima's sister and host of the [[Chasm Explorers]] in [[Melusa]].
+- [[Khaled]] (*KHAH-let*; he/him, the Zimka human): Nura's husband.
+- [[Samir]] (*sah-MEER*; she/her, the Zimka human): [[Nura]] and Khaled's child, a strange too-knowing baby with an old soul.
+- Forquarion the Frostbinder: master of the beast and supposed lord of the Ice Palace.
 
 ## Places
 
-- [[Zeyfa's Labyrinth]] (labyrinth in the [[Great Chasm]], [[Zimkova]]): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zefya's beast..
-- [[Melusa]] (place Unknown): Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace. Session context includes: lower cliffside paths, ledge village, and [[Nura]] and Khaled's house.
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zefya's Realm]]): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zefya's beast..
+- [[Melusa]] (*meh-LOO-sah*; village in [[Zefya's Realm]]): Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace. Session context includes: lower cliffside paths, ledge village, and [[Nura]] and Khaled's house.
 
 ## Narrative
 

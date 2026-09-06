@@ -32,19 +32,19 @@ After a tense night in [[Melusa]], the party bargains with Malquin for passage h
 
 ## Cast of Characters
 
-- [[Kalima]] (she/her, the Zimka human): guide to [[Melusa]] and Old Zimkovan woman rescued by the party.
-- [[Zahara]]: leader of the [[Melusa]] rebels.
-- [[Samir]]: wakeful baby with a strange old soul.
-- [[Nura]]: Kalima's sister and the party's host in [[Melusa]].
-- [[Taquin]]: an old soul speaking through the infant [[Samir]].
-- [[Iskander]]: member of the rebels and Zahara's contact in [[Melusa]].
-- [[Forquarion|Malquin the Vaqar]]: ruler of the demiplane; the Melusan name for [[Forquarion|Forquarion the Frostbinder]].
-- [[Eidrikas]] (*AYD-ree-kahs*; he/him): druid in the [[Great Chasm]], member of the [[Vejo Vaikai]].
+- [[Kalima]] (*kah-LEE-mah*; she/her, the Zimka human): guide to [[Melusa]] and Old Zimkovan woman rescued by the party.
+- [[Zahara]] (*zah-HAH-rah*; person): leader of the [[Melusa]] rebels.
+- [[Samir]] (*sah-MEER*; she/her, the Zimka human): wakeful baby with a strange old soul.
+- [[Nura]] (*NOO-rah*; she/her, the Zimka human): Kalima's sister and the party's host in [[Melusa]].
+- [[Taquin]] (*tah-KEEN*; the Zimka human): an old soul speaking through the infant [[Samir]].
+- [[Iskander]] (*is-KAN-der*; person): member of the rebels and Zahara's contact in [[Melusa]].
+- [[Forquarion|Malquin the Vaqar]] (*for-KWAH-ree-on*; person): ruler of the demiplane; the Melusan name for [[Forquarion|Forquarion the Frostbinder]].
+- [[Eidrikas]] (*AYD-ree-kahs*; he/him, human): druid in the [[Great Chasm]], member of the [[Vejo Vaikai]].
 - [[Pakrinek]] (*PACK-ree-neck*; kenku): fallen kenku companion of [[Eidrikas]].
 
 ## Places
 
-- [[Melusa]] (place Unknown): Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff. Session context includes: [[Nura]] and Khaled's house, Iskander's hut near the cattle-island bridge, and the cliffside gashes.
+- [[Melusa]] (*meh-LOO-sah*; village in [[Zefya's Realm]]): Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff. Session context includes: [[Nura]] and Khaled's house, Iskander's hut near the cattle-island bridge, and the cliffside gashes.
 - Ice Palace: Malquin's floating palace, reached by a conjured bridge of ice. Session context includes: the entrance hall and throne-room-like audience chamber.
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): The true chasm beyond [[Melusa]], where floating carved platforms surround a failing planar mechanism.
 
@@ -61,3 +61,5 @@ With Iskander's information exhausted, the party decides to act instead of spend
 Inside the Ice Palace, the party comes face to face with Malquin. The audience is less a formal reception than an encounter with a ruler struggling to hold himself together. Malquin appears and reappears around the chamber, names himself [[Forquarion|Malquin the Vaqar]], and alternates between grand authority, terror of annihilation, and suspicion that the party might be another false thing from the whispers that speak to him. The severed head from the labyrinth unsettles him, but it also helps make the outside feel possible. In the end he bargains: they may pass through the apparently safe mirror-world gash, with his necklace as a token, but he wants proof that what waits beyond is real and not some trick.
 
 Malquin's permission proves real enough for the ice wolf to let them approach, and the party steps through the mirror-world gash. The portal opens onto a sheer cliff in the true [[Great Chasm]]. Below them, the party sees strange carved floating platforms in the Chasm, flicking with unstable light. [[Eolo]] and [[Ekko]] help the others reach the stones, where they see a person below. Clairvoyance reveals this is [[Eidrikas]], alive but in agony as he uses his body to complete a damaged runic circuit in the stone platform. He tells the [[Ekko]] that [[Orcs|orcs]] overran the site, killed [[Pakrinek]], and carried a vital stone key down through the platform network, presumably trying to escape. His count of days also reveals that several extra days passed outside while the party was trapped in [[Melusa]], leaving only a narrow window to recover the stolen piece before the mechanism cracks entirely with unknown consequences.
+
+## Combat

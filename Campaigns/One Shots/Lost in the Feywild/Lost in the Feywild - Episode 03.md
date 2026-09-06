@@ -7,9 +7,9 @@ realWorldDate: 2026-06-02
 DR: 1740-10-05
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: 'Lost in the Feywild: Episode 03'
-descTitle: Mr. Blue Sky
-tagline: in which the party follows the numbers
+name: "Lost in the Feywild: Episode 03"
+descTitle: "Mr. Blue Sky"
+tagline: "in which the party follows the numbers"
 sessionKey: lost-in-the-feywild-session-3
 session-template: feywild-template.md
 websiteSessionView: zoomable
@@ -22,12 +22,10 @@ websiteSessionView: zoomable
 > *On Earth: Tuesday, June 2, 2026*
 > *The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor]], and The Lone Door*
 
-At [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the party learns how the clock, the 27th room, and Menestheus's brilliant-number maps point toward a door that may lead home.
+At [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the party learns how the clock, the [[27th House|27th room]], and Menestheus's brilliant-number maps point toward a door that may lead home.
 
-> [!quote] %% NO TITLE %%
-> *So take the secret path I cannot see. 
-> Bring back the key. And finally set me free.* 
-> `-` Lord Endless Ending
+> [!quote] Lord Endless Ending
+> *So take the secret path I cannot see. Bring back the key. And finally set me free.*
 ## Audio Highlights
 
 **Bring back the key:** 
@@ -41,17 +39,17 @@ At [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the party learns
 
 In [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the grandfather clock strikes zero and the party regroups -- [[Tarek]] after a sideways architectural mishap and some theft, Kaito after leaving to find a better party vibe, and [[Txarro]] from looking through the eyes of the owl familiar he sent off to follow a human woman down the road toward the neighbors.
 
-The party reconstructs the working theory for Kaito. When the clock strikes zero, [[Lord Endless Ending]] must send a mortal guest toward the [[27th House|neighbor's house]]; the headless bodies on the road may be people who were sent that way and did not survive what came next.
+The party reconstructs the working theory for Kaito. When the clock strikes zero, [[Lord Endless Ending]] must send a mortal guest toward the neighbor's house; the headless bodies on the road may be people who were sent that way and did not survive what came next.
 
 The party crosses the ballroom to [[Lord Endless Ending]], an elegant fey lord attended by an anxious [[Endless Ending's Butler|badger butler]]. Kaito reads the butler's surface thoughts and finds a servant almost overwhelmed by work needed to clean up the household disorder: broken glass, wine stains, interrupted duties, and the frustration of waiting beside his Lord when there is cleaning to do.
 
 The badger presents the group and asks what gifts they have brought. [[Txarro]] offers the haunting sound of a loon from the mortal world, [[Edric]] gives a vial of holy water blessed by [[The Night Queen|the Night Queen]], Kaito turns his entrance into a showy musical performance, [[Tarek]] makes a mouse skull vanish as a fragment of death, and [[Ayveen]] presents her decorated moonrise composition. [[Lord Endless Ending]] answers the each gift with couplets of poetry and welcomes the mortals into his home.
 
-[[Txarro]] tells [[Lord Endless Ending]] that the party came through a door that closed behind them and does not know how to leave. The Lord says there is a way home through his nearest [[27th House|neighbor's house]] to the north -- the same direction as the woman who just left. He explains that a mortal wizard tricked him into an agreement he did not intend: he must send mortal guests through that house whenever the magical clock brought by the wizard and her entourage (of whom one still remains) strikes zero. Through various portents, he has learned that the bargain can be undone if a glass key from the lock of the cold-iron door to the 27th Room is brought back to him and broken. Kaito warns him about the bodies on the road, but he answers that his responsibility ends at the gate.
+[[Txarro]] tells [[Lord Endless Ending]] that the party came through a door that closed behind them and does not know how to leave. The Lord says there is a way home through his nearest neighbor's house to the north -- the same direction as the woman who just left. He explains that a mortal wizard tricked him into an agreement he did not intend: he must send mortal guests through that house whenever the magical clock brought by the wizard and her entourage (of whom one still remains) strikes zero. Through various portents, he has learned that the bargain can be undone if a glass key from the lock of the cold-iron door to the [[27th House|27th Room]] is brought back to him and broken. Kaito warns him about the bodies on the road, but he answers that his responsibility ends at the gate.
 
-The party argue through the risks: whether retrieving the glass key would help Hulda, whether the [[27th House|neighbor's house]] is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
+The party argue through the risks: whether retrieving the glass key would help Hulda, whether the neighbor's house is still their best way home, whether the wizard can be trusted, and whether agreeing to anything with a Fey Lord is itself the trap.
 
-Kaito then carefully phrases the party's departure so that they are headed toward the [[27th House|neighbor's house]] without promising to retrieve the key. [[Lord Endless Ending]] says that if the doorway toward the 27th room is truly their destination, his gates are open, and he does not wish to compel them as he was compelled: the gates will open only if, in the future, they have already gone through the other door. The distinction makes the whole exit feel less like a plan and more like a story already bending around them.
+Kaito then carefully phrases the party's departure so that they are headed toward the neighbor's house without promising to retrieve the key. [[Lord Endless Ending]] says that if the doorway toward the [[27th House|27th room]] is truly their destination, his gates are open, and he does not wish to compel them as he was compelled: the gates will open only if, in the future, they have already gone through the other door. The distinction makes the whole exit feel less like a plan and more like a story already bending around them.
 
 Before leaving, they return to the clock. Inspecting the grandfather clock which resembles the one they saw in [[Dandelion House]], they find a dial with Dwarven Reckoning dates on its face which span from the first year of Drankor to their present day (1740), and four dials which (they later learn) show four six-digit prime numbers. The numbers on the face and four dials all change at once, with no discernable order.
 
@@ -87,22 +85,25 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 	So take the secret path I cannot see,
 	bring back the key to finally set me free.
 
-> [!image]
+> [!image|figure large]
 > ![[the-door-on-the-cliff.jpg]]
-> *The lonely door on a cliff leading to the 27th Room*
+> *The lonely door on a cliff leading to the [[27th House|27th Room]]*
 
 ## Cast of Characters
 
-- [[Lord Endless Ending]] (they/them, fae): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
+- [[Lord Endless Ending]] (they/them, fae): fey lord and host of the ending party, bound to send mortal guests toward the neighbor's house when the clock strikes zero.
 - [[Menestheus]] (he/him, Drankorian human): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endless Ending's Butler]] (he/him, humanoid badger): anxious attendant to [[Lord Endless Ending]].
+- road guards: doglike keepers of the road outside [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
+- unnamed human woman: mortal guest sent away when the clock strikes zero.
 - [[Lord Hulda]] (he/him, Sembaran human): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (he/him, tiger-headed mortal): tiger-headed guest and informant from the prior session.
-- [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.
+- unnamed wizard neighbor: mortal wizard who tricked [[Lord Endless Ending]] into the sending bargain.
+- [[Thalestria]] (she/her, Drankorian human): Menestheus's master and head of [[Arithrimos Lamperum]].
 
 ## Places
 
 - The [[Twilight Kingdom]]: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries.
-- [[27th House]] (fey house in the [[Twilight Kingdom]], the [[Feywild]]): [[27th House|neighbor's house]] associated with the wizard, the 27th room, the glass key, and the possible way home.
+- [[27th House]] (manor in the [[Twilight Kingdom]], the [[Feywild]]): neighbor's house associated with the wizard, the [[27th House|27th room]], the glass key, and the possible way home.
 - [[Lord Endless Ending's Manor]] (fey manor in the [[Twilight Kingdom]], the [[Feywild]]): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
-- [[Twilight Promontory|The Lone Door]]: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: north road, westward footpath, cliff-ringed promontory, and lone doorframe.
+- The Lone Door: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: [[North Road|north road]], westward footpath, cliff-ringed promontory, and lone doorframe.
