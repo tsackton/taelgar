@@ -7,9 +7,9 @@ realWorldDate: 2026-06-02
 DR: 1740-10-05
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 03"
-descTitle: "Mr. Blue Sky"
-tagline: "in which the party follows the numbers"
+name: 'Lost in the Feywild: Episode 03'
+descTitle: Mr. Blue Sky
+tagline: in which the party follows the numbers
 sessionKey: lost-in-the-feywild-session-3
 session-template: feywild-template.md
 websiteSessionView: zoomable

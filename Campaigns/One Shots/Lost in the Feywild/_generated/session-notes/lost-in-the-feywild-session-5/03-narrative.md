@@ -24,7 +24,7 @@ We begin with the party in the fungal greenhouse, weighing Hulda's betrayal agai
 
 Following [[Menestheus]], leaves the fungal greenhouse and crosses a parlor into a lecture hall where chalkboard diagrams depict a lesson about dandelions, and a black painting conceals a tear in the universe. In the next room, a clockworks workshop, [[Tarek]] takes an unfinished portable clock that changes numbers as the prison moves.
 
-Proceeding through the house, the next listening station contains [[Transcriptions from the Prisoner#The Thirst|entries]] of a speaker named "Thirst" by the transcriber. The Thirst notebook describes [[Prisoner in the 27th Room|the prisoner]] filling empty heads with its children, and Kaito hears it claim the party is helping it escape. The party resolves not to free it, and continues onward.
+Proceeding through the house, the next listening station contains [[Transcriptions from the Prisoner#The Thirst|entries]] of a speaker named "Thirst" by the transcriber. The Thirst notebook describes the prisoner filling empty heads with its children, and Kaito hears it claim the party is helping it escape. The party resolves not to free it, and continues onward.
 
 In the next room, an animal experimentation laboratory, mushroom men attack [[Menestheus]]. The party retaliates, seeking to rescue him, but [[Menestheus]] is dragged into a mouth-covered chest and nearly killed. [[Txarro]] heals him before [[Edric]] destroys the last creature and the party burns both bodies.
 
@@ -40,13 +40,13 @@ The party remains reluctant to help either [[Lord Hulda|Hulda]] or [[Lord Endles
 
 They follow [[Menestheus]] out of Kallipseis's fungal greenhouse, cross a parlor, and come into a lecture hall whose chalkboard diagrams the life cycles of dandelions and other wind-dispersed plants. An enormous black painting conceals a field of stars, a tear in the universe, and the textured form of a seed sprouting through the gap. [[Menestheus]] recognizes the image as exactly the kind of uncontrolled breech between worlds that [[Arithrimos Lamperum]] was created to stop.
 
-[[Tarek]] also finds a book called "The Shape of Discovery," a brief treatise arguing that curiosity shapes possibility through the same irrational unpredictability as greed and games of chance. The party connects Kallipseis's description of infected people to Alden's pale, round appearance, surprising strength, and fear of fire.
+[[Tarek]] also finds a book called "[[The Shape of Discovery]]," a brief treatise arguing that curiosity shapes possibility through the same irrational unpredictability as greed and games of chance. The party connects Kallipseis's description of infected people to Alden's pale, round appearance, surprising strength, and fear of fire.
 
 In the next room, a clockworks workshop, [[Tarek]] finds and wraps an unfinished but functional desk-sized clock. Like the grandfather clocks in Dandylion House and the estate of [[Lord Endless Ending|Lord Endlessly Ending]], its numbers change as the party moves, apparently tracking the central prison room's position in space and time. Carrying the clock, the party reaches another mechanical listening room.
 
-The notebook at the new listening station is titled Thirst. Its [[Transcriptions from the Prisoner#The Thirst|entries]] describe the speaker filling bodies emptied of dreaming souls with its children, while those children search for the person who can set it free. The party identifies the children with the fungal infection and suspects that [[Prisoner in the 27th Room|the prisoner]] manipulated [[Alden]] and the suspicious deed that brought them to [[Dandelion House]].
+The notebook at the new listening station is titled Thirst. Its [[Transcriptions from the Prisoner#The Thirst|entries]] describe the speaker filling bodies emptied of dreaming souls with its children, while those children search for the person who can set it free. The party identifies the children with the fungal infection and suspects that the prisoner manipulated [[Alden]] and the suspicious deed that brought them to [[Dandelion House]].
 
-When Kaito takes the listener's place, he hears [[Prisoner in the 27th Room|the prisoner]] say that it is full of dreams, can read the party, and knows they are helping it. It can see both the moving exit and a hole large enough for its children to pass through. The party resolves not to free it and continues onward.
+When Kaito takes the listener's place, he hears the prisoner say that it is full of dreams, can read the party, and knows they are helping it. It can see both the moving exit and a hole large enough for its children to pass through. The party resolves not to free it and continues onward.
 
 The next room is an animal experimentation laboratory filled with cages, restraint devices, dead specimens, an infected ant colony, and humanoid remains. As [[Menestheus]] approaches the far exit, a hand reaches from a side passage and drags him out of sight.
 
@@ -62,9 +62,9 @@ The party moves through a dead plant greenhouse, a picked-over armory, and an un
 
 In the map library, [[Menestheus]] recalls other [[Arithrimos Lamperum]] facilities and a captive creature that experienced its entire life simultaneously. The order could ask it questions about events that others would call the future, although [[Menestheus]] remains uneasy about whether it was a prisoner or a pet.
 
-Beyond a fabrication lab, the party finds another listening station. The prisoner's looping voice in the [[Transcriptions from the Prisoner#The Prisoner|transcriptions]] addresses [[Lord Hulda|Hulda]] directly: the dragon-killer is bringing five friends, those friends are outside its room now, and they can hear it. The party realizes that [[Prisoner in the 27th Room|the prisoner]] is describing them in the present.
+Beyond a fabrication lab, the party finds another listening station. The prisoner's looping voice in the [[Transcriptions from the Prisoner#The Prisoner|transcriptions]] addresses [[Lord Hulda|Hulda]] directly: the dragon-killer is bringing five friends, those friends are outside its room now, and they can hear it. The party realizes that the prisoner is describing them in the present.
 
-One door short of [[Prisoner in the 27th Room|the prisoner]], the party enters a vast library with books chained to its shelves. A human-sized porcelain and clockwork torso is anchored to a desk just inside. As the party enters, it raises its head, opens its eyes, and studies them.
+One door short of the prisoner, the party enters a vast library with books chained to its shelves. A human-sized porcelain and clockwork torso is anchored to a desk just inside. As the party enters, it raises its head, opens its eyes, and studies them.
 
 > [!image|hero]
 > ![[27th-house-library.png]]

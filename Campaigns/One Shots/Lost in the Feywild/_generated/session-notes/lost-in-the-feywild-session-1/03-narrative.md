@@ -20,7 +20,7 @@ We begin around a campfire in [[Varrow Forest]], already several days west of To
 
 The next morning, [[Alden]] keeps a steady pace through the increasingly trackless forest, as the canopy thickens and wildlife grows scarce. By dusk, the party reaches [[Dandelion House]]: though wildly overgrown and partially swallowed by the forest, the House itself blazes bright in the last light of day, standing as an a marvel of late-Drankorian architecture. [[Alden]] leads the party into the unsettling, yet grand, house, where [[Lord Hulda]] receives them in the last golden light before bringing them to dinner in the kitchen.
 
-Over dinner, [[Lord Hulda|Hulda]] explains that an elf delivered an ancient deed and contract naming him heir to [[Dandelion House]] and its treasure. But the inheritance depends on going through a door in the floor and persuading a man beyond it to end a long-held treaty. Hulda tried this task, but failed badly enough that he now offers the party half the hoard to attempt it in his stead. Once Hulda leaves, the party weighs the suspicious contract, the unknown treaty, and the possibility that the promised treasure may be dangerous, worthless, or not literal treasure at all. They still decide they have come too far not to investigate, and prepare to enter the door in the morning.
+Over dinner, Hulda explains that an elf delivered an ancient deed and contract naming him heir to [[Dandelion House]] and its treasure. But the inheritance depends on going through a door in the floor and persuading a man beyond it to end a long-held treaty. Hulda tried this task, but failed badly enough that he now offers the party half the hoard to attempt it in his stead. Once Hulda leaves, the party weighs the suspicious contract, the unknown treaty, and the possibility that the promised treasure may be dangerous, worthless, or not literal treasure at all. They still decide they have come too far not to investigate, and prepare to enter the door in the morning.
 
 The grandfather clock wakes them before dawn, and [[Alden]] leads them down through the manor to a rough lower stair and root-covered cellar. Hulda waits by the hidden door, promises to keep it open, and sends them crawling through a narrow passage that proves to be the hollow center of a vast dry root. As the party walks forward, Hulda closes the door behind them.
 <!-- /SLOT -->
@@ -32,11 +32,11 @@ The group is a found-family band of misfits: skeptical, generous, opportunistic,
 
 [[Alden]] then speaks of [[Dandelion House]] with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.
 
-Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
-
 > [!image|figure standard]
 > ![[varrow-forest.jpg]]
 > *Walking through [[Varrow Forest]]*
+
+Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
 
 [[Dandelion House]] is a marvel of late-Drankorian architecture -- at least 700 years old. Detect Magic suggests some kind of preservation magic woven through the much of the structure, but Kaito becomes increasingly convinced that the house -- with its empty window frames like eye sockets and open double doors like a mouth with a dandelion crest above it -- is waiting to consume them.
 

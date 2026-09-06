@@ -166,7 +166,9 @@ module TaelgarNoteLint
 
         units << shared_nonpublic_unit("Campaign:none", match)
       end
-      without_scoped = body.gsub(SCOPED_CONTENT_BLOCK_PATTERN, "")
+      without_scoped = body.gsub(SCOPED_CONTENT_BLOCK_PATTERN) do |block|
+        block.start_with?("%%^Campaign:none%%") ? "" : block
+      end
       without_scoped.to_enum(:scan, /%%(.*?)%%/m).each do
         match = Regexp.last_match
         payload = match[1].to_s

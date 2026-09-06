@@ -5,7 +5,7 @@ campaign: Into the Chasm
 sessionNumber: 6
 realWorldDate: 2026-02-04
 DR: 1730-01-29
-	DR_end: 1730-01-29
+DR_end: 1730-01-29
 players: [Finnan, Jrain, Eolo, Ekko, Justas]
 companions: []
 name: Into the Chasm - Episode 6

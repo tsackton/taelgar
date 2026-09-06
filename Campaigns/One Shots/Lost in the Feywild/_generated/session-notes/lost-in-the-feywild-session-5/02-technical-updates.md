@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-06), still evening: party ends at [[27th House]].
+- Candidate party whereabouts: (DR:: 1740-10-06), still evening: party ends at [[27th Room]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -14,15 +14,15 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Kallipseis]]: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th House]].
+- [[Kallipseis]]: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th Room]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
-- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th House]].
+- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th Room]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
-- [[Prisoner in the 27th Room|the prisoner]]: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th House]].
+- the prisoner: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th Room]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
-- mushroom men: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th House]].
+- mushroom men: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th Room]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
-- clockwork library figure: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th House]].
+- clockwork library figure: candidate whereabouts update from (DR:: 1740-10-06), still evening -> [[27th Room]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
 <!-- /SLOT -->
 
@@ -35,11 +35,11 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
+- the prisoner: no matching note found in the vault index
 - mushroom men: no matching note found in the vault index
 - clockwork library figure: no matching note found in the vault index
 - Dreamer notebook: no matching note found in the vault index
 - fungal golem body: no matching note found in the vault index
-- The Shape of Discovery: no matching note found in the vault index
 - black star-field painting: no matching note found in the vault index
 - portable space-time clock: no matching note found in the vault index
 - Thirst notebook: no matching note found in the vault index
@@ -52,6 +52,4 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 - room 25 listening notebook: no matching note found in the vault index
 - chained library books: no matching note found in the vault index
 - glass key: no matching note found in the vault index
-- [[Kallipseis]]: note currently says whereabouts '27th House', but the reviewed recap ends them at '27th Room'.
-- [[Prisoner in the 27th Room|the prisoner]]: note currently says whereabouts '27th House', but the reviewed recap ends them at '27th Room'.
 <!-- /SLOT -->

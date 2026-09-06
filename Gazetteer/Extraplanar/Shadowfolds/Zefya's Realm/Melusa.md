@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-05T23:30:02-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/mike]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Zimka
 name: Melusa
 pronunciation: meh-LOO-sah
+whereabouts: "Zefya's Realm"
 knownTo: [itc]
-whereabouts: Zefya's Realm
 POV: 1730
 ---
 # Melusa
@@ -32,4 +34,12 @@ The villagers say their ancestors were brought here by [[Zeyfa]] to escape a gre
 In [[Into the Chasm - Episode 03|January 1730]], [[Kalima]] led the [[Chasm Explorers]] to Melusa after their escape from the labyrinth. Strange cracks had opened in the cliff, but palace guards and a giant ice wolf barred the only apparently safe route back to the Great Chasm.
 
 After bargaining with Forquarion for passage, the explorers later [[Into the Chasm - Episode 06|returned to evacuate roughly thirty-five willing villagers]] before the portal pulled away from the cliff. Most villagers stayed behind; their subsequent fate remains unknown.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Melusa, language: Old Zimkovan, pronunciation: meh-LOO-sah, notes: "tentatively glossed as the village of Melua; this derivation remains uncertain.", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a January DR 1730 portrait of the village under Malquin, with a dated account of the evacuation; the subsequent state of the village and its remaining inhabitants is unknown.
 %%^End%%

@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-05T23:30:02-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/mike]
 species: human
 ancestry: Zimka
@@ -7,8 +9,8 @@ gender: female
 name: Samir
 pronunciation: sah-MEER
 whereabouts:
-  - {type: home, location: Melusa, end: '1730-01-29'}
-  - {type: away, location: Great Chasm, start: '1730-01-29'}
+  - {type: home, location: Melusa, end: "1730-01-29"}
+  - {type: away, location: Great Chasm, start: "1730-01-29"}
 knownTo: [itc]
 POV: 1730
 ---
@@ -24,6 +26,12 @@ Samir is the infant daughter of [[Nura]] and [[Khaled]], a Zimka family from [[M
 
 During the [[Chasm Explorers]]' [[Into the Chasm - Episode 04|stay in Melusa in January 1730]], a soul calling itself [[Taquin]] spoke through Samir. It recognized [[Zahara]] as its child and shared memories of falling toward [[Zeyfa's Labyrinth|the labyrinth]]. Nura believed that an old soul had prevented Samir from becoming her own person, and feared she would not survive. Her fate is not known. 
 
-%% @Mike - was Samir supposed to be in the group that fled the Chasm? %%
+%%^End%%
 
+%%^Metadata:names:v1%%
+- {name: Samir, language: unknown, pronunciation: sah-MEER, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a narrow portrait of infancy in January DR 1730; Samir’s participation in the evacuation and later fate remain unresolved.
 %%^End%%

@@ -7,7 +7,7 @@ realWorldDate: 2026-05-14
 DR: 1740-10-03
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 01"
+name: 'Lost in the Feywild: Episode 01'
 descTitle: Welcome to Dandelion House
 tagline: in which the party enters a mysterious tunnel
 sessionKey: lost-in-the-feywild-session-1

@@ -7,9 +7,10 @@ realWorldDate: 2026-05-26
 DR: 1740-10-05
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 02"
-descTitle: "Тёмная ночь (Dark is the Night)"
-tagline: "in which the party finds the Endless Ending"
+name: 'Lost in the Feywild: Episode 02'
+descTitle: "\u0422\u0451\u043C\u043D\u0430\u044F \u043D\u043E\u0447\u044C (Dark is\
+  \ the Night)"
+tagline: in which the party finds the Endless Ending
 sessionKey: lost-in-the-feywild-session-2
 session-template: feywild-template.md
 websiteSessionView: zoomable

@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-05T23:30:02-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/mike]
 species: fey
 speciesAlias: fey lord
@@ -9,8 +11,8 @@ aliases: [Forquarion the Frostbinder, Malquin, Malquin the Vaqar]
 pronunciation: for-KWAH-ree-on
 affiliations:
   - {org: Melusa, type: leader, title: ruler}
-whereabouts: 
-- {type: home, location: "Zefya's Realm"}
+whereabouts:
+  - {type: home, location: "Zefya's Realm"}
 knownTo: [itc]
 POV: 1730
 ---
@@ -27,7 +29,7 @@ Forquarion controls the sky above Melusa. The villagers believe that sacrifices 
 
 ## Appearance and Manner
 
-Tall and humanoid, with pale, icy blue skin, Forquarion carries a sword of ice and vanishes and reappears within his palace. Few speak with him in his place; those that do say his manner shifts abruptly between regal courtesy, confusion, and violent threats. He fears, or assumes, that the outside world is a only a dream, and that leaving [[Zefya's Realm]] would end his existence, though he remembers moonlight and stars that are absent from this domain.
+Tall and humanoid, with pale, icy blue skin, Forquarion carries a sword of ice and vanishes and reappears within his palace. Few speak with him in his place; those that do say his manner shifts abruptly between regal courtesy, confusion, and violent threats. He fears, or assumes, that the outside world is only a dream, and that leaving [[Zefya's Realm]] would end his existence, though he remembers moonlight and stars that are absent from this domain.
 
 %%^Date:1730%%
 ## The Chasm Explorers
@@ -56,4 +58,15 @@ Sources:
 - [[2026-05-15 - Zefya Labyrinth]]
 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Forquarion, language: unknown, pronunciation: for-KWAH-ree-on, status: documented}
+- {name: Forquarion the Frostbinder, role: alias, language: unknown, status: documented}
+- {name: Malquin, role: alias, language: unknown, notes: Name used by the villagers of Melusa., status: documented}
+- {name: Malquin the Vaqar, role: alias, language: unknown, notes: Name used by the villagers of Melusa., status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a January DR 1730 portrait of Forquarion's rule and behavior before the palace falls silent, with a dated account of the explorers' return; his subsequent fate is unknown.
 %%^End%%
