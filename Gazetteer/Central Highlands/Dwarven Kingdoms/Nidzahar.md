@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: realm
 ancestry: dwarven
 name: Nidzahar
@@ -46,18 +46,4 @@ One general comment. Since your game is set around 1650, a dwarf who is 200 year
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern geography and post-Great War economic position, with selected earlier history.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added supported name and temporal metadata; normalized frontmatter.
-
-### Validated judgments
-- [[Dwarven Kingdoms]] corroborates the realm's modern technological and economic role; the article is sufficient as a concise realm overview.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.public_material_candidate:** The final comment contains a developed statement that telescopes are widely known in Nidzahar, alongside repeated postwar economic background and distinct notes on Izgil's chronology. Consider adding `Telescopes are widely known in Nidzahar.` to Culture and Economy. If adopted, trim the comment's repeated economic summary while retaining its distinct character-background and chronology guidance. This would give a concrete example of the realm's technical craft tradition without promoting the surrounding possibilities.
 %%^End%%

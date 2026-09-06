@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place, status/check/lint, status/stub]
 typeOf: realm
 name: Breva
 whereabouts: Zimkova
@@ -15,7 +15,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A highlander kingdom.
+A Zimkovan kingdom.
 
 %% Notes 
  -    A small kingdom, and in some ways riven by the most internal tensions.     

@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Teft
+pronunciation: TEFT
 whereabouts:
   - {type: primary, location: Greater Sembara}
   - {type: secondary, location: Teft Watershed}
@@ -19,8 +20,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
-A swift-flowing, largely unnavigable river in the north of the Sembara. The Teft flows from the central foothills of the [[Sentinel Range|Sentinels]], where a number of mountain streams (most notably the south-flowing [[Berze|Bērze]] and the north-flowing [[Vilna]]) join, south through the [[Great Chasm]] until it empties into the [[Western Gulf]] north of [[Embry]]. 
+A swift-flowing, largely unnavigable river in the north of the Sembara. The Teft flows from the central foothills of the [[Sentinel Range|Sentinels]], where a number of mountain streams (most notably the south-flowing [[Berze|Bērze]] and the north-flowing [[Vilna]]) join, east-south-east through the [[Great Chasm]] until it empties into the [[Western Gulf]] north of [[Embry]]. 
 
 The Teft has often been seen as a natural border and cultural divide, and has long divided the [[Heartlands]] of Sembara from the [[Northlands]]. Especially north of the [[Braebein]] it forms an unbridged and only occasionally crossed boundary between [[Breva]] and the wilder lands around the [[Great Chasm]]. In the ancient [[Kestavo|kestavan]] tradition, the [[Teft]] was the home of the children of [[Zeyfa]] and its waters were rarely trusted. 
 
@@ -45,24 +45,9 @@ locations:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Teft, language: unknown, pronunciation: TEFT, notes: "Proposed using the northern English branch of the regional Sembaran analogue in Languages: one syllable, short e, and pronounced final ft. Exact in-world name language is not established.", status: proposed}
+- {name: Teft, language: Sembaran, pronunciation: TEFT, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern river geography and cultural associations; the ancient kestavan tradition is described as historical.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added mapped source and outlet from [[Teft Watershed]], a proposed pronunciation, and modern temporal metadata; normalized frontmatter.
-
-### Validated judgments
-- [[Teft Watershed]] provides the source and sea-outlet coordinates. Feywild brainstorming remains explicitly provisional.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `TEFT`, one syllable with short e and an audible final ft, using the northern English branch of the regional Sembaran analogue in [[Languages]]. The language of this particular name is not established. Accept with `pronunciation: TEFT` in frontmatter and `status: documented` in the entry, or revise.
-- [ ] **Warning — correctness.cross_note_conflict:** The first paragraph says the river runs “south through the [[Great Chasm]]”, whereas [[Great Chasm]] places the entrance west of its channel and the river’s exit at the east end. Resolve the direction against the map; the supported minimal candidate is “east through the [[Great Chasm]] before continuing to the [[Western Gulf]] north of [[Embry]]”. This leaves the larger downstream course unspecified.
 %%^End%%

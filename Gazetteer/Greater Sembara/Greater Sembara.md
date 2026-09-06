@@ -3,9 +3,10 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place, status/wip]
 typeOf: region
 name: Greater Sembara
+pronunciation: "sem-BAH-rah"
 whereabouts:
   - {type: home, location: Taelgar, linkText: in}
 dm_owner: joint
@@ -80,7 +81,7 @@ The climate of the region is shaped by several major factors:
 -   In the winter, a high pressure system develops over the northern plateau, and the winds come from the west over the [[Sentinel Range]]. This is a cold and dry season.
 -   The [[Green Sea]], in the east, provides a moderating influence, especially on the coastal plains.
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 %% TODO
 * [ ] Real world examples
@@ -109,42 +110,27 @@ When humans first came to this region it was already a thriving land, with the a
 %%
 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 _See also: [[List of Places in Greater Sembara]]_
 
 *Canonical Development and Constraints:* Sembara, Addermarch, Tollen, and Tyrwingha have substanial cultural, political, and historical development as far back as the Downfall. The entire region has a general historical arc, and the climate and geography are well defined. Future development has a substantial body of canon to integrate with. There are two canonical religions in the area, Mos Numena, and the kestavo tradition, both with substantial development, although much of the kestavo material has not been introduced in game and may not be fully canonical.
 
-*Brainstorming and Potential Canon:* There have been discussions of Vostok and Zimkova but no major settled potentially canonical ideas.
+*Brainstorming and Potential Canon:* There have been discussions of Vostok and Zimkova but no major settled potentially canonical ideas. (except Into the Chasm details)
 
 *Needs Development:* The Zimkova and Vostok regions, although defined in both broad cultural strokes and their impact on the rest of the region, are nonetheless fairly light on detail. The relationship between nothern Vostok, southern Vostok, Tollen, and the Skaer is unclear. The religion of northern Vostok and its relationship to the kestavo traditions of the Zimka is unclear. 
 
 *Intentionally Blank:*  The [[Grastenvakt|Gråstenvakt]] is intentionally undeveloped as to its history and purpose (the existence of the wall is canonical). The [[Vostok Plateau]] and the [[Pekul Mountains]] are best left undeveloped until needed, as they are likely the source of interesting adventures. Northern Zimkova is expected to be a setting for a multi-session arc of the Cleenseau campaign and space for mystery and adventure should be preserved in the region. The exact nature of the Tyrwinghan relationship to the fey, and where the Tyrwinghans came from, is intentionally left unresolved.
 
-*Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen.
+*Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen. The [[Into the Chasm]] mini-series was set in Zimkova in parts. 
 
 *Important Places in Staging:* The following places could use canonical names: [[Vostok Plateau]], [[Lake Pekul]], [[~Skaer Shores~]], [[Draukar Hills]], [[Pekul Mountains]], [[South Vostok Hills]], [[Gulf of Tollen]]
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Greater Sembara, language: unknown, pronunciation: "GRAY-ter sem-BAH-rah", notes: "Proposed from the English component Greater and the northern English branch of the Sembaran analogue in Languages; three syllables in Sembara with penultimate stress are a cautious adaptation, not adopted phonology.", status: proposed}
+- {name: Greater Sembara, language: Sembaran, pronunciation: "GRAY-ter sem-BAH-rah", documented: proposed}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern regional geography and cultures, with a brief account of settlement before the Downfall.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the display name, proposed name pronunciation, and modern temporal metadata; normalized frontmatter.
-
-### Validated judgments
-- The note supplies a substantial geographic and cultural overview. Its unfinished historical-era outline is peripheral to that role; the linked [[Humanity in Greater Sembara]] and [[Timeline of Sembaran History]] provide dedicated historical routes.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `GRAY-ter sem-BAH-rah`, using ordinary English for Greater and the northern English branch of the Sembaran analogue in [[Languages]]: hard g, clear m/b consonants, three syllables in Sembara, and cautiously chosen penultimate stress. The southern French analogue would suggest different stress; exact in-world pronunciation is not established. Accept by adding `pronunciation: GRAY-ter sem-BAH-rah` to frontmatter and setting the name entry to `status: documented`, or revise the proposal.
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Both private blocks use `%%^Campaign:None%%` (after Climate and before DM Notes and Meta). The canonical marker is `%%^Campaign:none%%`. Replace these two markers after checking filtered visibility; their contents and boundaries should remain unchanged.
 %%^End%%

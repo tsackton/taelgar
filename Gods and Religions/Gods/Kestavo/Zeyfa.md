@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [power, religion/kestavo, status/check/lint]
+tags: [power, religion/kestavo]
 typeOf: spirit
 name: Zeyfa
 pronunciation: ZAY-fah
@@ -17,11 +17,10 @@ POV: modern
 
 A malevolent spirit in the tradition of the *[[Kestavo]]*, known as the west wind. Their children are the spirits of cold and dry air, of hardship, or shortages, and mischief, and although they are not worshipped, they are placated and bribed to stay away. Zeyfa is thought to live in the depths of the [[Great Chasm]].
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 In reality, neither Zeyfa nor [[Vaqar]] are individual spirits at all, but rather they are the personification given to various creatures that troubled the [[Zimka]] as they moved across the northern plains. The children of Zeyfa are usually fey.
-%%^End%%
 
-%% metaphysics
+Metaphysics:
 
 i think that it is not belief that creates gods, but worship. while the old zimka might have believed in the zeyfa and the vaqar as entities, they didn't worship them; at best they placated them and at worse they cursed them. this kind of investiture of existence might have the power to create something - but definitely not a deity. 
 
@@ -29,26 +28,12 @@ in the case of Zeyfa, this is complicated by the fact that the entities here act
 
 my feeling - not canon - is that the existence of a real non-divine entity as the source of power forecloses the possibility of creating a divinity. i think this fits with the history of religion vibe where big gods usually grew out of little gods, not out of nothing. (though there remain some unanswered questions here)
 
-%%
+%%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Zeyfa, language: unknown, pronunciation: ZAY-fah, status: documented}
+- {name: Zeyfa, language: Old Zimokovan, pronunciation: ZAY-fah, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern Kestavan beliefs about the west wind; the article describes a religious personification rather than asserting the continuous life or rule of a particular creature.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter ordering and added documented name metadata with the existing pronunciation and a temporal-coverage note.
-
-### Validated judgments
-- The article performs its bounded role as a description of a religious personification. The shared metaphysical commentary is explicitly provisional, and the existing private explanation remains nonpublic.
-
-### Open findings
-
-- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The private explanation uses the legacy opening marker `%%^Campaign:None%%`. Replace only that marker with the canonical `%%^Campaign:none%%`, preserving the enclosed text and closing `%%^End%%` marker. The current review leaves the structural change as a proposal.
 %%^End%%
