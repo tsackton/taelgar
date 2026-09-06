@@ -38,23 +38,23 @@ Session notes: [[Into the Chasm - Episode 01|1]] · [[Into the Chasm - Episode 0
 
 - [x] [[Berze|Bērze]] — sessions [[Into the Chasm - Episode 01|1]]
 - [ ] [[Breva]] — sessions [[Into the Chasm - Episode 01|1]]
-- [ ] [[Great Chasm]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
-- [ ] [[Greater Sembara]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
+- [x] [[Great Chasm]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
+- [x] [[Greater Sembara]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
 - [ ] [[Green Sea]] — sessions [[Into the Chasm - Episode 01|1]]
-- [ ] [[Kemeko Monastery]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 06|6]]
-- [ ] [[Melusa]] — sessions [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 06|6]]
-- [ ] [[Nidzahar]] — sessions [[Into the Chasm - Episode 01|1]]
+- [x] [[Kemeko Monastery]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 06|6]]
+- [x] [[Melusa]] — sessions [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 06|6]]
+- [x] [[Nidzahar]] — sessions [[Into the Chasm - Episode 01|1]]
 - [ ] [[Sentinel Range]] — sessions [[Into the Chasm - Episode 01|1]]
-- [ ] [[Teft]] — sessions [[Into the Chasm - Episode 01|1]]
-- [ ] [[Zeyfa's Labyrinth]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]]
+- [x] [[Teft]] — sessions [[Into the Chasm - Episode 01|1]]
+- [x] [[Zeyfa's Labyrinth]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]]
 - [ ] [[Zimkova]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
 
 ## Powers and organizations
 
 - [ ] [[Kestavo]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]]
-- [ ] [[Melua]] — sessions [[Into the Chasm - Episode 02|2]]
+- [x] [[Melua]] — sessions [[Into the Chasm - Episode 02|2]]
 - [ ] [[Vejo Vaikai]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 06|6]]
-- [ ] [[Zeyfa]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]]
+- [x] [[Zeyfa]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]]
 
 ## Species, history, and language
 

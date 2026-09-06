@@ -26,7 +26,7 @@ and the mystics of the Vejo Vaikai believe the Chasm is a place of elemental bal
 %%
 
 %%^Metadata:names:v1%%
-- {name: Vejo Vaikai, language: unknown, pronunciation: "VYEH-yoh vay-KAY", status: documented}
+- {name: Vejo Vaikai, language: Zimkovan, pronunciation: "VYEH-yoh vay-KAY", status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

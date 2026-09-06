@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place, status/cleanup/text, status/check/lint, status/check/ai]
+tags: [place, status/cleanup/text, status/check/lint]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Sentinel Range
@@ -131,10 +131,10 @@ Ultimately probably makes sense that these prominent mountains would have many n
 - {name: Sentinel Range, language: Common, status: documented}
 - {name: Sentinels, role: alias, language: Common, status: documented}
 - {name: Sentinel Mountains, role: alias, language: Common, status: documented}
-- {name: Indalas, role: alias, language: Stoneborn, pronunciation: een-DAH-lahs, notes: "Stoneborn name documented in the article. Proposed from the Xhosan analogue in Languages, with clear vowels and penultimate stress; the final s is retained as written. Exact in-world phonology is unrecorded.", status: proposed}
-- {name: Labkhan, role: alias, language: Dwarvish, pronunciation: LAHB-khahn, notes: "Dwarven name documented in the article. Proposed from the Tolkien Dwarvish analogue in Languages: short a vowels, aspirated kh, and first-syllable stress; exact in-world phonology is unrecorded.", status: proposed}
-- {name: Beredri, role: alias, language: "Deno'qai", pronunciation: beh-RED-ree, notes: "Name documented in the article. Old name notes brainstorm an Amharic Beredo connection without adopting an etymology. The proposed adapted reading uses clear e vowels, a pronounced r, final ee, and penultimate stress; the Hebrew or Arabic guidance in Languages does not establish an exact rule for this form.", status: proposed}
-- {name: Tushara, role: alias, language: Dunmari, pronunciation: too-SHAA-rah, notes: "Dunmari name documented in the article; old name notes include Tushāra. Proposed from the Hindi or Indo-Iranian analogue in Languages, with sh and the indicated long medial a; exact in-world phonology is unrecorded.", status: proposed}
+- {name: Indalas, role: alias, language: Stoneborn, pronunciation: een-DAH-lahs, status: documented}
+- {name: Labkhan, role: alias, language: Dwarvish, pronunciation: LAHB-khahn,  status: documented}
+- {name: Beredri, role: alias, language: "Deno'qai", pronunciation: beh-RED-ree, status: documented}
+- {name: Tushara, role: alias, language: Dunmari, pronunciation: too-SHAA-rah, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -155,7 +155,7 @@ Temporal coverage: broadly modern geography after the Great War; older kingdoms 
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Review the four alternate-name pronunciation proposals in `Metadata:names:v1`: Indalas `een-DAH-lahs` uses the Stoneborn Xhosan analogue with clear vowels and penultimate stress; Labkhan `LAHB-khahn` uses the Dwarvish Tolkien analogue with short a and aspirated kh; Beredri `beh-RED-ree` is a cautious adaptation that acknowledges the old Amharic name brainstorm and the broader Hebrew/Arabic Deno'qai guidance; Tushara `too-SHAA-rah` uses the Hindi/Indo-Iranian analogue and the old Tushāra spelling. These are proposed readings, not established phonology; accept or correct each entry without adopting the brainstormed etymologies.
+- [x] **Warning — metadata.names_unresolved_status:** Review the four alternate-name pronunciation proposals in `Metadata:names:v1`: Indalas `een-DAH-lahs` uses the Stoneborn Xhosan analogue with clear vowels and penultimate stress; Labkhan `LAHB-khahn` uses the Dwarvish Tolkien analogue with short a and aspirated kh; Beredri `beh-RED-ree` is a cautious adaptation that acknowledges the old Amharic name brainstorm and the broader Hebrew/Arabic Deno'qai guidance; Tushara `too-SHAA-rah` uses the Hindi/Indo-Iranian analogue and the old Tushāra spelling. These are proposed readings, not established phonology; accept or correct each entry without adopting the brainstormed etymologies.
 - [ ] **Suggestion — editorial.reference_voice:** The regional sections expose the “Real world analogs” paragraphs, “These are stereotypical high mountains,” and “What this actually looks like is currently unknown.” These are development instructions and real-world comparisons inside player-facing geographic prose. Rewrite the bounded Northern, Central, and Southern Sentinels sections in reference voice while preserving their terrain, climate, boundaries, travel limitations, and genuine uncertainty; retain any useful design guidance privately through a separately approved visibility change.
 - [ ] **Suggestion — editorial.prose_clarity:** Under Southern Sentinels, the bullets beginning “The northern and middle sections are separated” and “The middle and southern sections are separated” discuss range-wide divisions, but their placement makes them read as subdivisions of the south. Move those two boundary bullets with their associated analogues, and the range-wide “Passes” bullet, beneath a sibling heading such as `### Divisions and Passes`; preserve the existing hidden pass-development text and its visibility.
 
