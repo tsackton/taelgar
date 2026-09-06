@@ -10,13 +10,14 @@ campaignInfo:
 name: "Zeyfa's Labyrinth"
 pronunciation: ZAY-fahz LAB-uh-rinth
 whereabouts:
-  - {type: primary, location: Great Chasm}
+  - {type: primary, location: Zefya's Realm}
 knownTo: [itc]
 dm_owner: none
 dm_notes: none
 POV: 1730
 ---
-# Zeyfa's Labyrinth
+# The Zeyfa's Labyrinth
+*(ZAY-fahz LAB-uh-rinth)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

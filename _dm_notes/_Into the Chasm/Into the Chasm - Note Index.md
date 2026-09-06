@@ -29,14 +29,14 @@ Session notes: [[Into the Chasm - Episode 01|1]] · [[Into the Chasm - Episode 0
 - [x] [[Khaled]] — sessions [[Into the Chasm - Episode 03|3]]
 - [x] [[Nura]] — sessions [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]]
 - [x] [[Pakrinek]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 04|4]]
-- [ ] [[Ravager of Winter]] — sessions [[Into the Chasm - Episode 01|1]]
-- [ ] [[Samir]] — sessions [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]]
-- [ ] [[Taquin]] — sessions [[Into the Chasm - Episode 04|4]]
-- [ ] [[Zahara]] — sessions [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 06|6]]
+- [x] [[Ravager of Winter]] — sessions [[Into the Chasm - Episode 01|1]]
+- [x] [[Samir]] — sessions [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]]
+- [x] [[Taquin]] — sessions [[Into the Chasm - Episode 04|4]]
+- [x] [[Zahara]] — sessions [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 06|6]]
 
 ## Places
 
-- [ ] [[Berze|Bērze]] — sessions [[Into the Chasm - Episode 01|1]]
+- [x] [[Berze|Bērze]] — sessions [[Into the Chasm - Episode 01|1]]
 - [ ] [[Breva]] — sessions [[Into the Chasm - Episode 01|1]]
 - [ ] [[Great Chasm]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 02|2]], [[Into the Chasm - Episode 03|3]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
 - [ ] [[Greater Sembara]] — sessions [[Into the Chasm - Episode 01|1]], [[Into the Chasm - Episode 04|4]], [[Into the Chasm - Episode 05|5]], [[Into the Chasm - Episode 06|6]]
