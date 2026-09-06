@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 excludePublish: ["all"]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-001/cleaned/lost-in-the-feywild-001-session.yaml"
 ---
@@ -22,16 +21,42 @@ in which the party enters a mysterious tunnel
 The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Hulda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 <!-- /SLOT -->
 
+<!-- SLOT: session.arc -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.table_notes -->
+<!-- /SLOT -->
+
 <!-- SLOT: session.pull_quotes -->
-> [!quote] %% NO TITLE %%
-> *Locked in a room in the basement is the doom of the house.* - Lord Hulda
-> .....
-> *What could go wrong?* - Kaito Min
+> [!quote] Lord Hulda
+> *Locked in a room in the basement is the doom of the house.*
+
+> [!quote] Kaito Min
+> *What could go wrong?*
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
-- **Lord Hulda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
-- **The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
+**Lord Hulda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
+![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
+
+**The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** 
+![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.highlights -->
+## Highlights
+
+> [!quote] [[Lord Hulda]]
+> *Locked in a room in the basement is the doom of the house.*
+
+> [!quote] [[Kaito Min]]
+> *What could go wrong?*
+
+**[[Lord Hulda]] recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
+![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
+
+**The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** 
+![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.dm -->
@@ -54,6 +79,16 @@ Kaito Min, Edric, Tarek, Ayveen, Txarro
 [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]
 <!-- /SLOT -->
 
+<!-- SLOT: session.companions_plain_inline -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_inline -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.featuring_inline -->
+Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], and [[Txarro]]
+<!-- /SLOT -->
+
 <!-- SLOT: session.session_number -->
 1
 <!-- /SLOT -->
@@ -71,7 +106,7 @@ Kaito Min, Edric, Tarek, Ayveen, Txarro
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
-(DR:: 1740-10-03) - (DR_end:: 1740-10-05)
+(DR:: 1740-10-03) to (DR:: 1740-10-05)
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
@@ -112,30 +147,36 @@ Thursday, May 14, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
-- none
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
 - dandelion crest: carved dandelion puffball motif above the manor door.
-  - [[Dandelion House]], 1740-10-04
 - cleaning bar: magical iron bar in the kitchen that cleans anyone who taps it.
-  - [[Dandelion House]], 1740-10-04
 - magical ice chest: cold magical storage chest in the kitchen.
-  - [[Dandelion House]], 1740-10-04
 - magical cupboard: kitchen cupboard that preserves or produces fresh bread.
-  - [[Dandelion House]], 1740-10-04
 - garden tapestries: faded tapestries showing gardeners at work in greenhouses.
-  - [[Dandelion House]], 1740-10-04
 - ancient deed and contract: brittle Sembaran document naming Hulda heir to [[Dandelion House]] on the treaty condition.
-  - [[Dandelion House]], 1740-10-04
 - Goodberries: magical berries [[Txarro]] creates and distributes before the party rests.
-  - [[Dandelion House]], 1740-10-04
 - silver spoon: piece of manor silverware [[Tarek]] pockets during the evening.
-  - [[Dandelion House]], 1740-10-04
 - gold key: small glowing key [[Alden]] uses to unlock the lower door beneath the basement.
-  - [[Dandelion House]], 1740-10-05
 - hidden door: root-cellar door leading into the narrow passage below [[Dandelion House]].
-  - [[Dandelion House]], 1740-10-05
+- old books: objects recovered for the elf patron during the party's previous job.
+- treaty: long-held agreement the party is hired to end without yet knowing its terms.
+- treasure hoard: promised inheritance treasure Hulda offers to split with the party.
+- door in the floor: basement threshold named in the contract as the way toward the treaty condition.
+<!-- /SLOT -->
+
+<!-- SLOT: objects -->
+- dandelion crest: carved dandelion puffball motif above the manor door.
+- cleaning bar: magical iron bar in the kitchen that cleans anyone who taps it.
+- magical ice chest: cold magical storage chest in the kitchen.
+- magical cupboard: kitchen cupboard that preserves or produces fresh bread.
+- garden tapestries: faded tapestries showing gardeners at work in greenhouses.
+- ancient deed and contract: brittle Sembaran document naming Hulda heir to [[Dandelion House]] on the treaty condition.
+- Goodberries: magical berries [[Txarro]] creates and distributes before the party rests.
+- silver spoon: piece of manor silverware [[Tarek]] pockets during the evening.
+- gold key: small glowing key [[Alden]] uses to unlock the lower door beneath the basement.
+- hidden door: root-cellar door leading into the narrow passage below [[Dandelion House]].
 - old books: objects recovered for the elf patron during the party's previous job.
 - treaty: long-held agreement the party is hired to end without yet knowing its terms.
 - treasure hoard: promised inheritance treasure Hulda offers to split with the party.

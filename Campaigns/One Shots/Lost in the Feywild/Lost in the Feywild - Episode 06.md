@@ -7,9 +7,9 @@ realWorldDate: 2026-07-27
 DR: 1740-10-06
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 06"
-descTitle: "The Stories We Carry"
-tagline: "in which stories open the door to darkness"
+name: 'Lost in the Feywild: Episode 06'
+descTitle: The Stories We Carry
+tagline: in which stories open the door to darkness
 sessionKey: lost-in-the-feywild-session-6
 session-template: feywild-template.md
 websiteSessionView: zoomable

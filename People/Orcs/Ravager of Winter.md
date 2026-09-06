@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-05T23:30:02-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/mike]
 species: orc
 died: 1729-08-28
 gender: female
 name: Ravager of Winter
 whereabouts:
-- {type: away, start: 1730-08-01, end: 1730-08-28, location: Zimkova}
+  - {type: away, start: 1729-08-01, end: 1729-08-28, location: Zimkova}
 knownTo: [itc]
+POV: 1729
 ---
 # Ravager of Winter
 >[!info]+ Biographical Info  
@@ -19,4 +22,12 @@ The Ravager of Winter is the name used by an orc war leader in northern [[Zimkov
 
 %%^Date:1729-08-28%%
 In August 1729, her horde emerged from the [[Sentinel Range|Sentinels]] and rampaged across northern Zimkova. On 28 August, she was killed and her army defeated in the forests east of the [[Berze]] by dwarves from [[Nidzahar]], supported by a substantial [[Stoneborn]] company.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Ravager of Winter, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an August DR 1729 portrait of the war leader, with her defeat and death in the dated account; earlier life is not described.
 %%^End%%

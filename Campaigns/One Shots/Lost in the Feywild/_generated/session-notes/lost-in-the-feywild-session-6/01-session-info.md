@@ -21,12 +21,28 @@ in which stories open the door to darkness
 The party recruits [[Aurae]], rejects Arithrimos Lamperum's soul bindery, and enters the central prison as [[Menestheus]] succumbs to the fungal transformation.
 <!-- /SLOT -->
 
+<!-- SLOT: session.arc -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.table_notes -->
+<!-- /SLOT -->
+
 <!-- SLOT: session.pull_quotes -->
-> [!quote] %% NO TITLE %%
-> *I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
+> [!quote] Aurae
+> *I know that I'm not happy, alone by myself. I've read all of these books already.*
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
+![[assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.highlights -->
+## Highlights
+
+> [!quote] [[Aurae]]
+> *I know that I'm not happy, alone by myself. I've read all of these books already.*
+
 **The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
 ![[assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a]]
 <!-- /SLOT -->
@@ -48,6 +64,18 @@ Kaito Min, Edric, Ayveen, Txarro
 
 <!-- SLOT: session.pcs_inline -->
 [[Kaito Min]], [[Edric]], [[Ayveen]], [[Txarro]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_plain_inline -->
+Aurae, Menestheus
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_inline -->
+[[Aurae]] and [[Menestheus]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.featuring_inline -->
+Featuring: [[Kaito Min]], [[Edric]], [[Ayveen]], and [[Txarro]], with [[Aurae]] and [[Menestheus]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.session_number -->
@@ -103,31 +131,33 @@ Monday, July 27, 2026
 
 <!-- SLOT: groups -->
 - [[Arithrimos Lamperum]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): Drankorian order responsible for the [[27th House|27th Room]], whose surviving library includes research into exploiting captive souls.
-  - [[27th House|27th Room]], 1740-10-06
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
-- none
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
 - glass key: pale blue key that opens both the central prison and the complex's front door.
-  - [[27th House|27th Room]], 1740-10-06
-  - [[27th House|27th Room]] -> central prison, 1740-10-06
 - [[Allegories for the Initiated]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): collection of fairy-tale riddles intended to reveal the order's secrets to initiated readers.
-  - [[27th House|27th Room]], 1740-10-06
 - [[On the Science and Possibilities of Soul Bindery]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): ancient [[Arithrimos Lamperum]] tome advocating the exploitation of captive soul energy, burned by [[Txarro]].
-  - [[27th House|27th Room]], 1740-10-06
 - portable space-time clock: device carried by Tarek that tracks the central prison's shifting position in space and time.
-  - [[27th House|27th Room]], 1740-10-06
 - threefold prison door: three superimposed doors showing the prisoner as a child, a young adult, and an aged figure.
-  - [[27th House|27th Room]] -> central prison, 1740-10-06
 - Journey of the Souls: ancient work represented in the library alongside a five-volume commentary.
-  - [[27th House|27th Room]] -> central prison, 1740-10-06
 - [[Journey of the Souls - A Refutation]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): five-volume refutation shelved immediately after *Journey of the Souls*.
-  - [[27th House|27th Room]] -> central prison, 1740-10-06
 - [[The Riven Veil]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Drankorian treatise by [[Marcion of Iridel]], shelved among a larger collection of his works.
-  - [[27th House|27th Room]] -> central prison, 1740-10-06
+- [[Zharuk Akhal]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): cosmological treatise currently out of the library by special dispensation.
+- [[The Shape of Discovery]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): earlier treatise arguing that curiosity is an incurable addiction.
+<!-- /SLOT -->
+
+<!-- SLOT: objects -->
+- glass key: pale blue key that opens both the central prison and the complex's front door.
+- [[Allegories for the Initiated]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): collection of fairy-tale riddles intended to reveal the order's secrets to initiated readers.
+- [[On the Science and Possibilities of Soul Bindery]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): ancient [[Arithrimos Lamperum]] tome advocating the exploitation of captive soul energy, burned by [[Txarro]].
+- portable space-time clock: device carried by Tarek that tracks the central prison's shifting position in space and time.
+- threefold prison door: three superimposed doors showing the prisoner as a child, a young adult, and an aged figure.
+- Journey of the Souls: ancient work represented in the library alongside a five-volume commentary.
+- [[Journey of the Souls - A Refutation]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): five-volume refutation shelved immediately after *Journey of the Souls*.
+- [[The Riven Veil]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Drankorian treatise by [[Marcion of Iridel]], shelved among a larger collection of his works.
 - [[Zharuk Akhal]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): cosmological treatise currently out of the library by special dispensation.
 - [[The Shape of Discovery]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): earlier treatise arguing that curiosity is an incurable addiction.
 <!-- /SLOT -->

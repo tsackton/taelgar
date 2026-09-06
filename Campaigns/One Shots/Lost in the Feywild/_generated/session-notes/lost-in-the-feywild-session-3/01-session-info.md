@@ -18,15 +18,31 @@ in which the party follows the numbers
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-At [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the party learns how the clock, the 27th room, and Menestheus's brilliant-number maps point toward a door that may lead home.
+At [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], the party learns how the clock, the [[27th House|27th room]], and Menestheus's brilliant-number maps point toward a door that may lead home.
+<!-- /SLOT -->
+
+<!-- SLOT: session.arc -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.table_notes -->
 <!-- /SLOT -->
 
 <!-- SLOT: session.pull_quotes -->
-> [!quote] %% NO TITLE %%
-> *So take the secret path I cannot see. Bring back the key. And finally set me free.* - Lord Endless Ending
+> [!quote] Lord Endless Ending
+> *So take the secret path I cannot see. Bring back the key. And finally set me free.*
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
+**Bring back the key:** 
+![[assets/session-audio/lost-in-the-feywild-session-3/lost-in-the-feywild-session-3-audio-005.m4a]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.highlights -->
+## Highlights
+
+> [!quote] [[Lord Endless Ending]]
+> *So take the secret path I cannot see. Bring back the key. And finally set me free.*
+
 **Bring back the key:** 
 ![[assets/session-audio/lost-in-the-feywild-session-3/lost-in-the-feywild-session-3-audio-005.m4a]]
 <!-- /SLOT -->
@@ -49,6 +65,16 @@ Kaito Min, Edric, Tarek, Ayveen, Txarro
 
 <!-- SLOT: session.pcs_inline -->
 [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_plain_inline -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_inline -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.featuring_inline -->
+Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], and [[Txarro]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.session_number -->
@@ -84,19 +110,22 @@ Tuesday, June 2, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
-- [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fey lord and host of the ending party, bound to send mortal guests toward the [[27th House|neighbor's house]] when the clock strikes zero.
+- [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fey lord and host of the ending party, bound to send mortal guests toward the neighbor's house when the clock strikes zero.
 - [[Menestheus]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): displaced Drankorian scholar and guide from Thalestria's entourage.
 - [[Endless Ending's Butler]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): anxious attendant to [[Lord Endless Ending]].
+- road guards: doglike keepers of the road outside [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
+- unnamed human woman: mortal guest sent away when the clock strikes zero.
 - [[Lord Hulda]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): party's employer at [[Dandelion House]].
 - [[Rakshasa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): tiger-headed guest and informant from the prior session.
-- [[Thalestria]] (she/her, Drankorian human): [[Menestheus|Menestheus's]] master, head of [[Arithrimos Lamperum]], and the wizard who tricked [[Lord Endless Ending]] into the sending bargain.
+- unnamed wizard neighbor: mortal wizard who tricked [[Lord Endless Ending]] into the sending bargain.
+- [[Thalestria]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Menestheus's master and head of [[Arithrimos Lamperum]].
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
 - The [[Twilight Kingdom]]: Feywild realm of fixed twilight, many houses, strange roads, and unstable boundaries.
-- [[27th House]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): [[27th House|neighbor's house]] associated with the wizard, the 27th room, the glass key, and the possible way home.
+- [[27th House]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): neighbor's house associated with the wizard, the [[27th House|27th room]], the glass key, and the possible way home.
 - [[Lord Endless Ending's Manor]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): A fey manor caught in the ending of a party, where [[Lord Endless Ending]] receives guests and sends mortals away when the clock strikes zero. Session context includes: ballroom, porch, bar room, library, gate, and and river beside the grounds.
-- The Lone Door: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: north road, westward footpath, cliff-ringed promontory, and lone doorframe.
+- The Lone Door: A single isolated door on a promontory north and west of [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], apparently leading toward the [[27th House|27th house]]. Session context includes: [[North Road|north road]], westward footpath, cliff-ringed promontory, and lone doorframe.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
@@ -108,44 +137,50 @@ The [[Twilight Kingdom]], [[27th House]], [[Lord Endless Ending's Manor]], and T
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
-- none
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
 - grandfather clock: immense clock at the manor that strikes zero, changes through unusual number faces, and governs Lord Endless Ending's sending of mortal guests.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - eastern screech owl familiar: Txarro's familiar, used to track the sent human woman and later found perched above the lone door.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] -> single door on the western promontory, 1740-10-05
 - bird-call wand: Txarro's carved wand, used to offer [[Lord Endless Ending]] the sound of a loon.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - holy water vial: Edric's silver-bound vial of water blessed by [[The Night Queen|the Night Queen]], given as a gift.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - Kaito's stringed instrument: Kaito's instrument, used in his showy musical gift to [[Lord Endless Ending]].
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - mouse skull: tiny skull [[Tarek]] uses in his sleight-of-hand gift for [[Lord Endless Ending]].
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - moonrise sheet music: Ayveen's decorated composition, given to [[Lord Endless Ending]] as a song of moonrise.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - Menestheus's satchel: scholar's bag containing papers, notebooks, and books that [[Tarek]] removes while [[Menestheus]] sleeps.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - [[The Shape of Possibility]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Menestheus's book about modeling possible futures, time, and story-like simultaneity.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - [[Brilliant Numbers]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Menestheus's book and concept for using factored numbers to hide location information.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] -> single door on the western promontory, 1740-10-05
 - Menestheus's books: books taken from Menestheus's satchel while he sleeps.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - translation ring: ring [[Menestheus]] uses to communicate with the party after [[Ayveen]] signals the language barrier.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], 1740-10-05
 - Menestheus's book: lifted book that [[Tarek]] slips back into Menestheus's satchel during the conversation.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] -> single door on the western promontory, 1740-10-05
 - single door: lone doorway on the western promontory, reached at the end of the road from the manor.
-  - [[Lord Endless Ending's Manor|Lord Endless Ending's manor]] -> single door on the western promontory, 1740-10-05
 - Tarek's museum keys: keys earlier traded to the [[Rakshasa]] for information about the ending party.
 - [[Dandelion House]] deed: suspicious four-hundred-year-old deed written in modern Sembaran and tied to Hulda's claim.
-- glass key: key to the cold-iron 27th room that [[Lord Endless Ending]] wants returned and broken.
-- 27th room: cold-iron room in the [[27th House|neighbor's house]], described as central to undoing the bargain.
+- glass key: key to the cold-iron [[27th House|27th room]] that [[Lord Endless Ending]] wants returned and broken.
+- [[27th House|27th room]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): cold-iron room in the neighbor's house, described as central to undoing the bargain.
+- [[Dandelion House]] clock: similar magical clock previously seen in [[Dandelion House]].
+- grandfather clock numbers: changing numbers [[Menestheus]] recognizes as brilliant-number-like but cannot fully interpret.
+<!-- /SLOT -->
+
+<!-- SLOT: objects -->
+- grandfather clock: immense clock at the manor that strikes zero, changes through unusual number faces, and governs Lord Endless Ending's sending of mortal guests.
+- eastern screech owl familiar: Txarro's familiar, used to track the sent human woman and later found perched above the lone door.
+- bird-call wand: Txarro's carved wand, used to offer [[Lord Endless Ending]] the sound of a loon.
+- holy water vial: Edric's silver-bound vial of water blessed by [[The Night Queen|the Night Queen]], given as a gift.
+- Kaito's stringed instrument: Kaito's instrument, used in his showy musical gift to [[Lord Endless Ending]].
+- mouse skull: tiny skull [[Tarek]] uses in his sleight-of-hand gift for [[Lord Endless Ending]].
+- moonrise sheet music: Ayveen's decorated composition, given to [[Lord Endless Ending]] as a song of moonrise.
+- Menestheus's satchel: scholar's bag containing papers, notebooks, and books that [[Tarek]] removes while [[Menestheus]] sleeps.
+- [[The Shape of Possibility]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Menestheus's book about modeling possible futures, time, and story-like simultaneity.
+- [[Brilliant Numbers]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): Menestheus's book and concept for using factored numbers to hide location information.
+- Menestheus's books: books taken from Menestheus's satchel while he sleeps.
+- translation ring: ring [[Menestheus]] uses to communicate with the party after [[Ayveen]] signals the language barrier.
+- Menestheus's book: lifted book that [[Tarek]] slips back into Menestheus's satchel during the conversation.
+- single door: lone doorway on the western promontory, reached at the end of the road from the manor.
+- Tarek's museum keys: keys earlier traded to the [[Rakshasa]] for information about the ending party.
+- [[Dandelion House]] deed: suspicious four-hundred-year-old deed written in modern Sembaran and tied to Hulda's claim.
+- glass key: key to the cold-iron [[27th House|27th room]] that [[Lord Endless Ending]] wants returned and broken.
+- [[27th House|27th room]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): cold-iron room in the neighbor's house, described as central to undoing the bargain.
 - [[Dandelion House]] clock: similar magical clock previously seen in [[Dandelion House]].
 - grandfather clock numbers: changing numbers [[Menestheus]] recognizes as brilliant-number-like but cannot fully interpret.
 <!-- /SLOT -->

@@ -19,6 +19,25 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     @temporary_roots.each { |path| FileUtils.remove_entry(path) if File.exist?(path) }
   end
 
+  def test_shared_nonpublic_review_includes_comments_inside_date_and_campaign_blocks
+    comment = "%% Editorial question needing review. %%"
+    [nil, "Date:1730", "Campaign:itc"].each do |scope|
+      body = scope ? "%%^#{scope}%%\nPublic prose.\n#{comment}\n%%^End%%\n" : comment
+      note = TaelgarNoteLint::ParsedNote.new("People/Example.md", body)
+
+      assert_equal [TaelgarNoteLint::Batch.shared_nonpublic_unit("comment", comment)],
+                   TaelgarNoteLint::Batch.shared_nonpublic_units(note), scope.inspect
+    end
+  end
+
+  def test_shared_nonpublic_review_counts_campaign_none_as_one_unit
+    block = "%%^Campaign:none%%\nPrivate notes.\n%% Editorial question. %%\n%%^End%%"
+    note = TaelgarNoteLint::ParsedNote.new("People/Example.md", block)
+
+    assert_equal [TaelgarNoteLint::Batch.shared_nonpublic_unit("Campaign:none", block)],
+                 TaelgarNoteLint::Batch.shared_nonpublic_units(note)
+  end
+
   def test_batch_dm_preload_preserves_per_note_results
     root = make_vault
     write_note(root, "People/Alpha Person.md", person_note("Alpha Person"))

@@ -7,9 +7,9 @@ realWorldDate: 2026-07-15
 DR: 1740-10-06
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: "Lost in the Feywild: Episode 05"
-descTitle: "The Voice Beyond the Wall"
-tagline: "in which the prisoner knows they are coming"
+name: 'Lost in the Feywild: Episode 05'
+descTitle: The Voice Beyond the Wall
+tagline: in which the prisoner knows they are coming
 sessionKey: lost-in-the-feywild-session-5
 session-template: feywild-template.md
 websiteSessionView: zoomable

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 excludePublish: ["all"]
 sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-003/cleaned/lost-in-the-feywild-003-session.yaml"
 ---
@@ -7,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-05), evening: party ends at single door on the western promontory.
+- Candidate party whereabouts: (DR:: 1740-10-05), evening: party ends at [[single door on the western promontory]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -18,8 +17,9 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Lord Endless Ending]]: no whereabouts update; he remains at [[Lord Endless Ending's Manor]] while the party and [[Menestheus]] continue to the lone door.
-- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> single door on the western promontory.
+- [[Lord Endless Ending]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
+  - Whereabouts line: `- {type: away, start: 1740-10-05, location: single door on the western promontory}`
+- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: single door on the western promontory}`
 - road guards: candidate whereabouts update from (DR:: 1740-10-05), evening -> [[Lord Endless Ending's manor]].
   - Whereabouts line: `- {type: away, start: 1740-10-05, location: Lord Endless Ending's manor}`
@@ -30,8 +30,8 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- eastern screech owl familiar: candidate item-location update from (DR:: 1740-10-05), evening ->single door on the western promontory.
-- [[Brilliant Numbers]]: candidate item-location update from (DR:: 1740-10-05), evening -> single door on the western promontory.
+- eastern screech owl familiar: candidate item-location update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
+- [[Brilliant Numbers]]: candidate item-location update from (DR:: 1740-10-05), evening -> [[single door on the western promontory]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
@@ -55,11 +55,9 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 - Tarek's museum keys: no matching note found in the vault index
 - Dandelion House deed: no matching note found in the vault index
 - glass key: no matching note found in the vault index
-- 27th room: no matching note found in the vault index
 - Dandelion House clock: no matching note found in the vault index
 - grandfather clock numbers: no matching note found in the vault index
-- [[Lord Endless Ending]]: no note update recommended; the reviewed recap has him speaking from [[Lord Endless Ending's Manor]] while the party stands at the single door on the western promontory.
-- [[Menestheus]]: note currently says whereabouts 'Lord Endless Ending's Manor', but the reviewed recap ends him at 'single door on the western promontory'.
+- [[Lord Endless Ending]]: note currently says whereabouts 'Lord Endless Ending's Manor', but the reviewed recap ends them at 'single door on the western promontory'.
 - unnamed human woman: appears in the final timeline block but has no parseable end-state history.
 - [[Brilliant Numbers]]: note currently says whereabouts 'Menestheus', but the reviewed recap last places it at 'single door on the western promontory'.
 <!-- /SLOT -->

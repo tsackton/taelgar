@@ -21,14 +21,40 @@ in which stories teach the prisoner to let go
 The party learns the truth of the prisoner, then tells five stories that persuade the captive to release a hundred souls and return home.
 <!-- /SLOT -->
 
+<!-- SLOT: session.arc -->
+<!-- /SLOT -->
+
+<!-- SLOT: session.table_notes -->
+<!-- /SLOT -->
+
 <!-- SLOT: session.pull_quotes -->
-> [!quote] %% NO TITLE %%
-> *I think I'm happy for the first time ever, here in the nothingness, in the darkness, with no souls and no dreams.* - Kaito Min
-> *All these lights come to different people, and they mean so much, and they're not gone when they're not there.* - Ayveen
-> *So as you grasp these souls that you love, you destroy them. But it is not too late.* - Txarro
+> [!quote] Kaito Min
+> *I think I'm happy for the first time ever, here in the nothingness, in the darkness, with no souls and no dreams.*
+
+> [!quote] Ayveen
+> *All these lights come to different people, and they mean so much, and they're not gone when they're not there.*
+
+> [!quote] Txarro
+> *So as you grasp these souls that you love, you destroy them. But it is not too late.*
 <!-- /SLOT -->
 
 <!-- SLOT: session.audio_highlights -->
+**A Hundred Souls Go Home:** 
+![[assets/session-audio/lost-in-the-feywild-session-7/lost-in-the-feywild-session-7-audio-005.m4a]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.highlights -->
+## Highlights
+
+> [!quote] [[Kaito Min]]
+> *I think I'm happy for the first time ever, here in the nothingness, in the darkness, with no souls and no dreams.*
+
+> [!quote] [[Ayveen]]
+> *All these lights come to different people, and they mean so much, and they're not gone when they're not there.*
+
+> [!quote] [[Txarro]]
+> *So as you grasp these souls that you love, you destroy them. But it is not too late.*
+
 **A Hundred Souls Go Home:** 
 ![[assets/session-audio/lost-in-the-feywild-session-7/lost-in-the-feywild-session-7-audio-005.m4a]]
 <!-- /SLOT -->
@@ -51,6 +77,18 @@ Kaito Min, Edric, Tarek, Ayveen, Txarro
 
 <!-- SLOT: session.pcs_inline -->
 [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_plain_inline -->
+Aurae
+<!-- /SLOT -->
+
+<!-- SLOT: session.companions_inline -->
+[[Aurae]]
+<!-- /SLOT -->
+
+<!-- SLOT: session.featuring_inline -->
+Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], and [[Txarro]], with [[Aurae]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.session_number -->
@@ -89,7 +127,7 @@ Tuesday, August 4, 2026
 - The [[Prisoner in the 27th Room|prisoner in the 27th Room]]: telepathic entity filling the central prison of the [[27th House]].
 - [[Aurae]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): clockwork research assistant carried in a makeshift backpack.
 - [[Menestheus]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): transformed mushroom man left outside the prison door.
-- [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): the prisoner's teacher, now Lord of the Ended Revel.
+- [[Lord Endless Ending]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): the prisoner's teacher, now [[Lord Endless Ending|Lord of the Ended Revel]].
 - [[Lord Hulda|Hulda]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): the older and younger selves joined by a time loop.
 - [[Kallipseis]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): wizard head of [[Arithrimos Lamperum]], fled across the Multiverse.
 - [[Rakshasa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): observer in a roadside cottage.
@@ -109,15 +147,20 @@ Tuesday, August 4, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
-- none
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
 - portable space-time clock: its embossed dials allow [[Tarek]] to determine that the prison is positioned in 1351.
-  - [[27th House|27th Room]], 1740-10-06
 - Lord Endless Ending's cup: the ornate cup [[Tarek]] stole from the teacher's house helps the prisoner reconnect stories with its teacher.
-  - [[27th House|27th Room]], 1740-10-06
-  - [[27th House|27th Room]] -> empty hillside above a ravine, 1740-10-06
+- Hulda's deed: the promise written by old [[Lord Hulda|Hulda]] in the past so that it would reach his younger self.
+- fire-protecting ring: the stolen ring [[Tarek]] gave to a father so he could enter a burning building to rescue a child.
+- book of six-digit numbers: the volume [[Kallipseis]] retrieves before plane shifting out of the collapsing house.
+- polished crystal sphere: the scrying object through which an unnamed tigerman watches [[Kallipseis]] escape.
+<!-- /SLOT -->
+
+<!-- SLOT: objects -->
+- portable space-time clock: its embossed dials allow [[Tarek]] to determine that the prison is positioned in 1351.
+- Lord Endless Ending's cup: the ornate cup [[Tarek]] stole from the teacher's house helps the prisoner reconnect stories with its teacher.
 - Hulda's deed: the promise written by old [[Lord Hulda|Hulda]] in the past so that it would reach his younger self.
 - fire-protecting ring: the stolen ring [[Tarek]] gave to a father so he could enter a burning building to rescue a child.
 - book of six-digit numbers: the volume [[Kallipseis]] retrieves before plane shifting out of the collapsing house.
