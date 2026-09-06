@@ -36,6 +36,7 @@ Returning to [[Karawa]] with treasure from the fort and many open questions, the
 
 ## Timeline
 
+
 - (DR:: 1748-03-26): The party leaves the [[Dunmari Fort (Gomat)|Dunmari fort]] and heads west across the [[Daraar Canyon]] towards [[Karawa]].
 - (DR:: 1748-03-27): The party continues traveling west toward [[Karawa]].
 - (DR:: 1748-03-28): The party continues west towards [[Karawa]] through the [[Karawa Desert]].
@@ -65,6 +66,7 @@ Returning to [[Karawa]] with treasure from the fort and many open questions, the
 - [[Karawa Desert]] (desert in the [[Hara Basin]], [[Greater Dunmar]]): rocky, arid desert around the village of [[Karawa]].
 - [[Karawa]] (town in [[Eastern Dunmar]], [[Dunmar]]): Dunmari town crowded with travelers and encampments for the approaching [[Festival of Rebirth]]. Session context includes: council chamber, [[Ikram's]] caravanserai, Jasu's smithy, Charmheart encampment, oasis, and [[Temple of Shakun]].
 
+
 ## Narrative
 
 Our session begins as the party wakes in the fort's temple to find that the oppressive tension has vanished from the surrounding land. Leaving the quieted fort with what they can carry from the temple, the party crosses the desert without incident. Traveling back to [[Karawa]] takes three days, moving at a fast but not exhausting pace. Arriving in the late afternoon on March 29th, the town has changed. Lots of visitors -- not just Dunmari -- have arrived for the [[Festival of Rebirth]], and the markets and games that accompany it, and a large tent city has grown up on the outskirts of town. The caravanserai and the village are bustling with activity and trade.
@@ -79,7 +81,7 @@ Heading to the [[Ikram's|caravanserai]], the party meets [[Ikram]], who is eager
 
 After a bit more conversation with [[Ikram]] about lighter subjects, including the upcoming axebeak riding competition before the [[Festival of Rebirth]], the party heads for [[Jasu]]’s shop to ask about [[Arcus]]. Reaching him just as he is closing his forge for the evening, they return to [[Ikram's]] with [[Jasu]] for a light dinner. [[Jasu]] tells them [[Arcus]] was asking about artifacts, especially anything from the [[Great War]]. He left a couple of silvered spearpoints behind and asked [[Jasu]] to haft them so they could be used. [[Arcus]] apparently expected to be back in town within a few weeks, and [[Jasu]] finds it strange that he has not returned. The silvered spearpoints were odd, too, [[Jasu]] says: hard to work with and resistant to forging.
 
-> [!image|right large]
+> [!image|right standard]
 > ![[bree-and-ander-charmheart.jpg]]
 > *A disturbed [[Ander Charmheart]] speaks joyfully of the all-consuming master.*
 
@@ -94,6 +96,11 @@ He asks them to keep the failure of [[Shakun's Protection|Shakun's protection]] 
 > [!image|figure standard]
 > ![[candrosa-dunmar-session-4.jpg]]
 > *A worried [[Candrosa]] tells the [[Dunmar Fellowship]] about [[Shakun's Protection]]*
+
+## Combat
+
+
+
 ## Treasure and Things
 
 - Recovered Dunmari temple relics: Portable chalices, amulets, candlesticks, and other sacred objects carried away from the fort, returned to Elder [[Kisa]] in exchange for a Scroll of Cure Wounds.

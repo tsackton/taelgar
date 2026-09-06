@@ -3,16 +3,16 @@ headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
-arc: 'Arc 1: Dangers in the Desert'
+arc: "Arc 1: Dangers in the Desert"
 sessionNumber: 2
 realWorldDate: 2020-06-12
 DR: 1748-03-23
 DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: []
-name: Dunmari Frontier - Session 2
-descTitle: Into the Wilds
-tagline: in which the party follows signs of unnatural violence into the Nashtkar
+name: "Dunmari Frontier - Session 2"
+descTitle: "Into the Wilds"
+tagline: "in which the party follows signs of unnatural violence into the Nashtkar"
 sessionKey: dunmari-frontier-session-2
 session-template: dunmar-frontier-template.md
 ---
@@ -31,7 +31,7 @@ After defeating the giant lizards and securing [[Gomat|Gomat Oasis]], the party 
 > [!quote] [[Akan]]
 > *I do not know why they were so enraged, so bloodthirsty. We thought we could scare them off. My family, there was eleven of us. Only seven now remain.*
 
-**The party reaches [[Daraar Canyon]] and gazes at the dangerous wilds beyond:** 
+**The party reaches [[Daraar Canyon]] and gazes at the dangerous wilds beyond.:** 
 ![[assets/session-audio/dunmari-frontier-session-2/dunmari-frontier-session-2-audio-003.m4a]]
 
 ## Timeline
@@ -50,12 +50,17 @@ After defeating the giant lizards and securing [[Gomat|Gomat Oasis]], the party 
 
 - [[Akan]] (he/him, Dunmari human): wounded Dunmari herder, returning to the [[Gomat|Gomat Oasis]].
 
+### Organizations
+
+
+
 ### Locations
 
 - [[Gomat|Gomat Oasis]] (oasis in [[Eastern Dunmar]], [[Dunmar]]): A herders' oasis and roadside camp where giant lizards slaughtered sheep and attacked Akan's family.
 - [[Daraar Canyon]] (canyon in [[Nashtkar]], [[Greater Dunmar]]): A vast, geologically unnatural chasm cutting across the ancient road into the [[Nashtkar]].
 - [[Nashtkar]] (region in [[Greater Dunmar]]): The rocky, dangerous desert beyond the [[Daraar Canyon]].
 - [[Dunmari Fort (Gomat)]] (fort in [[Nashtkar]], [[Greater Dunmar]]): A ruined [[Great War]]-era defensive fort with gate towers, earthen works, and a recently disturbed mound of undead.
+
 
 ## Narrative
 
@@ -87,5 +92,5 @@ The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defen
 
 ## Treasure and Things
 
-- Holy symbol of [[Chidya]]: An intricately braided wooden amulet belonging to Akan's sister, found among the scattered camp goods and returned to him.
-- Insect repellent salve: A foul-smelling salve [[Seeker]] shares to ward off aggressive biting insects east of [[Daraar Canyon]].
+- holy symbol of Chidya: An intricately braided wooden amulet belonging to Akan's sister, found among the scattered camp goods and returned to him.
+- insect repellent salve: A foul-smelling salve [[Seeker]] shares to ward off aggressive biting insects east of [[Daraar Canyon]].

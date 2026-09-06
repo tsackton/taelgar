@@ -71,7 +71,7 @@ Our campaign begins as four travelers converge on the small Dunmari village of [
 
 With the hyenas dead, the acolyte [[Beli]] leaves to fetch [[Candrosa]] and the village elders, while the travelers carry the wounded villager towards Badya's tea house. Looking for clues, the travelers determine that the beasts entered [[Karawa]] from the east-northeast; a trail of dried blood suggests they fought or killed something before reaching the village. Settling beneath the awning of the tea house, [[Kenzo]], [[Wellby]], [[Seeker]], and [[Delwath]] exchange names and compare the paths that brought them each to [[Karawa]].
 
-> [!image|right small]
+> [!image|right standard]
 > ![[elder-kisa-v2.jpg]]
 > *Elder [[Kisa]] asks the party for help.*
 

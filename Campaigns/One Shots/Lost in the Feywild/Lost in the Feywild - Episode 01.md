@@ -7,9 +7,9 @@ realWorldDate: 2026-05-14
 DR: 1740-10-03
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: 'Lost in the Feywild: Episode 01'
-descTitle: Welcome to Dandelion House
-tagline: in which the party enters a mysterious tunnel
+name: "Lost in the Feywild: Episode 01"
+descTitle: "Welcome to Dandelion House"
+tagline: "in which the party enters a mysterious tunnel"
 sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 websiteSessionView: zoomable
@@ -18,20 +18,24 @@ websiteSessionView: zoomable
 
 >[!info] Welcome to Dandelion House: in which the party enters a mysterious tunnel
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*
-> *In Taelgar: (DR:: 1740-10-03) - (DR_end:: 1740-10-05)*
+> *In Taelgar: (DR:: 1740-10-03) to (DR:: 1740-10-05)*
 > *On Earth: Thursday, May 14, 2026*
 > *[[Varrow Forest]] and [[Dandelion House]]*
 
 The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Hulda's deal to end a mysterious treaty with an entity beyond a hidden door in exchange for promises of wealth and treasure, but find themselves sealed in a strange passage.
 
-> [!quote] %% NO TITLE %%
-> *Locked in a room in the basement is the doom of the house.* - Lord Hulda
-> .....
-> *What could go wrong?* - Kaito Min
+> [!quote] Lord Hulda
+> *Locked in a room in the basement is the doom of the house.*
+
+> [!quote] Kaito Min
+> *What could go wrong?*
 ## Audio Highlights
 
-- **Lord Hulda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
-- **The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** ![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
+**Lord Hulda recounts his adventuring life and the bargain tied to the treaty beyond the basement door:** 
+![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-002.m4a]]
+
+**The party descends through the manor basement into the root-covered lower cellar where Hulda waits by the hidden door:** 
+![[assets/session-audio/lost-in-the-feywild-session-1/lost-in-the-feywild-session-1-audio-003.m4a]]
 
 ## Timeline
 
@@ -42,15 +46,15 @@ The party follows [[Alden]] to [[Dandelion House]], where they accept Lord Hulda
 
 ## Narrative
 
-> [!image|right]
-> ![[varrow-forest.jpg|400]]
-> *Walking through [[Varrow Forest]]*
-
 Our session begins as the party is traveling west from Tollen, guided by [[Alden]] -- a small, stout, pale human with a curiosity about the party and a phobia of fire -- to an old property at the end of the wilderness recently inherited by a longtime adventurer. 
 
 The group is a found-family band of misfits: skeptical, generous, opportunistic, anxious, and fond of one another. Around the campfire, [[Txarro]] prepares fish and recalls being rescued from tree blights by Kaito and [[Tarek]]; Kaito and [[Tarek]] sketch out their carny and pickpocket routines; Edric's awkward generosity and faith in [[The Night Queen|the Night Queen]] comes into focus; and [[Ayveen]] frames the party as people who can make the world brighter. Over dinner, [[Alden]] asks about their last job together, when an elf in Tollen hired them to recover old books from an ettin. They each tell a different version of the story: Kaito remembers profit and clean clothes; [[Edric]] remembers enemies who ran instead of dying; [[Tarek]] remembers salvage; [[Txarro]] remembers becoming a tiger; and [[Ayveen]] sees teamwork. 
 
 [[Alden]] then speaks of [[Dandelion House]] with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.
+
+> [!image|figure standard]
+> ![[varrow-forest.jpg]]
+> *Walking through [[Varrow Forest]]*
 
 Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.
 
@@ -58,7 +62,7 @@ Morning brings a long march through ancient forest. The trail slowly fades away,
 
 [[Alden]] warns that [[Lord Hulda]] is proud, difficult, and desperate for [[Dandelion House]] to become the estate he has always wanted. They meet [[Lord Hulda]] on the upper floor: a scarred adventurer in his late 40s, watching the fading light, sinking into shadow. After brief introductions, Hulda leads them down to the kitchen for a meal and conversation.
 
-> [!image]
+> [!image|hero]
 > ![[dandelion-house.jpg]]
 > *[[Dandelion House]]*
 
@@ -72,8 +76,8 @@ The document named him heir to "[[Dandelion House]], its lands, and all such tre
 
 After Hulda leaves them, [[Tarek]] reads the Sembaran document again and senses that something about it does not fit. But Kaito shifts from fear to enthusiasm at the promise of half the hoard -- though [[Ayveen]] points out that ending an unknown treaty might be dangerous, and [[Txarro]] tries to prepare Kaito for disappointment if the treasure is a trap, a metaphor, or a single coin. They still decide they have come too far not to investigate, and prepare to enter the door in the morning.
 
-> [!image|left]
-> ![[the-door-in-the-floor.jpg|400]]
+> [!image|right standard]
+> ![[the-door-in-the-floor.jpg]]
 > *The root tunnel to the unknown*
 
 Before dawn, the grandfather clock wakes them and [[Alden]] collects them from their rooms, leading them through the ground floor, down through a massive basement. There, he opens a locked door with a glowing gold key, leads them below the basement, down through a passage hewn from living rock into in a root-covered sub-cellar that surely predates the manor above it. Hulda, waiting there, opens a door that seems to lead deep through a massive hollowed-out root, promising to keep this end open while they take care of business. 
@@ -82,12 +86,12 @@ Before dawn, the grandfather clock wakes them and [[Alden]] collects them from t
 
 ## Cast of Characters
 
-- [[Alden]] (he/him, human): guide and agent for [[Lord Hulda]].
-- [[Colden]] (he/him, human): Alden's cousin, at the manor.
+- [[Alden]] (he/him, alien fungal entity): guide and agent for [[Lord Hulda]].
+- [[Colden]] (he/him, alien fungal entity): Alden's cousin, at the manor.
 - [[Mossfoot ]](companion): Edric's pony.
 - [[Lord Hulda]] (he/him, Sembaran human): lord of [[Dandelion House]], former adventurer, and mysterious quest-giver.
 
 ## Places
 
-- [[Varrow Forest]] (forest in [[Sembara]], [[Greater Sembara]]): old forest west of Tollen that the party travels through to reach [[Dandelion House]]. Session context includes: campfire; long day's hike through increasingly trackless forest.
-- [[Dandelion House]] (manor house in the [[Varrow Forest]], [[Sembara]]): ancient preserved manor and overgrown estate claimed by [[Lord Hulda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.
+- [[Varrow Forest]] (forest in the [[Duchy of Telham]], [[Sembara]]): old forest west of Tollen that the party travels through to reach [[Dandelion House]]. Session context includes: campfire; long day's hike through increasingly trackless forest.
+- [[Dandelion House]] (manor house in the [[Varrow Forest]], the [[Duchy of Telham]]): ancient preserved manor and overgrown estate claimed by [[Lord Hulda]], beautiful and decrepit in equal measure. Session context includes: grounds, entry hall, upper floors, kitchen, guest quarters, basement, root cellar, and and hidden root tunnel.

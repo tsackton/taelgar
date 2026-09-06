@@ -7,10 +7,9 @@ realWorldDate: 2026-05-26
 DR: 1740-10-05
 DR_end: 1740-10-05
 players: [Kaito Min, Edric, Tarek, Ayveen, Txarro]
-name: 'Lost in the Feywild: Episode 02'
-descTitle: "\u0422\u0451\u043C\u043D\u0430\u044F \u043D\u043E\u0447\u044C (Dark is\
-  \ the Night)"
-tagline: in which the party finds the Endless Ending
+name: "Lost in the Feywild: Episode 02"
+descTitle: "Тёмная ночь (Dark is the Night)"
+tagline: "in which the party finds the Endless Ending"
 sessionKey: lost-in-the-feywild-session-2
 session-template: feywild-template.md
 websiteSessionView: zoomable
@@ -25,13 +24,8 @@ websiteSessionView: zoomable
 
 The party emerges in the [[Twilight Kingdom]], enters [[Lord Endless Ending's Manor|Lord Endless Ending's manor]], and learns that a naming contest bound the house in a party endlessly ending.
 
-> [!quote] %% NO TITLE %%
-> *Wide lawns gone askew. 
-> Hanging lanterns flicker low. 
-> A party ending.* 
-> 
-> *Lord Endless Ending.*
-> `-` The Rakshasa
+> [!quote] The Rakshasa
+> *Wide lawns gone askew. Hanging lanterns flicker low. A party ending. Lord Endless Ending.*
 ## Audio Highlights
 
 **The story of Lord Endless Ending:** 
@@ -45,8 +39,8 @@ The party emerges in the [[Twilight Kingdom]], enters [[Lord Endless Ending's Ma
 
 We begin as the party crawls through the narrow tunnel, debating what they can still trust the contract, Hulda, or even the premise of the job. Suddenly, the wood surrounding them gives way to bones -- as if they crawled through the center of an enormous hollow root-bone. The party climbs up and out through a ruined house made of the same root-bone material and finds themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of [[Dandelion House]] onto a road passing through hill and hollow to an estate in the distance.
 
-> [!image|left]
-> ![[the-coral-bone-house.jpg|450]]
+> [!image|figure standard]
+> ![[the-coral-bone-house.jpg]]
 > *The root-bone echo of the [[Dandelion House]]*
 
 [[Txarro]] finds the first body just off the roadside: human, shot from behind by three beautifully-made green-feathered arrows, its head smashed into nothingness after it hit the ground. Tracks show it was running toward the echo-house, its killers wore heavy boots and the hoof-prints of elk. [[Tarek]] searches the pockets, finds a writing kit, and spell components -- keeping a mouse skull for himself. Farther down the road, the party smells smoke and finds human bones in a burned pyre, then farther on, another arrow-shot corpse missing its head entirely.
@@ -67,13 +61,13 @@ The two half-drunk halflings argue cheerfully with each other on the lawn, and t
 
 The halflings speak of their journey thorugh the Feywild: arriving in the morning, riding a rabbit the size of a pony, "liberating" a boat and coming down river, arriving at the party in full swing.  Kaito joins with a flask to coax more from them, and they describe the Lord of the Manor as serious, sad, prone to brain teasers, not someone to hug, and perhaps afraid of neighbors he claims only to respect. [[Txarro]] concludes they may have been here for centuries and tries to guide them toward wine while looking for another mortal.
 
-> [!image]
+> [!image|hero]
 > ![[the-endlessly-ending-party.jpg]]
 > *The endlessly ending party in the [[Twilight Kingdom]]*
 
 Inside the manor, [[Ayveen]] and [[Edric]] find one obvious mortal sleeping behind a couch, and on the back porch find another: a massive tiger-man in a waistcoat and smoking jacket, enjoying a quiet pipe on the now-empty porch. Alert, sober, and sharp in a way the other party guests are not, he invites them to sit and says he has pieced together why the party is ending. His first price is a month and a day in Ayveen's home in Tollen, but she hesitates long enough to negotiate him down to three keys chosen from Tarek's collection.
 
-The [[Rakshasa]], having long ago become obsessed with the stories that can only be learned in gloaming, travelled the [[Twilight Kingdom]] until he came to this house. He then tells [[The Story of a Fey Bargain Struck|the tale of Lord Endlessly Ending]]. He explains that, at the height of the party, the neighbors, led by a human wizard, came to Lord Revel Beginning (as the master of the house was then called) and asked him to send mortal guests to their house. Gifts and stories failed, so a wizard who led the delegation beat Revel in a contest of poetry and naming -- in doing so, transforming the house from a party beginning to one ending, and changing Lord Revel Beginning into Lord Endlessly Ending.
+The [[Rakshasa]], having long ago become obsessed with the stories that can only be learned in gloaming, travelled the [[Twilight Kingdom]] until he came to this house. He then tells [[The Story of a Fey Bargain Struck|the tale of Lord Endlessly Ending]]. He explains that, at the height of the party, the neighbors, led by a human wizard, came to [[Lord Endless Ending|Lord Revel Beginning]] (as the master of the house was then called) and asked him to send mortal guests to their house. Gifts and stories failed, so a wizard who led the delegation beat Revel in a contest of poetry and naming -- in doing so, transforming the house from a party beginning to one ending, and changing [[Lord Endless Ending|Lord Revel Beginning]] into [[Lord Endless Ending|Lord Endlessly Ending]].
 
 [[Ayveen]] asks whether the [[Rakshasa]] needs to leave before the grandfather clock chimes again, but he says he has time because other mortals remain. When the party explains that Hulda sent them, he recognizes Hulda as the angry man who tried to bully the Lord in his own manor and says, freely, that shouting does not work. [[Edric]] studies him and reads no friendship in him, but no lie either: the [[Rakshasa]] keeps his own counsel, acts for his own purposes, but speaks true.
 
@@ -81,12 +75,12 @@ The [[Rakshasa]], having long ago become obsessed with the stories that can only
 
 ## Cast of Characters
 
-- [[Lord Endless Ending]]: tall masked figure seen through the owl's eyes.
-- [[Pandel]]: drunken halfling guest.
-- [[Rakshasa]]: tiger-headed mortal guest.
+- [[Lord Endless Ending]] (they/them, fae): tall masked figure seen through the owl's eyes.
+- [[Pandel]] (he/him, halfling): drunken halfling guest.
+- [[Rakshasa]] (he/him, tiger-headed mortal): tiger-headed mortal guest.
 
 ## Places
 
-- [[Dandelion House]] (manor house in the [[Varrow Forest]], [[Sembara]]): old manor whose subcellar contains the hidden root passage to the [[Twilight Kingdom]]. Session context includes: subcellar, hidden door, and root tunnel.
-- [[Twilight Kingdom]]: Feywild realm of fixed sunset, many distant houses, and roads between them. Session context includes: ruined root house, twilight road, high hedgerow, and silver gate to [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
-- [[Lord Endless Ending's Manor]]: fey manor caught in the repeated ending of a party hosted by [[Lord Endless Ending]]. Session context includes: silver gate, sloping lawns, patios, bar room, library, back porch, and ballroom.
+- [[Dandelion House]] (manor house in the [[Varrow Forest]], the [[Duchy of Telham]]): old manor whose subcellar contains the hidden root passage to the [[Twilight Kingdom]]. Session context includes: subcellar, hidden door, and root tunnel.
+- [[Twilight Kingdom]] (extraplanar domain in the [[Feywild]], [[Multiverse]]): Feywild realm of fixed sunset, many distant houses, and roads between them. Session context includes: ruined root house, twilight road, high hedgerow, and silver gate to [[Lord Endless Ending's Manor|Lord Endless Ending's manor]].
+- [[Lord Endless Ending's Manor]] (fey manor in the [[Twilight Kingdom]], the [[Feywild]]): fey manor caught in the repeated ending of a party hosted by [[Lord Endless Ending]]. Session context includes: silver gate, sloping lawns, patios, bar room, library, back porch, and ballroom.

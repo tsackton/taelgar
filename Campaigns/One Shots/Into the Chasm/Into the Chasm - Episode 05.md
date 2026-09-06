@@ -30,7 +30,7 @@ The party descends from Eidrikas's broken runic platform through a series of flo
 
 ## Cast of Characters
 
-- [[Eidrikas]] (*AYD-ree-kahs*; he/him): injured mentor and caretaker.
+- [[Eidrikas]] (*AYD-ree-kahs*; he/him, human): injured mentor and caretaker.
 - Damaged custodian automaton: broken guardian and repair functionary.
 
 ## Places

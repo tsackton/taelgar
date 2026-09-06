@@ -7,9 +7,9 @@ realWorldDate: 2026-07-27
 DR: 1740-10-06
 DR_end: 1740-10-06
 players: [Kaito Min, Edric, Ayveen, Txarro]
-name: 'Lost in the Feywild: Episode 06'
-descTitle: The Stories We Carry
-tagline: in which stories open the door to darkness
+name: "Lost in the Feywild: Episode 06"
+descTitle: "The Stories We Carry"
+tagline: "in which stories open the door to darkness"
 sessionKey: lost-in-the-feywild-session-6
 session-template: feywild-template.md
 websiteSessionView: zoomable
@@ -24,11 +24,11 @@ websiteSessionView: zoomable
 
 The party recruits [[Aurae]], rejects Arithrimos Lamperum's soul bindery, and enters the central prison as [[Menestheus]] succumbs to the fungal transformation.
 
-> [!quote] %% NO TITLE %%
-> *I know that I'm not happy, alone by myself. I've read all of these books already.* - Aurae
+> [!quote] Aurae
+> *I know that I'm not happy, alone by myself. I've read all of these books already.*
 ## Audio Highlights
 
-**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure:** 
+**The party discovers three superimposed prison doors showing the captive as a child, a joyful young adult, and a frightened prematurely aged figure.:** 
 ![[assets/session-audio/lost-in-the-feywild-session-6/lost-in-the-feywild-session-6-audio-005.m4a]]
 
 ## Timeline
@@ -37,13 +37,13 @@ The party recruits [[Aurae]], rejects Arithrimos Lamperum's soul bindery, and en
 
 ## Narrative
 
-> [!image]
-> ![[27th-house-library.png]]
-> *The automaton assistant in the library of the [[27th House]]*
-
 We begin in the library outside the central prison. After reconsidering their tangled obligations to [[Lord Hulda|Hulda]], [[Lord Endless Ending]], and the prisoner, the party turns to the limbless clockwork figure watching over the library. It explains that it has read every volume, measures the passage of centuries by listening to their paper age, and out of boredom, has taken to writing stories about everyone it meets.
 
 Although forbidden to answer direct questions about the prisoner, it remembers an unnamed human member of [[Arithrimos Lamperum]] who consulted *[[Allegories for the Initiated]]* before entering the central room. The assistant confirms that the glass key could open the complex's front door, but warns that 112 of the prison's visitors -- roughly two thirds of everyone who entered -- returned as mushroom men while the rest never emerged.
+
+> [!image|figure large]
+> ![[27th-house-library.png]]
+> *The automaton assistant in the library of the [[27th House]]*
 
 Meanwhile, [[Txarro]] consults his lizardfolk ancestors, who suggest that returning the glass key to [[Lord Endless Ending]] could bring both good and ill, but there is no obvious evil path here. Seeking to learn more from the library, the party asks the automaton for information, who directs them to *[[On the Science and Possibilities of Soul Bindery]]*. Its unnamed [[Arithrimos Lamperum]] author enthusiastically proposes using captive souls to power liches, golems, and other devices. 
 
@@ -57,7 +57,7 @@ At the prison door, they find three doors occupying the same space, showing the 
 
 ## Cast of Characters
 
-- [[Aurae]] (construct): clockwork research assistant who takes a name and joins the party.
+- [[Aurae]] (*OUR-ray or ARR-ray*; they/them, construct): clockwork research assistant who takes a name and joins the party.
 - [[Menestheus]] (he/him, Drankorian human): idisplaced Drankorian mathematician and mapmaker who completes his fungal transformation and attacks at the prison door.
 - the prisoner: captive seen in three superimposed states through the prison doors.
 - [[Lord Endless Ending]] (they/them, fae): fey lord who asked for the glass key.
@@ -67,5 +67,5 @@ At the prison door, they find three doors occupying the same space, showing the 
 
 ## Places
 
-- [[27th House|27th Room]] (fey house in the [[Twilight Kingdom]], the [[Feywild]]): vast shifting complex built around a central prison and used by [[Arithrimos Lamperum]] to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
+- [[27th House|27th Room]] (manor in the [[Twilight Kingdom]], the [[Feywild]]): vast shifting complex built around a central prison and used by [[Arithrimos Lamperum]] to keep its captive displaced across space and time. Session context includes: room 26 library immediately outside the central prison.
 - central prison: lightless chamber reached through superimposed doors that show its captive at different ages. Session context includes: through the three superimposed prison doors.
