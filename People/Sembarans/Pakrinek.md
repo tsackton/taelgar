@@ -2,15 +2,15 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/ai]
+tags: [person, status/check/mike]
 species: kenku
-died: 1730
+died: 1730-01-23
 name: Pakrinek
 pronunciation: PACK-ree-neck
 affiliations:
   - {org: Kemeko Monastery, title: warrior}
 whereabouts:
-  - {type: away, start: 1730-01-08, location: Great Chasm}
+  - {type: away, start: 1730-01-08, end: 1730-02-01, location: Great Chasm}
 knownTo: [itc]
 dm_owner: none
 dm_notes: none
@@ -20,21 +20,19 @@ POV: 1730
 *(PACK-ree-neck)*
 >[!info]+ Biographical Info  
 > A [[Kenku|kenku]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% AI generated: review metadata for accuracy and review text for polish%%
+Pakrinek was a kenku warrior of [[Kemeko Monastery]]. 
 
-Pakrinek was a kenku warrior of [[Kemeko Monastery]]. In January 1730, Pakrinek accompanied the [[Vejo Vaikai]] expedition led by [[Eidrikas]] into the [[Great Chasm]] as one of the warriors assigned to protect the mystics.
+%%^Date: 1730-02-01%%
+In January 1730, Pakrinek accompanied the [[Vejo Vaikai]] expedition led by [[Eidrikas]] into the [[Great Chasm]] as one of the warriors assigned to protect the mystics. He was killed by orcs at a runic mechanism in the chasm.
+%%^End%%
 
-Pakrinek was killed by orcs at a runic mechanism in the chasm, according to [[Eidrikas|Eidrikas's]] account to the [[Chasm Explorers]] later that month.
-
-%%
-AI note: [[Into the Chasm - Episode 01]] establishes the expedition; [[Into the Chasm - Episode 04]] records Eidrikas reporting Pakrinek's death. Gender and age are not established by these sources.
-%%
 
 %%^Metadata:names:v1%%
-- {name: Pakrinek, language: unknown, pronunciation: PACK-ree-neck, status: documented}
+- {name: Pakrinek, language: Zimkovan, pronunciation: PACK-ree-neck, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

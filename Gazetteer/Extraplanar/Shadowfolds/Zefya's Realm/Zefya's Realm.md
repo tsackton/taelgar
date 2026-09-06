@@ -1,6 +1,7 @@
 ---
 tags: [place, status/stub]
 typeOf: extraplanar domain
+displayDefaults: {defArt: ""}
 ---
 
 
