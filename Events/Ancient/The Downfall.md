@@ -1,20 +1,24 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [event, status/stub, status/check/lint]
+tags: [event, status/stub]
 typeOf: cataclysm
-campaignInfo: []
 name: The Downfall
 aliases: [Downfall]
 dm_owner: tim
 dm_notes: important
 POV: undated
 ---
+# The Downfall
 
-%% no useful player-facing text; tagging as stub and setting to comment %%
+The Downfall was the cataclysm at the end of the [[Downfall Wars]], remembered for the sinking of [[Hkar]] and the reshaping of much of the world of Taelgar beyond. Refugees from Hkar founded [[Drankor]], from which the [[Drankorian Empire]] grew.
+
 
 %%
 ### The Downfall
+
+**this is obsolete but could be mined for useful data**
 
 The scholars of the elves describe the Downfall, the events surrounding the fall of Hkar and the wars against the spawn of the Three Despairs, thusly:
 

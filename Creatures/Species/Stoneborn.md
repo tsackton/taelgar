@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [creature, status/wip, status/check/lint]
+tags: [creature, status/wip]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 dm_owner: joint

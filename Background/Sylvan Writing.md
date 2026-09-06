@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/lint]
+tags: [background]
 name: Sylvan Writing
 dm_owner: none
 dm_notes: none
@@ -31,18 +31,4 @@ Additionally, although this might not be well known, the fey have developed a wa
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference description of Sylvan writing, with undated historical development of its nonmagical orthographies.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit display name, a minimal name block, and broadly modern temporal metadata.
-
-### Validated judgments
-- The visible magical-script and Elvish-orthography account agrees with [[Languages#Sylvan]]. No local DM evidence was found.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.public_material_candidate:** The ordinary comment beginning “Fey writing originated in mythic days” contains a coherent extension of the visible account: emotional enchantments can be applied to other languages. Consider adopting only this public-safe candidate: “Fey can also imbue writing in other languages with emotional enchantments. In Sylvan, these enchantments are necessary to distinguish meanings that the visible glyphs leave ambiguous.” This clarifies what is unique to Sylvan while preserving the existing requirement that writing must be read and understood to affect a reader. This proposal comes from a noncanonical shared comment, not independent established lore; keep its separate origin and Elvish-development notes hidden pending a decision.
 %%^End%%
