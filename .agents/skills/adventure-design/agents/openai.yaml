@@ -1,4 +1,4 @@
 interface:
   display_name: "Adventure Design"
-  short_description: "Guided premise-level adventure pre-design"
-  default_prompt: "Use $adventure-design to guide me through the premise-level design of a Taelgar adventure."
+  short_description: "Guided adventure premise and structure design"
+  default_prompt: "Use $adventure-design to guide me through the premise and structure of a Taelgar adventure."
