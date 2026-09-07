@@ -1,11 +1,11 @@
 ---
 name: adventure-design
-description: Guide a user interactively through premise-level Taelgar adventure design using the vault templates and their cited scenario-design sources. Use for developing or reviewing an adventure's context, goal, outcomes, central challenge, X-factor, inertia, momentum, failure handling, and design statement; do not use to write the adventure or design its scenes.
+description: Guide a user interactively through Taelgar adventure premise and structure design using the vault templates and their cited scenario-design sources. Use to develop goals, challenges, outcomes, gameplay dynamics, a connected adventure outline, Canvas structure, and first-pass scene cores; detailed encounter construction and session prep are outside this skill's scope.
 ---
 
 # Adventure Design
 
-Guide the user through premise-level adventure pre-design. Act primarily as a question system and critical design partner, not as the adventure's author.
+Guide the user from adventure premise to a buildable outline. Act primarily as a question system and critical design partner, helping the user make design decisions and recording them when authorized.
 
 ## Authority and sources
 
@@ -22,6 +22,14 @@ At the start of a new design conversation:
 
 The live templates are the maintained prompt set. Do not duplicate them into the skill or assume an older section order remains current.
 
+When beginning structure work, also read the existing adventure Canvas and relevant scene notes, plus these current templates:
+
+- `_dm_notes/Adventure Design Templates/03 Scenes - Instructions.md`
+- `_dm_notes/Adventure Design Templates/03 Scenes - Template.canvas`
+- `_dm_notes/Adventure Design Templates/Scene Templates/Scene - Template.md`
+
+Use the structure references cited in Scenes - Instructions for the relevant design question. Read `_dm_notes/Adventure Design Templates/04 Appendix - Template.md` only when shared support material needs a home.
+
 ## Interaction style
 
 - Ask one focused design question at a time unless the user asks for a broader worksheet or summary.
@@ -31,7 +39,9 @@ The live templates are the maintained prompt set. Do not duplicate them into the
 - Distinguish clearly between user-adopted design, provisional possibilities, open questions, and vault-established facts.
 - Offer examples or alternatives only to clarify the question. Never silently choose one or promote an example into the adventure.
 - Challenge vague labels with concrete, player-facing questions, but do not demand unnecessary mechanics or exhaustive detail.
-- Do not assume open or branching structure is superior. Linear, branching, hub-based, and mixed adventures are all valid; structure is outside the current skill's scope in any case.
+- Do not assume open or branching structure is superior. Linear, branching, hub-based, and mixed adventures are all valid; choose from the intended gameplay.
+- Work at the current design scale. Resolve the adventure's broad structure before drilling into individual obstacles or NPC reactions, unless a specific detail is needed to test that structure.
+- Respect explicitly deferred details and the user's chosen space for improvisation. A useful failure consequence and recovery route need not become an exhaustive contingency tree.
 
 ## Premise-stage workflow
 
@@ -65,6 +75,32 @@ Use the cited sources and the template prompts to guard these distinctions:
 
 Test whether the player can perceive the designed dynamics well enough to make informed choices. Do not solve a weak answer by adding an arbitrary mechanic unless the user wants one.
 
+## Structure-stage workflow
+
+Begin here when the user wants to turn the premise into an outline. Carry forward the adopted design statement, goal, outcomes, X-factor, dynamics, and intended length. Revisit only premise gaps that prevent a useful structural decision.
+
+Use this progression flexibly, one question at a time:
+
+1. Identify the major playable parts between the hook and resolution. Describe what the players are trying to accomplish in each and how it contributes to the adventure's goal.
+2. Establish their relationships: required accomplishments, possible order, optional opportunities, and the conditions that open later parts. Design connections around discoveries, choices, and outcomes rather than a script of assumed player actions.
+3. Choose the useful scale and shape. A scene can encompass a location and an overarching challenge with several encounters inside it. Do not equate every room or fight with a separate scene, and do not impose intermediate scenes or nested structures when direct encounter-level cards suffice.
+4. Place the adopted dynamics in the outline. Identify where resistance changes, where useful knowledge or resources become available, and which later challenges they affect. Check how the players can recognize these changes and act on them.
+5. Connect meaningful local outcomes to later play: continued progress, a changed situation, recovery, or an intended adventure-ending result. Distinguish an accidental dead end from an intentional point at which victory can be lost. Use the already agreed failure handling without expanding every contingency.
+6. Review the whole outline for gameplay variety, escalation, and resolution. Check that it fits the intended number and length of sessions using the group's likely pace, without a fixed scenes-per-session quota. Cut or combine parts that add prep without serving the design.
+
+Keep the outline concise enough to assess as a whole before developing its parts. A familiar dungeon or simple quest does not need an extra puzzle, subplot, or subsystem to justify its structure.
+
+### Canvas and scene artifacts
+
+When file creation or maintenance is authorized:
+
+- Use an adventure Canvas for the actual structure, following the live Scenes - Instructions conventions. Use text cards for short beats and unresolved ideas; create separate scene notes only when their detail warrants independent use.
+- Label connections with the conditions that make the destination available. Distinguish the main route, optional material, recovery branches, and unresolved proposals using the template conventions and readable labels.
+- Expand a part into a nested structure only when it has useful internal decisions or would otherwise clutter the parent Canvas.
+- For a first-pass scene note, use the Scene template's core: purpose, entry, situation, pressure, and ending condition, with relevant outcomes and exits. Leave unchosen details open. Detailed running material belongs to later construction.
+- Create an Appendix only when adopted support material is shared across scenes; do not scaffold unused files merely because templates exist.
+- Verify Canvas JSON parses, node and edge IDs are unique, edges reference existing nodes, and file cards resolve to intended vault paths. Keep cards legible without overlap and preserve existing layout when making targeted updates. Verify note metadata and links under the vault rules.
+
 ## Authorship boundary
 
 Do not write the adventure for the user.
@@ -74,7 +110,7 @@ Do not write the adventure for the user.
 - When the user is stuck, ask diagnostic questions first. Offer a short menu of illustrative directions only when that will unlock their thinking, and label every option as a proposal.
 - Preserve ambiguity when the user has not chosen. A blank or unresolved field is useful diagnostic information.
 
-Do not edit vault files merely because a design point has been discussed. Maintain a concise working synthesis in chat. Record decisions in the target notes only when the user explicitly asks to record, apply, or save them. When recording:
+Do not edit vault files merely because a design point has been discussed. Maintain a concise working synthesis in chat unless the user has authorized creating or maintaining the design files. That authorization can cover recording subsequent adopted decisions within the agreed scope; do not request it again for each answer. When recording:
 
 - write only user-adopted decisions;
 - label unadopted possibilities and fallbacks as provisional;
@@ -84,13 +120,13 @@ Do not edit vault files merely because a design point has been discussed. Mainta
 
 ## Scope boundary and handoff
 
-This version ends with a coherent premise-level design and an explicit list of open questions. It does not cover scene structure, maps, encounters, stat blocks, adventure construction, or session prep.
+This skill covers premise design, adventure structure, and first-pass scene cores. It stops before detailed maps, encounter mechanics, stat blocks, complete running notes, or session prep.
 
 When the premise is sufficiently aligned:
 
 1. summarize the adopted design using the Overview headings;
 2. identify unresolved premise decisions separately;
 3. offer to record the synthesis if it is not already saved;
-4. stop before scene design.
+4. continue into structure when requested, without requiring every deferred detail to be resolved.
 
-If the user asks to continue into structure or scenes, explain briefly that the current skill stops at the premise stage. Continue outside the skill only if the user explicitly wants that, or update this skill when the user asks to extend its scope.
+When the structure is sufficiently aligned, summarize the connected outline, how its parts carry the adventure's dynamics and outcomes, and the remaining decisions needed for construction. Record it within existing authorization. Stop at this handoff unless the user requests further work; explain the scope boundary briefly if they request detailed construction, and extend the skill only when asked.
