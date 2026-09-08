@@ -104,12 +104,11 @@ Thursday, January 15, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Great Chasm]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): immense chasm and ancient mechanism site where [[Eidrikas]] holds a damaged runic platform together while the party descends after the stolen stabilizing stone. Session context includes: floating rock beside Eidrikas's tilted runic platform above the suspended cylindrical structure.
-- [[Great Chasm]] suspended structure: broken multi-level structure beneath Eidrikas's platform, containing warped gravity, a damaged custodian, dangerous lightning systems, and the ruined chamber where the orcs gather. Session context includes: climbing out, repositioning the floating stone, and and opening the last hatch into the larger lower section.
+- [[Great Chasm]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): immense chasm and ancient mechanism site where [[Eidrikas]] holds a damaged runic platform together while the party descends after the stolen stabilizing stone. Session context includes: floating rock beside Eidrikas's tilted runic platform, heavy-gravity upper chamber, custodian chamber, lightning chamber, and ruined lower hall.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Great Chasm]] and [[Great Chasm]] suspended structure
+[[Great Chasm]]
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->

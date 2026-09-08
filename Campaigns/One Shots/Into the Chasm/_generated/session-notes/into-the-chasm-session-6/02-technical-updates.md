@@ -20,7 +20,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1730-01-29), evening: The party recovers the keystone, but postpones repairing the chasm engine long enough to return to [[Melusa]], where they evacuate a handful of willing dissident.
+- (DR:: 1730-01-29), evening: The party recovers the keystone, but postpones repairing the chasm engine long enough to return to [[Melusa]], where they evacuate a few dozen willing villagers.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->

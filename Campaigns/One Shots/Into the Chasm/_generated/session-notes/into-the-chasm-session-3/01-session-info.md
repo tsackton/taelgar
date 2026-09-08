@@ -89,11 +89,11 @@ Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekk
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
-2026-01-08
+2025-12-16
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date_long -->
-Thursday, January 8, 2026
+Tuesday, December 16, 2025
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
@@ -108,11 +108,11 @@ Thursday, January 8, 2026
 - [[Nura]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Kalima's sister and host of the [[Chasm Explorers]] in [[Melusa]].
 - [[Khaled]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Nura's husband.
 - [[Samir]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Nura]] and Khaled's child, a strange too-knowing baby with an old soul.
-- Forquarion the Frostbinder: master of the beast and supposed lord of the Ice Palace.
+- [[Forquarion|Forquarion the Frostbinder]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): master of the beast and supposed lord of the Ice Palace.
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Zeyfa's Labyrinth]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zefya's beast..
+- [[Zeyfa's Labyrinth]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zeyfa's beast..
 - [[Melusa]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace. Session context includes: lower cliffside paths, ledge village, and [[Nura]] and Khaled's house.
 <!-- /SLOT -->
 
@@ -124,7 +124,7 @@ Thursday, January 8, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->
-**Zefya's Beast and the Living Snow Echoes.** The party faces the shaggy white beast, Zeftya's monster feared by [[Kalima]], who is using living snow echoes of the party to protect itself.  The [[Chasm Explorers]] keep [[Kalima]] hidden, break the Living Snow echoes, and kill the beast.
+**Zeyfa's Beast and the Living Snow Echoes.** The party faces the shaggy white beast, Zeyfa's monster feared by [[Kalima]], who is using living snow echoes of the party to protect itself.  The [[Chasm Explorers]] keep [[Kalima]] hidden, break the Living Snow echoes, and kill the beast.
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->

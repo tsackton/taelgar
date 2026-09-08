@@ -29,7 +29,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
-- Forquarion the Frostbinder: no matching note found in the vault index
 - Severed head of the shaggy white beast: no matching note found in the vault index
 - Sylvan-inscribed disk: no matching note found in the vault index
 <!-- /SLOT -->

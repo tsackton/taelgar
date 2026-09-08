@@ -6,12 +6,11 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1730-01-29), afternoon: party ends at [[Great Chasm suspended structure]].
+- Candidate party whereabouts: (DR:: 1730-01-29), afternoon: party ends at [[Great Chasm]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
 - [[Great Chasm]]: visited on 1730-01-29.
-- [[Great Chasm]] suspended structure: visited on 1730-01-29.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
@@ -31,6 +30,5 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.review -->
 - Damaged custodian automaton: no matching note found in the vault index
-- Great Chasm suspended structure: no matching note found in the vault index
 - Black runic stone: no matching note found in the vault index
 <!-- /SLOT -->
