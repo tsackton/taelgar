@@ -3,11 +3,11 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [group, status/check/lint]
+tags: [group]
 typeOf: adventuring party
 name: "Oskar's Companions"
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: 1748
 ---
 # Oskar's Companions
@@ -25,20 +25,4 @@ In addition to [[Oskar]], [[Stoneclaw]], and [[Riswynn]], other companions inclu
 
 %%^povNotes:v1%%
 Temporal coverage: the group's bounded period of activity around Tharn Todor from late April through early June DR 1748.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit name preferred by the full metadata profile.
-- Added a minimal Common name entry; the ordinary possessive title needs no separate pronunciation.
-- Added a DR 1748 `POV` and the established late-April through early-June activity window.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Suggestion — dm.notes_no_local_evidence:** No local-only `_DM_` notes were found for this subject. Verify the positive `dm_notes: important` attestation; it may still represent remembered information or another off-vault source, so do not remove it automatically.
 %%^End%%

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/stub, status/check/lint]
+tags: [person, status/stub, status/check/mike, status/check/lint]
 name: Cadogan
 pronunciation: ka-DOH-gan
 knownTo: []

@@ -23,8 +23,10 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% status/review -> Important figure with more information in various linked notes and backlinks, so could probably use a review pass %%
+
 The founder of the [[House of Sewick]], he established modern Sembara at the [[Treaty of Wisford]] in the fall of 1429 and reigned over a united Sembara and Tyrwingha until his death in DR 1462.
 
 He had five children, and was succeeded by his second son, [[Derik II]].  His third child, Matilda, inherited the Duchy of Telham, and after his reign the Sembaran royalty no longer styled themselves "Dukes of Telham". 
 
-%% Important figure with more information in various linked notes and backlinks, so could probably use a review pass %%
+

@@ -16,7 +16,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Few reliable reports of planar travelers have come from the plane known as Limbo. Scattered fragments of lost poems and confused ramblings, collected by [[Gaius Devarro]], hint at a place of churning chaos, where nothing holds its shape for long; stone melts to water, which freezes to fire at a whim, before bursting into a diamond that blows away as snow. [[Marcion of Iridel]], quoting a fragment of a lost treatise called the [[The Unstable Sphere]], called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. 
+Relatively few reliable reports of planar travelers have come from the plane known as Limbo. Scattered fragments of lost poems and confused ramblings, collected by [[Gaius Devarro]], hint at a place of churning chaos, where nothing holds its shape for long; stone melts to water, which freezes to fire at a whim, before bursting into a diamond that blows away as snow. [[Marcion of Iridel]], quoting a fragment of a lost treatise called the [[The Unstable Sphere]], called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. 
 
 The origins of Limbo defy any explanation, although [[Yendalo]] speculated that Limbo may in fact be a shifting wound in reality itself, where the fundamental essences of existence refuse to take any permanent shape.
 
@@ -24,12 +24,25 @@ The origins of Limbo defy any explanation, although [[Yendalo]] speculated that 
 
 Plane of Chaos. Associated with Cha'mutte.
 
+Research from the Dunmar Frontier campaign expanded this note, see in particular:
+[[Research about Ancient Sources on Limbo]]
+[[Research about Limbo and Cha'mutte]]
+[[Research about Limbo and the Plaguelands]]
+[[Interlude (Preparations for Limbo)]]
+[[Philosopher's Information Concerning Limbo]]
+[[Philosopher's Information Concerning Extraplanar Wounds]]
+
+Plus these references:
+[[Experiments upon the Planar Substance]]
+[[On Minds and Chaos]]
+
+
 %%^End%%
 
 %%SECRET[v2:457fac0c729fbc40e31132fefb6a7814]%%
 
 %%^Metadata:names:v1%%
-- {name: Limbo, language: unknown}
+- {name: Limbo, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%

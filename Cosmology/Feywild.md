@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>", defArt: the}
-tags: [place, status/review, status/check/lint]
+tags: [place, status/review]
 typeOf: plane
 name: Feywild
 whereabouts:
@@ -18,7 +18,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/incomplete -> a page like this is never really done. this is complete for usability, but tagging status/incomplete for:
+%% status -> a page like this is never really done. this is complete for usability, but tagging status/review for:
  - [ ] a Tyrwinghan perspective on fey inhabitants, in particular would be useful
  - [ ] additional in-world lore and stories of the Archfey would be nice
  - [ ] more non-human perspectives and non-traditional viewpoints (e.g.: orcs, Skaer, Deno'qai) would be particularly nice on a page like this
@@ -149,29 +149,9 @@ The politics and political organization of the Feywild is based around the realm
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Feywild, language: unknown}
+- {name: Feywild, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference prose about the Feywild's geography, inhabitants, travel, and folklore; cited traditions and historical examples do not narrow the article's speaking position.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter; added explicit subject identity, persistent name metadata, and temporal POV metadata; and corrected unambiguous grammar and punctuation defects in visible and shared nonpublic prose.
-
-### Validated judgments
-- `typeOf: plane` is the canonical classification for the subject.
-- The displayed name is an obvious ordinary compound, so no pronunciation field is required.
-- The existing `status/review` tag remains supported by explicit editorial reminders and unresolved shared nonpublic material.
-
-### Open findings
-
-- [x] **Suggestion — editorial.reference_voice:** The opening paragraph and the first paragraphs under **People of the Feywild** and **Archfey and Fey Realms** rely on broad, repetitive phrases such as “a place of contrasts and mystery,” “awe and trepidation in equal measure,” and “as varied and diverse as the fey themselves.” These passages obscure the supported claims that Chardonian scholars classify the Feywild as a material echo, that its inhabitants include fae, fairies, and satyrs, and that archfey shape their domains. Rewrite those bounded passages in direct reference voice while preserving those claims, their attribution, and the note's uncertainty; a human rewrite is required, so no replacement text is supplied.
-- [ ] **Suggestion — editorial.public_material_candidate:** The `Campaign:none` block's **Fey Inhabitants and Behavior** subsection contains a coherent, public-safe account of bargains, gifts, and literal speech that is not fully represented in the visible article, while neighboring geography repeats public prose and the politics section is explicitly noncanonical. If this bounded subset is adopted, add after the examples in **People of the Feywild**: “Fey custom treats bargains, gifts, and hospitality as binding exchanges. A gift or favor creates an obligation of roughly equal value, and breaking an agreement can bring severe curses. Many fey avoid direct lies but readily mislead by omission, implication, or literal interpretation.” Leave the explicitly noncanonical politics private.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 119 - In Game Notes]]
 %%^End%%

@@ -20,6 +20,8 @@ POV: "1749"
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% status/review -> some incomplete sections and needs a general cleanup pass %%
+
 Chardon is a city of many things. It is the bustling capital and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic, host to the scholars, wizards, and academics of the [[Great Library]] and the [[University of Chardon]]. It is a trade hub and economic powerhouse, known primarily as the only source of processed [[chalyte]], but also as a city of artisans, producing clocks, optics, fine weaponry, scrolls, and other high value goods, and more recently as a major shipbuilder.
 
 Founded as a small outpost of the [[Drankorian Empire]] more than 1000 years ago, over the course of its long history Chardon has grown from a backwater to among the most powerful and cosmopolitan cities of the known world, home to more than 500,000 people. Like [[Drankor]] before it, Chardon is a city full of professional associations, scholarly societies, private clubs, and collegia, some more secret than others. Most well known are the magical organizations: the secretive [[Hetaeri Magica]], the scholarly [[Society of the Open Scroll]], and the famous faculty of the [[University of Chardon]]. But numerous smaller societies form the fabric of social life in Chardon. 
