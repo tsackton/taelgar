@@ -2,32 +2,6 @@ currentLinterVersion:: "3.5"
 lintedCleanAfter:: 2026-08-23T08:00:45-04:00
 lintedAfter:: 2026-08-23T08:00:45-04:00
 
-### Need Lint Cleanup
-
-Has the lint status tag and the current linter version. 
-
-```dataview
-TABLE join(split(file.path, "/", 2), "/") as Folder, 
-      length(file.inlinks) as Backlinks
-FROM #status/check/lint and !#status/check/mike
-WHERE lintVersion = this.currentLinterVersion
-FLATTEN length(file.inlinks) AS BacklinkCount
-SORT join(split(file.path, "/", 2), "/")
-```
-
-### Need Lint Cleanup - Mike
-
-Has the lint status tag and the current linter version. 
-
-```dataview
-TABLE join(split(file.path, "/", 2), "/") as Folder, 
-      length(file.inlinks) as Backlinks
-FROM #status/check/lint and #status/check/mike
-WHERE lintVersion = this.currentLinterVersion
-FLATTEN length(file.inlinks) AS BacklinkCount
-SORT BacklinkCount DESC
-```
-
 ## Recent Runs
 
 All linted notes after the lintedAfter time above. 

@@ -17,7 +17,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/incomplete ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
+%% status/review ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
 
 The ruler of [[Twilight's Grace]] and patron of [[Tyrwingha]]. 
 

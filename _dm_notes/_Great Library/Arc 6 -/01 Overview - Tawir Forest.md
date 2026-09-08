@@ -43,6 +43,14 @@ Where does the adventure begin? How does the starting situation reveal the goal,
 
 The existing relationship supplies the connection: the party recovered a stolen roc egg, and Silverstorm aided them in the defense of Voltara. See [[Great Library Session Notes - Arc 2]]. The precise meeting circumstances and delivery contact remain to be filled in.
 
+Silverstorm explains the problem and offers to fly the party part-way. He is too conspicuous to approach the mountain openly: Zadkai would see him and recognize that something is happening. He drops the party at the edge of Tawir Forest, gives them directions, and leaves them to make the approach themselves.
+
+### Adopted journey to the lair
+
+The party must travel through Tawir Forest to the mountain where Airion's ancient lair sits, ideally avoiding Zadkai's notice while handling the forest's strangeness. The journey follows a mostly linear path and is largely atmospheric and introductory. It should highlight the strong magic at work and get the players thinking about the problems ahead and Zadkai's presence.
+
+The opening with Silverstorm and the forest journey should together take roughly the first one to two sessions, depending on the length of the opening scene. The forest's specific encounters and magical phenomena remain to be designed.
+
 ## Adventure goal
 
 References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
@@ -122,7 +130,17 @@ The specific triggers, limits, and manifestations of this adaptation remain to b
 
 ### Additional tension
 
-Zadkai's expeditions provide recurring opposition and tension, functioning like wandering monsters. A failed guardian assault followed by the party's retreat lets Zadkai obtain that guardian's key. His expeditions' other progress, responses to the PCs, and the effects of delay or rest remain undefined. No timed race or rule that resting automatically advances Zadkai has been adopted.
+Zadkai's expeditions provide recurring opposition and tension, functioning like wandering monsters. A failed guardian assault followed by the party's retreat lets Zadkai obtain that guardian's key. The effects of delay or rest remain undefined. No timed race or rule that resting automatically advances Zadkai has been adopted.
+
+### Adopted Zadkai alert progression
+
+The party's approach through the forest can raise Zadkai's alert level, functioning like a danger counter. Once he knows competitors are present, he increases the pace of his exploration.
+
+- One patrol going missing is not particularly surprising.
+- Two patrols going missing is worrisome.
+- If a patrol fights the party and one or more patrol members escape, Zadkai goes directly to high alert.
+
+The exact effects of concern and high alert on expedition progress remain to be designed. This escalation is a response to evidence of competitors, rather than an automatic consequence of the party taking time to travel or rest.
 
 ## Momentum
 

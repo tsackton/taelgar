@@ -14,7 +14,7 @@ dm_owner: none
 
 %% @Mike: minor fixing of typos but otherwise think the geography/climate is fine.%%
 
-%% status/incomplete -> really needs some mention of dwarves I think; also probably needs a comment about Lake Derwent %%
+%% status/review -> really needs some mention of dwarves I think; also probably needs a comment about Lake Derwent %%
 
 Ardlas is a region in the highlands of Greater Sembara. Originally settled by [[Zimka]] migrants, it straddles the upper [[Semb]] and has closer cultural ties to the Sembaran lowlands than the Zimkovan highlands.
 ### Geography and Climate

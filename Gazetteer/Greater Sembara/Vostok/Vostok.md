@@ -29,7 +29,7 @@ Vostok is probably Vosic in origin, but Drankorian in geographic scope. Somethin
 %%
 
 
-%% status/incomplete -> a blank spot that has minimal clear invention; probably okay to remain status/incomplete for a while %%
+%% status/review -> a blank spot that has minimal clear invention; probably okay to remain status/incomplete for a while %%
 
 %% a fair bit of discussion in discord, but not sure how much of it is (a) relevant, (b) not already captured in [[Humanity in Greater Sembara]] or [[Languages]] %%
 

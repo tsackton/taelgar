@@ -16,7 +16,7 @@ pronunciation: ss-VOL-las
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% tagging incomplete to do some cleanup of Alimash backstory, Skullcleaver Clan, Sharktooth Wars, and related events %%
+%% tagging status/review to do some cleanup of Alimash backstory, Skullcleaver Clan, Sharktooth Wars, and related events %%
 
 The Republic of Svolhas is a realm on the southeastern coast of [[Irrla]]. Its fertile lowlands are bordered by the island’s rough interior highlands, and its northeastern frontier is heavily fortified against the hobgoblin pirate clans who hold the eastern point of Irrla.
 

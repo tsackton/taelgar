@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author:nx>"}
-tags: [object, status/check/lint]
+tags: [object]
 typeOf: book
 typeOfAlias: religious text
 ancestry: Hkaran
@@ -30,29 +30,17 @@ The author speculates on the metaphysics of the choice of the gods, and how soul
 
 %%^Metadata:names:v1%%
 - {name: Journey of the Souls, language: Common, status: inferred}
-- {name: Journeys of Souls, role: alternate title, language: Common, notes: "Used as the filename and linked title in [[Session 16 (DuFr)]].", status: disputed}
+- {name: Journeys of Souls, role: alternate translation of the title, language: Common, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; the article summarizes an ancient pre-Downfall work and its claims rather than adopting the work's historical speaking position.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
+%%^Campaign:none%%
 
-### Applied changes
-- Added required campaign knowledge, explicit name identity, temporal POV metadata, and canonical frontmatter formatting.
-- Corrected “It is say” to “It is said.”
+Old DM notes on the content of this book, never introduced in play and slightly out of date with later invention, but preserved here for posterity. 
 
-### Validated judgments
-- Confirmed the displayed English title needs no pronunciation.
-- Reviewed matching local `_DM_` evidence without copying private contents into this report.
+(E) A final very rare book, chained as above. This is another Hkaran work, called "Journeys of Souls", by a philosopher Yaman Sohi, which describes the Hkaran theory that a great river connected all the domains of the afterlife, and when a soul departed this world, they first travel here, where they journey until they are collected by gods or demons or other powerful being of the divine realms, or join with the Duality (Arha and Malik), or fade away. Lots of speculation on what kinds of beings have souls that travel here: just humans? Elder races? Hobgoblins and orcs? The writer believes that all living things have souls, or nearly all, and that some just don't linger. In this writer's opinion, for example, many animals just don't linger for more than a moment, and so those powerful magical beings that have journeyed to this river of souls don’t encounter them.
 
-### Open findings
-
-- [x] **Warning — metadata.names_unresolved_status:** The note's `name` and heading use *Journey of the Souls*, while the filename and [[Session 16 (DuFr)]] use *Journeys of Souls*. Choose the accepted title and whether the other form remains an alias. Candidate: set `name` to the accepted form, add the other form to `aliases`, and mark both corresponding `Metadata:names:v1` entries documented or otherwise resolved.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Tower Text]]
-- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Stormcaller Tower - DM Version]]
 %%^End%%
