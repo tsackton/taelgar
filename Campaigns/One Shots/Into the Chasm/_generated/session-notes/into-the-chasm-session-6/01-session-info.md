@@ -97,16 +97,16 @@ Wednesday, February 4, 2026
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1730-01-29), evening: The party recovers the keystone, but postpones repairing the chasm engine long enough to return to [[Melusa]], where they evacuate a handful of willing dissident.
+- (DR:: 1730-01-29), evening: The party recovers the keystone, but postpones repairing the chasm engine long enough to return to [[Melusa]], where they evacuate a few dozen willing villagers.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
 - [[Eidrikas]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): mentor and living bridge in the mechanism.
-- [[Zahara]] (<(*)pronunciation(*;)> <typeof:sn>): leader of the dissidents.
+- [[Zahara]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): leader of the dissidents.
 - Older Melusan woman: skeptical elder rallying people to stay.
-- [[Iskander]] (<(*)pronunciation(*;)> <typeof:sn>): organizer of the willing group.
+- [[Iskander]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): organizer of the willing group.
 - [[Kalima]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): refugee among the willing.
-- [[Forquarion|Malquin the Vaqar]] (<(*)pronunciation(*;)> <typeof:sn>): missing ruler of [[Melusa]].
+- [[Forquarion|Malquin the Vaqar]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): missing ruler of [[Melusa]].
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->

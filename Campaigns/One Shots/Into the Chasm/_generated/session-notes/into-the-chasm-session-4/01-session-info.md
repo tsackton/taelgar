@@ -102,12 +102,12 @@ Thursday, January 8, 2026
 
 <!-- SLOT: cast -->
 - [[Kalima]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): guide to [[Melusa]] and Old Zimkovan woman rescued by the party.
-- [[Zahara]] (<(*)pronunciation(*;)> <typeof:sn>): leader of the [[Melusa]] rebels.
+- [[Zahara]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): leader of the [[Melusa]] rebels.
 - [[Samir]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): wakeful baby with a strange old soul.
 - [[Nura]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Kalima's sister and the party's host in [[Melusa]].
 - [[Taquin]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): an old soul speaking through the infant [[Samir]].
-- [[Iskander]] (<(*)pronunciation(*;)> <typeof:sn>): member of the rebels and Zahara's contact in [[Melusa]].
-- [[Forquarion|Malquin the Vaqar]] (<(*)pronunciation(*;)> <typeof:sn>): ruler of the demiplane; the Melusan name for [[Forquarion|Forquarion the Frostbinder]].
+- [[Iskander]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): member of the rebels and Zahara's contact in [[Melusa]].
+- [[Forquarion|Malquin the Vaqar]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): ruler of the demiplane; the Melusan name for [[Forquarion|Forquarion the Frostbinder]].
 - [[Eidrikas]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): druid in the [[Great Chasm]], member of the [[Vejo Vaikai]].
 - [[Pakrinek]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fallen kenku companion of [[Eidrikas]].
 <!-- /SLOT -->
