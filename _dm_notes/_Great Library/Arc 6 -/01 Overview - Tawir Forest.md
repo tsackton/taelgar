@@ -51,6 +51,14 @@ The party must travel through Tawir Forest to the mountain where Airion's ancien
 
 The opening with Silverstorm and the forest journey should together take roughly the first one to two sessions, depending on the length of the opening scene. The forest's specific encounters and magical phenomena remain to be designed.
 
+The intended woodland atmosphere draws on the real-world forests of Brittany. The forest's magic is independent of Airion; he hid a lair here, but it is cut off from the forest. The precise character of the forest's magical strangeness is deliberately deferred.
+
+### Adopted mountain ascent
+
+The next challenge is crossing a wind wall or unnatural storm during the ascent to the lair. The mountain itself is strange and somewhat unnatural, rising out of otherwise fairly flat forest. Its wooded lower slopes continue the surrounding woodland, but unnatural winds intensify as the party climbs. The summit is bare rock, effectively inside a cloud.
+
+Airion's lair sits on the summit. Its form remains undecided: a tower, cave system, castle, or another form. The storm crossing is one obstacle; its specific mechanics remain to be designed.
+
 ## Adventure goal
 
 References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
@@ -96,6 +104,14 @@ The PCs must overcome Airion's traps and recover three keys held by three guardi
 
 Zadkai has a base camp in the forest and sends expeditions to discover how to gain access to the treasury and recover the keys. His minions function like wandering monsters and provide tension during the party's exploration. The intended dynamic is exploring and overcoming the lair's defenses while rival expeditions are active; Zadkai is not simply pursuing the party through the lair.
 
+### Working dungeon structure
+
+The intended opening sequence inside the lair is to encounter the sealed treasury portal, discover that it needs three keys, and then find the paths to the three guardians holding those keys. The guardians are accessible in any order via three paths, with the portal providing a fourth route. The physical layout that supports this arrangement remains to be designed.
+
+Each time a path is defeated, the remaining paths adapt. Each guardian path also contains one or more optional rooms offering aid for the other paths. The working adventure structure is recorded in [[03 Scenes - Tawir Forest.canvas]].
+
+Whichever guardian the party tackles third serves as the lair's climax. Opening the portal and recovering Airion's hidden work follows as the reward. Any further climax after the third key would involve Zadkai, rather than another challenge from the lair; whether such a confrontation occurs and what form it takes remain open.
+
 ## X-factor
 
 Reference: [Momentous and Inertial Adventure Design](https://theangrygm.com/momentous-and-inertial-adventure-design/).
@@ -126,7 +142,7 @@ Inertia is a gameplay dynamic, not necessarily a new clock or mechanic.
 
 The lair responds to being invaded. Its defenses become harder and adapt to the party's tactics as the adventure develops.
 
-The specific triggers, limits, and manifestations of this adaptation remain to be designed, including how the players perceive it and respond.
+Defeating a guardian path causes the remaining paths to adapt. The specific limits and manifestations of this adaptation remain to be designed, including how the players perceive it and respond.
 
 ### Additional tension
 
@@ -158,7 +174,7 @@ Momentum is a gameplay dynamic, not necessarily a new point system or mechanic.
 
 Discoveries in the lair equip the party to overcome later opposition. Research, knowledge, and useful items, including one-use items, make it easier to defeat Zadkai and the lair's guardians. As the party succeeds and explores, these discoveries give them advantages against the remaining challenges.
 
-The specific discoveries and items remain to be designed.
+Each guardian path has one or more optional rooms that provide aid for the other paths. The specific discoveries and items remain to be designed.
 
 ## Failure handling
 
