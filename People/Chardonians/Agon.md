@@ -31,7 +31,7 @@ POV: 1748
 
 [[Vola]]'s mentor, a member of the [[Society of the Open Scroll]] and scholar in [[Chardon]]. 
 
-%%SECRET[v2:b75f5161cb699d4f396454f5bc4f7962]%%
+%%SECRET[v2:6aae86e6939479304cc5487efb192727]%%
 
 %%^Metadata:names:v1%%
 - {name: Agon, language: Chardonian, pronunciation: ah-GOHN, notes: "Proposed from the Italian and Latin analogue for Chardonian: hard g, open initial a, and final-syllable stress; exact in-world phonology is not established.", status: proposed}
