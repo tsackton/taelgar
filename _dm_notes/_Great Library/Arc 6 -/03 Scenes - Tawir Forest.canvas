@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"route-c","type":"text","text":"# Guardian path C\n\nDefeat or outwit the guardian to obtain its key.\n\nOne or more optional rooms offer aid for OTHER paths.\n\nDefeating this path causes remaining paths to adapt.\n\nGuardian, rooms, and adaptations undecided.","x":2250,"y":500,"width":420,"height":350,"color":"#8a62b5"},
+		{"id":"treasury","type":"text","text":"# Through the treasury portal\n\nRequires ALL THREE keys. The third guardian faced is the lair’s climax; recovering Airion’s gate work is the reward.\n\nAny further climax would involve Zadkai. Whether it occurs, and its form, remain open.","x":1650,"y":850,"width":420,"height":300,"color":"#4779b5"},
+		{"id":"delivery","type":"text","text":"# Success → Plane of Air\n\nEmerge from the lair with Airion’s work. Deliver it to the opposing faction’s contact, who provides the next adventure.","x":1650,"y":1300,"width":420,"height":240,"color":"#438d57"},
+		{"id":"pursuit","type":"text","text":"# Failure → Plane of Air\n\nIf Zadkai’s faction obtains Airion’s work first, pursue them and stop them from opening the gate.\n\nThis outcome can follow cumulative setbacks; a single lost key is recoverable.","x":2900,"y":850,"width":420,"height":280,"color":"#808080"},
+		{"id":"alert","type":"text","text":"# Zadkai’s alert progression\n\nOne patrol missing: not surprising.\nTwo patrols missing: worrisome.\nA patrol survivor escapes a fight with the party: immediate high alert.\n\nOnce Zadkai knows competitors are present, he accelerates exploration. Exact progress effects remain open.","x":550,"y":550,"width":420,"height":350,"color":"#808080"},
+		{"id":"overview","type":"file","file":"_dm_notes/_Great Library/Arc 6 -/01 Overview - Tawir Forest.md","x":0,"y":550,"width":420,"height":350},
+		{"id":"hook","type":"text","text":"# Silverstorm’s request\n\nRecover Airion’s gate work and deliver it to a Plane of Air contact.\n\nSilverstorm flies the party to the forest edge and gives directions. An open approach to the mountain would reveal his involvement.","x":-460,"y":0,"width":420,"height":300,"color":"#438d57"},
+		{"id":"forest","type":"text","text":"# Journey through Tawir Forest\n\nMostly linear; atmospheric and introductory. Follow directions, handle forest strangeness, and try to avoid Zadkai’s notice.\n\nOpening and journey: roughly 1–2 sessions together. The forest’s magic is independent of Airion; its character is deferred.","x":480,"y":-40,"width":420,"height":340,"color":"#4779b5"},
+		{"id":"ascent","type":"text","text":"# Mountain ascent\n\nWooded lower slopes rise above otherwise fairly flat forest. Unnatural winds intensify toward a bare summit within cloud.\n\nCross ONE wind wall or storm obstacle to reach the summit lair. Mechanics undecided.","x":1100,"y":-420,"width":420,"height":300,"color":"#4779b5"},
+		{"id":"portal","type":"text","text":"# Discover the sealed portal\n\nIntended first discovery inside the lair: the treasury portal requires three keys. Find the three guardian paths; choose their order.\n\nThe fourth route leads through the portal. This diagram shows access relationships; physical architecture remains open.","x":1180,"y":210,"width":420,"height":340,"color":"#8a62b5"},
+		{"id":"route-a","type":"text","text":"# Guardian path A\n\nDefeat or outwit the guardian to obtain its key.\n\nOne or more optional rooms offer aid for OTHER paths.\n\nDefeating this path causes remaining paths to adapt.\n\nGuardian, rooms, and adaptations undecided.","x":1960,"y":-595,"width":420,"height":350,"color":"#8a62b5"},
+		{"id":"route-b","type":"text","text":"# Guardian path B\n\nDefeat or outwit the guardian to obtain its key.\n\nOne or more optional rooms offer aid for OTHER paths.\n\nDefeating this path causes remaining paths to adapt.\n\nGuardian, rooms, and adaptations undecided.","x":2140,"y":60,"width":420,"height":350,"color":"#8a62b5"},
+		{"id":"camp","type":"text","text":"# Recovery: raid Zadkai’s camp\n\nA failed guardian assault followed by retreat gives Zadkai that key. Recovering it requires a raid on his forest camp.\n\nFurther failures trend toward adventure loss; exact consequences are improvised.","x":2980,"y":-420,"width":420,"height":340,"color":"#808080"}
+	],
+	"edges":[
+		{"id":"e-hook-forest","fromNode":"hook","fromSide":"right","toNode":"forest","toSide":"left","label":"Dropped at forest edge with directions"},
+		{"id":"e-forest-ascent","fromNode":"forest","fromSide":"right","toNode":"ascent","toSide":"left","label":"Reach the mountain"},
+		{"id":"e-ascent-portal","fromNode":"ascent","fromSide":"right","toNode":"portal","toSide":"left","label":"Cross the storm and enter the lair"},
+		{"id":"e-portal-a","fromNode":"portal","fromSide":"right","toNode":"route-a","toSide":"left","fromEnd":"arrow","label":"Choose path A / return with its key"},
+		{"id":"e-a-camp","fromNode":"route-a","fromSide":"right","toNode":"camp","toSide":"left","label":"Failed assault + retreat: Zadkai gets key"},
+		{"id":"e-portal-b","fromNode":"portal","fromSide":"right","toNode":"route-b","toSide":"left","fromEnd":"arrow","label":"Choose path B / return with its key"},
+		{"id":"e-b-camp","fromNode":"route-b","fromSide":"right","toNode":"camp","toSide":"left","label":"Failed assault + retreat: Zadkai gets key"},
+		{"id":"e-portal-c","fromNode":"portal","fromSide":"right","toNode":"route-c","toSide":"left","fromEnd":"arrow","label":"Choose path C / return with its key"},
+		{"id":"e-c-camp","fromNode":"route-c","fromSide":"right","toNode":"camp","toSide":"left","label":"Failed assault + retreat: Zadkai gets key"},
+		{"id":"e-portal-treasury","fromNode":"portal","fromSide":"bottom","toNode":"treasury","toSide":"top","label":"ALL THREE keys open the portal"},
+		{"id":"e-camp-portal","fromNode":"camp","fromSide":"top","toNode":"portal","toSide":"top","label":"Recover stolen key; resume access to treasury"},
+		{"id":"e-treasury-delivery","fromNode":"treasury","fromSide":"bottom","toNode":"delivery","toSide":"top","label":"Recover Airion’s work and emerge from the lair"},
+		{"id":"e-camp-pursuit","fromNode":"camp","fromSide":"bottom","toNode":"pursuit","toSide":"top","label":"Further failures allow Zadkai to obtain Airion’s work first"}
+	]
+}
