@@ -7,14 +7,14 @@
 - Tagline: in which a council debates how to save the village 
 - One-Sentence Summary: The party joins in the games and celebrations for the Festival of Rebirth, until troubling reports from returning scouts force a divided council to confront Karawa’s future.
 - Campaign: Dunmari Frontier
-- Arc: none
+- Arc: Arc 1: Dangers in the Desert
 - Scope: session
 - Session Number: 5
 - DR Date: 1748-03-30 to 1748-04-04
 - Real Date: 2020-07-24
 - DM: Tim Sackton
 - PCs: Kenzo, Wellby, Delwath, Seeker
-- Table Notes: none
+- Table Notes: The party reaches level 3.
 
 ## Timeline
 
@@ -138,16 +138,23 @@ Karawa's council meets, and debates the fate of the village.
 - Organizations: Shakun Mystai
 - Items: Dreamweaver Staff, Kenzo's jade amulet, Letter from Candrosa
 - Enemies: none
-- Image:
-- Image Placement:
+- Image: dunmar-session-05-kenzo-dreamworld-vision.jpg
+- Image Role: hero
+- Image Size:
+- Image Placement: start
 - Image Render:
-- Image Caption:
+- Image Caption: The jade-armed figure in Kenzo's Dreamworld vision.
+- Image Alt: A hooded figure with a jade arm shattering into fragments amid multicolored lights
 
 #### Short
 On the Red Mesa before dawn, and guided by Candrosa and the Dreamweaver Staff, Kenzo enters the Dreamworld, where he meets a jade-armed figure who tells him to seek stories of the Order of the Awakened Soul. When the others join him on the mesa, the party discusses their experiences with visions.
 
 #### Long
-Before dawn, Candrosa wakes Kenzo and leads him to the Red Mesa above the village. Using the Dreamweaver Staff, Candrosa sends Kenzo into the Dreamworld, where a robed man with a jade arm tells him, "You are not alone," and directs him to seek stories of the Order of the Awakened Soul. After breakfast, the others join Kenzo on the mesa and compare his journey with their own experiences. Seeker recalls the star-filled void of the [[Heart of the Mountain]] from his Dwarven coming-of-age rite; Delwath reveals that touching a dark circlet after the Great War trapped him for two hundred years in a gray pale imitation of the world where time seemed not to pass. Wellby adds Ander's story from Raven's Hold: a chanting blood-red vine wounded the halfling, and soon after he began craving raw flesh and speaking of a master who would consume the world. 
+Before dawn, Candrosa wakes Kenzo and leads him to the Red Mesa above the villages, where, using the Dreamweaver Staff, he sends Kenzo into the Dreamworld. Kenzo passes through a vast expanse of flickering, multicolored lights before meeting a robed man with a jade arm, who tells him, "You are not alone," and directs him to seek stories of the Order of the Awakened Soul.
+
+At breakfast at Ikram’s caravanserai, Wellby shares a [[Letter from Candrosa|letter from Candrosa]]. Acknowledging his suspicion during their meeting the previous evening, Candrosa now appeals to the party for help. Shakun remains silent, the enchantments protecting the frontier are fading, and scouts are riding to discover what dangers lie beyond the border. He asks the party to remain in Karawa as defenders, attend the council when the scouts return, and keep his warning private until then. After being informed that [[Kenzo]] is meditating at the summit of the [[Red Mesa]] on the southern border of town, the party heads up to meet him; on the way [[Seeker]] is reminded of the geological oddity that the [[Temple of Shakun]], carved into the cliff wall of the mesa, seems to be older than the mesa itself. 
+
+Reunited on the mesa, some discussion ensues of various pre-dawn encounters. The lights Kenzo describes remind Seeker of the star-filled void of the [[Heart of the Mountain]] from his Dwarven coming-of-age rite; Delwath reveals that touching a dark circlet after the Great War trapped him for two hundred years in a gray pale imitation of the world where time seemed not to pass. Wellby shares what he learned during the night from Ander's sister, Callie. At Raven's Hold, Ander heard someone chanting and was wounded by a thorny vine oozing blood-red sap. Within a few days, he began craving raw flesh and speaking of a master who would consume the world.
 
 ### recap-002 | At Jasu's Forge
 
@@ -171,7 +178,7 @@ Before dawn, Candrosa wakes Kenzo and leads him to the Red Mesa above the villag
 That afternoon, the party heads to Jasu's forge, and learns more about the spearpoints Arcus found. Seeker presents his design for a weighted chain throwing net, and persuades Jasu to build it for payment on delivery.
 
 #### Long
-That afternoon, the party brings its questions to Jasu's workshop. The smith shows them the two silvered spearpoints Arcus left behind and explains that their Great War runes hold abjuration and anti-undead magic. His forge cannot melt or reshape the metal, though the points could still be mounted on shafts as Arcus requested. Seeker then unrolls a design for a lightweight throwing net made from weighted chain. Jasu hesitates after Arcus's unpaid commission, but Seeker convinces him that the party can cover the cost, and the smith agrees to begin work.
+That afternoon, the party returns to Jasu’s workshop to inspect the two silvered spearpoints Arcus left behind. Seeker recognizes designs suggesting a weapon made to overcome undead defenses, and Delwath detects abjuration magic. The spearpoints date from the Great War, but Jasu cannot reshape their enchanted metal to repair the fittings needed to mount them on shafts. The party also confirms that Arcus had promised to return within a week or two and is now several weeks overdue. Seeker then unrolls a design for a lightweight throwing net made from weighted chain. Jasu hesitates after Arcus's unpaid commission, but Seeker convinces him that the party can cover the cost, and the smith agrees to begin work.
 
 ### recap-003 | The Festival of Rebirth
 
@@ -186,18 +193,39 @@ That afternoon, the party brings its questions to Jasu's workshop. The smith sho
 - Organizations: none
 - Items: Karawa's gifts, The Runes of Creation, The Legendary Staff of Kenzo
 - Enemies: none
-- Image:
-- Image Placement:
+- Image: dunmar-session-05-kenzo-staff-dancing.jpg
+- Image Role: figure
+- Image Size: standard
+- Image Placement: end
 - Image Render:
-- Image Caption:
+- Image Caption: Kenzo defeats Jayden in the staff-dancing final.
+- Image Alt: Kenzo sweeping Jayden off a balance beam with his quarterstaff before a cheering crowd
+- Image 2: dunmar-session-05-wellby-axebeak-racing.jpg
+- Image 2 Role: figure
+- Image 2 Size: standard
+- Image 2 Placement: end
+- Image 2 Render:
+- Image 2 Caption: Wellby rides his axebeak to third place.
+- Image 2 Alt: Wellby clinging to a running axebeak as it races across a dusty festival course
+- Image 3: dunmar-session-05-alesh-havdar-return.jpg
+- Image 3 Role: figure
+- Image 3 Size: standard
+- Image 3 Placement: end
+- Image 3 Render:
+- Image 3 Caption: Alesh and Havdar bring troubling news from the frontier.
+- Image 3 Alt: Alesh and Havdar on horseback among Karawa's festival tents
 
 #### Short
-Over the next several days, the games and festivities of the Festival of Rebirth occupy the party and the village. Kenzo wins the staff-dancing tournament, and Wellby places third in the axebeak race. But the party's mood shifts when they learn Alesh and Havdar have returned to Karawa with troubling news. 
+Over the next several days, the games and festivities leading up to the Festival of Rebirth occupy the party and the village. Kenzo wins the staff-dancing tournament, and Wellby places third in the axebeak race. But the party's mood shifts when they learn Alesh and Havdar have returned to Karawa with troubling news.
 
 #### Long
-Over the next several days, Karawa settles into the games, noise, and celebration of the Festival of Rebirth. Ikram delivers gifts of silver and trade goods from the grateful town, and an anonymous benefactor leaves Seeker an apparently blank Dwarven volume titled The Runes of Creation. Kenzo enters the staff-dancing tournament and draws a growing crowd as he advances through its early rounds. In the final he faces the swift and balanced Jayden, then bursts forward and sweeps her from the beam before honoring her skill; Seeker begins transforming the contest into an illustrated sequence called The Legendary Staff of Kenzo. 
+Over the next several days, Karawa settles into the games and festivities leading up to the Festival of Rebirth. Ikram delivers gifts of silver and trade goods from the grateful town, and an anonymous benefactor leaves Seeker an apparently blank Dwarven volume titled The Runes of Creation. Seeker spends time studying his new book.
 
-Around the festivities, Delwath hears less cheerful reports of attacks and refugees to the south, vanishing travelers, Chardonian interest in Dunmari artifacts, and a storm that remains fixed over the north. The axebeak race brings one last burst of celebration: Wellby's offering of goat meat earns him a bleeding hand, but he stays mounted long enough to finish third, while Kenzo's acrobatic start sends him backward almost immediately. That evening, the exhausted Alesh and Havdar finally return from scouting, and Alesh announces that their reports must go before the council in the morning.
+As Delwath listens for news, he finds a town mostly eager to celebrate. Many believe the danger ended with the defeat of the rampaging beasts, and dismiss stories of hyena-like raiders to the south as confused accounts of that attack. Yet the festivities carry an undercurrent of grief for those lost, and some wonder whether news of strange storms that don't move, and spreading violence, mean the gods have abandoned them. Many rumors involve ruins and artifacts: the name [[Raven's Hold]] is mentioned, as is the claim that the [[Temple of Shakun]] hides a number of ancient artifacts, and the angry fear that [[Chardon]] is trying to steal [[Dunmar]]’s heritage. 
+
+Kenzo enters the staff-dancing tournament, in which contestants fight with quarterstaffs on a balance beam and the first to fall loses. He draws a growing crowd as he advances through its early rounds. In the final he faces the swift and balanced Jayden, then bursts forward and sweeps her from the beam, earning his victory, then honoring her skill. Seeker begins transforming the contest into an illustrated sequence called The Legendary Staff of Kenzo, naming his new art form the "graphic novel."
+
+The axebeak race brings another burst of celebration, and some of the largest crowds of the festival, with each rider judged by how far they travel before falling. Wellby's offering of goat meat earns him a bleeding hand, but he stays mounted long enough to finish third, while Kenzo's acrobatic start sends him backward almost immediately. Havdar returns during the riding competitions and insists on competing despite his exhaustion. Alesh arrives after dinner, exhausted and travel-stained, and, bearing sober news, asks the party to join the council in the morning.
 
 ### recap-004 | The Fate of Karawa
 
@@ -212,50 +240,52 @@ Around the festivities, Delwath hears less cheerful reports of attacks and refug
 - Organizations: Karawa Council, Shakun Mystai
 - Items: Horn of Silent Alarm (Dunmari), Sketch of Arcus
 - Enemies: none
-- Image:
-- Image Placement:
+- Image: dunmar-session-05-suma-at-council.jpg
+- Image Role: figure
+- Image Size: standard
+- Image Placement: end
 - Image Render:
-- Image Caption:
+- Image Caption: Suma urges the council to protect Karawa's people.
+- Image Alt: Suma leaning over a table as she addresses Karawa's council
 
 #### Short
-When the scouts reveal dangers in several directions, the council evacuates Karawa's people, fortifies Shakun's temple, and divides the remaining reconnaissance.
-
-#### Intermediate
-When Havdar reports hyena-like raiders to the south and Alesh describes a bloody stream, roaming bands, and a fixed storm elsewhere along the border, Karawa's leaders divide over attack, defense, evacuation, and an appeal to the Samraat. The party tests each option against the available riders, supplies, travel time, and the uncertain nature of the threat. They ultimately persuade the council to send the people west under Havdar's protection, fortify the Shakun mystai in the temple, find an emissary for Nayan Karnas, send Alesh south, and let the party investigate Raven's Hold to the north.
+The next morning, at the council meeting, the scouts reveal their news, pointing to dangers from many directions. The council decides to evacuate Karawa's people, but still arranges to fortify Shakun's temple, as the mystai will never leave it. The Dunmar Fellowship agrees to scout Raven's Hold, while Alesh scouts south, and Havdar and his warband protect the fleeing villagers. 
 
 #### Long
-When the council meets, Havdar describes armed hyena-like raiders destroying settlements to the south and demands a counterattack, while Alesh reports a stationary storm, a black stream that smells of blood, and dangerous bands moving elsewhere along the border. She urges an appeal to Samraat Nayan Karnas; Kisa favors defense, Suma favors flight toward Tokra, and the leaders turn to the party when no position commands agreement. Their questions expose the limits of every choice: Karawa can muster riders and endure a siege for a time, but Tokra is weeks away and royal aid may take months. Discussion of Arcus and the recovered scout horn also links the current dangers to Great War forts and Raven's Hold. Seeker offers to raise earthworks, but Candrosa quietly admits that he is no longer certain Shakun's power can protect the ancient temple. Kenzo shapes the competing proposals into a plan centered on survival and information. Havdar will keep his force together to escort the people west, Suma and Kisa will organize the retreat, and Candrosa's mystai will remain behind in a temple reinforced by Seeker. After Delwath warns that a reckless attack might return Havdar's own riders as transformed enemies, the war leader accepts the need for caution. The party chooses the known magical lead at Raven's Hold to the north, Alesh volunteers to scout south with selected riders, and the council will find an emissary capable of winning the Samraat's attention. With each mission due to begin after the festival, Kisa declares the council decided.
+The next morning, at the council meeting, the scouts reveal their news. Havdar describes armed hyena-like raiders destroying settlements to the south and argues for an immediate a counterattack, while Alesh reports a stationary storm, a black stream that smells of blood, and dangerous bands moving elsewhere along the border. She urges an appeal to Samraat Nayan Karnas. Kisa and Candrosa favor fortification and defense, Suma favors flight toward Tokra, and the leaders turn to the party to break the deadlock. Their questions expose the limits of every choice: Karawa can muster riders and endure a siege for a time, but Tokra is weeks away and royal aid may take months. Seeker offers to raise earthworks, but Candrosa quietly admits that he is no longer certain Shakun's power can protect the ancient temple.
+
+Seeker spreads his map across the table and conjures glowing, moving figures above it, representing the fleeing population, their defenders, the storm, and the bloody stream. Kenzo shapes the competing proposals into a plan centered on survival and information. After Delwath warns that a reckless attack might result in Havdar's own riders returning transformed to enemies, the war leader accepts the need for caution. Suma argues that "Karawa is its people" and urges them to protect those who can flee, though Candrosa refuses to abandon the temple and its history.
+
+After much debate, it is decided that the vast majority of the people will flee west, with [[Havdar]] and his troops providing a rear-guard defense for this retreat. [[Candrosa]] and a few other acolytes of [[Shakun]], who will not abandon their temple, will fortify themselves and hope to hide from any attack. [[Alesh]] and a few companions will scout again to the south, trying to learn more about the threat there. An emissary will be found to ride to the king with all speed, and argue for a muster and a defense of the border. And the party will head north, to [[Raven's Hold]], to seek what information may lie there.
 
 ## Cast
 
 ### NPCs
 
-- Candrosa (met): Shakun mystai guiding Kenzo's spirit journey
+- Candrosa (met): Speaker of the Shakun Mystai and leader of Karawa’s Temple of Shakun.
   - Karawa, 1748-03-30
   - Karawa, 1748-04-04
-- jade-armed robed man (met): figure who addresses Kenzo in the Dreamworld
+- jade-armed robed man (met): An unidentified figure encountered by Kenzo in the Dreamworld, who directs him toward the Order of the Awakened Soul.
   - Karawa, 1748-03-30
-- Karawa messenger (met): young rider carrying news of Kenzo
+- Jasu (met): Karawa’s blacksmith, a solidly built older man and frequent patron of Ikram’s.
   - Karawa, 1748-03-30
-- Jasu (met): smith explaining Arcus's spearpoints and accepting Seeker's commission
-  - Karawa, 1748-03-30
-- Ikram (met): host delivering Karawa's gifts to the party
+- Ikram (met): The friendly, optimistic owner of Karawa’s caravanserai, fond of travelers, gossip, and stories.
   - Karawa, 1748-03-31 to 1748-04-02
-- Jayden (met): Kenzo's opponent in the staff-dancing final
+- Jayden (met): A young Dunmari woman, exceptionally quick and agile, and a skilled staff-dancing competitor.
   - Karawa, 1748-03-31 to 1748-04-02
-- Callie Charmheart (met): spectator watching Wellby and Kenzo compete
+- Callie Charmheart (met): A halfling merchant traveling with the Charmheart family, and Ander’s older sister.
   - Karawa, 1748-04-03
-- Alesh (met): scout returning to Karawa
+- Alesh (met): A skilled Dunmari scout, messenger, and rider from Karawa, with an enthusiastic interest in ancient Dunmari history.
   - Karawa, 1748-04-03 to 1748-04-04
-- Havdar (met): war leader returning with Alesh
+- Havdar (met): A brash, confident Dunmari war leader whose band of mounted warriors helps defend the eastern frontier.
   - Karawa, 1748-04-03 to 1748-04-04
-- Kisa (met): council elder favoring defense
+- Kisa (met): A respected village elder and unofficial leader of Karawa, deliberate in speech and protective of its people.
   - Karawa, 1748-04-04
-- Suma (met): Jeevali priestess urging evacuation
+- Suma (met): Priestess of Karawa’s temple to the Dunmari gods, particularly devoted to Jeevali; a warm and generous community leader.
   - Karawa, 1748-04-04
-- Ander Charmheart (mentioned): source of the Raven's Hold account
-- Arcus (mentioned): petrified explorer and possible source of information
-- Nayan Karnas (mentioned): Samraat whose aid Alesh proposes seeking
+- Ander Charmheart (mentioned): Callie’s younger brother and a scout for the Charmheart caravan, afflicted with ravenous hunger and strange ravings after exploring Raven’s Hold.
+- Arcus (mentioned): An adventurer and treasure hunter found petrified in the ruined fort east of Gomat.
+- Nayan Karnas (mentioned): The reigning Samraat of Dunmar, a ruler of the Nayan dynasty.
 
 ## Locations
 
@@ -289,8 +319,6 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
   - Karawa, 1748-03-31 to 1748-04-02
 - The Legendary Staff of Kenzo (encountered): Seeker turns Kenzo's tournament performance into an illustrated sequential narrative.
   - Karawa, 1748-03-31 to 1748-04-02
-- Horn of Silent Alarm (Dunmari) (encountered): Alesh identifies the magical horn as the kind carried by Dunmari border scouts after the Great War.
-  - Karawa, 1748-04-04
 
 ## Combat
 
@@ -310,11 +338,6 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
   - Speaker: Jade-armed figure
   - Source Lines: u0116-u0127
 
-- ID: quote-beat-002-001
-  - Quote: "That was why I called myself Seeker: to find the connection between these strange facts about how the world fits together."
-  - Speaker: Seeker
-  - Source Lines: u0578-u0586
-
 - ID: quote-beat-008-001
   - Quote: "There is a storm of thunder, lightning, and wild wind sitting on the plains that does not seem to move."
   - Speaker: Alesh
@@ -324,41 +347,9 @@ When the council meets, Havdar describes armed hyena-like raiders destroying set
   - Quote: "The danger isn't that you die gloriously in battle. The danger is that you and your men return to Karawa as these hyena creatures."
   - Speaker: Delwath
   - Source Lines: u2884-u2889
-
-- ID: quote-beat-011-001
-  - Quote: "Karawa is its people. We know how to run. We know how to ride."
-  - Speaker: Suma
-  - Source Lines: u2911-u2913
-
+  
 ## Audio Highlights
 
-- ID: audio-001
-  - Title: The jade-armed figure shatters and directs Kenzo to the Order of the Awakened Soul.
-  - Speaker: DM
-  - Source Lines: u0116-u0127
-  - Output: audio-001.m4a
-  - Why Called Out: A vivid dream revelation with a clean, memorable spoken message and a new character ability awakening.
-
-- ID: audio-002
-  - Title: Delwath recalls the Great War battle and the dark circlet that trapped him outside time.
-  - Speaker: Delwath
-  - Source Lines: u0606-u0617
-  - Output: audio-002.m4a
-  - Why Called Out: A compact character-history monologue that connects the Dreamworld, the Great War, and Delwath's two-century disappearance.
-
-- ID: audio-003
-  - Title: Kenzo defeats Jayden in the staff-dancing final as the crowd erupts in cheers.
-  - Speaker: DM
-  - Source Lines: u1608-u1616
-  - Output: audio-003.m4a
-  - Why Called Out: A self-contained action climax with strong physical narration and an immediate celebratory payoff.
-
-- ID: audio-004
-  - Title: Havdar reports the devastation of the southern farms and calls for an offensive strike.
-  - Speaker: DM as Havdar
-  - Source Lines: u2134-u2145
-  - Output: audio-004.m4a
-  - Why Called Out: The report sharply changes the session's tone and establishes the council's central strategic dilemma.
 
 - ID: audio-005
   - Title: Suma argues that Karawa is its people and endorses evacuation while preserving the temple.

@@ -120,7 +120,7 @@ Thursday, July 9, 2020
 - [[Ander Charmheart]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): disheveled halfling hearing an unceasing voice.
 - [[Candrosa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Shakun Mystai|Shakun mystai]] who summons the party to an urgent meeting.
 - [[Havdar]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): armed rider leaving the [[Temple of Shakun]].
-- [[Akan]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): herder whose survived a giant lizard attack at [[Gomat]].
+- [[Akan]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): herder who survived a giant lizard attack at [[Gomat]].
 - [[Devana]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): herder whose family suffered an axebeak attack.
 <!-- /SLOT -->
 
@@ -142,7 +142,7 @@ Thursday, July 9, 2020
 <!-- /SLOT -->
 
 <!-- SLOT: items.treasure -->
-- Recovered Dunmari temple relics: Portable chalices, amulets, candlesticks, and other sacred objects carried away from the fort, returned to Elder [[Kisa]] in exchange for a Scroll of Cure Wounds.
+- Recovered Dunmari temple relics: Portable chalices, amulets, candlesticks, and other sacred objects carried away from the fort, returned to Suma in exchange for a Scroll of Cure Wounds.
 - Sketch of [[Arcus]]: Seeker's detailed drawing of the petrified explorer, used to identify him in [[Karawa]].
 - Wellby's map: A map of his travels around [[Dunmar]], compared with Seeker's observations of [[Ley Lines|ley lines]].
 - Healing mud vials: Four small vials of perpetually moist healing mud, one given to each party member.
@@ -150,7 +150,7 @@ Thursday, July 9, 2020
 <!-- /SLOT -->
 
 <!-- SLOT: objects -->
-- Recovered Dunmari temple relics: Portable chalices, amulets, candlesticks, and other sacred objects carried away from the fort, returned to Elder [[Kisa]] in exchange for a Scroll of Cure Wounds.
+- Recovered Dunmari temple relics: Portable chalices, amulets, candlesticks, and other sacred objects carried away from the fort, returned to Suma in exchange for a Scroll of Cure Wounds.
 - Sketch of [[Arcus]]: Seeker's detailed drawing of the petrified explorer, used to identify him in [[Karawa]].
 - Wellby's map: A map of his travels around [[Dunmar]], compared with Seeker's observations of [[Ley Lines|ley lines]].
 - Healing mud vials: Four small vials of perpetually moist healing mud, one given to each party member.

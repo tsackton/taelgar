@@ -122,7 +122,7 @@ Friday, May 29, 2020
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Karawa]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): A desert settlement around an oasis beneath a red sandstone mesa, where the four travelers meet, repel a giant hyena attack, and accept Kisa's request to investigate. Session context includes: Ikram's, the village edge, and and Badya's teahouse.
+- [[Karawa]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): A desert settlement around an oasis beneath a red sandstone mesa, where the four travelers meet, repel a giant hyena attack, and accept Kisa's request to investigate. Session context includes: Ikram's, the village edge, and Badya's teahouse.
 - [[Karawa Desert]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): Rocky badlands where the hyenas' trail vanishes.
 - [[Stoneway]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): An ancient route where the party meets [[Alesh]]; further east, it passes through cataclysm-scarred desert before reaching the [[Gomat|Gomat Oasis]].
 - [[Gomat|Gomat Oasis]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): A herders' oasis where the party finds empty tents, dead sheep, and three giant lizards feeding in the moonlight.
