@@ -3,9 +3,9 @@
 ## Session Header
 
 - Title: Dunmari Frontier - Session 5
-- Desc Title: Decisions in Karawa
-- Tagline: in which Karawa chooses flight over battle
-- One-Sentence Summary: The party follows several supernatural leads, competes in Karawa's festival, and helps the divided council choose evacuation and reconnaissance over an immediate counterattack.
+- Desc Title: Karawa at the Crossroads
+- Tagline: in which a council debates how to save the village 
+- One-Sentence Summary: The party joins in the games and celebrations for the Festival of Rebirth, until troubling reports from returning scouts force a divided council to confront Karawa’s future.
 - Campaign: Dunmari Frontier
 - Arc: none
 - Scope: session
@@ -33,21 +33,6 @@
 #### Short
 Candrosa sends Kenzo into the Dreamworld, where a jade-armed figure directs him toward the Order of the Awakened Soul.
 
-### Mar 30th, 1748 (morning)
-
-- Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1748-03-30), morning
-- Resolution: part-of-day
-- Beat IDs: beat-002, beat-003
-- Locations: Karawa
-- NPCs: Karawa messenger
-- Organizations: none
-- Items: Letter from Candrosa
-- Combat Beats: none
-
-#### Short
-The party compares Kenzo's vision with Delwath's long imprisonment and Ander's encounter at Raven's Hold.
-
 ### Mar 30th, 1748 (afternoon)
 
 - Timeline Segment: timeline-003
@@ -61,7 +46,7 @@ The party compares Kenzo's vision with Delwath's long imprisonment and Ander's e
 - Combat Beats: none
 
 #### Short
-Jasu explains Arcus's enchanted spearpoints and accepts Seeker's commission for a chain throwing net.
+The party visits Jasu to examine Arcus’s enchanted spearpoints, where Seeker commissions a chain throwing net.
 
 ### Mar 31st, 1748
 
@@ -76,7 +61,7 @@ Jasu explains Arcus's enchanted spearpoints and accepts Seeker's commission for 
 - Combat Beats: none
 
 #### Short
-Karawa presents the party with gifts, including an anonymous Dwarven book for Seeker.
+The party receives gifts from Karawa’s grateful townspeople, including a [[The Runes of Creation|mysterious Dwarven book]] from an unknown benefactor for Seeker.
 
 ### Apr 1st, 1748
 
@@ -91,7 +76,7 @@ Karawa presents the party with gifts, including an anonymous Dwarven book for Se
 - Combat Beats: none
 
 #### Short
-The festival games begin while Seeker studies and Delwath gathers rumors around Karawa.
+The festival games begin. Seeker studies, and Delwath gathers rumors around Karawa.
 
 ### Apr 2nd, 1748
 
@@ -106,27 +91,12 @@ The festival games begin while Seeker studies and Delwath gathers rumors around 
 - Combat Beats: none
 
 #### Short
-Kenzo wins the staff-dancing tournament and inspires Seeker's first graphic novel.
+Kenzo wins the staff-dancing tournament, inspiring Seeker to illustrate his victory. Later, the party discusses the rumors Delwath has gathered.
 
-### Apr 2nd, 1748 (evening)
-
-- Timeline Segment: timeline-007
-- Timeline Key: (DR:: 1748-04-02), evening
-- Resolution: part-of-day
-- Beat IDs: beat-006
-- Locations: Karawa
-- NPCs: none
-- Organizations: none
-- Items: The Legendary Staff of Kenzo
-- Combat Beats: none
-
-#### Short
-Delwath reports attacks, missing travelers, and a stationary northern storm before the axebeak race.
-
-### Apr 3rd, 1748 (morning)
+### Apr 3rd, 1748
 
 - Timeline Segment: timeline-008
-- Timeline Key: (DR:: 1748-04-03), morning
+- Timeline Key: (DR:: 1748-04-03)
 - Resolution: part-of-day
 - Beat IDs: beat-007
 - Locations: Karawa
@@ -136,7 +106,7 @@ Delwath reports attacks, missing travelers, and a stationary northern storm befo
 - Combat Beats: none
 
 #### Short
-Wellby places third in the axebeak race before Alesh and Havdar return with urgent news.
+Wellby and Kenzo compete in the axebeak race, with Wellby placing third. Alesh and Havdar return with urgent news. The party agrees to attend the next morning’s council.
 
 ### Apr 4th, 1748 (morning)
 
@@ -151,11 +121,11 @@ Wellby places third in the axebeak race before Alesh and Havdar return with urge
 - Combat Beats: none
 
 #### Short
-Karawa's council chooses evacuation, fortification, diplomacy, and reconnaissance over an immediate attack.
+Karawa's council meets, and debates the fate of the village. 
 
 ## Recap
 
-### recap-001 | Dreamworld and Dark Memories
+### recap-001 | Into the Dreamworld
 
 - Kind: beat
 - Beat IDs: beat-001, beat-002, beat-003
@@ -174,15 +144,12 @@ Karawa's council chooses evacuation, fortification, diplomacy, and reconnaissanc
 - Image Caption:
 
 #### Short
-Kenzo enters the Dreamworld and returns with a message about the Order of the Awakened Soul, leading the party to compare other visions and the threat at Raven's Hold.
-
-#### Intermediate
-Guided by Candrosa and the Dreamweaver Staff, Kenzo meets a jade-armed figure who tells him he is not alone and should seek stories of the Order of the Awakened Soul. When the others join him on the mesa, Seeker compares the experience to his Dwarven coming-of-age vision, Delwath reveals his two centuries inside a gray false world, and Wellby recounts the blood-red vine that changed Ander Charmheart after Raven's Hold.
+On the Red Mesa before dawn, and guided by Candrosa and the Dreamweaver Staff, Kenzo enters the Dreamworld, where he meets a jade-armed figure who tells him to seek stories of the Order of the Awakened Soul. When the others join him on the mesa, the party discusses their experiences with visions.
 
 #### Long
-Before dawn, Candrosa wakes Kenzo and leads him to the red mesa, where she explains that her dreams have begun mirroring the changes in his jade hand. The Dreamweaver Staff carries him into the Dreamworld, where a robed man with a jade arm tells him, "You are not alone," and directs him to seek stories of the Order of the Awakened Soul. Kenzo returns able to see Candrosa's aura, but she knows the order only through desert legends and can offer no certain explanation. After breakfast, the others join Kenzo on the mesa and compare his journey with their own experiences: Seeker recalls the star-filled void of his Dwarven coming-of-age rite, while Delwath reveals that touching a dark circlet after the Great War trapped him for roughly two hundred years in a gray imitation of the world. Wellby then adds Ander's story from Raven's Hold, where a chanting blood-red vine wounded the halfling before he began craving raw flesh and speaking of a master who would consume the world. The parallels suggest several leads, but no single cause yet connects them.
+Before dawn, Candrosa wakes Kenzo and leads him to the Red Mesa above the village. Using the Dreamweaver Staff, Candrosa sends Kenzo into the Dreamworld, where a robed man with a jade arm tells him, "You are not alone," and directs him to seek stories of the Order of the Awakened Soul. After breakfast, the others join Kenzo on the mesa and compare his journey with their own experiences. Seeker recalls the star-filled void of the [[Heart of the Mountain]] from his Dwarven coming-of-age rite; Delwath reveals that touching a dark circlet after the Great War trapped him for two hundred years in a gray pale imitation of the world where time seemed not to pass. Wellby adds Ander's story from Raven's Hold: a chanting blood-red vine wounded the halfling, and soon after he began craving raw flesh and speaking of a master who would consume the world. 
 
-### recap-002 | Spearpoints and a Throwing Net
+### recap-002 | At Jasu's Forge
 
 - Kind: beat
 - Beat IDs: beat-004
@@ -201,13 +168,10 @@ Before dawn, Candrosa wakes Kenzo and leads him to the red mesa, where she expla
 - Image Caption:
 
 #### Short
-That afternoon, they learn why Arcus's spearpoints resist Jasu's forge and arrange for Seeker's unusual net.
-
-#### Intermediate
-That afternoon at Jasu's workshop, the party examines Arcus's two silvered Great War spearpoints, whose runes carry protective and anti-undead magic beyond the smith's ability to rework. Seeker also presents his design for a weighted chain throwing net and persuades Jasu to build it for payment on delivery.
+That afternoon, the party heads to Jasu's forge, and learns more about the spearpoints Arcus found. Seeker presents his design for a weighted chain throwing net, and persuades Jasu to build it for payment on delivery.
 
 #### Long
-That afternoon, the party brings its questions to Jasu's workshop. The smith shows them the two silvered spearpoints Arcus left behind and explains that their Great War runes hold abjuration and anti-undead magic. His forge cannot melt or reshape the metal, though the points could still be mounted on shafts as Arcus requested. Seeker then unrolls a design for a lightweight throwing net made from weighted chain. Jasu hesitates after Arcus's unpaid commission, but Seeker convinces him that the party can cover the cost, and the smith agrees to begin work for cash on delivery.
+That afternoon, the party brings its questions to Jasu's workshop. The smith shows them the two silvered spearpoints Arcus left behind and explains that their Great War runes hold abjuration and anti-undead magic. His forge cannot melt or reshape the metal, though the points could still be mounted on shafts as Arcus requested. Seeker then unrolls a design for a lightweight throwing net made from weighted chain. Jasu hesitates after Arcus's unpaid commission, but Seeker convinces him that the party can cover the cost, and the smith agrees to begin work.
 
 ### recap-003 | The Festival of Rebirth
 
@@ -228,13 +192,12 @@ That afternoon, the party brings its questions to Jasu's workshop. The smith sho
 - Image Caption:
 
 #### Short
-Over the festival days, Kenzo wins the staff-dancing tournament, Wellby places third in the axebeak race, and the returning scouts bring troubling news.
-
-#### Intermediate
-Over the festival days, Karawa rewards the party, an unknown benefactor leaves Seeker the apparently blank Dwarven book The Runes of Creation, and Kenzo defeats Jayden to win the staff-dancing tournament. Delwath gathers rumors of attacks, missing travelers, foreign interest in Dunmari ruins, and a storm fixed over the north. Wellby later rides through a bitten hand to place third in the axebeak contest, Kenzo is thrown early, and the exhausted Alesh and Havdar return in time for the next morning's council.
+Over the next several days, the games and festivities of the Festival of Rebirth occupy the party and the village. Kenzo wins the staff-dancing tournament, and Wellby places third in the axebeak race. But the party's mood shifts when they learn Alesh and Havdar have returned to Karawa with troubling news. 
 
 #### Long
-Over the next several days, Karawa settles into the Festival of Rebirth while the party waits for the scouts. Ikram delivers gifts of silver and trade goods from the grateful town, and an anonymous benefactor leaves Seeker an apparently blank Dwarven volume titled The Runes of Creation. Kenzo enters the staff-dancing tournament and draws a growing crowd as he advances through its early rounds. In the final he faces the swift and balanced Jayden, then bursts forward and sweeps her from the beam before honoring her skill; Seeker begins transforming the contest into an illustrated sequence called The Legendary Staff of Kenzo. Around the festivities, Delwath hears less cheerful reports of attacks and refugees to the south, vanishing travelers, Chardonian interest in Dunmari artifacts, and a storm that remains fixed over the north. The axebeak race brings one last burst of celebration: Wellby's offering of goat meat earns him a bleeding hand, but he stays mounted long enough to finish third, while Kenzo's acrobatic start sends him backward almost immediately. That evening, the exhausted Alesh and Havdar finally return from scouting, and Alesh announces that their reports must go before the council in the morning.
+Over the next several days, Karawa settles into the games, noise, and celebration of the Festival of Rebirth. Ikram delivers gifts of silver and trade goods from the grateful town, and an anonymous benefactor leaves Seeker an apparently blank Dwarven volume titled The Runes of Creation. Kenzo enters the staff-dancing tournament and draws a growing crowd as he advances through its early rounds. In the final he faces the swift and balanced Jayden, then bursts forward and sweeps her from the beam before honoring her skill; Seeker begins transforming the contest into an illustrated sequence called The Legendary Staff of Kenzo. 
+
+Around the festivities, Delwath hears less cheerful reports of attacks and refugees to the south, vanishing travelers, Chardonian interest in Dunmari artifacts, and a storm that remains fixed over the north. The axebeak race brings one last burst of celebration: Wellby's offering of goat meat earns him a bleeding hand, but he stays mounted long enough to finish third, while Kenzo's acrobatic start sends him backward almost immediately. That evening, the exhausted Alesh and Havdar finally return from scouting, and Alesh announces that their reports must go before the council in the morning.
 
 ### recap-004 | The Fate of Karawa
 
