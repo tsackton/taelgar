@@ -38,4 +38,4 @@ While the desert is mostly inhospitable, the [[Istaros]] drains an extensive reg
 
 The desert supports little life. Nonetheless, the occasional giant vulture or band of ogres eke out a living amongst the rocks and sand, and desert-adapted axebeaks hunt small rodents in the more hospitable regions on the edges of the desert. 
 
-%%SECRET[v2:cf61e1d0cf455cff2d4cf281b464735a]%%
+%%SECRET[v2:9e4ddbaf87d846dadaa7b1d65e30735a]%%
