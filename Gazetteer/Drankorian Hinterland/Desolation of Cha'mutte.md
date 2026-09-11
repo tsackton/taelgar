@@ -2,15 +2,15 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/errors, status/check/lint]
+tags: [place]
 typeOf: region
 name: "Desolation of Cha'mutte"
 aliases: [Drankorian Wastes]
 pronunciation: shah-MUTT
 whereabouts: Drankorian Hinterland
 dm_owner: tim
-dm_notes: important
-POV: modern
+dm_notes: none
+POV: 1748
 ---
 # The Desolation of Cha'mutte
 *(shah-MUTT)*
@@ -18,51 +18,25 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Desolation of Cha'mutte, often called the Drankorian Wastes, is a large area of magically cursed and dangerous land, corrupted as a result of the events surrounding the [[Fall of Drankor]]. 
+The Desolation of Cha'mutte, often called the Drankorian Wastes, is a large area of magically cursed and dangerous land, corrupted as a result of the events surrounding the [[Fall of Drankor]]. Typically, the Desolation of Cha'mutte refers to the area around the ruined city of [[Drankor]] itself, though the borders of this poorly explored region are ill-defined. Rumors through the years have suggested a wide range of dangers, from [[Report of the Aagiri to Samraat Dasa|fetid, undead-haunted swamps]], to arid deserts, to cursed and ruined cities haunted with [[Letter from Govir|restless dead]] and consumed by a pervasive aura of fear. 
 
-The Desolation of Cha'mutte includes:
-- The area around the ruined city of [[Drankor]] itself, destroyed during the chaos of the [[First Plague]], and now deeply cursed and unexplored.  %%needs a name?%%
-- The [[Garamjala Desert]], on a high, arid plateau spanning the [[Kharja]] and [[Istaros]] river valleys, and including the orc realm of [[Xurkhaz]].
-- The [[Nashtkar]], the blasted plains, north of the [[Garamjala Desert|Garamjala]] and east of [[Dunmar]], a land of rocky canyons, twisted hills, and little water, on the western edge of the [[Plaguelands]]
-- The [[Plaguelands]], in the [[Istaros Watershed]], centered on the ruined city of [[Isingue]].
+The truth of these rumors is unclear. 
 
-While little of the desolation is readily habitable, the areas around the ruined cities of Drankor and Isingue are widely perceived as the most dangerous and cursed. The [[Garamjala Desert|Garamjala]], which runs broadly west to east, well north of Drankor and well south of Isingue, is dry and hot but significantly less magically dangerous, and is home to a few brave or foolhardy souls.  
+%% 
+Extent of the desolation to the east is undecided. Drankorian curse area probably doesn't extend past the bay of Drankor to the east. Southern edge of Garamjala is probably somewhere around or just north of the confluence of the Mahar and Kharja, which would roughly be the northern border of the desolation. 
 
-%% notes
-Extend of the desolation to the east is undecided. Garamjala probably doesn't connect to the eastern desert, and probably peters out around the ancient border of Drankor. Drankorian curse area doesn't extend past the bay of Drankor to the east. Southern edge of Garamjala is probably somewhere around or just north of the confluence of the Mahar and Kharja. 
+Older text from a now-obsolete brainstorming note, preserved to mine for details if desired:
+To the east of Dunmar lies the desolation of Cha’mutte, a broken wasteland, stretching nearly a 1000 miles east to vast dead forests, 500 miles north to the barren ashy Plaguelands south of Sembara, and 900 miles south through the vast Garamjala desert to the haunted mires of Drankor. This vast expanse lies like a scar on the land, breeding monsters and terrors in the night; rumors persist of vast orc hordes, warlike hobgoblin nations, and stranger evils hidden in the depths of the desolation. The ruins of Drankor itself, said to be a land of immense magic and danger, lie deep within the accursed wastes. While many stories are told of the Desolation of Cha’mutte, few are brave or foolish enough to enter within, and the truth of the tales is hard to discern. 
 
-Generally Isingue and Drankor are the "centers of weirdness" and the Garamjala is mostly just dry. 
+DM notes/brainstorming:  [[Desolation of Cha'mutte Brainstorming]]
 
-Nashtkar is close to Plaguelands and really is kind of the western edge of the Plaguelands and the northern edge of the Garamajala. Plaguelands is north of Xurkhaz, which is the northern edge of the Garamjala. Drankorian desolation is south of Garamjala. 
-
-Prior to the Great War, the Plaguelands/Nashtkar/Garamjala didn't exist, and the Desolation of Cha'mutte was just the area around Drankor. The cataclysm that raised the Yuvanti Mountains also created the Garamajala, but this is largely due to weather patterns not magic. The Plaguelands itself, and the Nashtkar, is a result of the destruction of Isingue and whatever magic was there. 
 %%
 
-%%SECRET[v2:5b4f95ea7a796232be87bc752baf6236]%%
 
 %%^Metadata:names:v1%%
 - {name: "Desolation of Cha'mutte", role: primary, language: unknown, pronunciation: desolation of shah-MUTT, notes: "The pronunciation of Cha'mutte is documented in [[Cha'mutte]]; the descriptive words are read ordinarily.", status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: broadly modern geography with historical origins in the DR 1059 First Plague and the DR 1542–1545 Great War; the exact scope of the umbrella term remains unresolved.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Editorial assessment
-- **Underdeveloped** — The note's central identity remains unresolved: it treats several regions with materially different origins and conditions as one magically corrupted area, while the intended scope of the umbrella name and its eastern and southern boundaries have not been established.
-
-- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material.
-
-### Open findings
-- [ ] **Error — correctness.cross_note_conflict:** The opening says the entire Desolation is magically corrupted by the [[First Plague]] and [[Great War]], but [[Garamjala Desert]] describes a postwar uplift and rain-shadow desert, [[Nashtkar]] describes plague effects as uneven and patchy, and [[Plaguelands]] describes heavy plague effects around [[Isingue]]. If the broad umbrella is retained, replace the opening with: "The name 'Desolation of Cha'mutte' is used broadly for several devastated or inhospitable regions between [[Drankor]] and [[Isingue]], but those regions have different origins and conditions. The lands around Drankor are tied to the First Plague; the Garamjala Desert formed after the Great War through uplift and rain shadow; the Nashtkar is arid terrain only unevenly haunted where [[Cha'mutte's Plague]] reached its western edge; and the Plaguelands around Isingue were heavily affected by that plague."
-- [ ] **Suggestion — editorial.note_underdeveloped:** Make a bounded human choice between restricting this note to the cursed lands around [[Drankor]] or defining the Desolation as a broad, possibly imprecise in-world umbrella. Then state which named regions belong to it and give the smallest supported boundary description; the intended scope and boundaries are not yet established by the vault.
+Temporal coverage: broadly modern geography with historical origins in the DR 1059 First Plague, but does not describe any potential changes associated with the death of Apollyon.
 %%^End%%
