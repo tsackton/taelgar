@@ -122,7 +122,7 @@ Thursday, July 2, 2020
 
 <!-- SLOT: locations -->
 - [[Dunmari Fort (Gomat)]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): a ruined Dunmari fort whose preserved temple and underground caverns held Dunmari relics, petrified creatures, and the source of the animals' unnatural rage. Session context includes: abandoned campsite and causeway, ruined headquarters, temple of the [[Dunmari Pantheon|Five Siblings]], gate towers, ankheg tunnels, cockatrice nursery, dry cistern channel, and southern cavern.
-- [[Nashtkar]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): desert surrounding the ruined fort, noticeably calmer after the obsidian's influence ended. Session context includes: party camp outside the fort.
+- [[Nashtkar]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): desert surrounding the ruined fort, noticeably calmer after the obsidian's influence ended. Session context includes: temple at Dunmari Fort.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->

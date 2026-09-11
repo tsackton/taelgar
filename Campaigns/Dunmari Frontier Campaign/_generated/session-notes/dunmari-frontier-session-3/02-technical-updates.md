@@ -6,17 +6,17 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-03-25), evening: party ends at [[Gomat]].
+- Candidate party whereabouts: (DR:: 1748-03-25), evening: party ends at [[Dunmari Fort]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
-- [[Dunmari Fort (Gomat)]]: visited on 1748-03-25.
+- [[Dunmari Fort (Gomat)]]: visited on 1748-03-25 to 1748-03-26.
 - [[Nashtkar]]: visited on 1748-03-25 to 1748-03-26.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Arcus]]: candidate whereabouts update from (DR:: 1748-03-25), evening -> [[Gomat]].
-  - Whereabouts line: `- {type: away, start: 1748-03-25 to 1748-03-26, location: Gomat}`
+- [[Arcus]]: candidate whereabouts update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
+  - Whereabouts line: `- {type: away, start: 1748-03-25 to 1748-03-26, location: Dunmari Fort}`
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
@@ -25,10 +25,10 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- [[Aagir's Everlight]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Gomat]].
-- [[Floating Disc Coin]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Gomat]].
-- Black Iron Staff: candidate item-location update from (DR:: 1748-03-25), evening -> [[Gomat]].
-- Cha'mutte symbol necklace: candidate item-location update from (DR:: 1748-03-25), evening -> [[Gomat]].
+- [[Aagir's Everlight]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
+- [[Floating Disc Coin]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
+- Black Iron Staff: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
+- Cha'mutte symbol necklace: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->

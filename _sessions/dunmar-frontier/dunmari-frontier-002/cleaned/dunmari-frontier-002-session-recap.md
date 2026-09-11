@@ -46,7 +46,7 @@ The party kills three giant lizards feeding on dead sheep at the Gomat Oasis, th
 - Combat Beats: none
 
 #### Short
-The party meets the herder Akan, who recounts the lizard attack, and then follows the road, and the tracks of the lizards, east into the Nashtkar. Arriving at the Daraar Canyon, the party camps for the night. 
+The party meets the herder Akan, who recounts the lizard attack, and then follows the road, and the tracks of the lizards, east toward the Nashtkar. Arriving at the Daraar Canyon, the party camps for the night. 
 
 ### Mar 25th, 1748 (morning)
 
@@ -126,7 +126,7 @@ We begin past sunset, as Kenzo, Wellby, Seeker, and Delwath arrive at Gomat Oasi
 The next morning, Akan returns and reveals that the lizards killed four members of his family before the survivors fled. He gathers supplies, and turns west with the other survivors, heading for the relative safety of Karawa; the party turns east, following the lizards' tracks. 
 
 #### Long
-In the morning, exploring the oasis, the party finds signs of a battle and clear tracks of the giant lizards coming from the east, from the wilderness of the Nashtkar. While dissecting the lizards in search of clues to their particularly vicious and bloodthirsty behavior, an older man, wounded but alive, appears on the horizon on horseback. Hailing him, the party learns he is [[Akan]], one of the survivors of the giant lizard attack on [[Gomat]] the night before. His extended family had been camped at the oasis, grazing their herds, for several days, intending to rest and relax before the [[Festival of Rebirth]]. In the afternoon, the lizards attacked. They tried to fight them off, and managed to kill one while fleeing, but the lizards were relentless and would not be scared away. Several members of [[Akan]]’s family were killed before all could get on horseback to flee. Akan had only returned to reclaim supplies -- food and water and the like -- before heading to [[Karawa]]. As the survivors turn west to the relative safety of the village, the party turns east, following the lizards' tracks.
+In the morning, exploring the oasis, the party finds signs of a battle and clear tracks of the giant lizards coming from the east, from the wilderness of the Nashtkar. While the party dissects the lizards in search of clues to their particularly vicious and bloodthirsty behavior, an older man, wounded but alive, appears on the horizon on horseback. Hailing him, the party learns he is [[Akan]], one of the survivors of the giant lizard attack on [[Gomat]] the previous afternoon. His extended family had been camped at the oasis, grazing their herds, for several days, intending to rest and relax before the [[Festival of Rebirth]]. In the afternoon, the lizards attacked. They tried to fight them off, and managed to kill one while fleeing, but the lizards were relentless and would not be scared away. Several members of [[Akan]]’s family were killed before all could get on horseback to flee. Akan has returned only to reclaim supplies -- food and water and the like -- before heading to [[Karawa]]. As the survivors turn west to the relative safety of the village, the party turns east, following the lizards' tracks.
 
 ### recap-003 | Into the Nashtkar
 
@@ -147,10 +147,10 @@ In the morning, exploring the oasis, the party finds signs of a battle and clear
 - Image Caption:
 
 #### Short
-Leaving Gomat behind, the party follows the lizard tracks into the Nashtkar, where they find more animals senselessly slaughtered along the old road. 
+Leaving Gomat behind, the party follows the lizard tracks toward the Nashtkar and finds more animals senselessly slaughtered along the old road. 
 
 #### Long
-Leaving Gomat behind, the party follows the lizard tracks along an [[Stoneway|ancient road]] into the Nashtkar. During the long day's travel, they compare what they know of elves, Delwath's past, and the disturbing dreams that have drawn several of them toward this country. Along the way, they notice the rotting corpses of several dead peccaries just off the road, killed in the past few days, with obvious signs of lizard tracks. Some have been consumed, while others have simply been left to rot -- very unusual behavior for giant lizards. The tracks and ruined road carry the party eastward as evening approaches.
+Leaving Gomat behind, the party follows the lizard tracks along an [[Stoneway|ancient road]] toward the Nashtkar. During the long day's travel, they compare what they know of elves, Delwath's past, and the disturbing dreams that have drawn several of them toward this country. Along the way, they notice the rotting corpses of several dead peccaries just off the road, killed in the past few days, with obvious signs of lizard tracks. Some have been consumed, while others have simply been left to rot -- very unusual behavior for giant lizards. The tracks and ruined road carry the party eastward as evening approaches.
 
 ### recap-004 | Crossing Daraar Canyon
 
@@ -177,7 +177,7 @@ Leaving Gomat behind, the party follows the lizard tracks along an [[Stoneway|an
 At Daraar Canyon, sheer basalt and loose talus force them to postpone their descent until the next morning. After an uneasy night, Seeker shelters Delwath's horse in a packed-earth barn before the party crosses the canyon on foot. 
 
 #### Long
-After a long day of walking, in the late afternoon, the party reaches a wide canyon ripped into the earth. [[Seeker]] especially is taken by how unnatural both the rugged badlands to the south and the canyon itself seem; the canyon clearly could not have been formed by the usual processes of gradual erosion. Descending the slope is easy enough to start, but a basalt outcropping about three quarters of the way down stops them for the evening. Back on the rim, they discover traces of a deliberately concealed camp, then pass a cold and fitful, but uninterrupted, night without a fire. In the morning, Seeker magically shapes a doorless shelter of packed earth for Delwath's horse, and the party descends on foot through loose stone to the canyon floor. Here, it is apparent that many animal tracks, including giant lizard and giant hyena tracks, cross and criss-cross the terrain, all converging in the east on a sloping side canyon leading up to the remains of the trade road.
+After a long day of walking, in the late afternoon, the party reaches a wide canyon ripped into the earth. [[Seeker]] especially is taken by how unnatural both the rugged badlands to the south and the canyon itself seem; the canyon clearly could not have been formed by the usual processes of gradual erosion. Descending the slope is easy enough to start, but a basalt outcropping about three quarters of the way down stops them for the evening. Back on the rim, they discover traces of a deliberately concealed camp, then pass a cold and fitful, but uninterrupted, night without a fire. In the morning, Seeker magically shapes a doorless shelter of packed earth for Delwath's horse, and the party descends on foot through loose stone to the canyon floor. Here, it is apparent that many animal tracks, including giant lizard and giant hyena tracks, cross and criss-cross the terrain, all converging in the east on a sloping side canyon leading up to the remains of the trade road. Following the tracks up the side canyon, the party regains the road on the eastern rim.
 
 ### recap-005 | The Bloodthirsty Wilds
 
@@ -201,7 +201,7 @@ After a long day of walking, in the late afternoon, the party reaches a wide can
 Beyond the canyon, the entire landscape seems bloodthirsty and enraged. Ants and scorpions swarm the ground, and the party passes the remains of a battle between a giant scorpion and giant hyenas as they head towards a distant fort. 
 
 #### Long
-Beyond the canyon, the remnants of the ancient road cross a cracked landscape of fissures, fallen rock, and jumbled stone toward two distant gate towers. The party proceeds, but the entire landscape seems bloodthirsty and enraged. Ants and scorpions are swarming the ground, violent and angry and harassing the party until Seeker shares his foul-smelling repellent salve. Farther on, they find the remains of a battle between a giant scorpion and giant hyenas, one still struggling, even while dying, to attack the party until Wellby puts it out of its misery. Everywhere something is attacking something else, as the party proceeds towards the ruined towers in the distance. 
+Beyond the canyon, the remnants of the ancient road cross a cracked landscape of fissures, fallen rock, and jumbled stone toward two distant gate towers. The party proceeds, but the entire landscape seems bloodthirsty and enraged. Ants and scorpions are swarming the ground, violent and angry and harassing the party until Seeker shares his foul-smelling repellent salve. Farther on, they find the remains of a battle between a giant scorpion and giant hyenas, one of the hyenas still struggling, even while dying, to attack the party until Wellby puts it out of its misery. Everywhere something is attacking something else, as the party proceeds towards the ruined towers in the distance. 
 
 ### recap-006 | Skeletons at the Fort
 
@@ -225,10 +225,10 @@ Beyond the canyon, the remnants of the ancient road cross a cracked landscape of
 - Image Alt: A skeleton climbing from an earthen burial mound
 
 #### Short
-At the ruined Dunmari fort, the party destroys four skeletons that emerge from a recently disturbed burial mound, then enters the fort seeking information and answers. 
+At the ruined Dunmari fort, the party destroys four skeletons that emerge from a recently disturbed burial mound, then approaches the gate seeking information and answers. 
 
 #### Long
-The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defensive wall. Two large earthen mounds flank the old causeway. As the party studies the grass-covered mound and its rubble-strewn counterpart, Kenzo senses undead nearby, just as a skeletal hand breaks through the disturbed earth. Four skeletons pull themselves from the earth and attack; Kenzo meets them with staff and fists, Delwath strikes with crackling magic, Wellby fights with bow and blade, and Seeker bolsters his companions after discovering that sleep magic cannot affect the dead. Once all four skeletons are destroyed, the party finds signs that the mound was excavated recently, though they cannot identify who disturbed it or what awakened its occupants. Seeker recognizes the ruins as a Great War-era Dunmari defensive fort; the party leaves the neighboring grassy mound untouched before passing through the gate, seeking information and answers. 
+The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defensive wall. Two large earthen mounds flank the old causeway. As the party studies the grass-covered mound and its rubble-strewn counterpart, Kenzo senses undead nearby, just as a skeletal hand breaks through the disturbed earth. Four skeletons pull themselves from the earth and attack; Kenzo meets them with staff and fists, Delwath strikes with crackling magic, Wellby fights with bow and blade, and Seeker bolsters his companions after discovering that sleep magic cannot affect the dead. Once all four skeletons are destroyed, the party finds signs that the mound was excavated recently, though they cannot identify who disturbed it or what awakened its occupants. Seeker recognizes the ruins as a Great War-era Dunmari defensive fort; the party leaves the neighboring grassy mound untouched and approaches the gate, seeking information and answers. 
 
 ## Cast
 

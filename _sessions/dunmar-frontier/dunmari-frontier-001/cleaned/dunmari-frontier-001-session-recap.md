@@ -87,7 +87,7 @@ A long day of travel brings the party to the Gomat Oasis at moonrise, where they
 Kenzo, Delwath, Seeker, and Wellby converge in Karawa and immediately are drawn into a fight against two rampaging giant hyenas.
 
 #### Long
-Our campaign begins as four travelers converge on the small Dunmari village of Karawa. Seeker, a dwarven scholar, and Wellby, a halfling explorer, have arrived in the past few days and are staying at Ikram's caravanserai. Delwath, a mysterious elf, has been in town for a few months, while the human monk Kenzo arrives in Karawa as the session begins, recognizing the red sandstone mesa, oasis, and temple from his nightly dreams. The travelers meet, and the quiet morning is shattered, as two giant hyenas rampage through the village, attacking fleeing villagers. Kenzo, Delwath, Seeker, and Wellby, aided by a Dunmari acolyte named Beli, converge at the village edge to fight. One beast mauls a young man before Kenzo drives into the fight, survives a vicious bite, and beats it to death with fists and staff. Wellby stabilizes the victim while Beli repeatedly tries and fails to call on divine power. Delwath's crackling blasts and black flame weaken the second hyena; Seeker then distracts it with an illusory baby antelope, and Wellby exploits the opening to kill it with a precise thrust.
+Our campaign begins as four travelers converge on the small Dunmari village of Karawa. Seeker, a dwarven scholar, and Wellby, a halfling explorer, have arrived in the past few days and are staying at Ikram's caravanserai. Delwath, a mysterious elf, has been in town for a few months, while the human monk Kenzo arrives in Karawa as the session begins, recognizing the red sandstone mesa, oasis, and temple from his nightly dreams. The travelers meet, and the quiet morning is shattered as two giant hyenas rampage through the village, attacking fleeing villagers. Kenzo, Delwath, Seeker, and Wellby, aided by a Dunmari acolyte named Beli, converge at the village edge to fight. One beast mauls a young man before Kenzo drives into the fight, survives a vicious bite, and beats it to death with fists and staff. Wellby stabilizes the victim while Beli repeatedly tries and fails to call on divine power. Delwath's crackling blasts and black flame weaken the second hyena; Seeker then distracts it with an illusory baby antelope, and Wellby exploits the opening to kill it with a precise thrust.
 
 ### recap-002 | Introductions
 
@@ -188,7 +188,7 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 - Image Alt: Giant lizards among dead sheep at a moonlit oasis
 
 #### Short
-Investigating the dust cloud, the party meets a Dunmari scout, Alesh, on the Stoneway, the old Drankorian trade road. Her warning sends the party toward Gomat. After a long march the next day, the party reaches Gomat to find empty tents and giant lizards feeding on dead sheep.
+Investigating the dust cloud, the party meets a Dunmari scout, Alesh, on the Stoneway, the old Drankorian trade road. Alesh tells them of herders camped at Gomat; the party heads there to seek more information. After a long march the next day, the party reaches Gomat to find empty tents and giant lizards feeding on dead sheep.
 
 #### Long
 The dust cloud belongs to Alesh, a Dunmari scout returning from Gomat, where she had spent the night with Akan and his family, who were grazing their herds in the area. She speaks with the party, discussing the attacks on the town, and how in her childhood people were scared, but for the past decade the [[Nashtkar]], the blasted plains, has seemed, if not safe, at least less of a constant threat to [[Karawa]]. But perhaps that is changing, she muses. She rides on for the grazing lands north of [[Karawa]], while the party turns east for Gomat.
@@ -213,7 +213,7 @@ They follow the [[Stoneway|ancient road]] east through land twisted by cataclysm
 
 - Karawa
   - Summary: A desert settlement around an oasis beneath a red sandstone mesa, where the four travelers meet, repel a giant hyena attack, and accept Kisa's request to investigate.
-  - Sublocations: Ikram's, the village edge, and Badya's teahouse
+  - Sublocations: Ikram's, the village edge, Badya's teahouse
   - Date Visited: 1748-03-22
 - Karawa Desert
   - Summary: Rocky badlands where the hyenas' trail vanishes
