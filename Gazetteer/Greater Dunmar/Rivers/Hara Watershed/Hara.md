@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place]
 name: Hara
 typeOf: waterway
 whereabouts: Hara Watershed
@@ -24,14 +23,14 @@ The region in the immediate vicinity of [[Tokra]] is rocky and hard, especially 
 
 South of [[Tokra]], the river passes through a series of small canyons on the rugged [[Sukal Plains]]. The [[Sukal]] joins between [[Tokra]] and [[Askandi]], and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
 
-Just north of [[Askandi]], the terrain levels, and the Hara pursues a slow, twisting path southeast. [[Askandi]] sits on the floodplains of the [[Lower Hara Valley]], a wide flat basin between the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau. Here, virtually no rain falls, even during the monsoon, but the flood of the Hara, swollen from monsoon rains to the north, sustains a rich riparian ecosystem and the city of [[Askandi]] itself. 
+Just north of [[Askandi]], the terrain levels, and the Hara pursues a slow, twisting path southeast. [[Askandi]] sits on the floodplains of the [[Lower Hara Valley]], a wide flat basin between the [[Yuvanti Mountains]] and the [[Garamjala Plateau]]. Here, virtually no rain falls, even during the monsoon, but the flood of the Hara, swollen from monsoon rains to the north, sustains a rich riparian ecosystem and the city of [[Askandi]] itself.
 
-Beyond [[Askandi]], the land begins to rise again as the [[Garamjala Desert|Garamjala]] Plateau joins the [[Yuvanti Mountains]]. This is a land of dry desert canyons, as the Hara narrows again as it cuts through the [[highlands]] via the [[Hara Gorge]]. 
+Beyond [[Askandi]], the land begins to rise again as the [[Garamjala Plateau]] joins the [[Yuvanti Mountains]]. This is a land of dry desert canyons, as the Hara narrows again as it cuts through the [[highlands]] via the [[Hara Gorge]].
 
 Beyond the [[Hara Gorge]], no one knows the fate of the river. Does it feed a seasonal lake in the depths of the [[Garamjala Desert|Garamjala]]? Does it flow all the way through the plateau to join the [[Istaros]], as it once did? Or does something stranger happen?
 ## In Dunmari Culture
 
-The Hara is a central river of Dunmari myth and culture. Before the [[Great War]], when the Dunmari settled in this land, the two great rivers of the Hara and the [[Kharja]], collectively known as Jeevali's Tears, provided water and sustenance to much of the people of the [[Hara Basin]]. Before the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau were raised, these rivers were separated only by the high land around [[Karawa]], and the monsoons swept across the entire plains, supporting a rich grassland ecosystem.
+The Hara is a central river of Dunmari myth and culture. Before the [[Great War]], when the Dunmari settled in this land, the two great rivers of the Hara and the [[Kharja]], collectively known as Jeevali's Tears, provided water and sustenance to much of the people of the [[Hara Basin]]. Before the [[Yuvanti Mountains]] and the [[Garamjala Plateau]] were raised, these rivers were separated only by the high land around [[Karawa]], and the monsoons swept across the entire plains, supporting a rich grassland ecosystem.
 
 Since the [[Great War]], the [[Kharja]] has nearly or completely dried up. None have traced its route into the [[Garamjala Desert|Garamjala]], but even near [[Kharsan]] it flows only fitfully, in sudden floods after rare storms, and it is presumed it no longer meets the Hara. 
 
@@ -41,7 +40,7 @@ The Hara has thus taken on greater significance for the Dunmari. Without it, lif
 
 Starts in the [[Sentinel Range|Sentinels]], where its main tributaries join north of [[Tokra]] ([[Sone]] and [[Thandar]])
 Flows past [[Tokra]]; from [[Tokra]] south to [[Askandi]] most tributaries are seasonal, except for a few small rivers with sources in the [[Copper Hills]]
-Past [[Askandi]], enters the Hara River Gorge between the Yuvanti and the [[Garamjala Desert|Garamjala]] Plateau
+Past [[Askandi]], enters the Hara River Gorge between the Yuvanti and the [[Garamjala Plateau]]
 Once, it flowed south to join the [[Istaros]] north of [[Drankor]], but whether it still does is anyone's guess
 
 Real world: Indus River Valley, Brahmaputra River Basin, general area of the [Indo-Gangetic Plain](https://en.wikipedia.org/wiki/Indo-Gangetic_Plain)

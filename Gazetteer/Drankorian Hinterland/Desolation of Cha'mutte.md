@@ -5,20 +5,20 @@ lintVersion: "3.5"
 tags: [place, status/check/errors, status/check/lint]
 typeOf: region
 name: "Desolation of Cha'mutte"
-pronunciation: desolation of shah-MUTT
+aliases: [Drankorian Wastes]
+pronunciation: shah-MUTT
 whereabouts: Drankorian Hinterland
 dm_owner: tim
 dm_notes: important
 POV: modern
 ---
 # The Desolation of Cha'mutte
+*(shah-MUTT)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/errors -> lumps together diverse areas with different causes and metaphysics, which need to be disentangled %%
-
-The Desolation of Cha'mutte is a large area that is magically corrupted as a result of the [[First Plague]] and the [[Great War]]. 
+The Desolation of Cha'mutte, often called the Drankorian Wastes, is a large area of magically cursed and dangerous land, corrupted as a result of the events surrounding the [[Fall of Drankor]]. 
 
 The Desolation of Cha'mutte includes:
 - The area around the ruined city of [[Drankor]] itself, destroyed during the chaos of the [[First Plague]], and now deeply cursed and unexplored.  %%needs a name?%%

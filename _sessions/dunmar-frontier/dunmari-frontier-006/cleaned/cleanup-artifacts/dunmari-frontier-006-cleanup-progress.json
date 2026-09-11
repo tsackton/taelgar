@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "sourceSha256": "52facdfcb70af7f1c5ca4f41d2a8d68e08c42545de90a1d6037c7fbc0364c9c2",
+  "mode": "interactive",
+  "state": "cleanup-complete-approved",
+  "reviewedThrough": "u3951",
+  "nextLineId": null,
+  "totalLines": 3951,
+  "reviewedLineCount": 3951,
+  "remainingLineCount": 0,
+  "secondPassCompleteThrough": "u3951",
+  "unresolvedLineIds": [],
+  "reviewedThroughTime": "03:38:54.814",
+  "updatedAt": "2026-09-11T14:07:46.693275+00:00",
+  "note": "Cleanup and strict second pass complete for all 3951 lines. User-accepted phrases are preserved verbatim. User confirmed cleanup and authorized transcript splitting.",
+  "manualReviewAudioPath": "/private/tmp/dunmar006-book-context.m4a",
+  "manualReviewAudioRange": "00:10:15–00:10:38",
+  "manualReviewClips": [
+    {
+      "lineIds": [
+        "u1014",
+        "u1016"
+      ],
+      "path": "/private/tmp/dunmar006-review-inventory.m4a",
+      "startSeconds": 3297,
+      "durationSeconds": 19
+    },
+    {
+      "lineIds": [
+        "u1239"
+      ],
+      "path": "/private/tmp/dunmar006-review-travel.m4a",
+      "startSeconds": 3868,
+      "durationSeconds": 25
+    },
+    {
+      "lineIds": [
+        "u1526"
+      ],
+      "path": "/private/tmp/dunmar006-review-riswynn.m4a",
+      "startSeconds": 4980,
+      "durationSeconds": 25
+    },
+    {
+      "lineIds": [
+        "u1957"
+      ],
+      "path": "/private/tmp/dunmar006-review-sleep.m4a",
+      "startSeconds": 6974,
+      "durationSeconds": 16
+    }
+  ],
+  "cleanedSha256": "6413fa09c53a10db056ed8cf44169e9cd415f05d62ef674297f3f780c16cbe62",
+  "resolvedReviewQuestions": [
+    {
+      "lineIds": [
+        "u1014",
+        "u1016"
+      ],
+      "time": "00:55:02",
+      "context": "Adding the Cure Wounds spell scroll to inventory; immediately before Kenzo asks about the black iron staff.",
+      "markedText": "[[Tag smooth]]- ... [[1D]]."
+    },
+    {
+      "lineIds": [
+        "u1239"
+      ],
+      "time": "01:04:35",
+      "context": "Planning the round trip to Raven’s Hold; DM estimates six to seven days each way and Kenzo proposes three weeks overall.",
+      "markedText": "I feel like we're gonna need to [[make a halt]]"
+    },
+    {
+      "lineIds": [
+        "u1526"
+      ],
+      "time": "01:23:12",
+      "context": "Riswynn’s first character description, following her well-maintained armor, mace, and shield.",
+      "markedText": "She looks ready to [[maintain]] a, a, a journey of some distance and, and he- determined to, uh, reach her destination."
+    },
+    {
+      "lineIds": [
+        "u1957"
+      ],
+      "time": "01:56:22",
+      "context": "Seeker describes the glowing drawing used for Sleep. Wellby imagines cute sleeping hyenas curled up in balls.",
+      "markedText": "It's actually [[kind of]] going over a fence."
+    }
+  ],
+  "userCleanupThreshold": "Preserve merely awkward or inconsequential wording; user accepted all four prior review questions as transcribed.",
+  "validation": {
+    "lineCount": 3951,
+    "changedLineCount": 126,
+    "replacementPatternCount": 83,
+    "unresolvedCount": 0,
+    "validationErrors": [],
+    "headersPreserved": true,
+    "ledgerReproducesCleanedText": true,
+    "humanTranscriptMatchesCleanedText": true,
+    "acceptedPhrasesPreserved": true
+  },
+  "approval": {
+    "userInstruction": "yes continue",
+    "recordedAt": "2026-09-11T14:07:46.693275+00:00"
+  }
+}

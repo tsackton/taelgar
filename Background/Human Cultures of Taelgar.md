@@ -81,14 +81,14 @@ The [[Sentinel Range|Sentinels]] divide the continent in two, and in general, ar
 ## [[Hara Basin]]
 
 ### Dunmari
-The [[Dunmar|Dunmari]] culture dominates this region, and are effectively the only humans between the [[Sentinel Range|Sentinels]], the [[Myraeni Gap]], and the [[Desolation of Cha'mutte]]. Although there are some different cultural strands within the Dunmari culture, between the more traditional east and the more sedentary west, at least in 1749 the Dunmari are still a single (mostly) unified culture.
+The [[Dunmar|Dunmari]] culture dominates this region, and are effectively the only humans between the [[Sentinel Range|Sentinels]], the [[Myraeni Gap]], and the [[Nashtkar]] and [[Garamjala Desert]]. Although there are some different cultural strands within the Dunmari culture, between the more traditional east and the more sedentary west, at least in 1749 the Dunmari are still a single (mostly) unified culture.
 
 The Dunmari originated as a unique migration from Hkar, originally to a homeland in the far east (exact location is not canonical). In the years immediately after the [[Fall of Drankor]], they travelled west, and somewhere in the [[Istaros Watershed]], split into two groups. One, who continued west, became the modern Dunmari. The other group did not continue west, and presumably returned to their original homeland, although this is not strictly canonical - perhaps they died in the [[Great Desert]] or ended up somewhere in the far south or east. 
 
 ##### Historical Note
 The historical cultures that existed in the [[Hara Basin]] have largely vanished, between the upheavals of the [[First Plague]] and the [[Great War]], and are not currently defined. 
 ## Istaros Watershed
-Although the [[Istaros Watershed]] is today mostly a desolate [[Plaguelands]], some important cultural trends emerged from the Istaros, or have developed on the borders.
+Although the [[Plaguelands]] now cover [[Isingue]] and the surrounding [[Upper Istaros]], some important cultural trends emerged from the [[Istaros Watershed]], or have developed on the borders.
 ### Aurbez
 The people of the [[Aurbez and the Andonne]] are broadly descended from a mix of new settlers from [[Sembara]] and [[Duchy of Maseau|Maseau]] and [[Isingue|Isinguese]] refugees. A unique culture is forming here, as is potentially a language, but as of 1750 DR this is still a broadly Sembaran culture.
 ### Maseau

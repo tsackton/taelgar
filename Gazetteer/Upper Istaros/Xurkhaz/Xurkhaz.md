@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/text
+tags: [place, status/cleanup/text]
 name: Xurkhaz
 created: 1583
 typeOf: realm
@@ -28,7 +26,7 @@ Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [[People of the Rai
 Xurkhaz is roughly a triangle, wedged between the [[Kulthul]] and the [[Istaros]] rivers. The borders of Xurkhaz start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the [[Orcs]] of Xurkhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the inhospitable land further south is not settled. To the west, Xurkhaz follows the course of the Kulthul, which forms a defensible western border against the dangers of the [[Nashtkar]], end in a series of forts about 100 miles north of the confluence. 
 
 %% comment
-at some point need to work out the hierarchy of [[Nashtkar]], [[Garamjala Desert|Garamjala]], [[Plaguelands]], and [[Desolation of Cha'mutte]]
+Regional terminology: [[Nashtkar]] is the plague-scarred region west of [[Xurkhaz]]; [[Garamjala Desert|Garamjala]] is the desert east and south of [[Dunmar]]; [[Plaguelands]] refers to [[Isingue]] and the surrounding [[Upper Istaros]]; and [[Desolation of Cha'mutte]] (Drankorian Wastes) refers to the loosely bounded area around [[Drankor]].
 %%
 
 The heart of the kingdom is the land between the two rivers, which is heavily irrigated; the land is more densely settled to the east, and especially the western banks of the Drogar. This is a dry, arid land of rolling hills and deserts, sustained by heavy irrigation and desert-adapted, long-horned cattle. Cattle and wheat are prominent in both the culture and the landscape. 

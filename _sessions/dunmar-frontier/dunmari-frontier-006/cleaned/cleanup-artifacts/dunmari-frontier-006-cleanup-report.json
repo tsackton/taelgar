@@ -1,0 +1,889 @@
+{
+  "summary": {
+    "changedLineCount": 126,
+    "replacementCount": 83,
+    "repeatedReplacementCount": 11,
+    "topReplacements": [
+      {
+        "from": "Delweth",
+        "to": "Delwath",
+        "count": 16,
+        "headers": [
+          "[u1826 | 01:49:04.940-01:49:11.900 | Delwath]",
+          "[u1840 | 01:49:57.400-01:50:04.924 | DM]",
+          "[u2663 | 02:30:39.916-02:30:50.376 | Seeker]",
+          "[u2712 | 02:33:20.624-02:33:21.224 | Riswynn]",
+          "[u2750 | 02:34:42.364-02:34:45.603 | Kenzo]",
+          "[u2761 | 02:35:14.884-02:35:19.764 | DM]",
+          "[u2764 | 02:35:22.734-02:35:23.364 | Wellby]",
+          "[u3061 | 02:48:33.036-02:48:33.586 | DM]",
+          "[u3067 | 02:48:41.836-02:48:45.796 | Delwath]",
+          "[u3088 | 02:49:52.956-02:49:58.116 | DM]",
+          "[u3110 | 02:51:27.498-02:51:35.648 | DM]",
+          "[u3139 | 02:52:44.228-02:52:48.448 | DM]",
+          "[u3163 | 02:54:00.728-02:54:07.748 | Kenzo]",
+          "[u3184 | 02:54:58.838-02:55:01.768 | DM]",
+          "[u3203 | 02:55:40.668-02:55:42.328 | DM]"
+        ]
+      },
+      {
+        "from": "Agir",
+        "to": "Aagir",
+        "count": 9,
+        "headers": [
+          "[u0785 | 00:44:02.960-00:44:08.300 | DM]",
+          "[u0786 | 00:44:10.300-00:44:11.040 | DM]",
+          "[u0797 | 00:44:50.760-00:44:53.880 | Kenzo]",
+          "[u0803 | 00:44:58.059-00:45:04.800 | DM]",
+          "[u0815 | 00:45:29.550-00:45:33.720 | Kenzo]",
+          "[u0816 | 00:45:35.220-00:45:36.920 | Kenzo]",
+          "[u0831 | 00:46:17.220-00:46:20.860 | DM]"
+        ]
+      },
+      {
+        "from": "Ravensholt",
+        "to": "Raven ' s Hold",
+        "count": 7,
+        "headers": [
+          "[u1556 | 01:25:48.036-01:25:53.536 | DM]",
+          "[u1570 | 01:27:02.156-01:27:09.616 | Riswynn]",
+          "[u1574 | 01:27:35.316-01:27:45.036 | Riswynn]",
+          "[u1583 | 01:28:23.276-01:28:28.556 | Riswynn]",
+          "[u1616 | 01:30:40.996-01:30:45.576 | Riswynn]",
+          "[u1624 | 01:31:13.216-01:31:21.136 | Wellby]"
+        ]
+      },
+      {
+        "from": "Ravenholdt",
+        "to": "Raven ' s Hold",
+        "count": 5,
+        "headers": [
+          "[u1233 | 01:04:25.856-01:04:28.156 | Delwath]",
+          "[u1241 | 01:04:42.256-01:04:52.396 | Kenzo]",
+          "[u1243 | 01:04:58.716-01:05:05.096 | Wellby]",
+          "[u1247 | 01:05:13.386-01:05:14.856 | DM]",
+          "[u1631 | 01:31:56.812-01:31:59.052 | Kenzo]"
+        ]
+      },
+      {
+        "from": "intelligence",
+        "to": "Intelligence",
+        "count": 4,
+        "headers": [
+          "[u1447 | 01:18:37.120-01:18:45.460 | DM]",
+          "[u1451 | 01:18:58.080-01:19:01.940 | Seeker]",
+          "[u1452 | 01:19:01.940-01:19:04.760 | DM]",
+          "[u1856 | 01:50:45.144-01:50:47.664 | DM]"
+        ]
+      },
+      {
+        "from": "moths",
+        "to": "mouths",
+        "count": 3,
+        "headers": [
+          "[u3585 | 03:16:54.602-03:17:00.142 | Wellby]",
+          "[u3909 | 03:36:16.600-03:36:27.460 | DM]"
+        ]
+      },
+      {
+        "from": "Kenso",
+        "to": "Kenzo",
+        "count": 2,
+        "headers": [
+          "[u0738 | 00:40:46.152-00:40:53.792 | Seeker]",
+          "[u0740 | 00:40:59.452-00:41:04.272 | Seeker]"
+        ]
+      },
+      {
+        "from": "Kenza",
+        "to": "Kenzo",
+        "count": 2,
+        "headers": [
+          "[u0063 | 00:03:45.060-00:03:47.480 | DM]",
+          "[u1191 | 01:01:47.596-01:01:53.356 | DM]"
+        ]
+      },
+      {
+        "from": "Ravenshold",
+        "to": "Raven ' s Hold",
+        "count": 2,
+        "headers": [
+          "[u1561 | 01:26:01.856-01:26:05.176 | Kenzo]"
+        ]
+      },
+      {
+        "from": "a",
+        "to": "an",
+        "count": 2,
+        "headers": [
+          "[u0550 | 00:29:47.736-00:29:58.196 | DM]",
+          "[u0782 | 00:43:42.260-00:43:52.200 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3951,
+  "changedLineCount": 126,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0029 | 00:01:26.340-00:01:35.620 | DM]",
+      "lineNumber": 29,
+      "originalText": "the desert stretching off in the distance, the red cliff walls of the mesa leaving behind you, people gathering to chat and talk at the oasis.",
+      "cleanedText": "the desert stretching off in the distance, the red cliff walls of the mesa looming behind you, people gathering to chat and talk at the oasis."
+    },
+    {
+      "header": "[u0048 | 00:03:06.440-00:03:09.960 | Kenzo]",
+      "lineNumber": 48,
+      "originalText": "Because basically, uh, from...",
+      "cleanedText": "Because basically, uh..."
+    },
+    {
+      "header": "[u0053 | 00:03:23.840-00:03:26.180 | Kenzo]",
+      "lineNumber": 53,
+      "originalText": "And they're being, uh, they're, they're heading west with",
+      "cleanedText": "And they're -- they're heading west with"
+    },
+    {
+      "header": "[u0061 | 00:03:39.470-00:03:43.600 | Kenzo]",
+      "lineNumber": 61,
+      "originalText": "Because the, uh, um, the, uh, uh, La- Laka?",
+      "cleanedText": "Because, ah, ah, Laka?"
+    },
+    {
+      "header": "[u0062 | 00:03:43.600-00:03:45.060 | Kenzo]",
+      "lineNumber": 62,
+      "originalText": "Uh, no, no, it's not Laka. It's, uh-",
+      "cleanedText": "Uh, it's not Laka..."
+    },
+    {
+      "header": "[u0063 | 00:03:45.060-00:03:47.480 | DM]",
+      "lineNumber": 63,
+      "originalText": "Kenza, the Shakun.",
+      "cleanedText": "Kenzo, the Shakun."
+    },
+    {
+      "header": "[u0075 | 00:04:18.649-00:04:20.300 | DM]",
+      "lineNumber": 75,
+      "originalText": "They're finding another messenger to ride south",
+      "cleanedText": "So Suma got another messenger. Right."
+    },
+    {
+      "header": "[u0076 | 00:04:20.300-00:04:22.590 | Kenzo]",
+      "lineNumber": 76,
+      "originalText": "... right, right. That's what it was. Right, 'cause there are politics involved.",
+      "cleanedText": "... right, right. That's what it was. Right, 'cause there were politics involved."
+    },
+    {
+      "header": "[u0104 | 00:05:28.660-00:05:34.140 | Wellby]",
+      "lineNumber": 104,
+      "originalText": "And that fort marking due east of Domat across the chasm or canyon-",
+      "cleanedText": "And that fort marking due east of Gomat across the Chasm or canyon-"
+    },
+    {
+      "header": "[u0105 | 00:05:34.140-00:05:34.820 | DM]",
+      "lineNumber": 105,
+      "originalText": "That's where it were, yeah",
+      "cleanedText": "That's where we were, yeah"
+    },
+    {
+      "header": "[u0207 | 00:10:25.836-00:10:31.616 | Seeker]",
+      "lineNumber": 207,
+      "originalText": "... journal for us. And so where did re- we receive all those gifts, in the tavern or something?",
+      "cleanedText": "... general area for us. And so where did re- we receive all those gifts, in the tavern or something?"
+    },
+    {
+      "header": "[u0248 | 00:12:23.384-00:12:33.804 | DM]",
+      "lineNumber": 248,
+      "originalText": "yeah, that's easy at the, you know, at the market or, you know, for, for basic stuff, Josu could s- I mean, a shield you could easily get from him.",
+      "cleanedText": "yeah, that's easy at the, you know, at the market or, you know, for, for basic stuff, Jasu could s- I mean, a shield you could easily get from him."
+    },
+    {
+      "header": "[u0267 | 00:13:14.864-00:13:16.524 | Kenzo]",
+      "lineNumber": 267,
+      "originalText": "I do have some range weapons.",
+      "cleanedText": "I do have some ranged weapons."
+    },
+    {
+      "header": "[u0271 | 00:13:18.584-00:13:21.644 | Delwath]",
+      "lineNumber": 271,
+      "originalText": "Can I trade in... Like, so I have a chained shirt.",
+      "cleanedText": "Can I trade in... Like, so I have a chain shirt."
+    },
+    {
+      "header": "[u0286 | 00:13:52.304-00:13:53.254 | DM]",
+      "lineNumber": 286,
+      "originalText": "Dalrik has a horse.",
+      "cleanedText": "Delwath has a horse."
+    },
+    {
+      "header": "[u0320 | 00:15:29.104-00:15:33.124 | Wellby]",
+      "lineNumber": 320,
+      "originalText": "So there's no, there's not, like, like, Talgar Roundup or, like...",
+      "cleanedText": "So there's no, there's not, like, like, Taelgar Roundup or, like..."
+    },
+    {
+      "header": "[u0371 | 00:18:16.484-00:18:21.382 | Kenzo]",
+      "lineNumber": 371,
+      "originalText": "I think we probably wanna go at a pace where we can still Take in the...",
+      "cleanedText": "I think we probably wanna go at a pace where we can still take in the..."
+    },
+    {
+      "header": "[u0408 | 00:20:49.872-00:20:53.312 | Wellby]",
+      "lineNumber": 408,
+      "originalText": "we not have to role play through the encounter, uh,",
+      "cleanedText": "we don’t have to role play through the encounter, uh,"
+    },
+    {
+      "header": "[u0415 | 00:21:12.092-00:21:13.552 | DM]",
+      "lineNumber": 415,
+      "originalText": "So Wellby doing that. Um,",
+      "cleanedText": "So Wellby’s doing that. Um,"
+    },
+    {
+      "header": "[u0537 | 00:28:32.876-00:28:35.516 | DM]",
+      "lineNumber": 537,
+      "originalText": "make just a straight wisdom check.",
+      "cleanedText": "make just a straight Wisdom check."
+    },
+    {
+      "header": "[u0550 | 00:29:47.736-00:29:58.196 | DM]",
+      "lineNumber": 550,
+      "originalText": "a second wall that's mostly crumbling, and then a intact tower that's set against a cliff, and then there's a sort of field stretching on either side of the river",
+      "cleanedText": "a second wall that's mostly crumbling, and then an intact tower that's set against a cliff, and then there's a sort of field stretching on either side of the river"
+    },
+    {
+      "header": "[u0557 | 00:30:28.996-00:30:39.168 | DM]",
+      "lineNumber": 557,
+      "originalText": "pain and this just raw desire for, um- To just consume whatever you can get, and you get kind",
+      "cleanedText": "pain and this just raw desire for, um- to just consume whatever you can get, and you get kind"
+    },
+    {
+      "header": "[u0738 | 00:40:46.152-00:40:53.792 | Seeker]",
+      "lineNumber": 738,
+      "originalText": "uh, legendary staff of Kenso, full of illustrations of different poses over the course of a few seconds.",
+      "cleanedText": "uh, legendary staff of Kenzo, full of illustrations of different poses over the course of a few seconds."
+    },
+    {
+      "header": "[u0740 | 00:40:59.452-00:41:04.272 | Seeker]",
+      "lineNumber": 740,
+      "originalText": "You can see almost, it's almost like an animation of Kenso fighting, fighting, fighting.",
+      "cleanedText": "You can see almost, it's almost like an animation of Kenzo fighting, fighting, fighting."
+    },
+    {
+      "header": "[u0769 | 00:42:30.452-00:42:35.312 | Kenzo]",
+      "lineNumber": 769,
+      "originalText": "[clears throat] well, first, I, I wish that more, more time to spend here with you to learn more about the Shakun.",
+      "cleanedText": "[clears throat] well, first, I, I wish I had more, more time to spend here with you to learn more about the Shakun."
+    },
+    {
+      "header": "[u0777 | 00:43:24.120-00:43:25.520 | DM]",
+      "lineNumber": 777,
+      "originalText": "Sort of pause this for a moment.",
+      "cleanedText": "Sort of pauses for a moment."
+    },
+    {
+      "header": "[u0782 | 00:43:42.260-00:43:52.200 | DM]",
+      "lineNumber": 782,
+      "originalText": "I'm not a expert in our history, but from what I understand, much of the north was, was a war zone for much of the history of Dunmar.",
+      "cleanedText": "I'm not an expert in our history, but from what I understand, much of the north was, was a war zone for much of the history of Dunmar."
+    },
+    {
+      "header": "[u0785 | 00:44:02.960-00:44:08.300 | DM]",
+      "lineNumber": 785,
+      "originalText": "often, if not always, uh, you know, devotees of Agir.",
+      "cleanedText": "often, if not always, uh, you know, devotees of Aagir."
+    },
+    {
+      "header": "[u0786 | 00:44:10.300-00:44:11.040 | DM]",
+      "lineNumber": 786,
+      "originalText": "Agir is a...",
+      "cleanedText": "Aagir is a..."
+    },
+    {
+      "header": "[u0797 | 00:44:50.760-00:44:53.880 | Kenzo]",
+      "lineNumber": 797,
+      "originalText": "Does A- does Agir... So Agir is one of, like, it's Laka, Agir, Shakun.",
+      "cleanedText": "Does A- does Aagir... So Aagir is one of, like, it's Laka, Aagir, Shakun."
+    },
+    {
+      "header": "[u0803 | 00:44:58.059-00:45:04.800 | DM]",
+      "lineNumber": 803,
+      "originalText": "... he is one of the, like... So Jeevali, Laka, Agir, one of the, like, Five Siblings in the, in the pantheon.",
+      "cleanedText": "... he is one of the, like... So Jeevali, Laka, Aagir, one of the, like, Five Siblings in the, in the pantheon."
+    },
+    {
+      "header": "[u0815 | 00:45:29.550-00:45:33.720 | Kenzo]",
+      "lineNumber": 815,
+      "originalText": "... Candrosa, are you saying that there, there, um, there are temples to Agir in the north,",
+      "cleanedText": "... Candrosa, are you saying that there, there, um, there are temples to Aagir in the north,"
+    },
+    {
+      "header": "[u0816 | 00:45:35.220-00:45:36.920 | Kenzo]",
+      "lineNumber": 816,
+      "originalText": "or shrines to Agir in the north?",
+      "cleanedText": "or shrines to Aagir in the north?"
+    },
+    {
+      "header": "[u0831 | 00:46:17.220-00:46:20.860 | DM]",
+      "lineNumber": 831,
+      "originalText": "would have trusted to Agir to keep them safe and",
+      "cleanedText": "would have trusted to Aagir to keep them safe and"
+    },
+    {
+      "header": "[u0903 | 00:50:06.532-00:50:16.532 | Delwath]",
+      "lineNumber": 903,
+      "originalText": "But if anybody has supplies or, or reads on things like healing potions or the red mud that the temple has or anything",
+      "cleanedText": "But if anybody has supplies or, or leads on things like healing potions or the red mud that the temple has or anything"
+    },
+    {
+      "header": "[u0968 | 00:52:52.932-00:52:55.812 | DM]",
+      "lineNumber": 968,
+      "originalText": "And each charge heals you two D4 plus two.",
+      "cleanedText": "And each charge heals you 2d4 plus two."
+    },
+    {
+      "header": "[u0982 | 00:53:21.852-00:53:23.352 | Seeker]",
+      "lineNumber": 982,
+      "originalText": "Oh, potion healing, okay.",
+      "cleanedText": "Oh, potion of healing, okay."
+    },
+    {
+      "header": "[u0987 | 00:53:35.232-00:53:46.592 | DM]",
+      "lineNumber": 987,
+      "originalText": "Um, o- on the topic of items, so, uh, I assume you wanna get your steel, your, uh, metal chain from Jasoo",
+      "cleanedText": "Um, o- on the topic of items, so, uh, I assume you wanna get your steel, your, uh, metal chain from Jasu"
+    },
+    {
+      "header": "[u1031 | 00:55:21.104-00:55:23.734 | DM]",
+      "lineNumber": 1031,
+      "originalText": "It's not magic with the thing is cracked off.",
+      "cleanedText": "It's not magic with the thing cracked off."
+    },
+    {
+      "header": "[u1080 | 00:57:19.564-00:57:26.304 | Kenzo]",
+      "lineNumber": 1080,
+      "originalText": "if I wanted to learn how to, like, use a spear instead of a, you know, my quarter staff, then it's like, it's a variation on, but it is different.",
+      "cleanedText": "if I wanted to learn how to, like, use a spear instead of a, you know, my quarterstaff, then it's like, it's a variation on, but it is different."
+    },
+    {
+      "header": "[u1101 | 00:58:17.324-00:58:21.603 | DM]",
+      "lineNumber": 1101,
+      "originalText": "S- so he would be happy to keep it safe in the temple if you don't want to carry.",
+      "cleanedText": "S- so he would be happy to keep it safe in the temple if you don't want to carry it."
+    },
+    {
+      "header": "[u1172 | 01:00:59.834-01:01:05.184 | Kenzo]",
+      "lineNumber": 1172,
+      "originalText": "... is, um, is if, like, we're at Ravenhold and we're like, \"Fuck, I wish we had a grappling hook,\" or, like...",
+      "cleanedText": "... is, um, is if, like, we're at Raven's Hold and we're like, \"Fuck, I wish we had a grappling hook,\" or, like..."
+    },
+    {
+      "header": "[u1191 | 01:01:47.596-01:01:53.356 | DM]",
+      "lineNumber": 1191,
+      "originalText": "Right. Well, Wellby is fine no matter what, as long as Delwath or Kenza is carrying the staff.",
+      "cleanedText": "Right. Well, Wellby is fine no matter what, as long as Delwath or Kenzo is carrying the staff."
+    },
+    {
+      "header": "[u1210 | 01:02:46.896-01:02:56.406 | DM]",
+      "lineNumber": 1210,
+      "originalText": "and then another woman cloaked and hooded and kinda nondescript looking, but with a long bow and two quivers of arrows, um, slung on her horse.",
+      "cleanedText": "and then another woman cloaked and hooded and kinda nondescript looking, but with a longbow and two quivers of arrows, um, slung on her horse."
+    },
+    {
+      "header": "[u1227 | 01:03:58.316-01:04:07.056 | DM]",
+      "lineNumber": 1227,
+      "originalText": "I doubt I, I doubt having to go s- you know, given that we're gonna be trying stealthy and avoid enemies, we can travel more than 20 miles a day.",
+      "cleanedText": "I doubt I, I doubt having to go s- you know, given that we're gonna be trying to be stealthy and avoid enemies, we can travel more than 20 miles a day."
+    },
+    {
+      "header": "[u1233 | 01:04:25.856-01:04:28.156 | Delwath]",
+      "lineNumber": 1233,
+      "originalText": "I, sorry, I forget how long Ravenholdt is.",
+      "cleanedText": "I, sorry, I forget how long Raven's Hold is."
+    },
+    {
+      "header": "[u1241 | 01:04:42.256-01:04:52.396 | Kenzo]",
+      "lineNumber": 1241,
+      "originalText": "Yeah, it feels like we're gonna need at least two weeks for our, our travel to Ravenholdt, and if, to investigate anything that might have, uh, come up will require another, another several days at least.",
+      "cleanedText": "Yeah, it feels like we're gonna need at least two weeks for our, our travel to Raven's Hold, and if, to investigate anything that might have, uh, come up will require another, another several days at least."
+    },
+    {
+      "header": "[u1243 | 01:04:58.716-01:05:05.096 | Wellby]",
+      "lineNumber": 1243,
+      "originalText": "And would that give us time to, i- if, say, we finished at Ravenholdt and wanted to check out the lightning storm before coming south again,",
+      "cleanedText": "And would that give us time to, i- if, say, we finished at Raven's Hold and wanted to check out the lightning storm before coming south again,"
+    },
+    {
+      "header": "[u1247 | 01:05:13.386-01:05:14.856 | DM]",
+      "lineNumber": 1247,
+      "originalText": "... Ravenholdt. I mean, we should-",
+      "cleanedText": "... Raven's Hold. I mean, we should-"
+    },
+    {
+      "header": "[u1350 | 01:11:49.452-01:11:52.072 | DM]",
+      "lineNumber": 1350,
+      "originalText": "Alesh Had, had said before she had never rode past the,",
+      "cleanedText": "Alesh had, had said before she had never rode past the,"
+    },
+    {
+      "header": "[u1366 | 01:12:45.612-01:12:47.972 | DM]",
+      "lineNumber": 1366,
+      "originalText": "Uh, it's a place I'd love to visit sometimes.",
+      "cleanedText": "Uh, it's a place I'd love to visit sometime."
+    },
+    {
+      "header": "[u1369 | 01:12:51.852-01:12:58.572 | DM]",
+      "lineNumber": 1369,
+      "originalText": "So it's near the road. It's near one of the trade routes to Sombar, and so every now and then we'll get people, usually around this time, actually.",
+      "cleanedText": "So it's near the road. It's near one of the trade routes to Sembara, and so every now and then we'll get people, usually around this time, actually."
+    },
+    {
+      "header": "[u1414 | 01:16:14.160-01:16:15.420 | Kenzo]",
+      "lineNumber": 1414,
+      "originalText": "You as well in safe travels.",
+      "cleanedText": "You as well and safe travels."
+    },
+    {
+      "header": "[u1424 | 01:16:45.500-01:16:46.180 | DM]",
+      "lineNumber": 1424,
+      "originalText": "I'll bring it back, guys.",
+      "cleanedText": "I'll be right back, guys."
+    },
+    {
+      "header": "[u1447 | 01:18:37.120-01:18:45.460 | DM]",
+      "lineNumber": 1447,
+      "originalText": "I would say make an intelligence check and then add four, which is twice your proficiency bonus because using the,",
+      "cleanedText": "I would say make an Intelligence check and then add four, which is twice your proficiency bonus because using the,"
+    },
+    {
+      "header": "[u1451 | 01:18:58.080-01:19:01.940 | Seeker]",
+      "lineNumber": 1451,
+      "originalText": "So wait, I just, I'm going to roll the intelligence check.",
+      "cleanedText": "So wait, I just, I'm going to roll the Intelligence check."
+    },
+    {
+      "header": "[u1452 | 01:19:01.940-01:19:04.760 | DM]",
+      "lineNumber": 1452,
+      "originalText": "Roll an intelligence check and then add four to it.",
+      "cleanedText": "Roll an Intelligence check and then add four to it."
+    },
+    {
+      "header": "[u1456 | 01:19:18.300-01:19:28.608 | DM]",
+      "lineNumber": 1456,
+      "originalText": "But you feel pretty comfortable with the job that you've done and you think that You know, this, you've definitely made a difference,",
+      "cleanedText": "But you feel pretty comfortable with the job that you've done and you think that you know, this, you've definitely made a difference,"
+    },
+    {
+      "header": "[u1523 | 01:22:54.308-01:22:56.888 | Unknown]",
+      "lineNumber": 1523,
+      "originalText": "So you see a dwarf who",
+      "cleanedText": "So you see a dwarf whose"
+    },
+    {
+      "header": "[u1542 | 01:24:27.968-01:24:32.828 | Kenzo]",
+      "lineNumber": 1542,
+      "originalText": "apparently has two staffs, uh, kind of s- like flung, uh, connected back behind on his chair.",
+      "cleanedText": "apparently has two staffs, uh, kind of s- like slung, uh, connected back behind on his chair."
+    },
+    {
+      "header": "[u1556 | 01:25:48.036-01:25:53.536 | DM]",
+      "lineNumber": 1556,
+      "originalText": "She said Ravensholt, and I knew somebody had mentioned Ravensholt to me, and then I thought, \"Oh, I know who it was.",
+      "cleanedText": "She said Raven's Hold, and I knew somebody had mentioned Raven's Hold to me, and then I thought, \"Oh, I know who it was."
+    },
+    {
+      "header": "[u1561 | 01:26:01.856-01:26:05.176 | Kenzo]",
+      "lineNumber": 1561,
+      "originalText": "Traveler, what brings you to Ravenshold, or why are you headed to Ravenshold?",
+      "cleanedText": "Traveler, what brings you to Raven's Hold, or why are you headed to Raven's Hold?"
+    },
+    {
+      "header": "[u1564 | 01:26:20.636-01:26:30.916 | Riswynn]",
+      "lineNumber": 1564,
+      "originalText": "Um, I don't know what you've heard or what your connection is to Raven's Claw, but, uh, we dwarves are aware that, uh, there are some rumors that dwarvish artifacts",
+      "cleanedText": "Um, I don't know what you've heard or what your connection is to Raven's Hold, but, uh, we dwarves are aware that, uh, there are some rumors that dwarvish artifacts"
+    },
+    {
+      "header": "[u1567 | 01:26:45.596-01:26:55.636 | Riswynn]",
+      "lineNumber": 1567,
+      "originalText": "push of restoring things that we had left behind in our exodus from, uh, the Central Mountains when we moved down to the, to, uh, the Ardet,",
+      "cleanedText": "push of restoring things that we had left behind in our exodus from, uh, the Central Mountains when we moved down to the, to, uh, the Nardith,"
+    },
+    {
+      "header": "[u1570 | 01:27:02.156-01:27:09.616 | Riswynn]",
+      "lineNumber": 1570,
+      "originalText": "Brawn, well, Brawn anvils have, uh, a connection to Ravensholt, and one of our family artifacts is there.",
+      "cleanedText": "Brawn, well, Brawnanvils have, uh, a connection to Raven's Hold, and one of our family artifacts is there."
+    },
+    {
+      "header": "[u1574 | 01:27:35.316-01:27:45.036 | Riswynn]",
+      "lineNumber": 1574,
+      "originalText": "And so I thought instead of just continuing my quest, uh, solo to Ravensholt, it might be wise to seek some traveling companions.",
+      "cleanedText": "And so I thought instead of just continuing my quest, uh, solo to Raven's Hold, it might be wise to seek some traveling companions."
+    },
+    {
+      "header": "[u1583 | 01:28:23.276-01:28:28.556 | Riswynn]",
+      "lineNumber": 1583,
+      "originalText": "Or ha- like, have you already been to the Ravensholt area?",
+      "cleanedText": "Or ha- like, have you already been to the Raven's Hold area?"
+    },
+    {
+      "header": "[u1608 | 01:29:58.016-01:30:05.996 | Seeker]",
+      "lineNumber": 1608,
+      "originalText": "I've, I've already learned a great deal from the deep study of this book, which caused me to unfortunately miss a few of the Axbeek races, but it was worthwhile.",
+      "cleanedText": "I've, I've already learned a great deal from the deep study of this book, which caused me to unfortunately miss a few of the axe beak races, but it was worthwhile."
+    },
+    {
+      "header": "[u1616 | 01:30:40.996-01:30:45.576 | Riswynn]",
+      "lineNumber": 1616,
+      "originalText": "Or what, what is your reason for going to Ravensholt and your timeframe?",
+      "cleanedText": "Or what, what is your reason for going to Raven's Hold and your timeframe?"
+    },
+    {
+      "header": "[u1624 | 01:31:13.216-01:31:21.136 | Wellby]",
+      "lineNumber": 1624,
+      "originalText": "I do. I spoke with a halfling, uh, one of the caravans who came down through the pass near Ravensholt.",
+      "cleanedText": "I do. I spoke with a halfling, uh, one of the caravans who came down through the pass near Raven's Hold."
+    },
+    {
+      "header": "[u1631 | 01:31:56.812-01:31:59.052 | Kenzo]",
+      "lineNumber": 1631,
+      "originalText": "Riswynn, what else do you know about Ravenholdt?",
+      "cleanedText": "Riswynn, what else do you know about Raven's Hold?"
+    },
+    {
+      "header": "[u1645 | 01:33:04.912-01:33:13.502 | Riswynn]",
+      "lineNumber": 1645,
+      "originalText": "some perspective and sort of orient with the information that I have from years ago when, when Uncle Iferk lived there.",
+      "cleanedText": "some perspective and sort of orient with the information that I have from years ago when, when Uncle Eberk lived there."
+    },
+    {
+      "header": "[u1662 | 01:34:21.132-01:34:26.801 | Riswynn]",
+      "lineNumber": 1662,
+      "originalText": "I mean, the war hammer comes as naturally to the dwarf as anything else, and with, uh,",
+      "cleanedText": "I mean, the warhammer comes as naturally to the dwarf as anything else, and with, uh,"
+    },
+    {
+      "header": "[u1663 | 01:34:28.732-01:34:39.092 | Riswynn]",
+      "lineNumber": 1663,
+      "originalText": "the amount of time that I've spent in devotion to the Baharzel, I've got some capabilities for spell casting that, um, help me out",
+      "cleanedText": "the amount of time that I've spent in devotion to the Bahrâzel, I've got some capabilities for spellcasting that, um, help me out"
+    },
+    {
+      "header": "[u1704 | 01:37:45.082-01:37:55.160 | DM]",
+      "lineNumber": 1704,
+      "originalText": "And she starts by talking about how, um, Jeevali has always protected the Dunmari And the, the story which, um, Kenzo you would have",
+      "cleanedText": "And she starts by talking about how, um, Jeevali has always protected the Dunmari. And the, the story which, um, Kenzo you would have"
+    },
+    {
+      "header": "[u1705 | 01:37:55.160-01:38:05.920 | DM]",
+      "lineNumber": 1705,
+      "originalText": "heard, but the rest of you is new, um, is that when the Dunmari first settled in this land, uh, after the First Great Empire, the Drankhorean Empire, had been",
+      "cleanedText": "heard, but to the rest of you is new, um, is that when the Dunmari first settled in this land, uh, after the First Great Empire, the Drankorian Empire, had been"
+    },
+    {
+      "header": "[u1826 | 01:49:04.940-01:49:11.900 | Delwath]",
+      "lineNumber": 1826,
+      "originalText": "As we're running north, you'll see, um, just materializing out of nothingness, a sword appears in Delweth's hand.",
+      "cleanedText": "As we're running north, you'll see, um, just materializing out of nothingness, a sword appears in Delwath's hand."
+    },
+    {
+      "header": "[u1834 | 01:49:36.520-01:49:40.320 | Riswynn]",
+      "lineNumber": 1834,
+      "originalText": "Does that something or do I need to hit this Beyond 20 button thing?",
+      "cleanedText": "Does that do something or do I need to hit this Beyond 20 button thing?"
+    },
+    {
+      "header": "[u1840 | 01:49:57.400-01:50:04.924 | DM]",
+      "lineNumber": 1840,
+      "originalText": "got Delweth on the turn order, but I'll just add- Sorry, my map is jumping around.",
+      "cleanedText": "got Delwath on the turn order, but I'll just add- Sorry, my map is jumping around."
+    },
+    {
+      "header": "[u1842 | 01:50:13.954-01:50:15.624 | DM]",
+      "lineNumber": 1842,
+      "originalText": "Kenzo, where did you roll?",
+      "cleanedText": "Kenzo, what did you roll?"
+    },
+    {
+      "header": "[u1847 | 01:50:21.964-01:50:24.104 | DM]",
+      "lineNumber": 1847,
+      "originalText": "Delwath is eight. Seeker, where did you roll?",
+      "cleanedText": "Delwath is eight. Seeker, what did you roll?"
+    },
+    {
+      "header": "[u1856 | 01:50:45.144-01:50:47.664 | DM]",
+      "lineNumber": 1856,
+      "originalText": "No, some of those are intelligence, um.",
+      "cleanedText": "No, some of those are Intelligence, um."
+    },
+    {
+      "header": "[u1857 | 01:50:47.664-01:50:49.224 | Seeker]",
+      "lineNumber": 1857,
+      "originalText": "Oh, in investigation.",
+      "cleanedText": "Oh, and Investigation."
+    },
+    {
+      "header": "[u1872 | 01:52:10.584-01:52:13.384 | Delwath]",
+      "lineNumber": 1872,
+      "originalText": "Wait, so where the mouth guys are?",
+      "cleanedText": "Wait, so where are the mouth guys?"
+    },
+    {
+      "header": "[u1913 | 01:54:00.584-01:54:10.964 | Seeker]",
+      "lineNumber": 1913,
+      "originalText": "Okay. Okay, uh, this is a little bit meta game, but in terms of the levels of Sleep thing, it really has to do with their, the amount of hit points these things have and how many there are.",
+      "cleanedText": "Okay. Okay, uh, this is a little bit metagame, but in terms of the levels of Sleep thing, it really has to do with their, the amount of hit points these things have and how many there are."
+    },
+    {
+      "header": "[u1915 | 01:54:14.084-01:54:23.203 | DM]",
+      "lineNumber": 1915,
+      "originalText": "It's a good way to finish off wounded foes, because once you've reduced them to hip, uh, hit points a little bit, you can, you can wipe them out.",
+      "cleanedText": "It's a good way to finish off wounded foes, because once you've reduced their hip, uh, hit points a little bit, you can, you can wipe them out."
+    },
+    {
+      "header": "[u1951 | 01:55:59.804-01:56:02.343 | DM]",
+      "lineNumber": 1951,
+      "originalText": "You're throwing your sleep.",
+      "cleanedText": "You're throwing your Sleep."
+    },
+    {
+      "header": "[u1959 | 01:56:35.804-01:56:39.464 | DM]",
+      "lineNumber": 1959,
+      "originalText": "and the other two are sort of snarled, don't even really notice.",
+      "cleanedText": "and the other two sort of snarl, don't even really notice."
+    },
+    {
+      "header": "[u2002 | 01:58:57.544-01:58:59.304 | DM]",
+      "lineNumber": 2002,
+      "originalText": "Is it your charisma modifier, Eric?",
+      "cleanedText": "Is it your Charisma modifier, Eric?"
+    },
+    {
+      "header": "[u2061 | 02:01:45.964-02:01:54.744 | Riswynn]",
+      "lineNumber": 2061,
+      "originalText": "Riding Pull at the hyena guy, um, behind the one who just fell asleep.",
+      "cleanedText": "Guiding Bolt at the hyena guy, um, behind the one who just fell asleep."
+    },
+    {
+      "header": "[u2066 | 02:02:08.420-02:02:11.020 | DM]",
+      "lineNumber": 2066,
+      "originalText": "Who's... What is the range of guiding bolt?",
+      "cleanedText": "Who's... What is the range of Guiding Bolt?"
+    },
+    {
+      "header": "[u2189 | 02:07:25.980-02:07:36.180 | Wellby]",
+      "lineNumber": 2189,
+      "originalText": "Uh, so I run over astonishingly quickly for my small size, uh, pulling an arrow and knocking it as I run,",
+      "cleanedText": "Uh, so I run over astonishingly quickly for my small size, uh, pulling an arrow and nocking it as I run,"
+    },
+    {
+      "header": "[u2240 | 02:10:13.790-02:10:21.490 | Kenzo]",
+      "lineNumber": 2240,
+      "originalText": "seeing, like, kind of manifested, like, as he's kind of, like, you know, basically kind of harnessing his own chi into, like, actual physical force.",
+      "cleanedText": "seeing, like, kind of manifested, like, as he's kind of, like, you know, basically kind of harnessing his own ki into, like, actual physical force."
+    },
+    {
+      "header": "[u2294 | 02:12:02.510-02:12:03.640 | DM]",
+      "lineNumber": 2294,
+      "originalText": "your fist and planar power.",
+      "cleanedText": "your Fist of Planar Power."
+    },
+    {
+      "header": "[u2339 | 02:14:18.650-02:14:23.550 | Seeker]",
+      "lineNumber": 2339,
+      "originalText": "Um, choose a metal object so you can see.",
+      "cleanedText": "Um, choose a metal object you can see."
+    },
+    {
+      "header": "[u2423 | 02:18:12.600-02:18:20.520 | Riswynn]",
+      "lineNumber": 2423,
+      "originalText": "But there is going to be, and you can tell me how to do this in order on the 20, but there is going to be some smiting involved,",
+      "cleanedText": "But there is going to be, and you can tell me how to do this in order on Roll20, but there is going to be some smiting involved,"
+    },
+    {
+      "header": "[u2494 | 02:22:19.452-02:22:20.552 | DM]",
+      "lineNumber": 2494,
+      "originalText": "... horse fist.",
+      "cleanedText": "... force fist."
+    },
+    {
+      "header": "[u2507 | 02:22:41.892-02:22:49.852 | Delwath]",
+      "lineNumber": 2507,
+      "originalText": "All right. So I will first of all use a bonus action to move the, um, the hacks to",
+      "cleanedText": "All right. So I will first of all use a bonus action to move the, um, the Hex to"
+    },
+    {
+      "header": "[u2663 | 02:30:39.916-02:30:50.376 | Seeker]",
+      "lineNumber": 2663,
+      "originalText": "So I will pull the, using my spectral shovel, uh, pull the ground out from underneath the hyena standing in front of Delweth,",
+      "cleanedText": "So I will pull the, using my spectral shovel, uh, pull the ground out from underneath the hyena standing in front of Delwath,"
+    },
+    {
+      "header": "[u2667 | 02:31:09.616-02:31:15.956 | DM]",
+      "lineNumber": 2667,
+      "originalText": "lands again, uh, in the bottom of this pit sort of facing Delweth legs, ready to, like,",
+      "cleanedText": "lands again, uh, in the bottom of this pit sort of facing Delwath's legs, ready to, like,"
+    },
+    {
+      "header": "[u2712 | 02:33:20.624-02:33:21.224 | Riswynn]",
+      "lineNumber": 2712,
+      "originalText": "Delweth?",
+      "cleanedText": "Delwath?"
+    },
+    {
+      "header": "[u2750 | 02:34:42.364-02:34:45.603 | Kenzo]",
+      "lineNumber": 2750,
+      "originalText": "I'm never listening to Delweth ever again, or Mike ever again.",
+      "cleanedText": "I'm never listening to Delwath ever again, or Mike ever again."
+    },
+    {
+      "header": "[u2761 | 02:35:14.884-02:35:19.764 | DM]",
+      "lineNumber": 2761,
+      "originalText": "Um, this one is going to attack Delweth.",
+      "cleanedText": "Um, this one is going to attack Delwath."
+    },
+    {
+      "header": "[u2764 | 02:35:22.734-02:35:23.364 | Wellby]",
+      "lineNumber": 2764,
+      "originalText": "Not Delweth. Sorry.",
+      "cleanedText": "Not Delwath. Sorry."
+    },
+    {
+      "header": "[u2801 | 02:36:54.924-02:36:57.824 | Kenzo]",
+      "lineNumber": 2801,
+      "originalText": "Thank God. Fucking die, mouse.",
+      "cleanedText": "Thank God. Fucking die, mouth."
+    },
+    {
+      "header": "[u3061 | 02:48:33.036-02:48:33.586 | DM]",
+      "lineNumber": 3061,
+      "originalText": "Delweth, you're up.",
+      "cleanedText": "Delwath, you're up."
+    },
+    {
+      "header": "[u3067 | 02:48:41.836-02:48:45.796 | Delwath]",
+      "lineNumber": 3067,
+      "originalText": "so I'll move up and, and guard Delweth.",
+      "cleanedText": "so I'll move up and, and guard Delwath."
+    },
+    {
+      "header": "[u3088 | 02:49:52.956-02:49:58.116 | DM]",
+      "lineNumber": 3088,
+      "originalText": "Okay, so as Delweth is standing over Kenzo's unconscious body, um,",
+      "cleanedText": "Okay, so as Delwath is standing over Kenzo's unconscious body, um,"
+    },
+    {
+      "header": "[u3110 | 02:51:27.498-02:51:35.648 | DM]",
+      "lineNumber": 3110,
+      "originalText": "And, um, with Kenzo now, like, groaning on the ground and hard to reach behind Delweth, it will turn to Delweth",
+      "cleanedText": "And, um, with Kenzo now, like, groaning on the ground and hard to reach behind Delwath, it will turn to Delwath"
+    },
+    {
+      "header": "[u3139 | 02:52:44.228-02:52:48.448 | DM]",
+      "lineNumber": 3139,
+      "originalText": "Delweth, but you are at 15 hit points unconscious.",
+      "cleanedText": "Delwath, but you are at 15 hit points and conscious."
+    },
+    {
+      "header": "[u3158 | 02:53:24.948-02:53:35.448 | Kenzo]",
+      "lineNumber": 3158,
+      "originalText": "All right, so, um, so Tim, you know, Kenzo as a, um, as a Seeker of, uh, of, um, you know, the unity of all things",
+      "cleanedText": "All right, so, um, so Tim, you know, Kenzo as a, um, as a seeker of, uh, of, um, you know, the unity of all things"
+    },
+    {
+      "header": "[u3163 | 02:54:00.728-02:54:07.748 | Kenzo]",
+      "lineNumber": 3163,
+      "originalText": "And purely out of instinct, um, kind of shoots through Delweth's legs, um, over to here.",
+      "cleanedText": "And purely out of instinct, um, kind of shoots through Delwath's legs, um, over to here."
+    },
+    {
+      "header": "[u3184 | 02:54:58.838-02:55:01.768 | DM]",
+      "lineNumber": 3184,
+      "originalText": "Um, uh, okay, so that ends your turn, so Delweth, you're up.",
+      "cleanedText": "Um, uh, okay, so that ends your turn, so Delwath, you're up."
+    },
+    {
+      "header": "[u3203 | 02:55:40.668-02:55:42.328 | DM]",
+      "lineNumber": 3203,
+      "originalText": "You and Delweth can go at the same time.",
+      "cleanedText": "You and Delwath can go at the same time."
+    },
+    {
+      "header": "[u3519 | 03:12:53.142-03:13:03.392 | DM]",
+      "lineNumber": 3519,
+      "originalText": "And it seemed clear from that book that these were extra planar entities, like they were not from this world, was the description, was the context",
+      "cleanedText": "And it seemed clear from that book that these were extraplanar entities, like they were not from this world, was the description, was the context"
+    },
+    {
+      "header": "[u3572 | 03:15:47.982-03:15:58.782 | DM]",
+      "lineNumber": 3572,
+      "originalText": "Okay, so as you, as you start to take him back, um, uh, Bri and Callie you see sort of running from the distance, and as they see you with him and him walking,",
+      "cleanedText": "Okay, so as you, as you start to take him back, um, uh, Bree and Callie you see sort of running from the distance, and as they see you with him and him walking,"
+    },
+    {
+      "header": "[u3585 | 03:16:54.602-03:17:00.142 | Wellby]",
+      "lineNumber": 3585,
+      "originalText": "So he was trying to feed himself to one of those, looking at the moths.",
+      "cleanedText": "So he was trying to feed himself to one of those, looking at the mouths."
+    },
+    {
+      "header": "[u3611 | 03:18:26.572-03:18:33.682 | DM]",
+      "lineNumber": 3611,
+      "originalText": "I saw the dostan was running in this direction, um, when two of these...\"",
+      "cleanedText": "I saw the dust and was running in this direction, um, when two of these...\""
+    },
+    {
+      "header": "[u3660 | 03:21:42.394-03:21:43.754 | DM]",
+      "lineNumber": 3660,
+      "originalText": "Aradin warrior dude.",
+      "cleanedText": "arrogant warrior dude."
+    },
+    {
+      "header": "[u3699 | 03:23:51.394-03:23:55.154 | DM]",
+      "lineNumber": 3699,
+      "originalText": "I will tell Kendros and Kisa that we must leave at first light.",
+      "cleanedText": "I will tell Candrosa and Kisa that we must leave at first light."
+    },
+    {
+      "header": "[u3734 | 03:26:03.454-03:26:13.574 | DM]",
+      "lineNumber": 3734,
+      "originalText": "shifting quickly from what normally would have been a sort of celebratory feast at the end of the festival as the Shrine of Jeevali's grows,",
+      "cleanedText": "shifting quickly from what normally would have been a sort of celebratory feast at the end of the festival as the Shrine of Jeevali grows,"
+    },
+    {
+      "header": "[u3752 | 03:27:03.914-03:27:11.624 | DM]",
+      "lineNumber": 3752,
+      "originalText": "you know, Kisa and Kendrosa come to thank you and wish you off and, um, say, you know, \"This,",
+      "cleanedText": "you know, Kisa and Candrosa come to thank you and wish you off and, um, say, you know, \"This,"
+    },
+    {
+      "header": "[u3758 | 03:27:23.354-03:27:25.034 | Kenzo]",
+      "lineNumber": 3758,
+      "originalText": "... 00:06:05. Okay, okay.",
+      "cleanedText": "... Okay, okay."
+    },
+    {
+      "header": "[u3762 | 03:27:37.870-03:27:47.990 | DM]",
+      "lineNumber": 3762,
+      "originalText": "And Candrosa and the other, um, Mistai who are staying are, like, loading barrels of water up through this r- this, uh, rope pulling system through the second",
+      "cleanedText": "And Candrosa and the other, um, mystai who are staying are, like, loading barrels of water up through this r- this, uh, rope pulling system through the second"
+    },
+    {
+      "header": "[u3909 | 03:36:16.600-03:36:27.460 | DM]",
+      "lineNumber": 3909,
+      "originalText": "moths. They seem to have come together traveling from the north, but then split, um, when they hit this building, and the moths went, uh,",
+      "cleanedText": "mouths. They seem to have come together traveling from the north, but then split, um, when they hit this building, and the mouths went, uh,"
+    },
+    {
+      "header": "[u3914 | 03:36:39.140-03:36:41.140 | Seeker]",
+      "lineNumber": 3914,
+      "originalText": "I wonder what those moth guys were headed towards.",
+      "cleanedText": "I wonder what those mouth guys were headed towards."
+    }
+  ]
+}

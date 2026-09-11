@@ -22,7 +22,7 @@ POV: 1748
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Monastery of Bhishma]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Monastery of Bhishma]] %%^End%%
 
 %%need to figure out how to properly deal with undead%%
 %%need to add whereabouts and campaign info%%

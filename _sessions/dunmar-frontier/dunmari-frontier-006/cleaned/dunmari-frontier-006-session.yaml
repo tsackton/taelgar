@@ -5,38 +5,46 @@ campaign: Dunmari Frontier
 sessionNumber: 6
 realWorldDate: '2020-08-06'
 drStart: '1748-04-04'
-drEnd: '1748-04-06'
+drEnd: '1748-04-07'
 drStartTime: null
-drEndTime: null
+drEndTime: morning
 participants:
 - name: David Kong
   gameRole: Kenzo
   transcriptIdentifiers:
   - David Kong
+  - Kenzo
 - name: David Schwartz
   gameRole: Wellby
   transcriptIdentifiers:
   - David Schwartz
+  - Wellby
 - name: Mike Sackton
   gameRole: Delwath
   transcriptIdentifiers:
+  - Delwath
   - Mike Sackton
 - name: Eric Rosenbaum
   gameRole: Seeker
   transcriptIdentifiers:
+  - Seeker
   - ericrosenbaum
 - name: Kate Sackton
   gameRole: Riswynn
   transcriptIdentifiers:
   - Kate Sackton
+  - Riswynn
 - name: Tim Sackton
   gameRole: DM
   transcriptIdentifiers:
+  - DM
   - Timothy Sackton
-sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/GMT20200807-001959_Taelgar-Re.transcript.vtt
-sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/dunmar-frontier-session006.yaml
-participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/dunmar-frontier-core-plus-riswynn-participants.yaml
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/dunmari-frontier-006-identified.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session
+  6/dunmari-frontier-006-audio.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/dunmar-006-scribe-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/dunmari-frontier-006-participants.yaml
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-source-prepared.md
-speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/zoom-session-006.speaker_mapping.json
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/sources/dunmar-006-scribe-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-speaker-stats.json

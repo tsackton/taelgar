@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Adventure Backstory - Tawir Forest
 
 ## How to use this note
