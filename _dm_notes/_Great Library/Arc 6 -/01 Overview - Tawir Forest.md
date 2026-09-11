@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Adventure Overview - Tawir Forest
 
 ## How to use this note

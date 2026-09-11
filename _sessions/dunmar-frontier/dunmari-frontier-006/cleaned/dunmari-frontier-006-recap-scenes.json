@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Plans and Mysteries",
+      "beatIds": ["beat-001", "beat-002", "beat-003"],
+      "rationale": "The party establishes the expedition plan and gathers information about Raven's Hold, Ander's affliction, the anonymous runebook, and the temple's strange stone. These inquiries form the first preparation scene, ending when attention turns to supplies and practical arrangements."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Making Ready to Leave",
+      "beatIds": ["beat-004", "beat-005", "beat-006"],
+      "rationale": "Buying supplies, arranging the rendezvous with Alesh, seeing her off, and fortifying the temple put the departure plans into practice. Alesh's historical information stays with her farewell, and the next day's construction closes the preparation sequence before the festival gathering."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Riswynn and the Festival of Rebirth",
+      "beatIds": ["beat-007", "beat-008"],
+      "rationale": "The pre-festival meal and the ceremony that immediately follows form the opening evening of Rebirth. Riswynn joins the party before they attend the shrine burning together; the westward embers close this evening before the next day's attack."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Attack on Karawa",
+      "beatIds": ["beat-009", "beat-010", "beat-011", "beat-012"],
+      "rationale": "The renewed festival supplies the opening context for one uninterrupted defense against the gnolls and mouth creatures. Ander's arrival and Kenzo's fall change the stakes within the same battle, which ends when initiative stops."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Aftermath and Departure",
+      "beatIds": ["beat-013", "beat-014", "beat-015", "beat-016"],
+      "rationale": "The captives, the creatures' possible origins, Havdar's report, and Kenzo's recovery are the overlapping consequences of the battle. The brief dawn departure completes the resulting preparations as a closing passage: the villagers head west and the party follows the tracks north."
+    }
+  ]
+}

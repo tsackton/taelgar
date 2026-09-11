@@ -6,16 +6,14 @@ typeOfAlias: monastery
 subTypeOf: 
 affiliations: [{org: Bhishma, type: primary }]
 ancestry: Dunmari
-whereabouts: Garamjala Desert
+whereabouts: Nashtkar
 dm_notes: important
 dm_owner: tim
 ---
 # The Monastery of Bhishma
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-## Overview
-The Monastery of [[Bhishma]] is a large complex dedicated to the Dunmari goddess [[Bhishma]], consisting of a temple, dormitories and associated buildings, and the [[Hall of Stories]], an archive of the stories and lives of the Dunmari people. 
 
 The monastery is about 2 1/2 miles south of [[Kharsan]], in what was once the heartland of [[Dunmar]] but is now, after the upheavals of the [[Great War]] and the [[Blood Years]], the midst of the [[Nashtkar]], the blasted plains. The monastery sits on a bluff near a turn in the [[Kharja]] river, once a lush riparian valley before the [[Great War]], with the river forming the southern and western borders of the complex. The southern side consists of steep cliffs, while the western side gently slopes to the river, and was formerly the site of a thriving garden. There is a newer path with a few stone steps that has been constructed from the dry river bed up the slope, and the remains of stairs cut into the side of the cliff. 
 
@@ -31,7 +29,7 @@ In 1748, [[Dunmar Fellowship]] came to the monastery, seeking to learn more abou
 ![[monastery_backdrop.png]]
 %%^End%%
 
-%%SECRET[v2:e64cba161afe0d6aa57684bbad1f29c9]%%
+%%SECRET[v2:aa7c3753b406fa4c6350c34386700ff0]%%
 
 
 

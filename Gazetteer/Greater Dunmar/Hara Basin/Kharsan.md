@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/gameupdate/dufr
+tags: [place, status/gameupdate/dufr]
 displayDefaults:
   dPast: ""
 destroyed: 1545
@@ -16,7 +14,7 @@ whereabouts:
     wOrigin: Originally part of <origin:1><(, )endstatus> <(in )enddate>
   - type: home
     start: 1545
-    location: Garamjala Desert
+    location: Nashtkar
     wPastHome: Ruined <ancestry> <typeOf> <home:2qr>
 dm_owner: tim
 dm_notes: important

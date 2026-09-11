@@ -1,0 +1,547 @@
+allReplacements:
+- from: Delweth
+  to: Delwath
+  count: 16
+  headers:
+  - '[u1826 | 01:49:04.940-01:49:11.900 | Delwath]'
+  - '[u1840 | 01:49:57.400-01:50:04.924 | DM]'
+  - '[u2663 | 02:30:39.916-02:30:50.376 | Seeker]'
+  - '[u2712 | 02:33:20.624-02:33:21.224 | Riswynn]'
+  - '[u2750 | 02:34:42.364-02:34:45.603 | Kenzo]'
+  - '[u2761 | 02:35:14.884-02:35:19.764 | DM]'
+  - '[u2764 | 02:35:22.734-02:35:23.364 | Wellby]'
+  - '[u3061 | 02:48:33.036-02:48:33.586 | DM]'
+  - '[u3067 | 02:48:41.836-02:48:45.796 | Delwath]'
+  - '[u3088 | 02:49:52.956-02:49:58.116 | DM]'
+  - '[u3110 | 02:51:27.498-02:51:35.648 | DM]'
+  - '[u3139 | 02:52:44.228-02:52:48.448 | DM]'
+  - '[u3163 | 02:54:00.728-02:54:07.748 | Kenzo]'
+  - '[u3184 | 02:54:58.838-02:55:01.768 | DM]'
+  - '[u3203 | 02:55:40.668-02:55:42.328 | DM]'
+- from: Agir
+  to: Aagir
+  count: 9
+  headers:
+  - '[u0785 | 00:44:02.960-00:44:08.300 | DM]'
+  - '[u0786 | 00:44:10.300-00:44:11.040 | DM]'
+  - '[u0797 | 00:44:50.760-00:44:53.880 | Kenzo]'
+  - '[u0803 | 00:44:58.059-00:45:04.800 | DM]'
+  - '[u0815 | 00:45:29.550-00:45:33.720 | Kenzo]'
+  - '[u0816 | 00:45:35.220-00:45:36.920 | Kenzo]'
+  - '[u0831 | 00:46:17.220-00:46:20.860 | DM]'
+- from: Ravensholt
+  to: Raven ' s Hold
+  count: 7
+  headers:
+  - '[u1556 | 01:25:48.036-01:25:53.536 | DM]'
+  - '[u1570 | 01:27:02.156-01:27:09.616 | Riswynn]'
+  - '[u1574 | 01:27:35.316-01:27:45.036 | Riswynn]'
+  - '[u1583 | 01:28:23.276-01:28:28.556 | Riswynn]'
+  - '[u1616 | 01:30:40.996-01:30:45.576 | Riswynn]'
+  - '[u1624 | 01:31:13.216-01:31:21.136 | Wellby]'
+- from: Ravenholdt
+  to: Raven ' s Hold
+  count: 5
+  headers:
+  - '[u1233 | 01:04:25.856-01:04:28.156 | Delwath]'
+  - '[u1241 | 01:04:42.256-01:04:52.396 | Kenzo]'
+  - '[u1243 | 01:04:58.716-01:05:05.096 | Wellby]'
+  - '[u1247 | 01:05:13.386-01:05:14.856 | DM]'
+  - '[u1631 | 01:31:56.812-01:31:59.052 | Kenzo]'
+- from: intelligence
+  to: Intelligence
+  count: 4
+  headers:
+  - '[u1447 | 01:18:37.120-01:18:45.460 | DM]'
+  - '[u1451 | 01:18:58.080-01:19:01.940 | Seeker]'
+  - '[u1452 | 01:19:01.940-01:19:04.760 | DM]'
+  - '[u1856 | 01:50:45.144-01:50:47.664 | DM]'
+- from: moths
+  to: mouths
+  count: 3
+  headers:
+  - '[u3585 | 03:16:54.602-03:17:00.142 | Wellby]'
+  - '[u3909 | 03:36:16.600-03:36:27.460 | DM]'
+- from: Kenso
+  to: Kenzo
+  count: 2
+  headers:
+  - '[u0738 | 00:40:46.152-00:40:53.792 | Seeker]'
+  - '[u0740 | 00:40:59.452-00:41:04.272 | Seeker]'
+- from: Kenza
+  to: Kenzo
+  count: 2
+  headers:
+  - '[u0063 | 00:03:45.060-00:03:47.480 | DM]'
+  - '[u1191 | 01:01:47.596-01:01:53.356 | DM]'
+- from: Ravenshold
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u1561 | 01:26:01.856-01:26:05.176 | Kenzo]'
+- from: a
+  to: an
+  count: 2
+  headers:
+  - '[u0550 | 00:29:47.736-00:29:58.196 | DM]'
+  - '[u0782 | 00:43:42.260-00:43:52.200 | DM]'
+- from: where
+  to: what
+  count: 2
+  headers:
+  - '[u1842 | 01:50:13.954-01:50:15.624 | DM]'
+  - '[u1847 | 01:50:21.964-01:50:24.104 | DM]'
+- from: Aradin
+  to: arrogant
+  count: 1
+  headers:
+  - '[u3660 | 03:21:42.394-03:21:43.754 | DM]'
+- from: Ardet
+  to: Nardith
+  count: 1
+  headers:
+  - '[u1567 | 01:26:45.596-01:26:55.636 | Riswynn]'
+- from: Axbeek
+  to: axe beak
+  count: 1
+  headers:
+  - '[u1608 | 01:29:58.016-01:30:05.996 | Seeker]'
+- from: Baharzel
+  to: Bahrâzel
+  count: 1
+  headers:
+  - '[u1663 | 01:34:28.732-01:34:39.092 | Riswynn]'
+- from: Brawn anvils
+  to: Brawnanvils
+  count: 1
+  headers:
+  - '[u1570 | 01:27:02.156-01:27:09.616 | Riswynn]'
+- from: Bri
+  to: Bree
+  count: 1
+  headers:
+  - '[u3572 | 03:15:47.982-03:15:58.782 | DM]'
+- from: Claw
+  to: Hold
+  count: 1
+  headers:
+  - '[u1564 | 01:26:20.636-01:26:30.916 | Riswynn]'
+- from: Dalrik
+  to: Delwath
+  count: 1
+  headers:
+  - '[u0286 | 00:13:52.304-00:13:53.254 | DM]'
+- from: Delweth
+  to: Delwath ' s
+  count: 1
+  headers:
+  - '[u2667 | 02:31:09.616-02:31:15.956 | DM]'
+- from: Domat
+  to: Gomat
+  count: 1
+  headers:
+  - '[u0104 | 00:05:28.660-00:05:34.140 | Wellby]'
+- from: Drankhorean
+  to: Drankorian
+  count: 1
+  headers:
+  - '[u1705 | 01:37:55.160-01:38:05.920 | DM]'
+- from: Had
+  to: had
+  count: 1
+  headers:
+  - '[u1350 | 01:11:49.452-01:11:52.072 | DM]'
+- from: Iferk
+  to: Eberk
+  count: 1
+  headers:
+  - '[u1645 | 01:33:04.912-01:33:13.502 | Riswynn]'
+- from: It ' s, uh -
+  to: ..
+  count: 1
+  headers:
+  - '[u0062 | 00:03:43.600-00:03:45.060 | Kenzo]'
+- from: Jasoo
+  to: Jasu
+  count: 1
+  headers:
+  - '[u0987 | 00:53:35.232-00:53:46.592 | DM]'
+- from: Josu
+  to: Jasu
+  count: 1
+  headers:
+  - '[u0248 | 00:12:23.384-00:12:33.804 | DM]'
+- from: Kendros
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u3699 | 03:23:51.394-03:23:55.154 | DM]'
+- from: Kendrosa
+  to: Candrosa
+  count: 1
+  headers:
+  - '[u3752 | 03:27:03.914-03:27:11.624 | DM]'
+- from: Mistai
+  to: mystai
+  count: 1
+  headers:
+  - '[u3762 | 03:27:37.870-03:27:47.990 | DM]'
+- from: Ravenhold
+  to: Raven ' s Hold
+  count: 1
+  headers:
+  - '[u1172 | 01:00:59.834-01:01:05.184 | Kenzo]'
+- from: Riding Pull
+  to: Guiding Bolt
+  count: 1
+  headers:
+  - '[u2061 | 02:01:45.964-02:01:54.744 | Riswynn]'
+- from: Seeker
+  to: seeker
+  count: 1
+  headers:
+  - '[u3158 | 02:53:24.948-02:53:35.448 | Kenzo]'
+- from: Sombar
+  to: Sembara
+  count: 1
+  headers:
+  - '[u1369 | 01:12:51.852-01:12:58.572 | DM]'
+- from: Take
+  to: take
+  count: 1
+  headers:
+  - '[u0371 | 00:18:16.484-00:18:21.382 | Kenzo]'
+- from: Talgar
+  to: Taelgar
+  count: 1
+  headers:
+  - '[u0320 | 00:15:29.104-00:15:33.124 | Wellby]'
+- from: They ' re finding
+  to: So Suma got
+  count: 1
+  headers:
+  - '[u0075 | 00:04:18.649-00:04:20.300 | DM]'
+- from: To
+  to: to
+  count: 1
+  headers:
+  - '[u0557 | 00:30:28.996-00:30:39.168 | DM]'
+- from: You
+  to: you
+  count: 1
+  headers:
+  - '[u1456 | 01:19:18.300-01:19:28.608 | DM]'
+- from: are
+  to: were
+  count: 1
+  headers:
+  - '[u0076 | 00:04:20.300-00:04:22.590 | Kenzo]'
+- from: being, uh, they ' re,
+  to: '- -'
+  count: 1
+  headers:
+  - '[u0053 | 00:03:23.840-00:03:26.180 | Kenzo]'
+- from: bring it
+  to: be right
+  count: 1
+  headers:
+  - '[u1424 | 01:16:45.500-01:16:46.180 | DM]'
+- from: chained
+  to: chain
+  count: 1
+  headers:
+  - '[u0271 | 00:13:18.584-00:13:21.644 | Delwath]'
+- from: charisma
+  to: Charisma
+  count: 1
+  headers:
+  - '[u2002 | 01:58:57.544-01:58:59.304 | DM]'
+- from: chasm
+  to: Chasm
+  count: 1
+  headers:
+  - '[u0104 | 00:05:28.660-00:05:34.140 | Wellby]'
+- from: chi
+  to: ki
+  count: 1
+  headers:
+  - '[u2240 | 02:10:13.790-02:10:21.490 | Kenzo]'
+- from: dostan
+  to: dust and
+  count: 1
+  headers:
+  - '[u3611 | 03:18:26.572-03:18:33.682 | DM]'
+- from: extra planar
+  to: extraplanar
+  count: 1
+  headers:
+  - '[u3519 | 03:12:53.142-03:13:03.392 | DM]'
+- from: fist and planar power
+  to: Fist of Planar Power
+  count: 1
+  headers:
+  - '[u2294 | 02:12:02.510-02:12:03.640 | DM]'
+- from: flung
+  to: slung
+  count: 1
+  headers:
+  - '[u1542 | 01:24:27.968-01:24:32.828 | Kenzo]'
+- from: guiding bolt
+  to: Guiding Bolt
+  count: 1
+  headers:
+  - '[u2066 | 02:02:08.420-02:02:11.020 | DM]'
+- from: hacks
+  to: Hex
+  count: 1
+  headers:
+  - '[u2507 | 02:22:41.892-02:22:49.852 | Delwath]'
+- from: horse
+  to: force
+  count: 1
+  headers:
+  - '[u2494 | 02:22:19.452-02:22:20.552 | DM]'
+- from: in
+  to: and
+  count: 1
+  headers:
+  - '[u1414 | 01:16:14.160-01:16:15.420 | Kenzo]'
+- from: in investigation
+  to: and Investigation
+  count: 1
+  headers:
+  - '[u1857 | 01:50:47.664-01:50:49.224 | Seeker]'
+- from: it
+  to: we
+  count: 1
+  headers:
+  - '[u0105 | 00:05:34.140-00:05:34.820 | DM]'
+- from: journal
+  to: general area
+  count: 1
+  headers:
+  - '[u0207 | 00:10:25.836-00:10:31.616 | Seeker]'
+- from: knocking
+  to: nocking
+  count: 1
+  headers:
+  - '[u2189 | 02:07:25.980-02:07:36.180 | Wellby]'
+- from: leaving
+  to: looming
+  count: 1
+  headers:
+  - '[u0029 | 00:01:26.340-00:01:35.620 | DM]'
+- from: long bow
+  to: longbow
+  count: 1
+  headers:
+  - '[u1210 | 01:02:46.896-01:02:56.406 | DM]'
+- from: meta game
+  to: metagame
+  count: 1
+  headers:
+  - '[u1913 | 01:54:00.584-01:54:10.964 | Seeker]'
+- from: moth
+  to: mouth
+  count: 1
+  headers:
+  - '[u3914 | 03:36:39.140-03:36:41.140 | Seeker]'
+- from: mouse
+  to: mouth
+  count: 1
+  headers:
+  - '[u2801 | 02:36:54.924-02:36:57.824 | Kenzo]'
+- from: not
+  to: don ’ t
+  count: 1
+  headers:
+  - '[u0408 | 00:20:49.872-00:20:53.312 | Wellby]'
+- from: pause this
+  to: pauses
+  count: 1
+  headers:
+  - '[u0777 | 00:43:24.120-00:43:25.520 | DM]'
+- from: quarter staff
+  to: quarterstaff
+  count: 1
+  headers:
+  - '[u1080 | 00:57:19.564-00:57:26.304 | Kenzo]'
+- from: range
+  to: ranged
+  count: 1
+  headers:
+  - '[u0267 | 00:13:14.864-00:13:16.524 | Kenzo]'
+- from: reads
+  to: leads
+  count: 1
+  headers:
+  - '[u0903 | 00:50:06.532-00:50:16.532 | Delwath]'
+- from: sleep
+  to: Sleep
+  count: 1
+  headers:
+  - '[u1951 | 01:55:59.804-01:56:02.343 | DM]'
+- from: snarled
+  to: snarl
+  count: 1
+  headers:
+  - '[u1959 | 01:56:35.804-01:56:39.464 | DM]'
+- from: sometimes
+  to: sometime
+  count: 1
+  headers:
+  - '[u1366 | 01:12:45.612-01:12:47.972 | DM]'
+- from: spell casting
+  to: spellcasting
+  count: 1
+  headers:
+  - '[u1663 | 01:34:28.732-01:34:39.092 | Riswynn]'
+- from: that
+  to: I had
+  count: 1
+  headers:
+  - '[u0769 | 00:42:30.452-00:42:35.312 | Kenzo]'
+- from: the 20
+  to: Roll20
+  count: 1
+  headers:
+  - '[u2423 | 02:18:12.600-02:18:20.520 | Riswynn]'
+- from: them to
+  to: their
+  count: 1
+  headers:
+  - '[u1915 | 01:54:14.084-01:54:23.203 | DM]'
+- from: to ride south
+  to: . Right.
+  count: 1
+  headers:
+  - '[u0075 | 00:04:18.649-00:04:20.300 | DM]'
+- from: two D4
+  to: 2d4
+  count: 1
+  headers:
+  - '[u0968 | 00:52:52.932-00:52:55.812 | DM]'
+- from: uh
+  to: ah
+  count: 1
+  headers:
+  - '[u0061 | 00:03:39.470-00:03:43.600 | Kenzo]'
+- from: um
+  to: ah
+  count: 1
+  headers:
+  - '[u0061 | 00:03:39.470-00:03:43.600 | Kenzo]'
+- from: unconscious
+  to: and conscious
+  count: 1
+  headers:
+  - '[u3139 | 02:52:44.228-02:52:48.448 | DM]'
+- from: war hammer
+  to: warhammer
+  count: 1
+  headers:
+  - '[u1662 | 01:34:21.132-01:34:26.801 | Riswynn]'
+- from: who
+  to: whose
+  count: 1
+  headers:
+  - '[u1523 | 01:22:54.308-01:22:56.888 | Unknown]'
+- from: wisdom
+  to: Wisdom
+  count: 1
+  headers:
+  - '[u0537 | 00:28:32.876-00:28:35.516 | DM]'
+repeatedReplacements:
+- from: Delweth
+  to: Delwath
+  count: 16
+  headers:
+  - '[u1826 | 01:49:04.940-01:49:11.900 | Delwath]'
+  - '[u1840 | 01:49:57.400-01:50:04.924 | DM]'
+  - '[u2663 | 02:30:39.916-02:30:50.376 | Seeker]'
+  - '[u2712 | 02:33:20.624-02:33:21.224 | Riswynn]'
+  - '[u2750 | 02:34:42.364-02:34:45.603 | Kenzo]'
+  - '[u2761 | 02:35:14.884-02:35:19.764 | DM]'
+  - '[u2764 | 02:35:22.734-02:35:23.364 | Wellby]'
+  - '[u3061 | 02:48:33.036-02:48:33.586 | DM]'
+  - '[u3067 | 02:48:41.836-02:48:45.796 | Delwath]'
+  - '[u3088 | 02:49:52.956-02:49:58.116 | DM]'
+  - '[u3110 | 02:51:27.498-02:51:35.648 | DM]'
+  - '[u3139 | 02:52:44.228-02:52:48.448 | DM]'
+  - '[u3163 | 02:54:00.728-02:54:07.748 | Kenzo]'
+  - '[u3184 | 02:54:58.838-02:55:01.768 | DM]'
+  - '[u3203 | 02:55:40.668-02:55:42.328 | DM]'
+- from: Agir
+  to: Aagir
+  count: 9
+  headers:
+  - '[u0785 | 00:44:02.960-00:44:08.300 | DM]'
+  - '[u0786 | 00:44:10.300-00:44:11.040 | DM]'
+  - '[u0797 | 00:44:50.760-00:44:53.880 | Kenzo]'
+  - '[u0803 | 00:44:58.059-00:45:04.800 | DM]'
+  - '[u0815 | 00:45:29.550-00:45:33.720 | Kenzo]'
+  - '[u0816 | 00:45:35.220-00:45:36.920 | Kenzo]'
+  - '[u0831 | 00:46:17.220-00:46:20.860 | DM]'
+- from: Ravensholt
+  to: Raven ' s Hold
+  count: 7
+  headers:
+  - '[u1556 | 01:25:48.036-01:25:53.536 | DM]'
+  - '[u1570 | 01:27:02.156-01:27:09.616 | Riswynn]'
+  - '[u1574 | 01:27:35.316-01:27:45.036 | Riswynn]'
+  - '[u1583 | 01:28:23.276-01:28:28.556 | Riswynn]'
+  - '[u1616 | 01:30:40.996-01:30:45.576 | Riswynn]'
+  - '[u1624 | 01:31:13.216-01:31:21.136 | Wellby]'
+- from: Ravenholdt
+  to: Raven ' s Hold
+  count: 5
+  headers:
+  - '[u1233 | 01:04:25.856-01:04:28.156 | Delwath]'
+  - '[u1241 | 01:04:42.256-01:04:52.396 | Kenzo]'
+  - '[u1243 | 01:04:58.716-01:05:05.096 | Wellby]'
+  - '[u1247 | 01:05:13.386-01:05:14.856 | DM]'
+  - '[u1631 | 01:31:56.812-01:31:59.052 | Kenzo]'
+- from: intelligence
+  to: Intelligence
+  count: 4
+  headers:
+  - '[u1447 | 01:18:37.120-01:18:45.460 | DM]'
+  - '[u1451 | 01:18:58.080-01:19:01.940 | Seeker]'
+  - '[u1452 | 01:19:01.940-01:19:04.760 | DM]'
+  - '[u1856 | 01:50:45.144-01:50:47.664 | DM]'
+- from: moths
+  to: mouths
+  count: 3
+  headers:
+  - '[u3585 | 03:16:54.602-03:17:00.142 | Wellby]'
+  - '[u3909 | 03:36:16.600-03:36:27.460 | DM]'
+- from: Kenso
+  to: Kenzo
+  count: 2
+  headers:
+  - '[u0738 | 00:40:46.152-00:40:53.792 | Seeker]'
+  - '[u0740 | 00:40:59.452-00:41:04.272 | Seeker]'
+- from: Kenza
+  to: Kenzo
+  count: 2
+  headers:
+  - '[u0063 | 00:03:45.060-00:03:47.480 | DM]'
+  - '[u1191 | 01:01:47.596-01:01:53.356 | DM]'
+- from: Ravenshold
+  to: Raven ' s Hold
+  count: 2
+  headers:
+  - '[u1561 | 01:26:01.856-01:26:05.176 | Kenzo]'
+- from: a
+  to: an
+  count: 2
+  headers:
+  - '[u0550 | 00:29:47.736-00:29:58.196 | DM]'
+  - '[u0782 | 00:43:42.260-00:43:52.200 | DM]'
+- from: where
+  to: what
+  count: 2
+  headers:
+  - '[u1842 | 01:50:13.954-01:50:15.624 | DM]'
+  - '[u1847 | 01:50:21.964-01:50:24.104 | DM]'
+unresolvedPhrases: []

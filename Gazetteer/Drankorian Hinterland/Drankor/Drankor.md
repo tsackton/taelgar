@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-whereabouts: Drankorian Hinterland
+whereabouts: Desolation of Cha'mutte
 tags: [place, status/stub]
 typeOf: settlement
 dm_notes: important

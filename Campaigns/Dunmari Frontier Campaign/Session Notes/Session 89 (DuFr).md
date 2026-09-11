@@ -33,7 +33,7 @@ In the aftermath of victory, the [[Dunmar Fellowship]] is honored in [[Uzgukhar]
 - (DR:: 1749-01-22): Rest in [[Uzgukhar]]
 - (DR:: 1749-01-23): Rest in [[Uzgukhar]]. [[Festival of the New Dawn]], marking first day of the Dunmari new year, the 192nd year of the [[Nayan Dynasty]].
 - (DR:: 1749-01-24): Meet [[Nuzkar]] and [[Aygul]], [[Orcs|orc]] sisters who join the crew of [[Vindristjarna]]. Depart west.
-- (DR:: 1749-01-25): Travel west across the [[Garamjala Desert|Garamjala]], passing over [[Kharsan]]. Stop and explore.
+- (DR:: 1749-01-25): Travel west from the [[Garamjala Desert|Garamjala]] into the [[Nashtkar]], passing over [[Kharsan]]. Stop and explore.
 - (DR:: 1749-01-26): Burn Grash's orc warren in a holy ritual, freeing souls of the plague dead who died on this spot. Turn west in the afternoon, departing [[Kharsan]].
 - (DR:: 1749-01-27): Travel west across the [[Nashtkar]].
 - (DR:: 1749-01-28): Arrive at [[Pava and Avaras' House]]. Meet [[Kethra]], a [[Dwarves|dwarven]] smith who has sought out [[Riswynn]] to be her mentor.

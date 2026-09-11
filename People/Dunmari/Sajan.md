@@ -20,7 +20,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The Haunted energy felt by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Hall of Stories]], the [[Monastery of Bhishma]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:dufr%% The Haunted energy felt by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Hall of Stories]], the [[Monastery of Bhishma]] %%^End%%
 
 Sajan was the last Keeper of the [[Hall of Stories]], before the [[Monastery of Bhishma]] outside [[Kharsan]] was abandoned by the [[Order of the Awakened Soul]], in the months following the [[Awakened Soul Disaster]]. 
 

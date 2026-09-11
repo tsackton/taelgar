@@ -14,12 +14,12 @@ dm_owner: none
 dm_notes: none
 ---
 # Gorkil
->[!info]+ Biographical Info
-> An [[Orcs|orc]] (he/him), of [[Grash's Horde]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by [[Seeker]] on May 5th, 1748 in [[Kharsan]], the [[Garamjala Desert]] %%^End%%
+>[!info]+ Biographical Info  
+> An [[Orcs|orc]] (he/him), of [[Grash's Horde]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Killed by [[Seeker]] on May 5th, 1748 in [[Kharsan]] %%^End%%
 
 An [[Orcs|orc]] cleric in [[Grash's Horde|Grash's army]]. 
 

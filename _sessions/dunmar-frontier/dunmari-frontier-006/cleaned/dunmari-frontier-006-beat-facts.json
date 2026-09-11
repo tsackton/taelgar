@@ -1,0 +1,673 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-006/cleaned/dunmari-frontier-006-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party prepares to fortify Shakun's temple and investigate Raven's Hold while Karawa plans to evacuate west.",
+      "longSummary": "After the council, the party reviews the plan: Havdar will escort the villagers toward Tokra, Alesh will scout south, a separate messenger will seek the king, and the party will investigate Raven's Hold while the temple's defenders remain. Wellby's updated map prompts discussion of the northern lightning storm, dangerous vines, and the approach to the fort. Candrosa and Kisa can supply horses; travel to Raven's Hold should take six to seven days at a normal pace. The party divides its errands among gathering information, buying equipment, and consulting Candrosa.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Town, oasis, and planning discussions after the council"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "mentioned",
+          "notes": "Recruiting volunteers and preparing to protect the westward evacuation."
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned",
+          "notes": "Will scout south with companions and discuss a rendezvous before leaving."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "notes": "Remaining at the temple; can help supply horses."
+        },
+        {
+          "name": "Kisa",
+          "role": "mentioned",
+          "notes": "Helping arrange the evacuation and horses."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wellby's map",
+          "role": "encountered",
+          "notes": "Updated with information from Alesh; used to discuss Raven's Hold, the storm, and the southern settlements."
+        },
+        {
+          "name": "The Runes of Creation",
+          "role": "encountered",
+          "notes": "Seeker plans to investigate the anonymously delivered book's origin; its title is stated later in this session."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned",
+          "notes": "The temple community staying behind; the party plans to strengthen its defenses."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Wellby learns more about Raven's Hold and Ander's affliction, while Seeker finds that the donor of his runebook remains unknown.",
+      "longSummary": "Callie describes the northern road, its oases, and Raven's Hold's visible valley wall, collapsed gatehouse, and stream entrance, while asking Wellby to find help for Ander. Wellby's telepathic probing reveals Ander's memory of wading inside, seeing a waterfall, ruined walls, a tower, and vines, followed by overwhelming hunger and pain. At the crowded tavern, Ikram reports refugees arriving from Bas Udda. He cannot identify who left Seeker's book: it appeared with a note directing it to the heroes of Karawa.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The halfling encampment and Ikram's tavern"
+      },
+      "npcs": [
+        {
+          "name": "Callie Charmheart",
+          "role": "encountered",
+          "notes": "Provides route and entrance information and asks for help for her brother."
+        },
+        {
+          "name": "Ander Charmheart",
+          "role": "encountered",
+          "notes": "His thoughts repeat that the master will consume the world; Wellby probes his memories."
+        },
+        {
+          "name": "Ikram",
+          "role": "encountered",
+          "notes": "Reports the refugees and cannot identify the book's donor."
+        }
+      ],
+      "items": [
+        {
+          "name": "The Runes of Creation",
+          "role": "encountered",
+          "notes": "Seeker asks Ikram about its anonymous delivery."
+        },
+        {
+          "name": "Note accompanying the runebook",
+          "role": "encountered",
+          "notes": "Directs that the book be given to the heroes of Karawa; the sender is not identified."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Seeker examines apparently growing stone around the temple, and Candrosa directs Kenzo to Alesh for better knowledge of the northern ruins.",
+      "longSummary": "Seeker finds an unusual pattern of weathering around the temple, with patches that appear newer farther from its walls, almost as though the cliff is growing fresh stone. He takes samples away from the facade and uses his drawings of Kenzo and new map sketches to think about landscapes changing through time; no new magical effect occurs. Candrosa tells Kenzo that northern garrisons likely favored Aagir, whose destructive power has a necessary place among the gods. He admits limited knowledge of Raven's Hold and recommends asking Alesh before she departs.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Temple of Shakun and the adjacent Red Mesa cliff face"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "notes": "Discusses Aagir and the north, while acknowledging the limits of his historical knowledge."
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned",
+          "notes": "Recommended as the person most likely to know the fort's history."
+        }
+      ],
+      "items": [
+        {
+          "name": "Stone samples from the Red Mesa",
+          "role": "encountered",
+          "notes": "Seeker collects samples at a respectful distance from the temple facade."
+        },
+        {
+          "name": "Legendary Staff of Kenzo",
+          "role": "encountered",
+          "notes": "Seeker unbinds his illustrated booklet to experiment with sequencing images; this is the title spoken in the session."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered",
+          "notes": "Kenzo seeks further understanding and training from Candrosa at the temple."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party buys discounted healing supplies, receives a scroll for returned relics, and finishes equipping the expedition.",
+      "longSummary": "Delwath checks on townspeople preparing to flee and finds sellers seeking ready coin. The party arranges a healing potion each for twenty gold, and Delwath is offered an uncommon potion whose type is not chosen in this exchange. They review the two-use healing mud already supplied by Candrosa. Seeker can collect Jasu's chain for four gold and receives a second-level Cure Wounds scroll from Suma for returning the recovered religious artifacts. Kenzo keeps the now nonmagical black iron staff and increases his darts to forty; the group finishes its travel preparations.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Market, equipment errands, and discussions around town"
+      },
+      "npcs": [
+        {
+          "name": "Jasu",
+          "role": "mentioned",
+          "notes": "Made Seeker's requested chain, offered for four gold."
+        },
+        {
+          "name": "Suma",
+          "role": "encountered",
+          "notes": "The return of the fort's religious artifacts is resolved here, with a Cure Wounds scroll as thanks."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "notes": "Discusses the black iron staff; its Draconic writing remains unusual to him."
+        }
+      ],
+      "items": [
+        {
+          "name": "Potions of healing",
+          "role": "encountered",
+          "notes": "A common healing potion for each of the four current party members, at twenty gold each."
+        },
+        {
+          "name": "Red healing mud",
+          "role": "encountered",
+          "notes": "Already possessed; two charges, each healing 2d4 + 2."
+        },
+        {
+          "name": "Cure Wounds scroll",
+          "role": "encountered",
+          "notes": "A second-level spell scroll given by Suma in return for the recovered religious artifacts."
+        },
+        {
+          "name": "Chain net",
+          "role": "encountered",
+          "notes": "Seeker adds the chain-net item while arranging to collect Jasu's chain."
+        },
+        {
+          "name": "Black iron staff",
+          "role": "encountered",
+          "notes": "Kenzo retains the staff from the undead hobgoblin; it is no longer magical after its attached piece was broken off."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-04",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Alesh leaves to scout south after arranging a roughly three-week rendezvous and sharing Raven's Hold's history as a dwarven trading outpost.",
+      "longSummary": "Alesh arrives with two mounted scouts and proposes traveling past Bas Udda toward the Garamjala Desert, east as safely possible, then back by the southern edge of the Great Gash. The party agrees to aim for a return to Karawa in about three weeks, with four weeks a cause for concern, and identifies Havdar and Kisa as trusted contacts if messages must be left in Tokra. Alesh explains that Raven's Hold sheltered northern settlers and supported trade with southern dwarves, whose underground roads extended for hundreds of miles. She and her companions ride south before dark.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Alesh's farewell meeting before her southward departure"
+      },
+      "npcs": [
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "notes": "Coordinates scouting, contacts, and the rendezvous; recounts the fort's trading history."
+        },
+        {
+          "name": "Alesh's two mounted scouts",
+          "role": "encountered",
+          "notes": "An older, exceptionally skilled horseman and a hooded woman carrying a longbow; neither is named."
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned",
+          "notes": "Trusted contact expected to return after escorting the villagers to safety."
+        },
+        {
+          "name": "Kisa",
+          "role": "mentioned",
+          "notes": "Trusted contact accompanying the villagers to Tokra."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-04",
+      "dateEnd": "1748-04-05",
+      "timeWindow": null,
+      "shortSummary": "Seeker spends most of the following day strengthening the temple with masonry and earth-shaping magic.",
+      "longSummary": "At Kenzo's prompting, Seeker plans defenses for the exposed part of Shakun's temple. Combining masonry with earth-shaping magic, he strengthens doors and walls and makes a dry moat with a wall beyond it. The group discusses using second-story access so the main entrance can be heavily obstructed. The work occupies most of the next day, and Seeker returns to the inn shortly before the festival, satisfied that the defenses will make forced entry substantially harder.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Temple of Shakun, especially its exposed entrance"
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered",
+          "notes": "The temple's remaining community benefits from the fortifications and planned upper-story access."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-05",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Ikram introduces Riswynn, whose quest for a Brawnanvil heirloom gives her reason to join the expedition to Raven's Hold.",
+      "longSummary": "Before the festival, Ikram introduces Riswynn, a dwarf who arrived that morning from Tharn Todor. She explains that her clan sent her to recover an artifact at Raven's Hold amid concerns that dwarven relics are disappearing westward. She carries a map sketched by her great-great-uncle Eberk but has not visited the site and cannot yet identify a safe underground approach. Wellby describes Ander's affliction, and Seeker shows The Runes of Creation. Riswynn seeks company because of the regional danger and describes the martial and divine abilities she can bring to the group.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Ikram's Caravanserai, during the meal before the festival"
+      },
+      "npcs": [
+        {
+          "name": "Ikram",
+          "role": "encountered",
+          "notes": "Introduces the travelers because they share the same destination."
+        },
+        {
+          "name": "Eberk Brawnanvil",
+          "role": "mentioned",
+          "notes": "Riswynn's great-great-uncle, who supplied a remembered map of Raven's Hold."
+        },
+        {
+          "name": "Ander Charmheart",
+          "role": "mentioned",
+          "notes": "Wellby explains how his experience at the fort motivated the party's investigation."
+        }
+      ],
+      "items": [
+        {
+          "name": "Riswynn's map of Raven's Hold",
+          "role": "encountered",
+          "notes": "Drawn from Eberk's memories; Riswynn expects to orient it on reaching the ruins."
+        },
+        {
+          "name": "Brawnanvil clan artifact",
+          "role": "mentioned",
+          "notes": "The unnamed object Riswynn has been sent to recover."
+        },
+        {
+          "name": "The Runes of Creation",
+          "role": "encountered",
+          "notes": "Seeker shows the book's polished stone-like cover, dwarven title, and silver-inlaid lettering."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Brawnanvils",
+          "role": "mentioned",
+          "notes": "Riswynn's clan has ancestral ties to Raven's Hold and sent her after its artifact."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Suma interprets the burning shrine's westward embers as Jeevali's blessing for the planned evacuation.",
+      "longSummary": "The party joins Karawa's gathered population for the festival's first evening. Suma leads out the dry wooden and vine-built shrine and recounts how Jeevali's tears restored life to the land, depleted the goddess, and were followed by her return through the people's devotion. She burns the old shrine, whose embers drift unusually, mostly west. Suma declares that Jeevali is going west and the people will follow, announcing departure on the morning after the festival. The ceremony ends with the ashes dispersed and fasting ahead of the next day's shrine renewal.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The desert ceremony site outside town"
+      },
+      "npcs": [
+        {
+          "name": "Suma",
+          "role": "encountered",
+          "notes": "Leads the ritual, tells Jeevali's story, and interprets the sign."
+        }
+      ],
+      "items": [
+        {
+          "name": "Shrine of Jeevali",
+          "role": "encountered",
+          "notes": "The old tree-shaped shrine is burned; its westward embers are interpreted as divine favor for the evacuation."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The renewed shrine's blessing is interrupted by an attack from the north, and the party meets three gnolls and three mouth creatures.",
+      "longSummary": "After the overnight rest, the townspeople rebuild Jeevali's shrine through a solemn procession. As the offerings begin fusing in late afternoon, screams and northern dust draw the party away from the crowd. Three sword-bearing gnolls and three grotesque mouth creatures charge toward them. Seeker's Sleep drops one gnoll and his inspiration rune begins orbiting Delwath. Riswynn's Guiding Bolt misses, the remaining enemies close rapidly, and Wellby takes cover on a building before wounding a gnoll engaged with Delwath.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Festival procession and the camp at the northern outskirts"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Shrine of Jeevali",
+          "role": "encountered",
+          "notes": "The new shrine begins to fuse from communal offerings immediately before the attack."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Gnolls",
+            "notes": "Three sword-bearing, hyena-like humanoids; the DM explicitly uses gnoll later in the same fight."
+          },
+          {
+            "name": "Mouth creatures",
+            "notes": "Three person-sized masses of jaws, eyes, and limbs; no more specific creature name is established in the transcript."
+          }
+        ],
+        "notes": "Opening phase of one continuous battle: one gnoll is put to sleep, and the other attackers close with the party."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party brings force and fire against the attackers, but Kenzo comes under pressure from the mouth creatures.",
+      "longSummary": "Kenzo gathers his ki into a ball of force and strikes a mouth creature from a distance before moving to support Riswynn. Seeker uses Heat Metal on a wounded gnoll's sword; it does not drop the weapon and burns to death. Riswynn wounds a mouth creature with her flaming warhammer, while Delwath's shadow sword and Hex strike the other active gnoll and green flame leaps to a nearby mouth creature. Kenzo is bitten badly and his follow-up attacks miss, while Riswynn and Delwath's defenses turn aside attacks.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Battle among the northern camp's tents and nearby buildings"
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Gnolls",
+            "notes": "Three sword-bearing, hyena-like humanoids; the DM explicitly uses gnoll later in the same fight."
+          },
+          {
+            "name": "Mouth creatures",
+            "notes": "Three person-sized masses of jaws, eyes, and limbs; no more specific creature name is established in the transcript."
+          }
+        ],
+        "notes": "The first active gnoll dies to Heat Metal; the other active gnoll and all three mouth creatures are still in the fight at this phase's end, while one gnoll sleeps."
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Ander approaches the mouths seeking to be consumed as the party struggles to keep Kenzo standing and destroys two of the creatures.",
+      "longSummary": "Ander stumbles out of the camp trailing broken rope. Seeker repeatedly heals Kenzo, who continues taking heavy bites, and uses Mold Earth to try to trip a gnoll. Wellby wounds a mouth creature, allowing Kenzo to finish it with his staff before spending his last ki to dodge. Delwath kills the remaining active gnoll. As Ander heads toward the mouths, Wellby hears his mental chant welcoming the master and asking to be eaten; Seeker makes the ground in front of him difficult to cross. Riswynn's destructive touch blasts another mouth creature apart, leaving one mouth creature active and one gnoll asleep.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The northern battlefield, including cover on a nearby building"
+      },
+      "npcs": [
+        {
+          "name": "Ander Charmheart",
+          "role": "encountered",
+          "notes": "Approaches the mouth creatures in a trance; Wellby hears his desire to be consumed."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Gnolls",
+            "notes": "Three sword-bearing, hyena-like humanoids; the DM explicitly uses gnoll later in the same fight."
+          },
+          {
+            "name": "Mouth creatures",
+            "notes": "Three person-sized masses of jaws, eyes, and limbs; no more specific creature name is established in the transcript."
+          }
+        ],
+        "notes": "Kenzo kills one mouth creature, Delwath kills the second active gnoll, and Riswynn destroys a second mouth creature; one mouth creature remains active."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Riswynn revives the fallen Kenzo, Seeker's image of vines stops Ander, and the party kills the final mouth creature.",
+      "longSummary": "Despite dodging, Kenzo is bitten unconscious and fails a death save. Delwath stands over him and attacks the mouth creature; Riswynn's Cure Wounds restores Kenzo to consciousness with fifteen hit points. Kenzo describes the experience as crossing toward another realm, then resumes fighting. Seeker draws thorny vines before Ander, who panics and faints. Delwath spends the inspiration rune to turn a miss into a hit and add a thunderous burst, then Riswynn finishes the creature with her warhammer. Initiative ends with all three mouth creatures dead and one gnoll still asleep.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The northern battlefield"
+      },
+      "npcs": [
+        {
+          "name": "Ander Charmheart",
+          "role": "encountered",
+          "notes": "Stumbles through the disturbed ground, then faints after seeing Seeker's image of thorny vines."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Mouth creature",
+            "notes": "The final active attacker; killed by Riswynn after Delwath's rune-assisted strike."
+          },
+          {
+            "name": "Sleeping gnoll",
+            "notes": "Remains alive and asleep when initiative ends."
+          }
+        ],
+        "notes": "Kenzo survives after Cure Wounds; the fight ends with the sleeping gnoll available to restrain."
+      }
+    },
+    {
+      "beatId": "beat-013",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party fails to communicate with its captive, recalls possible planar origins for the mouths, and returns Ander to his family.",
+      "longSummary": "Delwath and Wellby bind the sleeping gnoll, but it wakes snarling and offers no intelligible communication; the party also restrains the angry Ander. Kenzo silently meditates while the ground shakes around him. The gnoll carries crude gear, flesh, and animal-bone ornaments. Seeker recalls a picture in Intrusions From the Darker Planes resembling the mouths, described as extraplanar foot soldiers of a dark lord of hunger, and shares that powerful magic can summon such beings. The party kills the captive. Wellby returns the now subdued Ander to Bree and Callie; Callie is horrified to hear that he wanted the mouths to consume him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The northern battlefield and the approach to the halfling camp"
+      },
+      "npcs": [
+        {
+          "name": "Captive gnoll",
+          "role": "enemy",
+          "notes": "Bound while asleep; remains violently hostile and is killed after attempts at communication fail."
+        },
+        {
+          "name": "Ander Charmheart",
+          "role": "encountered",
+          "notes": "Restrained after waking angry, then becomes subdued and is returned to his family."
+        },
+        {
+          "name": "Bree Charmheart",
+          "role": "encountered",
+          "notes": "Comes with Callie to recover Ander."
+        },
+        {
+          "name": "Callie Charmheart",
+          "role": "encountered",
+          "notes": "Relieved to find Ander alive, then distressed by the account of his approach to the mouths."
+        }
+      ],
+      "items": [
+        {
+          "name": "Intrusions From the Darker Planes",
+          "role": "mentioned",
+          "notes": "A book Seeker read before leaving home; its description provides a possible identification of the mouth creatures, not a confirmed account of their arrival here."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-014",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Havdar reports killing two more attackers and urges departure at first light as the village and temple prepare through the night.",
+      "longSummary": "Havdar rides up wounded and reports killing two bow-armed gnolls on the other side of the hill. He recognizes the kind of creatures that attacked Bas Udda and urges departure the next morning. The party shows him the mouth creatures, whose remains decay and fade unnaturally; their possible planar origins unsettle him. He praises the temple defenses and leaves to organize the evacuation. Kisa and Candrosa thank the party, while the remaining mystai haul food and water through an upper window and prepare to shut themselves inside the temple. Kenzo remains meditating at the battlefield.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The battlefield, with evacuation preparations in town and at the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "encountered",
+          "notes": "Reports defeating the separate pair of gnolls, assesses the new threat, and organizes the evacuation."
+        },
+        {
+          "name": "Kisa",
+          "role": "encountered",
+          "notes": "Visits to thank the party and hasten departure preparations."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "notes": "Thanks the party, notices Kenzo's condition, and prepares the temple community to remain behind."
+        }
+      ],
+      "items": [
+        {
+          "name": "Mouth-creature remains",
+          "role": "encountered",
+          "notes": "Decay rapidly and fade away; the scattered remains of the creature destroyed by Riswynn's spell have already vanished."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered",
+          "notes": "Stockpile food and water and prepare to barricade themselves inside the temple."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-015",
+      "dateStart": "1748-04-06",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Kenzo emerges from meditation with brilliant blue eyes, while Seeker collects a tooth and Delwath finds the attackers' northern trail.",
+      "longSummary": "When Delwath approaches, Kenzo comes out of his trance with unusually bright blue eyes and asks whether the battle is over. He feels that he crossed into the void and does not understand the shaking ground; his companions offer water and reassurance as his eyes return to their normal color. Seeker extracts a warm, almost steaming black tooth and explains the mouths' possible origin in darker planes. At sunset, Delwath distinguishes tracks showing that the gnolls and mouths approached together from the north before separating near a building. The party plans to follow them in the morning; Kenzo intends to change clothes and meditate at the oasis.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The northern battlefield, nearby tracks, and evening preparations"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Tooth from a mouth creature",
+          "role": "encountered",
+          "notes": "Seeker extracts a black tooth that feels warm and almost steams."
+        },
+        {
+          "name": "Intrusions From the Darker Planes",
+          "role": "mentioned",
+          "notes": "Seeker recalls its description while discussing possible planar origins with Kenzo."
+        },
+        {
+          "name": "Legendary Staff of Kenzo",
+          "role": "encountered",
+          "notes": "Seeker discusses repairing the binding of his illustrated account and spending the evening drawing."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-016",
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "At dawn, Karawa's people begin their westward evacuation while the party follows the attackers' tracks north.",
+      "longSummary": "At first light, roughly a thousand people with at least fifteen hundred horses gather to leave Karawa, with faster travelers ahead and the halflings among those moving more slowly. Havdar, about twenty-five newly recruited troops, and the survivors who escorted the refugees guard the rear. As the village empties westward, the party picks up the northern tracks and begins its own journey in the rising sun.",
+      "location": {
+        "kind": "journey",
+        "from": "Karawa",
+        "to": "Northern trail outside Karawa",
+        "context": "Departure north along the attackers' tracks",
+        "notes": "The party begins the journey; this beat does not include arrival at Raven's Hold."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "encountered",
+          "notes": "Keeps watch over the rear of the westward evacuation with his troops."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered",
+          "notes": "The troops protect the departing villagers; the party takes a separate northern route."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

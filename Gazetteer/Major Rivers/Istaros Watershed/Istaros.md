@@ -21,7 +21,7 @@ POV: modern
 
 %% status/gameupdate/dufr -- does not reflect events post-ooze-destruction %%
 
-The Istaros is a major river that flows several thousand miles from its source in the [[Mostreve Hills]] to the [[Sea of Storms]]. The [[Istaros Watershed]] has been central to many rich realms, including the [[Drankorian Empire]] and later the [[Istabor Alliance]], but since the [[Great War]] it has been largely cursed and deserted, as nearly the entire river system flows through the [[Desolation of Cha'mutte]]. 
+The Istaros is a major river that flows several thousand miles from its source in the [[Mostreve Hills]] to the [[Sea of Storms]]. The [[Istaros Watershed]] has been central to many rich realms, including the [[Drankorian Empire]] and later the [[Istabor Alliance]]. The watershed includes the [[Plaguelands]] around [[Isingue]] on the upper river, the desert lands of [[Xurkhaz]] and the [[Garamjala Desert|Garamjala]] farther south, and the [[Desolation of Cha'mutte]] around [[Drankor]] near the lower river.
 ## Upper Istaros
 
 The source of the Istaros is [[Lake Aeulian]], which in turn is fed by the [[Andonne]] and the [[Valmont]], which flow from the Sentinels and the Mostreve Hills, respectively. Here, the Istaros once flowed through riparian forests and scenic river valleys dotted with productive agricultural villages and minor tributaries. Now, this land is cursed, and few dare venture through the now-haunted, ash-choked landscape. 

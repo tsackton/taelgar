@@ -64,7 +64,7 @@ Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territ
 
 ### Borders
 
-The southern and eastern borders of Dunmar are dangerous wildlands. To the south, the jungles south of the [[Shrev]] are home to strange monsters and the occasional undead, and extensive fortifications along the river keep the border safe. To the east, dangers of the [[Nashtkar]] and the vast [[Garamjala Desert]], part of the [[Desolation of Cha'mutte]], are kept from overrunning Dunmar by the divine grace of [[Shakun's Protection]] and the [[Shakun Mystai]].
+The southern and eastern borders of Dunmar are dangerous wildlands. To the south, the jungles south of the [[Shrev]] are home to strange monsters and the occasional undead, and extensive fortifications along the river keep the border safe. To the east, dangers of the [[Nashtkar]] and the vast [[Garamjala Desert]] are kept from overrunning Dunmar by the divine grace of [[Shakun's Protection]] and the [[Shakun Mystai]].
 
 To the west, Dunmar is bordered by the [[Nevos Sea]], the [[Chataan Mountains]], and the [[Myraeni Gap]], beyond which lie the islands of [[Illoria]], and the [[Chardonian Empire]]. 
 
@@ -100,7 +100,7 @@ The first 50 years of the [[Nayan Dynasty]] were marked by a series of wars:
 - The [[Bitter Knife War]], against the Bitter Knife hobgoblin nation based in the [[Nashtkar]]
 - The [[Northern War]], against the [[Blackened Claw]] hobgoblin clan based in the [[Samtal]] and the upper reaches of the [[Hara]]. 
 
-At the end of the [[Northern War]] in the 53rd year of the Nayan Dynasty (DR 1610), the hobgoblin threat from the [[Desolation of Cha'mutte]] was decisively defeated. Over the next 100 years, the attention of the Nayan Samraats largely turned to the lands around the [[Shrev]] and beyond, as repeated, unsuccessful attempts were made to clear the various magical dangers of the jungles beyond.
+At the end of the [[Northern War]] in the 53rd year of the Nayan Dynasty (DR 1610), the hobgoblin threat to northern and eastern Dunmar was decisively defeated. Over the next 100 years, the attention of the Nayan Samraats largely turned to the lands around the [[Shrev]] and beyond, as repeated, unsuccessful attempts were made to clear the various magical dangers of the jungles beyond.
 
 In the 161st year of the Nayan Dynasty (DR 1718), Samraat Nayan Lina came to power young, at a turbulent time, shortly after the [[Summer of Red Storms]] and at a time of increasing dissent among the eastern temples. Her death in 171 Nayan (DR 1728) led to the [[Nayan Succession Crisis]], which was eventually resolved by the ascension of Samraat Nayan Marathu to power the following year. 
 

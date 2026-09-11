@@ -1,0 +1,839 @@
+{
+  "schemaVersion": 1,
+  "sourceSha256": "52facdfcb70af7f1c5ca4f41d2a8d68e08c42545de90a1d6037c7fbc0364c9c2",
+  "reviewedRange": "u0001-u3951",
+  "corrections": [
+    {
+      "lineId": "u0029",
+      "originalSpan": "leaving behind you",
+      "replacementSpan": "looming behind you",
+      "reason": "Cliff walls above the town; clear contextual ASR substitution."
+    },
+    {
+      "lineId": "u0048",
+      "originalSpan": "uh, from...",
+      "replacementSpan": "uh...",
+      "reason": "Carries forward the user-approved removal of the stray From at this audio position."
+    },
+    {
+      "lineId": "u0053",
+      "originalSpan": "And they're being, uh, they're, they're heading west with",
+      "replacementSpan": "And they're -- they're heading west with",
+      "reason": "Exact user-approved wording at the matching recording time."
+    },
+    {
+      "lineId": "u0061",
+      "originalSpan": "Because the, uh, um, the, uh, uh, La- Laka?",
+      "replacementSpan": "Because, ah, ah, Laka?",
+      "reason": "Carries forward user-corrected wording at this recording time, preserving the new line division."
+    },
+    {
+      "lineId": "u0062",
+      "originalSpan": "Uh, no, no, it's not Laka. It's, uh-",
+      "replacementSpan": "Uh, it's not Laka...",
+      "reason": "Carries forward user-corrected wording at this recording time, preserving the new line division."
+    },
+    {
+      "lineId": "u0063",
+      "originalSpan": "Kenza",
+      "replacementSpan": "Kenzo",
+      "reason": "Protected PC name in direct address while correcting which god was meant."
+    },
+    {
+      "lineId": "u0075",
+      "originalSpan": "They're finding another messenger to ride south",
+      "replacementSpan": "So Suma got another messenger. Right.",
+      "reason": "Restores the previously user-corrected messenger line at 00:04:18–00:04:20, where the new ASR omits Suma."
+    },
+    {
+      "lineId": "u0076",
+      "originalSpan": "there are politics involved",
+      "replacementSpan": "there were politics involved",
+      "reason": "User-approved correction at this recording time."
+    },
+    {
+      "lineId": "u0104",
+      "originalSpan": "Domat",
+      "replacementSpan": "Gomat",
+      "reason": "Map discussion refers to the fort east of Gomat; Gomat note confirms the location."
+    },
+    {
+      "lineId": "u0104",
+      "originalSpan": "the chasm",
+      "replacementSpan": "the Chasm",
+      "reason": "Preserves the capitalization in the user-approved map description."
+    },
+    {
+      "lineId": "u0105",
+      "originalSpan": "That's where it were",
+      "replacementSpan": "That's where we were",
+      "reason": "Local confirmation of the party’s prior fort location; clear pronoun/grammar ASR noise."
+    },
+    {
+      "lineId": "u0207",
+      "originalSpan": "journal",
+      "replacementSpan": "general area",
+      "reason": "User supplied the exact phrase: who dropped it off in this general area for us."
+    },
+    {
+      "lineId": "u0248",
+      "originalSpan": "Josu",
+      "replacementSpan": "Jasu",
+      "reason": "Karawa blacksmith, confirmed in Jasu note and the preceding cleaned sessions."
+    },
+    {
+      "lineId": "u0267",
+      "originalSpan": "range weapons",
+      "replacementSpan": "ranged weapons",
+      "reason": "Darts are being discussed as ranged weapons."
+    },
+    {
+      "lineId": "u0271",
+      "originalSpan": "chained shirt",
+      "replacementSpan": "chain shirt",
+      "reason": "Armor equipment name in a trade-in discussion."
+    },
+    {
+      "lineId": "u0286",
+      "originalSpan": "Dalrik",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name; nearby horse discussion and prior session confirm Delwath’s horse."
+    },
+    {
+      "lineId": "u0320",
+      "originalSpan": "Talgar",
+      "replacementSpan": "Taelgar",
+      "reason": "Setting name in an out-of-character joke about weed killer."
+    },
+    {
+      "lineId": "u0371",
+      "originalSpan": "still Take",
+      "replacementSpan": "still take",
+      "reason": "Mid-sentence capitalization."
+    },
+    {
+      "lineId": "u0408",
+      "originalSpan": "we not have to",
+      "replacementSpan": "we don’t have to",
+      "reason": "Missing auxiliary in an otherwise clear request to skip roleplaying."
+    },
+    {
+      "lineId": "u0415",
+      "originalSpan": "So Wellby doing that.",
+      "replacementSpan": "So Wellby’s doing that.",
+      "reason": "Missing possessive contraction in the DM’s activity summary."
+    },
+    {
+      "lineId": "u0537",
+      "originalSpan": "wisdom check",
+      "replacementSpan": "Wisdom check",
+      "reason": "Ability-score capitalization."
+    },
+    {
+      "lineId": "u0550",
+      "originalSpan": "a intact tower",
+      "replacementSpan": "an intact tower",
+      "reason": "Clear article error."
+    },
+    {
+      "lineId": "u0557",
+      "originalSpan": "um- To just consume",
+      "replacementSpan": "um- to just consume",
+      "reason": "Mid-sentence capitalization."
+    },
+    {
+      "lineId": "u0738",
+      "originalSpan": "Kenso",
+      "replacementSpan": "Kenzo",
+      "reason": "Protected PC name in descriptions of Seeker’s illustrated book."
+    },
+    {
+      "lineId": "u0740",
+      "originalSpan": "Kenso",
+      "replacementSpan": "Kenzo",
+      "reason": "Protected PC name in descriptions of Seeker’s illustrated book."
+    },
+    {
+      "lineId": "u0769",
+      "originalSpan": "I wish that more, more time",
+      "replacementSpan": "I wish I had more, more time",
+      "reason": "Clear malformed ASR phrase in a wish to spend longer studying."
+    },
+    {
+      "lineId": "u0777",
+      "originalSpan": "Sort of pause this for a moment.",
+      "replacementSpan": "Sort of pauses for a moment.",
+      "reason": "DM narration of Candrosa pausing before answering."
+    },
+    {
+      "lineId": "u0782",
+      "originalSpan": "I'm not a expert",
+      "replacementSpan": "I'm not an expert",
+      "reason": "Clear article error."
+    },
+    {
+      "lineId": "u0785",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0786",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0797",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0803",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0815",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0816",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0831",
+      "originalSpan": "Agir",
+      "replacementSpan": "Aagir",
+      "reason": "Deity of fire, war, and death; spelling and pronunciation confirmed in the Aagir note."
+    },
+    {
+      "lineId": "u0903",
+      "originalSpan": "reads on things",
+      "replacementSpan": "leads on things",
+      "reason": "Seeking sources of supplies and healing potions; contextual ASR substitution."
+    },
+    {
+      "lineId": "u0968",
+      "originalSpan": "two D4 plus two",
+      "replacementSpan": "2d4 plus two",
+      "reason": "Standard dice notation without changing the amount."
+    },
+    {
+      "lineId": "u0982",
+      "originalSpan": "potion healing",
+      "replacementSpan": "potion of healing",
+      "reason": "Equipment name confirmed repeatedly in the surrounding menu instructions."
+    },
+    {
+      "lineId": "u0987",
+      "originalSpan": "Jasoo",
+      "replacementSpan": "Jasu",
+      "reason": "Same Karawa blacksmith and chain order."
+    },
+    {
+      "lineId": "u1031",
+      "originalSpan": "with the thing is cracked off",
+      "replacementSpan": "with the thing cracked off",
+      "reason": "Extraneous auxiliary in the explanation that the staff lost its magic."
+    },
+    {
+      "lineId": "u1080",
+      "originalSpan": "quarter staff",
+      "replacementSpan": "quarterstaff",
+      "reason": "Standard equipment spelling."
+    },
+    {
+      "lineId": "u1101",
+      "originalSpan": "if you don't want to carry.",
+      "replacementSpan": "if you don't want to carry it.",
+      "reason": "Missing object referring to the staff in an otherwise complete sentence."
+    },
+    {
+      "lineId": "u1191",
+      "originalSpan": "Kenza",
+      "replacementSpan": "Kenzo",
+      "reason": "Protected PC name; the tall party members are carrying the staff."
+    },
+    {
+      "lineId": "u1210",
+      "originalSpan": "long bow",
+      "replacementSpan": "longbow",
+      "reason": "Standard equipment spelling."
+    },
+    {
+      "lineId": "u1227",
+      "originalSpan": "trying stealthy",
+      "replacementSpan": "trying to be stealthy",
+      "reason": "Missing infinitive in the account of scouting while avoiding enemies."
+    },
+    {
+      "lineId": "u1350",
+      "originalSpan": "Alesh Had",
+      "replacementSpan": "Alesh had",
+      "reason": "Mid-sentence capitalization."
+    },
+    {
+      "lineId": "u1366",
+      "originalSpan": "visit sometimes",
+      "replacementSpan": "visit sometime",
+      "reason": "Alesh immediately says she has never visited; prospective visit."
+    },
+    {
+      "lineId": "u1369",
+      "originalSpan": "Sombar",
+      "replacementSpan": "Sembara",
+      "reason": "Canonical realm spelling; trade routes north through the mountains, supported by Sembara note."
+    },
+    {
+      "lineId": "u1414",
+      "originalSpan": "as well in safe travels",
+      "replacementSpan": "as well and safe travels",
+      "reason": "Clear conjunction ASR substitution in a farewell."
+    },
+    {
+      "lineId": "u1424",
+      "originalSpan": "I'll bring it back, guys.",
+      "replacementSpan": "I'll be right back, guys.",
+      "reason": "Clear idiomatic ASR near-miss in an out-of-character interruption."
+    },
+    {
+      "lineId": "u1447",
+      "originalSpan": "intelligence check",
+      "replacementSpan": "Intelligence check",
+      "reason": "Ability-score capitalization."
+    },
+    {
+      "lineId": "u1451",
+      "originalSpan": "intelligence check",
+      "replacementSpan": "Intelligence check",
+      "reason": "Ability-score capitalization."
+    },
+    {
+      "lineId": "u1452",
+      "originalSpan": "intelligence check",
+      "replacementSpan": "Intelligence check",
+      "reason": "Ability-score capitalization."
+    },
+    {
+      "lineId": "u1456",
+      "originalSpan": "that You know",
+      "replacementSpan": "that you know",
+      "reason": "Mid-sentence capitalization."
+    },
+    {
+      "lineId": "u1523",
+      "originalSpan": "dwarf who",
+      "replacementSpan": "dwarf whose",
+      "reason": "Possessive relative pronoun connecting to red hair in u1524; speaker headers remain unchanged."
+    },
+    {
+      "lineId": "u1542",
+      "originalSpan": "like flung",
+      "replacementSpan": "like slung",
+      "reason": "Staffs carried behind the character; clear phonetic ASR substitution."
+    },
+    {
+      "lineId": "u1564",
+      "originalSpan": "Raven's Claw",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Same destination repeatedly named in this introduction; no separate Raven’s Claw location is introduced."
+    },
+    {
+      "lineId": "u1567",
+      "originalSpan": "Ardet",
+      "replacementSpan": "Nardith",
+      "reason": "Destination of the dwarven exodus into the Yuvanti; confirmed by the Nardith and Ardith notes and Riswynn’s introduction."
+    },
+    {
+      "lineId": "u1570",
+      "originalSpan": "Brawn anvils",
+      "replacementSpan": "Brawnanvils",
+      "reason": "Clan name confirmed in Riswynn and Brawnanvils notes; preserves the preceding false start Brawn."
+    },
+    {
+      "lineId": "u1608",
+      "originalSpan": "Axbeek",
+      "replacementSpan": "axe beak",
+      "reason": "Phonetic near-miss for the mounts raced during the festival."
+    },
+    {
+      "lineId": "u1645",
+      "originalSpan": "Iferk",
+      "replacementSpan": "Eberk",
+      "reason": "Eberk Brawnanvil note identifies Riswynn’s uncle who supplied the map of this outpost."
+    },
+    {
+      "lineId": "u1662",
+      "originalSpan": "war hammer",
+      "replacementSpan": "warhammer",
+      "reason": "Standard equipment spelling."
+    },
+    {
+      "lineId": "u1663",
+      "originalSpan": "Baharzel",
+      "replacementSpan": "Bahrâzel",
+      "reason": "Dwarven gods, confirmed spelling and pronunciation in the Bahrazel note."
+    },
+    {
+      "lineId": "u1663",
+      "originalSpan": "spell casting",
+      "replacementSpan": "spellcasting",
+      "reason": "Standard spelling."
+    },
+    {
+      "lineId": "u1704",
+      "originalSpan": "Dunmari And",
+      "replacementSpan": "Dunmari. And",
+      "reason": "Missing sentence boundary."
+    },
+    {
+      "lineId": "u1705",
+      "originalSpan": "but the rest of you is new",
+      "replacementSpan": "but to the rest of you is new",
+      "reason": "Missing preposition in the relative clause describing who knows the story."
+    },
+    {
+      "lineId": "u1705",
+      "originalSpan": "Drankhorean",
+      "replacementSpan": "Drankorian",
+      "reason": "Established empire spelling, confirmed in the Drankor note."
+    },
+    {
+      "lineId": "u1826",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name, including possessive and turn-order contexts."
+    },
+    {
+      "lineId": "u1840",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name, including possessive and turn-order contexts."
+    },
+    {
+      "lineId": "u1834",
+      "originalSpan": "Does that something",
+      "replacementSpan": "Does that do something",
+      "reason": "Missing verb while checking whether the initiative control worked."
+    },
+    {
+      "lineId": "u1842",
+      "originalSpan": "where did you roll",
+      "replacementSpan": "what did you roll",
+      "reason": "Question about initiative result, answered with a number."
+    },
+    {
+      "lineId": "u1847",
+      "originalSpan": "where did you roll",
+      "replacementSpan": "what did you roll",
+      "reason": "Question about initiative result, answered with a number."
+    },
+    {
+      "lineId": "u1856",
+      "originalSpan": "intelligence",
+      "replacementSpan": "Intelligence",
+      "reason": "Ability-score capitalization."
+    },
+    {
+      "lineId": "u1857",
+      "originalSpan": "Oh, in investigation.",
+      "replacementSpan": "Oh, and Investigation.",
+      "reason": "Adds Investigation to the preceding Intelligence rolls; clear conjunction ASR substitution."
+    },
+    {
+      "lineId": "u1872",
+      "originalSpan": "where the mouth guys are",
+      "replacementSpan": "where are the mouth guys",
+      "reason": "Malformed question asking where the enemies are on the map."
+    },
+    {
+      "lineId": "u1913",
+      "originalSpan": "meta game",
+      "replacementSpan": "metagame",
+      "reason": "Standard spelling."
+    },
+    {
+      "lineId": "u1915",
+      "originalSpan": "reduced them to hip, uh, hit points",
+      "replacementSpan": "reduced their hip, uh, hit points",
+      "reason": "ASR pronoun/preposition drift while describing reducing enemy hit points; retains spoken self-correction."
+    },
+    {
+      "lineId": "u1951",
+      "originalSpan": "your sleep",
+      "replacementSpan": "your Sleep",
+      "reason": "Spell-name capitalization."
+    },
+    {
+      "lineId": "u1959",
+      "originalSpan": "are sort of snarled",
+      "replacementSpan": "sort of snarl",
+      "reason": "The other creatures continue snarling; malformed auxiliary and tense."
+    },
+    {
+      "lineId": "u2002",
+      "originalSpan": "charisma modifier",
+      "replacementSpan": "Charisma modifier",
+      "reason": "Ability-score capitalization."
+    },
+    {
+      "lineId": "u1172",
+      "originalSpan": "Ravenhold",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1233",
+      "originalSpan": "Ravenholdt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1241",
+      "originalSpan": "Ravenholdt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1243",
+      "originalSpan": "Ravenholdt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1247",
+      "originalSpan": "Ravenholdt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1556",
+      "originalSpan": "Ravensholt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1561",
+      "originalSpan": "Ravenshold",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1570",
+      "originalSpan": "Ravensholt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1574",
+      "originalSpan": "Ravensholt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1583",
+      "originalSpan": "Ravensholt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1616",
+      "originalSpan": "Ravensholt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1624",
+      "originalSpan": "Ravensholt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u1631",
+      "originalSpan": "Ravenholdt",
+      "replacementSpan": "Raven's Hold",
+      "reason": "Repeated spelling drift for the party’s destination, confirmed by nearby exact occurrences."
+    },
+    {
+      "lineId": "u2061",
+      "originalSpan": "Riding Pull",
+      "replacementSpan": "Guiding Bolt",
+      "reason": "Spell identified by the DM in u2066."
+    },
+    {
+      "lineId": "u2066",
+      "originalSpan": "guiding bolt",
+      "replacementSpan": "Guiding Bolt",
+      "reason": "Spell-name spelling."
+    },
+    {
+      "lineId": "u2189",
+      "originalSpan": "knocking it",
+      "replacementSpan": "nocking it",
+      "reason": "Placing the arrow on the bowstring."
+    },
+    {
+      "lineId": "u2240",
+      "originalSpan": "his own chi",
+      "replacementSpan": "his own ki",
+      "reason": "Monk resource spelling, repeated as ki nearby."
+    },
+    {
+      "lineId": "u2294",
+      "originalSpan": "fist and planar power",
+      "replacementSpan": "Fist of Planar Power",
+      "reason": "Ability name; force-based monk strike described in the surrounding turns."
+    },
+    {
+      "lineId": "u2339",
+      "originalSpan": "metal object so you can see",
+      "replacementSpan": "metal object you can see",
+      "reason": "Spell targeting wording, repeated clearly in u2357."
+    },
+    {
+      "lineId": "u2423",
+      "originalSpan": "in order on the 20",
+      "replacementSpan": "in order on Roll20",
+      "reason": "The interface used to make the attack and cast the spell."
+    },
+    {
+      "lineId": "u2494",
+      "originalSpan": "horse fist",
+      "replacementSpan": "force fist",
+      "reason": "Magical force punch used by Kenzo against this creature."
+    },
+    {
+      "lineId": "u2507",
+      "originalSpan": "the hacks",
+      "replacementSpan": "the Hex",
+      "reason": "Warlock spell moved to a new target; disadvantage on ability checks matches the preceding description."
+    },
+    {
+      "lineId": "u2663",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u2667",
+      "originalSpan": "Delweth legs",
+      "replacementSpan": "Delwath's legs",
+      "reason": "Protected PC possessive."
+    },
+    {
+      "lineId": "u2712",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u2750",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u2761",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name; retains the spoken name correction that follows."
+    },
+    {
+      "lineId": "u2764",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u2801",
+      "originalSpan": "die, mouse",
+      "replacementSpan": "die, mouth",
+      "reason": "Addressing one of the mouth creatures, not a mouse."
+    },
+    {
+      "lineId": "u3061",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name in turn order."
+    },
+    {
+      "lineId": "u3067",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name; retains the player’s self-correction in the next line."
+    },
+    {
+      "lineId": "u3088",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u3110",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u3139",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u3139",
+      "originalSpan": "15 hit points unconscious",
+      "replacementSpan": "15 hit points and conscious",
+      "reason": "Kenzo has just been healed to 15 hit points and takes his turn; and conscious is an ASR near-miss for unconscious."
+    },
+    {
+      "lineId": "u3158",
+      "originalSpan": "as a Seeker of",
+      "replacementSpan": "as a seeker of",
+      "reason": "Common noun describing Kenzo’s spiritual search, not the PC Seeker."
+    },
+    {
+      "lineId": "u3163",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC possessive."
+    },
+    {
+      "lineId": "u3184",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name in turn order."
+    },
+    {
+      "lineId": "u3203",
+      "originalSpan": "Delweth",
+      "replacementSpan": "Delwath",
+      "reason": "Protected PC name."
+    },
+    {
+      "lineId": "u3519",
+      "originalSpan": "extra planar",
+      "replacementSpan": "extraplanar",
+      "reason": "Spelling of the term for entities from outside the world."
+    },
+    {
+      "lineId": "u3572",
+      "originalSpan": "Bri",
+      "replacementSpan": "Bree",
+      "reason": "Bree Charmheart, Ander's grandmother; confirmed by the current dialogue and existing person note."
+    },
+    {
+      "lineId": "u3585",
+      "originalSpan": "moths",
+      "replacementSpan": "mouths",
+      "reason": "The many-mouthed creatures just fought."
+    },
+    {
+      "lineId": "u3611",
+      "originalSpan": "dostan",
+      "replacementSpan": "dust and",
+      "reason": "Havdar describes seeing the dust and running toward the fight."
+    },
+    {
+      "lineId": "u3660",
+      "originalSpan": "Aradin warrior dude",
+      "replacementSpan": "arrogant warrior dude",
+      "reason": "Describes Havdar's refusal to show fear; the same characterization appears earlier in the session."
+    },
+    {
+      "lineId": "u3699",
+      "originalSpan": "Kendros",
+      "replacementSpan": "Candrosa",
+      "reason": "Temple leader named repeatedly in the current session."
+    },
+    {
+      "lineId": "u3734",
+      "originalSpan": "Shrine of Jeevali's grows",
+      "replacementSpan": "Shrine of Jeevali grows",
+      "reason": "Removes a spurious possessive before the verb grows."
+    },
+    {
+      "lineId": "u3752",
+      "originalSpan": "Kendrosa",
+      "replacementSpan": "Candrosa",
+      "reason": "Temple leader named repeatedly in the current session."
+    },
+    {
+      "lineId": "u3758",
+      "originalSpan": "00:06:05. ",
+      "replacementSpan": "",
+      "reason": "Spurious timestamp inside utterance text; the original line header and timing are preserved."
+    },
+    {
+      "lineId": "u3762",
+      "originalSpan": "Mistai",
+      "replacementSpan": "mystai",
+      "reason": "Spelling of the temple initiates' title, confirmed in the Shakun Mystai note."
+    },
+    {
+      "lineId": "u3909",
+      "originalSpan": "moths",
+      "replacementSpan": "mouths",
+      "reason": "Tracks of the many-mouthed creatures, discussed with the hyena creatures."
+    },
+    {
+      "lineId": "u3914",
+      "originalSpan": "moth guys",
+      "replacementSpan": "mouth guys",
+      "reason": "Continues discussion of the mouth creatures' tracks."
+    }
+  ],
+  "protectedNames": [
+    "Kenzo",
+    "Wellby",
+    "Delwath",
+    "Seeker",
+    "Riswynn",
+    "Tim Sackton"
+  ],
+  "confirmedTerms": [
+    "Aagir",
+    "Jasu",
+    "Gomat",
+    "Kisa",
+    "Callie Charmheart",
+    "Raven's Hold",
+    "Jeevali",
+    "Suma",
+    "Sembara",
+    "Ulrich Monastery",
+    "Tharn Todor",
+    "Nardith",
+    "Brawnanvils",
+    "Eberk",
+    "Bahrâzel",
+    "Drankorian",
+    "axe beak"
+  ],
+  "notes": [
+    "Sources directory was not used as correction evidence.",
+    "The old partial cleanup is preserved in the verified pre-Scribe backup.",
+    "The title Legendary Gates of Kenzo was consulted but did not justify replacing the spoken staff wording.",
+    "User clarified cleanup threshold: preserve merely awkward or inconsequential wording; focus on consequential, clear transcription errors."
+  ],
+  "manualReviewDecisions": [
+    {
+      "lineIds": [
+        "u1014",
+        "u1016",
+        "u1239",
+        "u1526",
+        "u1957"
+      ],
+      "decision": "Preserve original wording; remove review markers.",
+      "userInstruction": "leave all these as is, none are wrong enough to correct"
+    }
+  ]
+}
