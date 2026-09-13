@@ -22,6 +22,8 @@ tail feather: Sunset Gate but need to place correctly - could be cloudspinner
 stag + wood: was fleeing (?) but details are vague; Morlaith
 black elk: needs refinement
 
+raven feather: darkfell
+
 The actual next session should provide a choice about where to go and how to leave, and then go from there. But structure the hex crawl with lots of little hooks to these various interlude ideas. 
 
 Black Horns
