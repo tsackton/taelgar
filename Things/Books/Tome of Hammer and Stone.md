@@ -18,7 +18,7 @@ POV: modern
 > A [[Dwarves|Dwarven]] religious text  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-*Tome of Hammer and Stone* is a dwarven religious text concerning the [[Heart of the Mountain]] and the Rite of Name-Taking.
+*Tome of Hammer and Stone* is a dwarven religious text concerning the [[Heart of the Mountain]] and the Rite of Name-Taking. The text presents Name-Taking as an exchange: a young dwarf receives their name, and the runic magic of the dwarves that comes with it, from the [[Bahrazel|Bahrâzel]], but this exchange binds the dwarf to a debt that must be answered, should the [[Bahrazel|Bahrâzel]] call. 
 
 %%^Metadata:names:v1%%
 - {name: Tome of Hammer and Stone, language: Common, status: inferred}
