@@ -1,4 +1,4 @@
-# Adventure Overview - Tawir Forest
+# Adventure Overview - Zadkai Returns
 
 ## How to use this note
 
@@ -26,7 +26,7 @@ Summarize the adventure in a few plain sentences. What is happening, what do the
 
 ### Working premise
 
-Airion hid an artifact or spell in an old lair in Tawir Forest that enables control of stable, large-scale elemental gates. A faction on the Plane of Air wants that capability to enable an invasion aimed at wiping out humans. The full quest is to recover Airion's hidden work and bring it to a contact of the opposing faction on the Plane of Air. See [[02 Backstory - Tawir Forest]] for the fictional background.
+Airion hid an artifact or spell in an old lair in Tawir Forest that enables control of stable, large-scale elemental gates. A faction on the Plane of Air wants that capability to enable an invasion aimed at wiping out humans. The full quest is to recover Airion's hidden work and bring it to a contact of the opposing faction on the Plane of Air. See [[02 Backstory - Zadkai Returns]] for the fictional background.
 
 ## Starting point
 
@@ -105,7 +105,7 @@ Zadkai has a base camp in the forest and sends expeditions to discover how to ga
 
 The intended opening sequence inside the lair is to encounter the sealed treasury portal, discover that it needs three keys, and then find the paths to the three guardians holding those keys. The guardians are accessible in any order via three paths, with the portal providing a fourth route. The physical layout that supports this arrangement remains to be designed.
 
-Each time a path is defeated, the remaining paths adapt. Each guardian path also contains one or more optional rooms offering aid for the other paths. The working adventure structure is recorded in [[03 Scenes - Tawir Forest.canvas]].
+Each time a path is defeated, the remaining paths adapt. Each guardian path also contains one or more optional rooms offering aid for the other paths. The working adventure structure is recorded in [[03 Scenes - Zadkai Returns.canvas]].
 
 Whichever guardian the party tackles third serves as the lair's climax. Opening the portal and recovering Airion's hidden work follows as the reward. Any further climax after the third key would involve Zadkai, rather than another challenge from the lair; whether such a confrontation occurs and what form it takes remain open.
 

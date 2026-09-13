@@ -1,4 +1,4 @@
-# Adventure Backstory - Tawir Forest
+# Adventure Backstory - Zadkai Returns
 
 ## How to use this note
 
@@ -20,7 +20,7 @@ Existing notes, facts, places, people, groups, events, or mysteries this adventu
 - [[Tawir Forest]]: the established forest; Airion's old lair there is adventure background adopted in this conversation.
 - [[Great Library Session Notes - Arc 5]]: the campaign's return from Cairn Dor and arrival outside Voltara.
 
-The working background below records the user's adventure design. It does not revise the linked reference notes. Premise decisions belong in [[01 Overview - Tawir Forest]].
+The working background below records the user's adventure design. It does not revise the linked reference notes. Premise decisions belong in [[01 Overview - Zadkai Returns]].
 
 ## Current situation
 
