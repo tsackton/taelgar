@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-excludePublish: [all]
----
 # Unlinked Assets
 
 Asset review snapshot: **2026-09-13 11:04 EDT**.
@@ -182,57 +178,6 @@ All images in this section are under `assets/`. Each filename opens the original
 >   ![[world-map-history-base.png|240]]
 >   Decision: _pending_
 
-## Generated assets
-
-These files are local files under `assets/generated/`, which is ignored by Git. Some images are mentioned by their generation records; none have a recognized note or Canvas link. Keep images and their provenance together when choosing what to retain.
-
-### riswynn-intro-v1
-
-Folder: `assets/generated/riswynn-intro-v1/`
-
-> [!gallery]
-> - [ ] [[riswynn-ikrams-courtyard-v2.png]] · 2.46 MiB
->   ![[riswynn-ikrams-courtyard-v2.png|240]]
->   Generation-record mention only.<br>
->   Decision: _pending_
-> - [ ] [[riswynn-ikrams-courtyard-v3.png]] · 2.36 MiB
->   ![[riswynn-ikrams-courtyard-v3.png|240]]
->   Generation-record mention only.<br>
->   Decision: _pending_
-> - [ ] [[riswynn-ikrams-courtyard.png]] · 2.45 MiB
->   ![[riswynn-ikrams-courtyard.png|240]]
->   Generation-record mention only.<br>
->   Decision: _pending_
-
-Generation records with no incoming references found:
-
-- [ ] [[generation-v2.json]] · 1.9 KiB — Decision: _pending_
-- [ ] [[generation-v3.json]] · 1.3 KiB — Decision: _pending_
-- [ ] [[generation.json]] · 2.0 KiB — Decision: _pending_
-
-### seeker-intro-v1
-
-Folder: `assets/generated/seeker-intro-v1/`
-
-> [!gallery]
-> - [ ] [[seeker-emerging-ikrams-v2.png]] · 2.49 MiB
->   ![[seeker-emerging-ikrams-v2.png|240]]
->   Generation-record mention only.<br>
->   Decision: _pending_
-> - [ ] [[seeker-emerging-ikrams-v3.png]] · 2.53 MiB
->   ![[seeker-emerging-ikrams-v3.png|240]]
->   No references found.<br>
->   Decision: _pending_
-> - [ ] [[seeker-emerging-ikrams.png]] · 2.62 MiB
->   ![[seeker-emerging-ikrams.png|240]]
->   Generation-record mention only.<br>
->   Decision: _pending_
-
-Generation records with no incoming references found:
-
-- [ ] [[prompt-v2.txt]] · 1.6 KiB — Decision: _pending_
-- [ ] [[prompt-v3.txt]] · 1.9 KiB — Decision: _pending_
-- [ ] [[prompt.txt]] · 1.9 KiB — Decision: _pending_
 
 ## Recordings
 
