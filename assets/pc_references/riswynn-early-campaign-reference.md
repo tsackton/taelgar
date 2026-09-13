@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 ---
 # Riswynn — early-campaign character reference
 

@@ -7,6 +7,23 @@ name: The Chronicles of the Silver Tempests
 
 Herein lies the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
 
+## Arcs
+
+```dataviewjs
+const arcs = dv.pages('"Campaigns/Great Library Campaign/Session Notes"')
+    .where(p => /^Great Library Session Notes - Arc \d+$/.test(p.file.name))
+    .sort(p => Number(p.file.name.match(/\d+$/)[0]), "asc");
+
+const formatDate = value => value ? dv.date(value).toFormat("MMM d, yyyy") : "—";
+
+dv.table(["Arc", "Chronicle", "Start (DR)", "End (DR)"], arcs.map(p => [
+    Number(p.file.name.match(/\d+$/)[0]),
+    dv.fileLink(p.file.path, false, p.file.frontmatter.name || p.file.name),
+    formatDate(p.file.frontmatter.DR),
+    formatDate(p.file.frontmatter.DR_end)
+]));
+```
+
 ## The Elemental Scrolls
 *The Silver Tempests get their start as hired hands for the Great Library.*
 
