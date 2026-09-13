@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"40034bdb7999094c","type":"group","x":-1480,"y":-730,"width":2920,"height":650,"label":"Session 64 "},
+		{"id":"hook","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S01 - Intro and Hook.md","x":-1460,"y":-600,"width":400,"height":320,"color":"#438d57"},
+		{"id":"forest","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S02 - Journey through Tawir Forest.md","x":-640,"y":-600,"width":420,"height":380,"color":"#4779b5"},
+		{"id":"alert","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/Zadkai's Alert Progression.md","x":-320,"y":200,"width":420,"height":350,"color":"#808080"},
+		{"id":"ascent","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S03 - Graybane Ascent.md","x":100,"y":-680,"width":420,"height":480,"color":"#4779b5"},
+		{"id":"portal","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S04A - Entrance to the Lair.md","x":760,"y":-580,"width":420,"height":340,"color":"#8a62b5"},
+		{"id":"level-1","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S04B - Lair Level 1.md","x":1680,"y":-465,"width":420,"height":320,"color":"#4779b5"},
+		{"id":"route-a","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S05 - Guardian Path A.md","x":2620,"y":-1520,"width":420,"height":350,"color":"#8a62b5"},
+		{"id":"route-b","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S06 - Guardian Path B.md","x":2830,"y":-480,"width":420,"height":350,"color":"#8a62b5"},
+		{"id":"route-c","type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S07 - Guardian Path C.md","x":2560,"y":480,"width":420,"height":350,"color":"#8a62b5"},
+		{"id":"89be179cc92e613a","x":570,"y":1017,"width":400,"height":400,"type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S10 - Delivery on the Plane of Air.md"},
+		{"id":"0cca4abac0e542a7","x":370,"y":360,"width":400,"height":400,"type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S08 - Through the Treasury Portal.md"},
+		{"id":"6d71a458a2946c20","x":1090,"y":320,"width":400,"height":400,"type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S09 - Raid Zadkai's Camp.md"},
+		{"id":"71645cf379bced69","x":1320,"y":1017,"width":400,"height":400,"type":"file","file":"_dm_notes/_Great Library/Arc 6 - Zadkai Returns/Scenes/S11 - Pursuit to the Plane of Air.md"}
+	],
+	"edges":[
+		{"id":"e-hook-forest","fromNode":"hook","fromSide":"right","toNode":"forest","toSide":"left","label":"Silverstorm to Tawir"},
+		{"id":"e-forest-ascent","fromNode":"forest","fromSide":"right","toNode":"ascent","toSide":"left","label":"Reach the mountain"},
+		{"id":"e-ascent-portal","fromNode":"ascent","fromSide":"right","toNode":"portal","toSide":"left","label":"Enter the lair"},
+		{"id":"e-portal-level1","fromNode":"portal","fromSide":"right","toNode":"level-1","toSide":"left","label":"Descend to Level 1"},
+		{"id":"e-level1-a","fromNode":"level-1","fromSide":"right","toNode":"route-a","toSide":"left"},
+		{"id":"e-level1-b","fromNode":"level-1","fromSide":"right","toNode":"route-b","toSide":"left"},
+		{"id":"e-level1-c","fromNode":"level-1","fromSide":"right","toNode":"route-c","toSide":"left"}
+	]
+}
