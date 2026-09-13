@@ -1,4 +1,5 @@
-Session 64
+### Session 64
+9/12/2026
 
 Arrive at Dinia's after ~6 hours travel, in the evening of the same day (assume Wind Walk or something) - know where they are going from talking to Brelith via Sending (evening of June 29, 1752)
 Talk to Dinia
@@ -24,5 +25,4 @@ rush through lightning, take a few hits
 adrik uses tremorsense to guide through the rock slide area, and then takes the last hit directly to avoid it hitting the weaker people below
 end session as they reach the lair
 
----
-
+### Session 65

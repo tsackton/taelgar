@@ -1,24 +1,30 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
+tags: [person]
 species: dwarf
-name: Adrik Boulderbeard
 gender: male
 born: 1660
+name: Adrik Boulderbeard
+pronunciation: "AH-drik"
 affiliations:
-- {type: primary, org: Boulderbeards}
-- {org: Silver Tempests}
-- {org: Stoneworker Thuhr}
-whereabouts: 
-- {type: home, location: Nardith}
-- {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
-- {type: home, start: 1747-10-06, location: Tempest Towers}
+  - {type: primary, org: Boulderbeards}
+  - {org: Silver Tempests}
+  - {org: Stoneworker Thuhr}
+whereabouts:
+  - {type: home, location: Nardith}
+  - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
+  - {type: home, start: 1747-10-06, location: Tempest Towers}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1740s
 ---
 # Adrik Boulderbeard
+*(AH-drik)*
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Boulderbeards]]  
+> A [[Dwarves|dwarf]] (he/him), of the [[Boulderbeards|Boulderbeard Clan]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -38,3 +44,11 @@ Adrik, convinced this was the act of [[Morgana Stoneclaw]], seeking revenge for 
 - (DR:: 1675): Adrik reveals [[Morgana Stoneclaw]]'s true form and she is driven off by his parents and the village
 - (DR:: 1746): Pestilence destroys [[Narazara]]
 - (DR:: 1746-11-17): Adrik leaves home to seek his fortune and revenge
+
+%%^Metadata:names:v1%%
+- {name: Adrik Boulderbeard, language: Dwarven, pronunciation: "AH-drik BOHL-der-beerd", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a 1740s adventuring-life frame with childhood and adult backstory through departure in DR 1746; the dated home metadata reaches DR 1747, while the biography does not yet cover the later resolution of his revenge or his subsequent adventures.
+%%^End%%

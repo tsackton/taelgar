@@ -1,20 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/gl]
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
+tags: [person]
 species: lizardfolk
-name: Samso
 gender: male
 born: 1716
+name: Samso
+pronunciation: "SAHM-soh"
 affiliations:
-- {org: Silver Tempests}
-whereabouts: 
-- {type: home, location: Urkabi}
-- {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
-- {type: home, start: 1747-10-06, location: Tempest Towers}
+  - {org: Silver Tempests}
+whereabouts:
+  - {type: home, location: Urkabi}
+  - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
+  - {type: home, start: 1747-10-06, location: Tempest Towers}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1747
 ---
 # Samso
+*(SAHM-soh)*
 >[!info]+ Biographical Info  
 > A [[Lizardfolk|lizardfolk]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -35,3 +41,11 @@ After many years with no sign of his family, and nothing but silence from the sp
 - (DR:: 1746-12-17): Samso leaves home to seek information
 - (DR:: 1747-01-01): Samso reaches [[Yeraad Marshes]]
 - (DR:: 1747-01-19): Samso leaves [[Yeraad Marshes]] for [[Chardon]], having failed to find answers among his lizardfolk kin
+
+%%^Metadata:names:v1%%
+- {name: Samso, language: Lizardling, pronunciation: "SAHM-soh", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early DR 1747 introduction ending with Samso's search for answers through the Great Library, with earlier backstory; the dated home metadata extends later in 1747, while the resolution of his family quest and his years in Cairn Dor are not yet covered in the article.
+%%^End%%
