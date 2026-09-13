@@ -27,3 +27,23 @@ dm_notes: color
 She has also taken on the role of [[Arheste]]'s caretaker, and often visits her, soothing her injuries as best she can. 
 
 She is friendly and helpful, and especially loves to talk with anyone who shares her fascination with the magic of growing things. 
+
+%% DM Notes from Dunmar
+
+Arheste's caretaker, a gardener, expert in tending to plants and especially the magical ones that grow all kinds of things. Of the 37th ka 
+
+Source of conflict: does not want to bother Arheste with strangers, especially as she is always sicker when the sun grows weaker, despite all they do to keep the nights short for her. 
+
+Motivation: learn all she can about plants
+
+Disposition - probably starts out relatively indifferent, perhaps friendly?
+
+Mood, wing it.
+
+Patience - on the high side
+
+She is kindly and patient, of the 37th ka, spending her first leya trying to truly understand the minds of her plants. Fascinated and enthralled with plants. 
+
+(as an aside, she does know several others of her ka equally interested in gardening and plants, some of whom might be interested in traveling with the party, although will need a few weeks to prepare to leave; probably if they want an elven gardener should be a little be awkward, a little bit nerdy, clearly more comfortable with plants than humans; a contrast to Faldrak, who is bombastic and overconfident)
+
+%%
