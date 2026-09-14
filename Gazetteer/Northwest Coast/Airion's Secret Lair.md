@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: building
 typeOfAlias: hidden lair
 name: "Airion's Secret Lair"

@@ -3,27 +3,29 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, by )author:x>", startStatus: Completed in}
-tags: [object, status/check/lint]
+tags: [object]
 typeOf: book
 typeOfAlias: historical chronicle
 ancestry: Chardonian
 created: 1209
 author: Cavarrio
 name: "Cavarrio's Chronicles of Drankor"
+pronunciation: kah-VAHR-ree-oh
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
 POV: modern
 ---
 # Cavarrio's Chronicles of Drankor
+*(kah-VAHR-ree-oh)*
 >[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] historical chronicle, by [[Cavarrio]]  
+> A [[Chardonian Empire|Chardonian]] historical chronicle, by [[Cavarrio|Cavarrio of Chardon]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [[Faculty of History]], and is a standard part of their curriculum. It was written by the Chardonian scholar [[Cavarrio]] in DR 1209.
 
-The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost.
+The work is most famous for a long section, the *Annals of the Emperors*, which is considered a comprehensive list of the Emperors of Drankor and is reproduced below. Some scholars question whether it is entirely and completely accurate, as many of the sources used here have since been lost. %%this is not intended to be completely accurate. see [[History of the Drankorian Empire]] for more%%
 
 There is also a long discussion of the arc of Drankorian history, which Cavarrio divides into five distinct eras:
 
@@ -76,30 +78,9 @@ There is also a long discussion of the arc of Drankorian history, which Cavarrio
 <!-- TBLFM: $8=($5+4133) -->
 
 %%^Metadata:names:v1%%
-- {name: "Cavarrio's Chronicles of Drankor", language: unknown, pronunciation: kah-VAHR-ree-ohz KRON-ih-kulz of DRAN-kor, notes: "Proposed from Chardonian Italian-or-Latin guidance for Cavarrio, Drankorian Classical-Latin guidance for Drankor, and ordinary English for the remaining words.", status: proposed}
+- {name: "Cavarrio's Chronicles of Drankor", language: Chardonian, pronunciation: kah-VAHR-ree-ohz KRON-ih-kulz of DRAN-kor,  status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference prose; the work's completion in DR 1209 and the historical periods it describes are stated separately.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added required `knownTo`, persistent title-name metadata, and temporal POV metadata.
-- Normalized frontmatter ordering and corrected `echo fo` to `echo of` and `daugher` to `daughter`.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Editorial assessment
-**Underdeveloped**. The central Annals of Emperors section is incomplete and internally inconsistent: it omits rulers and many reign boundaries preserved in [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Vision of Ulfgar's research|Vision of Ulfgar's research]], and its era label and several identity or cause entries do not agree across the note and source. The smallest useful development scope is to reconcile and complete that table against the later campaign record without discarding target-only supported details.
-
-### Open findings
-
-- [ ] **Warning — coverage.established_fact_missing:** [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Vision of Ulfgar's research|Vision of Ulfgar's research]] preserves a materially fuller annal than the table here: it includes Rystil (DR 647–654) and Letusas the Quiet (DR 934–936), supplies many blank reign boundaries and ancestries, and adds several ruler notes. Candidate: add those two rulers, fill the source-recorded missing boundaries and classifications, and assign Rystil's period only after reconciling the era boundary.
-- [ ] **Warning — correctness.cross_note_conflict:** The target lists Liasa and Estragon with unknown ancestry and says mysterious forces murdered Helea, while [[Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Vision of Ulfgar's research|Vision of Ulfgar's research]] records Liasa as Hkar, Estragon as Peronar, Helea as killed by the [[Omnis Pura]], and Vestian as associated with that group. Candidate: if the campaign record is adopted, update those cells; otherwise retain the current cells and add a precise source-conflict comment for human review.
-- [ ] **Warning — correctness.internal_conflict:** The prose calls the third era the “Western Wars,” while the Annals table calls it “Western Expansion.” Candidate: confirm the intended era name and use it consistently in both places.
-- [ ] **Warning — metadata.names_unresolved_status:** No recorded pronunciation was found for the full title. The staged name metadata therefore preserves the analogue-informed proposal `kah-VAHR-ree-ohz KRON-ih-kulz of DRAN-kor`, derived from Chardonian Italian-or-Latin guidance for Cavarrio, Drankorian Classical-Latin guidance for Drankor, and ordinary English for the remaining words. Accept, revise, or mark the proposal unresolved after human review.
 %%^End%%
