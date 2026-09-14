@@ -16,6 +16,13 @@ Reference: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/).
 
 We'll pick up at Caradoc's. The premise is obvious, though the players don't know exactly how much time they have before the Singing Tree reawakens, and are unaware of other challenges that will make this difficult. 
 
+## Adventure structure
+
+- **Part 1: Exploration and finding the guide.** Prepare Caradoc's briefing, Into the Feywild, six individual exploration-location scenes, and Finding the Guide, which includes the guide's details.
+- **Navigation Failure Consequences** is a separate floating scene that can link from any exploration location.
+- **Fey Lord Summoning** is a separate supporting note.
+- **Part 2: The journey to the Singing Tree.** The guide leads the party toward the tree while they face increasing challenges.
+
 ## Adventure goal
 
 References: [Designing on Purpose](https://theangrygm.com/designing-on-purpose/); [Challenge Or Goal?](https://theangrygm.com/challenge-or-goal/).
@@ -66,4 +73,4 @@ This adventure should not have a harsh binary failure state. Its main outcomes f
 - The exact dated consequences for Haldrenn after the portal opens.
 - The specific hazards added to the final approach after the tree awakens.
 - Whether Umbraeth's hunters provide the final confrontation.
-- The adventure's structure and intended number of sessions.
+- The intended number of sessions.
