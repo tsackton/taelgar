@@ -1,11 +1,39 @@
 {
 	"nodes":[
 		{"id":"29c5a58367fc22dc","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene 1 - Caradoc.md","x":-200,"y":-1080,"width":400,"height":280},
-		{"id":"b01d9242e9aec05e","x":670,"y":-720,"width":400,"height":400,"type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart - Singing Tree Restored.md"},
-		{"id":"ef5086228619ff4c","x":-125,"y":-640,"width":400,"height":400,"type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart - Morlaith's Domain.md"}
+		{"id":"b01d9242e9aec05e","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart - Singing Tree Restored.md","x":670,"y":-720,"width":400,"height":400},
+		{"id":"ef5086228619ff4c","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart - Morlaith's Domain.md","x":-125,"y":-640,"width":400,"height":400},
+		{"id":"feyexplore0000001","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Scene 1.md","x":-1475,"y":0,"width":400,"height":240,"color":"3"},
+		{"id":"feyexplore0000002","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Scene 2.md","x":-935,"y":0,"width":400,"height":240,"color":"3"},
+		{"id":"feyexplore0000003","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Scene 3.md","x":-395,"y":0,"width":400,"height":240,"color":"3"},
+		{"id":"feyexplore0000004","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Scene 4.md","x":145,"y":0,"width":400,"height":240,"color":"3"},
+		{"id":"feyexplore0000005","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Scene 5.md","x":685,"y":0,"width":400,"height":240,"color":"3"},
+		{"id":"feyexplore0000006","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Scene 6.md","x":1225,"y":0,"width":400,"height":240,"color":"3"},
+		{"id":"feyguide00000001","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Finding the Guide.md","x":450,"y":1150,"width":400,"height":240,"color":"5"},
+		{"id":"feyfailure000001","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Failure - Umbraeth's Hunters.md","x":-1550,"y":860,"width":550,"height":240,"color":"1"},
+		{"id":"feysuccess000001","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Exploration Success - Guide Clue.md","x":1070,"y":620,"width":550,"height":240,"color":"4"}
 	],
 	"edges":[
 		{"id":"c770ba4f742dadc6","fromNode":"29c5a58367fc22dc","fromSide":"bottom","toNode":"ef5086228619ff4c","toSide":"top"},
-		{"id":"6715f8a1091d181c","fromNode":"29c5a58367fc22dc","fromSide":"right","toNode":"b01d9242e9aec05e","toSide":"top"}
+		{"id":"6715f8a1091d181c","fromNode":"29c5a58367fc22dc","fromSide":"right","toNode":"b01d9242e9aec05e","toSide":"top"},
+		{"id":"feybranch0000001","fromNode":"ef5086228619ff4c","fromSide":"bottom","toNode":"feyexplore0000001","toSide":"top"},
+		{"id":"feytofailure0001","fromNode":"feyexplore0000001","fromSide":"bottom","toNode":"feyfailure000001","toSide":"top","color":"1","label":"Failure"},
+		{"id":"feytosuccess0001","fromNode":"feyexplore0000001","fromSide":"bottom","toNode":"feysuccess000001","toSide":"top","color":"4","label":"Success"},
+		{"id":"feybranch0000002","fromNode":"ef5086228619ff4c","fromSide":"bottom","toNode":"feyexplore0000002","toSide":"top"},
+		{"id":"feytofailure0002","fromNode":"feyexplore0000002","fromSide":"bottom","toNode":"feyfailure000001","toSide":"top","color":"1","label":"Failure"},
+		{"id":"feytosuccess0002","fromNode":"feyexplore0000002","fromSide":"bottom","toNode":"feysuccess000001","toSide":"top","color":"4","label":"Success"},
+		{"id":"feybranch0000003","fromNode":"ef5086228619ff4c","fromSide":"bottom","toNode":"feyexplore0000003","toSide":"top"},
+		{"id":"feytofailure0003","fromNode":"feyexplore0000003","fromSide":"bottom","toNode":"feyfailure000001","toSide":"top","color":"1","label":"Failure"},
+		{"id":"feytosuccess0003","fromNode":"feyexplore0000003","fromSide":"bottom","toNode":"feysuccess000001","toSide":"top","color":"4","label":"Success"},
+		{"id":"feybranch0000004","fromNode":"ef5086228619ff4c","fromSide":"bottom","toNode":"feyexplore0000004","toSide":"top"},
+		{"id":"feytofailure0004","fromNode":"feyexplore0000004","fromSide":"bottom","toNode":"feyfailure000001","toSide":"top","color":"1","label":"Failure"},
+		{"id":"feytosuccess0004","fromNode":"feyexplore0000004","fromSide":"bottom","toNode":"feysuccess000001","toSide":"top","color":"4","label":"Success"},
+		{"id":"feybranch0000005","fromNode":"ef5086228619ff4c","fromSide":"bottom","toNode":"feyexplore0000005","toSide":"top"},
+		{"id":"feytofailure0005","fromNode":"feyexplore0000005","fromSide":"bottom","toNode":"feyfailure000001","toSide":"top","color":"1","label":"Failure"},
+		{"id":"feytosuccess0005","fromNode":"feyexplore0000005","fromSide":"bottom","toNode":"feysuccess000001","toSide":"top","color":"4","label":"Success"},
+		{"id":"feybranch0000006","fromNode":"ef5086228619ff4c","fromSide":"bottom","toNode":"feyexplore0000006","toSide":"top"},
+		{"id":"feytofailure0006","fromNode":"feyexplore0000006","fromSide":"bottom","toNode":"feyfailure000001","toSide":"top","color":"1","label":"Failure"},
+		{"id":"feytosuccess0006","fromNode":"feyexplore0000006","fromSide":"bottom","toNode":"feysuccess000001","toSide":"top","color":"4","label":"Success"},
+		{"id":"feycluetoguide01","fromNode":"feysuccess000001","fromSide":"bottom","toNode":"feyguide00000001","toSide":"top","label":"Follows the guide clue"}
 	]
 }

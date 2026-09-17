@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Exploration Scene 1
 
 ## Outcomes

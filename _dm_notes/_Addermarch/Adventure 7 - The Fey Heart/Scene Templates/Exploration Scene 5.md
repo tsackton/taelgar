@@ -1,4 +1,4 @@
-# Exploration Scene 2
+# Exploration Scene 5
 
 ## Outcomes
 
