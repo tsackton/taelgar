@@ -35,7 +35,7 @@ Yeshara outlawed lullabies and rites associated with sleep, imposed prolonged vi
 
 Now, Yeshara rules over the domain of Cairn Dor, where she enforces her vigil against sleep. Her guardians, the [[Shemra Azem]], are magically connected to dreamers, kidnapped mortals from the [[Material Plane]]; through this connection, they never sleep, and can survive seemingly fatal wounds. 
 
-Her subjects, the remnants of the [[Yo'nari]], now called the Nurm-Dor, live in fear of sleep. 
+Her subjects, the remnants of the [[Yo'nari]], now called the Nurim-Dor, live in fear of sleep. 
 
 Yeshara cannot be killed while Cairn Dor exists, but she can be subdued. If her magic fails, she falls into a slumber that lasts for tens or hundreds of years and puts her domain into stasis while it lasts. 
 

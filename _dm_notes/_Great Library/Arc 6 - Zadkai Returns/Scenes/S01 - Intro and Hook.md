@@ -41,7 +41,7 @@ At some point, [[Silverstorm]] shows up, aka Silver Feathers of the Storm Cloud,
 
 Greats [[Silver Tempests]] joyfully, though initially confused about Blue and Mabist, addresing Brelith instead and asking after Aelar and Aglath. Happy to see them alive, and thriving. 
 
-Gets serious: as I once helped you, now I must ask for your help. Terrible rumors have reached me. You are familiar with the wizard [[Airion|Airion the Mistspeaker]], now dead? You may recall the warlock Zadkai, who serves Azravan, Prince of the Unconquered Air, Duke of the Scouring Wind. The Scouring Wind believe that humanity must die for the sins of the wizards who enslaved genies, and now are seeking the hidden knowledge of Airion. Airion left something in a secret lair, and Zadkai wants it, for some bad purpose. 
+Gets serious: as I once helped you, now I must ask for your help. Terrible rumors have reached me. You are familiar with the wizard [[Airion|Airion the Mistspeaker]], now dead? You may recall the warlock Zadkai, who serves [[Azravan]], Prince of the Unconquered Air, Duke of the Scouring Wind. The Scouring Wind believe that humanity must die for the sins of the wizards who enslaved genies, and now are seeking the hidden knowledge of Airion. Airion left something in a secret lair, and Zadkai wants it, for some bad purpose. 
 
 I know that humanity is not perfect, and I have my own quibbles with your kind, but most of us do not believe that humanity is irredeemably evil. We do not know what Zadkai seeks, but fear it cannot be for the benefit of us, or humanity, and many will die if he recovers it and learns to use it, whatever it is. 
 
@@ -49,7 +49,7 @@ Hence, I come to you, my friends. Search Airion's old lair in Tawir Forest, on a
 
 Find what Zadkai is seeking and bring it to Orumei. We must learn what Azravan is preparing.
 
-Orumei, Duke of the Returning Wind, based in [[Sulmana]]. 
+[[Orumei]], Duke of the Returning Wind, based in [[Sulmana]]. 
 
 
 Unknown to Silverstorm:

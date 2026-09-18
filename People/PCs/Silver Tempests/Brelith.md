@@ -1,24 +1,30 @@
 ---
 headerVersion: 2023.11.25
-tags: [person,  status/gameupdate/gl]
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
+tags: [person]
 species: dwarf
-name: Brelith Shockstone
 gender: male
 born: 1707
+name: Brelith Shockstone
+pronunciation: BREH-lith
 affiliations:
-- {type: primary, org: Shockstones}
-- {org: Silver Tempests}
-- {org: Priest Thuhr}
-whereabouts: 
-- {type: home, location: Zarkandur}
-- {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
-- {type: home, start: 1747-10-06, location: Tempest Towers}
+  - {type: primary, org: Shockstones}
+  - {org: Silver Tempests}
+  - {org: Priest Thuhr}
+whereabouts:
+  - {type: home, location: Zarkandur}
+  - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
+  - {type: home, start: 1747-10-06, location: Tempest Towers}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1740s
 ---
 # Brelith Shockstone
+*(BREH-lith)*
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Shockstones]]  
+> A [[Dwarves|dwarf]] (he/him), of the [[Shockstones|Shockstone Clan]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -37,3 +43,11 @@ Spurred by this encounter to seek greater glories, the old priest told Brelith t
 - (DR:: 1745-07-11): Brelith meets [[Cato Stormtouched]] on the road in the [[Chasa River Valley]], and begins traveling with him. 
 - (DR:: 1746-12-09): Brelith saves [[Cato Stormtouched]] from a bandit ambush in the [[Myraeni Gap]]. 
 - (DR:: 1746-12-14): Brelith parts ways with [[Cato Stormtouched]] and turns towards [[Chardon]] to join the [[Great Library]]
+
+%%^Metadata:names:v1%%
+- {name: Brelith Shockstone, language: Dwarvish, pronunciation: BREH-lith SHOK-stohn, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a 1740s early-adventuring frame, with childhood backstory and a personal chronology through departure for Chardon in DR 1746; dated home metadata extends to DR 1747, while the later retirement and refuge are not yet described in the article.
+%%^End%%

@@ -21,6 +21,7 @@ Apply the adopted specification's **Applicability** and **Modes and authorizatio
 - Reject every target with a `Worldbuilding`, dot-prefixed, or underscore-prefixed directory segment; those paths remain searchable evidence.
 - Use the validator's objective authored-body screen, then have the editorial worker semantically confirm each surviving candidate under the specification. Uncertainty after the mechanical screen favors inclusion; collections omit confirmed ineligible notes and samples replace them.
 - Check-only writes nothing and does not advance `lintedAt`.
+- Write lint includes objective light editorial fixes by default unless the user opts out, for example with "no prose edits" or "metadata only". Apply the specification's **Modes and authorization** limits and pass this preference explicitly to batch workers; eligible corrections do not require separate approval.
 - A lint request authorizes only lint-owned changes. Preserve unrelated work and keep local `_DM_` and `SECRET` contents out of Git-tracked output.
 - Unless the user explicitly requests a re-lint, exclude every note with a valid `lintedAt`/`lintVersion` pair. Staleness, open findings, or newer evidence do not broaden that authorization.
 

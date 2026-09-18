@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-name: Cairn Dor
+tags: [place]
 typeOf: extraplanar domain
+name: Cairn Dor
 whereabouts: Shadowfolds
 dm_owner: tim
 dm_notes: none
+POV: 1752
 ---
 # Cairn Dor
 >[!info]+ Information  
@@ -19,13 +22,13 @@ Cairn Dor is an extraplanar domain within the [[Shadowfolds]], created when the 
 
 Cairn Dor is a realm of old forests, rocky hills, steep cliffs, and persistent banks of fog. Trilith stones marked with wolf motifs stand along some of its roads and boundaries; passing through them can lead abruptly from dense fog into clear daylight. Most of the native population live in [[Eshlem]], an agricultural village surrounded by scattered homesteads and smaller settlements. [[Sarren Kir]], the hill fort and palace of Yeshara, stood above Eshlem and the [[Wolf Queen's Stillings]], where captives were imprisoned in enchanted sleep.
 
-The people of Cairn Dor, known as the Nurim-Dor, the people of eternal waking, rarely sleep and do not dream, in fulfillment of [[Yeshara]]'s long quest. ndeed, the people of Cairn Dor fear sleep, seeing it as spiritual contamination and a time of risk and danger. Bonfires, vigils, celebrations, and other nightly rituals help resist sleep. The [[Shemra Azem]], or Guardians of the Vigil, serve as the guardians and defenders of the realm, and rise as Yeshara's sleepless army when powered by captives held in enchanted sleep in the [[Wolf Queen's Stillings]].
+The people of Cairn Dor, known as the Nurim-Dor, the people of eternal waking, rarely sleep and do not dream, in fulfillment of [[Yeshara]]'s long quest. Indeed, the people of Cairn Dor fear sleep, seeing it as spiritual contamination and a time of risk and danger. Bonfires, vigils, celebrations, and other nightly rituals help resist sleep. The [[Shemra Azem]], or Guardians of the Vigil, serve as the guardians and defenders of the realm, and rise as Yeshara's sleepless army when powered by captives held in enchanted sleep in the [[Wolf Queen's Stillings]].
 
 ## Incursions and War
 
-[[Yeshara]] and the [[Shemra Azem]] have been involved in an long, repeating cycle of wars against sleep. Over the course of centuries, as captives are stolen from the [[Material Plane]], more and more [[Shemra Azem]] awake, until they burst forth from [[Cairn Dor]]. This cycle explains the recurring conflicts attributed variously to Yeshara, the Shemra Azem, and the [[Umbral Covenant]] over the course of many centuries.
+[[Yeshara]] and the [[Shemra Azem]] have been involved in a long, repeating cycle of wars against sleep. Over the course of centuries, as captives are stolen from the [[Material Plane]], more and more [[Shemra Azem]] awake, until they burst forth from [[Cairn Dor]]. This cycle explains the recurring conflicts attributed variously to Yeshara, the Shemra Azem, and the [[Umbral Covenant]] over the course of many centuries.
 
-The best-documented outbreaks are the [[Apporian Shadow War]] of DR 657–661, the [[War of the Severed Dreams]] of DR 1191–1196, and the [[War of the Dark Rift]] of DR 1584–1597. Although official histories often treat these wars as unconnected, the survival of Dark Rift dreamers in Cairn Dor, as reported by the [[Silver Tempests]] in DR 1748, and the continued presence of Yeshara and the Shemra Azem link these wars to successive outbreaks of the same threat.
+The best-documented outbreaks are the [[Apporian Shadow War]] of DR 657–661, the [[War of the Severed Dreams]] of DR 1191–1196, and the [[War of the Dark Rift]] of DR 1584–1597. Although official histories often treat these wars as unconnected, the remains of Dark Rift dreamers in Cairn Dor, as reported by the [[Silver Tempests]] in DR 1748, and the continued presence of Yeshara and the Shemra Azem link these wars to successive outbreaks of the same threat.
 
 The [[Lizardfolk Village Disappearances]] of the DR 1730s and 1740s marked the beginning of another cycle. Entire communities were taken into Cairn Dor and held in the Stillings, while sleeping sickness and further disappearances spread through the [[Kedron]] valley. 
 
@@ -38,3 +41,11 @@ The [[Lizardfolk Village Disappearances]] of the DR 1730s and 1740s marked the b
 In DR 1748, the [[Silver Tempests]] fought through the [[Lastgate Fort|old Drankorian fort]] guarding the [[Cleaver-Stone]], locked the portal, and disabled the soul compass, ending the raids that had caused the [[Lizardfolk Village Disappearances]], but leaving the existing captives imprisoned. The company later entered Cairn Dor directly and discovered that magical daylight woke the dreamers and caused the Shemra Azem sustained by them to fall. After the captives awoke, the Silver Tempests defeated Yeshara.
 
 Yeshara's fall put the realm into stasis. Most of the Silver Tempests and the freed dreamers slept from DR 1748 until DR 1752, while the native inhabitants also fell asleep. When Cairn Dor emerged from stasis, the rescued captives and the adventurers awoke, but Yeshara and the Nurim-Dor remained asleep. Their later fate, and the long-term condition of the domain, are unknown.
+
+%%^Metadata:names:v1%%
+- {name: Cairn Dor, language: unknown, pronunciation: KAIRN DOR, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the undated culture and active guardians describe Cairn Dor before Yeshara's defeat in DR 1748, followed by a dated account of stasis and awakening in DR 1752; the natives' later fate remains unknown.
+%%^End%%

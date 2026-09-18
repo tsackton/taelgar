@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
-subspecies: plane-touched, fiendish
+subspecies: "plane-touched, fiendish"
 ancestry: Isinguer
-name: Blue
 gender: female
 born: 1622
+name: Blue
 affiliations:
-- {org: Silver Tempests}
-whereabouts: 
-- {type: home, end: 1644, location: Maseau}
-- {type: away, start: 1644, end: 1746, location: Plaguelands}
-- {type: away, start: 1746, end: 9999, location: Chardonian Empire}
+  - {org: Silver Tempests}
+whereabouts:
+  - {type: home, end: 1644, location: Maseau}
+  - {type: away, start: 1644, end: 1746, location: Plaguelands}
+  - {type: away, start: 1746, end: 9999, location: Chardonian Empire}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1748
 ---
 # Blue
 >[!info]+ Biographical Info  
@@ -56,3 +60,11 @@ dm_notes: none
 ### Chronology of Blue's Life
 - (DR:: 1748-07-03): Blue heads north towards [[Lake Valandros]] and the frontier
 - (DR::1748-08-30): Blue finds a dead messenger on the road north of [[Lake Valandros]], with a letter about the [[Umbral Covenant]] addressed to the [[Silver Tempests]] in [[Voltara]], and decides to deliver the message herself
+
+%%^Metadata:names:v1%%
+- {name: Blue, language: unknown, notes: The name she calls herself; no earlier name is established.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 backstory portrait shortly before Blue joins the Silver Tempests, with selected earlier memories and captivity history; subsequent adventures and the later passage to DR 1752 are not incorporated.
+%%^End%%

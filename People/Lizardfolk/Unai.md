@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/lint]
+tags: [person, status/check/mike]
 species: lizardfolk
 ancestry: null
 gender: female
@@ -20,6 +20,8 @@ POV: 1720
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% check mike - confirm pronunciation %%
+
 ![[lizardfolk-unai.png|right|320]]An herbalist and healer, teacher of [[Gentza]]. She is well-known in the region, but unlike her student, does not usually sell her remedies or bring them to human markets. 
 
 %%^Metadata:names:v1%%
@@ -28,18 +30,4 @@ POV: 1720
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1720 portrait of Unai as Ganboa's herbalist, healer, and teacher; earlier and later life are not described.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- The DR 1720 viewpoint and its persistent temporal interpretation remain supported.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `Unai — oo-NYE` from the Lizardling Basque analogue. Review the proposal; if accepted, copy `oo-NYE` to frontmatter and change the entry to `status: documented`, or revise the entry while preserving its derivation.
 %%^End%%

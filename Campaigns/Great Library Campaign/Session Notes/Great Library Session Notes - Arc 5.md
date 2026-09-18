@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
 tags: [session-note]
 campaign: Great Library
-DR: 1748-08-22
+DR: 1748-08-26
 DR_end: 1752-06-29
-name: Chronicles of the Quest for Answers to Extraplanar Mysteries  
+name: Chronicles of the Quest for Answers to Extraplanar Mysteries
+POV: 1752
 ---
 # Chronicles of the Quest for Answers to Extraplanar Mysteries  
 

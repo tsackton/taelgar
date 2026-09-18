@@ -13,6 +13,8 @@ POV: modern
 ---
 # Ilanar
 *(ee-lah-NAHR)*
+>[!info]+ Biographical Info  
+> An unknown
 
 A name spoken by a ghost from [[Cairn Dor]]. 
 

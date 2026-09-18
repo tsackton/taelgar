@@ -8,7 +8,7 @@ _DM_/
 
 # Add ignore unshared assets
 assets/unshared/
-/assets/generated/
+assets/generated/
 
 # Ignore base md files
 /*.md

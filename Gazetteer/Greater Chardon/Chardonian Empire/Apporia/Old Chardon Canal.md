@@ -2,13 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: canal
 name: Old Chardon Canal
 whereabouts: Portalia
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # The Old Chardon Canal
@@ -56,30 +56,14 @@ Thus, it is possible to make the transit in one day, by departing [[Fort Ameli]]
 
 %%^Metadata:map:v1%%
 locations:
-  - {role: source, feature: Emerald Bay, map: world, locator: }
-  - {role: outlet, feature: Gulf of Chardon, map: world, locator: }
+  - {role: source, feature: Emerald Bay, map: world, locator: 14.06.H08}
+  - {role: outlet, feature: Gulf of Chardon, map: world, locator: 14.06.G12}
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Old Chardon Canal", role: "primary", language: "Chardonian", pronunciation: "old KAR-dohn kuh-NAL", notes: "Latinate Chardonian reading: hard ch in Chardon; English descriptive components retained.", status: "proposed"}
+- {name: "Old Chardon Canal", role: "primary", language: "Chardonian", pronunciation: CHAR-din, status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern account of the canal's route, traffic rules, and windcaller operation; Drankorian construction and intervening control belong to older historical layers.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- None.
-
-### Validated judgments
-- Newer-source candidates were reviewed; they add a temporary DR 1749 wartime obstruction and clearing but do not establish a durable change to the canal's route or ordinary operation.
-- The SECRET block was reviewed for chat-only recovery; no private contents are reproduced here.
-
-### Open findings
-
-- [ ] **Warning — metadata.map_location_missing:** The waterway map record still has blank `source.locator` and `outlet.locator` values. Fill them only from an authoritative map; do not infer either coordinate from a nearby settlement.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry for `Old Chardon Canal — old KAR-dohn kuh-NAL` remains `status: proposed`. Review the recorded language, pronunciation, and derivation; then accept it in frontmatter where appropriate or correct the persistent entry.
 %%^End%%
