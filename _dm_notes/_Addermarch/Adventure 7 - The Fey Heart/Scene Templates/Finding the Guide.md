@@ -1,12 +1,12 @@
 # Finding the Guide
 
-## Guide concept
+Guide is **Gwydren** **GWID-ren**
 
-i'm not yet settled on exactly what kind of fey the the guide is, but that i can settle later. they are someone who has lived for a long time in the forest. connected to morlaith's vibe. skeptical of humans, a little bit. but, feels responsibility, and unlike morlaith is potentially somewhat anti-gloomshaper. possibly like an owlin or something, but don't need to settle on the form. this is clear enough to design around.
+A lean, stag-headed fey. Lichen grows around the antler bases; his dark green cloak is patched with leaves and moss. Has the manner of an exhausted woodland keeper. Knows individual trees by names nobody else remembers, and regards the hunters as trespassers he has tolerated for too long. He has lived for a long time in the forest. Connected to morlaith's vibe. skeptical of humans, a little bit. but, feels responsibility, and unlike morlaith is potentially somewhat anti-gloomshaper. 
 
-## Finding the guide
+## Where
 
-yes, guide is reachable only after the river. the ideal is that the party needs 2-3 pieces of information from the guide note to find the guide, though more information makes the guide encounter easier.
+Guide is reachable only after the river. the ideal is that the party needs 2-3 pieces of information from the guide note to find the guide, though more information makes the guide encounter easier.
 
 post-river, there needs to be opportunities to still get more information if needed, but also an opportunity to actually just find the guide.
 
