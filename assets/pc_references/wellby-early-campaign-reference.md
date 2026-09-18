@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 ---
 # Wellby — early-campaign character reference
 

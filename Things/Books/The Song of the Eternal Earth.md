@@ -18,7 +18,7 @@ POV: modern
 > A [[Dwarves|Dwarven]] saga  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-*The Song of the Eternal Earth* is a revered dwarven saga describing the [[Elemental Plane of Earth]].
+*The Song of the Eternal Earth* is a revered dwarven saga describing the [[Elemental Plane of Earth]]. The saga depicts a realm of endless stone, riddled with caverns of all sizes, in which crystal formations in many hues reflect a sunless sky; though the meaning of this phrase, which recurs frequently in the work, is much debated, most scholars doubt that it describes a literal surface.
 
 %%^Metadata:names:v1%%
 - {name: The Song of the Eternal Earth, language: Common, status: inferred}

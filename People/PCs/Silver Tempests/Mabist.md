@@ -1,20 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: fey
 subspecies: changeling
-name: Mabist
 gender: enby
 born: 1717
+name: Mabist
+pronunciation: MAY-bist
 affiliations:
-- {org: Silver Tempests}
-whereabouts: 
-- {type: home, location: Feywild}
-- {type: home, start: 1748-08-22, location: Voltara}
+  - {org: Silver Tempests}
+whereabouts:
+  - {type: home, location: Feywild}
+  - {type: home, start: 1748-08-22, location: Voltara}
+knownTo: [grli]
 dm_owner: player
 dm_notes: none
+POV: 1748
 ---
 # Mabist
+*(MAY-bist)*
 >[!info]+ Biographical Info  
 > A [[Fey|fey]] (changeling) (they/them)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -52,3 +58,11 @@ Over the course of a month, Mabist stayed with Dinia, their training coming back
 >The queen decided it was best for Mabist to not rejoin the feywilds and instead find their own story. So they were dropped off unconscious in an unknown area near a commoner hut. From then on Mabist was rehabilitated by Dinia. 
 
 %%SECRET[v2:3d43fcfc3a4a6dc58267c93afca18e44]%%
+
+%%^Metadata:names:v1%%
+- {name: Mabist, language: Sylvan, pronunciation: MAY-bist, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an origin and amnesia portrait anchored to DR 1748, with undated earlier backstory; the later rescue of Dinia and DR 1748–1752 absence in Cairn Dor are not yet covered.
+%%^End%%

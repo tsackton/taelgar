@@ -1,27 +1,33 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-13T13:45:21-04:00"
+lintVersion: "3.5"
 tags: [person, status/gameupdate/gl]
-name: Dinia
 species: human
 ancestry: Northerner
 gender: female
-whereabouts:
-- {type: home, location: Blacksilver Peak}
-- {type: away, start: 1748-08-17, end: 1748-08-24, location: Suwi}
 campaignInfo:
-- {campaign: GL, type: met, date: 1747-07-22}
+  - {campaign: grli, type: met, date: 1747-07-22}
+name: Dinia
+pronunciation: DIN-ee-ah
+whereabouts:
+  - {type: home, location: Blacksilver Peak}
+  - {type: away, start: 1748-08-17, end: 1748-08-24, location: Suwi}
+knownTo: [grli]
 dm_owner: tim
 dm_notes: color
+POV: 1740s
 ---
 # Dinia
+*(DIN-ee-ah)*
 >[!info]+ Biographical Info  
 > A [[Northerners|Northerner]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on July 22th, 1747 in [[Blacksilver Peak]], the [[Fiatara Mountains]] %%^End%%
+>> %%^Campaign:grli%% Met by the [[Silver Tempests]] on July 22nd, 1747 in [[Blacksilver Peak]], the [[Fiatara Mountains]] %%^End%%
 
 ![[dinia.png|right|400]]Dinia is a bard, lore-keeper, guide, and hermit who lives in the mountains near [[Blacksilver Peak]], north of the [[Northern Provinces]] of the [[Chardonian Empire]]. She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [[Amani]], destroyed during and after the [[Great War]]. 
 
-She is a bent old woman, usually bundled in heavy furs, who moves slowly but deliberately though the high peaks, often with with a polar bear companion. Her home near Blacksilver Peak is a warm, hidden cave that seems larger inside than outside, a place of food, shelter, stories, and practical warnings against the mountain's dangers. She is strange and old-fashioned in manner, but not vague or helpless; she knows the glacier, the storms, the hidden paths, and the old things that still linger above the tree line.
+She is a bent old woman, usually bundled in heavy furs, who moves slowly but deliberately through the high peaks. Her home near Blacksilver Peak is a warm, hidden cave that seems larger inside than outside, a place of food, shelter, stories, and practical warnings against the mountain's dangers. She is strange and old-fashioned in manner, but not vague or helpless; she knows the glacier, the storms, the hidden paths, and the old things that still linger above the tree line.
 
 She is friendly to travelers and enjoys speaking and sharing stories with strangers, though while she offers shelter, guidance, and healing in the high mountains, she also expects those who ask for help to do concrete work in return. 
 
@@ -45,4 +51,12 @@ A later PC note describes Dinia as a bard and member of the Whistlers, a secreti
 
 After the Suwi rescue, Dinia's precise ongoing whereabouts are not fully established. The existing frontmatter preserves her mountain home and treats the Suwi episode as a temporary captivity.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Dinia, language: unknown, pronunciation: DIN-ee-ah, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a late-1740s portrait of Dinia as an elderly mountain hermit, with interactions through her DR 1748 rescue; the later refuge established by DR 1752 is not yet incorporated into the article.
 %%^End%%
