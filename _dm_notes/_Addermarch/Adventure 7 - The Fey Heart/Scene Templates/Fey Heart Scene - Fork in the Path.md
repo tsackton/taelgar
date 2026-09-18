@@ -33,3 +33,6 @@ A failure here is retreating, or trying to talk to the Willow and making no prog
 
 This is one tick on the hunter tracker. See:  [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
 
+## Exit
+
+Two options here. A path leads forward, down off the hill, and this path eventually joins the river road. Or, the foxes are curious and come see about the fighting. Then run fox encounter, and see what happens. 

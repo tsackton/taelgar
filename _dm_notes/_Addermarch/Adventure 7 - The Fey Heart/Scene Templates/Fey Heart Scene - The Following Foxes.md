@@ -17,8 +17,12 @@ This shouldn't be too hard, most DCs around 15. Guide them through using skills 
 
 ### Win Over the Foxlings
 
-They can tell the party things - pick something from [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]]
+They can tell the party things - pick something from [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]].
+
+**Won over:** “You need [guide]. They know the old paths. They live across the river—we can show you the road down.”
 
 ### Fail to Win Over the Foxlings
 
 Distraction, time, etc add up, maybe get off the path, etc. Add one hunter tick to [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
+
+**Still suspicious:** “Go ask [guide], across the river! They know what to do with lost people. Follow that road. Leave us alone.”

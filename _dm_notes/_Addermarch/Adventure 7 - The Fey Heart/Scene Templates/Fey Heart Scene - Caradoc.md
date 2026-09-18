@@ -9,7 +9,7 @@ Caradoc will remind them of the circumstance, and also that the clock is ticking
 Caradoc needs to:
 - Get them into [[Morlaith]]'s domain
 - Warn them if they want to find their way in time, they'll need to find a guide. Hard to know who will help but use your judgement. The denizens of Morlaith's domain are not evil, they are just strange and old. 
-- Give them a magic item (a wooden wand, wrapped in vines and etches with Sylvan glyphs; one use, when snapped summons the fey loard) that can be used at last resort to summon a fey lord for help, but be wary, they will demand a high price. See: [[Summoned Fey Lord Details]]
+- Give them a magic item (a wooden wand, wrapped in vines and etches with Sylvan glyphs; one use, when snapped summons the fey loard) that can be used at last resort to summon **Lady Calanthë, Duchess of the Sunset Forest and Guardian of the Gloaming Hills**, for help, but be wary, she will demand a high price. See: [[Summoned Fey Details]]
 
 ### Entering Morlaith's Domain
 
