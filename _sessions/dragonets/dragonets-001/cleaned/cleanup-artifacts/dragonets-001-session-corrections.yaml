@@ -1,0 +1,2167 @@
+allReplacements:
+- from: Rosa
+  to: Rosca
+  count: 24
+  headers:
+  - '[u1145 | 01:41:32.520-01:41:41.239 | Zeno]'
+  - '[u1146 | 01:41:41.380-01:41:52.170 | Zeno]'
+  - '[u1150 | 01:42:09.860-01:42:16.650 | DM]'
+  - '[u1151 | 01:42:16.650-01:42:21.869 | DM]'
+  - '[u1185 | 01:44:34.350-01:44:47.650 | DM]'
+  - '[u1189 | 01:44:54.570-01:44:58.769 | DM]'
+  - '[u1202 | 01:46:30.500-01:46:34.850 | DM]'
+  - '[u1205 | 01:46:43.150-01:46:48.240 | DM]'
+  - '[u1281 | 01:50:32.560-01:50:37.380 | DM]'
+  - '[u1297 | 01:51:15.170-01:51:23.259 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1311 | 01:52:23.420-01:52:25.160 | DM]'
+  - '[u1312 | 01:52:26.710-01:52:38.479 | DM]'
+  - '[u1314 | 01:52:45.410-01:52:56.139 | DM]'
+  - '[u1325 | 01:53:29.410-01:53:47.469 | DM]'
+  - '[u1328 | 01:54:00.060-01:54:19.799 | DM]'
+  - '[u1371 | 01:56:32.930-01:56:35.879 | DM]'
+  - '[u1374 | 01:56:40.810-01:56:49.719 | DM]'
+- from: little
+  to: Little
+  count: 23
+  headers:
+  - '[u0064 | 00:07:01.050-00:07:05.870 | Little Tony]'
+  - '[u0079 | 00:08:13.320-00:08:21.769 | Little Tony]'
+  - '[u0098 | 00:10:09.860-00:10:11.429 | DM]'
+  - '[u0101 | 00:10:15.330-00:10:25.879 | Sculpit]'
+  - '[u0118 | 00:12:14.410-00:12:33.299 | Sculpit]'
+  - '[u0209 | 00:21:58.880-00:22:15.800 | DM]'
+  - '[u0214 | 00:22:54.380-00:23:13.370 | Little Tony]'
+  - '[u0268 | 00:31:10.400-00:31:18.630 | DM]'
+  - '[u0535 | 00:50:06.690-00:50:07.489 | Sculpit]'
+  - '[u0536 | 00:50:07.490-00:50:09.319 | Little Tony]'
+  - '[u0552 | 00:50:56.770-00:51:00.709 | DM]'
+  - '[u0669 | 00:59:32.310-00:59:39.490 | DM]'
+  - '[u0691 | 01:00:50.670-01:00:55.149 | DM]'
+  - '[u0767 | 01:07:18.190-01:07:24.960 | DM]'
+  - '[u0781 | 01:08:06.610-01:08:08.440 | Zeno]'
+  - '[u0829 | 01:11:29.450-01:11:43.439 | Little Tony]'
+  - '[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]'
+  - '[u0845 | 01:13:04.710-01:13:24.010 | DM]'
+  - '[u1019 | 01:30:05.710-01:30:26.639 | DM]'
+  - '[u1359 | 01:55:43.370-01:55:45.830 | DM]'
+  - '[u1377 | 01:57:07.720-01:57:29.990 | DM]'
+  - '[u1924 | 02:42:59.510-02:43:05.610 | Zeno]'
+  - '[u1931 | 02:43:17.730-02:43:20.060 | Zeno]'
+- from: Dragonette
+  to: dragonet
+  count: 13
+  headers:
+  - '[u0016 | 00:01:37.160-00:01:48.679 | DM]'
+  - '[u0023 | 00:02:07.810-00:02:12.990 | DM]'
+  - '[u0143 | 00:15:21.030-00:15:26.010 | DM]'
+  - '[u0852 | 01:14:16.740-01:14:31.560 | DM]'
+  - '[u0859 | 01:15:10.150-01:15:15.679 | DM]'
+  - '[u0865 | 01:16:04.340-01:16:08.659 | DM]'
+  - '[u0947 | 01:23:19.420-01:23:31.170 | DM]'
+  - '[u1179 | 01:44:02.470-01:44:17.879 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1942 | 02:43:51.800-02:44:09.399 | DM]'
+  - '[u2036 | 02:51:12.840-02:51:15.279 | DM]'
+  - '[u2064 | 02:53:34.300-02:53:44.820 | DM]'
+  - '[u2188 | 03:03:11.310-03:03:20.100 | DM]'
+- from: dragonette
+  to: dragonet
+  count: 13
+  headers:
+  - '[u0026 | 00:02:33.000-00:02:46.130 | DM]'
+  - '[u0027 | 00:02:46.700-00:02:57.449 | DM]'
+  - '[u0201 | 00:21:11.430-00:21:20.649 | Heska]'
+  - '[u0269 | 00:31:18.750-00:31:40.740 | DM]'
+  - '[u0396 | 00:41:50.470-00:42:04.229 | DM]'
+  - '[u0633 | 00:57:05.910-00:57:11.720 | Heska]'
+  - '[u0755 | 01:06:02.280-01:06:12.869 | Little Tony]'
+  - '[u0874 | 01:17:14.330-01:17:24.580 | DM]'
+  - '[u0922 | 01:21:42.760-01:21:51.740 | DM]'
+  - '[u2010 | 02:49:09.040-02:49:13.279 | DM]'
+  - '[u2011 | 02:49:15.070-02:49:16.500 | DM]'
+  - '[u2022 | 02:49:51.610-02:49:58.439 | DM]'
+  - '[u2029 | 02:50:21.410-02:50:28.810 | DM]'
+- from: Zaire
+  to: Zare
+  count: 12
+  headers:
+  - '[u0767 | 01:07:18.190-01:07:24.960 | DM]'
+  - '[u0771 | 01:07:42.060-01:07:49.799 | DM]'
+  - '[u0800 | 01:09:14.539-01:09:19.739 | DM]'
+  - '[u0808 | 01:09:35.830-01:09:49.089 | DM]'
+  - '[u0810 | 01:09:52.970-01:09:58.769 | DM]'
+  - '[u0819 | 01:10:39.800-01:10:41.800 | DM]'
+  - '[u0827 | 01:11:13.440-01:11:25.260 | DM]'
+  - '[u0844 | 01:12:51.280-01:13:04.040 | DM]'
+  - '[u0845 | 01:13:04.710-01:13:24.010 | DM]'
+- from: Dragonettes
+  to: dragonets
+  count: 11
+  headers:
+  - '[u0011 | 00:01:00.690-00:01:08.760 | DM]'
+  - '[u0014 | 00:01:19.670-00:01:29.269 | DM]'
+  - '[u0033 | 00:03:38.440-00:03:52.020 | DM]'
+  - '[u0063 | 00:06:57.340-00:07:00.829 | Little Tony]'
+  - '[u0116 | 00:12:04.570-00:12:09.610 | Sculpit]'
+  - '[u0857 | 01:14:58.970-01:15:05.869 | DM]'
+  - '[u1122 | 01:39:29.950-01:39:42.500 | DM]'
+  - '[u1127 | 01:39:50.210-01:40:04.190 | DM]'
+  - '[u1179 | 01:44:02.470-01:44:17.879 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1942 | 02:43:51.800-02:44:09.399 | DM]'
+- from: Sculptit
+  to: Sculpit
+  count: 10
+  headers:
+  - '[u0251 | 00:27:52.370-00:28:02.280 | DM]'
+  - '[u0257 | 00:29:15.510-00:29:21.360 | DM]'
+  - '[u0268 | 00:31:10.400-00:31:18.630 | DM]'
+  - '[u0343 | 00:37:21.370-00:37:27.429 | DM]'
+  - '[u0407 | 00:42:58.860-00:43:00.950 | DM]'
+  - '[u0709 | 01:02:04.800-01:02:28.680 | DM]'
+  - '[u0968 | 01:25:07.840-01:25:32.139 | DM]'
+  - '[u1192 | 01:45:08.780-01:45:19.539 | DM]'
+  - '[u1198 | 01:46:08.690-01:46:22.990 | DM]'
+  - '[u1557 | 02:14:17.440-02:14:18.650 | DM]'
+- from: dragonettes
+  to: dragonets
+  count: 9
+  headers:
+  - '[u0025 | 00:02:26.810-00:02:32.770 | DM]'
+  - '[u0026 | 00:02:33.000-00:02:46.130 | DM]'
+  - '[u0035 | 00:03:56.150-00:04:04.470 | DM]'
+  - '[u0266 | 00:30:36.950-00:30:59.360 | DM]'
+  - '[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]'
+  - '[u1669 | 02:22:57.860-02:23:06.479 | Heska]'
+  - '[u1827 | 02:35:15.140-02:35:30.550 | DM]'
+  - '[u1880 | 02:39:33.440-02:39:43.339 | DM]'
+- from: wanderer
+  to: Wanderer
+  count: 9
+  headers:
+  - '[u0020 | 00:01:59.060-00:02:01.329 | DM]'
+  - '[u0042 | 00:04:36.510-00:04:45.139 | DM]'
+  - '[u0254 | 00:28:32.370-00:28:44.470 | DM]'
+  - '[u1590 | 02:16:39.280-02:16:41.190 | Sculpit]'
+  - '[u1718 | 02:26:09.830-02:26:17.350 | DM]'
+  - '[u1720 | 02:26:25.550-02:26:27.120 | DM]'
+  - '[u1989 | 02:47:52.520-02:47:55.179 | DM]'
+  - '[u2081 | 02:55:17.500-02:55:31.590 | DM]'
+  - '[u2134 | 03:00:33.900-03:00:39.490 | DM]'
+- from: Zena
+  to: Xena
+  count: 8
+  headers:
+  - '[u0261 | 00:29:47.860-00:29:57.659 | DM]'
+  - '[u0483 | 00:47:01.630-00:47:10.600 | Sculpit]'
+  - '[u0604 | 00:54:34.390-00:54:40.880 | Sculpit]'
+  - '[u0849 | 01:13:48.240-01:14:03.149 | DM]'
+  - '[u0984 | 01:26:52.830-01:26:53.860 | DM]'
+  - '[u1058 | 01:34:15.630-01:34:21.040 | DM]'
+  - '[u1108 | 01:38:06.530-01:38:16.019 | DM]'
+  - '[u1113 | 01:38:30.340-01:38:36.189 | DM]'
+- from: Dragonet
+  to: dragonet
+  count: 7
+  headers:
+  - '[u0030 | 00:03:18.400-00:03:26.199 | DM]'
+  - '[u0260 | 00:29:33.430-00:29:47.250 | DM]'
+  - '[u1120 | 01:39:08.590-01:39:23.339 | DM]'
+  - '[u1193 | 01:45:19.830-01:45:29.549 | DM]'
+  - '[u1379 | 01:57:34.330-01:57:43.149 | DM]'
+  - '[u2191 | 03:03:35.230-03:03:52.549 | DM]'
+- from: Huska
+  to: Heska
+  count: 6
+  headers:
+  - '[u0149 | 00:15:51.400-00:15:53.860 | DM]'
+  - '[u0221 | 00:23:51.980-00:24:00.210 | Heska]'
+  - '[u0341 | 00:37:13.270-00:37:19.470 | Zeno]'
+  - '[u0611 | 00:55:14.220-00:55:19.860 | Heska]'
+  - '[u0934 | 01:22:18.710-01:22:25.189 | DM]'
+  - '[u1038 | 01:32:53.090-01:32:56.090 | DM]'
+- from: role
+  to: roll
+  count: 6
+  headers:
+  - '[u0613 | 00:55:25.700-00:55:28.340 | Heska]'
+  - '[u0980 | 01:26:38.270-01:26:40.920 | Heska]'
+  - '[u1258 | 01:49:26.100-01:49:31.969 | Heska]'
+  - '[u1267 | 01:49:52.780-01:49:55.440 | Heska]'
+  - '[u1286 | 01:50:47.210-01:50:49.889 | DM]'
+  - '[u1864 | 02:38:12.960-02:38:16.430 | DM]'
+- from: Raska
+  to: Rosca
+  count: 5
+  headers:
+  - '[u1278 | 01:50:13.970-01:50:28.539 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1404 | 01:59:25.650-01:59:40.029 | DM]'
+  - '[u1497 | 02:09:20.290-02:09:24.050 | Zeno]'
+- from: Sculpt it
+  to: Sculpit
+  count: 5
+  headers:
+  - '[u0099 | 00:10:12.440-00:10:13.540 | DM]'
+  - '[u0695 | 01:01:01.570-01:01:17.309 | DM]'
+  - '[u1470 | 02:06:52.450-02:07:03.470 | DM]'
+  - '[u1544 | 02:13:28.760-02:13:37.010 | DM]'
+  - '[u1546 | 02:13:43.090-02:13:44.849 | DM]'
+- from: Dragon Nets
+  to: dragonets
+  count: 4
+  headers:
+  - '[u0851 | 01:14:07.610-01:14:16.200 | DM]'
+  - '[u0894 | 01:19:29.930-01:19:42.189 | DM]'
+  - '[u1030 | 01:31:29.990-01:31:38.810 | DM]'
+  - '[u1140 | 01:40:58.460-01:41:02.120 | DM]'
+- from: Lil
+  to: Little
+  count: 4
+  headers:
+  - '[u0259 | 00:29:25.250-00:29:33.429 | DM]'
+  - '[u0390 | 00:41:20.540-00:41:31.669 | DM]'
+  - '[u1547 | 02:13:46.330-02:13:56.249 | DM]'
+  - '[u1689 | 02:24:18.820-02:24:24.190 | DM]'
+- from: Lil '
+  to: Little
+  count: 4
+  headers:
+  - '[u0139 | 00:14:41.490-00:14:50.810 | DM]'
+  - '[u0534 | 00:50:02.200-00:50:06.690 | DM]'
+  - '[u0779 | 01:08:03.230-01:08:04.610 | DM]'
+  - '[u1902 | 02:40:53.530-02:40:59.350 | DM]'
+- from: Roscoe
+  to: Rosca
+  count: 4
+  headers:
+  - '[u1128 | 01:40:05.660-01:40:08.330 | DM]'
+  - '[u1245 | 01:48:35.170-01:48:42.669 | DM]'
+  - '[u1353 | 01:55:26.900-01:55:28.640 | DM]'
+  - '[u1376 | 01:56:55.650-01:57:04.769 | DM]'
+- from: sculpt it
+  to: Sculpit
+  count: 4
+  headers:
+  - '[u0271 | 00:31:42.510-00:31:44.420 | DM]'
+  - '[u0396 | 00:41:50.470-00:42:04.229 | DM]'
+  - '[u1470 | 02:06:52.450-02:07:03.470 | DM]'
+- from: Dragonite
+  to: dragonet
+  count: 3
+  headers:
+  - '[u0079 | 00:08:13.320-00:08:21.769 | Little Tony]'
+  - '[u0246 | 00:26:46.540-00:26:59.249 | DM]'
+  - '[u0249 | 00:27:28.400-00:27:47.019 | DM]'
+- from: Haske
+  to: Heska
+  count: 3
+  headers:
+  - '[u1414 | 02:01:00.700-02:01:06.579 | Heska]'
+  - '[u1426 | 02:02:39.360-02:02:48.310 | Heska]'
+  - '[u1442 | 02:04:03.080-02:04:11.510 | Heska]'
+- from: Peska
+  to: Heska
+  count: 3
+  headers:
+  - '[u0036 | 00:04:05.360-00:04:07.610 | DM]'
+  - '[u0221 | 00:23:51.980-00:24:00.210 | Heska]'
+  - '[u1333 | 01:54:25.180-01:54:32.139 | DM]'
+- from: Xena
+  to: Zeno
+  count: 3
+  headers:
+  - '[u0147 | 00:15:42.620-00:15:46.149 | DM]'
+  - '[u0442 | 00:45:16.330-00:45:18.440 | Zeno]'
+  - '[u0808 | 01:09:35.830-01:09:49.089 | DM]'
+- from: Xeno
+  to: Zeno
+  count: 3
+  headers:
+  - '[u0313 | 00:35:36.570-00:35:39.570 | DM]'
+  - '[u1378 | 01:57:29.990-01:57:34.330 | DM]'
+  - '[u1604 | 02:17:21.290-02:17:22.629 | DM]'
+- from: dragon ants
+  to: dragonets
+  count: 3
+  headers:
+  - '[u1097 | 01:36:43.080-01:36:50.339 | Sculpit]'
+  - '[u1418 | 02:01:24.060-02:01:36.729 | DM]'
+  - '[u2051 | 02:52:19.030-02:52:28.109 | DM]'
+- from: dragon nets
+  to: dragonets
+  count: 3
+  headers:
+  - '[u0868 | 01:16:34.440-01:16:44.189 | DM]'
+  - '[u0877 | 01:17:39.880-01:17:48.370 | DM]'
+  - '[u1661 | 02:22:21.090-02:22:29.510 | DM]'
+- from: Aska
+  to: Heska
+  count: 2
+  headers:
+  - '[u0524 | 00:49:22.200-00:49:33.320 | Heska]'
+  - '[u1578 | 02:15:34.730-02:15:39.390 | DM]'
+- from: Dino
+  to: Zeno
+  count: 2
+  headers:
+  - '[u0183 | 00:19:13.120-00:19:24.780 | Heska]'
+  - '[u0447 | 00:45:27.250-00:45:29.250 | Heska]'
+- from: Dragon Egg
+  to: dragonet
+  count: 2
+  headers:
+  - '[u0218 | 00:23:30.040-00:23:44.900 | DM]'
+  - '[u0880 | 01:18:02.030-01:18:12.360 | DM]'
+- from: Dragonhead
+  to: dragonet
+  count: 2
+  headers:
+  - '[u0208 | 00:21:51.800-00:21:58.430 | DM]'
+  - '[u0948 | 01:23:31.520-01:23:42.329 | DM]'
+- from: Eska
+  to: Heska
+  count: 2
+  headers:
+  - '[u0320 | 00:35:59.890-00:36:04.629 | Zeno]'
+  - '[u1415 | 02:01:07.820-02:01:10.720 | Zeno]'
+- from: Hasco
+  to: Heska
+  count: 2
+  headers:
+  - '[u0484 | 00:47:11.660-00:47:17.030 | Sculpit]'
+  - '[u0976 | 01:26:21.640-01:26:24.769 | Heska]'
+- from: Sybil
+  to: Sibyl
+  count: 2
+  headers:
+  - '[u0012 | 00:01:09.260-00:01:14.799 | DM]'
+  - '[u0019 | 00:01:56.690-00:01:58.669 | DM]'
+- from: Tina
+  to: Xena
+  count: 2
+  headers:
+  - '[u0441 | 00:45:14.050-00:45:15.290 | Sculpit]'
+- from: You know
+  to: Zeno
+  count: 2
+  headers:
+  - '[u0531 | 00:49:51.190-00:49:53.339 | Heska]'
+  - '[u1602 | 02:17:17.200-02:17:18.899 | DM]'
+- from: Zaer
+  to: Zare
+  count: 2
+  headers:
+  - '[u0726 | 01:03:49.290-01:04:03.870 | DM]'
+- from: crap
+  to: crab
+  count: 2
+  headers:
+  - '[u0322 | 00:36:09.620-00:36:11.679 | DM]'
+  - '[u0329 | 00:36:28.580-00:36:30.969 | DM]'
+- from: dragon head
+  to: dragonet
+  count: 2
+  headers:
+  - '[u1185 | 01:44:34.350-01:44:47.650 | DM]'
+  - '[u2027 | 02:50:13.750-02:50:17.070 | DM]'
+- from: dragonett
+  to: dragonet
+  count: 2
+  headers:
+  - '[u0338 | 00:36:53.400-00:36:59.160 | Zeno]'
+  - '[u0820 | 01:10:42.630-01:10:51.029 | DM]'
+- from: gotta scope
+  to: got
+  count: 2
+  headers:
+  - '[u0687 | 01:00:34.610-01:00:39.040 | Little Tony]'
+- from: mother
+  to: Mother
+  count: 2
+  headers:
+  - '[u0016 | 00:01:37.160-00:01:48.679 | DM]'
+  - '[u0867 | 01:16:26.280-01:16:34.330 | DM]'
+- from: pick
+  to: think
+  count: 2
+  headers:
+  - '[u0299 | 00:34:43.579-00:34:45.559 | Sculpit]'
+- from: sculpt
+  to: Sculpit
+  count: 2
+  headers:
+  - '[u0451 | 00:45:31.870-00:45:35.279 | DM]'
+  - '[u1955 | 02:45:15.020-02:45:15.930 | Zeno]'
+- from: wildling
+  to: Wildling
+  count: 2
+  headers:
+  - '[u0022 | 00:02:04.270-00:02:06.500 | DM]'
+  - '[u0254 | 00:28:32.370-00:28:44.470 | DM]'
+- from: worldling
+  to: Wyrdling
+  count: 2
+  headers:
+  - '[u0013 | 00:01:14.940-00:01:18.000 | DM]'
+  - '[u0021 | 00:02:01.710-00:02:03.909 | DM]'
+- from: ', Sean'
+  to: check
+  count: 1
+  headers:
+  - '[u1817 | 02:34:08.580-02:34:10.979 | DM]'
+- from: ', you know'
+  to: Zeno
+  count: 1
+  headers:
+  - '[u1168 | 01:43:15.650-01:43:21.620 | Sculpit]'
+- from: ', you know, and'
+  to: Zeno in
+  count: 1
+  headers:
+  - '[u0622 | 00:55:58.750-00:56:02.870 | Little Tony]'
+- from: . Apparently
+  to: ', apparently'
+  count: 1
+  headers:
+  - '[u0564 | 00:51:37.130-00:51:42.999 | Sculpit]'
+- from: '101'
+  to: Not a one
+  count: 1
+  headers:
+  - '[u1574 | 02:15:26.350-02:15:27.320 | Heska]'
+- from: '?'
+  to: .
+  count: 1
+  headers:
+  - '[u0913 | 01:21:26.920-01:21:27.770 | Heska]'
+- from: A little
+  to: Little
+  count: 1
+  headers:
+  - '[u1525 | 02:11:41.820-02:11:42.859 | Little Tony]'
+- from: ANTA.
+  to: advantage?
+  count: 1
+  headers:
+  - '[u1339 | 01:54:49.380-01:54:50.769 | Zeno]'
+- from: Acrobat
+  to: acrobatics
+  count: 1
+  headers:
+  - '[u1409 | 02:00:34.690-02:00:42.269 | Sculpit]'
+- from: And
+  to: 'On'
+  count: 1
+  headers:
+  - '[u1989 | 02:47:52.520-02:47:55.179 | DM]'
+- from: Ask it
+  to: Heska
+  count: 1
+  headers:
+  - '[u1112 | 01:38:27.300-01:38:29.450 | Heska]'
+- from: Asko
+  to: Heska
+  count: 1
+  headers:
+  - '[u1483 | 02:08:00.570-02:08:03.260 | DM]'
+- from: Barnic inspirations
+  to: Bardic Inspiration
+  count: 1
+  headers:
+  - '[u0956 | 01:24:10.320-01:24:13.199 | Sculpit]'
+- from: Barry
+  to: Sorry
+  count: 1
+  headers:
+  - '[u0576 | 00:52:22.430-00:52:23.730 | Zeno]'
+- from: Bartic inspiration
+  to: Bardic Inspiration
+  count: 1
+  headers:
+  - '[u1272 | 01:49:59.710-01:50:02.450 | Sculpit]'
+- from: Betty
+  to: That he
+  count: 1
+  headers:
+  - '[u0203 | 00:21:24.440-00:21:30.719 | Heska]'
+- from: Bids
+  to: Heads
+  count: 1
+  headers:
+  - '[u0555 | 00:51:06.620-00:51:07.519 | DM]'
+- from: Bill
+  to: Little
+  count: 1
+  headers:
+  - '[u0537 | 00:50:09.320-00:50:12.250 | Heska]'
+- from: Bilton.
+  to: Little …
+  count: 1
+  headers:
+  - '[u1451 | 02:04:41.530-02:04:42.090 | DM]'
+- from: Bit mean?
+  to: Pick me!
+  count: 1
+  headers:
+  - '[u0752 | 01:05:55.710-01:05:56.710 | DM]'
+- from: Bonic inspiration
+  to: Bardic Inspiration
+  count: 1
+  headers:
+  - '[u1263 | 01:49:42.370-01:49:44.789 | Sculpit]'
+- from: Bright Face
+  to: Brightface
+  count: 1
+  headers:
+  - '[u0888 | 01:18:56.170-01:19:03.009 | DM]'
+- from: Bright Faced
+  to: Brightface
+  count: 1
+  headers:
+  - '[u0869 | 01:16:44.510-01:16:49.949 | DM]'
+- from: Buy
+  to: Fly
+  count: 1
+  headers:
+  - '[u1582 | 02:16:07.550-02:16:15.899 | Heska]'
+- from: Bye
+  to: By
+  count: 1
+  headers:
+  - '[u1981 | 02:46:57.680-02:46:58.470 | DM]'
+- from: Casino
+  to: Zeno
+  count: 1
+  headers:
+  - '[u0802 | 01:09:22.569-01:09:25.689 | Zeno]'
+- from: Difference
+  to: Different
+  count: 1
+  headers:
+  - '[u2074 | 02:54:21.030-02:54:22.280 | DM]'
+- from: Don
+  to: Kong
+  count: 1
+  headers:
+  - '[u2144 | 03:01:10.420-03:01:11.360 | Zeno]'
+- from: Don
+  to: So Sculpit
+  count: 1
+  headers:
+  - '[u0100 | 00:10:13.780-00:10:15.030 | Sculpit]'
+- from: Dragon Antet
+  to: dragonet
+  count: 1
+  headers:
+  - '[u0032 | 00:03:27.620-00:03:38.439 | DM]'
+- from: Dragon Ants
+  to: dragonets
+  count: 1
+  headers:
+  - '[u1134 | 01:40:39.920-01:40:50.519 | DM]'
+- from: Dragon S
+  to: dragonets
+  count: 1
+  headers:
+  - '[u2092 | 02:56:25.260-02:56:36.240 | DM]'
+- from: Dragon X
+  to: dragonets
+  count: 1
+  headers:
+  - '[u1029 | 01:31:13.070-01:31:29.990 | DM]'
+- from: Dragonetti
+  to: dragonet - y
+  count: 1
+  headers:
+  - '[u2174 | 03:02:23.020-03:02:32.250 | Little Tony]'
+- from: Dragonf
+  to: dragonet
+  count: 1
+  headers:
+  - '[u0110 | 00:11:06.830-00:11:24.079 | Sculpit]'
+- from: Esca
+  to: Heska
+  count: 1
+  headers:
+  - '[u2102 | 02:57:28.120-02:57:41.479 | DM]'
+- from: Esca
+  to: ask
+  count: 1
+  headers:
+  - '[u0433 | 00:44:21.540-00:44:24.730 | Zeno]'
+- from: Establish
+  to: establish
+  count: 1
+  headers:
+  - '[u0176 | 00:18:18.790-00:18:26.720 | Heska]'
+- from: Fancy Hunters
+  to: fancy hunters
+  count: 1
+  headers:
+  - '[u1463 | 02:05:56.220-02:05:59.360 | Sculpit]'
+- from: Ford, Dragonettes
+  to: four dragonets
+  count: 1
+  headers:
+  - '[u2064 | 02:53:34.300-02:53:44.820 | DM]'
+- from: Fortz
+  to: Schwartz
+  count: 1
+  headers:
+  - '[u2181 | 03:02:47.290-03:02:54.580 | Zeno]'
+- from: Gems
+  to: gems
+  count: 1
+  headers:
+  - '[u0165 | 00:17:21.630-00:17:24.810 | Zeno]'
+- from: HESCA
+  to: Heska
+  count: 1
+  headers:
+  - '[u1039 | 01:32:57.960-01:33:04.740 | Heska]'
+- from: Haska
+  to: Heska
+  count: 1
+  headers:
+  - '[u0434 | 00:44:25.150-00:44:28.560 | Heska]'
+- from: Haskell
+  to: Heska will
+  count: 1
+  headers:
+  - '[u0641 | 00:57:50.710-00:57:52.789 | Sculpit]'
+- from: He
+  to: She
+  count: 1
+  headers:
+  - '[u0690 | 01:00:47.830-01:00:50.499 | DM]'
+- from: He realized
+  to: You realize
+  count: 1
+  headers:
+  - '[u2010 | 02:49:09.040-02:49:13.279 | DM]'
+- from: Hesk
+  to: Heska
+  count: 1
+  headers:
+  - '[u1068 | 01:34:57.910-01:35:03.170 | Little Tony]'
+- from: Heskins, you know
+  to: Heska and Zeno
+  count: 1
+  headers:
+  - '[u0267 | 00:30:59.420-00:31:09.649 | DM]'
+- from: Hey, Lux!
+  to: He looks …
+  count: 1
+  headers:
+  - '[u0579 | 00:52:28.200-00:52:30.440 | Heska]'
+- from: Hezka
+  to: Heska
+  count: 1
+  headers:
+  - '[u0997 | 01:27:46.860-01:27:52.060 | Heska]'
+- from: Highlights
+  to: High highs
+  count: 1
+  headers:
+  - '[u1970 | 02:46:04.930-02:46:06.460 | Little Tony]'
+- from: Honey
+  to: Tony
+  count: 1
+  headers:
+  - '[u1452 | 02:04:42.090-02:04:43.299 | DM]'
+- from: Hong
+  to: Kong
+  count: 1
+  headers:
+  - '[u1273 | 01:50:02.730-01:50:03.509 | Heska]'
+- from: Hulker
+  to: whole crew
+  count: 1
+  headers:
+  - '[u1160 | 01:42:55.160-01:43:00.190 | DM]'
+- from: Huskas
+  to: Heska ' s
+  count: 1
+  headers:
+  - '[u1943 | 02:44:12.940-02:44:16.960 | Heska]'
+- from: I
+  to: he
+  count: 1
+  headers:
+  - '[u1329 | 01:54:19.870-01:54:21.280 | DM]'
+- from: I ' m
+  to: Um,
+  count: 1
+  headers:
+  - '[u0031 | 00:03:26.240-00:03:27.580 | DM]'
+- from: I ' m scubbing
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0344 | 00:37:28.210-00:37:40.910 | Little Tony]'
+- from: I ' m sort
+  to: Sort
+  count: 1
+  headers:
+  - '[u0580 | 00:52:31.670-00:52:39.219 | Heska]'
+- from: I didn ' t matter.
+  to: is that better?
+  count: 1
+  headers:
+  - '[u0457 | 00:45:48.230-00:45:49.650 | Sculpit]'
+- from: I was
+  to: Dives
+  count: 1
+  headers:
+  - '[u0590 | 00:53:29.720-00:53:34.569 | Heska]'
+- from: I was gonna
+  to: Heska would
+  count: 1
+  headers:
+  - '[u0197 | 00:20:44.550-00:20:50.330 | Heska]'
+- from: I would give
+  to: it was giving
+  count: 1
+  headers:
+  - '[u1491 | 02:08:35.810-02:08:41.479 | Zeno]'
+- from: In
+  to: And
+  count: 1
+  headers:
+  - '[u1994 | 02:48:10.960-02:48:13.960 | DM]'
+- from: In
+  to: in
+  count: 1
+  headers:
+  - '[u0419 | 00:43:48.960-00:43:54.210 | Sculpit]'
+- from: Insulating
+  to: inflating
+  count: 1
+  headers:
+  - '[u0194 | 00:20:21.250-00:20:32.859 | Heska]'
+- from: Investigator
+  to: Investigation
+  count: 1
+  headers:
+  - '[u1815 | 02:34:00.000-02:34:01.090 | Sculpit]'
+- from: It
+  to: He
+  count: 1
+  headers:
+  - '[u0222 | 00:24:00.650-00:24:05.880 | Heska]'
+- from: It
+  to: That
+  count: 1
+  headers:
+  - '[u0397 | 00:42:04.570-00:42:09.500 | DM]'
+- from: Jazzina
+  to: Zeno
+  count: 1
+  headers:
+  - '[u1933 | 02:43:24.800-02:43:26.040 | DM]'
+- from: Jets
+  to: gems
+  count: 1
+  headers:
+  - '[u0757 | 01:06:19.910-01:06:21.010 | DM]'
+- from: Kuzmet
+  to: kismet
+  count: 1
+  headers:
+  - '[u0766 | 01:07:12.030-01:07:18.190 | Little Tony]'
+- from: Leave
+  to: Don ' t leave
+  count: 1
+  headers:
+  - '[u0532 | 00:49:54.440-00:49:56.819 | Heska]'
+- from: Lil ' Tunny
+  to: Little Tony
+  count: 1
+  headers:
+  - '[u1934 | 02:43:26.320-02:43:30.210 | DM]'
+- from: Masai
+  to: The silence
+  count: 1
+  headers:
+  - '[u1679 | 02:23:41.240-02:23:41.650 | Little Tony]'
+- from: Micro
+  to: Mike, your
+  count: 1
+  headers:
+  - '[u0914 | 01:21:28.440-01:21:29.130 | DM]'
+- from: Natural20
+  to: natural 20
+  count: 1
+  headers:
+  - '[u0744 | 01:05:01.470-01:05:03.580 | Little Tony]'
+- from: Nesca
+  to: Heska
+  count: 1
+  headers:
+  - '[u1106 | 01:37:42.840-01:37:44.990 | Heska]'
+- from: Next
+  to: Thanks
+  count: 1
+  headers:
+  - '[u1508 | 02:10:10.460-02:10:10.900 | Zeno]'
+- from: Nito
+  to: Zeno
+  count: 1
+  headers:
+  - '[u0467 | 00:46:18.060-00:46:20.299 | Sculpit]'
+- from: Oh,
+  to: Little
+  count: 1
+  headers:
+  - '[u0989 | 01:27:19.870-01:27:21.750 | Little Tony]'
+- from: Oh, Scott
+  to: Rosca
+  count: 1
+  headers:
+  - '[u1139 | 01:40:58.000-01:40:58.459 | DM]'
+- from: Pabbel
+  to: pebble
+  count: 1
+  headers:
+  - '[u0674 | 00:59:53.520-00:59:57.199 | Sculpit]'
+- from: Pascal
+  to: Heska
+  count: 1
+  headers:
+  - '[u0485 | 00:47:17.030-00:47:24.550 | Heska]'
+- from: Pebble boat
+  to: pebble butt
+  count: 1
+  headers:
+  - '[u0792 | 01:08:32.549-01:08:35.839 | Little Tony]'
+- from: Pubble Blut
+  to: pebble butt
+  count: 1
+  headers:
+  - '[u0828 | 01:11:25.370-01:11:28.550 | DM]'
+- from: Rakut
+  to: Rosca
+  count: 1
+  headers:
+  - '[u1289 | 01:50:52.920-01:50:58.800 | DM]'
+- from: Rivers
+  to: Delivers
+  count: 1
+  headers:
+  - '[u1331 | 01:54:22.000-01:54:22.870 | DM]'
+- from: Road
+  to: Right
+  count: 1
+  headers:
+  - '[u0095 | 00:09:56.790-00:09:57.440 | Zeno]'
+- from: Scalpin
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u1409 | 02:00:34.690-02:00:42.269 | Sculpit]'
+- from: Sculpt
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u1755 | 02:28:44.680-02:28:46.360 | DM]'
+- from: Sculpt It
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0054 | 00:05:24.520-00:05:29.619 | DM]'
+- from: Sculpted
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0259 | 00:29:25.250-00:29:33.429 | DM]'
+- from: Sculpting
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0655 | 00:58:47.560-00:58:50.339 | DM]'
+- from: She ' s
+  to: Just
+  count: 1
+  headers:
+  - '[u1919 | 02:42:39.450-02:42:46.760 | Little Tony]'
+- from: Sina
+  to: Zeno
+  count: 1
+  headers:
+  - '[u0186 | 00:19:33.350-00:19:41.100 | Heska]'
+- from: Skopit
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0082 | 00:08:41.039-00:08:47.030 | Little Tony]'
+- from: Skull
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u1005 | 01:28:27.020-01:28:28.770 | Little Tony]'
+- from: Skull Butt
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u1460 | 02:05:35.600-02:05:40.989 | Sculpit]'
+- from: Small bit
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0595 | 00:53:43.950-00:53:48.320 | Sculpit]'
+- from: So, if it
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0561 | 00:51:23.580-00:51:27.480 | Sculpit]'
+- from: Stickburn
+  to: Sick Burn
+  count: 1
+  headers:
+  - '[u1258 | 01:49:26.100-01:49:31.969 | Heska]'
+- from: Stop it
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0612 | 00:55:20.310-00:55:25.460 | Heska]'
+- from: Stop it, I ' ll swallow
+  to: Sculpit also follows
+  count: 1
+  headers:
+  - '[u0454 | 00:45:36.580-00:45:39.160 | Sculpit]'
+- from: Teddy
+  to: Tony
+  count: 1
+  headers:
+  - '[u0119 | 00:12:34.750-00:12:38.830 | Sculpit]'
+- from: Tesco
+  to: Heska
+  count: 1
+  headers:
+  - '[u0170 | 00:17:42.890-00:17:46.570 | DM]'
+- from: The Dragonhead Festival
+  to: the dragonet festival
+  count: 1
+  headers:
+  - '[u0030 | 00:03:18.400-00:03:26.199 | DM]'
+- from: The spike
+  to: Despite
+  count: 1
+  headers:
+  - '[u1332 | 01:54:23.380-01:54:24.900 | DM]'
+- from: The tech start ' s
+  to: Detect Thoughts
+  count: 1
+  headers:
+  - '[u1841 | 02:36:34.250-02:36:36.070 | Sculpit]'
+- from: There are spells
+  to: The spell ' s
+  count: 1
+  headers:
+  - '[u1838 | 02:36:18.490-02:36:25.780 | Zeno]'
+- from: Trade
+  to: Three
+  count: 1
+  headers:
+  - '[u1551 | 02:14:01.460-02:14:02.100 | Sculpit]'
+- from: WP6
+  to: '26'
+  count: 1
+  headers:
+  - '[u0575 | 00:52:19.100-00:52:20.340 | Sculpit]'
+- from: Wadra
+  to: Wanderer
+  count: 1
+  headers:
+  - '[u1588 | 02:16:33.910-02:16:38.460 | Sculpit]'
+- from: Wanderers
+  to: Wanderer ' s
+  count: 1
+  headers:
+  - '[u1659 | 02:22:15.250-02:22:18.810 | Sculpit]'
+- from: Webv6
+  to: 1d6
+  count: 1
+  headers:
+  - '[u0954 | 01:24:07.620-01:24:09.160 | Sculpit]'
+- from: When
+  to: And
+  count: 1
+  headers:
+  - '[u2040 | 02:51:31.250-02:51:32.449 | DM]'
+- from: Will
+  to: Little
+  count: 1
+  headers:
+  - '[u1766 | 02:29:53.640-02:29:57.609 | DM]'
+- from: Will Pony
+  to: Little Tony
+  count: 1
+  headers:
+  - '[u1192 | 01:45:08.780-01:45:19.539 | DM]'
+- from: Wonder
+  to: Wanderer
+  count: 1
+  headers:
+  - '[u1564 | 02:14:51.740-02:14:52.659 | DM]'
+- from: You ' re
+  to: Hear
+  count: 1
+  headers:
+  - '[u1537 | 02:13:00.730-02:13:01.670 | Heska]'
+- from: You know,
+  to: Zeno
+  count: 1
+  headers:
+  - '[u0174 | 00:18:09.650-00:18:15.419 | Heska]'
+- from: Z know
+  to: Zeno
+  count: 1
+  headers:
+  - '[u0223 | 00:24:07.070-00:24:12.079 | Heska]'
+- from: Zarit
+  to: Zare
+  count: 1
+  headers:
+  - '[u0715 | 01:03:09.230-01:03:14.989 | Zeno]'
+- from: Zena
+  to: Zeno
+  count: 1
+  headers:
+  - '[u1279 | 01:50:28.910-01:50:29.619 | DM]'
+- from: Zeno
+  to: Xena
+  count: 1
+  headers:
+  - '[u0957 | 01:24:13.490-01:24:19.109 | DM]'
+- from: Zeta
+  to: Xena
+  count: 1
+  headers:
+  - '[u0638 | 00:57:41.640-00:57:47.080 | Sculpit]'
+- from: Zim
+  to: Xena
+  count: 1
+  headers:
+  - '[u0952 | 01:24:02.780-01:24:05.190 | DM]'
+- from: Zino
+  to: Zeno
+  count: 1
+  headers:
+  - '[u0183 | 00:19:13.120-00:19:24.780 | Heska]'
+- from: a little
+  to: Little
+  count: 1
+  headers:
+  - '[u0038 | 00:04:19.339-00:04:23.100 | DM]'
+- from: a little tiny
+  to: Little Tony
+  count: 1
+  headers:
+  - '[u1691 | 02:24:24.660-02:24:28.479 | DM]'
+- from: a part of inspiration
+  to: Bardic Inspiration
+  count: 1
+  headers:
+  - '[u1172 | 01:43:41.850-01:43:43.979 | Sculpit]'
+- from: a wander
+  to: the Wanderer
+  count: 1
+  headers:
+  - '[u1988 | 02:47:44.950-02:47:52.340 | DM]'
+- from: ab
+  to: '- crab -'
+  count: 1
+  headers:
+  - '[u1469 | 02:06:37.720-02:06:52.449 | Sculpit]'
+- from: about
+  to: out
+  count: 1
+  headers:
+  - '[u1318 | 01:53:13.410-01:53:17.920 | DM]'
+- from: allied
+  to: alludes
+  count: 1
+  headers:
+  - '[u0283 | 00:32:42.340-00:32:51.359 | Sculpit]'
+- from: and
+  to: 'on'
+  count: 1
+  headers:
+  - '[u2029 | 02:50:21.410-02:50:28.810 | DM]'
+- from: animate
+  to: inanimate
+  count: 1
+  headers:
+  - '[u2133 | 03:00:28.060-03:00:32.710 | DM]'
+- from: anytime
+  to: '22'
+  count: 1
+  headers:
+  - '[u1287 | 01:50:50.810-01:50:51.250 | Zeno]'
+- from: apartments
+  to: a partner
+  count: 1
+  headers:
+  - '[u0281 | 00:32:30.930-00:32:32.660 | Sculpit]'
+- from: are your role
+  to: ''' d you roll'
+  count: 1
+  headers:
+  - '[u1550 | 02:14:00.410-02:14:01.209 | DM]'
+- from: awake
+  to: wake
+  count: 1
+  headers:
+  - '[u2069 | 02:54:01.440-02:54:06.600 | DM]'
+- from: ball
+  to: palm
+  count: 1
+  headers:
+  - '[u0703 | 01:01:45.850-01:01:47.750 | Sculpit]'
+- from: bar
+  to: bard
+  count: 1
+  headers:
+  - '[u0121 | 00:12:54.050-00:12:59.280 | Sculpit]'
+- from: barg
+  to: bard
+  count: 1
+  headers:
+  - '[u0941 | 01:23:00.360-01:23:01.759 | Sculpit]'
+- from: beat
+  to: need
+  count: 1
+  headers:
+  - '[u0345 | 00:37:40.910-00:37:44.510 | Sculpit]'
+- from: before
+  to: four
+  count: 1
+  headers:
+  - '[u1150 | 01:42:09.860-01:42:16.650 | DM]'
+- from: blow up
+  to: will love
+  count: 1
+  headers:
+  - '[u2098 | 02:56:50.450-02:56:55.180 | DM]'
+- from: boat
+  to: butt
+  count: 1
+  headers:
+  - '[u1732 | 02:27:04.830-02:27:09.549 | Little Tony]'
+- from: bread
+  to: red
+  count: 1
+  headers:
+  - '[u0568 | 00:51:56.300-00:52:00.469 | Sculpit]'
+- from: bright face
+  to: Brightface
+  count: 1
+  headers:
+  - '[u0253 | 00:28:13.930-00:28:31.969 | DM]'
+- from: buckle
+  to: Buckle
+  count: 1
+  headers:
+  - '[u1445 | 02:04:23.980-02:04:29.430 | Heska]'
+- from: buckle chuckle
+  to: Buckle Chuckle
+  count: 1
+  headers:
+  - '[u0330 | 00:36:32.250-00:36:36.259 | Zeno]'
+- from: call
+  to: roll
+  count: 1
+  headers:
+  - '[u0576 | 00:52:22.430-00:52:23.730 | Zeno]'
+- from: caustic
+  to: costume
+  count: 1
+  headers:
+  - '[u0300 | 00:34:45.759-00:34:49.279 | Sculpit]'
+- from: chat GPT
+  to: ChatGPT
+  count: 1
+  headers:
+  - '[u1966 | 02:45:38.800-02:45:52.290 | DM]'
+- from: chuckle
+  to: Chuckle
+  count: 1
+  headers:
+  - '[u0330 | 00:36:32.250-00:36:36.259 | Zeno]'
+- from: chuckle buckle
+  to: Chuckle Buckle
+  count: 1
+  headers:
+  - '[u0153 | 00:16:17.260-00:16:32.529 | Zeno]'
+- from: church
+  to: direction
+  count: 1
+  headers:
+  - '[u0568 | 00:51:56.300-00:52:00.469 | Sculpit]'
+- from: circular island
+  to: Circular Island
+  count: 1
+  headers:
+  - '[u0004 | 00:00:22.700-00:00:27.039 | DM]'
+- from: clot
+  to: cloth
+  count: 1
+  headers:
+  - '[u0568 | 00:51:56.300-00:52:00.469 | Sculpit]'
+- from: common
+  to: calm and
+  count: 1
+  headers:
+  - '[u1515 | 02:10:30.090-02:10:44.079 | Little Tony]'
+- from: community ' s
+  to: communities
+  count: 1
+  headers:
+  - '[u0863 | 01:15:49.630-01:15:58.849 | DM]'
+- from: cr - set your
+  to: criticize. You ' re a
+  count: 1
+  headers:
+  - '[u1067 | 01:34:45.360-01:34:54.260 | Little Tony]'
+- from: crab
+  to: crowd
+  count: 1
+  headers:
+  - '[u1227 | 01:47:49.250-01:47:56.590 | Zeno]'
+- from: crab duck in
+  to: crabducken
+  count: 1
+  headers:
+  - '[u1474 | 02:07:19.760-02:07:37.520 | Sculpit]'
+- from: crags
+  to: crabs
+  count: 1
+  headers:
+  - '[u2112 | 02:58:36.680-02:58:48.479 | DM]'
+- from: crap
+  to: crowded
+  count: 1
+  headers:
+  - '[u0521 | 00:49:09.650-00:49:11.959 | Sculpit]'
+- from: creatures
+  to: creature is there
+  count: 1
+  headers:
+  - '[u1838 | 02:36:18.490-02:36:25.780 | Zeno]'
+- from: crooked luck
+  to: Crooked Luck
+  count: 1
+  headers:
+  - '[u0021 | 00:02:01.710-00:02:03.909 | DM]'
+- from: dark buckle
+  to: Dark Buckle
+  count: 1
+  headers:
+  - '[u1450 | 02:04:37.660-02:04:39.780 | Zeno]'
+- from: dark buckle nut
+  to: Dark Buckle now
+  count: 1
+  headers:
+  - '[u1447 | 02:04:32.100-02:04:35.190 | Heska]'
+- from: deploying
+  to: Is it flying
+  count: 1
+  headers:
+  - '[u1590 | 02:16:39.280-02:16:41.190 | Sculpit]'
+- from: designed
+  to: designs
+  count: 1
+  headers:
+  - '[u1812 | 02:33:50.970-02:33:52.379 | Sculpit]'
+- from: didn ' t
+  to: can
+  count: 1
+  headers:
+  - '[u1025 | 01:30:40.770-01:30:43.849 | DM]'
+- from: dragging it
+  to: dragonet
+  count: 1
+  headers:
+  - '[u0163 | 00:17:11.950-00:17:16.120 | Zeno]'
+- from: draggingettes
+  to: dragonets
+  count: 1
+  headers:
+  - '[u1789 | 02:31:51.340-02:32:10.609 | DM]'
+- from: dragon egg
+  to: dragonet
+  count: 1
+  headers:
+  - '[u2026 | 02:50:11.090-02:50:13.230 | DM]'
+- from: dragon net
+  to: dragonet
+  count: 1
+  headers:
+  - '[u2014 | 02:49:23.350-02:49:26.430 | DM]'
+- from: dragon that
+  to: dragonet
+  count: 1
+  headers:
+  - '[u1325 | 01:53:29.410-01:53:47.469 | DM]'
+- from: dragoneth
+  to: dragonets
+  count: 1
+  headers:
+  - '[u1197 | 01:45:52.000-01:46:08.610 | DM]'
+- from: early
+  to: earlier
+  count: 1
+  headers:
+  - '[u1426 | 02:02:39.360-02:02:48.310 | Heska]'
+- from: enhance
+  to: and hands
+  count: 1
+  headers:
+  - '[u0564 | 00:51:37.130-00:51:42.999 | Sculpit]'
+- from: era
+  to: arrow
+  count: 1
+  headers:
+  - '[u1055 | 01:34:06.700-01:34:07.170 | Zeno]'
+- from: father
+  to: Father
+  count: 1
+  headers:
+  - '[u0017 | 00:01:49.030-00:01:51.309 | DM]'
+- from: feet
+  to: foot
+  count: 1
+  headers:
+  - '[u2118 | 02:59:27.470-02:59:38.879 | DM]'
+- from: felt
+  to: svelte
+  count: 1
+  headers:
+  - '[u0269 | 00:31:18.750-00:31:40.740 | DM]'
+- from: football
+  to: beautiful
+  count: 1
+  headers:
+  - '[u0500 | 00:48:02.530-00:48:08.619 | Sculpit]'
+- from: footstructures
+  to: foot structures
+  count: 1
+  headers:
+  - '[u0026 | 00:02:33.000-00:02:46.130 | DM]'
+- from: for
+  to: four
+  count: 1
+  headers:
+  - '[u1986 | 02:47:34.220-02:47:38.509 | DM]'
+- from: from
+  to: for
+  count: 1
+  headers:
+  - '[u1473 | 02:07:13.990-02:07:18.989 | Sculpit]'
+- from: gray Dragon Eck
+  to: great dragonet
+  count: 1
+  headers:
+  - '[u0860 | 01:15:15.700-01:15:33.350 | DM]'
+- from: growing
+  to: glowing
+  count: 1
+  headers:
+  - '[u1925 | 02:43:06.090-02:43:06.890 | Zeno]'
+- from: hand
+  to: Hand
+  count: 1
+  headers:
+  - '[u0997 | 01:27:46.860-01:27:52.060 | Heska]'
+- from: handballs
+  to: pebbles
+  count: 1
+  headers:
+  - '[u0681 | 01:00:14.860-01:00:18.100 | Sculpit]'
+- from: he
+  to: she
+  count: 1
+  headers:
+  - '[u0691 | 01:00:50.670-01:00:55.149 | DM]'
+- from: head
+  to: hand
+  count: 1
+  headers:
+  - '[u0699 | 01:01:29.880-01:01:37.570 | Sculpit]'
+- from: hell
+  to: he ' ll
+  count: 1
+  headers:
+  - '[u0177 | 00:18:27.580-00:18:37.179 | Heska]'
+- from: him
+  to: them
+  count: 1
+  headers:
+  - '[u0641 | 00:57:50.710-00:57:52.789 | Sculpit]'
+- from: huggedly say
+  to: hug this egg
+  count: 1
+  headers:
+  - '[u1918 | 02:42:24.440-02:42:34.310 | DM]'
+- from: in
+  to: and
+  count: 1
+  headers:
+  - '[u0877 | 01:17:39.880-01:17:48.370 | DM]'
+- from: in bolts
+  to: and bolt
+  count: 1
+  headers:
+  - '[u1585 | 02:16:23.860-02:16:27.430 | Little Tony]'
+- from: it
+  to: he
+  count: 1
+  headers:
+  - '[u1431 | 02:03:21.280-02:03:27.890 | Heska]'
+- from: it
+  to: out
+  count: 1
+  headers:
+  - '[u1673 | 02:23:19.510-02:23:26.959 | Little Tony]'
+- from: kept … limbs
+  to: caught a glimpse
+  count: 1
+  headers:
+  - '[u1591 | 02:16:42.020-02:16:43.730 | Heska]'
+- from: launchers
+  to: launches
+  count: 1
+  headers:
+  - '[u0965 | 01:24:42.360-01:25:02.350 | DM]'
+- from: light
+  to: lights
+  count: 1
+  headers:
+  - '[u2137 | 03:00:42.750-03:00:46.410 | DM]'
+- from: lip
+  to: whip
+  count: 1
+  headers:
+  - '[u0590 | 00:53:29.720-00:53:34.569 | Heska]'
+- from: locked
+  to: act
+  count: 1
+  headers:
+  - '[u0487 | 00:47:25.330-00:47:26.750 | Heska]'
+- from: lost
+  to: last
+  count: 1
+  headers:
+  - '[u2024 | 02:50:03.210-02:50:06.519 | DM]'
+- from: low
+  to: glow
+  count: 1
+  headers:
+  - '[u1726 | 02:26:50.720-02:26:53.329 | Zeno]'
+- from: max
+  to: knacks
+  count: 1
+  headers:
+  - '[u1230 | 01:48:01.390-01:48:02.490 | Heska]'
+- from: me
+  to: you
+  count: 1
+  headers:
+  - '[u0511 | 00:48:28.960-00:48:33.839 | Sculpit]'
+- from: mike
+  to: Mike
+  count: 1
+  headers:
+  - '[u2113 | 02:58:49.080-02:58:59.559 | DM]'
+- from: mobbing
+  to: mopping
+  count: 1
+  headers:
+  - '[u0370 | 00:39:51.880-00:40:03.949 | Little Tony]'
+- from: month
+  to: moment
+  count: 1
+  headers:
+  - '[u0834 | 01:11:54.460-01:12:02.309 | DM]'
+- from: neck
+  to: knack
+  count: 1
+  headers:
+  - '[u0939 | 01:22:52.800-01:22:58.319 | Zeno]'
+- from: nobody
+  to: buddy
+  count: 1
+  headers:
+  - '[u1005 | 01:28:27.020-01:28:28.770 | Little Tony]'
+- from: open
+  to: opening
+  count: 1
+  headers:
+  - '[u0246 | 00:26:46.540-00:26:59.249 | DM]'
+- from: our
+  to: her
+  count: 1
+  headers:
+  - '[u0346 | 00:37:45.490-00:37:50.779 | Sculpit]'
+- from: passed
+  to: cast
+  count: 1
+  headers:
+  - '[u0987 | 01:27:06.480-01:27:15.030 | Heska]'
+- from: people
+  to: pupil
+  count: 1
+  headers:
+  - '[u0969 | 01:25:32.180-01:25:37.049 | DM]'
+- from: phone
+  to: one
+  count: 1
+  headers:
+  - '[u1342 | 01:54:56.830-01:54:59.529 | DM]'
+- from: phone
+  to: phony
+  count: 1
+  headers:
+  - '[u1371 | 01:56:32.930-01:56:35.879 | DM]'
+- from: piece
+  to: peace
+  count: 1
+  headers:
+  - '[u1640 | 02:20:32.500-02:20:38.890 | DM]'
+- from: poem
+  to: palm
+  count: 1
+  headers:
+  - '[u0055 | 00:05:29.760-00:05:48.139 | DM]'
+- from: pretty one
+  to: Pretty One
+  count: 1
+  headers:
+  - '[u0019 | 00:01:56.690-00:01:58.669 | DM]'
+- from: quiet
+  to: client
+  count: 1
+  headers:
+  - '[u0129 | 00:13:42.950-00:13:48.949 | Sculpit]'
+- from: repairing
+  to: preparing
+  count: 1
+  headers:
+  - '[u1491 | 02:08:35.810-02:08:41.479 | Zeno]'
+- from: robe
+  to: row
+  count: 1
+  headers:
+  - '[u0951 | 01:23:46.080-01:24:02.110 | DM]'
+- from: roles
+  to: rolls
+  count: 1
+  headers:
+  - '[u2169 | 03:02:11.310-03:02:16.730 | DM]'
+- from: run
+  to: rhyme
+  count: 1
+  headers:
+  - '[u1146 | 01:41:41.380-01:41:52.170 | Zeno]'
+- from: rune
+  to: round
+  count: 1
+  headers:
+  - '[u1349 | 01:55:18.220-01:55:21.860 | Zeno]'
+- from: scope it
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0687 | 01:00:34.610-01:00:39.040 | Little Tony]'
+- from: sculpit
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0047 | 00:05:00.230-00:05:07.459 | DM]'
+- from: sculpted
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0126 | 00:13:33.450-00:13:39.980 | Sculpit]'
+- from: section
+  to: statue
+  count: 1
+  headers:
+  - '[u1660 | 02:22:20.080-02:22:20.750 | Sculpit]'
+- from: seen as
+  to: Zeno ' s
+  count: 1
+  headers:
+  - '[u0183 | 00:19:13.120-00:19:24.780 | Heska]'
+- from: servant
+  to: Servant
+  count: 1
+  headers:
+  - '[u0626 | 00:56:35.100-00:56:42.970 | Heska]'
+- from: show me
+  to: shine
+  count: 1
+  headers:
+  - '[u0907 | 01:20:59.820-01:21:01.090 | DM]'
+- from: sick
+  to: psyched
+  count: 1
+  headers:
+  - '[u1454 | 02:04:45.990-02:04:59.459 | Little Tony]'
+- from: sick breath
+  to: Sick Burn
+  count: 1
+  headers:
+  - '[u1254 | 01:49:16.980-01:49:21.129 | Zeno]'
+- from: sill
+  to: hustle
+  count: 1
+  headers:
+  - '[u0110 | 00:11:06.830-00:11:24.079 | Sculpit]'
+- from: skull
+  to: Sculpit
+  count: 1
+  headers:
+  - '[u0989 | 01:27:19.870-01:27:21.750 | Little Tony]'
+- from: slate
+  to: Sleight
+  count: 1
+  headers:
+  - '[u0997 | 01:27:46.860-01:27:52.060 | Heska]'
+- from: soccer
+  to: smaller
+  count: 1
+  headers:
+  - '[u1668 | 02:22:55.420-02:22:57.860 | DM]'
+- from: solid
+  to: softer
+  count: 1
+  headers:
+  - '[u1619 | 02:18:29.770-02:18:36.120 | DM]'
+- from: sped
+  to: spout
+  count: 1
+  headers:
+  - '[u0123 | 00:13:11.950-00:13:28.189 | Sculpit]'
+- from: spring
+  to: sprig
+  count: 1
+  headers:
+  - '[u0885 | 01:18:42.060-01:18:45.110 | DM]'
+- from: step,
+  to: stuff
+  count: 1
+  headers:
+  - '[u1383 | 01:58:02.380-01:58:07.539 | Heska]'
+- from: submission
+  to: it ' s mission
+  count: 1
+  headers:
+  - '[u0727 | 01:04:05.220-01:04:11.229 | Zeno]'
+- from: t sculpits!
+  to: s
+  count: 1
+  headers:
+  - '[u0100 | 00:10:13.780-00:10:15.030 | Sculpit]'
+- from: tangle
+  to: Tangle
+  count: 1
+  headers:
+  - '[u0022 | 00:02:04.270-00:02:06.500 | DM]'
+- from: that
+  to: than
+  count: 1
+  headers:
+  - '[u0493 | 00:47:45.850-00:47:50.009 | Sculpit]'
+- from: the
+  to: a
+  count: 1
+  headers:
+  - '[u1838 | 02:36:18.490-02:36:25.780 | Zeno]'
+- from: the car
+  to: Taelgar
+  count: 1
+  headers:
+  - '[u0840 | 01:12:20.040-01:12:26.820 | Little Tony]'
+- from: the tech spots
+  to: detects thoughts
+  count: 1
+  headers:
+  - '[u1841 | 02:36:34.250-02:36:36.070 | Sculpit]'
+- from: unspeakably
+  to: unmistakably
+  count: 1
+  headers:
+  - '[u1579 | 02:15:39.640-02:15:48.229 | DM]'
+- from: up
+  to: out
+  count: 1
+  headers:
+  - '[u2031 | 02:50:32.560-02:50:51.249 | DM]'
+- from: verdict
+  to: burden
+  count: 1
+  headers:
+  - '[u0209 | 00:21:58.880-00:22:15.800 | DM]'
+- from: villiant
+  to: brilliant
+  count: 1
+  headers:
+  - '[u0417 | 00:43:41.980-00:43:45.049 | Sculpit]'
+- from: voice.
+  to: voices
+  count: 1
+  headers:
+  - '[u0089 | 00:09:26.420-00:09:26.940 | DM]'
+- from: watching
+  to: walking
+  count: 1
+  headers:
+  - '[u0530 | 00:49:49.680-00:49:51.190 | Sculpit]'
+- from: we ' ll
+  to: will
+  count: 1
+  headers:
+  - '[u0188 | 00:19:42.360-00:20:00.800 | Heska]'
+- from: what
+  to: where
+  count: 1
+  headers:
+  - '[u1190 | 01:44:58.970-01:45:07.640 | DM]'
+- from: who
+  to: to
+  count: 1
+  headers:
+  - '[u0118 | 00:12:14.410-00:12:33.299 | Sculpit]'
+- from: width
+  to: whip
+  count: 1
+  headers:
+  - '[u0600 | 00:54:07.200-00:54:13.340 | Sculpit]'
+- from: wrongs
+  to: rocks
+  count: 1
+  headers:
+  - '[u0377 | 00:40:30.420-00:40:38.410 | Sculpit]'
+- from: you
+  to: it
+  count: 1
+  headers:
+  - '[u1794 | 02:32:42.530-02:32:44.209 | Heska]'
+- from: zeno
+  to: Zeno
+  count: 1
+  headers:
+  - '[u1289 | 01:50:52.920-01:50:58.800 | DM]'
+repeatedReplacements:
+- from: Rosa
+  to: Rosca
+  count: 24
+  headers:
+  - '[u1145 | 01:41:32.520-01:41:41.239 | Zeno]'
+  - '[u1146 | 01:41:41.380-01:41:52.170 | Zeno]'
+  - '[u1150 | 01:42:09.860-01:42:16.650 | DM]'
+  - '[u1151 | 01:42:16.650-01:42:21.869 | DM]'
+  - '[u1185 | 01:44:34.350-01:44:47.650 | DM]'
+  - '[u1189 | 01:44:54.570-01:44:58.769 | DM]'
+  - '[u1202 | 01:46:30.500-01:46:34.850 | DM]'
+  - '[u1205 | 01:46:43.150-01:46:48.240 | DM]'
+  - '[u1281 | 01:50:32.560-01:50:37.380 | DM]'
+  - '[u1297 | 01:51:15.170-01:51:23.259 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1311 | 01:52:23.420-01:52:25.160 | DM]'
+  - '[u1312 | 01:52:26.710-01:52:38.479 | DM]'
+  - '[u1314 | 01:52:45.410-01:52:56.139 | DM]'
+  - '[u1325 | 01:53:29.410-01:53:47.469 | DM]'
+  - '[u1328 | 01:54:00.060-01:54:19.799 | DM]'
+  - '[u1371 | 01:56:32.930-01:56:35.879 | DM]'
+  - '[u1374 | 01:56:40.810-01:56:49.719 | DM]'
+- from: little
+  to: Little
+  count: 23
+  headers:
+  - '[u0064 | 00:07:01.050-00:07:05.870 | Little Tony]'
+  - '[u0079 | 00:08:13.320-00:08:21.769 | Little Tony]'
+  - '[u0098 | 00:10:09.860-00:10:11.429 | DM]'
+  - '[u0101 | 00:10:15.330-00:10:25.879 | Sculpit]'
+  - '[u0118 | 00:12:14.410-00:12:33.299 | Sculpit]'
+  - '[u0209 | 00:21:58.880-00:22:15.800 | DM]'
+  - '[u0214 | 00:22:54.380-00:23:13.370 | Little Tony]'
+  - '[u0268 | 00:31:10.400-00:31:18.630 | DM]'
+  - '[u0535 | 00:50:06.690-00:50:07.489 | Sculpit]'
+  - '[u0536 | 00:50:07.490-00:50:09.319 | Little Tony]'
+  - '[u0552 | 00:50:56.770-00:51:00.709 | DM]'
+  - '[u0669 | 00:59:32.310-00:59:39.490 | DM]'
+  - '[u0691 | 01:00:50.670-01:00:55.149 | DM]'
+  - '[u0767 | 01:07:18.190-01:07:24.960 | DM]'
+  - '[u0781 | 01:08:06.610-01:08:08.440 | Zeno]'
+  - '[u0829 | 01:11:29.450-01:11:43.439 | Little Tony]'
+  - '[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]'
+  - '[u0845 | 01:13:04.710-01:13:24.010 | DM]'
+  - '[u1019 | 01:30:05.710-01:30:26.639 | DM]'
+  - '[u1359 | 01:55:43.370-01:55:45.830 | DM]'
+  - '[u1377 | 01:57:07.720-01:57:29.990 | DM]'
+  - '[u1924 | 02:42:59.510-02:43:05.610 | Zeno]'
+  - '[u1931 | 02:43:17.730-02:43:20.060 | Zeno]'
+- from: Dragonette
+  to: dragonet
+  count: 13
+  headers:
+  - '[u0016 | 00:01:37.160-00:01:48.679 | DM]'
+  - '[u0023 | 00:02:07.810-00:02:12.990 | DM]'
+  - '[u0143 | 00:15:21.030-00:15:26.010 | DM]'
+  - '[u0852 | 01:14:16.740-01:14:31.560 | DM]'
+  - '[u0859 | 01:15:10.150-01:15:15.679 | DM]'
+  - '[u0865 | 01:16:04.340-01:16:08.659 | DM]'
+  - '[u0947 | 01:23:19.420-01:23:31.170 | DM]'
+  - '[u1179 | 01:44:02.470-01:44:17.879 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1942 | 02:43:51.800-02:44:09.399 | DM]'
+  - '[u2036 | 02:51:12.840-02:51:15.279 | DM]'
+  - '[u2064 | 02:53:34.300-02:53:44.820 | DM]'
+  - '[u2188 | 03:03:11.310-03:03:20.100 | DM]'
+- from: dragonette
+  to: dragonet
+  count: 13
+  headers:
+  - '[u0026 | 00:02:33.000-00:02:46.130 | DM]'
+  - '[u0027 | 00:02:46.700-00:02:57.449 | DM]'
+  - '[u0201 | 00:21:11.430-00:21:20.649 | Heska]'
+  - '[u0269 | 00:31:18.750-00:31:40.740 | DM]'
+  - '[u0396 | 00:41:50.470-00:42:04.229 | DM]'
+  - '[u0633 | 00:57:05.910-00:57:11.720 | Heska]'
+  - '[u0755 | 01:06:02.280-01:06:12.869 | Little Tony]'
+  - '[u0874 | 01:17:14.330-01:17:24.580 | DM]'
+  - '[u0922 | 01:21:42.760-01:21:51.740 | DM]'
+  - '[u2010 | 02:49:09.040-02:49:13.279 | DM]'
+  - '[u2011 | 02:49:15.070-02:49:16.500 | DM]'
+  - '[u2022 | 02:49:51.610-02:49:58.439 | DM]'
+  - '[u2029 | 02:50:21.410-02:50:28.810 | DM]'
+- from: Zaire
+  to: Zare
+  count: 12
+  headers:
+  - '[u0767 | 01:07:18.190-01:07:24.960 | DM]'
+  - '[u0771 | 01:07:42.060-01:07:49.799 | DM]'
+  - '[u0800 | 01:09:14.539-01:09:19.739 | DM]'
+  - '[u0808 | 01:09:35.830-01:09:49.089 | DM]'
+  - '[u0810 | 01:09:52.970-01:09:58.769 | DM]'
+  - '[u0819 | 01:10:39.800-01:10:41.800 | DM]'
+  - '[u0827 | 01:11:13.440-01:11:25.260 | DM]'
+  - '[u0844 | 01:12:51.280-01:13:04.040 | DM]'
+  - '[u0845 | 01:13:04.710-01:13:24.010 | DM]'
+- from: Dragonettes
+  to: dragonets
+  count: 11
+  headers:
+  - '[u0011 | 00:01:00.690-00:01:08.760 | DM]'
+  - '[u0014 | 00:01:19.670-00:01:29.269 | DM]'
+  - '[u0033 | 00:03:38.440-00:03:52.020 | DM]'
+  - '[u0063 | 00:06:57.340-00:07:00.829 | Little Tony]'
+  - '[u0116 | 00:12:04.570-00:12:09.610 | Sculpit]'
+  - '[u0857 | 01:14:58.970-01:15:05.869 | DM]'
+  - '[u1122 | 01:39:29.950-01:39:42.500 | DM]'
+  - '[u1127 | 01:39:50.210-01:40:04.190 | DM]'
+  - '[u1179 | 01:44:02.470-01:44:17.879 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1942 | 02:43:51.800-02:44:09.399 | DM]'
+- from: Sculptit
+  to: Sculpit
+  count: 10
+  headers:
+  - '[u0251 | 00:27:52.370-00:28:02.280 | DM]'
+  - '[u0257 | 00:29:15.510-00:29:21.360 | DM]'
+  - '[u0268 | 00:31:10.400-00:31:18.630 | DM]'
+  - '[u0343 | 00:37:21.370-00:37:27.429 | DM]'
+  - '[u0407 | 00:42:58.860-00:43:00.950 | DM]'
+  - '[u0709 | 01:02:04.800-01:02:28.680 | DM]'
+  - '[u0968 | 01:25:07.840-01:25:32.139 | DM]'
+  - '[u1192 | 01:45:08.780-01:45:19.539 | DM]'
+  - '[u1198 | 01:46:08.690-01:46:22.990 | DM]'
+  - '[u1557 | 02:14:17.440-02:14:18.650 | DM]'
+- from: dragonettes
+  to: dragonets
+  count: 9
+  headers:
+  - '[u0025 | 00:02:26.810-00:02:32.770 | DM]'
+  - '[u0026 | 00:02:33.000-00:02:46.130 | DM]'
+  - '[u0035 | 00:03:56.150-00:04:04.470 | DM]'
+  - '[u0266 | 00:30:36.950-00:30:59.360 | DM]'
+  - '[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]'
+  - '[u1669 | 02:22:57.860-02:23:06.479 | Heska]'
+  - '[u1827 | 02:35:15.140-02:35:30.550 | DM]'
+  - '[u1880 | 02:39:33.440-02:39:43.339 | DM]'
+- from: wanderer
+  to: Wanderer
+  count: 9
+  headers:
+  - '[u0020 | 00:01:59.060-00:02:01.329 | DM]'
+  - '[u0042 | 00:04:36.510-00:04:45.139 | DM]'
+  - '[u0254 | 00:28:32.370-00:28:44.470 | DM]'
+  - '[u1590 | 02:16:39.280-02:16:41.190 | Sculpit]'
+  - '[u1718 | 02:26:09.830-02:26:17.350 | DM]'
+  - '[u1720 | 02:26:25.550-02:26:27.120 | DM]'
+  - '[u1989 | 02:47:52.520-02:47:55.179 | DM]'
+  - '[u2081 | 02:55:17.500-02:55:31.590 | DM]'
+  - '[u2134 | 03:00:33.900-03:00:39.490 | DM]'
+- from: Zena
+  to: Xena
+  count: 8
+  headers:
+  - '[u0261 | 00:29:47.860-00:29:57.659 | DM]'
+  - '[u0483 | 00:47:01.630-00:47:10.600 | Sculpit]'
+  - '[u0604 | 00:54:34.390-00:54:40.880 | Sculpit]'
+  - '[u0849 | 01:13:48.240-01:14:03.149 | DM]'
+  - '[u0984 | 01:26:52.830-01:26:53.860 | DM]'
+  - '[u1058 | 01:34:15.630-01:34:21.040 | DM]'
+  - '[u1108 | 01:38:06.530-01:38:16.019 | DM]'
+  - '[u1113 | 01:38:30.340-01:38:36.189 | DM]'
+- from: Dragonet
+  to: dragonet
+  count: 7
+  headers:
+  - '[u0030 | 00:03:18.400-00:03:26.199 | DM]'
+  - '[u0260 | 00:29:33.430-00:29:47.250 | DM]'
+  - '[u1120 | 01:39:08.590-01:39:23.339 | DM]'
+  - '[u1193 | 01:45:19.830-01:45:29.549 | DM]'
+  - '[u1379 | 01:57:34.330-01:57:43.149 | DM]'
+  - '[u2191 | 03:03:35.230-03:03:52.549 | DM]'
+- from: Huska
+  to: Heska
+  count: 6
+  headers:
+  - '[u0149 | 00:15:51.400-00:15:53.860 | DM]'
+  - '[u0221 | 00:23:51.980-00:24:00.210 | Heska]'
+  - '[u0341 | 00:37:13.270-00:37:19.470 | Zeno]'
+  - '[u0611 | 00:55:14.220-00:55:19.860 | Heska]'
+  - '[u0934 | 01:22:18.710-01:22:25.189 | DM]'
+  - '[u1038 | 01:32:53.090-01:32:56.090 | DM]'
+- from: role
+  to: roll
+  count: 6
+  headers:
+  - '[u0613 | 00:55:25.700-00:55:28.340 | Heska]'
+  - '[u0980 | 01:26:38.270-01:26:40.920 | Heska]'
+  - '[u1258 | 01:49:26.100-01:49:31.969 | Heska]'
+  - '[u1267 | 01:49:52.780-01:49:55.440 | Heska]'
+  - '[u1286 | 01:50:47.210-01:50:49.889 | DM]'
+  - '[u1864 | 02:38:12.960-02:38:16.430 | DM]'
+- from: Raska
+  to: Rosca
+  count: 5
+  headers:
+  - '[u1278 | 01:50:13.970-01:50:28.539 | DM]'
+  - '[u1305 | 01:51:43.220-01:52:05.949 | DM]'
+  - '[u1404 | 01:59:25.650-01:59:40.029 | DM]'
+  - '[u1497 | 02:09:20.290-02:09:24.050 | Zeno]'
+- from: Sculpt it
+  to: Sculpit
+  count: 5
+  headers:
+  - '[u0099 | 00:10:12.440-00:10:13.540 | DM]'
+  - '[u0695 | 01:01:01.570-01:01:17.309 | DM]'
+  - '[u1470 | 02:06:52.450-02:07:03.470 | DM]'
+  - '[u1544 | 02:13:28.760-02:13:37.010 | DM]'
+  - '[u1546 | 02:13:43.090-02:13:44.849 | DM]'
+- from: Dragon Nets
+  to: dragonets
+  count: 4
+  headers:
+  - '[u0851 | 01:14:07.610-01:14:16.200 | DM]'
+  - '[u0894 | 01:19:29.930-01:19:42.189 | DM]'
+  - '[u1030 | 01:31:29.990-01:31:38.810 | DM]'
+  - '[u1140 | 01:40:58.460-01:41:02.120 | DM]'
+- from: Lil
+  to: Little
+  count: 4
+  headers:
+  - '[u0259 | 00:29:25.250-00:29:33.429 | DM]'
+  - '[u0390 | 00:41:20.540-00:41:31.669 | DM]'
+  - '[u1547 | 02:13:46.330-02:13:56.249 | DM]'
+  - '[u1689 | 02:24:18.820-02:24:24.190 | DM]'
+- from: Lil '
+  to: Little
+  count: 4
+  headers:
+  - '[u0139 | 00:14:41.490-00:14:50.810 | DM]'
+  - '[u0534 | 00:50:02.200-00:50:06.690 | DM]'
+  - '[u0779 | 01:08:03.230-01:08:04.610 | DM]'
+  - '[u1902 | 02:40:53.530-02:40:59.350 | DM]'
+- from: Roscoe
+  to: Rosca
+  count: 4
+  headers:
+  - '[u1128 | 01:40:05.660-01:40:08.330 | DM]'
+  - '[u1245 | 01:48:35.170-01:48:42.669 | DM]'
+  - '[u1353 | 01:55:26.900-01:55:28.640 | DM]'
+  - '[u1376 | 01:56:55.650-01:57:04.769 | DM]'
+- from: sculpt it
+  to: Sculpit
+  count: 4
+  headers:
+  - '[u0271 | 00:31:42.510-00:31:44.420 | DM]'
+  - '[u0396 | 00:41:50.470-00:42:04.229 | DM]'
+  - '[u1470 | 02:06:52.450-02:07:03.470 | DM]'
+- from: Dragonite
+  to: dragonet
+  count: 3
+  headers:
+  - '[u0079 | 00:08:13.320-00:08:21.769 | Little Tony]'
+  - '[u0246 | 00:26:46.540-00:26:59.249 | DM]'
+  - '[u0249 | 00:27:28.400-00:27:47.019 | DM]'
+- from: Haske
+  to: Heska
+  count: 3
+  headers:
+  - '[u1414 | 02:01:00.700-02:01:06.579 | Heska]'
+  - '[u1426 | 02:02:39.360-02:02:48.310 | Heska]'
+  - '[u1442 | 02:04:03.080-02:04:11.510 | Heska]'
+- from: Peska
+  to: Heska
+  count: 3
+  headers:
+  - '[u0036 | 00:04:05.360-00:04:07.610 | DM]'
+  - '[u0221 | 00:23:51.980-00:24:00.210 | Heska]'
+  - '[u1333 | 01:54:25.180-01:54:32.139 | DM]'
+- from: Xena
+  to: Zeno
+  count: 3
+  headers:
+  - '[u0147 | 00:15:42.620-00:15:46.149 | DM]'
+  - '[u0442 | 00:45:16.330-00:45:18.440 | Zeno]'
+  - '[u0808 | 01:09:35.830-01:09:49.089 | DM]'
+- from: Xeno
+  to: Zeno
+  count: 3
+  headers:
+  - '[u0313 | 00:35:36.570-00:35:39.570 | DM]'
+  - '[u1378 | 01:57:29.990-01:57:34.330 | DM]'
+  - '[u1604 | 02:17:21.290-02:17:22.629 | DM]'
+- from: dragon ants
+  to: dragonets
+  count: 3
+  headers:
+  - '[u1097 | 01:36:43.080-01:36:50.339 | Sculpit]'
+  - '[u1418 | 02:01:24.060-02:01:36.729 | DM]'
+  - '[u2051 | 02:52:19.030-02:52:28.109 | DM]'
+- from: dragon nets
+  to: dragonets
+  count: 3
+  headers:
+  - '[u0868 | 01:16:34.440-01:16:44.189 | DM]'
+  - '[u0877 | 01:17:39.880-01:17:48.370 | DM]'
+  - '[u1661 | 02:22:21.090-02:22:29.510 | DM]'
+- from: Aska
+  to: Heska
+  count: 2
+  headers:
+  - '[u0524 | 00:49:22.200-00:49:33.320 | Heska]'
+  - '[u1578 | 02:15:34.730-02:15:39.390 | DM]'
+- from: Dino
+  to: Zeno
+  count: 2
+  headers:
+  - '[u0183 | 00:19:13.120-00:19:24.780 | Heska]'
+  - '[u0447 | 00:45:27.250-00:45:29.250 | Heska]'
+- from: Dragon Egg
+  to: dragonet
+  count: 2
+  headers:
+  - '[u0218 | 00:23:30.040-00:23:44.900 | DM]'
+  - '[u0880 | 01:18:02.030-01:18:12.360 | DM]'
+- from: Dragonhead
+  to: dragonet
+  count: 2
+  headers:
+  - '[u0208 | 00:21:51.800-00:21:58.430 | DM]'
+  - '[u0948 | 01:23:31.520-01:23:42.329 | DM]'
+- from: Eska
+  to: Heska
+  count: 2
+  headers:
+  - '[u0320 | 00:35:59.890-00:36:04.629 | Zeno]'
+  - '[u1415 | 02:01:07.820-02:01:10.720 | Zeno]'
+- from: Hasco
+  to: Heska
+  count: 2
+  headers:
+  - '[u0484 | 00:47:11.660-00:47:17.030 | Sculpit]'
+  - '[u0976 | 01:26:21.640-01:26:24.769 | Heska]'
+- from: Sybil
+  to: Sibyl
+  count: 2
+  headers:
+  - '[u0012 | 00:01:09.260-00:01:14.799 | DM]'
+  - '[u0019 | 00:01:56.690-00:01:58.669 | DM]'
+- from: Tina
+  to: Xena
+  count: 2
+  headers:
+  - '[u0441 | 00:45:14.050-00:45:15.290 | Sculpit]'
+- from: You know
+  to: Zeno
+  count: 2
+  headers:
+  - '[u0531 | 00:49:51.190-00:49:53.339 | Heska]'
+  - '[u1602 | 02:17:17.200-02:17:18.899 | DM]'
+- from: Zaer
+  to: Zare
+  count: 2
+  headers:
+  - '[u0726 | 01:03:49.290-01:04:03.870 | DM]'
+- from: crap
+  to: crab
+  count: 2
+  headers:
+  - '[u0322 | 00:36:09.620-00:36:11.679 | DM]'
+  - '[u0329 | 00:36:28.580-00:36:30.969 | DM]'
+- from: dragon head
+  to: dragonet
+  count: 2
+  headers:
+  - '[u1185 | 01:44:34.350-01:44:47.650 | DM]'
+  - '[u2027 | 02:50:13.750-02:50:17.070 | DM]'
+- from: dragonett
+  to: dragonet
+  count: 2
+  headers:
+  - '[u0338 | 00:36:53.400-00:36:59.160 | Zeno]'
+  - '[u0820 | 01:10:42.630-01:10:51.029 | DM]'
+- from: gotta scope
+  to: got
+  count: 2
+  headers:
+  - '[u0687 | 01:00:34.610-01:00:39.040 | Little Tony]'
+- from: mother
+  to: Mother
+  count: 2
+  headers:
+  - '[u0016 | 00:01:37.160-00:01:48.679 | DM]'
+  - '[u0867 | 01:16:26.280-01:16:34.330 | DM]'
+- from: pick
+  to: think
+  count: 2
+  headers:
+  - '[u0299 | 00:34:43.579-00:34:45.559 | Sculpit]'
+- from: sculpt
+  to: Sculpit
+  count: 2
+  headers:
+  - '[u0451 | 00:45:31.870-00:45:35.279 | DM]'
+  - '[u1955 | 02:45:15.020-02:45:15.930 | Zeno]'
+- from: wildling
+  to: Wildling
+  count: 2
+  headers:
+  - '[u0022 | 00:02:04.270-00:02:06.500 | DM]'
+  - '[u0254 | 00:28:32.370-00:28:44.470 | DM]'
+- from: worldling
+  to: Wyrdling
+  count: 2
+  headers:
+  - '[u0013 | 00:01:14.940-00:01:18.000 | DM]'
+  - '[u0021 | 00:02:01.710-00:02:03.909 | DM]'
+unresolvedPhrases: []

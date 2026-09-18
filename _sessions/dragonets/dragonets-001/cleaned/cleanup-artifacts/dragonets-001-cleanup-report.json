@@ -1,0 +1,2795 @@
+{
+  "summary": {
+    "changedLineCount": 431,
+    "replacementCount": 316,
+    "repeatedReplacementCount": 46,
+    "topReplacements": [
+      {
+        "from": "Rosa",
+        "to": "Rosca",
+        "count": 24,
+        "headers": [
+          "[u1145 | 01:41:32.520-01:41:41.239 | Zeno]",
+          "[u1146 | 01:41:41.380-01:41:52.170 | Zeno]",
+          "[u1150 | 01:42:09.860-01:42:16.650 | DM]",
+          "[u1151 | 01:42:16.650-01:42:21.869 | DM]",
+          "[u1185 | 01:44:34.350-01:44:47.650 | DM]",
+          "[u1189 | 01:44:54.570-01:44:58.769 | DM]",
+          "[u1202 | 01:46:30.500-01:46:34.850 | DM]",
+          "[u1205 | 01:46:43.150-01:46:48.240 | DM]",
+          "[u1281 | 01:50:32.560-01:50:37.380 | DM]",
+          "[u1297 | 01:51:15.170-01:51:23.259 | DM]",
+          "[u1305 | 01:51:43.220-01:52:05.949 | DM]",
+          "[u1311 | 01:52:23.420-01:52:25.160 | DM]",
+          "[u1312 | 01:52:26.710-01:52:38.479 | DM]",
+          "[u1314 | 01:52:45.410-01:52:56.139 | DM]",
+          "[u1325 | 01:53:29.410-01:53:47.469 | DM]",
+          "[u1328 | 01:54:00.060-01:54:19.799 | DM]",
+          "[u1371 | 01:56:32.930-01:56:35.879 | DM]",
+          "[u1374 | 01:56:40.810-01:56:49.719 | DM]"
+        ]
+      },
+      {
+        "from": "little",
+        "to": "Little",
+        "count": 23,
+        "headers": [
+          "[u0064 | 00:07:01.050-00:07:05.870 | Little Tony]",
+          "[u0079 | 00:08:13.320-00:08:21.769 | Little Tony]",
+          "[u0098 | 00:10:09.860-00:10:11.429 | DM]",
+          "[u0101 | 00:10:15.330-00:10:25.879 | Sculpit]",
+          "[u0118 | 00:12:14.410-00:12:33.299 | Sculpit]",
+          "[u0209 | 00:21:58.880-00:22:15.800 | DM]",
+          "[u0214 | 00:22:54.380-00:23:13.370 | Little Tony]",
+          "[u0268 | 00:31:10.400-00:31:18.630 | DM]",
+          "[u0535 | 00:50:06.690-00:50:07.489 | Sculpit]",
+          "[u0536 | 00:50:07.490-00:50:09.319 | Little Tony]",
+          "[u0552 | 00:50:56.770-00:51:00.709 | DM]",
+          "[u0669 | 00:59:32.310-00:59:39.490 | DM]",
+          "[u0691 | 01:00:50.670-01:00:55.149 | DM]",
+          "[u0767 | 01:07:18.190-01:07:24.960 | DM]",
+          "[u0781 | 01:08:06.610-01:08:08.440 | Zeno]",
+          "[u0829 | 01:11:29.450-01:11:43.439 | Little Tony]",
+          "[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]",
+          "[u0845 | 01:13:04.710-01:13:24.010 | DM]",
+          "[u1019 | 01:30:05.710-01:30:26.639 | DM]",
+          "[u1359 | 01:55:43.370-01:55:45.830 | DM]",
+          "[u1377 | 01:57:07.720-01:57:29.990 | DM]",
+          "[u1924 | 02:42:59.510-02:43:05.610 | Zeno]",
+          "[u1931 | 02:43:17.730-02:43:20.060 | Zeno]"
+        ]
+      },
+      {
+        "from": "Dragonette",
+        "to": "dragonet",
+        "count": 13,
+        "headers": [
+          "[u0016 | 00:01:37.160-00:01:48.679 | DM]",
+          "[u0023 | 00:02:07.810-00:02:12.990 | DM]",
+          "[u0143 | 00:15:21.030-00:15:26.010 | DM]",
+          "[u0852 | 01:14:16.740-01:14:31.560 | DM]",
+          "[u0859 | 01:15:10.150-01:15:15.679 | DM]",
+          "[u0865 | 01:16:04.340-01:16:08.659 | DM]",
+          "[u0947 | 01:23:19.420-01:23:31.170 | DM]",
+          "[u1179 | 01:44:02.470-01:44:17.879 | DM]",
+          "[u1305 | 01:51:43.220-01:52:05.949 | DM]",
+          "[u1942 | 02:43:51.800-02:44:09.399 | DM]",
+          "[u2036 | 02:51:12.840-02:51:15.279 | DM]",
+          "[u2064 | 02:53:34.300-02:53:44.820 | DM]",
+          "[u2188 | 03:03:11.310-03:03:20.100 | DM]"
+        ]
+      },
+      {
+        "from": "dragonette",
+        "to": "dragonet",
+        "count": 13,
+        "headers": [
+          "[u0026 | 00:02:33.000-00:02:46.130 | DM]",
+          "[u0027 | 00:02:46.700-00:02:57.449 | DM]",
+          "[u0201 | 00:21:11.430-00:21:20.649 | Heska]",
+          "[u0269 | 00:31:18.750-00:31:40.740 | DM]",
+          "[u0396 | 00:41:50.470-00:42:04.229 | DM]",
+          "[u0633 | 00:57:05.910-00:57:11.720 | Heska]",
+          "[u0755 | 01:06:02.280-01:06:12.869 | Little Tony]",
+          "[u0874 | 01:17:14.330-01:17:24.580 | DM]",
+          "[u0922 | 01:21:42.760-01:21:51.740 | DM]",
+          "[u2010 | 02:49:09.040-02:49:13.279 | DM]",
+          "[u2011 | 02:49:15.070-02:49:16.500 | DM]",
+          "[u2022 | 02:49:51.610-02:49:58.439 | DM]",
+          "[u2029 | 02:50:21.410-02:50:28.810 | DM]"
+        ]
+      },
+      {
+        "from": "Zaire",
+        "to": "Zare",
+        "count": 12,
+        "headers": [
+          "[u0767 | 01:07:18.190-01:07:24.960 | DM]",
+          "[u0771 | 01:07:42.060-01:07:49.799 | DM]",
+          "[u0800 | 01:09:14.539-01:09:19.739 | DM]",
+          "[u0808 | 01:09:35.830-01:09:49.089 | DM]",
+          "[u0810 | 01:09:52.970-01:09:58.769 | DM]",
+          "[u0819 | 01:10:39.800-01:10:41.800 | DM]",
+          "[u0827 | 01:11:13.440-01:11:25.260 | DM]",
+          "[u0844 | 01:12:51.280-01:13:04.040 | DM]",
+          "[u0845 | 01:13:04.710-01:13:24.010 | DM]"
+        ]
+      },
+      {
+        "from": "Dragonettes",
+        "to": "dragonets",
+        "count": 11,
+        "headers": [
+          "[u0011 | 00:01:00.690-00:01:08.760 | DM]",
+          "[u0014 | 00:01:19.670-00:01:29.269 | DM]",
+          "[u0033 | 00:03:38.440-00:03:52.020 | DM]",
+          "[u0063 | 00:06:57.340-00:07:00.829 | Little Tony]",
+          "[u0116 | 00:12:04.570-00:12:09.610 | Sculpit]",
+          "[u0857 | 01:14:58.970-01:15:05.869 | DM]",
+          "[u1122 | 01:39:29.950-01:39:42.500 | DM]",
+          "[u1127 | 01:39:50.210-01:40:04.190 | DM]",
+          "[u1179 | 01:44:02.470-01:44:17.879 | DM]",
+          "[u1305 | 01:51:43.220-01:52:05.949 | DM]",
+          "[u1942 | 02:43:51.800-02:44:09.399 | DM]"
+        ]
+      },
+      {
+        "from": "Sculptit",
+        "to": "Sculpit",
+        "count": 10,
+        "headers": [
+          "[u0251 | 00:27:52.370-00:28:02.280 | DM]",
+          "[u0257 | 00:29:15.510-00:29:21.360 | DM]",
+          "[u0268 | 00:31:10.400-00:31:18.630 | DM]",
+          "[u0343 | 00:37:21.370-00:37:27.429 | DM]",
+          "[u0407 | 00:42:58.860-00:43:00.950 | DM]",
+          "[u0709 | 01:02:04.800-01:02:28.680 | DM]",
+          "[u0968 | 01:25:07.840-01:25:32.139 | DM]",
+          "[u1192 | 01:45:08.780-01:45:19.539 | DM]",
+          "[u1198 | 01:46:08.690-01:46:22.990 | DM]",
+          "[u1557 | 02:14:17.440-02:14:18.650 | DM]"
+        ]
+      },
+      {
+        "from": "dragonettes",
+        "to": "dragonets",
+        "count": 9,
+        "headers": [
+          "[u0025 | 00:02:26.810-00:02:32.770 | DM]",
+          "[u0026 | 00:02:33.000-00:02:46.130 | DM]",
+          "[u0035 | 00:03:56.150-00:04:04.470 | DM]",
+          "[u0266 | 00:30:36.950-00:30:59.360 | DM]",
+          "[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]",
+          "[u1669 | 02:22:57.860-02:23:06.479 | Heska]",
+          "[u1827 | 02:35:15.140-02:35:30.550 | DM]",
+          "[u1880 | 02:39:33.440-02:39:43.339 | DM]"
+        ]
+      },
+      {
+        "from": "wanderer",
+        "to": "Wanderer",
+        "count": 9,
+        "headers": [
+          "[u0020 | 00:01:59.060-00:02:01.329 | DM]",
+          "[u0042 | 00:04:36.510-00:04:45.139 | DM]",
+          "[u0254 | 00:28:32.370-00:28:44.470 | DM]",
+          "[u1590 | 02:16:39.280-02:16:41.190 | Sculpit]",
+          "[u1718 | 02:26:09.830-02:26:17.350 | DM]",
+          "[u1720 | 02:26:25.550-02:26:27.120 | DM]",
+          "[u1989 | 02:47:52.520-02:47:55.179 | DM]",
+          "[u2081 | 02:55:17.500-02:55:31.590 | DM]",
+          "[u2134 | 03:00:33.900-03:00:39.490 | DM]"
+        ]
+      },
+      {
+        "from": "Zena",
+        "to": "Xena",
+        "count": 8,
+        "headers": [
+          "[u0261 | 00:29:47.860-00:29:57.659 | DM]",
+          "[u0483 | 00:47:01.630-00:47:10.600 | Sculpit]",
+          "[u0604 | 00:54:34.390-00:54:40.880 | Sculpit]",
+          "[u0849 | 01:13:48.240-01:14:03.149 | DM]",
+          "[u0984 | 01:26:52.830-01:26:53.860 | DM]",
+          "[u1058 | 01:34:15.630-01:34:21.040 | DM]",
+          "[u1108 | 01:38:06.530-01:38:16.019 | DM]",
+          "[u1113 | 01:38:30.340-01:38:36.189 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 2203,
+  "changedLineCount": 431,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0004 | 00:00:22.700-00:00:27.039 | DM]",
+      "lineNumber": 4,
+      "originalText": "In a place that… The four of you know well, the circular island.",
+      "cleanedText": "In a place that… The four of you know well, the Circular Island."
+    },
+    {
+      "header": "[u0011 | 00:01:00.690-00:01:08.760 | DM]",
+      "lineNumber": 11,
+      "originalText": "And for you all, and for Dragonettes, these names are lost and meaningless, but…",
+      "cleanedText": "And for you all, and for dragonets, these names are lost and meaningless, but…"
+    },
+    {
+      "header": "[u0012 | 00:01:09.260-00:01:14.799 | DM]",
+      "lineNumber": 12,
+      "originalText": "Once upon a time, they were called the Mother, the Father, the Night Queen, the Warlord, the Sybil.",
+      "cleanedText": "Once upon a time, they were called the Mother, the Father, the Night Queen, the Warlord, the Sibyl."
+    },
+    {
+      "header": "[u0013 | 00:01:14.940-00:01:18.000 | DM]",
+      "lineNumber": 13,
+      "originalText": "The Wanderer, the worldling, and the Wildling.",
+      "cleanedText": "The Wanderer, the Wyrdling, and the Wildling."
+    },
+    {
+      "header": "[u0014 | 00:01:19.670-00:01:29.269 | DM]",
+      "lineNumber": 14,
+      "originalText": "But… For you all, as Dragonettes and as part of a very, very special and beautiful community.",
+      "cleanedText": "But… For you all, as dragonets and as part of a very, very special and beautiful community."
+    },
+    {
+      "header": "[u0016 | 00:01:37.160-00:01:48.679 | DM]",
+      "lineNumber": 16,
+      "originalText": "And as we begin, each of these 8 statues, which in Dragonette parlance have actually different names, the mother is known as the Moon Lady.",
+      "cleanedText": "And as we begin, each of these 8 statues, which in dragonet parlance have actually different names, the Mother is known as the Moon Lady."
+    },
+    {
+      "header": "[u0017 | 00:01:49.030-00:01:51.309 | DM]",
+      "lineNumber": 17,
+      "originalText": "The father is known as Brightface.",
+      "cleanedText": "The Father is known as Brightface."
+    },
+    {
+      "header": "[u0019 | 00:01:56.690-00:01:58.669 | DM]",
+      "lineNumber": 19,
+      "originalText": "The Sybil is the pretty one.",
+      "cleanedText": "The Sibyl is the Pretty One."
+    },
+    {
+      "header": "[u0020 | 00:01:59.060-00:02:01.329 | DM]",
+      "lineNumber": 20,
+      "originalText": "The Wanderer is still the wanderer.",
+      "cleanedText": "The Wanderer is still the Wanderer."
+    },
+    {
+      "header": "[u0021 | 00:02:01.710-00:02:03.909 | DM]",
+      "lineNumber": 21,
+      "originalText": "The worldling is crooked luck.",
+      "cleanedText": "The Wyrdling is Crooked Luck."
+    },
+    {
+      "header": "[u0022 | 00:02:04.270-00:02:06.500 | DM]",
+      "lineNumber": 22,
+      "originalText": "And the wildling is the tangle.",
+      "cleanedText": "And the Wildling is the Tangle."
+    },
+    {
+      "header": "[u0023 | 00:02:07.810-00:02:12.990 | DM]",
+      "lineNumber": 23,
+      "originalText": "Each of these immense statues is home for a different Dragonette community.",
+      "cleanedText": "Each of these immense statues is home for a different dragonet community."
+    },
+    {
+      "header": "[u0025 | 00:02:26.810-00:02:32.770 | DM]",
+      "lineNumber": 25,
+      "originalText": "And each of these statues is literal, physical home for many dragonettes.",
+      "cleanedText": "And each of these statues is literal, physical home for many dragonets."
+    },
+    {
+      "header": "[u0026 | 00:02:33.000-00:02:46.130 | DM]",
+      "lineNumber": 26,
+      "originalText": "Depending on the statue, some dragonettes are nestled within the cracked and broken robes of the Dark Lady. Some are nestled within the footstructures of Old Iron. Each dragonette",
+      "cleanedText": "Depending on the statue, some dragonets are nestled within the cracked and broken robes of the Dark Lady. Some are nestled within the foot structures of Old Iron. Each dragonet"
+    },
+    {
+      "header": "[u0027 | 00:02:46.700-00:02:57.449 | DM]",
+      "lineNumber": 27,
+      "originalText": "community finding its own way to work with the large statue and the stone to then find their own nests where clutches of dragonette eggs can be hatched and cared for and loved.",
+      "cleanedText": "community finding its own way to work with the large statue and the stone to then find their own nests where clutches of dragonet eggs can be hatched and cared for and loved."
+    },
+    {
+      "header": "[u0030 | 00:03:18.400-00:03:26.199 | DM]",
+      "lineNumber": 30,
+      "originalText": "attached to what soon will be a very important event in the Dragonet calendar, which is The Dragonhead Festival.",
+      "cleanedText": "attached to what soon will be a very important event in the dragonet calendar, which is the dragonet festival."
+    },
+    {
+      "header": "[u0031 | 00:03:26.240-00:03:27.580 | DM]",
+      "lineNumber": 31,
+      "originalText": "I'm called the Jubilee.",
+      "cleanedText": "Um, called the Jubilee."
+    },
+    {
+      "header": "[u0032 | 00:03:27.620-00:03:38.439 | DM]",
+      "lineNumber": 32,
+      "originalText": "Which takes over the entire island, and happens once per year, and is the major, major gathering and moment and celebration for the entire Dragon Antet community, where all of the great",
+      "cleanedText": "Which takes over the entire island, and happens once per year, and is the major, major gathering and moment and celebration for the entire dragonet community, where all of the great"
+    },
+    {
+      "header": "[u0033 | 00:03:38.440-00:03:52.020 | DM]",
+      "lineNumber": 33,
+      "originalText": "communities of the Dragonettes, the eight communities gather and, celebrate the great games, the sing-offs, the call-and-responses, the great finds, all of the incredible games that everybody's been looking forward to playing all year.",
+      "cleanedText": "communities of the dragonets, the eight communities gather and, celebrate the great games, the sing-offs, the call-and-responses, the great finds, all of the incredible games that everybody's been looking forward to playing all year."
+    },
+    {
+      "header": "[u0035 | 00:03:56.150-00:04:04.470 | DM]",
+      "lineNumber": 35,
+      "originalText": "I'd like to bring us into the four characters, the four dragonettes that are, gonna be the heroes and the main characters of our story here.",
+      "cleanedText": "I'd like to bring us into the four characters, the four dragonets that are, gonna be the heroes and the main characters of our story here."
+    },
+    {
+      "header": "[u0036 | 00:04:05.360-00:04:07.610 | DM]",
+      "lineNumber": 36,
+      "originalText": "Peska.",
+      "cleanedText": "Heska."
+    },
+    {
+      "header": "[u0038 | 00:04:19.339-00:04:23.100 | DM]",
+      "lineNumber": 38,
+      "originalText": "Certainly for a little Tony and Sculpit.",
+      "cleanedText": "Certainly for Little Tony and Sculpit."
+    },
+    {
+      "header": "[u0042 | 00:04:36.510-00:04:45.139 | DM]",
+      "lineNumber": 42,
+      "originalText": "And up high, high above the clouds, the wanderer's hand and palm is reached out, out into the horizon.",
+      "cleanedText": "And up high, high above the clouds, the Wanderer's hand and palm is reached out, out into the horizon."
+    },
+    {
+      "header": "[u0047 | 00:05:00.230-00:05:07.459 | DM]",
+      "lineNumber": 47,
+      "originalText": "And so, I'd like to begin with, sculpit and Little Tony.",
+      "cleanedText": "And so, I'd like to begin with, Sculpit and Little Tony."
+    },
+    {
+      "header": "[u0054 | 00:05:24.520-00:05:29.619 | DM]",
+      "lineNumber": 54,
+      "originalText": "So, I'd like to begin, first with, Sculpt It and Little Tony.",
+      "cleanedText": "So, I'd like to begin, first with, Sculpit and Little Tony."
+    },
+    {
+      "header": "[u0055 | 00:05:29.760-00:05:48.139 | DM]",
+      "lineNumber": 55,
+      "originalText": "Whichever one of you would like to go first. But to share, about your character, and anything you'd like to share about your character, actually, this can be sort of a god view, omnipotent view of your character, and anything about them that, just from a third-person narrative perspective, we can all learn. But then also tell us about this poem.",
+      "cleanedText": "Whichever one of you would like to go first. But to share, about your character, and anything you'd like to share about your character, actually, this can be sort of a god view, omnipotent view of your character, and anything about them that, just from a third-person narrative perspective, we can all learn. But then also tell us about this palm."
+    },
+    {
+      "header": "[u0063 | 00:06:57.340-00:07:00.829 | Little Tony]",
+      "lineNumber": 63,
+      "originalText": "There aren't any other Dragonettes that speak with things like this.",
+      "cleanedText": "There aren't any other dragonets that speak with things like this."
+    },
+    {
+      "header": "[u0064 | 00:07:01.050-00:07:05.870 | Little Tony]",
+      "lineNumber": 64,
+      "originalText": "All of them just want to unburden themselves all the time to little Tony.",
+      "cleanedText": "All of them just want to unburden themselves all the time to Little Tony."
+    },
+    {
+      "header": "[u0079 | 00:08:13.320-00:08:21.769 | Little Tony]",
+      "lineNumber": 79,
+      "originalText": "you know, so little Tony is still, like, very much into the celebration and, like, the Dragonite culture and world and everything, and, like.",
+      "cleanedText": "you know, so Little Tony is still, like, very much into the celebration and, like, the dragonet culture and world and everything, and, like."
+    },
+    {
+      "header": "[u0082 | 00:08:41.039-00:08:47.030 | Little Tony]",
+      "lineNumber": 82,
+      "originalText": "Helping out, Skopit, who is… he admires as, like, a very talented.",
+      "cleanedText": "Helping out, Sculpit, who is… he admires as, like, a very talented."
+    },
+    {
+      "header": "[u0089 | 00:09:26.420-00:09:26.940 | DM]",
+      "lineNumber": 89,
+      "originalText": "The voice.",
+      "cleanedText": "The voices"
+    },
+    {
+      "header": "[u0095 | 00:09:56.790-00:09:57.440 | Zeno]",
+      "lineNumber": 95,
+      "originalText": "Road.",
+      "cleanedText": "Right."
+    },
+    {
+      "header": "[u0098 | 00:10:09.860-00:10:11.429 | DM]",
+      "lineNumber": 98,
+      "originalText": "Shout out to little Tony.",
+      "cleanedText": "Shout out to Little Tony."
+    },
+    {
+      "header": "[u0099 | 00:10:12.440-00:10:13.540 | DM]",
+      "lineNumber": 99,
+      "originalText": "Sculpt it.",
+      "cleanedText": "Sculpit."
+    },
+    {
+      "header": "[u0100 | 00:10:13.780-00:10:15.030 | Sculpit]",
+      "lineNumber": 100,
+      "originalText": "Don't sculpits!",
+      "cleanedText": "So Sculpit's"
+    },
+    {
+      "header": "[u0101 | 00:10:15.330-00:10:25.879 | Sculpit]",
+      "lineNumber": 101,
+      "originalText": "up in the… in the hand listening, which is, welcoming little Tony into this place is not something that happens",
+      "cleanedText": "up in the… in the hand listening, which is, welcoming Little Tony into this place is not something that happens"
+    },
+    {
+      "header": "[u0110 | 00:11:06.830-00:11:24.079 | Sculpit]",
+      "lineNumber": 110,
+      "originalText": "And he… but he often feels disconnected from the sill and bustle of the daily Dragonf life. Like, other than, like, when everybody's cheering for an amazing singer or something like that, he kind of feels that… he feels part of that community, but a lot of the time.",
+      "cleanedText": "And he… but he often feels disconnected from the hustle and bustle of the daily dragonet life. Like, other than, like, when everybody's cheering for an amazing singer or something like that, he kind of feels that… he feels part of that community, but a lot of the time."
+    },
+    {
+      "header": "[u0116 | 00:12:04.570-00:12:09.610 | Sculpit]",
+      "lineNumber": 116,
+      "originalText": "attitude on… well, maybe there are some other Dragonettes who are… who it's like…",
+      "cleanedText": "attitude on… well, maybe there are some other dragonets who are… who it's like…"
+    },
+    {
+      "header": "[u0118 | 00:12:14.410-00:12:33.299 | Sculpit]",
+      "lineNumber": 118,
+      "originalText": "now sort of attached to this little place with, another person who listen to. He's… he's nodding along. In his head, he's thinking, where's my sparkly things? Where's my sparkly things? But he's nodding along, and, you know, is supportive of, little Tony's,",
+      "cleanedText": "now sort of attached to this little place with, another person to listen to. He's… he's nodding along. In his head, he's thinking, where's my sparkly things? Where's my sparkly things? But he's nodding along, and, you know, is supportive of, Little Tony's,"
+    },
+    {
+      "header": "[u0119 | 00:12:34.750-00:12:38.830 | Sculpit]",
+      "lineNumber": 119,
+      "originalText": "life problems. He sometimes thinks that Little Teddy would just",
+      "cleanedText": "life problems. He sometimes thinks that Little Tony would just"
+    },
+    {
+      "header": "[u0121 | 00:12:54.050-00:12:59.280 | Sculpit]",
+      "lineNumber": 121,
+      "originalText": "So he's, he's a bar, right? He's,",
+      "cleanedText": "So he's, he's a bard, right? He's,"
+    },
+    {
+      "header": "[u0123 | 00:13:11.950-00:13:28.189 | Sculpit]",
+      "lineNumber": 123,
+      "originalText": "things like that. Never quite sure where he gets them from, nobody's quite sure if he's made them up or has some source of knowledge, but he'll sped off, you know, oh, well, sure, this statue used to be called such-and-such, it was built by so-and-so, and whatever, and…",
+      "cleanedText": "things like that. Never quite sure where he gets them from, nobody's quite sure if he's made them up or has some source of knowledge, but he'll spout off, you know, oh, well, sure, this statue used to be called such-and-such, it was built by so-and-so, and whatever, and…"
+    },
+    {
+      "header": "[u0126 | 00:13:33.450-00:13:39.980 | Sculpit]",
+      "lineNumber": 126,
+      "originalText": "So that's… that's sculpted. And today, he's kind of in a… in a panic. I don't know how much this is something you're gonna get.",
+      "cleanedText": "So that's… that's Sculpit. And today, he's kind of in a… in a panic. I don't know how much this is something you're gonna get."
+    },
+    {
+      "header": "[u0129 | 00:13:42.950-00:13:48.949 | Sculpit]",
+      "lineNumber": 129,
+      "originalText": "But he's in a panic right now, because his star quiet has… Completely forgotten to prepare.",
+      "cleanedText": "But he's in a panic right now, because his star client has… Completely forgotten to prepare."
+    },
+    {
+      "header": "[u0139 | 00:14:41.490-00:14:50.810 | DM]",
+      "lineNumber": 139,
+      "originalText": "So the palm is the source of therapy and, ability for Lil' Tony to… To finally release.",
+      "cleanedText": "So the palm is the source of therapy and, ability for Little Tony to… To finally release."
+    },
+    {
+      "header": "[u0143 | 00:15:21.030-00:15:26.010 | DM]",
+      "lineNumber": 143,
+      "originalText": "And so, the Dark Lady, again, each, each Dragonette,",
+      "cleanedText": "And so, the Dark Lady, again, each, each dragonet,"
+    },
+    {
+      "header": "[u0147 | 00:15:42.620-00:15:46.149 | DM]",
+      "lineNumber": 147,
+      "originalText": "Is the home of… of, Heska and Xena.",
+      "cleanedText": "Is the home of… of, Heska and Zeno."
+    },
+    {
+      "header": "[u0149 | 00:15:51.400-00:15:53.860 | DM]",
+      "lineNumber": 149,
+      "originalText": "And Zeno and Huska.",
+      "cleanedText": "And Zeno and Heska."
+    },
+    {
+      "header": "[u0153 | 00:16:17.260-00:16:32.529 | Zeno]",
+      "lineNumber": 153,
+      "originalText": "The chuck… the chuckle buckle. People would like that, I think, right? Because she has a giant shoe, you know, that thing that holds on the shoe, that… I think, in ancient times, that was called a buckle. And if people want to come out for a show, they're not gonna remember.",
+      "cleanedText": "The chuck… the Chuckle Buckle. People would like that, I think, right? Because she has a giant shoe, you know, that thing that holds on the shoe, that… I think, in ancient times, that was called a buckle. And if people want to come out for a show, they're not gonna remember."
+    },
+    {
+      "header": "[u0163 | 00:17:11.950-00:17:16.120 | Zeno]",
+      "lineNumber": 163,
+      "originalText": "Orange dragging it with green highlights. He is,",
+      "cleanedText": "Orange dragonet with green highlights. He is,"
+    },
+    {
+      "header": "[u0165 | 00:17:21.630-00:17:24.810 | Zeno]",
+      "lineNumber": 165,
+      "originalText": "Tiny Gems. You often see them.",
+      "cleanedText": "Tiny gems. You often see them."
+    },
+    {
+      "header": "[u0170 | 00:17:42.890-00:17:46.570 | DM]",
+      "lineNumber": 170,
+      "originalText": "And what about your relationship to, to, Tesco?",
+      "cleanedText": "And what about your relationship to, to, Heska?"
+    },
+    {
+      "header": "[u0174 | 00:18:09.650-00:18:15.419 | Heska]",
+      "lineNumber": 174,
+      "originalText": "You know, change his mind for probably the 12th time today.",
+      "cleanedText": "Zeno change his mind for probably the 12th time today."
+    },
+    {
+      "header": "[u0176 | 00:18:18.790-00:18:26.720 | Heska]",
+      "lineNumber": 176,
+      "originalText": "Talking about for probably the past 6 months, and has not, in fact, done anything to Establish.",
+      "cleanedText": "Talking about for probably the past 6 months, and has not, in fact, done anything to establish."
+    },
+    {
+      "header": "[u0177 | 00:18:27.580-00:18:37.179 | Heska]",
+      "lineNumber": 177,
+      "originalText": "But… but Heska is patient, and… and every now and then, you know, hell…",
+      "cleanedText": "But… but Heska is patient, and… and every now and then, you know, he'll…"
+    },
+    {
+      "header": "[u0183 | 00:19:13.120-00:19:24.780 | Heska]",
+      "lineNumber": 183,
+      "originalText": "Zino… talking at length about some fancy memory of Dino's past great triumphs, and most of seen as…",
+      "cleanedText": "Zeno… talking at length about some fancy memory of Zeno's past great triumphs, and most of Zeno's…"
+    },
+    {
+      "header": "[u0186 | 00:19:33.350-00:19:41.100 | Heska]",
+      "lineNumber": 186,
+      "originalText": "handkerchief or something will just, like, lift quietly out of Sina's pocket and, like, drift across the air.",
+      "cleanedText": "handkerchief or something will just, like, lift quietly out of Zeno's pocket and, like, drift across the air."
+    },
+    {
+      "header": "[u0188 | 00:19:42.360-00:20:00.800 | Heska]",
+      "lineNumber": 188,
+      "originalText": "Zeno never notices, but eventually we'll go to grab his handkerchief, and it's… there's not a handkerchief there anymore. There's a deflating wet balloon, or some such other loud, silly rubber chick… well, it's probably not rubber chickens, but a,",
+      "cleanedText": "Zeno never notices, but eventually will go to grab his handkerchief, and it's… there's not a handkerchief there anymore. There's a deflating wet balloon, or some such other loud, silly rubber chick… well, it's probably not rubber chickens, but a,"
+    },
+    {
+      "header": "[u0194 | 00:20:21.250-00:20:32.859 | Heska]",
+      "lineNumber": 194,
+      "originalText": "A sense of… love for… for Zeno's story, and trying to keep him from Insulating his ego.",
+      "cleanedText": "A sense of… love for… for Zeno's story, and trying to keep him from inflating his ego."
+    },
+    {
+      "header": "[u0197 | 00:20:44.550-00:20:50.330 | Heska]",
+      "lineNumber": 197,
+      "originalText": "I was gonna prefer not to be known for much, but if you asked somebody.",
+      "cleanedText": "Heska would prefer not to be known for much, but if you asked somebody."
+    },
+    {
+      "header": "[u0201 | 00:21:11.430-00:21:20.649 | Heska]",
+      "lineNumber": 201,
+      "originalText": "a giant fiddler crab, twice the size of any dragonette, with a claw nearly the size of Heska's",
+      "cleanedText": "a giant fiddler crab, twice the size of any dragonet, with a claw nearly the size of Heska's"
+    },
+    {
+      "header": "[u0203 | 00:21:24.440-00:21:30.719 | Heska]",
+      "lineNumber": 203,
+      "originalText": "Betty brought back and cooked up in a very nice crab boil.",
+      "cleanedText": "That he brought back and cooked up in a very nice crab boil."
+    },
+    {
+      "header": "[u0208 | 00:21:51.800-00:21:58.430 | DM]",
+      "lineNumber": 208,
+      "originalText": "And this fits in perfectly with some of the larger Dragonhead culture around finding and displaying cool shit.",
+      "cleanedText": "And this fits in perfectly with some of the larger dragonet culture around finding and displaying cool shit."
+    },
+    {
+      "header": "[u0209 | 00:21:58.880-00:22:15.800 | DM]",
+      "lineNumber": 209,
+      "originalText": "And this could be… and this is also why little Tony is so sought after by so many across the island, because of his unusual capacity and ability to find all the cool, strange shit on the island, which maybe is a verdict, maybe it's a source of pride?",
+      "cleanedText": "And this could be… and this is also why Little Tony is so sought after by so many across the island, because of his unusual capacity and ability to find all the cool, strange shit on the island, which maybe is a burden, maybe it's a source of pride?"
+    },
+    {
+      "header": "[u0214 | 00:22:54.380-00:23:13.370 | Little Tony]",
+      "lineNumber": 214,
+      "originalText": "talking with inanimate objects and, like, looking for interesting things to find and bring back, so… So sometimes he'll… like, his part in some of the competitions is… is finding that, like, when you want a particular thing, like, little Tony knows a guy who knows a guy, like, who knows a twig, who knows where it is.",
+      "cleanedText": "talking with inanimate objects and, like, looking for interesting things to find and bring back, so… So sometimes he'll… like, his part in some of the competitions is… is finding that, like, when you want a particular thing, like, Little Tony knows a guy who knows a guy, like, who knows a twig, who knows where it is."
+    },
+    {
+      "header": "[u0218 | 00:23:30.040-00:23:44.900 | DM]",
+      "lineNumber": 218,
+      "originalText": "hunting things, and being able to feed the community is another incredible source of pride and joy in the Dragon Egg community. And Heska, I know, I know, Heska, you've also, had some expertise in that particular",
+      "cleanedText": "hunting things, and being able to feed the community is another incredible source of pride and joy in the dragonet community. And Heska, I know, I know, Heska, you've also, had some expertise in that particular"
+    },
+    {
+      "header": "[u0221 | 00:23:51.980-00:24:00.210 | Heska]",
+      "lineNumber": 221,
+      "originalText": "Huska is… Peska likes to feed the Dark Lady.",
+      "cleanedText": "Heska is… Heska likes to feed the Dark Lady."
+    },
+    {
+      "header": "[u0222 | 00:24:00.650-00:24:05.880 | Heska]",
+      "lineNumber": 222,
+      "originalText": "It's always bringing stuff back, but usually not…",
+      "cleanedText": "He's always bringing stuff back, but usually not…"
+    },
+    {
+      "header": "[u0223 | 00:24:07.070-00:24:12.079 | Heska]",
+      "lineNumber": 223,
+      "originalText": "not in a way that draws attention to himself, he's actually often happy to let Z know",
+      "cleanedText": "not in a way that draws attention to himself, he's actually often happy to let Zeno"
+    },
+    {
+      "header": "[u0246 | 00:26:46.540-00:26:59.249 | DM]",
+      "lineNumber": 246,
+      "originalText": "upon completion of the open ceremony, where the elders will convene and conduct what is overall one of the few moments in Dragonite culture that actually has some solemnity involved.",
+      "cleanedText": "upon completion of the opening ceremony, where the elders will convene and conduct what is overall one of the few moments in dragonet culture that actually has some solemnity involved."
+    },
+    {
+      "header": "[u0249 | 00:27:28.400-00:27:47.019 | DM]",
+      "lineNumber": 249,
+      "originalText": "The solemnity of the opening with the elders is something that everyone, again, one of the very, very few times in Dragonite culture that everybody takes this real seriously, because, and I'll share more, but it relates to the clutches and the eggs and the families that are born and reborn, throughout the festival time.",
+      "cleanedText": "The solemnity of the opening with the elders is something that everyone, again, one of the very, very few times in dragonet culture that everybody takes this real seriously, because, and I'll share more, but it relates to the clutches and the eggs and the families that are born and reborn, throughout the festival time."
+    },
+    {
+      "header": "[u0251 | 00:27:52.370-00:28:02.280 | DM]",
+      "lineNumber": 251,
+      "originalText": "is gonna have a major moment, and Sculptit has been working with Xena behind the scenes for months and months for this big, big, event.",
+      "cleanedText": "is gonna have a major moment, and Sculpit has been working with Xena behind the scenes for months and months for this big, big, event."
+    },
+    {
+      "header": "[u0253 | 00:28:13.930-00:28:31.969 | DM]",
+      "lineNumber": 253,
+      "originalText": "As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that's located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues, bright face.",
+      "cleanedText": "As we bring ourselves into the morning of the festival, and the festival itself takes place in the temple that's located at the center of the island. Pilgrimage roads lead from the center all the way out to each of the large eight statues, Brightface."
+    },
+    {
+      "header": "[u0254 | 00:28:32.370-00:28:44.470 | DM]",
+      "lineNumber": 254,
+      "originalText": "you know, the wildling, or, the wanderer and beyond. But this morning, what happens is Xena, who is the star of the show.",
+      "cleanedText": "you know, the Wildling, or, the Wanderer and beyond. But this morning, what happens is Xena, who is the star of the show."
+    },
+    {
+      "header": "[u0257 | 00:29:15.510-00:29:21.360 | DM]",
+      "lineNumber": 257,
+      "originalText": "And so, we start this scene with, with Sculptit.",
+      "cleanedText": "And so, we start this scene with, with Sculpit."
+    },
+    {
+      "header": "[u0259 | 00:29:25.250-00:29:33.429 | DM]",
+      "lineNumber": 259,
+      "originalText": "with, Lil Tony, who Sculpted has brought by, as a part of this preparation. And Xena is lovely. Xena is such a talent",
+      "cleanedText": "with, Little Tony, who Sculpit has brought by, as a part of this preparation. And Xena is lovely. Xena is such a talent"
+    },
+    {
+      "header": "[u0260 | 00:29:33.430-00:29:47.250 | DM]",
+      "lineNumber": 260,
+      "originalText": "an incredible flyer and acrobat, that's part of why she's so famous, but also an incredible vocalist, which is a very, very rare combination. Often in these Dragonet parties and these Dragonet sing-offs and these competitions that happen.",
+      "cleanedText": "an incredible flyer and acrobat, that's part of why she's so famous, but also an incredible vocalist, which is a very, very rare combination. Often in these dragonet parties and these dragonet sing-offs and these competitions that happen."
+    },
+    {
+      "header": "[u0261 | 00:29:47.860-00:29:57.659 | DM]",
+      "lineNumber": 261,
+      "originalText": "Usually, it's around one skill, and Zena is a particular talent because she can both, has this incredible body control and dexterity and physical performance, but also can sing.",
+      "cleanedText": "Usually, it's around one skill, and Xena is a particular talent because she can both, has this incredible body control and dexterity and physical performance, but also can sing."
+    },
+    {
+      "header": "[u0266 | 00:30:36.950-00:30:59.360 | DM]",
+      "lineNumber": 266,
+      "originalText": "prep part. You know, a lot of the dragonettes are just kind of, if you're curious, kind of coming and hanging out. But frankly, a lot of the dragonettes are out preparing their own shit, right? Like, the great find is happening, so everybody's getting, you know, the coolest fucking random, you know, hunt that they've gotten, preparing it in the most beautiful way, for the great hunt. For the great find, all the strange objects are being arrayed and set up in the tents. So this is, like, just pre-party, like, major planning moment.",
+      "cleanedText": "prep part. You know, a lot of the dragonets are just kind of, if you're curious, kind of coming and hanging out. But frankly, a lot of the dragonets are out preparing their own shit, right? Like, the great find is happening, so everybody's getting, you know, the coolest fucking random, you know, hunt that they've gotten, preparing it in the most beautiful way, for the great hunt. For the great find, all the strange objects are being arrayed and set up in the tents. So this is, like, just pre-party, like, major planning moment."
+    },
+    {
+      "header": "[u0267 | 00:30:59.420-00:31:09.649 | DM]",
+      "lineNumber": 267,
+      "originalText": "And, and so, so, Heskins, you know, you both are nearby, in a nearby tent, just, just hanging out, checking things out, but we start with,",
+      "cleanedText": "And, and so, so, Heska and Zeno, you both are nearby, in a nearby tent, just, just hanging out, checking things out, but we start with,"
+    },
+    {
+      "header": "[u0268 | 00:31:10.400-00:31:18.630 | DM]",
+      "lineNumber": 268,
+      "originalText": "with Sculptit and with little Tony, and Xena walks up to both of you, and… Xena is, like.",
+      "cleanedText": "with Sculpit and with Little Tony, and Xena walks up to both of you, and… Xena is, like."
+    },
+    {
+      "header": "[u0269 | 00:31:18.750-00:31:40.740 | DM]",
+      "lineNumber": 269,
+      "originalText": "she, as a dragonette, has got, like, just ripped arms, and, like, her wings are super, super just felt, and she's got this amazing, just, energy about her, but has this huge pot belly. She just has, like, this weird aerodynamic, like, you know, she's got this, like, pot belly, which is tattooed and decorated with jewels, and is bedazzled. But she's also, like.",
+      "cleanedText": "she, as a dragonet, has got, like, just ripped arms, and, like, her wings are super, super just svelte, and she's got this amazing, just, energy about her, but has this huge pot belly. She just has, like, this weird aerodynamic, like, you know, she's got this, like, pot belly, which is tattooed and decorated with jewels, and is bedazzled. But she's also, like."
+    },
+    {
+      "header": "[u0271 | 00:31:42.510-00:31:44.420 | DM]",
+      "lineNumber": 271,
+      "originalText": "And sculpt it.",
+      "cleanedText": "And Sculpit."
+    },
+    {
+      "header": "[u0281 | 00:32:30.930-00:32:32.660 | Sculpit]",
+      "lineNumber": 281,
+      "originalText": "I have an idea for apartments.",
+      "cleanedText": "I have an idea for a partner."
+    },
+    {
+      "header": "[u0283 | 00:32:42.340-00:32:51.359 | Sculpit]",
+      "lineNumber": 283,
+      "originalText": "So remember when I told you that, and he sort of, he allied to what he was gonna say for that, like,",
+      "cleanedText": "So remember when I told you that, and he sort of, he alludes to what he was gonna say for that, like,"
+    },
+    {
+      "header": "[u0294 | 00:34:05.270-00:34:16.979 | DM]",
+      "lineNumber": 294,
+      "originalText": "So, and she gets a little edgy, and it's one of those things, you know, you as, you know, her sib and her bro, you've got, like, a little bit of a, you know, you're able to kind of smooth out these swim situations.",
+      "cleanedText": "So, and she gets a little edgy, and it's one of those things, you know, you as, you know, her sib and her bro, you've got, like, a little bit of a, you know, you're able to kind of smooth out these situations."
+    },
+    {
+      "header": "[u0299 | 00:34:43.579-00:34:45.559 | Sculpit]",
+      "lineNumber": 299,
+      "originalText": "I pick a… I pick a duet!",
+      "cleanedText": "I think a… I think a duet!"
+    },
+    {
+      "header": "[u0300 | 00:34:45.759-00:34:49.279 | Sculpit]",
+      "lineNumber": 300,
+      "originalText": "It's a little complicated, but let's deal with the caustic first.",
+      "cleanedText": "It's a little complicated, but let's deal with the costume first."
+    },
+    {
+      "header": "[u0313 | 00:35:36.570-00:35:39.570 | DM]",
+      "lineNumber": 313,
+      "originalText": "Xeno… I need to confess something to you.",
+      "cleanedText": "Zeno… I need to confess something to you."
+    },
+    {
+      "header": "[u0320 | 00:35:59.890-00:36:04.629 | Zeno]",
+      "lineNumber": 320,
+      "originalText": "You mean Eska? Yeah, he's right over there anymore.",
+      "cleanedText": "You mean Heska? Yeah, he's right over there anymore."
+    },
+    {
+      "header": "[u0322 | 00:36:09.620-00:36:11.679 | DM]",
+      "lineNumber": 322,
+      "originalText": "Ever since he got that crap?",
+      "cleanedText": "Ever since he got that crab?"
+    },
+    {
+      "header": "[u0329 | 00:36:28.580-00:36:30.969 | DM]",
+      "lineNumber": 329,
+      "originalText": "It was the crap.",
+      "cleanedText": "It was the crab."
+    },
+    {
+      "header": "[u0330 | 00:36:32.250-00:36:36.259 | Zeno]",
+      "lineNumber": 330,
+      "originalText": "What do you think about the… the chuckle Buckle? Or maybe it's the buckle chuckle?",
+      "cleanedText": "What do you think about the… the Chuckle Buckle? Or maybe it's the Buckle Chuckle?"
+    },
+    {
+      "header": "[u0338 | 00:36:53.400-00:36:59.160 | Zeno]",
+      "lineNumber": 338,
+      "originalText": "Well… now, Heska's a very, very busy, dragonett, you know.",
+      "cleanedText": "Well… now, Heska's a very, very busy, dragonet, you know."
+    },
+    {
+      "header": "[u0341 | 00:37:13.270-00:37:19.470 | Zeno]",
+      "lineNumber": 341,
+      "originalText": "Let's just take a deep breath together. Yeah. And spit some fire, because let's get Huska. Come on.",
+      "cleanedText": "Let's just take a deep breath together. Yeah. And spit some fire, because let's get Heska. Come on."
+    },
+    {
+      "header": "[u0343 | 00:37:21.370-00:37:27.429 | DM]",
+      "lineNumber": 343,
+      "originalText": "Xena, Xena's a perk really distracted right now. What are… Little Tony and Sculptit, what are you doing?",
+      "cleanedText": "Xena, Xena's a perk really distracted right now. What are… Little Tony and Sculpit, what are you doing?"
+    },
+    {
+      "header": "[u0344 | 00:37:28.210-00:37:40.910 | Little Tony]",
+      "lineNumber": 344,
+      "originalText": "We're circling, like, I'm scubbing, I'm… I'm sorry, I… I just get really intimidated by a powerful woman. It's hard, like, I… I don't know what's… I… she's… she's so, like, so much, you know?",
+      "cleanedText": "We're circling, like, Sculpit, I'm… I'm sorry, I… I just get really intimidated by a powerful woman. It's hard, like, I… I don't know what's… I… she's… she's so, like, so much, you know?"
+    },
+    {
+      "header": "[u0345 | 00:37:40.910-00:37:44.510 | Sculpit]",
+      "lineNumber": 345,
+      "originalText": "She's a lot. Yeah, I don't… I don't really beat this, honestly, I…",
+      "cleanedText": "She's a lot. Yeah, I don't… I don't really need this, honestly, I…"
+    },
+    {
+      "header": "[u0346 | 00:37:45.490-00:37:50.779 | Sculpit]",
+      "lineNumber": 346,
+      "originalText": "But our performances are quite good. It's kind of nice to… to help, but…",
+      "cleanedText": "But her performances are quite good. It's kind of nice to… to help, but…"
+    },
+    {
+      "header": "[u0370 | 00:39:51.880-00:40:03.949 | Little Tony]",
+      "lineNumber": 370,
+      "originalText": "Okay, okay, okay, he pulls out a handkerchief and is mobbing the sweat. Okay, we can figure this out. We can figure this out. So, jewelry, sparkly, yes. Yes.",
+      "cleanedText": "Okay, okay, okay, he pulls out a handkerchief and is mopping the sweat. Okay, we can figure this out. We can figure this out. So, jewelry, sparkly, yes. Yes."
+    },
+    {
+      "header": "[u0377 | 00:40:30.420-00:40:38.410 | Sculpit]",
+      "lineNumber": 377,
+      "originalText": "So just remember that, and we're not sort of going after the statement of, I'm interested in wrongs.",
+      "cleanedText": "So just remember that, and we're not sort of going after the statement of, I'm interested in rocks."
+    },
+    {
+      "header": "[u0390 | 00:41:20.540-00:41:31.669 | DM]",
+      "lineNumber": 390,
+      "originalText": "So, Lil Tony, just whatever you're experiencing right now, it's like, it's like, the I'm gonna kill you is, like, is, like, pretty, it's, it's pretty intense. It's pretty intense. So…",
+      "cleanedText": "So, Little Tony, just whatever you're experiencing right now, it's like, it's like, the I'm gonna kill you is, like, is, like, pretty, it's, it's pretty intense. It's pretty intense. So…"
+    },
+    {
+      "header": "[u0396 | 00:41:50.470-00:42:04.229 | DM]",
+      "lineNumber": 396,
+      "originalText": "sculpt it about this duo that I think needs to happen now, because I woke up this morning, and I had a vision of myself and another dragonette.",
+      "cleanedText": "Sculpit about this duo that I think needs to happen now, because I woke up this morning, and I had a vision of myself and another dragonet."
+    },
+    {
+      "header": "[u0397 | 00:42:04.570-00:42:09.500 | DM]",
+      "lineNumber": 397,
+      "originalText": "It has incredible flying prowess doing this with me.",
+      "cleanedText": "That has incredible flying prowess doing this with me."
+    },
+    {
+      "header": "[u0407 | 00:42:58.860-00:43:00.950 | DM]",
+      "lineNumber": 407,
+      "originalText": "So, Sculptit, this is…",
+      "cleanedText": "So, Sculpit, this is…"
+    },
+    {
+      "header": "[u0417 | 00:43:41.980-00:43:45.049 | Sculpit]",
+      "lineNumber": 417,
+      "originalText": "Powerful and villiant, right?",
+      "cleanedText": "Powerful and brilliant, right?"
+    },
+    {
+      "header": "[u0419 | 00:43:48.960-00:43:54.210 | Sculpit]",
+      "lineNumber": 419,
+      "originalText": "We've talked about it. It's more about you claiming your place In the performance.",
+      "cleanedText": "We've talked about it. It's more about you claiming your place in the performance."
+    },
+    {
+      "header": "[u0433 | 00:44:21.540-00:44:24.730 | Zeno]",
+      "lineNumber": 433,
+      "originalText": "Maybe we… Esca about it.",
+      "cleanedText": "Maybe we… ask about it."
+    },
+    {
+      "header": "[u0434 | 00:44:25.150-00:44:28.560 | Heska]",
+      "lineNumber": 434,
+      "originalText": "Haska has been sitting in the tent that…",
+      "cleanedText": "Heska has been sitting in the tent that…"
+    },
+    {
+      "header": "[u0441 | 00:45:14.050-00:45:15.290 | Sculpit]",
+      "lineNumber": 441,
+      "originalText": "Tina, Tina?",
+      "cleanedText": "Xena, Xena?"
+    },
+    {
+      "header": "[u0442 | 00:45:16.330-00:45:18.440 | Zeno]",
+      "lineNumber": 442,
+      "originalText": "And Xena strolls over.",
+      "cleanedText": "And Zeno strolls over."
+    },
+    {
+      "header": "[u0447 | 00:45:27.250-00:45:29.250 | Heska]",
+      "lineNumber": 447,
+      "originalText": "Dino gets over it, he says.",
+      "cleanedText": "Zeno gets over it, he says."
+    },
+    {
+      "header": "[u0451 | 00:45:31.870-00:45:35.279 | DM]",
+      "lineNumber": 451,
+      "originalText": "You want me to stay here, sculpt? Yes. Okay, fine, fine.",
+      "cleanedText": "You want me to stay here, Sculpit? Yes. Okay, fine, fine."
+    },
+    {
+      "header": "[u0454 | 00:45:36.580-00:45:39.160 | Sculpit]",
+      "lineNumber": 454,
+      "originalText": "Right? Stop it, I'll swallow.",
+      "cleanedText": "Right? Sculpit also follows."
+    },
+    {
+      "header": "[u0457 | 00:45:48.230-00:45:49.650 | Sculpit]",
+      "lineNumber": 457,
+      "originalText": "Sorry, I didn't matter.",
+      "cleanedText": "Sorry, is that better?"
+    },
+    {
+      "header": "[u0467 | 00:46:18.060-00:46:20.299 | Sculpit]",
+      "lineNumber": 467,
+      "originalText": "Sorry, Nito, sorry, sorry, sorry.",
+      "cleanedText": "Sorry, Zeno, sorry, sorry, sorry."
+    },
+    {
+      "header": "[u0483 | 00:47:01.630-00:47:10.600 | Sculpit]",
+      "lineNumber": 483,
+      "originalText": "But… but Zena and I have had an artistic vision, like, I really think… Have you?",
+      "cleanedText": "But… but Xena and I have had an artistic vision, like, I really think… Have you?"
+    },
+    {
+      "header": "[u0484 | 00:47:11.660-00:47:17.030 | Sculpit]",
+      "lineNumber": 484,
+      "originalText": "Hasco's not really… participating, like, you're mostly a hunter, right?",
+      "cleanedText": "Heska's not really… participating, like, you're mostly a hunter, right?"
+    },
+    {
+      "header": "[u0485 | 00:47:17.030-00:47:24.550 | Heska]",
+      "lineNumber": 485,
+      "originalText": "Yeah, he's never participated in… Pascal's never performed a solo… as far as you know, has never performed a solo.",
+      "cleanedText": "Yeah, he's never participated in… Heska's never performed a solo… as far as you know, has never performed a solo."
+    },
+    {
+      "header": "[u0487 | 00:47:25.330-00:47:26.750 | Heska]",
+      "lineNumber": 487,
+      "originalText": "locked in anything.",
+      "cleanedText": "act in anything."
+    },
+    {
+      "header": "[u0493 | 00:47:45.850-00:47:50.009 | Sculpit]",
+      "lineNumber": 493,
+      "originalText": "It's more about the games that all this nonsense you folks are talking about.",
+      "cleanedText": "It's more about the games than all this nonsense you folks are talking about."
+    },
+    {
+      "header": "[u0500 | 00:48:02.530-00:48:08.619 | Sculpit]",
+      "lineNumber": 500,
+      "originalText": "powerful and, and, and… as… football as we possibly can.",
+      "cleanedText": "powerful and, and, and… as… beautiful as we possibly can."
+    },
+    {
+      "header": "[u0511 | 00:48:28.960-00:48:33.839 | Sculpit]",
+      "lineNumber": 511,
+      "originalText": "Let's just go… I'd love to see me fly. I've never really watched him fly.",
+      "cleanedText": "Let's just go… I'd love to see you fly. I've never really watched him fly."
+    },
+    {
+      "header": "[u0521 | 00:49:09.650-00:49:11.959 | Sculpit]",
+      "lineNumber": 521,
+      "originalText": "Let's… let's go somewhere where it's a little less crap.",
+      "cleanedText": "Let's… let's go somewhere where it's a little less crowded."
+    },
+    {
+      "header": "[u0524 | 00:49:22.200-00:49:33.320 | Heska]",
+      "lineNumber": 524,
+      "originalText": "Aska looks over at Little Tony, who… Little Tony has probably, like, talked to a few times, just because they both tend to wander around weird places on the island.",
+      "cleanedText": "Heska looks over at Little Tony, who… Little Tony has probably, like, talked to a few times, just because they both tend to wander around weird places on the island."
+    },
+    {
+      "header": "[u0530 | 00:49:49.680-00:49:51.190 | Sculpit]",
+      "lineNumber": 530,
+      "originalText": "We… as we're watching.",
+      "cleanedText": "We… as we're walking."
+    },
+    {
+      "header": "[u0531 | 00:49:51.190-00:49:53.339 | Heska]",
+      "lineNumber": 531,
+      "originalText": "You know, you're coming, yeah?",
+      "cleanedText": "Zeno, you're coming, yeah?"
+    },
+    {
+      "header": "[u0532 | 00:49:54.440-00:49:56.819 | Heska]",
+      "lineNumber": 532,
+      "originalText": "Leave me with them by myself.",
+      "cleanedText": "Don't leave me with them by myself."
+    },
+    {
+      "header": "[u0534 | 00:50:02.200-00:50:06.690 | DM]",
+      "lineNumber": 534,
+      "originalText": "So, right now, right now, Xena, Xena is just with, with Lil' Tony.",
+      "cleanedText": "So, right now, right now, Xena, Xena is just with, with Little Tony."
+    },
+    {
+      "header": "[u0535 | 00:50:06.690-00:50:07.489 | Sculpit]",
+      "lineNumber": 535,
+      "originalText": "No, no, little Tony.",
+      "cleanedText": "No, no, Little Tony."
+    },
+    {
+      "header": "[u0536 | 00:50:07.490-00:50:09.319 | Little Tony]",
+      "lineNumber": 536,
+      "originalText": "No, no, no, little Tony.",
+      "cleanedText": "No, no, no, Little Tony."
+    },
+    {
+      "header": "[u0537 | 00:50:09.320-00:50:12.250 | Heska]",
+      "lineNumber": 537,
+      "originalText": "Bill Tony was scared and went out of the tent.",
+      "cleanedText": "Little Tony was scared and went out of the tent."
+    },
+    {
+      "header": "[u0552 | 00:50:56.770-00:51:00.709 | DM]",
+      "lineNumber": 552,
+      "originalText": "I trust the process, I trust little Tony's gonna find the things that need to be found.",
+      "cleanedText": "I trust the process, I trust Little Tony's gonna find the things that need to be found."
+    },
+    {
+      "header": "[u0555 | 00:51:06.620-00:51:07.519 | DM]",
+      "lineNumber": 555,
+      "originalText": "Bids back.",
+      "cleanedText": "Heads back."
+    },
+    {
+      "header": "[u0561 | 00:51:23.580-00:51:27.480 | Sculpit]",
+      "lineNumber": 561,
+      "originalText": "So, if it's kind of muttering and kind of waving his hands a little bit.",
+      "cleanedText": "Sculpit's kind of muttering and kind of waving his hands a little bit."
+    },
+    {
+      "header": "[u0564 | 00:51:37.130-00:51:42.999 | Sculpit]",
+      "lineNumber": 564,
+      "originalText": "color… something out of a little pouch or something, enhance it to. Apparently, the thin air, where there's now…",
+      "cleanedText": "color… something out of a little pouch or something, and hands it to, apparently, the thin air, where there's now…"
+    },
+    {
+      "header": "[u0568 | 00:51:56.300-00:52:00.469 | Sculpit]",
+      "lineNumber": 568,
+      "originalText": "You know, clot or something, some bread thing, starts running off the other church.",
+      "cleanedText": "You know, cloth or something, some red thing, starts running off the other direction."
+    },
+    {
+      "header": "[u0575 | 00:52:19.100-00:52:20.340 | Sculpit]",
+      "lineNumber": 575,
+      "originalText": "WP6.",
+      "cleanedText": "26."
+    },
+    {
+      "header": "[u0576 | 00:52:22.430-00:52:23.730 | Zeno]",
+      "lineNumber": 576,
+      "originalText": "Barry, what did you call?",
+      "cleanedText": "Sorry, what did you roll?"
+    },
+    {
+      "header": "[u0579 | 00:52:28.200-00:52:30.440 | Heska]",
+      "lineNumber": 579,
+      "originalText": "Hey, Lux!",
+      "cleanedText": "He looks…"
+    },
+    {
+      "header": "[u0580 | 00:52:31.670-00:52:39.219 | Heska]",
+      "lineNumber": 580,
+      "originalText": "I'm sort of curious and interested in this thing, and takes a running leap into the air.",
+      "cleanedText": "Sort of curious and interested in this thing, and takes a running leap into the air."
+    },
+    {
+      "header": "[u0590 | 00:53:29.720-00:53:34.569 | Heska]",
+      "lineNumber": 590,
+      "originalText": "I was awkwardly catching the ball with his… with his claw, having missed it with his lip.",
+      "cleanedText": "Dives awkwardly catching the ball with his… with his claw, having missed it with his whip."
+    },
+    {
+      "header": "[u0595 | 00:53:43.950-00:53:48.320 | Sculpit]",
+      "lineNumber": 595,
+      "originalText": "We're gonna try it again. Here's a few pointers. Small bit will give.",
+      "cleanedText": "We're gonna try it again. Here's a few pointers. Sculpit will give."
+    },
+    {
+      "header": "[u0600 | 00:54:07.200-00:54:13.340 | Sculpit]",
+      "lineNumber": 600,
+      "originalText": "I think you should try again. I think, I think, I think the width… could work well.",
+      "cleanedText": "I think you should try again. I think, I think, I think the whip… could work well."
+    },
+    {
+      "header": "[u0604 | 00:54:34.390-00:54:40.880 | Sculpit]",
+      "lineNumber": 604,
+      "originalText": "for Zena. She might appreciate. So, like, let's… let's play that up a bit, as, you know, a little bit of a…",
+      "cleanedText": "for Xena. She might appreciate. So, like, let's… let's play that up a bit, as, you know, a little bit of a…"
+    },
+    {
+      "header": "[u0611 | 00:55:14.220-00:55:19.860 | Heska]",
+      "lineNumber": 611,
+      "originalText": "Huska's kind of, like, shaking his head, but is swept up a little bit by,",
+      "cleanedText": "Heska's kind of, like, shaking his head, but is swept up a little bit by,"
+    },
+    {
+      "header": "[u0612 | 00:55:20.310-00:55:25.460 | Heska]",
+      "lineNumber": 612,
+      "originalText": "Stop it's like… Patter and… and vibe and…",
+      "cleanedText": "Sculpit's like… Patter and… and vibe and…"
+    },
+    {
+      "header": "[u0613 | 00:55:25.700-00:55:28.340 | Heska]",
+      "lineNumber": 613,
+      "originalText": "Very high persuasion role, and",
+      "cleanedText": "Very high persuasion roll, and"
+    },
+    {
+      "header": "[u0622 | 00:55:58.750-00:56:02.870 | Little Tony]",
+      "lineNumber": 622,
+      "originalText": "elbows, you know, and the ribs, like, I told you my boy can't cook!",
+      "cleanedText": "elbows Zeno in the ribs, like, I told you my boy can cook!"
+    },
+    {
+      "header": "[u0626 | 00:56:35.100-00:56:42.970 | Heska]",
+      "lineNumber": 626,
+      "originalText": "Okay. He pulls it out of the Unseen servant's hand, flips it into the air, and then just reaches up and catches it with his hand as he…",
+      "cleanedText": "Okay. He pulls it out of the Unseen Servant's hand, flips it into the air, and then just reaches up and catches it with his hand as he…"
+    },
+    {
+      "header": "[u0633 | 00:57:05.910-00:57:11.720 | Heska]",
+      "lineNumber": 633,
+      "originalText": "So, Heska is normally, like, a green-scale dragonette with, like, silver…",
+      "cleanedText": "So, Heska is normally, like, a green-scale dragonet with, like, silver…"
+    },
+    {
+      "header": "[u0638 | 00:57:41.640-00:57:47.080 | Sculpit]",
+      "lineNumber": 638,
+      "originalText": "So… so Zeta, you'll… you'll fly up in your new costume that we're working on?",
+      "cleanedText": "So… so Xena, you'll… you'll fly up in your new costume that we're working on?"
+    },
+    {
+      "header": "[u0641 | 00:57:50.710-00:57:52.789 | Sculpit]",
+      "lineNumber": 641,
+      "originalText": "And Haskell catch him with his whip.",
+      "cleanedText": "And Heska will catch them with his whip."
+    },
+    {
+      "header": "[u0655 | 00:58:47.560-00:58:50.339 | DM]",
+      "lineNumber": 655,
+      "originalText": "I'm sorry, Sculpting, I'm sorry, I'm sorry. Little Tony.",
+      "cleanedText": "I'm sorry, Sculpit, I'm sorry, I'm sorry. Little Tony."
+    },
+    {
+      "header": "[u0669 | 00:59:32.310-00:59:39.490 | DM]",
+      "lineNumber": 669,
+      "originalText": "let's work on this choreography, and little Tony, little Joey, whatever… little man, you go and get…",
+      "cleanedText": "let's work on this choreography, and Little Tony, little Joey, whatever… little man, you go and get…"
+    },
+    {
+      "header": "[u0674 | 00:59:53.520-00:59:57.199 | Sculpit]",
+      "lineNumber": 674,
+      "originalText": "Not… not Pabbel… not Pebble person.",
+      "cleanedText": "Not… not pebble… not Pebble person."
+    },
+    {
+      "header": "[u0681 | 01:00:14.860-01:00:18.100 | Sculpit]",
+      "lineNumber": 681,
+      "originalText": "I had your stayed pretty… handballs are great. Look, you don't like.",
+      "cleanedText": "I had your stayed pretty… pebbles are great. Look, you don't like."
+    },
+    {
+      "header": "[u0687 | 01:00:34.610-01:00:39.040 | Little Tony]",
+      "lineNumber": 687,
+      "originalText": "No, no, scope it. I gotta scope it. We gotta scope it.",
+      "cleanedText": "No, no, Sculpit. I got it, Sculpit. We got it, Sculpit."
+    },
+    {
+      "header": "[u0690 | 01:00:47.830-01:00:50.499 | DM]",
+      "lineNumber": 690,
+      "originalText": "He's looking at anybody. It's like,",
+      "cleanedText": "She's looking at anybody. It's like,"
+    },
+    {
+      "header": "[u0691 | 01:00:50.670-01:00:55.149 | DM]",
+      "lineNumber": 691,
+      "originalText": "Like, he's basically implying that little Tony, like, really needs a babysitter. Like…",
+      "cleanedText": "Like, she's basically implying that Little Tony, like, really needs a babysitter. Like…"
+    },
+    {
+      "header": "[u0695 | 01:01:01.570-01:01:17.309 | DM]",
+      "lineNumber": 695,
+      "originalText": "I have an idea, I have an idea. Heska, you stay with me, because you should just be by me all the time. Sculpt it, you stay by me too, because the three of us gotta work on this a little bit. You two go and get the things. And she's looking at Zeno, like, my brother, like, you make sure that this… okay?",
+      "cleanedText": "I have an idea, I have an idea. Heska, you stay with me, because you should just be by me all the time. Sculpit, you stay by me too, because the three of us gotta work on this a little bit. You two go and get the things. And she's looking at Zeno, like, my brother, like, you make sure that this… okay?"
+    },
+    {
+      "header": "[u0699 | 01:01:29.880-01:01:37.570 | Sculpit]",
+      "lineNumber": 699,
+      "originalText": "Sculpit will… Like, wave his head and create, like, a little image of, like, actual jewelry, like… Like this.",
+      "cleanedText": "Sculpit will… Like, wave his hand and create, like, a little image of, like, actual jewelry, like… Like this."
+    },
+    {
+      "header": "[u0703 | 01:01:45.850-01:01:47.750 | Sculpit]",
+      "lineNumber": 703,
+      "originalText": "Take these to the ball.",
+      "cleanedText": "Take these to the palm."
+    },
+    {
+      "header": "[u0709 | 01:02:04.800-01:02:28.680 | DM]",
+      "lineNumber": 709,
+      "originalText": "with, Heska and Sculptit and Xena staying behind to actually work on some of this choreography and just, you know, the flight patterns, when they're gonna go up, how it's gonna align with the music. Sculpit is in the zone now. Sculpit is, like, feeling the… he's like, okay, now that he's seen Heska do his thing, this whole thing with the whip and the things coming down, like, in Sculpit's mind, he's like, oh yeah, this is… this is gonna hit. Everybody's gonna love this.",
+      "cleanedText": "with, Heska and Sculpit and Xena staying behind to actually work on some of this choreography and just, you know, the flight patterns, when they're gonna go up, how it's gonna align with the music. Sculpit is in the zone now. Sculpit is, like, feeling the… he's like, okay, now that he's seen Heska do his thing, this whole thing with the whip and the things coming down, like, in Sculpit's mind, he's like, oh yeah, this is… this is gonna hit. Everybody's gonna love this."
+    },
+    {
+      "header": "[u0715 | 01:03:09.230-01:03:14.989 | Zeno]",
+      "lineNumber": 715,
+      "originalText": "That's weird. Now, the… Zarit needs something in trade.",
+      "cleanedText": "That's weird. Now, the… Zare needs something in trade."
+    },
+    {
+      "header": "[u0726 | 01:03:49.290-01:04:03.870 | DM]",
+      "lineNumber": 726,
+      "originalText": "Yeah, there's a… you know where he is, you know where he is. And Zaer? Zaer, like, you know, he's known, he's known you for quite some time, but he's getting his whole tailor set up, and you know, again, it's a whole hustle and bustle, but he sees… he sees the two of you fly over, and he's like, Zeno, what's up?",
+      "cleanedText": "Yeah, there's a… you know where he is, you know where he is. And Zare? Zare, like, you know, he's known, he's known you for quite some time, but he's getting his whole tailor set up, and you know, again, it's a whole hustle and bustle, but he sees… he sees the two of you fly over, and he's like, Zeno, what's up?"
+    },
+    {
+      "header": "[u0727 | 01:04:05.220-01:04:11.229 | Zeno]",
+      "lineNumber": 727,
+      "originalText": "My man, I got an emergency last-minute request, submission critical for the Jubilee. Yeah, yeah, yeah, hit me.",
+      "cleanedText": "My man, I got an emergency last-minute request, it's mission critical for the Jubilee. Yeah, yeah, yeah, hit me."
+    },
+    {
+      "header": "[u0744 | 01:05:01.470-01:05:03.580 | Little Tony]",
+      "lineNumber": 744,
+      "originalText": "Oh, shit, Natural20!",
+      "cleanedText": "Oh, shit, natural 20!"
+    },
+    {
+      "header": "[u0752 | 01:05:55.710-01:05:56.710 | DM]",
+      "lineNumber": 752,
+      "originalText": "Bit mean?",
+      "cleanedText": "Pick me!"
+    },
+    {
+      "header": "[u0755 | 01:06:02.280-01:06:12.869 | Little Tony]",
+      "lineNumber": 755,
+      "originalText": "Here's what I need. I need gems to bedazzle a dazzling dragonette to be… to be, like, cast off over the crowd, like…",
+      "cleanedText": "Here's what I need. I need gems to bedazzle a dazzling dragonet to be… to be, like, cast off over the crowd, like…"
+    },
+    {
+      "header": "[u0757 | 01:06:19.910-01:06:21.010 | DM]",
+      "lineNumber": 757,
+      "originalText": "The Jets, like…",
+      "cleanedText": "The gems, like…"
+    },
+    {
+      "header": "[u0766 | 01:07:12.030-01:07:18.190 | Little Tony]",
+      "lineNumber": 766,
+      "originalText": "I feel the same, like, a moment like this. This is… this is Kuzmet, man, this is… ugh, this is beautiful.",
+      "cleanedText": "I feel the same, like, a moment like this. This is… this is kismet, man, this is… ugh, this is beautiful."
+    },
+    {
+      "header": "[u0767 | 01:07:18.190-01:07:24.960 | DM]",
+      "lineNumber": 767,
+      "originalText": "So Zaire is watching this whole scene, and he's sort of, like, kind of looking, looking at, you know, little Tony, like, he's like, are you…",
+      "cleanedText": "So Zare is watching this whole scene, and he's sort of, like, kind of looking, looking at, you know, Little Tony, like, he's like, are you…"
+    },
+    {
+      "header": "[u0771 | 01:07:42.060-01:07:49.799 | DM]",
+      "lineNumber": 771,
+      "originalText": "Zaire's like, okay, I'm not sure exactly what's happening here, but it's a busy day, what do you have to trade?",
+      "cleanedText": "Zare's like, okay, I'm not sure exactly what's happening here, but it's a busy day, what do you have to trade?"
+    },
+    {
+      "header": "[u0779 | 01:08:03.230-01:08:04.610 | DM]",
+      "lineNumber": 779,
+      "originalText": "You're Lil' Tony, right?",
+      "cleanedText": "You're Little Tony, right?"
+    },
+    {
+      "header": "[u0781 | 01:08:06.610-01:08:08.440 | Zeno]",
+      "lineNumber": 781,
+      "originalText": "This is THE little Tony.",
+      "cleanedText": "This is THE Little Tony."
+    },
+    {
+      "header": "[u0792 | 01:08:32.549-01:08:35.839 | Little Tony]",
+      "lineNumber": 792,
+      "originalText": "The Pebble boat won third place at the Strange Things competition last year.",
+      "cleanedText": "The pebble butt won third place at the Strange Things competition last year."
+    },
+    {
+      "header": "[u0800 | 01:09:14.539-01:09:19.739 | DM]",
+      "lineNumber": 800,
+      "originalText": "Zaire's looking at it, and is like, is this the one that won the third place in the competition last year?",
+      "cleanedText": "Zare's looking at it, and is like, is this the one that won the third place in the competition last year?"
+    },
+    {
+      "header": "[u0802 | 01:09:22.569-01:09:25.689 | Zeno]",
+      "lineNumber": 802,
+      "originalText": "Casino, like, gestures around like Edmund.",
+      "cleanedText": "Zeno, like, gestures around like Edmund."
+    },
+    {
+      "header": "[u0808 | 01:09:35.830-01:09:49.089 | DM]",
+      "lineNumber": 808,
+      "originalText": "Zaire gets out, like, you know, like a monocle, and is just, like, kind of looking closely at the butt, and is, like, rotating the butt, and is kind of just, like, staring, like, looking, looking, looking, and, like, looking at you, looking back at the thing, looking at Xena, looking back at the…",
+      "cleanedText": "Zare gets out, like, you know, like a monocle, and is just, like, kind of looking closely at the butt, and is, like, rotating the butt, and is kind of just, like, staring, like, looking, looking, looking, and, like, looking at you, looking back at the thing, looking at Zeno, looking back at the…"
+    },
+    {
+      "header": "[u0810 | 01:09:52.970-01:09:58.769 | DM]",
+      "lineNumber": 810,
+      "originalText": "And then Zaire's like, Zaire's like, okay, okay, look, I don't have a lot of time, but…",
+      "cleanedText": "And then Zare's like, Zare's like, okay, okay, look, I don't have a lot of time, but…"
+    },
+    {
+      "header": "[u0819 | 01:10:39.800-01:10:41.800 | DM]",
+      "lineNumber": 819,
+      "originalText": "Zaire, like, pauses.",
+      "cleanedText": "Zare, like, pauses."
+    },
+    {
+      "header": "[u0820 | 01:10:42.630-01:10:51.029 | DM]",
+      "lineNumber": 820,
+      "originalText": "He has these, like, long, he has, you know, dragonett hair, but, like, you know, tied up into, like, a long… a long set of, braids in the back, and…",
+      "cleanedText": "He has these, like, long, he has, you know, dragonet hair, but, like, you know, tied up into, like, a long… a long set of, braids in the back, and…"
+    },
+    {
+      "header": "[u0827 | 01:11:13.440-01:11:25.260 | DM]",
+      "lineNumber": 827,
+      "originalText": "You see, like, a lone tear, like, coming down Zaire's… like, a real one. Like, Zaire's, like, been thinking about this pebble butt, and the fact that it's about… he thinks he got a steal.",
+      "cleanedText": "You see, like, a lone tear, like, coming down Zare's… like, a real one. Like, Zare's, like, been thinking about this pebble butt, and the fact that it's about… he thinks he got a steal."
+    },
+    {
+      "header": "[u0828 | 01:11:25.370-01:11:28.550 | DM]",
+      "lineNumber": 828,
+      "originalText": "For just trading, like, 5 random artifacts for the Pubble Blut, so…",
+      "cleanedText": "For just trading, like, 5 random artifacts for the pebble butt, so…"
+    },
+    {
+      "header": "[u0829 | 01:11:29.450-01:11:43.439 | Little Tony]",
+      "lineNumber": 829,
+      "originalText": "He may have. He may have. Like, little Tony's a little easy come, easy go on some things. Like, there's always more things to find, but he says, alright, Edmund, you've been like a brother to me all this time that we've traveled together. I'm gonna miss you.",
+      "cleanedText": "He may have. He may have. Like, Little Tony's a little easy come, easy go on some things. Like, there's always more things to find, but he says, alright, Edmund, you've been like a brother to me all this time that we've traveled together. I'm gonna miss you."
+    },
+    {
+      "header": "[u0834 | 01:11:54.460-01:12:02.309 | DM]",
+      "lineNumber": 834,
+      "originalText": "Schwartz just… and just as a… just to close the scene, from the perspective of Edmund, can you get… can you give a little narration now of what Edmund is experiencing this month?",
+      "cleanedText": "Schwartz just… and just as a… just to close the scene, from the perspective of Edmund, can you get… can you give a little narration now of what Edmund is experiencing this moment?"
+    },
+    {
+      "header": "[u0840 | 01:12:20.040-01:12:26.820 | Little Tony]",
+      "lineNumber": 840,
+      "originalText": "Ever since he was a portion of a statue crafted by the first inhabitants of the car ages ago.",
+      "cleanedText": "Ever since he was a portion of a statue crafted by the first inhabitants of Taelgar ages ago."
+    },
+    {
+      "header": "[u0843 | 01:12:35.660-01:12:49.830 | Little Tony]",
+      "lineNumber": 843,
+      "originalText": "You know, this isn't the weighty, momentous occasion it is for little Tony, but… but there's something touching even to Edmund, after all these centuries, about the care that these two dragonettes are bringing, and Edmund feels good about this.",
+      "cleanedText": "You know, this isn't the weighty, momentous occasion it is for Little Tony, but… but there's something touching even to Edmund, after all these centuries, about the care that these two dragonets are bringing, and Edmund feels good about this."
+    },
+    {
+      "header": "[u0844 | 01:12:51.280-01:13:04.040 | DM]",
+      "lineNumber": 844,
+      "originalText": "And we close this scene with Edmund the Pebble butt, now reverently a part of Zaire's family of stones and pebbles and other collectibles.",
+      "cleanedText": "And we close this scene with Edmund the Pebble butt, now reverently a part of Zare's family of stones and pebbles and other collectibles."
+    },
+    {
+      "header": "[u0845 | 01:13:04.710-01:13:24.010 | DM]",
+      "lineNumber": 845,
+      "originalText": "And so, little Tony, you work with, Zeno, and with your incredible communication and connection with, the various artifacts that are part of, Zaire's collection, find five immaculate pieces. And Zaire actually, in the end, is so grateful, he throws in a couple extra. So, you have…",
+      "cleanedText": "And so, Little Tony, you work with, Zeno, and with your incredible communication and connection with, the various artifacts that are part of, Zare's collection, find five immaculate pieces. And Zare actually, in the end, is so grateful, he throws in a couple extra. So, you have…"
+    },
+    {
+      "header": "[u0849 | 01:13:48.240-01:14:03.149 | DM]",
+      "lineNumber": 849,
+      "originalText": "Zena is super, super ecstatic, and is happy, and prepares for… begins to get the preparations going, as now we're really, really getting down to it and getting close to the sunset. And so, as we shift into the start of the…",
+      "cleanedText": "Xena is super, super ecstatic, and is happy, and prepares for… begins to get the preparations going, as now we're really, really getting down to it and getting close to the sunset. And so, as we shift into the start of the…"
+    },
+    {
+      "header": "[u0851 | 01:14:07.610-01:14:16.200 | DM]",
+      "lineNumber": 851,
+      "originalText": "It's been a very hectic day, and now, all of the Dragon Nets, as the setup is now complete and everything is about ready to go.",
+      "cleanedText": "It's been a very hectic day, and now, all of the dragonets, as the setup is now complete and everything is about ready to go."
+    },
+    {
+      "header": "[u0852 | 01:14:16.740-01:14:31.560 | DM]",
+      "lineNumber": 852,
+      "originalText": "the procession is starting to begin, and all across the island, all across these 8 communities of these Dragonette communities, they start to come and assemble, flying across the island and making their way to the Great Temple.",
+      "cleanedText": "the procession is starting to begin, and all across the island, all across these 8 communities of these dragonet communities, they start to come and assemble, flying across the island and making their way to the Great Temple."
+    },
+    {
+      "header": "[u0857 | 01:14:58.970-01:15:05.869 | DM]",
+      "lineNumber": 857,
+      "originalText": "And the opening ceremony for the Dragonettes is indeed an important one.",
+      "cleanedText": "And the opening ceremony for the dragonets is indeed an important one."
+    },
+    {
+      "header": "[u0859 | 01:15:10.150-01:15:15.679 | DM]",
+      "lineNumber": 859,
+      "originalText": "one of the very, very few times in Dragonette culture where there is actual solemnity",
+      "cleanedText": "one of the very, very few times in dragonet culture where there is actual solemnity"
+    },
+    {
+      "header": "[u0860 | 01:15:15.700-01:15:33.350 | DM]",
+      "lineNumber": 860,
+      "originalText": "And a big part of that is, number one, the appearance of the elders. So, each one of the eight gray Dragon Eck communities, they yearly will find one elder to come and represent, themselves, and represent their community as a part of the eight-fold ceremony.",
+      "cleanedText": "And a big part of that is, number one, the appearance of the elders. So, each one of the eight great dragonet communities, they yearly will find one elder to come and represent, themselves, and represent their community as a part of the eight-fold ceremony."
+    },
+    {
+      "header": "[u0863 | 01:15:49.630-01:15:58.849 | DM]",
+      "lineNumber": 863,
+      "originalText": "And each of the elders from each of the, the community's… Has a different representative.",
+      "cleanedText": "And each of the elders from each of the, the communities… Has a different representative."
+    },
+    {
+      "header": "[u0865 | 01:16:04.340-01:16:08.659 | DM]",
+      "lineNumber": 865,
+      "originalText": "Dragonette with scraps of black, purple, and silver fabric.",
+      "cleanedText": "dragonet with scraps of black, purple, and silver fabric."
+    },
+    {
+      "header": "[u0867 | 01:16:26.280-01:16:34.330 | DM]",
+      "lineNumber": 867,
+      "originalText": "From, from the mother, one of the elders,",
+      "cleanedText": "From, from the Mother, one of the elders,"
+    },
+    {
+      "header": "[u0868 | 01:16:34.440-01:16:44.189 | DM]",
+      "lineNumber": 868,
+      "originalText": "Carries with them a small piece of dried fruit that has been blessed by their community as a representation of food to be fed to the larger family of dragon nets.",
+      "cleanedText": "Carries with them a small piece of dried fruit that has been blessed by their community as a representation of food to be fed to the larger family of dragonets."
+    },
+    {
+      "header": "[u0869 | 01:16:44.510-01:16:49.949 | DM]",
+      "lineNumber": 869,
+      "originalText": "From Bright Faced, there's a ceremonial sash.",
+      "cleanedText": "From Brightface, there's a ceremonial sash."
+    },
+    {
+      "header": "[u0874 | 01:17:14.330-01:17:24.580 | DM]",
+      "lineNumber": 874,
+      "originalText": "Another great moment for the community here are the clutches. All of the dragonette eggs that are currently still hatching, or in the process of going through this birth.",
+      "cleanedText": "Another great moment for the community here are the clutches. All of the dragonet eggs that are currently still hatching, or in the process of going through this birth."
+    },
+    {
+      "header": "[u0877 | 01:17:39.880-01:17:48.370 | DM]",
+      "lineNumber": 877,
+      "originalText": "For as wild and as funny and as sarcastic and whatever as the dragon nets are, the clutches in these eggs are so, so important to the larger community.",
+      "cleanedText": "For as wild and as funny and as sarcastic and whatever as the dragonets are, the clutches and these eggs are so, so important to the larger community."
+    },
+    {
+      "header": "[u0880 | 01:18:02.030-01:18:12.360 | DM]",
+      "lineNumber": 880,
+      "originalText": "adorned with the culture of their… of their, larger Dragon Egg community, starts to make their way closer in towards the center of the… the eight-fold circle.",
+      "cleanedText": "adorned with the culture of their… of their, larger dragonet community, starts to make their way closer in towards the center of the… the eight-fold circle."
+    },
+    {
+      "header": "[u0885 | 01:18:42.060-01:18:45.110 | DM]",
+      "lineNumber": 885,
+      "originalText": "A living spring, a die.",
+      "cleanedText": "A living sprig, a die."
+    },
+    {
+      "header": "[u0888 | 01:18:56.170-01:19:03.009 | DM]",
+      "lineNumber": 888,
+      "originalText": "From Bright Face, steps forward with paint on their face, ceremonial in red and green and blue.",
+      "cleanedText": "From Brightface, steps forward with paint on their face, ceremonial in red and green and blue."
+    },
+    {
+      "header": "[u0894 | 01:19:29.930-01:19:42.189 | DM]",
+      "lineNumber": 894,
+      "originalText": "While there are 8 communities and all of the different clutches and the different siblings and the families, there's a real feeling of unity, a real feeling of connection amongst all of the Dragon Nets that are here.",
+      "cleanedText": "While there are 8 communities and all of the different clutches and the different siblings and the families, there's a real feeling of unity, a real feeling of connection amongst all of the dragonets that are here."
+    },
+    {
+      "header": "[u0907 | 01:20:59.820-01:21:01.090 | DM]",
+      "lineNumber": 907,
+      "originalText": "This is her time to show me.",
+      "cleanedText": "This is her time to shine."
+    },
+    {
+      "header": "[u0913 | 01:21:26.920-01:21:27.770 | Heska]",
+      "lineNumber": 913,
+      "originalText": "Can't you?",
+      "cleanedText": "Can't hear you."
+    },
+    {
+      "header": "[u0914 | 01:21:28.440-01:21:29.130 | DM]",
+      "lineNumber": 914,
+      "originalText": "Micro audio.",
+      "cleanedText": "Mike, your audio."
+    },
+    {
+      "header": "[u0922 | 01:21:42.760-01:21:51.740 | DM]",
+      "lineNumber": 922,
+      "originalText": "Yeah. But Xena's, like, like, looking at you just, like, she's, like, you know, an extremely confident, you know, dragonette, but also.",
+      "cleanedText": "Yeah. But Xena's, like, like, looking at you just, like, she's, like, you know, an extremely confident, you know, dragonet, but also."
+    },
+    {
+      "header": "[u0934 | 01:22:18.710-01:22:25.189 | DM]",
+      "lineNumber": 934,
+      "originalText": "And Huska, now that you all have done enough of this performance, where are you positioned?",
+      "cleanedText": "And Heska, now that you all have done enough of this performance, where are you positioned?"
+    },
+    {
+      "header": "[u0939 | 01:22:52.800-01:22:58.319 | Zeno]",
+      "lineNumber": 939,
+      "originalText": "neck… Where if somebody else is trying to do something new, they add a D4.",
+      "cleanedText": "knack… Where if somebody else is trying to do something new, they add a D4."
+    },
+    {
+      "header": "[u0941 | 01:23:00.360-01:23:01.759 | Sculpit]",
+      "lineNumber": 941,
+      "originalText": "Aren't you a barg too?",
+      "cleanedText": "Aren't you a bard too?"
+    },
+    {
+      "header": "[u0947 | 01:23:19.420-01:23:31.170 | DM]",
+      "lineNumber": 947,
+      "originalText": "as the one family moment happens, and everybody erupts into cheers, the Dragonette band starts to play, right? And every single one of the communities in the front, like, has a full-on",
+      "cleanedText": "as the one family moment happens, and everybody erupts into cheers, the dragonet band starts to play, right? And every single one of the communities in the front, like, has a full-on"
+    },
+    {
+      "header": "[u0948 | 01:23:31.520-01:23:42.329 | DM]",
+      "lineNumber": 948,
+      "originalText": "set of instrumentalists, drummers, guitar players, and it's, like, a cacophony of sound, but also, like, sounds, like, surprisingly good. Because this is, like, the elite kind of set of musicians for each of the Dragonhead families.",
+      "cleanedText": "set of instrumentalists, drummers, guitar players, and it's, like, a cacophony of sound, but also, like, sounds, like, surprisingly good. Because this is, like, the elite kind of set of musicians for each of the dragonet families."
+    },
+    {
+      "header": "[u0951 | 01:23:46.080-01:24:02.110 | DM]",
+      "lineNumber": 951,
+      "originalText": "In addition to Xena, there's a few other, you know, kind of side, like, in the front of each robe, there's, like, a set of, like, dancers, like, playing and spinning with fire, and then, you know, there's the music that's happening, but the aerial performance, this is where Xena, like, shoots up.",
+      "cleanedText": "In addition to Xena, there's a few other, you know, kind of side, like, in the front of each row, there's, like, a set of, like, dancers, like, playing and spinning with fire, and then, you know, there's the music that's happening, but the aerial performance, this is where Xena, like, shoots up."
+    },
+    {
+      "header": "[u0952 | 01:24:02.780-01:24:05.190 | DM]",
+      "lineNumber": 952,
+      "originalText": "And… so Zim's got advantage now?",
+      "cleanedText": "And… so Xena's got advantage now?"
+    },
+    {
+      "header": "[u0954 | 01:24:07.620-01:24:09.160 | Sculpit]",
+      "lineNumber": 954,
+      "originalText": "And the plus Webv6.",
+      "cleanedText": "And the plus 1d6."
+    },
+    {
+      "header": "[u0956 | 01:24:10.320-01:24:13.199 | Sculpit]",
+      "lineNumber": 956,
+      "originalText": "And the Barnic inspirations, like she gets asked for all these things.",
+      "cleanedText": "And the Bardic Inspiration, like she gets asked for all these things."
+    },
+    {
+      "header": "[u0957 | 01:24:13.490-01:24:19.109 | DM]",
+      "lineNumber": 957,
+      "originalText": "Alright, so, how do I roll for Zeno? Okay, first one. Roll?",
+      "cleanedText": "Alright, so, how do I roll for Xena? Okay, first one. Roll?"
+    },
+    {
+      "header": "[u0965 | 01:24:42.360-01:25:02.350 | DM]",
+      "lineNumber": 965,
+      "originalText": "She has got emerald earrings, belly ring, like, piercings on her nose, like, puts a claw in the air, like, launchers herself up straight in the air, and also trailing behind her. You don't know how or why this is happening, but there's, like, green smoke. There's, like, a rainbow smoke trail, like, almost like she's a jet with a wake, you know, like a rainbow wake behind her.",
+      "cleanedText": "She has got emerald earrings, belly ring, like, piercings on her nose, like, puts a claw in the air, like, launches herself up straight in the air, and also trailing behind her. You don't know how or why this is happening, but there's, like, green smoke. There's, like, a rainbow smoke trail, like, almost like she's a jet with a wake, you know, like a rainbow wake behind her."
+    },
+    {
+      "header": "[u0968 | 01:25:07.840-01:25:32.139 | DM]",
+      "lineNumber": 968,
+      "originalText": "And then, you know, again, who knows exactly how this is happening, if there's an illusionist or whatever, but these artifacts start appearing, like, these different spinning, like, circles that she's, like, flying through, and she is diving, and Sculptit, you are, like, she is killing it. Because right now, all of the various kind of choreographies, and even, like, a couple of things that you didn't quite plan, you know, she was only supposed to do a single loop and ends up doing, like, a double-triple loop around it, but she's, like, feeling it.",
+      "cleanedText": "And then, you know, again, who knows exactly how this is happening, if there's an illusionist or whatever, but these artifacts start appearing, like, these different spinning, like, circles that she's, like, flying through, and she is diving, and Sculpit, you are, like, she is killing it. Because right now, all of the various kind of choreographies, and even, like, a couple of things that you didn't quite plan, you know, she was only supposed to do a single loop and ends up doing, like, a double-triple loop around it, but she's, like, feeling it."
+    },
+    {
+      "header": "[u0969 | 01:25:32.180-01:25:37.049 | DM]",
+      "lineNumber": 969,
+      "originalText": "And you are… you are very, very happy at your people right now, that she's… she's really, really nailing it.",
+      "cleanedText": "And you are… you are very, very happy at your pupil right now, that she's… she's really, really nailing it."
+    },
+    {
+      "header": "[u0976 | 01:26:21.640-01:26:24.769 | Heska]",
+      "lineNumber": 976,
+      "originalText": "Hasco nervously launches into the air.",
+      "cleanedText": "Heska nervously launches into the air."
+    },
+    {
+      "header": "[u0980 | 01:26:38.270-01:26:40.920 | Heska]",
+      "lineNumber": 980,
+      "originalText": "possible role that Heska could get.",
+      "cleanedText": "possible roll that Heska could get."
+    },
+    {
+      "header": "[u0984 | 01:26:52.830-01:26:53.860 | DM]",
+      "lineNumber": 984,
+      "originalText": "Zena.",
+      "cleanedText": "Xena."
+    },
+    {
+      "header": "[u0987 | 01:27:06.480-01:27:15.030 | Heska]",
+      "lineNumber": 987,
+      "originalText": "Where, nobody can see anything. Like, 20 feet radius, fog cloud, passed a spell.",
+      "cleanedText": "Where, nobody can see anything. Like, 20 feet radius, fog cloud, cast a spell."
+    },
+    {
+      "header": "[u0989 | 01:27:19.870-01:27:21.750 | Little Tony]",
+      "lineNumber": 989,
+      "originalText": "Oh, Tony turns to skull, but that's…",
+      "cleanedText": "Little Tony turns to Sculpit, that's…"
+    },
+    {
+      "header": "[u0997 | 01:27:46.860-01:27:52.060 | Heska]",
+      "lineNumber": 997,
+      "originalText": "Oops, that was slate of hand. It's supposed to be stealth. Anyway, Hezka's hiding in this fog cloud.",
+      "cleanedText": "Oops, that was Sleight of Hand. It's supposed to be stealth. Anyway, Heska's hiding in this fog cloud."
+    },
+    {
+      "header": "[u1005 | 01:28:27.020-01:28:28.770 | Little Tony]",
+      "lineNumber": 1005,
+      "originalText": "Skull, nobody… what do you think?",
+      "cleanedText": "Sculpit, buddy… what do you think?"
+    },
+    {
+      "header": "[u1019 | 01:30:05.710-01:30:26.639 | DM]",
+      "lineNumber": 1019,
+      "originalText": "like, Heska, you get this sensation as, like, Xena's looking at you with all of the heart eyes, and the heart eyes, like, all instantly, like, evaporate. Like, they evaporate, and, like, the look in her eyes as she's looking at you… like, you know earlier when she was, like, talking to little Tony and was like, hey, you know, if you don't come back with the artifacts, I'mma kill you?",
+      "cleanedText": "like, Heska, you get this sensation as, like, Xena's looking at you with all of the heart eyes, and the heart eyes, like, all instantly, like, evaporate. Like, they evaporate, and, like, the look in her eyes as she's looking at you… like, you know earlier when she was, like, talking to Little Tony and was like, hey, you know, if you don't come back with the artifacts, I'mma kill you?"
+    },
+    {
+      "header": "[u1025 | 01:30:40.770-01:30:43.849 | DM]",
+      "lineNumber": 1025,
+      "originalText": "Nobody didn't see anything, but you got, you, you got the daggers.",
+      "cleanedText": "Nobody can see anything, but you got, you, you got the daggers."
+    },
+    {
+      "header": "[u1029 | 01:31:13.070-01:31:29.990 | DM]",
+      "lineNumber": 1029,
+      "originalText": "In the history of the Dragon X. And just, like, you know, shouts and is, like, puts out a victory sign, and her energy around that is, like, positive enough that, like, whatever they people saw, they just kind of remember her confidence at the moment, like, on top of this fog, just, like.",
+      "cleanedText": "In the history of the dragonets. And just, like, you know, shouts and is, like, puts out a victory sign, and her energy around that is, like, positive enough that, like, whatever they people saw, they just kind of remember her confidence at the moment, like, on top of this fog, just, like."
+    },
+    {
+      "header": "[u1030 | 01:31:29.990-01:31:38.810 | DM]",
+      "lineNumber": 1030,
+      "originalText": "I am the greatest. And the Dragon Nets, they still let out a big cheer. There's still, like, a lot of, like, you know, just, like, stoke. The stoke is still incredibly high.",
+      "cleanedText": "I am the greatest. And the dragonets, they still let out a big cheer. There's still, like, a lot of, like, you know, just, like, stoke. The stoke is still incredibly high."
+    },
+    {
+      "header": "[u1038 | 01:32:53.090-01:32:56.090 | DM]",
+      "lineNumber": 1038,
+      "originalText": "Huska, where do you go, and where are the three of you?",
+      "cleanedText": "Heska, where do you go, and where are the three of you?"
+    },
+    {
+      "header": "[u1039 | 01:32:57.960-01:33:04.740 | Heska]",
+      "lineNumber": 1039,
+      "originalText": "So HESCA is… trying to… Like, sneak off through…",
+      "cleanedText": "So Heska is… trying to… Like, sneak off through…"
+    },
+    {
+      "header": "[u1055 | 01:34:06.700-01:34:07.170 | Zeno]",
+      "lineNumber": 1055,
+      "originalText": "your era.",
+      "cleanedText": "your arrow."
+    },
+    {
+      "header": "[u1058 | 01:34:15.630-01:34:21.040 | DM]",
+      "lineNumber": 1058,
+      "originalText": "To be fair, Zena's very hot and cold, and she often wants to kill everyone, so just, you know…",
+      "cleanedText": "To be fair, Xena's very hot and cold, and she often wants to kill everyone, so just, you know…"
+    },
+    {
+      "header": "[u1067 | 01:34:45.360-01:34:54.260 | Little Tony]",
+      "lineNumber": 1067,
+      "originalText": "Like, this is not the time to cr-set your fucking bush! Oh, that makes you mad? Yeah, come over here and tell me that. Oh, you can't? Because you're… fuck me? Fuck you.",
+      "cleanedText": "Like, this is not the time to criticize. You're a fucking bush! Oh, that makes you mad? Yeah, come over here and tell me that. Oh, you can't? Because you're… fuck me? Fuck you."
+    },
+    {
+      "header": "[u1068 | 01:34:57.910-01:35:03.170 | Little Tony]",
+      "lineNumber": 1068,
+      "originalText": "unsupportive. And, and, and turns back to, to Hesk and says.",
+      "cleanedText": "unsupportive. And, and, and turns back to, to Heska and says."
+    },
+    {
+      "header": "[u1097 | 01:36:43.080-01:36:50.339 | Sculpit]",
+      "lineNumber": 1097,
+      "originalText": "Sculpit is, like, fairly… I don't even have a good sense of what dragon ants wear, to be honest.",
+      "cleanedText": "Sculpit is, like, fairly… I don't even have a good sense of what dragonets wear, to be honest."
+    },
+    {
+      "header": "[u1106 | 01:37:42.840-01:37:44.990 | Heska]",
+      "lineNumber": 1106,
+      "originalText": "Nesca just shakes his head.",
+      "cleanedText": "Heska just shakes his head."
+    },
+    {
+      "header": "[u1108 | 01:38:06.530-01:38:16.019 | DM]",
+      "lineNumber": 1108,
+      "originalText": "like, we are all one type of vibe. So, even with this, like, Zena, you know, after, you know, she kind of talks to people, like, comes over, and like, you know, finds…",
+      "cleanedText": "like, we are all one type of vibe. So, even with this, like, Xena, you know, after, you know, she kind of talks to people, like, comes over, and like, you know, finds…"
+    },
+    {
+      "header": "[u1112 | 01:38:27.300-01:38:29.450 | Heska]",
+      "lineNumber": 1112,
+      "originalText": "Ask it turns bright red again.",
+      "cleanedText": "Heska turns bright red again."
+    },
+    {
+      "header": "[u1113 | 01:38:30.340-01:38:36.189 | DM]",
+      "lineNumber": 1113,
+      "originalText": "And, and Zena gives you, like, a quick little kiss on the cheek, and then, you know, bounces away.",
+      "cleanedText": "And, and Xena gives you, like, a quick little kiss on the cheek, and then, you know, bounces away."
+    },
+    {
+      "header": "[u1120 | 01:39:08.590-01:39:23.339 | DM]",
+      "lineNumber": 1120,
+      "originalText": "into the post-opening ceremony, into now the Dragonet actual games. And this is very much kind of like a Burning Man sort of vibe, where there's, you know, a bunch of things happening in different spaces across the temple grounds.",
+      "cleanedText": "into the post-opening ceremony, into now the dragonet actual games. And this is very much kind of like a Burning Man sort of vibe, where there's, you know, a bunch of things happening in different spaces across the temple grounds."
+    },
+    {
+      "header": "[u1122 | 01:39:29.950-01:39:42.500 | DM]",
+      "lineNumber": 1122,
+      "originalText": "is the call and response, the spoken word showdown that happens every single year. And Zeno, for you, while Dragonettes are all family and all love.",
+      "cleanedText": "is the call and response, the spoken word showdown that happens every single year. And Zeno, for you, while dragonets are all family and all love."
+    },
+    {
+      "header": "[u1127 | 01:39:50.210-01:40:04.190 | DM]",
+      "lineNumber": 1127,
+      "originalText": "Oh, Rosca. Oh, Rosca. And Rosca is part of a larger crew of Dragonettes. You have your own crews as well, you know, everybody kind of floats around, but Rosca's crew is… the best way to describe Rosca's crew… let me,",
+      "cleanedText": "Oh, Rosca. Oh, Rosca. And Rosca is part of a larger crew of dragonets. You have your own crews as well, you know, everybody kind of floats around, but Rosca's crew is… the best way to describe Rosca's crew… let me,"
+    },
+    {
+      "header": "[u1128 | 01:40:05.660-01:40:08.330 | DM]",
+      "lineNumber": 1128,
+      "originalText": "Let's go, let's bring, let's bring in Roscoe's crew.",
+      "cleanedText": "Let's go, let's bring, let's bring in Rosca's crew."
+    },
+    {
+      "header": "[u1134 | 01:40:39.920-01:40:50.519 | DM]",
+      "lineNumber": 1134,
+      "originalText": "that can actually, like, you know, bring some, like, real, actual beats and music, and make the Dragon Ants dance the hardest. That is a big part of the energy.",
+      "cleanedText": "that can actually, like, you know, bring some, like, real, actual beats and music, and make the dragonets dance the hardest. That is a big part of the energy."
+    },
+    {
+      "header": "[u1139 | 01:40:58.000-01:40:58.459 | DM]",
+      "lineNumber": 1139,
+      "originalText": "Oh, Scott.",
+      "cleanedText": "Rosca."
+    },
+    {
+      "header": "[u1140 | 01:40:58.460-01:41:02.120 | DM]",
+      "lineNumber": 1140,
+      "originalText": "where MCs, the Dragon Nets, will get into the center.",
+      "cleanedText": "where MCs, the dragonets, will get into the center."
+    },
+    {
+      "header": "[u1145 | 01:41:32.520-01:41:41.239 | Zeno]",
+      "lineNumber": 1145,
+      "originalText": "So, I was kind of, like, occasionally mumbling all day, like, Rosa, I'm gonna toss, Rosca, you know, I gotcha,",
+      "cleanedText": "So, I was kind of, like, occasionally mumbling all day, like, Rosca, I'm gonna toss, Rosca, you know, I gotcha,"
+    },
+    {
+      "header": "[u1146 | 01:41:41.380-01:41:52.170 | Zeno]",
+      "lineNumber": 1146,
+      "originalText": "Rosa Rodatus. Wow. Guy, my eyes with… oh, man, I… this is what… this is why he's my rival. It's, like, very difficult to disparagingly run against him.",
+      "cleanedText": "Rosca Rodatus. Wow. Guy, my eyes with… oh, man, I… this is what… this is why he's my rival. It's, like, very difficult to disparagingly rhyme against him."
+    },
+    {
+      "header": "[u1150 | 01:42:09.860-01:42:16.650 | DM]",
+      "lineNumber": 1150,
+      "originalText": "Rosa, like, basically kind of looks and sees, like, the before of you, like, as a little mini crew, like, rolling up.",
+      "cleanedText": "Rosca, like, basically kind of looks and sees, like, the four of you, like, as a little mini crew, like, rolling up."
+    },
+    {
+      "header": "[u1151 | 01:42:16.650-01:42:21.869 | DM]",
+      "lineNumber": 1151,
+      "originalText": "And Rosa looks over, Clearly noticing you and seeing you.",
+      "cleanedText": "And Rosca looks over, Clearly noticing you and seeing you."
+    },
+    {
+      "header": "[u1160 | 01:42:55.160-01:43:00.190 | DM]",
+      "lineNumber": 1160,
+      "originalText": "And he looks at the Hulker, and your whole crew is all going down. Are they all part of this, too?",
+      "cleanedText": "And he looks at the whole crew, and your whole crew is all going down. Are they all part of this, too?"
+    },
+    {
+      "header": "[u1168 | 01:43:15.650-01:43:21.620 | Sculpit]",
+      "lineNumber": 1168,
+      "originalText": "Sculpit will, like, go over to… to, you know, and be like, look.",
+      "cleanedText": "Sculpit will, like, go over to… to Zeno, and be like, look."
+    },
+    {
+      "header": "[u1172 | 01:43:41.850-01:43:43.979 | Sculpit]",
+      "lineNumber": 1172,
+      "originalText": "And you get a part of inspiration.",
+      "cleanedText": "And you get Bardic Inspiration."
+    },
+    {
+      "header": "[u1179 | 01:44:02.470-01:44:17.879 | DM]",
+      "lineNumber": 1179,
+      "originalText": "Dude, I just love this metagame, I just love how this particular group of Dragonettes, all of you are, like, fucking, like, shy, weird introverts, like, and none of you are, like, actually, like, part of, like, the core Dragonette culture.",
+      "cleanedText": "Dude, I just love this metagame, I just love how this particular group of dragonets, all of you are, like, fucking, like, shy, weird introverts, like, and none of you are, like, actually, like, part of, like, the core dragonet culture."
+    },
+    {
+      "header": "[u1185 | 01:44:34.350-01:44:47.650 | DM]",
+      "lineNumber": 1185,
+      "originalText": "you know, Rosa… Rosa is… is, he's hyped to see you, but Rosca, you know, it's like… it's a dragon head thing, right? It's like, y'all are, like, enemies, but also friends, you know what I mean? Like, Rosa, like, you also will have, like, friendly battles with him, etc.",
+      "cleanedText": "you know, Rosca… Rosca is… is, he's hyped to see you, but Rosca, you know, it's like… it's a dragonet thing, right? It's like, y'all are, like, enemies, but also friends, you know what I mean? Like, Rosca, like, you also will have, like, friendly battles with him, etc."
+    },
+    {
+      "header": "[u1189 | 01:44:54.570-01:44:58.769 | DM]",
+      "lineNumber": 1189,
+      "originalText": "you know, Rosa wants a piece of you. You know, Rosa is ready for this moment.",
+      "cleanedText": "you know, Rosca wants a piece of you. You know, Rosca is ready for this moment."
+    },
+    {
+      "header": "[u1190 | 01:44:58.970-01:45:07.640 | DM]",
+      "lineNumber": 1190,
+      "originalText": "So… Oh, Eric Roy, what'd you go? Oh, there you go. I just had to take something out of a toaster. I'm, like, making Lizzie's lunch while we're playing.",
+      "cleanedText": "So… Oh, Eric, where'd you go? Oh, there you go. I just had to take something out of a toaster. I'm, like, making Lizzie's lunch while we're playing."
+    },
+    {
+      "header": "[u1192 | 01:45:08.780-01:45:19.539 | DM]",
+      "lineNumber": 1192,
+      "originalText": "So basically, you know, part of what happens now is there's, like, a circle that's forming around you all. And, you know, Heska, Sculptit, Will Pony, y'all are in the circle.",
+      "cleanedText": "So basically, you know, part of what happens now is there's, like, a circle that's forming around you all. And, you know, Heska, Sculpit, Little Tony, y'all are in the circle."
+    },
+    {
+      "header": "[u1193 | 01:45:19.830-01:45:29.549 | DM]",
+      "lineNumber": 1193,
+      "originalText": "Little Tony, you know, part of what's cool here is, like, this particular kind of Dragonet circle and this, this particular kind of call and response thing.",
+      "cleanedText": "Little Tony, you know, part of what's cool here is, like, this particular kind of dragonet circle and this, this particular kind of call and response thing."
+    },
+    {
+      "header": "[u1197 | 01:45:52.000-01:46:08.610 | DM]",
+      "lineNumber": 1197,
+      "originalText": "Heska, something that you, like, are really enjoying about this, because again, there's this whole dance battle part of it, and, you know, for you as, like, a hunter acrobat, like, it's really, really, like, hypnotic, like, watching the physical movements of some of these dragoneth, like, that's something that, you know, you're really appealed by.",
+      "cleanedText": "Heska, something that you, like, are really enjoying about this, because again, there's this whole dance battle part of it, and, you know, for you as, like, a hunter acrobat, like, it's really, really, like, hypnotic, like, watching the physical movements of some of these dragonets, like, that's something that, you know, you're really appealed by."
+    },
+    {
+      "header": "[u1198 | 01:46:08.690-01:46:22.990 | DM]",
+      "lineNumber": 1198,
+      "originalText": "And Sculptit, you know, you're always, in these performance spaces, like, you can't turn off the part of you that's just, like, analyzing this shit and being like, ugh, you know, that was cool, but if you took that wing back and just did a little bit more of the shimmy.",
+      "cleanedText": "And Sculpit, you know, you're always, in these performance spaces, like, you can't turn off the part of you that's just, like, analyzing this shit and being like, ugh, you know, that was cool, but if you took that wing back and just did a little bit more of the shimmy."
+    },
+    {
+      "header": "[u1202 | 01:46:30.500-01:46:34.850 | DM]",
+      "lineNumber": 1202,
+      "originalText": "This is kind of your moment. And Rosa, like, kind of starts dancing in the middle.",
+      "cleanedText": "This is kind of your moment. And Rosca, like, kind of starts dancing in the middle."
+    },
+    {
+      "header": "[u1205 | 01:46:43.150-01:46:48.240 | DM]",
+      "lineNumber": 1205,
+      "originalText": "And he starts, like, wait, like, really? And, and, and Rosca's gonna, Rosa's gonna roll for his, his, his,",
+      "cleanedText": "And he starts, like, wait, like, really? And, and, and Rosca's gonna, Rosca's gonna roll for his, his, his,"
+    },
+    {
+      "header": "[u1227 | 01:47:49.250-01:47:56.590 | Zeno]",
+      "lineNumber": 1227,
+      "originalText": "On him, because normally you'd use it on your crew, and then the crab, like, doing your chant back and forth.",
+      "cleanedText": "On him, because normally you'd use it on your crew, and then the crowd, like, doing your chant back and forth."
+    },
+    {
+      "header": "[u1230 | 01:48:01.390-01:48:02.490 | Heska]",
+      "lineNumber": 1230,
+      "originalText": "3 max.",
+      "cleanedText": "3 knacks."
+    },
+    {
+      "header": "[u1245 | 01:48:35.170-01:48:42.669 | DM]",
+      "lineNumber": 1245,
+      "originalText": "Roscoe rolls a… 14, you win. You start.",
+      "cleanedText": "Rosca rolls a… 14, you win. You start."
+    },
+    {
+      "header": "[u1254 | 01:49:16.980-01:49:21.129 | Zeno]",
+      "lineNumber": 1254,
+      "originalText": "Alright, so should I… can I roll my sick breath?",
+      "cleanedText": "Alright, so should I… can I roll my Sick Burn?"
+    },
+    {
+      "header": "[u1258 | 01:49:26.100-01:49:31.969 | Heska]",
+      "lineNumber": 1258,
+      "originalText": "Stickburn's a minus 1d4 to Rosca's role. You should probably just roll performance for yourself.",
+      "cleanedText": "Sick Burn's a minus 1d4 to Rosca's roll. You should probably just roll performance for yourself."
+    },
+    {
+      "header": "[u1263 | 01:49:42.370-01:49:44.789 | Sculpit]",
+      "lineNumber": 1263,
+      "originalText": "That's your Bonic inspiration, too, right? Why not?",
+      "cleanedText": "That's your Bardic Inspiration, too, right? Why not?"
+    },
+    {
+      "header": "[u1267 | 01:49:52.780-01:49:55.440 | Heska]",
+      "lineNumber": 1267,
+      "originalText": "to subtract 1D4 from his role.",
+      "cleanedText": "to subtract 1D4 from his roll."
+    },
+    {
+      "header": "[u1272 | 01:49:59.710-01:50:02.450 | Sculpit]",
+      "lineNumber": 1272,
+      "originalText": "Right, okay. So, maybe Bartic inspiration.",
+      "cleanedText": "Right, okay. So, maybe Bardic Inspiration."
+    },
+    {
+      "header": "[u1273 | 01:50:02.730-01:50:03.509 | Heska]",
+      "lineNumber": 1273,
+      "originalText": "Hong, I sent you a.",
+      "cleanedText": "Kong, I sent you a."
+    },
+    {
+      "header": "[u1278 | 01:50:13.970-01:50:28.539 | DM]",
+      "lineNumber": 1278,
+      "originalText": "Okay, so just… Raska is, like, decked out. Raska's got, like, you know, jewelry, he's got, you know, like, all, like, his costuming is, like, peak. And that's part of, like, his performance, like, he's got, you know, a proper… what's your performance plus?",
+      "cleanedText": "Okay, so just… Rosca is, like, decked out. Rosca's got, like, you know, jewelry, he's got, you know, like, all, like, his costuming is, like, peak. And that's part of, like, his performance, like, he's got, you know, a proper… what's your performance plus?"
+    },
+    {
+      "header": "[u1279 | 01:50:28.910-01:50:29.619 | DM]",
+      "lineNumber": 1279,
+      "originalText": "Zena?",
+      "cleanedText": "Zeno?"
+    },
+    {
+      "header": "[u1281 | 01:50:32.560-01:50:37.380 | DM]",
+      "lineNumber": 1281,
+      "originalText": "Yeah, Rosca, Rosa, like, right now, he's got a plus 8. Like, he's, like, he's, like, looking fire.",
+      "cleanedText": "Yeah, Rosca, Rosca, like, right now, he's got a plus 8. Like, he's, like, he's, like, looking fire."
+    },
+    {
+      "header": "[u1286 | 01:50:47.210-01:50:49.889 | DM]",
+      "lineNumber": 1286,
+      "originalText": "Okay, so you, you did your, you did your, what was your, what was your role again?",
+      "cleanedText": "Okay, so you, you did your, you did your, what was your, what was your roll again?"
+    },
+    {
+      "header": "[u1287 | 01:50:50.810-01:50:51.250 | Zeno]",
+      "lineNumber": 1287,
+      "originalText": "anytime.",
+      "cleanedText": "22."
+    },
+    {
+      "header": "[u1289 | 01:50:52.920-01:50:58.800 | DM]",
+      "lineNumber": 1289,
+      "originalText": "So Rakut's like, zeno, gonna burn you to the ground!",
+      "cleanedText": "So Rosca's like, Zeno, gonna burn you to the ground!"
+    },
+    {
+      "header": "[u1297 | 01:51:15.170-01:51:23.259 | DM]",
+      "lineNumber": 1297,
+      "originalText": "And Rosca, Rosa, you know, he's… he's definitely, he's definitely, like, throwing the fire. Like, you're feeling a little, like, oh, shit, Rosca's definitely bringing the heat today.",
+      "cleanedText": "And Rosca, Rosca, you know, he's… he's definitely, he's definitely, like, throwing the fire. Like, you're feeling a little, like, oh, shit, Rosca's definitely bringing the heat today."
+    },
+    {
+      "header": "[u1305 | 01:51:43.220-01:52:05.949 | DM]",
+      "lineNumber": 1305,
+      "originalText": "So basically, this first round, you know, after, like, this back and forth that's happening, and all the Dragonettes, they're kind of bouncing and looking, and you know, they're cheering as, like, kind of each moment happens, but then it's like, you know, kind of once Raska finishes, you know, there's the MC Dragonette that kind of stands up in the middle, and then basically, like, points first at, like, Rosa, and everybody cheers, but then he points over to you, to Zeno, and then everybody's like.",
+      "cleanedText": "So basically, this first round, you know, after, like, this back and forth that's happening, and all the dragonets, they're kind of bouncing and looking, and you know, they're cheering as, like, kind of each moment happens, but then it's like, you know, kind of once Rosca finishes, you know, there's the MC dragonet that kind of stands up in the middle, and then basically, like, points first at, like, Rosca, and everybody cheers, but then he points over to you, to Zeno, and then everybody's like."
+    },
+    {
+      "header": "[u1311 | 01:52:23.420-01:52:25.160 | DM]",
+      "lineNumber": 1311,
+      "originalText": "15, Rosa gets the first round.",
+      "cleanedText": "15, Rosca gets the first round."
+    },
+    {
+      "header": "[u1312 | 01:52:26.710-01:52:38.479 | DM]",
+      "lineNumber": 1312,
+      "originalText": "Rosca now is, like, he's pissed. He's like… Rosa does not like to lose, and the fact that he lost that first round, he started to, like, feel a little something-something, so… He, like, reaches into his… oh, hold on.",
+      "cleanedText": "Rosca now is, like, he's pissed. He's like… Rosca does not like to lose, and the fact that he lost that first round, he started to, like, feel a little something-something, so… He, like, reaches into his… oh, hold on."
+    },
+    {
+      "header": "[u1314 | 01:52:45.410-01:52:56.139 | DM]",
+      "lineNumber": 1314,
+      "originalText": "Rosa, like, he's like… like, and you know Rosa, too. Like, Rosa typically in these battles, like, he gets more and more elaborate with, like, props and stunts. It's sort of like the NBA dunk contest, you know, it gets more ridiculous.",
+      "cleanedText": "Rosca, like, he's like… like, and you know Rosca, too. Like, Rosca typically in these battles, like, he gets more and more elaborate with, like, props and stunts. It's sort of like the NBA dunk contest, you know, it gets more ridiculous."
+    },
+    {
+      "header": "[u1318 | 01:53:13.410-01:53:17.920 | DM]",
+      "lineNumber": 1318,
+      "originalText": "about objects and, like, making rhymes, like, clever rhymes, like, with the different things.",
+      "cleanedText": "out objects and, like, making rhymes, like, clever rhymes, like, with the different things."
+    },
+    {
+      "header": "[u1325 | 01:53:29.410-01:53:47.469 | DM]",
+      "lineNumber": 1325,
+      "originalText": "You see Rosa, and he's like, he's like, you know, because, like, one of the big things at Jubilee is, like, people playing with eggs, you know, because this is, like, the big… and oh, I should have mentioned earlier, it's like, if a dragon that actually hatches at the Jubilee, it's, like, fucking mayhem. It's like, oh, fuck, like, an actual, like, hatchling, like, occurred at the Jubilee.",
+      "cleanedText": "You see Rosca, and he's like, he's like, you know, because, like, one of the big things at Jubilee is, like, people playing with eggs, you know, because this is, like, the big… and oh, I should have mentioned earlier, it's like, if a dragonet actually hatches at the Jubilee, it's, like, fucking mayhem. It's like, oh, fuck, like, an actual, like, hatchling, like, occurred at the Jubilee."
+    },
+    {
+      "header": "[u1328 | 01:54:00.060-01:54:19.799 | DM]",
+      "lineNumber": 1328,
+      "originalText": "play eggs, they're, like, everywhere. It's like, Rosa's, like, reaching in his pouch, and he's ready for, like, super good burn, like, around, like, he's gonna be like, oh, yeah, and, like, I'm gonna hit you with my neck, just like you were my clutch thing in my egg! And he's about to, like, say egg, and he's, like, pulling… reaching into his pouch to pull out an egg, and he's sort of like, wait, is something… and then… but then he, like, finds it.",
+      "cleanedText": "play eggs, they're, like, everywhere. It's like, Rosca's, like, reaching in his pouch, and he's ready for, like, super good burn, like, around, like, he's gonna be like, oh, yeah, and, like, I'm gonna hit you with my neck, just like you were my clutch thing in my egg! And he's about to, like, say egg, and he's, like, pulling… reaching into his pouch to pull out an egg, and he's sort of like, wait, is something… and then… but then he, like, finds it."
+    },
+    {
+      "header": "[u1329 | 01:54:19.870-01:54:21.280 | DM]",
+      "lineNumber": 1329,
+      "originalText": "And I pulls it out.",
+      "cleanedText": "And he pulls it out."
+    },
+    {
+      "header": "[u1331 | 01:54:22.000-01:54:22.870 | DM]",
+      "lineNumber": 1331,
+      "originalText": "Rivers!",
+      "cleanedText": "Delivers!"
+    },
+    {
+      "header": "[u1332 | 01:54:23.380-01:54:24.900 | DM]",
+      "lineNumber": 1332,
+      "originalText": "The spike!",
+      "cleanedText": "Despite!"
+    },
+    {
+      "header": "[u1333 | 01:54:25.180-01:54:32.139 | DM]",
+      "lineNumber": 1333,
+      "originalText": "Despite the best intentions of Peska and his efforts to try to disrupt Rosca's flow.",
+      "cleanedText": "Despite the best intentions of Heska and his efforts to try to disrupt Rosca's flow."
+    },
+    {
+      "header": "[u1339 | 01:54:49.380-01:54:50.769 | Zeno]",
+      "lineNumber": 1339,
+      "originalText": "I'm getting ANTA.",
+      "cleanedText": "I'm getting advantage?"
+    },
+    {
+      "header": "[u1342 | 01:54:56.830-01:54:59.529 | DM]",
+      "lineNumber": 1342,
+      "originalText": "Do you have, you do have an advantage or anything? It's just regular, regular D20 on this phone?",
+      "cleanedText": "Do you have, you do have an advantage or anything? It's just regular, regular D20 on this one?"
+    },
+    {
+      "header": "[u1349 | 01:55:18.220-01:55:21.860 | Zeno]",
+      "lineNumber": 1349,
+      "originalText": "I have my inspiration still, so I can use that, this rune, if I need to.",
+      "cleanedText": "I have my inspiration still, so I can use that, this round, if I need to."
+    },
+    {
+      "header": "[u1353 | 01:55:26.900-01:55:28.640 | DM]",
+      "lineNumber": 1353,
+      "originalText": "Roscoe, you got nothing.",
+      "cleanedText": "Rosca, you got nothing."
+    },
+    {
+      "header": "[u1359 | 01:55:43.370-01:55:45.830 | DM]",
+      "lineNumber": 1359,
+      "originalText": "Here comes my little Tony.",
+      "cleanedText": "Here comes my Little Tony."
+    },
+    {
+      "header": "[u1371 | 01:56:32.930-01:56:35.879 | DM]",
+      "lineNumber": 1371,
+      "originalText": "Wow! After, after, after you call Rosa a phone.",
+      "cleanedText": "Wow! After, after, after you call Rosca a phony."
+    },
+    {
+      "header": "[u1374 | 01:56:40.810-01:56:49.719 | DM]",
+      "lineNumber": 1374,
+      "originalText": "like, everybody, like, erupts, and, like, Rosa… Rosa just, like, looks at you, and he's like… he gets down on a knee, and he's like…",
+      "cleanedText": "like, everybody, like, erupts, and, like, Rosca… Rosca just, like, looks at you, and he's like… he gets down on a knee, and he's like…"
+    },
+    {
+      "header": "[u1376 | 01:56:55.650-01:57:04.769 | DM]",
+      "lineNumber": 1376,
+      "originalText": "And then, like, Roscoe, like, comes over and gives you, like, a big hug, and he's like, dude, you killed that. That was crazy. That was crazy. And everybody is just like…",
+      "cleanedText": "And then, like, Rosca, like, comes over and gives you, like, a big hug, and he's like, dude, you killed that. That was crazy. That was crazy. And everybody is just like…"
+    },
+    {
+      "header": "[u1377 | 01:57:07.720-01:57:29.990 | DM]",
+      "lineNumber": 1377,
+      "originalText": "And, and, you know, you get mobbed. Like, everybody, like, the whole big circle kind of, like, bounces, bounces, bounces, and, like, everybody's, like, kind of bouncing around you, and, like, Heska and little Tony, and you all just get kind of, like, you know, like, none of the three of you, like, fucking awkward-ass nerds, are like, oh, no, we're getting pulled in the middle of, like, the bouncing thing. But you can't, like, you're, because of your progress, you just get, like, pulled in, and you're, you're all kind of around, around,",
+      "cleanedText": "And, and, you know, you get mobbed. Like, everybody, like, the whole big circle kind of, like, bounces, bounces, bounces, and, like, everybody's, like, kind of bouncing around you, and, like, Heska and Little Tony, and you all just get kind of, like, you know, like, none of the three of you, like, fucking awkward-ass nerds, are like, oh, no, we're getting pulled in the middle of, like, the bouncing thing. But you can't, like, you're, because of your progress, you just get, like, pulled in, and you're, you're all kind of around, around,"
+    },
+    {
+      "header": "[u1378 | 01:57:29.990-01:57:34.330 | DM]",
+      "lineNumber": 1378,
+      "originalText": "Around, Xeno.",
+      "cleanedText": "Around, Zeno."
+    },
+    {
+      "header": "[u1379 | 01:57:34.330-01:57:43.149 | DM]",
+      "lineNumber": 1379,
+      "originalText": "And all of you are just, like, kind of experiencing this, like, mob of, like, Dragonet, like, hype energy and stoke around… around your… the sickness of your burn.",
+      "cleanedText": "And all of you are just, like, kind of experiencing this, like, mob of, like, dragonet, like, hype energy and stoke around… around your… the sickness of your burn."
+    },
+    {
+      "header": "[u1383 | 01:58:02.380-01:58:07.539 | Heska]",
+      "lineNumber": 1383,
+      "originalText": "We can go, I mean… We can stop. If you run out of step, you've prepared.",
+      "cleanedText": "We can go, I mean… We can stop. If you run out of stuff you've prepared."
+    },
+    {
+      "header": "[u1404 | 01:59:25.650-01:59:40.029 | DM]",
+      "lineNumber": 1404,
+      "originalText": "of enjoying the revelry of, of, Zeno's victory over Raska, and, you take a little time, and you're all… you're all hanging out. Actually, where are you hanging out? You guys, there's a whole bunch of different places. I'm not gonna… we're not gonna do, do the actual,",
+      "cleanedText": "of enjoying the revelry of, of, Zeno's victory over Rosca, and, you take a little time, and you're all… you're all hanging out. Actually, where are you hanging out? You guys, there's a whole bunch of different places. I'm not gonna… we're not gonna do, do the actual,"
+    },
+    {
+      "header": "[u1409 | 02:00:34.690-02:00:42.269 | Sculpit]",
+      "lineNumber": 1409,
+      "originalText": "I mean, I think Scalpin would always be drawn towards Acrobat, to a more performant performance, but could go anywhere.",
+      "cleanedText": "I mean, I think Sculpit would always be drawn towards acrobatics, to a more performant performance, but could go anywhere."
+    },
+    {
+      "header": "[u1414 | 02:01:00.700-02:01:06.579 | Heska]",
+      "lineNumber": 1414,
+      "originalText": "Haske is, he's pretty done with the Jubilee at this point.",
+      "cleanedText": "Heska is, he's pretty done with the Jubilee at this point."
+    },
+    {
+      "header": "[u1415 | 02:01:07.820-02:01:10.720 | Zeno]",
+      "lineNumber": 1415,
+      "originalText": "It's been a rough day for Eska.",
+      "cleanedText": "It's been a rough day for Heska."
+    },
+    {
+      "header": "[u1418 | 02:01:24.060-02:01:36.729 | DM]",
+      "lineNumber": 1418,
+      "originalText": "How about this? How about this? You guys go to, the, to go get food, and each of you, you spend some time there, finding, like, some interesting things, you know, obviously hanging out with other dragon ants, but then you go…",
+      "cleanedText": "How about this? How about this? You guys go to, the, to go get food, and each of you, you spend some time there, finding, like, some interesting things, you know, obviously hanging out with other dragonets, but then you go…"
+    },
+    {
+      "header": "[u1426 | 02:02:39.360-02:02:48.310 | Heska]",
+      "lineNumber": 1426,
+      "originalText": "So, so Haske has left the festival a little bit early than everybody else, and the Jubilee, and flown up here,",
+      "cleanedText": "So, so Heska has left the festival a little bit earlier than everybody else, and the Jubilee, and flown up here,"
+    },
+    {
+      "header": "[u1431 | 02:03:21.280-02:03:27.890 | Heska]",
+      "lineNumber": 1431,
+      "originalText": "Grilling over a fire, and it's just, like, you know, picking… picking through them, eating the fish, like, you know.",
+      "cleanedText": "Grilling over a fire, and he's just, like, you know, picking… picking through them, eating the fish, like, you know."
+    },
+    {
+      "header": "[u1442 | 02:04:03.080-02:04:11.510 | Heska]",
+      "lineNumber": 1442,
+      "originalText": "So… So, Haske, I mean, this has just solidified his…",
+      "cleanedText": "So… So, Heska, I mean, this has just solidified his…"
+    },
+    {
+      "header": "[u1445 | 02:04:23.980-02:04:29.430 | Heska]",
+      "lineNumber": 1445,
+      "originalText": "He's gonna just sit behind the bar of the… Dark buckle, or whatever.",
+      "cleanedText": "He's gonna just sit behind the bar of the… Dark Buckle, or whatever."
+    },
+    {
+      "header": "[u1447 | 02:04:32.100-02:04:35.190 | Heska]",
+      "lineNumber": 1447,
+      "originalText": "He… Heska's calling it the dark buckle nut.",
+      "cleanedText": "He… Heska's calling it the Dark Buckle now."
+    },
+    {
+      "header": "[u1450 | 02:04:37.660-02:04:39.780 | Zeno]",
+      "lineNumber": 1450,
+      "originalText": "A dark buckle.",
+      "cleanedText": "A Dark Buckle."
+    },
+    {
+      "header": "[u1451 | 02:04:41.530-02:04:42.090 | DM]",
+      "lineNumber": 1451,
+      "originalText": "Bilton.",
+      "cleanedText": "Little…"
+    },
+    {
+      "header": "[u1452 | 02:04:42.090-02:04:43.299 | DM]",
+      "lineNumber": 1452,
+      "originalText": "Honey, what are you, what are you eating?",
+      "cleanedText": "Tony, what are you, what are you eating?"
+    },
+    {
+      "header": "[u1454 | 02:04:45.990-02:04:59.459 | Little Tony]",
+      "lineNumber": 1454,
+      "originalText": "Little Tony is super sick, because he's eating lobsters, and the thing is, Little Tony never catches and eats lobsters, because lobsters all talk to each other. And if you eat one lobster, like, every other lobster is, like.",
+      "cleanedText": "Little Tony is super psyched, because he's eating lobsters, and the thing is, Little Tony never catches and eats lobsters, because lobsters all talk to each other. And if you eat one lobster, like, every other lobster is, like."
+    },
+    {
+      "header": "[u1460 | 02:05:35.600-02:05:40.989 | Sculpit]",
+      "lineNumber": 1460,
+      "originalText": "Skull Butt has somehow ended up with, like, a…",
+      "cleanedText": "Sculpit has somehow ended up with, like, a…"
+    },
+    {
+      "header": "[u1463 | 02:05:56.220-02:05:59.360 | Sculpit]",
+      "lineNumber": 1463,
+      "originalText": "Fancy Hunters who has made this, like, weird seafood delicacy.",
+      "cleanedText": "fancy hunters who has made this, like, weird seafood delicacy."
+    },
+    {
+      "header": "[u1469 | 02:06:37.720-02:06:52.449 | Sculpit]",
+      "lineNumber": 1469,
+      "originalText": "fish ab oyster, I don't know, right? Like, and he kind of comes out, he's like… he's, like, kicking himself that he didn't spend more time with Heska, because, like, if only he had, like, given Heska advantage instead of…",
+      "cleanedText": "fish-crab-oyster, I don't know, right? Like, and he kind of comes out, he's like… he's, like, kicking himself that he didn't spend more time with Heska, because, like, if only he had, like, given Heska advantage instead of…"
+    },
+    {
+      "header": "[u1470 | 02:06:52.450-02:07:03.470 | DM]",
+      "lineNumber": 1470,
+      "originalText": "Sculpt it, sculpt it, you're… as… whatever, like, Heska's experiencing, sculpt it, you definitely feel like a burden, like, oh, fuck, like, you know, like, you know, as a coach on this situation.",
+      "cleanedText": "Sculpit, Sculpit, you're… as… whatever, like, Heska's experiencing, Sculpit, you definitely feel like a burden, like, oh, fuck, like, you know, like, you know, as a coach on this situation."
+    },
+    {
+      "header": "[u1473 | 02:07:13.990-02:07:18.989 | Sculpit]",
+      "lineNumber": 1473,
+      "originalText": "I convinced him to do this, and then I kind of abandoned him from my primary client after, like.",
+      "cleanedText": "I convinced him to do this, and then I kind of abandoned him for my primary client after, like."
+    },
+    {
+      "header": "[u1474 | 02:07:19.760-02:07:37.520 | Sculpit]",
+      "lineNumber": 1474,
+      "originalText": "putting the minimal effort into him, and he feels really bad. He's like, do you like this food? Like, do you want some of my crab duck in here? Like, would you like getting… I feel bad, right? Like, he's, like, trying to make it up to Heska, like, this was probably… it probably should have helped you more, right? Because, like, I see you were so close, like.",
+      "cleanedText": "putting the minimal effort into him, and he feels really bad. He's like, do you like this food? Like, do you want some of my crabducken here? Like, would you like getting… I feel bad, right? Like, he's, like, trying to make it up to Heska, like, this was probably… it probably should have helped you more, right? Because, like, I see you were so close, like."
+    },
+    {
+      "header": "[u1483 | 02:08:00.570-02:08:03.260 | DM]",
+      "lineNumber": 1483,
+      "originalText": "Asko, does that hit you? Are you… or is that…",
+      "cleanedText": "Heska, does that hit you? Are you… or is that…"
+    },
+    {
+      "header": "[u1491 | 02:08:35.810-02:08:41.479 | Zeno]",
+      "lineNumber": 1491,
+      "originalText": "And I would give me cooking tips, actually, like, when are you thinking of repairing this?",
+      "cleanedText": "And it was giving me cooking tips, actually, like, when are you thinking of preparing this?"
+    },
+    {
+      "header": "[u1497 | 02:09:20.290-02:09:24.050 | Zeno]",
+      "lineNumber": 1497,
+      "originalText": "To, see what Raska comes back with next year.",
+      "cleanedText": "To, see what Rosca comes back with next year."
+    },
+    {
+      "header": "[u1508 | 02:10:10.460-02:10:10.900 | Zeno]",
+      "lineNumber": 1508,
+      "originalText": "Next, Rev.",
+      "cleanedText": "Thanks, Rev."
+    },
+    {
+      "header": "[u1515 | 02:10:30.090-02:10:44.079 | Little Tony]",
+      "lineNumber": 1515,
+      "originalText": "at a cloud overhead and says, like, listen, buddy, this is not the time. Like, this is a beautiful moment of common peace. Just, like, keep going. He's, like, trying to wave this cloud onwards.",
+      "cleanedText": "at a cloud overhead and says, like, listen, buddy, this is not the time. Like, this is a beautiful moment of calm and peace. Just, like, keep going. He's, like, trying to wave this cloud onwards."
+    },
+    {
+      "header": "[u1525 | 02:11:41.820-02:11:42.859 | Little Tony]",
+      "lineNumber": 1525,
+      "originalText": "A little Tony…",
+      "cleanedText": "Little Tony…"
+    },
+    {
+      "header": "[u1537 | 02:13:00.730-02:13:01.670 | Heska]",
+      "lineNumber": 1537,
+      "originalText": "You're what?",
+      "cleanedText": "Hear what?"
+    },
+    {
+      "header": "[u1544 | 02:13:28.760-02:13:37.010 | DM]",
+      "lineNumber": 1544,
+      "originalText": "Sculpt it as you are… Sitting and kind of looking at your comrades and wondering what's happening.",
+      "cleanedText": "Sculpit as you are… Sitting and kind of looking at your comrades and wondering what's happening."
+    },
+    {
+      "header": "[u1546 | 02:13:43.090-02:13:44.849 | DM]",
+      "lineNumber": 1546,
+      "originalText": "Sculpt it, roll a D4.",
+      "cleanedText": "Sculpit, roll a D4."
+    },
+    {
+      "header": "[u1547 | 02:13:46.330-02:13:56.249 | DM]",
+      "lineNumber": 1547,
+      "originalText": "you are now feeling something that you know happens every once in a while, and Lil Tony, you maybe have seen this happen as well before.",
+      "cleanedText": "you are now feeling something that you know happens every once in a while, and Little Tony, you maybe have seen this happen as well before."
+    },
+    {
+      "header": "[u1550 | 02:14:00.410-02:14:01.209 | DM]",
+      "lineNumber": 1550,
+      "originalText": "What are your role?",
+      "cleanedText": "What'd you roll?"
+    },
+    {
+      "header": "[u1551 | 02:14:01.460-02:14:02.100 | Sculpit]",
+      "lineNumber": 1551,
+      "originalText": "Trade.",
+      "cleanedText": "Three."
+    },
+    {
+      "header": "[u1557 | 02:14:17.440-02:14:18.650 | DM]",
+      "lineNumber": 1557,
+      "originalText": "Sculptit,",
+      "cleanedText": "Sculpit,"
+    },
+    {
+      "header": "[u1564 | 02:14:51.740-02:14:52.659 | DM]",
+      "lineNumber": 1564,
+      "originalText": "At the Wonder.",
+      "cleanedText": "At the Wanderer."
+    },
+    {
+      "header": "[u1574 | 02:15:26.350-02:15:27.320 | Heska]",
+      "lineNumber": 1574,
+      "originalText": "101.",
+      "cleanedText": "Not a one."
+    },
+    {
+      "header": "[u1578 | 02:15:34.730-02:15:39.390 | DM]",
+      "lineNumber": 1578,
+      "originalText": "Aska, you notice, again, with your hunter's eye,",
+      "cleanedText": "Heska, you notice, again, with your hunter's eye,"
+    },
+    {
+      "header": "[u1579 | 02:15:39.640-02:15:48.229 | DM]",
+      "lineNumber": 1579,
+      "originalText": "As all of this has been unfolding, unspeakably, there was some kind of object. It looked like something…",
+      "cleanedText": "As all of this has been unfolding, unmistakably, there was some kind of object. It looked like something…"
+    },
+    {
+      "header": "[u1582 | 02:16:07.550-02:16:15.899 | Heska]",
+      "lineNumber": 1582,
+      "originalText": "I'm gonna… Buy up… try and chase it. I'll tell every… I'll say to… to…",
+      "cleanedText": "I'm gonna… Fly up… try and chase it. I'll tell every… I'll say to… to…"
+    },
+    {
+      "header": "[u1585 | 02:16:23.860-02:16:27.430 | Little Tony]",
+      "lineNumber": 1585,
+      "originalText": "Yeah, I immediately hop up in bolts.",
+      "cleanedText": "Yeah, I immediately hop up and bolt."
+    },
+    {
+      "header": "[u1588 | 02:16:33.910-02:16:38.460 | Sculpit]",
+      "lineNumber": 1588,
+      "originalText": "And it doesn't seem to be flying towards the Wadra statue.",
+      "cleanedText": "And it doesn't seem to be flying towards the Wanderer statue."
+    },
+    {
+      "header": "[u1590 | 02:16:39.280-02:16:41.190 | Sculpit]",
+      "lineNumber": 1590,
+      "originalText": "deploying towards the wanderer?",
+      "cleanedText": "Is it flying towards the Wanderer?"
+    },
+    {
+      "header": "[u1591 | 02:16:42.020-02:16:43.730 | Heska]",
+      "lineNumber": 1591,
+      "originalText": "I only kept… limbs.",
+      "cleanedText": "I only caught a glimpse."
+    },
+    {
+      "header": "[u1602 | 02:17:17.200-02:17:18.899 | DM]",
+      "lineNumber": 1602,
+      "originalText": "You know, what are you doing? Really fast.",
+      "cleanedText": "Zeno, what are you doing? Really fast."
+    },
+    {
+      "header": "[u1604 | 02:17:21.290-02:17:22.629 | DM]",
+      "lineNumber": 1604,
+      "originalText": "Xeno…",
+      "cleanedText": "Zeno…"
+    },
+    {
+      "header": "[u1619 | 02:18:29.770-02:18:36.120 | DM]",
+      "lineNumber": 1619,
+      "originalText": "Certain directions it's getting louder, and then certain directions it's getting solid. Like, you definitely notice that there is, like, a trend, for sure.",
+      "cleanedText": "Certain directions it's getting louder, and then certain directions it's getting softer. Like, you definitely notice that there is, like, a trend, for sure."
+    },
+    {
+      "header": "[u1640 | 02:20:32.500-02:20:38.890 | DM]",
+      "lineNumber": 1640,
+      "originalText": "There's, like, some kind of piece that… it's… but it's fleeting. It's fleeting, but it's definitely there when you hum with it.",
+      "cleanedText": "There's, like, some kind of peace that… it's… but it's fleeting. It's fleeting, but it's definitely there when you hum with it."
+    },
+    {
+      "header": "[u1659 | 02:22:15.250-02:22:18.810 | Sculpit]",
+      "lineNumber": 1659,
+      "originalText": "How far away is the Wanderers?",
+      "cleanedText": "How far away is the Wanderer's?"
+    },
+    {
+      "header": "[u1660 | 02:22:20.080-02:22:20.750 | Sculpit]",
+      "lineNumber": 1660,
+      "originalText": "section.",
+      "cleanedText": "statue."
+    },
+    {
+      "header": "[u1661 | 02:22:21.090-02:22:29.510 | DM]",
+      "lineNumber": 1661,
+      "originalText": "From where you are now, like, flying there directly would be, like, you know, 10 minutes or so, you know? How fast do dragon nets fly?",
+      "cleanedText": "From where you are now, like, flying there directly would be, like, you know, 10 minutes or so, you know? How fast do dragonets fly?"
+    },
+    {
+      "header": "[u1668 | 02:22:55.420-02:22:57.860 | DM]",
+      "lineNumber": 1668,
+      "originalText": "We can do soccer. How long would it… how long would it be?",
+      "cleanedText": "We can do smaller. How long would it… how long would it be?"
+    },
+    {
+      "header": "[u1669 | 02:22:57.860-02:23:06.479 | Heska]",
+      "lineNumber": 1669,
+      "originalText": "Faye… I don't really know how fast dragonettes fly, that's… but… but, like, you know, hours… half a day?",
+      "cleanedText": "Faye… I don't really know how fast dragonets fly, that's… but… but, like, you know, hours… half a day?"
+    },
+    {
+      "header": "[u1673 | 02:23:19.510-02:23:26.959 | Little Tony]",
+      "lineNumber": 1673,
+      "originalText": "Little Tony will call it, guys, come on up, huddle up, huddle up, we gotta figure this out, we gotta figure this out, and he'll sort of pause and hover in the air in one spot.",
+      "cleanedText": "Little Tony will call out, guys, come on up, huddle up, huddle up, we gotta figure this out, we gotta figure this out, and he'll sort of pause and hover in the air in one spot."
+    },
+    {
+      "header": "[u1679 | 02:23:41.240-02:23:41.650 | Little Tony]",
+      "lineNumber": 1679,
+      "originalText": "Masai.",
+      "cleanedText": "The silence."
+    },
+    {
+      "header": "[u1689 | 02:24:18.820-02:24:24.190 | DM]",
+      "lineNumber": 1689,
+      "originalText": "Lil Tony, like, again, there is, like, a directionality, like, there is, like, you're kind of realizing.",
+      "cleanedText": "Little Tony, like, again, there is, like, a directionality, like, there is, like, you're kind of realizing."
+    },
+    {
+      "header": "[u1691 | 02:24:24.660-02:24:28.479 | DM]",
+      "lineNumber": 1691,
+      "originalText": "Like, certain… Are you… it's a little tiny and z…",
+      "cleanedText": "Like, certain… Are you… it's Little Tony and z…"
+    },
+    {
+      "header": "[u1718 | 02:26:09.830-02:26:17.350 | DM]",
+      "lineNumber": 1718,
+      "originalText": "you're… you're drawn towards the palm of the wanderer. There's definitely… it feels like that is… is… the place.",
+      "cleanedText": "you're… you're drawn towards the palm of the Wanderer. There's definitely… it feels like that is… is… the place."
+    },
+    {
+      "header": "[u1720 | 02:26:25.550-02:26:27.120 | DM]",
+      "lineNumber": 1720,
+      "originalText": "In the palm of the wanderer.",
+      "cleanedText": "In the palm of the Wanderer."
+    },
+    {
+      "header": "[u1726 | 02:26:50.720-02:26:53.329 | Zeno]",
+      "lineNumber": 1726,
+      "originalText": "-Oh. That's not your low thing?",
+      "cleanedText": "-Oh. That's not your glow thing?"
+    },
+    {
+      "header": "[u1732 | 02:27:04.830-02:27:09.549 | Little Tony]",
+      "lineNumber": 1732,
+      "originalText": "Everything looks like a boat when you've got butts on the brain, I mean, it's… I get it.",
+      "cleanedText": "Everything looks like a butt when you've got butts on the brain, I mean, it's… I get it."
+    },
+    {
+      "header": "[u1755 | 02:28:44.680-02:28:46.360 | DM]",
+      "lineNumber": 1755,
+      "originalText": "And, Sculpt, how about you?",
+      "cleanedText": "And, Sculpit, how about you?"
+    },
+    {
+      "header": "[u1766 | 02:29:53.640-02:29:57.609 | DM]",
+      "lineNumber": 1766,
+      "originalText": "Will Tony, you, and, Zeno?",
+      "cleanedText": "Little Tony, you, and, Zeno?"
+    },
+    {
+      "header": "[u1789 | 02:31:51.340-02:32:10.609 | DM]",
+      "lineNumber": 1789,
+      "originalText": "it feels not, like, totally metallic. It's definitely, like, not stone or wood, and it's not also… it's, like, something between stone and wood… it's something between, like, stone and metal. It's not, like, a totally, like, you know… but it's the material of it and the type of knocking, because, you know, you're draggingettes, y'all fucking love shiny shit and, like, knocking on things.",
+      "cleanedText": "it feels not, like, totally metallic. It's definitely, like, not stone or wood, and it's not also… it's, like, something between stone and wood… it's something between, like, stone and metal. It's not, like, a totally, like, you know… but it's the material of it and the type of knocking, because, you know, you're dragonets, y'all fucking love shiny shit and, like, knocking on things."
+    },
+    {
+      "header": "[u1794 | 02:32:42.530-02:32:44.209 | Heska]",
+      "lineNumber": 1794,
+      "originalText": "I'll walk up to you. Wait, do you touch it?",
+      "cleanedText": "I'll walk up to it. Wait, do you touch it?"
+    },
+    {
+      "header": "[u1812 | 02:33:50.970-02:33:52.379 | Sculpit]",
+      "lineNumber": 1812,
+      "originalText": "Are they designed?",
+      "cleanedText": "Are they designs?"
+    },
+    {
+      "header": "[u1815 | 02:34:00.000-02:34:01.090 | Sculpit]",
+      "lineNumber": 1815,
+      "originalText": "Investigator.",
+      "cleanedText": "Investigation."
+    },
+    {
+      "header": "[u1817 | 02:34:08.580-02:34:10.979 | DM]",
+      "lineNumber": 1817,
+      "originalText": "Yeah, investigation. Make an investigation, Sean.",
+      "cleanedText": "Yeah, investigation. Make an investigation check."
+    },
+    {
+      "header": "[u1827 | 02:35:15.140-02:35:30.550 | DM]",
+      "lineNumber": 1827,
+      "originalText": "not necessarily these exact same shapes, but similar types of shapes. Like, you know, dragonettes don't draw, like, perfect, you know, per se, like, perfect geometric patterns, but this is, like, a perfect set of geometric patterns.",
+      "cleanedText": "not necessarily these exact same shapes, but similar types of shapes. Like, you know, dragonets don't draw, like, perfect, you know, per se, like, perfect geometric patterns, but this is, like, a perfect set of geometric patterns."
+    },
+    {
+      "header": "[u1838 | 02:36:18.490-02:36:25.780 | Zeno]",
+      "lineNumber": 1838,
+      "originalText": "You don't read the thoughts, but you know the thinking creatures. There are spells blocked by one foot of stone, dirt, or wood, one inch of metal, or a thin sheet of lead.",
+      "cleanedText": "You don't read the thoughts, but you know a thinking creature is there. The spell's blocked by one foot of stone, dirt, or wood, one inch of metal, or a thin sheet of lead."
+    },
+    {
+      "header": "[u1841 | 02:36:34.250-02:36:36.070 | Sculpit]",
+      "lineNumber": 1841,
+      "originalText": "The tech start's just the tech spots.",
+      "cleanedText": "Detect Thoughts just detects thoughts."
+    },
+    {
+      "header": "[u1864 | 02:38:12.960-02:38:16.430 | DM]",
+      "lineNumber": 1864,
+      "originalText": "Is there a role associated with this as well? Or is this just you just…",
+      "cleanedText": "Is there a roll associated with this as well? Or is this just you just…"
+    },
+    {
+      "header": "[u1880 | 02:39:33.440-02:39:43.339 | DM]",
+      "lineNumber": 1880,
+      "originalText": "like, a warmth in your body. You know, to the extent that, like, dragonettes have, like, little hairs, you know, and hair on their scales and on their, you know, their fur or whatever.",
+      "cleanedText": "like, a warmth in your body. You know, to the extent that, like, dragonets have, like, little hairs, you know, and hair on their scales and on their, you know, their fur or whatever."
+    },
+    {
+      "header": "[u1902 | 02:40:53.530-02:40:59.350 | DM]",
+      "lineNumber": 1902,
+      "originalText": "Schwartz, or Lil' Tony, like… When you hug the egg.",
+      "cleanedText": "Schwartz, or Little Tony, like… When you hug the egg."
+    },
+    {
+      "header": "[u1918 | 02:42:24.440-02:42:34.310 | DM]",
+      "lineNumber": 1918,
+      "originalText": "There's something else beneath it that is so much deeper, like a deeper, deeper feeling of home than you've ever, ever experienced before, as you huggedly say.",
+      "cleanedText": "There's something else beneath it that is so much deeper, like a deeper, deeper feeling of home than you've ever, ever experienced before, as you hug this egg."
+    },
+    {
+      "header": "[u1919 | 02:42:39.450-02:42:46.760 | Little Tony]",
+      "lineNumber": 1919,
+      "originalText": "Wow, that's beautiful. I'm gonna sort of let go of the embrace and just, like, sit back down. She's like, wow, man.",
+      "cleanedText": "Wow, that's beautiful. I'm gonna sort of let go of the embrace and just, like, sit back down. Just like, wow, man."
+    },
+    {
+      "header": "[u1924 | 02:42:59.510-02:43:05.610 | Zeno]",
+      "lineNumber": 1924,
+      "originalText": "It is a beautiful pebble-like object, little Tony, but we gotta figure out what it's here for.",
+      "cleanedText": "It is a beautiful pebble-like object, Little Tony, but we gotta figure out what it's here for."
+    },
+    {
+      "header": "[u1925 | 02:43:06.090-02:43:06.890 | Zeno]",
+      "lineNumber": 1925,
+      "originalText": "Why was it growing?",
+      "cleanedText": "Why was it glowing?"
+    },
+    {
+      "header": "[u1931 | 02:43:17.730-02:43:20.060 | Zeno]",
+      "lineNumber": 1931,
+      "originalText": "I'm just trying to speak little Tony's language, you know?",
+      "cleanedText": "I'm just trying to speak Little Tony's language, you know?"
+    },
+    {
+      "header": "[u1933 | 02:43:24.800-02:43:26.040 | DM]",
+      "lineNumber": 1933,
+      "originalText": "Just, Jazzina?",
+      "cleanedText": "Just, Zeno?"
+    },
+    {
+      "header": "[u1934 | 02:43:26.320-02:43:30.210 | DM]",
+      "lineNumber": 1934,
+      "originalText": "Or, only, only, Lil' Tunny? Who else has touched it?",
+      "cleanedText": "Or, only, only, Little Tony? Who else has touched it?"
+    },
+    {
+      "header": "[u1942 | 02:43:51.800-02:44:09.399 | DM]",
+      "lineNumber": 1942,
+      "originalText": "you felt moved. Like, you felt like, oh, shit, like, you know? Dragonettes are usually, like, you know, fun, like, talking shit and all that type of stuff, but, like, there was, like, a… there was… it's… again, it… there's very few moments in, like, Dragonette life and culture where you feel that sense of move… being moved, but you felt it when you touched it.",
+      "cleanedText": "you felt moved. Like, you felt like, oh, shit, like, you know? dragonets are usually, like, you know, fun, like, talking shit and all that type of stuff, but, like, there was, like, a… there was… it's… again, it… there's very few moments in, like, dragonet life and culture where you feel that sense of move… being moved, but you felt it when you touched it."
+    },
+    {
+      "header": "[u1943 | 02:44:12.940-02:44:16.960 | Heska]",
+      "lineNumber": 1943,
+      "originalText": "I'm gonna… So, Huskas?",
+      "cleanedText": "I'm gonna… So, Heska's?"
+    },
+    {
+      "header": "[u1955 | 02:45:15.020-02:45:15.930 | Zeno]",
+      "lineNumber": 1955,
+      "originalText": "Can we, like, sculpt.",
+      "cleanedText": "Can we, like, Sculpit."
+    },
+    {
+      "header": "[u1966 | 02:45:38.800-02:45:52.290 | DM]",
+      "lineNumber": 1966,
+      "originalText": "And as you reach your claws and kind of, like, reach around, and it's kind of like a sweet moment, you know? You're, like, all hugging this egg, you know, and then also, it's like, we'll have to make a, you know, chat GPT image of this later. But, like, you're all hugging the egg, and your claws are, like, kind of…",
+      "cleanedText": "And as you reach your claws and kind of, like, reach around, and it's kind of like a sweet moment, you know? You're, like, all hugging this egg, you know, and then also, it's like, we'll have to make a, you know, ChatGPT image of this later. But, like, you're all hugging the egg, and your claws are, like, kind of…"
+    },
+    {
+      "header": "[u1970 | 02:46:04.930-02:46:06.460 | Little Tony]",
+      "lineNumber": 1970,
+      "originalText": "Highlights and low lows.",
+      "cleanedText": "High highs and low lows."
+    },
+    {
+      "header": "[u1981 | 02:46:57.680-02:46:58.470 | DM]",
+      "lineNumber": 1981,
+      "originalText": "Bye.",
+      "cleanedText": "By."
+    },
+    {
+      "header": "[u1986 | 02:47:34.220-02:47:38.509 | DM]",
+      "lineNumber": 1986,
+      "originalText": "You know, we're not for things, but we're actually one thing.",
+      "cleanedText": "You know, we're not four things, but we're actually one thing."
+    },
+    {
+      "header": "[u1988 | 02:47:44.950-02:47:52.340 | DM]",
+      "lineNumber": 1988,
+      "originalText": "And… Where once you were sitting on the palm of a wander holding an egg, You're no longer sitting…",
+      "cleanedText": "And… Where once you were sitting on the palm of the Wanderer holding an egg, You're no longer sitting…"
+    },
+    {
+      "header": "[u1989 | 02:47:52.520-02:47:55.179 | DM]",
+      "lineNumber": 1989,
+      "originalText": "And the wanderer, and holding the palm of an egg.",
+      "cleanedText": "On the Wanderer, and holding the palm of an egg."
+    },
+    {
+      "header": "[u1994 | 02:48:10.960-02:48:13.960 | DM]",
+      "lineNumber": 1994,
+      "originalText": "In a sense… That there's no hope.",
+      "cleanedText": "And a sense… That there's no hope."
+    },
+    {
+      "header": "[u2010 | 02:49:09.040-02:49:13.279 | DM]",
+      "lineNumber": 2010,
+      "originalText": "He realized that, lying on the ground, There's a dragonette there.",
+      "cleanedText": "You realize that, lying on the ground, There's a dragonet there."
+    },
+    {
+      "header": "[u2011 | 02:49:15.070-02:49:16.500 | DM]",
+      "lineNumber": 2011,
+      "originalText": "And the dragonette.",
+      "cleanedText": "And the dragonet."
+    },
+    {
+      "header": "[u2014 | 02:49:23.350-02:49:26.430 | DM]",
+      "lineNumber": 2014,
+      "originalText": "And it's a… it's a purple dragon net.",
+      "cleanedText": "And it's a… it's a purple dragonet."
+    },
+    {
+      "header": "[u2022 | 02:49:51.610-02:49:58.439 | DM]",
+      "lineNumber": 2022,
+      "originalText": "And as you get closer to this dragonette, You realize it's dying.",
+      "cleanedText": "And as you get closer to this dragonet, You realize it's dying."
+    },
+    {
+      "header": "[u2024 | 02:50:03.210-02:50:06.519 | DM]",
+      "lineNumber": 2024,
+      "originalText": "Very, very soon, that these are his lost breaths.",
+      "cleanedText": "Very, very soon, that these are his last breaths."
+    },
+    {
+      "header": "[u2026 | 02:50:11.090-02:50:13.230 | DM]",
+      "lineNumber": 2026,
+      "originalText": "You're now inside the dragon egg.",
+      "cleanedText": "You're now inside the dragonet."
+    },
+    {
+      "header": "[u2027 | 02:50:13.750-02:50:17.070 | DM]",
+      "lineNumber": 2027,
+      "originalText": "You're… you are the dragon head, and you are dying.",
+      "cleanedText": "You're… you are the dragonet, and you are dying."
+    },
+    {
+      "header": "[u2029 | 02:50:21.410-02:50:28.810 | DM]",
+      "lineNumber": 2029,
+      "originalText": "And as you, the lying… as you, the dragonette, lying on the ground, dying, looking at the sky and fire, and these lights going out.",
+      "cleanedText": "And as you, the lying… as you, the dragonet, lying on the ground, dying, looking at the sky on fire, and these lights going out."
+    },
+    {
+      "header": "[u2031 | 02:50:32.560-02:50:51.249 | DM]",
+      "lineNumber": 2031,
+      "originalText": "small little sparks start to fly out of the sky. These little… these bright points are going up, but then these streaks of light are flying around. And you see one of these streaks of light flying closer and closer and closer to you. And you know you're gonna die soon. You know any moment this could be your last breath.",
+      "cleanedText": "small little sparks start to fly out of the sky. These little… these bright points are going out, but then these streaks of light are flying around. And you see one of these streaks of light flying closer and closer and closer to you. And you know you're gonna die soon. You know any moment this could be your last breath."
+    },
+    {
+      "header": "[u2036 | 02:51:12.840-02:51:15.279 | DM]",
+      "lineNumber": 2036,
+      "originalText": "And you are no longer the Dragonette.",
+      "cleanedText": "And you are no longer the dragonet."
+    },
+    {
+      "header": "[u2040 | 02:51:31.250-02:51:32.449 | DM]",
+      "lineNumber": 2040,
+      "originalText": "When there's a word.",
+      "cleanedText": "And there's a word."
+    },
+    {
+      "header": "[u2051 | 02:52:19.030-02:52:28.109 | DM]",
+      "lineNumber": 2051,
+      "originalText": "And you see all of these other dragon ants flying around, and the clutches, and the eggs, and this deep, deep sense that this is home.",
+      "cleanedText": "And you see all of these other dragonets flying around, and the clutches, and the eggs, and this deep, deep sense that this is home."
+    },
+    {
+      "header": "[u2064 | 02:53:34.300-02:53:44.820 | DM]",
+      "lineNumber": 2064,
+      "originalText": "And as you now… who were once Ford, Dragonettes, and then one Dragonette, and then… the light.",
+      "cleanedText": "And as you now… who were once four dragonets, and then one dragonet, and then… the light."
+    },
+    {
+      "header": "[u2069 | 02:54:01.440-02:54:06.600 | DM]",
+      "lineNumber": 2069,
+      "originalText": "And all of the lights from the egg, as you awake up from this set of visions.",
+      "cleanedText": "And all of the lights from the egg, as you wake up from this set of visions."
+    },
+    {
+      "header": "[u2074 | 02:54:21.030-02:54:22.280 | DM]",
+      "lineNumber": 2074,
+      "originalText": "Difference.",
+      "cleanedText": "Different."
+    },
+    {
+      "header": "[u2081 | 02:55:17.500-02:55:31.590 | DM]",
+      "lineNumber": 2081,
+      "originalText": "You feel like any rock, you can tune it and turn this one off, turn that one off. And as you expand outwards, you realize, as you expand outward from beyond the wanderer and the statue.",
+      "cleanedText": "You feel like any rock, you can tune it and turn this one off, turn that one off. And as you expand outwards, you realize, as you expand outward from beyond the Wanderer and the statue."
+    },
+    {
+      "header": "[u2088 | 02:56:07.550-02:56:19.219 | DM]",
+      "lineNumber": 2088,
+      "originalText": "As you're lying there, and coming to that perfect note that you heard in your head earlier, you start to hear in your head not just one note, but a chord.",
+      "cleanedText": "As you're lying there, and coming to, that perfect note that you heard in your head earlier, you start to hear in your head not just one note, but a chord."
+    },
+    {
+      "header": "[u2092 | 02:56:25.260-02:56:36.240 | DM]",
+      "lineNumber": 2092,
+      "originalText": "A set of notes combined together, playing something that's so resonant and beautiful, yes to Dragon S. But you realize that you can kind of assemble these notes into any pattern that you want.",
+      "cleanedText": "A set of notes combined together, playing something that's so resonant and beautiful, yes to dragonets. But you realize that you can kind of assemble these notes into any pattern that you want."
+    },
+    {
+      "header": "[u2098 | 02:56:50.450-02:56:55.180 | DM]",
+      "lineNumber": 2098,
+      "originalText": "Even… there feels like, for you, there's some combination of notes in your mind that the wind blow up.",
+      "cleanedText": "Even… there feels like, for you, there's some combination of notes in your mind that the wind will love."
+    },
+    {
+      "header": "[u2102 | 02:57:28.120-02:57:41.479 | DM]",
+      "lineNumber": 2102,
+      "originalText": "are fucking sick. Like, whoever's gonna be listening to this is like, this is the most sacred shit they've ever heard in their lives. Esca, as you're lying there, and feeling…",
+      "cleanedText": "are fucking sick. Like, whoever's gonna be listening to this is like, this is the most sacred shit they've ever heard in their lives. Heska, as you're lying there, and feeling…"
+    },
+    {
+      "header": "[u2112 | 02:58:36.680-02:58:48.479 | DM]",
+      "lineNumber": 2112,
+      "originalText": "feels like you could go and hunt a thousand of those crags. This feels like you could find the most hidden, darkest, strongest beast in the ocean, and go hunt that shit.",
+      "cleanedText": "feels like you could go and hunt a thousand of those crabs. This feels like you could find the most hidden, darkest, strongest beast in the ocean, and go hunt that shit."
+    },
+    {
+      "header": "[u2113 | 02:58:49.080-02:58:59.559 | DM]",
+      "lineNumber": 2113,
+      "originalText": "It's a level of, like, power and confidence that you have never felt before. And, mike…",
+      "cleanedText": "It's a level of, like, power and confidence that you have never felt before. And, Mike…"
+    },
+    {
+      "header": "[u2118 | 02:59:27.470-02:59:38.879 | DM]",
+      "lineNumber": 2118,
+      "originalText": "All of that wildness is completely tamed. You have complete precision and control over how you want to move it. If you want it to go 1 feet, 10 feet, 30 feet, 50 feet.",
+      "cleanedText": "All of that wildness is completely tamed. You have complete precision and control over how you want to move it. If you want it to go 1 foot, 10 feet, 30 feet, 50 feet."
+    },
+    {
+      "header": "[u2133 | 03:00:28.060-03:00:32.710 | DM]",
+      "lineNumber": 2133,
+      "originalText": "Darkened egg that has now settled down back onto the ground, and it's just lifeless and animate.",
+      "cleanedText": "Darkened egg that has now settled down back onto the ground, and it's just lifeless and inanimate."
+    },
+    {
+      "header": "[u2134 | 03:00:33.900-03:00:39.490 | DM]",
+      "lineNumber": 2134,
+      "originalText": "And unmistakably, as the camera kind of pans around the wanderer.",
+      "cleanedText": "And unmistakably, as the camera kind of pans around the Wanderer."
+    },
+    {
+      "header": "[u2137 | 03:00:42.750-03:00:46.410 | DM]",
+      "lineNumber": 2137,
+      "originalText": "The eye light up blue and bright.",
+      "cleanedText": "The eye lights up blue and bright."
+    },
+    {
+      "header": "[u2144 | 03:01:10.420-03:01:11.360 | Zeno]",
+      "lineNumber": 2144,
+      "originalText": "How you feeling, Don?",
+      "cleanedText": "How you feeling, Kong?"
+    },
+    {
+      "header": "[u2169 | 03:02:11.310-03:02:16.730 | DM]",
+      "lineNumber": 2169,
+      "originalText": "That was the fucking best, dude. That, like, that series of roles was so good.",
+      "cleanedText": "That was the fucking best, dude. That, like, that series of rolls was so good."
+    },
+    {
+      "header": "[u2174 | 03:02:23.020-03:02:32.250 | Little Tony]",
+      "lineNumber": 2174,
+      "originalText": "like, Dragonetti all four of the characters are. Like, like, we took the… like, what Dimitar was pointing to without just, like, imitating.",
+      "cleanedText": "like, dragonet-y all four of the characters are. Like, like, we took the… like, what Dimitar was pointing to without just, like, imitating."
+    },
+    {
+      "header": "[u2181 | 03:02:47.290-03:02:54.580 | Zeno]",
+      "lineNumber": 2181,
+      "originalText": "Oh my god, yeah, your stuff was really funny tonight, Fortz, I was really appreciating that.",
+      "cleanedText": "Oh my god, yeah, your stuff was really funny tonight, Schwartz, I was really appreciating that."
+    },
+    {
+      "header": "[u2188 | 03:03:11.310-03:03:20.100 | DM]",
+      "lineNumber": 2188,
+      "originalText": "the… the… all of the, like, the Dragonette, like, slice of Life stuff was actually… a lot of that was… was improv… like, I had some idea of the scenes, but it was pretty improvised, but the",
+      "cleanedText": "the… the… all of the, like, the dragonet, like, slice of Life stuff was actually… a lot of that was… was improv… like, I had some idea of the scenes, but it was pretty improvised, but the"
+    },
+    {
+      "header": "[u2191 | 03:03:35.230-03:03:52.549 | DM]",
+      "lineNumber": 2191,
+      "originalText": "It was, like, you guys were really, like, locked in on the Dragonet energy, and I actually had no idea how that was gonna go, but it was, like, very, like, I don't know, Xena was, like, a, for me, was, like, a fun, like, I don't know, it was, like, I just kind of made it up, like… like, I knew going into it that that would be a fun character, but that, just, like, the whole beginning was, like, a very fun, like.",
+      "cleanedText": "It was, like, you guys were really, like, locked in on the dragonet energy, and I actually had no idea how that was gonna go, but it was, like, very, like, I don't know, Xena was, like, a, for me, was, like, a fun, like, I don't know, it was, like, I just kind of made it up, like… like, I knew going into it that that would be a fun character, but that, just, like, the whole beginning was, like, a very fun, like."
+    }
+  ]
+}
