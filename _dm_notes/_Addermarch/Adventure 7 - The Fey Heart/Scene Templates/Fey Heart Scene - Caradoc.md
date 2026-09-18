@@ -11,7 +11,6 @@ Caradoc needs to:
 - Warn them if they want to find their way in time, they'll need to find a guide. Hard to know who will help but use your judgement. The denizens of Morlaith's domain are not evil, they are just strange and old. 
 - Give them a magic item (a wooden wand, wrapped in vines and etches with Sylvan glyphs; one use, when snapped summons the fey loard) that can be used at last resort to summon a fey lord for help, but be wary, they will demand a high price. See: [[Summoned Fey Lord Details]]
 
-
 ### Entering Morlaith's Domain
 
 Caradoc will give them a choice. If they go back to [[Nightsong Roots]], they can wait for the tree to reawaken, and face it at full strength when the portal reopens. Warn this is risky. Scene: 

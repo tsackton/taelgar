@@ -1,0 +1,2016 @@
+{
+  "stage": "transcript-cleanup",
+  "status": "complete-awaiting-stage-review",
+  "reviewedRange": {
+    "start": "u0001",
+    "end": "u2203"
+  },
+  "nextUnreviewedId": null,
+  "totalUnits": 2203,
+  "preparedSourceSha256": "55848ff68cbc86935fb42a537adb20c2dbaf7e6455e1b44c8bb5b5880eaa8901",
+  "glossaryPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-glossary.json",
+  "protectedNames": [
+    "Heska",
+    "Sculpit",
+    "Little Tony",
+    "Zeno",
+    "Xena",
+    "Zare"
+  ],
+  "correctionLedger": [
+    "Species: Dragonette/Dragonettes/Dragonite/Dragonhead/Dragon Antet/Dragon Egg/Dragonf/dragging it -> dragonet(s), only when context identifies the species.",
+    "Sculpit: Sculpt It, Sculpt it, Skopit, sculpted, sculpit; preserve ordinary uses of sculpting words.",
+    "Heska: Peska, Huska, Tesco; u0197 I was gonna prefer -> Heska would prefer from immediate question and third-person answer.",
+    "Zeno: Zino, Dino, Sina, seen as in possessive context; You know at u0174 is the object of listening to and subject of change his mind.",
+    "Xena at u0147 refers to Zeno in paired PC introductions; do not replace Xena globally because Xena is a distinct NPC.",
+    "Preserve Little Tony speaker wording Heska at u0070 and u0072: he explicitly corrects his own mistaken character name to Sculpit at u0077.",
+    "Sibyl and Wyrdling spelling confirmed in their vault notes; only names used as secondary correction evidence.",
+    "poem -> palm in the discussion of the Wanderer statue hand; star quiet -> star client; bar -> bard; verdict -> burden.",
+    "Preserve disfluencies, false starts, player jokes, and narrative uncertainty. Do not rewrite transcript into prose.",
+    "Rosca is the introduced rap-battle rival; normalize the repeated Rosa, Roscoe, and Raska variants in that scene.",
+    "Zare is the collector; preserve the separate NPC Xena and PC Zeno based on scene context.",
+    "Preserve spoken inconsistencies and self-corrections, including travel-time revision and king crab wording; cleanup does not resolve story facts.",
+    "Second-pass refinements: allied -> alludes at u0283; Esca -> ask at u0433; remove accidental doubled punctuation at u0457."
+  ],
+  "note": "Both full transcript passes are complete. The final cleanup report validates all 2203 original line headers and reports no unresolved markers. Understandable ASR roughness is retained where exact wording is uncertain, per the user's manual-review threshold. Awaiting the interactive stage checkpoint before beat splitting.",
+  "secondPassReviewedRange": {
+    "start": "u0001",
+    "end": "u2203"
+  },
+  "changedLineCount": 431,
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "manualReviewThreshold": "User instruction: only segments whose meaning cannot be understood due to garbling; understandable awkward wording or minor ASR errors do not require manual review.",
+  "chunkEdits": [
+    {
+      "start": 1,
+      "end": 500,
+      "patterns": [],
+      "changes": {
+        "44": [
+          [
+            "[[Silly]]",
+            "Silly"
+          ]
+        ],
+        "74": [
+          [
+            "[[Wait, fruit]]",
+            "Wait, fruit"
+          ]
+        ],
+        "75": [
+          [
+            "[[Paul said. Say?]]",
+            "Paul said. Say?"
+          ]
+        ],
+        "105": [
+          [
+            "[[Eater and tougher]]",
+            "Eater and tougher"
+          ]
+        ],
+        "124": [
+          [
+            "[[These housekeeping listen]]",
+            "These housekeeping listen"
+          ]
+        ],
+        "125": [
+          [
+            "[[Down]]",
+            "Down"
+          ]
+        ],
+        "130": [
+          [
+            "[[permission]]",
+            "permission"
+          ]
+        ],
+        "134": [
+          [
+            "[[Has the key]]",
+            "Has the key"
+          ]
+        ],
+        "221": [
+          [
+            "Huska",
+            "Heska"
+          ],
+          [
+            "Peska",
+            "Heska"
+          ]
+        ],
+        "222": [
+          [
+            "It's always",
+            "He's always"
+          ]
+        ],
+        "223": [
+          [
+            "Z know",
+            "Zeno"
+          ]
+        ],
+        "246": [
+          [
+            "open ceremony",
+            "opening ceremony"
+          ],
+          [
+            "Dragonite",
+            "dragonet"
+          ]
+        ],
+        "249": [
+          [
+            "Dragonite",
+            "dragonet"
+          ]
+        ],
+        "251": [
+          [
+            "Sculptit",
+            "Sculpit"
+          ]
+        ],
+        "253": [
+          [
+            "bright face",
+            "Brightface"
+          ]
+        ],
+        "254": [
+          [
+            "wildling",
+            "Wildling"
+          ],
+          [
+            "wanderer",
+            "Wanderer"
+          ]
+        ],
+        "257": [
+          [
+            "Sculptit",
+            "Sculpit"
+          ]
+        ],
+        "259": [
+          [
+            "Lil Tony",
+            "Little Tony"
+          ],
+          [
+            "Sculpted",
+            "Sculpit"
+          ]
+        ],
+        "260": [
+          [
+            "Dragonet",
+            "dragonet"
+          ]
+        ],
+        "261": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "266": [
+          [
+            "dragonettes",
+            "dragonets"
+          ]
+        ],
+        "267": [
+          [
+            "Heskins, you know",
+            "Heska and Zeno"
+          ]
+        ],
+        "268": [
+          [
+            "Sculptit",
+            "Sculpit"
+          ],
+          [
+            "little Tony",
+            "Little Tony"
+          ]
+        ],
+        "269": [
+          [
+            "dragonette",
+            "dragonet"
+          ],
+          [
+            "just felt",
+            "just svelte"
+          ]
+        ],
+        "271": [
+          [
+            "sculpt it",
+            "Sculpit"
+          ]
+        ],
+        "281": [
+          [
+            "apartments",
+            "a partner"
+          ]
+        ],
+        "283": [
+          [
+            "he allied",
+            "he elides"
+          ]
+        ],
+        "294": [
+          [
+            "these swim situations",
+            "these situations"
+          ]
+        ],
+        "299": [
+          [
+            "I pick a… I pick a duet",
+            "I think a… I think a duet"
+          ]
+        ],
+        "300": [
+          [
+            "caustic",
+            "costume"
+          ]
+        ],
+        "313": [
+          [
+            "Xeno",
+            "Zeno"
+          ]
+        ],
+        "320": [
+          [
+            "Eska",
+            "Heska"
+          ]
+        ],
+        "322": [
+          [
+            "crap",
+            "crab"
+          ]
+        ],
+        "329": [
+          [
+            "crap",
+            "crab"
+          ]
+        ],
+        "330": [
+          [
+            "chuckle Buckle",
+            "Chuckle Buckle"
+          ],
+          [
+            "buckle chuckle",
+            "Buckle Chuckle"
+          ]
+        ],
+        "338": [
+          [
+            "dragonett",
+            "dragonet"
+          ]
+        ],
+        "341": [
+          [
+            "Huska",
+            "Heska"
+          ]
+        ],
+        "343": [
+          [
+            "Sculptit",
+            "Sculpit"
+          ]
+        ],
+        "344": [
+          [
+            "I'm scubbing, I'm",
+            "Sculpit, I'm"
+          ]
+        ],
+        "345": [
+          [
+            "beat this",
+            "need this"
+          ]
+        ],
+        "346": [
+          [
+            "our performances",
+            "her performances"
+          ]
+        ],
+        "370": [
+          [
+            "mobbing",
+            "mopping"
+          ]
+        ],
+        "377": [
+          [
+            "wrongs",
+            "rocks"
+          ]
+        ],
+        "390": [
+          [
+            "Lil Tony",
+            "Little Tony"
+          ]
+        ],
+        "396": [
+          [
+            "sculpt it",
+            "Sculpit"
+          ],
+          [
+            "dragonette",
+            "dragonet"
+          ]
+        ],
+        "397": [
+          [
+            "It has",
+            "That has"
+          ]
+        ],
+        "407": [
+          [
+            "Sculptit",
+            "Sculpit"
+          ]
+        ],
+        "417": [
+          [
+            "villiant",
+            "brilliant"
+          ]
+        ],
+        "419": [
+          [
+            "In the performance",
+            "in the performance"
+          ]
+        ],
+        "433": [
+          [
+            "Esca",
+            "Heska"
+          ]
+        ],
+        "434": [
+          [
+            "Haska",
+            "Heska"
+          ]
+        ],
+        "441": [
+          [
+            "Tina",
+            "Xena"
+          ]
+        ],
+        "442": [
+          [
+            "Xena",
+            "Zeno"
+          ]
+        ],
+        "447": [
+          [
+            "Dino",
+            "Zeno"
+          ]
+        ],
+        "451": [
+          [
+            "sculpt?",
+            "Sculpit?"
+          ]
+        ],
+        "454": [
+          [
+            "Stop it, I'll swallow",
+            "Sculpit also follows"
+          ]
+        ],
+        "457": [
+          [
+            "I didn't matter",
+            "is that better?"
+          ]
+        ],
+        "467": [
+          [
+            "Nito",
+            "Zeno"
+          ]
+        ],
+        "483": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "484": [
+          [
+            "Hasco",
+            "Heska"
+          ]
+        ],
+        "485": [
+          [
+            "Pascal's",
+            "Heska's"
+          ]
+        ],
+        "487": [
+          [
+            "locked in",
+            "act in"
+          ]
+        ],
+        "493": [
+          [
+            "games that all",
+            "games than all"
+          ]
+        ],
+        "500": [
+          [
+            "football",
+            "beautiful"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 501,
+      "end": 800,
+      "patterns": [
+        [
+          "\\bdragonette(s?)\\b",
+          "dragonet\\1"
+        ],
+        [
+          "\\blittle Tony\\b",
+          "Little Tony"
+        ],
+        [
+          "\\bLil' Tony\\b",
+          "Little Tony"
+        ],
+        [
+          "\\bSculptit\\b",
+          "Sculpit"
+        ],
+        [
+          "\\bZaire\\b",
+          "Zare"
+        ]
+      ],
+      "changes": {
+        "511": [
+          [
+            "see me fly",
+            "see you fly"
+          ]
+        ],
+        "521": [
+          [
+            "less crap",
+            "less crowded"
+          ]
+        ],
+        "524": [
+          [
+            "Aska",
+            "Heska"
+          ]
+        ],
+        "530": [
+          [
+            "as we're watching",
+            "as we're walking"
+          ]
+        ],
+        "531": [
+          [
+            "You know, you're coming",
+            "Zeno, you're coming"
+          ]
+        ],
+        "532": [
+          [
+            "Leave me",
+            "Don't leave me"
+          ]
+        ],
+        "537": [
+          [
+            "Bill Tony",
+            "Little Tony"
+          ]
+        ],
+        "555": [
+          [
+            "Bids back",
+            "Heads back"
+          ]
+        ],
+        "561": [
+          [
+            "So, if it's",
+            "Sculpit's"
+          ]
+        ],
+        "564": [
+          [
+            "enhance it to. Apparently,",
+            "and hands it to, apparently,"
+          ]
+        ],
+        "568": [
+          [
+            "clot",
+            "cloth"
+          ],
+          [
+            "bread thing",
+            "red thing"
+          ],
+          [
+            "other church",
+            "other direction"
+          ]
+        ],
+        "575": [
+          [
+            "WP6",
+            "26"
+          ]
+        ],
+        "576": [
+          [
+            "Barry, what did you call",
+            "Sorry, what did you roll"
+          ]
+        ],
+        "579": [
+          [
+            "Hey, Lux!",
+            "He looks…"
+          ]
+        ],
+        "580": [
+          [
+            "I'm sort of curious",
+            "Sort of curious"
+          ]
+        ],
+        "590": [
+          [
+            "I was awkwardly",
+            "Dives awkwardly"
+          ],
+          [
+            "his lip",
+            "his whip"
+          ]
+        ],
+        "595": [
+          [
+            "Small bit",
+            "Sculpit"
+          ]
+        ],
+        "600": [
+          [
+            "the width",
+            "the whip"
+          ]
+        ],
+        "604": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "611": [
+          [
+            "Huska",
+            "Heska"
+          ]
+        ],
+        "612": [
+          [
+            "Stop it's",
+            "Sculpit's"
+          ]
+        ],
+        "613": [
+          [
+            "persuasion role",
+            "persuasion roll"
+          ]
+        ],
+        "622": [
+          [
+            "elbows, you know, and the ribs",
+            "elbows Zeno in the ribs"
+          ],
+          [
+            "can't cook",
+            "can cook"
+          ]
+        ],
+        "626": [
+          [
+            "Unseen servant",
+            "Unseen Servant"
+          ]
+        ],
+        "638": [
+          [
+            "Zeta",
+            "Xena"
+          ]
+        ],
+        "641": [
+          [
+            "Haskell catch him",
+            "Heska will catch them"
+          ]
+        ],
+        "655": [
+          [
+            "Sculpting",
+            "Sculpit"
+          ]
+        ],
+        "674": [
+          [
+            "Pabbel",
+            "pebble"
+          ]
+        ],
+        "681": [
+          [
+            "handballs",
+            "pebbles"
+          ]
+        ],
+        "687": [
+          [
+            "No, no, scope it. I gotta scope it. We gotta scope it.",
+            "No, no, Sculpit. I got it, Sculpit. We got it, Sculpit."
+          ]
+        ],
+        "690": [
+          [
+            "He's looking",
+            "She's looking"
+          ]
+        ],
+        "691": [
+          [
+            "he's basically",
+            "she's basically"
+          ]
+        ],
+        "695": [
+          [
+            "Sculpt it",
+            "Sculpit"
+          ]
+        ],
+        "699": [
+          [
+            "wave his head",
+            "wave his hand"
+          ]
+        ],
+        "703": [
+          [
+            "to the ball",
+            "to the palm"
+          ]
+        ],
+        "715": [
+          [
+            "Zarit",
+            "Zare"
+          ]
+        ],
+        "726": [
+          [
+            "Zaer",
+            "Zare"
+          ]
+        ],
+        "727": [
+          [
+            "submission critical",
+            "it's mission critical"
+          ]
+        ],
+        "744": [
+          [
+            "Natural20",
+            "natural 20"
+          ]
+        ],
+        "752": [
+          [
+            "Bit mean?",
+            "Pick me!"
+          ]
+        ],
+        "757": [
+          [
+            "Jets",
+            "gems"
+          ]
+        ],
+        "766": [
+          [
+            "Kuzmet",
+            "kismet"
+          ]
+        ],
+        "792": [
+          [
+            "Pebble boat",
+            "pebble butt"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 801,
+      "end": 1100,
+      "patterns": [
+        [
+          "\\bZaire\\b",
+          "Zare"
+        ],
+        [
+          "\\b[Dd]ragonette(s?)\\b",
+          "dragonet\\1"
+        ],
+        [
+          "\\bdragonett\\b",
+          "dragonet"
+        ],
+        [
+          "\\b[Dd]ragon [Nn]ets\\b",
+          "dragonets"
+        ],
+        [
+          "\\bDragon Egg\\b",
+          "dragonet"
+        ],
+        [
+          "\\blittle Tony\\b",
+          "Little Tony"
+        ],
+        [
+          "\\bSculptit\\b",
+          "Sculpit"
+        ],
+        [
+          "\\bHuska\\b",
+          "Heska"
+        ]
+      ],
+      "changes": {
+        "802": [
+          [
+            "Casino",
+            "Zeno"
+          ]
+        ],
+        "808": [
+          [
+            "looking at Xena",
+            "looking at Zeno"
+          ]
+        ],
+        "828": [
+          [
+            "Pubble Blut",
+            "pebble butt"
+          ]
+        ],
+        "834": [
+          [
+            "this month",
+            "this moment"
+          ]
+        ],
+        "840": [
+          [
+            "the car ages ago",
+            "Taelgar ages ago"
+          ]
+        ],
+        "849": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "860": [
+          [
+            "gray Dragon Eck",
+            "great dragonet"
+          ]
+        ],
+        "863": [
+          [
+            "community's",
+            "communities"
+          ]
+        ],
+        "867": [
+          [
+            "the mother",
+            "the Mother"
+          ]
+        ],
+        "869": [
+          [
+            "Bright Faced",
+            "Brightface"
+          ]
+        ],
+        "877": [
+          [
+            "clutches in these eggs",
+            "clutches and these eggs"
+          ]
+        ],
+        "885": [
+          [
+            "living spring",
+            "living sprig"
+          ]
+        ],
+        "888": [
+          [
+            "Bright Face",
+            "Brightface"
+          ]
+        ],
+        "907": [
+          [
+            "time to show me",
+            "time to shine"
+          ]
+        ],
+        "913": [
+          [
+            "Can't you?",
+            "Can't hear you."
+          ]
+        ],
+        "914": [
+          [
+            "Micro audio",
+            "Mike, your audio"
+          ]
+        ],
+        "939": [
+          [
+            "neck",
+            "knack"
+          ]
+        ],
+        "941": [
+          [
+            "barg",
+            "bard"
+          ]
+        ],
+        "948": [
+          [
+            "Dragonhead",
+            "dragonet"
+          ]
+        ],
+        "951": [
+          [
+            "each robe",
+            "each row"
+          ]
+        ],
+        "952": [
+          [
+            "Zim's",
+            "Xena's"
+          ]
+        ],
+        "954": [
+          [
+            "Webv6",
+            "1d6"
+          ]
+        ],
+        "956": [
+          [
+            "Barnic inspirations",
+            "Bardic Inspiration"
+          ]
+        ],
+        "957": [
+          [
+            "for Zeno",
+            "for Xena"
+          ]
+        ],
+        "965": [
+          [
+            "launchers herself",
+            "launches herself"
+          ]
+        ],
+        "969": [
+          [
+            "your people",
+            "your pupil"
+          ]
+        ],
+        "976": [
+          [
+            "Hasco",
+            "Heska"
+          ]
+        ],
+        "980": [
+          [
+            "possible role",
+            "possible roll"
+          ]
+        ],
+        "984": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "987": [
+          [
+            "passed a spell",
+            "cast a spell"
+          ]
+        ],
+        "989": [
+          [
+            "Oh, Tony turns to skull, but",
+            "Little Tony turns to Sculpit,"
+          ]
+        ],
+        "997": [
+          [
+            "slate of hand",
+            "Sleight of Hand"
+          ],
+          [
+            "Hezka",
+            "Heska"
+          ]
+        ],
+        "1005": [
+          [
+            "Skull, nobody",
+            "Sculpit, buddy"
+          ]
+        ],
+        "1025": [
+          [
+            "Nobody didn't see anything",
+            "Nobody can see anything"
+          ]
+        ],
+        "1029": [
+          [
+            "Dragon X",
+            "dragonets"
+          ]
+        ],
+        "1039": [
+          [
+            "HESCA",
+            "Heska"
+          ]
+        ],
+        "1055": [
+          [
+            "your era",
+            "your arrow"
+          ]
+        ],
+        "1058": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "1067": [
+          [
+            "cr-set your fucking bush",
+            "criticize. You're a fucking bush"
+          ]
+        ],
+        "1068": [
+          [
+            "Hesk ",
+            "Heska "
+          ]
+        ],
+        "1097": [
+          [
+            "dragon ants",
+            "dragonets"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 1101,
+      "end": 1400,
+      "patterns": [
+        [
+          "\\b[Dd]ragonette(s?)\\b",
+          "dragonet\\1"
+        ],
+        [
+          "\\bDragon Nets\\b",
+          "dragonets"
+        ],
+        [
+          "\\bDragon Ants\\b",
+          "dragonets"
+        ],
+        [
+          "\\bDragonet\\b",
+          "dragonet"
+        ],
+        [
+          "\\bdragon head\\b",
+          "dragonet"
+        ],
+        [
+          "\\bSculptit\\b",
+          "Sculpit"
+        ],
+        [
+          "\\bRoscoe?\\b",
+          "Rosca"
+        ],
+        [
+          "\\bRosa\\b",
+          "Rosca"
+        ],
+        [
+          "\\bRaska\\b",
+          "Rosca"
+        ],
+        [
+          "\\blittle Tony\\b",
+          "Little Tony"
+        ]
+      ],
+      "changes": {
+        "1106": [
+          [
+            "Nesca",
+            "Heska"
+          ]
+        ],
+        "1108": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "1112": [
+          [
+            "Ask it",
+            "Heska"
+          ]
+        ],
+        "1113": [
+          [
+            "Zena",
+            "Xena"
+          ]
+        ],
+        "1134": [
+          [
+            "Dragon Ants",
+            "dragonets"
+          ]
+        ],
+        "1139": [
+          [
+            "Oh, Scott",
+            "Rosca"
+          ]
+        ],
+        "1146": [
+          [
+            "disparagingly run",
+            "disparagingly rhyme"
+          ]
+        ],
+        "1150": [
+          [
+            "the before of you",
+            "the four of you"
+          ]
+        ],
+        "1160": [
+          [
+            "the Hulker",
+            "the whole crew"
+          ]
+        ],
+        "1168": [
+          [
+            "to, you know,",
+            "to Zeno,"
+          ]
+        ],
+        "1172": [
+          [
+            "a part of inspiration",
+            "Bardic Inspiration"
+          ]
+        ],
+        "1190": [
+          [
+            "Eric Roy, what'd you go",
+            "Eric, where'd you go"
+          ]
+        ],
+        "1192": [
+          [
+            "Will Pony",
+            "Little Tony"
+          ]
+        ],
+        "1197": [
+          [
+            "dragoneth",
+            "dragonets"
+          ]
+        ],
+        "1227": [
+          [
+            "the crab",
+            "the crowd"
+          ]
+        ],
+        "1230": [
+          [
+            "3 max",
+            "3 knacks"
+          ]
+        ],
+        "1254": [
+          [
+            "sick breath",
+            "Sick Burn"
+          ]
+        ],
+        "1258": [
+          [
+            "Stickburn's",
+            "Sick Burn's"
+          ],
+          [
+            "Rosca's role",
+            "Rosca's roll"
+          ]
+        ],
+        "1263": [
+          [
+            "Bonic inspiration",
+            "Bardic Inspiration"
+          ]
+        ],
+        "1267": [
+          [
+            "his role",
+            "his roll"
+          ]
+        ],
+        "1272": [
+          [
+            "Bartic inspiration",
+            "Bardic Inspiration"
+          ]
+        ],
+        "1273": [
+          [
+            "Hong",
+            "Kong"
+          ]
+        ],
+        "1279": [
+          [
+            "Zena",
+            "Zeno"
+          ]
+        ],
+        "1286": [
+          [
+            "your role",
+            "your roll"
+          ]
+        ],
+        "1287": [
+          [
+            "anytime",
+            "22"
+          ]
+        ],
+        "1289": [
+          [
+            "Rakut",
+            "Rosca"
+          ],
+          [
+            "zeno",
+            "Zeno"
+          ]
+        ],
+        "1318": [
+          [
+            "about objects",
+            "out objects"
+          ]
+        ],
+        "1325": [
+          [
+            "a dragon that actually hatches",
+            "a dragonet actually hatches"
+          ]
+        ],
+        "1329": [
+          [
+            "I pulls",
+            "he pulls"
+          ]
+        ],
+        "1331": [
+          [
+            "Rivers!",
+            "Delivers!"
+          ]
+        ],
+        "1332": [
+          [
+            "The spike!",
+            "Despite!"
+          ]
+        ],
+        "1333": [
+          [
+            "Peska",
+            "Heska"
+          ]
+        ],
+        "1339": [
+          [
+            "ANTA.",
+            "advantage?"
+          ]
+        ],
+        "1342": [
+          [
+            "this phone",
+            "this one"
+          ]
+        ],
+        "1349": [
+          [
+            "this rune",
+            "this round"
+          ]
+        ],
+        "1371": [
+          [
+            "a phone",
+            "a phony"
+          ]
+        ],
+        "1378": [
+          [
+            "Xeno",
+            "Zeno"
+          ]
+        ],
+        "1383": [
+          [
+            "step, you've prepared",
+            "stuff you've prepared"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 1401,
+      "end": 1700,
+      "patterns": [
+        [
+          "\\bRaska\\b",
+          "Rosca"
+        ],
+        [
+          "\\bHaske\\b",
+          "Heska"
+        ],
+        [
+          "\\bEska\\b",
+          "Heska"
+        ],
+        [
+          "\\b[Dd]ragonette(s?)\\b",
+          "dragonet\\1"
+        ],
+        [
+          "\\bdragon ants\\b",
+          "dragonets"
+        ],
+        [
+          "\\bdragon nets\\b",
+          "dragonets"
+        ],
+        [
+          "\\b[Ss]culpt it\\b",
+          "Sculpit"
+        ],
+        [
+          "\\bSculptit\\b",
+          "Sculpit"
+        ],
+        [
+          "\\bLil Tony\\b",
+          "Little Tony"
+        ]
+      ],
+      "changes": {
+        "1409": [
+          [
+            "Scalpin",
+            "Sculpit"
+          ],
+          [
+            "towards Acrobat,",
+            "towards acrobatics,"
+          ]
+        ],
+        "1426": [
+          [
+            "early than",
+            "earlier than"
+          ]
+        ],
+        "1431": [
+          [
+            "and it's just",
+            "and he's just"
+          ]
+        ],
+        "1445": [
+          [
+            "Dark buckle",
+            "Dark Buckle"
+          ]
+        ],
+        "1447": [
+          [
+            "dark buckle nut",
+            "Dark Buckle now"
+          ]
+        ],
+        "1450": [
+          [
+            "dark buckle",
+            "Dark Buckle"
+          ]
+        ],
+        "1451": [
+          [
+            "Bilton.",
+            "Little…"
+          ]
+        ],
+        "1452": [
+          [
+            "Honey,",
+            "Tony,"
+          ]
+        ],
+        "1454": [
+          [
+            "super sick",
+            "super psyched"
+          ]
+        ],
+        "1460": [
+          [
+            "Skull Butt",
+            "Sculpit"
+          ]
+        ],
+        "1463": [
+          [
+            "Fancy Hunters",
+            "fancy hunters"
+          ]
+        ],
+        "1469": [
+          [
+            "fish ab oyster",
+            "fish-crab-oyster"
+          ]
+        ],
+        "1473": [
+          [
+            "from my primary client",
+            "for my primary client"
+          ]
+        ],
+        "1474": [
+          [
+            "crab duck in",
+            "crabducken"
+          ]
+        ],
+        "1483": [
+          [
+            "Asko",
+            "Heska"
+          ]
+        ],
+        "1491": [
+          [
+            "I would give me cooking tips",
+            "it was giving me cooking tips"
+          ],
+          [
+            "repairing this",
+            "preparing this"
+          ]
+        ],
+        "1508": [
+          [
+            "Next, Rev",
+            "Thanks, Rev"
+          ]
+        ],
+        "1515": [
+          [
+            "common peace",
+            "calm and peace"
+          ]
+        ],
+        "1525": [
+          [
+            "A little Tony",
+            "Little Tony"
+          ]
+        ],
+        "1537": [
+          [
+            "You're what",
+            "Hear what"
+          ]
+        ],
+        "1550": [
+          [
+            "What are your role",
+            "What'd you roll"
+          ]
+        ],
+        "1551": [
+          [
+            "Trade",
+            "Three"
+          ]
+        ],
+        "1564": [
+          [
+            "the Wonder",
+            "the Wanderer"
+          ]
+        ],
+        "1574": [
+          [
+            "101",
+            "Not a one"
+          ]
+        ],
+        "1578": [
+          [
+            "Aska",
+            "Heska"
+          ]
+        ],
+        "1579": [
+          [
+            "unspeakably",
+            "unmistakably"
+          ]
+        ],
+        "1582": [
+          [
+            "Buy up",
+            "Fly up"
+          ]
+        ],
+        "1585": [
+          [
+            "up in bolts",
+            "up and bolt"
+          ]
+        ],
+        "1588": [
+          [
+            "Wadra",
+            "Wanderer"
+          ]
+        ],
+        "1590": [
+          [
+            "deploying towards the wanderer",
+            "Is it flying towards the Wanderer"
+          ]
+        ],
+        "1591": [
+          [
+            "I only kept… limbs",
+            "I only caught a glimpse"
+          ]
+        ],
+        "1602": [
+          [
+            "You know, what are",
+            "Zeno, what are"
+          ]
+        ],
+        "1604": [
+          [
+            "Xeno",
+            "Zeno"
+          ]
+        ],
+        "1619": [
+          [
+            "getting solid",
+            "getting softer"
+          ]
+        ],
+        "1640": [
+          [
+            "kind of piece",
+            "kind of peace"
+          ]
+        ],
+        "1659": [
+          [
+            "Wanderers",
+            "Wanderer's"
+          ]
+        ],
+        "1660": [
+          [
+            "section",
+            "statue"
+          ]
+        ],
+        "1668": [
+          [
+            "do soccer",
+            "do smaller"
+          ]
+        ],
+        "1673": [
+          [
+            "call it, guys",
+            "call out, guys"
+          ]
+        ],
+        "1679": [
+          [
+            "Masai",
+            "The silence"
+          ]
+        ],
+        "1691": [
+          [
+            "a little tiny",
+            "Little Tony"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 1701,
+      "end": 1950,
+      "patterns": [
+        [
+          "\\bwanderer\\b",
+          "Wanderer"
+        ],
+        [
+          "\\b[Dd]ragonette(s?)\\b",
+          "dragonet\\1"
+        ],
+        [
+          "\\blittle Tony\\b",
+          "Little Tony"
+        ],
+        [
+          "\\bLil' Tony\\b",
+          "Little Tony"
+        ]
+      ],
+      "changes": {
+        "1726": [
+          [
+            "low thing",
+            "glow thing"
+          ]
+        ],
+        "1732": [
+          [
+            "a boat",
+            "a butt"
+          ]
+        ],
+        "1755": [
+          [
+            "Sculpt,",
+            "Sculpit,"
+          ]
+        ],
+        "1766": [
+          [
+            "Will Tony",
+            "Little Tony"
+          ]
+        ],
+        "1789": [
+          [
+            "draggingettes",
+            "dragonets"
+          ]
+        ],
+        "1794": [
+          [
+            "I'll walk up to you.",
+            "I'll walk up to it."
+          ]
+        ],
+        "1812": [
+          [
+            "Are they designed?",
+            "Are they designs?"
+          ]
+        ],
+        "1815": [
+          [
+            "Investigator",
+            "Investigation"
+          ]
+        ],
+        "1817": [
+          [
+            "investigation, Sean",
+            "investigation check"
+          ]
+        ],
+        "1838": [
+          [
+            "you know the thinking creatures. There are spells blocked",
+            "you know a thinking creature is there. The spell's blocked"
+          ]
+        ],
+        "1841": [
+          [
+            "The tech start's just the tech spots",
+            "Detect Thoughts just detects thoughts"
+          ]
+        ],
+        "1864": [
+          [
+            "a role associated",
+            "a roll associated"
+          ]
+        ],
+        "1918": [
+          [
+            "huggedly say",
+            "hug this egg"
+          ]
+        ],
+        "1919": [
+          [
+            "She's like",
+            "Just like"
+          ]
+        ],
+        "1925": [
+          [
+            "growing",
+            "glowing"
+          ]
+        ],
+        "1933": [
+          [
+            "Jazzina",
+            "Zeno"
+          ]
+        ],
+        "1934": [
+          [
+            "Lil' Tunny",
+            "Little Tony"
+          ]
+        ],
+        "1943": [
+          [
+            "Huskas",
+            "Heska's"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 1951,
+      "end": 2203,
+      "patterns": [
+        [
+          "\\b[Dd]ragonette(s?)\\b",
+          "dragonet\\1"
+        ],
+        [
+          "\\bDragonet\\b",
+          "dragonet"
+        ],
+        [
+          "\\bdragon ants\\b",
+          "dragonets"
+        ],
+        [
+          "\\bwanderer\\b",
+          "Wanderer"
+        ]
+      ],
+      "changes": {
+        "1955": [
+          [
+            "sculpt",
+            "Sculpit"
+          ]
+        ],
+        "1966": [
+          [
+            "chat GPT",
+            "ChatGPT"
+          ]
+        ],
+        "1970": [
+          [
+            "Highlights",
+            "High highs"
+          ]
+        ],
+        "1981": [
+          [
+            "Bye",
+            "By"
+          ]
+        ],
+        "1986": [
+          [
+            "not for things",
+            "not four things"
+          ]
+        ],
+        "1988": [
+          [
+            "a wander holding",
+            "the Wanderer holding"
+          ]
+        ],
+        "1989": [
+          [
+            "And the wanderer",
+            "On the Wanderer"
+          ]
+        ],
+        "1994": [
+          [
+            "In a sense",
+            "And a sense"
+          ]
+        ],
+        "2010": [
+          [
+            "He realized",
+            "You realize"
+          ]
+        ],
+        "2014": [
+          [
+            "dragon net",
+            "dragonet"
+          ]
+        ],
+        "2024": [
+          [
+            "lost breaths",
+            "last breaths"
+          ]
+        ],
+        "2026": [
+          [
+            "dragon egg",
+            "dragonet"
+          ]
+        ],
+        "2027": [
+          [
+            "dragon head",
+            "dragonet"
+          ]
+        ],
+        "2029": [
+          [
+            "sky and fire",
+            "sky on fire"
+          ]
+        ],
+        "2031": [
+          [
+            "points are going up",
+            "points are going out"
+          ]
+        ],
+        "2040": [
+          [
+            "When there's a word",
+            "And there's a word"
+          ]
+        ],
+        "2064": [
+          [
+            "Ford, Dragonettes",
+            "four dragonets"
+          ]
+        ],
+        "2069": [
+          [
+            "awake up",
+            "wake up"
+          ]
+        ],
+        "2074": [
+          [
+            "Difference",
+            "Different"
+          ]
+        ],
+        "2088": [
+          [
+            "coming to that",
+            "coming to, that"
+          ]
+        ],
+        "2092": [
+          [
+            "Dragon S",
+            "dragonets"
+          ]
+        ],
+        "2098": [
+          [
+            "the wind blow up",
+            "the wind will love"
+          ]
+        ],
+        "2102": [
+          [
+            "Esca",
+            "Heska"
+          ]
+        ],
+        "2112": [
+          [
+            "those crags",
+            "those crabs"
+          ]
+        ],
+        "2113": [
+          [
+            "mike",
+            "Mike"
+          ]
+        ],
+        "2118": [
+          [
+            "1 feet",
+            "1 foot"
+          ]
+        ],
+        "2133": [
+          [
+            "lifeless and animate",
+            "lifeless and inanimate"
+          ]
+        ],
+        "2137": [
+          [
+            "eye light up",
+            "eye lights up"
+          ]
+        ],
+        "2144": [
+          [
+            "Don",
+            "Kong"
+          ]
+        ],
+        "2169": [
+          [
+            "series of roles",
+            "series of rolls"
+          ]
+        ],
+        "2174": [
+          [
+            "Dragonetti",
+            "dragonet-y"
+          ]
+        ],
+        "2181": [
+          [
+            "Fortz",
+            "Schwartz"
+          ]
+        ]
+      }
+    },
+    {
+      "start": 1,
+      "end": 2203,
+      "changes": {
+        "283": [
+          [
+            "he elides to",
+            "he alludes to"
+          ]
+        ],
+        "433": [
+          [
+            "Maybe we… Heska about it.",
+            "Maybe we… ask about it."
+          ]
+        ],
+        "457": [
+          [
+            "Sorry, is that better?.",
+            "Sorry, is that better?"
+          ]
+        ]
+      }
+    }
+  ],
+  "cleanedSourceSha256": "8a511f0a469e9278e11c2fa88e69456ad471b09e2131b4a85f1004aedc2b2b64"
+}

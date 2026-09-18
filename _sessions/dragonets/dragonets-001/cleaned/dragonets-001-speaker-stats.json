@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 9589.548,
+  "speakers": [
+    {
+      "transcriptIdentifier": "Audio shared by David S. Kong",
+      "name": "David Kong",
+      "gameRole": "DM",
+      "segmentCount": 130,
+      "durationSeconds": 266.78,
+      "fraction": 0.0278,
+      "wordCount": 609
+    },
+    {
+      "transcriptIdentifier": "David S. Kong",
+      "name": "David Kong",
+      "gameRole": "DM",
+      "segmentCount": 984,
+      "durationSeconds": 5328.978,
+      "fraction": 0.5557,
+      "wordCount": 15484
+    },
+    {
+      "transcriptIdentifier": "Eric Rosenbaum",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Zeno",
+      "segmentCount": 274,
+      "durationSeconds": 810.429,
+      "fraction": 0.0845,
+      "wordCount": 2313
+    },
+    {
+      "transcriptIdentifier": "Mike",
+      "name": "Mike Sackton",
+      "gameRole": "Sculpit",
+      "segmentCount": 317,
+      "durationSeconds": 1127.523,
+      "fraction": 0.1176,
+      "wordCount": 3095
+    },
+    {
+      "transcriptIdentifier": "Rev. David Schwartz (he/him)",
+      "name": "David Schwartz",
+      "gameRole": "Little Tony",
+      "segmentCount": 237,
+      "durationSeconds": 1019.966,
+      "fraction": 0.1064,
+      "wordCount": 3022
+    },
+    {
+      "transcriptIdentifier": "Tim Sackton",
+      "name": "Tim Sackton",
+      "gameRole": "Heska",
+      "segmentCount": 261,
+      "durationSeconds": 1035.872,
+      "fraction": 0.108,
+      "wordCount": 2549
+    }
+  ]
+}
