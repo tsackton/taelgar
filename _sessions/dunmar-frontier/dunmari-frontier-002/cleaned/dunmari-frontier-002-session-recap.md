@@ -216,7 +216,7 @@ Beyond the canyon, the remnants of the ancient road cross a cracked landscape of
 - Organizations: none
 - Items: none
 - Enemies: skeletons
-- Image: skeletons-emerge-gomat-fort.jpg
+- Image: [[dufr-002-skeletons-emerge-gomat-fort.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:

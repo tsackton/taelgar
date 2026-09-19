@@ -103,7 +103,7 @@ Before dawn, Alden leads the party below the manor to a root-covered cellar wher
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image: varrow-forest.jpg
+- Image: [[feywild-01-varrow-forest.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:
