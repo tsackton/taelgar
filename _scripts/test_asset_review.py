@@ -84,10 +84,10 @@ class AssetReviewTests(unittest.TestCase):
         self.assertEqual(self.scan()["moves"], [])
 
     def test_paths_code_mentions_drawings_and_collisions_are_held(self):
-        for name in ("path.png", "code.png", "mention.png", "drawing.png", "duplicate.png", "relative.png"):
+        for name in ("path.png", "code.png", "mention.png", "drawing.png", "duplicate.png", "relative.png", "definition.png"):
             self.put("assets/" + name)
         self.put("assets/other/duplicate.png")
-        self.put("_sessions/recap.md", "![[assets/path.png]]\n- Image: code.png\n- Image: mention.png\n![[drawing.png]]\n![[duplicate.png]]\n![image](relative.png)")
+        self.put("_sessions/recap.md", "![[assets/path.png]]\n- Image: code.png\n- Image: mention.png\n![[drawing.png]]\n![[duplicate.png]]\n![image](relative.png)\n[image]: definition.png")
         self.put("_scripts/example.py", 'image = "code.png"\n')
         self.put("_dm_notes/Review.md", "Consider mention.png later")
         self.put("assets/drawing-details.md", "---\nexcalidraw-plugin: parsed\n---\n")
@@ -98,6 +98,7 @@ class AssetReviewTests(unittest.TestCase):
         self.assertIn("unparsed-filename-mention", held["assets/code.png"])
         self.assertIn("editable-drawing-relationship", held["assets/drawing.png"])
         self.assertIn("duplicate-filename", held["assets/duplicate.png"])
+        self.assertIn("path-dependent-or-ambiguous-reference", held["assets/definition.png"])
 
     def test_url_encoded_unicode_and_extensionless_wikilinks(self):
         self.put("assets/old/Café Scene.png")
@@ -117,13 +118,22 @@ class AssetReviewTests(unittest.TestCase):
         self.assertFalse(self.scan()["moves"])
         self.assertEqual(self.scan()["summary"]["unlinked"], 1)
 
+    def test_support_reference_reopens_unlinked_review(self):
+        self.put("assets/_unlinked/reference.png")
+        self.put("_MoC/Guide.md", "![[reference.png]]")
+        plan = self.scan()
+        self.assertFalse(plan["moves"])
+        self.assertIn("support-only-use-needs-review", plan["held"][0]["blockers"])
+
     def test_external_consumers_and_live_plugin_settings_block_moves(self):
         self.put("assets/a.png")
         self.put("assets/b.png")
-        self.put("_sessions/recap.md", "- Image: a.png\n- Image 2: b.png")
+        self.put("assets/c.png")
+        self.put("_sessions/recap.md", "- Image: a.png\n- Image 2: b.png\n- Image 3: c.png")
         external = self.home / "website.json"
         external.write_text('{"map": "a.png"}')
         self.put(".obsidian/plugins/maps/data.json", '{"image": "b.png"}')
+        self.put("_scripts/settings.json", '{"image": "c.png"}')
         plan = self.scan(consumer_roots=[external])
         self.assertFalse(plan["moves"])
         self.assertTrue(all("code-or-config-reference" in m["blockers"] for m in plan["held"]))
@@ -209,6 +219,28 @@ class AssetReviewTests(unittest.TestCase):
         external = self.home / "outside.png"; external.write_text("outside")
         (self.vault / "assets/a.png").symlink_to(external)
         self.assertIn("symlink", self.scan()["held"][0]["blockers"])
+
+    def test_post_move_reference_change_rolls_back_without_reverting_note(self):
+        self.put("assets/a.png", "a")
+        plan = self.scan()
+        original_transfer = mover.transfer
+        def add_reference(source, destination, digest):
+            original_transfer(source, destination, digest)
+            if source == self.vault / "assets/a.png":
+                self.put("New.md", "![[a.png]]")
+        with patch.object(mover, "transfer", side_effect=add_reference):
+            with self.assertRaisesRegex(ValueError, "References changed"):
+                mover.apply_plan(plan, self.home / "receipt.json")
+        self.assertTrue((self.vault / "assets/a.png").exists())
+        self.assertEqual((self.vault / "New.md").read_text(), "![[a.png]]")
+
+    def test_transfer_never_overwrites_an_existing_destination(self):
+        source = self.put("assets/a.png", "original")
+        destination = self.put("assets/_unlinked/a.png", "existing")
+        with self.assertRaises(FileExistsError):
+            mover.transfer(source, destination, finder.digest_file(source))
+        self.assertEqual(source.read_text(), "original")
+        self.assertEqual(destination.read_text(), "existing")
 
 
 if __name__ == "__main__":

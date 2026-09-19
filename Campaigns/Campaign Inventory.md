@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/check/ai]
 excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
@@ -25,7 +25,7 @@ Games that are, or at least were designed as, full length campaigns, consisting 
 
 - [[Dunmari Frontier Campaign]] (*Finished*): Level 1-20. Started in DR 1748. Last adventure ended in Sept 1749, with a lingering epilogue into early DR 1750. Current time for characters is approximately Jan 1750, though this needs a bit of clarification. Campaign code: dufr. 
 - [[Cleenseau Campaign]] (*Ongoing*): Fully canonical. Started in DR 1719. Currently sometime in DR 1720. Campaign code: clee. 
-- [[Great Library Campaign]] (*Ongoing*): Fully canonical. Started in DR 1747. In fall DR 1748, time skip put them in DR 1752. Campaign code: gl. 
+- [[Great Library Campaign]] (*Ongoing*): Fully canonical. Started in DR 1747. In fall DR 1748, time skip put them in DR 1752. Campaign code: grli. 
 - [[Addermarch Campaign]] (*Ongoing*): Fully canonical. Started in DR 1715, currently still DR 1715. Campaign code: adma. 
 
 #### Partially Canonical
@@ -57,7 +57,7 @@ Single adventures, typically running between one and four sessions.
 
 - [[Labyrinths - Player Background|Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. Campaign code: lablost. 
 - Into the Chasm. Campaign code: itc. **Needs landing page, details cleanup**
-- Lost in the Feywild. Campaign code: litf. **Needs landing page, details cleanup**
+- Lost in the Feywild. Campaign code: feywild. **Needs landing page, details cleanup**
 
 #### Partially Canonical
 
