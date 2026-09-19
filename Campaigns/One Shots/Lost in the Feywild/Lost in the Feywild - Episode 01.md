@@ -53,7 +53,7 @@ The group is a found-family band of misfits: skeptical, generous, opportunistic,
 [[Alden]] then speaks of [[Dandelion House]] with rapturous but genuine emotion -- Kaito's surreptitious Detect Thoughts spell finds joy, delight, longing, and nostalgia. As the party drifts off to rest, the night passes uneventfully.
 
 > [!image|figure standard]
-> ![[varrow-forest.jpg]]
+> ![[feywild-01-varrow-forest.jpg]]
 > *Walking through [[Varrow Forest]]*
 
 Morning brings a long march through ancient forest. The trail slowly fades away, the forest grows quieter, the shadows gather. Just before sunset, the party passes through a ruined gate and over barely-visible remnants of an ancient wall and moat long since swallowed by forest. The forest opens into a wildly overgrown field and the House itself, blazing bright in the last light of day.

@@ -55,7 +55,7 @@ Approaching the Stoneborn statue, and [[Hagrim]]'s lair, the party makes their w
 
 ![[dufr-058-giant-statue-legs-morkalan.png|500]]
 
-![[morkalan-hagrim-fort.png|500]]
+![[dufr-058-morkalan-hagrim-fort.png|500]]
 
 Passing into the dungeon, the party makes their way through a chamber of bones that begin to animate, breaks open the door to [[Hagrim]]'s final resting place, and confronts his ghost. [[Hagrim]] is angry, accusing the party of reminding him of his horrible past, saying he had free himself of his cursed memories until they arrived. And battle is joined, as he insists there is nothing for the party here, and they should leave him to his domain. As he takes damage from the party, and is worn down, he becomes fainter and fainter, but insists he cannot be defeated, and he will be back to finish the job. 
 

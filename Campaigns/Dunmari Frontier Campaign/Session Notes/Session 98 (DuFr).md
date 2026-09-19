@@ -48,7 +48,7 @@ The party heard three songs about merfolk:
 ## Narrative
 We begin on the morning of May 5th, 1749, in the vibrant city of [[Nevium]], situated in the Chardonian province of [[Portalia]], after [[Seeker]]'s successful teleportation spell transported the party from the cold northern land of [[Ursk]] to the balmy shores of the [[Gulf of Chardon]]. Aware of their notoriety and wanted status within the [[Chardonian Empire]], the [[Dunmar Fellowship]] quickly oriented themselves to their surroundings, strategizing their next move in relative secrecy.
 
-![[nevium-1.jpg]]
+![[dufr-098-nevium.jpg]]
 
 Aiming for a discrete and quick escape from the city of [[Nevium]], the party unfolds their folding boat, and, [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the he party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
 

@@ -86,7 +86,7 @@ With [[Menestheus]], the party presses onward to the [[27th House]] whose entry 
 	bring back the key to finally set me free.
 
 > [!image|figure large]
-> ![[the-door-on-the-cliff.jpg]]
+> ![[feywild-03-the-door-on-the-cliff.jpg]]
 > *The lonely door on a cliff leading to the [[27th House|27th Room]]*
 
 ## Cast of Characters

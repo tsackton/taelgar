@@ -46,7 +46,7 @@ Attempting to follow, [[Delwath]] uses the magic of the tanshi to clear some of 
 
 Arriving at the tower, the party flies up to the fourth floor, where the statue of Hraglar sits. The storm seems to echo inside the tower, lightning illuminating the walls
 
-![[stormcaller-tower-interior.png]]
+![[dufr-070-stormcaller-tower-interior.png]]
 
 Ascending the stairs to the top floor of the tower, the party is not surprised to emerge in a mountaintop domain, giant-sized stairs leading to a massive palace in the distance, as this happened last time as well. Walking down the stairs is a giant, blind, being led by a much smaller person -- [[Kenzo]]. The giant, [[Hralgar]], invites them to come speak and tell tales. [[Kenzo]] seems not to recognize anyone in the party, and says he is the giant Jorundr, a friend and companion of [[Hralgar]]'s. 
 
