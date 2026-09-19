@@ -70,12 +70,16 @@ def apply_plan(plan: dict, receipt: Path) -> dict:
         raise ValueError(f"Receipt already exists: {receipt}. Inspect it before choosing a new receipt.")
     receipt.parent.mkdir(parents=True, exist_ok=True)
     state = {"schemaVersion": SCHEMA_VERSION, "status": "in-progress", "vault": str(vault), "moves": []}
-    receipt.write_text(encoded(state), encoding="utf8")
+    with receipt.open("x", encoding="utf8") as stream:
+        stream.write(encoded(state))
     created_dirs = {str((vault / m["destination"]).parent) for m in moves if not (vault / m["destination"]).parent.exists()}
     try:
         for move in moves:
+            state["pending"] = move
+            receipt.write_text(encoded(state), encoding="utf8")
             transfer(vault / move["source"], vault / move["destination"], move["sha256"])
             state["moves"].append(move)
+            state.pop("pending")
             receipt.write_text(encoded(state), encoding="utf8")
         for move in moves:
             if (vault / move["source"]).exists() or digest_file(vault / move["destination"]) != move["sha256"]:
@@ -93,6 +97,9 @@ def apply_plan(plan: dict, receipt: Path) -> dict:
                     raise ValueError(f"Referencing source changed during moves: {source}")
     except BaseException:
         failures = []
+        pending = state.pop("pending", None)
+        if pending and pending not in state["moves"] and not (vault / pending["source"]).exists() and (vault / pending["destination"]).exists():
+            state["moves"].append(pending)
         for move in reversed(state["moves"]):
             try:
                 transfer(vault / move["destination"], vault / move["source"], move["sha256"])

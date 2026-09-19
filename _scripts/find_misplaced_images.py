@@ -33,6 +33,7 @@ SKIP_DIRS = {".git", ".backups", ".secrets", ".secrets-v2", ".trash", ".venv", "
 CODE_EXTS = {".js", ".mjs", ".ts", ".py", ".rb", ".sh", ".css", ".txt"}
 WIKI = re.compile(r"!?\[\[([^\]\n]+)\]\]")
 MARKDOWN = re.compile(r"!?\[[^\]\n]*\]\((<[^>\n]+>|[^)\n]+)\)")
+MARKDOWN_REFERENCE = re.compile(r"^\s*\[[^\]\n]+\]:\s*(<[^>\n]+>|\S+)")
 HTML = re.compile(r"\b(?:src|href|poster)\s*=\s*['\"]([^'\"]+)['\"]", re.I)
 CSS = re.compile(r"url\(\s*(['\"]?)([^)\n]+?)\1\s*\)", re.I)
 FIELD = re.compile(r"^\s*(?:-\s*)?[^:\n]+:\s*(.+?)\s*$")
@@ -207,7 +208,7 @@ def scan(vault: Path, *, media: str = "all", consumer_roots: list[Path] | None =
         raw = path.read_bytes()
         text = raw.decode("utf8", errors="replace")
         category = "support" if external else source_category(source, text, landings)
-        code = external or path.suffix.lower() in CODE_EXTS or source.startswith(".obsidian/")
+        code = external or path.suffix.lower() in CODE_EXTS or source.startswith((".obsidian/", "_scripts/", ".agents/"))
         if path.suffix.lower() == ".md" and "excalidraw" in text[:2000].lower():
             drawing_stems.add(normalize(path.stem.removesuffix("-details").removesuffix(".excalidraw")))
         found = False
@@ -216,7 +217,7 @@ def scan(vault: Path, *, media: str = "all", consumer_roots: list[Path] | None =
                 continue
             spans = []
             tokens = []
-            for style, pattern in [("wiki", WIKI), ("markdown", MARKDOWN), ("html", HTML), ("css", CSS), ("json", JSON_VALUE), ("field", FIELD)]:
+            for style, pattern in [("wiki", WIKI), ("markdown", MARKDOWN), ("markdown-reference", MARKDOWN_REFERENCE), ("html", HTML), ("css", CSS), ("json", JSON_VALUE), ("field", FIELD)]:
                 for match in pattern.finditer(line):
                     value = match.group(2) if style == "css" else match.group(1)
                     if style == "json":
@@ -270,12 +271,16 @@ def scan(vault: Path, *, media: str = "all", consumer_roots: list[Path] | None =
             destination = f"assets/{BUCKETS[category]}/{Path(relative).name}"
         elif category in {"regular", "mixed"} and current in BUCKETS.values():
             destination = f"assets/{Path(relative).name}"
+        elif category == "support" and current == "_unlinked":
+            destination = f"assets/{Path(relative).name}"
         if destination is None:
             continue
         blockers = []
+        if category == "support":
+            blockers.append("support-only-use-needs-review")
         if len(by_name[normalize(Path(relative).name)]) != 1:
             blockers.append("duplicate-filename")
-        if any(r["resolution"] != "bare" or r["style"] in {"markdown", "html", "css"} for r in refs):
+        if any(r["resolution"] != "bare" or r["style"] in {"markdown", "markdown-reference", "html", "css"} for r in refs):
             blockers.append("path-dependent-or-ambiguous-reference")
         if any(r["code"] for r in refs):
             blockers.append("code-or-config-reference")

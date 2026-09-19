@@ -25,7 +25,7 @@
 - Time: unknown
 - Source Range: u0001 -> u0241
 - Polished Transcript: beat-transcripts/dragonets-001-recap-001-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Wanderer's hand, Dark Lady
 - NPCs: none
 - Organizations: Dark Lady community
 - Items: none
@@ -56,7 +56,7 @@ Elsewhere, in the Dark Lady’s neighborhood, Zeno and Heska hang out, as they o
 - Time: unknown
 - Source Range: u0242 -> u0848
 - Polished Transcript: beat-transcripts/dragonets-001-recap-002-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Temple grounds
 - NPCs: Xena, Zare
 - Organizations: none
 - Items: Little Tony's pebble collection, Heska's whip, Edmund, Eight-sided ruby, Xena's jewelry
@@ -87,7 +87,7 @@ Leaving the pair with Sculpit to rehearse, Zeno brings Tony to his tailor Zare, 
 - Time: evening
 - Source Range: u0849 -> u1396
 - Polished Transcript: beat-transcripts/dragonets-001-recap-003-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Temple grounds
 - NPCs: Xena, Brightface elder, Rosca
 - Organizations: Wanderer community, Dark Lady community, Brightface community, Rosca's crew
 - Items: Ceremonial offerings, Dragonet egg clutches, Xena's jewelry, Heska's whip, Rosca's prop egg
@@ -118,7 +118,7 @@ After the opening ceremony, the Jubilee spreads out, turning into a fair with ga
 - Time: night
 - Source Range: u1397 -> u1776
 - Polished Transcript: beat-transcripts/dragonets-001-recap-004-transcript.md
-- Locations: Circular Island, Temple overlook, Wanderer's palm
+- Locations: Circular Island, Temple grounds, Wanderer's hand
 - NPCs: none
 - Organizations: none
 - Items: Mysterious egg
@@ -146,7 +146,7 @@ Their talk dies down when Little Tony addresses a passing cloud: suddenly, every
 - Time: night
 - Source Range: u1777 -> u2203
 - Polished Transcript: beat-transcripts/dragonets-001-recap-005-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Wanderer's hand
 - NPCs: Dying purple dragonet, Man with a jade hand
 - Organizations: none
 - Items: Mysterious egg
@@ -181,14 +181,18 @@ The group awakens beside the darkening egg, momentarily feeling imbued with powe
 
 - Circular Island
   - Summary: Storm-ringed perfectly circular island, home of eight dragonet communities. 
-  - Sublocations: Dark Lady’s neighborhood; central temple festival grounds and rehearsal area; Zare’s stall; temple overlook; Wanderer’s palm
+  - Sublocations: Temple grounds; Wanderer's hand; Dark Lady
   - Date Visited: unknown
-- Temple overlook
-  - Summary: An elevated gathering place above the festival where the friends share dinner and first notice the unusual sensations.
+- Temple grounds
+  - Summary: The abandoned temple at the center of the island, where the dragonets gather for the Jubilee.
+  - Sublocations: Festival grounds and rehearsal area; Zare’s stall; temple overlook
+  - Date Visited: unknown
+- Wanderer's hand
+  - Summary: The Wanderer statue’s outstretched hand, a quiet refuge for Tony and Sculpit.
   - Sublocations: none
   - Date Visited: unknown
-- Wanderer's palm
-  - Summary: The Wanderer statue’s outstretched hand, a quiet refuge for Tony and Sculpit and the site of the mysterious egg encounter.
+- Dark Lady
+  - Summary: The statue and dragonet neighborhood where Heska and Zeno spend time before the Jubilee.
   - Sublocations: none
   - Date Visited: unknown
 
@@ -227,89 +231,12 @@ The group awakens beside the darkening egg, momentarily feeling imbued with powe
 
 ## Pull Quotes
 
-- ID: quote-beat-001-002
-  - Quote: "Little Tony knows a guy who knows a guy, who knows a twig, who knows where it is."
-  - Speaker: Little Tony
-  - Source Lines: u0214
-
-- ID: quote-beat-003-002
-  - Quote: "I really think that you’re much better than you think you are."
-  - Speaker: Sculpit
-  - Source Lines: u0606
-
-- ID: quote-beat-004-003
-  - Quote: "Edmund? I promise to take care of you."
-  - Speaker: Zare (DM)
-  - Source Lines: u0823-u0824
-
-- ID: quote-beat-005-001
-  - Quote: "Three ones."
-  - Speaker: Heska
-  - Source Lines: u0978
-
-- ID: quote-beat-005-002
-  - Quote: "I’m never gonna forgive you for that. But good thing you’re still cute."
-  - Speaker: Xena (DM)
-  - Source Lines: u1110-u1111
-
-- ID: quote-beat-006-001
-  - Quote: "Rosca, you got nothing. I got my crew. We’re gonna roll right over you."
-  - Speaker: Zeno
-  - Source Lines: u1353-u1355
-
-- ID: quote-beat-007-002
-  - Quote: "I really liked the part where you were rhyming. Like, that was… that was my favorite part."
-  - Speaker: Little Tony
-  - Source Lines: u1509
-
-- ID: quote-beat-008-001
-  - Quote: "The silence is louder."
-  - Speaker: DM
-  - Source Lines: u1600
-
-- ID: quote-beat-009-001
-  - Quote: "Welcome home, buddy."
-  - Speaker: Little Tony
-  - Source Lines: u1897
-
-- ID: quote-beat-010-002
-  - Quote: "You are the dragonet, and you are dying."
-  - Speaker: DM
-  - Source Lines: u2027
 
 ## Audio Highlights
 
-- ID: audio-001
-  - Title: Little Tony introduces his very talkative world
-  - Speaker: Little Tony, Sculpit, DM, Zeno
-  - Source Lines: u0057-u0087
-  - Output: audio-001.m4a
-  - Why Called Out: An extended comic character introduction, from complaining objects to Glenda and the quiet refuge on the palm.
-
-- ID: audio-002
-  - Title: Edmund finds a new home
-  - Speaker: Little Tony, Zeno, DM
-  - Source Lines: u0808-u0843
-  - Output: audio-002.m4a
-  - Why Called Out: The haggling turns into a sincere promise of care and farewell, ending with Edmund’s ancient perspective.
-
 - ID: audio-003
-  - Title: Zeno brings his whole crew into the winning verse
-  - Speaker: Zeno, DM, Heska
-  - Source Lines: u1353-u1380
+  - Title: Zeno's winning verse celebrates his crew
+  - Speaker: Zeno
+  - Source Lines: u1353-u1366
   - Output: audio-003.m4a
-  - Why Called Out: The live rap, the table’s reactions, and Rosca’s concession preserve the energy of the festival victory.
-
-- ID: audio-004
-  - Title: The voices stop and a perfect note begins
-  - Speaker: Little Tony, DM, Sculpit, Zeno
-  - Source Lines: u1514-u1536
-  - Output: audio-004.m4a
-  - Why Called Out: A clear tonal shift from dinner banter to the first uncanny sensations, carried by dialogue and narration.
-
-- ID: audio-005
-  - Title: The shared vision of home
-  - Speaker: DM, Zeno
-  - Source Lines: u1971-u2074
-  - Output: audio-005.m4a
-  - Why Called Out: The collective embrace becomes a dying dragonet’s experience, images of home, and a journey through light and storm back to the egg.
+  - Why Called Out: Zeno's live verse celebrates Heska, Little Tony, and Sculpit, with the table’s reactions.

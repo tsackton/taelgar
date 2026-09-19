@@ -76,6 +76,15 @@
       "campaignRoot": "Campaigns/One Shots/Lost in the Feywild",
       "notePattern": "Lost in the Feywild - Episode {session_padded}.md",
       "defaultTemplate": "composable-session-note.md"
+    },
+    "dragonets": {
+      "name": "Dragonets",
+      "code": "dgnt",
+      "aliases": ["Dragonets Campaign"],
+      "sessionRoot": "dragonets",
+      "campaignRoot": "Campaigns/Dragonets",
+      "notePattern": "Session Notes/Dragonets - Session {session_padded}.md",
+      "defaultTemplate": "dragonets-template.md"
     }
   }
 }
