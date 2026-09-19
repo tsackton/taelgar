@@ -21,7 +21,7 @@ session-template: dragonets-template.md
 > *Featuring: Heska, Sculpit, Little Tony, and Zeno*
 > *DM: David Kong*
 > *On Earth: Thursday, September 17, 2026*
-> *[[Circular Island]], Temple grounds, Wanderer's hand, and Dark Lady*
+> *[[Circular Island]]: Temple grounds, Wanderer's hand, and Dark Lady*
 
 During the Jubilee, Heska, Sculpit, Little Tony, and Zeno meet and experience disasters and triumphs alike. After a quiet dinner together, mysterious events draw them to the statue of [[The Wanderer|the Wanderer]], and a strange egg.
 
