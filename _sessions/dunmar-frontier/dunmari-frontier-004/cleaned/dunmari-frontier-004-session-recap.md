@@ -148,7 +148,7 @@ After a bit more conversation with [[Ikram]] about lighter subjects, including t
 - Organizations: Charmhearts
 - Items: none
 - Enemies: none
-- Image: bree-and-ander-charmheart.jpg
+- Image: [[dufr-004-bree-and-ander-charmheart.jpg]]
 - Image Role: aside
 - Image Size: standard
 - Image Placement:
@@ -175,7 +175,7 @@ Leaving [[Jasu]] to his dinner, the party heads to meet a group of halflings -- 
 - Organizations: Temple of Shakun
 - Items: Black Iron Staff, Candrosa's amulet, Healing mud vials
 - Enemies: none
-- Image: candrosa-dunmar-session-4.jpg
+- Image: [[dufr-004-candrosa-meeting.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:

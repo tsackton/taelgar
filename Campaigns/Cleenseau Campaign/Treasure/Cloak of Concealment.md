@@ -5,7 +5,7 @@ displayDefaults: {defArt: ""}
 typeOf: cloak
 subTypeOf: magic
 whereabouts: Celyn
-image: ranger-cloak-of-concealment.png
+image: "[[ranger-cloak-of-concealment.png]]"
 pcOwner: Celyn
 ---
 # Cloak of Concealment

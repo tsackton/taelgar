@@ -5,7 +5,7 @@ displayDefaults: {defArt: "" }
 subTypeOf: magical
 typeOf: gem
 ancestry: Fey
-image: gem-of-spell-storing.png
+image: "[[gem-of-spell-storing.png]]"
 pcOwner: Izgil Moonseeker
 whereabouts: Izgil Moonseeker
 ---

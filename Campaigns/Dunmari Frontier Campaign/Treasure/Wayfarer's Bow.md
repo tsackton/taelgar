@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [object]
 subTypeOf: magic
-image: wayfarer-bow.jpg
+image: "[[wayfarer-bow.jpg]]"
 typeOf: weapon
 typeOfAlias: bow
 pcOwner: Wellby

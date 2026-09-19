@@ -83,7 +83,7 @@ Heading to the [[Ikram's|caravanserai]], the party meets [[Ikram]], who is eager
 After a bit more conversation with [[Ikram]] about lighter subjects, including the upcoming axebeak riding competition before the [[Festival of Rebirth]], the party heads for [[Jasu]]’s shop to ask about [[Arcus]]. Reaching him just as he is closing his forge for the evening, they return to [[Ikram's]] with [[Jasu]] for a light dinner. [[Jasu]] tells them [[Arcus]] was asking about artifacts, especially anything from the [[Great War]]. He left a couple of silvered spearpoints behind and asked [[Jasu]] to haft them so they could be used. [[Arcus]] apparently expected to be back in town within a few weeks, and [[Jasu]] finds it strange that he has not returned. The silvered spearpoints were odd, too, [[Jasu]] says: hard to work with and resistant to forging.
 
 > [!image|right standard]
-> ![[bree-and-ander-charmheart.jpg]]
+> ![[dufr-004-bree-and-ander-charmheart.jpg]]
 > *A disturbed [[Ander Charmheart]] speaks joyfully of the all-consuming master.*
 
 Leaving [[Jasu]] to his dinner, the party heads to meet a group of halflings -- marked by their colorful wagons -- in town for the [[Festival of Rebirth]] and its associated markets. The matriarch of the group introduces herself as [[Bree Charmheart]] and welcomes the party to sit and chat for a bit. After some small talk with [[Wellby]] about their shared Sembaran origins, she strangely grows chilly and unwelcoming. [[Wellby]] asks her about her sick companion, and she responds abruptly, acting as though they have overstayed their welcome. Just before the party leaves, a [[Ander Charmheart|disheveled halfling]] staggers out of one of the wagons, looking dazed but with an incongruous look of joy on his face. As the party hurries away, [[Wellby]] informs the party that this disheveled halfling hears an unceasing voice that speaks to him: “The master is waiting. You'll find joy with the master. The master wants you to come and join us." Over and over and over. When [[Wellby]] asked him to name the master, he only said: "The master is my master. The master will consume the world and bring us joy."
@@ -95,7 +95,7 @@ As the party assembles outside the temple, an armored rider, later identified as
 He asks them to keep the failure of [[Shakun's Protection|Shakun's protection]] secret through the [[Festival of Rebirth]] and to speak with [[Havdar]] in the morning. Our session ends as [[Candrosa]] gives each member of the [[Dunmar Fellowship]] a vial of healing mud as thanks and a token of trust, and the party heads to bed.
 
 > [!image|figure standard]
-> ![[candrosa-dunmar-session-4.jpg]]
+> ![[dufr-004-candrosa-meeting.jpg]]
 > *A worried [[Candrosa]] tells the [[Dunmar Fellowship]] about [[Shakun's Protection]]*
 
 ## Treasure and Things

@@ -5,7 +5,7 @@ whereabouts: Tollen
 species: kenku
 gender: male
 name: Kecha
-image: kecha-small.png
+image: "[[kecha-small.png]]"
 dm_notes: important
 dm_owner: tim
 ---

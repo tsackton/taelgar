@@ -8,7 +8,7 @@ campaignInfo:
   - {campaign: dufr, date: 1749-01-28, type: met}
 gender: female
 born: 1701
-image: kethra-small.png
+image: "[[kethra-small.png]]"
 name: Kethra Silverspark
 pronunciation: KETH-rah SIL-ver-spark
 affiliations:

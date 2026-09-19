@@ -5,7 +5,7 @@ name: Ring of Wounding
 displayDefaults: {defArt: "" }
 subTypeOf: magical necromantic
 typeOf: ring
-image: ring-of-wounding.png
+image: "[[ring-of-wounding.png]]"
 pcOwner: Heroes of Cleenseau
 ---
 # Ring of Wounding

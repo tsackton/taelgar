@@ -7,7 +7,7 @@ subTypeOf: magic
 ancestry: Deno'qai
 ddbLink: https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail
 displayDefaults: {wHome: 'Owner: <current:1>', defArt: ''}
-image: denoqai-scale-armor-delwath.png
+image: "[[denoqai-scale-armor-delwath.png]]"
 whereabouts:
 - {type: home, end: 1542, location: unknown Deno'qai smith}
 - {type: home, start: 1542, end: 1543, location: Balati}

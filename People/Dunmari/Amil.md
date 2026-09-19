@@ -11,7 +11,7 @@ affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, start: 1747, end: 1749-01-30, location: "Pava and Avaras' House"}
 - {type: away, start: 1749-01-30, end: 9999, location: Vindristjarna}
-image: amil-small.jpg
+image: "[[amil-small.jpg]]"
 dm_owner: tim
 dm_notes: important
 ---

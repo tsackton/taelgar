@@ -6,7 +6,7 @@ aliases: [Brawnanvil Shield]
 typeOf: shield
 subTypeOf: magical
 ancestry: dwarven
-image: brawnanvil-shield.jpg
+image: "[[brawnanvil-shield.png]]"
 whereabouts:
 - {type: home, location: Brawnanvils, linkText: by, format: "<name:q>"}
 - {type: away, start: 1547-01-01, end: 1748-04-12, location: Dwarven Outpost (Raven's Hold)}

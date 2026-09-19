@@ -5,7 +5,7 @@ name: Chest of the Forest Guardian
 displayDefaults: {defArt: "" }
 subTypeOf: magical
 typeOf: chest
-image: chest-of-forest-guardian.png
+image: "[[chest-of-forest-guardian.png]]"
 pcOwner: Heroes of Cleenseau
 ---
 # Chest of the Forest Guardian
