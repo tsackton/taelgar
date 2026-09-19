@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/ai]
 campaign: Dragonets
 name: The Shared Vision of Home
 POV: undated
@@ -13,11 +13,7 @@ POV: undated
 
 **DM:** As you all hug the egg, the patterns on the egg begin to glow, and all of you experience, again, this… it's hard to describe it other than, like, the most sacred experience you've ever had in your lives. Like, this is, like, a very, very powerful, sacred moment.
 
-And as you touch it, the egg… begins to…
-
-**Zeno:** Whoa.
-
-**DM:** —glow. And light up. And these eight points of light start to appear across the egg, as all of you are touching it, holding it, and just feeling this deep, deep sense of being moved by this embrace of each other, but then also the embrace of the egg.
+And as you touch it, the egg begins to glow, and light up. Tthese eight points of light start to appear across the egg, as all of you are touching it, holding it, and just feeling this deep, deep sense of being moved by this embrace of each other, but then also the embrace of the egg.
 
 And as you touch it, and as it lights up, you feel also, in some weird way, that your consciousness is merging together. Like, you're hugging it as kind of four distinct entities, but the longer you hug it, the more that it feels like you're actually just one entity.
 
@@ -80,3 +76,49 @@ And as you now, who were once four dragonets, and then one dragonet, and then th
 And the four of you wake up. And you're lying on the ground next to this dragon egg, or next to this glowing egg.
 
 And all of the lights from the egg, as you wake up from this set of visions, slowly start to fade and darken. And the egg itself goes dark.
+
+## The Awakening
+
+**DM:** And as the egg goes dark, each of you starts to experience something different.
+
+### Little Tony
+
+**DM:** Little Tony? As you're lying there on your back, just however you can, processing whatever the fuck just happened, you start experiencing something, and this has been a day. Your normal shit, and then all of a sudden you can't hear everything, you can hear everything back again, like, what the hell's going on?
+
+You notice as you start to expand your consciousness out, because normally the palm is completely quiet, and it is quiet, and you expand your consciousness down to the wrist and down the arm, and your usual friends that you see along the way, they start talking to you like normal. But you feel, just like you did earlier, that suddenly you feel like you can tune it. You feel like you can talk to any rock that you want.
+
+You feel like any rock, you can tune it and turn this one off, turn that one off. And as you expand outwards, you realize, as you expand outward from beyond the Wanderer and the statue, that you can now talk and engage with every single object that you are scanning across the entire island, as far as you start going and expanding outwards.
+
+And it's ultra-fucking-high resolution, like, any object, I can talk to this one or not. I can listen to this one or not. You've never experienced anything even close to this magnitude. Crystal… perception and resolution.
+
+### Zeno
+
+**DM:** Zeno, as you're lying there and coming to, that perfect note that you heard in your head earlier, you start to hear in your head not just one note, but a chord. But not just a chord, even. It feels somehow like a set of notes combined together, playing something that's so resonant and beautiful, yes, to dragonets. But you realize that you can kind of assemble these notes into any pattern that you want.
+
+And you somehow have this sensation that the notes that you're arranging in your mind, they will be beautiful for the trees. They could be beautiful for the river, for the animals. Even, there feels like, for you, there's some combination of notes in your mind that the wind will love.
+
+And as you're kind of just playing with this, you also notice that each note… You thought that there was a note, but actually that note is made up of even more notes. It's like there are sub-tones within a tone.
+
+And you find that as you're making these compositions in your mind, the sub-tones create new layers and new density and complexity of music that you have never before imagined or thought of before in your mind. And somehow you can arrange it, and somehow you know that the notes and the chords that you're making are fucking sick. Whoever's gonna be listening to this is like, this is the most sacred shit they've ever heard in their lives.
+
+### Heska
+
+**DM:** Heska, as you're lying there and feeling, similarly to everybody else, what the fuck is going on?
+
+You notice in your body and in your being: you're a hunter, you're an acrobat, you've got incredible control over your body and what you can do. And yet somehow now it's almost as though every muscle in your body, you have some kind of precise control over. You are able to take the sinew of a muscle on your finger and activate it and control it with total perfection.
+
+The little strand of muscle on your leg below your knee, your hunting muscles, all of them are activated, again, with a precision and a power that you've never felt before.
+
+And you know how you felt when you killed that and hunted that king crab? How you felt on that day, and that was a perfect day, that was your perfect hunt? This feels like you could go and hunt a thousand of those crabs. This feels like you could find the most hidden, darkest, strongest beast in the ocean, and go hunt that shit. It's a level of power and confidence that you have never felt before.
+
+### Sculpit
+
+**DM:** And Mike, for Sculpit, as you're lying there, you, your whole life, have had this feeling around magic, and a feeling that there's certain ways in which you just couldn't control this. You want to be able to do something, but there's this wild energy that's flowing within you that you can't quite keep a lid on.
+
+But now for you, just like before, you were able to kind of teleport ten, twenty feet, you're feeling now as though all of that wildness is completely tamed. You have complete precision and control over how you want to move it. If you want it to go one foot, ten feet, thirty feet, fifty feet, it all feels completely easy. It all feels novice. Something that would be so simple for you to do.
+
+And so somehow you've been searching for this wildness to finally be tamed, and it is completely a slave to whatever you want.
+
+### The Power Fades
+
+**DM:** And as all of you are experiencing these things in your bodies, in your systems, for maybe a couple of minutes, they disappear. And they're gone.
