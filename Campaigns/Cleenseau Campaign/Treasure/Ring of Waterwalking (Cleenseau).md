@@ -5,7 +5,7 @@ name: Ring of Water Walking
 displayDefaults: {defArt: "" }
 subTypeOf: magic
 typeOf: ring
-image: ring-of-water-walking-clee.png
+image: "[[ring-of-water-walking-clee.png]]"
 pcOwner: Heroes of Cleenseau
 ---
 # Ring of Water Walking

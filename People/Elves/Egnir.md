@@ -6,7 +6,7 @@ name: Égnir
 ka: 37
 species: elf
 gender: male
-image: egnir-small.png
+image: "[[egnir-small.png]]"
 dm_owner: tim
 dm_notes: important
 whereabouts:

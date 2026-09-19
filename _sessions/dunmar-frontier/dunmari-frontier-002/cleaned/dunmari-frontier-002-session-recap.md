@@ -165,7 +165,7 @@ Leaving Gomat behind, the party follows the lizard tracks along an [[Stoneway|an
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image: dunmar-session-2-daraar-canyon-approach.jpg
+- Image: [[dufr-002-daraar-canyon-approach.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:

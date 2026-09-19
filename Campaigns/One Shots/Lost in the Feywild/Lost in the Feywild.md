@@ -72,7 +72,7 @@ Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a
 
 ---
 
-![[27th-house-library.png]]
+![[feywild-05-27th-house-library.png]]
 
 **[[27th House|The 27th House]]:** A shifting prison of numbered rooms and a prisoner waiting in the dark.
 

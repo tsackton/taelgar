@@ -8,7 +8,7 @@ rarity: unique
 subTypeOf: mundane
 typeOf: telescope
 pcOwner: Izgil Moonseeker
-image: brot-spyglass.png
+image: "[[brot-spyglass.png]]"
 ddbLink: https://www.dndbeyond.com/equipment/spyglass
 whereabouts:
 - {type: home, location: Brot Starsearcher}

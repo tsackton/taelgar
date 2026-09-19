@@ -8,7 +8,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/4724-ring-of-jumping
 subTypeOf: magical
 pcOwner: Robin of Abenfyrd
 rarity: uncommon
-image: ring-of-jumping-robin.png
+image: "[[ring-of-jumping-robin.png]]"
 whereabouts: Robin of Abenfyrd
 ---
 # Ring of Jumping

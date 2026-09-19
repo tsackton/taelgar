@@ -75,13 +75,13 @@ Descending through the ankheg's passage -- a low, narrow crawl -- the party reac
 From this cavern, the party explores the narrower of the two tunnels, which leads to a muddy nursery where cockatrice hatchlings and eggs surround a lion caught in a cycle of petrification and recovery. Unwilling to alert the young or their parents, the party backs away. They instead take the wider branch beneath the cracked cistern and follow its dry channel south.
 
 > [!gallery]
-> - ![[cockatrice-lair.jpg]]
+> - ![[dufr-003-cockatrice-lair.jpg]]
 >   *Young cockatrice hatchlings attack and petrify a lion.*
 > - ![[dunmar-session-03-arcus-petrified.jpg]]
 >   *[[Arcus]], petrified beside the [[Floating Disc Coin]].*
 
 > [!image|right standard]
-> ![[deathlock-at-gomat-fort.jpg]]
+> ![[dufr-003-deathlock-at-gomat-fort.jpg]]
 > *An undead hobgoblin carries a cursed iron staff.*
 
 The tunnel leads to a larger cavern, where a wave of unnatural rage washes over the party just as three skeletons drop from the ceiling and attack. [[Delwath]] holds the narrow approach while the others fight from behind him, destroying one skeleton with a Hex-enhanced blow as [[Seeker]] turns the floating disc into an improvised barrier. A rotting undead hobgoblin enters the fray, carrying a black iron staff crowned by a pulsing obsidian stone, sending waves of rage and dark energy through the cavern. The party finishes the skeletons and concentrates on their new enemy: [[Delwath]] curses it, [[Seeker]] and [[Wellby]] attack from range, and [[Kenzo]] closes through its defenses. Wellby's hidden shot leaves it badly wounded, and [[Kenzo]] strikes it down, but the fallen staff continues to radiate hostility.

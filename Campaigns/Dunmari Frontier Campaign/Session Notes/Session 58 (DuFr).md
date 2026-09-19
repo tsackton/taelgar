@@ -47,7 +47,7 @@ From her, they learn that the Mad Priest is actually [[Hagrim]]'s cousin, [[Deli
 
 After some debate, the party decides to go look for [[Delig Firebrand]], in the wastes, hoping to get a sense of [[Hagrim]]. 
 
-![[ash-plains.png|500]]
+![[dufr-058-ash-plains.png|500]]
 
 On the way, through the wastes, they fight off a shadowy, necrotic troll, that saps the strength of whomever attacks it. But managing to defeat it, they find [[Delig Firebrand]]. He has lost most of his memories, constantly forgetting who he is talking to, and thinking everyone in the party to be named [[Riswynn]]. But he does talk occasionally about his past, and [[Hagrim]], and how after the [[Great War]] he was a changed man, damaged, with eyes that looked strange. Sometimes he would talk about the evil tentacled creatures that would devour your brain, and shudder. After a pint from [[Rothfis]] and some conversation, [[Delig Firebrand]] seems exhausted, so the party leaves him to rest and heads to find [[Morkalan]]/[[Hagrim]], at the mirror version of the Stoneborn statue.
 

@@ -9,7 +9,7 @@ subTypeOf: magical
 pcOwner: Robin of Abenfyrd
 ancestry: Sembaran
 rarity: uncommon
-image: hammer-of-viligance.jpg
+image: "[[hammer-of-viligance.jpg]]"
 whereabouts: Robin of Abenfyrd
 ---
 # Warhammer of Vigilance

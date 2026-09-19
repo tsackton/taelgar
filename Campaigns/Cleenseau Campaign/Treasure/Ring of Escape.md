@@ -5,7 +5,7 @@ displayDefaults: {defArt: ""}
 typeOf: ring
 subTypeOf: magic
 name: Ring of Escape
-image: gareths-ring.jpg
+image: "[[gareths-ring.jpg]]"
 pcOwner: Viepuck
 ---
 # Ring of Escape

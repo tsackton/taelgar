@@ -9,7 +9,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/5346819-narengril
 subTypeOf: magical
 pcOwner: Delwath
 rarity: rare
-image: narengril.png
+image: "[[narengril.png]]"
 whereabouts:
 - {type: home, location: Dewalth}
 ---

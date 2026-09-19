@@ -8,7 +8,7 @@ typeOf: armor
 subTypeOf: magic
 rarity: very rare
 ancestry: kenku
-image: kenku-glamoured-armor-wellby.jpy
+image: "[[kenku-glamoured-armor-wellby.jpg]]"
 whereabouts:
 - { type: home, location: Grimbaskal, end: 1748 }
 - { type: home, location: Wellby, start: 1748 }

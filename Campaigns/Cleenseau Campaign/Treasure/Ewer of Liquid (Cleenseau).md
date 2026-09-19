@@ -7,7 +7,7 @@ subTypeOf: magical
 typeOf: ewer
 whereabouts: Heroes of Cleenseau
 ancestry: Drankorian
-image: ewer-of-liquid.png
+image: "[[ewer-of-liquid.png]]"
 pcOwner: Heroes of Cleenseau
 ---
 # Ewer of Liquid

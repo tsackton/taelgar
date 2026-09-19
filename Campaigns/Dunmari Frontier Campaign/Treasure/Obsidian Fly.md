@@ -7,7 +7,7 @@ typeOf: figurine
 subTypeOf: magic
 ancestry: fey
 rarity: rare
-image: agata-obsidian-fly.jpg
+image: "[[agata-obsidian-fly.jpg]]"
 pcOwner: Wellby
 whereabouts: Wellby
 ddbLink: https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-ebony-fly

@@ -152,7 +152,7 @@ Soon, Beli returns with Speaker Candrosa and Elder Kisa. Beli applies the temple
 - Organizations: none
 - Items: Wellby's grappling hook
 - Enemies: none
-- Image: alesh-on-the-road.jpg
+- Image: [[dufr-001-alesh-on-the-road.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:
@@ -179,7 +179,7 @@ Kenzo, Wellby, and Seeker agree to join Delwath and investigate the hyena threat
 - Organizations: none
 - Items: none
 - Enemies: none
-- Image: dunmar-frontier-session-1-gomat.jpg
+- Image: [[dufr-001-gomat-oasis-at-night.jpg]]
 - Image Role: hero
 - Image Size:
 - Image Placement:
