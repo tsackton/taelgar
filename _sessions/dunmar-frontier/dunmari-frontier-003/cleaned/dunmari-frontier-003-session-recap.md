@@ -126,7 +126,7 @@ After their rest, they turn to search the two gate towers; one is choked with ru
 - Image Render:
 - Image Caption: Young cockatrice hatchlings attack and petrify a lion.
 - Image Alt: Cockatrice hatchlings surrounding a partly petrified lion
-- Image 2: dunmar-session-03-arcus-petrified.jpg
+- Image 2: [[dufr-003-arcus-petrified.jpg]]
 - Image 2 Role: figure
 - Image 2 Size: standard
 - Image 2 Placement:

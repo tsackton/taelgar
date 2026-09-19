@@ -26,7 +26,7 @@ Our campaign begins as four travelers converge on the small Dunmari village of [
 With the hyenas dead, the acolyte [[Beli]] leaves to fetch [[Candrosa]] and the village elders, while the travelers carry the wounded villager towards Badya's tea house. Looking for clues, the travelers determine that the beasts entered [[Karawa]] from the east-northeast; a trail of dried blood suggests they fought or killed something before reaching the village. Settling beneath the awning of the tea house, [[Kenzo]], [[Wellby]], [[Seeker]], and [[Delwath]] exchange names and compare the paths that brought them each to [[Karawa]].
 
 > [!image|right standard]
-> ![[elder-kisa-v2.jpg]]
+> ![[dufr-001-elder-kisa-asks-for-help.jpg]]
 > *Elder [[Kisa]] asks the party for help.*
 
 Soon, [[Beli]] returns with Speaker [[Candrosa]] and Elder [[Kisa]]. [[Beli]] applies the temple's red ochre healing paste to Delwath's and Kenzo's wounds, and helps other acolytes carry the rescued villager away. In the tea house, the village elders speak to the party. [[Kisa]] explains that this is the third attack on [[Karawa]] recently, stronger and more dangerous than the previous two. With the approaching [[Festival of Rebirth]], she is worried that the village is dangerously exposed, and so she asks [[Delwath]] to find the cause of these attacks. [[Delwath]] reports Beli's failed divine magic, at which [[Candrosa]] turns pale. He admits that some mysteries cannot be discussed openly and withdraws, while [[Kisa]] entrusts the investigation to the group.

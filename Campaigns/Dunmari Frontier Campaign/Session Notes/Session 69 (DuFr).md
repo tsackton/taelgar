@@ -76,7 +76,7 @@ The next day, the [[Bahrazel]] answer [[Riswynn]]'s prayers. In her morning pray
 
 A week after leaving the camp at [[Lastlight Falls]], the party arrives outside the [[Stormcaller Tower]], where [[Hralgar]]'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
 
-![[hralgar-storm-nov-1748.png]]
+![[dufr-069-hralgar-storm-nov-1748.png]]
 
 Between [[Seeker]]'s clairvoyance and [[Kenzo]]'s ability to commune with nature and the land, it is clear that [[Hralgar]] is lost more deeply in his mind than before, and the storm is more intense. The eye that previously left the tower open to the sky is gone, and lightning and thunder echos from the clouds. 
 

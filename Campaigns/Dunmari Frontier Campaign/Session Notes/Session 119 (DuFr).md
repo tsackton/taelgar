@@ -46,7 +46,7 @@ The party finds themselves emerging onto a sunlit hill in the [[Feywild]], where
 
 As each member arrives, the satyrs attempt to pull them into the dance. [[Tarviel|One satyr]], who seems to speak for the dancers, addresses [[Riswynn]] with surprise, asking who she is that "carries a fragment of the impossible," but quickly dismisses this mystery in favor of revelry. Another satyr steals [[Seeker]]'s book when he tries to avoid dancing, forcing him to engage before [[Delwath]] retrieves it with Mage Hand. When [[Seeker]] mentions their quest to reach [[Amberglow]] and the [[Cloudspinner]], [[Tarviel]] become uncomfortable. The music briefly stops when [[Delwath]] speaks of bringing change, as they insists there is "no change in [[Emberwine]]." [[Kenzo]] cleverly initiates a conga line, allowing the party to travel while still dancing.
 
-![[emberwine-satyrs.jpg|600]]
+![[dufr-119-emberwine-satyrs.jpg|600]]
 
 Moving northward, they observe more of the landscape: rolling hills covered in vineyards and a [[Ampelion River|broad red river]] that resembles the wine pools they encountered at the portal tree. When they express interest in traveling upstream, a satyr refers to their destination as [[Everlight's Bloom]], which they recognize as the realm where [[Lirien]] stayed after fleeing [[Amberglow]]. However, after [[Delwath]] mentions bringing news of [[Lirien]]'s death, the offended satyrs drift away, leaving the party to continue toward the river on their own.
 
