@@ -1,31 +1,29 @@
 ---
-tags: [session-note]
+headerVersion: 2023.11.25
+tags: [session-note, status/check/ai]
 campaign: Cleenseau
-realWorldDate: 2023-04-30
 sessionNumber: 4
-players: [Izgil, Robin, Viepuck, Celyn]
+players: [Robin, Viepuck, Celyn, Izgil]
+DR: 1719-11-03
+DR_end: 1719-12-04
+realWorldDate: 2023-04-30
+name: Cleenseau - Session 4
+descTitle: After the Poisoning
+tagline: in which the party manages prisoners and prepares for Wakog
 ---
 # Cleenseau - Session 4
->_in Taelgar from the late afternoon of the [[Festival of the Bridge]], on November 3rd, through the late afternoon of December 4th
->7 Robert I / DR 1719
->[[Cleenseau]] and vicinity
->on Earth: April 30th, 2023
 
-### Summary and Major Events
-### Rumors and Information
-### New People Met
-### Timeline
-### Narrative
+The party handles the aftermath of the attempted poisoning, including the interrogation of the captured bandits and the dismissal of [[Odo Cordwaner]]. Viepuck's identity is revealed, [[Ida Rosfeld]] is ordered away, and the party begins organizing local defenses as [[Wakog]] marches south.
 
-## Raw Notes
+## Timeline
 
-%%% RAW NOTES
-[[Odo Cordwaner]] fired, Robin pleads with [[Ida Rosfeld]]
-Odo fired, Robin pleads with Ida
-Viepuck is revealed and gets lots of money via letter from Susanne Garay
-Interrogations of bandits, Charm Person and Heroism
-Ida called away
-Gathering of "army" after Ida leaves
-Francois suicide and body watching
-Guy arrives at end
-%%
+- (DR:: 1719-11-04): The party interrogates [[Jerome]] and [[Francois the Bandit]].
+- (DR:: 1719-11-05): François dies in custody, apparently by suicide.
+- (DR:: 1719-11-07): [[Vincent de Arban]] arrives and Viepuck's deception is exposed.
+- (DR:: 1719-11-26) to (DR_end:: 1719-11-27): Ida is ordered to [[Dunfry]] and marches away with the garrison.
+- (DR:: 1719-11-28): Wakog begins moving toward Cleenseau; the party seeks regional allies.
+- (DR:: 1719-12-04): [[Guy de Varan]] arrives with information about Wakog's force.
+
+## Source
+
+No corresponding Dreamwidth recap has been identified.
