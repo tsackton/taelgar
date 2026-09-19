@@ -19,8 +19,9 @@ affiliations:
 > A [[Nardith]] [[Dwarves|dwarf]] (she/her), of the [[Dunmar Fellowship]], and the [[Brawnanvils|Brawnanvil Clan]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-![[riswynn.png|400]]
-
+> [!image|right standard]
+> ![[riswynn-intro-ikrams-courtyard.webp]]
+> *Riswynn meets the Dunmar Fellowship at Ikram's.*
 ## Pre-Campaign Events
 - (DR:: 1748-03-10): Riswynn leaves Tharn Todar, heading north for Raven's Hold
 - (DR:: 1748-03-24): Riswynn leaves Askandi, heading for Karawa.

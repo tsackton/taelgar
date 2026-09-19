@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image]
+tags: [person]
 campaignInfo:
 name: Delwath
 born: 1472
@@ -25,7 +25,12 @@ whereabouts:
 
 %% status/check/mike in case there are other status tags to add, but seems correct to me %%
 
-![[delwath-portrait.jpg]]
+> [!image|right standard]
+> ![[delwath-intro-teahouse-threshold.webp]]
+> *Delwath in Karawa as our campaign begins.*
+
+
+
 
 ## Pre-Campaign Events
 

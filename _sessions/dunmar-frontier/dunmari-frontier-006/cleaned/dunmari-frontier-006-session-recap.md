@@ -266,13 +266,13 @@ At Kenzo's prompting, Seeker plans stronger defenses for the exposed temple entr
 - Organizations: none
 - Items: Riswynn's map of Raven's Hold, The Runes of Creation, Shrine of Jeevali
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dufr-006-westward-embers.webp]]
+- Image Role: hero
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: Embers drift west from Jeevali's burning shrine as Suma calls on Karawa's people to follow the goddess.
+- Image Alt: Suma stands beside a burning tree-shaped shrine before a gathered crowd as glowing embers stream across the twilight sky.
 
 #### Short
 Riswynn joins them before the Festival of Rebirth, where Suma interprets the burning shrine's westward embers as Jeevali's blessing for the evacuation.
@@ -298,13 +298,20 @@ Together they follow the townspeople to the desert ceremony. Suma recounts how J
 - Organizations: none
 - Items: Shrine of Jeevali
 - Enemies: Gnolls, Mouth creatures, Mouth creature, Sleeping gnoll
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dufr-006-maw-creature.webp]]
+- Image Role: aside
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: One of the monstrous mouth creatures attacking Karawa.
+- Image Alt: A squat, clawed creature with scattered eyes and an enormous mouth full of teeth advances between the camp's tents.
+- Image 2: [[dufr-006-riswynn-heals-kenzo.webp]]
+- Image 2 Role: figure
+- Image 2 Size: standard
+- Image 2 Placement:
+- Image 2 Render:
+- Image 2 Caption: Riswynn restores Kenzo with healing magic while Delwath guards him from the remaining mouth creature.
+- Image 2 Alt: Riswynn kneels beside the fallen Kenzo with glowing hands as Delwath stands over them, shadow blade raised toward a mouth creature.
 
 #### Short
 The next day's ceremony is interrupted by gnolls and monstrous mouths; the party defeats them, but Kenzo nearly dies and Ander tries to be devoured.
@@ -334,13 +341,13 @@ Seeker draws thorny vines before Ander, whose terror makes him faint. Delwath sp
 - Organizations: Shakun Mystai, Havdar's Warband
 - Items: Mouth-creature remains, Tooth from a mouth creature, Legendary Staff of Kenzo
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dufr-006-exodus-from-karawa.webp]]
+- Image Role: figure
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: Karawa's people evacuate west at first light while the party follows the attackers' tracks north.
+- Image Alt: Families, wagons, pack animals, and livestock form a long column across the scrubland, with mounted escorts riding alongside in the dawn light.
 
 #### Short
 With Kenzo recovering and the mouths' origins uncertain, the party follows the attackers' tracks north at dawn while Havdar escorts the villagers west.
