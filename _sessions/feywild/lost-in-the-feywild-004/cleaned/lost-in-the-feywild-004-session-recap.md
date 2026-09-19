@@ -227,7 +227,7 @@ Menestheus connects the phrase to his book, The Shape of Possibility, about math
 - Organizations: Arithrimos Lamperum
 - Items: fungal golem body, white-fiber infection
 - Enemies: none
-- Image: 27th-house-fungal-room.png
+- Image: feywild-004-fungal-library.png
 - Image Role: figure
 - Image Size: large
 - Image Placement:

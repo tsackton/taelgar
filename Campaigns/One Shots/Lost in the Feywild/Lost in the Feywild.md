@@ -7,7 +7,7 @@ dm_notes: none
 ---
 # Lost in the Feywild
 
-![[lost-in-the-feywild-hero.png]]
+![[feywild-campaign-summary-hero.png]]
 *Five travelers watch a hundred souls go home beneath the first stars of evening.*
 
 Lost in the Feywild is a seven-episode adventure about the [[Tollen Misfits]], a strange inheritance, a Fey bargain, an ancient magical society, and a prisoner at the center of a mysterious house. What begins with a seemingly ordinary journey through [[Varrow Forest]] to [[Dandelion House]] leads into the [[Feywild]], through an endlessly ending party, and into a house built to move its prisoner through space and time.
