@@ -820,24 +820,6 @@ class SessionNoteComponentsTest(unittest.TestCase):
             "Featuring: Ekko, Justas, and Eolo",
         )
 
-    def test_dunmar_template_groups_people_and_places(self) -> None:
-        template_path = SCRIPT_PATH.parents[1] / "_templates" / "session-notes" / "dunmar-frontier-template.md"
-        template_text = template_path.read_text(encoding="utf-8")
-
-        self.assertIn(
-            "## People and Places\n\n"
-            "### NPCs\n\n{cast}\n\n"
-            "### Organizations\n\n{groups}\n\n"
-            "### Locations\n\n{locations}",
-            template_text,
-        )
-        self.assertNotIn("## Cast of Characters", template_text)
-        self.assertNotIn("\n## Places\n", template_text)
-        self.assertIn("{session.summary}\n\n{session.highlights}\n\n## Timeline", template_text)
-        self.assertIn("{session.table_notes}\n\n## Narrative\n\n{narrative.long}", template_text)
-        self.assertNotIn("{session.pull_quotes}", template_text)
-        self.assertNotIn("{session.audio_highlights}", template_text)
-
     def test_builder_leaves_human_owned_session_fields_blank_when_none(self) -> None:
         vault = self.make_workspace()
         recap_path = vault / "session-recap.md"

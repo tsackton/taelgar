@@ -125,7 +125,7 @@ With the hyenas dead, the acolyte Beli leaves to fetch Candrosa and the village 
 - Organizations: Shakun Mystai
 - Items: red ochre healing paste
 - Enemies: none
-- Image: elder-kisa-v2.jpg
+- Image: [[dufr-001-elder-kisa-asks-for-help.jpg]]
 - Image Role: aside
 - Image Size: standard
 - Image Placement:

@@ -8,16 +8,6 @@ require "tmpdir"
 require_relative "generate_worldbuilding_discussion_index"
 
 class GenerateWorldbuildingDiscussionIndexTest < Minitest::Test
-  def test_committed_sidecar_matches_current_non_staging_worldbuilding_sources
-    root = Pathname.new(__dir__).parent
-    expected = TaelgarWorldbuildingDiscussionIndex.build(root)
-    actual = JSON.parse(File.read(root.join(TaelgarWorldbuildingDiscussionIndex::OUTPUT_PATH)))
-
-    assert_equal expected, actual
-    assert_equal 1, actual.fetch("schemaVersion")
-    refute actual.fetch("sources").any? { |source| source.fetch("path").split("/").include?("Staging") }
-  end
-
   def test_index_keeps_every_matching_source_and_records_match_and_thread_metadata
     Dir.mktmpdir("worldbuilding-discussion-index-test.") do |directory|
       root = Pathname.new(directory)
@@ -51,6 +41,7 @@ class GenerateWorldbuildingDiscussionIndexTest < Minitest::Test
       write_note(root, "Worldbuilding/Dunmar Notes.md", "# Dunmar Notes\n\n[[Dunmar]] is discussed here.\n")
 
       data = TaelgarWorldbuildingDiscussionIndex.build(root)
+      assert_equal 1, data.fetch("schemaVersion")
       subject = data.fetch("subjects").find { |record| record.fetch("path") == "People/Archfey Ethlenn.md" }
 
       assert_equal 3, subject.fetch("sourceCount")

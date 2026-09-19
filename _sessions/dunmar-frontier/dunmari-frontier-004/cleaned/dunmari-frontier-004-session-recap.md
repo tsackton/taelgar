@@ -93,7 +93,7 @@ The party reaches Karawa in the late afternoon, now swollen with people for the 
 - Organizations: Dunmari Religion
 - Items: Aagir's Everlight, Black Iron Staff, Holy symbol of Cha'mutte, Floating Disc Coin, Horn of Silent Alarm (Dunmari), Recovered Dunmari temple relics
 - Enemies: none
-- Image: karawa-festival-scene-v1.jpg
+- Image: [[dufr-004-karawa-festival.jpg]]
 - Image Role: hero
 - Image Size:
 - Image Placement:

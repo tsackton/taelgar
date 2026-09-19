@@ -86,7 +86,7 @@ The party joins in the games and celebrations for the [[Festival of Rebirth]], u
 ## Narrative
 
 > [!image|hero]
-> ![[dunmar-session-05-kenzo-dreamworld-vision.jpg]]
+> ![[dufr-005-kenzo-dreamworld-vision.jpg]]
 > *The jade-armed figure in Kenzo's Dreamworld vision.*
 
 Before dawn, [[Candrosa]] wakes [[Kenzo]] and leads him to the [[Red Mesa]] above the villages, where, using the [[Dreamweaver Staff]], he sends [[Kenzo]] into the Dreamworld. [[Kenzo]] passes through a vast expanse of flickering, multicolored lights before meeting a robed man with a jade arm, who tells him, "You are not alone," and directs him to seek stories of the [[Order of the Awakened Soul]].
@@ -106,11 +106,11 @@ As [[Delwath]] listens for news, he finds a town mostly eager to celebrate. Many
 The axebeak race brings another burst of celebration, and some of the largest crowds of the festival, with each rider judged by how far they travel before falling. Wellby's offering of goat meat earns him a bleeding hand, but he stays mounted long enough to finish third, while Kenzo's acrobatic start sends him backward almost immediately. [[Havdar]] returns during the riding competitions and insists on competing despite his exhaustion. [[Alesh]] arrives after dinner, exhausted and travel-stained, and, bearing sober news, asks the party to join [[The Council|the council]] in the morning.
 
 > [!gallery]
-> - ![[dunmar-session-05-kenzo-staff-dancing.jpg]]
+> - ![[dufr-005-kenzo-staff-dancing.jpg]]
 >   *[[Kenzo]] defeats [[Jayden]] in the staff-dancing final.*
-> - ![[dunmar-session-05-wellby-axebeak-racing.jpg]]
+> - ![[dufr-005-wellby-axebeak-racing.jpg]]
 >   *[[Wellby]] rides his axebeak to third place.*
-> - ![[dunmar-session-05-alesh-havdar-return.jpg]]
+> - ![[dufr-005-alesh-havdar-return.jpg]]
 >   *[[Alesh]] and [[Havdar]] bring troubling news from the frontier.*
 
 The next morning, at [[The Council|the council]] meeting, the scouts reveal their news. [[Havdar]] describes armed hyena-like raiders destroying settlements to the south and argues for an immediate a counterattack, while [[Alesh]] reports a stationary storm, a black stream that smells of blood, and dangerous bands moving elsewhere along the border. She urges an appeal to Samraat [[Nayan Karnas]]. [[Kisa]] and [[Candrosa]] favor fortification and defense, [[Suma]] favors flight toward Tokra, and the leaders turn to the party to break the deadlock. Their questions expose the limits of every choice: [[Karawa]] can muster riders and endure a siege for a time, but Tokra is weeks away and royal aid may take months. [[Seeker]] offers to raise earthworks, but [[Candrosa]] quietly admits that he is no longer certain Shakun's power can protect the ancient temple.
@@ -120,7 +120,7 @@ The next morning, at [[The Council|the council]] meeting, the scouts reveal thei
 After much debate, it is decided that the vast majority of the people will flee west, with [[Havdar]] and his troops providing a rear-guard defense for this retreat. [[Candrosa]] and a few other acolytes of [[Shakun]], who will not abandon their temple, will fortify themselves and hope to hide from any attack. [[Alesh]] and a few companions will scout again to the south, trying to learn more about the threat there. An emissary will be found to ride to the king with all speed, and argue for a muster and a defense of the border. And the party will head north, to [[Raven's Hold]], to seek what information may lie there.
 
 > [!image|figure standard]
-> ![[dunmar-session-05-suma-at-council.jpg]]
+> ![[dufr-005-suma-at-council.jpg]]
 > *[[Suma]] urges [[The Council|the council]] to protect Karawa's people.*
 
 ## Treasure and Things

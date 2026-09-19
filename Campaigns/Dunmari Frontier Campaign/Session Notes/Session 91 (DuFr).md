@@ -52,7 +52,7 @@ Once the storm cleared, they debated their route, considering the rumored [[Gian
 
 Mid-afternoon the next day, on March 17th, the party spotted a group of dwarves emerging from a mine, under the watchful eye of two frost giants mounted on woolly mammoths. 
 
-![[frost-giant-on-mammoth-session-91.jpeg]]
+![[dufr-091-frost-giant-on-mammoth.jpeg]]
 
 The party debated what to do, as [[Kenzo]]'s communion with nature suggested that while the frost giants were indigenous to this land, they were not wholly in harmony with it. Deciding to talk, [[Delwath]] sent his lynx messenger with a note requesting parlay. The giant -- curious but also on edge -- approached to speak as [[Wellby]] snuck off under an invisibility spell to try to talk to the dwarves. 
 

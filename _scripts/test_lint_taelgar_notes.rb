@@ -7,6 +7,7 @@ require "open3"
 require "tmpdir"
 
 require_relative "lint_taelgar_notes"
+require_relative "tests/lint_fixture_vault"
 
 class BatchLintTaelgarNotesTest < Minitest::Test
   COMPLETED_AT = "2026-08-19T18:30:00-04:00"
@@ -1802,7 +1803,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     root = Dir.mktmpdir("taelgar-batch-lint-test.")
     @temporary_roots << root
     FileUtils.mkdir_p(File.join(root, "_scripts"))
-    copy_lint_value_catalog(root)
+    LintFixtureVault.write_catalog(root)
     File.write(
       File.join(root, "_scripts", "session_note_campaigns.json"),
       JSON.pretty_generate(
@@ -1860,19 +1861,6 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       )
     )
     root
-  end
-
-  def copy_lint_value_catalog(root)
-    repository_root = File.expand_path("..", __dir__)
-    source_sidecar = File.join(__dir__, "taelgar_lint_values.json")
-    sidecar = JSON.parse(File.read(source_sidecar))
-    FileUtils.cp(source_sidecar, File.join(root, "_scripts", "taelgar_lint_values.json"))
-    sidecar.fetch("sources").each do |source|
-      relative_path = source.fetch("path")
-      destination = File.join(root, relative_path)
-      FileUtils.mkdir_p(File.dirname(destination))
-      FileUtils.cp(File.join(repository_root, relative_path), destination)
-    end
   end
 
   def write_note(root, relative_path, text)

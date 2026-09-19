@@ -53,7 +53,7 @@ On the way, through the wastes, they fight off a shadowy, necrotic troll, that s
 
 Approaching the Stoneborn statue, and [[Hagrim]]'s lair, the party makes their way through ghosts of his memories, aided by [[Thror]]'s fly spell and [[Riswynn]]'s holy aura driving undead away. 
 
-![[giant-statue-legs-morkalan.png|500]]
+![[dufr-058-giant-statue-legs-morkalan.png|500]]
 
 ![[morkalan-hagrim-fort.png|500]]
 

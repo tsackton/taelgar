@@ -77,7 +77,7 @@ From this cavern, the party explores the narrower of the two tunnels, which lead
 > [!gallery]
 > - ![[dufr-003-cockatrice-lair.jpg]]
 >   *Young cockatrice hatchlings attack and petrify a lion.*
-> - ![[dunmar-session-03-arcus-petrified.jpg]]
+> - ![[dufr-003-arcus-petrified.jpg]]
 >   *[[Arcus]], petrified beside the [[Floating Disc Coin]].*
 
 > [!image|right standard]
