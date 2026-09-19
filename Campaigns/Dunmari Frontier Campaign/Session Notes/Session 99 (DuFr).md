@@ -42,7 +42,7 @@ Our session begins at dawn, in the harbor of [[Castrella]], where the[[ Dunmar F
 
 As the [[Summer's Breeze]] approaches the northern end of [[Calcara Island]], [[Kenzo]] is able to sense the stoneborn's presence nearby, and a little bit of searching, guided by a friendly gannet and a playful seal, reveals the entrance to [[Kazuro]]'s cave. Rowing into the cave illuminated by an eerie blue light, they encounter a dock with steps leading up to a stoneborn hermit who questions their presence.
 
-![[kazuro-cave-v2.jpg]]
+![[dufr-099-kazuro-cave.jpg]]
 
 The stone-born hermit, [[Kazuro]], appears annoyed and grumpy at the interruption. [[Delwath]] apologizes for the intrusion and explains their quest, mentioning they heard of [[Kazuro]] in [[Castrella]], and explaining their need for water-breathing to reach the [[Merfolk]]. Despite a stony reception, [[Kazuro]] invites the party to follow him, expressing frustration at favor-seekers. [[Kenzo]] attempts to interest [[Kazuro]] by offering stories that could echo into the future, and [[Riswynn]] compliments [[Kazuro]]’s hermitage, expressing the party’s noble intentions, but [[Kazuro]] is unswayed, if not entirely unsympathetic. 
 
@@ -52,7 +52,7 @@ The stone-born hermit, [[Kazuro]], appears annoyed and grumpy at the interruptio
 
 Turning north, the party sails for two days under fair skies and following seas, heading for [[Tamaro Bay]]. After 48 hours of sailing, they approach the bay, noting a crude watchtower made of driftwood facing west, on an island off the coast. Wellby scouts, finding a man with  sunburned skin, matted hair, and worn-out clothes rooting for food on the leeward side of the island. 
 
-![[tamaro-island.png]]
+![[dufr-099-tamaro-island.png]]
 
 Approaching the hermit, the party realizes he is confused, and [[Delwath]], with magic, senses his thoughts are muddled, consuming by repeating a song in a strange language. [[Seeker]] notices his eyes are strange, and seem to have crashing waves in them. Realizing this must be some kind of curse or magic, [[Seeker]] manages to dispel the effect, and the hermit's demeanor shifts as he thanks the party. The [[Dorian Almare|hermit]] reveals he has been on the island for 10 years, unable to recall events clearly due to the magical possession, and mentions the last thing he remembers is the merfolk woman [[Caloria]] fleeing from her kin, to the island. He remembers drinking a vial of strange water -- a vial, Seeker learns, that was constructed on a different plane -- but the events are confused. He knows there was some trouble, some conflict, among the merfolk, and he fears Caloria is dead. 
 

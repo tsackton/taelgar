@@ -40,6 +40,6 @@ Beyond the canyon, the remnants of the ancient road cross a cracked landscape of
 The towers mark the gate of a ruined Dunmari fort surrounded by an earthen defensive wall. Two large earthen mounds flank the old causeway. As the party studies the grass-covered mound and its rubble-strewn counterpart, [[Kenzo]] senses undead nearby, just as a skeletal hand breaks through the disturbed earth. Four skeletons pull themselves from the earth and attack; [[Kenzo]] meets them with staff and fists, [[Delwath]] strikes with crackling magic, [[Wellby]] fights with bow and blade, and [[Seeker]] bolsters his companions after discovering that sleep magic cannot affect the dead. Once all four skeletons are destroyed, the party finds signs that the mound was excavated recently, though they cannot identify who disturbed it or what awakened its occupants. [[Seeker]] recognizes the ruins as a [[Great War]]-era Dunmari defensive fort; the party leaves the neighboring grassy mound untouched and approaches the gate, seeking information and answers.
 
 > [!image|figure standard]
-> ![[skeletons-emerge-gomat-fort.jpg]]
+> ![[dufr-002-skeletons-emerge-gomat-fort.jpg]]
 > *A skeleton emerges from a burial mound outside an old Dunmari fort.*
 <!-- /SLOT -->

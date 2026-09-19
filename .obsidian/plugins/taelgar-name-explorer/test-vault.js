@@ -3,9 +3,11 @@
 const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const path = require("node:path");
+const os = require("node:os");
 const core = require("./core");
 
-const vaultRoot = path.resolve(__dirname, "../../..");
+// A miniature vault owned entirely by this test, never the working vault.
+const vaultRoot = fs.mkdtempSync(path.join(os.tmpdir(), "name-explorer-test-"));
 
 function markdownFiles(directory, output = []) {
   for (const entry of fs.readdirSync(directory, { withFileTypes: true })) {
@@ -155,272 +157,118 @@ function concept(catalog, subjectPath, form) {
   );
 }
 
-function run() {
-  const subjects = markdownFiles(vaultRoot)
-    .map(buildSubject)
-    .filter(Boolean);
-  const decisionsPath = path.join(
-    vaultRoot,
-    "_Plugins/Name Explorer/Name Decisions.jsonl",
-  );
-  const decisions = core.parseDecisionStore(
-    fs.readFileSync(decisionsPath, "utf8"),
-  );
-  const catalog = core.buildCatalog(subjects, decisions);
-  const evidencePath = path.join(
-    vaultRoot,
-    "_Plugins/Name Explorer/Place Name Evidence.jsonl",
-  );
-  const placeEvidence = core.parsePlaceEvidenceStore(
-    fs.readFileSync(evidencePath, "utf8"),
-  );
-  core.attachPlaceEvidence(catalog, placeEvidence);
-
-  assert.ok(subjects.length > 2600, `Expected >2600 subjects, got ${subjects.length}`);
-  assert.ok(catalog.subjects.length > 1000);
-  assert.ok(catalog.subjects.length < subjects.length);
-  assert.ok(
-    catalog.subjects.every((item) => core.NOTE_TYPES.includes(item.noteType)),
-  );
-  assert.ok(catalog.concepts.length > catalog.subjects.length);
-  assert.equal(catalog.orphans.length, 0);
-
-  const istaros = concept(
-    catalog,
-    "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
-    "Istaros",
-  );
-  assert.ok(istaros);
-  assert.equal(istaros.effectiveLanguage.language, "Common");
-  assert.equal(istaros.languageSource, "name-metadata");
-  assert.equal(istaros.pronunciation, "ISS-tah-rohs");
-  const aistane = concept(
-    catalog,
-    "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
-    "Aistanë",
-  );
-  assert.ok(aistane);
-  assert.equal(aistane.effectiveLanguage.language, "Elvish");
-  assert.equal(aistane.pronunciation, "EYE-stah-neh");
-
-  const placeSubjectCount = catalog.subjects.filter(
-    (subject) =>
-      subject.noteType === "place" && subject.path.startsWith("Gazetteer/"),
-  ).length;
-  assert.equal(placeEvidence.records.length, placeSubjectCount);
-  assert.equal(placeEvidence.metadata.place_count, placeSubjectCount);
-
-  const outerOcean = concept(
-    catalog,
-    "Gazetteer/Outer Ocean.md",
-    "Outer Ocean",
-  );
-  assert.ok(outerOcean);
-  assert.equal(outerOcean.needsNameReview, true);
-  assert.equal(outerOcean.subject.subtypeLabel, "marine feature");
-  assert.equal(outerOcean.subject.subtypeSource, "typeOf");
-  assert.equal(
-    outerOcean.nameReviewReasons.includes("status/check/name"),
-    true,
-  );
-
-  const karawaDesert = concept(
-    catalog,
-    "Gazetteer/Greater Dunmar/Hara Basin/Karawa Desert.md",
-    "Karawa Desert",
-  );
-  assert.ok(karawaDesert);
-  assert.equal(karawaDesert.needsNameReview, true);
-  assert.deepEqual(
-    karawaDesert.nameReviewReasons,
-    ["status/check/name"],
-  );
-
-  const houseOfSewick = concept(
-    catalog,
-    "Groups/Sembaran Noble Houses/House of Sewick.md",
-    "House of Sewick",
-  );
-  assert.ok(houseOfSewick);
-  assert.equal(houseOfSewick.subject.subtypeLabel, "family");
-  assert.equal(houseOfSewick.subject.subtypeSource, "typeOf");
-
-  const derik = concept(
-    catalog,
-    "People/Historical Figures/Sembaran Royalty/Derik II.md",
-    "Derik II",
-  );
-  assert.ok(derik);
-  assert.equal(derik.subject.subtypeLabel, "human");
-  assert.equal(derik.subject.subtypeSource, "species");
-  assert.equal(derik.forms.some((form) => form.text === "King Derik II"), false);
-  assert.equal(
-    derik.components.some((component) =>
-      component.text === "King" && component.role === "title"
-    ),
-    true,
-  );
-
-  const garret = concept(
-    catalog,
-    "People/Halflings/Garret Tealeaf.md",
-    "Garret Tealeaf",
-  );
-  assert.ok(garret);
-  assert.equal(garret.inferredLanguage.language, "Halfling");
-  assert.equal(garret.effectiveLanguage.language, "Common");
-  assert.equal(garret.status, "rule");
-  assert.equal(garret.forms.some((form) => form.text === "Garret"), true);
-
-  const sentinelConcepts = catalog.concepts.filter(
-    (candidate) => candidate.subjectPath === "Gazetteer/Sentinel Range.md",
-  );
-  assert.deepEqual(
-    sentinelConcepts.map((candidate) => candidate.preferredForm).sort(),
-    ["Beredri", "Indalas", "Labkhan", "Sentinel Range", "Tushara"].sort(),
-  );
-
-  const serraniaConcepts = catalog.concepts.filter(
-    (candidate) =>
-      candidate.subjectPath ===
-      "Gazetteer/Western Green Sea/Cymea/Serrania River.md",
-  );
-  assert.equal(serraniaConcepts.length, 1);
-  assert.deepEqual(
-    serraniaConcepts[0].components.map((component) => [
-      component.text,
-      component.role,
-    ]),
-    [
-      ["Serranía", "core"],
-      ["River", "classifier"],
-    ],
-  );
-
-  const kaelion = concept(
-    catalog,
-    "People/Other Nonhumans/Kaelion the Elder.md",
-    "Kaelion the Elder",
-  );
-  assert.ok(kaelion);
-  assert.equal(kaelion.languageSummary, "Centaur + Trade");
-  assert.deepEqual(
-    kaelion.components.map((component) => [
-      component.text,
-      component.role,
-    ]),
-    [
-      ["Kaelion", "core"],
-      ["the Elder", "epithet"],
-    ],
-  );
-  assert.equal(
-    catalog.corpus.some((component) =>
-      component.subjectPath === kaelion.subjectPath &&
-      component.text === "Kaelion"
-    ),
-    true,
-  );
-  assert.equal(
-    catalog.corpus.some((component) =>
-      component.subjectPath === kaelion.subjectPath &&
-      component.text === "the Elder"
-    ),
-    false,
-  );
-
-  const valley = catalog.concepts.filter(
-    (candidate) =>
-      candidate.subjectPath ===
-      "Gazetteer/Central Highlands/Valley of the Hidden Forest.md",
-  );
-  assert.equal(
-    valley.find((candidate) =>
-      candidate.preferredForm === "Naun Tarvanos"
-    ).effectiveLanguage.language,
-    "Elvish",
-  );
-  assert.equal(
-    valley.find((candidate) =>
-      candidate.preferredForm === "Valley of the Hidden Forest"
-    ).effectiveLanguage.language,
-    "Common",
-  );
-  assert.equal(
-    valley.find((candidate) =>
-      candidate.preferredForm === "Valley of the Hidden Forest"
-    ).sourceForm,
-    "Naun Tarvanos",
-  );
-  assert.ok(valley.every((candidate) => candidate.placeEvidence));
-  assert.equal(
-    valley[0].placeEvidence.subject,
-    "Gazetteer/Central Highlands/Valley of the Hidden Forest.md",
-  );
-
-  const ragath = catalog.concepts.filter(
-    (candidate) =>
-      candidate.subjectPath === "Gazetteer/Greater Dunmar/Ragath Dor.md",
-  );
-  assert.equal(
-    ragath.find((candidate) =>
-      candidate.preferredForm === "High Door"
-    ).effectiveLanguage.language,
-    "Common",
-  );
-  assert.equal(
-    ragath.find((candidate) =>
-      candidate.preferredForm === "Highdoor Pass"
-    ).effectiveLanguage.language,
-    "Common",
-  );
-  assert.equal(
-    ragath.find((candidate) =>
-      candidate.preferredForm === "Ragath Dor"
-    ).effectiveLanguage.language,
-    "Dwarvish",
-  );
-  assert.equal(
-    ragath.find((candidate) =>
-      candidate.preferredForm === "High Door"
-    ).derivation,
-    "literal-translation",
-  );
-
-  const kulthul = concept(
-    catalog,
-    "Gazetteer/Major Rivers/Istaros Watershed/Kulthul.md",
-    "Kulthul",
-  );
-  assert.ok(kulthul);
-  assert.equal(kulthul.effectiveLanguage.language, "Orcish");
-  assert.equal(kulthul.status, "text-evidence");
-
-  const exports = core.catalogExportRecords(catalog);
-  assert.equal(exports.length, catalog.concepts.length);
-  assert.doesNotThrow(() => JSON.stringify(exports[0]));
-
-  const statusCounts = Object.fromEntries(
-    [...new Set(catalog.concepts.map((item) => item.status))].map((status) => [
-      status,
-      catalog.concepts.filter((item) => item.status === status).length,
-    ]),
-  );
-  console.log(JSON.stringify({
-    subjects: subjects.length,
-    scopedSubjects: catalog.subjects.length,
-    concepts: catalog.concepts.length,
-    components: catalog.components.length,
-    corpus: catalog.corpus.length,
-    forms: catalog.concepts.reduce((sum, item) => sum + item.forms.length, 0),
-    nameReview: catalog.concepts.filter(
-      (item) => item.needsNameReview,
-    ).length,
-    rules: catalog.rules.length,
-    orphans: catalog.orphans.length,
-    statuses: statusCounts,
-  }, null, 2));
-  console.log("Name Explorer vault integration tests passed.");
+function writeFixture(relative, text) {
+  const absolute = path.join(vaultRoot, relative);
+  fs.mkdirSync(path.dirname(absolute), { recursive: true });
+  fs.writeFileSync(absolute, text, "utf8");
 }
 
-run();
+function run() {
+  const notes = {
+    "Gazetteer/Elaris.md": [
+      "---", "tags: [place]", "name: Elaris", "typeOf: waterway", "---",
+      "# Elaris", "", "%%^Metadata:names:v1%%",
+      "- {name: Elaris, role: primary, language: Common, pronunciation: eh-LAR-iss, status: documented}",
+      "- {name: Aelira, role: historical, language: Elvish, pronunciation: eye-LEE-rah, status: documented}",
+      "%%^End%%",
+    ].join("\n"),
+    "Gazetteer/Test Sea.md": "---\ntags: [place, status/check/name]\ntypeOf: marine feature\n---\n# Test Sea\n",
+    "People/Leto Bramble.md": "---\ntags: [person]\nspecies: halfling\naliases: [Leto]\n---\n# Leto Bramble\n",
+    "People/Tarin II.md": "---\ntags: [person]\nspecies: human\ntitle: King\n---\n# Tarin II\n",
+    "People/Varin the Elder.md": "---\ntags: [person]\nspecies: centaur\n---\n# Varin the Elder\n",
+    "Groups/House of Example.md": "---\ntags: [group]\ntypeOf: family\n---\n# House of Example\n",
+    "Objects/Test Token.md": "---\ntags: [object]\n---\n# Test Token\n",
+    "No Tags.md": "# An unclassified fixture\n",
+    "Worldbuilding/Ignored.md": "---\ntags: [person]\n---\n# Ignored\n",
+    "_DM_/Ignored.md": "---\ntags: [person]\n---\n# Ignored\n",
+    ".hidden/Ignored.md": "---\ntags: [person]\n---\n# Ignored\n",
+  };
+  for (const [relative, text] of Object.entries(notes)) writeFixture(relative, text);
+
+  const fixtureDecisions = [
+    { type: "rule", id: "fixture-halflings", label: "Fixture rule", match: { noteType: "person", species: "halfling", role: "*" }, language: "Common", priority: 50, enabled: true },
+    { type: "concept", subject: "Gazetteer/Elaris.md", concept: "primary", language: "Dwarvish" },
+    { type: "concept", subject: "People/Tarin II.md", concept: "primary", language: "Common" },
+    // Existing but out-of-scope objects keep dormant decisions, not orphans.
+    { type: "concept", subject: "Objects/Test Token.md", concept: "primary", language: "Common" },
+  ];
+  writeFixture("_Plugins/Name Explorer/Name Decisions.jsonl", core.serializeDecisionStore(fixtureDecisions));
+  writeFixture("_Plugins/Name Explorer/Place Name Evidence.jsonl", [
+    { record_type: "meta", schema_version: 1, place_count: 1 },
+    { record_type: "place-name-evidence", schema_version: 1, subject: "Gazetteer/Elaris.md", subject_name: "Elaris", embeddedness: { band: "high" } },
+  ].map((record) => JSON.stringify(record)).join("\n"));
+
+  const subjects = markdownFiles(vaultRoot).map(buildSubject).filter(Boolean);
+  const baseline = core.buildCatalog(subjects, []);
+  const river = concept(baseline, "Gazetteer/Elaris.md", "Elaris");
+  assert.equal(river.languageSource, "name-metadata");
+  assert.equal(river.effectiveLanguage.language, "Common");
+  assert.equal(river.pronunciation, "eh-LAR-iss");
+  const historical = concept(baseline, "Gazetteer/Elaris.md", "Aelira");
+  assert.equal(historical.effectiveLanguage.language, "Elvish");
+  assert.equal(historical.pronunciation, "eye-LEE-rah");
+
+  const decisions = core.parseDecisionStore(fs.readFileSync(path.join(vaultRoot, "_Plugins/Name Explorer/Name Decisions.jsonl"), "utf8"));
+  const evidence = core.parsePlaceEvidenceStore(fs.readFileSync(path.join(vaultRoot, "_Plugins/Name Explorer/Place Name Evidence.jsonl"), "utf8"));
+  function scanCatalog() {
+    const current = markdownFiles(vaultRoot).map(buildSubject).filter(Boolean);
+    return core.attachPlaceEvidence(core.buildCatalog(current, decisions), evidence);
+  }
+  const catalog = scanCatalog();
+  assert.equal(subjects.length, 7);
+  assert.equal(catalog.subjects.length, 6);
+  assert.equal(catalog.concepts.length, 7);
+  assert.ok(catalog.subjects.every((item) => core.NOTE_TYPES.includes(item.noteType)));
+  assert.deepEqual(catalog.orphans, []);
+  const overridden = concept(catalog, "Gazetteer/Elaris.md", "Elaris");
+  assert.equal(overridden.languageSource, "decision");
+  assert.equal(overridden.effectiveLanguage.language, "Dwarvish");
+  assert.equal(overridden.placeEvidence.embeddedness.band, "high");
+  assert.equal(concept(catalog, "Gazetteer/Elaris.md", "Aelira").placeEvidence.subject, "Gazetteer/Elaris.md");
+
+  const sea = concept(catalog, "Gazetteer/Test Sea.md", "Test Sea");
+  assert.equal(sea.subject.subtypeLabel, "marine feature");
+  assert.equal(sea.subject.subtypeSource, "typeOf");
+  assert.equal(sea.needsNameReview, true);
+  assert.deepEqual(sea.nameReviewReasons, ["status/check/name"]);
+  // Partial evidence is valid input; a current-vault count is not an invariant.
+  assert.equal(sea.placeEvidence, null);
+  const halfling = concept(catalog, "People/Leto Bramble.md", "Leto Bramble");
+  assert.equal(halfling.inferredLanguage.language, "Halfling");
+  assert.equal(halfling.effectiveLanguage.language, "Common");
+  assert.equal(halfling.status, "rule");
+  assert.ok(halfling.forms.some((form) => form.text === "Leto"));
+  const king = concept(catalog, "People/Tarin II.md", "Tarin II");
+  assert.equal(king.subject.subtypeLabel, "human");
+  assert.equal(king.subject.subtypeSource, "species");
+  assert.ok(king.components.some((part) => part.text === "King" && part.role === "title"));
+  assert.equal(concept(catalog, "Groups/House of Example.md", "House of Example").subject.subtypeLabel, "family");
+  const centaur = concept(catalog, "People/Varin the Elder.md", "Varin the Elder");
+  assert.equal(centaur.languageSummary, "Centaur + Trade");
+  assert.deepEqual(centaur.components.map((part) => [part.text, part.role]), [["Varin", "core"], ["the Elder", "epithet"]]);
+  assert.ok(catalog.corpus.some((part) => part.subjectPath === centaur.subjectPath && part.text === "Varin"));
+  assert.ok(!catalog.corpus.some((part) => part.subjectPath === centaur.subjectPath && part.text === "the Elder"));
+  const exports = core.catalogExportRecords(catalog);
+  assert.equal(exports.length, catalog.concepts.length);
+  assert.doesNotThrow(() => JSON.stringify(exports));
+
+  // Rename, delete, and rewrite fixture notes. Stale decisions are diagnostics;
+  // the catalog must still build, with no assumptions about surviving notes.
+  fs.renameSync(path.join(vaultRoot, "Gazetteer/Elaris.md"), path.join(vaultRoot, "Gazetteer/Renamed.md"));
+  fs.unlinkSync(path.join(vaultRoot, "People/Tarin II.md"));
+  writeFixture("People/Leto Bramble.md", "---\ntags: [person]\nname: New Name\nspecies: human\n---\n# New Name\n");
+  const changed = scanCatalog();
+  assert.deepEqual(changed.orphans.map((item) => item.record.subject).sort(), ["Gazetteer/Elaris.md", "People/Tarin II.md"]);
+  assert.ok(changed.orphans.every((item) => item.reason === "Subject file is missing"));
+  assert.equal(concept(changed, "Gazetteer/Renamed.md", "Elaris").placeEvidence, null);
+  assert.equal(concept(changed, "Gazetteer/Renamed.md", "Elaris").effectiveLanguage.language, "Common");
+  assert.ok(concept(changed, "People/Leto Bramble.md", "New Name"));
+  assert.equal(concept(changed, "People/Leto Bramble.md", "Leto Bramble"), undefined);
+  console.log("Name Explorer fixture-vault integration tests passed.");
+}
+
+try {
+  run();
+} finally {
+  fs.rmSync(vaultRoot, { recursive: true, force: true });
+}
