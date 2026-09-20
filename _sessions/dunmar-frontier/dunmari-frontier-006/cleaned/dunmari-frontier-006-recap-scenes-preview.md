@@ -5,7 +5,7 @@
 
 ## scene-001 | Plans and Mysteries
 
-- Beat IDs: beat-001, beat-002, beat-003
+- Beat IDs: beat-001, beat-002, beat-003, beat-004
 - Rationale: The party establishes the expedition plan and gathers information about Raven's Hold, Ander's affliction, the anonymous runebook, and the temple's strange stone. These inquiries form the first preparation scene, ending when attention turns to supplies and practical arrangements.
 
 ### Beats
@@ -13,15 +13,15 @@
 - beat-001 | Preparing to Leave Karawa: The party prepares to fortify Shakun's temple and investigate Raven's Hold while Karawa plans to evacuate west.
 - beat-002 | Raven's Hold and the Anonymous Gift: Wellby learns more about Raven's Hold and Ander's affliction, while Seeker finds that the donor of his runebook remains unknown.
 - beat-003 | Living Stone and Northern Gods: Seeker examines apparently growing stone around the temple, and Candrosa directs Kenzo to Alesh for better knowledge of the northern ruins.
+- beat-004 | Outfitting the Expedition: The party buys discounted healing supplies, receives a scroll for returned relics, and finishes equipping the expedition.
 
 ## scene-002 | Making Ready to Leave
 
-- Beat IDs: beat-004, beat-005, beat-006
+- Beat IDs: beat-005, beat-006
 - Rationale: Buying supplies, arranging the rendezvous with Alesh, seeing her off, and fortifying the temple put the departure plans into practice. Alesh's historical information stays with her farewell, and the next day's construction closes the preparation sequence before the festival gathering.
 
 ### Beats
 
-- beat-004 | Outfitting the Expedition: The party buys discounted healing supplies, receives a scroll for returned relics, and finishes equipping the expedition.
 - beat-005 | Alesh's Southern Scouting Mission: Alesh leaves to scout south after arranging a roughly three-week rendezvous and sharing Raven's Hold's history as a dwarven trading outpost.
 - beat-006 | Fortifying the Temple: Seeker spends most of the following day strengthening the temple with masonry and earth-shaping magic.
 

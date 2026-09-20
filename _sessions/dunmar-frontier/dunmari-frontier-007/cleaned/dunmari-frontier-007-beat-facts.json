@@ -1,0 +1,356 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party leaves evacuating Karawa, follows the attackers’ tracks to a junction, and chooses Raven’s Hold over pursuing a westbound gnoll band.",
+      "longSummary": "With fresh mounts and ten days of food, the party prepares to leave Karawa, adding oil for the dangerous vines and caged rabbits as possible bait. Seeker proposes using a runic die to choose their pace, but they adopt Delwath’s plan to track cautiously before riding hard. Beyond the main trade road, Wellby and Delwath find an eaten antelope and intersecting trails: a larger group toward the northeast, a smaller gnoll band toward the west, and the trail to Karawa. A split from a larger force is plausible, but the direction of travel is uncertain. Unable to warn the evacuees remotely or be sure of overtaking the westbound band, they choose Raven’s Hold.",
+      "location": {
+        "kind": "journey",
+        "from": "Karawa",
+        "to": "Gnoll trail junction north of Karawa (Dunmar)",
+        "context": "Tracking across the main trade road into the northern plains.",
+        "notes": "The party follows tracks; it does not encounter a new hostile group in this beat."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Oil",
+          "role": "encountered",
+          "notes": "Acquired for a possible attack on the vines at Raven’s Hold; it is not used here."
+        },
+        {
+          "name": "Caged rabbits",
+          "role": "encountered",
+          "notes": "Small caged animals obtained as possible bait for the bloodthirsty creatures; later action identifies the bait as rabbits."
+        },
+        {
+          "name": "Runic die",
+          "role": "encountered",
+          "notes": "Seeker presents a six-sided stone cube as a proposed way to choose travel pace; the group instead reaches agreement."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "At their first camp, the party studies Riswynn’s maps and weighs possible approaches to Raven’s Hold.",
+      "longSummary": "The party chooses a direct northeast course, relying on Wellby’s cartography and dead reckoning to save about a day over following the road. At camp, Riswynn produces two maps drawn by her uncle. They distinguish the Dunmari fortress from the dwarven outpost across the valley and discuss the dangerous vines inside the outer wall. A hidden dwarven exit might bypass that field, but finding it and entering through it are uncertain. The group also considers the waterfall and a stealthy scouting approach, leaving the actual entry route undecided until they can see the terrain.",
+      "location": {
+        "kind": "journey",
+        "from": "Gnoll trail junction north of Karawa (Dunmar)",
+        "to": "First travel camp north of Karawa (Dunmar)",
+        "context": "A short late-afternoon ride followed by map study at camp.",
+        "notes": "Raven’s Hold and its entrances are discussed from maps, not visited."
+      },
+      "npcs": [
+        {
+          "name": "Ander",
+          "role": "mentioned",
+          "notes": "His earlier passage beyond the outer wall is recalled when discussing the known vine field."
+        }
+      ],
+      "items": [
+        {
+          "name": "Maps of Raven’s Hold",
+          "role": "encountered",
+          "notes": "Two maps drawn by Riswynn’s uncle show the Dunmari fortress, dwarven outpost, and a hidden exit; the party cannot yet identify a usable back entrance."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-08",
+      "dateEnd": "1748-04-09",
+      "timeWindow": null,
+      "shortSummary": "After riding through unusually empty grazing land, the party scouts a southbound group of injured herders and goats.",
+      "longSummary": "Riding hard across the plains, the party passes torn animal remains and skittish antelope but almost no people in otherwise good grazing country. The following day, dust on the northbound road reveals an approaching group. Unsure what is coming, Wellby and Kenzo arrange a shared spyglass purchase for 100 gold, though its magnification is modest. Seeker shapes an earthen blind for the horses while Wellby and an invisible Delwath sneak forward. They identify Dunmari riders with goats and two injured people on foot; the travelers appear nervous and have not spotted the scouts.",
+      "location": {
+        "kind": "journey",
+        "from": "First travel camp north of Karawa (Dunmar)",
+        "to": "Road crossing toward Raven’s Hold (Dunmar)",
+        "context": "Fast overland travel followed by reconnaissance along the road.",
+        "notes": "The travel montage covers the approved April 8-9 date range; the approaching travelers are the same group greeted in beat 004."
+      },
+      "npcs": [
+        {
+          "name": "Shani",
+          "role": "encountered",
+          "notes": "Present with the southbound herders; identified by name during the next beat."
+        },
+        {
+          "name": "Injured herder",
+          "role": "encountered",
+          "notes": "An unnamed man is seen walking with his arm in a sling; the next beat establishes the broken arm."
+        }
+      ],
+      "items": [
+        {
+          "name": "Spyglass",
+          "role": "encountered",
+          "notes": "The table agrees to a prior purchase for 100 gold. Wellby offers 50 gold and Kenzo agrees to help; the device gives roughly one-and-a-half to two times magnification."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Shani describes gnoll attacks and an unmoving lightning storm, and the party heals a herder before continuing north to seek the attackers.",
+      "longSummary": "Wellby greets Shani’s herders while Delwath keeps watch invisibly. Seeker draws glowing bones in the air and heals a man’s broken arm. Shani says six gnolls attacked the previous night; her group lost two horses and sacrificed a third of its goats to escape. A stationary storm west of Raven’s Hold has lasted a week or more, and lightning fires forced their detour. The party explains Karawa’s evacuation and asks Shani to carry news toward Tokra. Riswynn suggests the storm could mark an interdimensional rift, but they retain Raven’s Hold as their goal. At Wellby’s urging they follow the road north to seek the gnolls, then camp amid unnatural stillness.",
+      "location": {
+        "kind": "journey",
+        "from": "Road crossing toward Raven’s Hold (Dunmar)",
+        "to": "Rocky campsite on the northern plains (Dunmar)",
+        "context": "Conversation with southbound herders followed by travel north along the road.",
+        "notes": "The campsite is still about two days from Raven’s Hold; neither the storm nor the fortress is visited."
+      },
+      "npcs": [
+        {
+          "name": "Shani",
+          "role": "encountered",
+          "context": "Spokeswoman for fleeing herders",
+          "notes": "Leads a group composed mostly of her family, grazing goats in the mountains for a generation. Reports the gnoll attack, lightning fires, and a relative’s warning that lands east of the Hara were no longer defended; agrees to carry word of the party."
+        },
+        {
+          "name": "Injured herder",
+          "role": "encountered",
+          "notes": "An unnamed man who lost his horse has a broken arm healed by Seeker; he is surprised by the immediate, touchless healing."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Gnolls ambush the sleeping camp, nearly bring down Delwath with arrows, and draw the party into a desperate defense around the rocks.",
+      "longSummary": "An arrow strikes Delwath during his watch, and his warning wakes the others. Wellby takes cover and shoots while hidden archers concentrate barbed and poisoned arrows on Delwath, leaving him with four hit points. Riswynn readies Cure Wounds at the rock’s edge so he can reach her, receive healing, and drop prone. Kenzo is also struck while exposed on a rock. Seeker turns a coin into a floating copper disc, places a rabbit on it as bait, then takes cover and gives Kenzo runic inspiration. A gnoll begins moving toward the rabbit as the opening exchange ends.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmar",
+        "context": "Rocky campsite on the northern plains, along the route to Raven’s Hold.",
+        "notes": "Same camp reached at the end of beat 004; the ambush takes place after midnight."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Floating-disc coin",
+          "role": "encountered",
+          "notes": "Seeker’s coin becomes a hovering copper disc supporting a rabbit as a decoy."
+        },
+        {
+          "name": "Rabbit bait",
+          "role": "encountered",
+          "notes": "A caged rabbit is placed on the floating disc and attracts a gnoll’s attention."
+        },
+        {
+          "name": "Barbed arrows",
+          "role": "encountered",
+          "notes": "Gnoll archers use arrows that impede movement; one archer also uses poison."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Gnoll ambushers",
+            "notes": "The same six-gnoll camp ambush spans beats 005-007; these are successive phases, not separate encounters."
+          }
+        ],
+        "notes": "The party wakes under fire. Delwath is badly wounded and healed; all six attackers remain in the encounter when this phase ends."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The party kills two gnolls and shifts behind cover while the remaining attackers press around the camp.",
+      "longSummary": "Wellby continues firing from cover. Kenzo’s blue force strike slams a gnoll into a rock, and Riswynn summons a spiritual warhammer before killing another attacker with Sacred Flame. As the gnolls close in, Seeker disengages and heals himself. One attacker takes the rabbit and bites off its head, so the bait buys only a brief distraction. Kenzo finishes the foe he struck with force, then retreats to drink a healing potion. Delwath blasts an attacker and pulls it closer, while Seeker uses Heat Metal on an armor buckle, making the rabbit-bearing gnoll drop its prize. The surviving archers and spearmen continue maneuvering and attacking.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmar",
+        "context": "Rocky campsite on the northern plains, along the route to Raven’s Hold.",
+        "notes": "The same position as beat 005; movement is tactical repositioning within the campsite."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Rabbit bait",
+          "role": "encountered",
+          "notes": "A gnoll seizes the rabbit and bites off its head; Heat Metal later makes it drop the carcass."
+        },
+        {
+          "name": "Potion of healing",
+          "role": "encountered",
+          "notes": "Kenzo drinks a healing potion after killing the gnoll wounded by his force strike."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Gnoll ambushers",
+            "notes": "The same six-gnoll camp ambush spans beats 005-007; these are successive phases, not separate encounters."
+          }
+        ],
+        "notes": "Riswynn’s Sacred Flame and Kenzo’s quarterstaff kill the first two gnolls. Four remain; the party uses cover, healing, and control effects while continuing to take wounds."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Kenzo’s inspired strike turns the fight, and the party kills all six gnolls before searching the bodies and completing its rest.",
+      "longSummary": "Kenzo charges from cover, strikes with his quarterstaff, and follows with a blow empowered by Seeker’s runic inspiration; the bursting Rune of Destruction kills two gnolls. Riswynn and Delwath engage another attacker, Seeker sends healing to Riswynn, and Wellby finishes that foe with an arrow. The last gnoll flees, but Riswynn kills it with a blast of holy energy after Kenzo’s pursuit fails to stop it. The bodies carry crude weapons, barbed arrows, and a goat-knucklebone necklace, but no treasure. Comparing the skilled archers with the more easily distracted attackers, the party recognizes that a frontal assault on a larger force would be dangerous and finishes its long rest.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmar",
+        "context": "Rocky campsite on the northern plains, along the route to Raven’s Hold.",
+        "notes": "The same camp as beats 005-006; the party searches the defeated ambushers and resumes sleeping here."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Goat-knucklebone necklace",
+          "role": "encountered",
+          "notes": "Found on the poison-arrow archer who seemed to direct the others; bits of flesh and blood still cling to the bones. The transcript does not establish that anyone keeps it."
+        },
+        {
+          "name": "Gnoll weapons and armor",
+          "role": "encountered",
+          "notes": "The searched bodies carry crude armor, spears, bows, and barbed arrows; the equipment appears scavenged or locally constructed, not visibly otherworldly."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Gnoll ambushers",
+            "notes": "The same six-gnoll camp ambush spans beats 005-007; these are successive phases, not separate encounters."
+          }
+        ],
+        "notes": "All six ambushers die: Kenzo kills two in one runic burst, Wellby finishes another, and Riswynn kills the fleeing last survivor. The party suspects this was the band Shani described, but does not independently establish that identity."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-11",
+      "timeWindow": null,
+      "shortSummary": "A vulture reports movement at Raven’s Hold, and the party approaches the foothills through empty plains before smelling sulfur and rotting flesh at camp.",
+      "longSummary": "After the long rest, Seeker ritually speaks with a hungry vulture and offers it the gnoll bodies. It reports moving things at the fortress but little on the plains, cannot give useful detail about the occupants, and says it cannot fly at the storm. Seeker relays the exchange, and the party favors getting closer before choosing a stealthy approach. The later ride brings the stationary storm, distant waterfall, and outer wall into view. They consider the road into a low pass beside the valley rather than approaching the wall directly. At the next camp, a north wind briefly carries the smell of sulfur and rotting flesh across the otherwise silent land.",
+      "location": {
+        "kind": "journey",
+        "from": "Rocky ambush campsite (Dunmar)",
+        "to": "Camp below the foothills near Raven’s Hold (Dunmar)",
+        "context": "Morning animal inquiry followed by the final travel montage and evening camp.",
+        "notes": "The fortress is visible only at a distance. The beat retains the approved April 10-11 range; the bird’s observations do not establish that the fortress or plains are safe."
+      },
+      "npcs": [
+        {
+          "name": "Vulture",
+          "role": "encountered",
+          "notes": "An unnamed hungry scavenger speaks with Seeker after feeding on a gnoll body. Its limited answers indicate movement at the fortress, not the identity or number of occupants."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "A fleeing centaur herd brings warnings of poisoned water, and Tharandros recognizes the shadow tethered to Delwath.",
+      "longSummary": "About two dozen tired centaurs approach the morning camp from the east. Their leader, Tharandros, addresses Delwath in Elvish and warns that the northern water has been sickened by demons, forcing the herd west. He describes a connection to the Abyss and attributes that realm’s creation to human beliefs in punishment and its sustenance to nightmares. When Delwath claims experience of other lands, Tharandros identifies the shadow tethered to him. Delwath says no one else he has met has even named it; Tharandros admits knowing little of the shadow itself but warns that the thread could grow to destroy Delwath and the god he serves.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmar",
+        "context": "Morning camp below the foothills near Raven’s Hold.",
+        "notes": "The same camp established at the end of beat 008; the herd arrives from the eastern plains."
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered",
+          "context": "Centaur leader",
+          "notes": "Leader of the centaur herd, named later in beat 010. Speaks Elvish with Delwath, describes poisoned northern waters and an Abyssal tether, and warns him about his shadow."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Tharandros explains the spreading poison and planar tethers, then agrees to warn Karawa after hearing of its Dreamworld magic.",
+      "longSummary": "Kenzo asks about Raven’s Hold in Dunmari, with Delwath translating when Tharandros shifts into Elvish. Tharandros believes the poison spreads from Raven’s Hold but is unsure; it has grown from one stream ten days earlier to every watering place the herd visited yesterday. Kenzo switches to Drankorian to ask about the tether’s power. Tharandros describes echoes between worlds and perceives a cord Kenzo can pull; Seeker relates this to runic resonance and illustrates the idea with an illusion. Tharandros initially refuses Delwath’s request to carry a warning to Karawa, prioritizing his herd’s safety. Delwath’s appeal to its deeper magic and Wellby’s claim that people there walk into the Dreamworld persuade him. He promises to carry the message and asks them to heal the land. Kenzo splits a clod of earth with him as a token of shared purpose; the herd turns south while the party faces the choice of routes toward Raven’s Hold.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmar",
+        "context": "Morning camp below the foothills near Raven’s Hold.",
+        "notes": "The conversation continues at the same camp as beat 009; the closing passage leaves the party’s route choice unresolved and does not establish entry into the fortress."
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered",
+          "context": "Centaur leader",
+          "notes": "Speaks Dunmari with difficulty and also understands Elvish and Drankorian. Believes, without certainty, that the poisoned water spreads from Raven’s Hold. Agrees to take the warning to Karawa after hearing of Dreamworld travel, and asks the party to clear the water and restore the pastures."
+        }
+      ],
+      "items": [
+        {
+          "name": "Split clod of earth",
+          "role": "encountered",
+          "notes": "Kenzo breaks a piece of soil in half and passes part to Tharandros while promising to work toward clean land; no magical property is asserted."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}
