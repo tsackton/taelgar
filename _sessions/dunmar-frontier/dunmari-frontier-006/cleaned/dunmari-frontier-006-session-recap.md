@@ -3,11 +3,11 @@
 ## Session Header
 
 - Title: Dunmari Frontier - Session 6
-- Desc Title: Embers and Hunger
-- Tagline: in which monsters interrupt the Festival of Rebirth
-- One-Sentence Summary: While preparing to investigate Raven's Hold, the party welcomes Riswynn, defends Karawa against gnolls and monstrous mouth creatures during the Festival of Rebirth, and follows the attackers' tracks north as the villagers evacuate west.
+- Desc Title: The Festival of Rebirth
+- Tagline: in which Karawa’s festival becomes a fight for survival
+- One-Sentence Summary: Riswynn joins the party, with her own reasons for investigating Raven's Hold; Karawa’s Festival of Rebirth turns into a battle against ravenous monsters that Kenzo barely survives.
 - Campaign: Dunmari Frontier
-- Arc: none
+- Arc: Arc 1: Dangers in the Desert
 - Scope: session
 - Session Number: 6
 - DR Date: 1748-04-04 to 1748-04-07
@@ -31,148 +31,58 @@
 - Combat Beats: none
 
 #### Short
-The party gathers information and supplies for the journey to Raven's Hold.
+After the council meeting, the party prepares to set out for Raven's Hold.
 
 ### Apr 4th, 1748 (evening)
 
 - Timeline Segment: timeline-002
 - Timeline Key: (DR:: 1748-04-04), evening
 - Resolution: part-of-day
-- Beat IDs: beat-005
+- Beat IDs: beat-005, beat-006
 - Locations: Karawa
 - NPCs: Alesh, Alesh's two mounted scouts
-- Organizations: none
-- Items: none
-- Combat Beats: none
-
-#### Short
-Alesh departs south with two scouts.
-
-### Apr 4th, 1748
-
-- Timeline Segment: timeline-003
-- Timeline Key: (DR:: 1748-04-04)
-- Resolution: day
-- Beat IDs: beat-006
-- Locations: Karawa
-- NPCs: none
 - Organizations: Shakun Mystai
 - Items: none
 - Combat Beats: none
 
 #### Short
-Seeker plans defenses for Shakun's temple.
+Alesh leaves to scout the borders with two companions; the party plans defenses for the Temple of Shakun.
 
 ### Apr 5th, 1748
 
 - Timeline Segment: timeline-004
 - Timeline Key: (DR:: 1748-04-05)
 - Resolution: day
-- Beat IDs: beat-006
+- Beat IDs: beat-006, beat-007, beat-008
 - Locations: Karawa
-- NPCs: none
+- NPCs: Ikram, Suma
 - Organizations: Shakun Mystai
-- Items: none
+- Items: Riswynn's map of Raven's Hold, The Runes of Creation, Shrine of Jeevali
 - Combat Beats: none
 
 #### Short
-Seeker fortifies Shakun's temple.
-
-### Apr 5th, 1748
-
-- Timeline Segment: timeline-005
-- Timeline Key: (DR:: 1748-04-05)
-- Resolution: day
-- Beat IDs: beat-007
-- Locations: Karawa
-- NPCs: Ikram
-- Organizations: none
-- Items: Riswynn's map of Raven's Hold, The Runes of Creation
-- Combat Beats: none
-
-#### Short
-Riswynn joins the expedition to Raven's Hold.
-
-### Apr 5th, 1748 (evening)
-
-- Timeline Segment: timeline-006
-- Timeline Key: (DR:: 1748-04-05), evening
-- Resolution: part-of-day
-- Beat IDs: beat-008
-- Locations: Karawa
-- NPCs: Suma
-- Organizations: none
-- Items: Shrine of Jeevali
-- Combat Beats: none
-
-#### Short
-Suma interprets the burning shrine's westward embers as Jeevali's blessing for the evacuation.
+Seeker works to fortify the Temple of Shakun. Riswynn joins the party. The party and all of Karawa attends the burning of Jeevali's shrine to begin the Festival of Rebirth.
 
 ### Apr 6th, 1748
 
 - Timeline Segment: timeline-007
 - Timeline Key: (DR:: 1748-04-06)
 - Resolution: day
-- Beat IDs: beat-009
+- Beat IDs: beat-009, beat-010, beat-011, beat-012, beat-013, beat-014, beat-015
 - Locations: Karawa
-- NPCs: none
-- Organizations: none
-- Items: Shrine of Jeevali
-- Combat Beats: beat-009
-
-#### Short
-Gnolls and mouth creatures interrupt the renewal of Jeevali's shrine.
-
-### Apr 6th, 1748 (afternoon)
-
-- Timeline Segment: timeline-008
-- Timeline Key: (DR:: 1748-04-06), afternoon
-- Resolution: part-of-day
-- Beat IDs: beat-010, beat-011, beat-012
-- Locations: Karawa
-- NPCs: Ander Charmheart
-- Organizations: none
-- Items: none
-- Combat Beats: beat-010, beat-011, beat-012
-
-#### Short
-The party defeats the attackers, with Riswynn saving the fallen Kenzo.
-
-### Apr 6th, 1748
-
-- Timeline Segment: timeline-009
-- Timeline Key: (DR:: 1748-04-06)
-- Resolution: day
-- Beat IDs: beat-013, beat-014
-- Locations: Karawa
-- NPCs: Captive gnoll, Ander Charmheart, Bree Charmheart, Callie Charmheart, Havdar, Kisa, Candrosa
+- NPCs: Ander Charmheart, Captive gnoll, Bree Charmheart, Callie Charmheart, Havdar, Kisa, Candrosa
 - Organizations: Shakun Mystai
-- Items: Mouth-creature remains
-- Combat Beats: none
+- Items: Shrine of Jeevali, Mouth-creature remains, Tooth from a mouth creature, Legendary Staff of Kenzo
+- Combat Beats: beat-009, beat-010, beat-011, beat-012
 
 #### Short
-Havdar urges evacuation at first light.
+During the procession celebrating Jeevali's rebirth, gnolls and monsters attack Karawa; the party comes to the town's defense.
 
-### Apr 6th, 1748 (evening)
-
-- Timeline Segment: timeline-010
-- Timeline Key: (DR:: 1748-04-06), evening
-- Resolution: part-of-day
-- Beat IDs: beat-015
-- Locations: Karawa
-- NPCs: none
-- Organizations: none
-- Items: Tooth from a mouth creature, Legendary Staff of Kenzo
-- Combat Beats: none
-
-#### Short
-Delwath finds the attackers' trail leading north.
-
-### Apr 7th, 1748 (dawn)
+### Apr 7th, 1748
 
 - Timeline Segment: timeline-011
-- Timeline Key: (DR:: 1748-04-07), dawn
-- Resolution: part-of-day
+- Timeline Key: (DR:: 1748-04-07), morning
+- Resolution: day
 - Beat IDs: beat-016
 - Locations: Karawa, Northern trail outside Karawa
 - NPCs: Havdar
@@ -181,17 +91,17 @@ Delwath finds the attackers' trail leading north.
 - Combat Beats: none
 
 #### Short
-The villagers evacuate west while the party follows the tracks north.
+The Dunmari begin to evacuate west, while the party follows gnoll tracks north towards Raven's Hold. 
 
 ## Recap
 
-### recap-001 | Plans and Mysteries
+### recap-001 | Preparations for the Journey
 
 - Kind: beat
-- Beat IDs: beat-001, beat-002, beat-003
+- Beat IDs: beat-001, beat-002, beat-003, beat-004
 - Date: 1748-04-04
 - Time: afternoon
-- Source Range: u0001 -> u0891
+- Source Range: u0001 -> u1200
 - Polished Transcript: beat-transcripts/dunmari-frontier-006-recap-001-transcript.md
 - Locations: Karawa
 - NPCs: Callie Charmheart, Ander Charmheart, Ikram, Candrosa
@@ -207,25 +117,28 @@ The villagers evacuate west while the party follows the tracks north.
 - Image Alt:
 
 #### Short
-The party gathers clues for an expedition to Raven's Hold as refugees arrive in Karawa and its people prepare to flee west.
-
-#### Intermediate
-With Havdar preparing to escort the villagers west, the party plans its northern expedition and seeks information around Karawa. Callie describes an approach to Raven's Hold, and Wellby probes Ander's memories of ruins, vines, and terrible hunger. Seeker cannot discover who sent his runebook, but finds stone near Shakun's temple that appears unusually new. Candrosa discusses the northern gods with Kenzo and directs him to Alesh for the fort's history.
+After the council meeting, the party gathers information and supplies for their expedition to Raven's Hold, while refugees continue to arrive in Karawa and the Dunmari people prepare to flee west.
 
 #### Long
-After the council, the party reviews the routes ahead: Havdar will lead Karawa's people west toward Tokra, Alesh will scout south, and the party will investigate Raven's Hold after helping secure Shakun's temple. Wellby's updated map brings the northern lightning storm, dangerous vines, and the approach to the fort into their planning; at an ordinary pace, the journey should take six or seven days.
+After the council meeting, the party reviews the outcome of the discussion: Havdar will lead Karawa's people west toward Tokra, and hopefully safety; Alesh will scout south, trying to find information about the cause of these attacks; and the party will investigate Raven's Hold, a journey they expect to take six or seven days. Rumors are starting to circulate around Karawa, and the celebratory atmosphere of the fesetival is fading into worry and fear. 
 
-At the halfling camp, Callie asks Wellby to find help for Ander and describes the northern road and a stream entrance past Raven's Hold's damaged outer defenses. Probing Ander's thoughts, Wellby glimpses his passage through water, a waterfall, ruined walls, a tower, and vines, followed by overwhelming hunger and pain. Meanwhile, refugees from Bas Udda crowd into Karawa. Ikram can tell Seeker little about the mysterious runebook: it appeared with a note for the heroes of Karawa, but no identified sender.
+In the afternoon, the party splits up to take care of errands and preparation. Wellby visits the halfling camp to talk to the [[Charmhearts]] again, learning that they had a hard time at the market, as [[Ander]] is not improving, and disrupted some of their selling days. [[Callie Charmheart|Callie]] tells [[Wellby]] a bit more about [[Raven's Hold]]: it is set in a river valley a few miles east of the road, near where a small river flows out from the mountains. Probing Ander's thoughts, Wellby glimpses his passage through water, a waterfall, ruined walls, a tower, and vines, followed by overwhelming hunger and pain. 
 
-Seeker then examines the cliff around Shakun's temple, where some stone looks newer farther from the walls, almost as though the mesa is growing. He collects samples and rearranges his drawings to consider how places might change through time. Kenzo asks Candrosa about the north; the priest suggests that its garrisons likely favored Aagir, but admits that Alesh knows more about Raven's Hold.
+Kenzo asks Candrosa about the north; the Speaker says that its garrisons likely would have favored Aagir, but admits that Alesh knows more about history than he does. 
 
-### recap-002 | Making Ready to Leave
+Seeker asks Ikram about the mysterious runebook, though Ikram has little new to say: it appeared with a note for the heroes of Karawa, but no identified sender. He spends the rest of the afternoon examining the cliff around the Temple of Shakun, where the stone of the mesa appears newer than the temple built into it, almost as though the mesa is growing. 
+
+Delwath checks in with people he knows from living in town for several months, and spends some time trading coin for gear and potions. 
+
+Meanwhile, refugees from Bas Udda crowd into Karawa, survivors of the gnoll attacks there. 
+
+### recap-002 | Fortifying the Temple
 
 - Kind: beat
-- Beat IDs: beat-004, beat-005, beat-006
+- Beat IDs: beat-005, beat-006
 - Date: 1748-04-04 to 1748-04-05
 - Time: unknown
-- Source Range: u0892 -> u1494
+- Source Range: u1201 -> u1494
 - Polished Transcript: beat-transcripts/dunmari-frontier-006-recap-002-transcript.md
 - Locations: Karawa
 - NPCs: Suma, Candrosa, Alesh, Alesh's two mounted scouts
@@ -241,17 +154,12 @@ Seeker then examines the cliff around Shakun's temple, where some stone looks ne
 - Image Alt:
 
 #### Short
-After equipping themselves and seeing Alesh off to scout south, they strengthen Shakun's temple for those who will remain behind.
-
-#### Intermediate
-Delwath finds discounted healing potions, and Suma gives Seeker a healing scroll in thanks for the returned relics. Before riding south with two scouts, Alesh arranges a rendezvous in about three weeks and describes Raven's Hold's former trade with the southern dwarves. Seeker spends most of the following day reinforcing the temple, adding a dry moat and planning upper-story access for the community staying behind.
+After seeing Alesh off to scout south, the party works to strengthen and fortify the Temple of Shakun for those who will remain behind.
 
 #### Long
-Delwath checks on townspeople preparing to leave and buys healing potions at twenty gold apiece. The party reviews the healing mud already supplied by Candrosa, while Seeker arranges to collect Jasu's chain and receives a Cure Wounds scroll from Suma for returning the recovered religious artifacts. Kenzo keeps the black iron staff, now without its former magic, and replenishes his darts.
+That evening, Alesh arrives with two mounted scouts to say farewell, before she heads out past Bas Udda and toward the Garamjala Desert. The party plans to meet her again in Karawa in three weeks time, after their respective scouting missions. Alesh also explains that Raven's Hold is a holdfast from before the [[Great War]], and once the site of a trading outpost of the [[dwarves]] of the southern mountains. She and her companions ride south before dark.
 
-That evening, Alesh arrives with two mounted scouts to say farewell. They will head past Bas Udda toward the Garamjala Desert, venture east as safely as they can, and return along the southern edge of the Great Gash. The party hopes to meet her again in Karawa in roughly three weeks, with four weeks a reason for concern; Havdar and Kisa can serve as trusted contacts in Tokra. Alesh also explains that Raven's Hold once sheltered northern settlers and supported trade with southern dwarves whose underground roads ran for hundreds of miles. She and her companions ride south before dark.
-
-At Kenzo's prompting, Seeker plans stronger defenses for the exposed temple entrance. The next day he combines masonry with earth-shaping magic to reinforce doors and walls and create a dry moat with another wall beyond it. Access through the upper story will let the mystai obstruct the main entrance. The work occupies most of the day, ending shortly before the festival.
+In the morning, the party's attention turns to fortifications of the Temple of Shakun. Seeker combines masonry with earth-shaping magic to reinforce doors and walls and create a dry moat. This work takes much of the day; it is early evening when the party returns to Ikram's for a meal before the Festival of Rebirth. 
 
 ### recap-003 | Riswynn and the Festival of Rebirth
 
@@ -275,15 +183,14 @@ At Kenzo's prompting, Seeker plans stronger defenses for the exposed temple entr
 - Image Alt: Suma stands beside a burning tree-shaped shrine before a gathered crowd as glowing embers stream across the twilight sky.
 
 #### Short
-Riswynn joins them before the Festival of Rebirth, where Suma interprets the burning shrine's westward embers as Jeevali's blessing for the evacuation.
-
-#### Intermediate
-At the meal before the festival, Ikram introduces Riswynn, whose clan has sent her to recover an artifact from Raven's Hold. She brings a map drawn from her great-great-uncle Eberk's memories and agrees to travel with the party. They then attend Suma's account of Jeevali's tears and rebirth. When the old shrine burns and its embers drift west, Suma declares that the people will follow the goddess in that direction.
+At Ikram's for an evening meal, the party meets Riswynn, who will join them for the journey to Raven's Hold. That evening is the beginning of the Festival of Rebirth, when the story of [[The Miracle of Jeevali's Resurrection|Jeevali’s miracle]] is told and shrine of Jeevali is burned; Suma interprets the burning shrine's westward-drifting embers as Jeevali's blessing for the evacuation.
 
 #### Long
-At Ikram's caravanserai, the party meets Riswynn over the meal before the festival. She arrived that morning from Tharn Todor, sent by the Brawnanvils to recover a clan artifact from Raven's Hold amid concern that dwarven relics are disappearing westward. Her great-great-uncle Eberk supplied a map from memory, though she has not visited the ruins and cannot yet identify a safe underground approach. Wellby explains Ander's affliction, Seeker shows her The Runes of Creation, and their shared destination gives Riswynn reason to join them.
+At Ikram's caravanserai, the party meets Riswynn Brawnanvil over dinner. She arrived that morning from Tharn Todor, sent by the Brawnanvils to recover a clan artifact from Raven's Hold, prompted by rumors of Chardonian treasure hunters seeking artifacts and relics left behind from the Great War era. A large dwarven expedition has set out for the old strongholds of Ardith, but fearing it would ignore a minor holding far to the east like Raven's Hold, the Brawnanvil clan sent their own treasure hunter. During their conversation, Riswynn tells of the map her great-great-uncle Eberk supplied from memory; Wellby explains Ander's affliction; Seeker shows her The Runes of Creation; and their shared destination gives Riswynn reason to join the party.
 
-Together they follow the townspeople to the desert ceremony. Suma recounts how Jeevali's tears restored the barren land but exhausted the goddess, and how the people's devotion eventually brought her back. At the story's climax, the old tree-shaped shrine of wood and vines is set alight. Its embers drift strangely, mostly toward the west. Suma interprets this as Jeevali leading the way and announces that the people will follow her on the morning after the festival. The ashes are dispersed, and fasting precedes the next day's renewal.
+After this meeting, the Festival of Rebirth begins. Suma, the priestess of Jeevali, and a number of litter bearers carry a tall sculpture shaped like a tree, and seemingly made of vines, and dried flowers, and bits of wood and seeds all pulled together into a trunk, with a design that spirals up to a crown of branches and leaves at the top. They carry the sculpture to the desert, where Suma tells the story of [[The Miracle of Jeevali's Resurrection|Jeevali’s miracle]]. 
+
+At the climax of the story, the tree-shrine is set alight. As the shrine catches on fire, as it bursts into flames, its embers drift strangely, almost like fireworks, floating mostly west. And as these embers drift to the west, a sigh goes through the crowd, as Suma says that Jeevali is with us, Jeevali is going west and we will follow her. The ashes are dispersed, and a night of fasting precedes the next day's renewal.
 
 ### recap-004 | The Attack on Karawa
 
@@ -314,21 +221,16 @@ Together they follow the townspeople to the desert ceremony. Suma recounts how J
 - Image 2 Alt: Riswynn kneels beside the fallen Kenzo with glowing hands as Delwath stands over them, shadow blade raised toward a mouth creature.
 
 #### Short
-The next day's ceremony is interrupted by gnolls and monstrous mouths; the party defeats them, but Kenzo nearly dies and Ander tries to be devoured.
-
-#### Intermediate
-As the new shrine takes shape, screams draw the party toward three gnolls and three mouth creatures attacking from the north. Seeker puts one gnoll to sleep, Wellby shoots from cover, and the others meet the attackers with force, shadow, and flame. Ander breaks free and approaches the mouths, his thoughts begging to be consumed. Kenzo falls beneath the creatures' bites; Delwath guards him while Riswynn restores him. Seeker's image of thorny vines frightens Ander into unconsciousness, and Riswynn finishes the final mouth after Delwath's thunderous strike.
+The next day, the procession celebrating Jeevali's renewal is interrupted by gnolls and monstrous maw creatures; the party comes to Karawa's defense, though Kenzo nearly dies in the battle, and Ander tries to be devoured.
 
 #### Long
-The following morning brings a solemn procession to renew Jeevali's shrine. By late afternoon, the townspeople's offerings are beginning to fuse together when dust, shouts, and screams draw the party toward the northern camp. Three gnolls carrying crude swords advance alongside three grotesque creatures made of mouths, eyes, and limbs.
+The following morning brings a solemn procession to renew Jeevali's shrine for the next year. By late afternoon, the townspeople's offerings are beginning to fuse together when dust, shouts, and screams draw the party's attention. Three gnolls carrying crude swords advance towards the villagers, alongside three grotesque creatures made of mouths, eyes, and limbs.
 
-Seeker's sleep magic drops one gnoll, and he sends an inspiration rune to Delwath. Wellby takes cover on a nearby building and shoots into the fighting as Kenzo, Delwath, and Riswynn engage. Kenzo hurls a ball of force, Riswynn strikes with a flaming warhammer, and Delwath fights with a shadow blade and leaping green fire. Seeker heats a wounded gnoll's sword until the creature burns to death. The mouth creatures' bites repeatedly injure Kenzo, forcing Seeker to keep healing him.
+The party leaps to Karawa's defense. Seeker's sleep magic drops one gnoll; Wellby takes cover on a nearby building and shoots into the fighting as Kenzo, Delwath, and Riswynn engage. Kenzo hurls a ball of force, Riswynn strikes with a flaming warhammer, and Delwath fights with a shadow blade and leaping green fire. Seeker heats a wounded gnoll's sword until the creature burns to death.
 
-Ander then stumbles from the camp trailing broken rope. Wellby hears his thoughts welcoming the master and begging to be eaten as he struggles toward the mouths. Seeker roughens the ground to impede him. Kenzo finishes one mouth creature after Wellby wounds it, Delwath kills the remaining active gnoll, and Riswynn blasts another mouth apart. The final creature bites Kenzo unconscious. Delwath stands over him while Riswynn restores him with healing magic; Kenzo describes having crossed toward another realm before returning to the fight.
+Ander then stumbles from the camp trailing broken rope. Wellby hears his thoughts welcoming the master and begging to be eaten as he struggles toward the maws of the waiting monsters. The fight turns desperate as the party attempts to contain the monsters and keep Ander alive. Kenzo strikes the killing blow against one wounded maw creature; Delwath kills the last gnoll with a well-placed strike; and Riswynn blasts another maw creature. Kenzo throws himself at the last maw creature, which viciously rips into him, leaving him unconscious. Delwath leaps to protect Kenzo, standing over him while Riswynn restores him with her healing magic, then Delwath and Riswynn kill the last maw monster while Seeker subdues Ander with an illusion. 
 
-Seeker draws thorny vines before Ander, whose terror makes him faint. Delwath spends the inspiration rune on a thunderous strike, and Riswynn's warhammer finishes the last mouth creature. All three mouths are dead, while one gnoll remains asleep.
-
-### recap-005 | Aftermath and Departure
+### recap-005 | Karawa Empties
 
 - Kind: beat
 - Beat IDs: beat-013, beat-014, beat-015, beat-016
@@ -350,19 +252,16 @@ Seeker draws thorny vines before Ander, whose terror makes him faint. Delwath sp
 - Image Alt: Families, wagons, pack animals, and livestock form a long column across the scrubland, with mounted escorts riding alongside in the dawn light.
 
 #### Short
-With Kenzo recovering and the mouths' origins uncertain, the party follows the attackers' tracks north at dawn while Havdar escorts the villagers west.
-
-#### Intermediate
-The party binds the surviving gnoll, kills it after failing to communicate, and returns Ander to his family. Seeker recalls creatures resembling the mouths in Intrusions From the Darker Planes, but their arrival remains unexplained. Havdar reports defeating two more gnolls and urges departure at dawn. Kenzo emerges from meditation with brilliant blue eyes and describes crossing into the void. After finding that the attackers approached together from the north, the party rests and follows their tracks the next morning as Karawa's people evacuate west.
+The next morning, Kawara empties. The party follows the attackers' tracks north at dawn, while Havdar and his warband being the task of escorting the villagers safely west.
 
 #### Long
-While Kenzo meditates silently and the ground shakes around him, the party binds the sleeping gnoll and restrains Ander. The captive wakes snarling and offers no intelligible communication. Seeker recalls an illustration in Intrusions From the Darker Planes of beings resembling the mouths, described as foot soldiers of a dark lord of hunger. The resemblance suggests a possible planar origin, though it does not explain how the creatures reached Karawa. The party kills the gnoll and returns Ander to Bree and Callie, who is horrified to learn that he wanted the mouths to consume him.
+After the battle is over, Kenzo meditates silently, and the party deals with the aftermath. Seeker recalls an illustration in a book he once read, Intrusions From the Darker Planes, showing beings resembling the maw creatures, described as foot soldiers of a demon lord of hunger and suggesting a possible extraplanar origin for the attack, though how the creatures reached Karawa remains a mystery. The party returns Ander to Bree and Callie, who is horrified to learn that he wanted the mouths to consume him.
 
-Havdar rides up wounded and reports killing two bow-armed gnolls beyond the hill. The mouth creatures' rapidly decaying, fading remains unsettle him, and he urges everyone to leave at first light. Kisa and Candrosa thank the party while the mystai haul food and water through an upper window, preparing to seal themselves inside the fortified temple.
+Havdar reports having defeated more gnoll-creatures; he is unsettled by the rapidly decaying, fading remains of the maw creatures, and urges everyone to leave at first light. When Delwath approaches Kenzo, he emerges from his trance with brilliant blue eyes and asks whether the battle is over, feeling like he crossed into some void. His companions offer water and reassurance as his eyes return to their usual color. 
 
-When Delwath approaches Kenzo, he emerges from his trance with brilliant blue eyes and asks whether the battle is over. He feels that he crossed into the void and cannot explain the shaking ground. His companions offer water and reassurance as his eyes return to their usual color. Seeker extracts a warm black tooth from a mouth creature, and at sunset Delwath finds tracks showing that the gnolls and mouths approached together from the north before separating near a building.
+At sunset Delwath finds tracks showing that the gnolls and maw creatures approached together from the north.
 
-After a night's rest, the party follows those tracks at first light on April 7. Roughly a thousand people and at least fifteen hundred horses leave Karawa westward, with Havdar, his new recruits, and the surviving refugee escorts guarding the rear. The party takes the northern route as the sun rises.
+After a night's rest, the party sets of at first light, following the tracks north. Meanwhile, while Karawa empties, a thousand people or more and at least twice as many animals streaming westward from the village, with Havdar and his warband guarding the rear. 
 
 ## Cast
 
@@ -374,6 +273,8 @@ After a night's rest, the party follows those tracks at first light on April 7. 
 - Ander Charmheart (met): Afflicted after visiting Raven's Hold; approaches the mouth creatures seeking to be eaten, then faints at an image of vines.
   - Karawa, 1748-04-04
   - Karawa, 1748-04-06
+- Bree Charmheart (met): Comes with Callie to recover Ander after the battle.
+  - Karawa, 1748-04-06
 - Ikram (met): Cannot identify the runebook's donor and introduces Riswynn to the party at his caravanserai.
   - Karawa, 1748-04-04 to 1748-04-05
 - Candrosa (met): Discusses northern gods and the black iron staff, then prepares to remain in Shakun's fortified temple.
@@ -383,18 +284,11 @@ After a night's rest, the party follows those tracks at first light on April 7. 
   - Karawa, 1748-04-04 to 1748-04-05
 - Alesh (met): Shares Raven's Hold's trading history, arranges a rendezvous, and departs south to scout.
   - Karawa, 1748-04-04
-- Alesh's two mounted scouts (met): An older skilled horseman and a hooded woman with a longbow accompany Alesh south.
-  - Karawa, 1748-04-04
-- Captive gnoll (met): The sleeping survivor of the attack; bound, questioned without success, and killed.
-  - Karawa, 1748-04-06
-- Bree Charmheart (met): Comes with Callie to recover Ander after the battle.
-  - Karawa, 1748-04-06
 - Havdar (met): Reports defeating two additional gnolls and guards the rear of the westward evacuation.
   - Karawa, 1748-04-06
   - Karawa, 1748-04-07
 - Kisa (met): Thanks the party and helps hasten departure preparations.
   - Karawa, 1748-04-06
-- Jasu (mentioned): Has made the chain Seeker requested.
 - Eberk Brawnanvil (mentioned): Riswynn's great-great-uncle, who sketched her map of Raven's Hold from memory.
 
 ## Locations
@@ -403,10 +297,6 @@ After a night's rest, the party follows those tracks at first light on April 7. 
   - Summary: Oasis town preparing for evacuation when its Festival of Rebirth is attacked.
   - Sublocations: Ikram's caravanserai, halfling camp, market, Shakun's temple and the Red Mesa cliff, desert ceremony site, northern outskirts
   - Date Visited: 1748-04-04 to 1748-04-07
-- Northern trail outside Karawa
-  - Summary: The attackers' trail followed by the party as it leaves Karawa.
-  - Sublocations: none
-  - Date Visited: 1748-04-07
 
 ## Organizations And Items
 

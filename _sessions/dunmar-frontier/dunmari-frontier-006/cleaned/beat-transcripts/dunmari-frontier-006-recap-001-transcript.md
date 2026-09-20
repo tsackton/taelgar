@@ -1,8 +1,8 @@
-# recap-001 | Plans and Mysteries
+# recap-001 | Preparations for the Journey
 
 - Recap Block: recap-001
-- Beat IDs: beat-001, beat-002, beat-003
-- Source Range: u0001 -> u0891
+- Beat IDs: beat-001, beat-002, beat-003, beat-004
+- Source Range: u0001 -> u1200
 - Source Transcript: ../dunmari-frontier-006-source-cleaned.md
 
 ## Transcript
@@ -1284,3 +1284,579 @@ Kenzo: Um.
 
 %% u0891 %%
 DM: Go ahead.
+
+%% u0892-u0895 %%
+Delwath: While I'm wandering around town, by the way, shopping, I wanna... Like, I've been in town for a while. It feels like everybody's packing up. I assume people have started to hear the word that—
+
+%% u0896 %%
+Kenzo: Um—
+
+%% u0897 %%
+DM: Yes.
+
+%% u0898 %%
+Delwath: ... so on the one hand, I feel like Delwath would wanna check in with various people and make sure they're okay and—
+
+%% u0899 %%
+DM: Right.
+
+%% u0900-u0905 %%
+Delwath: ... getting organized to leave, and does anybody need anything? On the other hand, if anybody—and I don't know, he has a high Charisma, he'd have a better way of saying this than I can think of—but if anybody has supplies or leads on things like healing potions or the red mud that the temple has, or anything that would be useful to us, Delwath is sort of interested in sounding out, you know, is anybody in town sort of—
+
+%% u0906 %%
+Kenzo: You know...
+
+%% u0907 %%
+Delwath: He would make it known in a sort of—
+
+%% u0908 %%
+DM: Right.
+
+%% u0909-u0910 %%
+Delwath: ... subtle way that, "Hey, we're actually heading north to try and see what's going on. Is there anybody who can help us?"
+
+%% u0911 %%
+Kenzo: Right.
+
+%% u0912-u0920 %%
+DM: Okay. So as you're doing that, there are definitely people who are... There's a few things that you encounter. One is, there's people in the market. As the news has spread to the people who are here for the festival, and even some of the people in the town...
+
+%% u0921 %%
+Kenzo: Mm-hmm.
+
+%% u0922 %%
+DM: There's a lot of people who just want coin to travel with, right?
+
+%% u0923 %%
+Kenzo: Right.
+
+%% u0924-u0932 %%
+DM: And so I would say that you can scare up two or three potions of healing and one of whatever uncommon potion you'd like. And people are selling them at a steep discount, but they're not just handing them away. So I'd say, like, 20-ish gold for the healing potions and 50 gold for the uncommon potion.
+
+%% u0933 %%
+Delwath: Well, I'm gonna run out of gold.
+
+%% u0934 %%
+DM: Well—
+
+%% u0935 %%
+Delwath: You wanna give us 75 gold each?
+
+%% u0936 %%
+Kenzo: [laughs]
+
+%% u0937 %%
+DM: Get some from your friends.
+
+%% u0938-u0943 %%
+Kenzo: Yes. [laughs] It's true. I've got 160 gold. I hope I wrote down the right number. Oh, and I foolishly didn't take any gold from Wellby. But, fuck. [laughs]
+
+%% u0944 %%
+DM: [laughs]
+
+%% u0945 %%
+Wellby: Mwahaha.
+
+%% u0946 %%
+Kenzo: Ah.
+
+%% u0947 %%
+Wellby: Yeah, I'm happy to share whatever you need for healing potions.
+
+%% u0948-u0949 %%
+Kenzo: Yeah, if you need healing potion money, Delwath.
+
+%% u0950-u0951 %%
+Seeker: Yeah, seriously. But I feel like—
+
+%% u0952 %%
+DM: So I'd say we can have a healing potion each, if everybody just takes off 20 gold.
+
+%% u0953 %%
+Wellby: Awesome.
+
+%% u0954 %%
+Seeker: Sweet.
+
+%% u0955-u0956 %%
+DM: And add a healing potion. And then—
+
+%% u0957-u0958 %%
+Seeker: I noticed red healing mud in my inventory. It's already there.
+
+%% u0959 %%
+DM: Oh, yeah. Yes.
+
+%% u0960 %%
+Seeker: Yeah, we got that already.
+
+%% u0961 %%
+DM: That's what Candrosa gave you.
+
+%% u0962 %%
+Seeker: Got it.
+
+%% u0963 %%
+DM: That's basically a healing potion, but it has two charges.
+
+%% u0964 %%
+Seeker: Yeah.
+
+%% u0965 %%
+Kenzo: Ooh.
+
+%% u0966 %%
+DM: And you can use both of them or you can use just one of them at a time.
+
+%% u0967 %%
+Seeker: Okay.
+
+%% u0968 %%
+DM: And each charge heals you 2d4 plus two.
+
+%% u0969-u0971 %%
+Kenzo: Red healing mud. Sweet. All right, so now we're gonna add... How do you add healing potions?
+
+%% u0972-u0974 %%
+DM: So go to manage equipment. Go to add items, and just type in potion of healing.
+
+%% u0975 %%
+Kenzo: Got it. Okay.
+
+%% u0976 %%
+Seeker: Greater, superior, or s—
+
+%% u0977 %%
+DM: Just common, just regular.
+
+%% u0978 %%
+Kenzo: The regular one.
+
+%% u0979 %%
+DM: And take off 20 gold.
+
+%% u0980 %%
+Seeker: Wait, that—
+
+%% u0981 %%
+DM: And then t—
+
+%% u0982 %%
+Seeker: Oh, potion of healing, okay.
+
+%% u0983 %%
+DM: Yeah, and then take whatever uncommon potion you want for just Delwath.
+
+%% u0984 %%
+Seeker: Right.
+
+%% u0985-u0988 %%
+DM: For the rest of your gold. You have 65. Don't worry about the extra five. On the topic of items, I assume you wanna get your steel—your metal chain from Jasu, Seeker.
+
+%% u0989 %%
+Seeker: Oh, yeah, yeah. He said he was gonna have that ready by the festival.
+
+%% u0990-u0994 %%
+DM: Yeah. So that he was gonna sell you for four gold. And then also, I assume at some point you returned all the religious artifacts that you had collected—
+
+%% u0995 %%
+Seeker: Yes.
+
+%% u0996 %%
+Kenzo: Oh.
+
+%% u0997 %%
+Wellby: Yeah, yeah, yeah.
+
+%% u0998 %%
+DM: ... from the fort to Suma, and she gives you a scroll of Cure Wounds at second level for all of that.
+
+%% u0999-u1000 %%
+Seeker: Ooh. Um—
+
+%% u1001 %%
+DM: So I guess it makes most sense for Seeker to take that, 'cause.
+
+%% u1002 %%
+Seeker: It's a scroll.
+
+%% u1003-u1004 %%
+DM: 'Cause it's a scroll, and Cure Wounds is on your class spell list, so you can cast it without having to roll anything.
+
+%% u1005 %%
+Seeker: I'm not seeing that in the list if I search for Cure Wounds.
+
+%% u1006 %%
+DM: So just add spell scroll, and then put a note: Cure Wounds, level two.
+
+%% u1007 %%
+Seeker: Second level spell scroll.
+
+%% u1008-u1009 %%
+DM: Yeah, and then just notate that it's Cure Wounds. It doesn't have a scroll for every single...
+
+%% u1010-u1012 %%
+Seeker: Wait, where did it show up? Oh, my gosh. There it is. Spell scroll.
+
+%% u1013 %%
+Unknown: Uh, I haven't used this before.
+
+%% u1014 %%
+DM: Tag smooth—
+
+%% u1015 %%
+Kenzo: Hey, Tim.
+
+%% u1016 %%
+DM: ... 1D.
+
+%% u1017 %%
+Kenzo: I just noticed in my inventory—
+
+%% u1018 %%
+DM: Yep.
+
+%% u1019-u1020 %%
+Kenzo: ... I have a black iron staff. What is that? Is that a—
+
+%% u1021 %%
+DM: Yeah, that's the thing you've been carrying around from the undead hobgoblin.
+
+%% u1022 %%
+Kenzo: Shit, so I had that, huh?
+
+%% u1023 %%
+DM: Yeah.
+
+%% u1024 %%
+Kenzo: Interesting.
+
+%% u1025 %%
+DM: Yeah.
+
+%% u1026-u1027 %%
+Kenzo: Is it magic? Now that the thing is—
+
+%% u1028 %%
+DM: No.
+
+%% u1029-u1030 %%
+Kenzo: ... is cracked off? So it's just like a—
+
+%% u1031-u1032 %%
+DM: It's not magic with the thing cracked off. So—oh, I wanna...
+
+%% u1033 %%
+Seeker: I wanna add that, the throwing net.
+
+%% u1034-u1038 %%
+DM: How should I add that? So I add... I'm pretty sure I added an item called chain net. Oh, there it is. Thank you.
+
+%% u1039 %%
+Kenzo: So add.
+
+%% u1040 %%
+DM: Done.
+
+%% u1041-u1042 %%
+Kenzo: Tim, can I get, like, a shitload more darts?
+
+%% u1043-u1044 %%
+DM: Yeah. Darts are cheap.
+
+%% u1045 %%
+Kenzo: Yeah.
+
+%% u1046 %%
+Delwath: You can get that. I mean, is there anything... Just...
+
+%% u1047 %%
+DM: Is there anybody...
+
+%% u1048 %%
+Delwath: I mean, is everybody sort of... Is the mood like we're all happy—not happy to flee, but the plan is largely accepted?
+
+%% u1049-u1052 %%
+DM: Yeah, I mean, people are scared. A lot of people are really nervous about the festival now and really putting their faith in—
+
+%% u1053 %%
+Kenzo: Right.
+
+%% u1054-u1058 %%
+DM: ... Jeevali to even figure out how to think about this. Like, if there's some sign of Jeevali's protection for this, they'll be happy to flee. If there's not, they don't quite know what to think, but they'll be—
+
+%% u1059 %%
+Kenzo: Right.
+
+%% u1060-u1061 %%
+DM: ... sort of terrified. So lots of people are now getting sort of very antsy about the festival, 'cause it seems like it's super important that Jeevali—
+
+%% u1062 %%
+Kenzo: Right.
+
+%% u1063 %%
+DM: ... blesses this expedition.
+
+%% u1064-u1067 %%
+Kenzo: Tim, sorry, two random questions. In D&D, how do we learn how to fight with new weapons? Do you have to train? Like, how do you train?
+
+%% u1068-u1069 %%
+DM: I mean, you can't, so. [laughs]
+
+%% u1070 %%
+Kenzo: By the rules.
+
+%% u1071-u1072 %%
+DM: I mean, you can, but you have to have downtime, right? You can't train while you're adventuring.
+
+%% u1073 %%
+Kenzo: Okay. Okay.
+
+%% u1074 %%
+DM: Right? So if you have—
+
+%% u1075 %%
+Kenzo: Yeah.
+
+%% u1076 %%
+DM: ... if you have some weeks where you're just, like, hanging out.
+
+%% u1077 %%
+Kenzo: Okay.
+
+%% u1078 %%
+DM: Then you can train.
+
+%% u1079-u1082 %%
+Kenzo: Well, I ask because if I wanted to learn how to use a spear instead of my quarterstaff, then it's a variation on, but it is different. Okay, but I'd have to figure it out later. Fine.
+
+%% u1083-u1084 %%
+DM: But I mean, realistically though, as a monk, relatively quickly your hands will be by far your strongest weapon.
+
+%% u1085-u1087 %%
+Kenzo: Okay. Understood. I also—sorry, with Candrosa, if you don't mind, like, you know the—
+
+%% u1088 %%
+DM: Yeah, yeah.
+
+%% u1089-u1091 %%
+Kenzo: ... black iron staff. I just ask—we don't have to roll this—is there any reason for... Do you want this, or is there any significance to the staff, basically?
+
+%% u1092-u1093 %%
+DM: [coughs] He doesn't recognize any significance other than... So I think the first time you showed it to him, you discussed he could not read the writing, and you—
+
+%% u1094 %%
+Kenzo: Right.
+
+%% u1095 %%
+DM: Uh—
+
+%% u1096 %%
+Kenzo: Right.
+
+%% u1097-u1098 %%
+DM: And you could read it, and you said it was Draconic, which seemed quite odd to him.
+
+%% u1099 %%
+Kenzo: Right. Right. Okay.
+
+%% u1100-u1101 %%
+DM: And it seems... So he would be happy to keep it safe in the temple if you don't want to carry it.
+
+%% u1102-u1104 %%
+Kenzo: I was just gonna say, yeah, yeah. How much do we care about encumbrance and carrying shit?
+
+%% u1105 %%
+DM: I mean, you have a horse, so not really at all.
+
+%% u1106 %%
+Kenzo: Okay. [laughs] Okay.
+
+%% u1107-u1108 %%
+DM: I would say just within reason, right? Like, if you want to carry—
+
+%% u1109 %%
+Kenzo: Right, right.
+
+%% u1110 %%
+DM: ... 100 days of food.
+
+%% u1111 %%
+Kenzo: Right.
+
+%% u1112 %%
+DM: No, but like—
+
+%% u1113-u1114 %%
+Kenzo: You guys think I should carry this staff around? Feels pretty, pretty...
+
+%% u1115 %%
+DM: We're not gonna have this thing, right?
+
+%% u1116 %%
+Delwath: Yeah. I don't think there's a downside.
+
+%% u1117 %%
+Kenzo: You think I should carry it, Mike?
+
+%% u1118 %%
+DM: Yeah.
+
+%% u1119-u1121 %%
+Kenzo: All right, fine. I'll keep carrying it. Can I get 100 darts, Tim? Instead of 20, or like 19 darts.
+
+%% u1122 %%
+DM: 100 darts?
+
+%% u1123 %%
+Kenzo: Is that a lot of darts? I have no idea.
+
+%% u1124-u1125 %%
+DM: That's a lot of darts. I'll say you can have 40.
+
+%% u1126 %%
+Kenzo: 40, all right. Let's do 40.
+
+%% u1127-u1128 %%
+DM: Does Karawa have a Costco? [laughs]
+
+%% u1129 %%
+Kenzo: [laughs]
+
+%% u1130-u1131 %%
+DM: A Cost—a Dart, a Dartco? [laughs]
+
+%% u1132 %%
+Kenzo: Cool.
+
+%% u1133 %%
+DM: Okay, anything else you wanna do?
+
+%% u1134 %%
+Unknown: No, we can wrap pretty much.
+
+%% u1135-u1138 %%
+DM: Any other shopping? I don't think so. Okay, so all this takes most of the afternoon. Go ahead.
+
+%% u1139-u1140 %%
+Kenzo: Sorry, sorry. One more thing. If it, like, rains, do we have gear for that? For getting, like, wet?
+
+%% u1141-u1143 %%
+DM: Oh, yeah. You already have—you're, like, seasoned adventurers. You don't worry about rain. Come on.
+
+%% u1144 %%
+Kenzo: Right. All right.
+
+%% u1145 %%
+DM: I mean, you have—
+
+%% u1146 %%
+Kenzo: But—
+
+%% u1147 %%
+DM: You have, like—
+
+%% u1148-u1149 %%
+Wellby: Umbrella of dryness, plus three. [laughs]
+
+%% u1150-u1151 %%
+DM: [laughs] I don't think any of you have tents. I mean, I guess you could get a tent if you wanted, but.
+
+%% u1152 %%
+Seeker: I have some bug spray. Everybody should get bug spray.
+
+%% u1153-u1154 %%
+Wellby: Everyone remember the sunscreen before you go into combat. [laughs]
+
+%% u1155-u1161 %%
+Kenzo: I'm just saying. I'm just saying, guys. We're gonna be traveling for, like, three weeks probably. And at some point we're gonna be like, "Fuck, if only we had thought about that and actually gotten..." We'll rewind the tape back to this moment and be like, "Fuck, if only we had gotten X." Like, if there's—
+
+%% u1162 %%
+Unknown: I mean, I'll give you—it's gonna be hilarious.
+
+%% u1163 %%
+Kenzo: ... you know?
+
+%% u1164-u1167 %%
+DM: Just so you don't spend forever agonizing about it, all your characters are, at this point, moderately seasoned adventurers, and especially Seeker and Wellby have been traveling for many months, right? So if at some point you run into a case, I'll give you, as a party, two, "We would have thought of buying this."
+
+%% u1168 %%
+Kenzo: Okay. Okay.
+
+%% u1169 %%
+DM: Nice.
+
+%% u1170 %%
+Kenzo: I guess more what I'm thinking about—
+
+%% u1171 %%
+DM: Right.
+
+%% u1172-u1173 %%
+Kenzo: ... is if, like, we're at Raven's Hold and we're like, "Fuck, I wish we had a grappling hook," or, like... You know what I mean? But if that's included in the—
+
+%% u1174 %%
+Seeker: We've got that stuff, yeah.
+
+%% u1175 %%
+Kenzo: If that's included in the—
+
+%% u1176 %%
+DM: Yeah, that's included with that. You just can't use it all the time, right?
+
+%% u1177 %%
+Kenzo: All right.
+
+%% u1178-u1180 %%
+Seeker: The one obvious exception, you guys, though, is the travel telescoping lightning rod thing that we're gonna commission. 'Cause inevitably we're gonna have to go into that giant, endless lightning storm, and then—
+
+%% u1181 %%
+Kenzo: Hmm.
+
+%% u1182 %%
+Seeker: ... die in the lightning storm, so we need to have a lightning—
+
+%% u1183 %%
+Kenzo: Well, we just need a—no, we just need a lightning catcher.
+
+%% u1184 %%
+Seeker: Just attach it to the horse. I mean, what's the—
+
+%% u1185-u1186 %%
+DM: I mean, you have a black iron staff, so there we go.
+
+%% u1187 %%
+Seeker: No, you want it to be like 50 feet, you know, because—
+
+%% u1188 %%
+Wellby: Well, it just needs to be tallest relative to us, so we mount it vertically on the horse.
+
+%% u1189 %%
+Seeker: Yeah, [laughs] that's what I'm saying.
+
+%% u1190-u1191 %%
+DM: [laughs] Right. Well, Wellby is fine no matter what, as long as Delwath or Kenzo is carrying the staff.
+
+%% u1192 %%
+Seeker: [laughs] Horses are excellent insulation—
+
+%% u1193 %%
+Kenzo: Right.
+
+%% u1194 %%
+Seeker: ... as we all know.
+
+%% u1195 %%
+Kenzo: Right.
+
+%% u1196 %%
+Wellby: Count on others to have good posture as a defense mechanism.
+
+%% u1197 %%
+Seeker: [laughs]
+
+%% u1198 %%
+Kenzo: All right. I guess we're fine.
+
+%% u1199-u1200 %%
+DM: Okay.

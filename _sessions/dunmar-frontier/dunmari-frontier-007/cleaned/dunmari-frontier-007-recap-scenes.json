@@ -1,0 +1,50 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "The Road to Raven’s Hold",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The user grouped departure, tracking, route choice, and the first camp’s map discussion into one opening journey-and-planning scene."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Shani’s Warning",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "The approach, spyglass and concealment preparations, greeting, healing, and warnings belong to one encounter with the same herders. The preceding travel and subsequent camp provide its lead-in and close."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Gnolls in the Night",
+      "beatIds": [
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "All three beats are tactical phases of one uninterrupted camp ambush. Keep the victory, body search, and immediate aftermath with the fight."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Vulture News and Sulfurous Winds",
+      "beatIds": [
+        "beat-008"
+      ],
+      "rationale": "After the ambush, the vulture inquiry and final approach concern assessing what awaits at Raven’s Hold. End with the ominous camp before the new centaur encounter."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Tharandros and the Poisoned Land",
+      "beatIds": [
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "The warning about Delwath’s shadow, discussion of planar tethers, and negotiation over carrying a message are one continuous conversation with Tharandros and his herd."
+    }
+  ]
+}
