@@ -267,79 +267,52 @@ After a night's rest, the party sets of at first light, following the tracks nor
 
 ### NPCs
 
-- Callie Charmheart (met): Describes Raven's Hold's approach and seeks help for Ander; later learns that he tried to be consumed by the attackers.
+- Callie Charmheart (met): Halfling trader and Ander's older sister, seeking help for his affliction.
   - Karawa, 1748-04-04
   - Karawa, 1748-04-06
-- Ander Charmheart (met): Afflicted after visiting Raven's Hold; approaches the mouth creatures seeking to be eaten, then faints at an image of vines.
+- Ander Charmheart (met): Halfling caravan scout afflicted at Raven's Hold, who tries to be devoured by the attackers.
   - Karawa, 1748-04-04
   - Karawa, 1748-04-06
-- Bree Charmheart (met): Comes with Callie to recover Ander after the battle.
+- Bree Charmheart (met): Halfling trader and Charmheart matriarch, who retrieves her grandson Ander after the battle.
   - Karawa, 1748-04-06
-- Ikram (met): Cannot identify the runebook's donor and introduces Riswynn to the party at his caravanserai.
+- Ikram (met): Karawa's friendly innkeeper, who introduces Riswynn to the party.
   - Karawa, 1748-04-04 to 1748-04-05
-- Candrosa (met): Discusses northern gods and the black iron staff, then prepares to remain in Shakun's fortified temple.
+- Candrosa (met): Speaker of the Shakun Mystai, preparing to remain behind in Karawa's fortified temple.
   - Karawa, 1748-04-04
   - Karawa, 1748-04-06
-- Suma (met): Gives a healing scroll for the returned relics and interprets the shrine's westward embers during Rebirth.
+- Suma (met): Karawa's priestess of the Dunmari gods, who leads the Festival of Rebirth.
   - Karawa, 1748-04-04 to 1748-04-05
-- Alesh (met): Shares Raven's Hold's trading history, arranges a rendezvous, and departs south to scout.
+- Alesh (met): Dunmari scout and messenger, who shares Raven's Hold's history before riding south.
   - Karawa, 1748-04-04
-- Havdar (met): Reports defeating two additional gnolls and guards the rear of the westward evacuation.
+- Havdar (met): Brash Dunmari war leader whose warriors escort Karawa's evacuees west.
   - Karawa, 1748-04-06
   - Karawa, 1748-04-07
-- Kisa (met): Thanks the party and helps hasten departure preparations.
+- Kisa (met): Respected elder and unofficial leader of Karawa, helping prepare the villagers to evacuate.
   - Karawa, 1748-04-06
-- Eberk Brawnanvil (mentioned): Riswynn's great-great-uncle, who sketched her map of Raven's Hold from memory.
+- Eberk Brawnanvil (mentioned): Riswynn's great-great-uncle, a dwarven elder who supplied her map of Raven's Hold.
 
 ## Locations
 
 - Karawa
-  - Summary: Oasis town preparing for evacuation when its Festival of Rebirth is attacked.
-  - Sublocations: Ikram's caravanserai, halfling camp, market, Shakun's temple and the Red Mesa cliff, desert ceremony site, northern outskirts
+  - Summary: Oasis village beneath the Red Mesa, attacked during the Festival of Rebirth and evacuated the next morning.
+  - Sublocations: Ikram's caravanserai, halfling camp, market, Shakun's temple and the Red Mesa cliff, desert ceremony site
   - Date Visited: 1748-04-04 to 1748-04-07
 
 ## Organizations And Items
 
 ### Organizations
 
-- Shakun Mystai (encountered): The temple community prepares to remain barricaded inside with food, water, and Seeker's new defenses.
+- Shakun Mystai (encountered): Mystery cult devoted to Shakun, whose initiates prepare to remain in Karawa's fortified temple.
   - Karawa, 1748-04-04 to 1748-04-06
-- Havdar's Warband (encountered): Protects the rear of the villagers' westward evacuation.
+- Havdar's Warband (encountered): Dunmari riders and warriors under Havdar's command, guarding the villagers' westward evacuation.
   - Karawa, 1748-04-07
-- Brawnanvils (mentioned): Riswynn's clan, which sent her to recover an ancestral artifact at Raven's Hold.
+- Brawnanvils (mentioned): Dwarven clan of Tharn Todor that sent Riswynn to recover an ancestral artifact from Raven's Hold.
 
 ### Items
 
-- Wellby's map (encountered): Updated with Alesh's information and consulted while planning the northern journey.
-  - Karawa, 1748-04-04
-- The Runes of Creation (encountered): The anonymously delivered runebook Seeker investigates and later shows Riswynn.
-  - Karawa, 1748-04-04 to 1748-04-05
-- Note accompanying the runebook (encountered): Directs the gift to the heroes of Karawa without identifying its sender.
-  - Karawa, 1748-04-04
-- Stone samples from the Red Mesa (encountered): Collected by Seeker while examining apparently newer stone near Shakun's temple.
-  - Karawa, 1748-04-04
-- Legendary Staff of Kenzo (encountered): Seeker's illustrated booklet; he rearranges its pages and later discusses repairing its binding.
-  - Karawa, 1748-04-04
-  - Karawa, 1748-04-06
-- Potions of healing (encountered): Purchased for the four current party members at twenty gold apiece.
-  - Karawa, 1748-04-04
-- Red healing mud (encountered): Previously supplied by Candrosa; the party reviews its two remaining healing uses.
-  - Karawa, 1748-04-04
-- Cure Wounds scroll (encountered): A second-level healing scroll given by Suma for returning recovered religious artifacts.
-  - Karawa, 1748-04-04
-- Chain net (encountered): Added to Seeker's equipment while he arranges to collect Jasu's chain.
-  - Karawa, 1748-04-04
-- Black iron staff (encountered): The staff taken from the undead hobgoblin, retained by Kenzo after its magic was lost.
-  - Karawa, 1748-04-04
 - Riswynn's map of Raven's Hold (encountered): Eberk's remembered plan of the ruins, which Riswynn expects to orient on arrival.
   - Karawa, 1748-04-05
-- Shrine of Jeevali (encountered): The old shrine is burned at Rebirth; the following day's renewal is interrupted by the attack.
-  - Karawa, 1748-04-05 to 1748-04-06
-- Mouth-creature remains (encountered): Decay and fade unusually quickly after the battle.
-  - Karawa, 1748-04-06
-- Tooth from a mouth creature (encountered): A warm, almost steaming black tooth extracted by Seeker.
-  - Karawa, 1748-04-06
-- Brawnanvil clan artifact (mentioned): The unnamed ancestral object Riswynn seeks at Raven's Hold.
+- Shield of the Brawnanvil Clan (mentioned): The ancestral treasure Riswynn seeks at Raven's Hold.
 - Intrusions From the Darker Planes (mentioned): A book Seeker recalls when considering a possible planar origin for the mouth creatures.
 
 ## Combat
@@ -347,8 +320,8 @@ After a night's rest, the party sets of at first light, following the tracks nor
 ### recap-004 | Defense of Karawa
 
 - Beat IDs: beat-009, beat-010, beat-011, beat-012
-- Enemies: Gnolls, Mouth creatures, Mouth creature, Sleeping gnoll
-- Context / Outcome: The party defeats three gnolls and three mouth creatures attacking during Rebirth; Riswynn saves Kenzo, and the one gnoll left alive is killed after questioning.
+- Enemies: Gnolls, Maw creatures
+- Context / Outcome: The party defeats three gnolls and three maw creatures that attack Karawa during the Festival of Rebirth; Riswynn saves Kenzo, and the one gnoll incapacitated by Seeker's magic is killed after questioning.
 
 
 ## Source Files
@@ -362,82 +335,26 @@ After a night's rest, the party sets of at first light, following the tracks nor
 
 - ID: quote-beat-003-001
   - Quote: "It's sort of all wrong, basically. Like, time has flowed unevenly here, or something new was inserted into something older, or something old was inserted into something newer."
-  - Speaker: Seeker
+  - Speaker: Seeker, investigating the Red Mesa and the Temple of Shakun
   - Source Lines: u0717-u0720
-
-- ID: quote-beat-005-001
-  - Quote: "Expect us in three weeks and worry in four."
-  - Speaker: Delwath
-  - Source Lines: u1259
-
-- ID: quote-beat-007-001
-  - Quote: "Well, insanity-making vines weren't on the map."
-  - Speaker: Riswynn
-  - Source Lines: u1642
-
+  
 - ID: quote-beat-008-002
   - Quote: "Jeevali has blessed us. Jeevali is going west, and we will follow her."
-  - Speaker: DM
+  - Speaker: Suma, at the Festival of Rebirth
   - Source Lines: u1735-u1736
 
 - ID: quote-beat-009-001
   - Quote: "What do we always do when people are running away from things?"
-  - Speaker: Kenzo
+  - Speaker: Kenzo, as the villagers flee the gnoll attacks
   - Source Lines: u1769
 
-- ID: quote-beat-012-002
-  - Quote: "This is a spell of re-traumatizing."
-  - Speaker: Wellby
-  - Source Lines: u3210-u3211
-
-- ID: quote-beat-013-002
-  - Quote: "I hope you can do something for him. I hope you can find some clue."
-  - Speaker: DM
-  - Source Lines: u3594-u3596
-
-- ID: quote-beat-015-001
-  - Quote: "I don't know. I don't know. I feel like I've crossed into the void."
-  - Speaker: Kenzo
-  - Source Lines: u3816-u3818
 
 ## Audio Highlights
 
-- ID: audio-001
-  - Title: Ander's memory of Raven's Hold
-  - Speaker: DM
-  - Source Lines: u0539-u0561
-  - Output: audio-001.m4a
-  - Summary: Wellby reaches into Ander's thoughts and sees the river, ruined defenses, and thorny field before hunger and pain break the vision.
-  - Why Called Out: A sustained, ominous narration that ties the coming expedition to Ander's affliction.
-
-- ID: audio-002
-  - Title: Alesh on the history of Raven's Hold
-  - Speaker: DM, Kenzo, Seeker
-  - Source Lines: u1356-u1407
-  - Output: audio-002.m4a
-  - Summary: Alesh explains the old holdfast and its history, followed by Seeker's questions about underground routes.
-  - Why Called Out: A useful spoken introduction to the party's destination, with the players' curiosity and table voice intact.
-
 - ID: audio-003
-  - Title: Jeevali's tears and the westward embers
+  - Title: Jeevali's Miracle
   - Speaker: DM
-  - Source Lines: u1702-u1742
+  - Source Lines: u1703-u1736
   - Output: audio-003.m4a
   - Summary: Suma recounts Jeevali's sacrifice and rebirth; the burning shrine sends embers west, and she calls on the town to follow the goddess.
   - Why Called Out: The session's central ceremonial narration, moving from myth through communal fear to an omen of hope.
-
-- ID: audio-004
-  - Title: Kenzo's awakening
-  - Speaker: Kenzo, Delwath, Seeker, DM, Wellby, Riswynn
-  - Source Lines: u3779-u3840
-  - Output: audio-004.m4a
-  - Summary: Kenzo emerges from meditation with brilliant blue eyes, says he feels he has crossed into the void, and receives water and reassurance from his companions.
-  - Why Called Out: A character moment after his near-death experience, balancing mystery, concern, and the group's humor.
-
-- ID: audio-005
-  - Title: Departure at first light
-  - Speaker: DM
-  - Source Lines: u3928-u3946
-  - Output: audio-005.m4a
-  - Summary: Karawa prepares through the night; at dawn the refugees leave west under Havdar's guard while the party follows the attackers' tracks north.
-  - Why Called Out: A compact closing narration that gives the session a clear ending and sets the direction of the next journey.
