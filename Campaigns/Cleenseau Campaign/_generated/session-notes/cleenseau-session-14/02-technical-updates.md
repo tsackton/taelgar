@@ -6,7 +6,7 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-014
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1720-01-24): party ends at [[Fellburn]].
+- Candidate party whereabouts: (DR:: 1720-01-18) to (DR_end:: 1720-01-19): party ends at [[Fellburn]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -18,7 +18,8 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-014
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1720-01-24): The party clears the remaining shipwrecks, destroys the giant undead eel in its lair, and continues toward [[Fellburn]].
+- (DR:: 1720-01-17): The party clears the remaining shipwrecks and destroys the giant undead eel in its lair.
+- (DR:: 1720-01-18) to (DR_end:: 1720-01-19): The party rides east from [[Rinburg]], stays in [[Cienne]], and reaches [[Fellburn]] as battle approaches.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
@@ -26,12 +27,5 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-014
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
-- Armand: appears in the final timeline block but has no parseable end-state history.
-- Emilie: appears in the final timeline block but has no parseable end-state history.
-- Odo Cordwaner: appears in the final timeline block but has no parseable end-state history.
-- Celeste: appears in the final timeline block but has no parseable end-state history.
-- Jehan: appears in the final timeline block but has no parseable end-state history.
-- Lucien: appears in the final timeline block but has no parseable end-state history.
-- Bastien: appears in the final timeline block but has no parseable end-state history.
-- Eneko: appears in the final timeline block but has no parseable end-state history.
+- none
 <!-- /SLOT -->

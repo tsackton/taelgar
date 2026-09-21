@@ -9,30 +9,50 @@
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 13
-- DR Date: 1720-01-16 to 1720-01-24
+- DR Date: 1720-01-16 to 1720-01-17
 - Real Date: 2024-03-31
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn
 
 ## Timeline
 
-### 1720-01-16 to 1720-01-24
+%% Date reconstruction: [[Cleenseau - Session 13 - Original]] gives January 16–24 for the larger account, while [[Siege of Fellburn (Email)]] places the party's ride east after the lake on January 18. The January 16 evening and January 17 descent are inferred from the original account's overnight sequence. %%
+
+### 1720-01-16
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1720-01-16) to (DR_end:: 1720-01-24)
+- Timeline Key: (DR:: 1720-01-16)
 - Resolution: day
 - Beat IDs: recap-001
-- Locations: Great South Road, Rinburg, Enclaut, Lake Rin
+- Locations: Great South Road, Rinburg, Enclaut
 - NPCs: Corrine Morphokamia, Armand, Emilie, Odo Cordwaner, Celeste, Jehan, Lucien, Bastien, Eneko
+- Organizations: none
+- Items: none
+- Combat Beats: none
+
+#### Short
+The party reaches [[Enclaut]], finds and heals [[Corrine Morphokamia]], and accepts her hospitality for the night.
+
+#### Long
+The party travels along the [[Great South Road]] to [[Rinburg]] and [[Enclaut]]. They find and heal [[Corrine Morphokamia]], the sole survivor of an expedition against the giant undead eel in [[Lake Rin]]. Corrine describes the deaths of [[Celeste]], [[Jehan]], [[Lucien]], [[Bastien]], and [[Eneko]], offers the party her house for the night, and promises water breathing in the morning. The dinner conversation played later by email is [[Cleenseau - Session 13.1]].
+
+### 1720-01-17
+
+- Timeline Segment: timeline-002
+- Timeline Key: (DR:: 1720-01-17)
+- Resolution: day
+- Beat IDs: recap-001
+- Locations: Enclaut, Lake Rin
+- NPCs: Corrine Morphokamia, Armand, Emilie, Odo Cordwaner
 - Organizations: none
 - Items: none
 - Combat Beats: recap-001
 
 #### Short
-The party reaches [[Lake Rin]], aids the sole survivor of a failed expedition, and begins clearing eel-mutated undead from the shipwrecks beneath the lake.
+The party tries to lure the eel ashore, then dives into [[Lake Rin]] and begins clearing zombies from the shipwrecks.
 
 #### Long
-The party travels south along the [[Great South Road]] to [[Rinburg]] and the lakeside settlement of [[Enclaut]]. There they find and heal [[Corrine Morphokamia]], the sole survivor of an expedition against a giant undead eel. Corrine tells them that her companions [[Celeste]], [[Jehan]], [[Lucien]], [[Bastien]], and [[Eneko]] were killed beneath [[Lake Rin]]. After resting in her house, the party joins [[Armand]], [[Emilie]], and [[Odo Cordwaner]] in an unsuccessful attempt to lure the eel ashore. They then descend at the [[Lake Rin|Rinburg Rocks]], repel eel swarms, and begin clearing ordinary and eel-mutated zombies from the submerged shipwrecks.
+In the morning, the party tries to lure the undead eel ashore with a sheep and hooked boat, but it tears free. Corrine casts water breathing, and the party rows to the [[Lake Rin|Rinburg Rocks]]. With [[Armand]], [[Emilie]], and [[Odo Cordwaner]], they dive, repel eel swarms, and begin clearing ordinary and eel-mutated zombies from the submerged shipwrecks.
 
 ## Recap
 
@@ -40,7 +60,7 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 
 - Kind: combat
 - Beat IDs: recap-001
-- Date: 1720-01-16 to 1720-01-24
+- Date: 1720-01-16 to 1720-01-17
 - Time: day
 - Locations: Great South Road, Rinburg, Enclaut, Lake Rin
 - NPCs: Corrine Morphokamia, Armand, Emilie, Odo Cordwaner, Celeste, Jehan, Lucien, Bastien, Eneko
@@ -98,7 +118,7 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 - [[Rangers in Champimont]]
 - [[Champimont Rumors and Questions]]
 - [[Play by Email/At the Elegant Swan in Champimont]]
-- [[An Evening in Corrine's House]]
+- [[Cleenseau - Session 13.1|An Evening in Corrine's House]]
 - [[The Destruction of Eftly]]
 
 ## Source Files
@@ -109,3 +129,4 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 - [[Rangers in Champimont (Email)]]
 - [[Next Thing March 2024 (Email)]]
 - [[Destruction of Eftly (Email)]]
+- [[Siege of Fellburn (Email)]]

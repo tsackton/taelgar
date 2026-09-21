@@ -9,30 +9,50 @@
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 14
-- DR Date: 1720-01-24
+- DR Date: 1720-01-17 to 1720-01-19
 - Real Date: 2024-04-28
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn
 
 ## Timeline
 
-### 1720-01-24
+%% Date reconstruction: [[Cleenseau - Session 14 - Original]] labels this installment January 24, but its source account describes the overnight stay and lake descent, while [[Siege of Fellburn (Email)]] explicitly puts the ride from Rinburg to Cienne on January 18 and the arrival at Fellburn on January 19. The January 24 label appears to cover the combined recap's wider span. %%
+
+### 1720-01-17
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1720-01-24)
+- Timeline Key: (DR:: 1720-01-17)
 - Resolution: day
 - Beat IDs: recap-001
-- Locations: Lake Rin, Fellburn
+- Locations: Lake Rin
 - NPCs: Armand, Emilie, Odo Cordwaner, Celeste, Jehan, Lucien, Bastien, Eneko
 - Organizations: none
 - Items: none
 - Combat Beats: recap-001
 
 #### Short
-The party clears the remaining shipwrecks, destroys the giant undead eel in its lair, and continues toward [[Fellburn]].
+The party clears the remaining shipwrecks and destroys the giant undead eel in its lair.
 
 #### Long
-The party finishes clearing eel-mutated undead from the submerged shipwrecks beneath [[Lake Rin]] and enters the natural tunnels inside the [[Lake Rin|Rinburg Rocks]]. They find the remains of [[Celeste]], [[Jehan]], [[Lucien]], [[Bastien]], and [[Eneko]], interrupt the process transforming them into eel zombies, and protect the most endangered bodies until they can return. With [[Armand]], [[Emilie]], and [[Odo Cordwaner]], the party finds and destroys the giant undead eel and its remaining servants. After recovering from the battle, they leave the lake and continue to [[Fellburn]], where they join the forces defending the city.
+The party finishes clearing eel-mutated undead from the submerged shipwrecks beneath [[Lake Rin]] and enters the natural tunnels inside the [[Lake Rin|Rinburg Rocks]]. They find the remains of [[Celeste]], [[Jehan]], [[Lucien]], [[Bastien]], and [[Eneko]], interrupt the process transforming them into eel zombies, and protect the most endangered bodies until they can return. With [[Armand]], [[Emilie]], and [[Odo Cordwaner]], the party destroys the giant undead eel and its remaining servants and returns to the surface.
+
+### 1720-01-18 to 1720-01-19
+
+- Timeline Segment: timeline-002
+- Timeline Key: (DR:: 1720-01-18) to (DR_end:: 1720-01-19)
+- Resolution: day
+- Beat IDs: recap-001
+- Locations: Rinburg, Cienne, Fellburn
+- NPCs: none
+- Organizations: none
+- Items: none
+- Combat Beats: none
+
+#### Short
+The party rides east from [[Rinburg]], stays in [[Cienne]], and reaches [[Fellburn]] as battle approaches.
+
+#### Long
+After accepting hospitality in Rinburg, the party rides east on January 18 and spends the night in [[Cienne]]. On January 19 they hurry to [[Fellburn]] as a battle is about to begin. The subsequent siege is preserved in the email correspondence.
 
 ## Recap
 
@@ -40,7 +60,7 @@ The party finishes clearing eel-mutated undead from the submerged shipwrecks ben
 
 - Kind: combat
 - Beat IDs: recap-001
-- Date: 1720-01-24
+- Date: 1720-01-17 to 1720-01-19
 - Time: day
 - Locations: Lake Rin, Fellburn
 - NPCs: Armand, Emilie, Odo Cordwaner, Celeste, Jehan, Lucien, Bastien, Eneko
@@ -95,3 +115,4 @@ The party finishes clearing eel-mutated undead from the submerged shipwrecks ben
 - [[Cleenseau - Session 14 - Original]]
 - [[01-cleenseau-blog-782461 - Original]]
 - [[Roleplaying Hooks (Email)]]
+- [[Siege of Fellburn (Email)]]
