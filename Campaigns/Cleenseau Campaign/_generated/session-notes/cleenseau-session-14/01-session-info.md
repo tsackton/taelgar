@@ -69,19 +69,19 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], and [[Celyn]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_date -->
-1720-01-24
+1720-01-17 to 1720-01-19
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_start -->
-1720-01-24
+1720-01-17
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_end -->
-1720-01-24
+1720-01-19
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
-(DR:: 1720-01-24)
+(DR:: 1720-01-17) to (DR:: 1720-01-19)
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
@@ -100,17 +100,21 @@ https://kiya.dreamwidth.org/782461.html
 > *Kiya's Recap: [We have determined that it is not, in fact, better down where it's wetter. Actually.](https://kiya.dreamwidth.org/782461.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
-- (DR:: 1720-01-24): The party clears the remaining shipwrecks, destroys the giant undead eel in its lair, and continues toward [[Fellburn]].
+- (DR:: 1720-01-17): The party clears the remaining shipwrecks and destroys the giant undead eel in its lair.
+- (DR:: 1720-01-18) to (DR_end:: 1720-01-19): The party rides east from [[Rinburg]], stays in [[Cienne]], and reaches [[Fellburn]] as battle approaches.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
 - [[Armand]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): priest of [[The Night Queen|the Night Queen]] who helps recover the dead and destroy the undead eel.
 - [[Emilie]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): young warrior who fights beside the party beneath the lake.
 - [[Odo Cordwaner]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): young fighter who fights beside the party beneath the lake.
-- [[Celeste]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): warrior from Rinburg whose remains the party protects from transformation.
-- [[Jehan]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): warrior from Rinburg whose remains the party protects from transformation.
-- [[Lucien]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): warrior from Rinburg whose remains the party protects from transformation.
+- [[Celeste]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): warrior from [[Rinburg]] whose remains the party protects from transformation.
+- [[Jehan]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): warrior from [[Rinburg]] whose remains the party protects from transformation.
+- [[Lucien]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): warrior from [[Rinburg]] whose remains the party protects from transformation.
 - [[Bastien]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): rogue from Zimka whose remains the party protects from transformation.
 - [[Eneko]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): lizardfolk druid from Ozabal whose remains the party protects from transformation.
 <!-- /SLOT -->

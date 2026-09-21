@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [meta, status/check/ai]
 ---
 
 The game begins in late October in the year 5852 since the birth of the world, as the [[Dwarves]] count, or as the year is more usually known in [[Sembara]], 7 Robert I, the 7th year of King [[Robert I]] of [[Sembara]]'s reign. Scholars of the ancient [[Drankorian Empire]] would say the year was DR 1719 and many across [[Greater Sembara]] would use those count of years.
@@ -57,6 +57,9 @@ The action begins just outside the market town of [[Cleenseau]].
 
 * March 31, 2024: [[Cleenseau - Session 13]]
 	The party investigates a lake monster
+
+* April 1–27, 2024: [[Cleenseau - Session 13.1]] (by email; in Taelgar, January 16th, evening)
+	The party talks with Corrine after dinner
 
 * April 28th, 2024: [[Cleenseau - Session 14]]
 	The party defeats a lake monster

@@ -1,0 +1,13 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: '13.1'
+realWorldDate: '2024-04-01'
+sourceTitle: An Evening in Corrine's House
+sourceAuthor: Mike Sackton and players
+drStart: '1720-01-16'
+drEnd: null
+sourceInputPath: ../sources/An Evening in Corrine's House - Authored Turns.md
+sourceConfigPath: ../sources/cleenseau-session013.1.yaml
+narrativeUnit: email turn

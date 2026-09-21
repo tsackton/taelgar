@@ -69,7 +69,7 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], and [[Celyn]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_date -->
-1720-01-16 to 1720-01-24
+1720-01-16 to 1720-01-17
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_start -->
@@ -77,11 +77,11 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], and [[Celyn]]
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_end -->
-1720-01-24
+1720-01-17
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
-(DR:: 1720-01-16) to (DR:: 1720-01-24)
+(DR:: 1720-01-16) to (DR:: 1720-01-17)
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
@@ -106,12 +106,13 @@ https://kiya.dreamwidth.org/782461.html
 - [[Rangers in Champimont]]
 - [[Champimont Rumors and Questions]]
 - [[Play by Email/At the Elegant Swan in Champimont]]
-- [[An Evening in Corrine's House]]
+- [[Cleenseau - Session 13.1|An Evening in Corrine's House]]
 - [[The Destruction of Eftly]]
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1720-01-16) to (DR_end:: 1720-01-24): The party reaches [[Lake Rin]], aids the sole survivor of a failed expedition, and begins clearing eel-mutated undead from the shipwrecks beneath the lake.
+- (DR:: 1720-01-16): The party reaches [[Enclaut]], finds and heals [[Corrine Morphokamia]], and accepts her hospitality for the night.
+- (DR:: 1720-01-17): The party tries to lure the eel ashore, then dives into [[Lake Rin]] and begins clearing zombies from the shipwrecks.
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->

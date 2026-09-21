@@ -6,7 +6,7 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-013
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1720-01-16) to (DR_end:: 1720-01-24): party ends at [[Lake Rin]].
+- Candidate party whereabouts: (DR:: 1720-01-17): party ends at [[Lake Rin]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -18,7 +18,8 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-013
 <!-- /SLOT -->
 
 <!-- SLOT: updates.timeline -->
-- (DR:: 1720-01-16) to (DR_end:: 1720-01-24): The party reaches [[Lake Rin]], aids the sole survivor of a failed expedition, and begins clearing eel-mutated undead from the shipwrecks beneath the lake.
+- (DR:: 1720-01-16): The party reaches [[Enclaut]], finds and heals [[Corrine Morphokamia]], and accepts her hospitality for the night.
+- (DR:: 1720-01-17): The party tries to lure the eel ashore, then dives into [[Lake Rin]] and begins clearing zombies from the shipwrecks.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
@@ -30,9 +31,4 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-013
 - Armand: appears in the final timeline block but has no parseable end-state history.
 - Emilie: appears in the final timeline block but has no parseable end-state history.
 - Odo Cordwaner: appears in the final timeline block but has no parseable end-state history.
-- Celeste: appears in the final timeline block but has no parseable end-state history.
-- Jehan: appears in the final timeline block but has no parseable end-state history.
-- Lucien: appears in the final timeline block but has no parseable end-state history.
-- Bastien: appears in the final timeline block but has no parseable end-state history.
-- Eneko: appears in the final timeline block but has no parseable end-state history.
 <!-- /SLOT -->

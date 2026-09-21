@@ -5,7 +5,7 @@ campaign: Cleenseau
 sessionNumber: 13
 players: [Robin, Viepuck, Celyn]
 DR: 1720-01-16
-DR_end: 1720-01-24
+DR_end: 1720-01-17
 realWorldDate: 2024-03-31
 name: Cleenseau - Session 13
 descTitle: Toward Lake Rin
@@ -19,12 +19,11 @@ The party travels south, exchanges information with the adventurers who defeated
 
 ## Timeline
 
-- The party travels along the [[Great South Road]] and reaches the settlements around Lake Rin.
-- The group finds and heals the surviving wizard from an earlier expedition against the eel.
-- After an unsuccessful attempt to drag the eel ashore, the combined party enters the lake under a water-breathing spell.
-- The party clears eel-mutated zombies from wrecked ships near the creature's lair.
+- (DR:: 1720-01-16): The party reaches [[Enclaut]], finds and heals [[Corrine Morphokamia]], and accepts her hospitality for the night.
+- (DR:: 1720-01-16), evening: The conversation played later by email is recorded in [[Cleenseau - Session 13.1]].
+- (DR:: 1720-01-17): The party tries to lure the eel ashore, then enters [[Lake Rin]] under Corrine's water-breathing spell and clears eel-mutated zombies from the wrecks.
 
-%% The Dreamwidth post combines sessions 13 and 14 and identifies the shipwreck fights as the earlier session. The precise division of events and in-world dates between the two sessions may need human confirmation. %%
+%% The Dreamwidth post combines sessions 13 and 14 and identifies the shipwreck fights as the earlier session. Its January 16–24 heading covers a wider period; [[Siege of Fellburn (Email)]] dates the party's eastward ride after the lake to January 18. %%
 
 ## Source
 
@@ -35,4 +34,4 @@ The party travels south, exchanges information with the adventurers who defeated
 - [[Rangers in Champimont]]
 - [[Champimont Rumors and Questions]]
 - [[Play by Email/At the Elegant Swan in Champimont]]
-- [[An Evening in Corrine's House]]
+- [[Cleenseau - Session 13.1|An Evening in Corrine's House]]
