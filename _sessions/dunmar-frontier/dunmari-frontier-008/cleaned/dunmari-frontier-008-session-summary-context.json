@@ -1,0 +1,1889 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 8,
+    "realWorldDate": "2020-09-03",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-12"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "locationRefs": [
+        "Raven's Hold",
+        "Raven's Hold approach",
+        "valley west of Raven's Hold"
+      ],
+      "npcRefs": [
+        "Departing centaurs",
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Riswynn's maps",
+        "Seeker's hypothetical maps",
+        "Numbered Dwarven stones"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party chooses a concealed mountain approach to Raven's Hold after reviewing the centaurs' warning and Riswynn's maps.",
+        "Seeker and Wellby follow numbered Dwarven stones to a gorge, where a rabbit tests the stream water and earns the name Taster."
+      ],
+      "sourceLongSummaries": [
+        "With the centaurs departing south to warn Candrosa, the party considers how to investigate Raven's Hold without exposing itself to the plains, insanity vines, or possibly poisoned water. Kenzo asks where the demonic creatures originate; the discussion leaves the connection between a portal, the storm, and the reported corruption unresolved. Seeker illustrates his ideas about shifting boundaries with hypothetical maps. Riswynn points out a hidden exit near the Long Road on her great-uncle's map, and the dwarves explain how stonework and markings might reveal a concealed entrance. The party decides to follow the stream in the valley west of Raven's Hold and look for a mountain route to the dwarven outpost.",
+        "On the rocky approach to the stream, Seeker notices a volcanic boulder out of place in the local geology and finds faint Dwarven runes reading 2300. With Wellby helping him search, he locates a worked granite stone marked 2100, and they follow a sequence of unusual stones counting down along the river valley. Near the expected 400-500 mark, a concealed inscription reads \"enter\" beside a steep gorge. The party finds no visible trap or obvious signs of corrupted water. Delwath sees nothing magical, and Seeker offers stream water to a caged rabbit, which drinks without any immediate ill effect. Seeker names it Taster; Riswynn jokes about calling the rabbits Taster and Tasty."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Choosing the Hidden Approach",
+          "boundaryReason": "The opening recap and route discussion stay with the party on the road below the mountains. The beat ends with the decision to leave the road and follow the stream; actual travel begins at u0345.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0344"
+          },
+          "shortSummary": "The party chooses a concealed mountain approach to Raven's Hold after reviewing the centaurs' warning and Riswynn's maps.",
+          "longSummary": "With the centaurs departing south to warn Candrosa, the party considers how to investigate Raven's Hold without exposing itself to the plains, insanity vines, or possibly poisoned water. Kenzo asks where the demonic creatures originate; the discussion leaves the connection between a portal, the storm, and the reported corruption unresolved. Seeker illustrates his ideas about shifting boundaries with hypothetical maps. Riswynn points out a hidden exit near the Long Road on her great-uncle's map, and the dwarves explain how stonework and markings might reveal a concealed entrance. The party decides to follow the stream in the valley west of Raven's Hold and look for a mountain route to the dwarven outpost.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Road below the mountain pass, west of the valley containing the fort",
+            "notes": "The party is still outside the hold. Its wall is visible to the east, beyond an intervening stream valley; a rotten, burning smell carries from that direction."
+          },
+          "npcDetails": [
+            {
+              "name": "Departing centaurs",
+              "role": "encountered",
+              "context": "Recent informants, now riding south",
+              "notes": "Visible in the distance heading toward Karawa to warn Candrosa. The party recalls their account of spreading corruption and poisoned water; the discussion does not establish a portal's location."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Intended recipient of the centaurs' warning",
+              "notes": "The centaurs are heading south to warn him and the Dunmari about the possible danger from spreading corruption."
+            },
+            {
+              "name": "Kisa",
+              "role": "mentioned",
+              "context": "Elder whose earlier account informs the discussion",
+              "notes": "Recalled as describing a brief period of attacks by similar hyena-headed creatures roughly thirty to forty years earlier."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Riswynn's maps",
+              "role": "encountered",
+              "notes": "Maps of Raven's Hold and its dwarven outpost, consulted together to plan entry. Her great-uncle's outpost map marks a hidden exit near the Long Road; the valley map places the Dunmari fort and dwarven outpost on opposite sides, connected by a road. An underground connection between them is not established by the maps."
+            },
+            {
+              "name": "Seeker's hypothetical maps",
+              "role": "encountered",
+              "notes": "Paired drawings with slight differences, flipped back and forth to illustrate his idea that boundaries and intersections are shifting; they express a hypothesis, not a confirmed account of planar changes."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Following the Dwarven Stones",
+          "boundaryReason": "Overland travel becomes a search following numbered stones into the river valley, ending with the water test and naming Taster. Entry into the gorge begins at u0597.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0345",
+            "endUid": "u0596"
+          },
+          "shortSummary": "Seeker and Wellby follow numbered Dwarven stones to a gorge, where a rabbit tests the stream water and earns the name Taster.",
+          "longSummary": "On the rocky approach to the stream, Seeker notices a volcanic boulder out of place in the local geology and finds faint Dwarven runes reading 2300. With Wellby helping him search, he locates a worked granite stone marked 2100, and they follow a sequence of unusual stones counting down along the river valley. Near the expected 400-500 mark, a concealed inscription reads \"enter\" beside a steep gorge. The party finds no visible trap or obvious signs of corrupted water. Delwath sees nothing magical, and Seeker offers stream water to a caged rabbit, which drinks without any immediate ill effect. Seeker names it Taster; Riswynn jokes about calling the rabbits Taster and Tasty.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold approach",
+              "valley west of Raven's Hold"
+            ],
+            "context": "Along the rocky foothills and upstream through the neighboring valley",
+            "notes": "Out-of-place or worked stones guide the route toward a steep, narrow gorge. The clear stream shows no obvious corruption during the party's checks; the test does not establish long-term safety."
+          },
+          "npcDetails": [
+            {
+              "name": "Taster",
+              "role": "companion",
+              "context": "Caged rabbit used to test the water",
+              "notes": "Seeker gives it stream water; it drinks without immediate ill effect and is named Taster. This is a living rabbit accompanying the party, not an object."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Numbered Dwarven stones",
+              "role": "encountered",
+              "notes": "A volcanic boulder marked 2300, worked granite marked 2100, and further unusual stones form a concealed trail. Their numbers appear to count down distance; near the gorge the last inscription says \"enter\" instead of giving a number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-003"
+      ],
+      "locationRefs": [
+        "valley west of Raven's Hold",
+        "Dwarven Outpost (Raven's Hold)"
+      ],
+      "npcRefs": [
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Enchanted spearpoint",
+        "Water-diversion chain and plate"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After leaving the horses at the gorge, Delwath scouts a submerged barrier and Riswynn pulls its chain to drain the passage."
+      ],
+      "sourceLongSummaries": [
+        "The gorge narrows into a low, dark tunnel that the horses cannot enter, so the party ties them near the water and continues with Taster. Kenzo uses an enchanted spearpoint for light. The water eventually fills the tunnel, with metal glinting about sixty feet ahead. Delwath swims against the current and finds a diagonal metal plate diverting falling water into the passage, with a looped chain set into the wall. He returns to report, and Riswynn goes forward to pull it. After sustained effort, she frees the stuck mechanism, the plate slides into the floor, and the water drops through a hole beyond it. She catches her breath without lasting ill effects, and the party can proceed."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Opening the Flooded Passage",
+          "boundaryReason": "The gorge narrows into the flooded tunnel: the party leaves its horses, investigates the submerged barrier, and Riswynn pulls the chain to drain the passage. Keep this single obstacle together; onward tunnel travel begins at u1086.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u0597",
+            "endUid": "u1085"
+          },
+          "shortSummary": "After leaving the horses at the gorge, Delwath scouts a submerged barrier and Riswynn pulls its chain to drain the passage.",
+          "longSummary": "The gorge narrows into a low, dark tunnel that the horses cannot enter, so the party ties them near the water and continues with Taster. Kenzo uses an enchanted spearpoint for light. The water eventually fills the tunnel, with metal glinting about sixty feet ahead. Delwath swims against the current and finds a diagonal metal plate diverting falling water into the passage, with a looped chain set into the wall. He returns to report, and Riswynn goes forward to pull it. After sustained effort, she frees the stuck mechanism, the plate slides into the floor, and the water drops through a hole beyond it. She catches her breath without lasting ill effects, and the party can proceed.",
+          "locationHints": {
+            "refs": [
+              "valley west of Raven's Hold",
+              "Dwarven Outpost (Raven's Hold)"
+            ],
+            "context": "Following the stream underground to a submerged water-diversion mechanism",
+            "notes": "The formerly natural gorge becomes a constructed passage too low for horses. Pulling the chain clears the route by redirecting the waterfall downward; it does not stop the waterfall."
+          },
+          "npcDetails": [
+            {
+              "name": "Taster",
+              "role": "companion",
+              "context": "Water-testing rabbit carried into the passage",
+              "notes": "Seeker explicitly takes Taster along when the horses are left behind; the party intends to watch for ill effects from the earlier drink."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Enchanted spearpoint",
+              "role": "encountered",
+              "notes": "Kenzo's light source, described as bearing Continual Light: a cold flame that remains alight underwater and can be covered with a hood."
+            },
+            {
+              "name": "Water-diversion chain and plate",
+              "role": "encountered",
+              "notes": "A loop of chain in the tunnel wall operates a diagonal metal plate. Riswynn frees the stuck mechanism, lowering the plate into the floor so the falling water drains through a hole and leaves a passage forward."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "locationRefs": [
+        "Dwarven Outpost (Raven's Hold)",
+        "Pool-cavern doorway",
+        "Dwarven Outpost",
+        "Pool cavern",
+        "Ruined marketplace"
+      ],
+      "npcRefs": [
+        "Taster",
+        "Inakara",
+        "Cavern inhabitants",
+        "Roper"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Guard-room lever",
+        "Illusory cave-in",
+        "Riswynn's ball bearings",
+        "Hidden-door stone knob",
+        "Riswynn's maps",
+        "Wellby's torches",
+        "Wellby's embedded arrow"
+      ],
+      "combatBeatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "sourceShortSummaries": [
+        "The party bypasses an unexplained lever, passes through illusory rubble, and opens a hidden door into the outpost.",
+        "Seeker bargains with Inakara for passage, while Kenzo finds no clear sign that her request for help is a trap.",
+        "Inakara leads the party to a ruined marketplace and demands that they kill the creature preying on her people.",
+        "A roper seizes Wellby and Delwath, and the party struggles against its hard hide before freeing the wounded halfling.",
+        "The party learns the roper moves slowly, shifts toward ranged attacks, and frees Riswynn by severing a tentacle.",
+        "An embedded arrow lets Seeker burn the roper with Heat Metal, and the party finishes it from beyond its reach before seeking passage onward."
+      ],
+      "sourceLongSummaries": [
+        "Beyond the drained passage, the party climbs a long spiral and a smooth round tunnel to a small guard chamber with a rusty lever, faint seams in the wall and ceiling, and stairs to a visible trapdoor. After debating possible traps, they leave the lever and concealed doorway alone; Seeker pulls down the trapdoor and an extending ladder opens the route east. Farther on, his hand passes through apparent rubble, exposing an illusion. Riswynn tosses ball bearings through it to test the floor, and Seeker crosses safely. From the other side they see an illusory lever suggesting a false cave-in. At a later blank wall, Wellby finds a small stone knob and opens a secret door.",
+        "The door opens into a large cavern with two low pools, raised walkways, refuse, straw, and scattered animal bones. A startled dwarf-sized woman with white hair, black nails, and bruised-looking purple-gray skin sits among companions on a makeshift stone throne. Riswynn fears undead, but the DM confirms that these creatures are not undead. Inakara speaks broken Dwarven, hisses, and licks her fingers and a chalky stone. Seeker offers peaceful intentions and asks for safe passage. She demands help first, asking whether the party can fight. Kenzo's lore suggests unfamiliar creatures of the deep earth; his Soul Sight and Insight suggest that she genuinely wants something done, without establishing that she is trustworthy.",
+        "Inakara leads the party across the pool cavern, shying away from Kenzo's light and commanding the attention of roughly thirty inhabitants with taps of her staff. At a vast adjoining cavern she tells the others that the party will kill the threat, then urges the visitors forward. Asked what they face, she says it does not speak, eats her people, and has a dangerous bite, but offers no useful method of defeating it. The party recognizes the ruined marketplace on Riswynn's map: shops, a building to the north, and sculpted stalagmites around a stone dais. Wellby lights two torches and throws one ahead. They advance toward cover while the inhabitants gather behind them.",
+        "A tentacle lashes from an apparent stalagmite, catching Wellby and beginning combat. Delwath places Hex on the creature, but his sword and Riswynn's Guiding Bolt fail to penetrate its stony defenses; another tendril catches him. Seeker gives Wellby a glowing calamari image as inspiration and uses Thunderwave to crack, but not sever, a tentacle. With Kenzo's help, Delwath wriggles free and adds Hexblade's Curse. The roper reels Wellby into its mouth, bites him for fourteen damage, and catches Delwath again. Riswynn's hammer cannot free Delwath, but Wellby uses Seeker's inspiration to escape the tentacle’s grasp and disengage into cover, dropping his torch along the way.",
+        "Kenzo uses Soul Sight to assess the roper: it has substantial remaining vitality, no general resistance or vulnerability, and tendrils immune to poison and psychic damage. Seeker heals Wellby with Healing Word and examines the rock garden, concluding that the creature has displaced a sculpture and can probably move only slowly on its small tendrils. Delwath escapes his renewed restraint with Misty Step onto a nearby roof and begins attacking from farther away. The creature catches Riswynn, whose attempt to break free fails. Wellby retreats to a clear firing line and lands a glancing arrow. Kenzo's Fist of Planar Power tears apart the tendril holding Riswynn, freeing her and finally dealing a substantial blow.",
+        "Seeker first considers heating Wellby's arrow, but the glancing hit has not left it embedded. After the party spreads out and several attacks miss, Wellby lands a stronger shot that lodges in the creature. Kenzo readies a response if another companion is grabbed. Seeker steps close enough to cast Heat Metal on the arrowhead, then withdraws; Delwath lands an Eldritch Blast enhanced by Hex and his curse and repositions to pull the enemy away from the others. Unable to close the distance fast enough, the roper is worn down by the heated arrow and ranged attacks until it falls. The inhabitants cheer and Inakara takes credit. Asked for the promised route toward Raven's Hold, she points across the cavern and tells them to make their own safe passage; they have not yet crossed it."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "Levers, Ladders, and Illusions",
+          "boundaryReason": "Onward travel leads through the spiral ascent, guard chamber, untested lever, ladder, and illusory rubble to the final hidden door. Its opening completes the passage exploration; the inhabited cavern is described from u1383.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1086",
+            "endUid": "u1382"
+          },
+          "shortSummary": "The party bypasses an unexplained lever, passes through illusory rubble, and opens a hidden door into the outpost.",
+          "longSummary": "Beyond the drained passage, the party climbs a long spiral and a smooth round tunnel to a small guard chamber with a rusty lever, faint seams in the wall and ceiling, and stairs to a visible trapdoor. After debating possible traps, they leave the lever and concealed doorway alone; Seeker pulls down the trapdoor and an extending ladder opens the route east. Farther on, his hand passes through apparent rubble, exposing an illusion. Riswynn tosses ball bearings through it to test the floor, and Seeker crosses safely. From the other side they see an illusory lever suggesting a false cave-in. At a later blank wall, Wellby finds a small stone knob and opens a secret door.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost (Raven's Hold)",
+              "Pool-cavern doorway"
+            ],
+            "context": "Spiral ascent, guard chamber, eastward tunnel, and hidden doorway",
+            "notes": "The guard chamber's lever and concealed opening are not tested. The later rubble proves illusory, and a separate small knob opens the final blank wall."
+          },
+          "npcDetails": [
+            {
+              "name": "Taster",
+              "role": "companion",
+              "context": "Rabbit present during the rubble investigation",
+              "notes": "Kenzo proposes using Taster to test the apparent obstruction; the rabbit is protected and the party uses ball bearings instead."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Guard-room lever",
+              "role": "encountered",
+              "notes": "Rusty lever beside a concealed opening with seams extending onto the ceiling. The party suspects a trap but leaves it untouched, so its function remains unknown."
+            },
+            {
+              "name": "Illusory cave-in",
+              "role": "encountered",
+              "notes": "An apparent pile of rubble that has no physical substance. A matching illusory lever on the far side suggests a false collapse intended to discourage pursuit; that purpose is the party's interpretation."
+            },
+            {
+              "name": "Riswynn's ball bearings",
+              "role": "encountered",
+              "notes": "Small metal balls thrown through the false rubble; the sound of them bouncing confirms a stone floor before Seeker steps through."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "mentioned",
+              "notes": "Seeker's floating disc is considered for testing the illusory rubble, but its inability to move within twenty feet of him makes that plan unsuitable; it is not used here."
+            },
+            {
+              "name": "Hidden-door stone knob",
+              "role": "encountered",
+              "notes": "Small movable stone knob in an indentation to the left of a blank wall, found and operated by Wellby to open the door into the inhabited cavern."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Bargaining with the Cavern's Ruler",
+          "boundaryReason": "The opened door reveals an occupied pool cavern and its white-haired ruler. The party establishes contact, seeks passage, agrees to help fight a threat, and assesses her intentions. She begins leading them onward at u1659.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1383",
+            "endUid": "u1658"
+          },
+          "shortSummary": "Seeker bargains with Inakara for passage, while Kenzo finds no clear sign that her request for help is a trap.",
+          "longSummary": "The door opens into a large cavern with two low pools, raised walkways, refuse, straw, and scattered animal bones. A startled dwarf-sized woman with white hair, black nails, and bruised-looking purple-gray skin sits among companions on a makeshift stone throne. Riswynn fears undead, but the DM confirms that these creatures are not undead. Inakara speaks broken Dwarven, hisses, and licks her fingers and a chalky stone. Seeker offers peaceful intentions and asks for safe passage. She demands help first, asking whether the party can fight. Kenzo's lore suggests unfamiliar creatures of the deep earth; his Soul Sight and Insight suggest that she genuinely wants something done, without establishing that she is trustworthy.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Inhabited cavern with two pools and a raised platform",
+            "notes": "The party enters through the concealed door. Walkways border the pools and cross the cavern; the water appears lower than it once was, and the space now serves as living quarters."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Dwarf-sized ruler of the occupied pool cavern",
+              "notes": "White-haired, with long black nails and bruised-looking purple-gray skin; speaks broken Dwarven, hisses, and tastes objects. She demands fighting help before granting passage. Her canonical identity matches the vault note and Session 8 account, but her name is not spoken in this transcript; no species identification is established here."
+            },
+            {
+              "name": "Cavern inhabitants",
+              "role": "encountered",
+              "context": "Unfamiliar dwarf-sized creatures living around the pools",
+              "notes": "Several stand beside Inakara and more gather in the shadows. At least one nearby companion has metal armor and a spear. The party does not recognize their kind, and the DM explicitly rules out undead."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Into the Ruined Marketplace",
+          "boundaryReason": "The ruler leads the party across the pools to a large former marketplace. They question her about the threat, inspect the cavern, light it with torches, and advance. The first tentacle attack at u1849 is a clear combat boundary.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1659",
+            "endUid": "u1848"
+          },
+          "shortSummary": "Inakara leads the party to a ruined marketplace and demands that they kill the creature preying on her people.",
+          "longSummary": "Inakara leads the party across the pool cavern, shying away from Kenzo's light and commanding the attention of roughly thirty inhabitants with taps of her staff. At a vast adjoining cavern she tells the others that the party will kill the threat, then urges the visitors forward. Asked what they face, she says it does not speak, eats her people, and has a dangerous bite, but offers no useful method of defeating it. The party recognizes the ruined marketplace on Riswynn's map: shops, a building to the north, and sculpted stalagmites around a stone dais. Wellby lights two torches and throws one ahead. They advance toward cover while the inhabitants gather behind them.",
+          "locationHints": {
+            "refs": [
+              "Pool cavern",
+              "Ruined marketplace"
+            ],
+            "context": "Across the central walkway and into a large adjoining cavern",
+            "notes": "The marketplace contains ruined shops, a tall ceiling, buildings, a stone dais, and a garden of shaped rock formations. The threat has not yet revealed itself."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Guide pressing the party into a fight",
+              "notes": "Draws back from Kenzo's light, leads the party into the marketplace, and warns of a creature that eats her people and bites; she does not explain how to kill it."
+            },
+            {
+              "name": "Cavern inhabitants",
+              "role": "encountered",
+              "context": "Inakara's followers and the creature's reported prey",
+              "notes": "Roughly thirty watch the party cross the pools and respond to Inakara's staff taps; some gather behind the adventurers at the marketplace."
+            },
+            {
+              "name": "Roper",
+              "role": "mentioned",
+              "context": "As-yet unseen predator in the marketplace",
+              "notes": "Inakara describes a creature that does not speak and eats her people, warning of its bite. The canonical name is supplied by the matching Session 8 account, not by her dialogue."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Riswynn's maps",
+              "role": "encountered",
+              "notes": "The party matches its surroundings to the dwarven outpost map's marketplace; markings suggest other spaces above or below, but these are not explored."
+            },
+            {
+              "name": "Wellby's torches",
+              "role": "encountered",
+              "notes": "Two torches lit before entering the marketplace. One is thrown into the cavern to illuminate the approach; Wellby continues holding the other."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Caught by Stone Tentacles",
+          "boundaryReason": "First phase of one continuous fight: the ambush catches Wellby, Delwath is also restrained, initial attacks fail, Thunderwave damages a tendril, and Wellby survives a bite and escapes with inspiration. End after his disengagement into cover; Kenzo begins assessing the creature at u2227.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1849",
+            "endUid": "u2226"
+          },
+          "shortSummary": "A roper seizes Wellby and Delwath, and the party struggles against its hard hide before freeing the wounded halfling.",
+          "longSummary": "A tentacle lashes from an apparent stalagmite, catching Wellby and beginning combat. Delwath places Hex on the creature, but his sword and Riswynn's Guiding Bolt fail to penetrate its stony defenses; another tendril catches him. Seeker gives Wellby a glowing calamari image as inspiration and uses Thunderwave to crack, but not sever, a tentacle. With Kenzo's help, Delwath wriggles free and adds Hexblade's Curse. The roper reels Wellby into its mouth, bites him for fourteen damage, and catches Delwath again. Riswynn's hammer cannot free Delwath, but Wellby uses Seeker's inspiration to escape the tentacle’s grasp and disengage into cover, dropping his torch along the way.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, among the stone formations near the approach",
+            "notes": "The roper initially remains among the rock sculptures while its long tendrils restrain and reel in targets. Nearby formations provide partial cover."
+          },
+          "npcDetails": [
+            {
+              "name": "Roper",
+              "role": "enemy",
+              "context": "Stalagmite-like ambush predator",
+              "notes": "A hard-bodied creature with long sticky tentacles that restrain prey, draw them inward, and expose them to a powerful bite. Its stony appearance does not establish that it is literally made of stone."
+            },
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Spectator who sent the party into the fight",
+              "notes": "Watches from behind the party and is described as slightly chuckling while the adventurers struggle."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wellby's torches",
+              "role": "encountered",
+              "notes": "The torch carried into the encounter limits Wellby's ability to hide. After escaping, he drops it before moving away; the earlier thrown torch already lights the cavern."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Roper",
+                "notes": "One roper concealed among the marketplace's rock formations."
+              }
+            ],
+            "notes": "First phase of the same combat continued in beats 008-009. Wellby is bitten but escapes; Delwath remains restrained again at the end of this phase."
+          }
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Breaking Free and Finding Range",
+          "boundaryReason": "Second phase of the same fight: Soul Sight and investigation clarify the enemy's defenses and limited mobility, Delwath teleports onto a roof, and ranged tactics develop. Kenzo severs the tendril holding Riswynn; the next beat starts with Seeker proposing the arrow-and-Heat-Metal combination.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2227",
+            "endUid": "u2556"
+          },
+          "shortSummary": "The party learns the roper moves slowly, shifts toward ranged attacks, and frees Riswynn by severing a tentacle.",
+          "longSummary": "Kenzo uses Soul Sight to assess the roper: it has substantial remaining vitality, no general resistance or vulnerability, and tendrils immune to poison and psychic damage. Seeker heals Wellby with Healing Word and examines the rock garden, concluding that the creature has displaced a sculpture and can probably move only slowly on its small tendrils. Delwath escapes his renewed restraint with Misty Step onto a nearby roof and begins attacking from farther away. The creature catches Riswynn, whose attempt to break free fails. Wellby retreats to a clear firing line and lands a glancing arrow. Kenzo's Fist of Planar Power tears apart the tendril holding Riswynn, freeing her and finally dealing a substantial blow.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, spreading toward the rooftops and outer firing lanes",
+            "notes": "Delwath teleports to a nearby building's roof while the others seek distance and cover. Investigation suggests the roper can move slowly; it has not been proven immobile."
+          },
+          "npcDetails": [
+            {
+              "name": "Roper",
+              "role": "enemy",
+              "context": "Slow-moving predator with heavily defended flesh",
+              "notes": "Kenzo finds no general resistance or vulnerability, but the tendrils are immune to poison and psychic damage. Seeker sees small tendrils at its base and signs that it displaced a stone sculpture, suggesting that it moves slowly."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Roper",
+                "notes": "The same roper, now assessed as slow-moving and increasingly exposed to ranged attacks."
+              }
+            ],
+            "notes": "Continuation of beat-007. Seeker heals Wellby, Delwath teleports free, Riswynn is caught, and Kenzo severs her restraining tendril; the enemy is still alive."
+          }
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Burning Arrow, Fallen Monster",
+          "boundaryReason": "Final phase and immediate aftermath of the same fight: the initial glancing arrow cannot be heated, a later shot lodges, and Heat Metal and ranged attacks finish the creature. Keep the short victory exchange, directions onward, and closing table scheduling attached rather than creating a tiny final beat.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2557",
+            "endUid": "u2907"
+          },
+          "shortSummary": "An embedded arrow lets Seeker burn the roper with Heat Metal, and the party finishes it from beyond its reach before seeking passage onward.",
+          "longSummary": "Seeker first considers heating Wellby's arrow, but the glancing hit has not left it embedded. After the party spreads out and several attacks miss, Wellby lands a stronger shot that lodges in the creature. Kenzo readies a response if another companion is grabbed. Seeker steps close enough to cast Heat Metal on the arrowhead, then withdraws; Delwath lands an Eldritch Blast enhanced by Hex and his curse and repositions to pull the enemy away from the others. Unable to close the distance fast enough, the roper is worn down by the heated arrow and ranged attacks until it falls. The inhabitants cheer and Inakara takes credit. Asked for the promised route toward Raven's Hold, she points across the cavern and tells them to make their own safe passage; they have not yet crossed it.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, after the roper’s defeat",
+            "notes": "The party exploits the creature's limited movement and remains beyond its effective reach. Afterward Inakara indicates a door across the dark cavern, but its destination and safety are not verified by travel in this session."
+          },
+          "npcDetails": [
+            {
+              "name": "Roper",
+              "role": "enemy",
+              "context": "Predator defeated by distance and sustained ranged damage",
+              "notes": "Wellby embeds an arrow that Seeker heats. The creature can move only ten feet per turn, cannot catch the retreating adventurers, and is killed."
+            },
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Cavern ruler claiming credit for the victory",
+              "notes": "Tells her followers she has fixed their problem. When asked for safe passage onward, she merely points to a door across the cavern and tells the party to make passage safe for themselves."
+            },
+            {
+              "name": "Cavern inhabitants",
+              "role": "encountered",
+              "context": "Onlookers relieved at the predator's defeat",
+              "notes": "Watch the party defeat the roper and respond with cheering and laughter."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wellby's embedded arrow",
+              "role": "encountered",
+              "notes": "A metal-headed arrow that lodges in the roper on a later shot. Seeker uses Heat Metal on its head to deal sustained damage while staying out of reach; the earlier glancing arrow could not support this tactic."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Roper",
+                "notes": "The same roper, killed after failing to close on the party."
+              }
+            ],
+            "notes": "Concludes the combat begun in beat-007. The final attacks are resolved as a short sustained volley once the party has established that the creature cannot reach them; the aftermath remains in this beat."
+          }
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Following the Hidden Route",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0596"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0344"
+        },
+        {
+          "startUid": "u0345",
+          "endUid": "u0596"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold",
+        "Raven's Hold approach",
+        "valley west of Raven's Hold"
+      ],
+      "npcRefs": [
+        "Departing centaurs",
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Riswynn's maps",
+        "Seeker's hypothetical maps",
+        "Numbered Dwarven stones"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party chooses a concealed mountain approach to Raven's Hold after reviewing the centaurs' warning and Riswynn's maps.",
+        "Seeker and Wellby follow numbered Dwarven stones to a gorge, where a rabbit tests the stream water and earns the name Taster."
+      ],
+      "sourceLongSummaries": [
+        "With the centaurs departing south to warn Candrosa, the party considers how to investigate Raven's Hold without exposing itself to the plains, insanity vines, or possibly poisoned water. Kenzo asks where the demonic creatures originate; the discussion leaves the connection between a portal, the storm, and the reported corruption unresolved. Seeker illustrates his ideas about shifting boundaries with hypothetical maps. Riswynn points out a hidden exit near the Long Road on her great-uncle's map, and the dwarves explain how stonework and markings might reveal a concealed entrance. The party decides to follow the stream in the valley west of Raven's Hold and look for a mountain route to the dwarven outpost.",
+        "On the rocky approach to the stream, Seeker notices a volcanic boulder out of place in the local geology and finds faint Dwarven runes reading 2300. With Wellby helping him search, he locates a worked granite stone marked 2100, and they follow a sequence of unusual stones counting down along the river valley. Near the expected 400-500 mark, a concealed inscription reads \"enter\" beside a steep gorge. The party finds no visible trap or obvious signs of corrupted water. Delwath sees nothing magical, and Seeker offers stream water to a caged rabbit, which drinks without any immediate ill effect. Seeker names it Taster; Riswynn jokes about calling the rabbits Taster and Tasty."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Choosing the Hidden Approach",
+          "boundaryReason": "The opening recap and route discussion stay with the party on the road below the mountains. The beat ends with the decision to leave the road and follow the stream; actual travel begins at u0345.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0344"
+          },
+          "shortSummary": "The party chooses a concealed mountain approach to Raven's Hold after reviewing the centaurs' warning and Riswynn's maps.",
+          "longSummary": "With the centaurs departing south to warn Candrosa, the party considers how to investigate Raven's Hold without exposing itself to the plains, insanity vines, or possibly poisoned water. Kenzo asks where the demonic creatures originate; the discussion leaves the connection between a portal, the storm, and the reported corruption unresolved. Seeker illustrates his ideas about shifting boundaries with hypothetical maps. Riswynn points out a hidden exit near the Long Road on her great-uncle's map, and the dwarves explain how stonework and markings might reveal a concealed entrance. The party decides to follow the stream in the valley west of Raven's Hold and look for a mountain route to the dwarven outpost.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Road below the mountain pass, west of the valley containing the fort",
+            "notes": "The party is still outside the hold. Its wall is visible to the east, beyond an intervening stream valley; a rotten, burning smell carries from that direction."
+          },
+          "npcDetails": [
+            {
+              "name": "Departing centaurs",
+              "role": "encountered",
+              "context": "Recent informants, now riding south",
+              "notes": "Visible in the distance heading toward Karawa to warn Candrosa. The party recalls their account of spreading corruption and poisoned water; the discussion does not establish a portal's location."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "context": "Intended recipient of the centaurs' warning",
+              "notes": "The centaurs are heading south to warn him and the Dunmari about the possible danger from spreading corruption."
+            },
+            {
+              "name": "Kisa",
+              "role": "mentioned",
+              "context": "Elder whose earlier account informs the discussion",
+              "notes": "Recalled as describing a brief period of attacks by similar hyena-headed creatures roughly thirty to forty years earlier."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Riswynn's maps",
+              "role": "encountered",
+              "notes": "Maps of Raven's Hold and its dwarven outpost, consulted together to plan entry. Her great-uncle's outpost map marks a hidden exit near the Long Road; the valley map places the Dunmari fort and dwarven outpost on opposite sides, connected by a road. An underground connection between them is not established by the maps."
+            },
+            {
+              "name": "Seeker's hypothetical maps",
+              "role": "encountered",
+              "notes": "Paired drawings with slight differences, flipped back and forth to illustrate his idea that boundaries and intersections are shifting; they express a hypothesis, not a confirmed account of planar changes."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Following the Dwarven Stones",
+          "boundaryReason": "Overland travel becomes a search following numbered stones into the river valley, ending with the water test and naming Taster. Entry into the gorge begins at u0597.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0345",
+            "endUid": "u0596"
+          },
+          "shortSummary": "Seeker and Wellby follow numbered Dwarven stones to a gorge, where a rabbit tests the stream water and earns the name Taster.",
+          "longSummary": "On the rocky approach to the stream, Seeker notices a volcanic boulder out of place in the local geology and finds faint Dwarven runes reading 2300. With Wellby helping him search, he locates a worked granite stone marked 2100, and they follow a sequence of unusual stones counting down along the river valley. Near the expected 400-500 mark, a concealed inscription reads \"enter\" beside a steep gorge. The party finds no visible trap or obvious signs of corrupted water. Delwath sees nothing magical, and Seeker offers stream water to a caged rabbit, which drinks without any immediate ill effect. Seeker names it Taster; Riswynn jokes about calling the rabbits Taster and Tasty.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold approach",
+              "valley west of Raven's Hold"
+            ],
+            "context": "Along the rocky foothills and upstream through the neighboring valley",
+            "notes": "Out-of-place or worked stones guide the route toward a steep, narrow gorge. The clear stream shows no obvious corruption during the party's checks; the test does not establish long-term safety."
+          },
+          "npcDetails": [
+            {
+              "name": "Taster",
+              "role": "companion",
+              "context": "Caged rabbit used to test the water",
+              "notes": "Seeker gives it stream water; it drinks without immediate ill effect and is named Taster. This is a living rabbit accompanying the party, not an object."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Numbered Dwarven stones",
+              "role": "encountered",
+              "notes": "A volcanic boulder marked 2300, worked granite marked 2100, and further unusual stones form a concealed trail. Their numbers appear to count down distance; near the gorge the last inscription says \"enter\" instead of giving a number."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Through Water and Illusion",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0597",
+        "endUid": "u1382"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0597",
+          "endUid": "u1085"
+        },
+        {
+          "startUid": "u1086",
+          "endUid": "u1382"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "valley west of Raven's Hold",
+        "Dwarven Outpost (Raven's Hold)",
+        "Pool-cavern doorway"
+      ],
+      "npcRefs": [
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Enchanted spearpoint",
+        "Water-diversion chain and plate",
+        "Guard-room lever",
+        "Illusory cave-in",
+        "Riswynn's ball bearings",
+        "Hidden-door stone knob"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After leaving the horses at the gorge, Delwath scouts a submerged barrier and Riswynn pulls its chain to drain the passage.",
+        "The party bypasses an unexplained lever, passes through illusory rubble, and opens a hidden door into the outpost."
+      ],
+      "sourceLongSummaries": [
+        "The gorge narrows into a low, dark tunnel that the horses cannot enter, so the party ties them near the water and continues with Taster. Kenzo uses an enchanted spearpoint for light. The water eventually fills the tunnel, with metal glinting about sixty feet ahead. Delwath swims against the current and finds a diagonal metal plate diverting falling water into the passage, with a looped chain set into the wall. He returns to report, and Riswynn goes forward to pull it. After sustained effort, she frees the stuck mechanism, the plate slides into the floor, and the water drops through a hole beyond it. She catches her breath without lasting ill effects, and the party can proceed.",
+        "Beyond the drained passage, the party climbs a long spiral and a smooth round tunnel to a small guard chamber with a rusty lever, faint seams in the wall and ceiling, and stairs to a visible trapdoor. After debating possible traps, they leave the lever and concealed doorway alone; Seeker pulls down the trapdoor and an extending ladder opens the route east. Farther on, his hand passes through apparent rubble, exposing an illusion. Riswynn tosses ball bearings through it to test the floor, and Seeker crosses safely. From the other side they see an illusory lever suggesting a false cave-in. At a later blank wall, Wellby finds a small stone knob and opens a secret door."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Opening the Flooded Passage",
+          "boundaryReason": "The gorge narrows into the flooded tunnel: the party leaves its horses, investigates the submerged barrier, and Riswynn pulls the chain to drain the passage. Keep this single obstacle together; onward tunnel travel begins at u1086.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "midday",
+          "sourceRange": {
+            "startUid": "u0597",
+            "endUid": "u1085"
+          },
+          "shortSummary": "After leaving the horses at the gorge, Delwath scouts a submerged barrier and Riswynn pulls its chain to drain the passage.",
+          "longSummary": "The gorge narrows into a low, dark tunnel that the horses cannot enter, so the party ties them near the water and continues with Taster. Kenzo uses an enchanted spearpoint for light. The water eventually fills the tunnel, with metal glinting about sixty feet ahead. Delwath swims against the current and finds a diagonal metal plate diverting falling water into the passage, with a looped chain set into the wall. He returns to report, and Riswynn goes forward to pull it. After sustained effort, she frees the stuck mechanism, the plate slides into the floor, and the water drops through a hole beyond it. She catches her breath without lasting ill effects, and the party can proceed.",
+          "locationHints": {
+            "refs": [
+              "valley west of Raven's Hold",
+              "Dwarven Outpost (Raven's Hold)"
+            ],
+            "context": "Following the stream underground to a submerged water-diversion mechanism",
+            "notes": "The formerly natural gorge becomes a constructed passage too low for horses. Pulling the chain clears the route by redirecting the waterfall downward; it does not stop the waterfall."
+          },
+          "npcDetails": [
+            {
+              "name": "Taster",
+              "role": "companion",
+              "context": "Water-testing rabbit carried into the passage",
+              "notes": "Seeker explicitly takes Taster along when the horses are left behind; the party intends to watch for ill effects from the earlier drink."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Enchanted spearpoint",
+              "role": "encountered",
+              "notes": "Kenzo's light source, described as bearing Continual Light: a cold flame that remains alight underwater and can be covered with a hood."
+            },
+            {
+              "name": "Water-diversion chain and plate",
+              "role": "encountered",
+              "notes": "A loop of chain in the tunnel wall operates a diagonal metal plate. Riswynn frees the stuck mechanism, lowering the plate into the floor so the falling water drains through a hole and leaves a passage forward."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Levers, Ladders, and Illusions",
+          "boundaryReason": "Onward travel leads through the spiral ascent, guard chamber, untested lever, ladder, and illusory rubble to the final hidden door. Its opening completes the passage exploration; the inhabited cavern is described from u1383.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1086",
+            "endUid": "u1382"
+          },
+          "shortSummary": "The party bypasses an unexplained lever, passes through illusory rubble, and opens a hidden door into the outpost.",
+          "longSummary": "Beyond the drained passage, the party climbs a long spiral and a smooth round tunnel to a small guard chamber with a rusty lever, faint seams in the wall and ceiling, and stairs to a visible trapdoor. After debating possible traps, they leave the lever and concealed doorway alone; Seeker pulls down the trapdoor and an extending ladder opens the route east. Farther on, his hand passes through apparent rubble, exposing an illusion. Riswynn tosses ball bearings through it to test the floor, and Seeker crosses safely. From the other side they see an illusory lever suggesting a false cave-in. At a later blank wall, Wellby finds a small stone knob and opens a secret door.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost (Raven's Hold)",
+              "Pool-cavern doorway"
+            ],
+            "context": "Spiral ascent, guard chamber, eastward tunnel, and hidden doorway",
+            "notes": "The guard chamber's lever and concealed opening are not tested. The later rubble proves illusory, and a separate small knob opens the final blank wall."
+          },
+          "npcDetails": [
+            {
+              "name": "Taster",
+              "role": "companion",
+              "context": "Rabbit present during the rubble investigation",
+              "notes": "Kenzo proposes using Taster to test the apparent obstruction; the rabbit is protected and the party uses ball bearings instead."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Guard-room lever",
+              "role": "encountered",
+              "notes": "Rusty lever beside a concealed opening with seams extending onto the ceiling. The party suspects a trap but leaves it untouched, so its function remains unknown."
+            },
+            {
+              "name": "Illusory cave-in",
+              "role": "encountered",
+              "notes": "An apparent pile of rubble that has no physical substance. A matching illusory lever on the far side suggests a false collapse intended to discourage pursuit; that purpose is the party's interpretation."
+            },
+            {
+              "name": "Riswynn's ball bearings",
+              "role": "encountered",
+              "notes": "Small metal balls thrown through the false rubble; the sound of them bouncing confirms a stone floor before Seeker steps through."
+            },
+            {
+              "name": "Floating Disc Coin",
+              "role": "mentioned",
+              "notes": "Seeker's floating disc is considered for testing the illusory rubble, but its inability to move within twenty feet of him makes that plan unsuitable; it is not used here."
+            },
+            {
+              "name": "Hidden-door stone knob",
+              "role": "encountered",
+              "notes": "Small movable stone knob in an indentation to the left of a blank wall, found and operated by Wellby to open the door into the inhabited cavern."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "The Price of Passage",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u1383",
+        "endUid": "u1848"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1383",
+          "endUid": "u1658"
+        },
+        {
+          "startUid": "u1659",
+          "endUid": "u1848"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost",
+        "Pool cavern",
+        "Ruined marketplace"
+      ],
+      "npcRefs": [
+        "Inakara",
+        "Cavern inhabitants"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Riswynn's maps",
+        "Wellby's torches"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Seeker bargains with Inakara for passage, while Kenzo finds no clear sign that her request for help is a trap.",
+        "Inakara leads the party to a ruined marketplace and demands that they kill the creature preying on her people."
+      ],
+      "sourceLongSummaries": [
+        "The door opens into a large cavern with two low pools, raised walkways, refuse, straw, and scattered animal bones. A startled dwarf-sized woman with white hair, black nails, and bruised-looking purple-gray skin sits among companions on a makeshift stone throne. Riswynn fears undead, but the DM confirms that these creatures are not undead. Inakara speaks broken Dwarven, hisses, and licks her fingers and a chalky stone. Seeker offers peaceful intentions and asks for safe passage. She demands help first, asking whether the party can fight. Kenzo's lore suggests unfamiliar creatures of the deep earth; his Soul Sight and Insight suggest that she genuinely wants something done, without establishing that she is trustworthy.",
+        "Inakara leads the party across the pool cavern, shying away from Kenzo's light and commanding the attention of roughly thirty inhabitants with taps of her staff. At a vast adjoining cavern she tells the others that the party will kill the threat, then urges the visitors forward. Asked what they face, she says it does not speak, eats her people, and has a dangerous bite, but offers no useful method of defeating it. The party recognizes the ruined marketplace on Riswynn's map: shops, a building to the north, and sculpted stalagmites around a stone dais. Wellby lights two torches and throws one ahead. They advance toward cover while the inhabitants gather behind them."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Bargaining with the Cavern's Ruler",
+          "boundaryReason": "The opened door reveals an occupied pool cavern and its white-haired ruler. The party establishes contact, seeks passage, agrees to help fight a threat, and assesses her intentions. She begins leading them onward at u1659.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1383",
+            "endUid": "u1658"
+          },
+          "shortSummary": "Seeker bargains with Inakara for passage, while Kenzo finds no clear sign that her request for help is a trap.",
+          "longSummary": "The door opens into a large cavern with two low pools, raised walkways, refuse, straw, and scattered animal bones. A startled dwarf-sized woman with white hair, black nails, and bruised-looking purple-gray skin sits among companions on a makeshift stone throne. Riswynn fears undead, but the DM confirms that these creatures are not undead. Inakara speaks broken Dwarven, hisses, and licks her fingers and a chalky stone. Seeker offers peaceful intentions and asks for safe passage. She demands help first, asking whether the party can fight. Kenzo's lore suggests unfamiliar creatures of the deep earth; his Soul Sight and Insight suggest that she genuinely wants something done, without establishing that she is trustworthy.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Inhabited cavern with two pools and a raised platform",
+            "notes": "The party enters through the concealed door. Walkways border the pools and cross the cavern; the water appears lower than it once was, and the space now serves as living quarters."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Dwarf-sized ruler of the occupied pool cavern",
+              "notes": "White-haired, with long black nails and bruised-looking purple-gray skin; speaks broken Dwarven, hisses, and tastes objects. She demands fighting help before granting passage. Her canonical identity matches the vault note and Session 8 account, but her name is not spoken in this transcript; no species identification is established here."
+            },
+            {
+              "name": "Cavern inhabitants",
+              "role": "encountered",
+              "context": "Unfamiliar dwarf-sized creatures living around the pools",
+              "notes": "Several stand beside Inakara and more gather in the shadows. At least one nearby companion has metal armor and a spear. The party does not recognize their kind, and the DM explicitly rules out undead."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Into the Ruined Marketplace",
+          "boundaryReason": "The ruler leads the party across the pools to a large former marketplace. They question her about the threat, inspect the cavern, light it with torches, and advance. The first tentacle attack at u1849 is a clear combat boundary.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1659",
+            "endUid": "u1848"
+          },
+          "shortSummary": "Inakara leads the party to a ruined marketplace and demands that they kill the creature preying on her people.",
+          "longSummary": "Inakara leads the party across the pool cavern, shying away from Kenzo's light and commanding the attention of roughly thirty inhabitants with taps of her staff. At a vast adjoining cavern she tells the others that the party will kill the threat, then urges the visitors forward. Asked what they face, she says it does not speak, eats her people, and has a dangerous bite, but offers no useful method of defeating it. The party recognizes the ruined marketplace on Riswynn's map: shops, a building to the north, and sculpted stalagmites around a stone dais. Wellby lights two torches and throws one ahead. They advance toward cover while the inhabitants gather behind them.",
+          "locationHints": {
+            "refs": [
+              "Pool cavern",
+              "Ruined marketplace"
+            ],
+            "context": "Across the central walkway and into a large adjoining cavern",
+            "notes": "The marketplace contains ruined shops, a tall ceiling, buildings, a stone dais, and a garden of shaped rock formations. The threat has not yet revealed itself."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Guide pressing the party into a fight",
+              "notes": "Draws back from Kenzo's light, leads the party into the marketplace, and warns of a creature that eats her people and bites; she does not explain how to kill it."
+            },
+            {
+              "name": "Cavern inhabitants",
+              "role": "encountered",
+              "context": "Inakara's followers and the creature's reported prey",
+              "notes": "Roughly thirty watch the party cross the pools and respond to Inakara's staff taps; some gather behind the adventurers at the marketplace."
+            },
+            {
+              "name": "Roper",
+              "role": "mentioned",
+              "context": "As-yet unseen predator in the marketplace",
+              "notes": "Inakara describes a creature that does not speak and eats her people, warning of its bite. The canonical name is supplied by the matching Session 8 account, not by her dialogue."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Riswynn's maps",
+              "role": "encountered",
+              "notes": "The party matches its surroundings to the dwarven outpost map's marketplace; markings suggest other spaces above or below, but these are not explored."
+            },
+            {
+              "name": "Wellby's torches",
+              "role": "encountered",
+              "notes": "Two torches lit before entering the marketplace. One is thrown into the cavern to illuminate the approach; Wellby continues holding the other."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "combat",
+      "title": "The Roper in the Marketplace",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "sourceRange": {
+        "startUid": "u1849",
+        "endUid": "u2907"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1849",
+          "endUid": "u2226"
+        },
+        {
+          "startUid": "u2227",
+          "endUid": "u2556"
+        },
+        {
+          "startUid": "u2557",
+          "endUid": "u2907"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Roper",
+        "Inakara",
+        "Cavern inhabitants"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Wellby's torches",
+        "Wellby's embedded arrow"
+      ],
+      "combatEnemyRefs": [
+        "Roper"
+      ],
+      "sourceShortSummaries": [
+        "A roper seizes Wellby and Delwath, and the party struggles against its hard hide before freeing the wounded halfling.",
+        "The party learns the roper moves slowly, shifts toward ranged attacks, and frees Riswynn by severing a tentacle.",
+        "An embedded arrow lets Seeker burn the roper with Heat Metal, and the party finishes it from beyond its reach before seeking passage onward."
+      ],
+      "sourceLongSummaries": [
+        "A tentacle lashes from an apparent stalagmite, catching Wellby and beginning combat. Delwath places Hex on the creature, but his sword and Riswynn's Guiding Bolt fail to penetrate its stony defenses; another tendril catches him. Seeker gives Wellby a glowing calamari image as inspiration and uses Thunderwave to crack, but not sever, a tentacle. With Kenzo's help, Delwath wriggles free and adds Hexblade's Curse. The roper reels Wellby into its mouth, bites him for fourteen damage, and catches Delwath again. Riswynn's hammer cannot free Delwath, but Wellby uses Seeker's inspiration to escape the tentacle’s grasp and disengage into cover, dropping his torch along the way.",
+        "Kenzo uses Soul Sight to assess the roper: it has substantial remaining vitality, no general resistance or vulnerability, and tendrils immune to poison and psychic damage. Seeker heals Wellby with Healing Word and examines the rock garden, concluding that the creature has displaced a sculpture and can probably move only slowly on its small tendrils. Delwath escapes his renewed restraint with Misty Step onto a nearby roof and begins attacking from farther away. The creature catches Riswynn, whose attempt to break free fails. Wellby retreats to a clear firing line and lands a glancing arrow. Kenzo's Fist of Planar Power tears apart the tendril holding Riswynn, freeing her and finally dealing a substantial blow.",
+        "Seeker first considers heating Wellby's arrow, but the glancing hit has not left it embedded. After the party spreads out and several attacks miss, Wellby lands a stronger shot that lodges in the creature. Kenzo readies a response if another companion is grabbed. Seeker steps close enough to cast Heat Metal on the arrowhead, then withdraws; Delwath lands an Eldritch Blast enhanced by Hex and his curse and repositions to pull the enemy away from the others. Unable to close the distance fast enough, the roper is worn down by the heated arrow and ranged attacks until it falls. The inhabitants cheer and Inakara takes credit. Asked for the promised route toward Raven's Hold, she points across the cavern and tells them to make their own safe passage; they have not yet crossed it."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "Caught by Stone Tentacles",
+          "boundaryReason": "First phase of one continuous fight: the ambush catches Wellby, Delwath is also restrained, initial attacks fail, Thunderwave damages a tendril, and Wellby survives a bite and escapes with inspiration. End after his disengagement into cover; Kenzo begins assessing the creature at u2227.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1849",
+            "endUid": "u2226"
+          },
+          "shortSummary": "A roper seizes Wellby and Delwath, and the party struggles against its hard hide before freeing the wounded halfling.",
+          "longSummary": "A tentacle lashes from an apparent stalagmite, catching Wellby and beginning combat. Delwath places Hex on the creature, but his sword and Riswynn's Guiding Bolt fail to penetrate its stony defenses; another tendril catches him. Seeker gives Wellby a glowing calamari image as inspiration and uses Thunderwave to crack, but not sever, a tentacle. With Kenzo's help, Delwath wriggles free and adds Hexblade's Curse. The roper reels Wellby into its mouth, bites him for fourteen damage, and catches Delwath again. Riswynn's hammer cannot free Delwath, but Wellby uses Seeker's inspiration to escape the tentacle’s grasp and disengage into cover, dropping his torch along the way.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, among the stone formations near the approach",
+            "notes": "The roper initially remains among the rock sculptures while its long tendrils restrain and reel in targets. Nearby formations provide partial cover."
+          },
+          "npcDetails": [
+            {
+              "name": "Roper",
+              "role": "enemy",
+              "context": "Stalagmite-like ambush predator",
+              "notes": "A hard-bodied creature with long sticky tentacles that restrain prey, draw them inward, and expose them to a powerful bite. Its stony appearance does not establish that it is literally made of stone."
+            },
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Spectator who sent the party into the fight",
+              "notes": "Watches from behind the party and is described as slightly chuckling while the adventurers struggle."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wellby's torches",
+              "role": "encountered",
+              "notes": "The torch carried into the encounter limits Wellby's ability to hide. After escaping, he drops it before moving away; the earlier thrown torch already lights the cavern."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Roper",
+                "notes": "One roper concealed among the marketplace's rock formations."
+              }
+            ],
+            "notes": "First phase of the same combat continued in beats 008-009. Wellby is bitten but escapes; Delwath remains restrained again at the end of this phase."
+          }
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Breaking Free and Finding Range",
+          "boundaryReason": "Second phase of the same fight: Soul Sight and investigation clarify the enemy's defenses and limited mobility, Delwath teleports onto a roof, and ranged tactics develop. Kenzo severs the tendril holding Riswynn; the next beat starts with Seeker proposing the arrow-and-Heat-Metal combination.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2227",
+            "endUid": "u2556"
+          },
+          "shortSummary": "The party learns the roper moves slowly, shifts toward ranged attacks, and frees Riswynn by severing a tentacle.",
+          "longSummary": "Kenzo uses Soul Sight to assess the roper: it has substantial remaining vitality, no general resistance or vulnerability, and tendrils immune to poison and psychic damage. Seeker heals Wellby with Healing Word and examines the rock garden, concluding that the creature has displaced a sculpture and can probably move only slowly on its small tendrils. Delwath escapes his renewed restraint with Misty Step onto a nearby roof and begins attacking from farther away. The creature catches Riswynn, whose attempt to break free fails. Wellby retreats to a clear firing line and lands a glancing arrow. Kenzo's Fist of Planar Power tears apart the tendril holding Riswynn, freeing her and finally dealing a substantial blow.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, spreading toward the rooftops and outer firing lanes",
+            "notes": "Delwath teleports to a nearby building's roof while the others seek distance and cover. Investigation suggests the roper can move slowly; it has not been proven immobile."
+          },
+          "npcDetails": [
+            {
+              "name": "Roper",
+              "role": "enemy",
+              "context": "Slow-moving predator with heavily defended flesh",
+              "notes": "Kenzo finds no general resistance or vulnerability, but the tendrils are immune to poison and psychic damage. Seeker sees small tendrils at its base and signs that it displaced a stone sculpture, suggesting that it moves slowly."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Roper",
+                "notes": "The same roper, now assessed as slow-moving and increasingly exposed to ranged attacks."
+              }
+            ],
+            "notes": "Continuation of beat-007. Seeker heals Wellby, Delwath teleports free, Riswynn is caught, and Kenzo severs her restraining tendril; the enemy is still alive."
+          }
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Burning Arrow, Fallen Monster",
+          "boundaryReason": "Final phase and immediate aftermath of the same fight: the initial glancing arrow cannot be heated, a later shot lodges, and Heat Metal and ranged attacks finish the creature. Keep the short victory exchange, directions onward, and closing table scheduling attached rather than creating a tiny final beat.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2557",
+            "endUid": "u2907"
+          },
+          "shortSummary": "An embedded arrow lets Seeker burn the roper with Heat Metal, and the party finishes it from beyond its reach before seeking passage onward.",
+          "longSummary": "Seeker first considers heating Wellby's arrow, but the glancing hit has not left it embedded. After the party spreads out and several attacks miss, Wellby lands a stronger shot that lodges in the creature. Kenzo readies a response if another companion is grabbed. Seeker steps close enough to cast Heat Metal on the arrowhead, then withdraws; Delwath lands an Eldritch Blast enhanced by Hex and his curse and repositions to pull the enemy away from the others. Unable to close the distance fast enough, the roper is worn down by the heated arrow and ranged attacks until it falls. The inhabitants cheer and Inakara takes credit. Asked for the promised route toward Raven's Hold, she points across the cavern and tells them to make their own safe passage; they have not yet crossed it.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, after the roper’s defeat",
+            "notes": "The party exploits the creature's limited movement and remains beyond its effective reach. Afterward Inakara indicates a door across the dark cavern, but its destination and safety are not verified by travel in this session."
+          },
+          "npcDetails": [
+            {
+              "name": "Roper",
+              "role": "enemy",
+              "context": "Predator defeated by distance and sustained ranged damage",
+              "notes": "Wellby embeds an arrow that Seeker heats. The creature can move only ten feet per turn, cannot catch the retreating adventurers, and is killed."
+            },
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "context": "Cavern ruler claiming credit for the victory",
+              "notes": "Tells her followers she has fixed their problem. When asked for safe passage onward, she merely points to a door across the cavern and tells the party to make passage safe for themselves."
+            },
+            {
+              "name": "Cavern inhabitants",
+              "role": "encountered",
+              "context": "Onlookers relieved at the predator's defeat",
+              "notes": "Watch the party defeat the roper and respond with cheering and laughter."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wellby's embedded arrow",
+              "role": "encountered",
+              "notes": "A metal-headed arrow that lodges in the roper on a later shot. Seeker uses Heat Metal on its head to deal sustained damage while staying out of reach; the earlier glancing arrow could not support this tactic."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Roper",
+                "notes": "The same roper, killed after failing to close on the party."
+              }
+            ],
+            "notes": "Concludes the combat begun in beat-007. The final attacks are resolved as a short sustained volley once the party has established that the creature cannot reach them; the aftermath remains in this beat."
+          }
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Departing centaurs",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Taster",
+        "beatIds": [
+          "beat-002",
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Inakara",
+        "beatIds": [
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Cavern inhabitants",
+        "beatIds": [
+          "beat-005",
+          "beat-006",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Roper",
+        "beatIds": [
+          "beat-007",
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "fought"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-004",
+        "beatIds": [
+          "beat-007",
+          "beat-008",
+          "beat-009"
+        ],
+        "enemyRefs": [
+          "Roper"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Raven's Hold approach",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "valley west of Raven's Hold",
+        "beatIds": [
+          "beat-002",
+          "beat-003"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Dwarven Outpost (Raven's Hold)",
+        "beatIds": [
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Pool-cavern doorway",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Dwarven Outpost",
+        "beatIds": [
+          "beat-005",
+          "beat-007",
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Pool cavern",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Ruined marketplace",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Departing centaurs",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Recent informants, now riding south",
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Taster",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": "Caged rabbit used to test the water",
+          "beatIds": [
+            "beat-002",
+            "beat-003",
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold approach -> valley west of Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "valley west of Raven's Hold -> Dwarven Outpost (Raven's Hold)",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost (Raven's Hold) -> Pool-cavern doorway",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Inakara",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Dwarf-sized ruler of the occupied pool cavern",
+          "beatIds": [
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Pool cavern -> Ruined marketplace",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Cavern inhabitants",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Unfamiliar dwarf-sized creatures living around the pools",
+          "beatIds": [
+            "beat-005",
+            "beat-006",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Pool cavern -> Ruined marketplace",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Roper",
+          "relationKinds": [
+            "fought"
+          ],
+          "contextHint": "Stalagmite-like ambush predator",
+          "beatIds": [
+            "beat-007",
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Road below the mountain pass, west of the valley containing the fort",
+          "beatIds": [
+            "beat-001"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Raven's Hold approach",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Along the rocky foothills and upstream through the neighboring valley",
+          "beatIds": [
+            "beat-002"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "valley west of Raven's Hold",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "Along the rocky foothills and upstream through the neighboring valley",
+          "beatIds": [
+            "beat-002",
+            "beat-003"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Dwarven Outpost (Raven's Hold)",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "Following the stream underground to a submerged water-diversion mechanism",
+          "beatIds": [
+            "beat-003",
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Pool-cavern doorway",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Spiral ascent, guard chamber, eastward tunnel, and hidden doorway",
+          "beatIds": [
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Dwarven Outpost",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Inhabited cavern with two pools and a raised platform",
+          "beatIds": [
+            "beat-005",
+            "beat-007",
+            "beat-008",
+            "beat-009"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Pool cavern",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Across the central walkway and into a large adjoining cavern",
+          "beatIds": [
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Ruined marketplace",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Across the central walkway and into a large adjoining cavern",
+          "beatIds": [
+            "beat-006"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Riswynn's maps",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Pool cavern -> Ruined marketplace",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Seeker's hypothetical maps",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Numbered Dwarven stones",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold approach -> valley west of Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Enchanted spearpoint",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "valley west of Raven's Hold -> Dwarven Outpost (Raven's Hold)",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Water-diversion chain and plate",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "valley west of Raven's Hold -> Dwarven Outpost (Raven's Hold)",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Guard-room lever",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost (Raven's Hold) -> Pool-cavern doorway",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Illusory cave-in",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost (Raven's Hold) -> Pool-cavern doorway",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Riswynn's ball bearings",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost (Raven's Hold) -> Pool-cavern doorway",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Hidden-door stone knob",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost (Raven's Hold) -> Pool-cavern doorway",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Wellby's torches",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Pool cavern -> Ruined marketplace",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Wellby's embedded arrow",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "contextHint": "Intended recipient of the centaurs' warning"
+        },
+        {
+          "name": "Kisa",
+          "contextHint": "Elder whose earlier account informs the discussion"
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Floating Disc Coin",
+          "contextHint": null
+        }
+      ]
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-recap-scenes.json"
+}
