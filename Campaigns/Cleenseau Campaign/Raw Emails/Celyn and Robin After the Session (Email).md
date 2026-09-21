@@ -4,7 +4,7 @@ POV: 1720
 ---
 # Celyn and Robin After the Session (Email)
 
-Local archive of all 1 message body in this correspondence, including quoted reply history. Player-authored post-session scene.
+Local archive of all 1 message body in this correspondence, including quoted reply history. Player-authored proposed scene, intended for a later play session; the email does not establish that it happened. A reading copy exists as [[Celyn and Robin I]].
 
 ## Tue, 17 Sep 2024 22:39:06 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
 
