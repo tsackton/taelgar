@@ -1,15 +1,21 @@
 ---
 headerVersion: 2023.11.25
 tags: [session-note, status/check/ai]
+websiteSessionView: zoomable
 campaign: Cleenseau
+arc: Feywild
 sessionNumber: 34
 players: [Robin, Viepuck, Celyn, Izgil]
-DR: null
-DR_end: null
+companions: []
+DR: 1720-11-29
+DR_end: 1720-12-01
 realWorldDate: 2026-05-31
+sourceUrl: https://kiya.dreamwidth.org/830290.html
 name: Cleenseau - Session 34
 descTitle: Wondering the Grey Mists
-tagline: in which the party crosses the mist and reaches Twilight's Grace
+tagline: in which the party crosses the Grey Mists and reaches Twilight's Grace
+sessionKey: cleenseau-session-34
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 34
 

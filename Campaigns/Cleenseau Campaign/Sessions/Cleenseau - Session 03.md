@@ -10,6 +10,8 @@ realWorldDate: 2023-03-19
 name: Cleenseau - Session 3
 descTitle: The Murder of Gentza
 tagline: in which an investigation exposes poisoned bread and bandits
+sessionKey: cleenseau-session-3
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 3
 

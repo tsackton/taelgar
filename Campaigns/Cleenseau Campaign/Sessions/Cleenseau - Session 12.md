@@ -10,6 +10,8 @@ realWorldDate: 2024-03-03
 name: Cleenseau - Session 12
 descTitle: The Bone Tower
 tagline: in which the party recovers Asineau's resources and defeats a skeletal host
+sessionKey: cleenseau-session-12
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 12
 

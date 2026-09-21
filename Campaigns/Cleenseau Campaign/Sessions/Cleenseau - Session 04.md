@@ -10,6 +10,8 @@ realWorldDate: 2023-04-30
 name: Cleenseau - Session 4
 descTitle: After the Poisoning
 tagline: in which the party manages prisoners and prepares for Wakog
+sessionKey: cleenseau-session-4
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 4
 

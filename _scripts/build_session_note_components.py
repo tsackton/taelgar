@@ -434,7 +434,7 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
     else:
         text = f"---\n{frontmatter_text}\n---\n"
     note_path.parent.mkdir(parents=True, exist_ok=True)
-    note_path.write_text(text, encoding="utf-8")
+    note_path.write_text(text, encoding="utf-8", newline="\n")
     return status
 
 
@@ -912,6 +912,7 @@ def parse_location_entries(lines: Sequence[str], label: str, errors: List[str]) 
                 continue
             current = {
                 "name": entry["name"],
+                "displayName": entry["displayName"],
                 "summary": entry["context"],
                 "sublocations": None,
                 "dateVisited": None,
@@ -919,8 +920,10 @@ def parse_location_entries(lines: Sequence[str], label: str, errors: List[str]) 
                 "legacyFormat": True,
             }
         else:
+            raw_name = body.strip()
             current = {
-                "name": normalize_wikilink_name(body.strip()),
+                "name": normalize_wikilink_name(raw_name),
+                "displayName": wikilink_display_name(raw_name),
                 "summary": None,
                 "sublocations": None,
                 "dateVisited": None,
@@ -961,8 +964,10 @@ def parse_named_entry(body: str, label: str, errors: List[str], *, allow_relatio
     if not match:
         errors.append(f"{label} entry is malformed: {body}")
         return None
+    raw_name = match.group("name").strip()
     return {
-        "name": normalize_wikilink_name(match.group("name").strip()),
+        "name": normalize_wikilink_name(raw_name),
+        "displayName": wikilink_display_name(raw_name),
         "relation": (match.groupdict().get("relation") or "").strip(),
         "context": match.group("context").strip(),
     }
@@ -999,6 +1004,14 @@ def normalize_wikilink_name(value: str) -> str:
     if not match:
         return text
     return (match.group(1) or "").strip()
+
+
+def wikilink_display_name(value: str) -> str:
+    text = value.strip()
+    match = re.fullmatch(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", text)
+    if not match:
+        return text
+    return (match.group(2) or match.group(1) or "").strip()
 
 
 def build_component_dir_name(session_payload: Dict[str, Any], *, fallback: str) -> str:
@@ -1087,6 +1100,14 @@ def build_slots(
     info_slots["session.dr_range_inline"] = format_dr_range_inline(dr_start, dr_end)
     info_slots["session.real_date"] = header.get("Real Date", "")
     info_slots["session.real_date_long"] = format_real_date_long(header.get("Real Date", ""))
+    source_url = normalize_optional_string(session_payload.get("sourceUrl")) or ""
+    info_slots["session.source_url"] = source_url
+    source_title = normalize_optional_string(session_payload.get("sourceTitle")) or "Original player recap"
+    source_author = normalize_optional_string(session_payload.get("sourceAuthor"))
+    source_label = f"{source_author}'s Recap" if source_author else "Source"
+    info_slots["session.source_header"] = (
+        f"> *{source_label}: [{source_title}]({source_url})*" if source_url else ""
+    )
     info_slots["timeline"] = render_timeline_slot(recap["timeline"])
 
     cast_text, cast_reviews = render_entity_slot(
@@ -1115,9 +1136,12 @@ def build_slots(
         display_metadata=display_metadata,
     )
     info_slots["groups"] = groups_text
+    info_slots["groups.section"] = f"### Organizations\n\n{groups_text}" if groups_text else ""
     review_lines.extend(group_reviews)
 
-    info_slots["combat.summary"] = render_combat_slot(recap["combat"])
+    combat_text = render_combat_slot(recap["combat"])
+    info_slots["combat.summary"] = combat_text
+    info_slots["combat.section"] = f"## Combat\n\n{combat_text}" if combat_text else ""
 
     items_text, item_reviews = render_entity_slot(
         recap["items"],
@@ -1127,6 +1151,7 @@ def build_slots(
     )
     info_slots["items.treasure"] = items_text
     info_slots["objects"] = items_text
+    info_slots["objects.section"] = f"## Treasure and Things\n\n{items_text}" if items_text else ""
     review_lines.extend(item_reviews)
 
     final_timeline = recap["timeline"][-1] if recap["timeline"] else None
@@ -1177,7 +1202,7 @@ def render_entity_slot(
         resolution = note_index.resolve(entry["name"])
         if resolution.warning:
             review_lines.append(f"- {entry['name']}: {resolution.warning}")
-        display_name = resolution.link(entry["name"])
+        display_name = resolution.link(entry.get("displayName") or entry["name"])
         note_context, context_reviews = build_note_context(
             entry,
             resolution,
@@ -1207,7 +1232,7 @@ def render_location_slot(
         resolution = note_index.resolve(entry["name"])
         if resolution.warning:
             review_lines.append(f"- {entry['name']}: {resolution.warning}")
-        display_name = resolution.link(entry["name"])
+        display_name = resolution.link(entry.get("displayName") or entry["name"])
         note_context, context_reviews = build_note_context(
             entry,
             resolution,
@@ -1782,9 +1807,12 @@ AUTOLINK_SLOT_NAMES = {
     "locations",
     "locations.inline",
     "groups",
+    "groups.section",
     "combat.summary",
+    "combat.section",
     "items.treasure",
     "objects",
+    "objects.section",
     "updates.whereabouts.party",
     "updates.whereabouts.locations",
     "updates.whereabouts.npcs",
@@ -1953,7 +1981,11 @@ def render_inline_location_links(entries: Sequence[Dict[str, Any]], note_index: 
     names = [entry["name"] for entry in entries if entry.get("name")]
     if not names:
         return "none"
-    rendered = [note_index.resolve(name).link(name) for name in names]
+    rendered = [
+        note_index.resolve(entry["name"]).link(entry.get("displayName") or entry["name"])
+        for entry in entries
+        if entry.get("name")
+    ]
     if len(rendered) == 1:
         return rendered[0]
     if len(rendered) == 2:
@@ -2024,12 +2056,12 @@ def write_component_file(
         existing_text = path.read_text(encoding="utf-8")
         updated_text = insert_missing_component_slots(existing_text, path, slots)
         if updated_text != existing_text:
-            path.write_text(updated_text, encoding="utf-8")
+            path.write_text(updated_text, encoding="utf-8", newline="\n")
         return
 
     text = render_component_file_text(title=title, session_manifest=session_manifest, slots=slots)
     validate_no_frontmatter_wikilinks(text.splitlines(), path)
-    path.write_text(text, encoding="utf-8")
+    path.write_text(text, encoding="utf-8", newline="\n")
 
 
 def render_component_file_text(*, title: str, session_manifest: str, slots: Dict[str, str]) -> str:

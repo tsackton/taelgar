@@ -10,6 +10,8 @@ realWorldDate: 2023-12-10
 name: Cleenseau - Session 9
 descTitle: The Lower Fort
 tagline: in which the party crosses the tar pit and descends beneath Cleenseau
+sessionKey: cleenseau-session-9
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 9
 

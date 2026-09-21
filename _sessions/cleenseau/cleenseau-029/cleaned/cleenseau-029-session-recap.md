@@ -8,18 +8,18 @@
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 29
-- DR Date: unknown
+- DR Date: 1720-04-01 to 1720-07-05
 - Real Date: 2025-11-09
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### Undated (ordered)
+### 1720-04-01 to 1720-07-04
 
 - Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-04-01) - (DR:: 1720-07-04)
+- Resolution: multi-day
 - Beat IDs: b01, b02, b03
 - Locations: Asineau, Marwick, destroyed summer villages above Marwick
 - NPCs: Vahaiya, the Earl of Marwick, the Earl's surviving knight
@@ -33,11 +33,11 @@ Robin settles into Asineau, the village begins to thrive under the party's atten
 #### Long
 Robin accepts the lordship of Asineau, and the party spends the following stretch rebuilding the village with new defenses, workshops, trade, and local alliances. When Vahaiya brings word of a dragon ravaging the borderlands, the party rides to Marwick, studies the threat, and scouts the ruined uplands until they understand how to lay a trap.
 
-### Undated (ordered) (evening)
+### 1720-07-04 (evening)
 
 - Timeline Segment: timeline-002
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-07-04)
+- Resolution: day
 - Beat IDs: b04
 - Locations: ruined mountain village near the dragon's lair
 - NPCs: the winged kobold leader, the winged kobold's sister
@@ -51,11 +51,11 @@ At the ruined village, the party captures a kobold scouting band, learns how the
 #### Long
 The bait draws kobolds instead of the dragon, but Viepuck's magic and the party's nerve bring them to surrender without a real fight. Their testimony reveals rival factions around the dragon, the southern ash-cloud disaster that drove them north, and enough practical detail for Robin to recruit the least eager kobolds into the night's trap.
 
-### Undated (ordered) (night)
+### 1720-07-05 (pre-dawn)
 
 - Timeline Segment: timeline-003
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-07-05)
+- Resolution: day
 - Beat IDs: b05
 - Locations: valley below the dragon's lair
 - NPCs: none
@@ -75,8 +75,8 @@ With the trap reset and the allied kobolds close at hand, the party waits outsid
 
 - Kind: beat
 - Beat IDs: b01
-- Date: unknown
-- Time: unknown
+- Date: 1720-04-01 to 1720-06-30
+- Time: multi-month
 - Source Range: u0001 -> u0020
 - Locations: Asineau
 - NPCs: none
@@ -97,8 +97,8 @@ Robin's acceptance of the lordship of Asineau turns the party's recent victory i
 
 - Kind: beat
 - Beat IDs: b02
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-01 to 1720-07-02
+- Time: multi-day
 - Source Range: u0021 -> u0025
 - Locations: Asineau, Marwick
 - NPCs: Vahaiya, the Earl of Marwick
@@ -119,8 +119,8 @@ That settled stretch ends when Vahaiya brings word of a dragon attacking the eas
 
 - Kind: beat
 - Beat IDs: b03
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-02 to 1720-07-04
+- Time: multi-day
 - Source Range: u0026 -> u0027
 - Locations: Marwick, destroyed summer villages above Marwick
 - NPCs: the Earl's surviving knight
@@ -141,7 +141,7 @@ At Marwick, Robin applies everything he has been learning about fortification an
 
 - Kind: beat
 - Beat IDs: b04
-- Date: unknown
+- Date: 1720-07-04
 - Time: evening
 - Source Range: u0028 -> u0048
 - Locations: ruined mountain village near the dragon's lair
@@ -163,8 +163,8 @@ The carefully prepared trap does not bring the dragon first; instead it snags a 
 
 - Kind: beat
 - Beat IDs: b05
-- Date: unknown
-- Time: night
+- Date: 1720-07-05
+- Time: pre-dawn
 - Source Range: u0049 -> u0051
 - Locations: valley below the dragon's lair
 - NPCs: none

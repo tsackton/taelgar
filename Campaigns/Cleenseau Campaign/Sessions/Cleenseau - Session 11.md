@@ -10,6 +10,8 @@ realWorldDate: 2024-02-04
 name: Cleenseau - Session 11
 descTitle: Organizing the Region
 tagline: in which the party builds a defense and removes Asineau's lord
+sessionKey: cleenseau-session-11
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 11
 

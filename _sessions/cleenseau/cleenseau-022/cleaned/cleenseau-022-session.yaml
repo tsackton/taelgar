@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 22
 realWorldDate: '2025-02-09'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/799868.html
+sourceTitle: "time yet for a hundred indecisions and for a hundred visions and revisions"
+sourceAuthor: Kiya
+drStart: '1720-03-01'
+drEnd: '1720-03-03'
 drStartTime: null
 drEndTime: null
 participants:

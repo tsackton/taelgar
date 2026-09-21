@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 21
 realWorldDate: '2025-01-26'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/798653.html
+sourceTitle: "Unbearable Situations"
+sourceAuthor: Kiya
+drStart: '1720-02-26'
+drEnd: '1720-03-01'
 drStartTime: null
 drEndTime: null
 participants:

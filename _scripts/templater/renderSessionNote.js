@@ -207,7 +207,9 @@ function extractSlots(markdownText, sourcePath) {
         if (Object.prototype.hasOwnProperty.call(slots, slotName)) {
             throw new Error(`Duplicate slot '${slotName}' found in ${sourcePath}.`);
         }
-        slots[slotName] = match[2].replace(/^\n+/, "").replace(/\n+$/, "");
+        slots[slotName] = match[2]
+            .replace(/^(?:\r?\n)+/, "")
+            .replace(/(?:\r?\n)+$/, "");
         match = slotPattern.exec(markdownText);
     }
 

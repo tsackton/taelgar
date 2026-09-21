@@ -10,6 +10,8 @@ realWorldDate: 2024-06-02
 name: Cleenseau - Session 15
 descTitle: New Moon and False Taxes
 tagline: in which the party restores defenses and arrests an extortionist
+sessionKey: cleenseau-session-15
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 15
 

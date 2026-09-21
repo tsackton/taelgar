@@ -10,6 +10,8 @@ realWorldDate: 2023-02-12
 name: Cleenseau - Session 2
 descTitle: The Ettercap Lair
 tagline: in which the party follows the spiders into the woods
+sessionKey: cleenseau-session-2
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 2
 

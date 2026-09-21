@@ -10,6 +10,8 @@ realWorldDate: 2024-08-18
 name: Cleenseau - Session 17
 descTitle: False Messages
 tagline: in which the party defuses a fey curse and investigates a poisoned noble
+sessionKey: cleenseau-session-17
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 17
 

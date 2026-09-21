@@ -10,6 +10,8 @@ realWorldDate: 2024-09-15
 name: Cleenseau - Session 18
 descTitle: Ambush and Intrigue at Veltor
 tagline: in which an assassination attempt leads into a fey conspiracy
+sessionKey: cleenseau-session-18
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 18
 

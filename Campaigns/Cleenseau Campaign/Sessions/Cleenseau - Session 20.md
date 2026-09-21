@@ -10,6 +10,8 @@ realWorldDate: 2024-11-17
 name: Cleenseau - Session 20
 descTitle: Evidence and Abductions
 tagline: in which the party searches Veltor and protects Tyrwinghan travelers
+sessionKey: cleenseau-session-20
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 20
 

@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 23
 realWorldDate: '2025-03-16'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/802619.html
+sourceTitle: "If you're gonna play the game, boy, you gotta learn to play it right"
+sourceAuthor: Kiya
+drStart: '1720-03-03'
+drEnd: '1720-03-04'
 drStartTime: null
 drEndTime: null
 participants:

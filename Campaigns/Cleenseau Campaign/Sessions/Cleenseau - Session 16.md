@@ -10,6 +10,8 @@ realWorldDate: 2024-07-28
 name: Cleenseau - Session 16
 descTitle: The Bear Fey's Gambit
 tagline: in which the party negotiates with a fey lord and evacuates Ashcombe
+sessionKey: cleenseau-session-16
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 16
 

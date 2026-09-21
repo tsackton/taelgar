@@ -10,6 +10,8 @@ realWorldDate: 2023-06-04
 name: Cleenseau - Session 5
 descTitle: The Battle Against Wakog
 tagline: in which the party breaks an orc warband through deception and force
+sessionKey: cleenseau-session-5
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 5
 

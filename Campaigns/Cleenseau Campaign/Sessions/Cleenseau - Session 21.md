@@ -10,6 +10,8 @@ realWorldDate: 2025-01-26
 name: Cleenseau - Session 21
 descTitle: The Hunter's Cave
 tagline: in which Robin is abducted and the party attacks the Hunter
+sessionKey: cleenseau-session-21
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 21
 

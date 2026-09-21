@@ -10,6 +10,8 @@ realWorldDate: 2024-10-13
 name: Cleenseau - Session 19
 descTitle: Rescue from the Tower
 tagline: in which the party frees Damien and kills a Duskhound
+sessionKey: cleenseau-session-19
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 19
 

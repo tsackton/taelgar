@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 14
 realWorldDate: '2024-04-28'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/782461.html
+sourceTitle: We have determined that it is not, in fact, better down where it's wetter. Actually.
+sourceAuthor: Kiya
+drStart: '1720-01-24'
+drEnd: '1720-01-24'
 drStartTime: null
 drEndTime: null
 participants:

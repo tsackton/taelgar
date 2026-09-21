@@ -10,6 +10,8 @@ realWorldDate: 2024-03-31
 name: Cleenseau - Session 13
 descTitle: Toward Lake Rin
 tagline: in which the party joins new allies and enters an undead lake
+sessionKey: cleenseau-session-13
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 13
 

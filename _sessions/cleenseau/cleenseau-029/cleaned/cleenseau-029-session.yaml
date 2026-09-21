@@ -4,8 +4,8 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 29
 realWorldDate: '2025-11-09'
-drStart: null
-drEnd: null
+drStart: '1720-04-01'
+drEnd: '1720-07-05'
 drStartTime: null
 drEndTime: null
 participants:
