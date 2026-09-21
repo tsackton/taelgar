@@ -182,6 +182,8 @@ The party escorts the people of [[Ashcombe]] to [[Aslain]], where they reunite w
 - [[Celyn Learns the Miracles of Asineau]]
 - [[Viepuck's Sendings - Correspondence]]
 - [[Gareth's Ring - Email Exchange]]
+- [[After Gareth's Story]]
+- [[Elizabeth of Cassen - Email Discussion]]
 
 ## Source Files
 
@@ -193,3 +195,9 @@ The party escorts the people of [[Ashcombe]] to [[Aslain]], where they reunite w
 - [[Viepuck's Sendings (Email)]]
 - [[Gareth's Ring (Email)]]
 - [[Elizabeth the Guard's Story (Email)]]
+- [[Gareth's Story Discussion (Email)]]
+- [[Uses of Sending (Email)]]
+- [[Aveil - What You Know (Email)]]
+- [[Into Aveil - Meta (Email)]]
+- [[Celyn's Fey Safety and News (Email)]]
+- [[Celyn and the Horses (Email)]]

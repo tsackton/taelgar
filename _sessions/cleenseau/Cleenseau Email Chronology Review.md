@@ -10,7 +10,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 12–13 | `In Champimont - Part 1`, `Champimont II - Rumors`, and the Elegant Swan conversation | Incorporated into Session 12; archived sources are linked from its reviewed recap. |
 | 13–14 | `An Evening in Corrine's House` and related Rinburg discussion | Incorporated into Session 13; archived source is linked from its reviewed recap. |
 | 14–15 | `The Siege of Fellburn`, `Siege of Fellburn - The Duke's Camp - Information`, `The Oracle of Hope - an interlude`, `Fellburn Aftermath - Audience with the Duke`, and `Meeting Lenora` | Preserved as [[Cleenseau - Interlude - After the Siege of Fellburn]]. |
-| 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, temple conversations, `Gareth's Ring`, `Elizabeth the Guard's story`, and a short scenelet | Incorporated into Session 16; correspondence search is linked from its reviewed recap. |
+| 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, temple conversations, `Gareth's Ring`, `Elizabeth the Guard's story`, and a short scenelet | Incorporated into Session 16; local email archives and reading copies are linked from its reviewed recap. |
 | 16–17 | `Taelgar: The Letter` and `Into Aslain` | Incorporated into Session 17; correspondence searches are linked from its reviewed recap. |
 | 17–19 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 19–20 | `Fey Aftermaths` and its continuations | Incorporated into Session 20; archived sources are linked from its reviewed recap. |
