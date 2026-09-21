@@ -5,6 +5,8 @@ POV: 1720
 
 # Celyn's Perceptions of Veltor
 
+%% Source email: “Precisely 1800 words about last session,” sent by Kiya Nicoll on October 20, 2024. %%
+
 Veltor was turning out to be quite a lot to deal with.
 It wasn’t that it was a particularly large city - it certainly wasn’t. Celyn had been in larger. Though when he had been in larger, he had been able to be invisible to politics, because he wasn’t someone who mattered. Now he mattered, and it wasn’t even in the simple ways that he wanted to matter, the taking care of his people and, he supposed, dealing with monsters with the sort of violence that would frighten people back in Clawyn. Even if Ellis maybe wouldn’t be surprised.
 He wondered briefly if Pryce would be surprised.

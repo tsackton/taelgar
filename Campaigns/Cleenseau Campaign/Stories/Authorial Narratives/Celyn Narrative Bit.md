@@ -4,7 +4,7 @@ POV: 1720
 ---
 # Celyn Narrative Bit
 
-%% Source: Kiya Nicoll's 8 February 2025 email, preserved in [[Celyn Narrative Bit (Email)]]. %%
+%% Source email: “Celyn narrative bit,” sent by Kiya Nicoll on February 8, 2025. Kiya placed this between the harpy attack and planning for the Hunter's lair, and sent it to Mike for GM information and Dan for Robin information. %%
 
 
 
