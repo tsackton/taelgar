@@ -4,7 +4,7 @@ POV: 1720
 ---
 # Viepuck and Goodberries
 
-DM-authored color vignette sent March 23, 2024; it is not tied to a confirmed session scene. Original email: [[Thoughts on Goodberry (Email)]].
+%% Source email: “Thoughts on Goodberry,” sent by Mike Sackton on March 23, 2024. This vignette is not tied to a confirmed session scene. %%
 
 Consider the goodberry. Viepuck certainly has, although berry is an odd name. Whatever strange place he snatches these little grey and black and white globs from certainly doesn’t grow normal plants. And the taste, well… sometimes it’s just bland, like gruel, or slightly unpleasant like the one that tasted like an over-salted potato. Other times it is odd: like the color grey, or like a rain cloud. Viepuck still remembers the one he ate when he was hungry on the road to Rinburg- it tasted like a rainbow: sweet and surprising and ephemeral. And sometimes it is just best to hold one’s nose: the one that tasted like horse sweat was particularly unpleasant.
 
@@ -13,5 +13,7 @@ That one time he ate a goodberry from Perrin, and it just tasted like huckleberr
 The magic, he’s learned, is in the eating not the berries themselves. Eat a bunch all together and the magic is the same as if you’d eaten one. Eat them too fast, same thing. Viepuck has learned to wait for the lingering taste of the first to leave his mouth before eating the second.
 
 It’s odd, he has sometimes thought, how they always seem to taste fresher and stranger when coming from Es*taslios. Of course that is usually when Viepuck is close to death. But still.
+
+%% Source email aside: “an in game explanation for why you can’t just eat 6 berries at a time”. %%
 
 %% In-world time: Reflective campaign vignette with no single dated scene; 1720 is a broad reading position. %%
