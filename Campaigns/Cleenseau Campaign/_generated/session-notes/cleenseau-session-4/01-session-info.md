@@ -100,6 +100,9 @@ Sunday, April 30, 2023
 <!-- /SLOT -->
 
 <!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Guy de Varan's Story]]
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
