@@ -190,7 +190,7 @@ def parse_args(campaigns: Dict[str, Dict[str, Any]]) -> argparse.Namespace:
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
     parser.add_argument("-c", "--campaign", required=True, help="Campaign code or alias.")
-    parser.add_argument("-n", "--session", required=True, type=int, help="Session number.")
+    parser.add_argument("-n", "--session", required=True, type=parse_session_identifier, help="Session number (for example, 13 or 13.1).")
     mode_group = parser.add_mutually_exclusive_group()
     mode_group.add_argument("--overwrite", action="store_true", help="Overwrite existing generated component files.")
     mode_group.add_argument("--update", action="store_true", help="Add missing generated slots without changing existing slots.")
@@ -332,7 +332,13 @@ def resolve_campaign(selection: str, campaigns: Dict[str, Dict[str, Any]]) -> Tu
     return canonical, campaigns[canonical]
 
 
-def find_session_manifest(canonical_slug: str, config: Dict[str, Any], session_number: int) -> Path:
+def parse_session_identifier(value: str) -> str:
+    if not re.fullmatch(r"[1-9]\d*(?:\.[1-9]\d*)?", str(value)):
+        raise argparse.ArgumentTypeError("Session number must be a positive integer or a point session such as 13.1.")
+    return str(value)
+
+
+def find_session_manifest(canonical_slug: str, config: Dict[str, Any], session_number: str) -> Path:
     session_root = VAULT_ROOT / "_sessions" / str(config["sessionRoot"])
     if not session_root.exists():
         raise SystemExit(f"Session root does not exist for campaign '{canonical_slug}': {session_root}")
@@ -341,8 +347,8 @@ def find_session_manifest(canonical_slug: str, config: Dict[str, Any], session_n
     for manifest_path in sorted(session_root.rglob("*-session.yaml")):
         payload = read_yaml_mapping(manifest_path)
         try:
-            manifest_session_number = int(payload.get("sessionNumber"))
-        except (TypeError, ValueError):
+            manifest_session_number = parse_session_identifier(str(payload.get("sessionNumber")))
+        except argparse.ArgumentTypeError:
             continue
         if manifest_session_number == session_number:
             matches.append(manifest_path)
@@ -375,8 +381,10 @@ def build_session_key(session_payload: Dict[str, Any], *, fallback: str) -> str:
     return slugify_text(fallback)
 
 
-def render_note_filename(pattern: str, session_number: int) -> str:
-    return pattern.format(session=session_number, session_padded=f"{session_number:02d}")
+def render_note_filename(pattern: str, session_number: str) -> str:
+    whole, *point = session_number.split(".")
+    padded = f"{int(whole):02d}" + (f".{point[0]}" if point else "")
+    return pattern.format(session=session_number, session_padded=padded)
 
 
 def split_frontmatter(text: str) -> Tuple[Dict[str, Any], str]:
