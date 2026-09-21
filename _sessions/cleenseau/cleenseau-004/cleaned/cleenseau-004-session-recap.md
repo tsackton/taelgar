@@ -131,6 +131,10 @@ Ida marches for Dunfry as Wakog advances, so the party gathers fighters from nea
 
 ## Combat
 
+## Related Writings
+
+- [[Guy de Varan's Story]]
+
 ## Source Files
 
 - [[Cleenseau - Session 04 - Original]]

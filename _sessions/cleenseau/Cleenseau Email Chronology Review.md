@@ -5,6 +5,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | Between sessions | Meaningful correspondence | Treatment |
 | --- | --- | --- |
 | 1–8 | No separate play-by-email sequence identified. | No chronology change. |
+| 4 (December 4 in-world) | Guy de Varan's account of Wakog's camp | Preserved in [[Guy de Varan's Story]] and indexed from Session 4's reviewed recap; the email exchange is its raw source. |
 | 9–10 | `Entering the portal` | Planning and mechanics rather than a completed in-world scene; excluded. |
 | 11–12 | `Taelgar: Asineau Fallout`, `Hunting Lorin - Asineau Fallout`, and Celyn/El correspondence | Events are incorporated into Sessions 11 and 12. |
 | 12 (bridge battle) | DM-authored account of Robin's experience when the Wanderer blessed him | Preserved in [[Robin's Miracle]], with [[The Morning the Wanderer Blessed Robin (Email)|the original email]] linked from Session 12's reviewed recap. |
