@@ -7,7 +7,7 @@ POV: 1720
 
 >[!Info]- This is Celyn's story of how he got his name; please don't read it unless it has been revealed in game
 >
-> *(As told to [[El]], in [[Asineau]])*
+> *(As told to [[El]], in [[Asineau]], January 11th, 1720)*
 >
 > I was born in [[Clawyn]], I don’t know if you know it. It’s a village, we make wine. I was brought up to the vine, and the grape, and the wine, from when I was tiny; from when I was almost as tiny I was brought up to the fey and their ways. The children that the fey seem to take to are often brought in to do the rounds of the maintenance of the spaces we have agreed to tend, pouring wine on the roots of oaks and hawthorns, keeping the standing stones clear of the wrong sorts of plants, that sort of thing. The temple steward taught me, but also the fey themselves did, because I had a gift for it he lacked. He favored the Mother, of course, like most of us.
 >
@@ -29,4 +29,6 @@ POV: 1720
 >
 > By the time I had learned to tend the needs of my people, of our people, these ones the Wyrdling loves, who cannot change shape so easily as fey but who strive and hope to do so, I could conjure light from my fingertips by wishing. When I can, when I can stop here, I will teach you these things, how to take care of our people. Perhaps it will help you too, to learn how to summon that hopeful light. I have a book, with the things I know about the herbs. I know the ones I need and can forage for them if I see them sprouting, so you can borrow it and copy it if you like while I am away.
 
-%% In-world time: Told by Celyn to El in Asineau on January 11, 1720, according to El’s response. The naming itself occurred in his adolescence, around 1715. %%
+%% Source: “A bit of Celyn backstory,” email from Kiya Nicoll, March 10, 2024. The conversation is in [[Cleenseau - Session 11.1]]. %%
+
+%% In-world time: Told by Celyn to El in Asineau on January 11, 1720, as reconstructed from the Session 11 visit; the email itself does not state the in-world date. The naming itself occurred in his adolescence, around 1715. %%

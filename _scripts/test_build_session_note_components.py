@@ -935,6 +935,9 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
 
+        self.assertEqual(self.slot_body(info_text, "session.pov"), "1730")
+        self.assertEqual(self.slot_body(info_text, "session.session_key"), "test-campaign-session-12")
+
     def test_builder_leaves_optional_source_slots_blank_when_source_url_is_absent(self) -> None:
         vault = self.make_workspace()
         session_path = vault / "session.yaml"

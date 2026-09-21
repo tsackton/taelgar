@@ -3,14 +3,13 @@ tags: [source, status/check/ai]
 POV: 1720
 ---
 # A Letter to the Magistrate
+_Sent March 29, 1720 from Robin of House Gryphon to Thomas Dyerson, one of the magistrates in the [[Barony of Aveil]]_
 
-_Draft; the source does not confirm that Robin sent this in-world._
+%% Source: Dan Walters's 6 October 2025 email titled  A Letter to the Magistrate %%
 
-%% Source: Dan Walters's 6 October 2025 email, preserved in [[A Letter to the Magistrate (Email)]]. The draft omitted an out-of-game preamble, a parenthetical about the witness's name, and Dan's signoff. %%
+To the Honorable Magistrate [[Thomas Dyerson|Thomas]],
 
-To the Honorable Magistrate Thomas,
-
-Regarding the matter of the presentation of false testimony against us by the witness, I hope you will consider my words here and if it is appropriate pass them along to whoever shall ultimately be handling these matters.
+Regarding the matter of the presentation of false testimony against us by [[Perette]], I hope you will consider my words here and if it is appropriate pass them along to whoever shall ultimately be handling these matters.
 
 When that fell shadow creature appeared above us and began striking down the townsfolk around us, my page Viepuck referred to it as ‘theatrics,’ and this was correct. There has been a great deal of theater on display as of late: Fey imposters, this lich pretender to the throne, and accusations and rumors of a necromancer under every bush used to haul anyone who might have stood in opposition to the chaos to trial. As part of this theater, when it appeared that deceitful tactics might not bring us down directly, the puppeteers instead decided to slaughter everyone around us as part of their ruse. Theater.
 

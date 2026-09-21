@@ -1121,11 +1121,15 @@ def build_slots(
         featuring += f", with {info_slots['session.companions_inline']}"
     info_slots["session.featuring_inline"] = featuring
     info_slots["session.session_number"] = render_scalar(session_payload.get("sessionNumber"))
+    info_slots["session.session_key"] = session_key or build_session_key(session_payload, fallback="session")
     dr_start = normalize_optional_string(session_payload.get("drStart")) or header.get("DR Date", "")
     dr_end = normalize_optional_string(session_payload.get("drEnd")) or ""
     info_slots["session.dr_date"] = header.get("DR Date", "")
     info_slots["session.dr_start"] = dr_start
     info_slots["session.dr_end"] = dr_end
+    start_year = dr_start[:4] if re.match(r"^\d{4}(?:-|$)", dr_start) else ""
+    end_year = dr_end[:4] if re.match(r"^\d{4}(?:-|$)", dr_end) else start_year
+    info_slots["session.pov"] = start_year if start_year and start_year == end_year else "undated"
     info_slots["session.dr_range_inline"] = format_dr_range_inline(dr_start, dr_end)
     info_slots["session.real_date"] = header.get("Real Date", "")
     info_slots["session.real_date_long"] = format_real_date_long(header.get("Real Date", ""))
