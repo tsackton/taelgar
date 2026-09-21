@@ -16,7 +16,9 @@ This review records the campaign-relevant email found between numbered sessions.
 | 19–20 | `Fey Aftermaths` and its continuations | Incorporated into Session 20; archived sources are linked from its reviewed recap. |
 | 20–21 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 21–22 | `Hunter Aftermaths` | Incorporated into Session 22; archived source is linked from its reviewed recap. |
-| 22–28 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
+| 22–25 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
+| 25–26 | Celyn's player-authored road flashback | Preserved as [[Celyn on the Road to Tharwa Fea]], with the original email in [[Cleenseau Watch Order and Lore (Email)]]. |
+| 26–28 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 28–29 | `Celyn goes and talks to Marian` | Preserved as [[Cleenseau - Interlude - After the Trial]]. |
 | 28–29 | April and May Asineau threads, hirelings, the Merriweathers, and Ganboa diplomacy | Incorporated into Session 29, including cast, Ganboa, the Empty Cauldron festival, and Lenora's consequential gifts. |
 | 34–35 | `SimAsineau Part 1: Trade` | Bastion/trade mechanics rather than an in-world scene; excluded. |

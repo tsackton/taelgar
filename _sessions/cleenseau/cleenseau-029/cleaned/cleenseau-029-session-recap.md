@@ -286,3 +286,6 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Bastion Turn 1 Questions (Email)]]
 - [[Next Session Meta (Email)]]
 - [[SimManor Approach (Email)]]
+- [[Party Finances (Email)]]
+- [[Asineau Taxes and Income (Email)]]
+- [[Cleenseau Interlude Meta (Email)]]
