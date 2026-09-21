@@ -201,7 +201,7 @@ While traveling along the [[Auberonne]], the party spots harpies and enchanted b
 
 - [[Cleenseau - Session 20 - Original]]
 - [[01-cleenseau-blog-791148 - Original]]
-- [[Fey Aftermaths I]]
+- [[Fey Aftermaths (Email)]]
 - [[Fey Aftermath in Veltor (Email)]]
 - [[Tower of Records Search (Email)]]
 - [[Baroness Tower Search (Email)]]
