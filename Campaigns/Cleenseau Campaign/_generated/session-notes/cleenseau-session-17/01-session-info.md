@@ -101,6 +101,13 @@ https://kiya.dreamwidth.org/788697.html
 > *Kiya's Recap: [Not The Usual Way A D&D Party Bothers Local Law Enforcement: A Tale Of Two Magistrates](https://kiya.dreamwidth.org/788697.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[The Hunter's Letter - Email Exchange]]
+- [[Greymalkin's Story]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-02-17): The party defuses the Hunter's cursed letter and investigates the messenger and the destroyed Night Queen temple in [[Aslain]].
 - (DR:: 1720-02-18): The party confirms that the messenger was charmed by the Hunter's harpies, then travels to [[Cranford]] and learns of two murders.

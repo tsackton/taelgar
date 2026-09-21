@@ -196,6 +196,7 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 ## Related Writings
 
 - [[The Hunter's Letter - Email Exchange]]
+- [[Greymalkin's Story]]
 
 ## Source Files
 
@@ -203,3 +204,4 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 - [[01-cleenseau-blog-788697 - Original]]
 - [[The Hunter's Letter (Email)|The Letter correspondence]]
 - [[Into Aslain (Email)|Into Aslain correspondence]]
+- [[Greymalkin's Story - Correspondence (Email)]]
