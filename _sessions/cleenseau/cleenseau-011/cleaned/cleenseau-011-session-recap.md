@@ -224,3 +224,4 @@ The party learns that [[Lorin Valbert]] has disappeared after leaving a document
 ## Source Files
 
 - [[Cleenseau - Session 11 - Original]]
+- [[Treasure Updates (Email)]]
