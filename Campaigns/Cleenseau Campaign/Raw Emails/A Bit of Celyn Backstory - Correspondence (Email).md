@@ -4,7 +4,7 @@ POV: 1720
 ---
 # A Bit of Celyn Backstory - Correspondence (Email)
 
-Local archive of all 8 message bodies in this correspondence, including quoted reply history. Player-authored character background and DM feedback.
+Local archive of all 8 message bodies in this correspondence, including quoted reply history. Player-authored character background, DM feedback, and the exchange preserved in composite form as [[El's Story]].
 
 ## Sun, 10 Mar 2024 00:38:11 -0500 — Kiya Nicoll <darkhawk@mindspring.com>
 
