@@ -41,7 +41,7 @@ Inside the manor, [[Ayveen]] and [[Edric]] find a sleeping human behind a couch,
 We begin as the party crawls through the narrow tunnel, debating what they can still trust the contract, Hulda, or even the premise of the job. Suddenly, the wood surrounding them gives way to bones -- as if they crawled through the center of an enormous hollow root-bone. The party climbs up and out through a ruined house made of the same root-bone material and finds themselves under pale blue twilight twenty minutes after sunset. A river wends quietly through rolling grassy hills under the first unfamiliar stars of twilight, and they take the path forward from this ruined, skeletal echo of [[Dandelion House]] onto a road passing through hill and hollow to an estate in the distance.
 
 > [!image|figure standard]
-> ![[the-coral-bone-house.jpg]]
+> ![[feywild-02-the-coral-bone-house.jpg]]
 > *The root-bone echo of the [[Dandelion House]]*
 
 [[Txarro]] finds the first body just off the roadside: human, shot from behind by three beautifully-made green-feathered arrows, its head smashed into nothingness after it hit the ground. Tracks show it was running toward the echo-house, its killers wore heavy boots and the hoof-prints of elk. [[Tarek]] searches the pockets, finds a writing kit, and spell components -- keeping a mouse skull for himself. Farther down the road, the party smells smoke and finds human bones in a burned pyre, then farther on, another arrow-shot corpse missing its head entirely.

@@ -6,7 +6,7 @@ typeOf: boots
 subTypeOf: magic
 name: Boots of False Tracks
 whereabouts: Viepuck
-image: boots-of-false-tracks-viepuck.png
+image: "[[boots-of-false-tracks-viepuck.png]]"
 pcOwner: Viepuck
 ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 ---

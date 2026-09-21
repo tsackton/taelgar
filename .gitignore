@@ -31,7 +31,7 @@ assets/generated/
 .agents/*
 !.agents/skills/
 !.agents/skills/**
-.agents/skills/.DS_Store
+.agents/skills/**/.DS_Store
 
 !.obsidian
 .obsidian/*

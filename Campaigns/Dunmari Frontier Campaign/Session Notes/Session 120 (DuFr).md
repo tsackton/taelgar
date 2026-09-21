@@ -39,7 +39,7 @@ The [[Dunmar Fellowship]] attends a celebration at [[Sunwine Hall]], in [[Emberw
 
 Our session begins in [[Emberwine]] as the party follows [[Auntie Mulberry]]'s enchanting flute melody through [[Emberwine]]. [[Lady Eventide]], speaking through [[Seeker]]'s possessed form, reminisces about [[Lord Soven]] as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
 
-![[emberwine-party-1.png|600]]
+![[dufr-120-emberwine-party.png|600]]
 
 Drifting through the crowd, the party meets [[Lord Soven]] himself, a seven-foot-tall figure with antlered head, who invites [[Delwath]] to dance while they speak. When Delwath mentions Cloudspinner's imprisonment, Lord Soven falters noticeably, shocked: "None of us ever thought the [[Cloudspinner]] could return," he admits.
 

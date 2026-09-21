@@ -454,7 +454,6 @@ def parse_session_recap(text: str) -> Dict[str, Any]:
     sections = collect_level2_sections(lines)
     required_sections = [
         "## Session Header",
-        "## Timeline",
         "## Recap",
         "## Cast",
         "## Locations",
@@ -470,7 +469,11 @@ def parse_session_recap(text: str) -> Dict[str, Any]:
         raise SessionRecapParseError(errors)
 
     header = parse_header_section(get_section_lines(lines, sections["## Session Header"]), errors)
-    timeline = parse_timeline_section(get_section_lines(lines, sections["## Timeline"]), errors)
+    timeline = (
+        parse_timeline_section(get_section_lines(lines, sections["## Timeline"]), errors)
+        if "## Timeline" in sections
+        else []
+    )
     recap = parse_recap_section(get_section_lines(lines, sections["## Recap"]), errors)
     cast = parse_cast_section(get_section_lines(lines, sections["## Cast"]), errors)
     locations = parse_locations_section(get_section_lines(lines, sections["## Locations"]), errors)
@@ -556,7 +559,6 @@ def parse_header_section(lines: Sequence[str], errors: List[str]) -> Dict[str, s
     required = [
         "Title",
         "Desc Title",
-        "Tagline",
         "One-Sentence Summary",
         "Campaign",
         "Session Number",

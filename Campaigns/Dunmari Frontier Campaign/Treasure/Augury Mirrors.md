@@ -6,7 +6,7 @@ subTypeOf: magic
 ancestry: fey
 ddbLink: https://www.dndbeyond.com/magic-items/5346832-augury-mirrors
 displayDefaults: {defArt: ""}
-image: augury-mirror.jpg
+image: "[[augury-mirror.jpg]]"
 ---
 # Augury Mirrors
 >[!info]+ Information  

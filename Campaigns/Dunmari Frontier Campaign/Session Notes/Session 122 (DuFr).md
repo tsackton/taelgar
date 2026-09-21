@@ -35,7 +35,7 @@ The [[Dunmar Fellowship]] overcomes supernatural darkness and deadly foes to cle
 
 Our session begins at the  edge of night in the [[Feywild]], with the party paused on the border of [[Amberglow]] near [[Redsun Watch]]. Here, the night of [[Hollowdark]] had breached the [[Sunset Gate]], forming a river of impenetrable shadow. The only sign of light is a distant tower, faintly glowing with a lingering ember of sunset. The group, wary of the dangers ahead, discusses the possibility of finding a clue about or beacon or guide to the [[Prismwell]], a place tied to the [[Cloudspinner]]’s lost power, hidden within the keep, as [[Count Vashan]] had described in a moment of lucidity. 
 
-![[redsun-watch-in-shadow.png]]
+![[dufr-122-redsun-watch-in-shadow.png]]
 
 Scouting, [[Kenzo]] reached out with his senses, detecting a powerful, malevolent presence in a nearby tower, shaping the darkness and extending its reach into [[Amberglow]]. Below, the courtyard seethed with fragments of terror—echoes of fear and whispers in the dark—while a patrol of cruel, lazy minds drifted through the gloom. Deciding on caution, the party left their mounts with the cursed satyr [[Valeris]], who refused to enter the darkness, and advanced on foot. [[Wellby]] sent a summoned bat ahead to scout, but as it crossed the ruined walls and entered the courtyard, it was destroyed by a sudden wave of power.
 
@@ -61,7 +61,7 @@ Deciding they had no other good options, the party advanced through a narrow tun
 
 The group debated how to disperse the darkness—considering airlocks, pressure changes, and magical light. Attempts to burn away the shadows with sacred flame proved fruitless. [[Riswynn]], after discussion, resolved to unleash her most powerful magic. She raised her shield, marked with the symbol of the [[Bahrazel]], and called forth a Sunbeam. Brilliant sunlight erupted, reflecting from the crystals and the floor, illuminating the arches and passageways. The session ended as the sunlight echoed and reinforced itself, burning away the darkness that had long haunted the chamber. 
 
-![[prismwell-beacon-redsun-watch.png]]
+![[dufr-122-prismwell-beacon-redsun-watch.png]]
 
 
 %%

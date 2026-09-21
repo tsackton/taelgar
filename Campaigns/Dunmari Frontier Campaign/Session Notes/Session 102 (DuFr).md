@@ -45,7 +45,7 @@ The party, with Tilly, Milo, and their crew of halfling sharks in tow, set off t
 
 After six hours of travel, Kenzo sensed the jade was closer, within 10 miles or so, and soon after Tilly sensed the presence of a structure -- a small complex -- ahead. Scouting with clairvoyance, Seeker saw the [[Jade Piece of Rai's Hand]] within a whirlpool, mounted on a vibrating shell, surrounded by a large chamber resembling a rib cage and merfolk guards. Using Riswynn's summoned celestial ally (who shapeshifted into an octopus) as a distraction, the party dashed towards the entrance the temple of [[Gazankoa]], constructed inside a massive floating leviathan skeleton. 
 
-![[temple-of-gazankoa.png]]
+![[dufr-102-temple-of-gazankoa.png]]
 
 The battle was quickly joined, with the party fighting to retrieve the jade from its whirlpool in the center of [[Buruli]]'s audience chamber. Milo and Wellby engaged the merfolk guards, and Delwath summoned a sickening radiance, but Buruli plunged the battle into maddening darkness, momentarily throwing the party into chaos. Seeker attempted to dispel the spell, momentarily failing until the mote of fate gifted by [[Tharandros]] changed the outcome. With the darkness dispelled, and Tilly stilling the whirlpool with her magic, Kenzo dashed through the boiling water around the jade, and grabbed the jade embedded in the conch shell. Trying to escape, Kenzo experienced a momentary illusion of being surrounded by enemies but was reassured by Seeker's runes of inspiration, shaking off the effect. 
 

@@ -67,6 +67,6 @@ Beyond a fabrication lab, the party finds another listening station. The prisone
 One door short of the prisoner, the party enters a vast library with books chained to its shelves. A human-sized porcelain and clockwork torso is anchored to a desk just inside. As the party enters, it raises its head, opens its eyes, and studies them.
 
 > [!image|hero]
-> ![[27th-house-library.png]]
+> ![[feywild-05-27th-house-library.png]]
 > *The library in the [[27th House]]*
 <!-- /SLOT -->

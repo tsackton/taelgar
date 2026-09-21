@@ -1,0 +1,185 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-007/cleaned/dunmari-frontier-007-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Tracking the Gnolls from Karawa",
+      "startUid": "u0001",
+      "endUid": "u0328",
+      "lineCount": 328,
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening preparations and the first tracking leg remain together through the decision to abandon the westbound trail and ride toward Raven's Hold. The next beat begins the onward ride and camp planning.",
+      "dateEvidence": [
+        "The manifest anchors the session opening to 1748-04-07.",
+        "u0005-u0011 opens at dawn after the attack on Karawa; u0179-u0180 advances to midday, and u0198-u0204 places the trail junction after lunch."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Maps of Raven's Hold",
+      "startUid": "u0329",
+      "endUid": "u0501",
+      "lineCount": 173,
+      "dateStart": "1748-04-07",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party chooses the direct route, makes its first camp, and studies the dwarven maps and possible entrances. End immediately before the explicit next-morning departure.",
+      "dateEvidence": [
+        "u0329-u0335 places the onward ride in late afternoon followed by camp.",
+        "u0393 explicitly identifies this as the night after the first day of travel; u0497 describes nearby evacuation campfires."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Across the Plains to Strangers",
+      "startUid": "u0502",
+      "endUid": "u0802",
+      "lineCount": 301,
+      "dateStart": "1748-04-08",
+      "dateEnd": "1748-04-09",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Keep the brief second-day travel montage with the following day's sighting, spyglass purchase discussion, and stealthy reconnaissance. Split when Wellby steps out to greet the identified travelers; separating the montage alone would produce a 41-line fragment.",
+      "dateEvidence": [
+        "u0502 begins the morning after the first travel day, giving 1748-04-08.",
+        "u0536-u0542 closes that day at sunset; u0543 explicitly starts the next day, 1748-04-09.",
+        "u0547-u0802 follows one uninterrupted sighting and approach to travelers on the road."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Shani's Warning on the Road",
+      "startUid": "u0803",
+      "endUid": "u1113",
+      "lineCount": 311,
+      "dateStart": "1748-04-09",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Begin with Wellby greeting the herders. Keep healing, Shani's warnings, farewells, and the decision to seek the gnolls with the short onward-travel and camp coda. End before the overnight ambush setup.",
+      "dateEvidence": [
+        "The greeting at u0803 immediately follows the third-day reconnaissance.",
+        "u1048-u1053 contains an interrupted travel-day count; the clearer next-day transition at u0543 governs the date.",
+        "u1091-u1113 advances from evening travel into camp and watch arrangements."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Arrows in the Night",
+      "startUid": "u1114",
+      "endUid": "u1484",
+      "lineCount": 371,
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "First phase of one continuous camp ambush: the surprise attack, waking defenders, heavy arrow damage, emergency healing, and the rabbit decoy. End after the opening initiative cycle, before Wellby's next attack.",
+      "dateEvidence": [
+        "u1114 places the attack around 3 a.m. after the 1748-04-09 camp, so its calendar date is 1748-04-10.",
+        "u1123-u1124 calls it the same day as the travelers while clarifying that no long rest has completed; this denotes the same overnight rest rather than overriding the post-midnight clock.",
+        "u2163 later calls it just past midnight; both clock descriptions support 1748-04-10, but the precise hour is uncertain."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Holding Cover Against the Gnolls",
+      "startUid": "u1485",
+      "endUid": "u1894",
+      "lineCount": 410,
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Middle phase of the same fight: the party shifts behind rocks, kills the first attackers, and uses force, sacred flame, healing, and heated metal while gnolls close around the camp. End at the next Wellby turn before the decisive counterattack.",
+      "dateEvidence": [
+        "Continuous initiative and tactical movement follow the opening ambush with no rest or time jump.",
+        "u1485-u1489 starts Wellby's next attack; u1891-u1894 closes a gnoll spear attack before the next initiative cycle."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Breaking the Ambush",
+      "startUid": "u1895",
+      "endUid": "u2172",
+      "lineCount": 278,
+      "dateStart": "1748-04-10",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Final phase of the same fight: Kenzo's inspired attack kills two gnolls, the remaining attackers fall, and Riswynn stops the fleeing survivor. Keep the short body search, tactical debrief, and return to rest here; split at morning.",
+      "dateEvidence": [
+        "u1895 continues the same combat at Wellby's turn.",
+        "u2100-u2108 ends the fight; u2163-u2164 confirms it is past midnight and the party can finish a long rest.",
+        "u2171-u2172 closes the uneventful remainder of that night."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Vulture News Near Raven's Hold",
+      "startUid": "u2173",
+      "endUid": "u2394",
+      "lineCount": 222,
+      "dateStart": "1748-04-10",
+      "dateEnd": "1748-04-11",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Begin at the recovered party's morning discussion with a vulture, then carry the brief final travel montage and ominous camp into one approach beat. End before the centaurs' arrival the following morning.",
+      "dateEvidence": [
+        "u2173-u2176 begins the morning after the ambush, 1748-04-10, around eight or nine.",
+        "u2308 explicitly introduces the next day's ride; read this as 1748-04-11, consistent with the manifest's 1748-04-12 ending and the following morning at u2395.",
+        "The phrase next day could loosely refer back to the morning already in progress; the extra day is therefore an inference, not an independently stated calendar date.",
+        "u2326-u2348 and u2361-u2394 describe sunset, camp, and sleep before arrival the next day."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Centaurs and Delwath's Shadow",
+      "startUid": "u2395",
+      "endUid": "u2585",
+      "lineCount": 191,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Centaurs arrive from the east; their leader warns of poisoned water and the Abyss, then recognizes and warns Delwath about his shadow. Split at Kenzo's intervention, which redirects the conversation toward Raven's Hold and the tether.",
+      "dateEvidence": [
+        "u2395 explicitly starts the morning after the preceding travel-and-camp sequence.",
+        "1748-04-12 follows the interpretation of u2308 as a new travel day and matches the manifest's drEnd; the date inherits that inference.",
+        "u2507-u2585 is one continuous first exchange with the centaur leader."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Tethers and a Message South",
+      "startUid": "u2586",
+      "endUid": "u2978",
+      "lineCount": 393,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo joins the conversation; the party investigates the poisoned water, belief, and planar tethers before persuading Tharandros to carry a warning to Karawa. Keep the brief farewell and unresolved fortress approach with this final encounter.",
+      "dateEvidence": [
+        "u2586 continues the same morning conversation without a location or time jump.",
+        "u2948-u2949 records the promise to ride south and carry the message; u2968-u2978 closes with the herd departing and the party facing its next route choice.",
+        "The calendar date inherits the preceding beat's inferred 1748-04-12 assignment."
+      ]
+    }
+  ]
+}

@@ -8,6 +8,7 @@ const path = require("path");
 const LAYOUT_READY_GRACE_MS = 5000;
 const DEFAULT_EXCLUDED_TOP_LEVEL_DIRS = ["Worldbuilding"];
 const DEFAULT_EXCLUDED_TOP_LEVEL_PREFIXES = ["_"];
+const EXCLUDED_ASSET_DIRS = ["assets/dm", "assets/worldbuilding"];
 
 module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
   async onload() {
@@ -304,6 +305,9 @@ module.exports = class TaelgarDataviewMaterializerPlugin extends Plugin {
   }
 
   isExcludedVaultPath(vaultPath, config) {
+    if (EXCLUDED_ASSET_DIRS.some((directory) => vaultPath === directory || vaultPath.startsWith(`${directory}/`))) {
+      return true;
+    }
     const topLevel = vaultPath.split("/")[0];
     if (!topLevel) return false;
     if ((config.excludedTopLevelDirs || []).includes(topLevel)) return true;

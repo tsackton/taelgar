@@ -49,7 +49,7 @@ The party emerges from Dandelion House's root passage into the Twilight Kingdom,
 - Organizations: none
 - Items: bone-like root material
 - Enemies: none
-- Image: the-coral-bone-house.jpg
+- Image: [[feywild-02-the-coral-bone-house.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement:

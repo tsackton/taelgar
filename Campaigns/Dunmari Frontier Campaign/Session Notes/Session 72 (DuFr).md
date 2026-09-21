@@ -48,15 +48,15 @@ In the morning, [[Dunmar Fellowship]] prepares to bid farwell to [[Hralgar]]. He
 
 Flying fast on the wind, the party reaches in the mountains and [[Hralgar]]'s palace in only a few hours. 
 
-![[mountains.png]]
+![[dufr-072-mountain-scene.png]]
 
 Scouting as wisps of clouds, the party sees [[Hralgar]]'s palace, looking much as it did in the dream world, but ruined, with the roof gone, as well as the upper stories. A structure of ice filled with elaborate ice sculptures sits at the back of the main floor, and shadows billow up from the lower level. Pacing back and forth is a woman, maybe 10 feet tall and seemingly made or coated in ice, jagged shards clinging to her and forming something like a crown. 
 
-![[ice-palace.png]]
+![[dufr-072-ice-palace.png]]
 
 The party decides to negotiate, with [[Delwath]] approaching to speak while [[Wellby]] and [[Kenzo]] invisibly sneak to hide behind ice pillars, and [[Riswynn]] and [[Seeker]] linger invisibly (but noisily) at the top of the stairs. The ice maiden speaks with [[Delwath]], who asks about the shadows below. The woman seems not to care if they wish to venture there, telling [[Delwath]] should he wish to journey into the nightmares of [[Kurome]], it is no concern of hers. When asked about the phasing stone, her patience grows thin, and she tells [[Delwath]] that he is welcome to seek it in [[Kurome]]'s realm, but to go quickly either way, for there are foolish travelers to freeze in the wastes and her attention cannot long linger here. 
 
-![[ice-spirit-portrait.png|500]]
+![[dufr-072-ice-spirit-portrait.png|500]]
 
 At that, [[Wellby]] looses an arrow, and battle is joined. [[Wellby]] and [[Kenzo]] have been sufficiently silent - and invisible - that they get the jump on everyone, and [[Wellby]]'s arrow bursts into flame as it strikes true. The ice maiden is caught off guard as [[Kenzo]] lunges to attack as well, using his fist of planar power to push her across the ice. Staggering, [[Delwath]] strikes her down with his sword and magic, only for her icy crystal heart to rise up and attack with blasts of cold. The air around her becomes bone-chilling, and those close to her begin to freeze. As [[Seeker]] hits her with a psychic blast - turned to fire by his glove - and [[Riswynn]] with a blast of sacred fire, the icy heart staggers. A whirling storm of obscuring, blowing snow rises around her, and more blasts of cold shoot at the party, nearly killing [[Kenzo]] except for the blessing of the dwarven gods provided by [[Riswynn]], which keeps him from falling unconscious. Finally, [[Delwath]] cracks the icy heart with bolts of pure magic. 
 

@@ -51,7 +51,7 @@ Over the next hour, the party gathers what they can from the tower, focusing on 
 
 The storm grows more intense and violent, and [[Hralgar]] warns the party to run, as he turns to lightning and thunder and sweeps out of the tower. An incredibly loud burst of thunder shakes the foundations of the tower, and then [[Hralgar]] is there, pulling a giant sword of lightning out of thin air, his eyes flashing as he strikes the tower, the statue, everything about this place over and over. Even once the tower is reduced to rubble and the bust of himself that imprisoned him to dust, he lifts his massive feet and stomps, sending waves of thunder through the destruction. And then, [[Hralgar]] thanks the party, asking what he can do for them. 
 
-![[stormcaller-after-storm.png]]
+![[dufr-071-stormcaller-after-storm.png]]
 
 The party asks about [[Vindristjarna]], also known as the The Star on the Wind, the skyship upon which [[Stormcaller Tower]] was built. [[Hralgar]] tells them the phasing stone, the magic that powers skyships, was destroyed, but he sends the storm north. The clouds blow away, the thunder and rain stops, and a beautiful sunset emerges on the wet plains. [[Hralgar]] opens his eyes, and tells the party that there is still a phasing stone in his home in the mountains, less than a hundred miles north, that they are welcome to find and claim for themselves.
 

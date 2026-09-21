@@ -6,7 +6,7 @@ tags: [person]
 species: orc
 born: 1698
 gender: female
-image: nuzkar-small.png
+image: "[[nuzkar-small.png]]"
 name: Nuzkar
 pronunciation: NUZ-car
 whereabouts:

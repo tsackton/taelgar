@@ -138,7 +138,7 @@ Karawa's council meets, and debates the fate of the village.
 - Organizations: Shakun Mystai
 - Items: Dreamweaver Staff, Kenzo's jade amulet, Letter from Candrosa
 - Enemies: none
-- Image: dunmar-session-05-kenzo-dreamworld-vision.jpg
+- Image: [[dufr-005-kenzo-dreamworld-vision.jpg]]
 - Image Role: hero
 - Image Size:
 - Image Placement: start
@@ -193,21 +193,21 @@ That afternoon, the party returns to Jasu’s workshop to inspect the two silver
 - Organizations: none
 - Items: Karawa's gifts, The Runes of Creation, The Legendary Staff of Kenzo
 - Enemies: none
-- Image: dunmar-session-05-kenzo-staff-dancing.jpg
+- Image: [[dufr-005-kenzo-staff-dancing.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement: end
 - Image Render:
 - Image Caption: Kenzo defeats Jayden in the staff-dancing final.
 - Image Alt: Kenzo sweeping Jayden off a balance beam with his quarterstaff before a cheering crowd
-- Image 2: dunmar-session-05-wellby-axebeak-racing.jpg
+- Image 2: [[dufr-005-wellby-axebeak-racing.jpg]]
 - Image 2 Role: figure
 - Image 2 Size: standard
 - Image 2 Placement: end
 - Image 2 Render:
 - Image 2 Caption: Wellby rides his axebeak to third place.
 - Image 2 Alt: Wellby clinging to a running axebeak as it races across a dusty festival course
-- Image 3: dunmar-session-05-alesh-havdar-return.jpg
+- Image 3: [[dufr-005-alesh-havdar-return.jpg]]
 - Image 3 Role: figure
 - Image 3 Size: standard
 - Image 3 Placement: end
@@ -240,7 +240,7 @@ The axebeak race brings another burst of celebration, and some of the largest cr
 - Organizations: Karawa Council, Shakun Mystai
 - Items: Horn of Silent Alarm (Dunmari), Sketch of Arcus
 - Enemies: none
-- Image: dunmar-session-05-suma-at-council.jpg
+- Image: [[dufr-005-suma-at-council.jpg]]
 - Image Role: figure
 - Image Size: standard
 - Image Placement: end

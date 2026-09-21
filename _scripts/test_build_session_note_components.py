@@ -530,6 +530,46 @@ class SessionNoteComponentsTest(unittest.TestCase):
             slots["info"]["session.related_writings"],
             "## Related Writings\n\n- [[Asineau Fallout]]\n- [[Hunting Lorin]]",
         )
+        
+    def test_builder_accepts_omitted_timeline_and_tagline(self) -> None:
+        for omit_timeline, omit_tagline in ((True, False), (False, True), (True, True)):
+            with self.subTest(omit_timeline=omit_timeline, omit_tagline=omit_tagline):
+                vault = self.make_workspace()
+                text = self.reviewed_recap_text()
+                if omit_timeline:
+                    text = re.sub(r"(?ms)^## Timeline\n.*?(?=^## Recap\n)", "", text)
+                if omit_tagline:
+                    text = re.sub(r"(?m)^- Tagline:.*\n", "", text)
+                recap_path = vault / "session-recap.md"
+                recap_path.write_text(text, encoding="utf-8")
+
+                result = self.run_builder(vault)
+
+                self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+                component_dir = vault / "Campaigns" / "Test Campaign" / "_generated" / "session-notes" / "test-campaign-session-12"
+                info = (component_dir / "01-session-info.md").read_text(encoding="utf-8")
+                technical = (component_dir / "02-technical-updates.md").read_text(encoding="utf-8")
+                narrative = (component_dir / "03-narrative.md").read_text(encoding="utf-8")
+                self.assertEqual(recap_path.read_text(encoding="utf-8"), text)
+                if omit_timeline:
+                    self.assertIn("<!-- SLOT: timeline -->\n<!-- /SLOT -->", info)
+                    self.assertEqual(self.slot_body(technical, "updates.timeline"), "- none")
+                    self.assertEqual(self.slot_body(technical, "updates.whereabouts.party"), "- none")
+                else:
+                    self.assertIn("1730-01-25", self.slot_body(info, "timeline"))
+                if omit_tagline:
+                    self.assertIn("<!-- SLOT: session.tagline -->\n<!-- /SLOT -->", info)
+                else:
+                    self.assertEqual(self.slot_body(info, "session.tagline"), "in which the party descends")
+                self.assertIn("raiders crash into the party from a side passage", self.slot_body(narrative, "narrative.long"))
+
+    def test_parser_still_validates_present_timeline_and_required_header_fields(self) -> None:
+        for field in ("Timeline Segment", "Title"):
+            with self.subTest(field=field):
+                text = re.sub(rf"(?m)^- {field}:.*\n", "", self.reviewed_recap_text(), count=1)
+                with self.assertRaises(SessionRecapParseError) as ctx:
+                    parse_session_recap(text)
+                self.assertTrue(any(field in error for error in ctx.exception.errors))
 
     def test_parser_allows_locations_without_sublocations(self) -> None:
         text = re.sub(r"(?m)^  - Sublocations:.*\n", "", self.reviewed_recap_text())

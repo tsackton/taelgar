@@ -64,7 +64,7 @@ We begin as the party settles in for the night outside [[Lastlight Falls]], afte
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
 
-![[dunmar-november-1748.jpg]]
+![[dufr-069-dunmar-november-1748.jpg]]
 
 [[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's Lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
 
@@ -76,7 +76,7 @@ The next day, the [[Bahrazel]] answer [[Riswynn]]'s prayers. In her morning pray
 
 A week after leaving the camp at [[Lastlight Falls]], the party arrives outside the [[Stormcaller Tower]], where [[Hralgar]]'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
 
-![[hralgar-storm-nov-1748.png]]
+![[dufr-069-hralgar-storm-nov-1748.png]]
 
 Between [[Seeker]]'s clairvoyance and [[Kenzo]]'s ability to commune with nature and the land, it is clear that [[Hralgar]] is lost more deeply in his mind than before, and the storm is more intense. The eye that previously left the tower open to the sky is gone, and lightning and thunder echos from the clouds. 
 

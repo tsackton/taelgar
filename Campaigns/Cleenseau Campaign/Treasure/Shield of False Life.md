@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [object]
 typeOf: armor
 typeOfAlias: shield
-image: shield-of-false-life.png
+image: "[[shield-of-false-life.png]]"
 subTypeOf: magic
 ancestry: Drankorian
 whereabouts: Celyn
