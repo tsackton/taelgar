@@ -9,7 +9,7 @@ knownTo: [clee]
 ---
 # Avice
 
-Avice is a young girl from [[Ashcombe]] who calls [[Rufus]] her uncle. The party found her alive in the Hunter's abandoned lair.
+Avice is a young girl from [[Ashcombe]] who calls [[Rufus of Ashcombe|Rufus]] her uncle. The party found her alive in the Hunter's abandoned lair.
 
 %% Sources:
 - [[Hunter Aftermaths]]
