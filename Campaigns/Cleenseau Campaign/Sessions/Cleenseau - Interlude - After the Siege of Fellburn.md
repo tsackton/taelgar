@@ -52,3 +52,5 @@ After the siege, the party exchanges news with the victors, witnesses the succes
 - [[Meeting Lenora - Email Scene]]
 - [[Viepuck's Trip to Fellburn (Email)]]
 - [[Viepuck's Visit to Fellburn]]
+- [[Celyn's Letter to His Brother Pryce]] (written in Fellburn; delivery not established)
+- [[Celyn's Letter to Pryce (Email)]]
