@@ -1,25 +1,9 @@
 ---
-tags: [meta, status/check/ai]
-POV: 1720
+tags: [source, status/check/ai]
 ---
-# The Merriweathers (Email)
+# Celyn and the Merriweathers
 
-Complete local archive of the The Merriweathers correspondence (1 message). Message bodies preserve quoted reply history.
-Scene setup: [[Celyn and the Merriweathers]].
-
-## Thu, 30 Oct 2025 01:00:26 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
-
-Subject: [Thantos] Meta-ish roleplay-ish thread: the Merriweathers
-
-It seemed like it might be easier to pull this out to its own thread rather than clog up whatever other topics come off the May thread with it.  It may be very short, I don't know!
-
-Have an infodump about There Is A Method To This Madness, heh.
-
-On Oct 29, 2025, at 10:41 PM, Mike Sackton <msackton@gmail.com> wrote:
->
-> The Merriweathers arrive in a caravan of three wagons, mostly full of bolts of cloth and some tailored clothes, as well as some oddities like some fine wooden carvings, apple brandy from Addermarch, and intricate ceramic platters from Rinburg. The caravan is lead by Quent, an older woman missing one eye, but with a keen fashion sense, who is mostly cheerful and keen to hear all about Celyn and the party's life. Tobin, her younger cousin, does much of the trading, and his niece Tamsin seems to be everywhere and talking to everyone but doesn't have any clear role in the caravan. The caravan is a bit of an event - the Merriweathers don't usually stop in Asieneau - but not that unusual for the region, as halfling caravans often stop in Cleenseau.
->
-> [meta: Kiya, feel free to continue a thread about what Celyn wanted to say to them]
+Celyn's proposed clothing consultation after the Merriweathers' visit to [[Asineau]]. This is a player-authored scene setup, not a completed exchange. Original email: [[The Merriweathers (Email)]].
 
 So this is conversation that Celyn will have in the vicinity of the Merriweathers and whoever of the party wants to come talk clothes (he will definitely encourage Robin to come see about things on the principle that a) Robin likes bright colors in his clothing and b) as Lord he probably needs at least a little wardrobe that has not been stabbed, clawed, bitten, or afflicted with the effects of dark magic, even if Viepuck can fix it all) but not for the ears of the village in general.
 
@@ -53,7 +37,3 @@ Most specifically, as someone who is now threaded into the function of Asineau, 
 
 
 In terms of specific things for how this particular puzzle is solved, he has requirements about cut and fit and tailoring particularly involving shoulders and hips, wants his clothing to have two contrasting colors (his default is blue and yellow, which vibes with his coloring, but he can be talked into other colors if they have a good idea), and is curious if they have better binder tech than what he has (which is *extremely* basic).  He also does not want to deal with clothing that restricts his range of motion substantially even if it _is_ appropriately fancy.
-_______________________________________________
-Thantos mailing list
-Thantos@bunny-puppy.net
-http://bunny-puppy.net/mailman/listinfo/thantos_bunny-puppy.net

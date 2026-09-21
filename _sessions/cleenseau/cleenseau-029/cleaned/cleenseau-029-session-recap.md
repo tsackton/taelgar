@@ -253,6 +253,10 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Celyn Training Guards]]
 - [[Ganboa Negotiations]]
 - [[April Around Asineau]]
+- [[Celyn and the Merriweathers]]
+- [[Halflings Balthazar and Tharwa Fea - Email Exchange]]
+- [[Odo's Return to Asineau]]
+- [[A Recurring Festival for Cleenseau]]
 
 ## Source Files
 
