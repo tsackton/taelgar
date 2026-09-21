@@ -1,9 +1,12 @@
 ---
-tags: [source]
+tags: [source, status/check/ai]
+POV: 1720
 ---
 
 # [[El|El's]] Story
 _As told to Celyn, in [[Asineau]], January 11th, 1720, in response to [[Celyn's Story of Getting His Name]]_
+
+%% Source: [[A Bit of Celyn Backstory - Correspondence (Email)]], a GM/player exchange dated March 10–15, 2024. This existing composite reading copy preserves the scene but not individual email turn headers; consult the raw thread for attribution and send dates. %%
 
 "I appreciate the offer \[of herbal hormones\], but I need it not. Let me tell you my story. I grew up in [[Gowerbourne]], on the [[Wistel]], one of four siblings. It was an idyllic childhood, in many ways. We ran a warehouse and trading house for the shepherds, and each spring would organize the wool and sell it to the riverboats and halfling traders taking it to [[Embry]] or [[Tollen]]." 
 

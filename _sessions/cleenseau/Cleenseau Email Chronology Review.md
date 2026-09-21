@@ -8,7 +8,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 4 (December 4 in-world) | Guy de Varan's account of Wakog's camp | Preserved in [[Guy de Varan's Story]] and indexed from Session 4's reviewed recap; the email exchange is its raw source. |
 | 9–10 | `Entering the portal` | Planning and mechanics rather than a completed in-world scene; excluded. |
 | 11–12 | `Taelgar: Asineau Fallout`, `Hunting Lorin - Asineau Fallout`, and Celyn/El correspondence | Events are incorporated into Sessions 11 and 12. |
-| 11 (in-world January 11) | El's account of their past and conversation with Celyn | Preserved in [[El's Story]], with the archived correspondence linked from Session 11's reviewed recap. |
+| 11 (in-world January 11) | El's account of their past and conversation with Celyn | Preserved as the composite play-by-email reading copy [[El's Story]], with the archived correspondence linked from Session 11's reviewed recap. |
 | 12 (bridge battle) | DM-authored account of Robin's experience when the Wanderer blessed him | Preserved in [[Robin's Miracle]], with [[The Morning the Wanderer Blessed Robin (Email)|the original email]] linked from Session 12's reviewed recap. |
 | 12–13 | `In Champimont - Part 1`, `Champimont II - Rumors`, the Elegant Swan conversation, and the Eftly scene dated January 16 in-world | Champimont material is incorporated into Session 12. The composite play-by-email reading copy [[The Destruction of Eftly]] and its 14-message raw thread are linked from Session 13's reviewed recap. |
 | 13–14 | `An Evening in Corrine's House` and related Rinburg discussion | Incorporated into Session 13; archived source is linked from its reviewed recap. |
