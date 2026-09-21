@@ -225,6 +225,10 @@ In [[Cleenseau]], Gareth is convicted of banditry, fraud, and his earlier crimes
 - Enemies: zombies, orc skeletons, ogre skeleton
 - Context / Outcome: The party and Cleenseau's defenders destroy both undead groups with no deaths among the defenders.
 
+## Related Writings
+
+- [[Celyn and the Horses]]
+
 ## Source Files
 
 - [[Cleenseau - Session 15 - Original]]
@@ -232,3 +236,4 @@ In [[Cleenseau]], Gareth is convicted of banditry, fraud, and his earlier crimes
 - [[Play by Email May 2024 (Email)]]
 - [[Destruction of Eftly (Email)]]
 - [[Celyn's Fey Safety and News (Email)]]
+- [[Celyn and the Horses (Email)]]
