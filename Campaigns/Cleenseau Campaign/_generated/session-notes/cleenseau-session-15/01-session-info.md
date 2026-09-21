@@ -101,6 +101,12 @@ https://kiya.dreamwidth.org/784090.html
 > *Kiya's Recap: [And we get the band back together](https://kiya.dreamwidth.org/784090.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Celyn and the Horses]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-01-25) to (DR_end:: 1720-02-03): The party reunites, incorporates soldiers into Cleenseau's defenses, and prepares the town for another undead rising.
 - (DR:: 1720-02-04), predawn: The party and local troops destroy two groups of undead raised at the new moon.
