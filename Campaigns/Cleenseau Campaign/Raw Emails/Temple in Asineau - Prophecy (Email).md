@@ -6,6 +6,7 @@ POV: 1720
 
 Complete local archive of the Temple in Asineau - Prophecy correspondence (10 messages). Message bodies preserve quoted reply history.
 Attached website-preview image (repeated in two messages): [[Temple in Asineau - web preview logo.png]].
+Reading copy: [[Celyn and El Discuss the Fey Prophecy]].
 
 ## Wed, 26 Jun 2024 12:00:37 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
 

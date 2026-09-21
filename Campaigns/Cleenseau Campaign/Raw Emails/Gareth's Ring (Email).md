@@ -6,6 +6,7 @@ POV: 1720
 
 Complete local archive of the Gareth's Ring correspondence (8 messages). Message bodies preserve quoted reply history.
 Attached image: [[Gareth's Ring - source image.png]].
+Reading copy: [[Gareth's Ring - Email Exchange]].
 
 ## Mon, 1 Jul 2024 17:56:25 -0400 — Mike Sackton <msackton@gmail.com>
 

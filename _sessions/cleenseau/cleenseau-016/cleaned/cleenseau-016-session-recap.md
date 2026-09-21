@@ -174,6 +174,15 @@ The party escorts the people of [[Ashcombe]] to [[Aslain]], where they reunite w
 - Enemies: harpies, strange bears, giant vulture
 - Context / Outcome: The party defeats the attackers and follows the surviving fey to the Hunter's domain.
 
+## Related Writings
+
+- [[Gareth's Story]]
+- [[Elizabeth of Cassen's Story]]
+- [[Celyn and El Discuss the Fey Prophecy]]
+- [[Celyn Learns the Miracles of Asineau]]
+- [[Viepuck's Sendings - Correspondence]]
+- [[Gareth's Ring - Email Exchange]]
+
 ## Source Files
 
 - [[Cleenseau - Session 16 - Original]]
