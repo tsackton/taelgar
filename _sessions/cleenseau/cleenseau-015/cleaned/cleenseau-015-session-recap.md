@@ -228,6 +228,7 @@ In [[Cleenseau]], Gareth is convicted of banditry, fraud, and his earlier crimes
 ## Related Writings
 
 - [[Celyn and the Horses]]
+- [[Letter from Enford]]
 
 ## Source Files
 
@@ -237,3 +238,4 @@ In [[Cleenseau]], Gareth is convicted of banditry, fraud, and his earlier crimes
 - [[Destruction of Eftly (Email)]]
 - [[Celyn's Fey Safety and News (Email)]]
 - [[Celyn and the Horses (Email)]]
+- [[Letter from Enford (Email)]]
