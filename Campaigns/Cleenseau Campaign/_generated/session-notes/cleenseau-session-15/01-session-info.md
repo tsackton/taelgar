@@ -105,6 +105,7 @@ https://kiya.dreamwidth.org/784090.html
 ## Related Writings
 
 - [[Celyn and the Horses]]
+- [[Letter from Enford]]
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
