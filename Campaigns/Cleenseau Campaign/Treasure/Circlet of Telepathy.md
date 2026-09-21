@@ -6,7 +6,7 @@ typeOf: circlet
 subTypeOf: magic
 name: Circlet of Telepathy
 whereabouts: Viepuck
-image: circlet-of-telepathy.png
+image: "[[circlet-of-telepathy.png]]"
 pcOwner: Viepuck
 ---
 # Circlet of Telepathy

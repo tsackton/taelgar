@@ -7,7 +7,7 @@ typeOf: book
 subTypeOf: magic
 ancestry: Drankorian
 rarity: very rare
-image: taurion-manual-of-golems.jpg
+image: "[[taurion-manual-of-golems.jpg]]"
 pcOwner: Dunmar Fellowship
 whereabouts: Vindristjarna
 ddbLink: https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems

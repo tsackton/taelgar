@@ -7,7 +7,7 @@ rarity: unique
 ancestry: halfling
 subTypeOf: magic
 whereabouts: Celyn
-image: silverthorn.png
+image: "[[silverthorn.png]]"
 pcOwner: Celyn
 ---
 # Silverthorn

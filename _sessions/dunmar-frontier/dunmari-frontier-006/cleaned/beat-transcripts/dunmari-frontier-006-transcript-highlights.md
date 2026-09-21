@@ -9,7 +9,7 @@
 
 - Recap Block: recap-001
 - Transcript: dunmari-frontier-006-recap-001-transcript.md
-- Source Range: u0001 -> u0891
+- Source Range: u0001 -> u1200
 - Pull Quotes:
   - ID: quote-beat-001-001
     - Quote: "Thus, our tasks are to help fortify the temple and then figure out what the fuck we're doing north, where the fuck we're going, and try to figure out a plan. Is that accurate?"
@@ -24,7 +24,7 @@
 
 - Recap Block: recap-001
 - Transcript: dunmari-frontier-006-recap-001-transcript.md
-- Source Range: u0001 -> u0891
+- Source Range: u0001 -> u1200
 - Pull Quotes:
   - ID: quote-beat-002-001
     - Quote: "The master is coming. The master will consume the world."
@@ -39,7 +39,7 @@
 
 - Recap Block: recap-001
 - Transcript: dunmari-frontier-006-recap-001-transcript.md
-- Source Range: u0001 -> u0891
+- Source Range: u0001 -> u1200
 - Pull Quotes:
   - ID: quote-beat-003-001
     - Quote: "It's sort of all wrong, basically. Like, time has flowed unevenly here, or something new was inserted into something older, or something old was inserted into something newer."
@@ -52,9 +52,9 @@
 
 ### beat-004 | beat-004
 
-- Recap Block: recap-002
-- Transcript: dunmari-frontier-006-recap-002-transcript.md
-- Source Range: u0892 -> u1494
+- Recap Block: recap-001
+- Transcript: dunmari-frontier-006-recap-001-transcript.md
+- Source Range: u0001 -> u1200
 - Pull Quotes:
   - ID: quote-beat-004-001
     - Quote: "Umbrella of dryness, plus three."
@@ -69,7 +69,7 @@
 
 - Recap Block: recap-002
 - Transcript: dunmari-frontier-006-recap-002-transcript.md
-- Source Range: u0892 -> u1494
+- Source Range: u1201 -> u1494
 - Pull Quotes:
   - ID: quote-beat-005-001
     - Quote: "Expect us in three weeks and worry in four."
@@ -84,7 +84,7 @@
 
 - Recap Block: recap-002
 - Transcript: dunmari-frontier-006-recap-002-transcript.md
-- Source Range: u0892 -> u1494
+- Source Range: u1201 -> u1494
 - Pull Quotes:
   - ID: quote-beat-006-001
     - Quote: "Just more like a moat, a dry moat."

@@ -1,0 +1,160 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-008/cleaned/dunmari-frontier-008-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Choosing the Hidden Approach",
+      "startUid": "u0001",
+      "endUid": "u0344",
+      "lineCount": 344,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The opening recap and route discussion stay with the party on the road below the mountains. The beat ends with the decision to leave the road and follow the stream; actual travel begins at u0345.",
+      "dateEvidence": [
+        "The session manifest fixes both drStart and drEnd at 1748-04-12.",
+        "u0004 describes midmorning; u0339-u0340 explicitly establish about 10 o'clock. Recollections of earlier sessions are discussion, not a change of scene date."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Following the Dwarven Stones",
+      "startUid": "u0345",
+      "endUid": "u0596",
+      "lineCount": 252,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Overland travel becomes a search following numbered stones into the river valley, ending with the water test and naming Taster. Entry into the gorge begins at u0597.",
+      "dateEvidence": [
+        "Same uninterrupted day as beat-001, 1748-04-12.",
+        "u0355 puts the first part of the approach about half an hour after departure; the noonday sun is introduced just after this beat at u0602."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Opening the Flooded Passage",
+      "startUid": "u0597",
+      "endUid": "u1085",
+      "lineCount": 489,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The gorge narrows into the flooded tunnel: the party leaves its horses, investigates the submerged barrier, and Riswynn pulls the chain to drain the passage. Keep this single obstacle together; onward tunnel travel begins at u1086.",
+      "dateEvidence": [
+        "Same day, 1748-04-12; there is no rest or date transition.",
+        "u0602 explicitly describes the noonday sun; u0657-u0658 confirm it is about noon. The scouting swim and chain mechanism follow directly."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Levers, Ladders, and Illusions",
+      "startUid": "u1086",
+      "endUid": "u1382",
+      "lineCount": 297,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Onward travel leads through the spiral ascent, guard chamber, untested lever, ladder, and illusory rubble to the final hidden door. Its opening completes the passage exploration; the inhabited cavern is described from u1383.",
+      "dateEvidence": [
+        "Same day, 1748-04-12, continuing from the noon entry.",
+        "u1091-u1094 describe further tunnel travel and a 30-40 minute ascent, followed by more walking at u1284-u1285 and u1345-u1347. Afternoon is an approximate inference from that elapsed travel, not a stated clock time."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Bargaining with the Cavern's Ruler",
+      "startUid": "u1383",
+      "endUid": "u1658",
+      "lineCount": 276,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The opened door reveals an occupied pool cavern and its white-haired ruler. The party establishes contact, seeks passage, agrees to help fight a threat, and assesses her intentions. She begins leading them onward at u1659.",
+      "dateEvidence": [
+        "Continuous same-day exploration on 1748-04-12 after beat-004; no rest or date transition.",
+        "Approximate afternoon carries forward from the noon entry and subsequent underground travel."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Into the Ruined Marketplace",
+      "startUid": "u1659",
+      "endUid": "u1848",
+      "lineCount": 190,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The ruler leads the party across the pools to a large former marketplace. They question her about the threat, inspect the cavern, light it with torches, and advance. The first tentacle attack at u1849 is a clear combat boundary.",
+      "dateEvidence": [
+        "Direct continuation of beat-005 on 1748-04-12, with only movement and conversation between the pool cavern and marketplace.",
+        "Approximate afternoon follows the preceding underground journey."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Caught by Stone Tentacles",
+      "startUid": "u1849",
+      "endUid": "u2226",
+      "lineCount": 378,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "First phase of one continuous fight: the ambush catches Wellby, Delwath is also restrained, initial attacks fail, Thunderwave damages a tendril, and Wellby survives a bite and escapes with inspiration. End after his disengagement into cover; Kenzo begins assessing the creature at u2227.",
+      "dateEvidence": [
+        "Combat begins immediately after beat-006 on 1748-04-12 and continues in successive turns.",
+        "Same approximate afternoon; no time or day transition."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Breaking Free and Finding Range",
+      "startUid": "u2227",
+      "endUid": "u2556",
+      "lineCount": 330,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Second phase of the same fight: Soul Sight and investigation clarify the enemy's defenses and limited mobility, Delwath teleports onto a roof, and ranged tactics develop. Kenzo severs the tendril holding Riswynn; the next beat starts with Seeker proposing the arrow-and-Heat-Metal combination.",
+      "dateEvidence": [
+        "Uninterrupted combat on 1748-04-12, continuing directly from beat-007.",
+        "Same approximate afternoon; tactical movement and successive turns do not imply a date change."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Burning Arrow, Fallen Monster",
+      "startUid": "u2557",
+      "endUid": "u2907",
+      "lineCount": 351,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Final phase and immediate aftermath of the same fight: the initial glancing arrow cannot be heated, a later shot lodges, and Heat Metal and ranged attacks finish the creature. Keep the short victory exchange, directions onward, and closing table scheduling attached rather than creating a tiny final beat.",
+      "dateEvidence": [
+        "The fight and immediate aftermath continue on 1748-04-12 without an in-world rest or date change.",
+        "Same approximate afternoon. Scheduling from u2842 concerns the next real-world game, not a transition in Taelgar."
+      ]
+    }
+  ]
+}

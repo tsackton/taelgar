@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/text]
+tags:
+  - person
+  - status/cleanup/metadata
+  - status/cleanup/text
 campaignInfo: []
 name: Alesh
 born: 1727
@@ -8,9 +11,12 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, location: Karawa}
-- {type: away, start: 1748-12-26, location: Central Dunmar}
-image: alesh-portrait.jpg
+  - type: home
+    location: Karawa
+  - type: away
+    start: 1748-12-26
+    location: Central Dunmar
+image: "[[alesh-portrait.jpg]]"
 dm_notes: color
 dm_owner: tim
 ---

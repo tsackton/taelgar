@@ -13,18 +13,28 @@ function loadClass(relativePath, context) {
 }
 
 async function run() {
-  const legacyMetadata = JSON.parse(
-    fs.readFileSync(path.join(ROOT, ".obsidian/metadata.json"), "utf8"),
-  );
-  legacyMetadata.campaigns = [{ code: "dufr", partyPage: "Wrong Party" }];
-  legacyMetadata.linkmap = [{ from: "dufr", to: "Wrong Party" }];
-
+  // All metadata is test-owned; the real campaign roster may change freely.
+  const legacyMetadata = {
+    campaigns: [{ code: "voy", partyPage: "Wrong Party" }],
+    linkmap: [{ from: "voy", to: "Wrong Party" }],
+  };
+  const registry = {
+    schemaVersion: 2,
+    campaigns: {
+      "test-voyage": {
+        name: "Test Voyage",
+        code: "voy",
+        aliases: ["Voyagers"],
+        partyPage: "Fixture Fellowship",
+        campaignRoot: "Campaigns/Test Voyage/",
+        notePattern: "Records/Sessions/Session {session}.md",
+      },
+      "other-campaign": { name: "Other Campaign", code: "other" },
+    },
+  };
   const files = new Map([
     [".obsidian/metadata.json", JSON.stringify(legacyMetadata)],
-    [
-      "_scripts/session_note_campaigns.json",
-      fs.readFileSync(path.join(ROOT, "_scripts/session_note_campaigns.json"), "utf8"),
-    ],
+    ["_scripts/session_note_campaigns.json", JSON.stringify(registry)],
   ]);
   const context = {
     app: {
@@ -48,14 +58,18 @@ async function run() {
   const nameManager = new NameManager();
   context.customJS.NameManager = nameManager;
 
-  assert.equal(nameManager.getCampaignPartyPage("dufr"), "Dunmar Fellowship");
-  assert.equal(nameManager.getCampaignPartyPage("Dunmari Frontier"), "Dunmar Fellowship");
-  assert.equal(nameManager.getCampaignConfig("dunmar-frontier").code, "dufr");
+  assert.equal(nameManager.getCampaignPartyPage("voy"), "Fixture Fellowship");
+  assert.equal(nameManager.getCampaignPartyPage("Voyagers"), "Fixture Fellowship");
+  assert.equal(nameManager.getCampaignConfig("test-voyage").code, "voy");
   assert.equal(
-    nameManager.getCampaignSessionNoteFolder("dufr"),
-    "Campaigns/Dunmari Frontier Campaign/Session Notes",
+    nameManager.getCampaignSessionNoteFolder("voy"),
+    "Campaigns/Test Voyage/Records/Sessions",
   );
-  assert.equal(context.customJS.state.coreMeta.campaigns[0].name, "Addermarch");
+  assert.equal(context.customJS.state.coreMeta.campaigns[0].name, "Test Voyage");
+
+  assert.equal(nameManager.getCampaignConfig("  TEST VOYAGE  ").code, "voy");
+  assert.equal(nameManager.getCampaignConfig("missing"), undefined);
+  assert.equal(nameManager.getCampaignSessionNoteFolder("other"), "");
 
   let resolvedPerson;
   context.customJS.NameManager = {
@@ -92,12 +106,23 @@ async function run() {
   const EventManager = loadClass("_scripts/customJS/eventManager.js", context);
   const meetings = new EventManager().getPartyMeeting({
     frontmatter: {
-      campaignInfo: [{ campaign: "dufr", date: "1748-01-01", type: "met" }],
+      campaignInfo: [{ campaign: "voy", date: "1748-01-01", type: "met" }],
     },
   });
 
-  assert.equal(resolvedPerson, "Dunmar Fellowship");
-  assert.equal(meetings[0].campaign, "dufr");
+  assert.equal(resolvedPerson, "Fixture Fellowship");
+  assert.equal(meetings[0].campaign, "voy");
+  // Reinitializing follows edits/deletions in the supplied registry.
+  delete registry.campaigns["test-voyage"];
+  registry.campaigns["other-campaign"].partyPage = "Replacement Party";
+  files.set("_scripts/session_note_campaigns.json", JSON.stringify(registry));
+  await new Init().invoke();
+  assert.equal(nameManager.getCampaignConfig("Voyagers"), undefined);
+  assert.equal(nameManager.getCampaignPartyPage("other"), "Replacement Party");
+  assert.equal(context.customJS.state.coreMeta.campaigns.length, 1);
+  files.delete("_scripts/session_note_campaigns.json");
+  await assert.rejects(new Init().invoke(), /Unexpected read/);
+
   console.log("Header campaign registry tests passed.");
 }
 

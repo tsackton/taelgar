@@ -6,7 +6,7 @@ typeOf: pipes
 subTypeOf: magic
 name: Pipes of Insect Control
 whereabouts: Viepuck
-image: pipes-of-insect-control.png
+image: "[[pipes-of-insect-control.png]]"
 ancestry: fey
 pcOwner: Viepuck
 ---

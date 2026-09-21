@@ -48,11 +48,11 @@ The party heard three songs about merfolk:
 ## Narrative
 We begin on the morning of May 5th, 1749, in the vibrant city of [[Nevium]], situated in the Chardonian province of [[Portalia]], after [[Seeker]]'s successful teleportation spell transported the party from the cold northern land of [[Ursk]] to the balmy shores of the [[Gulf of Chardon]]. Aware of their notoriety and wanted status within the [[Chardonian Empire]], the [[Dunmar Fellowship]] quickly oriented themselves to their surroundings, strategizing their next move in relative secrecy.
 
-![[nevium-1.jpg]]
+![[dufr-098-nevium.jpg]]
 
 Aiming for a discrete and quick escape from the city of [[Nevium]], the party unfolds their folding boat, and, [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the he party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
 
-![[coast-v1.jpg]]
+![[dufr-098-apporia-coast.jpg]]
 
 The following day, May 6th, [[Delwath]] ventured into [[Artevus]], a quiet and somewhat tired and run down  fishing village on the coast, in the province of [[Portalia]], under the effects of an Alter Self spell to disguise his appearance. Posing a treasure hunter, he quickly learned that many local sailors had been pressed into naval service recently, but a local tavernkeeper pointed him to [[Martino]], a retired fisherman and skilled navigator. Meanwhile, the rest of the party approached cautiously by boat, encountering [[Pippa Goodbarrow]], captain of the [[Summer's Breeze]]. 
 
@@ -60,7 +60,7 @@ After a few brief moments of confusion as [[Delwath]] returned to his usual appe
 
 In [[Castrella]], the party split their efforts to gather information. [[Delwath]] and [[Seeker]] sought out [[Juliana Maris]], a renowned collector of merfolk artifacts, hoping she might shed light on their quest. From her, they learned that merfolk fakes were becoming increasingly common, as it had been years since anyone had journeyed to the west coast of [[Apporia]] and returned with genuine merfolk treasure. The only person to have done so recently was the daring halfling captain [[Milo Thistlefoot]], aboard his ship [[Stormdancer]]. But it had been a year since anyone had seen him, and [[Delwath]]'s attempt to scry him failed. Meanwhile, [[Wellby]] procured maps and navigational charts to aid their forthcoming journey. [[Kenzo]] relaxed at a seaside cafe, hoping to gather news and information but mostly taking in the scenery. [[Riswynn]] wandered the town, noting the complete absence of other dwarves, and the lack of any particularly notable crafting or smithy district, but not gaining much useful information about merfolk. 
 
-![[castrella-v2.jpg]]
+![[dufr-098-castrella-overview.jpg]]
 
 As the day drew to a close, the party gathered at the docks, immersing themselves in the local culture. The local tavern, [[The Drunken Dolphin]], was alive with music and tales. [[Isabetta]], a young singer, captured the crowd—and the party’s attention—with the [[Ballad of the Jade Garden]]. Her song not only entertained but also hinted at the location of the jade garden mentioned by the mysterious [[Thomas Hawke]], aligning serendipitously with their quest. Asking about sources of magic to allow them to breath water, they learned of two possible people who could help: the stoneborn hermit and alchemist [[Kazuro]], and the Mystic of Tamaro Bay, possibly the human known as [[Dorian Almare]], who left [[Castrella]] years ago. 
 

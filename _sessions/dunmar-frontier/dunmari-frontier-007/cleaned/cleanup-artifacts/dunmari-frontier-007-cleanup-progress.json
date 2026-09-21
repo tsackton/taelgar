@@ -1,0 +1,12 @@
+{
+  "status": "cleanup_complete_awaiting_confirmation",
+  "reviewedThrough": "u2978",
+  "nextLine": null,
+  "totalLines": 2978,
+  "preparedSha256": "910c5afbdd833d650538a4f75c813f17b9e3060c8ae4d77d6fcbd2c16beb41ce",
+  "note": "Both contextual line-by-line passes complete through u2978. Per user direction, manual input is reserved for truly garbled substantive meaning; incidental incomplete table chatter does not require manual review. Exact headers and line count preserved; prepared source hash unchanged. Awaiting the session-note-prep interactive cleanup checkpoint before beat splitting.",
+  "secondPassComplete": true,
+  "changedLineCount": 969,
+  "unresolvedCount": 0,
+  "cleanedSha256": "9a879c80191471a464bb47623429dd1c6c2dab4ae8336b3979d44365f5453eb5"
+}

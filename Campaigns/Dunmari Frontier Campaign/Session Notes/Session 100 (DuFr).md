@@ -35,7 +35,7 @@ The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and f
 ## Narrative
 The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [[Kazuro]]'s potion to breath (except [[Kenzo]], who has his cloak of the mantra ray). 
 
-![[sentient_ocean.png]]
+![[dufr-100-sentient-ocean.png]]
 
 As the party passes into the protective cocoon of the [[Sentient Ocean]], a barrier keeping the merfolk city of [[Omi]], below, sealed off from the rest of the ocean, they are presented with a [[Visions of the Sentient Ocean|series of visions]], telling something of the history of the [[Sentient Ocean]], and probing the history of [[Delwath]], [[Seeker]], [[Kenzo]], [[Riswynn]], and [[Wellby]]. As the ocean and the party trade [[Visions of the Sentient Ocean|stories of their pasts]], the party slowly passes through the barrier and emerges above [[Omi]].
 

@@ -1,0 +1,42 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Following the Hidden Route",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "Choosing the concealed approach and following the numbered stones share one immediate goal: finding the dwarven entrance. Entering the gorge and leaving the horses marks the shift to underground exploration."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Through Water and Illusion",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "Draining the flooded tunnel and navigating the guard chamber, ladder, and false cave-in form a continuous exploration of the concealed entrance route. Opening the final door introduces an inhabited cavern and a new social situation."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Price of Passage",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The bargain with Inakara continues as she leads the party to the marketplace and explains the threat. Keep her demand, guidance, and the party’s preparations together; the first tentacle attack begins the fight."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Roper in the Marketplace",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "The ambush, escapes, discovery of the roper’s limited mobility, and burning-arrow tactic are phases of one uninterrupted fight. Its brief aftermath resolves the bargain only as far as Inakara pointing out the onward door."
+    }
+  ]
+}

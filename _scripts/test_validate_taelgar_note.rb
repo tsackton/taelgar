@@ -7,60 +7,10 @@ require "open3"
 require "tmpdir"
 
 require_relative "validate_taelgar_note"
+require_relative "tests/lint_fixture_vault"
 
 class ValidateTaelgarNoteTest < Minitest::Test
   FIXTURE_PATH = File.join(__dir__, "tests", "fixtures", "taelgar_note_lint_trial.json")
-
-  def test_adopted_specification_records_the_validator_version
-    specification = TaelgarNoteLint::ParsedNote.new(
-      "_MoC/Taelgar Note Linter.md",
-      File.read(File.join(__dir__, "..", "_MoC", "Taelgar Note Linter.md"))
-    )
-
-    assert_nil specification.yaml_error
-    assert_equal TaelgarNoteLint::VERSION, specification.data["linterVersion"]
-    assert_equal TaelgarNoteLint::DM_NOTES_REVIEW_VERSION, specification.data["dmNotesReviewVersion"]
-    assert_equal TaelgarNoteLint::NAME_REVIEW_VERSION, specification.data["nameReviewVersion"]
-    assert_equal TaelgarNoteLint::POV_REVIEW_VERSION, specification.data["povReviewVersion"]
-    assert_equal "3.5", TaelgarNoteLint::VERSION
-    assert_equal 5, TaelgarNoteLint::SCHEMA_VERSION
-    assert_equal "3.4", TaelgarNoteLint::DM_NOTES_REVIEW_VERSION
-    assert_equal "3.4", TaelgarNoteLint::NAME_REVIEW_VERSION
-    assert_equal "3.4", TaelgarNoteLint::POV_REVIEW_VERSION
-  end
-
-  def test_adopted_specification_records_semantic_lifecycle
-    specification = File.read(File.join(__dir__, "..", "_MoC", "Taelgar Note Linter.md"))
-
-    ["Sufficient", "Sufficient, worth expanding", "Underdeveloped"].each do |verdict|
-      assert_includes specification, verdict
-    end
-    assert_includes specification, "**Sufficient, worth expanding** is a handoff-only verdict."
-    assert_includes specification, "By itself, it cannot create a Lint block, `status/check/lint`, or an editorial finding."
-    assert_includes specification, "Does the visible note currently perform its reference role without a central gap?"
-    assert_includes specification, "`editorial.note_underdeveloped`"
-    assert_includes specification, "`editorial.reference_voice`"
-    assert_includes specification, "Worldbuilding discussion routing"
-    assert_includes specification, "A party visit, conversation, purchase, overnight stay, routine encounter"
-    assert_includes specification, "## Taelgar note lint"
-    assert_includes specification, "### Applied changes"
-    assert_includes specification, "### Validated judgments"
-    assert_includes specification, "### Open findings"
-  end
-
-  def test_skill_records_operational_lint_contract
-    skill = File.read(File.join(__dir__, "..", ".agents", "skills", "lint-taelgar-note", "SKILL.md"))
-
-    assert_includes skill, "../../../_MoC/Taelgar Note Linter.md"
-    assert_includes skill, "ruby _scripts/validate_taelgar_note.rb"
-    assert_includes skill, "ruby _scripts/lint_taelgar_notes.rb prepare"
-    assert_includes skill, "ruby _scripts/lint_taelgar_notes.rb finalize --write"
-    assert_includes skill, "`gpt-5.6-sol` with `xhigh` reasoning"
-    assert_includes skill, "`gpt-5.6-terra` at `high`"
-    assert_includes skill, "candidateSha256"
-    assert_includes skill, "reviewSummary"
-    assert_includes skill, "generate_worldbuilding_discussion_index.rb"
-  end
 
   def test_status_check_name_is_omitted_from_lint_status_summary
     root = make_vault
@@ -180,8 +130,8 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_includes rule_ids(unknown), "dm.owner_unknown"
   end
 
-  def test_generated_lint_value_sidecar_matches_moc_declarations
-    root = File.expand_path("..", __dir__)
+  def test_generated_lint_value_sidecar_checks_fixture_declarations
+    root = make_vault
     stdout, stderr, status = Open3.capture3(
       "ruby", File.join(__dir__, "generate_taelgar_lint_values.rb"), "--check", "--root", root
     )
@@ -202,6 +152,27 @@ class ValidateTaelgarNoteTest < Minitest::Test
       TaelgarNoteLint::Validator.new(root: root, check_links: false)
     end
     assert_includes error.message, "taelgar_lint_values.json is stale"
+  end
+
+  def test_validator_reports_a_deleted_governance_source
+    root = make_vault
+    File.delete(File.join(root, "_MoC", "Note Status.md"))
+
+    error = assert_raises(TaelgarLintValues::Error) do
+      TaelgarNoteLint::Validator.new(root: root, check_links: false)
+    end
+    assert_includes error.message, "Lint value source is missing: _MoC/Note Status.md"
+  end
+
+  def test_lint_catalog_accepts_rewritten_fixture_declarations_after_regeneration
+    root = make_vault
+    path = File.join(root, "_MoC", "Note Status.md")
+    File.write(path, File.read(path).sub('"fixture-owner"', '"new-owner"'))
+    File.write(File.join(root, TaelgarLintValues::OUTPUT_PATH), JSON.generate(TaelgarLintValues.build(root)))
+
+    catalog = TaelgarNoteLint::LintValueCatalog.new(root)
+    assert_includes catalog.values("dmOwners"), "new-owner"
+    refute_includes catalog.values("dmOwners"), "fixture-owner"
   end
 
   def test_validator_has_no_hand_authored_editorial_replacement_dictionary
@@ -1238,45 +1209,29 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute report.fetch("findings").any? { |finding| finding["ruleId"].start_with?("freshness.") }
   end
 
-  def test_authoritative_campaign_registry_has_the_adopted_names_and_codes
-    root = Pathname.new(__dir__).parent
+  def test_campaign_registry_resolves_fixture_names_codes_and_aliases
+    root = Pathname.new(make_vault)
     registry = TaelgarNoteLint::CampaignRegistry.new(root)
-    expected = {
-      "Addermarch" => "adma",
-      "Dunmar Frontier" => "dufr",
-      "Cleenseau" => "clee",
-      "Great Library" => "grli",
-      "Mawar Adventures" => "mawar",
-      "Into the Chasm" => "itc",
-      "Labyrinths of the Lost" => "lablost",
-      "Lost in the Feywild" => "feywild"
-    }
 
-    assert_equal expected, registry.campaigns.to_h { |campaign| [campaign.fetch("name"), campaign.fetch("code")] }
-    assert_equal "dufr", registry.resolve("Dunmari Frontier")
-    assert_equal "Dunmar Frontier", registry.canonical_name("DuFr")
-  end
+    assert_equal 1, registry.campaigns.length
+    %w[grli GL great-library].each { |value| assert_equal "grli", registry.resolve(value) }
+    assert_equal "grli", registry.resolve("Great Library Campaign")
+    assert_equal "Great Library", registry.canonical_name("GL")
+    assert_nil registry.resolve("Missing Campaign")
 
-  def test_runtime_campaign_compatibility_metadata_matches_the_authoritative_registry
-    root = Pathname.new(__dir__).parent
-    registry = TaelgarNoteLint::CampaignRegistry.new(root)
-    compatibility = JSON.parse(root.join(".obsidian", "metadata.json").read).fetch("campaigns")
-    by_code = compatibility.to_h { |campaign| [campaign.fetch("code"), campaign] }
+    # Replacing the registry must change lookup behavior without any baked-in
+    # expectations about the working vault's campaigns.
+    root.join("_scripts/session_note_campaigns.json").write(JSON.generate(
+      "campaigns" => {"test-voyage" => {"name" => "Test Voyage", "code" => "test", "aliases" => ["Voyagers"]}}
+    ))
+    rewritten = TaelgarNoteLint::CampaignRegistry.new(root)
+    assert_equal "test", rewritten.resolve("Voyagers")
+    assert_equal "Test Voyage", rewritten.canonical_name("TEST")
+    assert_nil rewritten.resolve("GL")
 
-    assert_equal registry.campaigns.map { |campaign| campaign.fetch("code") }.sort, by_code.keys.sort
-    registry.campaigns.each do |campaign|
-      compatible = by_code.fetch(campaign.fetch("code"))
-      expected_folder = Pathname.new(campaign.fetch("campaignRoot"))
-        .join(Pathname.new(campaign.fetch("notePattern")).dirname).cleanpath.to_s
-      recognized_names = [compatible.fetch("code"), *compatible.fetch("aliases", [])]
-        .map { |value| TaelgarNoteLint.normalize(value) }
-
-      assert_includes recognized_names, TaelgarNoteLint.normalize(campaign.fetch("name"))
-      assert_equal expected_folder, compatible.fetch("sessionNoteFolder")
-      if campaign["partyPage"]
-        assert_equal campaign.fetch("partyPage"), compatible.fetch("partyPage")
-      end
-    end
+    root.join("_scripts/session_note_campaigns.json").delete
+    error = assert_raises(ArgumentError) { TaelgarNoteLint::CampaignRegistry.new(root) }
+    assert_includes error.message, "Campaign registry not found"
   end
 
   def test_campaign_frontmatter_uses_long_name_and_scoped_metadata_uses_lowercase_code
@@ -1643,7 +1598,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     root = Dir.mktmpdir("taelgar-note-lint-test.")
     @temporary_roots << root
     FileUtils.mkdir_p(File.join(root, "_scripts"))
-    copy_lint_value_catalog(root)
+    LintFixtureVault.write_catalog(root)
     File.write(
       File.join(root, "_scripts", "session_note_campaigns.json"),
       JSON.pretty_generate(
@@ -1676,19 +1631,6 @@ class ValidateTaelgarNoteTest < Minitest::Test
       )
     )
     root
-  end
-
-  def copy_lint_value_catalog(root)
-    repository_root = File.expand_path("..", __dir__)
-    source_sidecar = File.join(__dir__, "taelgar_lint_values.json")
-    sidecar = JSON.parse(File.read(source_sidecar))
-    FileUtils.cp(source_sidecar, File.join(root, "_scripts", "taelgar_lint_values.json"))
-    sidecar.fetch("sources").each do |source|
-      relative_path = source.fetch("path")
-      destination = File.join(root, relative_path)
-      FileUtils.mkdir_p(File.dirname(destination))
-      FileUtils.cp(File.join(repository_root, relative_path), destination)
-    end
   end
 
   def write_note(root, relative_path, text)

@@ -50,12 +50,12 @@ The party bargins to exchange the answers to three questions, and agreeing not t
 [[Typhina]] explains some of her history with the harpies, and claims not to have cursed them; instead, she simply kept them from the forest as gently as she could (although later relevalations call the true of this into question). 
 From here, the party proceeds, crossing the dry riverbed of the River of Time that no longer flows here, and finding the grotto of the nymph [[Melusine]], supposedly an old friend and ally of [[Typhina]].
 
-![[amberglow-nymph-grotto.png|600]]
+![[dufr-067-amberglow-nymph-grotto.png|600]]
 The party speaks with [[Typhina]] and [[Melusine]], about [[Agata]], and the fey, and [[Ring of the Warded Mind|Typhina's story]], but come to no real conclusions and decide to continue to the Heartwood Grove.
 
 The party arrives in the grove, seeing the massive tree before them, and [[Seeker]] steps forward to give the [[Ring of the Warded Mind]] to the tree, when evil laughter begins to echo through the woods. Emerging from the ring, reformed, is not [[Typhina]], but [[Agata]] Dustmother, who has been pretending to be [[Typhina]] for months. 
 
-![[amberglow-heartwood-grove.png|600]]
+![[dufr-067-amberglow-heartwood-grove.png|600]]
 [[Agata]] greets the party cheerfully, thanking them for the chaos they have caused in her name ("The best civil war is always one where every side believes they are righteous"), and offers to send them back to the [[Material Plane]]. Before she can finish speaking, [[Wellby]] attacks, and the battle is joined. The party, however, has gotten much stronger since they last faced [[Agata]], and she does not present a lethal danger. [[Caulaus]] with his echo deal an incredible amount of damage, including the killing blow, aided by [[Kenzo]]'s stunning strike.
 
 [[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].

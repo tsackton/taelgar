@@ -1,0 +1,4 @@
+interface:
+  display_name: "Taelgar Asset Review"
+  short_description: "Organize assets and repair image references"
+  default_prompt: "Use $taelgar-asset-review to review Taelgar assets or repair image properties, with interactive choices for broken references."

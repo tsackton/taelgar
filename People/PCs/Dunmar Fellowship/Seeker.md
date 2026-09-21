@@ -17,7 +17,13 @@ affiliations: [{org: Dunmar Fellowship, type: primary}]
 > A [[Dwarves|dwarf]] (he/him), of the [[Dunmar Fellowship]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-![[seeker.jpg|right|400]]
+> [!image|right standard]
+> ![[seeker-writing-ikrams-courtyard-v1.webp]]
+> *Seeker, writing in his notebook in Ikram's, as our campaign begins.*
+
+
+
+
 
 ## Pre-Campaign Events
 

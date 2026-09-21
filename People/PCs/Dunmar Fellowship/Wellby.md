@@ -17,8 +17,9 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > A [[Halflings|halfling]] (he/him), of the [[Goodbarrels]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-![[welby-full.jpg|400]]
-
+> [!image|right standard]
+> ![[wellby-outside-ikrams-dunmar-map.webp]]
+> *Wellby and his maps.*
 ## Pre-Campaign Events
 
 - (DR:: 1747-08-02): Wellby leaves [[Sembara]], heading south. Spends some time wandering.

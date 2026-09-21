@@ -54,7 +54,7 @@ The **northern uplands**—those above 4,500’—hold only a handful of permane
 The plateau is bordered in the west by the foothills of the [[Sentinel Range]] which rise from western Lavnoch to great peaks over 10,000' tall.  In the east, it is bordered by the [[Braebein]] - a series of mountainous hills with a few peaks over 6,000' - and the [[Lauswald]], an eerie forest said to be haunted by the children of [[Zeyfa]]. In the north, the terrain rises to over 5,000' before descending in a series of more gentle foothills to the land around the [[Great Chasm]]. In the south, a series of sharp, rocky hills separate the edge of the plateau from the [[Semb]] river valley.
 
 %% a brief note on topography:
-![[Pasted image 20251202104025.png]]I think the heights run from darkest to lightest in this map. 
+![[lavnoch-schematic-map.png]]I think the heights run from darkest to lightest in this map. 
 (1) Basically part of the sentinels -mountains some reaching over 12,000 feet. This is like the Yellowstone Rockies or something. 
 (2) Uplands; above treeline (>8000 feet) but wooded in valleys
 (3) High Plateau; probably around 6000 feet, mostly wooded except on north faces ridges and on higher peaks

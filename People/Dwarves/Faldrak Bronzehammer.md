@@ -17,7 +17,7 @@ whereabouts:
 - {type: away, start: 1698-01-01, end: '', location: Feywild}
 - {type: home, start: 1727-01-02, end: 1749-01-04, location: Tollen}
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
-image: faldrak-small.png
+image: "[[faldrak-small.png]]"
 dm_notes: important
 dm_owner: tim
 ---

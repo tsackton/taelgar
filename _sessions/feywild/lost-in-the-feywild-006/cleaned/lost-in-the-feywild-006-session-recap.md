@@ -49,7 +49,7 @@ Aurae helps the party uncover evidence that Arithrimos Lamperum exploited captiv
 - Organizations: Arithrimos Lamperum
 - Items: glass key, Allegories for the Initiated
 - Enemies: none
-- Image: 27th-house-library.png
+- Image: [[feywild-05-27th-house-library.png]]
 - Image Role: figure
 - Image Size: large
 - Image Placement:

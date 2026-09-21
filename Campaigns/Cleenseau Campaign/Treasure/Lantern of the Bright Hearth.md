@@ -7,7 +7,7 @@ typeOf: lantern
 ancestry: fey
 rarity: unique
 pcOwner: Robin of Abenfyrd
-image: lantern-of-the-bright-hearth.png
+image: "[[lantern-of-the-bright-hearth.png]]"
 whereabouts: Robin of Abenfyrd
 ---
 # The Lantern of the Bright Hearth

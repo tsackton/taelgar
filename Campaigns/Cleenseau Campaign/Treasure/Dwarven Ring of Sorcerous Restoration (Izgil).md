@@ -6,7 +6,7 @@ displayDefaults: {defArt: "" }
 subTypeOf: magical
 typeOf: ring
 ancestry: Dwarven
-image: izgil-ring-of-restore.png
+image: "[[izgil-ring-of-restore.png]]"
 pcOwner: Izgil Moonseeker
 whereabouts: Izgil Moonseeker
 ---

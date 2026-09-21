@@ -1349,21 +1349,21 @@
 [u1349 | 01:55:18.220-01:55:21.860 | Zeno] I have my inspiration still, so I can use that, this round, if I need to.
 [u1350 | 01:55:21.860-01:55:22.750 | DM] Alright.
 [u1351 | 01:55:22.990-01:55:24.570 | DM] You won the first round, though, so that's good.
-[u1352 | 01:55:25.250-01:55:25.970 | DM] Yeah.
-[u1353 | 01:55:26.900-01:55:28.640 | DM] Rosca, you got nothing.
-[u1354 | 01:55:28.830-01:55:30.249 | DM] I got my crew.
-[u1355 | 01:55:30.450-01:55:32.980 | DM] We're gonna roll right over you.
+[u1352 | 01:55:25.250-01:55:25.970 | Zeno] Yeah.
+[u1353 | 01:55:26.900-01:55:28.640 | Zeno] Rosca, you got nothing.
+[u1354 | 01:55:28.830-01:55:30.249 | Zeno] I got my crew.
+[u1355 | 01:55:30.450-01:55:32.980 | Zeno] We're gonna roll right over you.
 [u1356 | 01:55:33.150-01:55:33.900 | DM] Whoa!
 [u1357 | 01:55:34.420-01:55:39.709 | Zeno] Coming out of nowhere gonna get ya. Here comes my boy, Heska.
 [u1358 | 01:55:42.130-01:55:43.160 | DM] Oh, no.
-[u1359 | 01:55:43.370-01:55:45.830 | DM] Here comes my Little Tony.
+[u1359 | 01:55:43.370-01:55:45.830 | Zeno] Here comes my Little Tony.
 [u1360 | 01:55:46.000-01:55:50.220 | Zeno] He's gonna look at you and see you're a phony.
-[u1361 | 01:55:51.310-01:55:51.820 | Zeno] Oh, God.
-[u1362 | 01:55:51.820-01:55:55.140 | DM] I'm gonna have to, like, kind of lose… Melanie.
+[u1361 | 01:55:51.310-01:55:51.820 | DM] Oh, God.
+[u1362 | 01:55:51.820-01:55:55.140 | Zeno] I'm gonna have to, like, kind of lose… Melanie.
 [u1363 | 01:55:55.140-01:56:01.790 | Zeno] Crew, we're better than you. And now I'm up on my pulpit like a prophet.
-[u1364 | 01:56:01.790-01:56:07.250 | DM] With my boy, Sculpit. We're gonna knock it right down!
+[u1364 | 01:56:01.790-01:56:07.250 | Zeno] With my boy, Sculpit. We're gonna knock it right down!
 [u1365 | 01:56:07.600-01:56:09.650 | Zeno] Don't mess with my crew.
-[u1366 | 01:56:09.880-01:56:10.990 | DM] will crush you.
+[u1366 | 01:56:09.880-01:56:10.990 | Zeno] will crush you.
 [u1367 | 01:56:13.290-01:56:21.210 | DM] Okay, okay, on the strength, on the strength of, like, just the performance… You should get it. Yeah, you get an additional, you get an additional plus 5 on that.
 [u1368 | 01:56:21.210-01:56:21.830 | DM] So, like…
 [u1369 | 01:56:22.130-01:56:26.579 | DM] Add a plus 5 to whatever your performance roll is. That was sick.

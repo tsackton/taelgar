@@ -138,7 +138,7 @@ Still looking for any other way out, Txarro dives into the river beside the mano
 - Organizations: Arithrimos Lamperum
 - Items: Brilliant Numbers, Menestheus's book, single door, eastern screech owl familiar
 - Enemies: none
-- Image: the-door-on-the-cliff.jpg
+- Image: [[feywild-03-the-door-on-the-cliff.jpg]]
 - Image Role: figure
 - Image Size: large
 - Image Placement:

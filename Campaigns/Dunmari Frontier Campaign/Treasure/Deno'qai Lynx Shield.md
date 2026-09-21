@@ -9,7 +9,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield
 subTypeOf: magical
 pcOwner: Delwath
 rarity: legendary
-image: lynx-shield.png
+image: "[[lynx-shield.png]]"
 whereabouts: Dewalth
 ---
 # Deno'qai Lynx Shield

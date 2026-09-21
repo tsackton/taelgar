@@ -4,8 +4,7 @@
 
 - Title: Dragonets — Session 1
 - Desc Title: Eight Homes, One Family
-- Tagline: in which a disastrous duet precedes a shared vision
-- One-Sentence Summary: During the Jubilee, Heska, Sculpit, Little Tony, and Zeno navigate a disastrous performance and a triumphant rap battle before a mysterious egg draws them into a shared vision of home.
+- One-Sentence Summary: During the Jubilee, Heska, Sculpit, Little Tony, and Zeno meet and experience disasters and triumphs alike. After a quiet dinner together, mysterious events draw them to the statue of the Wanderer, and a strange egg. 
 - Campaign: Dragonets
 - Arc: none
 - Scope: session
@@ -16,86 +15,9 @@
 - PCs: Heska, Sculpit, Little Tony, Zeno
 - Table Notes: none
 
-## Timeline
-
-### Undated (ordered)
-
-- Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-001
-- Locations: Circular Island
-- NPCs: none
-- Organizations: Dark Lady community
-- Items: none
-- Combat Beats: none
-
-#### Short
-Little Tony and Sculpit share a quiet refuge on the Wanderer’s palm.
-
-### Undated (ordered) (morning)
-
-- Timeline Segment: timeline-002
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-002
-- Locations: Circular Island
-- NPCs: Xena
-- Organizations: none
-- Items: Little Tony's pebble collection
-- Combat Beats: none
-
-#### Short
-Xena recruits Heska for her Jubilee duet.
-
-### Undated (ordered)
-
-- Timeline Segment: timeline-003
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-003, beat-004
-- Locations: Circular Island
-- NPCs: Xena, Zare
-- Organizations: none
-- Items: Heska's whip, Edmund, Eight-sided ruby, Xena's jewelry
-- Combat Beats: none
-
-#### Short
-The friends prepare Xena’s duet and jeweled costume.
-
-### Undated (ordered) (evening)
-
-- Timeline Segment: timeline-004
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-005, beat-006
-- Locations: Circular Island
-- NPCs: Xena, Brightface elder, Rosca
-- Organizations: Wanderer community, Dark Lady community, Brightface community, Rosca's crew
-- Items: Ceremonial offerings, Dragonet egg clutches, Xena's jewelry, Heska's whip, Rosca's prop egg
-- Combat Beats: none
-
-#### Short
-The Jubilee opens with a ceremony of unity.
-
-### Undated (ordered) (night)
-
-- Timeline Segment: timeline-005
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-007, beat-008, beat-009, beat-010
-- Locations: Circular Island, Temple overlook, Wanderer's palm
-- NPCs: Dying purple dragonet, Man with a jade hand
-- Organizations: none
-- Items: Mysterious egg
-- Combat Beats: none
-
-#### Short
-The four dragonets share a vision through a mysterious egg.
-
 ## Recap
 
-### recap-001 | Four Dragonets on Circular Island
+### recap-001 | The Dragonets of the Circular Island
 
 - Kind: beat
 - Beat IDs: beat-001
@@ -103,29 +25,37 @@ The four dragonets share a vision through a mysterious egg.
 - Time: unknown
 - Source Range: u0001 -> u0241
 - Polished Transcript: beat-transcripts/dragonets-001-recap-001-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Wanderer's hand, Dark Lady
 - NPCs: none
 - Organizations: Dark Lady community
 - Items: none
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dragonets-01-wanderer.webp]]
+- Image Role: figure
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: The Wanderer’s hand, a quiet refuge for Little Tony and Sculpit.
+- Image Alt: A vast, weathered stone palm supports a small encampment above sunset clouds.
+- Image 2: [[dragonets-01-dark-lady.webp]]
+- Image 2 Role: figure
+- Image 2 Size: standard
+- Image 2 Placement:
+- Image 2 Render:
+- Image 2 Caption: The Dark Lady’s neighborhood, where Heska and Zeno spend their time.
+- Image 2 Alt: Lantern-lit balconies and colorful awnings nestle against an immense stone statue overlooking the sea.
 
 #### Short
-On Circular Island, Little Tony, Sculpit, Heska, and Zeno prepare for the Jubilee amid talk of troublesome admirers, performance costumes, and a future comedy club.
-
-#### Intermediate
-On Circular Island, eight immense statues house dragonet communities that gather for the annual Jubilee. Little Tony retreats to the Wanderer’s palm for relief from the constant chatter of objects, enlisting Sculpit in a story about an invented girlfriend to discourage his former familiar, Glenda the Seagull. Sculpit has costume worries for his star performer. Meanwhile, in the Dark Lady’s neighborhood, Zeno pitches comedy-club names to Heska, who answers with quiet pranks and has promised his friend a spectacular crab shell for the eventual club.
+On the Circular Island, Little Tony, Sculpit, Heska, and Zeno prepare for the Jubilee, the annual celebration of dragonet culture.
 
 #### Long
-The storm-ringed Circular Island is home to eight dragonet communities, each sheltered by an immense statue. Before their annual Jubilee, Little Tony and Sculpit spend time on the Wanderer’s outstretched palm, one of the few places where Tony can escape the incessant demands of talkative objects. His former familiar, Glenda the Seagull, has fallen in love with him, and he recruits Sculpit to help maintain a story about a girlfriend elsewhere. Sculpit, happier coaching performers than appearing before an audience himself, has a different concern: finding costume materials for his star client. In the Dark Lady’s neighborhood, Zeno tries out names for a future comedy club while Heska quietly interferes with Mage Hand. Heska hunts for the community’s shared meals and once brought down a fiddler crab twice a dragonet’s size. He has promised its shell, patterned like rainbow waves, as decoration once Zeno settles on a name. Tony’s own prized discoveries run smaller, including a butt-shaped pebble that won third place in a finding competition.
+We begin on the Circular Island, home to eight dragonet communities, each sheltered by an immense statue, whose original purpose has long been forgotten by the dragonets who now live among them. It is just before the annual Jubilee, the yearly celebration of dragonet culture. 
 
-### recap-002 | Preparing Xena's Performance
+On the Wanderer's outstretched hand, Little Tony and Sculpit are trying to find a moment of peace and quiet. This is one of the few places where Little Tony can escape the incessant demands of talkative objects, which speak to him nearly everywhere else on the island. His former familiar, Glenda the Seagull, is particularly troubling, as she has fallen in love with him and won't stop bothering him. Sculpit, happier coaching performers than appearing before an audience himself, has a different concern: finding costume materials for his star client, Xena, performing in the opening show of the Jubilee. 
+
+Elsewhere, in the Dark Lady’s neighborhood, Zeno and Heska hang out, as they often do. Zeno tries out names for a future comedy club, a frequent topic of conversation, while Heska quietly practices pranks on Zeno. Heska often goes for long hunts over the ocean, and once brought back a massive fiddler crab, twice his size, with a beautiful shell patterned like rainbow waves. He has promised this to Zeno as decoration for the club, if only he could settle on a name. 
+
+### recap-002 | The Diva's Rehearsal 
 
 - Kind: beat
 - Beat IDs: beat-002, beat-003, beat-004
@@ -133,27 +63,28 @@ The storm-ringed Circular Island is home to eight dragonet communities, each she
 - Time: unknown
 - Source Range: u0242 -> u0848
 - Polished Transcript: beat-transcripts/dragonets-001-recap-002-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Temple grounds
 - NPCs: Xena, Zare
 - Organizations: none
 - Items: Little Tony's pebble collection, Heska's whip, Edmund, Eight-sided ruby, Xena's jewelry
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dragonets-01-jubilee-opening-ceremony.webp]]
+- Image Role: figure
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: The temple grounds on Jubilee day.
+- Image Alt: Dragonets gather among colorful stalls, banners, and terraced courtyards surrounding the central temple.
 
 #### Short
-Xena draws a reluctant Heska into her aerial duet while Sculpit coaches him and Little Tony trades his prized pebble Edmund to Zare for costume jewelry.
-
-#### Intermediate
-At the temple preparations, Sculpit’s star performer Xena demands a more dazzling costume and a new partner: Heska, whose famous crab hunt has earned her admiration. Sculpit coaxes the reluctant hunter into a quiet rehearsal, where his whip-catching skills suggest a duet built around catching jewels dropped by Xena. While they practice, Zeno takes Little Tony to his tailor, Zare. Tony hears the gems recommending an eight-sided ruby as their centerpiece, then secures the collection by trading Edmund, his prizewinning pebble, after Zare promises to care for him.
+The morning of the Jubilee, Xena, who Sculpit has been coaching, decides she must have a partner in her dance, and insists on a reluctant Heska joining her aerial duet. Sculpit coaches the duo, while Little Tony attends to costume materials, trading his prized pebble Edmund to Zare for jewelry to adorn Xena. 
 
 #### Long
-At the central temple, Sculpit finds his star performer Xena dissatisfied with her costume and determined to add a partner to her act. A singer and aerial acrobat with a decorated pot belly, she wants jewelry an audience can appreciate from a distance; Tony’s carefully distinguished pebbles will not do. She also confides to her clutchmate Zeno that she admires Heska, though she presents recruiting him as Zeno’s idea. Heska resists the spotlight but agrees to demonstrate his flying somewhere quieter. Sculpit sends an Unseen Servant ahead with a small object, giving the hunter something to pursue. Heska initially misses with his whip and catches it with a claw; with coaching, he repeats the attempt, catches it cleanly, flips it into the air, and lands with it in hand. Xena bursts from her hiding place in the bushes, delighted, and Heska’s silver highlights blush red. They devise an aerial routine in which she drops costume pieces for him to catch. Leaving the pair with Sculpit to rehearse, Zeno brings Tony to Zare’s festival stall. For once, Tony can distinguish the gems’ individual voices, and they favor an eight-sided ruby to lead their ensemble. Zare recognizes Tony as the finder of the prizewinning butt-shaped pebble and asks for it in exchange. Tony produces Edmund and agrees only after the collector solemnly promises to care for him. From Edmund’s own perspective, this exchange is another moment in a history stretching back to an ancient statue. Zare supplies five pieces of jewelry and grateful extras, and the pair returns with Xena’s costume ornaments.
+The morning of the Jubilee, the dragonets gather at the center of the Circular Island, at the long abandoned temple that now serves as the center of dragonet culture. Here, Sculpit finds his star performer Xena in a tizzy: she is dissatisfied with her costume, and determined to add a partner to her act. A singer and aerial acrobat with a decorated pot belly, she wants jewelry an audience can appreciate from a distance; Tony’s carefully distinguished pebbles will absolutely not do. Xena also confides to her clutchmate Zeno that she admires Heska, and wants to perform with him, though when she tells Sculpit she insists with was Zeno’s idea. 
+
+When approached by this intimidating group, Heska resists the spotlight, but agrees to show off his flying skill somewhere quiet where people can't see him. Sculpit sends an Unseen Servant ahead with a small object, giving Heska something to pursue. Heska initially misses with his whip and catches it with a claw; with Sculpit's coaching, he tries again, and this time catches it cleanly, flips it into the air, and lands with it in hand. At this, Xena bursts from her hiding place in the bushes, delighted; in response, Heska’s silver highlights blush red. Sculpit sells Heska hard on the plan, and outlines an aerial routine in which Xena drops costume pieces for Heska to catch. 
+
+Leaving the pair with Sculpit to rehearse, Zeno brings Tony to his tailor Zare, who has a festival stall nearby. LIstening closely, Tony can distinguish the gems’ individual voices, and they favor an eight-sided ruby to lead their ensemble. Zare recognizes Tony as the finder of a prizewinning butt-shaped pebble from the Great Find at last year's Jubilee, and asks for it in exchange. Tony produces the pebble, named Edmund, and agrees to the exchange only after Zare solemnly promises to care for the precious butt-shaped rock. Zare, delighted, supplies five pieces of jewelry and several extras out of gratitude; the pair return with Xena’s costume ornaments.
 
 ### recap-003 | Triumphs and Disasters at the Jubilee
 
@@ -163,29 +94,30 @@ At the central temple, Sculpit finds his star performer Xena dissatisfied with h
 - Time: evening
 - Source Range: u0849 -> u1396
 - Polished Transcript: beat-transcripts/dragonets-001-recap-003-transcript.md
-- Locations: Circular Island
-- NPCs: Xena, Brightface elder, Rosca
-- Organizations: Wanderer community, Dark Lady community, Brightface community, Rosca's crew
-- Items: Ceremonial offerings, Dragonet egg clutches, Xena's jewelry, Heska's whip, Rosca's prop egg
+- Locations: Circular Island, Temple grounds
+- NPCs: Xena, Brightface elder, Roska
+- Organizations: Wanderer community, Dark Lady community, Brightface community, Roska's crew
+- Items: Ceremonial offerings, Dragonet egg clutches, Xena's jewelry, Heska's whip, Roska's prop egg
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dragonets-01-roska.webp]]
+- Image Role: figure
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: Roska and his crew bring their challenge to the Jubilee.
+- Image Alt: Roska performs with musicians beneath a colorful canopy before a cheering crowd at sunset.
 
 #### Short
-At the Jubilee, Heska accidentally whips Xena and escapes into fog, but she rescues the act and Zeno later wins a rap contest against Rosca with a tribute to his friends.
-
-#### Intermediate
-At sunset, the eight communities honor their egg clutches and answer the Brightface elder’s call with “One family.” The duet starts brilliantly, then Heska strikes Xena with his whip and hides in Fog Cloud. She rises above the fog to reclaim the crowd, later calling Heska cute and kissing his cheek despite declaring she will never forgive him. The games bring a happier result: encouraged by Sculpit, Zeno defeats his friendly rival Rosca in a rap contest, clinching victory with a verse celebrating all three friends. Rosca concedes with an embrace.
+At the Jubilee, the performance begins strong, until Heska accidentally whips Xena, summons a fog cloud in embarrasment, and sneaks off into the crowd. Xena manages to rescue the act, despite Heska, and later Zeno dominates a rap contest against Roska with a tribute to his friends.
 
 #### Long
-At sunset, the communities gather around the temple, their elders placing eight blessed offerings in a circle while the carefully arranged egg clutches receive reverent attention. Little Tony and Sculpit join the Wanderer community; Heska and Zeno belong to the Dark Lady’s. The eldest Brightface elder raises a gem-topped staff and calls, “Eight homes, eight roads,” answered by “One family.” Sculpit bolsters Xena and Zeno encourages Heska, but their duet soon unravels. Xena begins with dazzling aerial acrobatics; Heska’s three ones send his whip into her instead of the falling jewelry. He casts Fog Cloud and makes his escape. Xena recovers spectacularly, rising from the fog in a triumphant pose that wins back the crowd. Heska blames his friends for drawing him into the performance. When Xena finds him afterward, she declares that she will never forgive him, adds that he is still cute, and kisses his cheek. Among the festival games, the group encounters Rosca and his crew at the music and dance circle. Zeno’s friendly archrival challenges him to a call-and-response contest. With Sculpit’s encouragement and Bardic Inspiration, Zeno takes the opening round and uses Sick Burn to undercut Rosca’s reply. Rosca grows more theatrical in the second round, successfully producing a prop egg despite Heska’s attempted interference. Zeno answers with a verse celebrating Heska, Tony, and Sculpit, earning a decisive victory. Rosca graciously concedes and embraces him as the cheering crowd draws the friends into the celebration.
+At sunset, the Jubilee begins, and the dragonet communities from across the island gather around the temple, including Heska and Zeno, who are part of the Dark Lady's community, and Little Tony and Sculpit, who gather with the Wanderer community. The elders, selected from each community, come together, placing eight blessed offerings in a circle, and reverently acknowledging the carefully arranged egg clutches that are part of the ritual of the Jubilee. The opening ceremony ends with the eldest Brightface elder raising a gem-topped staff and calling, “Eight homes, eight roads,” answered in unison by “One family.” 
 
-### recap-004 | Dinner and the Strange Silence
+Now, it is time for Xena and Heska's opening act. Sculpit bolsters Xena, and Zeno hypes up Heska, and the part are off to a stunning beginning. But their duet soon unravels. Xena flies with dazzling aerial acrobatics, dropping the costume pieces designed to be caught by Heska, below. Heska, nervous and disoriented by the crowd, instead strikes Xena's pot belly with his whip, clearly out of control. In deep embarrassment, he summons a Fog Cloud, and disappears. Xena, though, recovers spectacularly, rising from the fog in a triumphant pose that wins back the crowd. Sneaking through the crowd to return to Zeno, Heska blames his friends for drawing him into the performance, which he knew was a bad idea. Xena finds him afterward, stares daggers at him, but then adds that he is still cute and kisses his cheek, leaving Heska flustered. 
+
+After the opening ceremony, the Jubilee spreads out, turning into a fair with games of all kinds. The group, wandering together, encounters Roska and his crew at the music and dance circle. Roska, Zeno’s friendly archrival, challenges him to a call-and-response contest. With Sculpit’s encouragement and inspiration, Zeno takes the opening round and drops a Sick Burn on Roska, undercutting his reply. Roska grows more theatrical in the second round, ignoring Heska's comically failed attempts to distract him with clever prank. But Zeno is up to the challenge: he answers with a verse celebrating Heska, Tony, and Sculpit, earning him a decisive victory. Roska graciously concedes and embraces him as the cheering crowd draws the friends into the celebration.
+
+### recap-004 | A Strange Silence Over Dinner
 
 - Kind: beat
 - Beat IDs: beat-007, beat-008
@@ -193,29 +125,27 @@ At sunset, the communities gather around the temple, their elders placing eight 
 - Time: night
 - Source Range: u1397 -> u1776
 - Polished Transcript: beat-transcripts/dragonets-001-recap-004-transcript.md
-- Locations: Circular Island, Temple overlook, Wanderer's palm
+- Locations: Circular Island, Temple grounds, Wanderer's hand
 - NPCs: none
 - Organizations: none
 - Items: Mysterious egg
 - Enemies: none
-- Image:
-- Image Role:
+- Image: [[dragonets-01-jubilee-at-night.webp]]
+- Image Role: hero
 - Image Size:
-- Image Placement:
+- Image Placement: start
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: The Jubilee continues below as the friends retreat for dinner.
+- Image Alt: An elevated nighttime view of festival tents, glowing stages, and crowds beneath a star-filled sky.
 
 #### Short
-Over dinner, strange sensations interrupt the friends’ celebrations and guide them to a fading glow on the Wanderer’s palm.
-
-#### Intermediate
-Over a seafood meal above the temple, Heska swears off performing, Sculpit regrets giving him too little coaching, and Zeno relives his victory. Then the object voices vanish from Tony’s hearing, a beautiful note sounds within Zeno, Sculpit involuntarily teleports toward the Wanderer, and Heska spots unnatural movement overhead. They take flight and compare the directions of Tony’s silence and Zeno’s note, tracing both to a glow over the Wanderer’s palm. As they approach, the glow fades, the voices return, and the note stops, leaving a dark object beside which they land.
+Retreating from the Jubilee, the friends gather for dinner. Strange sensations interrupt their meal and draw them to a strange glowing object on the Wanderer’s palm, which goes dark as they approach.
 
 #### Long
-The friends settle on an overlook above the temple for dinner. Heska eats trout he caught himself and vows never to perform again; Tony enjoys roasted lobsters, Zeno retells his victory over fish meatballs, and Sculpit shares an elaborate seafood dish while regretting how little coaching he gave Heska. Their talk of future performances and Zeno’s club gives way to something stranger when Tony addresses a passing cloud: every object’s voice abruptly disappears from his hearing. Zeno hears an extraordinarily beautiful note inside his mind. Sculpit’s wild magic teleports him about twenty feet in the Wanderer’s direction, and Heska notices an unnatural movement against the sky. Below them, the festival continues normally. Heska flies up to investigate, followed by the others. Tony discovers that the silence has a direction, while Zeno finds his inner note growing louder or softer as he changes course. Humming along briefly gives Zeno a profound sense of peace. Watching from above, Heska sees their paths converging, and comparing impressions points them toward the Wanderer. After roughly an hour’s flight, they approach a large glow above the statue’s outstretched palm. It dims as they draw near; Tony’s familiar chorus returns and Zeno’s note falls silent. A dark object remains, and they land beside it.
+Moving away from the celebrations of the Jubilee, the friends settle on an overlook above the temple for dinner. Heska, seeking solitude, has flown into the forest to catch some trout, and arrives first, cooking the trout over a campfire and vowing never to perform again. Soon, Tony arrives with roasted lobsters, Zeno with fish meatballs, and Sculpit with an elaborate seafood dish. The companions talk and relax together over their meal. Sculpit regrets how little coaching he gave Heska, sure he could have done better; Zeno, as always, recounts his rap battle victory with glee and continues to debate the future of his comedy club. 
 
-### recap-005 | The Egg and the Meaning of Home
+Their talk dies down when Little Tony addresses a passing cloud: suddenly, every object’s voice abruptly disappears from his hearing. At nearly the same time, Zeno hears an extraordinarily beautiful note inside his mind, Sculpit’s wild magic teleports him about twenty feet in the Wanderer’s direction, and Heska notices an unnatural and fast movement against the sky. While the festival continues normally below them, unaware of the strangeness, Heska, and then the others, fly up to investigate. Little Tony discovers that the silence has a direction; surprisingly, Zeno matches the direction with the inner note he hears. Watching from above, Heska sees their paths converging -- towards the Wanderer. The group departs, flying the hour's journey to the Wanderer. As they approach, flying towrds a large glow above the statue’s outstretched palm, the glow dims and the strange effects seem to fade, but a dark, mysterious object remains. The party lands beside it, curious.
+### recap-005 | The Egg, and Home
 
 - Kind: beat
 - Beat IDs: beat-009, beat-010
@@ -223,27 +153,28 @@ The friends settle on an overlook above the temple for dinner. Heska eats trout 
 - Time: night
 - Source Range: u1777 -> u2203
 - Polished Transcript: beat-transcripts/dragonets-001-recap-005-transcript.md
-- Locations: Circular Island
+- Locations: Circular Island, Wanderer's hand
 - NPCs: Dying purple dragonet, Man with a jade hand
 - Organizations: none
 - Items: Mysterious egg
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: [[dragonets-01-mysterious-egg.webp]]
+- Image Role: figure
+- Image Size: large
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: The mysterious egg on the Wanderer’s palm.
+- Image Alt: A luminous, patterned egg surrounded by golden geometric lines hangs above a colossal stone palm, with storms on the horizon.
 
 #### Short
-Embracing the engraved egg draws them into a dying dragonet’s experience of home, briefly heightens their abilities, and leaves them beside the darkened shell as the Wanderer’s eye shines blue.
-
-#### Intermediate
-The object is an engraved egg of unfamiliar material, with no visible opening or detectable thoughts. When Tony touches it, he hears “home”; his embrace makes the markings glow and fills him with belonging. All four hug it and share a vision of a dying purple dragonet, a man with a jade hand, and a journey as light through impossible geometry and the island’s storm. Awakening beside the egg, they briefly enjoy clearer object voices, extraordinary music, precise physical control, and mastery of wild magic. The gifts fade, while a closing glimpse reveals the Wanderer’s eye shining blue.
+The dark object turns out to be a strangely engraved egg, which draws them into a dying dragonet’s [[The Shared Vision of Home|vision of home]]. The vision fades , leaving a lingering sense of home. We end as the scene fades, and Wanderer’s eyes shine blue.
 
 #### Long
-The object has the shape of an egg, but Heska’s knocking and probing reveal material unlike familiar stone or metal and no way inside. Sculpit recognizes a resemblance between its precise geometric engravings and patterns near the island’s ruins. Zeno detects no thoughts, though the shell might be shielding whatever lies within. Tony tries a welcome and a touch instead, receiving a single word in his mind: “home.” Hugging the egg brings him to tears with an overwhelming sense of belonging, and the engravings near him begin to glow. Heska touches it too, feels the same emotional pull, and nuzzles against it. When all four join the embrace, eight points light up and their consciousness merges. They experience the last breaths of an older purple dragonet, silvery fur and amethyst scales bloodied beneath a burning sky, one wing broken as distant lights go out. A light approaches and envelops the dying figure; then they become that light. Images of home pass through them: a man with a jade hand scratching chin and belly, familiar companions, and the clutches of Circular Island. They travel through impossible geometry, across the sea and through the storm, arriving at the Wanderer’s palm. They awaken beside the darkening egg with their own talents transformed. Tony can choose individual objects to hear across the island; Zeno senses music for trees, rivers, animals, and wind; Heska feels extraordinary control of his body and hunting prowess; Sculpit can master the wild magic that usually surprises him. Within minutes, these abilities subside, leaving the egg and its vision unexplained. A final view shows the Wanderer’s eye glowing bright blue.
+The object has the shape of an egg, but Heska’s knocking and probing reveal material unlike he has seen before: this is not familiar stone or metal, and there is no obvious seams or other ways to open it. It is, however, covered with engravings, which Sculpit recognizes as resembling patterns he sometimes sees near the various diverse ruins on the Circular Island. Zeno, curious, uses his magic to try to listen to the egg's thoughts, but detects nothing. Little Tony tries a welcome and a touch instead, receiving a single word in his mind: “home.” Hugging the egg brings him to tears as an overwhelming sense of belonging cascades over him. Heska touches it too, feels the same emotional pull, and nuzzles against it. 
+
+Slowly, all four of the friends join the embrace. As they hug the egg together, eight points light up and their consciousnesses merge. They find themselves [[The Shared Vision of Home|in a vision]], experiencing the last breaths of an older purple dragonet, silvery fur and amethyst scales bloodied beneath a burning sky, one wing broken as distant lights go out. A light approaches and envelops the dying dragonet; then, the four friends become that light. As they merge with it, images of home pass through them: a man with a jade hand scratching chin and belly, familiar companions, and the Circular Island itself. The vision continues, through impossible geometries, across the sea and through the storm, until they find themselves arriving at the Wanderer’s palm. 
+
+The group awakens beside the darkening egg, momentarily feeling imbued with power, their talents transformed, though within minutes, the feeling fades, leaving the egg and its vision unexplained. Our session ends as the camera pulls back, a final view of the Wanderer’s eyes glowing bright blue.
 
 ## Cast
 
@@ -251,24 +182,24 @@ The object has the shape of an egg, but Heska’s knocking and probing reveal ma
 
 - Xena (met): Sculpit's performer and Zeno's clutchmate
 - Zare (met): Zeno's tailor and a collector
-- Brightface elder (met): Leader of the opening ceremony
-- Rosca (met): Zeno's friendly rap-battle rival
-- Dying purple dragonet (met): Figure inhabited during the shared vision
-- Man with a jade hand (met): Figure seen in the vision's images of home
-- Glenda the Seagull (mentioned): Little Tony's former familiar
+- Roska (met): Zeno's friendly rap-battle rival
 
 ## Locations
 
 - Circular Island
-  - Summary: Storm-ringed home of eight dragonet communities and the setting of their annual Jubilee.
-  - Sublocations: Dark Lady’s neighborhood; central temple festival grounds and rehearsal area; Zare’s stall; temple overlook; Wanderer’s palm
+  - Summary: Storm-ringed perfectly circular island, home of eight dragonet communities. 
+  - Sublocations: Temple grounds; Wanderer's hand; Dark Lady
   - Date Visited: unknown
-- Temple overlook
-  - Summary: An elevated gathering place above the festival where the friends share dinner and first notice the unusual sensations.
+- Temple grounds
+  - Summary: The abandoned temple at the center of the island, where the dragonets gather for the Jubilee.
+  - Sublocations: Festival grounds and rehearsal area; Zare’s stall; temple overlook
+  - Date Visited: unknown
+- Wanderer's hand
+  - Summary: The Wanderer statue’s outstretched hand, a quiet refuge for Tony and Sculpit.
   - Sublocations: none
   - Date Visited: unknown
-- Wanderer's palm
-  - Summary: The Wanderer statue’s outstretched hand, a quiet refuge for Tony and Sculpit and the site of the mysterious egg encounter.
+- Dark Lady
+  - Summary: The statue and dragonet neighborhood where Heska and Zeno spend time before the Jubilee.
   - Sublocations: none
   - Date Visited: unknown
 
@@ -279,7 +210,7 @@ The object has the shape of an egg, but Heska’s knocking and probing reveal ma
 - Dark Lady community (encountered): Heska and Zeno’s community, represented at the Jubilee by an ancient elder bearing a black feather.
 - Wanderer community (encountered): Little Tony and Sculpit’s community, gathered with the others for the opening ceremony.
 - Brightface community (encountered): The community whose eldest elder leads the Jubilee’s opening rite.
-- Rosca's crew (encountered): The performers accompanying Rosca at the music and dance circle.
+- Roska's crew (encountered): The performers accompanying Roska at the music and dance circle.
 
 ### Items
 
@@ -290,7 +221,7 @@ The object has the shape of an egg, but Heska’s knocking and probing reveal ma
 - Xena's jewelry (encountered): Five selected pieces plus extras from Zare, used in the aerial duet’s falling-jewel routine.
 - Ceremonial offerings (encountered): Eight blessed objects: a black feather, dried fruit, polished mirror, iron ring, colored glass, stone, living sprig, and die.
 - Dragonet egg clutches (encountered): Sacred clutches displayed and honored during the opening ceremony.
-- Rosca's prop egg (encountered): A fake egg produced during his second verse despite Heska’s attempt to disrupt the act.
+- Roska's prop egg (encountered): A fake egg produced during his second verse despite Heska’s attempt to disrupt the act.
 - Mysterious egg (encountered): An engraved object of unfamiliar material found on the Wanderer’s palm; contact evokes home and a shared vision, followed by briefly heightened abilities; its contents remain unknown.
 - Giant fiddler crab shell (mentioned): A rainbow-patterned shell from Heska’s celebrated catch, promised as decoration for Zeno’s future club.
 
@@ -307,89 +238,12 @@ The object has the shape of an egg, but Heska’s knocking and probing reveal ma
 
 ## Pull Quotes
 
-- ID: quote-beat-001-002
-  - Quote: "Little Tony knows a guy who knows a guy, who knows a twig, who knows where it is."
-  - Speaker: Little Tony
-  - Source Lines: u0214
-
-- ID: quote-beat-003-002
-  - Quote: "I really think that you’re much better than you think you are."
-  - Speaker: Sculpit
-  - Source Lines: u0606
-
-- ID: quote-beat-004-003
-  - Quote: "Edmund? I promise to take care of you."
-  - Speaker: Zare (DM)
-  - Source Lines: u0823-u0824
-
-- ID: quote-beat-005-001
-  - Quote: "Three ones."
-  - Speaker: Heska
-  - Source Lines: u0978
-
-- ID: quote-beat-005-002
-  - Quote: "I’m never gonna forgive you for that. But good thing you’re still cute."
-  - Speaker: Xena (DM)
-  - Source Lines: u1110-u1111
-
-- ID: quote-beat-006-001
-  - Quote: "Rosca, you got nothing. I got my crew. We’re gonna roll right over you."
-  - Speaker: Zeno
-  - Source Lines: u1353-u1355
-
-- ID: quote-beat-007-002
-  - Quote: "I really liked the part where you were rhyming. Like, that was… that was my favorite part."
-  - Speaker: Little Tony
-  - Source Lines: u1509
-
-- ID: quote-beat-008-001
-  - Quote: "The silence is louder."
-  - Speaker: DM
-  - Source Lines: u1600
-
-- ID: quote-beat-009-001
-  - Quote: "Welcome home, buddy."
-  - Speaker: Little Tony
-  - Source Lines: u1897
-
-- ID: quote-beat-010-002
-  - Quote: "You are the dragonet, and you are dying."
-  - Speaker: DM
-  - Source Lines: u2027
 
 ## Audio Highlights
 
-- ID: audio-001
-  - Title: Little Tony introduces his very talkative world
-  - Speaker: Little Tony, Sculpit, DM, Zeno
-  - Source Lines: u0057-u0087
-  - Output: audio-001.m4a
-  - Why Called Out: An extended comic character introduction, from complaining objects to Glenda and the quiet refuge on the palm.
-
-- ID: audio-002
-  - Title: Edmund finds a new home
-  - Speaker: Little Tony, Zeno, DM
-  - Source Lines: u0808-u0843
-  - Output: audio-002.m4a
-  - Why Called Out: The haggling turns into a sincere promise of care and farewell, ending with Edmund’s ancient perspective.
-
 - ID: audio-003
-  - Title: Zeno brings his whole crew into the winning verse
-  - Speaker: Zeno, DM, Heska
-  - Source Lines: u1353-u1380
+  - Title: Zeno's winning verse celebrates his crew
+  - Speaker: Zeno
+  - Source Lines: u1353-u1366
   - Output: audio-003.m4a
-  - Why Called Out: The live rap, the table’s reactions, and Rosca’s concession preserve the energy of the festival victory.
-
-- ID: audio-004
-  - Title: The voices stop and a perfect note begins
-  - Speaker: Little Tony, DM, Sculpit, Zeno
-  - Source Lines: u1514-u1536
-  - Output: audio-004.m4a
-  - Why Called Out: A clear tonal shift from dinner banter to the first uncanny sensations, carried by dialogue and narration.
-
-- ID: audio-005
-  - Title: The shared vision of home
-  - Speaker: DM, Zeno
-  - Source Lines: u1971-u2074
-  - Output: audio-005.m4a
-  - Why Called Out: The collective embrace becomes a dying dragonet’s experience, images of home, and a journey through light and storm back to the egg.
+  - Why Called Out: Zeno's live verse celebrates Heska, Little Tony, and Sculpit, with the table’s reactions.

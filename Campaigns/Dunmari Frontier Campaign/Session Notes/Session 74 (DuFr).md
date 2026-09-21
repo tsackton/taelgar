@@ -39,7 +39,7 @@ The [[Dunmar Fellowship]] successfully repairs the skyship [[Vindristjarna]].
 ## Narrative
 We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an [[adamantine]] harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
-![[vindristjarna-crash-location.png]]
+![[dufr-074-vindristjarna-crash-location.png]]
 
 Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the [[adamantine]] harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]]. 
 
@@ -55,7 +55,7 @@ Meanwhile, [[Seeker]] and [[Riswynn]] convert 800 gold and 800 silver coins into
 
 The next day, [[Seeker]] and [[Riswynn]] continue to work on the channeling device, while [[Delwath]] scries [[Kharsan]] and sees [[Grash]]'s army leaving. 
 
-![[undead-orcs-marching.png]]
+![[dufr-074-undead-orcs-marching.png]]
 
 That evening, the night of Nov 28th, [[Seeker]] has a dream, a shadow hunter threatening that he is coming soon for them. 
 

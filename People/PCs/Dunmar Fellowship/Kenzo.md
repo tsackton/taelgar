@@ -17,8 +17,9 @@ dm_notes: important
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Dunmar Fellowship]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-![[kenzo-full.jpg|400]]
-
+> [!image|right standard]
+> ![[kenzo-intro-desert-traveler.webp]]
+> *Kenzo approaches Karawa as our campaign begins.*
 ## Pre-Campaign Events
 
 - (DR:: 1748-03-11): Kenzo leaves the Lakan Monastery at Tokra, heading for Karawa in search of answers about his dreams, and the jade fragment he carries.

@@ -8,7 +8,7 @@ typeOf: ring
 subTypeOf: magical
 rarity: uncommon
 ancestry: Drankorian
-image: delwath-ring-of-displacement.jpg
+image: "[[delwath-ring-of-displacement.jpg]]"
 whereabouts:
 - { type: home, location: Agata, end: 1748 }
 - { type: home, location: Delwath, start: 1748 }

@@ -7,7 +7,7 @@ typeOf: instrument
 subTypeOf: magic
 ancestry: fey
 rarity: rare
-image: raven-whistle-kenzo.jpeg
+image: "[[raven-whistle-kenzo.jpeg]]"
 pcOwner: Kenzo
 whereabouts: 
 - {type: home, location: Agata, end: 1748-05-29}

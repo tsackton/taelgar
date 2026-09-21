@@ -4,13 +4,13 @@
     {
       "sceneId": "scene-001",
       "title": "Plans and Mysteries",
-      "beatIds": ["beat-001", "beat-002", "beat-003"],
+      "beatIds": ["beat-001", "beat-002", "beat-003", "beat-004"],
       "rationale": "The party establishes the expedition plan and gathers information about Raven's Hold, Ander's affliction, the anonymous runebook, and the temple's strange stone. These inquiries form the first preparation scene, ending when attention turns to supplies and practical arrangements."
     },
     {
       "sceneId": "scene-002",
       "title": "Making Ready to Leave",
-      "beatIds": ["beat-004", "beat-005", "beat-006"],
+      "beatIds": ["beat-005", "beat-006"],
       "rationale": "Buying supplies, arranging the rendezvous with Alesh, seeing her off, and fortifying the temple put the departure plans into practice. Alesh's historical information stays with her farewell, and the next day's construction closes the preparation sequence before the festival gathering."
     },
     {
