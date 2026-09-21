@@ -9,8 +9,8 @@ This review records the campaign-relevant email found between numbered sessions.
 | 11–12 | `Taelgar: Asineau Fallout`, `Hunting Lorin - Asineau Fallout`, and Celyn/El correspondence | Events are incorporated into Sessions 11 and 12. |
 | 12–13 | `In Champimont - Part 1`, `Champimont II - Rumors`, and the Elegant Swan conversation | Incorporated into Session 12; archived sources are linked from its reviewed recap. |
 | 13–14 | `An Evening in Corrine's House` and related Rinburg discussion | Incorporated into Session 13; archived source is linked from its reviewed recap. |
-| 14–15 | `The Siege of Fellburn`, `Siege of Fellburn - The Duke's Camp - Information`, `The Oracle of Hope - an interlude`, `Fellburn Aftermath - Audience with the Duke`, and `Meeting Lenora` | Preserved as [[Cleenseau - Interlude - After the Siege of Fellburn]]. |
-| 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, temple conversations, `Gareth's Ring`, `Elizabeth the Guard's story`, and a short scenelet | Incorporated into Session 16; local email archives and reading copies are linked from its reviewed recap. |
+| 14–15 | `The Siege of Fellburn`, `Siege of Fellburn - The Duke's Camp - Information`, `The Oracle of Hope - an interlude`, `Fellburn Aftermath - Audience with the Duke`, `Meeting Lenora`, and direct-mail `Viepuck's Trip To Town` | Preserved as [[Cleenseau - Interlude - After the Siege of Fellburn]]; Viepuck's separate exchange is in [[Viepuck's Visit to Fellburn]]. |
+| 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, direct-mail `Sending: Tal`, temple conversations, `Gareth's Ring`, `Elizabeth the Guard's story`, and a short scenelet | Incorporated into Session 16; local email archives and reading copies, including [[Viepuck and Tal Exchange Sendings]], are linked from its reviewed recap. |
 | 16–17 | `Taelgar: The Letter` and `Into Aslain` | Incorporated into Session 17; correspondence searches are linked from its reviewed recap. |
 | 17–19 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 19–20 | `Fey Aftermaths` and its continuations | Incorporated into Session 20; archived sources are linked from its reviewed recap. |
@@ -25,6 +25,10 @@ This review records the campaign-relevant email found between numbered sessions.
 | 35–36 | `Heir to House Griffin` | Meta-level planning, not an accomplished in-world declaration; excluded. |
 
 Intervals omitted from the table's detailed entries had no distinct in-world email event that was not already represented by the adjacent numbered notes.
+
+The direct-mail [[Celyn and Robin After the Session (Email)|Celyn–Robin vignette]] describes an intended scene for a subsequent play session. Its existence as a reading copy, [[Celyn and Robin I]], does not by itself confirm that the conversation occurred during play.
+
+The `Manor_House.zip` attachment to [[The Situation in Asineau (Email)]] remains unavailable through the mail connector. The text correspondence and other available images are local, but that ZIP is not; obtaining it requires a separate copy from the original mail or the sender.
 
 ## Entity audit
 

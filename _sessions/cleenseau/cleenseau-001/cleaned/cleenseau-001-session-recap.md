@@ -178,3 +178,4 @@ Before dawn, the party receives word of another spider attack at Taviose and beg
 ## Source Files
 
 - [[Cleenseau - Session 01 - Original]]
+- [[Cleenseau Session Quotes - January 2023 (Email)]]

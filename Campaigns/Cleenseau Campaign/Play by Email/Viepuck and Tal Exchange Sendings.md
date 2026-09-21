@@ -22,8 +22,6 @@ Viepuck! You’re alive! (Heart emoji). You weren’t in Embry this summer when 
 
 Meta note- it seems the spell doesn’t magically let the recipient know that they need to keep the return message short.
 
-Mike
-
 ---
 
 ### Artan Eter <artan.eter@gmail.com> — Wed, 26 Jun 2024 11:30:34 -0400
