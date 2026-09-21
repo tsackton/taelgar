@@ -129,7 +129,12 @@ The party remains in [[Veltor]] while the court recovers and the Baroness's cond
 - Enemies: shadow manifestation, zombies
 - Context / Outcome: The manifestation attacks the court after Malach is exposed, but the party destroys it and saves many of the witnesses.
 
+## Related Writings
+
+- [[A Letter to the Magistrate]]
+
 ## Source Files
 
 - [[Cleenseau - Session 28 - Original]]
+- [[A Letter to the Magistrate (Email)]]
 - [Original player recap](https://kiya.dreamwidth.org/823914.html)
