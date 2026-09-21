@@ -99,6 +99,7 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 - [[Champimont Rumors and Questions]]
 - [[Play by Email/At the Elegant Swan in Champimont]]
 - [[An Evening in Corrine's House]]
+- [[The Destruction of Eftly]]
 
 ## Source Files
 
@@ -107,3 +108,4 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 - [[An Evening in Corraine's House]]
 - [[Rangers in Champimont (Email)]]
 - [[Next Thing March 2024 (Email)]]
+- [[Destruction of Eftly (Email)]]

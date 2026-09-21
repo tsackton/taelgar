@@ -235,7 +235,6 @@ In [[Cleenseau]], Gareth is convicted of banditry, fraud, and his earlier crimes
 - [[Cleenseau - Session 15 - Original]]
 - [[01-cleenseau-blog-784090 - Original]]
 - [[Play by Email May 2024 (Email)]]
-- [[Destruction of Eftly (Email)]]
 - [[Celyn's Fey Safety and News (Email)]]
 - [[Celyn and the Horses (Email)]]
 - [[Letter from Enford (Email)]]
