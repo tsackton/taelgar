@@ -4,7 +4,7 @@ POV: 1720
 ---
 # Rules and Recap July 2024 (Email)
 
-Local archive of all 3 message bodies in this correspondence, including quoted reply history. Post-session rules and character-sheet discussion. One email has an image attachment not included in this text archive.
+Local archive of all 3 message bodies in this correspondence, including quoted reply history. Post-session rules and character-sheet discussion. The image attachment is preserved as [[Rules and Recap July 2024 - image.png]].
 
 ## Sun, 28 Jul 2024 22:57:36 -0400 — Mike Sackton <msackton@gmail.com>
 
