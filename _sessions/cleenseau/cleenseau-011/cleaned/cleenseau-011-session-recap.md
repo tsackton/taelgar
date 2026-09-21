@@ -223,8 +223,7 @@ The party learns that [[Lorin Valbert]] has disappeared after leaving a document
 
 ## Related Writings
 
-- [[El's Story]]
-- [[Celyn's Story of Getting His Name]]
+- [[Cleenseau - Session 11.1|Celyn and El Share Their Stories]]
 
 ## Source Files
 
@@ -236,4 +235,3 @@ The party learns that [[Lorin Valbert]] has disappeared after leaving a document
 - [[Treasure January 2024 (Email)]]
 - [[Fey Background (Email)]]
 - [[Cleenseau Timeline (Email)]]
-- [[A Bit of Celyn Backstory - Correspondence (Email)]]

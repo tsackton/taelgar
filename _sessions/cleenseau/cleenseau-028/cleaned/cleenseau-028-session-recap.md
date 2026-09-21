@@ -136,5 +136,5 @@ The party remains in [[Veltor]] while the court recovers and the Baroness's cond
 ## Source Files
 
 - [[Cleenseau - Session 28 - Original]]
-- [[A Letter to the Magistrate (Email)]]
+- [[A Letter to the Magistrate]]
 - [Original player recap](https://kiya.dreamwidth.org/823914.html)

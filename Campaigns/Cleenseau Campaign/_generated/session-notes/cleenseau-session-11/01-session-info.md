@@ -69,6 +69,10 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moon
 11
 <!-- /SLOT -->
 
+<!-- SLOT: session.session_key -->
+cleenseau-session-11
+<!-- /SLOT -->
+
 <!-- SLOT: session.dr_date -->
 1720-01-09 to 1720-01-12
 <!-- /SLOT -->
@@ -79,6 +83,10 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moon
 
 <!-- SLOT: session.dr_end -->
 1720-01-12
+<!-- /SLOT -->
+
+<!-- SLOT: session.pov -->
+1720
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
@@ -102,8 +110,7 @@ Sunday, February 4, 2024
 <!-- SLOT: session.related_writings -->
 ## Related Writings
 
-- [[El's Story]]
-- [[Celyn's Story of Getting His Name]]
+- [[Cleenseau - Session 11.1|Celyn and El Share Their Stories]]
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->

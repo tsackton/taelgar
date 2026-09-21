@@ -4,7 +4,7 @@ POV: 1720
 ---
 # A Bit of Celyn Backstory - Correspondence (Email)
 
-Local archive of all 8 message bodies in this correspondence, including quoted reply history. Player-authored character background, DM feedback, and the exchange preserved in composite form as [[El's Story]].
+Local archive of all 8 message bodies in this correspondence, including quoted reply history. The in-world exchange is in [[Cleenseau - Session 11.1]]; its two tellings are in [[Celyn's Story of Getting His Name]] and [[El's Story]].
 
 ## Sun, 10 Mar 2024 00:38:11 -0500 — Kiya Nicoll <darkhawk@mindspring.com>
 
@@ -33,7 +33,7 @@ Kiya,
 
 This fits great, I like it. A couple of random notes:
 
-* Eliana, the midwife you met in Cleenseau when you were tracking down
+* [[Eliana]], the midwife you met in Cleenseau when you were tracking down
 Cedric the tragically-killed transman, has a similar background in
 gender-affirming herbalist care. Celyn probably would have compared notes
 and such at some point, and she'd be a contact in Cleenseau for this time
