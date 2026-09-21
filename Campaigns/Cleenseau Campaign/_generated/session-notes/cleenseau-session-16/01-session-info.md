@@ -101,6 +101,20 @@ https://kiya.dreamwidth.org/787058.html
 > *Kiya's Recap: [In which things are mostly unpleasantly complicated (but the players are having fun)](https://kiya.dreamwidth.org/787058.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Gareth's Story]]
+- [[Elizabeth of Cassen's Story]]
+- [[Celyn and El Discuss the Fey Prophecy]]
+- [[Celyn Learns the Miracles of Asineau]]
+- [[Viepuck's Sendings - Correspondence]]
+- [[Viepuck and Tal Exchange Sendings]]
+- [[Gareth's Ring - Email Exchange]]
+- [[After Gareth's Story]]
+- [[Elizabeth of Cassen - Email Discussion]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-02-07) to (DR_end:: 1720-02-09): The party gathers news, interrogates Gareth, and finds Odo's surviving younger brother.
 - (DR:: 1720-02-10) to (DR_end:: 1720-02-12): The party reaches [[Maudorville]], defeats fey attackers, bargains with [[The Hunter|the Hunter]], and evacuates [[Ashcombe]].
