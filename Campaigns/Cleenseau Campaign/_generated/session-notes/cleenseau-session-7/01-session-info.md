@@ -99,6 +99,9 @@ Sunday, October 22, 2023
 <!-- SLOT: session.source_header -->
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-01-02): [[Izgil Moonseeker|Izgil]] and [[Celyn]] escape nightmares of [[Duskmire]] after [[Robin of Abenfyrd|Robin]] intervenes.
 - (DR:: 1720-01-03): Rosalind departs for [[Embry]] with much of her household, leaving [[Robin of Abenfyrd|Robin]] responsible for local defense.
@@ -127,7 +130,7 @@ Sunday, October 22, 2023
 <!-- SLOT: locations -->
 - [[Duskmire]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the gloomy fey realm reflected in the shared nightmares.
 - [[Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the party's base and the site of the zombie outbreak.
-- [[Temple of the Warlord in Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn>): where Beatrix seeks [[Robin of Abenfyrd|Robin]] before the outbreak.
+- [[Temple of the Warlord in Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): where Beatrix seeks [[Robin of Abenfyrd|Robin]] before the outbreak.
 - [[The Crossroads Inn]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the inn beneath which the party finds a secret tunnel.
 - [[Taviose]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): a nearby hamlet whose defenses [[Robin of Abenfyrd|Robin]] organizes.
 - [[Auloutte]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): a nearby hamlet whose defenses [[Robin of Abenfyrd|Robin]] organizes.

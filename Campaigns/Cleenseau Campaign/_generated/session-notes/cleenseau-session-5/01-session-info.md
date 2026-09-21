@@ -98,6 +98,9 @@ Sunday, June 4, 2023
 <!-- SLOT: session.source_header -->
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1719-12-04) to (DR_end:: 1719-12-05): The party and its allies scout [[Wakog's Camp]], capture a patrol, and find [[Narrisa de Abadelle]] after her escape.
 - (DR:: 1719-12-06): The party turns the orc factions against one another, frees the prisoners, and defeats [[Wakog]].
