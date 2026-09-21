@@ -273,3 +273,7 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[The Merriweathers (Email)]]
 - [[Recurring Festival Idea (Email)]]
 - [[Odo in Asineau (Email)]]
+- [[Asineau as Bastion (Email)]]
+- [[Asineau Interlude - April Preparation (Email)]]
+- [[Asineau Map (Email)]]
+- [[Asineau Initial Questions (Email)]]
