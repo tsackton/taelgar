@@ -4,9 +4,12 @@ scope: session
 outputDir: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau'
 campaign: Cleenseau
 sessionNumber: 31
+sourceUrl: 'https://kiya.dreamwidth.org/826614.html'
+sourceTitle: "Monty Python's Flying Royalty"
+sourceAuthor: Kiya
 realWorldDate: '2026-02-01'
 drStart: '1720-07-05'
-drEnd: '1720-10-05'
+drEnd: '1720-10-19'
 drStartTime: null
 drEndTime: null
 participantsPath: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-participants.yaml'

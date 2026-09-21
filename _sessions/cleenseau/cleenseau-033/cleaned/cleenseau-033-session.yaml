@@ -1,0 +1,33 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: 33
+realWorldDate: '2026-04-12'
+sourceUrl: https://kiya.dreamwidth.org/829738.html
+sourceTitle: I know adventuring parties who use subtlety and they're all cowards.
+sourceAuthor: Kiya
+drStart: '1720-10-26'
+drEnd: '1720-10-28'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Dan Walters
+  gameRole: Robin
+  transcriptIdentifiers: []
+- name: Chris Kelly
+  gameRole: Viepuck
+  transcriptIdentifiers: []
+- name: Kiya Nicoll
+  gameRole: Celyn
+  transcriptIdentifiers: []
+- name: Matt Rand
+  gameRole: Izgil
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: _sessions/cleenseau/cleenseau-033/sources/cleenseau-blog-829738 - Original.md
+sourceConfigPath: _sessions/cleenseau/cleenseau-033/sources/cleenseau-session033.yaml
+participantsPath: _sessions/cleenseau/cleenseau-033/sources/cleenseau-participants.yaml
+narrativeUnit: paragraph

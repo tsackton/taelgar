@@ -40,7 +40,7 @@ Forewarned by Robin, the party survives an ambush by two assassins and six bandi
 - Timeline Key: (DR:: 1720-02-20)
 - Resolution: day
 - Beat IDs: recap-002, recap-003
-- Locations: Veltor, Veltor Keep, Temple of the Warlord
+- Locations: Veltor, Veltor Keep, Temple of the Warlord in Veltor
 - NPCs: Marceline Dupont, Damien Montrichard, Areschera, Sabine de Brune, Istarias, the duskhound, Victorine Rosseau, Julien Marteau, Primrose Merriweather, Corrin Merriweather, Pierre
 - Organizations: none
 - Items: none
@@ -50,7 +50,7 @@ Forewarned by Robin, the party survives an ambush by two assassins and six bandi
 The party discovers that Damien and Sabine are being held inside a government increasingly controlled by hostile fey.
 
 #### Long
-The next morning, [[Marceline Dupont]] reports that the surviving assassin supposedly escaped and died using lockpicks that Celyn knows he did not possess. [[Areschera]], disguised as the Baroness's chief clerk, announces that [[Damien Montrichard]] has confessed and refuses the party access to him. The party visits [[Sabine de Brune]], who is confined under guard, and Celyn recognizes her apparent servant as [[Istarias]]. At the [[The Warlord|Temple of the Warlord]], they confer with [[Julien Marteau]], exchange messages with [[Victorine Rosseau]], heal soldiers, and arrange with [[Primrose Merriweather]] and [[Corrin Merriweather]] to smuggle Sabine out of Veltor. A performance at [[Veltor Keep|the keep]] confirms Areschera's hostility, and Viepuck contacts Damien and learns that a duskhound is guarding him in a hidden part of the keep.
+The next morning, [[Marceline Dupont]] reports that the surviving assassin supposedly escaped and died using lockpicks that Celyn knows he did not possess. [[Areschera]], disguised as the Baroness's chief clerk, announces that [[Damien Montrichard]] has confessed and refuses the party access to him. The party visits [[Sabine de Brune]], who is confined under guard, and Celyn recognizes her apparent servant as [[Istarias]]. At the [[Temple of the Warlord in Veltor|Temple of the Warlord]], they confer with [[Julien Marteau]], exchange messages with [[Victorine Rosseau]], heal soldiers, and arrange with [[Primrose Merriweather]] and [[Corrin Merriweather]] to smuggle Sabine out of Veltor. A performance at [[Veltor Keep|the keep]] confirms Areschera's hostility, and Viepuck contacts Damien and learns that a duskhound is guarding him in a hidden part of the keep.
 
 ### 1720-02-21
 
@@ -120,7 +120,7 @@ The next morning, [[Marceline Dupont]] reports that the captured assassin suppos
 - Beat IDs: recap-003
 - Date: 1720-02-20
 - Time: day
-- Locations: Veltor, Temple of the Warlord, Veltor Keep
+- Locations: Veltor, Temple of the Warlord in Veltor, Veltor Keep
 - NPCs: Marceline Dupont, Areschera, Victorine Rosseau, Julien Marteau, Primrose Merriweather, Corrin Merriweather, Damien Montrichard
 - Organizations: none
 - Items: none
@@ -133,7 +133,7 @@ The party recruits local allies, tests Areschera's reactions, and locates Damien
 The party builds support among Veltor's soldiers, temple, and halflings, then confirms that Areschera is concealing Damien inside the keep.
 
 #### Long
-At the [[The Warlord|Temple of the Warlord]], the party consults [[Julien Marteau]] and receives a letter from [[Victorine Rosseau]] concerning the Cranford murders. Robin and Celyn heal injured soldiers while Viepuck gains [[Marceline Dupont|Marceline's]] cautious support. [[Primrose Merriweather]] and [[Corrin Merriweather]] agree to hide and smuggle [[Sabine de Brune|Sabine]] if the party can free her. During a performance at [[Veltor Keep]], the party watches [[Areschera]] react to accounts of its fey adversaries. Viepuck later contacts [[Damien Montrichard|Damien]] and learns that he is hidden upstairs under the guard of a duskhound.
+At the [[Temple of the Warlord in Veltor|Temple of the Warlord]], the party consults [[Julien Marteau]] and receives a letter from [[Victorine Rosseau]] concerning the Cranford murders. Robin and Celyn heal injured soldiers while Viepuck gains [[Marceline Dupont|Marceline's]] cautious support. [[Primrose Merriweather]] and [[Corrin Merriweather]] agree to hide and smuggle [[Sabine de Brune|Sabine]] if the party can free her. During a performance at [[Veltor Keep]], the party watches [[Areschera]] react to accounts of its fey adversaries. Viepuck later contacts [[Damien Montrichard|Damien]] and learns that he is hidden upstairs under the guard of a duskhound.
 
 ### recap-004 | Sabine's Escape
 
@@ -180,7 +180,7 @@ Celyn talks his way into [[Sabine de Brune|Sabine's]] rooms, disguises her as a 
 
 - [[Veltor]]: baronial seat where the party survives an ambush and investigates fey control of the government
 - [[Veltor Keep]]: stronghold where Damien and Sabine are secretly confined
-- [[The Warlord|Temple of the Warlord]]: Veltor temple where the party plans, heals soldiers, and cultivates allies
+- [[Temple of the Warlord in Veltor|Temple of the Warlord]]: Veltor temple where the party plans, heals soldiers, and cultivates allies
 
 ## Organizations And Items
 

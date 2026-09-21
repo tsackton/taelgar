@@ -128,11 +128,11 @@ https://kiya.dreamwidth.org/789489.html
 <!-- SLOT: locations -->
 - [[Veltor]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): baronial seat where the party survives an ambush and investigates fey control of the government.
 - [[Veltor Keep]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): stronghold where Damien and Sabine are secretly confined.
-- [[The Warlord|Temple of the Warlord]] (<(*)pronunciation(*;)> <typeof:sn>): [[Veltor]] temple where the party plans, heals soldiers, and cultivates allies.
+- [[Temple of the Warlord in Veltor|Temple of the Warlord]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): [[Veltor]] temple where the party plans, heals soldiers, and cultivates allies.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Veltor]], [[Veltor Keep]], and [[The Warlord|Temple of the Warlord]]
+[[Veltor]], [[Veltor Keep]], and [[Temple of the Warlord in Veltor|Temple of the Warlord]]
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->
