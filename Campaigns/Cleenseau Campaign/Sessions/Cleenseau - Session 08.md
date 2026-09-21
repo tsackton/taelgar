@@ -10,6 +10,8 @@ realWorldDate: 2023-11-12
 name: Cleenseau - Session 8
 descTitle: Beneath Essford Manor
 tagline: in which the party traces the zombie plague into an ancient fort
+sessionKey: cleenseau-session-8
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 8
 

@@ -10,6 +10,8 @@ realWorldDate: 2023-09-10
 name: Cleenseau - Session 6
 descTitle: Signs of Fey Trouble
 tagline: in which blight, missing ale, and a redcap point toward a new threat
+sessionKey: cleenseau-session-6
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 6
 

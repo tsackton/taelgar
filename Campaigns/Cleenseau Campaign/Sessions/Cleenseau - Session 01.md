@@ -10,6 +10,8 @@ realWorldDate: 2023-01-08
 name: Cleenseau - Session 1
 descTitle: The Heroes Meet
 tagline: in which four travelers defend Taviose from giant spiders
+sessionKey: cleenseau-session-1
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 1
 

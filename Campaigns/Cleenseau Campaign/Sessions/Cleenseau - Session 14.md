@@ -10,6 +10,8 @@ realWorldDate: 2024-04-28
 name: Cleenseau - Session 14
 descTitle: The Undead Eel
 tagline: in which the party destroys the lake monster and its necromantic heart
+sessionKey: cleenseau-session-14
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 14
 

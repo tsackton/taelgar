@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 15
 realWorldDate: '2024-06-02'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/784090.html
+sourceTitle: And we get the band back together
+sourceAuthor: Kiya
+drStart: '1720-01-25'
+drEnd: '1720-02-07'
 drStartTime: null
 drEndTime: null
 participants:

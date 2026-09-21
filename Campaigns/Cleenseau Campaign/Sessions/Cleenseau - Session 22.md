@@ -10,6 +10,8 @@ realWorldDate: 2025-02-09
 name: Cleenseau - Session 22
 descTitle: The Midnight Lady
 tagline: in which the party investigates the curse over Peydon
+sessionKey: cleenseau-session-22
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 22
 

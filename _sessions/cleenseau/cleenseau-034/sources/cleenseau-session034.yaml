@@ -5,10 +5,13 @@ outputDir: _sessions/cleenseau
 campaign: Cleenseau
 sessionNumber: 34
 realWorldDate: '2026-05-31'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/830290.html
+sourceTitle: Wondering the Grey Mists
+sourceAuthor: Kiya
+drStart: '1720-11-29'
+drEnd: '1720-12-01'
 drStartTime: null
 drEndTime: null
 participantsPath: _sessions/cleenseau/cleenseau-034/sources/cleenseau-participants.yaml
 supplementalSources: []
-narrativeUnit: sentence
+narrativeUnit: paragraph

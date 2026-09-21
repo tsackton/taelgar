@@ -10,6 +10,8 @@ realWorldDate: 2023-10-22
 name: Cleenseau - Session 7
 descTitle: Dreams and Disease
 tagline: in which the party escapes a nightmare and discovers a necromantic illness
+sessionKey: cleenseau-session-7
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 7
 

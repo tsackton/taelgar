@@ -5,10 +5,14 @@ outputDir: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Tae
 campaign: Cleenseau
 sessionNumber: 13
 realWorldDate: '2024-03-31'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/782461.html
+sourceTitle: We have determined that it is not, in fact, better down where it's wetter. Actually.
+sourceAuthor: Kiya
+drStart: '1720-01-16'
+drEnd: '1720-01-24'
 drStartTime: null
 drEndTime: null
 participantsPath: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-participants.yaml'
-supplementalSources: []
+supplementalSources:
+- '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-blog/cleenseau-blog-782461.md'
 narrativeUnit: sentence

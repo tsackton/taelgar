@@ -5,8 +5,8 @@ outputDir: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Tae
 campaign: Cleenseau
 sessionNumber: 7
 realWorldDate: '2023-10-22'
-drStart: null
-drEnd: null
+drStart: '1720-01-02'
+drEnd: '1720-01-06'
 drStartTime: null
 drEndTime: null
 participantsPath: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-participants.yaml'

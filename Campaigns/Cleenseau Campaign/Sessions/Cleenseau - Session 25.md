@@ -10,6 +10,8 @@ realWorldDate: 2025-05-18
 name: Cleenseau - Session 25
 descTitle: Malach's Phylactery
 tagline: in which the party learns the king is dead and retrieves a lich's anchor
+sessionKey: cleenseau-session-25
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 25
 

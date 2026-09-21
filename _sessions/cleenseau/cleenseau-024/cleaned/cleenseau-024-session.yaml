@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 24
 realWorldDate: '2025-03-30'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/803696.html
+sourceTitle: "Patience Was Tried, And They Kept Trying It, and It Did Not Go Well For Them"
+sourceAuthor: Kiya
+drStart: '1720-03-04'
+drEnd: '1720-03-05'
 drStartTime: null
 drEndTime: null
 participants:

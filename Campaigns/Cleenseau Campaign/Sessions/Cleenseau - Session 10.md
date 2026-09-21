@@ -10,6 +10,8 @@ realWorldDate: 2024-01-07
 name: Cleenseau - Session 10
 descTitle: The Green Gem
 tagline: in which the party destroys the source of the local zombie plague
+sessionKey: cleenseau-session-10
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 10
 

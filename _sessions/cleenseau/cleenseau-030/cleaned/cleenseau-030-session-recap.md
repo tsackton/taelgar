@@ -8,18 +8,18 @@
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 30
-- DR Date: unknown
+- DR Date: 1720-07-05
 - Real Date: 2025-12-07
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### Undated (ordered)
+### 1720-07-05
 
 - Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-07-05)
+- Resolution: day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004
 - Locations: dragon ambush site, kobold lair
 - NPCs: Greymalkin, kobold leader, captive kobold
@@ -39,8 +39,8 @@ A carefully staged trap with decoys, buffs, allied kobolds, and a ballista erupt
 
 - Kind: beat
 - Beat IDs: beat-001
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: pre-dawn
 - Source Range: u0001 -> u0011
 - Locations: dragon ambush site
 - NPCs: none
@@ -61,8 +61,8 @@ The source begins by reestablishing who is present and what the party has spent 
 
 - Kind: combat
 - Beat IDs: beat-002
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: pre-dawn
 - Source Range: u0012 -> u0018
 - Locations: dragon ambush site
 - NPCs: Greymalkin, kobold leader
@@ -83,8 +83,8 @@ The first exchanges go badly enough to prove that the plan is only a plan once t
 
 - Kind: beat
 - Beat IDs: beat-003
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: morning
 - Source Range: u0019 -> u0021
 - Locations: dragon ambush site, kobold lair
 - NPCs: Greymalkin, captive kobold
@@ -105,8 +105,8 @@ The aftermath is comic enough to keep the victory from settling into ordinary tr
 
 - Kind: combat
 - Beat IDs: beat-004
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: morning
 - Source Range: u0022 -> u0026
 - Locations: kobold lair
 - NPCs: kobold leader

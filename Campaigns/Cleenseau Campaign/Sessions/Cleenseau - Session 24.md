@@ -10,6 +10,8 @@ realWorldDate: 2025-03-30
 name: Cleenseau - Session 24
 descTitle: Peydon After the Hag
 tagline: in which the party restores local authority and arrests the Hag's agents
+sessionKey: cleenseau-session-24
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 24
 

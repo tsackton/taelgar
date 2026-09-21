@@ -35,6 +35,27 @@ TEST_DISPLAY_METADATA = {
 
 
 class SessionNoteComponentsTest(unittest.TestCase):
+    def test_render_session_note_extract_slots_handles_crlf(self) -> None:
+        node = shutil.which("node")
+        if node is None:
+            self.skipTest("Node.js is required for the renderSessionNote slot parser test.")
+        render_script = Path(__file__).with_name("templater") / "renderSessionNote.js"
+        javascript = (
+            "const render = require(process.argv[1])._test; "
+            "const slots = render.extractSlots('<!-- SLOT: example -->\\r\\nvalue\\r\\n<!-- /SLOT -->', 'test'); "
+            "process.stdout.write(JSON.stringify(slots.example));"
+        )
+
+        result = subprocess.run(
+            [node, "-e", javascript, str(render_script)],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertEqual(result.stdout, '"value"')
+
     def make_workspace(self) -> Path:
         tmpdir = Path(tempfile.mkdtemp(prefix="session-note-components-test."))
         self.addCleanup(lambda: shutil.rmtree(tmpdir, ignore_errors=True))
@@ -76,6 +97,9 @@ class SessionNoteComponentsTest(unittest.TestCase):
                 campaign: Test Campaign
                 sessionNumber: 12
                 realWorldDate: 2026-03-29
+                sourceUrl: https://example.com/session-12
+                sourceTitle: Into the Deep
+                sourceAuthor: Kiya
                 drStart: 1730-01-25
                 drEnd: 1730-01-25
                 participants: []
@@ -665,6 +689,59 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(recap["items"][0]["name"], "Romil's token")
         self.assertEqual(recap["items"][0]["history"][0]["location"], "Zeyfa's Labyrinth")
 
+    def test_builder_preserves_explicit_location_link_aliases(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text().replace(
+                "- Zeyfa's Labyrinth\n",
+                "- [[Zeyfa's Labyrinth|the labyrinth]]\n",
+            ),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("[[Zeyfa's Labyrinth|the labyrinth]]", info_text)
+
+    def test_builder_preserves_explicit_location_link_aliases_in_legacy_entries(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text().replace(
+                "- Zeyfa's Labyrinth\n"
+                "  - Summary: frozen maze beneath the Great Chasm\n"
+                "  - Sublocations: ice bridge, first forked passages\n"
+                "  - Date Visited: 1730-01-25\n",
+                "- [[Zeyfa's Labyrinth|the labyrinth]]: frozen maze beneath the Great Chasm\n",
+            ),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("[[Zeyfa's Labyrinth|the labyrinth]]", info_text)
+
 
     def test_parser_rejects_malformed_world_section(self) -> None:
         broken = self.reviewed_recap_text().replace("### NPCs", "### Allies")
@@ -687,6 +764,16 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertTrue(tech_path.exists())
         self.assertTrue(narrative_path.exists())
 
+        for generated_path in (info_path, tech_path, narrative_path):
+            self.assertNotIn(b"\r\n", generated_path.read_bytes())
+        note_path = vault / "Campaigns" / "Test Campaign" / "Sessions" / "Line Endings.md"
+        components.ensure_base_note(
+            note_path=note_path,
+            session_key="test-campaign-session-12",
+            template_name="test-session.md",
+        )
+        self.assertNotIn(b"\r\n", note_path.read_bytes())
+
         info_text = info_path.read_text(encoding="utf-8")
         self.assertNotIn("status/check/ai", info_text)
         self.assertIn('excludePublish: ["all"]', info_text)
@@ -704,6 +791,12 @@ class SessionNoteComponentsTest(unittest.TestCase):
         )
         self.assertIn("<!-- SLOT: session.dr_end -->\n1730-01-25", info_text)
         self.assertIn("<!-- SLOT: session.dr_range_inline -->\n(DR:: 1730-01-25)", info_text)
+        self.assertIn("<!-- SLOT: session.source_url -->\nhttps://example.com/session-12", info_text)
+        self.assertIn(
+            "<!-- SLOT: session.source_header -->\n"
+            "> *Kiya's Recap: [Into the Deep](https://example.com/session-12)*",
+            info_text,
+        )
         self.assertIn("<!-- SLOT: session.pcs_plain_inline -->\nEkko, Justas, Eolo", info_text)
         self.assertIn("<!-- SLOT: session.companions_plain_inline -->\nKalima", info_text)
         self.assertIn("<!-- SLOT: session.companions_inline -->\n[[Kalima]]", info_text)
@@ -714,12 +807,18 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("Into the Labyrinth", info_text)
         self.assertIn("<!-- SLOT: timeline -->", info_text)
         self.assertIn("<!-- SLOT: groups -->", info_text)
+        self.assertIn("<!-- SLOT: groups.section -->", info_text)
         self.assertIn("<!-- SLOT: objects -->", info_text)
+        self.assertIn("<!-- SLOT: objects.section -->", info_text)
         self.assertIn(
             "- [[Ashen Knives]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): raiders contesting the labyrinth approaches.",
             info_text,
         )
         self.assertNotIn("  - [[Zeyfa's Labyrinth]], 1730-01-25", self.slot_body(info_text, "groups"))
+        self.assertEqual(
+            self.slot_body(info_text, "groups.section"),
+            "### Organizations\n\n" + self.slot_body(info_text, "groups"),
+        )
         frontmatter = info_text.split("---", 2)[1]
         self.assertNotIn("[[", frontmatter)
         self.assertIn(
@@ -727,10 +826,18 @@ class SessionNoteComponentsTest(unittest.TestCase):
             info_text,
         )
         self.assertEqual(self.slot_body(info_text, "objects"), self.slot_body(info_text, "items.treasure"))
+        self.assertEqual(
+            self.slot_body(info_text, "objects.section"),
+            "## Treasure and Things\n\n" + self.slot_body(info_text, "objects"),
+        )
         self.assertNotIn("  - [[Zeyfa's Labyrinth]], 1730-01-25", self.slot_body(info_text, "objects"))
         self.assertEqual(
             self.slot_body(info_text, "combat.summary"),
             "**The [[Ashen Knives]] Ambush.** The party survives an [[Ashen Knives]] ambush in the labyrinth, routs the raiders, and recovers [[Romil's token]].",
+        )
+        self.assertEqual(
+            self.slot_body(info_text, "combat.section"),
+            "## Combat\n\n" + self.slot_body(info_text, "combat.summary"),
         )
 
         tech_text = tech_path.read_text(encoding="utf-8")
@@ -746,6 +853,32 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertIn("<!-- SLOT: narrative.short -->", narrative_text)
         self.assertIn("<!-- SLOT: narrative.long -->", narrative_text)
         self.assertIn("The party descends into [[Zeyfa's Labyrinth]] with [[Kalima]]", narrative_text)
+
+    def test_builder_leaves_optional_source_slots_blank_when_source_url_is_absent(self) -> None:
+        vault = self.make_workspace()
+        session_path = vault / "session.yaml"
+        session_path.write_text(
+            session_path.read_text(encoding="utf-8").replace(
+                "sourceUrl: https://example.com/session-12\n",
+                "",
+            ),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: session.source_url -->\n<!-- /SLOT -->", info_text)
+        self.assertIn("<!-- SLOT: session.source_header -->\n<!-- /SLOT -->", info_text)
 
     def test_builder_leaves_companion_slots_blank_when_no_npc_is_tagged_companion(self) -> None:
         vault = self.make_workspace()
@@ -794,7 +927,14 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertNotIn("## Cast of Characters", template_text)
         self.assertNotIn("\n## Places\n", template_text)
         self.assertIn("{session.summary}\n\n{session.highlights}\n\n## Timeline", template_text)
-        self.assertIn("{session.table_notes}\n\n## Narrative\n\n{narrative.long}", template_text)
+        self.assertIn(
+            "## Timeline\n\n"
+            "{session.table_notes}\n\n"
+            "{timeline}\n\n"
+            "## People and Places",
+            template_text,
+        )
+        self.assertIn("### Locations\n\n{locations}\n\n\n## Narrative\n\n{narrative.long}", template_text)
         self.assertNotIn("{session.pull_quotes}", template_text)
         self.assertNotIn("{session.audio_highlights}", template_text)
 
@@ -958,7 +1098,10 @@ class SessionNoteComponentsTest(unittest.TestCase):
             encoding="utf-8",
         )
 
-        with mock.patch.object(components.subprocess, "run") as run_mock:
+        with (
+            mock.patch.object(components, "resolve_ffmpeg_executable", return_value="ffmpeg"),
+            mock.patch.object(components.subprocess, "run") as run_mock,
+        ):
             run_mock.return_value = subprocess.CompletedProcess(args=[], returncode=0, stdout="", stderr="")
             result = self.run_builder(vault)
 
@@ -1131,6 +1274,62 @@ class SessionNoteComponentsTest(unittest.TestCase):
             / "01-session-info.md"
         ).read_text(encoding="utf-8")
         self.assertIn("<!-- SLOT: groups -->\n<!-- /SLOT -->", info_text)
+        self.assertIn("<!-- SLOT: groups.section -->\n<!-- /SLOT -->", info_text)
+
+    def test_builder_omits_entire_combat_section_when_combat_is_empty(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_text = self.reviewed_recap_text()
+        combat_start = recap_text.index("## Combat")
+        source_start = recap_text.index("## Source Files", combat_start)
+        recap_path.write_text(
+            recap_text[:combat_start] + "## Combat\n\n" + recap_text[source_start:],
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: combat.summary -->\n<!-- /SLOT -->", info_text)
+        self.assertIn("<!-- SLOT: combat.section -->\n<!-- /SLOT -->", info_text)
+
+    def test_builder_omits_entire_objects_section_when_items_are_empty(self) -> None:
+        vault = self.make_workspace()
+        recap_path = vault / "session-recap.md"
+        recap_path.write_text(
+            self.reviewed_recap_text().replace(
+                "- Romil's token (encountered): silver token recovered from the raiders\n"
+                "  - Zeyfa's Labyrinth, 1730-01-25\n"
+                "  - Great Chasm Encampment, 1730-01-25\n\n"
+                "## Combat",
+                "## Combat",
+            ),
+            encoding="utf-8",
+        )
+
+        result = self.run_builder(vault)
+
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        info_text = (
+            vault
+            / "Campaigns"
+            / "Test Campaign"
+            / "_generated"
+            / "session-notes"
+            / "test-campaign-session-12"
+            / "01-session-info.md"
+        ).read_text(encoding="utf-8")
+        self.assertIn("<!-- SLOT: objects -->\n<!-- /SLOT -->", info_text)
+        self.assertIn("<!-- SLOT: objects.section -->\n<!-- /SLOT -->", info_text)
 
     def test_builder_enriches_from_notes_and_surfaces_location_conflicts(self) -> None:
         vault = self.make_workspace()
