@@ -5,6 +5,7 @@ POV: 1720
 # Odo in Asineau (Email)
 
 Complete local archive of the Odo in Asineau correspondence (8 messages). Message bodies preserve quoted reply history.
+Reading copy: [[Odo's Return to Asineau]].
 
 ## Tue, 14 Oct 2025 13:28:09 +0000 — Dan Walters <arcadinal@protonmail.com>
 

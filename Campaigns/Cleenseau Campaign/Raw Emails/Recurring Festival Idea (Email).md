@@ -5,6 +5,7 @@ POV: 1720
 # Recurring Festival Idea (Email)
 
 Complete local archive of the Recurring Festival Idea correspondence (8 messages). Message bodies preserve quoted reply history.
+Reading copy: [[A Recurring Festival for Cleenseau]].
 
 ## Fri, 17 Oct 2025 12:05:40 +0000 — Dan Walters <arcadinal@protonmail.com>
 

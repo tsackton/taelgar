@@ -5,6 +5,7 @@ POV: 1720
 # Halflings Balthazar and Tharwa Fea (Email)
 
 Complete local archive of the Halflings Balthazar and Tharwa Fea correspondence (9 messages). Message bodies preserve quoted reply history.
+Reading copy: [[Halflings Balthazar and Tharwa Fea - Email Exchange]].
 
 ## Tue, 28 Oct 2025 21:19:02 -0400 — Mike Sackton <msackton@gmail.com>
 
