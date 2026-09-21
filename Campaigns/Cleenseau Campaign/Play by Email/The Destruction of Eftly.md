@@ -1,9 +1,12 @@
 ---
-tags: [source]
+tags: [source, status/check/ai]
+POV: 1720
 ---
 
 # In the destruction of Eftly
 _A background story, January 16th, 1720_
+
+%% Source: [[Destruction of Eftly (Email)]], a GM/player exchange dated May 10–28, 2024. This existing composite reading copy preserves the scene but not individual email turn headers; consult the raw thread for attribution and send dates. %%
 
 The village of [[Eftly]] is no more. Clearly, the ghastly undead creature has done its worst, and even the buildings reek now of its corruption. The manor house stands half-burnt, and the barns reek of death and fire. The small stone temple to the Wildling still stands, mostly, but stones have collapsed and blocked the entryway, and streaks of soot mar the walls. There are no further survivors, although you do recall a small number of folks had escaped to [[Champimont]].  
   

@@ -5,7 +5,7 @@ POV: 1720
 # Destruction of Eftly (Email)
 
 Local archive of all 14 message bodies in this correspondence, including quoted reply history.
-Opening story: [[The Destruction of Eftly]].
+Composite reading copy: [[The Destruction of Eftly]]. The raw messages here preserve sender and send date for each turn.
 
 ## Fri, 10 May 2024 18:23:36 -0400 — Mike Sackton <msackton@gmail.com>
 
