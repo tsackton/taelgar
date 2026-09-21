@@ -9,7 +9,7 @@ These are pages that need checking of some kind. Usually this is just a simple r
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks
-FROM #status/check/ai 
+FROM #status/check/ai AND !"Campaigns/Cleenseau Campaign" AND !"Worldbuilding/Staging/Cleenseau"
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```
@@ -76,6 +76,6 @@ list from #status/check/minor
 
 ### Other Checking Needed (See Note for Details)
 ```dataview
-list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor and !#status/check/ai and !#status/check/errors
+list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor and !#status/check/ai and !#status/check/errors and !#status/check/lint
 ```
 

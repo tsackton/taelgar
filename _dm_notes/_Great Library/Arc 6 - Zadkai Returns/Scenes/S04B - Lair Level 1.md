@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Lair Level 1
 
 Reached from [[S04A - Entrance to the Lair|Entrance to the Lair]].
