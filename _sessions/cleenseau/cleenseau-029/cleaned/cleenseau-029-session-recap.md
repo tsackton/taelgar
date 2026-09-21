@@ -264,3 +264,8 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Asineau in May (Email)]]
 - [[Asineau Hirelings (Email)]]
 - [[Ganboa Correspondence (Email)]]
+- [[The Situation in Asineau (Email)]]
+- [[Halflings Balthazar and Tharwa Fea (Email)]]
+- [[The Merriweathers (Email)]]
+- [[Recurring Festival Idea (Email)]]
+- [[Odo in Asineau (Email)]]
