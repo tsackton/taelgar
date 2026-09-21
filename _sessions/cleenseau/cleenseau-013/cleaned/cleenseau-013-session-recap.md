@@ -93,8 +93,16 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 - Enemies: eel swarms, zombies, eel-mutated zombies
 - Context / Outcome: The party reaches the shipwrecks and begins clearing the undead occupying them.
 
+## Related Writings
+
+- [[Rangers in Champimont]]
+- [[Champimont Rumors and Questions]]
+- [[Play by Email/At the Elegant Swan in Champimont]]
+- [[An Evening in Corrine's House]]
+
 ## Source Files
 
 - [[Cleenseau - Session 13 - Original]]
 - [[01-cleenseau-blog-782461 - Original]]
 - [[An Evening in Corraine's House]]
+- [[Rangers in Champimont (Email)]]
