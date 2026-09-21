@@ -5,23 +5,23 @@
 - Title: Cleenseau - Session 35
 - Desc Title: Between Crises
 - Tagline: in which the party studies Ianto's trophies, returns to Clawyn for Viatela, and sets out for Orenlas
-- One-Sentence Summary: In [[Twilight's Grace]], the party consults [[Pip (brownie)|Pip]], [[Moss (brownie)|Moss]], [[Old Bramble]], [[Dame Elowen]], and [[Neris]] about trophies recovered from [[Ianto]], then crosses the [[Silver Vineyard]], reunites Celyn with [[Olwen Bettws]] in [[Clawyn]] for [[Viatela]], and sets out toward [[Orenlas]].
+- One-Sentence Summary: The party investigates Ianto's trophies in [[Twilight's Grace]], returns through the [[Silver Vineyard]] to spend [[Viatela]] in [[Clawyn]], and sets out for [[Orenlas]].
 - Arc: Interludes
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 35
-- DR Date: 1720-12-01 to 1720-12-12
+- DR Date: 1720-11-16 to 1720-12-12
 - Real Date: 2026-08-02
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### 1720-12-01
+### 1720-11-16 to 1720-11-27
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1720-12-01)
-- Resolution: approximate day
+- Timeline Key: (DR:: 1720-11-16) - (DR:: 1720-11-27)
+- Resolution: multi-day
 - Beat IDs: beat-001, beat-002
 - Locations: Twilight's Grace, Orchard Close, Ash Court, Twilight's Pool
 - NPCs: Pip (brownie), Moss (brownie), Old Bramble, Dame Elowen, Neris
@@ -33,13 +33,13 @@
 The party spends an interstitial period in [[Twilight's Grace]], sharing a meal in [[Orchard Close]] and consulting scholars in [[Ash Court]] before using [[Twilight's Pool]] to locate the living unicorn whose horn was among [[Ianto|Ianto's]] trophies.
 
 #### Long
-Around the beginning of December, the party leaves its audience with [[Archfey Ethlenn|Ethlenn]], eats with the residents of [[Orchard Close]], and seeks information about trophies recovered from [[Ianto]]. After consulting [[Neris]] and other scholars in [[Ash Court]], [[Izgil Moonseeker|Izgil]] uses the waters of [[Twilight's Pool]] to locate the living unicorn whose horn was taken.
+Over the following days, the party leaves its audience with [[Archfey Ethlenn|Ethlenn]], eats with the residents of [[Orchard Close]], and seeks information about trophies recovered from [[Ianto]]. After consulting [[Neris]] and other scholars in [[Ash Court]], [[Izgil Moonseeker|Izgil]] uses the waters of [[Twilight's Pool]] to locate the living unicorn whose horn was taken.
 
-### 1720-12-11
+### 1720-11-27 to 1720-12-11
 
 - Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1720-12-11)
-- Resolution: day
+- Timeline Key: (DR:: 1720-11-27) - (DR:: 1720-12-11)
+- Resolution: multi-day
 - Beat IDs: beat-003, beat-004
 - Locations: Silver Vineyard, Clawyn
 - NPCs: Olwen Bettws
@@ -48,10 +48,10 @@ Around the beginning of December, the party leaves its audience with [[Archfey E
 - Combat Beats: none
 
 #### Short
-The party rests in the [[Silver Vineyard]], returns to mortal [[Tyrwingha]], and reaches [[Clawyn]] in time to remain for [[Viatela]].
+The party rests in the [[Silver Vineyard]], returns to mortal [[Tyrwingha]], and reaches [[Clawyn]], where it remains through [[Viatela]].
 
 #### Long
-The party leaves the Feywild through the [[Silver Vineyard]], emerges in the southern [[Tyrwinghan Hills]], and travels north to [[Clawyn]]. They stay through [[Viatela]], giving Celyn time at home with [[Olwen Bettws]] and his family.
+The party leaves the Feywild through the [[Silver Vineyard]], emerges in the southern [[Tyrwinghan Hills]], and travels north to [[Clawyn]], arriving around November 29. They remain through [[Viatela]], giving Celyn nearly two weeks at home with [[Olwen Bettws]] and his family.
 
 ### 1720-12-12
 
@@ -77,7 +77,7 @@ The day after [[Viatela]], the party leaves [[Clawyn]] and begins hiking around 
 
 - Kind: beat
 - Beat IDs: beat-001
-- Date: around 1720-12-01
+- Date: 1720-11-16 to 1720-11-17
 - Time: unknown
 - Locations: Twilight's Grace, Orchard Close
 - NPCs: Pip (brownie), Moss (brownie), Old Bramble, Dame Elowen, Greymalkin, Es*tiasilos
@@ -98,7 +98,7 @@ As the party leaves its audience with [[Archfey Ethlenn|Ethlenn]], they find the
 
 - Kind: beat
 - Beat IDs: beat-002
-- Date: around 1720-12-01
+- Date: 1720-11-17 to 1720-11-27
 - Time: unknown
 - Locations: Twilight's Grace, Ash Court, Twilight's Pool
 - NPCs: Neris
@@ -125,7 +125,7 @@ After some pleasant wrangling, the party leaves the symposium and goes to [[Twil
 
 - Kind: travel
 - Beat IDs: beat-003
-- Date: before 1720-12-11
+- Date: 1720-11-27 to 1720-11-29
 - Time: unknown
 - Locations: Twilight's Grace, Silver Vineyard
 - NPCs: Greymalkin, Es*tiasilos
@@ -146,7 +146,7 @@ Confident that they can return to [[Twilight's Grace]] through [[Tafolwern]], th
 
 - Kind: travel
 - Beat IDs: beat-004
-- Date: 1720-12-11 to 1720-12-12
+- Date: 1720-11-29 to 1720-12-12
 - Time: unknown
 - Locations: Clawyn, Tyrwinghan Hills
 - NPCs: Olwen Bettws, Greymalkin, Es*tiasilos

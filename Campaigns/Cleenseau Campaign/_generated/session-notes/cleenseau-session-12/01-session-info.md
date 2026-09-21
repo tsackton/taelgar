@@ -128,7 +128,7 @@ https://kiya.dreamwidth.org/779436.html
 <!-- SLOT: locations -->
 - [[Asineau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): manor whose money and horses the party recovers for the regional defense.
 - [[Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town defended from the approaching undead force.
-- [[Cleenseau Bridge]] (<(*)pronunciation(*;)> <typeof:sn>): battlefield where the party confronts the bone construct.
+- [[Cleenseau Bridge]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): battlefield where the party confronts the bone construct.
 - [[Great South Road]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): route used while pursuing Lorin and later traveling east.
 - [[Champimont]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town where Lorin is caught and where the party later meets Vahaiya's company.
 <!-- /SLOT -->
@@ -139,14 +139,14 @@ https://kiya.dreamwidth.org/779436.html
 
 <!-- SLOT: groups -->
 - [[Lord's Guard of Cleenseau]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): local defenders who join the battle against the undead host.
-- [[Rangers]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): organization represented by Vahaiya's company.
+- [[Rangers|The Rangers]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): organization represented by Vahaiya's company.
 <!-- /SLOT -->
 
 <!-- SLOT: groups.section -->
 ### Organizations
 
 - [[Lord's Guard of Cleenseau]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): local defenders who join the battle against the undead host.
-- [[Rangers]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): organization represented by Vahaiya's company.
+- [[Rangers|The Rangers]] (<(*)pronunciation(*;)> <ancestry:n> <subtypeof:sn> <typeof:sn>): organization represented by Vahaiya's company.
 <!-- /SLOT -->
 
 <!-- SLOT: combat.summary -->

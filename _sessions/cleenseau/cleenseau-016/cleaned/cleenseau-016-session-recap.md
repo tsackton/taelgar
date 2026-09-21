@@ -178,3 +178,4 @@ The party escorts the people of [[Ashcombe]] to [[Aslain]], where they reunite w
 
 - [[Cleenseau - Session 16 - Original]]
 - [[01-cleenseau-blog-787058 - Original]]
+- [Between-session Cleenseau correspondence](https://mail.google.com/mail/u/0/#search/after%3A2024%2F06%2F02+before%3A2024%2F07%2F29+(subject%3A%22Before+we+go+north+to+Aveil%22+OR+subject%3A%22Temple+in+Asineau%22+OR+subject%3A%22Viepuck%27s+Sendings%22+OR+subject%3A%22Gareth%27s+Ring%22+OR+subject%3A%22Elizabeth+the+Guard%27s+story%22))

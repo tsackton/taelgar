@@ -2,9 +2,10 @@
 
 ## Session Header
 
-- Title: The Best-Laid Plans of Kobolds and Men
+- Title: Cleenseau - Session 30
+- Desc Title: The Dragon Falls
 - Tagline: in which the dragon finally falls
-- One-Sentence Summary: The party's carefully staged dragon ambush finally succeeds, after which the victors push into the kobold lair, crush the last defenders, clear the trapped approach, and claim the dragon's loot.
+- One-Sentence Summary: The party kills the dragon in a prepared ambush, defeats the remaining hostile kobolds, and claims the lair's hoard.
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 30
@@ -127,14 +128,15 @@ Once the guards stirred by the tunnel disturbance come back, the last meaningful
 
 ### NPCs
 
-- Greymalkin (companion): Robin's flying companion who joins the aerial pursuit and then receives kobold tribute after the battle
-- kobold leader (fought): hostile commander who first surrenders at the dragon fight and later dies inside the lair before she can act effectively
-- captive kobold (met): prisoner intimidated during Greymalkin's tribute scene
+- [[Krauzeth]] (fought): young red dragon killed in the prepared ambush
+- [[Drubgrak]] (met): allied kobold leader who helps spring the ambush
+- [[Vikka]] (met): Drubgrak's sister and ally against the dragon
+- [[Krizik]] (fought): leader of the dragon's aggressive kobold faction, captured after the ambush
+- [[Tizzit]] (fought): leader of the remaining loyalist kobolds, killed inside the lair
 
 ## Locations
 
-- dragon ambush site: the prepared battlefield outside the lair where the party spreads out the decoy, the ballista, and the allied kobolds before the dragon attack
-- kobold lair: the backdoor tunnel, barracks, trapped passage, and treasure area entered once the dragon is down
+- [[Marwick]]: highland territory containing the ambush site and the dragon's lair
 
 ## Organizations And Items
 

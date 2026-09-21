@@ -5,7 +5,7 @@
 - Title: Cleenseau - Session 36
 - Desc Title: The Shadow-Weasel Labyrinth
 - Tagline: in which the party rescues some Rangers from an unstable overlap with Limbo
-- One-Sentence Summary: On a wooded ridge in the [[Plaguelands]] on the way to [[Orenlas]], the party helps the leader of a group of [[Rangers]] rescue her companions from an unstable overlap with [[Limbo]], and discovers a mysterious doppelganger is impersonating one of the Rangers.
+- One-Sentence Summary: On the way to [[Orenlas]], the party rescues a group of [[Rangers]] from an unstable overlap with [[Limbo]] and discovers a doppelganger impersonating one of them.
 - Arc: Interludes
 - Campaign: Cleenseau
 - Scope: session

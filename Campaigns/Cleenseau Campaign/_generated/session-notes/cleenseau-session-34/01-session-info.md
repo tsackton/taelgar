@@ -18,11 +18,10 @@ in which the party crosses the Grey Mists and reaches Twilight's Grace
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-After leaving the [[Fortress of Ianto the Red]] with [[Krat]], [[Garn]], [[Droog]], [[Grib]], [[Snikket]], and [[Tarastië]], the party crosses the [[Grey Mists]], accepts hospitality from [[Thyron]], [[Kyron]], [[Myron]], [[Syron]], and [[Lyron]] at the [[Camp of Horn and Feather]], then reaches [[Evensong Spire]], where [[Sir Caldris|Sir Caldris, the Watcher of the Evening Song]] sends them to [[Archfey Ethlenn|Ethlenn]] in [[Twilight's Grace]].
+The party crosses the [[Grey Mists]], recovers at the [[Camp of Horn and Feather]], and reaches [[Twilight's Grace]] through [[Evensong Spire]].
 <!-- /SLOT -->
 
 <!-- SLOT: session.arc -->
-"Feywild"
 <!-- /SLOT -->
 
 <!-- SLOT: session.table_notes -->
@@ -101,19 +100,19 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moon
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_date -->
-1720-11-29 to 1720-12-01
+1720-10-28 to 1720-11-16
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_start -->
-1720-11-29
+1720-10-28
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_end -->
-1720-12-01
+1720-11-16
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
-(DR:: 1720-11-29) to (DR:: 1720-12-01)
+(DR:: 1720-10-28) to (DR:: 1720-11-16)
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
@@ -133,9 +132,9 @@ https://kiya.dreamwidth.org/830290.html
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1720-11-29): The party leaves the [[Fortress of Ianto the Red]] with Ianto's trophies, buries his recent victims, meets [[Tarastië]], and loses its goblin companions while crossing the memory-altering [[Grey Mists]].
-- (DR:: 1720-11-30): After escaping the [[Grey Mists]], the party accepts hospitality from [[Thyron]], [[Kyron]], [[Myron]], [[Syron]], and [[Lyron]] at the [[Camp of Horn and Feather]], recovers its memories, and rests after a night of hunting stories, contests, and revelry.
-- (DR:: 1720-12-01): The party reaches [[Evensong Spire]], travels by giant black swan to [[Twilight's Grace]], and receives an audience in which [[Archfey Ethlenn|Ethlenn]] restores Greymalkin's wings, grants [[Snikket]] freedom of form within her realm, and bonds [[Tarastië]] with [[Celyn]].
+- (DR:: 1720-10-28) - (DR:: 1720-11-05): The party leaves the [[Fortress of Ianto the Red]] with Ianto's trophies, buries his recent victims, meets [[Tarastië]], and travels east toward [[Twilight's Grace]].
+- (DR:: 1720-11-05) - (DR:: 1720-11-15): The party crosses the memory-altering [[Grey Mists]], then accepts hospitality at the [[Camp of Horn and Feather]], recovers its memories, and rests after a night of contests and revelry.
+- (DR:: 1720-11-16): The party reaches [[Evensong Spire]], travels by giant black swan to [[Twilight's Grace]], and receives an audience in which [[Archfey Ethlenn|Ethlenn]] restores Greymalkin's wings, grants [[Snikket]] freedom of form within her realm, and bonds [[Tarastië]] with [[Celyn]].
 <!-- /SLOT -->
 
 <!-- SLOT: cast -->
@@ -151,7 +150,7 @@ https://kiya.dreamwidth.org/830290.html
 - [[Syron]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): fey hunter, knife thrower, and former partner of [[Istarias]] who trades gossip with [[Celyn]].
 - [[Lyron]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): playful fey dancer accompanied by an extravagant peacock.
 - [[Sir Caldris]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): large fey knight titled the Watcher of the Evening Song who guards [[Evensong Spire]].
-- [[Archfey Ethlenn]] (<(*)pronunciation(*;)> <typeof:sn>): ruler of [[Twilight's Grace]] who explains the party's role and grants boons.
+- [[Archfey Ethlenn|Ethlenn]] (<(*)pronunciation(*;)> <typeof:sn>): ruler of [[Twilight's Grace]] who explains the party's role and grants boons.
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->

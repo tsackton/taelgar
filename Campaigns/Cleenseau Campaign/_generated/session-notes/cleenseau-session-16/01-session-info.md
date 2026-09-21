@@ -125,7 +125,7 @@ https://kiya.dreamwidth.org/787058.html
 - [[Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the party's base while gathering news and interrogating Gareth.
 - [[Essenmer]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): settlement on the northern route and Samuel's destination.
 - [[Maudorville]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town where the party investigates local disappearances.
-- [[Maudor Hills]] (<(*)pronunciation(*;)> <typeof:sn>): hills where the party encounters the Hunter's servants and negotiates with him.
+- [[Maudor Hills]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): hills where the party encounters the Hunter's servants and negotiates with him.
 - [[Ashcombe]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): logging village evacuated because of the Hunter's attacks.
 - [[Aslain]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town where the [[Ashcombe]] refugees and party take shelter.
 <!-- /SLOT -->

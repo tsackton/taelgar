@@ -5,59 +5,59 @@
 - Title: Cleenseau - Session 34
 - Desc Title: Wondering the Grey Mists
 - Tagline: in which the party crosses the Grey Mists and reaches Twilight's Grace
-- One-Sentence Summary: After leaving the [[Fortress of Ianto the Red]] with [[Krat]], [[Garn]], [[Droog]], [[Grib]], [[Snikket]], and [[Tarastië]], the party crosses the [[Grey Mists]], accepts hospitality from [[Thyron]], [[Kyron]], [[Myron]], [[Syron]], and [[Lyron]] at the [[Camp of Horn and Feather]], then reaches [[Evensong Spire]], where [[Sir Caldris|Sir Caldris, the Watcher of the Evening Song]] sends them to [[Archfey Ethlenn|Ethlenn]] in [[Twilight's Grace]].
+- One-Sentence Summary: The party crosses the [[Grey Mists]], recovers at the [[Camp of Horn and Feather]], and reaches [[Twilight's Grace]] through [[Evensong Spire]].
 - Arc:
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 34
-- DR Date: 1720-11-29 to 1720-12-01
+- DR Date: 1720-10-28 to 1720-11-16
 - Real Date: 2026-05-31
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### 1720-11-29
+### 1720-10-28 to 1720-11-05
 
 - Timeline Segment: timeline-001
-- Timeline Key: (DR:: 1720-11-29)
-- Resolution: approximate day
-- Beat IDs: beat-001, beat-002
-- Locations: Fortress of Ianto the Red, Grey Mists
+- Timeline Key: (DR:: 1720-10-28) - (DR:: 1720-11-05)
+- Resolution: multi-day
+- Beat IDs: beat-001
+- Locations: Fortress of Ianto the Red
 - NPCs: Krat, Garn, Droog, Grib, Snikket, Tarastië
 - Organizations: none
 - Items: Greymalkin's wings, silver unicorn horn, phoenix-like tail feather, intertwined stag-and-wood-creature remains, wrought-black elk horns, rest of Ianto's trophy collection
 - Combat Beats: none
 
 #### Short
-The party leaves the [[Fortress of Ianto the Red]] with Ianto's trophies, buries his recent victims, meets [[Tarastië]], and loses its goblin companions while crossing the memory-altering [[Grey Mists]].
+The party leaves the [[Fortress of Ianto the Red]] with Ianto's trophies, buries his recent victims, meets [[Tarastië]], and travels east toward [[Twilight's Grace]].
 
 #### Long
-The party tries to reattach Greymalkin's recovered wings, gathers Ianto's trophies, and buries the recent dead before [[Tarastië]], a small weasel-and-raven gryphon formerly bonded to one of the victims, attaches herself to Celyn. Traveling east with [[Krat]], [[Garn]], [[Droog]], [[Grib]], and the transformed [[Snikket]], they enter the Grey Mists, where tempting refuges, compulsions, and imagined dangers separate the goblins and strip away the party's memories.
+The party tries to reattach Greymalkin's recovered wings, gathers Ianto's trophies, and buries the recent dead before [[Tarastië]], a small weasel-and-raven gryphon formerly bonded to one of the victims, attaches herself to Celyn. They then travel east with [[Krat]], [[Garn]], [[Droog]], [[Grib]], and the transformed [[Snikket]] toward [[Twilight's Grace]].
 
-### 1720-11-30
+### 1720-11-05 to 1720-11-15
 
 - Timeline Segment: timeline-002
-- Timeline Key: (DR:: 1720-11-30)
-- Resolution: approximate day
-- Beat IDs: beat-003, beat-004
-- Locations: Camp of Horn and Feather
+- Timeline Key: (DR:: 1720-11-05) - (DR:: 1720-11-15)
+- Resolution: multi-day
+- Beat IDs: beat-002, beat-003, beat-004
+- Locations: Grey Mists, Camp of Horn and Feather
 - NPCs: Thyron, Kyron, Myron, Syron, Lyron, Tarastië
 - Organizations: none
 - Items: none
 - Combat Beats: none
 
 #### Short
-After escaping the Grey Mists, the party accepts hospitality from [[Thyron]], [[Kyron]], [[Myron]], [[Syron]], and [[Lyron]] at the [[Camp of Horn and Feather]], recovers its memories, and rests after a night of hunting stories, contests, and revelry.
+The party crosses the memory-altering [[Grey Mists]], then accepts hospitality at the [[Camp of Horn and Feather]], recovers its memories, and rests after a night of contests and revelry.
 
 #### Long
-The party emerges from the Grey Mists with Celyn alone retaining all of his memories. Five fey siblings of the border guard invite the travelers to their ridge camp, where Celyn's prayers restore the others' memories. The siblings roast the creatures of their hunt and draw their guests into races, dances, stories, wagers, wine, and alchemical discussion before everyone rests.
+Tempting refuges, compulsions, and imagined dangers in the Grey Mists separate the goblins and strip away the party's memories. The party emerges with Celyn alone retaining all of his memories. Five fey siblings of the border guard invite the travelers to their ridge camp, where Celyn's prayers restore the others' memories before a night of races, dances, stories, wagers, and revelry.
 
-### 1720-12-01
+### 1720-11-16
 
 - Timeline Segment: timeline-003
-- Timeline Key: (DR:: 1720-12-01)
-- Resolution: approximate day
+- Timeline Key: (DR:: 1720-11-16)
+- Resolution: day
 - Beat IDs: beat-005, beat-006
 - Locations: Evensong Spire, Twilight's Grace
 - NPCs: Sir Caldris, Archfey Ethlenn, Snikket, Tarastië
@@ -77,7 +77,7 @@ One of the siblings escorts the party to [[Evensong Spire]], where [[Sir Caldris
 
 - Kind: beat
 - Beat IDs: beat-001
-- Date: 1720-11-29
+- Date: 1720-10-28 to 1720-11-05
 - Time: unknown
 - Locations: Fortress of Ianto the Red
 - NPCs: Krat, Garn, Droog, Grib, Snikket, Tarastië, Greymalkin, Es*tiasilos
@@ -102,7 +102,7 @@ During the ritual work, Celyn notices a small creature spying from above and off
 
 - Kind: travel
 - Beat IDs: beat-002
-- Date: 1720-11-29
+- Date: 1720-11-05 to 1720-11-15
 - Time: unknown
 - Locations: Grey Mists
 - NPCs: Krat, Garn, Droog, Grib, Snikket, Greymalkin, Es*tiasilos
@@ -129,7 +129,7 @@ Near the edge of the mist, the accumulated effect becomes clear. Robin has lost 
 
 - Kind: beat
 - Beat IDs: beat-003
-- Date: 1720-11-30
+- Date: 1720-11-15
 - Time: unknown
 - Locations: Camp of Horn and Feather
 - NPCs: Thyron, Kyron, Myron, Syron, Lyron, Tarastië, Greymalkin, Es*tiasilos
@@ -154,7 +154,7 @@ The nominal fort on the ridge is mostly a wall with a bonfire and tents behind i
 
 - Kind: beat
 - Beat IDs: beat-004
-- Date: 1720-11-30
+- Date: 1720-11-15
 - Time: unknown
 - Locations: Camp of Horn and Feather
 - NPCs: Thyron, Kyron, Myron, Syron, Lyron, Tarastië, Greymalkin, Es*tiasilos
@@ -183,7 +183,7 @@ The revel is full of dares and challenges. [[Kyron]] challenges Greymalkin to ra
 
 - Kind: travel
 - Beat IDs: beat-005
-- Date: 1720-12-01
+- Date: 1720-11-16
 - Time: unknown
 - Locations: Evensong Spire, Twilight's Grace
 - NPCs: Sir Caldris, Tarastië, Greymalkin, Es*tiasilos
@@ -206,7 +206,7 @@ At the spire, the party reports that it brings news from the west. [[Sir Caldris
 
 - Kind: beat
 - Beat IDs: beat-006
-- Date: 1720-12-01
+- Date: 1720-11-16
 - Time: unknown
 - Locations: Twilight's Grace
 - NPCs: Archfey Ethlenn, Snikket, Tarastië, Greymalkin, Es*tiasilos
@@ -258,19 +258,19 @@ Celyn asks Ethlenn to remove the curse placed on him by the Hag. She offers him 
 
 ### NPCs
 
-- Krat (met): rescued goblin who accompanies the party into the Grey Mists and becomes separated there
-- Garn (met): rescued goblin who accompanies the party into the Grey Mists and becomes separated there
-- Droog (met): rescued goblin cook who accompanies the party into the Grey Mists and becomes separated there
-- Grib (met): rescued goblin vault helper who accompanies the party into the Grey Mists and becomes separated there
-- Snikket (met): rescued goblin transformed into a goat who reaches Twilight's Grace and receives freedom of form within Ethlenn's realm
-- Tarastië (met): small female weasel-and-raven gryphon formerly bonded to one of Ianto's victims who bonds with Celyn
-- Thyron (met): fey border guard, storyteller, and sibling accompanied by a mountain goat
-- Kyron (met): bold fey sibling who challenges Greymalkin and Celyn to races and dares
-- Myron (met): quiet fey sibling who discusses alchemy with Izgil and is accompanied by a giant silver moth
-- Syron (met): fey hunter, knife thrower, and former partner of Istarias who trades gossip with Celyn
-- Lyron (met): playful fey dancer accompanied by an extravagant peacock
-- Sir Caldris (met): large fey knight titled the Watcher of the Evening Song who guards Evensong Spire
-- Archfey Ethlenn (met): ruler of Twilight's Grace who explains the party's role and grants boons
+- [[Krat]] (met): rescued goblin who accompanies the party into the Grey Mists and becomes separated there
+- [[Garn]] (met): rescued goblin who accompanies the party into the Grey Mists and becomes separated there
+- [[Droog]] (met): rescued goblin cook who accompanies the party into the Grey Mists and becomes separated there
+- [[Grib]] (met): rescued goblin vault helper who accompanies the party into the Grey Mists and becomes separated there
+- [[Snikket]] (met): rescued goblin transformed into a goat who reaches Twilight's Grace and receives freedom of form within Ethlenn's realm
+- [[Tarastië]] (met): small female weasel-and-raven gryphon formerly bonded to one of Ianto's victims who bonds with Celyn
+- [[Thyron]] (met): fey border guard, storyteller, and sibling accompanied by a mountain goat
+- [[Kyron]] (met): bold fey sibling who challenges Greymalkin and Celyn to races and dares
+- [[Myron]] (met): quiet fey sibling who discusses alchemy with Izgil and is accompanied by a giant silver moth
+- [[Syron]] (met): fey hunter, knife thrower, and former partner of Istarias who trades gossip with Celyn
+- [[Lyron]] (met): playful fey dancer accompanied by an extravagant peacock
+- [[Sir Caldris]] (met): large fey knight titled the Watcher of the Evening Song who guards Evensong Spire
+- [[Archfey Ethlenn|Ethlenn]] (met): ruler of Twilight's Grace who explains the party's role and grants boons
 
 ## Locations
 

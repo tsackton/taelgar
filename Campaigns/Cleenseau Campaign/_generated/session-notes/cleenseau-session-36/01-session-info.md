@@ -18,7 +18,7 @@ in which the party rescues some Rangers from an unstable overlap with Limbo
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-On a wooded ridge in the [[Plaguelands]] on the way to [[Orenlas]], the party helps the leader of a group of [[Rangers]] rescue her companions from an unstable overlap with [[Limbo]], and discovers a mysterious doppelganger is impersonating one of the [[Rangers]].
+On the way to [[Orenlas]], the party rescues a group of [[Rangers]] from an unstable overlap with [[Limbo]] and discovers a doppelganger impersonating one of them.
 <!-- /SLOT -->
 
 <!-- SLOT: session.arc -->

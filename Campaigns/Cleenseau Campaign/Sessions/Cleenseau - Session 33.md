@@ -1,30 +1,55 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
+websiteSessionView: zoomable
 campaign: Cleenseau
+arc:
 sessionNumber: 33
-players: [Robin, Viepuck, Celyn, Izgil]
-DR: null
-DR_end: null
 realWorldDate: 2026-04-12
-name: Cleenseau - Session 33
-descTitle: Ianto's Fortress
-tagline: in which the party kills the redcap and recovers Greymalkin's wings
+DR: 1720-10-26
+DR_end: 1720-10-28
+sourceUrl: https://kiya.dreamwidth.org/829738.html
+players: [Robin, Viepuck, Celyn, Izgil]
+companions: []
+name: "Cleenseau - Session 33"
+descTitle: "Ianto's Fortress"
+tagline: "in which the party kills the redcap and recovers Greymalkin's wings"
+sessionKey: cleenseau-session-33
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 33
 
-The party infiltrates the fortress of Ianto the Red using deception, aerial movement, and repeated surprise attacks. They destroy Ianto and his redcaps, free the surviving goblins, and recover Greymalkin's wings along with other trophies taken from fey creatures.
+>[!info] Ianto's Fortress: in which the party kills the redcap and recovers Greymalkin's wings
+> *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*
+> *In Taelgar: (DR:: 1720-10-26) to (DR:: 1720-10-28)*
+> *On Earth: Sunday, April 12, 2026*
+> *[[Fortress of Ianto the Red]]*
+> *Kiya's Recap: [I know adventuring parties who use subtlety and they're all cowards.](https://kiya.dreamwidth.org/829738.html)*
+
+The party infiltrates a redcap fortress, kills its ruler, frees the surviving goblins, and recovers the trophies taken from his victims.
+
+
 
 ## Timeline
 
-- The party follows the blood trail to Ianto's hollow mountain fortress.
-- Viepuck draws out the guards, allowing the party to defeat successive redcap patrols.
-- Izgil and Viepuck attack the courtyard from above and divide the defenders.
-- Robin defeats Ianto while the others eliminate his remaining redcaps.
-- The party recovers Greymalkin's wings and finds the goatboy's brother among the surviving goblins.
 
-%% Precise in-world dates have not yet been established. %%
 
-## Source
+- (DR:: 1720-10-26) - (DR:: 1720-10-27): The party travels through the shifting Feywild landscape and rests below Ianto's fortress before attacking.
+- (DR:: 1720-10-28): The party defeats [[Ianto]] and his redcaps, frees the surviving goblins, and recovers the trophies held in the fortress.
 
-[Original player recap](https://kiya.dreamwidth.org/829738.html)
+## People and Places
+
+### NPCs
+
+- [[Ianto]] (redcap): giant redcap ruler of the fortress, killed in the throne-room battle.
+- [[Snikket]] (goblin): transformed goblin whose memories guide the party to the fortress and whose brother is among the survivors.
+- [[Krat]] (goblin): quiet, observant goblin freed from Ianto's fortress.
+- [[Garn]] (goblin): goblin freed from Ianto's fortress.
+- [[Droog]] (goblin): goblin cook freed from service in Ianto's fortress.
+- [[Grib]] (goblin): goblin vault helper freed from Ianto's fortress.
+
+
+
+### Locations
+
+- [[Fortress of Ianto the Red]] (building, in [[Feywild]]): redcap stronghold inside a hollow black peak, captured by the party.

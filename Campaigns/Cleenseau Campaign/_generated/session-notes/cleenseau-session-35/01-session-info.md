@@ -18,7 +18,7 @@ in which the party studies Ianto's trophies, returns to Clawyn for Viatela, and 
 <!-- /SLOT -->
 
 <!-- SLOT: session.summary -->
-In [[Twilight's Grace]], the party consults [[Pip (brownie)|Pip]], [[Moss (brownie)|Moss]], [[Old Bramble]], [[Dame Elowen]], and [[Neris]] about trophies recovered from [[Ianto]], then crosses the [[Silver Vineyard]], reunites [[Celyn]] with [[Olwen Bettws]] in [[Clawyn]] for [[Viatela]], and sets out toward [[Orenlas]].
+The party investigates Ianto's trophies in [[Twilight's Grace]], returns through the [[Silver Vineyard]] to spend [[Viatela]] in [[Clawyn]], and sets out for [[Orenlas]].
 <!-- /SLOT -->
 
 <!-- SLOT: session.arc -->
@@ -83,11 +83,11 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moon
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_date -->
-1720-12-01 to 1720-12-12
+1720-11-16 to 1720-12-12
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_start -->
-1720-12-01
+1720-11-16
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_end -->
@@ -95,7 +95,7 @@ Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moon
 <!-- /SLOT -->
 
 <!-- SLOT: session.dr_range_inline -->
-(DR:: 1720-12-01) to (DR:: 1720-12-12)
+(DR:: 1720-11-16) to (DR:: 1720-12-12)
 <!-- /SLOT -->
 
 <!-- SLOT: session.real_date -->
@@ -115,8 +115,8 @@ https://kiya.dreamwidth.org/831585.html
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->
-- (DR:: 1720-12-01): The party spends an interstitial period in [[Twilight's Grace]], sharing a meal in [[Orchard Close]] and consulting scholars in [[Ash Court]] before using [[Twilight's Pool]] to locate the living unicorn whose horn was among [[Ianto|Ianto's]] trophies.
-- (DR:: 1720-12-11): The party rests in the [[Silver Vineyard]], returns to mortal [[Tyrwingha]], and reaches [[Clawyn]] in time to remain for [[Viatela]].
+- (DR:: 1720-11-16) - (DR:: 1720-11-27): The party spends an interstitial period in [[Twilight's Grace]], sharing a meal in [[Orchard Close]] and consulting scholars in [[Ash Court]] before using [[Twilight's Pool]] to locate the living unicorn whose horn was among [[Ianto|Ianto's]] trophies.
+- (DR:: 1720-11-27) - (DR:: 1720-12-11): The party rests in the [[Silver Vineyard]], returns to mortal [[Tyrwingha]], and reaches [[Clawyn]], where it remains through [[Viatela]].
 - (DR:: 1720-12-12): The party leaves [[Clawyn]], travels around the mountains toward [[Orenlas]], and lets a startled owlbear retreat without a fight.
 <!-- /SLOT -->
 

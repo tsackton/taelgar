@@ -119,7 +119,7 @@ https://kiya.dreamwidth.org/782461.html
 <!-- SLOT: locations -->
 - [[Great South Road]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): route taken south toward [[Rinburg]].
 - [[Rinburg]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): city beside [[Lake Rin]] where the party investigates the undead threat.
-- [[Enclaut]] (<(*)pronunciation(*;)> <typeof:sn>): lakeside settlement where Corrine lives.
+- [[Enclaut]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): lakeside settlement where Corrine lives.
 - [[Lake Rin]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): lake threatened by the giant undead eel.
 - [[Lake Rin|Rinburg Rocks]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): central underwater outcropping above the shipwrecks and the eel's lair.
 <!-- /SLOT -->

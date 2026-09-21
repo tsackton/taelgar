@@ -1,30 +1,54 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
+websiteSessionView: zoomable
 campaign: Cleenseau
+arc: null
 sessionNumber: 30
-players: [Robin, Viepuck, Celyn, Izgil]
-DR: null
-DR_end: null
 realWorldDate: 2025-12-07
+DR: 1720-07-05
+DR_end: 1720-07-05
+sourceUrl: https://kiya.dreamwidth.org/826037.html
+players: [Robin, Viepuck, Celyn, Izgil]
+companions: []
 name: Cleenseau - Session 30
 descTitle: The Dragon Falls
-tagline: in which the ambush succeeds and the kobold lair is cleared
+tagline: in which the dragon finally falls
+sessionKey: cleenseau-session-30
+session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 30
 
-The party's prepared ambush brings down the dragon despite early setbacks. The hostile kobolds surrender or are defeated, and the party enters the lair through a concealed tunnel. After clearing its remaining defenders and traps, they secure the dragon's hoard and remains.
+>[!info] The Dragon Falls: in which the dragon finally falls
+> *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*
+> *In Taelgar: (DR:: 1720-07-05)*
+> *On Earth: Sunday, December 7, 2025*
+> *[[Marwick]]*
+> *Kiya's Recap: [The Best-Laid Plans of Kobolds and Men](https://kiya.dreamwidth.org/826037.html)*
+
+
+The party kills the [[Dragons|dragon]] in a prepared ambush, defeats the remaining hostile kobolds, and claims the lair's hoard.
+
+
 
 ## Timeline
 
-- The party positions its ballista, decoy, and allied kobolds around the ambush site.
-- The dragon attacks and is eventually grounded and killed.
-- Greymalkin receives tribute from the allied kobolds.
-- The party enters the lair by a back tunnel and defeats the remaining resistance.
-- The trapped approach is cleared and the hoard secured.
 
-%% Precise in-world dates have not yet been established. %%
 
-## Source
+- (DR:: 1720-07-05): The party's prepared ambush finally brings down the [[Dragons|dragon]], then the victors slip through the kobolds' back tunnel, clear the last defenders and traps, and reach the [[Dragons|dragon]] loot.
 
-[Original player recap](https://kiya.dreamwidth.org/826037.html)
+## People and Places
+
+### NPCs
+
+- [[Krauzeth]] (*KROW-zeth*, red dragon): young red [[Dragons|dragon]] killed in the prepared ambush.
+- [[Drubgrak]] (kobold): allied kobold leader who helps spring the ambush.
+- [[Vikka]] (kobold): Drubgrak's sister and ally against the [[Dragons|dragon]].
+- [[Krizik]] (kobold): leader of the dragon's aggressive kobold faction, captured after the ambush.
+- [[Tizzit]] (kobold): leader of the remaining loyalist kobolds, killed inside the lair.
+
+
+
+### Locations
+
+- [[Marwick]] (castle, in [[Addermarch]]): highland territory containing the ambush site and the dragon's lair.

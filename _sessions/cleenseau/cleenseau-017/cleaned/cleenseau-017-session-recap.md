@@ -197,3 +197,5 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 
 - [[Cleenseau - Session 17 - Original]]
 - [[01-cleenseau-blog-788697 - Original]]
+- [The Letter correspondence](https://mail.google.com/mail/u/0/#search/after%3A2024%2F07%2F28+before%3A2024%2F08%2F19+subject%3A%22Taelgar%3A+The+Letter%22)
+- [Into Aslain correspondence](https://mail.google.com/mail/u/0/#search/after%3A2024%2F07%2F28+before%3A2024%2F08%2F19+subject%3A%22Into+Aslain%22)
