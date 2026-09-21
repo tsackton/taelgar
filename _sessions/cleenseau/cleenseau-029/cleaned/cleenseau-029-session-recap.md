@@ -277,3 +277,7 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Asineau Interlude - April Preparation (Email)]]
 - [[Asineau Map (Email)]]
 - [[Asineau Initial Questions (Email)]]
+- [[Celyn's Inn Idea (Email)]]
+- [[Asineau Wall and Tactical Considerations (Email)]]
+- [[Cleenseau What's Next (Email)]]
+- [[Cleenseau Next Steps Take 2 (Email)]]
