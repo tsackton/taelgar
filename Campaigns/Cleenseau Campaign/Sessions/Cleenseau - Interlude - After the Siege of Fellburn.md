@@ -46,6 +46,7 @@ After the siege, the party exchanges news with the victors, witnesses the succes
 - [[Fellburn Aftermath - Audience with Duke]]
 - [[Fellburn Audience with the Duke]]
 - [[Cleenseau - The Oracle of Hope]]
+- [[The Oracle of Hope (Email)]]
 - [[The Oracle of Hope|The Oracle of Hope email scene]]
 - [[Meeting Lenora]]
 - [[Meeting Lenora - Email Scene]]
