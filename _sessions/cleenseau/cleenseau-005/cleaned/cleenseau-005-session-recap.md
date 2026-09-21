@@ -142,3 +142,5 @@ Viepuck enters [[Wakog's Camp]] disguised as an orc and persuades one unnamed fa
 
 - [[Cleenseau - Session 05 - Original]]
 - [[01-cleenseau-blog-772716 - Original]]
+- [[Guy de Varan's Story - Correspondence (Email)]]
+- [[Orc Fort Followup (Email)]]

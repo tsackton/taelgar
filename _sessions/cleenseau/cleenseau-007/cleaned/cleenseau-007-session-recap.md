@@ -222,3 +222,4 @@ After Beatrix miscarries and the dead infant becomes a zombie, the party defeats
 ## Source Files
 
 - [[Cleenseau - Session 07 - Original]]
+- [[Last Session - Sanctuary (Email)]]
