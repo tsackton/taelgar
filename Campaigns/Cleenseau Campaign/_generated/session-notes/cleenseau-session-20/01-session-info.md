@@ -107,7 +107,6 @@ https://kiya.dreamwidth.org/791148.html
 - [[Fey Aftermaths - Email Exchange]]
 - [[Fey Aftermath in Veltor - Email Scene]]
 - [[Tower of Records Search - Email Scene]]
-- [[Baroness Tower Search - Email Scene]]
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->

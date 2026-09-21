@@ -195,7 +195,6 @@ While traveling along the [[Auberonne]], the party spots harpies and enchanted b
 - [[Fey Aftermaths - Email Exchange]]
 - [[Fey Aftermath in Veltor - Email Scene]]
 - [[Tower of Records Search - Email Scene]]
-- [[Baroness Tower Search - Email Scene]]
 
 ## Source Files
 
