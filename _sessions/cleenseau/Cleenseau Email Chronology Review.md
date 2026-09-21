@@ -15,7 +15,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 15 (session date) | Celyn's fey-safety briefing and trial-morning news | Preserved in [[Celyn's Fey Safety and News (Email)]] and linked from Session 15's reviewed recap. |
 | 15 (in-world January 25) | Celyn's horse-care vignette, emailed later on July 4 | Preserved in [[Celyn and the Horses]], with its raw email linked from Session 15's reviewed recap. |
 | 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, direct-mail `Sending: Tal`, temple conversations, `Gareth's Ring`, and `Elizabeth the Guard's story` | Incorporated into Session 16; local email archives and reading copies, including [[Viepuck and Tal Exchange Sendings]], are linked from its reviewed recap. |
-| 16–17 | `Taelgar: The Letter` and `Into Aslain` | Incorporated into Session 17; correspondence searches are linked from its reviewed recap. |
+| 16–17 | `Taelgar: The Letter`, `Into Aslain`, and Greymalkin's account of the Ashcombe-to-Aslain journey | The letter and Aslain correspondence is incorporated into Session 17. [[Greymalkin's Story]] is preserved separately, with its raw email linked from that session's reviewed recap. |
 | 17–19 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 19–20 | `Fey Aftermaths` and its continuations | Incorporated into Session 20; archived sources are linked from its reviewed recap. |
 | 20–21 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
