@@ -4,7 +4,7 @@ POV: 1720
 ---
 # Baroness Tower Search (Email)
 
-Complete local archive of the Taelgar: Fey Aftermath, The Baroness' Tower email thread (2 messages). Message bodies preserve original quoted reply history; the reading copy at [[Baroness Tower Search - Email Scene]] omits repeated quotations.
+Complete local archive of the Taelgar: Fey Aftermath, The Baroness' Tower email thread (2 messages). Message bodies preserve original quoted reply history. The tower search is incorporated into [[Cleenseau - Session 20]].
 
 ## Sun, 10 Nov 2024 18:32:51 -0500 — Mike Sackton <msackton@gmail.com>
 

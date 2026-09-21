@@ -24,10 +24,9 @@ She continues. "I feel I owe you an explanation, at least a brief one. My nightm
 
 She pauses, and then continues: "I would dearly love to hear more of that lantern and where it came from. Or how four such remarkable people came to be sitting here. But of course, the hospitality of my house is yours, should you prefer to rest. Or if would you wish tea, or other further refreshment, please just ask.”
 
-[meta: Other possible hooks for conversation could be her artwork - there are four notable pieces in the room, an intimate portrait of a man’s body with a woman’s head, mid transformation hanging above the hearth; two silver sculptures of  cat turning into a bird and a bird turning into a cat, decorating her chair; a tapestry of all manner of
-chimerical beasts; a delicate wooden carving of centaur, sitting as a centerpiece on the table]
+%% Other possible hooks for conversation could be her artwork - there are four notable pieces in the room, an intimate portrait of a man’s body with a woman’s head, mid transformation hanging above the hearth; two silver sculptures of  cat turning into a bird and a bird turning into a cat, decorating her chair; a tapestry of all manner of chimerical beasts; a delicate wooden carving of centaur, sitting as a centerpiece on the table %%
 
-[Side note, Robin would know that Corrine means "maiden or girl" in Drankorian, and Morphokamia sounds derived from the Drankorian word for transformation ("morph") and work or toil ("kamia"), i.e. "Morph" is embedded there on purpose. It is unusual and sounds like a chosen name which would mean something like Shape Toiler or Transformation Worker or similar]
+%% Robin would know that Corrine means "maiden or girl" in Drankorian, and Morphokamia sounds derived from the Drankorian word for transformation ("morph") and work or toil ("kamia"), i.e. "Morph" is embedded there on purpose. It is unusual and sounds like a chosen name which would mean something like Shape Toiler or Transformation Worker or similar %%
 
 ---
 

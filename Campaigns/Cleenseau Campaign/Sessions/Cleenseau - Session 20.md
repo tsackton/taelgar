@@ -34,4 +34,3 @@ After Areschera's death, the party searches the keep and finds evidence of fey i
 - [[Fey Aftermaths - Email Exchange]]
 - [[Fey Aftermath in Veltor - Email Scene]]
 - [[Tower of Records Search - Email Scene]]
-- [[Baroness Tower Search - Email Scene]]
