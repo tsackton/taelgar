@@ -101,6 +101,12 @@ https://kiya.dreamwidth.org/807914.html
 > *Kiya's Recap: [Cursed Towns Are A Dime A Dozen Around Here](https://kiya.dreamwidth.org/807914.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Celyn and the Cursed Room]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-03-05): Raoul reveals that [[Malach]] replaced King Robert four years ago and asks the party to recover one fragment of the lich's phylactery.
 - (DR:: 1720-03-05) - (DR:: 1720-03-12): The party travels to [[Tharwa Fea]], explores the ruined academy, and secures [[Malach's Phylactery|Malach's phylactery]] fragment.
@@ -118,7 +124,7 @@ https://kiya.dreamwidth.org/807914.html
 
 <!-- SLOT: locations -->
 - [[The Setting Sun]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): [[Aslain]] inn used by [[Viepuck]] as part of his misdirection and source of information about the Baroness's search.
-- [[Tharwa Fea]] (<(*)pronunciation(*;)> <typeof:sn>): ruined magical academy where the party recovers a fragment of [[Malach's Phylactery|Malach's phylactery]].
+- [[Tharwa Fea]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): ruined magical academy where the party recovers a fragment of [[Malach's Phylactery|Malach's phylactery]].
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->

@@ -101,6 +101,16 @@ https://kiya.dreamwidth.org/779436.html
 > *Kiya's Recap: [The nonsense will continue until morale improves](https://kiya.dreamwidth.org/779436.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Asineau Fallout]]
+- [[Hunting Lorin]]
+- [[Celyn and El]]
+- [[Champimont Rumors and Questions]]
+- [[Robin's Miracle]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-01-12) to (DR_end:: 1720-01-13): The party catches Lorin, recovers most of Asineau's money and horses, and returns the resources to the regional defense.
 - (DR:: 1720-01-14), predawn: Warned by a lizardfolk messenger, the party and local forces destroy a tower of bones and roughly sixty zombies before they reach [[Cleenseau]].

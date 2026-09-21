@@ -150,6 +150,10 @@ At [[Tharwa Fea]], the party studies an enchanted gate that admits visitors acco
 - Enemies: illusory ghosts, a shadowy guardian
 - Context / Outcome: The party endures the academy's illusions, secures the phylactery fragment, and destroys the guardian that attacks during their retreat.
 
+## Related Writings
+
+- [[Celyn and the Cursed Room]]
+
 ## Source Files
 
 - [[Cleenseau - Session 25 - Original]]

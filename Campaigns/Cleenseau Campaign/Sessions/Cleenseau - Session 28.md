@@ -57,3 +57,7 @@ At their trial, the party exposes the lich behind the false charges and survives
 - [[Veltor]] (*Vel-tor*, fortified village, in [[Barony of Aveil]]): town where the party remains through the trial and its aftermath.
 - [[Veltor Keep]] (building, in [[Veltor]]): site of the trial and Malach's final shadow attack.
 - [[Asineau]] (*Ah-zee-noh*, fishing village, in [[Manor of Asineau]]): neglected village placed under Robin's stewardship at the end of the session.
+
+## Related Writings
+
+- [[A Letter to the Magistrate]]

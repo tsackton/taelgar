@@ -101,6 +101,12 @@ https://kiya.dreamwidth.org/799868.html
 > *Kiya's Recap: [time yet for a hundred indecisions and for a hundred visions and revisions](https://kiya.dreamwidth.org/799868.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Hunter Aftermaths - Email Scene]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-03-01) to (DR_end:: 1720-03-02): The party frees the surviving captives from the Hunter's lair, returns them to [[Ashcombe]], and performs rites for the dead.
 - Later on (DR:: 1720-03-02): The party gathers rumors in [[Houille]] about the changes in [[Peydon]] and the woman controlling it.

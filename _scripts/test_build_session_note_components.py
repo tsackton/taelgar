@@ -56,6 +56,25 @@ class SessionNoteComponentsTest(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
         self.assertEqual(result.stdout, '"value"')
 
+    def test_render_session_note_defaults_missing_related_writings(self) -> None:
+        node = shutil.which("node")
+        if node is None:
+            self.skipTest("Node.js is required for the renderSessionNote slot parser test.")
+        render_script = Path(__file__).with_name("templater") / "renderSessionNote.js"
+        javascript = (
+            "const render = require(process.argv[1])._test; "
+            "const slots = {'session.title': 'Example'}; "
+            "process.stdout.write(render.renderPlaceholders('{session.title}{session.related_writings}', slots));"
+        )
+        result = subprocess.run(
+            [node, "-e", javascript, str(render_script)],
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+        self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
+        self.assertEqual(result.stdout, "Example")
+
     def make_workspace(self) -> Path:
         tmpdir = Path(tempfile.mkdtemp(prefix="session-note-components-test."))
         self.addCleanup(lambda: shutil.rmtree(tmpdir, ignore_errors=True))
@@ -489,6 +508,28 @@ class SessionNoteComponentsTest(unittest.TestCase):
 
         self.assertEqual(recap["header"]["Title"], "Test Session 12: Into the Labyrinth")
         self.assertEqual(len(recap["timeline"]), 2)
+
+    def test_related_writings_are_optional_and_rendered(self) -> None:
+        original = self.reviewed_recap_text()
+        self.assertEqual(parse_session_recap(original)["relatedWritings"], [])
+        reviewed = original.replace(
+            "## Source Files",
+            "## Related Writings\n\n- [[Asineau Fallout]]\n- [[Hunting Lorin]]\n\n## Source Files",
+        )
+        recap = parse_session_recap(reviewed)
+        self.assertEqual(recap["relatedWritings"], ["- [[Asineau Fallout]]", "- [[Hunting Lorin]]"])
+        vault = self.make_workspace()
+        slots = components.build_slots(
+            recap=recap,
+            note_index=components.VaultNoteIndex(vault, vault / "_generated"),
+            session_payload={},
+            campaign_slug="test",
+            display_metadata=TEST_DISPLAY_METADATA,
+        )
+        self.assertEqual(
+            slots["info"]["session.related_writings"],
+            "## Related Writings\n\n- [[Asineau Fallout]]\n- [[Hunting Lorin]]",
+        )
 
     def test_parser_allows_locations_without_sublocations(self) -> None:
         text = re.sub(r"(?m)^  - Sublocations:.*\n", "", self.reviewed_recap_text())

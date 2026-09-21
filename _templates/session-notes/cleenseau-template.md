@@ -45,3 +45,5 @@ tagline: "{session.tagline}"
 ### Locations
 
 {locations}
+
+{session.related_writings}

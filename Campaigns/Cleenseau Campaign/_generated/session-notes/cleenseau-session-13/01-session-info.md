@@ -100,6 +100,16 @@ https://kiya.dreamwidth.org/782461.html
 > *Kiya's Recap: [We have determined that it is not, in fact, better down where it's wetter. Actually.](https://kiya.dreamwidth.org/782461.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Rangers in Champimont]]
+- [[Champimont Rumors and Questions]]
+- [[Play by Email/At the Elegant Swan in Champimont]]
+- [[An Evening in Corrine's House]]
+- [[The Destruction of Eftly]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-01-16) to (DR_end:: 1720-01-24): The party reaches [[Lake Rin]], aids the sole survivor of a failed expedition, and begins clearing eel-mutated undead from the shipwrecks beneath the lake.
 <!-- /SLOT -->

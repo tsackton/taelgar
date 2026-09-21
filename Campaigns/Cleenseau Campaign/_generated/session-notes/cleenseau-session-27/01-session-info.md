@@ -116,7 +116,7 @@ https://kiya.dreamwidth.org/822514.html
 - [[Marius]] (<(*)pronunciation(*;)> <typeof:sn>): gate guard who admits Viepuck's disguised persona to the keep.
 - [[Hesta Brill]] (<(*)pronunciation(*;)> <typeof:sn>): night staffer who feeds Viepuck's disguised persona.
 - [[Victorine Rosseau]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): chief magistrate who receives the party's evidence.
-- [[Emeric Daverre|Émeric Daverre]] (<(*)pronunciation(*;)> <typeof:sn>): castle steward who receives the party's evidence.
+- [[Emeric]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): castle steward who receives the party's evidence.
 - [[Isabeau D'Aslain]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Baroness whose pact and reactions the party investigates.
 - [[Rene d'Aslain|René d'Aslain]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): the Baroness's nephew, who sketches the false pendant.
 - [[Esme d'Aslain]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): the Baroness's niece, who discusses fear and magical study with the party.

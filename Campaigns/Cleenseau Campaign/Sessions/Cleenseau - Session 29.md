@@ -90,3 +90,7 @@ The party begins restoring [[Asineau]], then travels to [[Marwick]] and prepares
 - [[Asineau]] (*Ah-zee-noh*, fishing village, in [[Manor of Asineau]]): Robin's new demesne, where the party begins rebuilding the village.
 - [[Ganboa]] (*Gan-bo-a*, village, in [[Barony of Aveil]]): neighboring lizardfolk village where [[Robin of Abenfyrd|Robin]] and [[Celyn]] negotiate trade and mutual defense.
 - [[Marwick]] (castle, in [[Addermarch]]): highland stronghold from which the party scouts the dragon's attacks and prepares its ambush.
+
+## Related Writings
+
+- [[Celyn Training Guards]]

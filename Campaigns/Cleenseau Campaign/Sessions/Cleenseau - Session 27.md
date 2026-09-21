@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 websiteSessionView: zoomable
 campaign: Cleenseau
 arc:
@@ -50,7 +50,7 @@ Entering [[Veltor]] under strict magical restrictions, the party gathers evidenc
 - [[Marius]]: gate guard who admits Viepuck's disguised persona to the keep.
 - [[Hesta Brill]]: night staffer who feeds Viepuck's disguised persona.
 - [[Victorine Rosseau]] (Sembaran): chief magistrate who receives the party's evidence.
-- [[Emeric Daverre|Émeric Daverre]]: castle steward who receives the party's evidence.
+- [[Emeric]]: castle steward who receives the party's evidence.
 - [[Isabeau D'Aslain]] (Sembaran): Baroness whose pact and reactions the party investigates.
 - [[Rene d'Aslain|René d'Aslain]] (Sembaran): the Baroness's nephew, who sketches the false pendant.
 - [[Esme d'Aslain]] (Sembaran): the Baroness's niece, who discusses fear and magical study with the party.
