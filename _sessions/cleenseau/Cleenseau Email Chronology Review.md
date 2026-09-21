@@ -23,3 +23,14 @@ This review records the campaign-relevant email found between numbered sessions.
 | 35–36 | `Heir to House Griffin` | Meta-level planning, not an accomplished in-world declaration; excluded. |
 
 Intervals omitted from the table's detailed entries had no distinct in-world email event that was not already represented by the adjacent numbered notes.
+
+## Entity audit
+
+The same correspondence was checked for named people and map-worthy places that lacked standalone notes. Sparse staging notes were added for:
+
+- Asineau residents [[Jacques of Asineau|Jacques]] and [[Ari of Asineau|Ari]]
+- Fellburn-area places [[Cienne]], [[Gottarbain]], [[Fellbain]], and [[Enstbain]]
+- Aslain figures [[Pierre d'Aslain]], [[Cece d'Aslain]], [[Christiana Winchelsea]], [[Owain Tuvar]], [[Seraphina d'Aslain the Elder]], and [[Seraphina d'Aslain the Younger]]
+- [[Alix Degwyn]], the appointed castellan of [[Manor of Valit|Valit]]
+
+Existing notes or sections were retained for Bertram Northwoods, Ames Benthey, Warin the Woodsman, Alban and Rufus of Ashcombe, Raoul Montagu, Taviose, and Rinburg's Newtown ward rather than creating duplicates. The email and supporting DM note agree on **Christiana**, although the DM note's filename uses **Christina**; the staging note records that discrepancy for review.
