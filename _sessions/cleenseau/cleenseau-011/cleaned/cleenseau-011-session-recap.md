@@ -225,3 +225,9 @@ The party learns that [[Lorin Valbert]] has disappeared after leaving a document
 
 - [[Cleenseau - Session 11 - Original]]
 - [[Treasure Updates (Email)]]
+- [[Notes on Game January 2024 (Email)]]
+- [[More Notes and Questions (Email)]]
+- [[Letter Responses (Email)]]
+- [[Treasure January 2024 (Email)]]
+- [[Fey Background (Email)]]
+- [[Cleenseau Timeline (Email)]]
