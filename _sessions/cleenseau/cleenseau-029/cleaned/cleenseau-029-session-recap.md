@@ -252,6 +252,7 @@ With the plan chosen, the party settles into the last tense stretch before battl
 
 - [[Celyn Training Guards]]
 - [[Ganboa Negotiations]]
+- [[April Around Asineau]]
 
 ## Source Files
 
@@ -259,7 +260,7 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-source-cleaned.md
-- [April 1720 Asineau correspondence](https://mail.google.com/mail/u/0/#search/after%3A2025%2F10%2F05+before%3A2025%2F11%2F10+subject%3A%22April+1720+-+Around+Asineau%22)
+- [[April Around Asineau (Email)]]
 - [[Asineau in May (Email)]]
 - [[Asineau Hirelings (Email)]]
 - [[Ganboa Correspondence (Email)]]
