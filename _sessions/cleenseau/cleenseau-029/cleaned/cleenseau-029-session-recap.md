@@ -251,6 +251,7 @@ With the plan chosen, the party settles into the last tense stretch before battl
 ## Related Writings
 
 - [[Celyn Training Guards]]
+- [[Ganboa Negotiations]]
 
 ## Source Files
 
@@ -261,4 +262,4 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [April 1720 Asineau correspondence](https://mail.google.com/mail/u/0/#search/after%3A2025%2F10%2F05+before%3A2025%2F11%2F10+subject%3A%22April+1720+-+Around+Asineau%22)
 - [[Asineau in May (Email)]]
 - [[Asineau Hirelings (Email)]]
-- [Ganboa correspondence](https://mail.google.com/mail/u/0/#search/after%3A2025%2F10%2F05+before%3A2025%2F11%2F10+subject%3A%22Taelgar%3A+Lizardfolk%22)
+- [[Ganboa Correspondence (Email)]]
