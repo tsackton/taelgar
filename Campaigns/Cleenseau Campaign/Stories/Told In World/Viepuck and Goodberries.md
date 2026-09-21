@@ -1,5 +1,5 @@
 ---
-tags: [source, status/check/ai]
+tags: [source]
 POV: 1720
 ---
 # Viepuck and Goodberries
@@ -12,7 +12,7 @@ That one time he ate a goodberry from Perrin, and it just tasted like huckleberr
 
 The magic, he’s learned, is in the eating not the berries themselves. Eat a bunch all together and the magic is the same as if you’d eaten one. Eat them too fast, same thing. Viepuck has learned to wait for the lingering taste of the first to leave his mouth before eating the second.
 
-It’s odd, he has sometimes thought, how they always seem to taste fresher and stranger when coming from Es*taslios. Of course that is usually when Viepuck is close to death. But still.
+It’s odd, he has sometimes thought, how they always seem to taste fresher and stranger when coming from Estaslios. Of course that is usually when Viepuck is close to death. But still.
 
 %% Source email aside: “an in game explanation for why you can’t just eat 6 berries at a time”. %%
 

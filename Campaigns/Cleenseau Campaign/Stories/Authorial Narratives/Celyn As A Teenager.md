@@ -5,6 +5,8 @@ POV: 1710s
 
 # Celyn As A Teenager
 
+%% Source email: “Seven Thousand+ Words Of Celyn's Lack Of Sanity,” sent by Kiya Nicoll on October 4, 2024. Kiya framed the story as an exploration of Celyn's teenage mental health and listed content notes for PMDD/premenstrual psychosis, bipolar disorder with mixed episodes, and self-injury. She noted that several sections are from Ellis's POV. As of that email, she described Celyn's teenage miracle as giving him clarity and self-awareness about being trans and transmuting his bipolar disorder into hyperthymia. This is authorial framing, not part of the story. %%
+
 “Aren’t you worried that she’ll hurt herself?”
 The merchant was not sure what to make of the child, clearly, who had come into the courtyard of the winery with an armload of freshly cut leaves and was happily trimming the stems off them with a knife.
 The young redhaired woman glanced over and then peered at him quizzically. “She’s fine. That’s my baby sister. She probably cut some of those herself. It’s not like she hasn’t been helping with the leaf thinning for a while.”
