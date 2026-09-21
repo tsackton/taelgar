@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [source, status/check/ai]
+tags: [source]
 campaign: Dragonets
 name: The Shared Vision of Home
 POV: undated

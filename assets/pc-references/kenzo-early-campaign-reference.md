@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 ---
 # Kenzo — early-campaign character reference
 
