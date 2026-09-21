@@ -5,6 +5,7 @@ POV: 1720
 # Viepuck's Sendings (Email)
 
 Complete local archive of the Viepuck's Sendings correspondence (20 messages). Message bodies preserve quoted reply history.
+Reading copy: [[Viepuck's Sendings - Correspondence]].
 
 ## Fri, 28 Jun 2024 18:07:10 -0400 — Mike Sackton <msackton@gmail.com>
 

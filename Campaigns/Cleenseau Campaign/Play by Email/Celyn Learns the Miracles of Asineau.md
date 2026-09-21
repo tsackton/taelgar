@@ -1,16 +1,12 @@
 ---
 tags: [meta, status/check/ai]
-POV: 1720
+campaign: Cleenseau
 ---
-# Temple in Asineau - Miracles (Email)
+# Celyn Learns the Miracles of Asineau
 
-Complete local archive of the Temple in Asineau - Miracles correspondence (3 messages). Message bodies preserve quoted reply history.
-Attached image: [[Temple in Asineau - miracle image.png]].
-Reading copy: [[Celyn Learns the Miracles of Asineau]].
+Play-by-email exchange at the temple in [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted. Complete email archive: [[Temple in Asineau - Miracles (Email)]].
 
-## Sat, 29 Jun 2024 19:22:05 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
-
-Subject: [Thantos] Interstitial bit: A *different* Temple in Asineau conversation!
+### Kiya Nicoll <darkhawk@mindspring.com> — Sat, 29 Jun 2024 19:22:05 -0400
 
 Because it is kind to give Mike something he *can* respond to too. ;)
 
@@ -21,37 +17,10 @@ This would also be hooked in to a healing session with Eleanor, because Celyn is
 For this he has a little handwritten book with him, though, and something to take notes with.  And says, “If you’d be up for talking for a bit, I was wondering what the stories are, about why the Wyrdling looks over Asineau.  I heard about why Cleenseau looks to the Warlord, but,” he shrugs.  Not his field of interest.  “Why their temple is here.  What miracles there have been, before El’s.”
 
 This is, after all, the sort of thing the Wyrdling cleric who’s hanging out around here would like to know!
-_______________________________________________
-Thantos mailing list
-Thantos@bunny-puppy.net
-http://bunny-puppy.net/mailman/listinfo/thantos_bunny-puppy.net
 
-## Sat, 6 Jul 2024 10:43:09 -0400 — Mike Sackton <msackton@gmail.com>
+---
 
-Subject: Re: [Thantos] Interstitial bit: A *different* Temple in Asineau conversation!
-
-On Sat, Jun 29, 2024 at 7:22 PM Kiya Nicoll <darkhawk@mindspring.com> wrote:
-
-> Because it is kind to give Mike something he *can* respond to too. ;)
->
-> ****
->
-> This would also be hooked in to a healing session with Eleanor, because
-> Celyn is wanting to have this conversation sometime she’s feeling well
-> enough to actually talk at some length, and possibly has been there for
-> several of them before he judges that her fatigue isn’t so bad that he
-> can’t start a conversation.
->
-> For this he has a little handwritten book with him, though, and something
-> to take notes with.  And says, “If you’d be up for talking for a bit, I was
-> wondering what the stories are, about why the Wyrdling looks over Asineau.
-> I heard about why Cleenseau looks to the Warlord, but,” he shrugs.  Not his
-> field of interest.  “Why their temple is here.  What miracles there have
-> been, before El’s.”
->
-> This is, after all, the sort of thing the Wyrdling cleric who’s hanging
-> out around here would like to know!
->
+### Mike Sackton <msackton@gmail.com> — Sat, 6 Jul 2024 10:43:09 -0400
 
 Eleanor pauses for a minute, and looks thoughtful. "There are two different
 stories here, one of people and one of the land. To understand this, you
@@ -130,26 +99,12 @@ your hand close to it on a cold day. Perhaps it is this resonance that
 allowed El to hold the zombies off - for it was on the very anniversary of
 this Miracle of Hopeful Heat that the zombies attacked us."
 
-(the painting:
-[image: image.png])
+(the painting: ![[Temple in Asineau - miracle image.png]])
 
-## Sat, 6 Jul 2024 21:42:15 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
+---
 
-Subject: Re: [Thantos] Interstitial bit: A *different* Temple in Asineau conversation!
-
-On Jul 6, 2024, at 10:43 AM, Mike Sackton <msackton@gmail.com> wrote:
->
-[long post trimmed]
-> She continues: "We celebrate this miracle on the 7th of January each year, and the painting in the temple still feels warm, sometimes, if you bring your hand close to it on a cold day. Perhaps it is this resonance that allowed El to hold the zombies off - for it was on the very anniversary of this Miracle of Hopeful Heat that the zombies attacked us.”
+### Kiya Nicoll <darkhawk@mindspring.com> — Sat, 6 Jul 2024 21:42:15 -0400
 
 Celyn listens attentively to the stories, jotting things down in his book; it is not in any way a transcription, but a set of cryptic notes that seem to range around languages and symbols rather haphazardly, though the dates of the miracle anniversaries are at least clearly rendered.  “It’s easier to have hope when it’s not cold,” he agrees.  “And easier to find miracles when the gods remember.”
 
 He jots down a few other notes in the book, concentrating ferociously, before saying, “I’m glad to know this place’s miracles.  It’s important."
-
-
-
-
-_______________________________________________
-Thantos mailing list
-Thantos@bunny-puppy.net
-http://bunny-puppy.net/mailman/listinfo/thantos_bunny-puppy.net
