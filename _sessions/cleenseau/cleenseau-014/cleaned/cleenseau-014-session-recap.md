@@ -94,3 +94,4 @@ The party finishes clearing eel-mutated undead from the submerged shipwrecks ben
 
 - [[Cleenseau - Session 14 - Original]]
 - [[01-cleenseau-blog-782461 - Original]]
+- [[Roleplaying Hooks (Email)]]
