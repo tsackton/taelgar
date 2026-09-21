@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/ai]
+POV: 1720
 ---
 # Letter from Captain Rochefort to Captain Rosfeld
 _Received in [[Cleenseau]], February 7th_
+
+%% Source: the 2 June 2024 email preserved in [[Letter from Enford (Email)]]. %%
 
 Captain Rosfeld:
 

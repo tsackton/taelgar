@@ -1,0 +1,16 @@
+---
+tags: [source, status/check/ai]
+---
+# Celyn on the Road to Tharwa Fea
+
+Player-authored flashback to the journey from [[Peydon]] toward [[Tharwa Fea]] after the Midnight Lady's death. Original email, including a separate watch-order note: [[Cleenseau Watch Order and Lore (Email)]].
+
+The first day of travel after the party gets the request to go looking for the evil sphere, Celyn is very quiet.  He sticks close to Robin in the travel, and is only briefly diverted by the occasional bird.  He doesn’t talk about what happened between him and the Hag, or provide any particular insight about what her dying curse was, though he’s clearly suffering some lingering effects from it, given his usual sunniness is distinctly dented.  He’s clearly dealing with something difficult and just as clearly does not want attention on that fact.
+
+On previous travels, when the party hasn’t had rooms to stay in, Celyn’s approach to sleep has been ‘wrap himself up in the camouflage cloak and roll under a bush or something’.  That rogue’s inclination (or madman’s inclination) to concealment seems to have gone, now; instead he sleeps curled up against Robin, and perhaps as a result on the second day of travel his mood seems to have improved substantially.
+
+Day two of travel includes Celyn asking Izgil how he knows which way to go, because being a little bit wrong here could be very wrong at the other end, which eventually leads into a discussion of orienteering more generally that he seems genuinely interested in, especially when it turns to questions of navigation by stars.  His focus is predictably not great, but he keeps looping back to Izgil with more questions, or clarifications of things he isn’t sure he understands, or occasionally a specific question about relationship to a landmark that demonstrates that he is, in fact, paying attention and learning things.
+
+By the third day Celyn is faking normal reasonably well— clearly fake to the party, who know him well enough to judge it— but back to cheerfulness and off-the-wall comments in a manner that seems to be a rather deliberate choice.  He occasionally loops off to nab some forageable plant or mushroom to add to supplies, though usually with a comment about how it’s still too early in the season for anything good, or drops back to talk to Izgil about orienteering, or is briefly diverted by a bird he wants to identify.  It’s entirely likely he spots an interesting weird thing once or twice and pulls Viepuck over to look at it, because he’s noticed that Viepuck seems to be curious about odd things.  After each of these loops he returns to Robin, as if the paladin is the central mass of his particularly eccentric orbit, but often these are brief visits before he’s off chasing some other shiny that catches his attention.
+
+The evening of the third day he does try to coax Robin into taking out the lute to play, so he can join in on the drum.  If he succeeds on that, he will invite Viepuck to join as well.  That sets a reasonable pattern for the rest of the trip, as he tries to reestablish his self-appointed task of bolstering general morale.  It’s not effortless for him, but he appears to have settled into reasonably genuine cheerfulness by the time the party arrives at the cursed ruin.

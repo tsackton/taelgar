@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 20
 realWorldDate: '2024-11-17'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/791148.html
+sourceTitle: "Confusion to our enemies! And our allies! And some people who were just kinda there!"
+sourceAuthor: Kiya
+drStart: '1720-02-21'
+drEnd: '1720-02-25'
 drStartTime: null
 drEndTime: null
 participants:

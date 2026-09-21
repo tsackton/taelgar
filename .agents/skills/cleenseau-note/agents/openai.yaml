@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cleenseau Note"
+  short_description: "Build source-grounded Cleenseau session notes"
+  default_prompt: "Use $cleenseau-note to build or revise a Cleenseau session note from its source materials."

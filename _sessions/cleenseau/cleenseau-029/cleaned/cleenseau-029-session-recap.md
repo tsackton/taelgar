@@ -2,47 +2,48 @@
 
 ## Session Header
 
-- Title: An Interlude, Soon to Be Slightly on Fire
+- Title: Cleenseau - Session 29
+- Desc Title: Asineau and the Dragon
 - Tagline: in which Asineau prospers and a dragon nears
-- One-Sentence Summary: Robin settles into the lordship of Asineau, the village begins to flourish under the party's care, and a dragon hunt in the eastern hills turns into a midnight ambush.
+- One-Sentence Summary: The party begins restoring [[Asineau]], then travels to [[Marwick]] and prepares an ambush for a dragon raiding the eastern highlands.
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 29
-- DR Date: unknown
+- DR Date: 1720-04-01 to 1720-07-05
 - Real Date: 2025-11-09
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### Undated (ordered)
+### 1720-04-01 to 1720-07-04
 
 - Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-04-01) - (DR:: 1720-07-04)
+- Resolution: multi-day
 - Beat IDs: b01, b02, b03
-- Locations: Asineau, Marwick, destroyed summer villages above Marwick
-- NPCs: Vahaiya, the Earl of Marwick, the Earl's surviving knight
+- Locations: Asineau, Ganboa, Marwick
+- NPCs: Vahaiya, Rhiannon de Vaux, the Earl's surviving knight
 - Organizations: none
-- Items: none
+- Items: Lenora's four-bead necklace, Lenora's enchanted saddle, shield of the Sibyl, Far Realm pact ring
 - Combat Beats: none
 
 #### Short
 Robin settles into Asineau, the village begins to thrive under the party's attention, and Vahaiya's warning sends the party east to Marwick to hunt a dragon.
 
 #### Long
-Robin accepts the lordship of Asineau, and the party spends the following stretch rebuilding the village with new defenses, workshops, trade, and local alliances. When Vahaiya brings word of a dragon ravaging the borderlands, the party rides to Marwick, studies the threat, and scouts the ruined uplands until they understand how to lay a trap.
+Robin accepts the lordship of Asineau, and the party spends the following stretch rebuilding the village with new defenses, workshops, trade, festivals, and local alliances. When Vahaiya brings word of a dragon ravaging the borderlands, the party rides to Marwick, studies the threat, and scouts the ruined uplands until they understand how to lay a trap.
 
-### Undated (ordered) (evening)
+### 1720-07-04 (evening)
 
 - Timeline Segment: timeline-002
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-07-04)
+- Resolution: day
 - Beat IDs: b04
 - Locations: ruined mountain village near the dragon's lair
 - NPCs: the winged kobold leader, the winged kobold's sister
 - Organizations: none
-- Items: none
+- Items: Lenora's four-bead necklace, Lenora's enchanted saddle, shield of the Sibyl, Far Realm pact ring
 - Combat Beats: none
 
 #### Short
@@ -51,11 +52,11 @@ At the ruined village, the party captures a kobold scouting band, learns how the
 #### Long
 The bait draws kobolds instead of the dragon, but Viepuck's magic and the party's nerve bring them to surrender without a real fight. Their testimony reveals rival factions around the dragon, the southern ash-cloud disaster that drove them north, and enough practical detail for Robin to recruit the least eager kobolds into the night's trap.
 
-### Undated (ordered) (night)
+### 1720-07-05 (pre-dawn)
 
 - Timeline Segment: timeline-003
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-07-05)
+- Resolution: day
 - Beat IDs: b05
 - Locations: valley below the dragon's lair
 - NPCs: none
@@ -75,11 +76,11 @@ With the trap reset and the allied kobolds close at hand, the party waits outsid
 
 - Kind: beat
 - Beat IDs: b01
-- Date: unknown
-- Time: unknown
+- Date: 1720-04-01 to 1720-06-30
+- Time: multi-month
 - Source Range: u0001 -> u0020
-- Locations: Asineau
-- NPCs: none
+- Locations: Asineau, Ganboa
+- NPCs: Cadfael de Dufferin, Erick Murtha, Catherine de Brune, Rosalind Essford, Eleanor, Bolgrim Ferrystone, Roaric Ferrystone, Odo Cordwaner, Samuel Cordwaner, Abigail Moss, Brot Starsearcher, Diesla Starsearcher, Bastien, Betsy Throne, Mabel of Cleenseau, Avelina Smith, Matias, Connor, Elbeth, Rinault Essford, Yvette, Quent Merriweather, Tobin Merriweather, Tamsin Merriweather, Lenora Belles, Unai, Erdu, Izoko
 - Organizations: none
 - Items: none
 - Enemies: none
@@ -88,17 +89,17 @@ With the trap reset and the allied kobolds close at hand, the party waits outsid
 Robin accepts the lordship of Asineau and begins remaking the village into a stronger, richer home.
 
 #### Intermediate
-Robin takes possession of Asineau after the Baroness's fall, and the party throws itself into rebuilding the village around its new lord. New defenses, workshops, trade plans, and local improvements begin to turn their demesne into a real base rather than a neglected backwater.
+Robin takes possession of Asineau after the Baroness's fall, and the party throws itself into rebuilding the village around its new lord. New guards and craftspeople arrive, regional trade and festivals begin, and an agreement with nearby Ganboa supports mutual defense and the village's glassworks.
 
 #### Long
-Robin's acceptance of the lordship of Asineau turns the party's recent victory into a new civic responsibility. He takes charge of defenses and administration while Celyn pushes for a healthier local economy and Izgil adds research and craft infrastructure, with the village gaining new smithing, workshop, garden, and glassmaking projects. As halfling merchants, craftsmen, and nearby lizardfolk become more involved in village life, Asineau starts to look less like a burden inherited from Lorin Valbert and more like a place the party genuinely means to build.
+Robin's acceptance of the lordship of Asineau turns the party's recent victory into a new civic responsibility. The party recruits guards and craftspeople, establishes smithing, workshop, garden, and glassmaking projects, and hosts the Empty Cauldron festival on May 12. The Merriweathers begin trading through the village, Lenora visits while traveling toward Medju, and Robin and Celyn negotiate with Erdu and Unai in Ganboa: younger lizardfolk led by Izoko agree to gather glassmaking sand, while the two communities establish the basis for mutual defense. Asineau starts to look less like a burden inherited from Lorin Valbert and more like a place the party genuinely means to build.
 
 ### recap-002 | Dragon Rumors East
 
 - Kind: beat
 - Beat IDs: b02
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-01 to 1720-07-02
+- Time: multi-day
 - Source Range: u0021 -> u0025
 - Locations: Asineau, Marwick
 - NPCs: Vahaiya, the Earl of Marwick
@@ -119,8 +120,8 @@ That settled stretch ends when Vahaiya brings word of a dragon attacking the eas
 
 - Kind: beat
 - Beat IDs: b03
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-02 to 1720-07-04
+- Time: multi-day
 - Source Range: u0026 -> u0027
 - Locations: Marwick, destroyed summer villages above Marwick
 - NPCs: the Earl's surviving knight
@@ -141,7 +142,7 @@ At Marwick, Robin applies everything he has been learning about fortification an
 
 - Kind: beat
 - Beat IDs: b04
-- Date: unknown
+- Date: 1720-07-04
 - Time: evening
 - Source Range: u0028 -> u0048
 - Locations: ruined mountain village near the dragon's lair
@@ -163,8 +164,8 @@ The carefully prepared trap does not bring the dragon first; instead it snags a 
 
 - Kind: beat
 - Beat IDs: b05
-- Date: unknown
-- Time: night
+- Date: 1720-07-05
+- Time: pre-dawn
 - Source Range: u0049 -> u0051
 - Locations: valley below the dragon's lair
 - NPCs: none
@@ -185,37 +186,77 @@ With the plan chosen, the party settles into the last tense stretch before battl
 
 ### NPCs
 
-- Vahaiya (met): messenger and dragon witness
-- the Earl of Marwick (met): local ruler under siege
+- [[Vahaiya]] (met): messenger and veteran dragon witness who brings news of the attacks
+- [[Cadfael de Dufferin]] (heard of): newly appointed Baron of Aveil
+- [[Erick Murtha]] (met): neighboring lord who hosts the party during the spring
+- [[Catherine de Brune]] (met): landowner who settles local property matters and offers financing
+- [[Rosalind Essford]] (met): neighboring noble who offers quarry stone and advice
+- [[Eleanor]] (met): elderly local leader who warns that she expects to die before autumn
+- [[Bolgrim Ferrystone]] (met): dwarf who brings Ferrystone masons to Asineau
+- [[Roaric Ferrystone]] (met): smith who remains in Asineau to train Samuel
+- [[Odo Cordwaner]] (met): newly appointed captain of Asineau's guard
+- [[Samuel Cordwaner]] (met): Odo's younger brother and apprentice smith
+- [[Abigail Moss]] (met): orchardkeeper and pig farmer who comes to Asineau with Odo and Samuel
+- [[Brot Starsearcher]] (met): engineer who relocates his workshop to Asineau
+- [[Diesla Starsearcher]] (met): engineer who relocates her workshop to Asineau
+- [[Bastien]] (met): former Army of the West soldier who joins Asineau's guard
+- [[Betsy Throne]] (met): young guard seeking a new start in Asineau
+- [[Mabel of Cleenseau]] (met): recruit who comes to Asineau for guard training
+- [[Avelina Smith]] (met): injured weaponsmith recruited as armoury master
+- [[Matias]] (met): one of Asineau's original guards
+- [[Connor]] (met): one of Asineau's original guards
+- [[Elbeth]] (met): one of Asineau's original guards
+- [[Rinault Essford]] (met): leader of the winning team at the Empty Cauldron martial contest
+- [[Yvette]] (met): organizer of the festival's communal stew
+- [[Quent Merriweather]] (met): one-eyed elder who leads the Merriweather caravan
+- [[Tobin Merriweather]] (met): younger Merriweather trader
+- [[Tamsin Merriweather]] (met): talkative young member of the Merriweather caravan
+- [[Lenora Belles]] (met): Night Queen paladin who visits while seeking Raoul's resurrection
+- [[Erdu]] (met): skeptical elder who agrees to coordinate Ganboa's defense with Asineau
+- [[Unai]] (met): Ganboa herbalist who leads those willing to attend regional festivals
+- [[Izoko]] (met): young fisher who organizes lizardfolk sand gathering for Asineau's glassworks
+- [[Rhiannon de Vaux]] (met): Earl of the Highlands, whose forces have been devastated by the dragon
 - the Earl's surviving knight (met): guide and local escort
-- the winged kobold leader (met): captured spokesperson
-- the winged kobold's sister (met): captured second-in-command
-- Lorin Valbert (mentioned): former lord
-- Odo Cordwaner (mentioned): captain of the guard
-- Brot Starsearcher (mentioned): tinkering dwarf
-- the miller (mentioned): local bigot
+- [[Drubgrak]] (met): winged kobold leader who surrenders and helps plan the ambush
+- [[Vikka]] (met): Drubgrak's sister and more cautious second-in-command
+- [[Tizzit]] (heard of): leader of the kobolds who favor strengthening the dragon cautiously
+- [[Krizik]] (heard of): leader of the kobolds who favor raids and open destruction
+- [[Krauzeth]] (heard of): young red dragon raiding the highlands
 
 ## Locations
 
-- Asineau: Robin's new demesne and the village works being expanded around it
-- Marwick: eastward travel to the castle nearest the dragon's attacks
-- destroyed summer villages above Marwick: scouting the ravaged uplands and observing the dragon from the ridge
-- ruined mountain village near the dragon's lair: the baited ambush site with concealed ballista and cow decoy
-- valley below the dragon's lair: the concealed overnight ambush position outside the lair approach
+- [[Asineau]]: Robin's new demesne, where the party begins rebuilding the village
+- [[Ganboa]]: neighboring lizardfolk village where Robin and Celyn negotiate trade and mutual defense
+- [[Marwick]]: highland stronghold from which the party scouts the dragon's attacks and prepares its ambush
 
 ## Organizations And Items
 
 ### Organizations
 
 - Sembaran Army (mentioned): Much of the realm's military strength has been disrupted by the lich's fall and the southern ash crisis, leaving little force to answer the dragon.
-- The Rangers (mentioned): They have largely gone south to investigate the spreading elemental ash threat instead of helping on the eastern border.
+- [[Rangers|The Rangers]] (mentioned): They have largely gone south to investigate the spreading elemental ash threat instead of helping on the eastern border.
 
 ### Items
+
+- Lenora's four-bead necklace (received): Four remaining prayer beads invoke the Warlord, Father, Wanderer, and Wyrdling once each.
+- Lenora's enchanted saddle (received): A protective saddle that steadies rider and mount and can hasten the mount once per day.
+- shield of the Sibyl (received): An enchanted shield that can shatter to turn one failed magical saving throw into a success.
+- Far Realm pact ring (received): A ring recovered from the tower where Viepuck was to be sacrificed, functioning as a pact-keeper focus for a Far Realm warlock.
 
 
 ## Combat
 
 - none
+
+## Related Writings
+
+- [[Celyn Training Guards]]
+- [[Ganboa Negotiations]]
+- [[April Around Asineau]]
+- [[Celyn and the Merriweathers]]
+- [[Halflings Balthazar and Tharwa Fea - Email Exchange]]
+- [[Odo's Return to Asineau]]
+- [[A Recurring Festival for Cleenseau]]
 
 ## Source Files
 
@@ -223,3 +264,28 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-source-cleaned.md
+- [[April Around Asineau (Email)]]
+- [[Asineau in May (Email)]]
+- [[Asineau Hirelings (Email)]]
+- [[Ganboa Correspondence (Email)]]
+- [[The Situation in Asineau (Email)]]
+- [[Halflings Balthazar and Tharwa Fea (Email)]]
+- [[The Merriweathers (Email)]]
+- [[Recurring Festival Idea (Email)]]
+- [[Odo in Asineau (Email)]]
+- [[Asineau as Bastion (Email)]]
+- [[Asineau Interlude - April Preparation (Email)]]
+- [[Asineau Map (Email)]]
+- [[Asineau Initial Questions (Email)]]
+- [[Celyn's Inn Idea (Email)]]
+- [[Asineau Wall and Tactical Considerations (Email)]]
+- [[Cleenseau What's Next (Email)]]
+- [[Cleenseau Next Steps Take 2 (Email)]]
+- [[Asineau Gates and Walls (Email)]]
+- [[Proposed Bastion Rules (Email)]]
+- [[Bastion Turn 1 Questions (Email)]]
+- [[Next Session Meta (Email)]]
+- [[SimManor Approach (Email)]]
+- [[Party Finances (Email)]]
+- [[Asineau Taxes and Income (Email)]]
+- [[Cleenseau Interlude Meta (Email)]]

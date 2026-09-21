@@ -70,6 +70,7 @@ For session notes to generate headers and indexes:
 - `companions`: List of NPCs that traveled with the party during a session. 
 - `players`: List of PC names present in a session (e.g. `[Kenzo, Wellby, Delwath, Seeker, Riswynn]`).
 - `sessionNumber`: Numeric session identifier within a campaign.
+- `sourceUrl`: Optional URL for the original external session recap or other primary session source. The generated session header displays this as a source link.
 
 ### Relationship and Linkage Fields
 
@@ -159,7 +160,7 @@ Event pages (e.g. historical battles or wars) typically have:
 
 Session notes (primarily under `Campaigns/*/Session Notes`) typically have:
 
-- Identity: `name` (often `Campaign – Session N`), `tagline`, `descTitle`
+- Identity: `name` (often `Campaign – Session N`), `tagline`, `descTitle`, optional `sourceUrl`
 - Chronology: `campaign`, `sessionNumber`, `realWorldDate`, `DR`, optional `DR_end`
 - Relationships: `players`, optional `companions`
 

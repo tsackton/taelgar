@@ -4,8 +4,11 @@ scope: session
 campaign: Cleenseau
 sessionNumber: 17
 realWorldDate: '2024-08-18'
-drStart: null
-drEnd: null
+sourceUrl: https://kiya.dreamwidth.org/788697.html
+sourceTitle: 'Not The Usual Way A D&D Party Bothers Local Law Enforcement: A Tale Of Two Magistrates'
+sourceAuthor: Kiya
+drStart: '1720-02-17'
+drEnd: '1720-02-19'
 drStartTime: null
 drEndTime: null
 participants:

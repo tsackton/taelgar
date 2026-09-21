@@ -1,7 +1,7 @@
 ---
 name: Cleenseau Campaign - Timeline
 timelineDescriptor: Cleenseau Campaign
-tags: [meta]
+tags: [meta, status/check/ai]
 typeOf: timeline
 ---
 
@@ -60,7 +60,7 @@ typeOf: timeline
 ### January
 * January 1st, evening: the party waits for a mysterious fey in the fields near [[Taviose]]
 * January 2nd, pre-dawn: the party kills a redcap and encounters a mysterious fey
-* January 2nd, day: [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], and [[Celyn]] are trapped in various dreams
+* January 2nd, day: [[Izgil Moonseeker|Izgil]] and [[Celyn]] are trapped in nightmares of [[Duskmire]] and escape after [[Robin of Abenfyrd|Robin]] intervenes
 * January 3rd: [[Rosalind Essford]] is summoned to the King's Court
 * January 3rd, evening: [[Rosalind Essford|Lady Rosalind Essford]], her husband [[Arthur Essford]], her advisor [[Eremon]], [[Ames Benthey]], and most of the [[Lord's Guard of Cleenseau]] depart for [[Embry]]
 * January 4th: The party investigates [[Duncan Rivers]] missing ale and finds a secret tunnel under the [[The Crossroads Inn]], [[Izgil Moonseeker|Izgil]] researches [[Archfey Ethlenn]]
