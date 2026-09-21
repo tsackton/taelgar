@@ -193,9 +193,13 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 
 ## Combat
 
+## Related Writings
+
+- [[The Hunter's Letter - Email Exchange]]
+
 ## Source Files
 
 - [[Cleenseau - Session 17 - Original]]
 - [[01-cleenseau-blog-788697 - Original]]
-- [The Letter correspondence](https://mail.google.com/mail/u/0/#search/after%3A2024%2F07%2F28+before%3A2024%2F08%2F19+subject%3A%22Taelgar%3A+The+Letter%22)
+- [[The Hunter's Letter (Email)|The Letter correspondence]]
 - [[Into Aslain (Email)|Into Aslain correspondence]]
