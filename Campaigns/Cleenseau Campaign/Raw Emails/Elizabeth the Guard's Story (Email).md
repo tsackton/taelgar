@@ -7,6 +7,7 @@ POV: 1720
 Complete local archive of the Elizabeth the Guard's Story correspondence (5 messages). Message bodies preserve quoted reply history.
 Attached portrait: [[Elizabeth of Cassen - source image.png]].
 Story as told to the party: [[Elizabeth of Cassen's Story]].
+Reading copy of the replies: [[Elizabeth of Cassen - Email Discussion]].
 
 ## Mon, 1 Jul 2024 21:53:45 -0400 — Mike Sackton <msackton@gmail.com>
 
