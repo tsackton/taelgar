@@ -180,9 +180,17 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 - Enemies: tower of bones, zombies, skeletons
 - Context / Outcome: The party and local forces destroy the undead host before it reaches Cleenseau's walls.
 
+## Related Writings
+
+- [[Asineau Fallout]]
+- [[Hunting Lorin]]
+- [[Celyn and El]]
+- [[Champimont Rumors and Questions]]
+
 ## Source Files
 
 - [[Cleenseau - Session 12 - Original]]
 - [[01-cleenseau-blog-779436 - Original]]
 - [[Champimont - Rumors and Information]]
+- [[Champimont Rumors and Questions (Email)]]
 - [[At The Elegant Swan in Champimont]]
