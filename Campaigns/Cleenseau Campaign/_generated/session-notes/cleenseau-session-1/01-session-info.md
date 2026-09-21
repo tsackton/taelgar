@@ -99,6 +99,9 @@ Sunday, January 8, 2023
 <!-- SLOT: session.source_header -->
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1719-10-19): [[Viepuck]], already in [[Cleenseau]], and [[Celyn]] stay at [[The Fox's Flagon]], while [[Robin of Abenfyrd|Robin]] and [[Izgil Moonseeker|Izgil]] camp along the [[South Watch Road]].
 - (DR:: 1719-10-20): The four travelers meet while defending [[Taviose]], then are welcomed as heroes and dine together at [[Essford Manor]].

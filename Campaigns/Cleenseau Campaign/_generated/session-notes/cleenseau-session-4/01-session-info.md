@@ -99,6 +99,9 @@ Sunday, April 30, 2023
 <!-- SLOT: session.source_header -->
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1719-11-03) to (DR_end:: 1719-11-12): The party deals with the poisoned-bread conspirators, Odo's dismissal, and the exposure of Viepuck's identity.
 - (DR:: 1719-11-26) to (DR_end:: 1719-12-04): Ida marches for [[Dunfry]], the party gathers regional support against [[Wakog]], and [[Guy de Varan]] arrives after escaping [[Wakog's Camp|Wakog's camp]].
@@ -108,7 +111,7 @@ Sunday, April 30, 2023
 - [[Rosalind Essford]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): heir to [[Cleenseau]] involved in the aftermath of the poisoning.
 - [[Odo Cordwaner]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): dismissed soldier for whom [[Robin of Abenfyrd|Robin]] pleads.
 - [[Ida Rosfeld]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): commander unexpectedly ordered to [[Dunfry]].
-- [[Francois the Bandit]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): captured conspirator who dies by suicide.
+- [[Francois the Bandit|François]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): captured conspirator who dies by suicide.
 - [[Jerome]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): captured bandit executed for banditry.
 - [[Vincent de Arban]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): investigator whose visit exposes Viepuck's identity.
 - [[Susanne Garay]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Viepuck's correspondent, whose letter brings him funds.

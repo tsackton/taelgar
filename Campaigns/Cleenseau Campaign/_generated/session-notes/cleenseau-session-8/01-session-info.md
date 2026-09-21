@@ -99,6 +99,9 @@ Sunday, November 12, 2023
 <!-- SLOT: session.source_header -->
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-01-06): The party investigates the plague, traces infected rats into buried tunnels, and gathers accounts of the fort beneath [[Essford Manor]].
 - (DR:: 1720-01-07): The party enters the buried fort, defeats giant centipedes and animated bones, and recovers a Ranger's cache.
@@ -149,26 +152,26 @@ Sunday, November 12, 2023
 
 <!-- SLOT: items.treasure -->
 - [[Ring of Wounding]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the skeletal necromancer.
-- [[Dwarven Ring of Sorcerous Restoration (Izgil)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered in the buried fort.
+- [[Dwarven Ring of Sorcerous Restoration (Izgil)|Ring of Sorcerous Restoration]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered in the buried fort.
 - [[Chest of the Forest Guardian]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): trapped Ranger's chest recovered in the buried fort.
 - [[Cloak of Concealment]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
-- [[Ring of Waterwalking (Cleenseau)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
+- [[Ring of Waterwalking (Cleenseau)|Ring of Water Walking]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
 <!-- /SLOT -->
 
 <!-- SLOT: objects -->
 - [[Ring of Wounding]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the skeletal necromancer.
-- [[Dwarven Ring of Sorcerous Restoration (Izgil)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered in the buried fort.
+- [[Dwarven Ring of Sorcerous Restoration (Izgil)|Ring of Sorcerous Restoration]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered in the buried fort.
 - [[Chest of the Forest Guardian]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): trapped Ranger's chest recovered in the buried fort.
 - [[Cloak of Concealment]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
-- [[Ring of Waterwalking (Cleenseau)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
+- [[Ring of Waterwalking (Cleenseau)|Ring of Water Walking]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
 <!-- /SLOT -->
 
 <!-- SLOT: objects.section -->
 ## Treasure and Things
 
 - [[Ring of Wounding]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the skeletal necromancer.
-- [[Dwarven Ring of Sorcerous Restoration (Izgil)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered in the buried fort.
+- [[Dwarven Ring of Sorcerous Restoration (Izgil)|Ring of Sorcerous Restoration]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered in the buried fort.
 - [[Chest of the Forest Guardian]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): trapped Ranger's chest recovered in the buried fort.
 - [[Cloak of Concealment]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
-- [[Ring of Waterwalking (Cleenseau)]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
+- [[Ring of Waterwalking (Cleenseau)|Ring of Water Walking]] (<(*)pronunciation(*;)> <rarity:sn> <ancestry:n> <subtypeof:sn> <typeof:sn>): recovered from the Ranger's chest.
 <!-- /SLOT -->
