@@ -167,6 +167,7 @@ Once the guards stirred by the tunnel disturbance come back, the last meaningful
 
 ## Source Files
 
+- [[The Plan (Email)]]
 - Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session-summary-context.json
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-beat-facts.json
