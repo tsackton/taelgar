@@ -186,6 +186,7 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 - [[Hunting Lorin]]
 - [[Celyn and El]]
 - [[Champimont Rumors and Questions]]
+- [[Robin's Miracle]]
 
 ## Source Files
 
@@ -202,3 +203,4 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 - [[Peasant Militia (Email)]]
 - [[Asineau Loose End (Email)]]
 - [[Taelgar Letter Open When Told (Email)]]
+- [[The Morning the Wanderer Blessed Robin (Email)]]
