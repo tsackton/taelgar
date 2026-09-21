@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Zadkai’s alert progression
 
 One patrol missing: not surprising.

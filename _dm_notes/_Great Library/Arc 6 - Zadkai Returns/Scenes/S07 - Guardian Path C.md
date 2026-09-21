@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Guardian path C
 
 Defeat or outwit the guardian to obtain its key.

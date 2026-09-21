@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Guardian path A
 
 Defeat or outwit the guardian to obtain its key.
