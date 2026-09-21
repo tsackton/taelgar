@@ -202,10 +202,14 @@ Guided by Ysanne's warning, the party opens the bricked-up well in Peydon's town
 - Enemies: Midnight Lady, one shambling mound
 - Context / Outcome: The party recovers the scrying mirror but learns that the Midnight Lady can restore herself through a hidden poppet.
 
+## Related Writings
+
+- [[Hunter Aftermaths - Email Scene]]
+
 ## Source Files
 
 - [[Cleenseau - Session 22 - Original]]
 - [[01-cleenseau-blog-799868 - Original]]
-- [[Hunter Aftermaths]]
+- [[Hunter Aftermaths (Email)]]
 - [[Overview - Peydon]]
 - [[Mirror of the Well]]

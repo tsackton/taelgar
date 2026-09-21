@@ -190,10 +190,18 @@ While traveling along the [[Auberonne]], the party spots harpies and enchanted b
 - Enemies: two harpies, two enchanted bears
 - Context / Outcome: The party kills the attackers, rescues their captives, and discovers the black-glass shard used to select targets.
 
+## Related Writings
+
+- [[Fey Aftermaths - Email Exchange]]
+- [[Fey Aftermath in Veltor - Email Scene]]
+- [[Tower of Records Search - Email Scene]]
+- [[Baroness Tower Search - Email Scene]]
+
 ## Source Files
 
 - [[Cleenseau - Session 20 - Original]]
 - [[01-cleenseau-blog-791148 - Original]]
+- [[Fey Aftermaths I]]
 - [[Fey Aftermaths II]]
 - [[Fey Aftermath - Tower of Records]]
-- [[Fey Aftermath - Baroness Tower]]
+- [[Baroness Tower Search (Email)]]
