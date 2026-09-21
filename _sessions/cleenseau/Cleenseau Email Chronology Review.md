@@ -7,6 +7,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 1–8 | No separate play-by-email sequence identified. | No chronology change. |
 | 9–10 | `Entering the portal` | Planning and mechanics rather than a completed in-world scene; excluded. |
 | 11–12 | `Taelgar: Asineau Fallout`, `Hunting Lorin - Asineau Fallout`, and Celyn/El correspondence | Events are incorporated into Sessions 11 and 12. |
+| 12 (bridge battle) | DM-authored account of Robin's experience when the Wanderer blessed him | Preserved in [[Robin's Miracle]], with [[The Morning the Wanderer Blessed Robin (Email)|the original email]] linked from Session 12's reviewed recap. |
 | 12–13 | `In Champimont - Part 1`, `Champimont II - Rumors`, and the Elegant Swan conversation | Incorporated into Session 12; archived sources are linked from its reviewed recap. |
 | 13–14 | `An Evening in Corrine's House` and related Rinburg discussion | Incorporated into Session 13; archived source is linked from its reviewed recap. |
 | 14–15 | `The Siege of Fellburn`, `Siege of Fellburn - The Duke's Camp - Information`, `The Oracle of Hope - an interlude`, `Fellburn Aftermath - Audience with the Duke`, `Meeting Lenora`, and direct-mail `Viepuck's Trip To Town` | Preserved as [[Cleenseau - Interlude - After the Siege of Fellburn]]; Viepuck's separate exchange is in [[Viepuck's Visit to Fellburn]]. |
