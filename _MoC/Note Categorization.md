@@ -249,7 +249,7 @@ Definition: The session-note tag is used exclusively for session notes.
 The session-note note expects the following metadata:
 
 Classification: campaign
-Other: sessionNumber, players, tagline, descTitle, name
+Other: sessionNumber, players, tagline, descTitle, name; optional sourceUrl
 Dates: DR, DR_end, realWorldDate
 Accepts whereabouts: No.
 Accept affiliations:  No.

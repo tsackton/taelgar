@@ -1,5 +1,6 @@
 ---
-tags: [source]
+tags: [source, status/check/ai]
+POV: undated
 ---
 
 Celyn cocks his head to one side.  “I can read Sylvan, yes.  In its native form.”  He flicks his fingers awkwardly against his knee.  “It’s a complicated language to learn to read, which is one of the reasons that it’s usually written in Elvish.  Elvish is written in sounds.  Sylvan is written in ideas, arranged artistically.”
@@ -16,3 +17,5 @@ Of course, given Izgil is still interested in learning, Celyn shrugs cheerfully 
 He stares at what he’s written, then smudges out ‘grey’, rewrites it attached with an arc to ‘rock’, and gestures.  “So for a sentence this simple you might think you’d want to write it that way, so ‘grey’ is attached to ‘rock’, but it’s out of balance.  Only two surrounding the center, only one satellite character with its own orbit, and also only one thing in orbit.  Which you could do, but it’s deliberately unsettling as a writing choice. Better if we had a third thing to put in the core orbit and two more things to attach to the rock, at least, so it doesn’t look totally wrong.  There’s whole realms of things in fey poetry about breaking the balance of the orbitals and the implications, or what it means if you draw the reading arcs the other way so it reads this way around, or—”  He waves the tip of the knife counterclockwise over the drawing.
 
 He gestures at it and puts the knife away.  “Only of course without the magic layer it just reads ‘rock grey rest ground’ or ‘ground grey rock rest’ and you have to kind of guess what it means, whether the ground is what’s grey or the rock is grey or maybe the resting is grey in some sort of poetic metaphor....”
+
+%% Source: [[Celyn and Sylvan Writing (Email)]]. %%

@@ -3,9 +3,12 @@ sourceType: narrative
 scope: session
 campaign: Cleenseau
 sessionNumber: 32
+sourceUrl: 'https://kiya.dreamwidth.org/827993.html'
+sourceTitle: 'Defeating the Gazebo before Teatime'
+sourceAuthor: Kiya
 realWorldDate: '2026-03-08'
-drStart: null
-drEnd: null
+drStart: '1720-10-20'
+drEnd: '1720-10-26'
 drStartTime: null
 drEndTime: null
 participants:

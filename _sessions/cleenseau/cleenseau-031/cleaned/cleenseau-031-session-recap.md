@@ -2,36 +2,73 @@
 
 ## Session Header
 
-- Title: Cleenseau 31: Monty Python's Flying Royalty
+- Title: Cleenseau - Session 31
+- Desc Title: The Queen's Escort
 - Tagline: in which the queen nearly takes wing
-- One-Sentence Summary: After settling dragon business in Asineau, the party saves Queen Elaine II from the Hunter's ambush and agrees to close Lord Umbraeth's portal before his servants can strike again.
+- One-Sentence Summary: After settling the dragon's aftermath, the party prevents a fey ambush from abducting the queen and prepares to close the attackers' portal.
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 31
-- DR Date: unknown
+- DR Date: 1720-07-05 to 1720-10-19
 - Real Date: 2026-02-01
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### Undated (ordered)
+### 1720-07-05
 
 - Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-001, beat-002, beat-003, beat-004, beat-005, beat-006
-- Locations: Asineau, swamp road between Asineau and Cleenseau
-- NPCs: Greymalkin, Elaine II, The Hunter, Duskhound, Es*tiasilos
+- Timeline Key: (DR:: 1720-07-05)
+- Resolution: day
+- Beat IDs: beat-001
+- Locations: Asineau
+- NPCs: Greymalkin
 - Organizations: none
-- Items: dragon remains, annotated fey-realm map, Tyrwinghan wine, Hunter's spear
+- Items: dragon remains, annotated fey-realm map
+- Combat Beats: none
+
+#### Short
+The party settles the dragon's remains in Asineau and begins mapping the surrounding fey realms.
+
+#### Long
+Back in Asineau, the party sorts the useful and marketable pieces of the dragon's remains, absorbs its kobold followers into village life, and begins a more serious map of the surrounding fey realms.
+
+### 1720-10-15 to 1720-10-18
+
+- Timeline Segment: timeline-002
+- Timeline Key: (DR:: 1720-10-15) - (DR:: 1720-10-18)
+- Resolution: multi-day
+- Beat IDs: beat-002
+- Locations: Asineau
+- NPCs: none
+- Organizations: none
+- Items: Tyrwinghan wine
+- Combat Beats: none
+
+#### Short
+Royal retainers inspect Asineau, and the party prepares to escort Queen Elaine II through the swamps.
+
+#### Long
+Early in October, royal retainers inspect Asineau's readiness to host Queen Elaine II. The party works through the practical demands of the visit, then commits to riding out early and escorting the queen through the dangerous swamp road.
+
+### 1720-10-19
+
+- Timeline Segment: timeline-003
+- Timeline Key: (DR:: 1720-10-19)
+- Resolution: day
+- Beat IDs: beat-003, beat-004, beat-005, beat-006
+- Locations: swamp road between Asineau and Cleenseau
+- NPCs: Elaine II, The Hunter, Duskhound, Es*tiasilos
+- Organizations: none
+- Items: Hunter's spear
 - Combat Beats: beat-003, beat-004, beat-005
 
 #### Short
-Dragon spoils are settled in Asineau, Queen Elaine II survives the Hunter's roadside ambush, and the party is ordered to close Lord Umbraeth's portal at once.
+The party saves Queen Elaine II from the Hunter's ambush and accepts her order to close Lord Umbraeth's portal.
 
 #### Long
-In Asineau, the party turns from dragon aftermath and fey mapping to preparations for Queen Elaine II's brief visit. Escorting her through the swamps, they kill the Hunter and his Duskhound after a failed abduction, then accept the queen's order to strike the portal at first light.
+The party defeats an attempt by the Hunter and a Duskhound to abduct Queen Elaine II on the swamp road. After killing both attackers, they explain that the portal remains the larger threat and accept the queen's order to close it the following morning.
 
 ## Recap
 
@@ -39,8 +76,8 @@ In Asineau, the party turns from dragon aftermath and fey mapping to preparation
 
 - Kind: beat
 - Beat IDs: beat-001
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: day
 - Source Range: u0001 -> u0012
 - Locations: Asineau
 - NPCs: Greymalkin
@@ -61,8 +98,8 @@ Back in Asineau, the party is still living in the long shadow of the dragon kill
 
 - Kind: beat
 - Beat IDs: beat-002
-- Date: unknown
-- Time: unknown
+- Date: 1720-10-15 to 1720-10-18
+- Time: multi-day
 - Source Range: u0013 -> u0019
 - Locations: Asineau
 - NPCs: none
@@ -83,8 +120,8 @@ Early in October, Asineau receives the sort of visit that makes everyone's stati
 
 - Kind: combat
 - Beat IDs: beat-003, beat-004, beat-005
-- Date: unknown
-- Time: unknown
+- Date: 1720-10-19
+- Time: day
 - Source Range: u0020 -> u0040
 - Locations: swamp road between Asineau and Cleenseau
 - NPCs: Elaine II, The Hunter, Greymalkin, Duskhound, Es*tiasilos
@@ -105,8 +142,8 @@ The escort through the swamps goes bad exactly the way the party feared it would
 
 - Kind: beat
 - Beat IDs: beat-006
-- Date: unknown
-- Time: unknown
+- Date: 1720-10-19
+- Time: day
 - Source Range: u0041 -> u0047
 - Locations: swamp road between Asineau and Cleenseau
 - NPCs: Elaine II
@@ -127,19 +164,15 @@ Once the road is briefly secure, the party has to explain the more uncomfortable
 
 ### NPCs
 
-- Greymalkin (companion): wingless gryphon now venerated by the kobolds
-- Elaine II (met): queen traveling with the entourage under the party's protection
-- The Hunter (fought): ambusher stalking the royal escort
-- Duskhound (fought): teleporting fey hound attempting the abduction
-- Es*tiasilos (companion): Viepuck's familiar carrying the rescue spell into the melee
-- Vahaiya (mentioned): elven ally carrying the dragon remains home
-- Ethlenn (mentioned): fey queen whose territory anchors the party's map
-- Lord Umbraeth (mentioned): the Gloomshaper whose claimed territory shapes the party's planning
+- [[Vahaiya]] (met): elven ally who carries the dragon remains home for crafting
+- [[Elaine II]] (met): queen traveling with the entourage under the party's protection
+- [[The Hunter]] (fought): fey ambusher who leads the attempt to seize the queen
+- [[Duskhounds|Duskhound]] (fought): teleporting fey hound that briefly captures the queen
 
 ## Locations
 
-- Asineau: the village after the dragon fight, including the party's household and Celyn's growing fey-realm map project
-- swamp road between Asineau and Cleenseau: the queen's baggage train and escort column moving through the dangerous marsh approach
+- [[Asineau]]: the party's home during the aftermath of the dragon hunt
+- [[Cleenseau Wood]]: the wooded road where the fey ambush strikes the royal procession
 
 ## Organizations And Items
 

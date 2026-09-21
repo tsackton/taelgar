@@ -1,0 +1,33 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: 36
+realWorldDate: '2026-09-13'
+sourceUrl: https://kiya.dreamwidth.org/832522.html
+sourceTitle: You ever have one of those days that goes on forever and is full of weasels?
+sourceAuthor: Kiya
+drStart: '1720-12-16'
+drEnd: '1720-12-16'
+drStartTime: null
+drEndTime: null
+participants:
+- name: Dan Walters
+  gameRole: Robin
+  transcriptIdentifiers: []
+- name: Chris Kelly
+  gameRole: Viepuck
+  transcriptIdentifiers: []
+- name: Kiya Nicoll
+  gameRole: Celyn
+  transcriptIdentifiers: []
+- name: Matt Rand
+  gameRole: Izgil
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: _sessions/cleenseau/cleenseau-036/sources/cleenseau-blog-832522 - Original.md
+sourceConfigPath: _sessions/cleenseau/cleenseau-036/sources/cleenseau-session036.yaml
+participantsPath: _sessions/cleenseau/cleenseau-036/sources/cleenseau-participants.yaml
+narrativeUnit: paragraph

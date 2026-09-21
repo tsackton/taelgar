@@ -3,23 +3,24 @@
 ## Session Header
 
 - Title: Cleenseau - Session 32
+- Desc Title: Closing the Portal
 - Tagline: in which a gazebo dies and tea follows
-- One-Sentence Summary: The party destroys the thorn knot holding the Cleenseau portal open, survives a perilous night of Feywild hospitality, and sets out the next morning toward Izar the Red's keep.
+- One-Sentence Summary: The party destroys the magic holding the Cleenseau portal open, escapes across [[Duskmire]], and agrees to rescue a captive from a redcap fortress.
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 32
-- DR Date: unknown
+- DR Date: 1720-10-20 to 1720-10-26
 - Real Date: 2026-03-08
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### Undated (ordered) (afternoon)
+### 1720-10-20 (afternoon)
 
 - Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-10-20)
+- Resolution: day
 - Beat IDs: beat-001, beat-002, beat-003
 - Locations: Cleenseau, thorn maze in the Feywild
 - NPCs: Greymalkin
@@ -33,11 +34,11 @@ The party arms itself, enters the Feywild portal, fights through the thorn maze,
 #### Long
 Asked to make the Cleenseau portal stay shut for good, the party gathers supplies, slips through under concealment, and chooses the cautious long route through a living thorn maze. Hostile vines, a collapsing core chamber, a massive ritual knot, and a thorn guardian all fail to stop them, and the portal dies in moonlight, tentacles, fire, and stubborn persistence.
 
-### Undated (ordered) (evening)
+### 1720-10-20 to 1720-10-25 (subjectively, a few hours)
 
 - Timeline Segment: timeline-002
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-10-20) - (DR:: 1720-10-25)
+- Resolution: multi-day
 - Beat IDs: beat-004, beat-005
 - Locations: thorn maze in the Feywild, pine forest cottage in the Feywild
 - NPCs: Greymalkin, old lady of the pine cottage, goatboy servant
@@ -46,16 +47,16 @@ Asked to make the Cleenseau portal stay shut for good, the party gathers supplie
 - Combat Beats: none
 
 #### Short
-Escaping the dead maze, the party races east into a pine forest and accepts wary shelter from a cottage hostess whose rules are as dangerous as her smile.
+Five material-world days pass during a journey that feels like only a few hours before the party reaches a pine-forest cottage.
 
 #### Long
-With the maze stilled behind them, the party flees east across the Gloomshaper's lands at uncanny speed and reaches a less oppressive pine wood by evening. There a welcoming path leads them to a cottage whose little old mistress insists on perfect manners, even as Greymalkin bristles and the back garden yields a goat-headed servant with darker ties.
+With the maze stilled behind them, the party flees east across the Gloomshaper's lands. The journey feels like only a few hours to them, but five days pass in the material world before they reach a less oppressive pine wood and accept wary shelter at a cottage.
 
-### Undated (ordered) (night)
+### 1720-10-25 (night)
 
 - Timeline Segment: timeline-003
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-10-25)
+- Resolution: day
 - Beat IDs: beat-006
 - Locations: pine forest cottage in the Feywild
 - NPCs: old lady of the pine cottage, goatboy servant, Greymalkin
@@ -69,11 +70,11 @@ Questioning the goatboy reveals that Izar the Red holds wings that may be Greyma
 #### Long
 With the old lady's leave, the party questions the goatboy and learns that his master Izar the Red keeps a set of wings in his trophy room that may once have belonged to Greymalkin. Dinner afterward makes the stakes even clearer, because their hostess openly suggests that Izar is spoiling the neighborhood and would not be missed.
 
-### Undated (ordered)
+### 1720-10-26
 
 - Timeline Segment: timeline-004
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-10-26)
+- Resolution: day
 - Beat IDs: beat-007
 - Locations: pine forest cottage in the Feywild, Izar's keep
 - NPCs: old lady of the pine cottage, goatboy servant
@@ -93,7 +94,7 @@ By morning the party has directions, a new guide, and a clearer next target. Vie
 
 - Kind: beat
 - Beat IDs: beat-001
-- Date: unknown
+- Date: 1720-10-20
 - Time: afternoon
 - Source Range: u0001 -> u0015
 - Locations: Cleenseau, thorn maze in the Feywild
@@ -115,7 +116,7 @@ Asked to make the Cleenseau portal stay shut for good, the party begins by gathe
 
 - Kind: combat
 - Beat IDs: beat-002, beat-003
-- Date: unknown
+- Date: 1720-10-20
 - Time: afternoon
 - Source Range: u0016 -> u0030
 - Locations: thorn maze in the Feywild
@@ -137,7 +138,7 @@ The long route through the maze does not stay quiet for long. Hanging vines seiz
 
 - Kind: beat
 - Beat IDs: beat-004
-- Date: unknown
+- Date: 1720-10-20 to 1720-10-25
 - Time: evening
 - Source Range: u0031 -> u0035
 - Locations: thorn maze in the Feywild, pine forest cottage in the Feywild
@@ -150,16 +151,16 @@ The long route through the maze does not stay quiet for long. Hanging vines seiz
 With the maze dead behind them, the party flees east at uncanny speed and reaches a pine-forest cottage that looks too welcoming to trust.
 
 #### Intermediate
-There is no appetite to linger once the portal is shut, so the party hides its tracks again and runs for the edge of the Gloomshaper's lands. The retreat becomes unnervingly easy, almost as though the road itself wants them gone, and by evening that strange luck delivers them to a pine wood and a cottage whose hospitality is suspicious from the first step.
+There is no appetite to linger once the portal is shut, so the party hides its tracks again and runs for the edge of the Gloomshaper's lands. The retreat feels unnervingly brief, almost as though the road itself wants them gone, but five material-world days pass before that strange luck delivers them to a pine wood and a cottage whose hospitality is suspicious from the first step.
 
 #### Long
-With the portal finally dead, the party does not waste its margin. Celyn veils the trail again, the group pushes east across the Gloomshaper's territory, and the journey takes on an eerie effortlessness that nobody trusts enough to question for long. By the time the air feels less oppressive and pine trees rise around them, all anyone wants is shelter, which is exactly why the neat path and the pleasant cottage ahead feel like another test. The old lady who owns it confirms that suspicion the moment she starts deciding who may enter, who must stay outside, and what counts as civilized conduct under her roof.
+With the portal finally dead, the party does not waste its margin. Celyn veils the trail again, the group pushes east across the Gloomshaper's territory, and the journey takes on an eerie effortlessness that nobody trusts enough to question for long. It feels like only a few hours to the party, although five days pass in the material world. By the time the air feels less oppressive and pine trees rise around them, all anyone wants is shelter, which is exactly why the neat path and the pleasant cottage ahead feel like another test. The old lady who owns it confirms that suspicion the moment she starts deciding who may enter, who must stay outside, and what counts as civilized conduct under her roof.
 
 ### recap-004 | Tea Under House Rules
 
 - Kind: beat
 - Beat IDs: beat-005
-- Date: unknown
+- Date: 1720-10-25
 - Time: evening
 - Source Range: u0036 -> u0044
 - Locations: pine forest cottage in the Feywild
@@ -181,7 +182,7 @@ Inside the cottage, the party walks into a different kind of danger. The little 
 
 - Kind: beat
 - Beat IDs: beat-006
-- Date: unknown
+- Date: 1720-10-25
 - Time: night
 - Source Range: u0045 -> u0050
 - Locations: pine forest cottage in the Feywild
@@ -203,8 +204,8 @@ With the niceties established, the party is finally allowed to ask the right que
 
 - Kind: beat
 - Beat IDs: beat-007
-- Date: unknown
-- Time: unknown
+- Date: 1720-10-26
+- Time: morning
 - Source Range: u0051 -> u0053
 - Locations: pine forest cottage in the Feywild, Izar's keep
 - NPCs: old lady of the pine cottage, goatboy servant
@@ -225,20 +226,14 @@ Morning turns the evening's strange hospitality into a bargain. The old lady giv
 
 ### NPCs
 
-- Greymalkin (companion): Robin's wingless gryphon
 - old lady of the pine cottage (met): host at the cottage
 - goatboy servant (met): former servant of Izar the Red
-- Ethlenn (mentioned): fey queen of Tyrwingha
-- Gloomshaper (mentioned): archfey whose territory the party is fleeing
-- Izar the Red (mentioned): frightening master named by the goatboy's memories
-- Cloudspinner (mentioned): absent ruler of Amberglow
+- [[Ianto]] (heard of): redcap lord who holds the goatboy's brother and collects trophies from defeated fey
 
 ## Locations
 
-- Cleenseau: final preparations in town, the hidden approach to the portal, and the first mapped passages beyond it
-- thorn maze in the Feywild: final preparations in town, the hidden approach to the portal, and the first mapped passages beyond it
-- pine forest cottage in the Feywild: a hurried eastward retreat across the Gloomshaper's territory into a less oppressive pine wood
-- Izar's keep: the morning departure from the cottage and the midday halt halfway to the keep
+- [[Cleenseau]]: the party's starting point before it enters and destroys the portal
+- [[Duskmire]]: the Gloomshaper's Feywild realm, crossed while escaping east from the ruined portal
 
 ## Organizations And Items
 

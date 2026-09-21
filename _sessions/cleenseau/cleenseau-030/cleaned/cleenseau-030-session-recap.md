@@ -2,24 +2,25 @@
 
 ## Session Header
 
-- Title: The Best-Laid Plans of Kobolds and Men
+- Title: Cleenseau - Session 30
+- Desc Title: The Dragon Falls
 - Tagline: in which the dragon finally falls
-- One-Sentence Summary: The party's carefully staged dragon ambush finally succeeds, after which the victors push into the kobold lair, crush the last defenders, clear the trapped approach, and claim the dragon's loot.
+- One-Sentence Summary: The party kills the dragon in a prepared ambush, defeats the remaining hostile kobolds, and claims the lair's hoard.
 - Campaign: Cleenseau
 - Scope: session
 - Session Number: 30
-- DR Date: unknown
+- DR Date: 1720-07-05
 - Real Date: 2025-12-07
 - DM: Mike Sackton
 - PCs: Robin, Viepuck, Celyn, Izgil
 
 ## Timeline
 
-### Undated (ordered)
+### 1720-07-05
 
 - Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
+- Timeline Key: (DR:: 1720-07-05)
+- Resolution: day
 - Beat IDs: beat-001, beat-002, beat-003, beat-004
 - Locations: dragon ambush site, kobold lair
 - NPCs: Greymalkin, kobold leader, captive kobold
@@ -39,8 +40,8 @@ A carefully staged trap with decoys, buffs, allied kobolds, and a ballista erupt
 
 - Kind: beat
 - Beat IDs: beat-001
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: pre-dawn
 - Source Range: u0001 -> u0011
 - Locations: dragon ambush site
 - NPCs: none
@@ -61,8 +62,8 @@ The source begins by reestablishing who is present and what the party has spent 
 
 - Kind: combat
 - Beat IDs: beat-002
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: pre-dawn
 - Source Range: u0012 -> u0018
 - Locations: dragon ambush site
 - NPCs: Greymalkin, kobold leader
@@ -83,8 +84,8 @@ The first exchanges go badly enough to prove that the plan is only a plan once t
 
 - Kind: beat
 - Beat IDs: beat-003
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: morning
 - Source Range: u0019 -> u0021
 - Locations: dragon ambush site, kobold lair
 - NPCs: Greymalkin, captive kobold
@@ -105,8 +106,8 @@ The aftermath is comic enough to keep the victory from settling into ordinary tr
 
 - Kind: combat
 - Beat IDs: beat-004
-- Date: unknown
-- Time: unknown
+- Date: 1720-07-05
+- Time: morning
 - Source Range: u0022 -> u0026
 - Locations: kobold lair
 - NPCs: kobold leader
@@ -127,14 +128,15 @@ Once the guards stirred by the tunnel disturbance come back, the last meaningful
 
 ### NPCs
 
-- Greymalkin (companion): Robin's flying companion who joins the aerial pursuit and then receives kobold tribute after the battle
-- kobold leader (fought): hostile commander who first surrenders at the dragon fight and later dies inside the lair before she can act effectively
-- captive kobold (met): prisoner intimidated during Greymalkin's tribute scene
+- [[Krauzeth]] (fought): young red dragon killed in the prepared ambush
+- [[Drubgrak]] (met): allied kobold leader who helps spring the ambush
+- [[Vikka]] (met): Drubgrak's sister and ally against the dragon
+- [[Krizik]] (fought): leader of the dragon's aggressive kobold faction, captured after the ambush
+- [[Tizzit]] (fought): leader of the remaining loyalist kobolds, killed inside the lair
 
 ## Locations
 
-- dragon ambush site: the prepared battlefield outside the lair where the party spreads out the decoy, the ballista, and the allied kobolds before the dragon attack
-- kobold lair: the backdoor tunnel, barracks, trapped passage, and treasure area entered once the dragon is down
+- [[Marwick]]: highland territory containing the ambush site and the dragon's lair
 
 ## Organizations And Items
 
@@ -165,6 +167,7 @@ Once the guards stirred by the tunnel disturbance come back, the last meaningful
 
 ## Source Files
 
+- [[The Plan (Email)]]
 - Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-session-summary-context.json
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-030/cleaned/cleenseau-030-beat-facts.json

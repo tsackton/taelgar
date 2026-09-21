@@ -29,7 +29,7 @@
       "sessionRoot": "cleenseau",
       "campaignRoot": "Campaigns/Cleenseau Campaign",
       "notePattern": "Sessions/Cleenseau - Session {session_padded}.md",
-      "defaultTemplate": "composable-session-note.md"
+      "defaultTemplate": "cleenseau-template.md"
     },
     "great-library": {
       "name": "Great Library",

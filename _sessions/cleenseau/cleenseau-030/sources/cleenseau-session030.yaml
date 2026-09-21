@@ -4,9 +4,12 @@ scope: session
 outputDir: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau'
 campaign: Cleenseau
 sessionNumber: 30
+sourceUrl: 'https://kiya.dreamwidth.org/826037.html'
+sourceTitle: 'The Best-Laid Plans of Kobolds and Men'
+sourceAuthor: Kiya
 realWorldDate: '2025-12-07'
-drStart: null
-drEnd: null
+drStart: '1720-07-05'
+drEnd: '1720-07-05'
 drStartTime: null
 drEndTime: null
 participantsPath: '/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/cleenseau-participants.yaml'
