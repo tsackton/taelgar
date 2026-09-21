@@ -28,3 +28,7 @@ The party escorts the Tyrwinghan travelers south while investigating the black-g
 ## Source
 
 [Original player recap](https://kiya.dreamwidth.org/798653.html)
+
+## Related Writings
+
+- [[Celyn Narrative Bit]]

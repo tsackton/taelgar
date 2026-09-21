@@ -101,6 +101,15 @@ https://kiya.dreamwidth.org/791148.html
 > *Kiya's Recap: [Confusion to our enemies! And our allies! And some people who were just kinda there!](https://kiya.dreamwidth.org/791148.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Fey Aftermaths - Email Exchange]]
+- [[Fey Aftermath in Veltor - Email Scene]]
+- [[Tower of Records Search - Email Scene]]
+- [[Baroness Tower Search - Email Scene]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-02-21): The party searches [[Veltor Keep]] and finds evidence linking the Baroness to [[Areschera]] and to a ruin west of [[Veltor]].
 - (DR:: 1720-02-22) to (DR_end:: 1720-02-24): The party resolves the [[Cranford]] case, travels through [[Aslain]], and continues identifying the recovered fey objects.

@@ -41,7 +41,7 @@ After negotiating entry under [[Marian|Marian's]] truth-compelling miracle, the 
 - Resolution: multi-day
 - Beat IDs: recap-003
 - Locations: Veltor, Veltor Keep
-- NPCs: Marian, Etiene des Ostieux, Victorine Rosseau, Emeric Daverre, Isabeau d'Aslain, Rene d'Aslain, Esme d'Aslain, Annette
+- NPCs: Marian, Etiene des Ostieux, Victorine Rosseau, Emeric, Isabeau d'Aslain, Rene d'Aslain, Esme d'Aslain, Annette
 - Organizations: none
 - Items: none
 - Combat Beats: none
@@ -103,7 +103,7 @@ Viepuck disguises himself as a younger, bedraggled urchin and reports to the gat
 - Date: 1720-03-20 to 1720-03-21
 - Time: day to overnight
 - Locations: Veltor, Veltor Keep
-- NPCs: Marian, Etiene des Ostieux, Victorine Rosseau, Emeric Daverre, Isabeau d'Aslain, Rene d'Aslain, Esme d'Aslain, Annette, Reginald Rusebek
+- NPCs: Marian, Etiene des Ostieux, Victorine Rosseau, Emeric, Isabeau d'Aslain, Rene d'Aslain, Esme d'Aslain, Annette, Reginald Rusebek
 - Organizations: none
 - Items: none
 - Enemies: none
@@ -115,7 +115,7 @@ The party presents evidence against the Baroness, studies her response to a fals
 As paranoia spreads through Veltor, the party shares evidence of the Baroness's pact with trusted officials. They misdirect her attempt to locate Viepuck's false pendant, detect magical surveillance, and are then publicly accused of murder and necromancy.
 
 #### Long
-By morning [[Etiene des Ostieux]] has been jailed, the Merriweathers have disappeared, and the town is searching for Viepuck's invented child as a suspected necromancer. The party informs [[Marian]] and presents its Sylvan evidence to [[Victorine Rosseau]] and [[Emeric Daverre|Émeric Daverre]]. [[Isabeau D'Aslain]], [[Rene d'Aslain]], and [[Esme d'Aslain]] become involved when the Baroness asks the party to locate the false pendant; Izgil instead claims interference from a paired object while the others study her reactions. After detecting scrying, the party relocates to the former fey-occupied tower, inconveniencing [[Annette]]. At sunset the Baroness's faction claims they murdered guards and practiced necromancy. The party submits to public detention until the morning trial.
+By morning [[Etiene des Ostieux]] has been jailed, the Merriweathers have disappeared, and the town is searching for Viepuck's invented child as a suspected necromancer. The party informs [[Marian]] and presents its Sylvan evidence to [[Victorine Rosseau]] and [[Emeric]]. [[Isabeau D'Aslain]], [[Rene d'Aslain]], and [[Esme d'Aslain]] become involved when the Baroness asks the party to locate the false pendant; Izgil instead claims interference from a paired object while the others study her reactions. After detecting scrying, the party relocates to the former fey-occupied tower, inconveniencing [[Annette]]. At sunset the Baroness's faction claims they murdered guards and practiced necromancy. The party submits to public detention until the morning trial.
 
 The party also recalls that [[Reginald Rusebek]], the previous baron, had members of the Merriweather family executed on false pretenses.
 
@@ -132,7 +132,7 @@ The party also recalls that [[Reginald Rusebek]], the previous baron, had member
 - [[Marius]] (met): gate guard who admits Viepuck's disguised persona to the keep
 - [[Hesta Brill]] (met): night staffer who feeds Viepuck's disguised persona
 - [[Victorine Rosseau]] (met): chief magistrate who receives the party's evidence
-- [[Emeric Daverre|Émeric Daverre]] (met): castle steward who receives the party's evidence
+- [[Emeric]] (met): castle steward who receives the party's evidence
 - [[Isabeau D'Aslain]] (met): Baroness whose pact and reactions the party investigates
 - [[Rene d'Aslain|René d'Aslain]] (met): the Baroness's nephew, who sketches the false pendant
 - [[Esme d'Aslain]] (met): the Baroness's niece, who discusses fear and magical study with the party

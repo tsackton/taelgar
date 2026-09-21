@@ -101,6 +101,12 @@ https://kiya.dreamwidth.org/798653.html
 > *Kiya's Recap: [Unbearable Situations](https://kiya.dreamwidth.org/798653.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Celyn Narrative Bit]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-02-26) to (DR_end:: 1720-02-28): The party escorts the Tyrwinghan travelers through the [[Maudor Hills]] despite rumors that the party has been replaced by hostile fey.
 - Before dawn on (DR:: 1720-03-01): The party pursues the Hunter's servants and rescues [[Robin of Abenfyrd|Robin]] from an attempted abduction.
@@ -116,7 +122,7 @@ https://kiya.dreamwidth.org/798653.html
 
 <!-- SLOT: locations -->
 - [[Maudorville]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): village where the party learns that rumors of fey impostors have spread again.
-- [[Maudor Hills]] (<(*)pronunciation(*;)> <typeof:sn>): region crossed during the escort and site of the Hunter's lair.
+- [[Maudor Hills]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): region crossed during the escort and site of the Hunter's lair.
 - [[Ashcombe]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): abandoned village where the party rests before attacking [[The Hunter|the Hunter]].
 <!-- /SLOT -->
 

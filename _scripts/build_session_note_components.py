@@ -484,6 +484,11 @@ def parse_session_recap(text: str) -> Dict[str, Any]:
         label="Source Files",
         errors=errors,
     )
+    related_writings = parse_related_writings(
+        get_section_lines(lines, sections["## Related Writings"])
+        if "## Related Writings" in sections else [],
+        errors,
+    )
     pull_quotes = parse_review_entries(
         get_section_lines(lines, sections["## Pull Quotes"]) if "## Pull Quotes" in sections else [],
         label="Pull Quotes",
@@ -510,6 +515,7 @@ def parse_session_recap(text: str) -> Dict[str, Any]:
         "items": organizations_and_items["items"],
         "combat": combat,
         "sourceFiles": source_files,
+        "relatedWritings": related_writings,
         "pullQuotes": pull_quotes,
         "audioHighlights": audio_highlights,
         "rawText": text,
@@ -530,6 +536,19 @@ def collect_level2_sections(lines: Sequence[str]) -> Dict[str, SectionRange]:
 
 def get_section_lines(lines: Sequence[str], section: SectionRange) -> List[str]:
     return list(lines[section.start + 1 : section.end])
+
+
+def parse_related_writings(lines: Sequence[str], errors: List[str]) -> List[str]:
+    links: List[str] = []
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if not stripped.startswith("- [[") or not stripped.endswith("]]"):
+            errors.append(f"Related Writings expects a wikilink bullet: {line}")
+            continue
+        links.append(stripped)
+    return links
 
 
 def parse_header_section(lines: Sequence[str], errors: List[str]) -> Dict[str, str]:
@@ -1107,6 +1126,11 @@ def build_slots(
     source_label = f"{source_author}'s Recap" if source_author else "Source"
     info_slots["session.source_header"] = (
         f"> *{source_label}: [{source_title}]({source_url})*" if source_url else ""
+    )
+    related_writings = recap.get("relatedWritings", [])
+    info_slots["session.related_writings"] = (
+        "## Related Writings\n\n" + "\n".join(related_writings)
+        if related_writings else ""
     )
     info_slots["timeline"] = render_timeline_slot(recap["timeline"])
 

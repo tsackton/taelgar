@@ -11,6 +11,8 @@ knownTo: [clee]
 
 Emeric is the elderly steward of [[Veltor Keep]], where he has served since before [[Isabeau D'Aslain]] was born. His loyalty is to the keep and its orderly administration rather than to the Baroness personally.
 
-%% Conflict: this stub previously said Emeric was probably a duplicate of [[Emeric Daverre]], but [[People of Aveil Working Doc]] describes a distinct Veltor steward. Human review should confirm that these are separate people. %%
+He accompanied the party's search of the keep after the fey chief clerk was killed and unlocked rooms for them.
 
-%% Source: [[People of Aveil Working Doc]]. %%
+%% Identity confirmed by Mike: this Veltor steward is distinct from [[Emeric Daverre]], the lord of Peydon. %%
+
+%% Sources: [[People of Aveil Working Doc]]; [[Fey Aftermath in Veltor - Email Scene]]. %%

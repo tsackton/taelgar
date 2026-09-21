@@ -27,3 +27,9 @@ Celyn and Viepuck catch [[Lorin Valbert]] and recover most of the money and hors
 ## Source
 
 [Original player recap](https://kiya.dreamwidth.org/779436.html)
+
+## Related Writings
+
+- [[Asineau Fallout]]
+- [[Hunting Lorin]]
+- [[Celyn and El]]

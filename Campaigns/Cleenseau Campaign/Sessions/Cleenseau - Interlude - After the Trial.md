@@ -7,7 +7,7 @@ DR: 1720-03-24
 players: [Celyn]
 descTitle: After the Trial
 tagline: in which Celyn and Marian compare prophecy, risk, and choice
-sourceUrl: https://mail.google.com/mail/u/0/#all/199c7bf0a45c5f67
+POV: 1720
 ---
 # Interlude: After the Trial
 
@@ -31,4 +31,8 @@ While helping tend the dead after the trial, Celyn shares wine with Marian and h
 
 ## Sources
 
-- [Celyn goes and talks to Marian](https://mail.google.com/mail/u/0/#all/199c7bf0a45c5f67)
+- [[Celyn Goes and Talks to Marian (Email)]]
+
+## Related Writings
+
+- [[Celyn and Marian After the Trial]]

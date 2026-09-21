@@ -27,3 +27,7 @@ session-template: cleenseau-template.md
 ## Source
 
 [Original player recap](https://kiya.dreamwidth.org/807914.html)
+
+## Related Writings
+
+- [[Celyn and the Cursed Room]]

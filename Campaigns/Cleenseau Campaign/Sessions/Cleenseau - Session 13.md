@@ -29,3 +29,10 @@ The party travels south, exchanges information with the adventurers who defeated
 ## Source
 
 [Original player recap for sessions 13–14](https://kiya.dreamwidth.org/782461.html)
+
+## Related Writings
+
+- [[Rangers in Champimont]]
+- [[Champimont Rumors and Questions]]
+- [[Play by Email/At the Elegant Swan in Champimont]]
+- [[An Evening in Corrine's House]]

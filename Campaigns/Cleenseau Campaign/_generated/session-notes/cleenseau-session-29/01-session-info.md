@@ -101,6 +101,12 @@ https://kiya.dreamwidth.org/824905.html
 > *Kiya's Recap: [An interlude, soon to be slightly on fire](https://kiya.dreamwidth.org/824905.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[Celyn Training Guards]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-04-01) - (DR:: 1720-07-04): [[Robin of Abenfyrd|Robin]] settles into [[Asineau]], the village begins to thrive under the party's attention, and Vahaiya's warning sends the party east to [[Marwick]] to hunt a dragon.
 - (DR:: 1720-07-04): At the ruined village, the party captures a kobold scouting band, learns how the dragon and its followers operate, and turns the encounter into an ambush plan.

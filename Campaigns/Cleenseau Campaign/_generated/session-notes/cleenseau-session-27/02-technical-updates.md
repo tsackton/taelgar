@@ -30,7 +30,7 @@ sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-027
 - Marian: appears in the final timeline block but has no parseable end-state history.
 - Etiene des Ostieux: appears in the final timeline block but has no parseable end-state history.
 - Victorine Rosseau: appears in the final timeline block but has no parseable end-state history.
-- Emeric Daverre: appears in the final timeline block but has no parseable end-state history.
+- Emeric: appears in the final timeline block but has no parseable end-state history.
 - Rene d'Aslain: appears in the final timeline block but has no parseable end-state history.
 - Esme d'Aslain: appears in the final timeline block but has no parseable end-state history.
 - Annette: appears in the final timeline block but has no parseable end-state history.

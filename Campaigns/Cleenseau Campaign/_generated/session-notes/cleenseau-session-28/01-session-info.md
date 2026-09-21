@@ -101,6 +101,12 @@ https://kiya.dreamwidth.org/823914.html
 > *Source: [Original player recap](https://kiya.dreamwidth.org/823914.html)*
 <!-- /SLOT -->
 
+<!-- SLOT: session.related_writings -->
+## Related Writings
+
+- [[A Letter to the Magistrate]]
+<!-- /SLOT -->
+
 <!-- SLOT: timeline -->
 - (DR:: 1720-03-21): At the party's trial, exposing the lich behind the false charges triggers a deadly shadow attack that the party defeats.
 - (DR:: 1720-03-26) - (DR:: 1720-04-01): A royal messenger confirms Malach's defeat, takes the Baroness into custody, and offers [[Robin of Abenfyrd|Robin]] stewardship of [[Asineau]].
@@ -108,13 +114,13 @@ https://kiya.dreamwidth.org/823914.html
 
 <!-- SLOT: cast -->
 - [[Thomas Dyerson]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): circuit magistrate who presents the indictment despite objecting to the trial's irregularities.
-- [[Marian]] (<(*)pronunciation(*;)> <typeof:sn>): Warlord cleric whose miracle compels truthful testimony at the trial.
+- [[Marian]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Warlord cleric whose miracle compels truthful testimony at the trial.
 - [[Etiene des Ostieux]] (<(*)pronunciation(*;)> <typeof:sn>): captain of the guard who arranges the trial while refusing to turn against the party.
 - [[Isabeau D'Aslain]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Baroness who directs the false prosecution and later claims amnesia.
 - [[Perette]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): the Baroness's chamberlain, who gives false testimony against the party.
 - [[Malach]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): lich exposed during the trial whose shadow manifestation attacks the court.
 - [[Vivian]] (<(*)pronunciation(*;)> <typeof:sn>): murdered guard whose death is used as the basis for the false charges.
-- [[Lyra Corvin]] (<(*)pronunciation(*;)> <typeof:sn>): royal messenger who confirms Malach's defeat and offers [[Robin of Abenfyrd|Robin]] stewardship of [[Asineau]].
+- [[Lyra Corvin]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): royal messenger who confirms Malach's defeat and offers [[Robin of Abenfyrd|Robin]] stewardship of [[Asineau]].
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->

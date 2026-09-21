@@ -28,3 +28,7 @@ After freeing the Hunter's captives, the party travels to [[Peydon]] to investig
 ## Source
 
 [Original player recap](https://kiya.dreamwidth.org/799868.html)
+
+## Related Writings
+
+- [[Hunter Aftermaths - Email Scene]]

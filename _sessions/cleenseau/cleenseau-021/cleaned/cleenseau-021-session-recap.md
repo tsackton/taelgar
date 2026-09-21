@@ -170,6 +170,10 @@ The party rests at [[Ashcombe]], scouts the Hunter's lair, and overhears orders 
 - Enemies: The Hunter, one duskhound, harpies, enchanted bears, ravens
 - Context / Outcome: The party frees the captives and clears the lair, but the Hunter escapes.
 
+## Related Writings
+
+- [[Celyn Narrative Bit]]
+
 ## Source Files
 
 - [[Cleenseau - Session 21 - Original]]
