@@ -1,0 +1,41 @@
+Built-in image generation; reference: green-sea-trading-routes.png.
+The original route map is retained separately. This is a schematic illustration, not a source for surveying coastlines or measuring distances.
+
+Use case: infographic-diagram.
+Create a NEW, accurate, legible trade-network map for a fantasy worldbuilding document, using the supplied existing Green Sea route map as the geographic reference. The input is a reference only; the original file must remain unchanged.
+Composition: a large landscape map above a spacious compact legend on an ivory background, similar visual language to the reference. Aim for at least 3000 pixels wide. Keep the SAME geographic crop, coastlines, islands, orientation and relative placement of all places. Preserve the underlying monochrome world-map drawing. Remove the old colored routes, annotations, old title and old legend, and replace with the new routes and text below. Do NOT invent coastlines, land bridges, ports, city names or exact island locations. Routes must follow open water and go through the existing Straits of Cymea north of the Cymean Peninsula; never cross land. North is up. Cover only Green Sea, not Dunmar.
+
+Title: "GREEN SEA • SEASONAL TRADE NETWORKS"
+Subtitle: "Working model • connected regional routes • calendars vary by ship and destination"
+Major place labels: Tollen; Sembara; Cymea; Straits of Cymea; Northern Forest / Ursk; Zakat; Praznitsky; Irrla; Svolhas coast; Maritime Trade Peninsula; Medju; Eastern Isles; Vermillion Isles (Wahacha region); Quanyi.
+Maintain their positions exactly as in the reference: Tollen northwest in the gulf west of the narrow strait, Zakat north-central, Praznitsky east of Zakat, Cymea western peninsula, maritime trade peninsula southwest of Irrla, Svolhas on the southeast Irrla shore, Medju on the southern coast, Wahacha region halfway down eastern island chain, Quanyi farther south.
+
+Use thin clearly differentiated route curves with visible arrowheads and numbered labels. Put longer explanations in the bottom key, not on the sea. Separate overlapping route lines slightly. Exact pilotage is not being mapped.
+1. BLUE "Apr–Jun →": Tollen south down its estuary, east out of the gulf through the strait, then across the northern open sea to Zakat, with a thin eastward coastal continuation to Praznitsky. Same corridor can support rare autumn eastbound voyages. Arrow EAST. Do not label port opening dates as departure dates.
+2. TEAL "← Jul–Aug": from Ursk west via a slightly more southerly offshore northern corridor to the strait, then Tollen. Arrow WEST.
+3. PURPLE short bidirectional dotted connection: Tollen via the strait around the northern tip of Cymea, then south along its eastern coast to an AREA labeled "Cymean exchange ports • proposed". The label is a region, not a new named exact port. Caption "Guild connections / seasonal voyages". In a small callout: "Late-summer westward extensions; early windward visits by capable ships". Do not falsely prescribe the same wind across the entire basin.
+4. OCHRE "Mar–Apr ←": Medju westward along water north of southern shoreline, then northwest to the Maritime Trade Peninsula as reference. One-way arrows westward / toward the peninsula. NO spring northeast arrow out of Medju.
+5. VIOLET "May–Jun ↑": Maritime Trade Peninsula northward offshore well WEST of Irrla, then north to Zakat. A thin side branch can visit east Cymean exchange coast and then head north to Ursk. Keep a safe margin from Irrla's hazardous northwest shore.
+6. GREEN "Jun–Jul": Maritime Trade Peninsula to Svolhas along water SOUTH of Irrla then around its southeast coast. This is the alternative summer branch to route 5, not another mandatory stop.
+7. ORANGE "Sep–Oct →": Praznitsky southeastward across open sea to Vermillion Isles/Wahacha region; a separate orange route from Svolhas east to the same archipelago. Then arrows south through selected island waters to Quanyi "Oct–Nov", then southwest along open water toward Medju "Dec arrival".
+8. LIGHT GREY thin dotted regional connections with NO arrowheads: extra schematic links from Svolhas toward Quanyi, and Maritime Trade Peninsula toward Quanyi around the south of Irrla, plus a few short links between adjacent eastern island market regions. Caption "SE regional exchange • timing open". Keep these faint so they do not imply an additional annual circuit or year-round reciprocal sailing.
+
+Bottom key, use these concise exact phrases:
+"1–2  TOLLEN–URSK"
+"Spring east; summer west. Selected Ursk ports accessible early–mid May."
+"Rare autumn arrival / winter stay; agents more common than wintering ships."
+"3  TOLLEN AND CYMEAN EXCHANGE"
+"Guild reach extends through agents and cargo transfers. Tollen is not a free port."
+"Western halfling extensions often span more than one annual cycle."
+"4–7  EXAMPLE EASTERN CIRCUITS"
+"Summer in Ursk OR Irrla. Selected eastern islands in autumn."
+"Medju is one winter base; the peninsula and other ports allow different itineraries."
+"8  OVERLAPPING REGIONAL TRADE"
+"Goods can change ships. Southeastern markets have their own trade."
+"Grey links identify connections whose exact sailing seasons remain open."
+
+Footer:
+"Solid arrows: seasonal route examples. Purple dotted: western connection, itinerary varies. Grey dotted: regional links, calendar unresolved."
+"Provisional, not canon. Corridors are schematic, not pilotage. Dates describe opportunities, not fixed schedules."
+
+Style: precise editorial cartography, restrained distinct colors, readable sans-serif lettering, pale grayscale background, no illustrations of ships, no decorative fantasy ornament, no fake scale bar. Preserve the base geography scrupulously. Do not duplicate place labels or print erroneous extra words. Ensure all routes are visible, labels do not overlap lines, and title/legend have ample margins.
