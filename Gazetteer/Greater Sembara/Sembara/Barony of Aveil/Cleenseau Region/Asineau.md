@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 name: Asineau
 typeOf: settlement
 typeOfAlias: fishing village
@@ -19,6 +19,8 @@ dm_owner: mike
 
 ![[asineau-image-2.png|right|320]] ![[asineau-docks.jpg|right|320]]A manorial fishing village on the banks of the Enst, two miles downriver of [[Auloutte]]. The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing rafts can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to [[Beury]] if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [[Ganboa]] when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
 
+An ancient, magically preserved stone road passes the manor house. Four wells supplement the river as water sources. West of the docks, the bank is marshy and rocky; cliffs rise east of the beach. During the spring shad runs, drying racks for fish crowd the beach and the cliff top west of the harbor.
+
 A few hundred feet outside the village is a small mill and bakehouse. The large stone manor house dates from the early 1600s, and stands alongside the road. There is a stable building attached to it. 
 
 ![[asineau-wrydling-painting.jpg|right|320]]The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]]
@@ -36,6 +38,10 @@ A few hundred feet outside the village is a small mill and bakehouse. The large 
 * Jacques, Thierry's brother, and his husband Ari, fishermen
 * [[Arnold the Miller]], a racist miller and baker, although no fan of Lorin's taxes
 * Celia, a young stablehand of 11 or 12, scrawny but not malnourished, known as Sweet Little Hayhead to the horses
+
+%% Sources:
+- [[Asineau Map (Email)]]
+%%
 
 %%^Campaign:None%%
 ### People in, or based in Asineau

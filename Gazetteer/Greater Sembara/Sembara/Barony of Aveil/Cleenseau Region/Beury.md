@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+tags: [place, status/check/ai]
 name: Beury
 typeOfAlias: village
 typeOf: settlement
@@ -25,6 +24,13 @@ The houses are arranged in two tight concentric circles around a main square, wh
 Beyond the second circle of houses, straddling the [[Great South Road]] is a nameless inn, usually just called "the inn in Beury" (or sometimes, jokingly, "Bee's Rest"). The inn is more of a stable and resting spot for caravans before crossing the [[East Bog|boggy wetlands]] to [[Dallet]] than a proper inn, and the food and drink are notably lacking. Many caravans resting here simply camp in the yard. Across the road and a few dozen feet from the inn is a sturdy stone millhouse.
 
 A [[Manor of Beury#Economy|small market]] is held in the caravan yard once a week, which attracts some of the people from [[Asineau]] and [[Ganboa]].
+
+Beury traditionally celebrates the festival of the Empty Cauldron on May 12. The festival commemorates a famine after the [[Great War]] and a story that [[The Father]] answered an old woman's prayers by filling her empty pot with food. Its central custom is a communal stew made from winter stores and new spring shoots. In 1720, the celebration welcomed people from the surrounding villages, with games and contests alongside the shared meal.
+
+%% Sources:
+- [[Asineau in May (Email)]]
+%%
+
 ## Notable Residents
 * [[Erick Murtha]], the lord, and his wife
 * Clare Murtha, his daughter and heir

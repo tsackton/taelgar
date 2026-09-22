@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/review]
+tags: [place, status/review, status/check/ai]
 displayDefaults:
   ruledBy: "Ruled by: <name> <((since )startDate())>"
 aliases: [Sembaran]
@@ -38,6 +38,21 @@ Sembara is a large and properous realm in the [[Western Green Sea]] situated amo
 -   Elves very rare in Sembara, with little direct political contacts; largest Elven settlement nearby is the semi-mythical kingdom of [[Orenlas]] in the forests surrounding a supposedly enchanted lake south/southeast of Tyrwingha in the Cymea foothills.
     
 -   Stoneborn are also very rare in Sembara; mostly in the high peaks north of Ulrich devastation; more common in Northlands than elsewhere, coming from the [[Vostok]] highlands
+
+## Royal Council
+
+The Royal Council brings together the monarch and major vassals, especially the dukes of Sembara, Wisford, Telham, Arnsbury, Cheimin, and Seham. Raising certain taxes, including a war tax, requires their assent. Major changes to the army, declarations of a new heir, certain legal decrees, and accusations against a duke would usually be presented to the council for its assent. In a crisis, counsel and support are also duties that vassals owe their lord.
+
+## Learned Magic
+
+Sembaran suspicion falls chiefly on learned magic: studying how magic works in order to use and extend that knowledge. It does not extend equally to all spellcasters. A lone wizard and apprentice may be regarded as eccentric or dangerous, but an organized school of magical research would face much stronger opposition. Wizards are not hunted on sight; some leave for places such as Tollen or Chardon, and the scarcity of teachers makes them rarer in Sembara. Innate magic, even wild sorcery, generally draws less suspicion.
+
+Many Sembarans point to the story of Anne's attempt to use a geas against her twin sister [[Elaine I]], and to the Cursed Cold that followed the next year, as warnings about magical study. The belief that Anne's magic caused the Cursed Cold is not established fact.
+
+%% Sources:
+- [[Sembara Background Note - Royal Council]]
+- [[Cleenseau - Distrust of Wizards]]
+%%
 
 
 ## Map
