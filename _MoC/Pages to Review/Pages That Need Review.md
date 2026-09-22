@@ -9,7 +9,7 @@ These are pages that need checking of some kind. Usually this is just a simple r
 ```dataview
 TABLE join(split(file.path, "/", 2), "/") as Folder, 
       length(file.inlinks) as Backlinks
-FROM #status/check/ai AND !"Campaigns/Cleenseau Campaign" AND !"Worldbuilding/Staging/Cleenseau"
+FROM #status/check/ai AND !"Campaigns/Cleenseau Campaign" AND !"Worldbuilding/Staging/Cleenseau" AND !"_sessions/cleenseau"
 FLATTEN length(file.inlinks) AS BacklinkCount
 SORT join(split(file.path, "/", 2), "/"), BacklinkCount DESC
 ```

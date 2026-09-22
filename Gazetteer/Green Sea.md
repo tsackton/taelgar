@@ -10,7 +10,7 @@ name: Green Sea
 whereabouts:
   - {type: home, location: Taelgar, linkText: in}
 dm_owner: joint
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # The Green Sea
@@ -20,7 +20,10 @@ POV: modern
 
 %% needs to pull in various notes, included from Discord/emails, and reformat text %%
 
-The Green Sea is a large inland sea, surrounded on all sides by significant land masses. To the west, it is bordered by the [[Western Gulf]] and the [[Cymean Peninsula]]; to the north, by the varied islands of [[Skaerhem]] and the strange lands of [[Ursk]]; to the east, the mysterious and magical [[Eastern Isles]] separate the Green Sea from the oceans beyond; and a variety of diverse lands to the south. The large island known as [[Irrla]] forms the boundary between the [[Eastern Green Sea]] and the [[Western Green Sea]]. 
+The Green Sea is a large inland sea, bordered by the [[Western Gulf]] and the [[Cymean Peninsula]] in the west; the islands of [[Skaerhem]] and the secluded cold lands of [[Ursk]] in the north; and the [[Great Desert|mysterious deserts]] of [[Pu'aatar|myth]] and [[Medju|rumor]] to the south. To the east, the Green Sea connects to the open oceans beyond, though separated by an extensive and magical island chain known as the [[Eastern Isles]]. The large island known as [[Irrla]] forms the boundary between the [[Eastern Green Sea]] and the [[Western Green Sea]]. 
+
+
+
 
 Climatically, the [[Western Green Sea]] is dominated by the spring and summer monsoons that bring rain from the ocean to [[Sembara]], [[Cymea]],  [[Tyrwingha]], and [[Vostok]]. The monsoon winds drive upwelling, and the [[Western Green Sea]] is rich in phytoplankton and the marine life that feeds on it, giving the Green Sea the characteristic greenish tint from which its name derives. The [[Eastern Green Sea]], much less affected by the monsoons, and with wider expanses of open water, tends towards maritime climates along the immediate coast, often with drier summers and wet winters. 
 
@@ -47,7 +50,7 @@ The Green Sea stretches from the far east to the middle of the continent. To the
 %%
 
 %%^Metadata:names:v1%%
-- {name: Green Sea, language: unknown, notes: "Named for the greenish tint produced by abundant phytoplankton in the Western Green Sea, as described in this note.", status: documented}
+- {name: Green Sea, language: Common, notes: "Named for the greenish tint produced by abundant phytoplankton in the Western Green Sea, as described in this note.", status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
