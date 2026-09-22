@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # A Bit of Celyn Backstory - Correspondence (Email)
 
 Local archive of all 8 message bodies in this correspondence, including quoted reply history. The in-world exchange is in [[Cleenseau - Session 11.1]]; its two tellings are in [[Celyn's Story of Getting His Name]] and [[El's Story]].

@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Baroness Tower Search (Email)
 
 Complete local archive of the Taelgar: Fey Aftermath, The Baroness' Tower email thread (2 messages). Message bodies preserve original quoted reply history. The tower search is incorporated into [[Cleenseau - Session 20]].

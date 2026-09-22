@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-campaign: Cleenseau
----
 # An Evening in Corrine's House
 
 Email play-by-email exchange. All eight authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Earlier raw-email compilation: [[An Evening in Corraine's House]].
