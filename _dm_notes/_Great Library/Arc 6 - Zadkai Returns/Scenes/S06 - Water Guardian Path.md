@@ -1,4 +1,4 @@
-# Guardian path C
+# Water Guardian Path
 
 Defeat or outwit the guardian to obtain its key.
 
