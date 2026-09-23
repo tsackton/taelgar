@@ -4,24 +4,34 @@ excludePublish: [all]
 ---
 # Taelgar Climatic Model
 
-This is a provisional climatic model for Taelgar. Currently, it is largely focused around the [[Green Sea]] and [[Greater Sembara]], with some impacts and notes about [[Greater Dunmar]] and [[Greater Chardon]], but plausibly this note can be expanded to cover the entire mapped world.
+This is a provisional climatic model for Taelgar, covering the [[Green Sea]] and the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]]. It also sets some constraints on [[Greater Sembara]], whose full regional model remains to be developed. The note can be expanded to cover the rest of the mapped world.
 
-This is not intended as an extremely detailed weather model, but rather an organized way to guide climate and seasonal shifts. Unusual weather or climate can always be explained by non-Earth-like properties of Taelgar, as needed. Typically, the working assumption is that details introduced in play take precedence, and the climatic model should adapt to allow these details. The climatic model, however, can be useful for establishing general weather patterns of undeveloped places, and for thinking through worldbuilding decisions.
+The model guides climate and seasonal changes rather than predicting individual days of weather. Details introduced in play take precedence: the model should adapt to accommodate them, including non-Earth-like explanations where needed. Elsewhere, it provides a starting point for the weather of undeveloped places and the consequences of worldbuilding decisions.
 
 ## Global Assumptions
 
 The model uses broadly Earth-like atmospheric rotation, seasons, and ocean physics. Its global framework consists of these assumptions; detailed circulation is developed in the regional sections below. Other regions remain unmodeled.
 
+> [!tip] Reading the pressure patterns
+> A **high** is an area of higher air pressure than its surroundings; a **ridge** is an elongated area of high pressure. A **low** and a **trough** are their lower-pressure counterparts. Air tends to sink beneath a high, warming as it descends and making rain clouds harder to develop. Rising air can cool enough for water vapor to condense, producing cloud and rain where moisture is available. A low over dry country therefore need not be rainy, and a high can still have low cloud or fog beneath it.
+>
+> Pressure differences drive wind, but planetary rotation turns moving air. In the Northern Hemisphere, this gives clockwise flow around highs and counterclockwise flow around lows. Near the ground, friction allows some flow across the pressure pattern toward lower pressure. See the [Met Office explanation of wind flow](https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow).
+
 - **Seasonal tendencies:** pressure centers and arrows describe recurring patterns. Ridges expand, split, weaken, and rebuild; their seasonal migration does not mean an identical pressure cell travels between two fixed points.
 - **Geography:** approximate latitudes are design anchors. The model uses present-day terrain; modern rain shadows should not be projected unchanged into the period before the [[Great War]].
-- **Wind notation:** arrows show the direction air travels. A northeasterly blows **NE → SW**. In the Northern Hemisphere, winds circulate clockwise around highs and counterclockwise around lows, with surface flow crossing somewhat toward lower pressure.
-- **Terrain:** mountains redirect winds and shape rainfall. Altitude alone does not create a surface high, and mountain pressure must be adjusted for elevation before comparison with coastal pressure. A circulation ridge can extend across mountains without being caused by their height.
+- **Wind notation:** arrows show the direction air travels; wind names describe where it comes from. A northeasterly blows **NE → SW**, and a westerly blows **W → E**.
+- **Terrain:** mountains redirect winds and shape rainfall. Air pressure naturally falls with elevation, so mountain readings need adjustment before comparison with coastal readings. High terrain is not the same thing as high pressure: a circulation ridge can extend across mountains without being caused by their height.
 
 Regional sections state the behavior assumed by this provisional model. **Working hypotheses** blocks identify explanations that remain untested; **Unspecified parameters** blocks identify details not yet assigned. Seasonal dates are model assumptions, not outputs of a numerical simulation.
 
+> [!tip] Why the subtropical ridge moves with the seasons
+> Uneven solar heating drives a broad circulation in which air rises in the tropics and sinks farther poleward, helping establish the subtropical belt of high pressure. As the hemisphere warms toward summer, the tropical rain belt, subtropical highs, and midlatitude storm tracks generally shift poleward; they return equatorward toward winter. Land and ocean warm at different rates, so the belt breaks into regional centers whose positions also depend on geography.
+>
+> For northern Taelgar, **poleward means northward**. A place can therefore lie under a dry ridge in summer but in the path of rain-bearing storms in winter. A **storm track** is the region through which storms commonly pass, not one permanent storm. This broad behavior underlies both the Green Sea high's seasonal shift and Chardon's winter-rain regime; it does not determine their exact timing or latitude. See [global circulation](https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns) and the [subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge).
+
 ## Climatic Constraints
 
-The climate model must reproduce the following broad climatic and trading constraints, which are established canon in the world. The **Model Treatment** column records its proposed means of doing so, though these exact mechanisms are not necessarily canonical and the climate model can shift to accommodate future invention. The key is the outputs of the model, not the model itself, though in general it is easier if the model remains relatively sensible and binding. 
+The model must reproduce these broad climatic and trading constraints. The **Model Treatment** column proposes mechanisms for doing so; those mechanisms are not necessarily canonical. Established weather and trading patterns take priority, while the model should remain consistent enough to guide further invention.
 
 Add further constraints as needed, marking their treatment **unmodeled** until a regional model addresses them.
 
@@ -38,58 +48,106 @@ Add further constraints as needed, marking their treatment **unmodeled** until a
 
 ## Green Sea Climatic Model
 
+%% Speculative ideas generated by AI at user request; not canon. %%
+
 ### Atmospheric circulation
+
+Four interacting features organize the seasonal winds: a broad **maritime subtropical ridge**, a **Cymean summer low**, the **Urskan summer high**, and a **magical storm zone along the Eastern Isles**. Their relative positions explain why different parts of the sea can have different prevailing winds in the same season.
 
 #### Maritime Subtropical High
 
-The Green Sea subtropical high is centered near [[Medju]], approximately **29° N**, in winter and near [[Irrla]], approximately **38–42° N**, in summer. Its center favors settled weather and light or variable winds. Its southern flank supports easterlies, its western flank northward flow, and its northern flank westerlies.
+The Green Sea subtropical high forms a broad ridge across the central and southern basin. Its pressure maximum lies near [[Medju]], approximately **29° N**, in winter and near [[Irrla]], approximately **38–42° N**, in summer. These are anchors for the center, not the limits of the high's influence. The ridge extends well east and west of that center, with its western flank facing the Cymean low and its eastern flank facing the Eastern Isles storm zone.
+
+Clockwise circulation supports westward flow on the ridge's southern side, northward flow on its western side, eastward flow on its northern side, and southward flow on its eastern side. Light or variable winds are most characteristic of the weak pressure differences near its center; the outer flanks can carry dependable sailing winds. Seasonal movement changes which part of this pattern a coast or route occupies.
+
+The ridge belongs to the wider subtropical circulation. Its regional shape depends on continental heating, the surrounding pressure systems, and the assumed magical influence of the Eastern Isles. The islands themselves do not form an atmospheric wall. In this model, recurring low pressure near their outer side helps distinguish the Green Sea ridge from whatever pressure systems lie farther into the [[Outer Ocean]].
+
+> [!tip] Why the high's width matters
+> Think of atmospheric pressure as a landscape: **H** marks a hilltop, while a ridge and its slopes can extend much farther. Winds respond to the slope—the pressure difference between places. A broader high can support northward winds west of Irrla if pressure remains higher east of the route and lower toward Cymea. If its weak-gradient center spreads over the route, winds become lighter; if the center moves west of it, the route can acquire southward winds. Expanding the high therefore does not simply expand an area of calm weather.
 
 #### Urskan High
 
-The **Urskan High** is a recurring summer ridge extending from the northern Sentinels and Vostok toward Ursk. A lower-pressure corridor lies to its south, south of the northern shipping route. Together they establish **E–NE winds toward the west in July–August**, reaching the longitudes of the Ursk trading ports. Ursk's southern coast, approximately **47–50° N**, lies north of the summer maritime high; that high alone would favor westerlies there.
+The **Urskan High** is a recurring summer ridge extending from the northern Sentinels and Vostok toward Ursk. A lower-pressure corridor extends eastward from the Cymean trough, south of the northern shipping route. Together the northern high and this corridor establish **E–NE winds toward the west in July–August**, reaching the longitudes of the Ursk trading ports. Ursk's southern coast, approximately **47–50° N**, lies north of the summer maritime high; that high alone would favor westerlies there.
 
 This northern wind regime depends on repeated or rebuilding ridges, with intervening disturbances and rain. Farther south, near the northern flank of the separate Irrla high, local westerlies or variable winds coexist with the westward northern corridor.
 
 #### Sembaran Monsoon and the Western Trough
 
-The Sembaran monsoon brings moist air **NE → SW** from the Green Sea. The required western pressure arrangement has relatively higher pressure **N–NW of Sembara** and lower pressure **S–SE**, connected to the northern ridge and the trough south of the northern maritime corridor. The general principle is that the high pressure/trough/monsoon system develops from the west to the east over the course of the spring, so that the Urskan High does not become fully established until summer, but westward flows start in the Western Gulf sooner. 
+The western trough is a broad, elongated **Cymean low** over [[Cymea]] and [[~South Cymea~|South Cymea]], developing with spring heating and persisting through summer. Its main low-pressure region lies southeast of Sembara and west of the northbound offshore route. Counterclockwise circulation around this low supports both the Sembaran monsoon and the northward winds west of Irrla:
 
-Land heating and regional troughs sustain maritime inflow, while terrain controls its inland reach. The wider relationship with the Nevos-fed monsoon is described under [[#Dunmar–Chardon Climatic Model]].
+| Side of the Cymean low | Favored air movement | Regional consequence |
+| --- | --- | --- |
+| East, over the sea west of Irrla | South → north | The low and the maritime high reinforce the offshore northbound flow between them. |
+| North, toward the northern Cymean and Western Gulf sector | East → west | Maritime air reaches the western basin. |
+| Northwest, toward Sembara | NE → SW | Moist onshore winds supply the Sembaran monsoon. |
+
+These are different branches of one regional circulation. Higher pressure to the north and northwest of Sembara reinforces its southwestward inflow, while the maritime ridge farther east supports the offshore northward branch. Terrain and the detailed pressure pattern determine how these broad bearings change near individual coasts.
+
+The low develops early enough for coastal monsoon winds to begin during spring, before the Urskan High establishes the broader northern summer reversal. Spring and early-summer ships can sail northward through the waters west of Irrla, then northeastward into the northern westerly corridor toward Ursk. The persistence of some northward flow farther south does not guarantee the same passage once northern easterlies develop.
+
+> [!note] Working hypothesis: Orenlas and the Cymean low
+> [[Orenlas]] already has magical mists and weather partly independent of the outside seasons. Its magic could favor the gathering and ascent of moist air across the surrounding region, helping the Cymean trough repeatedly develop in the same place. Ordinary continental heating supplies the broad seasonal cycle; Orenlas reinforces its location or persistence. This regional influence is an additional hypothesis, not something established by the forest's local weather alone. Fog itself does not imply low pressure, and cooling or shading the ground can weaken a low driven by surface heating.
+
+> [!tip] A monsoon is a seasonal wind regime
+> Land warms and cools more quickly than the sea. Summer heating can help establish lower pressure over land, drawing moist maritime air inland; winter cooling weakens or reverses that arrangement. Rotation, terrain, and the larger pressure pattern determine the actual wind direction. Sembara's northeasterly summer inflow therefore need not resemble India's southwesterly monsoon winds.
+>
+> The seasonal supply of moisture makes rain possible, but does not mean continuous downpours. Rain falls when that air rises, whether over hills, in thunderstorms, or along a **front**, where contrasting air masses meet. The timing of favorable winds and the timing of sustained inland rain can differ. See the [National Weather Service monsoon overview](https://www.weather.gov/twc/Monsooninfo).
+
+#### Eastern Isles Storm Zone
+
+The model assumes a broad zone of recurring storms and lower pressure along the outer, eastern side of the [[Eastern Isles]]. Magic sustains a regional tendency for air to rise and storms to redevelop there. Higher pressure over the Green Sea to the west and lower pressure toward the Outer Ocean to the east support **north → south** winds along the inner side of the island chain.
+
+This pressure contrast helps maintain the maritime ridge's eastern flank without requiring the high to end at an island coastline. The storm zone is shown in every season as a persistent influence, but individual storms move, break down, and reform. It is not a continuous wall of storms: recognizable sailing windows can coexist with dangerous crossings, unsettled intervals, and very different conditions on neighboring islands. The source and seasonal behavior of the magic remain unspecified.
 
 #### Atmospheric uncertainties
 
 > [!note] Working hypotheses
-> The Urskan High is maintained by large-scale atmospheric dynamics: upper-air waves and storm-track changes favor recurring northern anticyclonic conditions, reinforced near the surface by cool maritime air. This is a candidate explanation for the required summer ridge, not a demonstrated cause of its location or persistence.
+> Broad bends in the winds high above the surface, together with changes in storm tracks, may favor recurring high pressure over the north. Cool maritime air may reinforce the ridge near the surface. This is a candidate explanation for the Urskan High, not a demonstrated cause of its location or persistence.
 
 > [!question] Unspecified parameters
-> The ridge's exact extent, the intervening trough's width and position, and the frequency and strength of summer easterlies remain unassigned. The model requires the pressure contrast to reach Ursk and recur often enough to organize a sailing season.
+> - Pressure strengths, exact ridge and trough boundaries, and the frequency of interruptions remain unassigned. The northern pressure contrast must reach Ursk and recur often enough to organize a sailing season.
+> - The Cymean low's seasonal position must preserve both the Sembaran inflow and the offshore northbound passage. Its eastern extension must remain south of the northern shipping corridor.
+> - Orenlas's possible regional influence and the Eastern Isles' storm-producing magic have no assigned reach or intensity. The maps specify their proposed climatic roles, not their magical mechanisms.
+> - Circulation farther into the Outer Ocean remains unmodeled. The Eastern Isles storm zone provides a regional pressure contrast, not a complete global explanation of the maritime high.
 
 ### Seasonal cycle
 
-![[green-sea-seasonal-winds-currents.png|1400]]
+The maps below show recurring seasonal patterns over matching regional crops of `taelgar-basemap.jpg`. North is up; labeled latitude lines retain the basemap's positions, and each small hex is **24 miles face-to-face**.
 
-*Seasonal snapshots over a crop of [[world-map-regions-new.png]]. Dashed purple arrows show winds; solid blue and orange arrows show prevailing cold and warm currents. Pressure centers and troughs are schematic.*
+> [!tip] Reading the seasonal maps
+> **Red areas and H** show higher pressure; **blue areas and L** show lower pressure. Blue hatching marks the Eastern Isles magical storm zone. **Solid purple arrows** show where air travels. **Black dashed arrows with double arrowheads** show the ridge's seasonal movement north in spring and south in autumn; they are not winds. Colored areas indicate schematic pressure influence, with no assigned strength, exact boundary, or rainfall total. Ocean currents have their own map under [[#Ocean circulation]].
 
 #### Winter
 
-The high occupies the southeastern basin near Medju. Light, variable winds and dry, stable weather dominate its central region; southern calms are strongest in **January–February**.
+![[taelgar-green-sea-winter-v2.png|1400]]
 
-Farther north, westerlies and passing storms bring maritime moisture. Cold continental air supplies Ursk's winter cold, while storms and air crossing open water supply snowfall. 
+The maritime ridge lies across the southern basin and adjacent coast, with its center near Medju. Light, variable winds and dry, stable weather dominate its central region; southern calms are strongest in **January–February**. The Cymean summer low is no longer established.
+
+Farther north, westerlies and passing storms bring maritime moisture. The northern blue area represents recurring passages of low-pressure systems, not a fixed winter low. Cold continental air supplies Ursk's winter cold, while storms and air crossing open water supply snowfall. The Eastern Isles retain their regional storm influence and local weather hazards.
+
 #### Spring
 
-As the maritime high shifts north, easterlies develop along the southern coast from **late March–April**. Northward flow on its western flank persists farther offshore, and useful northern westerly opportunities continue into **June**.
+![[taelgar-green-sea-spring-v2.png|1400]]
 
-The Sembaran monsoon in the west before the northern shipping corridor reverses. Coastal NE → SW flow and offshore northward flow occupy different sectors, separated by an unsettled transition around the Skaer Islands. Inland Ursk experiences rain and snowmelt during the muddy thaw.
+As the maritime ridge shifts north, easterlies develop along the southern coast from **late March–April**. The developing Cymean low supports the early Sembaran monsoon on its northwestern side and northward flow on its eastern side, between Cymea and the maritime ridge.
+
+The northbound offshore passage connects with useful northern westerlies into **June**, allowing ships from the southern sea to continue toward Ursk. Coastal **NE → SW** winds and offshore northward winds occupy different sides of the same low; their exact transition remains unassigned. The Urskan summer high is not yet established. Inland Ursk experiences rain and snowmelt during the muddy thaw.
 
 #### Summer
 
-By **July–August**, the Urskan High and adjacent trough establish the northern easterly regime. Repeated ridges produce settled intervals, while passing disturbances and ridge margins continue to supply rain. The high near Irrla favors weaker winds and more settled conditions around its center; easterlies continue along its southern flank.
+![[taelgar-green-sea-summer-v2.png|1400]]
 
-The Sembaran monsoon supplies spring and summer rain to Cymea, Sembara, and Tollen. Its inland and offshore limits vary by sector. The northern wind reversal associated with the Urskan High and the Sembaran Monsoon does not impose the same flow across the central and southern sea; the central sea, under the Maritime High, is settled with variable winds, while to the east and south, a clockwise wind direction blows south along the Eastern Isles, then west towards Medju. 
+By **July–August**, the Cymean low is established and its lower-pressure corridor extends eastward below the northern shipping route. The Urskan High to the north supplies the opposing side of the pressure contrast, establishing the northern easterly regime. Repeated ridges produce settled intervals, while passing disturbances and ridge margins continue to supply rain.
+
+The western circulation supplies maritime moisture to Cymea, Sembara, and Tollen, with rainfall varying by terrain and exposure. Northward flow can persist offshore west of Irrla, but its northern end now meets a westbound sailing regime. It no longer supplies the same straightforward connection to Ursk as in spring.
+
+The broad maritime ridge near Irrla favors weaker winds and more settled conditions near its center. Its outer flanks remain active: northward winds to the west, southward winds between the ridge and the Eastern Isles storm zone, and westward winds along its southern side. Thus neither the northern wind reversal nor the central calms apply uniformly across the sea.
 
 #### Autumn
 
-The Urskan High weakens and northern westerlies return, with increasing storm risk later in the season. The maritime high retreats south, opening eastward opportunities from southeastern Irrla. Its northern and eastern flanks provide different wind bearings for eastward crossings and subsequent southward travel through the Eastern Isles.
+![[taelgar-green-sea-autumn-v2.png|1400]]
+
+The Cymean low weakens and its summer maritime inflow subsides. The Urskan High breaks down and northern westerlies return, with increasing storm risk later in the season. The maritime ridge retreats south, opening eastward opportunities from southeastern Irrla. Its northern flank favors eastward crossings; the pressure contrast with the Eastern Isles storm zone supports subsequent southward travel along the islands' inner side.
 
 Southern calms become more troublesome through December before their January–February maximum. December access to Medju remains ordinary within this model, although late arrivals encounter greater light-wind delays.
 
@@ -110,9 +168,16 @@ These are the assumed windows supporting [[Trading in the Green Sea]]. That note
 
 ### Ocean circulation
 
+![[taelgar-green-sea-currents-v2.png|1400]]
+
+*Blue arrows show the cooler northern branch; orange arrows show the warmer southern branch. These are schematic prevailing directions, not surveyed channels or current speeds. Eastern exchange passages remain unspecified.*
+
 The prevailing current branches are **cold water flowing west → east along the northern coast** and **warm water flowing east → west along the southern coast**. Their directions form part of a broadly clockwise circulation, divided by islands, shelves, and passages into branches and eddies. This description allows local reversals and seasonal changes in strength within the broader pattern.
 
 The northern summer wind reversal does not reverse the entire circulation. The eastward northern branch assists eastbound voyages and opposes westbound ones; its strength therefore matters to the summer return window.
+
+> [!tip] Why wind and current arrows can point in different directions
+> Wind pushes the surface of the sea, but currents also respond to water piling up elsewhere, density differences, planetary rotation, and the shape of the basin. A regional current need not follow the local wind of that season. Summer easterlies could weaken or alter the northern eastward branch; its continued presence is a requirement of this model that still needs a physical explanation. **Warm** and **cold** describe relative water temperatures, not tropical water or freezing water everywhere along an arrow. See [NOAA's introduction to currents](https://oceanservice.noaa.gov/facts/current.html).
 
 > [!note] Working hypotheses
 > - Basin circulation and pressure gradients maintain an eastward northern branch against midsummer easterlies, with seasonal weakening or variation. Its persistence is assumed rather than derived from the wind field.
@@ -128,23 +193,36 @@ The northern summer wind reversal does not reverse the entire circulation. The e
 
 [[Ursk]] and the [[Great Northern Forest]] have long, cold winters, a muddy thaw, and short, cool summers. Continental cold and maritime snowfall establish the winter regime; the cold northern current moderates summer warmth and delays spring warming. Maritime exposure allows heavier coastal snowfall than in continental interiors, without requiring high annual precipitation throughout the taiga.
 
-Summer provides enough warmth for boreal forest and limited agriculture. Rain between ridges, frontal passages, and wetter ridge margins replenish growing-season moisture. The resulting summer alternates settled weather with rain, cloud, and fog. Snowmelt supplements this moisture rather than replacing summer precipitation. Natural circulation supports the regional climate; white dragons can intensify local cold without supplying its entire explanation.
+Summer provides enough warmth for boreal forest and limited agriculture. Passing fronts bring rain between settled spells, and the edges of the high-pressure region can be wetter than its center. The resulting summer alternates settled weather with rain, cloud, and fog. Snowmelt supplements this moisture rather than replacing summer precipitation. Natural circulation supports the regional climate; white dragons can intensify local cold without supplying its entire explanation.
 
 #### Sembara
 
-Sembara receives maritime moisture during the spring and summer monsoon. Rainfall varies with coastal exposure, terrain, and individual episodes. Early coastal onset precedes the broader northern summer reversal; inland rainfall follows the routes by which moist air penetrates the terrain.
+Sembara receives maritime moisture on the northwestern side of the Cymean low during the spring and summer monsoon. Rainfall varies with coastal exposure, terrain, and individual episodes. Early coastal onset precedes the broader northern summer reversal; inland rainfall follows the routes by which moist air penetrates the terrain. This circulation supplies the maritime boundary conditions for a future Greater Sembara model, but does not determine its winter climate.
 
 #### Maseau and Aurbez
 
 Maseau and [[Aurbez and the Andonne|Aurbez]] have predominantly hot, dry summers. Aurbez receives important spring rains; its summer easterlies usually carry dry continental air and ash from the east, interrupted by occasional moist incursions and severe thunderstorms. A trough south of Aurbez maintains the easterly flow without requiring a deep rainy circulation over the region.
 
-The wet-to-dry transition depends on moisture loss inland, terrain, and limits on convection. The Mostreve–Cymean uplands are treated as a varied upland system, consistent with [[Geology of the Mostreve and Cymean Uplands]], rather than assigned a continuous Himalayan-scale barrier.
+The wet-to-dry transition depends on moisture loss inland, terrain, and whether moist air can rise far enough to form rain clouds. Hot ground alone does not guarantee thunderstorms: dry air or a stable layer above it can limit their development. The Mostreve–Cymean uplands are treated as a varied upland system, consistent with [[Geology of the Mostreve and Cymean Uplands]], rather than assigned a continuous Himalayan-scale barrier.
+
+#### Cymea
+
+The Cymean low favors a humid spring and summer where maritime air reaches the land and rises. Northern and eastern Cymea receive seasonal rain, including showers, thunderstorms, and occasional longer rainy spells. Sunny, warm intervals occur between these episodes; a recurring low does not mean continuous overcast weather. Coastal exposure moderates summer heat, while sheltered lowlands can be hotter.
+
+The [[Mistfold Mountains]] and other uplands redistribute rainfall. Exposed slopes are wetter and cooler, with cloud around ridges; sheltered valleys can be sunnier and drier. The [[Plataca Hills]] can shelter parts of western Cymea from easterly moisture, but access to Western Gulf air prevents a simple rule that the whole western coast is dry. Karst drainage can leave rocky ground locally dry even where rainfall is substantial.
+
+The model establishes a spring–summer moisture supply, not a complete annual rainfall calendar. Winter storm exposure and the balance between summer rain and winter rain remain to be assigned.
 
 #### South Cymea and the Maritime Trade Peninsula
 
-Both regions receive substantial maritime rainfall. [[Climate Map]] supplies the starting seasonal patterns: **Cfa** in South Cymea, with rain outside the summer monsoon as well, and predominantly **Cwa** on the [[~Maritime Trade Peninsula~|Maritime Trade Peninsula]], with a stronger wet-summer/dry-winter contrast, though these should be treated as hypotheses, pending further development of these regions. Neither has appeared in play. 
+Both regions receive substantial maritime rainfall. [[Climate Map]] supplies the starting seasonal patterns: **humid subtropical with rain through the year (Cfa)** in South Cymea, and predominantly **humid subtropical with a dry winter (Cwa)** on the [[~Maritime Trade Peninsula~|Maritime Trade Peninsula]]. These Köppen climate codes summarize temperature and rainfall seasonality; they do not explain what causes it. Here they remain hypotheses pending further development of these regions. Neither has appeared in play.
+
+South Cymea's maritime side is warmer than northern Cymea and receives substantial spring–summer moisture on the eastern side of the continental trough. Hot, humid intervals alternate with rain. Its inland and southern margins can be drier: land south of the trough's end may receive west-to-east winds from the continental interior rather than moist air from the sea. The trough's position therefore permits a wet coastal belt grading into drier country, without making all of South Cymea uniformly wet.
 
 Maritime exposure and the wetter eastern side of the peninsula's western mountain belt distinguish these coasts from the drier interior.
+
+> [!tip] A summer wet season does not determine winter rainfall
+> When the Cymean low weakens, its summer moisture supply diminishes. Winter can still be rainy if storms deliver moisture by another route. South Cymea's year-round rainfall hypothesis therefore remains possible, but needs a winter mechanism; a stronger wet-summer/dry-winter contrast is also possible. Orenlas's persistent local dampness does not by itself settle that regional choice.
 
 #### Medju and the Great Desert
 
@@ -156,7 +234,7 @@ Summer high-pressure influence favors settled intervals, weaker winds, and a dri
 
 #### Eastern Isles
 
-Within the [[Eastern Green Sea]], the [[Eastern Isles]] have exceptional, sometimes magical local weather and difficult channels within a recognizable seasonal background. Broad sailing windows coexist with island-specific hazards, wandering islands, and unsettled weather. Conditions vary among islands rather than following a uniform regional rainfall regime.
+Within the [[Eastern Green Sea]], the [[Eastern Isles]] combine the regional storm influence described above with exceptional local weather and difficult channels. Broad sailing windows coexist with island-specific hazards, wandering islands, and unsettled intervals. The outer storm zone helps organize southward background winds along the inner side of the chain, but neither the wind nor the rainfall is uniform across every island and passage.
 
 #### Regional uncertainties
 
@@ -166,10 +244,10 @@ Within the [[Eastern Green Sea]], the [[Eastern Isles]] have exceptional, someti
 > [!question] Unspecified parameters
 > - **Ursk:** temperatures, sea-ice limits, snowfall distribution, and local harbor conditions.
 > - **Sembara–Maseau:** the detailed boundary between monsoon rainfall and dry summer conditions, including local terrain effects.
-> - **South Cymea and the peninsula:** exact rainfall seasonality and climate boundaries. Their mapped classes are flexible starting points, not fixed outcomes of the circulation model.
+> - **Cymea, South Cymea, and the peninsula:** winter moisture sources, rainfall totals, the position of the summer trough, and the boundaries between wet coasts and drier interiors. Their mapped classes are flexible starting points, not fixed outcomes of the circulation model.
 > - **Irrla:** seasonal rainfall, exposure contrasts, and how often the summer high sits over the island rather than nearby.
 > - **Medju:** coastal rainfall seasonality and the extent of the greener coastal strip. A Tunisia-to-Sahara landscape gradient does not prescribe Tunisia's exact rainfall calendar.
-> - **Eastern Isles:** individual island climates and the local expression of the seasonal winds.
+> - **Eastern Isles:** storm frequency and seasonality, individual island climates, and the local expression of the seasonal winds.
 
 ## Dunmar–Chardon Climatic Model
 
@@ -177,29 +255,17 @@ Within the [[Eastern Green Sea]], the [[Eastern Isles]] have exceptional, someti
 
 Seasonal movement of the western subtropical ridge organizes the contrast between Dunmar and Chardon. Winter ridge influence favors Dunmar's dry season while winter disturbances reach Chardon. In summer, stronger ridge influence over Chardon maintains dry, stable conditions there, while a lower-pressure corridor near northern Dunmar and the northern Nevos admits monsoonal maritime air.
 
-The Dunmari monsoon draws moisture from the Nevos, with coastal inflow broadly **W–SW → E–NE**. Terrain redirects the flow and controls uplift and rain shadows. The western ridge and the Green Sea high are parts of the broader circulation, without requiring a single closed pressure cell spanning both seas.
-
-#### Connection to the Sembaran circulation
-
-![[taelgar-climatic-model-regional-pressure.png|1000]]
-
-*Local pressure–wind relationships for Sembara, Aurbez, and Dunmar. These are directional checks, not fitted isobars or three independent circular lows. Surface friction and terrain modify the flow.*
-
-| Region | Flow | Approximate pressure relationship |
-| --- | --- | --- |
-| Sembara | NE → SW | Higher pressure N–NW; lower pressure S–SE. |
-| Aurbez | E → W | A trough predominantly south of the region. |
-| Coastal Dunmar | W–SW → E–NE | Lower pressure broadly north to northwest of the maritime inflow. |
-
-> [!note] Working hypotheses
-> A bent trough extends from the northern Nevos region through country south of Aurbez toward an eastern extension southeast of Sembara. Differential land heating, maritime–continental contrasts, and terrain shape the trough; condensation reinforces rainy circulation in wet sectors. A shallow thermal low in the dry interior need not produce abundant rain. Near the Chataans, regional heating and lee effects contribute without requiring the low's center to sit on a summit.
-
-> [!question] Unspecified parameters
-> The exact trough geometry, pressure-center locations, and Dunmari wind bearings remain unassigned. Several interacting regional centers may explain the directional relationships better than one continuous trough; a full pressure field has not been derived.
+The Dunmari monsoon draws moisture from the Nevos, with coastal inflow broadly **W–SW → E–NE**. A lower-pressure region broadly north to northwest of that inflow is compatible with this direction under Northern Hemisphere rotation. Terrain redirects the flow and controls uplift and rain shadows; the exact pressure centers and local wind bearings remain unassigned.
 
 ### Seasonal cycle
 
+![[taelgar-dunmar-chardon-seasons-v2.png|1400]]
+
+*Two seasonal views of the same basemap crop. Purple arrows show broad wind tendencies; the summer inflow arrows do not specify individual mountain passes. The ridge marks a region of influence, not a fitted pressure contour. Small hexes remain 24 miles face-to-face.*
+
 The Western Dunmar cycle is **cooler dry season → hot premonsoon season → summer rains**. Its local seasonal vocabulary differs from a northern four-season division: [[Dunmari Festivals]] places the beginning of Dunmari summer around April and its end around June.
+
+The hottest part of the year can precede the main rains: clear skies allow strong daytime heating, while the later wet season brings more cloud and evaporation. This does not assign a temperature curve to every Dunmari region.
 
 | Phase                 | Western Dunmar                                                           | Chardon                                                   |
 | --------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
@@ -216,6 +282,9 @@ The Western Dunmar cycle is **cooler dry season → hot premonsoon season → su
 #### Interior Dunmar and the Hara Basin
 
 Rain diminishes across and beyond the [[Yuvanti Mountains]] and [[Rudhan Heights]]. The [[Hara Basin]] has a shorter or less reliable wet season, strongest in its west and north. Its southern and eastern margins remain very dry.
+
+> [!tip] How a rain shadow works
+> Air forced up a mountain cools; if it contains enough moisture, clouds and rain form on the exposed slope. Air descending on the other side warms, reducing its relative humidity and making further rain less likely. This can leave a dry interior close to a wet coast. The effect depends on wind direction, mountain height, and gaps through the terrain, so it produces a gradient rather than a perfectly dry boundary. See the [Met Office explanation of the foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect).
 
 #### Chataans and Chardon
 
@@ -246,6 +315,8 @@ These comparisons supply selected mechanisms or landscape targets. No single rea
 These sources support mechanisms and comparisons, not the specific geography or numerical climate of Taelgar.
 
 - [Met Office: wind flow](https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow): circulation around highs and lows.
+- [Met Office: global circulation](https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns): the broad circulation and seasonal movement of weather belts.
+- [National Weather Service: monsoons](https://www.weather.gov/twc/Monsooninfo): seasonal land–sea heating contrasts, wind changes, and rainfall.
 - [Bureau of Meteorology: subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge): seasonal ridge migration and a persistently dry interior. Australian geography and Southern Hemisphere wind directions require adaptation.
 - [Rodwell and Hoskins, 2001: Subtropical Anticyclones and Summer Monsoons](https://wind.mit.edu/~emanuel/tropical/rodwell_hoskins_2001.pdf): interactions among monsoons, oceanic highs, and nearby summer subsidence; not a demonstration of the proposed Taelgar trough or Dunmar–Chardon connection.
 - [Japan Meteorological Agency: the Okhotsk High](https://www.data.jma.go.jp/cpd/j_climate/hokkaido/column_okho.html): episodic northern summer high pressure associated with cool maritime air.
@@ -258,3 +329,21 @@ These sources support mechanisms and comparisons, not the specific geography or 
 ### Related worldbuilding documents
 
 [[Climate Map]], [[Climate Notes]], and [[Green Sea Notes]] provide the main climatic design background. [[Trading in the Green Sea]] develops the route calendars and commercial implications. [[conflicts]] separately records discrepancies with other vault material.
+
+## Connections Between Regional Climates
+
+These are shared influences and constraints to check when developing neighboring regions. They do not require every regional circulation to be part of one pressure system.
+
+%% Speculative ideas generated by AI at user request; not canon. %%
+
+- **Green Sea → Greater Sembara:** the sea supplies spring and summer moisture, with early coastal inflow preceding the northern shipping corridor's July–August reversal. A Greater Sembara model must preserve that sequence, but it still needs its own account of winter temperatures, winter precipitation, inland rainfall, and elevation. The Green Sea model alone does not choose between a strongly seasonal East Asian framing and a milder European framing; either must explain how it produces its inland climate with the mapped sea and mountain barriers.
+- **Cymea and Orenlas ↔ the western Green Sea:** the Cymean low links southwestward inflow toward Sembara with northward offshore flow west of Irrla. Changes to the trough's location affect both sailing routes and regional rainfall. Orenlas may help it recur in the same region, while continental heating controls its broader seasonal development.
+- **Sembara → Maseau and Aurbez:** onshore moisture must diminish or become less effective toward the dry interior. Moisture loss, terrain, and inhibited cloud growth can contribute, while occasional wet incursions allow thunderstorms. The boundary remains to be worked out; an easterly wind need not bring equally wet weather to every place it crosses.
+- **Chardon ↔ Sembara across the Sentinels:** western winter storms and eastern summer moisture reach different faces of the range. The [[Sentinel Range]] therefore separates seasonal rainfall regimes as well as channeling the few routes between them. Neither side's lowland climate should simply be extended across the mountains.
+- **Dunmar ↔ Chardon across the Chataans:** the transition from Nevos-fed summer rain to Chardonian winter rain occurs across varied slopes and foothills. Monsoonal rain on exposed Chataan slopes can coexist with predominantly winter rain at [[Alta Tonaro]]. A single latitude or crest line does not define the entire transition.
+- **Dunmar ↔ Sembara:** both receive seasonal maritime moisture, from different seas and in different directions. They share the annual heating cycle and may influence one another through the wider atmosphere, but neither monsoon currently explains the other. There is no requirement for their onset dates to coincide or for moist air to pass continuously between them.
+- **Green Sea ↔ Medju's desert interior:** maritime winds and locally greener shores must coexist with persistent aridity farther inland. Eastern mountain shelter alone cannot block moisture from the sea to the north; the regional model must also limit inland transport or rainfall development.
+- **Green Sea ↔ the ocean beyond the Eastern Isles:** the magical storm zone supplies an eastern pressure contrast that helps maintain the Green Sea ridge and its southward-flowing eastern flank; the wider Outer Ocean pressure pattern remains unmodeled. Ocean exchange is a separate connection: warm inflow needs compensating outflow, potentially through other channels or at depth. Channel depths, transport, and the ocean's own currents remain unassigned.
+
+> [!note] Connections not yet established
+> A continuous bent trough linking northern Nevos, the country south of Aurbez, and southeast Sembara remains an optional hypothesis, not part of the required explanation. Regional heating, terrain, and several separate pressure centers may be enough. Any future combined pressure map must reproduce the local wind directions without implying that every low-pressure sector is wet. In rainy sectors, heat released when water vapor condenses can reinforce circulation; that does not demonstrate a connection across the dry interior.
