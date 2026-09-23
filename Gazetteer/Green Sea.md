@@ -47,6 +47,34 @@ The North Coast around Skaegenland is heavily maritime, reminiscent of Nova Scot
 Notes from GDrive:
 The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the [[Svinjo Mountains]]. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Outer Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
 
+Notes moved from Taelgar Climate Model:
+
+### Marine productivity
+
+The western Green Sea is rich in phytoplankton and the marine life that feeds on it. Its nutrient supply depends on coastal geometry, seasonal winds, mixing, and river inflow.
+
+![[taelgar-climatic-model-currents-upwelling.png|1000]]
+
+*The upper diagram shows the prevailing current branches and hypothetical connections. The lower diagrams illustrate coastal responses; the northern-shore example uses westerly winds. Summer easterlies produce the opposite transport tendency.*
+
+In the simplified Northern Hemisphere coastal model, net wind-driven transport through the surface layer is to the right of the wind. Offshore transport favors upwelling; onshore transport favors coastal accumulation and downwelling. This is one component of circulation, distinct from the direction of the total observed current.
+
+| Idealized setting | Wind | Wind-driven transport and tendency |
+| --- | --- | --- |
+| Western shore, land west of the water | NE → SW | Northwestward, with an onshore component: downwelling-favorable. |
+| Southern shore, land south of the water | E → W | Northward and offshore: upwelling-favorable. |
+| Northern shore, land north of the water | W → E, outside midsummer | Southward and offshore: upwelling-favorable. |
+| Northern shore, land north of the water | E → W, July–August | Northward and onshore: downwelling-favorable. |
+
+Coastline orientation, bottom relief, tides, and other currents modify these responses, especially in the shallow [[Western Gulf]].
+
+> [!note] Working hypotheses
+> Rainy-season river inputs, winter mixing, mixing around banks and passages, and localized seasonal upwelling jointly replenish nutrients. This combination supports spring blooms and local summer productivity. Tidal mixing is a candidate contribution whose strength has not been established.
+
+> [!question] Unspecified parameters
+> The relative nutrient contributions, locations and intensity of upwelling, and basin-wide bloom calendar remain unassigned.
+
+
 %%
 
 %%^Metadata:names:v1%%

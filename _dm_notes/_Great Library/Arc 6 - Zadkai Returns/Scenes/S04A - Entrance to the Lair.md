@@ -4,6 +4,10 @@ The basic entrance is a large round building, about 20 feet tall and maybe 60 fe
 
 Massive round door has been smashed open, looks like it was battered by a hurricane. Several statues lay broken and cracked outside the doors. 
 
+### Interior
+
+The interior is silent and calm, but there are obvious signs of exploration and damage. This
+
 Inside, quiet and calm. Obvious signs of exploration. 
 
 "Door" in far wall - oval that has three obvious locks, and doesn't appear to lead anywhere. 
