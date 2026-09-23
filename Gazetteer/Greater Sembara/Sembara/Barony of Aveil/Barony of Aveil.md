@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Barony of Aveil
 typeOf: realm
 whereabouts: Sembara
@@ -39,12 +39,6 @@ Most of the settlement in the barony is along the eastern valleys and banks of t
 In general, despite its relatively ancient roots, [[Barony of Aveil|Aveil]] is a poor barony largely dominated by the powerful [[Duchy of Wisford]] to its west, save for the [[Cleenseau Region]], which tends to see itself as more independent and if anything, more aligned with the powerful [[Army of the West]]. [[Rinburg]], at the head of the navigation of the [[Enst]] is a wealthy and bustling market town, but as a free city, contributes little to the barony itself. Even the better farmland in the eastern [[Auberonne]] valley is not as rich as the heartlands of Sembara, and much of the land was pillaged by hobgoblins during the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. [[Veltor]] never fell, and the [[Aveil Ridge]], with its many caves, was a redoubt for Sembaran troops resisting the hobgoblins. There are several rich tin mines in the [[Aveil Ridge]], but they are controlled by the [[Duchy of Wisford]] and contribute little to the wealth of the barony.
 
 There is a maintained road the length of the [[Auberonne]], from [[Rinburg]] to [[Veltor]], and the [[Aveil Road]] which runs north from the tin mines to the [[Wistel]].
-
-Travelers heading from [[Cleenseau]] toward [[Aslain]] can follow the [[Great South Road]] through [[Champimont]] and the Rinburg area, then turn north through [[Peydon]] or Brisbourg. A shorter route turns north near [[Chantefleur]] through [[Maudorville]], bypassing Rinburg. As an approximate guide for mounted travelers riding at a fast but reasonable pace, the Great South Road allows about 30 miles a day and the Aveil Road about 20 miles a day.
-
-%% Sources:
-- [[Aveil - What You Know (Email)]]
-%%
 
 ### Cities in Barony of Aveil
 ```dataviewjs

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Beury
 typeOfAlias: village
 typeOf: settlement
@@ -25,12 +25,7 @@ Beyond the second circle of houses, straddling the [[Great South Road]] is a nam
 
 A [[Manor of Beury#Economy|small market]] is held in the caravan yard once a week, which attracts some of the people from [[Asineau]] and [[Ganboa]].
 
-Beury traditionally celebrates the festival of the Empty Cauldron on May 12. The festival commemorates a famine after the [[Great War]] and a story that [[The Father]] answered an old woman's prayers by filling her empty pot with food. Its central custom is a communal stew made from winter stores and new spring shoots. In 1720, the celebration welcomed people from the surrounding villages, with games and contests alongside the shared meal.
-
-%% Sources:
-- [[Asineau in May (Email)]]
-%%
-
+Beury traditionally celebrates the festival of the Empty Cauldron on May 12. The festival commemorates a famine after the [[Great War]] and a story that [[The Father]] answered an old woman's prayers by filling her empty pot with food. Its central custom is a communal stew made from winter stores and new spring shoots.
 ## Notable Residents
 * [[Erick Murtha]], the lord, and his wife
 * Clare Murtha, his daughter and heir
