@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Taelgar Climatic Model
 
-This is a provisional climatic model for Taelgar, covering the [[Green Sea]] and the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]]. It also sets some constraints on [[Greater Sembara]], whose full regional model remains to be developed. The note can be expanded to cover the rest of the mapped world.
+This is a provisional climatic model for Taelgar, covering the [[Green Sea]], [[Greater Sembara]], and the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]]. [[#Cross-Continental Climate Connections]] describes the weather systems and moisture exchanges that connect these regions. The note can be expanded to cover the rest of the mapped world.
 
 The model guides climate and seasonal changes rather than predicting individual days of weather. Details introduced in play take precedence: the model should adapt to accommodate them, including non-Earth-like explanations where needed. Elsewhere, it provides a starting point for the weather of undeveloped places and the consequences of worldbuilding decisions.
 
@@ -37,7 +37,14 @@ Add further constraints as needed, marking their treatment **unmodeled** until a
 
 | Constraint | Model Treatment |
 | --- | --- |
-| The Sembaran summer monsoon brings Green Sea moisture inland. | NE → SW flow, with coastal onset preceding the broader northern reversal. See [[#Atmospheric circulation]]. |
+| The Sembaran summer monsoon brings Green Sea moisture inland. | NE → SW flow, with coastal onset preceding the broader northern reversal. The agricultural lowlands have a summer rainfall maximum without an extreme winter dry season. See [[#Greater Sembara Climatic Model]]. |
+| Sembara is a breadbasket of fertile river valleys, with wheat, pasture, and summer crops. See [[Heartlands]], [[Greater Sembara]], and [[Cleenseau Region]]. | Dependable growing-season moisture, a sufficient frost-free season, and ordinary drying intervals for fieldwork and harvest. Fertile soils are an existing constraint, not an outcome calculated from rainfall. |
+| The Enst at Cleenseau rises with spring mountain snowmelt and again with heavy late-summer rain. See [[Cleenseau Region]]. | Preserve both seasonal water sources; early coastal monsoon onset need not coincide with peak inland rainfall. See [[#Rivers and farming]]. |
+| A rainy evening at Cleenseau on 19 October DR 1719 opens [[Cleenseau - Session 01 - Original]]. | Autumn rainfall remains ordinary within the model. This observation does not establish how wet every autumn is. |
+| During the Peydon visit in early March DR 1720, the party encounters unpleasant late-winter weather, liquid puddles, and an operating ferry. See [[Cleenseau - Session 22 - Original]]; dates follow [[Cleenseau - Session 22]]. | Allow wet or thawed intervals in late winter. These observations do not rule out freezes or snow earlier in the winter or elsewhere in Sembara. |
+| The Breva–Great Chasm campaign has a bitter winter with lasting snow. [[Into the Chasm Intros]] describes a frozen January landscape and slow winter forest travel before the unnatural storm in [[Into the Chasm - Episode 01]]. | Preserve a cold northern interior and highlands. Lasting ordinary snow is a campaign constraint confirmed in development discussion; the magical storm and labyrinth are not measures of regional snowfall. |
+| Addermarch has mild lowland winters with little snow, snowier uplands, and winter travel difficulties from rain, mud, and upland snow. See [[Addermarch]] and [[Adderfell]]. | Southern lowlands alternate freezes and thaws; elevation increases snow persistence. Winter precipitation continues despite the summer rainfall maximum. |
+| The [[Western Gulf]] is sheltered and sees few storms. | Ordinary winter moisture comes from weaker lows and broad frontal rain or snow; the model places most vigorous storm development farther offshore. See [[#Winter storms from Chardon to the Green Sea]]. |
 | Direct Tollen–Ursk trade is substantial. | Spring eastbound and midsummer westbound windows support a normal same-year voyage, with secondary overwintering. See [[#Climatic requirements for navigation]]. |
 | Halfling ships commonly depart Ursk eastward in autumn. | Returning northern westerlies support this pattern, recorded for the [[Wave Dancer]] with cargo from [[Praznitsky]] in [[Session 60 (DuFr)]]. The full circuit in [[Trading in the Green Sea]] remains provisional. |
 | Ursk and the taiga have cold, snowy winters, wet muddy springs, and short summers. | Continental cold, a cool northern sea, maritime snowfall, and summer moisture. See [[#Ursk and the northern forest]]. |
@@ -83,7 +90,7 @@ The western trough is a broad, elongated **Cymean low** over [[Cymea]] and [[~So
 
 These are different branches of one regional circulation. Higher pressure to the north and northwest of Sembara reinforces its southwestward inflow, while the maritime ridge farther east supports the offshore northward branch. Terrain and the detailed pressure pattern determine how these broad bearings change near individual coasts.
 
-The low develops early enough for coastal monsoon winds to begin during spring, before the Urskan High establishes the broader northern summer reversal. Spring and early-summer ships can sail northward through the waters west of Irrla, then northeastward into the northern westerly corridor toward Ursk. The persistence of some northward flow farther south does not guarantee the same passage once northern easterlies develop.
+The low develops early enough for coastal monsoon winds to begin during spring, before the Urskan High establishes the broader northern summer reversal. Spring and early-summer ships can sail north west of Irrla, then northeastward into the northern westerly corridor toward Ursk. The persistence of some northward flow farther south does not guarantee the same passage once northern easterlies develop.
 
 > [!note] Working hypothesis: Orenlas and the Cymean low
 > [[Orenlas]] already has magical mists and weather partly independent of the outside seasons. Its magic could favor the gathering and ascent of moist air across the surrounding region, helping the Cymean trough repeatedly develop in the same place. Ordinary continental heating supplies the broad seasonal cycle; Orenlas reinforces its location or persistence. This regional influence is an additional hypothesis, not something established by the forest's local weather alone. Fog itself does not imply low pressure, and cooling or shading the ground can weaken a low driven by surface heating.
@@ -121,9 +128,11 @@ The maps below show recurring seasonal patterns over matching regional crops of 
 
 ![[taelgar-green-sea-winter-v2.png|1400]]
 
-The maritime ridge lies across the southern basin and adjacent coast, with its center near Medju. Light, variable winds and dry, stable weather dominate its central region; southern calms are strongest in **January–February**. The Cymean summer low is no longer established.
+The maritime ridge lies across the southern basin and adjacent coast, with its center near Medju. Light, variable winds and dry, stable weather dominate its central region; southern calms are strongest in **January–February**. The Cymean summer low has subsided.
 
 Farther north, westerlies and passing storms bring maritime moisture. The northern blue area represents recurring passages of low-pressure systems, not a fixed winter low. Cold continental air supplies Ursk's winter cold, while storms and air crossing open water supply snowfall. The Eastern Isles retain their regional storm influence and local weather hazards.
+
+A proposed southern branch brings intermittent winter precipitation to Greater Sembara and Cymea; see [[#Winter storms from Chardon to the Green Sea]]. This branch is not yet drawn on the map.
 
 #### Spring
 
@@ -159,7 +168,7 @@ These are the assumed windows supporting [[Trading in the Green Sea]]. That note
 | --- | --- |
 | Late March–May | Southern easterlies open westbound travel from Medju; offshore northbound opportunities continue into June. |
 | April–June | Northern westerly opportunities support Tollen → Ursk, with greater storm exposure for early departures. Selected southern Ursk trading ports are normally accessible by early to mid-May; local magic can help maintain harbor and approach access. |
-| July–August | Northern E–NE winds support Ursk → Tollen despite the opposing eastward current. |
+| July–August | Northern E–NE winds support Ursk → Tollen and strengthen the fast westward coastal current. Offshore surface outflow weakens where those winds oppose it, allowing a slower alternative with more sea room. |
 | Mid-September–early October | Returning northern westerlies support eastbound departures from Ursk; the maritime high retreats south of southeastern Irrla by late September or early October. |
 | Autumn–December | Successive eastward, southward, and southwestward opportunities support selected Eastern Isles passages and December arrivals at Medju. |
 
@@ -168,24 +177,25 @@ These are the assumed windows supporting [[Trading in the Green Sea]]. That note
 
 ### Ocean circulation
 
-![[taelgar-green-sea-currents-v2.png|1400]]
+The detailed model is in [[Green Sea Ocean Circulation]], including the Western Gulf, marine productivity, seasonal changes, and unresolved underwater geography.
 
-*Blue arrows show the cooler northern branch; orange arrows show the warmer southern branch. These are schematic prevailing directions, not surveyed channels or current speeds. Eastern exchange passages remain unspecified.*
+![[taelgar-green-sea-currents-v3.png|1600]]
 
-The prevailing current branches are **cold water flowing west → east along the northern coast** and **warm water flowing east → west along the southern coast**. Their directions form part of a broadly clockwise circulation, divided by islands, shelves, and passages into branches and eddies. This description allows local reversals and seasonal changes in strength within the broader pattern.
+*Blue shows the cold northern inflow and westward coastal branch; orange shows warm southern inflow; teal shows their shared eastward offshore outflow. Dashed segments identify schematic exchange through or beneath the Eastern Isles. Grey double-ended arrows show Western Gulf exchange without assigning a fixed current through the straits. Arrows show water movement, not winds or ship routes; speeds and precise channels remain unassigned.*
 
-The northern summer wind reversal does not reverse the entire circulation. The eastward northern branch assists eastbound voyages and opposes westbound ones; its strength therefore matters to the summer return window.
+**Cold water enters in the northeast, warm water enters in the southeast, and the branches feed a shared eastward outflow between Ursk and Irrla.** The warm branch moves west through the southern basin and turns north west of Irrla. The cold branch moves west relatively close to the northern coast. They meet off northern Cymea, toward the western end of the Ursk–Irrla corridor, and mix progressively as their water returns east through offshore and deeper passages.
 
-> [!tip] Why wind and current arrows can point in different directions
-> Wind pushes the surface of the sea, but currents also respond to water piling up elsewhere, density differences, planetary rotation, and the shape of the basin. A regional current need not follow the local wind of that season. Summer easterlies could weaken or alter the northern eastward branch; its continued presence is a requirement of this model that still needs a physical explanation. **Warm** and **cold** describe relative water temperatures, not tropical water or freezing water everywhere along an arrow. See [NOAA's introduction to currents](https://oceanservice.noaa.gov/facts/current.html).
+Summer easterlies strengthen the narrow, fast coastal current, while the offshore surface outflow slows considerably where the winds oppose it. Spring and autumn westerlies favor the eastbound offshore passage. The result is a summer choice between coastal speed and a slower offshore route with more sea room, developed in [[Trading in the Green Sea#Summer return|the trade model]].
 
-> [!note] Working hypotheses
-> - Basin circulation and pressure gradients maintain an eastward northern branch against midsummer easterlies, with seasonal weakening or variation. Its persistence is assumed rather than derived from the wind field.
-> - Warm water enters through southern passages among the [[Eastern Isles]], with compensating return flow through other passages and possibly at depth.
-> - Winter cooling, exchange with deeper water, and local mixing or upwelling maintain the northern branch's cooler temperature. An Arctic gateway is not part of the mapped model.
+> [!tip] Surface currents and the whole-sea water balance
+> Winds strongly affect the upper ocean, while differences in sea level and density help maintain the larger circulation. A slower summer surface outflow can coexist with broader or deeper eastward return flow. Total inflow and outflow must balance over time, allowing for rivers, evaporation, and precipitation. Deep channels beneath the moving Eastern Isles provide exchange even where surface navigation is obstructed. Mixing itself does not propel the current or create cold water.
+
+Imported cold water and winter heat loss support the northern temperature regime. Warm southern inflow and sunlight maintain a warmer southern and western basin. Local layering, upwelling, and mixing modify this pattern; neither a cold northern current nor a warm southern current has one fixed temperature along its whole route. Keeping the strongest cold flow near the northern margin preserves substantial warmer water supplying moisture to Sembara and Cymea.
+
+The sheltered Western Gulf has smaller river- and wind-influenced currents and exchange through the Straits of Cymea. Its productive waters, especially along western Cymea, combine river nutrients, shallow-water recycling, mixing, and localized upwelling. Skaer banks and passages provide another productive region. The summer northern coast is generally downwelling-favorable, so generic monsoon upwelling cannot explain productivity everywhere.
 
 > [!question] Unspecified parameters
-> Current speeds, the northern heat balance, summer weakening, exchange channels and depths, transport volumes, salinity contrasts, and tidal strength remain unassigned. The circulation requires both inflow and outflow through the eastern passages.
+> Current speeds, transport volumes, salinities, the confluence position, eastern channel depths, and the vertical division of summer return flow remain unassigned. Skaer banks and local current branches require development; the Western Gulf's freshwater balance and layered strait exchange remain hypotheses. A single canyon inflow from the Plane of Water is optional and local. See [[Green Sea Ocean Circulation#Parameters left open|the ocean model's open parameters]].
 
 ### Regional climates
 
@@ -197,7 +207,7 @@ Summer provides enough warmth for boreal forest and limited agriculture. Passing
 
 #### Sembara
 
-Sembara receives maritime moisture on the northwestern side of the Cymean low during the spring and summer monsoon. Rainfall varies with coastal exposure, terrain, and individual episodes. Early coastal onset precedes the broader northern summer reversal; inland rainfall follows the routes by which moist air penetrates the terrain. This circulation supplies the maritime boundary conditions for a future Greater Sembara model, but does not determine its winter climate.
+Sembara receives maritime moisture on the northwestern side of the Cymean low during the spring and summer monsoon. Early coastal onset precedes the broader northern summer reversal; inland rainfall follows the routes by which moist air penetrates the terrain. The [[#Greater Sembara Climatic Model]] combines this summer supply with intermittent winter precipitation and a gradient from milder southern lowlands to cold northern highlands.
 
 #### Maseau and Aurbez
 
@@ -211,7 +221,7 @@ The Cymean low favors a humid spring and summer where maritime air reaches the l
 
 The [[Mistfold Mountains]] and other uplands redistribute rainfall. Exposed slopes are wetter and cooler, with cloud around ridges; sheltered valleys can be sunnier and drier. The [[Plataca Hills]] can shelter parts of western Cymea from easterly moisture, but access to Western Gulf air prevents a simple rule that the whole western coast is dry. Karst drainage can leave rocky ground locally dry even where rainfall is substantial.
 
-The model establishes a spring–summer moisture supply, not a complete annual rainfall calendar. Winter storm exposure and the balance between summer rain and winter rain remain to be assigned.
+The model establishes a spring–summer moisture supply. The proposed [[#Winter storms from Chardon to the Green Sea|winter storm route]] also gives Cymea a source of cool-season precipitation, but its frequency and the balance between summer rain and winter rain remain to be assigned.
 
 #### South Cymea and the Maritime Trade Peninsula
 
@@ -244,10 +254,78 @@ Within the [[Eastern Green Sea]], the [[Eastern Isles]] combine the regional sto
 > [!question] Unspecified parameters
 > - **Ursk:** temperatures, sea-ice limits, snowfall distribution, and local harbor conditions.
 > - **Sembara–Maseau:** the detailed boundary between monsoon rainfall and dry summer conditions, including local terrain effects.
-> - **Cymea, South Cymea, and the peninsula:** winter moisture sources, rainfall totals, the position of the summer trough, and the boundaries between wet coasts and drier interiors. Their mapped classes are flexible starting points, not fixed outcomes of the circulation model.
+> - **Cymea, South Cymea, and the peninsula:** the reach of the proposed winter storm route, other winter moisture sources, rainfall totals, the position of the summer trough, and the boundaries between wet coasts and drier interiors. Their mapped classes are flexible starting points, not fixed outcomes of the circulation model.
 > - **Irrla:** seasonal rainfall, exposure contrasts, and how often the summer high sits over the island rather than nearby.
 > - **Medju:** coastal rainfall seasonality and the extent of the greener coastal strip. A Tunisia-to-Sahara landscape gradient does not prescribe Tunisia's exact rainfall calendar.
 > - **Eastern Isles:** storm frequency and seasonality, individual island climates, and the local expression of the seasonal winds.
+
+## Greater Sembara Climatic Model
+
+%% Speculative ideas generated by AI at user request; not canon. %%
+
+The agricultural core of [[Greater Sembara]] has a **humid temperate climate with a summer rainfall maximum and seasonally reversing winds, but no pronounced winter dry season**. Four distinct seasons, fertile soils, and dependable moisture support its role as a breadbasket. This lowland pattern grades into colder northern and western highlands, with a drier summer fringe toward Maseau.
+
+[[Addermarch]] and southern Sembara lie around **39° N**, with local variation. Their working comparison is the mid-Atlantic Appalachian region: warm to hot, humid summers, changeable lowland winters, and substantially snowier high ground. The regional circulation still draws on an East Asian monsoon framing. The comparison supplies a temperature and landscape target, not an imported American wind pattern or an exact rainfall calendar.
+
+%% Development anchors: the approximate southern latitude, Appalachian comparison, and bitter Brevan winter with lasting ordinary snow were confirmed by Tim in the development discussion for this model. %%
+
+### Seasonal circulation over Sembara
+
+During spring and summer, the Cymean low and surrounding higher pressure bring **NE → SW maritime inflow** from the Green Sea. The early coastal wind change precedes the strongest inland rains. Air arriving from the sea can produce showers, thunderstorms, or longer rainy spells when it rises over terrain or meets cooler air, with sunny intervals between episodes. The model retains the Green Sea's seasonal winds and sailing windows without requiring a sudden switch from drought to continuous rain.
+
+In winter, cooling over the northern interior favors high pressure and recurring cold, dry continental winds. The Sentinels also reduce the moisture carried by ordinary westerlies. These tendencies remain strongest in the northern interior and highlands, where winter cold can persist. Farther south, passing weather systems interrupt them often enough to provide rain or snow and alternating freezes and thaws.
+
+The proposed [[#Winter storms from Chardon to the Green Sea|winter storm route]] supplies those interruptions. Lows passing south of the heartlands can draw moist air inland from the east even while the broader winter circulation favors westerlies. These are temporary weather events; they do not require the Cymean summer low to persist through winter. Their timing relative to cold spells determines whether a district receives rain, sleet, or snow.
+
+> [!tip] A wetter summer can coexist with useful winter rain
+> Seasonal wind reversal and rainfall contrast are related, but not identical. Winter winds can usually be drier while passing fronts still deliver appreciable precipitation. Cooler weather also reduces evaporation and plant water use, so less rain can leave the ground damp for longer. A muddy winter is therefore compatible with a summer rainfall maximum.
+
+### Seasonal cycle in the agricultural lowlands
+
+| Season | Typical pattern in this model | Rivers and agriculture |
+| --- | --- | --- |
+| Spring | Variable temperatures, late frosts, and regular rain as maritime inflow strengthens. | Mountain snowmelt raises rivers; rain supports growing winter grain and pasture, while wet ground periodically delays fieldwork. |
+| Early summer | Warm, sometimes hot and humid, with showers separated by sunny intervals. | Ordinary drying windows allow haymaking and, where crops have ripened, grain harvesting. Precise harvest dates remain unassigned. |
+| Later summer | The strongest inland rain tendency, with thunderstorms and occasional longer rainy spells. | Summer millet, soybeans, and pasture receive moisture; the Enst's late-summer rise is preserved. Floods and harvest disruption remain possible. |
+| Autumn | Cooling weather and diminishing, continuing rainfall, with settled intervals. | Weather permits summer-crop harvests and autumn sowing; rain establishes winter grain. Cleenseau's recorded October rain fits this season. |
+| Winter | Relatively less precipitation, with frosts, cold spells, rain or snow, and thaws in the southern lowlands. | Wet or frozen ground limits travel and fieldwork. Snow lasts longer in uplands and the northern interior than in the southern valleys. |
+
+This is a lowland seasonal pattern, not a calendar for every elevation. The Breva–Great Chasm region retains bitter winters and lasting snow; warmer lowland conditions should not be extended into that campaign's setting.
+
+### Rivers and farming
+
+The [[Heartlands]], especially the [[Semb]] and [[Wistel]] valleys, support dense wheat production alongside sheep and cattle grazing. [[Greater Sembara]] also establishes winter wheat, summer millet, and soybeans, while [[Cleenseau Region]] describes a local mix dominated by barley, winter wheat, millet, pasture, and orchards. The model must provide enough warmth and moisture for these crops without making saturated fields or ruined harvests the normal condition.
+
+Rain should be dependable across the growing season, with ordinary dry intervals for working soil, cutting hay, and harvesting grain. Good drainage distinguishes productive fields from neighboring marshes. More rain is not always better: prolonged waterlogging damages wheat, and rain on ripe grain can reduce its quality. The target is reliable production across a large agricultural region, with local and occasional weather losses. See [wheat and waterlogging](https://extension.umn.edu/agriculture/crop-production/small-grains/wheat-flooding-and-waterlogging) and [mid-Atlantic bread wheat](https://www.pubs.ext.vt.edu/424/424-024/424-024.html).
+
+Mountain snowmelt and summer rain supply rivers at different times. The Enst's spring and late-summer rises are explicit constraints, but other catchments need not peak on identical dates. As a working hypothesis, groundwater and other catchment storage help maintain flow between wetter periods; their importance remains unassigned. High river flow does not by itself water upland fields, and no extensive irrigation network is assumed here. The farming climate must supply adequate soil moisture as well as navigable rivers.
+
+### Regional differences within Greater Sembara
+
+| Region | Working climatic treatment |
+| --- | --- |
+| Southern Sembara and the Cleenseau district | Warm, humid summers and changeable winters, with intermittent snow and frozen spells rather than continuous lowland snow cover. The transition to drier Maseau lies nearby and needs local definition. |
+| Sembaran heartlands, including Embry | Productive temperate riverlands with reliable growing-season moisture. Winter severity varies with latitude, exposure, and distance inland; neither frost dates nor river-ice duration are assigned. |
+| Addermarch and the Mostreve Hills | Milder lower valleys, cooler and snowier uplands, and substantial variation with slope exposure. Rain and mud can hinder winter travel in the valleys while snow obstructs higher roads. |
+| Tyrwingha and the southern gulf coast | A candidate area of stronger maritime moderation, sharing the summer moisture supply and intermittent winter precipitation. The exact temperatures and local contribution of fey influences remain open. |
+| Ardlas, Breva, and the northern interior highlands | Increasing cold and shorter growing seasons with latitude, elevation, and continental exposure. [[Ardlas]] has dry, frosty winter intervals and summer rainfall; Breva's bitter winter and lasting snow remain firm campaign constraints. |
+| Tollen and the lower Volta; Vostok farther inland | Coastal exposure and a more northerly position must both be accounted for. Winter temperatures, snowfall, and river or harbor ice remain less constrained by play. Cold, dry interior plateaus should remain distinct from coastal districts. |
+| Maseau and the southwestern fringe | Retain the established hot, dry summer tendency toward [[Aurbez and the Andonne\|Aurbez]]. Moisture loss, slope exposure, and limits on rain-cloud development must explain the transition from the wetter riverlands. |
+
+### Sembaran uncertainties and source limits
+
+> [!note] Weather observations are local constraints
+> Cleenseau's October rain and Peydon's early-March puddles and ferry crossing establish possible conditions on particular dates; they do not determine monthly averages or exclude earlier freezes. The near-freezing fog in [[Cleenseau - Session 32]] occurs after entering the Feywild and is not used as evidence of Sembara's ordinary October climate. Likewise, the unnatural storm and labyrinth in [[Into the Chasm - Episode 01]] are separate from the campaign's confirmed ordinary northern winter.
+
+%% Source detail: the weather descriptions for Cleenseau sessions 01 and 22 are retained in [[Cleenseau - Session 01 - Original]] and [[Cleenseau - Session 22 - Original]] under _sessions, but are abbreviated out of later summaries. For session 22, use the finalized 1–3 March DR 1720 chronology in [[Cleenseau - Session 22]], not the older source header's 1–23 March range. The near-freezing Feywild scene is in [[cleenseau-blog-827993 - Original]]. These versions are not independent observations. %%
+
+> [!question] Unspecified parameters
+> - **Winter storm reach:** the frequency, strength, and inland penetration of maritime precipitation must be sufficient for the southern and central agricultural lowlands without erasing the colder, drier northern interior or the Western Gulf's relative shelter.
+> - **Temperatures and crop calendar:** monthly temperatures, frost dates, snow-cover duration, rainfall totals, and the timing of grain ripening and haymaking remain unassigned. The proposed early-summer drying windows are a design requirement, not an established annual dry spell.
+> - **Regional boundaries:** the Cleenseau–Maseau transition, differences between Embry and the coast, and the winter climates of Tollen and Vostok need more detail. Groundwater contributions and the seasonal behavior of each river also remain unquantified.
+> - **Older climate descriptions:** the general cold, dry winters in [[Greater Sembara]] and the stronger Dwa/Dwb seasonality in [[Climate Notes]] require reconciliation with this model's gentler lowland rainfall cycle. No replacement Köppen classes are assigned yet.
+
+%% Potential conflict for review: [[Greater Sembara]] describes winter broadly as cold and dry; [[Climate Notes]] gives Sembara Dwa/Dwb and compares Tollen with Beijing. This provisional model instead adopts appreciable winter precipitation in the agricultural lowlands and preserves stronger continental winters in the north and highlands. [[Addermarch]], [[Adderfell]], and [[Mostreve Hills]] already describe wetter or milder southern conditions. The older generalizations and climate-map boundaries have not been revised here. %%
 
 ## Dunmar–Chardon Climatic Model
 
@@ -307,6 +385,9 @@ These comparisons supply selected mechanisms or landscape targets. No single rea
 | Urskan High | Okhotsk-like episodic summer high pressure associated with cool maritime air; not a demonstration of the ridge's Taelgar position or reliability. |
 | Recurring regional summer winds | Etesians: organized seasonal winds under a regional pressure contrast; not a rainfall analog for Sembara or the taiga. |
 | Chardonian heartland | Mediterranean seasonal contrast between dry summers and winter rain. |
+| Southern Sembara and Addermarch | Mid-Atlantic Appalachian temperature and landscape targets: humid summers, changeable lowland winters, and snowier uplands. The seasonal wind reversal is developed separately. |
+| Greater Sembaran circulation | East Asian monsoon mechanisms for seasonal maritime inflow, with a gentler rainfall contrast in the agricultural lowlands; not a uniform Manchurian temperature regime. |
+| Winter storms east of the Sentinels | Mediterranean lee cyclogenesis: disturbances cross mountains aloft and lows form or reorganize downstream. The proposed Taelgar route and its frequency remain hypotheses. |
 | Maritime Trade Peninsula | Seasonally wet subtropical coasts, with local variation in the strength of winter drying. |
 | Medju and the Great Desert | Tunisia-to-Sahara coastal–interior landscape contrast; exact rainfall seasonality remains open. |
 
@@ -322,28 +403,52 @@ These sources support mechanisms and comparisons, not the specific geography or 
 - [Japan Meteorological Agency: the Okhotsk High](https://www.data.jma.go.jp/cpd/j_climate/hokkaido/column_okho.html): episodic northern summer high pressure associated with cool maritime air.
 - [Tyrlis and Lelieveld, 2013: climatology and dynamics of the Etesians](https://journals.ametsoc.org/view/journals/atsc/70/11/jas-d-13-035.1.xml): recurring summer winds organized by regional pressure contrasts.
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect): mechanisms for warmer, drier lee-side air; application depends on mountain orientation and wind paths.
+- [Aragão and Porcù, 2022: Cyclonic activity in the Mediterranean region](https://doi.org/10.1007/s00382-021-05963-x): cyclone formation around mountains and an enclosed sea, including lee cyclogenesis; a mechanism comparison for the proposed winter route east of the Sentinels.
+- [National Weather Service: pressure systems and fronts](https://www.weather.gov/lmk/basic-fronts): moving lows, circulation, and precipitation extending beyond a low's center.
+- [Virginia Cooperative Extension: growing bread wheat in the mid-Atlantic](https://www.pubs.ext.vt.edu/424/424-024/424-024.html) and [University of Minnesota Extension: wheat flooding and waterlogging](https://extension.umn.edu/agriculture/crop-production/small-grains/wheat-flooding-and-waterlogging): drainage and harvest-weather constraints on a productive grain region, not a prescribed Sembaran crop calendar.
 - [NOAA: boundary currents](https://oceanservice.noaa.gov/education/tutorial_currents/04currents3.html) and [what drives currents](https://oceanservice.noaa.gov/facts/current.html): background circulation and exchange. The island-filled Green Sea requires more local treatment than a textbook ocean gyre.
 - [NOAA: coastal upwelling](https://www.psl.noaa.gov/news/2021/060821.html): directional coastal responses and the influence of other current components.
 - [NOAA: northeast shelf phytoplankton](https://www.integratedecosystemassessment.noaa.gov/regions/northeast/northeast-phytoplankton): productivity supported by river inputs, winter and tidal mixing, and localized upwelling.
 
 ### Related worldbuilding documents
 
-[[Climate Map]], [[Climate Notes]], and [[Green Sea Notes]] provide the main climatic design background. [[Trading in the Green Sea]] develops the route calendars and commercial implications. [[conflicts]] separately records discrepancies with other vault material.
+[[Climate Map]], [[Climate Notes]], and [[Green Sea Notes]] provide the main climatic design background. [[Green Sea Ocean Circulation]] develops the currents, temperatures, marine productivity, and Western Gulf exchange. [[Trading in the Green Sea]] develops the route calendars and commercial implications. [[conflicts]] separately records discrepancies with other vault material.
 
-## Connections Between Regional Climates
+## Cross-Continental Climate Connections
 
 These are shared influences and constraints to check when developing neighboring regions. They do not require every regional circulation to be part of one pressure system.
 
 %% Speculative ideas generated by AI at user request; not canon. %%
 
-- **Green Sea → Greater Sembara:** the sea supplies spring and summer moisture, with early coastal inflow preceding the northern shipping corridor's July–August reversal. A Greater Sembara model must preserve that sequence, but it still needs its own account of winter temperatures, winter precipitation, inland rainfall, and elevation. The Green Sea model alone does not choose between a strongly seasonal East Asian framing and a milder European framing; either must explain how it produces its inland climate with the mapped sea and mountain barriers.
+### Winter storms from Chardon to the Green Sea
+
+The working model adds a **southern winter storm corridor** connecting the western coast, the Sentinels, Greater Sembara, and the Green Sea. It provides intermittent winter rain or snow to the Sembaran lowlands and Cymea while retaining a drier winter overall and a colder northern interior.
+
+- **Approach from the west:** disturbances in the winds high above the ground move eastward across the western coast and Chardon. A disturbance is a bend in the upper-air flow that can organize rising air and low pressure below. The Sentinels remove much of the incoming moisture and disrupt surface weather systems, but the disturbance overhead can continue across them.
+- **Formation or reorganization east of the Sentinels:** a low develops or reforms downstream of the mountains. This process is called **lee cyclogenesis**. The candidate surface route runs from the eastern side of the Sentinels through the **Maseau–Mostreve sector, toward Tyrwingha and Cymea**, generally south of the main Sembaran agricultural heartlands. This is a broad corridor, not a surveyed track or a requirement that every low follow the same path.
+- **Maritime moisture drawn inland:** while the low lies south or southeast of the heartlands, its counterclockwise circulation brings air from the **east or northeast**, across the Western Gulf and into Sembara. Moist air rises over colder inland air and over exposed slopes, producing broad areas of cloud, rain, or snow. This eastern moisture supply does not need to survive a crossing of the Sentinels. The low's precise position and the depth of the cold air determine local winds and precipitation type.
+- **Departure over the Green Sea:** the low moves eastward offshore. Some systems weaken; others strengthen over open water and curve northeast into the northern storm track, toward waters off Ursk and the eastern sea. As a low moves away from Sembara, winds can turn northerly and then westerly, bringing colder or drier air and clearing intervals. Neither every low nor all its rain must travel the full route.
+
+> [!tip] An eastbound storm can bring westbound winds
+> A weather system's movement is different from the air circulating around it. On the northern side of a Northern Hemisphere low, air generally travels east → west even while the whole low moves east. The associated rain or snow can also extend well beyond its center. A sequence of these events can interrupt Sembara's prevailing winter westerlies without replacing them with a permanent winter monsoon.
+
+The [[Western Gulf]] remains relatively sheltered in this model. Its ordinary winter rainmakers are weaker lows and the broad fronts associated with nearby systems; the most vigorous development usually occurs farther offshore. A rainy spell over farmland need not coincide with severe gales throughout the gulf. The strength and frequency of these systems must be checked against both the sheltered navigation constraint and the required inland moisture supply.
+
+These winter lows differ from the Cymean summer trough: they are moving weather systems organized by upper-air disturbances and temperature contrasts, rather than the recurring summer pattern driven by continental heating. Their passage may give Cymea appreciable winter rainfall, but does not yet establish the winter rainfall of all South Cymea or the Maritime Trade Peninsula. Mediterranean lee cyclogenesis is a useful physical comparison, not a demonstration that the proposed Taelgar track must occur.
+
+> [!question] Storm-track details and map coverage
+> The favored formation sites, track width, frequency, intensity, and reach of rain inland remain unassigned. The current Green Sea winter map shows the main northern storm corridor; it does **not yet show this southern branch** or the full continental winter pressure pattern. A later map should distinguish moving storm tracks from seasonal wind arrows and broad pressure regions.
+
+### Other regional connections
+
+- **Green Sea → Greater Sembara:** early coastal inflow precedes the northern shipping corridor's July–August reversal. The [[#Greater Sembara Climatic Model]] retains that sequence, with a summer rainfall maximum, intermittent winter precipitation, and ordinary dry intervals for farming. Wind reversal does not require an extreme winter dry season across the breadbasket.
 - **Cymea and Orenlas ↔ the western Green Sea:** the Cymean low links southwestward inflow toward Sembara with northward offshore flow west of Irrla. Changes to the trough's location affect both sailing routes and regional rainfall. Orenlas may help it recur in the same region, while continental heating controls its broader seasonal development.
 - **Sembara → Maseau and Aurbez:** onshore moisture must diminish or become less effective toward the dry interior. Moisture loss, terrain, and inhibited cloud growth can contribute, while occasional wet incursions allow thunderstorms. The boundary remains to be worked out; an easterly wind need not bring equally wet weather to every place it crosses.
-- **Chardon ↔ Sembara across the Sentinels:** western winter storms and eastern summer moisture reach different faces of the range. The [[Sentinel Range]] therefore separates seasonal rainfall regimes as well as channeling the few routes between them. Neither side's lowland climate should simply be extended across the mountains.
+- **Chardon ↔ Sembara across the Sentinels:** western winter storms and eastern summer moisture reach different faces of the range. Upper-air disturbances can also cross the mountains and help organize the [[#Winter storms from Chardon to the Green Sea|southern winter storm corridor]], drawing a new moisture supply from the Green Sea. The [[Sentinel Range]] remains a strong climatic boundary; neither side's lowland climate should simply be extended across it.
 - **Dunmar ↔ Chardon across the Chataans:** the transition from Nevos-fed summer rain to Chardonian winter rain occurs across varied slopes and foothills. Monsoonal rain on exposed Chataan slopes can coexist with predominantly winter rain at [[Alta Tonaro]]. A single latitude or crest line does not define the entire transition.
 - **Dunmar ↔ Sembara:** both receive seasonal maritime moisture, from different seas and in different directions. They share the annual heating cycle and may influence one another through the wider atmosphere, but neither monsoon currently explains the other. There is no requirement for their onset dates to coincide or for moist air to pass continuously between them.
 - **Green Sea ↔ Medju's desert interior:** maritime winds and locally greener shores must coexist with persistent aridity farther inland. Eastern mountain shelter alone cannot block moisture from the sea to the north; the regional model must also limit inland transport or rainfall development.
-- **Green Sea ↔ the ocean beyond the Eastern Isles:** the magical storm zone supplies an eastern pressure contrast that helps maintain the Green Sea ridge and its southward-flowing eastern flank; the wider Outer Ocean pressure pattern remains unmodeled. Ocean exchange is a separate connection: warm inflow needs compensating outflow, potentially through other channels or at depth. Channel depths, transport, and the ocean's own currents remain unassigned.
+- **Green Sea ↔ the ocean beyond the Eastern Isles:** the magical storm zone supplies an eastern pressure contrast that helps maintain the Green Sea ridge and its southward-flowing eastern flank; the wider Outer Ocean atmospheric pattern remains unmodeled. [[Green Sea Ocean Circulation]] separately proposes cold northeastern and warm southeastern ocean inflows, feeding a shared eastward outflow offshore between Ursk and Irrla. Deep passages beneath moving islands permit exchange where surface navigation is obstructed. Channel depths, transport, and the wider Outer Ocean circulation remain unassigned.
 
 > [!note] Connections not yet established
 > A continuous bent trough linking northern Nevos, the country south of Aurbez, and southeast Sembara remains an optional hypothesis, not part of the required explanation. Regional heating, terrain, and several separate pressure centers may be enough. Any future combined pressure map must reproduce the local wind directions without implying that every low-pressure sector is wet. In rainy sectors, heat released when water vapor condenses can reinforce circulation; that does not demonstrate a connection across the dry interior.

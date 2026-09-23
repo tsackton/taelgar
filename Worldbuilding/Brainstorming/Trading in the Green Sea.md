@@ -1,10 +1,10 @@
 ---
-tags: [meta]
+tags: [meta, status/check/ai]
 excludePublish: [all]
 ---
 # Trading in the Green Sea
 
-This is the working trade model accompanying [[Taelgar Climatic Model]] and the development of a Green Sea climatic model. The intended vibe and pattern this creates is a Green Sea trading culture organized around regular, recognizable sailing seasons, concentrated on specific routes at specific times of the year. The goal is to recreate some of the historical vibes of the medieval Indian Ocean trade. Merchants can plan around the winds, while onset, storms, cargo availability, and local hazards still make individual voyages uncertain.
+This is the working trade model accompanying [[Taelgar Climatic Model]] and [[Green Sea Ocean Circulation]]. The intended vibe and pattern this creates is a Green Sea trading culture organized around regular, recognizable sailing seasons, concentrated on specific routes at specific times of the year. The goal is to recreate some of the historical vibes of the medieval Indian Ocean trade. Merchants can plan around the winds, while onset, storms, cargo availability, and local hazards still make individual voyages uncertain.
 
 ## World Assumptions
 
@@ -61,9 +61,11 @@ The southeastern network connects the [[~Maritime Trade Peninsula~|Maritime Trad
 
 ### Network map
 
-![[green-sea-trade-networks.png|1600]]
+![[green-sea-trade-networks-v2.png|1600]]
 
-*Expanded schematic based on the existing Green Sea route map. Blue and teal distinguish the direct northern outward and return seasons; purple connections show Cymean exchange and western extensions; the southern and eastern arrows illustrate selected circuits. Grey dotted links identify regional connections whose reciprocal sailing seasons remain unresolved. The proposed Cymean exchange area is not an assigned port. Use [[world-map-regions-new.png]] for geographic detail and distance measurements; this generated illustration is not a pilotage chart.*
+*Sea-trade corridors drawn on a crop of taelgar-basemap.jpg, the same basemap used by [[Taelgar Climatic Model]]. Colored arrows distinguish seasonal voyages; purple dotted lines show proposed Cymean exchange connections, and grey dotted lines show regional links whose sailing seasons remain unresolved. The Cymean straits share a thin passage shown in an enlarged inset. Open circles mark offshore approaches or market areas, not exact harbors; Tollen's inland river leg is omitted. Routes stay in the sea, but remain schematic corridors rather than pilotage tracks. North is up; small hexes are 24 miles face-to-face.*
+
+*The northern return line illustrates the offshore option. The faster coastal alternative described under [[#Summer return]] is not plotted as a navigable route; the separate map in [[Green Sea Ocean Circulation]] shows its regional current and the shared offshore outflow.*
 
 ## Seasonal Navigation
 
@@ -74,15 +76,15 @@ The broad direction of traffic changes with the seasons. Favorable winds reduce 
 | Southern sea, late March–April | Westward from Medju, continuing toward the peninsula. | Very few ordinary ships depart Medju northeastward in April. Departures westward can serve several different itineraries. |
 | Western basin, spring–early summer | Northward opportunities offshore, continuing into June. | Ships can turn north from the peninsula or add Cymean business before proceeding toward Ursk. Route and timing matter around the coastal monsoon transition. |
 | Tollen–Ursk, April–June | Eastward through the straits and across the northern sea. | Earlier departures face greater storm exposure and uncertainty about northern port access; late departures approach the summer wind reversal. |
-| Northern corridor, July–August | Westward under recurring E–NE winds. | Direct Ursk–Tollen returns become the normal choice. The same season supports some western extensions by other traders. |
+| Northern corridor, July–August | Westward under recurring E–NE winds. | Direct Ursk–Tollen returns use either the fast but hazardous coastal current or a slower offshore passage with more sea room. The same season supports some western extensions by other traders. |
 | Northern sea, mid-September–early October | Eastward as westerlies return. | Ships leave Ursk toward the Eastern Isles. Autumn also permits eastbound voyages from Tollen, with increasing risk later in the season. |
 | Southeastern Irrla, late September–early October | Eastward after the maritime high retreats. | An Irrla summer can lead into an autumn island itinerary. |
 | Eastern and southern routes, autumn–December | Successive eastward, southward, and southwestward opportunities. | Selected island stops can lead to December arrival at Medju. Local legs have different winds and hazards. |
 | Medju, winter | Increasing light-wind delays, strongest in January–February. | December arrival is an ordinary target for ships wintering there; other winter bases support different calendars. |
 
-The northern current remains **eastward** during the summer return season, though plausibly weakens in the face of the opposing wind. It assists spring outward passages and hinders westbound returns; useful easterlies must overcome that disadvantage. The warm southern westward current can assist the approach to Medju but does not remove calms or difficult channels.
+[[Green Sea Ocean Circulation]] distinguishes a **cold westward coastal current** from a **shared eastward offshore outflow between Ursk and Irrla**. Summer easterlies strengthen the coastal current and considerably weaken offshore surface outflow where they oppose it. Spring and autumn eastbound ships can seek the offshore current, then cross the coastal branch when approaching or leaving Ursk's ports. The warm southern westward current assists travel from Medju toward the peninsula; selected westward legs approaching Medju can also benefit, without removing calms or difficult channels.
 
-The direct northern crossing has to proceed without intermediate harbors past the Skaer Islands, since these are canonically dangerous (though, possibly less so with the death of [[Rhodar von Glauer]]). 
+The direct northern crossing has to proceed without intermediate harbors past the Skaer Islands, since these are canonically dangerous (though, possibly less so with the death of [[Rhodar von Glauer]]). The coastal alternative does not assume a chain of safe Skaer stopovers; its current assistance trades against more demanding navigation.
 
 Shorter Western Gulf voyages have more frequent opportunities through much of the year, interrupted by storms and local conditions.
 
@@ -140,7 +142,19 @@ Two assumptions guide this model, neither of which is completely established in 
 - The second assumption is that agents for Tollen merchants are established in Urskan ports; these might be Tollish purchasing agents, local factors, or other arrangements, but this requires extending the closed-port design of Urskan cities to provide foreign districts with space for long-term residents. 
 ### Summer return
 
-**July–August easterlies** support the direct return to Tollen, with ordinary arrivals home during August or early September. Returning is seasonally more straightforward than judging the earliest outward departure, although the opposing current, weather, and vessel performance still matter. Returns must still be timed to reach Tollen before the summer winds shift unfavorably. 
+**July–August easterlies** support the direct return to Tollen, with ordinary arrivals home during August or early September. Captains have two useful choices, or can combine them over different stretches:
+
+| Return route | Benefit | Cost |
+| --- | --- | --- |
+| Offshore passage | More sea room and fewer coastal obstacles; opposing eastward surface flow is weakened by the easterlies. | Less current assistance and potentially a longer passage, requiring more provisioning and departure margin. |
+| Northern coastal current | Wind and current both assist westward travel, creating a meaningful speed advantage and potentially permitting a later departure within the summer window. | A faster current close to shoals, islands, and headlands makes mistakes costly. The northwestern reaches require especially good regional knowledge and seamanship. |
+
+The productive but difficult waters of [[Skaerhem]] make Skaer expertise valuable without making long-distance commerce central to their society. Tollish captains must judge their own knowledge, vessel, cargo, and weather margin; some can use the current along part of Ursk's coast and stand offshore before the hardest Skaer passages. No routine access to Skaer pilots or harbors is assumed.
+
+The faster route can make extra trading time in Ursk worthwhile, but does not establish a dependable extension beyond the summer wind reversal. Returning autumn westerlies can oppose a persisting westward current and steepen waves. Late departures therefore trade commercial opportunity against greater weather and navigational exposure. [NOAA: sea-state forecasting](https://www.ndbc.noaa.gov/faq/sea_state_forecasting.shtml).
+
+> [!tip] Current assistance is significant but local
+> A one-knot current aligned with a route contributes about 28 statute miles over 24 hours. This is an illustration, not an assigned coastal speed or a daily bonus to the passage budgets: detours, waiting, night navigation, and time outside the current reduce the gain. The offshore and coastal alternatives need separate route estimates before changing the worked calendars.
 
 Early spring arrivals may spend appreciably longer in Ursk before the westbound season begins. 
 
