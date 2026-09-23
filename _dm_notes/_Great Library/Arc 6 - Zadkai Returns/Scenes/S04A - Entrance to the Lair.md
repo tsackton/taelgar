@@ -6,12 +6,16 @@ Massive round door has been smashed open, looks like it was battered by a hurric
 
 ### Interior
 
-The interior is silent and calm, but there are obvious signs of exploration and damage. This
+The interior is silent and calm, but there are obvious signs of exploration and damage. 
 
-Inside, quiet and calm. Obvious signs of exploration. 
+Originally, this was basically a entry room or a welcome chamber. Mostly practical. A place to meet visitors (rare), to occasionally sleep when needed, a study. This was largely just a holding point for the extradimensional portal and vault below. 
 
-"Door" in far wall - oval that has three obvious locks, and doesn't appear to lead anywhere. 
+Now, it is thoroughly ransacked. Things destroyed, broken, overturned. Someone has combed through this room completely, and it is hard to tell what was once here. Might have been some kind of meeting hall or entry room - there are pieces of chairs, and tapestries, and a rug - all shredded. Pieces of books, torn up. Splinters of wood from wrecked chairs. 
 
-Interior has been thoroughly ransacked. Things destroyed, broken, overturned. Someone has combed through this room completely, and it is hard to tell what was once here. Might have been some kind of meeting hall or entry room - there are pieces of chairs, and tapestries, and a rug - all shredded. 
+Investigation/perception can reveal signs that someone was looking for something (maybe, DC 20ish), this happened in the past ~month (DC 15ish), someone or something camped here (DC 12ish) but didn't require food or water (DC 18ish). Maybe other clues with a great roll or careful investigation. 
 
-In the center of the room is a hole. Spiral staircase leads down into darkness. 
+This was ransacked by air elementals working for Zadkai, searching for the keys to the vault in the room below, to no avail. 
+
+## Exit
+
+In the center of the room is a hole. Spiral staircase leads down into darkness. No end in sight, even with darkvision, but it is a tight spiral so hard to see too far down. 
