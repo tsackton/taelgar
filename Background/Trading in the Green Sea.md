@@ -4,15 +4,17 @@ excludePublish: [all]
 ---
 # Trading in the Green Sea
 
-This is the working trade model accompanying [[Taelgar Climatic Model]] and [[Green Sea Ocean Circulation]]. The intended vibe and pattern this creates is a Green Sea trading culture organized around regular, recognizable sailing seasons, concentrated on specific routes at specific times of the year. The goal is to recreate some of the historical vibes of the medieval Indian Ocean trade. Merchants can plan around the winds, while onset, storms, cargo availability, and local hazards still make individual voyages uncertain.
+This note describes broad patterns of oceanic trade in the Green Sea, guided by [[Taelgar Climatic Model]] and [[Green Sea Ocean Circulation]]. This is intended as a background overview; local details can change and especially the local trade in the poorly developed southeastern Green Sea, plus the impact of the northeastern Green Sea, remains to be established. Currently, the [[#The Tollen–Ursk Trading Season|Tollen-Ursk trading season]] and the [[#Halfling Itineraries and Regional Routes|halfling annual circuit]] are the most developed routes, but **should not be read as the primary or only trading routes in the Green Sea.**
 
-## World Assumptions
+The vibe and pattern of the Green Sea trading culture as a whole, however, is organized around regular, recognizable sailing seasons, concentrated on specific routes at specific times of the year. This is influenced by some of the historical vibes of the medieval Indian Ocean trade. Merchants can plan around the winds, while onset, storms, cargo availability, and local hazards still make individual voyages uncertain.
 
-The model describes a network of seasonal trade. Individual ships usually follow selected portions of that network, while goods can travel farther through exchanges between merchants and vessels. A recognizable annual circuit is one useful itinerary within this system, often followed by halfling family ships, but is not intended to be the primary or exclusive way goods flow around the Green Sea. 
+## Assumptions
+
+The model describes a network of seasonal trade. Individual ships usually follow selected portions of that network, while goods can travel farther through exchanges between merchants and vessels. A recognizable annual circuit is a possible itinerary within this system, and one often followed by halfling family ships, but is not intended to be the primary or exclusive way goods flow around the Green Sea. 
 
 The principal design constraints are:
 
-- **Western commercial power:** Tollen dominates western maritime commerce. Its guilds have extensive reach and control; Tollen itself is not a free port, however, and charges duties for goods imported by non-Guild merchants. 
+- **Western commercial power:** Tollen dominates western maritime commerce. Its guilds have extensive reach and control; Tollen itself is not a free port, however, and charges duties for goods imported by non-Guild merchants, presumably with exceptions for halflings. 
 - **Direct northern trade:** a same-year Tollen–Ursk round trip is normal. Overwintering in Ursk is a rare alternative, that would require a specific purpose, but which should be feasible given weather and wind. 
 - **Unequal familiarity:** Ursk's authorized trading ports are much more familiar to Tollender merchants than Medju or the Eastern Isles, or even Irrla. Far-eastern goods commonly reach Tollen through intermediaries.
 - **Halfling itineraries:** family ships connect regional markets through annual circuits, specialized routes, and longer journeys. 
@@ -29,15 +31,26 @@ Additional established anchors can be added as needed. Clarify whether the model
 
 ## Commercial Geography
 
+> [!image|hero]
+> ![[green-sea-trade-networks-v2.png]]
+> *Sea-trade corridors in the Green Sea. Colored arrows distinguish seasonal voyages; purple dotted lines show proposed Cymean exchange connections, and grey dotted lines show regional links whose sailing seasons remain unresolved. Open circles mark offshore approaches or market areas, not exact harbors; Tollen's inland river leg is omitted. Routes represent schematic corridors rather than pilotage tracks. The northern return between Tollen and Ursk illustrates the offshore option. The faster coastal alternative described under [[#Summer return]] is not plotted as a navigable route; the separate map in [[Green Sea Ocean Circulation]] shows its regional current and the shared offshore outflow. Small hexes are 24 miles face-to-face.*
 ### Tollen and the guild network
 
 Tollen combines access to the Volta hinterland and Sembaran markets with shipbuilding, textile production, dyes, magical inks, and maritime services. Its navy protects the Western Gulf and controls the straits connecting it to the wider sea. The [[Port of Tollen]] connects deepwater quays and warehouses with the river trade above the Tollen Bridge.
 
-The working economic interpretation is that customs duties protect the interests of the city's guilds. Profitable access to those guilds, their industries, and their customers draws trade to Tollen. Openness to visitors does not imply unrestricted or lightly taxed sales of goods.
+Customs duties preserve a protected role for guild-affiliated importers. Guild merchants bring home goods bought abroad at much lower duties than independent outside traders, though once properly imported, goods can be sold freely in the city's markets, subject to market fees and similar charges. Access to the guilds, their industries, and their customers makes Tollen an attractive destination despite the duties, though this arrangement encourages projection of Tollen commercial interests and drives many of the benefits of Tollish trade towards local guilds. Halflings typically are treated as guild-affiliated by the customs rules of the city. 
 
-Guild commerce extends through resident factors, purchasing agents, partners, and cargo carried aboard independently owned ships. A factor can arrange purchases and onward carriage without a Tollender vessel completing the entire route. Conversely, a halfling ship can sell eastern goods at an intermediate market and leave with Tollender cloth already brought there by another trader.
+Selling arriving goods to a guild importer at the docks is a gray area. It is not formally prohibited, but many guilds discourage it under pressure from influential merchant-captains, so such deals remain possible without being widespread.
 
-This supports several connections to distant markets: exchanges in Cymea, halfling voyages that actually visit Tollen, and purchases in authorized Ursk ports where northern and eastern traders overlap, though whether Urskan ports allow/facilitiate free commerce, or whether this might require complex or hidden movements of goods, is not established. Regular western halfling traffic coexists with eastern circuit ships that rarely visit Tollen.
+Guild commerce extends around the Western Green Sea through resident factors, purchasing agents, and partners, allowing purchases and onward carriage without a Tollender ship completing every leg. Exchanges in Cymea, halfling voyages to Tollen, and purchases in authorized Ursk ports connect these networks to distant markets; whether Ursk permits such exchanges freely or requires complex or hidden arrangements remains unsettled. Halfling and guild-affiliated ships carry a significant share of Tollen's imports, while some eastern circuit ships rarely visit the city.
+
+%% Historical references:
+- [Southampton guild ordinances, fourteenth century, clauses 19–23](https://sourcebooks.web.fordham.edu/source/guild-sthhmptn.asp): customs privileges attached to guild membership or the town franchise. Southampton's broader restrictions on resale are not part of Tollen's model.
+- [Cecchini and Pezzolo, "Merchants and institutions in early-modern Venice," pp. 97–98](https://iris.unive.it/bitstream/10278/33540/1/Merchants%20and%20institutions%20in%20early%20modern%20Venice.pdf): commercial citizenship brought overseas trading privileges and reduced customs duties.
+- [The National Archives, medieval customs accounts](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/medieval-customs-accounts/): England's 1303 petty custom imposed additional duties on foreign merchants, illustrating customs differentiated by merchant status.
+
+Play constraint: the Dunmar Fellowship sold treasure on arrival in Tollen, so dockside purchases must remain possible; this does not establish an automatic customs exemption. Exact rates and the customs treatment of individual dockside deals remain unspecified.
+%%
 
 ### Cymea and the exchange ports
 
@@ -50,41 +63,30 @@ Tollen's existing account describes Tollish free ports in [[Western Cymea]] func
 > [!note] Working hypotheses
 > Cymean free ports preserve part of Cymea's maritime importance by serving as exchange points between eastern traders and Tollender guild networks. Earlier brainstorming in [[Email - Green Sea Trade Routes]] also suggests that the loss of inland connections after the Great War contributed to Cymea's decline. The balance between lost markets, political fragmentation, and Tollender expansion remains undeveloped.
 
-> [!question] Unspecified parameters
-> Exact exchange ports, their rulers, customs regimes, and guild privileges remain unassigned. Buying goods in a Cymean free port does not by itself remove duties when those goods enter Tollen. The model does not establish particular exemptions, universal guild monopolies, or a complete tariff system.
-
 ### Ursk and the southeastern markets
 
 Ursk's restricted ports concentrate foreign commerce into familiar, closely supervised spaces. Resident agents and relationships with local factors sustain business between sailing seasons. Repeated visits can make a merchant knowledgeable about Zakat's warehouses and suppliers while leaving most of Ursk unknown.
 
 The southeastern network connects the [[~Maritime Trade Peninsula~|Maritime Trade Peninsula]], the [[Republic of Svolhas]] on Irrla, [[Medju]], and selected [[Eastern Isles]]. Its merchants trade for regional demand as well as western customers. Cargoes can pass through several hands before reaching Cymea or Tollen. Detailed cargo specializations, the relative importance of local fleets, and the political organization of these markets remain open.
 
-### Network map
-
-![[green-sea-trade-networks-v2.png|1600]]
-
-*Sea-trade corridors drawn on a crop of taelgar-basemap.jpg, the same basemap used by [[Taelgar Climatic Model]]. Colored arrows distinguish seasonal voyages; purple dotted lines show proposed Cymean exchange connections, and grey dotted lines show regional links whose sailing seasons remain unresolved. The Cymean straits share a thin passage shown in an enlarged inset. Open circles mark offshore approaches or market areas, not exact harbors; Tollen's inland river leg is omitted. Routes stay in the sea, but remain schematic corridors rather than pilotage tracks. North is up; small hexes are 24 miles face-to-face.*
-
-*The northern return line illustrates the offshore option. The faster coastal alternative described under [[#Summer return]] is not plotted as a navigable route; the separate map in [[Green Sea Ocean Circulation]] shows its regional current and the shared offshore outflow.*
-
 ## Seasonal Navigation
 
-The broad direction of traffic changes with the seasons. Favorable winds reduce passage time and uncertainty, making particular routes attractive to ordinary merchants. A difficult passage may remain possible for a capable vessel, but the presence of exceptional voyages does not imply a regular commercial season.
+The broad direction of traffic changes with the seasons, establishing the seasonal rhythms that describe Green Sea trade. Favorable winds reduce passage time and uncertainty, making particular routes attractive to ordinary merchants. A difficult passage may remain possible for a capable vessel, but the presence of exceptional voyages does not imply a regular commercial season.
 
-| Connection or region | Favored movement | Practical consequence |
-| --- | --- | --- |
-| Southern sea, late March–April | Westward from Medju, continuing toward the peninsula. | Very few ordinary ships depart Medju northeastward in April. Departures westward can serve several different itineraries. |
-| Western basin, spring–early summer | Northward opportunities offshore, continuing into June. | Ships can turn north from the peninsula or add Cymean business before proceeding toward Ursk. Route and timing matter around the coastal monsoon transition. |
-| Tollen–Ursk, April–June | Eastward through the straits and across the northern sea. | Earlier departures face greater storm exposure and uncertainty about northern port access; late departures approach the summer wind reversal. |
-| Northern corridor, July–August | Westward under recurring E–NE winds. | Direct Ursk–Tollen returns use either the fast but hazardous coastal current or a slower offshore passage with more sea room. The same season supports some western extensions by other traders. |
-| Northern sea, mid-September–early October | Eastward as westerlies return. | Ships leave Ursk toward the Eastern Isles. Autumn also permits eastbound voyages from Tollen, with increasing risk later in the season. |
-| Southeastern Irrla, late September–early October | Eastward after the maritime high retreats. | An Irrla summer can lead into an autumn island itinerary. |
-| Eastern and southern routes, autumn–December | Successive eastward, southward, and southwestward opportunities. | Selected island stops can lead to December arrival at Medju. Local legs have different winds and hazards. |
-| Medju, winter | Increasing light-wind delays, strongest in January–February. | December arrival is an ordinary target for ships wintering there; other winter bases support different calendars. |
+| Connection or region                             | Favored movement                                                 | Practical consequence                                                                                                                                                                                                                   |
+| ------------------------------------------------ | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Southern sea, late March–April                   | Westward from Medju, continuing toward the peninsula.            | Very few ordinary ships depart Medju northeastward in April. Departures westward can serve several different itineraries.                                                                                                               |
+| Western basin, spring–early summer               | Northward opportunities offshore, continuing into June.          | Ships can turn north from the peninsula or add Cymean business before proceeding toward Ursk. Route and timing matter around the coastal monsoon transition.                                                                            |
+| Tollen–Ursk, April–June                          | Eastward through the straits and across the northern sea.        | Earlier departures face greater storm exposure and uncertainty about northern port access; late departures approach the summer wind reversal.                                                                                           |
+| Northern corridor, July–August                   | Westward under recurring E–NE winds.                             | Direct Ursk–Tollen returns use either the fast but hazardous coastal current or a slower offshore passage with more sea room. The same season supports some western extensions into the Western Gulf or Skaer Islands by other traders. |
+| Northern sea, mid-September–early October        | Eastward as westerlies return.                                   | Ships leave Ursk toward the Eastern Isles. Autumn also permits eastbound voyages from Tollen, with increasing risk later in the season.                                                                                                 |
+| Southeastern Irrla, late September–early October | Eastward after the maritime high retreats.                       | An Irrla summer can lead into an autumn island itinerary.                                                                                                                                                                               |
+| Eastern and southern routes, autumn–December     | Successive eastward, southward, and southwestward opportunities. | Selected island stops can lead to December arrival at Medju. Local legs have different winds and hazards.                                                                                                                               |
+| Medju, winter                                    | Increasing light-wind delays, strongest in January–February.     | December arrival is an ordinary target for ships wintering there; other winter bases support different calendars.                                                                                                                       |
 
 [[Green Sea Ocean Circulation]] distinguishes a **cold westward coastal current** from a **shared eastward offshore outflow between Ursk and Irrla**. Summer easterlies strengthen the coastal current and considerably weaken offshore surface outflow where they oppose it. Spring and autumn eastbound ships can seek the offshore current, then cross the coastal branch when approaching or leaving Ursk's ports. The warm southern westward current assists travel from Medju toward the peninsula; selected westward legs approaching Medju can also benefit, without removing calms or difficult channels.
 
-The direct northern crossing has to proceed without intermediate harbors past the Skaer Islands, since these are canonically dangerous (though, possibly less so with the death of [[Rhodar von Glauer]]). The coastal alternative does not assume a chain of safe Skaer stopovers; its current assistance trades against more demanding navigation.
+The direct northern crossing has to proceed without intermediate harbors past the Skaer Islands, since these are canonically dangerous (though, possibly less so with the death of [[Rhodar von Glauer]]). 
 
 Shorter Western Gulf voyages have more frequent opportunities through much of the year, interrupted by storms and local conditions.
 
@@ -94,7 +96,7 @@ Shorter Western Gulf voyages have more frequent opportunities through much of th
 
 [[Ship Designs in Taelgar]] proposes fast, complex halfling ships with better windward performance than typical human ships. The [[Emerald Song]] supplies a specific example: a mixed-rigged vessel carrying relatively light, valuable cargo, capable of sailing close to the wind, but vulnerable to storms. Its account gives typical travel of about 100 miles per day. This is a useful fast-ship comparison, not the default for every halfling vessel or a model of northern seaworthiness.
 
-Windward ability is primarily useful to expand the set of commercially viable routes a ship can follow. For example, a capable ship may make an early westbound passage that is otherwise quite difficult, but tacking still costs distance and time. Crew skill, loading, hull condition, endurance at sea, and storm handling matter alongside maximum speed.
+Windward ability is primarily useful to expand the set of commercially viable routes a ship can follow. For example, a capable ship may make an early westbound passage that is otherwise quite difficult, but tacking still costs distance and time.
 
 ### Units and planning rates
 
@@ -102,13 +104,13 @@ Map distances use **statute miles**, following [[Protocol for Regional Maps]]: 2
 
 Four quantities should remain distinct: speed through the water; net progress along the intended route; elapsed passage time; and total voyage time including business and seasonal waits. 
 
-| Planning case | Net progress per elapsed passage day | Use |
-| --- | --- | --- |
-| Slower comparison | 40 statute miles | Sensitivity check for slow vessels or difficult conditions. |
-| Central assumption | 60 statute miles | Ordinary favorable-season route budgets below. Equivalent to about 2.2 knots averaged over 24 hours. |
-| Fast-ship comparison | About 100 statute miles | Emerald Song-like favorable passage performance; requires an appropriate ship, crew, and route. |
+| Planning case        | Net progress per elapsed passage day | Use                                                                                                                                                                                                                                            |
+| -------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Slower comparison    | 40 statute miles                     | Sensitivity check for slow vessels or difficult conditions. This is much slower than historical averages, but represents a useful lower bound.                                                                                                 |
+| Central assumption   | 60 statute miles                     | Ordinary favorable-season route budgets below. Equivalent to about 2.2 knots averaged over 24 hours. This assumes a sustained sailing speed of around 5 knots, but sufficiently low performance that 24 hour sustained sailing is not typical. |
+| Fast-ship comparison | About 100 statute miles              | Emerald Song-like favorable passage performance; requires an appropriate ship, crew, and route. This assumes a pre-1780 British East India Company speed, more or less.                                                                        |
 
-A passage day includes ordinary weather interruptions, reduced progress while tacking, and nights at sea where crewing and navigation permit. Trading stops and waits for another season are separate. An additional reserve covers disruption beyond the ordinary allowance (e.g. anything more significant than routine weather).
+A passage day includes ordinary weather interruptions, reduced progress while tacking, and nights at sea where crewing and navigation permit. Trading stops and waits for another season are separate. An additional reserve covers disruption beyond the ordinary allowance (e.g. anything more significant than routine weather). Note that these speeds are rough calibrations, and particular ships or merchant fleets might regularly exceed them. See historical calibrations, below. Typical medieval ships could make a maximum speed of ~11 knots, so the problem is more about sustaining speeds than ship capability. A merchant vessel with a magic item guaranteeing consistent winds, or allowing easy navigation at night, and with sufficient crew, could easily exceed these speeds by a considerable amount. 
 
 ### Historical calibration and implications
 
@@ -119,23 +121,17 @@ A passage day includes ordinary weather interruptions, reduced progress while ta
 | Early seventeenth-century passage | *Mayflower*'s 1620 Atlantic crossing took 66 days and included severe storm damage. [Plimoth Patuxet Museums](https://plimoth.org/for-students/homework-help/mayflower-and-mayflower-compact). | Actual journeys can take far longer than a calculation from favorable sailing speed. |
 | Later age-of-sail merchant performance | Kelly and Ó Gráda's logbook analysis finds median daily sailing speeds for British East India Company ships around 4 knots before 1780, rising to about 5 in the early 1780s and 6 in the late 1820s. [Research paper, Figure 4 and discussion](https://www.researchgate.net/profile/Morgan-Kelly-4/publication/322273109_Speed_under_Sail_during_the_Early_Industrial_Revolution_c_1750-1830/links/5a4f73b30f7e9bbfacfd029f/Speed-under-Sail-during-the-Early-Industrial-Revolution-c-1750-1830.pdf). | Sustained performance can improve substantially with ship technology and maintenance. This fleet is not a universal merchant average. |
 | Nineteenth-century clipper | *Cutty Sark* exceeded 17 knots at its recorded peak and made Sydney–London in 73 days in 1886. [Speed](https://www.rmg.co.uk/stories/maritime-history/knots-measuring-speed-sea); [voyage record](https://www.rmg.co.uk/cutty-sark/history). | An upper-end age-of-sail comparison. The peak must not be treated as a whole-voyage average. |
-
-The working inference is that these calendars can be supported by capable medieval or early modern sailing technology; they do not require clipper performance. Taelgar can combine different hulls and rigs without matching one historical century. Better windward performance chiefly expands route choices, while higher sustained speed adds trading time and margin before a seasonal transition. Greater seaworthiness makes early spring and late autumn departures less hazardous. These advantages need not occur together.
-
 For a 1,500-mile route, 40, 60, and 100 miles per passage day imply roughly 38, 25, and 15 days journeys. Given the seasonal nature of the winds, even the fastest case may then wait weeks for a favorable return.
-
-> [!question] Unspecified parameters
-> Fleet-wide performance, convoy losses of speed, loading, night-sailing practices, and the distribution of advanced rigs remain unassigned. The three planning cases are comparisons, not fixed human and halfling ship classes. No uniform sailing or weather magic is assumed.
 
 ## The Tollen–Ursk Trading Season
 
 ### Spring departure and northern access
 
-The usual commercial pattern is a spring eastbound passage, business in an authorized Ursk port, and a direct westbound return during the summer easterlies. **April departures are part of the working model**, with selected southern ports normally accessible by **early to mid-May**. Later spring departures remain viable while northern westerly opportunities persist.
+The usual commercial pattern is a spring eastbound passage, business in an authorized Ursk port, and a direct westbound return during the summer easterlies. This might often involve Tollen departures as early as April, targeting a May arrival in Ursk, though later departures are likely safer and still preserve time for trading before the westbound return window. 
 
-Captains judge two related deadlines. The commercial incentive is to arrive while desirable stocks and commissions remain available. The navigational incentive is to complete the outward crossing before the late-June transition makes eastward progress less dependable. Leaving too early increases exposure to storms and the possibility of waiting outside a closed destination; leaving too late can lose both purchasing opportunities and favorable winds.
+In general, the idea is that captains judge two related deadlines. The commercial incentive is to arrive while desirable stocks and commissions remain available. The navigational incentive is to complete the outward crossing before the late-June transition makes eastward progress less dependable. Leaving too early increases exposure to storms and the possibility of waiting outside a closed destination; leaving too late can lose both purchasing opportunities and favorable winds.
 
-Ursk's winter climate does not require its entire coast to remain sealed by sea ice. Local magical assistance can open or maintain selected harbors and approaches without changing the regional climate. An unusually cold winter can still delay access, alter which port is usable, or increase reliance on such assistance.
+The extent of sea ice in Ursk's harbors has not been invented; see [[Sea Ice in the Green Sea]] for brainstorming. Whatever the natural situation, local magical assistance can open or maintain selected harbors and approaches. 
 
 Two assumptions guide this model, neither of which is completely established in play, but both fit the desired and established vibes:
 - The first assumption is that Tollen ships arrive and purchase goods already warehoused by Urskan merchants, local resident purchasing agents, local factors, and others. A typical merchant journey involves a wait of weeks to establish contracts, purchase, and load, not a wait of months to commission expeditions to the interior. 
@@ -144,40 +140,32 @@ Two assumptions guide this model, neither of which is completely established in 
 
 **July–August easterlies** support the direct return to Tollen, with ordinary arrivals home during August or early September. Captains have two useful choices, or can combine them over different stretches:
 
-| Return route | Benefit | Cost |
-| --- | --- | --- |
-| Offshore passage | More sea room and fewer coastal obstacles; opposing eastward surface flow is weakened by the easterlies. | Less current assistance and potentially a longer passage, requiring more provisioning and departure margin. |
-| Northern coastal current | Wind and current both assist westward travel, creating a meaningful speed advantage and potentially permitting a later departure within the summer window. | A faster current close to shoals, islands, and headlands makes mistakes costly. The northwestern reaches require especially good regional knowledge and seamanship. |
-
-The productive but difficult waters of [[Skaerhem]] make Skaer expertise valuable without making long-distance commerce central to their society. Tollish captains must judge their own knowledge, vessel, cargo, and weather margin; some can use the current along part of Ursk's coast and stand offshore before the hardest Skaer passages. No routine access to Skaer pilots or harbors is assumed.
+| Return route             | Benefit                                                                                                                                                    | Cost                                                                                                                                                                                                                         |
+| ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Offshore passage         | More sea room and fewer coastal obstacles; opposing eastward surface flow is weakened by the easterlies.                                                   | Less current assistance and potentially a longer passage, requiring more provisioning and departure margin.                                                                                                                  |
+| Northern coastal current | Wind and current both assist westward travel, creating a meaningful speed advantage and potentially permitting a later departure within the summer window. | A faster current close to shoals, islands, and headlands makes mistakes costly. The northwestern reaches require especially good regional knowledge and seamanship. The coast west of Ursk is rumored to be very dangerous.  |
 
 The faster route can make extra trading time in Ursk worthwhile, but does not establish a dependable extension beyond the summer wind reversal. Returning autumn westerlies can oppose a persisting westward current and steepen waves. Late departures therefore trade commercial opportunity against greater weather and navigational exposure. [NOAA: sea-state forecasting](https://www.ndbc.noaa.gov/faq/sea_state_forecasting.shtml).
-
-> [!tip] Current assistance is significant but local
-> A one-knot current aligned with a route contributes about 28 statute miles over 24 hours. This is an illustration, not an assigned coastal speed or a daily bonus to the passage budgets: detours, waiting, night navigation, and time outside the current reduce the gain. The offshore and coastal alternatives need separate route estimates before changing the worked calendars.
 
 Early spring arrivals may spend appreciably longer in Ursk before the westbound season begins. 
 
 ### Rare overwintering voyages
 
-A deliberate autumn voyage can reach Ursk before winter, remain through the following spring, and return during the next July–August westbound window. September departures offer more margin. An **October departure** is a later and riskier choice, potentially producing an October or November arrival; it requires favorable conditions and confidence that the destination will remain accessible.
+A deliberate autumn voyage can reach Ursk before winter, remain through the following spring, and return during the next July–August westbound window. September departures offer more margin; an October departure is a later and riskier choice, requiring favorable conditions and good seamanship. 
 
 Wintering a ship ties up vessel, crew, and capital. Access to desirable goods alone will often be obtained more economically through a resident agent. A whole-ship winter stay therefore needs an additional reason: an unusual commission, negotiations requiring a principal's presence, a cargo demanding special supervision, or another advantage worth the expense. 
 
 Damage or a missed return season can also lead to overwintering. A missed window increases the cost and uncertainty of departure but does not make every later westbound voyage physically impossible.
 
-> [!question] Unspecified parameters
-> Exact port-opening reliability, the availability and cost of magical assistance, autumn closing conditions, and foreign residence arrangements remain unassigned. Provisioning, accommodation, repairs, and permission must support any chosen winter itinerary. The rough three-to-five-week allowance for a favorable direct passage still needs port-specific measurement; Praznitsky requires more margin than Zakat.
-
-## Halfling Itineraries and Regional Routes
+## Halfling Itineraries 
 
 ### The annual eastern circuit
 
-A ship wintering at Medju can depart westward in late March or April, trade at the peninsula, and choose a summer in **Ursk or southeastern Irrla**. A Cymean stop is an optional extension with a substantial time cost. Autumn passages then connect to selected Eastern Isles markets before a return toward Medju.
+A ship wintering at Medju can depart westward in late March or April, trade at the [[~Maritime Trade Peninsula~]], and choose a summer in **Ursk or southeastern Irrla**, possibly after a Cymean stop. Autumn passages then connect to selected Eastern Isles markets before a return toward Medju.
 
 The Ursk branch sails north in offshore corridors west of Irrla, avoiding its dangerous northwestern coastal waters. The Irrla branch approaches Svolhas around the island's southern side. Visiting both summer destinations might be plausible, but hasn't be checked against the climate model and would likely require a ship with good windward performance, precise timing, lucky weather, magic, or some combination. 
 
-The [[Wave Dancer]] canonically sailed **Praznitsky → Wahacha → Quanyi → Medju**, so this sequence should be retained as a common halfling family ship pattern. This uses selected central and southern islands, rather than traversing the entire roughly 2,000-mile chain described in [[Eastern Green Sea]]; sailing the full island chain from north to south should be highly unusual and might not be possible given weird magic. In general, magical weather and difficult channels remain local complications within the broader seasonal pattern in the Eastern Isles. 
+The [[Wave Dancer]] canonically sailed **Praznitsky → Wahacha → Quanyi → Medju**, so this sequence should be retained as a common halfling family ship pattern. This uses selected central and southern islands, rather than traversing the entire roughly 2,000-mile chain described in [[Eastern Green Sea]]; sailing the full island chain from north to south should be highly unusual and might not be possible given weird magic. In general, though, magical weather and difficult channels in the Eastern Isles remain local complications within the broader seasonal pattern.
 
 ### Western extensions and alternative winter bases
 
@@ -185,20 +173,21 @@ Westward visits to Tollen generally belong to longer itineraries, often spanning
 
 Capable halfling ships have another option: an early westward passage against unfavorable winds, potentially using routes along the Cymea coast. Such a voyage needs allowances for windward sailing and local shelter. This could imply something like a ship wintering in Irrla or MTP or eastern Cymea, then sail and pass the Straits of Cymea in April, trade in Tollen, and reverse before the summer monsoon becomes fully established, sailing to Ursk in the same season. Then, after trading in Ursk, such a ship could continue to Medju in December, and possibly work west in calm and settled conditions to reach Irrla or MTP by January or February, starting the cycle again. But this requires a skilled ship with good windward performance as it works along marginal routes with sometimes-unfavorable winds. 
 
-A variety of routes are possible, of course, and especially halfling family ships should often extend a stay or change routes for relationships, obligations, and opportunities. The commercial contrast with scheduled Tollender voyages is a useful world building framing, but doesn't have to (and shouldnt') become a deterministic guide to all human or halfling merchant trips. 
+A variety of other routes are possible, of course, and especially halfling family ships should often extend a stay or change routes for relationships, obligations, and opportunities. The commercial contrast with scheduled Tollender voyages is a useful world building framing, but doesn't have to (and shouldn't) become a deterministic guide to all human or halfling merchant trips. 
 
-### Overlapping regional networks
+## Regional networks
 
-| Network | Main connections | Calendar implication |
-| --- | --- | --- |
-| Western Gulf | Tollen, Sembaran and Tyrwinghan ports, western Cymean connections. | Frequent shorter voyages, with storms and local conditions interrupting traffic. |
-| Western Green Sea | Direct Tollen–Ursk trade; Cymean exchange; links toward the peninsula and Irrla. | Several triangles or diamonds can overlap. Their vessels need not share an itinerary or all visit Tollen. |
-| Southeastern Green Sea | Peninsula, Irrla, Medju, and selected Eastern Isles. | Substantial regional commerce with multiple circuits and winter bases; exact reciprocal windows remain open. |
+While no other standard trade routes have been established, and most largely wait on further development of South Cymea, Cymea, and the southeastern Green Sea generally, the following regional networks are plausible and consistent with existing worldbuilding. 
+
+| Network                | Main connections                                                                 | Calendar implication                                                                                         |
+| ---------------------- | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Western Gulf           | Tollen, Sembaran and Tyrwinghan ports, western Cymean connections.               | Frequent shorter voyages, with storms and local conditions interrupting traffic.                             |
+| Western Green Sea      | Direct Tollen–Ursk trade; Cymean exchange; links toward the peninsula and Irrla. | Several triangles or diamonds can overlap. Their vessels need not share an itinerary or all visit Tollen.    |
+| Southeastern Green Sea | Peninsula, Irrla, Medju, and selected Eastern Isles.                             | Substantial regional commerce with multiple circuits and winter bases; exact reciprocal windows remain open. |
 
 These connections allow goods to circulate farther than individual ships. A cargo can move west through successive exchanges while the ship that brought it to Irrla remains in southeastern trade. Some halfling families specialize in western connections, others in eastern waters, and others make longer journeys, consistent with [[Email - Green Sea Trade Routes]] and [[Green Sea Notes]].
 
 ## Worked Calendars and Passage Budgets
-**The text below is tentative worked calendars from Codex, and should not be assumed correct. Check before using dates, distances, etc**
 
 ### Illustrative northern and western calendars
 
