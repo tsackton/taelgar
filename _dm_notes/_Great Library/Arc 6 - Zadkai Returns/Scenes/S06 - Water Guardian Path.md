@@ -76,12 +76,38 @@ Breaking through floods the cave below with about 3 feet of frigid water before 
 
 If flooded, traveling through the cave counts as frigid water for anyone at least half submerged (everyone, unless someone is flying or otherwise above the ground). 
 
-The ice cave is a plausible place to rest, if needed, though the Extreme Cold makes this hard. No dangers here, really. 
+The ice cave is a plausible place to rest, if needed, though the Extreme Cold makes this hard. No dangers here, really. The walls give off a faint blue glow (dim light, 20 feet) but generally fairly dark. 
 
 ### Crevasse Passage (C)
 
 Ground is deeply unstable. Requires care to traverse. 
 
+The main danger here is inadvertently alerting the guardian below. Depending on approach - DC 16 to DC 21 Perception to notice breaking ice. Give a beat, what do you try strategy. Appropriate save, either ice cracks loudly and fall into a crevasse, or slip and fall but miss crevasse (less noice) or something else, easy to improv. Minimal damage, but here a low noise from below. 
+
+Crevasse down requires squeezing through about 10-15 feet of ice. Not difficult but impossible for large creatures and very slow so makes escape hard. Crack is very wide so all can drop at once.
+
 ### Guardian Chamber (D)
 
 Guardian fight. Immediately hostile. 
+
+Variant of https://www.dndbeyond.com/monsters/4485829-durixaviinox that loses flight, hoarfrost. 
+
+long snakelike thing of ice. Breath Weapon is smashing tail against ground causing ice to erupt, it is a 30 foot radius cloud. 
+initiative +8
+villian action 2 summons a snow monster but keep statblock
+
+if alerted, climb to ceiling and wait, hoping to get surprise. 
+
+Embedded in chest is a ice gemheart:
+A glowing blue sapphire, swirling with white snow. Can crack gem and breath the ice inside. Chills you; effects last for 1 hour, and don't require attunement.
+- Immune to extreme heat, and can't feel hot. 
+- Resistant to fire damage
+- If you cast a spell that does elemental damage, you can change the damage type to Cold
+- As a bonus action, you can cast Armor of Agythas at Level 4; once you cast it you cannot cast it again with this item. While the spell lasts, you can cause ice to coat and chill a melee weapon or piece of ammunition (no action required). It does an extra 1d8 cold damage. 
+
+
+When the guardian dies, burst of warmth erupts. The chamber will begin to melt. Ice takes up more space than water, so as the ice melts, the water level will drop and the entire water column will cool. 
+
+The first 10 minutes will not cause much impact. But ever 10 minutes after, the water level drops and the amount of Frigid Water increases, both by 10 feet. 
+
+Two of the ice pillars stay frozen - they also have ice gemhearts in them. DC 22 passive to notice, DC 18 on general search, "looking at the pillars" tells you automatically that two aren't melting. Takes about 2-3 minutes to smash a pillar, less with a good Athletics/Strength check. 
