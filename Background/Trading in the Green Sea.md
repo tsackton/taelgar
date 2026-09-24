@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [background]
 excludePublish: [all]
 ---
 # Trading in the Green Sea
@@ -189,55 +189,98 @@ These connections allow goods to circulate farther than individual ships. A carg
 
 ## Worked Calendars and Passage Budgets
 
-### Illustrative northern and western calendars
+These six examples use measured routes on the linked trading map above, rounded to the nearest 10 statute miles. **Days** shows passage + full days waiting for wind, tide, or safe channel access = elapsed travel time; a partial final passage day counts as one day. Ordinary slow sailing is already included in the daily mileage. There are no exceptional-delay reserves. **Port stay** includes trading, loading, and seasonal waits; winter counts assume a non-leap February. Coastal reference anchorages fix these examples, without establishing new harbor locations.
 
-These are planning examples, not fixed departure days. The direct northern examples use approximately a month per passage within the provisional three-to-five-week range, followed by seasonal waiting and business. Faster passage does not remove that waiting; exceptional disruption requires additional margin.
+### Tollen–Ursk
 
-| Example | Sequence | Main tradeoff |
-| --- | --- | --- |
-| Early Tollen–Ursk voyage | About 15 April outward → about 15 May arrival → July return departure → August home. | Earlier access to desirable cargo, with greater storm and harbor-access risk and a longer stay before returning. |
-| More conservative spring departure | About 10 May outward → about 10 June arrival → late July return departure → late August home. | Less early-season exposure, less time before the reversal, and later access to uncommitted stocks. |
-| Deliberate winter in Ursk | September, or a riskier October, departure → autumn arrival → winter and spring residence → following July–August return. | A specific commercial benefit must justify the immobilized ship and added provisioning. Cold-season passage is not assigned the favorable spring travel rate automatically. |
-| Extended western itinerary | Year 1: southern and Cymean business, late-summer westward arrival at Tollen, western winter. Year 2: spring Ursk voyage, autumn eastward departure, selected islands, possible December Medju arrival. | More markets and a Tollen connection over two sailing years; feasibility depends on trading time and the chosen western approach. |
+**60 miles per passage day**
 
-The peninsula-winter / April-straits variant remains in its working-hypothesis block above until its distances and windward passage allowance are checked.
+| Leg | Miles | Depart → arrive | Days: passage + waiting | Port stay after arrival |
+| --- | ---: | --- | ---: | --- |
+| Tollen → Zakat | 1,660 | 15 May → 15 Jun | 28 + 3 = 31 | 30 days |
+| Zakat → Tollen | 1,660 | 15 Jul → 17 Aug | 28 + 5 = 33 | — |
 
-### Example annual eastern calendar
+**100 miles per passage day**
 
-| Period | Shared activity | Ursk branch | Irrla branch |
-| --- | --- | --- | --- |
-| Late March–April | Leave Medju westward. | Earlier departure gives a Cymean extension more margin. | More time can be spent in southern markets. |
-| April–May | Peninsula business; optional Cymean visit. | Turn north at the peninsula or continue through Cymea. | Approach southeastern Irrla around the south. |
-| June–July | Summer trading destination. | Aim for June or early July arrival. | Trade along the Svolhas coast. |
-| Mid-September–early October | Begin the autumn eastward passage. | Depart as northern westerlies return. | Usually depart late September or early October as the high retreats. |
-| October–November | Selected island markets. | An itinerary can include Wahacha and Quanyi. | An itinerary can include the same markets. |
-| December | Arrival at Medju for ships wintering there. | Allow for light winds on the final approach. | The same. |
-| January–March | Business, maintenance, and preparation at the winter base. | Prepare for another chosen itinerary. | The same. |
+| Leg | Miles | Depart → arrive | Days: passage + waiting | Port stay after arrival |
+| --- | ---: | --- | ---: | --- |
+| Tollen → Zakat | 1,660 | 15 May → 3 Jun | 17 + 2 = 19 | 42 days |
+| Zakat → Tollen | 1,660 | 15 Jul → 5 Aug | 17 + 4 = 21 | — |
 
-An early or fast ship may arrive at Medju in late November. December is the ordinary target in this example. A late-October eastward departure or long island stays can extend arrival into January; shortening business stops or choosing another winter base are reasonable responses.
+**Variants.** These calendars use Zakat and the offshore northern route in both directions, with more waiting on the inward strait passage. Praznitsky adds distance; the coastal current can shorten the summer return but increases navigational risk. April departures bring greater storm exposure and a longer wait for summer easterlies. 15 July would probably generally be the start of the return season, but the timing of the arrival of the easterlies will vary from year to year. A general assumption of equal travel time west and east is a starting point, but will vary depending on winds and currents. 
 
-### Southern departure to Ursk
+#### Historical parallels
 
-The following coarse measurements from the world map allow for broad detours and different destinations. They are not surveyed routes through every channel. At the central **60 statute miles per passage day**, add **four weeks of southern trading in total** and **two weeks of exceptional-delay reserve**.
+- [Venice–Alexandria: Museo Galileo](https://brunelleschi.imss.fi.it/michaelofrhodes/journey/alexandria.html): late-August/September departure, November return—about three months for a roughly 3,000-statute-mile round trip (modern route estimate), comparable to Tollen–Ursk.
+- [Christ, *Trading Conflicts*, ch. 11, pp. 187, 192](https://doi.org/10.1163/9789004222007_012): the 1419 outward voyage took 35 days; regulations allowed 20 days in Alexandria. Supports month-long passages and weeks ashore.
 
-| Route | Approximate distance | Passage days at 60 miles/day | Total with 42 days trading and reserve |
-| --- | --- | --- | --- |
-| Medju → peninsula → Ursk | 2,200–2,600 miles | 37–44 | About 79–86 days |
-| Medju → peninsula → Cymea → Ursk | 3,000–3,400 miles | 50–57 | About 92–99 days |
+### Short annual circuit
 
-An early-April departure reaches Ursk around late June on the shorter route or early July via Cymea. A late-March departure gives the longer option more margin. At **40 miles per day**, totals become approximately **97–107** and **117–127 days**. The slow Cymean extension then reaches the less favorable northern summer regime, making earlier departure, shorter stays, or an earlier turn north valuable.
+**60 miles per passage day**
 
-### Autumn islands and Medju
+| Leg | Miles | Depart → arrive | Days: passage + waiting | Port stay after arrival |
+| --- | ---: | --- | ---: | --- |
+| Medju → peninsula | 1,130 | 1 Apr → 23 Apr | 19 + 3 = 22 | 14 days |
+| Peninsula → Praznitsky | 1,730 | 7 May → 9 Jun | 29 + 4 = 33 | 103 days |
+| Praznitsky → Wahacha | 1,540 | 20 Sep → 20 Oct | 26 + 4 = 30 | 14 days |
+| Wahacha → Quanyi | 730 | 3 Nov → 18 Nov | 13 + 2 = 15 | 14 days |
+| Quanyi → Medju | 970 | 2 Dec → 22 Dec | 17 + 3 = 20 | 100 days, to 1 Apr next year |
 
-| Leg | Approximate distance | Passage days at 60 miles/day |
-| --- | --- | --- |
-| Southeastern Irrla → Vermillion Isles | 1,200–1,500 miles | 20–25 |
-| Ursk trading coast → Vermillion Isles | 1,400–1,800 miles | 24–30 |
-| Vermillion Isles → Quanyi → Medju | 1,200–1,600 miles | 20–27 |
+**100 miles per passage day**
 
-Three to four weeks of island trading and two weeks of exceptional-delay reserve produce approximately **11–14 weeks** from departure to Medju, depending on branch and stops. Mid-September or early-October departure can fit December arrival; the longest combinations extend into early January. These budgets support selected itineraries, not every possible island detour.
+| Leg | Miles | Depart → arrive | Days: passage + waiting | Port stay after arrival |
+| --- | ---: | --- | ---: | --- |
+| Medju → peninsula | 1,130 | 1 Apr → 15 Apr | 12 + 2 = 14 | 14 days |
+| Peninsula → Praznitsky | 1,730 | 29 Apr → 20 May | 18 + 3 = 21 | 123 days |
+| Praznitsky → Wahacha | 1,540 | 20 Sep → 9 Oct | 16 + 3 = 19 | 14 days |
+| Wahacha → Quanyi | 730 | 23 Oct → 2 Nov | 8 + 2 = 10 | 14 days |
+| Quanyi → Medju | 970 | 16 Nov → 28 Nov | 10 + 2 = 12 | 124 days, to 1 Apr next year |
 
-## Historical Analogs and Open Parameters
+**Variants.** The 6,100-mile circuit rounds the Maritime Trade Peninsula, passes west of Irrla, and follows Praznitsky → Wahacha → Quanyi → Medju. More island trading uses the fast ship's November margin; extending the slower itinerary pushes into worsening December calms. Earlier arrival in Ursk mainly lengthens the summer stay before autumn westerlies return.
+
+#### Historical parallels
+
+- [Beaujard, *The Worlds of the Indian Ocean*, pp. 9–18](https://doi.org/10.1017/9781108341004.002): Gujarat–Aden departures in October–December, returns in March–May; a close parallel for trading during months-long seasonal residence. Different regional sailing windows shaped connected itineraries.
+- [Da Gama’s *Roteiro*, editorial note 62, PDF p. 15](https://alvarovelho.net/images/patrono/relacaodaviagem.pdf): 23 days from Malindi to sighting India in 1498, across roughly 2,600 statute miles (modern distance estimate). Supports 100-mile passage days in favorable conditions, not a universal average.
+
+### Long annual circuit
+
+**60 miles per passage day**
+
+| Leg | Miles | Depart → arrive | Days: passage + waiting | Port stay after arrival |
+| --- | ---: | --- | ---: | --- |
+| Medju → peninsula | 1,130 | 25 Mar → 16 Apr | 19 + 3 = 22 | 7 days |
+| Peninsula → Cymea | 1,030 | 23 Apr → 14 May | 18 + 3 = 21 | 7 days |
+| Cymea → Praznitsky | 1,520 | 21 May → 20 Jun | 26 + 4 = 30 | 92 days |
+| Praznitsky → Wahacha | 1,540 | 20 Sep → 20 Oct | 26 + 4 = 30 | 14 days |
+| Wahacha → Quanyi | 730 | 3 Nov → 18 Nov | 13 + 2 = 15 | 14 days |
+| Quanyi → Medju | 970 | 2 Dec → 22 Dec | 17 + 3 = 20 | 93 days, to 25 Mar next year |
+
+**100 miles per passage day**
+
+| Leg | Miles | Depart → arrive | Days: passage + waiting | Port stay after arrival |
+| --- | ---: | --- | ---: | --- |
+| Medju → peninsula | 1,130 | 25 Mar → 8 Apr | 12 + 2 = 14 | 7 days |
+| Peninsula → Cymea | 1,030 | 15 Apr → 28 Apr | 11 + 2 = 13 | 7 days |
+| Cymea → Praznitsky | 1,520 | 5 May → 24 May | 16 + 3 = 19 | 119 days |
+| Praznitsky → Wahacha | 1,540 | 20 Sep → 9 Oct | 16 + 3 = 19 | 14 days |
+| Wahacha → Quanyi | 730 | 23 Oct → 2 Nov | 8 + 2 = 10 | 14 days |
+| Quanyi → Medju | 970 | 16 Nov → 28 Nov | 10 + 2 = 12 | 117 days, to 25 Mar next year |
+
+**Variants.** The eastern Cymean call adds 820 miles. Two seven-day southern trading stops keep the slower ship's Ursk arrival before the northern wind reversal; another week in Cymea moves it to 27 June, close to that transition. A western Cymean or Tollen call adds the straits and further sailing, requiring an earlier start or shorter stops. Note that 7 days in port is short and tight for a lot of medieval trading, so a slow ship trying to make the Cymea route in a year would need to either skip the peninsula or to have well organized port calls. There is little leeway to extend the Cymean stay as much later departures risk unfavorable winds on the approach to Ursk. The fast ship has more flexibility. 
+
+#### Historical parallels
+
+- [Venice–Flanders: Museo Galileo](https://brunelleschi.imss.fi.it/michaelofrhodes/journey/flanders.html): spring departure and expected December return; a roughly 7,000-statute-mile round trip via Gibraltar (modern route estimate), comparable to the Cymean circuit.
+- [Scaife, *Venetian trade and commercial relations with England*, p. 117](https://kar.kent.ac.uk/86371/1/471731.pdf): later fifteenth-century schedules stretched to 15–18 months. Annual completion was feasible, but trading stays and departure windows could lengthen the cycle substantially.
+
+%% Measurement and scheduling notes:
+- Basemap: `/Users/tim/Library/CloudStorage/Dropbox/TaeglarMaps/WorldMap/taelgar-basemap.jpg`, 10410 × 6982 pixels, updated 22 September 2026. The grid measures 40 pixels per 24-mile hex, or 0.6 statute miles per pixel; see [[Protocol for Regional Maps]]. Distances follow water routes around coasts and islands, not straight lines across land.
+- Reference points use the trade overlay's 1907 × 1280 coordinate plane: Tollen river approach (843,431); Zakat (1278,391); Praznitsky (1371,379); peninsula west-coast anchorage (1243,697); eastern Cymean river-mouth anchorage (1019,538); Wahacha coastal reference (1750,622); Quanyi coastal reference (1690,760); Medju (1450,839). The unnamed peninsula and Cymean stops and the precise coastal anchorages are illustrative measurement choices, not adopted settlements or harbor positions. Routes extend the trade overlay's offshore approaches to these coastal references; Tollen includes the estuary passage.
+- Day counts are ceiling(route miles / 60 or 100), plus the stated whole-day holds. Holds are chosen good-season examples, not measured weather frequencies. The longer inward strait allowance follows [[Green Sea Ocean Circulation#The Western Gulf]]. Port stays are additional. Seasonal departures follow [[Taelgar Climatic Model#Climatic requirements for navigation]]; summer residence in Ursk assumes the foreign-port arrangements discussed above.
+%%
+
+## Real World Analogs 
 
 ### Indian Ocean trading seasons
 
@@ -248,3 +291,18 @@ Broadly, winter northeasterlies favored travel toward East Africa from Arabia an
 ### Ursk harbor access
 
 Canadian Atlantic waters illustrate why a cold current and snowy winter do not specify one harbor-closing calendar. The Canadian Ice Service distinguishes coastal settings, wind-driven ice movement, and imported drift ice; its regional ice-season statistic uses concentrations of at least 10%, not continuous harbor closure. Early- to mid-May access to selected Ursk ports, with local magical assistance where needed, is a Taelgar design assumption informed by this flexibility. It does not copy Labrador's full ice regime. [Canadian Ice Service regional ice facts](https://www.canada.ca/content/dam/eccc/documents/pdf/RegionalIceFacts_EastCoast.pdf).
+
+### Ursk's restricted trading ports
+
+- [Dejima: National Diet Library of Japan](https://www.ndl.go.jp/nichiran/e/s1/s1_2.html): from 1641, Dutch trading staff occupied a closely monitored island compound connected by a stone bridge; they could not freely leave. A particularly close spatial parallel for Praznitsky, and a model for foreign factors residing inside an authorized enclave despite exclusion from the country beyond.
+- [Canton's hong merchants: MIT Visualizing Cultures](https://visualizingcultures.mit.edu/rise_fall_canton_01/cw_essay03.html): in the eighteenth and early nineteenth centuries, licensed Chinese merchants mediated between Western traders and officials, collecting customs payments and bearing responsibility for their foreign clients. A possible model for approved Urskan intermediaries. Both Canton and Dejima are later institutional comparisons; Ursk's precise arrangements remain open.
+
+### Tollen's overseas factors and merchant communities
+
+- [Datini's company system: Istituto Datini](https://www.istitutodatini.it/schede/datini/eng/sistema.htm): late-fourteenth-century branches, partnerships, and reciprocal representation connected Mediterranean markets. A model for Tollender merchants buying and selling through agents between ship visits, with trusted correspondents extending their reach beyond their own offices.
+- [Hanseatic kontors: The Hanse](https://www.hanse.org/en/the-medieval-hanseatic-league/die-kontore): medieval overseas trading communities maintained negotiated privileges, warehouses, and accommodation. Bruges merchants instead lodged with local innkeepers who also acted as brokers. Useful alternatives for Tollen's guild network: a shared merchant compound or dispersed local representatives.
+
+### Exchange ports and attracting foreign trade
+
+- [Melaka's shahbandars: Peter Borschberg, *The Melaka Empire*, p. 278](https://brill.com/display/book/9789004407671/BP000014.pdf): around 1500, harbor officials represented different foreign merchant communities, collected dues, and arbitrated disputes. A model for multilingual intermediaries at Green Sea exchange ports, connecting visiting traders to local authorities.
+- [Livorno's settlement privileges: Massimo Bomboni, *Sugar, Salt, and Mills for the Grand Duke*](https://doi.org/10.1017/S016511532610062X): late-sixteenth-century fiscal incentives, settlement protections, and investment in port facilities attracted foreign merchants and skills. A comparison for how Cymean ports might compete for trade by offering security, favorable terms, and useful infrastructure; the specific Cymean institutions remain to be developed.

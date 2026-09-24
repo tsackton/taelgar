@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 excludePublish: [all]
 ---
 # Green Sea Ocean Circulation
@@ -81,21 +81,19 @@ The gulf's rare deep canyons are possible sites for connections to the [[Element
 
 ## Marine productivity
 
-The name of the Green Sea reflects rich phytoplankton in its western waters. The model supports that abundance through several ordinary mechanisms: river nutrients, winter mixing, nutrient recycling in shallow water, mixing around banks and passages, and localized seasonal upwelling. Nutrients must reach the sunlit layer to support plant growth; cold water alone does not guarantee rich fisheries.
+The name of the Green Sea reflects rich phytoplankton in its western waters, which arises through several mechanisms: river nutrients, winter mixing, nutrient recycling in shallow water, mixing around banks and passages, and localized seasonal upwelling. 
 
-| Region | Main productivity pattern |
-| --- | --- |
-| **Skaerhem and the northwestern sea** | Proposed shallow banks and passage margins maintain productive patches through mixing and exchange with deeper water. Winter replenishment supports spring blooms; continued local mixing extends productivity into summer. Banks provide habitat for cod-like fisheries, while fronts and bank edges can concentrate prey for whales. The local geography must provide places where plankton and prey accumulate instead of being swept away. |
-| **Western Gulf, especially western Cymea** | Rivers and shallow-water recycling support ordinary coastal fisheries. Localized summer upwelling along western Cymea can make the eastern gulf especially productive. The whole gulf need not be equally fertile. |
-| **Urskan coast** | Ordinary coastal and river fisheries, with a spring bloom and local productive pockets. Fewer extensive banks, summer layering, and downwelling-favorable winds can limit sustained summer nutrient supply compared with Skaerhem. Ursk's cultural priorities remain a separate influence on its limited maritime emphasis. |
-| **Central basin and shared outflow** | Clearer, less productive deep water can coexist with rich fronts, eddies, and island margins. The confluence creates opportunities for prey concentration, but mixing two currents does not automatically make the entire outflow fertile. |
-| **Southern coast and Eastern Isles** | Localized productive shelves and passages. Summer westward winds can favor upwelling along appropriately oriented south-coast shores; island mixing depends on channel shape and depth. The remaining distribution is deliberately open. |
+| Region                                     | Main productivity pattern                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skaerhem and the northwestern sea**      | Shallow banks and passage margins maintain productive patches through mixing and exchange with deeper water. Winter replenishment supports spring blooms; continued local mixing extends productivity into summer. Banks provide habitat for cod-like fisheries, while fronts and bank edges can concentrate prey for whales. The local geography must provide places where plankton and prey accumulate instead of being swept away. |
+| **Western Gulf, especially western Cymea** | Rivers and shallow-water recycling support ordinary coastal fisheries. Localized summer upwelling along western Cymea can make the eastern gulf especially productive. The whole gulf need not be equally fertile.                                                                                                                                                                                                                    |
+| **Urskan coast**                           | Ordinary coastal and river fisheries, with a spring bloom and local productive pockets. Fewer extensive banks, summer layering, and downwelling-favorable winds can limit sustained summer nutrient supply compared with Skaerhem. Ursk's cultural priorities remain a separate influence on its limited maritime emphasis.                                                                                                           |
+| **Central basin and shared outflow**       | Clearer, less productive deep water can coexist with rich fronts, eddies, and island margins. The confluence creates opportunities for prey concentration, but mixing two currents does not automatically make the entire outflow fertile.                                                                                                                                                                                            |
+| **Southern coast and Eastern Isles**       | Localized productive shelves and passages. Summer westward winds can favor upwelling along appropriately oriented south-coast shores; island mixing depends on channel shape and depth. The remaining distribution is deliberately open.                                                                                                                                                                                              |
 
-### Optional magical contribution
+### Magical contributions to productivity
 
-One Western Gulf canyon could contain an inflow from the [[Elemental Plane of Water]]. The existing [[Western Gulf]] account already records [[Ishara Venn]]'s unconfirmed claim of planar connections in its deep canyons. Whether to make that rumor true and add such an inflow remains undecided; the basin circulation does not require it.
-
-The proposed ecological role is limited: an inflow drives persistent upward mixing of nutrient-bearing seawater, sustaining an unusually reliable feeding ground when ordinary seasonal upwelling weakens. Its depth, direction, and surrounding terrain must allow that influence to reach sunlit water; simply adding water far below the surface would not suffice. Its extra volume leaves through ordinary gulf exchange. No canyon location, flow rate, or basin-wide climatic effect is assigned, and no portal is marked on the map.
+There is some brainstorming and tentative hints that there are occasional deep canyon connections to the [[Elemental Plane of Water]], particularly in the Western Gulf. One potential ecological role for these connections is via persistent upward mixing of nutrient-bearing seawater, sustaining an unusually reliable feeding ground when ordinary seasonal upwelling weakens. Its depth, direction, and surrounding terrain must allow that influence to reach sunlit water; simply adding water far below the surface would not suffice. However, this could produce a situation where, at least in some places, unusually productive fishing grounds, for example, could be the result of elemental connections -- and potentially a place where elemental monsters transit to the material plane for feeding opportunities. 
 
 ## Local navigation
 
@@ -108,10 +106,9 @@ The fast coastal branch makes northwestern navigation difficult and local knowle
 - Current speeds, widths, transport volumes, salinities, temperatures, and the vertical division of eastern exchange.
 - The exact confluence position, seasonal movement, and degree of summer weakening of the offshore surface flow.
 - Shelf edges, Skaer banks, navigable channels, tidal strength, and the local divisions of the coastal current. Map arrows cannot establish safe passages.
-- The Western Gulf's freshwater balance, vertical exchange through the straits, canyon connections, and seasonal coastal circulation.
 - The detailed strength and onward route of the Outer Ocean's warm and cold currents.
-- Local sea ice, harbor opening dates, and the reach of any port magic.
-- Whether to adopt a single planar inflow, and what exceptional local feature it would explain.
+- Local sea ice, harbor opening dates, and the reach of any port magic. See [[Sea Ice in the Green Sea]] for brainstorming. 
+- Whether to adopt extraplanar inflows, and what exceptional local feature it would explain.
 
 ## Physical comparisons and references
 

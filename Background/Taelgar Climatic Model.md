@@ -6,7 +6,7 @@ excludePublish: [all]
 
 This is a provisional climatic model for Taelgar, covering the [[Green Sea]], [[Greater Sembara]], and the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]]. [[#Cross-Continental Climate Connections]] describes the weather systems and moisture exchanges that connect these regions. The note can be expanded to cover the rest of the mapped world.
 
-The model guides climate and seasonal changes rather than predicting individual days of weather. Details introduced in play take precedence: the model should adapt to accommodate them, including non-Earth-like explanations where needed. Elsewhere, it provides a starting point for the weather of undeveloped places and the consequences of worldbuilding decisions.
+The model guides climate and seasonal changes rather than predicting individual days of weather. Details introduced in play take precedence: the model should adapt to accommodate them, including non-Earth-like explanations where needed. Elsewhere, it provides a starting point for the weather of undeveloped places and the consequences of worldbuilding decisions. Ultimately, this can power a random weather generator for anywhere in Taelgar, though this does not yet exist. 
 
 ## Global Assumptions
 
@@ -22,12 +22,12 @@ The model uses broadly Earth-like atmospheric rotation, seasons, and ocean physi
 - **Wind notation:** arrows show the direction air travels; wind names describe where it comes from. A northeasterly blows **NE → SW**, and a westerly blows **W → E**.
 - **Terrain:** mountains redirect winds and shape rainfall. Air pressure naturally falls with elevation, so mountain readings need adjustment before comparison with coastal readings. High terrain is not the same thing as high pressure: a circulation ridge can extend across mountains without being caused by their height.
 
-Regional sections state the behavior assumed by this provisional model. **Working hypotheses** blocks identify explanations that remain untested; **Unspecified parameters** blocks identify details not yet assigned. Seasonal dates are model assumptions, not outputs of a numerical simulation.
+Regional sections state the behavior assumed by this provisional model. **Working hypotheses** blocks identify explanations that remain untested or undeveloped with respect to physical verisimilitude (that is, on further inspect, these may not make sense); **Unspecified parameters** blocks identify details not yet assigned.
 
 > [!tip] Why the subtropical ridge moves with the seasons
 > Uneven solar heating drives a broad circulation in which air rises in the tropics and sinks farther poleward, helping establish the subtropical belt of high pressure. As the hemisphere warms toward summer, the tropical rain belt, subtropical highs, and midlatitude storm tracks generally shift poleward; they return equatorward toward winter. Land and ocean warm at different rates, so the belt breaks into regional centers whose positions also depend on geography.
 >
-> For northern Taelgar, **poleward means northward**. A place can therefore lie under a dry ridge in summer but in the path of rain-bearing storms in winter. A **storm track** is the region through which storms commonly pass, not one permanent storm. This broad behavior underlies both the Green Sea high's seasonal shift and Chardon's winter-rain regime; it does not determine their exact timing or latitude. See [global circulation](https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns) and the [subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge).
+> For northern Taelgar, **poleward means northward**. A place can therefore lie under a dry ridge in summer but in the path of rain-bearing storms in winter. A **storm track** is the region through which storms commonly pass, not one permanent storm, though in Taelgar there can be magical exceptions to this rule. This broad behavior underlies both the Green Sea high's seasonal shift and Chardon's winter-rain regime; it does not determine their exact timing or latitude. See [global circulation](https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns) and the [subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge).
 
 ## Climatic Constraints
 
