@@ -4,7 +4,10 @@ excludePublish: [all]
 ---
 # Trading in the Green Sea
 
-This note describes broad patterns of oceanic trade in the Green Sea, guided by [[Taelgar Climatic Model]] and [[Green Sea Ocean Circulation]]. This is intended as a background overview; local details can change and especially the local trade in the poorly developed southeastern Green Sea, plus the impact of the northeastern Green Sea, remains to be established. Currently, the [[#The Tollen–Ursk Trading Season|Tollen-Ursk trading season]] and the [[#Halfling Itineraries and Regional Routes|halfling annual circuit]] are the most developed routes, but **should not be read as the primary or only trading routes in the Green Sea.**
+>[!attention] 
+> This note exists to document the broader scale patterns that produce canonical, in-world patterns of trade around the Green Sea. It leaves blank large areas of the map that have not seen much or any time in play, and should not be considered a comprehensive overview of all trade in the Green Sea. Rather, this note documents in-game canon that future development should respect.
+
+This note describes oceanic trade in the Green Sea, guided by [[Taelgar Climatic Model]] and [[Green Sea Ocean Circulation]]. This is intended as an incomplete background overview, focused on regions of the Green Sea with some in-game context. Plenty of details can be added, especially concerning the local trade in the poorly developed southeastern Green Sea. The northeastern Green Sea, and its trade context, remains to be established. Currently, the [[#The Tollen–Ursk Trading Season|Tollen-Ursk trading season]] and the [[#Halfling Itineraries and Regional Routes|halfling annual circuit]] are the most developed routes, but **should not be read as the primary or only trading routes in the Green Sea.**
 
 The vibe and pattern of the Green Sea trading culture as a whole, however, is organized around regular, recognizable sailing seasons, concentrated on specific routes at specific times of the year. This is influenced by some of the historical vibes of the medieval Indian Ocean trade. Merchants can plan around the winds, while onset, storms, cargo availability, and local hazards still make individual voyages uncertain.
 
@@ -27,7 +30,7 @@ The principal design constraints are:
 | [[Ursk]], [[Zakat]], and [[Praznitsky]] restrict foreign access. | Familiarity with trading ports does not imply free movement inland. |
 | [[Wave Dancer]] visits Praznitsky, Wahacha, Quanyi, and Medju; [[Session 60 (DuFr)]] records an eastbound voyage in late September and October. | Autumn eastward travel from Ursk must be common and feasible. Wellby's time aboard measures only part of an existing voyage. |
 | [[Irrla]] places Svolhas on its southeastern coast, with dangerous shoals and currents to the north and west. | The Irrla branch uses the southeastern trading coast. Northern passages keep offshore rather than assuming a safe western Irrla port. |
-Additional established anchors can be added as needed. Clarify whether the model includes them, or needs to be extended.
+**These are not intended to be a full list of design constraints, simply the list of ones that have be introduced in play, directly or indirectly. Additional established anchors can be added as needed. Clarify whether the model includes them, or needs to be extended.**
 
 ## Commercial Geography
 
@@ -176,6 +179,7 @@ Capable halfling ships have another option: an early westward passage against un
 A variety of other routes are possible, of course, and especially halfling family ships should often extend a stay or change routes for relationships, obligations, and opportunities. The commercial contrast with scheduled Tollender voyages is a useful world building framing, but doesn't have to (and shouldn't) become a deterministic guide to all human or halfling merchant trips. 
 
 ## Regional networks
+*These are poorly developed in play and there is likely much more to be said here, especially about local and medium-distance trade, which must be common.*
 
 While no other standard trade routes have been established, and most largely wait on further development of South Cymea, Cymea, and the southeastern Green Sea generally, the following regional networks are plausible and consistent with existing worldbuilding. 
 

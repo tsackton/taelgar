@@ -4,6 +4,10 @@ excludePublish: [all]
 ---
 # Taelgar Climatic Model
 
+
+>[!attention] 
+> This note exists to document the broader scale patterns that produce canonical, in-world patterns of climate and weather in Taelgar.  It leaves blank many areas of the map that have not seen much or any time in play, and should not be considered a comprehensive overview of the global climate. Rather, this note documents in-game canon that future development should respect.
+
 This is a provisional climatic model for Taelgar, covering the [[Green Sea]], [[Greater Sembara]], and the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]]. [[#Cross-Continental Climate Connections]] describes the weather systems and moisture exchanges that connect these regions. The note can be expanded to cover the rest of the mapped world.
 
 The model guides climate and seasonal changes rather than predicting individual days of weather. Details introduced in play take precedence: the model should adapt to accommodate them, including non-Earth-like explanations where needed. Elsewhere, it provides a starting point for the weather of undeveloped places and the consequences of worldbuilding decisions. Ultimately, this can power a random weather generator for anywhere in Taelgar, though this does not yet exist. 

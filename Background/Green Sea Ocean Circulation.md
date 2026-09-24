@@ -46,7 +46,7 @@ Southern spring and summer easterlies reinforce the westward surface flow. The w
 
 The branches approach one another off northern Cymea, toward the western end of the corridor between Ursk and Irrla. Their water moves east along a broad **ocean front**, a boundary between water masses with different temperature and salinity. Mixing continues downstream: the outflow contains warmer and cooler bands and eddies, rather than becoming uniformly lukewarm at one junction.
 
-The main return crosses the open water north of Irrla and leaves through several eastern passages. The division of this outflow between surface passages and channels beneath the moving islands remains undecided.
+The main return crosses the open water north of Irrla and leaves through several eastern passages; the exact route west of Irrla is not established. The division of this outflow between surface passages and channels beneath the moving islands remains undecided.
 
 > [!tip] Why the outflow can continue when surface winds oppose it
 > Wind acts most directly on the upper water. The broader circulation also responds to differences in sea level and density, shaped by the two inflows, heating, cooling, and basin geometry. Summer easterlies can slow the offshore surface current considerably while deeper or more widely distributed eastward flow continues. Over time, total inflow and outflow must balance, allowing for rivers, evaporation, and precipitation; the basin cannot simply accumulate water throughout the summer.
