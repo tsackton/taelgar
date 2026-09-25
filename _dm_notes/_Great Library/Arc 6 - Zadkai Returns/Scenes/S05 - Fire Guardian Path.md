@@ -72,9 +72,9 @@ This is, of course, trigger Zadkai to investigate.
 
 
 **C2** 
-This is a store room with extra components for the guardian. Specifically, there are 11 fire gemhearts (see below). However most are not usable; Arcana check (DC 13 default; DC 18 good result; DC 23 great result) to sort. 
+This is a store room with extra components for the guardian. Specifically, there are 11 fire gemhearts (see below). However most are not usable; Arcana check to sort: DC 13 identifies 2 usable gemhearts (expected), DC 18 identifies 3, and DC 23 identifies 4 (maximum).
 
-This is a bare room with three stone shelves. Dusty, obviously long abandoned. Maybe some cracked scrolls, dried out potions, stuff like that. Untouched for ~200 years. Only thing still working is 3-5 of the fire gemhearts. 
+This is a bare room with three stone shelves. Dusty, obviously long abandoned. Maybe some cracked scrolls, dried out potions, stuff like that. Untouched for ~200 years. Only thing still working is 2-4 of the fire gemhearts. Including the guardian's gemheart, the expected haul is 3 usable fire gemhearts, with a maximum of 5.
 
 ### Guardian Chamber (D)
 
@@ -118,9 +118,9 @@ Can improvise here.
 
 ## Treasure
 
-**Fire gemheart**: A glowing red ruby, pulsating with captured flames. Can crack gem and breath the fire inside. Warms you up; effects last for 1 hour, and don't require attunement.
+**Fire gemheart**: A glowing red ruby, pulsating with captured flames. As an action, can crack gem and breathe the fire inside. Warms you up; effects last for 1 hour, and don't require attunement. Only one elemental gemheart can be active on you at a time; activating another ends the previous gemheart's effects.
 - Immune to extreme cold, and can't feel cold. 
-- Resistant to cold damage, and whenever you are hit by a melee attack, the attacker takes an extra 1d8 fire damage
+- A shield of fire makes you resistant to cold damage, and whenever you are hit by a melee attack, the attacker takes an extra 1d8 fire damage.
 - If you cast a spell that does elemental damage, you can change the damage type to Fire
-- As a reaction to taking Cold damage, you can end the shield. Doing so gives you immunity to the triggering damage and resistance to Cold damage until the start of your next turn. 
+- As a reaction to taking Cold damage, you can end the shield. Doing so gives you immunity to the triggering damage and resistance to Cold damage until the start of your next turn. The shield's fire retaliation ends immediately, and its cold resistance ends at the start of your next turn. The gemheart's other benefits remain.
 

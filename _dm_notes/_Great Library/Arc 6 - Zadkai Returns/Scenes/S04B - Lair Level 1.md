@@ -14,8 +14,8 @@ A pool in the center of the floor descends seemingly into infinite depths.
 
 The other three walls have doors, of a sort:
 Opposite the mirror is a metal door that glows red-hot; waves of heat radiate from it out into the room. 
-To the left (facing the mirror) is a mosaic design of gemstones that depict a. tunnel through the wall, leading to a distant point. 
-To the right (facing the mirror), a cloudscape of realistic moving clouds is woven on a tapestry that flaps in the non-existent wind, and 
+To the left (facing the mirror) is a mosaic design of gemstones that depict a tunnel through the wall, leading to a distant point. 
+To the right (facing the mirror), a cloudscape of realistic moving clouds is woven on a tapestry that flaps in the non-existent wind. 
 
 ### Airion's Vault
 

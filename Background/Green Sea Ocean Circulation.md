@@ -77,7 +77,7 @@ The narrowness of the straits concentrates the surface outflow into a strong cur
 
 Along western Cymea, the southward component of the summer winds drives surface water away from west-facing shores. Cooler, nutrient-rich water rises to replace it, creating productive coastal waters along the eastern side of the gulf. The strength and location of this upwelling vary with the seabed and coastline. Along the opposing east-facing shores, the same wind regime pushes surface water toward land and drives it downward. Summer upwelling is therefore concentrated on the Cymean side of the gulf.
 
-The gulf's rare deep canyons are possible sites for connections to the [[Elemental Plane of Water]], as discussed under [[#Optional magical contribution|below]]. 
+The gulf's rare deep canyons are possible sites for connections to the [[Elemental Plane of Water]], as discussed [[#Optional magical contribution|below]]. 
 
 ## Marine productivity
 

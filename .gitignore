@@ -55,3 +55,6 @@ assets/generated/
 
 # Include gitignore
 !.gitignore
+
+# Local agent review work
+/Worldbuilding/Agentic Review/
