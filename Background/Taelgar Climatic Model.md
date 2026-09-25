@@ -8,7 +8,7 @@ excludePublish: [all]
 >[!attention] 
 > This note exists to document the broader scale patterns that produce canonical, in-world patterns of climate and weather in Taelgar.  It leaves blank many areas of the map that have not seen much or any time in play, and should not be considered a comprehensive overview of the global climate. Rather, this note documents in-game canon that future development should respect.
 
-This is a provisional climatic model for Taelgar, covering the [[Green Sea]], [[Greater Sembara]], and the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]]. [[#Cross-Continental Climate Connections]] describes the weather systems and moisture exchanges that connect these regions. The note can be expanded to cover the rest of the mapped world.
+This is a provisional climatic model for Taelgar, covering the [[Green Sea]], [[Greater Sembara]], the seasonal contrast between [[Greater Dunmar]] and [[Greater Chardon]], and the western coast north to the [[Mawakel Peninsula]], including the adjoining [[Fiatara Mountains]], [[Erbalta Plains]], [[Lake Valandros]], and western Sentinel forests. [[#Cross-Continental Climate Connections]] describes the weather systems and moisture exchanges that connect these regions. The note can be expanded to cover the rest of the mapped world.
 
 The model guides climate and seasonal changes rather than predicting individual days of weather. Details introduced in play take precedence: the model should adapt to accommodate them, including non-Earth-like explanations where needed. Elsewhere, it provides a starting point for the weather of undeveloped places and the consequences of worldbuilding decisions. Ultimately, this can power a random weather generator for anywhere in Taelgar, though this does not yet exist. 
 
@@ -196,7 +196,7 @@ Summer easterlies strengthen the narrow, fast coastal current, while the offshor
 
 Imported cold water and winter heat loss support the northern temperature regime. Warm southern inflow and sunlight maintain a warmer southern and western basin. Local layering, upwelling, and mixing modify this pattern; neither a cold northern current nor a warm southern current has one fixed temperature along its whole route. Keeping the strongest cold flow near the northern margin preserves substantial warmer water supplying moisture to Sembara and Cymea.
 
-The sheltered Western Gulf has smaller river- and wind-influenced currents and exchange through the Straits of Cymea. Its productive waters, especially along western Cymea, combine river nutrients, shallow-water recycling, mixing, and localized upwelling. Skaer banks and passages provide another productive region. The summer northern coast is generally downwelling-favorable, so generic monsoon upwelling cannot explain productivity everywhere.
+The sheltered Western Gulf has smaller river- and wind-influenced currents and exchange through the Straits of Cymea. Winter conditions remain mild enough to prevent complete freezing of the gulf, although protected harbors can freeze in exceptional winters. Its productive waters, especially along western Cymea, combine river nutrients, shallow-water recycling, mixing, and localized upwelling. Skaer banks and passages provide another productive region. The summer northern coast is generally downwelling-favorable, so generic monsoon upwelling cannot explain productivity everywhere.
 
 > [!question] Unspecified parameters
 > Current speeds, transport volumes, salinities, the confluence position, eastern channel depths, and the vertical division of summer return flow remain unassigned. Skaer banks and local current branches require development; the Western Gulf's freshwater balance and layered strait exchange remain hypotheses. A single canyon inflow from the Plane of Water is optional and local. See [[Green Sea Ocean Circulation#Parameters left open|the ocean model's open parameters]].
@@ -207,7 +207,11 @@ The sheltered Western Gulf has smaller river- and wind-influenced currents and e
 
 [[Ursk]] and the [[Great Northern Forest]] have long, cold winters, a muddy thaw, and short, cool summers. Continental cold and maritime snowfall establish the winter regime; the cold northern current moderates summer warmth and delays spring warming. Maritime exposure allows heavier coastal snowfall than in continental interiors, without requiring high annual precipitation throughout the taiga.
 
-Summer provides enough warmth for boreal forest and limited agriculture. Passing fronts bring rain between settled spells, and the edges of the high-pressure region can be wetter than its center. The resulting summer alternates settled weather with rain, cloud, and fog. Snowmelt supplements this moisture rather than replacing summer precipitation. Natural circulation supports the regional climate; white dragons can intensify local cold without supplying its entire explanation.
+Summer provides enough warmth for boreal forest and substantial grain farming in favorable valleys, including around [[Yamgov]]. Passing fronts bring rain between settled spells, and the edges of the high-pressure region can be wetter than its center. The resulting summer alternates settled weather with rain, cloud, and fog. Snowmelt supplements this moisture rather than replacing summer precipitation. Natural circulation supports the regional climate; white dragons can intensify local cold without supplying its entire explanation.
+
+#### Skaerhem
+
+[[Skaerhem]] shares the northern Green Sea's stormy maritime setting. The local winter climate allows frequent snow cover and regular river freezing at [[Pyhlla]], alongside winters without heavy snowfall on [[Vetta]]. Snow totals, freeze dates, and the causes of differences between islands remain unassigned.
 
 #### Sembara
 
@@ -217,6 +221,8 @@ Sembara receives maritime moisture on the northwestern side of the Cymean low du
 
 Maseau and [[Aurbez and the Andonne|Aurbez]] have predominantly hot, dry summers. Aurbez receives important spring rains; its summer easterlies usually carry dry continental air and ash from the east, interrupted by occasional moist incursions and severe thunderstorms. A trough south of Aurbez maintains the easterly flow without requiring a deep rainy circulation over the region.
 
+In winter, westerlies cross the Sentinels into a broadly cold, dry Aurbez. Passing storms can bring snow, with winter severity varying by year and elevation; precise temperatures and snow duration remain unassigned.
+
 The wet-to-dry transition depends on moisture loss inland, terrain, and whether moist air can rise far enough to form rain clouds. Hot ground alone does not guarantee thunderstorms: dry air or a stable layer above it can limit their development. The Mostreve–Cymean uplands are treated as a varied upland system, consistent with [[Geology of the Mostreve and Cymean Uplands]], rather than assigned a continuous Himalayan-scale barrier.
 
 #### Cymea
@@ -225,7 +231,7 @@ The Cymean low favors a humid spring and summer where maritime air reaches the l
 
 The [[Mistfold Mountains]] and other uplands redistribute rainfall. Exposed slopes are wetter and cooler, with cloud around ridges; sheltered valleys can be sunnier and drier. The [[Plataca Hills]] can shelter parts of western Cymea from easterly moisture, but access to Western Gulf air prevents a simple rule that the whole western coast is dry. Karst drainage can leave rocky ground locally dry even where rainfall is substantial.
 
-The model establishes a spring–summer moisture supply. The proposed [[#Winter storms from Chardon to the Green Sea|winter storm route]] also gives Cymea a source of cool-season precipitation, but its frequency and the balance between summer rain and winter rain remain to be assigned.
+[[Western Cymea]] retains mild winters and warm summers under maritime moderation. The model establishes a spring–summer moisture supply. The proposed [[#Winter storms from Chardon to the Green Sea|winter storm route]] also gives Cymea a source of cool-season precipitation, but its frequency and the balance between summer rain and winter rain remain to be assigned.
 
 #### South Cymea and the Maritime Trade Peninsula
 
@@ -240,7 +246,7 @@ Maritime exposure and the wetter eastern side of the peninsula's western mountai
 
 #### Medju and the Great Desert
 
-The [[Great Desert]] extends deep inland and reaches the Green Sea along a short frontage near Medju. Persistent interior aridity is the principal constraint. The immediate coast admits semiarid or locally greener conditions, including scrub, grasslands, cultivated valleys, and wetter foothills, while dependable seasonal rains do not penetrate deep into the desert. Beyond the strict constraint of a Sahara-like desert in the interior, there is minimal invention or canonical constraints on this region. Medju is tentatively part of a spice kingdom that draws some inspiration from Dune and other desert-lords-of-rare-goods fantasy, but has never been visited in game, and only mentioned in passing. 
+The [[Great Desert]] extends deep inland and reaches the Green Sea along a short frontage near Medju. Persistent interior aridity is the principal constraint. The immediate coast admits semiarid or locally greener conditions, including scrub, grasslands, cultivated valleys, and wetter foothills, while dependable seasonal rains do not penetrate deep into the desert. Beyond persistent interior aridity, there are few established constraints on this region. Medju is tentatively part of a spice kingdom that draws some inspiration from Dune and other desert-lords-of-rare-goods fantasy, but has never been visited in game, and only mentioned in passing. 
 
 #### Irrla
 
@@ -313,7 +319,7 @@ Mountain snowmelt and summer rain supply rivers at different times. The Enst's s
 | Addermarch and the Mostreve Hills | Milder lower valleys, cooler and snowier uplands, and substantial variation with slope exposure. Rain and mud can hinder winter travel in the valleys while snow obstructs higher roads. |
 | Tyrwingha and the southern gulf coast | A candidate area of stronger maritime moderation, sharing the summer moisture supply and intermittent winter precipitation. The exact temperatures and local contribution of fey influences remain open. |
 | Ardlas, Breva, and the northern interior highlands | Increasing cold and shorter growing seasons with latitude, elevation, and continental exposure. [[Ardlas]] has dry, frosty winter intervals and summer rainfall; Breva's bitter winter and lasting snow remain firm campaign constraints. |
-| Tollen and the lower Volta; Vostok farther inland | Coastal exposure and a more northerly position must both be accounted for. Winter temperatures, snowfall, and river or harbor ice remain less constrained by play. Cold, dry interior plateaus should remain distinct from coastal districts. |
+| Tollen and the lower Volta; Vostok farther inland | Tollen and the lower Volta are comparatively mild, with warmer summers than the Vostok interior. Exact winter temperatures, snowfall, and river or harbor ice remain less constrained by play. Cold, dry interior plateaus should remain distinct from coastal districts. |
 | Maseau and the southwestern fringe | Retain the established hot, dry summer tendency toward [[Aurbez and the Andonne\|Aurbez]]. Moisture loss, slope exposure, and limits on rain-cloud development must explain the transition from the wetter riverlands. |
 
 ### Sembaran uncertainties and source limits
@@ -327,15 +333,17 @@ Mountain snowmelt and summer rain supply rivers at different times. The Enst's s
 > - **Winter storm reach:** the frequency, strength, and inland penetration of maritime precipitation must be sufficient for the southern and central agricultural lowlands without erasing the colder, drier northern interior or the Western Gulf's relative shelter.
 > - **Temperatures and crop calendar:** monthly temperatures, frost dates, snow-cover duration, rainfall totals, and the timing of grain ripening and haymaking remain unassigned. The proposed early-summer drying windows are a design requirement, not an established annual dry spell.
 > - **Regional boundaries:** the Cleenseau–Maseau transition, differences between Embry and the coast, and the winter climates of Tollen and Vostok need more detail. Groundwater contributions and the seasonal behavior of each river also remain unquantified.
-> - **Older climate descriptions:** the general cold, dry winters in [[Greater Sembara]] and the stronger Dwa/Dwb seasonality in [[Climate Notes]] require reconciliation with this model's gentler lowland rainfall cycle. No replacement Köppen classes are assigned yet.
+> - **Older climate descriptions:** the general cold, dry winters in [[Greater Sembara]] and the stronger Dwa/Dwb seasonality in [[Climate Notes]] are older design assumptions, not binding requirements. The retained constraints are four distinct seasons and wetter summers than winters, with winter rain and snow allowed. No replacement Köppen classes are assigned yet.
 
-%% Potential conflict for review: [[Greater Sembara]] describes winter broadly as cold and dry; [[Climate Notes]] gives Sembara Dwa/Dwb and compares Tollen with Beijing. This provisional model instead adopts appreciable winter precipitation in the agricultural lowlands and preserves stronger continental winters in the north and highlands. [[Addermarch]], [[Adderfell]], and [[Mostreve Hills]] already describe wetter or milder southern conditions. The older generalizations and climate-map boundaries have not been revised here. %%
+%% Source status: The older dry-winter generalizations in [[Greater Sembara]] and [[Climate Notes]] are not binding constraints; their authority was resolved in the climate-constraint review. This model's appreciable lowland winter precipitation and colder northern/highland winters are consistent with the retained requirements. The source notes and climate-map boundaries have not been revised here. %%
 
 ## Dunmar–Chardon Climatic Model
 
 ### Atmospheric circulation and monsoon
 
 Seasonal movement of the western subtropical ridge organizes the contrast between Dunmar and Chardon. Winter ridge influence favors Dunmar's dry season while winter disturbances reach Chardon. In summer, stronger ridge influence over Chardon maintains dry, stable conditions there, while a lower-pressure corridor near northern Dunmar and the northern Nevos admits monsoonal maritime air.
+
+The [[#Western Coast Climatic Model]] extends this circulation through Apporia and the Coastlands to Mawakel, including the transition between the Chardon ridge and the Nevos monsoon around Emerald Bay.
 
 The Dunmari monsoon draws moisture from the Nevos, with coastal inflow broadly **W–SW → E–NE**. A lower-pressure region broadly north to northwest of that inflow is compatible with this direction under Northern Hemisphere rotation. Terrain redirects the flow and controls uplift and rain shadows; the exact pressure centers and local wind bearings remain unassigned.
 
@@ -361,9 +369,13 @@ The hottest part of the year can precede the main rains: clear skies allow stron
 
 [[Western Dunmar]] and the [[Darba Highlands]] receive summer rain from the Nevos. The mountains redistribute that moisture between exposed slopes and sheltered country farther inland.
 
+Darba's subtropical climate has weak maritime moderation and a little winter rain, while remaining strongly monsoonal. Central and eastern Dunmar, and parts of the [[Nayan Floodplains]], lack this moderation.
+
 #### Interior Dunmar and the Hara Basin
 
 Rain diminishes across and beyond the [[Yuvanti Mountains]] and [[Rudhan Heights]]. The [[Hara Basin]] has a shorter or less reliable wet season, strongest in its west and north. Its southern and eastern margins remain very dry.
+
+The rains generally reach western Dunmar and Darba before Tokra and Songara, advancing through the Yuvanti foothills and [[Copper Hills]]. The northern peaks, Raven's Hold, Karawa and Gomat follow later; sparse rain reaches Askandi and the deep Garamjala later still. [[The Dunmari Monsoon]] records this regional progression. Rain commonly begins in June or July, but dates, intervals and wet-season duration vary by year and district.
 
 > [!tip] How a rain shadow works
 > Air forced up a mountain cools; if it contains enough moisture, clouds and rain form on the exposed slope. Air descending on the other side warms, reducing its relative humidity and making further rain less likely. This can leave a dry interior close to a wet coast. The effect depends on wind direction, mountain height, and gaps through the terrain, so it produces a gradient rather than a perfectly dry boundary. See the [Met Office explanation of the foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect).
@@ -372,10 +384,103 @@ Rain diminishes across and beyond the [[Yuvanti Mountains]] and [[Rudhan Heights
 
 The [[Chataan Mountains]] form a climatic transition. Exposed slopes receive monsoonal rain, while [[Alta Tonaro]] on the northern foothills depends mainly on winter rain and rare summer thunderstorms. Farther north, the Chardonian heartland has Mediterranean seasonality: dry summers and winter rain.
 
+Across the broader western forest belt, mild lowland winters with little snow grade into snowier conditions at higher elevations and farther north. Seasonal temperature contrasts increase inland. This broad temperature pattern, retained from [[Climate Notes]], does not assign one rainfall calendar to the whole forest region.
+
 #### Unspecified Dunmari and Chardonian climate details
 
 > [!question] Unspecified parameters
-> Monsoon onset, retreat, local wind bearings, and rainfall totals remain unassigned here. The Western Dunmar temperature sequence does not assign the same winter temperatures to Hara or every Dunmari region. Regional temperature ranges and the detailed transition across the Chataans require further development.
+> Exact monsoon onset and retreat dates, wet-season duration, local wind bearings, and rainfall totals remain unassigned here. The Western Dunmar temperature sequence does not assign the same winter temperatures to Hara or every Dunmari region. Regional temperature ranges and the detailed transition across the Chataans require further development.
+
+## Western Coast Climatic Model
+
+The western coast grades from Chardon's Mediterranean seasonality through the milder, productive Upper Coastlands to Mawakel's cooler maritime climate. The same seasonal subtropical ridge that organizes the [[#Dunmar–Chardon Climatic Model]] extends north along the Coastlands, while Mawakel remains exposed to the northern ocean's weather throughout the year.
+
+### Ocean winds and the seasonal ridge
+
+Across the temperate northern [[Endless Ocean]], prevailing westerlies carry maritime air and weather generally eastward toward the coast. Farther south, northeasterly trade winds occupy the equatorward side of the subtropical high. These broad wind belts and the regional high belong to the same circulation. The vast ocean gives incoming western air a strongly maritime character and provides a long stretch of open water over which winds can build waves.
+
+In winter, the subtropical ridge lies farther south and ocean disturbances reach Chardon. Through spring and summer, the high broadens around Chardon and the [[Gulf of Chardon]], with its northern ridge extending gradually just offshore of the [[Coastlands]]. Summer drying develops later and becomes shorter and more interruptible toward the north. **The seasonal subtropical ridge ends south of Mawakel.** Its inland reach varies between seasons and years, including around [[Lake Valandros]]; its exact extent toward the Sentinels remains open, subject to the recurring summer moisture supply described in [[#Lake Valandros and the western forests]].
+
+Northern ocean storms weaken in summer and their main tracks lie farther north. Mawakel retains a prevailing western component to its winds, with sharply alternating settled and unsettled spells as temporary highs interrupt the passage of fronts. The balance varies substantially between years. In autumn and winter, stronger ocean storms become more frequent; their return need not coincide exactly with the retreat of the southern ridge.
+
+> [!tip] Prevailing winds and coastal winds
+> Clockwise circulation around the high supports westerlies on its northern side and northerlies on its eastern side. Mawakel's western ocean winds can therefore coexist with summer north–northwest winds along the Coastlands. Passing systems change the wind on individual days, and settled weather can still be breezy.
+
+### Regional climates
+
+#### Chardon and the Coastlands
+
+Chardon and the Low Coast retain mild, rainy winters and warm to hot, predominantly dry summers. Coastal exposure moderates temperatures, while inland districts have sharper temperature contrasts. Fog recurs around Chardon without dominating its weather.
+
+The Upper Coastlands receive generous winter and spring rain, with moderate growing-season temperatures followed by a drier part of summer. This later drying supplies the climatic conditions for the region's extensive grain country: moisture remains available through spring growth, while drier weather usually accompanies ripening and harvest. Toward Mawakel, summer rain interrupts the dry season more readily.
+
+Lake Valandros lies near the inland margin of this developing summer ridge influence, in the transition to the wetter western Sentinel forests described below. The [[Beacon Hills]] may modify maritime exposure, but their presence alone does not establish a major rain shadow.
+
+#### Apporia and Emerald Bay
+
+Northern [[Apporia]], including [[Raziolo]] and the developed Gulf coast, retains Mediterranean seasonality. Around the broad summer high over Chardon and the Gulf, relatively weak pressure differences allow lighter or variable winds, local sea breezes, and episodes of easterly flow. The gulf is sheltered from much of the western ocean's direct wave exposure, although winds blowing across the gulf can still raise rough water.
+
+The summer monsoon trough usually lies around southern [[Emerald Bay]] or just south of it. Its movement and changes in strength make the bay a fluctuating northern fringe of the Nevos monsoon. Active episodes bring west–southwest winds and wetter, sometimes squally weather farther north; quieter periods allow lighter winds or an easterly component associated with the Chardon high. Northern Apporia remains predominantly dry in summer, while the southern canal approaches experience a more variable transition. The precise boundary and the climates of western and interior Apporia remain unassigned.
+
+#### Mawakel Peninsula
+
+The [[Mawakel Peninsula]] has a cool maritime climate, with wetter, stormier winters and a quieter, relatively drier summer. Coastal temperatures are moderated by the ocean; interior valleys and higher ground have greater cold and snow persistence. Exposure, elevation, and local terrain determine these contrasts without fixing them to particular compass sides of the peninsula.
+
+Summer alternates between extended spells of pleasant, settled weather and clusters of fronts bringing cloud, rain, and stronger winds. Cool or moderate days predominate, with warm and occasionally hot weather possible. Mist and low cloud recur, but summer need not be persistently gray. Some years have much more settled weather than others. Spring can remain wet and stormy late into the season, while mild autumn weather sometimes lingers before winter storms return.
+
+Winter alternates milder west–southwest maritime weather with cold outbreaks arriving from the north or northwest. The cold outbreaks bring snow showers down to the coast; returning milder ocean air brings rain and thaws. Incoming wet weather can also begin as snow where cold air lingers. **Coastal snow comes and goes through an ordinary winter**, while deeper snow lasts longer inland and at elevation. Exceptionally persistent cold can produce prolonged freezes, and other winters are comparatively mild. This mechanism requires sufficiently direct access to cold northern air; its precise routes remain to be developed.
+
+#### Fiatara Mountains, Voltara, and Erbalta
+
+The [[Fiatara Mountains]] create a marked contrast between their maritime western slopes and the drier plains to the east. Direct westerly flow brings mountain precipitation, followed by warming and drying as air descends beyond the range. **Intermittent southwestern wet-weather episodes reach around the southern Fiatara and through lower foothill country into the Voltara region.** These are recurring opportunities for rain, with the strongest mountain shelter remaining effective elsewhere.
+
+Spring and early summer provide the most dependable rain around Voltara, as passing ocean disturbances overlap with inland warmth that helps showers develop. Later summer has longer sunny, dry intervals, interrupted by thunderstorms and occasional fronts. Similar opportunities reach Erbalta, but rainfall is less dependable and more uneven in the sheltered plains. Both regions vary substantially between years.
+
+| Region | Climatic pattern |
+| --- | --- |
+| Western and high Fiatara | Substantial maritime rain and mountain snow, especially in the stormier cold season. Summer is quieter, with passing disturbances still possible. The highest summits retain glaciers and extensive snow even in summer; lower slopes have a more distinct summer season. |
+| [[Voltara]] and its hinterlands | Moderately dry continental grassland, with spring and early-summer moisture followed by warm to hot, sunny summers and episodic rain. Winters are colder than the coast, with snowstorms, intervening dry weather, and occasional milder spells and thaws. This comparatively well-watered grassland margin supports the established productive pasture and farmland. |
+| [[Erbalta Plains]] | Drier grassland under stronger mountain shelter, with hot, dry summer intervals and cold winters. Spring and early-summer rain is less reliable than around Voltara, and summer storms are scattered and uneven. Limited precipitation preserves the dry grazing landscape and the concentration of settled agriculture in irrigated fields and riparian valleys. |
+
+The moisture gradient follows mountain shelter and the routes of individual weather systems. The precise extent of Voltara's more productive grassland and its transition into drier Erbalta country remain open. Southwestern access is a broad circulation feature; no particular pass or mountain height is assigned.
+
+%% Source status and development decisions: Tim adopted Voltara's western-plains seasonal character, the shared seasonal opportunities for rain across Voltara and Erbalta, and intermittent southwestern maritime access around the southern Fiatara. These are new model choices. The earlier constraint review retained Erbalta's dry grazing landscape while leaving rainfall seasonality free; the late-winter/early-spring emphasis in [[Erbalta Plains]] is not a binding calendar. Highest-summit glaciers and heavy summer snow in [[Fiatara Mountains]] remain firm campaign constraints, independently of the chosen lowland rainfall pattern. %%
+
+#### Lake Valandros and the western forests
+
+Western and southwestern maritime air reaches [[Lake Valandros]] and the forests south of the main Fiatara barrier, with broader access than in the sheltered Erbalta Plains. As moist air rises toward the Sentinels, precipitation increases on exposed slopes. Ocean disturbances supply substantial autumn-through-spring rain and upland snow.
+
+**Summer rainfall diminishes, but recurring wet spells interrupt the forest's dry intervals.** When the Chardon ridge extends strongly inland, sunny, drying weather reaches the lake and forests. When its northern influence weakens or retreats, ocean disturbances penetrate eastward across the northern Coastlands toward Valandros, with rainfall enhanced over the rising forest country. A passing disturbance can draw moist air northeastward around the ridge's northern margin, giving these episodes a southwesterly wind. Their moisture comes from the western ocean; no southern monsoon connection is assigned.
+
+These wet spells recur often enough, together with abundant cool-season precipitation and spring snowmelt, to sustain [[Ainumarya]]'s lush, productive giant-conifer forests. The forest has more summer moisture than a strict Sierra Nevada sequoia comparison would imply. Sunny stretches and drought years remain possible, but excluding maritime moisture for most of the growing season is not the ordinary regime. Rain frequency and the length of dry intervals vary across the region and between years.
+
+| Region | Climatic pattern |
+| --- | --- |
+| Lake Valandros | Warm summers and colder winters than the outer coast, with some shoreline temperature moderation. Cool-season rain, occasional lowland snow, and variable summer dry spells interrupted by maritime weather. Lake freezing remains unassigned. |
+| [[Tawir Forest]] | More persistent maritime moisture, frequent fog, and less dependable summer drying. Its lush forest character is retained, with possible mystical or magical contributions to exceptional local conditions. |
+| [[Crimson Forest]] and [[Elderwood]], within Ainumarya | Abundant cool-season moisture and recurring summer wet spells, with precipitation increasing on exposed slopes toward the Sentinels. Winter snow becomes more persistent with elevation; lowlands have milder winters. Moisture supports the established rich forest and huge conifers without requiring continuous summer rain. |
+| [[Highveil Forest]] and [[Forest of Dreams]] | Increasing winter cold and upland snow, with shorter growing seasons farther north and higher on the slopes. Local rainfall contrasts remain open; Highveil's more open woodland does not establish a drier regional climate. |
+
+Lake Valandros modifies nearby temperatures and may contribute to local fog, cloud, or snowfall when conditions allow. The ocean remains the regional moisture source; the lake's effects on rainfall and snow distribution are not assigned.
+
+%% Source status and development decisions: Tim adopted this inland extension, including recurring summer wet spells to preserve the lush giant-conifer character of Ainumarya. [[Central Highlands]] supplies the broad forest target; its older claim that inland distance makes such forests implausible, and its suggested drier northern-forest contrast, are not binding constraints. The circulation and seasonal treatment here are new model choices. [[Lake Valandros]] establishes the lake and forest transition but no precise climate. Tawir's possible magical influence remains open. %%
+
+### Seasonal winds and campaign weather
+
+Summer north–northwest winds along the exposed Coastlands favor southward sailing, with northward passages using changing weather, tacking, and local opportunities. Winter disturbances bring changing winds and greater storm exposure. Mawakel's summer lulls in storm activity improve conditions without requiring continuous calms, and ocean swell can persist after local winds ease.
+
+The [[Emerald Song]] voyage in [[Session 47 (DuFr)]] establishes viable summer travel from Darba through the [[Old Chardon Canal]] to Chardon, including westward legs against the monsoon. It supports a navigable, variable wind regime around the northern Nevos and Gulf, without fixing the trough's position or requiring favorable winds throughout the voyage. Magical wind assistance inside the canal is separate from the surrounding natural circulation.
+
+%% Sources and development decisions:
+- The monsoon headwinds and increasingly tricky winds farther north are described in the prepared Session 47 transcript, `_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-source-prepared.md`; the route is retained in [[Session 47 (DuFr)]]. Voyage durations and the ship's performance do not set wind speeds or seasonal calendars.
+- [[Mawar Adventures Episode 03]], [[Mawar Adventures Episode 04]], and [[Mawar Adventures Episode 05]] supply individual examples of cold autumn forest, November rain, and calm water after a spring storm. The local magical warming and steam in Episode 04 are excluded. The spoken introduction preserved in [[Mawar Ep 5 - Intro Draft]] supplies contrasting severe and mild winters, a late wet spring, a cool fine summer, and a lingering warm autumn. These are particular years, not fixed seasonal dates; the prep and spoken version are one observation.
+- Tim adopted the offshore northern ridge, its variable inland reach, the fluctuating Emerald Bay monsoon fringe, Mawakel's sharply alternating summers with year-to-year variation, and recurring northern cold outbreaks followed by thaws. Mawakel's broad exposure and elevation contrasts are retained; the compass-side assignments in [[Mawakel Peninsula]] remain flexible.
+%%
+
+### Western coast uncertainties and map coverage
+
+> [!question] Unspecified parameters
+> Rainfall totals, temperature ranges, snow duration, wind speeds, exact pressure boundaries, and local wind bearings remain unassigned. The reach and reliability of southwestern rain around Voltara, the local strength of the Fiatara rain shadow, and mountain snowlines require further detail. Around Valandros and the forests, local summer rainfall frequency, the distribution of wetter and drier sites, lake effects, and lake freezing remain open. The detailed Sentinel climate remains unmodeled beyond these western forest margins and existing broad constraints. Ocean currents and water temperatures are not assigned by this atmospheric model. The existing Dunmar–Chardon seasonal map remains a southern schematic; it does not depict the northern ridge extension, Mawakel's storm regime, the northern inland climates, or the detailed Emerald Bay boundary.
 
 ## Real-World Analogs and Physical References
 
@@ -389,6 +494,9 @@ These comparisons supply selected mechanisms or landscape targets. No single rea
 | Urskan High | Okhotsk-like episodic summer high pressure associated with cool maritime air; not a demonstration of the ridge's Taelgar position or reliability. |
 | Recurring regional summer winds | Etesians: organized seasonal winds under a regional pressure contrast; not a rainfall analog for Sembara or the taiga. |
 | Chardonian heartland | Mediterranean seasonal contrast between dry summers and winter rain. |
+| Mawakel Peninsula | Northern California and Oregon coastal summer character, combined with Scandinavian rocky coasts and substantially more recurring winter snow. Western Norway supplies a mechanism comparison for northern snow showers alternating with milder maritime rain and thaws. |
+| Voltara and the Erbalta margin | Western Great Plains and foothill prairie character: pronounced temperature swings, useful spring and early-summer rain, and sunny summers interrupted by storms. The Taelgar model supplies moisture through intermittent southwestern maritime access; it does not import the Great Plains' complete circulation or a fixed rainfall calendar. |
+| Ainumarya and the western Sentinel forests | Coastal redwoods supply the lush giant-forest character; British Columbia's inland rainforests supply a comparison for ocean moisture, mountain uplift, snowmelt, and growing-season rain. Sequoias illustrate giant trees sustained through dry summers, but Ainumarya retains more summer moisture. No analogy fixes the precise rainfall calendar or tree species. |
 | Southern Sembara and Addermarch | Mid-Atlantic Appalachian temperature and landscape targets: humid summers, changeable lowland winters, and snowier uplands. The seasonal wind reversal is developed separately. |
 | Greater Sembaran circulation | East Asian monsoon mechanisms for seasonal maritime inflow, with a gentler rainfall contrast in the agricultural lowlands; not a uniform Manchurian temperature regime. |
 | Winter storms east of the Sentinels | Mediterranean lee cyclogenesis: disturbances cross mountains aloft and lows form or reorganize downstream. The proposed Taelgar route and its frequency remain hypotheses. |
@@ -401,12 +509,17 @@ These sources support mechanisms and comparisons, not the specific geography or 
 
 - [Met Office: wind flow](https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow): circulation around highs and lows.
 - [Met Office: global circulation](https://weather.metoffice.gov.uk/learn-about/weather/atmosphere/global-circulation-patterns): the broad circulation and seasonal movement of weather belts.
+- [Norwegian Meteorological Institute: local weather in Sunnmøre](https://wiki.met.no/snoskred/lokalt_vaer/sunnmore): north–northwest snow showers, predominantly rainy southwest–west weather, and colder inland districts; a mechanism comparison for Mawakel's winter alternation.
+- [Bureau of Meteorology: monsoon](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/monsoon): active and quieter monsoon phases; the Australian geography and wind directions are not transferred to Taelgar.
 - [National Weather Service: monsoons](https://www.weather.gov/twc/Monsooninfo): seasonal land–sea heating contrasts, wind changes, and rainfall.
 - [Bureau of Meteorology: subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge): seasonal ridge migration and a persistently dry interior. Australian geography and Southern Hemisphere wind directions require adaptation.
 - [Rodwell and Hoskins, 2001: Subtropical Anticyclones and Summer Monsoons](https://wind.mit.edu/~emanuel/tropical/rodwell_hoskins_2001.pdf): interactions among monsoons, oceanic highs, and nearby summer subsidence; not a demonstration of the proposed Taelgar trough or Dunmar–Chardon connection.
 - [Japan Meteorological Agency: the Okhotsk High](https://www.data.jma.go.jp/cpd/j_climate/hokkaido/column_okho.html): episodic northern summer high pressure associated with cool maritime air.
 - [Tyrlis and Lelieveld, 2013: climatology and dynamics of the Etesians](https://journals.ametsoc.org/view/journals/atsc/70/11/jas-d-13-035.1.xml): recurring summer winds organized by regional pressure contrasts.
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect): mechanisms for warmer, drier lee-side air; application depends on mountain orientation and wind paths.
+- [Colorado Climate Center: Colorado's climate](https://climate.colostate.edu/climate_long.html): western-plains temperature contrasts, spring moisture, and episodic summer thunderstorms; a seasonal-character comparison for Voltara, not a demonstration of Taelgar's moisture routes.
+- [Parks Canada: temperate inland rainforest](https://www.parks.canada.ca/pn-np/bc/glacier/nature/naturelle-natural/pluviale-rainforest): ocean disturbances, mountain uplift, snowmelt, and growing-season rainfall sustaining lush inland forests. Its seasonal rainfall peak is not imposed on Ainumarya.
+- [US Forest Service: coast redwood](https://research.fs.usda.gov/silvics/redwood) and [giant sequoia](https://research.fs.usda.gov/silvics/giant-sequoia): contrasting roles of summer fog, winter precipitation, snow, and persistent soil moisture in supporting giant trees through dry summers.
 - [Aragão and Porcù, 2022: Cyclonic activity in the Mediterranean region](https://doi.org/10.1007/s00382-021-05963-x): cyclone formation around mountains and an enclosed sea, including lee cyclogenesis; a mechanism comparison for the proposed winter route east of the Sentinels.
 - [National Weather Service: pressure systems and fronts](https://www.weather.gov/lmk/basic-fronts): moving lows, circulation, and precipitation extending beyond a low's center.
 - [Virginia Cooperative Extension: growing bread wheat in the mid-Atlantic](https://www.pubs.ext.vt.edu/424/424-024/424-024.html) and [University of Minnesota Extension: wheat flooding and waterlogging](https://extension.umn.edu/agriculture/crop-production/small-grains/wheat-flooding-and-waterlogging): drainage and harvest-weather constraints on a productive grain region, not a prescribed Sembaran crop calendar.

@@ -99,15 +99,20 @@ villian action 2 summons a snow monster but keep statblock
 if alerted, climb to ceiling and wait, hoping to get surprise. 
 
 Embedded in chest is a ice gemheart:
-A glowing blue sapphire, swirling with white snow. Can crack gem and breath the ice inside. Chills you; effects last for 1 hour, and don't require attunement.
+A glowing blue sapphire, swirling with white snow. As an action, can crack gem and breathe the ice inside. Chills you; effects last for 1 hour, and don't require attunement. Only one elemental gemheart can be active on you at a time; activating another ends the previous gemheart's effects.
 - Immune to extreme heat, and can't feel hot. 
 - Resistant to fire damage
 - If you cast a spell that does elemental damage, you can change the damage type to Cold
-- As a bonus action, you can cast Armor of Agythas at Level 4; once you cast it you cannot cast it again with this item. While the spell lasts, you can cause ice to coat and chill a melee weapon or piece of ammunition (no action required). It does an extra 1d8 cold damage. 
+- As a bonus action, you can cast Armor of Agathys at Level 4; once you cast it you cannot cast it again with this item.
+- For the duration of the gemheart's effects, you can cause ice to coat and chill a melee weapon or piece of ammunition (no action required). It does an extra 1d8 cold damage, independently of whether Armor of Agathys is active.
 
 
 When the guardian dies, burst of warmth erupts. The chamber will begin to melt. Ice takes up more space than water, so as the ice melts, the water level will drop and the entire water column will cool. 
 
 The first 10 minutes will not cause much impact. But ever 10 minutes after, the water level drops and the amount of Frigid Water increases, both by 10 feet. 
 
-Two of the ice pillars stay frozen - they also have ice gemhearts in them. DC 22 passive to notice, DC 18 on general search, "looking at the pillars" tells you automatically that two aren't melting. Takes about 2-3 minutes to smash a pillar, less with a good Athletics/Strength check. 
+Three of the ice pillars stay frozen - each has an ice gemheart in it. DC 22 passive to notice, DC 18 on general search, "looking at the pillars" tells you automatically that three aren't melting. Two have accessible gemhearts; takes about 2-3 minutes to smash a pillar, less with a good Athletics/Strength check.
+
+The third gemheart is about 20 feet up in a slender, visibly cracked pillar. Reaching it by climbing or flight and securing a working position allows it to be carefully chipped free in about 5 minutes. Smashing the pillar from below brings it down and buries the gemheart in shattered ice, requiring about 20 minutes of excavation to recover it. Supporting the pillar or a clever magical approach can avoid this complication. The chamber continues melting while they work.
+
+Including the guardian's gemheart, the expected haul is 3 usable ice gemhearts, with a maximum of 4.
