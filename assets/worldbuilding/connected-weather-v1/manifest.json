@@ -1,7 +1,7 @@
 {
   "title": "Taelgar connected weather patterns",
   "date": "2026-09-26",
-  "source": "Background/Taelgar Climatic Model.md and the accompanying Sentinel integration discussion",
+  "source": "Background/Climate and Environment/Taelgar Climatic Model.md and the accompanying Sentinel integration discussion",
   "basemap": "taelgar-basemap.jpg",
   "frame": [
     1907,

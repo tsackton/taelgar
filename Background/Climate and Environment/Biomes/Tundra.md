@@ -1,3 +1,7 @@
+---
+tags: [meta, status/check/ai]
+excludePublish: [all]
+---
 ### Tundra
 *Cold, treeless plains found at high latitudes or altitudes. Ground is underlain by permafrost and the growing season is extremely short.*
 

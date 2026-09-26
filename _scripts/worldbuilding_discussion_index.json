@@ -3852,7 +3852,7 @@
     "Background/Background.md": "ccb7bec2194ceddd8064327cd17c4234a3df1e956a0eba1cfd85e4aa6c9d2d97",
     "Background/Birthdays.md": "61d925f29eaef543c040ed2db426ecf381c5b59f2a113606c54899e6784fc05c",
     "Background/Calendar Eras.md": "ee148812c38eb5bbbd9e37d0bf66be0b8c44edcb785035a0ffe04d8582c8a8fe",
-    "Background/Climate Map.md": "13ca232ee6afff020618145cdc3301f3313d32ebc5aa98cf624ea015aa372880",
+    "Background/Climate and Environment/Climate Map.md": "75b6be309387f417ee70c1fa1871b006f22454df18eb278152f6be00d13de3a8",
     "Background/Elven Cycle of Generations.md": "5e1588eaf43f4d3c608506175be9a29b67d3bc838865f00c18d7128826c67a55",
     "Background/Ethlenn Background Notes.md": "6639a41531168ad89df1a5c274b167a78e7bd88e4ea761b7450f701af4762dbe",
     "Background/Exotic Languages.md": "a1a48f7ab6cb06bff0f520a16a1c3a2650d863599a77ed56384868ce2e800ef5",
@@ -8109,9 +8109,9 @@
       ]
     },
     {
-      "path": "Background/Climate Map.md",
+      "path": "Background/Climate and Environment/Climate Map.md",
       "name": "Climate Map",
-      "identitySha256": "13ca232ee6afff020618145cdc3301f3313d32ebc5aa98cf624ea015aa372880",
+      "identitySha256": "75b6be309387f417ee70c1fa1871b006f22454df18eb278152f6be00d13de3a8",
       "sourceCount": 3,
       "threadCount": 3,
       "significant": true,

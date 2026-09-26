@@ -1,3 +1,7 @@
+---
+tags: [meta, status/check/ai]
+excludePublish: [all]
+---
 
 ### High Alpine
 _Bare rock, permanent or near-permanent snow and ice above the tundra and treeline. Air is thin, weather is brutal, and almost nothing grows except a little lichen in cracks._

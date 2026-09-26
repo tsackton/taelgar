@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/check/ai]
 excludePublish: [all]
 ---
 # Green Sea Ocean Circulation

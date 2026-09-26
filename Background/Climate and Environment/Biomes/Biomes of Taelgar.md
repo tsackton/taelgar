@@ -1,3 +1,7 @@
+---
+tags: [meta, status/check/ai]
+excludePublish: [all]
+---
 # Biomes of Taelgar
 
 This document organizes Taelgar’s habitats into seven broad “supertypes.” Each supertype groups together related habitats; each habitat has a short description, a reference link to a corresponding real‑world biome, evocative vibes, an ecological summary, notes on human use and settlement, real‑world analogues, and guidance on where to place this habitat to keep the map grounded. 
