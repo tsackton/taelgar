@@ -1,3 +1,7 @@
+---
+tags: [meta, status/check/ai]
+excludePublish: [all]
+---
 
 ### Boreal Forest (Taiga)
 _Vast coniferous forests in high-latitude or very cold continental regions, with long, cold winters, short summers and extensive wetlands. Also known as taiga._

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 typeOf: region
 name: Northwest Coast
 whereabouts:
@@ -69,6 +69,11 @@ Hobgoblins: ??
 Dangerous Wildernesses: Yes
 %%
 ## Climate
+
+%%^Campaign:none%%
+Climate model and regional profiles: [[Climate of the Western Coast]] and [[Climate of the Northwestern Interior]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+%%^End%%
+
 
 {descriptive in world text about climate}
 

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 typeOf: region
 name: Greater Chardon
 pronunciation: CHAR-din
@@ -51,6 +51,11 @@ Hobgoblins: None
 Dangerous Wildernesses: No
 %%
 ## Climate
+
+%%^Campaign:none%%
+Climate model and regional profiles: [[Climate of the Western Coast]], [[Climate of the Northwestern Interior]], and [[Climate of Dunmar and the Chataans]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+%%^End%%
+
 
 {descriptive in world text about climate}
 

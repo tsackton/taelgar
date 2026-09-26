@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 typeOf: region
 name: Greater Sembara
 pronunciation: "sem-BAH-rah"
@@ -73,6 +73,11 @@ This is a heavily peopled land. In the north, amongst the foothills of the [[Sen
 
 There are two large and ancient lizardfolk settlements: [[Ozabal]], in the delta of the [[Wistel]], and [[Latazaro]], on the eastern borders of [[Tyrwingha]]. Beyond these settlements, lizardfolk are common along the river valleys. There are three major [[Dwarves|dwarven]] realms on the western borders, and dwarves are common in the human cities of Sembara, although there are no large, independent dwarven realms within Greater Sembara. Halflings are commonly seen plying their trade along the roads and rivers of the region, as well sailing across the [[Western Gulf]] and into the wider [[Green Sea]]. Although [[Stoneborn|stoneborn]] are never common, they too are seen in the cities of Greater Sembara, although, like dwarves, there are no large stoneborn communities within the region.
 ## Climate
+
+%%^Campaign:none%%
+Climate model and regional profiles: [[Climate of Greater Sembara]] and the northern coverage in [[Climate of the Green Sea Shores]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+%%^End%%
+
 In general, the region’s climate is temperate, with four distinct seasons, dry winters, and wet summers. During the summer months, a monsoon wind blows from the [[Green Sea]], bringing ample rainfall. In winter, high pressure builds over the northern steppe, and the west winds that blow over the mountains are dry and cold. 
 
 The climate of the region is shaped by several major factors:

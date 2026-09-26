@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/cleanup/text, status/check/lint]
+tags: [place, status/cleanup/text, status/check/lint, status/check/ai]
 typeOf: marine feature
 typeOfAlias: sea
 campaignInfo: null
@@ -28,6 +28,11 @@ The Green Sea is a large inland sea, bordered by the [[Western Gulf]] and the [[
 Climatically, the [[Western Green Sea]] is dominated by the spring and summer monsoons that bring rain from the ocean to [[Sembara]], [[Cymea]],  [[Tyrwingha]], and [[Vostok]]. The monsoon winds drive upwelling, and the [[Western Green Sea]] is rich in phytoplankton and the marine life that feeds on it, giving the Green Sea the characteristic greenish tint from which its name derives. The [[Eastern Green Sea]], much less affected by the monsoons, and with wider expanses of open water, tends towards maritime climates along the immediate coast, often with drier summers and wet winters. 
 
 The prevailing winds tend to favor sailing east in the winter, and west in the summer, especially along the north and west parts of the ocean, where monsoon winds are most dominant. 
+
+
+%%^Campaign:none%%
+Climate model and regional profiles: [[Climate of the Green Sea Shores]], [[Green Sea Atmospheric Circulation]], and [[Green Sea Ocean Circulation]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+%%^End%%
 
 %% Climate explanation - probably too much detail
 The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by [[Irrla]].

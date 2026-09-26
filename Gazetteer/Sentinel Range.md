@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Sentinel Range
@@ -24,6 +24,11 @@ The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the 
 The Sentinels are among the most prominent and significant features of Taelgar, and have many names: they are called the Indalas by the [[Stoneborn]], Labkhan by the [[Dwarves]], Beredri by the [[Deno'qai]], and Tushara by the Dunmari. 
 
 ## Climate and Character
+
+%%^Campaign:none%%
+Climate model and regional profiles: [[Climate of the Sentinels]] and [[Sentinels and Continental Weather Connections]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+%%^End%%
+
 
 The character, climate, and topography of the Sentinels varies considerably along their vast span, from the cold and icy north to the southern reaches of the range rising dramatically from the Dunmari plains. However, the climatic impact of the Sentinels is broadly consistent: across much of the range, the western slopes receive more rain and snow from the prevailing westerly winds, while the eastern slopes are drier, especially in winter, though local exceptions exist, such as the summer winds from the [[Green Sea]] that bring rain to the eastern foothills in [[Greater Sembara]]. 
 

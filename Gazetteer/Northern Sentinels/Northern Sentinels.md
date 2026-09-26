@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: tim
@@ -68,6 +68,11 @@ In the ancient days before [[The Downfall]] it is said that the [[Northerners|no
 
 In the long years leading up to the [[Great War]] the land of [[Pandar]] was [[Cha'mutte|Cha'mutte's]] home, and hobgoblins and enslaved [[Kenku|kenku]] were common sights. Since the [[Great War]] this area has been lightly populated and full of dangers.
 ## Climate
+
+%%^Campaign:none%%
+Climate model and regional profiles: [[Climate of the Sentinels]] and the western forest coverage in [[Climate of the Northwestern Interior]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+%%^End%%
+
 The mountains here are snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. The forests and fens to the west are marked by cold, snowy winters and short, wet summers. There is little farmable land here.
 
 %%^Campaign:none%%
