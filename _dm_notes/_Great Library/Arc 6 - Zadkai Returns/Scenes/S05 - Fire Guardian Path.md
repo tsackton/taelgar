@@ -24,6 +24,10 @@ Basic idea - choice between front-loading advantage but risking disadvantage lat
 
 Exhaustion gained this way cannot be removed unless plenty of drinking water is available. 
 
+### Lava Damage
+
+2d10 Fire for brief incidental contact, 6d10 for wading or substantial contact, and 10d10 for immersion
+
 ### Resting
 
 Short or long rests are possible in areas noted, though long rests require extreme amounts of water. 
@@ -58,7 +62,7 @@ Entering is hot - oppressively so. A massive runic circle is etched in the floor
 
 The large fire elemental is magically bound to the summoning circle and commanded to maintain the runes that power the storm. If anyone enters unaccompanied by Airion, it is commanded to demand they leave, in five languages (Chardonian, Amani, Common, Dwarven, and Elven). If they don't leave in 1 minute, or if they take any hostile actions towards the creature, the summoning circle, or the walls, it is to attack. **The runes are interpretable to anyone who can cast 6th level spells, and clearly seem to be some kind of weather control system.**
 
-The fire elemental hates this job and would likely prefer to just leave. Cannot, unless the summoning circle is destroyed, which takes at least an action and some kind of check (DC typically around 17; let players be creative). If freed, may lash out in anger before vanishing, especially if someone dealt a solid blow. Pet lizard vanishes with him; flame sparks are mindless and stay and fight. 
+The fire elemental hates this job and would likely prefer to just leave. Cannot, unless the summoning circle is destroyed, which takes at least an action and some kind of check (DC typically around 20; let players be creative). If freed, may lash out in anger before vanishing, especially if someone dealt a solid blow. Pet lizard vanishes with him; flame sparks are mindless and stay and fight. 
 
 The runes are self-healing as long as lava is properly flowing. If the lava is stopped, the runes fade, cool, and eventually can be damaged and destroyed.  Clues this is connected to the storm: possibly from talking to the Fire Elemental; possibly recognizing cloud or something similar in the runs. Fine to improvise here. 
 
@@ -68,17 +72,21 @@ On the far wall there is a secret door. Easiest way to detect is by heat - other
 
 If the fire elemental is killed, or freed, the lava will begin to pile up. Slow at first, and then very fast after about 10-20 minutes. Eventually, will start melting the floor, and will corrode and destroy the ruins. This will have the effect of eventually shutting off the door (1-3 days later, but will become weaker progressively). 
 
-This is, of course, trigger Zadkai to investigate. 
+This will, of course, trigger Zadkai to investigate. 
 
 
 **C2** 
 This is a store room with extra components for the guardian. Specifically, there are 11 fire gemhearts (see below). However most are not usable; Arcana check to sort: DC 13 identifies 2 usable gemhearts (expected), DC 18 identifies 3, and DC 23 identifies 4 (maximum).
+
+C2 has two fully working stones, two unstable ones, and seven irrecoverable ones. DC 13 sorts the good pair; DC 18 or 23 also stabilizes one or both damaged stones, taking ten minutes per repair attempt.
 
 This is a bare room with three stone shelves. Dusty, obviously long abandoned. Maybe some cracked scrolls, dried out potions, stuff like that. Untouched for ~200 years. Only thing still working is 2-4 of the fire gemhearts. Including the guardian's gemheart, the expected haul is 3 usable fire gemhearts, with a maximum of 5.
 
 ### Guardian Chamber (D)
 
 Entrance: neither door is locked and both can be readily opened. A weird red glow comes from beneath door to D1. 
+
+***IGNORE MAP ABOVE - LOOK AT D&D BEYOND***
 
 **D1**: Antechamber
 This was, originally, a simple antechamber. Recently, however, a pair of magma elementals have found this place, and got trapped, unable to proceed back through the portal, which is warded on this side. They have dug a magma-filled tunnel connecting this room to the portal/entry. 
@@ -93,11 +101,13 @@ Will run if reduced <50% hp via the magma tunnel
 
 Increasingly oppressive heat; extensive lava flows and precarious terrain around the door, which is slightly melted and stuck. 
 
-DC 18 Strength check to force open. On failure, DC 16 Dex save to avoid falling in lava; Disadvantage if fail strength check by more than 5. Fall in lava - ask Isaac for damage. 
+To get into guardian chamber: DC 18 Strength check to force open. On failure, DC 16 Dex save to avoid falling in lava; Disadvantage if fail strength check by more than 5. 
 
 D3: Guardian.
 
 Iron golem with a glowing red key in its chest stands under a lava waterfall. Giant flaming metal bull beside it. 
+
+He heals 6d10 HP every turn, from the lava, unless pushed out. There is a lever on the wall next to the waterfall that lowers a volcanic glass shunt, for maintenance. This stops the flow of lava for 10 minutes, but then the shunt melts. Stuck and slightly melted, requires a DC 20 Athletics check to move (requires an Action). 
 
 [Iron golem](https://www.dndbeyond.com/monsters/5195090-iron-golem)
 [Blaze gorgon](https://www.dndbeyond.com/monsters/5194932-brazen-gorgon)
@@ -120,7 +130,13 @@ Can improvise here.
 
 **Fire gemheart**: A glowing red ruby, pulsating with captured flames. As an action, can crack gem and breathe the fire inside. Warms you up; effects last for 1 hour, and don't require attunement. Only one elemental gemheart can be active on you at a time; activating another ends the previous gemheart's effects.
 - Immune to extreme cold, and can't feel cold. 
-- A shield of fire makes you resistant to cold damage, and whenever you are hit by a melee attack, the attacker takes an extra 1d8 fire damage.
-- If you cast a spell that does elemental damage, you can change the damage type to Fire
-- As a reaction to taking Cold damage, you can end the shield. Doing so gives you immunity to the triggering damage and resistance to Cold damage until the start of your next turn. The shield's fire retaliation ends immediately, and its cold resistance ends at the start of your next turn. The gemheart's other benefits remain.
+- If you cast a spell that does elemental damage, you can change the damage type to Fire. 
+- As a Bonus Action, you can transform into Magma Form or Smoke Form. 
+- In magma form:
+	- You are resistant to cold damage.
+	- As a reaction to taking Cold damage, you can end the form. Doing so gives you immunity to the triggering damage and resistance to Cold damage until the start of your next turn. The magma form ends immediately, and you cannot reenter magma form. You can still enter Smoke form. 
+	- Whenever you are hit by a melee attack, the attacker takes an extra 1d8 fire damage.
+- In smoke form:
+	- You gain a fly speed equal to your Speed, and you can move through spaces as small as 1 inch. 
+	- You have Advantage on Dexterity (Stealth) checks. 
 

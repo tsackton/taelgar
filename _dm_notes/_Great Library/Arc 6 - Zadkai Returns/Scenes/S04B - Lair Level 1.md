@@ -4,11 +4,15 @@
 
 Reached from [[S04A - Entrance to the Lair|Entrance to the Lair]], via the stair.
 
-Once everyone in the upper room is on the stair (or, when a particular command word is spoken, but Airion was too clever to write it down, so would need to be learned by magic of some kind), there is a grinding, shaking sound for a moment, and the upper passage goes dark while flickering torchlight can be seen below.
+When someone walks far enough down (or, when a particular command word is spoken, but Airion was too clever to write it down, so would need to be learned by magic of some kind), there is a grinding, shaking sound for a moment, and the upper passage goes dark while flickering torchlight can be seen below.
+
+Mechanism of the stair: this is, functionally, an extradimensional portal. It functions equally well in both directions, but it seals off the vault from the entrance and prevents any kind of teleport shenanigans (you can't teleport into or out of the vault because it is in a demiplane). It has a failsafe not to accidentally kill anyone so it only works if no one is in the ~20 feet of stair nearest the top (or nearest the bottom from below). That is, if you have like a rope, or string out a group of people on the stair, everyone has to be in the 20 feet down zone or 20 feet up zone for it to trigger. 
 
 ## Interior
 
-This is the vault entrance chamber. It is a 30x30x15 bare room, lit by 18 torches enchanted with Continual Flame of various colors. A smashed mirror sits on one wall, behind which is a silver door covered in runes, a moving/drifting image of mists and clouds passing over the door. There are four key holes in the center of the door, all empty. 
+This is the vault entrance chamber. It is a 30x30x15 bare room, lit by 18 torches enchanted with Continual Flame of various colors. A smashed mirror sits on one wall, behind which is a silver door covered in runes, a moving/drifting image of mists and clouds passing over the door. There are four key holes in the center of the door, all empty. Each is visibly associated with an element: fire flickers in one, ice coats another, one is gemstone, and mist and clouds float around the fourth. Make it obvious that each key hole has an elemental connection. Simple examination reveals all four keys are required. 
+
+The mirror can be repaired with Mending or similar, but this can only restore parts of the reflective surface not its lost enchantment. The frame still records what it used to do. 
 
 A pool in the center of the floor descends seemingly into infinite depths.
 
@@ -16,6 +20,8 @@ The other three walls have doors, of a sort:
 Opposite the mirror is a metal door that glows red-hot; waves of heat radiate from it out into the room. 
 To the left (facing the mirror) is a mosaic design of gemstones that depict a tunnel through the wall, leading to a distant point. 
 To the right (facing the mirror), a cloudscape of realistic moving clouds is woven on a tapestry that flaps in the non-existent wind. 
+
+
 
 ### Airion's Vault
 
