@@ -72,6 +72,9 @@ HP is 45, Damage Threshold 15, AC 15. Only takes a few solid hits to crack, but 
 
 Breaking through floods the cave below with about 3 feet of frigid water before the plug refreezes. 
 
+Breaking the plug leaves a passage for one minute. Frost thickens around its edge every round. It cannot close through a creature: occupied space stays open, exposing that creature to the already-established cold but no new automatic crushing damage. A rope becomes frozen in place rather than severed. Leaving a rigid support keeps an opening of that support's size; a narrow rope does not preserve a person-sized passage. Once fully reformed, the plug regains the listed statistics. Teleportation does not open a hole or flood B. After the guardian dies, the plug stops regenerating and melts open over ten minutes.
+
+
 ### Ice Cave (B)
 
 If flooded, traveling through the cave counts as frigid water for anyone at least half submerged (everyone, unless someone is flying or otherwise above the ground). 
@@ -96,20 +99,35 @@ long snakelike thing of ice. Breath Weapon is smashing tail against ground causi
 initiative +8
 villian action 2 summons a snow monster but keep statblock
 
-if alerted, climb to ceiling and wait, hoping to get surprise. 
+if alerted, climb to ceiling and wait, hoping to get surprise (DC 20 to detect, anyone who doesn't has disad on initiative; if it is undetected it also has advantage). Otherwise, it paces at the back of the chamber. 
 
 Embedded in chest is a ice gemheart:
 A glowing blue sapphire, swirling with white snow. As an action, can crack gem and breathe the ice inside. Chills you; effects last for 1 hour, and don't require attunement. Only one elemental gemheart can be active on you at a time; activating another ends the previous gemheart's effects.
 - Immune to extreme heat, and can't feel hot. 
 - Resistant to fire damage
-- If you cast a spell that does elemental damage, you can change the damage type to Cold
-- As a bonus action, you can cast Armor of Agathys at Level 4; once you cast it you cannot cast it again with this item.
-- For the duration of the gemheart's effects, you can cause ice to coat and chill a melee weapon or piece of ammunition (no action required). It does an extra 1d8 cold damage, independently of whether Armor of Agathys is active.
+- While this effect is active, you can switch as a Bonus Action between a Water form and an Ice form. Each give you different benefits.
+- Ice form gives you these benefits:
+	- As a bonus action, you can cast Armor of Agathys at Level 4; once you cast it you cannot cast it again with this item. If you leave ice form, the spell ends early. 
+	- While in ice form, you can use a Bonus Action to cause ice to coat and chill a weapon. The weapon (including ammunition fired from it) does an extra 1d8 cold damage while you remain in ice form.
+	- If you cast a spell that does elemental damage, you can change the damage type to Cold
+- Water form gives you these benefits:
+	- You can seep through cracks as small as one inch. 
+	- If you cast a spell that does elemental damage, you can change the damage type to Bludgeoning
+	- You can reshape your physical form. Your reach extends to 10 feet, and you are Immune to the Prone condition. You are also immune to the Grappled and Restrained conditions, if they are created by bonds or other physical restraints (wind, magic, and similar can still restrain or grapple you). 
 
+
+## Escape
 
 When the guardian dies, burst of warmth erupts. The chamber will begin to melt. Ice takes up more space than water, so as the ice melts, the water level will drop and the entire water column will cool. 
 
 The first 10 minutes will not cause much impact. But ever 10 minutes after, the water level drops and the amount of Frigid Water increases, both by 10 feet. 
+
+| Time after death | Shaft surface below hub | Frigid band at bottom of shaft | Practical change |
+| --- | --- | --- | --- |
+| 0–10 minutes | 0 feet | 50 feet | Initial recovery window; audible thawing |
+| 20 minutes | 10 feet | 60 feet | A short climb is needed after swimming up |
+| 30 minutes | 20 feet | 70 feet | Rope, climbing support, or flight becomes valuable |
+| 60 minutes | 50 feet | 100 feet | Recession stops; this is the stable final state |
 
 Three of the ice pillars stay frozen - each has an ice gemheart in it. DC 22 passive to notice, DC 18 on general search, "looking at the pillars" tells you automatically that three aren't melting. Two have accessible gemhearts; takes about 2-3 minutes to smash a pillar, less with a good Athletics/Strength check.
 

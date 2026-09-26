@@ -1,0 +1,143 @@
+{
+  "title": "Taelgar connected weather patterns",
+  "date": "2026-09-26",
+  "source": "Background/Taelgar Climatic Model.md and the accompanying Sentinel integration discussion",
+  "basemap": "taelgar-basemap.jpg",
+  "frame": [
+    1907,
+    1280
+  ],
+  "status": "Qualitative review diagrams. Sentinel integration is proposed development; areas and arrows are schematic.",
+  "maps": [
+    {
+      "number": "01",
+      "title": "Winter \u00b7 the western approach",
+      "stem": "taelgar-winter-western-approach-v1",
+      "interpretation": "Ocean disturbances wet the western slopes; much of the moisture falls before crossing the Sentinels.",
+      "notes": [
+        [
+          "1 \u00b7 Western ocean supply",
+          "Mawakel has milder rain-and-thaw intervals.",
+          "Cold outbreaks between storms can bring coastal snow."
+        ],
+        [
+          "2 \u00b7 Exposed mountains",
+          "Rain increases over western forests and slopes.",
+          "Snow accumulates in sufficiently cold high country."
+        ],
+        [
+          "3 \u00b7 The range separates the flows",
+          "The western side loses much of the incoming moisture.",
+          "An upper-air disturbance can still continue east."
+        ]
+      ],
+      "caveat": "A representative winter approach, not a requirement that one storm wet the whole western coast at once."
+    },
+    {
+      "number": "02",
+      "title": "Winter \u00b7 redevelopment east of the mountains",
+      "stem": "taelgar-winter-eastern-redevelopment-v1",
+      "interpretation": "The disturbance continues east; a reorganizing low draws a fresh moisture supply inland from the Green Sea.",
+      "notes": [
+        [
+          "1 \u00b7 A moving weather system",
+          "Dashed arrows trace the eastward disturbance / low.",
+          "They do not show the local wind direction."
+        ],
+        [
+          "2 \u00b7 An eastern moisture source",
+          "Air north of the low moves westward into Sembara.",
+          "Rain or snow depends on the cold air already present."
+        ],
+        [
+          "3 \u00b7 Sheltered Gulf, open-sea growth",
+          "Ordinary Gulf rainmakers can be comparatively weak.",
+          "Not every western storm develops into this sequence."
+        ]
+      ],
+      "caveat": "Second stage of a possible winter sequence. Hatching highlights mountain snow potential, not the full extent of lowland snowfall."
+    },
+    {
+      "number": "03",
+      "title": "Summer \u00b7 western ridge, eastern maritime inflow",
+      "stem": "taelgar-summer-ridge-and-eastern-inflow-v1",
+      "interpretation": "A settled western interval can coexist with Green Sea moisture reaching Sembara and the eastern Sentinel slopes.",
+      "notes": [
+        [
+          "1 \u00b7 One western ridge",
+          "The Chardon ridge extends north, ending south of Mawakel.",
+          "Its variable inland reach can dry Valandros and the forests."
+        ],
+        [
+          "2 \u00b7 Moisture from the other side",
+          "NE\u2013SW maritime air reaches Sembara and exposed slopes.",
+          "The Sentinels limit how much reaches the western side."
+        ],
+        [
+          "3 \u00b7 Recurring summer pressure",
+          "The northern ridge supports Green Sea E\u2013NE winds.",
+          "Breaks and disturbances remain part of the season."
+        ]
+      ],
+      "caveat": "A settled western episode, not a rain-free summer. Rain shading marks favored precipitation areas, not continuous rain."
+    },
+    {
+      "number": "04",
+      "title": "Summer \u00b7 a western wet spell",
+      "stem": "taelgar-summer-western-wet-spell-v1",
+      "interpretation": "The northern ridge influence retreats, allowing ocean moisture through the Coastlands to Valandros and the forests.",
+      "notes": [
+        [
+          "1 \u00b7 The upwind corridor also changes",
+          "Wet weather crosses the northern Coastlands.",
+          "Occasional SW access also brings rain toward Voltara."
+        ],
+        [
+          "2 \u00b7 Repeated forest moisture",
+          "Valandros and Ainumarya receive recurring wet spells.",
+          "Rain increases on exposed rising ground."
+        ],
+        [
+          "3 \u00b7 Chardon can remain dry",
+          "The southern ridge persists as its northern reach retreats.",
+          "Eastern rain need not alternate in lockstep with western rain."
+        ]
+      ],
+      "caveat": "A wet interruption within summer. The western reach of the northern ridge is interrupted here; regional ridges later rebuild."
+    },
+    {
+      "number": "05",
+      "title": "Summer \u00b7 an active Dunmari monsoon spell",
+      "stem": "taelgar-active-dunmari-monsoon-v1",
+      "interpretation": "Nevos moisture reaches Dunmar and some southern Sentinel approaches, with strong terrain control farther inland.",
+      "notes": [
+        [
+          "1 \u00b7 Active western / southwestern inflow",
+          "Nevos air supplies Dunmar; Emerald Bay is a shifting fringe.",
+          "Mountains and distance reduce rain toward the interior."
+        ],
+        [
+          "2 \u00b7 Southern mountain margins",
+          "Cloud and rain sometimes reach exposed foothills and valleys.",
+          "The shaded fringe does not define a pass or a fixed boundary."
+        ],
+        [
+          "3 \u00b7 The dry interior is retained",
+          "Aurbez and the high interior do not acquire a full wet summer.",
+          "Southern high-country snow remains mainly a winter supply."
+        ]
+      ],
+      "caveat": "An active spell, not an onset calendar. The separate Green Sea summer circulation is shown for geographical context."
+    }
+  ],
+  "source_sha256": "34888a21b84a3e65a8b2bd4500fd7f1f5315776d023aba13df8ca0259572735f",
+  "regeneration": "Run node build.cjs /path/to/taelgar-basemap.jpg /path/to/output. Requires sharp. Each SVG embeds its own basemap raster and preserves editable overlay vectors.",
+  "review_notes": [
+    "Winter maps 01 and 02 are successive possible stages, not simultaneous conditions.",
+    "Summer maps 03 and 04 are contrasting episodes, not a mandatory synchronized east-west alternation.",
+    "Pressure shapes and precipitation envelopes are qualitative examples, with no fixed boundaries, strengths, totals, dates or snowlines.",
+    "Unshaded regions have no conditions assigned by a particular map; they are not necessarily dry or snow-free.",
+    "The Eastern Isles storm zone is explicitly magical. No ocean-current model is implied.",
+    "Sentinel integration depicts the working proposal discussed with Tim; it does not add a new regional climate section to the source note."
+  ]
+}
