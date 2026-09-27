@@ -321,20 +321,5 @@ See [[Historical Framework]] for some details on the ages, needs reworking into 
 
 30th generation - 4500 - 4
 
-  
-
-Peronar
-
-  
-
-The Peronar, or half-born, are a lineage of elves that left the mainland and the elven kingdoms of  [[Alcarinque|Alcarinquë]] and Tinwerquë during the ThirdAge and sailed for Hkar, driven by a premonition and fear of the great evil that was coming. On Hkar, they became teachers and guides to the human population; from these elves, the humans of Hkar learned much of the great magical prowess they were later renowned for. But Hkar, the birthplace of humanity, strong in the divine spark of humanity, did not leave these elves untouched, and some part of the humanity of Hkar burrowed into their souls. They lived quicker, died quicker, and lost the will to live indefinitely. 
-
-  
-
-Unlike others of the elder races, the Peronar lived closely with humans, and were a key part of Hkaran society. During the Downfall, the Peronar fought closely with the humans of Hkar, and were crucial to the founding of Drankor. Many Peronar lived and worked in the Drankorian Empire; some, known as the ‘high Peronar’, were a crucial part of the ruling elites of Drankorian society. 
-
-  
-
-After the [[Fall of Drankor]], little is known about what happened to the Peronar. Many died in the FirstPlague, but rumors persist of some that fled east, and other, stranger rumors hint that some fled to other planes. Small pockets of Peronar, living with humans or in their own society, must have survived somewhere.**
 
 %%
