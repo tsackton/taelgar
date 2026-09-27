@@ -37,7 +37,10 @@ Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]
 
 %%^Campaign:none%%
 
-%% this is meant to be one possible story among many, but the vibes are intended to be roughly correct %%
+%% this is meant to be one possible story among many, but the vibes are intended to be roughly correct 
+
+Note that this is summarized at [[History of Taelgar - Open Questions#Planar form and creation]] -- substantial changes to the below should update the summary as well.
+%%
 ## The Creation of the Multiverse
 
 When the [[Divine Presence]] awoke or came into being and made existence, the multiverse was unformed, a chaotic sea of the unfettered power of the Plane of Magic, in which those with the will to use it could reshape the world with a thought. During the [[Riving]], the [[Divine Presence]] ripped the fabric of reality apart, isolating raw magical power to the planes, limiting and constraining magic and creation on the [[Material Plane]] itself. 
