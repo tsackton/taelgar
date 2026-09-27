@@ -30,9 +30,14 @@ Near the summit, the [[Silver Tempests]] make a final push through lightning and
 
 We end as the party suddenly enters the quiet at the top of the mountain, at the eye of the storm. Standing a short distance away is a large domed building, clearly the entrance to something, the door smashed completely open. 
 
+### Session 65
+
+
+
 ### Events
 
 - (DR:: 1752-06-29), afternoon: Travel to Brelith and Dinia's sanctuary on the western slopes of the [[Fiatara Mountains]], and reconnect.
 - (DR:: 1752-06-30) - (DR_end:: 1752-07-01): Catch up with Brelith and Dinia, and rest and recover from the [[Great Library Session Notes - Arc 5|Cairn Dor adventure]]. Learn that [[Silverstorm]] is looking for the [[Silver Tempests]].
 - (DR:: 1752-07-02): Meet [[Silverstorm]], and learn about [[Zadkai]]'s return and the [[Scouring Wind]], a group of air elementals and djinn who want to wipe humanity off the face of the earth. Agree to seek out [[Airion's Secret Lair]]. Travel on [[Silverstorm]]'s back to the edge of [[Tawir Forest]], and camp. 
 - (DR:: 1752-07-03), morning: _Wind Walk_ over the forest towards [[Mount Graybane]]. Forced out of _Wind Walk_ by the storm lingering over the mountain. Manage to struggle through, surviving wind, rain, and boulders, and arrive at the summit, where the entrance to [[Airion's Secret Lair]] stands open. 
+-  (DR:: 1752-07-03), midday: Enter the lair, descend to the vault level. Explore the air realm and defeat Zadkai's minions, taking the key and the air gemhearts. Use the air gemhearts, enter the water realm. Descent through the water, destroy the ice plug, enter the ice cave. 
