@@ -21,17 +21,19 @@ This is a former dryad's grove. The dryad was killed by a death butterfly swarm,
 
 ### Fight and Win
 
-As the willow dies, it's trunk cracks open, and the body of the dryad is visible, probably including a bunch of writing on the inside of the tree or something. Get information about the dryad's story, see: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]]
+When the willow dies, its trunk cracks open, revealing the dryad’s body and many notes carved inside the trunk in Sylvan. This is true Sylvan writing: it communicates emotions and desires as well as words, conveying the emotional substance of Sweetwillow’s story.  Get information about the dryad's story, see: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]]
 
 ### Talk to the Willow
+
+A clever approach can get the willow to talk, especially if the butterflies are killed first, but this is not the expected path.
 
 Get information about the dryad's story, see: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]]
 
 ### Failure
 
-A failure here is retreating, or trying to talk to the Willow and making no progress/angering it to the point it attempts to delay them. 
+A failure here is repeated following the path, or trying to talk to the Willow and making no progress/angering it to the point it attempts to delay them. 
 
-This is one tick on the hunter tracker. See:  [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
+See:  [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
 
 ## Exit
 
