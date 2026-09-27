@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 
 This is page tracks the status of the Gazetteer reorganization. 
 
@@ -64,5 +67,4 @@ This is page tracks the status of the Gazetteer reorganization.
 
 ## Other issues
 * [x] Resolve whereabouts issues with the Sentinels - sentinel-whereabouts pages do not currently appear in any region
-* [ ] Drankor whereabouts - Drankor should be a place rather than history
 * [x] Green Sea whereabouts - islands and such
