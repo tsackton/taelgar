@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/check/ai]
 excludePublish: [all]
 ---
 # Trading in the Green Sea
@@ -281,7 +281,7 @@ These six examples use measured routes on the linked trading map above, rounded 
 %% Measurement and scheduling notes:
 - Basemap: `/Users/tim/Library/CloudStorage/Dropbox/TaeglarMaps/WorldMap/taelgar-basemap.jpg`, 10410 × 6982 pixels, updated 22 September 2026. The grid measures 40 pixels per 24-mile hex, or 0.6 statute miles per pixel; see [[Protocol for Regional Maps]]. Distances follow water routes around coasts and islands, not straight lines across land.
 - Reference points use the trade overlay's 1907 × 1280 coordinate plane: Tollen river approach (843,431); Zakat (1278,391); Praznitsky (1371,379); peninsula west-coast anchorage (1243,697); eastern Cymean river-mouth anchorage (1019,538); Wahacha coastal reference (1750,622); Quanyi coastal reference (1690,760); Medju (1450,839). The unnamed peninsula and Cymean stops and the precise coastal anchorages are illustrative measurement choices, not adopted settlements or harbor positions. Routes extend the trade overlay's offshore approaches to these coastal references; Tollen includes the estuary passage.
-- Day counts are ceiling(route miles / 60 or 100), plus the stated whole-day holds. Holds are chosen good-season examples, not measured weather frequencies. The longer inward strait allowance follows [[Green Sea Ocean Circulation#The Western Gulf]]. Port stays are additional. Seasonal departures follow [[Taelgar Climatic Model#Climatic requirements for navigation]]; summer residence in Ursk assumes the foreign-port arrangements discussed above.
+- Day counts are ceiling(route miles / 60 or 100), plus the stated whole-day holds. Holds are chosen good-season examples, not measured weather frequencies. The longer inward strait allowance follows [[Green Sea Ocean Circulation#The Western Gulf]]. Port stays are additional. Seasonal departures follow [[Green Sea Atmospheric Circulation#Seasonal navigation windows]]; summer residence in Ursk assumes the foreign-port arrangements discussed above.
 %%
 
 ## Real World Analogs 
