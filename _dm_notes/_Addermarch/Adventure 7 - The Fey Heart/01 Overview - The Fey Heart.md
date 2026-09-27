@@ -74,3 +74,7 @@ This adventure should not have a harsh binary failure state. Its main outcomes f
 - The specific hazards added to the final approach after the tree awakens.
 - Whether Umbraeth's hunters provide the final confrontation.
 - The intended number of sessions.
+
+## Adventure Review
+
+**Time pressure:** Each long rest advances the [[Fey Timeline]] by one day. Travel, exploration, and short rests do not independently advance this clock.
