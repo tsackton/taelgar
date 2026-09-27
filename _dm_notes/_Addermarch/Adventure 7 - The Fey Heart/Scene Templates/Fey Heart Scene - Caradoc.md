@@ -16,3 +16,7 @@ Caradoc needs to:
 Caradoc will give them a choice. If they go back to [[Nightsong Roots]], they can wait for the tree to reawaken, and face it at full strength when the portal reopens. Warn this is risky. Scene: [[Fey Heart - Singing Tree Restored]]
 
 He also has a potion. Tossed on the ground, it creates a mist that lasts for about a minute and allows travelers to walk through to the Feywild. Very rare, but will offer it. 
+
+### Returning home
+
+Caradoc explains that restoring the heart will make the [[Nightsong Roots]] crossing available, allowing the party to return home through it.

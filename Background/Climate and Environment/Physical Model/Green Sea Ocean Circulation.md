@@ -13,6 +13,9 @@ This is a working ocean model designed to accompany [[Taelgar Climatic Model]] a
 > ![[taelgar-green-sea-currents-v3.png]]
 > *Blue shows the cold northern branch, orange the warm southern branch, and teal the shared offshore outflow. Dashed segments identify schematic exchange through or beneath the Eastern Isles, not specific surface passages. Grey double-ended arrows show Western Gulf exchange. Seasonal notes describe changes in surface flow; small hexes are 24 miles face-to-face.*
 
+> [!note] Older Gulf inset
+> The v3 figure predates the adopted Western Gulf exchange. Its inset leaves strait depth and layered exchange open; the current model instead has deep straits, outward surface flow and deeper cold/salty inflow. See [[#The Western Gulf]]. The figure has not been redrawn.
+
 The northern coastal current is relatively narrow and fast, especially under the summer easterlies, when the winds reinforce the current. The offshore outflow is broader, and its surface flow slows substantially when winds oppose it, though water continues returning east through a combination of surface and deeper routes. The southern inflow is broad and meandering around coastal headlands and likely branches. 
 
 ### Model Constraints

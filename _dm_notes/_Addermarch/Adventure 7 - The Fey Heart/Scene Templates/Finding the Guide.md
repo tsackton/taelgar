@@ -24,8 +24,12 @@ the gate here is convincing the guide, through words or actions, that they are o
 
 so, with information, the party can show the guide they are committed, or they can do the mini-quest to show by action instead of words
 
+things that help:
+- Gwydren understands that the willow was corrupted and dangerous. Bringing him Sweetwillow’s story can help establish trust regardless of whether the party spared it.
+
 ## Suspicion
 
 so, the guide is just suspicious in general. the fact that they are carrying the heart makes it more suspicious, not less - everyone knows a human took it! maybe they are doing something nefarious with it.
 
 i imagine the guide is a little paranoid
+

@@ -14,18 +14,18 @@ Nonpublic reference library for Taelgar's climate, weather, habitats, and their 
 | Choose or describe a habitat | [[Biomes of Taelgar]] — existing habitat catalog; regional placement remains to be connected. |
 | Think about fields, travel, or trade | [[Climate and Landscape Applications]] — agriculture, seasonal landscapes, and navigation. |
 | Explore an unusual or magical departure | [[Magical Climate Departures]] — compare the expected baseline with the adopted exception. |
-| Check what the model must accommodate | [[Climate and Weather Constraints]] — destination for accepted climatic requirements and campaign weather. |
+| Check what the model must accommodate | [[Climate and Weather Constraints]] — maintained climatic requirements, campaign weather and their qualifications. |
 | Browse maps | [[Climate Map]] — existing annual map; [[Weather Patterns of Taelgar]] links the connected-weather examples. |
 
 ## Library status
 
-The first structural stage is complete. The climatic model, ocean model, climate-map note, and existing biome notes have moved here with their body text intact. The new regional, physical, and habitat-family pages are navigation stubs pointing to that existing material. A stub marks where content belongs; it does not mean the underlying region is wholly unmodeled.
+The continental consolidation is complete. [[Taelgar Climatic Model]] explains the connected seasonal system; the physical notes own its detailed mechanisms, and the [[Regional Climate Atlas]] provides Gazetteer-linked local profiles. The detailed Sentinel mountain climate and several other regions remain unmodeled despite having useful partial profiles.
 
-The next content pass will consolidate the continent-wide account, extract detailed explanations and regional profiles, and prepare the self-contained constraints note for review. The current constraints remain within [[Taelgar Climatic Model#Climatic Constraints]]. The existing [[Climate Map]] and its authority wording have been preserved for that review; it does not yet depict all later model development. The biome catalog remains working material, including its Earth examples and unreviewed generalizations.
+[[Climate and Weather Constraints]] contains the accepted working baseline: required outcomes, open explanations, dated weather and source limits. [[Climate and Weather Constraints - Draft]] is its dated review snapshot. The existing [[Climate Map]] is historical and does not yet depict all model development; the ocean figure's older Gulf inset is qualified beside the figure. Weather and habitat-family pages still mark further work. The biome catalog remains working material, including its Earth examples and unreviewed generalizations.
 
 ## Physical model
 
-The continent-wide model must remain a readable explanation of the whole connected system. These notes are the destinations for its detailed mechanisms:
+The continent-wide model must remain a readable explanation of the whole connected system. These notes contain its detailed mechanisms:
 
 - [[Western Ocean and Coast Circulation]]
 - [[Dunmar and Nevos Circulation]]
@@ -52,12 +52,12 @@ Keep established requirements, adopted model choices, hypotheses, predictions, a
 
 Use linked Gazetteer regions to define geographic coverage. The atlas volumes are browsing groups, and their boundaries need not coincide with either Gazetteer borders or sharp changes in climate. A prediction for a new place does not become independent evidence for the model.
 
-The maintained constraints must eventually contain the accepted statements, scope, and qualifications in full. Sources support verification; ignored review directories are optional provenance. Essential model use and navigation must work without them. A future weather generator should derive from this human-readable model rather than maintain a competing set of climatic assumptions.
+The maintained constraints contain the accepted statements, scope, and qualifications in full. Sources support verification; ignored review directories are optional provenance. Essential model use and navigation must work without them. A future weather generator should derive from this human-readable model rather than maintain a competing set of climatic assumptions.
 
 ## Work still to do
 
-- Consolidate the continental model and extract its regional detail; review the final constraints wording.
-- Reconcile the older Western Gulf uncertainty in the climatic-model summary and figure with the adopted exchange in [[Green Sea Ocean Circulation#The Western Gulf]].
-- Record the Sentinel synthesis and weather examples, with clear seasonal and episode map legends.
-- Split and connect the biome catalog, then develop worked regional applications.
-- Produce an updated annual climate map before designing numerical generator inputs.
+- Develop the detailed Sentinel mountain synthesis within the accepted constraints and the established connections on both sides.
+- Expand the weather-pattern catalog and give the episode maps complete captions and clearer legends.
+- Connect and organize the biome catalog, then develop worked regional applications beyond the initial Sembara example in [[Agriculture and Seasonal Landscapes]].
+- Produce updated annual and continental seasonal maps, including the adopted Gulf exchange and proposed southern winter storm corridor where relevant.
+- Develop numerical weather-generator inputs after the qualitative profiles and patterns are ready; address other unmodeled regional gaps as needed.

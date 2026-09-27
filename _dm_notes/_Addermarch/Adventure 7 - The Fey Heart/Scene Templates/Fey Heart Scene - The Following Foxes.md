@@ -23,6 +23,6 @@ They can tell the party things - pick something from [[Exploration Success - Gui
 
 ### Fail to Win Over the Foxlings
 
-Distraction, time, etc add up, maybe get off the path, etc. Add one hunter tick to [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
+Distraction, time, etc add up, maybe get off the path, etc. See: [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
 
 **Still suspicious:** “Go ask [guide], across the river! They know what to do with lost people. Follow that road. Leave us alone.”
