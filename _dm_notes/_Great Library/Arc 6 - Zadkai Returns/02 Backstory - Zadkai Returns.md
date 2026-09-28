@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # Adventure Backstory - Zadkai Returns
 
 ## Sources and anchors
@@ -10,6 +13,8 @@
 - [[Silverstorm]] and [[Great Library Session Notes - Arc 2]]: the party recovered a stolen roc egg and Silverstorm aided them in the defense of Voltara. His alliance with the faction opposing Zadkai is adopted background for this adventure.
 - [[Tawir Forest]]: the established forest; Airion's old lair there is adventure background adopted in this conversation.
 - [[Great Library Session Notes - Arc 5]]: the campaign's return from Cairn Dor and arrival outside Voltara.
+- [[S01 - Intro and Hook]] and [[Great Library Session Notes - Arc 6]]: the opening meeting, faction identities, and request to bring Airion's hidden work to Orumei.
+- [[S04B - Lair Level 1]]: the four elemental keys and Airion's original guardian arrangement.
 
 
 ## Current situation
@@ -25,14 +30,14 @@ Airion was a researcher who also worked on binding spells. His moral ambiguity s
 
 Airion hid something in an old lair in Tawir Forest that allows control of stable, large-scale elemental gates. It is an artifact or spell; its exact identity is deliberately undecided.
 
-His hidden treasury is reached through a portal secured by three keys, each held by a guardian. Airion could command these guardians to admit him. The keys were part of his security arrangement, not objects he scattered around the lair for visitors to find.
+His hidden treasury is reached through a portal secured by four elemental keys, each originally entrusted to a guardian. Airion could command these guardians to admit him. The keys were part of his security arrangement, not objects he scattered around the lair for visitors to find.
 
 ## Forces and motives
 
 
-- **Zadkai's faction:** regards humans as pests that should be wiped out. It wants Airion's gate expertise to enable an invasion.
-- **Silverstorm:** knows the party and is allied with the faction opposing Zadkai. He brings the request to recover Airion's hidden work and deliver it to a contact on the Plane of Air.
-- **Opposing faction:** recognizes that some humans are good and some are bad, and generally favors noninterference. The user's working motive is that it wants to win the Plane of Air power struggle because a needless war would cost many lives, rather than primarily to save humanity. Its precise leadership and relationship to Mehrangeesa remain open. A contact of this faction on the Plane of Air is the intended recipient of Airion's recovered work.
+- **Zadkai's faction:** the Scouring Wind, led by [[Azravan]], regards humans as pests that should be wiped out. It wants Airion's gate expertise to enable an invasion.
+- **Silverstorm:** knows the party and is allied with the faction opposing Zadkai. He brings the request to recover Airion's hidden work and deliver it to [[Orumei]] on the Plane of Air.
+- **Opposing faction:** recognizes that some humans are good and some are bad, and generally favors noninterference. The user's working motive is that it wants to win the Plane of Air power struggle because a needless war would cost many lives, rather than primarily to save humanity. [[Orumei]], Duke of the Returning Wind, is the intended recipient of Airion's recovered work and wants to understand what Azravan is preparing. The faction's relationship to Mehrangeesa remains open.
 
 
 ## Design ingredients
@@ -50,9 +55,6 @@ Silverstorm is the familiar ally who brings the party into the adventure.
 ## Questions, conflicts, and provisional ideas
 
 
-- The exact artifact or spell and its mechanics are deferred. [STILL PENDING]
-- The precise circumstances of the opening meeting with Silverstorm remain open. [happened/resolved]
-- The initial brainstorming considers changing Mehrangeesa's imprisonment from Airion's doing to Zadkai's. This retcon has not been adopted; [[Mehrangeesa]] currently records the older DM background that Airion captured and enslaved him. [abandoned]
-- The faction names and broader leadership remain undefined. Zadkai's local operation consists of a forest base camp and expeditions; the details of those expeditions and their discoveries remain open. [resolved], see [[S01 - Intro and Hook]], [[Great Library Session Notes - Arc 6]] 
-- **Provisional motive:** the opposing faction wants to destroy the recovered artifact. This is a possibility proposed by the user; destruction requirements and the contact's identity remain undecided. [resolved - motive is understanding - find the artifact and bring it so we can figure out what they are up to]
+- The exact artifact or spell and its mechanics are deferred.
+- Mehrangeesa's role and relationship to the opposing faction remain open.
 
