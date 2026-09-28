@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>", defArt: the}
-tags: [place, status/review]
+tags: [place, status/review, status/check/ai]
 typeOf: plane
 name: Feywild
 whereabouts:
@@ -25,6 +25,8 @@ POV: modern
 %%
 
 The Feywild, classified as an echo of the [[Material Plane]] by the [[Faculty of Metaphysics]], but given many other names and descriptions by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and mystery where the truth is rarely what it seems. Countless legends, songs, and whispered tales speak of fleeting, or not-so-fleeting, encounters with its strange, beautiful, and dangerous denizens, only a small handful of which are recorded here. While scholars debate the exact nature of the Feywild, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
+
+Some scholars understand the [[Echo Realms]] as reverberations of the [[Riving]], though even the Feywild's place among those realms is disputed.
 
 > [!quote] *Beneath the Boughs*, one of the many sonnets written by [[Thomas Hawke]]
 > Beneath the boughs where twilight shadows play,  
@@ -80,6 +82,8 @@ No discussion of the Feywild would be complete without a mention of the endless 
 %%^Campaign:none%%
 
 ## DM Notes
+
+The diverse fey have a collective origin associated with the [[Riving]]. Their proposed emergence from a single primordial essence is not established, nor is the older account in which primordial archfey created the other fey. Neither proposal fixes the Feywild's precise origin or establishes recognizable fey before the Riving. See [[2024-07-26 - Species and Souls]] (17:51–18:02) and [[Metaphysics of Creatures]].
 
 Major discussions include:
 - [[2023-12-23 - Fey Realms]]; [[2023-12-26 - Fey Realms]]; [[2023-12-28 - Fey Realms]]; [[2023-12-29 - Fey Realms]]; [[2024-01-02 - Fey Realms]]

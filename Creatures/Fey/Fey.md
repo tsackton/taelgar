@@ -1,5 +1,5 @@
 ---
-tags: [creature, status/check/mike]
+tags: [creature, status/check/mike, status/check/ai]
 aliases: [fey]
 dm_owner: joint
 dm_notes: important
@@ -19,3 +19,11 @@ The fey are a diverse folk, and many kinds of fey inhabit the [[Feywild]]:
 - [[Story about Hags|Hags]] are also fey, and often powerful ones, though some may leave the Feywild to find easier prey for their schemes in the material plane. 
 
 The strangest and most powerful of the fey are the Archfey. They are the great powers of the [[Feywild]], singular beings who rule the diverse realms of the Feywild, and who realms take shape around their nature. An archfey’s domain is not merely ruled, but marked by them: its light, weather, paths, hungers, splendors, and dangers all echo the character of the power at its heart. Some realms become courts of beauty, revelry, and impossible grace; others darken into decay, fear, or ruin. Few mortals encounter an archfey directly, and those who do rarely return unchanged. 
+
+%%^Campaign:none%%
+
+The diverse fey have a shared origin associated with the [[Riving]], but the way they emerged is not settled. The proposal that one primordial essence became many kinds of fey during the Riving remains noncanonical; the older account of primordial archfey creating the other fey is likewise not established. This connection does not imply that recognizable fey lived in the [[Primordial Cosmos]].
+
+%% Sources: [[2024-07-26 - Species and Souls]] (17:51–18:02); [[Metaphysics of Creatures]]. %%
+
+%%^End%%

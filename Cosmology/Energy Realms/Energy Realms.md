@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [background]
+tags: [background, status/check/ai]
 name: Energy Realms
 dm_owner: tim
 dm_notes: none
@@ -39,6 +39,8 @@ In this model, the essence of Spirit is associated with the [[Heart of the Mount
 The lizardfolk mystic [[Aznoke|Aznoké]], in her epic poem _[[The Endless Currents]]_, described the Eightfold Essences as the combination of the physical energies (Fire, Air, Earth, Water), the fundamental energies (Magic and Spirit), and the cyclical energies (Life and Death). She speaks of the [[Positive Energy Plane|Plane of Blossoming Currents]] as the wellspring of vitality, where life flows into being like a river surging forth from its source, representing the cyclical energy of Life. Its counterpart, the [[Negative Energy Plane|Plane of Still Waters]], is a tranquil, shadowed realm where the currents of life slow and pool, allowing death to cleanse and prepare for renewal, representing the cyclical energy of Death. While Aznoké's teachings emphasize the unity of these forces within the natural cycle, some scholars in the [[Faculty of Metaphysics]] have speculated that they correspond to the hypothesized [[Positive Energy Plane]] and [[Negative Energy Plane]], which no planar traveler has yet reached and returned from safely.
 
 %%^Campaign:none%%
+
+The Energy Realms were created in some way by the [[Riving]]. That fact does not settle their precise formation, the origins of their inhabitants, or the age of the other planes.
 
 The intention here is to make the four traditional elemental planes primary, while keeping open space for a variety of "para elemental planes" without committing to a metaphysical truth about whether they are simply boundary regions between the Elemental Planes or they are unique planes themselves. The [[Frostfell]] canonically exists, but as transportation was via a portal and not plane shift, this could have been simply a part of the plane of water. 
 
