@@ -27,6 +27,28 @@ Authorization covers only the described operation:
 - Preserve pre-existing changes outside the task.
 - If the necessary scope becomes materially larger, stop and ask.
 
+### Git procedure
+
+Most work in this repository happens directly on `main`. Other branches serve a
+specific purpose, such as a lore restructure or a substantial code change. Do not
+create a branch for routine work unless the user requests one or the agreed task
+plan calls for one.
+
+- Before editing tracked files or creating files intended for Git, check the
+  current branch and working-tree state. Preserve any existing local changes.
+- On `main`, proceed within the user's authorized scope. On another branch,
+  proceed only when the task clearly fits that branch's established purpose.
+  If the task is unrelated, the branch's purpose is uncertain, or HEAD is
+  detached, confirm the appropriate branch with the user **before editing or
+  committing tracked files**. Do not silently switch branches to resolve this.
+  An explicit branch choice already given by the user satisfies this requirement.
+- Recheck the current branch immediately before staging or committing. The
+  checkout is shared with the user, Obsidian, and other agents, so an earlier
+  branch check can become stale. If the branch has changed unexpectedly, confirm
+  the destination before proceeding.
+- Before an authorized branch switch, account for all local changes and preserve
+  unrelated work. Stage and commit only changes belonging to the approved task.
+
 ## 2. Core Rules
 
 1. **Search first.** Search relevant notes before answering lore questions or
@@ -327,6 +349,7 @@ suggesting that details were invented.
 ## 9. Final Checklist
 
 - The exact scope was authorized or the broader preview approved.
+- The current branch is appropriate for the task under the Git procedure above.
 - Relevant sources were searched; contradictions were preserved and reported.
 - No unsupported canon or certainty was introduced.
 - Unrelated prose and special syntax were preserved.
