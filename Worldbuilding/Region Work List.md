@@ -1,7 +1,3 @@
----
-tags: [status/check/ai]
----
-
 This is page tracks the status of the Gazetteer reorganization. 
 
 ## Finish Region Pages
