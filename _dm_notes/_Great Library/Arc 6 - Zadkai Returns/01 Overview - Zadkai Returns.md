@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # Adventure Overview - Zadkai Returns
 
 ## Design context
@@ -58,13 +61,13 @@ The outcome creates a simple branch: success leads to delivery and a new adventu
 ## Central challenge
 
 
-The PCs must overcome Airion's traps and recover three keys held by three guardians. All three keys are needed to open the portal to Airion's hidden treasury. Airion could command the guardians to admit him; intruders must defeat or outwit them to obtain access.
+The PCs must overcome Airion's traps and recover four elemental keys from the guardian paths. All four keys are needed to open the portal to Airion's hidden treasury. Airion could command the guardians to admit him; intruders must defeat or outwit them to obtain access.
 
 Zadkai has a base camp in the forest and sends expeditions to discover how to gain access to the treasury and recover the keys. His minions function like wandering monsters and provide tension during the party's exploration. The intended dynamic is exploring and overcoming the lair's defenses while rival expeditions are active; Zadkai is not simply pursuing the party through the lair.
 
 ### Dungeon Structure
 
-The intended opening sequence inside the lair is to encounter the sealed treasury portal, discover that it needs four keys, and then find the paths to the three guardians holding those keys. The guardians are accessible in any order via four paths. See [[S04B - Lair Level 1]].
+The intended opening sequence inside the lair is to encounter the sealed treasury portal, discover that it needs four keys, and then explore the four elemental paths to recover those keys. The paths are accessible in any order. See [[S04B - Lair Level 1]].
 
 Each time a path is defeated, the remaining paths adapt. Each guardian path also contains one or more optional rooms offering aid for the other paths. The working adventure structure is recorded in [[03 Scenes - Zadkai Returns.canvas]].
 
@@ -72,7 +75,7 @@ Whichever guardian the party tackles last serves as the lair's climax, though se
 
 ## X-factor
 
-Tactical combat is the primary activity in this classic dungeon crawl. The repeating activity is finding and overcoming the guardians to recover their keys, while dealing with the lair's traps and Zadkai's roaming expeditions. Recovering all three keys permits access to the treasury portal.
+Tactical combat is the primary activity in this classic dungeon crawl. The repeating activity is finding and overcoming the guardians to recover their keys, while dealing with the lair's traps and Zadkai's roaming expeditions. Recovering all four keys permits access to the treasury portal.
 
 ## Inertia
 
@@ -111,7 +114,7 @@ Recovery therefore requires an additional dangerous undertaking. Further failure
 
 ## Design statement
 
-A three-to-four-session tactical dungeon crawl opens the next Great Library arc. The PCs must recover Airion's hidden work on controlling stable, large-scale elemental gates and deliver it to a contact on the Plane of Air, keeping it from Zadkai's faction, which wants to enable an invasion. Access to the treasury requires three keys held by guardians Airion could command. The PCs face traps, guardians, and Zadkai's expeditions from a forest base camp.
+A three-to-four-session tactical dungeon crawl opens the next Great Library arc. The PCs must recover Airion's hidden work on controlling stable, large-scale elemental gates and deliver it to a contact on the Plane of Air, keeping it from Zadkai's faction, which wants to enable an invasion. Access to the treasury requires four elemental keys originally held by guardians Airion could command. The PCs face traps, guardians, and Zadkai's expeditions from a forest base camp.
 
 The lair escalates and adapts to the party's tactics, while discoveries of research, knowledge, and useful items give the party advantages against the remaining opposition. A failed guardian assault followed by retreat gives Zadkai a key; recovering it requires raiding his camp. Further failures trend toward adventure loss, with the details improvised in play. Success leads to delivery and a new adventure from the contact; failure leads to pursuit of Zadkai's faction to prevent it opening the gate.
 
