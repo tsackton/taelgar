@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+tags: [meta, status/check/ai]
 excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
@@ -57,7 +57,7 @@ Single adventures, typically running between one and four sessions.
 
 - [[Labyrinths - Player Background|Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. Campaign code: lablost. 
 - Into the Chasm. Campaign code: itc. **Needs landing page, details cleanup**
-- Lost in the Feywild. Campaign code: feywild. **Needs landing page, details cleanup**
+- [[Lost in the Feywild]]. Campaign code: feywild.
 
 #### Partially Canonical
 
