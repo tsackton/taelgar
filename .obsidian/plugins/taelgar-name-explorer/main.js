@@ -47,6 +47,7 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
     this.catalogPromise = null;
     this.refreshTimer = null;
     this.storeWriteInProgress = false;
+    this.decisionStorePromises = new Map();
 
     this.registerView(
       VIEW_TYPE,
@@ -180,37 +181,67 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
 
   async ensureDecisionStore() {
     const path = this.settings.decisionStorePath;
-    let file = this.app.vault.getAbstractFileByPath(path);
-    if (!file) {
-      await this.ensureParentFolder(path);
-      file = await this.app.vault.create(
-        path,
-        core.serializeDecisionStore([DEFAULT_HALFLING_RULE]),
-      );
-      return file;
+    let pending = this.decisionStorePromises.get(path);
+    if (!pending) {
+      pending = this.initializeDecisionStore(path);
+      this.decisionStorePromises.set(path, pending);
     }
-    if (!(file instanceof TFile)) {
+    try {
+      return await pending;
+    } finally {
+      if (this.decisionStorePromises.get(path) === pending) {
+        this.decisionStorePromises.delete(path);
+      }
+    }
+  }
+
+  async initializeDecisionStore(path) {
+    const { vault } = this.app;
+    const { adapter } = vault;
+    // The vault index may not contain existing JSONL files during startup.
+    let stat = await adapter.stat(path);
+    if (!stat) {
+      await this.ensureParentFolder(path);
+      try {
+        // Unlike adapter.write(), create refuses to overwrite an existing file.
+        await vault.create(path, core.serializeDecisionStore([DEFAULT_HALFLING_RULE]));
+      } catch (error) {
+        // Another initialization or external writer may have created it first.
+        if (!(await adapter.stat(path))) throw error;
+      }
+      stat = await adapter.stat(path);
+    }
+    if (stat?.type !== "file") {
       throw new Error(`Decision store path is not a file: ${path}`);
     }
-    core.parseDecisionStore(await this.app.vault.read(file));
-    return file;
+    core.parseDecisionStore(await adapter.read(path));
+    return path;
   }
 
   async ensureParentFolder(path) {
+    const { vault } = this.app;
     const parts = path.split("/");
     parts.pop();
     let current = "";
     for (const part of parts) {
       current = current ? `${current}/${part}` : part;
-      if (!this.app.vault.getAbstractFileByPath(current)) {
-        await this.app.vault.createFolder(current);
+      const stat = await vault.adapter.stat(current);
+      if (stat && stat.type !== "folder") {
+        throw new Error(`Parent path is not a folder: ${current}`);
+      }
+      if (!stat) {
+        try {
+          await vault.createFolder(current);
+        } catch (error) {
+          if ((await vault.adapter.stat(current))?.type !== "folder") throw error;
+        }
       }
     }
   }
 
   async loadDecisionRecords() {
-    const file = await this.ensureDecisionStore();
-    return core.parseDecisionStore(await this.app.vault.read(file));
+    const path = await this.ensureDecisionStore();
+    return core.parseDecisionStore(await this.app.vault.adapter.read(path));
   }
 
   async loadPlaceEvidence() {
@@ -224,11 +255,11 @@ module.exports = class TaelgarNameExplorerPlugin extends Plugin {
   }
 
   async mutateDecisionStore(mutator) {
-    const file = await this.ensureDecisionStore();
+    const path = await this.ensureDecisionStore();
     let nextRecords = null;
     this.storeWriteInProgress = true;
     try {
-      await this.app.vault.process(file, (currentText) => {
+      await this.app.vault.adapter.process(path, (currentText) => {
         const current = core.parseDecisionStore(currentText);
         nextRecords = core.normalizeStoreRecords(mutator(current));
         return core.serializeDecisionStore(nextRecords);
