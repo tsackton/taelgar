@@ -17,17 +17,15 @@ Airion hid an artifact or spell in an old lair in Tawir Forest that enables cont
 
 ## Starting point
 
-[[Silverstorm]], the roc already known to the party, is an ally of the faction opposing Zadkai. He asks the party to recover Airion's hidden gate work from the old lair in Tawir Forest and deliver it to a contact of that faction on the Plane of Air.
+[[Silverstorm]], the roc already known to the party, is an ally of the faction opposing Zadkai. He asks the party to recover Airion's hidden gate work from the old lair in Tawir Forest and deliver it to [[Orumei]] on the Plane of Air.
 
-The existing relationship supplies the connection: the party recovered a stolen roc egg, and Silverstorm aided them in the defense of Voltara. See [[Great Library Session Notes - Arc 2]]. The precise meeting circumstances and delivery contact remain to be filled in.
+The existing relationship supplies the connection: the party recovered a stolen roc egg, and Silverstorm aided them in the defense of Voltara. See [[Great Library Session Notes - Arc 2]]. The meeting at Brelith and Dinia's refuge and the request to deliver the recovered work to Orumei are recorded in [[Great Library Session Notes - Arc 6]].
 
 Silverstorm explains the problem and offers to fly the party part-way. He is too conspicuous to approach the mountain openly: Zadkai would see him and recognize that something is happening. He drops the party at the edge of Tawir Forest, gives them directions, and leaves them to make the approach themselves.
 
 ### Phase 1 - Tawir Forest
 
 The party must travel through Tawir Forest to the mountain where Airion's ancient lair sits, ideally avoiding Zadkai's notice while handling the forest's strangeness. The journey follows a mostly linear path and is largely atmospheric and introductory. It should highlight the strong magic at work and get the players thinking about the problems ahead and Zadkai's presence.
-
-The opening with Silverstorm and the forest journey should together take roughly the first one to two sessions, depending on the length of the opening scene. The forest's specific encounters and magical phenomena remain to be designed.
 
 The intended woodland atmosphere draws on the real-world forests of Brittany. The forest's magic is independent of Airion; he hid a lair here, but it is cut off from the forest. The precise character of the forest's magical strangeness is deliberately deferred.
 
@@ -37,7 +35,7 @@ The intended woodland atmosphere draws on the real-world forests of Brittany. Th
 
 The next challenge is crossing a wind wall or unnatural storm during the ascent to the lair. The mountain itself is strange and somewhat unnatural, rising out of otherwise fairly flat forest. Its wooded lower slopes continue the surrounding woodland, but unnatural winds intensify as the party climbs. The summit is bare rock, effectively inside a cloud.
 
-Airion's lair sits on the summit. The storm crossing is one obstacle; its specific mechanics remain to be designed.
+Airion's lair sits on the summit.
 
 **finished -- see [[Great Library Session Notes - Arc 6]]**
 
@@ -82,23 +80,13 @@ Tactical combat is the primary activity in this classic dungeon crawl. The repea
 
 The lair responds to being invaded. Its defenses become harder and adapt to the party's tactics as the adventure develops.
 
-Defeating a guardian path causes the remaining paths to adapt. The specific limits and manifestations of this adaptation remain to be designed, including how the players perceive it and respond.
+Guardian deaths raise the lair's alert stage, changing elemental attitudes, environmental cues, and opportunities to rest. See [[Airion's Lair Alert Stages]] for the existing procedures.
 
 ### Additional tension
 
-Zadkai's expeditions provide recurring opposition and tension, functioning like wandering monsters. A failed guardian assault followed by the party's retreat plausibly lets Zadkai obtain that guardian's key. The effects of delay or rest remain undefined. No timed race or rule that resting automatically advances Zadkai has been adopted.
+Zadkai's expeditions provide recurring opposition and tension, functioning like wandering monsters. A failed guardian assault followed by the party's retreat plausibly lets Zadkai obtain that guardian's key. Resting has consequences described in [[Airion's Lair Alert Stages]]; [[Zadkai's Patrols]] describes expedition and camp responses.
 
-### Adopted Zadkai alert progression
-
-The party's approach through the forest can raise Zadkai's alert level, functioning like a danger counter. Once he knows competitors are present, he increases the pace of his exploration.
-
-- One patrol going missing is not particularly surprising.
-- Two patrols going missing is worrisome.
-- If a patrol fights the party and one or more patrol members escape, Zadkai goes directly to high alert.
-
-The exact effects of concern and high alert on expedition progress remain to be designed. This escalation is a response to evidence of competitors, rather than an automatic consequence of the party taking time to travel or rest.
-
-**note that this design is inert as the party skipped the forest; Zadkai patrols in the camp and the lair remain, see [[Zadkai's Patrols]].**
+%% Readiness question: Airion's Lair Alert Stages allows long rests to advance rival key recovery, while Zadkai's Patrols says a patrol only obtains a key after the party weakens a guardian and retreats. Reconcile these conditions before running the remaining lair; this cleanup does not choose between them. %%
 
 ## Momentum
 
@@ -130,4 +118,4 @@ Can the PCs overcome Airion's adaptive defenses and recover his hidden gate work
 
 The goal, guardian-held keys, and tactical combat emphasis align. Adaptive defenses supply the main resistance, while useful discoveries improve the party's ability to overcome later opposition. Lost keys change the situation and create a recovery objective; repeated failure can lead to a continuing campaign branch on the Plane of Air.
 
-Silverstorm's request supplies the hook and the full recovery-and-delivery goal; the exact meeting circumstances remain open. Later construction must make the adaptive defenses, useful discoveries, and loss of a key intelligible to the players. The specific handling of repeated failures is intentionally left to GM improvisation.
+Silverstorm's request supplies the hook and the full recovery-and-delivery goal. Later construction must make the adaptive defenses, useful discoveries, and loss of a key intelligible to the players. The specific handling of repeated failures is intentionally left to GM improvisation.
