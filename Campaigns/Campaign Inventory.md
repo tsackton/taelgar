@@ -55,7 +55,7 @@ Games that are organized around episodic one-shots, but sharing a common setting
 Single adventures, typically running between one and four sessions. 
 #### Fully Canonical
 
-- [[Labyrinths - Player Background|Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. Campaign code: lablost. 
+- [[Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set October 17–19, DR 1748. Campaign code: lablost. **Landing-page and PC review**
 - [[Into the Chasm]]. Campaign code: itc. **Landing-page review, details cleanup**
 - [[Lost in the Feywild]]. Campaign code: feywild.
 
