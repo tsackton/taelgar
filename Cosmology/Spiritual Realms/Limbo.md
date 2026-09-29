@@ -25,7 +25,7 @@ Relatively few reliable reports of planar travelers have come from the plane kno
 ### Origins
 The origins of Limbo defy any explanation, although [[Yendalo]] speculated that Limbo may in fact be a shifting wound in reality itself, where the fundamental essences of existence refuse to take any permanent shape.
 
-%%^Campaign%%
+%%^Campaign:dufr%%
 One possible account holds that Limbo took recognizable form during the [[Riving]], when primordial chaos lost a conflict with the [[Divine Presence]]. In this telling, Limbo was created as a containment vehicle to hold the defeated essence of chaos.
 %%^End%%
 

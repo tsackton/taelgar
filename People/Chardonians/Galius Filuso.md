@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/gl, status/check/tim, status/check/lint]
+tags: [person, status/check/lint]
 species: human
 ancestry: Chardonian
 campaignInfo:

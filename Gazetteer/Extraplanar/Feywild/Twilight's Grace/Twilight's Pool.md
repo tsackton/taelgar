@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25  
-tags: [place, status/check/tim]
+tags: [place, status/check/mike]
 excludePublish: ["all"]
 typeOf: planar link  
 typeOfAlias: fey portal  
@@ -17,10 +17,13 @@ dm_notes: none
 > 
 > > `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[twilights-pool-gate.png|400]]
+%% @mike i added a caption to the image, i assume this is in twilight's grace? but confirm %%
 
-The Twilight's Pool is the principal crossing between [[Twilight's Grace]] and [[Tafolwern]], and is sometimes described as the front door of the court of [[Archfey Ethlenn]]. Ambassadors, honored visitors, petitioners, and others traveling openly between Ethlenn’s realm and mortal [[Tyrwingha]] used to commonly pass through the Pool in the days of story and legend, and still rarely do, although travel is less common than it once was.
+Twilight's Pool is the principal crossing between [[Twilight's Grace]] and [[Tafolwern]], and is sometimes described as the front door of the court of [[Archfey Ethlenn]]. Ambassadors, honored visitors, petitioners, and others traveling openly between Ethlenn’s realm and mortal [[Tyrwingha]] used to commonly pass through the Pool in the days of story and legend, and still rarely do, although travel is less common than it once was.
 ## In Twilight's Grace
+> [!image|right standard]
+> ![[twilights-pool-gate.png]]
+> *Twilight's Pool in Twilight's Grace.*
 
 On the Feywild side, the Pool is a large oval reflecting pool, roughly 50' in diameter, surrounded by elegant edges of polished black marble. The stone seems to retain the warmth of a summer evening, even though no direct sunlight falls upon it. Twinkling lights drift across and beneath the surface. Reflections of [[Tyrwingha]] mingle and dissolve in the water, always showing twilight: villages beneath evening skies, rivers shining beneath the stars, vineyard slopes, distant towers, moonlit roads, and lights moving behind cottage windows. No single scene remains for long. Although some reflections clearly reflect the present or recent past, others are more mysterious. Some say these reflect Tyrwingha as remembered by [[Archfey Ethlenn]]. Others say these are foretellings of the future or dreams of the Tyrwinghans. At times, ripples pass across the Pool carrying faint echoes of laughter, grief, relief, longing, or tears. 
 
