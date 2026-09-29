@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/ai]
+tags: [meta]
 excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
@@ -52,12 +52,12 @@ Games that are organized around episodic one-shots, but sharing a common setting
 
 ### One Shots
 
-Single adventures, typically running between one and four sessions. 
+Single adventures, typically running between one and six sessions. 
 #### Fully Canonical
 
-- [[Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set October 17–19, DR 1748. Campaign code: lablost. **Landing-page and PC review**
-- [[Into the Chasm]]. Campaign code: itc. **Landing-page review, details cleanup**
-- [[Lost in the Feywild]]. Campaign code: feywild.
+- [[Labyrinths of the Lost]] *(Finished, three sessions, level 2-3)*. Set October 17–19, DR 1748. Campaign code: lablost.
+- [[Into the Chasm]]. *(Finished, six session, level 6)*. Sat in January DR 1730. Campaign code: itc. 
+- [[Lost in the Feywild]]. *(Finished, seven sessions, level 3)*. Set in October DR 1740. Campaign code: feywild.
 
 #### Partially Canonical
 

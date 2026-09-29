@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Adventure Overview - Zadkai Returns
 
 ## Design context
@@ -77,16 +74,13 @@ Tactical combat is the primary activity in this classic dungeon crawl. The repea
 
 ## Inertia
 
-
 The lair responds to being invaded. Its defenses become harder and adapt to the party's tactics as the adventure develops.
 
-Guardian deaths raise the lair's alert stage, changing elemental attitudes, environmental cues, and opportunities to rest. See [[Airion's Lair Alert Stages]] for the existing procedures.
+Guardian deaths raise the lair's alert stage, changing elemental attitudes, environmental cues, and opportunities to rest. See [[Airion's Lair Alert Stages]] for the existing procedures. 
 
 ### Additional tension
 
 Zadkai's expeditions provide recurring opposition and tension, functioning like wandering monsters. A failed guardian assault followed by the party's retreat plausibly lets Zadkai obtain that guardian's key. Resting has consequences described in [[Airion's Lair Alert Stages]]; [[Zadkai's Patrols]] describes expedition and camp responses.
-
-%% Readiness question: Airion's Lair Alert Stages allows long rests to advance rival key recovery, while Zadkai's Patrols says a patrol only obtains a key after the party weakens a guardian and retreats. Reconcile these conditions before running the remaining lair; this cleanup does not choose between them. %%
 
 ## Momentum
 

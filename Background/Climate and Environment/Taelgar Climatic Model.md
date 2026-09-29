@@ -133,4 +133,4 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 
 ### Related development
 
-[[Climate Map]], [[Climate Notes]], and [[Green Sea Notes]] provide the main climatic design background. [[Green Sea Ocean Circulation]] develops the currents, temperatures, marine productivity, and Western Gulf exchange. [[Trading in the Green Sea]] develops the route calendars and commercial implications. [[conflicts]] separately records discrepancies with other vault material.
+[[Climate Map]], [[Climate Notes]], and [[Green Sea Notes]] provide the main climatic design background. [[Green Sea Ocean Circulation]] develops the currents, temperatures, marine productivity, and Western Gulf exchange. [[Trading in the Green Sea]] develops the route calendars and commercial implications. [[Climate Conflicts]] separately records discrepancies with other vault material.

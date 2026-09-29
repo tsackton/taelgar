@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata, status/check/ai]
+tags: [place]
 displayDefaults: {defArt: "the"}
 name: Nightsong Roots
 typeOf: planar link
