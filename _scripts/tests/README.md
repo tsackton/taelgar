@@ -49,3 +49,10 @@ ruby _scripts/generate_worldbuilding_discussion_index.rb --check --root .
 Use a diagnostic when its generated data is needed, and review its report in
 that context. A stale index is maintenance work, not evidence that a regression
 test should enforce the current contents of an editable note.
+
+The Worldbuilding discussion index is a Git-ignored local cache. Its `--check`
+diagnostic never writes and may report a missing or stale cache. Ordinary
+`--query "PATH/TO/NOTE.md"` calls refresh it automatically from source content
+and canonical identities, excluding Staging and `Worldbuilding/Agentic Review`.
+Add `--no-cache` to query fresh data entirely in memory. Batch check-only lint
+uses that same read-only behavior; write lint may refresh the local cache.

@@ -3,6 +3,9 @@
 
 _scripts/__pycache__/
 
+# Generated local Worldbuilding research cache
+/_scripts/worldbuilding_discussion_index.json
+
 # ignore DM STUFF
 _DM_/
 

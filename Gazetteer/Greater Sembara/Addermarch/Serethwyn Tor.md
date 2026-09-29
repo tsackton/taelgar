@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [place]
-displayDefaults:
-  defArt: ""
-name: Serethwyn Tor
 typeOf: building
+typeOfAlias: ruin
+name: Serethwyn Tor
+pronunciation: seh-RETH-win tor
 whereabouts: Carlinshire
 dm_owner: tim
 dm_notes: none
-typeOfAlias: ruin
+POV: 1715
 ---
 # Serethwyn Tor
+*(seh-RETH-win tor)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -35,3 +39,11 @@ Beneath the fort is an old [[serpentine]] mine complex. The upper mine was block
 [[Serethwyn Tor ChatGPT Overview]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Serethwyn Tor, language: Addermarian, pronunciation: seh-RETH-win tor, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a pre-May DR 1715 description of the sealed ruin; the events of May 26–27 materially changed the site and await human disposition.
+%%^End%%

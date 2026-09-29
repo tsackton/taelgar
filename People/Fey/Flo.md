@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: beastfolk
 gender: female
@@ -8,6 +10,7 @@ whereabouts: Thornweald
 knownTo: [adma]
 dm_owner: tim
 dm_notes: none
+POV: 1715
 ---
 # Flo
 >[!info]+ Biographical Info  
@@ -24,4 +27,8 @@ Flo is a young foxling of the [[Thornweald]], and [[Kip]]'s sister. She is curio
 
 %%^Metadata:names:v1%%
 - {name: Flo, language: Common}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Flo as a young foxling in the Thornweald; earlier and later life are not described.
 %%^End%%

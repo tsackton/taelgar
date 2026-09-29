@@ -2,35 +2,41 @@
 # frozen_string_literal: true
 
 require "digest"
+require "fileutils"
 require "json"
 require "optparse"
 require "pathname"
+require "tempfile"
 
 require_relative "validate_taelgar_note"
 
 module TaelgarWorldbuildingDiscussionIndex
   SOURCE_ROOT = "Worldbuilding"
   OUTPUT_PATH = "_scripts/worldbuilding_discussion_index.json"
-  SCHEMA_VERSION = 1
+  SCHEMA_VERSION = 2
   EXCLUDED_DIRECTORY_SEGMENTS = %w[Staging].freeze
+  EXCLUDED_SOURCE_ROOTS = ["Worldbuilding/Agentic Review"].freeze
   MATCH_KIND_ORDER = %w[title link embed name].freeze
 
   class Error < StandardError; end
 
   module_function
 
-  def build(root)
-    root = Pathname.new(root).expand_path
-    source_paths = discussion_source_paths(root)
-    subjects = subject_notes(root)
-    note_index = TaelgarNoteLint::NoteIndex.new(root)
-    subject_paths = subjects.to_h { |note| [note.path, true] }
-    source_documents = source_paths.map do |absolute|
+  def source_documents(root)
+    discussion_source_paths(root).map do |absolute|
       path = TaelgarNoteLint.relative_path(root, absolute)
       text = TaelgarNoteLint.read_text(absolute)
-      [path, text, source_metadata(path, text)]
+      [path, text, source_metadata(path, text).merge("sha256" => Digest::SHA256.hexdigest(text))]
     end
-    link_aliases = discover_link_aliases(source_documents, note_index, subject_paths)
+  end
+
+  def build(root, documents: nil, subjects: nil)
+    root = Pathname.new(root).expand_path
+    subjects ||= subject_notes(root)
+    note_index = TaelgarNoteLint::NoteIndex.new(root)
+    subject_paths = subjects.to_h { |note| [note.path, true] }
+    documents ||= source_documents(root)
+    link_aliases = discover_link_aliases(documents, note_index, subject_paths)
     identity_targets = unique_targets_by_identity(subjects, link_aliases)
     targets_by_identity = identity_targets.to_h do |identity, target|
       [TaelgarNoteLint.normalize(identity), target]
@@ -38,18 +44,18 @@ module TaelgarWorldbuildingDiscussionIndex
     identity_matcher = build_identity_matcher(identity_targets.keys)
     mentions_by_target = Hash.new { |hash, key| hash[key] = [] }
 
-    sources = source_documents.map do |path, text, metadata|
+    sources = documents.map do |path, text, metadata|
       matches = scan_source(
         path: path,
         text: text,
-        metadata: metadata,
+        metadata: metadata.reject { |key, _value| key == "sha256" },
         note_index: note_index,
         subject_paths: subject_paths,
         targets_by_identity: targets_by_identity,
         identity_matcher: identity_matcher
       )
       matches.each { |target, record| mentions_by_target[target] << record }
-      metadata.merge("sha256" => Digest::SHA256.hexdigest(text))
+      metadata
     end
 
     subject_records = subjects.each_with_object([]) do |note, records|
@@ -71,6 +77,8 @@ module TaelgarWorldbuildingDiscussionIndex
       "schemaVersion" => SCHEMA_VERSION,
       "sourceRoot" => SOURCE_ROOT,
       "excludedDirectorySegments" => EXCLUDED_DIRECTORY_SEGMENTS,
+      "excludedSourceRoots" => EXCLUDED_SOURCE_ROOTS,
+      "implementationSha256" => implementation_sha256,
       "sourceInventorySha256" => inventory_sha256(sources),
       "sources" => sources,
       "identityIndex" => subjects.to_h { |note| [note.path, identity_sha256(note)] },
@@ -82,7 +90,10 @@ module TaelgarWorldbuildingDiscussionIndex
     root.glob("#{SOURCE_ROOT}/**/*.md").select do |path|
       relative = path.relative_path_from(root)
       directories = relative.each_filename.to_a[0...-1]
-      directories.none? do |segment|
+      excluded_root = EXCLUDED_SOURCE_ROOTS.any? do |prefix|
+        relative.to_s.downcase.start_with?("#{prefix.downcase}/")
+      end
+      !excluded_root && directories.none? do |segment|
         EXCLUDED_DIRECTORY_SEGMENTS.any? { |excluded| segment.casecmp?(excluded) }
       end
     end.sort
@@ -248,6 +259,7 @@ module TaelgarWorldbuildingDiscussionIndex
   def identity_sha256(note)
     payload = {
       "path" => note.path,
+      "name" => note.data["name"],
       "identities" => note.identity_names.sort_by(&:downcase)
     }
     Digest::SHA256.hexdigest(JSON.generate(payload))
@@ -258,49 +270,91 @@ module TaelgarWorldbuildingDiscussionIndex
     Digest::SHA256.hexdigest(JSON.generate(payload))
   end
 
+  def implementation_sha256
+    files = [__FILE__, File.join(__dir__, "validate_taelgar_note.rb")]
+    Digest::SHA256.hexdigest(files.map { |path| Digest::SHA256.file(path).hexdigest }.join("\n"))
+  end
+
   def read_and_validate(root)
     root = Pathname.new(root).expand_path
     path = root.join(OUTPUT_PATH)
     data = JSON.parse(TaelgarNoteLint.read_text(path))
-    unless data["schemaVersion"] == SCHEMA_VERSION && data["sourceRoot"] == SOURCE_ROOT &&
-           data["excludedDirectorySegments"] == EXCLUDED_DIRECTORY_SEGMENTS && data["sources"].is_a?(Array) &&
+    unless data.is_a?(Hash) && data["schemaVersion"] == SCHEMA_VERSION && data["sourceRoot"] == SOURCE_ROOT &&
+           data["excludedDirectorySegments"] == EXCLUDED_DIRECTORY_SEGMENTS &&
+           data["excludedSourceRoots"] == EXCLUDED_SOURCE_ROOTS && data["sources"].is_a?(Array) &&
            data["subjects"].is_a?(Array) && data["identityIndex"].is_a?(Hash)
-      raise Error, "Worldbuilding discussion sidecar uses an unsupported schema."
+      raise Error, "Worldbuilding discussion cache uses an unsupported schema."
+    end
+    unless data["sources"].all? { |source| source.is_a?(Hash) && source["path"].is_a?(String) && source["sha256"].is_a?(String) } &&
+           data["subjects"].all? { |subject| subject.is_a?(Hash) && subject["path"].is_a?(String) && subject["sources"].is_a?(Array) }
+      raise Error, "Worldbuilding discussion cache contains malformed records."
     end
     paths = data.fetch("sources").map { |source| source.fetch("path") }
-    raise Error, "Worldbuilding discussion sidecar contains duplicate source paths." unless paths.uniq.length == paths.length
+    raise Error, "Worldbuilding discussion cache contains duplicate source paths." unless paths.uniq.length == paths.length
 
     data
   rescue JSON::ParserError => error
-    raise Error, "Worldbuilding discussion sidecar is invalid JSON: #{error.message}"
+    raise Error, "Worldbuilding discussion cache is invalid JSON: #{error.message}"
   end
 
   def exact_current?(root, data)
     build(root) == data
   end
 
+  def load_or_build(root, persist: true)
+    root = Pathname.new(root).expand_path
+    documents = source_documents(root)
+    subjects = subject_notes(root)
+    data = begin
+      read_and_validate(root)
+    rescue Errno::ENOENT, Error
+      nil
+    end
+    if data && data["implementationSha256"] == implementation_sha256 &&
+       data["sourceInventorySha256"] == inventory_sha256(documents.map(&:last)) &&
+       data["identityIndex"] == subjects.to_h { |note| [note.path, identity_sha256(note)] }
+      return data
+    end
+
+    data = build(root, documents: documents, subjects: subjects)
+    write_cache(root, data) if persist
+    data
+  end
+
+  def write_cache(root, data)
+    output = Pathname.new(root).join(OUTPUT_PATH)
+    text = "#{JSON.pretty_generate(data)}\n"
+    return if output.file? && output.binread == text.b
+
+    FileUtils.mkdir_p(output.dirname)
+    Tempfile.create([".worldbuilding-discussion-", ".json"], output.dirname.to_s) do |file|
+      file.binmode
+      file.write(text)
+      file.close
+      File.rename(file.path, output)
+    end
+  end
+
   class Sidecar
     attr_reader :reference
 
-    def initialize(root)
+    def initialize(root, persist: true)
       @root = Pathname.new(root).expand_path
-      @path = @root.join(OUTPUT_PATH)
-      @data = TaelgarWorldbuildingDiscussionIndex.read_and_validate(@root)
-      validate_source_freshness!
+      @data = TaelgarWorldbuildingDiscussionIndex.load_or_build(@root, persist: persist)
       @subjects = @data.fetch("subjects").to_h { |record| [record.fetch("path"), record] }
       @reference = {
         "path" => OUTPUT_PATH,
         "schemaVersion" => SCHEMA_VERSION,
-        "sha256" => Digest::SHA256.file(@path).hexdigest
+        "sha256" => Digest::SHA256.hexdigest("#{JSON.pretty_generate(@data)}\n")
       }
-    rescue Errno::ENOENT
-      raise Error, "Worldbuilding discussion sidecar is missing; run the generator with --write."
+    rescue SystemCallError => error
+      raise Error, "Cannot refresh the Worldbuilding discussion cache: #{error.message}"
     end
 
     def for(note)
       expected_identity = @data.fetch("identityIndex")[note.path]
       unless expected_identity == TaelgarWorldbuildingDiscussionIndex.identity_sha256(note)
-        raise Error, "Worldbuilding discussion sidecar is stale for #{note.path}; run the generator with --write."
+        raise Error, "Worldbuilding discussion target changed during the query: #{note.path}; retry with the current note."
       end
 
       @subjects[note.path] || {
@@ -313,20 +367,6 @@ module TaelgarWorldbuildingDiscussionIndex
         "sources" => []
       }
     end
-
-    private
-
-    def validate_source_freshness!
-      current_paths = TaelgarWorldbuildingDiscussionIndex.discussion_source_paths(@root)
-        .map { |path| path.relative_path_from(@root).to_s }
-      stored_paths = @data.fetch("sources").map { |source| source.fetch("path") }
-      unless current_paths == stored_paths
-        raise Error, "Worldbuilding discussion sidecar source inventory is stale; run the generator with --write."
-      end
-      return unless current_paths.any? { |path| @root.join(path).mtime > @path.mtime }
-
-      raise Error, "Worldbuilding discussion sidecar is older than a non-Staging Worldbuilding source; run the generator with --write."
-    end
   end
 
   class CLI
@@ -335,36 +375,39 @@ module TaelgarWorldbuildingDiscussionIndex
     end
 
     def run
-      options = { root: Pathname.pwd, mode: :check, query: nil }
+      options = { root: Pathname.pwd, mode: :check, query: nil, persist: true }
       parser = OptionParser.new do |opts|
         opts.banner = "Usage: generate_worldbuilding_discussion_index.rb [--check|--write|--query PATH] [options]"
         opts.on("--root PATH", "Vault root") { |value| options[:root] = Pathname.new(value) }
-        opts.on("--check", "Verify the committed sidecar against current sources and identities") { options[:mode] = :check }
-        opts.on("--write", "Regenerate the JSON sidecar") { options[:mode] = :write }
+        opts.on("--check", "Check the local cache without writing it") { options[:mode] = :check }
+        opts.on("--write", "Refresh the local JSON cache if needed") { options[:mode] = :write }
+        opts.on("--no-cache", "Query fresh data in memory without writing the cache") { options[:persist] = false }
         opts.on("--query PATH", "Return the complete discussion record for one canonical note") do |value|
           options[:mode] = :query
           options[:query] = value
         end
       end
       parser.parse!(@argv)
+      if !options[:persist] && options[:mode] != :query
+        raise OptionParser::InvalidOption, "--no-cache requires --query"
+      end
       root = options.fetch(:root).expand_path
-      output = root.join(OUTPUT_PATH)
       case options.fetch(:mode)
       when :write
-        output.write("#{JSON.pretty_generate(TaelgarWorldbuildingDiscussionIndex.build(root))}\n", mode: "w", encoding: "UTF-8")
+        TaelgarWorldbuildingDiscussionIndex.write_cache(root, TaelgarWorldbuildingDiscussionIndex.build(root))
       when :query
         relative = Pathname.new(options.fetch(:query))
         relative = relative.relative_path_from(root) if relative.absolute?
         note = TaelgarNoteLint::ParsedNote.new(relative.to_s, TaelgarNoteLint.read_text(root.join(relative)))
-        puts JSON.pretty_generate(Sidecar.new(root).for(note))
+        puts JSON.pretty_generate(Sidecar.new(root, persist: options[:persist]).for(note))
       else
         data = TaelgarWorldbuildingDiscussionIndex.read_and_validate(root)
         unless TaelgarWorldbuildingDiscussionIndex.exact_current?(root, data)
-          raise Error, "Worldbuilding discussion sidecar does not match the current vault; run with --write."
+          raise Error, "Worldbuilding discussion cache is stale; the next query will refresh it automatically."
         end
       end
       0
-    rescue OptionParser::ParseError, Error, Errno::ENOENT, ArgumentError => error
+    rescue OptionParser::ParseError, Error, SystemCallError, ArgumentError => error
       warn error.message
       2
     end
