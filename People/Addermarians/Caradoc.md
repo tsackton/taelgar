@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Addermarian
 campaignInfo:
@@ -34,7 +34,7 @@ Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply a
 
 Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
 
-Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, though those who know him well may learn that as a teenager he crossed into Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemy.
+Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, though those who know him well may learn that as a teenager he crossed into the [[Thornweald]], Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemy.
 
 ## Events
 - (DR:: 1715-05-02): [[Addermarch - Session 03|Hired the Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
@@ -69,7 +69,7 @@ Spends Sundays at the Raven’s Roost in Roscombe
 
 Caradoc was born the year the Third Hobgoblin War ended, and grew up in the prosperity of the Peace of Circe.
 
-From a young age, however, he was marked by the fey. As a teenager, he traveled to the Feywild and into the realm of [[Morlaith]], where something happened. He won't speak of this (details TBD).
+From a young age, however, he was marked by the fey. As a teenager, he traveled to the Feywild and into the [[Thornweald]], the realm of [[Morlaith]], where something happened. He won't speak of this (details TBD).
 
 But, he emerged with an uncanny ability to see alchemical reactions, and prematurely white hair.
 

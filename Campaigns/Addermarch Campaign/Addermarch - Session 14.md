@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Addermarch
 sessionNumber: 14
 realWorldDate: 2025-11-02
@@ -17,13 +17,13 @@ descTitle: The Singing Tree
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
 > *In Taelgar: (DR:: 1715-05-18) - (DR:: 1715-05-19)*
 > *On Earth: Sunday November 2, 2025*
-> *[[Highmoor]] and the [[Feywild]]*
+> *[[Highmoor]] and the [[Thornweald]]*
 
 The party defeats the Singing Tree, speaks to a rescued fey, and temporarily disables the [[Nightsong Roots]] Feywild portal before returning to [[Haldrenn]]. 
 
 ## Timeline
 
-- **(DR:: 1715-05-18), night**: Defeat the Singing Tree, rescue [[Vaelithar]], depart the [[Feywild]], disable the [[Nightsong Roots]] portal, and camp halfway to [[Haldrenn]]
+- **(DR:: 1715-05-18), night**: Defeat the Singing Tree, rescue [[Vaelithar]], depart the [[Thornweald]], disable the [[Nightsong Roots]] portal, and camp halfway to [[Haldrenn]]
 - **(DR:: 1715-05-19), morning**: Travel the remaining distance back to [[Haldrenn]]
 
 ## Cast of Characters
@@ -38,15 +38,16 @@ The party defeats the Singing Tree, speaks to a rescued fey, and temporarily dis
 
 ## Places
 
+- **[[Thornweald]]** — [[Morlaith]]'s forest domain, where the party battles the Singing Tree.
 - **[[Twilight's Edge]]** — The fey realm where Vaelithar and Liraene hail from.
-- **[[Nightsong Roots]]** — A wind-chime portal between the Feywild and the mortal world, partially disabled by the party.
+- **[[Nightsong Roots]]** — A wind-chime portal between the [[Thornweald]] and the mortal world, partially disabled by the party.
 - **[[Haldrenn]]** — The nearby village to which the party returns after closing the portal.
 
 ## Narrative
 
 ### Tuesday, May 18th, 2 Robert I
 
-In the [[Feywild]], [[Yvan Greenrabbit|Yvan]], [[Drou]], and [[Fazoth de Brune|Fazoth]] creep towards a clearing in the forest, where a large tree sits, emitting a cursed song: the Singing Tree, already showing signs of serious damage from numerous scorch marks. Launching an attack, [[Fazoth de Brune|Fazoth]] strikes with _Witch Bolt_ as the tree drags [[Fazoth de Brune|Fazoth]] and [[Yvan Greenrabbit|Yvan]] close with its roots, grappling them. [[Yvan Greenrabbit|Yvan]] uses _Misty Step_ to escape; [[Drou]] charges in with her daggers but they have little effect on the hard bark of the tree. As the tree bludgeons the party with its branches, [[Fazoth de Brune|Fazoth]] also escapes with _Misty Step_ and launches an _Eldritch Blast_. The song, however, grows louder, and buries into the minds of [[Fazoth de Brune|Fazoth]] and [[Drou]], cursing and enraging them to attack indiscriminately. Despite [[Yvan Greenrabbit|Yvan]]'s _Scorching Ray_, the fire biting into the wood, the battle turns and nearly gets away from the party. [[Drou]], enraged by the curse, attacks [[Fazoth de Brune|Fazoth]], and [[Fazoth de Brune|Fazoth]] attacks [[Drou]], knocking her unconscious, as [[Yvan Greenrabbit|Yvan]] finally brings down the Singing Tree with a _Sorcerous Burst_. 
+In the [[Thornweald]], [[Yvan Greenrabbit|Yvan]], [[Drou]], and [[Fazoth de Brune|Fazoth]] creep towards a clearing in the forest, where a large tree sits, emitting a cursed song: the Singing Tree, already showing signs of serious damage from numerous scorch marks. Launching an attack, [[Fazoth de Brune|Fazoth]] strikes with _Witch Bolt_ as the tree drags [[Fazoth de Brune|Fazoth]] and [[Yvan Greenrabbit|Yvan]] close with its roots, grappling them. [[Yvan Greenrabbit|Yvan]] uses _Misty Step_ to escape; [[Drou]] charges in with her daggers but they have little effect on the hard bark of the tree. As the tree bludgeons the party with its branches, [[Fazoth de Brune|Fazoth]] also escapes with _Misty Step_ and launches an _Eldritch Blast_. The song, however, grows louder, and buries into the minds of [[Fazoth de Brune|Fazoth]] and [[Drou]], cursing and enraging them to attack indiscriminately. Despite [[Yvan Greenrabbit|Yvan]]'s _Scorching Ray_, the fire biting into the wood, the battle turns and nearly gets away from the party. [[Drou]], enraged by the curse, attacks [[Fazoth de Brune|Fazoth]], and [[Fazoth de Brune|Fazoth]] attacks [[Drou]], knocking her unconscious, as [[Yvan Greenrabbit|Yvan]] finally brings down the Singing Tree with a _Sorcerous Burst_.
 
 With the Singing Tree subdued, the party searches the area. [[Yvan Greenrabbit|Yvan]] notices that two mounds of roots and earth seem to be covering people; cutting through one (ruining [[Drou]]'s dagger in the process) reveals [[Vaelithar]], a [[fae]] from [[Twilight's Edge]], still alive. He tells a story: him and his companion, [[Liraene]], came across the tree recently, and fought it, nearly winning but were trapped in the end. While they were trapped, they felt the tree's memories. A man from the [[Material Plane|mundane world]], with an impossibly sharp battle axe, a glowing green gem attached, attacked and attacked, cutting the tree open and stealing its heart. Without a heart, its song turned to anger and violence. 
 
@@ -54,7 +55,7 @@ With the Singing Tree subdued, the party searches the area. [[Yvan Greenrabbit|Y
 
 After speaking with [[Vaelithar]], the party digs up the other mound. The woman inside has passed away; [[Vaelithar]] takes a pendant from her neck to bring back to [[Twilight's Edge]], but offers an enchanted fey pact wand and a mundane but pretty ring to the party. 
 
-The party leaves the [[Feywild]], and decides to try to close the [[Nightsong Roots]] portal. After some experimenting, they manage to combine [[Yvan Greenrabbit|Yvan]]'s magical talents and [[Drou]]'s musical talents: [[Yvan Greenrabbit|Yvan]] freezes the wind chime roots of the portal, so they play a discordant tune, and [[Drou]] plays the original correct tune to open the portal. The discordance causes each chime in turn to fracture and crack. After cracking four of the seven chimes, the party decides that is enough, and heads back towards [[Haldrenn]], camping about half way. 
+The party leaves the [[Thornweald]], and decides to try to close the [[Nightsong Roots]] portal. After some experimenting, they manage to combine [[Yvan Greenrabbit|Yvan]]'s magical talents and [[Drou]]'s musical talents: [[Yvan Greenrabbit|Yvan]] freezes the wind chime roots of the portal, so they play a discordant tune, and [[Drou]] plays the original correct tune to open the portal. The discordance causes each chime in turn to fracture and crack. After cracking four of the seven chimes, the party decides that is enough, and heads back towards [[Haldrenn]], camping about half way.
 
 ### Wednesday, May 19th, 2 Robert I
 

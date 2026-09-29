@@ -19,14 +19,14 @@ descTitle: The Heart Beneath Serethwyn Tor
 > *On Earth: Sunday March 8, 2026*
 > *[[Serethwyn Tor]] and the mine below*
 
-The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[Duncan of Haldrenn]]'s letters and the stolen fey heart, uses [[Trueflame]] to destroy the [[Serpentine Battleaxe]], learns more of the [[Serpentine Wars|Avatus wars]] from a dead ranger, and sets out for [[Caradoc]]'s to seek a way back into the [[Feywild]].
+The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[Duncan of Haldrenn]]'s letters and the stolen fey heart, uses [[Trueflame]] to destroy the [[Serpentine Battleaxe]], learns more of the [[Serpentine Wars|Avatus wars]] from a dead ranger, and sets out for [[Caradoc]]'s to seek a way back into the [[Thornweald]].
 
 ## Timeline
 
 - (DR:: 1715-05-27), **late afternoon**: The party defeats the serpentine warlock in the deepest chamber beneath Serethwyn Tor.
 - (DR:: 1715-05-27), **evening**: They search the chamber, recover Duncan's letters and the stolen fey heart, and use [[Trueflame]] to destroy the [[Serpentine Battleaxe]] and a serpentine pendant.
 - (DR:: 1715-05-27), **night**: Climbing back out through the mine, they question a dead ranger with _Speak with Dead_, learning more about the [[Serpentine Wars|war with Avatus]] and the lost [[Serpentine Register]], then camp in the upper mine chamber.
-- (DR:: 1715-05-28), **morning**: The party sets out for [[Caradoc]]'s, hoping to find a way back into the [[Feywild]] to return the stolen heart.
+- (DR:: 1715-05-28), **morning**: The party sets out for [[Caradoc]]'s, hoping to find a way back into the [[Thornweald]] to return the stolen heart.
 
 ## Cast of Characters
 
@@ -48,7 +48,7 @@ The party defeats the serpentine warlock beneath [[Serethwyn Tor]], recovers [[D
 - **Serpentine warlock's lair** - The chamber holding Duncan's corpse, the altar, the heart, and the warlock scraping serpentine from the walls.
 - **Upper mine chamber** - The safer chamber where the party camps after escaping the deeper works.
 - **[[Adderfell]]** - City where Kelvyn serves and where surviving copies of the [[Serpentine Register]] may still exist.
-- **[[Feywild]]** - The destination to which the party hopes to return the stolen heart.
+- **[[Thornweald]]** - The destination to which the party hopes to return the stolen heart.
 
 ## Narrative
 
@@ -66,7 +66,7 @@ That night the party camps again in the upper mine chamber where they had previo
 
 ### Friday, May 28th, 2 Robert I
 
-In the morning, carrying the recovered heart, the party sets out for [[Caradoc]]'s cottage to seek a path back into the [[Feywild]] and return what Duncan stole.
+In the morning, carrying the recovered heart, the party sets out for [[Caradoc]]'s cottage to seek a path back into the [[Thornweald]] and return what Duncan stole.
 
 %% RAW NOTES
 begin with boss fight
