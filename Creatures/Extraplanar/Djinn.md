@@ -10,7 +10,7 @@ POV: modern
 ---
 # Djinn
 
-Djinn are a diverse group of powerful air genies, among the most famous native inhabitants of the [[Elemental Plane of Air]].
+Djinn are a diverse group of powerful air genies, among the most famous native inhabitants of the [[Elemental Plane of Air]]. 
 
 They are commonly described as tall, blue-skinned humanoids whose lower bodies merge into billowing mist. Stories collected in [[On Elemental Forms]] describe djinni as elegant, mischievous, honorable, and changeable as the winds, able to grant great boons to those who gain their favor, or bring storms and destruction against those who displease them.
 

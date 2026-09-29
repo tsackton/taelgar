@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/gl]
+tags: [person]
 species: human
 ancestry: Northerner
 gender: female
@@ -16,7 +16,7 @@ whereabouts:
 knownTo: [grli]
 dm_owner: tim
 dm_notes: color
-POV: 1740s
+POV: 1752
 ---
 # Dinia
 *(DIN-ee-ah)*
@@ -25,11 +25,13 @@ POV: 1740s
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:grli%% Met by the [[Silver Tempests]] on July 22nd, 1747 in [[Blacksilver Peak]], the [[Fiatara Mountains]] %%^End%%
 
-![[dinia.png|right|400]]Dinia is a bard, lore-keeper, guide, and hermit who lives in the mountains near [[Blacksilver Peak]], north of the [[Northern Provinces]] of the [[Chardonian Empire]]. She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [[Amani]], destroyed during and after the [[Great War]]. 
+![[dinia.png|right|400]]Dinia is a bard, lore-keeper, guide, and hermit. For many years, she lived alone in the mountains near [[Blacksilver Peak]], north of the [[Northern Provinces]] of the [[Chardonian Empire]]. She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [[Amani]], destroyed during and after the [[Great War]]. 
 
 She is a bent old woman, usually bundled in heavy furs, who moves slowly but deliberately through the high peaks. Her home near Blacksilver Peak is a warm, hidden cave that seems larger inside than outside, a place of food, shelter, stories, and practical warnings against the mountain's dangers. She is strange and old-fashioned in manner, but not vague or helpless; she knows the glacier, the storms, the hidden paths, and the old things that still linger above the tree line.
 
 She is friendly to travelers and enjoys speaking and sharing stories with strangers, though while she offers shelter, guidance, and healing in the high mountains, she also expects those who ask for help to do concrete work in return. 
+
+Recently, she has moved out of the high peaks, and now runs a refuge and hall of stories with [[Brelith]] on the western slopes of the [[Fiatara Mountains]], where those displaced by the dissolution of the [[Northern Provinces]] and the break with the [[Chardonian Empire]] can find safety and peace. 
 
 ## Campaign Interactions
 
@@ -43,13 +45,9 @@ She is friendly to travelers and enjoys speaking and sharing stories with strang
 
 %%^Campaign:none%%
 
-## Open Questions / DM Notes
-
 The table nickname for Dinia is "Grandma Yoda".
 
 A later PC note describes Dinia as a bard and member of the Whistlers, a secretive lore-gathering organization without a current dedicated page. Treat this as useful but lightly sourced until the Whistlers are developed. Source: [[Nerissa]].
-
-After the Suwi rescue, Dinia's precise ongoing whereabouts are not fully established. The existing frontmatter preserves her mountain home and treats the Suwi episode as a temporary captivity.
 
 %%^End%%
 
@@ -58,5 +56,5 @@ After the Suwi rescue, Dinia's precise ongoing whereabouts are not fully establi
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a late-1740s portrait of Dinia as an elderly mountain hermit, with interactions through her DR 1748 rescue; the later refuge established by DR 1752 is not yet incorporated into the article.
+Temporal coverage: an early 1750s portrait of Dinia as an elderly mountain hermit, with interactions through the later refuge established by DR 1752
 %%^End%%

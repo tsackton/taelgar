@@ -16,7 +16,7 @@ The Dunmari monsoon draws moisture from the Nevos, with coastal inflow broadly *
 
 ## Seasonal cycle
 
-![[taelgar-dunmar-chardon-seasons-v2.png|1400]]
+![[assets/worldbuilding/taelgar-dunmar-chardon-seasons-v2.png|1400]]
 
 *Two seasonal views of the same basemap crop. Purple arrows show broad wind tendencies; the summer inflow arrows do not specify individual mountain passes. The ridge marks a region of influence, not a fitted pressure contour. Small hexes remain 24 miles face-to-face.*
 
