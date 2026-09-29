@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [power, status/check/ai]
+tags: [power]
 knownTo: [adma, clee]
 name: Morlaith
 aliases: [Grymholt, Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows, Hidden Lord]
 typeOf: archfey
 gender: male
+affiliations:
+  - {org: Thornweald, type: leader, title: Master}
 dm_owner: tim
 dm_notes: none
 ---
 # Morlaith
 >[!info]+ Information  
-> An archfey (he/him)
+> An archfey (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Morlaith, also called the Briarheart, the Keeper of the Thornweald, and the Hidden Lord, is an ancient archfey who rules over the [[Thornweald]], a domain that lies congruent with parts of Addermarch, west of [[Twilight's Grace]] and east of [[Duskmire]]. He is old, strange, and remote: a faded remnant of the deep wild, an ancient echo of some forgotten dark forest of brambles, old paths, and hidden hollows.
 

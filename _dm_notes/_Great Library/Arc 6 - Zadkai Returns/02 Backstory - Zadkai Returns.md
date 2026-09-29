@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Adventure Backstory - Zadkai Returns
 
 ## Sources and anchors

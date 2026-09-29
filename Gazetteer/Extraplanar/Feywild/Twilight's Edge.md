@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
+displayDefaults: {defArt: ""}
 typeOf: extraplanar domain
 whereabouts: Feywild
 dm_owner: tim

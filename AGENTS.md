@@ -63,8 +63,11 @@ plan calls for one.
 5. **Make the smallest sufficient change.** Do not fix unrelated errors or
    formatting, even in an edited file.
 6. **Mark agent-edited content notes.** Every content note modified outside
-   `_sessions` must include `status/check/ai` in its YAML `tags`, except that an
-   explicitly approved Taelgar note-linter run uses `status/check/lint` instead.
+   `_sessions` and `Worldbuilding/Agentic Review` must include `status/check/ai`
+   in its YAML `tags`, except that an explicitly approved Taelgar note-linter run
+   uses `status/check/lint` instead. Files in `Worldbuilding/Agentic Review`,
+   including its subdirectories, must have no tags at all: no YAML `tags` field
+   and no inline tags.
    The linter adds or retains `status/check/lint` only when a complete lint leaves
    an open error, warning, or suggestion. A complete clean lint writes no Lint
    block and may remove only `status/check/lint` together with any previous Lint
@@ -294,8 +297,8 @@ these general rules:
   accepted for resolution but are not canonical authored values. Positive
   `audience` semantics remain a separate, underdeveloped design question.
 - Apply the status lifecycle in rule 6 to edited content notes outside
-  `_sessions`. If another status tag appears wrong or obsolete, report it instead
-  of changing it.
+  `_sessions` and `Worldbuilding/Agentic Review`. If another status tag appears
+  wrong or obsolete, report it instead of changing it.
 
 ## 7. Specialized and High-Risk Work
 

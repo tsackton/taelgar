@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 21
 realWorldDate: 2026-09-27
@@ -51,22 +51,26 @@ The party continues walking all day in pleasant spring weather, making camp on t
 
 ### Saturday, May 29th, 2 Robert I
 
-The party crosses the [[Highmoor]] and arrives at [[Caradoc]]'s cottage outside [[Brantor]]. They update [[Caradoc]] on the events at [[Serethwyn Tor]], and plan to go back to the [[Feywild]] to return the Singing Tree's heart. They discuss [[Thornweald]] and the [[Morlaith|Briarheart]] with [[Caradoc]], who gives them several pieces of advice: seek a guide, the fey of the [[Thornweald]] may be strange, but they are not inherently evil, and hurry, because in a few days the Singing Tree will regrow and the challenge will be much greater. He also gives the party a small vial of a dense liquid that, when smashed on the ground, connects the Feywild and the Material Plane for a short moment, allowing passage. He also gives them a vine-covered wooden wand that, if broken, will summon Lady Calanthë, Duchess of the Sunset Forest and Guardian of the Gloaming Hills, who will help, but for a price, most likely in service. 
+The party crosses the [[Highmoor]] and arrives at [[Caradoc]]'s cottage outside [[Brantor]]. They update [[Caradoc]] on the events at [[Serethwyn Tor]], and plan to go back to the [[Feywild]] to return the Singing Tree's heart. They discuss [[Thornweald]] and the [[Morlaith|Briarheart]] with [[Caradoc]], who gives them several pieces of advice: seek a guide, the fey of the [[Thornweald]] may be strange, but they are not inherently evil, and hurry, because in a few days the Singing Tree will regrow and the challenge will be much greater. He also gives the party a small vial of a dense liquid that, when smashed on the ground, connects the [[Feywild]] and the [[Material Plane]] for a short moment, allowing passage. He also gives them a vine-covered wooden wand that, if broken, will summon Lady Calanthë, Duchess of the Sunset Forest and Guardian of the Gloaming Hills, who will help, but for a price, most likely in service. 
 
-After dinner and conversation, the party decides to walk back to Haldrenn to hopefully be closer to their [[Feywild]] destination, though [[Caradoc]] warns them distant in the Feywild is tricky. After three hours walking under increasingly cloudy skies, they camp for the night on the [[Highmoor]].
+After dinner and conversation, the party decides to walk back to [[Haldrenn]] to hopefully be closer to their [[Feywild]] destination, though [[Caradoc]] warns them distant in the Feywild is tricky. After three hours walking under increasingly cloudy skies, they camp for the night on the [[Highmoor]].
 
 ### Sunday, May 30th, 2 Robert I
 
-The party crosses the [[Highmoor]] back to [[Haldrenn]] under cloudy skies, arriving around noon and warning the villagers of their plan to return the heart. They then use Caradoc's vial to enter the Feywild near the currently-closed [[Nightsong Roots]] portal. 
+The party crosses the [[Highmoor]] back to [[Haldrenn]] under cloudy skies, arriving around noon and warning the villagers of their plan to return the heart. They then use Caradoc's vial to enter the [[Feywild]] near the currently-closed [[Nightsong Roots]] portal, arriving in the [[Thornweald]].
 
-They arrive on a path, at a fork, in the late afternoon. The sun is hidden by clouds and trees, and a light drizzle drips from the leaves of the dense woods. To the left, a path leads into a dark, tangled forest, heading up a short hill; to the right, the path continues into the close forest, but seems to be more open, with patches of sunlight. The party goes up the hill, following the dark path, and come out into a grassy meadow filled with incongruous sunshine. In the meadow, a lone willow tree stands, covered in bright butterflies that, to [[Yvan Greenrabbit|Yvan]], smell slightly of rot and decay. As soon as the party steps into the meadow, the butterflies attack. 
+They arrive on a path, at a fork, in the late afternoon. The sun is hidden by clouds and trees, and a light drizzle drips from the leaves of the dense woods. To the left, a path leads into a dark, tangled forest, heading up a short hill; to the right, the path continues into the close forest, but seems to be more open, with patches of sunlight. The party goes up the hill, following the dark path, and come out into a grassy meadow filled with incongruous sunshine. In the meadow, a lone willow tree stands, covered in bright butterflies that, to [[Yvan Greenrabbit|Yvan]], smell slightly of rot and decay. As soon as the party steps into the meadow, the butterflies attack, swarming around [[Drou]] with poisonous bites. Both [[Yvan Greenrabbit|Yvan]] and [[Fazoth de Brune|Fazoth]] strike the swarm with Witch Bolts, and it quickly weakens and is temporarily driven off by [[Drou]]'s Dissonant Whispers. The willow, confused, strikes out at Yvan, dragging him close in retaliation for his attack on the swarm. But the swarm is soon killed by [[Yvan Greenrabbit|Yvan]]'s sorcerous burst, and with the corrupting influence of the butterflies gone, Drou is able to calm the willow, and draw out [[The Story of Sweetwillow|its story]]. 
 
----
+After calming the willow, [[Yvan Greenrabbit|Yvan]] climbs to its top to scout, seeing a narrow animal track leaving the clearing, descending gradually towards a river, across which a small number of large trees rise above the canopy. With a sense that is the direction of the Singing Tree, the party proceeds down the narrow path, and prompted gets lost in the forest. 
+
+Luckily, a pair of young foxlings, [[Kip]] and [[Flo]], are following them out of curiosity. Yvan hears them, and [[Fazoth de Brune|Fazoth]], with the help of his pseudodragon, is able to spot them: for a few moments, the foxes follow the party, while the pseudodragon follows the foxes. [[Fazoth de Brune|Fazoth]] stops to speak to them, and quickly charms them, a surprising example in their eyes of a "person who can speak" (meaning, talk in Sylvan). After some playful banter, a discussion of the willow, and a race that Fazoth wins by using Misty Step, the foxlings suggest that [[Gwydren]] is a good guide to find; he lives across the river near the big trees. As they are completely lost, the party asks for help to find their way. The foxlings happily oblige, and lead the party towards the river road, a much wider path sloping gently down towards the river basin. Fazoth invites them to join, but they decline, saying they are not allowed to cross the river. 
+
+We end as the party turns towards the river on the wide path. 
 
 
 %% raw notes
 
-walked towards haldrenn, went into feywild 
+walked towards [[haldrenn]], went into feywild 
 appear on path by fork, skipping first walking bit
 go towards dark path
 kill butterflies
