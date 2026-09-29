@@ -52,7 +52,7 @@ For missing notes, include the proposed destination, supported frontmatter field
 
 State the proposed lint mode and whether previously completed notes are included. The default preserves every valid previous `lintedAt`/`lintVersion` pair; offer re-linting and obtain explicit authorization before including those pages. Do not infer re-lint permission from stale versions or recent session evidence.
 
-Include any requested image work and the exact status-table destination/section. If those options remain undecided, defer them to their own later checkpoint. Scope approval can cover both the displayed note creations and the subsequent lint; do not request duplicate approval for those same operations. Material additions or changes require an updated preview and approval for the changed scope.
+Include any requested image work and the exact status-table destination/section. If those options remain undecided, retain them as pending closeout choices in section 6; omission from the initial scope is not a decline. Scope approval can cover both the displayed note creations and the subsequent lint; do not request duplicate approval for those same operations. Material additions or changes require an updated preview and approval for the changed scope.
 
 ## 3. Create approved missing notes
 
@@ -83,12 +83,22 @@ Pass exact approved subject paths, lint/re-lint authorization, any user restrict
 
 Leave broader expansions or substantive changes surfaced by lint as proposals unless separately authorized. Record completed, skipped, excluded, blocked, and failed outcomes accurately; an old completed lint is not a review performed during this run. Retain completed work across pauses and do not re-lint it merely to resume the workflow.
 
-## 6. Optional images and status table
+After linting and verification, return to section 6 of this skill. The linter's handoff is input to the linked-note closeout, not the end of this workflow. The coordinating agent retains responsibility for the summary and any pending artifact choice, including when linting was delegated or all notes were previously completed.
+
+## 6. Close out with a summary and optional artifacts
+
+Always provide a substantive chat summary: identify the collection roots and source mode, distinguish newly reviewed notes from preserved prior reviews and exclusions, explain the important open findings in plain language, and separate applied changes from proposed additions. Use the linter's generated handoff and saved reports without performing a second editorial review. Include concise counts, links, and unresolved blockers, but do not substitute counts or rule identifiers for the findings summary.
+
+### Summary page or status table
+
+If this option is undecided, explicitly ask whether the user wants the summary saved with a status table for the full approved collection, including preserved prior reviews and exclusions. Propose a concrete destination and content outline; use a suitable existing review location or suggest `Worldbuilding/Agentic Review/<target> - Linked Notes Review.md`. A restriction on creating subject pages does not settle this separate choice, but never write a summary without authorization. Honor explicit summary-page declines and broader instructions such as chat-only or no further writes. If the destination and contents were already approved, write them without asking again.
+
+The saved summary should include the collection source, snapshot date, substantive findings from this run, applied changes versus proposals, the complete status table, and exclusions or remaining decisions. Read final live completion fields, tags, and saved reports for the table without re-linting preserved notes. Useful columns are **Page**, **Referenced by**, **Tags**, **Lint state**, and **Outstanding work**; include image status only when relevant. Clearly distinguish newly completed clean/open results from preserved, skipped, excluded, blocked, or failed work. A completion pair with no report records prior state, not a new assurance of completeness; flag tag/report mismatches without repairing them or inferring findings from tags alone.
+
+Keep private evidence out of shared summaries. Preserve unrelated destination content and apply its status/tag rules; under `Worldbuilding/Agentic Review`, use no YAML or inline tags, and display source-note tags as plain text. Preview any unapproved destination, section, or replacement before writing. Read back the saved artifact and verify its paths and values.
+
+### Images
 
 After the note work, offer [illustrate-note](../illustrate-note/SKILL.md) if image work was not already decided. Hand off the selected pages and relevant source context to that skill for image target selection, two initial alternatives, iterative feedback, and export of explicitly approved finals. Keep drafts outside the vault. Image approval does not itself authorize replacing existing assets or inserting images into notes; follow the companion skill's separate insertion step.
 
-If requested, write a status table to the user-specified note and section, previewing the destination and contents before any unapproved write or replacement. Use final live note state. Useful columns are **Page**, **Referenced by**, **Tags**, **Lint state**, and **Outstanding work**; include image status when relevant. Distinguish clean/open results from previously completed, skipped, excluded, blocked, or failed work. Never infer completeness from tags alone.
-
-Keep private evidence out of shared tables. Preserve unrelated destination content and apply the destination's status/tag rules. Read back the saved table and verify its paths and values.
-
-Finish with concise counts and links for created notes, completed lint/re-lint work, explicit exclusions, unresolved blockers, and any optional artifacts. Report any remaining decision without implying that all context pages were reviewed.
+Closeout is complete when the chat summary has been delivered and each optional artifact is either delivered with a link, explicitly declined, or presented as a concrete pending choice. When awaiting a choice, end with the useful summary and that question; retain completed lint work while waiting. Do not end immediately after the linter's completion message or reopen an already settled image or summary decision.
