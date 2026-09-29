@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/ai]
 ---
 
 ## On Rai
@@ -17,7 +17,7 @@ In a book by Chardonian scholar, [[Gnaeus]], written about a generation ago (may
 
 Here, [[Kassi]] finds much more information, from three main sources. The information from each book is listed below.
 
-### On Greater Divinity
+### [[On Greater Divinity]]
 
 The first is from a classic philosophical treatise entitled "On Greater Divinity", written by a Dunmari scholar from 400 years ago, during the Dharajun dynasty. This work considers the theological question of the actual existence of [[Divine Presence|Shurat]] and [[Divine Presence|Sampa]] of Dunmari myth. The power of [[Dunmari Religion|the Five Siblings]] is unquestionable given the frequency and power of miracles and even direct communication by these powers. But how can we establish the reality, or not, of the creator divinities? The text outlines a number of arguments, such as the limits of the power of gods, the inference of divine intervention beyond their abilities (creation of humans, separation of the planes), and where the gods themselves come from. A small section of this work also considered comparative theology, arguing that the common structure of many religions (with the creator god or gods, never more than two), suggests their reality as well. In this section, are a few sentences that mention [[Divine Presence|Anida]]:
 
@@ -43,7 +43,7 @@ Of particular note is the discussion of their religion, which is centered around
 
 [[Yezali]]: The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt.
 
-### On the Birth and Death of the Lesser Gods
+### [[On the Birth and Death of the Lesser Gods]]
 
 The final mention is from a work of Esa, a Lakan scholar who lived about 70 years ago. She was fascinated by trying to understand divinity and was particularly interested in stories of what she called the lesser gods, minor powers that seemed to arise and sometimes disappear. Much of the work is theological speculation on [[Bhishma]], [[Shakun]], and Adra, focusing on the idea / dogma that their divinity was a gift from [[Dunmari Religion|the Five Siblings]], who bestowed some measure of their power on those who would otherwise have lived and died as mortal humans.
 

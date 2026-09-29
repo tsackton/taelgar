@@ -20,7 +20,12 @@ POV: modern
 
 Relatively few reliable reports of planar travelers have come from the plane known as Limbo. Scattered fragments of lost poems and confused ramblings, collected by [[Gaius Devarro]] in his treatise [[On Minds and Chaos]], hint at a place of churning chaos, where nothing holds its shape for long; stone melts to water, which freezes to fire at a whim, before bursting into a diamond that blows away as snow. [[Marcion of Iridel]], quoting a fragment of a lost treatise called the [[The Unstable Sphere]], called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. More recently, [[Arryn|Arryn of Tollen]] complied a series of inferred principles of the nature of Limbo in [[Experiments upon the Planar Substance]]. 
 
+### Origins
 The origins of Limbo defy any explanation, although [[Yendalo]] speculated that Limbo may in fact be a shifting wound in reality itself, where the fundamental essences of existence refuse to take any permanent shape.
+
+%%^Campaign%%
+One possible account holds that Limbo took recognizable form during the [[Riving]], when primordial chaos lost a conflict with the [[Divine Presence]]. In this telling, Limbo was created as a containment vehicle to hold the defeated essence of chaos.
+%%^End%%
 
 %%^Campaign:dufr%%
 
