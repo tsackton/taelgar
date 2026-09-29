@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review Linked Notes"
+  short_description: "Review context pages from notes or session recaps"
+  default_prompt: "Use $review-linked-notes to collect context pages from my target notes or sessions, show the scope for approval, and coordinate missing-note creation and linting."

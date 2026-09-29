@@ -1,0 +1,4 @@
+interface:
+  display_name: "Illustrate Note"
+  short_description: "Create and refine source-grounded note illustrations"
+  default_prompt: "Use $illustrate-note to propose illustrations for my note, generate two alternatives per selected subject, and refine them with me before exporting explicitly approved finals."
