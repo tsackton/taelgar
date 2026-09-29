@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [meta, status/check/ai]
 ---
 # Cleenseau Arc 2 Overview
 
@@ -7,103 +7,103 @@ tags: [meta]
 
 Arc 2 is a campaign arc intended to run for roughly 12–20 sessions and take the PCs from approximately level 10 or 11 through level 17. It follows the apparent death of [[Malach]] and the destruction of his divided phylactery in Arc 1.
 
-The arc should combine a strong opening investigation with a longer quest across several distant parts of Taelgar. The travel phase should emphasize adventures with clear local goals rather than a single complicated mystery. The PCs should understand what they are seeking at each destination, while retaining meaningful choices about which lead or destination to pursue next.
+The arc should combine a strong opening adventure with a longer quest across several distant parts of Taelgar. The travel phase should emphasize adventures with clear local goals rather than a single complicated mystery. Each success should normally reveal one to three viable next choices, with only occasional red herrings or dead ends.
 
-## Brief overview
+## Current working premise
 
-Mysterious deaths of magic users in [[Enford]] and the [[Marches of Enford|Western Marches]] reveal a mind flayer operation harvesting souls. The mind flayers are feeding those souls to Malach, whom they have imprisoned inside a nearly invulnerable chalyte golem deep beneath the [[Sentinel Range|Sentinels]]. The empowered golem is a sympathetic key through which the cabal intends to break the moon and release the dangerous beings imprisoned within it.
+Malach prepared a soul jar or similar contingency with the cooperation of a group of mind flayers. A nihilistic cabal destroyed or displaced those allies, corrupted the contingency, and trapped Malach in a chalyte ritual cage deep beneath the [[Sentinel Range|Sentinels]].
 
-The PCs can disrupt the immediate flow of souls in an opening adventure, buying time without removing the underlying danger. They must then learn how Malach can be unmade, assemble three parts of an unmaking ritual through expeditions across Taelgar, and return to confront the cabal and its weapon.
+The cabal believes that destroying the moon during a planar confluence will disrupt its regulation of planar tides and cause a catastrophic planar tsunami. Malach's knowledge and powerful undead soul allow the cabal to compel him to perform and anchor a ritual its members cannot complete themselves. The ritual will consume Malach. A unique conduit between Malach and the moon is a promising additional explanation, but remains provisional.
+
+Malach does not want to be consumed. The opening adventure may therefore begin when he uses the limited influence that leaks through his prison to attract attention. The PCs ultimately stop the cabal's ritual, potentially with Malach's unwilling or manipulative assistance, but are left with Malach still imprisoned beneath the Sentinels.
+
+They cannot simply free or kill him. A fragment of [[Umidzka]] is attached to Malach, and killing him without resolving that attachment risks releasing Umidzka into Taelgar. The larger arc is the quest to discover a permanent solution.
 
 ## Arc goal
 
-Complete victory requires both:
+The PCs must:
 
-- unmaking Malach as the cabal's sympathetic key and independent future danger; and
-- defeating the mind flayer cabal responsible for the attempt to break the moon.
+- stop the mind flayer cabal's lunar ritual;
+- learn the truth about Malach's connection to Umidzka and the moon;
+- obtain the knowledge and ritual elements needed to resolve that connection safely; and
+- return to deal permanently with Malach.
 
-Either accomplishment is sufficient to prevent the moon from being broken in the current crisis. Achieving only one leaves the other danger unresolved.
+Two final solutions remain live:
 
-## Likely outcomes
-
-### Complete victory
-
-The PCs complete the unmaking ritual and defeat the cabal. The moon remains intact, the sympathetic key is destroyed, and the cabal cannot rebuild its operation.
-
-### The cabal falls but Malach remains
-
-The moon is safe because no one remains to use the key. Malach cannot free himself from the chalyte golem, but remains lost beneath the Sentinels like a dangerous relic. He may attract, influence, or corrupt creatures in the depths and could be freed by someone else in the future.
-
-### Malach is unmade but part of the cabal survives
-
-The moon is safe because the cabal has lost its key. Surviving mind flayers remain a threat and may pursue other destructive plans.
-
-### Failure
-
-If the soul feeding reaches the necessary threshold and the cabal successfully activates the sympathetic key, it can break the moon's prison. The precise consequences and opportunities to interrupt that attempt remain to be designed.
+1. **Unbinding:** sever and dispel the Umidzkan fragment, free Malach from the chalyte prison, and kill the now-killable lich.
+2. **Containment or transformation:** if the fragment cannot be safely unbound, defeat Malach and consign him to the moon, where Malach and the fragment can be permanently contained or transformed.
 
 ## Working arc structure
 
-### Part 1: Deaths in the Western Marches
+### Part 1: Malach's signal and the cabal
 
-The arc begins with mysterious deaths of magic users in Enford and the Western Marches. Investigation reveals the mind flayers' soul-harvesting operation and its connection to the hidden chalyte golem.
+The initial disturbance is no longer assumed to be a series of murders or a soul-harvesting operation. The current possibility is that Malach deliberately attracts people capable of finding and stopping the ritual through dreams, compulsions, magical disturbances, influenced creatures, or another form of limited mental projection.
 
-The opening adventure ends with a substantial setback to the cabal and disrupts its current flow of souls. The length and completeness of the reprieve depend on what the PCs destroy, whom they stop, and what the cabal preserves. The danger remains in place even after a strong victory.
+The PCs trace the disturbance through the Western Marches and possibly [[Duchy of Maseau|Maseau]] into a short Underdark sequence. They discover the imprisoned Malach and the cabal's plan to use him during an approaching planar confluence. The immediate objective is clear: defeat the cabal and stop the ritual before it consumes Malach and strikes the moon.
 
-### Part 2: Learning the requirements
+Malach and the PCs have a temporary alignment of interests, but he remains an enemy and manipulator.
 
-[[Tharwa Fea|Tharwa Fëa]] and [[Tollen]] are the two obvious entry points for research into Malach and the unmaking ritual. [[Chardon]] may provide a third route, especially if the PCs achieve only partial success at the first two locations.
+### Part 2: The impossible aftermath
 
-Strong success in this part tells the PCs all three things required for the ritual. Partial success reveals only one or two requirements and leaves additional work necessary to identify the others. Failure should increase the work required without stalling the arc.
+The cabal is defeated, but its passive chalyte prison remains intact. Malach cannot escape it, and moving, opening, or damaging it is unsafe. The failed ritual is no longer an immediate clock once the cabal is gone and the relevant confluence has passed.
 
-### Part 3: The ritual expeditions
+This makes leaving Malach beneath the Sentinels a reasonable temporary choice. The site can be sealed, guarded, and monitored while the PCs seek a permanent solution. Malach's limited ability to project, influence, or attract creatures means that the arrangement is stable enough for a long quest but not acceptable forever.
 
-The known ritual requirements point toward two distant destinations, while the source of the third requirement remains undecided. Once a requirement is known, its related expedition should have a clear local objective. Success should produce concrete progress and normally reveal one to three viable next choices. An occasional red herring or dead end is appropriate, but should not turn the travel quest into a confusing mystery.
+Evidence from the cabal and the ritual establishes the moon as their target. Evidence about Malach's soul reveals that he cannot be killed safely. Together these create two research questions: what is the moon, and what happened to Malach?
 
-The expeditions can potentially be pursued in different orders:
+### Part 3: Research and the travel quest
 
-1. **The highlands:** discover who Malach really is. The ritual piece is provisionally his true name, true origin, or an equivalent truth that identifies the soul upon which the ritual must act. This should be an extended highlands adventure culminating at the temple of a dead kestavo. Its detailed adventure structure is intentionally deferred.
-2. **[[Ursk]]:** understand the magic that bound Malach's soul into the chalyte golem. Urskan magical rituals provide a clue, principle, or component needed to reverse that binding. Whether Malach learned or used Urskan magic himself, or whether the PCs independently adapt Urskan knowledge, remains open.
+[[Tharwa Fea|Tharwa Fëa]] and [[Tollen]] remain the natural entry points into Malach's history. Tollen also provides a route into fringe scholarship about planar tides, lunar influence, and planar stability. [[Ishara Venn]] is a possible intellectual connection. Strong research success should make the major requirements and destinations legible; weaker success should reveal only part of the route without stalling the arc.
 
-The third requirement concerns breaking the sympathetic correspondence between the golem and the moon without transferring the damage to the moon. Its destination remains open, with the current candidates being the [[Stoneborn]] or [[Dwarven Kingdoms]] of the Sentinels, [[Duchy of Maseau|Maseau]] or the [[Refounded Alliance of Aurbez|Aurbez]] region, the [[Plaguelands]], or the devastated lands south of [[Tyrwingha]]. A newly developed Green Sea location is deliberately excluded to preserve that region for another possible campaign.
+The current likely progression is:
 
-### Part 4: Unmaking and confrontation
+1. **Tollen and Tharwa Fëa:** establish what must be learned about Malach, Umidzka, and the moon.
+2. **The highlands and [[Zimkova]]:** discover who Malach really is and why the obscure lunar theory worked for him. This remains an extended adventure culminating at the temple of a dead kestavo.
+3. **A flexible intermediate destination:** provide geographic breadth and lead toward the final body of magical research. Its location remains open.
+4. **[[Drankor]] and the [[Occulta Ludum]]:** investigate the binding, transmutation, and lunar conduit magic needed for a permanent solution. This currently fits better than Ursk, although it remains provisional.
 
-The PCs return to the depths beneath the Sentinels with the completed ritual. The ritual is the core resolution of the arc rather than incidental preparation for a fight.
+The precise order may remain flexible. Once a destination is known, the immediate objective there should be clear.
 
-Its exact result remains open. It may release Malach from the invulnerable chalyte body in a vulnerable lich form, leading to a climactic combat, or it may unbind him so completely that it also unmakes his lichhood. The internal logic developed for the ritual should determine which ending is appropriate.
+### Part 4: The final ritual
 
-The final structure must also provide a resolution to the mind flayer cabal, whether as part of the ritual confrontation or through a connected climax.
+The PCs return to the chalyte prison with the necessary knowledge and ritual elements. The ritual is the core resolution rather than incidental preparation.
 
-## Gameplay structure
+Under the unbinding ending, the ritual separates Malach from Umidzka and frees him from the prison, leading to a climactic fight against a vulnerable lich. Under the containment ending, the ritual transfers or admits Malach and the fragment into the moon; the final confrontation is about defeating and restraining him long enough to complete that transformation.
 
-The arc begins as an investigation, then becomes a choice-driven travel quest composed of distinct adventures, and culminates in an underground ritual confrontation. Research at Tharwa Fëa and Tollen establishes the quest's objectives. The ritual expeditions supply its parts rather than merely offering clues to a single final answer.
+## The moon reveal
 
-The ritual pieces may be physical objects, learned rites, secret knowledge, or a combination. This has not been decided.
+The prison nature of the moon should not be obvious at the beginning. The normal scholarly view is that the moon governs planar tides. A fringe Tollish theory treats it as a broader stabilizing force within the multiverse. The mind flayers extrapolate from this theory that destroying it during a confluence will unleash a planar tsunami.
+
+Deeper research may reveal that the moon is less a conventional prison than a transmuting defense against powers that enter creation. Dangerous entities or fragments are absorbed, changed, and incorporated until they become part of the moon. Its strange consciousness may contain confused memories of both the beings it absorbed and those who created or seeded it.
+
+This remains provisional. The final metaphysics should preserve the moon's uncertainty and confused understanding of its own origin.
 
 ## Inertia
 
-The cabal's soul feeding makes Malach and the sympathetic key stronger. Without enough stolen power, Malach remains dangerous but cannot support the cabal's attack on the moon.
+After the opening victory, the danger is persistent rather than immediately escalating. Malach remains inaccessible and unsafe to kill. His influence leaks through the prison, attracting or corrupting creatures in the depths and creating a long-term risk that someone else will find or release him.
 
-The opening adventure interrupts that process and creates a reprieve. Whether the cabal rebuilds the same operation, finds another source of souls, or remains unable to resume feeding depends on the PCs' actions and has not been predetermined.
+The stability of the prison, the cabal's defeat, and the passing of the planar confluence give the PCs enough time to travel. The inability to move or damage the prison gives them a reason to leave Malach in place.
 
 ## Momentum
 
-Each successful phase improves the PCs' position:
+Each stage changes what the PCs can safely do:
 
-- disrupting the initial operation buys time;
-- success at Tharwa Fëa and Tollen makes the required expeditions known and allows informed route choices;
-- each expedition provides a usable part of the ritual; and
-- assembling the pieces turns an invulnerable enemy into one that can be unmade.
+- defeating the cabal ends the immediate lunar ritual;
+- early research establishes why Malach cannot simply be killed;
+- learning Malach's origin explains his unusual success in reaching Umidzka or the moon;
+- lunar and Occulta Ludum research identifies a viable permanent solution; and
+- assembling the ritual elements makes it possible to open the prison without releasing a greater threat.
 
 ## Open design questions
 
-- What exactly happens during the opening soul-harvesting adventure, and what degrees of disruption are possible?
-- How does the cabal respond after the initial setback?
-- What are the exact three ritual components, and are they objects, rites, knowledge, or some combination?
-- What is Malach's true identity or origin?
-- What feature of Urskan ritual magic explains or reverses the chalyte binding?
-- Which candidate region holds the knowledge needed to break the lunar correspondence safely, and what form does that knowledge take?
-- Does Chardon become a full destination, a fallback research route, or remain outside the arc?
-- Does the completed ritual release a vulnerable Malach for combat or unmake him completely?
-- How are the ritual and the final defeat of the mind flayer cabal connected in play?
+- What exact signal or disturbance does Malach use to attract the PCs?
+- What does the cabal believe Malach's soul contributes to the ritual, and how much does it know about his lunar conduit?
+- How does the chalyte prison compel Malach to perform the ritual?
+- What would actually happen if the cabal completed the ritual? The planar-tsunami theory may be wholly or partly wrong.
+- If the ritual consumes Malach, where and how does the Umidzkan fragment remain contained, and what influence can leak from that containment?
+- How do the PCs learn quickly and credibly that they must not kill Malach?
+- What safeguards make the abandoned prison secure enough during the travel quest?
+- What is Malach's true origin, and why did the lunar theory work for him when it failed for others?
+- What is the flexible intermediate destination?
+- Is the final answer unbinding and execution, or transformation and imprisonment within the moon?
+- Does the moon absorb only fragments of the Three Despairs, or a broader range of dangerous entities and powers?
