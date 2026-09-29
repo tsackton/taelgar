@@ -11,6 +11,26 @@ dm_notes: none
 > This is a worldbuilding development document. Do not treat any part of it as established Taelgar canon unless it has been separately adopted into a canonical note.
 
 The age before the [[The Downfall|Downfall]] is known more clearly in its broad movements than in a sequence of dated events. This account establishes the shape and character of that age without making its unsettled peoples, migrations, and conflicts more definite than they are. Specific events with established dates and lasting consequences belong in [[History of Taelgar]] and the histories of the places and peoples involved.
+
+## Work Plan
+The goal is to establish a more consistent and less scattered mythic history of Taelgar, without attempting to write a narrative of 4000 years of history. In my view, the best way to do this is to focus on improving specific key pages that capture core concepts in Mythic History, and then provide a word-light, link-heavy overview in a page like this. The core pages are:
+
+- [x] [[Riving|The Riving]]
+- [ ] [[Primordial Cosmos]]
+- [ ] [[Hkar]], including the associated migration pages ([[Northerners|Northerner]], [[Mariners]] others as needed -- maybe need to split a few of these pages) and religious history
+- [ ] the large non-human empires [[Alcarinque|Alcarinquë]], [[Urtzabala]], and the unnamed dwarven realm under [[Sentinel Range|Labkhan]] (plus the tenatively canonical Tinwerquë)
+- [ ] the [[The Downfall|Downfall]] and the [[Downfall Wars]]
+
+One thing missing from the list is any place to capture discussions of "watchful guardians": the [[~Wardens of Elmerca~]] or the [[~Cult of the Warrior~]] for example. These might be best handled as properly developed tentative pages.
+
+The idea is not to try to invent everything - or even anything - about what is canonically true about these places, but rather to frame like the current Riving page and a lot of the Cosmology pages. Invent what modern Taelgarians know, and provide DM Notes categorizing what is and is not canon. The other goal is to try to have a more interlinked web of pages than a single long narrative, while still maintaining a link-dense page that allows easy reading of the related pages.
+
+This may potentially expand, although it depends on the creative energy and desire for invention: in particular, writing the Riving page raises a number of questions around creation stories, and the primoridial cosmos asks questions about how giants, fey, elementals, and dragons, in particular, might remember or recall or talk about the older, pre-Riving order. If they do not, it isn't clear there is any mechanism for any truths to reach modern ears (which is fine, actually).
+
+There are also some fundamental questions about the [[Divine Presence]] and the [[Void Mind]]: this project does not intend to answer them, but it might update those pages to be more explicit about ideas both canonical and not, and to capture questions, and perhaps a bit of what modern Taelgarians would know of these things.
+
+This project intends to replace the pre-Downfall sections of [[Historical Framework]], [[Historical Framework - Open Questions]], [[History of Taelgar]], [[History of Humanity Notes]], [[Canonical Events]], plus provide cleanup and tightening for some pages like [[Human Cultures of Taelgar]] and [[Religious History of Taelgar]].
+
 ## Purpose of Mythic History
 
 There is no particular goal to develop a well-established 4000 year history of events that occurred during this long period before "developed" history began. The [[The Downfall|Downfall]] was a destructive cataclysm that overturned the world, and plausibly destroyed populations, memories, and records. The mythic history here serves to establish several important aspects of future history:
