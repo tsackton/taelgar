@@ -96,7 +96,7 @@ The maps below show recurring seasonal patterns over matching regional crops of 
 
 ### Winter
 
-![[taelgar-green-sea-winter-v2.png|1400]]
+![[assets/worldbuilding/taelgar-green-sea-winter-v2.png|1400]]
 
 The maritime ridge lies across the southern basin and adjacent coast, with its center near Medju. Light, variable winds and dry, stable weather dominate its central region; southern calms are strongest in **January–February**. The Cymean summer low has subsided.
 
@@ -106,7 +106,7 @@ A proposed southern branch brings intermittent winter precipitation to Greater S
 
 ### Spring
 
-![[taelgar-green-sea-spring-v2.png|1400]]
+![[assets/worldbuilding/taelgar-green-sea-spring-v2.png|1400]]
 
 As the maritime ridge shifts north, easterlies develop along the southern coast from **late March–April**. The developing Cymean low supports the early Sembaran monsoon on its northwestern side and northward flow on its eastern side, between Cymea and the maritime ridge.
 
@@ -114,7 +114,7 @@ The northbound offshore passage connects with useful northern westerlies into **
 
 ### Summer
 
-![[taelgar-green-sea-summer-v2.png|1400]]
+![[assets/worldbuilding/taelgar-green-sea-summer-v2.png|1400]]
 
 By **July–August**, the Cymean low is established and its lower-pressure corridor extends eastward below the northern shipping route. The Urskan High to the north supplies the opposing side of the pressure contrast, establishing the northern easterly regime. Repeated ridges produce settled intervals, while passing disturbances and ridge margins continue to supply rain.
 
@@ -124,7 +124,7 @@ The broad maritime ridge near Irrla favors weaker winds and more settled conditi
 
 ### Autumn
 
-![[taelgar-green-sea-autumn-v2.png|1400]]
+![[assets/worldbuilding/taelgar-green-sea-autumn-v2.png|1400]]
 
 The Cymean low weakens and its summer maritime inflow subsides. The Urskan High breaks down and northern westerlies return, with increasing storm risk later in the season. The maritime ridge retreats south, opening eastward opportunities from southeastern Irrla. Its northern flank favors eastward crossings; the pressure contrast with the Eastern Isles storm zone supports subsequent southward travel along the islands' inner side.
 

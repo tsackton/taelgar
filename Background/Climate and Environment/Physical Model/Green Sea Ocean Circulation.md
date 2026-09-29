@@ -10,7 +10,7 @@ This is a working ocean model designed to accompany [[Taelgar Climatic Model]] a
 
 **Cold water enters in the northeast, warm water enters in the southeast, and their branches feed a shared eastward outflow offshore between Ursk and Irrla.** 
 > [!image|hero]
-> ![[taelgar-green-sea-currents-v3.png]]
+> ![[assets/worldbuilding/taelgar-green-sea-currents-v3.png]]
 > *Blue shows the cold northern branch, orange the warm southern branch, and teal the shared offshore outflow. Dashed segments identify schematic exchange through or beneath the Eastern Isles, not specific surface passages. Grey double-ended arrows show Western Gulf exchange. Seasonal notes describe changes in surface flow; small hexes are 24 miles face-to-face.*
 
 > [!note] Older Gulf inset
