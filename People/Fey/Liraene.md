@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: fae
 gender: female
 died: 1715-05-16
@@ -12,7 +12,7 @@ name: Liraene
 pronunciation: Lih-RAY-neh
 whereabouts:
   - {type: home, location: "Twilight's Edge"}
-  - {type: away, start: 1715-05-12, end: 1715-05-18, location: Feywild}
+  - {type: away, start: 1715-05-12, end: 1715-05-18, location: Thornweald}
 knownTo: [adma]
 dm_owner: none
 dm_notes: none
@@ -24,9 +24,9 @@ POV: 1715
 > A [[Fae|fae]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Found dead by the [[Addermarch Mercenaries]] on May 18th, 1715 in the [[Feywild]], [[Multiverse]] %%^End%%
+>> %%^Campaign:adma%% Found dead by the [[Addermarch Mercenaries]] on May 18th, 1715 in the [[Thornweald]], [[Feywild]], [[Multiverse]] %%^End%%
 
-A fae from [[Twilight's Edge]], companion of [[Vaelithar]]. She died in [[Morlaith]]'s domain, fighting a corrupted Singing Tree beyond the [[Nightsong Roots]].
+A fae from [[Twilight's Edge]], companion of [[Vaelithar]]. She died in the [[Thornweald]], [[Morlaith]]'s domain, fighting a corrupted Singing Tree beyond the [[Nightsong Roots]].
 
 %%^Metadata:names:v1%%
 - {name: Liraene, role: primary, language: Sylvan, pronunciation: Lih-RAY-neh, status: documented}

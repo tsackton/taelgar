@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [power]
+tags: [power, status/check/ai]
 knownTo: [adma, clee]
 name: Morlaith
 aliases: [Grymholt, Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows, Hidden Lord]
@@ -13,7 +13,7 @@ dm_notes: none
 >[!info]+ Information  
 > An archfey (he/him)
 
-Morlaith, also called the Briarheart, the Keeper of the Thornweald, and the Hidden Lord, is an ancient archfey who rules over a domain that lies congruent with parts of Addermarch, west of [[Twilight's Grace]] and east of [[Duskmire]]. He is old, strange, and remote: a faded remnant of the deep wild, an ancient echo of some forgotten dark forest of brambles, old paths, and hidden hollows. 
+Morlaith, also called the Briarheart, the Keeper of the Thornweald, and the Hidden Lord, is an ancient archfey who rules over the [[Thornweald]], a domain that lies congruent with parts of Addermarch, west of [[Twilight's Grace]] and east of [[Duskmire]]. He is old, strange, and remote: a faded remnant of the deep wild, an ancient echo of some forgotten dark forest of brambles, old paths, and hidden hollows.
 
 Morlaith's influence now lingers most strongly in the hills and river valleys of western [[Addermarch]], but old stories tell that his reach was once far greater, perhaps even stretching across much of what is now Maseau, Sembara, and Addermarch. His present domain is shrunken and uneven, with forgotten gates and crossings left behind where his attention has faded. This history is ancient, indistinct, and poorly recorded, more a matter of Addermarian folk legend than proper history. Standing stones, old warnings, and village rhymes preserve warnings of Morlaith, both the dangers of the careless and the songs and rituals to appease the forest. 
 

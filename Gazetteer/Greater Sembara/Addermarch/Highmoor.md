@@ -21,7 +21,7 @@ Rough cart tracks cross the moor between [[Roscombe]], [[Brantor]], and scattere
 
 [[Haldrenn]] is a remote Highmoor village known for cattle, charcoal, and wooden ridge-wards tied to local fey traditions.
 
-[[Nightsong Roots]] is a fog-filled hollow east of [[Haldrenn]], where the roots of a fallen tree form a portal to the [[Feywild]].
+[[Nightsong Roots]] is a fog-filled hollow east of [[Haldrenn]], where the roots of a fallen tree form a portal to the [[Thornweald]] in the [[Feywild]].
 
 A cave system in northern Highmoor was turned into a trap-filled lair by goblins in DR 1715, until the [[Addermarch - Session 05|lair was cleared]] by the [[Addermarch Mercenaries]] after the goblins captured [[Colette du Bois]] and stole an alchemical recipe sought by [[Caradoc]].
 

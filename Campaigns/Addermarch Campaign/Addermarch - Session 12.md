@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Addermarch
 sessionNumber: 12
 realWorldDate: 2025-09-01
@@ -24,7 +24,7 @@ The party defeats a pack of worgs and learns about the fey.
 ## Timeline
 
 - **(DR:: 1715-05-17), night:** Returning with [[Rowena]], the party reaches **[[Haldrenn]]** just as a worg pack attacks, and defeats the worgs. After the battle, the party speaks with villagers and learns of the missing Duncan, a boastful youth who left seeking fey treasure.
-- **(DR:: 1715-05-18), morning:** Tracking the worg trail east across the [[Highmoor]], [[Drou]] loses it on a rocky ridge. [[Fazoth de Brune|Fazoth]]’s fey-lantern flares, revealing a nervous sprite who reports turmoil in [[Morlaith]]’s realm and seeks passage north to **[[Lord Serenveil]]**’s domain. After parleying with the sprite, [[Drou]] picks up fresh wolf prints heading northeast along the ridge.
+- **(DR:: 1715-05-18), morning:** Tracking the worg trail east across the [[Highmoor]], [[Drou]] loses it on a rocky ridge. [[Fazoth de Brune|Fazoth]]’s fey-lantern flares, revealing a nervous sprite who reports turmoil in [[Morlaith]]’s [[Thornweald|realm]] and seeks passage north to **[[Lord Serenveil]]**’s domain. After parleying with the sprite, [[Drou]] picks up fresh wolf prints heading northeast along the ridge.
 
 ## Cast of Characters
 
@@ -58,6 +58,6 @@ The conservation winds down late, with the party resolved to search for any sign
 
 In the morning, the party sets out following the tracks of the worgs, with [[Drou]] leading the search. The tracks lead east over the rolling downs of the [[Highmoor]]. For an hour or two, [[Drou]] is able to follow the tracks, but as the sun rises to midmorning she loses the tracks on a rocky ridge a few hour's walk east of [[Haldrenn]].
 
-As the party stops to ponder their next steps, [[Fazoth de Brune|Fazoth]]'s fey lantern lights up, signaling the presence of a fey creature. Searching uncovers nothing, but after a brief and persuasive conversation a tiny flying sprite reveals themselves. While they do not give their name, they say they are trying to get back to [[Lord Serenveil]]'s domain, to the north, and speak of disturbances in [[Morlaith]]'s realm that are making it a dangerous place to be, for some reason. The sprite also warns the party about the [[Hollow Men|Hollow Man]], coming this night to punish [[Haldrenn]].
+As the party stops to ponder their next steps, [[Fazoth de Brune|Fazoth]]'s fey lantern lights up, signaling the presence of a fey creature. Searching uncovers nothing, but after a brief and persuasive conversation a tiny flying sprite reveals themselves. While they do not give their name, they say they are trying to get back to [[Lord Serenveil]]'s domain, to the north, and speak of disturbances in [[Morlaith]]'s [[Thornweald|realm]] that are making it a dangerous place to be, for some reason. The sprite also warns the party about the [[Hollow Men|Hollow Man]], coming this night to punish [[Haldrenn]].
 
 The session ends as [[Drou]], after a stop and some conversation, searches for the trail again and finds wolf prints leading northeast along the ridge.

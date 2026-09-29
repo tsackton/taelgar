@@ -1,10 +1,8 @@
----
-tentativeReason: "unused concept from Addermarch campaign"
----
+
 
 Partially invented fey for the Addermarch game
 
-# Calanthë
+
 
 
 Lady Calanthë is cited in Addermarch brainstorming as the Sentinel of the Setting Sun, a close ally of [[Archfey Ethlenn]] whose realm is congruent with hills on the Tyrwinghan border. No direct session appearances yet.
