@@ -2,18 +2,30 @@
 
 Milestones for [[01 Overview - The Fey Heart|The Fey Heart]]. Rewards recognize discoveries and progress toward completing the quest. All awards are **per PC**, not divided among the party.
 
-| Milestone level | XP per PC |
-| --- | ---: |
-| Minor | 200 |
-| Major | 500 |
-| Adventure completion — returning the heart | 1,000 |
+| Milestone level                            | XP per PC |
+| ------------------------------------------ | --------: |
+| Minor                                      |       200 |
+| Major                                      |       500 |
+| Adventure completion — returning the heart |     1,000 |
+|                                            |           |
+
+## Session 21
+
+2 minor: learn the guide's name, and roughly where the guide lives. 
+1 major: learn Sweetwillow's story
+
+total: 900 XP
+
+## Session 22
+
+
 
 ## Minor milestones — 200 XP each
 
 ### Required
 
-- [ ] **Learn the guide’s name.** Identify Gwydren as someone who can guide the party through the forest. See [[Fey Heart Scene - The Following Foxes]] and [[Exploration Success - Guide Clue]].
-- [ ] **Learn roughly where the guide lives.** Discover that Gwydren lives across the river, around the big trees. See [[Exploration Success - Guide Clue]].
+- [x] **Learn the guide’s name.** Identify Gwydren as someone who can guide the party through the forest. See [[Fey Heart Scene - The Following Foxes]] and [[Exploration Success - Guide Clue]].
+- [x] **Learn roughly where the guide lives.** Discover that Gwydren lives across the river, around the big trees. See [[Exploration Success - Guide Clue]].
 - [ ] **Journey obstacle 1 — to be designed.** Overcome the first required obstacle between Gwydren and the Singing Tree.
 - [ ] **Journey obstacle 2 — to be designed.** Overcome the second required obstacle between Gwydren and the Singing Tree.
 
@@ -28,11 +40,12 @@ Milestones for [[01 Overview - The Fey Heart|The Fey Heart]]. Rewards recognize 
 ### Required
 
 - [ ] **Get the party across the river.** Complete [[Fey Heart Scene - The River Crossing|the crossing]] by any workable method, reaching the part of the forest where Gwydren can be found.
-- [ ] **Convince Gwydren to help.** Secure his cooperation as the party’s guide. Finding him is part of reaching this milestone, not a separate reward. The interaction is still to be developed; see [[Finding the Guide]].
+- [ ] **Convince Gwydren to help.** Secure his cooperation as the party’s guide. Finding him is part of reaching this milestone, not a separate reward. The interaction is still to be developed; see [[Finding the Guide]] and [[Fey Heart Scene - Getting Gwydren to Help]]
 
 ### Optional
 
-- [ ] **Recover Sweetwillow’s story.** Learn about her friendship with Gwydren, his warning about the spreading corruption, and her decision to remain. This also provides insight into what Gwydren cares about and evidence for establishing trust. Obtain the story through the Sylvan writing inside the dead willow or by getting the willow to talk. See [[Fey Heart Scene - Fork in the Path]] and [[Finding the Guide]].
+- [x] **Recover Sweetwillow’s story.** Learn about her friendship with Gwydren, his warning about the spreading corruption, and her decision to remain. This also provides insight into what Gwydren cares about and evidence for establishing trust. Obtain the story through the Sylvan writing inside the dead willow or by getting the willow to talk. See [[Fey Heart Scene - Fork in the Path]] and [[Finding the Guide]]. 
+
 
 ## Adventure completion milestone — 1,000 XP
 
