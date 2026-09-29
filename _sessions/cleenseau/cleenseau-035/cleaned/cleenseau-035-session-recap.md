@@ -30,10 +30,10 @@
 - Combat Beats: none
 
 #### Short
-The party spends an interstitial period in [[Twilight's Grace]], sharing a meal in [[Orchard Close]] and consulting scholars in [[Ash Court]] before using [[Twilight's Pool]] to locate the living unicorn whose horn was among [[Ianto|Ianto's]] trophies.
+The party spends an interstitial period in [[Twilight's Grace]], sharing a meal in [[Orchard Close]] and consulting scholars in [[Ash Court]] before using [[Twilight's Pool]] to locate the living unicorn, somewhere in or near the [[Thornweald]], whose horn was among [[Ianto|Ianto's]] trophies.
 
 #### Long
-Over the following days, the party leaves its audience with [[Archfey Ethlenn|Ethlenn]], eats with the residents of [[Orchard Close]], and seeks information about trophies recovered from [[Ianto]]. After consulting [[Neris]] and other scholars in [[Ash Court]], [[Izgil Moonseeker|Izgil]] uses the waters of [[Twilight's Pool]] to locate the living unicorn whose horn was taken.
+Over the following days, the party leaves its audience with [[Archfey Ethlenn|Ethlenn]], eats with the residents of [[Orchard Close]], and seeks information about trophies recovered from [[Ianto]]. They learn that a flaming tailfeather of a large bird likely came from [[Sunward Reach]]. After consulting [[Neris]] and other scholars in [[Ash Court]], [[Izgil Moonseeker|Izgil]] uses the waters of [[Twilight's Pool]] to locate the living unicorn, the living unicorn, somewhere in or near the [[Thornweald]] whose horn was taken.
 
 ### 1720-11-27 to 1720-12-11
 
