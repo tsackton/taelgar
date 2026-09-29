@@ -30,7 +30,7 @@ POV: 1715
 
 Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage-laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. 
 
-Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy more of a scholarly pursue and civic duty than a means to riches. He does not share where and how he came by his coin. Caradoc pays generously for rare ingredients, especially those that are dangerous to collect. He bankrolls expeditions rather than traveling himself, relying on agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. 
+Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy more of a scholarly pursue and civic duty than a means to riches. He does not share where and how he came by his coin, but he clearly has enough. He pays generously for rare ingredients, especially those that are dangerous to collect, though he eschews adventure and relies on agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. 
 
 Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
 

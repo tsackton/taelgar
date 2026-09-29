@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Haldrenn
 typeOf: settlement
+typeOfAlias: village
+population: 72
+name: Haldrenn
+pronunciation: HAL-dren
 whereabouts: Highmoor
 dm_owner: none
 dm_notes: none
-population: 72
-typeOfAlias: village
+POV: 1715
 ---
 # Haldrenn
 >[!info]+ Information  
@@ -15,10 +19,10 @@ typeOfAlias: village
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Haldrenn is a small, isolated hill village in the [[Highmoor]], northeast of [[Brantor]] and [[Roscombe]], sheltered by a windswept ridgeline marked with carved wooden wards. The village clings to the eastern side of the ridge, northwest of the [[Umber]] lowlands, a small collection of turf-roofed houses and ankle-high drystone dykes gathered around a spring-fed well.  Each spring, herders drive shaggy highland cattle up to summer shielings while crofters tend rye and kale on the slope below the village. 
+Haldrenn is a small, isolated hill village in the [[Highmoor]], northeast of [[Brantor]] and [[Roscombe]], sheltered by a windswept ridge marked with carved wooden wards. The village clings to the eastern side of the ridge, northwest of the [[Umber]] lowlands, a small collection of turf-roofed houses and stone walls gathered around a spring-fed well.  Each spring, herders drive shaggy highland cattle up to summer shielings, while farmers tend rye and kale on the slope below the village. 
 
 ## Layout
-The main village consists of 11 houses and a small temple to [[The Mother]] around the communal well. To the south, strips of arable land are farmed in rotation, providing rye, barley, and kale for the village; two rowan-fringed orchards are nestled in sheltered hollows. North are the summer pastures. The western hollow, toward [[Brantor]], has a coppiced wood with charcoal clamps.
+The main village consists of 11 houses and a small temple to [[The Mother]] around the communal well. To the south, strips of arable land are farmed in rotation, providing rye, barley, and kale for the village; two rowan-fringed orchards are nestled in sheltered hollows. North are the summer pastures. The western hollow, toward [[Brantor]], has a coppiced wood for charcoal.
 
 ## Customs and Lore
 The people of Haldrenn traditionally place carved wooden wards along the ridgelines, especially to the east, to deter hostile fey. Village stories warn of [[Hollow Men]] and the [[Morlaith|Briarheart]] and speak of the rituals needed to avert danger. Local tradition treats these customs as part warning and part bargain: a way to keep older fey passages closed against worse powers from beyond the moor.
@@ -28,7 +32,7 @@ The people of Haldrenn traditionally place carved wooden wards along the ridgeli
 ## Notable Events
 - (DR:: 1715-05-07): A maddening song begins driving cattle and other animals to violence; the farmer [[Olay]] is gored by his own bull.
 - (DR:: 1715-05-17): [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] arrive in the village and [[Addermarch - Session 11|help with a lost girl]] and a [[Addermarch - Session 12|worg attack]]. 
-- (DR:: 1715-05-19): [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] return to the village, learn more about [[Duncan of Haldrenn]], and investigates his cottage and root cellar.
+- (DR:: 1715-05-19): [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] return to the village, learn more about [[Duncan of Haldrenn]], and investigate his cottage and root cellar.
 
 
 %% DM Notes
@@ -44,3 +48,16 @@ https://scarf.scot/national/scarf-modern-panel-report/modern-case-studies/case-s
 https://www.scottishbanner.com/2025/08/22/summer-in-the-shielings-a-long-lost-way-of-life-in-the-hills/
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Haldrenn, language: Addermarian, pronunciation: HAL-dren, meaning: rocky ridge, notes: "Pronunciation and derivation documented in [[Adventure 5 - Fey Incursion]].", status: documented}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: 12.11.C24}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 village snapshot with older local customs and dated events from May 1715; later changes are not described.
+%%^End%%

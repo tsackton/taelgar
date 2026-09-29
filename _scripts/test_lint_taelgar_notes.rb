@@ -1120,7 +1120,10 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       end
     end
 
+    cache_path = File.join(root, TaelgarWorldbuildingDiscussionIndex::OUTPUT_PATH)
+    refute File.exist?(cache_path)
     result = finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    assert File.file?(cache_path)
     route = TaelgarNoteLint::Batch::DISCUSSION_RESEARCH_ROUTE
     underdeveloped = File.read(File.join(root, underdeveloped_path))
     sufficient = File.read(File.join(root, sufficient_path))
@@ -1133,7 +1136,7 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     refute_includes underdeveloped, "Worldbuilding/Talk/First Discussion"
   end
 
-  def test_underdeveloped_finalization_fails_closed_without_discussion_sidecar
+  def test_underdeveloped_check_only_finalization_builds_missing_discussion_data_without_writing
     root = make_vault
     path = "People/Missing Discussion Sidecar.md"
     write_note(root, path, person_note("Missing Discussion Sidecar"))
@@ -1147,17 +1150,20 @@ class BatchLintTaelgarNotesTest < Minitest::Test
       "selfReview" => completed_self_review
     )
 
-    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
-      TaelgarNoteLint::Batch::Finalizer.new(
-        root: root,
-        manifest: manifest,
-        manifest_sha256: manifest_sha,
-        decisions: decisions,
-        completed_at: COMPLETED_AT
-      ).finalize
-    end
+    cache_path = File.join(root, TaelgarWorldbuildingDiscussionIndex::OUTPUT_PATH)
+    original = File.binread(File.join(root, path))
+    refute File.exist?(cache_path)
+    result = TaelgarNoteLint::Batch::Finalizer.new(
+      root: root,
+      manifest: manifest,
+      manifest_sha256: manifest_sha,
+      decisions: decisions,
+      completed_at: COMPLETED_AT
+    ).finalize
 
-    assert_includes error.message, "Worldbuilding discussion sidecar is missing"
+    assert_equal false, result.fetch("wrote")
+    refute File.exist?(cache_path)
+    assert_equal original, File.binread(File.join(root, path))
   end
 
   def test_finalizer_requires_worker_self_review_without_a_second_adjudicator
@@ -1966,25 +1972,12 @@ class BatchLintTaelgarNotesTest < Minitest::Test
 
   def finalizer(root, manifest, manifest_sha, decisions)
     decisions.fetch("notes").each { |decision| decision["selfReview"] = completed_self_review }
-    refresh_worldbuilding_discussion_index(root) if decisions.fetch("notes").any? do |decision|
-      decision["editorialVerdict"] == "Underdeveloped"
-    end
     TaelgarNoteLint::Batch::Finalizer.new(
       root: root,
       manifest: manifest,
       manifest_sha256: manifest_sha,
       decisions: decisions,
       completed_at: COMPLETED_AT
-    )
-  end
-
-  def refresh_worldbuilding_discussion_index(root)
-    output = Pathname.new(root).join(TaelgarWorldbuildingDiscussionIndex::OUTPUT_PATH)
-    FileUtils.mkdir_p(output.dirname)
-    output.write(
-      "#{JSON.pretty_generate(TaelgarWorldbuildingDiscussionIndex.build(Pathname.new(root)))}\n",
-      mode: "w",
-      encoding: "UTF-8"
     )
   end
 

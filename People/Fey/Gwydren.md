@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: beastfolk
 gender: male
@@ -9,6 +11,7 @@ whereabouts: Thornweald
 knownTo: [adma]
 dm_owner: tim
 dm_notes: none
+POV: 1715
 ---
 # Gwydren
 *(GWID-ren)*
@@ -31,4 +34,8 @@ A weary woodland keeper, wary of humans, who wants the forest restored. He can b
 
 %%^Metadata:names:v1%%
 - {name: Gwydren, language: Sylvan, pronunciation: GWID-ren, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 portrait of Gwydren during the Singing Tree crisis, before the Addermarch Mercenaries meet him.
 %%^End%%

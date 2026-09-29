@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
+displayDefaults: {endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"}
 tags: [object]
-name: Serpentine Battleaxe
-displayDefaults:
-  endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"
-destroyed: 1715-05-27
 typeOf: weapon
 subTypeOf: magic
 ancestry: Avatan
+destroyed: 1715-05-27
+name: Serpentine Battleaxe
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: 1715
 ---
 # The Serpentine Battleaxe
 >[!info]+ Information  
@@ -28,4 +31,12 @@ Significant background in DM Notes, though some dates may be incorrect in these.
 - [[Serpentine Weapon Backstory]]
 - [[Avatus Cursed Items Timeline]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Serpentine Battleaxe, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1715 retrospective ending with the battleaxe's destruction on May 27; its forging date and intervening history remain unspecified.
 %%^End%%

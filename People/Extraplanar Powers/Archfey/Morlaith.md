@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [power]
-knownTo: [adma, clee]
-name: Morlaith
-aliases: [Grymholt, Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows, Hidden Lord]
 typeOf: archfey
 gender: male
+name: Morlaith
+pronunciation: MOR-layth
+aliases: [Grymholt, Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows, Hidden Lord]
 affiliations:
   - {org: Thornweald, type: leader, title: Master}
+knownTo: [adma, clee]
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # Morlaith
 >[!info]+ Information  
@@ -110,4 +114,12 @@ Around [[Haldrenn]], Morlaith is remembered as the Briarheart, the fey power beh
 - [[Liraene]]
 - [[Teft]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Morlaith, language: Sylvan, pronunciation: MOR-layth, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes Morlaith's present diminished influence and current Addermarian folklore, while his earlier reach remains legendary and uncertain.
 %%^End%%

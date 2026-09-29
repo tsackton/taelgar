@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Highmoor
 typeOf: grassland
+typeOfAlias: moor
+name: Highmoor
 whereabouts: Carlinshire
 dm_owner: none
 dm_notes: none
-typeOfAlias: moor
+POV: modern
 ---
 # Highmoor
 >[!info]+ Information  
@@ -30,3 +33,11 @@ A cave system in northern Highmoor was turned into a trap-filled lair by goblins
 The goblin bandit lair in [[Addermarch - Session 04]] (see: [[Session 4 - DM Notes]] and [[Session 5 - DM Notes]]) is in the northern Highmoor. 
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Highmoor, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the geography and settlement pattern are current-era reference material, with the goblin-lair episode dated to DR 1715.
+%%^End%%

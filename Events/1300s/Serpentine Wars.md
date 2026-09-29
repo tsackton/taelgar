@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [event, status/check/mike]
+typeOf: war
 DR: 1353
 DR_end: 1403
-typeOf: war
+name: Serpentine Wars
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Serpentine Wars
 >[!info]+ Information  
@@ -13,7 +17,7 @@ dm_notes: none
 
 %% @mike: to review; name check for the named wars - pretty happy with the names but want to let things sit for a little while before confirming %%
 
-The Serpentine Wars describe the fifty year period in the second half of the DR 1300s, during which the [[Dominion of Avatus]] expanded to control much of the [[Duchy of Maseau]] and the [[Maseau Gap]]. While the entire period was marked by border tension, it can be separated into five significant wars where substantial fighting occurred. 
+The Serpentine Wars describe the fifty-year period in the second half of the DR 1300s, during which the [[Dominion of Avatus]] expanded to control much of the [[Duchy of Maseau]] and the [[Maseau Gap]]. While the entire period was marked by border tension, it can be separated into five significant wars where substantial fighting occurred.
 
 ## The Westcliff War
 _DR 1353 - DR 1356_
@@ -24,8 +28,8 @@ In DR 1353, Avatus attacked north of the Maseau Gap for the first time. Avoiding
 
 ###
 
-- (DR:: 1353): The Westclif War starts as Avatus attacks into the northeastern parts of the [[Maseau Gap]]
-- (DR:: 1356): The Westclif War ends with Avatus establishing a vassal state on the western edge of the [[Westcliff]]. 
+- (DR:: 1353): The Westcliff War starts as Avatus attacks into the northeastern parts of the [[Maseau Gap]]
+- (DR:: 1356): The Westcliff War ends with Avatus establishing a vassal state on the western edge of the [[Westcliff]].
 
 ## The Berserker War
 _DR 1359 - DR 1362_
@@ -47,9 +51,9 @@ _DR 1364 - DR 1377_
 
 In the fall of DR 1364, after two hard years of famine, a Maseaun trade embassy to the Dominion of Avatus refused to accept a demand to increase [[serpentine]] trade shipments, symbolically breaking their weighing scales in protest.  This precipitated the Broken Scales War, also known as the Great Serpentine War. 
 
-In a series of campaigns over the course of 13 years, the armies of Avatus break through the lines of defense along the Westcliff, loccupying significant parts of western Addermarch. Avatus also destroys numerous fortifications in eastern Maseau, forcing the Duchy to capitulate and pay a steep tribune in serpentine. Many Maseua lords flee into exile. 
+In a series of campaigns over the course of 13 years, the armies of Avatus break through the lines of defense along the Westcliff, occupying significant parts of western Addermarch. Avatus also destroys numerous fortifications in eastern Maseau, forcing the Duchy to capitulate and pay a steep tribute in serpentine. Many Maseaun lords flee into exile.
 
-In Addermarch, the Broken Scales War was the beginning of a long period of occupation and guerrilla  warfare; the [[Rangers]] trace their origin, in part, to the guerrilla fighters of this era. 
+In Addermarch, the Broken Scales War was the beginning of a long period of occupation and guerrilla warfare; the [[Rangers]] trace their origin, in part, to the guerrilla fighters of this era.
 
 ###
 - (DR:: 1364), fall: Maseau refuses to increase serpentine trade shipments, provoking war with Avatus
@@ -61,7 +65,7 @@ _DR 1385 - DR 1388_
 
 In DR 1385, the long-simmering guerrilla war fought against Avatus' occupying forces in Addermarch broke into open warfare. Over the next few years, the Addermarians successfully drove Avatus out of western Addermarch. In Addermarch, this war is often simply called the Liberation War. 
 
-- (DR:: 1385) - (DR_end:: 1388): The Addermarch LIberation War, when Addermarch drives Avatus' forces out of western Addermarch. 
+- (DR:: 1385) - (DR_end:: 1388): The Addermarch Liberation War, when Addermarch drives Avatus' forces out of western Addermarch.
 
 ## The Exiles' War
 _DR 1400 - DR 1403_
@@ -73,23 +77,55 @@ In the years following the liberation of Addermarch, a group of exiled Maseaun l
 
 %%^Campaign:none%%
 
-### The Serpentine Wars
-*(1350s - 1405ish)*
+Preserving some brainstorming details to mine for color as needed. If details conflict the public record is authoritative. 
 
-In the 1350s, Avatus exhausted the easy supplies of serpentine, which was crucial in some way to (something something, probably never really clear outside his realm). This leads to a series of conflicts between Avatus and his northern neighbors, primarily Maseau, unnamed minor duchy, and Addermarch. 
+**Westcliff War and its aftermath**
 
-- (DR:: 1353) - (DR_end:: 1357): The Westcliff War. Avatus first uses as a pretext raids from unnamed minor duchy to launch an attack north, along the narrow strip of land (7 in map above), capturing some minor serpentine deposits on the western edges of the Westcliff. Maseau is convinced to remain officially neutral (though some probably push to take the opportunity to attack Avatus) - though Avatus is deeply creepy in >100 years has never attacked Maseau, while minor unnamed duchy has. Notably, Avatus probably sells the fiction, promoting the war officially as stabilizing the gap / punishing raiders for everyone's benefit. 
-- (DR:: 1357) - (DR_end:: 1359): Avatus has no interest in Vaubonne (maybe it doesn't have deposits of serpentine), but is deeply interested in the rest of Westcliff and in the southern/western mountains in Maseau. Establishes a vassal / client state between his Dominion and Vaubonne as a buffer (in northern part of 7 on the map). Sends increasingly strident demands to negotiate mineral deals to both Addermarch and Maseau. Initially, Maseau agrees, signing a treaty in which they will ship X amount of serpentine to Avatus, in exchange for Y silver or something (this is surface-level fair but Maseau likely doesn't know true value of serpentine; Avatus perhaps also later twists this, starts ramping up demands, etc). Addermarch refuses.
-- (DR:: 1359) - (DR_end:: 1362): The Berserker War. Avatus attacks Addermarch, in a series of brutal campaigns where serpentine berserkers appear on the battlefield. Maseau gets scared and begins planning to violate treaty. Addermarch holds on, but barely. 
-- (DR:: 1362) - (DR_end:: 1363), winter: Brutal, cold winter and late spring causes widespread famine, interrupting the summer campaigning season (or something else, vibe is basically things suck but Avatus takes a break)
-- (DR:: 1363): Maseau refuses to deliver serpentine per treaty. 
-- (DR:: 1364) - (DR_end:: 1377): The Broken Scales War. Avatus unleashes hobgoblins for the first time, fighting a two front war to defeat Maseau and Addermarch. This proceeds in fits and starts with some years consumed by stalemate and local skirmishing. By the end of the war, Maseau has been forced to capitulate and now must pay tribute in serpentine, destroy fortifications, and other things; many lords are forced into exile in Brovna and Wisford. Addermarch refuses to surrender, and most of west Addermarch is occupied. 
-- (DR:: 1377) - (DR_end:: 1385): Proto-Rangers in Addermarch begin campaign of guerilla harassment against Avatus forces. During this time, Avatus brings word of Cha'mutte's rise to Wisford and Brovna, pitching them on an my enemy of my enemy is my friend alliance, assuring them the troubles in Maseau and Addermarch are just mundane squabbles over broken treaties and the like. Of course people are suspicious, but treaties are signed, etc, even while the Addermarch guerilla campaign continues apace. 
-- (DR:: 1385) - (DR_end:: 1388): The Addermarch Liberation War. Addermarch rises up and throws off Avatus. 
-- (DR:: 1388) - (DR_end:: 1400): Growing discontent among exiled barons of Maseau, and inspiration from Addermarch. Plots hatched by especially the sons of exiled Maseau lords to take their territory back. 
-- (DR:: 1400) - (DR_end:: 1403): The Exiles’ War. Exiled Maseau lords attack from the north, in coordination with local uprisings, and are badly beaten by Avatus. Maseau nobility executed and hobgoblin lords installed in their place. Avatus formally annexes the mineral rich parts of Maseau (south and west), and leaves a rump client state in place as a buffer to the north. 
+- Avatus uses raids by an unnamed minor duchy as his pretext, presenting the invasion as stabilizing the Gap and punishing raiders.
+- His conquest goal is serpentine deposits along the western Westcliff.
+- Maseau’s neutrality: Avatus has not attacked it in over a century, whereas the unnamed duchy has. Some Maseauns may favor intervention.
+- The new client state serves as a buffer between Avatus’s Dominion and Vaubonne.
+- Avatus has little interest in Vaubonne but wants the remaining Westcliff deposits and the mountains of southern and western Maseau. Vaubonne’s perhaps lacks serpentine?
+- Maseau’s initial treaty involves payment for serpentine, possibly in silver. Maseau likely misunderstands its value.
 
-This period ends with Avatus in control of two vassal states in the north (rump Duchy of Maseau) and the vassal state established in late 1350s. 
+**Berserker War**
 
+- Maseau becomes alarmed by Avatus’s campaigns and begins planning to violate its treaty.
+- Addermarch barely holds on, or perhaps fights to a standstill. They are not invaded is the crucial point. 
 
-%%^End%%[]
+**Broken Scales War**
+
+- Avatus deploys hobgoblins for the first time.
+- The war includes years dominated by stalemate and local skirmishing.
+- Maseau’s surrender terms require it to destroy fortifications, or perhaps Avatus destroys fortifications during the campaign. This is supposed to end with Maseau embarrassed and weakened. 
+- Exiled Maseaun lords flee to Brovna and Wisford and perhaps elsewhere. 
+
+**Occupation, DR 1377–1385**
+
+- Avatus approaches Wisford and Brovna about Cha’mutte’s rise, seeking alliances.
+- He downplays the Maseaun and Addermarian wars, trying to spin them as ordinary disputes over broken treaties.
+- Though some in Wisford and Brovna are suspicious, treaties are signed while the Addermarian guerrilla campaign continues.
+- Guerrilla fighting is tied to Ranger origins.
+
+**Preparations for the Exiles’ War**
+
+- Addermarch’s liberation inspires the exiles.
+- The sons of the exiled lords are especially involved in the restoration plots.
+
+**Exiles’ War and its aftermath**
+
+- The exiles attack from the north, coordinating with local uprisings, but lose, probably badly.
+- After their defeat, Maseaun nobles are executed and replaced by hobgoblin lords.
+- Avatus formally annexes the mineral-rich southern and western parts of Maseau.
+- A reduced Maseaun client state remains as a northern buffer.
+- The period therefore ends with two northern vassal states: a reduced Maseau and the earlier Westcliff client state.
+
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Serpentine Wars, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of the wars of DR 1353–1403; the event dates define the subject rather than the article's speaking position.
+%%^End%%

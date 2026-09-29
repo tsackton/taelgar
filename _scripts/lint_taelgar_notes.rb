@@ -83,7 +83,7 @@ module TaelgarNoteLint
       "public_adoption_candidate" => "editorial.public_material_candidate"
     }.freeze
     EXPANSION_CERTAINTIES = %w[established reported assumed provisional uninvented].freeze
-    DISCUSSION_RESEARCH_ROUTE = "- Discussion research: multiple non-Staging Worldbuilding notes discuss this subject. Query `_scripts/worldbuilding_discussion_index.json` before developing the missing material."
+    DISCUSSION_RESEARCH_ROUTE = "- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material."
 
     class BatchError < StandardError; end
 
@@ -1329,6 +1329,8 @@ module TaelgarNoteLint
       end
 
       def finalize(write: false)
+        @persist_discussion_cache = write
+        @worldbuilding_discussion_index = nil
         validate_documents!
         records = @manifest.fetch("notes").each_with_object({}) { |record, memo| memo[record.fetch("path")] = record }
         decision_list = @decisions.fetch("notes")
@@ -1758,7 +1760,7 @@ module TaelgarNoteLint
       end
 
       def worldbuilding_discussion_index
-        @worldbuilding_discussion_index ||= TaelgarWorldbuildingDiscussionIndex::Sidecar.new(@root)
+        @worldbuilding_discussion_index ||= TaelgarWorldbuildingDiscussionIndex::Sidecar.new(@root, persist: @persist_discussion_cache)
       rescue TaelgarWorldbuildingDiscussionIndex::Error => error
         raise BatchError, error.message
       end

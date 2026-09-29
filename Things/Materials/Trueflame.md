@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-28T23:44:57-04:00"
+lintVersion: "3.5"
 tags: [object]
 typeOf: material
 typeOfAlias: alchemical substance
+name: Trueflame
+knownTo: [adma]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Trueflame
 >[!info]+ Information  
@@ -22,4 +27,12 @@ Established that it:
 - requires expensive ingredients, including mercury ash (Caradoc charged the party 150 gp, but that may likely reflect only the portion of the cost he sought to recover, and it could cost considerably more to purchase)
 - can be used to destroy certain magic items, particularly weapons of metal
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Trueflame, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes the substance's durable properties, while the private campaign example is dated to DR 1715.
 %%^End%%
