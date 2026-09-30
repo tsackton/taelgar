@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (205 files):** Meta/Rules 36; Extractable Info 50; Story or Monologue 25; Narrative 0; Session Extension 53; Session 41.
+**Counts (203 files):** Meta/Rules 35; Extractable Info 50; Story or Monologue 24; Narrative 0; Session Extension 53; Session 41.
 
 ## Raw Emails
 
@@ -53,7 +53,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
 | [[Raw Emails/Celyn Research Notes (Email)|Celyn Research Notes (Email)]] | Meta/Rules | Real-world research notes for writing background. |
 | [[Raw Emails/Celyn Sends Wine to His Sister (Email)|Celyn Sends Wine to His Sister (Email)]] | Story or Monologue | Proposed in-character letter and gifts; sending unconfirmed. |
-| [[Raw Emails/Celyn Training Guards (Email)|Celyn Training Guards (Email)]] | Story or Monologue | Player-written Celyn training scene. |
 | [[Raw Emails/Celyn Transition Journey Notes (Email)|Celyn Transition Journey Notes (Email)]] | Meta/Rules | Out-of-game personal research and character approach. |
 | [[Raw Emails/Celyn's Fey Safety and News (Email)|Celyn's Fey Safety and News (Email)]] | Session Extension | Follow-up to Session 15 and possible party briefing. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
@@ -72,7 +71,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Cleenseau - Timeline New Year 1720|Cleenseau - Timeline New Year 1720]] | Session Extension | Recap timeline of recent campaign events. |
 | [[Raw Emails/Cleenseau - What You've Learned|Cleenseau - What You've Learned]] | Session Extension | Post-session briefing on what the party learned. |
 | [[Raw Emails/Cleenseau - Zombie Aftermath|Cleenseau - Zombie Aftermath]] | Session Extension | Summary of immediate aftermath and party knowledge. |
-| [[Raw Emails/Cleenseau Interlude Meta (Email)|Cleenseau Interlude Meta (Email)]] | Meta/Rules | Procedure and schedule for running downtime by email. |
 | [[Raw Emails/Cleenseau Loot Notes November 2023 (Email)|Cleenseau Loot Notes November 2023 (Email)]] | Session Extension | Loot inventory and clarification after play. |
 | [[Raw Emails/Cleenseau Magic Items (Email)|Cleenseau Magic Items (Email)]] | Meta/Rules | Crafting and magic-item rules discussion. |
 | [[Raw Emails/Cleenseau Next Steps Take 2 (Email)|Cleenseau Next Steps Take 2 (Email)]] | Extractable Info | Campaign situation and proposed next actions. |
