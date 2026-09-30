@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [source, status/check/ai]
+tags: [source]
 POV: 1720
 ---
 # Letter from Captain Rochefort to Captain Rosfeld
 _Received in [[Cleenseau]], February 7th_
 
-%% Source: the 2 June 2024 email preserved in [[Letter from Enford (Email)]]. %%
+%% Email from Mike Sackton on June 2, 2024 with subject "The Letter from Enford" %%
 
 Captain Rosfeld:
 
@@ -18,8 +18,7 @@ I beg an explanation! How you been dabbling in sorcery or worse? It did not seem
 
 But I digress. All is as well as can be in Enford, although the settlement is in shambles. You can read my report below, to the Colonel. But I should explain how we came to be here. 
 
-Some days ago, after marching north, only to be ordered south, we were ordered north again. The battle at Ainwick was said to be going 
-poorly, although what four garrisons and a company could do to assist 3000 soldiers I could not fathom. And so I, and many of the soldiers of the Enford, River, North Fork, and South Fork garrisons, and the First Company, lately stationed in Enford, refused to turn from our path. Colonel Lecleric turned a blind eye, and swore to stay with the South Watch, and get to the bottom of these confusing orders. 
+Some days ago, after marching north, only to be ordered south, we were ordered north again. The battle at Ainwick was said to be going poorly, although what four garrisons and a company could do to assist 3000 soldiers I could not fathom. And so I, and many of the soldiers of the Enford, River, North Fork, and South Fork garrisons, and the First Company, lately stationed in Enford, refused to turn from our path. Colonel Lecleric turned a blind eye, and swore to stay with the South Watch, and get to the bottom of these confusing orders. 
 
 We marched as fast as we could south, and reached Enford on January 25th. 
 
