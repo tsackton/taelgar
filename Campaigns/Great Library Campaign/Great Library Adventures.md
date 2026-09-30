@@ -9,6 +9,7 @@ Herein lies the chronicles of the [[Silver Tempests]], from their humble roots a
 
 ## Arcs
 
+
 ```dataviewjs
 const arcs = dv.pages('"Campaigns/Great Library Campaign/Session Notes"')
     .where(p => /^Great Library Session Notes - Arc \d+$/.test(p.file.name))
@@ -23,6 +24,7 @@ dv.table(["Arc", "Chronicle", "Start (DR)", "End (DR)"], arcs.map(p => [
     formatDate(p.file.frontmatter.DR_end)
 ]));
 ```
+
 
 ## The Elemental Scrolls
 *The Silver Tempests get their start as hired hands for the Great Library.*
@@ -60,3 +62,10 @@ After months of waiting, clues to the mysterious disappearance of [[Urkabi]], [[
 After a few weeks of recovery and research, the [[Silver Tempests]] enter [[Cairn Dor]], where they learn that the sleeping dreamers sustain the [[Shemra Azem]] and keep [[Yeshara]] from harm. With the aid of [[Joram of Eshlem]], the party finds the [[Wolf Queen's Stillings]], awakens the kidnapped lizardfolk, and causes their [[Shemra Azem]] guards to fall before defeating [[Yeshara]] herself. But when the wolf-eyed queen falls, the party, the rescued dreamers, and the people of [[Cairn Dor]] fall into a magical sleep. [[Samso]], protected from the enchantment in earth elemental form, wanders the realm alone for years before finally joining his companions in sleep. When the party and the rescued dreamers awaken, they discover that almost four years have passed, though the people of [[Cairn Dor]] remain asleep. They escape through a portal to [[Enderra]] and escort the surviving lizardfolk, including much of [[Samso]]'s family, back to [[Urkabi]]. Along the way, they learn that [[Voltara]] is in chaos and the [[Northern Provinces]] have split from the [[Chardonian Empire]]. 
 
 This full story is told in the [[Great Library Session Notes - Arc 5|Chronicles of the Quest for Answers to Extraplanar Mysteries]].
+
+## The Scouring Wind
+*The Silver Tempests are dragged into conflicts among the djinn of the Elemental Plane of Air*
+
+Upon their return from [[Cairn Dor]], the Silver Tempests learn that Zadkai has returned, and are asked by [[Silverstorm]] to find [[Airion's Secret Lair]] and learn what Zadkai is seeking there. 
+
+This ongoing story is told in the [[Great Library Session Notes - Arc 6|Chronicles of the Return of Zadkai and the Scouring Wind]]. 
