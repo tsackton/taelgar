@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-29T18:22:03-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Cleenseau
 typeOf: settlement
 typeOfAlias: town
-whereabouts: Manor of Cleenseau
-pronunciation: Klen-sew
 population: 1189
-dm_notes: color
+name: Cleenseau
+pronunciation: Klen-sew
+whereabouts: Manor of Cleenseau
 dm_owner: mike
+dm_notes: color
+POV: modern
 ---
 # Cleenseau
 *(Klen-sew)*
@@ -29,7 +32,7 @@ The city walls are shaped like a bean, running north, then curving east before t
 
 * The [[South Close]] (A, on the map), between the [[River Gate of Cleenseau|River Gate]], the [[Essford Manor]] (B), and the [[North Gate of Cleenseau|North Gate]] is drier during the spring and summer rains, being on slightly higher ground than the rest of the town, and is where the richer peasants and small artisans live. [[The Crossroads Inn]] (F), on the west side of the gate, is also here as is [[Smith's Way]] (G), where several smiths ply their trade.
 * The [[Garrison Quarter]] (C), in the east, is clustered around the [[Army Garrison of Cleenseau|army garrison]], and is where the wealthiest live
-* The [[North Close]] (D), in the north, stretches along the wall from the [[North Gate of Cleenseau|North Gate]] to the [[Garrison Gate of Cleenseau|Garrison Gate]] and and is where many of the farmers live. 
+* The [[North Close]] (D), in the north, stretches along the wall from the [[North Gate of Cleenseau|North Gate]] to the [[Garrison Gate of Cleenseau|Garrison Gate]] and is where many of the farmers live.
 * [[Underhill]] (E on the map), is the poorest neighborhood, and stretches along the base of the [[Essford Manor]] hill
 
 Three paths lead through the town:
@@ -39,17 +42,16 @@ Three paths lead through the town:
 
 In the center of the town, the [[Essford Manor]] stands on an acre of raised land surrounded by its own wooden palisade.
 
-Outside [[Essford Manor]] is a large plaza where the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] stands. There are three other holy places in the town: a shrine to the Night Queen inside [[Essford Manor]], an unusual shrine to the Wanderer along the banks of the Enst, sponsored by [[Selma Wisthelwind]] and with many characteristics of a [[Kestavo|kestavan]] shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, feed from the [[Enst]] by a series of pipes. A further pipe system brings running water to some of the richer houses in the [[South Close]], including the [[Essford Manor]] and the [[The Crossroads Inn]]. 
+Outside [[Essford Manor]] is a large plaza where the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] stands. There are three other holy places in the town: a shrine to the Night Queen inside [[Essford Manor]], an unusual shrine to the Wanderer along the banks of the Enst, sponsored by [[Selma Wisthelwind]] and with many characteristics of a [[Kestavo|kestavan]] shrine, and a shrine to the Father inside the garrison. The plaza is also home to a large fountain and cistern, fed from the [[Enst]] by a series of pipes. A further pipe system brings running water to some of the richer houses in the [[South Close]], including the [[Essford Manor]] and the [[The Crossroads Inn]].
 
-There are four gates into the walled city: the [[North Gate of Cleenseau|North Gate]], the [[Market Gate (Cleenseau)]] (in the east), the [[Garrison Gate of Cleenseau|Garrison Gate]] (in the east, opening to the garrison  itself), and the [[River Gate of Cleenseau|River Gate]] (in the south, the main gate). All the gates are barred at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [[Army of the West]], per the order of the [[Essfords|Essfords]]. (There is no standing law in [[Sembara]] preventing commoners from carrying weapons).
+There are four gates into the walled city: the [[North Gate of Cleenseau|North Gate]], the [[Market Gate (Cleenseau)]] (in the east), the [[Garrison Gate of Cleenseau|Garrison Gate]] (in the east, opening to the garrison  itself), and the [[River Gate of Cleenseau|River Gate]] (in the south, the main gate). ll the gates are barred at night. The [[Lord's Guard of Cleenseau|town watch]] guards the [[North Gate of Cleenseau|North Gate]], [[Market Gate (Cleenseau)]], and [[River Gate of Cleenseau|River Gate]], while the [[Garrison Gate of Cleenseau|Garrison Gate]] is under military jurisdiction. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [[Army of the West]], per the order of the [[Essfords|Essfords]]. (There is no standing law in [[Sembara]] preventing commoners from carrying weapons).
 
 On the south bank of the Enst, across the bridge, stands a large [[Ruined Fort (Cleenseau)|ruined garrison]], the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the [[Istabor Alliance]] and [[Sembara]]. 
 
-On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called [[Beggar's Way]] (N). It is where the very poorest in the town eek out a living as day laborers.
-`
+On the north bank, outside of the walls and west of the town, is a small cluster of single-room huts, often called [[Beggar's Way]] (N). It is where the very poorest in the town eke out a living as day laborers.
 ![[cleenseau-town-map.jpg]]
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Places in Cleenseau
 ```dataviewjs
 const { util } = customJS
@@ -68,3 +70,16 @@ dv.table(["Place", "Type Of"],
 * to [[Fellburn]], 160 miles along the Great South Road (two weeks on foot, or five days on a good horse)
 * to [[Ainwick]], 190 miles through the untracked [[Cleenseau Wood]]
 * to [[Valarin]], 130 miles along the Great South Road (two weeks on foot, or four days on a good horse, or about 10 days for the merchant caravans)
+
+%%^Metadata:names:v1%%
+- {name: Cleenseau, language: Sembaran, pronunciation: Klen-sew, status: documented}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: 12.10 I.14}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern town geography and institutions, with older bridge history; the article does not track the changing guard leadership during the DR 1720 campaign.
+%%^End%%

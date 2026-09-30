@@ -1,15 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-09-29T18:22:03-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [place]
-displayDefaults: {defArt: ''}
-campaignInfo: []
-name: The Crossroads Inn
-dm_owner: mike
-dm_notes: color
-ancestry: halfling
 typeOf: inn
-whereabouts: Cleenseau
+ancestry: halfling
 created: 1392
+name: The Crossroads Inn
+whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: none
+POV: modern
 ---
 # The Crossroads Inn
 >[!info]+ Information
@@ -21,10 +23,16 @@ A large inn in [[Cleenseau]], said to be hundreds of years old, kept by the Ston
 
 It is a welcoming and homey place, although not as cheap as the three inns ([[The Bandit’s End]], [[The River's Blessing]], or [[The Fox's Flagon]]) that are outside the walls.
 
-%%^Campaign:Clee%%
-[[Marigold Stonebridge]] claims the inn was built in 1392 on ancient land folkland that has been in the Stonebridge family for many many years. It was, she says, a center of resistance to [[Avatus|Avatus's]] hobgoblin's during their occupation of Cleenseau in the 1420s, and there was an underground tunnel, or tunnels, for smuggling humans out of Cleenseau.
+%%^Campaign:clee%%
+[[Marigold Stonebridge]] claims the inn was built in 1392 on ancient land folkland that has been in the Stonebridge family for many many years. It was, she says, a center of resistance to [[Avatus|Avatus's]] hobgoblins during their occupation of Cleenseau in the 1420s, and there was an underground tunnel, or tunnels, for smuggling humans out of Cleenseau.
 
 Later, during the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] a small number of Stonebridges, including Marigold, were kept alive by the hobgoblin leadership apparently to cook and maintain the inn for them. 
 %%^End%%
-  
 
+%%^Metadata:names:v1%%
+- {name: The Crossroads Inn, language: Common }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of a long-established family inn; the campaign-scoped history preserves Marigold's attributed account of earlier centuries.
+%%^End%%
