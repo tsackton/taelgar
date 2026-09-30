@@ -6,6 +6,8 @@ POV: 1720
 
 Complete local archive of the Into Aveil - Meta correspondence (1 message). Message bodies preserve quoted reply history.
 
+%% Date correction: [[Gareth of Tollen]] was executed on February 7, 1720. The statement below that February 9 was the morning after his execution is superseded; February 9 remains the date of Viepuck's sendings. %%
+
 ## Wed, 26 Jun 2024 07:28:42 -0400 — Mike Sackton <msackton@gmail.com>
 
 Subject: Taelgar: Into Aveil - Meta

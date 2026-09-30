@@ -23,7 +23,7 @@ The party returns to [[Cleenseau]], reunites with Izgil, incorporates survivors 
 - Robin formally inducts [[Odo Cordwaner]] into the [[Order of the Charitable Wanderer]].
 - (DR:: 1720-02-04): Two groups of undead rise at the new moon and are destroyed.
 - (DR:: 1720-02-06): The party encounters and arrests Gareth's group on the road.
-- (DR:: 1720-02-06): Gareth is convicted and sentenced to death; lesser accomplices are handled separately.
+- (DR:: 1720-02-07): Gareth is convicted and executed; lesser accomplices are handled separately.
 
 ## Source
 

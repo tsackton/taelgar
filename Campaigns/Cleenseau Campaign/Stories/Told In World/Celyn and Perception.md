@@ -1,5 +1,5 @@
 ---
-tags: [source]
+tags: [source, status/check/ai]
 POV: 1720
 ---
 # Celyn and Perception
@@ -47,11 +47,7 @@ Celyn made a careful study of the people who associated with the Players, studyi
 
 Alys, of course, was of profound interest to Celyn as he tried to figure out whether or not he wanted to tell her he fancied her. By the time he had worked around to considering the possibility seriously, however, she had made clear that her own fancies were only towards women. Which was awkward, to say the least; she saw him entirely as a man, one she could dice with happily rather than the sort of annoying man who took appreciation of the muscles of her well-displayed arms and shoulders a little too far when drunk. And that was how he wanted, how he needed to be seen, and he couldn’t shake the fear that if she accepted his interest and made an exception to her usual tastes for him, it would only be a grudging thing alotted to him because his body was of the sort she preferred, more or less. He did have the good fortune to not have the bounteous curves topside that she so cheerfully liked, so it was perhaps even a bit more ‘less’ than ‘more’. In the end, he let his own appreciation of her excellent arms and, more importantly, the steadiness and reliability that ran under everything about her, be quiet, and had matters remain as a friendship he cherished, without having to worry about what she saw him as.
 
-
-
 ***
-
-
 
 None of these thoughts helped when he reached the point of having to leave the Players, though, as this haring off into the unknown was an entirely new set of things to worry about in how he was seen. He had never carried a sword before, not as more than a prop when they needed an extra who had enough competence to not look like a fool on stage. The armour that Mahaut got for him was mostly plain, with a little yellow and blue on the straps, and he appreciated that she paid attention to that sort of thing. It also meant that he didn’t need to bind so tightly when he wore it, which was probably for the best, given that if he had to fight, he would want to be able to breathe clearly.
 
@@ -77,11 +73,7 @@ He couldn’t, once he sorted it all out, grudge Abigail her attraction to Robin
 
 Celyn put a lot of mental effort into not being another awkward situation for Robin to handle. It was easy enough to treat it like he had treated Alys, and carry on as a friend, as a companion in arms.
 
-
-
 ***
-
-
 
 The encounter with hostile fey was one he had to think about a great deal, aside from the bit where he was frustrated that nobody other than Robin had the sense to get out of the way of the horned being who had appeared after they finished off the redcap. He had to expand his understanding of the shape of what it was to be seen, when being seen by something potent and alien and dangerous, something that he knew how to deal with in theory and had never truly considered facing in practice.
 
@@ -105,11 +97,7 @@ And that was all appearances. Trying to figure out what a hero looked like when 
 
 Celyn suspected that Viepuck might take well to some of the knowledge about how the clothing choices affected how people reacted. He knew more about actual clothes than Celyn did, and the more information would probably feed into that rapacious mind and produce interesting results.
 
-
-
 ***
-
-
 
 The fight at the bridge was almost more a problem of appearances than it was a problem of fighting, though there was quite a lot of fighting to be had. It was, however, not a problem for Celyn’s appearances; Celyn hardly mattered at all for the particular dramatics of it, not compared to Izgil, and certainly not compared to Robin. But it seemed half the town had seen what they did, and was coming down to the Wanderer’s shrine to celebrate because they had seen something magnificent.
 
@@ -123,11 +111,7 @@ Ellis had always been better at reading that sort of appearances. Celyn had neve
 
 In any case he warned Robin what the appearances had been, so that Robin would be prepared. It broke his heart a little, the way Robin wilted at it, but he would far rather the paladin be warned than be ambushed by starry-eyed townsfolk. He could only hope that he had managed to keep his own manner under control in the moment, and that everything would calm down to a level that he understood once they had a chance to recover from the fight.
 
-
-
 ***
-
-
 
 To Celyn’s relief, the sharp and overwhelming part of the emotions did, indeed, settle down once they had gotten some time to recover, when the blood-pumping intensity of the combat faded away.
 
@@ -149,11 +133,7 @@ It didn’t even matter that Celyn fell on his way to stabbing the eel and only 
 
 Unfortunately, that meant he would have to actually talk to Robin about it.
 
-
-
 ***
-
-
 
 Of course, once he had settled out of the blissful night of being up far too late for how early they had to be up to ride to Fellburn being curled up against Robin, talking and snuggling and even some kissing, he had a whole new and more complicated problem to solve with being seen. He had fumbled his way to an understanding of being seen as a hero, more or less, at least enough that he didn’t ruin the effect of it, though he suspected that he could not hold that standard on his own without trying out fancier clothes or armour to hold the attention. He could not begin to figure out how that worked now that he was actually with Robin, partnered, especially since none of the answers were particularly in line with his own preferences.
 
@@ -179,11 +159,7 @@ He had recovered enough to explain what had happened with the blessing, at least
 
 But then Robin took his hand, and he could breathe, and then he could deal with her. After she had gone, he could even find it funny that she didn’t seem to notice that he was there with someone, that he was holding on to someone. He wondered how much of that was her self-absorption and how much was that maybe the way he was about Robin was not, in fact, as loud as it felt inside, at least when he had his public face on, his hero face. She had seen the hero face and been disconcerted by it, and maybe that was a good thing this time.
 
-
-
 ***
-
-
 
 The one unmitigatedly good thing about being a hero was the part where he had a private bedroom in the manor in Cleenseau. It was more comfortable than the storage wagon, with the same lack of having to deal with anyone looking at him while he was asleep. He could entirely unwind the binder and breathe freely all night, and take the time to put it back on properly - and his armour - in the morning, and even tinker with shading when he wanted to put in the effort.
 
@@ -201,11 +177,7 @@ And, of course, he wanted to be able to trust Robin so far.
 
 He hadn’t solved it by the time they made it back to the vicinity of Cleenseau, and the blessed relief of private rooms.
 
-
-
 ***
-
-
 
 The time spent training people was, weirdly, a relief; if the trouble wasn’t coming until the next new moon, then they had time to prepare, and that was better than rolling from crisis to crisis without having breathing room. They knew the next thing, they had time and space to prepare, no hurrying from place to place, and no inns.
 
@@ -221,11 +193,7 @@ And of course he could not disappoint Robin by declining. Particularly when Robi
 
 Everyone slept well, and when the warning of undead attacks came in the early morning, everyone was prepared.
 
-
-
 ***
-
-
 
 The whole encounter with the erstwhile tax collector was odd from the start. Though it took VIepuck to thoroughly puncture the appearances - not just because he identified the man to start with, but with his sudden bringing out of the correct procedures for doing such a thing and all the ways the man was violating them. The bandit clearly had not put as much thought into the way the thing looked as he ought, but Celyn supposed that given that his entire desire was to be greedy about it it was not that much of a surprise that he had given himself away in quite the ways he had.
 
@@ -239,11 +207,7 @@ Celyn did find, after all was said in done, that the last time he’d had reason
 
 Though it would mean being on the road again, and inns, and that meant he needed to figure a few things out rather promptly.
 
-
-
 ***
-
-
 
 Celyn had not expected the exploration into the woods in search of missing people to have been quite so demanding on the matter of appearances, but there it was, sometimes like brought an unexpected fate. The dice fall how the dice fell.
 
@@ -271,11 +235,7 @@ And then, because they had not sworn to stay out, they went right back in, to ge
 
 And what he was not.
 
-
-
 ***
-
-
 
 Afterwards, when Celyn slept, he curled up with Robin between him and the rest of everyone around them. It was not as far as he wanted towards trust, but it was something that he could do.
 

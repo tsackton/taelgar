@@ -6,6 +6,8 @@ campaign: Cleenseau
 
 Play-by-email discussion following [[Elizabeth of Cassen]]'s account. The story as told to the party is [[Elizabeth of Cassen's Story]]. Authored replies appear in sent order; quoted history and mailing-list footers are omitted. Complete email archive: [[Elizabeth the Guard's Story (Email)]].
 
+%% Date correction: [[Gareth of Tollen]] was executed on February 7, 1720. The February 8 execution date in Mike's preserved reply below is superseded. %%
+
 ### Kiya Nicoll <darkhawk@mindspring.com> — Mon, 1 Jul 2024 22:13:13 -0400
 
 Dallet was the one with the sheep heap that I miracled clear of rot, right?  Just trying to get the placement right in my brain.

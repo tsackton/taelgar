@@ -1,12 +1,12 @@
 ---
-tags: [source]
+tags: [source, status/check/ai]
 POV: 1720
 ---
 
 # Greymalkin's Story
 
 %% Email from Mike Sackton on August 17, 2024 with subject "Greymalkin's Story" %%
-%% In-world time: Told by Greymalkin to Robin during the Ashcombe-to-Aslain journey, approximately February 11–12, 1720 (Session 16); the events recounted reach centuries earlier. %%
+%% In-world time: Told by Greymalkin to Robin late on the second day of the Ashcombe-to-Aslain journey in Session 16 (February 11–17, 1720). The journey's precise start day is not established, so the telling cannot be dated more narrowly. The events recounted reach centuries earlier. %%
 
 During the two and a half day journey from Ashcombe to Aslain, Greymalkin does not seem himself. He is extremely solicitous of Robin, constantly making sure he is ok, has a good place to sleep, often insisting he ride, despite the fact that the group is moving quite slowly, and Greymalkin is already carrying more supplies than usual.
 

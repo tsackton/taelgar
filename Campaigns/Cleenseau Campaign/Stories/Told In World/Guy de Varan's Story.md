@@ -1,5 +1,6 @@
 ---
 tags: [source, status/check/ai]
+DR: 1719-12-04
 POV: 1719
 ---
 # Guy de Varan's Story of Orc Raids
