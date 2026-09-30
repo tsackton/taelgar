@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (195 files):** Meta/Rules 32; Extractable Info 50; Story or Monologue 19; Narrative 0; Session Extension 53; Session 41.
+**Counts (192 files):** Meta/Rules 29; Extractable Info 50; Story or Monologue 19; Narrative 0; Session Extension 53; Session 41.
 
 ## Raw Emails
 
@@ -76,7 +76,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Cleenseau What You Learned - Correspondence (Email)|Cleenseau What You Learned - Correspondence (Email)]] | Session Extension | DM briefing and player questions after play. |
 | [[Raw Emails/Cleenseau What's Next (Email)|Cleenseau What's Next (Email)]] | Extractable Info | Campaign situation and prospective next steps. |
 | [[Raw Emails/College of Lore Feature Discussion (Email)|College of Lore Feature Discussion (Email)]] | Meta/Rules | Proposed College of Lore feature mechanics. |
-| [[Raw Emails/Competencies Question (Email)|Competencies Question (Email)]] | Meta/Rules | Character competency purchase discussion. |
 | [[Raw Emails/Crowther Boys Notes (Email)|Crowther Boys Notes (Email)]] | Extractable Info | Proposed cast and background details. |
 | [[Raw Emails/Destruction of Eftly (Email)|Destruction of Eftly (Email)]] | Session | Multi-turn played scene among Odo and the party. |
 | [[Raw Emails/Doing Paladin Stuff (Email)|Doing Paladin Stuff (Email)]] | Extractable Info | Paladin role and healing discussed in-world and out. |
@@ -112,11 +111,9 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Into Aslain (Email)|Into Aslain (Email)]] | Session Extension | Arrival briefing, plans, and clarifications. |
 | [[Raw Emails/Into Aveil - Meta (Email)|Into Aveil - Meta (Email)]] | Extractable Info | Pre-session background to enable travel to Aveil. |
 | [[Raw Emails/Izgil Character Background (Email)|Izgil Character Background (Email)]] | Extractable Info | Early character history and DM feedback. |
-| [[Raw Emails/Izgil Dice Cloud Character Notes (Email)|Izgil Dice Cloud Character Notes (Email)]] | Meta/Rules | Character sheet and rules audit. |
 | [[Raw Emails/Izgil During Fellburn (Email)|Izgil During Fellburn (Email)]] | Session Extension | Account of Izgil's concurrent activity. |
 | [[Raw Emails/Izgil Lunar Sorcerer Early Design (Email)|Izgil Lunar Sorcerer Early Design (Email)]] | Meta/Rules | Extensive proposed sorcerer mechanics. |
 | [[Raw Emails/Izgil Pre-Campaign Character Discussion (Email)|Izgil Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character premise and discarded alternatives. |
-| [[Raw Emails/Izgil Refactor (Email)|Izgil Refactor (Email)]] | Meta/Rules | Proposed revision of character mechanics. |
 | [[Raw Emails/Izgil Research Rules (Email)|Izgil Research Rules (Email)]] | Meta/Rules | Research procedure and rule proposals. |
 | [[Raw Emails/Juvenile Delinquent Celyn - Correspondence (Email)|Juvenile Delinquent Celyn - Correspondence (Email)]] | Story or Monologue | Long Celyn childhood story with feedback. |
 | [[Raw Emails/Last Session - Sanctuary (Email)|Last Session - Sanctuary (Email)]] | Session Extension | Clarifies Izgil's telescope experience. |
