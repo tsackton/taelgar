@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-28T20:03:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [event, status/check/tim, status/check/lint]
+tags: [event, status/check/mike, status/check/lint]
 typeOf: cataclysm
 name: Riving
 aliases: [The Riving, Long Pause]
@@ -17,15 +17,9 @@ The Riving is the term commonly used by human scholars for the destructive shatt
 
 In the [[Standard Multiversal Model]], the Riving is typically regarded as a cataclysmic event that marks the border of what is knowable and unknowable. Popular rumors at the [[University of Tollen]] claim that even the [[Ancient and Honorable Guild of Philosophers]] will not answer questions about whatever existed before the Riving, for any price. Metaphysicists at the [[University of Chardon]] generally regard attempts to reconstruct the event, or to determine what preceded it, or especially why it happened, as questions for mythology and philosophy, rather than a proper subject of experimental theology or extraplanar metaphysics that can be resolved through observation. 
 
----
+Though human academic and scholarly traditions focus on the shattering metaphor and the destructive imagery of the Riving, this is not universal. [[Embodied Gods|Firstborn]] traditions, which describe the beginning of the world as an awakening, building, or first cycle concurrent with the creation of their peoples. For example, the elves speak of *Cuivië*, the First Awakening, when they opened their eyes and the world awoke with them. The lizardfolk speak of *Bira Lehen*, the First Cycle, when water first flowed in the rivers; their stories tell how the [[Tharzen Anzinakoa]] walked in the days outside time and shaped the rivers with their footsteps. The dwarves speak of the *Makhal*, the First Building, when the mountains rose and the [[Calendar Eras#Dwarven Count of Years|Count of Years]] began. Some human scholars, including some prominent theological cosmologists like [[Heloise of Tollen]], identify these traditions and the diverse metaphors they embrace with the Riving; indeed [[Heloise of Tollen]] prefers the elven term, the Awakening, in her own scholarship. 
 
-This is not indifference to the Riving: the [[Faculty of Metaphysics]] is deeply concerned with the structure it left behind. The relationships among the planes, the resonances that became the [[Echo Realms]], and the scars or remnants visible in [[Ley Lines]] and other planar connections are all studied as observable consequences of the beginning of time. Much of Chardonian metaphysics is therefore shaped by the Riving even where scholars decline to speculate about what occurred within it.
-
-This methodological restraint has not prevented scholars from drawing conclusions from the Riving’s apparent aftermath. Gaius Devarro argued that the persistent resonances among the planes were best understood as remnants of their violent separation, and the Standard Multiversal Model inherited much of its language of shattering and conflagration from his work. In this tradition, the Riving is reconstructed backward from the structure of the modern Multiverse: the explosion cannot itself be observed, but its scars can be mapped. Such accounts describe the transition and its surviving effects more confidently than they explain the event itself.
-
-That interpretation is not universal. Some critics of the Standard Multiversal Model dispute the language of shattering and destruction, and theological cosmologists such as [[Heloise of Tollen]] place greater weight on [[Embodied Gods|Firstborn]] traditions, which describe the beginning of the world as an awakening, building, or first cycle concurrent with the creation of their peoples. Human scholars often identify these traditions with the Riving, although the traditions themselves rarely use the same metaphorical language as the [[Standard Multiversal Model]].
-
-For example, the elves speak of *Cuivië*, the First Awakening, when they opened their eyes and the world awoke with them. The lizardfolk speak of *Bira Lehen*, the First Cycle, when water first flowed in the rivers; their stories tell how the [[Tharzen Anzinakoa]] walked in the days outside time and shaped the rivers with their footsteps. The dwarves speak of the *Makhal*, the First Building, when the mountains rose and the [[Calendar Eras#Dwarven Count of Years|Count of Years]] began. These accounts carry a very different tone from the destructive language of the Standard Multiversal Model, and [[Heloise of Tollen]] prefers the elven term, the Awakening, in her own scholarship.
+Despite a widespread assumption that the Riving can only be approached and comprehended via metaphorical and philosophical language, some scholars have persisted in attempting to draw conclusions from the Riving's apparent aftermath. Gaius Devarro argued that the persistent resonances among the planes were best understood as remnants of their violent separation, though his exhaustive treatment of this hypothesis was lost during the [[Fall of Drankor]] and survives only via want can be reconstructed from contemporary commentaries. Nonetheless, this idea has permeated into Chardonian academic traditions: most scholars on the [[Faculty of Metaphysics]] will confidently state that the relationships among the planes, the resonances that became the [[Echo Realms]], and the scars or remnants visible in [[Ley Lines]] and other planar connections are all observable consequences of the beginning of time. 
 
 %%^Campaign:none%%
 ### The Divine Presence
@@ -56,8 +50,8 @@ Several ideas have often come up in brainstorming around the Riving, and althoug
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Riving, language: unknown}
-- {name: Long Pause, role: alias, language: unknown}
+- {name: Riving, language: Common}
+- {name: Long Pause, role: alias, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%
