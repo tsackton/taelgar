@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (182 files):** Meta/Rules 20; Extractable Info 50; Story or Monologue 18; Narrative 0; Session Extension 53; Session 41.
+**Counts (178 files):** Meta/Rules 20; Extractable Info 50; Story or Monologue 15; Narrative 0; Session Extension 52; Session 41.
 
 ## Raw Emails
 
@@ -45,10 +45,8 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn Goes and Talks to Marian (Email)|Celyn Goes and Talks to Marian (Email)]] | Story or Monologue | Explicitly written as Celyn's monologue to Marian. |
 | [[Raw Emails/Celyn Leaves the Players - Correspondence (Email)|Celyn Leaves the Players - Correspondence (Email)]] | Story or Monologue | Background story, then character and date discussion. |
 | [[Raw Emails/Celyn Leaving Clawyn - Correspondence (Email)|Celyn Leaving Clawyn - Correspondence (Email)]] | Story or Monologue | Celyn's departure story with DM feedback. |
-| [[Raw Emails/Celyn on the Road to Tharwa Fea|Celyn on the Road to Tharwa Fea]] | Story or Monologue | Character-focused travel flashback. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
 | [[Raw Emails/Celyn Sends Wine to His Sister (Email)|Celyn Sends Wine to His Sister (Email)]] | Story or Monologue | Proposed in-character letter and gifts; sending unconfirmed. |
-| [[Raw Emails/Celyn's Fey Safety and News (Email)|Celyn's Fey Safety and News (Email)]] | Session Extension | Follow-up to Session 15 and possible party briefing. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
 | [[Raw Emails/Celyn's Known Background (Email)|Celyn's Known Background (Email)]] | Extractable Info | What the party initially knows about Celyn. |
 | [[Raw Emails/Celyn's Light and Background Mindset (Email)|Celyn's Light and Background Mindset (Email)]] | Extractable Info | Player note on Celyn's outlook and magic. |
@@ -99,8 +97,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Hunter Aftermaths (Email)|Hunter Aftermaths (Email)]] | Session Extension | Unfinished aftermath exchange deferred to play. |
 | [[Raw Emails/Hunter Aftermaths|Hunter Aftermaths]] | Session Extension | Immediate post-battle scene fragment. |
 | [[Raw Emails/Hunting Lorin (Email)|Hunting Lorin (Email)]] | Session | Long, independent 37-turn hunt. |
-| [[Raw Emails/Ida's Letter - Correspondence (Email)|Ida's Letter - Correspondence (Email)]] | Story or Monologue | In-world letter presented to Robin. |
-| [[Raw Emails/Ida's Letter|Ida's Letter]] | Story or Monologue | Transcription of Ida's in-world letters. |
 | [[Raw Emails/Into Aslain (Email)|Into Aslain (Email)]] | Session Extension | Arrival briefing, plans, and clarifications. |
 | [[Raw Emails/Into Aveil - Meta (Email)|Into Aveil - Meta (Email)]] | Extractable Info | Pre-session background to enable travel to Aveil. |
 | [[Raw Emails/Izgil Character Background (Email)|Izgil Character Background (Email)]] | Extractable Info | Early character history and DM feedback. |
