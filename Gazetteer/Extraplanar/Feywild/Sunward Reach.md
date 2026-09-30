@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: extraplanar domain
 ancestry: fey
 whereabouts: Feywild
@@ -14,7 +14,7 @@ dm_notes: none
 
 A fey realm on the borders of [[Twilight's Grace]], on the sunward side of the [[Sunset Gate]]. It is a border realm, and is known for its defenses against incursions by [[Harrow]] and [[Wend]] across the [[Sunset Gate]]. 
 
-%% @check/tim: this is basically the minimum canonical information I shared with my players, although I didn't mention Harrow and Wend
+%% 
 
 brainstorming from tim:
 Sunward Reach is a fey realm ruled by Lady Calanthe, Duchess of the Sunset Forest, and Lord Othrys, Duke of the Last Muster. Whether they are romantically involved is left unclear but I lean yes. 
