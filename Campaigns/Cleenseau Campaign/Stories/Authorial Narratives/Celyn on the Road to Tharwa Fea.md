@@ -1,5 +1,5 @@
 ---
-tags: [story, status/check/ai]
+tags: [story]
 campaign: Cleenseau
 DR: 1720-03-05
 DR_end: 1720-03-12

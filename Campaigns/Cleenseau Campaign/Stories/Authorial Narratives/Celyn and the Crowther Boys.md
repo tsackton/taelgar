@@ -1,10 +1,11 @@
 ---
+tags: [story]
+campaign: Cleenseau
 excludePublish: ["all"]
-tags: [source, status/check/ai]
 POV: 1710s
 ---
-
 # Celyn and the Crowther Boys
+%% In-world time: Clawyn vignette involving Ellis and Llew during Celyn’s adolescence, before he leaves home; exact year unknown. %%
 
 Celyn had tucked himself into a fold of the hill under a tree to work on his drum. The drum was an ever-changing thing, depending on which feathers and sticks and other such things seemed to need to go on it, threaded through the lacings or dangling from odd bits of thread or string that he salvaged from Mama’s work. Today he wanted to get a pattern of leaves around the edge while they were still green, so he was working diligently on tucking them into the lacings without ripping them.
 
@@ -17,5 +18,3 @@ Llew laughed and threw up his free hand in incredulity. “How do you always kno
 Llew laughed again and turned back, whistling sharply. It was only a few minutes before Ellis joined them, twirling Llew’s favorite pipe in his hands, which produced a certain amount of brotherly bickering before they traded instruments. Ellis curled his right hand around the neck of his crwth and sat down across from Celyn. “Beat him again, huh?”
 
 Celyn shrugged. “I just pay attention.” He finished the leaf he was lacing into the drum and flipped it over, so he could brush his fingers across the head. “C’mon, Llew, join us, let’s play.”
-
-%% In-world time: Clawyn vignette involving Ellis and Llew during Celyn’s adolescence, before he leaves home; exact year unknown. %%

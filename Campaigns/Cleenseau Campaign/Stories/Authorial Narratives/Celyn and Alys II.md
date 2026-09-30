@@ -1,9 +1,9 @@
 ---
+tags: [story, status/check/ai]
+campaign: Cleenseau
 excludePublish: ["all"]
-tags: [source, status/check/ai]
 POV: 1710s
 ---
-
 # Celyn and Alys II
 
 Celyn was dicing with Alys again. Just the two of them, this time; they were between villages and nobody wanted to get between Celyn’s occasional runs of luck and Alys’s drive to win.

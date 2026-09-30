@@ -1,5 +1,6 @@
 ---
-tags: [source, status/check/ai]
+tags: [story]
+campaign: Cleenseau
 POV: 1700s
 ---
 

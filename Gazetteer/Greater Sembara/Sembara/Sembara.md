@@ -20,6 +20,8 @@ typeOfAlias: monarchy
 
 Sembara is a large and properous realm in the [[Western Green Sea]] situated amongst five great rivers that pour down from the [[Sentinel Range|Sentinels]] to the [[Western Gulf]].  One of the few realms in the east to survive the Blood Years largely intact, Sembara is a hereditary monarchy with a large nobility and considerable prowess at arms. Sembara invests significantly in defensive fortifications in the [[Western Marches]], on the western (mountain) borders of the realm. These areas are under threat from hobgoblins, aberrations, and other incursions from the wilds, and the defense of these borders is a major concern for the ruling class. While most of the Sembaran population descends from the Drankorians who conquered the land, in the highlands traces of the original culture survive. And in Tyrwingha, ancient connections to the Archfey who once protected the realm still linger.
 
+Lord's guards are common even in Sembaran villages. Larger towns have more guards and soldiers, and walled towns are more common than in [[Tyrwingha]].
+
 
 -   Inward agricultural focus. Sphere of influence pushing more west and interior than into the [[Western Gulf]] - limited or no real navy, small scale fishing but not a major part of the culture or economy (think China)
     

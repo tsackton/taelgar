@@ -1,6 +1,8 @@
 ---
+tags: [story]
+campaign: Cleenseau
+DR: 1715
 excludePublish: ["all"]
-tags: [source, status/check/ai]
 POV: 1710s
 ---
 

@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (178 files):** Meta/Rules 20; Extractable Info 50; Story or Monologue 15; Narrative 0; Session Extension 52; Session 41.
+**Counts (173 files):** Meta/Rules 20; Extractable Info 50; Story or Monologue 10; Narrative 0; Session Extension 52; Session 41.
 
 ## Raw Emails
 
@@ -42,9 +42,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn Character Creation (Email)|Celyn Character Creation (Email)]] | Extractable Info | Early character concept and background discussion. |
 | [[Raw Emails/Celyn Childhood and Worldbuilding - Correspondence (Email)|Celyn Childhood and Worldbuilding - Correspondence (Email)]] | Story or Monologue | Player-authored childhood story with DM feedback. |
 | [[Raw Emails/Celyn Game Opening (Email)|Celyn Game Opening (Email)]] | Session Extension | Opening setup and response for the first session. |
-| [[Raw Emails/Celyn Goes and Talks to Marian (Email)|Celyn Goes and Talks to Marian (Email)]] | Story or Monologue | Explicitly written as Celyn's monologue to Marian. |
-| [[Raw Emails/Celyn Leaves the Players - Correspondence (Email)|Celyn Leaves the Players - Correspondence (Email)]] | Story or Monologue | Background story, then character and date discussion. |
-| [[Raw Emails/Celyn Leaving Clawyn - Correspondence (Email)|Celyn Leaving Clawyn - Correspondence (Email)]] | Story or Monologue | Celyn's departure story with DM feedback. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
 | [[Raw Emails/Celyn Sends Wine to His Sister (Email)|Celyn Sends Wine to His Sister (Email)]] | Story or Monologue | Proposed in-character letter and gifts; sending unconfirmed. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
@@ -67,7 +64,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Cleenseau Next Steps Take 2 (Email)|Cleenseau Next Steps Take 2 (Email)]] | Extractable Info | Campaign situation and proposed next actions. |
 | [[Raw Emails/Cleenseau Session Quotes - January 2023 (Email)|Cleenseau Session Quotes - January 2023 (Email)]] | Session Extension | Players reconstruct quotes from a session. |
 | [[Raw Emails/Cleenseau Timeline (Email)|Cleenseau Timeline (Email)]] | Session Extension | Campaign event recap and timeline discussion. |
-| [[Raw Emails/Cleenseau Watch Order and Lore (Email)|Cleenseau Watch Order and Lore (Email)]] | Story or Monologue | Includes Celyn's substantial travel flashback. |
 | [[Raw Emails/Cleenseau What You Learned - Correspondence (Email)|Cleenseau What You Learned - Correspondence (Email)]] | Session Extension | DM briefing and player questions after play. |
 | [[Raw Emails/Cleenseau What's Next (Email)|Cleenseau What's Next (Email)]] | Extractable Info | Campaign situation and prospective next steps. |
 | [[Raw Emails/College of Lore Feature Discussion (Email)|College of Lore Feature Discussion (Email)]] | Meta/Rules | Proposed College of Lore feature mechanics. |
@@ -104,7 +100,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Izgil Lunar Sorcerer Early Design (Email)|Izgil Lunar Sorcerer Early Design (Email)]] | Meta/Rules | Extensive proposed sorcerer mechanics. |
 | [[Raw Emails/Izgil Pre-Campaign Character Discussion (Email)|Izgil Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character premise and discarded alternatives. |
 | [[Raw Emails/Izgil Research Rules (Email)|Izgil Research Rules (Email)]] | Meta/Rules | Research procedure and rule proposals. |
-| [[Raw Emails/Juvenile Delinquent Celyn - Correspondence (Email)|Juvenile Delinquent Celyn - Correspondence (Email)]] | Story or Monologue | Long Celyn childhood story with feedback. |
 | [[Raw Emails/Last Session - Sanctuary (Email)|Last Session - Sanctuary (Email)]] | Session Extension | Clarifies Izgil's telescope experience. |
 | [[Raw Emails/Letter Responses (Email)|Letter Responses (Email)]] | Session Extension | Party responses to recent in-world letters. |
 | [[Raw Emails/Loose Ends (Email)|Loose Ends (Email)]] | Session Extension | Outstanding leads from the previous session. |

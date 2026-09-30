@@ -31,7 +31,7 @@ While helping tend the dead after the trial, Celyn shares wine with Marian and h
 
 ## Sources
 
-- [[Celyn Goes and Talks to Marian (Email)]]
+- [[Celyn and Marian After the Trial]]
 
 ## Related Writings
 
