@@ -41,7 +41,7 @@ See: [[Metadata Specification#Date Formats|Date Formats]]
 - `realWorldDate`: Real‑world date a session was played, in `YYYY‑MM‑DD` form.
 - `timelineDescriptor`:Label used in timelines and event lists (e.g. “War of the Cloak”) for dates extracted from this note. Often matches or summarizes the page title. ***Warning: possibly obsolete / possibly not working, and inconsistently used.***
 - `pageTargetDate`: Optional override for “current date” used by queries and header scripts, primarily for debugging. 
-- `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, a year, or `undated`. Test `modern`, a decade, and a year in that order; use `undated` only when the note and its sources support none of them. `undated` records missing temporal support, not timeless truth or stability. `POV` is not a validity interval. For most notes, the persistent `%%^povNotes:v1%%` text block records approximate, uncertain, narrow, discontinuous, or unsupported temporal coverage. When the visible undated prose naturally functions as current-era reference prose and no evidence requires a narrower or nonmodern reading, `modern` with a generic broadly-modern coverage statement is sufficient. When no coherent temporal reading position is supported, use `undated` and record that limitation. Notes under `Campaigns/**` tagged `session-note`, `meta`, or `source` require `POV` but must not be given a new `povNotes` block. A present `povNotes` block is always contextually rechecked and retained; removing an existing block is always a human-only decision. Only when the block is absent does a valid prior lint at or above the adopted `povReviewVersion` skip contextual POV selection and preserve the block's absence; deterministic validation still checks the stored `POV` and reports a categorically forbidden block for human review. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
+- `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, a year, or `undated`. Test `modern`, a decade, and a year in that order; use `undated` only when the note and its sources support none of them. `undated` records missing temporal support, not timeless truth or stability. `POV` is not a validity interval. For most notes, the persistent `%%^povNotes:v1%%` text block records approximate, uncertain, narrow, discontinuous, or unsupported temporal coverage. When the visible undated prose naturally functions as current-era reference prose and no evidence requires a narrower or nonmodern reading, `modern` with a generic broadly-modern coverage statement is sufficient. When no coherent temporal reading position is supported, use `undated` and record that limitation. Notes under `Campaigns/**` tagged `session-note`, `story`, `meta`, or `source` require `POV` but must not be given a new `povNotes` block. A present `povNotes` block is always contextually rechecked and retained; removing an existing block is always a human-only decision. Only when the block is absent does a valid prior lint at or above the adopted `povReviewVersion` skip contextual POV selection and preserve the block's absence; deterministic validation still checks the stored `POV` and reports a categorically forbidden block for human review. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
 
 ### Type-Specific Fields
 
@@ -163,6 +163,13 @@ Session notes (primarily under `Campaigns/*/Session Notes`) typically have:
 - Identity: `name` (often `Campaign – Session N`), `tagline`, `descTitle`, optional `sourceUrl`
 - Chronology: `campaign`, `sessionNumber`, `realWorldDate`, `DR`, optional `DR_end`
 - Relationships: `players`, optional `companions`
+
+### `story`
+
+Authorial campaign stories typically have:
+
+- Identity and provenance: an author and source date recorded in the note when known
+- Chronology: `campaign`, `POV`; no `sessionNumber` or `povNotes` block under `Campaigns/**`
 
 ## Map Metadata Specification
 

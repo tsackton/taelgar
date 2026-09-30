@@ -17,6 +17,7 @@ WHERE !startswith(file.folder, "_") and (
 !contains(tags, "meta") and 
 !contains(tags, "group") and 
 !contains(tags, "session-note") and
+!contains(tags, "story") and
 !contains(tags, "event") and 
 !contains(tags, "source") and 
 !contains(tags, "ancestry")

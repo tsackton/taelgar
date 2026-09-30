@@ -36,7 +36,7 @@
         "linterKnownToRequiredTags",
         "linterMapRequiredPlaceTypes"
       ],
-      "sha256": "0d708efe84bf4a495049d68d3d548499a49a8ca2ae2013d0c6d2aa65658034ba"
+      "sha256": "35d90693765531b0aa4e5ebce2cb6f9856a905cee4212b8408513d2fc06f33a6"
     },
     {
       "path": "_MoC/Note Status.md",
@@ -59,12 +59,14 @@
       "ancestry",
       "creature",
       "session-note",
+      "story",
       "source",
       "background",
       "meta"
     ],
     "campaignRecordTags": [
       "session-note",
+      "story",
       "meta",
       "source"
     ],

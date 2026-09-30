@@ -1,9 +1,9 @@
 # Note Categorization
-*last update: Dec 24th 2025*
+*last update: Sep 29th 2026*
 
-linterDescriptiveTags:: "person", "power", "place", "event", "object", "group", "ancestry", "creature", "session-note", "source", "background", "meta"
+linterDescriptiveTags:: "person", "power", "place", "event", "object", "group", "ancestry", "creature", "session-note", "story", "source", "background", "meta"
 linterDescriptiveTagAliases:: {"item": "object", "primary-source": "source", "organization": "group"}
-linterCampaignRecordTags:: "session-note", "meta", "source"
+linterCampaignRecordTags:: "session-note", "story", "meta", "source"
 linterKnownToRequiredTags:: "person", "object"
 linterMapRequiredPlaceTypes:: "waterway", "road", "settlement"
 
@@ -11,7 +11,7 @@ The `linter*` fields above are the machine-readable validator vocabulary. They a
 
 Notes (pages) are categorized based on the combination of a descriptive tag, and a typeOf string. Both descriptive tags and typeOf strings are controlled vocabulary, and pages that do not have a canonical descriptive tag + typeOf combination will be flagged in queries in Data Cleaning. 
 
-There are 12 primary note categories, which are described below. These are not meant to exhaustively categorize every note in the vault; instead, they guide both Markdown templates / formatting, required/expecting metadata, and automatic header generation.
+There are 13 primary note categories, which are described below. These are not meant to exhaustively categorize every note in the vault; instead, they guide both Markdown templates / formatting, required/expecting metadata, and automatic header generation.
 
 ## Person
 **Tag: `#person`**
@@ -258,6 +258,16 @@ Type-specific displayDefaults?  No, but should have one.
 Type-specific header code for website? No, but should have one.
 
 All metadata is required, and more may be added, see the session manifest json schema.
+
+## Story
+
+**Tag: `#story`**
+
+Definition: A standalone story written by one real person in an authorial voice to describe a campaign scene or event. Characters may speak to one another within the story; that dialogue does not make it a record of play by email.
+
+A story is distinct from an in-world `source`, which is presented as a character’s own speech, writing, or internal monologue. It is also distinct from a `session-note`, which records GM and player turns. A story may supplement a played session or describe a scene outside play. Preserve its authorship and provenance, and give it equivalent canonical weight to session notes.
+
+Story notes under `Campaigns` use `campaign` and `POV` metadata. They do not require a session number or a `povNotes` block. No `typeOf`, type-specific display defaults, or generated header are currently expected.
 
 ## Primary Source
 **Tag: `#source`**
