@@ -19,8 +19,8 @@ The party investigates a blight in [[Abigail Moss|Abigail Moss's]] orchard and h
 
 ## Timeline
 
-- (DR:: 1719-12-12): The party celebrates [[Viatela]] and hears Eremon's warning.
-- (DR:: 1719-12-13): The party investigates the blighted orchard.
+- (DR:: 1719-12-11): The party celebrates [[Viatela]] and hears Eremon's warning.
+- (DR:: 1719-12-12): The party investigates the blighted orchard.
 - (DR:: 1719-12-30): Duncan reports missing ale during [[Pyravela]].
 - (DR:: 1720-01-01): The party waits for a suspected fey near Taviose.
 - (DR:: 1720-01-02): The party kills a redcap and encounters another fey.

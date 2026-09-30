@@ -1,6 +1,7 @@
 ---
 tags: [source, status/check/ai]
-POV: undated
+DR: 1719-12-11
+POV: 1719
 ---
 
 # Celyn's Miracle Story
@@ -21,4 +22,4 @@ POV: undated
  >
 >Celyn chuckles to himself. "So when I woke up, I needed a name. Celyn. I took Celyn as a name. It means holly, you know. And I wasn't angry anymore. That was my miracle, the finding my place. And that's how I became a priest."
 
-%% In-world time: Told by Celyn to Robin after they became close, but the telling lacks a supported exact date. The miracle recalled occurred in his adolescence, around 1715 by his background timeline. %%
+%% In-world time: Told by Celyn to Robin during Viatela in 1719. The miracle recalled occurred in his adolescence, around 1715 by his background timeline. %%

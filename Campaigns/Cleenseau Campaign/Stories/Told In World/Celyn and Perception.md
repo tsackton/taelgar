@@ -2,10 +2,10 @@
 tags: [source]
 POV: 1720
 ---
-
 # Celyn and Perception
 
 %% Source email: “Over ten thousand words of Celyn ruminating about being perceived :},” sent by Kiya Nicoll on September 1, 2024. %%
+%% In-world time: Reflections range over experiences in Asineau and later encounters; 1720 is a broad reading position and individual passages recall earlier events. %%
 
 Before the miracle, Celyn had never thought much about appearances. He had been a furious, feral child, who had the sort of responsibilities that the fey-touched and peculiar had, and that did not at all depend on looking like anything in particular. If his hair had sometimes been full of leaves, that was not out of the ordinary for what he was, unlike perhaps the normal sorts of village girls like he had never been.
 
@@ -25,11 +25,7 @@ The problem came down to appearances. There was nothing he could do, no way he c
 
 Celyn was not entirely conscious that taking that other road would mean leaving Clawyn for longer than just the time it would take to seek out the second apprenticeship at the Wyrdling temple in Ruthin; he was seventeen, and not yet as good at seeing the patterns of fate as he would become later. Nonetheless, he knew that that path would have changes he could not anticipate and would not understand when he gathered his things and started to walk west, towards the river, towards Ruthin. He accepted those changes, whatever they might be; that was the only way forward, however strange his life might appear to him afterwards.
 
-
-
 ***
-
-
 
 Learning was sometimes complicated. Celyn hadn’t shared a bed since he was too young to remember, not before he was bundled into one with someone in Ruthin, and that was how he learned that he hated any sort of company when he slept, hated the possibility of it, the sense that someone might see him when he wasn’t in control of how he looked, when he had to take the bindings off because Eirian scolded him when he wore them constantly. It was all terribly awkward, but he eventually wound up with a creaky cot in someone’s attic and didn’t have to worry about being perceived when he was vulnerable anymore. And nobody had to worry about his foul temper when he felt that he was being seen incorrectly, either, which he suspected was a relief to more than just himself.
 
@@ -283,4 +279,3 @@ And what he was not.
 
 Afterwards, when Celyn slept, he curled up with Robin between him and the rest of everyone around them. It was not as far as he wanted towards trust, but it was something that he could do.
 
-%% In-world time: Reflections range over experiences in Asineau and later encounters; 1720 is a broad reading position and individual passages recall earlier events. %%

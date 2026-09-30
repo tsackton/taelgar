@@ -15,8 +15,8 @@ players: [Izgil, Robin, Viepuck, Celyn]
 * [[Duncan Rivers]], an innkeeper
 ### Timeline
 * December 10th: [[People/PCs/Cleenseau/Izgil Moonseeker|Izgil]] returns with rumors of chaos in the [[Army of the West|Army of the West]]
-* December 12th: the party celebrates [[Viatela]] and learns of [[Eremon|Eremon's]] bad dreams of a redcap
-* December 13th: the party investigates [[Abigail Moss|Abigail Moss's]] orchard
+* December 11th: the party celebrates [[Viatela]] and learns of [[Eremon|Eremon's]] bad dreams of a redcap
+* December 12th: the party investigates [[Abigail Moss|Abigail Moss's]] orchard
 * December 30th: the party hears of [[Duncan Rivers]] and his missing ale at a [[Pyravela]] party
 * January 1st, evening: the party waits for a mysterious fey in the fields near [[Taviose]]
 * January 2nd, pre-dawn: the party kills a redcap and encounters a mysterious fey
