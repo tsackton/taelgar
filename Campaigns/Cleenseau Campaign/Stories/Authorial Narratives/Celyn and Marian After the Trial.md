@@ -1,13 +1,12 @@
 ---
-tags: [source, status/check/ai]
+tags: [story]
+campaign: Cleenseau
+DR: 1720-03-24
 POV: 1720
 ---
 # Celyn and Marian After the Trial
 
-_Email from Kiya Nicoll <darkhawk@mindspring.com>, October 9, 2025; subject: “Celyn goes and talks to Marian.”_
-
-%% Source: [[Celyn Goes and Talks to Marian (Email)]]. The email's out-of-game preamble is omitted from this story. %%
-
+%% Email from Kiya Nicoll on October 9, 2025 with subject "Celyn goes and talks to Marian." %%
 
 Celyn is not gifted at pastoral care, to say the least, but he spends the few days required to get the dead properly tended helping with that, performing the appropriate prayers and rites or assisting with them. Once the immediate needs are tended to, he takes a few hours to wander, giving perhaps the impression that staying put is bothering him and he needs to stretch his legs.
 
@@ -49,4 +48,3 @@ He looks up. “The lightning was so clear. Maybe almost as clear as the shadow 
 
 He arches his back, pressing his shoulders against the wall, to get back to his feet without using his hands at all. He sets the winebottle on a table so she can have the rest of it. “She tried to drown me,” he says, very neutrally. “The Wyrdling protected me from the worst of it. Robin protects me from the rest. And she’s dead, and Peydon is free. I’m all right with those pips.”
 
-%% In-world time: Celyn’s visit to Marian after the Veltor trial, approximately March 24, 1720, as dated in the existing interlude; the email was sent in October 2025. %%

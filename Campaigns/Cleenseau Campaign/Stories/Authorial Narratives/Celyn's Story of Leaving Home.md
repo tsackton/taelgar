@@ -1,19 +1,20 @@
 ---
-tags: [source, status/check/ai]
+tags: [story]
+campaign: Cleenseau
 POV: 1710s
 ---
 
 # Celyn's Story of Leaving Home
 
->[!Info]- This is Celyn's story of how he left home; please don't read it unless it has been revealed in game
+> [!Info]- This is Celyn's story of how he left home; please don't read it unless it has been revealed in game
 >
->After he had learned what [[Eirian]] had to teach him, [[Celyn]] returned home. He had no particular impulses, no particular guidance otherwise; he had gotten what he needed, and the burning fury at everything feeling wrong, of curves and cycles and all of that, finally quelled in the acceptance that he was out of season, and the discomforts could be managed.
+> After he had learned what [[Eirian]] had to teach him, [[Celyn]] returned home. He had no particular impulses, no particular guidance otherwise; he had gotten what he needed, and the burning fury at everything feeling wrong, of curves and cycles and all of that, finally quelled in the acceptance that he was out of season, and the discomforts could be managed.
 >
->Things were all right for a while. He settled back into his routines: cleaning the standing stones. Playing the drum and wondering if anyone heard, if he was assisting at some invisible revel that mortal eyes were not permitted to see and mortal eyes were not permitted to hear. Pouring out the wine, when it was time for wine, and sometimes being accosted by some fey who wanted a drink of it rather than the traditional libations. He wove flower crowns again, when it was the season for flowers, enough for every child who asked and the adults who were willing. He added to this gathering the herbs that would ease the unease of his body, or the others that would make for the sorts of cosmetic that, when dried, would let him reshade his jawline, to look not older but just that little bit blockier, that meant when he saw his face he saw himself. He took time for small prayers of gratitude, of celebration, when the impulse struck, and he looked for the holy place with the tree out of season in it, but he never found it.
+> Things were all right for a while. He settled back into his routines: cleaning the standing stones. Playing the drum and wondering if anyone heard, if he was assisting at some invisible revel that mortal eyes were not permitted to see and mortal eyes were not permitted to hear. Pouring out the wine, when it was time for wine, and sometimes being accosted by some fey who wanted a drink of it rather than the traditional libations. He wove flower crowns again, when it was the season for flowers, enough for every child who asked and the adults who were willing. He added to this gathering the herbs that would ease the unease of his body, or the others that would make for the sorts of cosmetic that, when dried, would let him reshade his jawline, to look not older but just that little bit blockier, that meant when he saw his face he saw himself. He took time for small prayers of gratitude, of celebration, when the impulse struck, and he looked for the holy place with the tree out of season in it, but he never found it.
 >
->[[Clawyn]] was not large enough for it to be likely there was another trans man there. It meant he occasionally went on a hike down the slopes to [[Nefyn]], the nearest village that wasn’t home, down where the land was flatter and better for grain. [[Trefor|Grandfather Trefor]] there worked as the administrator for the little temple to the Father. He was a big round man, broad-shouldered, and had managed to grow the sort of amazing beard that eluded Celyn entirely, surely as glorious as what he’d heard dwarves could do.
+> [[Clawyn]] was not large enough for it to be likely there was another trans man there. It meant he occasionally went on a hike down the slopes to [[Nefyn]], the nearest village that wasn’t home, down where the land was flatter and better for grain. [[Trefor|Grandfather Trefor]] there worked as the administrator for the little temple to the Father. He was a big round man, broad-shouldered, and had managed to grow the sort of amazing beard that eluded Celyn entirely, surely as glorious as what he’d heard dwarves could do.
 >
->[[Trefor|Grandfather Trefor]] liked things neat and tidy and orderly and Celyn did not think they had all that much in common at all, but he tried to find things, to learn things, about growing into a man the hard and twisty way.
+> [[Trefor|Grandfather Trefor]] liked things neat and tidy and orderly and Celyn did not think they had all that much in common at all, but he tried to find things, to learn things, about growing into a man the hard and twisty way.
 >
 > But when he asked, “Was it hard for you, growing into a man?” Grandfather Trefor said, “Oh, no. Of course I had to talk to the apothecary to make everything come out right in the end, but that’s hardly any trouble, now, is it? Do you need help with the apothecary part?”
 >
@@ -114,5 +115,7 @@ POV: 1710s
 > Then he went to tell his mother.
 >
 > It was, perhaps, six months later, while he was playing dice— a delightful thing that thrilled him in ways that were difficult to explain— with some of the players in the travelling theater that he had joined, that he wondered how much of the disruption of Ifan’s injury had been part of the necessary chaos to force him to leave the nest. He considered it for a while, until one of the players elbowed him to take his turn with the dice; he considered it and then decided that if fate had found him that way, he would figure it out when it became relevant. It was not a problem for now.
+
+%% Email from Kiya Nicoll on March 14, 2024 with subject "Celyn leaving Clawyn" %%
 
 %% In-world time: Celyn leaves Clawyn after his training in Ruthin, probably around 1716–1717; the exact year is uncertain. %%

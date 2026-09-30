@@ -1,10 +1,11 @@
 ---
+tags: [story]
+campaign: Cleenseau
 excludePublish: ["all"]
-tags: [source, status/check/ai]
 POV: 1710s
 ---
-
 # Celyn and the Players II
+%% In-world time: With Mahaut’s Miracle Players, approximately 1716–1719; exact date unknown. %%
 
 Sometimes Celyn climbed up to sit on top of one of the Players’ wagons. It took time and effort and the use of a bit of scaffolding, generally speaking, but once he was there he could sprawl out and just be and watch the birds or listen to whatever was going on where they were encamped. Mahaut knew where he was, of course, but Mahaut had her finger on the pulse of everything.
 
@@ -26,4 +27,3 @@ There was a short pause before she said, “Oh?”
 
 “He could tell I wouldn’t like it, so he was different. And brought me all the gossip.” Celyn waved a hand in the air and proceeded to talk her ear off about Ellis for a while, until she said she had things to do and climbed back down. He felt maybe a little bad about leading her to the conclusion that he didn’t fancy women at all but Antonin did not at all seem to mind her turning her attentions to him, really.
 
-%% In-world time: With Mahaut’s Miracle Players, approximately 1716–1719; exact date unknown. %%

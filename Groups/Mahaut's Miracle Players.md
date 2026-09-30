@@ -14,3 +14,5 @@ typeOf: acting troupe
 Mahaut’s Miracle Players are a traveling troupe of performers, known for staging miracle plays and other road‑show entertainment. [[Celyn]], later famous as one of the [[Heroes of Cleenseau]], [[Celyn and Mahaut’s Miracle Players|traveled with the troupe]] for a time in the early DR 1700s.
 
 The troupe's cast included Josse, a playwright; Adri Lightfoot, a halfling musician and illusionist; Ruby, who handled costumes; Piet, a juggler; Antonin and Charlotte, actors; and Alys, an acrobat. Mahaut managed the troupe and its productions, while her husband handled its accounts
+
+Their regular route runs through [[Telham]], [[Embry]], [[Wisford]], [[Eskbridge]], and [[Tafolwern]]. They sometimes travel upriver along the Semb of Wistel and once reached [[Western Cymea]]. Mahaut was not a member of the Theatrical Guild, so visits to [[Tollen]] were for rest and supplies, including cloth and costumes, rather than performances in the city. A bandit attack near Wisford shortly before Celyn left the troupe was unusual for the heartland and alarmed locals.

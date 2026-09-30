@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike]
+tags: [ancestry]
 name: Mariners
 aliases: [Hkaran Mariners]
 dm_owner: joint

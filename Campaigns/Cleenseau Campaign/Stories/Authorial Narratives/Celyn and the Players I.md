@@ -1,10 +1,11 @@
 ---
+tags: [story]
+campaign: Cleenseau
 excludePublish: ["all"]
-tags: [source, status/check/ai]
 POV: 1710s
 ---
-
 # Celyn and the Players I
+%% In-world time: With Mahaut’s Miracle Players, approximately 1716–1719; exact date unknown. %%
 
 Travelling with the Players was very good for what Celyn considered his most important work: taking care of the Wyrdling’s people. Which was, on the one hand, looking out for Josse, as a playwright, and also possibly a bit mad, but on the other, they went through any number of small villages that might have people like him, who he could find and help. Sometimes he got a little nudging sense to go somewhere and find someone, and more often than not it meant finding someone to help, in particular.
 
@@ -59,5 +60,3 @@ What he knew now was that being out of season with himself, without knowing what
 It was something he could make choices about now. The Wyrdling made sure that he could make choices about having a knife made of madness at the heart of him; the knowledge of it being there kept him safe, kept other people safe. He could take it out when he needed it; he could put it away. He needed to remember it was there, and that it might come out when he didn’t want it, if he was pushed out of season again. Like when he had been thought of as a girl. Like when they tried to give the Mother credit for him.
 
 Ellis had been so smart, to see that those felt like the same thing to him.
-
-%% In-world time: With Mahaut’s Miracle Players, approximately 1716–1719; exact date unknown. %%

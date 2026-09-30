@@ -4,7 +4,6 @@ campaign: Cleenseau
 DR: 1720-01-25
 POV: 1720
 ---
-
 # Celyn Talks to Horses
 %% Source: Kiya Nicoll's email sent July 4, 2024, at 14:59:26 -0400; subject: "Random little scenelet"  %%
 
