@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (203 files):** Meta/Rules 35; Extractable Info 50; Story or Monologue 24; Narrative 0; Session Extension 53; Session 41.
+**Counts (201 files):** Meta/Rules 35; Extractable Info 50; Story or Monologue 22; Narrative 0; Session Extension 53; Session 41.
 
 ## Raw Emails
 
@@ -38,7 +38,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn and Robin After the Session (Email)|Celyn and Robin After the Session (Email)]] | Story or Monologue | Player-authored proposed Celyn and Robin scene. |
 | [[Raw Emails/Celyn and Robin I|Celyn and Robin I]] | Story or Monologue | Celyn-focused proposed scene after the rescue. |
 | [[Raw Emails/Celyn and the Cursed Room (Email)|Celyn and the Cursed Room (Email)]] | Story or Monologue | Celyn's internal reaction written as a character scene. |
-| [[Raw Emails/Celyn and the Horses (Email)|Celyn and the Horses (Email)]] | Story or Monologue | Single player-authored character scenelet. |
 | [[Raw Emails/Celyn and the Merriweathers|Celyn and the Merriweathers]] | Story or Monologue | Celyn's proposed clothing consultation scene. |
 | [[Raw Emails/Celyn Background Discussion (Email)|Celyn Background Discussion (Email)]] | Extractable Info | Character background and setting discussion, with proposals. |
 | [[Raw Emails/Celyn Character Creation (Email)|Celyn Character Creation (Email)]] | Extractable Info | Early character concept and background discussion. |
@@ -124,7 +123,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Izgil Research Rules (Email)|Izgil Research Rules (Email)]] | Meta/Rules | Research procedure and rule proposals. |
 | [[Raw Emails/Juvenile Delinquent Celyn - Correspondence (Email)|Juvenile Delinquent Celyn - Correspondence (Email)]] | Story or Monologue | Long Celyn childhood story with feedback. |
 | [[Raw Emails/Last Session - Sanctuary (Email)|Last Session - Sanctuary (Email)]] | Session Extension | Clarifies Izgil's telescope experience. |
-| [[Raw Emails/Letter from Enford (Email)|Letter from Enford (Email)]] | Story or Monologue | In-world letter from Enford. |
 | [[Raw Emails/Letter Responses (Email)|Letter Responses (Email)]] | Session Extension | Party responses to recent in-world letters. |
 | [[Raw Emails/Loose Ends (Email)|Loose Ends (Email)]] | Session Extension | Outstanding leads from the previous session. |
 | [[Raw Emails/Lunar Sorcerer Feature (Email)|Lunar Sorcerer Feature (Email)]] | Meta/Rules | Lunar sorcerer mechanics discussion. |

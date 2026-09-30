@@ -1,9 +1,12 @@
 ---
-tags: [source, status/check/ai]
+tags: [story]
+campaign: Cleenseau
+DR: 1720-01-25
 POV: 1720
 ---
 
 # Celyn Talks to Horses
+%% Source: Kiya Nicoll's email sent July 4, 2024, at 14:59:26 -0400; subject: "Random little scenelet"  %%
 
 It wasn’t most days, but it was a number of them, that Celyn would go and take his time making sure the horses were fed, tracing out the slow patterns that meant that by the time they were settled and ready to be tacked up he could hear them whickering and muttering among themselves and understand what they meant by it.
 
@@ -26,4 +29,4 @@ The spell was fading off and he could feel it, so he paused in dealing with the 
 
 The gryphon never seemed to say anything, and he wasn’t at all sure if it was that he only spoke to Robin or that his spell was not strong enough to translate. A bit whimsically, Celyn added, “I suspect you are too magnificent a being for my mortal magics to translate,” bobbed again, and went back to dealing with the horses.
 
-%% In-world time: About January 25, 1720. Kiya's July 4, 2024 email explicitly places this scenelet around that date, at the start of Session 15. %%
+
