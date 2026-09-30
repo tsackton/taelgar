@@ -99,12 +99,14 @@ The timeline is:
 
 * February 6th: party meets Gareth on the road
 
-* February 8th: Gareth's execution
+* February 7th: Gareth's execution
 
 * February 9th: current time (Viepuck's sending day)
 
   
 
-Elizabeth is telling this story either February 7th or 8th. So "about a week" ago when she met Gareth would have been February 1st or 2nd, which is 5-6 days after news of the elders caused problem story reached Cleenseau (and it would have reached Rinburg sooner).
+Elizabeth is telling this story on February 7th, before Gareth's execution. So "about a week" earlier, when she met Gareth, would have been around January 31st or February 1st, roughly 5-6 days after news of the elders caused problem story reached Cleenseau (and it would have reached Rinburg sooner).
+
+The original email chronology gave February 8 for Gareth's execution. February 7 is canonical, as recorded in [[Gareth of Tollen]] and confirmed by the user.
 
 %%

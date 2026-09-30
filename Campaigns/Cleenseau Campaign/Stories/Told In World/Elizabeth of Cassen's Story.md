@@ -1,5 +1,6 @@
 ---
 tags: [source, status/check/ai]
+DR: 1720-02-07
 POV: 1720
 ---
 # [[Elizabeth of Cassen|Elizabeth's]] Story
@@ -23,14 +24,14 @@ Her story continues:
 >
 > This seemed to amuse him, and after a bit of back and forth, I ended up hired.
 >
-  >He seemed quite concerned about the Night Queen, he asked me several times to be sure I wasn't working for those cursed elders who brought these walking dead down on us. And he wanted to be sure I knew King Robert and the Baroness d'Aslain were fighting for us, and things might be done a little unusual, but it was necessary, what with these times.
-  >
- >He showed me his letters and authorizations, and said to meet by just outside Chantefleur, near the bridge over the Auberonne, in two days. I didn't dare ask around much about Gareth, as, well, no one knew I'd fled Casson, and in the night I still dread what I did? Could I have saved some of my kinsman and friends if I had stayed to fight?"
+> He seemed quite concerned about the Night Queen, he asked me several times to be sure I wasn't working for those cursed elders who brought these walking dead down on us. And he wanted to be sure I knew King Robert and the Baroness d'Aslain were fighting for us, and things might be done a little unusual, but it was necessary, what with these times.
 >
->So we set out from Rinburg, riding for Cleenseau - Beury was to be our first stop. I kept to myself mostly. Gareth seemed to enjoy throwing his weight around. When we got to Champimont he demanded the best rooms and kept calling for ale and wine and spilling it on the barkeeps, and blaming them. I tried to talk to him, but he pulled me aside, and said: We are passing through Cassen soon. Do you want everyone there to know you ran away rather than fight for them? If so, keep talking. Otherwise shut up and stay out of my way."
+> He showed me his letters and authorizations, and said to meet by just outside Chantefleur, near the bridge over the Auberonne, in two days. I didn't dare ask around much about Gareth, as, well, no one knew I'd fled Casson, and in the night I still dread what I did? Could I have saved some of my kinsman and friends if I had stayed to fight?"
 >
->I don't know how he knew that story. I shut up and kept my head down, until I saw you on the road standing up to him. It was inspiring.
+> So we set out from Rinburg, riding for Cleenseau - Beury was to be our first stop. I kept to myself mostly. Gareth seemed to enjoy throwing his weight around. When we got to Champimont he demanded the best rooms and kept calling for ale and wine and spilling it on the barkeeps, and blaming them. I tried to talk to him, but he pulled me aside, and said: We are passing through Cassen soon. Do you want everyone there to know you ran away rather than fight for them? If so, keep talking. Otherwise shut up and stay out of my way."
 >
- I don't know what his game was but I'm worried, if as you believe, he wasn't really collecting taxes. What did I get myself mixed up in?
+> I don't know how he knew that story. I shut up and kept my head down, until I saw you on the road standing up to him. It was inspiring.
+>
+> I don't know what his game was but I'm worried, if as you believe, he wasn't really collecting taxes. What did I get myself mixed up in?
 
 %% In-world time: Told by Elizabeth on February 7, 1720; the events recounted occurred earlier. %%
