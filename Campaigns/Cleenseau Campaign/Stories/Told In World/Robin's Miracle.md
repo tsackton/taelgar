@@ -1,5 +1,7 @@
 ---
 tags: [source, status/check/ai]
+campaign: Cleenseau
+DR: 1720-01-14
 POV: 1720
 ---
 
@@ -20,4 +22,4 @@ POV: 1720
 >
 > Skeletons arose from the wreckage, and the battle continued, and the presence faded away, behind the veil. But Robin still thinks of how it felt, when that power moved through him.
 
-%% In-world time: Reflection on an early-1720 undead battle, linked from Session 12; the exact scene day is not established. %%
+%% Email from Mike Sackton on March 24, 2024 with subject "The Morning the Wanderer Blessed Robin" %%

@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (201 files):** Meta/Rules 35; Extractable Info 50; Story or Monologue 22; Narrative 0; Session Extension 53; Session 41.
+**Counts (198 files):** Meta/Rules 33; Extractable Info 50; Story or Monologue 21; Narrative 0; Session Extension 53; Session 41.
 
 ## Raw Emails
 
@@ -50,7 +50,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn Leaving Clawyn - Correspondence (Email)|Celyn Leaving Clawyn - Correspondence (Email)]] | Story or Monologue | Celyn's departure story with DM feedback. |
 | [[Raw Emails/Celyn on the Road to Tharwa Fea|Celyn on the Road to Tharwa Fea]] | Story or Monologue | Character-focused travel flashback. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
-| [[Raw Emails/Celyn Research Notes (Email)|Celyn Research Notes (Email)]] | Meta/Rules | Real-world research notes for writing background. |
 | [[Raw Emails/Celyn Sends Wine to His Sister (Email)|Celyn Sends Wine to His Sister (Email)]] | Story or Monologue | Proposed in-character letter and gifts; sending unconfirmed. |
 | [[Raw Emails/Celyn Transition Journey Notes (Email)|Celyn Transition Journey Notes (Email)]] | Meta/Rules | Out-of-game personal research and character approach. |
 | [[Raw Emails/Celyn's Fey Safety and News (Email)|Celyn's Fey Safety and News (Email)]] | Session Extension | Follow-up to Session 15 and possible party briefing. |
@@ -167,7 +166,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Temple in Asineau - Prophecy (Email)|Temple in Asineau - Prophecy (Email)]] | Session | Extended Celyn and El prophecy conversation. |
 | [[Raw Emails/The Hunter's Letter (Email)|The Hunter's Letter (Email)]] | Session | Long independent exchange around the Hunter's letter. |
 | [[Raw Emails/The Merriweathers (Email)|The Merriweathers (Email)]] | Story or Monologue | Player-authored Celyn clothing scene setup. |
-| [[Raw Emails/The Morning the Wanderer Blessed Robin (Email)|The Morning the Wanderer Blessed Robin (Email)]] | Story or Monologue | DM account of Robin's blessing with brief response. |
 | [[Raw Emails/The Oracle of Hope (Email)|The Oracle of Hope (Email)]] | Session | Substantial interactive Oracle scene. |
 | [[Raw Emails/The Plan (Email)|The Plan (Email)]] | Meta/Rules | Tactical combat plan, not played action. |
 | [[Raw Emails/The Situation in Asineau (Email)|The Situation in Asineau (Email)]] | Extractable Info | Situation briefing and manor details. |
@@ -181,7 +179,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Viepuck Character Creation (Email)|Viepuck Character Creation (Email)]] | Extractable Info | Early character premise and timeline. |
 | [[Raw Emails/Viepuck City and Background Discussion (Email)|Viepuck City and Background Discussion (Email)]] | Extractable Info | City options and character-background decisions. |
 | [[Raw Emails/Viepuck Game Opening (Email)|Viepuck Game Opening (Email)]] | Session Extension | Pre-session opening setup and responses. |
-| [[Raw Emails/Viepuck In-Game Discussion (Email)|Viepuck In-Game Discussion (Email)]] | Meta/Rules | Brief intended in-game conversation, unplayed here. |
 | [[Raw Emails/Viepuck Name and Background (Email)|Viepuck Name and Background (Email)]] | Extractable Info | Initial alias and background clarification. |
 | [[Raw Emails/Viepuck Sending Responses (Email)|Viepuck Sending Responses (Email)]] | Session Extension | Additional response to played Sendings. |
 | [[Raw Emails/Viepuck Timeline Planning (Email)|Viepuck Timeline Planning (Email)]] | Meta/Rules | Early campaign timeline planning. |
