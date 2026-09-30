@@ -46,7 +46,7 @@ The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] is fought just south
 
 After Treaty of Châteauclair in 1602, the [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends and the [[Shattered Ice Clan]] is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat intact Drankorian fort on the south bank of the Enst. The next 40 years, until the Third Hobgoblin War starts in 1644, are tense and highly fortified.
 
-In late fall DR 1646, during the darkest period of the Third Hobgoblin War, Cleenseau is sacked and conqueored by the hobgoblins. The entire population is put to death, and the hobgoblins massively fortify it as a "beachhead" on the north side of the Enst from which many raids are launched. In particular, the build a hillfort on top of the old Sembaran garrison, and a wall that incorporates the Crossroads Inn, which is used as a headquarters and feasting hall. The entire area around Cleenseau is depopulated as either hobgoblin raids kill people or they flee to safer places.
+In late fall DR 1646, during the darkest period of the Third Hobgoblin War, Cleenseau is sacked and conqueored by the hobgoblins. The entire population is put to death, and the hobgoblins massively fortify it as a "beachhead" on the north side of the Enst from which many raids are launched. In particular, the build a hillfort on top of the old Sembaran garrison, and a wall that incorporates the Crossroads Inn, which is used as a headquarters and feasting hall. The entire area around Cleenseau is depopulated as either hobgoblin raids kill people or they flee to safer places.  Most of the population was killed; a small number of halflings, mostly Stonebridges, were kept alive to cook and maintain the inn.
 
 In the early spring of DR 1649, Cece reconqueors the town and it is a large staging spot for military campaigns to the south, but no population returns. In DR 1651 Cece gives the lordship of Cleenseau to one of her young army captains, [[Reginald Essford]] in honor of his heroic service, and he builds [[Essford Manor]] on the ruins of the hobgoblin fortifications. 
 
@@ -68,7 +68,7 @@ Over the 1650s the wall is rebuild, and the garrison reestablished, and the [[Re
 
 ### Some Specific Buildings
 
-* The Crossroads Inn was built in 1332 and survived Avatus and the Shattered Ice Clan. It was used as a place to help humans escape from Avatus during the 
+* The Crossroads Inn was built in 1392 and survived Avatus and the Shattered Ice Clan. It was used as a place to help humans escape from Avatus during the 
 * The military garrison was built in three stages. The 'old fort' dates to the 1550s, 'Elaine's fort' dates to the 1590s and was built for the 2nd hobgoblin war, and the 'new fort' dates to the 1650s when the garrison was reduced 
 * Smith's Way was originally part of the halfling land grant and attached to the Crossroads Inn. A few of the buildings are likely connected by the old secret tunnels
 * The old wall went from the North Gate south-east across what is now Essford Manor. Much of the wall to the east is still called the old wall.  This was first built in the 1550s and repaired many times
@@ -80,6 +80,6 @@ Over the 1650s the wall is rebuild, and the garrison reestablished, and the [[Re
 * Underhill was the ruins of the old sembaran and hobgoblin forts and not very well built up until the 1670s and 1680s when the population started to grow  many of the buildings incorporate stones from the old forts
 * Most of the nicer buildings in the garrison quarter date to the 1550s - 1590s and were converted from various garrison buildings in the 1660s. Land grants of relatively large and intact buildings was a key way [[Reginald Essford]] grew the town rapidly
 * [[The Fox's Flagon]] was built in 1689 as a business venture
-* [[The River's Blessing]] was built in 1709 after a bad flood damaged the other two outside the wall inns, originally as a temporary venture by halflings but it was then sold to the current owner in 1710
+* [[The River's Blessing]] was built in 1709 after a bad flood damaged the other two outside the wall inns, originally as a temporary venture by halflings but it was then sold to the current owner in 1711
 
 
