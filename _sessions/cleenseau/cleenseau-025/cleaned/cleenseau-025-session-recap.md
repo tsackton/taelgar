@@ -152,6 +152,7 @@ At [[Tharwa Fea]], the party studies an enchanted gate that admits visitors acco
 
 ## Related Writings
 
+- [[Celyn on the Road to Tharwa Fea]]
 - [[Celyn and the Cursed Room]]
 
 ## Source Files
