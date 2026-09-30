@@ -288,4 +288,3 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[SimManor Approach (Email)]]
 - [[Party Finances (Email)]]
 - [[Asineau Taxes and Income (Email)]]
-- [[Cleenseau Interlude Meta (Email)]]

@@ -77,13 +77,8 @@ Session headers belong in the selected session-note template. Do not add Cleense
 
 If the pipeline lacks a field needed by the approved format, fix the narrow pipeline gap rather than maintaining a hidden hand edit in generated output.
 
-## Preserve Play-by-Email Material
+## Use Reviewed Email Sources
 
-When reviewing correspondence, search both the vault's `Raw Emails` archive and actual mail, including archived and direct player mail. Avoid duplicating a piece already preserved elsewhere in the vault.
+For intake and retirement of Cleenseau `Raw Emails`, use [`cleenseau-email-review`](../cleenseau-email-review/SKILL.md). That workflow classifies the correspondence, preserves played GM/player turns under `_sessions/cleenseau`, and routes separately authored writings. Do not substitute a `Play by Email` reading copy for the session source bundle.
 
-- Put a single authored story or extended scene with in-world color, but no player exchange, in `Campaigns/Cleenseau Campaign/Stories`. Preserve the author's wording, including an identifying source link and date.
-- Put a substantial player/GM exchange in `Campaigns/Cleenseau Campaign/Play by Email` as its own note. Keep each newly authored turn in sent order with sender and email date. Omit repeated quoted-reply history, forwards of messages already included, and mail transport footers, but do not paraphrase the authored turns. Link the original thread and any existing `Raw Emails` archive.
-- Put an in-world letter in `Letters and Other Writings`. Fold background-only or world-information mail into the closest reviewed session recap when it is relevant; do not force a scene into a one-sentence summary.
-- Link separate writings from the appropriate session's optional `## Related Writings` section in the reviewed recap. The Cleenseau template renders this via `session.related_writings`; do not leave the link only in a final rendered note. For a manually maintained interlude, link the writing directly from that interlude.
-
-Email send dates are evidence of correspondence timing, not automatically the in-world date. Search mail-only named people and places before creating minimal staging pages, and keep uncertain identifications out of canon.
+Build or revise the session note from the reviewed source and recap as described above. Link separate writings from the appropriate session's optional `## Related Writings` section in the reviewed recap; the Cleenseau template renders this via `session.related_writings`. For a manually maintained interlude, link the writing directly from that interlude. Email send dates establish correspondence timing, not automatically the in-world date.
