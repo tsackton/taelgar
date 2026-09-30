@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (198 files):** Meta/Rules 33; Extractable Info 50; Story or Monologue 21; Narrative 0; Session Extension 53; Session 41.
+**Counts (195 files):** Meta/Rules 32; Extractable Info 50; Story or Monologue 19; Narrative 0; Session Extension 53; Session 41.
 
 ## Raw Emails
 
@@ -37,7 +37,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn and Izgil Discuss the Moon|Celyn and Izgil Discuss the Moon]] | Story or Monologue | Character-focused conversation presented as one piece. |
 | [[Raw Emails/Celyn and Robin After the Session (Email)|Celyn and Robin After the Session (Email)]] | Story or Monologue | Player-authored proposed Celyn and Robin scene. |
 | [[Raw Emails/Celyn and Robin I|Celyn and Robin I]] | Story or Monologue | Celyn-focused proposed scene after the rescue. |
-| [[Raw Emails/Celyn and the Cursed Room (Email)|Celyn and the Cursed Room (Email)]] | Story or Monologue | Celyn's internal reaction written as a character scene. |
 | [[Raw Emails/Celyn and the Merriweathers|Celyn and the Merriweathers]] | Story or Monologue | Celyn's proposed clothing consultation scene. |
 | [[Raw Emails/Celyn Background Discussion (Email)|Celyn Background Discussion (Email)]] | Extractable Info | Character background and setting discussion, with proposals. |
 | [[Raw Emails/Celyn Character Creation (Email)|Celyn Character Creation (Email)]] | Extractable Info | Early character concept and background discussion. |
@@ -55,7 +54,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn's Fey Safety and News (Email)|Celyn's Fey Safety and News (Email)]] | Session Extension | Follow-up to Session 15 and possible party briefing. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
 | [[Raw Emails/Celyn's Known Background (Email)|Celyn's Known Background (Email)]] | Extractable Info | What the party initially knows about Celyn. |
-| [[Raw Emails/Celyn's Letter to Pryce (Email)|Celyn's Letter to Pryce (Email)]] | Story or Monologue | In-character letter; in-world delivery needs confirmation. |
 | [[Raw Emails/Celyn's Light and Background Mindset (Email)|Celyn's Light and Background Mindset (Email)]] | Extractable Info | Player note on Celyn's outlook and magic. |
 | [[Raw Emails/Celyn's Proposed Letter to Blodwen (Email)|Celyn's Proposed Letter to Blodwen (Email)]] | Story or Monologue | In-character proposed letter; sending unconfirmed. |
 | [[Raw Emails/Celyn's Redcap Theory (Email)|Celyn's Redcap Theory (Email)]] | Extractable Info | Player's in-world theory, not established fact. |
@@ -149,7 +147,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Robin Character Background (Email)|Robin Character Background (Email)]] | Extractable Info | Robin's origins and lantern, including revisions. |
 | [[Raw Emails/Robin Dice Cloud Sheet Discussion (Email)|Robin Dice Cloud Sheet Discussion (Email)]] | Meta/Rules | Character sheet and house-rule discussion. |
 | [[Raw Emails/Robin Early Fighting Styles (Email)|Robin Early Fighting Styles (Email)]] | Meta/Rules | Proposed combat features. |
-| [[Raw Emails/Robin Healing and Fighting Style (Email)|Robin Healing and Fighting Style (Email)]] | Meta/Rules | Healing and fighting-style mechanics. |
 | [[Raw Emails/Robin or Faden Character Choice (Email)|Robin or Faden Character Choice (Email)]] | Meta/Rules | Pre-campaign alternative character selection. |
 | [[Raw Emails/Robin Rules and Competencies (Email)|Robin Rules and Competencies (Email)]] | Meta/Rules | Robin's mechanical options and choices. |
 | [[Raw Emails/Robin's Order Questions (Email)|Robin's Order Questions (Email)]] | Extractable Info | Unanswered questions and possible order details. |
