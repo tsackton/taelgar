@@ -1,27 +1,29 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Essford Manor
+lintedAt: "2026-09-29T18:22:03-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: building
-subTypeOf:
+subTypeOf: null
+typeOfAlias: manor
+name: Essford Manor
+pronunciation: ESS-ferd MAN-er
+whereabouts: Cleenseau
 dm_owner: mike
 dm_notes: color
-whereabouts: Cleenseau
-typeOfAlias: manor
+POV: modern
 ---
 # The Essford Manor
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade. 
-
-The manor complex itself consists of four buildings: a stable, a small shrine to the Night Queen, a guardhouse and barracks with several guest rooms, and the three-story manor building itself.
+The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade.  The manor complex itself consists of four buildings: a stable, a small shrine to the Night Queen, a guardhouse and barracks with several guest rooms, and the two-story manor building itself, with a main basement and root cellars below.
 
 It is built on top of an ancient hobgoblin fort, and in early 1720 a passageway to the abandoned fort was discovered underground, warded with several traps and protections from the Night Queen.
 
-%% There is a bunch of backstory i[[Cleenseau History Notes]]]] but I don't think it needs to be incorporated into this note 
+%% 
+There is a bunch of backstory i[[Cleenseau History Notes]]]] but I don't think it needs to be incorporated into this note 
 
 My DM notes for the dungeon underneath:
 The Cleenseau Dungeon consists of three levels:
@@ -40,5 +42,12 @@ The Cleenseau Dungeon consists of three levels:
 	* new buildings in particular the entrance area under Tumbledown Farm and the passages connecting the towers
 	* also the secret exit out to the Crossroads Inn, built by hobgoblins but need to decide why
 * Plus there are some other secret tunnels in the Crossroads Inn area, all very narrow. Need to think about why
-
 %%
+
+%%^Metadata:names:v1%%
+- {name: Essford Manor, language: Sembaran, pronunciation: ESS-ferd MAN-er, status: proposed, notes: "The English-style -ford surname in [[Essfords]] supports the English analogue of Sembaran in [[Languages]]: ESS rhymes with mess, unstressed -ford is ferd, and Manor uses ordinary English stress. This proposed reading is not an established in-world pronunciation."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the manor complex, with an explicitly dated account of the underground discovery in early DR 1720.
+%%^End%%
