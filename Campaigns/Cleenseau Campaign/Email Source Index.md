@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (187 files):** Meta/Rules 25; Extractable Info 50; Story or Monologue 18; Narrative 0; Session Extension 53; Session 41.
+**Counts (182 files):** Meta/Rules 20; Extractable Info 50; Story or Monologue 18; Narrative 0; Session Extension 53; Session 41.
 
 ## Raw Emails
 
@@ -41,7 +41,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn Background Discussion (Email)|Celyn Background Discussion (Email)]] | Extractable Info | Character background and setting discussion, with proposals. |
 | [[Raw Emails/Celyn Character Creation (Email)|Celyn Character Creation (Email)]] | Extractable Info | Early character concept and background discussion. |
 | [[Raw Emails/Celyn Childhood and Worldbuilding - Correspondence (Email)|Celyn Childhood and Worldbuilding - Correspondence (Email)]] | Story or Monologue | Player-authored childhood story with DM feedback. |
-| [[Raw Emails/Celyn Fey Trickster Discussion (Email)|Celyn Fey Trickster Discussion (Email)]] | Meta/Rules | Subclass mechanics and unadopted options. |
 | [[Raw Emails/Celyn Game Opening (Email)|Celyn Game Opening (Email)]] | Session Extension | Opening setup and response for the first session. |
 | [[Raw Emails/Celyn Goes and Talks to Marian (Email)|Celyn Goes and Talks to Marian (Email)]] | Story or Monologue | Explicitly written as Celyn's monologue to Marian. |
 | [[Raw Emails/Celyn Leaves the Players - Correspondence (Email)|Celyn Leaves the Players - Correspondence (Email)]] | Story or Monologue | Background story, then character and date discussion. |
@@ -49,7 +48,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn on the Road to Tharwa Fea|Celyn on the Road to Tharwa Fea]] | Story or Monologue | Character-focused travel flashback. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
 | [[Raw Emails/Celyn Sends Wine to His Sister (Email)|Celyn Sends Wine to His Sister (Email)]] | Story or Monologue | Proposed in-character letter and gifts; sending unconfirmed. |
-| [[Raw Emails/Celyn Transition Journey Notes (Email)|Celyn Transition Journey Notes (Email)]] | Meta/Rules | Out-of-game personal research and character approach. |
 | [[Raw Emails/Celyn's Fey Safety and News (Email)|Celyn's Fey Safety and News (Email)]] | Session Extension | Follow-up to Session 15 and possible party briefing. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
 | [[Raw Emails/Celyn's Known Background (Email)|Celyn's Known Background (Email)]] | Extractable Info | What the party initially knows about Celyn. |
@@ -95,8 +93,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Gareth's Ring (Email)|Gareth's Ring (Email)]] | Session Extension | Ring investigation as a short interlude. |
 | [[Raw Emails/Gareth's Story Discussion (Email)|Gareth's Story Discussion (Email)]] | Session Extension | Gareth's account and party reaction. |
 | [[Raw Emails/Gathering Intel - Hunter Planning (Email)|Gathering Intel - Hunter Planning (Email)]] | Meta/Rules | Tactical intentions before the Hunter scene. |
-| [[Raw Emails/Greymalkin 2026 Proposed Rules (Email)|Greymalkin 2026 Proposed Rules (Email)]] | Meta/Rules | Proposed stat and rules changes. |
-| [[Raw Emails/Greymalkin Rules Discussion (Email)|Greymalkin Rules Discussion (Email)]] | Meta/Rules | Greymalkin mechanics discussion. |
 | [[Raw Emails/Guy de Varan's Story - Correspondence (Email)|Guy de Varan's Story - Correspondence (Email)]] | Story or Monologue | Long in-world account with subsequent questions. |
 | [[Raw Emails/Halflings Balthazar and Tharwa Fea (Email)|Halflings Balthazar and Tharwa Fea (Email)]] | Session Extension | Regional update and short party follow-up. |
 | [[Raw Emails/Heir to House Griffin (Email)|Heir to House Griffin (Email)]] | Extractable Info | Proposed heir and house succession discussion. |
@@ -170,7 +166,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Viepuck Game Opening (Email)|Viepuck Game Opening (Email)]] | Session Extension | Pre-session opening setup and responses. |
 | [[Raw Emails/Viepuck Name and Background (Email)|Viepuck Name and Background (Email)]] | Extractable Info | Initial alias and background clarification. |
 | [[Raw Emails/Viepuck Sending Responses (Email)|Viepuck Sending Responses (Email)]] | Session Extension | Additional response to played Sendings. |
-| [[Raw Emails/Viepuck Timeline Planning (Email)|Viepuck Timeline Planning (Email)]] | Meta/Rules | Early campaign timeline planning. |
 | [[Raw Emails/Viepuck's Sendings (Email)|Viepuck's Sendings (Email)]] | Session | Extended interactive Sending sequence. |
 | [[Raw Emails/Viepuck's Trip to Fellburn (Email)|Viepuck's Trip to Fellburn (Email)]] | Session | Full Viepuck and Hubert play-by-email scene. |
 
