@@ -1576,7 +1576,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(report), "frontmatter.deprecated_field"
   end
 
-  def test_session_and_primary_source_authority_are_explicit_in_reports
+  def test_session_story_and_primary_source_authority_are_explicit_in_reports
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     session = validator.validate_text(
@@ -1587,9 +1587,16 @@ class ValidateTaelgarNoteTest < Minitest::Test
       "Primary Sources/Letter.md",
       "---\ntags: [source]\n---\n# Letter\n"
     )
+    story = validator.validate_text(
+      "Campaigns/Great Library Campaign/Stories/Story.md",
+      "---\ntags: [story]\ncampaign: Great Library\nPOV: 1750\n---\n# Story\n\nAn authorial account of a scene.\n"
+    )
 
     assert_equal "session-source", session.dig("note", "authority")
+    assert_equal "campaign-story", story.dig("note", "authority")
     assert_equal "primary-source", source.dig("note", "authority")
+    assert_equal "story", story.dig("note", "profile")
+    assert_equal false, story.dig("reviewGates", "pov", "povNotesApplicable")
   end
 
   private

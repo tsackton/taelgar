@@ -15,7 +15,7 @@ POV: 1750
 
 This is the article's best single temporal reading position: the date or era from which its undated prose reads most coherently. It is an editorial anchor, not a validity interval, a summary of every dated fact, or a claim that the article has continuous coverage around that point. The field belongs at the very end of frontmatter, immediately after `dm_notes` when that field is present.
 
-Every completed lint records `POV`. Most notes also use `povNotes`, but a note under `Campaigns/**` tagged `session-note`, `meta`, or `source` records only `POV` and must not contain a `povNotes` block. These campaign records already carry their chronology or documentary role in their own content and metadata; the extra interpretation block is not part of their profile.
+Every completed lint records `POV`. Most notes also use `povNotes`, but a note under `Campaigns/**` tagged `session-note`, `story`, `meta`, or `source` records only `POV` and must not contain a `povNotes` block. These campaign records already carry their chronology or documentary role in their own content and metadata; the extra interpretation block is not part of their profile.
 
 ## Values
 
@@ -94,7 +94,7 @@ Temporal coverage: a DR 1748 portrait of the subject in the same broad life stag
 %%^End%%
 ```
 
-`povNotes` is not used for notes under `Campaigns/**` tagged `session-note`, `meta`, or `source`. Everywhere else, it begins with `Temporal coverage:` and briefly explains how the article can be used away from its POV. It should record, when relevant:
+`povNotes` is not used for notes under `Campaigns/**` tagged `session-note`, `story`, `meta`, or `source`. Everywhere else, it begins with `Temporal coverage:` and briefly explains how the article can be used away from its POV. It should record, when relevant:
 
 - an approximate continuous range when the evidence supports one;
 - events or developments that bound the article before or after;
@@ -205,7 +205,7 @@ Temporal coverage: undated; the available evidence does not support a modern, de
 
 ## Linter behavior and legacy forms
 
-The linter validates that `POV` is a nonempty scalar and that a completed lint records one. It does not create a `povNotes` block for notes under `Campaigns/**` tagged `session-note`, `meta`, or `source`; a present block is a categorical finding for human review. For other notes, a temporal POV review requires exactly one nonempty `%%^povNotes:v1%%` plain-text block; when an absent block is protected by the version gate, its absence is preserved instead. The linter never removes an existing `povNotes` block: removal is always a human-only decision.
+The linter validates that `POV` is a nonempty scalar and that a completed lint records one. It does not create a `povNotes` block for notes under `Campaigns/**` tagged `session-note`, `story`, `meta`, or `source`; a present block is a categorical finding for human review. For other notes, a temporal POV review requires exactly one nonempty `%%^povNotes:v1%%` plain-text block; when an absent block is protected by the version gate, its absence is preserved instead. The linter never removes an existing `povNotes` block: removal is always a human-only decision.
 
 Contextual POV selection has its own `povReviewVersion` gate in [[Taelgar Note Linter]]. A present `povNotes` block bypasses that gate and is always rechecked together with `POV`. Only when `povNotes` is absent does the gate compare the prior lint: when the note has a valid `lintedAt` and a numeric `lintVersion` at or above the threshold, preserve its valid existing `POV` without recomputing it and preserve the absence of `povNotes`. Deterministic `POV` shape and presence validation, categorical block applicability, and validation of any present block still apply. When review is required, test `modern`, a decade, and a year in that order before permitting `undated`, and judge any applicable `povNotes` against the article's actual coverage.
 

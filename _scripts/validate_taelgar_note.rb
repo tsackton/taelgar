@@ -790,6 +790,7 @@ module TaelgarNoteLint
     def source_authority(note)
       profile = profile_for(note)
       return "session-source" if profile == "session-note"
+      return "campaign-story" if profile == "story"
       return "primary-source" if profile == "source"
 
       "reference"
@@ -999,7 +1000,7 @@ module TaelgarNoteLint
         end
         unless campaign_applicable
           add(findings, "campaign.unexpected_entity_field", "warning", "conditional",
-              "campaign identifies session notes, campaign meta pages, and campaign source material; " \
+              "campaign identifies session notes, campaign stories, meta pages, and source material; " \
               "use knownTo and audience for an in-world entity regardless of its directory.",
               line: note.field_line("campaign"), provisional: true)
         end
@@ -1043,7 +1044,7 @@ module TaelgarNoteLint
             details: path_campaign ? { "campaign" => path_campaign["name"] } : nil)
       elsif campaign_applicable && path_campaign && campaign_value.to_s.strip.empty?
         add(findings, "campaign.document_missing", "warning", "conditional",
-            "This campaign meta/source document should identify campaign #{path_campaign['name']}.",
+            "This campaign document should identify campaign #{path_campaign['name']}.",
             line: 1, provisional: true,
             details: { "campaign" => path_campaign["name"] })
       elsif campaign_applicable && path_campaign && campaign_code && campaign_code != path_campaign["code"]
