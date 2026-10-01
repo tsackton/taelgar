@@ -1,0 +1,565 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Session speaker review</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f3efe6;
+      --panel: #fffdf8;
+      --ink: #27251f;
+      --muted: #6f6a5f;
+      --line: #d9d1c3;
+      --accent: #345d54;
+      --accent-ink: #ffffff;
+      --warn: #8a542d;
+      --shadow: 0 14px 40px rgba(52, 45, 35, .10);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1c1d1a;
+        --panel: #262821;
+        --ink: #f3efe6;
+        --muted: #b9b3a7;
+        --line: #46483f;
+        --accent: #7eb2a3;
+        --accent-ink: #14211d;
+        --warn: #e0a66d;
+        --shadow: none;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font: 16px/1.45 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    main { width: min(920px, calc(100% - 32px)); margin: 36px auto 60px; }
+    header { display: flex; gap: 24px; align-items: end; justify-content: space-between; margin-bottom: 20px; }
+    h1 { font: 700 clamp(26px, 4vw, 40px)/1.05 ui-serif, Georgia, serif; margin: 0 0 7px; }
+    p { margin: 0; }
+    .muted { color: var(--muted); }
+    .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); }
+    .toolbar { display: flex; flex-wrap: wrap; gap: 10px; padding: 14px; margin-bottom: 14px; align-items: center; }
+    button {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: transparent;
+      color: inherit;
+      padding: 9px 12px;
+      font: inherit;
+      cursor: pointer;
+    }
+    button:hover, button:focus-visible { border-color: var(--accent); outline: none; }
+    button.active, button.primary { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+    button:disabled { opacity: .45; cursor: default; }
+    .spacer { flex: 1; }
+    .progress { min-width: 170px; text-align: right; }
+    .progress-bar { height: 7px; border-radius: 99px; background: var(--line); overflow: hidden; margin-top: 6px; }
+    .progress-bar > span { display: block; height: 100%; background: var(--accent); transition: width .2s ease; }
+    .card { padding: clamp(20px, 4vw, 34px); }
+    .eyebrow { color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-size: 12px; font-weight: 700; }
+    h2 { margin: 6px 0 8px; font-size: 24px; }
+    .meta { color: var(--muted); margin-bottom: 22px; }
+    .samples { display: grid; gap: 12px; margin: 18px 0 26px; }
+    .sample { border: 1px solid var(--line); border-radius: 13px; padding: 14px; display: grid; grid-template-columns: auto 1fr; gap: 13px; align-items: start; }
+    .play { min-width: 78px; }
+    .sample blockquote { margin: 0; font-size: 17px; }
+    .time { display: block; color: var(--muted); font-size: 13px; margin-top: 5px; }
+    .people { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 9px; }
+    .person { min-height: 58px; text-align: left; }
+    .person strong, .person span { display: block; }
+    .person span { color: var(--muted); font-size: 13px; }
+    .person.active span { color: inherit; opacity: .78; }
+    .specials { display: flex; gap: 9px; margin-top: 10px; flex-wrap: wrap; }
+    .status { min-height: 24px; margin-top: 17px; color: var(--muted); }
+    .warning { color: var(--warn); }
+    .verification-list { display: grid; gap: 18px; }
+    .verification-person { border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+    .verification-head { display: flex; gap: 16px; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+    .verification-head h2 { margin: 0; }
+    .verification-sample-controls { margin-top: 9px; }
+    .verification-sample-controls select { max-width: 100%; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); padding: 7px 9px; }
+    .nav { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; }
+    kbd { border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 1px 5px; font-size: 12px; }
+    .empty { text-align: center; padding: 70px 30px; }
+    audio { display: none; }
+    @media (max-width: 650px) {
+      header { display: block; }
+      .progress { text-align: left; margin-top: 14px; }
+      .sample { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>Speaker calibration</h1>
+        <p class="muted" id="subtitle">Loading session…</p>
+      </div>
+      <div class="progress">
+        <strong id="progress-text">0 of 0 groups</strong>
+        <div class="progress-bar"><span id="progress-fill" style="width:0"></span></div>
+      </div>
+    </header>
+
+    <section class="toolbar panel">
+      <button id="mode-groups" class="active">Calibration groups</button>
+      <button id="mode-exceptions">Exceptions <span id="exception-count"></span></button>
+      <button id="mode-verification">Verification</button>
+      <span class="spacer"></span>
+      <button id="show-blocking" disabled>Blocking only</button>
+      <button id="show-unreviewed" class="active">Unreviewed first</button>
+    </section>
+
+    <section class="panel card" id="review-card">
+      <div id="card-content"></div>
+    </section>
+    <audio id="audio" preload="metadata"></audio>
+  </main>
+
+  <script>
+    const state = {
+      review: null,
+      labels: null,
+      savedLabels: null,
+      mode: "groups",
+      index: 0,
+      blockingOnly: false,
+      unreviewedFirst: true,
+      stopTimer: null,
+      saving: false,
+      verificationSamples: {},
+    };
+
+    const byId = (items) => Object.fromEntries(items.map(item => [item.id, item]));
+    const escapeHtml = (value) => String(value).replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
+    const formatTime = (seconds) => {
+      const value = Math.max(0, Math.round(seconds));
+      const hours = Math.floor(value / 3600);
+      const minutes = Math.floor((value % 3600) / 60);
+      const secs = value % 60;
+      return `${String(hours).padStart(2,'0')}:${String(minutes).padStart(2,'0')}:${String(secs).padStart(2,'0')}`;
+    };
+
+    async function load() {
+      const [reviewResponse, labelsResponse] = await Promise.all([
+        fetch('/api/review'), fetch('/api/attributions')
+      ]);
+      if (!reviewResponse.ok || !labelsResponse.ok) throw new Error('Could not load review data');
+      state.review = await reviewResponse.json();
+      state.labels = await labelsResponse.json();
+      state.labels.verification ||= {};
+      state.savedLabels = JSON.stringify(state.labels);
+      state.utteranceById = byId(state.review.utterances);
+      state.groupById = byId(state.review.groups);
+      state.participantById = byId(state.review.participants);
+      state.blockingOnly = blockingExceptionCount() > 0;
+      state.referenceIds = state.review.referenceCollection?.utteranceIds || null;
+      if (state.referenceIds) {
+        state.mode = 'exceptions';
+        state.blockingOnly = false;
+        document.title = 'Reference clips';
+        document.querySelector('h1').textContent = 'Reference clips';
+        for (const id of ['mode-groups', 'mode-exceptions', 'mode-verification', 'show-blocking']) document.getElementById(id).hidden = true;
+      }
+      document.getElementById('subtitle').textContent = state.referenceIds
+        ? 'Choose the person you hear in each clip. Other saved decisions are preserved.'
+        : `${state.review.reviewId} · ${state.review.recordings.length} recordings · label groups, not every utterance`;
+      render();
+    }
+
+    function groupLabel(groupId) {
+      return state.labels.groupLabels[groupId] || null;
+    }
+
+    function exceptionItems() {
+      if (state.referenceIds) return state.referenceIds.map(id => state.utteranceById[id]);
+      const ids = new Set(state.review.exceptions.unclusteredUtteranceIds || []);
+      for (const [groupId, label] of Object.entries(state.labels.groupLabels)) {
+        if (label.status === 'mixed' || label.status === 'unknown') {
+          for (const id of state.groupById[groupId].memberUtteranceIds) ids.add(id);
+        }
+      }
+      const values = [...ids].map(id => state.utteranceById[id]);
+      return state.blockingOnly ? values.filter(isBlockingException) : values;
+    }
+
+    function effectiveLabel(utterance) {
+      return state.labels.utteranceOverrides[utterance.id]
+        || (utterance.groupId ? state.labels.groupLabels[utterance.groupId] : null)
+        || null;
+    }
+
+    function isBlockingException(utterance) {
+      if (!utterance.groupId) return false;
+      const label = effectiveLabel(utterance);
+      return !label || label.status === 'mixed' || label.status === 'unknown';
+    }
+
+    function blockingExceptionCount() {
+      return state.review.utterances.filter(isBlockingException).length;
+    }
+
+    function optionalExceptionCount() {
+      return (state.review.exceptions.unclusteredUtteranceIds || []).filter(id => !state.labels.utteranceOverrides[id]).length;
+    }
+
+    function verificationCandidates(participantId) {
+      const assigned = state.review.utterances.filter(utterance => {
+        const label = effectiveLabel(utterance);
+        return label?.status === 'assigned' && label.participantId === participantId;
+      });
+      const eligible = assigned.filter(utterance => utterance.durationSeconds >= 1.5 && utterance.wordCount >= 4);
+      return (eligible.length ? eligible : assigned).sort((a, b) => a.start - b.start || a.id.localeCompare(b.id));
+    }
+
+    function spreadSamples(candidates, count) {
+      if (candidates.length <= count) return [...candidates];
+      const selected = [];
+      for (let index = 0; index < count; index += 1) {
+        const position = Math.round(index * (candidates.length - 1) / Math.max(1, count - 1));
+        if (!selected.includes(candidates[position])) selected.push(candidates[position]);
+      }
+      return selected;
+    }
+
+    function verificationSamples(participantId) {
+      const saved = state.labels.verification[participantId];
+      if (saved?.sampleUtteranceIds?.length) {
+        const restored = saved.sampleUtteranceIds.map(id => state.utteranceById[id]).filter(Boolean);
+        if (restored.every(utterance => effectiveLabel(utterance)?.participantId === participantId)) return restored;
+      }
+      if (!state.verificationSamples[participantId]) {
+        const target = state.review.verification?.samplesPerParticipant || 10;
+        state.verificationSamples[participantId] = spreadSamples(verificationCandidates(participantId), target);
+      }
+      return state.verificationSamples[participantId];
+    }
+
+    function items() {
+      let values = state.mode === 'groups' ? [...state.review.groups] : exceptionItems();
+      if (state.unreviewedFirst) {
+        values.sort((a, b) => Number(isReviewed(a)) - Number(isReviewed(b)) || a.id.localeCompare(b.id));
+      }
+      return values;
+    }
+
+    function isReviewed(item) {
+      return state.mode === 'groups'
+        ? Boolean(state.labels.groupLabels[item.id])
+        : Boolean(state.labels.utteranceOverrides[item.id]);
+    }
+
+    function currentLabel(item) {
+      return state.mode === 'groups'
+        ? state.labels.groupLabels[item.id] || null
+        : state.labels.utteranceOverrides[item.id] || null;
+    }
+
+    function render() {
+      if (state.mode === 'verification') {
+        renderVerification();
+        return;
+      }
+      const values = items();
+      state.index = Math.max(0, Math.min(state.index, Math.max(0, values.length - 1)));
+      const groupReviewed = state.referenceIds ? state.referenceIds.filter(id => state.labels.utteranceOverrides[id]).length : Object.keys(state.labels.groupLabels).length;
+      const totalGroups = state.referenceIds ? state.referenceIds.length : state.review.groups.length;
+      document.getElementById('progress-text').textContent = `${groupReviewed} of ${totalGroups} ${state.referenceIds ? 'clips saved' : 'groups'}`;
+      document.getElementById('progress-fill').style.width = `${totalGroups ? 100 * groupReviewed / totalGroups : 0}%`;
+      const blocking = blockingExceptionCount();
+      const optional = optionalExceptionCount();
+      document.getElementById('exception-count').textContent = `(${blocking} blocking · ${optional} optional)`;
+      document.getElementById('mode-groups').classList.toggle('active', state.mode === 'groups');
+      document.getElementById('mode-exceptions').classList.toggle('active', state.mode === 'exceptions');
+      document.getElementById('mode-verification').classList.toggle('active', false);
+      document.getElementById('show-blocking').classList.toggle('active', state.mode === 'exceptions' && state.blockingOnly);
+      document.getElementById('show-blocking').disabled = state.mode !== 'exceptions';
+      document.getElementById('show-unreviewed').classList.toggle('active', state.unreviewedFirst);
+
+      const content = document.getElementById('card-content');
+      if (!values.length) {
+        const emptyLabel = state.mode === 'groups' ? 'groups' : (state.blockingOnly ? 'blocking exceptions' : 'exceptions');
+        content.innerHTML = `<div class="empty"><h2>No ${emptyLabel} to review</h2><p class="muted">Your saved decisions remain in the attribution file.</p></div>`;
+        return;
+      }
+      const item = values[state.index];
+      content.innerHTML = state.mode === 'groups' ? renderGroup(item, values.length) : renderException(item, values.length);
+      if (state.referenceIds && groupReviewed === totalGroups) content.insertAdjacentHTML('afterbegin', '<p class="status"><strong>All reference decisions are saved.</strong> Return to Codex to assess the references and prepare the audit.</p>');
+      wireButtons(item);
+    }
+
+    function renderGroup(group, total) {
+      const representatives = group.representativeUtteranceIds.map(id => state.utteranceById[id]);
+      const label = currentLabel(group);
+      return `
+        <div class="eyebrow">Calibration group ${state.index + 1} of ${total}</div>
+        <h2>${escapeHtml(group.id)}</h2>
+        <p class="meta">${group.utteranceCount} utterances · ${Math.round(group.speechSeconds)} seconds · Scribe IDs are weak evidence only</p>
+        <div class="samples">${representatives.map((utterance, index) => sampleHtml(utterance, `Play sample ${index + 1}`)).join('')}</div>
+        ${peopleHtml(label)}
+        <p class="status">${labelText(label)}</p>
+        ${navigationHtml(total)}
+      `;
+    }
+
+    function renderException(utterance, total) {
+      const recording = state.review.recordings.find(item => item.id === utterance.recordingId);
+      const label = currentLabel(utterance);
+      return `
+        <div class="eyebrow">${state.referenceIds ? 'Reference clip' : (isBlockingException(utterance) ? 'Blocking exception' : 'Optional exception')} ${state.index + 1} of ${total}</div>
+        <h2>${state.referenceIds ? 'Who is speaking?' : escapeHtml(utterance.id)}</h2>
+        <p class="meta">${escapeHtml(recording.audioPath.split('/').pop())} · ${formatTime(utterance.start)} · ${state.referenceIds ? 'identify this clip only; use Unknown or Overlap when needed' : (isBlockingException(utterance) ? 'resolve or refine before pipeline rendering' : 'short unclustered material may remain unknown')}</p>
+        <div class="samples">${sampleHtml(utterance, 'Play utterance')}</div>
+        ${peopleHtml(label)}
+        <p class="status">${labelText(label)}</p>
+        ${navigationHtml(total)}
+      `;
+    }
+
+    function sampleHtml(utterance, label) {
+      return `<div class="sample">
+        <button class="play" data-recording="${escapeHtml(utterance.recordingId)}" data-start="${utterance.start}" data-end="${utterance.end}">${escapeHtml(label)}</button>
+        <blockquote>“${escapeHtml(utterance.text)}”<span class="time">${formatTime(utterance.start)}–${formatTime(utterance.end)} · ${escapeHtml((utterance.scribeSpeakerIds || []).join(', '))}</span></blockquote>
+      </div>`;
+    }
+
+    function verificationSampleHtml(utterance, person) {
+      const options = state.review.participants.map(candidate =>
+        `<option value="${candidate.id}">Reassign to ${escapeHtml(candidate.gameRole)}</option>`
+      ).join('');
+      return `<div class="sample">
+        <button class="play" data-recording="${escapeHtml(utterance.recordingId)}" data-start="${utterance.start}" data-end="${utterance.end}">Play sample</button>
+        <blockquote>“${escapeHtml(utterance.text)}”<span class="time">${formatTime(utterance.start)}–${formatTime(utterance.end)}</span>
+          <div class="verification-sample-controls"><select data-verification-utterance="${utterance.id}">
+            <option value="">Keep as ${escapeHtml(person.gameRole)}</option>${options}<option value="mixed">Mark mixed</option><option value="unknown">Mark unknown</option>
+          </select></div>
+        </blockquote>
+      </div>`;
+    }
+
+    function renderVerification() {
+      const content = document.getElementById('card-content');
+      const blocking = blockingExceptionCount();
+      const confirmations = Object.keys(state.labels.verification).length;
+      const totalParticipants = state.review.participants.filter(person => verificationCandidates(person.id).length).length;
+      document.getElementById('progress-text').textContent = `${confirmations} of ${totalParticipants} people verified`;
+      document.getElementById('progress-fill').style.width = `${totalParticipants ? 100 * confirmations / totalParticipants : 0}%`;
+      document.getElementById('mode-groups').classList.toggle('active', false);
+      document.getElementById('mode-exceptions').classList.toggle('active', false);
+      document.getElementById('mode-verification').classList.toggle('active', true);
+      document.getElementById('show-blocking').classList.toggle('active', false);
+      document.getElementById('show-blocking').disabled = true;
+      document.getElementById('show-unreviewed').classList.toggle('active', false);
+      const optional = optionalExceptionCount();
+      document.getElementById('exception-count').textContent = `(${blocking} blocking · ${optional} optional)`;
+      if (blocking && !state.review.verification?.allowUnresolved) {
+        content.innerHTML = `<div class="empty"><h2>Finish calibration first</h2><p class="warning">${blocking} utterances remain in mixed, unknown, or unreviewed groups. Refine mixed groups rather than reviewing every utterance.</p></div>`;
+        return;
+      }
+      const blocks = state.review.participants.map(person => {
+        const samples = verificationSamples(person.id);
+        if (!samples.length) return '';
+        const confirmed = state.labels.verification[person.id]?.status === 'confirmed';
+        return `<section class="verification-person">
+          <div class="verification-head"><div><div class="eyebrow">Participant verification</div><h2>${escapeHtml(person.gameRole)}</h2><p class="muted">${escapeHtml(person.name)} · ${samples.length} time-spread samples</p></div>
+          <button class="${confirmed ? 'active' : 'primary'}" data-confirm-person="${person.id}" ${confirmed ? 'disabled' : ''}>${confirmed ? 'Verified' : 'Confirm samples'}</button></div>
+          <div class="samples">${samples.map(utterance => verificationSampleHtml(utterance, person)).join('')}</div>
+        </section>`;
+      }).filter(Boolean).join('');
+      const unresolvedWarning = blocking
+        ? `<p class="warning">${blocking} short or deliberately unresolved cues will retain their current labels and are outside this verification pass.</p>`
+        : '';
+      content.innerHTML = `${unresolvedWarning}<div class="verification-list">${blocks || '<div class="empty"><h2>No attributed speakers</h2></div>'}</div>`;
+      wireVerificationButtons();
+    }
+
+    function peopleHtml(label) {
+      return `<div class="people">${state.review.participants.map((person, index) => `
+        <button class="person ${label?.participantId === person.id ? 'active' : ''}" data-status="assigned" data-participant="${person.id}">
+          <strong><kbd>${index + 1}</kbd> ${escapeHtml(person.name)}</strong><span>${escapeHtml(person.gameRole)}</span>
+        </button>`).join('')}</div>
+        <div class="specials">
+          <button class="${label?.status === 'mixed' || label?.referenceDecision === 'overlap' ? 'active' : ''}" data-status="mixed"><kbd>M</kbd> ${state.referenceIds ? 'Overlap' : 'Mixed voices'}</button>
+          <button class="${label?.status === 'unknown' && label?.referenceDecision !== 'overlap' ? 'active' : ''}" data-status="unknown"><kbd>U</kbd> Unknown</button>
+          <button data-clear><kbd>X</kbd> Clear</button>
+        </div>`;
+    }
+
+    function labelText(label) {
+      if (state.referenceIds) {
+        if (!label) return 'Listen and identify the person heard in this clip.';
+        if (label.referenceDecision === 'overlap') return '<span class="warning">Saved as overlapping voices; this clip cannot become a voice reference.</span>';
+        if (label.status === 'unknown') return '<span class="warning">Saved as unknown; this clip cannot become a voice reference.</span>';
+      }
+      if (!label) return 'Unreviewed. Play one sample; use the others only when the voice is unclear.';
+      if (label.status === 'assigned') return `Saved as ${escapeHtml(state.participantById[label.participantId].display)}.`;
+      if (label.status === 'mixed') return '<span class="warning">Saved as mixed. Its utterances enter the blocking exception queue.</span>';
+      return '<span class="warning">Saved as unknown. Its utterances enter the blocking exception queue.</span>';
+    }
+
+    function navigationHtml(total) {
+      return `<div class="nav"><button id="previous" ${state.index === 0 ? 'disabled' : ''}>← Previous</button><span class="muted"><kbd>←</kbd> <kbd>→</kbd> navigate</span><button id="next" ${state.index + 1 >= total ? 'disabled' : ''}>Next →</button></div>`;
+    }
+
+    function wireButtons(item) {
+      document.querySelectorAll('.play').forEach(button => button.addEventListener('click', () => playSegment(button.dataset.recording, Number(button.dataset.start), Number(button.dataset.end))));
+      document.querySelectorAll('[data-status]').forEach(button => button.addEventListener('click', () => setLabel(item, button.dataset.status, button.dataset.participant || null)));
+      document.querySelector('[data-clear]').addEventListener('click', () => clearLabel(item));
+      document.getElementById('previous').addEventListener('click', () => move(-1));
+      document.getElementById('next').addEventListener('click', () => move(1));
+    }
+
+    async function setLabel(item, status, participantId) {
+      if (state.saving) return;
+      const target = state.mode === 'groups' ? state.labels.groupLabels : state.labels.utteranceOverrides;
+      const before = state.mode === 'groups' ? groupLabel(item.id) : effectiveLabel(item);
+      target[item.id] = state.referenceIds
+        ? {status: status === 'mixed' ? 'unknown' : status, participantId: status === 'assigned' ? participantId : null, humanVerified: true, provenance: 'reference-listening', referenceDecision: status === 'mixed' ? 'overlap' : status}
+        : {status, participantId: status === 'assigned' ? participantId : null};
+      const after = state.mode === 'groups' ? groupLabel(item.id) : effectiveLabel(item);
+      if (!state.referenceIds) invalidateVerification(before, after);
+      if (await save()) moveToNextUnreviewed();
+    }
+
+    async function clearLabel(item) {
+      if (state.saving) return;
+      const target = state.mode === 'groups' ? state.labels.groupLabels : state.labels.utteranceOverrides;
+      const before = state.mode === 'groups' ? groupLabel(item.id) : effectiveLabel(item);
+      delete target[item.id];
+      const after = state.mode === 'groups' ? groupLabel(item.id) : effectiveLabel(item);
+      if (!state.referenceIds) invalidateVerification(before, after);
+      await save();
+      render();
+    }
+
+    async function save() {
+      state.saving = true;
+      try {
+        const response = await fetch('/api/attributions', {
+          method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(state.labels)
+        });
+        if (!response.ok) throw new Error((await response.json()).error || 'Save failed');
+        state.labels.updatedAt = (await response.json()).updatedAt;
+        state.savedLabels = JSON.stringify(state.labels);
+        return true;
+      } catch (error) {
+        state.labels = JSON.parse(state.savedLabels);
+        state.verificationSamples = {};
+        render();
+        alert(`Could not save speaker decision: ${error.message}`);
+        return false;
+      } finally {
+        state.saving = false;
+      }
+    }
+
+    function invalidateVerification(...labels) {
+      const participantIds = new Set(labels
+        .filter(label => label?.status === 'assigned' && label.participantId)
+        .map(label => label.participantId));
+      for (const participantId of participantIds) {
+        delete state.labels.verification[participantId];
+        delete state.verificationSamples[participantId];
+      }
+    }
+
+    function wireVerificationButtons() {
+      document.querySelectorAll('.play').forEach(button => button.addEventListener('click', () => playSegment(button.dataset.recording, Number(button.dataset.start), Number(button.dataset.end))));
+      document.querySelectorAll('[data-confirm-person]').forEach(button => button.addEventListener('click', async () => {
+        if (state.saving) return;
+        const participantId = button.dataset.confirmPerson;
+        const samples = verificationSamples(participantId);
+        state.labels.verification[participantId] = {
+          status: 'confirmed',
+          sampleUtteranceIds: samples.map(item => item.id),
+          confirmedAt: new Date().toISOString(),
+        };
+        await save();
+        render();
+      }));
+      document.querySelectorAll('[data-verification-utterance]').forEach(select => select.addEventListener('change', async () => {
+        if (state.saving) return;
+        const utteranceId = select.dataset.verificationUtterance;
+        const utterance = state.utteranceById[utteranceId];
+        const before = effectiveLabel(utterance);
+        const value = select.value;
+        if (!value) delete state.labels.utteranceOverrides[utteranceId];
+        else if (value === 'mixed' || value === 'unknown') state.labels.utteranceOverrides[utteranceId] = {status: value, participantId: null};
+        else state.labels.utteranceOverrides[utteranceId] = {status: 'assigned', participantId: value};
+        const after = effectiveLabel(utterance);
+        invalidateVerification(before, after);
+        await save();
+        render();
+      }));
+    }
+
+    function move(delta) {
+      state.index += delta;
+      render();
+    }
+
+    function moveToNextUnreviewed() {
+      const values = items();
+      if (state.unreviewedFirst) {
+        const next = values.findIndex(item => !isReviewed(item));
+        state.index = next >= 0 ? next : Math.max(0, values.length - 1);
+      } else {
+        const next = values.findIndex((item, index) => index > state.index && !isReviewed(item));
+        if (next >= 0) state.index = next;
+        else state.index = Math.min(state.index + 1, values.length - 1);
+      }
+      render();
+    }
+
+    function playSegment(recordingId, start, end) {
+      const audio = document.getElementById('audio');
+      clearInterval(state.stopTimer);
+      const desiredSource = `/audio/${recordingId}`;
+      const begin = () => {
+        audio.currentTime = Math.max(0, start - .12);
+        audio.play();
+        state.stopTimer = setInterval(() => {
+          if (audio.currentTime >= end + .15 || audio.ended) {
+            audio.pause(); clearInterval(state.stopTimer);
+          }
+        }, 40);
+      };
+      if (!audio.src.endsWith(desiredSource)) {
+        audio.src = desiredSource;
+        audio.addEventListener('loadedmetadata', begin, {once: true});
+      } else begin();
+    }
+
+    document.getElementById('mode-groups').addEventListener('click', () => { state.mode = 'groups'; state.index = 0; render(); });
+    document.getElementById('mode-exceptions').addEventListener('click', () => { state.mode = 'exceptions'; state.index = 0; render(); });
+    document.getElementById('mode-verification').addEventListener('click', () => { state.mode = 'verification'; state.index = 0; render(); });
+    document.getElementById('show-blocking').addEventListener('click', () => { state.blockingOnly = !state.blockingOnly; state.index = 0; render(); });
+    document.getElementById('show-unreviewed').addEventListener('click', () => { state.unreviewedFirst = !state.unreviewedFirst; state.index = 0; render(); });
+    document.addEventListener('keydown', event => {
+      if (!state.review || state.saving) return;
+      if (state.mode === 'verification') return;
+      const values = items();
+      if (!values.length) return;
+      const item = values[state.index];
+      if (/^[1-9]$/.test(event.key)) {
+        const person = state.review.participants[Number(event.key) - 1];
+        if (person) setLabel(item, 'assigned', person.id);
+      } else if (event.key.toLowerCase() === 'm') setLabel(item, 'mixed', null);
+      else if (event.key.toLowerCase() === 'u') setLabel(item, 'unknown', null);
+      else if (event.key.toLowerCase() === 'x') clearLabel(item);
+      else if (event.key === 'ArrowLeft') move(-1);
+      else if (event.key === 'ArrowRight') move(1);
+    });
+
+    load().catch(error => {
+      document.getElementById('card-content').innerHTML = `<div class="empty"><h2>Could not load review</h2><p class="warning">${escapeHtml(error.message)}</p></div>`;
+    });
+  </script>
+</body>
+</html>

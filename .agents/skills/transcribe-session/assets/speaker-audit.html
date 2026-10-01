@@ -1,0 +1,274 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Blind speaker audit</title>
+  <style>
+    :root {
+      color-scheme: light dark;
+      --bg: #f1ede4;
+      --panel: #fffdf8;
+      --ink: #27251f;
+      --muted: #6f6a5f;
+      --line: #d9d1c3;
+      --accent: #345d54;
+      --accent-ink: #fff;
+      --warn: #8a542d;
+      --shadow: 0 14px 40px rgba(52,45,35,.10);
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #1c1d1a;
+        --panel: #262821;
+        --ink: #f3efe6;
+        --muted: #b9b3a7;
+        --line: #46483f;
+        --accent: #7eb2a3;
+        --accent-ink: #14211d;
+        --warn: #e0a66d;
+        --shadow: none;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--ink);
+      font: 16px/1.45 ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    main { width: min(880px, calc(100% - 28px)); margin: 32px auto 56px; }
+    header { display: flex; gap: 24px; align-items: end; justify-content: space-between; margin-bottom: 18px; }
+    h1 { font: 700 clamp(27px, 4vw, 42px)/1.05 ui-serif, Georgia, serif; margin: 0 0 7px; }
+    h2 { margin: 6px 0 8px; font-size: 25px; }
+    p { margin: 0; }
+    .muted { color: var(--muted); }
+    .warning { color: var(--warn); }
+    .panel { background: var(--panel); border: 1px solid var(--line); border-radius: 18px; box-shadow: var(--shadow); }
+    .progress { min-width: 190px; text-align: right; }
+    .progress-bar { height: 7px; border-radius: 99px; background: var(--line); overflow: hidden; margin-top: 6px; }
+    .progress-bar span { display: block; height: 100%; background: var(--accent); transition: width .2s ease; }
+    .card { padding: clamp(21px, 4vw, 36px); }
+    .eyebrow { color: var(--muted); text-transform: uppercase; letter-spacing: .08em; font-size: 12px; font-weight: 700; }
+    .instructions { margin: 0 0 14px; padding: 13px 16px; font-size: 14px; }
+    button {
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: transparent;
+      color: inherit;
+      padding: 10px 13px;
+      font: inherit;
+      cursor: pointer;
+    }
+    button:hover, button:focus-visible { border-color: var(--accent); outline: none; }
+    button.primary, button.active { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+    button:disabled { opacity: .45; cursor: default; }
+    .clip { margin: 24px 0; border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+    .clip-controls { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+    .play { min-width: 145px; font-weight: 700; }
+    .transcript { margin: 16px 0 0; padding-top: 14px; border-top: 1px solid var(--line); font-size: 17px; }
+    .time { color: var(--muted); font-size: 13px; margin-top: 4px; }
+    .people { display: grid; grid-template-columns: repeat(auto-fit, minmax(145px, 1fr)); gap: 9px; margin-top: 15px; }
+    .person { min-height: 60px; text-align: left; }
+    .person strong, .person span { display: block; }
+    .person span { color: var(--muted); font-size: 13px; }
+    .person.active span { color: inherit; opacity: .78; }
+    .specials { display: flex; gap: 9px; margin-top: 10px; }
+    .status { min-height: 24px; margin-top: 17px; color: var(--muted); }
+    .nav { display: flex; justify-content: space-between; gap: 12px; align-items: center; margin-top: 22px; }
+    kbd { border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 1px 5px; font-size: 12px; }
+    .complete { text-align: center; padding: 62px 22px; }
+    audio { display: none; }
+    @media (max-width: 650px) {
+      header { display: block; }
+      .progress { text-align: left; margin-top: 14px; }
+      .nav .muted { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <div>
+        <h1>Blind speaker audit</h1>
+        <p class="muted" id="subtitle">Loading audit…</p>
+      </div>
+      <div class="progress">
+        <strong id="progress-text">0 of 0 labeled</strong>
+        <div class="progress-bar"><span id="progress-fill" style="width:0"></span></div>
+      </div>
+    </header>
+
+    <p class="panel instructions">Choose the person you hear. The model label, current label, confidence, and sample type are hidden. Use <strong>Show transcript</strong> only when the audio is unclear; the audit records that it was revealed.</p>
+    <section class="panel card"><div id="content"></div></section>
+    <audio id="audio" preload="metadata"></audio>
+  </main>
+
+  <script>
+    const state = {
+      audit: null,
+      decisions: null,
+      index: 0,
+      saving: false,
+      transcriptRevealed: new Set(),
+      stopTimer: null,
+    };
+    const escapeHtml = value => String(value).replace(/[&<>'"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[ch]));
+    const formatTime = seconds => {
+      const value = Math.max(0, Math.round(seconds));
+      const hours = Math.floor(value / 3600);
+      const minutes = Math.floor((value % 3600) / 60);
+      const secs = value % 60;
+      return `${String(hours).padStart(2,'0')}:${String(minutes).padStart(2,'0')}:${String(secs).padStart(2,'0')}`;
+    };
+
+    async function load() {
+      const [auditResponse, decisionsResponse] = await Promise.all([
+        fetch('/api/audit'), fetch('/api/decisions')
+      ]);
+      if (!auditResponse.ok || !decisionsResponse.ok) throw new Error('Could not load audit data');
+      state.audit = await auditResponse.json();
+      state.decisions = await decisionsResponse.json();
+      for (const [itemId, decision] of Object.entries(state.decisions.decisions)) {
+        if (decision.transcriptRevealed) state.transcriptRevealed.add(itemId);
+      }
+      const firstOpen = state.audit.items.findIndex(item => !state.decisions.decisions[item.id]);
+      state.index = firstOpen >= 0 ? firstOpen : 0;
+      document.getElementById('subtitle').textContent = `${state.audit.auditId} · ${state.audit.items.length} clips · labels remain hidden until reporting`;
+      render();
+    }
+
+    function decision(item) { return state.decisions.decisions[item.id] || null; }
+
+    function render() {
+      const items = state.audit.items;
+      const completeCount = Object.keys(state.decisions.decisions).length;
+      document.getElementById('progress-text').textContent = `${completeCount} of ${items.length} labeled`;
+      document.getElementById('progress-fill').style.width = `${items.length ? 100 * completeCount / items.length : 0}%`;
+      const content = document.getElementById('content');
+      if (completeCount === items.length) {
+        content.innerHTML = `<div class="complete"><div class="eyebrow">Audit complete</div><h2>All ${items.length} decisions are saved</h2><p class="muted">Return to Codex to calculate the blinded comparison. You can still use Previous to inspect or change a decision.</p><div class="nav"><button id="previous">← Previous</button><span></span></div></div>`;
+        document.getElementById('previous').addEventListener('click', () => { state.index = items.length - 1; renderItem(); });
+        return;
+      }
+      renderItem();
+    }
+
+    function renderItem() {
+      const items = state.audit.items;
+      state.index = Math.max(0, Math.min(state.index, items.length - 1));
+      const item = items[state.index];
+      const saved = decision(item);
+      const revealed = state.transcriptRevealed.has(item.id);
+      document.getElementById('content').innerHTML = `
+        <div class="eyebrow">Clip ${state.index + 1} of ${items.length}</div>
+        <h2>Who is speaking?</h2>
+        <p class="muted">Listen before revealing the transcript. Replay as often as needed.</p>
+        <div class="clip">
+          <div class="clip-controls">
+            <button class="play primary" id="play"><kbd>Space</kbd> Play clip</button>
+            <button id="show-transcript" ${revealed ? 'disabled' : ''}>${revealed ? 'Transcript revealed' : 'Show transcript'}</button>
+            <span class="time">${formatTime(item.start)} · ${item.durationSeconds.toFixed(1)} seconds</span>
+          </div>
+          <div class="transcript" id="transcript" ${revealed ? '' : 'hidden'}>“${escapeHtml(item.text)}”</div>
+        </div>
+        <div class="people">${state.audit.participants.map((person, index) => `
+          <button class="person ${saved?.participantId === person.id ? 'active' : ''}" data-participant="${person.id}">
+            <strong><kbd>${index + 1}</kbd> ${escapeHtml(person.name)}</strong><span>${escapeHtml(person.gameRole)}</span>
+          </button>`).join('')}</div>
+        <div class="specials"><button class="${saved?.status === 'unknown' ? 'active' : ''}" id="unknown"><kbd>U</kbd> Unsure</button><button class="${saved?.status === 'overlap' ? 'active' : ''}" id="overlap"><kbd>O</kbd> Overlap</button></div>
+        <p class="status">${saved ? (saved.status === 'assigned' ? `Saved as ${escapeHtml(state.audit.participants.find(person => person.id === saved.participantId).display)}.` : saved.status === 'overlap' ? 'Saved as overlapping speakers.' : 'Saved as unsure.') : 'No decision saved yet.'}</p>
+        <div class="nav"><button id="previous" ${state.index === 0 ? 'disabled' : ''}>← Previous</button><span class="muted"><kbd>←</kbd> <kbd>→</kbd> navigate</span><button id="next" ${state.index + 1 >= items.length ? 'disabled' : ''}>Next →</button></div>`;
+      document.getElementById('play').addEventListener('click', () => playSegment(item));
+      document.getElementById('show-transcript').addEventListener('click', () => revealTranscript(item));
+      document.querySelectorAll('[data-participant]').forEach(button => button.addEventListener('click', () => saveDecision(item, 'assigned', button.dataset.participant)));
+      document.getElementById('unknown').addEventListener('click', () => saveDecision(item, 'unknown', null));
+      document.getElementById('overlap').addEventListener('click', () => saveDecision(item, 'overlap', null));
+      document.getElementById('previous').addEventListener('click', () => move(-1));
+      document.getElementById('next').addEventListener('click', () => move(1));
+    }
+
+    function revealTranscript(item) {
+      state.transcriptRevealed.add(item.id);
+      document.getElementById('transcript').hidden = false;
+      const button = document.getElementById('show-transcript');
+      button.textContent = 'Transcript revealed';
+      button.disabled = true;
+    }
+
+    async function saveDecision(item, status, participantId) {
+      if (state.saving) return;
+      const previous = state.decisions.decisions[item.id];
+      state.decisions.decisions[item.id] = {
+        status,
+        participantId: status === 'assigned' ? participantId : null,
+        transcriptRevealed: state.transcriptRevealed.has(item.id),
+        decidedAt: new Date().toISOString(),
+      };
+      state.saving = true;
+      try {
+        const response = await fetch('/api/decisions', {
+          method: 'POST', headers: {'Content-Type':'application/json'}, body: JSON.stringify(state.decisions)
+        });
+        if (!response.ok) throw new Error((await response.json()).error || 'Save failed');
+        moveToNextOpen();
+      } catch (error) {
+        if (previous) state.decisions.decisions[item.id] = previous;
+        else delete state.decisions.decisions[item.id];
+        render();
+        alert(`Could not save audit decision: ${error.message}`);
+      } finally {
+        state.saving = false;
+      }
+    }
+
+    function moveToNextOpen() {
+      const later = state.audit.items.findIndex((item, index) => index > state.index && !decision(item));
+      if (later >= 0) state.index = later;
+      else {
+        const any = state.audit.items.findIndex(item => !decision(item));
+        if (any >= 0) state.index = any;
+      }
+      render();
+    }
+
+    function move(delta) { state.index += delta; renderItem(); }
+
+    function playSegment(item) {
+      const audio = document.getElementById('audio');
+      clearInterval(state.stopTimer);
+      const desiredSource = `/audio/${item.recordingId}`;
+      const begin = () => {
+        audio.currentTime = Math.max(0, item.start - .12);
+        audio.play();
+        state.stopTimer = setInterval(() => {
+          if (audio.currentTime >= item.end + .15 || audio.ended) {
+            audio.pause(); clearInterval(state.stopTimer);
+          }
+        }, 40);
+      };
+      if (!audio.src.endsWith(desiredSource)) {
+        audio.src = desiredSource;
+        audio.addEventListener('loadedmetadata', begin, {once:true});
+      } else begin();
+    }
+
+    document.addEventListener('keydown', event => {
+      if (!state.audit || state.saving) return;
+      const item = state.audit.items[state.index];
+      if (event.code === 'Space') { event.preventDefault(); playSegment(item); return; }
+      if (/^[1-9]$/.test(event.key)) {
+        const person = state.audit.participants[Number(event.key) - 1];
+        if (person) saveDecision(item, 'assigned', person.id);
+      } else if (event.key.toLowerCase() === 'u') saveDecision(item, 'unknown', null);
+      else if (event.key.toLowerCase() === 'o') saveDecision(item, 'overlap', null);
+      else if (event.key === 'ArrowLeft') move(-1);
+      else if (event.key === 'ArrowRight') move(1);
+    });
+
+    load().catch(error => {
+      document.getElementById('content').innerHTML = `<div class="complete"><h2>Could not load audit</h2><p class="warning">${escapeHtml(error.message)}</p></div>`;
+    });
+  </script>
+</body>
+</html>

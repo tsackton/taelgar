@@ -1,10 +1,39 @@
 # Local Speaker Attribution
 
-Use this workflow after Scribe transcription when real participant identities are needed or when a single Scribe speaker ID contains multiple people. Prefer verified per-cue model predictions. For short cues the model cannot classify reliably, use a Scribe ID only when at least 80% of that ID's durable model-classified cues agree on one participant. Otherwise leave the cue unknown.
+Use this workflow after Scribe transcription when real participant identities are needed or when a single Scribe speaker ID contains multiple people. Its primary task is reference-based voice classification of individual audio segments. Scribe-ID-to-person mappings are a later fallback for short cues.
 
 ## Outcome
 
-The workflow builds durable per-cue model predictions from reviewed reference clips, verifies those predictions with time-spread samples, and then derives qualified Scribe-ID labels for short cues. Acoustic microclusters may help gather or review reference material, especially before a trusted reference bank exists, but they are not identity evidence in the final model-assisted layer. Mixed or unknown clusters describe unreliable grouping across their members; they do not imply overlap within each cue.
+The workflow has three distinct layers:
+
+1. **Segmentation:** Scribe supplies text, word timestamps, and anonymous speaker
+   IDs. `speaker_review.py` divides that output using ID changes, pauses, sentence
+   endings, and duration limits. Scribe IDs influence boundaries, not physical
+   identities.
+2. **Voice classification:** A pretrained ECAPA encoder embeds the audio of each
+   eligible segment (by default, at least 1.5 seconds and four words).
+   `speaker_model.py` compares it with normalized mean embeddings from each
+   person's reviewed reference clips. It assigns the closest participant profile,
+   subject to any configured cosine/margin rejection thresholds and human
+   overrides. Building these profiles does not train or fine-tune the encoder.
+   Different segments sharing one Scribe ID can receive different identities.
+   Verify these predictions with time-spread listening samples.
+3. **Short-cue fallback:** After verification, measure participant agreement among
+   the substantial model-classified segments within each Scribe ID. An ID with
+   at least 80% agreement on one person can label its otherwise unassigned short
+   cues. Model and manual assignments take precedence; unsupported cues remain
+   `Unknown`.
+
+Automatic Scribe speaker detection is the transcription default. Its ID count is
+independent of the roster size and the classifier's participant profiles. Prefer
+pure IDs for useful short-cue fallback; purity must still be checked, and neither
+five IDs nor a larger count establishes correct attribution. The classifier
+assigns one identity per segment. It does not independently detect speaker
+changes or reliably split multiple voices that Scribe merged within one segment.
+
+Acoustic microclusters help collect reference clips; their group labels are not
+final classifier identities. Mixed groups describe different voices across group
+members, not overlap within every member.
 
 This is local processing. It does not upload audio, voiceprints, participant labels, or review decisions.
 
@@ -111,6 +140,37 @@ below. Export verified local reference banks for later comparable recordings.
 Cross-capture timing alignment may later link the same spoken passage across
 phones as additional evidence; it does not authorize merging the transcripts.
 
+## Collect a few individual references
+
+When refinement still produces many mixed groups, assess reference coverage
+rather than refining everything again. Each participant needs clean eligible
+clips from more than one current group so the blind audit can hold out a group
+without removing that voice's entire profile. A Mixed group describes impure
+membership; an individual member can still be a useful clean reference.
+
+Use tentative local predictions and retained bank comparisons to select a small
+set of eligible cached cues outside the participant's existing reference group.
+Keep those suggestions out of the listening page and record candidate paths,
+hashes, scores, selection rationale, and group IDs beside the recording. Agreement
+between models only selects a listening target; it does not assign an identity.
+Freeze a new local review/attribution layer and rebind its compatible cache with
+`speaker_recalibrate.py`, then offer only the selected cues:
+
+```bash
+python3 .agents/skills/transcribe-session/scripts/speaker_review.py serve \
+  "/absolute/path/to/local-reference-collection.speaker-review.json" \
+  --port 8765 \
+  --reference-utterance "r01-u00123" \
+  --reference-utterance "r01-u00456"
+```
+
+This focused page edits only selected per-cue decisions; group labels,
+verification, unrelated cues, and the frozen review remain unchanged. The original
+group ID remains attached for holdout scoring. Overlap becomes an explicit
+Unknown identity with the listening decision retained and cannot seed a profile.
+Reassess reference coverage after listening, then prepare the blind audit. The
+reference collection is calibration evidence, not an accuracy test.
+
 ## Fast path with a verified reference bank
 
 Use this path for a later recording with comparable conditions after one session has produced clean, verified reference clips. The bank is matched to the new roster by participant `name`, not the order-dependent `p01` identifiers. Role changes are recorded but do not silently change physical identity. A poor transfer returns to recording-local calibration above; it is not repaired by asking the user to confirm many obviously wrong suggestions.
@@ -165,6 +225,11 @@ python3 .agents/skills/transcribe-session/scripts/speaker_model.py apply-scribe-
 ```
 
 For each Scribe ID, this measures the majority participant among its durable model-assigned cues by cue count. An agreement rate of 80% or higher is sufficient to assign that ID's short cues. The threshold is inclusive, and the audit records the supporting cue count so a small but passing sample remains visible. Per-cue model or manual assignments always win. Acoustic group labels are discarded from this derived layer: they are review aids, not identity evidence. A mixed group means that different group members contain different voices; it must not be rendered as overlapping speech. Short cues whose Scribe ID does not meet the threshold remain `Unknown`.
+
+The existing `--minimum-accuracy` option and saved `accuracy` fields name this
+within-ID agreement rate. They do not measure classifier accuracy against an
+independent human test set. Keep those names for artifact compatibility, but
+describe the result as agreement and report its supporting cue count.
 
 If the time-spread samples are clean, apply the Scribe-ID fallback and render. If errors concentrate on one or two people, recalibrate only those participants from clean clips in the current recording. Do not automatically rerun a 50-clip blind audit for every session; repeat it when the embedding model, reference profiles, or recording conditions change materially, or when verification indicates poor transfer.
 
@@ -240,6 +305,15 @@ python3 .agents/skills/transcribe-session/scripts/speaker_audit.py prepare \
 
 The default selects 35 model-versus-review disagreements and 15 agreement controls. Disagreements are allocated across current-to-model speaker pairs, controls across participants, and samples within each stratum are spread over session time and model margin. The audit JSON retains the hidden comparison data; the localhost review API omits it.
 
+Scale a warranted audit to the recording and available candidate population with
+`--sample-count` and `--disagreement-count`; the defaults are not a required quota.
+For a short setup chunk, a smaller check can cover the observed disagreement
+pairs while retaining comparison clips across every voice. Inspect the generated
+`selection` counts and hidden strata, and record why the chosen sample is useful.
+For example, 30 total clips with 20 disagreements leaves ten controls; confirm
+that the actual allocation covers the intended voices and disagreements. Sparse
+evidence or remaining uncertainty may require targeted follow-up after listening.
+
 Serve the resulting audit:
 
 ```bash
@@ -259,6 +333,24 @@ python3 .agents/skills/transcribe-session/scripts/speaker_audit.py report \
 ```
 
 Use the pair and margin breakdowns to set any later auto-accept policy. Treat the weighted population accuracy as exploratory because the audit deliberately spreads samples across time and confidence rather than taking a simple random sample. Do not apply model labels from the audit itself.
+
+Carry the **human listening decisions** forward before model application. Run
+`speaker_recalibrate.py` on the exact frozen review and attributions used by the
+audit, adding `--audit <audit.json> --audit-decisions <decisions.json>` and a new
+review prefix. The script requires a complete audit, checks its source paths and
+hashes, preserves every timed utterance, and imports only human decisions. Hidden
+model predictions are never imported. Reviewed overlap becomes an explicit
+Unknown identity with the original overlap decision retained in provenance; it
+cannot seed a voice profile or inherit a group identity. Other human corrections
+remain active. Reuse the compatible embedding cache without recomputation.
+
+Recheck leave-group-out scores after corrected anchors change the profiles and
+record the provisional margin/cosine policy with its audit evidence. This recheck
+is a diagnostic after using audit labels as references, not a new independent
+accuracy estimate. Low-confidence human-identified clips keep their explicit
+identities; the rejection policy applies to automatic predictions. New model
+verification still follows, including material outside the original audit
+population. Do not claim full-recording accuracy from a small selected audit.
 
 ## Apply an audited model
 

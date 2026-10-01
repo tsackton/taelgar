@@ -56,6 +56,10 @@ assets/generated/
 !.obsidian/snippets/taelgar-fixes.css
 *.html
 
+# Source interfaces required by the reusable transcription review tools
+!.agents/skills/transcribe-session/assets/speaker-review.html
+!.agents/skills/transcribe-session/assets/speaker-audit.html
+
 # Include gitignore
 !.gitignore
 

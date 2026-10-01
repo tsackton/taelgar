@@ -72,6 +72,63 @@ class RecalibrateTests(unittest.TestCase):
             with self.assertRaises(module.SpeakerReviewError):
                 module.provenanced_cache(np, cache, altered)
 
+    def audit_fixture(self):
+        review, attrs = self.fixture()
+        items = []
+        for index, u in enumerate(review['utterances'][:2], 1):
+            items.append({'id': f'a{index}', 'utteranceId': u['id'],
+                          **{k: u[k] for k in ('recordingId', 'start', 'end', 'text')},
+                          'hidden': {'currentParticipantId': 'p1', 'predictedParticipantId': 'p1'}})
+        audit = {'schemaVersion': 1, 'auditId': 'trial-audit', 'participants': review['participants'],
+                 'recordings': review['recordings'], 'items': items}
+        decisions = {'schemaVersion': 1, 'auditId': 'trial-audit', 'decisions': {
+            'a1': {'status': 'overlap', 'participantId': None},
+            'a2': {'status': 'assigned', 'participantId': 'p1'}}}
+        return review, attrs, audit, decisions
+
+    def test_imports_human_decisions_and_excludes_reviewed_overlap_from_anchors(self):
+        review, attrs, audit, decisions = self.audit_fixture()
+        before = copy.deepcopy((review, attrs, audit, decisions))
+        result, imported = module.import_audit_decisions(review, attrs, audit, decisions, {'auditSha256': 'hash'})
+        self.assertEqual(result['utterances'], review['utterances'])
+        self.assertEqual(imported['utteranceOverrides']['one']['status'], 'unknown')
+        self.assertEqual(imported['utteranceOverrides']['one']['auditDecision']['status'], 'overlap')
+        self.assertNotIn('modelMargin', imported['utteranceOverrides']['two'])
+        self.assertFalse(module.automated_decision(imported['utteranceOverrides']['two']))
+        self.assertEqual(result['humanAuditEvidence']['overlapUtteranceIds'], ['one'])
+        self.assertEqual(imported['utteranceOverrides']['three'], attrs['utteranceOverrides']['three'])
+        self.assertEqual(imported['verification'], {})
+        self.assertEqual((review, attrs, audit, decisions), before)
+
+    def test_audit_import_rejects_incomplete_or_different_utterances(self):
+        review, attrs, audit, decisions = self.audit_fixture()
+        incomplete = copy.deepcopy(decisions);del incomplete['decisions']['a2']
+        with self.assertRaises(module.SpeakerReviewError):
+            module.import_audit_decisions(review, attrs, audit, incomplete, {})
+        audit['items'][0]['text'] = 'a different recording'
+        with self.assertRaises(module.SpeakerReviewError):
+            module.import_audit_decisions(review, attrs, audit, decisions, {})
+
+    def test_cli_audit_import_checks_source_hash_before_writing(self):
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw)
+            review, attrs, audit, decisions = self.audit_fixture()
+            rp, ap, auditp, dp = [root / name for name in ('review.json', 'attrs.json', 'audit.json', 'decisions.json')]
+            rp.write_text(json.dumps(review));ap.write_text(json.dumps(attrs))
+            audit['sourceReview'] = {'path': str(rp), 'sha256': module.sha256_file(rp)}
+            audit['sourceAttributions'] = {'path': str(ap), 'sha256': module.sha256_file(ap)}
+            auditp.write_text(json.dumps(audit));decisions['sourceAuditSha256'] = module.sha256_file(auditp)
+            dp.write_text(json.dumps(decisions))
+            argv = [str(rp), '--attributions', str(ap), '--audit', str(auditp), '--audit-decisions', str(dp),
+                    '--output-dir', str(root / 'out'), '--review-id-prefix', 'audited']
+            attrs['updatedAt'] = 'changed';ap.write_text(json.dumps(attrs))
+            self.assertEqual(module.main(argv), 2)
+            self.assertFalse((root / 'out').exists())
+            ap.write_text(json.dumps(self.audit_fixture()[1]))
+            self.assertEqual(module.main(argv), 0)
+            imported = json.loads((root / 'out/audited-r1-local-calibration.speaker-attributions.json').read_text())
+            self.assertEqual(imported['utteranceOverrides']['one']['auditDecision']['status'], 'overlap')
+
     def test_cli_writes_new_layers_and_refuses_to_overwrite(self):
         np = module.load_numpy()
         with tempfile.TemporaryDirectory() as raw:

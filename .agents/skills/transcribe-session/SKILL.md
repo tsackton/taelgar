@@ -1,6 +1,6 @@
 ---
 name: transcribe-session
-description: Transcribe local RPG session recordings with ElevenLabs Scribe v2, using the campaign roster and reviewed setting keyterms, then audit or correct unreliable diarization through local cluster-level speaker review. Also inventory ordered chunks and alternate capture tracks. Use for first-pass session transcription and speaker attribution; stop before transcript cleanup or session-note preparation unless separately requested.
+description: Transcribe local RPG session recordings with ElevenLabs Scribe v2, then identify speakers with a local reference-based voice classifier and verified Scribe-ID fallback for short cues. Also inventory ordered chunks and alternate capture tracks. Use for first-pass session transcription and speaker attribution; stop before transcript cleanup or session-note preparation unless separately requested.
 ---
 
 # Transcribe Session
@@ -13,14 +13,20 @@ Resolve and verify:
 
 - the exact local audio file;
 - the campaign participant roster YAML;
-- the expected number of speakers, normally inferred from that roster, or an
-  explicit choice to let Scribe v2 detect the count automatically;
+- automatic speaker detection (the default), or an explicitly requested fixed
+  speaker count;
 - an optional UTF-8 keyterm file containing one reviewed campaign or world term per line;
 - an explicit transcription workspace beside the original recording, normally
   `<recording-directory>/transcription/scribe-v2/`;
 - whether the user has authorized uploading this exact recording to ElevenLabs.
 
 Search campaign and session records before proposing world keyterms. Character and player names come from the participant roster. Treat keyterms only as transcription vocabulary: their presence does not establish canon. Do not scrape the whole vault into a keyterm list.
+
+Let Scribe choose its speaker-ID count by default. The roster supplies vocabulary
+and the physical identities the local classifier can assign; it does not set
+Scribe's diarization count. Favor pure Scribe IDs over matching the roster count,
+because pure IDs can support short-response attribution. Automatic detection does
+not guarantee purity; assess that agreement after voice-classifier verification.
 
 ## Workspace boundary
 
@@ -81,11 +87,11 @@ For the authorized run, replace `--dry-run` with:
 ```
 
 `--keyterms` is optional. Use repeatable `--keyterm` arguments only for a small
-number of user-supplied additions. Use `--num-speakers` only when the roster size
-is not the correct expectation. Use `--auto-speakers` when the user explicitly
-wants Scribe v2 to choose the count; this omits `num_speakers` from the external
-request. Use `--force` only after confirming replacement of existing output
-artifacts.
+number of user-supplied additions. With neither speaker-count flag, the script
+omits `num_speakers` from the external request. `--auto-speakers` remains an
+optional explicit spelling of that default. Pass `--num-speakers N` only for an
+explicitly requested fixed count, never merely because the roster has N people.
+Use `--force` only after confirming replacement of existing output artifacts.
 
 ## Outputs
 
@@ -107,11 +113,15 @@ Session-Audio.speaker-samples/
 
 ## Speaker attribution
 
-When the user wants participant names or the Scribe IDs are impure, read [references/speaker-attribution.md](references/speaker-attribution.md). Choose the reference strategy from recording conditions, not campaign identity alone. The bank fast path suits comparable recordings after transfer checks. A change from Zoom to room recordings, different microphones or speaker distances, or poor verification calls for local calibration and a blind model comparison. Keep concurrent captures separate and initially fit each recording independently.
+When the user wants participant names or the Scribe IDs are impure, read [references/speaker-attribution.md](references/speaker-attribution.md). The primary task is to classify each substantial audio segment against known people's reference voices. A pretrained ECAPA encoder supplies voice embeddings; reviewed clips supply participant profiles. This does not train a new neural network or assign one person globally to each Scribe ID. The number of participant profiles is independent of the number of Scribe IDs.
+
+Scribe IDs help define segment boundaries. The local classifier assigns one identity per segment; it does not redo diarization or reliably recover a speaker change Scribe missed within a segment. After classifier verification, sufficiently pure Scribe IDs supply only the short-cue fallback described below.
+
+Choose the reference strategy from recording conditions, not campaign identity alone. The bank fast path suits comparable recordings after transfer checks and goes directly to participant verification. A change from Zoom to room recordings, different microphones or speaker distances, or poor verification calls for local calibration and a blind model comparison. Keep concurrent captures separate and initially fit each recording independently.
 
 Use `speaker_recalibrate.py` to recover recording-local reviews while preserving human corrections, prior predictions as comparison evidence, and compatible embedding caches. Prior banks and older identified transcripts can help propose clean anchors and cross-check local predictions; retain their paths, hashes, and disagreements. Anonymous older speaker numbers do not establish participant identities. Do not discard prior work or treat cross-microphone agreement as proof. Materialize local labels with an audited confidence policy; `speaker_model.py apply --compare-reference` keeps bank predictions separate from local assignments and permits weak matches to remain Unknown. See the reference for commands and gates.
 
-Gather clean local reference clips through acoustic microcluster review, refine mixed groups, and verify ten time-spread model samples per person. After verification, assign short cues from a Scribe ID only when at least 80% of that ID's durable model-classified cues agree on one participant. Prefer per-cue model labels, then this qualified Scribe-ID fallback; do not use acoustic cluster labels as final identity evidence. A mixed cluster describes different voices across members, not overlap within every member. Preserve raw JSON and the Scribe-labelled VTT; caches, prior evidence, decisions, audits, model-assisted layers, reference banks, and identified VTTs are separate artifacts.
+When local calibration is needed, gather clean reference clips through acoustic microcluster review and refine only where reference coverage is missing. Verify ten time-spread model samples per person before deriving short-cue labels. After verification, assign short cues from a Scribe ID only when at least 80% of that ID's durable model-classified cues agree on one participant. This is agreement with classifier assignments, not an independently measured accuracy rate. Prefer per-cue model labels, then this qualified Scribe-ID fallback; do not use acoustic cluster labels as final identity evidence. A mixed cluster describes different voices across members, not overlap within every member. Preserve raw JSON and the Scribe-labelled VTT; caches, prior evidence, decisions, audits, model-assisted layers, reference banks, and identified VTTs are separate artifacts.
 
 The identified VTT uses roster `gameRole` values such as `DM` and character names because those are the transcript labels consumed by `prepare-session-source`. Real participant names remain in the participant roster and are recovered there; do not replace that roster identity with the rendered role label.
 

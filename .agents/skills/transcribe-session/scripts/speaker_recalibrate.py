@@ -10,6 +10,7 @@ import sys
 from pathlib import Path
 from typing import Any, Sequence
 
+from speaker_audit import validate_audit, validate_decisions
 from speaker_model import load_embedding_metadata, validate_embedding_source
 from speaker_review import (
     SpeakerReviewError, atomic_write_json, ensure_writable_outputs,
@@ -24,9 +25,48 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument('review', type=Path)
     parser.add_argument('--attributions', type=Path, required=True)
     parser.add_argument('--embeddings', type=Path, help='Reuse a complete, provenanced cache.')
+    parser.add_argument('--audit', type=Path, help='Import completed human listening decisions from this exact source review.')
+    parser.add_argument('--audit-decisions', type=Path, help='Decision file for --audit; never imports hidden model labels.')
     parser.add_argument('--output-dir', type=Path, required=True)
     parser.add_argument('--review-id-prefix', required=True)
     return parser
+
+
+def import_audit_decisions(
+    review: dict[str, Any], attributions: dict[str, Any],
+    audit: dict[str, Any], decisions: dict[str, Any], provenance: dict[str, Any],
+) -> tuple[dict[str, Any], dict[str, Any]]:
+    validate_audit(audit)
+    validate_decisions(audit, decisions)
+    if set(decisions['decisions']) != {item['id'] for item in audit['items']}:
+        raise SpeakerReviewError('finish every blind audit item before importing human decisions')
+    if audit['participants'] != review['participants']:
+        raise SpeakerReviewError('audit participants differ from the source review')
+    result, attrs = copy.deepcopy(review), copy.deepcopy(attributions)
+    utterances = {u['id']: u for u in review['utterances']}
+    for item in audit['items']:
+        u = utterances.get(item['utteranceId'])
+        if u is None or any(u.get(k) != item.get(k) for k in ('recordingId', 'start', 'end', 'text')):
+            raise SpeakerReviewError('audit does not describe these exact source utterances')
+        decision = decisions['decisions'][item['id']]
+        # The attribution schema has no overlap identity. Keep reviewed cross-talk
+        # explicitly Unknown, with its original listening decision retained.
+        attrs['utteranceOverrides'][u['id']] = {
+            'status': 'unknown' if decision['status'] == 'overlap' else decision['status'],
+            'participantId': decision['participantId'], 'humanVerified': True,
+            'provenance': 'blind-audit', 'auditItemId': item['id'],
+            'auditDecision': copy.deepcopy(decision),
+        }
+    attrs['verification'] = {}
+    attrs['updatedAt'] = utc_now()
+    result['humanAuditEvidence'] = {
+        **copy.deepcopy(provenance), 'importedDecisionCount': len(audit['items']),
+        'overlapUtteranceIds': [item['utteranceId'] for item in audit['items']
+                                if decisions['decisions'][item['id']]['status'] == 'overlap'],
+        'use': 'Human listening decisions only; hidden model predictions are not imported.',
+    }
+    validate_attributions(result, attrs)
+    return result, attrs
 
 
 def automated_decision(label: dict[str, Any]) -> bool:
@@ -132,6 +172,23 @@ def main(argv: Sequence[str] | None = None) -> int:
         prefix = normalize_identifier(args.review_id_prefix)
         parent = {'reviewPath': str(review_path), 'reviewSha256': sha256_file(review_path),
                   'attributionsPath': str(attrs_path), 'attributionsSha256': sha256_file(attrs_path)}
+        if bool(args.audit) != bool(args.audit_decisions):
+            raise SpeakerReviewError('--audit and --audit-decisions must be supplied together')
+        audit_inputs = {}
+        if args.audit:
+            audit_path = resolve_input(args.audit, 'speaker audit')
+            decisions_path = resolve_input(args.audit_decisions, 'speaker audit decisions')
+            audit = load_json_object(audit_path, 'speaker audit')
+            decisions = load_json_object(decisions_path, 'speaker audit decisions')
+            validate_decisions(audit, decisions, audit_path=audit_path)
+            for key, path in [('sourceReview', review_path), ('sourceAttributions', attrs_path)]:
+                source = audit.get(key, {})
+                if Path(source.get('path', '')).resolve() != path or source.get('sha256') != sha256_file(path):
+                    raise SpeakerReviewError('audit source paths and hashes must match the supplied review and attributions')
+            audit_inputs = {'auditPath': str(audit_path), 'auditSha256': sha256_file(audit_path),
+                            'decisionsPath': str(decisions_path), 'decisionsSha256': sha256_file(decisions_path)}
+            review, attrs = import_audit_decisions(review, attrs, audit, decisions, audit_inputs)
+            parent['humanAuditInputs'] = audit_inputs
         np = ids = vectors = metadata = cache_path = None
         if args.embeddings:
             cache_path = resolve_input(args.embeddings, 'embedding cache')
@@ -173,6 +230,9 @@ def main(argv: Sequence[str] | None = None) -> int:
                             'retainedPriorPredictionCount': len(layer['priorSpeakerEvidence']['predictions'])})
         if sha256_file(review_path) != parent['reviewSha256'] or sha256_file(attrs_path) != parent['attributionsSha256']:
             raise SpeakerReviewError('source changed during calibration; inspect the new layers before use')
+        if audit_inputs and (sha256_file(Path(audit_inputs['auditPath'])) != audit_inputs['auditSha256']
+                            or sha256_file(Path(audit_inputs['decisionsPath'])) != audit_inputs['decisionsSha256']):
+            raise SpeakerReviewError('audit changed during import; inspect the new layers before use')
         report = {'schemaVersion': 1, 'createdAt': utc_now(), 'parent': parent, 'layers': results, 'sourceFilesUnchanged': True}
         atomic_write_json(report_path, report)
         print(json.dumps(report, indent=2))
