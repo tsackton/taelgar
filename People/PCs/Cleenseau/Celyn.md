@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Tyrwinghan
 born: 1697
@@ -58,14 +58,6 @@ He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [
 >  He has a deep devotion that is, in manner, almost childlike: there is an innocence about it that is easy to mistake for naivete.  That simplicity, however, and purity of hopefulness and a willingness to trust to chance, led to his cultivation of actual divine attention.  He is still a bit of a bundle of amiable chaos - as one might expect of a Wyrdling devotee - but his teenaged anger is more or less resolved by his embrace of that chaos and ambiguity.  
 >  
 >  He is not entirely blown by the wind; he trusts his intuition profoundly, along with the guidance of the fey and his god.  (Which puts him in a good position to be at the whims of higher powers.)  It’s likely he wandered out of his home turf a bit ago, following some impulse or other, and those impulses and occasional directives from the Wyrdling or friendly fey eventually steered him to where he is.
-
-### Current outlook
-
-Kiya described Celyn as settling into the role of “protector of those afflicted by madness.” Odo's current state drew his concern, even though madness was not Celyn's particular specialty within the Wyrdling's portfolio. Kiya also connected this concern to Celyn's own experience of being “gently nuts” and his understanding of situational insanity.
-
-%% Email from Kiya Nicoll on May 10, 2024 with subject "Celyn's light (and background mindset)" %%
-
-%% In her October 8, 2024 email "[Thantos] Game-related realization that just fuckin hit me", Kiya proposed that the redcap killed near Cleenseau had originally been a fourth competitor, that its death explained the Duskhound's arrival, and that the Night Queen's warning dreams showed awareness of both the undead threat and this other danger. This is a player theory, not an established account of those powers' motives. %%
 
 ### Items
 ```dataview
