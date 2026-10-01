@@ -2,6 +2,12 @@
 tags: [meta]
 ---
 
+# Aftermaths - Fey Bodies
+
+%% Email from Mike Sackton on November 2, 2024 with subject "Taeglar: Fey Aftermath, Fey Bodies" %%
+
+[meta: I'm going to split these up into separate emails to -- hopefully -- make it a bit easier to follow]
+
 >Obviously at some point we loot the magic items.  We should make sure to keep the bodies of the dusk hound and Areschera separated?  Ceyln, I’m not sure what appropriate fey disposal process is?  Bury?  Burn?  Throw in the woods to be eaten by birds (this seems like really bad idea that would likely have consequences)? 
 
   
@@ -15,3 +21,5 @@ Burning is the most common way of disposing of such things. But, if you wanted t
 Julien doesn’t have much to add on bodies. Keeping the dead from rising is the Night Queen’s responsibility. He can pray to the Warlord to ask the Night Queen to keep these bodies wholesome but he doesn’t have magic (except that one time he managed inspire some of Marceline DuPont’s horse guard when they rode out after some bandits- there swords rang true and never missed). 
 
 He does mention the temple to the Warlord in Veltor is quite ancient, and is said to be thick with the memory of ancient miracles. He can arrange to have the bodies kept at the temple for now if you want.
+
+Mike

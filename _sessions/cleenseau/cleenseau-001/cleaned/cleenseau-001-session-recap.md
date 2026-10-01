@@ -182,5 +182,8 @@ Before dawn, the party receives word of another spider attack at Taviose and beg
 - [[Viepuck Game Opening (Email)]]
 - [[Celyn Character Creation (Email)]]
 - [[Celyn Background Discussion (Email)]]
+- [[Izgil Lunar Sorcerer Early Design (Email)]]
+- [[Robin Character Background (Email)]]
+- [[Viepuck City and Background Discussion (Email)]]
 
 %% Quote attribution: Kiya's January 9 recollection assigns “There are holes in your face” to Najeer, while Mike's later recollection and [[Cleenseau - Session 01 - Original]] assign it to Izgil. The surviving correspondence does not settle the speaker. %%

@@ -5,23 +5,15 @@ POV: undated
 ---
 # Cleenseau Email Source Index
 
-This index classifies each Markdown file directly in `Raw Emails` and `Play by Email` by its contents. A row represents a source file or thread compilation, rather than each individual message inside a thread. The two folders sometimes hold original archives and edited reading copies of the same exchange; both are listed. Image files in `Raw Emails/Attachments` are supporting attachments, not emails.
+This index classifies each Markdown file directly in `Play by Email` by its contents. A row represents a source file or thread compilation, rather than each individual message inside a thread. Image files in `Raw Emails/Attachments` are supporting attachments, not emails.
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (32 files):** Meta/Rules 3; Extractable Info 2; Story or Monologue 1; Narrative 0; Session Extension 10; Session 16.
+**Counts (25 files):** Meta/Rules 0; Extractable Info 0; Story or Monologue 0; Narrative 0; Session Extension 9; Session 16.
 
 ## Raw Emails
 
-| Email file                                                              | Category                                                     | Basis              |                                                                                                                       |
-| ----------------------------------------------------------------------- | ------------------------------------------------------------ | ------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| [[Raw Emails/Cleenseau - Raw Emails                                     | Cleenseau - Raw Emails]]                                     | Meta/Rules         | Folder guide, not correspondence or an in-world scene.                                                                |
-| [[Raw Emails/Entering the Portal - Planning and Character Rules (Email) | Entering the Portal - Planning and Character Rules (Email)]] | Meta/Rules         | Tactical plans and character rules, not completed play.                                                               |
-| [[Raw Emails/Guy de Varan's Story - Correspondence (Email)              | Guy de Varan's Story - Correspondence (Email)]]              | Story or Monologue | Long in-world account with subsequent questions.                                                                      |
-| [[Raw Emails/Izgil Lunar Sorcerer Early Design (Email)                  | Izgil Lunar Sorcerer Early Design (Email)]]                  | Meta/Rules         | Extensive proposed sorcerer mechanics.                                                                                |
-| [[Raw Emails/Robin Character Background (Email)                         | Robin Character Background (Email)]]                         | Extractable Info   | Robin's origins and lantern, including revisions.                                                                     |
-| [[Raw Emails/Taelgar What You Know - Correspondence (Email)             | Taelgar What You Know - Correspondence (Email)]]             | Session Extension  | Information supplied between sessions and discussed.                                                                  |
-| [[Raw Emails/Viepuck City and Background Discussion (Email)             | Viepuck City and Background Discussion (Email)]]             | Extractable Info   | City options and character-background decisions.                                                                      |
+No Markdown email notes remain here. The `Attachments` folder still contains source images used by session bundles and notes.
 
 ## Play by Email
 
