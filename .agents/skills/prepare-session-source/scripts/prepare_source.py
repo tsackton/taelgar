@@ -597,11 +597,15 @@ def build_bundle_stem(
     if scope == SCOPE_ARC and session_number in (None, ""):
         source_slug = slugify_text(source_path.stem) or "arc"
         return f"{campaign_slug}-{source_slug}"
-    try:
-        session_number_int = int(session_number)
-    except (TypeError, ValueError) as exc:
-        raise SystemExit(f"sessionNumber must be an integer, got {session_number!r}") from exc
-    return f"{campaign_slug}-{session_number_int:03d}"
+    session_number_text = str(session_number).strip()
+    match = re.fullmatch(r"(\d+)(?:\.(\d+))?", session_number_text)
+    if match is None:
+        raise SystemExit(
+            f"sessionNumber must be a whole or x.y number, got {session_number!r}"
+        )
+    whole = int(match.group(1))
+    fraction = f".{match.group(2)}" if match.group(2) is not None else ""
+    return f"{campaign_slug}-{whole:03d}{fraction}"
 
 
 def slugify_text(value: str) -> str:
