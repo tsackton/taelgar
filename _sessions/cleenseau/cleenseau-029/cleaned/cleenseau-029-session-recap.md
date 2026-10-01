@@ -276,7 +276,6 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Asineau as Bastion (Email)]]
 - [[Asineau Interlude - April Preparation (Email)]]
 - [[Asineau Map (Email)]]
-- [[Asineau Initial Questions (Email)]]
 - [[Celyn's Inn Idea (Email)]]
 - [[Asineau Wall and Tactical Considerations (Email)]]
 - [[Cleenseau What's Next (Email)]]
@@ -284,5 +283,4 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Asineau Gates and Walls (Email)]]
 - [[Bastion Turn 1 Questions (Email)]]
 - [[SimManor Approach (Email)]]
-- [[Party Finances (Email)]]
 - [[Asineau Taxes and Income (Email)]]

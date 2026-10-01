@@ -60,17 +60,7 @@ Notes on agemates:
   
 According to a website I dug up a while ago, the demographics of a medieval village of the size of Clawyn suggests about 20 people in their late teens at any given time.  Of that age cohort I have named:  
   
-- Celyn  
-- Ifan (older edge)  
-- Ellis Crowther (bi, musician)  
-- Llew Crowther (musician)  
-- Idris (older, bully - thinks he’s hot shit and tries to get people to agree with him, with minimal success)  
-- Gwawr (beautiful Black girl who enjoys what she can get from the boys’ attention)  
-- Tegan (Gwawr’s actual beloved, loves gossip)  
-- Cadwgan (potter’s son, courting Tegan)  
-- Delwyn (pretty, gay)  
-- Nesta (teen pregnancy)  
-- Rhian (technically the next age bracket down, probably, but on the older end of that)  
+
   
 Celyn’s siblings are enough older they’re in at least one age bracket up.  
   
