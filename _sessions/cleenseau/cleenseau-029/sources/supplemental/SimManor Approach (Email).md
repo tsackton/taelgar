@@ -1,0 +1,9 @@
+# SimManor Approach (Email)
+
+Selected setting clarifications and character priorities from the October 15–16, 2025 correspondence. Kiya Nicoll's building ideas were proposals; the later [[Cleenseau - Session 29]] record identifies what actually developed in Asineau.
+
+Kiya described Celyn's priorities as improving food security, making domestic necessities locally, and finding goods Asineau could trade for its missing supplies. She proposed workshops, a market, an inn, a smithy, and a larger food and herb garden over time. Her October 16 follow-up identified glassmaking with sand gathered by Ganboa as a promising local export. These were intentions and assessments, not completed projects in this thread.
+
+Mike Sackton explained that Tyrwingha's close relationship with the fey largely keeps out dangers such as undead and goblins, though imperfectly, while Sembara's manorial system funds local defense and has led to more common fortifications. He clarified that the fields east of [[Amance Brook]] belong to the [[Manor of Valit]] and that the bridge there mainly serves those fields. There was no permanent road through them to Asineau. After Dan recalled earlier work, Mike confirmed that a rough way had been cleared over winter fields to move timber from [[Cleenseau Wood]], but had probably been mostly plowed over by spring planting.
+
+Mike also noted that [[Cleenseau]] has four inns, including the Crossroads Inn inside the walls, and that the fifteen-mile passage east of [[Beury]] through the [[East Bog]] makes Asineau a weak location for an eastbound travelers' inn. Cleenseau's smiths use metal brought from [[Duchy of Maseau|Maseau]]. The [[South Watch Road]] connects Cleenseau and Dunfry; the western region remains thinly settled after the Great War and is economically dependent on the army. He described the Cleenseau connection as built under [[Cece I]] in the 1660s, while the older route to Dunfry followed the Wistel past Ainwick.
