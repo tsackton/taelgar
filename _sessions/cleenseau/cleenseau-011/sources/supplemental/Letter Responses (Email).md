@@ -5,7 +5,6 @@ POV: 1720
 # Letter Responses (Email)
 
 Local archive of all 5 message bodies in this correspondence, including quoted reply history.
-Repeated website-preview logo (one copy): [[Letter Responses - web preview logo.png]].
 
 ## Thu, 25 Jan 2024 15:29:17 -0500 — Artan Eter <artan.eter@gmail.com>
 
