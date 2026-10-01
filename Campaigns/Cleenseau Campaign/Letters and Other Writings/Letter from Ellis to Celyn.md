@@ -1,5 +1,5 @@
 ---
-tags: [source, status/check/ai]
+tags: [source]
 DR: 1720-07
 name: Letter from Ellis to Celyn
 ---
