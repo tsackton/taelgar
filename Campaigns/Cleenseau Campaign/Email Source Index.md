@@ -9,14 +9,12 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (126 files):** Meta/Rules 6; Extractable Info 32; Story or Monologue 3; Narrative 0; Session Extension 44; Session 41.
+**Counts (115 files):** Meta/Rules 5; Extractable Info 32; Story or Monologue 3; Narrative 0; Session Extension 34; Session 41.
 
 ## Raw Emails
 
 | Email file | Category | Basis |
 | --- | --- | --- |
-| [[Raw Emails/After the Siege of Fellburn|After the Siege of Fellburn]] | Session Extension | Duke's camp briefing after the siege. |
-| [[Raw Emails/Aftermaths - Fey Bodies|Aftermaths - Fey Bodies]] | Session Extension | Follow-up on bodies, loot, and fey disposal after the fight. |
 | [[Raw Emails/April Around Asineau (Email)|April Around Asineau (Email)]] | Session | Spring update followed by substantial player and DM turns. |
 | [[Raw Emails/Asineau as Bastion (Email)|Asineau as Bastion (Email)]] | Extractable Info | Bastion choices and proposed Asineau development. |
 | [[Raw Emails/Asineau Fallout (Email)|Asineau Fallout (Email)]] | Session | Archive of a long, played Asineau exchange. |
@@ -29,14 +27,10 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Asineau Wall and Tactical Considerations (Email)|Asineau Wall and Tactical Considerations (Email)]] | Extractable Info | Proposed defenses and tactical discussion. |
 | [[Raw Emails/At The Elegant Swan in Champimont|At The Elegant Swan in Champimont]] | Session | Multi-turn tavern conversation about magic. |
 | [[Raw Emails/Aveil - What You Know (Email)|Aveil - What You Know (Email)]] | Extractable Info | **Applied to [[Barony of Aveil]]**: routes and approximate travel pace. Other briefing details remain in the email. |
-| [[Raw Emails/Bastion Turn 1 Questions (Email)|Bastion Turn 1 Questions (Email)]] | Meta/Rules | Explicit bastion-turn mechanics and assignments. |
-| [[Raw Emails/Before We Go North to Aveil (Email)|Before We Go North to Aveil (Email)]] | Session Extension | Brief between-session intentions before travel. |
-| [[Raw Emails/Celyn and El (Email)|Celyn and El (Email)]] | Session Extension | Short in-character exchange between Celyn and El. |
 | [[Raw Emails/Celyn and Izgil Discuss the Moon|Celyn and Izgil Discuss the Moon]] | Story or Monologue | Character-focused conversation presented as one piece. |
 | [[Raw Emails/Celyn Background Discussion (Email)|Celyn Background Discussion (Email)]] | Extractable Info | Character background and setting discussion, with proposals. |
 | [[Raw Emails/Celyn Character Creation (Email)|Celyn Character Creation (Email)]] | Extractable Info | Early character concept and background discussion. |
 | [[Raw Emails/Celyn Childhood and Worldbuilding - Correspondence (Email)|Celyn Childhood and Worldbuilding - Correspondence (Email)]] | Story or Monologue | Player-authored childhood story with DM feedback. |
-| [[Raw Emails/Celyn Game Opening (Email)|Celyn Game Opening (Email)]] | Session Extension | Opening setup and response for the first session. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
 | [[Raw Emails/Champimont - Rumors and Information|Champimont - Rumors and Information]] | Session Extension | Rumors and brief character actions during a stop. |
@@ -45,9 +39,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Cleenseau - The Oracle of Hope|Cleenseau - The Oracle of Hope]] | Session | Compiled Oracle encounter and party responses. |
 | [[Raw Emails/Cleenseau - Timeline New Year 1720|Cleenseau - Timeline New Year 1720]] | Session Extension | Recap timeline of recent campaign events. |
 | [[Raw Emails/Cleenseau - What You've Learned|Cleenseau - What You've Learned]] | Session Extension | Post-session briefing on what the party learned. |
-| [[Raw Emails/Cleenseau - Zombie Aftermath|Cleenseau - Zombie Aftermath]] | Session Extension | Summary of immediate aftermath and party knowledge. |
 | [[Raw Emails/Cleenseau Next Steps Take 2 (Email)|Cleenseau Next Steps Take 2 (Email)]] | Extractable Info | Campaign situation and proposed next actions. |
-| [[Raw Emails/Cleenseau Session Quotes - January 2023 (Email)|Cleenseau Session Quotes - January 2023 (Email)]] | Session Extension | Players reconstruct quotes from a session. |
 | [[Raw Emails/Cleenseau Timeline (Email)|Cleenseau Timeline (Email)]] | Session Extension | Campaign event recap and timeline discussion. |
 | [[Raw Emails/Cleenseau What You Learned - Correspondence (Email)|Cleenseau What You Learned - Correspondence (Email)]] | Session Extension | DM briefing and player questions after play. |
 | [[Raw Emails/Cleenseau What's Next (Email)|Cleenseau What's Next (Email)]] | Extractable Info | Campaign situation and prospective next steps. |
@@ -55,12 +47,10 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Doing Paladin Stuff (Email)|Doing Paladin Stuff (Email)]] | Extractable Info | Paladin role and healing discussed in-world and out. |
 | [[Raw Emails/Entering the Portal - Planning and Character Rules (Email)|Entering the Portal - Planning and Character Rules (Email)]] | Meta/Rules | Tactical plans and character rules, not completed play. |
 | [[Raw Emails/Fellburn Aftermath - Audience with Duke|Fellburn Aftermath - Audience with Duke]] | Session | Compiled audience scene with party contributions. |
-| [[Raw Emails/Fellburn Return Travel Planning (Email)|Fellburn Return Travel Planning (Email)]] | Session Extension | Between-session travel intentions after Fellburn. |
 | [[Raw Emails/Fey Aftermath - Baroness Tower|Fey Aftermath - Baroness Tower]] | Session Extension | Additive tower scene after the fey confrontation. |
 | [[Raw Emails/Fey Aftermath - Tower of Records|Fey Aftermath - Tower of Records]] | Session | Search of the tower with player and DM turns. |
 | [[Raw Emails/Fey Aftermath in Veltor (Email)|Fey Aftermath in Veltor (Email)]] | Session | Sustained aftermath scene with several turns. |
 | [[Raw Emails/Fey Aftermaths (Email)|Fey Aftermaths (Email)]] | Session | Continued play after Areschera's death. |
-| [[Raw Emails/Fey Aftermaths I|Fey Aftermaths I]] | Session Extension | Loot and immediate post-game information. |
 | [[Raw Emails/Fey Aftermaths II|Fey Aftermaths II]] | Session | Extended post-battle scene and responses. |
 | [[Raw Emails/Fey Background (Email)|Fey Background (Email)]] | Extractable Info | **Applied to [[Cleenseau Wood]]**: ranger reports on the portal. Other fey documents and stories remain in the email. |
 | [[Raw Emails/Ganboa Correspondence (Email)|Ganboa Correspondence (Email)]] | Session Extension | Short diplomatic exchange with Ganboa. |
@@ -123,7 +113,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Play by Email/Asineau Fallout|Asineau Fallout]] | Session | Long, self-contained 21-turn exchange. |
 | [[Play by Email/At the Elegant Swan in Champimont|At the Elegant Swan in Champimont]] | Session | Extended tavern scene with 25 authored turns. |
 | [[Play by Email/Celyn and El Discuss the Fey Prophecy|Celyn and El Discuss the Fey Prophecy]] | Session | Extended character conversation at the temple. |
-| [[Play by Email/Celyn and El|Celyn and El]] | Session Extension | Brief in-character exchange. |
 | [[Play by Email/Celyn Learns the Miracles of Asineau|Celyn Learns the Miracles of Asineau]] | Session Extension | Short temple conversation. |
 | [[Play by Email/Champimont Rumors and Questions|Champimont Rumors and Questions]] | Session | Sustained party exchange around local rumors. |
 | [[Play by Email/Elizabeth of Cassen - Email Discussion|Elizabeth of Cassen - Email Discussion]] | Session Extension | Brief discussion after Elizabeth's story. |

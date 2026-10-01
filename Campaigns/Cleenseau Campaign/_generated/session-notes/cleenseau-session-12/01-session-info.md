@@ -106,7 +106,7 @@ https://kiya.dreamwidth.org/779436.html
 
 - [[Asineau Fallout]]
 - [[Hunting Lorin]]
-- [[Celyn and El]]
+- [[Cleenseau - Session 12.1|Celyn and El]]
 - [[Champimont Rumors and Questions]]
 - [[Robin's Miracle]]
 <!-- /SLOT -->

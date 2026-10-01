@@ -185,7 +185,7 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 - [[Ida's Letter]]
 - [[Asineau Fallout]]
 - [[Hunting Lorin]]
-- [[Celyn and El]]
+- [[Cleenseau - Session 12.1|Celyn and El]]
 - [[Champimont Rumors and Questions]]
 - [[Robin's Miracle]]
 

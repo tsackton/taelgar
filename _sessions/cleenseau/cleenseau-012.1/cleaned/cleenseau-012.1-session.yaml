@@ -1,0 +1,22 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: '12.1'
+realWorldDate: '2024-02-16'
+sourceTitle: Celyn and El
+sourceAuthor: Kiya Nicoll and Mike Sackton
+drStart: '1720-01-12'
+drEnd: null
+participants:
+- name: Kiya Nicoll
+  gameRole: Celyn
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-012.1/sources/Celyn and El (Email).md
+sourceConfigPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-012.1/sources/cleenseau-session012.1.yaml
+participantsPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-012.1/sources/cleenseau-participants.yaml
+preparedSourcePath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-012.1/cleaned/cleenseau-012.1-source-prepared.md
+narrativeUnit: paragraph
