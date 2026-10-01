@@ -181,3 +181,4 @@ The party completes its search of the [[Ruined Fort (Cleenseau)|ruined fort]] an
 
 - [[Cleenseau - Session 10 - Original]]
 - [[Treasure January 2024 (Email)]]
+- [[Entering the Portal - Planning and Character Rules (Email)]]
