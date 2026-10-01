@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # GDrive - Eight Divines: Final Text and Comments
 
 Source: Google Drive document ID `1i-kMpFwnnbr4b4Huwe-SOOO-R4ziDosNcvf7c7qBKQ0`. Imported October 1, 2026 from revision `ANLCKQndTRQfxSse-MACLxKkDRSDe6-r9sS5TO106Z9ttpBzPn3EZs2Cqv7Crxmv-jz3fZTttq64WpAhck63-A`.
