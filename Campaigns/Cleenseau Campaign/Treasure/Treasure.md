@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [meta, status/check/ai]
 ---
 # Party Treasure
 
@@ -78,6 +78,13 @@ This section lists a variety of other items found outside of major hordes.
 * A well made jewelry box with an elaborate lock, stolen from [[Lorin Valbert]] (value: 5 - 10 gp)
 * (DONATED) An elaborate silver ring set with small diamonds (value: 250 - 400 gp), donated to [[Ida Rosfeld]] and the war effort
 * The [[Ring of Escape]], taken from [[Gareth of Tollen]] before his execution
+
+## Inventory after the fort beneath Essford Manor
+
+A player inventory sent on November 12, 2023 records Celyn holding a cloak described as a cloak of elvenkind. Izgil held an unidentified ring marked with a river, a necromantic ring kept in a vial of holy water, and a Dwarven ring that restored magical power. The magical Ranger chest had been left in the fort, with its keys distributed among the party and an intention to return for it.
+
+%% Email from Artan Eter on November 12, 2023 with subject "Loot notes, since you're keeping a loot doc and I can't edit it." The email calls the necromantic ring a find from a hobgoblin; [[Ring of Wounding]] says it came from a skeletal necromancer. Their identification as the same ring is uncertain. %%
+
 ## Magical and Unusual Items
 
 ```dataview
