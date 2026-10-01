@@ -22,4 +22,6 @@ POV: 1719
 >
 > Celyn chuckles to himself. "So when I woke up, I needed a name. Celyn. I took Celyn as a name. It means holly, you know. And I wasn't angry anymore. That was my miracle, the finding my place. And that's how I became a priest."
 
+%% Email from Kiya Nicoll on September 23, 2023 with subject "I just wanted to run this by you" %%
+
 %% In-world time: Told by Celyn to Robin during Viatela in 1719. The miracle recalled occurred in his adolescence, around 1715 by his background timeline. %%

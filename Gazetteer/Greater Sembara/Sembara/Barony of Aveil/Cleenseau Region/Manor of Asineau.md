@@ -24,5 +24,11 @@ Lorin maintains only a small guard, and has appointed himself magistrate, but is
 After Lorin's fall, [[Viepuck]] said he had warned [[Catherine de Brune]] that her purchases of land from Lorin might face legal scrutiny. He described a plan to arrange a buyback without prosecution and said the process was already underway. [[Anselm]] was given documents to manage and put matters right, as well as instructions to prepare the garrison. Some of Lorin's ostentatious furnishings were being sold to repay debts; Viepuck expected that debt might remain.
 
 When [[Robin of Abenfyrd|Robin]] took control, the manor was short of cash and food: it held about 100 gp, provisions for the extended household for roughly six weeks, and arms left by the militia. Queen Elaine II declared the first two years of Robin's manorial honorus paid in thanks for his service; the hearth tax had also been paid for that year.
+
+Mike's April 1720 briefing described a manor just under 2,000 acres, with roughly 1,000 acres of farmland, 600 of pasture, and 200 of woodlot. About half the farmland was sown in a given year under a two-year rotation. The manor received grain from its own fields, leaseholds, and deca on other crown-held land, as well as roughly 800 person-days of annual labor service, about half used on its own fields. These were estimates of the estate Robin inherited, not fixed future yields.
 %%^Campaign:End%%
+
+%% Sources:
+- [[The Situation in Asineau (Email)]]
+%%
 

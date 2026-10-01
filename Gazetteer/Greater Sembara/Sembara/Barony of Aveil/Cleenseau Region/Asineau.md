@@ -31,6 +31,13 @@ The hill by the mill stands about 25 feet above the village. Its north side is l
 
 A few hundred feet outside the village is a small mill and bakehouse. The large stone manor house dates from the early 1600s, and stands alongside the road. There is a stable building attached to it. 
 
+As described in spring 1720, the village had a granary above the mill and a communal granary near the Wyrdling temple. The manor also stored grain in its yard and stable hayloft. Asineau had small-scale pottery and household weaving, but no full-time weaver or major kiln; most pottery was imported.
+
+%% Sources:
+- [[Asineau as Bastion (Email)]]
+- [[The Situation in Asineau (Email)]]
+%%
+
 ![[asineau-wrydling-painting.jpg|right|320]]The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]]
 
 ## Notable Residents

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 name: Clawyn
 typeOf: settlement
 typeOfAlias: village
@@ -19,6 +19,14 @@ subTypeOf:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small village a few days ride south of [[Tafolwern]], in the gentle northern slopes of the [[Tyrwinghan Hills]], known for its vineyards and wine. There is little here other than a small temple to the Mother.
+
+Wine is Clawyn's principal export. The village relies on nearby [[Nefyn]] for grain and some other supplies; it has a potter, smith, cooper, and weaver of its own. Glass wine bottles, salt, and metal for smithing are brought in from elsewhere.
+
+%% Mike Sackton accepted this broad economic picture but left open whether grain is milled in Clawyn or flour is brought from Nefyn. %%
+
+%% Sources:
+- [[Notes from Celyn's Background (Email)]]
+%%
 ### Notable People
 * Rhys, an old man and village elder, likes stories and reminiscing about the past. He is said to have attended [[Cece I|Cece I's]] coronation
 #### Celyn's family
@@ -33,4 +41,4 @@ Celyn was a surprise youngest child. His maternal aunt Dilys, Olwen's younger si
 
 #### Celyn's agemates
 
-The [[Ellis Crowther|Crowther]] [[Llew Crowther|twins]] come from another vineyard-working family. Other young people in the village include Idris, an older bully whose swagger rarely impressed others; Gwawr, a beautiful Black girl who enjoyed the attention she received from boys; Tegan, Gwawr's beloved and a lover of gossip; Cadwgan, a potter's son who courted Tegan; Delwyn, a pretty gay young man; Nesta, recently pregnant; and Rhian, probably at the older end of a slightly younger age group. 
+The [[Ellis Crowther|Crowther]] [[Llew Crowther|twins]] come from another vineyard-working family. Other young people in the village include Idris, an older bully whose swagger rarely impressed others; Gwawr, a beautiful Black girl who enjoyed the attention she received from boys; Tegan, Gwawr's beloved and a lover of gossip; Cadwgan, a potter's son who courted Tegan; Delwyn, a pretty gay young man; Nesta, recently pregnant; and Rhian, probably at the older end of a slightly younger age group.

@@ -1,0 +1,9 @@
+# Peasant Militia (Email)
+
+Selected contemporary force estimates and defense proposals from the February 4–5, 2024 correspondence. The players' proposed force structure and tactics are plans, not a record that the militia was fully raised or trained.
+
+Mike described Ida as a capable leader willing to consider the party's advice. At this point she had about 40 battle-tested soldiers and was recruiting roughly 60 more, preferably veterans of the Wakog fight. He reported Cleenseau's watch as only five people, with Rosalind's household guard absent. Beury had nearly twenty household guards, Valit's guard had fallen from six to four, and three of Asineau's former lord's four guards were at loose ends after Isolde left. Smaller settlements had little trained protection. These figures are dated estimates within the crisis; later records may differ.
+
+Mike estimated the seven settlements' combined population at about 2,300, including roughly fifty lizardfolk in Ganboa. He described Cleenseau as the only walled settlement at the time, though Beury was rapidly building a palisade. The region had an established weaponsmithing trade, with about ten trained weaponsmiths and additional apprentices and general smiths; production time and equipment were more limiting than metal or wood. He considered winter a better time to divert labor for defense than planting season.
+
+Dan, Artan, and Matthew proposed spear-and-shield training for local volunteers, a stronger watch, and a part-time militia coordinated with Ida's army. Dan emphasized keeping untrained defenders at a safer distance from undead. Mike understood this as an expanded town watch and accepted the discussion as a reasonable tactical approach; the proposed numbers and weekly training schedule were not adopted as completed facts in this thread.

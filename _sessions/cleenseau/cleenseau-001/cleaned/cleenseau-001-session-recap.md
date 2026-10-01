@@ -180,5 +180,7 @@ Before dawn, the party receives word of another spider attack at Taviose and beg
 - [[Cleenseau - Session 01 - Original]]
 - [[Cleenseau Session Quotes - January 2023 (Email)]]
 - [[Viepuck Game Opening (Email)]]
+- [[Celyn Character Creation (Email)]]
+- [[Celyn Background Discussion (Email)]]
 
 %% Quote attribution: Kiya's January 9 recollection assigns “There are holes in your face” to Najeer, while Mike's later recollection and [[Cleenseau - Session 01 - Original]] assign it to Izgil. The surviving correspondence does not settle the speaker. %%
