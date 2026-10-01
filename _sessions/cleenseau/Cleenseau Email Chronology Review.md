@@ -32,7 +32,7 @@ This review records the campaign-relevant email found between numbered sessions.
 
 Intervals omitted from the table's detailed entries had no distinct in-world email event that was not already represented by the adjacent numbered notes.
 
-The direct-mail [[Celyn and Robin After the Session (Email)|Celyn–Robin vignette]] describes an intended scene for a subsequent play session. Its existence as a reading copy, [[Celyn and Robin I]], does not by itself confirm that the conversation occurred during play.
+The direct-mail [[Celyn and Robin I|Celyn–Robin scene]] happened after Sabine and Istarias were rescued, as confirmed by the user. Its exact in-world day is not established.
 
 The `Manor_House.zip` attachment to [[The Situation in Asineau (Email)]] remains unavailable through the mail connector. The text correspondence and other available images are local, but that ZIP is not; obtaining it requires a separate copy from the original mail or the sender.
 

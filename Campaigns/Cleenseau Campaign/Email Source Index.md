@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (156 files):** Meta/Rules 6; Extractable Info 47; Story or Monologue 10; Narrative 0; Session Extension 52; Session 41.
+**Counts (146 files):** Meta/Rules 6; Extractable Info 44; Story or Monologue 3; Narrative 0; Session Extension 52; Session 41.
 
 ## Raw Emails
 
@@ -26,7 +26,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Asineau Initial Questions (Email)|Asineau Initial Questions (Email)]] | Extractable Info | Questions and answers about the manor's condition. |
 | [[Raw Emails/Asineau Interlude - April Preparation (Email)|Asineau Interlude - April Preparation (Email)]] | Extractable Info | Downtime plans and situation briefing; choices are provisional. |
 | [[Raw Emails/Asineau Loose End (Email)|Asineau Loose End (Email)]] | Session | Extended exchange resolving what the party does with Asineau. |
-| [[Raw Emails/Asineau Map (Email)|Asineau Map (Email)]] | Extractable Info | **Applied to [[Asineau]]**: road, wells, banks, and fish-drying areas. |
 | [[Raw Emails/Asineau Taxes and Income (Email)|Asineau Taxes and Income (Email)]] | Meta/Rules | SimManor accounting and short-term finances; excluded from vault extraction. |
 | [[Raw Emails/Asineau Wall and Tactical Considerations (Email)|Asineau Wall and Tactical Considerations (Email)]] | Extractable Info | Proposed defenses and tactical discussion. |
 | [[Raw Emails/At The Elegant Swan in Champimont|At The Elegant Swan in Champimont]] | Session | Multi-turn tavern conversation about magic. |
@@ -35,19 +34,13 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Before We Go North to Aveil (Email)|Before We Go North to Aveil (Email)]] | Session Extension | Brief between-session intentions before travel. |
 | [[Raw Emails/Celyn and El (Email)|Celyn and El (Email)]] | Session Extension | Short in-character exchange between Celyn and El. |
 | [[Raw Emails/Celyn and Izgil Discuss the Moon|Celyn and Izgil Discuss the Moon]] | Story or Monologue | Character-focused conversation presented as one piece. |
-| [[Raw Emails/Celyn and Robin After the Session (Email)|Celyn and Robin After the Session (Email)]] | Story or Monologue | Player-authored proposed Celyn and Robin scene. |
-| [[Raw Emails/Celyn and Robin I|Celyn and Robin I]] | Story or Monologue | Celyn-focused proposed scene after the rescue. |
-| [[Raw Emails/Celyn and the Merriweathers|Celyn and the Merriweathers]] | Story or Monologue | Celyn's proposed clothing consultation scene. |
 | [[Raw Emails/Celyn Background Discussion (Email)|Celyn Background Discussion (Email)]] | Extractable Info | Character background and setting discussion, with proposals. |
 | [[Raw Emails/Celyn Character Creation (Email)|Celyn Character Creation (Email)]] | Extractable Info | Early character concept and background discussion. |
 | [[Raw Emails/Celyn Childhood and Worldbuilding - Correspondence (Email)|Celyn Childhood and Worldbuilding - Correspondence (Email)]] | Story or Monologue | Player-authored childhood story with DM feedback. |
 | [[Raw Emails/Celyn Game Opening (Email)|Celyn Game Opening (Email)]] | Session Extension | Opening setup and response for the first session. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
-| [[Raw Emails/Celyn Sends Wine to His Sister (Email)|Celyn Sends Wine to His Sister (Email)]] | Story or Monologue | Proposed in-character letter and gifts; sending unconfirmed. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
-| [[Raw Emails/Celyn's Known Background (Email)|Celyn's Known Background (Email)]] | Extractable Info | What the party initially knows about Celyn. |
 | [[Raw Emails/Celyn's Light and Background Mindset (Email)|Celyn's Light and Background Mindset (Email)]] | Extractable Info | Player note on Celyn's outlook and magic. |
-| [[Raw Emails/Celyn's Proposed Letter to Blodwen (Email)|Celyn's Proposed Letter to Blodwen (Email)]] | Story or Monologue | In-character proposed letter; sending unconfirmed. |
 | [[Raw Emails/Celyn's Redcap Theory (Email)|Celyn's Redcap Theory (Email)]] | Extractable Info | Player's in-world theory, not established fact. |
 | [[Raw Emails/Champimont - Rumors and Information|Champimont - Rumors and Information]] | Session Extension | Rumors and brief character actions during a stop. |
 | [[Raw Emails/Champimont Rumors and Questions (Email)|Champimont Rumors and Questions (Email)]] | Session | Sustained exchange about rumors and party actions. |
@@ -66,7 +59,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Crowther Boys Notes (Email)|Crowther Boys Notes (Email)]] | Extractable Info | Proposed cast and background details. |
 | [[Raw Emails/Destruction of Eftly (Email)|Destruction of Eftly (Email)]] | Session | Multi-turn played scene among Odo and the party. |
 | [[Raw Emails/Doing Paladin Stuff (Email)|Doing Paladin Stuff (Email)]] | Extractable Info | Paladin role and healing discussed in-world and out. |
-| [[Raw Emails/Elizabeth the Guard's Story (Email)|Elizabeth the Guard's Story (Email)]] | Story or Monologue | Elizabeth's substantial personal account, then brief discussion. |
 | [[Raw Emails/Entering the Portal - Planning and Character Rules (Email)|Entering the Portal - Planning and Character Rules (Email)]] | Meta/Rules | Tactical plans and character rules, not completed play. |
 | [[Raw Emails/Fellburn Aftermath - Audience with Duke|Fellburn Aftermath - Audience with Duke]] | Session | Compiled audience scene with party contributions. |
 | [[Raw Emails/Fellburn Return Travel Planning (Email)|Fellburn Return Travel Planning (Email)]] | Session Extension | Between-session travel intentions after Fellburn. |
@@ -95,7 +87,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Last Session - Sanctuary (Email)|Last Session - Sanctuary (Email)]] | Session Extension | Clarifies Izgil's telescope experience. |
 | [[Raw Emails/Letter Responses (Email)|Letter Responses (Email)]] | Session Extension | Party responses to recent in-world letters. |
 | [[Raw Emails/Loose Ends (Email)|Loose Ends (Email)]] | Session Extension | Outstanding leads from the previous session. |
-| [[Raw Emails/Mahaut's Miracle Players Cast (Email)|Mahaut's Miracle Players Cast (Email)]] | Extractable Info | **Applied to [[Mahaut's Miracle Players]]**: named cast and roles. |
 | [[Raw Emails/Meeting Lenora|Meeting Lenora]] | Session | Multi-turn meeting scene with Lenora. |
 | [[Raw Emails/Military Stuff (Email)|Military Stuff (Email)]] | Extractable Info | **Applied to [[Duchy of Wisford]]**: duke and army command structure. Other discussion remains in the email. |
 | [[Raw Emails/More Notes and Questions (Email)|More Notes and Questions (Email)]] | Extractable Info | Setting questions and clarifications after play. |
@@ -125,7 +116,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Temple in Asineau - Miracles (Email)|Temple in Asineau - Miracles (Email)]] | Session Extension | Short temple conversation about miracles. |
 | [[Raw Emails/Temple in Asineau - Prophecy (Email)|Temple in Asineau - Prophecy (Email)]] | Session | Extended Celyn and El prophecy conversation. |
 | [[Raw Emails/The Hunter's Letter (Email)|The Hunter's Letter (Email)]] | Session | Long independent exchange around the Hunter's letter. |
-| [[Raw Emails/The Merriweathers (Email)|The Merriweathers (Email)]] | Story or Monologue | Player-authored Celyn clothing scene setup. |
 | [[Raw Emails/The Oracle of Hope (Email)|The Oracle of Hope (Email)]] | Session | Substantial interactive Oracle scene. |
 | [[Raw Emails/The Situation in Asineau (Email)|The Situation in Asineau (Email)]] | Extractable Info | Situation briefing and manor details. |
 | [[Raw Emails/Tower of Records Search (Email)|Tower of Records Search (Email)]] | Session | Multi-turn search of the tower. |

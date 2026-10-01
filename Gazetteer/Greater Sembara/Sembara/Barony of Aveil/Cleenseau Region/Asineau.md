@@ -21,6 +21,8 @@ dm_owner: mike
 
 An ancient, magically preserved stone road passes the manor house. Four wells supplement the river as water sources. West of the docks, the bank is marshy and rocky; cliffs rise east of the beach. During the spring shad runs, drying racks for fish crowd the beach and the cliff top west of the harbor.
 
+![[Asineau - emailed map.jpg|800]]
+
 A few hundred feet outside the village is a small mill and bakehouse. The large stone manor house dates from the early 1600s, and stands alongside the road. There is a stable building attached to it. 
 
 ![[asineau-wrydling-painting.jpg|right|320]]The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]]
@@ -39,9 +41,7 @@ A few hundred feet outside the village is a small mill and bakehouse. The large 
 * [[Arnold the Miller]], a racist miller and baker, although no fan of Lorin's taxes
 * Celia, a young stablehand of 11 or 12, scrawny but not malnourished, known as Sweet Little Hayhead to the horses
 
-%% Sources:
-- [[Asineau Map (Email)]]
-%%
+%% Map and geographic details: email from Mike Sackton on October 11, 2025 with subject "Asineau: Map". Kiya Nicoll's reply proposed future defenses; those plans are not part of this settlement description. %%
 
 %%^Campaign:None%%
 ### People in, or based in Asineau
