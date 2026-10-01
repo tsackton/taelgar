@@ -59,4 +59,6 @@ POV: 1720
 >
 > Thoughts like that occupied him up until he spotted the heap of dead sheep. He didn’t know much about sheep but that was certainly not how they ought to behave.
 
+%% Email from Kiya Nicoll on March 21, 2024 with subject "Celyn contemplates the worldbuilding and remembers his childhood" %%
+
 %% In-world time: Present-time frame is Celyn’s ride with Viepuck after meeting El, around the January 1720 pursuit of Lorin (Session 12); memories reach back into childhood. %%

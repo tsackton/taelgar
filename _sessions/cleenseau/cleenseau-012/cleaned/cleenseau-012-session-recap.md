@@ -188,6 +188,7 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 - [[Cleenseau - Session 12.1|Celyn and El]]
 - [[Champimont Rumors and Questions]]
 - [[Robin's Miracle]]
+- [[Celyn's Musings on Magic]]
 
 ## Source Files
 
@@ -200,4 +201,5 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 - [[Military Stuff (Email)]]
 - [[Doing Paladin Stuff (Email)]]
 - [[Peasant Militia (Email)]]
+- [[Celyn Childhood and Worldbuilding - Correspondence (Email)]]
 - [[Asineau Loose End (Email)]]
