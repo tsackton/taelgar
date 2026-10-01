@@ -4,7 +4,7 @@ POV: 1720
 ---
 # The Hunter's Letter - Email Exchange
 
-Edited reading copy of the thirty-seven-message exchange. Newly authored turns appear in sent order; repeated quoted history and mail transport footers are omitted. The complete local source, including the attached image, is [[The Hunter's Letter (Email)]].
+Edited reading copy of the thirty-seven-message exchange. Newly authored turns appear in sent order; repeated quoted history and mail transport footers are omitted. The complete local correspondence is [[The Hunter's Letter (Email)]].
 
 ---
 
@@ -349,7 +349,6 @@ Yep.  Celyn feels both justified at treating this thing like a bomb and is visib
 
 ### Matthew Rand <rand.matt@gmail.com> — Wed, 7 Aug 2024 18:52:58 +0000
 
-![[The Letter - dispel roll.png]]
 
 Natural 11 + INT (4) = 15 + 1d6 (3) = 18 + 4 = 22.
 

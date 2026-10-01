@@ -4,11 +4,7 @@ POV: 1720
 ---
 # The Hunter's Letter (Email)
 
-Thirty-seven-message correspondence from 29 July–10 August 2024. Each message's text is retained in sent order, including quoted history where present; mailing-list transport footers are omitted. The same image was attached to two messages, so one byte-identical local copy is retained.
-
-## Attachment
-
-![[The Letter - dispel roll.png]]
+Thirty-seven-message correspondence from 29 July–10 August 2024. Each message's text is retained in sent order, including quoted history where present; mailing-list transport footers are omitted. The two copies of a mechanics-only roll screenshot are omitted; the result and the character actions remain in the messages.
 
 ## Messages
 
