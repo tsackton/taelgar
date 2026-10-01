@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (146 files):** Meta/Rules 6; Extractable Info 44; Story or Monologue 3; Narrative 0; Session Extension 52; Session 41.
+**Counts (136 files):** Meta/Rules 6; Extractable Info 40; Story or Monologue 3; Narrative 0; Session Extension 46; Session 41.
 
 ## Raw Emails
 
@@ -40,17 +40,13 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Celyn Game Opening (Email)|Celyn Game Opening (Email)]] | Session Extension | Opening setup and response for the first session. |
 | [[Raw Emails/Celyn Pre-Campaign Character Discussion (Email)|Celyn Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character concepts and setting prompts, many provisional. |
 | [[Raw Emails/Celyn's Inn Idea (Email)|Celyn's Inn Idea (Email)]] | Extractable Info | Proposed inn, faith, and local economy discussion. |
-| [[Raw Emails/Celyn's Light and Background Mindset (Email)|Celyn's Light and Background Mindset (Email)]] | Extractable Info | Player note on Celyn's outlook and magic. |
-| [[Raw Emails/Celyn's Redcap Theory (Email)|Celyn's Redcap Theory (Email)]] | Extractable Info | Player's in-world theory, not established fact. |
 | [[Raw Emails/Champimont - Rumors and Information|Champimont - Rumors and Information]] | Session Extension | Rumors and brief character actions during a stop. |
 | [[Raw Emails/Champimont Rumors and Questions (Email)|Champimont Rumors and Questions (Email)]] | Session | Sustained exchange about rumors and party actions. |
-| [[Raw Emails/Cleenseau - Oracle of Note Background Note|Cleenseau - Oracle of Note Background Note]] | Session Extension | Clarifies an Oracle conversation. |
 | [[Raw Emails/Cleenseau - Raw Emails|Cleenseau - Raw Emails]] | Meta/Rules | Folder guide, not correspondence or an in-world scene. |
 | [[Raw Emails/Cleenseau - The Oracle of Hope|Cleenseau - The Oracle of Hope]] | Session | Compiled Oracle encounter and party responses. |
 | [[Raw Emails/Cleenseau - Timeline New Year 1720|Cleenseau - Timeline New Year 1720]] | Session Extension | Recap timeline of recent campaign events. |
 | [[Raw Emails/Cleenseau - What You've Learned|Cleenseau - What You've Learned]] | Session Extension | Post-session briefing on what the party learned. |
 | [[Raw Emails/Cleenseau - Zombie Aftermath|Cleenseau - Zombie Aftermath]] | Session Extension | Summary of immediate aftermath and party knowledge. |
-| [[Raw Emails/Cleenseau Loot Notes November 2023 (Email)|Cleenseau Loot Notes November 2023 (Email)]] | Session Extension | Loot inventory and clarification after play. |
 | [[Raw Emails/Cleenseau Next Steps Take 2 (Email)|Cleenseau Next Steps Take 2 (Email)]] | Extractable Info | Campaign situation and proposed next actions. |
 | [[Raw Emails/Cleenseau Session Quotes - January 2023 (Email)|Cleenseau Session Quotes - January 2023 (Email)]] | Session Extension | Players reconstruct quotes from a session. |
 | [[Raw Emails/Cleenseau Timeline (Email)|Cleenseau Timeline (Email)]] | Session Extension | Campaign event recap and timeline discussion. |
@@ -79,14 +75,11 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Hunter Aftermaths|Hunter Aftermaths]] | Session Extension | Immediate post-battle scene fragment. |
 | [[Raw Emails/Hunting Lorin (Email)|Hunting Lorin (Email)]] | Session | Long, independent 37-turn hunt. |
 | [[Raw Emails/Into Aslain (Email)|Into Aslain (Email)]] | Session Extension | Arrival briefing, plans, and clarifications. |
-| [[Raw Emails/Into Aveil - Meta (Email)|Into Aveil - Meta (Email)]] | Extractable Info | Pre-session background to enable travel to Aveil. |
 | [[Raw Emails/Izgil Character Background (Email)|Izgil Character Background (Email)]] | Extractable Info | Early character history and DM feedback. |
-| [[Raw Emails/Izgil During Fellburn (Email)|Izgil During Fellburn (Email)]] | Session Extension | Account of Izgil's concurrent activity. |
 | [[Raw Emails/Izgil Lunar Sorcerer Early Design (Email)|Izgil Lunar Sorcerer Early Design (Email)]] | Meta/Rules | Extensive proposed sorcerer mechanics. |
 | [[Raw Emails/Izgil Pre-Campaign Character Discussion (Email)|Izgil Pre-Campaign Character Discussion (Email)]] | Extractable Info | Character premise and discarded alternatives. |
 | [[Raw Emails/Last Session - Sanctuary (Email)|Last Session - Sanctuary (Email)]] | Session Extension | Clarifies Izgil's telescope experience. |
 | [[Raw Emails/Letter Responses (Email)|Letter Responses (Email)]] | Session Extension | Party responses to recent in-world letters. |
-| [[Raw Emails/Loose Ends (Email)|Loose Ends (Email)]] | Session Extension | Outstanding leads from the previous session. |
 | [[Raw Emails/Meeting Lenora|Meeting Lenora]] | Session | Multi-turn meeting scene with Lenora. |
 | [[Raw Emails/Military Stuff (Email)|Military Stuff (Email)]] | Extractable Info | **Applied to [[Duchy of Wisford]]**: duke and army command structure. Other discussion remains in the email. |
 | [[Raw Emails/More Notes and Questions (Email)|More Notes and Questions (Email)]] | Extractable Info | Setting questions and clarifications after play. |
@@ -94,7 +87,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Notes from Celyn's Background (Email)|Notes from Celyn's Background (Email)]] | Extractable Info | Character background applied to village life. |
 | [[Raw Emails/Notes on Game January 2024 (Email)|Notes on Game January 2024 (Email)]] | Extractable Info | Setting questions and player observations. |
 | [[Raw Emails/Odo in Asineau (Email)|Odo in Asineau (Email)]] | Session Extension | Odo's return and family update with player response. |
-| [[Raw Emails/Orc Fort Followup (Email)|Orc Fort Followup (Email)]] | Session Extension | Brief follow-up to the orc fort rescue. |
 | [[Raw Emails/Party Finances (Email)|Party Finances (Email)]] | Session Extension | Loot tally and party resources. |
 | [[Raw Emails/Peasant Militia (Email)|Peasant Militia (Email)]] | Extractable Info | Proposed local militia and training details. |
 | [[Raw Emails/People in Clawyn (Email)|People in Clawyn (Email)]] | Extractable Info | Proposed Celyn family and Clawyn cast. |
@@ -104,7 +96,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Rangers in Champimont (Email)|Rangers in Champimont (Email)]] | Session | Substantial party exchange with local rangers. |
 | [[Raw Emails/Recurring Festival Idea (Email)|Recurring Festival Idea (Email)]] | Extractable Info | Festival proposal and holiday-calendar development. |
 | [[Raw Emails/Robin Character Background (Email)|Robin Character Background (Email)]] | Extractable Info | Robin's origins and lantern, including revisions. |
-| [[Raw Emails/Robin's Order Questions (Email)|Robin's Order Questions (Email)]] | Extractable Info | Unanswered questions and possible order details. |
 | [[Raw Emails/Roleplaying Hooks (Email)|Roleplaying Hooks (Email)]] | Session Extension | Follow-up hooks and intended character actions. |
 | [[Raw Emails/Siege of Fellburn - Duke's Camp|Siege of Fellburn - Duke's Camp]] | Session Extension | Camp briefing during the siege sequence. |
 | [[Raw Emails/Siege of Fellburn (Email)|Siege of Fellburn (Email)]] | Session | Large multi-turn siege correspondence. |
@@ -129,7 +120,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Viepuck City and Background Discussion (Email)|Viepuck City and Background Discussion (Email)]] | Extractable Info | City options and character-background decisions. |
 | [[Raw Emails/Viepuck Game Opening (Email)|Viepuck Game Opening (Email)]] | Session Extension | Pre-session opening setup and responses. |
 | [[Raw Emails/Viepuck Name and Background (Email)|Viepuck Name and Background (Email)]] | Extractable Info | Initial alias and background clarification. |
-| [[Raw Emails/Viepuck Sending Responses (Email)|Viepuck Sending Responses (Email)]] | Session Extension | Additional response to played Sendings. |
 | [[Raw Emails/Viepuck's Sendings (Email)|Viepuck's Sendings (Email)]] | Session | Extended interactive Sending sequence. |
 | [[Raw Emails/Viepuck's Trip to Fellburn (Email)|Viepuck's Trip to Fellburn (Email)]] | Session | Full Viepuck and Hubert play-by-email scene. |
 

@@ -146,4 +146,3 @@ The party descends through the trapped entrance beneath [[Essford Manor]] into t
 - [[Cleenseau - Session 08 - Original]]
 - [[Taelgar What You Know - Correspondence (Email)]]
 - [[Cleenseau What You Learned - Correspondence (Email)]]
-- [[Cleenseau Loot Notes November 2023 (Email)]]
