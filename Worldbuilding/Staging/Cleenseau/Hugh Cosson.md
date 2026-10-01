@@ -11,6 +11,6 @@ knownTo: [clee]
 Hugh Cosson is an actor who joined [[Mahaut's Miracle Players]] and was traveling with [[Charlotte of Mahaut's Players|Charlotte]] after the siege of [[Fellburn]]. His family planned to settle in [[Orbas]].
 
 %% Sources:
-- [[Cleenseau - The Oracle of Hope]]
+- [[The Oracle of Hope (Email)]]
 - [[Cleenseau - Interlude - After the Siege of Fellburn]]
 %%

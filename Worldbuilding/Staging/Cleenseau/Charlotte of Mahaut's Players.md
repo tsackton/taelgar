@@ -12,6 +12,6 @@ knownTo: [clee]
 Charlotte is an actor with [[Mahaut's Miracle Players]] and a former companion of [[Celyn]]. After the siege of [[Fellburn]], she delivered Celyn a cryptic message from a stranger who had told her fortune.
 
 %% Sources:
-- [[Cleenseau - The Oracle of Hope]]
+- [[The Oracle of Hope (Email)]]
 - [[Cleenseau - Interlude - After the Siege of Fellburn]]
 %%

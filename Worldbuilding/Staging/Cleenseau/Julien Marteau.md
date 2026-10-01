@@ -13,5 +13,5 @@ Julien Marteau is a disciple of [[The Warlord]] based at the god's temple in [[V
 
 %% Sources:
 - [[Cleenseau - Session 18]]
-- [[Fey Aftermaths II]]
+- [[Fey Aftermath in Veltor (Email)]]
 %%

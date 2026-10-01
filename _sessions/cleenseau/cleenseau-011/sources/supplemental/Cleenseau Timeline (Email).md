@@ -5,7 +5,7 @@ POV: 1720
 # Cleenseau Timeline (Email)
 
 Local archive of all 4 message bodies in this correspondence, including quoted reply history.
-Attached images: [[Cleenseau Timeline - source image.png]], [[Cleenseau Timeline - Duskmire 1.png]], and [[Cleenseau Timeline - Duskmire 2.png]]. An earlier vault copy of the opening timeline is [[Cleenseau - Timeline New Year 1720]].
+Attached images: [[Cleenseau Timeline - source image.png]], [[Cleenseau Timeline - Duskmire 1.png]], and [[Cleenseau Timeline - Duskmire 2.png]].
 
 ## Sun, 7 Jan 2024 20:28:33 -0500 — Mike Sackton <msackton@gmail.com>
 
