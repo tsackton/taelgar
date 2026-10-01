@@ -98,16 +98,3 @@ Of course, there is a wide variety of species on Taelgar, beyond dwarves, halfli
 It is worth noting that there are of course a wide variety of sentient beings on Taelgar, not all of whom fit into the human mold. The rules above broadly apply to the mortal species - such as stoneborn, elves, and kenku - who, broadly, settle in a community alongside the more common human, halfling, and dwarf denizens.  Lots of other sentient creatures exist, and they are rarely neutral. A dryad, or a tribe of a hundred centaurs, or a band of satyrs holding an endless party, or a family of giant eagles, or a coven of hags -- or any similar being -- these are totally different matters, for the powerful and magical to deal with, or the village to survive, or perhaps benefit from. 
 
 It would be an unusually brave and foolhardy lord who would send tax collectors to a hag's hut to recover the hearth tax. These types of incursions - either great dangers or great boons - exist entirely outside any legal framework.
-
-%%
-Some old notes on outgoing costs  to incorporate somewhere:
-
-- Crown to army, wages, equipment, etc
-- Dukes and barons to build roads, castles, bridges
-- Lord to garrison, maintain a small set of men at arms in the manor
-- Lord to build a wall around town, maintain small scale local defenses
-- Lord to temple, building maintenance, decoration, etc
-- Crown to maintain the messenger service
-- Crown to local lords to bounties for killing monsters
-
-  %%

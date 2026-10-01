@@ -32,7 +32,7 @@
 Izgil and Celyn escape nightmares of [[Duskmire]] after Robin intervenes.
 
 #### Long
-Izgil and Celyn become trapped in a nightmare version of [[Duskmire]]. Robin intervenes with the [[Lantern of the Bright Hearth]], allowing them to escape.
+Izgil and Celyn become trapped in a nightmare version of [[Duskmire]]. Robin intervenes with the [[Lantern of the Bright Hearth]], allowing them to escape. In the Dreamworld, a telescope that had intrigued Izgil began to seem dangerous and threatening after *sanctuary* was cast.
 
 ### 1720-01-03
 
@@ -109,7 +109,9 @@ Izgil and Celyn escape nightmares of Duskmire after Robin intervenes.
 Izgil and Celyn become trapped in a nightmare version of Duskmire and escape with Robin's help.
 
 #### Long
-Izgil and Celyn become trapped in a nightmare version of [[Duskmire]]. Robin intervenes with the [[Lantern of the Bright Hearth]], allowing them to escape.
+Izgil and Celyn become trapped in a nightmare version of [[Duskmire]]. Robin intervenes with the [[Lantern of the Bright Hearth]], allowing them to escape. After *sanctuary* was cast, Izgil began to perceive the Dreamworld telescope as dangerous rather than interesting.
+
+%% Mike Sackton clarified this cause to the players in his October 24, 2023 email, subject "Last Session - Sanctuary." %%
 
 ### recap-002 | Rosalind Departs
 
@@ -222,4 +224,3 @@ After Beatrix miscarries and the dead infant becomes a zombie, the party defeats
 ## Source Files
 
 - [[Cleenseau - Session 07 - Original]]
-- [[Last Session - Sanctuary (Email)]]

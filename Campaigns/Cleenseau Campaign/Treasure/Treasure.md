@@ -74,6 +74,10 @@ A non-magical ring with a small diamond, worth about 300-400gp
 ## Miscellaneous Items
 This section lists a variety of other items found outside of major hordes.
 
+Viepuck separately received 400 GP from the Garay family's spider-silk business, partly in coin and partly as a letter of credit. This was not part of the party's shared treasure as of the October 2025 accounting.
+
+%% Mike Sackton's October 14, 2025 email, subject "[Thantos] Taelgar: Party Finances," lists Viepuck's separate 400 GP and an approximate party total of 895 GP. The itemized valuables and magical items are recorded in this inventory. %%
+
 * Two wide but simple gold rings, stolen from [[Lorin Valbert]] (value: 20 - 25 gp each)
 * A well made jewelry box with an elaborate lock, stolen from [[Lorin Valbert]] (value: 5 - 10 gp)
 * (DONATED) An elaborate silver ring set with small diamonds (value: 250 - 400 gp), donated to [[Ida Rosfeld]] and the war effort

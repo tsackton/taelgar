@@ -2,10 +2,10 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/gameupdate/clee, status/check/lint]
+tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
 species: human
 ancestry: Tyrwinghan
-born: 1697
+born: 1696
 ddbLink: https://www.dndbeyond.com/characters/90849827
 gender: male
 player: Kiya Nicoll
@@ -39,6 +39,25 @@ POV: 1720
 He wears studded leather armor, and where his leathers are not brown they are largely done in colors of blue and yellow, perhaps because they go with his hair and eyes.  While he is kitted out like a rogue in general, he also carries a small wooden shield (not routinely, but when he’s anticipating trouble), which has been painted (not skillfully) with two blobs of color which vaguely resemble birds and has some interesting nature-y bits tied to it.  He also has a drum which has been painted with dots and swirls and zigzags and which has a lot of sticks, feathers, and such dangling from its lacings; he is not particularly proficient with its use but he can at least keep time.  
 
 He has a distinct rural Tyrwinghan accent and, unsurprisingly for someone from [[Tyrwingha|that nation]], makes commentary about the fey.  He has explicitly claimed that the fey taught him how to misty step, in fact, and that they sent him to this area by dropping acorns on his head.  To anyone with a familiarity with Tyrwinghan culture, “fey-touched lunatic” is a solid guess here.
+
+### Other observed habits
+
+Kiya described these as things the party would likely have noticed by spring 1720:
+
+* Celyn orders wine rather than beer and flicks a few drops onto the floor before drinking. He can appear oblivious for a long time before a comment reveals that he heard everything.
+* He casually mentions his delinquent adolescence, avoids sustained eye contact, and stays remarkably calm about danger or even nearly dying. The prospect of talking to a hostile fey breaks that calm.
+* The mismatched birds on his shield change from day to day. He likes birds for the simple pleasure of seeing them, without claiming to be a naturalist.
+* He once cheerfully warned that he would stab anyone who bothered him in the bath; only later did others notice that he had brought his sword.
+* He loves dice for the experience of throwing them and seems as happy to lose as to win. When distracted he drums with his fingers or stray sticks.
+* He picks up bits of nature, often attaching them to his drum, and sometimes stops to harvest plants for no obvious reason. He sometimes drinks pungent herbal tea.
+* Temple hierarchy and structure seem to baffle him. For nonurgent serious wound care, he often conjures a small light for each patient; the lights shimmer through different colors.
+* He can be slow to emerge in the morning. He says the fey taught him various things, sometimes including things he had not seemed to know the week before. He cuts his own hair at irregular intervals, with uneven results.
+* He often answers others with some version of “Oh! Okay!” and seems quietly tense when out of his armor.
+* He strongly dislikes shared sleeping spaces. If he cannot sleep alone, he claims a corner with his bedroll, sometimes behind a chair.
+* He is more comfortable with children than adults. He has occasionally referred to having once been someone else.
+* Light through a smudged window, a hunting hawk, wind in the trees, children laughing, or ants can hold his attention longer than others might expect.
+
+%% Kiya Nicoll's March 30, 2024 email, subject "[Thantos] Random Celyn Things," supplied this list as roleplaying detail the party would have noticed. %%
 
 >[!Info]- Additional Context (Dan's Eyes Only)
 > Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [[The Wyrdling]].
