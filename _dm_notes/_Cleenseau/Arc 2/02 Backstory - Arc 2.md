@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 ---
 # Cleenseau Arc 2 Backstory
 
