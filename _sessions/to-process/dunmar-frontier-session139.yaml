@@ -1,17 +1,17 @@
 # Tentative configuration; finalized transcript still pending.
 # Recording allocation: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/dunmar-frontier-final-sessions-135-139.yaml
 # Audio directory:
-# /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 137/raw_audio
-# Tim track: Session137-Tim-Chunk-01.m4a
-# Kong track: Session137-Kong-Chunk-01.m4a, Session137-Kong-Chunk-02.m4a
-# Saturday afternoon: investigate Isingue and defeat the river ooze.
-# Ends facing the central ooze, before initiative and the sunset break.
+# /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 138/raw_audio
+# Tim track: Session138-Tim-Chunk-01.m4a
+# Epilogue: mirror visions and character departures.
+# Recording also contains campaign retrospective and future-game discussion.
+# In-world narration reaches approximately November 1749; exact dates unresolved.
 sourcePath: null
 sourceType: transcript
 scope: session
 outputDir: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier
 campaign: Dunmar Frontier
-sessionNumber: 137
+sessionNumber: 139
 realWorldDate: '2025-10-25'
 drStart: null
 drEnd: null

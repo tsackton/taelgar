@@ -93,6 +93,10 @@ def build_parser() -> argparse.ArgumentParser:
     refine.add_argument("--output-dir", type=Path, required=True)
     refine.add_argument("--review-id", required=True)
     refine.add_argument(
+        "--group", action="append", default=[],
+        help="Refine only this mixed or unknown group (repeatable); preserve other decisions.",
+    )
+    refine.add_argument(
         "--groups-per-parent",
         type=int,
         default=DEFAULT_REFINEMENT_GROUPS,
@@ -353,6 +357,10 @@ def refine_review(args: argparse.Namespace) -> int:
         for group_id, label in source_attributions["groupLabels"].items()
         if label["status"] in {"mixed", "unknown"}
     ]
+    if args.group:
+        if not set(args.group).issubset(parent_ids):
+            raise SpeakerReviewError("selected refinement groups must be reviewed as mixed or unknown")
+        parent_ids = [gid for gid in parent_ids if gid in set(args.group)]
     if not parent_ids:
         raise SpeakerReviewError("no mixed or unknown calibration groups to refine")
     missing_parents = sorted(set(parent_ids) - set(group_by_id))

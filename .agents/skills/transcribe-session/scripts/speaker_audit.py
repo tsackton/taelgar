@@ -113,7 +113,7 @@ def prepare_audit(args: argparse.Namespace) -> int:
     group_labels = attributions.get("groupLabels", {})
     overrides = attributions.get("utteranceOverrides", {})
     references = build_profile_references(
-        group_by_id, group_labels, utterance_by_id, embedding_by_id
+        group_by_id, group_labels, utterance_by_id, embedding_by_id, overrides
     )
     missing_profiles = participant_id_set - {item["participantId"] for item in references}
     if missing_profiles:
@@ -298,28 +298,32 @@ def build_profile_references(
     group_labels: dict[str, dict[str, Any]],
     utterance_by_id: dict[str, dict[str, Any]],
     embedding_by_id: dict[str, Any],
+    overrides: dict[str, dict[str, Any]] | None = None,
 ) -> list[dict[str, Any]]:
     references = []
+    overrides = overrides or {}
+    seen = set()
+    def append_reference(utterance_id: str, label: dict[str, Any], group_id: str | None) -> None:
+        utterance = utterance_by_id.get(utterance_id)
+        if (utterance_id in seen or label.get("status") != "assigned"
+                or "modelMargin" in label or "modelCosine" in label
+                or label.get("humanVerified") is False
+                or label.get("provenance") == "scribe-id-fallback"
+                or not utterance or utterance_id not in embedding_by_id
+                or float(utterance.get("durationSeconds", 0.0)) < 1.2
+                or int(utterance.get("wordCount", 0)) < 3):
+            return
+        seen.add(utterance_id)
+        references.append({"utteranceId": utterance_id, "participantId": label["participantId"],
+                           "groupId": group_id or f"manual-{utterance_id}", "embedding": embedding_by_id[utterance_id]})
     for group_id, label in sorted(group_labels.items()):
         if label.get("status") != "assigned" or group_id not in group_by_id:
             continue
         group = group_by_id[group_id]
         for utterance_id in group.get("representativeUtteranceIds", []):
-            utterance = utterance_by_id.get(utterance_id)
-            if (
-                utterance
-                and utterance_id in embedding_by_id
-                and float(utterance.get("durationSeconds", 0.0)) >= 1.2
-                and int(utterance.get("wordCount", 0)) >= 3
-            ):
-                references.append(
-                    {
-                        "utteranceId": utterance_id,
-                        "participantId": label["participantId"],
-                        "groupId": group_id,
-                        "embedding": embedding_by_id[utterance_id],
-                    }
-                )
+            append_reference(utterance_id, overrides.get(utterance_id, label), group_id)
+    for utterance_id, label in sorted(overrides.items()):
+        append_reference(utterance_id, label, utterance_by_id.get(utterance_id, {}).get("groupId"))
     return references
 
 
