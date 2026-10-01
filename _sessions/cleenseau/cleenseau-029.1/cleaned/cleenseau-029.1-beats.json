@@ -1,0 +1,35 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-source-cleaned.md",
+  "sessionPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-session.yaml",
+  "beats": [
+    {
+      "beatId": "b01",
+      "title": "Merriweathers Arrive",
+      "startUid": "u0001",
+      "endUid": "u0003",
+      "lineCount": 3,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The GM introduces the arriving Merriweather caravan and its members before Celyn responds.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "b02",
+      "title": "Celyn Discusses Clothing",
+      "startUid": "u0004",
+      "endUid": "u0017",
+      "lineCount": 14,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "The player turn shifts from the caravan introduction to Celyn's consultation and requests.",
+      "dateEvidence": []
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-session.yaml",
+  "beatsPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-beats.json",
+  "beatFactsPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-beat-facts.json",
+  "session": {
+    "campaign": "Cleenseau",
+    "scope": "session",
+    "sessionNumber": "29.1",
+    "realWorldDate": "2025-10-30",
+    "drStart": null,
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "beatIds": [
+        "b01",
+        "b02"
+      ],
+      "locationRefs": [
+        "Asineau"
+      ],
+      "npcRefs": [
+        "Quent Merriweather",
+        "Tobin Merriweather",
+        "Tamsin Merriweather"
+      ],
+      "organizationRefs": [
+        "Merriweathers"
+      ],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The Merriweather caravan arrives in Asineau with cloth and other goods.",
+        "Celyn asks the Merriweathers to help him dress for his role as Robin's consort."
+      ],
+      "sourceLongSummaries": [
+        "The Merriweathers bring three wagons to Asineau, carrying cloth, tailored clothing, carvings, Addermarch apple brandy, and Rinburg pottery. Quent leads the caravan, Tobin handles much of its trade, and Tamsin moves among the visitors and villagers.",
+        "Celyn speaks with the Merriweathers away from the wider village, inviting Robin to join them. He explains how his ordinary clothes deliberately present him as an unremarkable farm boy, while his role in Asineau calls for a more formal wardrobe that still feels authentic to him. He seeks advice on cut, fit, class signals, contrasting colors, and clothing he can move in, and asks whether they have better binding options."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b01",
+          "title": "Merriweathers Arrive",
+          "boundaryReason": "The GM introduces the arriving Merriweather caravan and its members before Celyn responds.",
+          "dateStart": null,
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0003"
+          },
+          "shortSummary": "The Merriweather caravan arrives in Asineau with cloth and other goods.",
+          "longSummary": "The Merriweathers bring three wagons to Asineau, carrying cloth, tailored clothing, carvings, Addermarch apple brandy, and Rinburg pottery. Quent leads the caravan, Tobin handles much of its trade, and Tamsin moves among the visitors and villagers.",
+          "locationHints": {
+            "refs": [
+              "Asineau"
+            ],
+            "context": "the Merriweathers' visiting caravan",
+            "notes": "The caravan visits the village."
+          },
+          "npcDetails": [
+            {
+              "name": "Quent Merriweather",
+              "role": "encountered",
+              "context": "caravan leader"
+            },
+            {
+              "name": "Tobin Merriweather",
+              "role": "encountered",
+              "context": "trader"
+            },
+            {
+              "name": "Tamsin Merriweather",
+              "role": "encountered",
+              "context": "caravan member"
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Merriweathers",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "b02",
+          "title": "Celyn Discusses Clothing",
+          "boundaryReason": "The player turn shifts from the caravan introduction to Celyn's consultation and requests.",
+          "dateStart": null,
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0004",
+            "endUid": "u0017"
+          },
+          "shortSummary": "Celyn asks the Merriweathers to help him dress for his role as Robin's consort.",
+          "longSummary": "Celyn speaks with the Merriweathers away from the wider village, inviting Robin to join them. He explains how his ordinary clothes deliberately present him as an unremarkable farm boy, while his role in Asineau calls for a more formal wardrobe that still feels authentic to him. He seeks advice on cut, fit, class signals, contrasting colors, and clothing he can move in, and asks whether they have better binding options.",
+          "locationHints": {
+            "refs": [
+              "Asineau"
+            ],
+            "context": "a private conversation by the visiting caravan",
+            "notes": "The player places the conversation near the Merriweathers and away from the wider village."
+          },
+          "organizationDetails": [
+            {
+              "name": "Merriweathers",
+              "role": "encountered"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Celyn Consults the Merriweathers",
+      "beatIds": [
+        "b01",
+        "b02"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0017"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0003"
+        },
+        {
+          "startUid": "u0004",
+          "endUid": "u0017"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [
+        "Asineau"
+      ],
+      "npcRefs": [
+        "Quent Merriweather",
+        "Tobin Merriweather",
+        "Tamsin Merriweather"
+      ],
+      "organizationRefs": [
+        "Merriweathers"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The Merriweather caravan arrives in Asineau with cloth and other goods.",
+        "Celyn asks the Merriweathers to help him dress for his role as Robin's consort."
+      ],
+      "sourceLongSummaries": [
+        "The Merriweathers bring three wagons to Asineau, carrying cloth, tailored clothing, carvings, Addermarch apple brandy, and Rinburg pottery. Quent leads the caravan, Tobin handles much of its trade, and Tamsin moves among the visitors and villagers.",
+        "Celyn speaks with the Merriweathers away from the wider village, inviting Robin to join them. He explains how his ordinary clothes deliberately present him as an unremarkable farm boy, while his role in Asineau calls for a more formal wardrobe that still feels authentic to him. He seeks advice on cut, fit, class signals, contrasting colors, and clothing he can move in, and asks whether they have better binding options."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "b01",
+          "title": "Merriweathers Arrive",
+          "boundaryReason": "The GM introduces the arriving Merriweather caravan and its members before Celyn responds.",
+          "dateStart": null,
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0003"
+          },
+          "shortSummary": "The Merriweather caravan arrives in Asineau with cloth and other goods.",
+          "longSummary": "The Merriweathers bring three wagons to Asineau, carrying cloth, tailored clothing, carvings, Addermarch apple brandy, and Rinburg pottery. Quent leads the caravan, Tobin handles much of its trade, and Tamsin moves among the visitors and villagers.",
+          "locationHints": {
+            "refs": [
+              "Asineau"
+            ],
+            "context": "the Merriweathers' visiting caravan",
+            "notes": "The caravan visits the village."
+          },
+          "npcDetails": [
+            {
+              "name": "Quent Merriweather",
+              "role": "encountered",
+              "context": "caravan leader"
+            },
+            {
+              "name": "Tobin Merriweather",
+              "role": "encountered",
+              "context": "trader"
+            },
+            {
+              "name": "Tamsin Merriweather",
+              "role": "encountered",
+              "context": "caravan member"
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Merriweathers",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "b02",
+          "title": "Celyn Discusses Clothing",
+          "boundaryReason": "The player turn shifts from the caravan introduction to Celyn's consultation and requests.",
+          "dateStart": null,
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0004",
+            "endUid": "u0017"
+          },
+          "shortSummary": "Celyn asks the Merriweathers to help him dress for his role as Robin's consort.",
+          "longSummary": "Celyn speaks with the Merriweathers away from the wider village, inviting Robin to join them. He explains how his ordinary clothes deliberately present him as an unremarkable farm boy, while his role in Asineau calls for a more formal wardrobe that still feels authentic to him. He seeks advice on cut, fit, class signals, contrasting colors, and clothing he can move in, and asks whether they have better binding options.",
+          "locationHints": {
+            "refs": [
+              "Asineau"
+            ],
+            "context": "a private conversation by the visiting caravan",
+            "notes": "The player places the conversation near the Merriweathers and away from the wider village."
+          },
+          "organizationDetails": [
+            {
+              "name": "Merriweathers",
+              "role": "encountered"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Quent Merriweather",
+        "beatIds": [
+          "b01"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Tobin Merriweather",
+        "beatIds": [
+          "b01"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Tamsin Merriweather",
+        "beatIds": [
+          "b01"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Asineau",
+        "beatIds": [
+          "b01",
+          "b02"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Quent Merriweather",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "caravan leader",
+          "beatIds": [
+            "b01"
+          ],
+          "history": []
+        },
+        {
+          "name": "Tobin Merriweather",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "trader",
+          "beatIds": [
+            "b01"
+          ],
+          "history": []
+        },
+        {
+          "name": "Tamsin Merriweather",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "caravan member",
+          "beatIds": [
+            "b01"
+          ],
+          "history": []
+        }
+      ],
+      "locations": [
+        {
+          "name": "Asineau",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "the Merriweathers' visiting caravan",
+          "beatIds": [
+            "b01",
+            "b02"
+          ],
+          "visits": []
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Merriweathers",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "b01",
+            "b02"
+          ],
+          "history": []
+        }
+      ],
+      "items": []
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  },
+  "recapScenesPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-recap-scenes.json"
+}

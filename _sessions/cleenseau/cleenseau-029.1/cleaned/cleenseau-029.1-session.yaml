@@ -1,0 +1,16 @@
+schemaVersion: '1.0'
+sourceType: narrative
+scope: session
+campaign: Cleenseau
+sessionNumber: '29.1'
+realWorldDate: '2025-10-30'
+sourceTitle: Celyn and the Merriweathers
+sourceAuthor: Mike Sackton and Kiya Nicoll
+drStart: '1720-05'
+drEnd: null
+sourceInputPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-029.1/sources/The Merriweathers - Authored Turns.md
+sourceConfigPath: D:/personal/taelgar/_sessions/cleenseau/cleenseau-029.1/sources/cleenseau-session029.1.yaml
+narrativeUnit: paragraph
+participants:
+- {name: Mike Sackton, gameRole: DM, transcriptIdentifiers: []}
+- {name: Kiya Nicoll, gameRole: Celyn, transcriptIdentifiers: []}

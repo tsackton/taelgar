@@ -6,7 +6,7 @@ POV: 1720
 # Celyn Sends Wine to His Sister
 
 %% Email from Kiya Nicoll on October 31, 2025 with subject "As promised, Celyn being a very silly fellow." %%
-%% In-world time: During the development of Asineau's glassworks, after Celyn became Robin's consort; the exact day is not established. The letter's bracketed particulars and wording are retained as authored. %%
+%% In-world time: During the development of Asineau's glassworks, after Celyn became Robin's consort; the exact day is not established. %%
 
 Celyn’s intent, once he gets a box of winebottles that he is happy with (which he is a bit picky about), is to send a) the box of bottles, b) the bolt of fabric, and c) a letter to his sister, who is a vintner at the Clawyn winery (not in charge, but no longer a junior, I imagine by this point in time; she’s in her mid thirties now, as my notes have her as a decade older than Celyn, who just turned 24 in the early spring).
 
