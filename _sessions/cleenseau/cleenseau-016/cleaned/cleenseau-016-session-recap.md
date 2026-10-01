@@ -202,4 +202,3 @@ The party escorts the people of [[Ashcombe]] to [[Aslain]], where they reunite w
 - [[Uses of Sending (Email)]]
 - [[Aveil - What You Know (Email)]]
 - [[Into Aveil - Meta (Email)]]
-- [[Next Session Meta July 2024 (Email)]]
