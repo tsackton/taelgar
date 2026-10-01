@@ -9,6 +9,8 @@ knownTo: [clee]
 
 Samuel Cordwaner is [[Odo Cordwaner|Odo's]] younger brother. Presumed dead after fleeing zombies, he was found hiding in the hills and escorted to safety in [[Essenmer]].
 
+He came to [[Asineau]] with Odo in late April 1720 and began training as a smith under [[Roaric Ferrystone]].
+
 %% Sources:
 - [[Cleenseau - Session 16]]
 %%

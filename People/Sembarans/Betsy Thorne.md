@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 ancestry: Sembaran
 species: human
 gender: female
@@ -18,3 +18,10 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The daughter of [[Jon Thorne]], cousin of [[Beatrix Thorne]] and a member of the Cleenseau town watch.
+
+In late April 1720, Betsy left [[Rosalind Essford|Rosalind's]] guard for [[Asineau]], where she joined the guard. She wanted a fresh start away from comparison with her cousin and felt that Ames, her former captain, was a poor teacher.
+
+%% Sources:
+- [[Asineau Hirelings (Email)]]
+- [[Cleenseau - Session 29]]
+%%

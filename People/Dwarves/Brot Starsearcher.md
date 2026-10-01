@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Brot Starsearcher
 born: 1579
 species: dwarf
@@ -20,3 +20,5 @@ dm_owner: mike
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[brot-portrait.png|right|320]]A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [[Taviose]], a small village on the outskirts of [[Cleenseau]]. 
+
+In spring 1720, Brot and [[Diesla Starsearcher|Diesla]] moved their workshop to [[Asineau]] and became its workshop masters.

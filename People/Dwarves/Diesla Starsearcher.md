@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 campaignInfo:
 - {campaign: Clee, type: met}
 name: Diesla Starsearcher
@@ -21,3 +21,5 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 [[Brot Starsearcher]]'s wife, a respected metalsmith in [[Taviose]]. A patient and loving companion to her somewhat scatterbrained spouse.
+
+In spring 1720, she and Brot moved their workshop to [[Asineau]] and became its workshop masters.

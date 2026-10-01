@@ -10,6 +10,6 @@ knownTo: [clee]
 Marguerite d'Aslain was the mother of [[Isabeau D'Aslain]]. A portrait in [[Veltor Keep]] depicts her near death, probably from consumption.
 
 %% Sources:
-- [[Fey Aftermath - Baroness Tower]]
+- [[Baroness Tower Search (Email)]]
 - [[Cleenseau - Session 20]]
 %%

@@ -80,7 +80,7 @@ With the trap reset and the allied kobolds close at hand, the party waits outsid
 - Time: multi-month
 - Source Range: u0001 -> u0020
 - Locations: Asineau, Ganboa
-- NPCs: Cadfael de Dufferin, Erick Murtha, Catherine de Brune, Rosalind Essford, Eleanor, Bolgrim Ferrystone, Roaric Ferrystone, Odo Cordwaner, Samuel Cordwaner, Abigail Moss, Brot Starsearcher, Diesla Starsearcher, Bastien, Betsy Throne, Mabel of Cleenseau, Avelina Smith, Matias, Connor, Elbeth, Rinault Essford, Yvette, Quent Merriweather, Tobin Merriweather, Tamsin Merriweather, Lenora Belles, Unai, Erdu, Izoko
+- NPCs: Cadfael de Dufferin, Erick Murtha, Catherine de Brune, Rosalind Essford, Eleanor, Bolgrim Ferrystone, Roaric Ferrystone, Odo Cordwaner, Samuel Cordwaner, Abigail Moss, Brot Starsearcher, Diesla Starsearcher, Bastien of Asineau, Betsy Thorne, Mabel of Cleenseau, Avelina Smith, Matias, Connor, Elbeth, Rinault Essford, Yvette, Quent Merriweather, Tobin Merriweather, Tamsin Merriweather, Lenora Belles, Unai, Erdu, Izoko
 - Organizations: none
 - Items: none
 - Enemies: none
@@ -199,8 +199,8 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Abigail Moss]] (met): orchardkeeper and pig farmer who comes to Asineau with Odo and Samuel
 - [[Brot Starsearcher]] (met): engineer who relocates his workshop to Asineau
 - [[Diesla Starsearcher]] (met): engineer who relocates her workshop to Asineau
-- [[Bastien]] (met): former Army of the West soldier who joins Asineau's guard
-- [[Betsy Throne]] (met): young guard seeking a new start in Asineau
+- [[Bastien of Asineau|Bastien]] (met): former Army of the West soldier who joins Asineau's guard
+- [[Betsy Thorne]] (met): young guard seeking a new start in Asineau
 - [[Mabel of Cleenseau]] (met): recruit who comes to Asineau for guard training
 - [[Avelina Smith]] (met): injured weaponsmith recruited as armoury master
 - [[Matias]] (met): one of Asineau's original guards

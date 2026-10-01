@@ -127,8 +127,8 @@ https://kiya.dreamwidth.org/824905.html
 - [[Abigail Moss]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): orchardkeeper and pig farmer who comes to [[Asineau]] with Odo and Samuel.
 - [[Brot Starsearcher]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): engineer who relocates his workshop to [[Asineau]].
 - [[Diesla Starsearcher]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): engineer who relocates her workshop to [[Asineau]].
-- [[Bastien]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): former [[Army of the West]] soldier who joins Asineau's guard.
-- [[Betsy Throne]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): young guard seeking a new start in [[Asineau]].
+- [[Bastien of Asineau|Bastien]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): former [[Army of the West]] soldier who joins Asineau's guard.
+- [[Betsy Thorne]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): young guard seeking a new start in [[Asineau]].
 - [[Mabel of Cleenseau]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): recruit who comes to [[Asineau]] for guard training.
 - [[Avelina Smith]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): injured weaponsmith recruited as armoury master.
 - [[Matias]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): one of Asineau's original guards.

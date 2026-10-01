@@ -13,6 +13,6 @@ Master Alaric is the quiet, unassuming tutor of [[Esme d'Aslain]] and [[Rene d'A
 
 %% Sources:
 - [[People of Aveil Working Doc]]
-- [[Fey Aftermath - Baroness Tower]]
+- [[Baroness Tower Search (Email)]]
 - [[Cleenseau - Session 20]]
 %%

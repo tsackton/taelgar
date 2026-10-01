@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Abigail Moss
 born: 1698
 species: human
@@ -22,6 +22,8 @@ Her family holds the orchard and several buildings in [[Taviose]] as freeholders
 
 %%^Campaign:Clee%%
 She has a potentially budding romance with [[Odo Cordwaner]], and a clear crush on [[Robin of Abenfyrd|Robin]]. 
+
+In late April 1720, she came to [[Asineau]] with Odo and his younger brother [[Samuel Cordwaner|Samuel]]. An orchardkeeper and pig farmer, she had not yet settled on a role there.
 %%^End%%
 
 %%^Campaign:None%%
