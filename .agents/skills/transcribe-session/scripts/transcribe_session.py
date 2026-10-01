@@ -131,12 +131,12 @@ def build_parser() -> argparse.ArgumentParser:
     speaker_group.add_argument(
         "--num-speakers",
         type=int,
-        help="Expected speakers; defaults to the number of roster participants.",
+        help="Explicit fixed speaker count; omitted by default for automatic detection.",
     )
     speaker_group.add_argument(
         "--auto-speakers",
         action="store_true",
-        help="Omit num_speakers and let Scribe v2 detect the speaker count.",
+        help="Explicitly request automatic speaker detection (the default; this flag is optional).",
     )
     parser.add_argument(
         "--env-file",
@@ -182,15 +182,11 @@ def run(args: argparse.Namespace) -> int:
         label="transcription output directory",
     )
 
-    participant_terms, participant_count = load_participant_terms(participants_path)
+    participant_terms, _ = load_participant_terms(participants_path)
     file_terms = load_keyterm_file(keyterms_path) if keyterms_path else []
     keyterms = validate_keyterms([*participant_terms, *file_terms, *args.keyterm])
 
-    num_speakers = (
-        None
-        if args.auto_speakers
-        else participant_count if args.num_speakers is None else args.num_speakers
-    )
+    num_speakers = args.num_speakers
     if num_speakers is not None and num_speakers < 1:
         raise TranscriptionError("--num-speakers must be a positive integer")
     language_code = str(args.language_code).strip()
@@ -887,7 +883,7 @@ def render_speaker_preview(
         "",
         f"Source: `{audio_name}`",
         "",
-        "Use these excerpts to identify the per-file speaker IDs. Do not assume IDs remain stable across recordings.",
+        "Use these excerpts to audit the anonymous Scribe IDs for mixed voices. They do not establish a global ID-to-person mapping. Participant identities come from verified per-segment voice classification; sufficiently pure IDs may then label short cues. Do not assume IDs remain stable across recordings.",
         "",
     ]
     for speaker in sorted(by_speaker):

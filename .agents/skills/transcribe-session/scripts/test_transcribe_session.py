@@ -160,6 +160,7 @@ class TranscribeSessionTests(unittest.TestCase):
             )
         self.assertEqual(status, 200)
         command = run_mock.call_args.args[0]
+        self.assertIn("num_speakers=5", command)
         self.assertNotIn("test-secret-key", " ".join(command))
         self.assertIn("test-secret-key", run_mock.call_args.kwargs["input"])
 
@@ -219,6 +220,7 @@ class TranscribeSessionTests(unittest.TestCase):
 
             def fake_curl(**kwargs: object) -> int:
                 self.assertEqual(kwargs["api_key"], "test-secret-key")
+                self.assertIsNone(kwargs["num_speakers"])
                 Path(kwargs["response_path"]).write_text(
                     json.dumps(SAMPLE_RESPONSE), encoding="utf-8"
                 )
@@ -278,6 +280,8 @@ class TranscribeSessionTests(unittest.TestCase):
 
             manifest = json.loads(expected_files[2].read_text(encoding="utf-8"))
             self.assertEqual(manifest["request"]["model"], "scribe_v2")
+            self.assertEqual(manifest["request"]["speakerDetection"], "automatic")
+            self.assertNotIn("numSpeakers", manifest["request"])
             self.assertEqual(
                 manifest["response"]["speakerIds"], ["speaker_0", "speaker_1"]
             )
@@ -317,42 +321,52 @@ class TranscribeSessionTests(unittest.TestCase):
         self.assertEqual(result, 0)
         self.assertFalse(output_dir.exists())
 
-    def test_auto_speakers_dry_run_records_automatic_detection(self) -> None:
+    def test_speaker_detection_default_and_explicit_overrides(self) -> None:
         with tempfile.TemporaryDirectory() as raw_dir:
             root = Path(raw_dir)
             audio = root / "Session-Test.m4a"
             audio.write_bytes(b"fake m4a data")
             participants = root / "participants.yaml"
             participants.write_text(
-                "participants:\n- name: Tim Sackton\n  gameRole: DM\n",
+                "participants:\n"
+                "- {name: David Kong, gameRole: Kenzo}\n"
+                "- {name: David Schwartz, gameRole: Wellby}\n"
+                "- {name: Mike Sackton, gameRole: Delwath}\n"
+                "- {name: Eric Rosenbaum, gameRole: Seeker}\n"
+                "- {name: Tim Sackton, gameRole: DM}\n",
                 encoding="utf-8",
             )
             output_dir = root / "output"
-            with mock.patch.dict(
-                os.environ,
-                {"ELEVENLABS_API_KEY": "", "ELEVEN_LABS_API": ""},
-                clear=False,
-            ), mock.patch.object(
-                MODULE,
-                "resolve_clip_backend",
-                return_value=MODULE.MediaBackend("fake", "/fake/media-tool"),
-            ), mock.patch("sys.stdout", new_callable=lambda: __import__("io").StringIO()) as stdout:
-                result = MODULE.main(
-                    [
-                        str(audio),
-                        "--participants",
-                        str(participants),
-                        "--output-dir",
-                        str(output_dir),
-                        "--auto-speakers",
-                        "--dry-run",
-                    ]
-                )
-            plan = json.loads(stdout.getvalue())
-        self.assertEqual(result, 0)
-        self.assertIsNone(plan["numSpeakers"])
-        self.assertEqual(plan["speakerDetection"], "automatic")
-        self.assertFalse(output_dir.exists())
+            for flags, expected_count in [([], None), (["--auto-speakers"], None), (["--num-speakers", "3"], 3)]:
+                with self.subTest(flags=flags), mock.patch.dict(
+                    os.environ,
+                    {"ELEVENLABS_API_KEY": "", "ELEVEN_LABS_API": ""},
+                    clear=False,
+                ), mock.patch.object(
+                    MODULE,
+                    "resolve_clip_backend",
+                    return_value=MODULE.MediaBackend("fake", "/fake/media-tool"),
+                ), mock.patch("sys.stdout", new_callable=lambda: __import__("io").StringIO()) as stdout:
+                    result = MODULE.main(
+                        [
+                            str(audio),
+                            "--participants",
+                            str(participants),
+                            "--output-dir",
+                            str(output_dir),
+                            *flags,
+                            "--dry-run",
+                        ]
+                    )
+                    plan = json.loads(stdout.getvalue())
+                    self.assertEqual(result, 0)
+                    self.assertEqual(plan["numSpeakers"], expected_count)
+                    self.assertEqual(
+                        plan["speakerDetection"],
+                        "automatic" if expected_count is None else "expected-count",
+                    )
+                    self.assertIn("Kenzo", plan["keyterms"])
+                    self.assertFalse(output_dir.exists())
 
     def test_speaker_sample_preflight_failure_prevents_upload(self) -> None:
         with tempfile.TemporaryDirectory() as raw_dir:

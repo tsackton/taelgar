@@ -126,6 +126,10 @@ def build_parser() -> argparse.ArgumentParser:
     serve.add_argument("--attributions", type=Path)
     serve.add_argument("--host", default="127.0.0.1")
     serve.add_argument("--port", type=int, default=8765)
+    serve.add_argument(
+        "--reference-utterance", action="append", default=[], metavar="ID",
+        help="Offer only these exact clips for human reference collection (repeatable).",
+    )
 
     render = subparsers.add_parser("render", help="Render reviewed assignments as VTT.")
     render.add_argument("review", type=Path)
@@ -1010,6 +1014,33 @@ def choose_representatives(
     return [feature_ids[position] for position in selected]
 
 
+def reference_review_payload(review: dict[str, Any], utterance_ids: Sequence[str]) -> dict[str, Any]:
+    """Add a display-only focus without changing the frozen review or its groups."""
+    selected = list(dict.fromkeys(utterance_ids))
+    known = {item["id"] for item in review["utterances"]}
+    if set(selected) - known:
+        raise SpeakerReviewError("reference collection names unknown utterance ids")
+    if not selected:
+        return review
+    return {**review, "referenceCollection": {"utteranceIds": selected,
+            "purpose": "Human listening anchors; suggested identities remain hidden."}}
+
+
+def validate_reference_changes(current: dict[str, Any], proposed: dict[str, Any],
+                               utterance_ids: Sequence[str]) -> None:
+    """A focused page can edit only its selected per-cue listening decisions."""
+    selected = set(utterance_ids)
+    ignored = {"utteranceOverrides", "updatedAt"}
+    if any(current.get(key) != proposed.get(key)
+           for key in (set(current) | set(proposed)) - ignored):
+        raise SpeakerReviewError("focused reference review cannot change group or verification decisions")
+    existing = current.get("utteranceOverrides", {})
+    updated = proposed.get("utteranceOverrides", {})
+    if any(existing.get(key) != updated.get(key)
+           for key in (set(existing) | set(updated)) - selected):
+        raise SpeakerReviewError("focused reference review cannot change other utterance decisions")
+
+
 def serve_review(args: argparse.Namespace) -> int:
     review_path = resolve_input(args.review, "speaker review")
     review = load_json_object(review_path, "speaker review")
@@ -1026,6 +1057,8 @@ def serve_review(args: argparse.Namespace) -> int:
     attributions_path = resolve_input(attributions_path, "speaker attributions")
     attributions = load_json_object(attributions_path, "speaker attributions")
     validate_attributions(review, attributions)
+    reference_ids = getattr(args, "reference_utterance", [])
+    public_review = reference_review_payload(review, reference_ids)
     if args.host not in {"127.0.0.1", "localhost", "::1"}:
         raise SpeakerReviewError("the review server may bind only to localhost")
     html_path = Path(__file__).parents[1] / "assets" / "speaker-review.html"
@@ -1043,7 +1076,7 @@ def serve_review(args: argparse.Namespace) -> int:
                 self.send_bytes(html, "text/html; charset=utf-8")
                 return
             if parsed.path == "/api/review":
-                self.send_json(review)
+                self.send_json(public_review)
                 return
             if parsed.path == "/api/attributions":
                 self.send_json(load_json_object(attributions_path, "speaker attributions"))
@@ -1064,6 +1097,8 @@ def serve_review(args: argparse.Namespace) -> int:
                     raise SpeakerReviewError("invalid attribution request size")
                 payload = json.loads(self.rfile.read(length).decode("utf-8"))
                 validate_attributions(review, payload)
+                if reference_ids:
+                    validate_reference_changes(load_json_object(attributions_path, "speaker attributions"), payload, reference_ids)
                 payload["updatedAt"] = utc_now()
                 atomic_write_json(attributions_path, payload)
             except (UnicodeError, json.JSONDecodeError, SpeakerReviewError) as exc:

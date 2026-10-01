@@ -21,6 +21,32 @@ SPEC.loader.exec_module(MODULE)
 
 
 class SpeakerReviewTests(unittest.TestCase):
+    def test_reference_focus_preserves_review_and_rejects_unknown_cues(self) -> None:
+        review = self.review_fixture()
+        original = json.loads(json.dumps(review))
+        uid = review["utterances"][0]["id"]
+        focused = MODULE.reference_review_payload(review, [uid, uid])
+        self.assertEqual(focused["referenceCollection"]["utteranceIds"], [uid])
+        self.assertEqual(review, original)
+        self.assertEqual(focused["utterances"], original["utterances"])
+        self.assertEqual(focused["groups"], original["groups"])
+        with self.assertRaises(MODULE.SpeakerReviewError):
+            MODULE.reference_review_payload(review, ["absent"])
+
+    def test_reference_page_can_change_only_selected_cue_decisions(self) -> None:
+        current = self.attribution_fixture()
+        uid = self.review_fixture()["utterances"][0]["id"]
+        proposed = json.loads(json.dumps(current))
+        proposed["utteranceOverrides"][uid] = {"status": "assigned", "participantId": "p01"}
+        MODULE.validate_reference_changes(current, proposed, [uid])
+        proposed["groupLabels"]["r01-g001"] = {"status": "unknown", "participantId": None}
+        with self.assertRaises(MODULE.SpeakerReviewError):
+            MODULE.validate_reference_changes(current, proposed, [uid])
+        proposed = json.loads(json.dumps(current))
+        proposed["utteranceOverrides"]["not-selected"] = {"status": "unknown", "participantId": None}
+        with self.assertRaises(MODULE.SpeakerReviewError):
+            MODULE.validate_reference_changes(current, proposed, [uid])
+
     def test_render_refuses_output_under_vault_sessions(self) -> None:
         with tempfile.TemporaryDirectory() as raw_dir:
             root = Path(raw_dir)
