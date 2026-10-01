@@ -21,4 +21,4 @@ dm_notes: none
 
 Adrian of Embry was the first [[Duchy of Sembara|Duke of Sembara]]. 
 
-%% AI note: Sources place Adrian's rise in DR 1142, but [[Timeline of Sembaran History]] and [[Canonical Events]] both flag the exact date or event as not fully certain. Other sources used: [[Avatus Brainstorming - Summaries]] and [[GDrive - Sembara Document]]. %%
+%% AI note: Sources place Adrian's rise in DR 1142, but [[Timeline of Sembaran History]] and [[Canonical Events]] both flag the exact date or event as not fully certain. Other sources used: [[Avatus Brainstorming - Summaries]] and [[GDrive - Sembara Guide - Final Text and Comments]] %%
