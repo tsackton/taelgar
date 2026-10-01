@@ -6,18 +6,6 @@ POV: 1720
 
 Complete local archive of the Rangers in Champimont email thread (13 messages). Message bodies preserve original quoted reply history; the reading copy at [[Rangers in Champimont]] omits repeated quotations.
 
-The opening message's nine inline images are preserved below in their order of appearance:
-
-1. [[Rangers in Champimont - Champimont.png|Champimont]]
-2. [[Rangers in Champimont - Vahaiya.png|Vahaiya]]
-3. [[Rangers in Champimont - Adra Brightwood.png|Adra Brightwood]]
-4. [[Rangers in Champimont - Enzo Brightwood.png|Enzo Brightwood]]
-5. [[Rangers in Champimont - Damien Montrichard.png|Damien Montrichard]]
-6. [[Rangers in Champimont - Tristan Vaudrillard.png|Tristan Vaudrillard]]
-7. [[Rangers in Champimont - Emilie.png|Emilie]]
-8. [[Rangers in Champimont - Remille Vauclaire.png|Remille Vauclaire]]
-9. [[Rangers in Champimont - Armand.png|Armand]]
-
 ## Wed, 20 Mar 2024 15:45:12 -0400 — Mike Sackton <msackton@gmail.com>
 
 Subject: In Champimont  - Part 1 - The Rangers (Intros)
