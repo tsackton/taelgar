@@ -56,8 +56,8 @@ The party begins restoring [[Asineau]], then travels to [[Marwick]] and prepares
 - [[Abigail Moss]] (Sembaran): orchardkeeper and pig farmer who comes to [[Asineau]] with Odo and Samuel.
 - [[Brot Starsearcher]] (dwarf): engineer who relocates his workshop to [[Asineau]].
 - [[Diesla Starsearcher]] (dwarf): engineer who relocates her workshop to [[Asineau]].
-- [[Bastien]] (human): former [[Army of the West]] soldier who joins Asineau's guard.
-- [[Betsy Throne]] (human): young guard seeking a new start in [[Asineau]].
+- [[Bastien of Asineau|Bastien]] (human): former [[Army of the West]] soldier who joins Asineau's guard.
+- [[Betsy Thorne]] (human): young guard seeking a new start in [[Asineau]].
 - [[Mabel of Cleenseau]] (Sembaran): recruit who comes to [[Asineau]] for guard training.
 - [[Avelina Smith]] (Zimka): injured weaponsmith recruited as armoury master.
 - [[Matias]] (Sembaran): one of Asineau's original guards.

@@ -9,7 +9,7 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 
 **Categories:** **Meta/Rules** is scheduling, game procedure, character mechanics, or other out-of-game material with no substantial setting content. **Extractable Info** contains useful setting or character material but no played scene; proposals and theories still need review before becoming canon. **Story or Monologue** is principally a character's account, thoughts, letter, or player-authored character scene. **Narrative** is a mostly continuous descriptive story with little exchange. **Session Extension** adds to or clarifies a played session, or is a short/incomplete email scene. **Session** is a sustained, self-contained play-by-email exchange that could support its own session note. A category describes the document's form and use, not whether every claim in it is established canon.
 
-**Counts (115 files):** Meta/Rules 5; Extractable Info 32; Story or Monologue 3; Narrative 0; Session Extension 34; Session 41.
+**Counts (105 files):** Meta/Rules 3; Extractable Info 31; Story or Monologue 3; Narrative 0; Session Extension 29; Session 39.
 
 ## Raw Emails
 
@@ -17,13 +17,9 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | --- | --- | --- |
 | [[Raw Emails/April Around Asineau (Email)|April Around Asineau (Email)]] | Session | Spring update followed by substantial player and DM turns. |
 | [[Raw Emails/Asineau as Bastion (Email)|Asineau as Bastion (Email)]] | Extractable Info | Bastion choices and proposed Asineau development. |
-| [[Raw Emails/Asineau Fallout (Email)|Asineau Fallout (Email)]] | Session | Archive of a long, played Asineau exchange. |
 | [[Raw Emails/Asineau Gates and Walls (Email)|Asineau Gates and Walls (Email)]] | Extractable Info | Design and tactical discussion of proposed fortifications. |
-| [[Raw Emails/Asineau Hirelings (Email)|Asineau Hirelings (Email)]] | Meta/Rules | Bastion staffing and job requests; excluded from vault extraction. |
-| [[Raw Emails/Asineau in May (Email)|Asineau in May (Email)]] | Extractable Info | **Applied to [[Beury]]**: Empty Cauldron festival and 1720 celebration. Other briefings remain in the email. |
 | [[Raw Emails/Asineau Interlude - April Preparation (Email)|Asineau Interlude - April Preparation (Email)]] | Extractable Info | Downtime plans and situation briefing; choices are provisional. |
 | [[Raw Emails/Asineau Loose End (Email)|Asineau Loose End (Email)]] | Session | Extended exchange resolving what the party does with Asineau. |
-| [[Raw Emails/Asineau Taxes and Income (Email)|Asineau Taxes and Income (Email)]] | Meta/Rules | SimManor accounting and short-term finances; excluded from vault extraction. |
 | [[Raw Emails/Asineau Wall and Tactical Considerations (Email)|Asineau Wall and Tactical Considerations (Email)]] | Extractable Info | Proposed defenses and tactical discussion. |
 | [[Raw Emails/At The Elegant Swan in Champimont|At The Elegant Swan in Champimont]] | Session | Multi-turn tavern conversation about magic. |
 | [[Raw Emails/Aveil - What You Know (Email)|Aveil - What You Know (Email)]] | Extractable Info | **Applied to [[Barony of Aveil]]**: routes and approximate travel pace. Other briefing details remain in the email. |
@@ -38,7 +34,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Cleenseau - Raw Emails|Cleenseau - Raw Emails]] | Meta/Rules | Folder guide, not correspondence or an in-world scene. |
 | [[Raw Emails/Cleenseau - The Oracle of Hope|Cleenseau - The Oracle of Hope]] | Session | Compiled Oracle encounter and party responses. |
 | [[Raw Emails/Cleenseau - Timeline New Year 1720|Cleenseau - Timeline New Year 1720]] | Session Extension | Recap timeline of recent campaign events. |
-| [[Raw Emails/Cleenseau - What You've Learned|Cleenseau - What You've Learned]] | Session Extension | Post-session briefing on what the party learned. |
 | [[Raw Emails/Cleenseau Next Steps Take 2 (Email)|Cleenseau Next Steps Take 2 (Email)]] | Extractable Info | Campaign situation and proposed next actions. |
 | [[Raw Emails/Cleenseau Timeline (Email)|Cleenseau Timeline (Email)]] | Session Extension | Campaign event recap and timeline discussion. |
 | [[Raw Emails/Cleenseau What You Learned - Correspondence (Email)|Cleenseau What You Learned - Correspondence (Email)]] | Session Extension | DM briefing and player questions after play. |
@@ -47,7 +42,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Doing Paladin Stuff (Email)|Doing Paladin Stuff (Email)]] | Extractable Info | Paladin role and healing discussed in-world and out. |
 | [[Raw Emails/Entering the Portal - Planning and Character Rules (Email)|Entering the Portal - Planning and Character Rules (Email)]] | Meta/Rules | Tactical plans and character rules, not completed play. |
 | [[Raw Emails/Fellburn Aftermath - Audience with Duke|Fellburn Aftermath - Audience with Duke]] | Session | Compiled audience scene with party contributions. |
-| [[Raw Emails/Fey Aftermath - Baroness Tower|Fey Aftermath - Baroness Tower]] | Session Extension | Additive tower scene after the fey confrontation. |
 | [[Raw Emails/Fey Aftermath - Tower of Records|Fey Aftermath - Tower of Records]] | Session | Search of the tower with player and DM turns. |
 | [[Raw Emails/Fey Aftermath in Veltor (Email)|Fey Aftermath in Veltor (Email)]] | Session | Sustained aftermath scene with several turns. |
 | [[Raw Emails/Fey Aftermaths (Email)|Fey Aftermaths (Email)]] | Session | Continued play after Areschera's death. |
@@ -60,8 +54,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Halflings Balthazar and Tharwa Fea (Email)|Halflings Balthazar and Tharwa Fea (Email)]] | Session Extension | Regional update and short party follow-up. |
 | [[Raw Emails/Heir to House Griffin (Email)|Heir to House Griffin (Email)]] | Extractable Info | Proposed heir and house succession discussion. |
 | [[Raw Emails/Hunter Aftermaths (Email)|Hunter Aftermaths (Email)]] | Session Extension | Unfinished aftermath exchange deferred to play. |
-| [[Raw Emails/Hunter Aftermaths|Hunter Aftermaths]] | Session Extension | Immediate post-battle scene fragment. |
-| [[Raw Emails/Hunting Lorin (Email)|Hunting Lorin (Email)]] | Session | Long, independent 37-turn hunt. |
 | [[Raw Emails/Into Aslain (Email)|Into Aslain (Email)]] | Session Extension | Arrival briefing, plans, and clarifications. |
 | [[Raw Emails/Izgil Character Background (Email)|Izgil Character Background (Email)]] | Extractable Info | Early character history and DM feedback. |
 | [[Raw Emails/Izgil Lunar Sorcerer Early Design (Email)|Izgil Lunar Sorcerer Early Design (Email)]] | Meta/Rules | Extensive proposed sorcerer mechanics. |
@@ -86,7 +78,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/SimManor Approach (Email)|SimManor Approach (Email)]] | Extractable Info | Player priorities for developing Asineau. |
 | [[Raw Emails/Taelgar Letter Open When Told (Email)|Taelgar Letter Open When Told (Email)]] | Session Extension | In-world letter and resulting discussion. |
 | [[Raw Emails/Taelgar What You Know - Correspondence (Email)|Taelgar What You Know - Correspondence (Email)]] | Session Extension | Information supplied between sessions and discussed. |
-| [[Raw Emails/Temple in Asineau - Miracles (Email)|Temple in Asineau - Miracles (Email)]] | Session Extension | Short temple conversation about miracles. |
 | [[Raw Emails/Temple in Asineau - Prophecy (Email)|Temple in Asineau - Prophecy (Email)]] | Session | Extended Celyn and El prophecy conversation. |
 | [[Raw Emails/The Hunter's Letter (Email)|The Hunter's Letter (Email)]] | Session | Long independent exchange around the Hunter's letter. |
 | [[Raw Emails/The Oracle of Hope (Email)|The Oracle of Hope (Email)]] | Session | Substantial interactive Oracle scene. |
@@ -95,7 +86,6 @@ This index classifies each Markdown file directly in `Raw Emails` and `Play by E
 | [[Raw Emails/Treasure January 2024 (Email)|Treasure January 2024 (Email)]] | Session Extension | Treasure found and ensuing party discussion. |
 | [[Raw Emails/Treasure Updates (Email)|Treasure Updates (Email)]] | Session Extension | Loot updates after play. |
 | [[Raw Emails/Uses of Sending (Email)|Uses of Sending (Email)]] | Extractable Info | Spell discussion includes ranger contacts and world details. |
-| [[Raw Emails/Viepuck and Tal - Sendings (Email)|Viepuck and Tal - Sendings (Email)]] | Session Extension | Short completed magical-message exchange. |
 | [[Raw Emails/Viepuck Background (Email)|Viepuck Background (Email)]] | Extractable Info | Viepuck's character history discussion. |
 | [[Raw Emails/Viepuck Character Creation (Email)|Viepuck Character Creation (Email)]] | Extractable Info | Early character premise and timeline. |
 | [[Raw Emails/Viepuck City and Background Discussion (Email)|Viepuck City and Background Discussion (Email)]] | Extractable Info | City options and character-background decisions. |

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: realm
 created: 1651
 whereabouts: Barony of Aveil
@@ -22,5 +22,7 @@ Lorin maintains only a small guard, and has appointed himself magistrate, but is
 
 %%^Campaign:clee%%
 After Lorin's fall, [[Viepuck]] said he had warned [[Catherine de Brune]] that her purchases of land from Lorin might face legal scrutiny. He described a plan to arrange a buyback without prosecution and said the process was already underway. [[Anselm]] was given documents to manage and put matters right, as well as instructions to prepare the garrison. Some of Lorin's ostentatious furnishings were being sold to repay debts; Viepuck expected that debt might remain.
+
+When [[Robin of Abenfyrd|Robin]] took control, the manor was short of cash and food: it held about 100 gp, provisions for the extended household for roughly six weeks, and arms left by the militia. Queen Elaine II declared the first two years of Robin's manorial honorus paid in thanks for his service; the hearth tax had also been paid for that year.
 %%^Campaign:End%%
 

@@ -7,7 +7,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 1–8 | No separate play-by-email sequence identified. | No chronology change. |
 | 4 (December 4 in-world) | Guy de Varan's account of Wakog's camp | Preserved in [[Guy de Varan's Story]] and indexed from Session 4's reviewed recap; the email exchange is its raw source. |
 | 9–10 | `Entering the portal` | Planning and mechanics rather than a completed in-world scene; excluded. |
-| 11–12 | `Taelgar: Asineau Fallout`, `Hunting Lorin - Asineau Fallout`, and Celyn/El correspondence | The Asineau fallout and Lorin hunt are incorporated into Sessions 11 and 12; Celyn and El's separate exchanges are preserved as Sessions 11.1 and 12.1. |
+| 11–12 | `Taelgar: Asineau Fallout`, `Hunting Lorin - Asineau Fallout`, and Celyn/El correspondence | The Asineau fallout and Lorin hunt have source-only bundles `cleenseau-012.2` and `cleenseau-012.3`; their final session notes have not been built. Celyn and El's separate exchanges are preserved as Sessions 11.1 and 12.1. The January 12 scenes overlap, so the suffixes distinguish bundles rather than impose a strict scene order. |
 | 11 (in-world January 11) | Celyn and El exchange their stories and discuss miracles | Preserved as [[Cleenseau - Session 11.1]], with the raw correspondence in its sources and the two tellings in [[Celyn's Story of Getting His Name]] and [[El's Story]]. January 11 falls within Session 11's date range. |
 | 12 (in-world January 12) | Celyn and El briefly compare their miracles after Robin's speech | Preserved as [[Cleenseau - Session 12.1]], with the four-turn correspondence in its sources. |
 | 12 (bridge battle) | GM-authored rendering of Robin's internal monologue when the Wanderer blessed him | Preserved as an in-world source in [[Robin's Miracle]] and linked from Session 12's reviewed recap. |
@@ -17,7 +17,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 15 (session date) | Celyn's fey-safety briefing and trial-morning news | Preserved as an authorial story in [[Celyn's Fey Safety and News (Email)|Celyn's Fey Safety and News]] and linked from Session 15's reviewed recap. |
 | 15 (in-world January 25) | Celyn's horse-care vignette, emailed later on July 4 | Preserved in [[Celyn and the Horses]] and linked from Session 15's reviewed recap. |
 | 15 (in-world February 7) | Captain Rochefort's news from Enford | Preserved in [[Letter from Enford]] and linked from Session 15's reviewed recap. |
-| 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, direct-mail `Sending: Tal`, temple conversations, `Gareth's Ring`, and `Elizabeth the Guard's story` | Incorporated into Session 16; local email archives and reading copies, including [[Viepuck and Tal Exchange Sendings]], are linked from its reviewed recap. |
+| 15–16 | `Before we go north to Aveil`, `Temple in Asineau`, `Viepuck's Sendings`, direct-mail `Sending: Tal`, temple conversations, `Gareth's Ring`, and `Elizabeth the Guard's story` | The Viepuck–Tal exchange and Celyn's conversation with Eleanor have source-only bundles `cleenseau-016.1` and `cleenseau-016.2`; their final session notes have not been built. Other correspondence is incorporated into Session 16 or linked from its reviewed recap. |
 | 16–17 | `Taelgar: The Letter`, `Into Aslain`, and Greymalkin's account of the Ashcombe-to-Aslain journey | The letter and Aslain correspondence is incorporated into Session 17. [[Greymalkin's Story]] is preserved separately and linked from that session's reviewed recap. |
 | 17–19 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 19–20 | `Fey Aftermaths` and its continuations | Incorporated into Session 20; archived sources are linked from its reviewed recap. |
@@ -27,7 +27,7 @@ This review records the campaign-relevant email found between numbered sessions.
 | 25–26 | Celyn's player-authored road flashback | Preserved as [[Celyn on the Road to Tharwa Fea]]. |
 | 26–28 | No separate play-by-email sequence requiring a chronology entry identified. | No chronology change. |
 | 28–29 | `Celyn goes and talks to Marian` | Preserved as [[Cleenseau - Interlude - After the Trial]]. |
-| 28–29 | April and May Asineau threads, hirelings, the Merriweathers, and Ganboa diplomacy | Incorporated into Session 29, including cast, Ganboa, the Empty Cauldron festival, and Lenora's consequential gifts. Celyn's separate consultation with the Merriweathers is preserved as [[Cleenseau - Session 29.1]]. |
+| 28–29 | April and May Asineau threads, hirelings, the Merriweathers, and Ganboa diplomacy | The May briefing and taxes correspondence are supplemental sources under `cleenseau-029`. Hirelings have the source-only bundle `cleenseau-029.2`; its final session note has not been built. Celyn's separate consultation with the Merriweathers is preserved as [[Cleenseau - Session 29.1]]. The two email threads overlap in late October, so the suffixes distinguish bundles rather than impose a strict scene order. Other Asineau and Ganboa material is incorporated into Session 29. |
 | 34–35 | `SimAsineau Part 1: Trade` | Bastion/trade mechanics rather than an in-world scene; excluded. |
 | 35–36 | `Heir to House Griffin` | Meta-level planning, not an accomplished in-world declaration; excluded. |
 
