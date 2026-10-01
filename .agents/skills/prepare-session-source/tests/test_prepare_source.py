@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import shutil
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -13,12 +14,76 @@ sys.path.insert(0, str(SKILL_ROOT / "scripts"))
 from prepare_source import (  # noqa: E402
     SOURCE_TYPE_NARRATIVE,
     SOURCE_TYPE_TRANSCRIPT,
+    build_bundle_stem,
     infer_source_audio_path,
     resolve_source_audio_path,
 )
 
 
 class PrepareSourceTest(unittest.TestCase):
+    def test_decimal_session_number_keeps_fraction_in_bundle_name(self) -> None:
+        self.assertEqual(
+            build_bundle_stem(
+                "Cleenseau", "12.1", scope="session", source_path=Path("email.md")
+            ),
+            "cleenseau-012.1",
+        )
+        self.assertEqual(
+            build_bundle_stem(
+                "Cleenseau", "12.10", scope="session", source_path=Path("email.md")
+            ),
+            "cleenseau-012.10",
+        )
+
+    def test_whole_session_number_keeps_existing_bundle_name(self) -> None:
+        self.assertEqual(
+            build_bundle_stem(
+                "Cleenseau", 12, scope="session", source_path=Path("email.md")
+            ),
+            "cleenseau-012",
+        )
+
+    def test_malformed_session_number_is_rejected(self) -> None:
+        with self.assertRaisesRegex(SystemExit, "whole or x.y number"):
+            build_bundle_stem(
+                "Cleenseau", "12.1.2", scope="session", source_path=Path("email.md")
+            )
+
+    def test_prepares_decimal_session_bundle(self) -> None:
+        workspace = self.make_workspace()
+        source_path = workspace / "email.md"
+        source_path.write_text("First turn.\n\nSecond turn.\n", encoding="utf-8")
+        participants_path = workspace / "participants.yaml"
+        participants_path.write_text(
+            "participants:\n- name: Mike Sackton\n  gameRole: DM\n", encoding="utf-8"
+        )
+        config_path = workspace / "source-prep.yaml"
+        config_path.write_text(
+            f"sourcePath: {source_path.as_posix()}\n"
+            "sourceType: narrative\n"
+            f"outputDir: {workspace.as_posix()}\n"
+            "campaign: Cleenseau\n"
+            "sessionNumber: '12.1'\n"
+            "realWorldDate: '2024-02-16'\n"
+            f"participantsPath: {participants_path.as_posix()}\n"
+            "narrativeUnit: paragraph\n",
+            encoding="utf-8",
+        )
+
+        result = subprocess.run(
+            [sys.executable, str(SKILL_ROOT / "scripts" / "prepare_source.py"),
+             "--config", str(config_path)],
+            capture_output=True, text=True, check=False,
+        )
+
+        self.assertEqual(result.returncode, 0, result.stderr)
+        cleaned = workspace / "cleenseau-012.1" / "cleaned"
+        self.assertTrue((cleaned / "cleenseau-012.1-session.yaml").exists())
+        self.assertIn(
+            "[u0002] Second turn.",
+            (cleaned / "cleenseau-012.1-source-prepared.md").read_text(encoding="utf-8"),
+        )
+
     def make_workspace(self) -> Path:
         tmpdir = Path(tempfile.mkdtemp(prefix="prepare-source-test."))
         self.addCleanup(lambda: shutil.rmtree(tmpdir, ignore_errors=True))

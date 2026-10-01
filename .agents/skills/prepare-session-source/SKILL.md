@@ -47,6 +47,8 @@ Use the latest prior session as the model for:
 Do not invent dates, session numbers, player identities, or in-world dates.
 Ask the user to confirm anything that cannot be inferred from the new recording path, filename, existing configs, or prior bundle manifests.
 
+For an inter-session number, quote the `sessionNumber` value in YAML (for example, `sessionNumber: '12.1'`). Source preparation preserves the fraction in the bundle and file prefix (`cleenseau-012.1`); whole numbers retain the existing three-digit prefix.
+
 ## Draft Files
 
 Create or update two files in the campaign `_sessions` directory:
