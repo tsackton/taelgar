@@ -61,3 +61,8 @@ assets/generated/
 
 # Local agent review work
 /Worldbuilding/Agentic Review/
+
+# Generated Python bytecode, after the skill-directory inclusions
+__pycache__/
+*.pyc
+*.pyo

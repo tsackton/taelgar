@@ -22,9 +22,98 @@ The cluster review requires NumPy and `ffmpeg`. ECAPA embeddings additionally re
 
 `speaker_embeddings.py` refuses a nonlocal model source unless `--allow-model-download` is present. Add that flag only after explicit authorization, and use a persistent `--model-cache` outside the skill. Its `.npz` caches contain source hashes and model settings, checkpoint periodically, resume compatible partial work, and print progress with an ETA.
 
+## Choose the reference strategy
+
+Match the workflow to microphone, room, speaker distance, and audio processing.
+Being the same campaign is not sufficient evidence of compatible voice profiles.
+Zoom-to-iPhone transfer and simultaneous phones at different table positions call
+for clean local references and a blind comparison before accepting model labels.
+Start with an independent profile scope for each recording; pool sequential chunks
+only after testing that the profiles transfer. Keep concurrent captures separate.
+
+Retain prior work as evidence: verified clips, reviewed identities, embedding
+caches, older transcript labels, and provisional predictions. A prior bank may
+suggest anchor candidates and independently check local predictions. Record
+agreement and disagreement rather than averaging conflicting identities or
+discarding the old work. Human corrections to the same recorded utterance remain
+active decisions. Old anonymous Scribe IDs cannot supply physical identities.
+
+An older **identified** transcript may support current-session seed selection
+through conservative word-and-time alignment: preserve every raw timed item,
+require strong text/timing agreement, check candidate voice coherence and prior
+bank compatibility when available, and exclude a seed from its own prediction.
+Those remain candidate identities until local listening verification. Do not
+import labels on timestamp overlap alone or assume the older text is correct.
+
+## Recover recording-local calibration
+
+When a transfer is poor or recording conditions change, use the reusable recovery
+script instead of recreating a recording-specific helper:
+
+```bash
+python3 .agents/skills/transcribe-session/scripts/speaker_recalibrate.py \
+  "/absolute/path/to/current-model-assisted.speaker-review.json" \
+  --attributions "/absolute/path/to/current-model-assisted.speaker-attributions.json" \
+  --embeddings "/absolute/path/to/current.ecapa-embeddings.npz" \
+  --output-dir "/absolute/path/to/speaker-review" \
+  --review-id-prefix "session-local"
+```
+
+It creates one `session-local-<recordingId>-local-calibration` review and decision
+pair per recording, a provenance report, and optionally corresponding subset
+embedding caches. It refuses existing output names. Every utterance retains its
+ID, text, timing, order, and group membership. Explicit human corrections and
+existing human group decisions carry forward; participant confirmations reset
+for the new review scope. Automated labels are retained under
+`priorSpeakerEvidence.predictions`, not propagated as active identities.
+Source paths and hashes, original verification, model metadata, and earlier
+evidence remain available. The original review and decisions are unchanged.
+
+Cache reuse requires a complete, provenanced cache and exact recording IDs,
+utterance IDs, text, and timing. The new caches retain the unchanged vectors and
+record the parent cache hash. Omit `--embeddings` when no compatible cache exists,
+then run `speaker_embeddings.py review` on each new review.
+
+Serve each local review and begin with **Calibration**. Identify group
+representatives, listen to additional representatives when unclear, and refine
+mixed groups. Explicit human per-cue assignments with eligible cached vectors can
+also supply reference clips, including speakers absent from clear group labels;
+they override a conflicting group representative label. Automated predictions
+and qualified short-cue fallback labels cannot become reference anchors.
+Build local profiles from clean accepted clips; do not review every
+short exception. If only one voice lacks references, use prior predictions to
+choose promising candidates and refine only the relevant mixed group with
+`speaker_review.py refine --group <groupId>` (repeatable). Other mixed groups and
+all accepted decisions remain preserved. It is not necessary to label every
+microcluster once enough independent clean references support all voices and
+the blind audit can hold out each reference group. Then use the blind audit below to assess predictions under the
+new conditions and choose an acceptance policy. Margin and cosine are similarity
+measures, not calibrated probabilities. Keep weak or unsupported matches Unknown.
+
+For materialization, `speaker_model.py apply` accepts
+`--minimum-model-margin` and `--minimum-model-cosine`. Both are required for the
+recovered local-calibration reviews; choose them from the local audit rather than
+reusing thresholds merely because they worked on Zoom. Low-confidence rejection
+writes an explicit Unknown override, so an acoustic group cannot silently restore
+the rejected identity.
+
+To use prior work as an independent comparison, add the existing
+`--reference-bank` and `--reference-embeddings` arguments plus
+`--compare-reference`. The accepted local profiles still determine assignments.
+The output records prior-bank identity, margin, cosine, agreement with the local
+prediction, and `usedForAssignment: false`. Prior disagreements are useful
+listening targets; agreement alone is not measured accuracy. Recovered local
+reviews refuse a prior bank as their sole identity source.
+
+Continue with ten time-spread verification samples per person within each
+recording, then the qualified Scribe-ID short-cue fallback and rendering described
+below. Export verified local reference banks for later comparable recordings.
+Cross-capture timing alignment may later link the same spoken passage across
+phones as additional evidence; it does not authorize merging the transcripts.
+
 ## Fast path with a verified reference bank
 
-Use this path for a later recording from the same campaign after one session has produced clean, verified reference clips. The bank is matched to the new roster by participant `name`, not the order-dependent `p01` identifiers. Role changes are recorded but do not silently change physical identity.
+Use this path for a later recording with comparable conditions after one session has produced clean, verified reference clips. The bank is matched to the new roster by participant `name`, not the order-dependent `p01` identifiers. Role changes are recorded but do not silently change physical identity. A poor transfer returns to recording-local calibration above; it is not repaired by asking the user to confirm many obviously wrong suggestions.
 
 First prepare the ordinary speaker-review JSON and blank attribution layer as described below. Then create the reference-bank embedding cache once:
 
@@ -45,6 +134,10 @@ python3 .agents/skills/transcribe-session/scripts/speaker_embeddings.py review \
 ```
 
 Apply the bank as a new, reversible attribution layer:
+
+This is a provisional nearest-profile transfer. Supply audited margin/cosine
+thresholds when available; without them the legacy fast path does not reject weak
+matches. It must still pass listening verification before becoming a source.
 
 ```bash
 python3 .agents/skills/transcribe-session/scripts/speaker_model.py apply \
