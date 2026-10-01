@@ -211,4 +211,3 @@ When the party returns north out of the wilderness, they discover they are not f
 - Portal Notes: _dm_notes/_Cleenseau/Interludes/Gates - Raw Ideas.md
 - Celyn Background Notes: _dm_notes/_Cleenseau/Celyn's Background People.md
 - [[Heir to House Griffin (Email)]]
-- [[Cleenseau Magic Items (Email)]]
