@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Calendar System Brainstorming: Final Text and Comments
 
 Source: Google Drive document ID 1anb-F8574X5BJbA4o1oeSRIuNveaXB--u21Owbd9LTA

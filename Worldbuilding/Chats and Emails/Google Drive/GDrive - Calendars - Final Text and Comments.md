@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Calendars: Final Text and Comments
 
 Source: Google Drive document ID 1-EphcMipvNcRpSxjo7adItLR76f8SHN379J9CLn6TjI

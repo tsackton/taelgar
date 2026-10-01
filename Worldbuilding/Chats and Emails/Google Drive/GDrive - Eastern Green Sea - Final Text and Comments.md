@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Eastern Green Sea: Final Text and Comments
 
 Source: Google Drive document ID 1vtIT5TQKwdUnM68T0SM54WSq6k6XYpRMtdQ6N_nmfaU
