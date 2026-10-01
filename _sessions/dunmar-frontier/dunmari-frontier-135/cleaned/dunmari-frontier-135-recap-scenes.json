@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Preparing in Orenlas",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The party prepares for one planar expedition during its two-day stay; opening table setup supplies framing only."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Through the glass snow",
+      "beatIds": [
+        "beat-002"
+      ],
+      "rationale": "Shaping shelter and finding a route through changing Limbo are one travel situation before reaching the orchard."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Silent Orchard",
+      "beatIds": [
+        "beat-003"
+      ],
+      "rationale": "One encounter with the faceless keeper encompasses its rules, memory fruit, recovered recollections, and gifts."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Gravity and the stone wave",
+      "beatIds": [
+        "beat-004"
+      ],
+      "rationale": "The teleport complication and stone-wave pursuit remain one journey from the orchard to the sanctuary."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Recovering the lost monks",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The three circles and subsequent recovery in the cloister form one rescue situation. The written notes extend through the later Rai audience and the audio recap retells earlier play; those overlapping accounts add evidence without adding scenes. Narrate the monastery approach and restoration once."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Rai's divided vigil",
+      "beatIds": [
+        "beat-007"
+      ],
+      "rationale": "One continuous audience covers Rai's plea, his attributed explanation, return of the hand, and preparations; the earlier written account corroborates this same meeting."
+    }
+  ]
+}

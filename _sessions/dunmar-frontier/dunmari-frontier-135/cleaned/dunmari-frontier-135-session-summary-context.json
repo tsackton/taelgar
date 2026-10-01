@@ -1,0 +1,1602 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 135,
+    "realWorldDate": "2025-10-24",
+    "drStart": "1749-09-14",
+    "drEnd": "1749-09-16"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1749-09-14",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Orenlas"
+      ],
+      "npcRefs": [
+        "Arheste",
+        "Wellby's fly"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Chaos metal"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party spends two days in Orenlas preparing to enter Limbo and find Rai."
+      ],
+      "sourceLongSummaries": [
+        "Starting September 14 in Orenlas, the party updates Arheste and the elves about recent events. Delwath asks where the elves went; Wellby reaches the fly and discovers that it still remembers Agata fondly, realizing he must change its opinion and offer it a new home with him. Seeker prepares chaos metal for Plane Shift and practices stable stone shapes, while Kenzo communes with the elder tree. They discuss shifting directly from Orenlas rather than flying to Isingue, and decline the dangerous option of cutting a new permanent passage with the Wand of the Planes. The prefixed character-choice discussion and table chatter do not describe additional in-world events."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Preparing to enter Limbo",
+          "boundaryReason": "The opening table setup and current-situation review are framing for the Orenlas preparations, not separate playable scenes. The written notes anchor two days in Orenlas before departure.",
+          "dateStart": "1749-09-14",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0146"
+          },
+          "shortSummary": "The party spends two days in Orenlas preparing to enter Limbo and find Rai.",
+          "longSummary": "Starting September 14 in Orenlas, the party updates Arheste and the elves about recent events. Delwath asks where the elves went; Wellby reaches the fly and discovers that it still remembers Agata fondly, realizing he must change its opinion and offer it a new home with him. Seeker prepares chaos metal for Plane Shift and practices stable stone shapes, while Kenzo communes with the elder tree. They discuss shifting directly from Orenlas rather than flying to Isingue, and decline the dangerous option of cutting a new permanent passage with the Wand of the Planes. The prefixed character-choice discussion and table chatter do not describe additional in-world events.",
+          "sourceDateSpan": {
+            "dateStart": "1749-09-14",
+            "dateEnd": "1749-09-15",
+            "dayPosition": "start"
+          },
+          "locationHints": {
+            "refs": [
+              "Orenlas"
+            ],
+            "context": "Conversations with the elves and preparations for planar travel",
+            "notes": "Two days beginning September 14; the individual activities are not assigned to particular days."
+          },
+          "npcDetails": [
+            {
+              "name": "Arheste",
+              "role": "encountered"
+            },
+            {
+              "name": "Wellby's fly",
+              "role": "encountered",
+              "notes": "Descriptive identity only; the source does not give the fly a personal name."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Chaos metal",
+              "role": "encountered"
+            },
+            {
+              "name": "Wand of the Planes",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1749-09-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Orenlas"
+      ],
+      "npcRefs": [
+        "Arheste",
+        "Wellby's fly"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Chaos metal"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party spends two days in Orenlas preparing to enter Limbo and find Rai."
+      ],
+      "sourceLongSummaries": [
+        "Starting September 14 in Orenlas, the party updates Arheste and the elves about recent events. Delwath asks where the elves went; Wellby reaches the fly and discovers that it still remembers Agata fondly, realizing he must change its opinion and offer it a new home with him. Seeker prepares chaos metal for Plane Shift and practices stable stone shapes, while Kenzo communes with the elder tree. They discuss shifting directly from Orenlas rather than flying to Isingue, and decline the dangerous option of cutting a new permanent passage with the Wand of the Planes. The prefixed character-choice discussion and table chatter do not describe additional in-world events."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Preparing to enter Limbo",
+          "boundaryReason": "The opening table setup and current-situation review are framing for the Orenlas preparations, not separate playable scenes. The written notes anchor two days in Orenlas before departure.",
+          "dateStart": "1749-09-15",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0146"
+          },
+          "shortSummary": "The party spends two days in Orenlas preparing to enter Limbo and find Rai.",
+          "longSummary": "Starting September 14 in Orenlas, the party updates Arheste and the elves about recent events. Delwath asks where the elves went; Wellby reaches the fly and discovers that it still remembers Agata fondly, realizing he must change its opinion and offer it a new home with him. Seeker prepares chaos metal for Plane Shift and practices stable stone shapes, while Kenzo communes with the elder tree. They discuss shifting directly from Orenlas rather than flying to Isingue, and decline the dangerous option of cutting a new permanent passage with the Wand of the Planes. The prefixed character-choice discussion and table chatter do not describe additional in-world events.",
+          "sourceDateSpan": {
+            "dateStart": "1749-09-14",
+            "dateEnd": "1749-09-15",
+            "dayPosition": "end"
+          },
+          "locationHints": {
+            "refs": [
+              "Orenlas"
+            ],
+            "context": "Conversations with the elves and preparations for planar travel",
+            "notes": "Two days beginning September 14; the individual activities are not assigned to particular days."
+          },
+          "npcDetails": [
+            {
+              "name": "Arheste",
+              "role": "encountered"
+            },
+            {
+              "name": "Wellby's fly",
+              "role": "encountered",
+              "notes": "Descriptive identity only; the source does not give the fly a personal name."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Chaos metal",
+              "role": "encountered"
+            },
+            {
+              "name": "Wand of the Planes",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "locationRefs": [
+        "Orenlas",
+        "Orchard approach",
+        "Limbo",
+        "Orchard",
+        "Rai's sanctuary"
+      ],
+      "npcRefs": [
+        "Silent Orchard Keeper",
+        "Monks of Bhishma",
+        "Rai"
+      ],
+      "organizationRefs": [
+        "Monks of Bhishma"
+      ],
+      "itemRefs": [
+        "Wayfarer's Bow",
+        "Memory and vision fruit",
+        "Fruit for chaos ki",
+        "Glass dirt",
+        "Escape-route nut",
+        "Fruit to find the elves",
+        "Jade Piece of Rai's Hand"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Delwath takes the party into dangerous glass snow, and Seeker shapes a protected route that leads toward an orchard.",
+        "The party obeys the faceless orchard keeper's rules and gathers fruit containing memories, visions, and intended aid.",
+        "A gravity conduit and pursuing stone wave interrupt the journey, but Seeker changes their course and brings the party to Rai's sanctuary.",
+        "The party restores the incomplete monks by sharing threshold stories, recovering emotions, and completing their interrupted roles.",
+        "The restored monks enter the cloister and recover through repetitive routines while the party approaches Rai's jade statue.",
+        "Rai explains his struggle to protect the monks and restrain an ancient entity, and Kenzo returns his jade hand before they discuss retrieving the fragment of stability."
+      ],
+      "sourceLongSummaries": [
+        "Delwath Plane Shifts toward a sanctuary safe for Kenzo, but they arrive in cutting glass snow and take slashing damage. Seeker makes a soft cotton-like nest around them; Kenzo's attempt to Commune with Nature causes psychic damage. Wellby shoots an arrow to locate Rai, initially 47 unspecified distance units away. They emerge into darkness and blue flames, where Wellby notices the air beginning to solidify. Seeker turns their shelter into a child's drawing of a ship on a sea under a clear sky, carrying them through the stone. Two Arcane Eyes find stone; the third finds two rows of floating trees.",
+        "Two rows of fruit trees grow in glass dirt under a faceless robed keeper, who forbids faces and names. Kenzo hides his face through meditation; the keeper helps the distracted Seeker, Delwath uses Alter Self to turn his face silver, and Wellby's covering merges with his skin. Kenzo is briefly banished for naming the Material Plane and is warned against another mistake. The keeper supplies a pomegranate showing Rai's sanctuary, which they do not recognize. Seeker produces a melon showing the monastery, a flaming apple showing Frankar and an efreeti approaching a great flaming chalice, and a fruit showing his empty home. A fruit sought for Cha'mutte's lair yields nothing; the keeper says ruins cannot persist without a sustaining will. Wellby's banana recalls an alien childhood melody, and the keeper recovers a memory of fleeing Cha'mutte and his desire to use Limbo's power. Kenzo communes with a tree for chaos ki; Seeker takes glass dirt, Wellby an escape-route nut, and Delwath fruit to help find the elves.",
+        "They attempt to teleport toward Rai's sanctuary and appear farther away, at a conduit of liquid gravity with a fleeting image of the monastery. All are pulled toward its center. Seeker cannot make the complicated Vindristjarna and instead makes a flat stone expanse, onto which they fall with damage; the distance changes from 417 to 95 unspecified units. As they travel over an ocean, Wellby and his bow notice stone boars undulating at the front of a pursuing stone wave. Seeker opens a gap in their wake, the world rotates, and the boars follow the gap while the party moves perpendicular toward Rai. They reach the sanctuary and see cloud, waterfall, and glass.",
+        "At the sanctuary's edge, grasping hands respond to threshold stories: Seeker tells of Eudomes' tower, Wellby of an early desert crossing, and Delwath of the Rainbow Bridge and escape from the Plane of Water. In the next circle, Kenzo recovers a laughing monk's father-and-child memory through meditation; Delwath uses Suggestion to draw out grief tied to a death marker. Wellby's description of the Dunmari landscape restores a joyful wedding memory, while Seeker's detailed account of dangers brings back a terrified monk's fear of public speaking. In the final circle, Delwath plays student to a teacher of survival in Limbo. Kenzo joins a monk in advanced Bhishma prayer with Bardic Inspiration; Seeker teaches Tokra history with illusory chalk and digressions about tunnels and werewolves; Wellby mirrors a sparring monk's movements. The restored monks follow them. The written notes and resumed play describe these same restorations once; the intervening audio recap revisits earlier travel and orchard events.",
+        "Passing the last barrier, the party enters an open monastery with a sandy courtyard, shaded cloisters, and a central domed temple. The rescued monks resume sweeping, prayer, sparring, writing, and meal preparation; their bodies and souls grow clearer as they repeat the choreographed activities. The party avoids disturbing the patterns and approaches the temple. It resembles a smaller Temple of the Eight Divines in Drankor, with Bhishma stories and illustrations of Jeevali's resurrection replacing its original art. A worn jade statue stands inside, missing a hand.",
+        "Rai speaks telepathically from the worn jade statue and asks whether Dimitaur brought his plea for help; the party has received no such message. He says he brought the Dunmari monks into Limbo while trying to close the wound at Isingue and must now both keep them from fading and resist an entity drawing Limbo and the Material Plane together. He believes a fragment of stability bears hyper-dense runes that must be read in the correct order; his eyes no longer work. He suspects a primordial chaos storm gained a fixed purpose through that fragment, and can guide the party to it, though retrieving it need not require killing the creature. Kenzo explains that his parents found the hand and that he has carried it since childhood; Rai says he has seen Kenzo in the dreams. Kenzo returns the hand from his staff, and it fuses to the statue, bringing Rai relief. Rai warns that the entity can reshape its domain and that monks have been lost when his concentration faltered. The party discusses recovering the fragment to heal the rift, but neither retrieval nor departure is recorded. Closing remarks about apprenticeships and fruit trade are future possibilities."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "Across the changing landscape",
+          "boundaryReason": "Plane Shift begins a new journey through glass snow and solidifying darkness; discovering the orchard changes the immediate situation.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0147",
+            "endUid": "u0156"
+          },
+          "shortSummary": "Delwath takes the party into dangerous glass snow, and Seeker shapes a protected route that leads toward an orchard.",
+          "longSummary": "Delwath Plane Shifts toward a sanctuary safe for Kenzo, but they arrive in cutting glass snow and take slashing damage. Seeker makes a soft cotton-like nest around them; Kenzo's attempt to Commune with Nature causes psychic damage. Wellby shoots an arrow to locate Rai, initially 47 unspecified distance units away. They emerge into darkness and blue flames, where Wellby notices the air beginning to solidify. Seeker turns their shelter into a child's drawing of a ship on a sea under a clear sky, carrying them through the stone. Two Arcane Eyes find stone; the third finds two rows of floating trees.",
+          "locationHints": {
+            "refs": [
+              "Orenlas",
+              "Orchard approach"
+            ],
+            "context": "Plane Shift followed by travel through glass snow and solidifying darkness",
+            "notes": "Human-confirmed date: September 16, 1749. Distance units are not converted to physical measurements."
+          },
+          "npcDetails": [
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wayfarer's Bow",
+              "role": "encountered",
+              "notes": "Wellby uses its seeking arrow to locate Rai."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "The Silent Orchard",
+          "boundaryReason": "The faceless keeper, rules against faces and names, memory fruit, and gifts form one uninterrupted orchard encounter.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0157",
+            "endUid": "u0170"
+          },
+          "shortSummary": "The party obeys the faceless orchard keeper's rules and gathers fruit containing memories, visions, and intended aid.",
+          "longSummary": "Two rows of fruit trees grow in glass dirt under a faceless robed keeper, who forbids faces and names. Kenzo hides his face through meditation; the keeper helps the distracted Seeker, Delwath uses Alter Self to turn his face silver, and Wellby's covering merges with his skin. Kenzo is briefly banished for naming the Material Plane and is warned against another mistake. The keeper supplies a pomegranate showing Rai's sanctuary, which they do not recognize. Seeker produces a melon showing the monastery, a flaming apple showing Frankar and an efreeti approaching a great flaming chalice, and a fruit showing his empty home. A fruit sought for Cha'mutte's lair yields nothing; the keeper says ruins cannot persist without a sustaining will. Wellby's banana recalls an alien childhood melody, and the keeper recovers a memory of fleeing Cha'mutte and his desire to use Limbo's power. Kenzo communes with a tree for chaos ki; Seeker takes glass dirt, Wellby an escape-route nut, and Delwath fruit to help find the elves.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "The faceless keeper's orchard on a shard of glass dirt",
+            "notes": "The written notes call Wellby's covering a scarf; the recorded recap calls it a hat. The keeper's claims about ruins and Cha'mutte are attributed accounts."
+          },
+          "npcDetails": [
+            {
+              "name": "Silent Orchard Keeper",
+              "role": "encountered",
+              "notes": "The keeper's childhood music and origin are described as alien; no home plane is identified."
+            },
+            {
+              "name": "Frankar",
+              "role": "mentioned",
+              "notes": "Seen in a fruit vision, not physically met."
+            },
+            {
+              "name": "Efreeti in the fruit vision",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Memory and vision fruit",
+              "role": "encountered",
+              "notes": "Includes the pomegranate, melon, flaming apple, banana, and home vision."
+            },
+            {
+              "name": "Fruit for chaos ki",
+              "role": "encountered"
+            },
+            {
+              "name": "Glass dirt",
+              "role": "encountered"
+            },
+            {
+              "name": "Escape-route nut",
+              "role": "encountered"
+            },
+            {
+              "name": "Fruit to find the elves",
+              "role": "encountered",
+              "notes": "The recorded recap describes Delwath's fruit as an elven sisila fruit about finding home."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Escaping the stone wave",
+          "boundaryReason": "Leaving the orchard begins the teleport, gravity-conduit mishap, and pursuit that end at Rai's sanctuary.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0171",
+            "endUid": "u0176"
+          },
+          "shortSummary": "A gravity conduit and pursuing stone wave interrupt the journey, but Seeker changes their course and brings the party to Rai's sanctuary.",
+          "longSummary": "They attempt to teleport toward Rai's sanctuary and appear farther away, at a conduit of liquid gravity with a fleeting image of the monastery. All are pulled toward its center. Seeker cannot make the complicated Vindristjarna and instead makes a flat stone expanse, onto which they fall with damage; the distance changes from 417 to 95 unspecified units. As they travel over an ocean, Wellby and his bow notice stone boars undulating at the front of a pursuing stone wave. Seeker opens a gap in their wake, the world rotates, and the boars follow the gap while the party moves perpendicular toward Rai. They reach the sanctuary and see cloud, waterfall, and glass.",
+          "locationHints": {
+            "refs": [
+              "Orchard",
+              "Rai's sanctuary"
+            ],
+            "context": "Teleport, liquid-gravity conduit, flat stone vessel, ocean, and stone-wave pursuit",
+            "notes": "The later audio recap corroborates this same journey; the party does not teleport or escape the boars a second time."
+          },
+          "npcDetails": [
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wayfarer's Bow",
+              "role": "encountered"
+            },
+            {
+              "name": "Vindristjarna",
+              "role": "mentioned",
+              "notes": "An attempted recreation fails; the actual skyship is not present."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Restoring the fading monks",
+          "boundaryReason": "The three circles and resumed prayer, teaching, and sparring are one monk-restoration situation. The written notes continue beyond the recording gap through the later Rai audience, and the audio recap retells earlier play. Those overlapping accounts are support evidence, not additional meetings or repeated journeys. Synthesize each event once in its actual scene.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0177",
+            "endUid": "u0376"
+          },
+          "shortSummary": "The party restores the incomplete monks by sharing threshold stories, recovering emotions, and completing their interrupted roles.",
+          "longSummary": "At the sanctuary's edge, grasping hands respond to threshold stories: Seeker tells of Eudomes' tower, Wellby of an early desert crossing, and Delwath of the Rainbow Bridge and escape from the Plane of Water. In the next circle, Kenzo recovers a laughing monk's father-and-child memory through meditation; Delwath uses Suggestion to draw out grief tied to a death marker. Wellby's description of the Dunmari landscape restores a joyful wedding memory, while Seeker's detailed account of dangers brings back a terrified monk's fear of public speaking. In the final circle, Delwath plays student to a teacher of survival in Limbo. Kenzo joins a monk in advanced Bhishma prayer with Bardic Inspiration; Seeker teaches Tokra history with illusory chalk and digressions about tunnels and werewolves; Wellby mirrors a sparring monk's movements. The restored monks follow them. The written notes and resumed play describe these same restorations once; the intervening audio recap revisits earlier travel and orchard events.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "Three circles of fading monks outside the monastery",
+            "notes": "The written notes continue beyond the recording gap through the later Rai audience. Their synopsis of that audience is supporting evidence for beat-007, not an extra meeting here. The written notes describe Wellby's threshold story as the canyonlands; the audio recap calls it the Garamjala Desert."
+          },
+          "npcDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered",
+              "notes": "Descriptive group name for the incomplete monks who regain their stories and roles."
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned",
+              "notes": "The embedded written synopsis of his later conversation is not an additional encounter during the restoration."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Inside the ordered monastery",
+          "boundaryReason": "The final barrier gives way to a cloister, where rescued monks recover through ordered routines; the party approaches the central temple.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0377",
+            "endUid": "u0403"
+          },
+          "shortSummary": "The restored monks enter the cloister and recover through repetitive routines while the party approaches Rai's jade statue.",
+          "longSummary": "Passing the last barrier, the party enters an open monastery with a sandy courtyard, shaded cloisters, and a central domed temple. The rescued monks resume sweeping, prayer, sparring, writing, and meal preparation; their bodies and souls grow clearer as they repeat the choreographed activities. The party avoids disturbing the patterns and approaches the temple. It resembles a smaller Temple of the Eight Divines in Drankor, with Bhishma stories and illustrations of Jeevali's resurrection replacing its original art. A worn jade statue stands inside, missing a hand.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "Ordered cloister and central domed temple in Rai's sanctuary",
+            "notes": "The restored monks are the same monks rescued in beat-005; their continuing recovery is not a second rescue."
+          },
+          "npcDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered"
+            },
+            {
+              "name": "Rai",
+              "role": "encountered",
+              "notes": "Present as the jade statue in the central temple; the telepathic audience follows."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Rai's divided vigil",
+          "boundaryReason": "The telepathic audience, explanation of the crisis, return of the hand, and warnings occur in one continuous meeting. End-of-session reactions and proposed future activities are framing, not accomplished events; Rai's cosmological account remains attributed belief.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0404",
+            "endUid": "u0534"
+          },
+          "shortSummary": "Rai explains his struggle to protect the monks and restrain an ancient entity, and Kenzo returns his jade hand before they discuss retrieving the fragment of stability.",
+          "longSummary": "Rai speaks telepathically from the worn jade statue and asks whether Dimitaur brought his plea for help; the party has received no such message. He says he brought the Dunmari monks into Limbo while trying to close the wound at Isingue and must now both keep them from fading and resist an entity drawing Limbo and the Material Plane together. He believes a fragment of stability bears hyper-dense runes that must be read in the correct order; his eyes no longer work. He suspects a primordial chaos storm gained a fixed purpose through that fragment, and can guide the party to it, though retrieving it need not require killing the creature. Kenzo explains that his parents found the hand and that he has carried it since childhood; Rai says he has seen Kenzo in the dreams. Kenzo returns the hand from his staff, and it fuses to the statue, bringing Rai relief. Rai warns that the entity can reshape its domain and that monks have been lost when his concentration faltered. The party discusses recovering the fragment to heal the rift, but neither retrieval nor departure is recorded. Closing remarks about apprenticeships and fruit trade are future possibilities.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "Telepathic audience with Rai in the central temple",
+            "notes": "One continuous audience on September 16, also summarized in the earlier written notes. Rai's account of the entity, its origins, and the relic is explicitly his observation or belief; his perceived elapsed time differs from the Material Plane's."
+          },
+          "npcDetails": [
+            {
+              "name": "Rai",
+              "role": "encountered"
+            },
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Canonical spelling confirmed by the companion note; the recording uses Dimataur."
+            },
+            {
+              "name": "Ancient Limbo entity",
+              "role": "mentioned",
+              "notes": "Rai believes it may be an original inhabitant and a chaos storm stabilized by the fragment; the party has not encountered it."
+            },
+            {
+              "name": "Monks of Bhishma",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai's Hand",
+              "role": "encountered",
+              "notes": "Kenzo removes the assembled hand from his staff and returns it to Rai."
+            },
+            {
+              "name": "Fragment of stability (name unresolved)",
+              "role": "mentioned",
+              "notes": "The written notes say relic of reshaping; the recording uses relic, locus, or fragment of stability, or piece of order. These are descriptions of the sought object, not an adopted formal name."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Preparing in Orenlas",
+      "beatIds": [
+        "beat-001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0146"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0146"
+        }
+      ],
+      "dateStart": "1749-09-14",
+      "dateEnd": "1749-09-15",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Orenlas"
+      ],
+      "npcRefs": [
+        "Arheste",
+        "Wellby's fly"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Chaos metal"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party spends two days in Orenlas preparing to enter Limbo and find Rai."
+      ],
+      "sourceLongSummaries": [
+        "Starting September 14 in Orenlas, the party updates Arheste and the elves about recent events. Delwath asks where the elves went; Wellby reaches the fly and discovers that it still remembers Agata fondly, realizing he must change its opinion and offer it a new home with him. Seeker prepares chaos metal for Plane Shift and practices stable stone shapes, while Kenzo communes with the elder tree. They discuss shifting directly from Orenlas rather than flying to Isingue, and decline the dangerous option of cutting a new permanent passage with the Wand of the Planes. The prefixed character-choice discussion and table chatter do not describe additional in-world events."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Preparing to enter Limbo",
+          "boundaryReason": "The opening table setup and current-situation review are framing for the Orenlas preparations, not separate playable scenes. The written notes anchor two days in Orenlas before departure.",
+          "dateStart": "1749-09-14",
+          "dateEnd": "1749-09-15",
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0146"
+          },
+          "shortSummary": "The party spends two days in Orenlas preparing to enter Limbo and find Rai.",
+          "longSummary": "Starting September 14 in Orenlas, the party updates Arheste and the elves about recent events. Delwath asks where the elves went; Wellby reaches the fly and discovers that it still remembers Agata fondly, realizing he must change its opinion and offer it a new home with him. Seeker prepares chaos metal for Plane Shift and practices stable stone shapes, while Kenzo communes with the elder tree. They discuss shifting directly from Orenlas rather than flying to Isingue, and decline the dangerous option of cutting a new permanent passage with the Wand of the Planes. The prefixed character-choice discussion and table chatter do not describe additional in-world events.",
+          "locationHints": {
+            "refs": [
+              "Orenlas"
+            ],
+            "context": "Conversations with the elves and preparations for planar travel",
+            "notes": "Two days beginning September 14; the individual activities are not assigned to particular days."
+          },
+          "npcDetails": [
+            {
+              "name": "Arheste",
+              "role": "encountered"
+            },
+            {
+              "name": "Wellby's fly",
+              "role": "encountered",
+              "notes": "Descriptive identity only; the source does not give the fly a personal name."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Chaos metal",
+              "role": "encountered"
+            },
+            {
+              "name": "Wand of the Planes",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Through the glass snow",
+      "beatIds": [
+        "beat-002"
+      ],
+      "sourceRange": {
+        "startUid": "u0147",
+        "endUid": "u0156"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0147",
+          "endUid": "u0156"
+        }
+      ],
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Orenlas",
+        "Orchard approach"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Wayfarer's Bow"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Delwath takes the party into dangerous glass snow, and Seeker shapes a protected route that leads toward an orchard."
+      ],
+      "sourceLongSummaries": [
+        "Delwath Plane Shifts toward a sanctuary safe for Kenzo, but they arrive in cutting glass snow and take slashing damage. Seeker makes a soft cotton-like nest around them; Kenzo's attempt to Commune with Nature causes psychic damage. Wellby shoots an arrow to locate Rai, initially 47 unspecified distance units away. They emerge into darkness and blue flames, where Wellby notices the air beginning to solidify. Seeker turns their shelter into a child's drawing of a ship on a sea under a clear sky, carrying them through the stone. Two Arcane Eyes find stone; the third finds two rows of floating trees."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "Across the changing landscape",
+          "boundaryReason": "Plane Shift begins a new journey through glass snow and solidifying darkness; discovering the orchard changes the immediate situation.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0147",
+            "endUid": "u0156"
+          },
+          "shortSummary": "Delwath takes the party into dangerous glass snow, and Seeker shapes a protected route that leads toward an orchard.",
+          "longSummary": "Delwath Plane Shifts toward a sanctuary safe for Kenzo, but they arrive in cutting glass snow and take slashing damage. Seeker makes a soft cotton-like nest around them; Kenzo's attempt to Commune with Nature causes psychic damage. Wellby shoots an arrow to locate Rai, initially 47 unspecified distance units away. They emerge into darkness and blue flames, where Wellby notices the air beginning to solidify. Seeker turns their shelter into a child's drawing of a ship on a sea under a clear sky, carrying them through the stone. Two Arcane Eyes find stone; the third finds two rows of floating trees.",
+          "locationHints": {
+            "refs": [
+              "Orenlas",
+              "Orchard approach"
+            ],
+            "context": "Plane Shift followed by travel through glass snow and solidifying darkness",
+            "notes": "Human-confirmed date: September 16, 1749. Distance units are not converted to physical measurements."
+          },
+          "npcDetails": [
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wayfarer's Bow",
+              "role": "encountered",
+              "notes": "Wellby uses its seeking arrow to locate Rai."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "The Silent Orchard",
+      "beatIds": [
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0157",
+        "endUid": "u0170"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0157",
+          "endUid": "u0170"
+        }
+      ],
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Limbo"
+      ],
+      "npcRefs": [
+        "Silent Orchard Keeper"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Memory and vision fruit",
+        "Fruit for chaos ki",
+        "Glass dirt",
+        "Escape-route nut",
+        "Fruit to find the elves"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party obeys the faceless orchard keeper's rules and gathers fruit containing memories, visions, and intended aid."
+      ],
+      "sourceLongSummaries": [
+        "Two rows of fruit trees grow in glass dirt under a faceless robed keeper, who forbids faces and names. Kenzo hides his face through meditation; the keeper helps the distracted Seeker, Delwath uses Alter Self to turn his face silver, and Wellby's covering merges with his skin. Kenzo is briefly banished for naming the Material Plane and is warned against another mistake. The keeper supplies a pomegranate showing Rai's sanctuary, which they do not recognize. Seeker produces a melon showing the monastery, a flaming apple showing Frankar and an efreeti approaching a great flaming chalice, and a fruit showing his empty home. A fruit sought for Cha'mutte's lair yields nothing; the keeper says ruins cannot persist without a sustaining will. Wellby's banana recalls an alien childhood melody, and the keeper recovers a memory of fleeing Cha'mutte and his desire to use Limbo's power. Kenzo communes with a tree for chaos ki; Seeker takes glass dirt, Wellby an escape-route nut, and Delwath fruit to help find the elves."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "The Silent Orchard",
+          "boundaryReason": "The faceless keeper, rules against faces and names, memory fruit, and gifts form one uninterrupted orchard encounter.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0157",
+            "endUid": "u0170"
+          },
+          "shortSummary": "The party obeys the faceless orchard keeper's rules and gathers fruit containing memories, visions, and intended aid.",
+          "longSummary": "Two rows of fruit trees grow in glass dirt under a faceless robed keeper, who forbids faces and names. Kenzo hides his face through meditation; the keeper helps the distracted Seeker, Delwath uses Alter Self to turn his face silver, and Wellby's covering merges with his skin. Kenzo is briefly banished for naming the Material Plane and is warned against another mistake. The keeper supplies a pomegranate showing Rai's sanctuary, which they do not recognize. Seeker produces a melon showing the monastery, a flaming apple showing Frankar and an efreeti approaching a great flaming chalice, and a fruit showing his empty home. A fruit sought for Cha'mutte's lair yields nothing; the keeper says ruins cannot persist without a sustaining will. Wellby's banana recalls an alien childhood melody, and the keeper recovers a memory of fleeing Cha'mutte and his desire to use Limbo's power. Kenzo communes with a tree for chaos ki; Seeker takes glass dirt, Wellby an escape-route nut, and Delwath fruit to help find the elves.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "The faceless keeper's orchard on a shard of glass dirt",
+            "notes": "The written notes call Wellby's covering a scarf; the recorded recap calls it a hat. The keeper's claims about ruins and Cha'mutte are attributed accounts."
+          },
+          "npcDetails": [
+            {
+              "name": "Silent Orchard Keeper",
+              "role": "encountered",
+              "notes": "The keeper's childhood music and origin are described as alien; no home plane is identified."
+            },
+            {
+              "name": "Frankar",
+              "role": "mentioned",
+              "notes": "Seen in a fruit vision, not physically met."
+            },
+            {
+              "name": "Efreeti in the fruit vision",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Memory and vision fruit",
+              "role": "encountered",
+              "notes": "Includes the pomegranate, melon, flaming apple, banana, and home vision."
+            },
+            {
+              "name": "Fruit for chaos ki",
+              "role": "encountered"
+            },
+            {
+              "name": "Glass dirt",
+              "role": "encountered"
+            },
+            {
+              "name": "Escape-route nut",
+              "role": "encountered"
+            },
+            {
+              "name": "Fruit to find the elves",
+              "role": "encountered",
+              "notes": "The recorded recap describes Delwath's fruit as an elven sisila fruit about finding home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Gravity and the stone wave",
+      "beatIds": [
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0171",
+        "endUid": "u0176"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0171",
+          "endUid": "u0176"
+        }
+      ],
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Orchard",
+        "Rai's sanctuary"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Wayfarer's Bow"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "A gravity conduit and pursuing stone wave interrupt the journey, but Seeker changes their course and brings the party to Rai's sanctuary."
+      ],
+      "sourceLongSummaries": [
+        "They attempt to teleport toward Rai's sanctuary and appear farther away, at a conduit of liquid gravity with a fleeting image of the monastery. All are pulled toward its center. Seeker cannot make the complicated Vindristjarna and instead makes a flat stone expanse, onto which they fall with damage; the distance changes from 417 to 95 unspecified units. As they travel over an ocean, Wellby and his bow notice stone boars undulating at the front of a pursuing stone wave. Seeker opens a gap in their wake, the world rotates, and the boars follow the gap while the party moves perpendicular toward Rai. They reach the sanctuary and see cloud, waterfall, and glass."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "Escaping the stone wave",
+          "boundaryReason": "Leaving the orchard begins the teleport, gravity-conduit mishap, and pursuit that end at Rai's sanctuary.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0171",
+            "endUid": "u0176"
+          },
+          "shortSummary": "A gravity conduit and pursuing stone wave interrupt the journey, but Seeker changes their course and brings the party to Rai's sanctuary.",
+          "longSummary": "They attempt to teleport toward Rai's sanctuary and appear farther away, at a conduit of liquid gravity with a fleeting image of the monastery. All are pulled toward its center. Seeker cannot make the complicated Vindristjarna and instead makes a flat stone expanse, onto which they fall with damage; the distance changes from 417 to 95 unspecified units. As they travel over an ocean, Wellby and his bow notice stone boars undulating at the front of a pursuing stone wave. Seeker opens a gap in their wake, the world rotates, and the boars follow the gap while the party moves perpendicular toward Rai. They reach the sanctuary and see cloud, waterfall, and glass.",
+          "locationHints": {
+            "refs": [
+              "Orchard",
+              "Rai's sanctuary"
+            ],
+            "context": "Teleport, liquid-gravity conduit, flat stone vessel, ocean, and stone-wave pursuit",
+            "notes": "The later audio recap corroborates this same journey; the party does not teleport or escape the boars a second time."
+          },
+          "npcDetails": [
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Wayfarer's Bow",
+              "role": "encountered"
+            },
+            {
+              "name": "Vindristjarna",
+              "role": "mentioned",
+              "notes": "An attempted recreation fails; the actual skyship is not present."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Recovering the lost monks",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u0177",
+        "endUid": "u0403"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0177",
+          "endUid": "u0376"
+        },
+        {
+          "startUid": "u0377",
+          "endUid": "u0403"
+        }
+      ],
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Limbo"
+      ],
+      "npcRefs": [
+        "Monks of Bhishma",
+        "Rai"
+      ],
+      "organizationRefs": [
+        "Monks of Bhishma"
+      ],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party restores the incomplete monks by sharing threshold stories, recovering emotions, and completing their interrupted roles.",
+        "The restored monks enter the cloister and recover through repetitive routines while the party approaches Rai's jade statue."
+      ],
+      "sourceLongSummaries": [
+        "At the sanctuary's edge, grasping hands respond to threshold stories: Seeker tells of Eudomes' tower, Wellby of an early desert crossing, and Delwath of the Rainbow Bridge and escape from the Plane of Water. In the next circle, Kenzo recovers a laughing monk's father-and-child memory through meditation; Delwath uses Suggestion to draw out grief tied to a death marker. Wellby's description of the Dunmari landscape restores a joyful wedding memory, while Seeker's detailed account of dangers brings back a terrified monk's fear of public speaking. In the final circle, Delwath plays student to a teacher of survival in Limbo. Kenzo joins a monk in advanced Bhishma prayer with Bardic Inspiration; Seeker teaches Tokra history with illusory chalk and digressions about tunnels and werewolves; Wellby mirrors a sparring monk's movements. The restored monks follow them. The written notes and resumed play describe these same restorations once; the intervening audio recap revisits earlier travel and orchard events.",
+        "Passing the last barrier, the party enters an open monastery with a sandy courtyard, shaded cloisters, and a central domed temple. The rescued monks resume sweeping, prayer, sparring, writing, and meal preparation; their bodies and souls grow clearer as they repeat the choreographed activities. The party avoids disturbing the patterns and approaches the temple. It resembles a smaller Temple of the Eight Divines in Drankor, with Bhishma stories and illustrations of Jeevali's resurrection replacing its original art. A worn jade statue stands inside, missing a hand."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Restoring the fading monks",
+          "boundaryReason": "The three circles and resumed prayer, teaching, and sparring are one monk-restoration situation. The written notes continue beyond the recording gap through the later Rai audience, and the audio recap retells earlier play. Those overlapping accounts are support evidence, not additional meetings or repeated journeys. Synthesize each event once in its actual scene.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0177",
+            "endUid": "u0376"
+          },
+          "shortSummary": "The party restores the incomplete monks by sharing threshold stories, recovering emotions, and completing their interrupted roles.",
+          "longSummary": "At the sanctuary's edge, grasping hands respond to threshold stories: Seeker tells of Eudomes' tower, Wellby of an early desert crossing, and Delwath of the Rainbow Bridge and escape from the Plane of Water. In the next circle, Kenzo recovers a laughing monk's father-and-child memory through meditation; Delwath uses Suggestion to draw out grief tied to a death marker. Wellby's description of the Dunmari landscape restores a joyful wedding memory, while Seeker's detailed account of dangers brings back a terrified monk's fear of public speaking. In the final circle, Delwath plays student to a teacher of survival in Limbo. Kenzo joins a monk in advanced Bhishma prayer with Bardic Inspiration; Seeker teaches Tokra history with illusory chalk and digressions about tunnels and werewolves; Wellby mirrors a sparring monk's movements. The restored monks follow them. The written notes and resumed play describe these same restorations once; the intervening audio recap revisits earlier travel and orchard events.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "Three circles of fading monks outside the monastery",
+            "notes": "The written notes continue beyond the recording gap through the later Rai audience. Their synopsis of that audience is supporting evidence for beat-007, not an extra meeting here. The written notes describe Wellby's threshold story as the canyonlands; the audio recap calls it the Garamjala Desert."
+          },
+          "npcDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered",
+              "notes": "Descriptive group name for the incomplete monks who regain their stories and roles."
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned",
+              "notes": "The embedded written synopsis of his later conversation is not an additional encounter during the restoration."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Inside the ordered monastery",
+          "boundaryReason": "The final barrier gives way to a cloister, where rescued monks recover through ordered routines; the party approaches the central temple.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0377",
+            "endUid": "u0403"
+          },
+          "shortSummary": "The restored monks enter the cloister and recover through repetitive routines while the party approaches Rai's jade statue.",
+          "longSummary": "Passing the last barrier, the party enters an open monastery with a sandy courtyard, shaded cloisters, and a central domed temple. The rescued monks resume sweeping, prayer, sparring, writing, and meal preparation; their bodies and souls grow clearer as they repeat the choreographed activities. The party avoids disturbing the patterns and approaches the temple. It resembles a smaller Temple of the Eight Divines in Drankor, with Bhishma stories and illustrations of Jeevali's resurrection replacing its original art. A worn jade statue stands inside, missing a hand.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "Ordered cloister and central domed temple in Rai's sanctuary",
+            "notes": "The restored monks are the same monks rescued in beat-005; their continuing recovery is not a second rescue."
+          },
+          "npcDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered"
+            },
+            {
+              "name": "Rai",
+              "role": "encountered",
+              "notes": "Present as the jade statue in the central temple; the telepathic audience follows."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "encountered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Rai's divided vigil",
+      "beatIds": [
+        "beat-007"
+      ],
+      "sourceRange": {
+        "startUid": "u0404",
+        "endUid": "u0534"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0404",
+          "endUid": "u0534"
+        }
+      ],
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Limbo"
+      ],
+      "npcRefs": [
+        "Rai"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Jade Piece of Rai's Hand"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Rai explains his struggle to protect the monks and restrain an ancient entity, and Kenzo returns his jade hand before they discuss retrieving the fragment of stability."
+      ],
+      "sourceLongSummaries": [
+        "Rai speaks telepathically from the worn jade statue and asks whether Dimitaur brought his plea for help; the party has received no such message. He says he brought the Dunmari monks into Limbo while trying to close the wound at Isingue and must now both keep them from fading and resist an entity drawing Limbo and the Material Plane together. He believes a fragment of stability bears hyper-dense runes that must be read in the correct order; his eyes no longer work. He suspects a primordial chaos storm gained a fixed purpose through that fragment, and can guide the party to it, though retrieving it need not require killing the creature. Kenzo explains that his parents found the hand and that he has carried it since childhood; Rai says he has seen Kenzo in the dreams. Kenzo returns the hand from his staff, and it fuses to the statue, bringing Rai relief. Rai warns that the entity can reshape its domain and that monks have been lost when his concentration faltered. The party discusses recovering the fragment to heal the rift, but neither retrieval nor departure is recorded. Closing remarks about apprenticeships and fruit trade are future possibilities."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "Rai's divided vigil",
+          "boundaryReason": "The telepathic audience, explanation of the crisis, return of the hand, and warnings occur in one continuous meeting. End-of-session reactions and proposed future activities are framing, not accomplished events; Rai's cosmological account remains attributed belief.",
+          "dateStart": "1749-09-16",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0404",
+            "endUid": "u0534"
+          },
+          "shortSummary": "Rai explains his struggle to protect the monks and restrain an ancient entity, and Kenzo returns his jade hand before they discuss retrieving the fragment of stability.",
+          "longSummary": "Rai speaks telepathically from the worn jade statue and asks whether Dimitaur brought his plea for help; the party has received no such message. He says he brought the Dunmari monks into Limbo while trying to close the wound at Isingue and must now both keep them from fading and resist an entity drawing Limbo and the Material Plane together. He believes a fragment of stability bears hyper-dense runes that must be read in the correct order; his eyes no longer work. He suspects a primordial chaos storm gained a fixed purpose through that fragment, and can guide the party to it, though retrieving it need not require killing the creature. Kenzo explains that his parents found the hand and that he has carried it since childhood; Rai says he has seen Kenzo in the dreams. Kenzo returns the hand from his staff, and it fuses to the statue, bringing Rai relief. Rai warns that the entity can reshape its domain and that monks have been lost when his concentration faltered. The party discusses recovering the fragment to heal the rift, but neither retrieval nor departure is recorded. Closing remarks about apprenticeships and fruit trade are future possibilities.",
+          "locationHints": {
+            "refs": [
+              "Limbo"
+            ],
+            "context": "Telepathic audience with Rai in the central temple",
+            "notes": "One continuous audience on September 16, also summarized in the earlier written notes. Rai's account of the entity, its origins, and the relic is explicitly his observation or belief; his perceived elapsed time differs from the Material Plane's."
+          },
+          "npcDetails": [
+            {
+              "name": "Rai",
+              "role": "encountered"
+            },
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Canonical spelling confirmed by the companion note; the recording uses Dimataur."
+            },
+            {
+              "name": "Ancient Limbo entity",
+              "role": "mentioned",
+              "notes": "Rai believes it may be an original inhabitant and a chaos storm stabilized by the fragment; the party has not encountered it."
+            },
+            {
+              "name": "Monks of Bhishma",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai's Hand",
+              "role": "encountered",
+              "notes": "Kenzo removes the assembled hand from his staff and returns it to Rai."
+            },
+            {
+              "name": "Fragment of stability (name unresolved)",
+              "role": "mentioned",
+              "notes": "The written notes say relic of reshaping; the recording uses relic, locus, or fragment of stability, or piece of order. These are descriptions of the sought object, not an adopted formal name."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Monks of Bhishma",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Arheste",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Wellby's fly",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Silent Orchard Keeper",
+        "beatIds": [
+          "beat-003"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Monks of Bhishma",
+        "beatIds": [
+          "beat-005",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Rai",
+        "beatIds": [
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Orenlas",
+        "beatIds": [
+          "beat-001",
+          "beat-002"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Orchard approach",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Limbo",
+        "beatIds": [
+          "beat-003",
+          "beat-005",
+          "beat-006",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Orchard",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Rai's sanctuary",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Arheste",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Orenlas",
+              "dateStart": "1749-09-14",
+              "dateEnd": "1749-09-15"
+            }
+          ]
+        },
+        {
+          "name": "Wellby's fly",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Orenlas",
+              "dateStart": "1749-09-14",
+              "dateEnd": "1749-09-15"
+            }
+          ]
+        },
+        {
+          "name": "Silent Orchard Keeper",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Monks of Bhishma",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Rai",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Orenlas",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "Conversations with the elves and preparations for planar travel",
+          "beatIds": [
+            "beat-001",
+            "beat-002"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-09-14",
+              "dateEnd": "1749-09-15",
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1749-09-16",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Orchard approach",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Plane Shift followed by travel through glass snow and solidifying darkness",
+          "beatIds": [
+            "beat-002"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-09-16",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Limbo",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "The faceless keeper's orchard on a shard of glass dirt",
+          "beatIds": [
+            "beat-003",
+            "beat-005",
+            "beat-006",
+            "beat-007"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-09-16",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Orchard",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Teleport, liquid-gravity conduit, flat stone vessel, ocean, and stone-wave pursuit",
+          "beatIds": [
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-09-16",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Rai's sanctuary",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Teleport, liquid-gravity conduit, flat stone vessel, ocean, and stone-wave pursuit",
+          "beatIds": [
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-09-16",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Monks of Bhishma",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "Chaos metal",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Orenlas",
+              "dateStart": "1749-09-14",
+              "dateEnd": "1749-09-15"
+            }
+          ]
+        },
+        {
+          "name": "Wayfarer's Bow",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002",
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Orenlas -> Orchard approach",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            },
+            {
+              "location": "Orchard -> Rai's sanctuary",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Memory and vision fruit",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Fruit for chaos ki",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Glass dirt",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Escape-route nut",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Fruit to find the elves",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Jade Piece of Rai's Hand",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Limbo",
+              "dateStart": "1749-09-16",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Agata",
+          "contextHint": null
+        },
+        {
+          "name": "Frankar",
+          "contextHint": null
+        },
+        {
+          "name": "Efreeti in the fruit vision",
+          "contextHint": null
+        },
+        {
+          "name": "Cha'mutte",
+          "contextHint": null
+        },
+        {
+          "name": "Dimitaur",
+          "contextHint": null
+        },
+        {
+          "name": "Ancient Limbo entity",
+          "contextHint": null
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Wand of the Planes",
+          "contextHint": null
+        },
+        {
+          "name": "Vindristjarna",
+          "contextHint": null
+        },
+        {
+          "name": "Fragment of stability (name unresolved)",
+          "contextHint": null
+        }
+      ]
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-recap-scenes.json"
+}
