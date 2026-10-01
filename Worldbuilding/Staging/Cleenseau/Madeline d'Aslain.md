@@ -13,6 +13,6 @@ Madeline d'Aslain is the wife of [[Robin D'Aslain|Robin d'Aslain]]. She was amon
 
 %% Sources:
 - [[People of Aveil Working Doc]]
-- [[Fey Aftermaths II]]
+- [[Fey Aftermath in Veltor (Email)]]
 - [[Cleenseau - Session 20]]
 %%
