@@ -20,6 +20,91 @@ SPEC.loader.exec_module(MODULE)
 
 
 class SpeakerModelTests(unittest.TestCase):
+    def test_explicit_clean_cues_can_anchor_a_missing_voice_and_override_group_identity(self):
+        np = MODULE.load_numpy()
+        review, attrs = self.fixtures()
+        by_id = {u['id']:u for u in review['utterances']}
+        embeddings = {uid:np.array([1.,0.]) for uid in by_id}
+        attrs['utteranceOverrides']['p1-g1'] = {'status':'unknown', 'participantId':None}
+        refs = MODULE.build_profile_references({g['id']:g for g in review['groups']}, attrs['groupLabels'], by_id, embeddings, attrs['utteranceOverrides'])
+        labels = {r['utteranceId']:r['participantId'] for r in refs}
+        self.assertNotIn('p1-g1', labels)
+        self.assertEqual(labels['manual'], 'p1')
+        self.assertEqual(sum(r['utteranceId']=='manual' for r in refs), 1)
+        refs = MODULE.build_profile_references({}, {}, by_id, embeddings, attrs['utteranceOverrides'])
+        self.assertEqual([(r['utteranceId'],r['participantId']) for r in refs], [('manual','p1')])
+
+    def test_automated_labels_do_not_seed_local_reference_profiles(self):
+        np = MODULE.load_numpy()
+        review, _ = self.fixtures()
+        by_id = {u['id']:u for u in review['utterances']}
+        refs = MODULE.build_profile_references({}, {}, by_id, {'target':np.array([1.,0.])},
+            {'target':{'status':'assigned', 'participantId':'p1', 'modelMargin':.8}})
+        self.assertEqual(refs, [])
+
+    def materialize(self, *, prior=False, compare=False, thresholds=False, weak=False, low_cosine=False, policy=None):
+        np = MODULE.load_numpy()
+        review, attrs = self.fixtures()
+        if policy:
+            review['calibrationPolicy'] = policy
+        embeddings = {'p1-g1': np.array([1., 0.]), 'p1-g2': np.array([.9, .1]),
+                      'p2-g1': np.array([0., 1.]), 'p2-g2': np.array([.1, .9]),
+                      'target': np.array([1., 1.]) / np.sqrt(2) if weak else np.array([.05, .95]),
+                      'manual': np.array([1., 0.]), 'excluded': np.array([.05, .95])}
+        if low_cosine:
+            embeddings['target'] = np.array([-1., 0.])
+        external = [{'participantId': 'p1', 'groupId': 'prior1', 'embedding': np.array([0., 1.])},
+                    {'participantId': 'p2', 'groupId': 'prior2', 'embedding': np.array([1., 0.])}] if prior else None
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw)
+            rp, ap, ep = root / 'r.json', root / 'a.json', root / 'e.npz'
+            rp.write_text(json.dumps(review)); ap.write_text(json.dumps(attrs)); ep.write_bytes(b'fixture')
+            return MODULE.materialize_model_layer(np=np, review=review, attributions=attrs, review_id='new',
+                review_path=rp, attributions_path=ap, embeddings_path=ep, embedding_dimension=2,
+                embedding_by_id=embeddings, model_name='test', minimum_duration_seconds=1.5, minimum_word_count=4,
+                excluded_ids=set(), allow_unresolved_verification=True, external_references=external,
+                compare_reference=compare, minimum_model_margin=.2 if thresholds else None,
+                minimum_model_cosine=.8 if thresholds else None, profile_metadata={'source': 'prior'} if prior else None)
+
+    def test_prior_bank_comparison_cannot_replace_local_prediction(self):
+        review, attrs, summary = self.materialize(prior=True, compare=True)
+        self.assertEqual(attrs['utteranceOverrides']['target']['participantId'], 'p2')
+        prior = review['modelAttribution']['priorComparison']['target']
+        self.assertEqual(prior['participantId'], 'p1')
+        self.assertFalse(prior['agreesWithLocal'])
+        self.assertFalse(prior['usedForAssignment'])
+        self.assertNotIn('profileReference', attrs['modelAttribution'])
+        self.assertGreater(summary['priorDisagreementCount'], 0)
+        self.assertEqual(attrs['utteranceOverrides']['manual'], {'status': 'assigned', 'participantId': 'p1'})
+
+    def test_low_margin_becomes_unknown_even_with_assigned_acoustic_group(self):
+        review, attrs, summary = self.materialize(prior=True, thresholds=True, weak=True)
+        self.assertEqual(attrs['utteranceOverrides']['target']['status'], 'unknown')
+        self.assertNotIn('target', review['modelAttribution']['modelOverrideUtteranceIds'])
+        self.assertIn('target', review['modelAttribution']['rejectedModelUtteranceIds'])
+        self.assertGreater(summary['lowConfidenceUnknownCount'], 0)
+        self.assertEqual(attrs['utteranceOverrides']['manual']['participantId'], 'p1')
+
+    def test_phone_policy_requires_local_profiles_and_explicit_acceptance_thresholds(self):
+        policy = {'externalReferenceRole': 'comparison', 'requiresConfidencePolicy': True}
+        with self.assertRaises(MODULE.SpeakerReviewError):
+            self.materialize(prior=True, policy=policy, thresholds=True)
+        with self.assertRaises(MODULE.SpeakerReviewError):
+            self.materialize(policy=policy)
+        self.materialize(prior=True, compare=True, policy=policy, thresholds=True)
+
+    def test_high_margin_does_not_override_low_cosine_rejection(self):
+        _, attrs, _ = self.materialize(prior=True, thresholds=True, low_cosine=True)
+        target = attrs['utteranceOverrides']['target']
+        self.assertGreater(target['modelMargin'], .2)
+        self.assertLess(target['modelCosine'], .8)
+        self.assertEqual(target['status'], 'unknown')
+
+    def test_confidence_policy_rejects_nonfinite_values(self):
+        for margin, cosine in [(float('nan'), None), (None, float('inf')), (-.1, None), (None, 1.1)]:
+            with self.assertRaises(MODULE.SpeakerReviewError):
+                MODULE.validate_confidence_policy(margin, cosine)
+
     def test_scribe_fallback_uses_inclusive_eighty_percent_threshold(self) -> None:
         participants = [
             {"id": "p1", "name": "One", "gameRole": "One"},

@@ -1,10 +1,18 @@
-sourcePath: MISSING TRANSCRIPT
+# Tentative configuration; finalized transcript still pending.
+# Recording allocation: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/dunmar-frontier-final-sessions-135-139.yaml
+# Audio directory:
+# /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 136/raw_audio
+# Tim track: Session136-Tim-Chunk-01.m4a
+# Kong track: Session136-Kong-Chunk-01.m4a, Session136-Kong-Chunk-02.m4a,
+#             Session136-Kong-Chunk-03.m4a
+# Limbo adventure concluding with the return to Orenlas.
+sourcePath: null
 sourceType: transcript
 scope: session
 outputDir: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 sessionNumber: 136
-realWorldDate: null
+realWorldDate: '2025-10-24'
 drStart: null
 drEnd: null
 drStartTime: null

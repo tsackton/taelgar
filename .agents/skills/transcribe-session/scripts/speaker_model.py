@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import math
 import sys
 import tempfile
 from collections import defaultdict
@@ -66,6 +67,12 @@ def build_parser() -> argparse.ArgumentParser:
         type=Path,
         help="Embedding cache created from --reference-bank clips.",
     )
+    apply.add_argument(
+        "--compare-reference", action="store_true",
+        help="Use local profiles for labels; record the prior bank only as independent comparison evidence.",
+    )
+    apply.add_argument("--minimum-model-margin", type=float, help="Reject weaker matches as Unknown; choose from the local audit.")
+    apply.add_argument("--minimum-model-cosine", type=float, help="Reject weaker matches as Unknown; cosine is not a probability.")
     apply.add_argument("--output-dir", type=Path, required=True)
     apply.add_argument("--review-id", required=True)
     apply.add_argument("--model-name", default=DEFAULT_MODEL_NAME)
@@ -141,6 +148,7 @@ def apply_model(args: argparse.Namespace) -> int:
         raise SpeakerReviewError("--minimum-duration-seconds must be positive")
     if args.minimum_word_count < 1:
         raise SpeakerReviewError("--minimum-word-count must be positive")
+    validate_confidence_policy(args.minimum_model_margin, args.minimum_model_cosine)
     review_path = resolve_input(args.review, "speaker review")
     attributions_path = resolve_input(args.attributions, "speaker attributions")
     embeddings_path = resolve_input(args.embeddings, "speaker embeddings")
@@ -166,6 +174,8 @@ def apply_model(args: argparse.Namespace) -> int:
         raise SpeakerReviewError(
             "--reference-bank and --reference-embeddings must be supplied together"
         )
+    if args.compare_reference and not args.reference_bank:
+        raise SpeakerReviewError("--compare-reference requires a reference bank and its embeddings")
     external_references = None
     profile_metadata = None
     if args.reference_bank:
@@ -250,6 +260,9 @@ def apply_model(args: argparse.Namespace) -> int:
         allow_unresolved_verification=args.allow_unresolved_verification,
         external_references=external_references,
         profile_metadata=profile_metadata,
+        compare_reference=args.compare_reference,
+        minimum_model_margin=args.minimum_model_margin,
+        minimum_model_cosine=args.minimum_model_cosine,
     )
     validate_attributions(review_payload, attribution_payload)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -565,7 +578,18 @@ def materialize_model_layer(
     allow_unresolved_verification: bool,
     external_references: list[dict[str, Any]] | None = None,
     profile_metadata: dict[str, Any] | None = None,
+    compare_reference: bool = False,
+    minimum_model_margin: float | None = None,
+    minimum_model_cosine: float | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
+    validate_confidence_policy(minimum_model_margin, minimum_model_cosine)
+    policy = review.get("calibrationPolicy", {})
+    if policy.get("externalReferenceRole") == "comparison" and external_references is not None and not compare_reference:
+        raise SpeakerReviewError("recording-local calibration permits prior banks as comparison only; add --compare-reference")
+    if policy.get("requiresConfidencePolicy") and (minimum_model_margin is None or minimum_model_cosine is None):
+        raise SpeakerReviewError("recording-local calibration requires --minimum-model-margin and --minimum-model-cosine chosen from the local audit")
+    if compare_reference and external_references is None:
+        raise SpeakerReviewError("prior comparison requires external reference embeddings")
     participants = review.get("participants", [])
     participant_ids = [item["id"] for item in participants]
     group_by_id = {item["id"]: item for item in review.get("groups", [])}
@@ -574,9 +598,9 @@ def materialize_model_layer(
     source_overrides = attributions.get("utteranceOverrides", {})
     references = (
         external_references
-        if external_references is not None
+        if external_references is not None and not compare_reference
         else build_profile_references(
-            group_by_id, group_labels, utterance_by_id, embedding_by_id
+            group_by_id, group_labels, utterance_by_id, embedding_by_id, source_overrides
         )
     )
     missing_profiles = set(participant_ids) - {
@@ -591,6 +615,8 @@ def materialize_model_layer(
     output_overrides = json.loads(json.dumps(source_overrides))
     model_override_ids: list[str] = []
     predicted_counts: dict[str, int] = defaultdict(int)
+    prior_comparison: dict[str, Any] = {}
+    rejected_ids: list[str] = []
     summary: dict[str, Any] = {
         "utteranceCount": len(utterance_by_id),
         "eligibleUtteranceCount": 0,
@@ -600,6 +626,7 @@ def materialize_model_layer(
         "explicitExclusionCountPreserved": 0,
         "missingEmbeddingCountPreserved": 0,
         "insufficientProfileCountPreserved": 0,
+        "lowConfidenceUnknownCount": 0,
         "predictedByParticipant": {},
     }
     for utterance in review.get("utterances", []):
@@ -619,23 +646,41 @@ def materialize_model_layer(
         if embedding is None:
             summary["missingEmbeddingCountPreserved"] += 1
             continue
-        prediction = predict_participant(
+        prediction = score_participant(
             np=np,
             participant_ids=participant_ids,
             references=references,
             embedding=embedding,
             excluded_group_id=(
-                None if external_references is not None else utterance.get("groupId")
+                None if external_references is not None and not compare_reference else utterance.get("groupId")
             ),
         )
         if prediction is None:
             summary["insufficientProfileCountPreserved"] += 1
             continue
-        participant_id, margin = prediction
+        participant_id, margin, cosine = prediction
+        if compare_reference:
+            prior = score_participant(np=np, participant_ids=participant_ids, references=external_references,
+                                      embedding=embedding, excluded_group_id=None)
+            if prior:
+                prior_comparison[utterance_id] = {"participantId": prior[0], "margin": round(prior[1], 6),
+                                                  "cosine": round(prior[2], 6), "localParticipantId": participant_id,
+                                                  "agreesWithLocal": participant_id == prior[0], "usedForAssignment": False}
+        if ((minimum_model_margin is not None and margin < minimum_model_margin)
+                or (minimum_model_cosine is not None and cosine < minimum_model_cosine)):
+            output_overrides[utterance_id] = {
+                "status": "unknown", "participantId": None, "modelMargin": round(margin, 6),
+                "modelCosine": round(cosine, 6), "provenance": "model-low-confidence", "humanVerified": False,
+            }
+            rejected_ids.append(utterance_id)
+            summary["lowConfidenceUnknownCount"] += 1
+            continue
         output_overrides[utterance_id] = {
             "status": "assigned",
             "participantId": participant_id,
             "modelMargin": round(float(margin), 6),
+            "modelCosine": round(cosine, 6),
+            "provenance": "model", "humanVerified": False,
         }
         model_override_ids.append(utterance_id)
         predicted_counts[participant_id] += 1
@@ -646,7 +691,7 @@ def materialize_model_layer(
         "createdAt": utc_now(),
         "method": (
             "reference-bank-nearest-profile"
-            if external_references is not None
+            if external_references is not None and not compare_reference
             else "leave-current-group-out-nearest-profile"
         ),
         "modelName": model_name,
@@ -658,10 +703,16 @@ def materialize_model_layer(
         "manualOverrideUtteranceIds": sorted(source_overrides),
         "modelOverrideUtteranceIds": model_override_ids,
         "preservedExcludedUtteranceIds": sorted(excluded_ids),
+        "rejectedModelUtteranceIds": rejected_ids,
+        "confidencePolicy": {"minimumMargin": minimum_model_margin, "minimumCosine": minimum_model_cosine},
         "summary": summary,
     }
     if profile_metadata:
-        model_metadata["profileReference"] = profile_metadata
+        model_metadata["comparisonReference" if compare_reference else "profileReference"] = profile_metadata
+    if compare_reference:
+        model_metadata["priorComparison"] = prior_comparison
+        summary["priorComparisonCount"] = len(prior_comparison)
+        summary["priorDisagreementCount"] = sum(not p["agreesWithLocal"] for p in prior_comparison.values())
     review_payload = json.loads(json.dumps(review))
     verification = json.loads(json.dumps(review.get("verification", {})))
     verification["allowUnresolved"] = bool(allow_unresolved_verification)
@@ -695,7 +746,7 @@ def materialize_model_layer(
         "modelAttribution": {
             "sourceEmbeddingsSha256": model_metadata["sourceEmbeddingsSha256"],
             "modelOverrideUtteranceIds": model_override_ids,
-            **({"profileReference": profile_metadata} if profile_metadata else {}),
+            **({"comparisonReference" if compare_reference else "profileReference": profile_metadata} if profile_metadata else {}),
         },
     }
     return review_payload, attribution_payload, summary
@@ -709,6 +760,22 @@ def predict_participant(
     embedding: Any,
     excluded_group_id: str | None,
 ) -> tuple[str, float] | None:
+    prediction = score_participant(np=np, participant_ids=participant_ids, references=references,
+                                  embedding=embedding, excluded_group_id=excluded_group_id)
+    return (prediction[0], prediction[1]) if prediction else None
+
+
+def validate_confidence_policy(margin: float | None, cosine: float | None) -> None:
+    if margin is not None and (not math.isfinite(margin) or not 0 <= margin <= 2):
+        raise SpeakerReviewError("--minimum-model-margin must be finite and between 0 and 2")
+    if cosine is not None and (not math.isfinite(cosine) or not -1 <= cosine <= 1):
+        raise SpeakerReviewError("--minimum-model-cosine must be finite and between -1 and 1")
+
+
+def score_participant(
+    *, np: Any, participant_ids: list[str], references: list[dict[str, Any]],
+    embedding: Any, excluded_group_id: str | None,
+) -> tuple[str, float, float] | None:
     vectors_by_participant: dict[str, list[Any]] = defaultdict(list)
     for reference in references:
         if excluded_group_id is None or reference["groupId"] != excluded_group_id:
@@ -734,7 +801,7 @@ def predict_participant(
         if len(participant_ids) > 1
         else float("inf")
     )
-    return predicted_id, margin
+    return predicted_id, margin, float(scores[order[-1]])
 
 
 def load_embedding_metadata(np: Any, path: Path) -> dict[str, Any] | None:

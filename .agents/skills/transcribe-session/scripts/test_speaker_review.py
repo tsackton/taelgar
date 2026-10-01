@@ -293,6 +293,9 @@ class SpeakerReviewTests(unittest.TestCase):
                 "r01-g001": {"status": "assigned", "participantId": "p01"},
                 "r01-g002": {"status": "mixed", "participantId": None},
             }
+            review["groups"].append({"id": "r01-g003", "recordingId": "r01", "memberUtteranceIds": [], "representativeUtteranceIds": []})
+            labels["groupLabels"]["r01-g003"] = {"status": "mixed", "participantId": None}
+            review_path.write_text(json.dumps(review), encoding="utf-8")
             labels_path.write_text(json.dumps(labels), encoding="utf-8")
 
             def fake_decode(_audio_path, pcm_path, _decoder):
@@ -315,6 +318,7 @@ class SpeakerReviewTests(unittest.TestCase):
                         "test-r2",
                         "--groups-per-parent",
                         "2",
+                        "--group", "r01-g002",
                     ]
                 )
             self.assertEqual(result, 0)
@@ -324,7 +328,8 @@ class SpeakerReviewTests(unittest.TestCase):
             self.assertIn("r01-g001", group_ids)
             self.assertNotIn("r01-g002", group_ids)
             self.assertEqual(len([item for item in group_ids if item.startswith("r01-g002-r")]), 2)
-            self.assertEqual(refined_labels["groupLabels"], {"r01-g001": {"status": "assigned", "participantId": "p01"}})
+            self.assertEqual(refined_labels["groupLabels"], {"r01-g001": {"status": "assigned", "participantId": "p01"}, "r01-g003": {"status": "mixed", "participantId": None}})
+            self.assertIn("r01-g003", group_ids)
 
     @staticmethod
     def review_fixture() -> dict[str, object]:
