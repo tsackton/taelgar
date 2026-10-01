@@ -11,9 +11,7 @@ Play-by-email exchange about the ring taken from [[Gareth of Tollen]]. Authored 
 A short interlude, but you might want to investigate.
 
 Gareth, as I think I mentioned, was wearing, when he was captured, a small
-ring:
-
-![[Gareth's Ring - source image.png]]
+ring- [[Ring of Escape]]
 
 Izgil investigated the ring, and determined a few things about it:
 

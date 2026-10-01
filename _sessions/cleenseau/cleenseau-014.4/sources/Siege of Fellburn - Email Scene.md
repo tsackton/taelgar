@@ -354,10 +354,7 @@ As Raoul finishes his blessings, one of his followers steps forward, and embrace
 
 And so Armand is pulled away, with introductions and promises to meet for again before leaving, perhaps in the Duke's camp later. The encampment is growing, as the archers from the east start marching this way, and people from Fellburn reach the camp - but there is also a sense of activity. You learn this is a somewhat makeshift army, several regiments of the Army of the South at its core, but supplemented by many levies and loans from the lords of Wisford. The battle at Gowerbourne was difficult, for the Night Queen's magic was not so strong, the Elder Boulain had not joined the camp. You hear stories from the wounded, of the walking dead at Gowerbourne, sliced again and again with swords, only to get up and keep fighting, again and again. A nightmare, it seems, and many soldiers died there. Half the people you talk to are young, new recruits, and half veterans, recently rejoined, to supplement the troops. The Duke is beloved, but there is some muttering about King Robert, and much lamenting that the old Queen, Cece of blessed memory, was not still ruler.
 
-The Duke, Jacques Bellemont
-
-![[Siege of Fellburn - Duke portrait.png]]
-
+The Duke, [[Jacques Bellemont]]
 The Duke's camp is a bustling, well organized place near the Oracle of Hope, although the Duke is already packing to leave. It seems he plans to take an early supper and ride for Embry with a vanguard of his troops and most of his advisors and courtiers. There is much activity, and it is hard to be properly introduced, or have a sensible conversation. You talk for some time with Marcel Desrosiers, the captain of the Duke's guard, who spares half an hour to get your story and answer your questions. You learn that King Robert has summoned the dukes to Embry, for a conclave, to discuss what is to be done, and he fears he will arrive late.
 
 You get the sense that this is not an optional summons, and being late could have consequences. The Duke’s household certainly seems eager to be on the road. But they seem to be waiting for something, beyond just supper and a meal, and recovery from the battle.

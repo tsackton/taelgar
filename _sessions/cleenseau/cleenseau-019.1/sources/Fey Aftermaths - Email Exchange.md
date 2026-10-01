@@ -4,7 +4,7 @@ campaign: Cleenseau
 ---
 # Fey Aftermaths - Email Exchange
 
-Email exchange following the confrontation with Areschera. Messages appear in sent order; repeated quoted replies, duplicate forwards, and mailing-list footers are omitted. Complete email archive, including two player replies recovered from forwards: [[Fey Aftermaths (Email)]]. The gem illustration is preserved at [[Fey Aftermath - Spell Storing Gem.png]].
+Email exchange following the confrontation with Areschera. Messages appear in sent order; repeated quoted replies, duplicate forwards, and mailing-list footers are omitted. Complete email archive, including two player replies recovered from forwards: [[Fey Aftermaths (Email)]]. The gem illustration is preserved at [[gem-of-spell-storing.png]]
 
 %% Date clarification: Mike's opening email says February 24, but [[Cleenseau - Session 19]] places Areschera's death on February 21. The user confirmed February 21 as canonical; the email text below remains unchanged. %%
 

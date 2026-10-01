@@ -6,8 +6,6 @@ POV: 1720
 
 Local archive of the Fey Aftermaths email thread (10 messages), plus two forwarded copies of player replies that did not reach the mailing list. Original message bodies preserve quoted reply history. The reading copy at [[Fey Aftermaths - Email Exchange]] omits repeated quotations.
 
-The gem illustration attached to the second message is preserved at [[Fey Aftermath - Spell Storing Gem.png]].
-
 ## Mon, 14 Oct 2024 20:46:25 -0400 — Mike Sackton <msackton@gmail.com>
 
 Subject: Taelgar: Fey Aftermaths
