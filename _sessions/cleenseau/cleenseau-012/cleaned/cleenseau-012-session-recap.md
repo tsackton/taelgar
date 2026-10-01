@@ -193,7 +193,6 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 
 - [[Cleenseau - Session 12 - Original]]
 - [[01-cleenseau-blog-779436 - Original]]
-- [[Champimont - Rumors and Information]]
 - [[Champimont Rumors and Questions (Email)]]
 - [[At The Elegant Swan in Champimont]]
 - [[Hunting Lorin (Email)]]
