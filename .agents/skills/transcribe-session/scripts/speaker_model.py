@@ -18,7 +18,7 @@ from media_tools import (
     prepare_clip_source,
     resolve_clip_backend,
 )
-from speaker_audit import build_profile_references, load_embedding_cache
+from speaker_audit import build_profile_references, load_embedding_cache, validate_audit, validate_decisions
 from speaker_review import (
     SpeakerReviewError,
     atomic_write_json,
@@ -71,6 +71,10 @@ def build_parser() -> argparse.ArgumentParser:
         "--compare-reference", action="store_true",
         help="Use local profiles for labels; record the prior bank only as independent comparison evidence.",
     )
+    apply.add_argument("--reference-transfer-audit", type=Path,
+                       help="Completed current-recording blind audit validating a bank transfer after poor local profiles.")
+    apply.add_argument("--reference-transfer-decisions", type=Path,
+                       help="Human decisions already imported into this review for --reference-transfer-audit.")
     apply.add_argument("--minimum-model-margin", type=float, help="Reject weaker matches as Unknown; choose from the local audit.")
     apply.add_argument("--minimum-model-cosine", type=float, help="Reject weaker matches as Unknown; cosine is not a probability.")
     apply.add_argument("--output-dir", type=Path, required=True)
@@ -112,6 +116,10 @@ def build_parser() -> argparse.ArgumentParser:
     fallback.add_argument(
         "--minimum-accuracy", type=float, default=DEFAULT_SCRIBE_ID_ACCURACY
     )
+    fallback.add_argument("--minimum-support-cues", type=int, default=1,
+                          help="Minimum substantial model cues supporting each Scribe-ID policy (default: 1).")
+    fallback.add_argument("--check-human-agreement", action="store_true",
+                          help="Also require current explicit/confirmed listening to support the same identity at the chosen agreement threshold.")
     fallback.add_argument("--force", action="store_true")
 
     export = subparsers.add_parser(
@@ -221,6 +229,20 @@ def apply_model(args: argparse.Namespace) -> int:
             embeddings_path=reference_embeddings_path,
         )
 
+    transfer = None
+    if bool(args.reference_transfer_audit) != bool(args.reference_transfer_decisions):
+        raise SpeakerReviewError("reference transfer requires both the audit and its decisions")
+    if args.reference_transfer_audit:
+        if external_references is None or args.compare_reference:
+            raise SpeakerReviewError("validated transfer requires a reference bank used for assignment")
+        transfer = validate_reference_transfer(
+            np=np, review=review, attributions=attributions, embedding_by_id=embedding_by_id,
+            references=external_references, profile_metadata=profile_metadata,
+            audit_path=resolve_input(args.reference_transfer_audit, "transfer audit"),
+            decisions_path=resolve_input(args.reference_transfer_decisions, "transfer decisions"),
+            minimum_margin=args.minimum_model_margin, minimum_cosine=args.minimum_model_cosine,
+        )
+
     utterance_ids = {item["id"] for item in review.get("utterances", [])}
     excluded_ids = set(args.exclude_utterance)
     unknown_exclusions = sorted(excluded_ids - utterance_ids)
@@ -263,6 +285,7 @@ def apply_model(args: argparse.Namespace) -> int:
         compare_reference=args.compare_reference,
         minimum_model_margin=args.minimum_model_margin,
         minimum_model_cosine=args.minimum_model_cosine,
+        validated_reference_transfer=transfer,
     )
     validate_attributions(review_payload, attribution_payload)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -272,6 +295,77 @@ def apply_model(args: argparse.Namespace) -> int:
     print(f"Wrote {output_attributions_path}")
     print(json.dumps(summary, indent=2))
     return 0
+
+
+def validate_reference_transfer(
+    *, np: Any, review: dict[str, Any], attributions: dict[str, Any],
+    embedding_by_id: dict[str, Any], references: list[dict[str, Any]],
+    profile_metadata: dict[str, Any], audit_path: Path, decisions_path: Path,
+    minimum_margin: float | None, minimum_cosine: float | None,
+) -> dict[str, Any]:
+    """Re-score a verified bank on exact imported listening decisions; never use hidden labels."""
+    validate_confidence_policy(minimum_margin, minimum_cosine)
+    if minimum_margin is None or minimum_cosine is None:
+        raise SpeakerReviewError("validated bank transfer requires both acceptance thresholds")
+    audit = load_json_object(audit_path, "transfer audit")
+    decisions = load_json_object(decisions_path, "transfer decisions")
+    validate_audit(audit)
+    validate_decisions(audit, decisions, audit_path=audit_path)
+    if set(decisions["decisions"]) != {item["id"] for item in audit["items"]}:
+        raise SpeakerReviewError("complete the entire transfer audit before applying bank labels")
+    evidence = review.get("humanAuditEvidence", {})
+    expected = {"auditPath": str(audit_path), "auditSha256": sha256_file(audit_path),
+                "decisionsPath": str(decisions_path), "decisionsSha256": sha256_file(decisions_path)}
+    if any(evidence.get(key) != value for key, value in expected.items()):
+        raise SpeakerReviewError("transfer decisions must be imported into this exact review first")
+    if audit["participants"] != review["participants"] or audit["recordings"] != review["recordings"]:
+        raise SpeakerReviewError("transfer audit roster or recordings differ from this review")
+    for key in ("sourceReview", "sourceAttributions"):
+        source = audit[key]
+        if sha256_file(resolve_input(Path(source["path"]), "transfer audit source")) != source["sha256"]:
+            raise SpeakerReviewError("transfer audit source changed after listening")
+    utterances = {u["id"]: u for u in review["utterances"]}
+    participant_ids = [p["id"] for p in review["participants"]]
+    rows, passing_people = [], set()
+    named, correct, passing, errors = 0, 0, 0, 0
+    for item in audit["items"]:
+        uid = item["utteranceId"]
+        u = utterances.get(uid)
+        decision = decisions["decisions"][item["id"]]
+        label = attributions.get("utteranceOverrides", {}).get(uid, {})
+        if (u is None or any(u.get(k) != item.get(k) for k in ("recordingId", "start", "end", "text"))
+                or uid not in embedding_by_id):
+            raise SpeakerReviewError("transfer audit does not match the cached source utterances")
+        if (label.get("humanVerified") is not True or label.get("auditDecision") != decision
+                or label.get("status") != ("unknown" if decision["status"] == "overlap" else decision["status"])
+                or label.get("participantId") != decision["participantId"]):
+            raise SpeakerReviewError("preserve each imported human decision before validating transfer")
+        score = score_participant(np=np, participant_ids=participant_ids, references=references,
+                                  embedding=embedding_by_id[uid], excluded_group_id=None)
+        if score is None:
+            raise SpeakerReviewError("transfer bank lacks a profile for a participant")
+        accepted = score[1] >= minimum_margin and score[2] >= minimum_cosine
+        matches = decision["status"] == "assigned" and score[0] == decision["participantId"]
+        if decision["status"] == "assigned":
+            named += 1
+            correct += int(matches)
+            if accepted:
+                passing += 1
+                errors += int(not matches)
+                if matches:
+                    passing_people.add(decision["participantId"])
+        rows.append({"auditItemId": item["id"], "utteranceId": uid, "humanDecision": decision,
+                     "participantId": score[0], "margin": round(score[1], 6), "cosine": round(score[2], 6),
+                     "passesPolicy": accepted, "matchesHumanIdentity": matches})
+    if errors or passing_people != set(participant_ids):
+        raise SpeakerReviewError("transfer policy must have no passing named errors and cover every voice in the listened sample")
+    return {"method": "verified-bank-transfer-checked-against-imported-blind-listening",
+            **expected, "referenceBank": profile_metadata,
+            "confidencePolicy": {"minimumMargin": minimum_margin, "minimumCosine": minimum_cosine},
+            "identifiedSampleCount": named, "bankMatchesIdentified": correct,
+            "passingIdentifiedCount": passing, "passingIdentityErrors": errors,
+            "passingParticipantIds": sorted(passing_people), "scoreRows": rows,
+            "limits": "Selected current-recording audit and thresholds chosen from it; no whole-recording accuracy claim. Independent time-spread verification remains required. All human identities, Unknown and Overlap decisions win."}
 
 
 def apply_scribe_fallback(args: argparse.Namespace) -> int:
@@ -304,6 +398,8 @@ def apply_scribe_fallback(args: argparse.Namespace) -> int:
         review_path=review_path,
         attributions_path=attributions_path,
         minimum_accuracy=args.minimum_accuracy,
+        minimum_support_cues=args.minimum_support_cues,
+        check_human_agreement=args.check_human_agreement,
     )
     validate_attributions(review_payload, attribution_payload)
     output_dir.mkdir(parents=True, exist_ok=True)
@@ -323,7 +419,11 @@ def materialize_scribe_fallback_layer(
     review_path: Path,
     attributions_path: Path,
     minimum_accuracy: float,
+    minimum_support_cues: int = 1,
+    check_human_agreement: bool = False,
 ) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
+    if minimum_support_cues < 1:
+        raise SpeakerReviewError("minimum Scribe-ID support must be at least one cue")
     participants = review.get("participants", [])
     participant_by_id = {item["id"]: item for item in participants}
     utterance_by_id = {item["id"]: item for item in review.get("utterances", [])}
@@ -369,6 +469,20 @@ def materialize_scribe_fallback_layer(
             utterance.get("durationSeconds", 0.0)
         )
 
+    listened_ids = set(review.get("modelAttribution", {}).get("manualOverrideUtteranceIds", []))
+    listened_ids.update(uid for uid, label in source_overrides.items()
+                        if label.get("humanVerified") is True)
+    for participant_id, confirmation in attributions.get("verification", {}).items():
+        if confirmation.get("status") == "confirmed":
+            listened_ids.update(uid for uid in confirmation.get("sampleUtteranceIds", [])
+                                if source_overrides.get(uid, {}).get("participantId") == participant_id)
+    human_by_scribe: dict[str, dict[str, int]] = defaultdict(lambda: defaultdict(int))
+    for uid in listened_ids:
+        u = utterance_by_id.get(uid, {})
+        label = source_overrides.get(uid, {})
+        ids = u.get("scribeSpeakerIds", [])
+        if label.get("status") == "assigned" and len(ids) == 1:
+            human_by_scribe[str(ids[0])][label["participantId"]] += 1
     mappings: dict[str, dict[str, Any]] = {}
     scribe_audit: list[dict[str, Any]] = []
     for scribe_id in sorted(counts_by_scribe):
@@ -380,7 +494,14 @@ def materialize_scribe_fallback_layer(
         top_participant_id, top_count = rows[0]
         accuracy = top_count / total
         tied = len(rows) > 1 and rows[1][1] == top_count
-        accepted = accuracy >= minimum_accuracy and not tied
+        human_counts = human_by_scribe.get(scribe_id, {})
+        human_total = sum(human_counts.values())
+        human_matching = human_counts.get(top_participant_id, 0)
+        human_agreement = human_matching / human_total if human_total else 0.0
+        human_supported = human_total > 0 and human_agreement >= minimum_accuracy
+        accepted = (accuracy >= minimum_accuracy and not tied
+                    and total >= minimum_support_cues
+                    and (not check_human_agreement or human_supported))
         detail = {
             "scribeSpeakerId": scribe_id,
             "participantId": top_participant_id,
@@ -389,6 +510,12 @@ def materialize_scribe_fallback_layer(
             "classifiedCueCount": total,
             "accuracy": round(accuracy, 6),
             "accepted": accepted,
+            "minimumSupportCues": minimum_support_cues,
+            "humanAgreementChecked": check_human_agreement,
+            "humanIdentifiedCueCount": human_total,
+            "humanMatchingCueCount": human_matching,
+            "humanAgreement": round(human_agreement, 6),
+            "humanByParticipant": dict(human_counts),
             "byParticipant": [
                 {
                     "participantId": participant_id,
@@ -470,6 +597,8 @@ def materialize_scribe_fallback_layer(
     summary: dict[str, Any] = {
         "minimumAccuracy": minimum_accuracy,
         "accuracyUnit": "model-assigned durable cue count per Scribe ID",
+        "minimumSupportCues": minimum_support_cues,
+        "humanAgreementChecked": check_human_agreement,
         "modelCueCount": len(model_ids),
         "modelCuesSkippedForAmbiguousScribeIds": skipped_model_cues,
         "acceptedScribeIdCount": len(mappings),
@@ -581,11 +710,20 @@ def materialize_model_layer(
     compare_reference: bool = False,
     minimum_model_margin: float | None = None,
     minimum_model_cosine: float | None = None,
+    validated_reference_transfer: dict[str, Any] | None = None,
 ) -> tuple[dict[str, Any], dict[str, Any], dict[str, Any]]:
     validate_confidence_policy(minimum_model_margin, minimum_model_cosine)
     policy = review.get("calibrationPolicy", {})
-    if policy.get("externalReferenceRole") == "comparison" and external_references is not None and not compare_reference:
-        raise SpeakerReviewError("recording-local calibration permits prior banks as comparison only; add --compare-reference")
+    if validated_reference_transfer is not None:
+        if (external_references is None or compare_reference
+                or validated_reference_transfer.get("passingIdentityErrors") != 0
+                or set(validated_reference_transfer.get("passingParticipantIds", [])) != {p["id"] for p in review["participants"]}
+                or validated_reference_transfer.get("confidencePolicy") != {"minimumMargin": minimum_model_margin, "minimumCosine": minimum_model_cosine}
+                or validated_reference_transfer.get("referenceBank") != profile_metadata):
+            raise SpeakerReviewError("validated transfer evidence does not match this application")
+    if (policy.get("externalReferenceRole") == "comparison" and external_references is not None
+            and not compare_reference and validated_reference_transfer is None):
+        raise SpeakerReviewError("recording-local calibration requires comparison-only banks or a checked --reference-transfer-audit")
     if policy.get("requiresConfidencePolicy") and (minimum_model_margin is None or minimum_model_cosine is None):
         raise SpeakerReviewError("recording-local calibration requires --minimum-model-margin and --minimum-model-cosine chosen from the local audit")
     if compare_reference and external_references is None:
@@ -707,6 +845,8 @@ def materialize_model_layer(
         "confidencePolicy": {"minimumMargin": minimum_model_margin, "minimumCosine": minimum_model_cosine},
         "summary": summary,
     }
+    if validated_reference_transfer is not None:
+        model_metadata["validatedReferenceTransfer"] = validated_reference_transfer
     if profile_metadata:
         model_metadata["comparisonReference" if compare_reference else "profileReference"] = profile_metadata
     if compare_reference:

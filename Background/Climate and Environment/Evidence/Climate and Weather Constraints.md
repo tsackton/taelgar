@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Climate and Weather Constraints
 
-**Maintained working baseline, accepted 26 September 2026.** This register guides climate-model development; future revisions can follow further feedback and review. [[Climate and Weather Constraints - Draft]] preserves the accepted review snapshot.
+**Maintained working baseline, accepted 26 September 2026.** This register guides climate-model development; future revisions can follow further feedback and review.
 
 This note records what the physical climate model must accommodate. Broad climatic requirements are separated from weather on particular dates. Crops, rivers, roads, festivals and vegetation are grouped as supporting evidence for climate; they do not each require another climate-model row or a downstream simulation.
 
@@ -220,7 +220,7 @@ These are retained observations or explicitly identified campaign setup/backstor
 
 When adding a requirement, state the smallest climatic fact supported by the evidence, its place and season, what is required, what remains open, its basis, and any accepted exception. Label revisable outcomes as preferences; do not use uncertainty about a cause to weaken a required phenomenon. Attach downstream observations to an existing pattern when they add no distinct climatic bound. Keep source weather dates separate from typical seasonal descriptions. Reassess coverage after changing a physical model, and preserve unmodeled regions without inventing a model to fill the table.
 
-The accepted statements and source limits above are self-contained. The ignored historical review archive is optional provenance, not required to interpret the constraints. The source index below preserves additional corroborating notes without treating repeated transcripts, summaries and prep as independent evidence.
+The accepted statements and source limits above are self-contained. The source index below preserves additional corroborating notes without treating repeated transcripts, summaries and prep as independent evidence.
 
 Return to [[Climate and Environment]] or [[Regional Climate Atlas]].
 

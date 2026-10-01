@@ -1,0 +1,30 @@
+schemaVersion: '1.0'
+sourceType: raw_notes
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 135
+realWorldDate: '2025-10-24'
+drStart: '1749-09-14'
+drEnd: null
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers: []
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers: []
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers: []
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers: []
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers: []
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/sources/Session135.combined-raw-notes-draft.md
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/sources/dunmar-frontier-session135.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/sources/dunmar-frontier-core-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-source-prepared.md
