@@ -1,12 +1,12 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 dm_owner: none
 dm_notes: none
 excludePublish: ["all"]
 ---
 ## Climate Map of Taelgar
 
-This is a historical climate-design map. It predates later regional development and should be read alongside [[Taelgar Climatic Model]] and [[Climate and Weather Constraints]]; its classes and boundaries are not independent constraints. An updated annual climate map remains to be made.
+This is a historical climate-design map, no longer considered strictly canonical, though it provides useful framing for ongoing ideas and should not be assumed to be totally incorrect. It predates later regional development and should be read alongside [[Taelgar Climatic Model]] and [[Climate and Weather Constraints]]. An updated annual climate map remains to be made.
 
 Notes and more extended discussion can be found here: [[Climate Notes]]
 

@@ -1,41 +1,49 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 excludePublish: [all]
 ---
 # Climate and Environment
 
-Nonpublic reference library for Taelgar's climate, weather, habitats, and their consequences for worldbuilding.
+Nonpublic reference library for Taelgar's climate, weather, habitats, and their consequences for worldbuilding. This is intended as a reference for DMs and agents working on developing climate and weather for games in Taelgar. 
 
-| Task | Start here |
-| --- | --- |
-| Look up a place or estimate conditions in undeveloped country | [[Regional Climate Atlas]] — Gazetteer regions, local profiles, and coverage limits. |
-| Understand the connected continental climate | [[Taelgar Climatic Model]] — shared physical assumptions, seasonal systems, and connections between regions. |
-| Prepare a sequence of weather | [[Weather Patterns of Taelgar]] — destination for recurring weather patterns and their local expressions. |
-| Choose or describe a habitat | [[Biomes of Taelgar]] — existing habitat catalog; regional placement remains to be connected. |
-| Think about fields, travel, or trade | [[Climate and Landscape Applications]] — agriculture, seasonal landscapes, and navigation. |
-| Explore an unusual or magical departure | [[Magical Climate Departures]] — compare the expected baseline with the adopted exception. |
-| Check what the model must accommodate | [[Climate and Weather Constraints]] — maintained climatic requirements, campaign weather and their qualifications. |
-| Browse maps | [[Climate Map]] — existing annual map; [[Weather Patterns of Taelgar]] links the connected-weather examples. |
+>[!info] Key Points
+>(1) Constraints define weather introduced in play, climate facts, and related patterns of trade, travel, agriculture, habitat, and land use that the climate model must accommodate. These are treated as in-world evidence for the unobserved climate model, and are stored in the Evidence directory. Predictions from the model are not constraints until introduced in play, but land-use world-building can be. Human review should typically work by adding to the constraints document, and asking an agent to infer whether the constraints are adequately accommodated by the model. 
+>(2) The physical climate model itself is not intended to be binding. The goal is to have a predictable system that avoids the need to hand wave inconsistent climate patterns, and to support verisimilitude, but the physical model can freely change if needed to accommodate new constraints, as long as it still accommodates all the existing constraints equally well. 
+ 
+Common tasks and sources are listed here:
 
-## Library status
+| Task                                                          | Start here                                                                                                         |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| Look up a place or estimate conditions in undeveloped country | [[Regional Climate Atlas]] — Gazetteer regions, local profiles, and coverage limits.                               |
+| Understand the connected continental climate                  | [[Taelgar Climatic Model]] — shared physical assumptions, seasonal systems, and connections between regions.       |
+| Prepare a sequence of weather                                 | [[Weather Patterns of Taelgar]] — destination for recurring weather patterns and their local expressions.          |
+| Choose or describe a habitat                                  | [[Biomes of Taelgar]] — existing habitat catalog; regional placement remains to be connected.                      |
+| Think about fields, travel, or trade                          | [[Climate and Landscape Applications]] — agriculture, seasonal landscapes, and navigation.                         |
+| Explore an unusual or magical departure                       | [[Magical Climate Departures]] — compare the expected baseline with the adopted exception.                         |
+| Check what the model must accommodate                         | [[Climate and Weather Constraints]] — maintained climatic requirements, campaign weather and their qualifications. |
+| Browse maps                                                   | [[Climate Map]] — existing annual map; [[Weather Patterns of Taelgar]] links the connected-weather examples.       |
 
-The continental consolidation is complete. [[Taelgar Climatic Model]] explains the connected seasonal system; the physical notes own its detailed mechanisms, and the [[Regional Climate Atlas]] provides Gazetteer-linked local profiles. The detailed Sentinel mountain climate and several other regions remain unmodeled despite having useful partial profiles.
-
-[[Climate and Weather Constraints]] contains the accepted working baseline: required outcomes, open explanations, dated weather and source limits. [[Climate and Weather Constraints - Draft]] is its dated review snapshot. The existing [[Climate Map]] is historical and does not yet depict all model development; the ocean figure's older Gulf inset is qualified beside the figure. Weather and habitat-family pages still mark further work. The biome catalog remains working material, including its Earth examples and unreviewed generalizations.
+**STATUS NOTE: This is a work in progress. While this note exists, do not assume the library is complete or all tasks above are possible!**
 
 ## Physical model
 
-The continent-wide model must remain a readable explanation of the whole connected system. These notes contain its detailed mechanisms:
+The [[Taelgar Climatic Model|continent-wide model]] is a readable overview of the entire system. Detailed notes can be found in specialized and regional descriptions. Current notes are listed here:
 
 - [[Western Ocean and Coast Circulation]]
 - [[Dunmar and Nevos Circulation]]
 - [[Green Sea Atmospheric Circulation]]
-- [[Green Sea Ocean Circulation]] — existing detailed ocean model.
+- [[Green Sea Ocean Circulation]] 
 - [[Sentinels and Continental Weather Connections]]
 
-## Habitats
+The weather subdirectory stores things like storm tracks and weather patterns. The goal is to eventually build up an intuition and a reference for making changeable weather feel more like part of the world and making the world feel more alive and real in play. 
 
-The full descriptions remain in [[Biomes of Taelgar]] while the family pages below mark their future homes. [[Tundra]], [[Boreal Forest]], and [[High Alpine]] already have separate entries.
+The regional atlas stores regional climatic and seasonal descriptions. 
+
+## Habitats and Applications
+
+In addition to a physical model (and the related weather and regional descriptions), this project also tracks habitat descriptions and a broad set of applications, intended to hold things like trade patterns, agriculture, and other aspects of the world that derive from climate but are not themselves a climate model or a biome. 
+
+For habitats: full descriptions remain in [[Biomes of Taelgar]] while the family pages below mark their future homes. [[Tundra]], [[Boreal Forest]], and [[High Alpine]] already have separate entries.
 
 - [[Desert Habitats]]
 - [[Temperate Forest Habitats]]
@@ -44,7 +52,15 @@ The full descriptions remain in [[Biomes of Taelgar]] while the family pages bel
 - [[Wetland Habitats]]
 - [[Settled Landscape Types]]
 
+For applications: current notes include these details. A general overview is in [[Climate and Landscape Applications]]
+
+- [[Agriculture and Seasonal Landscapes]]
+- [[Magical Pale Blue Dye Vision]]
+
 ## Maintaining a consistent library
+*NOTES FOR AGENTS*
+
+These are primarily rules for AGENTS about the climate library. 
 
 Each detailed explanation has one maintained home. Before changing a regional model, check the continental account, shared systems, neighboring regions, accepted constraints, and affected maps. Revise related accounts together or record the unresolved tension explicitly. Established facts in play can require changes to the physical explanation.
 
@@ -55,9 +71,12 @@ Use linked Gazetteer regions to define geographic coverage. The atlas volumes ar
 The maintained constraints contain the accepted statements, scope, and qualifications in full. Sources support verification; ignored review directories are optional provenance. Essential model use and navigation must work without them. A future weather generator should derive from this human-readable model rather than maintain a competing set of climatic assumptions.
 
 ## Work still to do
+*PLAUSIBLY INCOMPLETE*
 
 - Develop the detailed Sentinel mountain synthesis within the accepted constraints and the established connections on both sides.
 - Expand the weather-pattern catalog and give the episode maps complete captions and clearer legends.
 - Connect and organize the biome catalog, then develop worked regional applications beyond the initial Sembara example in [[Agriculture and Seasonal Landscapes]].
 - Produce updated annual and continental seasonal maps, including the adopted Gulf exchange and proposed southern winter storm corridor where relevant.
 - Develop numerical weather-generator inputs after the qualitative profiles and patterns are ready; address other unmodeled regional gaps as needed.
+- Consider structure - would it be better to have a specific AGENTS.md in this folder to supplement human details in this file?
+

@@ -132,7 +132,23 @@ To use prior work as an independent comparison, add the existing
 The output records prior-bank identity, margin, cosine, agreement with the local
 prediction, and `usedForAssignment: false`. Prior disagreements are useful
 listening targets; agreement alone is not measured accuracy. Recovered local
-reviews refuse a prior bank as their sole identity source.
+reviews refuse unchecked banks as their sole identity source. If the local model
+fails the blind audit, compare verified banks against those same human decisions
+before continuing; do not tune the local cutoff until an empty accepted sample
+appears successful.
+
+A verified bank that transfers better may become the provisional classifier
+reference with `speaker_model.py apply --reference-bank ...
+--reference-embeddings ... --reference-transfer-audit <audit.json>
+--reference-transfer-decisions <decisions.json>` and explicit margin/cosine
+thresholds. First import that complete audit with `speaker_recalibrate.py`. This
+checked exception re-scores the bank on the exact imported human decisions,
+requires unchanged audit sources/cached utterances, no passing named errors and
+accepted evidence for every voice. It records all scores, bank hashes and the
+chosen policy, preserves human Unknown/Overlap and resets verification. Sparse
+passing evidence remains a limitation; verify time-spread samples before using
+the result. Original local predictions, group decisions and all other banks stay
+available as comparison evidence.
 
 Continue with ten time-spread verification samples per person within each
 recording, then the qualified Scribe-ID short-cue fallback and rendering described
@@ -225,6 +241,17 @@ python3 .agents/skills/transcribe-session/scripts/speaker_model.py apply-scribe-
 ```
 
 For each Scribe ID, this measures the majority participant among its durable model-assigned cues by cue count. An agreement rate of 80% or higher is sufficient to assign that ID's short cues. The threshold is inclusive, and the audit records the supporting cue count so a small but passing sample remains visible. Per-cue model or manual assignments always win. Acoustic group labels are discarded from this derived layer: they are review aids, not identity evidence. A mixed group means that different group members contain different voices; it must not be rendered as overlapping speech. Short cues whose Scribe ID does not meet the threshold remain `Unknown`.
+
+For sparse or strongly filtered classifier results, do not accept a Scribe ID
+solely because a handful of surviving predictions agree. Add
+`--minimum-support-cues 5 --check-human-agreement` to require at least five durable
+model cues and at least the same agreement rate with already available explicit
+human identities and confirmed verification clips. Five is a provisional support
+floor, not a statistical accuracy guarantee. Conflicting or absent listening
+evidence leaves short cues Unknown. This uses saved listening; it does not require
+another calibration/audit round. The new layer records model and human counts
+separately and preserves every current manual correction. Keep earlier fallback
+layers as historical artifacts.
 
 The existing `--minimum-accuracy` option and saved `accuracy` fields name this
 within-ID agreement rate. They do not measure classifier accuracy against an

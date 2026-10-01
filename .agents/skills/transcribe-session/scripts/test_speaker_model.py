@@ -105,6 +105,153 @@ class SpeakerModelTests(unittest.TestCase):
             with self.assertRaises(MODULE.SpeakerReviewError):
                 MODULE.validate_confidence_policy(margin, cosine)
 
+    def transfer_fixture(self, root):
+        np = MODULE.load_numpy()
+        review, attrs = self.fixtures()
+        rp, ap, auditp, dp = [root / name for name in ('source.json', 'source-attrs.json', 'audit.json', 'decisions.json')]
+        rp.write_text(json.dumps(review)); ap.write_text(json.dumps(attrs))
+        by_id = {u['id']: u for u in review['utterances']}
+        audit = {'schemaVersion': 1, 'auditId': 'transfer', 'participants': review['participants'],
+                 'recordings': review['recordings'],
+                 'sourceReview': {'path': str(rp), 'sha256': MODULE.sha256_file(rp)},
+                 'sourceAttributions': {'path': str(ap), 'sha256': MODULE.sha256_file(ap)}, 'items': []}
+        labels = {'p1-g1': 'p1', 'p2-g1': 'p2', 'excluded': None}
+        for uid, pid in labels.items():
+            u = by_id[uid]
+            audit['items'].append({'id': uid, 'utteranceId': uid,
+                                  **{k: u[k] for k in ('recordingId', 'start', 'end', 'text')},
+                                  'hidden': {'currentParticipantId': 'p1', 'predictedParticipantId': 'p2'}})
+        auditp.write_text(json.dumps(audit))
+        decisions = {'schemaVersion': 1, 'auditId': 'transfer', 'sourceAuditSha256': MODULE.sha256_file(auditp),
+                     'decisions': {uid: {'status': 'assigned' if pid else 'overlap', 'participantId': pid,
+                                        'transcriptRevealed': False} for uid, pid in labels.items()}}
+        dp.write_text(json.dumps(decisions))
+        review['humanAuditEvidence'] = {'auditPath': str(auditp), 'auditSha256': MODULE.sha256_file(auditp),
+                                        'decisionsPath': str(dp), 'decisionsSha256': MODULE.sha256_file(dp)}
+        for uid, decision in decisions['decisions'].items():
+            attrs['utteranceOverrides'][uid] = {'status': 'unknown' if decision['status'] == 'overlap' else decision['status'],
+                                               'participantId': decision['participantId'], 'humanVerified': True,
+                                               'auditDecision': decision}
+        refs = [{'participantId': 'p1', 'groupId': 'bank1', 'embedding': np.array([1., 0.])},
+                {'participantId': 'p2', 'groupId': 'bank2', 'embedding': np.array([0., 1.])}]
+        return {'np': np, 'review': review, 'attributions': attrs,
+                'embedding_by_id': {'p1-g1': np.array([1., 0.]), 'p2-g1': np.array([0., 1.]), 'excluded': np.array([1., 0.])},
+                'references': refs, 'profile_metadata': {'source': 'bank'}, 'audit_path': auditp, 'decisions_path': dp,
+                'minimum_margin': .2, 'minimum_cosine': .8}
+
+    def test_checked_transfer_uses_human_decisions_and_preserves_overlap(self):
+        with tempfile.TemporaryDirectory() as raw:
+            args = self.transfer_fixture(Path(raw))
+            before = json.dumps(args['attributions'], sort_keys=True)
+            evidence = MODULE.validate_reference_transfer(**args)
+            self.assertEqual(evidence['bankMatchesIdentified'], 2)
+            self.assertEqual(evidence['passingIdentifiedCount'], 2)
+            self.assertEqual(evidence['passingIdentityErrors'], 0)
+            self.assertEqual(evidence['passingParticipantIds'], ['p1', 'p2'])
+            self.assertEqual(evidence['scoreRows'][0]['participantId'], 'p1')
+            self.assertEqual(evidence['scoreRows'][2]['humanDecision']['status'], 'overlap')
+            self.assertEqual(json.dumps(args['attributions'], sort_keys=True), before)
+
+    def test_checked_transfer_rejects_stale_incomplete_or_changed_listening(self):
+        for change in ('stale-source', 'incomplete', 'changed-text', 'changed-human', 'changed-decision-file'):
+            with self.subTest(change=change), tempfile.TemporaryDirectory() as raw:
+                args = self.transfer_fixture(Path(raw))
+                if change == 'stale-source':
+                    (Path(raw) / 'source.json').write_text('{}')
+                elif change == 'incomplete':
+                    data = json.loads(args['decisions_path'].read_text()); data['decisions'].pop('p1-g1')
+                    args['decisions_path'].write_text(json.dumps(data))
+                    args['review']['humanAuditEvidence']['decisionsSha256'] = MODULE.sha256_file(args['decisions_path'])
+                elif change == 'changed-text':
+                    args['review']['utterances'][0]['text'] = 'changed'
+                elif change == 'changed-human':
+                    args['attributions']['utteranceOverrides']['p1-g1']['status'] = 'unknown'
+                else:
+                    args['decisions_path'].write_text(args['decisions_path'].read_text() + '\n')
+                with self.assertRaises(MODULE.SpeakerReviewError):
+                    MODULE.validate_reference_transfer(**args)
+
+    def test_checked_transfer_rejects_errors_or_missing_voice_evidence(self):
+        for change in ('wrong-bank', 'weak-voice', 'missing-threshold', 'missing-vector'):
+            with self.subTest(change=change), tempfile.TemporaryDirectory() as raw:
+                args = self.transfer_fixture(Path(raw))
+                if change == 'wrong-bank':
+                    args['references'][0]['embedding'], args['references'][1]['embedding'] = args['references'][1]['embedding'], args['references'][0]['embedding']
+                elif change == 'weak-voice':
+                    args['embedding_by_id']['p2-g1'] = args['np'].array([.7, .71])
+                elif change == 'missing-threshold':
+                    args['minimum_margin'] = None
+                else:
+                    args['embedding_by_id'].pop('p1-g1')
+                with self.assertRaises(MODULE.SpeakerReviewError):
+                    MODULE.validate_reference_transfer(**args)
+
+    def test_checked_transfer_materialization_preserves_humans_and_resets_verification(self):
+        with tempfile.TemporaryDirectory() as raw:
+            root = Path(raw); args = self.transfer_fixture(root)
+            proof = MODULE.validate_reference_transfer(**args)
+            review, attrs = args['review'], args['attributions']
+            review['calibrationPolicy'] = {'externalReferenceRole': 'comparison', 'requiresConfidencePolicy': True}
+            attrs['verification'] = {'p1': {'status': 'confirmed', 'sampleUtteranceIds': ['p1-g1']}}
+            rp, ap, ep = root/'current.json', root/'current-attrs.json', root/'cache.npz'
+            rp.write_text(json.dumps(review)); ap.write_text(json.dumps(attrs)); ep.write_bytes(b'fixture')
+            vectors = {u['id']: args['np'].array([0., 1.]) for u in review['utterances']}
+            vectors.update(args['embedding_by_id'])
+            parameters = dict(np=args['np'], review=review, attributions=attrs, review_id='new', review_path=rp,
+                              attributions_path=ap, embeddings_path=ep, embedding_dimension=2, embedding_by_id=vectors,
+                              model_name='test', minimum_duration_seconds=1.5, minimum_word_count=4, excluded_ids=set(),
+                              allow_unresolved_verification=True, external_references=args['references'],
+                              profile_metadata=args['profile_metadata'], minimum_model_margin=.2, minimum_model_cosine=.8,
+                              validated_reference_transfer=proof)
+            result, decisions, summary = MODULE.materialize_model_layer(**parameters)
+            self.assertEqual(decisions['utteranceOverrides']['target']['participantId'], 'p2')
+            self.assertEqual(decisions['utteranceOverrides']['excluded']['status'], 'unknown')
+            for uid, label in attrs['utteranceOverrides'].items():
+                self.assertEqual(decisions['utteranceOverrides'][uid], label)
+            self.assertEqual(decisions['verification'], {})
+            self.assertEqual(result['modelAttribution']['validatedReferenceTransfer'], proof)
+            parameters['minimum_model_margin'] = .3
+            with self.assertRaises(MODULE.SpeakerReviewError):
+                MODULE.materialize_model_layer(**parameters)
+
+    def test_short_cue_guard_rejects_sparse_or_conflicting_listening(self):
+        for support, human, confirmations, accepted in (
+            (1, "p1", True, True), (6, "p1", True, False),
+            (1, "p2", False, False), (1, None, False, False),
+        ):
+            with self.subTest(support=support, human=human, confirmed=confirmations), tempfile.TemporaryDirectory() as raw:
+                root=Path(raw); rp=root/"review.json"; ap=root/"attrs.json"
+                rp.write_text("{}"); ap.write_text("{}")
+                review={"participants":[{"id":"p1","gameRole":"One"},{"id":"p2","gameRole":"Two"}],
+                        "groups":[], "recordings":[], "utterances":[],
+                        "modelAttribution":{"manualOverrideUtteranceIds":["human"] if human else []}}
+                attrs={"groupLabels":{}, "utteranceOverrides":{}, "verification":{},
+                       "modelAttribution":{"modelOverrideUtteranceIds":[]}}
+                for i in range(5):
+                    uid=f"model-{i}"
+                    review["utterances"].append({"id":uid,"start":i,"end":i+2,"durationSeconds":2,"wordCount":5,"scribeSpeakerIds":["s"]})
+                    attrs["utteranceOverrides"][uid]={"status":"assigned","participantId":"p1"}
+                    attrs["modelAttribution"]["modelOverrideUtteranceIds"].append(uid)
+                review["utterances"].append({"id":"short","start":20,"end":20.5,"durationSeconds":.5,"wordCount":1,"scribeSpeakerIds":["s"]})
+                if human:
+                    review["utterances"].append({"id":"human","start":21,"end":23,"durationSeconds":2,"wordCount":5,"scribeSpeakerIds":["s"]})
+                    attrs["utteranceOverrides"]["human"]={"status":"assigned","participantId":human}
+                if confirmations:
+                    attrs["verification"]={"p1":{"status":"confirmed","sampleUtteranceIds":["model-0"]}}
+                original=json.dumps(attrs,sort_keys=True)
+                _,result,summary=MODULE.materialize_scribe_fallback_layer(review=review,attributions=attrs,review_id="guarded",review_path=rp,attributions_path=ap,minimum_accuracy=.8,minimum_support_cues=support,check_human_agreement=True)
+                self.assertEqual(summary["acceptedScribeIdCount"],int(accepted))
+                self.assertEqual(result["utteranceOverrides"].get("short",{}).get("participantId"),"p1" if accepted else None)
+                self.assertEqual(json.dumps(attrs,sort_keys=True),original)
+                if human:self.assertEqual(result["utteranceOverrides"]["human"],attrs["utteranceOverrides"]["human"])
+
+    def test_short_cue_guard_cli_and_invalid_support(self):
+        args=MODULE.build_parser().parse_args(["apply-scribe-fallback","r.json","--attributions","a.json","--output-dir","out","--review-id","checked","--minimum-support-cues","5","--check-human-agreement"])
+        self.assertEqual(args.minimum_support_cues,5)
+        self.assertTrue(args.check_human_agreement)
+        with self.assertRaises(MODULE.SpeakerReviewError):
+            MODULE.materialize_scribe_fallback_layer(review={},attributions={},review_id="x",review_path=Path("r"),attributions_path=Path("a"),minimum_accuracy=.8,minimum_support_cues=0)
+
     def test_scribe_fallback_uses_inclusive_eighty_percent_threshold(self) -> None:
         participants = [
             {"id": "p1", "name": "One", "gameRole": "One"},

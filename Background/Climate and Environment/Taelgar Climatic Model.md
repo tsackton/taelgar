@@ -14,7 +14,7 @@ Use the [[Regional Climate Atlas]] to find local profiles through Gazetteer regi
 
 ### Climatic Constraints
 
-[[Climate and Weather Constraints]] is the maintained register of accepted climatic requirements, dated campaign weather, supporting observations and exclusions. Required outcomes and their scope take precedence over the model's explanation. Weather on a particular date normally represents plausible local conditions, but can be exceptional; it need not set an annual average or fixed seasonal boundary. The register remains usable without the separate review archive.
+[[Climate and Weather Constraints]] is the maintained register of accepted climatic requirements, dated campaign weather, supporting observations and exclusions. Required outcomes and their scope take precedence over the model's explanation. Weather on a particular date normally represents plausible local conditions, but can be exceptional; it need not set an annual average or fixed seasonal boundary.
 
 ## Physical framework and geography
 
