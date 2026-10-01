@@ -7,7 +7,6 @@ POV: 1720
 Complete local archive of the Elizabeth the Guard's Story correspondence (5 messages). Message bodies preserve quoted reply history.
 Attached portrait: [[Elizabeth of Cassen - source image.png]].
 Story as told to the party: [[Elizabeth of Cassen's Story]].
-Reading copy of the replies: [[Elizabeth of Cassen - Email Discussion]].
 
 %% Date correction: [[Gareth of Tollen]] was executed on February 7, 1720. The February 8 execution date in the preserved message below is superseded. %%
 

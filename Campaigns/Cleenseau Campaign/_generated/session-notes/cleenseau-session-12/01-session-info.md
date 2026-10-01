@@ -104,8 +104,8 @@ https://kiya.dreamwidth.org/779436.html
 <!-- SLOT: session.related_writings -->
 ## Related Writings
 
-- [[Asineau Fallout]]
-- [[Hunting Lorin]]
+- [[Asineau Fallout - Authored Turns]]
+- [[Hunting Lorin - Authored Turns]]
 - [[Cleenseau - Session 12.1|Celyn and El]]
 - [[Champimont Rumors and Questions]]
 - [[Robin's Miracle]]

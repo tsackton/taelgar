@@ -107,12 +107,11 @@ https://kiya.dreamwidth.org/787058.html
 - [[Gareth's Story]]
 - [[Elizabeth of Cassen's Story]]
 - [[Celyn and El Discuss the Fey Prophecy]]
-- [[Celyn Learns the Miracles of Asineau]]
+- [[Celyn Learns the Miracles of Asineau - Authored Turns]]
 - [[Viepuck's Sendings - Correspondence]]
-- [[Viepuck and Tal Exchange Sendings]]
+- [[Viepuck and Tal - Authored Turns]]
 - [[Gareth's Ring - Email Exchange]]
 - [[After Gareth's Story]]
-- [[Elizabeth of Cassen - Email Discussion]]
 <!-- /SLOT -->
 
 <!-- SLOT: timeline -->

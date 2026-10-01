@@ -117,7 +117,7 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 
 - [[Rangers in Champimont]]
 - [[Champimont Rumors and Questions]]
-- [[Play by Email/At the Elegant Swan in Champimont]]
+- [[At the Elegant Swan in Champimont - Email Scene]]
 - [[Cleenseau - Session 13.1|An Evening in Corrine's House]]
 - [[The Destruction of Eftly]]
 

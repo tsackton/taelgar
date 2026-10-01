@@ -33,5 +33,5 @@ The party travels south, exchanges information with the adventurers who defeated
 
 - [[Rangers in Champimont]]
 - [[Champimont Rumors and Questions]]
-- [[Play by Email/At the Elegant Swan in Champimont]]
+- [[At the Elegant Swan in Champimont - Email Scene]]
 - [[Cleenseau - Session 13.1|An Evening in Corrine's House]]

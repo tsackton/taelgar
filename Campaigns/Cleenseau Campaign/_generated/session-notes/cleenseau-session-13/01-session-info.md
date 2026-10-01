@@ -105,7 +105,7 @@ https://kiya.dreamwidth.org/782461.html
 
 - [[Rangers in Champimont]]
 - [[Champimont Rumors and Questions]]
-- [[Play by Email/At the Elegant Swan in Champimont]]
+- [[At the Elegant Swan in Champimont - Email Scene]]
 - [[Cleenseau - Session 13.1|An Evening in Corrine's House]]
 - [[The Destruction of Eftly]]
 <!-- /SLOT -->
