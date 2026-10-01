@@ -6,9 +6,11 @@ POV: 1720
 # [[Elizabeth of Cassen|Elizabeth's]] Story
 _As told to the [[Heroes of Cleenseau]], in [[Cleenseau]], February 7th, 1720, in response to questions about how [[Gareth of Tollen]] came to be illegally collecting taxes in Cleenseau. The events take place between January 7th and February 5th_
 
-She is from Cassen, a small sheepherding village between Dallet and Champimont, where for many years she was a member of the Lord's Guard. Then the zombies came... Many of her village died (Viepuck and Celyn actually passed through Cassen when theywere hunting Lord Valbert).
+%% Email from Mike Sackton on July 1, 2024 with subject "Elizabeth the Guard's story" %%
 
-She tells you how the zombies came in the night, and overwhelmed the guard, and how she was fighting one, and stabbed it time and time and time again and nothing she did would stop it. Each time she stabbed it, it would sway and seem to fall, but then arise again and scratch at her She took several wounds, and stumbled off, escaping somehow. She thinks she might have blacked out from the pain of her wounds, she isn't sure.
+She is from Cassen, a small sheepherding village between Dallet and Champimont, where for many years she was a member of the Lord's Guard. Then the zombies came... Many of her village died (Viepuck and Celyn actually passed through Cassen when they were hunting Lord Valbert).
+
+She tells you how the zombies came in the night, and overwhelmed the guard, and how she was fighting one, and stabbed it time and time and time again and nothing she did would stop it. Each time she stabbed it, it would sway and seem to fall, but then arise again and scratch at her. She took several wounds, and stumbled off, escaping somehow. She thinks she might have blacked out from the pain of her wounds, she isn't sure.
 
 Her next memory was of standing by the Enst riverbank, a few miles from Cassen (which isn't directly on the river), desperately drinking the water to quench her thirst, despite the winter chill. Even now, thinking back on the zombies she shudders and gasps a little. "How you fight those things, I cannot imagine" she mutters.
 

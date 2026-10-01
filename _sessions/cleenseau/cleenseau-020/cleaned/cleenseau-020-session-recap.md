@@ -192,6 +192,7 @@ While traveling along the [[Auberonne]], the party spots harpies and enchanted b
 
 ## Related Writings
 
+- [[Celyn and Robin I]]
 - [[Fey Aftermaths - Email Exchange]]
 - [[Fey Aftermath in Veltor - Email Scene]]
 - [[Tower of Records Search - Email Scene]]

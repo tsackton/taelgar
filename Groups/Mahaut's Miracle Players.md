@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+tags: [group, status/check/ai]
 displayDefaults: {defArt: ""}
 dm_owner: mike
 dm_notes: important
@@ -11,8 +11,10 @@ typeOf: acting troupe
 > An acting troupe  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% Kiya Nicoll's May 28, 2024 email "Mahaut's Miracle Players Dramatis Personae" says Adri and Alys gave Celyn his sword. [[Celyn and Mahaut’s Miracle Players]] describes Mahaut presenting him with a sword, armor, and shield. The accounts differ on who gave the sword. %%
+
 Mahaut’s Miracle Players are a traveling troupe of performers, known for staging miracle plays and other road‑show entertainment. [[Celyn]], later famous as one of the [[Heroes of Cleenseau]], [[Celyn and Mahaut’s Miracle Players|traveled with the troupe]] for a time in the early DR 1700s.
 
-The troupe's cast included Josse, a playwright; Adri Lightfoot, a halfling musician and illusionist; Ruby, who handled costumes; Piet, a juggler; Antonin and Charlotte, actors; and Alys, an acrobat. Mahaut managed the troupe and its productions, while her husband handled its accounts
+The troupe's cast included Josse, a playwright; Adri Lightfoot, a halfling musician and illusionist; Ruby, who handled costumes; Piet, a juggler; Antonin and Charlotte, actors; and Alys, an acrobat and gambler. Mahaut managed the troupe and its productions, while her husband handled its accounts.
 
 Their regular route runs through [[Telham]], [[Embry]], [[Wisford]], [[Eskbridge]], and [[Tafolwern]]. They sometimes travel upriver along the Semb of Wistel and once reached [[Western Cymea]]. Mahaut was not a member of the Theatrical Guild, so visits to [[Tollen]] were for rest and supplies, including cloth and costumes, rather than performances in the city. A bandit attack near Wisford shortly before Celyn left the troupe was unusual for the heartland and alarmed locals.
