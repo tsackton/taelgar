@@ -6,7 +6,7 @@ POV: 1720
 # Celyn and Robin I
 
 %% Email from Kiya Nicoll on September 17, 2024 with subject "Taelgar post-session bit" %%
-%% In-world time: After the rescue of Sabine de Brune and Istarias on February 21, 1720; the exact day of this conversation is not established. The player confirmed that the scene happened. %%
+%% In-world time: After the rescue of Sabine de Brune and Istarias on February 21, 1720; the exact day of this conversation is not established. %%
 
 So: while the operation to extract Lady Debrune and her fey associate from genteel imprisonment went off entirely without a hitch, Celyn returns from getting them to their next hiding place looking deeply unsettled, enough so that it actually shows through his usual happy-go-lucky manner. Any expression of concern from Robin gets waved off, a bit apologetically, with a, “Not here, also not enough time to explain” and an earnest, “I *need* to tell you though, I won’t forget.”
 

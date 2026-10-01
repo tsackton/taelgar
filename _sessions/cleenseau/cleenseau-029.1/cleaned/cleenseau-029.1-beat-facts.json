@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-029.1\\cleaned\\cleenseau-029.1-beats.json",
+  "facts": [
+    {
+      "beatId": "b01",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The Merriweather caravan arrives in Asineau with cloth and other goods.",
+      "longSummary": "The Merriweathers bring three wagons to Asineau, carrying cloth, tailored clothing, carvings, Addermarch apple brandy, and Rinburg pottery. Quent leads the caravan, Tobin handles much of its trade, and Tamsin moves among the visitors and villagers.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Asineau",
+        "context": "the Merriweathers' visiting caravan",
+        "notes": "The caravan visits the village."
+      },
+      "npcs": [
+        {
+          "name": "Quent Merriweather",
+          "role": "encountered",
+          "context": "caravan leader"
+        },
+        {
+          "name": "Tobin Merriweather",
+          "role": "encountered",
+          "context": "trader"
+        },
+        {
+          "name": "Tamsin Merriweather",
+          "role": "encountered",
+          "context": "caravan member"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Merriweathers",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "b02",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Celyn asks the Merriweathers to help him dress for his role as Robin's consort.",
+      "longSummary": "Celyn speaks with the Merriweathers away from the wider village, inviting Robin to join them. He explains how his ordinary clothes deliberately present him as an unremarkable farm boy, while his role in Asineau calls for a more formal wardrobe that still feels authentic to him. He seeks advice on cut, fit, class signals, contrasting colors, and clothing he can move in, and asks whether they have better binding options.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Asineau",
+        "context": "a private conversation by the visiting caravan",
+        "notes": "The player places the conversation near the Merriweathers and away from the wider village."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Merriweathers",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

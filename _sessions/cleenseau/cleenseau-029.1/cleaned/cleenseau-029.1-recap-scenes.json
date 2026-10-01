@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Celyn Consults the Merriweathers",
+      "beatIds": ["b01", "b02"],
+      "rationale": "The caravan arrival and Celyn's response form one continuous social exchange in Asineau."
+    }
+  ]
+}
