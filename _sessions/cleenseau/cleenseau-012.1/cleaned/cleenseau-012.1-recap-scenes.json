@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Celyn and El Discuss Magic",
+      "beatIds": ["beat-001"],
+      "rationale": "The exchange remains in one location and one uninterrupted conversation."
+    }
+  ]
+}

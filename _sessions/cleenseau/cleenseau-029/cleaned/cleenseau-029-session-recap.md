@@ -281,6 +281,5 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - [[Cleenseau What's Next (Email)]]
 - [[Cleenseau Next Steps Take 2 (Email)]]
 - [[Asineau Gates and Walls (Email)]]
-- [[Bastion Turn 1 Questions (Email)]]
 - [[SimManor Approach (Email)]]
 - [[Asineau Taxes and Income (Email)]]

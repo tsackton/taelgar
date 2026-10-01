@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/gameupdate/clee]
 species: fey
 gender: female
-died: 1720-02-20
+died: 1720-02-21
 whereabouts:
 - {type: home, location: Duskmire}
 - {type: away, location: Veltor, start: 1720-01-04, end: 9999 }

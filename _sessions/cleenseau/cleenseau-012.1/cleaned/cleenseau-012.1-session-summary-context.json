@@ -1,0 +1,216 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-012.1\\cleaned\\cleenseau-012.1-session.yaml",
+  "beatsPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-012.1\\cleaned\\cleenseau-012.1-beats.json",
+  "beatFactsPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-012.1\\cleaned\\cleenseau-012.1-beat-facts.json",
+  "session": {
+    "campaign": "Cleenseau",
+    "scope": "session",
+    "sessionNumber": "12.1",
+    "realWorldDate": "2024-02-16",
+    "drStart": "1720-01-12",
+    "drEnd": null
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1720-01-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Asineau"
+      ],
+      "npcRefs": [
+        "El"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After Robin's speech in Asineau, Celyn and El speak briefly about the different character of their miracles."
+      ],
+      "sourceLongSummaries": [
+        "Celyn finishes speaking with the horses and notices El staring at him. El calls his magic controlled, unlike their own miracles, which shake with chaos. Celyn says the miracle El has seen is of the past rather than today. El points toward Viepuck as he begins speaking with a young girl, then retreats to the temple."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Celyn and El Discuss Magic",
+          "boundaryReason": "The four turns form one uninterrupted conversation in Asineau after Robin's speech.",
+          "dateStart": "1720-01-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0020"
+          },
+          "shortSummary": "After Robin's speech in Asineau, Celyn and El speak briefly about the different character of their miracles.",
+          "longSummary": "Celyn finishes speaking with the horses and notices El staring at him. El calls his magic controlled, unlike their own miracles, which shake with chaos. Celyn says the miracle El has seen is of the past rather than today. El points toward Viepuck as he begins speaking with a young girl, then retreats to the temple.",
+          "locationHints": {
+            "refs": [
+              "Asineau"
+            ],
+            "context": "outside the manor, near the temple",
+            "notes": "The exchange follows Robin's speech to the village."
+          },
+          "npcDetails": [
+            {
+              "name": "El",
+              "role": "encountered",
+              "context": "Wyrdling devotee speaking with Celyn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Celyn and El Discuss Magic",
+      "beatIds": [
+        "beat-001"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0020"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0020"
+        }
+      ],
+      "dateStart": "1720-01-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Asineau"
+      ],
+      "npcRefs": [
+        "El"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After Robin's speech in Asineau, Celyn and El speak briefly about the different character of their miracles."
+      ],
+      "sourceLongSummaries": [
+        "Celyn finishes speaking with the horses and notices El staring at him. El calls his magic controlled, unlike their own miracles, which shake with chaos. Celyn says the miracle El has seen is of the past rather than today. El points toward Viepuck as he begins speaking with a young girl, then retreats to the temple."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Celyn and El Discuss Magic",
+          "boundaryReason": "The four turns form one uninterrupted conversation in Asineau after Robin's speech.",
+          "dateStart": "1720-01-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0020"
+          },
+          "shortSummary": "After Robin's speech in Asineau, Celyn and El speak briefly about the different character of their miracles.",
+          "longSummary": "Celyn finishes speaking with the horses and notices El staring at him. El calls his magic controlled, unlike their own miracles, which shake with chaos. Celyn says the miracle El has seen is of the past rather than today. El points toward Viepuck as he begins speaking with a young girl, then retreats to the temple.",
+          "locationHints": {
+            "refs": [
+              "Asineau"
+            ],
+            "context": "outside the manor, near the temple",
+            "notes": "The exchange follows Robin's speech to the village."
+          },
+          "npcDetails": [
+            {
+              "name": "El",
+              "role": "encountered",
+              "context": "Wyrdling devotee speaking with Celyn"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "El",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Asineau",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "El",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": "Wyrdling devotee speaking with Celyn",
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Asineau",
+              "dateStart": "1720-01-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Asineau",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "outside the manor, near the temple",
+          "beatIds": [
+            "beat-001"
+          ],
+          "visits": [
+            {
+              "dateStart": "1720-01-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": []
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  },
+  "recapScenesPath": "D:\\personal\\taelgar\\_sessions\\cleenseau\\cleenseau-012.1\\cleaned\\cleenseau-012.1-recap-scenes.json"
+}
