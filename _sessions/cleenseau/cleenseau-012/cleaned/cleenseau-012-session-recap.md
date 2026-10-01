@@ -183,8 +183,8 @@ After resting, the party travels along the [[Great South Road]] toward [[Eftly]]
 ## Related Writings
 
 - [[Ida's Letter]]
-- [[Asineau Fallout]]
-- [[Hunting Lorin]]
+- [[Asineau Fallout - Authored Turns]]
+- [[Hunting Lorin - Authored Turns]]
 - [[Cleenseau - Session 12.1|Celyn and El]]
 - [[Champimont Rumors and Questions]]
 - [[Robin's Miracle]]

@@ -1,5 +1,5 @@
 ---
-tags: [source, status/check/ai]
+tags: [source]
 DR: 1720-01-08
 POV: 1720
 ---

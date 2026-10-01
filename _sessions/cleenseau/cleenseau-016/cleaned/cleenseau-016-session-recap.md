@@ -179,12 +179,11 @@ The party escorts the people of [[Ashcombe]] to [[Aslain]], where they reunite w
 - [[Gareth's Story]]
 - [[Elizabeth of Cassen's Story]]
 - [[Celyn and El Discuss the Fey Prophecy]]
-- [[Celyn Learns the Miracles of Asineau]]
+- [[Celyn Learns the Miracles of Asineau - Authored Turns]]
 - [[Viepuck's Sendings - Correspondence]]
-- [[Viepuck and Tal Exchange Sendings]]
+- [[Viepuck and Tal - Authored Turns]]
 - [[Gareth's Ring - Email Exchange]]
 - [[After Gareth's Story]]
-- [[Elizabeth of Cassen - Email Discussion]]
 
 ## Source Files
 

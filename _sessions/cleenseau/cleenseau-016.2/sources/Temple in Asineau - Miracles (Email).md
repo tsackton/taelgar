@@ -6,7 +6,7 @@ POV: 1720
 
 Complete local archive of the Temple in Asineau - Miracles correspondence (3 messages). Message bodies preserve quoted reply history.
 Attached image: [[Temple in Asineau - miracle image.png]].
-Reading copy: [[Celyn Learns the Miracles of Asineau]].
+Reading copy: [[Celyn Learns the Miracles of Asineau - Authored Turns]].
 
 ## Sat, 29 Jun 2024 19:22:05 -0400 — Kiya Nicoll <darkhawk@mindspring.com>
 
