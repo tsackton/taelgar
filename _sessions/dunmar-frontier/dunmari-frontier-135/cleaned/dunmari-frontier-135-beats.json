@@ -1,0 +1,120 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Preparing to enter Limbo",
+      "startUid": "u0001",
+      "endUid": "u0146",
+      "lineCount": 146,
+      "dateStart": "1749-09-14",
+      "dateEnd": "1749-09-15",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The opening table setup and current-situation review are framing for the Orenlas preparations, not separate playable scenes. The written notes anchor two days in Orenlas before departure.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16.",
+        "u0141 starts in Orenlas on September 14; u0142 records two days there. Activities are not individually assigned to either day."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Across the changing landscape",
+      "startUid": "u0147",
+      "endUid": "u0156",
+      "lineCount": 10,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Plane Shift begins a new journey through glass snow and solidifying darkness; discovering the orchard changes the immediate situation.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "The Silent Orchard",
+      "startUid": "u0157",
+      "endUid": "u0170",
+      "lineCount": 14,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The faceless keeper, rules against faces and names, memory fruit, and gifts form one uninterrupted orchard encounter.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Escaping the stone wave",
+      "startUid": "u0171",
+      "endUid": "u0176",
+      "lineCount": 6,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Leaving the orchard begins the teleport, gravity-conduit mishap, and pursuit that end at Rai's sanctuary.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Restoring the fading monks",
+      "startUid": "u0177",
+      "endUid": "u0376",
+      "lineCount": 200,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The three circles and resumed prayer, teaching, and sparring are one monk-restoration situation. The written notes continue beyond the recording gap through the later Rai audience, and the audio recap retells earlier play. Those overlapping accounts are support evidence, not additional meetings or repeated journeys. Synthesize each event once in its actual scene.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Inside the ordered monastery",
+      "startUid": "u0377",
+      "endUid": "u0403",
+      "lineCount": 27,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The final barrier gives way to a cloister, where rescued monks recover through ordered routines; the party approaches the central temple.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Rai's divided vigil",
+      "startUid": "u0404",
+      "endUid": "u0534",
+      "lineCount": 131,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The telepathic audience, explanation of the crisis, return of the hand, and warnings occur in one continuous meeting. End-of-session reactions and proposed future activities are framing, not accomplished events; Rai's cosmological account remains attributed belief.",
+      "dateEvidence": [
+        "Human-confirmed chronology: September 14 and 15, 1749 in Orenlas; Plane Shift on September 16; the rest of the session also occurs on September 16."
+      ]
+    }
+  ]
+}

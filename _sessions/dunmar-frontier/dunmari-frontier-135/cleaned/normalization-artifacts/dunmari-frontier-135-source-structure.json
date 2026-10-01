@@ -1,0 +1,2691 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-session.yaml",
+  "primarySourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-source-cleaned.md",
+  "sourceType": "raw_notes",
+  "scope": "session",
+  "detectedShape": "sparse-notes",
+  "primaryUnits": [
+    {
+      "uid": "u0001",
+      "kind": "notes",
+      "text": "%% Dunmar Frontier Session 135. Played October 24, 2025. Combined working source for the raw-notes session pipeline. %%"
+    },
+    {
+      "uid": "u0002",
+      "kind": "notes",
+      "text": "%% Four source segments: transcript 1; verbatim written raw notes; transcript of the audio recap; transcript 2. Segment order is source order. The recap and parts of transcript 2 revisit events in the written notes; these are overlapping accounts, not repeated events. The recording gap's duration is unknown. %%"
+    },
+    {
+      "uid": "u0003",
+      "kind": "notes",
+      "text": "%% Only the transcript portions have received the previous light cleanup: timestamps removed, clear speaker turns joined, filler reduced, and broken exchanges sometimes rendered as unattributed discussion notes. They are not verified quotations. Unknown is an unattributed contribution, not one speaker identity. The written raw-note text is copied without cleanup. %%"
+    },
+    {
+      "uid": "u0004",
+      "kind": "notes",
+      "text": "%% Transcript source: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 135/transcription/review-2026-09-30/04-merged/Session135.merged-draft.md. A/B references below identify its stable source lines. Reviewed captures and wording decisions remain under /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 135/transcription/review-2026-09-30/03-reviewed/; capture alternatives and audio references remain in /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 135/transcription/review-2026-09-30/04-merged/Session135-main-play.merged-provenance.json. %%"
+    },
+    {
+      "uid": "u0005",
+      "kind": "notes",
+      "text": "%% Written source: `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_dm_notes/Limbo Session 1 Notes.md`. Segment 2 reproduces the text under its RAW NOTES label verbatim, including spelling, punctuation, whitespace, and END. Only the original frontmatter and Session 135 / RAW NOTES labels are excluded. The vault file itself is unchanged. %%"
+    },
+    {
+      "uid": "u0006",
+      "kind": "notes",
+      "text": "%% Source snapshots (SHA-256): merged transcript 5bd22d0d67f95dd4aff7d38cf17c14d0e0fa2a5101adeb93572a56dca50313a8; written notes 3a4ba52e4654b60d9ddbb27772df9236950b49aaaf39c49b4da531a975f4cfb7. %%"
+    },
+    {
+      "uid": "u0007",
+      "kind": "notes",
+      "text": "%% Uncertain transcript wording remains marked. The raw notes call the relic the relic of reshaping; the recording also uses relic/locus/fragment of stability or piece of order. These have not been standardized into one formal name. The raw notes call Wellby's covering a scarf and his threshold story the canyonlands; the audio recap calls them a hat and the Garamjala Desert. Leave these differences for session-note preparation. %%"
+    },
+    {
+      "uid": "u0008",
+      "kind": "notes",
+      "text": "%% SEGMENT 1 — Transcript 1. Before the recording gap; A0001–A0371. %%"
+    },
+    {
+      "uid": "u0009",
+      "kind": "notes",
+      "text": "%% A0001–A0037 %%"
+    },
+    {
+      "uid": "u0010",
+      "kind": "notes",
+      "text": "Unknown: Well, I found the one black Lego."
+    },
+    {
+      "uid": "u0011",
+      "kind": "notes",
+      "text": "Kenzo: It's not a very good Lego I got."
+    },
+    {
+      "uid": "u0012",
+      "kind": "notes",
+      "text": "Unknown: All the black Legos are evil. When everything was just yellow, you could make the case they're Legos, they're people. When they started making pink, white-people Legos..."
+    },
+    {
+      "uid": "u0013",
+      "kind": "notes",
+      "text": "Delwath: There's something about the yellow that's like—clearly nobody actually has skin like this."
+    },
+    {
+      "uid": "u0014",
+      "kind": "notes",
+      "text": "Wellby: At least Danish people could claim it."
+    },
+    {
+      "uid": "u0015",
+      "kind": "notes",
+      "text": "Delwath: Danish people, right, correct."
+    },
+    {
+      "uid": "u0016",
+      "kind": "notes",
+      "text": "Unknown: They could pretend it's generic. They should just make them all red."
+    },
+    {
+      "uid": "u0017",
+      "kind": "notes",
+      "text": "Unknown: That would betray it too."
+    },
+    {
+      "uid": "u0018",
+      "kind": "notes",
+      "text": "Kenzo: Oh my God."
+    },
+    {
+      "uid": "u0019",
+      "kind": "notes",
+      "text": "Unknown: Here, just put odds and ends."
+    },
+    {
+      "uid": "u0020",
+      "kind": "notes",
+      "text": "Delwath: The Friends Legos are actually a lot more... Charlie was into the Friends set for a while. They have a lot more variety of skin tones."
+    },
+    {
+      "uid": "u0021",
+      "kind": "notes",
+      "text": "Unknown: There's actually way less to build, really."
+    },
+    {
+      "uid": "u0022",
+      "kind": "notes",
+      "text": "Delwath: The minifigs in particular are very..."
+    },
+    {
+      "uid": "u0023",
+      "kind": "notes",
+      "text": "Unknown: Static."
+    },
+    {
+      "uid": "u0024",
+      "kind": "notes",
+      "text": "%% A0038–A0084 %%"
+    },
+    {
+      "uid": "u0025",
+      "kind": "notes",
+      "text": "Wellby: Should we get computers and stuff?"
+    },
+    {
+      "uid": "u0026",
+      "kind": "notes",
+      "text": "Unknown: You probably need your character sheets at some point. Kong, I don't know if you ever picked a boon for Kenzo."
+    },
+    {
+      "uid": "u0027",
+      "kind": "notes",
+      "text": "Kenzo: Yeah, I picked..."
+    },
+    {
+      "uid": "u0028",
+      "kind": "notes",
+      "text": "Wellby: Did you add the other arrow to D&D Beyond?"
+    },
+    {
+      "uid": "u0029",
+      "kind": "notes",
+      "text": "Unknown: I did."
+    },
+    {
+      "uid": "u0030",
+      "kind": "notes",
+      "text": "Unknown: Wait, I haven't picked a boon for Delwath either."
+    },
+    {
+      "uid": "u0031",
+      "kind": "notes",
+      "text": "Kenzo: You guys better do that."
+    },
+    {
+      "uid": "u0032",
+      "kind": "notes",
+      "text": "DM: [Unclear request about writing it down.]"
+    },
+    {
+      "uid": "u0033",
+      "kind": "notes",
+      "text": "Unknown: You were talking about the can't-die one."
+    },
+    {
+      "uid": "u0034",
+      "kind": "notes",
+      "text": "Kenzo: That's what I wanted. The hit-points one. But I picked that, didn't I? We used it because I absorbed a bajillion hit points in the combat."
+    },
+    {
+      "uid": "u0035",
+      "kind": "notes",
+      "text": "Unknown: That was before you leveled up. You leveled up at the end of it."
+    },
+    {
+      "uid": "u0036",
+      "kind": "notes",
+      "text": "Unknown: I'll add it here."
+    },
+    {
+      "uid": "u0037",
+      "kind": "notes",
+      "text": "Delwath: I need to decide between teleporting and extra speed."
+    },
+    {
+      "uid": "u0038",
+      "kind": "notes",
+      "text": "Unknown: You better decide now."
+    },
+    {
+      "uid": "u0039",
+      "kind": "notes",
+      "text": "Table discussion: Was the insects ability changed to a bonus action? Delwath's choice of speed depends on that. The clarification is that another bonus action can be used, which is effectively the same thing for this decision."
+    },
+    {
+      "uid": "u0040",
+      "kind": "notes",
+      "text": "Unknown: You didn't want the one that increased your hit points. You wanted the one where you can't die."
+    },
+    {
+      "uid": "u0041",
+      "kind": "notes",
+      "text": "Unknown: When you're reduced to zero hit points, you drop to one instead and regain a number of hit points equal to half your hit-point maximum."
+    },
+    {
+      "uid": "u0042",
+      "kind": "notes",
+      "text": "Delwath: That must be once per day or something?"
+    },
+    {
+      "uid": "u0043",
+      "kind": "notes",
+      "text": "Unknown: Once per long rest. Last Stand."
+    },
+    {
+      "uid": "u0044",
+      "kind": "notes",
+      "text": "%% A0085–A0136. Broken, non-substantive fragments about sorting pieces have been shortened. %%"
+    },
+    {
+      "uid": "u0045",
+      "kind": "notes",
+      "text": "Kenzo: It had odd bits and bobs in it. A plastic tray."
+    },
+    {
+      "uid": "u0046",
+      "kind": "notes",
+      "text": "Seeker: There's a lot more stuff. What do you need?"
+    },
+    {
+      "uid": "u0047",
+      "kind": "notes",
+      "text": "Unknown: I'm not sure what I need. There's all the stuff. So much more. I forgot about those."
+    },
+    {
+      "uid": "u0048",
+      "kind": "notes",
+      "text": "Unknown: Schwartz, how many hours—when do you do the Lego stuff in your life?"
+    },
+    {
+      "uid": "u0049",
+      "kind": "notes",
+      "text": "Kenzo: Is it kids go to bed and then it's me time?"
+    },
+    {
+      "uid": "u0050",
+      "kind": "notes",
+      "text": "Unknown: Pretty much just summer."
+    },
+    {
+      "uid": "u0051",
+      "kind": "notes",
+      "text": "Kenzo: Summer?"
+    },
+    {
+      "uid": "u0052",
+      "kind": "notes",
+      "text": "Wellby: When I went back to work in August, that's when all progress stopped."
+    },
+    {
+      "uid": "u0053",
+      "kind": "notes",
+      "text": "Kenzo: Do you have summers off?"
+    },
+    {
+      "uid": "u0054",
+      "kind": "notes",
+      "text": "Unknown: I have July off."
+    },
+    {
+      "uid": "u0055",
+      "kind": "notes",
+      "text": "Kenzo: That's awesome."
+    },
+    {
+      "uid": "u0056",
+      "kind": "notes",
+      "text": "Unknown: When you have July off, you're not doing any administering at all?"
+    },
+    {
+      "uid": "u0057",
+      "kind": "notes",
+      "text": "Unknown: No. I'm responding to emails, but..."
+    },
+    {
+      "uid": "u0058",
+      "kind": "notes",
+      "text": "Unknown: What if your flock is in need?"
+    },
+    {
+      "uid": "u0059",
+      "kind": "notes",
+      "text": "Kenzo: I'm sure life doesn't relax in July."
+    },
+    {
+      "uid": "u0060",
+      "kind": "notes",
+      "text": "Unknown: Or does everybody just relax in July?"
+    },
+    {
+      "uid": "u0061",
+      "kind": "notes",
+      "text": "Wellby: Nobody died this month."
+    },
+    {
+      "uid": "u0062",
+      "kind": "notes",
+      "text": "Unknown: Everybody just stay alive."
+    },
+    {
+      "uid": "u0063",
+      "kind": "notes",
+      "text": "Kenzo: That's what I'm saying. How are yours doing?"
+    },
+    {
+      "uid": "u0064",
+      "kind": "notes",
+      "text": "Unknown: Really well. Really, really well."
+    },
+    {
+      "uid": "u0065",
+      "kind": "notes",
+      "text": "Table talk: Further remarks about commissions and progress are unclear, followed by comments on Scandinavian sea-creature candy."
+    },
+    {
+      "uid": "u0066",
+      "kind": "notes",
+      "text": "Seeker: It's halfway between gummy-bear and Swedish Fish texture."
+    },
+    {
+      "uid": "u0067",
+      "kind": "notes",
+      "text": "%% A0137–A0210 %%"
+    },
+    {
+      "uid": "u0068",
+      "kind": "notes",
+      "text": "Unknown: The epic boons really give you a plus two in an ability score. The ability-score increase is entirely pointless at this point."
+    },
+    {
+      "uid": "u0069",
+      "kind": "notes",
+      "text": "Seeker: That one, we're destined to keep together because apparently it has some important side effects."
+    },
+    {
+      "uid": "u0070",
+      "kind": "notes",
+      "text": "Unknown: How do you mean? For the specific character?"
+    },
+    {
+      "uid": "u0071",
+      "kind": "notes",
+      "text": "Delwath: It can boost..."
+    },
+    {
+      "uid": "u0072",
+      "kind": "notes",
+      "text": "Table talk: Mysterio is identified as a Marvel character. More miniature sorting: bodies were set aside because they duplicate pieces in the bowl or are not needed. Seeker notices a kenku body. Several remarks about Delwath's miniature are unclear; the group seems pleased with it."
+    },
+    {
+      "uid": "u0073",
+      "kind": "notes",
+      "text": "Unknown: Delwath can finally move fast. Speed of sixty."
+    },
+    {
+      "uid": "u0074",
+      "kind": "notes",
+      "text": "Unknown: What were my boons again?"
+    },
+    {
+      "uid": "u0075",
+      "kind": "notes",
+      "text": "Unknown: You have truesight, I think."
+    },
+    {
+      "uid": "u0076",
+      "kind": "notes",
+      "text": "Unknown: Was there another thing I did?"
+    },
+    {
+      "uid": "u0077",
+      "kind": "notes",
+      "text": "Unknown: You only get one at this level."
+    },
+    {
+      "uid": "u0078",
+      "kind": "notes",
+      "text": "Unknown: Wish and a spell."
+    },
+    {
+      "uid": "u0079",
+      "kind": "notes",
+      "text": "Delwath: Wait, I don't think I took my spell."
+    },
+    {
+      "uid": "u0080",
+      "kind": "notes",
+      "text": "Unknown: I didn't really prep for this at all. You took Shapechange."
+    },
+    {
+      "uid": "u0081",
+      "kind": "notes",
+      "text": "Seeker: Shapechange, right."
+    },
+    {
+      "uid": "u0082",
+      "kind": "notes",
+      "text": "Unknown: Where are we? Are we doing a time gap?"
+    },
+    {
+      "uid": "u0083",
+      "kind": "notes",
+      "text": "Unknown: It's been a while. A month."
+    },
+    {
+      "uid": "u0084",
+      "kind": "notes",
+      "text": "Unknown: I have to actually think about my spells for a minute."
+    },
+    {
+      "uid": "u0085",
+      "kind": "notes",
+      "text": "%% A0211–A0298 %%"
+    },
+    {
+      "uid": "u0086",
+      "kind": "notes",
+      "text": "Unknown: Tim, I don't see the fourth arrow from the Wayfarer's Bow. Do I need to refresh on my end?"
+    },
+    {
+      "uid": "u0087",
+      "kind": "notes",
+      "text": "Unknown: You probably have to remove it and add it again."
+    },
+    {
+      "uid": "u0088",
+      "kind": "notes",
+      "text": "Wellby: I had to remove it and add it."
+    },
+    {
+      "uid": "u0089",
+      "kind": "notes",
+      "text": "Unknown: I probably have to do the same here."
+    },
+    {
+      "uid": "u0090",
+      "kind": "notes",
+      "text": "Table discussion: Reading Wish options, including advantage and increasing the DC needed for a spell or magical effect."
+    },
+    {
+      "uid": "u0091",
+      "kind": "notes",
+      "text": "DM: That's one of the risky ones."
+    },
+    {
+      "uid": "u0092",
+      "kind": "notes",
+      "text": "Delwath: Anything except another spell is a risky one."
+    },
+    {
+      "uid": "u0093",
+      "kind": "notes",
+      "text": "Seeker: What are the probabilities going to be?"
+    },
+    {
+      "uid": "u0094",
+      "kind": "notes",
+      "text": "Delwath: First of all, Seeker always succeeds at all risky magical effects."
+    },
+    {
+      "uid": "u0095",
+      "kind": "notes",
+      "text": "DM: Thirty-three percent chance you never have to cast Wish again."
+    },
+    {
+      "uid": "u0096",
+      "kind": "notes",
+      "text": "Unknown: It's a bit less than that because you can [unclear remark about rerolling]. If I had one."
+    },
+    {
+      "uid": "u0097",
+      "kind": "notes",
+      "text": "Unknown: Is your inspiration for d20 rerolls?"
+    },
+    {
+      "uid": "u0098",
+      "kind": "notes",
+      "text": "DM: No, it's a reroll of any die you roll."
+    },
+    {
+      "uid": "u0099",
+      "kind": "notes",
+      "text": "Table discussion: Working through the probability with a reroll. Initial suggestions include one-sixth, then one-third times one-third because both rolls must fail. They settle on roughly one chance in nine of losing Wish, or eight out of nine of being fine."
+    },
+    {
+      "uid": "u0100",
+      "kind": "notes",
+      "text": "Delwath: When did that ever happen?"
+    },
+    {
+      "uid": "u0101",
+      "kind": "notes",
+      "text": "Unknown: Never."
+    },
+    {
+      "uid": "u0102",
+      "kind": "notes",
+      "text": "Unknown: What level is Simulacrum?"
+    },
+    {
+      "uid": "u0103",
+      "kind": "notes",
+      "text": "Unknown: It's eighth level."
+    },
+    {
+      "uid": "u0104",
+      "kind": "notes",
+      "text": "Delwath: Why don't you make a Simulacrum and have the Simulacrum cast Wish?"
+    },
+    {
+      "uid": "u0105",
+      "kind": "notes",
+      "text": "Seeker: Because it doesn't get to make a Wish spell."
+    },
+    {
+      "uid": "u0106",
+      "kind": "notes",
+      "text": "Unknown: Why not?"
+    },
+    {
+      "uid": "u0107",
+      "kind": "notes",
+      "text": "Unknown: To break the Simulacrum–Wish chain, if your Simulacrum loses the ability to cast Wish, you do too."
+    },
+    {
+      "uid": "u0108",
+      "kind": "notes",
+      "text": "Unknown: So the Simulacrum also has Wish. We used that last time."
+    },
+    {
+      "uid": "u0109",
+      "kind": "notes",
+      "text": "Delwath: No, because we used Wish to create the Simulacrum."
+    },
+    {
+      "uid": "u0110",
+      "kind": "notes",
+      "text": "Unknown: No. Oh, no, we didn't."
+    },
+    {
+      "uid": "u0111",
+      "kind": "notes",
+      "text": "Delwath: The Simulacrum used Wish for an illusory dragon."
+    },
+    {
+      "uid": "u0112",
+      "kind": "notes",
+      "text": "DM: And Seeker used Wish for a Forcecage."
+    },
+    {
+      "uid": "u0113",
+      "kind": "notes",
+      "text": "Unknown: If you or a duplicate, clone, or other copy of you loses the ability to cast Wish, you also do. Otherwise you'd always cast it through the Simulacrum. It can get out of control."
+    },
+    {
+      "uid": "u0114",
+      "kind": "notes",
+      "text": "Unknown: That seems reasonable."
+    },
+    {
+      "uid": "u0115",
+      "kind": "notes",
+      "text": "Unknown: That was [uncertain: Candrosa]'s turn. We're good, you can start."
+    },
+    {
+      "uid": "u0116",
+      "kind": "notes",
+      "text": "%% A0299–A0323. This is a recorded review of the current situation, followed by planning; it does not record the missing journey. %%"
+    },
+    {
+      "uid": "u0117",
+      "kind": "notes",
+      "text": "Unattributed account: The Tollen/interview notes go up to stopping in Orenlas, where the party spends a few days talking with Arheste, the elf who fought Apollyon, telling her what happened and checking in on the elves."
+    },
+    {
+      "uid": "u0118",
+      "kind": "notes",
+      "text": "DM: Keeping them up to date about events, some of which they had heard through [uncertain: Graham], some of which were news to them."
+    },
+    {
+      "uid": "u0119",
+      "kind": "notes",
+      "text": "Unknown: There's nothing that says you have to fly to Isingue to cast Plane Shift. You can cast it from anywhere."
+    },
+    {
+      "uid": "u0120",
+      "kind": "notes",
+      "text": "Unknown: Why don't we Plane Shift from here?"
+    },
+    {
+      "uid": "u0121",
+      "kind": "notes",
+      "text": "Unknown: We'll link hands in a circle, specifying the target destination in general terms."
+    },
+    {
+      "uid": "u0122",
+      "kind": "notes",
+      "text": "Unknown: Can we ask the initiate before going to Limbo?"
+    },
+    {
+      "uid": "u0123",
+      "kind": "notes",
+      "text": "Seeker: There are some practical concerns related to teleporting that might improve our outcomes. [Unclear intervening phrase.] Would a teleportation circle be useful on either this side or the other?"
+    },
+    {
+      "uid": "u0124",
+      "kind": "notes",
+      "text": "Unknown: Teleportation circles don't exist in Taelgar. Or potentially they exist, but they're locked and require a magic we would never possess."
+    },
+    {
+      "uid": "u0125",
+      "kind": "notes",
+      "text": "%% A0324–A0371 %%"
+    },
+    {
+      "uid": "u0126",
+      "kind": "notes",
+      "text": "Table talk: Water or tea is being prepared."
+    },
+    {
+      "uid": "u0127",
+      "kind": "notes",
+      "text": "Unknown: The Wand of the Planes has seven Plane Shift charges."
+    },
+    {
+      "uid": "u0128",
+      "kind": "notes",
+      "text": "Delwath: Delwath doesn't have Plane Shift because I didn't switch it out. I was thinking of switching it for Forcecage, but then how are you going to cast Plane Shift? I could switch it for Forcecage and you could use the wand."
+    },
+    {
+      "uid": "u0129",
+      "kind": "notes",
+      "text": "Unknown: As long as we don't need to go back and forth a lot."
+    },
+    {
+      "uid": "u0130",
+      "kind": "notes",
+      "text": "Delwath: Actually, I like the idea of Delwath having Plane Shift. After this adventure, Delwath is going to wander around the planes, so he needs Plane Shift."
+    },
+    {
+      "uid": "u0131",
+      "kind": "notes",
+      "text": "Seeker: The wand can slice between planes. We learned from our research that slicing with Limbo could make things worse, but that's in the area of the wound."
+    },
+    {
+      "uid": "u0132",
+      "kind": "notes",
+      "text": "Unknown: We could make a new slice far away from it, but that also destroys the wand. Slicing between planes, creating a permanent..."
+    },
+    {
+      "uid": "u0133",
+      "kind": "notes",
+      "text": "Seeker: It could also catastrophically fail in a really fun way."
+    },
+    {
+      "uid": "u0134",
+      "kind": "notes",
+      "text": "Unknown: So let's not do that. I forget what Blink does."
+    },
+    {
+      "uid": "u0135",
+      "kind": "notes",
+      "text": "Unknown: Blink and Banishment are both useful spells."
+    },
+    {
+      "uid": "u0136",
+      "kind": "notes",
+      "text": "Unknown: Blink just basically makes you immune to any... there is a 50% chance that nobody can do anything to you."
+    },
+    {
+      "uid": "u0137",
+      "kind": "notes",
+      "text": "DM: Because you transport into the Ethereal Plane when it's not your turn, then come back. It's an action to cast, and you have to wait for your turn on it."
+    },
+    {
+      "uid": "u0138",
+      "kind": "notes",
+      "text": "Seeker: It's a great run-away spell."
+    },
+    {
+      "uid": "u0139",
+      "kind": "notes",
+      "text": "Table talk: The music seems quiet; the device is not connected to the speaker."
+    },
+    {
+      "uid": "u0140",
+      "kind": "notes",
+      "text": "%% SEGMENT 2 — Raw notes. Verbatim RAW NOTES text from `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_dm_notes/Limbo Session 1 Notes.md`. It covers the gap and overlaps later recorded play. %%"
+    },
+    {
+      "uid": "u0141",
+      "kind": "notes",
+      "text": "Start on Sept 14th in Orenlas"
+    },
+    {
+      "uid": "u0142",
+      "kind": "notes",
+      "text": "Two days in Orenlas:"
+    },
+    {
+      "uid": "u0143",
+      "kind": "notes",
+      "text": "dewalth talk to elves about where the elves went"
+    },
+    {
+      "uid": "u0144",
+      "kind": "notes",
+      "text": "wellby gets through to the fly, sees that is still remembers Agata fondly, and realizes he needs to shift its opinion to get through to it (and also show it a new home with him)"
+    },
+    {
+      "uid": "u0145",
+      "kind": "notes",
+      "text": "seeker prepare chaos metal for plane shift. practice making stable stone shapes"
+    },
+    {
+      "uid": "u0146",
+      "kind": "notes",
+      "text": "kenzo communes with the elder tree"
+    },
+    {
+      "uid": "u0147",
+      "kind": "notes",
+      "text": "Delwath plane shifts to \"a sanctuary that would be safe for Kenzo\""
+    },
+    {
+      "uid": "u0148",
+      "kind": "notes",
+      "text": "arrive in cutting-glass-snow, taking slashing damage"
+    },
+    {
+      "uid": "u0149",
+      "kind": "notes",
+      "text": "Seeker quickly shapes a cotton / soft nest of the snow, forming a protective sphere of influence; kenzo tries to commune with nature but takes psychic damage from limbo"
+    },
+    {
+      "uid": "u0150",
+      "kind": "notes",
+      "text": "wellby shoots arrrow to find rai, 47 distance-units away"
+    },
+    {
+      "uid": "u0151",
+      "kind": "notes",
+      "text": "emerge from snow-glass-ice into a black field dotted with bursts of blue flame. send arcane eye to investigate. proceed."
+    },
+    {
+      "uid": "u0152",
+      "kind": "notes",
+      "text": "wellby notices some patches of solidifying air, suggesting the landscape is about to change"
+    },
+    {
+      "uid": "u0153",
+      "kind": "notes",
+      "text": "darkness begins to solidify into stone, seeker turns the cloud nest into child's drawing of a ship on a sea with clear sky above"
+    },
+    {
+      "uid": "u0154",
+      "kind": "notes",
+      "text": "sail through the stone in the bubble/window, watching little stone bird that look like drawings drift across the sky"
+    },
+    {
+      "uid": "u0155",
+      "kind": "notes",
+      "text": "arcane eye tests in random directions - two end up in stone"
+    },
+    {
+      "uid": "u0156",
+      "kind": "notes",
+      "text": "third arcane eye shows a two floating rows of trees arranged in two neat lines"
+    },
+    {
+      "uid": "u0157",
+      "kind": "notes",
+      "text": "take shape down to the silence orchard -- two lines of fruit trees growing in a shard of glass dirt, tended by a faceless robed caretaker."
+    },
+    {
+      "uid": "u0158",
+      "kind": "notes",
+      "text": "two rules: no faces and no names"
+    },
+    {
+      "uid": "u0159",
+      "kind": "notes",
+      "text": "kenzo controls his appearance to hide his face using his void/meditation thoughts"
+    },
+    {
+      "uid": "u0160",
+      "kind": "notes",
+      "text": "seeker tries but mind too chattery / busy; orchard keeper helps"
+    },
+    {
+      "uid": "u0161",
+      "kind": "notes",
+      "text": "delwath uses alter self to turn face silver"
+    },
+    {
+      "uid": "u0162",
+      "kind": "notes",
+      "text": "wellby wraps a scarf around his face which merges with his skin as he steps onto the orchard"
+    },
+    {
+      "uid": "u0163",
+      "kind": "notes",
+      "text": "talk briefly - kenzo accidentally asks about the Material Plane, gets banished (proper noun is not okay)n - manages to return but warned that he is allowed only one mistake or the stability of the island will fall"
+    },
+    {
+      "uid": "u0164",
+      "kind": "notes",
+      "text": "knows vaguely about the jade man but does not spend time worrying about his conflict with limbo"
+    },
+    {
+      "uid": "u0165",
+      "kind": "notes",
+      "text": "can harvest fruits by thinking of what you want. orchard keeper hands them a pomegranate that shows a map of rai's sanctuary but they don't realize what it is"
+    },
+    {
+      "uid": "u0166",
+      "kind": "notes",
+      "text": "seeker creates a melon showing the monk's monastery in limbo with the monks doing repetitive tasks; also a flaming apple that shows Frankar and an efreeti walking across an ashy field to a giant chalice with flames shooting out the top on the plane of fire"
+    },
+    {
+      "uid": "u0167",
+      "kind": "notes",
+      "text": "try a dragonfruit of cha'mutte's lair - but nothing; the orchard keeper tells them that ruins can't exist in limbo - without a will everything decays to the primal chaos"
+    },
+    {
+      "uid": "u0168",
+      "kind": "notes",
+      "text": "wellby summons a banana that sings a melody from the orchard keeper's childhood which sounds alien and strange; seeker summons a fruit that shows his home and it is empty, hollow"
+    },
+    {
+      "uid": "u0169",
+      "kind": "notes",
+      "text": "asked about cha'mutte - he does not recall but then eats a fruit and restores his memory of fleeing cha'mutte some years ago; cha'mutte wanted to use all the power of limbo"
+    },
+    {
+      "uid": "u0170",
+      "kind": "notes",
+      "text": "everyone takes one fruit - kenzo chaos ki; seeker glass dirt; wellby nut of escape route; delwath fruit to help find elves. kenzo communes with tree."
+    },
+    {
+      "uid": "u0171",
+      "kind": "notes",
+      "text": "teleport to rai's sanctuary - amazing success but much further away (417 distance-units). appear at a conduit of liquid gravity that pulls towards a floating array of structures. monastery flashes past; party is pulled in to the center (all fail save). seeker tries to shape vindristrjarna, but it is too complicated, end up falling on a flat stone expanse."
+    },
+    {
+      "uid": "u0172",
+      "kind": "notes",
+      "text": "flat stone expanse is closer - 95 distance units. take damage falling though."
+    },
+    {
+      "uid": "u0173",
+      "kind": "notes",
+      "text": "travel on ocean for a bit, see a wave of stone following them. distance closes unpredictably."
+    },
+    {
+      "uid": "u0174",
+      "kind": "notes",
+      "text": "wellby and bow notice stone boar like shapes unudualating at the front of the stone wave (like the horses in lord of the rings that gandalf makes)"
+    },
+    {
+      "uid": "u0175",
+      "kind": "notes",
+      "text": "seeker manages to make a gap appear in the water in their wake. world rotations. boars keep following the gap, ship goes perpendicular towards rai."
+    },
+    {
+      "uid": "u0176",
+      "kind": "notes",
+      "text": "reach sanctuary. see the cloud-waterfall-glass"
+    },
+    {
+      "uid": "u0177",
+      "kind": "notes",
+      "text": "enter, first find just grasping hands, seeking stories of thresholds."
+    },
+    {
+      "uid": "u0178",
+      "kind": "notes",
+      "text": "seeker - door in eudomes' tower (history)"
+    },
+    {
+      "uid": "u0179",
+      "kind": "notes",
+      "text": "wellby - canyonlands from very beginning of campaign (survival)"
+    },
+    {
+      "uid": "u0180",
+      "kind": "notes",
+      "text": "delwath - rainbow bridge, stories of when they escaped from danger, especially plane of water"
+    },
+    {
+      "uid": "u0181",
+      "kind": "notes",
+      "text": "second circle - faces of emotion."
+    },
+    {
+      "uid": "u0182",
+      "kind": "notes",
+      "text": "kenzo mediates on a laughing face, gets its story back (father and child)"
+    },
+    {
+      "uid": "u0183",
+      "kind": "notes",
+      "text": "delwath uses suggestion on grieving face, magics it into showing its story (carving death marker / dunmari religion)"
+    },
+    {
+      "uid": "u0184",
+      "kind": "notes",
+      "text": "wellby - joy - story of the beauty of the dunmari landscape, rolled really high so works even though the joy was really about her wedding."
+    },
+    {
+      "uid": "u0185",
+      "kind": "notes",
+      "text": "seeker - terror - fear of all kinds of dangerous things (arcana), totally misses the brief but so good at communicating the detail of these things that the monk remembers its fear of public speaking and is saved"
+    },
+    {
+      "uid": "u0186",
+      "kind": "notes",
+      "text": "last circle - monks imitating roles, half formed"
+    },
+    {
+      "uid": "u0187",
+      "kind": "notes",
+      "text": "wellby - sparring partner, spars with it"
+    },
+    {
+      "uid": "u0188",
+      "kind": "notes",
+      "text": "delwath - teacher, acts as student to learn about how to survive on limbo"
+    },
+    {
+      "uid": "u0189",
+      "kind": "notes",
+      "text": "seeker - student, acts as teacher about the history of tokra, digressions pull student along"
+    },
+    {
+      "uid": "u0190",
+      "kind": "notes",
+      "text": "kenzo - prayer, locks into the communion of advanced bhishma monks, succeeds with help of inspiration"
+    },
+    {
+      "uid": "u0191",
+      "kind": "notes",
+      "text": "enter monastery - monks doing routine ritals to preserve order in the face of limbo"
+    },
+    {
+      "uid": "u0192",
+      "kind": "notes",
+      "text": "speak to Rai -"
+    },
+    {
+      "uid": "u0193",
+      "kind": "notes",
+      "text": "he had cast a desperate message to dimitaur to look for help; dimitaur didn't deliver but help came anyway"
+    },
+    {
+      "uid": "u0194",
+      "kind": "notes",
+      "text": "he has been fighting to keep some ancient limbo entity from taking full control over the relic of reshaping and crashing limbo further into material plane, and also fighting to keep monks safe. can't go fight ancient thing - monks would die; can't teleport away with monks - ancient thing would win"
+    },
+    {
+      "uid": "u0195",
+      "kind": "notes",
+      "text": "tells of chaos storms - the \"final form\" of chaos beasts - thinks the entity with the relic is a chaos storm caught in the window of stability, remembered itself"
+    },
+    {
+      "uid": "u0196",
+      "kind": "notes",
+      "text": "END"
+    },
+    {
+      "uid": "u0197",
+      "kind": "notes",
+      "text": "%% SEGMENT 3 — Transcript of the audio recap. B0001–B0234. Recorded reconstruction of the missed play, including the recording discussion. %%"
+    },
+    {
+      "uid": "u0198",
+      "kind": "notes",
+      "text": "%% B0001–B0029 %%"
+    },
+    {
+      "uid": "u0199",
+      "kind": "notes",
+      "text": "Unknown: Is it not recording?"
+    },
+    {
+      "uid": "u0200",
+      "kind": "notes",
+      "text": "DM: It's not recording. None of this has been recording. That's too bad."
+    },
+    {
+      "uid": "u0201",
+      "kind": "notes",
+      "text": "Unknown: It said recording when I clicked it."
+    },
+    {
+      "uid": "u0202",
+      "kind": "notes",
+      "text": "Kenzo: We have nothing to feed the AI about what happened."
+    },
+    {
+      "uid": "u0203",
+      "kind": "notes",
+      "text": "DM: I'll have to write notes."
+    },
+    {
+      "uid": "u0204",
+      "kind": "notes",
+      "text": "Unknown: We have to recap right now. Quick recap."
+    },
+    {
+      "uid": "u0205",
+      "kind": "notes",
+      "text": "Kenzo: There's a dude with no face and a garden, and we all had seeds."
+    },
+    {
+      "uid": "u0206",
+      "kind": "notes",
+      "text": "Wellby: He turned out to be a nice guy after all."
+    },
+    {
+      "uid": "u0207",
+      "kind": "notes",
+      "text": "Kenzo: He was great. He's going to be Kenzo's future teacher."
+    },
+    {
+      "uid": "u0208",
+      "kind": "notes",
+      "text": "Unknown: We teleported with great success."
+    },
+    {
+      "uid": "u0209",
+      "kind": "notes",
+      "text": "Delwath: For the record, the teleport was 100% successful. If you hear any rumors that it was a failure, those are just rumors."
+    },
+    {
+      "uid": "u0210",
+      "kind": "notes",
+      "text": "Unknown: Trying to smear Seeker's reputation. A smear campaign against Seeker."
+    },
+    {
+      "uid": "u0211",
+      "kind": "notes",
+      "text": "%% B0030–B0069. Retrospective account of the same journey described in the written notes. %%"
+    },
+    {
+      "uid": "u0212",
+      "kind": "notes",
+      "text": "Seeker: We started out in the deadly marshmallow ice swamp and made a soft and fuzzy mist. We steered that, then..."
+    },
+    {
+      "uid": "u0213",
+      "kind": "notes",
+      "text": "Unknown: Wellby shot the arrow of seeking. We followed it."
+    },
+    {
+      "uid": "u0214",
+      "kind": "notes",
+      "text": "Delwath: Then we got to the scary blue lights."
+    },
+    {
+      "uid": "u0215",
+      "kind": "notes",
+      "text": "Seeker: I was trying to go from the beginning."
+    },
+    {
+      "uid": "u0216",
+      "kind": "notes",
+      "text": "Delwath: Right after the bow was the blue lights. Not the teleport—the other blue lights that were trying to turn the air to stone."
+    },
+    {
+      "uid": "u0217",
+      "kind": "notes",
+      "text": "DM: Wellby noticed the air was about to shift."
+    },
+    {
+      "uid": "u0218",
+      "kind": "notes",
+      "text": "Delwath: You turned our ship into a crude boat sailing on the open sea with the sky above."
+    },
+    {
+      "uid": "u0219",
+      "kind": "notes",
+      "text": "Unknown: We sailed through stone for a while."
+    },
+    {
+      "uid": "u0220",
+      "kind": "notes",
+      "text": "Delwath: The Arcane Eyes went in random directions."
+    },
+    {
+      "uid": "u0221",
+      "kind": "notes",
+      "text": "Kenzo: There were three Arcane Eyes. The third one..."
+    },
+    {
+      "uid": "u0222",
+      "kind": "notes",
+      "text": "Unknown: The first two were stone. The third found the garden—the orchard."
+    },
+    {
+      "uid": "u0223",
+      "kind": "notes",
+      "text": "Delwath: Then we went to the no-face orchard."
+    },
+    {
+      "uid": "u0224",
+      "kind": "notes",
+      "text": "%% B0070–B0114 %%"
+    },
+    {
+      "uid": "u0225",
+      "kind": "notes",
+      "text": "Table discussion: They did not have faces in the orchard, and eventually got their faces back. Whether Kenzo keeps his face is up to him; he can now make it disappear."
+    },
+    {
+      "uid": "u0226",
+      "kind": "notes",
+      "text": "Kenzo: I can now do that."
+    },
+    {
+      "uid": "u0227",
+      "kind": "notes",
+      "text": "Delwath: Kenzo made his face disappear by being one with the void. Delwath turned his face silver with the silver mask. Wellby..."
+    },
+    {
+      "uid": "u0228",
+      "kind": "notes",
+      "text": "Unknown: Wellby wore a hat that turned into his skin."
+    },
+    {
+      "uid": "u0229",
+      "kind": "notes",
+      "text": "Seeker: I tried to do it to myself."
+    },
+    {
+      "uid": "u0230",
+      "kind": "notes",
+      "text": "DM: Seeker attempted to void his mind like Kenzo, but it failed."
+    },
+    {
+      "uid": "u0231",
+      "kind": "notes",
+      "text": "Unknown: His mind is too distractible."
+    },
+    {
+      "uid": "u0232",
+      "kind": "notes",
+      "text": "Unattributed recap: The Silent Orchard Keeper helped with Seeker's face; the surrounding fragments about restoring his appearance are unclear."
+    },
+    {
+      "uid": "u0233",
+      "kind": "notes",
+      "text": "Delwath: Then we had a bunch of fruit, including one where we saw Frankar talking to an efreeti."
+    },
+    {
+      "uid": "u0234",
+      "kind": "notes",
+      "text": "Kenzo: There was a pomegranate fruit with the jade eye."
+    },
+    {
+      "uid": "u0235",
+      "kind": "notes",
+      "text": "Unknown: A pomegranate fruit with the jade eye in front of it. Then the honeydew with the monastery."
+    },
+    {
+      "uid": "u0236",
+      "kind": "notes",
+      "text": "%% B0115–B0149 %%"
+    },
+    {
+      "uid": "u0237",
+      "kind": "notes",
+      "text": "Delwath: Then we successfully teleported..."
+    },
+    {
+      "uid": "u0238",
+      "kind": "notes",
+      "text": "Unknown: Wait, we all got fruit. Seeker got glass dirt."
+    },
+    {
+      "uid": "u0239",
+      "kind": "notes",
+      "text": "Kenzo: Kenzo communed with the tree and got chaos ki."
+    },
+    {
+      "uid": "u0240",
+      "kind": "notes",
+      "text": "Delwath: Delwath took an elven sisila fruit."
+    },
+    {
+      "uid": "u0241",
+      "kind": "notes",
+      "text": "Unknown: Wellby took the emergency-exit fruit."
+    },
+    {
+      "uid": "u0242",
+      "kind": "notes",
+      "text": "Kenzo: What's your fruit going to do?"
+    },
+    {
+      "uid": "u0243",
+      "kind": "notes",
+      "text": "Delwath: It's going to tell Delwath... He's a little embarrassed to explain what his fruit is. It's about finding home."
+    },
+    {
+      "uid": "u0244",
+      "kind": "notes",
+      "text": "Unknown: That's not embarrassing. That's very cute."
+    },
+    {
+      "uid": "u0245",
+      "kind": "notes",
+      "text": "Table discussion: It's personal; elves have trouble with vulnerability. A later remark clarifies that Delwath is happy to tell them about it and has come a long way."
+    },
+    {
+      "uid": "u0246",
+      "kind": "notes",
+      "text": "%% B0150–B0181 %%"
+    },
+    {
+      "uid": "u0247",
+      "kind": "notes",
+      "text": "DM: You attempted to teleport, and Seeker did amazing."
+    },
+    {
+      "uid": "u0248",
+      "kind": "notes",
+      "text": "Seeker: The goal was to find something similar to the monastery."
+    },
+    {
+      "uid": "u0249",
+      "kind": "notes",
+      "text": "Delwath: No, the goal was to teleport somewhere we could find a sturdier ship."
+    },
+    {
+      "uid": "u0250",
+      "kind": "notes",
+      "text": "Wellby: The goal was to go to the damn monastery."
+    },
+    {
+      "uid": "u0251",
+      "kind": "notes",
+      "text": "Unknown: Do not listen to Wellby."
+    },
+    {
+      "uid": "u0252",
+      "kind": "notes",
+      "text": "DM: Wellby's bow got a little skeptical of everybody but Wellby. You teleported to a conduit that had an image of the monastery when you appeared, but it vanished before you got pulled into it. Seeker tried to make Vindristjarna and failed because it was too complicated. Instead, he made a big flat stone you got teleported to."
+    },
+    {
+      "uid": "u0253",
+      "kind": "notes",
+      "text": "Unknown: We travelled on that for a while."
+    },
+    {
+      "uid": "u0254",
+      "kind": "notes",
+      "text": "Kenzo: Then there were a bunch of stone boars."
+    },
+    {
+      "uid": "u0255",
+      "kind": "notes",
+      "text": "Unknown: Seeker made a wake of nothingness."
+    },
+    {
+      "uid": "u0256",
+      "kind": "notes",
+      "text": "Delwath: The world rotated on the right axis."
+    },
+    {
+      "uid": "u0257",
+      "kind": "notes",
+      "text": "Unknown: It went perpendicular. The boars went one way, and we went the other. That was so cool."
+    },
+    {
+      "uid": "u0258",
+      "kind": "notes",
+      "text": "Kenzo: I definitely stayed awake after that."
+    },
+    {
+      "uid": "u0259",
+      "kind": "notes",
+      "text": "Unknown: I'll let somebody else narrate it, but I was totally awake."
+    },
+    {
+      "uid": "u0260",
+      "kind": "notes",
+      "text": "%% B0182–B0234. The account catches up to the interrupted live scene. %%"
+    },
+    {
+      "uid": "u0261",
+      "kind": "notes",
+      "text": "Delwath: Then we got to the monastery and encountered..."
+    },
+    {
+      "uid": "u0262",
+      "kind": "notes",
+      "text": "DM: The least human monks were just hands."
+    },
+    {
+      "uid": "u0263",
+      "kind": "notes",
+      "text": "Unknown: The hands wanted thresholds."
+    },
+    {
+      "uid": "u0264",
+      "kind": "notes",
+      "text": "Delwath: We told them the story about the Garamjala Desert, the door in Eudomes' tower, and the Rainbow Bridge. Then we met the emotion monks. Delwath calmed one with Suggestion to get it to speak out its grief."
+    },
+    {
+      "uid": "u0265",
+      "kind": "notes",
+      "text": "Table interruption: There is concern that the phone stopped recording again. The DM says it is recording now but cannot tell whether it paused partway through. Someone else's phone may be needed."
+    },
+    {
+      "uid": "u0266",
+      "kind": "notes",
+      "text": "Delwath: Delwath did the grief monk with Suggestion. Kenzo meditated with a monk. Wellby used..."
+    },
+    {
+      "uid": "u0267",
+      "kind": "notes",
+      "text": "DM: Wellby abused his rogue abilities. Seeker abused his bard abilities."
+    },
+    {
+      "uid": "u0268",
+      "kind": "notes",
+      "text": "Kenzo: Arcana. Now we're..."
+    },
+    {
+      "uid": "u0269",
+      "kind": "notes",
+      "text": "Delwath: Engaged with the most human-like monks acting out their various things. Delwath pretended to be a student even though he knows everything—although Delwath actually knows the least of anybody in the party by a significant margin."
+    },
+    {
+      "uid": "u0270",
+      "kind": "notes",
+      "text": "DM: Left are a sparring monk, a praying monk, and a student monk."
+    },
+    {
+      "uid": "u0271",
+      "kind": "notes",
+      "text": "%% SEGMENT 4 — Transcript 2. B0235–B0980. Live play resumes with Kenzo approaching the praying monk. %%"
+    },
+    {
+      "uid": "u0272",
+      "kind": "notes",
+      "text": "%% B0235–B0337. Continued live play overlaps outcomes already listed in the written notes. %%"
+    },
+    {
+      "uid": "u0273",
+      "kind": "notes",
+      "text": "Kenzo: Kenzo goes to the praying monk and sits down in front of him."
+    },
+    {
+      "uid": "u0274",
+      "kind": "notes",
+      "text": "DM: Are you just praying? What ability or skill are you using?"
+    },
+    {
+      "uid": "u0275",
+      "kind": "notes",
+      "text": "Unknown: Insight."
+    },
+    {
+      "uid": "u0276",
+      "kind": "notes",
+      "text": "DM: Go ahead. You're trying to get into the scene with this monk, to understand..."
+    },
+    {
+      "uid": "u0277",
+      "kind": "notes",
+      "text": "Kenzo: What's the monk praying about?"
+    },
+    {
+      "uid": "u0278",
+      "kind": "notes",
+      "text": "DM: You can't tell. These are incomplete; you need to complete the story."
+    },
+    {
+      "uid": "u0279",
+      "kind": "notes",
+      "text": "Kenzo: To the extent I can understand it."
+    },
+    {
+      "uid": "u0280",
+      "kind": "notes",
+      "text": "Delwath: Aren't they all monks of Bhishma?"
+    },
+    {
+      "uid": "u0281",
+      "kind": "notes",
+      "text": "DM: They're monks of Bhishma."
+    },
+    {
+      "uid": "u0282",
+      "kind": "notes",
+      "text": "Delwath: Are you an initiate of Bhishma?"
+    },
+    {
+      "uid": "u0283",
+      "kind": "notes",
+      "text": "Kenzo: Is it a young monk?"
+    },
+    {
+      "uid": "u0284",
+      "kind": "notes",
+      "text": "DM: No. Remember, every one of these was a master. But you're like a master at this point."
+    },
+    {
+      "uid": "u0285",
+      "kind": "notes",
+      "text": "Kenzo: Kenzo will do some advanced Bhishma praying."
+    },
+    {
+      "uid": "u0286",
+      "kind": "notes",
+      "text": "Unknown: He'll sit and do the..."
+    },
+    {
+      "uid": "u0287",
+      "kind": "notes",
+      "text": "DM: Insight is good for this. Roll Insight."
+    },
+    {
+      "uid": "u0288",
+      "kind": "notes",
+      "text": "Unknown: Fifteen."
+    },
+    {
+      "uid": "u0289",
+      "kind": "notes",
+      "text": "Unknown: Rogue inspiration."
+    },
+    {
+      "uid": "u0290",
+      "kind": "notes",
+      "text": "Delwath: Shouldn't Kenzo get advantage because he's a monk of Bhishma? I don't think Kenzo should fail."
+    },
+    {
+      "uid": "u0291",
+      "kind": "notes",
+      "text": "DM: Fine, yes, you get advantage."
+    },
+    {
+      "uid": "u0292",
+      "kind": "notes",
+      "text": "Unknown: Seventeen."
+    },
+    {
+      "uid": "u0293",
+      "kind": "notes",
+      "text": "DM: What skill are you using?"
+    },
+    {
+      "uid": "u0294",
+      "kind": "notes",
+      "text": "Unknown: Insight."
+    },
+    {
+      "uid": "u0295",
+      "kind": "notes",
+      "text": "Kenzo: How do you guys have plus seventeen and shit?"
+    },
+    {
+      "uid": "u0296",
+      "kind": "notes",
+      "text": "Delwath: My maximum is plus eleven."
+    },
+    {
+      "uid": "u0297",
+      "kind": "notes",
+      "text": "Kenzo: Mine's plus ten. My Stealth is plus eleven."
+    },
+    {
+      "uid": "u0298",
+      "kind": "notes",
+      "text": "DM: Your Insight's pretty good. These crazy people have plus seventeens because they have expertise. Seventeen is so close."
+    },
+    {
+      "uid": "u0299",
+      "kind": "notes",
+      "text": "Delwath: It should just work; it doesn't seem right that Kenzo failed."
+    },
+    {
+      "uid": "u0300",
+      "kind": "notes",
+      "text": "Wellby: What about inspiration?"
+    },
+    {
+      "uid": "u0301",
+      "kind": "notes",
+      "text": "DM: Grab Bardic. You'll definitely succeed with the Bardic."
+    },
+    {
+      "uid": "u0302",
+      "kind": "notes",
+      "text": "Kenzo: Two d12s, pick higher?"
+    },
+    {
+      "uid": "u0303",
+      "kind": "notes",
+      "text": "DM: Yeah."
+    },
+    {
+      "uid": "u0304",
+      "kind": "notes",
+      "text": "Kenzo: Nine, so..."
+    },
+    {
+      "uid": "u0305",
+      "kind": "notes",
+      "text": "Unknown: Twenty-six."
+    },
+    {
+      "uid": "u0306",
+      "kind": "notes",
+      "text": "DM: My predetermined minimum DC was eighteen. It ranges from eighteen to twenty-five, depending on..."
+    },
+    {
+      "uid": "u0307",
+      "kind": "notes",
+      "text": "Unknown: It's good as a warrior."
+    },
+    {
+      "uid": "u0308",
+      "kind": "notes",
+      "text": "Unknown: Yeah, as a warrior."
+    },
+    {
+      "uid": "u0309",
+      "kind": "notes",
+      "text": "%% The two warrior asides retain the preferred Tim wording. The fragments have not been expanded into a new claim. %%"
+    },
+    {
+      "uid": "u0310",
+      "kind": "notes",
+      "text": "DM: You sit down and begin to pray, going through some of the forms as when you Commune with Nature, opening your mind. You begin to feel the thoughts and mind of the monk next to you. It begins to solidify and drift toward you. You sense it doing the same thing, and your communions with nature lock together."
+    },
+    {
+      "uid": "u0311",
+      "kind": "notes",
+      "text": "Kenzo: There's probably a chant or something. I try to lock him into my..."
+    },
+    {
+      "uid": "u0312",
+      "kind": "notes",
+      "text": "DM: The monk climbs out and sits next to you, cross-legged in prayer."
+    },
+    {
+      "uid": "u0313",
+      "kind": "notes",
+      "text": "%% B0338–B0355 %%"
+    },
+    {
+      "uid": "u0314",
+      "kind": "notes",
+      "text": "Delwath: Are all the monks from the previous ones...?"
+    },
+    {
+      "uid": "u0315",
+      "kind": "notes",
+      "text": "Unknown: Do we have a ghostly shift?"
+    },
+    {
+      "uid": "u0316",
+      "kind": "notes",
+      "text": "DM: They're all following you. The last ones are sparring and a teacher—sorry, a student. Seeker has to kind of auto-succeed on that."
+    },
+    {
+      "uid": "u0317",
+      "kind": "notes",
+      "text": "Delwath: Everybody should have auto-succeeded except me."
+    },
+    {
+      "uid": "u0318",
+      "kind": "notes",
+      "text": "%% B0356–B0456 %%"
+    },
+    {
+      "uid": "u0319",
+      "kind": "notes",
+      "text": "Seeker: Seeker raises a piece of illusory chalk, turns to a vast chalkboard behind him, and erases it with his sleeve a little. He writes, “Welcome to the introductory...” Then he lets go of the chalk and turns."
+    },
+    {
+      "uid": "u0320",
+      "kind": "notes",
+      "text": "Unknown: It keeps writing behind him."
+    },
+    {
+      "uid": "u0321",
+      "kind": "notes",
+      "text": "Seeker: “Introductory session of our special topics seminar.”"
+    },
+    {
+      "uid": "u0322",
+      "kind": "notes",
+      "text": "Delwath: How to Survive in Limbo."
+    },
+    {
+      "uid": "u0323",
+      "kind": "notes",
+      "text": "Seeker: No, it just says Special Topics Seminar. I begin to ask the student questions about their interests and life journey, to assess where to begin the lesson—who they are and what they're interested in learning about."
+    },
+    {
+      "uid": "u0324",
+      "kind": "notes",
+      "text": "DM: The student is still insubstantial, but each time they reappear you can see different sketches on the scroll where they're taking notes: historical Dunmari buildings, like the palace in Tokra. Clearly an interest in Dunmari history."
+    },
+    {
+      "uid": "u0325",
+      "kind": "notes",
+      "text": "Seeker: I try to dig deeper and figure out which region of Dunmar and period of history they're interested in."
+    },
+    {
+      "uid": "u0326",
+      "kind": "notes",
+      "text": "DM: They're not substantial enough to communicate that yet."
+    },
+    {
+      "uid": "u0327",
+      "kind": "notes",
+      "text": "Seeker: I look at their drawings."
+    },
+    {
+      "uid": "u0328",
+      "kind": "notes",
+      "text": "DM: You recognize them. They're all buildings you've seen in Tokra. Tokra history."
+    },
+    {
+      "uid": "u0329",
+      "kind": "notes",
+      "text": "Seeker: I begin to lecture on my knowledge of Tokra."
+    },
+    {
+      "uid": "u0330",
+      "kind": "notes",
+      "text": "Delwath: We researched a fair bit about Tokra's history when we were going after the werewolves. There were notes Seeker would have known."
+    },
+    {
+      "uid": "u0331",
+      "kind": "notes",
+      "text": "Seeker: I make an interesting digression about my own experiences. Didn't we dig or use a tunnel under Tokra?"
+    },
+    {
+      "uid": "u0332",
+      "kind": "notes",
+      "text": "DM: Yes."
+    },
+    {
+      "uid": "u0333",
+      "kind": "notes",
+      "text": "Kenzo: Does the monk start yawning, like, “Oh, I know”?"
+    },
+    {
+      "uid": "u0334",
+      "kind": "notes",
+      "text": "DM: No, the monk is interested. Seeker's a pretty good teacher. Make a History check."
+    },
+    {
+      "uid": "u0335",
+      "kind": "notes",
+      "text": "Unknown: That's another twelve."
+    },
+    {
+      "uid": "u0336",
+      "kind": "notes",
+      "text": "DM: Plus seventeen."
+    },
+    {
+      "uid": "u0337",
+      "kind": "notes",
+      "text": "Unknown: That's twenty-four."
+    },
+    {
+      "uid": "u0338",
+      "kind": "notes",
+      "text": "Delwath: The minimum DC is eighteen. Why are you making them make checks?"
+    },
+    {
+      "uid": "u0339",
+      "kind": "notes",
+      "text": "DM: Oh, plus seventeen. You automatically succeed."
+    },
+    {
+      "uid": "u0340",
+      "kind": "notes",
+      "text": "Kenzo: That's twenty-four."
+    },
+    {
+      "uid": "u0341",
+      "kind": "notes",
+      "text": "%% Roll values are retained as recorded, without arithmetic repair. %%"
+    },
+    {
+      "uid": "u0342",
+      "kind": "notes",
+      "text": "DM: I hadn't done the math. The student is very interested as you begin talking about architecture, with a digression into its history, dwarven versus human architecture. The student becomes more solid as you digress farther from the topic."
+    },
+    {
+      "uid": "u0343",
+      "kind": "notes",
+      "text": "Seeker: Into the underground tunnels and the battle with the werewolves."
+    },
+    {
+      "uid": "u0344",
+      "kind": "notes",
+      "text": "DM: Finally you're talking about the battle with the werewolves. It's not history at all, but they're very interested."
+    },
+    {
+      "uid": "u0345",
+      "kind": "notes",
+      "text": "Seeker: It was a crucial turning point historically, maybe in the history of the entire world—the rise..."
+    },
+    {
+      "uid": "u0346",
+      "kind": "notes",
+      "text": "Kenzo: The rise of what? The ladder."
+    },
+    {
+      "uid": "u0347",
+      "kind": "notes",
+      "text": "DM: That was the first time the ladder came into play: the werewolves."
+    },
+    {
+      "uid": "u0348",
+      "kind": "notes",
+      "text": "Delwath: It's a special seminar on the history of ladders. The ladder, of course."
+    },
+    {
+      "uid": "u0349",
+      "kind": "notes",
+      "text": "Kenzo: The ladder was the one."
+    },
+    {
+      "uid": "u0350",
+      "kind": "notes",
+      "text": "DM: The monk solidifies next to Seeker, leaving only the sparring monk."
+    },
+    {
+      "uid": "u0351",
+      "kind": "notes",
+      "text": "Kenzo: What was it? “He who climbs so you may rise”?"
+    },
+    {
+      "uid": "u0352",
+      "kind": "notes",
+      "text": "Seeker: What's the AI-generated epithet about the ladder that was nonsensical?"
+    },
+    {
+      "uid": "u0353",
+      "kind": "notes",
+      "text": "Kenzo: It was so good. “He has climbed so you may rise.”"
+    },
+    {
+      "uid": "u0354",
+      "kind": "notes",
+      "text": "Delwath: “He has climbed so you may rise.”"
+    },
+    {
+      "uid": "u0355",
+      "kind": "notes",
+      "text": "DM: That's the exact opposite of how the ladder system works. “You have climbed so I may rise.”"
+    },
+    {
+      "uid": "u0356",
+      "kind": "notes",
+      "text": "%% B0457–B0500 %%"
+    },
+    {
+      "uid": "u0357",
+      "kind": "notes",
+      "text": "Wellby: Wellby goes over to the person sparring and starts to match what they're doing. He watches for a few beats, then mirrors the motions. If they're blocking, he'll kick up to attack, almost dancing with them over and over."
+    },
+    {
+      "uid": "u0358",
+      "kind": "notes",
+      "text": "DM: Make an attack roll."
+    },
+    {
+      "uid": "u0359",
+      "kind": "notes",
+      "text": "Unknown: Twenty-seven."
+    },
+    {
+      "uid": "u0360",
+      "kind": "notes",
+      "text": "Seeker: Wait a minute. Where did that number come from?"
+    },
+    {
+      "uid": "u0361",
+      "kind": "notes",
+      "text": "DM: Did you just make up a number?"
+    },
+    {
+      "uid": "u0362",
+      "kind": "notes",
+      "text": "Unknown: He said it quickly. You didn't notice?"
+    },
+    {
+      "uid": "u0363",
+      "kind": "notes",
+      "text": "DM: No, I didn't notice."
+    },
+    {
+      "uid": "u0364",
+      "kind": "notes",
+      "text": "Delwath: Here, I rolled for you. Forty-seven—wait, zero plus..."
+    },
+    {
+      "uid": "u0365",
+      "kind": "notes",
+      "text": "Unknown: Seventeen, I think."
+    },
+    {
+      "uid": "u0366",
+      "kind": "notes",
+      "text": "Unknown: Thirty-seven."
+    },
+    {
+      "uid": "u0367",
+      "kind": "notes",
+      "text": "Unknown: That was a twenty."
+    },
+    {
+      "uid": "u0368",
+      "kind": "notes",
+      "text": "DM: For an attack roll it's only plus eleven or something."
+    },
+    {
+      "uid": "u0369",
+      "kind": "notes",
+      "text": "Delwath: I rolled a twenty. You gotta add thirty-one."
+    },
+    {
+      "uid": "u0370",
+      "kind": "notes",
+      "text": "Unknown: Just making these rolls up as I go."
+    },
+    {
+      "uid": "u0371",
+      "kind": "notes",
+      "text": "Wellby: You literally just made that up, and no one was going to say anything about it."
+    },
+    {
+      "uid": "u0372",
+      "kind": "notes",
+      "text": "Unknown: It was a good number. You can keep it. You chose well."
+    },
+    {
+      "uid": "u0373",
+      "kind": "notes",
+      "text": "DM: I thought you had rolled before you sat down on the couch or something."
+    },
+    {
+      "uid": "u0374",
+      "kind": "notes",
+      "text": "Unknown: I rolled, yeah."
+    },
+    {
+      "uid": "u0375",
+      "kind": "notes",
+      "text": "Kenzo: No, you didn't."
+    },
+    {
+      "uid": "u0376",
+      "kind": "notes",
+      "text": "%% This exchange is joking table discussion. The conflicting roll numbers have been left alone, as approved. %%"
+    },
+    {
+      "uid": "u0377",
+      "kind": "notes",
+      "text": "%% B0501–B0565 %%"
+    },
+    {
+      "uid": "u0378",
+      "kind": "notes",
+      "text": "DM: You match the monk and begin sparring. With all the monks pantomiming here, you crash through the last barrier with a retinue of monks who solidify into people as you cross into an open monastery."
+    },
+    {
+      "uid": "u0379",
+      "kind": "notes",
+      "text": "DM: It's a cloister with a large open courtyard, a couple hundred feet across, and a small domed building in the center. The cloisters have a shaded extent that comes over. It's sandy in the middle. Monks are sweeping and doing walking-circle meditations. Everything is repetitive and strictly choreographed."
+    },
+    {
+      "uid": "u0380",
+      "kind": "notes",
+      "text": "DM: The monks following you stumble out, look around briefly awed, then quickly resume tasks: sweeping, praying, sparring, making scrolls or writing on paper, and what looks like meal preparation. As the rescued monks continue these activities, they become more solid. At first they're thin, desaturated, almost translucent, still misty."
+    },
+    {
+      "uid": "u0381",
+      "kind": "notes",
+      "text": "Table interruption: Someone asks about hot water; it is being prepared."
+    },
+    {
+      "uid": "u0382",
+      "kind": "notes",
+      "text": "DM: As they repeat these motions, flesh begins to solidify on them."
+    },
+    {
+      "uid": "u0383",
+      "kind": "notes",
+      "text": "Kenzo: It's like Back to the Future."
+    },
+    {
+      "uid": "u0384",
+      "kind": "notes",
+      "text": "DM: None of the monks seem particularly interested in interacting with you."
+    },
+    {
+      "uid": "u0385",
+      "kind": "notes",
+      "text": "Kenzo: Are the ones coming back conscious? Are their souls and consciousness more normal, or are they just automatons?"
+    },
+    {
+      "uid": "u0386",
+      "kind": "notes",
+      "text": "DM: No. In soul sight it feels like fuzz slowly melting away and revealing..."
+    },
+    {
+      "uid": "u0387",
+      "kind": "notes",
+      "text": "Delwath: I wonder if the ones outside are the ones who faded, who Limbo started to take."
+    },
+    {
+      "uid": "u0388",
+      "kind": "notes",
+      "text": "Kenzo: The implication was that the ones we first interacted with were the most fucked up and destroyed. The closer to the monastery, the more ordered they are."
+    },
+    {
+      "uid": "u0389",
+      "kind": "notes",
+      "text": "DM: As they continue these structured behaviors, the Limbo fuzz begins to melt away. It takes time; they're still fuzzy, but becoming less so as they carry out these activities."
+    },
+    {
+      "uid": "u0390",
+      "kind": "notes",
+      "text": "%% B0566–B0615 %%"
+    },
+    {
+      "uid": "u0391",
+      "kind": "notes",
+      "text": "Delwath: Do we see a jade statue?"
+    },
+    {
+      "uid": "u0392",
+      "kind": "notes",
+      "text": "DM: The jade statue is in the building in the middle."
+    },
+    {
+      "uid": "u0393",
+      "kind": "notes",
+      "text": "Delwath: Let's go, carefully avoiding..."
+    },
+    {
+      "uid": "u0394",
+      "kind": "notes",
+      "text": "Seeker: The geometries of the sweeping monks."
+    },
+    {
+      "uid": "u0395",
+      "kind": "notes",
+      "text": "Delwath: Be very careful not to disturb the pattern."
+    },
+    {
+      "uid": "u0396",
+      "kind": "notes",
+      "text": "DM: Right, not to disturb the pattern."
+    },
+    {
+      "uid": "u0397",
+      "kind": "notes",
+      "text": "Kenzo: We all walk synchronized, in lockstep. Actually, we should."
+    },
+    {
+      "uid": "u0398",
+      "kind": "notes",
+      "text": "Delwath: We shall. Like we've never practiced marching before."
+    },
+    {
+      "uid": "u0399",
+      "kind": "notes",
+      "text": "DM: As you approach the central building, the door swings open by itself. Inside is a nearly perfect copy, on a smaller scale, of the Temple of the Eight Divines in Drankor. Except the art has shifted. It's stories Kenzo recognizes, and Seeker did most of the Bhishma initiation too."
+    },
+    {
+      "uid": "u0400",
+      "kind": "notes",
+      "text": "Kenzo: You forgot that. That's right."
+    },
+    {
+      "uid": "u0401",
+      "kind": "notes",
+      "text": "DM: Seeker didn't accept the part about dying and being resurrected. The stories have been replaced with stories from the Bhishma temple: illuminated ceiling illustrations of Bhishma leading the Dunmari in prayer, Jeevali being resurrected, the death and rebirth story from the Festival of Rebirth at the beginning of the campaign."
+    },
+    {
+      "uid": "u0402",
+      "kind": "notes",
+      "text": "Kenzo: In Drankor, this temple was the sanctuary we kept going back to."
+    },
+    {
+      "uid": "u0403",
+      "kind": "notes",
+      "text": "DM: This was where Rai had been for many years. In the middle of the building is a jade statue missing a hand."
+    },
+    {
+      "uid": "u0404",
+      "kind": "notes",
+      "text": "%% B0616–B0677 %%"
+    },
+    {
+      "uid": "u0405",
+      "kind": "notes",
+      "text": "Delwath: Do you think it's Rai?"
+    },
+    {
+      "uid": "u0406",
+      "kind": "notes",
+      "text": "Kenzo: Nah."
+    },
+    {
+      "uid": "u0407",
+      "kind": "notes",
+      "text": "DM: The features look worn, almost eroded. You can't make out details, but immediately hear a voice in your head: “Did Dimataur find you? Or did he send you? What brings you here?”"
+    },
+    {
+      "uid": "u0408",
+      "kind": "notes",
+      "text": "Kenzo: No way. Wow, cool."
+    },
+    {
+      "uid": "u0409",
+      "kind": "notes",
+      "text": "Seeker: We have met Dimataur."
+    },
+    {
+      "uid": "u0410",
+      "kind": "notes",
+      "text": "Unknown: Apollyon's dead."
+    },
+    {
+      "uid": "u0411",
+      "kind": "notes",
+      "text": "Kenzo: Kenzo takes the staff with Rai's hand on it and says, “I think this is yours.” He brings the hand over."
+    },
+    {
+      "uid": "u0412",
+      "kind": "notes",
+      "text": "DM: “I think it makes little difference to me now.”"
+    },
+    {
+      "uid": "u0413",
+      "kind": "notes",
+      "text": "Unknown: Damn it."
+    },
+    {
+      "uid": "u0414",
+      "kind": "notes",
+      "text": "Delwath: He came all this way."
+    },
+    {
+      "uid": "u0415",
+      "kind": "notes",
+      "text": "Unknown: He came all this way to give you a hand."
+    },
+    {
+      "uid": "u0416",
+      "kind": "notes",
+      "text": "Delwath: You don't even want it?"
+    },
+    {
+      "uid": "u0417",
+      "kind": "notes",
+      "text": "DM: We'll just go."
+    },
+    {
+      "uid": "u0418",
+      "kind": "notes",
+      "text": "Delwath: Fine. We struggled for..."
+    },
+    {
+      "uid": "u0419",
+      "kind": "notes",
+      "text": "Wellby: Why little difference?"
+    },
+    {
+      "uid": "u0420",
+      "kind": "notes",
+      "text": "DM: He seems confused for a moment. “Dimataur did not bring my message?”"
+    },
+    {
+      "uid": "u0421",
+      "kind": "notes",
+      "text": "Kenzo: What was the message?"
+    },
+    {
+      "uid": "u0422",
+      "kind": "notes",
+      "text": "Delwath: Are we forgetting a message?"
+    },
+    {
+      "uid": "u0423",
+      "kind": "notes",
+      "text": "DM: No. Dimataur might have forgotten a message."
+    },
+    {
+      "uid": "u0424",
+      "kind": "notes",
+      "text": "Delwath: Dammit, Dimataur."
+    },
+    {
+      "uid": "u0425",
+      "kind": "notes",
+      "text": "Wellby: Have you met Dimataur?"
+    },
+    {
+      "uid": "u0426",
+      "kind": "notes",
+      "text": "Delwath: He's had some adventures."
+    },
+    {
+      "uid": "u0427",
+      "kind": "notes",
+      "text": "Wellby: He got old. It's been thirty years."
+    },
+    {
+      "uid": "u0428",
+      "kind": "notes",
+      "text": "DM: He's doing well now."
+    },
+    {
+      "uid": "u0429",
+      "kind": "notes",
+      "text": "Delwath: He is doing well. We left him in charge?"
+    },
+    {
+      "uid": "u0430",
+      "kind": "notes",
+      "text": "Seeker: In charge of the circular island."
+    },
+    {
+      "uid": "u0431",
+      "kind": "notes",
+      "text": "DM: Too much to discuss."
+    },
+    {
+      "uid": "u0432",
+      "kind": "notes",
+      "text": "Kenzo: What was the message?"
+    },
+    {
+      "uid": "u0433",
+      "kind": "notes",
+      "text": "Wellby: That he was to have delivered?"
+    },
+    {
+      "uid": "u0434",
+      "kind": "notes",
+      "text": "%% B0678–B0714. Rai's account and beliefs, rather than an omniscient explanation of Limbo. %%"
+    },
+    {
+      "uid": "u0435",
+      "kind": "notes",
+      "text": "DM: “When we tried some years ago—a few years only, I think, although time passes strangely here—to close the portal to Limbo...”"
+    },
+    {
+      "uid": "u0436",
+      "kind": "notes",
+      "text": "Kenzo: Thirty."
+    },
+    {
+      "uid": "u0437",
+      "kind": "notes",
+      "text": "DM: “I brought a bunch of Dunmari monks into this place and have done the best I could to keep them from fading.” He stops for a minute. “I see you have brought some back from the edge. I thank you for that."
+    },
+    {
+      "uid": "u0438",
+      "kind": "notes",
+      "text": "DM: “But only a fraction of my effort goes there. Nearby—as far as distances in this place are concerned, which has little actual meaning—there is a focus of stability, a seed of the Material Plane or something that has precipitated an island of order of a kind in this place."
+    },
+    {
+      "uid": "u0439",
+      "kind": "notes",
+      "text": "DM: “The entity controlling that seed has been seeking to drag Limbo and the Material Plane closer and closer together, perhaps intermeshing them entirely. I have been trying to stop that, but we are balanced on a knife edge."
+    },
+    {
+      "uid": "u0440",
+      "kind": "notes",
+      "text": "DM: “I cannot leave here or the monks will die, and I cannot take them from this place. I have no idea what might happen should this entity succeed in their goal, but certainly it would not be good for the Material Plane.”"
+    },
+    {
+      "uid": "u0441",
+      "kind": "notes",
+      "text": "%% B0715–B0755 %%"
+    },
+    {
+      "uid": "u0442",
+      "kind": "notes",
+      "text": "Delwath: Does the entity have the flavor of Cha'mutte?"
+    },
+    {
+      "uid": "u0443",
+      "kind": "notes",
+      "text": "DM: No. This thing is far, far older than Cha'mutte."
+    },
+    {
+      "uid": "u0444",
+      "kind": "notes",
+      "text": "Kenzo: What do you know of it?"
+    },
+    {
+      "uid": "u0445",
+      "kind": "notes",
+      "text": "Delwath: I thought Cha'mutte predated time."
+    },
+    {
+      "uid": "u0446",
+      "kind": "notes",
+      "text": "DM: Yeah."
+    },
+    {
+      "uid": "u0447",
+      "kind": "notes",
+      "text": "Unknown: There is a wound at Isingue."
+    },
+    {
+      "uid": "u0448",
+      "kind": "notes",
+      "text": "DM: “Yes, I know. That is what I went to close. I realize now it was not a portal; it was something more complicated.”"
+    },
+    {
+      "uid": "u0449",
+      "kind": "notes",
+      "text": "Seeker: We've come to believe it's a vortex."
+    },
+    {
+      "uid": "u0450",
+      "kind": "notes",
+      "text": "DM: “It makes sense. Is that why you're here?”"
+    },
+    {
+      "uid": "u0451",
+      "kind": "notes",
+      "text": "Kenzo: Indeed."
+    },
+    {
+      "uid": "u0452",
+      "kind": "notes",
+      "text": "Seeker: We've read that the way to heal it is from this side, not the other. We'll have to draw the Limbo activity away from..."
+    },
+    {
+      "uid": "u0453",
+      "kind": "notes",
+      "text": "Unknown: With a piece of order."
+    },
+    {
+      "uid": "u0454",
+      "kind": "notes",
+      "text": "DM: “Yes, of course. That is what I told Dimataur. Some powerful Dunmari sorcerer, if he could find one. Although only one of you looks Dunmari.” He looks at you. “You do not appear to be a sorcerer.”"
+    },
+    {
+      "uid": "u0455",
+      "kind": "notes",
+      "text": "Unknown: I'm not."
+    },
+    {
+      "uid": "u0456",
+      "kind": "notes",
+      "text": "DM: “It should not matter so much as long as one of you is... Well, it may be a challenge, actually. I believe this fragment of stability is some kind of hyper-dense series of runes that must be read in precisely the right order. Unfortunately, my eyes no longer work.”"
+    },
+    {
+      "uid": "u0457",
+      "kind": "notes",
+      "text": "Unknown: Well, that's good news. I love the runes."
+    },
+    {
+      "uid": "u0458",
+      "kind": "notes",
+      "text": "%% B0756–B0793 %%"
+    },
+    {
+      "uid": "u0459",
+      "kind": "notes",
+      "text": "Kenzo: He's good with the runes. What do you know of this entity?"
+    },
+    {
+      "uid": "u0460",
+      "kind": "notes",
+      "text": "Unknown: What can you tell us?"
+    },
+    {
+      "uid": "u0461",
+      "kind": "notes",
+      "text": "DM: “I believe they are born of this plane, perhaps one of its original inhabitants, somehow captured and grown strong by the influence of this fragment of the Material Plane that has seeded a vector of stability.”"
+    },
+    {
+      "uid": "u0462",
+      "kind": "notes",
+      "text": "Unknown: Is it the Orchard Keeper?"
+    },
+    {
+      "uid": "u0463",
+      "kind": "notes",
+      "text": "DM: No. The Orchard Keeper is something different."
+    },
+    {
+      "uid": "u0464",
+      "kind": "notes",
+      "text": "Delwath: We could have taken the Orchard Keeper... [Unclear unfinished thought.]"
+    },
+    {
+      "uid": "u0465",
+      "kind": "notes",
+      "text": "DM: Your inference was that the Orchard Keeper came from somewhere totally alien, not from Limbo."
+    },
+    {
+      "uid": "u0466",
+      "kind": "notes",
+      "text": "Delwath: We need to go to this place, take this piece of order, bring it to the rift, and use it to..."
+    },
+    {
+      "uid": "u0467",
+      "kind": "notes",
+      "text": "Kenzo: Pull it back."
+    },
+    {
+      "uid": "u0468",
+      "kind": "notes",
+      "text": "Unknown: Easy enough."
+    },
+    {
+      "uid": "u0469",
+      "kind": "notes",
+      "text": "Delwath: What could go wrong?"
+    },
+    {
+      "uid": "u0470",
+      "kind": "notes",
+      "text": "Table discussion: It's only an original inhabitant of Limbo."
+    },
+    {
+      "uid": "u0471",
+      "kind": "notes",
+      "text": "%% B0794–B0813 %%"
+    },
+    {
+      "uid": "u0472",
+      "kind": "notes",
+      "text": "Kenzo: How do we find this piece of stability and order?"
+    },
+    {
+      "uid": "u0473",
+      "kind": "notes",
+      "text": "DM: “That is not hard. I can guide you easily enough.”"
+    },
+    {
+      "uid": "u0474",
+      "kind": "notes",
+      "text": "Kenzo: Once we're there?"
+    },
+    {
+      "uid": "u0475",
+      "kind": "notes",
+      "text": "DM: “Then you'll be on your own. This is why I told Dimataur I needed help. One alone can do little when I have two impossible tasks to achieve.”"
+    },
+    {
+      "uid": "u0476",
+      "kind": "notes",
+      "text": "Seeker: What are the two tasks?"
+    },
+    {
+      "uid": "u0477",
+      "kind": "notes",
+      "text": "Kenzo: Keeping the monks alive."
+    },
+    {
+      "uid": "u0478",
+      "kind": "notes",
+      "text": "Delwath: Closing the rift."
+    },
+    {
+      "uid": "u0479",
+      "kind": "notes",
+      "text": "DM: “Keeping the monks alive and closing the rift. Both require my full attention.”"
+    },
+    {
+      "uid": "u0480",
+      "kind": "notes",
+      "text": "Kenzo: Once we engage with the entity, do you have guidance or advice?"
+    },
+    {
+      "uid": "u0481",
+      "kind": "notes",
+      "text": "%% B0814–B0848. This explanation is explicitly Rai's observation and belief. %%"
+    },
+    {
+      "uid": "u0482",
+      "kind": "notes",
+      "text": "DM: “All I can tell you is this: I have observed the nature of life here, such as it is. There are things that live in Limbo, but they are so unstable and changeable that, even as they grow larger and more powerful, they turn into great weather fronts that travel across the land but have no will or purpose behind them."
+    },
+    {
+      "uid": "u0483",
+      "kind": "notes",
+      "text": "DM: “Or rather, their will and purpose change from moment to moment such that they can never accomplish anything. Eventually they grow so big that they fragment into tiny motes of possibility that grow."
+    },
+    {
+      "uid": "u0484",
+      "kind": "notes",
+      "text": "DM: “Sometimes you see what look like beasts moving through the landscape, several of these filaments grown together. Eventually they merge and grow into bigger and bigger loci of chaos."
+    },
+    {
+      "uid": "u0485",
+      "kind": "notes",
+      "text": "DM: “My belief is that this creature is what happens when one of these great chaos storms passes over a locus of stability and gains a fixed purpose and the ability to control its form.”"
+    },
+    {
+      "uid": "u0486",
+      "kind": "notes",
+      "text": "Delwath: The locus of stability itself is what we need, right?"
+    },
+    {
+      "uid": "u0487",
+      "kind": "notes",
+      "text": "DM: Yes."
+    },
+    {
+      "uid": "u0488",
+      "kind": "notes",
+      "text": "Delwath: That's what the runes are written on, you think?"
+    },
+    {
+      "uid": "u0489",
+      "kind": "notes",
+      "text": "DM: Yes."
+    },
+    {
+      "uid": "u0490",
+      "kind": "notes",
+      "text": "Delwath: We don't actually have to kill the creature."
+    },
+    {
+      "uid": "u0491",
+      "kind": "notes",
+      "text": "DM: No."
+    },
+    {
+      "uid": "u0492",
+      "kind": "notes",
+      "text": "Delwath: We might end up having to kill it, but in theory..."
+    },
+    {
+      "uid": "u0493",
+      "kind": "notes",
+      "text": "%% B0849–B0880 %%"
+    },
+    {
+      "uid": "u0494",
+      "kind": "notes",
+      "text": "Kenzo: The statue is speaking in our minds? It hasn't moved at all?"
+    },
+    {
+      "uid": "u0495",
+      "kind": "notes",
+      "text": "DM: It has not moved at all."
+    },
+    {
+      "uid": "u0496",
+      "kind": "notes",
+      "text": "Seeker: It is solid jade."
+    },
+    {
+      "uid": "u0497",
+      "kind": "notes",
+      "text": "Kenzo: Kenzo approaches the statue. “Rai, I know you don't know me, but I've carried a piece of your hand with me since I was a small child. My parents found a piece of you in the deserts, and we have, over these past many years...”"
+    },
+    {
+      "uid": "u0498",
+      "kind": "notes",
+      "text": "DM: “I have seen you in dreams, yes.”"
+    },
+    {
+      "uid": "u0499",
+      "kind": "notes",
+      "text": "Kenzo: You have? That's good to know."
+    },
+    {
+      "uid": "u0500",
+      "kind": "notes",
+      "text": "DM: “Some of my dreams, I believe.”"
+    },
+    {
+      "uid": "u0501",
+      "kind": "notes",
+      "text": "Kenzo: You've seen me in your dreams? I've seen a lot of your dreams."
+    },
+    {
+      "uid": "u0502",
+      "kind": "notes",
+      "text": "DM: “I've seen you in those dreams, yes.”"
+    },
+    {
+      "uid": "u0503",
+      "kind": "notes",
+      "text": "Kenzo: Wow. Didn't know it worked that way. “In any case, it has been quite a lot of effort collecting these fragments, and they've been a big part of how we've been able to get here. As you can imagine, it's not been straightforward to find you here in Limbo. Even if it may not be as useful as you'd like now, it feels right to give this back to you.”"
+    },
+    {
+      "uid": "u0504",
+      "kind": "notes",
+      "text": "%% B0881–B0905 %%"
+    },
+    {
+      "uid": "u0505",
+      "kind": "notes",
+      "text": "DM: “I appreciate that.”"
+    },
+    {
+      "uid": "u0506",
+      "kind": "notes",
+      "text": "Kenzo: Kenzo goes, “Ergy, ergy, ergy,” unscrewing the jade hand from the top of his staff. He goes over respectfully and humbly and puts the hand back onto Rai's stump."
+    },
+    {
+      "uid": "u0507",
+      "kind": "notes",
+      "text": "DM: It fuses there. There's a brief, relaxed sigh in your mind. Most of the rest of the statue is quite worn, like an ancient statue eroded and weathered in places. It wasn't that noticeable, but in contrast to the new hand it's very clear."
+    },
+    {
+      "uid": "u0508",
+      "kind": "notes",
+      "text": "DM: You get a sense through your mind that this is nice. The effort of sustaining this for thirty years—even if it hasn't been thirty years here—is non-trivial. There's some relief as you attach the hand. This helps."
+    },
+    {
+      "uid": "u0509",
+      "kind": "notes",
+      "text": "%% B0906–B0936 %%"
+    },
+    {
+      "uid": "u0510",
+      "kind": "notes",
+      "text": "Delwath: What preparations can we make to go to this place?"
+    },
+    {
+      "uid": "u0511",
+      "kind": "notes",
+      "text": "DM: “It is not far. I have relied on the relic of stability myself to keep this place.”"
+    },
+    {
+      "uid": "u0512",
+      "kind": "notes",
+      "text": "Delwath: Is it fixed in form, or are we likely to encounter changes like in the rest of Limbo?"
+    },
+    {
+      "uid": "u0513",
+      "kind": "notes",
+      "text": "DM: “It is within the domain of the order of this relic. That does not mean the entity ruling there cannot change things at whim.”"
+    },
+    {
+      "uid": "u0514",
+      "kind": "notes",
+      "text": "Delwath: That's what I was getting at. Should we anticipate dangers from the entity shifting the ground underneath us?"
+    },
+    {
+      "uid": "u0515",
+      "kind": "notes",
+      "text": "DM: “I would expect great danger, yes. I am sure they do not wish to sacrifice this relic, and they seem especially interested in bringing Limbo and the Material Plane closer."
+    },
+    {
+      "uid": "u0516",
+      "kind": "notes",
+      "text": "DM: “There have been moments when things have shifted and I've had to push back. Some of my charges have been lost over time in those moments when my concentration foundered slightly. That is why, when I could, I asked for help. I don't know how much longer I can sustain this.”"
+    },
+    {
+      "uid": "u0517",
+      "kind": "notes",
+      "text": "%% B0937–B0980. Table reactions and future possibilities; these are not additional completed in-world events. %%"
+    },
+    {
+      "uid": "u0518",
+      "kind": "notes",
+      "text": "Kenzo: Tim, could we take a little break? We've got a discussion going here."
+    },
+    {
+      "uid": "u0519",
+      "kind": "notes",
+      "text": "DM: This is a great time."
+    },
+    {
+      "uid": "u0520",
+      "kind": "notes",
+      "text": "Unattributed table reaction: It was nice to do the recap; it felt like a long session because a lot happened. There was a great pace and tone."
+    },
+    {
+      "uid": "u0521",
+      "kind": "notes",
+      "text": "Seeker: The Limbo mechanic is really cool."
+    },
+    {
+      "uid": "u0522",
+      "kind": "notes",
+      "text": "Kenzo: Limbo's the best, man."
+    },
+    {
+      "uid": "u0523",
+      "kind": "notes",
+      "text": "DM: Should let them win. Let Limbo leak into the Material Plane and turn everything into..."
+    },
+    {
+      "uid": "u0524",
+      "kind": "notes",
+      "text": "Kenzo: I can't wait for Kenzo to become an apprentice to the Orchard Keeper. That's going to be great."
+    },
+    {
+      "uid": "u0525",
+      "kind": "notes",
+      "text": "Delwath: He's so stoked for that."
+    },
+    {
+      "uid": "u0526",
+      "kind": "notes",
+      "text": "Unknown: That fruit would do really well in the Chardon markets too."
+    },
+    {
+      "uid": "u0527",
+      "kind": "notes",
+      "text": "Delwath: We'll have the ambassador, then become the merchants. We can start the halfling trade, exporting interdimensional fruit."
+    },
+    {
+      "uid": "u0528",
+      "kind": "notes",
+      "text": "Unknown: Interdimensional trade."
+    },
+    {
+      "uid": "u0529",
+      "kind": "notes",
+      "text": "Kenzo: We can sell chaos fruits."
+    },
+    {
+      "uid": "u0530",
+      "kind": "notes",
+      "text": "Seeker: It's all branding. Chaos."
+    },
+    {
+      "uid": "u0531",
+      "kind": "notes",
+      "text": "Unknown: It's not Limbo. It's not [uncertain: Hypria]. It's just magic."
+    },
+    {
+      "uid": "u0532",
+      "kind": "notes",
+      "text": "DM: Why don't we take a break for an hour and a half? Do you want to go eat some food?"
+    },
+    {
+      "uid": "u0533",
+      "kind": "notes",
+      "text": "Kenzo: I do."
+    },
+    {
+      "uid": "u0534",
+      "kind": "notes",
+      "text": "%% End of combined source. Session-note preparation will handle cleanup, chronology, and overlapping accounts. %%"
+    }
+  ],
+  "supplementalSources": [],
+  "notes": [
+    "The standard normalizer ran, then its output was narrowly repaired using the prepared source: all 534 prepared units, their IDs, exact text, and order are preserved. Only the normalized | notes header suffix was added.",
+    "All 44 guidance/provenance comments remain intact. Existing transcript uncertainty markers, raw-note spelling, and unresolved naming differences remain unchanged.",
+    "The four source segments remain in source order. The audio recap and parts of transcript 2 overlap the written notes and must not be treated as repeated events.",
+    "No source units were omitted or moved to supplemental material. De-duplicate events during beat annotation and summary while retaining source coverage.",
+    "Unknown remains an unattributed contribution rather than one speaker identity. Transcript wording is not verified quotation.",
+    "The recording gap has unknown duration. Rai's explanation is his account and belief; ending table discussion describes future possibilities, not completed events."
+  ],
+  "preparedSourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-source-prepared.md",
+  "preparedSourceSha256": "7befd1de568fbed96fc9aae66bc48398df7db66d78df9f0aaf00e98a4fd083cb"
+}
