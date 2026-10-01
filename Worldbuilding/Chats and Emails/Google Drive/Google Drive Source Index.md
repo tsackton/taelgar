@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Google Drive Source Index
 
 Source: Google Drive folder ID 1ctIzZOn0j5ktytrVEGvTaQDhzYzwa3HK
@@ -20,13 +17,13 @@ This index tracks the direct contents of the source folder. **Complete** means a
 | Timeline | `1Si5iGuy14u3T1cixKqNDRkBt_ttHAwc2eAXo0tXanwk` | Complete | [[GDrive - Timeline - Final Text and Comments]] |
 | Elder Days Notes | `1popahgeC9qBzKzUwrfGGqERvluuojCWGxa_g_nYdS1g` | Pending | — |
 | Northern Folk Religions | `1dRVEq1Mgk-AMf0byJtrNmOirgSSECSox78WESmwE8VA` | Pending | — |
-| Humanity in Taelgar | `1oznSiu5APRNfehZTYZIwdFpQWIN-E_SnilswTg1f_Ho` | Legacy copy; full export pending | [[GDrive - Humanity in Taelgar]] |
+| Humanity in Taelgar | `1oznSiu5APRNfehZTYZIwdFpQWIN-E_SnilswTg1f_Ho` | Complete | [[GDrive - Humanity in Taelgar - Final Text and Comments]] |
 | The Feywild | `1QMwN38-d-VG2OaFWq07A6hh5ui6yX5mcRnxzt7yVa1o` | Pending | — |
 | Halflings | `1E1cGZ9FET9soBgrpOrLXcJXoScrAo46D5jsUMVITN2Y` | Pending | — |
 | Dunmar Player Guide | `1RrwES0HGoVr6a1bti_P12PV0257wWcFH_9A058maa1o` | Pending | — |
 | The Eight Divines | `1i-kMpFwnnbr4b4Huwe-SOOO-R4ziDosNcvf7c7qBKQ0` | Complete | [[GDrive - Eight Divines - Final Text and Comments]] |
 | Calendars | `1-EphcMipvNcRpSxjo7adItLR76f8SHN379J9CLn6TjI` | Complete | [[GDrive - Calendars - Final Text and Comments]] |
-| The Divine Order | `1lXvZcuZZhv9DriPABcfw6EMVS7JQXqQmX9JlPvUWR_k` | Legacy copy; full export pending | [[GDrive - The Divine Order]] |
+| The Divine Order | `1lXvZcuZZhv9DriPABcfw6EMVS7JQXqQmX9JlPvUWR_k` | Complete | [[GDrive - The Divine Order - Final Text and Comments]] |
 | Dwarven Kingdoms | `1JU-I9xorCDf4oAUZAeG1dQHeSjzDFzi4Ii3jsP5ESTc` | Pending | — |
 | Taelgar Species Brainstorming | `1JDgJaJ5c6tO0w7dYna1OBYOV4Z3UECZoWAKbQqU2cnA` | Complete | [[GDrive - Taelgar Species Brainstorming - Final Text and Comments]] |
 | The Kestavo (old) | `1EAgsTZEaJ8pngXB9a7vBBr4d0uoJhab0ArUBHPAXIYc` | Pending | — |

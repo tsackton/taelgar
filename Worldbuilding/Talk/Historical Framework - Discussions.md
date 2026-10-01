@@ -2,9 +2,9 @@ This page captures some of the reasoning behind decisions in the [[Historical Fr
 
 The primary chat that clarified a lot of this is [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-25 - Deep History]]. Some additional information is found in:
 
-* [[GDrive - History of Taelgar]]
-* [[GDrive - The Divine Order]]
-* [[GDrive - Humanity in Taelgar]]
+* [[GDrive - History of Taelgar - Final Text and Comments]]
+* [[GDrive - The Divine Order - Final Text and Comments]]
+* [[GDrive - Humanity in Taelgar - Final Text and Comments]]
 * [[2024-07-15 - Deep History]]; [[2024-07-16 - Deep History]]; [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-25 - Deep History]]
 * [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]* 
 * [[2024-07-12 - Languages and Humanity]]; [[2024-07-13 - Languages and Humanity]]; [[2024-07-14 - Languages and Humanity]]; [[2024-07-15 - Languages and Humanity]] 

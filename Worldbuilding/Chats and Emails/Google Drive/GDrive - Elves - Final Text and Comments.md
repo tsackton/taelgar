@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Elves: Final Text and Comments
 
 Source: Google Drive document ID 1im8tKJKZSgZuoH-AaJoCvuEz9LIooBeP1jCfYmvha1M
