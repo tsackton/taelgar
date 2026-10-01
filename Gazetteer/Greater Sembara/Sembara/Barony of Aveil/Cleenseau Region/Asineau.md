@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 name: Asineau
 typeOf: settlement
 typeOfAlias: fishing village
@@ -20,6 +20,12 @@ dm_owner: mike
 ![[asineau-image-2.png|right|320]]![[asineau-docks.jpg|right|320]]A manorial fishing village on the banks of the Enst, two miles downriver of [[Auloutte]]. The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing rafts can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to [[Beury]] if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [[Ganboa]] when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
 
 An ancient, magically preserved stone road passes the manor house. Four wells supplement the river as water sources. West of the docks, the bank is marshy and rocky; cliffs rise east of the beach. During the spring shad runs, drying racks for fish crowd the beach and the cliff top west of the harbor.
+
+The hill by the mill stands about 25 feet above the village. Its north side is lower, with a gentler slope along the road. The cliffs along the riverbank range from about 5 to 15 feet high.
+
+%% Sources:
+- [[Asineau Wall and Tactical Considerations (Email)]]
+%%
 
 ![[Asineau - emailed map.jpg|800]]
 

@@ -1,0 +1,7 @@
+# Asineau Wall and Tactical Considerations (Email)
+
+Selected terrain clarification and agreed construction plan from the October 15–20, 2025 correspondence. Plans and projected costs are not evidence that the entire wall was finished. The attached [[Asineau - wall diagram.png]] is a reference illustration of wall types, not a survey of Asineau.
+
+Mike Sackton confirmed that the mill stands on a hill about 25 feet above the village, lower on its north side, with a gentler road slope. The riverbank cliffs range from about 5 to 15 feet high. He identified an intermittently used quarry across the Enst from Cleenseau controlled by Rosalind, dwindling salvage from ruined villages east of Beury, and expensive imports from the Rinburg area as sources of stone. [[Cleenseau Region]] already describes the quarry and salvage.
+
+After further discussion, Dan Walters circulated a plan on October 20 for a wooden earth-filled wall modeled on type 6 in the attached illustration, with possible later reinforcement by Izgil's magic. The plan prioritized filling roughly fifteen gaps in the existing defenses, then upgrading roughly twenty-five sections of existing wall, then adding roughly twenty-three sections along the river with a gate. Dan estimated about 63 days and 376 gp under assumptions about available labor, timber, Goodberries, healing, and Izgil's help. Those were planning estimates. A proposed future fortification of the mill hill was not approved as built work in this thread.

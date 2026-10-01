@@ -59,6 +59,12 @@ Kiya described these as things the party would likely have noticed by spring 172
 
 %% Kiya Nicoll's March 30, 2024 email, subject "[Thantos] Random Celyn Things," supplied this list as roleplaying detail the party would have noticed. %%
 
+He marks his birthday by the appearance of spring crocuses rather than a fixed calendar date.
+
+%% Sources:
+- [[Cleenseau What's Next (Email)]]
+%%
+
 >[!Info]- Additional Context (Dan's Eyes Only)
 > Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [[The Wyrdling]].
 

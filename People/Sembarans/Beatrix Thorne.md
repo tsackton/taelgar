@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Béatrix Thorne
 born: 1696
 species: human
@@ -26,3 +26,7 @@ dm_owner: mike
 ![[beatrix.png|right|320]]A solider in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the [[Heroes of Cleenseau]] into the [[Cleenseau Wood]] following a trail of spiders. 
 
 After her recent marriage to [[Gabriel Thorne]], she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]].
+
+Her father-in-law is the chief yeoman of [[Auloutte]].
+
+%% Mike Sackton's August 3, 2026 email, subject "Re: [Thantos] Heir to House Griffin," supplied this correction. %%
