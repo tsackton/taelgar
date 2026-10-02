@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # taelgar races
 
 ## Tim Sackton — June 27, 2019, 10:28 PM

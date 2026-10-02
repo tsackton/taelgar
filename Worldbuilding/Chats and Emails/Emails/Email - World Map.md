@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # world map
 
 ## Mike Sackton — January 26, 2021 at 7:46 PM

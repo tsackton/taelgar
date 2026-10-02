@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Taelgar (Dwarven Druid)
 
 ## Mike Sackton — August 22, 2022 at 12:53 PM

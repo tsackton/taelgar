@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # other sembara thoughts
 
 ## Mike Sackton — January 12, 2021 at 8:47 PM

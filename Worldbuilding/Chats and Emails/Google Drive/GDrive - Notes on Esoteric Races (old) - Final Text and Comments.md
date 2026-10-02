@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Notes on Esoteric Races (old): Final Text and Comments
 
 Source: Google Drive document ID 1JR_xwNXgvupmXcCT_RJbMJ4xD5EDEFwoom8C8IkRR2c

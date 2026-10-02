@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Kestavo
 
 ## Mike Sackton — January 30, 2021 at 1:49 PM

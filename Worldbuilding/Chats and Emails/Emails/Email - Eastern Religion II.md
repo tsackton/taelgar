@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Eastern Religion
 
 ## Mike Sackton — July 21, 2023 at 12:01 PM

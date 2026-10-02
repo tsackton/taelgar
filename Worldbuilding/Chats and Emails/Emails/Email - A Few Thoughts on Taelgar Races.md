@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # A few other thoughts on Taelgar races
 
 ## Mike Sackton — August 15, 2023 at 8:32 PM

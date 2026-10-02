@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # names
 
 ## Mike Sackton — January 21, 2021 at 10:51 PM

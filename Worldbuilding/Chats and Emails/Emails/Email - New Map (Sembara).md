@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # new map
 
 ## Tim Sackton — January 11, 2021 at 4:30 PM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # quick thoughts on magic in Sembara
 
 ## Mike Sackton — February 10, 2021 at 5:54 PM

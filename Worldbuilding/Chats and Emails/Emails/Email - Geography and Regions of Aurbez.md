@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Geography/Regions of Ardonne/Aurbez
 
 ## Mike Sackton — August 1, 2022 at 3:25 PM

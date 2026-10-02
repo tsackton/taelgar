@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Basic idea in maps
 
 ## Tim Sackton — January 27, 2021 at 10:55 PM

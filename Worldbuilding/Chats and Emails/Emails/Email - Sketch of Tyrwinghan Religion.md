@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # sketch of tyrwingha religion
 
 ## Mike Sackton — January 7, 2023 at 10:40 AM

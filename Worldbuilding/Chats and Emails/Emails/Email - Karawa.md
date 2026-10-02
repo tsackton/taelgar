@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Karawa
 
 ## Tim Sackton — May 28, 2020 at 7:03 PM

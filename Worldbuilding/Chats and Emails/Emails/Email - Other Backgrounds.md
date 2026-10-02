@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # other backgrounds
 
 ## Tim Sackton — January 1, 2023 at 10:17 PM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Irrla
 
 ## Tim Sackton to Mike Sackton — July 19, 2023 at 9:52 PM

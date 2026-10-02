@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # climate map
 
 ## Tim Sackton — February 10, 2021 at 1:16 PM

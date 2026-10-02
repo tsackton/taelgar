@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Malach Background
 
 ## Mike Sackton — May 19, 2024 at 9:16 PM

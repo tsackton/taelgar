@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Some Thoughts on Elves
 
 ## Mike Sackton — August 15, 2023 at 8:14 PM

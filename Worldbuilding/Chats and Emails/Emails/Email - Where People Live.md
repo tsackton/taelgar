@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # where people live
 
 ## Mike Sackton — February 4, 2021 at 5:43 PM

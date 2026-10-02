@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # map thoughts
 
 ## Mike Sackton — February 10, 2021 at 7:57 PM

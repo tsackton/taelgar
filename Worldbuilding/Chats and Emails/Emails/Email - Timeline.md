@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # timeline
 
 ## Mike Sackton — August 13, 2021 at 4:43 PM

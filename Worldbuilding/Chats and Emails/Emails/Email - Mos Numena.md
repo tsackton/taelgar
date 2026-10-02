@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Mos Numera
 
 ## Mike Sackton — January 24, 2021 at 11:01 AM

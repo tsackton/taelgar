@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Basic Villain for Last Inn
 
 ## Mike Sackton — August 9, 2022 at 6:30 PM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Taelgar background
 
 ## Mike Sackton — July 31, 2022 at 12:31 PM

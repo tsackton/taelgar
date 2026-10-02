@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Elven Politics
 
 ## Tim Sackton — August 7, 2023 at 10:56 AM

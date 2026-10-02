@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # The Kestavo (old): Final Text and Comments
 
 Source: Google Drive document ID 1EAgsTZEaJ8pngXB9a7vBBr4d0uoJhab0ArUBHPAXIYc

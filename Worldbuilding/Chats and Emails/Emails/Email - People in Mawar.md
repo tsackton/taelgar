@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # people in Mawar
 
 ## Mike Sackton — August 17, 2021 at 9:41 AM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Dwarven Kingdoms: Final Text and Comments
 
 Source: Google Drive document ID 1JU-I9xorCDf4oAUZAeG1dQHeSjzDFzi4Ii3jsP5ESTc

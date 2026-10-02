@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-01-22 - Homes of Incorporeal Gods
 
 *[Editorial note: Cut 3 messages about vault workflow, page organization, and writing-style plans.]*

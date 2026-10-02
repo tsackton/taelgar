@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Tyrwingha religion
 
 ## Kiya Nicoll — January 4, 2023 at 9:23 PM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Eight Memories of Drankor
 
 ## Tim Sackton — November 6, 2022 at 5:09 PM

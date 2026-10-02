@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # map
 
 ## Mike Sackton — January 29, 2021 at 7:59 PM

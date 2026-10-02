@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Sembara geographic tweaks
 
 ## Mike Sackton — January 21, 2021 at 9:03 PM

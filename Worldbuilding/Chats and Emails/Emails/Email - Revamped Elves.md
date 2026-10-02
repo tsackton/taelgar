@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # revamped elves
 
 ## Tim Sackton — June 24, 2021 at 12:48 PM

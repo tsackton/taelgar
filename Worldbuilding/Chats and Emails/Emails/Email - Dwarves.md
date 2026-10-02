@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # dwarves
 
 ## Tim Sackton — November 10, 2019 at 4:26 PM

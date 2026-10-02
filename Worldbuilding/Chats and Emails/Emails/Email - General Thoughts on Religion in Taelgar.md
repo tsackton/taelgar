@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # General thoughts on religion in Taelgar
 
 ## Mike Sackton — February 3, 2021 at 7:31 PM

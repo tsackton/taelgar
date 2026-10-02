@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Dunmar Player Guide: Final Text and Comments
 
 Source: Google Drive document ID 1RrwES0HGoVr6a1bti_P12PV0257wWcFH_9A058maa1o

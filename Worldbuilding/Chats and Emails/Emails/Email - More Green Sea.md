@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # More Green Sea
 
 ## Mike Sackton — July 17, 2023 at 10:31 PM

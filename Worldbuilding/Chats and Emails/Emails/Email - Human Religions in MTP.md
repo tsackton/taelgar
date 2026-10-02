@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Human Religions in the East - MTP Specifically
 
 ## Mike Sackton — July 19, 2023 at 9:07 PM

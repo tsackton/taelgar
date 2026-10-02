@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Sembara
 
 ## Tim Sackton — January 10, 2021 at 3:36 PM

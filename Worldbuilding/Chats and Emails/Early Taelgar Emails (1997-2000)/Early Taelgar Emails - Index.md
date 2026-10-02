@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Early Taelgar emails, 1997–2000
 
 The archive contains 423 messages arranged by their recorded dates. These emails preserve discussions from their time; they do not establish current Taelgar canon.

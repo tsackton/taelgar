@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Refounded Alliance of Aurbez
 
 ## Mike Sackton — September 5, 2022 at 9:10 PM

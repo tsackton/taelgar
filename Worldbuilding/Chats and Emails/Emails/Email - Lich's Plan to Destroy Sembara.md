@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Lich's Plan to Destroy Sembara
 
 ## Mike Sackton — February 8, 2024 at 5:12 PM

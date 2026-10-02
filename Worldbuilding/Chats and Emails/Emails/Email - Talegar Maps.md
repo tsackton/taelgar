@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Talegar Maps
 
 ## Mike Sackton — July 17, 2023 at 9:00 PM
