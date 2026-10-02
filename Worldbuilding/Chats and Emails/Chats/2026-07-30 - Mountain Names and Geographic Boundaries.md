@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-07-30 - Mountain Names and Geographic Boundaries
 
 [2026-07-30 03:39 PM] rsulfuratus: working on names for Cymean Border Mountains. vibe is misty, craggy limestone, lots of magically difficult passages from orenlas border magic, limestone/caves/dead end canyons.

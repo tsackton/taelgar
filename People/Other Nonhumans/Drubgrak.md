@@ -7,7 +7,7 @@ knownTo: [clee]
 ---
 # Drubgrak
 
-Drubgrak is a winged kobold and Vikka's sister. She led the kobolds who wanted to escape [[Krauzeth]], surrendered to the party near [[Marwick]], and helped arrange the ambush that killed him.
+Drubgrak is a winged kobold and [[Vikka|Vikka's]] sister. She led the kobolds who wanted to escape [[Krauzeth]], surrendered to the party near [[Marwick]], and helped arrange the ambush that killed him.
 
 %% Sources:
 - [[Dragon Arc - Details]]

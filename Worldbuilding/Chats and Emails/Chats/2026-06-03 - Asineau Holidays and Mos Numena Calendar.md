@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-06-03 - Asineau Holidays and Mos Numena Calendar
 
 [2026-06-03 06:30 PM] Deciusmus: more on holidays... Here is my current list of Asineau holidays...
