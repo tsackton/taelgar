@@ -1,0 +1,53 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Into the Ooze",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The party assesses the corrupted cistern and launches its opening assault. This scene ends with Delwath fighting in his own form and Seeker diving inside as a leviathan, establishing the two fronts of the battle."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Reaching the Crystal Heart",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "Seeker works through the changing ooze while the others struggle with engulfment, restraint, and escape. Reaching the core and discovering its immunity to everything but thunder completes this phase and changes the problem the party must solve."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "On the Brink",
+      "beatIds": [
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "The party tries to turn that discovery into victory: Delwath uses Scatter and a critical smite, while Seeker attempts to reshape the core. These efforts leave the core intact; Wellby is nearly defeated, Kenzo relies on his restoration, and Delwath falls unconscious."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Shattering the Heart",
+      "beatIds": [
+        "beat-010",
+        "beat-011",
+        "beat-012"
+      ],
+      "rationale": "The ooze sheds its mass into minions and exposes the core, beginning the final phase. The party revives fallen allies, cracks the sphere with thunder, and turns it to glass before shattering it; the implosion and Ladder’s rescue complete the battle."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Heartroot Returns",
+      "beatIds": [
+        "beat-013"
+      ],
+      "rationale": "After the battle, the objective shifts to recovery and restoration. The brief visit to Aurbez, return of the Heartroot, and ensuing weeks of rebuilding form the closing montage, ending aboard Vindristjarna. October 6 remains the tentative endpoint pending epilogue review."
+    }
+  ]
+}

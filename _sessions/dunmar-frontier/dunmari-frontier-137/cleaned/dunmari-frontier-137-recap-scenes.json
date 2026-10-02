@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Table Discussion and Preparation",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "One out-of-game opening block covers play preferences, shared worldbuilding, and character preparation; keeping it separate prevents these conversations from becoming adventure events."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Leaving Orenlas",
+      "beatIds": [
+        "beat-005"
+      ],
+      "rationale": "Aboard Vindristjarna, the party establishes its remaining mission, learns that the threat is growing, and chooses a faster approach while Faldrak follows with the ship."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Scouting the Ash Storm",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "Arrival establishes a new situation at the storm perimeter: the party remotely scouts the city and tests the ash to learn how it can enter safely."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "A Dragon in the Ruins",
+      "beatIds": [
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "Planning, carrying out, and returning from the sample-collection expedition form one objective with Wellby and Kenzo as the active scouting pair."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Mirror and the Feast",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "Back together outside the storm, the party studies the sample, chooses the river target, and prepares its camp and feast for the attack; this closes the first day."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Battle at the River",
+      "beatIds": [
+        "beat-012",
+        "beat-013",
+        "beat-014",
+        "beat-015",
+        "beat-016",
+        "beat-017"
+      ],
+      "rationale": "The next morning's approach and all five combat phases belong to the same objective: confronting the river concentration and severing its connection to the central ooze."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "The Collapsed Plaza",
+      "beatIds": [
+        "beat-018",
+        "beat-019"
+      ],
+      "rationale": "Rumbling after the river victory drives recovery and pursuit toward the well, ending with the collapsed plaza and the newly exposed central mass; the next fight has not begun."
+    }
+  ]
+}

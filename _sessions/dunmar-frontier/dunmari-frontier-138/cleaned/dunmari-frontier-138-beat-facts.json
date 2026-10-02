@@ -1,0 +1,511 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party assesses the enormous ooze filling Isingue’s collapsed cistern and considers how to destroy the fragment of Limbo at its heart.",
+      "longSummary": "The corrupted Waters of Isingue fill the collapsed cistern and spread tendrils around the sinkhole. The party learns that the crystallized fragment of Limbo is embedded in the creature and must be destroyed, or water entering the cistern will create another ooze. They consider removing or banishing it and using powerful stored magic, but recognize that the ooze itself is native to the Material Plane. Seeker considers swimming through it as a leviathan while the others fight toward its center; Delwath favors returning to his own form for stronger attacks.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The collapsed central well and cistern, surrounded by the enormous ooze."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Crystallized fragment of Limbo",
+          "role": "mentioned",
+          "notes": "Discussed as the source of the corruption and the embedded target that must be destroyed."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Wellby and Kenzo open the attack while the ooze retaliates and adapts its body to resist their damage.",
+      "longSummary": "Combat begins as the ooze advances toward the riverside party. Wellby fires from a distance, provoking a long-reaching pseudopod attack and causing the ooze to become resistant to piercing damage. Delwath and Seeker move closer in leviathan form. Kenzo checks the creature’s defenses with Soul Sight, activates his protection and Vital Burst, and rushes forward to land four staff attacks. The ooze responds by hardening its exterior against bludgeoning damage, revealing that its resistance changes with the attacks it receives.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The riverside edge of the battlefield around the collapsed cistern."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "The battle starts; the ooze retaliates against attackers and changes its physical damage resistance."
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath abandons leviathan form to strike with his weapon while Seeker disrupts the ooze and dives inside.",
+      "longSummary": "Kenzo evades the ooze’s first attempt to engulf him, deflects a pseudopod strike, and avoids its acid eruption. Delwath closes the remaining distance, resumes his own form, and delivers weapon attacks including a powerful critical smite. Seeker stays a leviathan and casts Rune of Psychic Disruption, forcing the ooze to expend a legendary resistance, then moves into its mass toward the center.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The ooze’s outer edge, with Seeker entering its interior."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "The first round ends with Delwath fighting outside the ooze and Seeker beginning the penetration toward its heart."
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker pushes deeper into the ooze while Wellby and Kenzo’s attacks repeatedly change its consistency.",
+      "longSummary": "Wellby’s arrows make the ooze thin itself against piercing damage, and Seeker uses his leviathan movement to swim farther inside. Kenzo follows with staff and unarmed attacks, prompting the ooze to harden into a stony mass that slows Seeker’s passage. Kenzo deflects another attack, while Seeker continues forcing a path toward the sinkhole despite the increasingly difficult terrain.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The ooze’s outer edge and interior on the approach to the central sinkhole."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "The changing resistance also changes how easily Seeker can travel through the ooze."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The ooze engulfs Kenzo and Delwath, forcing an escape while it crushes those inside and pulls Wellby closer.",
+      "longSummary": "The ooze advances over Kenzo and Delwath and restrains them within its body. Delwath transforms into a cloud of tiny water insects, escapes the restraint, and resumes attacking with another smite. An acid eruption catches Wellby and drags him closer, while the ooze crushes Kenzo and Seeker inside it. Seeker’s second Rune of Psychic Disruption is resisted, but he continues swimming toward the central sinkhole.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The ooze’s engulfing front and interior; Wellby remains outside but is pulled closer."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "Kenzo remains trapped after Delwath escapes; the second psychic disruption does not consume another legendary resistance."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Kenzo drinks a Potion of Speed and breaks free while Seeker reaches the sinkhole and Delwath is dragged back inside.",
+      "longSummary": "Wellby retreats and keeps shooting, while the ooze catches Delwath with a restraining glob and pulls him back into its body. Seeker advances to the sinkhole in leviathan form, protected from the ordinary restraint damage but still vulnerable to the creature’s deliberate crushing attacks. Kenzo drinks a Potion of Speed, uses the extra action to break the filaments holding him, and attacks before flying away to make room for another approach.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The ooze’s outer edge and the central sinkhole that Seeker reaches from within."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Potion of Speed",
+          "role": "encountered",
+          "notes": "Kenzo drinks it to gain the extra action and movement used in his escape."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "The third round centers on escaping restraint while Seeker reaches the inner depression."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker reaches the crystalline heart and discovers that its current form can be harmed only by thunder.",
+      "longSummary": "The ooze advances and pulls Kenzo back into its body, then strikes Wellby outside. Delwath uses Misty Step to escape and resumes attacking. Seeker reaches the dense crystalline sphere at the bottom of the sinkhole, but his leviathan attacks cannot damage it. Contact recalls Limbo to him, and he learns that the heart’s present form is immune to everything except thunder. The ooze responds to his proximity by crushing those still inside it.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The crystalline heart at the bottom of the sinkhole, with the others fighting around the ooze’s advancing edge."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Crystallized fragment of Limbo",
+          "role": "encountered",
+          "notes": "Seeker reaches its dense crystalline form and discovers its immunity to damage other than thunder."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "The outer battle continues while Seeker discovers that ordinary attacks cannot damage the core."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath uses Scatter to free himself and Kenzo, lands a devastating smite, and is recaptured as Seeker fails to reshape the core.",
+      "longSummary": "Wellby drinks a healing potion and flies higher while continuing to shoot, but the ooze’s attacks still reach him. Kenzo struggles to escape and fights from inside, and Delwath is engulfed again. Delwath quickens Scatter to teleport himself and Kenzo free, then lands a critical smite that badly weakens the ooze. His retreat ends when another glob pulls him back inside. At the center, Seeker tries to make the fragment of Limbo vanish into feathers, but neither his first attempt nor the retry changes it.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The ooze’s advancing front and the crystalline heart in the sinkhole."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Crystallized fragment of Limbo",
+          "role": "encountered",
+          "notes": "Seeker attempts to change it into feathers through mental control of Limbo; the attempt fails."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "The fourth round ends with the ooze badly weakened, Delwath trapped again, and the core unchanged."
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party keeps attacking despite mounting injuries, but the ooze knocks Delwath unconscious.",
+      "longSummary": "Wellby’s continued fire draws a critical counterattack that leaves him barely standing. Kenzo darts in for a flurry of strikes and retreats, then takes a blow that triggers his self-restoring magic and brings him back to half his maximum health. Delwath uses Misty Step to escape the ooze and makes one last attempt to finish it, but most of his attacks miss. His attempted magical dodge also fails, and the answering pseudopod knocks him unconscious while Seeker continues striking from within.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The outer battlefield, with Seeker still in leviathan form near the center."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          }
+        ],
+        "notes": "Delwath falls unconscious; Kenzo’s restoration is an immediate combat ability, not a separate resurrection."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Wellby falls and Kenzo exposes the ooze’s core, then revives Delwath as the creature scatters into minions.",
+      "longSummary": "Wellby uses an Arrow of Seeking to land a critical shot, then descends to the ground before the ooze knocks him unconscious. Kenzo’s next strike causes the creature to shed masses of slime into smaller minions, leaving the crystalline sphere exposed. The main ooze remains alive and loses its engulfing ability. Kenzo switches from attacking to rescue, flying back to Delwath and administering his Potion of Greater Healing. The ooze commands its minions to attack and continues lashing out with pseudopods.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The exposed core and scattered slime minions across the battlefield, with Kenzo returning to Delwath."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Arrow of Seeking",
+          "role": "encountered",
+          "notes": "Wellby uses it for the critical shot that helps strip away the ooze’s mass."
+        },
+        {
+          "name": "Potion of Greater Healing",
+          "role": "encountered",
+          "notes": "Kenzo administers Delwath’s potion to restore him to consciousness."
+        },
+        {
+          "name": "Crystallized fragment of Limbo",
+          "role": "encountered",
+          "notes": "Exposed when the ooze sheds much of its mass into minions."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          },
+          {
+            "name": "Slime minions",
+            "notes": "Smaller creatures scattered from the main ooze when its core is exposed."
+          }
+        ],
+        "notes": "The sixth round brings the exposed-core phase and new minions; the main ooze is still alive."
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath revives Wellby while Seeker returns to his own form and cracks the core with thunderous Chain Lightning.",
+      "longSummary": "Delwath uses Healing Word to bring Wellby back to consciousness, recovers a warlock spell slot, and retreats. Seeker ends his leviathan shapechange so he can use the Glove of Crystalized Magic to turn a seventh-level Chain Lightning into thunder damage. The core’s vulnerability offsets its successful save, and small cracks appear in the sphere. Seeker gives Kenzo inspiration and withstands the ooze’s retaliatory pseudopod attack.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The exposed core and nearby battlefield, as the fallen party members recover."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Glove of Crystalized Magic",
+          "role": "encountered",
+          "notes": "Seeker uses it to convert Chain Lightning to thunder damage after ending shapechange."
+        },
+        {
+          "name": "Crystallized fragment of Limbo",
+          "role": "encountered",
+          "notes": "Thunder damage produces the first small cracks in its crystalline form."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          },
+          {
+            "name": "Slime minions",
+            "notes": "Smaller creatures scattered from the main ooze when its core is exposed."
+          }
+        ],
+        "notes": "The rescued allies regain their turns, and Seeker damages the core without yet destroying it."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Kenzo reshapes the core into glass and shatters it, ending the battle and launching him and Seeker into the air.",
+      "longSummary": "Wellby shoots down a slime minion and is knocked unconscious again by the main ooze. Kenzo flies to the center, concentrates on the fragment of Limbo, and changes it into fragile glass. His unarmed and staff blows shatter it, triggering an implosion that throws him and Seeker a thousand feet into the air as the ooze and its minions crystallize. Kenzo can fly, but cannot reach Seeker in time; Seeker animates Ladder, which catches him and carries him gently down with the image of a superhero cape streaming behind it. Delwath heals Wellby in time to witness the landing, and ash begins settling around the victorious party.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "The shattered core, the air above the battlefield, and the crystallized remains around the cistern."
+      },
+      "npcs": [
+        {
+          "name": "Ladder",
+          "role": "companion",
+          "context": "Animated by Seeker during his fall.",
+          "notes": "Catches Seeker and carries him safely down after the implosion; the narration gives it a streaming superhero cape."
+        }
+      ],
+      "items": [
+        {
+          "name": "Crystallized fragment of Limbo",
+          "role": "encountered",
+          "notes": "Kenzo changes it into fragile glass and destroys it with bludgeoning attacks."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Corrupted ooze",
+            "notes": "The enormous creature formed from the corrupted Waters of Isingue around a fragment of Limbo."
+          },
+          {
+            "name": "Slime minions",
+            "notes": "Smaller creatures scattered from the main ooze when its core is exposed."
+          }
+        ],
+        "notes": "The final round ends with the core destroyed, the ooze and its minions crystallized, and all four adventurers alive."
+      }
+    },
+    {
+      "beatId": "beat-013",
+      "dateStart": "1749-09-18",
+      "dateEnd": "1749-10-06",
+      "timeWindow": null,
+      "shortSummary": "After recovering in Aurbez, the party returns the Heartroot to Isingue and helps establish a ranger camp as the waters begin to recover.",
+      "longSummary": "The party teleports to Aurbez, reports the victory to Cateline Malras and the Rangers, and rests. Kenzo and the Heartroot are then teleported back to the cistern, followed by the others and five rangers. Kenzo clears rubble to reconnect the river, and the Heartroot spreads filaments that cleanse the water and begin restoring old channels and pillars; the party gains the impression that the cistern predates the city. More rangers arrive and a camp takes shape over the following weeks. By early October, the site seems stable and the party is back aboard Vindristjarna considering further mirror visions and returning the rescued monks. October 6 is the user’s tentative endpoint, pending review of the epilogue transcript.",
+      "location": {
+        "kind": "journey",
+        "from": "Aurbez",
+        "to": "Isingue",
+        "context": "Teleportation to Aurbez for recovery, then return to the cistern with the Heartroot, followed by the restoration montage and boarding Vindristjarna.",
+        "notes": "The party first teleports from Isingue to Aurbez; the main return journey brings the Heartroot from Aurbez to Isingue. The closing narration spans several weeks. September 19 for the Heartroot’s return is inferred from the intervening long rest, and the endpoint of 1749-10-06 is provisional; individual dates within the restoration montage are not specified."
+      },
+      "npcs": [
+        {
+          "name": "Cateline Malras",
+          "role": "encountered",
+          "context": "In Aurbez after the battle.",
+          "notes": "The party tells her and other rangers what happened."
+        },
+        {
+          "name": "Faldrak Bronzehammer",
+          "role": "mentioned",
+          "context": "Expected to meet the party at Isingue.",
+          "notes": "Communicating with him is suggested; his arrival is not explicitly narrated in this beat."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heartroot",
+          "role": "encountered",
+          "notes": "Returned to the cistern; its filaments cleanse the river water and begin restoring the ancient channels and pillars."
+        },
+        {
+          "name": "Mirror of the Past",
+          "role": "mentioned",
+          "notes": "Further visions, including the cistern, are discussed as possibilities; no new vision is shown in this beat."
+        },
+        {
+          "name": "Vindristjarna",
+          "role": "encountered",
+          "notes": "The party is aboard the ship again at the end of the restoration montage."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Rangers",
+          "role": "encountered",
+          "notes": "Five accompany the initial return of the Heartroot; more arrive over the following weeks and help establish a camp."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      },
+      "timeline": [
+        {
+          "dateStart": "1749-09-18",
+          "dateEnd": null,
+          "timeWindow": null,
+          "shortSummary": "The party returns to Aurbez to report its victory and rest.",
+          "longSummary": "After defeating the ooze, the party teleports to Aurbez, tells Cateline Malras and other rangers what happened, and takes a long rest.",
+          "locationRefs": [
+            "Aurbez"
+          ],
+          "npcRefs": [
+            "Cateline Malras"
+          ],
+          "organizationRefs": [
+            "Rangers"
+          ],
+          "itemRefs": [],
+          "combatBeatIds": []
+        },
+        {
+          "dateStart": "1749-09-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "shortSummary": "The Heartroot returns to Isingue’s cistern.",
+          "longSummary": "After the long rest, Kenzo and the Heartroot are teleported to Isingue, followed by the others and five rangers. Kenzo reconnects the river and the Heartroot begins cleansing the water. This date is inferred from the rest; the narration does not explicitly name the day.",
+          "locationRefs": [
+            "Isingue"
+          ],
+          "npcRefs": [],
+          "organizationRefs": [
+            "Rangers"
+          ],
+          "itemRefs": [
+            "Heartroot"
+          ],
+          "combatBeatIds": []
+        },
+        {
+          "dateStart": "1749-10-06",
+          "dateEnd": null,
+          "timeWindow": null,
+          "shortSummary": "The party regroups aboard Vindristjarna once the camp at Isingue is stable.",
+          "longSummary": "Over the intervening weeks, the Heartroot settles into place and more rangers arrive. By early October the camp appears stable and the party is aboard Vindristjarna planning what comes next. October 6 is the user’s provisional endpoint, to be revisited after processing the epilogue transcript.",
+          "locationRefs": [
+            "Isingue"
+          ],
+          "npcRefs": [],
+          "organizationRefs": [
+            "Rangers"
+          ],
+          "itemRefs": [
+            "Heartroot",
+            "Vindristjarna"
+          ],
+          "combatBeatIds": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-138/cleaned/dunmari-frontier-138-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Assessing the Corrupted Waters",
+      "startUid": "u0001",
+      "endUid": "u0316",
+      "lineCount": 316,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening planning and battlefield assessment form one scene; the next beat begins when the DM calls for initiative at u0317.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u0001-u0316 precede initiative in the same uninterrupted scene; no intervening rest or day transition is narrated."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Opening Assault on the Ooze",
+      "startUid": "u0317",
+      "endUid": "u0800",
+      "lineCount": 484,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative begins the battle. Keep Wellby and Kenzo's opening attacks together, ending after Kenzo's turn and the discussion of the ooze's adaptive resistance.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u0317-u0800 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Delwath Strikes; Seeker Dives",
+      "startUid": "u0801",
+      "endUid": "u1083",
+      "lineCount": 283,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The focus shifts to the ooze's response, Delwath leaving leviathan form to attack, and Seeker entering the ooze. End before the next round's explicit recap.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u0801-u1083 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Seeker Tunnels Toward the Core",
+      "startUid": "u1084",
+      "endUid": "u1340",
+      "lineCount": 257,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The second-round recap introduces continued attacks and Seeker's progress through the changing ooze. End before the ooze moves to engulf both front-line combatants.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u1084-u1340 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Engulfed by the Ooze",
+      "startUid": "u1341",
+      "endUid": "u1607",
+      "lineCount": 267,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The ooze engulfs Kenzo and Delwath, changing the immediate problem to escape and survival while Seeker advances inside it. End before the third-round recap.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u1341-u1607 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Kenzo Escapes with Magical Speed",
+      "startUid": "u1608",
+      "endUid": "u1906",
+      "lineCount": 299,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The third-round recap opens a phase of continued pressure, Seeker reaching the sinkhole, and Kenzo drinking a speed potion and escaping. End as the ooze begins its next turn.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u1608-u1906 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Seeker Reaches the Crystal Core",
+      "startUid": "u1907",
+      "endUid": "u2243",
+      "lineCount": 337,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The ooze advances and recaptures Kenzo while Delwath escapes again; Seeker reaches the core and discovers its defenses. End before the fourth-round recap.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u1907-u2243 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Scatter and a Devastating Smite",
+      "startUid": "u2244",
+      "endUid": "u2707",
+      "lineCount": 464,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Keep the fourth round together: failed escapes, Delwath's Scatter and smite, and Seeker's unsuccessful attempt to reshape the core. End before Wellby opens the fifth round.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u2244-u2707 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Delwath Falls as Kenzo Endures",
+      "startUid": "u2708",
+      "endUid": "u3145",
+      "lineCount": 438,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The fifth round is a coherent survival phase: Wellby is nearly knocked out, Kenzo's boon restores him, and Delwath falls unconscious. End at the explicit sixth-round transition.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u2708-u3145 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Wellby Falls; the Core Emerges",
+      "startUid": "u3146",
+      "endUid": "u3512",
+      "lineCount": 367,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The sixth round begins with Wellby's arrow and collapse. Kenzo forces the ooze into its exposed-core phase and revives Delwath; end after the ooze and its new minions respond.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u3146-u3512 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Healing and Thunder",
+      "startUid": "u3513",
+      "endUid": "u3776",
+      "lineCount": 264,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Delwath's restored turn starts the recovery effort, followed by Seeker ending shapechange and striking the core with thunder. End before Wellby's next turn.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u3513-u3776 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Shattering the Core",
+      "startUid": "u3777",
+      "endUid": "u4181",
+      "lineCount": 405,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Keep the final round and its immediate consequences together: Wellby falls again, Kenzo reshapes and smashes the core, the implosion launches Kenzo and Seeker, and the party survives. End when the DM asks what comes next.",
+      "dateEvidence": [
+        "The session manifest anchors the opening at 1749-09-18.",
+        "u3777-u4181 continue the uninterrupted Isingue battle begun at u0317; no rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "Restoring the Heartroot",
+      "startUid": "u4182",
+      "endUid": "u4339",
+      "lineCount": 158,
+      "dateStart": "1749-09-18",
+      "dateEnd": "1749-10-06",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The objective shifts from combat to recovery and restoration. Keep the short Aurbez visit, rest, return of the Heartroot, and ensuing weeks in one continuous montage rather than creating a 47-line fragment before the rest.",
+      "dateEvidence": [
+        "The montage begins directly after the 1749-09-18 battle; u4209-u4210 place the teleport to Aurbez later that same day.",
+        "u4205 and u4229-u4269 describe a long rest followed by returning the Heartroot and five rangers to Isingue. No exact calendar date is spoken for that return.",
+        "u4270 and u4308-u4322 compress the restoration, arrival of more rangers, and establishment of a camp into a continuous period ending in early October. The approximate intervals are not treated as separate additive spans.",
+        "The user tentatively set the session endpoint to 1749-10-06, reflected in drEnd. This remains provisional and must be revisited after processing the epilogue transcript; the narration itself does not specify October 6."
+      ]
+    }
+  ]
+}

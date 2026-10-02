@@ -1,0 +1,316 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Table Talk: Play and Tools",
+      "startUid": "u0001",
+      "endUid": "u0365",
+      "lineCount": 365,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "Opening discussion of character relationships, in-person play, and virtual tabletop tools; ends when the topic shifts to Taelgarverse and collaborative worldbuilding.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Table Talk: Collaborative Worldbuilding",
+      "startUid": "u0366",
+      "endUid": "u0804",
+      "lineCount": 439,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "Discussion turns to shared worldbuilding, character warm-ups, and future session formats, then winds down into lunch preparations.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Table Prep: Transformation Options",
+      "startUid": "u0805",
+      "endUid": "u1074",
+      "lineCount": 270,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "Pre-play discussion explores dragon and leviathan forms, interspersed with lunch, equipment, and Lego conversation; the next beat begins the level-up review.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Table Prep: Level Twenty",
+      "startUid": "u1075",
+      "endUid": "u1261",
+      "lineCount": 187,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "Level-twenty abilities, spell choices, and character-sheet preparations form a distinct setup block ending before the DM begins the adventure.",
+      "dateEvidence": []
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Setting Out for Isingue",
+      "startUid": "u1262",
+      "endUid": "u1699",
+      "lineCount": 438,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Play begins aboard Vindristjarna over Orenlas. Scrying and planar consultation establish the threat, and the party chooses Wind Walk before the journey is narrated.",
+      "dateEvidence": [
+        "Session manifest drStart is 1749-09-17. At u1263-u1268 the party wakes over Orenlas after returning from Limbo.",
+        "At u1524-u1528 only a couple of hours of ship travel have elapsed; the Wind Walk departure at u1586-u1589 continues this day."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Arrival and the Illusory Scout",
+      "startUid": "u1700",
+      "endUid": "u2076",
+      "lineCount": 377,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The narrated flight reaches the ash storm, followed by Delwath's illusory reconnaissance and scrying. The next beat switches to Kenzo's direct sensing of the ooze network.",
+      "dateEvidence": [
+        "The Wind Walk journey and arrival at u1700-u1758 continue the departure day established by the manifest.",
+        "The subsequent reconnaissance lasts about an hour at u1851-u1854; no overnight transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Sensing the Ooze and Ash",
+      "startUid": "u2077",
+      "endUid": "u2459",
+      "lineCount": 383,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo maps the ooze through communion, probes its lack of conscious will, and tests the poisonous ash. The next beat turns to arranging a sample-collection mission.",
+      "dateEvidence": [
+        "This investigation immediately follows the first-day scouting.",
+        "At u2375-u2391 the party explicitly places the proposed sample collection before a future overnight camp."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Planning the Dragon Reconnaissance",
+      "startUid": "u2460",
+      "endUid": "u2691",
+      "lineCount": 232,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party works out a poison-safe reconnaissance plan, selects Wellby as the green dragon, and resolves the transformation's duration before departing.",
+      "dateEvidence": [
+        "This planning directly follows Kenzo's ash test on the arrival day.",
+        "The planned long rest at u2384-u2391 has not yet occurred; the next beat places departure near sunset."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Collecting an Ooze Sample",
+      "startUid": "u2692",
+      "endUid": "u3120",
+      "lineCount": 429,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Wellby carries Kenzo into the storm, where Kenzo explores the ruined cistern and briefly fights to obtain a sample. Their return and the reversal of Wellby's transformation close the expedition.",
+      "dateEvidence": [
+        "At u2692-u2719 the reconnaissance begins and the DM describes sunset during the flight.",
+        "The expedition returns at u3045-u3048 before the feast and overnight camp later in the same day."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "The Mirror Reveals the Origins",
+      "startUid": "u3121",
+      "endUid": "u3400",
+      "lineCount": 280,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The focus shifts to examining the crystal sample and viewing its origins in the mirror, followed by discussion of the river connection as a target.",
+      "dateEvidence": [
+        "The mirror consultation follows the sunset reconnaissance and precedes the explicit camp scene at u3474-u3477.",
+        "The historical vision is viewed on the current day; its depicted past does not advance the session date."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "A Feast Before Rest",
+      "startUid": "u3401",
+      "endUid": "u3552",
+      "lineCount": 152,
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party commits to attacking the river concentration after resting, prepares Heroes' Feast, sets up camp, and adjusts equipment. The next beat starts with morning.",
+      "dateEvidence": [
+        "At u3401-u3405 the party chooses a long rest before the river attack.",
+        "At u3452-u3458 Heroes' Feast is arranged for the night before the attack; u3474-u3477 explicitly place camp and the feast at sunset."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Two Leviathans Approach the River",
+      "startUid": "u3553",
+      "endUid": "u3874",
+      "lineCount": 322,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "An explicit morning transition opens a new day. The party approaches along the river in prepared forms, observes the ooze gathering onshore, and positions for combat.",
+      "dateEvidence": [
+        "At u3553-u3564 morning follows the overnight camp, and the storm has expanded during the night.",
+        "This is one day after the 1749-09-17 start, matching the approved manifest drEnd of 1749-09-18."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "The River Battle Begins",
+      "startUid": "u3875",
+      "endUid": "u4270",
+      "lineCount": 396,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative begins the river battle. Initial attacks and soul sight establish the combatants' capabilities; the next beat begins with discovery of the connecting tendril.",
+      "dateEvidence": [
+        "Initiative at u3875 follows the morning approach without a time jump.",
+        "The date remains 1749-09-18 after the explicit waking transition at u3553-u3564."
+      ]
+    },
+    {
+      "beatId": "beat-014",
+      "title": "Targeting the Connecting Tendril",
+      "startUid": "u4271",
+      "endUid": "u4591",
+      "lineCount": 321,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Wellby identifies the connection to the plaza, shifting the objective to severing it. An initial tidal wave fails to break it, Wellby is restrained, and the leviathans reposition.",
+      "dateEvidence": [
+        "This is the next continuous phase of the river battle begun after the 1749-09-18 morning approach; no time transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-015",
+      "title": "Stone Armor and Acid Nets",
+      "startUid": "u4592",
+      "endUid": "u4978",
+      "lineCount": 387,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo's focused attack prompts the ooze to reinforce and armor the tendril. Kenzo joins Wellby in acid restraints, the party recognizes the retaliation pattern, and Seeker forces a legendary resistance.",
+      "dateEvidence": [
+        "The combat continues uninterrupted from the preceding beat on 1749-09-18.",
+        "At u4837-u4840 the players confirm that the overnight long rest has already occurred."
+      ]
+    },
+    {
+      "beatId": "beat-016",
+      "title": "Cracks Spread Through the Tendril",
+      "startUid": "u4979",
+      "endUid": "u5331",
+      "lineCount": 353,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Delwath draws the ooze's attacks as visible cracks begin to form. Kenzo damages the armored connection with force and escapes the net, while Wellby remains restrained and badly hurt.",
+      "dateEvidence": [
+        "These turns directly continue the same river battle on the morning after camp; there is no intervening rest or time jump."
+      ]
+    },
+    {
+      "beatId": "beat-017",
+      "title": "Healing and the Final Wave",
+      "startUid": "u5332",
+      "endUid": "u5511",
+      "lineCount": 180,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Seeker switches to healing Wellby and striking the damaged connection. Delwath's renewed tidal wave severs it, causing the river ooze to collapse and crystallize.",
+      "dateEvidence": [
+        "The concluding turns immediately follow the preceding combat phase on 1749-09-18.",
+        "The ooze falls apart at u5495-u5509 during the same encounter."
+      ]
+    },
+    {
+      "beatId": "beat-018",
+      "title": "Following the Crystalline Trail",
+      "startUid": "u5512",
+      "endUid": "u5738",
+      "lineCount": 227,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The battle ends with rumbling from the city. The party frees Wellby, heals, locates the remaining concentration at the well, and prepares to follow the crystal connection overland.",
+      "dateEvidence": [
+        "The aftermath follows the battle immediately, with the leviathan transformations still active at u5565-u5566 and u5603-u5607.",
+        "No further rest occurs before the party advances toward the well."
+      ]
+    },
+    {
+      "beatId": "beat-019",
+      "title": "The Colossal Ooze Emerges",
+      "startUid": "u5739",
+      "endUid": "u5908",
+      "lineCount": 170,
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party reaches the collapsed plaza and sees the enormous ooze emerging from the cistern. The recording ends with tactical discussion before initiative for the next encounter.",
+      "dateEvidence": [
+        "At u5739-u5746 the party rushes directly from the river aftermath to the plaza, still on 1749-09-18.",
+        "The stop at u5814-u5818 is a real-world break; it does not advance the in-world date or begin the next combat."
+      ]
+    }
+  ]
+}
