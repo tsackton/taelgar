@@ -1,5 +1,3 @@
-
-
 There are nine members of the council, but only three are actively involved in war preparations.  Taelisin, Haldir and Ragnar are helping actively: Taelisin and Haldir in Chardon and Ragnar in Sembia.  The six members not active are the following: 
 
 Alarius: He is somewhere in the far north with his flying castle.  Although not much of a battle mage himself, he has extensive knowledge of dragons which could prove very useful.   

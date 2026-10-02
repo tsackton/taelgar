@@ -1,5 +1,3 @@
-
-
 In the beginning, there was a void.  Two entities awoke in that void: Eru and Melkor.  Through their magic powers, they created a universe.  (From the standard version of the human’s creation myth.) 
 
 The void they awoke in had three distinct parts.  First, the nullspace, a realm of literally nothing.  It is the symbolic and metaphysical center of the universe.  Second, the truespace, or the realm of power.  From here, the entities drew all their magical energies.  Third, the greyspace, a realm of thought.  It is here that we go when we experience particularly vivid dreams.   

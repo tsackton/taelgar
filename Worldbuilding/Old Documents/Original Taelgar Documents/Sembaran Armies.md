@@ -1,5 +1,3 @@
-
-
 Sembian Troop Types: 
 
 Heavy Cavalry (HC):  Armored knights with trained warhorses, heavy lances, and other powerful weapons.  Many are landed and titled.  Usually of at least Seasoned quality; never worse than Average.  TS 8. 
