@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
-tags: [background]
+tags: [background, status/check/ai]
 name: Stars
 excludePublish: [all]
 dm_owner: joint
@@ -16,7 +16,7 @@ POV: modern
 There is relatively little recent brainstorming on what the stars are. 
 
 There is a fair bit of old (high school era) thoughts:
-- [[Guide to Taelgar (v2)]]
+- [[Guide to Taelgar - Cosmology, Magic, Races, and Religion]]
 - [[Guide to Taelgar (v3)]]
 
 (and much more in paper notes, about proto-astrology ideas)
