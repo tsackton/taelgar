@@ -57,6 +57,7 @@ Seeker seals the planar wound, and the fellowship escapes Limbo after Rai's fare
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u0001 -> u0597
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-001-transcript.md
 - Locations: Limbo
 - NPCs: Rai
 - Organizations: none
@@ -86,6 +87,7 @@ While the fellowship rests among the stranded monks, Rai recounts the unfinished
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u0598 -> u1027
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-002-transcript.md
 - Locations: Monks' sanctuary, Impossible Tower
 - NPCs: Seeker 6, Bob, Goldie
 - Organizations: none
@@ -115,6 +117,7 @@ Seeker imagines a protective glass sphere around the fellowship, keeping Limbo's
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u1028 -> u3035
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-003-transcript.md
 - Locations: Impossible Tower
 - NPCs: Bob, Goldie, Seeker 6, Liquid-stone minions, Clay construct
 - Organizations: none
@@ -144,6 +147,7 @@ The tower redirects all three pairs: Kenzo and Seeker appear outside, Delwath an
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u3036 -> u3343
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-004-transcript.md
 - Locations: Impossible Tower, Library approach
 - NPCs: Frozen-lightning guardian
 - Organizations: none
@@ -173,6 +177,7 @@ With the entrance clear, Seeker studies the violet orb through his goggles and d
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u3344 -> u4545
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-005-transcript.md
 - Locations: Impossible Tower
 - NPCs: Seeker 6, Naren, Metallic-blood defender
 - Organizations: none
@@ -202,6 +207,7 @@ The library lies upside down relative to their approach, with Seeker 6 and the a
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u4546 -> u5317
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-006-transcript.md
 - Locations: Impossible Tower, Library portal
 - NPCs: none
 - Organizations: none
@@ -231,6 +237,7 @@ The fellowship pauses to recover and mourn Seeker 6. Delwath's Prayer of Healing
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u5318 -> u6031
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-007-transcript.md
 - Locations: Impossible Tower
 - NPCs: Queen of Ash, Metallic-blood defender, Metallic centaur, Essence of Mist, Dust-cloud minions
 - Organizations: none
@@ -260,6 +267,7 @@ The hatch reveals a vast changing landscape that truesight reduces to a chamber 
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u6032 -> u9799
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-008-transcript.md
 - Locations: Impossible Tower
 - NPCs: Queen of Ash, Metallic-blood defender, Metallic centaur, Essence of Mist, Dust-cloud minions, Triceratops
 - Organizations: none
@@ -289,6 +297,7 @@ Delwath fills the chamber with Sickening Radiance, protecting the fellowship and
 - Date: 1749-09-16
 - Time: unknown
 - Source Range: u9800 -> u10380
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-009-transcript.md
 - Locations: Impossible Tower, Stable crystal globe, Monks' sanctuary
 - NPCs: Rai, Fox messenger
 - Organizations: none
@@ -318,6 +327,7 @@ As the tower's gravity fails and its floors dissolve, the hatch remains suspende
 - Date: 1749-09-16
 - Time: night
 - Source Range: u10381 -> u10672
+- Polished Transcript: beat-transcripts/dunmari-frontier-136-recap-010-transcript.md
 - Locations: Monks' sanctuary, Elven forest
 - NPCs: Rai, Kyr
 - Organizations: none
@@ -450,3 +460,167 @@ At Rai's side, Seeker begins reading the sphere's intricate formula. Rai and Del
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-source-cleaned.md
+
+## Pull Quotes
+
+- ID: quote-beat-001-001
+  - Quote: "Please go find some powerful Dunmari, tell them what happened, bring help."
+  - Speaker: DM
+  - Source Lines: u0147-u0150
+
+- ID: quote-beat-001-002
+  - Quote: "Dimitaur did not do that."
+  - Speaker: Kenzo
+  - Source Lines: u0151-u0151
+
+- ID: quote-beat-002-001
+  - Quote: "Warn me so I can light a path back for you."
+  - Speaker: DM
+  - Source Lines: u0406-u0414
+
+- ID: quote-beat-003-002
+  - Quote: "It's like the tower has been cut out of your vision of the world."
+  - Speaker: DM
+  - Source Lines: u0927-u0929
+
+- ID: quote-beat-003-003
+  - Quote: "We will remember you fondly, Seeker 6."
+  - Speaker: Seeker
+  - Source Lines: u0963-u0963
+
+- ID: quote-beat-004-001
+  - Quote: "We don't have to kill it, Tim. We just have to steal the thing."
+  - Speaker: Delwath
+  - Source Lines: u1118-u1118
+
+- ID: quote-beat-005-001
+  - Quote: "We're not intruders, we work here."
+  - Speaker: Wellby
+  - Source Lines: u1472-u1472
+
+- ID: quote-beat-006-003
+  - Quote: "I thought we were friends."
+  - Speaker: DM
+  - Source Lines: u2033-u2034
+
+- ID: quote-beat-009-001
+  - Quote: "I'm gonna grab the lever and turn it. Everybody okay with that? Too late."
+  - Speaker: Seeker
+  - Source Lines: u3095-u3096
+
+- ID: quote-beat-009-002
+  - Quote: "And the fourth is labeled as, \"Kith-sath, the Light of Darkness, the Burning Night, and the Flame of Unmaking,\" but the pedestal is empty."
+  - Speaker: DM
+  - Source Lines: u3140
+
+- ID: quote-beat-010-002
+  - Quote: "Surrender now and the queen will be generous in her judgment of you. You will be reborn in glory and chaos."
+  - Speaker: DM
+  - Source Lines: u3410-u3411
+
+- ID: quote-beat-011-001
+  - Quote: "Chain lightning. Good job, Seeker 6."
+  - Speaker: Seeker
+  - Source Lines: u3953
+
+- ID: quote-beat-012-003
+  - Quote: "He climbs so others may rise."
+  - Speaker: Kenzo
+  - Source Lines: u4297
+
+- ID: quote-beat-014-002
+  - Quote: "Right? And it's not describing Limbo. It's like trying to pull out memories of something that happened before Limbo was even created."
+  - Speaker: DM
+  - Source Lines: u4925-u4927
+
+- ID: quote-beat-015-002
+  - Quote: "Is this campaign about us or Apollyon or any of these things? I feel like this is the ladder's story."
+  - Speaker: Kenzo
+  - Source Lines: u5233-u5234
+
+- ID: quote-beat-016-003
+  - Quote: "She doesn't like the fact that she lost the war against Order before time and wants to undo her loss."
+  - Speaker: Delwath
+  - Source Lines: u5524
+
+- ID: quote-beat-017-003
+  - Quote: "We're all dragons on the inside."
+  - Speaker: Seeker
+  - Source Lines: u6010
+
+- ID: quote-beat-025-001
+  - Quote: "Yeah, I'm gonna keep shooting. This is still the right strategy. Even if I go down, go down swinging."
+  - Speaker: Wellby
+  - Source Lines: u8406-u8408
+
+- ID: quote-beat-026-001
+  - Quote: "Dragon has glasses. You're really gonna hit a dragon with glasses?"
+  - Speaker: Seeker
+  - Source Lines: u8764
+
+- ID: quote-beat-028-001
+  - Quote: "Delwath swings his blade. You can see the runes, like, light up along the blade and there's this, like—you feel this intense moment of satisfaction as the blade strikes the queen and the ash just condenses and then there's this burst of radiant light as she crumbles into a pile of dust."
+  - Speaker: DM
+  - Source Lines: u9202-u9204
+
+- ID: quote-beat-030-002
+  - Quote: "That looks like a better place than where we are now, which is being repeatedly stabbed."
+  - Speaker: Seeker
+  - Source Lines: u9970
+
+- ID: quote-beat-031-003
+  - Quote: "I don't know. Safety first, everybody. We gotta bring it down below one in 1,000."
+  - Speaker: Seeker
+  - Source Lines: u10374-u10375
+
+- ID: quote-beat-032-001
+  - Quote: "This is the one thing he's always wanted to see."
+  - Speaker: Seeker
+  - Source Lines: u10425
+
+- ID: quote-beat-032-002
+  - Quote: "Let it rest. Let the world move on. Doesn’t need us."
+  - Speaker: DM
+  - Source Lines: u10501-u10503
+
+- ID: quote-beat-032-003
+  - Quote: "I wish, Dimitaur, for you to live as long as life on this world gives you pleasure."
+  - Speaker: DM
+  - Source Lines: u10524
+
+## Audio Highlights
+
+- ID: audio-001
+  - Title: Rai's unfinished war and the failed rescue message
+  - Speaker: DM
+  - Source Lines: u0126-u0200
+  - Output: audio-001.m4a
+  - Why Called Out: Rai's account connects the failed ritual and shattered hand with Apollyon's prison, while the table's response to Dimitaur's rescue instructions gives the exposition a memorable comic turn.
+
+- ID: audio-002
+  - Title: The ladder's character arc.
+  - Speaker: Seeker, Wellby, DM, Kenzo, Delwath
+  - Source Lines: u5212-u5239
+  - Output: audio-002.m4a
+  - Why Called Out: The table turns the practical use of the ladder into a joke about its complete character arc and whether the campaign has become its story.
+
+- ID: audio-003
+  - Title: Banishing the demon inside
+  - Speaker: Seeker, Delwath, Kenzo, DM and table
+  - Source Lines: u7302-u7332
+  - Output: audio-003.m4a
+  - Why Called Out: The dragon banishes the mist hiding inside him while the table turns the choice into a joke about confronting their own inner demons.
+
+- ID: audio-004
+  - Title: Delwath cuts down the Queen of Ash
+  - Speaker: DM and table
+  - Source Lines: u9171-u9206
+  - Output: audio-004.m4a
+  - Why Called Out: Delwath flies after the queen with the Raven’s Whistle, lands the final blows, and the glowing blade reduces her to dust in a burst of radiant light.
+
+- ID: audio-005
+  - Title: Rai’s farewell and final Wish
+  - Speaker: DM and table
+  - Source Lines: u10495-u10528
+  - Output: audio-005.m4a
+  - Why Called Out: The golden bird, Rai’s release from jade, Kyr’s invitation to rest, and the final Wish form the emotional conclusion to the unfinished Great War.
