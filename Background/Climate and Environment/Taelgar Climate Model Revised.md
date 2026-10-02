@@ -36,6 +36,28 @@ In the convention used here, **A** climates have every monthly mean at least 18Â
 
 %%^End%%
 
+## Seasonal pressure and prevailing winds
+
+The broad circulation has low pressure around the tropical rain belt, subtropical ocean highs, a temperate belt of westerlies and passing lows, and polar high pressure farther north. These patterns shift toward the summer hemisphere, while seasonal heating and cooling of the continent reshape them. The seasons below are northern-hemisphere seasons; wind names indicate where the air comes from.
+
+### Summer
+
+**Ocean highs expand northward while heated land favors lower pressure.** The western subtropical high extends toward Chardon and the Coastlands, bringing stable, dry summer weather. Clockwise flow around it favors **north to northwest winds** along exposed western shores and **west to southwest winds** farther north. Passing ocean lows chiefly affect Mawar and the northern coast, with occasional incursions toward Valandros and the western forests.
+
+Across the warmer interior, heating encourages lower pressure and draws air inland from the surrounding seas. Along the Nevos, **west to southwest winds** carry summer moisture into Darba and Dunmar. Mountain shelter and moisture loss leave Hara and Garamjala progressively drier; hot interior low pressure can persist over very dry ground.
+
+The working Green Sea pattern combines a **maritime high toward Irrla**, a **summer low toward Cymea**, and recurring **higher pressure across the cooler northern districts toward Ursk**. This arrangement favors **east to northeast winds** along the northern sea and **northeast winds** carrying maritime air southwest into Sembara and the Western Gulf. On the western side of the Irrla high, **southerly winds** carry air northward over the sea. Passing disturbances and the margins of the highs continue to supply rain.
+
+Farther south, the tropical rain belt shifts northward, helping extend seasonal rains into the southern mainland. **Easterly trade winds** remain the broad background flow outside the monsoon districts, supplying moisture to exposed tropical coasts and uplands.
+
+### Winter
+
+**Cold continental highs strengthen while ocean storms become more active.** High pressure builds over the cold northern interior and uplands, including the Zimkovaâ€“Vostok country and the northern forests. Cold air spreads into the temperate districts in recurring **northerly and easterly outbreaks**. Mountain barriers and distance from the sea help these cold, dry conditions persist inland.
+
+Over the northern ocean, recurrent **low pressure** and stronger **westerlies** bring frequent moving storms. The western subtropical high retreats south, allowing **west to southwest winds** and rain-bearing systems to reach Chardon, Apporia, the western basins, and the Sentinel slopes. Farther north, maritime weather alternates with colder outbreaks. Across the northern Green Sea, **westerly winds** return as the summer Urskan high and Cymean low subside. Passing lows also bring intermittent rain or snow into Sembara and Cymea.
+
+The subtropical high over the Green Sea shifts toward its southern basin and Medju, favoring settled weather and light or variable winds near its center. Higher pressure also gains influence over Dunmar and the northern Nevos as the summer land low weakens; **continental and northeasterly flow** becomes more common and the monsoon withdraws. The tropical rain belt shifts southward, bringing the drier season to its northern margins while humid equatorial districts retain recurring rain.
+
 ## Regional climates
 
 ### Western coast and Apporia
@@ -215,6 +237,7 @@ On the continental basemap, small hexes measure 24 miles between opposite edges.
 This qualitative model combines adopted climatic constraints with broad geographic projections and locally identified magical possibilities. [[Climate and Weather Constraints]] supplies the retained climatic requirements and evidence limits.
 
 %% Source alignment:
+- The seasonal circulation overview generalizes [[Western Ocean and Coast Circulation]], [[Dunmar and Nevos Circulation]], and [[Green Sea Atmospheric Circulation]] within the continental framework. The Urskan summer high remains a working explanation for the retained northern Green Sea summer easterlies. Tropical and polar wind belts, and broad winter continental outflow, extend the physical model across the continent.
 - [[Climate of the Northwestern Interior]] retains warmer-to-hotter summer and western Great Plains comparisons for Voltara and Erbalta. This model instead uses moderate summers and less severe ordinary winters. [[Chasa River Valley]] describes occasional inland frost; the lowland treatment here makes frost occasional and localized rather than a regular regional feature.
 - [[Climate of the Green Sea Shores]] retains a Russian Far East/Sakhalin comparison and broadly short, cool summers for Ursk. This model gives inhabited Ursk a cold winter and meaningful summer warmth.
 - The Slate Sea coast, Yeraad basin, Illoria, Irrla, and Eastern Isles summaries extend the continental framework into less-developed areas. [[Climate and Weather Constraints]] defines the evidence limits, including the exclusions for Irrla and exceptional Eastern Isles weather.
@@ -225,6 +248,9 @@ This qualitative model combines adopted climatic constraints with broad geograph
 %%
 
 %% Physical references:
+- [NOAA on global atmospheric circulation](https://www.noaa.gov/jetstream/global/global-atmospheric-circulations): broad pressure and wind belts, modified by the distribution of land and sea.
+- [Bureau of Meteorology on the subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge): seasonal movement of subtropical high pressure and its influence on rain-bearing systems; hemisphere and geography are adapted to Taelgar.
+- [American Meteorological Society on air patterns](https://www.ametsoc.org/ams/education-careers/education-program/undergraduate-curriculum/weather-studies/course-components/investigations-manual/weather-manual-01b/): surface winds spiral clockwise outward around Northern Hemisphere highs and counterclockwise inward around lows.
 - [NOAA on maritime air and terrain](https://www.noaa.gov/jetstream/ocean/marine-layer): terrain limits the unchanged inland penetration of coastal cooling.
 - [Met Office regional climates](https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates): maritime and continental influences on temperate seasonal variation.
 - [National Weather Service river ice guidance](https://www.weather.gov/lot/hydrology_education_observations): river ice and rapid freezing of smaller waterways.
