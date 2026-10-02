@@ -68,7 +68,7 @@ At a regional council in [[Cleenseau]], the party and local leaders agree to exp
 The party heals residents, deceives Asineau's lord into fearing a fey curse, and recruits trainers in [[Taviose]].
 
 #### Long
-In [[Asineau]], [[Eleanor]] tells the party about the disappearances of [[Sarabeth Asa]] and [[Lucas Asa]]. While Robin, Celyn, and [[El]] heal residents, Viepuck and Izgil convince [[Lorin Valbert]] that hostile fey are stealing his heirlooms and preparing to attack him. In [[Taviose]], [[Hugh Darrow]] and [[Phillipa Northwood]] agree to help train soldiers, the party visits [[Remy Darrow]], and [[Brot Starsearcher]] agrees to make barding. The party also receives a [[Letter from Rosalind (January 8th)|letter from Rosalind Essford]] with news of the siege of Fellburn. Reports from [[Ida Rosfeld]] and [[Duncan Rivers]] bring further news of [[Colonel Claude Leclerc]] and the wider undead attacks.
+In [[Asineau]], [[Eleanor]] tells the party about the disappearances of [[Sarabeth Asa]] and [[Lucas Asa]]. While Robin, Celyn, and [[El]] heal residents, Viepuck and Izgil convince [[Lorin Valbert]] that hostile fey are stealing his heirlooms and preparing to attack him. In [[Taviose]], [[Hugh Darrow]] and [[Phillipa Northwood]] agree to help train soldiers, the party visits [[Remy Darrow]], and [[Brot Starsearcher]] agrees to make barding. The party also receives a [[Letter from Rosalind (January 8th)|letter from Rosalind Essford]] with news of the siege of Fellburn. Reports from [[Ida Rosfeld]] and [[Duncan Rivers]] bring further news of [[Claude Leclerc]] and the wider undead attacks.
 
 ### 1720-01-12
 
@@ -151,7 +151,7 @@ The party deceives Asineau's lord and recruits local support for the regional de
 The party heals residents in Asineau, convinces Lorin that hostile fey are pursuing him, and recruits trainers and craftspeople in Taviose.
 
 #### Long
-In [[Asineau]], [[Eleanor]] tells the party about the disappearances of [[Sarabeth Asa]] and [[Lucas Asa]]. While Robin, Celyn, and [[El]] heal residents, Viepuck and Izgil convince [[Lorin Valbert]] that hostile fey are stealing his heirlooms and preparing to attack him. In [[Taviose]], [[Hugh Darrow]] and [[Phillipa Northwood]] agree to help train soldiers, the party visits [[Remy Darrow]], and [[Brot Starsearcher]] agrees to make barding. The party also receives a [[Letter from Rosalind (January 8th)|letter from Rosalind Essford]] with news of the siege of Fellburn. Reports from [[Ida Rosfeld]] and [[Duncan Rivers]] bring further news of [[Colonel Claude Leclerc]] and the wider undead attacks.
+In [[Asineau]], [[Eleanor]] tells the party about the disappearances of [[Sarabeth Asa]] and [[Lucas Asa]]. While Robin, Celyn, and [[El]] heal residents, Viepuck and Izgil convince [[Lorin Valbert]] that hostile fey are stealing his heirlooms and preparing to attack him. In [[Taviose]], [[Hugh Darrow]] and [[Phillipa Northwood]] agree to help train soldiers, the party visits [[Remy Darrow]], and [[Brot Starsearcher]] agrees to make barding. The party also receives a [[Letter from Rosalind (January 8th)|letter from Rosalind Essford]] with news of the siege of Fellburn. Reports from [[Ida Rosfeld]] and [[Duncan Rivers]] bring further news of [[Claude Leclerc]] and the wider undead attacks.
 
 ### recap-004 | The Vacant Manor
 
@@ -196,7 +196,7 @@ The party learns that [[Lorin Valbert]] has disappeared after leaving a document
 - [[Brot Starsearcher]] (met): smith who agrees to make colorful barding
 - [[Duncan Rivers]] (met): innkeeper who reports rumors of the attack on Eftly
 - [[Rosalind Essford]] (heard from): heir to Cleenseau who sends news of Fellburn by letter
-- [[Colonel Claude Leclerc]] (heard of): officer whose informal blessing allows Ida to aid Cleenseau
+- [[Claude Leclerc]] (heard of): officer whose informal blessing allows Ida to aid Cleenseau
 - [[Sarabeth Asa]] (heard of): former resident of Asineau who disappeared in 1667
 - [[Lucas Asa]] (heard of): Sarabeth's son, who later disappeared with his family
 - [[Marigold Stonebridge]] (met): innkeeper who thanks the party for recovering Rose's rapier

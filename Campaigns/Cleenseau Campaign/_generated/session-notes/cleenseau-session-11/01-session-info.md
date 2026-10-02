@@ -139,7 +139,7 @@ Sunday, February 4, 2024
 - [[Brot Starsearcher]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): smith who agrees to make colorful barding.
 - [[Duncan Rivers]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): innkeeper who reports rumors of the attack on Eftly.
 - [[Rosalind Essford]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): heir to [[Cleenseau]] who sends news of Fellburn by letter.
-- [[Colonel Claude Leclerc]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): officer whose informal blessing allows Ida to aid [[Cleenseau]].
+- [[Claude Leclerc]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): officer whose informal blessing allows Ida to aid [[Cleenseau]].
 - [[Sarabeth Asa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): former resident of [[Asineau]] who disappeared in 1667.
 - [[Lucas Asa]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): Sarabeth's son, who later disappeared with his family.
 - [[Marigold Stonebridge]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): innkeeper who thanks the party for recovering Rose's rapier.
