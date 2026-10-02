@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Character Sheet: Sir Beryl Athera
 
 - **Player:** Mike Sackton

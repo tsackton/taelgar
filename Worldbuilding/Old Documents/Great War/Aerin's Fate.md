@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Aerin's Fate
 
 Schwartz-

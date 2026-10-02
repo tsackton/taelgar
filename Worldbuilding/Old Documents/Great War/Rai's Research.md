@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Rai's Research
 
 Rai’s Research

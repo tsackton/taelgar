@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # NPC List
 
 | Name | Detail Level | Notes | Completed? |

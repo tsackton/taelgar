@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Beryl's Information About the War
 
 Information - Rangers
