@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Mos Numena
 
 ## Mike Sackton — August 4, 2021 at 4:56 PM

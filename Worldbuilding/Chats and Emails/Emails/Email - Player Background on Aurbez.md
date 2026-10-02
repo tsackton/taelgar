@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # More background
 
 ## Mike Sackton to Chris — August 22, 2022 at 6:13 PM

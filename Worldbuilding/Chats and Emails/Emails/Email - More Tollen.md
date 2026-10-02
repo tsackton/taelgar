@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # more Tollen
 
 ## Tim Sackton — January 9, 2022 at 2:22 PM

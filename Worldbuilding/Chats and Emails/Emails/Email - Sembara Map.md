@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Sembara map
 
 ## Tim Sackton — January 17, 2021 at 4:53 PM

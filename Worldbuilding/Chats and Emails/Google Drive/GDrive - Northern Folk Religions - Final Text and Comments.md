@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Northern Folk Religions: Final Text and Comments
 
 Source: Google Drive document ID 1dRVEq1Mgk-AMf0byJtrNmOirgSSECSox78WESmwE8VA

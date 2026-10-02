@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Tollen history
 
 ## Tim Sackton — January 9, 2022 at 1:01 PM

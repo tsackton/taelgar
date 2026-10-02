@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Halflings: Final Text and Comments
 
 Source: Google Drive document ID 1E1cGZ9FET9soBgrpOrLXcJXoScrAo46D5jsUMVITN2Y

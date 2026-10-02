@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Brief Geography of Taelgar: Final Text and Comments
 
 Source: Google Drive document ID 1azkJiSspFQxaqGY1pYE-cN8UorwyrW69hMaxAj_zvhA

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # background
 
 ## Mike Sackton — May 27, 2020 at 8:29 PM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # dwarves redux
 
 ## Tim Sackton — November 17, 2019 at 8:50 PM

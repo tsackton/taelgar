@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Tokra notes
 
 ## Tim Sackton — August 18, 2021 at 7:51 PM

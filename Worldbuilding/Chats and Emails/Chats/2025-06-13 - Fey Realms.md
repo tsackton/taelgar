@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-06-13 - Fey Realms
 
 [2025-06-13 10:41 AM] rsulfuratus: guessing you are too busy at work and with trip prep to think about taelgar much, but in case not: i am working on the next adventure for my addermarch campaign, and it is likely to impinge on the feywild a bit, which is leading me to finally try to anchor this in time. 

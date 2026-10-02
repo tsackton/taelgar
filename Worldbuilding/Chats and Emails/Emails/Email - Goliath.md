@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Goliath
 
 ## Tim Sackton — December 6, 2019 at 6:18 PM

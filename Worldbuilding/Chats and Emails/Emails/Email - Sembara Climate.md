@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Sembara climate
 
 ## Tim Sackton — January 12, 2021 at 1:01 PM

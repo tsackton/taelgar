@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Isingue
 
 ## Tim Sackton — July 19, 2023 at 12:59 PM

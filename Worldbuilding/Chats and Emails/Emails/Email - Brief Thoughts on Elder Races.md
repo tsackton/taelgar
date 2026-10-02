@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # brief thoughts on the elder races
 
 ## Mike Sackton — January 28, 2021 at 9:28 AM

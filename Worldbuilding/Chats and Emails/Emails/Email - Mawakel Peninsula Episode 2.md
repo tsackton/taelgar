@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Mawakel peninsula episode 2
 
 ## Tim Sackton — August 12, 2021 at 8:48 PM

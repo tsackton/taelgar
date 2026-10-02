@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Green Sea Trade Routes
 
 ## Mike Sackton — July 17, 2023 at 3:35 PM

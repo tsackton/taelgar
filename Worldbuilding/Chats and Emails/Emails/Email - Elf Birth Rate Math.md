@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # elf birth rate math
 
 ## Mike Sackton — January 25, 2021 at 8:48 PM

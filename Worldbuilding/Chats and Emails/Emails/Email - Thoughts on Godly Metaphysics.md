@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Thoughts on godly metaphysics
 
 ## Mike Sackton — June 7, 2021 at 8:28 PM

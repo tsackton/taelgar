@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Taelgar Campaign
 
 ## Tim Sackton — May 3, 2020 at 3:44 PM

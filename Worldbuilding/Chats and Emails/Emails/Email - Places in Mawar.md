@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Places in Mawar
 
 ## Mike Sackton — August 16, 2021 at 2:58 PM

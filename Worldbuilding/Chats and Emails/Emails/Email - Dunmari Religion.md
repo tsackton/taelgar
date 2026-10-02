@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Dunmari religion
 
 ## Tim Sackton — February 3, 2021 at 4:29 PM

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Dwarves — pre-playtest update
 
 Source subject: (No Subject)

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # More Taelgar
 
 ## Mike Sackton — December 29, 2022 at 7:06 PM

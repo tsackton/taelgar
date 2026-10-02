@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Tyrwingha and fey background
 
 ## Mike Sackton — January 1, 2023 at 9:46 PM

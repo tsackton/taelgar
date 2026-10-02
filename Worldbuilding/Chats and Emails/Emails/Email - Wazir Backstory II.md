@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Wazir Backstory Take 2
 
 ## Mike Sackton — August 15, 2021 at 9:12 PM

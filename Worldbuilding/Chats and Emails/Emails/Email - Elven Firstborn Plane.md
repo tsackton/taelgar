@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # elven firstborn plane - some thoughts
 
 ## Mike Sackton — November 7, 2021 at 10:29 AM

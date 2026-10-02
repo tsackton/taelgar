@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Taelgar west coast history
 
 ## Tim Sackton — August 9, 2022 at 4:45 PM

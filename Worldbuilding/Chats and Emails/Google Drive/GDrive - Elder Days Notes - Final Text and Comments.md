@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Elder Days Notes: Final Text and Comments
 
 Source: Google Drive document ID 1popahgeC9qBzKzUwrfGGqERvluuojCWGxa_g_nYdS1g

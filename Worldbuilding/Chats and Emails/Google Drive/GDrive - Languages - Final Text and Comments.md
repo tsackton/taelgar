@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Languages: Final Text and Comments
 
 Source: Google Drive document ID 1tapKh6iyPiIJd56KZRqKqkubJXNoaQoHAv-wr6m1T1s

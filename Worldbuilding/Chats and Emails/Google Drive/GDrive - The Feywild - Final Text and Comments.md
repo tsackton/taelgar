@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # The Feywild: Final Text and Comments
 
 Source: Google Drive document ID 1QMwN38-d-VG2OaFWq07A6hh5ui6yX5mcRnxzt7yVa1o

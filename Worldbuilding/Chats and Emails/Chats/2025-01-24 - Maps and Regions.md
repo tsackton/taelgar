@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-01-24 - Maps and Regions
 
 *[Editorial note: Cut 44 messages about vault organization, regional labels, metadata, and map tools.]*

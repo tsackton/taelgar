@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # A few more people and places in Hamri
 
 ## Mike Sackton — August 18, 2021 at 5:59 PM

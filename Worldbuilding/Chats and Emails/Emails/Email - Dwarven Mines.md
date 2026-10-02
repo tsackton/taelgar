@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Dwarven Mines
 
 ## Mike Sackton — October 17, 2022 at 10:31 PM

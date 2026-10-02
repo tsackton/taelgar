@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Skaer
 
 ## Mike Sackton — July 20, 2023 at 9:27 PM

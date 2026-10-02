@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # basic sketch of 'eastern' religion
 
 ## Mike Sackton — January 27, 2021 at 3:36 PM
