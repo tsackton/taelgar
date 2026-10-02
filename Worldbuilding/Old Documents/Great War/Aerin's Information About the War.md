@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Aerin's Information About the War
 
 Information - Kenku Scouts

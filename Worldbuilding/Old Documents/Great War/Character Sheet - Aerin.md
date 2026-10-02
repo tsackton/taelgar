@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Character Sheet: Aerin
 
 - **Player:** David Schwartz
