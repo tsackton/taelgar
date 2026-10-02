@@ -1,0 +1,1606 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party rests with Rai and learns how his attempt to heal Isingue trapped him in Limbo.",
+      "longSummary": "During a long rest in the monks' sanctuary, the party hears how Rai reinforced Apollyon's prison in Drankor and hid the phylactery before returning to the unfinished consequences of the Great War. At Isingue, a ritual intended to close a portal instead tore Rai and the monks into Limbo; Rai saved most of them and sent Dimitaur for help. His absence and Apollyon's later escape were separate events, the latter enabled by Fausto and the Cleansed. Rai has experienced only about five years while roughly thirty passed outside.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Limbo",
+        "context": "Rai and the monks' stable sanctuary"
+      },
+      "npcs": [
+        {
+          "name": "Rai",
+          "role": "encountered",
+          "notes": "Sustaining the monks' sanctuary while contesting control of the relic."
+        },
+        {
+          "name": "Dimitaur",
+          "role": "mentioned",
+          "notes": "Rai sent him for help when pulled into Limbo."
+        },
+        {
+          "name": "Apollyon",
+          "role": "mentioned",
+          "notes": "Rai previously reinforced his prison."
+        },
+        {
+          "name": "Fausto",
+          "role": "mentioned",
+          "notes": "Enabled Apollyon's later escape through the Cleansed."
+        }
+      ],
+      "items": [
+        {
+          "name": "Apollyon's phylactery",
+          "role": "mentioned",
+          "notes": "Rai concealed it after Cha'mutte's death."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Cleansed",
+          "role": "mentioned",
+          "notes": "Corrupted by Apollyon and involved in his attempted escape."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Rai brings the sanctuary closer to the tower and explains how the party can recover the relic and return.",
+      "longSummary": "The rescued monks are becoming substantial again, but all depend on rigorous routines to resist Limbo's decay. Rai pulls their sanctuary along a green-gold tether while contesting the relic with an ancient Limbo being. The party arranges initial telepathic contact and a fox messenger for the return signal; the tower will block contact. Rai warns that taking the relic may rapidly destabilize the region, and explains that its tether can draw them back if they hold it and maintain their own stable surroundings.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Limbo",
+        "context": "The monks' moving sanctuary"
+      },
+      "npcs": [
+        {
+          "name": "Rai",
+          "role": "encountered",
+          "notes": "Sustaining the monks' sanctuary while contesting control of the relic."
+        }
+      ],
+      "items": [
+        {
+          "name": "Planar relic",
+          "role": "mentioned",
+          "notes": "Rai is contesting it and will use its tether to draw the party back."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker stabilizes the ashen approach and the party plans simultaneous Dimension Doors into the Impossible Tower.",
+      "longSummary": "Crossing the ash exposes the party to Limbo's instability until Seeker imagines a protective glass sphere. They reach a twisting, non-Euclidean tower of matte black metal with emerald doors, two metallic centaur guards, and another concealed presence outside. Divination cannot penetrate the interior. The party plans to send three pairs through the walls using Dimension Door, including Seeker 6 and the animated ladder, knowing that the tower may redirect them.",
+      "location": {
+        "kind": "journey",
+        "from": "Monks' sanctuary (Limbo)",
+        "to": "Impossible Tower (Limbo)",
+        "context": "Travel through unstable ash"
+      },
+      "npcs": [
+        {
+          "name": "Seeker 6",
+          "role": "companion",
+          "notes": "Seeker's distinct simulacrum, traveling with an animated ladder."
+        },
+        {
+          "name": "Bob",
+          "role": "enemy",
+          "notes": "Party nickname for one of the metallic centaur guards."
+        },
+        {
+          "name": "Goldie",
+          "role": "enemy",
+          "notes": "Party nickname for the other metallic centaur guard."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The Dimension Doors scatter the party between the guarded entrance, a hostile foyer, and the library.",
+      "longSummary": "Kenzo and Seeker are redirected outside, where they try to pass themselves off as expected guests. Delwath and Wellby reach a foyer with four dark-flame pillars, a violet orb, and a mosaic of a war between chaotic beings and clockwork forces. Truesight reveals twenty liquid-stone minions under an illusory floor, and the minions attack. Seeker 6 and the ladder land elsewhere in the tower, leaving the party divided.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Exterior gate and entrance foyer"
+      },
+      "npcs": [
+        {
+          "name": "Bob",
+          "role": "enemy",
+          "notes": "Party nickname for one of the metallic centaur guards."
+        },
+        {
+          "name": "Goldie",
+          "role": "enemy",
+          "notes": "Party nickname for the other metallic centaur guard."
+        },
+        {
+          "name": "Seeker 6",
+          "role": "companion",
+          "notes": "Seeker's distinct simulacrum, traveling with an animated ladder."
+        },
+        {
+          "name": "Liquid-stone minions",
+          "role": "enemy",
+          "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        },
+        {
+          "name": "Violet orb",
+          "role": "encountered",
+          "notes": "Mechanism in the foyer."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Bob",
+            "notes": "Party nickname for one of the metallic centaur guards."
+          },
+          {
+            "name": "Goldie",
+            "notes": "Party nickname for the other metallic centaur guard."
+          },
+          {
+            "name": "Liquid-stone minions",
+            "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+          }
+        ],
+        "notes": "The Dimension Doors scatter the party between the guarded entrance, a hostile foyer, and the library."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Wellby opens the gate while Kenzo and Seeker keep the centaur guards distracted.",
+      "longSummary": "Wellby reaches the doors and opens a route between the split groups. Kenzo and Seeker continue their guest pretext, while Delwath and Wellby conceal themselves among the dark-flame pillars and contend with the minions. The disturbance draws the centaurs inside; rather than let them warn the queen, the party prepares an ambush after the doors close.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Gate and entrance foyer"
+      },
+      "npcs": [
+        {
+          "name": "Bob",
+          "role": "enemy",
+          "notes": "Party nickname for one of the metallic centaur guards."
+        },
+        {
+          "name": "Goldie",
+          "role": "enemy",
+          "notes": "Party nickname for the other metallic centaur guard."
+        },
+        {
+          "name": "Liquid-stone minions",
+          "role": "enemy",
+          "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Bob",
+            "notes": "Party nickname for one of the metallic centaur guards."
+          },
+          {
+            "name": "Goldie",
+            "notes": "Party nickname for the other metallic centaur guard."
+          },
+          {
+            "name": "Liquid-stone minions",
+            "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+          }
+        ],
+        "notes": "Wellby opens the gate while Kenzo and Seeker keep the centaur guards distracted."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party ambushes Bob and Goldie while Seeker 6 reports a separate battle in the library.",
+      "longSummary": "Seeker 6 contacts the others telepathically from a library, where he and the animated ladder are holding a stone barrier against two defenders. In the foyer, Wellby blinds the centaurs, Kenzo closes on Bob, and Seeker summons a clay construct. The liquid-stone minions swarm into the fight, knocking Seeker down and threatening the party with their numbers.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Entrance foyer; telepathic contact with the library"
+      },
+      "npcs": [
+        {
+          "name": "Bob",
+          "role": "enemy",
+          "notes": "Party nickname for one of the metallic centaur guards."
+        },
+        {
+          "name": "Goldie",
+          "role": "enemy",
+          "notes": "Party nickname for the other metallic centaur guard."
+        },
+        {
+          "name": "Liquid-stone minions",
+          "role": "enemy",
+          "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+        },
+        {
+          "name": "Seeker 6",
+          "role": "companion",
+          "notes": "Seeker's distinct simulacrum, traveling with an animated ladder."
+        },
+        {
+          "name": "Clay construct",
+          "role": "companion",
+          "notes": "Summoned by Seeker in the entrance fight."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Bob",
+            "notes": "Party nickname for one of the metallic centaur guards."
+          },
+          {
+            "name": "Goldie",
+            "notes": "Party nickname for the other metallic centaur guard."
+          },
+          {
+            "name": "Liquid-stone minions",
+            "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+          }
+        ],
+        "notes": "The party ambushes Bob and Goldie while Seeker 6 reports a separate battle in the library."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Bob dies trying to retreat, but Goldie destroys Seeker's clay construct.",
+      "longSummary": "Kenzo and the clay construct press Bob while Delwath brings radiant magic against the clustered minions. Bob is killed by the construct as he tries to flee. Goldie's ironlike armor reduces incoming damage, and he destroys the clay construct while the remaining liquid-stone enemies continue swarming the party.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Entrance foyer"
+      },
+      "npcs": [
+        {
+          "name": "Bob",
+          "role": "enemy",
+          "notes": "Party nickname for one of the metallic centaur guards."
+        },
+        {
+          "name": "Goldie",
+          "role": "enemy",
+          "notes": "Party nickname for the other metallic centaur guard."
+        },
+        {
+          "name": "Liquid-stone minions",
+          "role": "enemy",
+          "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+        },
+        {
+          "name": "Clay construct",
+          "role": "companion",
+          "notes": "Killed by Goldie after striking Bob down."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Bob",
+            "notes": "Party nickname for one of the metallic centaur guards."
+          },
+          {
+            "name": "Goldie",
+            "notes": "Party nickname for the other metallic centaur guard."
+          },
+          {
+            "name": "Liquid-stone minions",
+            "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+          }
+        ],
+        "notes": "Bob dies trying to retreat, but Goldie destroys Seeker's clay construct."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Wellby kills Goldie and the party destroys the last liquid-stone minions.",
+      "longSummary": "Delwath's Sickening Radiance clears much of the swarm, while Wellby blinds and eventually shoots down Goldie. Kenzo helps free Seeker from the remaining attackers; Seeker destroys one with Vicious Mockery, and Kenzo deflects the final attack back into its source. The entrance is clear, with the defeated creatures decaying rather than leaving durable bodies.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Entrance foyer"
+      },
+      "npcs": [
+        {
+          "name": "Goldie",
+          "role": "enemy",
+          "notes": "Party nickname for the other metallic centaur guard."
+        },
+        {
+          "name": "Liquid-stone minions",
+          "role": "enemy",
+          "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Goldie",
+            "notes": "Party nickname for the other metallic centaur guard."
+          },
+          {
+            "name": "Liquid-stone minions",
+            "notes": "Droplets of animated stone concealed beneath the entrance floor illusion."
+          }
+        ],
+        "notes": "Wellby kills Goldie and the party destroys the last liquid-stone minions."
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker rotates the tower's orientation and Delwath leads an invisible passage past the frozen-lightning guardian.",
+      "longSummary": "Examining the violet orb through his goggles, Seeker finds a lever that changes the direction of the floor by ninety degrees. The next level holds inscribed statues and an empty pedestal, together with a giant made of frozen lightning whose presence carries thunder. Seeker uses Legend Lore, but the party chooses to avoid a confrontation: Delwath makes them invisible and they sneak across with Kenzo and Wellby guiding them.",
+      "location": {
+        "kind": "journey",
+        "from": "Entrance foyer (Impossible Tower)",
+        "to": "Library approach (Impossible Tower)",
+        "context": "Through the rotated statue floor"
+      },
+      "npcs": [
+        {
+          "name": "Frozen-lightning guardian",
+          "role": "encountered",
+          "notes": "Bypassed using invisibility; not fought."
+        }
+      ],
+      "items": [
+        {
+          "name": "Seeker's goggles",
+          "role": "encountered",
+          "notes": "Used to examine the tower's mechanisms and the relic."
+        },
+        {
+          "name": "Violet orb",
+          "role": "encountered",
+          "notes": "Its lever changes the tower's orientation."
+        },
+        {
+          "name": "Inscribed statues",
+          "role": "encountered",
+          "notes": "Include Pel Ossa and other named warriors, with one large pedestal empty."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party reaches Seeker 6 and joins his fight against Naren and a metallic-blood defender.",
+      "longSummary": "The library is upside down relative to the party's approach. Seeker 6 is still sheltering behind a stone barrier with the ladder while a metallic-blood polearm fighter and Naren, a winged figure with a blazing sun-like head, assault it. These defenders can perceive the arriving party despite invisibility and promise rebirth by the queen. Kenzo attacks Naren and Wellby blinds him as the library battle expands.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Upside-down library"
+      },
+      "npcs": [
+        {
+          "name": "Seeker 6",
+          "role": "companion",
+          "notes": "Seeker's distinct simulacrum, traveling with an animated ladder."
+        },
+        {
+          "name": "Naren",
+          "role": "enemy",
+          "notes": "Winged library defender with a blazing sun-like head."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Naren",
+            "notes": "Winged library defender with a blazing sun-like head."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          }
+        ],
+        "notes": "The party reaches Seeker 6 and joins his fight against Naren and a metallic-blood defender."
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker 6 kills Naren with Chain Lightning before the metallic-blood defender destroys him.",
+      "longSummary": "Naren's head heals and clears conditions, and the original Seeker incapacitates Naren with a psychic rune. Delwath curses and attacks while the metallic-blood creature breaks through the stone barrier. Seeker 6's readied Chain Lightning kills Naren, and the ladder also strikes the remaining foe, but the blood defender cuts down the simulacrum, who crumbles into ice.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Library"
+      },
+      "npcs": [
+        {
+          "name": "Seeker 6",
+          "role": "companion",
+          "notes": "Seeker's distinct simulacrum, traveling with an animated ladder."
+        },
+        {
+          "name": "Naren",
+          "role": "enemy",
+          "notes": "Winged library defender with a blazing sun-like head."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Naren",
+            "notes": "Winged library defender with a blazing sun-like head."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          }
+        ],
+        "notes": "Seeker 6 kills Naren with Chain Lightning before the metallic-blood defender destroys him."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Wellby finishes the metallic-blood defender after the ladder and the party wear it down.",
+      "longSummary": "The defender resists several forms of damage and repeatedly tries to boil its opponents' blood, but those saving throws succeed. The ladder grapples it and survives with very little strength remaining. Seeker casts Chain Lightning, Kenzo strikes, and Delwath attacks with his extended reach; after the creature threatens Wellby as well, Wellby's arrow ends the fight.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Library"
+      },
+      "npcs": [
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          }
+        ],
+        "notes": "Wellby finishes the metallic-blood defender after the ladder and the party wear it down."
+      }
+    },
+    {
+      "beatId": "beat-013",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath provides a rapid rest while Wellby finds a key, runic gemstones, and three notebooks.",
+      "longSummary": "The party pauses to recover and briefly memorializes Seeker 6. Delwath's Prayer of Healing gives them a short rest in ten minutes. Wellby searches the library, finding a magical black-metal key submerged in a desk drawer that looks like stone but behaves like water, gemstone discs hidden under an illusory desktop, and three notebooks in a wooden desk.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Library"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Black-metal key",
+          "role": "encountered",
+          "notes": "Recovered from liquid stone inside a library desk; opens the solid-air portal."
+        },
+        {
+          "name": "Runic gemstone discs",
+          "role": "encountered",
+          "notes": "Eleven discs; the party suspects a relationship to the tower's thirteen statues, without establishing how they work."
+        },
+        {
+          "name": "Three primordial-war notebooks",
+          "role": "encountered",
+          "notes": "Library texts apparently recounting warriors' deeds before time and Limbo; retained for later study."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-014",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The notebooks describe an ancient war and the key opens a portal in the library's solid air.",
+      "longSummary": "Delwath reads fragments of the notebooks, which apparently preserve deeds of warriors such as Pel Ossa and memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle that marks an invisible solid-air barrier rather than a warning trap. Tests with a bat, Arcane Eye, and Mage Hand reveal a keyhole; the black-metal key opens a portal. Scouting beyond it reveals two statues and a door in the ceiling. Eleven gemstone discs may relate to the thirteen statues, but the correspondence remains unresolved.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Library and portal threshold"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Black-metal key",
+          "role": "encountered",
+          "notes": "Recovered from liquid stone inside a library desk; opens the solid-air portal."
+        },
+        {
+          "name": "Runic gemstone discs",
+          "role": "encountered",
+          "notes": "Eleven discs; the party suspects a relationship to the tower's thirteen statues, without establishing how they work."
+        },
+        {
+          "name": "Three primordial-war notebooks",
+          "role": "encountered",
+          "notes": "Library texts apparently recounting warriors' deeds before time and Limbo; retained for later study."
+        },
+        {
+          "name": "Inscribed statues",
+          "role": "encountered",
+          "notes": "The scouting route reveals two more, including a dark-flame figure and the Queen of Ash."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-015",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party crosses the portal and opens a trapped hatch after negotiating reversed gravity.",
+      "longSummary": "Beyond the portal, the party climbs toward a ceiling door with the animated ladder. Gravity reverses for Kenzo without injuring him, and the others anchor themselves with a rope to avoid uncontrolled falls. Seeker dispels the magical sigil on the locked hatch, then Wellby picks its lock. Their divination still cannot pass through the tower's walls.",
+      "location": {
+        "kind": "journey",
+        "from": "Library portal (Impossible Tower)",
+        "to": "Queen's chamber hatch (Impossible Tower)",
+        "context": "Through the statue chamber and its changing gravity"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-016",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Truesight exposes the Queen of Ash and her defenders behind an illusory vista.",
+      "longSummary": "The hatch opens onto a seemingly immense shifting landscape, but truesight reveals a chamber only about forty feet across. The Queen of Ash waits with another metallic-blood defender, a centaur, many dust-cloud minions, and an invisible Essence of Mist near the hatch. The party identifies her as the ancient being contesting the relic with Rai: she is trying to draw Limbo into the Material Plane to undo chaos' defeat by Order. No relic is visible, and the party chooses to fight.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Hatch above the Queen of Ash's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        },
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Planar relic",
+          "role": "mentioned",
+          "notes": "The party seeks it but cannot see it in this chamber."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-017",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party prepares spells, potions, and a fresh animated ladder for the assault.",
+      "longSummary": "Delwath and Kenzo adjust their positions at the hatch while the party decides how to enter the queen's chamber. Seeker reanimates the ladder with renewed strength. Delwath prepares Sickening Radiance and protection from damage, and the party weighs dragon form, battlefield reach, and Kenzo's available fireball beads before committing to initiative.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Hatch above the Queen of Ash's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-018",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath fills the chamber with Sickening Radiance and the queen answers with visions of chaos' defeat.",
+      "longSummary": "Delwath casts Sickening Radiance while protecting the four party members and the ladder from its effects. A wave of regret from the queen shows the defeat of chaos on an ancient battlefield; Delwath is dazed while the others resist. Wellby uses his clockwork amulet to steady a shot, knocking the queen prone and beginning the concentrated attack.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen of Ash's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        },
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        },
+        {
+          "name": "Clockwork amulet",
+          "role": "encountered",
+          "notes": "Used by Wellby to fix a roll while shooting the queen."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Metallic centaur",
+            "notes": "Armored defender in the queen's chamber."
+          },
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          },
+          {
+            "name": "Dust-cloud minions",
+            "notes": "Small hostile clouds in and above the queen's chamber."
+          }
+        ],
+        "notes": "Delwath fills the chamber with Sickening Radiance and the queen answers with visions of chaos' defeat."
+      }
+    },
+    {
+      "beatId": "beat-019",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The queen moves between the floor and hatch, attacks Wellby, and turns Kenzo into ash.",
+      "longSummary": "Wellby summons his triceratops, but Delwath's radiance also harms and exhausts it because it was not among the spell's protected creatures. The metallic-blood defender throws spears. The queen disperses into ash, appears near the hatch, attacks Wellby, and reduces Kenzo to drifting ash before returning to the lower chamber; Delwath strikes her as she moves away.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber and hatch"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Triceratops",
+          "role": "companion",
+          "notes": "Summoned from Wellby's figurine; vulnerable to Sickening Radiance."
+        }
+      ],
+      "items": [
+        {
+          "name": "Triceratops figurine",
+          "role": "encountered",
+          "notes": "Used by Wellby to summon the creature."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          }
+        ],
+        "notes": "The queen moves between the floor and hatch, attacks Wellby, and turns Kenzo into ash."
+      }
+    },
+    {
+      "beatId": "beat-020",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The Essence of Mist enters Seeker before he transforms into an adult gold dragon.",
+      "longSummary": "The radiance destroys many minions and exposes the Essence of Mist, which attacks Delwath and then hides inside Seeker after entering his mouth. The centaur fires at Wellby. Seeker jumps through the hatch and casts Shapechange, becoming an adult gold dragon while retaining his spellcasting and supporting the ash-bound Kenzo with bardic inspiration.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber and hatch"
+      },
+      "npcs": [
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          },
+          {
+            "name": "Metallic centaur",
+            "notes": "Armored defender in the queen's chamber."
+          },
+          {
+            "name": "Dust-cloud minions",
+            "notes": "Small hostile clouds in and above the queen's chamber."
+          }
+        ],
+        "notes": "The Essence of Mist enters Seeker before he transforms into an adult gold dragon."
+      }
+    },
+    {
+      "beatId": "beat-021",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Kenzo reforms and carries Delwath onto dragon Seeker, who expels the Essence of Mist.",
+      "longSummary": "Kenzo resists the queen's transformation and becomes human again, taking necrotic damage as the ash resolves. He activates his defense, destroys minions at the hatch, and uses Step of the Wind to carry the dazed Delwath onto Seeker's hovering dragon form. Seeker then banishes the Essence of Mist out of himself for a brief interval.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Hatch and dragon Seeker's back in the queen's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          },
+          {
+            "name": "Dust-cloud minions",
+            "notes": "Small hostile clouds in and above the queen's chamber."
+          }
+        ],
+        "notes": "Kenzo reforms and carries Delwath onto dragon Seeker, who expels the Essence of Mist."
+      }
+    },
+    {
+      "beatId": "beat-022",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath, Wellby, and dragon Seeker concentrate their attacks on the queen.",
+      "longSummary": "Delwath delivers heavy sword strikes and smites, then shakes off the daze. Seeker lashes out at the queen with his dragon attacks, though her fire immunity limits their effect. Wellby shoots at both the queen and blood defender and readies another shot to follow the triceratops' attack. The triceratops continues failing against the radiance and struggling to land blows, but the queen is now bloodied.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Triceratops",
+          "role": "companion",
+          "notes": "Exhausted by the radiance but still supporting Wellby."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          }
+        ],
+        "notes": "Delwath, Wellby, and dragon Seeker concentrate their attacks on the queen."
+      }
+    },
+    {
+      "beatId": "beat-023",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The defenders batter dragon Seeker while the queen calls more minions.",
+      "longSummary": "The metallic-blood creature attacks the dragon and tries unsuccessfully to boil Delwath's blood. Seeker spends a legendary resistance to maintain Shapechange under the damage. The queen attacks Delwath to break his concentration, but Sickening Radiance holds. The centaur strikes the dragon, and another wave of minions appears above the hatch; Wellby retreats down onto the dragon after further attacks.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber and upper hatch"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Metallic centaur",
+            "notes": "Armored defender in the queen's chamber."
+          },
+          {
+            "name": "Dust-cloud minions",
+            "notes": "Small hostile clouds in and above the queen's chamber."
+          }
+        ],
+        "notes": "The defenders batter dragon Seeker while the queen calls more minions."
+      }
+    },
+    {
+      "beatId": "beat-024",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker casts Chain Lightning as Kenzo and Delwath press their attacks on the queen.",
+      "longSummary": "Still a dragon, Seeker uses Chain Lightning against the queen, blood defender, and centaur. The banished mist returns on the ground. Kenzo unleashes a sustained series of staff blows and unarmed strikes at the queen, while Delwath marks and attacks her. A dragon banishment attempt against the blood creature fails, leaving the battle contested.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        },
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Metallic centaur",
+            "notes": "Armored defender in the queen's chamber."
+          },
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          }
+        ],
+        "notes": "Seeker casts Chain Lightning as Kenzo and Delwath press their attacks on the queen."
+      }
+    },
+    {
+      "beatId": "beat-025",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The queen's last ash burst knocks Wellby unconscious and Seeker shields him with his dragon body.",
+      "longSummary": "Wellby heals himself, shoots the badly wounded queen, and readies another attack. Her final sweeping ash burst hits everyone below the hatch; Kenzo and Delwath resist, but Wellby collapses and falls from the dragon with a failed death save. Seeker uses a legendary resistance to reduce the damage and preserve his form, then crouches protectively over Wellby while the exhausted triceratops tries to guard him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber floor and dragon Seeker's back"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Triceratops",
+          "role": "companion",
+          "notes": "Helps guard the unconscious Wellby."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          }
+        ],
+        "notes": "The queen's last ash burst knocks Wellby unconscious and Seeker shields him with his dragon body."
+      }
+    },
+    {
+      "beatId": "beat-026",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The defenders destroy Seeker's dragon form and tear the animated ladder apart.",
+      "longSummary": "The metallic-blood defender, queen, mist, and centaur repeatedly strike the dragon as Seeker narrowly maintains concentration. The queen's fire does not hurt his dragon form, but her teleport also damages the fallen Wellby. Seeker resists the mist's attempt to enter him again. The centaur finally exhausts the dragon's remaining vitality, returning Seeker to dwarf form; meanwhile, the clouds above the hatch shred the animated ladder.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber and upper hatch"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        }
+      ],
+      "items": [
+        {
+          "name": "Animated ladder",
+          "role": "encountered",
+          "notes": "Seeker's animated object used as an ally in combat and to climb between floors."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          },
+          {
+            "name": "Metallic centaur",
+            "notes": "Armored defender in the queen's chamber."
+          },
+          {
+            "name": "Dust-cloud minions",
+            "notes": "Small hostile clouds in and above the queen's chamber."
+          }
+        ],
+        "notes": "The defenders destroy Seeker's dragon form and tear the animated ladder apart."
+      }
+    },
+    {
+      "beatId": "beat-027",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker's next Chain Lightning destroys the centaur while Kenzo nearly finishes the queen.",
+      "longSummary": "Back in dwarf form, Seeker uses a seventh-level Chain Lightning against the three remaining lower-floor defenders. The centaur disintegrates, and the blood creature and mist are left wounded. Kenzo flies up after the queen and lands several staff and fist attacks, but she survives with very little strength remaining.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber and upper hatch"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Metallic centaur",
+          "role": "enemy",
+          "notes": "Armored defender in the queen's chamber."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          },
+          {
+            "name": "Metallic centaur",
+            "notes": "Armored defender in the queen's chamber."
+          }
+        ],
+        "notes": "Seeker's next Chain Lightning destroys the centaur while Kenzo nearly finishes the queen."
+      }
+    },
+    {
+      "beatId": "beat-028",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Delwath kills the queen and revives Wellby, and the triceratops destroys the Essence of Mist.",
+      "longSummary": "Delwath restores Wellby with Healing Word, flies to the queen using Raven's Whistle, and strikes her until she condenses and crumbles in a burst of radiant light. He returns to the lower floor to attack the mist. Wellby resumes shooting, and the exhausted triceratops finally charges through the mist, dispersing it. The blood defender forces Wellby to choose between burning blood and attacking Seeker; he ultimately shoots Seeker rather than take the fire damage.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Queen's chamber and upper hatch"
+      },
+      "npcs": [
+        {
+          "name": "Queen of Ash",
+          "role": "enemy",
+          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+        },
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Essence of Mist",
+          "role": "enemy",
+          "notes": "Invisible defender that can enter and hide inside another creature."
+        },
+        {
+          "name": "Triceratops",
+          "role": "companion",
+          "notes": "Destroys the mist before reverting to its figurine."
+        }
+      ],
+      "items": [
+        {
+          "name": "Raven's Whistle",
+          "role": "encountered",
+          "notes": "Lets Delwath fly to the queen and return to Wellby."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Queen of Ash",
+            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          },
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Essence of Mist",
+            "notes": "Invisible defender that can enter and hide inside another creature."
+          }
+        ],
+        "notes": "Delwath kills the queen and revives Wellby, and the triceratops destroys the Essence of Mist."
+      }
+    },
+    {
+      "beatId": "beat-029",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The collapsing tower rains spikes as Sickening Radiance kills the final blood defender.",
+      "longSummary": "The remaining blood creature knocks Wellby down again, and Seeker wounds it with Erupting Earth while Kenzo clears more minions. The ceiling collapses into iron spikes that strike everyone each round. Delwath heals Wellby again and attacks the defender; Wellby drinks a potion but misses. The triceratops reverts to stone, and the blood creature finally fails against Sickening Radiance and dies. Kenzo mops up the remaining clouds.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Impossible Tower",
+        "context": "Collapsing Queen of Ash's chamber"
+      },
+      "npcs": [
+        {
+          "name": "Metallic-blood defender",
+          "role": "enemy",
+          "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+        },
+        {
+          "name": "Dust-cloud minions",
+          "role": "enemy",
+          "notes": "Small hostile clouds in and above the queen's chamber."
+        },
+        {
+          "name": "Triceratops",
+          "role": "companion",
+          "notes": "Returns to its figurine after continued radiance damage."
+        }
+      ],
+      "items": [
+        {
+          "name": "Triceratops figurine",
+          "role": "encountered",
+          "notes": "Recovered when the summoned creature reverts."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Metallic-blood defender",
+            "notes": "A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber."
+          },
+          {
+            "name": "Dust-cloud minions",
+            "notes": "Small hostile clouds in and above the queen's chamber."
+          }
+        ],
+        "notes": "The collapsing tower rains spikes as Sickening Radiance kills the final blood defender."
+      }
+    },
+    {
+      "beatId": "beat-030",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Seeker switches the surviving magical door to a stable crystal chamber.",
+      "longSummary": "The tower's gravity ends as its floors disintegrate and metal needles continue falling. The ceiling door remains suspended and immovable. Seeker examines it through his goggles and finds a two-position switch that changes its destination; after closing and reopening the hatch, the party sees a crystal globe filled with pale light. Kenzo shares a healing potion with Wellby and Delwath restores a spell slot before they pass into safety.",
+      "location": {
+        "kind": "journey",
+        "from": "Collapsing Queen's chamber (Impossible Tower)",
+        "to": "Stable crystal globe (Impossible Tower)",
+        "context": "Through the switched magical hatch"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Seeker's goggles",
+          "role": "encountered",
+          "notes": "Used to examine the tower's mechanisms and the relic."
+        },
+        {
+          "name": "Two-destination magical door",
+          "role": "encountered",
+          "notes": "Survives the tower's collapse and opens into a stable globe."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-031",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party claims the relic and three treasures, then races back to Rai ahead of a wave of chaos.",
+      "longSummary": "Four floating tables hold a dark-flame scimitar, a leather bag, a scroll, and the dense runic sphere. Seeker identifies the sphere: it can create stability in Limbo, or shift planes through a one-hour ritual that destroys it and risks the reader's mind. Up to three participants can contribute spell slots to the difficult Arcana check. Delwath sends the fox messenger to Rai, and the party takes all four objects. Rai pulls them back along the tether while Seeker maintains their stability ahead of the tower's expanding chaos wave. They reach the monastery with about ninety minutes remaining; Rai, Delwath, and Seeker prepare to contribute magic.",
+      "location": {
+        "kind": "journey",
+        "from": "Stable crystal globe (Impossible Tower)",
+        "to": "Monks' sanctuary (Limbo)",
+        "context": "Rai's tether draws the party ahead of an expanding chaos wave"
+      },
+      "npcs": [
+        {
+          "name": "Rai",
+          "role": "encountered",
+          "notes": "Sustaining the monks' sanctuary while contesting control of the relic."
+        },
+        {
+          "name": "Fox messenger",
+          "role": "companion",
+          "notes": "Sent to signal Rai to retrieve the party."
+        }
+      ],
+      "items": [
+        {
+          "name": "Planar relic",
+          "role": "encountered",
+          "notes": "Black, gray, and reddish sphere covered in dense arcane formulae; its ritual can shift planar positions."
+        },
+        {
+          "name": "Dark-flame scimitar",
+          "role": "encountered",
+          "notes": "Recovered, but not identified."
+        },
+        {
+          "name": "Leather bag",
+          "role": "encountered",
+          "notes": "Magical treasure recovered without identification."
+        },
+        {
+          "name": "Spell scroll",
+          "role": "encountered",
+          "notes": "Recovered without identifying the spell."
+        },
+        {
+          "name": "Elven mirror",
+          "role": "encountered",
+          "notes": "Used to check the passage of time outside Limbo."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-032",
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Seeker seals the planar wound, Rai departs with Kyr, and the party escapes Limbo at level twenty.",
+      "longSummary": "Seeker reads the relic's formula with the aid of Rai and Delwath, briefly perceiving the connections of the multiverse before pulling Limbo away from the Material Plane and sealing their seam. The monks cross the rainbow bridge toward Vindristjarna. A golden bird, recognized as Kyr, circles Rai as his jade falls away; Kyr urges him to rest and let the world move on. Rai ascends a staircase and vanishes, first casting Wish for Dimitaur to live as long as life gives him pleasure. The party runs across the bridge ahead of the chaos explosion and returns to the elven forest in the middle of the night, less than a day after entering Limbo, now level twenty.",
+      "location": {
+        "kind": "journey",
+        "from": "Monks' sanctuary (Limbo)",
+        "to": "Elven forest (Material Plane)",
+        "context": "Evacuation across the rainbow bridge"
+      },
+      "npcs": [
+        {
+          "name": "Rai",
+          "role": "encountered",
+          "notes": "Sustaining the monks' sanctuary while contesting control of the relic."
+        },
+        {
+          "name": "Kyr",
+          "role": "encountered",
+          "notes": "Appears as a golden bird and accompanies Rai's departure."
+        },
+        {
+          "name": "Dimitaur",
+          "role": "mentioned",
+          "notes": "Recipient of Rai's final Wish."
+        }
+      ],
+      "items": [
+        {
+          "name": "Planar relic",
+          "role": "encountered",
+          "notes": "Black, gray, and reddish sphere covered in dense arcane formulae; its ritual can shift planar positions."
+        },
+        {
+          "name": "Vindristjarna",
+          "role": "mentioned",
+          "notes": "Destination named for the escaping monks."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

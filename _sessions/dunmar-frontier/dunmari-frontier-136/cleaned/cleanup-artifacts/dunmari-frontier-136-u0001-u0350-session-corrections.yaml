@@ -1,0 +1,100 @@
+allReplacements:
+- from: Dimitar
+  to: Dimitaur
+  count: 4
+  headers:
+  - '[u0149 | 00:06:28.090-00:06:29.310 | DM]'
+  - '[u0151 | 00:06:35.390-00:06:36.830 | Kenzo]'
+  - '[u0152 | 00:06:36.870-00:06:38.870 | DM]'
+  - '[u0157 | 00:06:46.790-00:06:49.690 | Kenzo]'
+- from: '1'
+  to: won
+  count: 2
+  headers:
+  - '[u0280 | 00:12:03.470-00:12:06.130 | Delwath]'
+  - '[u0283 | 00:12:09.750-00:12:10.530 | Unknown]'
+- from: Drancor
+  to: Drankor
+  count: 2
+  headers:
+  - '[u0165 | 00:07:12.250-00:07:16.830 | Kenzo]'
+  - '[u0168 | 00:07:20.810-00:07:25.230 | DM]'
+- from: Talgard
+  to: Taelgar
+  count: 2
+  headers:
+  - '[u0288 | 00:12:27.900-00:12:29.740 | Seeker]'
+  - '[u0294 | 00:12:42.520-00:12:43.720 | DM]'
+- from: Chardin
+  to: Chardon
+  count: 1
+  headers:
+  - '[u0287 | 00:12:21.320-00:12:23.900 | Delwath]'
+- from: Isengai
+  to: Isingue
+  count: 1
+  headers:
+  - '[u0144 | 00:05:56.080-00:06:04.480 | DM]'
+- from: Phadrig
+  to: Faldrak
+  count: 1
+  headers:
+  - '[u0157 | 00:06:46.790-00:06:49.690 | Kenzo]'
+- from: Simbara
+  to: Sembara
+  count: 1
+  headers:
+  - '[u0237 | 00:10:28.230-00:10:30.809 | Kenzo]'
+- from: cleansed
+  to: Cleansed
+  count: 1
+  headers:
+  - '[u0190 | 00:08:25.010-00:08:32.310 | DM]'
+- from: isn ' t gay
+  to: '- Isingue'
+  count: 1
+  headers:
+  - '[u0205 | 00:09:11.230-00:09:16.310 | DM]'
+- from: plane
+  to: plain
+  count: 1
+  headers:
+  - '[u0244 | 00:10:38.490-00:10:40.470 | Delwath]'
+- from: tune into
+  to: attune to
+  count: 1
+  headers:
+  - '[u0097 | 00:03:02.660-00:03:07.540 | Wellby]'
+- from: untune
+  to: unattune
+  count: 1
+  headers:
+  - '[u0097 | 00:03:02.660-00:03:07.540 | Wellby]'
+repeatedReplacements:
+- from: Dimitar
+  to: Dimitaur
+  count: 4
+  headers:
+  - '[u0149 | 00:06:28.090-00:06:29.310 | DM]'
+  - '[u0151 | 00:06:35.390-00:06:36.830 | Kenzo]'
+  - '[u0152 | 00:06:36.870-00:06:38.870 | DM]'
+  - '[u0157 | 00:06:46.790-00:06:49.690 | Kenzo]'
+- from: '1'
+  to: won
+  count: 2
+  headers:
+  - '[u0280 | 00:12:03.470-00:12:06.130 | Delwath]'
+  - '[u0283 | 00:12:09.750-00:12:10.530 | Unknown]'
+- from: Drancor
+  to: Drankor
+  count: 2
+  headers:
+  - '[u0165 | 00:07:12.250-00:07:16.830 | Kenzo]'
+  - '[u0168 | 00:07:20.810-00:07:25.230 | DM]'
+- from: Talgard
+  to: Taelgar
+  count: 2
+  headers:
+  - '[u0288 | 00:12:27.900-00:12:29.740 | Seeker]'
+  - '[u0294 | 00:12:42.520-00:12:43.720 | DM]'
+unresolvedPhrases: []

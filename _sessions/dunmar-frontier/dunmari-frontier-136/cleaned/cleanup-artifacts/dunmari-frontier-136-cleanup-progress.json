@@ -1,0 +1,715 @@
+{
+  "schemaVersion": "1.0",
+  "status": "complete",
+  "preparedSourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-source-prepared.md",
+  "preparedSourceSha256": "010ce92e7250e6cf92bdfce49eecbc31dca9ed1652295adc4e7e7e069cb46ab7",
+  "totalUnits": 10672,
+  "reviewedThroughUnit": "u10672",
+  "nextUnit": null,
+  "reviewedChunkPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/cleanup-artifacts/dunmari-frontier-136-source-cleanup-draft.md",
+  "fullTranscriptCleaned": true,
+  "unresolved": [],
+  "correctionLedger": [
+    {
+      "unitId": "u0097",
+      "from": "untune from the Kenku armor and tune into Cloak of Protection",
+      "to": "unattune from the Kenku armor and attune to Cloak of Protection"
+    },
+    {
+      "unitId": "u0144",
+      "from": "Isengai",
+      "to": "Isingue"
+    },
+    {
+      "unitId": "u0165",
+      "from": "Drancor",
+      "to": "Drankor"
+    },
+    {
+      "unitId": "u0168",
+      "from": "Drancor",
+      "to": "Drankor"
+    },
+    {
+      "unitId": "u0190",
+      "from": "cleansed",
+      "to": "Cleansed"
+    },
+    {
+      "unitId": "u0205",
+      "from": "Limbo isn't gay connection",
+      "to": "Limbo-Isingue connection"
+    },
+    {
+      "unitId": "u0237",
+      "from": "Simbara",
+      "to": "Sembara"
+    },
+    {
+      "unitId": "u0244",
+      "from": "Dunmar is a plane",
+      "to": "Dunmar is a plain"
+    },
+    {
+      "unitId": "u0280",
+      "from": "Cha'mutte 1",
+      "to": "Cha'mutte won"
+    },
+    {
+      "unitId": "u0283",
+      "from": "Cha'mutte 1",
+      "to": "Cha'mutte won"
+    },
+    {
+      "unitId": "u0287",
+      "from": "Chardin",
+      "to": "Chardon"
+    },
+    {
+      "unitId": "u0288",
+      "from": "Talgard",
+      "to": "Taelgar"
+    },
+    {
+      "unitId": "u0294",
+      "from": "Talgard",
+      "to": "Taelgar"
+    },
+    {
+      "unitId": "u0400",
+      "from": "Chardin",
+      "to": "Chardon"
+    },
+    {
+      "unitId": "u0535",
+      "from": "it's mined for you",
+      "to": "it's time for you"
+    },
+    {
+      "unitId": "u0543",
+      "from": "psamathens",
+      "to": "simulacrums"
+    },
+    {
+      "unitId": "u0551",
+      "from": "psamathen",
+      "to": "simulacrum"
+    },
+    {
+      "unitId": "u0555",
+      "from": "Somraka",
+      "to": "simulacrum"
+    },
+    {
+      "unitId": "u0557",
+      "from": "Somraka",
+      "to": "simulacrum"
+    },
+    {
+      "unitId": "u0604",
+      "from": "an in check",
+      "to": "an Int check"
+    },
+    {
+      "unitId": "u0637",
+      "from": "Seeker manage it",
+      "to": "Seeker manages it"
+    },
+    {
+      "unitId": "u0933",
+      "from": "Some Lacrim seeker",
+      "to": "Simulacrum Seeker"
+    },
+    {
+      "unitId": "u2262",
+      "from": "sling attack",
+      "to": "slam attack"
+    },
+    {
+      "unitId": "u2281",
+      "from": "Center Bob",
+      "to": "Centaur Bob"
+    },
+    {
+      "unitId": "u2282",
+      "from": "Center Bob",
+      "to": "Centaur Bob"
+    },
+    {
+      "unitId": "u2283",
+      "from": "Center Bob",
+      "to": "Centaur Bob"
+    },
+    {
+      "unitId": "u2291",
+      "from": "Jazalli's",
+      "to": "Jeevali's"
+    },
+    {
+      "unitId": "u2385",
+      "from": "radian burst",
+      "to": "radiant burst"
+    },
+    {
+      "unitId": "u2597",
+      "from": "Second Radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u2600",
+      "from": "Senja's",
+      "to": "centaur's"
+    },
+    {
+      "unitId": "u2603",
+      "from": "Second Radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u2678",
+      "from": "[dice\u98a0\u8986]",
+      "to": "[dice rolling]"
+    },
+    {
+      "unitId": "u3182",
+      "from": "the latter",
+      "to": "the ladder"
+    },
+    {
+      "unitId": "u3192",
+      "from": "And tombing",
+      "to": "Entombing"
+    },
+    {
+      "unitId": "u3427",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u0933",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u0934",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u0964",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u0974",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u0977",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u0991",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u3402",
+      "from": "Daluth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u3437",
+      "from": "Daluth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u3816",
+      "from": "Yazali's",
+      "to": "Jeevali's"
+    },
+    {
+      "unitId": "u3853",
+      "from": "Wellpath bloodied",
+      "to": "well past bloodied"
+    },
+    {
+      "unitId": "u4122",
+      "from": "Soul site",
+      "to": "Soul Sight"
+    },
+    {
+      "unitId": "u4273",
+      "from": "20, 10",
+      "to": "d10"
+    },
+    {
+      "unitId": "u4274",
+      "from": "20, 10 plus six",
+      "to": "d10 plus six"
+    },
+    {
+      "unitId": "u4555",
+      "from": "0:06:15.0",
+      "to": "Seeker 6"
+    },
+    {
+      "unitId": "u4788",
+      "from": "my key",
+      "to": "my ki"
+    },
+    {
+      "unitId": "u4875",
+      "from": "an arcana die",
+      "to": "an Arcane Eye"
+    },
+    {
+      "unitId": "u4905",
+      "from": "an arcana inside it",
+      "to": "an Arcane Eye inside it"
+    },
+    {
+      "unitId": "u4919",
+      "from": "Pelosa",
+      "to": "Pel Ossa"
+    },
+    {
+      "unitId": "u4979",
+      "from": "solitaire",
+      "to": "solid air"
+    },
+    {
+      "unitId": "u4980",
+      "from": "solitaire",
+      "to": "solid air"
+    },
+    {
+      "unitId": "u5441",
+      "from": "chaelight",
+      "to": "chalyte"
+    },
+    {
+      "unitId": "u5473",
+      "from": "Chupatmorph",
+      "to": "True Polymorph"
+    },
+    {
+      "unitId": "u5476",
+      "from": "ninth out of slot",
+      "to": "ninth level slot"
+    },
+    {
+      "unitId": "u5524",
+      "from": "She does like the fact",
+      "to": "She doesn't like the fact"
+    },
+    {
+      "unitId": "u5633",
+      "from": "weird center",
+      "to": "weird centaur"
+    },
+    {
+      "unitId": "u5646",
+      "from": "Goldie center",
+      "to": "Goldie centaur"
+    },
+    {
+      "unitId": "u5647",
+      "from": "Center again",
+      "to": "Centaur again"
+    },
+    {
+      "unitId": "u5737",
+      "from": "Second Radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u5818",
+      "from": "Second Radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u6033",
+      "from": "seeking radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u6066",
+      "from": "Lightening resistance",
+      "to": "Lightning resistance"
+    },
+    {
+      "unitId": "u6260",
+      "from": "second radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u6273",
+      "from": "Machanis",
+      "to": "Mechanus"
+    },
+    {
+      "unitId": "u6828",
+      "from": "against days",
+      "to": "against daze"
+    },
+    {
+      "unitId": "u7157",
+      "from": "for the days",
+      "to": "for the daze"
+    },
+    {
+      "unitId": "u7345",
+      "from": "generic action vanish",
+      "to": "legendary action banish"
+    },
+    {
+      "unitId": "u7416",
+      "from": "have blast",
+      "to": "have Bless"
+    },
+    {
+      "unitId": "u4016",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u4104",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u4110",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u4921",
+      "from": "Mechanis",
+      "to": "Mechanus"
+    },
+    {
+      "unitId": "u4938",
+      "from": "Mechanis",
+      "to": "Mechanus"
+    },
+    {
+      "unitId": "u4939",
+      "from": "Mechanis",
+      "to": "Mechanus"
+    },
+    {
+      "unitId": "u4940",
+      "from": "Mechanis",
+      "to": "Mechanus"
+    },
+    {
+      "unitId": "u4942",
+      "from": "Mechanis",
+      "to": "Mechanus"
+    },
+    {
+      "unitId": "u6309",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u7096",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7098",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7105",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7130",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7131",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7155",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7160",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7162",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7196",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7282",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7283",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u7599",
+      "from": "with my wasted action, already in action",
+      "to": "with my hasted action, ready an action"
+    },
+    {
+      "unitId": "u7664",
+      "from": "save for gaze",
+      "to": "save for daze"
+    },
+    {
+      "unitId": "u7965",
+      "from": "Sicking Radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u8035",
+      "from": "Sicking Radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u8097",
+      "from": "center",
+      "to": "centaur"
+    },
+    {
+      "unitId": "u8307",
+      "from": "Yazali's mark",
+      "to": "Jeevali's mark"
+    },
+    {
+      "unitId": "u8084",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8085",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8086",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8087",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8131",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8140",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8188",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8299",
+      "from": "Kenza",
+      "to": "Kenzo"
+    },
+    {
+      "unitId": "u8299",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u8442",
+      "from": "already in action",
+      "to": "ready an action"
+    },
+    {
+      "unitId": "u8746",
+      "from": "second radiance",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u8841",
+      "from": "Sigming Radiant",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u8931",
+      "from": "the dais",
+      "to": "the daze"
+    },
+    {
+      "unitId": "u9047",
+      "from": "10 to 10, 10 to 8",
+      "to": "10d10, 10d8"
+    },
+    {
+      "unitId": "u9059",
+      "from": "saving radius",
+      "to": "Sickening Radiance"
+    },
+    {
+      "unitId": "u9467",
+      "from": "the latter",
+      "to": "the ladder"
+    },
+    {
+      "unitId": "u10119",
+      "from": "Taunshe",
+      "to": "tanshi"
+    },
+    {
+      "unitId": "u10392",
+      "from": "Isengay",
+      "to": "Isingue"
+    },
+    {
+      "unitId": "u10482",
+      "from": "Vindristarna",
+      "to": "Vindristjarna"
+    },
+    {
+      "unitId": "u10577",
+      "from": "Isinge",
+      "to": "Isingue"
+    },
+    {
+      "unitId": "u0149",
+      "from": "Dimitar",
+      "to": "Dimitaur"
+    },
+    {
+      "unitId": "u0151",
+      "from": "Dimitar",
+      "to": "Dimitaur"
+    },
+    {
+      "unitId": "u0152",
+      "from": "Dimitar",
+      "to": "Dimitaur"
+    },
+    {
+      "unitId": "u0157",
+      "from": "Dimitar",
+      "to": "Dimitaur"
+    },
+    {
+      "unitId": "u8701",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u8756",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u8821",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u8828",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u9617",
+      "from": "Dalwath",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u9646",
+      "from": "Dalwath",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u10508",
+      "from": "Kir",
+      "to": "Kyr"
+    },
+    {
+      "unitId": "u10509",
+      "from": "Kir",
+      "to": "Kyr"
+    },
+    {
+      "unitId": "u10524",
+      "from": "Dimitar",
+      "to": "Dimitaur"
+    },
+    {
+      "unitId": "u10532",
+      "from": "Dimitar",
+      "to": "Dimitaur"
+    },
+    {
+      "unitId": "u10567",
+      "from": "Delweth",
+      "to": "Delwath"
+    },
+    {
+      "unitId": "u10603",
+      "from": "Qair",
+      "to": "Kyr"
+    },
+    {
+      "unitId": "u10604",
+      "from": "Qair",
+      "to": "Kyr"
+    },
+    {
+      "unitId": "u10618",
+      "from": "Qair",
+      "to": "Kyr"
+    },
+    {
+      "unitId": "u10621",
+      "from": "Qair",
+      "to": "Kyr"
+    },
+    {
+      "unitId": "u10076",
+      "from": "ash of the lamp",
+      "to": "ash of the ladder"
+    }
+  ],
+  "note": "Every source unit reviewed; focused second pass checked protected names, repeated spell/name drift, turn-order language, and semantic ASR substitutions. Minor unclear chatter preserved verbatim under user instruction.",
+  "humanReviewPolicy": "Reserve review for crucial uncertainties; preserve unclear incidental chatter verbatim.",
+  "humanCorrections": {
+    "u0157": "Faldrak"
+  },
+  "secondPassComplete": true,
+  "cleanedSourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-source-cleaned.md",
+  "changedLineCount": 136,
+  "unresolvedMarkerCount": 0,
+  "pipelineComplete": true,
+  "recapPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session-recap.md"
+}

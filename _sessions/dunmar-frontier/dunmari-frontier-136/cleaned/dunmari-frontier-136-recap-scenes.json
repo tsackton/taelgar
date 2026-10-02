@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Rai and the unfinished war",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The rest, historical account, and recovery plan share Rai's sanctuary and the same immediate goal."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Approaching the Impossible Tower",
+      "beatIds": [
+        "beat-003"
+      ],
+      "rationale": "Crossing the ash, examining the tower, and attempting entry form the approach; the redirected arrivals begin a new situation."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Scattered at the gate",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "The separated party's simultaneous bluff and fight converge into one entrance encounter, ending when the foyer is secure."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The floor of frozen lightning",
+      "beatIds": [
+        "beat-009"
+      ],
+      "rationale": "The party changes orientation and bypasses a distinct guardian before reaching the library."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The last stand of Seeker 6",
+      "beatIds": [
+        "beat-010",
+        "beat-011",
+        "beat-012"
+      ],
+      "rationale": "One uninterrupted library battle unites the party with its stranded simulacrum and ends with both defenders dead."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "The library's secrets",
+      "beatIds": [
+        "beat-013",
+        "beat-014",
+        "beat-015"
+      ],
+      "rationale": "Recovery, the library discoveries, and the ascent all establish the route to the queen."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "Beyond the queen's illusion",
+      "beatIds": [
+        "beat-016",
+        "beat-017"
+      ],
+      "rationale": "Scouting reveals the queen's chamber and defenders, followed by preparations at the hatch; the first attack starts the next scene."
+    },
+    {
+      "sceneId": "scene-008",
+      "title": "The Queen of Ash",
+      "beatIds": [
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021",
+        "beat-022",
+        "beat-023",
+        "beat-024",
+        "beat-025",
+        "beat-026",
+        "beat-027",
+        "beat-028",
+        "beat-029"
+      ],
+      "rationale": "The sustained battle begins with Sickening Radiance and ends with the last defenders' destruction, when combat gives way to escape."
+    },
+    {
+      "sceneId": "scene-009",
+      "title": "The relic beyond the ruins",
+      "beatIds": [
+        "beat-030",
+        "beat-031"
+      ],
+      "rationale": "The collapsing tower forces an escape into the treasure sphere and a race back to Rai with the relic."
+    },
+    {
+      "sceneId": "scene-010",
+      "title": "Let the world move on",
+      "beatIds": [
+        "beat-032"
+      ],
+      "rationale": "The planar ritual, Rai's farewell, and evacuation resolve the adventure."
+    }
+  ]
+}

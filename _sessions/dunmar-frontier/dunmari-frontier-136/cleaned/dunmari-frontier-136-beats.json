@@ -1,0 +1,519 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Rest and Rai's history",
+      "startUid": "u0001",
+      "endUid": "u0335",
+      "lineCount": 335,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The rest ends and the party turns from Rai's account to planning the assault.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Planning the relic recovery",
+      "startUid": "u0336",
+      "endUid": "u0597",
+      "lineCount": 262,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Rai finishes his advice before the party leaves the sanctuary.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Approaching the Impossible Tower",
+      "startUid": "u0598",
+      "endUid": "u1027",
+      "lineCount": 430,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party traverses the ash and commits to Dimension Door entries.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Scattered by the tower",
+      "startUid": "u1028",
+      "endUid": "u1456",
+      "lineCount": 429,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The teleportations split the party; the first hostile interior encounter begins.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Bluffing the centaur guards",
+      "startUid": "u1457",
+      "endUid": "u1834",
+      "lineCount": 378,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Wellby opens the entrance, bringing the separate approaches together before the ambush.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Ambushing Bob and Goldie",
+      "startUid": "u1835",
+      "endUid": "u2231",
+      "lineCount": 397,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The party commits to fighting the centaurs and liquid-stone minions.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Bob falls and Goldie retaliates",
+      "startUid": "u2232",
+      "endUid": "u2604",
+      "lineCount": 373,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Bob dies while retreating and Goldie destroys the summoned clay construct.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Clearing the entrance hall",
+      "startUid": "u2605",
+      "endUid": "u3035",
+      "lineCount": 431,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The centaur and remaining minions are defeated.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Rotating floors and frozen lightning",
+      "startUid": "u3036",
+      "endUid": "u3343",
+      "lineCount": 308,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party examines the violet orb, changes orientation, and sneaks past the statue-floor guardian.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Reaching the embattled library",
+      "startUid": "u3344",
+      "endUid": "u3740",
+      "lineCount": 397,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The party reaches Seeker 6 and joins combat against the library defenders.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Seeker 6 falls in battle",
+      "startUid": "u3741",
+      "endUid": "u4083",
+      "lineCount": 343,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Chain Lightning kills Naren, but the metallic-blood defender destroys Seeker 6.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Defeating the metallic-blood defender",
+      "startUid": "u4084",
+      "endUid": "u4545",
+      "lineCount": 462,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Wellby finishes the remaining library defender.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "Rest and library spoils",
+      "startUid": "u4546",
+      "endUid": "u4800",
+      "lineCount": 255,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party rests and searches the library before examining its discoveries.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-014",
+      "title": "Primordial histories and a portal",
+      "startUid": "u4801",
+      "endUid": "u5079",
+      "lineCount": 279,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The notebooks and solid-air circle reveal lore and the keyed route upward.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-015",
+      "title": "Climbing to the trapped hatch",
+      "startUid": "u5080",
+      "endUid": "u5317",
+      "lineCount": 238,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party crosses the portal, manages reversed gravity, dispels a rune, and opens the hatch.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-016",
+      "title": "The Queen of Ash revealed",
+      "startUid": "u5318",
+      "endUid": "u5650",
+      "lineCount": 333,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party scouts the queen's chamber and chooses a direct battle.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-017",
+      "title": "Preparing to confront the queen",
+      "startUid": "u5651",
+      "endUid": "u6031",
+      "lineCount": 381,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Final spell, positioning, and resource choices give way to the attack.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-018",
+      "title": "Radiance against the queen",
+      "startUid": "u6032",
+      "endUid": "u6329",
+      "lineCount": 298,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Sickening Radiance starts the battle and the queen answers with visions of defeat.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-019",
+      "title": "Kenzo becomes drifting ash",
+      "startUid": "u6330",
+      "endUid": "u6678",
+      "lineCount": 349,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The queen changes position and turns Kenzo to ash.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-020",
+      "title": "Mist within and a gold dragon",
+      "startUid": "u6679",
+      "endUid": "u7013",
+      "lineCount": 335,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The Essence of Mist enters Seeker, who then assumes adult gold-dragon form.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-021",
+      "title": "Kenzo carries Delwath into battle",
+      "startUid": "u7014",
+      "endUid": "u7348",
+      "lineCount": 335,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo reforms, clears the hatch, and carries Delwath to the dragon; Seeker expels the mist.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-022",
+      "title": "Pressing the wounded queen",
+      "startUid": "u7349",
+      "endUid": "u7702",
+      "lineCount": 354,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Delwath and Wellby concentrate attacks on the queen while the triceratops struggles.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-023",
+      "title": "The dragon bears the assault",
+      "startUid": "u7703",
+      "endUid": "u8055",
+      "lineCount": 353,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The defenders attack Seeker's dragon form and the queen calls more minions.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-024",
+      "title": "Lightning and relentless strikes",
+      "startUid": "u8056",
+      "endUid": "u8358",
+      "lineCount": 303,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Dragon Seeker casts Chain Lightning while Kenzo and Delwath keep striking the queen.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-025",
+      "title": "Ash fells Wellby",
+      "startUid": "u8359",
+      "endUid": "u8648",
+      "lineCount": 290,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The queen's final burst knocks Wellby unconscious; the dragon moves to shelter him.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-026",
+      "title": "Dragon and ladder fall",
+      "startUid": "u8649",
+      "endUid": "u8994",
+      "lineCount": 346,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The defenders wear away Seeker's dragon form and destroy the animated ladder.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-027",
+      "title": "Seeker resumes dwarf form",
+      "startUid": "u8995",
+      "endUid": "u9146",
+      "lineCount": 152,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Seeker casts another Chain Lightning and Kenzo attacks the nearly defeated queen.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-028",
+      "title": "The queen crumbles",
+      "startUid": "u9147",
+      "endUid": "u9444",
+      "lineCount": 298,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Delwath heals Wellby and kills the queen; the triceratops destroys the mist while the blood defender remains.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-029",
+      "title": "Radiance ends the battle",
+      "startUid": "u9445",
+      "endUid": "u9799",
+      "lineCount": 355,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The tower begins collapsing, Wellby falls again, and Sickening Radiance kills the last major defender.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-030",
+      "title": "A door through collapsing chaos",
+      "startUid": "u9800",
+      "endUid": "u9994",
+      "lineCount": 195,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The survivors discover the hatch can lead to a different stable chamber.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-031",
+      "title": "Relic and race to Rai",
+      "startUid": "u9995",
+      "endUid": "u10380",
+      "lineCount": 386,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party identifies the relic, collects the treasures, and returns to Rai ahead of the chaos wave.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    },
+    {
+      "beatId": "beat-032",
+      "title": "Sealing Limbo and Rai's farewell",
+      "startUid": "u10381",
+      "endUid": "u10672",
+      "lineCount": 292,
+      "dateStart": "1749-09-16",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Seeker performs the ritual; Rai departs and the party escapes to the elven forest.",
+      "dateEvidence": [
+        "User confirmed that all of Session 136, including the night-time return to Orenlas, is recorded on September 16, 1749."
+      ]
+    }
+  ]
+}
