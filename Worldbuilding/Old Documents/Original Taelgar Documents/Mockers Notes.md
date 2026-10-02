@@ -1,7 +1,7 @@
 
 The Mockers:
 
-       Anyhow, as for mockers.  Imagine the mockers like this:  all of the
+Anyhow, as for mockers.  Imagine the mockers like this:  all of the
 mafia houses throughout the entire US start working together, organizing
 their activities and systematically go about their business together.
 That is essentially what the mockers are.  At the highest level, the
