@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # IRC Conversation: Religion and Divine Influence
 %% Date unknown but likely 1999-2000 %%
 

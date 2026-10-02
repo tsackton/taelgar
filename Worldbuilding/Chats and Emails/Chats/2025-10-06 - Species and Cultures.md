@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-10-06 - Species and Cultures
 
 *[Editorial note: Cut 10 messages about individual character equipment optimization and spell rules.]*

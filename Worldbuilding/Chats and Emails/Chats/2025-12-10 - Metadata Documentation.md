@@ -1,0 +1,5 @@
+# 2025-12-10 - Metadata Documentation
+
+[2025-12-10 03:59 PM] rsulfuratus: didn't have time to do much today but got codex to autogenerate display control and metadata specification pages, largely from the code itself, and then spent about 45 minutes manually cleaning. put status/check/mike for review, but to me these are clearer than the old stuff and don't include various depreciated things.
+
+    will probably move to archive/delete old _MoC content soonish

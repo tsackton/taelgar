@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-09-30 - Heartroot Magic and Delwath Items
 
 [2025-09-30 07:59 PM] rsulfuratus: assuming you defeat the empress of chaos and save the heartroot, i'm trying to think of ways its magic could add something to one of delwath's magic items. i have ideas for everyone else but i'm struggling with delwath, so if you have suggestions let me know

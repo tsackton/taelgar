@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-08-05 - Upper Istaros Region
 
 [2025-08-05 03:03 PM] rsulfuratus: there is a lot of conflicting information about Sembaran history w/r/t the hobgoblin wars and the plaguelands in Obsidian. my understanding is that "Hobgoblin Movements After Cha'mutte" and "Timeline of Sembaran History" capture established canon, and anything that conflicts with the details established in those docs is out-of-date/incorrect

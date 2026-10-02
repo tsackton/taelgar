@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-10-23 - Cosmology and Planes
 
 [2025-10-23 11:53 AM] rsulfuratus: Narëngril, an elvish sword, was originally enchanted and bound with strands of energy from the Nine Hells and the Abyss, allowing it to seek and destroy creatures made of the essence of those planes, and protect its wielder from their dangers. 

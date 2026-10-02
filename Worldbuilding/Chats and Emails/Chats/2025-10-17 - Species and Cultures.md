@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-10-17 - Species and Cultures
 
 [2025-10-17 08:54 PM] Deciusmus: Do you think lizardfolk are happy/eager to be integrated into human affairs or more likely to be a bit standoffish and wanting to keep to themselves?

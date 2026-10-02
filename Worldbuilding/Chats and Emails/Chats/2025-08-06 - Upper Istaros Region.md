@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-08-06 - Upper Istaros Region
 
 [2025-08-06 08:58 AM] rsulfuratus: trying to work out a bit of plaguelands history. this is say ~1250-1350ish, before Domain of Avatus grows. 

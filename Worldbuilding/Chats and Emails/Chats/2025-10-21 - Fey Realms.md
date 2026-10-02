@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-10-21 - Fey Realms
 
 [2025-10-21 07:09 AM] Deciusmus: I dunno if I will have time for it this week but the other thing I would like to do is try to finish making up sembaran holidays.

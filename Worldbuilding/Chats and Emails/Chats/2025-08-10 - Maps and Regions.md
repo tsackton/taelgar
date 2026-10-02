@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-08-10 - Maps and Regions
 
 [2025-08-10 11:57 AM] rsulfuratus: okay, did a little map work this morning. here are three maps - a base map, with the world map overlay, and with regions
