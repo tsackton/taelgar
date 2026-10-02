@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-08-09 - Maps and Regions
 
 [2025-08-09 11:15 AM] rsulfuratus: comments? aurbez vibe outline

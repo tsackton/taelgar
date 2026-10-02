@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-08-07 - Sembara History
 
 [2025-08-07 06:00 PM] rsulfuratus: poking around at aurbez / andonne notes. am i correct in my sense that other than some brief notes about places along the road, the only actual settlement made up in aurbez and the andonne is Laicon and Ausson's Crossing? 
