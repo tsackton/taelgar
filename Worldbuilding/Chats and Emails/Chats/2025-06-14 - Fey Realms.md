@@ -1,6 +1,11 @@
+---
+tags: [status/check/ai]
+---
 # 2025-06-14 - Fey Realms
 
-[2025-06-14 10:43 AM] rsulfuratus: pushed addermarch fey politics in brainstorming fyi
+
+*[Editorial note: Cut 1 message about sharing notes.]*
+
 [2025-06-14 02:21 PM] Deciusmus: a few thoughts...
     
     Aure River Valley - I think there is space for one or two other lords with a similar vibe to the blue area in here, perhaps one between green and Serenveil, and one between blue and Serenveil.
@@ -46,5 +51,7 @@
     - Serenveil is an enemy of Umbraeth more than an ally of Ethlenn, but works with Ethlenn, of course. there is likely to be some kind of connection/development between Serenveil and Morlaith in my game, at least in terms of Serenveil wanting information about Morlaith, so it is useful for there to be something that prevents easy travel in the Feywild from Serenveil's realm to Morlaith
 [2025-06-14 02:46 PM] rsulfuratus: (but what that is is undetermined)
 [2025-06-14 02:48 PM] rsulfuratus: - Morlaith is a barrier to everyone, and somehow keeps the fringes of their domain as the Wilds, so that none of Umbraeth, Serenveil, or Ethlenn's lieutenants can fully expand into Addermarch and end up being confined to the edges. This keeps the "Addermarian Feywild" with the kind of old-world fairy tale vibe I want and makes it a longstanding area of conflict and trouble, which works for both campaigns I think
-[2025-06-14 02:53 PM] rsulfuratus: in any case none of this is likely to come up in my game tomorrow and i'll push a bunch of notes soon
+
+*[Editorial note: Cut 1 message about session preparation and sharing notes.]*
+
 [2025-06-14 03:02 PM] Deciusmus: One thing re: Umbraeth is he is very interested in access to taelgar and it should be the case that the areas he controls have few portals. If serenveil has a portal somewhere that might be a key motivating factor in their conflict

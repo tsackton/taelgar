@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-10-17 - Species and Cultures
 
 [2025-10-17 08:54 PM] Deciusmus: Do you think lizardfolk are happy/eager to be integrated into human affairs or more likely to be a bit standoffish and wanting to keep to themselves?
@@ -10,4 +13,4 @@
     
     i think there is a sense that mutually beneficial trade is nice, but also the lizardfolk are not halflings and in large part they are self-sufficient and have little or nothing to gain from being part of the human economy.
 [2025-10-17 10:27 PM] rsulfuratus: anyone just some initial thoughts.
-[2025-10-17 10:27 PM] rsulfuratus: going to bed but will be working on d&d a fair bit over the next week so can think more on this
+*[Editorial note: Cut 1 message about personal work and scheduling logistics.]*
