@@ -20,7 +20,7 @@ So ordered, January 8th, 7 Robert I
 
 Major Edmund Hartwell
 
-## Letter from [[Colonel Claude Leclerc]]
+## Letter from [[Claude Leclerc]]
 
 Ida:
 

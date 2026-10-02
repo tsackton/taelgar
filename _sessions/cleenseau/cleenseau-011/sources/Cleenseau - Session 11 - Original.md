@@ -22,7 +22,7 @@ DR_end: 1720-01-12
 
 * [[Eftly]] was attacked by a stench monster (or perhaps, 2 or 3?) - rumor from [[Duncan Rivers]]
 * [[Fellburn]] is under siege by an army of skeletons - [[Letter from Rosalind (January 8th)]]
-* [[Ida Rosfeld]] left [[Dunfry]] unofficially, but with the blessing of [[Colonel Claude Leclerc]]. Something seems not right with the military orders - shared by Ida
+* [[Ida Rosfeld]] left [[Dunfry]] unofficially, but with the blessing of [[Claude Leclerc]]. Something seems not right with the military orders - shared by Ida
 * [[Sarabeth Asa]] disappeared from Asineau in 1667; her son [[Lucas Asa]] and his family disappeared in 1715
 ### New People Met
 * [[Eveyln Totteridge]], a sergeant from the garrison
