@@ -1,0 +1,56 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Mirror Revelations",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "User-approved grouping: both mirror investigations form one scene, covering the Ash Queen and the Heartroot."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Farewell at Ikram's",
+      "beatIds": [
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "User-approved grouping: the farewell conversation, including the transition to Karawa, the four companions’ plans, mutual promises, and unfinished business."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Epilogues",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "User-approved grouping: all remaining epilogues, including Kecha and the wider world, the Ladder, Milo and Tilly, the rings and ship, and Dimitaur."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "After the Game",
+      "beatIds": [
+        "beat-011",
+        "beat-012",
+        "beat-013",
+        "beat-014",
+        "beat-015",
+        "beat-016",
+        "beat-017",
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021",
+        "beat-022",
+        "beat-023"
+      ],
+      "rationale": "User-approved grouping: the complete table discussion after play, including retrospective, future games, and closing logistics."
+    }
+  ]
+}
