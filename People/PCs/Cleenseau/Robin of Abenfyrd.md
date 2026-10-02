@@ -14,7 +14,8 @@ dm_notes: important
 aliases: [Robin]
 affiliations: 
 - {org: Heroes of Cleenseau }
-- {org: Lord's Guard of Cleenseau, start: 1720-01-03, type: leader, title: Acting Captain}
+- {org: Lord's Guard of Cleenseau, start: 1720-01-03, end: 1720-03-15, type: leader, title: Acting Captain}
+- {org: Manor of Asineau, start: 1720-04-01, type: ruler, title: Lord }
 whereabouts:
 - {type: home, end: 1719, location: Abenfyrd}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}

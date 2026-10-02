@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Clawyn
 typeOf: settlement
 typeOfAlias: village
@@ -18,11 +18,7 @@ subTypeOf:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small village a few days ride south of [[Tafolwern]], in the gentle northern slopes of the [[Tyrwinghan Hills]], known for its vineyards and wine. There is little here other than a small temple to the Mother.
-
-Wine is Clawyn's principal export. The village relies on nearby [[Nefyn]] for grain and some other supplies; it has a potter, smith, cooper, and weaver of its own. Glass wine bottles, salt, and metal for smithing are brought in from elsewhere.
-
-%% Mike Sackton accepted this broad economic picture but left open whether grain is milled in Clawyn or flour is brought from Nefyn. %%
+A small village a few days ride south of [[Tafolwern]], in the gentle northern slopes of the [[Tyrwinghan Hills]], known for its vineyards and wine. There is little here other than a small temple to the Mother. Wine is Clawyn's principal export. The village relies on nearby [[Nefyn]] for grain and some other supplies; it has a potter, smith, cooper, and weaver of its own. Glass wine bottles, salt, and metal for smithing are brought in from elsewhere.
 
 %% Sources:
 - [[Notes from Celyn's Background (Email)]]

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 whereabouts: Tyrwingha
 typeOf: settlement
 typeOfAlias: village
@@ -18,9 +18,6 @@ A small market town about two hour's walk north from [[Clawyn]], a quiet place j
 
 Its grain and cattle help supply nearby villages, including Clawyn. A dyer also works in the town.
 
-%% Sources:
-- [[Notes from Celyn's Background (Email)]]
-%%
 ### Notable People
 * Trefor, the adminstrator of the temple to the Father. Elderly, often called Grandfather Trefor.
 

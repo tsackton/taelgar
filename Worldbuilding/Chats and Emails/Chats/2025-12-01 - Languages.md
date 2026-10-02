@@ -1,6 +1,7 @@
 # 2025-12-01 - Languages
 
-[2025-12-01 03:50 PM] Deciusmus: update on Bonnie: she had her gall bladder removed but that's pretty minor surgery. she should be back here from hosptial tonight and heading back to florida wed PM
+*[Editorial note: Cut 1 message about personal and family conversation.]*
+
 [2025-12-01 03:53 PM] Deciusmus: update on Taelgar:
     
     I think there are basically two outstanding issues I'd like to try to resolve re: Zimkova.
@@ -146,7 +147,8 @@
 [2025-12-01 05:21 PM] rsulfuratus: see, i think that falls apart a little because why would the dominant highland culture adopt the language of refugees?
 [2025-12-01 05:21 PM] rsulfuratus: unless the culture is just swamped by huge numbers of newcomers
 [2025-12-01 05:21 PM] rsulfuratus: but in that case, how does the zimka culture survive?
-[2025-12-01 05:23 PM] rsulfuratus: i gotta go bike home with N but will keep considering
+*[Editorial note: Cut 1 message about personal logistics.]*
+
 [2025-12-01 05:23 PM] rsulfuratus: just a last thought - to me the vibe of the great chasm has been one of much greater cultural continuity between the "new zimka" and the "old zimka" than some of these ideas suggest
 [2025-12-01 05:24 PM] rsulfuratus: in particular i kind of feel like there is a sense that the kestavo are the "old stories"
 [2025-12-01 05:24 PM] rsulfuratus: now it is far enough in the past that maybe that doesn't matter
@@ -268,21 +270,8 @@
 [2025-12-01 06:12 PM] rsulfuratus: yeah i was typing something pretty similar
 [2025-12-01 06:13 PM] rsulfuratus: this was like some of the earliest worldbuliding about the western green sea, just that it was a mixing ground
 [2025-12-01 06:17 PM] rsulfuratus: anyway for modern zimka i think the main point is that actually yes the eastros "zimkovan" and the northros "old zimkovan" are perfectly reasonable and presumably arose at some level from a zimkovan cultural strand that adopted some variant of the ancient mariner language but then migrated back to the highlands for various reasons during the drankorian and early post-drankorian eras
-[2025-12-01 08:09 PM] rsulfuratus: theoretically i'm going to attempt to update taelgarverse with the great chasm session note before we play on wed, most likely tomorrow night. if there are updates to stubs / breva / etc you want to incorporate would be good to have them by then
-[2025-12-01 08:09 PM] rsulfuratus: i'm going to review the stuff tagged check/tim now
-[2025-12-01 08:10 PM] rsulfuratus: i'm also working on a reorg of "humaninty in greater sembara" to try to follow the style of the "history of" notes with clearer separation of brief canon plus longer dm-facing discussion
-[2025-12-01 08:11 PM] rsulfuratus: though in many places this is pretty tight already
-[2025-12-01 08:11 PM] rsulfuratus: i just find the long comment blocks kind of hard to read
-[2025-12-01 08:12 PM] rsulfuratus: actually since it is excludePublish "all" no reason for campaign:none blocks, just better notation in the text is fine
-[2025-12-01 08:15 PM] Deciusmus: Off topic but we are talking about gall bladders since Bonnie had hers removed - I feel like I should know but I can’t remember if you had yours out
-[2025-12-01 08:15 PM] rsulfuratus: yes
-[2025-12-01 08:15 PM] rsulfuratus: tob as well
-[2025-12-01 08:15 PM] rsulfuratus: you shouldn't be surprised if you get stuck having yours removed
-[2025-12-01 08:16 PM] Deciusmus: I know tob and apparently also Elisabeth
-[2025-12-01 08:16 PM] Deciusmus: Did you change your diet at all after?
-[2025-12-01 08:16 PM] rsulfuratus: nope
-[2025-12-01 08:16 PM] rsulfuratus: really didn't notice anything
-[2025-12-01 08:17 PM] rsulfuratus: but i eat a pretty meat-light diet anyway, and don't eat a ton of dairy
+*[Editorial note: Cut 15 messages about vault filing, publication updates, and personal conversation.]*
+
 [2025-12-01 10:22 PM] rsulfuratus: pushed something about humanity in greater sembara. 
     
     not yet in the note, but i kind of think what makes it all gel is something like a river-trading eastros/mariner culture, much less oceanic than the skaer but still mercantile. 
@@ -308,8 +297,6 @@
 [2025-12-01 11:03 PM] rsulfuratus: i think there is actually a reasonable story where maybe the early human writing is mostly a runic syllabary of some kind, or even something like hieroglyphics
 [2025-12-01 11:03 PM] rsulfuratus: according to wikipedia alphabets were only invented once in human history
 [2025-12-01 11:04 PM] rsulfuratus: maybe humans learn alphabets from the elves
-[2025-12-01 11:04 PM] Deciusmus: Interesting topic but I need to go to bed…
-[2025-12-01 11:04 PM] rsulfuratus: yeah actually i do too
-[2025-12-01 11:04 PM] rsulfuratus: got a little carried away
-[2025-12-01 11:04 PM] rsulfuratus: more later
+*[Editorial note: Cut 4 messages about personal logistics.]*
+
 [2025-12-01 11:05 PM] rsulfuratus: but given we have never consistently had a good answer for "what alphabet do northros languages use" might hint the answer is "none"

@@ -1,7 +1,7 @@
 # 2025-12-02 - Maps and Regions
 
-[2025-12-02 09:26 AM] rsulfuratus: pushed a few things, and working on a quick review of lavnoch plateau now. i have meetings from 9:30 - 11:00 and one major task that needs to be finished before 4 pm so probably won't do much more until later today - but this evening am going to work on into the chasm taelgarverse updates fyi
-[2025-12-02 09:38 AM] Deciusmus: i'm pretty busy today so probably won't get to anything. I wanted to right some breva stuff but was originally waiting to sort out the borders and region, and didn't have time after that last night
+*[Editorial note: Cut 2 messages about work and writing coordination.]*
+
 [2025-12-02 11:29 AM] rsulfuratus: pushed another update but may not touch much else until tonight. 
     
     in general i'm not sure the elevations are right throughout, but particularly a problem for lavnoch. 
@@ -60,7 +60,4 @@
     which is a bit messy but am on work computer so no photoshop
 ![[Worldbuilding/Chats and Emails/_assets/discord/image-D9C08.png]]
 [2025-12-02 11:51 AM] Deciusmus: basically add a pass to the north where the high plateau continues, and then make a bit of borders to the real high peaks
-[2025-12-02 04:31 PM] rsulfuratus: finished main thing i had to do, so now attempting to rebuild taelgarverse with into the chasm notes. will let you know once it works. 
-    
-    btw i bought myself a new monitor and a stylus on sale at amazon for cyber monday - once they arrive i am going to spend some time on map cleanup. would be really useful to have an elevation layer for example it is just such a pain to draw with a trackpad
-[2025-12-02 05:33 PM] rsulfuratus: https://tsackton.github.io/taelgarverse/campaigns/one-shots/into-the-chasm/into-the-chasm-episode-1/
+*[Editorial note: Cut 2 messages about equipment purchases and website publication.]*
