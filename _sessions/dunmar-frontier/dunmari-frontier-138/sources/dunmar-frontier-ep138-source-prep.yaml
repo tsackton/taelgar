@@ -1,0 +1,20 @@
+# Reviewed final transcript for Dunmar Frontier Session 138.
+# Recording allocation: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/dunmar-frontier-final-sessions-135-139.yaml
+# The reconciled timeline uses three recordings; there is no single sourceAudioPath.
+# In-world dates are provisional and will be corrected during cleanup.
+sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Dunmar 138 Final/transcription/reconciliation/session138-final-v2/Session138-reconciled.identified.vtt
+sourceType: transcript
+scope: session
+outputDir: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier
+campaign: Dunmari Frontier
+sessionNumber: 138
+realWorldDate: '2025-10-25'
+drStart: '1749-09-18'
+drEnd: '1749-09-18'
+drStartTime: null
+drEndTime: null
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/dunmar-frontier-core-participants.yaml
+supplementalSources: []
+transcriptFormat: auto
+narrativeUnit: sentence
+minSpeakerFraction: 0.01

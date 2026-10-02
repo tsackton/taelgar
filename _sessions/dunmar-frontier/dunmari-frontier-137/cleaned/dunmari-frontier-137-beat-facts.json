@@ -1,0 +1,595 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-137/cleaned/dunmari-frontier-137-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The players discuss character relationships, in-person play, and improvements to their online game tools.",
+      "longSummary": "Before play begins, the group compares the ease of roleplaying, side conversations, and shared dice rolls in person with the difficulties of online sessions. They discuss character-sheet usability, visible dice, and possible improvements using Roll20, Dice Cloud, or Foundry.",
+      "location": {
+        "kind": "unknown",
+        "context": "Out-of-game table discussion before the adventure begins; no current in-world location applies."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The players explore ways to make collaborative worldbuilding and character development part of their sessions.",
+      "longSummary": "The group discusses shared worldbuilding, session length, and collaborative warm-ups that let players build on one another's ideas. They recall earlier work on Mawar and character backstories, distinguish playful invention from immediate commitments to canon, and consider how shared information and handouts can support interaction before breaking for lunch preparations.",
+      "location": {
+        "kind": "unknown",
+        "context": "Out-of-game table discussion before the adventure begins; no current in-world location applies."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "During pre-game preparations, the players compare dragon and leviathan forms for confronting the ooze.",
+      "longSummary": "Delwath's new True Polymorph prompts discussion of becoming dragons. The players compare acid and poison immunity, breath weapons, and the leviathan's capabilities, with lunch, charging equipment, and Lego-building conversation interspersed; these are proposed options rather than transformations enacted in play.",
+      "location": {
+        "kind": "unknown",
+        "context": "Out-of-game table discussion before the adventure begins; no current in-world location applies."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The players finish reviewing level-twenty abilities, spell choices, and routine protective magic.",
+      "longSummary": "The group checks Kenzo's improved monk abilities and reviews Seeker's new spell choice, settling on Demiplane after discussing Heroes' Feast and the possibility of casting it through Wish. They also discuss Aid and reset their character sheets before the DM opens the adventure with the morning after the return from Limbo.",
+      "location": {
+        "kind": "unknown",
+        "context": "Out-of-game table discussion before the adventure begins; no current in-world location applies."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Leaving the recovering monks in Orenlas, the party learns that Isingue's ash storm is growing and switches from Vindristjarna to Wind Walk.",
+      "longSummary": "The party wakes aboard Vindristjarna over Orenlas after returning from Limbo, intending to destroy the ooze and cleanse the river before bringing back the Heartroot. They leave the monks in the forest to recover and set out toward Isingue, about six hundred miles away. Delwath's scry shows an expanding ash storm roughly fifteen miles around the city. The tanshi answers that the ooze is growing and has neither goals nor allies, but answers “sort of” both about its Limbo origin and whether ordinary methods can destroy it. After some ship travel, Seeker casts Wind Walk while Faldrak follows with Vindristjarna; the party also discusses the Binding Stones as a possible means of imprisonment.",
+      "location": {
+        "kind": "journey",
+        "from": "Orenlas",
+        "to": "Plaguelands",
+        "context": "Departure aboard Vindristjarna toward Isingue, followed by the start of Wind Walk",
+        "notes": "The sustained flight and arrival are narrated in the next beat."
+      },
+      "npcs": [
+        {
+          "name": "Faldrak Bronzehammer",
+          "role": "companion",
+          "notes": "Continues following with Vindristjarna after the party departs in wind form."
+        },
+        {
+          "name": "Rescued monks",
+          "role": "companion",
+          "notes": "Remain in Orenlas to recover before returning to Dunmar."
+        },
+        {
+          "name": "tanshi",
+          "role": "encountered",
+          "notes": "Consulted through Contact Other Plane about the ooze; no individual name is supplied."
+        },
+        {
+          "name": "Isingue ooze",
+          "role": "mentioned",
+          "notes": "The mission is to destroy it before replanting the Heartroot."
+        }
+      ],
+      "items": [
+        {
+          "name": "Vindristjarna",
+          "role": "encountered",
+          "notes": "Carries the party for the initial departure; Faldrak follows after they use Wind Walk."
+        },
+        {
+          "name": "Heartroot",
+          "role": "mentioned",
+          "notes": "To be brought back after the river is cleansed; the party discusses retrieving it from Aurbez."
+        },
+        {
+          "name": "Binding Stones",
+          "role": "mentioned",
+          "notes": "Discussed as a possible means of imprisoning the ooze; not activated."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party reaches the ash storm, and Delwath scouts a clear plaza and its ooze with an illusory double followed by scrying.",
+      "longSummary": "Wind Walk carries the party across the Plaguelands, past a burned standing forest and ash-covered hills, along the river from Orenlas toward the Istaros near Isingue. The spell ends at the storm's edge, about fifteen miles from the city. Delwath sends a Mislead double running inward; it reaches a roughly six-hundred-foot clearing around a cracked well just before the spell expires. An ooze pulls itself out and lashes harmlessly through the illusion. Delwath then scries the newly seen spot, observing an eighty-to-one-hundred-foot mass, surviving market columns and rubble, and signs of nearby river docks.",
+      "location": {
+        "kind": "journey",
+        "from": "Plaguelands",
+        "to": "ash-storm perimeter (Plaguelands)",
+        "context": "Wind Walk to the outskirts of the storm around Isingue, followed by remote reconnaissance",
+        "notes": "The party stays at the perimeter; only the illusory scout enters the city."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Seen through an illusory double and scrying; its attacks pass through the illusion."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Kenzo senses the ooze's distributed network and a trace of Limbo, then discovers that the surrounding ash is poisonous.",
+      "longSummary": "Kenzo's communion reveals a chaotic inversion of the Heartroot spread through the city's underground passages, with concentrations in the river and plaza and a Limbo-like nodule beneath the well. The network has no apparent conscious will, and he senses no other living things in the area; the growing unnatural storm is centered on the nodule. The party decides to collect a sample before camping. Kenzo enters the ash in astral form and reports that it becomes choking and poisonous, although his poison immunity protects him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Plaguelands",
+        "context": "At the ash-storm perimeter outside Isingue",
+        "notes": "The characters remain outside the city while observing or planning expeditions into it."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Sensed as an instinctive, distributed network rather than an individual mind."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heartroot",
+          "role": "mentioned",
+          "notes": "Kenzo compares the ooze network to a chaotic inversion of its structure."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party plans to send poison-immune Kenzo into the storm riding Wellby transformed into a green dragon.",
+      "longSummary": "Rather than teleport the whole party into danger, they arrange a reconnaissance flight to collect a piece of ooze for study and the mirror. Delwath initially proposes becoming the dragon himself, then chooses to transform Wellby so he can remain safely behind and maintain concentration. They accept that the flight will exceed True Polymorph's first hour and plan to dispel it on Wellby's return.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Plaguelands",
+        "context": "At the ash-storm perimeter outside Isingue",
+        "notes": "The characters remain outside the city while observing or planning expeditions into it."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "mentioned",
+          "notes": "The intended means of studying the sample's history after retrieval."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Kenzo retrieves a crystallizing ooze sample from a ruined cistern while Wellby carries him through the storm as a green dragon.",
+      "longSummary": "At sunset Wellby flies Kenzo about thirteen miles into the poisonous storm while Delwath and Seeker remain outside. They find a collapsed well, and Kenzo passes through its rubble in astral form into a vast, partly ruined cistern fed by the river; the apparent tunnel network is a maze of fallen stone rather than sewers. Two purple pseudopods attack. Soul sight distinguishes the smaller segments from the full ooze and reveals the latter's immunity to acid, necrotic, and poison damage and many conditions. Kenzo stuns a segment, grapples it, and tears off a piece that hardens into crystal, then escapes on Wellby. Back with the others, Wellby's transformation is dispelled with the glove-assisted automatic success discussed at the table.",
+      "location": {
+        "kind": "journey",
+        "from": "ash-storm perimeter (Plaguelands)",
+        "to": "Isingue",
+        "context": "Wellby carries Kenzo to a collapsed well and ruined cistern, then back to the ash-storm perimeter",
+        "notes": "The expedition visits Isingue and returns to its starting point; Delwath and Seeker remain outside the storm."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Two purple pseudopods attack Kenzo inside the cistern; they are segments of the larger organism."
+        }
+      ],
+      "items": [
+        {
+          "name": "Crystallized ooze sample",
+          "role": "encountered",
+          "notes": "Torn from a stunned pseudopod by Kenzo and carried back for examination."
+        },
+        {
+          "name": "Glove of Crystalized Magic",
+          "role": "encountered",
+          "notes": "Used for the automatic dispelling of Wellby's transformation."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Purple ooze pseudopods"
+          }
+        ],
+        "notes": "A brief sample-collection fight: Kenzo stuns and grapples one segment, tears off a fragment, and escapes. The full ooze is not defeated."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The mirror shows the ooze growing from corrupted water and stone beneath Isingue, suggesting an attack on its river connection.",
+      "longSummary": "The recovered fragment is dead, nonmagical, and dull gray-purple; Delwath's sword does not identify it as native to Limbo. Shown the fragment and asked about its origins, the Mirror of the Past reveals violent changes in the cistern: stone melts, water solidifies, and a gelatinous mass forms and hardens. Its core splits into two connected, orbiting masses that cast out filaments through the water. Over years the growth consumes the cistern's water and corrodes the city's stone, eventually reaching out through a well. The party considers attacking its center, then proposes cutting off the river concentration in hopes of depriving it of water.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Plaguelands",
+        "context": "At the ash-storm perimeter outside Isingue",
+        "notes": "The characters remain outside the city while observing or planning expeditions into it."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Crystallized ooze sample",
+          "role": "encountered",
+          "notes": "Examined as a dead, nonmagical fragment and used to request a vision of the ooze's origins."
+        },
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "Shows the ooze's formation and growth beneath Isingue."
+        },
+        {
+          "name": "Delwath's sword",
+          "role": "encountered",
+          "notes": "Used to check whether the sample is native to Limbo."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1749-09-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party camps outside the storm and uses Heroes' Feast to prepare for a river attack after an overnight rest.",
+      "longSummary": "They commit to attacking the river concentration and choose Heroes' Feast rather than creating another Seeker simulacrum. Seeker uses Wish to produce the feast at sunset, allowing him to recover the spell slot after sleeping while its benefits last into the next day. The meal adds eleven to everyone's maximum hit points and grants immunity to the frightened and poisoned conditions and resistance to poison damage; Aid adds another twenty maximum hit points for everyone except Seeker. Delwath also adjusts his sword's planar attunement, reconsidering the initial choice in favor of Pandemonium's ability to bypass slashing resistance.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Plaguelands",
+        "context": "Camp outside the ash storm near Isingue",
+        "notes": "An overnight rest separates this camp from the next beat."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Delwath's sword",
+          "role": "encountered",
+          "notes": "Its planar attunement is adjusted during preparations; the final complete pair is not restated."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After the storm reaches their camp overnight, the party approaches the river ooze with Seeker and Delwath in leviathan forms.",
+      "longSummary": "The party wakes refreshed to find that the ash storm has expanded to the tents. They head for the river outside the storm and travel upstream, protected from the poisonous ash by Heroes' Feast. Seeker uses Shapechange to become a leviathan while retaining spellcasting, and Delwath uses True Polymorph for the same form without spells or speech. Kenzo flies in astral form and Wellby uses his wings. As they approach the plaza, Kenzo senses the river concentration retreating and gathering on the bank, where an enormous ooze comes toward them through the thirty-foot visibility.",
+      "location": {
+        "kind": "journey",
+        "from": "camp outside the ash storm (Plaguelands)",
+        "to": "riverbank (Isingue)",
+        "context": "Approach to the river and upstream travel through the ash storm"
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Withdraws from the river and condenses on the bank as the party approaches."
+        }
+      ],
+      "items": [
+        {
+          "name": "Kenku Glamoured Armor",
+          "role": "encountered",
+          "notes": "Wellby flies using the armor's wings during the approach."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-013",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The river ooze attacks Kenzo and Wellby as the leviathans close in and the party tests its defenses.",
+      "longSummary": "The ooze slips into the river and strikes the two flying adventurers with pseudopods. Kenzo deflects an attack and uses soul sight, finding immunity to acid, poison, and numerous conditions, no additional damage resistances, and Intelligence as its weakest save. He activates Superior Defense and Lengau's Claw before attacking with his staff. Both flyers evade an explosive acid burst, and Wellby shoots the ooze, including with a lightning arrow, before moving around its rear. Seeker and Delwath advance and strike with leviathan attacks, benefiting from their own acid and poison immunity.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "River and riverbank near the ruined central plaza",
+        "notes": "The ash limits visibility to roughly thirty feet."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "The river concentration fights the whole party at the shoreline."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Isingue ooze — river concentration"
+          }
+        ],
+        "notes": "The encounter begins at the riverbank. Kenzo and Wellby are exposed above the water while the leviathans move into reach."
+      }
+    },
+    {
+      "beatId": "beat-014",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Wellby spots a tendril connecting the river ooze to the plaza, and the party shifts its attacks toward severing it.",
+      "longSummary": "Wellby reports the rearward connection telepathically. Seeker tries Rune of Psychic Disruption, but the ooze saves, then catches Wellby in an acidic net that leaves him restrained. Delwath directs a tidal wave at the connecting pseudopod, but the ooze saves and the attack does too little damage to break it. The ooze repeatedly attacks Wellby while the leviathans move over and alongside the connection, using their resistant forms to close with it.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "River and riverbank near the ruined central plaza",
+        "notes": "The ash limits visibility to roughly thirty feet."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Maintains a connecting tendril toward the plaza and traps Wellby in an acidic net."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Isingue ooze — river concentration"
+          }
+        ],
+        "notes": "The immediate objective changes from damaging the main mass to severing its link to the central plaza."
+      }
+    },
+    {
+      "beatId": "beat-015",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The ooze reinforces its damaged tendril with stone and restrains Kenzo as the party discovers how it chooses retaliation targets.",
+      "longSummary": "Kenzo lands a heavy series of staff strikes and punches on the connecting pseudopod. The ooze transfers material from its main body to repair the connection, then fills it with stone that resists bludgeoning damage. Another acidic net restrains Kenzo alongside the already trapped Wellby. Wellby continues shooting using his clockwork amulet but fails to escape. The group recognizes that the ooze retaliates against the last creature to physically damage its tail; it cannot identify the origin of Seeker's spells. A further Rune of Psychic Disruption forces it to spend a legendary resistance, hardening and slowing its body.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "River and riverbank near the ruined central plaza",
+        "notes": "The ash limits visibility to roughly thirty feet."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Repairs and armors its connection, restrains both flyers, and retaliates against physical attacks on the tail."
+        }
+      ],
+      "items": [
+        {
+          "name": "Clockwork amulet",
+          "role": "encountered",
+          "notes": "Wellby uses it to ensure a successful shot while restrained."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Isingue ooze — river concentration"
+          }
+        ],
+        "notes": "The reinforced tail resists bludgeoning damage, both flyers are restrained, and the party identifies the retaliation pattern."
+      }
+    },
+    {
+      "beatId": "beat-016",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Delwath draws the ooze's attacks while Kenzo cracks the tendril with force damage and breaks free of his restraints.",
+      "longSummary": "Delwath attacks the connection and draws retaliation onto his resistant leviathan form as cracks begin to appear. An acid line strikes the group, leaving the leviathans unharmed but severely injuring the restrained flyers, particularly Wellby. The leviathans keep pounding the stone, and Kenzo switches his successful unarmed strikes to force damage, widening the cracks before escaping the net. Wellby remains trapped, shoots again, drinks a healing potion, and reduces the next retaliatory hit with Uncanny Dodge.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "River and riverbank near the ruined central plaza",
+        "notes": "The ash limits visibility to roughly thirty feet."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "Its armored connection visibly cracks under the continuing attacks."
+        }
+      ],
+      "items": [
+        {
+          "name": "Healing potion",
+          "role": "encountered",
+          "notes": "Wellby drinks a potion while still restrained and badly injured."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Isingue ooze — river concentration"
+          }
+        ],
+        "notes": "Damage accumulates on the connecting pseudopod. Kenzo escapes the net, but Wellby remains vulnerable."
+      }
+    },
+    {
+      "beatId": "beat-017",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Seeker heals Wellby, and Delwath's second tidal wave severs the connection and destroys the river concentration.",
+      "longSummary": "Seeker casts Healing Word to restore twenty-nine hit points to Wellby, then strikes the cracked tail with both leviathan attacks. More fractures appear, and the ooze retaliates against Seeker to little effect. Delwath's tidal wave recharges, and he sends another wave through the connection. Even after the ooze spends a legendary resistance, the blast severs the tendril; the river mass bubbles apart, drains away, and hardens into crystal.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "River and riverbank near the ruined central plaza",
+        "notes": "The ash limits visibility to roughly thirty feet."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "The river concentration collapses when the connection is severed; the rest of the ooze remains."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Isingue ooze — river concentration"
+          }
+        ],
+        "notes": "A tidal wave breaks the connecting pseudopod, causing this concentration to crystallize and fall apart."
+      }
+    },
+    {
+      "beatId": "beat-018",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "As the city begins to rumble, the party heals Wellby and prepares to follow the crystallized connection to the well.",
+      "longSummary": "The ground shakes and stones crumble in the distance after the river mass collapses. Its remaining restraints harden into brittle crystal and are washed away, freeing Wellby. Seeker heals him again, and Kenzo shares healing potions. The party considers entering the cistern from the river, but its old connecting passages have collapsed, so the surviving crystal trail leads overland toward the well. Kenzo checks the network again and senses that everything is now concentrated there; they choose to advance while the leviathan transformations remain active.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Isingue",
+        "context": "River and riverbank near the ruined central plaza",
+        "notes": "The ash limits visibility to roughly thirty feet."
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "mentioned",
+          "notes": "Kenzo senses the remaining network concentrating at the central well."
+        }
+      ],
+      "items": [
+        {
+          "name": "Healing potions",
+          "role": "encountered",
+          "notes": "Kenzo gives Wellby potions; Wellby drinks several and keeps one in reserve."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-019",
+      "dateStart": "1749-09-18",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party reaches the collapsed plaza and finds a four-hundred-foot ooze emerging from the cistern before play pauses.",
+      "longSummary": "They rush toward the well and emerge from the ash into the storm's clear center. The plaza has collapsed into a slope down to the cistern, leaving its rim, market columns, and fallen masonry around an enormous, multicolored ooze roughly four hundred feet across. The nodule is hidden within the mass. The party discusses reaching it with the leviathans and Kenzo, while Wellby stays farther away, and considers Forcecage or other ways to isolate or destroy it. Play stops for the real-world dinner and sunset break before initiative; none of these proposed tactics has yet been attempted.",
+      "location": {
+        "kind": "journey",
+        "from": "riverbank (Isingue)",
+        "to": "collapsed central plaza (Isingue)",
+        "context": "Overland advance along the crystallized connection into the eye of the ash storm"
+      },
+      "npcs": [
+        {
+          "name": "Isingue ooze",
+          "role": "enemy",
+          "notes": "The enormous central mass emerges from the collapsed cistern; the next combat has not begun."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

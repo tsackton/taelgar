@@ -1,11 +1,10 @@
-sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dragonets/session-01/GMT20260918-010103_Recording.transcript.vtt
-sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dragonets/session-01/GMT20260918-010103_Recording.m4a
+sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dragonets/session-02/GMT20260930-004700_Recording.transcript.vtt
 sourceType: transcript
 outputDir: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets"
 
 campaign: Dragonets
-sessionNumber: 1
-realWorldDate: 2026-09-17
+sessionNumber: 2
+realWorldDate: 2026-09-29
 # This adventure is not set at a specific time in Taelgar.
 drStart: "unknown"
 drEnd: "unknown"

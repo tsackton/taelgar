@@ -1,0 +1,58 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Dreams and Childhood Memories",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The egg vision and four childhood recollections form one opening sequence, ending when attention returns to the present-day restaurant conversation."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Breakfast and a Business Plan",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "Seeking breakfast, experimenting with the food machine, and receiving Ilse's advice form one sustained restaurant-planning sequence. Her summons closes it with departure for Oru's tent."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Oru's Questions and the Wanderer's Eye",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "Oru's interview leads to investigating the reopened eye. End after the four friends and Roska enter and the iris closes behind them at u1537, before the interior experience begins."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Inside the Wanderer",
+      "beatIds": [
+        "beat-006b",
+        "beat-007"
+      ],
+      "rationale": "Start inside the closed eye with the activating shaft and renewed powers, then keep the guardian encounter through Roska's evacuation and the cessation of the lasers together. This scene resolves when the rescue is complete; the peaceful approach to the heart begins the next scene."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Heart Awakens",
+      "beatIds": [
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "With Roska safely outside, the guardians welcome the friends toward the heart chamber and its eight seats. Keep their reveries, the statue's awakening, and the brief Firstborn reveal beyond the storm as the final in-game scene; the vessel coda remains a separate viewpoint unseen by the characters."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "After the Session (out of game)",
+      "beatIds": [
+        "beat-010"
+      ],
+      "rationale": "The fictional epilogue has ended. Keep scheduling, farewells, and the subsequent DM-player clarification in a separate removable section so it can be trimmed from the published recap without altering the story scenes."
+    }
+  ]
+}

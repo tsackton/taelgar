@@ -1,0 +1,453 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-002/cleaned/dragonets-002-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Waking on the Wanderer's palm after the egg's vision, the four friends recall formative childhood experiences as their extraordinary powers fade.",
+      "longSummary": "The friends recall the egg's shared vision of a dying purple dragonet finding a sense of home within an enveloping light, then awaken with the egg dark and their heightened powers gone. Zeno remembers his uncle Kaz's mountain monastery, where dragonet monks made their bodies and the building resonate with a choral drone. Heska recalls escaping an embarrassing dance performance and discovering how to conceal himself from fish beneath him, returning with a catch that won him a place among his peers. Sculpit remembers being caught in the storm, surrendering to its energy, and finding himself on the Wanderer's palm; he now faces the storm with unusual calm. Little Tony recalls sparing the golden-shelled King of the Hermit Crabs, whose mishearing of his wish to 'walk to any swing' gave him the power to talk to anything. They also recall the Wanderer's open eye in their dream.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "The Wanderer's palm",
+        "notes": "Present-day framing is the following morning; the childhood locations and the egg vision are recollections, not current travel."
+      },
+      "npcs": [
+        {
+          "name": "Kaz",
+          "role": "mentioned",
+          "notes": "Zeno's uncle, a monk at the mountain monastery visited during childhood."
+        },
+        {
+          "name": "King of the Hermit Crabs",
+          "role": "mentioned",
+          "notes": "A golden-shelled crab whom Little Tony remembers granting his misunderstood childhood wish; Tony also derived his name from the crab's greeting."
+        },
+        {
+          "name": "Dying purple dragonet",
+          "role": "mentioned",
+          "notes": "An unidentified dragonet in the recalled shared vision; no personal identity is established here."
+        }
+      ],
+      "items": [
+        {
+          "name": "Mysterious egg",
+          "role": "encountered",
+          "notes": "The egg is no longer glowing, and the friends no longer feel the extraordinary abilities it awakened the previous night."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Following reports of island-wide awakenings, the friends seek breakfast at an ancient food machine that responds to Zeno’s music and thoughts.",
+      "longSummary": "While the friends discuss opening a restaurant with swings for seats, Grandpa Jim the Cloud reports opening statue eyes, warmth in the Mother's heart, illuminated roads, and fountains and food appearing across the island. They fly along the pilgrimage road to a formerly dormant food machine surrounded by dragonets, including Xena, whom Heska avoids. Little Tony's cousin Paul, or Paulie, recounts how Joey thought of salted salmon and received it the previous night, although the machine later stopped. Zeno harmonizes with its humming, setting steam and a waterwheel in motion, then imagines fish stuffed inside fish. The machine produces a raw bluefin containing smaller fish and a raw potato. Little Tony senses the machine's joy at waking and serving its purpose, while Grandpa Jim holds its usefulness up as an example for him.",
+      "location": {
+        "kind": "journey",
+        "from": "The Wanderer's palm (Circular Island)",
+        "to": "Roadside food machine (Circular Island)",
+        "context": "Flight along the pilgrimage road to the food machine nearest the Wanderer"
+      },
+      "npcs": [
+        {
+          "name": "Grandpa Jim the Cloud",
+          "role": "encountered",
+          "notes": "A cloud long acquainted with Little Tony; reports the island’s changes and repeatedly criticizes Tony."
+        },
+        {
+          "name": "Paul",
+          "role": "encountered",
+          "notes": "Little Tony's cousin, also called Paulie; reports Joey's apparent success with the machine."
+        },
+        {
+          "name": "Joey",
+          "role": "mentioned",
+          "notes": "According to Paul, imagined salted salmon and received it from the machine; this account does not establish special powers of his own."
+        },
+        {
+          "name": "Xena",
+          "role": "encountered",
+          "notes": "Present among the crowd at the food machine; Heska conceals himself to avoid her."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ancient food machine",
+          "role": "encountered",
+          "notes": "A roadside structure previously used as a playground and performance stage; activates as Zeno harmonizes with it and produces his imagined nested fish dish."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The friends’ conflicting food requests send the machine into a burst of bizarre creations and inspire a restaurant serving food on sticks beside swings.",
+      "longSummary": "Heska samples food with an invisible Mage Hand and drops a stringy portion onto a fan near Xena, provoking a squabble over eating it. Sculpit gathers unfamiliar foods with an Unseen Servant and approaches Xena, who later questions Heska about his fishing. The machine's humming and shaking intensify as the friends gather around it. Little Tony proposes that all four imagine the same dish, but they choose different foods despite Sculpit's plea to keep things simple. The machine erupts with metal strands shaped like spaghetti, potatoes containing fish, and tuna bones studded with clams. Tony declares the experiment a success, and the group develops its plan for food on sticks, swing seating, and swing music.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Roadside food machine and its surrounding crowd"
+      },
+      "npcs": [
+        {
+          "name": "Xena",
+          "role": "encountered",
+          "notes": "Talks with the friends near the food machine and approaches Heska about his fishing."
+        },
+        {
+          "name": "Grandpa Jim the Cloud",
+          "role": "encountered",
+          "notes": "Continues criticizing Little Tony as Tony senses the food machine’s enthusiasm."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ancient food machine",
+          "role": "encountered",
+          "notes": "Responds more strongly as the friends gather, then produces confused combinations of their different imagined dishes."
+        },
+        {
+          "name": "Food-machine creations",
+          "role": "encountered",
+          "notes": "Metal spaghetti-like strands, fish-filled potatoes, and tuna bones with clams; these become the basis of the restaurant discussion and collected samples."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Ilse summons the friends to Shaman Oru, briefly joins their restaurant planning, and helps turn the chaotic food into presentable samples.",
+      "longSummary": "Ceremonially dressed dragonets arrive, and Ilse, who works for Shaman Oru, asks how the friends activated the machine and summons them to meet him. Their concern about permission for the restaurant turns into a business discussion: Ilse wants to join and reverses her ceremonial cloak before advising them to use the bones in their presentation and avoid serving the metal strands. Another shaman reminds Ilse of her duties, prompting her to turn the cloak back. The friends and nearby dragonets gather and arrange the edible creations on sticks and fish ribs; Sculpit considers the possibilities of a new food art with reservations. They leave toward the temple with their samples.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Roadside food machine, before departure toward the temple",
+        "notes": "The beat ends with departure; arrival at Oru's tent occurs in the following beat."
+      },
+      "npcs": [
+        {
+          "name": "Ilse",
+          "role": "encountered",
+          "notes": "Oru's messenger; offers restaurant advice and asks to join the venture."
+        },
+        {
+          "name": "Ilse's supervisor",
+          "role": "encountered",
+          "notes": "An unnamed shaman who interrupts the restaurant discussion to remind Ilse of her duties."
+        },
+        {
+          "name": "Oru",
+          "role": "mentioned",
+          "notes": "The shaman requesting a meeting about the awakening machine."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ancient food machine",
+          "role": "encountered",
+          "notes": "Its activation prompts the shamans’ questions."
+        },
+        {
+          "name": "Food-machine creations",
+          "role": "encountered",
+          "notes": "Edible samples are arranged on sticks and fish ribs to take along; Ilse advises against eating the metal strands."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Oru compares the friends’ account of the egg with the island’s awakenings before Roska arrives with news that the Wanderer’s eye has opened again.",
+      "longSummary": "At his tent on the edge of the Jubilee temple grounds, Oru welcomes the friends and asks about the food machine. When Zeno describes its resonance, Oru produces a small round mechanical artifact collected in the temple: it began ticking the previous night and grows louder as Zeno approaches. Amid restaurant plans and breakfast diversions, the friends describe the egg and the vision of a dying purple dragonet beneath a red sky. Oru places the island's simultaneous awakenings late in the festival evening and reports intermittent activity since, including the Wanderer's eyes and the Sibyl's third eye. He shares his own enthusiasm for restaurants while pursuing the investigation. Roska then bursts in with news that the Wanderer's eye is open again, and they agree to investigate.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Oru's tent at the edge of the Jubilee temple grounds"
+      },
+      "npcs": [
+        {
+          "name": "Oru",
+          "role": "encountered",
+          "notes": "A very old and warmly familiar shaman investigating the island’s changes; has also run a restaurant."
+        },
+        {
+          "name": "Roska",
+          "role": "encountered",
+          "notes": "Arrives with others to report the Wanderer's reopened eye."
+        },
+        {
+          "name": "Dying purple dragonet",
+          "role": "mentioned",
+          "notes": "The friends recount the dragonet from their shared vision without establishing a name."
+        }
+      ],
+      "items": [
+        {
+          "name": "Oru's mechanical artifact",
+          "role": "encountered",
+          "notes": "A round object with gears or toothed wheels, collected in the temple; recently began ticking and responds more strongly near Zeno. Its purpose is unknown, and no transfer of ownership is established."
+        },
+        {
+          "name": "Mysterious egg",
+          "role": "mentioned",
+          "notes": "Discussed as the source of the shared vision and extraordinary feelings; the account is compared with the timing of the island’s awakenings."
+        },
+        {
+          "name": "Ancient food machine",
+          "role": "mentioned",
+          "notes": "Oru asks how the friends activated it."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The friends return to the Wanderer and enter its opening eye with Roska while Oru waits outside.",
+      "longSummary": "The group flies back to the Wanderer with Oru and Roska, and its mechanical eye tracks their approach. Oru says that the island seems to respond to the four friends, although nobody yet understands what is happening. Little Tony senses peace and hears 'Come'; the iris opens as he draws close. Sculpit teleports through, Heska and Zeno fly in gracefully, and Roska joins them while Oru stays outside and asks for a report. Zeno's encouragement helps Tony make it through after brushing the edge. Once Tony, the last to enter, is through, the iris closes behind all five.",
+      "location": {
+        "kind": "journey",
+        "from": "Oru's tent (Circular Island)",
+        "to": "Inside the Wanderer's eye (Circular Island)",
+        "context": "Flight to the Wanderer and passage through its mechanical iris",
+        "notes": "The beat ends when the iris closes behind the four friends and Roska; the interior descent follows in beat-006b."
+      },
+      "npcs": [
+        {
+          "name": "Oru",
+          "role": "companion",
+          "notes": "Accompanies the approach, then stays outside and asks for a report."
+        },
+        {
+          "name": "Roska",
+          "role": "companion",
+          "notes": "An accomplished fighter who joins the friends inside the Wanderer."
+        }
+      ],
+      "items": [
+        {
+          "name": "Statue of the Wanderer",
+          "role": "encountered",
+          "notes": "Its eye tracks the approaching friends and opens for entry; Tony senses peace and hears 'Come.' The iris closes after all five enter."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006b",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Inside the Wanderer, activating machinery renews the friends’ extraordinary powers as they descend toward four immense guardians.",
+      "longSummary": "Beyond the closed iris, the friends and Roska descend a spiraling mechanical shaft whose unfamiliar materials and shapes seem unlike anything in dragonet culture. Lights and resonant machinery activate around them, and the sacred power they felt after embracing the egg returns: Heska's senses sharpen, Zeno feels attuned to the machines, and Sculpit's turbulent magic steadies. At the table, all four temporarily become level ten. They approach four enormous guardian statues below, and Little Tony hears 'Defend,' 'Safe,' and 'Intruder.' He also discovers that he and his friends can communicate telepathically. Tony introduces the group as friends and urges them to slow down before they reach the guardians.",
+      "location": {
+        "kind": "journey",
+        "from": "Inside the Wanderer's eye (Circular Island)",
+        "to": "Guardian chamber inside the Wanderer (Circular Island)",
+        "context": "Descent through the activating mechanical shaft toward the guardians",
+        "notes": "Roska accompanies the four friends; Oru remains outside and does not participate in this beat."
+      },
+      "npcs": [
+        {
+          "name": "Roska",
+          "role": "companion",
+          "notes": "An accomplished fighter who joins the friends inside the Wanderer."
+        },
+        {
+          "name": "Four guardian statues",
+          "role": "encountered",
+          "notes": "Enormous figures in the chamber below; Tony receives defensive warnings before combat begins."
+        }
+      ],
+      "items": [
+        {
+          "name": "Statue of the Wanderer",
+          "role": "encountered",
+          "notes": "Internal machinery lights and hums as the group descends; the friends regain heightened powers and approach the guardian chamber."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "When the guardians fire on Roska, the friends use fog, music, and protective magic to cover his evacuation, ending the attack without destroying the statues.",
+      "longSummary": "The four guardians fire red eye beams at Roska, badly wounding him as the friends try concealment and communication. Heska covers one guardian's head with Fog Cloud, and Tony seeks to understand their warnings with help from his seagull familiar Glenda. Zeno draws a guardian into a 'swing' and 'stick' call-and-response after Sculpit uses Silvery Barbs to force a failed resistance roll. Roska's sword attack misses. Tony persuades Roska to withdraw and carries him upward, but they remain in range. Recognizing Roska as the target, Heska moves his fog cover to them, while Sculpit's Cutting Words prevents a beam from hitting Tony. Sculpit finally uses Dimension Door to carry Roska outside, then flies back through the reopening iris. The guardians' eyes turn blue and their lasers cease once Roska is gone; Zeno keeps the musical exchange going.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Guardian chamber and shaft inside the Wanderer",
+        "notes": "The combat centers inside the statue; Sculpit briefly teleports Roska outside and returns alone through the eye."
+      },
+      "npcs": [
+        {
+          "name": "Roska",
+          "role": "companion",
+          "notes": "The guardians’ principal target; wounded before Tony begins his retreat and Sculpit evacuates him."
+        },
+        {
+          "name": "Glenda",
+          "role": "companion",
+          "notes": "Little Tony's seagull familiar; helps him assess the guardians, and her infatuation with him becomes a topic of conversation."
+        },
+        {
+          "name": "Four guardian statues",
+          "role": "enemy",
+          "notes": "Their bodies remain in place while their heads aim eye beams; they cease firing and show blue eyes after Roska leaves."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Four guardian statues",
+            "notes": "Enormous stationary-bodied guardians with rotating heads and damaging eye beams."
+          }
+        ],
+        "notes": "The full encounter ends through Roska’s evacuation, not the destruction of the guardians. Fog, a musical call-and-response, Silvery Barbs, Cutting Words, and Dimension Door drive the rescue. Tony is also endangered while carrying Roska."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Welcomed by the guardians, the friends occupy four of eight seats inside the Wanderer and awaken the statue as three imagine setting it in motion.",
+      "longSummary": "The now-peaceful guardians welcome the friends, who climb resonant, musical stairs into a chamber they take to be the Wanderer's heart. Eight seats fit dragonets perfectly despite the larger scale of the surrounding architecture, and four draw the friends with a profound sense of home. Zeno settles toward sleep, Sculpit seeks the palm's familiar peace, Tony imagines a healthier romance for Glenda, and Heska pictures the statue catching and cooking fish. Machinery begins to shudder and lights flicker. Heska proposes walking toward the storm; Zeno joins him, Tony favors an amble into the sea, and Sculpit urges calm and staying on the island. With three imagining movement, the machinery and heartbeat-like pulse intensify, both eyes shine blue, and luminous seams across the statue astonish the island. No completed step or departure is shown.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "The Wanderer’s interior, from the guardian chamber up to the eight-seat chamber",
+        "notes": "The friends ascend within the same structure; the closing exterior view shows the statue awakening on the island."
+      },
+      "npcs": [
+        {
+          "name": "Four guardian statues",
+          "role": "encountered",
+          "notes": "Now peaceful; welcome the friends and allow them to approach the stairs."
+        },
+        {
+          "name": "Glenda",
+          "role": "companion",
+          "notes": "Tony thinks about finding another seagull partner for his recently arrived familiar."
+        }
+      ],
+      "items": [
+        {
+          "name": "Statue of the Wanderer",
+          "role": "encountered",
+          "notes": "Its machinery, light, and pulse intensify as the seated friends imagine movement; actual walking or entry into the sea is not narrated."
+        },
+        {
+          "name": "Eight seats in the Wanderer’s heart",
+          "role": "encountered",
+          "notes": "Descriptive label for the dragonet-sized seats in the presumed heart chamber; each friend is drawn to one, leaving four unoccupied."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "In a closing scene beyond the storm, two unidentified humanoids detect four extraordinary signatures and recognize them as Firstborn.",
+      "longSummary": "The viewpoint leaves Circular Island and passes through the surrounding storm to a vessel hovering beyond it. Inside, two unidentified humanoids study a device displaying shifting, psychedelic light signatures. One is moved to tears after their long search; they describe the detected energy as divine and discuss how the discovery could change everything for the resistance. Four particular signatures seem unmistakable, and they conclude 'Firstborn.' This scene is shown to the audience; the four player characters neither witness the conversation nor meet the observers.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Unidentified hovering vessel",
+        "context": "A room beyond the storm surrounding Circular Island",
+        "notes": "A separate audience-facing scene; the player characters remain inside the Wanderer."
+      },
+      "npcs": [
+        {
+          "name": "Two unidentified humanoids",
+          "role": "encountered",
+          "notes": "Present in the closing vessel scene, not encountered by the player characters; their names and affiliations are unconfirmed."
+        }
+      ],
+      "items": [
+        {
+          "name": "Energy-signature device",
+          "role": "encountered",
+          "notes": "Descriptive label for the glowing artifact or device whose shifting lights the observers interpret as divine energy signatures."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Resistance",
+          "role": "mentioned",
+          "notes": "The observers discuss the discovery’s significance for a resistance; its identity, scope, and their relationship to it are not established."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The table wraps up, followed by a DM–player discussion of the Firstborn reveal and session preparation.",
+      "longSummary": "After the fictional scene ends, the players confirm their next meeting, discuss an image reference, and say their farewells. In a subsequent conversation with Tim, the DM clarifies that the four characters are dragonet Firstborn; the term does not identify the Wanderer in the reveal. They also discuss the session's character-focused preparation and roleplaying. These are out-of-game remarks, not another fictional scene or information learned by the characters.",
+      "location": {
+        "kind": "unknown",
+        "context": "Out-of-game table discussion; no in-world location applies.",
+        "notes": "Do not inherit the hovering vessel as a party location or infer an in-world date from scheduling remarks."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}
