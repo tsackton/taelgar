@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "changedLineCount": 17,
+    "replacementCount": 13,
+    "repeatedReplacementCount": 4,
+    "topReplacements": [
+      {
+        "from": "Dimitar",
+        "to": "Dimitaur",
+        "count": 4,
+        "headers": [
+          "[u0149 | 00:06:28.090-00:06:29.310 | DM]",
+          "[u0151 | 00:06:35.390-00:06:36.830 | Kenzo]",
+          "[u0152 | 00:06:36.870-00:06:38.870 | DM]",
+          "[u0157 | 00:06:46.790-00:06:49.690 | Kenzo]"
+        ]
+      },
+      {
+        "from": "1",
+        "to": "won",
+        "count": 2,
+        "headers": [
+          "[u0280 | 00:12:03.470-00:12:06.130 | Delwath]",
+          "[u0283 | 00:12:09.750-00:12:10.530 | Unknown]"
+        ]
+      },
+      {
+        "from": "Drancor",
+        "to": "Drankor",
+        "count": 2,
+        "headers": [
+          "[u0165 | 00:07:12.250-00:07:16.830 | Kenzo]",
+          "[u0168 | 00:07:20.810-00:07:25.230 | DM]"
+        ]
+      },
+      {
+        "from": "Talgard",
+        "to": "Taelgar",
+        "count": 2,
+        "headers": [
+          "[u0288 | 00:12:27.900-00:12:29.740 | Seeker]",
+          "[u0294 | 00:12:42.520-00:12:43.720 | DM]"
+        ]
+      },
+      {
+        "from": "Chardin",
+        "to": "Chardon",
+        "count": 1,
+        "headers": [
+          "[u0287 | 00:12:21.320-00:12:23.900 | Delwath]"
+        ]
+      },
+      {
+        "from": "Isengai",
+        "to": "Isingue",
+        "count": 1,
+        "headers": [
+          "[u0144 | 00:05:56.080-00:06:04.480 | DM]"
+        ]
+      },
+      {
+        "from": "Phadrig",
+        "to": "Faldrak",
+        "count": 1,
+        "headers": [
+          "[u0157 | 00:06:46.790-00:06:49.690 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Simbara",
+        "to": "Sembara",
+        "count": 1,
+        "headers": [
+          "[u0237 | 00:10:28.230-00:10:30.809 | Kenzo]"
+        ]
+      },
+      {
+        "from": "cleansed",
+        "to": "Cleansed",
+        "count": 1,
+        "headers": [
+          "[u0190 | 00:08:25.010-00:08:32.310 | DM]"
+        ]
+      },
+      {
+        "from": "isn ' t gay",
+        "to": "- Isingue",
+        "count": 1,
+        "headers": [
+          "[u0205 | 00:09:11.230-00:09:16.310 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 350,
+  "changedLineCount": 17,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0097 | 00:03:02.660-00:03:07.540 | Wellby]",
+      "lineNumber": 97,
+      "originalText": "I think I'm gonna untune from the Kenku armor and tune into Cloak of Protection, 'cause flying is not meaningful here, right?",
+      "cleanedText": "I think I'm gonna unattune from the Kenku armor and attune to Cloak of Protection, 'cause flying is not meaningful here, right?"
+    },
+    {
+      "header": "[u0144 | 00:05:56.080-00:06:04.480 | DM]",
+      "lineNumber": 144,
+      "originalText": "and didn't realize until they got to Isengai with all the monks and started doing this ritual to close a portal that it wasn't in fact a portal,",
+      "cleanedText": "and didn't realize until they got to Isingue with all the monks and started doing this ritual to close a portal that it wasn't in fact a portal,"
+    },
+    {
+      "header": "[u0149 | 00:06:28.090-00:06:29.310 | DM]",
+      "lineNumber": 149,
+      "originalText": "Dimitar.",
+      "cleanedText": "Dimitaur."
+    },
+    {
+      "header": "[u0151 | 00:06:35.390-00:06:36.830 | Kenzo]",
+      "lineNumber": 151,
+      "originalText": "Dimitar did not do that.",
+      "cleanedText": "Dimitaur did not do that."
+    },
+    {
+      "header": "[u0152 | 00:06:36.870-00:06:38.870 | DM]",
+      "lineNumber": 152,
+      "originalText": "Dimitar didn't, did not do that.",
+      "cleanedText": "Dimitaur didn't, did not do that."
+    },
+    {
+      "header": "[u0157 | 00:06:46.790-00:06:49.690 | Kenzo]",
+      "lineNumber": 157,
+      "originalText": "Dimitar's definitely got some, like, you know, Seeker Phadrig in him.",
+      "cleanedText": "Dimitaur's definitely got some, like, you know, Seeker Faldrak in him."
+    },
+    {
+      "header": "[u0165 | 00:07:12.250-00:07:16.830 | Kenzo]",
+      "lineNumber": 165,
+      "originalText": "But then, but then, um, Rai was also in Drancor.",
+      "cleanedText": "But then, but then, um, Rai was also in Drankor."
+    },
+    {
+      "header": "[u0168 | 00:07:20.810-00:07:25.230 | DM]",
+      "lineNumber": 168,
+      "originalText": "Well, he originally teleported to Drancor after Cha'mutte died to stop-",
+      "cleanedText": "Well, he originally teleported to Drankor after Cha'mutte died to stop-"
+    },
+    {
+      "header": "[u0190 | 00:08:25.010-00:08:32.310 | DM]",
+      "lineNumber": 190,
+      "originalText": "He had corrupted the whole cleansed and had gotten Fausto to do all this work to get the ritual to go off that...",
+      "cleanedText": "He had corrupted the whole Cleansed and had gotten Fausto to do all this work to get the ritual to go off that..."
+    },
+    {
+      "header": "[u0205 | 00:09:11.230-00:09:16.310 | DM]",
+      "lineNumber": 205,
+      "originalText": "I knew that Rai... I, I basically knew what happened, but the whole Limbo isn't gay connection actually-",
+      "cleanedText": "I knew that Rai... I, I basically knew what happened, but the whole Limbo-Isingue connection actually-"
+    },
+    {
+      "header": "[u0237 | 00:10:28.230-00:10:30.809 | Kenzo]",
+      "lineNumber": 237,
+      "originalText": "I like how Simbara and the sea are in the same-",
+      "cleanedText": "I like how Sembara and the sea are in the same-"
+    },
+    {
+      "header": "[u0244 | 00:10:38.490-00:10:40.470 | Delwath]",
+      "lineNumber": 244,
+      "originalText": "It's missed the fact that Dunmar is a plane.",
+      "cleanedText": "It's missed the fact that Dunmar is a plain."
+    },
+    {
+      "header": "[u0280 | 00:12:03.470-00:12:06.130 | Delwath]",
+      "lineNumber": 280,
+      "originalText": "That's how, that's how we're gonna eventually get to the Cha'mutte 1 Taelgar.",
+      "cleanedText": "That's how, that's how we're gonna eventually get to the Cha'mutte won Taelgar."
+    },
+    {
+      "header": "[u0283 | 00:12:09.750-00:12:10.530 | Unknown]",
+      "lineNumber": 283,
+      "originalText": "What's Cha'mutte 1?",
+      "cleanedText": "What's Cha'mutte won?"
+    },
+    {
+      "header": "[u0287 | 00:12:21.320-00:12:23.900 | Delwath]",
+      "lineNumber": 287,
+      "originalText": "Chardin is like the great hobgoblin empire.",
+      "cleanedText": "Chardon is like the great hobgoblin empire."
+    },
+    {
+      "header": "[u0288 | 00:12:27.900-00:12:29.740 | Seeker]",
+      "lineNumber": 288,
+      "originalText": "And then there's Izzy's Talgard.",
+      "cleanedText": "And then there's Izzy's Taelgar."
+    },
+    {
+      "header": "[u0294 | 00:12:42.520-00:12:43.720 | DM]",
+      "lineNumber": 294,
+      "originalText": "Yeah, Izzy's Talgard is great.",
+      "cleanedText": "Yeah, Izzy's Taelgar is great."
+    }
+  ]
+}
