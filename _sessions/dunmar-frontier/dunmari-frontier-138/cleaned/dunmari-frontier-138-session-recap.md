@@ -314,75 +314,109 @@ After the battle, the party teleports to Aurbez and tells Cateline Malras and th
 
 ## Pull Quotes
 
-- ID: quote-beat-001-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-001-003
+  - Quote: "It's almost more like an environment than a creature itself, right?"
+  - Speaker: DM
+  - Source Lines: u0241
 
 - ID: quote-beat-002-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "I really thought I had it this time, Kenzo."
+  - Speaker: Wellby
+  - Source Lines: u0419
 
 - ID: quote-beat-003-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "Kenzo versus slime. Let's go."
+  - Speaker: Kenzo
+  - Source Lines: u0906
 
-- ID: quote-beat-004-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-004-003
+  - Quote: "It's really not doing well attacking Kenzo."
+  - Speaker: DM
+  - Source Lines: u1320
 
 - ID: quote-beat-005-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "I engulfed myself, guys. It's not so bad."
+  - Speaker: Seeker
+  - Source Lines: u1350
 
-- ID: quote-beat-006-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-006-002
+  - Quote: "Delwath's kind of questioning his life choices that led him to not being a Leviathan."
+  - Speaker: Delwath
+  - Source Lines: u1710-u1711
 
-- ID: quote-beat-007-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-007-003
+  - Quote: "That is a clue. I don't know what kind of clue it is, but..."
+  - Speaker: Delwath
+  - Source Lines: u2174
 
 - ID: quote-beat-008-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "Ugh, I dream of having 75 hit points."
+  - Speaker: Wellby
+  - Source Lines: u2512
 
-- ID: quote-beat-009-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-009-003
+  - Quote: "If I die, if I die, bring me back."
+  - Speaker: Delwath
+  - Source Lines: u2971
 
-- ID: quote-beat-010-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-010-003
+  - Quote: "So maybe I just have to be brave for a bit."
+  - Speaker: Seeker
+  - Source Lines: u3378
 
-- ID: quote-beat-011-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-011-003
+  - Quote: "Come on. I'm really inspiring."
+  - Speaker: Seeker
+  - Source Lines: u3744
 
-- ID: quote-beat-012-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-012-003
+  - Quote: "I knew the ladder was gonna play a role."
+  - Speaker: Seeker
+  - Source Lines: u4132
 
-- ID: quote-beat-013-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-013-002
+  - Quote: "And actually, as you're here, you get the feeling that the cistern was here even before the city."
+  - Speaker: DM
+  - Source Lines: u4288
 
 ## Audio Highlights
 
 - ID: audio-001
-  - Title: TODO
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Title: The corrupted cistern
+  - Speaker: DM
+  - Source Lines: u0223-u0243
   - Output: audio-001.m4a
+  - Summary: The collapsed well and enormous ooze establish the battlefield.
+  - Why Called Out: A sustained scene-setting narration that conveys the scale of the final battle.
+
+- ID: audio-002
+  - Title: If I die, bring me back
+  - Speaker: Wellby, Delwath, Kenzo, DM
+  - Source Lines: u2959-u2985
+  - Output: audio-002.m4a
+  - Summary: The party compares its dwindling survival chances and resurrection options.
+  - Why Called Out: Gallows humor captures the danger just before Delwath falls.
+
+- ID: audio-003
+  - Title: A natural twenty and a heart of glass
+  - Speaker: Kenzo, DM, Delwath, Wellby, Seeker
+  - Source Lines: u3939-u4058
+  - Output: audio-003.m4a
+  - Summary: Kenzo imagines fragile glass, rolls a natural twenty, shatters the core, and is flung skyward with Seeker.
+  - Why Called Out: The decisive roll, table reaction, and destruction of the core form the combat climax.
+
+- ID: audio-004
+  - Title: Ladder saves the day
+  - Speaker: Seeker, Delwath, DM, Wellby, Kenzo
+  - Source Lines: u4125-u4168
+  - Output: audio-004.m4a
+  - Summary: Seeker animates Ladder while Delwath wakes Wellby; the party watches the rescue as the ooze crystallizes.
+  - Why Called Out: An improvised escape and the superhero-cape image give the battle a memorable ending.
+
+- ID: audio-005
+  - Title: The Heartroot returns
+  - Speaker: DM, Kenzo
+  - Source Lines: u4253-u4292
+  - Output: audio-005.m4a
+  - Summary: Kenzo settles the Heartroot into the cistern, and its roots begin cleansing the river and restoring old channels.
+  - Why Called Out: The calm restoration narration provides a contrast in mood and a resolution to the battle.
