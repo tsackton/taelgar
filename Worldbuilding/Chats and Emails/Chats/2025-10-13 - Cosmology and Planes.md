@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-10-13 - Cosmology and Planes
 
 [2025-10-13 12:20 PM] rsulfuratus: thinking a little more. thematically, i think "awakening" the sword is more appropriate than random buffs to other things. i think a +1 to hit plus 2 or 3 of the standard moonblade properties would make sense: https://www.dndbeyond.com/magic-items/9228858-moonblade
@@ -5,17 +8,8 @@
     (replacing 1d6 force with 1d8 radiant, so it effectively already has that property once)
     
     that said, i'd treat the blessings from the shield as spells so you can use metamagic on them, and change the range of blessing of perception to touch. so you can metamagic transformation to a bonus action if you want, and metamagic perception to 30 foot range if needed.
-[2025-10-13 01:51 PM] Deciusmus: Right, I agree thematically. As far as blessings, the blessing of perception really doesn't benefit from metamagic - as written it lets you see invisible creatures out to whatever your normal perception is. That's fine, but is just a bit weak now that Delwath has true sight as he effectively has a weaker version of that always on. It doesn't really matter though, 100% of abilities don't have to still be useful at level 19.
-    
-    What do you think about basically retconning the blessing of transformation to:
-    
-    * have charges = 1/2 prof bonus (which nets +1 charge)
-    * rather than granting Dash as a bonus action, rewrite to say  "as part of invoking this, you may move up to your speed"
-    
-    That actually makes it dramatically more useful as something other than a "oh shit need to escape" feature, as either can use as an action to move 120 feet and still take a bonus action or similarly move 120 feet and still take action, if I quicken it with metamagic. Would also potentially make +30 speed, rather than free-misty step, more tempting. As then with blessing of transformation Delwath could go 240 feet and still attack.
-    
-    But allowing metamagic in general makes it a lot better that is a good idea.
-[2025-10-13 01:53 PM] rsulfuratus: the point of changing perception to touch would be that kenzo doesn't have truesight (i believe Kong was going to take speed)
+*[Editorial note: Cut 2 messages about individual character shield and spell optimization.]*
+
 [2025-10-13 01:54 PM] Deciusmus: As far as Moonblade, my suggestion would be:
     
     * Sentient
@@ -24,8 +18,8 @@
     * Gain new ability "Change purpose". After a long rest, can change the "enemy" of the sword to a different creature type from the list: aberration, undead, fiend, celestial, construct, elemental, fey.  The target of the magic circle and dispel good or evil abilities change to target this new creature type, rather than fiends. The sword glows when the new creature type is within X feet, and creatures of that type are aware of the sword's purpose. The bearer gains the ability to speak the language of that creature type. (Perhaps tweaked to remove constructs and/or aberrations, or make elemental have to be a specific type/plane; or perhaps even tweaked to be a little bit more planar aligned such that it is more about native inhabitants of a specific non-Taelgar plane, rather than creature types).
     
     Maybe if change purpose seems to strong drop the reach... Alternatively, just raw +2d8 radiant damage (rather than 1d8) + reach is probably mechanically better on average, but seems less fun
-[2025-10-13 01:54 PM] Deciusmus: Ah, makes sense
-[2025-10-13 01:54 PM] Deciusmus: Didn't even think of that, that definitely makes it more flexible/useful
+*[Editorial note: Cut 2 messages about individual character shield and spell optimization.]*
+
 [2025-10-13 01:58 PM] rsulfuratus: i don't really like the change purpose from a flavor standpoint. the sword has a lot of other fiend-specific abilities (magic circle, dispel good and evil) which seems hard to reflavor, and i like the history. 
     
     i think it makes more sense to make the base level features strong enough for it to be an appropriate legendary item, but leave the fiend specific stuff alone
@@ -36,7 +30,8 @@
     
     The heartroot awakens something inside the sword, a magic essence that was originally born to fight against fiends. But now that it is awake, it is learning to control its abilities, and redirect and grow from its original purpose.
 [2025-10-13 02:12 PM] Deciusmus: It only works if it is a sentient weapon, but I was thinking of it as literally the weapon is learning how to manipulate and change its magical essence to focus on things beyond what it was created for
-[2025-10-13 02:13 PM] Deciusmus: but mechanically, a raw always on +2d8 is probably mostly better
+*[Editorial note: Cut 1 message about individual weapon damage optimization.]*
+
 [2025-10-13 02:14 PM] rsulfuratus: yeah, i see that. i am convinced. just thinking about how to connect to Taelgarian metaphysics as the default list of possible targets is a little bit of a mismash from a metaphysical point of view in-world
 [2025-10-13 02:15 PM] Deciusmus: right that is why I was thinking maybe focused on planes. Of course, the key thing is that it works with elementals, otherwise a bit dull given I will probably never actually use it.
 [2025-10-13 02:17 PM] rsulfuratus: yeah, i think there is a way to thread the needle

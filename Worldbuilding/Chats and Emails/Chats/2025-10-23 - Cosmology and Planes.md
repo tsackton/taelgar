@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-10-23 - Cosmology and Planes
 
 [2025-10-23 11:53 AM] rsulfuratus: Narëngril, an elvish sword, was originally enchanted and bound with strands of energy from the Nine Hells and the Abyss, allowing it to seek and destroy creatures made of the essence of those planes, and protect its wielder from their dangers. 
@@ -23,49 +26,14 @@
 [2025-10-23 11:58 AM] rsulfuratus: the only thing i might change is i'm not sure the damage type should be radiant for the non-fiend planes
 [2025-10-23 12:00 PM] rsulfuratus: also it would extend to other "non-divine" spiritual realms, but these are the only ones that i've made up so far. would only be relevant for (a) additional level 20 one shots with these characters after Frankar, and (b) to support delwath's potential post-game life roaming other planes
 [2025-10-23 12:01 PM] rsulfuratus: (and actually i think arborea should be 1d8+mod used to attack, not just 1d8 for temp hp)
-[2025-10-23 12:03 PM] rsulfuratus: (might need to add charges or limit to 1/turn to the mechanus one if it turns out to be too strong, i didn't do the math but my intuition is giving up the extra radiant damage is a reasonable trade)
-[2025-10-23 12:17 PM] Deciusmus: So the base sword is +1 / +2d8 radiant damage.
-    
-    so it does now 4d8 bonus damage against fiends/demons
-[2025-10-23 12:17 PM] Deciusmus: ?
+*[Editorial note: Cut 3 messages about individual character weapon balance and combat optimization.]*
+
 [2025-10-23 12:18 PM] Deciusmus: I like the idea of changing damage type
-[2025-10-23 12:23 PM] Deciusmus: I bet the forgo a roll / get a 10 is mostly actually worthwhile mathematically for a fairly narrow range of enemies (i.e. AC ~19 - 22 or something). AC >` 22 pointless as it is auto-miss, AC below about 17 probably not worth the loss of damage, although the math could be done.
-    
-    But it *feels* particularly fun for the case where an enemy is relatively hard to hit, and where a smite would be critically useful
-[2025-10-23 12:23 PM] Deciusmus: because it becomes a guaranteed smite
-[2025-10-23 12:25 PM] Deciusmus: so I think in practice the 1/turn limit doesn't make much difference as realistically (especially with crits on 19/20) the main time I'd use it is when hitting is important for some reason, and most often it would probably be on my 3rd attack.
-    
-    So i.e. if I really want to smite the typical thing would be roll - roll - if both misses - use mechanus to get in the smite.
-    
-    Actually that is nice because it gives you a backup if the first two are misses, as long as the AC is 22 or under
-[2025-10-23 12:25 PM] Deciusmus: So anyway, I think it seems quite fun and I think in practice I'd basically never use it more than 1/turn anyway, so I'm not sure the limit is meaningful
-[2025-10-23 12:26 PM] Deciusmus: Arborea feels a little bit weak as written (1d8 temp HP isn't that good) but that's ok, as Mechanus is fairly strong as written
-[2025-10-23 12:27 PM] Deciusmus: And I expect the default arrangement would be Mechanus + Arborea, then swapping out Arborea for whatever planar thing we anticipate fighting
-[2025-10-23 12:30 PM] Deciusmus: It will probably never come up, but it might be nice to say that the planar energy swap is  1 min ritual, that can be done once per long rest, rather than after a long rest.
-    
-    If Delwath had had this power when we were on the circular island, for example, I'm not sure we knew before a long rest that we would be fighting a devil, and it feels a little unnecessary to make "knowing who you are going to fight" so valuable.
-    
-    But realistically, in the limbo arc it is obviously limbo, and in some future frankar arc, I assume we would know enough to pick sensibly.
-[2025-10-23 12:30 PM] Deciusmus: An alternative for Aborea could be that an ally or yourself can expend a Hit Die to heal
-[2025-10-23 01:46 PM] rsulfuratus: the arborea one is on each hit, not once a turn, so it can mitigate a lot of damage, though it is weakened by having to spread it out so it does less if an enemy is focus firing one person
-[2025-10-23 01:47 PM] Deciusmus: well, but temp hp don't stack
-[2025-10-23 01:47 PM] Deciusmus: again, not complaining, I like the flavor and all of the other stuff
-[2025-10-23 01:47 PM] rsulfuratus: it is like heavy armor master. reducing damage by a small amount each turn is very strong mechanically but might be a little annoying to track
-[2025-10-23 01:48 PM] rsulfuratus: but yes you have to spread it out so it reduces everybody's damage a bit instead of one person's damage a lot
-[2025-10-23 01:48 PM] Deciusmus: right, I guess in practice if Delwath is in tight combat with an enemy, effectivitely reducing damage by d8/turn is fairly useful
-[2025-10-23 01:48 PM] rsulfuratus: right i thought 1d8 was too weak by itself so made it 1d8+ability mod
-[2025-10-23 01:49 PM] Deciusmus: ah, that is a bigger boost
-[2025-10-23 01:49 PM] Deciusmus: I missed that
-[2025-10-23 01:49 PM] Deciusmus: 1d8+5 is a lot stronger
-[2025-10-23 01:49 PM] rsulfuratus: i think the 1 minute ritual, once per long rest is fine
-[2025-10-23 01:49 PM] rsulfuratus: the point isn't to make it so you can't use the cool abilities when appropraite
-[2025-10-23 01:50 PM] Deciusmus: In practice, I think Delwath would do mechanus and limbo for pretty much the whole nantucket arc
-[2025-10-23 01:50 PM] Deciusmus: so the arborea thing isn't super relevant
-[2025-10-23 01:50 PM] rsulfuratus: right. the mechanus thing really depends on enemy AC. i played around a bit with the math and your intiution is basically right
-[2025-10-23 01:51 PM] rsulfuratus: it is strongest at AC 22 when it is functionally +3 damage per round, but in practice stronger if you use it guarantee a crit
+*[Editorial note: Cut 24 messages about individual character weapon balance and combat optimization.]*
+
 [2025-10-23 01:51 PM] Deciusmus: I do think the flavor is really cool, and much better than my idea of just expanding the magic circle stuff
-[2025-10-23 01:53 PM] rsulfuratus: i'm going to try to write it up all in the magic item description on d&d beyond, even though it won't really work to actually track the mechanical effects
-[2025-10-23 01:54 PM] rsulfuratus: will also fiddle with damage types.
+*[Editorial note: Cut 2 messages about item write-up and implementation logistics.]*
+
 [2025-10-23 01:57 PM] Deciusmus: Having the damage type depend on the selected plane is a nice feature, although it does boost a bit, as preseumably it gives Delwath 2 damage types to choose from.
     
     You could imagine something like:
@@ -83,9 +51,4 @@
 [2025-10-23 01:59 PM] Deciusmus: But there isn't really a good answer for that, right? I'm not sure there is a clear damage type that shouts "anti-limbo" or "anti-arborea" (maybe necrotic for aborea)
 [2025-10-23 02:00 PM] rsulfuratus: force is pretty anti-limbo imo. because arborea and mechanus give you things to do instead of the extra damage, they might not change the default damage thing
 [2025-10-23 02:02 PM] rsulfuratus: the trickiest one is pandemonium
-[2025-10-23 02:21 PM] Deciusmus: Force is pretty much the best damage type, so if it was force for Limbo you could ignore the rest as actually I would never use anything else as long as attuned to limbo
-[2025-10-23 02:25 PM] rsulfuratus: https://www.dndbeyond.com/magic-items/5346819-narengril
-[2025-10-23 08:12 PM] Deciusmus: I'm just in obsidian, what other docs should we be reading other than the two philosophers guild one
-[2025-10-23 08:52 PM] rsulfuratus: everything is linked from the Session Notes - Interlude (Preparations for LImbo)
-[2025-10-23 08:52 PM] Deciusmus: yeah I found it
-[2025-10-23 08:52 PM] rsulfuratus: figured
+*[Editorial note: Cut 6 messages about individual damage optimization, item sharing, and session preparation note-finding.]*

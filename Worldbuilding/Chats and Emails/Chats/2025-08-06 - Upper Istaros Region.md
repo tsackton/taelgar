@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-08-06 - Upper Istaros Region
 
 [2025-08-06 08:58 AM] rsulfuratus: trying to work out a bit of plaguelands history. this is say ~1250-1350ish, before Domain of Avatus grows. 
@@ -18,7 +21,9 @@
     do you have anything in mind for what might exist in the green ?? area before Avatus?
     this sets up Aurbez plateau  especially as having been mostly unsettled prior to the great war - this is hobgoblin territory almost entirely from fall of Drankor to defeat of Cha'mutte; does that work with the vibe of Aurbez in 1680, 1720?
 [2025-08-06 09:06 AM] rsulfuratus: an alternate positioning puts hobgoblins and avatus mostly east of the plateau, pushing more agains the western border of Istabor, and leaves space for some isolated humans perhaps living with dwarves/stoneborn help on the plateau
-[2025-08-06 09:14 AM] rsulfuratus: (also pushed in flight revisiosn to upper istaros region page)
+
+*[Editorial note: Cut 1 message about sharing note revisions.]*
+
 [2025-08-06 10:17 AM] Deciusmus: A few thoughts/notes...
     
     (a) My thinking re: Maseau has been entirely post-Atavaus, basically on the assumption that whatever was there before was radically transformed by the dominion of Atavus and therefore not relevant to later Sembaran history.

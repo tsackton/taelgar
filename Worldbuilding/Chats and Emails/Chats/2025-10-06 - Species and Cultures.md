@@ -1,25 +1,10 @@
+---
+tags: [status/check/ai]
+---
 # 2025-10-06 - Species and Cultures
 
-[2025-10-06 03:18 PM] Deciusmus: A few random thoughts....
+*[Editorial note: Cut 10 messages about individual character equipment optimization and spell rules.]*
 
-Delwath's biggest mechanical weakness is relatively crappy saves and not much to do about failed saves. He has other weaknesses (sword damage only so-so, not great speed) but has lots of ways to compensate for that (smite/+xdx spells and dim door/scatter).
-
-From an "existing items" perspective, the biggest downsides are:
-a) the shield is a very cool item, but it is a grab bag of a bunch of weak abilities, and as we've leveled up, the weak abilities often don't really feel worth using
-b) the sword is mechanically somewhat weak, although Delwath has lots of ways of boosting damage so it doesn't need to be strong for effectiveness
-
-But A + B together kinda make it feel like Delwath doesn't have an awesome iconic item.
-
-I have no particular ideas on the best way to use the heartroot boost to address any of this at the moment, but thought I'd share.
-[2025-10-06 08:52 PM] Deciusmus: Question: Can Arcane Eye be cast on the other side of a door or similar? It seems unclear to me from the rules, i.e. Clairvoyance has the same words as Arcane Eye ("Create a sensor within range")
-[2025-10-06 08:52 PM] Deciusmus: I would swap ghostly gaze for Arcane Eye as it is more useful but not if I can't cast it on the other side of a door
-[2025-10-06 08:57 PM] rsulfuratus: still have to have a line of effect so you can't place it behind total cover, but otherwise you don't need to be able to see the location
-[2025-10-06 08:57 PM] Deciusmus: well, but does that mean you can't cast clairvoyance inside a tower?
-[2025-10-06 08:58 PM] Deciusmus: I'm not totally sure that the right interpretation of the rules is you can't cast a spell inside a room. I think it is you can't target a creature
-[2025-10-06 09:00 PM] rsulfuratus: yeah i think you are right. you aren't targeting anythign with either arcane eye or clairvoyance, you are creating a sensor
-[2025-10-06 09:01 PM] Deciusmus: Once you cast it inside the room, it can't move somewhere else unless it can get through the wall. But I think the initial cast can be anywhere
-[2025-10-06 09:01 PM] rsulfuratus: within 30 feet but yes
-[2025-10-06 09:01 PM] Deciusmus: yes
 [2025-10-06 09:58 PM] Deciusmus: this all reminds me that I could use exact dates for the ash storm thing, btw
 [2025-10-06 11:33 PM] rsulfuratus: - after Avatus defeat, some isolated hobgoblin groups establish in this area, generally harried from the west by dwarves and the east by Isinguese, but generally find a few isolated places on the plateau and the forests below to survive - neither dwarves not Isinguese are actively at war. this is basically a rump of Avatus, which comes to be ruled by [[Revaka]]. 
     - lizardfolk return to the Aursen marshes in this time as well, but very lightly settled. there are much more extensive lizardfolk settlements east of Isingue

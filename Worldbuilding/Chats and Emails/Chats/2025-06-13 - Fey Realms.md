@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-06-13 - Fey Realms
 
 [2025-06-13 10:41 AM] rsulfuratus: guessing you are too busy at work and with trip prep to think about taelgar much, but in case not: i am working on the next adventure for my addermarch campaign, and it is likely to impinge on the feywild a bit, which is leading me to finally try to anchor this in time. 
@@ -11,7 +14,9 @@
     do you have any opinions?
 [2025-06-13 10:53 AM] Deciusmus: I actually kinda like contemporaneous
 [2025-06-13 10:59 AM] rsulfuratus: i kind of do too, but it puts a little more pressure on both of us to keep game notes updated was my only hesitation...
-[2025-06-13 10:59 AM] Deciusmus: have a meeting but more thoughts in a bit
+
+*[Editorial note: Cut 1 message about meeting logistics.]*
+
 [2025-06-13 11:26 AM] rsulfuratus: on a related topic, here is my feywild map. 
     
     (1) Twilight's Grace
@@ -44,9 +49,9 @@
 [2025-06-13 12:23 PM] rsulfuratus: the only complication is that Nathaniel's backstory does tie to some of the minor fey realms in #2
 [2025-06-13 12:23 PM] rsulfuratus: but that is likely more of a worldbuilding thing to plan, and less something that is likely to be reshaped in play
 [2025-06-13 12:27 PM] rsulfuratus: i am currently writing the next addermarch adventure which is going to involve a minor fey incursion, so i may try to work out some of the details of #2 a bit
-[2025-06-13 12:27 PM] rsulfuratus: i have meetings from 1-3 but otherwise a pretty light day
-[2025-06-13 12:27 PM] Deciusmus: I'm pretty swamped between now and Africa
-[2025-06-13 12:28 PM] rsulfuratus: yeah i figured
+
+*[Editorial note: Cut 3 messages about work and travel logistics.]*
+
 [2025-06-13 12:28 PM] Deciusmus: but I don't have any real notions about what is in #2
 [2025-06-13 12:28 PM] Deciusmus: I haven't introduced anything other than a few hints about the "minor lords" type "buffer zone"
 [2025-06-13 12:28 PM] rsulfuratus: the main vibe i want to maintain is that addermarch feels very distinct from tyrwingha. while tyrwingha is protected by ethlenn, addermarch is explicitly contested, so you never know if the fey you encounter is "good" or "bad", using those terms very loosely

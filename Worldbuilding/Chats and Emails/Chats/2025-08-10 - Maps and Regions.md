@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-08-10 - Maps and Regions
 
 [2025-08-10 11:57 AM] rsulfuratus: okay, did a little map work this morning. here are three maps - a base map, with the world map overlay, and with regions
@@ -65,5 +68,5 @@ As compared to 3a, north of the Aursen (which might not be trivial to cross, so 
 [2025-08-10 01:41 PM] rsulfuratus: as is the douren for that matter, so 3b probably sticks to the northwestern banks of the Douren
 [2025-08-10 01:42 PM] rsulfuratus: the masance is much easier to cross as it is shallower and slower, it is just prone to flood and shifting sands so where you cross changes from year to year
 [2025-08-10 01:43 PM] Deciusmus: Whereas Masance might be wider and rockier and quiet easy to cross in the fall, but raging in the spring floods
-[2025-08-10 08:30 PM] rsulfuratus: pushed some stuff. not totally settled yet but have to actually spend some time writing the adventure so...i think i captured the main dynamics though
-[2025-08-10 08:30 PM] Deciusmus: just taking a look now
+
+*[Editorial note: Cut 2 messages about sharing notes and preparation logistics.]*

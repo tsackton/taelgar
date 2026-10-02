@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-10-21 - Fey Realms
 
 [2025-10-21 07:09 AM] Deciusmus: I dunno if I will have time for it this week but the other thing I would like to do is try to finish making up sembaran holidays.
@@ -60,7 +63,8 @@ Plus there is probably at least one celebrating the survival of drankor after th
 [2025-10-21 02:28 PM] Deciusmus: Right yes. That makes sense
 [2025-10-21 02:29 PM] rsulfuratus: in Chardon things might be a little more organized given the imperial state influence on the church, but even so there are likely apporian miracle holidays not celebrated in chardon, and vice versa (though some "Imperial" miracle holidays do likely spread a little beyond their natural bounds)
 [2025-10-21 02:30 PM] rsulfuratus: i think from a game perspective it makes sense to develop ~7 major / universal holidays and then just drop in a variety of miracle-remembrance holidays whereever useful. e.g. you'd focus on the ones celebrated in the cleeanseau region w/o needing to make clear decisions about the reach of each
-[2025-10-21 02:31 PM] rsulfuratus: (btw, the note "Research about Limbo and the Plaguelands" has some stuff that might be useful to you if you want to do a war of the [[War of the Ashen Horde|ashen hoard]] mini-arc in your game)
+*[Editorial note: Cut 1 message about source sharing and note-finding.]*
+
 [2025-10-21 02:37 PM] Deciusmus: Right. On the # of holidays, I think that is perfect. If we have 4 really good ideas for ritual holidays, I don't think 7 would be bad; and 5 would also be ok if we only have 3 ideas. But basically 5-7 ritual holidays + 1 universal holiday of thanksgiving are core to Mos Numena (and if we ever made up a "hkar derived archetype pantheon" that isn't mos numena, that thanksgiving holiday would be shared.
 [2025-10-21 02:40 PM] Deciusmus: Then what about this as an idea?
 
@@ -90,7 +94,8 @@ Apolloyon wasn't just trying to disrupt the memory of Hkar, he was trying to bre
 [2025-10-21 02:53 PM] Deciusmus: right i like that
 [2025-10-21 02:54 PM] Deciusmus: I'm reading your note on limbo, the ferrystone connection is pretty convienent if I want to do something in my game 🙂
 [2025-10-21 02:54 PM] Deciusmus: the pcs are great friends of the ferrystones
-[2025-10-21 02:54 PM] rsulfuratus: yeah i was looking at dwarven clans in obisidan
+*[Editorial note: Cut 1 message about vault lookup logistics.]*
+
 [2025-10-21 02:55 PM] rsulfuratus: of course he predicted the [[War of the Ashen Horde]] couldn't happen when it did (because of course it was a downstream consequence of rai and the monks failure), so it is less convenient than the reverse in some ways
 [2025-10-21 02:56 PM] rsulfuratus: although if you wanted to send the pcs to aurbez for the war it could always be something like he is horrified by his failure and the surpise nature of the war when he was certain his theories said this year was safe or something like that
 [2025-10-21 02:57 PM] Deciusmus: yeah, I actually dont want to send them all the way to Aurbez, it is more on the outskirts. My idea was some secondary (small) outbreak in southern Maseau (which in part could be a reason no one came to the aid of Aurbez)
@@ -189,7 +194,8 @@ Apolloyon wasn't just trying to disrupt the memory of Hkar, he was trying to bre
 [2025-10-21 03:51 PM] rsulfuratus: i think my sense of the big picture vibe - not sure if this is correct - is basically that pre-downfall, it generally fell to the elves and other "elder folk" to warn humans about the fey and keep them safe and negotiate and all that. so it might be that people settling in addermarch pre-downfall aren't settling in scary dark forest, they are settling in the outskirts of elven lands. more edge of mirkwood than old forest.
 [2025-10-21 03:51 PM] rsulfuratus: but then after the downfall, things get worse
 [2025-10-21 03:51 PM] rsulfuratus: darkness spreads from the darkwood south and east, etc
-[2025-10-21 03:52 PM] Deciusmus: right. there are a lot of notes in the "Historical Framework" document
+*[Editorial note: Cut 1 message about source sharing and note-finding.]*
+
 [2025-10-21 03:53 PM] rsulfuratus: i think there are a bunch of possibilities and i'm not sure it is necessary to commit to any for the purpose of developing tyrwinghan religion it might be enough to establish that tyrwingha predates the downfall, was protected by ethlenn from otherwise impersonal/alien/old god/old forest fey entity, and is from a cultural strand that sees itself as distinct from sembara/zimka/tollen and "have lived on this land forever"
 [2025-10-21 03:54 PM] Deciusmus: yes
 [2025-10-21 03:54 PM] Deciusmus: agreed

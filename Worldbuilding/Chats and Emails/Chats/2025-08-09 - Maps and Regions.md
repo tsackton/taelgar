@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-08-09 - Maps and Regions
 
 [2025-08-09 11:15 AM] rsulfuratus: comments? aurbez vibe outline
@@ -75,7 +78,9 @@
         
     - `**`Western Mining Camps**  
         In the American West, mining camps ranged from temporary tent cities to substantial towns with saloons, general stores, and blacksmiths. Economic booms followed strikes in gold, silver, or copper, drawing seasonal or itinerant workers. When deposits were exhausted, camps often emptied within weeks, leaving ghost towns or repurposed settlements.
-[2025-08-09 11:16 AM] rsulfuratus: (also pushed to aurbez.md in worldbuilding/staging if easier to read there)
+
+*[Editorial note: Cut 1 message about sharing notes.]*
+
 [2025-08-09 01:29 PM] Deciusmus: I like it in general. Might try to add a few thoughts later today, but we have a block party this afternoon so it won't be for a while
 [2025-08-09 01:32 PM] Deciusmus: One thought is that maybe the rangers should be a little less central? 
     
@@ -90,7 +95,9 @@
 [2025-08-09 02:31 PM] Deciusmus: is this the right visual look?
 ![[Worldbuilding/Chats and Emails/_assets/discord/raw-FCCC1.png]]
 [2025-08-09 02:31 PM] Deciusmus: it seems fairly close to me to how I imagine the Aurbez plateau looking
-[2025-08-09 02:33 PM] rsulfuratus: We are heading to shrewsbury to do stuff with Kate’s family so only sporadic access
+
+*[Editorial note: Cut 1 message about family and travel logistics.]*
+
 [2025-08-09 02:33 PM] rsulfuratus: Yeah that look seems right
 [2025-08-09 02:34 PM] rsulfuratus: I think your organizations are spot on. Some of the “rangers” in the previous text could be alliance militias
 [2025-08-09 02:35 PM] rsulfuratus: Yeah this is the basic idea
@@ -108,4 +115,5 @@
     
     5 - kinda empty lands, although slowly being claimed by settlers from both north (Andonne) and south-west (Aurbez)
 [2025-08-09 02:45 PM] Deciusmus: The brown arrow is a place of gradually climbing elevation but probably not great for argiculture so less settlement?
-[2025-08-09 02:47 PM] Deciusmus: (We are going to our block party shortly so probably no responses til tonight)
+
+*[Editorial note: Cut 1 message about personal scheduling.]*

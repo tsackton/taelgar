@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2025-08-07 - Sembara History
 
 [2025-08-07 06:00 PM] rsulfuratus: poking around at aurbez / andonne notes. am i correct in my sense that other than some brief notes about places along the road, the only actual settlement made up in aurbez and the andonne is Laicon and Ausson's Crossing? 
@@ -52,7 +55,9 @@
 [2025-08-07 06:43 PM] Deciusmus: So Alliance caravans are just a service provided to the Aurbeze community for a fee
 [2025-08-07 06:45 PM] Deciusmus: I sorta like the idea of the Refounded Alliance of Aurbez being something almost more like a guild than a government, and perhaps even membership is basically optionally. Not all homesteads in the Aurbez plateau are actually members of the Alliance, but most are
 [2025-08-07 06:45 PM] Deciusmus: and in the background there is some kind of secret cult of Rangers, trying to maintain safety for their own purposes
-[2025-08-07 06:45 PM] Deciusmus: I'm going to cook dinner but I'll see responses now and then
+
+*[Editorial note: Cut 1 message about dinner logistics.]*
+
 [2025-08-07 06:46 PM] rsulfuratus: I had an almost completely opposite take, it is basically a mutual aid society. Almost like revolutionary war America
 [2025-08-07 06:46 PM] rsulfuratus: I guess the fundamental question is (a) how much traffic really is there, and (b) how safe is it.
 [2025-08-07 06:47 PM] rsulfuratus: I think the description in the note works for 1680/ but in 1750 there is a lot more traffic and trade
