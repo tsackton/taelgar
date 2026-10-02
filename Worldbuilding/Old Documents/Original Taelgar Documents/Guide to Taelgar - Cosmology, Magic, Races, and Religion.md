@@ -4,7 +4,6 @@ Working Document – Cosmology, Magic, Races, and Religion
 
 Version 1.0
 
-[please update version when editing]
 
 Updates: some info on races in more detail, incorporate of comments from emails --> version 1.1 will include detail on all PC races (Ogre, Dwarves, Lizardmen, Halflings, Kenku) as well as Hobgoblins and Liontaurs, who, while not typically PC races, are within the power limits of typical PCs.  Version 1.1 should also answer most of the questions about cosmology or metaphysics.
 
