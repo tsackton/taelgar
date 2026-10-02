@@ -1,0 +1,128 @@
+---
+tags: [status/check/ai]
+---
+# The World of Taelgar (208 F.A.)
+
+Note: Any name placed in square brackets [] needs to be replaced. There may be other names that should be replaced, but are not in square brackets.
+
+## Organization / Table of Contents
+
+- A. Cosmology
+
+- 1. The Plane of Taelgar
+
+- i. Planets
+
+- ii. Constellations
+
+- iii. Astrology
+
+- 2. The Plane of Nothingness/Purity
+
+- 3. The Plane of the Deity
+
+- 4. The Plane of Magic
+
+- 5. The Plane of Thought
+
+- i. The Dreamworld
+
+- ii. The Plane of Consciousness
+
+- 6. Pocket dimensions and other oddities
+
+## Overview / Player Introduction
+
+Taelgar is a large, diverse world, high in magic and fantasy. There are many races, and, although humans are the most prominent and populous of the races, they are by no means the only powerful race. Magic is common in certain areas; however, Taelgar is a normal mana world, and only those with the gift of Magery can cast magic spells. The known world spans many hundreds of miles. Beyond it's borders, strange mysteries lurk. To the west, the Endless Sea prevents travel, [to the east, nomadic tribes lurk among the ruins of a long gone civilization,] and to the south, mysterious cultures are at once beckoning and threatening. The history of Taelgar is a long one: over ten thousand years since the beginning of time. The Third Age has ended in upheaval and chaos. Order has only recently returned to the land.
+
+## Cosmology
+
+Basic Overview: Taelgar is at the center of a multiverse consisting of: the realm of Taelgar itself, with associated lunar, solar, planetary, and stellar spheres; the realm of the Deity, which fades from “pure” good at the very top to “pure” evil at the very bottom; the realm of magic; the realm of thought, which includes the plane of consciousness, the dreamworld, and the astral plane; and the realm of nothingness. The realm of the Deity is essentially inaccessible to living mortals of Taelgar. The realm of magic makes occasional contact points with the realm of Taelgar, and is in very special cases directly accessible. The realm of thought makes direct contact with individuals in Taelgar, and can be accessed with special and rare methods. The realm of nothingness can be sought from either the realm of magic or the realm of consciousness.
+
+## The Plane of Taelgar
+
+The physical world of Taelgar occupies the center of a spherical dimension consisting of the sun, the moon, the planets, and the stars, arranged in concentric circles around the world of Taelgar. Taelgar itself is a round world, approximately earth-sized. Taelgar exists in the terrestrial realm, where normal Newtonian physics apply. Beyond the upper atmosphere of Taelgar, in the boundary region between air and aether, are the Sun and the Moon. The Moon, or Inner Guardian, occupies the region bordering the atmosphere, on the inner edge of the boundary region. It goes through phases each month. It represents and reflects the cooling, calming essence of air, coalesced to a sphere in the outermost reaches of the atmosphere. When the Moon is full, astrological influences from the outer spheres are dampened, but when it is new, astrological influences can come through in full force. The Moon is a particularly auspicious and important sign for beginnings and endings, for calm, relaxation, peace, and also for protection against the opposites of those things: anger, rashness, agitation, war, violence. The Sun occupies the region bordering the aether, on the outer edge of the boundary region. The Sun represents and reflects the burning, fiery energy of the aether. The Sun does not have the same guardian properties as the moon, although it is worth noting that astrological effects are slightly more noticeable at night, and hugely more noticeable during a solar eclipse. The Sun is a particularly auspicious and important sign for momentous decisions, for vigor, power, royalty, wealth, clarity of thought and purpose, revelation, epiphany, and also for protection against the opposites of those things: indecisiveness, weakness, sickness, poverty, confusion, ignorance.
+
+Beyond the [boundary realm], in the aethereal realm itself, are five celestial spheres, one representing each of the true races with a firstborn (halflings, lizardmen, dwarves, ogres, elves). Closest to the earth, representing the halflings, is [Mercury], The Wanderer. This planet is characterized both by its relative small size and by its erratic and hard to predict motion. It is particularly auspicious for journeys (especially sea voyages), luck, partings, safe travel, money, business transactions. Beyond [Mercury] is [Venus], The Healer, representing the lizardmen. It is particularly auspicious for healing, health, long life, births, stamina, unity, wisdom. Beyond [Venus] is [Mars], The Smith, representing the dwarves. This planet is particular auspicious for crafts, mining, building, and new things, but also discipline, honor, dignity, companionship, loyalty. Beyond [Mars] is [Jupiter], The Warrior, representing the ogre. This planet is particularly auspicious for battles, honor, making a decision to fight or not, compromise, diplomacy, and also wisdom, nobility, chivalry, fairness. Finally, the last planet before the celestial realm is [Saturn], The Lord (sometimes considered the Lord-Scholar or the Mage), represents the elves. This planet represents knowledge, nobility (but also arrogance), anything distant or ancient, magic.
+
+Beyond the aethereal realm is the celestial realm itself, which has two spheres: the fixed stars and the changeable stars. The sphere of the fixed stars contains the ecliptic (band of stars through which the planets pass – Zodiac constellations) and other constellations that never change and have been around since time began. These stars are only astrologically significant in that they mark where the planets are at any one time. The sphere of the changeable stars, however, contains the constellations of great heroes like Beryl, sometimes Dragons, or other mythical figures. These constellations have some sort of “consciousness” in a vague sense (at least in that you could find them somewhere, hidden away in the realm of consciousness), and can influence astrological properties in interesting ways.
+
+Quick summary: terrestrial realm, contains Taelgar; [boundary] realm, contains Sun and Moon; aethereal realm, contains planets; celestial realm, contains fixed and changeable stars.
+
+Astrology is primarily important to magic, although it can influence other aspects of life in ways that are not completely understood. Birth signs are not particularly important in determining fates, and astrology has very little predictive power in that sense. Nevertheless, in certain areas at certain times using astrological charts for predictive purposes can get very popular, primarily among nobles and aristocrats who are not magicians. The Sun and the Moon have the most powerful astrological effects (particularly the Moon), but the planets also do influence things, and can be heavily influenced by the Moon. In any case, astrology works in three ways: each planet has certain traits it can impart to things done under its influence, each planet has certain things that is particularly capable of influencing, and each planet has certain correspondences which can enhance or depress its effects or the effect of the thing in correspondence to the planet. An example of each one follows:
+
+- Ex 1: A mage wants to create a particularly potent charm to protect a caravan of his goods and money going South to trade. When [Mercury] is in ascendance, particularly if it is in conjunction with [Saturn], or if the Moon is new, he will be more likely to be able to make an especially powerful charm.
+
+- Ex 2: A king wants to conceive an heir at a particularly auspicious time. When [Jupiter] is in ascendance, or when [Saturn] tempered by [Venus] is in ascendance would be particularly good times. Also, making sure the Sun is in a good house could be important.
+
+- Ex 3: A mage is shaping some particularly fine amethyst for use as a powerstone. Because of the correspondence between amethyst and [Saturn], the mage will be able to create a better item if he works when [Saturn] is in ascendance.
+
+Questions regarding the realm of Taelgar: How much astrology is too much? Should it solely affect magic, and more specifically ritual magic? Should certain parts of astrology function much stronger than others? What should the effect of astrology on non-humans be? How should firstborn physically relate to planets, or should they? How much detail needs to be made up (i.e., how many correspondences should be known for each planet, how many traits, how many situations in which they matter)? Anything left out?
+
+## The Realm of Nothingness
+
+The Realm of Nothingness is the only space left over from the previous multiverse, from which dragons and Araht/Melchior came. In mythology it is typically known as the void in which the gods awoke. It is a that is both impermanent and constant – literally, it is nothing, and thus has no permanent form to disappear. It is accessible from Taelgar by mystical means, but it tends to destroy the minds of those who access it unless they are highly prepared. Mystics that can reach this realm and survive, however, are able to develop profound insights due to the nature of the realm. Cosmologically, it is crucially important as a source and ground of the Realm of the Deity, out of which everything else flows. So in a sense, it is accurate to think of the realm of nothingness as the foundation on which the multiverse rests.
+
+## The Realm of the Deity
+
+The Realm of the Deity is the domain of Araht/Melchior. In the mythology of many races, it is imagined as two distinct realms, “heaven” and “hell,” but in reality, since Araht/Melchior are one, there is no clear distinction. This realm is a giant sphere that encompassed the entire multiverse of Taelgar. At the northern pole is the pure embodiment of Araht, and at the southern pole is the pure embodiment of Melchior. Within the realm in between, various minor embodiments of Araht/Melchior dwell. The entire realm is a confusing tangle and sensory overload that is in some sense the exact opposite of the realm of nothingness, but would still drive normal mortals insane. It ranges from the most wonderful vision of heaven, to the most horrifying vision of hell, through everything in between. Inaccessible to normal mortals, it is thought that this is where elves go when they die, and some unique individuals have been known to make there way into this realm.
+
+## The Realm of Magic
+
+The realm of magic is the source of all weave-based magic, which includes True Magic, normal Arcane Magic, Gemstone Magic, and Runic Magic. This realm is interleaved through Taelgar – ley lines and nodes are both manifestations of the realm of magic in Taelgar. Access to the realm of magic is possible for very experienced magicians, but it is very, very dangerous, as the realm of magic is so high mana that very unpredictable things can happen and very strange magical creatures sometimes live there.
+
+## The Realm of Thought
+
+The realm of thought is the source of all thought-based magic, which includes KyrPowers, Halfling, Lizardman, and Ogre racial magic, Gnome prophecy and other powers, and psionics (such as they exist outside of racial magic). There are two particular manifestations that are accessible from Taelgar: the Dreamworld and the Plane of Consciousness.
+
+The Dreamworld is a realm which contains echoes of the present, past, and future blended together. Prophecy, and the ability to sense the past associations of an object are strongly tied to connections to the Dreamworld. The Dreamworld can also, under the influence of a powerful master, be used to send messages, influence dreams, and similar things.
+
+The Plane of Consciousness is a manifestation of the consciousnesses/souls of all beings on Taelgar. (Question about reincarnation: if we like the idea, consciousnesses could be continuous over lifetimes, like karmic streams – thus, only when a being achieved some sort of final release/was transported to another plane would their consciousness vanish.) Telepathy derives from access to the Plane of Consciousness, as do several other similar psionic powers. Access to the Plane of Consciousness can also be used, like the Ogres, for strengthening your own powers, focus, and concentration.
+
+## Mini-Realms, Pocket Dimensions, and Other Oddities
+
+## Ideas to Work On
+
+## Fundamentals
+
+II. Development of physical properties of the universe
+
+-- deal with alchemy
+
+-- think about limitations on technological advance
+
+III. Development of biological properties of the universe
+
+-- heredity
+
+-- evolution
+
+-- germ theory of disease
+
+-- radical biology of different races
+
+IV. Development of metaphysical properties of the universe
+
+-- magical theory
+
+-- question: karmic streams? Yes/no
+
+-- nature of divinity
+
+## Other Things
+
+Religion – how do humans interpret it, organizations, scriptures, monastic practice,
+
+Languages – language groups, movement of human cultures/groups
+
+Textual/Magical Traditions – transmission of knowledge through time; books
+
+War – history of how war was fought, current state of tactics
+
+Intellectual culture – universities, libraries, current state of Chardon academics, previous notable thinkers
+
+History
+
+Current politics
+
+Medicine – medical professions, role of magic, role of clergy, existence of hospitals, etc
