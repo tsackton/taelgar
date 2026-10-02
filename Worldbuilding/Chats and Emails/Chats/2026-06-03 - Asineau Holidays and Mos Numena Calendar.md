@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2026-06-03 - Asineau Holidays and Mos Numena Calendar
 
 [2026-06-03 06:30 PM] Deciusmus: more on holidays... Here is my current list of Asineau holidays...
@@ -199,7 +202,7 @@
 
 [2026-06-03 09:27 PM] rsulfuratus: i like it
 
-[2026-06-03 09:27 PM] Deciusmus: I'm adding this as notes to the mos numena holidays page
+*[Editorial note: Cut 1 message about vault filing.]*
 
 [2026-06-03 09:35 PM] Deciusmus: a few naming ideas...
 

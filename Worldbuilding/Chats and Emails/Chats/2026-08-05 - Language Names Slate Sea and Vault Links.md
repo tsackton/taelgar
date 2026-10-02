@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2026-08-05 - Language Names Slate Sea and Vault Links
 
 [2026-08-05 08:56 AM] Deciusmus: on the topic of naming... any sense of what the right name for these two languages might be?
@@ -21,12 +24,7 @@
 
 [2026-08-05 10:34 AM] rsulfuratus: i'm going to make these changes
 
-[2026-08-05 10:40 AM] rsulfuratus: also btw kong wants to use chatGPT to search taelgar stuff so i pushed my agents.md into the taelgar repo; not sure if this will conflict (if you have your own agents.md)
-
-[2026-08-05 11:33 AM] Deciusmus: I don't tend to use AI to search taelgar stuff, but maybe I'll start more
-
-[2026-08-05 11:34 AM] Deciusmus: my current project is a replacement character manager because I don't like any of the actual ones
-    https://taelgar-character-manager.msackton.workers.dev/
+*[Editorial note: Cut 3 messages about agent setup and character-manager coding.]*
 
 [2026-08-05 11:44 AM] rsulfuratus: another name question. for ~North Bay~, the large sea/bay/gulf northeast of Mawar. will probably invent a Mawaran name at some point but for now just want a simple common name:
 
@@ -70,13 +68,7 @@
 
 [2026-08-05 12:08 PM] Deciusmus: I like Aldamire or Ainoriel
 
-[2026-08-05 03:04 PM] rsulfuratus: i'm having Codex fix a bunch of typos and other minor things (direct links to aliases primarily) that cause a bunch of broken links.
-
-    how do you want to treat wikilinks to uncreated notes in Cleenseau campaign material?
-
-    easy option is create them and just dump blank notes in staging/cleenseau (if you don't want a note or if two notes point to the same person you can clean up)
-
-[2026-08-05 03:04 PM] Deciusmus: yes sounds good
+*[Editorial note: Cut 2 messages about vault link cleanup and staging.]*
 
 [2026-08-05 05:25 PM] rsulfuratus: Maudor Hills or Madour Hills
 

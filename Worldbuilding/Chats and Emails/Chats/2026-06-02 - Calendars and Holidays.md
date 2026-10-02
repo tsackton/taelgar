@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2026-06-02 - Calendars and Holidays
 
 [2026-06-02 07:42 AM] Deciusmus: So my session yesterday finished arc 1 (of 2) for my game -- now we have between 1 and 5 years of peace and quiet, during which I am going to run an email-based "Asineau" events (with a sort of mini-sim-city for growing Asineau in a realistic-ish way).
@@ -59,7 +62,9 @@
     * Nov 4 - 5 (maybe just 1 day). Warlord. Details TBD. Could be swapped out for Wildling or just deleted.
     * Dec 11. Viatela. Wanderer.
     * Dec 29 - 31 Pyravela
-[2026-06-02 06:18 PM] rsulfuratus: just catching up - had a lot of meetings and didn't open discord today though i pushed a few things. responses in a minute
+
+*[Editorial note: Cut 1 message about personal and session logistics.]*
+
 [2026-06-02 06:33 PM] rsulfuratus: a few random thoughts. 
     
     (1) it actually isn't necessarily the case that Apollyon was totally successful in supressing the circular island miracle in Sembara - the Sembaran priesthood was a major locus of resistance to Apollyon, and there is some worldbuilding/brainstorming that suggests the idea that the kernels of Sembara came from the suriving bits of priesthood after the plague. i think it is clear that Apollyon used the crown/magic/scepter in some combination to remove the idea of the circular island from everyone's minds so no one would remember what the holiday was about, but the idea of a specifically Sembaran holiday of thanksgiving that was once the Circular Island miracle and has now been kind of generalized as a thanksgiving holiday kind of appeals to me. 
@@ -71,7 +76,9 @@
 [2026-06-02 06:36 PM] Deciusmus: At leaving it undetermined works just as well, as well
 [2026-06-02 06:37 PM] rsulfuratus: yeah. probably doesn't matter too much
 [2026-06-02 06:38 PM] Deciusmus: There is an appeal to the “hidden remnant of drankorian circular island holiday” though
-[2026-06-02 06:38 PM] rsulfuratus: about to eat dinner but will send a few ideas on the sembaran details in a bit
+
+*[Editorial note: Cut 1 message about personal and session logistics.]*
+
 [2026-06-02 06:38 PM] rsulfuratus: the main thing i guess is distinguishing "sembaran" from "mos numenan"
 [2026-06-02 06:40 PM] Deciusmus: I’m not sure I have a good sense of how different Chardon/mawar /tollen/cymea/Tyrwinghan flavors of mos Numena should be
 [2026-06-02 06:40 PM] Deciusmus: I’m also not sure we need to decide?
@@ -118,7 +125,9 @@
 [2026-06-02 07:25 PM] rsulfuratus: like, Pyravela isn't "the festival of the wyrdling"
 [2026-06-02 07:26 PM] rsulfuratus: similarly, though Viatela/Quintarum are associated, perhaps fairly strongly, with the Wanderer, this isn't really a feast day of the Wanderer. it that both the festival and the Wanderer are associated with the same thing, in some sense
 [2026-06-02 07:27 PM] Deciusmus: Right I was thinking the father/mother holidays would be in the same vein
-[2026-06-02 07:27 PM] Deciusmus: (Cooking dinner more in a bit)
+
+*[Editorial note: Cut 1 message about personal and session logistics.]*
+
 [2026-06-02 07:31 PM] Deciusmus: Basically I had two thoughts..
     
     (A) there probably should be a stronger set of common holidays with Chardon that descend from the drankorian tradition than just 3 at the end of the year
@@ -144,7 +153,9 @@
     - two or three that have been changed in various ways in sembara: the spring/harvest festivals that draw on kestavan seasonal celebrations; circular island thanksgiving; i could also see something associated with the father may have historically had imperial/state vibes, was deeply corrupted by apollyon and was kind of resurrected in sembara (the radiant path, that fought apollyon, was strongly associated with the father)
 [2026-06-02 07:53 PM] rsulfuratus: then i'd make (b) into whatever missing god-oriented "miracle of x" days that are strongly associated with particular deities
 [2026-06-02 07:54 PM] rsulfuratus: i think that gives maybe 5 holdiays that are basically the same across mos numena, and another 2-3 that are probably celebrated more patchily and distinctly but share a common substrata, then another layer of miracle rembrance that is more variable but often strongly associated with particular deities
-[2026-06-02 07:55 PM] Deciusmus: I’m cleaning up and then going for walk with Dana so not much more before D&D
+
+*[Editorial note: Cut 1 message about personal and session logistics.]*
+
 [2026-06-02 07:56 PM] Deciusmus: But I don’t think it is quite right to have lots of miracle remembrance. There are 100s across sembara but only a few in any given place
 [2026-06-02 07:56 PM] Deciusmus: Embry maybe has 4-5 significant ones
 [2026-06-02 07:57 PM] Deciusmus: But it feels odd for say Asineau a town of 300 to have 3 giant significant feast days. There is probably one big one that shapes the village identity and then one or two or three or zero others than are kinda minor
@@ -174,4 +185,5 @@
     (b) a thanksgiving holiday = sembaran (but widely sembaran,  likely also cymean, isingue, etc), originally drankorian miracle, as above, in sept sometime, likely >`1 day but maybe not. could be some other time, likely aligns somewhat with the actual dates of the founding of drankor
     (c) a high summer holiday, originally very civic/imperial, tied to the father, survived in date across mos numena, but potentially very different vibes in chardon vs sembara, likely corrupted by apolloyon in some fashion 
     (d) some random other holiday maybe the Sibyl, maybe night queen, maybe someone else that is shared. perhaps smaller and more personal in some fashion
-[2026-06-02 09:02 PM] Deciusmus: (more later)
+
+*[Editorial note: Cut 1 message about personal and session logistics.]*

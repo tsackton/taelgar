@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2026-07-31 - Fey Portals Miracle Holidays and Names
 
 [2026-07-31 10:21 AM] rsulfuratus: ursk border mountains:
@@ -44,11 +47,7 @@
 
     "High Sun" = Valorus  or Aurelum or Auctorum or Valorum
 
-[2026-07-31 12:10 PM] rsulfuratus: have you pushed your holiday working notes yet?
-
-[2026-07-31 12:25 PM] Deciusmus: Partial in the mos Numena holidays note. Have an update pending but I’m not at my computer right now but will push in 15 min or so
-
-[2026-07-31 12:51 PM] Deciusmus: pushed latest
+*[Editorial note: Cut 3 messages about holiday-note push coordination.]*
 
 %% Off-topic messages omitted. %%
 

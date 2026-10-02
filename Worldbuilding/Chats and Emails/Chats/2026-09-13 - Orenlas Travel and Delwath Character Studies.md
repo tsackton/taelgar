@@ -46,7 +46,7 @@
 [2026-09-13 10:31 AM] Deciusmus: pink area is legit plaguelands, fairly dangerous
     green is the orenlas borders, where the forest starts to protect elves or welcome travels, but it isn't exactly civilization
     blue is orenlas proper
-![[../_assets/discord/image-733404c41972cf4c.png]]
+![[image-733404c41972cf4c.png]]
 
 [2026-09-13 10:32 AM] Deciusmus: does that match your view?
 
@@ -115,11 +115,7 @@
 
 [2026-09-13 10:40 AM] Deciusmus: thanks
 
-[2026-09-13 10:40 AM] Deciusmus: are those in obisidan?
-
-[2026-09-13 10:40 AM] rsulfuratus: yes but in my DM folder, i can push
-
-[2026-09-13 10:40 AM] rsulfuratus: i have some NPC notes too but they are all focused on the story of areheste and learning about apollyon so might not be super useful, but i'll add as comments to the relevant pages
+*[Editorial note: Cut 3 messages about source storage and push coordination.]*
 
 [2026-09-13 10:41 AM] rsulfuratus: btw not to distract from your prep but did you look at the delwath character study images I sent?
 
@@ -135,7 +131,7 @@
 
 [2026-09-13 10:44 AM] Deciusmus: but he wears it pulled back more often than loose
 
-[2026-09-13 10:51 AM] rsulfuratus: pushed orenlas dm stuff
+*[Editorial note: Cut 1 message about source storage and push coordination.]*
 
 [2026-09-13 11:13 AM] rsulfuratus:
 ![[../_assets/discord/exec-624f19bb-5f41-4c39-ab16-428041aea9a9-4c3cbfebc9283c20.png]]

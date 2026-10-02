@@ -1,14 +1,9 @@
+---
+tags: [status/check/ai]
+---
 # 2026-07-26 - Holiday Names and Tentative Geography
 
-[2026-07-26 10:36 AM] rsulfuratus: just an fyi, though happy for comment / feedback:
-
-    i've been going through the large bulk of staging and review notes. there are a large number of unnamed geographic features with notes (`~Names~`).
-
-    i am pushing proposed names for many of them, with `status/check/name`. some, however, don't have enough local context invented to figure out a name, much less anything resembling a note.
-
-    i am largely moving these to `Worldbuilding/Tentative`, which I think is a better place to hold these than staging (which, in my mind, is intended to be empty-able from back-link context)
-
-    i am probably also at some point going to do a review of tentative and add a readme, as well as update notes that link in to things in tentative to always link via alias (e.g. the backlinks from `~Far North Steppe~`) which is a good example of a page that fits well in tentative (it exists but there is so little context invented there isn't even a good way to come up with a satisfying name)
+*[Editorial note: Cut 1 message about vault organization and name-explorer tooling.]*
 
 [2026-07-26 11:07 AM] Deciusmus: I’m planning on getting back to D&D this week. I want to make up the skeleton of the holidays by this weekend as I’m running my next game which is going to be a “year in the life of Asineau”
 
@@ -34,13 +29,7 @@
 
 [2026-07-26 11:18 AM] Deciusmus: I see
 
-[2026-07-26 11:20 AM] rsulfuratus: Anyway more later
-
-[2026-07-26 08:26 PM] rsulfuratus: working on naming, i had Codex make a script to generate a list of every name with inferred language; it's not perfect but it is kind of useful and it is a good tool for AI to browse for naming suggestions.
-
-    i'm half tempted to actually tag this somehow though i'm not sure cluttering frontmatter makes the most sense.
-
-    not something i'm likely to seriously work on in the immediate future but just throwing out the idea
+*[Editorial note: Cut 2 messages about conversation logistics; vault organization and name-explorer tooling.]*
 
 [2026-07-26 08:29 PM] Deciusmus: On holiday names…
 

@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2026-09-18 - Sunward Reach and Addermarch Fey Plans
 
 [2026-09-18 02:47 PM] rsulfuratus: in your feywild adventure in your game, did you ever introduce anyone besides morlaith and serenveil?
@@ -8,25 +11,17 @@
 
 [2026-09-18 03:22 PM] Deciusmus: Sunward Reach
 
-[2026-09-18 03:22 PM] Deciusmus: there is an AI stub page in _Cleenseau/Interludes
+*[Editorial note: Cut 1 message about missing-note coordination and AI-copying commentary.]*
 
 [2026-09-18 03:22 PM] Deciusmus: I didn't use anything other than the name/location
 
-[2026-09-18 03:24 PM] rsulfuratus: no Sunward Reach page in Interludes
-
-[2026-09-18 03:25 PM] Deciusmus: oops I never pushed all the notes I had
-
-[2026-09-18 03:25 PM] Deciusmus: a lot of it is unclear AI brainstorming so not huge value
-
-[2026-09-18 03:25 PM] rsulfuratus: i've mostly stopped copying AI stuff directly, fwiw
+*[Editorial note: Cut 4 messages about missing-note coordination and AI-copying commentary.]*
 
 [2026-09-18 03:25 PM] Deciusmus: Sunward Reach I did introduce on the basis of the stub comment:
 
     "`%%` stub -- fey realm on Ethlenn's border ; highly militarized, used as a major defense against harrow and wend; combat, knights, etc vibe -- not "fey like" in some ways `%%`"
 
-[2026-09-18 03:25 PM] rsulfuratus: kinda pollutes the corpus a bit
-
-[2026-09-18 03:26 PM] Deciusmus: does it matter in random _dm_notes though I guess maybe
+*[Editorial note: Cut 2 messages about missing-note coordination and AI-copying commentary.]*
 
 [2026-09-18 03:26 PM] rsulfuratus: where on Ethlenn's border?
 
@@ -59,7 +54,7 @@
 
 [2026-09-18 03:35 PM] Deciusmus: i also used the fey lords documented in The Borders of Twilight adventure pretty heavily, although with minor tweaks. guardians of the duskmire edge of serenveil
 
-[2026-09-18 03:35 PM] Deciusmus: I probably need to be better about merging random things into the main vault...
+*[Editorial note: Cut 1 message about vault organization.]*
 
 [2026-09-18 03:36 PM] rsulfuratus: i want to steer away from serenveil for the "break in case of emergency" fey as the party already has connections there
 
