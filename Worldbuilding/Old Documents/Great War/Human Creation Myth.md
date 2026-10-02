@@ -1,5 +1,3 @@
-
-
 In the beginning, there was a void (the Center).  Two brothers, Eru and Melkor dwelt there for time uncounted, exploring and growing in power.  Eventually, they discovered a new power, a power of the binding and unbinding of reality.  Drawing from the center of this power (the plane of Magic), they discovered how to create, and destroy.   
 
 Eru, in his eagerness to grow, began to create, and what he made was beautiful.  Melkor saw what his brother was doing, and was jealous of his brother’s creativity.  But when he tried himself, he found that he could create nothing of beauty, being tainted by jealousy for his brother.  In that instant, he decided his brother was a better person than him, and so what could he do but be evil?  All of Eru’s offers of reconciliation fell on deaf ears.   
