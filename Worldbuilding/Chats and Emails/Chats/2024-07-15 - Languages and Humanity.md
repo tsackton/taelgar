@@ -47,7 +47,9 @@
 [2024-07-15 10:57 AM] Deciusmus: Then, after the Riving, when the fey first thought it was useful to communicate with others, they just adopted elvish
 [2024-07-15 10:57 AM] rsulfuratus: ah, sure, okay, that might make more sense
 [2024-07-15 10:57 AM] Deciusmus: which might be, after all, just a simplified form of sylvan anyway
-[2024-07-15 11:03 AM] rsulfuratus: More in a bit, have a meeting now
+
+*[Editorial note: Cut 1 message about meeting logistics.]*
+
 [2024-07-15 11:04 AM] Deciusmus: I basically like the idea of somewhat modelling on ancient egyptian...
     
     1) sylvan is a complex logo-syllabic script with 1000+ glyphs and emotional/magic determiniatives that make it hard to write, as well as a strong culture of "presentation" concerns (i.e. some fey would care how the written page physically looked, since it was developed for art anyway)
@@ -85,9 +87,9 @@
 [2024-07-15 12:23 PM] Deciusmus: Especially if the sylvan script is magical and "Wants" to be read
 [2024-07-15 12:24 PM] Deciusmus: The fey just write in sylvan. Who cares after all? They can do it easily, and the elves and humans seem to be able to read it, and if some humans who read a fey love poem actually fall in love a little bit, well, good, that's the point of writing a love poem
 [2024-07-15 12:24 PM] Deciusmus: It's the humans/elves who start writing sylvan in other alphabets, to both be able to write it and to avoid the dangers of reading sylvan itself
-[2024-07-15 12:25 PM] rsulfuratus: in a meeting now
-[2024-07-15 12:25 PM] rsulfuratus: one sec
-[2024-07-15 12:25 PM] Deciusmus: take your time, I gotta go fix a few bugs anyway
+
+*[Editorial note: Cut 3 messages about meetings and coding work updates.]*
+
 [2024-07-15 01:12 PM] rsulfuratus: so, summarizing, here is my take:
     - The fey invent the language Sylvan, and the corresponding complex logo-syllabic script, during the mythic age, primarily as an art form, used to write poetry, songs, and stories. The script itself encodes this concern: it uses magical/emotional determinatives to communicate the emotional state of the writer, which changes the meaning of glyphs and as a secondary effect has a magical enchantment effect that is weaker or stronger depending on the magical power of the writer
     - When Elmerica creates the elves, they `*`(actually not entirely sure about the gender or lack thereof of the Elven firstborn) also give the elves language (Elvish), and a writing system (the Elvish script), that is derived from the Sylvan script, but converted to a syllabary and stripped of the magical determinatives. The reasons for using the Sylvan script, as opposed to just invented something out of thin air, are left undetermined for the moment, just matters that this is what happened. 
@@ -131,13 +133,16 @@
 [2024-07-15 02:04 PM] Deciusmus: One idea from Kiya.... True fey writing in Sylvan might be non-linear, i.e. the central concept of a poem might be inscribed large and in the middle, and additional words and context in concentric circles around it
 [2024-07-15 02:04 PM] Deciusmus: Which might then in turn lead to Tyrwinghan art sometimes replicating the appearance of fey writing, without the magic
 [2024-07-15 02:33 PM] rsulfuratus: I like that
-[2024-07-15 02:39 PM] rsulfuratus: I have a few comments / edits / idea on the language doc, btw, it might be simpler to just post thoughts in Discord but could also add comments and push if you prefer the tracking aspect
-[2024-07-15 02:39 PM] Deciusmus: either
+
+*[Editorial note: Cut 2 messages about review logistics.]*
+
 [2024-07-15 02:41 PM] rsulfuratus: Re: "_Real world analog_: Undefined. Very few names or place names would be written in Common." I have tended to somewhat arbitrarily "translate" place names into effectively Common, to give a few familar anchors for things. The two examples that come to mind immediately are "Raven's Hold" and "Copper Hills", but also e.g. Green Sea, Endless Ocean, Sea of Storms, Sentinels. I think it is actually nice to sprinkle these in occasionally for practical and flavor reasons, especially if they have other, language-specific names (e.g., Labkah, Inalas for Sentinels)
 [2024-07-15 02:42 PM] rsulfuratus: I don't think this needs to be explicitly called out especially in a player facing language doc
 [2024-07-15 02:42 PM] rsulfuratus: But my headcannon for why I don't bother making "native" names for everything is this is the Common translation
 [2024-07-15 02:42 PM] Deciusmus: I like that
-[2024-07-15 02:43 PM] rsulfuratus: I might make a note to this effect in the language doc as that will be the primary reference for practical naming of things
+
+*[Editorial note: Cut 1 message about document maintenance.]*
+
 [2024-07-15 02:44 PM] Deciusmus: _Real world analog_: Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world.
 [2024-07-15 02:45 PM] rsulfuratus: re: "_Alphabet_: Drankorian is written using the Drankorian alphabet". I'm not positive actually that there is a good reason for the Drankorian alphabet and the pre-Downfall urban Hkaran alphabet to be different. Maybe this doesn't really matter so much in practice, but there is a very close culturally continuity here that is maybe not precisely reflected in the documents. From the Drankorian point of view, of course, this is Drankorian, and especially from a present-day view
 [2024-07-15 02:46 PM] Deciusmus: I was inclined to preserve the possibility of old and mysterious Hkaran writing
@@ -153,17 +158,21 @@
 [2024-07-15 02:51 PM] rsulfuratus: yeah, exactly
 [2024-07-15 02:52 PM] Deciusmus: Yeah, I like that a lot actually
 [2024-07-15 02:53 PM] rsulfuratus: I think this fits with the history of the Mostreve hills being a long-standing political divide (e.g. even at its largest immediately pre-Great War Sembara never claimed kingship over Isingue) and establishes the Insiguese refugee community as a little bit more distinct, as they likely have a non-mutually-intelligible language as well as a sharped cultural break
-[2024-07-15 02:53 PM] rsulfuratus: if you agree I'm going to modify the language doc to fit this
+
+*[Editorial note: Cut 1 message about document maintenance.]*
+
 [2024-07-15 02:54 PM] Deciusmus: and it explains why I have such a random mix of French + English names, but with a lot more French along the southern borders
 [2024-07-15 02:54 PM] Deciusmus: yeah I like it
-[2024-07-15 02:54 PM] Deciusmus: but hold on let me push before you modify
-[2024-07-15 02:54 PM] Deciusmus: I just updated the Common & Drankorian bits as the above
-[2024-07-15 02:54 PM] Deciusmus: done
+
+*[Editorial note: Cut 3 messages about Git coordination.]*
+
 [2024-07-15 02:55 PM] Deciusmus: I also changed the Hkaran Alphabet to be:
     
     `*`Alphabet*: Unknown. `%%` In general the immediate pre-Downfall Hkaran writing is very similar to Drankorian, but the exact evolution is left undetermined, and any Hkaran alphabets are lost anyway `%%`
 [2024-07-15 02:57 PM] rsulfuratus: my other thoughts are a little more vague. currently none of the northros languages use a "northros script"
-[2024-07-15 02:57 PM] rsulfuratus: have a meeting now more later
+
+*[Editorial note: Cut 1 message about meeting logistics.]*
+
 [2024-07-15 02:57 PM] Deciusmus: yeah I didn't like the northros alphabets
 [2024-07-15 02:58 PM] Deciusmus: that should probably change
 [2024-07-15 03:13 PM] rsulfuratus: i was going to suggest for northros, we could lean into it and argue that the original northros language was generally not written, which might push back the date of the first human migrations quite far into early Hkar (but, not necessarily a bad thing, given the quite distinct religious traditions) and would imply a few things about early hkar (e.g., lack of widespread literacy, since there is a writing system in place at the creation of humans - but if the ancestors of the northerners were largely illiterate it could work)
@@ -182,19 +191,23 @@
 [2024-07-15 03:41 PM] Deciusmus: in opposition to the "French"
 [2024-07-15 03:42 PM] Deciusmus: You might end up with a Wales speaking mostly English and an England speaking mostly French where the differences between Britons+English kinda fades away
 [2024-07-15 03:43 PM] rsulfuratus: putting Sembaran and Tollish in Eastros works really well, it gives the Drankorian languages (diverging for ~700 years) a much simpler structure with only four languages, more or less (perhaps plus 1-2 more on the west coast), while the Eastros family (diverging for 2000+ years) has a lot more complexity
-[2024-07-15 03:47 PM] rsulfuratus: pushed changes moving Sembaran/Tollish and adding a few notes here and there
-[2024-07-15 03:48 PM] rsulfuratus: also reordered to put ancient languages first that is where most of the diffs come from
-[2024-07-15 03:51 PM] Deciusmus: I think that looks good.
+
+*[Editorial note: Cut 3 messages about document maintenance and reordering.]*
+
 [2024-07-15 03:52 PM] Deciusmus: Before I publish for my players I'm just going to change the ~OldZimkovan~ and Deno'qai alphabets to "Unknown". With `%%` note `%%` on thinking here
-[2024-07-15 03:54 PM] rsulfuratus: have a bit of work to do but I'm going to read through once more in about 30 minutes, assume you are not publishing immediately
-[2024-07-15 03:55 PM] Deciusmus: tomorrow or late tonight at the earliest
-[2024-07-15 03:55 PM] Deciusmus: I'm just proscratinating from a large code review I don't really feel like, but I have to force myself to do it soon 🙂
+
+*[Editorial note: Cut 3 messages about publishing logistics and coding work updates.]*
+
 [2024-07-15 03:56 PM] Deciusmus: As a random thought, Goblin/Hobgoblin might be a good place for the Chinese idea of written language being easy to understand across dialects but spoken language note, really
-[2024-07-15 04:10 PM] Deciusmus: I pushed a few minor tweaks and  big doc on Sylvan Writing that is just a raw dump of this conversation that needs to be cleaned up
+
+*[Editorial note: Cut 1 message about transcript organization.]*
+
 [2024-07-15 05:27 PM] rsulfuratus: pushed a few edits. almost all just minor typos and cleanup. substantive changes are basically (a) change lizardling alphabet to unknown, as I'm not convinced they shouldn't have their own form of writing; (b) change the Free Orc writing system to be based on elvish script, to reflect their feywild heritage; (c) add a comment to extra-planar languages to indicate they can be fairly easily learned with the appropriate blessing from a native of the plane (to reflect, e.g. the fact that many elemental-themed characters lkely know primordial, even if it is not something you pick up with your background)
+
 [2024-07-15 05:38 PM] rsulfuratus: also pushed some notes/comments on extraplanar and exotic languages, but just in comments, nothing really canonical
-[2024-07-15 06:43 PM] Deciusmus: I pushed a cleaned up sylvan language page
-[2024-07-15 06:43 PM] Deciusmus: or ather sylvan writing page
+
+*[Editorial note: Cut 2 messages about completion updates.]*
+
 [2024-07-15 07:17 PM] Deciusmus: two last changes
     * I moved Giant to "Exotic Tongues" to make that the section for everything outside the Elder Folk & Children of the Void Mind
     *  I added a campaign:none merfolk, although if you have some notes on the merolk language would make sense to at least put what we know there and change to campaign dufr

@@ -26,7 +26,9 @@ more generally, the basic logic of "divine magic is miracles granted by a god" p
     Fey magic is just manipulating the resonances of the Riving to alter material plane physics using "fey logic". 
     
     Many druids might use resonances of the Elemental Planes, others might use the natural echos of the Riving in the Material Plane itself.
-[2024-07-26 10:23 AM] Deciusmus: (More in a bit)
+
+*[Editorial note: Cut 1 message about work updates.]*
+
 [2024-07-26 10:44 AM] Deciusmus: A few quick thoughts...
     
     (a) I do think that the general "tone" of divine vs arcane magic works, but also I think it doesn't have to be extremely precise or pre-decided. Fey for example seem like they'd lean heavily into enchantments and illusions but I wouldn't worry too much if that crosses the "cleric" vibe boundary (i.e. bless feels like a fey spell, maybe with a different gloss, but healing maybe less so in general). And I think it is good that Chardonian hedge wizards don't know healing spells.
@@ -57,7 +59,9 @@ more generally, the basic logic of "divine magic is miracles granted by a god" p
 [2024-07-26 11:02 AM] rsulfuratus: but maybe the root cause of Cha'mutte's war is that he was angry the so-called Firstborn claimed all the credit for their fancy ideas about "divinity" when really the true children of the divine were there are along. recast it as like a divine sibling war from greek myth
 [2024-07-26 11:04 AM] rsulfuratus: on a mechanical level, I don't think it works for fey, etc to be "soulless", fwiw. putting aside any lore reasons, we also have for example the canonical fact of agata's soul hiding out in Seeker's ring
 [2024-07-26 11:04 AM] Deciusmus: Right, agreed
-[2024-07-26 11:05 AM] Deciusmus: Getting in car to drive Z but I’ll ponder more
+
+*[Editorial note: Cut 1 message about personal logistics.]*
+
 [2024-07-26 01:11 PM] Deciusmus: So, a few thoughts while I eat lunch...
 [2024-07-26 01:14 PM] Deciusmus: a) I think as first principles we should lean towards sticking with the basic idea around "firstborn (+orcs)" vs "humans" vs "hobgoblins" and that, atlhough it doesn't have to be canon that the firstborn are special and different, we should try to make that work before changing it. 
     
@@ -166,8 +170,9 @@ more generally, the basic logic of "divine magic is miracles granted by a god" p
 [2024-07-26 02:28 PM] Deciusmus: or even "the same type of thing" in the way that Elmerca and the Bahazeal are "the same type of thing"
 [2024-07-26 02:29 PM] rsulfuratus: yeah, from a vibes perspective I think that makes sense, but also there could have been a lot of diversity pre-Riving. and how would you even remember stuff if linear casuality doesn't work? it is possible that entities that survived the riving emerged deeply changed
 [2024-07-26 02:30 PM] Deciusmus: Right
-[2024-07-26 02:30 PM] rsulfuratus: I have a meeting at 2:30 but am going to try to edit the creating new species doc and clean up a few lingering history of taelgar edits and then make PR to merge the history-rewrite branch later this afternoon or tonight
-[2024-07-26 05:41 PM] Deciusmus: I left a few notes about the species stuff... but go ahead and merge I liked all the timeline stuff
+
+*[Editorial note: Cut 2 messages about meetings and merge logistics.]*
+
 [2024-07-26 05:47 PM] rsulfuratus: i'm slightly editing the species doc. my intention is not to suggest there are lots of additional species that are associated with dragons/fey/elementals/giants, but rather that giants, dragons (+kobolds), fey (many different species), and elementals (many different species) are their own thing separate from the more general "awakened/cursed/other" category
 [2024-07-26 05:47 PM] Deciusmus: are they necessarily though?
 [2024-07-26 05:48 PM] Deciusmus: in practice I don't think it matters
@@ -211,8 +216,5 @@ more generally, the basic logic of "divine magic is miracles granted by a god" p
     
     But things that didn't fit in those categories I'd probably want a better story and compelling reason
 [2024-07-26 06:09 PM] Deciusmus: Which is were in particular, I find the species guide useful. To define the types of things that are "common" vs "rare", in some sense
-[2024-07-26 06:35 PM] rsulfuratus: I think that is reasonable. i pushed an update that I think is clearer. will slightly tweak age of myth text, and then merge, later tonight
-[2024-07-26 06:36 PM] rsulfuratus: also might add explicit comments about "easy to add things" and "think about it" and "probably don't" to the now 10 categories
-[2024-07-26 06:36 PM] rsulfuratus: but having dinner now
-[2024-07-26 07:48 PM] rsulfuratus: merged
 
+*[Editorial note: Cut 4 messages about completion updates and personal logistics.]*

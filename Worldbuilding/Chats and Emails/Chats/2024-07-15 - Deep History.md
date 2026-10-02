@@ -1,6 +1,7 @@
 # 2024-07-15 - Deep History
 
-[2024-07-15 09:33 PM] Deciusmus: I’ve stated a little side project trying to reorganize the many different brainstorming docs out the broad historical outlines of taelgar into a single more canonical doc. Just fyi
+*[Editorial note: Cut 1 message about vault organization.]*
+
 [2024-07-15 09:35 PM] Deciusmus: At the moment it’s mostly just moving stuff around. So far there are a couple of open questions:
     
     1. Were the orcs created at the same time as the elder folk (as the main background history of Taelgar says) or were they created at the same time as humans and hobgoblins (as a mythic history brainstorming doc suggests)
@@ -47,4 +48,3 @@
 [2024-07-15 10:02 PM] rsulfuratus: downfall is like 4100 or thereabouts
 [2024-07-15 10:02 PM] rsulfuratus: right, sure
 [2024-07-15 10:03 PM] Deciusmus: It’s probably worth leaving the exact mariner dates a little vague in case we need more time for them wandered around in the far east
-

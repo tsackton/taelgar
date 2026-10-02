@@ -18,14 +18,9 @@
     The "WM4" (Marches of Bronva) is everything west of the new river in WM
 [2024-01-02 01:17 PM] Deciusmus: Also TM1/TM2 are gone and just "Tyrwingha" and I'd be inclined to make Adderfell a bit smaller
 [2024-01-02 10:10 PM] rsulfuratus: pushed new version of world map
-[2024-01-02 10:10 PM] rsulfuratus: generally for precise detail I'd suggest making a separate hexmap since it is difficult to represent things that are `<30 miles or so on the world map
-[2024-01-02 10:10 PM] Deciusmus: yeah that makes sense
-[2024-01-02 10:12 PM] rsulfuratus: I've used these
-[Attachment: ACKS_BlankHexMaps.pdf](../_assets/discord/ACKS_BlankHexMaps-09DEB.pdf)
-[2024-01-02 10:13 PM] Deciusmus: looks great
-[2024-01-02 10:15 PM] Deciusmus: I've drawn detail maps with https://inkarnate.com
-[2024-01-02 10:15 PM] Deciusmus: you can see the Cleenseau town one and the Cleenseau region one in obsidian
-[2024-01-02 10:29 PM] rsulfuratus: reading your letters now
+
+*[Editorial note: Cut 7 messages about map tooling.]*
+
 [2024-01-02 10:35 PM] rsulfuratus: I'm not sure that Amberglow would ever have extended as far north as Cleenseau
 [2024-01-02 10:36 PM] rsulfuratus: feywild geography is not a perfect match for material plane geography - but even so that would make amberglow very big
 [2024-01-02 10:36 PM] Deciusmus: I didn't mean to imply it did
@@ -55,8 +50,9 @@
 [2024-01-02 10:45 PM] Deciusmus: BTW, I think what ultimately caused the rift between Ethlenn and Umbraeth was his tendency to trick humans into the Feywild either to be his servants, or even to be ensorcelled by other fey outside of Twiligt's Grace, or just for giggles to be left somewhere dangerous to die
 [2024-01-02 10:45 PM] rsulfuratus: i like that
 [2024-01-02 10:46 PM] Deciusmus: She probably tolerates some amount of fey-being-fey around humans, but violating the refuge she extended to Tyrwinghans to come to the Feywild is unforgiveable
-[2024-01-02 10:47 PM] rsulfuratus: other than those comments I think the letters and books are fine. i removed the status/tim and pushed but didn't make other changes so assume you'll make small edits as discussed / clean up
-[2024-01-02 10:47 PM] Deciusmus: yup
+
+*[Editorial note: Cut 2 messages about vault organization.]*
+
 [2024-01-02 10:47 PM] Deciusmus: I rewrote the Amberglow line to just talk about stories of "realms"
 [2024-01-02 10:47 PM] Deciusmus: unnamed
 [2024-01-02 10:48 PM] rsulfuratus: oh, one other thing - I'm not actually sure how closely related demi-planes and fey / shadowfell domains are. i might remove the mention of demiplanes from the drankor book since it seems unnecessary game-wise to link them
@@ -76,6 +72,5 @@
 [2024-01-02 10:55 PM] Deciusmus: It matters a lot for the 2nd part of the campaign, but not entirely sorted out. The short version is that he was a wizard with a desire for life extension, doing dubious research, the House of Sewick specifically destroyed his research/tried him for illegal magic, he escaped, vowed revenge on the House of Sewick
 [2024-01-02 10:55 PM] Deciusmus: So actually it is less about destroying Sembara than the House of Sewick specifically. Probably he is hoping one of the northern dukes will eventually organize a coup of some kind
 [2024-01-02 10:56 PM] Deciusmus: I have a vague backstory but I need to work it out a little bit more, at the moment it is still a bit unclear, other than a personal vendetta against the House of Sewick for what he sees as ruining his life
-[2024-01-02 11:01 PM] Deciusmus: I pushed one more book - contains a bunch of stories about fey - less impact on other parts of the world or things you made up, but I did leave it status/tim
-[2024-01-02 11:01 PM] Deciusmus: going to bed now
 
+*[Editorial note: Cut 2 messages about work updates and unrelated chatter.]*

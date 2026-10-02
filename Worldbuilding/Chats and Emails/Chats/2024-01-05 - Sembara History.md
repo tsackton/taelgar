@@ -2,15 +2,12 @@
 
 [2024-01-05 11:54 AM] Deciusmus: I pushed a image that I might use as a emblem for Avatus:
     
-    assets/avatus-symbol-sketch.png
+[![[assets/avatus-symbol-sketch.png]]
 [2024-01-05 11:55 AM] Deciusmus: Any concerns? This is coming up in my game via some undead warriors ressurected from battlefields of the Atavus wars
 [2024-01-05 11:56 AM] rsulfuratus: looks fine to me
-[2024-01-05 12:42 PM] rsulfuratus: Working more on my Dunmar page. Trying to model a bit on Wikipedia with say a short section on “politics” and then a link to a longer page as needed as I feel like it is kind of a lot to have 1000 words on Dunmari politics if you just want a quick overview
-[2024-01-05 12:43 PM] rsulfuratus: “Expanded” notes for geography, religion, and history have obvious homes
-[2024-01-05 12:43 PM] rsulfuratus: But eg politics, culture, economy and trade, justice/law don’t right now
-[2024-01-05 12:44 PM] Deciusmus: I was thinking about the same issues for Sembara, i.e. tax law is going to be relevant in the session after next, I was going to try to pull togeher some notes but was't sure where to put it
-[2024-01-05 12:45 PM] rsulfuratus: For now I’m thinking about just leaving in gazetteer
-[2024-01-05 12:45 PM] Deciusmus: I was going to suggest the same
+
+*[Editorial note: Cut 6 messages about vault organization.]*
+
 [2024-01-05 12:47 PM] Deciusmus: BTW, going back to the Highland Kingdoms name, I was going to make a obsidian change for a new tenative name...
     
     Do you prefer 
@@ -45,12 +42,14 @@
 [2024-01-05 01:35 PM] rsulfuratus: one thing that is obvious after revisiting my old dunmar notes is that while I had some good bones of things, there is a lot in the old google docs that turned out to be wrong after playing a game in dunmar for 3 years, and it is a lot easier now to write up a good dunmar page. 
     
     so I'm kind of inclined to be a little careful over-inventing stuff - or at least committing to stuff as canon - too early
-[2024-01-05 02:23 PM] rsulfuratus: pushed a complete draft of my rewritten Dunmar note, curious if you have any feedback, especially on organization
-[2024-01-05 02:23 PM] rsulfuratus: subnotes are not generally done, or are just notes
-[2024-01-05 03:17 PM] Deciusmus: I'm looking at dunmar
+
+*[Editorial note: Cut 3 messages about vault organization.]*
+
 [2024-01-05 03:17 PM] Deciusmus: I pushed a note on land holding in sembara that I'd appreciate thoughts on
 [2024-01-05 03:17 PM] Deciusmus: largely based on medieval england and the complexity of French/Normal law vs Anglo-Saxon law
-[2024-01-05 03:27 PM] Deciusmus: I like the organization a lot
+
+*[Editorial note: Cut 1 message about vault organization.]*
+
 [2024-01-05 03:31 PM] rsulfuratus: on sembaran land ownership - I think the vibe feels right in general. specific comments mostly on non-humans
 [2024-01-05 03:32 PM] Deciusmus: One comment on Dunmar, btw: what are the borders, exactly? Is there some set of land that is considered "dunmar" by the gods?
 [2024-01-05 03:33 PM] rsulfuratus: my feeling is probably not
@@ -236,4 +235,3 @@
 [2024-01-05 04:49 PM] Deciusmus: Right, I think there are no "general rules" outside of lizardfolk/halflings/dwarves.
 [2024-01-05 04:49 PM] Deciusmus: And even for halflings there are probably no laws, more folklore and word of mouth about how to best deal with them
 [2024-01-05 04:50 PM] rsulfuratus: yes
-

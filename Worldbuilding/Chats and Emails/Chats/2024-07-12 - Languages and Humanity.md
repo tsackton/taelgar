@@ -3,9 +3,9 @@
 [2024-07-12 12:04 PM] Deciusmus: I've been playing around a bit with https://dicecloud.com/ as an alternative to D&D Beyond (because I find homebrewing in D&D beyond annoying and my players have a bit of an anti-WOTC vibe, so we were talking about alternatives)...
     
     And it got me thinking about languages a little bit. In my game, I have a house rule that makes it much easier to have new languages and learn new languages, so I was thinking refactoring the language docs a bit
-[2024-07-12 12:06 PM] Deciusmus: the idea would be to
-    (a) rewrite the Species/Languages doc to be more "in-world" but include the "real-world mappings" where they are relatively canonical
-    (b) potentially create a Mechanics/Language Rules that defines which sets of languages are "related" for D&D language purposes
+
+*[Editorial note: Cut 1 message about document layout.]*
+
 [2024-07-12 12:06 PM] Deciusmus: (the ultimate goal would be to let my players select languages from the full set in Species/Languages, i.e. I'm sure that Celyn (kiya's PC) speaks both Tyrwinghan and Sembaran...)
 [2024-07-12 12:07 PM] rsulfuratus: yeah there is definitely a bit of tension in the current doc between mechanics and in-world lore
 [2024-07-12 12:07 PM] rsulfuratus: i think that seems worthwhile
@@ -15,8 +15,9 @@
 [2024-07-12 12:22 PM] Deciusmus: My complaint with D&D languages is not that they exist but that by RAW you cannot ever learn new ones. I made a house rule where you can learn a new language every other level
 [2024-07-12 12:23 PM] Deciusmus: But there is an alternative where it just doesn’t make sense to distinguish other than between broad language families
 [2024-07-12 12:25 PM] Deciusmus: My intention in the doc is have language families well defined “in world” (and probably at 2 levels) so it would be easy to have a mechanic that says D&D language X is all languages I. family Y
-[2024-07-12 12:25 PM] Deciusmus: More later going to get lunch
-[2024-07-12 12:25 PM] Deciusmus: Btw Z wants to make sure you guys bring home his stuffed animal
+
+*[Editorial note: Cut 2 messages about personal logistics.]*
+
 [2024-07-12 02:13 PM] Deciusmus: What language do you think Tollenders speak natively?
 [2024-07-12 02:13 PM] Deciusmus: Sembaran? Something else?
 [2024-07-12 02:13 PM] Deciusmus: probably Sembaran, right?
@@ -233,7 +234,9 @@
 [2024-07-12 03:43 PM] Deciusmus: we need a name for ~Unnamed Marnier Language~
 [2024-07-12 03:50 PM] rsulfuratus: on a related topic, for calibration, in the real world it looks like the best estimates have proto-indo-european spoken between 4500 - 2500 BCE, so like 5000-6000 years ago
 [2024-07-12 03:50 PM] rsulfuratus: with a lot of the proto-Italic, proto-Germanic etc early divergenes spoken ~1000-500 BCE, so 3000-3500 years ago
-[2024-07-12 03:54 PM] rsulfuratus: I actually can't find my notes in Obisidan about when humans were created
+
+*[Editorial note: Cut 1 message about searching the vault.]*
+
 [2024-07-12 03:57 PM] rsulfuratus: ah found it. 1750 per Timeline Notes in brainstorming. so that is like 4500 years that humans have existed, but significantly less time that human languages have been diverging
 [2024-07-12 03:58 PM] Deciusmus: well, Drankorian languages have been divering for like 700 years, right?
 [2024-07-12 03:58 PM] rsulfuratus: yeah
@@ -277,21 +280,19 @@
 [2024-07-12 04:17 PM] Deciusmus: and could be where the Tyrwinghan & Vosic alphabets come from
 [2024-07-12 04:17 PM] Deciusmus: maybe that's too much detail but it kinda makes sense
 [2024-07-12 04:18 PM] rsulfuratus: actually in the very first campaign with Isaac and Nathaniel I had a scholar who knew Skaer but could read old Tyrwinghan inscriptions, so it is dubiously canonical even
-[2024-07-12 04:19 PM] Deciusmus: let me write some of this up and I'll push with a status/tim
-[2024-07-12 04:38 PM] Deciusmus: made  a PR beause it seemed easier for discussion:
-    https://github.com/tsackton/taelgar/pull/34
-[2024-07-12 04:38 PM] Deciusmus: only done through Drankorian Family
-[2024-07-12 05:17 PM] rsulfuratus: Added some comments. Will probably not be back online until tomorrow after dinner
-[2024-07-12 05:17 PM] Deciusmus: pushed the rest of the human language section
+
+*[Editorial note: Cut 5 messages about publishing and review logistics.]*
+
 [2024-07-12 05:48 PM] Deciusmus: I assume you might not see this, but any thoughts on alphabets for stranger languages? (Abyssal, Slyvan, etc). Generally unique per language, or generally mapping back to something i.e. slyvan = elvish alphabet, etc
+
 [2024-07-12 06:14 PM] Deciusmus: ok, I pushed a mostly done version. Needs some thought on how much to make up about non-human languages vs leave undecided
-[2024-07-12 08:09 PM] rsulfuratus: meant tonight after dinner, not tomorrow. back online now
-[2024-07-12 08:09 PM] rsulfuratus: will look at PR shortly
+
+*[Editorial note: Cut 2 messages about work updates and review logistics.]*
+
 [2024-07-12 09:03 PM] rsulfuratus: added some mostly minor comments but I think at this point easier to edit via discord + obsidian that git pull requests. 
     
     the two major gaps for me are
     (a) the languages of other planes really need more substantial thought
     (b) there is definitely a cultural thread that feels like it is missing from the history of the west that I need to sort out a bit at some point, but the language doc is not the place for that
-[2024-07-12 09:03 PM] rsulfuratus: so i am going to merge
-[2024-07-12 09:03 PM] Deciusmus: sounds good
 
+*[Editorial note: Cut 2 messages about merge logistics.]*

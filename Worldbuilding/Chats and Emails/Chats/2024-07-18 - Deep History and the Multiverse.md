@@ -1,12 +1,7 @@
 # 2024-07-18 - Deep History and the Multiverse
 
-[2024-07-18 10:17 AM] rsulfuratus: Did you push any notes on this yet?
-[2024-07-18 10:17 AM] Deciusmus: in the history-rewrite branch
-[2024-07-18 10:18 AM] Deciusmus: I didn't want to do it in main because I was doing a lot of deleting and moving wanted to be able to review a diff to make sure I deleteing the right stuff
-[2024-07-18 10:18 AM] Deciusmus: but I'm not sure if I got this exactly captured
-[2024-07-18 10:19 AM] Deciusmus: I have a session in 1.5 weeks and am mostly switching my taelgar focused stuff to session prep for a bit
-[2024-07-18 10:34 AM] rsulfuratus: I need to finally actually develop drankor ha ha so working on a lot of history over the next couple of weeks, fwiw
-[2024-07-18 10:35 AM] Deciusmus: you should definitely look at my history-rewreite
+*[Editorial note: Cut 7 messages about branch management and work updates.]*
+
 [2024-07-18 10:48 AM] rsulfuratus: i am tempted to rewrite a little to move away from the Tolkien-esque "elder folk" "elder days" "ages of the world" framework
 [2024-07-18 10:48 AM] Deciusmus: I was pretty tempted to get rid of the whole "5th age"
 [2024-07-18 10:48 AM] rsulfuratus: right, that seems pointless. it was originally an idea for elven timekeeping before we came up with the ka cycle
@@ -122,7 +117,9 @@ that was terrible and we would have all been wiped out if Hkar didn't sink
 [2024-07-18 11:42 AM] Deciusmus: (my instinct says the first is better, but not sure)
 [2024-07-18 11:47 AM] rsulfuratus: I think my idea of the vibe of the downfall based on this new idea of the void mind wanting to corrupt hkar is that "without our actions, hkar would have been overwhelmed, but ultimately without the sinking of hkar the war could never have ended"
 [2024-07-18 11:47 AM] rsulfuratus: so basically, destruction of hkar was a necessary cost, but without the price paid by the firstborn, probably the armies that reached hkar would have achieved their goal and captured the divine spark or whatever before hkar could be destroyed. something like that
-[2024-07-18 11:48 AM] rsulfuratus: i have a bunch of meetings this afternoon but am going to try to rewrite the history of taelgar doc on the rewrite branch with these ideas
+
+*[Editorial note: Cut 1 message about meetings and work updates.]*
+
 [2024-07-18 02:27 PM] rsulfuratus: have not got very far due to actual work, but throwing out this thought for comment, will likely pick up some more on this later today.
     
     i think that the extraplanar geography needs a bit of rearranging. 
@@ -148,7 +145,9 @@ that was terrible and we would have all been wiped out if Hkar didn't sink
 [2024-07-18 02:36 PM] rsulfuratus: and theoretically you could have mulitple overlapping shadowfell domains echoing the same spot
 [2024-07-18 02:37 PM] rsulfuratus: i think that is more interesting and consistent with taelgar metaphysics than any kind of permanent equivalent of the feywild just in reverse
 [2024-07-18 02:37 PM] rsulfuratus: but still thinking
-[2024-07-18 02:37 PM] rsulfuratus: i have a meeting now but more later
+
+*[Editorial note: Cut 1 message about meeting logistics.]*
+
 [2024-07-18 02:39 PM] Deciusmus: RIght I like that a lot - Shadowfell per se doesn't exist, and perhaps there isn't even a specific word/language/culture/whatever.... But there are a bunch of shadowy/dark echo realms, with a kind-of anti-life vibe...
     
     That fits well with Delwath's backstory as well
@@ -253,8 +252,9 @@ that was terrible and we would have all been wiped out if Hkar didn't sink
 [2024-07-18 04:16 PM] rsulfuratus: or a circle of dreams druid maybe uses "dreamworld magic"
 [2024-07-18 04:16 PM] Deciusmus: right, I see.
 [2024-07-18 04:16 PM] Deciusmus: sure
-[2024-07-18 04:17 PM] rsulfuratus: anyway, a bit far afield from the original discussion. still going to try to type up the history notes, and maybe will try to incorporate some comments on the extraplanar stuff as ``%%` `%%`` notes
-[2024-07-18 04:18 PM] Deciusmus: I was thinking about making a stab at updating the cosmology section briefly with this
+
+*[Editorial note: Cut 2 messages about document maintenance.]*
+
 [2024-07-18 04:18 PM] Deciusmus: but I'm not sure if we've agreed to anything
 [2024-07-18 04:20 PM] Deciusmus: perhaps just that Dreamworld/land of dead don't belong in Spiritual relams and that the Riving created at least
     
@@ -264,11 +264,14 @@ that was terrible and we would have all been wiped out if Hkar didn't sink
     And that the divine spiritual realms were crated by gods, separately
     and that the primal realms should be renamed but we don't have a good alternate name
 [2024-07-18 04:25 PM] Deciusmus: Also perhaps that the Shadowfell has nothing to do with the fey
+
 [2024-07-18 04:37 PM] rsulfuratus: maybe add some notes to the overall multiverse page. i'm not sure anything is settled enough to be worth revising the organization of the cosmology section yet
 [2024-07-18 05:10 PM] Deciusmus: I think there is something to be said for "de-canonifying" the current division, i.e. by 
     - moving stuff that isn't definitely a spirtual realm out of spiritual realms
     - getting rid of "primal realms" as a catagory
-[2024-07-18 05:11 PM] Deciusmus: might play around in a PR-branch
+
+*[Editorial note: Cut 1 message about branch management.]*
+
 [2024-07-18 06:33 PM] rsulfuratus: working a bit more on this and wondering about this:
     
     The Riving is actually several ordered events, although the time between them is undefined as the linear progression of time doesn't really make sense until the Riving ends:
@@ -314,4 +317,3 @@ that was terrible and we would have all been wiped out if Hkar didn't sink
 [2024-07-18 06:54 PM] Deciusmus: What about the idea that the divine presence basically creates the astral plane - the source of soul stuff - in imitation or learning from the plane of magic - and elves and dwarves and everyone else is created when the embodied gods pass the soul stuff from the astral plane to the plane of souls
 [2024-07-18 06:55 PM] Deciusmus: Humans are the first souls that go freely in some sense which is why they have the divine spark
 [2024-07-18 06:57 PM] rsulfuratus: i like that
-

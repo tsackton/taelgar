@@ -1,10 +1,7 @@
 # 2024-07-16 - Deep History
 
-[2024-07-16 01:28 PM] Deciusmus: any objections if I make a couple of the really big pngs jpgs?
-[2024-07-16 01:43 PM] rsulfuratus: the only one I might leave is the player map
-[2024-07-16 01:44 PM] rsulfuratus: although I guess you could just test if the jpeg looks noticeably worse when zoomed to 300% or whatever
-[2024-07-16 01:46 PM] rsulfuratus: any art can definitely be converted to jpg
-[2024-07-16 01:46 PM] Deciusmus: yeah I wasn't going to touch the map; just AI art
+*[Editorial note: Cut 5 messages about image format conversion.]*
+
 [2024-07-16 05:21 PM] Deciusmus: I went with 1520 for the date of creation just to have something
 [2024-07-16 05:35 PM] Deciusmus: just playing around with this a bit, I think this timeline isn't quite right.  The idea is that there is explosive change in Hkar in the aftermath of the northerners leaving and encountering the Elder Folk, but 300-400 years for the development of the earliest pantheons seems too long
 [2024-07-16 05:37 PM] Deciusmus: the only firm date we have is Sargon was defeated no later than ~2800. (So that the philosopher's "more than 3000 years ago" works). But no reason it couldn't have been 2500 or 2200 even, right?
@@ -83,4 +80,3 @@
 [2024-07-16 06:10 PM] rsulfuratus: right but doesn't mess anything up for them to have been in the region for 20-30 generations, or 100 generations
 [2024-07-16 06:10 PM] Deciusmus: I'd stick with my the migration should probably not be before 2000 or after 3000 but anything else could work
 [2024-07-16 06:10 PM] rsulfuratus: yes I think that is good
-
