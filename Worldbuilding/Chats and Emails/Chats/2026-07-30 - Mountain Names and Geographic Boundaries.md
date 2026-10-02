@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # 2026-07-30 - Mountain Names and Geographic Boundaries
 
 [2026-07-30 03:39 PM] rsulfuratus: working on names for Cymean Border Mountains. vibe is misty, craggy limestone, lots of magically difficult passages from orenlas border magic, limestone/caves/dead end canyons.
@@ -37,11 +40,7 @@
 
 [2026-07-30 04:00 PM] rsulfuratus: the cymean border mountains are a bit of an edge case because cymea has enough context to at least has a naming pattern, though it is deeply unclear what the "non-coastal" part of cymea is like (and, at least based on the Dunmar campaign, the uplands might be largely uninhabited)
 
-[2026-07-30 04:02 PM] Deciusmus: you need to update name explorer to include subtype as well as type
-
-[2026-07-30 04:02 PM] rsulfuratus: yeah i should do that
-
-[2026-07-30 04:09 PM] rsulfuratus: pushed
+*[Editorial note: Cut 3 messages about name-explorer coding.]*
 
 [2026-07-30 04:16 PM] rsulfuratus: one of the reaasons i made the name explorer is because i wanted try to be more systematic about where names come from in world, and specifically to use the idea of drankorian cartographers and/or halfling sailors as a way to make usable names for distant place with no other details
 
