@@ -2673,4 +2673,3 @@ Unknown: [laughs]
 
 %% u2243 %%
 Seeker: I'm liking it so far.
-
