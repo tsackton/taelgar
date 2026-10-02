@@ -5,7 +5,9 @@ POV: 1720
 ---
 # Champimont Rumors and Questions
 
-Email play-by-email exchange. All twenty authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Complete local source: [[Champimont Rumors and Questions (Email)]]. The map attached to the final message is preserved below.
+%% Original email subject: "Champimont II - Rumors and Information" %%
+
+Email play-by-email exchange. All twenty authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. The map attached to the final message is preserved below.
 
 ### Mike Sackton <msackton@gmail.com> — Wed, 20 Mar 2024 20:52:59 -0400
 
@@ -266,8 +268,12 @@ is only 4th...
 
 [meta: will respond to this in a separate email soon]
 
+> Artan: “We will need to stop and assess Effry as we pass through, Odo should be able to help a lot with this.”
+
 Yes, I assume our session on the 31st will start with Eftly, then move on
 toward Rinburg. We can do the assessment of Eftly in person.
+
+> Artan, about the fighting at Fellburn: “At least they seem to not have slithering giant constructs to breech the walls?”
 
 You ask for more details from a couple of the people with firsthand
 accounts and they all seem to agree that there is nothing larger than a
@@ -277,6 +283,8 @@ recognize from the wight. These two skeletons were cracking bones off a
 third skeleton and throwing them. As she watched, a fingerbone would grow
 to the size of a spear. But, the skeleton they were breaking bones off of
 did not seem to regrow them.
+
+> Artan: “How far out into the lake do things get attacked?  Within 50’ of shore?”
 
 The lake is about 3-4 miles across, fairly circular, and is actually a mile
 or two upriver of Rinburg itself. There are five villages on the lakeshore,
@@ -293,9 +301,15 @@ across, where the lake is only a foot or so deep (i.e. it is basically an
 underwater rock formation that is almost an island). I don't know if that
 helps your planning.
 
+> Artan: “Could we try fishing for it?  Put a small boat-with-a-goat and a large metal hook and bunches of heavy rope tied to a team of horses/oxen on the shore?”
+
 You would have the skills to try, for sure.
 
+> Artan: “We had heard elsewhere that south of the Enst was quiet?”
+
 Yes, you have heard the "no big problems south of the Enst" rumor before.
+
+> Artan: “Perhaps our handy battle-competent Duke could manage that, if he’s still around.”
 
 The Duke as per the other email is probably more interesting in his own
 Duchy (i.e. Fellburn). To clarify, I guess, the Baroness of Aveil is
@@ -307,6 +321,8 @@ the crown.
 ---
 
 ### Mike Sackton <msackton@gmail.com> — Thu, 21 Mar 2024 11:16:07 -0400
+
+> Artan: “Possibly we send Es’Tiasilos with a letter to the duke indicating that we are coming toward Felburn to help and should we coordinate?”
 
 You can do that; but don't underestimate the value in a swimming
 familiar when trying to deal with an underwater threat.

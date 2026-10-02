@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Odo's Return to Asineau
 
-Exchange about [[Odo Cordwaner|Odo]] and his family returning to [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted. Complete email archive: [[Odo in Asineau (Email)]].
+%% Original email subject: "[Thantos] Taelgar: Odo" %%
+
+Exchange about [[Odo Cordwaner|Odo]] and his family returning to [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted.
 
 ### Dan Walters <arcadinal@protonmail.com> — Tue, 14 Oct 2025 13:28:09 +0000
 

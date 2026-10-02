@@ -5,7 +5,11 @@ POV: 1720
 ---
 # Siege of Fellburn - Email Scene
 
-Email play-by-email exchange. All twenty-two authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Complete local source: [[Siege of Fellburn (Email)]]. The draft map and Duke portrait are preserved below.
+%% Original email subject: "The Siege of Fellburn" %%
+
+Email play-by-email exchange. All twenty-two authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. The draft map appears in the opening turn. The Duke portrait is preserved below.
+
+![[duke-of-wisford-2.png]]
 
 ### Mike Sackton <msackton@gmail.com> — Mon, 13 May 2024 21:05:03 -0400
 
@@ -40,7 +44,7 @@ northwest, the Fellbain, where the Oracle of Hope sits, to the north east,
 and the Enstbain, along the banks of the Enst, to the east.
 
 [Map
-![[Siege of Fellburn - draft map.jpg]]
+![[fellburn-rough-map.png]]
 ]
 
 As you ride towards the city from the west, the sun reaching towards noon,

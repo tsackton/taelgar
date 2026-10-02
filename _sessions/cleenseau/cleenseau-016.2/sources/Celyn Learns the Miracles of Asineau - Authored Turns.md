@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Celyn Learns the Miracles of Asineau
 
-Play-by-email exchange at the temple in [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted. Complete email archive: [[Temple in Asineau - Miracles (Email)]].
+%% Original email subject: "[Thantos] Interstitial bit: A *different* Temple in Asineau conversation!" %%
+
+Play-by-email exchange at the temple in [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted.
 
 ### Kiya Nicoll <darkhawk@mindspring.com> — Sat, 29 Jun 2024 19:22:05 -0400
 
@@ -99,7 +101,7 @@ your hand close to it on a cold day. Perhaps it is this resonance that
 allowed El to hold the zombies off - for it was on the very anniversary of
 this Miracle of Hopeful Heat that the zombies attacked us."
 
-(the painting: ![[Temple in Asineau - miracle image.png]])
+(the painting: ![[asineau-wrydling-painting.jpg]])
 
 ---
 

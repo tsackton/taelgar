@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Viepuck and Tal Exchange Sendings
 
-Viepuck and Tal exchange magical messages; the final email also begins the next round of ranger Sendings. Authored turns appear in sent order; quoted reply history is omitted. Complete email archive: [[Viepuck and Tal - Sendings (Email)]].
+%% Original email subject: "Sending: Tal" %%
+
+Viepuck and Tal exchange magical messages; the final email also begins the next round of ranger Sendings. Authored turns appear in sent order; quoted reply history is omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Wed, 26 Jun 2024 08:40:27 -0400
 

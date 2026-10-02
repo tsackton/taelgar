@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Ganboa Negotiations
 
-Play-by-email exchange about Asineau's relationship with [[Ganboa]]. Authored turns appear in sent order; repeated quoted replies and mail footers are omitted. Complete email archive: [[Ganboa Correspondence (Email)]].
+%% Original email subject: "Taelgar:  Lizardfolk" %%
+
+Play-by-email exchange about Asineau's relationship with [[Ganboa]]. Authored turns appear in sent order; repeated quoted replies and mail footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Tue, 28 Oct 2025 21:48:56 -0400
 

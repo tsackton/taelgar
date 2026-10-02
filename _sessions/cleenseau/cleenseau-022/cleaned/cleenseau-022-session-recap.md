@@ -210,6 +210,6 @@ Guided by Ysanne's warning, the party opens the bricked-up well in Peydon's town
 
 - [[Cleenseau - Session 22 - Original]]
 - [[01-cleenseau-blog-799868 - Original]]
-- [[Hunter Aftermaths (Email)]]
+- [[Hunter Aftermaths - Email Scene]]
 - [[Overview - Peydon]]
 - [[Mirror of the Well]]

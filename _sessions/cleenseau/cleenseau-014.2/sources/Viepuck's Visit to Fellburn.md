@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Viepuck's Visit to Fellburn
 
-Viepuck's exchange with [[Hubert Moreau]] after the siege of [[Fellburn]]. Authored turns appear in sent order; quoted reply history is omitted. Complete email archive: [[Viepuck's Trip to Fellburn (Email)]].
+%% Original email subject: "Viepuck's Trip To Town" %%
+
+Viepuck's exchange with [[Hubert Moreau]] after the siege of [[Fellburn]]. Authored turns appear in sent order; quoted reply history is omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Mon, 27 May 2024 22:01:52 -0400
 

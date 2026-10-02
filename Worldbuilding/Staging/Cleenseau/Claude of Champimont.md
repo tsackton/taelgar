@@ -8,4 +8,4 @@ knownTo: [clee]
 Claude is [[Raoul Montagu|Lord Montagu's]] chamberlain in [[Champimont]]. He met [[Viepuck]] at the manor and invited the party to breakfast with the lord.
 
 %% chamberlain  in Champimont %%
-%% Source: [[Champimont Rumors and Questions (Email)]]. %%
+%% Source: [[Champimont Rumors and Questions]]. %%

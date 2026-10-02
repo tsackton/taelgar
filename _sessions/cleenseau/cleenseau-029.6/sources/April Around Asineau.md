@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # April Around Asineau
 
-Play-by-email exchange about the first spring in [[Asineau]] and negotiations with [[Catherine de Brune]]. Authored turns appear in sent order; repeated quoted replies and mail footers are omitted. Complete email archive: [[April Around Asineau (Email)]].
+%% Original email subject: "Taelgar: April 1720 - Around Asineau" %%
+
+Play-by-email exchange about the first spring in [[Asineau]] and negotiations with [[Catherine de Brune]]. Authored turns appear in sent order; repeated quoted replies and mail footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Thu, 16 Oct 2025 22:21:52 -0400
 

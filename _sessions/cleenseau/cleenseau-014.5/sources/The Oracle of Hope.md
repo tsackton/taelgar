@@ -5,7 +5,9 @@ POV: 1720
 ---
 # The Oracle of Hope
 
-Email play-by-email exchange. All eighteen authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted. Complete local source: [[The Oracle of Hope (Email)]].
+%% Original email subject: "The Oracle of Hope - an interlude" %%
+
+Email play-by-email exchange. All eighteen authored messages appear in sent order; repeated quoted replies, forwarded duplicates, and mailing-list footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Wed, 29 May 2024 00:13:30 -0400
 
@@ -16,7 +18,7 @@ Time, among the wizards, the twisted beacon of hope that has sat on the
 hill above Fellburn for time immemorial.
 
 The Oracle of Hope.
-![[Oracle of Hope - source image.png]]
+![[oracle-of-hope.jpg]]
 
 No one knows where it came from, or what it is, but sometimes, at random -
 sometimes, once an hour, or sometimes once in a week, it will sing, to
@@ -315,5 +317,7 @@ Mike
 ---
 
 ### Kiya Nicoll <darkhawk@mindspring.com> — Thu, 30 May 2024 19:01:50 -0400
+
+> Viepuck: “It…. Has moods?  Or is that just metaphor?  Having moods would make it quite a bit more interesting”
 
 Celyn shrugs slightly.  “Sometimes it sings a lot, sometimes it doesn’t.  I don’t know if it’s a … person, a being, but ‘moods’ is as good an explanation as any?"
