@@ -42,7 +42,7 @@
 
 ### Beats
 
-- beat-009 | Rotating floors and frozen lightning: Seeker rotates the tower's orientation and Delwath leads an invisible passage past the frozen-lightning guardian.
+- beat-009 | Rotating floors and frozen lightning: The violet orb transports the party to the statue floor, where Delwath leads them invisibly past the frozen-lightning guardian.
 
 ## scene-005 | The last stand of Seeker 6
 
