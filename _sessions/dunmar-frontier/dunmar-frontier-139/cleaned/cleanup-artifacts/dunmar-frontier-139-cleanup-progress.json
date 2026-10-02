@@ -1,8 +1,0 @@
-{
-  "status": "complete_with_reviewed_uncertainty",
-  "firstPassThroughUnit": 5642,
-  "secondPassComplete": true,
-  "remainingUnits": [],
-  "sourceCleanedSha256": "9b2ebba963df026a2a696ec528c894774649c41fd621ab0c16bab60e1325e313",
-  "note": "All transcript units reviewed; user corrections incorporated. One human-reviewed unclear phrase remains at u0819, explicitly marked as a possible hearing rather than an established name. See human-review.json for details."
-}
