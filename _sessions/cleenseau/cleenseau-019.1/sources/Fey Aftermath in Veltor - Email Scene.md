@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Fey Aftermath in Veltor - Email Scene
 
-Email play-by-email exchange. Messages appear in sent order; repeated quoted replies and mail transport footers are omitted. Complete email archive: [[Fey Aftermath in Veltor (Email)]].
+%% Original email subject: "Taelgar: Fey Aftermath Cont'd" %%
+
+Email play-by-email exchange. Messages appear in sent order; repeated quoted replies and mail transport footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Mon, 28 Oct 2024 23:11:43 -0400
 

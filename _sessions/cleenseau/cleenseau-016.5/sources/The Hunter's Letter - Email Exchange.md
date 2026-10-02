@@ -4,7 +4,9 @@ POV: 1720
 ---
 # The Hunter's Letter - Email Exchange
 
-Edited reading copy of the thirty-seven-message exchange. Newly authored turns appear in sent order; repeated quoted history and mail transport footers are omitted. The complete local correspondence is [[The Hunter's Letter (Email)]].
+%% Original email subject: "Taelgar: The Letter" %%
+
+Edited reading copy of the thirty-seven-message exchange. Newly authored turns appear in sent order; repeated quoted history and mail transport footers are omitted.
 
 ---
 
@@ -349,17 +351,7 @@ Yep.  Celyn feels both justified at treating this thing like a bomb and is visib
 
 ### Matthew Rand <rand.matt@gmail.com> — Wed, 7 Aug 2024 18:52:58 +0000
 
-
 Natural 11 + INT (4) = 15 + 1d6 (3) = 18 + 4 = 22.
-
-Upon hearing the explanation of what’s in there, Celyn grimaces at the forgetfulness spell and mutters something under his breath in Tyrwinghan about being prepared for fey tricks; clearly he considers this to justify his paranoia.  “Izgil, would you dispel the forgetting?  Fortune will be with you.”
-
-This is an INT check.  An INT check is an ability check.  If he flubs the roll, I reverse it. :D  If I have mathed correctly that will at least guarantee that it won’t break the *text*.
-
-Ha. Amazing. @Matthew Rand<mailto:rand.matt@gmail.com> this is a high drama roll, do you want to do the honors and let us know what you roll? I assume Viepuck will give a bardic inspiration as well, so 1d20 + 1d6 + 4.
-Also, I assume if the charm is dispelled successfully Celyn will go ahead and read the letter?
-
-Mike
 
 ---
 

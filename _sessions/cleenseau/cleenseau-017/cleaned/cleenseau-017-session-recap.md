@@ -202,5 +202,5 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 
 - [[Cleenseau - Session 17 - Original]]
 - [[01-cleenseau-blog-788697 - Original]]
-- [[The Hunter's Letter (Email)|The Letter correspondence]]
+- [[The Hunter's Letter - Email Exchange|The Letter correspondence]]
 - [[Into Aslain (Email)|Into Aslain correspondence]]

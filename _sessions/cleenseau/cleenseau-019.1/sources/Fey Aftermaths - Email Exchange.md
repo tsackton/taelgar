@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Fey Aftermaths - Email Exchange
 
-Email exchange following the confrontation with Areschera. Messages appear in sent order; repeated quoted replies, duplicate forwards, and mailing-list footers are omitted. Complete email archive, including two player replies recovered from forwards: [[Fey Aftermaths (Email)]]. The gem illustration is preserved at [[gem-of-spell-storing.png]]
+%% Original email subject: "Taelgar: Fey Aftermaths" %%
+
+Email exchange following the confrontation with Areschera. Messages appear in sent order; repeated quoted replies, duplicate forwards, and mailing-list footers are omitted. The gem illustration is preserved at [[gem-of-spell-storing.png]]
 
 %% Date clarification: Mike's opening email says February 24, but [[Cleenseau - Session 19]] places Areschera's death on February 21. The user confirmed February 21 as canonical; the email text below remains unchanged. %%
 
@@ -61,7 +63,7 @@ it would be useful for me to know.
 *Gem of Spell Storing (requires attunement by a spellcaster)*
 This swirling gem is set in a ring, but it could be removed - the magic is
 in the gem not the ring.
-[image: image.png]
+![[gem-of-spell-storing.png]]
 
 The gem can hold up to 3 levels of spells, and you can cast any of the
 spells stored in the ring as if they were known spells to you, and without
@@ -127,8 +129,6 @@ The tricky bit is that Viepuck basically summoned her so we have to figure out h
 
 One day’s journey (IIRC) is the town with the murder case that we have a loose end on and *probably* not too bad a trip to do with particularly Izgil low on spell slots? (As I think Matt burned the most not-easily-replenishable resources.)  While we were ambushed on that road once we removed the source of the ambush.
 
-Recovered from a forwarded copy in [[Fey Aftermaths (Email)]].
-
 ---
 
 ### Artan Eter <artan.eter@gmail.com> — Sun, 27 Oct 2024 13:31:28 -0400
@@ -179,8 +179,6 @@ To Dan’s point of fighting the baron immediately after fighting the fey, I thi
 Which brings up the last point - I wanted to tell the Magistrate, since we’re getting along and her primary loyalty is to the function of the barony not any person.  Basically “fey attempted to bargain for her life with rumors that the baron is a necromancer, explaining her desire to hunt night queen priests.  I don’t know whether this was a lie or not, but we can’t ignore it.  I don’t know if the drives are fey-trickery or if our imposter just leveraged a sense of fear to get her to cause more destruction.  As such we should probably do an immediate sweep of the castle for both fey and necromantic influence, starting with the quarters for both the imposter and baroness.  Obviously we should have local guards accompany us on this, as we have appropriate skills but not jurisdiction.  Is there anything else you’d suggest we look for?”
 
 Thoughts?  This course of action leaves our potential of leave-or-stay determined by what we find, and gives us information we may not have a chance to get otherwise.  Izgul has a stack of magic items to ID, but I think it is more important to ID anything we find in the chambers of the imposter or baroness first.
-
-Recovered from a forwarded copy in [[Fey Aftermaths (Email)]].
 
 ---
 

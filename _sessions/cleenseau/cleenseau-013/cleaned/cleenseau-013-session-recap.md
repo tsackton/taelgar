@@ -16,7 +16,7 @@
 
 ## Timeline
 
-%% Date reconstruction: [[Cleenseau - Session 13 - Original]] gives January 16–24 for the larger account, while [[Siege of Fellburn (Email)]] places the party's ride east after the lake on January 18. The January 16 evening and January 17 descent are inferred from the original account's overnight sequence. %%
+%% Date reconstruction: [[Cleenseau - Session 13 - Original]] gives January 16–24 for the larger account, while [[Siege of Fellburn - Email Scene]] places the party's ride east after the lake on January 18. The January 16 evening and January 17 descent are inferred from the original account's overnight sequence. %%
 
 ### 1720-01-16
 
@@ -126,7 +126,7 @@ The party travels south along the [[Great South Road]] to [[Rinburg]] and the la
 - [[Cleenseau - Session 13 - Original]]
 - [[01-cleenseau-blog-782461 - Original]]
 - [[An Evening in Corraine's House]]
-- [[Rangers in Champimont (Email)]]
+- [[Rangers in Champimont]]
 - [[Next Thing March 2024 (Email)]]
 - [[Destruction of Eftly (Email)]]
-- [[Siege of Fellburn (Email)]]
+- [[Siege of Fellburn - Email Scene]]

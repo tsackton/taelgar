@@ -25,7 +25,7 @@ The party and its allies continue through the submerged wrecks in [[Lake Rin]], 
 - (DR:: 1720-01-18): The party rides east from [[Rinburg]] and spends the night in [[Cienne]].
 - (DR:: 1720-01-19): The party reaches [[Fellburn]] as battle approaches.
 
-%% The Dreamwidth post combines sessions 13 and 14. Its older January 24 label conflicts with the dated [[Siege of Fellburn (Email)]] account of travel on January 18 and arrival on January 19; the division of lake scenes follows the post's statement that the shipwreck fights occurred in the previous session. %%
+%% The Dreamwidth post combines sessions 13 and 14. Its older January 24 label conflicts with the dated [[Siege of Fellburn - Email Scene]] account of travel on January 18 and arrival on January 19; the division of lake scenes follows the post's statement that the shipwreck fights occurred in the previous session. %%
 
 ## Source
 

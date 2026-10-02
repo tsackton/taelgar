@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Viepuck's Sendings - Correspondence
 
-Play-by-email exchange coordinating [[Viepuck]]'s sendings and the party's response to news from [[Aveil]]. Authored turns appear in sent order; one exact resend, quoted reply history, and mailing-list footers are omitted. Complete email archive: [[Viepuck's Sendings (Email)]]. The in-world message texts are also collected in [[Viepuck - Feburary 9th, 1720]].
+%% Original email subject: "Taelgar: Viepuck's Sendings" %%
+
+Play-by-email exchange coordinating [[Viepuck]]'s sendings and the party's response to news from [[Aveil]]. Authored turns appear in sent order; one exact resend, quoted reply history, and mailing-list footers are omitted. The in-world message texts are also collected in [[Viepuck - Feburary 9th, 1720]].
 
 ### Mike Sackton <msackton@gmail.com> — Fri, 28 Jun 2024 18:07:10 -0400
 
@@ -187,8 +189,12 @@ begging missing elders to come and explain.
 
 
 
+> Artan: Does a number count as a “word” or does each unit of saying out the number count?
+
 A number is a word, and not all prepositions fully count. It's more
 "around" 25 words than exact
+
+> Artan asked whether Robin could designate someone as acting captain of the guard while the party was away.
 
 It would be reasonable for Robin to do something about this.
 

@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Gareth's Ring - Email Exchange
 
-Play-by-email exchange about the ring taken from [[Gareth of Tollen]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted. Complete email archive: [[Gareth's Ring (Email)]].
+%% Original email subject: "Gareth's Ring" %%
+
+Play-by-email exchange about the ring taken from [[Gareth of Tollen]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Mon, 1 Jul 2024 17:56:25 -0400
 
@@ -12,6 +14,8 @@ A short interlude, but you might want to investigate.
 
 Gareth, as I think I mentioned, was wearing, when he was captured, a small
 ring- [[Ring of Escape]]
+
+![[gareths-ring.jpg]]
 
 Izgil investigated the ring, and determined a few things about it:
 

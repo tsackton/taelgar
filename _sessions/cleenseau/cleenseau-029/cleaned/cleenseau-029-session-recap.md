@@ -263,15 +263,15 @@ With the plan chosen, the party settles into the last tense stretch before battl
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/cleenseau/cleenseau-029/cleaned/cleenseau-029-source-cleaned.md
-- [[April Around Asineau (Email)]]
+- [[April Around Asineau]]
 - [[Asineau in May (Email)]]
 - [[Asineau Hirelings (Email)]]
-- [[Ganboa Correspondence (Email)]]
+- [[Ganboa Negotiations]]
 - [[The Situation in Asineau (Email)]]
-- [[Halflings Balthazar and Tharwa Fea (Email)]]
+- [[Halflings Balthazar and Tharwa Fea - Email Exchange]]
 - [[The Merriweathers (Email)]]
 - [[Recurring Festival Idea (Email)]]
-- [[Odo in Asineau (Email)]]
+- [[Odo's Return to Asineau]]
 - [[Asineau as Bastion (Email)]]
 - [[Asineau Interlude - April Preparation (Email)]]
 - [[Asineau Map (Email)]]

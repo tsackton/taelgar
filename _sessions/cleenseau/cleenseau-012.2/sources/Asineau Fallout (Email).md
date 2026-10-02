@@ -8,8 +8,8 @@ The Asineau Fallout correspondence ran from 8 to 15 February 2024. The mailbox t
 
 Five distinct inline illustrations are preserved locally; later messages repeatedly attach copies of these images:
 
-1. [[Asineau Fallout - Asineau Village.png|Asineau village]]
-2. [[Asineau Fallout - Bertram Northwood.png|Bertram Northwood]]
-3. [[Asineau Fallout - Connor.png|Connor]]
-4. [[Asineau Fallout - Thierry.png|Thierry]]
-5. [[Asineau Fallout - Unnamed Rider.png|Rider accompanying Giselle, later identified as Susanna Northwoods]]
+1. [[asineau-docks.jpg|Asineau village]]
+2. [[bertram-northwoods-2.png|Bertram Northwood]]
+3. [[connor-guard.png|Connor]]
+4. [[thierry.png|Thierry]]
+5. [[Susanna-Northwords.jpg|Rider accompanying Giselle, later identified as Susanna Northwoods]]

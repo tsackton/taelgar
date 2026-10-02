@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Tower of Records Search - Email Scene
 
-Email play-by-email exchange. Messages appear in sent order; repeated quoted replies and mail transport footers are omitted. Complete email archive: [[Tower of Records Search (Email)]].
+%% Original email subject: "Taelgar: Fey Aftermath, Tower of Records Search" %%
+
+Email play-by-email exchange. Messages appear in sent order; repeated quoted replies and mail transport footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Sun, 3 Nov 2024 11:40:51 -0500
 
@@ -116,6 +118,8 @@ Mending!
 
 Breaking things to small chunk responses partially for people not having to deal with all of text.
 
+> Mike: “If you spent a couple of hours reading through the correspondence, you might be able to get some sense of the active controversies in the barony.”
+
 I don’t think we have time for this at the moment.  Though Viepuck having worked an entire day with the chief magistate trying to get affairs back in order means being on good terms with her and so we have an in there in the future?
 
 ---
@@ -155,6 +159,8 @@ probably all different things. It is impossible to tell if they are the
 same or different from the dust on the plates with just Arcana - you'd need
 to identify them.
 
+> Artan, asking about the potions: “All the same, or different?”
+
 All different. You can identify a potion just by sipping a bit, unlike
 other items.
 
@@ -170,12 +176,16 @@ while traveling and such, more like 4/day.
 
 ### Mike Sackton <msackton@gmail.com> — Sun, 3 Nov 2024 17:15:40 -0500
 
+> Artan, about the mirrors: “We may want to package up and remove the mirrors, these may have ongoing fey influence and deserve attention”
+
 No objection from Emeric or Perette. I'll send around a master list of all
 of the items you ended up with once you are done exploring.
 
 ---
 
 ### Mike Sackton <msackton@gmail.com> — Sun, 3 Nov 2024 17:18:30 -0500
+
+> Artan, about reading the Tower's correspondence later: “Viepuck having worked an entire day with the chief magistate trying to get affairs back in order means being on good terms with her and so we have an in there in the future?”
 
 Between that and the Mending (Emeric on seeing that, patted Viepuck on the
 shoulder and told him he was "raised well" and "had a good soul, to spend

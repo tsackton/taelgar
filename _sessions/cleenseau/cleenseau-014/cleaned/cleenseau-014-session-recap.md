@@ -16,7 +16,7 @@
 
 ## Timeline
 
-%% Date reconstruction: [[Cleenseau - Session 14 - Original]] labels this installment January 24, but its source account describes the overnight stay and lake descent, while [[Siege of Fellburn (Email)]] explicitly puts the ride from Rinburg to Cienne on January 18 and the arrival at Fellburn on January 19. The January 24 label appears to cover the combined recap's wider span. %%
+%% Date reconstruction: [[Cleenseau - Session 14 - Original]] labels this installment January 24, but its source account describes the overnight stay and lake descent, while [[Siege of Fellburn - Email Scene]] explicitly puts the ride from Rinburg to Cienne on January 18 and the arrival at Fellburn on January 19. The January 24 label appears to cover the combined recap's wider span. %%
 
 ### 1720-01-17
 
@@ -114,4 +114,4 @@ The party finishes clearing eel-mutated undead from the submerged shipwrecks ben
 
 - [[Cleenseau - Session 14 - Original]]
 - [[01-cleenseau-blog-782461 - Original]]
-- [[Siege of Fellburn (Email)]]
+- [[Siege of Fellburn - Email Scene]]

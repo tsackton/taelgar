@@ -39,15 +39,12 @@ After the siege, the party exchanges news with the victors, witnesses the succes
 
 ## Sources
 
-- [[Siege of Fellburn (Email)]]
 - [[Siege of Fellburn - Email Scene]]
 - [[Siege of Fellburn - Duke's Camp]]
 - [[Fellburn Aftermath - Audience with Duke]]
 - [[Fellburn Audience with the Duke]]
-- [[The Oracle of Hope (Email)]]
 - [[The Oracle of Hope|The Oracle of Hope email scene]]
 - [[Meeting Lenora]]
 - [[Meeting Lenora - Email Scene]]
-- [[Viepuck's Trip to Fellburn (Email)]]
 - [[Viepuck's Visit to Fellburn]]
 - [[Celyn's Letter to His Brother Pryce]] (written in Fellburn; delivery not established)

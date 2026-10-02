@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Halflings Balthazar and Tharwa Fea - Email Exchange
 
-Exchange about the Merriweathers, Balthazar, and Tharwa Fëa. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted. Complete email archive: [[Halflings Balthazar and Tharwa Fea (Email)]].
+%% Original email subject: "Taelgar: Halflings, Balthazar, and Tharwa Fëa" %%
+
+Exchange about the Merriweathers, Balthazar, and Tharwa Fëa. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted.
 
 ### Mike Sackton <msackton@gmail.com> — Tue, 28 Oct 2025 21:19:02 -0400
 
@@ -88,6 +90,8 @@ A thing to research when we don’t have other stuff to worry about, by the way:
 
 ### Mike Sackton <msackton@gmail.com> — Thu, 30 Oct 2025 21:47:45 -0400
 
+> Artan, about Balthazar: “Is he wiling to talk about what’s holding him back?”
+
 He does that. He seems to be willing to talk about his issues, he is just
 literally nervous about being by himself. He likes to have people around.
 Not _right_ around, but within a few hundred feet, at most. The idea of
@@ -95,11 +99,15 @@ being on the road all by himself terrifies him.
 
 
 
+> Artan: “I will ask the Merriweathers if they are willing to take on a worker when they leave”
+
 They are. After one trip into the woods to check on the portal with
 Vahayia they take you aside and indicate that they would be willing to take
 Balthazar with them when they leave for their homeland, as well, although
 they warn that the elven homeland can be strange, and there isn't much in
 the way of civilization nearby.
+
+> Artan: “can he cast goodberry”
 
 He can cast goodberry. He knows a couple of 1st level spells. He is
 basically a "almost 1st level" warlock.

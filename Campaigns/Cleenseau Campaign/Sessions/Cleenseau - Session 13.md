@@ -23,7 +23,7 @@ The party travels south, exchanges information with the adventurers who defeated
 - (DR:: 1720-01-16), evening: The conversation played later by email is recorded in [[Cleenseau - Session 13.1]].
 - (DR:: 1720-01-17): The party tries to lure the eel ashore, then enters [[Lake Rin]] under Corrine's water-breathing spell and clears eel-mutated zombies from the wrecks.
 
-%% The Dreamwidth post combines sessions 13 and 14 and identifies the shipwreck fights as the earlier session. Its January 16–24 heading covers a wider period; [[Siege of Fellburn (Email)]] dates the party's eastward ride after the lake to January 18. %%
+%% The Dreamwidth post combines sessions 13 and 14 and identifies the shipwreck fights as the earlier session. Its January 16–24 heading covers a wider period; [[Siege of Fellburn - Email Scene]] dates the party's eastward ride after the lake to January 18. %%
 
 ## Source
 

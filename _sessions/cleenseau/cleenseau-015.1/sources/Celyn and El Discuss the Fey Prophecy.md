@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Celyn and El Discuss the Fey Prophecy
 
-Play-by-email exchange at the temple in [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted. Complete email archive: [[Temple in Asineau - Prophecy (Email)]].
+%% Original email subject: "[Thantos] Interstitial Taelgar stuff:  The Temple in Asineau" %%
+
+Play-by-email exchange at the temple in [[Asineau]]. Authored turns appear in sent order; quoted reply history and mailing-list footers are omitted.
 
 ### Kiya Nicoll <darkhawk@mindspring.com> — Wed, 26 Jun 2024 12:00:37 -0400
 

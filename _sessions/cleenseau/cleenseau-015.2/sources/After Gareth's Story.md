@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # After Gareth's Story
 
-Play-by-email discussion after [[Gareth of Tollen|Gareth]]'s interrogation. The original story is [[Gareth's Story]]. Authored replies appear in sent order; quoted history and mailing-list footers are omitted. Complete email archive: [[Gareth's Story Discussion (Email)]].
+%% Original email subject: "Gareth's Story" %%
+
+Play-by-email discussion after [[Gareth of Tollen|Gareth]]'s interrogation. The original story is [[Gareth's Story]]. Authored replies appear in sent order; quoted history and mailing-list footers are omitted.
 
 ### Dan Walters <arcadinal@protonmail.com> — Wed, 17 Jul 2024 16:48:34 +0000
 

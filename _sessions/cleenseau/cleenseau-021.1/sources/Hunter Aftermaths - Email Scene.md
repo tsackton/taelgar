@@ -4,7 +4,9 @@ campaign: Cleenseau
 ---
 # Hunter Aftermaths - Email Scene
 
-An unfinished play-by-email exchange after the Hunter's defeat. Messages appear in sent order; repeated quoted replies and mail transport footers are omitted. The remainder of the aftermath was deferred to in-person play. Complete email archive: [[Hunter Aftermaths (Email)]].
+%% Original email subject: "Taelgar: The Hunter Aftermaths" %%
+
+An unfinished play-by-email exchange after the Hunter's defeat. Messages appear in sent order; repeated quoted replies and mail transport footers are omitted. The remainder of the aftermath was deferred to in-person play.
 
 ### Mike Sackton <msackton@gmail.com> — Sun, 26 Jan 2025 19:47:24 -0500
 
