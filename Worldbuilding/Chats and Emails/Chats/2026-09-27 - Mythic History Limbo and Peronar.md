@@ -1,46 +1,9 @@
+---
+tags: [status/check/ai]
+---
 # 2026-09-27 - Mythic History Limbo and Peronar
 
-[2026-09-27 01:34 PM] Deciusmus: FYI  I'm working with codex to try to refine the various history notes into a single synthesized canonical history of taelgar...
-
-[2026-09-27 01:34 PM] Deciusmus: I just pushed 3 "historical synthesis" files. If you feel like reviewing...
-
-[2026-09-27 01:35 PM] Deciusmus: the basic idea is
-
-    History of Taelgar = canonical facts and canonical position only, no questions/speculation. The current document is full of `%%` sources `%%` quotes but my intention would be to delete those once we agree it is in fact canonical
-
-    History of Taelgar - Non-Canonical Ideas = devloped/meaningful ideas that fit into the canon but we don't want to commit as canonical. Not meant as a place for alternatives
-
-    History of Taelgar - Open Questions = unresolved questions
-
-[2026-09-27 01:39 PM] rsulfuratus: sounds great. i will take a look. there is also a stalled / in progress history rewrite project to convert the older style timeline of X to the newer style history of X notes
-
-[2026-09-27 01:39 PM] rsulfuratus: this would presumably benefit from, but not be replaced by, the larger history of taelgar consolidation
-
-[2026-09-27 01:42 PM] Deciusmus: Yeah, trying to start big picture. It’s intended to be similar to the existing “historical framework” doc but that peters out around the fall of drankor
-
-[2026-09-27 01:43 PM] rsulfuratus: worth also thinking about eventual audience. the climate stuff i'm intending as pure world building reference, not likely to be player facing or part of taelgarverse at any point
-
-[2026-09-27 01:43 PM] Deciusmus: But also with a clearer split between canon and non-canon
-
-[2026-09-27 01:43 PM] rsulfuratus: i guess the same for this? with the history of X being the player-facing stuff
-
-[2026-09-27 01:44 PM] Deciusmus: This is similar. I’m intending this as pure background/wordbuilding
-
-[2026-09-27 01:45 PM] rsulfuratus: i would actually suggest either keeping the sources or organizing it like a constraints doc for climate (but here probably keeping the sources is better).
-
-    it can be quite useful to see what establishes a particular thing as canon, in my experience
-
-[2026-09-27 01:45 PM] Deciusmus: That’s fine, although some of it is self-referential. Ie I want this to replace the other framework docs not be yet another one
-
-[2026-09-27 01:46 PM] rsulfuratus: yeah that makes sense. i was more thinking about things like links to creature pages, various mirror visions, and the like
-
-[2026-09-27 01:46 PM] Deciusmus: Yeah that is valuable
-
-[2026-09-27 01:47 PM] Deciusmus: Btw there are still no good notes in the vault on the final dunmar frontier adventure right?
-
-[2026-09-27 01:47 PM] rsulfuratus: correct. i guess i should work backwards instead of just forwards
-
-[2026-09-27 01:47 PM] rsulfuratus: i haven't tested my new transcription pipeline with iphone recordings
+*[Editorial note: Cut 17 messages about history-document organization and source-processing coordination.]*
 
 [2026-09-27 01:48 PM] Deciusmus: I was trying to read more about limbo partly for this (to get a clearer linked note for the order-chaos war stuff) and also because my next Cleenseau adventure is likely going to be exploring part of the plague lands and some impacts of the limbo high tide
 
@@ -58,14 +21,7 @@
 
     tentatively my intention was this was before the Riving, and plausibly part of the set of "events" such as they were that formed the impetus for the riving. but i'll have to check back in the transcript to confirm whether or not this was fully established in play or just in my notes
 
-[2026-09-27 01:56 PM] Deciusmus: Yeah this was one of the reasons I was looking for better notes. There is nothing in vault that establishes whatever it was.
-
-    But if you know answers
-    To the open questions I think we should just document them.
-
-    Ideal would be to actually create a note (“The Banishmemt of Chaos to Limbo”) that documents the canonical and event that this can link to to resolve the open question
-
-[2026-09-27 01:57 PM] Deciusmus: But just editing the open questions doc works for now
+*[Editorial note: Cut 2 messages about history-document organization and source-processing coordination.]*
 
 [2026-09-27 02:00 PM] rsulfuratus: here are my DM notes. but would be nice to have a transcript to confirm if i changed anything on the fly. my recollection is this is pretty consistent with the adventure as run.
 
@@ -119,18 +75,4 @@
 
 [2026-09-27 05:36 PM] rsulfuratus: would need a bit more thinking to test out the implications but could fit reasonably well
 
-[2026-09-27 05:55 PM] Deciusmus: I pushed a page to capture this - plus some notes on what is, I think canonical (generated with a codex assist)
-
-[2026-09-27 10:20 PM] Deciusmus: I pushed another update but I’m increasingly not sure that a big “history” page is the right approach exactly. I’ve been mucking around with mythic history (ie pre-downfall) and it almost feels like it would be better to fix a bunch of the source pages —
-
-    Dragons, giants to mention origins, primordial chaos, the riving page itself, etc
-
-    And then ask ai to build a summary  Rather than trying to write the summary in isolation.
-
-    It might be useful to have a place for probably-but-not definite things, like Tarinque (or whatever the southern elf realm was). Is word building/tenative the right place for that?
-
-[2026-09-27 10:27 PM] rsulfuratus: yes, in general, worldbuliding tentative is probably a good place for this. see the _MoC/Pages to Review/Tentative Notes for how i've used it
-
-[2026-09-27 10:27 PM] rsulfuratus: tentative should have a tentativeReason yaml frontmatter for why it is in tentative
-
-[2026-09-27 10:28 PM] rsulfuratus: this is more or less free text
+*[Editorial note: Cut 5 messages about history-document organization and source-processing coordination.]*
