@@ -4,91 +4,129 @@ excludePublish: [all]
 ---
 # Taelgar Climate Model Revised
 
-## Purpose and scope
+Taelgar's continent spans tropical southern lowlands, a broad temperate middle, and a cold northern interior grading into subpolar and polar country. The western ocean moderates the coast and the inland districts open to its influence; farther north and behind mountain barriers, winters become longer and seasonal contrasts stronger. Around the Green Sea, warmer southern shores contrast with the colder northern coasts and forests. Mountains and plateaus create cooler country throughout these latitude belts, while the southern lowland basins can remain intensely hot.
 
-This note develops a broad, low-resolution climate model for Taelgar's continent. Its purpose is to explain the connections between regions, test established climatic expectations against the actual map scale and latitudes, and provide a consistent starting point for places that have not yet been developed. Local climates should emerge from these continental gradients, with transitions across the intervening country.
+This is a continent-scale reference for developing regional climates and the transitions between them. It describes the broad present-day temperature framework; rainfall and moisture distribution remain to be developed. Local elevations, weather calendars, historical climates, and exceptional magical conditions require more detailed treatment.
 
-The model covers the developed world and its surrounding geography: the western coast and interior forests, the northern plains and highlands, Sembara and the Green Sea shores, Dunmar, and the southern country toward Garamjala and Drankor. It begins with temperature. Rainfall, moisture routes, and their implications for vegetation will be developed next. Exact winds, storm tracks, elevations, and local weather calendars belong in later regional work where needed.
+## Temperature framework
 
-This is a fresh working model alongside [[Taelgar Climatic Model]]. The temperature outcomes and broad explanations below record the adopted direction of the continental review; they are qualitative model choices, not results of a numerical climate simulation. [[Climate and Weather Constraints]] preserves established requirements and dated observations. Weather experienced on a particular visit does not, by itself, establish an entire annual climate. Historical climates and exceptional magical conditions require separate treatment.
+**Latitude sets the broad thermal pattern.** Southern lowlands have warm conditions through much or all of the year. Temperate regions have a distinct cooler winter and warmer summer. Farther north, the cold season lengthens and the growing season contracts. These are broad transitions, modified by terrain and maritime exposure.
 
-The geographic reference is [Taelgar Maps](https://chatgpt.com/space/page_6abfd6037a1c8191a306c9f729e2d77a). Small hexes measure 24 miles between opposite edges. Dashed latitude lines mark the equator, tropics, and Arctic Circle; dotted and solid lines mark five-degree intervals. Latitude estimates below are approximate regional anchors, not climatic boundaries.
+**Maritime access moderates the seasons.** Air arriving from the ocean generally limits summer heat and winter cold. Its reach depends on the arrangement of coastlines, lowlands, and mountain barriers, as well as distance inland. The southern western forests lie on the ocean-facing side of the Sentinels and retain substantial maritime influence. Northern plains and sheltered interiors have stronger seasonal contrasts. The Green Sea also moderates neighboring land, but its northern coasts remain exposed to cold continental air.
 
-## Continental temperature model
+**Elevation creates colder regions within every latitude belt.** Uplands have cooler summers and colder winters than adjacent lowlands. High mountains can sustain snow and ice above warm valleys; a moderately elevated southern plateau can remain hot while being cooler than a neighboring basin. Exact elevations and snowlines belong in regional models.
 
-The model assumes broadly Earth-like seasons and temperature controls. Latitude establishes the broad progression from warm southern lowlands through temperate country to the cold north. Maritime influence modifies the strength of the seasons: it generally limits summer heat and winter cold, while continental interiors experience greater seasonal contrasts. Elevation cools both seasons and creates colder uplands within otherwise warmer regions.
+The descriptions below concern ordinary seasonal character. Frost, snow, heat waves, and thaws can occur outside that character without defining it. A mild winter need not be entirely frost-free, and a northern region with long winters can still have a warm summer.
 
-Maritime influence depends on access as well as distance. A region west of the principal mountain barrier can retain substantial ocean influence far inland. A nearer region behind a high coastal range can be more continental. Mountains also obstruct some routes by which cold air reaches a region, although no range excludes every cold outbreak.
+## Regional temperature patterns
 
-Three connected patterns organize the developed continent:
+### Western coast and Apporia
 
-- **The western maritime margin extends inland unevenly.** The coast has the strongest moderation. Broad access south of the Fiatara allows gentler seasons in the southern western forests; northern and more sheltered districts have colder winters.
-- **The temperate east grades from relatively mild lowlands and coasts into colder northern country.** Sembara, Tollen, Cymea, Skaerhem, Vostok, and Ursk occupy different positions along these gradients. Maritime country can still have a cold winter, especially where northern continental air frequently reaches the coast.
-- **The southern lowlands remain warm, with decreasing winter cooling toward the tropics.** Coastal moderation and elevated interiors produce local differences within this broad warm belt. Hot southern deserts need not share the temperatures of high alpine deserts.
-
-Ordinary seasonal conditions allow exceptions. A mild region can experience frost or an unusual snowfall; a cold region can have summer heat waves or winter thaws. These events should remain consistent with the broad seasonal character without becoming its definition.
-
-### Western coast and southern interior forests
-
-Around [[Chardon]], near 37°N, strong maritime influence produces mild winters and comfortably warm summers. The summer target is closer to San Francisco than Rome, but with less persistent fog and wind and more opportunity for warm, sunny weather. Inland along the [[Chasa River Valley]], summers become warmer or hot and winter frost becomes more common. [[Apporia]] shares the broad mild-winter, warm-to-hot-summer coastal character, with cooler conditions in its mountains.
-
-Farther north, coastal [[Mawar Confederacy|Mawar]] retains cool summers and winters that alternate cold, snowy spells with maritime thaws. Its interior and higher country are colder. Coastal Scandinavian and coastal British Columbian inspirations apply here; the harder winters of inland Scandinavia do not characterize the whole coast.
-
-The southern western forest belt lies west of the main [[Sentinel Range|Sentinel]] barrier, with maritime access through the western lowlands south of the [[Fiatara Mountains]]. The adopted model gives this belt recurring western maritime influence in both seasons. That influence moderates winter cold and interrupts summer heat; the Sentinels reduce direct exposure to continental cold from the east. Rising forest country helps limit summer temperatures without requiring the lowland winter to become severely cold.
-
-This is a broad influence of maritime air, not the unchanged inland extension of Chardon's coastal fog or sea breeze. [[Lake Valandros]] can moderate nearby shores, but does not supply the explanation for the entire forest belt. The model requires enough maritime access to sustain the temperature pattern; the moisture consequences remain to be developed.
+The western seaboard grades from warm southern peninsulas and lowlands to cooler northern shores. Coastal moderation is strongest where ocean air has direct access; inland slopes and mountain interiors are colder in winter.
 
 | Area | Broad temperature character |
 | --- | --- |
-| Chardon and the immediate coast | Mild winters and comfortably warm summers, with strong maritime moderation. |
-| Chasa lowlands and Valandros country | Greater summer warmth and winter frost inland; lake shores locally moderated. |
-| Southern [[Ainumarya]] and the [[Elderwood]] | Cool to mild winters and moderate to warm summers. Seasonal variation is low to moderate, with gentle but recognizable seasons. Prolonged severe cold and sustained oppressive heat are unusual in the lower forest country. |
-| Central western forest belt | Increasing winter frost and snow, with a clearer seasonal contrast. Sheltered lowlands remain milder than higher slopes. |
-| Northern western forests | Longer, harder winters and shorter summers, grading into the difficult cold winters of the far northern Deno'qai forests. |
+| [[Apporia]] and the southern [[Coastlands]] | Mild lowland winters and warm to hot summers, with cooler mountain interiors. Coastal districts have less seasonal variation than sheltered inland valleys. |
+| [[Gulf of Chardon]] and [[Chardon]] | Mild winters and comfortably warm summers. Maritime influence limits sustained summer heat, while sunny, warm spells remain common possibilities. |
+| Upper Coastlands | A temperate maritime coast, becoming cooler northward. Summers are moderate to warm and winters comparatively mild, with stronger cold toward the northern margin and higher ground. |
+| [[Mawakel Peninsula]] and coastal [[Mawar Confederacy]] | Cool summers and winters alternating cold, snowy spells with maritime thaws. Inland and elevated districts are colder than the coast. |
+| [[Slate Sea]] coast | **Broad extension:** a cooler northern continuation of the maritime coast, with a longer cold season toward the [[Far North]]. Local winter severity and sea-ice conditions remain unassigned. |
 
-The progression is gradual. Northern latitude, increasing obstruction of western access by the Fiatara, and greater exposure to northern cold strengthen the seasons toward [[Voltara]] and the [[Erbalta Plains]]. Voltara has moderate summers and cold but ordinarily not deeply bitter winters. Southern Erbalta shares broadly similar temperatures; its different landscape does not require Mongolian winter extremes. Farther north, cold spells become longer and more frequent and the growing season shortens.
+### Western river basins and forest belt
 
-### Sembara and the northern Green Sea
+The lowlands south of the Fiatara admit maritime air into the Chasa and Valandros country and toward the western Sentinel forests. Rising forest terrain moderates summer warmth, while ocean influence limits winter cold. Farther north, increasing latitude, mountain shelter, and exposure to northern cold strengthen the seasons.
 
-[[Sembara]] has a broad temperate regime of warm summers and distinct winters. More moderated lowlands and coastal districts grade into colder inland, northern, and elevated country. France and New England supply different parts of this range, rather than one uniform climate. [[Addermarch]] fits the warmer temperate upland margin: warm summers, regular winter frost, and colder conditions with elevation. Historical [[Isingue]] belongs toward the warmer end, with hot summers and relatively mild winters; its present exceptional conditions do not define the ordinary regional baseline.
-
-[[Tollen]], around 45°N, occupies a relatively mild coastal position. Summers can be warmer and winters slightly colder than London, while retaining frequent winter thaws. Snow and cold spells are ordinary possibilities, but sustained freezing of the main lower [[Volta]] is exceptional rather than expected.
-
-The transition northeast toward [[Skaerhem]] crosses several hundred miles and several degrees of latitude. The adopted model gives the northern sea coast more frequent or persistent winter cold than the gulf-facing Tollen district. This is a broad difference in exposure to cold air; it does not assign individual storm tracks or a sharp climatic boundary.
-
-The cold northern branch in [[Green Sea Ocean Circulation]] supports cooler summers and delayed spring warming around Skaerhem, while the sheltered [[Western Gulf]] can warm more strongly in summer. The current does not explain winter cold by itself: open water can warm air arriving from a frozen continent. Wind increases the felt severity of island weather, but does not substitute for the actual cold needed to freeze rivers.
-
-| Tollen and the lower Volta | Skaerhem |
+| Area | Broad temperature character |
 | --- | --- |
-| Winter frequently alternates frost and thaw. | Freezing conditions are more frequent or persistent, although maritime thaws still occur. |
-| Snow often melts between events. | Snow cover is more frequent and persistent, with differences between islands and elevations. |
-| The main lower river normally remains open; sustained freezing is exceptional. | Smaller island rivers regularly freeze during winter cold spells, as established at [[Pyhlla]]. |
-| Summers are moderately warm. | Summers are cooler and spring warming is later. |
+| [[Chasa River Valley]] | Mild lowland winters and warm to hot summers, warmer inland than at Chardon. Frost is occasional and localized rather than a frequent regional feature; higher ground and cold-air pockets can be frostier. |
+| [[Yeraad]] basin and [[Yeraad Marshes]] | **Broad extension:** warm southern lowlands with mild winters and warm to hot summers, grading into cooler foothills and forest country. |
+| [[Lake Valandros]] and [[Tawir Forest]] | A temperate transition between the milder southern basins and colder northern country. Summer warmth and winter cold increase away from maritime influence; the lake moderates its immediate shores. Exact frost and lake-freezing patterns remain open. |
+| Southern [[Ainumarya]] and the [[Elderwood]] | Cool to mild winters and moderate to warm summers, with low-to-moderate seasonal variation. Prolonged severe cold and sustained oppressive heat are unusual in the lower forest country. |
+| [[Crimson Forest]], [[Highveil Forest]], and northern western forests | Increasing winter frost and snow and shorter summers toward the north and higher slopes. This grades into long, difficult winters in the far northern Deno'qai forests. |
+| [[Voltara]] and the [[Erbalta Plains]] | Moderate summers and cold but ordinarily not deeply bitter winters around Voltara and southern Erbalta. Cold spells become longer and more frequent farther north, and the growing season shortens. Differences in vegetation need not imply a large temperature discontinuity. |
 
-The river contrast combines a regional temperature gradient with differences between waterways. The large, tidal lower Volta need not freeze whenever smaller island rivers do. These requirements do not imply continuous winter freezing throughout Skaerhem or eliminate occasional severe winters at Tollen.
+### Central mountains and high plateaus
 
-Farther inland, [[Vostok]] and the northern forests experience greater winter cold and a shorter growing season. [[Ursk]] has a substantial cold winter followed by a real warm summer, with St. Petersburg and Moscow providing the broad temperature inspiration rather than extreme continental Siberia. Coastal and inland districts vary; cool coastal influence should not make every inhabited district persistently chilly through summer.
+The continent's mountain systems form colder belts within the surrounding lowlands. Their southern foothills can be warm while high terrain remains cold; northern ranges combine elevation with a longer winter season. These broad relationships leave room to set local plateau heights and pass climates later.
 
-### Warmer shores and southern lowlands
+| Area | Broad temperature character |
+| --- | --- |
+| [[Fiatara Mountains]] and [[Mawar Mountains]] | Cold uplands above more moderated coastal and inland districts. The highest Fiatara summits retain glaciers and extensive snow even in summer. |
+| Northern [[Sentinel Range]] | Long, severe winters and short summers, with extensive cold high terrain and a transition toward the Far North. Lower slopes are warmer than the high peaks. |
+| Central and southern Sentinels | Strong contrasts between relatively warm lower valleys and cold high mountains. The southern foothills have a longer warm season; elevation remains the principal control on summit and pass temperatures. |
+| [[Zimkova]], [[Pekul Mountains]], and [[Vostok Plateau]] | Cold winters and shorter summers across the highlands, becoming colder with elevation and continental exposure. Lower basins and sheltered valleys have warmer growing seasons than the higher plateaus. |
+| [[Aurbez Plateau]] | An elevated continental regime with cold winters, warm summer days, and cool nights. Adjacent lowlands are warmer. |
+| [[Chataan Mountains]], [[Darba Highlands]], and [[Yuvanti Mountains]] | Cooler terrain within the warm southern latitude belt. Low passes and foothills can remain warm; high ridges and mountain interiors have substantially colder conditions. Exact temperature zones remain regional detail. |
 
-[[Cymea]] combines mild coastal winters with greater seasonal contrast in its interior uplands. Warm to hot summers are compatible with both its Italian and mid-Atlantic inspirations; their principal temperature difference concerns winter severity. The coast facing the Eastern Green Sea is intended to retain mild winters, while inland and elevated districts can have colder, more distinctly seasonal conditions. Toward [[Medju]], the broad lowland target becomes hot summers and relatively mild winters, with separate coastal and upland variations.
+### Sembara and the upper Istaros
 
-Across [[Dunmar]], the temperature pattern depends on coastal exposure and elevation within a generally warm latitude belt. [[Darba]], around 29°N, has a subtropical coastal climate with a noticeable cooler season. Ordinary coldest-month daytime temperatures in the 50s–60s°F, with occasional hotter days and cooler nights, express the intended broad character. Kakadu supplies landscape inspiration rather than a requirement for tropical heat throughout winter.
+East of the Sentinels, temperate riverlands connect colder northern highlands with the warmer interior south. The Western Gulf moderates nearby lowlands, while elevation and distance from the coast increase local seasonal contrasts.
 
-Inland, [[Karawa]] and [[Tokra]] have the hot summers and cooler winters of southwestern United States inspirations, with local temperatures depending on elevation and basin position. The [[Garamjala Plateau]] is a hot, moderately elevated interior, at times less hot than the [[Hara Basin]] to its northwest. Its Andean desert inspiration concerns landscape and aridity; it does not require the cold temperature regime of the high Andes.
+| Area | Broad temperature character |
+| --- | --- |
+| [[Sembara]] and its central riverlands | Warm summers and distinct winters. Lowland winters are changeable, with cold spells and thaws; northern and western districts become colder toward the highlands. |
+| [[Addermarch]] and the [[Mostreve Hills]] | Warm summers and cool to cold winters, with milder lower valleys and colder, snowier uplands. |
+| [[Tyrwingha]] and the southern [[Western Gulf]] shore | Relatively moderated temperate lowlands, with warm summers and milder winters than exposed inland or elevated districts. Local fey effects are separate from this regional baseline. |
+| [[Tollen]] and the lower [[Volta]] | Moderately warm summers and winters that frequently alternate frost and thaw. Snow often melts between events. The main lower river normally remains open; sustained freezing is exceptional. |
+| [[Duchy of Maseau]] and [[March of Andonne]] lowlands | Hot summers and cooler winters, with greater seasonal contrast than the immediate gulf coast. The land becomes colder as it rises toward Aurbez and the Sentinels. |
+| [[Upper Istaros]] lowlands and historical [[Isingue]] | A warmer temperate transition toward the southern interior, with warm to hot summers and relatively mild winters. Present magical disruption in the [[Plaguelands]] does not establish the ordinary temperature regime. |
 
-The [[Nayan Floodplains]] take their temperature inspiration from the South African lowveld: warm to hot conditions with a gentler cool season than the elevated South African interior. Winter cooling diminishes southward toward and beyond the [[Shrev]]. The southern jungle country and [[Drankor]], around 18°N, occupy a broadly tropical warm regime. Drankor may have a more noticeable cooler season than an equatorial city, with Rio a closer tentative comparison than Panama. Its exact winter temperatures remain unassigned; hot weather during the May visit does not settle them. Historical Drankor's climate remains a separate question.
+### Northern Green Sea and the Far North
 
-### Highlands and regional detail
+The northern coast and its hinterland have increasingly long winters toward the north and interior. Maritime influence limits some extremes along the shore, while uplands and broad inland forests retain stronger cold. Summer warmth remains important in the inhabited coastal and river districts.
 
-Highlands create cooler conditions within all these broad belts. The [[Aurbez Plateau]] has the greater seasonal range and cool nights of an elevated continental setting, while adjoining lowlands are warmer. [[Zimkova]] has cold uplands and progressively colder conditions at greater elevation, with northern Rockies and Yellowstone inspirations suitable for parts of the region. Exact plateau heights, snowlines, and the division between forested and alpine country are regional design choices.
+| Area | Broad temperature character |
+| --- | --- |
+| Coastal [[Vostok]] and [[Skaerhem]] | Cooler summers and later spring warming than the Western Gulf. Winter freezing is more frequent or persistent than at Tollen, with maritime thaws still possible. Snow cover varies between islands and elevations; smaller island rivers freeze regularly. |
+| [[Ursk]] lowlands and settled valleys | Substantial cold winters followed by warm summers. Seasonal contrasts increase inland; the region does not require extreme Siberian winter temperatures. |
+| [[Great Northern Forest]] and the [[Ket]] hinterland | Long, severe winters, a late thaw, and short summers. Winter hardship increases northward, while lower and sheltered districts retain a usable warm season. |
+| [[Svinjo Mountains]] and [[Yengorza Mountains]] | Colder uplands and mountain interiors within the northern belt, with shorter summers than neighboring lowlands. |
+| [[Far North]] | Long, bitter winters and short summers, grading from subarctic country into polar conditions. Local climates and the limits of permanent ice remain largely undeveloped. |
 
-The continental model does not require fixed temperatures for every district. Its commitments are the connected warm-south to cold-north progression, uneven maritime moderation, the gentler southern western forests, the gradual Tollen–Skaerhem winter contrast, and cooler elevated country. Local temperature ranges, frost frequency, snow duration, and exceptional weather remain to be assigned where useful. Rainfall and vegetation boundaries will be tested separately against this temperature framework.
+The Tollen–Skaerhem contrast is a gradual transition across several hundred miles and several degrees of latitude. More frequent exposure to northern cold contributes to Skaerhem's winter severity; the northern Green Sea current also supports cooler summers and delayed spring warming. Regular freezing of smaller island rivers is compatible with an ordinarily open, large tidal lower Volta.
 
-%% Review context: This note records the temperature decisions adopted in the October 2026 continental review. Older regional notes have not yet been reconciled. In particular, [[Climate of the Northwestern Interior]] retains warmer-to-hotter summer and western Great Plains comparisons for Voltara and Erbalta; the revised target here is moderate summers and less severe ordinary winters. [[Climate of the Green Sea Shores]] retains a Russian Far East/Sakhalin comparison and broadly short, cool summers for Ursk; this revision adopts a St. Petersburg/Moscow temperature direction with meaningful summer warmth. These are changes to the working model, not additional independent observations. %%
+### Nevos shores and southern mainland
+
+The southern mainland grades from a subtropical coast and hot interior basins into tropical lowlands. Plateau height and proximity to the sea modify temperatures within this warm belt; deserts, grasslands, and jungles are distinguished by moisture as well as temperature.
+
+| Area | Broad temperature character |
+| --- | --- |
+| [[Darba]] and the northern [[Nevos Sea]] coast | Warm subtropical conditions with a noticeable cooler season. At Darba, coldest-month days commonly in the 50s–60s°F, with occasional hotter days and cooler nights, express the intended broad character. |
+| [[Illoria]] and the southern Nevos islands | **Broad extension:** warm maritime conditions, with subdued seasonal variation and cooler elevated interiors. The strength of the cool season varies with latitude. |
+| [[Dunmar]] and the [[Hara Basin]], including [[Tokra]] and [[Karawa]] | Hot summers and a cooler winter season, with stronger daytime heating inland. Basins and lowlands are warmer than nearby uplands; large day-to-night contrasts need not imply severe winter cold. |
+| [[Garamjala Plateau]] and adjoining [[Xurkhaz]] lowlands | A hot interior region with local elevation contrasts. The moderately elevated plateau can be less hot than the Hara Basin; lower river districts remain warm to hot. The plateau does not require an alpine desert temperature regime. |
+| [[Nayan Floodplains]] | Warm to hot lowlands with a gentle cool season. Winter cooling diminishes southward toward and beyond the [[Shrev]]. |
+| Lower [[Istaros]], [[Drankor]], and the [[Awakened Jungle]] coast | Broadly tropical warmth. The cool season may remain noticeable, but Drankor's exact winter temperatures are unassigned. Historical conditions require separate treatment. |
+
+### Southern and eastern Green Sea and the Far South
+
+The Green Sea's southern shores belong to a warmer belt than its northern forests. Inland deserts have greater daily and seasonal temperature contrasts than nearby maritime districts. Farther south, tropical lowlands have progressively weaker winter cooling.
+
+| Area | Broad temperature character |
+| --- | --- |
+| [[Cymean Peninsula]] coasts | Mild winters and warm to hot summers. Maritime moderation is particularly important along the coast facing the main Green Sea. |
+| [[Plataca Hills]], interior [[Cymea]], and [[Mistfold Mountains]] | Cooler and more seasonal than the low coasts, with colder winters and increasing summer cooling at elevation. |
+| Southern Cymean lowlands and [[Medju]] | Warm to hot lowlands with relatively mild winters. Immediate coastal districts have less temperature variation than inland basins. |
+| [[Great Desert]] and the subtropical interior of the [[Far South]] | A broadly hot interior belt, with cooler nights and a cooler season away from the tropics. Local heights and the southern transition remain too little developed for finer temperature assignments. |
+| [[Irrla]] and the distant southern Green Sea peninsulas | **Broad extension:** maritime moderation at low elevations and cooler interior highlands. Precise summer warmth and winter severity remain unassigned. |
+| [[Eastern Isles]] and the far eastern shores | A long north-to-south transition with strong ocean exposure. Detailed temperature regimes remain unmodeled; exceptional island weather cannot define the ordinary continental baseline. |
+| [[Orekatu]] and other tropical southern lowlands | Tropical warmth and a weak temperature-based winter season. Orekatu and the Drankor jungle coast are separate regions and need not share the same seasonal climate. |
+
+## Geographic basis and level of detail
+
+The geographic reference is [Taelgar Maps](https://chatgpt.com/space/page_6abfd6037a1c8191a306c9f729e2d77a). Small hexes measure 24 miles between opposite edges. Dashed latitude lines mark the equator, tropics, and Arctic Circle; dotted and solid lines mark five-degree intervals. The regional divisions above follow major coasts, watersheds, forests, and mountain systems in the [[Gazetteer]] rather than fixed climate boundaries.
+
+This is a qualitative working model. Rows marked **Broad extension** apply the continental framework to sparsely developed areas; they are model expectations rather than established local climates. [[Climate and Weather Constraints]] supplies the retained climatic requirements and evidence limits. Exact frost frequencies, snow durations, sea-ice limits, and historical or magical departures remain regional questions.
+
+%% Source alignment:
+- [[Climate of the Northwestern Interior]] retains warmer-to-hotter summer and western Great Plains comparisons for Voltara and Erbalta. This model instead uses moderate summers and less severe ordinary winters. [[Chasa River Valley]] describes occasional inland frost; the lowland treatment here makes frost occasional and localized rather than a regular regional feature.
+- [[Climate of the Green Sea Shores]] retains a Russian Far East/Sakhalin comparison and broadly short, cool summers for Ursk. This model gives inhabited Ursk a cold winter and meaningful summer warmth.
+- [[Climate and Weather Constraints]] excludes [[Irrla]] as a source of climate constraints and excludes exceptional Eastern Isles weather from ordinary physical requirements. Their older climate descriptions have not been imported here.
+- [[Taelgar Climatic Model]] and the regional atlas remain separate documents; this overview does not reconcile their older temperature descriptions or adopt their rainfall calendars.
+%%
 
 %% Physical references:
-- [NOAA on maritime air and terrain](https://www.noaa.gov/jetstream/ocean/marine-layer): illustrates why coastal cooling does not penetrate mountain barriers unchanged; it does not establish Taelgar's regional air routes.
-- [Met Office regional climates](https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates): maritime and continental influences as mechanisms for temperate seasonal variation.
-- [National Weather Service river ice guidance](https://www.weather.gov/lot/hydrology_education_observations): river ice and rapid freezing of smaller waterways; the Tollen–Skaerhem comparison remains an adopted qualitative model choice.
+- [NOAA on maritime air and terrain](https://www.noaa.gov/jetstream/ocean/marine-layer): terrain limits the unchanged inland penetration of coastal cooling.
+- [Met Office regional climates](https://www.metoffice.gov.uk/research/climate/maps-and-data/regional-climates): maritime and continental influences on temperate seasonal variation.
+- [National Weather Service river ice guidance](https://www.weather.gov/lot/hydrology_education_observations): river ice and rapid freezing of smaller waterways.
 %%
