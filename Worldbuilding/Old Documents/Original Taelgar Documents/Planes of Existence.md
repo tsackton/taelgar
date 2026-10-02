@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # The World of Taelgar (208 F.A.)
 
 Note: Any name placed in square brackets [] needs to be replaced. There may be other names that should be replaced, but are not in square brackets.
