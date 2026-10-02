@@ -42,6 +42,10 @@ The broad circulation has low pressure around the tropical rain belt, subtropica
 
 ### Summer
 
+![[assets/worldbuilding/taelgar-continental-pressure-summer-v1.png|1400]]
+
+*Broad summer pressure tendencies and prevailing surface winds. Red H marks higher pressure; blue L marks lower pressure or recurring lows. Arrows show where air travels.*
+
 **Ocean highs expand northward while heated land favors lower pressure.** The western subtropical high extends toward Chardon and the Coastlands, bringing stable, dry summer weather. Clockwise flow around it favors **north to northwest winds** along exposed western shores and **west to southwest winds** farther north. Passing ocean lows chiefly affect Mawar and the northern coast, with occasional incursions toward Valandros and the western forests.
 
 Across the warmer interior, heating encourages lower pressure and draws air inland from the surrounding seas. Along the Nevos, **west to southwest winds** carry summer moisture into Darba and Dunmar. Mountain shelter and moisture loss leave Hara and Garamjala progressively drier; hot interior low pressure can persist over very dry ground.
@@ -51,6 +55,10 @@ The working Green Sea pattern combines a **maritime high toward Irrla**, a **sum
 Farther south, the tropical rain belt shifts northward, helping extend seasonal rains into the southern mainland. **Easterly trade winds** remain the broad background flow outside the monsoon districts, supplying moisture to exposed tropical coasts and uplands.
 
 ### Winter
+
+![[assets/worldbuilding/taelgar-continental-pressure-winter-v1.png|1400]]
+
+*Broad winter pressure tendencies and prevailing surface winds, using the same basemap extent and symbols as the summer view.*
 
 **Cold continental highs strengthen while ocean storms become more active.** High pressure builds over the cold northern interior and uplands, including the Zimkova–Vostok country and the northern forests. Cold air spreads into the temperate districts in recurring **northerly and easterly outbreaks**. Mountain barriers and distance from the sea help these cold, dry conditions persist inland.
 
