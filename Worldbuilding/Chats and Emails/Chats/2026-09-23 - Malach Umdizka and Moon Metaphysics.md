@@ -1,12 +1,9 @@
+---
+tags: [status/check/ai]
+---
 # 2026-09-23 - Malach Umdizka and Moon Metaphysics
 
-[2026-09-23 02:01 PM] rsulfuratus: been very busy today but pushed another climate/hydrology/trade update. still in brainstorming
-
-[2026-09-23 07:39 PM] Deciusmus: I briefly looked at it, seems much more understandable. Will read in more detail in a bit...
-
-[2026-09-23 08:30 PM] rsulfuratus: btw - working on my next great library adventure - don't expect anything in particular but you often have good combat/treasure ideas and if you happen to glance at anything in the arc 6 zadkai returns and have any ideas or suggestions, send them off
-
-[2026-09-23 08:31 PM] rsulfuratus: same for the fey heart (though this is in less good shape overall)
+*[Editorial note: Cut 4 messages about document updates and requests to review adventure notes.]*
 
 [2026-09-23 08:35 PM] Deciusmus: So back to the Malach stuff...
 

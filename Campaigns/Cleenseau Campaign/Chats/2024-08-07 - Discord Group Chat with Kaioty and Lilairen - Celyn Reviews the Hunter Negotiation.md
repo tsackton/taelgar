@@ -1,0 +1,11 @@
+# 2024-08-07 - Discord Group Chat with Kaioty and Lilairen - Celyn Reviews the Hunter Negotiation
+
+%% Source: Discord channel 1110761291389345834. Discord group DM with .deciusmus, kaioty, and lilairen. %%
+
+[2024-08-07 04:26 AM] Lilairen: Celyn snorts softly.  "I don't know if it's a strategy.  I didn't think I had a strategy, I just know the steps of the dance.  But let's look at the situation we were in to start.  We were *down* in the ledger."  He is quiet for a moment, clearly trying to figure out what the actual accounts were.  "The thing about fey is they have rules.  There are always rules.  But they don't have to tell you what they are before there are consequences for breaking them.  And they don't always make sense, easily.  I'm still trying to figure out if Cleenseau has broken any rules other than 'be on claimed territory, so they feel they can do what they like'."
+    
+    His expression hardens; there's no sign, for a moment, of the happy-go-lucky Celyn, even in the slightly battered and exhausted form that he's been in, this young man has something dark and furious to him.  "It's something I understand about them, at least.  That there's things not to forgive."
+    
+    Then the moment passes and he's normal again, or what passes for normal.  "We were tresspassing on space they've claimed.  Even if we don't consider the claim legitimate, they `*`do*, and it's what they think that goes in their ledger.  Viepuck's trick didn't work out, that's another loss to our side.  But they open with 'come out or we'll kill you', a bargain, so odds are good we can trust that for at least a little while, secure some time, maybe some information, and I'm not so confident we can win that fight even before I spotted the Duskhound."  The last Duskhound, after all, did nearly kill him.
+    
+    "They ask why we're here, and we're *down* in the accounting, so I say we're there to find missing mortals.  Which doesn't actually give away that much because there's only a handful of reasons we *might* be there, and confirming which one doesn't say much. But it evens up the books a bit, giving that, and gives space for me to find a traditional negotiation gift and offer it in, which ... resets things a bit."

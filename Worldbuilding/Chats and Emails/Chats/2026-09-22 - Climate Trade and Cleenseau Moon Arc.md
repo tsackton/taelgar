@@ -1,18 +1,9 @@
+---
+tags: [status/check/ai]
+---
 # 2026-09-22 - Climate Trade and Cleenseau Moon Arc
 
-[2026-09-22 06:17 PM] rsulfuratus: i pushed "Trade in the Green Sea" and "Taelgar Climatic Model"
-
-[2026-09-22 06:17 PM] rsulfuratus: lmk if you have any comments. will likely revise a bunch of notes to solidify these and move them from worldbuilding to background soon, unless you see holes or problems
-
-[2026-09-22 06:21 PM] Deciusmus: Did you forget to push?
-
-[2026-09-22 06:21 PM] Deciusmus: Don’t see anything
-
-[2026-09-22 06:21 PM] rsulfuratus: ah yes. needed to rebase first. just pushed
-
-[2026-09-22 06:21 PM] rsulfuratus: both in brainstorming right now
-
-[2026-09-22 06:36 PM] Deciusmus: I read the climate model but I’m on the train so just read the GitHub page. It’s a little hard to follow without images
+*[Editorial note: Cut 7 messages about source-document review and push coordination.]*
 
 [2026-09-22 07:12 PM] Deciusmus: ok reading at home. it feels slightly disconnected from Sembara.
 
@@ -339,4 +330,4 @@
 
 [2026-09-22 10:23 PM] rsulfuratus: i think the basic idea has a lot of potential but it does need some jiggling/nudging/shaping
 
-[2026-09-22 10:24 PM] rsulfuratus: i'm not going to work on climate any more tonight but might push codexs latest revision unread, in case you want to look. but could be a little ai-sloppy
+*[Editorial note: Cut 1 message about source-document review and push coordination.]*
