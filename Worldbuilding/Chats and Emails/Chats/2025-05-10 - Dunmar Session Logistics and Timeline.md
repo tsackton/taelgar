@@ -2,24 +2,7 @@
 
 ## 2025-05-10
 
-May 10, 2025  6:29:40 PM
-Tim Sackton
-Session notes uploaded:
-
-
-May 10, 2025  6:29:42 PM
-Tim Sackton
-https://tsackton.github.io/taelgarverse/campaigns/dunmari-frontier/session-notes/session-123-dufr/
-Dunmari Frontier - Session 123 - TaelgarVerse
-
-
-May 10, 2025  6:31:32 PM
-Tim Sackton
-Also confirming next session on Tuesday may 13th. Let’s try to start promptly at 8 if possible. If Eric can join at some point, we’ll jump back to role play splitting the party with Seeker, Riswynn, and Delwath/Kenzo/Wellby heading off in their separate directions
-Tapbacks:
-Liked by David Schwartz
-
-
+*[Editorial note: Cut 3 messages about session-note uploads and real-world session scheduling.]*
 
 May 10, 2025  6:33:52 PM
 Tim Sackton

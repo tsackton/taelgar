@@ -1,8 +1,11 @@
 # 2024-08-12 - True Names
 
-[2024-08-12 12:11 PM] rsulfuratus: i added images for the rest of Delwath's items, curious what you think/if there are any that don't work for you
+*[Editorial note: Cut 1 message about item image review.]*
+
 [2024-08-12 12:14 PM] rsulfuratus: also not sure how I missed the question about true names / magic of names. don't really have thoughts other than kind of wanting to avoid layering too many things together. might make sense for dragons and/or fey? certainly seems kind of fey-ish to have names mean something...but no real strong feelings any way at the moment
-[2024-08-12 04:09 PM] Deciusmus: I like the Delwath items. The rod of the pact keeper is creepy but that seems reasonable given its origin
+
+*[Editorial note: Cut 1 message about item image review.]*
+
 [2024-08-12 04:11 PM] Deciusmus: On names, here is what I ended up telling my players...
     
     That said, to expand on the "aliases and names thing"....
@@ -30,4 +33,3 @@
     It is better to think of it as more along the lines of - the less well your fey adversary knows you, and the more obstacles or secondary interpretations you put in your words, the better.
 [2024-08-12 04:14 PM] Deciusmus: `[ in my head, I was basically thinking I didn't want to introduce yet another type of magic, although if dragons or something ends up having the concept, fine, there is a lot of "as far as you knows" in the above. But I think fey have enough going on without introducing the idea of True Names or whatever. And that the vibe of "hiding who you are" is better than something about the specific name ]`
 [2024-08-12 04:57 PM] rsulfuratus: yeah this all makes sense to me from a fey angle. possibly dragons have some secret "magic language" where names matter more or something (a callback to 'true magic' from high school) but that is for later and I agree the fey vibe is more about knowledge of who you are then any specific words
-

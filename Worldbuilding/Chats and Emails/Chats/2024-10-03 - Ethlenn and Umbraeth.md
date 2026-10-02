@@ -1,4 +1,0 @@
-# 2024-10-03 - Ethlenn and Umbraeth
-
-[2024-10-03 03:46 PM] Deciusmus: Any chance you had a chance to look at this? Doing some plotting for my next session and wanted to start dropping some hints
-

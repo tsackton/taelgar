@@ -10,8 +10,9 @@ The `**`Age of Creation** began after the [[Riving]], when the multiverse was cr
     
     The `**`Age of Humanity** began with the sinking of [[Hkar]] and the reshaping of the world that accompanied the [[The Downfall|Downfall]]. This age saw the rise and fall of Drankor, and the rise and fall of Cha'mutte, and much growth and change among human cultures. This age saw, for the first time, humanity growing to dominant the cultures of Taelgar, and the history of this age is dominated by the history of humanity.
 [2024-07-19 12:40 PM] Deciusmus: I like it
-[2024-07-19 12:46 PM] rsulfuratus: pushed a few small tweaks...still working through in 5-10 minute chunks around more pressing actual work
-[2024-07-19 12:56 PM] Deciusmus: Is it better to add feedback here or push my own tweaks?
+
+*[Editorial note: Cut 2 messages about work updates and review logistics.]*
+
 [2024-07-19 12:58 PM] Deciusmus: One comment:
     
 >` Throughout the long Age of Creation, the [[Land of the Dead]] formed an impermeable barrier to the magic of creation, through which only the [[Embodied Gods]] could reach
@@ -35,4 +36,3 @@ Descending "below" the material plane in this cosmology is the [[Ethereal Plane]
     
 Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by the [[Riving]], which still resonance today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the plane of souls, but others have been described, including the domains of the [[Shadowfolds]], the [[Nightmare Realm]], and the [[Mirror Realm]].
 [2024-07-19 09:24 PM] Deciusmus: I like that. I was playing around with using Shadowfells (plural) rather than Shadowfell, as a way to express the idea of different independent domains better
-

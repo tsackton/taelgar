@@ -4,7 +4,9 @@
     - push the exotic races and extra planar to own pages so I don’t have to publish them for my players and we can leave them less canon
     - rewrote Chardon to leave the northern west coast ambiguous
 [2024-07-13 11:48 AM] Deciusmus: I’m also simplifying Northros to leave the Vargardli in a comment and position Mawaran / Old Zimkovan / Deno’qai more as examples of a wide undefined set
-[2024-07-13 11:48 AM] rsulfuratus: I'm in the process of updating the West Coast history in the worldbuilding/background with a bit more thinking
+
+*[Editorial note: Cut 1 message about work updates.]*
+
 [2024-07-13 11:49 AM] Deciusmus: The biggest question for me that’s outstanding before finalizing some version of the languages doc is Vosic/Vostok language
 [2024-07-13 11:50 AM] rsulfuratus: in my west coast thinking I am feeling like there is, potentially a missing cultural group. the issue is that a lot of the stuff that's happened north of charrdon is kind of dubiously canonical - all from high school campaign and my game with Isaac
 [2024-07-13 11:50 AM] rsulfuratus: but I think this impinges on the Vos a bit as well, who are fairly unsatisfyingly developed IMO
@@ -171,6 +173,5 @@
     (b) an update my  Synthesis of Humanity in Greater Sembara doc in background
     1. Introduces and clarifies the key idea here of Zimka/Tollish/Skaer and the evolution
     2. Mentions the problem of Vostok and some of the non-canonical ideas here
-[2024-07-13 01:00 PM] Deciusmus: I'll push both and tag status/tim. My goal is to publish the language doc for Kiya at least (she wants details on what languages and alphabets Celyn knows) by the end of the weekend or early next week
-[2024-07-13 06:15 PM] Deciusmus: Final language page per the above is pushed
 
+*[Editorial note: Cut 2 messages about publishing and completion updates.]*
