@@ -14,7 +14,8 @@
 ![[Worldbuilding/Chats and Emails/_assets/discord/image-A49FE.png]]
 [2026-02-28 09:57 AM] rsulfuratus: so this is complelety consistent with your interstial space (the red) between serenveil (gray) and duskmire (purple)
 [2026-02-28 09:58 AM] rsulfuratus: i think this is how i have always imagined things, and the exact border of serenveil is not that important
-[2026-02-28 09:58 AM] Deciusmus: (we are about to eat breakfast, but more in a bit)
+*[Editorial note: Cut 1 message about personal logistics.]*
+
 [2026-02-28 09:59 AM] rsulfuratus: what is not clear is whether morlaith's domain extends to twilight's grace. i'm not sure it does - i had originally had a small vassal of ethlenn, plus some incursions from harrow & wend, on the southeastern part of addermarch
 [2026-02-28 10:25 AM] Deciusmus: Yeah I like a vassal realm on the other east of morliath
 [2026-02-28 10:25 AM] Deciusmus: That is I think that map is pretty good. My open question would be what’s north and is there anything between serenveil and morliath
@@ -129,7 +130,8 @@
 [2026-02-28 11:27 AM] Deciusmus: I like the swamp idea, and I think it might be an interesting place to have time be unusually off from Taelgar
 [2026-02-28 11:30 AM] rsulfuratus: Personally if I were writing your next session I’d just make the serenveil wall curve to reduce the stuff you need to make up
 [2026-02-28 11:30 AM] rsulfuratus: But I think the ancient swamp idea is good
-[2026-02-28 11:30 AM] rsulfuratus: And I’m doing D&D this afternoon anyway if you want to try to flesh it out more into an adventure
+*[Editorial note: Cut 1 message about availability coordination.]*
+
 [2026-02-28 11:34 AM] Deciusmus: For next session, half the adventure is going to be escaping Duskmire which I have already written. So I only need the first part of outside of Duskmire feywild.
     
     Basically, I think developing the Sembaran feywild a bit would be good and I was toying with whether we had a good enough idea to use this adventure as an excuse
@@ -139,4 +141,4 @@
     The flow is basically escape Duskmire ->` encounter in the interstial space ->` decision about north (which I might eliminate as an option) / Serenveil / south ->` 1st encouter in whichever way they could
 [2026-02-28 11:36 AM] Deciusmus: `*`way they go
 [2026-02-28 11:37 AM] Deciusmus: So if I have enough of a solid idea about what is to the north to write the first encounter this weekend, I have another month to flesh it out before my April game...
-[2026-02-28 11:38 AM] Deciusmus: Anyway, I'm going to get my haircut, but I'll think about fey swamp ideas and maybe suggest a few things later this afternoon
+*[Editorial note: Cut 1 message about personal logistics.]*

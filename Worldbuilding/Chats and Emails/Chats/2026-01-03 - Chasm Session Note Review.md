@@ -1,7 +1,0 @@
-# 2026-01-03 - Chasm Session Note Review
-
-[2026-01-03 07:55 PM] Deciusmus: Were you planning on session notes before chasm session 4?
-
-[2026-01-03 08:27 PM] rsulfuratus: yes
-
-[2026-01-03 08:28 PM] rsulfuratus: session 2 just needs your review. i'm hoping to finish session 3 tomorrow

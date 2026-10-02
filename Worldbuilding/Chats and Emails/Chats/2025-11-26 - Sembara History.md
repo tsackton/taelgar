@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2025-11-26 - Sembara History
 
 *[Editorial note: Cut 1 message about personal logistics and source-update coordination.]*

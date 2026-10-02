@@ -1,6 +1,7 @@
 # 2026-05-30 - Addermarch and Fey
 
-[2026-05-30 11:17 AM] rsulfuratus: i am doing an experiment in a little more intentional adventure design and a little more organized notes. i put an adventure design template in `_dm_notes` based on the Angry GM stuff if it is useful to you
+*[Editorial note: Cut 1 message about adventure-template sharing and note organization.]*
+
 [2026-05-30 03:14 PM] Deciusmus: I’m doing a bit of prep for my game tomorrow which is the “find a way into serenveil” and then some roleplaying in twilights grace. 
     
     My thinking on the border of serenveil—
