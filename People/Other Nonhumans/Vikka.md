@@ -7,7 +7,7 @@ knownTo: [clee]
 ---
 # Vikka
 
-Vikka is Drubgrak's sister and one of the kobolds who wanted to escape [[Krauzeth]]. She surrendered to the party near [[Marwick]] and helped arrange the ambush that killed him.
+Vikka is a kobold, [[Drubgrak|Drubgrak's]] sister, and one of the kobolds who wanted to escape [[Krauzeth]]. She surrendered to the party near [[Marwick]] and helped arrange the ambush that killed him.
 
 %% Sources:
 - [[Dragon Arc - Details]]

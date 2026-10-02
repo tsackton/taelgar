@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-07-26 - Holiday Names and Tentative Geography
 
 *[Editorial note: Cut 1 message about vault organization and name-explorer tooling.]*

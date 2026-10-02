@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 name: Brot Starsearcher
 born: 1579
 species: dwarf
@@ -8,8 +8,9 @@ aliases: [Brot]
 gender: nonbinary
 whereabouts:
 - {type: home, location: Am'khazar}
-- {type: home, start: 1670, location: Taviose}
+- {type: home, start: 1670, end: 1720-04-30, location: Taviose}
 - {type: away, start: 1719-11-21, end: 1719-12-23, location: Dunfry}
+- {type: home, start: 1720-05-01, location: Asineau }
 dm_notes: color
 dm_owner: mike
 ---

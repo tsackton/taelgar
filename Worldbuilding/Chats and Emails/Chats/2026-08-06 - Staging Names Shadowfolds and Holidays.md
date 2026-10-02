@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-08-06 - Staging Names Shadowfolds and Holidays
 
 *[Editorial note: Cut 5 messages about vault organization and naming-tool updates.]*

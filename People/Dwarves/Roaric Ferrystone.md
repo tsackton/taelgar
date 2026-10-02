@@ -4,7 +4,7 @@ species: dwarf
 gender: male
 name: Roaric Ferrystone
 affiliations: [{org: Ferrystones, type: primary}]
-whereabouts: Beury
+whereabouts: Asineau
 knownTo: [clee]
 ---
 # Roaric Ferrystone

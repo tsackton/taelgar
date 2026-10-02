@@ -1,6 +1,7 @@
 ---
 tags: [person, status/check/ai]
 species: human
+ancestry: Tyrwinghan
 gender: female
 name: Rhiannon Greencloak
 affiliations: [{org: Archfey Ethlenn, type: member, title: warlock}]

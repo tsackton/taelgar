@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-08-05 - Language Names Slate Sea and Vault Links
 
 [2026-08-05 08:56 AM] Deciusmus: on the topic of naming... any sense of what the right name for these two languages might be?

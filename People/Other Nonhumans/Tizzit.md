@@ -8,7 +8,7 @@ knownTo: [clee]
 ---
 # Tizzit
 
-Tizzit was an older kobold matriarch and spellcaster sworn to protect [[Krauzeth]] and restore him to [[Vraedhul|Vraedhul's]] legacy. The party killed her in Krauzeth's lair.
+Tizzit was a kobold who led the followers of [[Krauzeth]] who favored strengthening the dragon cautiously. The party killed her in Krauzeth's lair on July 5, DR 1720.
 
 %% Sources:
 - [[Dragon Arc - Details]]
