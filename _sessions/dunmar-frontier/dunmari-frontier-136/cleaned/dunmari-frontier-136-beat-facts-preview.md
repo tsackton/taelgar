@@ -10,14 +10,14 @@
 **Time Window**: unknown
 **Combat**: no
 **Short Summary**: The party rests with Rai and learns how his attempt to heal Isingue trapped him in Limbo.
-**Long Summary**: During a long rest in the monks' sanctuary, the party hears how Rai reinforced Apollyon's prison in Drankor and hid the phylactery before returning to the unfinished consequences of the Great War. At Isingue, a ritual intended to close a portal instead tore Rai and the monks into Limbo; Rai saved most of them and sent Dimitaur for help. His absence and Apollyon's later escape were separate events, the latter enabled by Fausto and the Cleansed. Rai has experienced only about five years while roughly thirty passed outside.
+**Long Summary**: During a long rest in the monks' sanctuary, the party hears how Rai reinforced Apollyon's prison in Drankor and hid the phylactery before returning to the unfinished consequences of the Great War. At Isingue, a ritual intended to close a portal instead tore Rai and the monks into Limbo; Rai saved most of them and sent Dimitaur for help. His absence and Apollyon's later attempted escape were separate events, the latter enabled by Fausto and the Cleansed. Rai has experienced only about five years while roughly thirty passed outside.
 **Location**:
 - Limbo: Rai and the monks' stable sanctuary
 **NPCs**:
 - Rai (encountered): Sustaining the monks' sanctuary while contesting control of the relic.
 - Dimitaur (mentioned): Rai sent him for help when pulled into Limbo.
 - Apollyon (mentioned): Rai previously reinforced his prison.
-- Fausto (mentioned): Enabled Apollyon's later escape through the Cleansed.
+- Fausto (mentioned): Enabled Apollyon's later attempted escape through the Cleansed.
 **Items**:
 - Apollyon's phylactery (mentioned): Rai concealed it after Cha'mutte's death.
 **Organizations**:
@@ -178,15 +178,15 @@
 **Date**: 1749-09-16
 **Time Window**: unknown
 **Combat**: no
-**Short Summary**: Seeker rotates the tower's orientation and Delwath leads an invisible passage past the frozen-lightning guardian.
-**Long Summary**: Examining the violet orb through his goggles, Seeker finds a lever that changes the direction of the floor by ninety degrees. The next level holds inscribed statues and an empty pedestal, together with a giant made of frozen lightning whose presence carries thunder. Seeker uses Legend Lore, but the party chooses to avoid a confrontation: Delwath makes them invisible and they sneak across with Kenzo and Wellby guiding them.
+**Short Summary**: The violet orb transports the party to the statue floor, where Delwath leads them invisibly past the frozen-lightning guardian.
+**Long Summary**: Examining the violet orb through his goggles, Seeker finds a lever. Turning it transports the party to another violet orb, shifting their orientation by ninety degrees. The room holds inscribed statues and an empty pedestal, together with a giant made of frozen lightning whose presence carries thunder. Seeker identifies the giant's ritual as Legend Lore, used to study one of the statues. The party chooses to avoid a confrontation: Delwath makes them invisible and they sneak across with Kenzo and Wellby guiding them.
 **Location**:
-- Entrance foyer (Impossible Tower) -> Library approach (Impossible Tower): Through the rotated statue floor
+- Entrance foyer (Impossible Tower) -> Library approach (Impossible Tower): Through the statue-lined room
 **NPCs**:
 - Frozen-lightning guardian (encountered): Bypassed using invisibility; not fought.
 **Items**:
 - Seeker's goggles (encountered): Used to examine the tower's mechanisms and the relic.
-- Violet orb (encountered): Its lever changes the tower's orientation.
+- Violet orb (encountered): Its lever transports the party to another violet orb, shifting their orientation by ninety degrees.
 - Inscribed statues (encountered): Include Pel Ossa and other named warriors, with one large pedestal empty.
 **Organizations**: none
 
@@ -277,7 +277,7 @@
 **Time Window**: unknown
 **Combat**: no
 **Short Summary**: The notebooks describe an ancient war and the key opens a portal in the library's solid air.
-**Long Summary**: Delwath reads fragments of the notebooks, which apparently preserve deeds of warriors such as Pel Ossa and memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle that marks an invisible solid-air barrier rather than a warning trap. Tests with a bat, Arcane Eye, and Mage Hand reveal a keyhole; the black-metal key opens a portal. Scouting beyond it reveals two statues and a door in the ceiling. Eleven gemstone discs may relate to the thirteen statues, but the correspondence remains unresolved.
+**Long Summary**: Delwath reads fragments of the notebooks, which apparently preserve deeds of warriors such as Pel Ossa and memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle that marks a solid-air barrier rather than a warning trap. Tests with a bat, Arcane Eye, and Mage Hand reveal a keyhole; the black-metal key opens a portal. Scouting beyond it reveals two statues and a door in the ceiling. Eleven gemstone discs may relate to the thirteen statues, but the correspondence remains unresolved.
 **Location**:
 - Impossible Tower: Library and portal threshold
 **NPCs**: none
@@ -310,11 +310,11 @@
 **Time Window**: unknown
 **Combat**: no
 **Short Summary**: Truesight exposes the Queen of Ash and her defenders behind an illusory vista.
-**Long Summary**: The hatch opens onto a seemingly immense shifting landscape, but truesight reveals a chamber only about forty feet across. The Queen of Ash waits with another metallic-blood defender, a centaur, many dust-cloud minions, and an invisible Essence of Mist near the hatch. The party identifies her as the ancient being contesting the relic with Rai: she is trying to draw Limbo into the Material Plane to undo chaos' defeat by Order. No relic is visible, and the party chooses to fight.
+**Long Summary**: The hatch opens onto a seemingly immense shifting landscape, but truesight reveals a chamber only about forty feet across. The Queen of Ash waits with another metallic-blood defender, a centaur, many dust-cloud minions, and an invisible Essence of Mist near the hatch. The party recalls Rai's warning that she is drawing Limbo into the Material Plane; Delwath interprets her purpose as undoing chaos' defeat by Order. No relic is visible, and the party chooses to fight.
 **Location**:
 - Impossible Tower: Hatch above the Queen of Ash's chamber
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur (enemy): Armored defender in the queen's chamber.
 - Essence of Mist (enemy): Invisible defender that can enter and hide inside another creature.
@@ -334,7 +334,7 @@
 **Location**:
 - Impossible Tower: Hatch above the Queen of Ash's chamber
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 **Items**:
 - Animated ladder (encountered): Seeker's animated object used as an ally in combat and to climb between floors.
 **Organizations**: none
@@ -346,7 +346,7 @@
 **Time Window**: unknown
 **Combat**: yes (start)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur: Armored defender in the queen's chamber.
 - Essence of Mist: Invisible defender that can enter and hide inside another creature.
@@ -357,7 +357,7 @@
 **Location**:
 - Impossible Tower: Queen of Ash's chamber
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur (enemy): Armored defender in the queen's chamber.
 - Essence of Mist (enemy): Invisible defender that can enter and hide inside another creature.
@@ -374,7 +374,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 **Combat Notes**: The queen moves between the floor and hatch, attacks Wellby, and turns Kenzo into ash.
 **Short Summary**: The queen moves between the floor and hatch, attacks Wellby, and turns Kenzo into ash.
@@ -382,7 +382,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber and hatch
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Triceratops (companion): Summoned from Wellby's figurine; vulnerable to Sickening Radiance.
 **Items**:
@@ -438,7 +438,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 **Combat Notes**: Delwath, Wellby, and dragon Seeker concentrate their attacks on the queen.
 **Short Summary**: Delwath, Wellby, and dragon Seeker concentrate their attacks on the queen.
@@ -446,7 +446,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Triceratops (companion): Exhausted by the radiance but still supporting Wellby.
 **Items**: none
@@ -459,7 +459,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur: Armored defender in the queen's chamber.
 - Dust-cloud minions: Small hostile clouds in and above the queen's chamber.
@@ -469,7 +469,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber and upper hatch
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur (enemy): Armored defender in the queen's chamber.
 - Dust-cloud minions (enemy): Small hostile clouds in and above the queen's chamber.
@@ -484,7 +484,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur: Armored defender in the queen's chamber.
 - Essence of Mist: Invisible defender that can enter and hide inside another creature.
@@ -494,7 +494,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Metallic centaur (enemy): Armored defender in the queen's chamber.
 - Essence of Mist (enemy): Invisible defender that can enter and hide inside another creature.
@@ -508,14 +508,14 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 **Combat Notes**: The queen's last ash burst knocks Wellby unconscious and Seeker shields him with his dragon body.
 **Short Summary**: The queen's last ash burst knocks Wellby unconscious and Seeker shields him with his dragon body.
 **Long Summary**: Wellby heals himself, shoots the badly wounded queen, and readies another attack. Her final sweeping ash burst hits everyone below the hatch; Kenzo and Delwath resist, but Wellby collapses and falls from the dragon with a failed death save. Seeker uses a legendary resistance to reduce the damage and preserve his form, then crouches protectively over Wellby while the exhausted triceratops tries to guard him.
 **Location**:
 - Impossible Tower: Queen's chamber floor and dragon Seeker's back
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Triceratops (companion): Helps guard the unconscious Wellby.
 **Items**: none
 **Organizations**: none
@@ -527,7 +527,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Essence of Mist: Invisible defender that can enter and hide inside another creature.
 - Metallic centaur: Armored defender in the queen's chamber.
@@ -538,7 +538,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber and upper hatch
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Essence of Mist (enemy): Invisible defender that can enter and hide inside another creature.
 - Metallic centaur (enemy): Armored defender in the queen's chamber.
@@ -554,7 +554,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Essence of Mist: Invisible defender that can enter and hide inside another creature.
 - Metallic centaur: Armored defender in the queen's chamber.
@@ -564,7 +564,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber and upper hatch
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Essence of Mist (enemy): Invisible defender that can enter and hide inside another creature.
 - Metallic centaur (enemy): Armored defender in the queen's chamber.
@@ -578,7 +578,7 @@
 **Time Window**: unknown
 **Combat**: yes (middle)
 **Main Enemies**:
-- Queen of Ash: Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash: Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender: A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Essence of Mist: Invisible defender that can enter and hide inside another creature.
 **Combat Notes**: Delwath kills the queen and revives Wellby, and the triceratops destroys the Essence of Mist.
@@ -587,7 +587,7 @@
 **Location**:
 - Impossible Tower: Queen's chamber and upper hatch
 **NPCs**:
-- Queen of Ash (enemy): Ancient Limbo being trying to draw Limbo into the Material Plane.
+- Queen of Ash (enemy): Ancient Limbo being that Rai says is drawing Limbo into the Material Plane.
 - Metallic-blood defender (enemy): A polearm-wielding creature formed from liquid metal and blood; separate defenders appear in the library and queen's chamber.
 - Essence of Mist (enemy): Invisible defender that can enter and hide inside another creature.
 - Triceratops (companion): Destroys the mist before reverting to its figurine.

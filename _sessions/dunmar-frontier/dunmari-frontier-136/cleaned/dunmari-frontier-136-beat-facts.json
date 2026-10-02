@@ -8,7 +8,7 @@
       "dateEnd": null,
       "timeWindow": null,
       "shortSummary": "The party rests with Rai and learns how his attempt to heal Isingue trapped him in Limbo.",
-      "longSummary": "During a long rest in the monks' sanctuary, the party hears how Rai reinforced Apollyon's prison in Drankor and hid the phylactery before returning to the unfinished consequences of the Great War. At Isingue, a ritual intended to close a portal instead tore Rai and the monks into Limbo; Rai saved most of them and sent Dimitaur for help. His absence and Apollyon's later escape were separate events, the latter enabled by Fausto and the Cleansed. Rai has experienced only about five years while roughly thirty passed outside.",
+      "longSummary": "During a long rest in the monks' sanctuary, the party hears how Rai reinforced Apollyon's prison in Drankor and hid the phylactery before returning to the unfinished consequences of the Great War. At Isingue, a ritual intended to close a portal instead tore Rai and the monks into Limbo; Rai saved most of them and sent Dimitaur for help. His absence and Apollyon's later attempted escape were separate events, the latter enabled by Fausto and the Cleansed. Rai has experienced only about five years while roughly thirty passed outside.",
       "location": {
         "kind": "fixed",
         "primary": "Limbo",
@@ -33,7 +33,7 @@
         {
           "name": "Fausto",
           "role": "mentioned",
-          "notes": "Enabled Apollyon's later escape through the Cleansed."
+          "notes": "Enabled Apollyon's later attempted escape through the Cleansed."
         }
       ],
       "items": [
@@ -415,13 +415,13 @@
       "dateStart": "1749-09-16",
       "dateEnd": null,
       "timeWindow": null,
-      "shortSummary": "Seeker rotates the tower's orientation and Delwath leads an invisible passage past the frozen-lightning guardian.",
-      "longSummary": "Examining the violet orb through his goggles, Seeker finds a lever that changes the direction of the floor by ninety degrees. The next level holds inscribed statues and an empty pedestal, together with a giant made of frozen lightning whose presence carries thunder. Seeker uses Legend Lore, but the party chooses to avoid a confrontation: Delwath makes them invisible and they sneak across with Kenzo and Wellby guiding them.",
+      "shortSummary": "The violet orb transports the party to the statue floor, where Delwath leads them invisibly past the frozen-lightning guardian.",
+      "longSummary": "Examining the violet orb through his goggles, Seeker finds a lever. Turning it transports the party to another violet orb, shifting their orientation by ninety degrees. The room holds inscribed statues and an empty pedestal, together with a giant made of frozen lightning whose presence carries thunder. Seeker identifies the giant's ritual as Legend Lore, used to study one of the statues. The party chooses to avoid a confrontation: Delwath makes them invisible and they sneak across with Kenzo and Wellby guiding them.",
       "location": {
         "kind": "journey",
         "from": "Entrance foyer (Impossible Tower)",
         "to": "Library approach (Impossible Tower)",
-        "context": "Through the rotated statue floor"
+        "context": "Through the statue-lined room"
       },
       "npcs": [
         {
@@ -439,7 +439,7 @@
         {
           "name": "Violet orb",
           "role": "encountered",
-          "notes": "Its lever changes the tower's orientation."
+          "notes": "Its lever transports the party to another violet orb, shifting their orientation by ninety degrees."
         },
         {
           "name": "Inscribed statues",
@@ -638,7 +638,7 @@
       "dateEnd": null,
       "timeWindow": null,
       "shortSummary": "The notebooks describe an ancient war and the key opens a portal in the library's solid air.",
-      "longSummary": "Delwath reads fragments of the notebooks, which apparently preserve deeds of warriors such as Pel Ossa and memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle that marks an invisible solid-air barrier rather than a warning trap. Tests with a bat, Arcane Eye, and Mage Hand reveal a keyhole; the black-metal key opens a portal. Scouting beyond it reveals two statues and a door in the ceiling. Eleven gemstone discs may relate to the thirteen statues, but the correspondence remains unresolved.",
+      "longSummary": "Delwath reads fragments of the notebooks, which apparently preserve deeds of warriors such as Pel Ossa and memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle that marks a solid-air barrier rather than a warning trap. Tests with a bat, Arcane Eye, and Mage Hand reveal a keyhole; the black-metal key opens a portal. Scouting beyond it reveals two statues and a door in the ceiling. Eleven gemstone discs may relate to the thirteen statues, but the correspondence remains unresolved.",
       "location": {
         "kind": "fixed",
         "primary": "Impossible Tower",
@@ -704,7 +704,7 @@
       "dateEnd": null,
       "timeWindow": null,
       "shortSummary": "Truesight exposes the Queen of Ash and her defenders behind an illusory vista.",
-      "longSummary": "The hatch opens onto a seemingly immense shifting landscape, but truesight reveals a chamber only about forty feet across. The Queen of Ash waits with another metallic-blood defender, a centaur, many dust-cloud minions, and an invisible Essence of Mist near the hatch. The party identifies her as the ancient being contesting the relic with Rai: she is trying to draw Limbo into the Material Plane to undo chaos' defeat by Order. No relic is visible, and the party chooses to fight.",
+      "longSummary": "The hatch opens onto a seemingly immense shifting landscape, but truesight reveals a chamber only about forty feet across. The Queen of Ash waits with another metallic-blood defender, a centaur, many dust-cloud minions, and an invisible Essence of Mist near the hatch. The party recalls Rai's warning that she is drawing Limbo into the Material Plane; Delwath interprets her purpose as undoing chaos' defeat by Order. No relic is visible, and the party chooses to fight.",
       "location": {
         "kind": "fixed",
         "primary": "Impossible Tower",
@@ -714,7 +714,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -765,7 +765,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         }
       ],
       "items": [
@@ -796,7 +796,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -838,7 +838,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -876,7 +876,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -903,7 +903,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -1022,7 +1022,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -1043,7 +1043,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -1069,7 +1069,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -1101,7 +1101,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -1135,7 +1135,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -1161,7 +1161,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -1195,7 +1195,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Triceratops",
@@ -1211,7 +1211,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           }
         ],
         "notes": "The queen's last ash burst knocks Wellby unconscious and Seeker shields him with his dragon body."
@@ -1233,7 +1233,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -1270,7 +1270,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -1308,7 +1308,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -1334,7 +1334,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",
@@ -1368,7 +1368,7 @@
         {
           "name": "Queen of Ash",
           "role": "enemy",
-          "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+          "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
         },
         {
           "name": "Metallic-blood defender",
@@ -1400,7 +1400,7 @@
         "mainEnemies": [
           {
             "name": "Queen of Ash",
-            "notes": "Ancient Limbo being trying to draw Limbo into the Material Plane."
+            "notes": "Ancient Limbo being that Rai says is drawing Limbo into the Material Plane."
           },
           {
             "name": "Metallic-blood defender",

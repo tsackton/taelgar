@@ -4,7 +4,7 @@
 
 - Title: Session 136 (DuFr)
 - Desc Title: Let the World Move On
-- Tagline: in which Seeker seals Limbo and Rai finally rests
+- Tagline: in which Seeker seals the wound and Rai rests
 - One-Sentence Summary: The Dunmar Fellowship defeats the Queen of Ash, recovers a planar relic, and seals the wound between Limbo and the Material Plane before rescuing the monks and witnessing Rai's farewell.
 - Campaign: Dunmari Frontier
 - Arc: none
@@ -77,7 +77,7 @@ The fellowship rests with Rai, learns how he became trapped in Limbo, and prepar
 Rai explains that his attempt to heal Isingue tore him and the monks into Limbo, where he has preserved their sanctuary while resisting an ancient being's control of a planar relic. After the fellowship rests, he pulls the sanctuary closer to the relic's tower and arranges a tethered return once they signal him.
 
 #### Long
-While the fellowship rests among the stranded monks, Rai recounts the unfinished work of the Great War. After Cha'mutte's death, he reinforced Apollyon's prison and concealed the phylactery; only later did he turn to the wound at Isingue. The ritual there treated the wound as a portal, and instead tore Rai and the monks into Limbo, shattering his hand. He saved most of the monks and sent a desperate request for help to Dimitaur. Apollyon's subsequent escape was a separate crisis, enabled by Fausto and the corrupted Cleansed. Rai has experienced about five years while roughly thirty passed outside. The monks now resist dissolution through constant routines, while Rai both sustains their refuge and contests a relic with an ancient Limbo being. He draws the sanctuary closer along a green-gold tether, warns that removing the relic may unravel the region, and tells the fellowship how to signal him for retrieval.
+While the fellowship rests among the stranded monks, Rai recounts the unfinished work of the Great War. After Cha'mutte's death, he reinforced Apollyon's prison and concealed the phylactery; only later did he turn to the wound at Isingue. The ritual there treated the wound as a portal, and instead tore Rai and the monks into Limbo, shattering his hand. He saved most of the monks and sent a desperate request for help to Dimitaur. Apollyon's subsequent attempted escape was a separate crisis, enabled by Fausto and the corrupted Cleansed. Rai has experienced about five years while roughly thirty passed outside. The monks now resist dissolution through constant routines, while Rai both sustains their refuge and contests a relic with an ancient Limbo being. He draws the sanctuary closer along a green-gold tether, warns that removing the relic may unravel the region, and tells the fellowship how to signal him for retrieval.
 
 ### recap-002 | Approaching the Impossible Tower
 
@@ -158,13 +158,13 @@ The tower redirects all three pairs: Kenzo and Seeker appear outside, Delwath an
 - Image Alt:
 
 #### Short
-A hidden lever changes the tower's orientation, and they slip invisibly past a frozen-lightning guardian to reach the library.
+A hidden lever transports them to a statue-lined room, where they slip invisibly past a frozen-lightning guardian toward the library.
 
 #### Intermediate
-Seeker finds a lever in the foyer's violet orb that rotates their sense of the floor by ninety degrees. Beyond it stand inscribed statues, an empty pedestal, and a giant of frozen lightning. After examining the scene, Delwath makes the fellowship invisible so they can cross without fighting the guardian.
+Turning a lever in the foyer's violet orb transports the fellowship to another orb, shifting their orientation by ninety degrees. They emerge among inscribed statues, an empty pedestal, and a giant of frozen lightning. After examining the scene, Delwath makes the fellowship invisible so they can cross without fighting the guardian.
 
 #### Long
-With the entrance clear, Seeker studies the violet orb through his goggles and discovers a lever that turns the tower's orientation through ninety degrees. The next floor displays several statues of named warriors, including Pel Ossa, and one empty large pedestal. A giant shaped from frozen lightning stands among them, its presence accompanied by thunder. Seeker consults Legend Lore, but the fellowship chooses to preserve its strength rather than confront the guardian. Delwath makes them invisible, and Kenzo and Wellby guide the group across the strange floor toward the library.
+With the entrance clear, Seeker studies the violet orb through his goggles and discovers a lever. Turning it draws the fellowship into the light and transports them to another violet orb, with their orientation shifted by ninety degrees. The room displays several statues of named warriors, including Pel Ossa, and one empty large pedestal. A giant shaped from frozen lightning stands among them, its presence accompanied by thunder. Seeker identifies the giant's ritual as Legend Lore, used to study one of the statues. The fellowship chooses to preserve its strength rather than confront the guardian. Delwath makes them invisible, and Kenzo and Wellby guide the group across the strange floor toward the library.
 
 ### recap-005 | The last stand of Seeker 6
 
@@ -219,10 +219,10 @@ The library lies upside down relative to their approach, with Seeker 6 and the a
 After a brief rest, they uncover primordial-war notebooks and use a hidden key to reach the queen's trapped hatch.
 
 #### Intermediate
-Delwath's Prayer of Healing gives them a ten-minute rest while Wellby finds a black-metal key, runic gemstone discs, and three notebooks. The texts seem to describe a war before time and Limbo; the key opens an invisible solid-air portal. Beyond it, changing gravity complicates their climb until Seeker dispels the hatch's rune and Wellby picks the lock.
+Delwath's Prayer of Healing gives them a ten-minute rest while Wellby finds a black-metal key, runic gemstone discs, and three notebooks. The texts seem to describe a war before time and Limbo; the key opens a solid-air portal. Beyond it, changing gravity complicates their climb until Seeker dispels the hatch's rune and Wellby picks the lock.
 
 #### Long
-The fellowship pauses to recover and mourn Seeker 6. Delwath's Prayer of Healing compresses their rest into ten minutes, while Wellby searches the desks: one drawer hides a key in stone that behaves like water, an illusory desktop conceals runic gemstone discs, and a wooden desk holds three notebooks. Delwath finds accounts of warriors such as Pel Ossa and what appear to be memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle and discovers that it marks an invisible solid-air barrier. A bat, Arcane Eye, and Mage Hand help test it, and the black-metal key opens a portal. Scouting reveals two more statues and a ceiling door; the eleven gemstone discs may be related to the thirteen statues they have seen, but their operation remains unclear. The fellowship crosses and climbs with the animated ladder, anchoring a rope when gravity reverses. Seeker dispels a trap sigil on the hatch, and Wellby opens its lock.
+The fellowship pauses to recover and mourn Seeker 6. Delwath's Prayer of Healing compresses their rest into ten minutes, while Wellby searches the desks: one drawer hides a key in stone that behaves like water, an illusory desktop conceals runic gemstone discs, and a wooden desk holds three notebooks. Delwath finds accounts of warriors such as Pel Ossa and what appear to be memories of a war against the Plane of Order before time or Limbo existed. Seeker investigates a runic circle and discovers that it marks a solid-air barrier. A bat, Arcane Eye, and Mage Hand help test it, and the black-metal key opens a portal. Scouting reveals two more statues and a ceiling door; the eleven gemstone discs may be related to the thirteen statues they have seen, but their operation remains unclear. The fellowship crosses and climbs with the animated ladder, anchoring a rope when gravity reverses. Seeker dispels a trap sigil on the hatch, and Wellby opens its lock.
 
 ### recap-007 | Beyond the queen's illusion
 
@@ -251,7 +251,7 @@ Through the hatch, they discover the Queen of Ash behind an illusory landscape a
 Truesight exposes a chamber only forty feet across beneath the vast illusory landscape. The Queen of Ash waits with a metallic-blood defender, a centaur, the invisible Essence of Mist, and dust-cloud minions. With no relic visible, the fellowship prepares an assault from the hatch, renewing the ladder and planning their opening spells.
 
 #### Long
-The hatch reveals a vast changing landscape that truesight reduces to a chamber about forty feet across. The Queen of Ash, the ancient being resisting Rai, is trying to draw Limbo into the Material Plane to reverse chaos' defeat by Order. She is guarded by a metallic-blood fighter, an armored centaur, an invisible Essence of Mist, and swarms of small dust clouds; the relic is nowhere in sight. The fellowship decides to fight and prepares at the hatch. Seeker reanimates the ladder with renewed strength, while Delwath plans to blanket the chamber in Sickening Radiance and shield his companions from its effects. They settle their positions and review their remaining magic, including Seeker's dragon transformation and Kenzo's fireball beads, before committing to the assault.
+The hatch reveals a vast changing landscape that truesight reduces to a chamber about forty feet across. The fellowship recalls Rai's warning that the Queen of Ash, the ancient being resisting him, is drawing Limbo into the Material Plane. Delwath understands her aim as reversing chaos' defeat by Order. She is guarded by a metallic-blood fighter, an armored centaur, an invisible Essence of Mist, and swarms of small dust clouds; the relic is nowhere in sight. The fellowship decides to fight and prepares at the hatch. Seeker reanimates the ladder with renewed strength, while Delwath plans to blanket the chamber in Sickening Radiance and shield his companions from its effects. They settle their positions and review their remaining magic, including Seeker's dragon transformation and Kenzo's fireball beads, before committing to the assault.
 
 ### recap-008 | The Queen of Ash
 
@@ -280,7 +280,7 @@ They defeat the queen and her defenders in a desperate battle that costs them th
 Delwath opens with Sickening Radiance, clearing the dust-cloud swarms while Kenzo escapes being turned to ash and Seeker becomes a gold dragon to carry and protect his companions. The defenders destroy his dragon form and the ladder, but Seeker's Chain Lightning kills the centaur, Delwath kills the queen, and the triceratops disperses the Essence of Mist. The lingering radiance finishes the metallic-blood defender as the tower collapses.
 
 #### Long
-Delwath fills the chamber with Sickening Radiance, protecting the fellowship and ladder, but the queen's visions of ancient defeat leave him dazed. Wellby steadies a shot with his clockwork amulet and summons his triceratops, which unfortunately suffers from the radiance. The queen moves between chamber and hatch, strikes Wellby, and turns Kenzo into ash. As the spell destroys minions, the mist enters Seeker, who jumps through the hatch and assumes adult gold-dragon form. Kenzo reforms, clears the way above, and carries Delwath onto the dragon; Seeker briefly banishes the mist out of himself. Sword strikes, arrows, staff blows, and Chain Lightning batter the queen and her guard while the dragon absorbs repeated attacks. Her last ash burst knocks Wellby unconscious, and Seeker crouches over him before the defenders finally destroy his dragon form. The upper minions tear the ladder apart. Back in dwarf form, Seeker's next Chain Lightning destroys the centaur. Delwath heals Wellby, flies after the queen with Raven's Whistle, and cuts her down in a burst of radiant light. The exhausted triceratops finally disperses the mist. Wellby is forced to shoot Seeker by boiling blood, then falls again to the blood defender's spears. As the ceiling rains iron spikes, Delwath revives him once more, Seeker casts Erupting Earth, and Sickening Radiance finally kills the last major foe; Kenzo clears the remaining clouds.
+Delwath fills the chamber with Sickening Radiance, protecting the fellowship and ladder, but the queen's visions of ancient defeat leave him dazed. Wellby steadies a shot with his clockwork amulet and summons his triceratops, which unfortunately suffers from the radiance. The queen moves between chamber and hatch, strikes Wellby, and turns Kenzo into ash. As the spell destroys minions, the mist enters Seeker, who jumps through the hatch and assumes adult gold-dragon form. Kenzo reforms, clears the way above, and carries Delwath onto the dragon; Seeker briefly banishes the mist out of himself. Sword strikes, arrows, staff blows, and Chain Lightning batter the queen and her guard while the dragon absorbs repeated attacks. Her last ash burst knocks Wellby unconscious, and Seeker crouches over him before the defenders finally destroy his dragon form. The upper minions tear the ladder apart. Back in dwarf form, Seeker's next Chain Lightning destroys the centaur. Delwath heals Wellby, flies after the queen with Raven's Whistle, and cuts her down in a burst of radiant light. The exhausted triceratops finally disperses the mist. Wellby is forced to shoot Seeker by boiling blood, then falls again to the blood defender's spears. Seeker wounds the defender with Erupting Earth before the ceiling begins raining iron spikes. Delwath revives Wellby once more, and Sickening Radiance finally kills the last major foe; Kenzo clears the remaining clouds.
 
 ### recap-009 | The relic beyond the ruins
 
@@ -306,7 +306,7 @@ Delwath fills the chamber with Sickening Radiance, protecting the fellowship and
 They escape through a surviving door, recover the relic and three treasures, and race back to Rai ahead of expanding chaos.
 
 #### Intermediate
-Seeker discovers that the suspended hatch can switch destinations and leads them into a stable crystal globe. There they take a dark-flame scimitar, a magical bag, a scroll, and the relic. Identify reveals that the sphere can shift planes through a dangerous ritual; Delwath signals Rai, whose tether draws them back to the monastery with just enough time to act.
+Seeker discovers that the suspended hatch can switch destinations and leads them into a stable crystal globe. There they take a dark-flame scimitar, a magical bag, a scroll, and the relic. Identify reveals that the relic can shift planes through a dangerous ritual; Delwath signals Rai, whose tether draws them back to the monastery with just enough time to act.
 
 #### Long
 As the tower's gravity fails and its floors dissolve, the hatch remains suspended amid falling metal. Seeker's goggles reveal a two-position switch at its hinge. Closing and reopening the door after turning it leads to a crystal globe that remains stable while the tower collapses around it. Four floating tables hold a scimitar burning with dark flames, a plain leather bag, a scroll, and a black, gray, and reddish sphere covered in dense arcane formulae. All four are magical. Seeker casts Identify on the sphere and learns that it can establish stability in Limbo or, with a one-hour ritual, shift planar positions. The ritual consumes the sphere and risks destroying the reader's mind, but up to three people can contribute spell slots to strengthen the Arcana check. Delwath sends the fox messenger to Rai, and the fellowship gathers all four objects. Rai pulls them along the relic's tether while Seeker keeps their refuge intact ahead of an expanding wave of chaos. They reach the sanctuary with roughly ninety minutes before the wave arrives, leaving thirty minutes beyond the ritual's duration.
@@ -354,7 +354,7 @@ At Rai's side, Seeker begins reading the sphere's intricate formula. Rai and Del
 - Frozen-lightning guardian (met): Thunderous giant on the statue floor; bypassed with invisibility.
 - Naren (fought): Winged defender with a sun-like head; killed by Seeker 6 in the library.
 - Metallic-blood defender (fought, met): Liquid-metal polearm creature; one is killed in the library and another dies to Sickening Radiance in the queen's chamber.
-- Queen of Ash (met, fought): Ancient Limbo being trying to reverse chaos' defeat by drawing the planes together; killed by Delwath.
+- Queen of Ash (met, fought): Ancient Limbo being drawing the planes together according to Rai; the fellowship interprets her goal as reversing chaos' defeat by Order. Killed by Delwath.
 - Metallic centaur (met, fought): Defender in the queen's chamber; helps destroy Seeker's dragon form before dying to Chain Lightning.
 - Essence of Mist (met, fought): Invisible defender that enters Seeker; expelled by banishment and eventually dispersed by the triceratops.
 - Dust-cloud minions (met, fought): Swarming defenders in the queen's chamber and above its hatch; destroy the ladder before the fellowship clears them.
@@ -362,7 +362,7 @@ At Rai's side, Seeker begins reading the sphere's intricate formula. Rai and Del
 - Fox messenger (companion): Sent by Delwath to signal Rai for retrieval after the relic is found.
 - Kyr (met): Appears as a golden bird at the ritual's conclusion and urges Rai to rest.
 - Dimitaur (mentioned): Rai's companion, once sent for help; receives Rai's Wish to live while life gives him pleasure.
-- Apollyon (mentioned): Rai recounts reinforcing his prison; his later escape was separate from Rai's entrapment in Limbo.
+- Apollyon (mentioned): Rai recounts reinforcing his prison; his later attempted escape was separate from Rai's entrapment in Limbo.
 - Fausto (mentioned): Named in the account of the Cleansed ritual that enabled Apollyon's attempted escape.
 
 ## Locations
@@ -381,7 +381,7 @@ At Rai's side, Seeker begins reading the sphere's intricate formula. Rai and Del
   - Date Visited: 1749-09-16
 - Library approach
   - Summary: Route past the frozen-lightning guardian inside the Impossible Tower.
-  - Sublocations: Rotated statue floor
+  - Sublocations: Statue floor reached through the violet orb
   - Date Visited: 1749-09-16
 - Library portal
   - Summary: Keyed solid-air passage leading upward through the Impossible Tower.
@@ -405,7 +405,7 @@ At Rai's side, Seeker begins reading the sphere's intricate formula. Rai and Del
 ### Items
 
 - Animated ladder (encountered): Travels with Seeker 6, fights in the library, and is reanimated for the queen's battle, where the upper minions destroy it.
-- Violet orb (encountered): Foyer mechanism whose hidden lever rotates the tower's orientation by ninety degrees.
+- Violet orb (encountered): Foyer mechanism whose hidden lever transports the party to another violet orb, shifting their orientation by ninety degrees.
 - Seeker's goggles (encountered): Reveal hidden mechanisms and aid the final ritual's Arcana check.
 - Inscribed statues (encountered): Depict warriors such as Pel Ossa; thirteen are seen across two floors, with one additional large pedestal empty.
 - Black-metal key (encountered): Found inside a liquid-stone desk drawer and used to open the library's solid-air portal.
