@@ -4,6 +4,9 @@ Early Taelgar worldbuilding documents preserved as readable Markdown. These are 
 
 ## Documents preserved here
 
+- [[Guide to Taelgar - Early Player Guide]] — The fullest surviving early general guide for players, covering the setting, history, peoples, religion, magic, and geography.
+- [[Guide to Taelgar - Cosmology, Magic, Races, and Religion]] — The most complete focused guide to early cosmology, magic, peoples, and religious ideas.
+- [[Guide to Taelgar - History, Culture, and Geography]] — The most complete focused guide to early regional history, cultures, politics, and geography.
 - [[History Notes - June 1999]] — Early chronology for Comor, Dunmar, and Chardon, with notes on magical education.
 - [[Dating Systems and the Chardonian Academy - June 1999]] — Dating systems, the structure of the Chardonian Academy, and a brief cult concept.
 - [[Early Worldbuilding Checklist]] — A compact outline of subjects the original collaborators intended to develop.
