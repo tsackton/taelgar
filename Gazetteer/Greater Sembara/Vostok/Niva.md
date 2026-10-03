@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-name: Niva
+tags: [place, status/check/tim]
 typeOf: waterway
+typeOfAlias: river
+name: Niva
+aliases: [River Niva, Niva River]
+pronunciation: NEE-vah
 whereabouts: Vostok
-aliases:
-  - River Niva
-  - Niva River
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
 ---
 # Niva
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(NEE-vah)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Niva is a river in [[Vostok]] that joins the [[Kem]], forming part of the drainage system flowing into the [[Green Sea]].
 
 %%
 Geographic clarification:
@@ -23,3 +25,9 @@ Geographic clarification:
 - It is therefore unclear which of the mapped upper branches is the Niva, how far upstream that name applies, or whether individual tributaries have separate local names.
 - [[Lake Pekul]] and [[Lake Sova]] belong to the wider Kem–Niva drainage system, but neither can currently be assigned specifically to the Niva.
 %%
+
+%% @check/tim : double check pronunciation and language %%
+
+%%^Metadata:names:v1%%
+- {name: Niva, language: Vosic, pronunciation: NEE-vah, status: documented}
+%%^End%%
