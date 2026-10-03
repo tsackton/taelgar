@@ -20,9 +20,13 @@ dm_notes: color
 
 ![[primrose-merriweather.png|left|200]]
 
-Primrose Merriweather is a halfling of the [[Merriweathers]] who, with her brother [[Corrin Merriweather]], owned a long-established tailor shop in [[Veltor]]. The siblings helped the [[Heroes of Cleenseau]] shelter [[Sabine de Brune]] after her escape from [[Veltor Keep]].
+Primrose Merriweather is a halfling of the [[Merriweathers]] who, with her brother [[Corrin Merriweather]], owned a long-established tailor shop in [[Veltor]].
+
+%%^Campaign:clee%%
+The siblings helped the [[Heroes of Cleenseau]] shelter [[Sabine de Brune]] after her escape from [[Veltor Keep]].
 
 Shortly before the [[Cleenseau - Session 28|trial of the Heroes of Cleenseau]], Primrose and Corrin left Veltor in a mysterious overnight departure, abandoning the shop their family had maintained for two centuries.
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Primrose Merriweather, language: unknown, pronunciation: PRIM-rohz MERR-ee-weh-ther, status: documented}
