@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/stub, status/check/ai]
 affiliations: [The Rangers]
 name: Adèle Laurent
 whereabouts: 

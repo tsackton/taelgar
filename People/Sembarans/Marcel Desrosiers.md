@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/stub, status/check/ai]
 dm_owner: mike
 dm_notes: color
 whereabouts: Duchy of Wisford
