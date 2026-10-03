@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T13:42:28-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: fey
 speciesAlias: fae
-name: Lord of the Ended Revel
 gender: enby
+name: Lord of the Ended Revel
 aliases: [Lord Endlessly Ending, Lord Ending, Lord Revel Beginning, Lord Revel, Lord of the Ended Revel]
+affiliations:
+  - {org: "Lord Endless Ending's Manor", type: leader, title: Lord}
+whereabouts: "Lord Endless Ending's Manor"
+knownTo: [feywild]
 dm_owner: none
 dm_notes: none
-whereabouts: Lord Endless Ending's Manor
-affiliations:
-  - {org: Lord Endless Ending's Manor, type: leader, title: Lord}
+POV: 1740
 ---
 # Lord of the Ended Revel
 >[!info]+ Biographical Info  
@@ -20,7 +24,7 @@ affiliations:
 
 The Lord of the Ended Revel, the lord of a manor in the [[Twilight Kingdom]], is a nearly seven-foot-tall figure of ambiguous gender presentation. They wear their long hair pulled back behind their neck and a velvet evening jacket that fades from dark blue to pale blue like the evening sky at sunset. Their face is expressionless and almost mask-like. Mortals perceive the Lord's emotions only as flickers at the edge of their vision; stared at directly, the face seems less like their true appearance than a human mask worn by something older, wilder, and less containable, like an unfinished story.
 
-Lord Endless Ending, once known as Lord Revel Beginning, now know as Lord of the Ended Revel, was the host of an endlessly ending party at their manor in the [[Twilight Kingdom]].
+Lord Endless Ending, once known as Lord Revel Beginning, now known as Lord of the Ended Revel, was the host of an endlessly ending party at their manor in the [[Twilight Kingdom]].
 
 ## Their Story
 
@@ -33,3 +37,13 @@ At the height of the revel, a delegation of mortals led by the wizard [[Thalestr
 The new name changed both lord and estate. Lord Revel Beginning became Lord Endless Ending, trapped in the moment when the revel had passed its height but had not yet finished. Empty glasses crowded the surfaces, wine lay spilled, candles guttered, and departing guests hovered forever at the edge of leaving. Whenever the mortals' grandfather clock struck zero, Endless Ending was compelled to send another mortal guest down the road toward the 27th House. 
 
 When the prisoner of the 27th House finally released its captive souls and returned home, the revel at last reached its conclusion. The lanterns went dark, the grounds fell silent, and the guests departed. No longer Lord Endless Ending, the fae became the Lord of the Ended Revel. Alone in the upper room of the dark manor, they looked toward the sunset and remembered the child they had befriended before the party began.
+
+%%^Metadata:names:v1%%
+- {"name": "Lord of the Ended Revel", "role": "primary", "language": "Common", "status": "documented", "notes": "Current title taken when the revel ended after the prisoner released its souls; see Lost in the Feywild - Episode 07."}
+- {"name": "Lord Endless Ending", "role": "historical", "language": "Common", "status": "documented", "notes": "Name imposed by Thalestria’s poetry-and-naming contest, changing the revel from beginning to endlessly ending; see The Story of a Fey Bargain Struck and Thalestria."}
+- {"name": "Lord Revel Beginning", "role": "historical", "language": "Common", "status": "documented", "notes": "Name before the mortal delegation’s naming contest."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1740 retrospective after the revel has ended, with earlier friendship, naming, and captivity narrated as backstory; the current title does not describe the earlier endlessly ending revel.
+%%^End%%

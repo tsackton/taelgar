@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: "2026-10-03T13:42:28-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: elf
 campaignInfo:
-- {campaign: dufr, date: 1749-01-16, type: visited}
+  - {campaign: dufr, date: 1749-01-16, type: visited}
 ka: 31
 born: 747
-whereabouts:
-- {type: home, location: Rostaurë}
-- {type: home, location: Orenlas}
+gender: female
 name: Arheste
 pronunciation: AR-hes-teh
-gender: female
+whereabouts:
+  - {type: home, location: Rostaurë}
+  - {type: home, location: Orenlas}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1749
 ---
 # Arheste
 *(AR-hes-teh)*
@@ -23,13 +27,13 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Visited by the [[Dunmar Fellowship]] on January 16th, 1749 in [[Orenlas]] %%^End%%
 
-Arheste is an ancient [[Elves|elf]], with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [[Elves]]. She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [[First Plague|First Plague]], which she survived, albeit damaged and sick, she fled north and eventually settled in [[Orenlas]]. 
+Arheste is an ancient [[Elves|elf]], with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. Her right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [[Elves]]. She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [[First Plague|First Plague]], which she survived, albeit damaged and sick, she fled north and eventually settled in [[Orenlas]].
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 ## Arheste's Story
 *(as told to the [[Dunmar Fellowship]] in DR 1749)*
 
-I was born in [[Rostaure|Rostaurë]] (ROS-tow-reh); as the [[Elves]] would translate it, the Forest of Rains. An elvin settlement, maybe 150 miles northeast of [[Drankor]], between the river and the bay. The city of my birth was called Estemar (ES-teh-mar), the city of peace, where [[Humans]], [[Elves]], and peronar lived together happily. I spent my first [[Elven Cycle of Generations|leya]] at the court of the Drankorian emperors, advising Aglir, and then the twins Pelois and Cekious, who ruled together.
+I was born in [[Rostaure|Rostaurë]] (ROS-tow-reh); as the [[Elves]] would translate it, the Forest of Rains. An elven settlement, maybe 150 miles northeast of [[Drankor]], between the river and the bay. The city of my birth was called Estemar (ES-teh-mar), the city of peace, where [[Humans]], [[Elves]], and peronar lived together happily. I spent my first [[Elven Cycle of Generations|leya]] at the court of the Drankorian emperors, advising Aglir, and then the twins Pelois and Cekious, who ruled together.
   
 It was a good time. There was peace. The land was healthy. Yes, there were battles. I rode to fight with the Drankorian armies against the spreading fire, an alliance of efreeti and fire [[Elementals]] and [[Giants]], led by an ancient red dragon that sought to claim the wealth and power of [[Drankor]] itself. I saw Pelois and Cekious, the twin emperors, die in dragon fire. But we prevailed, and [[Drankor]] did not fall. It was worth saving in those days. During my first [[Elven Cycle of Generations|mela]], I returned to Rostaurë, where my son and my daughter were born. They followed in my footsteps, traveling to [[Drankor]] and serving in the court of Imrodel, during their first [[Elven Cycle of Generations|leya]]. 
 
@@ -37,13 +41,13 @@ It was then, during the 32nd [[Elven Cycle of Generations|leya]], that things st
 
 I protected as many as I could in the Rostaurë, especially the peronar, the [[Elves]] who had lived with [[Humans]] since the days of [[Hkar]], and who were seen as particularly insidious and vile by the [[Omnis Pura]]. 
 
-That is when things started to go from bad to worse. During the 33rd meya, when the next generation was singing and dreaming in the great trees of Estemar, the Emperor of [[Drankorian Empire|Drankor]] launched the Dominion Wars, fighting and claiming as much land to the east they could. We defended Rostaurë as best we could through deception and trickery, working with other groups of rebels and dissidents, our allies the [[Fides Lucaris]], who my daughter had fought and died for. We were always protected by [[Aldanor]]'s grace, by the power of his magic that ran through my arm and my blade. 
+That is when things started to go from bad to worse. During the 33rd meya, when the next generation was singing and dreaming in the great trees of Estemar, the Emperor of [[Drankorian Empire|Drankor]] launched the Dominion Wars, fighting and claiming as much land to the east as they could. We defended Rostaurë as best we could through deception and trickery, working with other groups of rebels and dissidents, our allies the [[Fides Lucaris]], who my daughter had fought and died for. We were always protected by [[Aldanor]]'s grace, by the power of his magic that ran through my arm and my blade.
 
-It was when [[Apollyon|Apollyon]], then Emperor, betrayed a great dragon, [[Cha'mutte]] (who would later fight against for our very survival), that things became dire. [[Apollyon|Apollyon]] slaughtered the [[Orcs]] and stole the [[Cloak of Rainbows|cloak of rainbows]] from them, which could shut out the gods. With the cloak, [[Aldanor]]'s protection meant nothing. [[Apollyon|Apollyon]] sliced through the defenders of Rostaurë; nothing could stop him. Everywhere he strode, the power of [[Aldanor]] was quelled. The tricks that protected us ceased to matter. The city of Estemar was sacked. Rostaurë burned. The elder trees were cut with sleeping children inside.
+It was when [[Apollyon|Apollyon]], then Emperor, betrayed a great dragon, [[Cha'mutte]] (who we would later fight against for our very survival), that things became dire. [[Apollyon|Apollyon]] slaughtered the [[Orcs]] and stole the [[Cloak of Rainbows|cloak of rainbows]] from them, which could shut out the gods. With the cloak, [[Aldanor]]'s protection meant nothing. [[Apollyon|Apollyon]] sliced through the defenders of Rostaurë; nothing could stop him. Everywhere he strode, the power of [[Aldanor]] was quelled. The tricks that protected us ceased to matter. The city of Estemar was sacked. Rostaurë burned. The elder trees were cut with sleeping children inside.
 
 This disaster was all the worse because it was totally unforeseen by Elmerica. The leya did not come early. The children were not awakened. I think because Elmerica's foresight was blinded by the cloak as well. None of the gods were able to perceive [[Apollyon|Apollyon]]'s actions or foresee the danger he brought. I stood against him alone, at the height of my power. He spoke words of death, and I shrugged them off. But every time I raised my sword to summon the power of [[Aldanor]] to my blade and strike with divine force to drive him back, nothing happened. No power came to me. 
 
-I was defeated and taken with a handful of warriors of mine who had survived (except in the peronar, who were all slaughtered) to [[Drankor]]. I don't know why he kept us alive. We watched as he turned the city into his personal domain. Using a scepter of great power to create adoring, loyal legions, he would round up the peronar and create bigger and bigger spectacles of slaughter. He would summon thousands, tens of thousands of his followers to giant rallies where he would declare himself a god. Perhaps he wanted us to see his newfound power. The growing anger of my people might have been part of his path to godhood. 
+I was defeated and taken with a handful of warriors of mine who had survived (excepting the peronar, who were all slaughtered) to [[Drankor]]. I don't know why he kept us alive. We watched as he turned the city into his personal domain. Using a scepter of great power to create adoring, loyal legions, he would round up the peronar and create bigger and bigger spectacles of slaughter. He would summon thousands, tens of thousands of his followers to giant rallies where he would declare himself a god. Perhaps he wanted us to see his newfound power. The growing anger of my people might have been part of his path to godhood.
 
 On the day he proclaimed himself a god, everything changed. As he spoke the words, calling on the power of the thousands upon thousands of followers under the sway of his power, summoning godhood to himself, a dragon blotted out the sky. [[Apollyon|Apollyon]] stood in defiance, but the rending of his soul was felt by all. I saw [[Apollyon|Apollyon]], choking and staggering, as I tried to flee the city with the survivors. He was laughing, his arms withered, as he raised a vial of pure blackness to his mouth and cursed [[Cha'mutte]].
 
@@ -109,4 +113,40 @@ Areste is an info-dump, not really a social conflict; the key is to convince tho
 
 Once she sees Kenzo's staff, she will immediately know these are the people to talk to. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: "Arheste", language: "unknown", pronunciation: "AR-hes-teh", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 portrait of Arheste in Orenlas, with her dated account of earlier life and selected historical episodes; it does not establish her later condition.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter, added knownTo: [dufr], and normalized the existing campaign marker to dufr.
+- Added the documented pronunciation to name metadata and recorded the DR 1749 viewpoint.
+- Corrected five unambiguous typing and grammar errors in the visible introduction and campaign account.
+
+### Validated judgments
+- The substantive historical account is sufficient for this reference role; its campaign story remains explicitly attributed and dated.
+- Matching local DM evidence supports the existing positive attestation.
+- The shared History draft duplicates much of the visible story but also retains provisional chronology and distinct DM guidance.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The frontmatter has `born: 747` and `ka: 31`, but [[Elven Cycle of Generations]] dates the 31st mela to DR 667 and its leya to DR 747, and states that births occur during the mela. The shared History draft gives DR 671, but explicitly yields to the campaign account and is not an independent canonical date. Confirm the intended birth year; `born: 671` is a candidate only if that draft date is adopted, otherwise supply a supported birth date during the 31st mela. The current value is preserved.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The `History` subsection in the existing `Campaign:none` block substantially repeats the campaign-visible `Arheste's Story`. Split that subsection: remove only the repeated narrative from her upbringing through capture, plague survival, and flight; retain the opening precedence caveat and any distinct, unresolved chronology as private editorial notes. Keep the separate `Information` and `Conflict` guidance private. This bounded cleanup avoids maintaining two versions of the same account without promoting provisional or DM-only material.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Circular Island Overview - DM notes v2]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 112 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 113 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 116 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 117 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 81 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
 %%^End%%

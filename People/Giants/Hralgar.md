@@ -1,25 +1,30 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T13:42:28-04:00"
+lintVersion: "3.5"
 tags: [person, testcase]
-campaignInfo:
-- {campaign: DuFr, date: 1748-11-23, format: "Freed from <current:2> by <person>, <target>"}
-name: Hralgar
-born:
 species: giant
 subspecies: storm giant
+campaignInfo:
+  - {campaign: dufr, date: 1748-11-23, format: "Freed from <current:2> by <person>, <target>"}
+born: null
 gender: male
+name: Hralgar
+pronunciation: HRAL-gar
 whereabouts:
-- {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}
-- {type: home, start: 1748-11-23, end: 1748-11-23, linkText: " ", location: Stormcaller Tower}
-- {type: home, start: 1748-11-24, alias: drifting on the storm across the world }
-dm_notes: important
+  - {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}
+  - {type: home, start: 1748-11-23, end: 1748-11-23, linkText: " ", location: Stormcaller Tower}
+  - {type: home, start: 1748-11-24, alias: drifting on the storm across the world}
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # Hralgar
 >[!info]+ Biographical Info
 > A [[Giants|giant]] (the [[Giants|storm giant]]) (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed from [[Stormcaller Tower]], [[Eastern Dunmar]] by the [[Dunmar Fellowship]], November 23rd, 1748 %%^End%%
+>> %%^Campaign:dufr%% Freed from [[Stormcaller Tower]], [[Eastern Dunmar]] by the [[Dunmar Fellowship]], November 23rd, 1748 %%^End%%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 
@@ -31,3 +36,11 @@ He was partially awakened from his imprisonment in the spring of 1748, by three 
 
 
 %%SECRET[v2:2fa34eba812d0e09fdbf7fc0eb1e7b2d]%%
+
+%%^Metadata:names:v1%%
+- {name: Hralgar, language: Giant, pronunciation: HRAL-gar, status: documented, notes: "Pronunciation and language recorded in the Hralgar component entry of [[Hralgar's Eyes Vision]]."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective biography, with ancient and Drankorian backstory and the spring-to-November DR 1748 awakening and release; later travels are unspecified.
+%%^End%%

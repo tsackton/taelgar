@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-10-03T12:58:09-04:00"
+lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai, status/check/lint]
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 name: Bolgrim Ferrystone
@@ -43,15 +43,14 @@ Temporal coverage: an early DR 1720s portrait of Bolgrim based in Rinburg, with 
 ## Taelgar note lint
 
 ### Applied changes
-- Normalized frontmatter and recorded supported `knownTo`, a primary name entry, and `POV`/`povNotes`.
-- Added the explicit display name and a proposed pronunciation.
+- None.
 
 ### Validated judgments
-- The account is sufficient for Bolgrim’s role. The authored DM correction identifying Kazak as the injured dwarf is preserved; its source-discrepancy comment remains useful provenance.
+- The existing DM correction identifying Kazak as the injured dwarf is consistent with [[Into Aslain (Email)]] and remains documented in the source-discrepancy comment. The April account is supported by [[April Around Asineau]] and [[Cleenseau - Session 29]].
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm `BOL-grim FAIR-ee-stohn` in `Metadata:names:v1`. The [[Languages]] Tolkien Dwarvish analogue informs a short o, hard g, pronounced consonants, and provisionally initial stress in Bolgrim; Ferrystone uses its transparent English spelling. The analogue supplies guidance, not exact adopted phonology. If accepted, copy `pronunciation: BOL-grim FAIR-ee-stohn` to frontmatter and set the entry to `status: documented`; otherwise revise the proposal.
+- [ ] **Warning — metadata.names_unresolved_status:** The existing pronunciation `BOL-grim FAIR-ee-stohn` in `Metadata:names:v1` remains `status: proposed`. Preserve its recorded derivation while a human accepts or revises it. If accepted, add `pronunciation: BOL-grim FAIR-ee-stohn` to frontmatter and set the entry to `status: documented`; otherwise revise the persistent proposal. The name language remains `unknown` pending evidence.
 
-- [ ] **Warning — temporal.internal_conflict:** The `whereabouts` entry keeps Bolgrim away in Aslain from 1720-02-10 through 9999, while the visible April paragraph and [[April Around Asineau]] place him in Asineau in mid-April 1720. Confirm a bounded Asineau visit and close or interrupt the Aslain entry accordingly; neither an exact arrival day nor a return date is established. A month-level candidate is `{type: away, start: 1720-04, location: Asineau}`, but review the intended date bounds before adopting it so the earlier Aslain stay is preserved.
+- [ ] **Warning — temporal.internal_conflict:** The `whereabouts` entry keeps Bolgrim away in Aslain from 1720-02-10 through 9999, while the visible April paragraph and [[April Around Asineau]] place him in Asineau in mid-April 1720. Confirm the end of the Aslain stay and the bounds of the Asineau visit, then replace the indefinite Aslain range with supported intervals while preserving the February history and Rinburg home. Exact travel dates are not established, so an exact-date YAML correction requires human input; a month-only start would not reliably encode the mid-April visit.
 %%^End%%

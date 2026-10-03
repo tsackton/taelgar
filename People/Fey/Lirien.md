@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+lintedAt: "2026-10-03T13:42:28-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: fey
 gender: female
 died: 1749-05-30
-whereabouts: 
-- {type: home, end: 1200, location: Redsun Watch}
-- {type: home, location: Everlight's Bloom}
-- {type: away, start: 1749-05-20, end: 1749-05-29, location: traveling across Feywild}
-- {type: away, start: 1749-05-29, end: 1749-05-29, location: Garamjala Desert}
-- {type: away, start: 1749-05-30, end: 1749-05-30, location: Vindristjarna}
-dm_notes: none
+name: Lirien
+whereabouts:
+  - {type: home, end: 1200, location: Redsun Watch}
+  - {type: home, location: "Everlight's Bloom"}
+  - {type: away, start: 1749-05-20, end: 1749-05-29, location: traveling across Feywild}
+  - {type: away, start: 1749-05-29, end: 1749-05-29, location: Garamjala Desert}
+  - {type: away, start: 1749-05-30, end: 1749-05-30, location: Vindristjarna}
+knownTo: [dufr]
 dm_owner: none
+dm_notes: none
+POV: 1749
 ---
 # Lirien
 >[!info]+ Biographical Info  
@@ -29,3 +34,29 @@ When the [[Dunmar Fellowship]] brought the [[Cloudspinner]] out of [[Cha'mutte]]
 
 
 %%SECRET[v2:81b46a5e1ef5743b373de32ba0038f6a]%%
+
+%%^Metadata:names:v1%%
+- {"name":"Lirien","language":"unknown","pronunciation":"LEE-ree-en","status":"proposed","notes":"The lyrical, partly Greek-influenced Fey naming guidance in [[Languages]] suggests clear i vowels as ee and separate final e as in bet, with ordinary l, r, and n. Initial stress is provisional; no exact name language or accepted pronunciation is recorded."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 portrait near the end of her life, with older Redsun Watch and refuge history; the campaign account ends with her death on May 30 rather than describing a continuing living state.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter; added `name: Lirien`, `knownTo: [dufr]`, name-review metadata, and a DR 1749 viewpoint with its end-of-life temporal interpretation.
+
+### Validated judgments
+- The description, Lanternkeeper role, flight from Redsun Watch, search for the Cloudspinner, and death provide a sufficient bounded account; [[Session 118 (DuFr)]] supports the final events.
+- The local-only secret was reviewed and preserved; recoverable private guidance is reserved for the private handoff.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `LEE-ree-en`. [[Languages]] leaves the Sylvan analogue undetermined, calling for lyrical names and noting Classical Greek influence among existing Fey names; Polynesian and Hawaiian remain possible inspiration rather than adopted rules. This proposal uses clear i vowels as “ee,” a separate final e as in “bet,” and ordinary l, r, and n, with provisional initial stress. Confirm or replace it before copying the accepted pronunciation to frontmatter and marking the entry documented.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 119 - In Game Notes]]
+%%^End%%

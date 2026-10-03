@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-10-03T12:58:09-04:00"
+lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai, status/check/lint]
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 name: Vondal Ferrystone
@@ -36,13 +36,12 @@ Temporal coverage: an early-1720s portrait of Vondal in Aslain, anchored by the 
 ## Taelgar note lint
 
 ### Applied changes
-- Normalized frontmatter, added the explicit name and Cleenseau `knownTo` code, and added persistent name and temporal-viewpoint metadata.
+- None.
 
 ### Validated judgments
-- The clan, Aslain residence, and temple stonework assessment provide a sufficient minor-person reference. [[Kazak Ferrystone]] and the preserved recap for [[Cleenseau - Session 17]] corroborate the investigation; the refreshed visible paragraph has been preserved.
-- `dm_owner: mike` is outside the local `_DM_` attestation-review scope, so the existing `dm_notes: color` is preserved without a no-local-evidence finding.
+- The preserved recap for [[Cleenseau - Session 17]] supports the temple investigation. The early-1720s Aslain viewpoint remains consistent with this bounded account.
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** Accept or revise `VON-dahl FEH-ree-stohn` in `Metadata:names:v1`. The Tolkien Dwarvish analogue in [[Languages]] motivates a cautious adaptation with initial stress, a full rounded o and final ah, and sounded v/n/d/l; the transparent English surname is read as written. These are proposed reading choices, not established in-world phonology. On acceptance, set `status: documented` and copy the accepted primary pronunciation to frontmatter. The name's in-world language remains `unknown`.
+- [ ] **Warning — metadata.names_unresolved_status:** The existing pronunciation `VON-dahl FEH-ree-stohn` in `Metadata:names:v1` remains `status: proposed`. Preserve its recorded derivation while a human accepts or revises it. If accepted, add `pronunciation: VON-dahl FEH-ree-stohn` to frontmatter and set the entry to `status: documented`; otherwise revise the persistent proposal. The name language remains `unknown` pending evidence.
 %%^End%%
