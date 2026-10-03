@@ -126,6 +126,39 @@ class CleanupSessionArtifactsTest(unittest.TestCase):
         self.assertTrue(all(not path.exists() for path in atypical))
         self.assertTrue(all(not (cleaned / name).exists() for name in cleanup.ARTIFACT_DIRS))
 
+    def test_review_artifacts_delete_cleanup_history_and_retain_timeline_and_approval(self) -> None:
+        for include_atypical in (False, True):
+            with self.subTest(include_atypical=include_atypical):
+                number = "002" if include_atypical else "001"
+                bundle = self.bundle(number)
+                cleaned = bundle / "cleaned"
+                disposable = [
+                    self.write(cleaned / "cleanup-artifacts" / f"{bundle.name}-{suffix}")
+                    for suffix in (
+                        "cleanup-assessment-before-review.json", "cleanup-assessment.json",
+                        "cleanup-decisions.before-apply.md", "cleanup-decisions.json",
+                    )
+                ]
+                for suffix in ("scene-approval.json", "timeline-evidence.json", "timeline-review.json"):
+                    self.write(cleaned / f"{bundle.name}-{suffix}", f"retained {suffix}\n")
+                flags = ["--include-atypical"] if include_atypical else []
+                before = self.snapshot()
+                result, output = self.run_cli("folder", number, *flags)
+                self.assertEqual(result, 0, output)
+                self.assertNotIn("ATYPICAL", output)
+                self.assertNotIn("[atypical]", output)
+                self.assertIn("Would delete 4 files", output)
+                self.assertEqual(self.snapshot(), before)
+
+                result, output = self.run_cli("folder", number, "--execute", *flags)
+                self.assertEqual(result, 0, output)
+                self.assertNotIn("ATYPICAL", output)
+                removed = {str(path.relative_to(self.root)) for path in disposable}
+                self.assertEqual(self.snapshot(), {
+                    path: content for path, content in before.items() if path not in removed
+                })
+                self.assertFalse((cleaned / "cleanup-artifacts").exists())
+
     def test_missing_or_empty_recap_always_refuses(self) -> None:
         for content in (None, ""):
             with self.subTest(content=content):
