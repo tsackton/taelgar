@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
-name: Tafolwern
+lintedAt: "2026-10-03T18:00:33-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/tim, status/check/lint]
 typeOf: settlement
-whereabouts: Tyrwingha
-pronunciation: Tav-ol-WERN
-dm_notes: none
-dm_owner: mike
 typeOfAlias: city
+name: Tafolwern
+pronunciation: Tav-ol-WERN
+whereabouts: Tyrwingha
+dm_owner: joint
+dm_notes: none
+POV: modern
 ---
 # Tafolwern
 *(Tav-ol-WERN)*
@@ -15,33 +18,38 @@ typeOfAlias: city
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The capital city of Tyrwingha.
+Tafolwern is the capital and foremost cultural center of [[Tyrwingha]], with roughly 35,000 inhabitants. Its ornate architecture, carefully arranged parks, water features, and intricate public art reflect the influence of [[Archfey Ethlenn|Ethlenn’s]] court. Carvings and mosaics often imitate the flowing forms of Sylvan writing, sometimes without forming readable text.
 
-%% 
+The city draws traders and traveling performers from across Tyrwingha and beyond. Its wealthy households and earls are customers for the wines of the Tyrwinghan countryside. Tafolwern is also home to the [[Oracle of the Riven]], the council that elects Tyrwingha’s monarch, and to [[Twilight's Pool]], the principal crossing to [[Twilight's Grace]].
 
-Tagged status/incomplete as it seems like it probably could use at least a few more sentences, but perhaps best to wait until a campaign goes there for new invention. 
+%% @check/tim : initial canonical draft - thoughts? %%
 
-Very little has been invented or come up, even in my game with lots of Tyrwinghan backstory
-Some notes from various emails/Discord conversations with Kiya re [[Celyn]] that need to be incorporated:
-* Large, 35K people or so; 
-* Fey vibe - not sure what? gardens? big towers? sparkling lights? but it should have something notably fey
-* Has decorations in Sylvan but also fake Sylvan sometimes, as art (scene from Celyn background:)
-  As they crossed a park, he stopped short and stopped laughing.  
-        “What is it?” asked the halfling gruffly.  
-        “That’s not real writing,” he said, pointing to a carving with mosaic inlay on a wall.  “It’s funny.”  
-        “Not real writing?”  
-        He looked around and found a stick and a bare patch of earth.  “Sylvan writing is like this.”  He sketched out a character, and embellished with others, just three, a simple thought, with tracing arcs indicating it should be read sunwise.  “Only I can’t write it properly, I don’t have the magic for it.  You see how the wall looks similar?  It’s like someone saw writing and didn’t know it was writing and just thought it would be pretty.”  He tossed the stick aside and scuffed out the marks he’d made with a toe.  “But since they don’t know how to write things it’s just kind of like writing.”  
-   (based on: Sudden realization that the decorations in Tafolwern that are based on Sylvan texts probably look basically like AI-generated text to people literate in it)
-
-Tafolwern culturally dominates the urban scene - like Paris in France, it is "the" city. I haven't really made up Tafolwern but there are definitely echoes of Ethlenn's court and plenty of fairy influence on the urban design
-
-AI generated notes below - probably not useful
-
-Tafolwern is the pre‑eminent city of [[Tyrwingha]] and its capital, a place of broad parks, river walks, and towers whose ornament borrows the flowing lines of Sylvan script. The city’s culture radiates outward across the region: fashions, songs, and phrases begun here soon colour the speech of far towns.
-
-Tafolwern sits astride a great bend in the river, stitched together by stone bridges and terraced gardens. Boulevards and courtyards are planned with an eye for vistas and performance spaces. Decorative friezes echo the look of Sylvan writing—often stylized by artists who do not themselves write the language, producing an intentional aesthetic rather than legible text.
-
-Theatres and salons flourish; itinerant companies make their reputations in Tafolwern before touring the provinces. Music and poetry mingle courtly tradition with woodland motifs long associated with the Wyrdling and Ethlenn’s court.
-
-As capital, Tafolwern houses the principal courts and ministerial offices of Tyrwingha. Temples and groves are distributed through the wards rather than concentrated in a single precinct, reflecting a balance between urban life and old pacts with the green places.
+%% Sources:
+- [[2024-05-09 - Discord Chat with Lilairen - Tyrwinghan Rivers Settlements and Demographics]]
+- [[2024-07-15 - Discord Chat with Lilairen - Sylvan Writing Emotional Magic and Celyn's Reading]]
+- [[Celyn Learning Languages]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Tafolwern, language: Tyrwinghan, pronunciation: Tav-ol-WERN, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes the city in the current campaign era without a narrower temporal limit.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: modern` and a persistent temporal-coverage note.
+- Normalized line endings to LF while preserving the header's Markdown hard breaks.
+
+### Validated judgments
+- The approved article provides a concise account of the city's capital and cultural roles, distinctive ornament, wine trade, and principal fey crossing. Its current reference frame does not require a narrower date.
+- Preserved the documented Tyrwinghan name and accepted pronunciation, the human DM attestations, and Tim's review state.
+
+### Open findings
+
+- [ ] **Error — metadata.map_missing:** Settlements require a `Metadata:map:v1` block, but the reviewed sources do not establish Tafolwern's exact map locator. Supply its verified world-map hex, then add one `map: world` location entry with that nonblank `locator`. No empty map block was added, following the user's preference.
+%%^End%%
