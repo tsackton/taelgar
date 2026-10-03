@@ -1,21 +1,25 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T12:58:09-04:00"
+lintVersion: "3.5"
 tags: [person]
-campaignInfo: 
-- { campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
-- { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
-name: Corrin Wildheart
-born:
 species: halfling
-ancestry:
+ancestry: null
+campaignInfo:
+  - {campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
+  - {campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
+born: null
 gender: male
+name: Corrin Wildheart
 affiliations:
-- {org: Wildhearts, type: primary}
-- {org: Wave Dancer, title: Navigator}
-whereabouts: 
-- {type: home, location: Wave Dancer, format: "<linktext> <name>, <ancestry:a> <maintype>" }
+  - {org: Wildhearts, type: primary}
+  - {org: Wave Dancer, title: Navigator}
+whereabouts:
+  - {type: home, location: Wave Dancer, format: "<linktext> <name>, <ancestry:a> <maintype>"}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1740s
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Info
@@ -28,11 +32,19 @@ dm_notes: color
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [[Wave Dancer]]. He has bright blond unkempt hair, and tends towards yellow and red clothes.
 ## Relationships
 Corrin married into the [[Brightmoons|Brightmoon trading family]], and now sails with them, along with his younger brother [[Lerry Wildheart]].
-%%^Campaign:None%%
+%%^Campaign:none%%
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
 FROM #person OR #organization 
 WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
 SORT choice(species, species, typeof)
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Corrin Wildheart", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the late-1740s portrait of Corrin as navigator aboard the Wave Dancer and a member by marriage of the Brightmoon family; no later change in that role is described.
 %%^End%%

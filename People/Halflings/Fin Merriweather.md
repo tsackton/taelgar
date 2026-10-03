@@ -1,12 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T12:58:09-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: halfling
 gender: male
-affiliations: [{org: Merriweathers, type: primary}]
+name: Fin Merriweather
+affiliations:
+  - {org: Merriweathers, type: primary}
 whereabouts: Aslain
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 ---
 # Fin Merriweather
 >[!info]+ Biographical Info  
@@ -20,3 +26,11 @@ dm_owner: none
 See [[Merriweathers]] for some important background info.
 No canonical age; male
 %%
+
+%%^Metadata:names:v1%%
+- {name: Fin Merriweather, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a Cleenseau-era portrait of Fin as a musician living in Aslain, anchored by his activity at The Setting Sun in DR 1720; earlier and later residence or work are not established.
+%%^End%%

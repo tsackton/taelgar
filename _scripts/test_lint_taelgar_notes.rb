@@ -1307,6 +1307,62 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     assert_match(/^- #{Regexp.escape(link)}$/, written)
   end
 
+  def test_workspace_requires_complete_dm_review_after_repairing_invalid_yaml
+    root = make_vault
+    path = "People/Repaired Person.md"
+    original = person_note("Repaired Person").sub(
+      "knownTo: []\n",
+      "whereabouts:\n  - {type: home, start:1673, location: Somewhere}\nknownTo: []\ndm_owner: tim\ndm_notes: important\n"
+    )
+    write_note(root, path, original)
+    write_note(root, "_DM_/Repaired Person Notes.md", "# Notes\n\n[[Repaired Person]] has private support.\n")
+    refute_nil TaelgarNoteLint::ParsedNote.new(path, original).yaml_error
+    manifest, manifest_sha = prepared_manifest_for(root, [path])
+    original_manifest = JSON.generate(manifest)
+    record = manifest.fetch("notes").first
+    refute record.dig("deterministic", "reviewGates", "dmNotes", "required")
+    assert_equal 1, record.dig("dmEvidence", "clusters").length
+    review_dir = Dir.mktmpdir("lint-yaml-repair.")
+    @temporary_roots << review_dir
+    TaelgarNoteLint::Batch::WorkspaceBuilder.new(
+      root: root, manifest: manifest, manifest_sha256: manifest_sha, output_dir: review_dir
+    ).build
+    File.write(staged_candidate_path(review_dir, path), original.sub("start:1673", "start: 1673"))
+    complete_workspace_results(review_dir) do |decision|
+      decision["eligibility"] = "eligible"
+      decision["editorialVerdict"] = "Sufficient"
+      decision["outcome"] = "clean"
+    end
+    decisions = load_workspace_decisions(root, manifest, manifest_sha, review_dir)
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    end
+    assert_includes error.message, "required review gate"
+    assert_equal original, File.read(File.join(root, path))
+
+    decision = decisions.fetch("notes").first
+    decision["dmNotesReview"]["required"] = true
+    error = assert_raises(TaelgarNoteLint::Batch::BatchError) do
+      finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    end
+    assert_includes error.message, "every evidence cluster exactly once"
+    assert_equal original, File.read(File.join(root, path))
+
+    decision["dmNotesReview"]["clusterReviews"] = record.dig("dmEvidence", "clusters").map do |cluster|
+      {
+        "clusterId" => cluster.fetch("id"), "disposition" => "matching",
+        "summary" => "Confirmed direct subject link supports the positive attestation.",
+        "recovery" => "not_applicable", "chatSummary" => nil, "candidate" => nil
+      }
+    end
+    result = finalizer(root, manifest, manifest_sha, decisions).finalize(write: true)
+    assert result.fetch("wrote")
+    assert_equal "clean", result.fetch("notes").first.fetch("outcome")
+    assert_includes result.fetch("handoff"), "[[_DM_/Repaired Person Notes]]"
+    assert_equal original_manifest, JSON.generate(manifest)
+    assert_includes File.read(File.join(root, path)), "start: 1673"
+  end
+
   def test_finalizer_skips_older_dm_clusters_when_review_gate_is_not_required
     root = make_vault
     path = "People/Skipped DM Review.md"

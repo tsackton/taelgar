@@ -1,23 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: 
-- {campaign: dufr, date: 1748-08-09, type: met}
-- {campaign: dufr, date: 1748-08-21, type: last seen}
-name: Oswalt Tealeaf
-born:
+lintedAt: "2026-10-03T12:58:09-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: halfling
-ancestry:
+ancestry: null
+campaignInfo:
+  - {campaign: dufr, date: 1748-08-09, type: met}
+  - {campaign: dufr, date: 1748-08-21, type: last seen}
+born: null
 gender: male
-affiliations: 
-- {org: Tealeafs, type: primary}
-whereabouts: 
-- {type: home, end: 1747, prefix: roads of, location: Dunmar}
-- {type: away, start: 1748, end: 1748-08-08, location: The Green Leaf} #start is approx
-- {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
-- {type: away, start: 1748-08-22, location: Chardon}
+name: Oswalt Tealeaf
+affiliations:
+  - {org: Tealeafs, type: primary}
+whereabouts:
+  - {type: home, end: 1747, prefix: roads of, location: Dunmar}
+  - {type: away, start: 1748, end: 1748-08-08, location: The Green Leaf}
+  - {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
+  - {type: away, start: 1748-08-22, location: Chardon}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1748
 ---
 # Oswalt Tealeaf
 >[!info]+ Biographical Info  
@@ -48,3 +52,35 @@ As of DR 1748, assumed to be a level 1 ranger
 %% old from onenote
 Oswalt Tealeaf grew up on the road, traveling with the Tealeaf clan around Dunmar. After the experiences with Agata and losing Garrett (a cousin twice removed), he picked up the bow and started developing skills, but just traveling around with his family in their new, safer route didn't get him very far. Until he met and fell in love with Jasmine. Now he is committed to traveling with her and exploring the world together.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Oswalt Tealeaf", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 portrait of Oswalt as a newly married adventurer, with selected childhood and DR 1737 backstory; later adventures are not described. For the whereabouts entry at The Green Leaf beginning in 1748, the original qualification is preserved: #start is approx.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added knownTo: [dufr], persistent name metadata, and the supported DR 1748 viewpoint.
+- Preserved the exact “#start is approx” qualification, explicitly tied to the 1748 The Green Leaf whereabouts entry, in the persistent temporal comment so the frontmatter can be safely formatted.
+
+### Validated judgments
+- Confirmed local evidence supports the existing positive dm_notes attestation; its contents remain outside this report.
+- [[Session 47 (DuFr)]] supports the marriage and beginning of the shared journey; incidental shipboard conversation does not require additional reference prose.
+
+### Open findings
+
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The authored campaign section begins with `%%^Campaign:DuFr%%`; the canonical registry code is `dufr`. Replace that opening marker with `%%^Campaign:dufr%%`, retaining the existing boundaries and contents. This is proposed for human review because campaign markers control filtered visibility.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The “old from onenote” comment substantially repeats the visible childhood, Agata attack, archery, and Jasmine account. Remove the duplicated prose while retaining its distinct kinship qualification for review. Copy-ready replacement comment: `%% Old notes describe Garret Tealeaf as Oswalt’s cousin twice removed. %%` This keeps the additional relationship detail noncanonical and nonpublic without retaining a second biography.
+
+### DM evidence
+- [[_DM_/Timelines/Old Timeline (Table)]]
+- [[_DM_/Timelines/Unified Timeline From OneNote]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Emerald Song (OneNote)]]
+%%^End%%
