@@ -41,14 +41,10 @@
 
 #### Short
 Heska, Sculpit, Little Tony, and Zeno wake on the Wanderer's palm with the egg dark and their extraordinary powers faded, but with childhood memories newly illuminated by its vision.
-
-#### Intermediate
-Heska, Sculpit, Little Tony, and Zeno wake on the Wanderer's palm after sharing the egg's vision of a dying purple dragonet finding a sense of home. The egg has gone dark, and the power it gave them has receded. Each recalls an earlier discovery: Zeno heard his uncle Kaz's fellow monks make a monastery resonate with song; Heska found his place through fishing after an embarrassing performance; Sculpit survived the storm and appeared on the Wanderer's palm; and Tony gained the ability to talk to anything when the King of the Hermit Crabs misheard a childhood wish. They remember the Wanderer's open eye in their dream.
-
 #### Long
 Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, remembering the egg's vision of a dying purple dragonet enveloped in light and the feeling of coming home. The egg no longer glows, and their extraordinary abilities have faded, but the experience has brought childhood memories into focus. Zeno recalls visiting his uncle Kaz at a mountain monastery, where the monks' drone seemed to play their bodies and the building as one instrument. Heska remembers a dance performance nobody noticed, followed by a flight out to sea where he discovered how to conceal himself from fish below; his great catch gave him another way to belong. Sculpit remembers a storm engulfing him during a youthful race, the moment he stopped struggling against its energy, and his sudden arrival on the Wanderer's palm. Now he can look toward that same storm with an unfamiliar calm. Little Tony recalls sparing the golden-shelled King of the Hermit Crabs and wishing to 'walk to any swing.' The crab heard 'talk to anything,' and the world began speaking to him. Tony also traces his name to the crab's misunderstood greeting. All four remember the Wanderer's open eye in their dream.
 
-### recap-002 | Breakfast and a Business Plan
+### recap-002 | Experiments with Breakfast
 
 - Kind: beat
 - Beat IDs: beat-002, beat-003, beat-004
@@ -72,15 +68,13 @@ Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, reme
 #### Short
 Looking for breakfast, they discover an ancient food machine that responds to their music and thoughts, turn its increasingly improbable creations into restaurant plans, and attract Ilse's summons to Shaman Oru.
 
-#### Intermediate
-Breakfast brings them down from the palm after Grandpa Jim the Cloud reports that statues, roads, and fountains have begun waking across the island. At a roadside food machine, Tony's cousin Paul describes Joey receiving imagined salmon the previous night. Zeno sings with the machine's hum and produces fish stuffed inside fish, complete with a raw potato. Heska samples food by invisible Mage Hand, while Sculpit collects it with an Unseen Servant. Their attempt at a shared order dissolves into conflicting requests and a torrent of metal spaghetti, fish-filled potatoes, and clam-studded bones. They plan a restaurant with food on sticks and swings for seats. Ilse arrives to summon them to Oru, but first offers presentation advice and asks to join the business.
 
 #### Long
 Breakfast and the prospect of a restaurant soon take precedence. Grandpa Jim the Cloud, an old acquaintance of Tony's with strong opinions about his usefulness, reports opening statue eyes, warmth in the Mother's heart, illuminated roads, and newly active fountains and food machines. The friends follow the pilgrimage road to a crowd around one of the old machines. Xena is there, prompting Heska to hide, and Tony's cousin Paul, also called Paulie, says Joey imagined salted salmon and received it the night before. Zeno harmonizes with the machine's hum until steam and a waterwheel begin moving, then imagines fish inside fish. Out comes a raw bluefin with smaller fish and a raw potato inside it. Tony senses the machine's delight in having a purpose again.
 
 Heska uses an invisible Mage Hand to sample the unfamiliar food and drops a stringy portion onto one of Xena's fans, provoking a squabble over eating it. Sculpit gathers samples with an Unseen Servant, and Xena eventually catches Heska to ask about his fishing. Tony proposes that everyone imagine the same food, but all four choose differently despite Sculpit's appeal for simplicity. The machine responds with metal spaghetti-like strands, potatoes full of fish, and tuna bones studded with clams. Tony considers this a success: the restaurant will serve food on sticks, with swing seating and swing music. Ilse interrupts with questions and a summons from Oru, then reverses her ceremonial cloak to offer business advice. She recommends displaying the bones, leaving the metal off the menu, and bringing her into the venture. Her supervisor recalls her to duty, and the friends collect samples on sticks and fish ribs before heading for the temple.
 
-### recap-003 | Oru's Questions and the Wanderer's Eye
+### recap-003 | Oru's Mission
 
 - Kind: beat
 - Beat IDs: beat-005, beat-006
@@ -144,7 +138,7 @@ Beyond the closed iris lies a spiraling shaft of machinery unlike anything the d
 
 Heska casts Fog Cloud over one guardian's head while Tony seeks help understanding the warnings from his seagull familiar, Glenda. Roska is badly wounded. Zeno starts a 'swing' and 'stick' call-and-response; when a guardian resists, Sculpit's Silvery Barbs gives the performance another chance, drawing it into the exchange. After Roska's sword attack fails to connect, Tony persuades him to leave and hauls him upward, but they are still within range. Recognizing whom the guardians are targeting, Heska recasts Fog Cloud around the two of them. A beam still threatens Tony until Sculpit's Cutting Words spoils the shot. Sculpit finally uses Dimension Door to take Roska outside, then flies back through the iris as it reopens for him. With Roska gone, the guardians stop firing and their eyes turn blue. Zeno keeps their musical exchange going.
 
-### recap-005 | The Heart Awakens
+### recap-005 | The Wanderer's Heart Awakens
 
 - Kind: beat
 - Beat IDs: beat-008, beat-009

@@ -1283,7 +1283,7 @@ module TaelgarNoteLint
                   line: line, provisional: true)
             end
           end
-        elsif kind == "Date" && !value.match?(/\A\d{4}(?:-\d{2}(?:-\d{2})?)?a?\z/)
+        elsif kind == "Date" && !value.match?(/\A\d{4}(?:-\d{2}(?:-\d{2})?)?b?\z/)
           add(findings, "syntax.invalid_date_block", "error", "required",
               "Date block value is not in an accepted Taelgar date form: #{value}.", line: line)
         elsif kind == "Lint" && !value.empty?

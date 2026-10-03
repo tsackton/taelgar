@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Dawn at the Gatehouse",
+      "startUid": "u0001",
+      "endUid": "u0322",
+      "lineCount": 322,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The opening establishes the morning routines, the approaching patrol, and preparations; the next beat begins with the decision to shoot the flying demon.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "The Ambush Drives Them Back",
+      "startUid": "u0323",
+      "endUid": "u0620",
+      "lineCount": 298,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The ambush and first exchange end with the gnolls retreating, forcing a decision about pursuit.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Kenzo Opens the Gate",
+      "startUid": "u0621",
+      "endUid": "u0977",
+      "lineCount": 357,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo drops down and opens the gate to lure the gnolls back, then closes it while the leader continues fleeing; the next phase begins as the party braces for the assault.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Holding the Gate",
+      "startUid": "u0978",
+      "endUid": "u1217",
+      "lineCount": 240,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Seeker inspires Kenzo, the gnolls batter the gate open, and Kenzo returns an arrow; this phase ends when Wellby kills the fleeing leader.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Hunters Fall",
+      "startUid": "u1218",
+      "endUid": "u1553",
+      "lineCount": 336,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The allies eliminate the two hunters while Kenzo fights at the entrance; the next phase begins when his position underneath the passage prevents further support from above.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Kenzo Stands His Ground",
+      "startUid": "u1554",
+      "endUid": "u1821",
+      "lineCount": 268,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo nearly falls, his companions try to reach him by rope, and he finishes the gatehouse fight; pursuit becomes a new objective.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Pits and Pursuit",
+      "startUid": "u1822",
+      "endUid": "u1977",
+      "lineCount": 156,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party secures the sleeping hyenas and chases the survivor to the outer plaza, where new initiative precedes a separate fight.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Battle in the Outer Plaza",
+      "startUid": "u1978",
+      "endUid": "u2130",
+      "lineCount": 153,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The fleeing gnoll and three others are killed in a fresh combat; the survivors turn to exploration and the captive animals.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Captives and Clues",
+      "startUid": "u2131",
+      "endUid": "u2426",
+      "lineCount": 296,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Parallel investigation covers the stables, barracks, lookout, and leader's belongings; everyone then regroups to decide what to do with the prisoners.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Corruption, Questions, and Breakfast",
+      "startUid": "u2427",
+      "endUid": "u2658",
+      "lineCount": 232,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The group debates releasing the animals, connects several possible sources of corruption, and completes a short rest before deferring the pools to next session.",
+      "dateEvidence": [
+        "The session manifest anchors 1748-04-13. u0002 and u0046–u0048 establish sunrise; the continuous morning action reaches about 08:00 at u2122, then a ritual and short rest (u2184–u2185, u2631–u2640) without a day change."
+      ]
+    }
+  ]
+}
