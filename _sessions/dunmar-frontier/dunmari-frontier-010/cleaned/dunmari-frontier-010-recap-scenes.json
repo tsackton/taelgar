@@ -1,0 +1,52 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Beneath Raven’s Hold",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The tunnel approach, Wellby’s discoveries, and the route discussion establish the party’s position and next objective.",
+      "overview": "Enter the tunnels, compare Wellby’s discoveries, and map a cautious route forward.",
+      "transitionToNext": "Noises from the southwest interrupt the planning and prompt Delwath to investigate."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Securing the Tunnels",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The suspicious noises prompt reconnaissance and a quiet attack on the undead; the cleared tunnels then provide safe lookout positions for recovery and an hour of watching. Everyone remains outside the towers throughout.",
+      "overview": "Scout the exits, clear the undead prison, and rest while watching the keep until sunset.",
+      "transitionToNext": "After regrouping, the party commits to crossing from the tunnels into the towers."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Into the Towers",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "The entry plan, Kenzo’s first crossing into the tower, exploration, discovery of Vola, and the guard fight form one continuous infiltration and rescue attempt.",
+      "overview": "Enter and explore the towers, discover Vola, and defeat her captors.",
+      "transitionToNext": "The guard fight ends; attention shifts to Vola’s release, equipment, and account of her mission."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Vola and the Relic Race",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "The aftermath of the guard fight focuses on Vola: recovering her equipment, dealing with the captive, withdrawing, and hearing her account of the relic hunt.",
+      "overview": "Free and re-equip Vola, withdraw to safety, and learn about Agata and the Society’s relic hunt.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

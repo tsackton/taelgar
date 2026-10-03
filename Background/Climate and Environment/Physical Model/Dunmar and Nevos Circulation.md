@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 excludePublish: [all]
 ---
 # Dunmar and Nevos Circulation
@@ -84,8 +84,6 @@ Snow is physically possible on the highest cold terrain in this southern range. 
 [[Illoria]] has a warm subtropical climate. The surrounding sea limits temperature swings along exposed shores, while elevation cools the interiors. Its detailed annual rainfall pattern remains undeveloped.
 
 In active summer monsoon flow, western or southwestern exposures can receive moist air and uplifted rain, with local shelter on the opposite side. In the cooler season, northeasterly air that has traveled over land may arrive relatively dry, but gains moisture during a longer crossing of open water. The wetter exposure can therefore change with the wind. Island relief, ocean travel distance, and proximity to the northern storm fringe determine how pronounced that change becomes. A wetter windward slope does not establish that the entire archipelago is wet year-round or has Dunmar's rainfall calendar.
-
-The August 1748 voyage through Illoria had monsoon headwinds on westward legs and more variable winds farther north, yet reached Chardon. This is compatible with changing winds across the Nevos–Apporia transition. That voyage does not establish guaranteed sailing winds, storm frequency, a natural canal wind, or an annual voyage duration; the western continuation is maintained in [[Western Ocean and Coast Circulation#Seasonal coastal winds]].
 
 ## Weather episodes and retained examples
 

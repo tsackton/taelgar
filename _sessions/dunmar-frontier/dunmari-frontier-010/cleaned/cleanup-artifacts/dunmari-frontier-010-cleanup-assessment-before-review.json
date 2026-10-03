@@ -1,0 +1,36 @@
+{
+  "transcriptSha256": "6ca4c6eebca7e083fdbb0a08a5ee0a852487dd726676ec9921d92df4e186898a",
+  "judgment": "The main exploration, two fights, rescue of Vola, and her account are recoverable. Six localized uncertainties affect historical estimates, an old creature name, a scouting-duration fragment, a speculative sound identification, and the precise form in a shapeshifting question. Recommend continuing with explicit uncertainty and omitting unsupported particulars from downstream factual claims. Both cleanup passes are complete; incidental table chatter remains verbatim.",
+  "issues": [
+    {
+      "uid": "u0209",
+      "importance": "material",
+      "reason": "The spoken age estimate for the hobgoblin barracks may be eight or eighty years; later discussion establishes only an old occupation. Preserve the exact age as uncertain."
+    },
+    {
+      "uid": "u0298",
+      "importance": "material",
+      "reason": "An unclear creature name in the account of Great War incursions; hobgoblins and other creatures are clear, but the additional creature must not be identified without evidence."
+    },
+    {
+      "uid": "u0857",
+      "importance": "material",
+      "reason": "The scouting duration is garbled next to discussion of the one-hour spell. Later u0961-u0962 explicitly estimates the completed scouting at fifteen minutes; do not use the marked phrase as a precise duration."
+    },
+    {
+      "uid": "u1501",
+      "importance": "material",
+      "reason": "Wellby speculates about the source of sounds near the tower, but the possible creature description is garbled. The DM has not identified the source; preserve that uncertainty."
+    },
+    {
+      "uid": "u1710",
+      "importance": "material",
+      "reason": "The age range for the abandoned hobgoblin quarters is garbled. The absence of recent occupation is clear; the numerical range is not."
+    },
+    {
+      "uid": "u2622",
+      "importance": "material",
+      "reason": "The shape the bound guard might assume is unclear. Vola confirms it could escape and recommends killing it, but do not invent the proposed form."
+    }
+  ]
+}

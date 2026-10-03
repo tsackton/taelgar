@@ -1,0 +1,1814 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 10,
+    "realWorldDate": "2020-10-02",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-12"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "locationRefs": [
+        "dwarven outpost",
+        "upper storeroom",
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Undead hobgoblins",
+        "Gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Blackened Claw coins",
+        "Hobgoblin logbook"
+      ],
+      "combatBeatIds": [
+        "beat-005"
+      ],
+      "sourceShortSummaries": [
+        "Riswynn breaks the rusty lock and leads the climb through a rough tunnel toward Raven’s Hold.",
+        "Wellby reports traces of a former hobgoblin occupation and gnolls herding dogs under the watch of a small bat-like demon.",
+        "The party maps its uncertain position and debates scouting forward or returning to observe the valley and investigate an iron construct.",
+        "Invisible Delwath finds two undead in a prison and scouts exits overlooking the gnoll-held plaza and an inner tower.",
+        "The party quietly kills the two undead hobgoblins and investigates the chamber’s use as a prison and execution room.",
+        "An hour of watching reveals gnoll guard changes, animal activity, strange noises near the towers, and firelight in the keep."
+      ],
+      "sourceLongSummaries": [
+        "Kenzo cannot pick the rusted padlock, so Riswynn breaks it with her warhammer. The party follows the rough eastern tunnel for roughly 1,000–1,500 feet to a spiral ascent and a narrow vertical shaft. Riswynn climbs about forty feet using old iron fastenings and lowers Delwath’s rope from an empty storeroom with a southwestern exit. Seeker judges the work much newer and cruder than the dwarven outpost, and notices that limestone gave way to harder rock before the ascent.",
+        "Wellby rejoins the party with Blackened Claw coins and a hobgoblin logbook that nobody can read; its repeated headings appear to cover about three years. He describes dusty barracks and severed, dried human heads displayed in the old armory. The group reviews Raven’s Hold’s former Dunmari–dwarven trade and its abandonment during the Great War, without establishing a precise date for the later hobgoblin occupation. Through arrow slits, Wellby saw three gnolls driving wild dogs toward the gates while a small bat-like creature with claws and a spiny back watched from above; its authority over them remains uncertain.",
+        "Kenzo urges caution and proposes splitting the party to observe the valley while others explore the tunnel. Wellby adds that a mechanical iron figure patrols a rubble-blocked section of the dwarven stronghold; Seeker recalls stories of ancient dwarven guards powered by runes, whose construction is now lost knowledge. They use a shared map, distance estimates, and the change in bedrock to place themselves somewhere near the keep, though the southwest passage remains puzzling. Seeker makes little figurines and proposes settling the choice with carved stone dice, just before a noise interrupts the debate.",
+        "Movement and tapping from the southwest interrupt the debate, and the party reaches a curving corridor. Delwath turns invisible and finds two decaying hobgoblin-like creatures cracking and gnawing bones in a chamber with manacles, hostile Dunmari inscriptions, and a stone platform. To the north, rubble blocks a former gateway overlooking a sunlit plaza with three gnolls and the sounds of many animals beyond. To the south, an unlocked iron gate opens onto a small bridge leading to an upper door in a tower; he can also see a second tower and the inner keep. After about fifteen minutes of scouting, Delwath returns as a louder crash comes from the prison.",
+        "The party decides to remove the undead so that it can watch the keep safely. They approach quietly, with invisible Delwath and Wellby moving ahead; Kenzo throws a light into the room as Seeker, Wellby, and Delwath strike, killing the first creature with arrows and Eldritch Blast. Riswynn burns the second with Sacred Flame, and further attacks wound it before it rushes Delwath. Kenzo finishes it with his quarterstaff and an unarmed strike. The room falls quiet, and closer inspection reveals headless humanoid skeletons, manacles, an apparent execution platform, and Dunmari insults, suggesting hobgoblins once held Dunmari prisoners there.",
+        "The party divides between two lookout points while taking a short rest: Wellby and Kenzo watch from the southern iron gate, while Delwath, Riswynn, and Seeker use the northern rubble gap. At the plaza, the gnolls leave and return, animal cries suggest feeding, and four new gnolls take watch. In the south, the first forty-five minutes are quiet before scrambling, growling, and hissing come from around the tower’s north side; the watchers cannot identify the source. Firelight appears in the main keep as the hour ends at sunset, and the group regathers to plan its next move."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Through the Hidden Tunnel",
+          "boundaryReason": "The locked gate and ascent form one continuous journey to the upper storeroom. The next beat begins when Wellby rejoins the party.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0197"
+          },
+          "shortSummary": "Riswynn breaks the rusty lock and leads the climb through a rough tunnel toward Raven’s Hold.",
+          "longSummary": "Kenzo cannot pick the rusted padlock, so Riswynn breaks it with her warhammer. The party follows the rough eastern tunnel for roughly 1,000–1,500 feet to a spiral ascent and a narrow vertical shaft. Riswynn climbs about forty feet using old iron fastenings and lowers Delwath’s rope from an empty storeroom with a southwestern exit. Seeker judges the work much newer and cruder than the dwarven outpost, and notices that limestone gave way to harder rock before the ascent.",
+          "locationHints": {
+            "refs": [
+              "dwarven outpost",
+              "upper storeroom"
+            ],
+            "context": "rough underground passage, spiral ascent, and vertical shaft"
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Wellby’s Scouting Report",
+          "boundaryReason": "Wellby returns and recounts the old occupation and present activity; the next beat shifts to deciding where to scout.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0198",
+            "endUid": "u0378"
+          },
+          "shortSummary": "Wellby reports traces of a former hobgoblin occupation and gnolls herding dogs under the watch of a small bat-like demon.",
+          "longSummary": "Wellby rejoins the party with Blackened Claw coins and a hobgoblin logbook that nobody can read; its repeated headings appear to cover about three years. He describes dusty barracks and severed, dried human heads displayed in the old armory. The group reviews Raven’s Hold’s former Dunmari–dwarven trade and its abandonment during the Great War, without establishing a precise date for the later hobgoblin occupation. Through arrow slits, Wellby saw three gnolls driving wild dogs toward the gates while a small bat-like creature with claws and a spiny back watched from above; its authority over them remains uncertain.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "storeroom above the underground approach"
+          },
+          "npcDetails": [
+            {
+              "name": "Gnolls",
+              "role": "mentioned",
+              "notes": "Wellby saw three herding wild dogs toward the gates."
+            },
+            {
+              "name": "Small bat-like demon",
+              "role": "mentioned",
+              "notes": "Observed through Wellby’s spyglass watching the gnolls; its exact nature and role are unknown."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Blackened Claw coins",
+              "role": "encountered",
+              "notes": "Silver and copper discs recovered and displayed by Wellby."
+            },
+            {
+              "name": "Hobgoblin logbook",
+              "role": "encountered",
+              "notes": "Unreadable to the party; appears to contain about three years of entries and ends before the book is full."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Blackened Claw",
+              "role": "mentioned",
+              "notes": "The clan’s mark appears on Wellby’s recovered coins."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Mapping the Way Forward",
+          "boundaryReason": "The party debates routes, the iron construct, and splitting up; movement heard at u0674 interrupts the planning.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0379",
+            "endUid": "u0673"
+          },
+          "shortSummary": "The party maps its uncertain position and debates scouting forward or returning to observe the valley and investigate an iron construct.",
+          "longSummary": "Kenzo urges caution and proposes splitting the party to observe the valley while others explore the tunnel. Wellby adds that a mechanical iron figure patrols a rubble-blocked section of the dwarven stronghold; Seeker recalls stories of ancient dwarven guards powered by runes, whose construction is now lost knowledge. They use a shared map, distance estimates, and the change in bedrock to place themselves somewhere near the keep, though the southwest passage remains puzzling. Seeker makes little figurines and proposes settling the choice with carved stone dice, just before a noise interrupts the debate.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "upper storeroom; discussion of the tunnel, valley, and dwarven outpost"
+          },
+          "npcDetails": [
+            {
+              "name": "Iron construct",
+              "role": "mentioned",
+              "notes": "Wellby reports a patrol in the dwarven outpost; Seeker associates it with old stories of rune-powered guardians, without inspecting it."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Delwath Scouts Invisibly",
+          "boundaryReason": "A noise prompts Delwath to scout the prison and both ends of the curving tunnel; his return ends the reconnaissance.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0674",
+            "endUid": "u0969"
+          },
+          "shortSummary": "Invisible Delwath finds two undead in a prison and scouts exits overlooking the gnoll-held plaza and an inner tower.",
+          "longSummary": "Movement and tapping from the southwest interrupt the debate, and the party reaches a curving corridor. Delwath turns invisible and finds two decaying hobgoblin-like creatures cracking and gnawing bones in a chamber with manacles, hostile Dunmari inscriptions, and a stone platform. To the north, rubble blocks a former gateway overlooking a sunlit plaza with three gnolls and the sounds of many animals beyond. To the south, an unlocked iron gate opens onto a small bridge leading to an upper door in a tower; he can also see a second tower and the inner keep. After about fifteen minutes of scouting, Delwath returns as a louder crash comes from the prison.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "curving tunnel network, prison, northern rubble exit, and southern bridge"
+          },
+          "npcDetails": [
+            {
+              "name": "Undead hobgoblins",
+              "role": "enemy",
+              "notes": "Two creatures gnaw bones in the prison."
+            },
+            {
+              "name": "Gnolls",
+              "role": "encountered",
+              "notes": "Three lounge on the plaza beyond the blocked northern exit; many animals can be heard farther north."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Clearing the Undead Prison",
+          "boundaryReason": "The party plans and executes a quiet attack on the two undead, then examines the former prison before choosing lookout positions.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0970",
+            "endUid": "u1311"
+          },
+          "shortSummary": "The party quietly kills the two undead hobgoblins and investigates the chamber’s use as a prison and execution room.",
+          "longSummary": "The party decides to remove the undead so that it can watch the keep safely. They approach quietly, with invisible Delwath and Wellby moving ahead; Kenzo throws a light into the room as Seeker, Wellby, and Delwath strike, killing the first creature with arrows and Eldritch Blast. Riswynn burns the second with Sacred Flame, and further attacks wound it before it rushes Delwath. Kenzo finishes it with his quarterstaff and an unarmed strike. The room falls quiet, and closer inspection reveals headless humanoid skeletons, manacles, an apparent execution platform, and Dunmari insults, suggesting hobgoblins once held Dunmari prisoners there.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "underground prison and execution chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Undead hobgoblins",
+              "role": "enemy",
+              "notes": "Both are killed in the quiet ambush."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Two undead hobgoblins",
+                "notes": "Rotting, clawed creatures feeding on the prison’s bones."
+              }
+            ],
+            "notes": "A quiet ambush using arrows, Eldritch Blast, Sacred Flame, and Kenzo’s melee attacks kills both; the transcript records no successful enemy attack."
+          }
+        },
+        {
+          "beatId": "beat-006",
+          "title": "An Hour on Watch",
+          "boundaryReason": "The group selects and occupies two observation points for a shared short rest, then regroups at sunset.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1312",
+            "endUid": "u1553"
+          },
+          "shortSummary": "An hour of watching reveals gnoll guard changes, animal activity, strange noises near the towers, and firelight in the keep.",
+          "longSummary": "The party divides between two lookout points while taking a short rest: Wellby and Kenzo watch from the southern iron gate, while Delwath, Riswynn, and Seeker use the northern rubble gap. At the plaza, the gnolls leave and return, animal cries suggest feeding, and four new gnolls take watch. In the south, the first forty-five minutes are quiet before scrambling, growling, and hissing come from around the tower’s north side; the watchers cannot identify the source. Firelight appears in the main keep as the hour ends at sunset, and the group regathers to plan its next move.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "northern rubble peephole and southern iron gate"
+          },
+          "npcDetails": [
+            {
+              "name": "Gnolls",
+              "role": "encountered",
+              "notes": "The original guards leave and four others take up watch during the hour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010",
+        "beat-011"
+      ],
+      "locationRefs": [
+        "Raven's Hold",
+        "occupied second tower",
+        "empty first tower"
+      ],
+      "npcRefs": [
+        "Undead hobgoblins",
+        "Vola",
+        "Orc guard",
+        "Jackal shapeshifters",
+        "Captive jackal shapeshifter"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Jeweled silver goblet",
+        "Hobgoblin captain’s equipment",
+        "Unidentified magical scroll",
+        "Healing potion",
+        "Dwarven light crystal",
+        "Riswynn’s magical warhammer",
+        "Vola’s adventuring gear"
+      ],
+      "combatBeatIds": [
+        "beat-009"
+      ],
+      "sourceShortSummaries": [
+        "Invisible Kenzo finds an empty tower that can shelter the party, while its abandoned rooms yield a magical scroll.",
+        "Kenzo discovers Vola imprisoned in the occupied tower, gives her a healing potion, and brings back a rescue plan.",
+        "The rescue turns into a fight with an orc and a jackal-like shapeshifter, both of whom the party kills.",
+        "The party recovers Vola’s equipment, deals with the captive guard, and returns with her to the empty tower.",
+        "Vola explains that the Society of the Open Scroll is racing Agata Dustmother to recover lost imperial relics."
+      ],
+      "sourceLongSummaries": [
+        "After Delwath tests the unlocked wooden door with Mage Hand, he makes Kenzo invisible. Kenzo slips inside and sees undead hobgoblins wandering a dead garden beyond the windows. The tower itself is empty: the upper apartment bears the Blackened Claw mark and still holds a jeweled silver goblet, armor, and a greatsword. Broken stairs block easy access from below, and a barred passage crosses above the gate to the second tower. Kenzo brings the party in before scouting farther; Seeker senses traces of gemstones and precious metals near the ruined armory to the north, while Delwath finds a magical scroll concealed in the desk but cannot identify its spell.",
+        "Kenzo crosses above the gate into the second tower. He passes an orc heading toward its quarters and finds two apparently human guards near a badly wounded, bound woman upstairs. After one guard kicks her and promises more in the morning, both leave. Still invisible, Kenzo introduces himself, learns her name is Vola, unties her, and promises help. She has lost track of her captivity and initially wonders whether the Society sent him. Finding a guard posted by the stairs, Kenzo gives Vola a healing potion and returns to his companions; they plan to use Seeker’s Sleep and prevent the guards from raising an alarm.",
+        "Seeker puts the stair guard to sleep, but its fall alerts the orc and the second guard, whose face shifts into an animal snout. Wellby’s arrows and Seeker’s Heat Metal hurt the orc, which plunges the room into magical darkness. Kenzo uses his light crystal’s Daylight to dispel it, ending his own invisibility. The shapeshifter ignores a strike from Kenzo’s ordinary staff, wounds Seeker, and breaks his concentration, but Riswynn’s magical warhammer and Searing Smite hurt it; Delwath finishes it with his pact sword. More arrows badly wound the orc, and Kenzo intercepts its escape and kills it with Flurry of Blows as it promises vengeance. The third guard remains asleep.",
+        "The party knocks out and binds the sleeping guard while Kenzo retrieves Vola. A search finds her daggers, cloak, hand crossbow, and other adventuring supplies, which she reclaims. When Seeker asks whether the prisoner can change shape and escape his bonds, Vola says he can and urges them to kill him; her own weapons may be ineffective, so Delwath summons a shadowy dagger to handle him. Vola remains guarded but ready to move. The party brings her back across to the first tower and bars the door before talking.",
+        "Behind the barred tower door, the party introduces itself and Wellby tells Vola that Arcus is dead, prompting a brief show of sadness. Vola says she and Arcus belonged to the Society of the Open Scroll, associated with Chardon’s library, which is trying to recover imperial relics before Agata Dustmother obtains them. She does not know exactly what Agata is or why she wants the relics, and learned part of the story from the three servants the party has just killed. Wellby remains skeptical of Chardonian claims to the objects. Vola never reached the keep and knows little about the animals, though their noises have grown over five days. Around 7 p.m., they discuss traveling together while continuing to investigate."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "The Empty Tower",
+          "boundaryReason": "Kenzo scouts the first tower under Invisibility, brings the party inside, and they search its abandoned rooms; the next beat enters the occupied tower.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1554",
+            "endUid": "u1802"
+          },
+          "shortSummary": "Invisible Kenzo finds an empty tower that can shelter the party, while its abandoned rooms yield a magical scroll.",
+          "longSummary": "After Delwath tests the unlocked wooden door with Mage Hand, he makes Kenzo invisible. Kenzo slips inside and sees undead hobgoblins wandering a dead garden beyond the windows. The tower itself is empty: the upper apartment bears the Blackened Claw mark and still holds a jeweled silver goblet, armor, and a greatsword. Broken stairs block easy access from below, and a barred passage crosses above the gate to the second tower. Kenzo brings the party in before scouting farther; Seeker senses traces of gemstones and precious metals near the ruined armory to the north, while Delwath finds a magical scroll concealed in the desk but cannot identify its spell.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "first inner-wall tower, with views over the ruined garden"
+          },
+          "npcDetails": [
+            {
+              "name": "Undead hobgoblins",
+              "role": "encountered",
+              "notes": "Several wander the courtyard below without obvious purpose."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jeweled silver goblet",
+              "role": "encountered",
+              "notes": "An old goblet set with red gems remains in the abandoned captain’s apartment."
+            },
+            {
+              "name": "Hobgoblin captain’s equipment",
+              "role": "encountered",
+              "notes": "Armor and a greatsword remain with the old furnishings."
+            },
+            {
+              "name": "Unidentified magical scroll",
+              "role": "encountered",
+              "notes": "Delwath finds it tucked inside the desk; its spell is not recognized."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Blackened Claw",
+              "role": "mentioned",
+              "notes": "The clan’s mark is painted on the wall of the abandoned apartment."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Finding Vola",
+          "boundaryReason": "Kenzo discovers the occupied tower and its prisoner, aids Vola, and returns to plan her rescue. The next beat begins the group’s approach.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1803",
+            "endUid": "u2070"
+          },
+          "shortSummary": "Kenzo discovers Vola imprisoned in the occupied tower, gives her a healing potion, and brings back a rescue plan.",
+          "longSummary": "Kenzo crosses above the gate into the second tower. He passes an orc heading toward its quarters and finds two apparently human guards near a badly wounded, bound woman upstairs. After one guard kicks her and promises more in the morning, both leave. Still invisible, Kenzo introduces himself, learns her name is Vola, unties her, and promises help. She has lost track of her captivity and initially wonders whether the Society sent him. Finding a guard posted by the stairs, Kenzo gives Vola a healing potion and returns to his companions; they plan to use Seeker’s Sleep and prevent the guards from raising an alarm.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "second inner-wall tower, occupied quarters and fourth-floor prison rooms"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "encountered",
+              "notes": "Wounded prisoner; Kenzo unties her and gives her a healing potion."
+            },
+            {
+              "name": "Orc guard",
+              "role": "enemy",
+              "notes": "Seen moving down from the prisoner’s floor to its quarters."
+            },
+            {
+              "name": "Jackal shapeshifters",
+              "role": "enemy",
+              "notes": "Two guards initially appear human; their nature is revealed during and after the rescue."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Healing potion",
+              "role": "encountered",
+              "notes": "Kenzo gives it to Vola so that she can recover enough to escape."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Vola asks whether the Society sent Kenzo; she supplies its full name later in the session."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Fighting the Tower Guards",
+          "boundaryReason": "The rescue attempt starts with Sleep and becomes a fight with the orc and shapeshifter, ending when Kenzo kills the fleeing orc.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2071",
+            "endUid": "u2518"
+          },
+          "shortSummary": "The rescue turns into a fight with an orc and a jackal-like shapeshifter, both of whom the party kills.",
+          "longSummary": "Seeker puts the stair guard to sleep, but its fall alerts the orc and the second guard, whose face shifts into an animal snout. Wellby’s arrows and Seeker’s Heat Metal hurt the orc, which plunges the room into magical darkness. Kenzo uses his light crystal’s Daylight to dispel it, ending his own invisibility. The shapeshifter ignores a strike from Kenzo’s ordinary staff, wounds Seeker, and breaks his concentration, but Riswynn’s magical warhammer and Searing Smite hurt it; Delwath finishes it with his pact sword. More arrows badly wound the orc, and Kenzo intercepts its escape and kills it with Flurry of Blows as it promises vengeance. The third guard remains asleep.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "third-floor quarters and stairs in the second inner-wall tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Orc guard",
+              "role": "enemy",
+              "notes": "Casts darkness, attempts to flee, and is killed by Kenzo."
+            },
+            {
+              "name": "Jackal shapeshifters",
+              "role": "enemy",
+              "notes": "One fights in a hybrid form and is killed; the other remains asleep."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Dwarven light crystal",
+              "role": "encountered",
+              "notes": "Kenzo uses its Daylight to dispel the orc’s magical darkness."
+            },
+            {
+              "name": "Riswynn’s magical warhammer",
+              "role": "encountered",
+              "notes": "Its attack harms the shapeshifter without activating the noisy thunder effect."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Orc guard",
+                "notes": "Wields a scimitar and casts magical darkness."
+              },
+              {
+                "name": "Two jackal shapeshifters",
+                "notes": "One remains asleep throughout; the other resists Kenzo’s ordinary staff but is hurt by magical weapons."
+              }
+            ],
+            "notes": "Sleep incapacitates one guard. Daylight dispels darkness, magical weapons kill the active shapeshifter, and Kenzo stops and kills the fleeing orc. Seeker is wounded and loses concentration on Heat Metal."
+          }
+        },
+        {
+          "beatId": "beat-010",
+          "title": "Freeing Vola and Withdrawing",
+          "boundaryReason": "The party secures the remaining guard, recovers Vola’s equipment, and withdraws with her to the first tower; the next beat is their conversation in safety.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2519",
+            "endUid": "u2693"
+          },
+          "shortSummary": "The party recovers Vola’s equipment, deals with the captive guard, and returns with her to the empty tower.",
+          "longSummary": "The party knocks out and binds the sleeping guard while Kenzo retrieves Vola. A search finds her daggers, cloak, hand crossbow, and other adventuring supplies, which she reclaims. When Seeker asks whether the prisoner can change shape and escape his bonds, Vola says he can and urges them to kill him; her own weapons may be ineffective, so Delwath summons a shadowy dagger to handle him. Vola remains guarded but ready to move. The party brings her back across to the first tower and bars the door before talking.",
+          "locationHints": {
+            "refs": [
+              "occupied second tower",
+              "empty first tower"
+            ],
+            "context": "retrieving the prisoner and returning across the gate passage"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "Freed, partly healed, and reunited with her equipment."
+            },
+            {
+              "name": "Captive jackal shapeshifter",
+              "role": "enemy",
+              "notes": "Bound and unconscious; Vola warns that it can escape, and Delwath summons a shadow dagger after the group decides to kill it."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Vola’s adventuring gear",
+              "role": "encountered",
+              "notes": "Recovered from a chest and returned to her, including daggers, a hand crossbow, and tools."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-011",
+          "title": "Agata and the Relic Race",
+          "boundaryReason": "The final conversation reveals Vola’s mission and Agata’s relic hunt, then ends with discussion of cooperation and further investigation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2694",
+            "endUid": "u2875"
+          },
+          "shortSummary": "Vola explains that the Society of the Open Scroll is racing Agata Dustmother to recover lost imperial relics.",
+          "longSummary": "Behind the barred tower door, the party introduces itself and Wellby tells Vola that Arcus is dead, prompting a brief show of sadness. Vola says she and Arcus belonged to the Society of the Open Scroll, associated with Chardon’s library, which is trying to recover imperial relics before Agata Dustmother obtains them. She does not know exactly what Agata is or why she wants the relics, and learned part of the story from the three servants the party has just killed. Wellby remains skeptical of Chardonian claims to the objects. Vola never reached the keep and knows little about the animals, though their noises have grown over five days. Around 7 p.m., they discuss traveling together while continuing to investigate.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "empty first tower, behind the barred connecting door"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "Chardonian adventurer and Society member; gives an incomplete account of the relic hunt."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "notes": "Vola knew him and confirms that he also belonged to the Society; the party reports his death."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "Called Agata Dustmother by Vola; her precise nature and motives remain uncertain."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Vola says it seeks lost imperial relics ahead of Agata."
+            },
+            {
+              "name": "Great Library",
+              "role": "mentioned",
+              "notes": "The Society is associated with the library in Chardon."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Beneath Raven’s Hold",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0673"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0197"
+        },
+        {
+          "startUid": "u0198",
+          "endUid": "u0378"
+        },
+        {
+          "startUid": "u0379",
+          "endUid": "u0673"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "dwarven outpost",
+        "upper storeroom",
+        "Raven's Hold"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Blackened Claw coins",
+        "Hobgoblin logbook"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Riswynn breaks the rusty lock and leads the climb through a rough tunnel toward Raven’s Hold.",
+        "Wellby reports traces of a former hobgoblin occupation and gnolls herding dogs under the watch of a small bat-like demon.",
+        "The party maps its uncertain position and debates scouting forward or returning to observe the valley and investigate an iron construct."
+      ],
+      "sourceLongSummaries": [
+        "Kenzo cannot pick the rusted padlock, so Riswynn breaks it with her warhammer. The party follows the rough eastern tunnel for roughly 1,000–1,500 feet to a spiral ascent and a narrow vertical shaft. Riswynn climbs about forty feet using old iron fastenings and lowers Delwath’s rope from an empty storeroom with a southwestern exit. Seeker judges the work much newer and cruder than the dwarven outpost, and notices that limestone gave way to harder rock before the ascent.",
+        "Wellby rejoins the party with Blackened Claw coins and a hobgoblin logbook that nobody can read; its repeated headings appear to cover about three years. He describes dusty barracks and severed, dried human heads displayed in the old armory. The group reviews Raven’s Hold’s former Dunmari–dwarven trade and its abandonment during the Great War, without establishing a precise date for the later hobgoblin occupation. Through arrow slits, Wellby saw three gnolls driving wild dogs toward the gates while a small bat-like creature with claws and a spiny back watched from above; its authority over them remains uncertain.",
+        "Kenzo urges caution and proposes splitting the party to observe the valley while others explore the tunnel. Wellby adds that a mechanical iron figure patrols a rubble-blocked section of the dwarven stronghold; Seeker recalls stories of ancient dwarven guards powered by runes, whose construction is now lost knowledge. They use a shared map, distance estimates, and the change in bedrock to place themselves somewhere near the keep, though the southwest passage remains puzzling. Seeker makes little figurines and proposes settling the choice with carved stone dice, just before a noise interrupts the debate."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Through the Hidden Tunnel",
+          "boundaryReason": "The locked gate and ascent form one continuous journey to the upper storeroom. The next beat begins when Wellby rejoins the party.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0197"
+          },
+          "shortSummary": "Riswynn breaks the rusty lock and leads the climb through a rough tunnel toward Raven’s Hold.",
+          "longSummary": "Kenzo cannot pick the rusted padlock, so Riswynn breaks it with her warhammer. The party follows the rough eastern tunnel for roughly 1,000–1,500 feet to a spiral ascent and a narrow vertical shaft. Riswynn climbs about forty feet using old iron fastenings and lowers Delwath’s rope from an empty storeroom with a southwestern exit. Seeker judges the work much newer and cruder than the dwarven outpost, and notices that limestone gave way to harder rock before the ascent.",
+          "locationHints": {
+            "refs": [
+              "dwarven outpost",
+              "upper storeroom"
+            ],
+            "context": "rough underground passage, spiral ascent, and vertical shaft"
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Wellby’s Scouting Report",
+          "boundaryReason": "Wellby returns and recounts the old occupation and present activity; the next beat shifts to deciding where to scout.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0198",
+            "endUid": "u0378"
+          },
+          "shortSummary": "Wellby reports traces of a former hobgoblin occupation and gnolls herding dogs under the watch of a small bat-like demon.",
+          "longSummary": "Wellby rejoins the party with Blackened Claw coins and a hobgoblin logbook that nobody can read; its repeated headings appear to cover about three years. He describes dusty barracks and severed, dried human heads displayed in the old armory. The group reviews Raven’s Hold’s former Dunmari–dwarven trade and its abandonment during the Great War, without establishing a precise date for the later hobgoblin occupation. Through arrow slits, Wellby saw three gnolls driving wild dogs toward the gates while a small bat-like creature with claws and a spiny back watched from above; its authority over them remains uncertain.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "storeroom above the underground approach"
+          },
+          "npcDetails": [
+            {
+              "name": "Gnolls",
+              "role": "mentioned",
+              "notes": "Wellby saw three herding wild dogs toward the gates."
+            },
+            {
+              "name": "Small bat-like demon",
+              "role": "mentioned",
+              "notes": "Observed through Wellby’s spyglass watching the gnolls; its exact nature and role are unknown."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Blackened Claw coins",
+              "role": "encountered",
+              "notes": "Silver and copper discs recovered and displayed by Wellby."
+            },
+            {
+              "name": "Hobgoblin logbook",
+              "role": "encountered",
+              "notes": "Unreadable to the party; appears to contain about three years of entries and ends before the book is full."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Blackened Claw",
+              "role": "mentioned",
+              "notes": "The clan’s mark appears on Wellby’s recovered coins."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Mapping the Way Forward",
+          "boundaryReason": "The party debates routes, the iron construct, and splitting up; movement heard at u0674 interrupts the planning.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0379",
+            "endUid": "u0673"
+          },
+          "shortSummary": "The party maps its uncertain position and debates scouting forward or returning to observe the valley and investigate an iron construct.",
+          "longSummary": "Kenzo urges caution and proposes splitting the party to observe the valley while others explore the tunnel. Wellby adds that a mechanical iron figure patrols a rubble-blocked section of the dwarven stronghold; Seeker recalls stories of ancient dwarven guards powered by runes, whose construction is now lost knowledge. They use a shared map, distance estimates, and the change in bedrock to place themselves somewhere near the keep, though the southwest passage remains puzzling. Seeker makes little figurines and proposes settling the choice with carved stone dice, just before a noise interrupts the debate.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "upper storeroom; discussion of the tunnel, valley, and dwarven outpost"
+          },
+          "npcDetails": [
+            {
+              "name": "Iron construct",
+              "role": "mentioned",
+              "notes": "Wellby reports a patrol in the dwarven outpost; Seeker associates it with old stories of rune-powered guardians, without inspecting it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Securing the Tunnels",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u0674",
+        "endUid": "u1553"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0674",
+          "endUid": "u0969"
+        },
+        {
+          "startUid": "u0970",
+          "endUid": "u1311"
+        },
+        {
+          "startUid": "u1312",
+          "endUid": "u1553"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Undead hobgoblins",
+        "Gnolls"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [
+        "Two undead hobgoblins"
+      ],
+      "sourceShortSummaries": [
+        "Invisible Delwath finds two undead in a prison and scouts exits overlooking the gnoll-held plaza and an inner tower.",
+        "The party quietly kills the two undead hobgoblins and investigates the chamber’s use as a prison and execution room.",
+        "An hour of watching reveals gnoll guard changes, animal activity, strange noises near the towers, and firelight in the keep."
+      ],
+      "sourceLongSummaries": [
+        "Movement and tapping from the southwest interrupt the debate, and the party reaches a curving corridor. Delwath turns invisible and finds two decaying hobgoblin-like creatures cracking and gnawing bones in a chamber with manacles, hostile Dunmari inscriptions, and a stone platform. To the north, rubble blocks a former gateway overlooking a sunlit plaza with three gnolls and the sounds of many animals beyond. To the south, an unlocked iron gate opens onto a small bridge leading to an upper door in a tower; he can also see a second tower and the inner keep. After about fifteen minutes of scouting, Delwath returns as a louder crash comes from the prison.",
+        "The party decides to remove the undead so that it can watch the keep safely. They approach quietly, with invisible Delwath and Wellby moving ahead; Kenzo throws a light into the room as Seeker, Wellby, and Delwath strike, killing the first creature with arrows and Eldritch Blast. Riswynn burns the second with Sacred Flame, and further attacks wound it before it rushes Delwath. Kenzo finishes it with his quarterstaff and an unarmed strike. The room falls quiet, and closer inspection reveals headless humanoid skeletons, manacles, an apparent execution platform, and Dunmari insults, suggesting hobgoblins once held Dunmari prisoners there.",
+        "The party divides between two lookout points while taking a short rest: Wellby and Kenzo watch from the southern iron gate, while Delwath, Riswynn, and Seeker use the northern rubble gap. At the plaza, the gnolls leave and return, animal cries suggest feeding, and four new gnolls take watch. In the south, the first forty-five minutes are quiet before scrambling, growling, and hissing come from around the tower’s north side; the watchers cannot identify the source. Firelight appears in the main keep as the hour ends at sunset, and the group regathers to plan its next move."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "Delwath Scouts Invisibly",
+          "boundaryReason": "A noise prompts Delwath to scout the prison and both ends of the curving tunnel; his return ends the reconnaissance.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0674",
+            "endUid": "u0969"
+          },
+          "shortSummary": "Invisible Delwath finds two undead in a prison and scouts exits overlooking the gnoll-held plaza and an inner tower.",
+          "longSummary": "Movement and tapping from the southwest interrupt the debate, and the party reaches a curving corridor. Delwath turns invisible and finds two decaying hobgoblin-like creatures cracking and gnawing bones in a chamber with manacles, hostile Dunmari inscriptions, and a stone platform. To the north, rubble blocks a former gateway overlooking a sunlit plaza with three gnolls and the sounds of many animals beyond. To the south, an unlocked iron gate opens onto a small bridge leading to an upper door in a tower; he can also see a second tower and the inner keep. After about fifteen minutes of scouting, Delwath returns as a louder crash comes from the prison.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "curving tunnel network, prison, northern rubble exit, and southern bridge"
+          },
+          "npcDetails": [
+            {
+              "name": "Undead hobgoblins",
+              "role": "enemy",
+              "notes": "Two creatures gnaw bones in the prison."
+            },
+            {
+              "name": "Gnolls",
+              "role": "encountered",
+              "notes": "Three lounge on the plaza beyond the blocked northern exit; many animals can be heard farther north."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Clearing the Undead Prison",
+          "boundaryReason": "The party plans and executes a quiet attack on the two undead, then examines the former prison before choosing lookout positions.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0970",
+            "endUid": "u1311"
+          },
+          "shortSummary": "The party quietly kills the two undead hobgoblins and investigates the chamber’s use as a prison and execution room.",
+          "longSummary": "The party decides to remove the undead so that it can watch the keep safely. They approach quietly, with invisible Delwath and Wellby moving ahead; Kenzo throws a light into the room as Seeker, Wellby, and Delwath strike, killing the first creature with arrows and Eldritch Blast. Riswynn burns the second with Sacred Flame, and further attacks wound it before it rushes Delwath. Kenzo finishes it with his quarterstaff and an unarmed strike. The room falls quiet, and closer inspection reveals headless humanoid skeletons, manacles, an apparent execution platform, and Dunmari insults, suggesting hobgoblins once held Dunmari prisoners there.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "underground prison and execution chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Undead hobgoblins",
+              "role": "enemy",
+              "notes": "Both are killed in the quiet ambush."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Two undead hobgoblins",
+                "notes": "Rotting, clawed creatures feeding on the prison’s bones."
+              }
+            ],
+            "notes": "A quiet ambush using arrows, Eldritch Blast, Sacred Flame, and Kenzo’s melee attacks kills both; the transcript records no successful enemy attack."
+          }
+        },
+        {
+          "beatId": "beat-006",
+          "title": "An Hour on Watch",
+          "boundaryReason": "The group selects and occupies two observation points for a shared short rest, then regroups at sunset.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1312",
+            "endUid": "u1553"
+          },
+          "shortSummary": "An hour of watching reveals gnoll guard changes, animal activity, strange noises near the towers, and firelight in the keep.",
+          "longSummary": "The party divides between two lookout points while taking a short rest: Wellby and Kenzo watch from the southern iron gate, while Delwath, Riswynn, and Seeker use the northern rubble gap. At the plaza, the gnolls leave and return, animal cries suggest feeding, and four new gnolls take watch. In the south, the first forty-five minutes are quiet before scrambling, growling, and hissing come from around the tower’s north side; the watchers cannot identify the source. Firelight appears in the main keep as the hour ends at sunset, and the group regathers to plan its next move.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "northern rubble peephole and southern iron gate"
+          },
+          "npcDetails": [
+            {
+              "name": "Gnolls",
+              "role": "encountered",
+              "notes": "The original guards leave and four others take up watch during the hour."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "combat",
+      "title": "Into the Towers",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "sourceRange": {
+        "startUid": "u1554",
+        "endUid": "u2518"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1554",
+          "endUid": "u1802"
+        },
+        {
+          "startUid": "u1803",
+          "endUid": "u2070"
+        },
+        {
+          "startUid": "u2071",
+          "endUid": "u2518"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Undead hobgoblins",
+        "Vola",
+        "Orc guard",
+        "Jackal shapeshifters"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Jeweled silver goblet",
+        "Hobgoblin captain’s equipment",
+        "Unidentified magical scroll",
+        "Healing potion",
+        "Dwarven light crystal",
+        "Riswynn’s magical warhammer"
+      ],
+      "combatEnemyRefs": [
+        "Orc guard",
+        "Two jackal shapeshifters"
+      ],
+      "sourceShortSummaries": [
+        "Invisible Kenzo finds an empty tower that can shelter the party, while its abandoned rooms yield a magical scroll.",
+        "Kenzo discovers Vola imprisoned in the occupied tower, gives her a healing potion, and brings back a rescue plan.",
+        "The rescue turns into a fight with an orc and a jackal-like shapeshifter, both of whom the party kills."
+      ],
+      "sourceLongSummaries": [
+        "After Delwath tests the unlocked wooden door with Mage Hand, he makes Kenzo invisible. Kenzo slips inside and sees undead hobgoblins wandering a dead garden beyond the windows. The tower itself is empty: the upper apartment bears the Blackened Claw mark and still holds a jeweled silver goblet, armor, and a greatsword. Broken stairs block easy access from below, and a barred passage crosses above the gate to the second tower. Kenzo brings the party in before scouting farther; Seeker senses traces of gemstones and precious metals near the ruined armory to the north, while Delwath finds a magical scroll concealed in the desk but cannot identify its spell.",
+        "Kenzo crosses above the gate into the second tower. He passes an orc heading toward its quarters and finds two apparently human guards near a badly wounded, bound woman upstairs. After one guard kicks her and promises more in the morning, both leave. Still invisible, Kenzo introduces himself, learns her name is Vola, unties her, and promises help. She has lost track of her captivity and initially wonders whether the Society sent him. Finding a guard posted by the stairs, Kenzo gives Vola a healing potion and returns to his companions; they plan to use Seeker’s Sleep and prevent the guards from raising an alarm.",
+        "Seeker puts the stair guard to sleep, but its fall alerts the orc and the second guard, whose face shifts into an animal snout. Wellby’s arrows and Seeker’s Heat Metal hurt the orc, which plunges the room into magical darkness. Kenzo uses his light crystal’s Daylight to dispel it, ending his own invisibility. The shapeshifter ignores a strike from Kenzo’s ordinary staff, wounds Seeker, and breaks his concentration, but Riswynn’s magical warhammer and Searing Smite hurt it; Delwath finishes it with his pact sword. More arrows badly wound the orc, and Kenzo intercepts its escape and kills it with Flurry of Blows as it promises vengeance. The third guard remains asleep."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "The Empty Tower",
+          "boundaryReason": "Kenzo scouts the first tower under Invisibility, brings the party inside, and they search its abandoned rooms; the next beat enters the occupied tower.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1554",
+            "endUid": "u1802"
+          },
+          "shortSummary": "Invisible Kenzo finds an empty tower that can shelter the party, while its abandoned rooms yield a magical scroll.",
+          "longSummary": "After Delwath tests the unlocked wooden door with Mage Hand, he makes Kenzo invisible. Kenzo slips inside and sees undead hobgoblins wandering a dead garden beyond the windows. The tower itself is empty: the upper apartment bears the Blackened Claw mark and still holds a jeweled silver goblet, armor, and a greatsword. Broken stairs block easy access from below, and a barred passage crosses above the gate to the second tower. Kenzo brings the party in before scouting farther; Seeker senses traces of gemstones and precious metals near the ruined armory to the north, while Delwath finds a magical scroll concealed in the desk but cannot identify its spell.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "first inner-wall tower, with views over the ruined garden"
+          },
+          "npcDetails": [
+            {
+              "name": "Undead hobgoblins",
+              "role": "encountered",
+              "notes": "Several wander the courtyard below without obvious purpose."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jeweled silver goblet",
+              "role": "encountered",
+              "notes": "An old goblet set with red gems remains in the abandoned captain’s apartment."
+            },
+            {
+              "name": "Hobgoblin captain’s equipment",
+              "role": "encountered",
+              "notes": "Armor and a greatsword remain with the old furnishings."
+            },
+            {
+              "name": "Unidentified magical scroll",
+              "role": "encountered",
+              "notes": "Delwath finds it tucked inside the desk; its spell is not recognized."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Blackened Claw",
+              "role": "mentioned",
+              "notes": "The clan’s mark is painted on the wall of the abandoned apartment."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Finding Vola",
+          "boundaryReason": "Kenzo discovers the occupied tower and its prisoner, aids Vola, and returns to plan her rescue. The next beat begins the group’s approach.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u1803",
+            "endUid": "u2070"
+          },
+          "shortSummary": "Kenzo discovers Vola imprisoned in the occupied tower, gives her a healing potion, and brings back a rescue plan.",
+          "longSummary": "Kenzo crosses above the gate into the second tower. He passes an orc heading toward its quarters and finds two apparently human guards near a badly wounded, bound woman upstairs. After one guard kicks her and promises more in the morning, both leave. Still invisible, Kenzo introduces himself, learns her name is Vola, unties her, and promises help. She has lost track of her captivity and initially wonders whether the Society sent him. Finding a guard posted by the stairs, Kenzo gives Vola a healing potion and returns to his companions; they plan to use Seeker’s Sleep and prevent the guards from raising an alarm.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "second inner-wall tower, occupied quarters and fourth-floor prison rooms"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "encountered",
+              "notes": "Wounded prisoner; Kenzo unties her and gives her a healing potion."
+            },
+            {
+              "name": "Orc guard",
+              "role": "enemy",
+              "notes": "Seen moving down from the prisoner’s floor to its quarters."
+            },
+            {
+              "name": "Jackal shapeshifters",
+              "role": "enemy",
+              "notes": "Two guards initially appear human; their nature is revealed during and after the rescue."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Healing potion",
+              "role": "encountered",
+              "notes": "Kenzo gives it to Vola so that she can recover enough to escape."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Vola asks whether the Society sent Kenzo; she supplies its full name later in the session."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Fighting the Tower Guards",
+          "boundaryReason": "The rescue attempt starts with Sleep and becomes a fight with the orc and shapeshifter, ending when Kenzo kills the fleeing orc.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2071",
+            "endUid": "u2518"
+          },
+          "shortSummary": "The rescue turns into a fight with an orc and a jackal-like shapeshifter, both of whom the party kills.",
+          "longSummary": "Seeker puts the stair guard to sleep, but its fall alerts the orc and the second guard, whose face shifts into an animal snout. Wellby’s arrows and Seeker’s Heat Metal hurt the orc, which plunges the room into magical darkness. Kenzo uses his light crystal’s Daylight to dispel it, ending his own invisibility. The shapeshifter ignores a strike from Kenzo’s ordinary staff, wounds Seeker, and breaks his concentration, but Riswynn’s magical warhammer and Searing Smite hurt it; Delwath finishes it with his pact sword. More arrows badly wound the orc, and Kenzo intercepts its escape and kills it with Flurry of Blows as it promises vengeance. The third guard remains asleep.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "third-floor quarters and stairs in the second inner-wall tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Orc guard",
+              "role": "enemy",
+              "notes": "Casts darkness, attempts to flee, and is killed by Kenzo."
+            },
+            {
+              "name": "Jackal shapeshifters",
+              "role": "enemy",
+              "notes": "One fights in a hybrid form and is killed; the other remains asleep."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Dwarven light crystal",
+              "role": "encountered",
+              "notes": "Kenzo uses its Daylight to dispel the orc’s magical darkness."
+            },
+            {
+              "name": "Riswynn’s magical warhammer",
+              "role": "encountered",
+              "notes": "Its attack harms the shapeshifter without activating the noisy thunder effect."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Orc guard",
+                "notes": "Wields a scimitar and casts magical darkness."
+              },
+              {
+                "name": "Two jackal shapeshifters",
+                "notes": "One remains asleep throughout; the other resists Kenzo’s ordinary staff but is hurt by magical weapons."
+              }
+            ],
+            "notes": "Sleep incapacitates one guard. Daylight dispels darkness, magical weapons kill the active shapeshifter, and Kenzo stops and kills the fleeing orc. Seeker is wounded and loses concentration on Heat Metal."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Vola and the Relic Race",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "sourceRange": {
+        "startUid": "u2519",
+        "endUid": "u2875"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2519",
+          "endUid": "u2693"
+        },
+        {
+          "startUid": "u2694",
+          "endUid": "u2875"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "occupied second tower",
+        "empty first tower",
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "Captive jackal shapeshifter"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Vola’s adventuring gear"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party recovers Vola’s equipment, deals with the captive guard, and returns with her to the empty tower.",
+        "Vola explains that the Society of the Open Scroll is racing Agata Dustmother to recover lost imperial relics."
+      ],
+      "sourceLongSummaries": [
+        "The party knocks out and binds the sleeping guard while Kenzo retrieves Vola. A search finds her daggers, cloak, hand crossbow, and other adventuring supplies, which she reclaims. When Seeker asks whether the prisoner can change shape and escape his bonds, Vola says he can and urges them to kill him; her own weapons may be ineffective, so Delwath summons a shadowy dagger to handle him. Vola remains guarded but ready to move. The party brings her back across to the first tower and bars the door before talking.",
+        "Behind the barred tower door, the party introduces itself and Wellby tells Vola that Arcus is dead, prompting a brief show of sadness. Vola says she and Arcus belonged to the Society of the Open Scroll, associated with Chardon’s library, which is trying to recover imperial relics before Agata Dustmother obtains them. She does not know exactly what Agata is or why she wants the relics, and learned part of the story from the three servants the party has just killed. Wellby remains skeptical of Chardonian claims to the objects. Vola never reached the keep and knows little about the animals, though their noises have grown over five days. Around 7 p.m., they discuss traveling together while continuing to investigate."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-010",
+          "title": "Freeing Vola and Withdrawing",
+          "boundaryReason": "The party secures the remaining guard, recovers Vola’s equipment, and withdraws with her to the first tower; the next beat is their conversation in safety.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2519",
+            "endUid": "u2693"
+          },
+          "shortSummary": "The party recovers Vola’s equipment, deals with the captive guard, and returns with her to the empty tower.",
+          "longSummary": "The party knocks out and binds the sleeping guard while Kenzo retrieves Vola. A search finds her daggers, cloak, hand crossbow, and other adventuring supplies, which she reclaims. When Seeker asks whether the prisoner can change shape and escape his bonds, Vola says he can and urges them to kill him; her own weapons may be ineffective, so Delwath summons a shadowy dagger to handle him. Vola remains guarded but ready to move. The party brings her back across to the first tower and bars the door before talking.",
+          "locationHints": {
+            "refs": [
+              "occupied second tower",
+              "empty first tower"
+            ],
+            "context": "retrieving the prisoner and returning across the gate passage"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "Freed, partly healed, and reunited with her equipment."
+            },
+            {
+              "name": "Captive jackal shapeshifter",
+              "role": "enemy",
+              "notes": "Bound and unconscious; Vola warns that it can escape, and Delwath summons a shadow dagger after the group decides to kill it."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Vola’s adventuring gear",
+              "role": "encountered",
+              "notes": "Recovered from a chest and returned to her, including daggers, a hand crossbow, and tools."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-011",
+          "title": "Agata and the Relic Race",
+          "boundaryReason": "The final conversation reveals Vola’s mission and Agata’s relic hunt, then ends with discussion of cooperation and further investigation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u2694",
+            "endUid": "u2875"
+          },
+          "shortSummary": "Vola explains that the Society of the Open Scroll is racing Agata Dustmother to recover lost imperial relics.",
+          "longSummary": "Behind the barred tower door, the party introduces itself and Wellby tells Vola that Arcus is dead, prompting a brief show of sadness. Vola says she and Arcus belonged to the Society of the Open Scroll, associated with Chardon’s library, which is trying to recover imperial relics before Agata Dustmother obtains them. She does not know exactly what Agata is or why she wants the relics, and learned part of the story from the three servants the party has just killed. Wellby remains skeptical of Chardonian claims to the objects. Vola never reached the keep and knows little about the animals, though their noises have grown over five days. Around 7 p.m., they discuss traveling together while continuing to investigate.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "empty first tower, behind the barred connecting door"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "Chardonian adventurer and Society member; gives an incomplete account of the relic hunt."
+            },
+            {
+              "name": "Arcus",
+              "role": "mentioned",
+              "notes": "Vola knew him and confirms that he also belonged to the Society; the party reports his death."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "Called Agata Dustmother by Vola; her precise nature and motives remain uncertain."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Vola says it seeks lost imperial relics ahead of Agata."
+            },
+            {
+              "name": "Great Library",
+              "role": "mentioned",
+              "notes": "The Society is associated with the library in Chardon."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Undead hobgoblins",
+        "beatIds": [
+          "beat-004",
+          "beat-005",
+          "beat-007"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "Gnolls",
+        "beatIds": [
+          "beat-004",
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Vola",
+        "beatIds": [
+          "beat-008",
+          "beat-010",
+          "beat-011"
+        ],
+        "relationKinds": [
+          "met",
+          "companion"
+        ]
+      },
+      {
+        "name": "Orc guard",
+        "beatIds": [
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "Jackal shapeshifters",
+        "beatIds": [
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "Captive jackal shapeshifter",
+        "beatIds": [
+          "beat-010"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-004",
+          "beat-005",
+          "beat-006"
+        ],
+        "enemyRefs": [
+          "Two undead hobgoblins"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-003",
+        "beatIds": [
+          "beat-007",
+          "beat-008",
+          "beat-009"
+        ],
+        "enemyRefs": [
+          "Orc guard",
+          "Two jackal shapeshifters"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "dwarven outpost",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "upper storeroom",
+        "beatIds": [
+          "beat-001"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-008",
+          "beat-009",
+          "beat-011"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "occupied second tower",
+        "beatIds": [
+          "beat-010"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "empty first tower",
+        "beatIds": [
+          "beat-010"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Undead hobgoblins",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004",
+            "beat-005",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Gnolls",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004",
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Vola",
+          "relationKinds": [
+            "met",
+            "companion"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-010",
+            "beat-011"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "occupied second tower -> empty first tower",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Orc guard",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Jackal shapeshifters",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Captive jackal shapeshifter",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "occupied second tower -> empty first tower",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "dwarven outpost",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "rough underground passage, spiral ascent, and vertical shaft",
+          "beatIds": [
+            "beat-001"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "upper storeroom",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "rough underground passage, spiral ascent, and vertical shaft",
+          "beatIds": [
+            "beat-001"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "storeroom above the underground approach",
+          "beatIds": [
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-009",
+            "beat-011"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "occupied second tower",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "retrieving the prisoner and returning across the gate passage",
+          "beatIds": [
+            "beat-010"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "empty first tower",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "retrieving the prisoner and returning across the gate passage",
+          "beatIds": [
+            "beat-010"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Blackened Claw coins",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Hobgoblin logbook",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Jeweled silver goblet",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Hobgoblin captain’s equipment",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Unidentified magical scroll",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Healing potion",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dwarven light crystal",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Riswynn’s magical warhammer",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Vola’s adventuring gear",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "occupied second tower -> empty first tower",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Small bat-like demon",
+          "contextHint": null
+        },
+        {
+          "name": "Iron construct",
+          "contextHint": null
+        },
+        {
+          "name": "Arcus",
+          "contextHint": null
+        },
+        {
+          "name": "Agata",
+          "contextHint": null
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Blackened Claw",
+          "contextHint": null
+        },
+        {
+          "name": "Society of the Open Scroll",
+          "contextHint": null
+        },
+        {
+          "name": "Great Library",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-recap-scenes.json"
+}
