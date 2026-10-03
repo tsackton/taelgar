@@ -69,6 +69,13 @@ def render(spec):
                          markerHeight=11, refX=11, refY=5.5,
                          orient='auto', markerUnits='userSpaceOnUse')
         element(marker, 'path', d='M0,0 L13,5.5 L0,11 Z', fill=COLORS[key])
+    areas = spec.get('areas', [])
+    for i, area in enumerate(areas):
+        pattern = element(defs, 'pattern', id=f'regional-hatch-{i}',
+                          width=8, height=8, patternUnits='userSpaceOnUse')
+        element(pattern, 'path', d='M-2,2 L2,-2 M0,8 L8,0 M6,10 L10,6',
+                fill='none', stroke=area['color'], stroke_width=1,
+                stroke_opacity='.65')
     element(root, 'rect', width=width, height=height, fill='white')
     group = element(root, 'g', font_family='Arial, Helvetica, sans-serif')
     text(group, margin, 47, spec['title'].upper(), 29)
@@ -79,6 +86,10 @@ def render(spec):
     text(group, margin+298, 127, 'Lower pressure', 18)
     arrow(group, [[585, 119], [650, 119]])
     text(group, 670, 127, 'Air travels this way', 18)
+    if areas:
+        element(group, 'rect', x=905, y=107, width=28, height=23,
+                fill='url(#regional-hatch-0)', stroke=areas[0]['color'])
+        text(group, 945, 127, spec.get('area_legend', 'Local influence'), 18)
     text(group, width-margin, 127, 'N ↑  ·  schematic seasonal patterns', 18, 'muted', 'end')
     viewport = element(group, 'svg', x=margin, y=top, width=map_width,
                        height=map_height, viewBox=f'{x} {y} {w} {h}', overflow='hidden')
@@ -101,6 +112,14 @@ def render(spec):
                    for prefix in spec.get('omit_path_prefixes', [])):
                 parent.remove(child)
     viewport.append(interior)
+    # Local departures stay visually distinct from pressure contours and winds.
+    area_layer = ET.Element(f'{{{NS}}}g')
+    if areas:
+        interior.insert(1, area_layer)
+    for i, area in enumerate(areas):
+        element(area_layer, 'path', d=area['path'], fill=area['color'], fill_opacity='.12')
+        element(area_layer, 'path', d=area['path'], fill=f'url(#regional-hatch-{i})',
+                stroke=area['color'], stroke_width=1.5, stroke_dasharray='5 4')
     # Keep geographic labels above new routes, as in the continental maps.
     routes = ET.Element(f'{{{NS}}}g')
     interior.insert(min(2, len(interior)), routes)
