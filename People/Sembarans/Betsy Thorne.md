@@ -1,14 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
-ancestry: Sembaran
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/ai, status/check/lint]
 species: human
+ancestry: Sembaran
 gender: female
 born: 1697
+name: Betsy Thorne
+affiliations:
+  - {org: "Lord's Guard of Cleenseau", title: Guardswoman}
+  - {org: Thornes of Cleenseau, type: primary}
 whereabouts: Cleenseau
-affiliations: [{org: Lord's Guard of Cleenseau, title: Guardswoman }, {org: Thornes of Cleenseau, type: primary }]
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720
 ---
 # Betsy Thorne
 >[!info]+ Biographical Info  
@@ -25,3 +32,25 @@ In late April 1720, Betsy left [[Rosalind Essford|Rosalind's]] guard for [[Asine
 - [[Asineau Hirelings (Email)]]
 - [[Cleenseau - Session 29]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: "Betsy Thorne", language: "Sembaran"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: A DR 1720 portrait combining her earlier Cleenseau guard service with her late-April move to Asineau; the undated opening and relationship metadata still need reconciliation.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported name, campaign-knowledge, and temporal metadata; normalized frontmatter formatting.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — temporal.inconsistent_frame:** The opening calls Betsy a current member of Cleenseau’s town watch and the header still gives `whereabouts: Cleenseau` with an open-ended Lord’s Guard affiliation, while the dated paragraph, [[Cleenseau - Session 29]], and [[Asineau Hirelings (Email)]] establish her late-April 1720 move and new guard service. For a post-move article, use `The daughter of [[Jon Thorne]], cousin of [[Beatrix Thorne]], and a former member of the Cleenseau town watch.` Reconcile whereabouts and guard affiliations to Asineau while retaining the Thorne family tie; supply or deliberately bound the transition dates instead of inventing an exact April day. Alternatively preserve an explicitly earlier snapshot and isolate the later paragraph in an approved Date block.
+%%^End%%

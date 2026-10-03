@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
 tags: [person]
-name: Gabriel Thorne
-born: 1690
 species: human
 ancestry: Sembaran
+born: 1690
 gender: male
+name: Gabriel Thorne
+affiliations:
+  - {org: Thornes of Cleenseau, type: primary}
 whereabouts: Cleenseau
-affiliations: [{org: Thornes of Cleenseau, type: primary }]
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1720s
 ---
 # Gabriel Thorne
 >[!info]+ Biographical Info  
@@ -19,3 +24,11 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[gabriel-thorne.png|right|320]]The son of [[Gideon Thorne]] and husband to [[Beatrix Thorne|Beatrix]]. A yeoman.
+
+%%^Metadata:names:v1%%
+- {name: "Gabriel Thorne", language: "Sembaran"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: A portrait around the beginning of the DR 1720s, following his marriage to Beatrix Thorne; the entry does not describe his wider life or later family history.
+%%^End%%

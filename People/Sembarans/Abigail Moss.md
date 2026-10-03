@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/ai]
-name: Abigail Moss
-born: 1698
 species: human
 ancestry: Sembaran
+born: 1698
 gender: female
+name: Abigail Moss
 whereabouts: Taviose
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720
 ---
 # Abigail Moss
 >[!info]+ Biographical Info  
@@ -20,13 +24,13 @@ dm_owner: mike
 
 Her family holds the orchard and several buildings in [[Taviose]] as freeholders, and her two uncles are successful pig farmers.
 
-%%^Campaign:Clee%%
+%%^Campaign:clee%%
 She has a potentially budding romance with [[Odo Cordwaner]], and a clear crush on [[Robin of Abenfyrd|Robin]]. 
 
 In late April 1720, she came to [[Asineau]] with Odo and his younger brother [[Samuel Cordwaner|Samuel]]. An orchardkeeper and pig farmer, she had not yet settled on a role there.
 %%^End%%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Relationships
 ```dataviewjs
 const { util } = customJS
@@ -36,4 +40,12 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 				.sort(f => util.s("<maintype:n>", f.file))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: "Abigail Moss", language: "Sembaran", status: "inferred", notes: "Language inferred from the subject’s established cultural and local naming context; this ordinary personal name needs no pronunciation guide."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a late-1719 and spring-1720 account of Abigail after the spider attacks, including her late-April arrival in Asineau; her eventual role there remains undecided.
 %%^End%%
