@@ -2,26 +2,28 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/stub, status/check/lint]
+tags: [person, status/check/lint]
 species: human
+ancestry: Sembaran
+gender: female
 name: Elodie Blanchard
+pronunciation: ay-loh-DEE blahn-SHAR
 knownTo: []
 dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
 # Elodie Blanchard
+*(ay-loh-DEE blahn-SHAR)*
 >[!info]+ Biographical Info  
-> A [[Humans|human]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
 
-%% seems a little thin to be complete, probably at least need to fill in header? %%
-
-%% lord of [[Dallet]]; no other details; made the picture for fun  %%
+Lady Elodie Blanchard is the lord of [[Dallet]].
 
 ![[elodie-blanchard.jpg]]
 
 %%^Metadata:names:v1%%
-- {name: "Elodie Blanchard", language: "unknown", pronunciation: "ay-loh-DEE blahn-SHAR", notes: "Proposed using the French component of the regional Sembaran naming guidance in [[Languages]]: initial E as ay, final stress in Elodie, nasal an, ch as sh, and silent final d in Blanchard. The name’s actual source language and exact in-world pronunciation remain unestablished.", status: "proposed"}
+- {name: "Elodie Blanchard", language: "Sembaran", pronunciation: "ay-loh-DEE blahn-SHAR", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
