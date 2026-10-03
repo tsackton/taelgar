@@ -26,7 +26,7 @@ The Sentinels are among the most prominent and significant features of Taelgar, 
 ## Climate and Character
 
 %%^Campaign:none%%
-Climate model and regional profiles: [[Climate of the Sentinels]] and [[Sentinels and Continental Weather Connections]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+Continental overview: [[Taelgar Climate Model Revised]]. Regional coverage: [[Climate of the Sentinels and Northern Highlands]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library.
 %%^End%%
 
 

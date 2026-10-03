@@ -60,7 +60,7 @@ Dangerous Wildernesses: No
 ## Climate
 
 %%^Campaign:none%%
-Climate model and regional profiles: [[Climate of Dunmar and the Chataans]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+Continental overview: [[Taelgar Climate Model Revised]]. Regional coverage: [[Climate of Dunmar and the Nevos]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library.
 %%^End%%
 
 

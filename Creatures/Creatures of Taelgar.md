@@ -69,6 +69,7 @@ Of all the many planes in the multiverse, the [[Feywild]] is by far the most acc
 
 %% might want a term for the kind of emotion-spirit fey, things like redcaps or meenlocks or boggles or similar %%
 ### The Elementals
+_See more: [[Elementals]]_
 
 The creatures of the elemental planes are most familiar to adventurers as the conjured allies of wizards and others who summon forth beings of pure elemental energy to serve them. But legends say these elementals are just a small fraction of the many forms of creatures that inhabit the elemental planes. Many speak of tale of genies -- the djinn of air, efreeti of fire, dao of earth, and marid of water -- who build great cities on their home planes and occasionally meddle with, or give aid to, adventurers. 
 

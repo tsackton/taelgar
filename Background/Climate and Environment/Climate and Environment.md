@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [meta, status/check/ai]
 excludePublish: [all]
 ---
 # Climate and Environment
@@ -14,20 +14,20 @@ Common tasks and sources are listed here:
 
 | Task                                                          | Start here                                                                                                         |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Look up a place or estimate conditions in undeveloped country | [[Regional Climate Atlas]] — Gazetteer regions, local profiles, and coverage limits.                               |
-| Understand the connected continental climate                  | [[Taelgar Climatic Model]] — shared physical assumptions, seasonal systems, and connections between regions.       |
+| Look up a place or estimate conditions in undeveloped country | [[Taelgar Climate Model Revised#Regional climates\|Continental regional overviews]]; [[Regional Climate Atlas]] — coverage definitions for the five regional volumes.                               |
+| Understand the connected continental climate                  | [[Taelgar Climate Model Revised]] — shared physical assumptions, seasonal systems, and connections between regions.       |
 | Prepare a sequence of weather                                 | [[Weather Patterns of Taelgar]] — destination for recurring weather patterns and their local expressions.          |
 | Choose or describe a habitat                                  | [[Biomes of Taelgar]] — existing habitat catalog; regional placement remains to be connected.                      |
 | Think about fields, travel, or trade                          | [[Climate and Landscape Applications]] — agriculture, seasonal landscapes, and navigation.                         |
 | Explore an unusual or magical departure                       | [[Magical Climate Departures]] — compare the expected baseline with the adopted exception.                         |
 | Check what the model must accommodate                         | [[Climate and Weather Constraints]] — maintained climatic requirements, campaign weather and their qualifications. |
-| Browse maps                                                   | [[Climate Map]] — existing annual map; [[Weather Patterns of Taelgar]] links the connected-weather examples.       |
+| Browse maps                                                   | [[Taelgar Climate Model Revised#Seasonal atmospheric model\|Continental seasonal maps]]; [[Weather Patterns of Taelgar]] links the connected-weather examples.       |
 
 **STATUS NOTE: This is a work in progress. While this note exists, do not assume the library is complete or all tasks above are possible!**
 
 ## Physical model
 
-The [[Taelgar Climatic Model|continent-wide model]] is a readable overview of the entire system. Detailed notes can be found in specialized and regional descriptions. Current notes are listed here:
+The [[Taelgar Climate Model Revised|continent-wide model]] is a readable overview of the entire system. The [[Regional Climate Atlas]] defines the five regional volumes, currently coverage stubs. The physical drafts below retain detail for later regional review; the revised continental account takes precedence where their explanations differ:
 
 - [[Western Ocean and Coast Circulation]]
 - [[Dunmar and Nevos Circulation]]
@@ -37,7 +37,7 @@ The [[Taelgar Climatic Model|continent-wide model]] is a readable overview of th
 
 The weather subdirectory stores things like storm tracks and weather patterns. The goal is to eventually build up an intuition and a reference for making changeable weather feel more like part of the world and making the world feel more alive and real in play. 
 
-The regional atlas stores regional climatic and seasonal descriptions. 
+The regional atlas volumes will hold detailed climatic and seasonal descriptions within their defined coverage.
 
 ## Habitats and Applications
 
@@ -76,7 +76,15 @@ The maintained constraints contain the accepted statements, scope, and qualifica
 - Develop the detailed Sentinel mountain synthesis within the accepted constraints and the established connections on both sides.
 - Expand the weather-pattern catalog and give the episode maps complete captions and clearer legends.
 - Connect and organize the biome catalog, then develop worked regional applications beyond the initial Sembara example in [[Agriculture and Seasonal Landscapes]].
-- Produce updated annual and continental seasonal maps, including the adopted Gulf exchange and proposed southern winter storm corridor where relevant.
+- Produce an updated annual climate map and reconcile regional figures with the continental seasonal maps and adopted Gulf exchange.
 - Develop numerical weather-generator inputs after the qualitative profiles and patterns are ready; address other unmodeled regional gaps as needed.
 - Consider structure - would it be better to have a specific AGENTS.md in this folder to supplement human details in this file?
 
+
+## Archive
+
+Earlier climate material is preserved in `_Old_` for historical comparison:
+
+- [[Climate Map]] — superseded annual climate-design map.
+- [[Taelgar Climatic Model]] — original continental model.
+- Earlier regional profiles: [[Climate of the Western Coast]], [[Climate of the Northwestern Interior]], [[Climate of Greater Sembara]], [[Climate of Dunmar and the Chataans]], [[Climate of the Green Sea Shores]], and [[Climate of the Sentinels]].

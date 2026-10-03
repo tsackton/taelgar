@@ -4,13 +4,13 @@ excludePublish: [all]
 ---
 # Western Ocean and Coast Circulation
 
-**Scope:** Western ocean air, the shared seasonal ridge over Chardon and the Coastlands, the Emerald Bay monsoon fringe, and maritime access to the northwestern interior. This is the current physical explanation; required outcomes are recorded separately in [[Climate and Weather Constraints]].
+**Scope:** Western ocean air, the shared seasonal ridge over Chardon and the Coastlands, the Emerald Bay monsoon fringe, and maritime access to the northwestern interior. This regional draft awaits reconciliation with [[Taelgar Climate Model Revised]]; required outcomes are recorded separately in [[Climate and Weather Constraints]].
 
 ## Ocean winds and the seasonal ridge
 
 Across the temperate northern [[Endless Ocean]], prevailing westerlies carry maritime air and weather generally eastward toward the coast. Farther south, northeasterly trade winds occupy the equatorward side of the subtropical high. These broad wind belts and the regional high belong to the same circulation. The vast ocean gives incoming western air a strongly maritime character and provides a long stretch of open water over which winds can build waves.
 
-In winter, the subtropical ridge lies farther south and ocean disturbances reach Chardon. Through spring and summer, the high broadens around Chardon and the [[Gulf of Chardon]], with its northern ridge extending gradually just offshore of the [[Coastlands]]. Summer drying develops later and becomes shorter and more interruptible toward the north. **The seasonal subtropical ridge ends south of Mawakel.** Its inland reach varies between seasons and years, including around [[Lake Valandros]]; its exact extent toward the Sentinels remains open, subject to the recurring summer moisture supply described in [[Climate of the Northwestern Interior#Lake Valandros and the western forests]].
+In winter, the subtropical ridge lies farther south and ocean disturbances reach Chardon. Through spring and summer, the high broadens around Chardon and the [[Gulf of Chardon]], with its northern ridge extending gradually just offshore of the [[Coastlands]]. Summer drying develops later and becomes shorter and more interruptible toward the north. **The seasonal subtropical ridge ends south of Mawakel.** Its inland reach varies between seasons and years, including around [[Lake Valandros]]; its exact extent toward the Sentinels remains open, subject to the recurring summer moisture supply described in [[Taelgar Climate Model Revised#Valandros and the western forest belt]].
 
 Northern ocean storms weaken in summer and their main tracks lie farther north. Mawakel retains a prevailing western component to its winds, with sharply alternating settled and unsettled spells as temporary highs interrupt the passage of fronts. The balance varies substantially between years. In autumn and winter, stronger ocean storms become more frequent; their return need not coincide exactly with the retreat of the southern ridge.
 
@@ -37,7 +37,7 @@ Western and southwestern maritime air reaches [[Lake Valandros]] and the forests
 
 **Summer rainfall diminishes, but recurring wet spells interrupt the forest's dry intervals.** When the Chardon ridge extends strongly inland, sunny, drying weather reaches the lake and forests. When its northern influence weakens or retreats, ocean disturbances penetrate eastward across the northern Coastlands toward Valandros, with rainfall enhanced over the rising forest country. A passing disturbance can draw moist air northeastward around the ridge's northern margin, giving these episodes a southwesterly wind. Their moisture comes from the western ocean; no southern monsoon connection is assigned.
 
-Recurring summer wet spells, abundant cool-season precipitation and spring snowmelt sustain Ainumarya's forest target. The local outcomes and retained source limits are in [[Climate of the Northwestern Interior#Lake Valandros and the western forests]]. The ocean remains the regional moisture source; local lake effects are unassigned.
+Recurring summer wet spells, abundant cool-season precipitation and spring snowmelt sustain Ainumarya's forest target. The local outcomes and retained source limits are in [[Taelgar Climate Model Revised#Valandros and the western forest belt]]. The ocean remains the regional moisture source; broad lake effects are described in [[Taelgar Climate Model Revised#Valandros and the western forest belt]].
 
 ## Mawakel winter air masses
 
@@ -60,7 +60,7 @@ The [[Emerald Song]] voyage in [[Session 47 (DuFr)]] establishes viable summer t
 > [!question] Unspecified parameters
 > Rainfall totals, temperature ranges, snow duration, wind speeds, exact pressure boundaries, and local wind bearings remain unassigned. The reach and reliability of southwestern rain around Voltara, the local strength of the Fiatara rain shadow, and mountain snowlines require further detail. Around Valandros and the forests, local summer rainfall frequency, the distribution of wetter and drier sites, lake effects, and lake freezing remain open. The detailed Sentinel climate remains unmodeled beyond these western forest margins and existing broad constraints. Ocean currents and water temperatures are not assigned by this atmospheric model. The existing Dunmar–Chardon seasonal map remains a southern schematic; it does not depict the northern ridge extension, Mawakel's storm regime, the northern inland climates, or the detailed Emerald Bay boundary.
 
-Local climates: [[Climate of the Western Coast]] and [[Climate of the Northwestern Interior]]. The southern monsoon response is in [[Dunmar and Nevos Circulation]]; cross-range winter redevelopment is in [[Sentinels and Continental Weather Connections]].
+Regional coverage: [[Climate of the Western Coast and Interior]]. The southern monsoon response is in [[Dunmar and Nevos Circulation]]; cross-range winter redevelopment is in [[Sentinels and Continental Weather Connections]].
 
 ## Comparisons and references
 
@@ -69,4 +69,4 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [Norwegian Meteorological Institute: local weather in Sunnmøre](https://wiki.met.no/snoskred/lokalt_vaer/sunnmore): north–northwest snow showers, predominantly rainy southwest–west weather, and colder inland districts; a mechanism comparison for Mawakel's winter alternation.
 - [Bureau of Meteorology: subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge): seasonal ridge migration and a persistently dry interior. Australian geography and Southern Hemisphere wind directions require adaptation.
 
-Return to [[Taelgar Climatic Model]] or [[Climate and Environment]].
+Return to [[Taelgar Climate Model Revised]] or [[Climate and Environment]].

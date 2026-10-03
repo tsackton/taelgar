@@ -4,6 +4,9 @@ excludePublish: [all]
 ---
 # Climate of the Sentinels
 
+> [!note] Archived climate material
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+
 **Gazetteer coverage:** [[Sentinel Range]], [[Northern Sentinels]], and mountain country within [[Central Highlands]]. Western forest profiles remain in [[Climate of the Northwestern Interior]].
 
 **Partial coverage — detailed mountain climate pending.** Existing cross-range mechanisms are explained in [[Sentinels and Continental Weather Connections]].

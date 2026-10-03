@@ -4,6 +4,9 @@ excludePublish: [all]
 ---
 # Taelgar Climatic Model
 
+> [!note] Archived climate material
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+
 ## Purpose, coverage and standing
 
 This is the shared climatic model for the developed parts of Taelgar: the [[Green Sea]] and [[Greater Sembara]], [[Greater Dunmar]] and its transition toward [[Greater Chardon]], and the western coast north to the [[Mawakel Peninsula]], with the adjoining [[Fiatara Mountains]], [[Erbalta Plains]], [[Lake Valandros]] and western Sentinel forests. It explains how these regions connect and provides a starting point for predicting climate in undeveloped places. It is not a complete global model.

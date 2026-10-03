@@ -4,6 +4,9 @@ excludePublish: [all]
 ---
 # Climate of the Green Sea Shores
 
+> [!note] Archived climate material
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+
 **Gazetteer coverage:** The shores of the [[Green Sea]], including [[Western Green Sea]], [[Eastern Green Sea]], [[Cymea]], [[Ursk]], [[Skaerhem]], and the broad [[Great Northern Forest]]/[[Vostok]] context.
 
 These profiles retain their differing levels of development. The atmospheric explanation is in [[Green Sea Atmospheric Circulation]], and the water/heat context in [[Green Sea Ocean Circulation]]. [[Climate of Greater Sembara]] owns Sembara and Tollen’s local profiles.
