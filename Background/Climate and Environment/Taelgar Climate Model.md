@@ -84,9 +84,9 @@ The seasons below are northern-hemisphere seasons; wind names indicate where the
 
 ### Summer
 
-![[assets/worldbuilding/taelgar-continental-pressure-summer-v2.png|1400]]
-
-*Northern summer pressure and surface winds. The northern Green Sea easterlies represent the July–August tendency. Dashed red and blue lines indicate broad ridge and trough axes.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-continental-pressure-summer-v2.png]]
+> *Northern summer pressure and surface winds. The northern Green Sea easterlies represent the July–August tendency. Dashed red and blue lines indicate broad ridge and trough axes.*
 
 **Ocean highs expand northward while heated land favors lower pressure.** The western subtropical high extends toward Chardon and the Coastlands, bringing stable, dry summer weather. Clockwise flow around it favors **north to northwest winds** along exposed western shores and **west to southwest winds** farther north. Passing ocean lows chiefly affect Mawar and the northern coast, with occasional incursions toward Valandros and the western forests.
 
@@ -100,9 +100,9 @@ Farther south, the tropical rain belt shifts northward, helping extend seasonal 
 
 ### Winter
 
-![[assets/worldbuilding/taelgar-continental-pressure-winter-v2.png|1400]]
-
-*Northern winter pressure and surface winds, using the same basemap extent and symbols as the summer view. Dashed purple arrows show occasional cold outbreaks from the continental interior.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-continental-pressure-winter-v2.png]]
+> *Northern winter pressure and surface winds, using the same basemap extent and symbols as the summer view. Dashed purple arrows show occasional cold outbreaks from the continental interior.*
 
 **Cold continental highs strengthen while ocean storms become more active.** High pressure builds over the cold northern interior and uplands, including the Zimkova–Vostok country and the northern forests. Cold air spreads into the temperate districts in recurring **northerly and easterly outbreaks**. Mountain barriers and distance from the sea help these cold, dry conditions persist inland.
 
@@ -378,7 +378,7 @@ Beyond the regional atlas groupings, tropical lowlands have warm conditions thro
 
 #### Real world parallels and Köppen candidates
 
-Rio de Janeiro provides a useful temperature parallel for Drankor’s warm coast. Drankor and Orekatu’s tropical warmth and forest moisture suggest **Am/Af**, with **Aw** toward more strongly seasonal tropical forest margins.
+Rio de Janeiro might be a possible temperature parallel for Drankor’s warm coast, though seasonality is undetermined. Drankor and Orekatu’s tropical warmth and forest moisture suggest **Am/Af**, with **Aw** toward more strongly seasonal tropical forest margins.
 
 The Great Desert draws on North African and Egyptian heat and aridity. **BWh/BSh** describes its hot desert and semiarid margins, with **BWk/BSk** in cooler elevated districts.
 
@@ -398,7 +398,7 @@ This qualitative model combines adopted climatic constraints with broad geograph
 - The archived [[Climate of the Northwestern Interior]] treats recurring summer wet spells across Ainumarya. This overview differentiates a summer-dry Elderwood with recurring showers and possible magical fog from the more consistently summer-watered forests farther north. The magical fog is a proposed model component raised by Tim during this review.
 - Lake moderation and the broad hill effects are physical-model interpretations of [[Lake Valandros]], [[Beacon Hills]], [[Chardon Hills]], [[Mostreve Hills]], and [[Salt Hills]]. [[Yeraad]], [[Yeraad Marshes]], and [[Myraeni Gap]] support the distinction between wet river lowlands and scrubby uplands.
 - Alta Tonaro's terrain, aridity, winter rain, and rare summer thunderstorms come from [[Alta Tonaro]] and requirement K17 in [[Climate and Weather Constraints]]. Its broad temperature pattern is a geographic projection.
-- The archived [[Taelgar Climatic Model]] and earlier regional profiles in `_Old_` preserve earlier temperature and rainfall treatments for comparison. [[Regional Climate Atlas]] indexes the current regional coverage notes.
+-  [[Regional Climate Atlas]] indexes the current regional coverage notes.
 %%
 
 %% Physical references:

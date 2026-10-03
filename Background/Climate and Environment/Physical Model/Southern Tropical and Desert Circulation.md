@@ -70,13 +70,13 @@ That explanation gives the forest a moisture source without assigning the mainla
 
 ## Seasonal maps
 
-![[assets/worldbuilding/taelgar-southern-moisture-summer-v1.png|1400]]
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-southern-moisture-summer-v1.png]]
+> *Northern summer: the mainland tropical rain belt and Great Desert heat low remain distinct from the Nevos monsoon. Numbered notes locate the principal moisture contrasts.*
 
-*Northern summer: the mainland tropical rain belt and Great Desert heat low remain distinct from the Nevos monsoon. Numbered notes locate the principal moisture contrasts.*
-
-![[assets/worldbuilding/taelgar-southern-moisture-winter-v1.png|1400]]
-
-*Northern winter: the rain belt shifts south while the desert interior remains dry. Orekatu is a separate region and is not assigned a location or a rainfall calendar by this mainland view.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-southern-moisture-winter-v1.png]]
+> *Northern winter: the rain belt shifts south while the desert interior remains dry. Orekatu is a separate region and is not assigned a location or a rainfall calendar by this mainland view.*
 
 ## Seasonal contrasts and weather use
 

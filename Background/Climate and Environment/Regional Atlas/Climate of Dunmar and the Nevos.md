@@ -105,8 +105,6 @@ On the northern Chataan side, moisture left by winter rain can support a differe
 
 Rain commonly establishes in June or July, first in accessible western districts, then farther into the interior. The usual progression is Western Dunmar and Darba, the Yuvanti foothills and Copper Hills, Tokra and Songara, then the more distant northern peaks, Raven's Hold, Karawa and Gomat. Sparse rainfall at Askandi and in deep Garamjala can come later. [[The Dunmari Monsoon]] describes this sequence during an unfolding season; its intervals are not fixed annual delays.
 
-%% Geographic alignment: [[The Dunmari Monsoon]] calls Darba "nearly due east of Tokra." The mapped geography, [[Darba Highlands]] and the revised continental model place Darba on the western Nevos side. The arrival sequence is retained here using that mapped geography. %%
-
 During active periods, repeated rain wets the coast and exposed slopes, rivers flood and roads become muddy. The wetter districts can be cloudier and less fiercely hot by day than during the clear premonsoon interval, while remaining warm and humid. The interior receives less regular rain: intense local storms may alternate with dry ground and sunshine nearby. Alta Tonaro remains predominantly dry, with only rare summer thunderstorms.
 
 Breaks occur when the trough shifts or the inflow weakens. Inland rain can pause while coastal or foothill showers continue, and clearer, hotter weather returns. The retained coastal June–September and interior June–October occurrence windows allow variable onset and retreat; they neither promise continuous rain nor give the desert a longer effective wet season than the coast. No duration or number of active spells is assigned.
