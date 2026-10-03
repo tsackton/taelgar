@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-10-03T12:58:09-04:00"
+lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai, status/check/lint]
+tags: [person, status/check/lint]
 species: dwarf
 gender: male
 name: Kazak Ferrystone
@@ -43,16 +43,12 @@ Temporal coverage: a DR 1720 portrait of Kazak based in Rinburg, including the b
 ## Taelgar note lint
 
 ### Applied changes
-- Canonicalized frontmatter ordering and collection formatting.
-- Added the primary name entry and persistent temporal coverage metadata.
-- Added the explicit name, `knownTo: [clee]`, and `POV: 1720`.
+- None.
 
 ### Validated judgments
-- The refreshed note’s full account and source-discrepancy comment are preserved, including the explicit DM correction identifying Kazak as the injured dwarf.
-- [[Into Aslain (Email)]] supports the corrected injury attribution, and the Session 17 recap supports the temple investigation; the conflicting derivative injury attribution does not override the stated DM correction.
-- The note is sufficient for Kazak’s supporting reference role. Contextual local `dm_notes` review is not applicable to `dm_owner: mike`.
+- The existing DM correction identifying Kazak as the injured dwarf is consistent with [[Into Aslain (Email)]]. The preserved Session 17 recap supports the temple investigation; the source-discrepancy comment remains useful provenance.
 
 ### Open findings
 
-- [ ] **Warning — metadata.names_unresolved_status:** The name entry proposes **KAH-zahk FAIR-ee-stohn**, informed by the Tolkien Dwarvish analogue in [[Languages]]: a becomes ah, k stays hard, z stays voiced, and first-syllable stress is tentative; Ferrystone is the ordinary English compound. Exact in-world phonology is not recorded. If accepted, copy the proposed pronunciation to frontmatter and change the name entry to `status: documented`; otherwise revise the proposal and its derivation. The name language remains `unknown` pending evidence.
+- [ ] **Warning — metadata.names_unresolved_status:** The existing pronunciation `KAH-zahk FAIR-ee-stohn` in `Metadata:names:v1` remains `status: proposed`. Preserve its recorded derivation while a human accepts or revises it. If accepted, add `pronunciation: KAH-zahk FAIR-ee-stohn` to frontmatter and set the entry to `status: documented`; otherwise revise the persistent proposal. The name language remains `unknown` pending evidence.
 %%^End%%

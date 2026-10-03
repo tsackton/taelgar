@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [power]
-name: Wend
+lintedAt: "2026-10-03T13:42:28-04:00"
+lintVersion: "3.5"
+tags: [power, status/check/lint]
 typeOf: archfey
 gender: female
-dm_notes: none
-dm_owner: tim
-whereabouts: Hollowdark
+name: Wend
 affiliations:
   - {org: Hollowdark, type: leader, title: Master}
+whereabouts: Hollowdark
+dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # Wend
 >[!info]+ Information  
@@ -35,3 +38,34 @@ Stat block ideas for minions of Harrow and Wend:
 %%^End%%
 
 %%SECRET[v2:fe6e76e91c7d1538fe457570006bdcc7]%%
+
+%%^Metadata:names:v1%%
+- {name: "Wend", language: "unknown"}
+- {name: "the Silence That Follows", role: "epithet", language: "Common", status: "inferred", notes: "Plain-English epithet recorded in the visible article."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern identity as ruler of Hollowdark and uncertain relationship to Harrow; the article does not yet describe her forces in Amberglow.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added persistent name metadata for Wend and her recorded epithet; their ordinary English spellings need no pronunciation guide.
+- Recorded a broadly modern POV and its temporal interpretation.
+
+### Validated judgments
+- The identity as ruler of Hollowdark and the uncertainty about Harrow are consistent with [[Hollowdark]] and [[Harrow]].
+- Reviewed the local-only SECRET block and shared Campaign:none block separately; their visibility and the dm_notes attestation are preserved.
+
+### Editorial assessment
+**Underdeveloped** — The visible account omits Wend’s defining role in incursions across the Sunset Gate and her forces’ opposition to the Cloudspinner. The smallest useful addition is one short sourced paragraph describing that threat; the uncertain relationship with Harrow should remain uncertain.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** The visible paragraph gives Wend’s title and realm but omits her central hostile role. [[Sunward Reach]] establishes incursions by Wend and Harrow across the [[Sunset Gate]]; [[Session 118 (DuFr)]] establishes that their forces sought to prevent the Cloudspinner’s return, and [[Session 122 (DuFr)]] places their minions in occupied [[Redsun Watch]]. Add a bounded reference account, for example: “Wend and [[Harrow]] threaten the lands beyond the [[Sunset Gate]], where [[Sunward Reach]] defends against their incursions. Their forces opposed the return of the [[Cloudspinner]] and occupied [[Redsun Watch]] in [[Amberglow]].” If the dated occupation is included, consider enclosing only that final state in `%%^Date:1749-06-13%%` / `%%^End%%`, phrased as a historical observation on that date; do not imply that the occupation remains current after the Cloudspinner’s restoration.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Redsun Watch - DM Notes]]
+%%^End%%

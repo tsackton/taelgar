@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text]
-name: Aygul
-pronunciation: EYE-gool
+lintedAt: "2026-10-03T13:42:28-04:00"
+lintVersion: "3.5"
+tags: [person, status/cleanup/text, status/check/lint]
+species: orc
 gender: female
 born: 1698
 activeYear: 1740
-species: orc
-whereabouts: 
-- {type: home, location: Gorzum}
-- {type: home, location: Uzgukhar}
-- {type: away, location: Vindristjarna, end: 9999}
 image: "[[aygul-small.png]]"
+name: Aygul
+pronunciation: EYE-gool
+whereabouts:
+  - {type: home, location: Gorzum}
+  - {type: home, location: Uzgukhar}
+  - {type: away, location: Vindristjarna, end: 9999}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
+POV: 1749
 ---
 # Aygul
 *(EYE-gool)*
@@ -49,3 +53,36 @@ So when a flying ship appears, looking for a loremaster and archivist, and willi
 Her sister is eager to go with her -- Aygul has always been the type who would have gone into the world, but she would not leave her sister, even though her sister kept talking about exploring/looking for stories/etc
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Aygul", "language": "unknown", "pronunciation": "EYE-gool", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 portrait of Aygul as Nuzkar’s protective twin; the skyship whereabouts describes the period before her June departure with Riswynn, and the commented family history remains tentative.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported Dunmar Frontier knowledge, documented pronunciation metadata matching frontmatter, and a DR 1749 temporal interpretation; normalized frontmatter.
+
+### Validated judgments
+- Retained status/cleanup/text: supported by the unfinished, explicitly tentative backstory and the missing subsequent state.
+- The shared family-history comment remains speculative; the parallel material in [[Nuzkar]] is explicitly labeled tentative and does not justify automatic adoption.
+
+### Editorial assessment
+**Underdeveloped** — The note lacks Aygul’s established death and return to life and her later role accompanying Riswynn’s orc-liberation mission; its continuing skyship whereabouts is outdated. A short factual update and bounded whereabouts correction would restore its reference role.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** [[Session 103 (DuFr)]] establishes Aygul’s death defending the skyship and her resurrection on May 13, 1749. This defining experience is absent from the reference note. Candidate: `Aygul was killed defending [[Vindristjarna]] from a doppelganger of [[Seeker]] and was raised from the dead by [[Riswynn]] on May 13, 1749.` Preserve her interpretation of the afterlife as her belief if expanding beyond this bounded fact.
+
+- [ ] **Warning — coverage.later_material_change:** The open-ended `whereabouts` entry aboard Vindristjarna is overtaken by [[Session 124 (DuFr)]] and [[Dunmar Fellowship Associates]]: she left on June 18, 1749 to accompany Riswynn. Choose to update the article and whereabouts, defer with the appropriate game-update status, or intentionally preserve the earlier snapshot. Copy-ready prose for an update: `On June 18, 1749, Aygul left [[Vindristjarna]] with [[Nuzkar]] and [[Kethra]], teleporting to [[Uzgukhar]] to join [[Riswynn]]’s work to free more orcs from [[Thark]].` Supported metadata replaces only the skyship entry with `{type: away, start: 1749-01-24, end: 1749-06-18, location: Vindristjarna}` and `{type: away, start: 1749-06-18, end: 9999, location: traveling with Riswynn}`; the January start is established in [[Session 89 (DuFr)]].
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 103 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 111 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
+%%^End%%
