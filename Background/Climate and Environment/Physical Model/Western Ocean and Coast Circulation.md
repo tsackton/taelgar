@@ -37,7 +37,7 @@ The southward withdrawal of the high admits sequences of west–southwest distur
 
 The mild southern lowlands mainly receive rain. Cold clear nights can bring occasional frost in sheltered inland Chasa hollows, with more frequent freezing on higher ground. Farther north, the same maritime approach meets colder land: Valandros and the forest foothills can alternate rain, wet snow, and thaw, while higher slopes accumulate snow. The coldest northern forest and mountain interiors retain snow between storms.
 
-Mawakel lies in an active ocean-weather belt, with rain and thaws under milder maritime flow interrupted by northern snow showers. Across the Fiatara, weaker moisture supply and greater continental exposure favor drier, colder spells in the Erbalta Plains. Around Voltara and southern Erbalta, ordinary winters remain changeable and moderately cold; the longer northern freezes do not set the climate of the whole plains.
+Mawakel lies in an active ocean-weather belt, with rain and thaws under milder maritime flow interrupted by northern snow showers. Across the Fiatara, weaker moisture supply and greater continental exposure favor drier, colder spells in the Erbalta Plains. Around Voltara and southern Erbalta, winters are cold, but recurring thaws and limited precipitation leave ordinary lowland snow cover intermittent and uneven. Snow can remain through a prolonged cold spell, and severe winters can sustain it much longer. Farther north and higher in the Fiatara, longer freezes favor more persistent cover.
 
 ### Spring
 
@@ -45,7 +45,7 @@ Southern lowlands warm while wet-weather passages still replenish soils and rive
 
 Around Valandros, cold lake water delays shoreline warming relative to nearby sunlit land. Northern forest growth and the mountain thaw lag the southern basins. At Mawakel, storms and cold showers can interrupt fine spells well into spring; the accepted late wet spring in the campaign is one possible year, not an annual deadline.
 
-Passing disturbances and increasing land warmth overlap around the southern Fiatara. Southwestern moisture access and showers provide the model's most dependable rainfall opportunities for Voltara in spring and early summer. Erbalta remains less reliably watered behind the main mountain barrier. A productive grassland margin does not require the entire plains to become a wet agricultural belt.
+Passing disturbances and increasing land warmth overlap around the southern Fiatara. Southwestern moisture access and showers provide important late-spring and early-summer rainfall opportunities for Voltara, without assigning the annual precipitation maximum. Erbalta remains less reliably watered behind the main mountain barrier. A productive grassland margin does not require the entire plains to become a wet agricultural belt.
 
 ### Summer
 
@@ -57,7 +57,7 @@ The western high supports the dependable dry season at Chardon, the Chasa, and n
 
 Northward, drying becomes shorter and more interruptible. Valandros and the western forests alternate sunny intervals with maritime incursions around the high's northern edge. The Elderwood remains summer-dry with occasional showers and stored water; the Crimson, Highveil, and farther-northern forests receive more dependable summer moisture. Mawakel remains cool and maritime, with sharply alternating fine and unsettled spells rather than a Mediterranean summer drought.
 
-Voltara's summer is moderate overall, with warmer sunny spells and dry intervals interrupted by fronts or thunderstorms. Rain becomes less dependable across sheltered Erbalta. High Fiatara snowfields and glaciers persist above these seasonally warm plains, and a summer storm can bring fresh snow to the highest terrain. Southern Emerald Bay may meanwhile receive active Nevos monsoon incursions, without carrying a general wet season north through Chardon or into the Elderwood.
+Voltara has warm to hot summer days and cooler nights, with dry intervals interrupted by fronts or thunderstorms. Rain becomes less dependable later in summer and farther into sheltered Erbalta. High Fiatara snowfields and glaciers persist above these seasonally warm plains, and a summer storm can bring fresh snow to the highest terrain. Southern Emerald Bay may meanwhile receive active Nevos monsoon incursions, without carrying a general wet season north through Chardon or into the Elderwood.
 
 ### Autumn
 
@@ -75,13 +75,17 @@ Western Apporia faces the open ocean and its swell, while the peninsula's interi
 
 ## Maritime access around the Fiatara
 
-The [[Fiatara Mountains]] create a marked contrast between their maritime western slopes and the drier plains to the east. Direct westerly flow brings mountain precipitation, followed by warming and drying as air descends beyond the range. **Intermittent southwestern wet-weather episodes reach around the southern Fiatara and through lower foothill country into the Voltara region.** These are recurring opportunities for rain, with the strongest mountain shelter remaining effective elsewhere.
+The [[Fiatara Mountains]] create a marked contrast between their maritime western slopes and the drier plains to the east. Direct westerly flow brings mountain precipitation, followed by warming and drying as air descends beyond the range. **Intermittent southwestern wet-weather episodes carry western-ocean moisture around the southern Fiatara and through lower foothill country into the Voltara region.** This route supplies useful inland rain without requiring most moisture to cross the highest barrier. Lake and forest evaporation can supplement the incoming moisture but do not replace its ocean source.
 
-Spring and early summer provide the most dependable rain around Voltara, as passing ocean disturbances overlap with inland warmth that helps showers develop. Later summer has longer sunny, dry intervals, interrupted by thunderstorms and occasional fronts. Similar opportunities reach Erbalta, but rainfall is less dependable and more uneven in the sheltered plains. Both regions vary substantially between years.
+Late spring and early summer bring important rains around Voltara as passing ocean disturbances overlap with inland warmth that helps showers develop. Later summer has longer sunny, dry intervals, interrupted by thunderstorms and occasional fronts. Cool-season disturbances provide additional rain or snow; the annual precipitation maximum remains unassigned. Similar opportunities reach Erbalta, but precipitation is less dependable and more uneven deeper in the rain shadow. Both regions vary substantially between years.
 
-The moisture gradient follows mountain shelter and the routes of individual weather systems. The precise extent of Voltara's more productive grassland and its transition into drier Erbalta country remain open. Southwestern access is a broad circulation feature; no particular pass or mountain height is assigned. Snowmelt and springs from the Fiatara can sustain rivers and riparian farming on dry plains without implying heavy local rainfall. The highest summits' summer ice is required by play; its extent and the seasonal balance of snowfall and melt remain qualitative.
+Along the inland corridor, southern forest grades through woodland and grassland into productive Voltara country, then into drier Erbalta farther north and deeper in the Fiatara rain shadow. Stronger shelter must reduce precipitation enough to outweigh the lower water loss of cooler northern conditions. This is a terrain-driven gradient, distinct from the increasing summer moisture along the exposed western forest belt; wetter slopes and foothills can remain wooded within the broader transition. Its exact boundaries remain open. Southwestern access is a broad circulation feature; no particular pass or mountain height is assigned.
 
-%% Source tension: [[Erbalta Plains]] still describes long, often hot summers and a late-winter/early-spring precipitation emphasis. [[Taelgar Climate Model#Northwestern mountains and plains]] instead gives Voltara and southern Erbalta moderate summers, changeable moderately cold winters, and spring/early-summer rain. This physical model follows the revised overview. K19 and K31 in [[Climate and Weather Constraints]] retain the dry grassland and productive-steppe outcomes without fixing the older temperature or rainfall calendar; the Gazetteer wording awaits separate reconciliation. %%
+In winter, limited precipitation reduces snow accumulation, while recurring thaws interrupt lowland cover around Voltara. Dryness alone would not clear snow during sustained freezing. Occasional warm, dry air descending the Fiatara is a plausible contributor to these thaws, comparable to foehn or Chinook episodes; its frequency and reach remain unassigned. Exposed ground can lose snow while drifts persist in sheltered places. Cold spells can retain snow for weeks, and severe winters may sustain cover much longer. These lowland conditions do not set the snow regime of northern Erbalta or the mountains.
+
+Snowmelt and springs from the Fiatara sustain rivers, soil moisture, and riparian farming on dry plains without adding to local rainfall. The highest summits' summer ice is required by play; its extent and the seasonal balance of snowfall and melt remain qualitative.
+
+%% Development decision: Tim's Voltara/Erbalta review adopted continental summer warmth, cold winters with recurring thaws and intermittent ordinary lowland snow, and a forest-to-grassland transition along the inland moisture route. [[Taelgar Climate Model#Northwestern mountains and plains]] and [[Erbalta Plains]] now follow that direction. The rainfall calendar and proposed downslope thaw mechanism remain physical-model choices rather than independent campaign evidence. %%
 
 ## Maritime access to Valandros and the forests
 
@@ -131,7 +135,7 @@ The [[Emerald Song]] voyage in [[Session 47 (DuFr)]] establishes viable summer t
 ## Uncertainties and map coverage
 
 > [!question] Unspecified parameters
-> Rainfall totals, temperature ranges, snow duration, wind speeds, exact pressure boundaries, and local wind bearings remain unassigned. The reach and reliability of southwestern rain around Voltara, local Fiatara shelter, mountain snowlines, and Apporia's interior rainfall need local refinement. Valandros lake effects, lake freezing, Blackwater's ordinary ice regime, and the distribution of forest fog remain qualitative. Ocean currents and water temperatures are not assigned by this atmospheric model.
+> Rainfall totals, temperature ranges, exact snow amounts and durations, wind speeds, exact pressure boundaries, and local wind bearings remain unassigned. Around Voltara, these details must remain compatible with recurring thaws and intermittent ordinary lowland snow cover. The reach and reliability of southwestern rain, local Fiatara shelter, downslope thaw episodes, mountain snowlines, and Apporia's interior rainfall need local refinement. Valandros lake effects, lake freezing, Blackwater's ordinary ice regime, and the distribution of forest fog remain qualitative. Ocean currents and water temperatures are not assigned by this atmospheric model.
 
 The regional summer and winter figures use the continental pressure framework and distinguish recurring seasonal winds from dashed episodic moisture routes and cold outbreaks. Numbered notes identify terrain and moisture contrasts without drawing hard climate borders. The southern interface is enlarged in [[Dunmar and Nevos Circulation#Seasonal maps]].
 
@@ -145,5 +149,6 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [Bureau of Meteorology: subtropical ridge](https://www.bom.gov.au/resources/learn-and-explore/climate-knowledge-centre/climate-factors/subtropical-ridge): seasonal ridge migration and a persistently dry interior. Australian geography and Southern Hemisphere wind directions require adaptation.
 - [National Weather Service: lake breezes](https://www.weather.gov/apx/lake_breeze) and [lake-effect snow](https://www.weather.gov/safety/winter-lake-effect-snow): local shore cooling, convergence and moisture transfer from open water; no Taelgar lake-ice calendar follows.
 - [US Forest Service: coast redwoods](https://research.fs.usda.gov/silvics/redwood): winter recharge and reduced summer water loss under fog support productive forest through a dry season. The Elderwood's proposed magical fog uses those effects without importing the Californian coast's geography.
+- [Alberta Parks: Bob Creek Wildland and Black Creek Heritage Rangeland management plan](https://albertaparks.ca/media/3331519/bcbc_final_web.pdf): cold, dry foothill winters interrupted by Chinook thaws provide a comparison for uneven lowland snow persistence around Voltara. The complete Alberta climate and vegetation gradient are not imported.
 
 Return to [[Taelgar Climate Model]] or [[Climate and Environment]].
