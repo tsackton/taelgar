@@ -6,7 +6,7 @@ excludePublish: [all]
 
 **Scope:** The [[Nevos Sea]] moisture supply, the Dunmari monsoon, Illoria, and the Chataan transition toward Chardon. This note develops the regional mechanisms in [[Taelgar Climate Model]], which controls the continental circulation and temperature framework. [[Western Ocean and Coast Circulation]] owns the shared western ridge and the Apporian coast; [[Southern Tropical and Desert Circulation]] continues the moisture gradient beyond the Shrev and across southern Garamjala to the jungle coast.
 
-**Standing:** The monsoon, the usual arrival order, the wetter western/northern districts, Alta Tonaro's winter rain, and Illoria's warm subtropical character are retained requirements K01–K03, K17 and K18 in [[Climate and Weather Constraints]]. The mechanisms below are a qualitative working model. They explain those outcomes without fixing local rainfall totals, pressure values, or a calendar for every district.
+**Standing:** The monsoon, the usual arrival order, the wetter western/northern districts, Alta Tonaro's winter rain, and Illoria's warm subtropical character are established regional patterns. The mechanisms below are a qualitative working model. They explain those patterns without fixing local rainfall totals, pressure values, or a calendar for every district.
 
 ## Atmospheric circulation and monsoon
 
@@ -77,15 +77,15 @@ The Chataans separate two sources of seasonal precipitation. During the monsoon,
 
 In winter, the western storm belt reaches Chardon and sometimes the northern foothills. Alta Tonaro can therefore receive its important winter rain while Dunmar remains predominantly dry. The transition runs across slopes and valleys rather than following a single latitude: an exposed high slope, a sheltered plateau, and a river canyon can differ within the same province. Cooler high terrain also loses less water than hot low ground, but this does not erase the established aridity of the northern foothills.
 
-Snow is physically possible on the highest cold terrain in this southern range. Its ordinary extent, persistence and contribution to individual rivers remain unassigned here; this page does not extend the Sentinel glacier requirements to all Chataan or Yuvanti summits.
+Snow is physically possible on the highest cold terrain in this southern range. Its ordinary extent, persistence and contribution to individual rivers remain unassigned here.
 
 ## Illoria and the Nevos islands
 
-[[Illoria]] retains the warm subtropical character required by K18. The surrounding sea limits temperature swings along exposed shores, while elevation cools the interiors. These are the continental model's geographic projections; the retained source does not prescribe an annual rainfall pattern.
+[[Illoria]] has a warm subtropical climate. The surrounding sea limits temperature swings along exposed shores, while elevation cools the interiors. Its detailed annual rainfall pattern remains undeveloped.
 
 In active summer monsoon flow, western or southwestern exposures can receive moist air and uplifted rain, with local shelter on the opposite side. In the cooler season, northeasterly air that has traveled over land may arrive relatively dry, but gains moisture during a longer crossing of open water. The wetter exposure can therefore change with the wind. Island relief, ocean travel distance, and proximity to the northern storm fringe determine how pronounced that change becomes. A wetter windward slope does not establish that the entire archipelago is wet year-round or has Dunmar's rainfall calendar.
 
-The August 1748 voyage through Illoria had monsoon headwinds on westward legs and more variable winds farther north, yet reached Chardon. This is compatible with changing winds across the Nevos–Apporia transition. K18 and E21 do not establish guaranteed sailing winds, storm frequency, a natural canal wind, or an annual voyage duration; the western continuation is maintained in [[Western Ocean and Coast Circulation#Seasonal coastal winds]].
+The August 1748 voyage through Illoria had monsoon headwinds on westward legs and more variable winds farther north, yet reached Chardon. This is compatible with changing winds across the Nevos–Apporia transition. That voyage does not establish guaranteed sailing winds, storm frequency, a natural canal wind, or an annual voyage duration; the western continuation is maintained in [[Western Ocean and Coast Circulation#Seasonal coastal winds]].
 
 ## Weather episodes and retained examples
 
@@ -93,11 +93,11 @@ These are useful local expressions of the circulation, not a schedule to generat
 
 | Episode | Expected contrast and evidence limit |
 | --- | --- |
-| Clear premonsoon heat | Strong afternoon heating in Hara and Garamjala, followed by marked night cooling; coastal districts can remain more humid. This accommodates E01 without treating early references to cold nights as an absolute temperature requirement. |
-| Advancing monsoon surge | Western streams rise and the coast is already wet while the inner basin waits. Tokra's first rain on July 9, 1748 and rain farther west later that month fit E02; these dates do not set annual onset. |
+| Clear premonsoon heat | Strong afternoon heating in Hara and Garamjala, followed by marked night cooling; coastal districts can remain more humid. Early references to cold nights describe the day/night contrast rather than a fixed low temperature. |
+| Advancing monsoon surge | Western streams rise and the coast is already wet while the inner basin waits. Tokra's first rain fell on July 9, 1748, with rain encountered farther west later that month; these dates do not set annual onset. |
 | Active inland storm | A wet hillside or thunderstorm feeds a flood down a dry wash; nearby sheltered ground may receive little rain. River rise and local rainfall need not coincide. |
 | Wet-season break | Clearer skies and drying roads can interrupt the rains while isolated foothill storms continue. This is a model prediction, without an assigned recurrence rate. |
-| Cooler postmonsoon spell | Moisture from earlier rain sustains grass and cultivation under cooler conditions, as in E03's November Dunmari plains. This does not restore a winter-rain or spring-bloom desert regime. |
+| Cooler postmonsoon spell | Moisture from earlier rain sustains grass and cultivation under cooler conditions, as on the Dunmari plains in November 1748. This does not imply a winter-rain or spring-bloom desert regime. |
 
 Magical Stormcaller weather and supernatural local environments remain outside this ordinary circulation model. The full exclusions and dated source links belong in [[Climate and Weather Constraints]].
 
