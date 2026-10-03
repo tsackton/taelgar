@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female
@@ -13,7 +13,6 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-
 # Yolande Leclair
 *(yoh-LAHND luh-KLAIR)*
 >[!info]+ Biographical Info  
@@ -21,7 +20,9 @@ POV: 1720s
 
 Yolande Leclair is a disciple of the [[The Night Queen|Night Queen]] and a servant of [[Raoul Boulain]].
 
+%%^Campaign:clee%%
 After the [[Cleenseau - Interlude - After the Siege of Fellburn|siege of Fellburn]], she spoke with the [[Heroes of Cleenseau]] about the ominous premonitions she and others had experienced at Pyravela, and the clergy’s efforts to investigate them.
+%%^End%%
 
 %% Sources:
 - [[Siege of Fellburn - Duke's Camp]]
@@ -33,21 +34,4 @@ After the [[Cleenseau - Interlude - After the Siege of Fellburn|siege of Fellbur
 
 %%^povNotes:v1%%
 Temporal coverage: an early-1720s portrait of the Night Queen disciple, anchored by her January 25, 1720 meeting at Fellburn; no broader life history is established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added required knownTo, minimal name metadata, and supported POV/povNotes.
-- Recorded the existing filename identity explicitly as name.
-
-### Validated judgments
-- status/stub is supported: a single role is recorded, while the established servant relationship and classification remain uncaptured.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `yoh-LAHND luh-KLAIR`. The French-shaped name uses the southern Sembaran naming analogue in [[Languages]] as a contextual spelling guide: Yolande has a nasal ah vowel (approximately AHND), final e is silent, and Leclair has a light le and an air vowel. Her in-world name language is unestablished, so it remains unknown and the pronunciation proposed. Confirm or revise this reading; if accepted, copy it to frontmatter `pronunciation` and mark the entry documented.
-
-- [ ] **Warning — classification.person_species_missing:** No species is recorded. [[Siege of Fellburn - Duke's Camp]] and [[Cleenseau - Interlude - After the Siege of Fellburn]] identify her religious role but do not establish a species. Add `species: <confirmed species>` after human confirmation; do not infer human from her name or folder.
 %%^End%%
