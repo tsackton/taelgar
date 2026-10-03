@@ -82,9 +82,6 @@ The seasons below are northern-hemisphere seasons; wind names indicate where the
 >
 > Pressure differences drive wind, but planetary rotation turns moving air. In the Northern Hemisphere, this gives clockwise flow around highs and counterclockwise flow around lows. Near the ground, friction allows some flow across the pressure pattern toward lower pressure. See the [Met Office explanation of wind flow](https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow).
 
-
-%% Regional-model alignment, 3 October 2026: [[Green Sea Atmospheric Circulation]] and its seasonal figures now follow this continental pressure framework. Remaining physical weak points are recorded in that note and [[Climate and Weather Constraints]]. [[Trading in the Green Sea]] remains the authority for sailing requirements. %%
-
 ### Summer
 
 ![[assets/worldbuilding/taelgar-continental-pressure-summer-v2.png|1400]]
@@ -113,15 +110,9 @@ Over the northern ocean, recurrent **low pressure** and stronger **westerlies** 
 
 The subtropical ridge extends across the southern Green Sea toward Medju, favoring settled weather and light or variable winds near its center. Higher pressure also gains influence over Dunmar and the northern Nevos as the summer land low weakens; **continental and northeasterly flow** becomes more common and the monsoon withdraws. The tropical rain belt shifts southward, bringing the drier season to its northern margins while humid equatorial districts retain recurring rain.
 
-### Spring and autumn transitions
-
-Spring continental heating develops the land lows while northern westerly passages remain frequent. In the Green Sea, westward winds along the southern shore connect with northbound opportunities west of Irrla and eastward passages toward Ursk. By midsummer, the northern ridge and offshore trough together favor westward northern sailing. Autumn weakening of the land lows and renewed northern disturbances restore eastward opportunities, while the southern maritime ridge supports successive southward and southwestward legs toward Medju. Light-wind delays increase as its winter center approaches the southern coast.
-
-These transitions support the seasonal network described in [[Trading in the Green Sea]]. The northern reversal depends on the combined pressure pattern and changes in the westerlies; cool maritime high-pressure episodes can occur before the principal summer westbound season.
-
 %%^Campaign:none%%
 
-The eastern ocean high draws on the broad subtropical ocean highs, with its western flank supplying southerly flow toward the continental low. The smaller northeastern high draws on the Okhotsk High as a mechanism for recurring cool maritime ridges. The Great Desert low draws on the Saharan heat low, where intense lower-atmosphere heating coexists with an arid interior. These comparisons support the physical components; the reach and seasonal recurrence of the combined northern Green Sea pressure pattern remain the main circulation test for regional review.
+The eastern ocean high draws on the broad subtropical ocean highs, with its western flank supplying southerly flow toward the continental low. The smaller northeastern high draws on the Okhotsk High as a mechanism for recurring cool maritime ridges. The Great Desert low draws on the Saharan heat low, where intense lower-atmosphere heating coexists with an arid interior.
 
 %%^End%%
 
@@ -131,7 +122,7 @@ Regional climates are a product of atmospheric conditions, winds, moisture, lati
 
 - The **western ocean** supplies coastal storms, the western forests and intermittent moisture reaching the northwestern plains. Its seasonal ridge governs the south-to-north transition from Chardon's dry summer to Mawakel's continued ocean exposure; see [[Western Ocean and Coast Circulation]].
 - The **Nevos Sea** supplies Dunmar's monsoon. Seasonal pressure changes and terrain shape the contrast between wetter western/northern districts and dry interiors; see [[Dunmar and Nevos Circulation]].
-- The **Green Sea** supplies seasonal maritime inflow to Sembara and fresh moisture for some winter storms east of the Sentinels. Its pressure systems and winds are described in [[#Seasonal atmospheric model]]. The water circulation, heat supply and adopted Western Gulf exchange belong in [[Green Sea Ocean Circulation]].
+- The **Green Sea** supplies seasonal maritime inflow to Sembara and fresh moisture for some winter storms east of the Sentinels. Its pressure systems and winds are described in [[#Seasonal atmospheric model]]. The water circulation, heat supply and adopted Western Gulf exchange are described in [[Green Sea Ocean Circulation]].
 
 The five regional atlas groupings below follow connected coasts, watersheds, and terrain. A final section summarizes southern and distant regions.
 
@@ -173,10 +164,12 @@ The lowlands south of the Fiatara admit maritime air toward Valandros and the we
 
 **Valandros and the surrounding hills.** Valandros stores and releases heat slowly, delaying spring warming and autumn cooling along its shores and in districts receiving air from the lake. Cold air crossing open water gains heat and moisture, enhancing rain or snow downwind, especially toward rising eastern terrain. In summer, cool lake air can suppress showers near the water while lake-breeze boundaries help initiate them farther inland. The Beacon Hills shape western access to this basin; the [[Chardon Hills]] create smaller exposure contrasts between the Chasa and Yeraad watersheds.
 
-%% Speculative ideas generated by AI at user request; not canon. %%
+%%^Campaign:none%%
+*tentative idea*
 
-**Elderwood fog.** Recurring magical summer fog is a proposed component of the Elderwood's climate. It would keep the forest humid during dry spells, reduce water loss from foliage and soil, and add water through canopy drip, helping sustain lush evergreen forest far inland. This influence would reinforce the contrast with the drier southern upland margin.
+**Elven forest fog.** Many of the remnants of the great elven forests plausibly produce both recurring summer fog and winter warming through some combination of magic and God trees. This could keep the Elderwood and parts of Ainumarya humid during dry spells, reduce water loss from foliage and soil, and add water through canopy drip, helping sustain lush evergreen forest far inland; magical winter warming would also help establish a mild seasonal gradient further north than climate alone could support. This is not established as canon but should be considered as an idea especially to address desired contrasts from climatic predictions alone for this region. 
 
+%%^End%%
 #### Northwestern mountains and plains
 
 | Area | Temperature | Moisture and seasonality |
@@ -276,7 +269,7 @@ The Western Gulf remains relatively sheltered from severe storms and retains ope
 
 Sembara combines French lowland and New England seasonal characters, with Addermarch drawing on the mid-Atlantic Appalachians. Tollen is London-like with somewhat warmer summers and colder winter spells. Tyrwingha represents the milder maritime edge of this belt; Maseau and Andonne have hotter inland summers. The upper Istaros and historical Isingue combine southern French warmth with the longer warm season of the southeastern United States.
 
-**Cfb** fits Tollen and moderated Sembaran lowlands; hotter districts approach **Cfa**, and colder inland or upland districts **Dfb/Dfa**. A spring–summer rainfall maximum is compatible with these **f** classes because useful precipitation continues in the cooler season. Maseau and Andonne approach summer-dry **Cs** or semiarid **BS** conditions toward the hotter, drier interior.
+**Cfb** fits Tollen and moderated Sembaran lowlands; hotter districts and Addermarch approach **Cfa**, and colder inland or upland districts **Dfb/Dfa**. A spring–summer rainfall maximum is compatible with these **f** classes because useful precipitation continues in the cooler season. Maseau and Andonne approach summer-dry **Cs** or semiarid **BS** conditions toward the hotter, drier interior.
 
 Aurbez draws on the Colorado Front Range, with elevation cooling the plateau above the warmer lowlands. **BSk** is a useful comparison for its dry plateau climate.
 
@@ -325,7 +318,7 @@ The southern shores belong to a warmer belt than the northern forests. Sea-facin
 
 Skaerhem and coastal Vostok resemble the colder inhabited coasts of Scandinavia and the North Atlantic, with cool summers, delayed spring, and recurrent winter freezing. Ursk's settled lowlands are closer to St. Petersburg and Moscow in their winter-to-summer contrast. The Great Northern Forest and Ket grade toward the long winters and short growing seasons of boreal Canada and northern Eurasia; the Far North continues into tundra and polar country.
 
-The maritime-to-continental transition spans **Cfb/Cfc** to **Dfb/Dfc**, depending on winter cold and summer length. **Dfb** is the strongest broad comparison for settled Ursk, with **Dfc** increasingly useful in the northern forests and colder uplands. **ET** fits the tundra end of the Far North; **EF** applies where even the warmest monthly mean stays at or below freezing.
+The maritime-to-continental transition spans **Cfb/Cfc** to **Dfb/Dfc**, depending on winter cold and summer length. **Dfb** is the strongest broad comparison for settled Ursk, with **Dfc** increasingly useful in the northern forests and colder uplands, though **Dwc** is worth considering as well for drier winters. This is a worldbuilding decision - either can match the climate model. **ET** fits the tundra end of the Far North; **EF** applies where even the warmest monthly mean stays at or below freezing.
 
 Cymea combines Italian coastal warmth with the stronger seasonal contrasts of the mid-Atlantic United States inland; the Plataca Hills and Mistfold Mountains add cooling with elevation. Medju draws on North African and Egyptian heat and aridity. For Irrla and the Eastern Isles, large maritime islands provide the useful structural parallel: ocean-moderated shores, cooler highlands, and a changing temperature regime along a long north–south chain.
 
@@ -358,7 +351,7 @@ The Sentinel high country and the Zimkova–Vostok uplands form a cold interior 
 
 The Alps and Rocky Mountains provide useful parallels for changing climate with elevation. Zimkova and interior Vostok resemble Yellowstone and the northern Rockies extending toward Alberta.
 
-Forested mountain belts pass from **C** climates into **D** climates, with **ET** on cold high terrain and **EF** at the coldest summits. The seasonal rainfall contrast distinguishes **Ds** on summer-dry slopes, **Df** in more evenly supplied districts, and **Dw** where winter drought is pronounced. **BSk** is a useful fit for the drier interior Vostok plateaus.
+Forested mountain belts pass from **C** climates into **D** climates, with **ET** on cold high terrain and **EF** at the coldest summits. The seasonal rainfall contrast distinguishes **Ds** on summer-dry slopes, **Df** in more evenly supplied districts, and **Dw** where winter drought is pronounced. **BSk** may be a useful fit for the drier interior Vostok plateaus; it is also a stronger fit for the cold steppe northwest of Vostok. 
 
 %%^End%%
 

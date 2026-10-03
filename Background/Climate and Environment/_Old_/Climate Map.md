@@ -7,7 +7,7 @@ excludePublish: ["all"]
 ## Climate Map of Taelgar
 
 > [!note] Archived climate material
-> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model]]; [[Regional Climate Atlas]] defines the current regional coverage.
 
 This is a historical climate-design map, no longer considered canonical, though it provides useful framing for ongoing ideas and should not be assumed to be totally incorrect. It predates later regional development and should be read alongside [[Taelgar Climatic Model]] and [[Climate and Weather Constraints]]. An updated annual climate map remains to be made.
 

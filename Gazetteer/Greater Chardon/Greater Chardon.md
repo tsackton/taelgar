@@ -53,7 +53,7 @@ Dangerous Wildernesses: No
 ## Climate
 
 %%^Campaign:none%%
-Continental overview: [[Taelgar Climate Model Revised]]. Regional coverage: [[Climate of the Western Coast and Interior]], [[Climate of Dunmar and the Nevos]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library.
+Continental overview: [[Taelgar Climate Model]]. Regional coverage: [[Climate of the Western Coast and Interior]], [[Climate of Dunmar and the Nevos]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library.
 %%^End%%
 
 

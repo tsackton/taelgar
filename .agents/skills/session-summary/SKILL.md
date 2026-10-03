@@ -12,7 +12,8 @@ Use this skill when working from a cleaned session bundle with finalized:
 - `session.yaml`
 - `beats.json`
 - `beat-facts.json`
-- an approved `recap-scenes.json` when scene grouping has been reviewed or proposed upstream
+- a `recap-scenes.json` when scene grouping was reviewed or proposed upstream; its displayed proposal must be approved in interactive mode, or its grouping validated in auto mode
+- a current timeline review with no open chronology discrepancies when running the session-note-prep pipeline
 
 The goal is to produce a structured markdown review artifact, not an intermediate summary JSON.
 
@@ -21,6 +22,10 @@ This skill has three stages:
 1. deterministic context building
 2. constrained LLM drafting of `session-recap.md`
 3. deterministic markdown validation
+
+For a new interactive pipeline recap, verify the scene approval using `manage_recap_scenes.py --require-approval --validate-only` with the beats, facts, scene map, cleaned transcript, timeline review, output directory, and file prefix used by `session-note-prep`. The saved approval must match the current inputs. If absent or stale, return to the scene proposal stage to display the five-column scene table and date/time transition table and obtain approval. Existing valid scene JSON alone is not approval. Auto mode does not require a human scene approval record. Do not impose these new pre-draft checks retroactively on a human-owned recap.
+
+Use the reviewed chronology and preserve accepted ASR uncertainty. Never resolve a remaining discrepancy by changing `drStart` or `drEnd` without explicit approval, and never infer a previously unclear identity merely because the user tolerated its transcript error. There is no additional routine approval pause after the final recap.
 
 ## Stage 1: Build Context
 

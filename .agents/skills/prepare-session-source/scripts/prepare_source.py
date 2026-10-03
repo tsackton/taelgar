@@ -640,7 +640,7 @@ def build_session_manifest(
         "sessionNumber": options["sessionNumber"],
         "realWorldDate": options["realWorldDate"],
         "drStart": options.get("drStart"),
-        "drEnd": options.get("drEnd") or options.get("drStart"),
+        "drEnd": options.get("drEnd"),
         "drStartTime": options.get("drStartTime"),
         "drEndTime": options.get("drEndTime"),
         "participants": list(participants),

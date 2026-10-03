@@ -1,0 +1,31 @@
+{
+  "transcriptSha256": "385a8f4f7b0b823a0f348eda8421b1b2ca65a54eb1af2945187b2fa3229e2f60",
+  "judgment": "The written opening and both material dialogue uncertainties have been corrected, including two saved human audio-review corrections. Five incidental marked lines remain; none changes the session record.",
+  "issues": [
+    {
+      "uid": "u0036",
+      "importance": "incidental",
+      "reason": "Unclear descriptive modifier for onlookers. Their presence, reaction, and later involvement are independently clear; no identity or action depends on this adjective."
+    },
+    {
+      "uid": "u0223",
+      "importance": "incidental",
+      "reason": "Unclear end of an atmospheric description of the roper's hissing remains; acid, the pearl, and its recovery are clear in surrounding lines."
+    },
+    {
+      "uid": "u0477",
+      "importance": "incidental",
+      "reason": "Fragmentary question about the old evacuation. The substantive answer is clear in u0481 and u0485-u0488: the flight occurred during the wars with Cha'mutte and the uncle would not discuss the details."
+    },
+    {
+      "uid": "u0821",
+      "importance": "incidental",
+      "reason": "Unclear speculative suggestion about whether the residents might recognize the pearl; no established provenance or adopted action follows. The later refusal to give up the pearl is explicit at u0970-u0972."
+    },
+    {
+      "uid": "u0834",
+      "importance": "incidental",
+      "reason": "Overlapping speculation about the resident leader's interest in the cleared market. No decision depends on the fragment; the actual bargain is clearly played at u0955-u1007."
+    }
+  ]
+}

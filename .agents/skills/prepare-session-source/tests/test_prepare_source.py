@@ -5,6 +5,7 @@ import subprocess
 import sys
 import tempfile
 import unittest
+import yaml
 from pathlib import Path
 
 
@@ -65,6 +66,8 @@ class PrepareSourceTest(unittest.TestCase):
             "campaign: Cleenseau\n"
             "sessionNumber: '12.1'\n"
             "realWorldDate: '2024-02-16'\n"
+            "drStart: '1749-09-16'\n"
+            "drEnd: null\n"
             f"participantsPath: {participants_path.as_posix()}\n"
             "narrativeUnit: paragraph\n",
             encoding="utf-8",
@@ -79,6 +82,9 @@ class PrepareSourceTest(unittest.TestCase):
         self.assertEqual(result.returncode, 0, result.stderr)
         cleaned = workspace / "cleenseau-012.1" / "cleaned"
         self.assertTrue((cleaned / "cleenseau-012.1-session.yaml").exists())
+        manifest = yaml.safe_load((cleaned / "cleenseau-012.1-session.yaml").read_text())
+        self.assertEqual(manifest["drStart"], "1749-09-16")
+        self.assertIsNone(manifest["drEnd"])
         self.assertIn(
             "[u0002] Second turn.",
             (cleaned / "cleenseau-012.1-source-prepared.md").read_text(encoding="utf-8"),

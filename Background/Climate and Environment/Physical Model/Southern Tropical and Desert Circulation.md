@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Southern Tropical and Desert Circulation
 
-**Scope:** The Nayan–Shrev tropical transition, the southern Garamjala margin and lower Istaros, the mainland jungle coast near Drankor, and the separate Great Desert and Orekatu regions. [[Taelgar Climate Model Revised]] controls the continental framework. This page explains how a dry plateau and interior can coexist with humid tropical lowlands; it does not join these places into one rainfall regime.
+**Scope:** The Nayan–Shrev tropical transition, the southern Garamjala margin and lower Istaros, the mainland jungle coast near Drankor, and the separate Great Desert and Orekatu regions. [[Taelgar Climate Model]] controls the continental framework. This page explains how a dry plateau and interior can coexist with humid tropical lowlands; it does not join these places into one rainfall regime.
 
 **Standing:** K04, K29 and K30 in [[Climate and Weather Constraints]] require tropical forest compatibility along and south of the Shrev, persistent Great Desert interior aridity, and tropical warmth and moisture in the separate mainland and Orekatu jungles. Drankor's humid heat and heavy rain are retained observations. Rainfall quantities, detailed seasons and most local mechanisms remain open. The explanations below are qualitative model development under those bounds.
 
@@ -91,9 +91,9 @@ These are broad circulation tendencies. Tropical-cyclone occurrence, storm recur
 
 ## References and connections
 
-- [[Climate of Dunmar and the Nevos]] covers Nayan, the Shrev transition and Garamjala within the regional atlas; the southern and distant overview remains in [[Taelgar Climate Model Revised#Southern and distant regions]].
+- [[Climate of Dunmar and the Nevos]] covers Nayan, the Shrev transition and Garamjala within the regional atlas; the southern and distant overview remains in [[Taelgar Climate Model#Southern and distant regions]].
 - [[Dunmar and Nevos Circulation]] owns Nevos inflow, the Yuvanti rain shadow and the arrival of sparse monsoon rain at northwestern Garamjala.
 - [[Green Sea Atmospheric Circulation]] owns the Great Desert low's shared northern flank and southern Green Sea circulation; [[Green Sea Ocean Circulation]] owns basin currents and exchange. No new ocean-current system is assigned here.
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect) explains mountain blocking and warmer, drier lee air. The precise coastal plateau application remains a Taelgar hypothesis.
 
-Return to [[Taelgar Climate Model Revised]] or [[Climate and Environment]].
+Return to [[Taelgar Climate Model]] or [[Climate and Environment]].

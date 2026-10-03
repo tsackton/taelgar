@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 excludePublish: [all]
 ---
 # Climate and Environment
@@ -7,27 +7,24 @@ excludePublish: [all]
 Nonpublic reference library for Taelgar's climate, weather, habitats, and their consequences for worldbuilding. This is intended as a reference for DMs and agents working on developing climate and weather for games in Taelgar. 
 
 >[!info] Key Points
->(1) Constraints define weather introduced in play, climate facts, and related patterns of trade, travel, agriculture, habitat, and land use that the climate model must accommodate. These are treated as in-world evidence for the unobserved climate model, and are stored in the Evidence directory. Predictions from the model are not constraints until introduced in play, but land-use world-building can be. Human review should typically work by adding to the constraints document, and asking an agent to infer whether the constraints are adequately accommodated by the model. 
->(2) The physical climate model itself is not intended to be binding. The goal is to have a predictable system that avoids the need to hand wave inconsistent climate patterns, and to support verisimilitude, but the physical model can freely change if needed to accommodate new constraints, as long as it still accommodates all the existing constraints equally well. 
+> - Constraints define weather introduced in play, climate facts, and related patterns of trade, travel, agriculture, habitat, and land use that the climate model must accommodate. These are treated as in-world evidence for the unobserved climate model, and are stored in the Evidence directory. Predictions from the model are not constraints until introduced in play, but land-use world-building can be. Human review should typically work by adding to the constraints document, and asking an agent to infer whether the constraints are adequately accommodated by the model. 
+>- The physical climate model itself is not intended to be binding. The goal is to have a predictable system that avoids the need to hand wave inconsistent climate patterns, and to support verisimilitude, but the physical model can freely change if needed to accommodate new constraints, as long as it still accommodates all the existing constraints equally well. 
  
 Common tasks and sources are listed here:
 
 | Task                                                          | Start here                                                                                                         |
 | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| Look up a place or estimate conditions in undeveloped country | [[Regional Climate Atlas]] — five regional volumes with seasonal patterns and local contrasts; [[Taelgar Climate Model Revised#Regional climates\|continental overviews]] for the wider context. |
-| Understand the connected continental climate                  | [[Taelgar Climate Model Revised]] — shared physical assumptions, seasonal systems, and connections between regions.       |
+| Look up a place or estimate conditions in undeveloped country | [[Regional Climate Atlas]] — five regional volumes with seasonal patterns and local contrasts; [[Taelgar Climate Model#Regional climates\|continental overviews]] for the wider context. |
+| Understand the connected continental climate                  | [[Taelgar Climate Model]] — shared physical assumptions, seasonal systems, and connections between regions.       |
 | Prepare a sequence of weather                                 | [[Weather Patterns of Taelgar]] — destination for recurring weather patterns and their local expressions.          |
 | Choose or describe a habitat                                  | [[Biomes of Taelgar]] — existing habitat catalog; regional placement remains to be connected.                      |
 | Think about fields, travel, or trade                          | [[Climate and Landscape Applications]] — agriculture, seasonal landscapes, and navigation.                         |
 | Explore an unusual or magical departure                       | [[Magical Climate Departures]] — compare the expected baseline with the adopted exception.                         |
 | Check what the model must accommodate                         | [[Climate and Weather Constraints]] — maintained climatic requirements, campaign weather and their qualifications. |
-| Browse maps                                                   | [[Taelgar Climate Model Revised#Seasonal atmospheric model\|Continental seasonal maps]]; the six physical-model pages below contain 15 regional figures in the same style. [[Weather Patterns of Taelgar]] links the connected-weather examples. |
-
-**Status, 3 October 2026:** The regional physical models and five atlas volumes have been reconciled with the revised continental model and reviewed for consistency. The [[Climate and Weather Constraints]] register records current coverage and remaining weak points. The wider library is still in development: the weather catalog, biome organization, worked applications, annual climate map, and numerical weather inputs remain incomplete.
-
+| Browse maps                                                   | [[Taelgar Climate Model#Seasonal atmospheric model\|Continental seasonal maps]]; the six physical-model pages below contain 15 regional figures in the same style. [[Weather Patterns of Taelgar]] links the connected-weather examples. |
 ## Physical model
 
-The [[Taelgar Climate Model Revised|continent-wide model]] is the shared framework. The physical models below explain regional moisture sources, terrain effects, seasonal changes, and recurring weather. Their maps use the continental maps' basemap and visual conventions; localized routes are qualitative hypotheses, not simulated winds or measured climate boundaries. The [[Regional Climate Atlas]] translates these mechanisms into regional conditions.
+The [[Taelgar Climate Model|continent-wide model]] is the shared framework. The physical models below explain regional moisture sources, terrain effects, seasonal changes, and recurring weather. Their maps use the continental maps' basemap and visual conventions; localized routes are qualitative hypotheses, not simulated winds or measured climate boundaries. The [[Regional Climate Atlas]] translates these mechanisms into regional conditions.
 
 - [[Western Ocean and Coast Circulation]]
 - [[Dunmar and Nevos Circulation]]
@@ -56,7 +53,7 @@ For habitats: full descriptions remain in [[Biomes of Taelgar]] while the family
 For applications: current notes include these details. A general overview is in [[Climate and Landscape Applications]]
 
 - [[Agriculture and Seasonal Landscapes]]
-- [[Magical Pale Blue Dye Vision]]
+- [[Magical Climate Departures]]
 
 ## Maintaining a consistent library
 *NOTES FOR AGENTS*

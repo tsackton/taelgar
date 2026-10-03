@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Searching the Ruined Market",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The pearl recovery, tavern investigation, rest, and brief look outside all belong to the party assessing the cleared market and preparing to move on.",
+      "overview": "Recover a pearl, find hobgoblin graffiti, rest, and scout the corrupted valley.",
+      "transitionToNext": "Inakara blocks the route back into the inhabited cavern."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Bargaining with Inakara",
+      "beatIds": [
+        "beat-003"
+      ],
+      "rationale": "One confrontation over the party's right to explore, resolved by a promise of treasure and displays of magic.",
+      "overview": "Win passage with a promised share of treasure and magical intimidation.",
+      "transitionToNext": "The party passes her and descends toward the vault."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Mirror Doors",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "The descent, invisible follower, and reflected-key puzzle form one effort to reach and open the vault.",
+      "overview": "Discuss Kenzo's vision, detect a follower, and open the vault with reflected keys.",
+      "transitionToNext": "The opened doorway reveals an undisturbed treasury and ancient dead."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Brawnanvil Heirloom",
+      "beatIds": [
+        "beat-006"
+      ],
+      "rationale": "Recovering the family shield, interpreting the old battle, and opening the treasure chests are one situation inside the sealed vault.",
+      "overview": "Recover Riswynn's shield, a runic hammer, and treasure among ancient remains.",
+      "transitionToNext": "Opening the inner iron door reveals a ruined chamber and blocked tunnel."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Adamantine Mine",
+      "beatIds": [
+        "beat-007"
+      ],
+      "rationale": "Opening a gap in the rubble, scouting the tunnel, and examining the returned sample form one investigation with a clear return point.",
+      "overview": "Delwath scouts invisibly and retrieves adamantine from a deep shaft.",
+      "transitionToNext": "His return completes the exploration, and the party secures the vault to leave."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Silver and the Lower Gate",
+      "beatIds": [
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "The second bargain and guided walk culminate in the locked gate and Inakara's warnings. The questions in beat-009 are a rewind within that same conversation.",
+      "overview": "Buy guidance to the locked tunnel and question Inakara about the coming mind flayers.",
+      "transitionToNext": "Play and the discussion of next steps end; personal postgame conversation begins."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "After the Game",
+      "beatIds": [
+        "beat-010"
+      ],
+      "rationale": "Personal postgame conversation occupies its own short scene so it can be pruned from the final recap independently while the scene map retains complete transcript coverage.",
+      "overview": "Brief personal conversation after play; no in-world events.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

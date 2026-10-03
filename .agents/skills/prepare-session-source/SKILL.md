@@ -19,6 +19,8 @@ Start by gathering or inferring:
 - vault output directory, usually `/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/<campaign-slug>`
 - session number and real-world date
 - in-world `drStart`, `drEnd`, `drStartTime`, and `drEndTime`
+
+Preserve unspecified in-world dates as blank/null. In particular, do not default a missing `drEnd` to `drStart` or require the user to settle it here when the transcript can establish it later. Full-session annotation reviews the chronology and proposes a supported end date. Never change an existing `drStart` or `drEnd` without approval of the proposed value.
 - participant roster path
 - speaker mapping strategy: existing mapping JSON, new mapping JSON, or `--interactive-speakers`
 
@@ -42,10 +44,10 @@ Use the latest prior session as the model for:
 - participant roster path
 - campaign display name
 - output directory
-- `drStart` and `drEnd` defaults when the session continues directly
+- a possible `drStart` anchor when the session continues directly; leave an unknown `drEnd` blank
 
 Do not invent dates, session numbers, player identities, or in-world dates.
-Ask the user to confirm anything that cannot be inferred from the new recording path, filename, existing configs, or prior bundle manifests.
+Ask the user to confirm required identity or source information that cannot be inferred from the new recording path, filename, existing configs, or prior bundle manifests. In-world dates may remain unknown for the post-annotation chronology review.
 
 For an inter-session number, quote the `sessionNumber` value in YAML (for example, `sessionNumber: '12.1'`). Source preparation preserves the fraction in the bundle and file prefix (`cleenseau-012.1`); whole numbers retain the existing three-digit prefix.
 

@@ -264,12 +264,12 @@ def validate_beats(
                 continue
             date_end = parse_optional_date(beat.get("dateEnd")) or date_start
             if date_end < date_start:
-                errors.append(f"{beat_id} has dateEnd before dateStart.")
+                warnings.append(f"CHRONOLOGY: {beat_id} has dateEnd before dateStart; review after annotation.")
             if previous_end_date is not None:
                 if date_start != previous_end_date and date_start != previous_end_date + timedelta(days=1):
-                    errors.append(
-                        f"{beat_id} violates day sequencing: {date_start.isoformat()} does not match "
-                        f"{previous_end_date.isoformat()} or the next day."
+                    warnings.append(
+                        f"CHRONOLOGY: {beat_id} has a date sequencing discrepancy: {date_start.isoformat()} does not match "
+                        f"{previous_end_date.isoformat()} or the next day; review after annotation."
                     )
             previous_end_date = date_end
 

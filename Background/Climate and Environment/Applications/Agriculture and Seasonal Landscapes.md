@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Agriculture and Seasonal Landscapes
 
-The initial application covers [[Greater Sembara]], using the existing [[Taelgar Climate Model Revised#Greater Sembara and Aurbez|regional climate overview]]. Crops, fieldwork and river behavior depend on soils, drainage, land use and catchment storage as well as climate. The following material preserves the current development without assigning a new crop calendar.
+The initial application covers [[Greater Sembara]], using the existing [[Taelgar Climate Model#Greater Sembara and Aurbez|regional climate overview]]. Crops, fieldwork and river behavior depend on soils, drainage, land use and catchment storage as well as climate. The following material preserves the current development without assigning a new crop calendar.
 
 ## Seasonal landscapes in Sembara
 
@@ -16,7 +16,7 @@ The initial application covers [[Greater Sembara]], using the existing [[Taelgar
 | Autumn | Weather permits summer-crop harvests and autumn sowing; rain establishes winter grain. Cleenseau's recorded October rain fits this season. |
 | Winter | Wet or frozen ground limits travel and fieldwork. Snow lasts longer in uplands and the northern interior than in the southern valleys. |
 
-These are lowland applications; higher and farther-northern districts have different cold and snow limits. The corresponding climatic patterns are in [[Taelgar Climate Model Revised#Sembaran riverlands and the Western Gulf]].
+These are lowland applications; higher and farther-northern districts have different cold and snow limits. The corresponding climatic patterns are in [[Taelgar Climate Model#Sembaran riverlands and the Western Gulf]].
 
 ## Rivers and farming
 

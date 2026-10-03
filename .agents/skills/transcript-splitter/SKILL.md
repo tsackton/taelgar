@@ -50,6 +50,7 @@ The `sources/` directory is never secondary evidence. It is always out of bounds
 - Segment in two passes:
   1. split on obvious scene transitions
   2. split overly long scenes at natural sub-points
+- Beats are the smallest useful narrative units, not final recap scenes. Use narrative judgment without forcing a beats-per-hour target; scene aggregation is reviewed later.
 - Prefer day-aware boundaries where evidence supports them.
   If the source clearly moves into a new day, prefer a beat split there unless it would create a trivial fragment.
 - For transcript sources, aim for beats between 150 and 500 source lines.
@@ -74,6 +75,8 @@ The `sources/` directory is never secondary evidence. It is always out of bounds
   - advance by exactly one day from beat `n`'s effective end date
 - Do not skip days between adjacent dated beats.
   If the source covers multiple days in one continuous beat, use a date range within that beat instead.
+  If the source itself contains an unexplained jump or conflict, preserve that evidence for the chronology review after annotation rather than inventing intervening days or changing the session YAML.
+- Never edit `drStart` or `drEnd` without explicit approval of the proposed values.
 - Every beat should have:
   - a short title
   - a boundary reason
@@ -135,6 +138,7 @@ When date evidence is weak:
    - `dateEvidence`
 7. Run `scripts/manage_beats.py` to validate the beats and render the preview deterministically.
 8. If validation fails or the preview shows weak boundaries, revise the beats in chat or edit the JSON directly, then rerun the script.
+9. Within `session-note-prep`, continue into annotation without a routine approval pause. A standalone splitting request ends with the beat artifacts and any chronology warnings. Date-sequencing and inverted date-range warnings are routed to the post-annotation chronology review. They do not excuse structural errors, missing required fields, gaps, or overlaps. Repair obvious date assignment mistakes from source evidence; preserve conflicts needing human judgment for that review.
 
 ## Review Artifacts
 

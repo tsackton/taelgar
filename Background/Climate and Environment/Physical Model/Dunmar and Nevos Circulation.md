@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Dunmar and Nevos Circulation
 
-**Scope:** The [[Nevos Sea]] moisture supply, the Dunmari monsoon, Illoria, and the Chataan transition toward Chardon. This note develops the regional mechanisms in [[Taelgar Climate Model Revised]], which controls the continental circulation and temperature framework. [[Western Ocean and Coast Circulation]] owns the shared western ridge and the Apporian coast; [[Southern Tropical and Desert Circulation]] continues the moisture gradient beyond the Shrev and across southern Garamjala to the jungle coast.
+**Scope:** The [[Nevos Sea]] moisture supply, the Dunmari monsoon, Illoria, and the Chataan transition toward Chardon. This note develops the regional mechanisms in [[Taelgar Climate Model]], which controls the continental circulation and temperature framework. [[Western Ocean and Coast Circulation]] owns the shared western ridge and the Apporian coast; [[Southern Tropical and Desert Circulation]] continues the moisture gradient beyond the Shrev and across southern Garamjala to the jungle coast.
 
 **Standing:** The monsoon, the usual arrival order, the wetter western/northern districts, Alta Tonaro's winter rain, and Illoria's warm subtropical character are retained requirements K01–K03, K17 and K18 in [[Climate and Weather Constraints]]. The mechanisms below are a qualitative working model. They explain those outcomes without fixing local rainfall totals, pressure values, or a calendar for every district.
 
@@ -107,7 +107,7 @@ Magical Stormcaller weather and supernatural local environments remain outside t
 > [!question] Unspecified parameters
 > Exact onset and retreat dates, active/break durations, local wind bearings, rain totals, and monsoon reliability remain unassigned. The Western Dunmar temperature sequence does not impose identical winter temperatures on Hara or the islands. Darba's broad temperature range follows the continental model; no additional numerical normals are introduced here. Nevos currents and sea temperatures, Illoria's rainfall calendar, Chataan snow duration, and the width of each terrain transition still require local development.
 
-%% Temperature alignment: [[Dunmar]] and [[Hara Basin]] retain broad "hot, dry winters" wording, while [[Western Dunmar]] and [[Taelgar Climate Model Revised]] distinguish a cooler season from the hottest premonsoon interval. The revised continental account controls this model; the Gazetteer wording is preserved for separate review. %%
+%% Temperature alignment: [[Dunmar]] and [[Hara Basin]] retain broad "hot, dry winters" wording, while [[Western Dunmar]] and [[Taelgar Climate Model]] distinguish a cooler season from the hottest premonsoon interval. The revised continental account controls this model; the Gazetteer wording is preserved for separate review. %%
 
 Regional coverage: [[Climate of Dunmar and the Nevos]]. Chardon and Apporia belong in [[Climate of the Western Coast and Interior]].
 
@@ -119,4 +119,4 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [Rodwell and Hoskins, 2001: Subtropical Anticyclones and Summer Monsoons](https://wind.mit.edu/~emanuel/tropical/rodwell_hoskins_2001.pdf): interactions among monsoons, oceanic highs, and nearby summer subsidence; not a demonstration of the proposed Taelgar trough or Dunmar–Chardon connection.
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect): mechanisms for warmer, drier lee-side air; application depends on mountain orientation and wind paths.
 
-Return to [[Taelgar Climate Model Revised]] or [[Climate and Environment]].
+Return to [[Taelgar Climate Model]] or [[Climate and Environment]].

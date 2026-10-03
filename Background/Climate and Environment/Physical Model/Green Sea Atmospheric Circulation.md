@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Green Sea Atmospheric Circulation
 
-**Scope:** Pressure systems, seasonal winds, and maritime moisture across the [[Green Sea]], including its connections to [[Greater Sembara]], the northern forests, Cymea, and the southern desert margin. [[Taelgar Climate Model Revised]] supplies the continental framework; [[Climate of Greater Sembara and Aurbez]] and [[Climate of the Green Sea and Its Shores]] describe regional conditions. [[Green Sea Ocean Circulation]] maintains the water-circulation model.
+**Scope:** Pressure systems, seasonal winds, and maritime moisture across the [[Green Sea]], including its connections to [[Greater Sembara]], the northern forests, Cymea, and the southern desert margin. [[Taelgar Climate Model]] supplies the continental framework; [[Climate of Greater Sembara and Aurbez]] and [[Climate of the Green Sea and Its Shores]] describe regional conditions. [[Green Sea Ocean Circulation]] maintains the water-circulation model.
 
 This qualitative model uses a **dominant eastern subtropical ocean high**, a **secondary cool northeastern maritime ridge**, a **Cymean summer low with an offshore trough**, and a **separate Great Desert heat low**. Their changing arrangement supports the sailing opportunities in [[Trading in the Green Sea]]. The seasonal pattern is a sequence of recurring weather situations, with interruptions and regional differences.
 
@@ -169,7 +169,7 @@ Across the Sentinels, western winter moisture and eastern summer moisture affect
 - **Moisture delivery and gulf shelter.** The model needs recurring inland precipitation without severe storms becoming routine throughout the Western Gulf. The balance between weak moving lows, fronts, terrain rain, and thunderstorms remains qualitative.
 - **Island and northeastern detail.** Irrla's old climate claims and exceptional Eastern Isles weather are excluded constraints. This model supplies maritime exposure and terrain effects without deciding every local rainy season, the undeveloped northeastern geography, or regional sea-ice extent.
 
-%% Alignment status, 3 October 2026: this note and its figures follow the fixed [[Taelgar Climate Model Revised]]. The physical weak points above remain tests of that explanation, without changing the continental account or the sailing requirements. %%
+%% Alignment status, 3 October 2026: this note and its figures follow the fixed [[Taelgar Climate Model]]. The physical weak points above remain tests of that explanation, without changing the continental account or the sailing requirements. %%
 
 ## Comparisons and references
 
@@ -181,4 +181,4 @@ Earth examples support mechanisms, not Taelgar-specific frequencies, calendar da
 - [Engelstaedter et al., 2015: Saharan heat low](https://doi.org/10.1002/2015JD023123): lower-atmosphere heating and circulation within an arid region.
 - [National Weather Service: lake-effect snow](https://www.weather.gov/safety/winter-lake-effect-snow): cold air crossing open water gains heat and moisture; a process comparison for downwind precipitation, not an assigned Taelgar snowfall total.
 
-Return to [[Taelgar Climate Model Revised]] or [[Climate and Environment]].
+Return to [[Taelgar Climate Model]] or [[Climate and Environment]].

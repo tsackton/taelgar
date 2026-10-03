@@ -5,7 +5,7 @@ excludePublish: [all]
 # Taelgar Climatic Model
 
 > [!note] Archived climate material
-> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model]]; [[Regional Climate Atlas]] defines the current regional coverage.
 
 ## Purpose, coverage and standing
 
