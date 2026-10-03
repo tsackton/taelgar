@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: female

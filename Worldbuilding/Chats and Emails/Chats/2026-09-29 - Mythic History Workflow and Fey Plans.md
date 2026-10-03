@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-29 - Mythic History Workflow and Fey Plans
 
 *[Editorial note: Cut 15 messages about agent skills, history-document workflow, and collaboration tooling.]*

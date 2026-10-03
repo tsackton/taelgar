@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-23 - Malach Umdizka and Moon Metaphysics
 
 *[Editorial note: Cut 4 messages about document updates and requests to review adventure notes.]*

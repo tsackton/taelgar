@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-30 - Pronunciation Linting and Riving Updates
 
 *[Editorial note: Cut 10 messages about pronunciation linting and source-update coordination.]*

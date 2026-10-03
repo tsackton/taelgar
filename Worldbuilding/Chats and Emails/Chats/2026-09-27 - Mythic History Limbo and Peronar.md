@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-27 - Mythic History Limbo and Peronar
 
 *[Editorial note: Cut 17 messages about history-document organization and source-processing coordination.]*

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-28 - Riving History and Linter Review
 
 *[Editorial note: Cut 2 messages about vault workflow, linter discussion, and update coordination.]*
