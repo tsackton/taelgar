@@ -1,0 +1,62 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Vola's Warning",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The discussion in the north tower centers on Vola's captivity, the danger in the keep, and the decision to scout.",
+      "overview": "Vola describes Agata's servants and an unfinished ritual; the party chooses scouts.",
+      "transitionToNext": "Kenzo and Wellby leave the tower to investigate the keep."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Scouting the Keep",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "One reconnaissance mission: the scouts choose their route, silence a guard, inspect the chapel and hall, and return.",
+      "overview": "Kenzo and Wellby kill an undead guard and discover a demon in the hall.",
+      "transitionToNext": "The scouts return to report and debate whether to attack."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Carcass Ritual",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The report leads to a further watch, whose discovery supplies the immediate reason to attack.",
+      "overview": "Wellby watches the demon corrupt carcasses; the party prepares an assault.",
+      "transitionToNext": "The party closes the gates and advances on the keep."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Battle with the Demon",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "These are the two phases of one continuous fight against the demon and its undead gnolls.",
+      "overview": "The party defeats the demon and gnolls; Seeker rescues Delwath, and Kenzo is poisoned.",
+      "transitionToNext": "Combat ends and the party begins examining the hall and carcasses."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Aftermath and Unfinished Business",
+      "beatIds": [
+        "beat-009",
+        "beat-010",
+        "beat-011",
+        "beat-012"
+      ],
+      "rationale": "At the user's direction, the aftermath of the battle and the session conclusion form one closing scene: investigating the keep, sheltering overnight, and deciding what remains to be done.",
+      "overview": "The party searches the keep, endures a troubled night, and plans its remaining investigations.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

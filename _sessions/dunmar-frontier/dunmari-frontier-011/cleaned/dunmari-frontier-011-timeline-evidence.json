@@ -1,0 +1,88 @@
+{
+  "inferredStart": "1748-04-12",
+  "inferredEnd": "1748-04-13",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start at dusk",
+      "date": "1748-04-12",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "YAML anchors April 12; u0004 says the sun is setting and u0020-u0021 describe dusk and red sunset light."
+    },
+    {
+      "uid": "u0692",
+      "label": "Sun disappears behind the mountains",
+      "date": "1748-04-12",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0692 describes the chapel in shadow after the sun has gone behind the mountains; u0733 still describes the setting sun."
+    },
+    {
+      "uid": "u0964",
+      "label": "Scouts return after about an hour",
+      "date": "1748-04-12",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0964-u0967: scouts return after slightly less than an hour; the others finish a short rest. No night's sleep or date change occurs."
+    },
+    {
+      "uid": "u1167",
+      "label": "Further watch as full darkness falls",
+      "date": "1748-04-12",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1165-u1167: another hour of observation is chosen, and full darkness takes hold. The sunset references are approximate, not a precise clock."
+    },
+    {
+      "uid": "u1171",
+      "label": "Carcass ritual begins during the watch",
+      "date": "1748-04-12",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1171 places the start roughly half an hour after sunset; u1184 describes ten to fifteen minutes per carcass."
+    },
+    {
+      "uid": "u1185",
+      "label": "Carcass work continues",
+      "date": "1748-04-12",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1185 describes another roughly half hour passing during the repeated work; u1204-u1206 end the observation with Wellby returning."
+    },
+    {
+      "uid": "u1418",
+      "label": "Approach at about nine at night",
+      "date": "1748-04-12",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1418 explicitly says it is about 9 pm and pitch black except for the fire."
+    },
+    {
+      "uid": "u2187",
+      "label": "Ten minutes extinguishing the fire",
+      "date": "1748-04-12",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u2187-u2188 give about ten minutes to smother the fire; u2204 confirms full night."
+    },
+    {
+      "uid": "u2487",
+      "label": "Tower shelter and overnight watches",
+      "date": "1748-04-12",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u2487 secures the party in the tower; u2511-u2518 establish watch-taking and sleep. u2507's midnight comment and u2630's 12:15 comment concern ending the real-world game, not an in-world clock."
+    },
+    {
+      "uid": "u2534",
+      "label": "Waking the next morning",
+      "date": "1748-04-13",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u2534 describes waking after the night; u2542-u2580 resolve the rest, and u2582 explicitly confirms morning. Advancing the anchored April 12 date by one night yields April 13, matching YAML drEnd."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

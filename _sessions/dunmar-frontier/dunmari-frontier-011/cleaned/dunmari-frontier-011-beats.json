@@ -1,0 +1,199 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Questions in the North Tower",
+      "startUid": "u0001",
+      "endUid": "u0381",
+      "lineCount": 381,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening recap gives way to food, questions, and discussion of whether to continue scouting.",
+      "dateEvidence": [
+        "Session YAML anchors the date at 1748-04-12; u0004 and u0020 explicitly establish sunset/dusk. Continuous action remains on that evening."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Vola Describes Her Captivity",
+      "startUid": "u0382",
+      "endUid": "u0612",
+      "lineCount": 231,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The group returns to Vola for a sustained account of her route, captors, and their unfinished ritual, then chooses scouts.",
+      "dateEvidence": [
+        "Session YAML anchors the date at 1748-04-12; u0004 and u0020 explicitly establish sunset/dusk. Continuous action remains on that evening."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Scouts Silence an Undead Guard",
+      "startUid": "u0613",
+      "endUid": "u0802",
+      "lineCount": 190,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo and invisible Wellby leave the tower, investigate the chapel, and kill an undead gnoll that spots Kenzo.",
+      "dateEvidence": [
+        "Session YAML anchors the date at 1748-04-12; u0004 and u0020 explicitly establish sunset/dusk. Continuous action remains on that evening."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "A Demon in the Keep",
+      "startUid": "u0803",
+      "endUid": "u0963",
+      "lineCount": 161,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Past the hidden body, the scouts watch the main hall and identify a demon and its extraplanar connection.",
+      "dateEvidence": [
+        "Session YAML anchors the date at 1748-04-12; u0004 and u0020 explicitly establish sunset/dusk. Continuous action remains on that evening."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Rest or Attack",
+      "startUid": "u0964",
+      "endUid": "u1166",
+      "lineCount": 203,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The scouts return and report; discussion resolves in one further hour of observation while others rest.",
+      "dateEvidence": [
+        "Session YAML anchors the date at 1748-04-12; u0004 and u0020 explicitly establish sunset/dusk. Continuous action remains on that evening."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Demon Corrupts Carcasses",
+      "startUid": "u1167",
+      "endUid": "u1376",
+      "lineCount": 210,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby observes a new ritual action, returns with his report, and the group decides to attack after shutting the gates.",
+      "dateEvidence": [
+        "Continuous same-day action from the opening date. u1167 establishes full darkness; u1418 explicitly places the approach at about 9 pm; u2204 confirms full night."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Ambush in the Great Hall",
+      "startUid": "u1377",
+      "endUid": "u1806",
+      "lineCount": 430,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party approaches through two entrances; the surprise attack develops into a close fight with the demon and three undead gnolls.",
+      "dateEvidence": [
+        "Continuous same-day action from the opening date. u1167 establishes full darkness; u1418 explicitly places the approach at about 9 pm; u2204 confirms full night."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Poison and the Killing Blow",
+      "startUid": "u1807",
+      "endUid": "u2092",
+      "lineCount": 286,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The combat shifts when the demon drops and poisons Delwath, forcing rescue before Kenzo and Riswynn finish the enemies.",
+      "dateEvidence": [
+        "Continuous same-day action from the opening date. u1167 establishes full darkness; u1418 explicitly places the approach at about 9 pm; u2204 confirms full night."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Cursed Carcasses and Fire",
+      "startUid": "u2093",
+      "endUid": "u2292",
+      "lineCount": 200,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Combat ends; Kenzo remains poisoned as the party extinguishes a fire, examines the carcasses, and searches the chapel.",
+      "dateEvidence": [
+        "Continuous same-day action from the opening date. u1167 establishes full darkness; u1418 explicitly places the approach at about 9 pm; u2204 confirms full night."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Searching the Keep",
+      "startUid": "u2293",
+      "endUid": "u2486",
+      "lineCount": 194,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party searches the upper floors while Kenzo meditates with Vola and Delwath keeps watch; they then decide to rest.",
+      "dateEvidence": [
+        "Continuous same-day action from the opening date. u1167 establishes full darkness; u1418 explicitly places the approach at about 9 pm; u2204 confirms full night."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "A Night of Troubled Rest",
+      "startUid": "u2487",
+      "endUid": "u2581",
+      "lineCount": 95,
+      "dateStart": "1748-04-12",
+      "dateEnd": "1748-04-13",
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party returns to the tower, settles watches, and resolves the overnight rest and its differing consequences.",
+      "dateEvidence": [
+        "u2487-u2518: tower shelter, watches, and sleep; u2534 describes waking rested, with the explicit morning framing reiterated at u2582. Overnight rest bridges April 12 to April 13. The u2507 midnight remark concerns ending the real-world session, not a precise in-world clock."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Unfinished Business in the Morning",
+      "startUid": "u2582",
+      "endUid": "u2810",
+      "lineCount": 229,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Explicit morning discussion sets the next objectives; the session ends with plans and table scheduling.",
+      "dateEvidence": [
+        "u2582 explicitly says they wake in the morning, following the overnight rest in u2487-u2581; next day after the April 12 opening is April 13, agreeing with YAML."
+      ]
+    }
+  ]
+}

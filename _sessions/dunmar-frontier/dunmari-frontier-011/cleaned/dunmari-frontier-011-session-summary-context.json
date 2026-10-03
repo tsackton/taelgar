@@ -1,0 +1,1728 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 11,
+    "realWorldDate": "2020-10-23",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-13"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "Goat-headed demon"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Desecrated altar and statue of Aagir"
+      ],
+      "combatBeatIds": [
+        "beat-003"
+      ],
+      "sourceShortSummaries": [
+        "The party feeds Vola and debates how to investigate the corruption while sheltering in the north tower.",
+        "Vola describes her captors' interest in Drankorian artifacts and a ritual that delayed their departure.",
+        "Kenzo and invisible Wellby scout the courtyard, find a ruined chapel, and kill an undead gnoll that notices Kenzo.",
+        "The scouts discover a pacing demon in the great hall and learn that it is connected to another plane.",
+        "The party reviews the scouting report and sends Wellby back to watch while the others rest."
+      ],
+      "sourceLongSummaries": [
+        "At dusk, the party shelters in the north tower with Vola, who says she has been captive for about ten days and troubled by nightmares. She reports that the animals began arriving after her capture. Kenzo privately distrusts the Society of the Open Scroll, though the party agrees to help her escape. They review the corrupted animals, the uncertain link between the Abyss and the poisoned water, and the layout of the keep. Concern about discovery competes with the need to rest and recover magic.",
+        "Vola recounts entering over the wall and avoiding the dangerous vines by keeping near the cliff, away from the water. She sought treasure rumored to remain from a three-headed, fire-breathing beast. Her captors worked for Agata Dustmother and questioned her about Drankorian artifacts; they intended to take her to Agata after a ritual succeeded. After considering escape and rest, the group sends Kenzo and Wellby to scout while the others recover in the tower.",
+        "Delwath makes Wellby invisible before the scouts leave. Broken stairs in the north tower lead them to use the south tower, entering an unnaturally warm courtyard veiled in low mist. Through a shattered window they see a wrecked chapel, heaps of dead animals, and a desecrated statue of Aagir with a gnoll skull in place of its head. As they circle the keep, Kenzo steps on a rock and alerts a rotting gnoll. His staff misses, but two punches kill it before it can return inside; they hide the body against the cliff.",
+        "Looking through the hall's windows, Kenzo and Wellby see a goat-headed demon with two horns, a barbed tail, festering sores, and flies, alongside more undead gnolls. The demon paces impatiently among fires, striking nearby creatures and crushing skulls. Kenzo examines its aura and learns that it is powerful and tethered to another plane. The scouts complete their circuit, noting dark upper floors and stairs blocked by a bonfire, then slip back toward the tower.",
+        "The scouts return after roughly an hour, allowing those left behind to finish a short rest. Kenzo reports that the demon resists fire, cold, and lightning and is immune to poison, though ordinary weapons can hurt it. The party weighs an immediate attack against learning what it is waiting for. Exhausted Vola agrees to help but warns that she cannot flee quickly. They settle on another hour of observation: Wellby will watch the lit hall from outside while the others rest."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Questions in the North Tower",
+          "boundaryReason": "Opening recap gives way to food, questions, and discussion of whether to continue scouting.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0381"
+          },
+          "shortSummary": "The party feeds Vola and debates how to investigate the corruption while sheltering in the north tower.",
+          "longSummary": "At dusk, the party shelters in the north tower with Vola, who says she has been captive for about ten days and troubled by nightmares. She reports that the animals began arriving after her capture. Kenzo privately distrusts the Society of the Open Scroll, though the party agrees to help her escape. They review the corrupted animals, the uncertain link between the Abyss and the poisoned water, and the layout of the keep. Concern about discovery competes with the need to rest and recover magic.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower, ruined study or council chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "Vola's captors referred to Agata Dustmother; her identity remains unclear to the party."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Vola belongs to the Society; Kenzo distrusts its priorities in Chardon."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Vola Describes Her Captivity",
+          "boundaryReason": "The group returns to Vola for a sustained account of her route, captors, and their unfinished ritual, then chooses scouts.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0382",
+            "endUid": "u0612"
+          },
+          "shortSummary": "Vola describes her captors' interest in Drankorian artifacts and a ritual that delayed their departure.",
+          "longSummary": "Vola recounts entering over the wall and avoiding the dangerous vines by keeping near the cliff, away from the water. She sought treasure rumored to remain from a three-headed, fire-breathing beast. Her captors worked for Agata Dustmother and questioned her about Drankorian artifacts; they intended to take her to Agata after a ritual succeeded. After considering escape and rest, the group sends Kenzo and Wellby to scout while the others recover in the tower.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "Reportedly an unnaturally old woman whose servants sought artifact information; Vola does not know her location."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Kenzo asks whether the captors knew Vola's affiliation."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Scouts Silence an Undead Guard",
+          "boundaryReason": "Kenzo and invisible Wellby leave the tower, investigate the chapel, and kill an undead gnoll that spots Kenzo.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0613",
+            "endUid": "u0802"
+          },
+          "shortSummary": "Kenzo and invisible Wellby scout the courtyard, find a ruined chapel, and kill an undead gnoll that notices Kenzo.",
+          "longSummary": "Delwath makes Wellby invisible before the scouts leave. Broken stairs in the north tower lead them to use the south tower, entering an unnaturally warm courtyard veiled in low mist. Through a shattered window they see a wrecked chapel, heaps of dead animals, and a desecrated statue of Aagir with a gnoll skull in place of its head. As they circle the keep, Kenzo steps on a rock and alerts a rotting gnoll. His staff misses, but two punches kill it before it can return inside; they hide the body against the cliff.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North and south towers, inner courtyard, and chapel windows"
+          },
+          "itemDetails": [
+            {
+              "name": "Desecrated altar and statue of Aagir",
+              "role": "encountered",
+              "notes": "The altar is smashed and the statue's head replaced with a gnoll skull."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Undead gnoll"
+              }
+            ],
+            "notes": "A brief scouting encounter; Kenzo kills the gnoll before it can raise the alarm, while Wellby remains invisible."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A Demon in the Keep",
+          "boundaryReason": "Past the hidden body, the scouts watch the main hall and identify a demon and its extraplanar connection.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0803",
+            "endUid": "u0963"
+          },
+          "shortSummary": "The scouts discover a pacing demon in the great hall and learn that it is connected to another plane.",
+          "longSummary": "Looking through the hall's windows, Kenzo and Wellby see a goat-headed demon with two horns, a barbed tail, festering sores, and flies, alongside more undead gnolls. The demon paces impatiently among fires, striking nearby creatures and crushing skulls. Kenzo examines its aura and learns that it is powerful and tethered to another plane. The scouts complete their circuit, noting dark upper floors and stairs blocked by a bonfire, then slip back toward the tower.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Outside the keep, looking into the great hall"
+          },
+          "npcDetails": [
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Rest or Attack",
+          "boundaryReason": "The scouts return and report; discussion resolves in one further hour of observation while others rest.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0964",
+            "endUid": "u1166"
+          },
+          "shortSummary": "The party reviews the scouting report and sends Wellby back to watch while the others rest.",
+          "longSummary": "The scouts return after roughly an hour, allowing those left behind to finish a short rest. Kenzo reports that the demon resists fire, cold, and lightning and is immune to poison, though ordinary weapons can hurt it. The party weighs an immediate attack against learning what it is waiting for. Exhausted Vola agrees to help but warns that she cannot flee quickly. They settle on another hour of observation: Wellby will watch the lit hall from outside while the others rest.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Goat-headed demon",
+              "role": "mentioned",
+              "notes": "The scouting report drives the decision to observe it further."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-006",
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Goat-headed demon",
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Corrupted animal carcasses",
+        "Shatterstorm",
+        "Elixir of Health",
+        "Untranslated military papers"
+      ],
+      "combatBeatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "sourceShortSummaries": [
+        "Wellby watches the demon corrupt dead animals, prompting the party to close the gates and prepare an attack.",
+        "The party ambushes the demon and its undead gnolls, killing two gnolls as the fight closes around the front line.",
+        "Seeker revives and cures Delwath before Kenzo destroys the demon and Riswynn finishes the last gnoll.",
+        "The party examines the corrupted carcasses and extinguishes a fire while Kenzo remains poisoned.",
+        "The upper-floor search yields unreadable military papers while Kenzo meditates outside under Delwath's watch."
+      ],
+      "sourceLongSummaries": [
+        "As darkness falls, Wellby watches the demon heat its claws in a fire and score animal carcasses, which blacken and develop boils before being thrown into a pile near the entrance. After observing the process repeat, he returns to report. Seeker recalls rumors that consuming demonic flesh can transform worshippers into demons, and the party considers a possible connection to the captive animals without establishing it. They discuss distractions and the unknown Dunmari horn, then commit to a direct attack with Vola and shut the inner gates before approaching the keep.",
+        "Approaching from two entrances, Wellby, Seeker, and Delwath act before the defenders. Wellby's arrow hits the demon, while Seeker's crossbow and Delwath's Eldritch Blast miss. The demon attacks Delwath and fills the party's minds with curses. Vola produces shimmering daggers from empty hands. Wellby kills a gnoll with his shortsword, triggering a retaliatory bite from another against Vola; Seeker wounds that creature and Vola finishes it. Delwath curses the demon and strikes with his shadow sword. Its attempt to affect the front line fails, while Seeker inspires Wellby and moves into the hall.",
+        "After another sword strike, the demon drops Delwath with its poisonous tail and stands over him as boils and flies appear on his body. Its weakening gaze affects Kenzo but does not hinder his dexterity-based attacks. Seeker restores Delwath with Healing Word and uses his Elixir of Health to remove the poison; Delwath escapes with Misty Step. The demon then poisons Kenzo. Vola wounds it with a shimmering dagger, and Kenzo's final punch cracks its horn before it vanishes. Riswynn lands a hammer blow and fiery smite that destroy the remaining gnoll. Kenzo is still poisoned when the fight ends.",
+        "Kenzo's flesh continues to rot, and the party has no immediate way to remove his poison. Searching the hall, they find roughly five corrupted carcasses near the entrance and distinguish a fuel-less magical fire from fires burning ordinary material. They smother a fire over about ten minutes, using dirt or carcasses, while Delwath examines the area magically. The scored antelopes carry a magical effect distinct from the poison that afflicted the characters. Wellby and Riswynn see no approaching enemies. The ruined chapel contains roughly thirty animal remains, apparently no older than a few weeks, but yields no explanation of the ritual.",
+        "Kenzo sits outside concentrating on the poison; the ground trembles slightly and his eyes shine blue while Vola speaks quietly beside him. Delwath joins them and keeps watch. Meanwhile, the others search former hobgoblin rooms upstairs. Wellby finds a leather satchel of old papers in the same unread language as the earlier logbook, with numbers and sketches suggesting troop movements or army accounts. The damaged top floor offers nothing worth collecting. With injuries and exhaustion mounting, the party decides to return to the tower and rest."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "The Demon Corrupts Carcasses",
+          "boundaryReason": "Wellby observes a new ritual action, returns with his report, and the group decides to attack after shutting the gates.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1167",
+            "endUid": "u1376"
+          },
+          "shortSummary": "Wellby watches the demon corrupt dead animals, prompting the party to close the gates and prepare an attack.",
+          "longSummary": "As darkness falls, Wellby watches the demon heat its claws in a fire and score animal carcasses, which blacken and develop boils before being thrown into a pile near the entrance. After observing the process repeat, he returns to report. Seeker recalls rumors that consuming demonic flesh can transform worshippers into demons, and the party considers a possible connection to the captive animals without establishing it. They discuss distractions and the unknown Dunmari horn, then commit to a direct attack with Vola and shut the inner gates before approaching the keep.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great-hall windows, north tower, and inner gates"
+          },
+          "npcDetails": [
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            },
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Corrupted animal carcasses",
+              "role": "encountered",
+              "notes": "The demon scores them with heated claws; their intended use remains uncertain."
+            },
+            {
+              "name": "Dunmari horn",
+              "role": "mentioned",
+              "notes": "Discussed as a possible aid, but not sounded."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Ambush in the Great Hall",
+          "boundaryReason": "The party approaches through two entrances; the surprise attack develops into a close fight with the demon and three undead gnolls.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1377",
+            "endUid": "u1806"
+          },
+          "shortSummary": "The party ambushes the demon and its undead gnolls, killing two gnolls as the fight closes around the front line.",
+          "longSummary": "Approaching from two entrances, Wellby, Seeker, and Delwath act before the defenders. Wellby's arrow hits the demon, while Seeker's crossbow and Delwath's Eldritch Blast miss. The demon attacks Delwath and fills the party's minds with curses. Vola produces shimmering daggers from empty hands. Wellby kills a gnoll with his shortsword, triggering a retaliatory bite from another against Vola; Seeker wounds that creature and Vola finishes it. Delwath curses the demon and strikes with his shadow sword. Its attempt to affect the front line fails, while Seeker inspires Wellby and moves into the hall.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great hall and its entrances"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "Riswynn attacks with her magical warhammer while maintaining a smite."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Goat-headed demon"
+              },
+              {
+                "name": "Three undead gnolls"
+              }
+            ],
+            "notes": "Opening phase of the main fight. Two gnolls are killed; the demon and one gnoll remain. Delwath, Kenzo, and Riswynn resist the demon's spell."
+          }
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Poison and the Killing Blow",
+          "boundaryReason": "The combat shifts when the demon drops and poisons Delwath, forcing rescue before Kenzo and Riswynn finish the enemies.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1807",
+            "endUid": "u2092"
+          },
+          "shortSummary": "Seeker revives and cures Delwath before Kenzo destroys the demon and Riswynn finishes the last gnoll.",
+          "longSummary": "After another sword strike, the demon drops Delwath with its poisonous tail and stands over him as boils and flies appear on his body. Its weakening gaze affects Kenzo but does not hinder his dexterity-based attacks. Seeker restores Delwath with Healing Word and uses his Elixir of Health to remove the poison; Delwath escapes with Misty Step. The demon then poisons Kenzo. Vola wounds it with a shimmering dagger, and Kenzo's final punch cracks its horn before it vanishes. Riswynn lands a hammer blow and fiery smite that destroy the remaining gnoll. Kenzo is still poisoned when the fight ends.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great hall and entrance corridor"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Elixir of Health",
+              "role": "encountered",
+              "notes": "Seeker administers the elixir to cure Delwath's poison."
+            },
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "Riswynn kills the final undead gnoll with a hammer blow and fiery smite."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Goat-headed demon"
+              },
+              {
+                "name": "Remaining undead gnoll"
+              }
+            ],
+            "notes": "The demon leaves no recoverable body. Delwath survives after magical healing and an elixir; Kenzo remains poisoned; all enemies in this fight are defeated."
+          }
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Cursed Carcasses and Fire",
+          "boundaryReason": "Combat ends; Kenzo remains poisoned as the party extinguishes a fire, examines the carcasses, and searches the chapel.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2093",
+            "endUid": "u2292"
+          },
+          "shortSummary": "The party examines the corrupted carcasses and extinguishes a fire while Kenzo remains poisoned.",
+          "longSummary": "Kenzo's flesh continues to rot, and the party has no immediate way to remove his poison. Searching the hall, they find roughly five corrupted carcasses near the entrance and distinguish a fuel-less magical fire from fires burning ordinary material. They smother a fire over about ten minutes, using dirt or carcasses, while Delwath examines the area magically. The scored antelopes carry a magical effect distinct from the poison that afflicted the characters. Wellby and Riswynn see no approaching enemies. The ruined chapel contains roughly thirty animal remains, apparently no older than a few weeks, but yields no explanation of the ritual.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great hall, chapel, and inner courtyard"
+          },
+          "itemDetails": [
+            {
+              "name": "Corrupted animal carcasses",
+              "role": "encountered",
+              "notes": "Magically affected; distinct from the characters' nonmagical poison."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-010",
+          "title": "Searching the Keep",
+          "boundaryReason": "The party searches the upper floors while Kenzo meditates with Vola and Delwath keeps watch; they then decide to rest.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2293",
+            "endUid": "u2486"
+          },
+          "shortSummary": "The upper-floor search yields unreadable military papers while Kenzo meditates outside under Delwath's watch.",
+          "longSummary": "Kenzo sits outside concentrating on the poison; the ground trembles slightly and his eyes shine blue while Vola speaks quietly beside him. Delwath joins them and keeps watch. Meanwhile, the others search former hobgoblin rooms upstairs. Wellby finds a leather satchel of old papers in the same unread language as the earlier logbook, with numbers and sketches suggesting troop movements or army accounts. The damaged top floor offers nothing worth collecting. With injuries and exhaustion mounting, the party decides to return to the tower and rest.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Keep upper floors and inner courtyard"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Untranslated military papers",
+              "role": "encountered",
+              "notes": "Found by Wellby; apparently hobgoblin records, but the party cannot read them."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-011"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party shelters overnight in the tower, where nightmares prevent most of them from recovering fully."
+      ],
+      "sourceLongSummaries": [
+        "The party secures itself in the north tower as three gnolls outside bang on the closed gates and eventually walk away. Wellby volunteers for the first watch. Kenzo recovers from the poison, but the overnight rest is troubled: Riswynn and Vola wake rested, while Kenzo, Delwath, and Wellby regain resources without recovering hit points. Delwath's sleepless rest does not spare him the nightmares. Seeker also recovers no hit points and gains one level of exhaustion; Vola loses one level of exhaustion."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-011",
+          "title": "A Night of Troubled Rest",
+          "boundaryReason": "The party returns to the tower, settles watches, and resolves the overnight rest and its differing consequences.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2487",
+            "endUid": "u2581"
+          },
+          "shortSummary": "The party shelters overnight in the tower, where nightmares prevent most of them from recovering fully.",
+          "longSummary": "The party secures itself in the north tower as three gnolls outside bang on the closed gates and eventually walk away. Wellby volunteers for the first watch. Kenzo recovers from the poison, but the overnight rest is troubled: Riswynn and Vola wake rested, while Kenzo, Delwath, and Wellby regain resources without recovering hit points. Delwath's sleepless rest does not spare him the nightmares. Seeker also recovers no hit points and gains one level of exhaustion; Vola loses one level of exhaustion.",
+          "sourceDateSpan": {
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-13",
+            "dayPosition": "start"
+          },
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower overlooking the closed inner gates"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-011"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party shelters overnight in the tower, where nightmares prevent most of them from recovering fully."
+      ],
+      "sourceLongSummaries": [
+        "The party secures itself in the north tower as three gnolls outside bang on the closed gates and eventually walk away. Wellby volunteers for the first watch. Kenzo recovers from the poison, but the overnight rest is troubled: Riswynn and Vola wake rested, while Kenzo, Delwath, and Wellby regain resources without recovering hit points. Delwath's sleepless rest does not spare him the nightmares. Seeker also recovers no hit points and gains one level of exhaustion; Vola loses one level of exhaustion."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-011",
+          "title": "A Night of Troubled Rest",
+          "boundaryReason": "The party returns to the tower, settles watches, and resolves the overnight rest and its differing consequences.",
+          "dateStart": "1748-04-13",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2487",
+            "endUid": "u2581"
+          },
+          "shortSummary": "The party shelters overnight in the tower, where nightmares prevent most of them from recovering fully.",
+          "longSummary": "The party secures itself in the north tower as three gnolls outside bang on the closed gates and eventually walk away. Wellby volunteers for the first watch. Kenzo recovers from the poison, but the overnight rest is troubled: Riswynn and Vola wake rested, while Kenzo, Delwath, and Wellby regain resources without recovering hit points. Delwath's sleepless rest does not spare him the nightmares. Seeker also recovers no hit points and gains one level of exhaustion; Vola loses one level of exhaustion.",
+          "sourceDateSpan": {
+            "dateStart": "1748-04-12",
+            "dateEnd": "1748-04-13",
+            "dayPosition": "end"
+          },
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower overlooking the closed inner gates"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-012"
+      ],
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Morning discussion leaves the party resolved to investigate the animals, gnolls, and corrupted water before departing."
+      ],
+      "sourceLongSummaries": [
+        "Seeker describes a nightmare of a huge gnoll with a three-headed flail and animals turning into gnolls. The party suspects that the demon's carcasses and the captive animals were part of a transformation ritual, but the missing steps and Agata's role remain theories. They plan to confront the remaining gnolls, seek the small flying demon, free or question the animals, and investigate the river and vines; the iron guardian also remains of interest for their return journey. Vola cannot translate the papers and demonstrates her shimmering dagger again. Seeker proposes taking Taster to speak with the animals, but further action is deferred to the next session."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-012",
+          "title": "Unfinished Business in the Morning",
+          "boundaryReason": "Explicit morning discussion sets the next objectives; the session ends with plans and table scheduling.",
+          "dateStart": "1748-04-13",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u2582",
+            "endUid": "u2810"
+          },
+          "shortSummary": "Morning discussion leaves the party resolved to investigate the animals, gnolls, and corrupted water before departing.",
+          "longSummary": "Seeker describes a nightmare of a huge gnoll with a three-headed flail and animals turning into gnolls. The party suspects that the demon's carcasses and the captive animals were part of a transformation ritual, but the missing steps and Agata's role remain theories. They plan to confront the remaining gnolls, seek the small flying demon, free or question the animals, and investigate the river and vines; the iron guardian also remains of interest for their return journey. Vola cannot translate the papers and demonstrates her shimmering dagger again. Seeker proposes taking Taster to speak with the animals, but further action is deferred to the next session.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Taster",
+              "role": "companion",
+              "notes": "Seeker's rabbit is fed and proposed as a companion or decoy for speaking with the captive animals."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "The party speculates about her role in the ritual."
+            },
+            {
+              "name": "Small flying demon",
+              "role": "mentioned",
+              "notes": "Previously seen bat-like creature; finding it remains a plan."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Untranslated military papers",
+              "role": "mentioned",
+              "notes": "Vola says she cannot read the language."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Vola's Warning",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0612"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0381"
+        },
+        {
+          "startUid": "u0382",
+          "endUid": "u0612"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party feeds Vola and debates how to investigate the corruption while sheltering in the north tower.",
+        "Vola describes her captors' interest in Drankorian artifacts and a ritual that delayed their departure."
+      ],
+      "sourceLongSummaries": [
+        "At dusk, the party shelters in the north tower with Vola, who says she has been captive for about ten days and troubled by nightmares. She reports that the animals began arriving after her capture. Kenzo privately distrusts the Society of the Open Scroll, though the party agrees to help her escape. They review the corrupted animals, the uncertain link between the Abyss and the poisoned water, and the layout of the keep. Concern about discovery competes with the need to rest and recover magic.",
+        "Vola recounts entering over the wall and avoiding the dangerous vines by keeping near the cliff, away from the water. She sought treasure rumored to remain from a three-headed, fire-breathing beast. Her captors worked for Agata Dustmother and questioned her about Drankorian artifacts; they intended to take her to Agata after a ritual succeeded. After considering escape and rest, the group sends Kenzo and Wellby to scout while the others recover in the tower."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Questions in the North Tower",
+          "boundaryReason": "Opening recap gives way to food, questions, and discussion of whether to continue scouting.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0381"
+          },
+          "shortSummary": "The party feeds Vola and debates how to investigate the corruption while sheltering in the north tower.",
+          "longSummary": "At dusk, the party shelters in the north tower with Vola, who says she has been captive for about ten days and troubled by nightmares. She reports that the animals began arriving after her capture. Kenzo privately distrusts the Society of the Open Scroll, though the party agrees to help her escape. They review the corrupted animals, the uncertain link between the Abyss and the poisoned water, and the layout of the keep. Concern about discovery competes with the need to rest and recover magic.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower, ruined study or council chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "Vola's captors referred to Agata Dustmother; her identity remains unclear to the party."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Vola belongs to the Society; Kenzo distrusts its priorities in Chardon."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Vola Describes Her Captivity",
+          "boundaryReason": "The group returns to Vola for a sustained account of her route, captors, and their unfinished ritual, then chooses scouts.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0382",
+            "endUid": "u0612"
+          },
+          "shortSummary": "Vola describes her captors' interest in Drankorian artifacts and a ritual that delayed their departure.",
+          "longSummary": "Vola recounts entering over the wall and avoiding the dangerous vines by keeping near the cliff, away from the water. She sought treasure rumored to remain from a three-headed, fire-breathing beast. Her captors worked for Agata Dustmother and questioned her about Drankorian artifacts; they intended to take her to Agata after a ritual succeeded. After considering escape and rest, the group sends Kenzo and Wellby to scout while the others recover in the tower.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "Reportedly an unnaturally old woman whose servants sought artifact information; Vola does not know her location."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Society of the Open Scroll",
+              "role": "mentioned",
+              "notes": "Kenzo asks whether the captors knew Vola's affiliation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Scouting the Keep",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0613",
+        "endUid": "u0963"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0613",
+          "endUid": "u0802"
+        },
+        {
+          "startUid": "u0803",
+          "endUid": "u0963"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Goat-headed demon"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Desecrated altar and statue of Aagir"
+      ],
+      "combatEnemyRefs": [
+        "Undead gnoll"
+      ],
+      "sourceShortSummaries": [
+        "Kenzo and invisible Wellby scout the courtyard, find a ruined chapel, and kill an undead gnoll that notices Kenzo.",
+        "The scouts discover a pacing demon in the great hall and learn that it is connected to another plane."
+      ],
+      "sourceLongSummaries": [
+        "Delwath makes Wellby invisible before the scouts leave. Broken stairs in the north tower lead them to use the south tower, entering an unnaturally warm courtyard veiled in low mist. Through a shattered window they see a wrecked chapel, heaps of dead animals, and a desecrated statue of Aagir with a gnoll skull in place of its head. As they circle the keep, Kenzo steps on a rock and alerts a rotting gnoll. His staff misses, but two punches kill it before it can return inside; they hide the body against the cliff.",
+        "Looking through the hall's windows, Kenzo and Wellby see a goat-headed demon with two horns, a barbed tail, festering sores, and flies, alongside more undead gnolls. The demon paces impatiently among fires, striking nearby creatures and crushing skulls. Kenzo examines its aura and learns that it is powerful and tethered to another plane. The scouts complete their circuit, noting dark upper floors and stairs blocked by a bonfire, then slip back toward the tower."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Scouts Silence an Undead Guard",
+          "boundaryReason": "Kenzo and invisible Wellby leave the tower, investigate the chapel, and kill an undead gnoll that spots Kenzo.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0613",
+            "endUid": "u0802"
+          },
+          "shortSummary": "Kenzo and invisible Wellby scout the courtyard, find a ruined chapel, and kill an undead gnoll that notices Kenzo.",
+          "longSummary": "Delwath makes Wellby invisible before the scouts leave. Broken stairs in the north tower lead them to use the south tower, entering an unnaturally warm courtyard veiled in low mist. Through a shattered window they see a wrecked chapel, heaps of dead animals, and a desecrated statue of Aagir with a gnoll skull in place of its head. As they circle the keep, Kenzo steps on a rock and alerts a rotting gnoll. His staff misses, but two punches kill it before it can return inside; they hide the body against the cliff.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North and south towers, inner courtyard, and chapel windows"
+          },
+          "itemDetails": [
+            {
+              "name": "Desecrated altar and statue of Aagir",
+              "role": "encountered",
+              "notes": "The altar is smashed and the statue's head replaced with a gnoll skull."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Undead gnoll"
+              }
+            ],
+            "notes": "A brief scouting encounter; Kenzo kills the gnoll before it can raise the alarm, while Wellby remains invisible."
+          }
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A Demon in the Keep",
+          "boundaryReason": "Past the hidden body, the scouts watch the main hall and identify a demon and its extraplanar connection.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0803",
+            "endUid": "u0963"
+          },
+          "shortSummary": "The scouts discover a pacing demon in the great hall and learn that it is connected to another plane.",
+          "longSummary": "Looking through the hall's windows, Kenzo and Wellby see a goat-headed demon with two horns, a barbed tail, festering sores, and flies, alongside more undead gnolls. The demon paces impatiently among fires, striking nearby creatures and crushing skulls. Kenzo examines its aura and learns that it is powerful and tethered to another plane. The scouts complete their circuit, noting dark upper floors and stairs blocked by a bonfire, then slip back toward the tower.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Outside the keep, looking into the great hall"
+          },
+          "npcDetails": [
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "The Carcass Ritual",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u0964",
+        "endUid": "u1376"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0964",
+          "endUid": "u1166"
+        },
+        {
+          "startUid": "u1167",
+          "endUid": "u1376"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "Goat-headed demon"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Corrupted animal carcasses"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party reviews the scouting report and sends Wellby back to watch while the others rest.",
+        "Wellby watches the demon corrupt dead animals, prompting the party to close the gates and prepare an attack."
+      ],
+      "sourceLongSummaries": [
+        "The scouts return after roughly an hour, allowing those left behind to finish a short rest. Kenzo reports that the demon resists fire, cold, and lightning and is immune to poison, though ordinary weapons can hurt it. The party weighs an immediate attack against learning what it is waiting for. Exhausted Vola agrees to help but warns that she cannot flee quickly. They settle on another hour of observation: Wellby will watch the lit hall from outside while the others rest.",
+        "As darkness falls, Wellby watches the demon heat its claws in a fire and score animal carcasses, which blacken and develop boils before being thrown into a pile near the entrance. After observing the process repeat, he returns to report. Seeker recalls rumors that consuming demonic flesh can transform worshippers into demons, and the party considers a possible connection to the captive animals without establishing it. They discuss distractions and the unknown Dunmari horn, then commit to a direct attack with Vola and shut the inner gates before approaching the keep."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Rest or Attack",
+          "boundaryReason": "The scouts return and report; discussion resolves in one further hour of observation while others rest.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u0964",
+            "endUid": "u1166"
+          },
+          "shortSummary": "The party reviews the scouting report and sends Wellby back to watch while the others rest.",
+          "longSummary": "The scouts return after roughly an hour, allowing those left behind to finish a short rest. Kenzo reports that the demon resists fire, cold, and lightning and is immune to poison, though ordinary weapons can hurt it. The party weighs an immediate attack against learning what it is waiting for. Exhausted Vola agrees to help but warns that she cannot flee quickly. They settle on another hour of observation: Wellby will watch the lit hall from outside while the others rest.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Goat-headed demon",
+              "role": "mentioned",
+              "notes": "The scouting report drives the decision to observe it further."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "The Demon Corrupts Carcasses",
+          "boundaryReason": "Wellby observes a new ritual action, returns with his report, and the group decides to attack after shutting the gates.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1167",
+            "endUid": "u1376"
+          },
+          "shortSummary": "Wellby watches the demon corrupt dead animals, prompting the party to close the gates and prepare an attack.",
+          "longSummary": "As darkness falls, Wellby watches the demon heat its claws in a fire and score animal carcasses, which blacken and develop boils before being thrown into a pile near the entrance. After observing the process repeat, he returns to report. Seeker recalls rumors that consuming demonic flesh can transform worshippers into demons, and the party considers a possible connection to the captive animals without establishing it. They discuss distractions and the unknown Dunmari horn, then commit to a direct attack with Vola and shut the inner gates before approaching the keep.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great-hall windows, north tower, and inner gates"
+          },
+          "npcDetails": [
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            },
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Corrupted animal carcasses",
+              "role": "encountered",
+              "notes": "The demon scores them with heated claws; their intended use remains uncertain."
+            },
+            {
+              "name": "Dunmari horn",
+              "role": "mentioned",
+              "notes": "Discussed as a possible aid, but not sounded."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "combat",
+      "title": "Battle with the Demon",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "sourceRange": {
+        "startUid": "u1377",
+        "endUid": "u2092"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1377",
+          "endUid": "u1806"
+        },
+        {
+          "startUid": "u1807",
+          "endUid": "u2092"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "Goat-headed demon"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Shatterstorm",
+        "Elixir of Health"
+      ],
+      "combatEnemyRefs": [
+        "Goat-headed demon",
+        "Three undead gnolls",
+        "Remaining undead gnoll"
+      ],
+      "sourceShortSummaries": [
+        "The party ambushes the demon and its undead gnolls, killing two gnolls as the fight closes around the front line.",
+        "Seeker revives and cures Delwath before Kenzo destroys the demon and Riswynn finishes the last gnoll."
+      ],
+      "sourceLongSummaries": [
+        "Approaching from two entrances, Wellby, Seeker, and Delwath act before the defenders. Wellby's arrow hits the demon, while Seeker's crossbow and Delwath's Eldritch Blast miss. The demon attacks Delwath and fills the party's minds with curses. Vola produces shimmering daggers from empty hands. Wellby kills a gnoll with his shortsword, triggering a retaliatory bite from another against Vola; Seeker wounds that creature and Vola finishes it. Delwath curses the demon and strikes with his shadow sword. Its attempt to affect the front line fails, while Seeker inspires Wellby and moves into the hall.",
+        "After another sword strike, the demon drops Delwath with its poisonous tail and stands over him as boils and flies appear on his body. Its weakening gaze affects Kenzo but does not hinder his dexterity-based attacks. Seeker restores Delwath with Healing Word and uses his Elixir of Health to remove the poison; Delwath escapes with Misty Step. The demon then poisons Kenzo. Vola wounds it with a shimmering dagger, and Kenzo's final punch cracks its horn before it vanishes. Riswynn lands a hammer blow and fiery smite that destroy the remaining gnoll. Kenzo is still poisoned when the fight ends."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "Ambush in the Great Hall",
+          "boundaryReason": "The party approaches through two entrances; the surprise attack develops into a close fight with the demon and three undead gnolls.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1377",
+            "endUid": "u1806"
+          },
+          "shortSummary": "The party ambushes the demon and its undead gnolls, killing two gnolls as the fight closes around the front line.",
+          "longSummary": "Approaching from two entrances, Wellby, Seeker, and Delwath act before the defenders. Wellby's arrow hits the demon, while Seeker's crossbow and Delwath's Eldritch Blast miss. The demon attacks Delwath and fills the party's minds with curses. Vola produces shimmering daggers from empty hands. Wellby kills a gnoll with his shortsword, triggering a retaliatory bite from another against Vola; Seeker wounds that creature and Vola finishes it. Delwath curses the demon and strikes with his shadow sword. Its attempt to affect the front line fails, while Seeker inspires Wellby and moves into the hall.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great hall and its entrances"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "Riswynn attacks with her magical warhammer while maintaining a smite."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Goat-headed demon"
+              },
+              {
+                "name": "Three undead gnolls"
+              }
+            ],
+            "notes": "Opening phase of the main fight. Two gnolls are killed; the demon and one gnoll remain. Delwath, Kenzo, and Riswynn resist the demon's spell."
+          }
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Poison and the Killing Blow",
+          "boundaryReason": "The combat shifts when the demon drops and poisons Delwath, forcing rescue before Kenzo and Riswynn finish the enemies.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u1807",
+            "endUid": "u2092"
+          },
+          "shortSummary": "Seeker revives and cures Delwath before Kenzo destroys the demon and Riswynn finishes the last gnoll.",
+          "longSummary": "After another sword strike, the demon drops Delwath with its poisonous tail and stands over him as boils and flies appear on his body. Its weakening gaze affects Kenzo but does not hinder his dexterity-based attacks. Seeker restores Delwath with Healing Word and uses his Elixir of Health to remove the poison; Delwath escapes with Misty Step. The demon then poisons Kenzo. Vola wounds it with a shimmering dagger, and Kenzo's final punch cracks its horn before it vanishes. Riswynn lands a hammer blow and fiery smite that destroy the remaining gnoll. Kenzo is still poisoned when the fight ends.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great hall and entrance corridor"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Goat-headed demon",
+              "role": "enemy",
+              "notes": "An unnamed horned demon with a barbed tail, claws, sores, and flies; its species is not established in the transcript."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Elixir of Health",
+              "role": "encountered",
+              "notes": "Seeker administers the elixir to cure Delwath's poison."
+            },
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "Riswynn kills the final undead gnoll with a hammer blow and fiery smite."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Goat-headed demon"
+              },
+              {
+                "name": "Remaining undead gnoll"
+              }
+            ],
+            "notes": "The demon leaves no recoverable body. Delwath survives after magical healing and an elixir; Kenzo remains poisoned; all enemies in this fight are defeated."
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Aftermath and Unfinished Business",
+      "beatIds": [
+        "beat-009",
+        "beat-010",
+        "beat-011",
+        "beat-012"
+      ],
+      "sourceRange": {
+        "startUid": "u2093",
+        "endUid": "u2810"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2093",
+          "endUid": "u2292"
+        },
+        {
+          "startUid": "u2293",
+          "endUid": "u2486"
+        },
+        {
+          "startUid": "u2487",
+          "endUid": "u2581"
+        },
+        {
+          "startUid": "u2582",
+          "endUid": "u2810"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": "1748-04-13",
+      "timeWindow": null,
+      "resolution": "date-range",
+      "locationRefs": [
+        "Raven's Hold"
+      ],
+      "npcRefs": [
+        "Vola",
+        "Taster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Corrupted animal carcasses",
+        "Untranslated military papers"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party examines the corrupted carcasses and extinguishes a fire while Kenzo remains poisoned.",
+        "The upper-floor search yields unreadable military papers while Kenzo meditates outside under Delwath's watch.",
+        "The party shelters overnight in the tower, where nightmares prevent most of them from recovering fully.",
+        "Morning discussion leaves the party resolved to investigate the animals, gnolls, and corrupted water before departing."
+      ],
+      "sourceLongSummaries": [
+        "Kenzo's flesh continues to rot, and the party has no immediate way to remove his poison. Searching the hall, they find roughly five corrupted carcasses near the entrance and distinguish a fuel-less magical fire from fires burning ordinary material. They smother a fire over about ten minutes, using dirt or carcasses, while Delwath examines the area magically. The scored antelopes carry a magical effect distinct from the poison that afflicted the characters. Wellby and Riswynn see no approaching enemies. The ruined chapel contains roughly thirty animal remains, apparently no older than a few weeks, but yields no explanation of the ritual.",
+        "Kenzo sits outside concentrating on the poison; the ground trembles slightly and his eyes shine blue while Vola speaks quietly beside him. Delwath joins them and keeps watch. Meanwhile, the others search former hobgoblin rooms upstairs. Wellby finds a leather satchel of old papers in the same unread language as the earlier logbook, with numbers and sketches suggesting troop movements or army accounts. The damaged top floor offers nothing worth collecting. With injuries and exhaustion mounting, the party decides to return to the tower and rest.",
+        "The party secures itself in the north tower as three gnolls outside bang on the closed gates and eventually walk away. Wellby volunteers for the first watch. Kenzo recovers from the poison, but the overnight rest is troubled: Riswynn and Vola wake rested, while Kenzo, Delwath, and Wellby regain resources without recovering hit points. Delwath's sleepless rest does not spare him the nightmares. Seeker also recovers no hit points and gains one level of exhaustion; Vola loses one level of exhaustion.",
+        "Seeker describes a nightmare of a huge gnoll with a three-headed flail and animals turning into gnolls. The party suspects that the demon's carcasses and the captive animals were part of a transformation ritual, but the missing steps and Agata's role remain theories. They plan to confront the remaining gnolls, seek the small flying demon, free or question the animals, and investigate the river and vines; the iron guardian also remains of interest for their return journey. Vola cannot translate the papers and demonstrates her shimmering dagger again. Seeker proposes taking Taster to speak with the animals, but further action is deferred to the next session."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-009",
+          "title": "Cursed Carcasses and Fire",
+          "boundaryReason": "Combat ends; Kenzo remains poisoned as the party extinguishes a fire, examines the carcasses, and searches the chapel.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2093",
+            "endUid": "u2292"
+          },
+          "shortSummary": "The party examines the corrupted carcasses and extinguishes a fire while Kenzo remains poisoned.",
+          "longSummary": "Kenzo's flesh continues to rot, and the party has no immediate way to remove his poison. Searching the hall, they find roughly five corrupted carcasses near the entrance and distinguish a fuel-less magical fire from fires burning ordinary material. They smother a fire over about ten minutes, using dirt or carcasses, while Delwath examines the area magically. The scored antelopes carry a magical effect distinct from the poison that afflicted the characters. Wellby and Riswynn see no approaching enemies. The ruined chapel contains roughly thirty animal remains, apparently no older than a few weeks, but yields no explanation of the ritual.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Great hall, chapel, and inner courtyard"
+          },
+          "itemDetails": [
+            {
+              "name": "Corrupted animal carcasses",
+              "role": "encountered",
+              "notes": "Magically affected; distinct from the characters' nonmagical poison."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-010",
+          "title": "Searching the Keep",
+          "boundaryReason": "The party searches the upper floors while Kenzo meditates with Vola and Delwath keeps watch; they then decide to rest.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2293",
+            "endUid": "u2486"
+          },
+          "shortSummary": "The upper-floor search yields unreadable military papers while Kenzo meditates outside under Delwath's watch.",
+          "longSummary": "Kenzo sits outside concentrating on the poison; the ground trembles slightly and his eyes shine blue while Vola speaks quietly beside him. Delwath joins them and keeps watch. Meanwhile, the others search former hobgoblin rooms upstairs. Wellby finds a leather satchel of old papers in the same unread language as the earlier logbook, with numbers and sketches suggesting troop movements or army accounts. The damaged top floor offers nothing worth collecting. With injuries and exhaustion mounting, the party decides to return to the tower and rest.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "Keep upper floors and inner courtyard"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Untranslated military papers",
+              "role": "encountered",
+              "notes": "Found by Wellby; apparently hobgoblin records, but the party cannot read them."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-011",
+          "title": "A Night of Troubled Rest",
+          "boundaryReason": "The party returns to the tower, settles watches, and resolves the overnight rest and its differing consequences.",
+          "dateStart": "1748-04-12",
+          "dateEnd": "1748-04-13",
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u2487",
+            "endUid": "u2581"
+          },
+          "shortSummary": "The party shelters overnight in the tower, where nightmares prevent most of them from recovering fully.",
+          "longSummary": "The party secures itself in the north tower as three gnolls outside bang on the closed gates and eventually walk away. Wellby volunteers for the first watch. Kenzo recovers from the poison, but the overnight rest is troubled: Riswynn and Vola wake rested, while Kenzo, Delwath, and Wellby regain resources without recovering hit points. Delwath's sleepless rest does not spare him the nightmares. Seeker also recovers no hit points and gains one level of exhaustion; Vola loses one level of exhaustion.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower overlooking the closed inner gates"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-012",
+          "title": "Unfinished Business in the Morning",
+          "boundaryReason": "Explicit morning discussion sets the next objectives; the session ends with plans and table scheduling.",
+          "dateStart": "1748-04-13",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u2582",
+            "endUid": "u2810"
+          },
+          "shortSummary": "Morning discussion leaves the party resolved to investigate the animals, gnolls, and corrupted water before departing.",
+          "longSummary": "Seeker describes a nightmare of a huge gnoll with a three-headed flail and animals turning into gnolls. The party suspects that the demon's carcasses and the captive animals were part of a transformation ritual, but the missing steps and Agata's role remain theories. They plan to confront the remaining gnolls, seek the small flying demon, free or question the animals, and investigate the river and vines; the iron guardian also remains of interest for their return journey. Vola cannot translate the papers and demonstrates her shimmering dagger again. Seeker proposes taking Taster to speak with the animals, but further action is deferred to the next session.",
+          "locationHints": {
+            "refs": [
+              "Raven's Hold"
+            ],
+            "context": "North tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Vola",
+              "role": "companion",
+              "notes": "The rescued prisoner accompanies the party."
+            },
+            {
+              "name": "Taster",
+              "role": "companion",
+              "notes": "Seeker's rabbit is fed and proposed as a companion or decoy for speaking with the captive animals."
+            },
+            {
+              "name": "Agata",
+              "role": "mentioned",
+              "notes": "The party speculates about her role in the ritual."
+            },
+            {
+              "name": "Small flying demon",
+              "role": "mentioned",
+              "notes": "Previously seen bat-like creature; finding it remains a plan."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Untranslated military papers",
+              "role": "mentioned",
+              "notes": "Vola says she cannot read the language."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Vola",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-008",
+          "beat-010",
+          "beat-011",
+          "beat-012"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      },
+      {
+        "name": "Goat-headed demon",
+        "beatIds": [
+          "beat-004",
+          "beat-006",
+          "beat-007",
+          "beat-008"
+        ],
+        "relationKinds": [
+          "met",
+          "fought"
+        ]
+      },
+      {
+        "name": "Taster",
+        "beatIds": [
+          "beat-012"
+        ],
+        "relationKinds": [
+          "companion"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-003",
+          "beat-004"
+        ],
+        "enemyRefs": [
+          "Undead gnoll"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-004",
+        "beatIds": [
+          "beat-007",
+          "beat-008"
+        ],
+        "enemyRefs": [
+          "Goat-headed demon",
+          "Three undead gnolls",
+          "Remaining undead gnoll"
+        ],
+        "dateStart": "1748-04-12",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Raven's Hold",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-008",
+          "beat-009",
+          "beat-010",
+          "beat-011",
+          "beat-012"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Vola",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-010",
+            "beat-011",
+            "beat-012"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": "1748-04-13"
+            }
+          ]
+        },
+        {
+          "name": "Goat-headed demon",
+          "relationKinds": [
+            "met",
+            "fought"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004",
+            "beat-006",
+            "beat-007",
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Taster",
+          "relationKinds": [
+            "companion"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-012"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-13",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Raven's Hold",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "North tower, ruined study or council chamber",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-009",
+            "beat-010",
+            "beat-011",
+            "beat-012"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": "1748-04-13",
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Desecrated altar and statue of Aagir",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Corrupted animal carcasses",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Shatterstorm",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007",
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Elixir of Health",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Untranslated military papers",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Raven's Hold",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Agata",
+          "contextHint": null
+        },
+        {
+          "name": "Small flying demon",
+          "contextHint": null
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "contextHint": null
+        }
+      ],
+      "items": [
+        {
+          "name": "Dunmari horn",
+          "contextHint": null
+        }
+      ]
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-recap-scenes.json"
+}

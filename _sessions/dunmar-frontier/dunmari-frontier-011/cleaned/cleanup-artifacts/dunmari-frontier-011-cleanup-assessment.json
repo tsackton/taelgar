@@ -1,0 +1,21 @@
+{
+  "transcriptSha256": "e1a8d8a9449c420b11a35cea0b99641bbc01468a64ff4d47da77f5b4bff9d3a3",
+  "judgment": "Three residual phrases do not obscure any current-session identity, event, or decision. The opening recap adjective for Inakara's companions is omitted from downstream facts; the garbled ability reading is superseded by explicit DM clarification and reported resistances; the final garble is an interrupted speculative phrase immediately clarified as army production. Preserve their uncertainty without a human checkpoint.",
+  "issues": [
+    {
+      "uid": "u0006",
+      "importance": "incidental",
+      "reason": "Garbled descriptive phrase in the recap of earlier play; Inakara and the completed safe-passage exchange are identified independently. No new identity or current-session action depends on it."
+    },
+    {
+      "uid": "u1043",
+      "importance": "incidental",
+      "reason": "Unclear reading of ability mechanics. u1044 explicitly clarifies what can be learned, and u1052 reports the actual resistances and immunity, so the discovery and decision are unambiguous."
+    },
+    {
+      "uid": "u2709",
+      "importance": "incidental",
+      "reason": "Interrupted speculative phrasing, followed immediately by production of an army in u2711. The theory is stated clearly in u2684 and u2705; no new factual claim depends on the unclear words."
+    }
+  ]
+}
