@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Green Sea Ocean Circulation
 
-This working ocean model accompanies [[Taelgar Climate Model Revised]], [[Green Sea Atmospheric Circulation]], and [[Trading in the Green Sea]]. It covers the [[Green Sea]], the [[Western Gulf]], and their exchange with the [[Outer Ocean]]. The broad current pattern and Western Gulf exchange are adopted model choices. Seasonal expressions and physical explanations organize further invention; they do not become independent climate constraints. Detailed channels, current strengths, and local navigation remain open.
+This working ocean model accompanies [[Taelgar Climate Model]], [[Green Sea Atmospheric Circulation]], and [[Trading in the Green Sea]]. It covers the [[Green Sea]], the [[Western Gulf]], and their exchange with the [[Outer Ocean]]. The broad current pattern and Western Gulf exchange are adopted model choices. Seasonal expressions and physical explanations organize further invention; they do not become independent climate constraints. Detailed channels, current strengths, and local navigation remain open.
 
 ## Overview
 

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Transcript cleanup review</title>
+  <style>
+    :root {color-scheme:light dark;--bg:#f3efe6;--panel:#fffdf8;--ink:#27251f;--muted:#6f6a5f;--line:#d9d1c3;--accent:#345d54}
+    @media(prefers-color-scheme:dark){:root{--bg:#1c1d1a;--panel:#262821;--ink:#f3efe6;--muted:#b9b3a7;--line:#46483f;--accent:#7eb2a3}}
+    *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,sans-serif}
+    main{max-width:900px;margin:36px auto;padding:0 20px}h1{font:700 34px/1.1 Georgia,serif}
+    .muted{color:var(--muted)}.card{margin:20px 0;padding:24px;border:1px solid var(--line);border-radius:16px;background:var(--panel)}
+    .context{white-space:pre-wrap;font-size:14px;color:var(--muted)}blockquote{margin:18px 0;padding:15px;border-left:4px solid var(--accent);white-space:pre-wrap}
+    textarea{display:block;width:100%;min-height:110px;padding:12px;font:inherit;background:var(--bg);color:inherit;border:1px solid var(--line);border-radius:8px}
+    button{padding:10px 14px;margin:10px 8px 0 0;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:inherit;font:inherit;cursor:pointer}
+    button:focus-visible,textarea:focus-visible{outline:2px solid var(--accent)}button:disabled{opacity:.5;cursor:default}
+    .primary{background:var(--accent);color:var(--bg)}audio{width:100%;margin:12px 0}.nav{display:flex;align-items:center;justify-content:space-between}
+    #status{min-height:26px}label{display:block;font-weight:600;margin:16px 0 8px}
+  </style>
+</head>
+<body><main>
+  <h1>Transcript cleanup</h1><p class="muted">Listen, correct the line, or leave the uncertainty as it is.</p>
+  <div class="nav"><p id="progress"></p><button id="skip-all">Skip remaining cleanup</button></div>
+  <section class="card" id="card"></section>
+  <div class="nav"><button id="previous">Previous</button><button id="next">Next</button></div>
+  <p id="status" role="status" aria-live="polite"></p>
+</main><script>
+const state={review:null,decisions:{},index:0,saving:false};
+const token="__REVIEW_TOKEN__";
+const el=id=>document.getElementById(id);
+const escapeHtml=value=>String(value).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+function render(){
+  const issues=state.review.issues, issue=issues[state.index];
+  const done=issues.filter(item=>state.decisions[item.uid]).length;
+  el('progress').textContent=`${done} of ${issues.length} reviewed`;
+  el('previous').disabled=state.index===0;el('next').disabled=state.index>=issues.length-1;
+  el('skip-all').disabled=done===issues.length;
+  if(!issue){el('card').textContent='No unresolved lines to review.';return;}
+  const saved=state.decisions[issue.uid];
+  el('card').innerHTML=`<p class="muted">${escapeHtml(issue.uid)} · ${escapeHtml(issue.speaker)} · ${escapeHtml(issue.importance)}${saved?' · '+escapeHtml(saved.status==='skip'?'Skipped':'Correction saved'):''}</p>
+    <p>${escapeHtml(issue.reason)}</p><div class="context">${escapeHtml(issue.before.join('\n'))}</div>
+    <blockquote>${escapeHtml(issue.text)}</blockquote><div class="context">${escapeHtml(issue.after.join('\n'))}</div>
+    ${issue.clip?`<audio controls preload="metadata" src="/clips/${encodeURIComponent(issue.uid)}"></audio>`:'<p>Audio unavailable.</p>'}
+    <label for="correction">Corrected line</label><textarea id="correction">${escapeHtml(saved?.text ?? issue.text.replace(/\[\[(.*?)\]\]/g,'$1'))}</textarea>
+    <button id="save" class="primary">Save correction</button><button id="skip">Skip this issue</button>`;
+  el('save').onclick=()=>save({uid:issue.uid,status:'correct',text:el('correction').value});
+  el('skip').onclick=()=>save({uid:issue.uid,status:'skip'});
+}
+async function save(action){
+  if(state.saving)return;
+  state.saving=true;el('status').textContent='Saving…';
+  document.querySelectorAll('button').forEach(button=>button.disabled=true);
+  try{
+    const response=await fetch('/api/decision',{method:'POST',headers:{'Content-Type':'application/json','X-Review-Token':token},body:JSON.stringify(action)});
+    const payload=await response.json();if(!response.ok)throw new Error(payload.error || 'Could not save.');
+    state.decisions=payload.decisions;
+    const next=state.review.issues.findIndex(item=>!state.decisions[item.uid]);
+    if(next>=0)state.index=next;
+    render();
+    el('status').textContent=next<0?'Review complete. Return to the chat to apply your corrections and continue.':'Saved.';
+  }catch(error){
+    // Keep the user's unsaved text visible and permit retry; never advance on failure.
+    el('status').textContent=error.message;
+  }finally{
+    state.saving=false;
+    document.querySelectorAll('button').forEach(button=>button.disabled=false);
+    el('previous').disabled=state.index===0;el('next').disabled=state.index>=state.review.issues.length-1;
+    el('skip-all').disabled=state.review.issues.every(item=>state.decisions[item.uid]);
+  }
+}
+function move(delta){if(state.saving)return;state.index=Math.max(0,Math.min(state.review.issues.length-1,state.index+delta));render();}
+el('previous').onclick=()=>move(-1);el('next').onclick=()=>move(1);
+el('skip-all').onclick=()=>save({skipRemaining:true});
+async function load(){const response=await fetch('/api/review');if(!response.ok)throw new Error('Could not load review.');const payload=await response.json();state.review=payload.review;state.decisions=payload.decisions;state.index=Math.max(0,state.review.issues.findIndex(item=>!state.decisions[item.uid]));render();}
+load().catch(error=>el('status').textContent=error.message);
+</script></body></html>

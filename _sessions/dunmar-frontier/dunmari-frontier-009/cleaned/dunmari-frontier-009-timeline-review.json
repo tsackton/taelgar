@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-12",
+  "inferredEnd": "1748-04-12",
+  "proposedYamlChanges": [],
+  "issues": [
+    {
+      "key": "beats:end",
+      "kind": "chronology",
+      "detail": "Final beat ends None; source review infers 1748-04-12.",
+      "resolution": {
+        "by": "source",
+        "reason": "beat-010 contains only personal postgame conversation from u2443 through u2561, so its in-world date is intentionally null. The last played state is the unopened gate at u2353-u2362 on 1748-04-12; no later in-world event or date occurs. Keep the null postgame date and the supported session end date."
+      }
+    }
+  ],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start after the roper battle",
+      "date": "1748-04-12",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "YAML anchors the session to 1748-04-12. u0024 says the roper was defeated moments ago. No starting clock time is given; the first time-of-day anchor comes after the short rest at u0684. The opening nine-days-ago references are a recap, not elapsed time during this session.",
+      "beatId": "beat-001",
+      "sourceText": "Yes."
+    },
+    {
+      "uid": "u0584",
+      "label": "About half an hour of investigation",
+      "date": "1748-04-12",
+      "time": "About 30 minutes after the opening; clock time unknown",
+      "basis": "explicit",
+      "evidence": "u0584 explicitly says only about half an hour has passed. The rest suggested at u0101-u0148 has not yet occurred; u0590 then agrees to take it.",
+      "beatId": "beat-002",
+      "sourceText": "It's only been about half an hour at this point and still no"
+    },
+    {
+      "uid": "u0643",
+      "label": "One short rest completed",
+      "date": "1748-04-12",
+      "time": "After an hour-long short rest",
+      "basis": "explicit",
+      "evidence": "u0147 defines the short rest as one hour; it is taken at u0590-u0620 and confirmed complete at u0643. This is one rest, with no overnight or date change.",
+      "beatId": "beat-002",
+      "sourceText": "Everybody's short rested got your ki back got your"
+    },
+    {
+      "uid": "u0684",
+      "label": "Mid-afternoon at the entrance",
+      "date": "1748-04-12",
+      "time": "mid-afternoon",
+      "basis": "explicit",
+      "evidence": "u0684 explicitly says it is mid-afternoon after the short rest as Wellby peers into the valley. The two-days-ago remark at u0697 refers back to the vulture encounter, not a new date transition.",
+      "beatId": "beat-002",
+      "sourceText": "mid afternoon at this point after your short rest and the light looking across the"
+    },
+    {
+      "uid": "u1912",
+      "label": "At least five minutes into Delwath's scout",
+      "date": "1748-04-12",
+      "time": "afternoon; at least five minutes of scouting",
+      "basis": "inferred",
+      "evidence": "u1872-u1873 begins the invisible scout; u1912-u1913 explicitly says he has been gone at least five minutes. The same-day afternoon placement follows the u0684 anchor and uninterrupted exploration. The hours of rubble-moving estimated at u1736 are avoided with magic at u1763-u1780.",
+      "beatId": "beat-007",
+      "sourceText": "Taken five minutes at least"
+    },
+    {
+      "uid": "u2353",
+      "label": "Play ends at the locked gate",
+      "date": "1748-04-12",
+      "time": "later that afternoon (inferred); exact time unknown",
+      "basis": "inferred",
+      "evidence": "u2353-u2362 leaves the party at the unopened rusty gate and ends play. u2295-u2298 adds questions to the same earlier departure conversation, not a second encounter. The following strategic discussion and personal conversation from u2443 add no in-world elapsed time; references to tonight and tomorrow there are real-world.",
+      "beatId": "beat-009",
+      "sourceText": "So you're standing in front of an iron gate."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+      "sha256": "73cf093ddf97f3b713afcf6a29053b1e68ee0f2c799602b280f50d2d557c688c"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-beats.json",
+      "sha256": "846fe58b2b7a9d766cde912faa0928ddf2b92705b5936d06d9a5a6e3245060ef"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-beat-facts.json",
+      "sha256": "f90386dd9d20a15b11241e236ae1e5fb9e815ace1d730a92b14fa7317898bc38"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-source-cleaned.md",
+      "sha256": "385a8f4f7b0b823a0f348eda8421b1b2ca65a54eb1af2945187b2fa3229e2f60"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-timeline-evidence.json",
+      "sha256": "11159c4771cadc8712703c12a00c1972b497fece623813cd7e1245ab10415da7"
+    }
+  }
+}

@@ -5,7 +5,7 @@ excludePublish: [all]
 # Climate of Dunmar and the Chataans
 
 > [!note] Archived climate material
-> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model]]; [[Regional Climate Atlas]] defines the current regional coverage.
 
 **Gazetteer coverage:** [[Greater Dunmar]], especially [[Western Dunmar]], [[Darba Highlands]], and [[Hara Basin]], together with the [[Chataan Mountains]] and [[Alta Tonaro]] transition toward [[Greater Chardon]].
 

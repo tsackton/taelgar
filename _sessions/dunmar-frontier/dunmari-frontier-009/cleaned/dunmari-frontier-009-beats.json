@@ -1,0 +1,175 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "A Pearl in the Roper",
+      "startUid": "u0001",
+      "endUid": "u0344",
+      "lineCount": 344,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening recap and orientation lead into the search of the defeated roper; the next beat begins the tavern investigation.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "u0024-u0037 establish the immediate aftermath of the roper encounter; the first clock anchor is mid-afternoon after the short rest at u0684."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Tavern, Rest, and Valley",
+      "startUid": "u0345",
+      "endUid": "u0723",
+      "lineCount": 379,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party investigates the ruined market area, rests in the tavern, and checks the nearby exit before choosing its route onward.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "u0584 says about half an hour has elapsed; the short rest is taken at u0590-u0643; u0684 explicitly places the following scout in mid-afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Bargaining for Passage",
+      "startUid": "u0724",
+      "endUid": "u1013",
+      "lineCount": 290,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Inakara blocks renewed access; negotiation and a magical display win passage and end the confrontation.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Statue and Invisible Footsteps",
+      "startUid": "u1014",
+      "endUid": "u1200",
+      "lineCount": 187,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party moves through the statue chamber to the vault entrance while recognizing a possible mind-flayer connection and detecting an invisible follower.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Keys in the Mirrors",
+      "startUid": "u1201",
+      "endUid": "u1393",
+      "lineCount": 193,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party focuses on the brass-door puzzle; reflected keys and joined light open the vault corridor.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Dwarven Dead and Heirloom",
+      "startUid": "u1394",
+      "endUid": "u1693",
+      "lineCount": 300,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Entering the undisturbed vault reveals the fallen dwarves, the family shield, and surviving treasure; opening the inner door begins a new investigation.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "The Broken Tunnel and Mine",
+      "startUid": "u1694",
+      "endUid": "u2043",
+      "lineCount": 350,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The ruined inner chamber leads to a deliberate cave-in; Delwath scouts the tunnel beyond and returns with an ore sample.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Silver for a Guide",
+      "startUid": "u2044",
+      "endUid": "u2287",
+      "lineCount": 244,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party secures the vault, meets Inakara again, and bargains for guidance to the locked lower passage.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Warnings at the Lower Gate",
+      "startUid": "u2288",
+      "endUid": "u2442",
+      "lineCount": 155,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Questions are added to the departing conversation with Inakara; the party stops at the locked gate and discusses what remains unproven.",
+      "dateEvidence": [
+        "Session YAML anchors play to 1748-04-12; the exploration is continuous and no overnight or date change occurs.",
+        "Continues from the explicit mid-afternoon anchor at u0684 without any later stated time-of-day change.",
+        "u2295-u2298 revisit questions asked before Inakara left; this is a conversational rewind, not a new encounter or day. Play stops at u2353-u2362."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "After the Game",
+      "startUid": "u2443",
+      "endUid": "u2561",
+      "lineCount": 119,
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "unknown",
+      "containsCombat": false,
+      "boundaryReason": "A clear switch to personal postgame conversation warrants a short separate beat; it adds no in-world event.",
+      "dateEvidence": []
+    }
+  ]
+}

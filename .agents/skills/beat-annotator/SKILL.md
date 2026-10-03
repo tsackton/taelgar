@@ -1,6 +1,6 @@
 ---
 name: beat-annotator
-description: Produce `beat-facts.json` from finalized session beats without editing `beats.json`. Use to capture beat-level date-linked facts for summaries, locations, NPCs, items, organizations, and combats, either for a whole session or one specific `beatId`.
+description: Produce beat-facts.json from session beats and review the session chronology against its YAML dates. Pause only for date discrepancies needing human input or proposed YAML date changes; also supports one-beat annotation.
 ---
 
 # Beat Annotator
@@ -16,7 +16,7 @@ Use this skill when working from a cleaned session bundle:
 
 The goal is to produce a separate `beat-facts.json` artifact.
 Do not edit `beats.json`.
-`beats.json` defines beat boundaries only.
+`beats.json` defines beat boundaries and their provisional date assignments. Return needed date corrections to the splitter stage; do not silently rewrite them while annotating facts.
 
 ## Allowed Inputs
 
@@ -42,7 +42,7 @@ Do not use it to invent facts that are not supported by the current cleaned sour
 
 ## Output Scope
 
-This version of the skill produces only `beat-facts.json`.
+The primary output is `beat-facts.json`. Full-session annotation also produces separate chronology evidence and a checked timeline review; keep them out of the beat-facts schema.
 
 Each beat fact entry may include:
 
@@ -58,7 +58,7 @@ Each beat fact entry may include:
 - `organizations`
 - `combat`
 
-Do not add events, timeline facts, hooks, or open questions.
+Do not add events, timeline facts, hooks, or open questions to `beat-facts.json`.
 
 ## Location Model
 
@@ -282,6 +282,7 @@ If annotating only one beat, check for an existing `beat-facts.json` first so pr
 - Write facts to a separate JSON file.
 - Annotate only what is supported by the current beat context.
 - Prefer omission over guessing.
+- Accepted transcript uncertainty remains uncertain. Do not turn a skipped ASR phrase into an established identity or event.
 - Canonicalize names when the glossary or broader campaign context clearly supports that identity.
 - Do not tag PCs or session participants as NPCs unless the source clearly refers to a distinct in-world NPC with the same name.
 - Keep `shortSummary` to one sentence.
@@ -346,6 +347,8 @@ python .agents/skills/beat-annotator/scripts/manage_beat_facts.py \
    - items or organizations that are too incidental to matter
    - combat phases that do not match the source flow
    - summaries that are either too vague or too detailed
+8. For a full session, perform the brief chronology review in [references/timeline-review.md](references/timeline-review.md), using source evidence for session start and every date/time transition, including transitions within beats. Compare the inferred span with `drStart` and `drEnd`. Propose a missing end date when supportable; never edit either YAML date without explicit approval.
+9. In interactive mode, stop only for unresolved chronology discrepancies needing human input or proposed YAML date changes. Present the evidence, current values, and concrete proposed resolution. Otherwise continue automatically to scene grouping within `session-note-prep`, or hand off the annotation artifacts for a standalone request. There is no routine beat-facts approval pause. A one-beat run can flag local issues but cannot attest to whole-session chronology without reviewing the rest of the session.
 
 ## Helper Outputs
 

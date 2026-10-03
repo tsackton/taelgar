@@ -5,7 +5,7 @@ excludePublish: [all]
 # Climate of the Green Sea Shores
 
 > [!note] Archived climate material
-> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model]]; [[Regional Climate Atlas]] defines the current regional coverage.
 
 **Gazetteer coverage:** The shores of the [[Green Sea]], including [[Western Green Sea]], [[Eastern Green Sea]], [[Cymea]], [[Ursk]], [[Skaerhem]], and the broad [[Great Northern Forest]]/[[Vostok]] context.
 

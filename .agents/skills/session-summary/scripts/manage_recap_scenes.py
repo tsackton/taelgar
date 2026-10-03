@@ -5,9 +5,15 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import re
+import sys
 from pathlib import Path
 from typing import Any, Dict, List, Sequence
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[2] / "beat-annotator" / "scripts"))
+from review_timeline import check_current
 
 
 def parse_args() -> argparse.Namespace:
@@ -18,6 +24,11 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-dir", type=Path, required=True, help="Directory for the recap-scenes preview.")
     parser.add_argument("--file-prefix", type=str, required=True, help="Stable session bundle prefix.")
     parser.add_argument("--validate-only", action="store_true", help="Validate without rewriting the preview.")
+    parser.add_argument("--transcript", type=Path, help="Cleaned source for scene elapsed times.")
+    parser.add_argument("--timeline-review", type=Path, help="Current chronology review for the transition table.")
+    parser.add_argument("--require-review-fields", action="store_true", help="Require overview and transitionToNext on each scene.")
+    parser.add_argument("--record-approval", help="Record explicit human approval of the displayed proposal; quote the decision.")
+    parser.add_argument("--require-approval", action="store_true", help="Require a saved approval matching this proposal and its inputs.")
     return parser.parse_args()
 
 
@@ -39,10 +50,39 @@ def main() -> int:
     beats = parse_beats(beats_payload)
     facts = parse_facts(facts_payload)
     errors = validate_recap_scenes(scenes_payload, beats, facts)
+    if not errors and (args.require_review_fields or args.record_approval or args.require_approval):
+        for scene in scenes_payload.get("scenes", []):
+            for field in ("overview", "transitionToNext"):
+                if not normalize_optional_string(scene.get(field)):
+                    errors.append(f"{scene.get('sceneId')}: missing {field}.")
     if errors:
         for error in errors:
             print(f"ERROR: {error}")
         return 1
+
+    timeline = read_json_mapping(args.timeline_review) if args.timeline_review else None
+    if timeline:
+        check_current(timeline)
+        for key, path in (("beats", beats_path), ("facts", beat_facts_path), ("transcript", args.transcript)):
+            if path is None or fingerprint_file(path) != timeline["inputs"][key]["sha256"]:
+                raise SystemExit(f"Timeline review does not match supplied {key}.")
+        if timeline.get("needsHumanInput"):
+            raise SystemExit("Resolve the chronology review before proposing recap scenes.")
+    if args.require_review_fields or args.record_approval or args.require_approval:
+        if timeline is None or args.transcript is None:
+            raise SystemExit("The full scene review requires --transcript and --timeline-review.")
+    rows = read_timed_source(args.transcript) if args.transcript else []
+    approval_path = args.output_dir.expanduser().resolve() / f"{args.file_prefix}-scene-approval.json"
+    current = proposal_fingerprint(scenes_payload, beats_payload, facts_payload, timeline, rows)
+    if args.require_approval:
+        approval = read_json_mapping(approval_path) if approval_path.exists() else {}
+        if approval.get("proposalSha256") != current or not normalize_optional_string(approval.get("decision")):
+            raise SystemExit("The displayed scene proposal needs explicit human approval.")
+    if args.record_approval:
+        if not args.record_approval.strip():
+            raise SystemExit("Approval must contain the user's explicit decision.")
+        approval_path.parent.mkdir(parents=True, exist_ok=True)
+        approval_path.write_text(json.dumps({"proposalSha256": current, "decision": args.record_approval}, indent=2) + "\n")
 
     if not args.validate_only:
         output_dir = args.output_dir.expanduser().resolve()
@@ -51,7 +91,7 @@ def main() -> int:
         if not file_prefix:
             raise SystemExit("--file-prefix must be non-empty.")
         preview_path = output_dir / f"{file_prefix}-recap-scenes-preview.md"
-        preview_path.write_text(render_preview(scenes_payload, beats, facts), encoding="utf-8")
+        preview_path.write_text(render_preview(scenes_payload, beats, facts, rows, timeline), encoding="utf-8")
         print(f"Wrote {preview_path}")
 
     print(f"Validated {recap_scenes_path}")
@@ -77,7 +117,7 @@ def parse_beats(payload: Dict[str, Any]) -> List[Dict[str, Any]]:
         title = normalize_optional_string(raw.get("title"))
         if beat_id is None or title is None:
             raise SystemExit("Each beat must contain beatId and title.")
-        beats.append({"beatId": beat_id, "title": title})
+        beats.append({**raw, "beatId": beat_id, "title": title})
     return beats
 
 
@@ -149,6 +189,8 @@ def scene_groups(payload: Dict[str, Any]) -> List[Dict[str, Any]]:
             "title": str(scene["title"]).strip(),
             "rationale": str(scene["rationale"]).strip(),
             "beatIds": [str(beat_id).strip() for beat_id in scene["beatIds"]],
+            "overview": str(scene.get("overview", "")).strip(),
+            "transitionToNext": str(scene.get("transitionToNext", "")).strip(),
         }
         for scene in payload["scenes"]
     ]
@@ -158,6 +200,8 @@ def render_preview(
     scenes_payload: Dict[str, Any],
     beats: Sequence[Dict[str, Any]],
     facts: Sequence[Dict[str, Any]],
+    rows: Sequence[Dict[str, Any]] = (),
+    timeline: Dict[str, Any] | None = None,
 ) -> str:
     beat_by_id = {str(beat["beatId"]): beat for beat in beats}
     fact_by_id = {str(fact.get("beatId")): fact for fact in facts}
@@ -169,6 +213,22 @@ def render_preview(
         f"- Beat Coverage: {sum(len(group['beatIds']) for group in groups)}/{len(beats)}",
         "",
     ]
+    lines.extend(["| Scene name | Beats covered | Time in play | Brief overview | Transition to next scene |",
+                  "|---|---|---|---|---|"])
+    for group in groups:
+        cells = [group["title"], ", ".join(group["beatIds"]), scene_duration(group, beat_by_id, rows),
+                 group["overview"] or "Overview not supplied", group["transitionToNext"] or "Transition not supplied"]
+        lines.append("| " + " | ".join(table_cell(cell) for cell in cells) + " |")
+    lines.extend(["", "Time in play is elapsed transcript time, including pauses; unavailable timing is not estimated from line counts.", ""])
+    if timeline:
+        scenes_by_beat = {bid: group["title"] for group in groups for bid in group["beatIds"]}
+        lines.extend(["## Date/time transitions", "", "| In-world date/time or transition | Beats | Scenes | Evidence |", "|---|---|---|---|"])
+        for transition in timeline["transitions"]:
+            bid = transition["beatId"]
+            cells = [f"{transition['label']}: {transition.get('date') or 'date unknown'} {transition.get('time') or ''}".strip(),
+                     bid, scenes_by_beat[bid], f"{transition['uid']} ({transition['basis']}): {transition['evidence']}"]
+            lines.append("| " + " | ".join(table_cell(cell) for cell in cells) + " |")
+        lines.append("")
     for group in groups:
         lines.extend(
             [
@@ -188,6 +248,60 @@ def render_preview(
             lines.append(f"- {beat_id} | {beat['title']}: {summary}")
         lines.append("")
     return "\n".join(lines).rstrip() + "\n"
+
+
+def fingerprint_file(path: Path) -> str:
+    return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def proposal_fingerprint(*values: Any) -> str:
+    return hashlib.sha256(json.dumps(values, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
+
+
+def table_cell(value: Any) -> str:
+    return str(value).replace("|", "\\|").replace("\n", " ").replace("\r", " ")
+
+
+def read_timed_source(path: Path) -> List[Dict[str, Any]]:
+    assert_not_in_sources_dir(path.resolve(), "--transcript")
+    rows = []
+    for raw in path.read_text(encoding="utf-8").splitlines():
+        if not raw.strip():
+            continue
+        match = re.fullmatch(r"\[(u\d{4,})(?:\s*\|([^\]]+))?\]\s*(.*)", raw)
+        if not match:
+            raise ValueError("Invalid cleaned source line.")
+        timing = re.match(r"\s*(\d+(?::\d+){0,2}(?:\.\d+)?)\s*-\s*(\d+(?::\d+){0,2}(?:\.\d+)?)\s*(?:\||$)", match[2] or "")
+        def seconds(value: str) -> float:
+            parts = [float(part) for part in value.split(":")]
+            if (len(parts) > 1 and parts[-1] >= 60) or (len(parts) == 3 and parts[1] >= 60):
+                raise ValueError("Invalid transcript timestamp.")
+            return sum(part * 60 ** index for index, part in enumerate(reversed(parts)))
+        rows.append({"uid": match[1], "raw": raw, "start": seconds(timing[1]) if timing else None,
+                     "end": seconds(timing[2]) if timing else None})
+    return rows
+
+
+def scene_duration(group: dict, beats: dict, rows: Sequence[dict]) -> str:
+    if not rows:
+        return "Unavailable (no transcript timestamps)"
+    positions = {row["uid"]: i for i, row in enumerate(rows)}
+    start_uid = beats[group["beatIds"][0]].get("startUid")
+    end_uid = beats[group["beatIds"][-1]].get("endUid")
+    if start_uid not in positions or end_uid not in positions or positions[start_uid] > positions[end_uid]:
+        return "Unavailable (missing source range)"
+    selected = rows[positions[start_uid]:positions[end_uid] + 1]
+    if any(row["start"] is None or row["end"] is None for row in selected):
+        return "Unavailable (no transcript timestamps)"
+    if any(row["end"] < row["start"] for row in selected) or any(b["start"] < a["start"] for a, b in zip(selected, selected[1:])):
+        return "Unavailable (discontinuous timestamps)"
+    first, last = selected[0]["start"], max(row["end"] for row in selected)
+    if last <= first:
+        return "Unavailable (no usable transcript timestamps)"
+    def clock(seconds: float) -> str:
+        whole = int(seconds)
+        return f"{whole // 3600:02}:{whole // 60 % 60:02}:{whole % 60:02}"
+    return f"{clock(first)}–{clock(last)} ({(last - first) / 60:.1f} min)"
 
 
 def assert_not_in_sources_dir(path: Path, arg_name: str) -> None:

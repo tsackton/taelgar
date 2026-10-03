@@ -14,6 +14,8 @@ from typing import Dict, List, Sequence, Tuple
 
 import yaml
 
+from review_cleanup import inventory, read_json
+
 
 LINE_RE = re.compile(r"^(?P<header>\[[^\]]+\])\s(?P<text>.*)$")
 UNCERTAIN_RE = re.compile(r"\[\[(.+?)\]\]")
@@ -24,6 +26,8 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build transcript cleanup artifacts from diffs.")
     parser.add_argument("--original", type=Path, required=True, help="Prepared transcript input.")
     parser.add_argument("--cleaned", type=Path, required=True, help="Cleaned transcript output.")
+    parser.add_argument("--assessment-json", type=Path, help="Agent's materiality assessment for this transcript.")
+    parser.add_argument("--decisions-json", type=Path, help="Previously saved human correction/skip decisions.")
     parser.add_argument(
         "--output-dir",
         type=Path,
@@ -55,6 +59,12 @@ def main() -> int:
     cleanup_summary_path = output_dir / f"{file_prefix}-cleanup-summary.md"
 
     report, corrections = build_reports(original, cleaned)
+    if not report["validationErrors"]:
+        report["review"] = inventory(
+            args.cleaned,
+            read_json(args.assessment_json) if args.assessment_json else None,
+            read_json(args.decisions_json) if args.decisions_json and args.decisions_json.exists() else None,
+        )
 
     report_json_path.write_text(json.dumps(report, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
     corrections_yaml_path.write_text(
@@ -142,6 +152,9 @@ def build_reports(
                     "header": header,
                     "lineNumber": int(after["lineNumber"]),
                     "phrase": phrase,
+                    "text": after["text"],
+                    "contextBefore": [row["header"] + " " + row["text"] for row in cleaned[max(0, index - 2):index]],
+                    "contextAfter": [row["header"] + " " + row["text"] for row in cleaned[index + 1:index + 3]],
                 }
             )
 
@@ -220,6 +233,9 @@ def print_summary(report: Dict[str, object]) -> None:
         for item in top_replacements[:5]:
             print(f"  {item['from']} -> {item['to']} ({item['count']}x)")
     unique_unresolved = summary["uniqueUnresolvedPhrases"]
+    if "review" in report:
+        review = report["review"]
+        print(f"Review: {review['pendingMaterialCount']} pending material lines, {review['incidentalCount']} incidental lines, {review['acceptedCount']} accepted lines.")
     if unique_unresolved:
         print("Unresolved phrases:")
         for phrase in unique_unresolved[:10]:

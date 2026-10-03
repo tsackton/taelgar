@@ -1,0 +1,61 @@
+{
+  "inferredStart": "1748-04-12",
+  "inferredEnd": "1748-04-12",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start after the roper battle",
+      "date": "1748-04-12",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "YAML anchors the session to 1748-04-12. u0024 says the roper was defeated moments ago. No starting clock time is given; the first time-of-day anchor comes after the short rest at u0684. The opening nine-days-ago references are a recap, not elapsed time during this session."
+    },
+    {
+      "uid": "u0584",
+      "label": "About half an hour of investigation",
+      "date": "1748-04-12",
+      "time": "About 30 minutes after the opening; clock time unknown",
+      "basis": "explicit",
+      "evidence": "u0584 explicitly says only about half an hour has passed. The rest suggested at u0101-u0148 has not yet occurred; u0590 then agrees to take it."
+    },
+    {
+      "uid": "u0643",
+      "label": "One short rest completed",
+      "date": "1748-04-12",
+      "time": "After an hour-long short rest",
+      "basis": "explicit",
+      "evidence": "u0147 defines the short rest as one hour; it is taken at u0590-u0620 and confirmed complete at u0643. This is one rest, with no overnight or date change."
+    },
+    {
+      "uid": "u0684",
+      "label": "Mid-afternoon at the entrance",
+      "date": "1748-04-12",
+      "time": "mid-afternoon",
+      "basis": "explicit",
+      "evidence": "u0684 explicitly says it is mid-afternoon after the short rest as Wellby peers into the valley. The two-days-ago remark at u0697 refers back to the vulture encounter, not a new date transition."
+    },
+    {
+      "uid": "u1912",
+      "label": "At least five minutes into Delwath's scout",
+      "date": "1748-04-12",
+      "time": "afternoon; at least five minutes of scouting",
+      "basis": "inferred",
+      "evidence": "u1872-u1873 begins the invisible scout; u1912-u1913 explicitly says he has been gone at least five minutes. The same-day afternoon placement follows the u0684 anchor and uninterrupted exploration. The hours of rubble-moving estimated at u1736 are avoided with magic at u1763-u1780."
+    },
+    {
+      "uid": "u2353",
+      "label": "Play ends at the locked gate",
+      "date": "1748-04-12",
+      "time": "later that afternoon (inferred); exact time unknown",
+      "basis": "inferred",
+      "evidence": "u2353-u2362 leaves the party at the unopened rusty gate and ends play. u2295-u2298 adds questions to the same earlier departure conversation, not a second encounter. The following strategic discussion and personal conversation from u2443 add no in-world elapsed time; references to tonight and tomorrow there are real-world."
+    }
+  ],
+  "issues": [],
+  "resolutions": {
+    "beats:end": {
+      "by": "source",
+      "reason": "beat-010 contains only personal postgame conversation from u2443 through u2561, so its in-world date is intentionally null. The last played state is the unopened gate at u2353-u2362 on 1748-04-12; no later in-world event or date occurs. Keep the null postgame date and the supported session end date."
+    }
+  }
+}

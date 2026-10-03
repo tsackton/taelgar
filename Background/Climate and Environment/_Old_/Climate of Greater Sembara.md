@@ -5,7 +5,7 @@ excludePublish: [all]
 # Climate of Greater Sembara
 
 > [!note] Archived climate material
-> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model]]; [[Regional Climate Atlas]] defines the current regional coverage.
 
 **Gazetteer coverage:** [[Greater Sembara]]: southern lowlands and heartlands, [[Addermarch]], [[Mostreve Hills]], [[Tyrwingha]], [[Ardlas]], [[Breva]], [[Tollen]], and the drier transition toward [[Aurbez and the Andonne]].
 

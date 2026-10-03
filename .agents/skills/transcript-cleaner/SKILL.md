@@ -1,6 +1,6 @@
 ---
 name: transcript-cleaner
-description: Clean prepared RPG session transcripts while preserving every transcript line id, speaker label, timestamp, and ordering exactly. Use when fixing ASR errors, fantasy names, glossary terms, punctuation, capitalization, and spelling in `source.prepared.md`, especially when an optional campaign glossary is available and unresolved phrases should be surfaced for manual review.
+description: Clean prepared RPG session transcripts while preserving line IDs, speakers, timestamps, and order. Collect material ASR uncertainty for one conditional review after cleanup; provide an audio correction page only when requested.
 ---
 
 # Transcript Cleaner
@@ -65,11 +65,11 @@ Use secondary evidence only to support or confirm a correction, not to override 
   `Finnan` vs `Finan` / `Finnen` / `Finn in`
 - Use local conversational context aggressively for protected names.
   Turn-order language like `X's turn`, direct address, initiative chatter, and repeated nearby variants are strong evidence that a protected name is intended.
-- If a line contains a suspicious phrase and you cannot make a high-confidence correction, you must mark the questionable span with `[[...]]`.
-- Only leave a suspicious phrase unmarked if you are genuinely confident it is already correct.
+- If an unresolved error could change a name, event, decision, or the meaning of a substantive sentence, mark the questionable span with `[[...]]`.
+- Leave unclear incidental table chatter, cross-talk, and short fragments verbatim when they do not affect the session record. Short lines are not automatically incidental: a brief name or decisive answer can matter.
 - Apply `[[...]]` after checking:
   participant names from `session.yaml`, any provided glossary/dictionary, nearby lines, and repeated variants elsewhere in the session.
-- If unresolved `[[...]]` markers remain after a chunk, stop and ask the user for manual replacements before finalizing the whole transcript.
+- Gather unresolved issues across all chunks. Never stop for ASR questions during cleanup; complete both passes before assessing the remaining uncertainty.
 - Do not rely on a general impression of the chunk.
   You must inspect every transcript line individually for likely errors before deciding that it is clean.
 - If you consult prior cleaned transcripts, prior session notes, or earlier cleanup artifacts, treat them as secondary evidence only.
@@ -96,7 +96,8 @@ Use secondary evidence only to support or confirm a correction, not to override 
    3. mark each line mentally as:
       - clean
       - fixable with high confidence
-      - suspicious but not fixable with high confidence, so it needs `[[...]]`
+      - materially uncertain, so it needs `[[...]]`
+      - unclear incidental speech, which can remain verbatim
    4. resolve likely corrections using local context, participant names, glossary/dictionary, and repeated nearby variants
    5. only then write the cleaned chunk
 4. Do a strict second pass over the cleaned transcript before finalizing it.
@@ -112,7 +113,7 @@ Use secondary evidence only to support or confirm a correction, not to override 
    - `<prefix>-session-corrections.yaml`
    - `<prefix>-human-transcript.md`
    - `<prefix>-cleanup-summary.md`
-6. If the report finds header mismatches, line-count drift, or unresolved `[[...]]` markers, fix those before treating the transcript as complete.
+6. Fix header mismatches or line-count drift before proceeding. Unresolved markers are evidence of uncertainty, not structural validation failures. Assess their importance under Manual Review below.
 
 ## Chunking
 
@@ -138,14 +139,17 @@ Use secondary evidence only to support or confirm a correction, not to override 
 
 ## Manual Review
 
-Ask for manual feedback when:
+Assess the complete cleaned transcript once, after both cleanup passes. Judge importance and scale together; do not use a fixed error-count threshold. One unresolved identity may matter more than many unclear interjections. Material issues include uncertain names or entities, garbled full sentences, and one or several errors that obscure what happened or what a speaker meant. Ordinary table chatter and cross-talk can be tolerated.
 
-- a suspicious name or phrase has no obvious replacement
-- multiple lore-consistent replacements seem possible
-- a repeated term stays unresolved across chunks
+In `interactive` mode (also the standalone default):
 
-When asking, provide a compact list of unique unresolved phrases and the `uNNNN` lines where they appear.
-Do not ask a manual review question until the transcript has already been marked with `[[...]]` where needed.
+- If no material unresolved issues remain, continue automatically. Never ask whether a clean transcript, or one with only incidental noise, is acceptable.
+- If material issues remain, the review is required. In chat, give the total affected lines and distinct issues, a compact list of unresolved lines with IDs and brief before/after context, and a judgment about their impact. Group repeated entities but retain occurrence IDs. For a large set, summarize each material issue group with representative context and link the complete inventory. Ask whether this level of uncertainty is tolerated or needs cleanup.
+- Accepting uncertainty authorizes continuing with that uncertainty; it does not establish an uncertain name or event as fact. Record acceptance against the current transcript. Do not ask again on resume unless the relevant source changes or a new material issue is found.
+
+In `auto` mode, report uncertainty and continue with omissions or qualified facts where reliable. Do not invent corrections or record human acceptance. Stop with a blocker report only if unresolved meaning prevents reliable downstream work.
+
+Read [references/manual-review.md](references/manual-review.md) when markers remain, when recording acceptance, or when the user requests the audio review page. The cleanup report supplies context and a source fingerprint; the agent supplies the materiality judgment. Generate the page and clips only after the user requests them following the chat review. The page supports corrections, skipping one issue, and skipping remaining cleanup. Apply saved corrections, rerun structural validation, and continue when remaining material uncertainty has been accepted. A skipped issue remains unchanged.
 
 ## Detection Heuristics
 

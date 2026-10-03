@@ -4,7 +4,7 @@ excludePublish: [all]
 ---
 # Western Ocean and Coast Circulation
 
-**Scope:** Western ocean air, the seasonal ridge over Chardon and the Coastlands, the Emerald Bay monsoon fringe, and maritime access to the western forests and northwestern plains. This is the detailed physical explanation beneath [[Taelgar Climate Model Revised#Western Coast and Interior|the continental overview]]. Local descriptions belong in [[Climate of the Western Coast and Interior]].
+**Scope:** Western ocean air, the seasonal ridge over Chardon and the Coastlands, the Emerald Bay monsoon fringe, and maritime access to the western forests and northwestern plains. This is the detailed physical explanation beneath [[Taelgar Climate Model#Western Coast and Interior|the continental overview]]. Local descriptions belong in [[Climate of the Western Coast and Interior]].
 
 The continental overview takes precedence. [[Climate and Weather Constraints]] records the outcomes this model must accommodate; the mechanisms and seasonal episodes below are a nonbinding explanation of those outcomes. They assign no measured climate normals, fixed storm frequencies, or exact seasonal boundaries.
 
@@ -83,7 +83,7 @@ Spring and early summer provide the most dependable rain around Voltara, as pass
 
 The moisture gradient follows mountain shelter and the routes of individual weather systems. The precise extent of Voltara's more productive grassland and its transition into drier Erbalta country remain open. Southwestern access is a broad circulation feature; no particular pass or mountain height is assigned. Snowmelt and springs from the Fiatara can sustain rivers and riparian farming on dry plains without implying heavy local rainfall. The highest summits' summer ice is required by play; its extent and the seasonal balance of snowfall and melt remain qualitative.
 
-%% Source tension: [[Erbalta Plains]] still describes long, often hot summers and a late-winter/early-spring precipitation emphasis. [[Taelgar Climate Model Revised#Northwestern mountains and plains]] instead gives Voltara and southern Erbalta moderate summers, changeable moderately cold winters, and spring/early-summer rain. This physical model follows the revised overview. K19 and K31 in [[Climate and Weather Constraints]] retain the dry grassland and productive-steppe outcomes without fixing the older temperature or rainfall calendar; the Gazetteer wording awaits separate reconciliation. %%
+%% Source tension: [[Erbalta Plains]] still describes long, often hot summers and a late-winter/early-spring precipitation emphasis. [[Taelgar Climate Model#Northwestern mountains and plains]] instead gives Voltara and southern Erbalta moderate summers, changeable moderately cold winters, and spring/early-summer rain. This physical model follows the revised overview. K19 and K31 in [[Climate and Weather Constraints]] retain the dry grassland and productive-steppe outcomes without fixing the older temperature or rainfall calendar; the Gazetteer wording awaits separate reconciliation. %%
 
 ## Maritime access to Valandros and the forests
 
@@ -148,4 +148,4 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [National Weather Service: lake breezes](https://www.weather.gov/apx/lake_breeze) and [lake-effect snow](https://www.weather.gov/safety/winter-lake-effect-snow): local shore cooling, convergence and moisture transfer from open water; no Taelgar lake-ice calendar follows.
 - [US Forest Service: coast redwoods](https://research.fs.usda.gov/silvics/redwood): winter recharge and reduced summer water loss under fog support productive forest through a dry season. The Elderwood's proposed magical fog uses those effects without importing the Californian coast's geography.
 
-Return to [[Taelgar Climate Model Revised]] or [[Climate and Environment]].
+Return to [[Taelgar Climate Model]] or [[Climate and Environment]].
