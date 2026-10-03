@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
 tags: [person]
-name: Colin
-born: 1691
 species: human
 ancestry: Sembaran
+born: 1691
 gender: male
+name: Colin
 affiliations:
-- {org: Lord's Guard of Cleenseau, title: Guardsman}
+  - {org: "Lord's Guard of Cleenseau", title: Guardsman}
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: 1720
 ---
 # Colin
 >[!info]+ Biographical Info
@@ -19,3 +23,11 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% There is no information about this person; he is a random name in the town watch %%
+
+%%^Metadata:names:v1%%
+- {name: "Colin", language: "Sembaran"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: A DR 1720 town-watch roster entry, corroborated by the Lord’s Guard of Cleenseau roster; no earlier or later career is described.
+%%^End%%

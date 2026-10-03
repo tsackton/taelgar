@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
-name: Armand
-born:
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/mike, status/check/lint]
 species: human
 ancestry: Sembaran
+born: null
 gender: male
+name: Armand
 whereabouts:
-- {type: home, location: Embry}
-- {type: away, start: 1720-01-14, location: Eftly}
-- {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-dm_notes: none
+  - {type: home, location: Embry}
+  - {type: away, start: 1720-01-14, location: Eftly}
+  - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 ---
 # Armand
 >[!info]+ Biographical Info  
@@ -54,3 +58,27 @@ For him, the undead outbreak starts with a few zombies arising in the village ne
 But before he reaches Rinburng, he gets pulled along a series of villages with problems and ends up finding it faster to get back on track by heading due south from some village west of the Auberonne, which puts him smack into Eftly. He basically runs into Vahayia and their group hunting the ghast just outside Eftly
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name":"Armand","language":"Sembaran","pronunciation":"ar-MAH(n)","notes":"Proposed from the southern Sembaran French analogue in [[Languages]]: initial ar, open a in the final syllable, nasal an, and silent final d. The parenthesized n marks nasalization rather than a full final n; an English AR-mand remains a possible northern adaptation.","status":"proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a Cleenseau-era portrait as a warrior and disciple of the Night Queen; the DR 1720 journey is separately dated, and the proposed earlier backstory remains unadopted.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and recorded the explicit name, campaign knowledge, name metadata, and temporal viewpoint where missing.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment containing “a miracle worker and disciple of the Night Queen” contains a developed public-safe origin and religious concern, also recorded in [[Rangers in Champimont]]. This would distinguish him beyond a generic disciple: **Armand is from [[Embry]] and is especially concerned with the threat of the wandering dead.** Keep the character level and scene-specific observations in private guidance; the separate backstory discussion remains speculative.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The proposed pronunciation `ar-MAH(n)` in `Metadata:names:v1` needs human acceptance. Proposed from the southern Sembaran French analogue in [[Languages]]: initial ar, open a in the final syllable, nasal an, and silent final d. The parenthesized n marks nasalization rather than a full final n; an English AR-mand remains a possible northern adaptation. If accepted, copy it to frontmatter `pronunciation` and mark the entry `documented`; otherwise revise the proposed entry.
+%%^End%%

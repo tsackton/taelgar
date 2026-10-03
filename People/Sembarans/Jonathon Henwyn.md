@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Jonathon Henwyn
-born: 1680
+lintedAt: "2026-10-03T09:44:02-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
+campaignInfo: []
+born: 1680
 gender: male
-whereabouts:
-- {type: home,  location: Cleenseau}
+name: Jonathon Henwyn
 affiliations:
-- {org: Essfords, title: Steward }
-- {org: Lord's Council of Cleenseau }
-dm_notes: color
+  - {org: Essfords, title: Steward}
+  - {org: "Lord's Council of Cleenseau"}
+whereabouts:
+  - {type: home, location: Cleenseau}
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 ---
 # Jonathon Henwyn
 >[!info]+ Biographical Info  
@@ -35,4 +39,28 @@ Before [[Cleenseau - Session 08]] Jonathon shared several facts and stories abou
 - Essford Manor was built by [[Reginald Essford]] shortly after he became lord in the early 1650s on top of the hobgoblin-built motte  
 - Underhill (the poor neighborhood where Tumbledown Manor is) was mostly built on top of the ruins of the hobgoblin fort in the 1660s and 1670s as the town grew. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Jonathon Henwyn", "language": "unknown", "pronunciation": "JON-uh-thun HEN-win", "status": "proposed", "notes": "The English Sembaran analogue in [[Languages]] supports ordinary Jonathon and a provisional Henwyn reading with initial stress, short e, and wyn as win. The French alternative would alter the given-name consonants; the English-shaped spelling is the stronger cue, but the full pronunciation remains unconfirmed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a portrait of his stewardship and family around DR 1719–1720; the campaign history lesson recounts older town history rather than widening the speaking position.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added required knownTo, minimal name metadata, and supported POV/povNotes.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `JON-uh-thun HEN-win`. The English Sembaran analogue in [[Languages]] supports ordinary Jonathon and a provisional Henwyn reading with initial stress, short e, and wyn as win. The French alternative would alter the given-name consonants; the English-shaped spelling is the stronger cue, but the full pronunciation remains unconfirmed. Confirm or revise this reading; if accepted, copy it to frontmatter `pronunciation` and mark the entry documented.
+
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The history-lesson opener uses `%%^Campaign:Clee%%`. The campaign registry gives `clee`; replace only that opener with `%%^Campaign:clee%%`, preserving the existing content and end marker.
 %%^End%%

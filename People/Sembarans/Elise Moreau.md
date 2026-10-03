@@ -1,7 +1,12 @@
 ---
-tags: [status/stub, person]
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
+tags: [status/stub, person, status/check/lint]
+name: Elise Moreau
+knownTo: [clee]
 dm_owner: mike
 dm_notes: none
+POV: 1720
 ---
 
 %% twin sister of [[Hubert Moreau]] current baron of felburn %%
@@ -29,3 +34,34 @@ The Duke glances up at that, a flash of emotion - perhaps anger? - on his face, 
 
 "This is my judgement: The Barony of Fellburn shall fall to Lady Elise Moreau, may she serve in honor and health. Lord Moreau, I judge your actions foolish and ill, and yes, cowardly, but not, I think, treasonous. I sentence you thus: leave here with your horse and sword and a hundred doubles. Find bravery and better judgement in the wide world. Return to me at Wisford when you are wiser. Until then, you must not be seen in the Duchy. Should you not accept this judgement, you may appeal to the royal court, as is your right" He pauses again and ends more softly. "I hope you find wholeness and healing as well. I have not forgotten your father is dead."
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Elise Moreau", "language": "unknown", "status": "proposed", "pronunciation": "eh-LEEZ moh-ROH", "notes": "Proposed from the French side of the Sembaran naming context documented in [[Languages]]: Elise uses a voiced s and silent final e, and Moreau uses eau as oh with final-syllable stress. The personal name's language is not explicitly established, so this remains a contextual proposal."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the authored source excerpt concerns Fellburn's succession in DR 1720; the note does not yet have a visible reference account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added supported name and temporal metadata.
+- Added `knownTo: [clee]` from the reviewed campaign evidence.
+
+### Validated judgments
+- `status/stub` is supported: the visible note has no reference prose, although its hidden source excerpt is substantive.
+
+### Editorial assessment
+- **Underdeveloped**: the visible note lacks Elise's identity, defining rescue actions, and appointment as Baroness of Fellburn. A short sourced paragraph covering those established facts is the smallest useful completion; no additional invented biography is required.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry proposes `eh-LEEZ moh-ROH`. Proposed from the French side of the Sembaran naming context documented in [[Languages]]: Elise uses a voiced s and silent final e, and Moreau uses eau as oh with final-syllable stress. The personal name's language is not explicitly established, so this remains a contextual proposal. If accepted, add `pronunciation: eh-LEEZ moh-ROH` to frontmatter and set the entry to `status: documented`; otherwise revise the proposal with its basis.
+
+- [ ] **Warning — coverage.established_fact_missing:** There is no visible reference account. [[Cleenseau - Interlude - After the Siege of Fellburn]] and [[Fellburn Audience with the Duke]] establish the defining relationship and succession. Add: `Elise Moreau is the twin sister of [[Hubert Moreau]]. After Hubert abandoned people outside Fellburn during the undead attacks, Elise and others countermanded him and rode out to rescue survivors. On January 25, 1720, [[Jacques Bellemont]] awarded her the [[Fellburn|Barony of Fellburn]] and sent Hubert into exile.` Retire or clearly label the older shorthand calling Hubert current baron when adopting the new account.
+
+- [ ] **Warning — classification.person_species_missing:** The person note has no species, and the reviewed succession sources do not explicitly establish one. Confirm her species; if human is intended, add `species: human`. The title and local population alone are not sufficient to choose automatically.
+%%^End%%

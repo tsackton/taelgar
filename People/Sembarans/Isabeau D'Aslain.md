@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Isabeau d'Aslain
-born: 1672
+lintedAt: "2026-10-03T09:44:02-04:00"
+lintVersion: "3.5"
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1672
 gender: female
 title: Baroness
-whereabouts: 
-- { type: home, location: Aslain }
-- { type: home, location: Veltor }
+name: "Isabeau d'Aslain"
 affiliations:
-- { org: Barony of Aveil, start: 1719-04, type: leader}
-- { org: d'Aslains, type: primary }
-dm_notes: important
+  - {org: Barony of Aveil, start: "1719-04", type: leader}
+  - {org: "d'Aslains", type: primary}
+whereabouts:
+  - {type: home, location: Aslain}
+  - {type: home, location: Veltor}
+knownTo: [clee]
 dm_owner: mike
+dm_notes: important
+POV: 1720
 ---
 # Baroness Isabeau D'Aslain
 >[!info]+ Biographical Info  
@@ -56,3 +60,31 @@ Baroness household:
 
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Isabeau d'Aslain", "language": "Sembaran", "pronunciation": "ee-zah-BOH dahz-LAYN", "status": "proposed", "notes": "[[Languages]] gives French and English analogues for Sembaran. Prefer French Isabeau (s voiced as z, eau as oh, final stress), but retain the accepted Ahz-lane of [[Aslain]] in the family byname, with the attached d pronounced. Exact in-world pronunciation remains unconfirmed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early DR 1720 portrait of the reigning baroness, before the March trial and royal custody; the later events require a separate update.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `knownTo: [clee]` from campaign evidence, persistent name metadata, and a supported article POV with temporal notes.
+- Normalized frontmatter order and collection formatting where needed.
+
+### Validated judgments
+- `status/gameupdate/clee`: supported by the later trial and royal custody; retain it until the temporal update decision is made.
+
+### Editorial assessment
+**Underdeveloped** — The visible sentence identifies her title but omits the defining trial, false prosecution, and royal custody established in the campaign record.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name remains `proposed`. Preferred pronunciation: `ee-zah-BOH dahz-LAYN`. [[Languages]] gives French and English analogues for Sembaran. Prefer French Isabeau (s voiced as z, eau as oh, final stress), but retain the accepted Ahz-lane of [[Aslain]] in the family byname, with the attached d pronounced. Exact in-world pronunciation remains unconfirmed. Accept the intended pronunciation and record it in frontmatter, or revise the name-block proposal before clearing this task.
+- [ ] **Warning — coverage.later_material_change:** [[Cleenseau - Session 28]] establishes a false prosecution directed by Isabeau and her subsequent royal custody, while the visible note only calls her the baroness. Candidate: `In March DR 1720, Isabeau directed a false prosecution of the [[Heroes of Cleenseau]] in [[Veltor]]. After [[Malach]] was exposed at the trial, she claimed amnesia and was taken into royal custody.` Decide whether to update the article and POV, defer with the existing game-update tag, or retain an explicitly earlier snapshot and review that tag. The later custody must not remain invisible by default.
+- [ ] **Suggestion — editorial.public_material_candidate:** The ordinary comment's paragraphs beginning ‘This Baroness seems to be more of the delegating type’ and ‘Sabine ... had the sense’ preserve a coherent public description of her administration. Consider: `Isabeau delegated the appointment of Cleenseau's magistrates to [[Rosalind Essford]]. [[Sabine de Brune]] believed that the Baroness rarely left [[Veltor]] and neglected the wider barony.` This would give the title-only article an account of how she governed. Preserve the attributed uncertainty. Keep the unsettled motives and plot planning in a separate hidden working section; do not promote them with this paragraph.
+%%^End%%

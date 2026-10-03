@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T09:44:02-04:00"
+lintVersion: "3.5"
 tags: [person]
-name: Lionel Mortagne
 species: human
 ancestry: Sembaran
-whereabouts: Beury
-pronunciation: Li-o-nel Mor-tahn-yeh
 gender: male
 born: 1686
-dm_notes: none
+name: Lionel Mortagne
+pronunciation: Li-o-nel Mor-tahn-yeh
+whereabouts: Beury
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 ---
 # Lionel Mortagne
 *(Li-o-nel Mor-tahn-yeh)*
@@ -19,3 +23,11 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[lionel-mortagne.png|right|320]]The captain of [[Erick Murtha|Lord Murtha's]] household guard.
+
+%%^Metadata:names:v1%%
+- {"name": "Lionel Mortagne", "language": "Sembaran", "pronunciation": "Li-o-nel Mor-tahn-yeh", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-1720s portrait of the captain of the household guard in Beury; no complete tenure is established.
+%%^End%%

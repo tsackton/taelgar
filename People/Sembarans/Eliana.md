@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-gender: female
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
+gender: female
+name: Eliana
 whereabouts: Cleenseau
-dm_notes: none
+knownTo: [clee]
 dm_owner: none
+dm_notes: none
+POV: 1720s
 ---
 # Eliana
 >[!info]+ Biographical Info  
@@ -22,3 +27,27 @@ gender-affirming herbalist care. Celyn probably would have compared notes
 and such at some point, and she'd be a contact in Cleenseau for this time
 of care and knowledge.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Eliana", "language": "unknown", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-1720s Cleenseau-campaign portrait of Eliana's midwifery and herbalist practice; no start or end of her work is established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added supported name and temporal metadata.
+- Added `knownTo: [clee]` from the reviewed campaign evidence.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The comment beginning `Context note, from emails` substantially repeats the visible herbalist/gender-care description. Keep provenance and the explicitly tentative interaction while removing the repeated account: `%% Source: [[A Bit of Celyn Backstory - Correspondence (Email)]]. Celyn comparing notes with Eliana was suggested, not confirmed. %%` This reduces duplicate prose without promoting an assumed encounter.
+%%^End%%

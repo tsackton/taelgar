@@ -11,7 +11,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Hara Basin is a broad, flat, semi‑arid lowland that contains the riverine heartland of [[Central Dunmar]], as well as the eastern deserts that grade up toward the [[Garamjala Plateau]]. This region is marked by stark, contrasting seasons: hot, dry winters and springs yield to short, intense summer monsoons that green the plains and swell the rivers.
+The Hara Basin is a broad, flat, semi‑arid lowland that contains the riverine heartland of [[Central Dunmar]], as well as the eastern deserts that grade up toward the [[Garamjala Plateau]]. This region is marked by stark, contrasting seasons: warm, dry winters yield to brutally hot pre-monsoon summers, following by intense monsoon rains that green the plains and swell the rivers.
 
 ## Boundaries & Topography
 The basin is bounded to the west and southwest by the rain‑shadowed front of the [[Yuvanti Mountains]], to the north by the foothills of the [[Sentinel Range]], to the east by the high deserts of the [[Garamjala Plateau]], and to the northwest by the [[Myraeni Gap]]. Its northwest quarter, the [[Songara Plains]] is the most fertile, supporting year-round open grassland; the center spreads into a broad alluvial plain along the [[Hara]]; the southeast grades to arid scrub and then the [[Karawa Desert]]. 
@@ -20,7 +20,7 @@ The basin is bounded to the west and southwest by the rain‑shadowed front of t
 The [[Hara]] is the principal river of the region, exiting the basin through the [[Hara Gorge]] roughly two hundred miles southeast of [[Askandi]]. From the north and northwest it gathers the [[Sone]]—a snowmelt river from the [[Sentinel Range|Sentinels]] and the [[Chataan Mountains]] that crosses the [[Songara Plains]]—and the [[Thandar]], both joining the Hara north of [[Tokra]]. From the west, the [[Sukal]] joins the [[Hara]] south of [[Tokra]], flowing from its sources in the [[Copper Hills]]. 
 
 ## Climate
-Monsoon‑driven rains fall primarily June–October, strongest in the west and north. The southern and eastern basin lies in deep rain shadow, with patchy or unreliable precipitation. Short green seasons alternate with long, dusty months.
+Monsoon‑driven rains fall primarily June–September, with some year-to-year variation. The rains are strongest in the west and north. The southern and eastern basin lies in deep rain shadow, with patchy or unreliable precipitation. Short green seasons alternate with long, dusty months.
 
 ## Subregions
 ![[hara-basin-2.png|right|600]]In the northwest, the [[Songara Plains]] extend in a broad arc from the [[Chataan Mountains]] to [[Songara]] to the upper reaches of the [[Hara]]. These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [[Sone]], fed by snowmelt in the Sentinels and the [[Chataan Mountains]], flows northeast through the [[Songara Plains]], until it joins the [[Hara]] north of [[Tokra]].

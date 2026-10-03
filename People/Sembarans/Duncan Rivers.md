@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
 born: 1672
+name: Duncan Rivers
 affiliations:
-- {org: The Bandit’s End, type: leader, title: Proprietor }
+  - {org: The Bandit’s End, type: leader, title: Proprietor}
 whereabouts: The Bandit’s End
-dm_notes: none
+knownTo: [clee]
 dm_owner: mike
+dm_notes: none
+POV: 1720s
 ---
 # Duncan Rivers
 >[!info]+ Biographical Info  
@@ -26,7 +31,15 @@ He struggled with mysterious disappearing ale and was helped by the [[Heroes of 
 
 
 %% 
-Note: The ale was missing because a mischievous fairy was drinking it. The fairly fled when Celyn and the PCs started poking around, but will perhaps return. 
+Note: The ale was missing because a mischievous fairy was drinking it. The fairy fled when Celyn and the PCs started poking around, but will perhaps return.
 
 The possibility that a fairy will return to his ale cellar is the only DM plan I have.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Duncan Rivers", "language": "Sembaran", "status": "inferred"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-1720s portrait of Duncan as the Bandit's End proprietor; the campaign passage refers to the missing-ale episode around the turn of DR 1720.
+%%^End%%

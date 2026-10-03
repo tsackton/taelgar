@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
-name: Béatrix Thorne
-born: 1696
+lintedAt: "2026-10-03T09:37:56-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/ai, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1696
 gender: female
+name: Béatrix Thorne
 aliases: [Béatrix, Beatrix, Béatrix Thorne]
-affiliations: 
-- {org: Army Garrison of Cleenseau, end: 1719-11-02, title: Soldier }
-- {org: Lord's Guard of Cleenseau, start: 1719-11-23, title: Guardswoman }
-- {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff }
-- {org: Thornes of Cleenseau, type: primary}
+affiliations:
+  - {org: Army Garrison of Cleenseau, end: 1719-11-02, title: Soldier}
+  - {org: "Lord's Guard of Cleenseau", start: 1719-11-23, title: Guardswoman}
+  - {org: "Lord's Guard of Cleenseau", start: 1720-01-11, title: Sheriff}
+  - {org: Thornes of Cleenseau, type: primary}
 whereabouts: Cleenseau
-dm_notes: color
+knownTo: [clee]
 dm_owner: mike
+dm_notes: color
+POV: 1720
 ---
 # Béatrix Thorne
 >[!info]+ Biographical Info  
@@ -23,10 +27,35 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[beatrix.png|right|320]]A solider in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the [[Heroes of Cleenseau]] into the [[Cleenseau Wood]] following a trail of spiders. 
+![[beatrix.png|right|320]]A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the [[Heroes of Cleenseau]] into the [[Cleenseau Wood]] following a trail of spiders.
 
 After her recent marriage to [[Gabriel Thorne]], she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]].
 
 Her father-in-law is the chief yeoman of [[Auloutte]].
 
 %% Mike Sackton's August 3, 2026 email, subject "Re: [Thantos] Heir to House Griffin," supplied this correction. %%
+
+%%^Metadata:names:v1%%
+- {"name": "Béatrix Thorne", "language": "Sembaran", "status": "proposed", "pronunciation": "bay-ah-TREEKS thorn", "notes": "Proposed mixed Sembaran reading using [[Languages]]: the southern French analogue gives é as ay and -trix as treeks; Thorne retains the English-side th and long or vowel with silent final e. Exact in-world pronunciation remains unrecorded."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 portrait after the marriage, miscarriage, and appointment as sheriff; the expedition and army service describe late DR 1719.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added supported name and temporal metadata.
+- Added `knownTo: [clee]` from the reviewed campaign evidence.
+- Corrected an objective typo.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry proposes `bay-ah-TREEKS thorn`. Proposed mixed Sembaran reading using [[Languages]]: the southern French analogue gives é as ay and -trix as treeks; Thorne retains the English-side th and long or vowel with silent final e. Exact in-world pronunciation remains unrecorded. If accepted, add `pronunciation: bay-ah-TREEKS thorn` to frontmatter and set the entry to `status: documented`; otherwise revise the proposal with its basis.
+%%^End%%
