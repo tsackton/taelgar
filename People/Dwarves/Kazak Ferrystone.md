@@ -6,6 +6,7 @@ tags: [person, status/check/lint]
 species: dwarf
 gender: male
 name: Kazak Ferrystone
+pronunciation: KAH-zahk FAIR-ee-stohn
 affiliations:
   - {org: Ferrystones, type: primary}
 whereabouts:
@@ -18,21 +19,26 @@ dm_notes: color
 POV: 1720
 ---
 # Kazak Ferrystone
+*(KAH-zahk FAIR-ee-stohn)*
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Ferrystones]]  
+> A [[Dwarves|dwarf]] (he/him), of the [[Ferrystones|Ferrystone Clan]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[kazak-ferrystone.png|left|200]]
 
-Kazak Ferrystone is a dwarf of the [[Ferrystones]], based in [[Rinburg]]. While traveling to [[Aslain]] with [[Bolgrim Ferrystone]], he was badly injured by [[The Hunter|the Hunter’s]] bears. The [[Heroes of Cleenseau]] subsequently healed him.
+Kazak Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], known for his expertise in reclaiming and repurposing ruins for new construction.
+
+%%^Campaign:clee%%
+While traveling to [[Aslain]] with [[Bolgrim Ferrystone]], he was badly injured by [[The Hunter|the Hunter’s]] bears. The [[Heroes of Cleenseau]] subsequently healed him.
 
 In Aslain, Kazak and [[Vondal Ferrystone]] helped investigate the ruined [[Night Queen Temple (Aslain)|Night Queen temple]]. They identified the supposed necromantic chamber as recent, poorly built stonework inconsistent with the older temple.
+%%^End%%
 
 %% Source discrepancy: [[Into Aslain (Email)]] identifies Kazak as the injured dwarf and Bolgrim as uninjured, while [[April Around Asineau]] attributes the injury and healing to Bolgrim. The DM confirmed that Kazak was the dwarf healed; this account follows that correction. Temple investigation: [[Cleenseau - Session 17]], with details preserved in its session recap. %%
 
 %%^Metadata:names:v1%%
-- {"name": "Kazak Ferrystone", "language": "unknown", "pronunciation": "KAH-zahk FAIR-ee-stohn", "notes": "Proposal informed by the Tolkien Dwarvish analogue in [[Languages]]: both a vowels are ah, k remains hard, z remains voiced, and initial stress is tentative; Ferrystone is read as the ordinary English compound. Exact in-world pronunciation and the name language are not established.", "status": "proposed"}
+- {name: Kazak Ferrystone, language: Dwarvish, pronunciation: KAH-zahk FAIR-ee-stohn, status: documented, notes: "Ferrystone is a Common rendering. Pronunciation accepted from the existing proposal, informed by the Tolkien Dwarvish analogue in [[Languages]]: both a vowels are ah, k remains hard, z remains voiced, and stress is on the first syllable; Ferrystone follows its ordinary English spelling."}
 %%^End%%
 
 %%^povNotes:v1%%
