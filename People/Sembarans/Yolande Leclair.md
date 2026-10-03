@@ -1,20 +1,34 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [status/stub, person, status/check/lint]
+tags: [person, status/check/lint]
+species: human
+ancestry: Sembaran
+gender: female
 name: Yolande Leclair
+pronunciation: yoh-LAHND luh-KLAIR
 knownTo: [clee]
 dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
 
-(disciple of night queen, no photo)
+# Yolande Leclair
+*(yoh-LAHND luh-KLAIR)*
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
 
-%% some mentions in background emails; otherwise, mostly exists as a name %%
+Yolande Leclair is a disciple of the [[The Night Queen|Night Queen]] and a servant of [[Raoul Boulain]].
+
+After the [[Cleenseau - Interlude - After the Siege of Fellburn|siege of Fellburn]], she spoke with the [[Heroes of Cleenseau]] about the ominous premonitions she and others had experienced at Pyravela, and the clergy’s efforts to investigate them.
+
+%% Sources:
+- [[Siege of Fellburn - Duke's Camp]]
+%%
 
 %%^Metadata:names:v1%%
-- {"name": "Yolande Leclair", "language": "unknown", "pronunciation": "yoh-LAHND luh-KLAIR", "status": "proposed", "notes": "The French-shaped name uses the southern Sembaran naming analogue in [[Languages]] as a contextual spelling guide: Yolande has a nasal ah vowel (approximately AHND), final e is silent, and Leclair has a light le and an air vowel. Her in-world name language is unestablished, so it remains unknown and the pronunciation proposed."}
+- {"name": "Yolande Leclair", "language": "Sembaran", "pronunciation": "yoh-LAHND luh-KLAIR", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
