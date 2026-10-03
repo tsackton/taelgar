@@ -1,0 +1,350 @@
+[
+  {
+    "file": "taelgar-green-sea-winter-v3",
+    "season": "winter",
+    "title": "Green Sea · Winter atmosphere",
+    "subtitle": "Northern storm passages and continental cold contrast with the southern maritime ridge.",
+    "crop": [
+      590,
+      150,
+      1190,
+      860
+    ],
+    "points": [
+      [
+        1095,
+        430
+      ],
+      [
+        780,
+        505
+      ],
+      [
+        1450,
+        755
+      ]
+    ],
+    "notes": [
+      "1 · Northern sea: westerly intervals aid eastward sailing; storms, ridges and cold outbreaks interrupt one another.",
+      "2 · Western Gulf and Sembara: intermittent fronts and weaker lows bring rain or snow while the gulf retains relative shelter.",
+      "3 · Southern ridge: weaker pressure differences near its axis increase light-wind delays, strongest in January–February."
+    ]
+  },
+  {
+    "file": "taelgar-green-sea-spring-v3",
+    "season": "summer",
+    "base_only": true,
+    "title": "Green Sea · Spring atmosphere",
+    "subtitle": "Developing land lows open southern and northbound opportunities while northern westerlies remain useful.",
+    "crop": [
+      590,
+      150,
+      1190,
+      860
+    ],
+    "centers": [
+      [
+        1460,
+        685,
+        "H",
+        "Eastern ocean ridge",
+        245,
+        145
+      ],
+      [
+        1270,
+        300,
+        "L",
+        "Passing northern lows",
+        195,
+        90
+      ],
+      [
+        835,
+        655,
+        "L",
+        "Developing Cymean low",
+        130,
+        120
+      ],
+      [
+        1300,
+        950,
+        "L",
+        "Developing desert low",
+        210,
+        80
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M920,450 Q1040,425 1150,435"
+      },
+      {
+        "points": "M1200,435 Q1280,430 1380,405"
+      },
+      {
+        "points": "M1065,685 Q1020,610 1080,560"
+      },
+      {
+        "points": "M930,482 Q845,465 785,525"
+      },
+      {
+        "points": "M1410,812 Q1330,800 1240,810"
+      }
+    ],
+    "labels": [
+      [
+        693,
+        500,
+        "Sembara"
+      ],
+      [
+        810,
+        355,
+        "Vostok"
+      ],
+      [
+        1118,
+        355,
+        "Ursk"
+      ],
+      [
+        920,
+        545,
+        "Cymea"
+      ],
+      [
+        1190,
+        590,
+        "Irrla"
+      ],
+      [
+        1395,
+        760,
+        "Medju"
+      ],
+      [
+        1565,
+        575,
+        "Eastern Isles"
+      ],
+      [
+        1255,
+        705,
+        "GREEN SEA",
+        19
+      ],
+      [
+        1650,
+        870,
+        "OUTER OCEAN",
+        19
+      ],
+      [
+        1040,
+        470,
+        "Northern westerly opportunities"
+      ],
+      [
+        1170,
+        860,
+        "Southern easterlies"
+      ],
+      [
+        975,
+        605,
+        "Northbound branch"
+      ],
+      [
+        1480,
+        220,
+        "Cool ridge episodes remain possible"
+      ]
+    ],
+    "points": [
+      [
+        1165,
+        450
+      ],
+      [
+        1100,
+        655
+      ],
+      [
+        810,
+        520
+      ]
+    ],
+    "notes": [
+      "1 · Northern westerly intervals continue into June; cool maritime ridges may interrupt them before the summer reversal.",
+      "2 · Southerly flow west of Irrla connects southern westbound legs to the northern corridor; the connection varies with weather.",
+      "3 · Maritime inflow reaches Sembara: coastal gray spells, terrain rain and sunny breaks can precede sustained inland warmth."
+    ]
+  },
+  {
+    "file": "taelgar-green-sea-summer-v3",
+    "season": "summer",
+    "title": "Green Sea · Summer atmosphere",
+    "subtitle": "A secondary cool northern ridge and Cymean offshore trough supply the July–August westbound season.",
+    "crop": [
+      590,
+      150,
+      1190,
+      860
+    ],
+    "points": [
+      [
+        1110,
+        425
+      ],
+      [
+        1040,
+        620
+      ],
+      [
+        1290,
+        825
+      ]
+    ],
+    "notes": [
+      "1 · Northern ridge above the offshore trough: recurring E–NE winds, interrupted by disturbances and rain.",
+      "2 · Dominant eastern ocean high: southerly flow on its western side; a northbound leg no longer guarantees easy onward sailing to Ursk.",
+      "3 · Separate desert heat low: northern-flank easterlies reinforce southern westward flow without making the desert interior rainy."
+    ]
+  },
+  {
+    "file": "taelgar-green-sea-autumn-v3",
+    "season": "winter",
+    "base_only": true,
+    "title": "Green Sea · Autumn atmosphere",
+    "subtitle": "Returning northern disturbances and a southward-retreating ridge create successive sailing opportunities.",
+    "crop": [
+      590,
+      150,
+      1190,
+      860
+    ],
+    "centers": [
+      [
+        1290,
+        295,
+        "L",
+        "Returning northern lows",
+        235,
+        100
+      ],
+      [
+        1350,
+        735,
+        "H",
+        "Southern maritime ridge",
+        230,
+        100
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M920,450 Q1030,420 1150,432"
+      },
+      {
+        "points": "M1190,425 Q1320,425 1430,395"
+      },
+      {
+        "points": "M1240,652 Q1345,625 1460,650"
+      },
+      {
+        "points": "M1495,675 Q1515,725 1475,768",
+        "dashed": true
+      },
+      {
+        "points": "M1445,794 Q1390,834 1310,840",
+        "dashed": true
+      }
+    ],
+    "labels": [
+      [
+        693,
+        500,
+        "Sembara"
+      ],
+      [
+        810,
+        355,
+        "Vostok"
+      ],
+      [
+        1118,
+        355,
+        "Ursk"
+      ],
+      [
+        920,
+        545,
+        "Cymea"
+      ],
+      [
+        1190,
+        590,
+        "Irrla"
+      ],
+      [
+        1395,
+        790,
+        "Medju coast"
+      ],
+      [
+        1570,
+        570,
+        "Eastern Isles"
+      ],
+      [
+        1140,
+        700,
+        "GREEN SEA",
+        19
+      ],
+      [
+        1660,
+        895,
+        "OUTER OCEAN",
+        19
+      ],
+      [
+        1110,
+        480,
+        "Northern eastbound opportunities"
+      ],
+      [
+        1400,
+        905,
+        "Increasing winter calms later"
+      ],
+      [
+        820,
+        685,
+        "Land lows weaken"
+      ]
+    ],
+    "points": [
+      [
+        1200,
+        462
+      ],
+      [
+        1260,
+        630
+      ],
+      [
+        1570,
+        740
+      ]
+    ],
+    "notes": [
+      "1 · Ursk departures: renewed westerly intervals are useful from mid-September; later autumn brings greater storm exposure.",
+      "2 · Southeastern Irrla: eastbound opportunities develop as the ridge retreats south; the timing varies by year.",
+      "3 · Dashed arrows: selected southward and southwestward episodes on a ridge’s eastern and southeastern flanks, with waits between legs."
+    ],
+    "footer": "Successive weather opportunities, not one continuous fair-wind route. No permanent Eastern Isles storm belt is assumed."
+  }
+]
