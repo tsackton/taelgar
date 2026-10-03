@@ -48,9 +48,9 @@ The [[Chataan Mountains]] form a climatic transition. Exposed slopes receive mon
 > [!question] Unspecified parameters
 > Exact monsoon onset and retreat dates, wet-season duration, local wind bearings, and rainfall totals remain unassigned here. The Western Dunmar temperature sequence does not assign the same winter temperatures to Hara or every Dunmari region. Regional temperature ranges and the detailed transition across the Chataans require further development.
 
-Dunmar and Sembara draw seasonal moisture from different seas and in different directions. Their onset dates need not coincide, and no continuous moisture pathway or trough linking the two is required. See [[Taelgar Climatic Model#Shared connections and consistency]].
+Dunmar and Sembara draw seasonal moisture from different seas and in different directions. Their onset dates need not coincide, and no continuous moisture pathway or trough linking the two is required. See [[Taelgar Climate Model Revised#Seasonal atmospheric model]].
 
-Local profiles: [[Climate of Dunmar and the Chataans]]. Chardon and northern Apporia are covered by [[Climate of the Western Coast]].
+Regional coverage: [[Climate of Dunmar and the Nevos]]. Chardon and Apporia belong in [[Climate of the Western Coast and Interior]].
 
 ## Comparisons and references
 
@@ -60,4 +60,4 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [Rodwell and Hoskins, 2001: Subtropical Anticyclones and Summer Monsoons](https://wind.mit.edu/~emanuel/tropical/rodwell_hoskins_2001.pdf): interactions among monsoons, oceanic highs, and nearby summer subsidence; not a demonstration of the proposed Taelgar trough or Dunmar–Chardon connection.
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect): mechanisms for warmer, drier lee-side air; application depends on mountain orientation and wind paths.
 
-Return to [[Taelgar Climatic Model]] or [[Climate and Environment]].
+Return to [[Taelgar Climate Model Revised]] or [[Climate and Environment]].

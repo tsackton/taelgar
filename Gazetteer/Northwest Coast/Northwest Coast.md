@@ -71,7 +71,7 @@ Dangerous Wildernesses: Yes
 ## Climate
 
 %%^Campaign:none%%
-Climate model and regional profiles: [[Climate of the Western Coast]] and [[Climate of the Northwestern Interior]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+Continental overview: [[Taelgar Climate Model Revised]]. Regional coverage: [[Climate of the Western Coast and Interior]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library.
 %%^End%%
 
 

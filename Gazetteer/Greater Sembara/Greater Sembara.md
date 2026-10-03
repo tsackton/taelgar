@@ -75,7 +75,7 @@ There are two large and ancient lizardfolk settlements: [[Ozabal]], in the delta
 ## Climate
 
 %%^Campaign:none%%
-Climate model and regional profiles: [[Climate of Greater Sembara]] and the northern coverage in [[Climate of the Green Sea Shores]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+Continental overview: [[Taelgar Climate Model Revised]]. Regional coverage: [[Climate of Greater Sembara and Aurbez]], [[Climate of the Sentinels and Northern Highlands]], [[Climate of the Green Sea and Its Shores]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library.
 %%^End%%
 
 In general, the region’s climate is temperate, with four distinct seasons, dry winters, and wet summers. During the summer months, a monsoon wind blows from the [[Green Sea]], bringing ample rainfall. In winter, high pressure builds over the northern steppe, and the west winds that blow over the mountains are dry and cold. 

@@ -4,6 +4,9 @@ excludePublish: [all]
 ---
 # Climate of Dunmar and the Chataans
 
+> [!note] Archived climate material
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+
 **Gazetteer coverage:** [[Greater Dunmar]], especially [[Western Dunmar]], [[Darba Highlands]], and [[Hara Basin]], together with the [[Chataan Mountains]] and [[Alta Tonaro]] transition toward [[Greater Chardon]].
 
 The regional cycle and gradients follow [[Dunmar and Nevos Circulation]]. The western ridge and its northern extension are shared with [[Western Ocean and Coast Circulation]]; the climates of Chardon and Apporia belong in [[Climate of the Western Coast]].

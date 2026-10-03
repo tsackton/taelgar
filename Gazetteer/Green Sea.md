@@ -31,7 +31,7 @@ The prevailing winds tend to favor sailing east in the winter, and west in the s
 
 
 %%^Campaign:none%%
-Climate model and regional profiles: [[Climate of the Green Sea Shores]], [[Green Sea Atmospheric Circulation]], and [[Green Sea Ocean Circulation]]. See [[Regional Climate Atlas]] for geographic coverage and [[Climate and Environment]] for the full reference library.
+Continental overview: [[Taelgar Climate Model Revised]]. Regional coverage: [[Climate of the Green Sea and Its Shores]]. See [[Regional Climate Atlas]] for the coverage index and [[Climate and Environment]] for the full reference library. Water circulation is described in [[Green Sea Ocean Circulation]].
 %%^End%%
 
 %% Climate explanation - probably too much detail

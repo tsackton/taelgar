@@ -4,6 +4,9 @@ excludePublish: [all]
 ---
 # Climate of the Northwestern Interior
 
+> [!note] Archived climate material
+> Preserved for historical comparison. The current continental overview is [[Taelgar Climate Model Revised]]; [[Regional Climate Atlas]] defines the current regional coverage.
+
 **Gazetteer coverage:** The inland [[Northwest Coast]], [[Lake Valandros]] in [[Greater Chardon]], and western forest country in [[Central Highlands]]. Principal profiles cover [[Fiatara Mountains]], [[Voltara]], [[Erbalta Plains]], [[Tawir Forest]], [[Ainumarya]], [[Crimson Forest]], [[Elderwood]], [[Highveil Forest]], and [[Forest of Dreams]].
 
 These are the existing broad inland profiles. Moisture paths and ridge interactions are explained in [[Western Ocean and Coast Circulation#Maritime access around the Fiatara]] and [[Western Ocean and Coast Circulation#Maritime access to Valandros and the forests]].
