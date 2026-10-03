@@ -1,4 +1,4 @@
 interface:
   display_name: "Review Stub or Staging Page"
   short_description: "Complete and file source-grounded Taelgar base pages"
-  default_prompt: "Use $review-stub-staging to help me complete the next Taelgar person stub or Staging page."
+  default_prompt: "Use $review-stub-staging to help me complete the next Taelgar person or place stub or Staging page."
