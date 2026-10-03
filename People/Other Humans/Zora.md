@@ -21,6 +21,8 @@ Zora is a camp leader among the [[Vargaldi]] of the [[Great Northern Forest]]. S
 - [[Session 93 (DuFr)]]
 %%
 
+%% @check/tim : anything to add? %%
+
 %%^Metadata:names:v1%%
 - {name: Zora, language: unknown, pronunciation: ZOR-ah, status: documented}
 %%^End%%
