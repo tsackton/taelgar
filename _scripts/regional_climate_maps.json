@@ -1,0 +1,470 @@
+[
+  {
+    "file": "taelgar-western-summer-v3",
+    "season": "summer",
+    "title": "Western coast and interior · Summer",
+    "subtitle": "Southern summer drying gives way to northern ocean weather and sheltered inland plains.",
+    "crop": [
+      35,
+      70,
+      760,
+      860
+    ],
+    "points": [
+      [
+        490,
+        612
+      ],
+      [
+        520,
+        553
+      ],
+      [
+        440,
+        391
+      ]
+    ],
+    "notes": [
+      "1 · Chardon and the southern basins: stable ridge, coastal fog and a summer moisture deficit.",
+      "2 · Western forests: winter recharge and shade bridge dry intervals; showers persist farther north.",
+      "3 · Fiatara and the plains: exposed mountains intercept moisture; sheltered grasslands receive intermittent rain."
+    ],
+    "labels": [
+      [
+        472,
+        350,
+        "Fiatara"
+      ],
+      [
+        525,
+        397,
+        "Erbalta"
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M350,477 C410,460 475,480 548,462",
+        "dashed": true
+      },
+      {
+        "points": "M417,461 C448,449 455,424 466,405",
+        "dashed": true
+      }
+    ]
+  },
+  {
+    "file": "taelgar-western-winter-v3",
+    "season": "winter",
+    "title": "Western coast and interior · Winter",
+    "subtitle": "Ocean storms reach farther south; maritime thaws alternate with interior cold outbreaks.",
+    "crop": [
+      35,
+      70,
+      760,
+      860
+    ],
+    "points": [
+      [
+        490,
+        612
+      ],
+      [
+        497,
+        505
+      ],
+      [
+        437,
+        383
+      ]
+    ],
+    "notes": [
+      "1 · Chardon and Apporia: returning western storms replenish rivers and soils.",
+      "2 · Forests and high slopes: rain below, snow higher up; snow storage releases water during the thaw.",
+      "3 · Mawar and Fiatara: exposed storms and snowy high terrain; milder coastal intervals can interrupt winter cold."
+    ],
+    "labels": [
+      [
+        472,
+        350,
+        "Fiatara"
+      ],
+      [
+        525,
+        397,
+        "Erbalta"
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M350,532 C430,516 475,500 542,483",
+        "dashed": true
+      },
+      {
+        "points": "M320,245 C305,275 330,310 367,336",
+        "dashed": true
+      }
+    ]
+  },
+  {
+    "file": "taelgar-dunmar-nevos-summer-v3",
+    "season": "summer",
+    "title": "Dunmar and the Nevos · Summer",
+    "subtitle": "West to southwest inflow reaches the Darba saddle; terrain and moisture loss dry the interior.",
+    "crop": [
+      245,
+      540,
+      765,
+      485
+    ],
+    "points": [
+      [
+        529,
+        737
+      ],
+      [
+        695,
+        747
+      ],
+      [
+        790,
+        899
+      ]
+    ],
+    "notes": [
+      "1 · Broad Darba saddle: maritime monsoon air enters between the Chataan and Yuvanti systems.",
+      "2 · Dunmari progression: wetter west and north; variable onset, rain spells and breaks farther inland.",
+      "3 · Hara and Garamjala: shelter and depleted inflow preserve dryness; isolated storms are not a second wet climate."
+    ],
+    "omit_path_prefixes": [
+      "M335.0,980.0"
+    ]
+  },
+  {
+    "file": "taelgar-dunmar-nevos-winter-v3",
+    "season": "winter",
+    "title": "Dunmar and the Nevos · Winter",
+    "subtitle": "The monsoon withdraws; winter ocean weather reaches the Chataans from the west.",
+    "crop": [
+      245,
+      540,
+      765,
+      485
+    ],
+    "points": [
+      [
+        514,
+        696
+      ],
+      [
+        638,
+        789
+      ],
+      [
+        414,
+        926
+      ]
+    ],
+    "notes": [
+      "1 · Chataans and Alta Tonaro: western disturbances provide winter rain or high snow on suitable exposures.",
+      "2 · Dunmar: cooler continental flow and longer dry intervals; earlier rains continue to support water and vegetation.",
+      "3 · Nevos shores and islands: maritime moderation persists; Illoria has no assigned local rainfall calendar."
+    ],
+    "arrows": [
+      {
+        "points": "M310,665 Q390,612 480,640",
+        "dashed": true
+      }
+    ]
+  },
+  {
+    "file": "taelgar-sentinels-summer-v3",
+    "season": "summer",
+    "title": "Sentinels and northern highlands · Summer",
+    "subtitle": "Two maritime moisture sources meet a long mountain barrier; elevation limits the warm season.",
+    "crop": [
+      275,
+      100,
+      890,
+      790
+    ],
+    "points": [
+      [
+        530,
+        483
+      ],
+      [
+        641,
+        501
+      ],
+      [
+        699,
+        665
+      ]
+    ],
+    "notes": [
+      "1 · Western slopes: remaining ocean disturbances and stored snowmelt support exposed forests and headwaters.",
+      "2 · Eastern foothills: Green Sea moisture can generate upslope cloud and storms without wetting every interior basin.",
+      "3 · Southern high country: dry intervals and thaw contrast with persistent ice near the highest peaks."
+    ],
+    "labels": [
+      [
+        577,
+        428,
+        "Sentinel crest"
+      ],
+      [
+        681,
+        444,
+        "Zimkova"
+      ],
+      [
+        680,
+        619,
+        "Aurbez"
+      ],
+      [
+        828,
+        394,
+        "Drier interior"
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M430,492 C475,480 516,484 558,469",
+        "dashed": true
+      },
+      {
+        "points": "M788,520 C738,505 693,497 650,479"
+      }
+    ]
+  },
+  {
+    "file": "taelgar-sentinels-winter-v3",
+    "season": "winter",
+    "title": "Sentinels and northern highlands · Winter",
+    "subtitle": "Wet western slopes border sheltered basins and continental cold; snow remains uneven across the range.",
+    "crop": [
+      275,
+      100,
+      890,
+      790
+    ],
+    "points": [
+      [
+        530,
+        483
+      ],
+      [
+        703,
+        361
+      ],
+      [
+        683,
+        657
+      ]
+    ],
+    "notes": [
+      "1 · Western snowfall: uplift favors exposed slopes; sheltered valleys receive less precipitation.",
+      "2 · Zimkova and Vostok: inland exposure and cold-air retention matter as well as elevation.",
+      "3 · Southern passes: episodic snow and drifting can close high routes despite a broadly dry mountain climate."
+    ],
+    "labels": [
+      [
+        577,
+        428,
+        "Sentinel crest"
+      ],
+      [
+        681,
+        444,
+        "Zimkova"
+      ],
+      [
+        680,
+        619,
+        "Aurbez"
+      ],
+      [
+        828,
+        394,
+        "Drier interior"
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M428,532 C476,514 526,503 562,482",
+        "dashed": true
+      }
+    ]
+  },
+  {
+    "file": "taelgar-southern-moisture-summer-v1",
+    "season": "summer",
+    "title": "Southern mainland · Northern summer",
+    "subtitle": "The tropical rain belt moves north while the subtropical desert remains broadly arid.",
+    "crop": [
+      410,
+      735,
+      1365,
+      630
+    ],
+    "points": [
+      [
+        670,
+        951
+      ],
+      [
+        837,
+        1108
+      ],
+      [
+        1180,
+        890
+      ]
+    ],
+    "notes": [
+      "1 · Shrev–Nayan margin: maritime access and terrain allow tropical forest beside the drier plateau.",
+      "2 · Drankor and the mainland jungle coast: episodic coastal inflow supports humid heat and heavy rain; local timing is open.",
+      "3 · Great Desert: a heat low does not guarantee rain; limited supply and dry air above preserve interior aridity."
+    ],
+    "footer": "Dashed purple arrows: illustrative maritime incursions. Orekatu is separate and is not located or assigned a calendar here.",
+    "arrows": [
+      {
+        "points": "M940,1240 C916,1205 889,1182 863,1163",
+        "dashed": true
+      },
+      {
+        "points": "M488,1005 C516,967 550,937 595,920",
+        "dashed": true
+      }
+    ]
+  },
+  {
+    "file": "taelgar-southern-moisture-winter-v1",
+    "season": "winter",
+    "title": "Southern mainland · Northern winter",
+    "subtitle": "The rain belt shifts south; coastal tropical moisture and dry interior conditions remain distinct.",
+    "crop": [
+      410,
+      735,
+      1365,
+      630
+    ],
+    "points": [
+      [
+        670,
+        951
+      ],
+      [
+        837,
+        1108
+      ],
+      [
+        1180,
+        890
+      ]
+    ],
+    "notes": [
+      "1 · Northern tropical margins: longer dry intervals can develop as summer inflow retreats; forest moisture is stored.",
+      "2 · Drankor and the mainland jungle coast: episodic coastal inflow supports humid heat and heavy rain; local timing is open.",
+      "3 · Desert interior: cooler conditions and weaker summer heating do not establish a rainy winter."
+    ],
+    "footer": "Dashed purple arrows: illustrative maritime incursions. Orekatu is separate and is not located or assigned a calendar here.",
+    "arrows": [
+      {
+        "points": "M940,1240 C916,1205 889,1182 863,1163",
+        "dashed": true
+      }
+    ]
+  },
+  {
+    "file": "taelgar-sentinels-winter-redevelopment-v1",
+    "season": "winter",
+    "title": "Sentinels · Winter storm redevelopment",
+    "subtitle": "An illustrative episode: upper-air disturbance crosses the range; a low draws fresh eastern moisture inland.",
+    "crop": [
+      390,
+      400,
+      700,
+      340
+    ],
+    "base_only": true,
+    "points": [
+      [
+        580,
+        555
+      ],
+      [
+        710,
+        515
+      ],
+      [
+        991,
+        522
+      ]
+    ],
+    "labels": [
+      [
+        475,
+        575,
+        "Chardon"
+      ],
+      [
+        557,
+        479,
+        "Sentinels"
+      ],
+      [
+        693,
+        489,
+        "Sembara"
+      ],
+      [
+        690,
+        630,
+        "Maseau–Mostreve"
+      ],
+      [
+        875,
+        640,
+        "Cymea"
+      ],
+      [
+        972,
+        596,
+        "Green Sea"
+      ]
+    ],
+    "centers": [
+      [
+        795,
+        577,
+        "L",
+        "Moving low",
+        60,
+        38
+      ]
+    ],
+    "arrows": [
+      {
+        "points": "M440,580 C525,550 589,565 660,578",
+        "dashed": true,
+        "color": "low"
+      },
+      {
+        "points": "M665,592 C735,585 777,574 817,558 C899,541 973,513 1050,470",
+        "dashed": true,
+        "color": "low"
+      },
+      {
+        "points": "M875,525 C824,510 757,514 660,535"
+      }
+    ],
+    "notes": [
+      "1 · A disturbance can cross above the mountain barrier after low-level western air has lost much of its moisture.",
+      "2 · A low south of the heartlands draws Green Sea air westward on its northern side, producing rain or snow inland.",
+      "3 · Later development is favored farther offshore; the Western Gulf retains its relative shelter. Exact tracks remain open."
+    ],
+    "footer": "Blue dashed arrows: illustrative disturbance / storm movement. Purple: surface air. This is an episode, not a seasonal mean."
+  }
+]

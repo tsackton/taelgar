@@ -83,7 +83,7 @@ The seasons below are northern-hemisphere seasons; wind names indicate where the
 > Pressure differences drive wind, but planetary rotation turns moving air. In the Northern Hemisphere, this gives clockwise flow around highs and counterclockwise flow around lows. Near the ground, friction allows some flow across the pressure pattern toward lower pressure. See the [Met Office explanation of wind flow](https://weather.metoffice.gov.uk/learn-about/weather/how-weather-works/high-and-low-pressure/wind-flow).
 
 
-%% Regional-model alignment: [[Green Sea Atmospheric Circulation]] and its seasonal figures retain the older Urskan summer high and Irrla-centered maritime high. This overview replaces those explanations with a dominant eastern subtropical ocean high, a secondary northeastern maritime ridge, the Cymean offshore trough, and a Great Desert heat low. Regional reconciliation follows review of this continental model. [[Trading in the Green Sea]] remains the authority for sailing requirements. %%
+%% Regional-model alignment, 3 October 2026: [[Green Sea Atmospheric Circulation]] and its seasonal figures now follow this continental pressure framework. Remaining physical weak points are recorded in that note and [[Climate and Weather Constraints]]. [[Trading in the Green Sea]] remains the authority for sailing requirements. %%
 
 ### Summer
 
@@ -364,6 +364,8 @@ Forested mountain belts pass from **C** climates into **D** climates, with **ET*
 
 ### Southern and distant regions
 
+Physical explanation: [[Southern Tropical and Desert Circulation]].
+
 Beyond the regional atlas groupings, tropical lowlands have warm conditions through the year, while the subtropical interior retains broad desert aridity. Drankor’s mainland jungle coast and Orekatu are separate tropical regions.
 
 #### Drankor and the southern jungles
@@ -396,7 +398,7 @@ On the continental basemap, small hexes measure 24 miles between opposite edges.
 This qualitative model combines adopted climatic constraints with broad geographic projections and locally identified magical possibilities. [[Climate and Weather Constraints]] supplies the retained climatic requirements and evidence limits.
 
 %% Source alignment:
-- The western circulation draws on [[Western Ocean and Coast Circulation]] and [[Dunmar and Nevos Circulation]]. The revised Green Sea explanation is distinguished from the older regional treatment in the seasonal overview above; its sailing requirements come from [[Trading in the Green Sea]]. Tropical and polar wind belts, and broad winter continental outflow, extend the physical model across the continent.
+- The western circulation draws on [[Western Ocean and Coast Circulation]] and [[Dunmar and Nevos Circulation]]. The reconciled regional Green Sea explanation is in [[Green Sea Atmospheric Circulation]]; its sailing requirements come from [[Trading in the Green Sea]]. Tropical and polar wind belts, and broad winter continental outflow, extend the physical model across the continent.
 - The archived [[Climate of the Northwestern Interior]] retains warmer-to-hotter summer and western Great Plains comparisons for Voltara and Erbalta. This model instead uses moderate summers and less severe ordinary winters. [[Chasa River Valley]] describes occasional inland frost; the lowland treatment here makes frost occasional and localized rather than a regular regional feature.
 - The archived [[Climate of the Green Sea Shores]] retains a Russian Far East/Sakhalin comparison and broadly short, cool summers for Ursk. This model gives inhabited Ursk a cold winter and meaningful summer warmth.
 - The Slate Sea coast, Yeraad basin, Illoria, Irrla, and Eastern Isles summaries extend the continental framework into less-developed areas. [[Climate and Weather Constraints]] defines the evidence limits, including the exclusions for Irrla and exceptional Eastern Isles weather.
