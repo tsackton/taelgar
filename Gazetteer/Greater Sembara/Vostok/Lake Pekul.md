@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
 displayDefaults: {defArt: ""}
+tags: [place]
+typeOf: lake
 campaignInfo:
 name: Lake Pekul
-typeOf: lake
-whereabouts: Vostok Plateau
 aliases: [Pekul]
+pronunciation: LAYK PEH-kool
+whereabouts: Vostok Plateau
 dm_owner: none
 dm_notes: none
 ---
 # Lake Pekul
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(LAYK PEH-kool)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+Lake Pekul is a high-altitude lake on the [[Vostok Plateau]], east of the [[Pekul Mountains]].
 
 %%
 Geographic clarification:
@@ -23,3 +27,7 @@ Geographic clarification:
 - Older metadata places Lake Pekul “on the [[Kem]],” but the map does not establish the Kem's upper course. This should be understood only as placing the lake within the wider Kem–[[Niva]] drainage system, not as confirmation that the lake lies directly on the reach locally called the Kem.
 - The streams entering and leaving the lake may have other, not-yet-established local names.
 %%
+
+%%^Metadata:names:v1%%
+- {name: Lake Pekul, language: Vosic, pronunciation: LAYK PEH-kool, status: documented, notes: "Pekul is Vosic; Lake is the Common descriptor."}
+%%^End%%
