@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Kenzo
-born:
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
-affiliations: [{org: Dunmar Fellowship, type: primary}]
+campaignInfo: []
+born: null
 gender: male
 player: David Kong
+name: Kenzo
+affiliations:
+  - {org: Dunmar Fellowship, type: primary}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: important
+POV: 1748
 ---
 # Kenzo
 >[!info]+ Biographical Info  
@@ -26,7 +31,7 @@ dm_notes: important
 
 > [!warning]- Kenzo's Backstory
 > 
-> Kenzo was born in [[Chardon]], the child of Dunmari immigrants. He has only fragmentary memories of the first years of his life -- flashes of his mother's smile, the smell of his father's hair. When he was five, his parents died, and he grew up on the streets, with only polished shard of [[Jade Piece of Rai's Hand]] passed down from his family to remember his parents by.
+> Kenzo was born in [[Chardon]], the child of Dunmari immigrants. He has only fragmentary memories of the first years of his life -- flashes of his mother's smile, the smell of his father's hair. When he was five, his parents died, and he grew up on the streets, with only a polished shard of [[Jade Piece of Rai's Hand]] passed down from his family to remember his parents by.
 > 
 > The next few years of his life were rough. Kenzo was different from most children -- not only was he Dunmari, and an orphan, but he had exceptionally vivid dreams. A few times a year, he would wake from sleep confused, totally convinced he had been teleported to some strange, silent place. Sometimes these were new, but a few always recurred: a forest, lush and vibrant, surrounded by high mountain peaks; an island, barren except for a single tall dark tower; a perfectly circular hill, covered in small white flowers, in the middle of a desert; an impossibly vast forest, stretching without end as far as the eye could see.
 > 
@@ -45,7 +50,7 @@ dm_notes: important
 > These are the images that frequently recur in Kenzo’s dreams:  
 > - a lush forest in autumn, leaves turning golden, surrounded by high peaks 
 > - an island, in the middle of an ocean, with nothing but a single tall dark tower standing on it 
-> - a tall green hill, perfectly round, with small white flowers growing on, surrounded by desert
+> - a tall green hill, perfectly round, with small white flowers growing on it, surrounded by desert
 > - a boat wracked by waves
 > - an impossible castle, floating in the air above an expansive patchwork of small farms and cities
 > - a vast, endless expanse of forest as far as the eye can see
@@ -65,11 +70,11 @@ dm_notes: important
 > 
 > [[Candrosa]] touches the staff to your forehead, and you feel yourself falling away from your body. The world turns faint and insubstantial around you, everything fading to mist except the staff and your [[Jade Piece of Rai's Hand]] amulet. A voice, in the distance: 'Remember the staff, remember your body, or you may not be able to find your way back.'
 > 
-> The amulet is pulsing with a bright green light, brief flashes of images streaming out of it with each beat, too fast for you to see. As the pace of the beats increase, the images start to stabilize, and you realize you are looking at a hand made of [[Jade Piece of Rai's Hand]], reaching out as if you take your hand. There is a deep gash down the palm, exactly as [[Candrosa]] described.
+> The amulet is pulsing with a bright green light, brief flashes of images streaming out of it with each beat, too fast for you to see. As the pace of the beats increases, the images start to stabilize, and you realize you are looking at a hand made of [[Jade Piece of Rai's Hand]], reaching out as if to take your hand. There is a deep gash down the palm, exactly as [[Candrosa]] described.
 > 
 > As you place your shard of [[Jade Piece of Rai's Hand]] in the gash, the hand feels warm to the touch, almost like a person. Grasping the hand, you feel yourself pulled through a vortex. You see a brief glimpse of a vast formless expanse, filled with pulsing, flashing, multicolored and vibrantly alive points of color, drifting across the space in impossible ways. For a moment this galaxy of lights assaults your senses and you are overwhelmed. Then a hand is guiding you, pushing you and drawing you in at the same time, until your vision shifts and you are standing on a flat colorless plain. Standing before you is a man, robed and hooded, holding a staff in one hand. His other hand, and seemingly part or all of his arm, is made of [[Jade Piece of Rai's Hand]].
 > 
-> He looks at you for a long moment, then in a movement so quick it seems like teleportation, he is standing directly in front of you, his [[Jade Piece of Rai's Hand]] hand moving towards, and then through, your forehead, as he says "Kenzo, open your eyes and see." You are knocked back, momentarily feeling as though your eyes are opening again, despite being open already, and see yourself and this man standing next to each other, both surrounded by a nimbus of light. This vision lasts for a moment, and then the man in front of you is shattered, split into many pieces, which are held in place for a brief moment and then begin to fly in all directions, visions flashing across your mind's eye too fast to understand. You feel yourself being draw back to your body, as if being pulled by a cord, faster and faster. As you return to your body, in that moment before you are fully conscious, the voice of the man echoes in your mind: "You are not alone. Seek the stories of the [[Order of the Awakened Soul]]." As your eyes open, you realize that you can still sense the energy of wherever you were, you can feel your mind's eye waiting for you to call upon it, and the force of the extraplanar power joining with your ki.
+> He looks at you for a long moment, then in a movement so quick it seems like teleportation, he is standing directly in front of you, his [[Jade Piece of Rai's Hand]] hand moving towards, and then through, your forehead, as he says "Kenzo, open your eyes and see." You are knocked back, momentarily feeling as though your eyes are opening again, despite being open already, and see yourself and this man standing next to each other, both surrounded by a nimbus of light. This vision lasts for a moment, and then the man in front of you is shattered, split into many pieces, which are held in place for a brief moment and then begin to fly in all directions, visions flashing across your mind's eye too fast to understand. You feel yourself being drawn back to your body, as if being pulled by a cord, faster and faster. As you return to your body, in that moment before you are fully conscious, the voice of the man echoes in your mind: "You are not alone. Seek the stories of the [[Order of the Awakened Soul]]." As your eyes open, you realize that you can still sense the energy of wherever you were, you can feel your mind's eye waiting for you to call upon it, and the force of the extraplanar power joining with your ki.
 
 > [!WARNING]- Private Discussion with Vola, Session 11
 > 
@@ -100,7 +105,7 @@ dm_notes: important
 > 
 > During the initiation ritual of the [[Bhishma]] mystai, as the story of [[Bhishma]] concludes and you agree to sacrifice yourself for [[Jeevali]], you feel your heart stop, the life fading from you. For a brief moment you see a vast expanse of space, a river flowing through it, the occasional essence of someone or something moving in the distance, some in clumps, some alone. After a timeless moment, something grasps your hand, you feel warmth, and realize that for some eternal time you had felt nothing at all. The presence whispers, "Will you come back with me?"
 > 
-> As you respond “yes”, the hand begins to pull you, and see the monastery growing larger as you take a step through time and space and find yourself stepping into your body. Behind you, you see [[Bhishma]] and [[Laka]] standing together
+> As you respond “yes”, the hand begins to pull you, and you see the monastery growing larger as you take a step through time and space and find yourself stepping into your body. Behind you, you see [[Bhishma]] and [[Laka]] standing together
 
 > [!warning]- Kenzo's Dream Staff Journey, Session 32
 > 
@@ -114,7 +119,7 @@ dm_notes: important
 > 
 > The dazzling array of stars begins to clear, and you are looking down at a dark jungle. It is night, there are no lights, no fires, no landmarks to mark where you are, except the sound of a waterfall somewhere below you.
 > 
-> As you drift above the dark jungle, the landscape begins to melt, the massive trees pouring away, leaving behind only shadowy echos of themselves. You are pulled down towards a river, wide and languid, as the tangled trees and vibrant growth of the forest below gives way to a great city.
+> As you drift above the dark jungle, the landscape begins to melt, the massive trees pouring away, leaving behind only shadowy echoes of themselves. You are pulled down towards a river, wide and languid, as the tangled trees and vibrant growth of the forest below gives way to a great city.
 > 
 > The city itself is ghostly, insubstantial. Everywhere are monumental buildings - huge domed palaces looming over the streets surrounding great courtyards, gardens of great beauty and splendor, plazas filled with fountains and art, grand apartments lining the streets. But whenever you look closer, or try towards a building, it fades, so it is hard to get more than a brief impression of the city as a place of monumental grandeur.
 > 
@@ -122,25 +127,25 @@ dm_notes: important
 > 
 > As you turn towards the first building, the circular domed building, your sense of time is distorted. The buildings are all intact, but ghostly and indistinct, devoid of people, and occasionally there are massive trees growing through the center of a building, coexisting with it, draped with vines and lush green plant life (but no animals). It does not feel like you are in one time, it feels like you are looking at many times at once. In any case, yes, you can fly.
 > 
-> As you head towards the first building, it grows more substantial while the surrounding buildings grow fainter As you approach, you start to see green growth cracking through the massive paving tiles of the plaza outside, vines and flowers. The building itself is maybe 150, 200 feet in diameter, with a large dome sparkling with silver and gold. The large doors on facing the plaza are open, casting sunbeams into a crowded room. No sound comes from within, but you can see 100 or more people, humans and some that look like they may be elves, praying. The interior of the building is new and bright, in contrast to the exterior which seems faded with time.
+> As you head towards the first building, it grows more substantial while the surrounding buildings grow fainter. As you approach, you start to see green growth cracking through the massive paving tiles of the plaza outside, vines and flowers. The building itself is maybe 150, 200 feet in diameter, with a large dome sparkling with silver and gold. The large doors facing the plaza are open, casting sunbeams into a crowded room. No sound comes from within, but you can see 100 or more people, humans and some that look like they may be elves, praying. The interior of the building is new and bright, in contrast to the exterior which seems faded with time.
 > 
-> As you enter, the people seem to part for you, but don’t otherwise acknowledge your presence. Once inside, you can here sounds of the prayer, but they sound as if they are coming from a long way away. You do recognize the prayer - it is a prayer of thanksgiving, an acknowledgment of miracles granted. This prayer is being offered to the [[Mos Numena|Eight Divines]], the same gods that are now worshipped in [[Chardon]]. The prayer, as you listen, seems to be describing the Fall of [[Hkar]], it seems to be a prayer of gratitude for the gods who saved the refugees of that disaster. As you listen more, the words splinter, become cacophonous. It is as if you are listening to 100 or more conversations at once. You catch glimpses, fragments, always of thanksgiving: for victories in battle, for the crowning of emperors, for the magic of the gods and arcane magic learned by great effort, occasionally for a birth or marriage. The form of the interior of this temple, apparently, also shifts. First, just a plain room, but then statues appear. First, of the [[Mos Numena|eight divines]], large, arranged in a semicircle at the front of the temple. Then, humans, tombs or monuments to deceased emperors. Over time the whispers and the people begin to fade away, the space starting to empty out.
+> As you enter, the people seem to part for you, but don’t otherwise acknowledge your presence. Once inside, you can hear sounds of the prayer, but they sound as if they are coming from a long way away. You do recognize the prayer - it is a prayer of thanksgiving, an acknowledgment of miracles granted. This prayer is being offered to the [[Mos Numena|Eight Divines]], the same gods that are now worshipped in [[Chardon]]. The prayer, as you listen, seems to be describing the Fall of [[Hkar]], it seems to be a prayer of gratitude for the gods who saved the refugees of that disaster. As you listen more, the words splinter, become cacophonous. It is as if you are listening to 100 or more conversations at once. You catch glimpses, fragments, always of thanksgiving: for victories in battle, for the crowning of emperors, for the magic of the gods and arcane magic learned by great effort, occasionally for a birth or marriage. The form of the interior of this temple, apparently, also shifts. First, just a plain room, but then statues appear. First, of the [[Mos Numena|eight divines]], large, arranged in a semicircle at the front of the temple. Then, humans, tombs or monuments to deceased emperors. Over time the whispers and the people begin to fade away, the space starting to empty out.
 > 
-> You join in the prayer, sensing in the process that this place is somehow, at least in the [[Dreamworld]], the center of Drankor, physically and metaphysically. As you pray, most of the people fade away. Eventually, all that is left is robed figure, elf-like in appearance but not quite an elf, striding with purpose across the room. The interior is now an elaborate display — statues, altars, tombs, even what seem to magically floating crystal torches casting multi-colored firelight. The robed elf approaches the central altar, and kneels, head bowed, praying softly, words indistinct.
+> You join in the prayer, sensing in the process that this place is somehow, at least in the [[Dreamworld]], the center of Drankor, physically and metaphysically. As you pray, most of the people fade away. Eventually, all that is left is a robed figure, elf-like in appearance but not quite an elf, striding with purpose across the room. The interior is now an elaborate display — statues, altars, tombs, even what seem to be magically floating crystal torches casting multi-colored firelight. The robed elf approaches the central altar, and kneels, head bowed, praying softly, words indistinct.
 > 
 > He begins to grow, then, taller and taller, as the walls of this building become insubstantial, and you see stepping out of the jungle another massive ghostly figure, human, Drankorian in features. The two of them face off, staring at each other. As they do, you can see echoes of other people in each of them, as of as they grow they are not just themselves. 
 > 
-> You sense that both of their auras are incredibly complex. It actually feels like you are not looking at a single person, but tens or hundreds all smooshed together, layered in top. From the elf-ish creature, you get a hint of a deep joy in the secrets of the world, the thrill of knowledge, the sensation of being at the moment of unlocking hidden meaning in the universe. From the human, a sense of order, or purity, of deep, abiding faith in the nobility of Drankor, the noble purpose of the empire, and especially the lost land of [[Hkar]], the pure and free homeland of humanity where they could be their best selves. As they turn to face each other, you feel a wind come up, and in their auras you feel the burning hatred these two creatures have for each other.
+> You sense that both of their auras are incredibly complex. It actually feels like you are not looking at a single person, but tens or hundreds all smooshed together, layered on top. From the elf-ish creature, you get a hint of a deep joy in the secrets of the world, the thrill of knowledge, the sensation of being at the moment of unlocking hidden meaning in the universe. From the human, a sense of order, or purity, of deep, abiding faith in the nobility of Drankor, the noble purpose of the empire, and especially the lost land of [[Hkar]], the pure and free homeland of humanity where they could be their best selves. As they turn to face each other, you feel a wind come up, and in their auras you feel the burning hatred these two creatures have for each other.
 > 
-> The first creature, the human, goes to strike. As it swings, you see echoing in its body, what seem like generations, people reflected in its ghostly form, marching into the past. The second creature, the elf-ish one, raises his hand and a light flares. In the light you can see burning bright the forms of others, also what seem like generations. Standing in the light that forms the shield is the figure of [[Rai]]. As the blow hits, you can see there are five holes in this shield of light, five points where there is a gap in the defense. You can start to here voices, echos of sounds from both figure. From the human, a group standing together, mages all, chanting "[[Omnis Pura]], [[Omnis Pura]]," while tendrils of blue light begin to reach around the shield, hissing noises from them as they try to bury into the elvish form, try to reach behind it to what it is protecting, which you see now is a massive crowd of ghosts, all shapes and sizes and races, but no Drankorians.
+> The first creature, the human, goes to strike. As it swings, you see echoing in its body, what seem like generations, people reflected in its ghostly form, marching into the past. The second creature, the elf-ish one, raises his hand and a light flares. In the light you can see burning bright the forms of others, also what seem like generations. Standing in the light that forms the shield is the figure of [[Rai]]. As the blow hits, you can see there are five holes in this shield of light, five points where there is a gap in the defense. You can start to hear voices, echoes of sounds from both figures. From the human, a group standing together, mages all, chanting "[[Omnis Pura]], [[Omnis Pura]]," while tendrils of blue light begin to reach around the shield, hissing noises from them as they try to bury into the elvish form, try to reach behind it to what it is protecting, which you see now is a massive crowd of ghosts, all shapes and sizes and races, but no Drankorians.
 > 
-> One of the tendrils of blue light reaches for you, and suddenly both figures notice you. They tower above you, at least 20 feet tall. As both figures look down at you, you see them for a moment not as giants, but as strands of history, threads of [[Drankor]]. As the blue tendrils reaches you, you feel a burning sensation, but rapidly it cools, feels almost like a gentle, relaxing breeze. You see the line of your ancestors going back to [[Hkar]], the human figure pleased for a moment, until [[Rai]] grows, filling the form of the elvish figure, and leaps, crying “This one is not for you!” as the blue white tendrils of light shatters against [[Rai]].
+> One of the tendrils of blue light reaches for you, and suddenly both figures notice you. They tower above you, at least 20 feet tall. As both figures look down at you, you see them for a moment not as giants, but as strands of history, threads of [[Drankor]]. As the blue tendrils reach you, you feel a burning sensation, but rapidly it cools, feels almost like a gentle, relaxing breeze. You see the line of your ancestors going back to [[Hkar]], the human figure pleased for a moment, until [[Rai]] grows, filling the form of the elvish figure, and leaps, crying “This one is not for you!” as the blue white tendrils of light shatter against [[Rai]].
 > 
-> You can feel the [[Jade Piece of Rai's Hand]] growing heavy on your neck, and see battle after battle: always [[Rai]], or someone looking like him, rising up in battle against this human giant. The [[Jade Piece of Rai's Hand]] is definitely drawn to [[Rai]], not the human figure. And, in every battle, the human figure remains you of the things you don’t like about [[Chardon]], and the [[Rai]] figure reminds you of [[Kaeso]].
+> You can feel the [[Jade Piece of Rai's Hand]] growing heavy on your neck, and see battle after battle: always [[Rai]], or someone looking like him, rising up in battle against this human giant. The [[Jade Piece of Rai's Hand]] is definitely drawn to [[Rai]], not the human figure. And, in every battle, the human figure reminds you of the things you don’t like about [[Chardon]], and the [[Rai]] figure reminds you of [[Kaeso]].
 > 
 > Time speeds up, and you see the temple room you are in fall into ruin, fall into decay. The statues crumble. The giant forms shrink, collapsing on themselves. First the human, then the elf/[[Rai]], but the human falls harder, faster. As the [[Rai]]/elf figure falls, he throws out a hand, and grabs the floor of the temple, stopping himself from falling away to nothing. He has shrunk now, to a normal size, and pulls himself to standing, in the center of the temple, looking at you.
 > 
-> You pause for a moment, feel intently into the [[Jade Piece of Rai's Hand]] and into this figure in front of you, seeing how your aura connects with the [[Jade Piece of Rai's Hand]] and with [[Rai]]. As you do, you feel almost in the way that the [[Rai]] figure is claiming you. This figure is not just [[Rai]], but somehow a thread of people, connected by a common history, or aura, in some way. The [[Jade Piece of Rai's Hand]], itself, seems to be part of this history. It is a history, an aura that reminds of you [[Kaeso]], most closely, but also the ghost of [[Karmana]], and [[Rishi]].
+> You pause for a moment, feel intently into the [[Jade Piece of Rai's Hand]] and into this figure in front of you, seeing how your aura connects with the [[Jade Piece of Rai's Hand]] and with [[Rai]]. As you do, you feel almost in the way that the [[Rai]] figure is claiming you. This figure is not just [[Rai]], but somehow a thread of people, connected by a common history, or aura, in some way. The [[Jade Piece of Rai's Hand]], itself, seems to be part of this history. It is a history, an aura that reminds you of [[Kaeso]], most closely, but also the ghost of [[Karmana]], and [[Rishi]].
 > 
 > As you contemplate auras, the [[Rai|]]/elf figure raises his hand, which you see is now [[Jade Piece of Rai's Hand]], and a pale green light begins to expand from this temple, twisting and encapsulating the human form that fell. The greenish light pulses slowly, almost forming a shield or a barrier.
 > 
@@ -150,7 +155,7 @@ dm_notes: important
 > 
 > As your vision clears, you speak, asking him, "This stone -- I believe it to be a part of you. Where are you now? Can I reunite this piece for you?"
 > 
-> The figure holds up his hand, which you is made of [[Jade Piece of Rai's Hand]]. As you watch, it slowly shatters into five pieces, which drift apart, one fading and merging with the stone in your hand. [[Rai]] watches, in fascination: “This has not happened yet. You bring a vision of a future yet to occur."
+> The figure holds up his hand, which you see is made of [[Jade Piece of Rai's Hand]]. As you watch, it slowly shatters into five pieces, which drift apart, one fading and merging with the stone in your hand. [[Rai]] watches, in fascination: “This has not happened yet. You bring a vision of a future yet to occur."
 > 
 > “I do not know where I am, in your time, in the time after this. In this now, I am here, in this place, in this same place in all the echo realms, at the heart of [[Drankor]], watching.”
 > 
@@ -180,7 +185,7 @@ dm_notes: important
 > 
 > Kenzo: “[[Chardon]]. I fear in my time they are corrupted, they seek magic, they seek power.”
 > 
-> [[Rai]]: “[[Drankor]] was for so many years much more than that, it was a beacon of hope, it was a place where humans could be safe and protected from the evils of the world, where demons could be turned away at the gates. [[Chardon]] was once this too, [[Chardon]] was a becon of hope in my lifetime.”
+> [[Rai]]: “[[Drankor]] was for so many years much more than that, it was a beacon of hope, it was a place where humans could be safe and protected from the evils of the world, where demons could be turned away at the gates. [[Chardon]] was once this too, [[Chardon]] was a beacon of hope in my lifetime.”
 > 
 > Kenzo: “Not in my time.”
 > 
@@ -202,7 +207,7 @@ dm_notes: important
 > 
 > In the lizardfolk kingdom of [[Orekatu]], Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named [[Elazar]]. 
 > 
-> The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [[Plane of Souls]], which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar has other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [[Plane of Magic]]. 
+> The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [[Plane of Souls]], which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar have other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [[Plane of Magic]]. 
 > 
 > [[Elazar]] taught Kenzo about the following plants and the kinds of ki they can channel: 
 > 
@@ -210,7 +215,7 @@ dm_notes: important
 > 
 > ![[amezza-painting.jpg|400]]
 > 
-> Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]] (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [[Plane of Souls]] and the [[Dreamworld]], from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
+> Hutsu: Hutsu is the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]] (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [[Plane of Souls]] and the [[Dreamworld]], from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
 > 
 > ![[hutsu-painting.png|400]]
 > 
@@ -218,11 +223,11 @@ dm_notes: important
 > 
 > ![[ohana-painting.jpg|400]]
 > 
-> Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, frequently cultivated by lizardfolk communities for its beauty and also as food (the tubers are highly nutritious and are made into a starch used to make a variety of things). When grown in places of great peace and beauty, especially places cultivated and tended, urtaro flowers sometimes develop a connection to the outer plans of order and beauty, especially Celestia. The flowers become infused with urtaro, also known as solid ki or permanence ki, thought of as the energy of solid things, the bones, the mountains, the earth, the permanent structures on which life can grow and thrive. 
+> Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, frequently cultivated by lizardfolk communities for its beauty and also as food (the tubers are highly nutritious and are made into a starch used to make a variety of things). When grown in places of great peace and beauty, especially places cultivated and tended, urtaro flowers sometimes develop a connection to the outer planes of order and beauty, especially Celestia. The flowers become infused with urtaro, also known as solid ki or permanence ki, thought of as the energy of solid things, the bones, the mountains, the earth, the permanent structures on which life can grow and thrive. 
 > 
 > ![[urtaro-painting.png|400]]
 > 
-> To the lizardfolk, arima is the magical energy of the [[Plane of Souls]], and it is balanced between amezza and hutsu, the energy of the soul which balances the dynamism of amezza and the stillness of hutsu, and ohana and urtaro, the energy of life itself, which balances the dynamism of ohana and the stillness of urtaro. Amezza and hutsu, the “lesser” magics, draw from the “close” spirit realms, the [[Dreamworld]] and the [[Land of the Dead]]; the “greater” magics, urtaro and ohana, draw from the “far” spirit realms beyond the veil of the [[Land of the Dead]], where the divine forces dwell that breath life into the world. 
+> To the lizardfolk, arima is the magical energy of the [[Plane of Souls]], and it is balanced between amezza and hutsu, the energy of the soul which balances the dynamism of amezza and the stillness of hutsu, and ohana and urtaro, the energy of life itself, which balances the dynamism of ohana and the stillness of urtaro. Amezza and hutsu, the “lesser” magics, draw from the “close” spirit realms, the [[Dreamworld]] and the [[Land of the Dead]]; the “greater” magics, urtaro and ohana, draw from the “far” spirit realms beyond the veil of the [[Land of the Dead]], where the divine forces dwell that breathe life into the world. 
 > 
 > The lizardfolk acknowledge the existence of darker energies, especially arokatu, a corruption that grows where the power of the [[Abyss]] is strong, a darkness that spreads and destroys what it touches, and yet contains great power for those that dare to collect it instead of destroy it. One can draw ki from arokatu, especially from the slime rot that tends to accumulate, but it is dangerous and risky.
 
@@ -241,7 +246,7 @@ dm_notes: important
 > 
 > I received your letter from [[Arendum]] two days ago, as I write this. I know not who else received your news, of your suspicions of [[Fausto]] and the unprovoked attack on you while conducting business with him. But somehow news of you and your contact with people in [[Chardon]] has reached [[Fausto]], for yesterday a bounty of a considerable sum on you, for “the capture or death of thieves and scoundrels who would besmirch the good name of honest scholars”, was announced by the [[Society of the Open Scroll]]. And I have received word from a trusted source that I am to be brought before [[Fausto]] and questioned in the morning, for my role in “encouraging libel against the [[Society of the Open Scroll]] and thief from its members.” 
 > 
-> Rather that expose myself to [[Fausto]]’s tender mercies, I will leave the city today. I have friends outside the empire, in safe places to the north. I cannot say more, in case this letter is intercepted. 
+> Rather than expose myself to [[Fausto]]’s tender mercies, I will leave the city today. I have friends outside the empire, in safe places to the north. I cannot say more, in case this letter is intercepted. 
 > 
 > There are many among the scholars and Faculty who want no part in this; indeed there are some who were willing to take the risk of warning me and may face consequences (minor, I hope), when I am discovered to be gone. But none are willing to stand to speak against [[Fausto]], as he has deep pockets, and key allies who have made sure to position themselves in critical places in the chalyte trade, upon which much depends, including the power and might of the Magistros himself. 
 > 
@@ -256,3 +261,35 @@ dm_notes: important
 
 ^21d014
 
+%%^Metadata:names:v1%%
+- {name: Kenzo, language: unknown, pronunciation: KEN-zoh, notes: "Cautious spelling-based proposal: short e, voiced z, final oh, with first-syllable stress. No recorded pronunciation or name-language attribution was found; Dunmari ancestry alone does not establish the name's language.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 character dossier combining childhood and Lakan training with selected early-campaign experiences; it does not yet incorporate the later spiritual, teaching, and civic roles established in DR 1749.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `knownTo: [dufr]` from the documented campaign participation and recorded the existing dossier’s DR 1748 viewpoint in `POV` and `povNotes`.
+- Added a primary name entry with unknown language and a proposed pronunciation.
+- Corrected 25 objective spelling, punctuation, and grammar defects in the existing passages, preserving their narrative and dialogue form.
+- Normalized frontmatter field order and affiliation-list formatting.
+
+### Validated judgments
+- The retained backstory, quoted encounters, visions, and letter are source material with their own voices; no general reference-voice rewrite is warranted.
+- `dm_owner: player` places the external DM-attestation review outside this vault’s applicable local-owner gate; the human attestation is preserved.
+
+### Editorial assessment
+**Underdeveloped**: the early-campaign dossier lacks Kenzo’s later teaching role, the resolution of his jade-hand quest and work restoring Isingue, his civic role in Chardon, and his stated commitments at the campaign’s close. The missing dimensions are established in played records; a short later-life account is sufficient.
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** The account stops with early-campaign experiences, before defining spiritual achievements and relationships. [[Session 89 (DuFr)]] establishes Amil becoming Kenzo’s apprentice; [[dunmari-frontier-135-session-recap]] records the return of Rai’s assembled hand, and [[dunmari-frontier-138-session-recap]] records Kenzo shattering the corrupted core and restoring the Heartroot. These materially change the DR 1748 portrait. Choose whether to update the account and `POV`, defer with the appropriate game-update status, or intentionally preserve the earlier portrait. Copy-ready later account: `By DR 1749, Kenzo had taken [[Amil]] as his apprentice. In [[Limbo]], he returned the assembled jade hand to [[Rai]], completing the quest begun with the fragment he had carried since childhood. At [[Isingue]], he shattered the corrupted fragment of Limbo sustaining the ooze and helped return the [[Heartroot]] to its cistern, where it began cleansing the waters.` The recap’s inferred September 19 restoration date and tentative October endpoint should not become exact biographical dates without review.
+- [ ] **Warning — coverage.later_material_change:** Kenzo’s formative account of leaving Chardon is not followed by his important return as a civic reformer. [[Session 129 (DuFr)]] establishes his land grant and work securing worker representation; [[dunmar-frontier-139-session-recap]] records his remaining commitments as the companions prepare to part. Add a bounded account if adopting the later POV: `In July DR 1749, the [[Mitus Verina Auratan|Magistros]] granted Kenzo ruined properties in the [[Ragwater Basin]] and [[Riverside Quarter]]. Kenzo helped establish the [[Chalyte Refining Corporation]], securing equal board representation for the [[Guild of Chalyte Workers]] and [[Windcallers]], and began planning the recovery of the community where he had grown up. As the fellowship prepared to part, he intended to keep watch on Chardon, help [[Kazuro]] find an apprentice and establish a monastery in [[Apporia]], and continue preserving stories.` Keep the last sentence as intentions, not completed achievements; the farewell’s exact November 3 date is provisional. The same update/defer/preserve decision applies. If retaining the 1748 frame while adding the civic passage, a human may wrap only its July 1749 sentences in `%%^Date:1749-07-09%%` … `%%^End%%`; do not give the later, provisionally dated intentions that July boundary.
+- [ ] **Warning — metadata.names_unresolved_status:** `KEN-zoh` remains proposed in the name block. It is a cautious reading of the spelling, with short e, voiced z, final oh, and first-syllable stress; no attested pronunciation or name-language attribution was found. Dunmari ancestry does not by itself establish the name’s language, so the packet’s Dunmari language analogue is not assigned to this name. Confirm or replace the proposal before accepting it as frontmatter pronunciation.
+- [ ] **Suggestion — editorial.prose_clarity:** The Session 5 and Session 32 visions repeatedly use the full artifact title as though it meant the material jade, producing phrases such as `a [[Jade Piece of Rai's Hand]] hand`, `a hand made of [[Jade Piece of Rai's Hand]]`, and `His other hand, and seemingly part or all of his arm, is made of [[Jade Piece of Rai's Hand]]`. This also causes the three deterministic “hand hand” findings. Review these bounded passages and use material wording where the vision describes a jade body, retaining artifact links for the actual fragment; copy-ready forms include `a jade hand`, `a hand made of jade`, and `His other hand, and seemingly part or all of his arm, is made of jade.` Keep `[[Jade Piece of Rai's Hand|jade fragment]]` for the object Kenzo carries. Also repair the two damaged Session 32 clauses after confirming the intended motion and perception: `or try towards a building` → `or try to move towards a building`; `as of as they grow they are not just themselves` → `as if, as they grow, they are not just themselves`.
+- [ ] **Warning — source.attribution_conflict:** The letter callout says “Letter from Kaeso to Kenzo, Session 61,” while its inner heading links [[Session 67 (DuFr)]]. These are conflicting source labels, distinct from the letter’s written date of September 10, 1748. Confirm the delivery/session attribution and align both headings. If it cannot yet be confirmed, a neutral copy-ready pair is `> [!warning]- Letter from Kaeso to Kenzo` and `> #### Letter from [[Kaeso]] to Kenzo`; preserve the written date and letter text.
+%%^End%%

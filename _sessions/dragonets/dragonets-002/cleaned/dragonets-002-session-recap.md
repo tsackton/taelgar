@@ -69,7 +69,7 @@ Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, waki
 Soon after waking, hungry and looking for breakfast, the dragonets leave the Wanderer's hand to visit an ancient food machine that just started working, and responds to their music and thoughts, though not always how they hope or expect. They are busy discussing how to turn its increasingly improbable creations into restaurant plans while Ilse arrives and summons to speak with Shaman Oru.
 
 #### Long
-Soon after waking, hunger and talk of breakfast and possibly opening restaurant soon drive the dragonets to consider leaving the Wanderer's hand in search of food. Grandpa Jim the Cloud, an old acquaintance of Tony's with strong opinions about his usefulness, reports quite strange things across the island: all the statue eyes opening, illuminated roads, and newly active fountains and food machines. Excited by the thought of food, the friends follow the pilgrimage road to a crowd around one of the old machines. Xena is there, prompting Heska to hide; and Tony's cousin Paulie is also there, who reports that last night, Joey imagined salted salmon and the machine made what he imagined!  Zeno, excited, harmonizes with the machine's hum until steam and a waterwheel begin moving, then imagines fish inside fish inside fish. Out comes a raw bluefin with smaller fish and a raw potato inside it -- close enough for Zeno to consume hungrily, while Little Tony senses the machine's delight in having a purpose again.
+Soon after waking, hunger and talk of breakfast and possibly opening restaurant soon drive the dragonets to consider leaving the Wanderer's hand in search of food. Grandpa Jim the Cloud, an old acquaintance of Tony's with strong opinions about his usefulness, reports quite strange things across the island: all the statue eyes opening, illuminated roads, and newly active fountains and food machines. Excited by the thought of food, the friends follow the pilgrimage road to a crowd around one of the old machines. Xena is there, prompting Heska to hide; and Tony's cousin Paulie is also there, who reports that last night, Joey imagined salted salmon and the machine made what he imagined!  Zeno, excited, harmonizes with the machine's hum until steam and a waterwheel begin moving, then imagines fish inside fish inside fish. Out comes a raw bluefin with smaller fish and a raw potato inside it -- close enough to his intention for Zeno to consume hungrily, while Little Tony senses the machine's delight in having a purpose again.
 
 Heska uses an invisible Mage Hand to sample the unfamiliar food, curious and tempted but still hiding Zena. In a fit of mischief, he drops a stringy portion of strange food onto one of Xena's fans, provoking a squabble. Meanwhile, Sculpit gathers samples with an Unseen Servant. Little Tony, wanting to see what the machine can do, calls the group over, and proposes that everyone imagine the same food, ideally the best food. Everyone, of course, choses something different. The machine manages to respond with a cacophony of food-like substances: metal spaghetti-like strands, potatoes full of fish, and tuna bones studded with clams. Little Tony considers this a great success: the restaurant will serve food on sticks, with swing seating and swing music. 
 
@@ -104,16 +104,16 @@ Shortly after, Ilse interrupts with questions and a summons from Oru, then rever
 - Image 2 Alt: Four dragonets approach an enormous mechanical eye framed in angular brass and stone.
 
 #### Short
-Arriving at the temple grounds, the group speaks with Oru, who connects their account of the egg with the island's awakenings. The conversation is interrupted when Roska arrives with news that the Wanderer's eye is open again, and the group departs to investigate. 
+Arriving at the temple grounds, the group speaks with Oru, who connects their account of the egg with the island's awakenings. The conversation is interrupted when Roska arrives with news that the Wanderer's eye is open again, and the group departs to investigate. When they arrive at the Wanderer statue, the four friends and Roska enter through the open iris of the Wanderer's eye. 
 
 #### Long
 Arriving at the temple grounds, Oru welcomes the four friends into his tent, with warmth and friendship, having known them all since childhood. Oru speaks, asking the group about the strangeness occurring across the island. When Zeno describes the food machine's musical resonances, the shaman produces a round artifact of shiny material and tiny moving parts, found in the temple. It started clicking last night, he says, and it grows louder and louder near Zeno. Interesting, but strange, and its purpose remains a mystery. 
 
-Between chatter about breakfast, restaurant proposals, and the strange events of the morning, the friends finally tell Oru, in bits and pieces, about the  egg and their [[The Shared Vision of Home|vision]] of the dying purple dragonet beneath a red sky. Oru, in turn, tells the group about reports of the island coming  describes a moment late in the festival evening when reports of awakening mechanisms arrived from across the island, including the Wanderer's eyes and a third eye appearing on the Sibyl. Their presence now seems to make dormant things respond again. Oru, who once ran a restaurant himself, remains interested in the business idea, but Roska bursts in with a more immediate development: the Wanderer's eye is open again.
+Between chatter about breakfast, restaurant proposals, and the strange events of the morning, the friends finally tell Oru, in bits and pieces, about the  egg and their [[The Shared Vision of Home|vision]] of the dying purple dragonet beneath a red sky. Oru, in turn, tells the group about reports of the island coming awake, seemingly somehow associated with the groups visions and dreams. The conversation, which begins to turn back to restaurants, is interrupted when Roska bursts in with a more immediate development: the Wanderer's eye is open again.
 
-They fly back together, and the mechanical iris tracks their approach. Oru admits that nobody understands what is happening, but believes the four friends have a part in it. Tony addresses the usually silent statue, senses great peace, and hears one deep word: 'Come.' The iris opens as he approaches. Sculpit teleports through; Heska and Zeno fly cleanly into the opening, followed by Roska. Oru stays outside and calls for a report. With help from Zeno's encouragement, Tony makes it through last after brushing the edge, and the iris shuts behind all five.
+The dragonets, including Roska and Oru, fly back together. Oru admits that nobody understands what is happening, but believes the four friends have a part in it. Standing in wonder, the group considers what to do. Little Tony talks to the usually silent statue, hearing one deep word: 'Come.' The iris opens as he approaches. Sculpit teleports through; Heska and Zeno fly cleanly into the opening, followed by Roska, while Oru, sensibly, remains outside. With help from Zeno hyping him up, Little Tony dives through last, just missing the edge of th eye, and the iris shuts behind all five dragonets. 
 
-### recap-004 | Inside the Wanderer
+### recap-004 | Inside the Wanderer Statue
 
 - Kind: combat
 - Beat IDs: beat-006b, beat-007
@@ -142,15 +142,12 @@ They fly back together, and the mechanical iris tracks their approach. Oru admit
 - Image 2 Alt: Five dragonets face four monumental seated guardians in a chamber of brass, blue light and towering machinery.
 
 #### Short
-Inside, their heightened powers return as four guardian statues attack Roska, forcing them to use fog, music, and protective magic until Sculpit teleports him to safety and the attack stops.
-
-#### Intermediate
-Beyond the iris, a spiraling shaft lights and hums around them, restoring the power they felt from the egg and allowing Tony to speak telepathically with his friends. Four immense guardian statues wait below. Tony hears warnings of an intruder, and their red eye beams strike Roska. Heska covers one guardian's head with Fog Cloud while Zeno draws a guardian into a musical call-and-response, aided by Sculpit's Silvery Barbs. Tony persuades the wounded Roska to retreat and carries him upward, but they remain exposed. Heska conceals them in fresh fog, and Sculpit's Cutting Words turns aside a beam aimed at Tony. Sculpit then carries Roska outside with Dimension Door and returns alone; the guardians' eyes turn blue and their lasers cease.
+Inside the Wanderer statue, the group descends a long way to a chamber protected by four statues, who attack, focusing their ire on Roska. The friend's heightened powers return, and they use fog, music, and protective magic to keep Roska alive until Sculpit teleports him to safety and the attack stops.
 
 #### Long
-Beyond the closed iris lies a spiraling shaft of machinery unlike anything the dragonets know. Lights brighten as they descend, and Zeno hears the food machine's resonance multiplied into a mechanical chorus. The sacred strength they felt after embracing the egg returns: Heska's senses sharpen, Sculpit's turbulent magic steadies, and Tony discovers that he and his friends can speak mind to mind. Four enormous guardian statues sit below them. As the group approaches, Tony hears 'Defend,' 'Safe,' and 'Intruder,' and tries to introduce them as friends. The guardians answer with red beams from their eyes, targeting Roska.
+Beyond the closed iris lies a spiraling shaft of machinery unlike anything the dragonets know. Lights brighten as they descend, and the sacred strength the four friends felt after embracing the egg returns. At the bottom of the shaft, four enormous guardian statues stand, waiting. As the group approaches, Little Tony hears 'Defend,' 'Safe,' and 'Intruder,' in his mind. Though he tries to introduce the group as friends, the guardians answer with red beams from their eyes, targeting Roska.
 
-Heska casts Fog Cloud over one guardian's head while Tony seeks help understanding the warnings from his seagull familiar, Glenda. Roska is badly wounded. Zeno starts a 'swing' and 'stick' call-and-response; when a guardian resists, Sculpit's Silvery Barbs gives the performance another chance, drawing it into the exchange. After Roska's sword attack fails to connect, Tony persuades him to leave and hauls him upward, but they are still within range. Recognizing whom the guardians are targeting, Heska recasts Fog Cloud around the two of them. A beam still threatens Tony until Sculpit's Cutting Words spoils the shot. Sculpit finally uses Dimension Door to take Roska outside, then flies back through the iris as it reopens for him. With Roska gone, the guardians stop firing and their eyes turn blue. Zeno keeps their musical exchange going.
+Heska casts Fog Cloud over one guardian's head while Little Tony seeks help understanding the warnings from his seagull familiar, Glenda. Meanwhile, laser beams strike Roska, who is badly wounded. In an attempt to distract the guardians, Zeno starts a 'swing' and 'stick' call-and-response; when a guardian resists, Sculpit's Silvery Barbs gives the performance another chance, drawing the guardian into the exchange. After Roska's sword attack fails to connect, Little Tony persuades him to leave and hauls him upward, but not yet to safety. Recognizing Roska as the target of the guardian's ire,  Heska recasts Fog Cloud, hiding Little Tony and Roska from sight. Finally, Sculpit teleports Roska to safety outside, then returns. With Roska gone, the guardians stop firing and their eyes turn blue, waiting. 
 
 ### recap-005 | The Wanderer's Heart Awakens
 
@@ -168,53 +165,20 @@ Heska casts Fog Cloud over one guardian's head while Tony seeks help understandi
 - Image: dragonets-02-control-room.webp
 - Image Role: hero
 - Image Size:
-- Image Placement: start
+- Image Placement: end
 - Image Render:
 - Image Caption: Eight seats await in the Wanderer’s heart.
 - Image Alt: Eight empty control seats encircle an amber armillary, with four stations glowing orange, blue, green and violet.
 
 #### Short
-Welcomed farther inside, the four settle into seats in the Wanderer's heart and awaken the statue, while unseen observers beyond the storm detect four signatures they identify as Firstborn.
-
-#### Intermediate
-With the danger past, the guardians welcome them up musical stairs to a chamber containing eight seats that fit dragonets perfectly. Each friend is drawn to one and feels profoundly at home. Heska imagines the statue catching and cooking fish, then walking toward the storm; Zeno joins the idea, Tony favors an amble into the sea, and Sculpit urges peace and staying put. As three of them picture movement, the machinery brightens and the chamber pulses like a heart. Across the island, dragonets watch blue light shine from the Wanderer's eyes and its seams glow. Beyond the storm, unseen by the friends, two humanoids aboard a hovering vessel examine divine energy signatures, speak of a resistance, and recognize four unmistakable signs of Firstborn.
+With the guardians resting peacefully now, the four friends proceed further inside, where they settle into seats in the Wanderer's heart and awaken the statue. In the distance, beyond the storm that protects the Circular Island, two unseen observers in a strange flying ship detect four unmistakable energy signatures: Firstborn.
 
 #### Long
-The guardians now greet them peacefully, and Heska starts up a staircase whose steps ring with musical resonance. He calls Zeno over, and the four climb into what they take to be the Wanderer's heart. Eight seats stand in a circle. Unlike the larger structures around them, these fit dragonets perfectly, and each friend feels drawn to one as though returning to a favorite chair at home. Zeno drifts toward sleep; Sculpit seeks the familiar peace of the palm; Tony imagines finding Glenda a healthier romance, complete with a seagull wedding. Heska pictures the Wanderer scooping up fish and grilling them with its eyes.
+The guardians now greet them peacefully, and Heska, curious, starts up a staircase whose steps ring with musical resonance. He calls Zeno over, and the four climb into what they take to be the Wanderer's heart. Eight seats stand in a circle. Unlike the larger structures around them, these fit dragonets perfectly, and each friend feels drawn to one as though returning to a favorite chair at home. 
 
-The room shudders and the machinery begins to stir. Heska's next thought is to walk toward the storm, a suggestion shared through their new telepathic connection. Zeno supports it, Tony imagines an amble into the sea, and Sculpit sends calming thoughts, protesting that they should stay on the island. With three of them imagining motion, the humming builds and lights flare around all eight seats. The chamber pulses like a beating heart. Outside, both eyes shine blue and light runs through seams in what had seemed solid stone, leaving the island staring at the awakened Wanderer.
+As the four dragonets sit, the room shudders. The machinery begins to stir. Heska's next thought is to walk toward the storm, a suggestion shared through their new telepathic connection and echoed by Zeno and Little Tony, though not Sculpit. The humming builds and lights flare around all eight seats. The chamber pulses like a beating heart. Outside, both eyes shine blue and light runs through seams in what had seemed solid stone, leaving the island staring at the awakened Wanderer.
 
-Far beyond their sight, past the storm, a vessel hovers in the sky. Two unidentified humanoids study a device alive with shifting, psychedelic lights. One is in tears after a long search; they can scarcely believe the divine energy signatures before them and speak of what the discovery will mean for the resistance. Four signatures, in particular, seem unmistakable. Their conclusion is a single word: 'Firstborn.'
-
-### recap-006 | After the Session (out of game)
-
-- Kind: beat
-- Beat IDs: beat-010
-- Date: unknown
-- Time: unknown
-- Source Range: u2504 -> u2659
-- Polished Transcript: beat-transcripts/dragonets-002-recap-006-transcript.md
-- Locations: none
-- NPCs: none
-- Organizations: none
-- Items: none
-- Enemies: none
-- Image:
-- Image Role:
-- Image Size:
-- Image Placement:
-- Image Render:
-- Image Caption:
-- Image Alt:
-
-#### Short
-After play ends, the group arranges its next meeting, and the DM later clarifies to Tim that the four dragonets are the Firstborn indicated by the reveal.
-
-#### Intermediate
-After play ends, the group confirms the next meeting, discusses an image reference, and says goodbye. In a later conversation with Tim, the DM explains that the Firstborn reference concerns the four dragonet characters, rather than the Wanderer. They also discuss character-focused preparation and the roleplaying. This clarification remains out of game; the characters have not learned it.
-
-#### Long
-After play ends, the group confirms its next meeting, discusses the image reference, and exchanges farewells. Tim then checks his understanding of the closing reveal with the DM, who confirms that the four characters are dragonet Firstborn and that the reference does not identify the Wanderer. Their conversation turns to preparing a flexible structure for character-driven play and following the players' improvisation. These remarks belong to the table discussion and add no new action or knowledge for the characters.
+Far beyond their sight, past the storm, a vessel hovers in the sky. Two unidentified humanoids study a device alive with shifting, psychedelic lights. One is in tears after a long search; they can scarcely believe the divine energy signatures before them and speak of what the discovery will mean for the resistance. Four signatures, in particular, seem unmistakable: 'Firstborn.'
 
 ## Cast
 
@@ -228,48 +192,17 @@ After play ends, the group confirms its next meeting, discusses the image refere
   - Circular Island, unknown
 - Ilse (met): Oru's messenger, who offers restaurant advice and asks to join the venture before returning to her duties.
   - Circular Island, unknown
-- Ilse's supervisor (met): An unnamed shaman who interrupts Ilse's business discussion and recalls her to the summons.
+- Oru (met): A familiar elder shaman and former restaurateur; investigates the egg and awakening mechanisms, then waits outside the Wanderer's eye.
   - Circular Island, unknown
-- Oru (met, companion): A familiar elder shaman and former restaurateur; investigates the egg and awakening mechanisms, then waits outside the Wanderer's eye.
+- Roska (met): A skilled fighter who reports the reopened eye, enters with the friends, and is evacuated after the guardians wound him.
   - Circular Island, unknown
-- Roska (met, companion): A skilled fighter who reports the reopened eye, enters with the friends, and is evacuated after the guardians wound him.
+- Glenda (met): Tony's seagull familiar; assists during the confrontation, and her infatuation prompts his thoughts of finding her another partner.
   - Circular Island, unknown
-- Four guardian statues (met, fought): Immense figures inside the Wanderer; fire on Roska, then become peaceful once he is removed.
-  - Circular Island, unknown
-- Glenda (companion): Tony's seagull familiar; assists during the confrontation, and her infatuation prompts his thoughts of finding her another partner.
-  - Circular Island, unknown
-- Two unidentified humanoids (met): Observers shown only in the closing vessel scene; interpret four signatures as Firstborn and discuss the resistance, without meeting the player characters.
-  - Unidentified hovering vessel, unknown
-- Kaz (mentioned): Zeno's uncle, a monk in the mountain monastery recalled from childhood.
-- King of the Hermit Crabs (mentioned): The golden-shelled crab whom Tony remembers granting his misunderstood wish and inadvertently giving him his name.
-- Dying purple dragonet (mentioned): The unidentified dragonet whose experience the friends recall from the egg's vision.
-- Joey (mentioned): According to Paul, received salted salmon after imagining it at the machine; no independent special ability is established.
-
 ## Locations
 
 - Circular Island
   - Summary: The friends' home island, where dormant mechanisms respond to them and the Wanderer awakens.
-  - Sublocations: The Wanderer's palm, roadside food machine, Oru's tent at the Jubilee temple grounds, the Wanderer's eye, guardian chamber, heart chamber
-  - Date Visited: unknown
-- The Wanderer's palm
-  - Summary: The friends' resting place on the statue, where they wake with the darkened egg and recall their childhoods.
-  - Sublocations: none
-  - Date Visited: unknown
-- Roadside food machine
-  - Summary: A gathering place along the pilgrimage road where imagined meals become breakfast experiments and restaurant plans.
-  - Sublocations: none
-  - Date Visited: unknown
-- Oru's tent
-  - Summary: The shaman's tent near the Jubilee grounds, where the friends compare their experiences with reports from across the island.
-  - Sublocations: none
-  - Date Visited: unknown
-- Inside the Wanderer's eye
-  - Summary: The entry into the statue, opened by its mechanical iris and leading down through unfamiliar machinery.
-  - Sublocations: mechanical iris, spiraling shaft
-  - Date Visited: unknown
-- Unidentified hovering vessel
-  - Summary: A vessel beyond the surrounding storm, shown only in the closing reveal; the player characters do not visit it.
-  - Sublocations: room containing the energy-signature device
+  - Sublocations: The Wanderer's palm, the oadside food machine, Oru's tent at the Jubilee temple grounds, inside the Wanderer's statue
   - Date Visited: unknown
 
 ## Organizations And Items
@@ -313,60 +246,21 @@ After play ends, the group confirms its next meeting, discusses the image refere
 
 ## Pull Quotes
 
-- ID: quote-beat-001-001
-  - Quote: "He thought he could dance, and he could not. He could not dance."
-  - Speaker: Heska
-  - Source Lines: u0190
-
-- ID: quote-beat-001-003
-  - Quote: "And he feels less afraid now."
-  - Speaker: Sculpit
-  - Source Lines: u0279
-
-- ID: quote-beat-002-001
-  - Quote: "Okay, thank you for that part of what you had to say, Grandpa Jim."
-  - Speaker: Little Tony
-  - Source Lines: u0412
-
-- ID: quote-beat-003-002
-  - Quote: "Unmitigated success"
-  - Speaker: Little Tony
-  - Source Lines: u0828
-
-- ID: quote-beat-004-003
-  - Quote: "Taste is both the ideas and knowing which ideas not to do."
-  - Speaker: Sculpit
-  - Source Lines: u1016
 
 - ID: quote-beat-005-003
   - Quote: "Maybe if we can get another egg, it could power our restaurant."
   - Speaker: Heska
   - Source Lines: u1317-u1318
 
-- ID: quote-beat-006-001
-  - Quote: "Nobody knows what is going on. Nobody knows what is going on. We are all in this, figuring this out right now."
-  - Speaker: DM
-  - Source Lines: u1390-u1392
-
 - ID: quote-beat-006b-001
   - Quote: "We were onto something with the fish inside of fish. It's statues inside of statues."
   - Speaker: Zeno
   - Source Lines: u1663
 
-- ID: quote-beat-006b-002
-  - Quote: "Yes. And inside that statue, a potato."
-  - Speaker: Little Tony
-  - Source Lines: u1664
-
 - ID: quote-beat-007-003
   - Quote: "Don't let Little Tony get hit. That would ruin the bit."
-  - Speaker: Sculpit
+  - Speaker: Sculpit, using Cutting Words to block the guardian statue.
   - Source Lines: u2123-u2124
-
-- ID: quote-beat-008-003
-  - Quote: "Wanderer's gonna wander."
-  - Speaker: Zeno
-  - Source Lines: u2400
 
 - ID: quote-beat-009-002
   - Quote: "Do you know what this means? What this is gonna mean for the resistance? This is gonna change everything."
@@ -383,34 +277,11 @@ After play ends, the group confirms its next meeting, discusses the image refere
   - Summary: The golden hermit crab, a misheard wish, and Tony’s recovered childhood memory.
   - Why Called Out: A complete character-origin story with the walk-to-any-swing / talk-to-anything payoff.
 
-- ID: audio-002
-  - Title: Grandpa Jim has opinions
-  - Speaker: Little Tony, DM, Heska, Zeno
-  - Source Lines: u0381-u0414
-  - Output: audio-002.m4a
-  - Summary: Tony asks his cloud acquaintance about the island’s awakening and gets a lecture about ambition.
-  - Why Called Out: An extended comic exchange that also supplies the morning’s news.
-
-- ID: audio-003
-  - Title: An unmitigated breakfast success
-  - Speaker: DM, Heska, Little Tony
-  - Source Lines: u0812-u0828
-  - Output: audio-003.m4a
-  - Summary: Conflicting orders produce metal strands, fish-filled potatoes, and clam-studded fish bones.
-  - Why Called Out: Vivid escalating narration followed by Tony’s proud verdict.
-
-- ID: audio-004
-  - Title: A freestyle evacuation
-  - Speaker: Little Tony, DM, Sculpit, Zeno
-  - Source Lines: u2004-u2023
-  - Output: audio-004.m4a
-  - Summary: Tony persuades the injured Roska to flee, then delivers his appeal in rhyme and gets a rhyming reply.
-  - Why Called Out: A complete comic exchange at the center of the rescue.
 
 - ID: audio-005
-  - Title: The heart awakens; Firstborn signatures
+  - Title: There are Firstborn here
   - Speaker: DM
-  - Source Lines: u2414-u2503
+  - Source Lines: u2454-u2503
   - Output: audio-005.m4a
   - Summary: The chamber and Wanderer light up, then the viewpoint moves beyond the storm to the two observers.
   - Why Called Out: The session’s dramatic closing sequence, from the awakening to the Firstborn reveal. The observers’ conversation is a scene shown to the audience, not knowledge the characters receive.

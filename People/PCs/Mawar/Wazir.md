@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/text, status/check/mike]
-name: Wazir
-born:
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/cleanup/text, status/check/mike, status/check/lint]
 species: human
 ancestry: Mawaran
+born: null
 gender: male
 player: Mike Sackton
-affiliations: 
-- {place: Leviathan Inn, title: Owner}
-- {org: Adventurers of Mawar}
+name: Wazir
+affiliations:
+  - {place: Leviathan Inn, title: Owner}
+  - {org: Adventurers of Mawar}
 whereabouts: Hamri
+knownTo: [mawar]
 dm_owner: player
 dm_notes: important
+POV: 1740s
 ---
 # Wazir
 >[!info]+ Biographical Info  
@@ -20,7 +24,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The owner of the Levithan Inn in Hamri, and unofficial guardian of the town. Tinkering and student of the arcane, especially his magical armor he crafted himself. Spent time in Chardon before returning home to Hamri
+The owner of the Leviathan Inn in Hamri, and unofficial guardian of the town. Tinkering and student of the arcane, especially his magical armor he crafted himself. Spent time in Chardon before returning home to Hamri.
 
 ![[wazir.png]]
 
@@ -128,3 +132,31 @@ Over the next 20 years, Wazir built the Leviathan, and slowly became somewhat 
 But he does wonder, now and then, what the bones will say, when the time is right for them to speak.
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Wazir, language: unknown, pronunciation: wah-ZEER, notes: "Proposed using the Arabic analogue for his Mawaran cultural setting in [[Languages#Mawaran]]: w as in water, short a, z as in zero, long ee for i, and final stress. The name's language and in-world pronunciation are not established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a late-1740s portrait of Wazir as the Leviathan Inn's owner and an unofficial guardian of Hamri, supported by the DR 1747 and 1749 campaign accounts; the dates of his earlier stay in Chardon and return to Hamri are not settled in the visible article.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting without changing existing values.
+- Added `knownTo: [mawar]` from Wazir's participation in [[Mawar Adventures Episode 01]], [[Mawar Adventures Episode 02]], and [[Mawar Adventures Episode 05]].
+- Added the primary name entry with a proposed pronunciation, and `POV: 1740s` with a concise temporal interpretation of his established innkeeping and local guardian role.
+- Corrected the misspelling “Levithan Inn” to “Leviathan Inn” and added the missing final period to the visible paragraph.
+
+### Validated judgments
+- `status/cleanup/text` is supported: the visible armor sentence needs clarification, while the hidden email material preserves several explicitly provisional drafts. The tag is unchanged.
+- The backstory comment explicitly says it may not be canonical and contains alternatives and author questions; its provisional accounts have not been adopted as biography.
+- [[Leviathan Inn]], [[Adventurers of Mawar]], and the DR 1747–1749 campaign accounts support the current identity and role. No material later change to those roles was established in the reviewed sources.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry proposes `wah-ZEER`. This uses the Arabic analogue recorded for Wazir's Mawaran cultural setting in [[Languages#Mawaran]]: initial w, short a, z, long ee for i, and final stress. The name's source language and exact in-world pronunciation are not established, so `language: unknown` and `status: proposed` are retained. Accept or revise the proposal; if accepted, add `pronunciation: wah-ZEER` to frontmatter and change this name entry to `status: documented`.
+- [ ] **Suggestion — editorial.prose_clarity:** The visible sentence “Tinkering and student of the arcane, especially his magical armor he crafted himself.” combines an activity and a person, and leaves the relationship between arcane study and the armor unclear. Preserve his tinkering, arcane study, and self-crafted armor, but choose the intended relationship. Candidate: “He is a tinkerer and student of the arcane, with a particular interest in the magical armor he crafted himself.”
+%%^End%%

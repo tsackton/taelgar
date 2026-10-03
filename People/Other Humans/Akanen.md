@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-title: Lord
-name: Akanen
+lintedAt: "2026-10-03T16:58:26-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
+title: Lord
 gender: male
+name: Akanen
+pronunciation: ak-AH-nen
+whereabouts: Medju
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
-whereabouts: Medju
-pronunciation: ak-AH-nen
+POV: 1740s
 ---
 # Lord Akanen
 *(ak-AH-nen)*
@@ -32,3 +36,27 @@ Artem, then, is seeking Lord Akanen, with the reasonable hope (probably validate
 
 
 %%SECRET[v2:ad35d13b2a81d5b0ae47b85a4ff94740]%%
+
+%%^Metadata:names:v1%%
+- {name: "Akanen", language: "unknown", pronunciation: "ak-AH-nen", status: "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a 1740s portrait of an active Spice Lord and collector in Medju, associated with Artem’s DR 1748 backstory; the dates of his earlier career and later activity are not established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded campaign knowledge from Artem’s documented backstory and retained the accepted pronunciation in name metadata.
+- Recorded the article’s 1740s viewpoint and normalized frontmatter.
+
+### Validated judgments
+- The local DM evidence duplicates information already preserved in the shared note; no private recovery remains.
+- The SECRET block was reviewed and remains unresolved planning.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The ordinary `NOTES` comment, in the paragraph beginning “Lord Akanen is a collector of rarities,” contains a developed public-facing account of his private collection and patronage, alongside duplicated collector description and a tentative venue name. If adopted, add: “Akanen owns a renowned private collection and is known as the patron of a hall of wonders in [[Medju]].” Keep the venue’s formal name unsettled. Consolidate the repeated collector description into the visible paragraph and retain the distinct later paragraphs as separate nonpublic guidance; do not automatically publish their contents.
+%%^End%%
