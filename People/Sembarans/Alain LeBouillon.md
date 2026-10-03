@@ -16,6 +16,7 @@ dm_notes: none
 POV: 1720s
 ---
 # Alain LeBouillon
+*(ah-LAN luh-boo-YON)*
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  

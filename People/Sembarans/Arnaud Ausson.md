@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Isinguer
 gender: male
 born: 1674
 name: Arnaud Ausson
+pronunciation: ar-NOH ah-SOHN
 whereabouts:
   - {type: home, location: Laicon, end: 1698}
   - {type: home, location: Cleenseau, start: 1699}
@@ -41,27 +42,9 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Arnaud Ausson, role: primary, language: Isinguese, pronunciation: ar-NOH oh-SOHN, status: proposed, notes: "French-side Isinguese analogue documented in [[Languages]]; the proposed reading uses French-style vowels and softened final consonants, while exact in-world phonology remains undocumented."}
+- {name: Arnaud Ausson, role: primary, language: Isinguese, pronunciation: ar-NOH ah-SOHN, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1720 portrait of Arnaud as a Cleenseau merchant and a central figure in its Isinguese community; earlier life and later fate are not described.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting.
-- Added the explicit name, `knownTo: [clee]`, a DR 1720 `POV`, and persistent name and temporal metadata.
-- Corrected `and important inn` to `an important inn`.
-- Normalized the legacy `Campaign:None` marker to `Campaign:none`.
-
-### Validated judgments
-- The `Campaign:none` block is an operational relationship index rather than narrative material.
-- No local-only `_DM_` evidence was found, consistent with `dm_notes: none`.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The name block retains the proposed Isinguese pronunciation `ar-NOH oh-SOHN`, using the French side of the Isinguese analogue in [[Languages]]. If accepted, add `pronunciation: ar-NOH oh-SOHN` to frontmatter and change the name entry to `status: documented`; otherwise revise the proposal while preserving its derivation.
 %%^End%%

@@ -13,7 +13,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A minor manorial family.
+A minor manorial family based around [[Ainwick]].
 
 %% No details exist; the husband of a major NPC is of this family but no idea as to why he left his family's main stomping ground %%
 

@@ -18,6 +18,7 @@ dm_notes: none
 POV: 1710s
 ---
 # Aldric Tannen
+*(AL-drik TAN-en)*
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  

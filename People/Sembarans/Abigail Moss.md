@@ -43,7 +43,7 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: "Abigail Moss", language: "Sembaran", status: "inferred", notes: "Language inferred from the subject’s established cultural and local naming context; this ordinary personal name needs no pronunciation guide."}
+- {name: "Abigail Moss", language: "Sembaran", status: "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

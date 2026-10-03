@@ -22,9 +22,11 @@ POV: 1720
 One of [[Marguerite Deschamps|Marguerite's]] senior assistant clerks. Since [[Marguerite Deschamps|Marguerite's]] death she has been serving as the chief clerk of the [[Barony of Aveil|barony]] although it is not clear if she will remain in this position. She is new to the post and easily flustered by unusual behavior, although she is also apologetic and conscientious.
 
 %%^Metadata:names:v1%%
-- {name: "Annette", language: "unknown"}
+- {name: "Annette", language: "Sembaran"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: A March DR 1720 snapshot of Annette temporarily serving as chief clerk; whether the appointment becomes permanent is unknown.
+
+She probably did not stay as chief clerk after [[Cadfael de Dufferin]] was appointed, but it has not come up yet and this probably is not canonical.
 %%^End%%
