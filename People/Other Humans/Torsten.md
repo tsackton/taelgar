@@ -15,7 +15,9 @@ dm_notes: color
 >[!info]+ Biographical Info
 > A [[Vargaldi]] [[Humans|human]] (he/him)
 
-Torsten is an elder and camp leader among the [[Vargaldi]] of the [[Great Northern Forest]]. He is rumored to be able to take the form of a bear. After the [[Dunmar Fellowship]] defended his community from a dragon, he offered them assistance.
+Torsten is an elder and camp leader among the [[Vargaldi]] of the [[Great Northern Forest]]. He is rumored to be able to take the form of a bear.
+
+%% @check/tim : anything to add? %%
 
 %%^Metadata:names:v1%%
 - {name: Torsten, language: unknown, pronunciation: TOR-sten, status: documented, notes: "A borrowed name in Vargaldi usage; its source language and route of borrowing are unspecified."}
