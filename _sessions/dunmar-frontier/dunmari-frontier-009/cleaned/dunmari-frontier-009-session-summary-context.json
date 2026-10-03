@@ -1,0 +1,1880 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 9,
+    "realWorldDate": "2020-09-18",
+    "drStart": "1748-04-12",
+    "drEnd": "1748-04-12"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Pearl of Power",
+        "Old mage's staff",
+        "Hobgoblin hand graffiti",
+        "Eberk's map"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Kenzo retrieves a magical pearl from the dead roper while the party orients itself in the ruined dwarven market.",
+        "The party finds hobgoblin graffiti, rests in the tavern, and scouts the corrupted valley outside."
+      ],
+      "sourceLongSummaries": [
+        "The session opens moments after the roper's defeat, with Inakara and her companions watching from the passage. The party wants to recover Riswynn's family heirloom and find a route toward Raven's Hold across the valley. Seeker senses valuable stone to the south and below, near the edge of his 300-foot range. Kenzo identifies the roper as an underground ambush predator and uses an old mage's staff to pry a pearl from its acidic remains, partly dissolving the staff. Delwath detects transmutation magic; Kenzo passes the pearl to Riswynn for ritual identification. An early suggestion to rest has not yet been carried out.",
+        "The ruined tavern contains faded graffiti of a hand with three burned, bony fingers and unreadable writing; Wellby recognizes the symbol as a hobgoblin battle banner his people have fled. The market was deliberately sacked, while the tavern appears to have been reused, but the occupants' identities and the circumstances of the dwarves' flight remain unclear. Riswynn identifies the pearl's ability to restore spellcasting energy. About half an hour has passed before the group takes a short rest in the tavern; Seeker attunes to the Pearl of Power, restores a second-level spell slot, and feels it gathering energy from the land. Afterward, in mid-afternoon, Wellby peers through the main entrance at a hazy valley with black, slimy cattails, thorny plants, dead trees, and a dark, almost bloody river. He sees no movement, returns, and the party chooses to seek the vault."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "A Pearl in the Roper",
+          "boundaryReason": "Opening recap and orientation lead into the search of the defeated roper; the next beat begins the tavern investigation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0344"
+          },
+          "shortSummary": "Kenzo retrieves a magical pearl from the dead roper while the party orients itself in the ruined dwarven market.",
+          "longSummary": "The session opens moments after the roper's defeat, with Inakara and her companions watching from the passage. The party wants to recover Riswynn's family heirloom and find a route toward Raven's Hold across the valley. Seeker senses valuable stone to the south and below, near the edge of his 300-foot range. Kenzo identifies the roper as an underground ambush predator and uses an old mage's staff to pry a pearl from its acidic remains, partly dissolving the staff. Delwath detects transmutation magic; Kenzo passes the pearl to Riswynn for ritual identification. An early suggestion to rest has not yet been carried out.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, immediately after the roper battle."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Named later in this session; she is the same dwarf-like woman watching the party here."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Pearl of Power",
+              "role": "encountered",
+              "notes": "Recovered from the roper; its function is identified in the following beat."
+            },
+            {
+              "name": "Old mage's staff",
+              "role": "encountered",
+              "notes": "Partly dissolved while Kenzo retrieves the pearl."
+            },
+            {
+              "name": "Shield of the Brawnanvil Clan",
+              "role": "mentioned",
+              "notes": "Riswynn's sought family heirloom, not yet recovered."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Tavern, Rest, and Valley",
+          "boundaryReason": "The party investigates the ruined market area, rests in the tavern, and checks the nearby exit before choosing its route onward.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0345",
+            "endUid": "u0723"
+          },
+          "shortSummary": "The party finds hobgoblin graffiti, rests in the tavern, and scouts the corrupted valley outside.",
+          "longSummary": "The ruined tavern contains faded graffiti of a hand with three burned, bony fingers and unreadable writing; Wellby recognizes the symbol as a hobgoblin battle banner his people have fled. The market was deliberately sacked, while the tavern appears to have been reused, but the occupants' identities and the circumstances of the dwarves' flight remain unclear. Riswynn identifies the pearl's ability to restore spellcasting energy. About half an hour has passed before the group takes a short rest in the tavern; Seeker attunes to the Pearl of Power, restores a second-level spell slot, and feels it gathering energy from the land. Afterward, in mid-afternoon, Wellby peers through the main entrance at a hazy valley with black, slimy cattails, thorny plants, dead trees, and a dark, almost bloody river. He sees no movement, returns, and the party chooses to seek the vault.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Tavern and ruined market, with a brief scout to the nearby main entrance."
+          },
+          "npcDetails": [
+            {
+              "name": "Eberk Brawnanvil",
+              "role": "mentioned",
+              "notes": "Riswynn's great-uncle drew the imperfect map from old memories and would not discuss the final flight."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Pearl of Power",
+              "role": "encountered",
+              "notes": "Riswynn identifies it; Seeker attunes and uses it during the rest."
+            },
+            {
+              "name": "Hobgoblin hand graffiti",
+              "role": "encountered",
+              "notes": "Faded battle-banner symbol; the accompanying writing is not deciphered."
+            },
+            {
+              "name": "Eberk's map",
+              "role": "encountered",
+              "notes": "Useful but imperfect recollection of the outpost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "locationRefs": [
+        "Dwarven Outpost",
+        "Inhabited cavern",
+        "Vault antechamber",
+        "Vault",
+        "Lower gate"
+      ],
+      "npcRefs": [
+        "Inakara",
+        "Fallen dwarven defenders",
+        "Dead mind flayer"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Mirror doors",
+        "Dwarf statue",
+        "Reflected keys",
+        "Shield of the Brawnanvil Clan",
+        "Shatterstorm",
+        "Dwarven potions",
+        "Dwarven Driftglobe",
+        "Brawnanvil trade bars",
+        "Adamantine sample",
+        "Mundane hammer",
+        "Locked iron gate"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Riswynn bargains for passage while the others intimidate Inakara with displays of magic.",
+        "The party reaches the vault entrance, discusses Kenzo's mind-flayer vision, and detects an invisible follower.",
+        "Seeker and Riswynn use keys visible in the brass reflections to open the vault.",
+        "Riswynn recovers her ancestral shield among the remains of five dwarves, a dead mind flayer, and surviving treasure.",
+        "Delwath scouts a deliberately blocked tunnel and returns with adamantine from a deep mine shaft.",
+        "After securing the vault, the party pays Inakara in silver to guide them to a locked tunnel toward Raven's Hold.",
+        "Inakara claims she is preparing for the mind flayers, and the party stops at the locked gate with the larger threat unresolved."
+      ],
+      "sourceLongSummaries": [
+        "Inakara insists the roper bargain bought safe passage out, not freedom to explore her kingdom, and speaks with the party in broken Dwarvish. Kenzo's soul sight shows that she fears the party and has considerable strength and magic; most of her attendants seem emotionally flat, while one better-equipped follower appears anxious and angry. Riswynn offers a small share of any treasure, and Inakara becomes eager when the mirror doors are mentioned. Seeker makes his fingers seem to stretch like tentacles, Kenzo strikes his staff with a tremor and flaring light, and Delwath conjures a sword crackling with green flame. Inakara backs away and lets them pass, promising to watch and threatening that their brains may be eaten and their bodies thrown to the blind ones.",
+        "Moving north past the pools, the party reaches a circular chamber with a dwarf statue bearing a family resemblance to Riswynn. Kenzo describes a vision or memory not his own of the dwarf-like residents associated with a tall, tentacle-mouthed creature, suggesting a mind-flayer connection without establishing that one is nearby. The party takes the southeast passage down beneath the market to an antechamber with three polished brass doors, two armored statues, and a low divider that once supported bars and a gate. Wellby hears an invisible follower, runs back with his torch, and calls for a conversation. Muttering in broken Dwarvish and retreating footsteps suggest Inakara; the follower stays roughly 50–60 feet away while the party returns to the doors.",
+        "Wellby thoroughly checks the antechamber and finds no mechanical traps. Seeker notices necklaces on the statues' reflections in the brass doors, although none is visible on the statues themselves or in an ordinary mirror; Riswynn can see them too, while the others cannot. Keeping their eyes on the reflections, the two dwarves feel the keys and lift them together, making physical keys and two keyholes appear. They turn both keys through a full circle; light from the side doors joins at the middle door, which opens onto a descending corridor. The party proceeds together, with Wellby listening at the rear; the invisible watcher appears to balk at the bright light.",
+        "In the dusty vault, four dwarven skeletons lie carefully arranged and a fifth rests slumped against the wall with a pristine rune-covered warhammer. A smashed mind-flayer skull lies by the inner iron doors. Riswynn recognizes her family's shield, whose value lies in preserving ancestral stories, and reserves it for return to her people. Seeker recognizes thunderous-force and stoneworking resonances in the hammer's runes and respectfully takes it after discussing dwarven traditions of returning relics to their clans. Wellby opens a chest containing six bottles marked three 'life,' two 'strength,' and one 'health,' plus two crystal globes; Kenzo opens another holding fourteen silver and four gold trade bars stamped with the Brawnanvil crest. The arrangement suggests a mortally wounded dwarf laid the other four to rest after the old battle. Riswynn agrees to share the other treasure and carries the bars while the party prepares to examine the inner room.",
+        "The inner vault is ruined, with a non-dwarven tunnel blocked by rubble to the west. Seeker uses stone magic to open a small gap and finds hammer marks suggesting a deliberate collapse; the tunnel beyond looks as if a directed earthquake formed it. The party infers that the ancient mind flayer entered this way and a defender blocked the breach. Delwath casts Invisibility and scouts several hundred feet down the steep passage, finding no tracks or recent disturbance. It ends at a roughly fifteen-foot-wide vertical mine shaft extending beyond his sight above and below. Using Mage Hand and a hammer, he chips off a metal-bearing sample, choosing to catch it and let the hammer fall; he hears no impact. He returns and Seeker identifies adamantine. This spot lies beyond the earlier stone-sense range, so the same ore may be accessible higher in the mine, but the exact earlier source is not located.",
+        "The two crystal globes are identified as driftglobes that provide light and, once per day, daylight; Kenzo takes one. Seeker reseals the rubble, the party pays respects to the dead, and turning the mirror-door keys back extinguishes the light and restores the keys to the statues' reflections. Inakara reappears to demand treasure. The party gives her two silver bars and promises three more for guidance; she will take them to a tunnel but refuses to lead them through it and admits she has never passed its locked bars. Naming herself, she claims the coming brain eaters will spare her and kill the party. She guides them by the statue chamber and shadowy halls, warns against an unidentified 'white dangling' danger to the north, and reaches a rusty chained gate beneath the main entrance. Beyond it a tunnel leads east. She threatens to point the party out to the newcomers, then vanishes.",
+        "The table revisits questions asked before Inakara's departure and clarifies payment on reaching the tunnel. Inakara dismisses the sightless ones as powerless figures who sit, moan, and lurk in shadows, insisting she does everything. When the party names mind flayers, she says they are coming and that she is preparing the way and keeping the entrance clear; she asks for help clearing other passages but refuses their secrets. Kenzo senses fear and doubts her offer to sell more information. Play ends before the party opens the rusty gate. In the discussion afterward, they distinguish the old corpse, Kenzo's vision, and Inakara's claims from speculation about an army or a link to the portal and poisoned water. Their intended purpose remains reconnaissance and reporting to Candrosa and the Dunmari, with retreat still possible."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Bargaining for Passage",
+          "boundaryReason": "Inakara blocks renewed access; negotiation and a magical display win passage and end the confrontation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0724",
+            "endUid": "u1013"
+          },
+          "shortSummary": "Riswynn bargains for passage while the others intimidate Inakara with displays of magic.",
+          "longSummary": "Inakara insists the roper bargain bought safe passage out, not freedom to explore her kingdom, and speaks with the party in broken Dwarvish. Kenzo's soul sight shows that she fears the party and has considerable strength and magic; most of her attendants seem emotionally flat, while one better-equipped follower appears anxious and angry. Riswynn offers a small share of any treasure, and Inakara becomes eager when the mirror doors are mentioned. Seeker makes his fingers seem to stretch like tentacles, Kenzo strikes his staff with a tremor and flaring light, and Delwath conjures a sword crackling with green flame. Inakara backs away and lets them pass, promising to watch and threatening that their brains may be eaten and their bodies thrown to the blind ones.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Passage between the market and the inhabited cavern."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Blocks exploration, then allows passage after the bargain and intimidation."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Pearl of Power",
+              "role": "mentioned",
+              "notes": "Discussed as a possible gift, but Seeker explicitly refuses to give it away."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "Statue and Invisible Footsteps",
+          "boundaryReason": "The party moves through the statue chamber to the vault entrance while recognizing a possible mind-flayer connection and detecting an invisible follower.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1014",
+            "endUid": "u1200"
+          },
+          "shortSummary": "The party reaches the vault entrance, discusses Kenzo's mind-flayer vision, and detects an invisible follower.",
+          "longSummary": "Moving north past the pools, the party reaches a circular chamber with a dwarf statue bearing a family resemblance to Riswynn. Kenzo describes a vision or memory not his own of the dwarf-like residents associated with a tall, tentacle-mouthed creature, suggesting a mind-flayer connection without establishing that one is nearby. The party takes the southeast passage down beneath the market to an antechamber with three polished brass doors, two armored statues, and a low divider that once supported bars and a gate. Wellby hears an invisible follower, runs back with his torch, and calls for a conversation. Muttering in broken Dwarvish and retreating footsteps suggest Inakara; the follower stays roughly 50–60 feet away while the party returns to the doors.",
+          "locationHints": {
+            "refs": [
+              "Inhabited cavern",
+              "Vault antechamber"
+            ],
+            "context": "Route north around the pools, through the statue chamber, and southeast down to the vault antechamber."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Probable invisible follower, inferred from the voice and context."
+            },
+            {
+              "name": "Mind flayer in Kenzo's vision",
+              "role": "mentioned",
+              "notes": "Seen in a recalled vision or memory; no living mind flayer is encountered."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror doors",
+              "role": "encountered",
+              "notes": "Three polished brass doors at the vault entrance."
+            },
+            {
+              "name": "Dwarf statue",
+              "role": "encountered",
+              "notes": "A public-chamber statue with a family resemblance to Riswynn."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Keys in the Mirrors",
+          "boundaryReason": "The party focuses on the brass-door puzzle; reflected keys and joined light open the vault corridor.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1201",
+            "endUid": "u1393"
+          },
+          "shortSummary": "Seeker and Riswynn use keys visible in the brass reflections to open the vault.",
+          "longSummary": "Wellby thoroughly checks the antechamber and finds no mechanical traps. Seeker notices necklaces on the statues' reflections in the brass doors, although none is visible on the statues themselves or in an ordinary mirror; Riswynn can see them too, while the others cannot. Keeping their eyes on the reflections, the two dwarves feel the keys and lift them together, making physical keys and two keyholes appear. They turn both keys through a full circle; light from the side doors joins at the middle door, which opens onto a descending corridor. The party proceeds together, with Wellby listening at the rear; the invisible watcher appears to balk at the bright light.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Vault antechamber and the short corridor beyond the opened central door."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Probable invisible watcher kept back by the bright doorway."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror doors",
+              "role": "encountered",
+              "notes": "Opened by the two dwarves using the reflected keys."
+            },
+            {
+              "name": "Reflected keys",
+              "role": "encountered",
+              "notes": "Two keys removed from the statues and used in the side doors."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "The Dwarven Dead and Heirloom",
+          "boundaryReason": "Entering the undisturbed vault reveals the fallen dwarves, the family shield, and surviving treasure; opening the inner door begins a new investigation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1394",
+            "endUid": "u1693"
+          },
+          "shortSummary": "Riswynn recovers her ancestral shield among the remains of five dwarves, a dead mind flayer, and surviving treasure.",
+          "longSummary": "In the dusty vault, four dwarven skeletons lie carefully arranged and a fifth rests slumped against the wall with a pristine rune-covered warhammer. A smashed mind-flayer skull lies by the inner iron doors. Riswynn recognizes her family's shield, whose value lies in preserving ancestral stories, and reserves it for return to her people. Seeker recognizes thunderous-force and stoneworking resonances in the hammer's runes and respectfully takes it after discussing dwarven traditions of returning relics to their clans. Wellby opens a chest containing six bottles marked three 'life,' two 'strength,' and one 'health,' plus two crystal globes; Kenzo opens another holding fourteen silver and four gold trade bars stamped with the Brawnanvil crest. The arrangement suggests a mortally wounded dwarf laid the other four to rest after the old battle. Riswynn agrees to share the other treasure and carries the bars while the party prepares to examine the inner room.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ancient vault beyond the mirror doors."
+          },
+          "npcDetails": [
+            {
+              "name": "Fallen dwarven defenders",
+              "role": "encountered",
+              "notes": "Five long-dead dwarves; their arrangement suggests one outlived the others briefly."
+            },
+            {
+              "name": "Dead mind flayer",
+              "role": "encountered",
+              "notes": "Ancient remains with the skull smashed open; no current combat."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Shield of the Brawnanvil Clan",
+              "role": "encountered",
+              "notes": "Recovered by Riswynn; preserves her family's ancestral stories."
+            },
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "The rune-covered warhammer Seeker takes; established name confirmed by the written session note, but not fully identified in this scene."
+            },
+            {
+              "name": "Dwarven potions",
+              "role": "encountered",
+              "notes": "Six bottles: three marked life, two strength, one health; exact effects not yet identified."
+            },
+            {
+              "name": "Dwarven Driftglobe",
+              "role": "encountered",
+              "notes": "Two crystal globes, identified later."
+            },
+            {
+              "name": "Brawnanvil trade bars",
+              "role": "encountered",
+              "notes": "Fourteen silver bars and four gold bars recovered."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Brawnanvils",
+              "role": "mentioned",
+              "notes": "Family identified by the shield and stamped trade bars."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "The Broken Tunnel and Mine",
+          "boundaryReason": "The ruined inner chamber leads to a deliberate cave-in; Delwath scouts the tunnel beyond and returns with an ore sample.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1694",
+            "endUid": "u2043"
+          },
+          "shortSummary": "Delwath scouts a deliberately blocked tunnel and returns with adamantine from a deep mine shaft.",
+          "longSummary": "The inner vault is ruined, with a non-dwarven tunnel blocked by rubble to the west. Seeker uses stone magic to open a small gap and finds hammer marks suggesting a deliberate collapse; the tunnel beyond looks as if a directed earthquake formed it. The party infers that the ancient mind flayer entered this way and a defender blocked the breach. Delwath casts Invisibility and scouts several hundred feet down the steep passage, finding no tracks or recent disturbance. It ends at a roughly fifteen-foot-wide vertical mine shaft extending beyond his sight above and below. Using Mage Hand and a hammer, he chips off a metal-bearing sample, choosing to catch it and let the hammer fall; he hears no impact. He returns and Seeker identifies adamantine. This spot lies beyond the earlier stone-sense range, so the same ore may be accessible higher in the mine, but the exact earlier source is not located.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined inner vault, breached western tunnel, and deep mine shaft; Delwath returns to the vault."
+          },
+          "itemDetails": [
+            {
+              "name": "Adamantine sample",
+              "role": "encountered",
+              "notes": "Retrieved by Delwath and identified by Seeker."
+            },
+            {
+              "name": "Mundane hammer",
+              "role": "encountered",
+              "notes": "Dropped into the shaft while Mage Hand catches the ore sample; no impact heard."
+            },
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "Carried by Seeker; suspected connection to the ancient cave-in remains an inference."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Silver for a Guide",
+          "boundaryReason": "The party secures the vault, meets Inakara again, and bargains for guidance to the locked lower passage.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2044",
+            "endUid": "u2287"
+          },
+          "shortSummary": "After securing the vault, the party pays Inakara in silver to guide them to a locked tunnel toward Raven's Hold.",
+          "longSummary": "The two crystal globes are identified as driftglobes that provide light and, once per day, daylight; Kenzo takes one. Seeker reseals the rubble, the party pays respects to the dead, and turning the mirror-door keys back extinguishes the light and restores the keys to the statues' reflections. Inakara reappears to demand treasure. The party gives her two silver bars and promises three more for guidance; she will take them to a tunnel but refuses to lead them through it and admits she has never passed its locked bars. Naming herself, she claims the coming brain eaters will spare her and kill the party. She guides them by the statue chamber and shadowy halls, warns against an unidentified 'white dangling' danger to the north, and reaches a rusty chained gate beneath the main entrance. Beyond it a tunnel leads east. She threatens to point the party out to the newcomers, then vanishes.",
+          "locationHints": {
+            "refs": [
+              "Vault",
+              "Lower gate"
+            ],
+            "context": "Return from the vault through the statue chamber and halls to the barred tunnel below the main entrance."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Takes silver for guidance, refuses to go through the gate, and makes threatening claims about the future."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Dwarven Driftglobe",
+              "role": "encountered",
+              "notes": "Two identified; Kenzo takes one, and their light makes Inakara recoil."
+            },
+            {
+              "name": "Brawnanvil trade bars",
+              "role": "encountered",
+              "notes": "Two silver bars given, with three more promised for reaching the tunnel; an additional bar for advice is offered without a clear separate payment."
+            },
+            {
+              "name": "Mirror doors",
+              "role": "encountered",
+              "notes": "Closed again; the keys vanish from the locks and return in reflection."
+            },
+            {
+              "name": "Locked iron gate",
+              "role": "encountered",
+              "notes": "Rusty bars secured with a padlock and chain across the eastbound tunnel."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Warnings at the Lower Gate",
+          "boundaryReason": "Questions are added to the departing conversation with Inakara; the party stops at the locked gate and discusses what remains unproven.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2288",
+            "endUid": "u2442"
+          },
+          "shortSummary": "Inakara claims she is preparing for the mind flayers, and the party stops at the locked gate with the larger threat unresolved.",
+          "longSummary": "The table revisits questions asked before Inakara's departure and clarifies payment on reaching the tunnel. Inakara dismisses the sightless ones as powerless figures who sit, moan, and lurk in shadows, insisting she does everything. When the party names mind flayers, she says they are coming and that she is preparing the way and keeping the entrance clear; she asks for help clearing other passages but refuses their secrets. Kenzo senses fear and doubts her offer to sell more information. Play ends before the party opens the rusty gate. In the discussion afterward, they distinguish the old corpse, Kenzo's vision, and Inakara's claims from speculation about an army or a link to the portal and poisoned water. Their intended purpose remains reconnaissance and reporting to Candrosa and the Dunmari, with retreat still possible.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Locked lower gate; includes questions added retrospectively to the same conversation and discussion after play stops."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Her claims about the coming mind flayers are attributed statements, not independently verified events."
+            },
+            {
+              "name": "Sightless ones",
+              "role": "mentioned",
+              "notes": "Inakara describes them with contempt; their identity is not established."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "notes": "Possible recipient of the party's future report."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Locked iron gate",
+              "role": "encountered",
+              "notes": "Still closed when play ends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "beatIds": [
+        "beat-010"
+      ],
+      "locationRefs": [],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The recording continues with personal conversation after the game ends."
+      ],
+      "sourceLongSummaries": [
+        "The participants discuss real-world holiday and family matters after play has stopped. This beat preserves complete transcript coverage and contributes no in-world events, dates, entities, or recap narrative."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-010",
+          "title": "After the Game",
+          "boundaryReason": "A clear switch to personal postgame conversation warrants a short separate beat; it adds no in-world event.",
+          "dateStart": null,
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2443",
+            "endUid": "u2561"
+          },
+          "shortSummary": "The recording continues with personal conversation after the game ends.",
+          "longSummary": "The participants discuss real-world holiday and family matters after play has stopped. This beat preserves complete transcript coverage and contributes no in-world events, dates, entities, or recap narrative.",
+          "locationHints": {
+            "context": "Personal postgame conversation; no in-world location applies."
+          }
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Searching the Ruined Market",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0723"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0344"
+        },
+        {
+          "startUid": "u0345",
+          "endUid": "u0723"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Pearl of Power",
+        "Old mage's staff",
+        "Hobgoblin hand graffiti",
+        "Eberk's map"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Kenzo retrieves a magical pearl from the dead roper while the party orients itself in the ruined dwarven market.",
+        "The party finds hobgoblin graffiti, rests in the tavern, and scouts the corrupted valley outside."
+      ],
+      "sourceLongSummaries": [
+        "The session opens moments after the roper's defeat, with Inakara and her companions watching from the passage. The party wants to recover Riswynn's family heirloom and find a route toward Raven's Hold across the valley. Seeker senses valuable stone to the south and below, near the edge of his 300-foot range. Kenzo identifies the roper as an underground ambush predator and uses an old mage's staff to pry a pearl from its acidic remains, partly dissolving the staff. Delwath detects transmutation magic; Kenzo passes the pearl to Riswynn for ritual identification. An early suggestion to rest has not yet been carried out.",
+        "The ruined tavern contains faded graffiti of a hand with three burned, bony fingers and unreadable writing; Wellby recognizes the symbol as a hobgoblin battle banner his people have fled. The market was deliberately sacked, while the tavern appears to have been reused, but the occupants' identities and the circumstances of the dwarves' flight remain unclear. Riswynn identifies the pearl's ability to restore spellcasting energy. About half an hour has passed before the group takes a short rest in the tavern; Seeker attunes to the Pearl of Power, restores a second-level spell slot, and feels it gathering energy from the land. Afterward, in mid-afternoon, Wellby peers through the main entrance at a hazy valley with black, slimy cattails, thorny plants, dead trees, and a dark, almost bloody river. He sees no movement, returns, and the party chooses to seek the vault."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "A Pearl in the Roper",
+          "boundaryReason": "Opening recap and orientation lead into the search of the defeated roper; the next beat begins the tavern investigation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0344"
+          },
+          "shortSummary": "Kenzo retrieves a magical pearl from the dead roper while the party orients itself in the ruined dwarven market.",
+          "longSummary": "The session opens moments after the roper's defeat, with Inakara and her companions watching from the passage. The party wants to recover Riswynn's family heirloom and find a route toward Raven's Hold across the valley. Seeker senses valuable stone to the south and below, near the edge of his 300-foot range. Kenzo identifies the roper as an underground ambush predator and uses an old mage's staff to pry a pearl from its acidic remains, partly dissolving the staff. Delwath detects transmutation magic; Kenzo passes the pearl to Riswynn for ritual identification. An early suggestion to rest has not yet been carried out.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined marketplace, immediately after the roper battle."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Named later in this session; she is the same dwarf-like woman watching the party here."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Pearl of Power",
+              "role": "encountered",
+              "notes": "Recovered from the roper; its function is identified in the following beat."
+            },
+            {
+              "name": "Old mage's staff",
+              "role": "encountered",
+              "notes": "Partly dissolved while Kenzo retrieves the pearl."
+            },
+            {
+              "name": "Shield of the Brawnanvil Clan",
+              "role": "mentioned",
+              "notes": "Riswynn's sought family heirloom, not yet recovered."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Tavern, Rest, and Valley",
+          "boundaryReason": "The party investigates the ruined market area, rests in the tavern, and checks the nearby exit before choosing its route onward.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0345",
+            "endUid": "u0723"
+          },
+          "shortSummary": "The party finds hobgoblin graffiti, rests in the tavern, and scouts the corrupted valley outside.",
+          "longSummary": "The ruined tavern contains faded graffiti of a hand with three burned, bony fingers and unreadable writing; Wellby recognizes the symbol as a hobgoblin battle banner his people have fled. The market was deliberately sacked, while the tavern appears to have been reused, but the occupants' identities and the circumstances of the dwarves' flight remain unclear. Riswynn identifies the pearl's ability to restore spellcasting energy. About half an hour has passed before the group takes a short rest in the tavern; Seeker attunes to the Pearl of Power, restores a second-level spell slot, and feels it gathering energy from the land. Afterward, in mid-afternoon, Wellby peers through the main entrance at a hazy valley with black, slimy cattails, thorny plants, dead trees, and a dark, almost bloody river. He sees no movement, returns, and the party chooses to seek the vault.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Tavern and ruined market, with a brief scout to the nearby main entrance."
+          },
+          "npcDetails": [
+            {
+              "name": "Eberk Brawnanvil",
+              "role": "mentioned",
+              "notes": "Riswynn's great-uncle drew the imperfect map from old memories and would not discuss the final flight."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Pearl of Power",
+              "role": "encountered",
+              "notes": "Riswynn identifies it; Seeker attunes and uses it during the rest."
+            },
+            {
+              "name": "Hobgoblin hand graffiti",
+              "role": "encountered",
+              "notes": "Faded battle-banner symbol; the accompanying writing is not deciphered."
+            },
+            {
+              "name": "Eberk's map",
+              "role": "encountered",
+              "notes": "Useful but imperfect recollection of the outpost."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Bargaining with Inakara",
+      "beatIds": [
+        "beat-003"
+      ],
+      "sourceRange": {
+        "startUid": "u0724",
+        "endUid": "u1013"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0724",
+          "endUid": "u1013"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Riswynn bargains for passage while the others intimidate Inakara with displays of magic."
+      ],
+      "sourceLongSummaries": [
+        "Inakara insists the roper bargain bought safe passage out, not freedom to explore her kingdom, and speaks with the party in broken Dwarvish. Kenzo's soul sight shows that she fears the party and has considerable strength and magic; most of her attendants seem emotionally flat, while one better-equipped follower appears anxious and angry. Riswynn offers a small share of any treasure, and Inakara becomes eager when the mirror doors are mentioned. Seeker makes his fingers seem to stretch like tentacles, Kenzo strikes his staff with a tremor and flaring light, and Delwath conjures a sword crackling with green flame. Inakara backs away and lets them pass, promising to watch and threatening that their brains may be eaten and their bodies thrown to the blind ones."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Bargaining for Passage",
+          "boundaryReason": "Inakara blocks renewed access; negotiation and a magical display win passage and end the confrontation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0724",
+            "endUid": "u1013"
+          },
+          "shortSummary": "Riswynn bargains for passage while the others intimidate Inakara with displays of magic.",
+          "longSummary": "Inakara insists the roper bargain bought safe passage out, not freedom to explore her kingdom, and speaks with the party in broken Dwarvish. Kenzo's soul sight shows that she fears the party and has considerable strength and magic; most of her attendants seem emotionally flat, while one better-equipped follower appears anxious and angry. Riswynn offers a small share of any treasure, and Inakara becomes eager when the mirror doors are mentioned. Seeker makes his fingers seem to stretch like tentacles, Kenzo strikes his staff with a tremor and flaring light, and Delwath conjures a sword crackling with green flame. Inakara backs away and lets them pass, promising to watch and threatening that their brains may be eaten and their bodies thrown to the blind ones.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Passage between the market and the inhabited cavern."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Blocks exploration, then allows passage after the bargain and intimidation."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Pearl of Power",
+              "role": "mentioned",
+              "notes": "Discussed as a possible gift, but Seeker explicitly refuses to give it away."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "The Mirror Doors",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "sourceRange": {
+        "startUid": "u1014",
+        "endUid": "u1393"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1014",
+          "endUid": "u1200"
+        },
+        {
+          "startUid": "u1201",
+          "endUid": "u1393"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Inhabited cavern",
+        "Vault antechamber",
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Mirror doors",
+        "Dwarf statue",
+        "Reflected keys"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party reaches the vault entrance, discusses Kenzo's mind-flayer vision, and detects an invisible follower.",
+        "Seeker and Riswynn use keys visible in the brass reflections to open the vault."
+      ],
+      "sourceLongSummaries": [
+        "Moving north past the pools, the party reaches a circular chamber with a dwarf statue bearing a family resemblance to Riswynn. Kenzo describes a vision or memory not his own of the dwarf-like residents associated with a tall, tentacle-mouthed creature, suggesting a mind-flayer connection without establishing that one is nearby. The party takes the southeast passage down beneath the market to an antechamber with three polished brass doors, two armored statues, and a low divider that once supported bars and a gate. Wellby hears an invisible follower, runs back with his torch, and calls for a conversation. Muttering in broken Dwarvish and retreating footsteps suggest Inakara; the follower stays roughly 50–60 feet away while the party returns to the doors.",
+        "Wellby thoroughly checks the antechamber and finds no mechanical traps. Seeker notices necklaces on the statues' reflections in the brass doors, although none is visible on the statues themselves or in an ordinary mirror; Riswynn can see them too, while the others cannot. Keeping their eyes on the reflections, the two dwarves feel the keys and lift them together, making physical keys and two keyholes appear. They turn both keys through a full circle; light from the side doors joins at the middle door, which opens onto a descending corridor. The party proceeds together, with Wellby listening at the rear; the invisible watcher appears to balk at the bright light."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-004",
+          "title": "Statue and Invisible Footsteps",
+          "boundaryReason": "The party moves through the statue chamber to the vault entrance while recognizing a possible mind-flayer connection and detecting an invisible follower.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1014",
+            "endUid": "u1200"
+          },
+          "shortSummary": "The party reaches the vault entrance, discusses Kenzo's mind-flayer vision, and detects an invisible follower.",
+          "longSummary": "Moving north past the pools, the party reaches a circular chamber with a dwarf statue bearing a family resemblance to Riswynn. Kenzo describes a vision or memory not his own of the dwarf-like residents associated with a tall, tentacle-mouthed creature, suggesting a mind-flayer connection without establishing that one is nearby. The party takes the southeast passage down beneath the market to an antechamber with three polished brass doors, two armored statues, and a low divider that once supported bars and a gate. Wellby hears an invisible follower, runs back with his torch, and calls for a conversation. Muttering in broken Dwarvish and retreating footsteps suggest Inakara; the follower stays roughly 50–60 feet away while the party returns to the doors.",
+          "locationHints": {
+            "refs": [
+              "Inhabited cavern",
+              "Vault antechamber"
+            ],
+            "context": "Route north around the pools, through the statue chamber, and southeast down to the vault antechamber."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Probable invisible follower, inferred from the voice and context."
+            },
+            {
+              "name": "Mind flayer in Kenzo's vision",
+              "role": "mentioned",
+              "notes": "Seen in a recalled vision or memory; no living mind flayer is encountered."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror doors",
+              "role": "encountered",
+              "notes": "Three polished brass doors at the vault entrance."
+            },
+            {
+              "name": "Dwarf statue",
+              "role": "encountered",
+              "notes": "A public-chamber statue with a family resemblance to Riswynn."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Keys in the Mirrors",
+          "boundaryReason": "The party focuses on the brass-door puzzle; reflected keys and joined light open the vault corridor.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1201",
+            "endUid": "u1393"
+          },
+          "shortSummary": "Seeker and Riswynn use keys visible in the brass reflections to open the vault.",
+          "longSummary": "Wellby thoroughly checks the antechamber and finds no mechanical traps. Seeker notices necklaces on the statues' reflections in the brass doors, although none is visible on the statues themselves or in an ordinary mirror; Riswynn can see them too, while the others cannot. Keeping their eyes on the reflections, the two dwarves feel the keys and lift them together, making physical keys and two keyholes appear. They turn both keys through a full circle; light from the side doors joins at the middle door, which opens onto a descending corridor. The party proceeds together, with Wellby listening at the rear; the invisible watcher appears to balk at the bright light.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Vault antechamber and the short corridor beyond the opened central door."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Probable invisible watcher kept back by the bright doorway."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror doors",
+              "role": "encountered",
+              "notes": "Opened by the two dwarves using the reflected keys."
+            },
+            {
+              "name": "Reflected keys",
+              "role": "encountered",
+              "notes": "Two keys removed from the statues and used in the side doors."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "The Brawnanvil Heirloom",
+      "beatIds": [
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u1394",
+        "endUid": "u1693"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1394",
+          "endUid": "u1693"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Fallen dwarven defenders",
+        "Dead mind flayer"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Shield of the Brawnanvil Clan",
+        "Shatterstorm",
+        "Dwarven potions",
+        "Dwarven Driftglobe",
+        "Brawnanvil trade bars"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Riswynn recovers her ancestral shield among the remains of five dwarves, a dead mind flayer, and surviving treasure."
+      ],
+      "sourceLongSummaries": [
+        "In the dusty vault, four dwarven skeletons lie carefully arranged and a fifth rests slumped against the wall with a pristine rune-covered warhammer. A smashed mind-flayer skull lies by the inner iron doors. Riswynn recognizes her family's shield, whose value lies in preserving ancestral stories, and reserves it for return to her people. Seeker recognizes thunderous-force and stoneworking resonances in the hammer's runes and respectfully takes it after discussing dwarven traditions of returning relics to their clans. Wellby opens a chest containing six bottles marked three 'life,' two 'strength,' and one 'health,' plus two crystal globes; Kenzo opens another holding fourteen silver and four gold trade bars stamped with the Brawnanvil crest. The arrangement suggests a mortally wounded dwarf laid the other four to rest after the old battle. Riswynn agrees to share the other treasure and carries the bars while the party prepares to examine the inner room."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-006",
+          "title": "The Dwarven Dead and Heirloom",
+          "boundaryReason": "Entering the undisturbed vault reveals the fallen dwarves, the family shield, and surviving treasure; opening the inner door begins a new investigation.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1394",
+            "endUid": "u1693"
+          },
+          "shortSummary": "Riswynn recovers her ancestral shield among the remains of five dwarves, a dead mind flayer, and surviving treasure.",
+          "longSummary": "In the dusty vault, four dwarven skeletons lie carefully arranged and a fifth rests slumped against the wall with a pristine rune-covered warhammer. A smashed mind-flayer skull lies by the inner iron doors. Riswynn recognizes her family's shield, whose value lies in preserving ancestral stories, and reserves it for return to her people. Seeker recognizes thunderous-force and stoneworking resonances in the hammer's runes and respectfully takes it after discussing dwarven traditions of returning relics to their clans. Wellby opens a chest containing six bottles marked three 'life,' two 'strength,' and one 'health,' plus two crystal globes; Kenzo opens another holding fourteen silver and four gold trade bars stamped with the Brawnanvil crest. The arrangement suggests a mortally wounded dwarf laid the other four to rest after the old battle. Riswynn agrees to share the other treasure and carries the bars while the party prepares to examine the inner room.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ancient vault beyond the mirror doors."
+          },
+          "npcDetails": [
+            {
+              "name": "Fallen dwarven defenders",
+              "role": "encountered",
+              "notes": "Five long-dead dwarves; their arrangement suggests one outlived the others briefly."
+            },
+            {
+              "name": "Dead mind flayer",
+              "role": "encountered",
+              "notes": "Ancient remains with the skull smashed open; no current combat."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Shield of the Brawnanvil Clan",
+              "role": "encountered",
+              "notes": "Recovered by Riswynn; preserves her family's ancestral stories."
+            },
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "The rune-covered warhammer Seeker takes; established name confirmed by the written session note, but not fully identified in this scene."
+            },
+            {
+              "name": "Dwarven potions",
+              "role": "encountered",
+              "notes": "Six bottles: three marked life, two strength, one health; exact effects not yet identified."
+            },
+            {
+              "name": "Dwarven Driftglobe",
+              "role": "encountered",
+              "notes": "Two crystal globes, identified later."
+            },
+            {
+              "name": "Brawnanvil trade bars",
+              "role": "encountered",
+              "notes": "Fourteen silver bars and four gold bars recovered."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Brawnanvils",
+              "role": "mentioned",
+              "notes": "Family identified by the shield and stamped trade bars."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "The Adamantine Mine",
+      "beatIds": [
+        "beat-007"
+      ],
+      "sourceRange": {
+        "startUid": "u1694",
+        "endUid": "u2043"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1694",
+          "endUid": "u2043"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Adamantine sample",
+        "Mundane hammer",
+        "Shatterstorm"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Delwath scouts a deliberately blocked tunnel and returns with adamantine from a deep mine shaft."
+      ],
+      "sourceLongSummaries": [
+        "The inner vault is ruined, with a non-dwarven tunnel blocked by rubble to the west. Seeker uses stone magic to open a small gap and finds hammer marks suggesting a deliberate collapse; the tunnel beyond looks as if a directed earthquake formed it. The party infers that the ancient mind flayer entered this way and a defender blocked the breach. Delwath casts Invisibility and scouts several hundred feet down the steep passage, finding no tracks or recent disturbance. It ends at a roughly fifteen-foot-wide vertical mine shaft extending beyond his sight above and below. Using Mage Hand and a hammer, he chips off a metal-bearing sample, choosing to catch it and let the hammer fall; he hears no impact. He returns and Seeker identifies adamantine. This spot lies beyond the earlier stone-sense range, so the same ore may be accessible higher in the mine, but the exact earlier source is not located."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "The Broken Tunnel and Mine",
+          "boundaryReason": "The ruined inner chamber leads to a deliberate cave-in; Delwath scouts the tunnel beyond and returns with an ore sample.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1694",
+            "endUid": "u2043"
+          },
+          "shortSummary": "Delwath scouts a deliberately blocked tunnel and returns with adamantine from a deep mine shaft.",
+          "longSummary": "The inner vault is ruined, with a non-dwarven tunnel blocked by rubble to the west. Seeker uses stone magic to open a small gap and finds hammer marks suggesting a deliberate collapse; the tunnel beyond looks as if a directed earthquake formed it. The party infers that the ancient mind flayer entered this way and a defender blocked the breach. Delwath casts Invisibility and scouts several hundred feet down the steep passage, finding no tracks or recent disturbance. It ends at a roughly fifteen-foot-wide vertical mine shaft extending beyond his sight above and below. Using Mage Hand and a hammer, he chips off a metal-bearing sample, choosing to catch it and let the hammer fall; he hears no impact. He returns and Seeker identifies adamantine. This spot lies beyond the earlier stone-sense range, so the same ore may be accessible higher in the mine, but the exact earlier source is not located.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Ruined inner vault, breached western tunnel, and deep mine shaft; Delwath returns to the vault."
+          },
+          "itemDetails": [
+            {
+              "name": "Adamantine sample",
+              "role": "encountered",
+              "notes": "Retrieved by Delwath and identified by Seeker."
+            },
+            {
+              "name": "Mundane hammer",
+              "role": "encountered",
+              "notes": "Dropped into the shaft while Mage Hand catches the ore sample; no impact heard."
+            },
+            {
+              "name": "Shatterstorm",
+              "role": "encountered",
+              "notes": "Carried by Seeker; suspected connection to the ancient cave-in remains an inference."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "Silver and the Lower Gate",
+      "beatIds": [
+        "beat-008",
+        "beat-009"
+      ],
+      "sourceRange": {
+        "startUid": "u2044",
+        "endUid": "u2442"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2044",
+          "endUid": "u2287"
+        },
+        {
+          "startUid": "u2288",
+          "endUid": "u2442"
+        }
+      ],
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Vault",
+        "Lower gate",
+        "Dwarven Outpost"
+      ],
+      "npcRefs": [
+        "Inakara"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Dwarven Driftglobe",
+        "Brawnanvil trade bars",
+        "Mirror doors",
+        "Locked iron gate"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After securing the vault, the party pays Inakara in silver to guide them to a locked tunnel toward Raven's Hold.",
+        "Inakara claims she is preparing for the mind flayers, and the party stops at the locked gate with the larger threat unresolved."
+      ],
+      "sourceLongSummaries": [
+        "The two crystal globes are identified as driftglobes that provide light and, once per day, daylight; Kenzo takes one. Seeker reseals the rubble, the party pays respects to the dead, and turning the mirror-door keys back extinguishes the light and restores the keys to the statues' reflections. Inakara reappears to demand treasure. The party gives her two silver bars and promises three more for guidance; she will take them to a tunnel but refuses to lead them through it and admits she has never passed its locked bars. Naming herself, she claims the coming brain eaters will spare her and kill the party. She guides them by the statue chamber and shadowy halls, warns against an unidentified 'white dangling' danger to the north, and reaches a rusty chained gate beneath the main entrance. Beyond it a tunnel leads east. She threatens to point the party out to the newcomers, then vanishes.",
+        "The table revisits questions asked before Inakara's departure and clarifies payment on reaching the tunnel. Inakara dismisses the sightless ones as powerless figures who sit, moan, and lurk in shadows, insisting she does everything. When the party names mind flayers, she says they are coming and that she is preparing the way and keeping the entrance clear; she asks for help clearing other passages but refuses their secrets. Kenzo senses fear and doubts her offer to sell more information. Play ends before the party opens the rusty gate. In the discussion afterward, they distinguish the old corpse, Kenzo's vision, and Inakara's claims from speculation about an army or a link to the portal and poisoned water. Their intended purpose remains reconnaissance and reporting to Candrosa and the Dunmari, with retreat still possible."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-008",
+          "title": "Silver for a Guide",
+          "boundaryReason": "The party secures the vault, meets Inakara again, and bargains for guidance to the locked lower passage.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2044",
+            "endUid": "u2287"
+          },
+          "shortSummary": "After securing the vault, the party pays Inakara in silver to guide them to a locked tunnel toward Raven's Hold.",
+          "longSummary": "The two crystal globes are identified as driftglobes that provide light and, once per day, daylight; Kenzo takes one. Seeker reseals the rubble, the party pays respects to the dead, and turning the mirror-door keys back extinguishes the light and restores the keys to the statues' reflections. Inakara reappears to demand treasure. The party gives her two silver bars and promises three more for guidance; she will take them to a tunnel but refuses to lead them through it and admits she has never passed its locked bars. Naming herself, she claims the coming brain eaters will spare her and kill the party. She guides them by the statue chamber and shadowy halls, warns against an unidentified 'white dangling' danger to the north, and reaches a rusty chained gate beneath the main entrance. Beyond it a tunnel leads east. She threatens to point the party out to the newcomers, then vanishes.",
+          "locationHints": {
+            "refs": [
+              "Vault",
+              "Lower gate"
+            ],
+            "context": "Return from the vault through the statue chamber and halls to the barred tunnel below the main entrance."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Takes silver for guidance, refuses to go through the gate, and makes threatening claims about the future."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Dwarven Driftglobe",
+              "role": "encountered",
+              "notes": "Two identified; Kenzo takes one, and their light makes Inakara recoil."
+            },
+            {
+              "name": "Brawnanvil trade bars",
+              "role": "encountered",
+              "notes": "Two silver bars given, with three more promised for reaching the tunnel; an additional bar for advice is offered without a clear separate payment."
+            },
+            {
+              "name": "Mirror doors",
+              "role": "encountered",
+              "notes": "Closed again; the keys vanish from the locks and return in reflection."
+            },
+            {
+              "name": "Locked iron gate",
+              "role": "encountered",
+              "notes": "Rusty bars secured with a padlock and chain across the eastbound tunnel."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Warnings at the Lower Gate",
+          "boundaryReason": "Questions are added to the departing conversation with Inakara; the party stops at the locked gate and discusses what remains unproven.",
+          "dateStart": "1748-04-12",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2288",
+            "endUid": "u2442"
+          },
+          "shortSummary": "Inakara claims she is preparing for the mind flayers, and the party stops at the locked gate with the larger threat unresolved.",
+          "longSummary": "The table revisits questions asked before Inakara's departure and clarifies payment on reaching the tunnel. Inakara dismisses the sightless ones as powerless figures who sit, moan, and lurk in shadows, insisting she does everything. When the party names mind flayers, she says they are coming and that she is preparing the way and keeping the entrance clear; she asks for help clearing other passages but refuses their secrets. Kenzo senses fear and doubts her offer to sell more information. Play ends before the party opens the rusty gate. In the discussion afterward, they distinguish the old corpse, Kenzo's vision, and Inakara's claims from speculation about an army or a link to the portal and poisoned water. Their intended purpose remains reconnaissance and reporting to Candrosa and the Dunmari, with retreat still possible.",
+          "locationHints": {
+            "refs": [
+              "Dwarven Outpost"
+            ],
+            "context": "Locked lower gate; includes questions added retrospectively to the same conversation and discussion after play stops."
+          },
+          "npcDetails": [
+            {
+              "name": "Inakara",
+              "role": "encountered",
+              "notes": "Her claims about the coming mind flayers are attributed statements, not independently verified events."
+            },
+            {
+              "name": "Sightless ones",
+              "role": "mentioned",
+              "notes": "Inakara describes them with contempt; their identity is not established."
+            },
+            {
+              "name": "Candrosa",
+              "role": "mentioned",
+              "notes": "Possible recipient of the party's future report."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Locked iron gate",
+              "role": "encountered",
+              "notes": "Still closed when play ends."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "After the Game",
+      "beatIds": [
+        "beat-010"
+      ],
+      "sourceRange": {
+        "startUid": "u2443",
+        "endUid": "u2561"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2443",
+          "endUid": "u2561"
+        }
+      ],
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "undated",
+      "locationRefs": [],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The recording continues with personal conversation after the game ends."
+      ],
+      "sourceLongSummaries": [
+        "The participants discuss real-world holiday and family matters after play has stopped. This beat preserves complete transcript coverage and contributes no in-world events, dates, entities, or recap narrative."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-010",
+          "title": "After the Game",
+          "boundaryReason": "A clear switch to personal postgame conversation warrants a short separate beat; it adds no in-world event.",
+          "dateStart": null,
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2443",
+            "endUid": "u2561"
+          },
+          "shortSummary": "The recording continues with personal conversation after the game ends.",
+          "longSummary": "The participants discuss real-world holiday and family matters after play has stopped. This beat preserves complete transcript coverage and contributes no in-world events, dates, entities, or recap narrative.",
+          "locationHints": {
+            "context": "Personal postgame conversation; no in-world location applies."
+          }
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Inakara",
+        "beatIds": [
+          "beat-001",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-008",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Fallen dwarven defenders",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Dead mind flayer",
+        "beatIds": [
+          "beat-006"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Dwarven Outpost",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-009"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Inhabited cavern",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Vault antechamber",
+        "beatIds": [
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Vault",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Lower gate",
+        "beatIds": [
+          "beat-008"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Inakara",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Inhabited cavern -> Vault antechamber",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Vault -> Lower gate",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Fallen dwarven defenders",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dead mind flayer",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Dwarven Outpost",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Ruined marketplace, immediately after the roper battle.",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-009"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Inhabited cavern",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Route north around the pools, through the statue chamber, and southeast down to the vault antechamber.",
+          "beatIds": [
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Vault antechamber",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Route north around the pools, through the statue chamber, and southeast down to the vault antechamber.",
+          "beatIds": [
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Vault",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Return from the vault through the statue chamber and halls to the barred tunnel below the main entrance.",
+          "beatIds": [
+            "beat-008"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Lower gate",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Return from the vault through the statue chamber and halls to the barred tunnel below the main entrance.",
+          "beatIds": [
+            "beat-008"
+          ],
+          "visits": [
+            {
+              "dateStart": "1748-04-12",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Pearl of Power",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001",
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Old mage's staff",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-001"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Hobgoblin hand graffiti",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Eberk's map",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-002"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Mirror doors",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004",
+            "beat-005",
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Inhabited cavern -> Vault antechamber",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Vault -> Lower gate",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dwarf statue",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004"
+          ],
+          "history": [
+            {
+              "location": "Inhabited cavern -> Vault antechamber",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Reflected keys",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Shield of the Brawnanvil Clan",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Shatterstorm",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dwarven potions",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dwarven Driftglobe",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Vault -> Lower gate",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Brawnanvil trade bars",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-008"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Vault -> Lower gate",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Adamantine sample",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Mundane hammer",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Locked iron gate",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-008",
+            "beat-009"
+          ],
+          "history": [
+            {
+              "location": "Vault -> Lower gate",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            },
+            {
+              "location": "Dwarven Outpost",
+              "dateStart": "1748-04-12",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Eberk Brawnanvil",
+          "contextHint": null
+        },
+        {
+          "name": "Mind flayer in Kenzo's vision",
+          "contextHint": null
+        },
+        {
+          "name": "Sightless ones",
+          "contextHint": null
+        },
+        {
+          "name": "Candrosa",
+          "contextHint": null
+        }
+      ],
+      "locations": [],
+      "organizations": [
+        {
+          "name": "Brawnanvils",
+          "contextHint": null
+        }
+      ],
+      "items": []
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-009/cleaned/dunmari-frontier-009-recap-scenes.json"
+}
