@@ -257,7 +257,7 @@ Unknown: That, that's great.
 Kenzo: Do you want to do the honors?
 
 %% u2643 %%
-DM: If these things are the ones I fought before. I'm not sure my weapons can hurt them.
+DM: If these things are the ones I fought before, I'm not sure my weapons can hurt them.
 
 %% u2644-u2646 %%
 Kenzo: I think this might be a Riswynn turn or a Delwath thing.
