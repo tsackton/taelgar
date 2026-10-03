@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/check/mike]
+tags: [place, status/check/name]
 name: Salt Hills
 typeOf: topographical feature
 typeOfAlias: line of hills

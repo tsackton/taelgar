@@ -1,39 +1,29 @@
 ---
-lintedAt: "2026-08-28T16:53:46-04:00"
+headerVersion: 2023.11.25
+lintedAt: "2026-10-02T22:56:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/stub, status/check/mike, status/check/lint]
+tags: [person]
+ancestry: Tyrwinghan
 name: Cadogan
 pronunciation: ka-DOH-gan
-knownTo: []
+species: human
+gender: male
+knownTo: [clee]
 dm_owner: mike
-dm_notes: important
-POV: undated
+dm_notes: none
+POV: 1720
 ---
-Cadogan (ka-DOH-gan)
+# Cadogan
+*(ka-DOH-gan)*
+>[!info]+ Biographical Info  
+> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)
 
-%% tyrwinghan in the caravan %%
+Cadogan is a [[Tyrwingha|Tyrwinghan]] traveler who was among the group [[Cleenseau - Session 20|rescued by the Heroes of Cleenseau]] along the [[Auberonne]] in February DR 1720.
 
 %%^Metadata:names:v1%%
 - {name: Cadogan, language: Tyrwinghan, pronunciation: ka-DOH-gan, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: undated; the available evidence does not support a modern, decade, or year reading position.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit name, the note's existing `ka-DOH-gan` pronunciation, `knownTo: []`, and an undated POV with its temporal limitation.
-- Added persistent name metadata recording the documented pronunciation and the Tyrwinghan context.
-
-### Validated judgments
-- `status/stub` remains supported because the note has almost no visible subject detail.
-- The note's own `ka-DOH-gan` reading establishes the accepted pronunciation without requiring a proposal.
-
-### Open findings
-
-- [ ] **Warning — classification.person_species_missing:** No searched source identifies Cadogan's species. Add the supported species if known; do not infer `human` solely from the Tyrwinghan context.
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment contains the note's only public-safe identity context, but it remains hidden. Consider adding this bounded visible sentence: `Cadogan is a [[Tyrwingha|Tyrwinghan]] associated with a caravan.` The caravan's identity and Cadogan's role within it remain undeveloped.
+Temporal coverage: February DR 1720, using the author's identification of Cadogan with the unnamed Tyrwinghan travelers in [[Cleenseau - Session 20]] and [[Cleenseau - Session 21]]; no earlier or later state is established.
 %%^End%%
