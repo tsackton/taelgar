@@ -526,6 +526,9 @@ module TaelgarNoteLint
   end
 
   class NoteIndex
+    # Matches the image formats supported by repair_image_frontmatter.py.
+    IMAGE_EXTENSIONS = %w[.png .jpg .jpeg .gif .webp .svg .avif .bmp .tif .tiff .heic].freeze
+
     def initialize(root)
       @root = root
       @by_filename = Hash.new { |hash, key| hash[key] = [] }
@@ -566,7 +569,46 @@ module TaelgarNoteLint
       @by_identity[TaelgarNoteLint.normalize(clean)].uniq
     end
 
+    def resolve_wikilink(target, source_path = nil)
+      clean = target.to_s.split("|", 2).first.to_s.split("#", 2).first.to_s.strip.tr("\\", "/")
+      return resolve(target, source_path) unless IMAGE_EXTENSIONS.include?(File.extname(clean).downcase)
+
+      build_image_index unless @images_by_path
+      key = TaelgarNoteLint.normalize(clean)
+      return @images_by_filename[key].uniq unless clean.include?("/")
+
+      paths = [clean.sub(%r{\A/}, "")]
+      paths << Pathname.new(source_path).dirname.join(clean).cleanpath.to_s if source_path
+      paths.reverse! if clean.start_with?("./", "../")
+      paths.each do |path|
+        matches = @images_by_path[TaelgarNoteLint.normalize(path)]
+        return matches.uniq unless matches.empty?
+      end
+      return [] if clean.start_with?("/", "./", "../")
+
+      # Obsidian permits an unambiguous partial path, but never fall back to
+      # the basename of a stale explicit path.
+      @images_by_path.flat_map { |path, matches| path.end_with?("/#{key}") ? matches : [] }.uniq
+    end
+
     private
+
+    def build_image_index
+      @images_by_path = Hash.new { |hash, key| hash[key] = [] }
+      @images_by_filename = Hash.new { |hash, key| hash[key] = [] }
+      Dir.glob(@root.join("**", "*").to_s, File::FNM_DOTMATCH).sort.each do |absolute|
+        next unless IMAGE_EXTENSIONS.include?(File.extname(absolute).downcase)
+
+        path = Pathname.new(absolute)
+        rel = TaelgarNoteLint.relative_path(@root, path)
+        next if rel.split("/")[0...-1].any? { |part| part.start_with?(".") }
+        next unless path.file?
+        next if path.symlink?
+
+        @images_by_path[TaelgarNoteLint.normalize(rel)] << rel
+        @images_by_filename[TaelgarNoteLint.normalize(path.basename.to_s)] << rel
+      end
+    end
 
     def build
       Dir.glob(@root.join("**", "*.md").to_s, File::FNM_DOTMATCH).sort.each do |absolute|
@@ -1769,7 +1811,7 @@ module TaelgarNoteLint
       searchable.to_enum(:scan, /(?<!!)\[\[([^\]\n]+)\]\]/).each do
         match = Regexp.last_match
         raw = match[1]
-        candidates = @index.resolve(raw, note.path)
+        candidates = @index.resolve_wikilink(raw, note.path)
         line = TaelgarNoteLint.line_number(note.text, match.begin(0))
         if candidates.empty?
           add(findings, "link.unresolved", "error", "required",
