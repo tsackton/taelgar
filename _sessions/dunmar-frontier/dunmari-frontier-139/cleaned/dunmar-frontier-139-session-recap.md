@@ -317,10 +317,9 @@ With the epilogue complete, the players compare the campaign with their high-sch
 
 ## Source Files
 
-- Context JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/cleaned/dunmar-frontier-139-session-summary-context.json
-- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/cleaned/dunmar-frontier-139-beats.json
-- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/cleaned/dunmar-frontier-139-beat-facts.json
-- Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/cleaned/dunmar-frontier-139-source-cleaned.md
+- Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-beats.json
+- Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-beat-facts.json
+- Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-source-cleaned.md
 
 ## Pull Quotes
 
