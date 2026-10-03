@@ -148,11 +148,11 @@ Wellby: That's that. Is this [[woman no to this thing]]? So that should be eleve
 %% u0392-u0393 %%
 Seeker: So you can use the inspiration to make it a thunder attack or something.
 
-%% u0394-u0405 %%
-DM: As your arrow comes flying out of the window, it just pierces right through this little demon creature. It dissipates in this puff of flame and smoke, and all the gnolls start looking around in a bit of confusion. But you all get a surprise round here, so let's get this... Okay, so Vola's gonna now take a... Again, she just pulls her hand down like that, and this shimmering blade appears in her hand, and she flings that at the closest gnoll.
+%% u0394-u0399 %%
+DM: As your arrow comes flying out of the window, it just pierces right through this little demon creature. It dissipates in this puff of flame and smoke, and all the gnolls start looking around in a bit of confusion. But you all get a surprise round here.
 
-%% u0406 %%
-DM: Which hits.
+%% u0400-u0406 %%
+DM: Let's get this... Okay, so Vola's gonna now take a... Again, she just pulls her hand down like that, and this shimmering blade appears in her hand, and she flings that at the closest gnoll, which hits.
 
 %% u0407-u0408 %%
 Unknown: Come on.
@@ -245,7 +245,7 @@ Unknown: Okay.
 Delwath: And then send a blast.
 
 %% u0456 %%
-DM: That hits
+DM: That hits.
 
 %% u0457 %%
 Delwath: Plus two, for five total.
@@ -421,11 +421,14 @@ DM: Okay, so now, let's see, the arrows come. These two creatures that are in th
 %% u0574 %%
 Unknown: Which is—
 
-%% u0575-u0586 %%
-DM: That does hit. So one arrow comes flying through this arrow slit and manages to nick her. The second arrow, again, bounces harmlessly off the walls, and then they turn. Okay, and then same with the rest of these gnolls. Arrows come clattering up against the wall. Miss, hitting the wall, not even hitting a wall, bouncing off the wall. One flying towards Wellby, missing. And then also flying towards Wellby, and last one, seventeen. What's your AC? [[Cell.]] And then these all turn—
+%% u0575-u0577 %%
+DM: That does hit. So one arrow comes flying through this arrow slit and manages to nick her. The second arrow, again, bounces harmlessly off the walls, and then they turn.
 
-%% u0587-u0594 %%
-DM: —and begin to run, abandoning the hyenas. And then this one, the one carrying the glaive, also takes out his longbow and sends one arrow at Delwath: nineteen.
+%% u0578-u0588 %%
+DM: Okay, and then same with the rest of these gnolls. Arrows come clattering up against the wall. Miss, hitting the wall, not even hitting a wall, bouncing off the wall. One flying towards Wellby, missing. And then also flying towards Wellby, and last one, seventeen. What's your AC? [[Cell.]] And then these all turn and begin to run, abandoning the hyenas.
+
+%% u0589-u0594 %%
+DM: And then this one, the one carrying the glaive, also takes out his longbow and sends one arrow at Delwath: nineteen.
 
 %% u0595 %%
 Delwath: And seventeen AC. Yeah, okay.
@@ -443,7 +446,7 @@ Delwath: Hmm.
 Seeker: Why are they running?
 
 %% u0600 %%
-Delwath: Because
+Delwath: Because.
 
 %% u0601 %%
 Seeker: At that point,
@@ -491,7 +494,7 @@ Kenzo: Going to be foolish. Wait, so if I jump down, is there a way to get back 
 DM: Not easily.
 
 %% u0624 %%
-Wellby: If
+Wellby: If.
 
 %% u0625 %%
 Unknown: Somebody could throw you a rope.
@@ -500,7 +503,7 @@ Unknown: Somebody could throw you a rope.
 Wellby: You could also jump down on the bottom side of that, [[with respect to run down]], and open the gate.
 
 %% u0627 %%
-Unknown: And go
+Unknown: And go.
 
 %% u0628-u0629 %%
 Delwath: Right here. Yeah.
@@ -668,10 +671,10 @@ Riswynn: Fine, I removed it. Okay, maybe you didn't know.
 DM: Okay, so as your arrow slams into the leader again, it's looking pretty beat up. As the gates swing open, a whole host of creatures now turn and start to charge.
 
 %% u0727 %%
-Kenzo: Nice
+Kenzo: Nice.
 
 %% u0728 %%
-Unknown: Worked
+Unknown: Worked.
 
 %% u0729-u0730 %%
 Seeker: So, you guys—
@@ -785,7 +788,7 @@ Riswynn: He said it was—
 Seeker: Damage out of each—
 
 %% u0779 %%
-Delwath: Yeah, but
+Delwath: Yeah, but.
 
 %% u0780 %%
 Kenzo: Actually, if you guys slow him fast enough, I can probably run really fast and catch up and kill him in hand-to-hand combat.
@@ -1219,8 +1222,11 @@ DM: And that hits. Yeah, she's not—
 %% u1003 %%
 Unknown: Two arrows—
 
-%% u1004-u1007 %%
-DM: —slam into her and she staggers back, in bad shape, practically... [[Thank God, or good]], she's bleeding. That was just from one of them. The other is holding its action. Okay, now—not back, stop it, stop it, stop it. [[Records]] horrible. Okay, so now these two gnolls are just gonna rush forward headlong into this gate.
+%% u1004-u1006 %%
+DM: —slam into her and she staggers back, in bad shape, practically... [[Thank God, or good]], she's bleeding. That was just from one of them. The other is holding its action. Okay, now—
+
+%% u1007 %%
+DM: Not back, stop it, stop it, stop it. [[Records]] horrible. Okay, so now these two gnolls are just gonna rush forward headlong into this gate.
 
 %% u1008 %%
 Unknown: Don't—
@@ -1282,8 +1288,11 @@ DM: You beat him.
 %% u1033 %%
 Kenzo: Yes.
 
-%% u1034-u1040 %%
-DM: So as these two gnolls—one slipped a little bit, doesn't get a good handle, and the other comes crashing forward. The door shudders and begins to fly open, when the rune just gives you an extra burst of strength to hold it fast. These two now run back as the next two—
+%% u1034-u1037 %%
+DM: So as these two gnolls—one sort of slipped a little bit and doesn't get a good handle; the other comes crashing forward. The door shudders and begins to fly open, when the rune just gives you an extra burst of strength to hold it fast.
+
+%% u1038-u1040 %%
+DM: And they will now—these two now run back as the next two—
 
 %% u1041 %%
 Seeker: Two, three, one, two, three, four.
@@ -1403,7 +1412,7 @@ Seeker: Do—I'm rapidly scribbling notes.
 DM: [[Are just a book and—]]
 
 %% u1102 %%
-Unknown: Then
+Unknown: Then.
 
 %% u1103-u1104 %%
 DM: [[It. Good.]] Are you—?
@@ -1466,7 +1475,7 @@ Kenzo: But this is about to get bad. This is about to get eight dudes against me
 Seeker: Gonna get hectic down there.
 
 %% u1137 %%
-DM: Okay, so
+DM: Okay, so.
 
 %% u1138 %%
 Unknown: Get through all these—

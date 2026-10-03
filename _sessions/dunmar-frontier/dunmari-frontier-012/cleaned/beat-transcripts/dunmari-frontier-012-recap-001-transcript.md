@@ -7,17 +7,32 @@
 
 ## Transcript
 
-%% u0001-u0012 %%
-DM: Okay, so we begin tonight as the morning sun rises over Raven's Hold. It was only a week ago that you woke in Karawa, getting ready to watch the procession of the faithful during the Festival of the Rebirth, as Karawa prepared to evacuate and flee west, and then the attack on the town that set you on your current course. Yesterday, after traveling through the dwarven strongholds, finding your way into Raven's Hold underneath the valley, and rescuing the Chardonian adventurer Vola Forena, you began to uncover the secrets of this place. A small group of gnolls seems to have made this a base where they're herding and keeping animals—wild dogs, jackals, hyenas, lions, and more—for some apparent ritual. Investigating the inner keep of Raven's Hold, you found a demon occupying it and patiently waiting for something, and beginning to corrupt the dead bodies of antelope and other prey for some unknown purpose. Not really wanting to wait and see where this was leading, you attacked. Despite the dangerous poison stinger on its [[BB]] tail and the disease its poison caused, you prevailed, watching the demon's body disintegrate after Kenzo's killing blow. Thinking back a month ago in Karawa, you are surprised to realize that it was only a short time ago that... And the fact that you are now destroying actual demons seems—
+%% u0001-u0003 %%
+DM: Okay, so we begin tonight as the morning sun rises over Raven's Hold. It was only a week ago that you woke in Karawa, getting ready to watch the procession of the faithful during the Festival of the Rebirth, as Karawa prepared to evacuate and flee west, and then the attack on the town that set you on your current course.
 
-%% u0013-u0017 %%
-DM: —sometimes hard to believe. Despite the fitful and restless night filled with unwanted dreams of violence, you awake with a renewed sense of confidence and purpose, and a better sense of your capabilities and strengths. So that's level four. Just to kind of get us back into the scene of Raven's Hold and everybody's characters, as you all awake and begin to get ready for breakfast and the day, we'll just go around. Everybody describe the character briefly, what you're doing while doing—
+%% u0004-u0005 %%
+DM: Yesterday, after traveling through the dwarven strongholds, finding your way into Raven's Hold underneath the valley, and rescuing the Chardonian adventurer Vola Forena, you began to uncover the secrets of this place. A small group of gnolls seems to have made this a base where they're herding and keeping animals—wild dogs, jackals, hyenas, lions, and more—for some apparent ritual.
+
+%% u0006-u0009 %%
+DM: Investigating the inner keep of Raven's Hold, you found a demon occupying it and patiently waiting for something, and beginning to corrupt the dead bodies of antelope and other prey for some unknown purpose. Not really wanting to wait and see where this was leading, you attacked. Despite the dangerous poison stinger on its [[BB]] tail and the disease its poison caused, you prevailed, watching the demon's body disintegrate after Kenzo's killing blow.
+
+%% u0010-u0014 %%
+DM: Thinking back a month ago in Karawa, you are surprised to realize that it was only a short time ago that... And the fact that you are now destroying actual demons seems sometimes hard to believe. Despite the fitful and restless night filled with unwanted dreams of violence, you awake with a renewed sense of confidence and purpose, and a better sense of your capabilities and strengths.
+
+%% u0015 %%
+DM: So that's level four.
+
+%% u0016-u0017 %%
+DM: Just to kind of get us back into the scene of Raven's Hold and everybody's characters, as you all awake and begin to get ready for breakfast and the day, we'll just go around. Everybody describe the character briefly, what you're doing while doing...
 
 %% u0018-u0021 %%
 Wellby: So Wellby is a halfling in studded leather armor with a backpack and bedroll. He's systematically moving through the process of stowing everything, what he does every night: unpacking everything from the pack and then repacking all of it back up again, and throwing loose gravel and stuff onto the floor where he was sleeping to try and make it look undisturbed.
 
-%% u0022-u0032 %%
-Seeker: Meanwhile, Seeker is crouched on the floor, stroking his beard, staring at the mess of his possessions spread out all around him in disarray. You can make out elaborately sketched speculative maps of planar intersections overlaid with geography, grids of illustrated squares depicting epic battles, with XP and so forth strewn in there, and then also the sort of low-relief game map depicting the area that we're in, with little game pieces representing each of us. He's sort of mumbling about perhaps a story and a game together, in the form of a book in which one chooses one's own adventure.
+%% u0022 %%
+Seeker: Meanwhile, Seeker is crouched on the floor, stroking his beard, staring at the mess of his possessions spread out all around him in disarray.
+
+%% u0023-u0032 %%
+Seeker: You can make out elaborately sketched speculative maps of planar intersections overlaid with geography, grids of illustrated squares depicting epic battles, with XP and so forth strewn in there, and then also the sort of low-relief game map depicting the area that we're in, with little game pieces representing each of us. He's sort of mumbling about perhaps a story and a game together, in the form of a book in which one chooses one's own adventure.
 
 %% u0033-u0039 %%
 Delwath: He's an elf with copper skin and green eyes, dressed in well-maintained chain mail and a shield, and not carrying a weapon. He's standing and pacing, looking—where are we? We're in a...?
@@ -49,14 +64,20 @@ Kenzo: And how big is the room that we're in?
 %% u0050-u0051 %%
 DM: It's about maybe forty feet across, a circle.
 
-%% u0052-u0058 %%
-Kenzo: Okay, small room. Yeah. So Kenzo's about a six-foot-tall human wearing a light tunic, actually probably not too dissimilar to what I'm wearing right now. A light tunic, a smaller pack with his staff—two staffs. I'm still carrying around that other... [[I pledge]] that other staff. Anyways, two large, large staffs next to the pack on the ground. Longer hair tied back into a bit of a topknot. Kenzo's kind of splitting his consciousness, occasionally looking over at Seeker and his maps with some curiosity at what Seeker's doing, and then also spending most of his consciousness just peering carefully outside of the window, really trying to observe and see what is going on out there. What is the vibe outside? Really trying to sense the energetics of the moment.
+%% u0052-u0055 %%
+Kenzo: Okay, small room. Yeah. So Kenzo's about a six-foot-tall human wearing a light tunic, actually probably not too dissimilar to what I'm wearing right now. A light tunic, a smaller pack with his staff—two staffs. I'm still carrying around that other... [[I pledge]] that other staff. Anyways, two large, large staffs next to the pack on the ground. Longer hair tied back into a bit of a topknot.
+
+%% u0056-u0058 %%
+Kenzo: Kenzo's kind of splitting his consciousness, occasionally looking over at Seeker and his maps with some curiosity at what Seeker's doing, and then also spending most of his consciousness just peering carefully outside of the window, really trying to observe and see what is going on out there. What is the vibe outside? Really trying to sense the energetics of the moment.
 
 %% u0059-u0068 %%
 Riswynn: Riswynn has woken up from a pretty good sleep and is getting herself very organized, going over her armor. As a dwarf and cleric with tinkering skills, she's very methodical about a routine of going over her armor and making sure that any little connections are tight and ready to hold fast. Making sure that she has the most treasured possession of this quest of hers securely fastened. She can't help but take out and look and check on the shield that tells her family's history and which has brought her onto this journey. She's finally carrying it with her everywhere as we make our way through all of these travails, to ensure that eventually it gets back to her family.
 
-%% u0069-u0077 %%
-DM: Vola is shaken, but looks more well rested than some of the rest of you. She's been sitting quietly by her bedroll, occasionally brushing short brown hair out of her eyes, but otherwise not seeming to move much as she methodically oils her armor, tightening down every strap, making sure that there's nothing that could make a strange noise, no buckles loose that would clank as she moves. As the early morning sun casts a pale line of light from the eastern window, as you all begin to start your day—who was it? Delwath and Kenzo, who have been pacing back and forth and keeping an eye out of the window, you see a band of gnolls begin to approach in the distance. So, looking out over the courtyard—this is the outer courtyard on the map that we're looking at right here.
+%% u0069-u0071 %%
+DM: Vola is shaken, but looks more well rested than some of the rest of you. She's been sitting quietly by her bedroll, occasionally brushing short brown hair out of her eyes, but otherwise not seeming to move much as she methodically oils her armor, tightening down every strap, making sure that there's nothing that could make a strange noise, no buckles loose that would clank as she moves.
+
+%% u0072-u0077 %%
+DM: As the early morning sun casts a pale line of light from the eastern window, as you all begin to start your day—who was it? Delwath and Kenzo, who have been pacing back and forth and keeping an eye out of the window, you see a band of gnolls begin to approach in the distance. So, looking out over the courtyard—this is the outer courtyard on the map that we're looking at right here.
 
 %% u0078 %%
 Unknown: This—
@@ -146,7 +167,7 @@ Delwath: —area next to us?
 DM: What do you mean, the area next to you?
 
 %% u0125 %%
-Unknown: This
+Unknown: This.
 
 %% u0126 %%
 Delwath: Here.
@@ -155,10 +176,10 @@ Delwath: Here.
 Seeker: Oh, maybe we could do a little more orientation. So where was the—
 
 %% u0128 %%
-DM: This is the
+DM: This is the.
 
 %% u0129 %%
-Unknown: This
+Unknown: This.
 
 %% u0130-u0131 %%
 DM: Top—so you're on the third floor. This area here is the top of the gatehouse. Last night you barred the gate below, so there's a gate underneath this.
@@ -446,7 +467,7 @@ Kenzo: I'm gonna be there, but hidden.
 DM: Okay, make a Stealth check.
 
 %% u0266-u0269 %%
-Delwath: I am readying an action if the demon creature comes close enough. Basically, if it comes within about—let's see. If it comes within this radius, like twenty feet, [[without needed that]], I'm going to shoot it.
+Delwath: I am readying an action if the demon creature comes close enough. Basically, if it comes within about—let's see—if it comes within this radius, like twenty feet, [[without needed that]], I'm going to shoot it.
 
 %% u0270 %%
 Wellby: I am this far from just taking the shot right now.
@@ -482,7 +503,7 @@ DM: Hammer.
 Kenzo: Yeah, okay. Got it.
 
 %% u0282 %%
-DM: And then it should show you a
+DM: And then it should show you a.
 
 %% u0283 %%
 Delwath: If you scroll down to the bottom, it'll say ability score improvement.

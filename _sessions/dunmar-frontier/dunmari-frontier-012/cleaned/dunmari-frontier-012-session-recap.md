@@ -286,59 +286,108 @@ Wellby also drags a gnoll corpse toward the animals for food, and Riswynn propos
 ## Pull Quotes
 
 - ID: quote-beat-001-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "Perhaps a story and a game together, in the form of a book in which one chooses one's own adventure."
+  - Speaker: Seeker
+  - Source Lines: u0030-u0032
 
-- ID: quote-beat-002-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-002-002
+  - Quote: "Oh shit, demon's dead."
+  - Speaker: Kenzo
+  - Source Lines: u0423
 
 - ID: quote-beat-003-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "Kenzo, do you want me to write that choose-your-own-adventure book about you or not? You got a choice, right?"
+  - Speaker: Seeker
+  - Source Lines: u0739-u0740
 
-- ID: quote-beat-004-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-003-002
+  - Quote: "You are all very impressed."
+  - Speaker: Kenzo
+  - Source Lines: u0819
 
-- ID: quote-beat-005-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-004-003
+  - Quote: "From two hundred feet away. Wellby's arrow just slides straight and true, and you see this gnoll in the distance fall over."
+  - Speaker: DM
+  - Source Lines: u1208-u1210
+
+- ID: quote-beat-005-002
+  - Quote: "All packed into one really stinky, glowing scat."
+  - Speaker: Seeker
+  - Source Lines: u1345
 
 - ID: quote-beat-006-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "It's actually very useful for spiritual development as well, nearly dying."
+  - Speaker: Kenzo
+  - Source Lines: u1638
 
-- ID: quote-beat-007-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-006-003
+  - Quote: "That was more difficult than I thought it would be."
+  - Speaker: Kenzo
+  - Source Lines: u1811
+
+- ID: quote-beat-007-002
+  - Quote: "It's like Minecraft, right? Keep digging down."
+  - Speaker: DM
+  - Source Lines: u1880
 
 - ID: quote-beat-008-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "Compromising on strategy, I'll squint with one eye."
+  - Speaker: Seeker
+  - Source Lines: u2076
+
+- ID: quote-beat-008-002
+  - Quote: "I'm gonna stick with my both eyes open strategy."
+  - Speaker: Wellby
+  - Source Lines: u2082
 
 - ID: quote-beat-009-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Quote: "Starving. Starving us."
+  - Speaker: DM
+  - Source Lines: u2289-u2290
 
-- ID: quote-beat-010-001
-  - Quote: "TODO: Quote text."
-  - Speaker: TODO
-  - Source Lines: TODO
+- ID: quote-beat-009-003
+  - Quote: "It'll end up just like casting light."
+  - Speaker: Wellby
+  - Source Lines: u2391
+
+- ID: quote-beat-010-002
+  - Quote: "Yes, we've all agreed we probably killed one too many gnolls."
+  - Speaker: Riswynn
+  - Source Lines: u2522
 
 ## Audio Highlights
 
 - ID: audio-001
-  - Title: TODO
-  - Speaker: TODO
-  - Source Lines: TODO
+  - Title: Kenzo catches the hunter’s arrow
+  - Speaker: DM, Kenzo, Seeker, Delwath, Riswynn, Wellby
+  - Source Lines: u1062-u1135
   - Output: audio-001.m4a
+  - Why Called Out: The gate gives way, a critical arrow threatens Kenzo, and discovering Deflect Missiles turns the danger into delighted table excitement.
+
+- ID: audio-002
+  - Title: The rope descent debate
+  - Speaker: Delwath, DM, Kenzo, Seeker
+  - Source Lines: u1681-u1707
+  - Output: audio-002.m4a
+  - Why Called Out: A tactical disagreement about sliding down a rope prompts jokes about recalling the DM before Delwath finds a way to attack while hanging.
+
+- ID: audio-003
+  - Title: Questions for the starving hyenas
+  - Speaker: Seeker, Kenzo, DM
+  - Source Lines: u2257-u2306
+  - Output: audio-003.m4a
+  - Why Called Out: The animal conversation pairs Kenzo’s attempt to commune with Seeker’s questions and the hyenas’ blunt replies about hunger and confinement.
+
+- ID: audio-004
+  - Title: A childhood story of abyssal infection
+  - Speaker: DM, Delwath, Kenzo, Seeker
+  - Source Lines: u2545-u2575
+  - Output: audio-004.m4a
+  - Why Called Out: The DM gives Delwath a remembered legend that suggests a possible explanation for the gnolls while explicitly preserving uncertainty.
+
+- ID: audio-005
+  - Title: Breakfast in the ruined fortress
+  - Speaker: DM
+  - Source Lines: u2631-u2640
+  - Output: audio-005.m4a
+  - Why Called Out: A quiet closing description imagines the former cavalry fortress as morning sunlight warms the ruined plaza.
