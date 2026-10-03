@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Isinguer
 died: 1688
