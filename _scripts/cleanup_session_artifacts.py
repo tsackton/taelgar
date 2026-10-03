@@ -8,13 +8,22 @@ Examples (from the vault root):
 
 Only --execute writes. --include-atypical widens deletion inside the three
 artifact directories, never directly under cleaned/. Recaps, both sources,
-manifests, beats, beat facts, scene maps, speaker statistics, polished
-transcripts, highlights, drafts, and exports are preserved. The cleaned source
+manifests, beats, beat facts, scene maps and approvals, timeline evidence and
+reviews, speaker statistics, polished transcripts, highlights, drafts, and
+exports are preserved. The cleaned source
 and recap are the required inputs to beat-transcript-polisher; neither depends
 on the artifacts deleted here, even when polishing has not happened yet.
 Regular .DS_Store files are disposable Finder metadata and are also deleted
 throughout cleaned/. They do not prevent otherwise empty artifact folders
 from being removed. Other directories are retained, even if emptied of metadata.
+
+Cleanup assessments, correction/acceptance decisions, and before-review or
+before-apply snapshots are disposable once review is complete and corrections
+are incorporated into the retained cleaned source. Deleting them discards the
+cleanup review history, including accepted uncertainty; restarting transcript
+cleanup may require reassessment. Timeline evidence retains authored chronology
+reasoning, timeline reviews validate it, and scene approvals support resuming
+summary generation without repeating approval of unchanged inputs.
 
 Each bundle must have a nonempty recap, both sources, beats, beat facts, and
 manifest. Incomplete bundles are skipped with a nonzero exit status. No override
@@ -50,6 +59,7 @@ DELETE_SUFFIXES = {
 KEEP_SUFFIXES = {
     "session.yaml", "session-recap.md", "source-prepared.md", "source-cleaned.md",
     "beats.json", "beat-facts.json", "recap-scenes.json", "speaker-stats.json",
+    "scene-approval.json", "timeline-evidence.json", "timeline-review.json",
 }
 KEEP_DIRS = {"beat-transcripts", "normalization-artifacts", "supplemental"}
 REQUIRED_SUFFIXES = (
@@ -59,7 +69,9 @@ REQUIRED_SUFFIXES = (
 TYPICAL_ARTIFACT_SUFFIXES = {
     "cleanup-artifacts": {
         "cleanup-report.json", "cleanup-summary.md", "session-corrections.yaml",
-        "human-transcript.md",
+        "human-transcript.md", "cleanup-assessment.json",
+        "cleanup-assessment-before-review.json", "cleanup-decisions.json",
+        "cleanup-decisions.before-apply.md",
     },
     "annotation-artifacts": {"beat-facts.json", "beat-facts-preview.md"},
     "annotation-context": {"beat-contexts.json", "beat-context-index.md"},
