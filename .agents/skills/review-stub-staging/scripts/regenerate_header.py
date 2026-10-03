@@ -52,11 +52,24 @@ def json_default(value):
     raise TypeError(f"Unsupported YAML value: {type(value).__name__}")
 
 
+def calendar_date(root):
+    """Use a configured Taelgar date, or the standalone preview fallback."""
+    calendar_path = root / ".obsidian/plugins/calendarium/data.json"
+    if calendar_path.exists():
+        calendars = json.loads(calendar_path.read_text(encoding="utf-8")).get("calendars", [])
+        matches = [calendar for calendar in calendars if calendar.get("name") == "Taelgar"]
+        if len(matches) == 1 and matches[0].get("current"):
+            current = matches[0]["current"]
+            if all(current.get(key) is not None for key in ("year", "month", "day")):
+                return current
+    return "1750-01-01"
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("note", type=Path)
     parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[4])
-    parser.add_argument("--date", help="Explicit in-world display date, YYYY-MM-DD")
+    parser.add_argument("--date", help="Optional explicitly requested preview date, YYYY-MM-DD")
     parser.add_argument("--write", action="store_true", help="Write after page approval; default prints full candidate")
     args = parser.parse_args()
     root = args.root.resolve()
@@ -66,9 +79,7 @@ def main():
     original_bytes = note.read_bytes()
     text = original_bytes.decode("utf-8")
     _, metadata = frontmatter(text)
-    date = args.date or metadata.get("pageTargetDate")
-    if not date:
-        raise ValueError("Supply --date from the agreed vault/campaign display date, or set pageTargetDate; do not guess")
+    date = args.date or metadata.get("pageTargetDate") or calendar_date(root)
     files = []
     for directory, dirs, names in os.walk(root):
         dirs[:] = [d for d in dirs if not d.startswith(".")]
