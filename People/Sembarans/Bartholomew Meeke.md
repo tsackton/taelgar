@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [status/stub, person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 name: Bartholomew Meeke
 knownTo: [clee]
@@ -13,6 +13,8 @@ POV: undated
 # Bartholomew Meeke
 >[!info]+ Biographical Info  
 > A [[Humans|human]]
+
+Bartholomew Meeke is a tin trader who spent time in [[Aslain]]. Enchanted by [[The Hunter]], he carried [[The Hunter's Letter - Email Exchange|a fey letter]] intended for the [[Heroes of Cleenseau]] while confused and disoriented. He later recovered in the care of the halflings in Aslain, where [[Callie Riverstone]] sheltered him. The two have a friendly relationship.
 
 
 %% 
