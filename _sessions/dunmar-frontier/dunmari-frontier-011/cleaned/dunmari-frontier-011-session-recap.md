@@ -2,10 +2,10 @@
 
 ## Session Header
 
-- Title: TODO
-- Desc Title: TODO
-- Tagline: TODO
-- One-Sentence Summary: TODO
+- Title: Dunmar Frontier - Session 11
+- Desc Title: The Demon in the Keep
+- Tagline: in which the demon falls and nightmares linger
+- One-Sentence Summary: Guided by Vola's account and their scouting, the party defeats a demon corrupting animal carcasses at Raven's Hold, but a night of nightmares leaves them wounded and the ritual unexplained.
 - Campaign: Dunmari Frontier
 - Arc: none
 - Scope: session
@@ -31,7 +31,7 @@
 - Combat Beats: beat-003
 
 #### Short
-TODO: Apr 12th, 1748, evening: one short event-log line.
+Kenzo and Wellby discover a demon in the keep at Raven's Hold.
 
 ### Apr 12th, 1748 (night)
 
@@ -46,7 +46,7 @@ TODO: Apr 12th, 1748, evening: one short event-log line.
 - Combat Beats: beat-007, beat-008
 
 #### Short
-TODO: Apr 12th, 1748, night: one short event-log line.
+The party defeats the demon and its undead gnolls.
 
 ### Apr 12th, 1748
 
@@ -61,7 +61,7 @@ TODO: Apr 12th, 1748, night: one short event-log line.
 - Combat Beats: none
 
 #### Short
-TODO: Apr 12th, 1748: one short event-log line.
+The party shelters in the north tower overnight.
 
 ### Apr 13th, 1748
 
@@ -76,7 +76,7 @@ TODO: Apr 12th, 1748: one short event-log line.
 - Combat Beats: none
 
 #### Short
-TODO: Apr 13th, 1748: one short event-log line.
+Most of the party wakes still wounded after nightmares.
 
 ### Apr 13th, 1748 (morning)
 
@@ -91,7 +91,7 @@ TODO: Apr 13th, 1748: one short event-log line.
 - Combat Beats: none
 
 #### Short
-TODO: Apr 13th, 1748, morning: one short event-log line.
+The party plans to investigate the remaining creatures and corrupted water.
 
 ## Recap
 
@@ -116,13 +116,15 @@ TODO: Apr 13th, 1748, morning: one short event-log line.
 - Image Alt:
 
 #### Short
-TODO
+Sheltering in the north tower with the rescued Vola, the party learns that her captors served Agata Dustmother and awaited the completion of a ritual. Kenzo and Wellby set out to investigate the keep.
 
 #### Intermediate
-TODO
+At dusk, the party feeds Vola and questions her in the north tower of Raven's Hold. She has spent about ten days captive, troubled by nightmares as animals accumulated outside. Her captors served Agata Dustmother, questioned her about Drankorian artifacts, and intended to take her to Agata once a ritual succeeded. Vola knows neither Agata's whereabouts nor the ritual's purpose. With their own injuries and dwindling magic making further exploration risky, the party sends Kenzo and Wellby to scout while the others rest.
 
 #### Long
-TODO
+At dusk, the party shares food with Vola in the ruined study or council chamber of the north tower. She has been imprisoned for roughly ten days; animals began arriving soon after her capture, becoming louder and more aggressive, and nightmares have troubled her for several nights. Kenzo remains wary of her membership in the Society of the Open Scroll, but the party intends to help her escape. They compare what they know of the animals, the poisoned water, and possible connections to the Abyss, without settling how these pieces fit together.
+
+Vola explains that rumors of treasure left by a three-headed, fire-breathing beast brought her to Raven's Hold. She climbed over the wall and avoided the dangerous vines by staying close to the cliff and away from the water. An orc and two jackalweres captured her and questioned her about Drankorian artifacts. They served Agata Dustmother, reportedly an unnaturally old woman, and planned to take Vola to her after a ritual succeeded. Vola cannot say where Agata is. Torn between resting and learning enough to return to Karawa with useful information, the party sends Kenzo and Wellby ahead while the others recover.
 
 ### recap-002 | Scouting the Keep
 
@@ -145,13 +147,15 @@ TODO
 - Image Alt:
 
 #### Short
-TODO
+The scouts find a desecrated chapel and silence an undead gnoll before discovering a goat-headed demon among the fires in the great hall.
 
 #### Intermediate
-TODO
+With Wellby made invisible by Delwath, the scouts reach the courtyard through the south tower. Unnatural heat and low mist surround the keep. Through a broken chapel window they see animal remains and a desecrated statue of Aagir. Kenzo alerts an undead gnoll but kills it before it can raise an alarm. Farther around the keep, the scouts find a horned, goat-headed demon pacing among fires and undead gnolls. Kenzo reads its aura, recognizing a powerful creature tethered to another plane, before they return to the tower.
 
 #### Long
-TODO
+Delwath makes Wellby invisible, and the scouts leave by way of the south tower because the north tower's stairs are broken. The inner courtyard is unnaturally warm, with mist lying low over the ground. Through shattered stained glass, they peer into a chapel littered with dead animals. Its altar has been smashed, and the head of Aagir's statue has been replaced with a gnoll skull.
+
+As they circle the keep, Kenzo steps on a rock and attracts an undead gnoll's attention. His staff misses, but two punches kill the creature before it can retreat inside and alert the others. They hide its body against the cliff, leaving Wellby's invisibility intact. At the great hall, they find a goat-headed demon with two horns, claws, a barbed tail, and festering sores surrounded by flies. It paces impatiently among the fires, swatting nearby undead gnolls and crushing skulls. Kenzo studies its aura and senses both its power and its connection to another plane. After noting the dark upper windows and a bonfire obstructing the stairs, the scouts slip back to report.
 
 ### recap-003 | The Carcass Ritual
 
@@ -174,13 +178,15 @@ TODO
 - Image Alt:
 
 #### Short
-TODO
+Wellby returns to watch while the others rest and sees the demon score animal carcasses with heated claws, leaving them blackened and covered in boils. The party closes the inner gates and prepares to attack with Vola's help.
 
 #### Intermediate
-TODO
+Kenzo reports that ordinary weapons can hurt the demon, although it resists fire, cold, and lightning and is immune to poison. The party takes another hour to recover while Wellby watches the hall. As darkness falls, he sees the demon heat its claws and score dead animals until their flesh blackens and erupts in boils. Seeker recalls rumors of demonic transformation through consuming demon flesh, but the carcasses' purpose remains uncertain. Exhausted Vola agrees to fight, and the party shuts the inner gates before approaching the keep.
 
 #### Long
-TODO
+The scouts have been gone a little under an hour, giving their companions time for a short rest. Kenzo explains that the demon resists fire, cold, and lightning and cannot be poisoned, but ordinary weapons can harm it. Vola is willing to help fight, though exhaustion would make a retreat difficult. The party decides to wait another hour: Wellby will watch the hall while everyone else rests.
+
+Watching without invisibility this time, Wellby sees the demon begin work on dead antelopes and axe-beaks. It heats its claws in a fire, scores the carcasses, and piles them near the entrance as their flesh blackens and develops boils and pus. He watches the process repeat before returning. Seeker recalls stories of worshippers transforming into demons by consuming demonic flesh, prompting speculation about a connection to the captive animals, but no one can establish the ritual's purpose. After considering distractions and the unknown Dunmari horn, which they leave unsounded, the party commits to an assault. Vola joins them, and they close the inner gates before advancing on the keep.
 
 ### recap-004 | Battle with the Demon
 
@@ -203,13 +209,15 @@ TODO
 - Image Alt:
 
 #### Short
-TODO
+They ambush the demon and three undead gnolls, but its poisonous tail nearly kills Delwath before Seeker revives and cures him. Kenzo lands the killing blow on the demon, and Riswynn finishes the last gnoll, leaving Kenzo still poisoned.
 
 #### Intermediate
-TODO
+Attacking through two entrances, the party catches the goat-headed demon and three undead gnolls by surprise. Wellby and Vola kill two gnolls while Delwath curses the demon and attacks with his shadow sword. The demon's barbed tail drops him unconscious and poisons him; Seeker brings him back with Healing Word and administers an Elixir of Health, allowing him to escape with Misty Step. The demon then poisons Kenzo, but a dagger strike from Vola helps set up his final punch, which cracks its horn and makes it vanish. Riswynn destroys the last gnoll with Shatterstorm and a fiery smite.
 
 #### Long
-TODO
+The party divides between two entrances and surprises the goat-headed demon and its three undead gnolls. Wellby's opening arrow strikes the demon, while Seeker's crossbow bolt and Delwath's Eldritch Blast miss. The demon responds with attacks on Delwath and curses that fill their minds. Vola produces shimmering daggers from empty hands and joins the fighting. Wellby kills one gnoll with his shortsword, provoking another to bite Vola; Seeker wounds that creature, and Vola finishes it. Delwath lays curses on the demon and strikes with his shadow sword, while the front line resists the creature's spell.
+
+A blow from the demon's poisonous tail drops Delwath unconscious. It stands over him as his flesh begins to rot and flies gather around him. Seeker reaches him with Healing Word, then administers an Elixir of Health to purge the poison. Delwath escapes the immediate danger with Misty Step. The demon's weakening gaze affects Kenzo without stopping his attacks, but its tail poisons him as well. Vola wounds the demon with a shimmering dagger, and Kenzo follows with a punch that cracks one of its horns. It vanishes without leaving a recoverable body. Riswynn brings Shatterstorm down on the remaining undead gnoll with a fiery smite, ending the fight. Delwath survives, but Kenzo is still suffering from the poison.
 
 ### recap-005 | Aftermath and Unfinished Business
 
@@ -232,67 +240,73 @@ TODO
 - Image Alt:
 
 #### Short
-TODO
+Searching the keep yields unexplained corrupted carcasses and unreadable military papers before the party retreats to the tower. Kenzo recovers from the poison, but nightmares leave most of his companions still wounded; by morning they plan to investigate the remaining creatures, animals, and corrupted water.
 
 #### Intermediate
-TODO
+With no immediate cure for Kenzo, the party examines the carcasses, puts out a fire, and searches the keep. The chapel holds dozens of recent animal remains, while Wellby finds old papers that appear to be military records but remain unreadable. They retreat to the north tower, where Kenzo recovers from the poison. Nightmares prevent most of the group from healing, and Seeker wakes exhausted after dreaming of a huge gnoll and animals transforming into gnolls. Suspecting a connection to the ritual, they plan to deal with the remaining gnolls and small flying demon, question or free the animals, and investigate the corrupted river and vines.
 
 #### Long
-TODO
+No one can immediately cure Kenzo's poison. The party finds roughly five altered carcasses near the entrance and distinguishes a fire burning without fuel from ordinary fires in the hall. They spend about ten minutes smothering a fire, while Delwath examines the area magically. The carcasses carry a magical effect distinct from the poison afflicting Kenzo, but its purpose remains unclear. Wellby and Riswynn see no enemies approaching. In the chapel, roughly thirty animal remains appear to have accumulated over the past few weeks, without yielding an explanation of what happened to them.
+
+Kenzo meditates outside as his eyes shine blue and the ground trembles slightly; Vola speaks quietly beside him, and Delwath keeps watch. The others search the upper rooms. Wellby finds a leather satchel of old papers in the same unread language as the earlier hobgoblin logbook. Numbers and sketches suggest troop movements or army accounts, but no one can translate them. The damaged top floor offers nothing worth taking, and the party returns to the north tower to rest. Three gnolls bang on the closed gates before walking away, and Wellby takes the first watch.
+
+Kenzo eventually shakes off the poison, but the night brings little healing. Riswynn and Vola rest well; Kenzo, Delwath, and Wellby recover their other resources but no hit points. Even Delwath's ability to rest without sleep fails to protect him from the nightmares. Seeker likewise remains wounded and gains a level of exhaustion, while Vola loses one. In the morning, Seeker describes a dream of a huge gnoll carrying a three-headed flail and animals turning into gnolls. The party suspects that the carcasses and captive animals are part of a transformation ritual, though its workings and Agata's involvement remain uncertain.
+
+They plan to confront the remaining gnolls, find the small flying demon, free or question the animals, and investigate the river and vines before departing. Burning the corrupted remains and vines is discussed, and the iron guardian remains of interest on the return journey. Vola cannot read the papers and demonstrates her shimmering dagger again. After Taster is fed, Seeker proposes bringing the rabbit along to speak with the animals. These investigations remain plans for the coming day.
 
 ## Cast
 
 ### NPCs
 
-- Vola (companion): TODO
+- Vola (companion): Rescued prisoner and member of the Society of the Open Scroll; describes her captors and fights beside the party with shimmering daggers.
   - Raven's Hold, 1748-04-12 to 1748-04-13
-- Goat-headed demon (met, fought): TODO
+- Goat-headed demon (met, fought): Horned creature with a poisonous barbed tail; corrupts animal carcasses and vanishes after Kenzo strikes the killing blow.
   - Raven's Hold, 1748-04-12
-- Taster (companion): TODO
+- Taster (companion): Seeker's rabbit, fed in the morning and proposed as company for an attempt to speak with the captive animals.
   - Raven's Hold, 1748-04-13
-- Agata (mentioned): TODO
-- Small flying demon (mentioned): TODO
+- Agata (mentioned): Agata Dustmother, whom Vola's captors served; reportedly unnaturally old, with an uncertain role in the ritual.
+- Small flying demon (mentioned): Previously seen bat-like creature the party still intends to find.
 
 ## Locations
 
 - Raven's Hold
-  - Summary: TODO
-  - Sublocations: North tower, ruined study or council chamber
+  - Summary: Ruined fortress occupied by corrupted creatures, where a demon works on dead animals and nightmares trouble those who rest.
+  - Sublocations: North tower and its ruined study or council chamber, south tower, inner gates and courtyard, chapel, great hall, upper rooms of the keep
   - Date Visited: 1748-04-12 to 1748-04-13
 
 ## Organizations And Items
 
 ### Organizations
 
-- Society of the Open Scroll (mentioned): TODO
+- Society of the Open Scroll (mentioned): Vola's organization, whose priorities in Chardon Kenzo distrusts.
 
 ### Items
 
-- Desecrated altar and statue of Aagir (encountered): TODO
+- Desecrated altar and statue of Aagir (encountered): Smashed chapel altar and a statue whose head has been replaced with a gnoll skull.
   - Raven's Hold, 1748-04-12
-- Corrupted animal carcasses (encountered): TODO
+- Corrupted animal carcasses (encountered): Scored with the demon's heated claws, then blackened and covered in boils; their magical alteration and intended use remain unexplained.
   - Raven's Hold, 1748-04-12
-- Shatterstorm (encountered): TODO
+- Shatterstorm (encountered): Riswynn's magical warhammer, used with a fiery smite to kill the last undead gnoll in the hall.
   - Raven's Hold, 1748-04-12
-- Elixir of Health (encountered): TODO
+- Elixir of Health (encountered): Administered by Seeker to remove Delwath's poison during the fight.
   - Raven's Hold, 1748-04-12
-- Untranslated military papers (encountered): TODO
+- Untranslated military papers (encountered): Old papers found by Wellby upstairs; numbers and sketches suggest military records, but no one can read them.
   - Raven's Hold, 1748-04-12
-- Dunmari horn (mentioned): TODO
+- Dunmari horn (mentioned): Considered as a possible aid before the attack; its effect remains unknown and it is not sounded.
 
 ## Combat
 
-### recap-002 | TODO
+### recap-002 | Silencing the Guard
 
 - Beat IDs: beat-003, beat-004
 - Enemies: Undead gnoll
-- Context / Outcome: TODO
+- Context / Outcome: Kenzo kills an undead gnoll that notices him during scouting; the scouts hide its body before an alarm can be raised.
 
-### recap-004 | TODO
+### recap-004 | Demon in the Great Hall
 
 - Beat IDs: beat-007, beat-008
 - Enemies: Goat-headed demon, Three undead gnolls, Remaining undead gnoll
-- Context / Outcome: TODO
+- Context / Outcome: The party and Vola ambush the demon and three undead gnolls; Seeker saves Delwath from the demon's poison, Kenzo strikes the killing blow, and Riswynn kills the final gnoll, with Kenzo still poisoned.
 
 
 ## Source Files
