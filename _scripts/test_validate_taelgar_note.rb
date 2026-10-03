@@ -205,6 +205,47 @@ class ValidateTaelgarNoteTest < Minitest::Test
     end)
   end
 
+  def test_image_wikilinks_resolve_assets_without_becoming_note_identities
+    root = make_vault
+    write_note(root, "assets/portraits/keeper.png", "image fixture")
+    write_note(root, ".backups/keeper.png", "hidden duplicate")
+    path = "People/Keeper.md"
+    text = "---\ntags: [person]\nspecies: human\nknownTo: []\nimage: \"[[keeper.png]]\"\n---\n# Keeper\n\nKeeper guards the gate.\n"
+    write_note(root, path, text)
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    validator = TaelgarNoteLint::Validator.new(root: root, index: index)
+
+    ["keeper.png", "assets/portraits/keeper.png", "../assets/portraits/keeper.png", "portraits/keeper.png|Portrait"].each do |target|
+      report = validator.validate_text(path, text.sub("[[keeper.png]]", "[[#{target}]]"))
+      refute_includes rule_ids(report), "link.unresolved", target
+      refute_includes rule_ids(report), "link.ambiguous", target
+    end
+    assert_empty index.resolve("keeper.png", path)
+    assert_empty index.resolve_identity("keeper.png", path)
+    assert_equal text, File.read(File.join(root, path))
+  end
+
+  def test_image_wikilinks_report_missing_and_ambiguous_targets
+    root = make_vault
+    write_note(root, "assets/one/keeper.png", "first image")
+    write_note(root, "assets/two/keeper.png", "second image")
+    path = "People/Keeper.md"
+    text = "---\ntags: [person]\nspecies: human\nknownTo: []\nimage: \"[[keeper.png]]\"\n---\n# Keeper\n\nKeeper guards the gate.\n"
+    validator = TaelgarNoteLint::Validator.new(root: root)
+
+    report = validator.validate_text(path, text)
+    finding = report.fetch("findings").find { |item| item["ruleId"] == "link.ambiguous" }
+    refute_nil finding
+    assert_equal ["assets/one/keeper.png", "assets/two/keeper.png"], finding.dig("details", "candidates")
+    ["missing.png", "old/path/keeper.png"].each do |target|
+      report = validator.validate_text(path, text.sub("[[keeper.png]]", "[[#{target}]]"))
+      assert_includes rule_ids(report), "link.unresolved", target
+    end
+    report = validator.validate_text(path, text.sub("[[keeper.png]]", "[[assets/one/keeper.png]]"))
+    refute_includes rule_ids(report), "link.unresolved"
+    refute_includes rule_ids(report), "link.ambiguous"
+  end
+
   def test_wikilinks_resolve_filenames_not_frontmatter_aliases
     root = make_vault
     write_note(root, "Gazetteer/Drankor.md", "---\ntags: [place]\nname: City of Drankor\ntypeOf: settlement\n---\n# Drankor\n")
