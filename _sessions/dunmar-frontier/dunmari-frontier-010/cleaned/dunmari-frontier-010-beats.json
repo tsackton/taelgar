@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-010/cleaned/dunmari-frontier-010-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Through the Hidden Tunnel",
+      "startUid": "u0001",
+      "endUid": "u0197",
+      "lineCount": 197,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The locked gate and ascent form one continuous journey to the upper storeroom. The next beat begins when Wellby rejoins the party.",
+      "dateEvidence": [
+        "Session YAML anchors April 12; u0405 and u0868 establish late afternoon during this continuous opening exploration."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Wellby’s Scouting Report",
+      "startUid": "u0198",
+      "endUid": "u0378",
+      "lineCount": 181,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby returns and recounts the old occupation and present activity; the next beat shifts to deciding where to scout.",
+      "dateEvidence": [
+        "The same uninterrupted afternoon; u0377 says only about six hours have elapsed since leaving the horses, and u0405 identifies late afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Mapping the Way Forward",
+      "startUid": "u0379",
+      "endUid": "u0673",
+      "lineCount": 295,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party debates routes, the iron construct, and splitting up; movement heard at u0674 interrupts the planning.",
+      "dateEvidence": [
+        "u0405 identifies late afternoon. No rest or day transition occurs during the map discussion."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Delwath Scouts Invisibly",
+      "startUid": "u0674",
+      "endUid": "u0969",
+      "lineCount": 296,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A noise prompts Delwath to scout the prison and both ends of the curving tunnel; his return ends the reconnaissance.",
+      "dateEvidence": [
+        "u0868 explicitly places the plaza in late-afternoon sun; u0854–u0859 give three or four minutes at the northern exit and u0961–u0962 about fifteen minutes for the complete scouting trip."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Clearing the Undead Prison",
+      "startUid": "u0970",
+      "endUid": "u1311",
+      "lineCount": 342,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party plans and executes a quiet attack on the two undead, then examines the former prison before choosing lookout positions.",
+      "dateEvidence": [
+        "Continuous same-day action following the late-afternoon scouting; the watch that follows begins in late afternoon at u1439–u1441."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "An Hour on Watch",
+      "startUid": "u1312",
+      "endUid": "u1553",
+      "lineCount": 242,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The group selects and occupies two observation points for a shared short rest, then regroups at sunset.",
+      "dateEvidence": [
+        "u1439–u1441 start an hour-long watch in late afternoon; u1459–u1462 end it at sunset/twilight. The southern account u1463–u1476 describes the same hour."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "The Empty Tower",
+      "startUid": "u1554",
+      "endUid": "u1802",
+      "lineCount": 249,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo scouts the first tower under Invisibility, brings the party inside, and they search its abandoned rooms; the next beat enters the occupied tower.",
+      "dateEvidence": [
+        "u1568 and u1620 say it is getting dark after the hour-long watch; there is no overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Finding Vola",
+      "startUid": "u1803",
+      "endUid": "u2070",
+      "lineCount": 268,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo discovers the occupied tower and its prisoner, aids Vola, and returns to plan her rescue. The next beat begins the group’s approach.",
+      "dateEvidence": [
+        "Same evening after the sunset watch; u1853–u1854 place Kenzo twenty minutes into his invisible scouting. The guard’s promise of more in the morning is future, not elapsed time."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Fighting the Tower Guards",
+      "startUid": "u2071",
+      "endUid": "u2518",
+      "lineCount": 448,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The rescue attempt starts with Sleep and becomes a fight with the orc and shapeshifter, ending when Kenzo kills the fleeing orc.",
+      "dateEvidence": [
+        "Continuous rescue action on the same evening; u2075–u2076 leave about ten minutes on Kenzo’s hour-long Invisibility, and combat rounds at u2450–u2453 last seconds."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Freeing Vola and Withdrawing",
+      "startUid": "u2519",
+      "endUid": "u2693",
+      "lineCount": 175,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party secures the remaining guard, recovers Vola’s equipment, and withdraws with her to the first tower; the next beat is their conversation in safety.",
+      "dateEvidence": [
+        "Direct aftermath of the fight, with no rest or day change; u2850 later confirms about 7 p.m."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Agata and the Relic Race",
+      "startUid": "u2694",
+      "endUid": "u2875",
+      "lineCount": 182,
+      "dateStart": "1748-04-12",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The final conversation reveals Vola’s mission and Agata’s relic hunt, then ends with discussion of cooperation and further investigation.",
+      "dateEvidence": [
+        "u2849–u2850 explicitly establish about 7 p.m.; u2871 proposes a rest, but no rest or next day is played before the session ends."
+      ]
+    }
+  ]
+}

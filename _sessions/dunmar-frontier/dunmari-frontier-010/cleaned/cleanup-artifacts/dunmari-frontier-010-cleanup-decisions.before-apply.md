@@ -206,7 +206,7 @@
 [u0206 | 00:15:45.750-00:15:46.560 | Seeker] seems safe enough
 [u0207 | 00:15:49.860-00:15:52.110 | Wellby] Well, I've got a few things to update you on
 [u0208 | 00:15:55.320-00:16:05.580 | Wellby] One is I found a barracks area of that must have been barracks for hobgoblins. So whenever they came. This is maybe
-[u0209 | 00:16:05.910-00:16:08.220 | Wellby] Eighty years ago or more. I mean, there was dust over everything.
+[u0209 | 00:16:05.910-00:16:08.220 | Wellby] [[Eight years]] ago or more. I mean, there was dust over everything.
 [u0210 | 00:16:12.090-00:16:20.850 | Wellby] There was a sign there were open fires that they lit in there. So hobgoblins must have camped or stayed there for some amount of time. I found
 [u0211 | 00:16:23.520-00:16:27.450 | Wellby] Hobgoblin money, I think, and I pull out a handful of
 [u0212 | 00:16:28.620-00:16:31.920 | Wellby] Small silver discs stamped with the Blackened Claw mark.
@@ -295,7 +295,7 @@
 [u0295 | 00:22:24.810-00:22:29.610 | DM] Yeah, I mean, basically what you know is that Raven's Hold was a
 [u0296 | 00:22:30.810-00:22:41.580 | DM] Dunmari outpost before the Great War and dwarven—it was a dwarven trading post. And this was a center of trade and exchange between the Dunmari and the dwarves.
 [u0297 | 00:22:53.100-00:22:58.170 | Kenzo] And Riswynn your, your ancestors were here last. How long ago.
-[u0298 | 00:23:00.180-00:23:11.790 | DM] So that was at the end of the Great War. At the end of the Great War, there was a bunch of incursions of various kinds of both hobgoblins and
+[u0298 | 00:23:00.180-00:23:11.790 | DM] So that was at the end of the Great War. At the end of the Great War, there was a bunch of incursions of various kinds of [[bullets]] hobgoblins and
 [u0299 | 00:23:14.340-00:23:18.600 | DM] Other more esoteric creatures.
 [u0300 | 00:23:19.830-00:23:24.930 | DM] Coming from the mountain into the north of Dunmar, of Dunmar.
 [u0301 | 00:23:26.370-00:23:28.380 | DM] And during that time.
@@ -854,7 +854,7 @@
 [u0854 | 01:06:47.730-01:06:48.780 | DM] I'd say this is about
 [u0855 | 01:06:49.920-01:06:51.540 | DM] You know, this has only been maybe
 [u0856 | 01:06:52.440-01:06:53.250 | DM] And it's an
-[u0857 | 01:06:53.520-01:06:54.780 | DM] three or four minutes
+[u0857 | 01:06:53.520-01:06:54.780 | DM] [[Hour and 10 minutes]]
 [u0858 | 01:06:54.810-01:06:55.950 | Delwath] How long does Invisibility—an hour
 [u0859 | 01:06:56.640-01:06:59.280 | DM] An hour okay so plenty of time.
 [u0860 | 01:07:01.920-01:07:05.070 | Delwath] Can we can get close enough to peer through and see what's there.
@@ -1498,7 +1498,7 @@
 [u1498 | 01:54:59.190-01:55:07.710 | DM] But your perspective is also a bit limited presuming you want to stay behind the door not open it and walk out onto the bridge.
 [u1499 | 01:55:08.850-01:55:09.030 | Unknown] So,
 [u1500 | 01:55:10.560-01:55:15.630 | Wellby] I think what I hear you say is if we were to leave this if we were to go out through the swinging bars.
-[u1501 | 01:55:15.960-01:55:29.370 | Wellby] We would go across the small bridge -- basically our only path would be to go across the small bridge into this tower through wooden door. From which or near which issues weird sounds, possibly of demon bat creatures or something we otherwise can't place.
+[u1501 | 01:55:15.960-01:55:29.370 | Wellby] We would go across the small bridge our basically our only path would be to go across the small bridge into this tower through wooden door. Yeah, from which are near which issues weird sounds possibly [[have demon that creatures or something we otherwise place]].
 [u1502 | 01:55:29.670-01:55:31.170 | DM] From like here as well.
 [u1503 | 01:55:32.490-01:55:44.700 | Wellby] And then once we're in that tower. That's the tower. That's a tower in the wall surrounding the keep and while we can see light in the keep. We can't from where we're standing. See how to get from the tower to the keep, so
 [u1504 | 01:55:45.960-01:55:52.650 | DM] Right, there's like a courtyard here. This is like. So there's a wall that goes like this. This is like outer wall and then inner wall.
@@ -1707,7 +1707,7 @@
 [u1707 | 02:11:25.650-02:11:26.880 | DM] No, not current
 [u1708 | 02:11:27.120-02:11:28.950 | DM] Okay, interesting. Old
 [u1709 | 02:11:30.540-02:11:32.460 | Kenzo] Old years hundred years.
-[u1710 | 02:11:34.620-02:11:40.680 | DM] Anywhere from 50 to, from 25 to 250, it's hard to
+[u1710 | 02:11:34.620-02:11:40.680 | DM] Anywhere from [[50 to 225 to 50]], it's hard to
 [u1711 | 02:11:41.940-02:11:42.240 | DM] Um,
 [u1712 | 02:11:42.450-02:11:42.720 | Kenzo] Okay.
 [u1713 | 02:11:43.200-02:11:46.980 | Kenzo] You know, not, not, it's a bit. It looks. It doesn't look like they're gnolls sleeping hear anything like that.
@@ -2619,7 +2619,7 @@
 [u2619 | 03:17:58.860-03:18:06.060 | DM] Gets re-equipped with weapons and she still had on her armor, but like weapons in gear and things
 [u2620 | 03:18:06.540-03:18:07.080 | Kenzo] Kind of weapons.
 [u2621 | 03:18:09.060-03:18:10.590 | DM] daggers and a hand crossbow.
-[u2622 | 03:18:12.330-03:18:21.180 | Seeker] Vola, this might sound like crazy question, but is there any chance this person that we've tied up is going to turn into a hyena person and escape from the bonds.
+[u2622 | 03:18:12.330-03:18:21.180 | Seeker] Vola, this might sound like crazy question, but is there any chance this person that we've tied up is going to turn into a [[person]] and escape from the bonds.
 [u2623 | 03:18:23.040-03:18:23.790 | DM] Hundred percent
 [u2624 | 03:18:26.010-03:18:28.650 | Seeker] Glad I asked, do any suggestions.
 [u2625 | 03:18:29.820-03:18:30.330 | DM] Kill it.

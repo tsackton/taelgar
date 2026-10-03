@@ -1,8 +1,8 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 excludePublish: [all]
 ---
-# Taelgar Climate Model Revised
+# Taelgar Continental Climate Model 
 
 This continent-scale reference describes temperature, moisture, and seasonal contrasts across the continent, providing a basis for regional climates and the transitions between them.
 
