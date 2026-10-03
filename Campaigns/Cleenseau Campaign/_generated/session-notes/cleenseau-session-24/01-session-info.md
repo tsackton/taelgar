@@ -113,7 +113,7 @@ https://kiya.dreamwidth.org/803696.html
 - [[Roland Vaissier]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): captain of the household guard who resumes his duties.
 - [[Edouard of Peydon]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): ferryman arrested for assisting the [[Midnight Lady]] and later killed after escaping custody.
 - the unnamed informant: gang associate who falsely offers evidence, arranges the prisoners' escape, and is expelled from [[Peydon]].
-- [[Brigitte Charpentier]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): gang enforcer killed after escaping custody and resisting recapture.
+- [[Brigitte|Brigitte Charpentier]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): gang enforcer killed after escaping custody and resisting recapture.
 - [[Tibault the Butcher]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): gang member killed after escaping custody and resisting recapture.
 - [[Noemie Vallier]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): gang member killed after escaping custody and resisting recapture.
 - [[Pierrot the Weasel]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): gang member who surrenders and provides information.

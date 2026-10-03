@@ -51,7 +51,7 @@
 [u0051] With guidance from Es*tiaslos, light spells in hand, and borrowed horses (aside from Greymalkin), we pursue the crew, reaching them just as they have scattered into hiding.
 [u0052] Viepuck has once again disguised himself as [[Gareth of Tollen|Gareth]] the executed bandit.
 [u0053] They are far enough apart that Celyn, who spots three of them, can't meaningfully faerie-fire more than one of them, so he just hucks his light spell stone at the feet of one of them to reveal her to the group, instead.
-[u0054] Robin charges the ferryman and thumps him soundly with a warhammer, as Celyn comments, "I _told_ you you didn't want to try his patience." The lady with the axe he hucked the light at — [[Brigitte Charpentier|Brick]] — lets out a battlecry and misses Celyn, but the guy with the boar spear that Celyn didn't spot — [[Tibault the Butcher|Tibault]] — stabs him successfully.
+[u0054] Robin charges the ferryman and thumps him soundly with a warhammer, as Celyn comments, "I _told_ you you didn't want to try his patience." The lady with the axe he hucked the light at — [[Brigitte|Brick]] — lets out a battlecry and misses Celyn, but the guy with the boar spear that Celyn didn't spot — [[Tibault the Butcher|Tibault]] — stabs him successfully.
 [u0055] Viepuck drops a sleep spell and takes out Tibault, so Celyn, whose patience is also worn thinner than gossamer, teleports off the horse to behind Brick and drops her to like two hit points with a single strike, saying with grim cheerfulness something like, "I've had the sort of day where I really want to stab something and I appreciate the volunteering".
 [u0056] Robin wheels Greymalkin, targets the bandit who had thrown two knives ...
 [u0057] well ...
