@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+tags: [person, status/check/ai]
 species: dwarf
 affiliations: [{org: Ferrystones, type: primary }]
 whereabouts: Aslain
@@ -15,3 +15,5 @@ dm_owner: mike
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[vondal-ferrystone.png|left|200]]
+
+Vondal Ferrystone is a dwarf of the [[Ferrystones]] living in [[Aslain]]. He and [[Kazak Ferrystone]] helped the [[Heroes of Cleenseau]] investigate the ruined [[Night Queen Temple (Aslain)|Night Queen temple]], identifying the supposed necromantic chamber as recent, poorly built stonework inconsistent with the older temple.
