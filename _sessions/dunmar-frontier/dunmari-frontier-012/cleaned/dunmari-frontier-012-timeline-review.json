@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-13",
+  "inferredEnd": "1748-04-13",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: just after sunrise",
+      "date": "1748-04-13",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "The session manifest supplies April 13; u0002 describes the sun rising over Raven’s Hold and u0046–u0048 explicitly say early morning, just after sunrise. The prior night and earlier Karawa events in the opening recap are retrospective.",
+      "beatId": "beat-001",
+      "sourceText": "Okay, so"
+    },
+    {
+      "uid": "u2122",
+      "label": "After the plaza fight: about eight",
+      "date": "1748-04-13",
+      "time": "about 08:00, morning",
+      "basis": "explicit",
+      "evidence": "u2121 asks whether it is still morning; the DM replies in u2122, “It’s like eight in the morning.” The fights and pursuit are continuous on the opening date.",
+      "beatId": "beat-008",
+      "sourceText": "It's like eight in the morning."
+    },
+    {
+      "uid": "u2184",
+      "label": "Ten-minute ritual during exploration",
+      "date": "1748-04-13",
+      "time": "morning; ten minutes pass",
+      "basis": "explicit",
+      "evidence": "u2184 offers ten minutes to cast Speak with Animals as a ritual; Seeker accepts at u2185, then speaks with the captive hyenas in u2258–u2306. Other party members scout concurrently.",
+      "beatId": "beat-009",
+      "sourceText": "But you don't need it. That's a ritual. You can spend 10 minutes to do that without using a spell slot if you'd like."
+    },
+    {
+      "uid": "u2617",
+      "label": "Short rest and breakfast",
+      "date": "1748-04-13",
+      "time": "later morning; short rest",
+      "basis": "explicit",
+      "evidence": "u2617–u2623 agree on a short rest in the courtyard/plaza. The DM describes the rising sun and breakfast in u2631–u2634 and confirms the rest is complete at u2640. No overnight rest or calendar transition occurs.",
+      "beatId": "beat-010",
+      "sourceText": "I think we should"
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-session.yaml",
+      "sha256": "3db2a47feecf9a248813a85be031ad5c8d4d67912c027d62f863cf4013efe413"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-beats.json",
+      "sha256": "f0244949ff9efabe6d5e82c6496735f4a9a673fb900453cc8ed9ae02cad890dc"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-beat-facts.json",
+      "sha256": "49fd4e11c8e6f5a2d6e7b1dc6b75273b704f78e6a545ac98660649c3a4131655"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-source-cleaned.md",
+      "sha256": "3fa3534243db702da18ad6deb7b0f3e70f8d38087bbfa15f2e893170ce3a7c31"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-timeline-evidence.json",
+      "sha256": "b8fa7deb86c73cb70ce273b37d7207918a5acc61e9a718f2844fce6f081101d8"
+    }
+  }
+}
