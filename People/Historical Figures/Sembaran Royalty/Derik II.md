@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T14:58:27-04:00"
+lintVersion: "3.5"
 tags: [person]
-name: Derik II
-born: 1422
 species: human
 ancestry: Sembaran
+born: 1422
 gender: male
 title: King
-affiliations:
-- {place: Sembara, start: 1462}
-- {place: Tyrwingha, start: 1462}
-- {org: House of Sewick, type: primary}
 died: 1496
-dm_notes: none
+name: Derik II
+affiliations:
+  - {place: Sembara, start: 1462}
+  - {place: Tyrwingha, start: 1462}
+  - {org: House of Sewick, type: primary}
+knownTo: []
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # King Derik II
 >[!info]+ Biographical Info
@@ -25,7 +29,10 @@ The second king of modern Sembara. He reigned from his father's death in DR 1462
 
 %% not really clear why Charlotte succeeded as his youngest but he was 38 when she was born so probably not his eldest %%
 
+%%^Metadata:names:v1%%
+- {"name": "Derik II", "role": "regnal", "language": "unknown", "status": "documented"}
+%%^End%%
 
-
-
-
+%%^povNotes:v1%%
+Temporal coverage: broadly modern retrospective account of Derik II’s reign and succession; the reason his youngest daughter inherited remains unresolved.
+%%^End%%

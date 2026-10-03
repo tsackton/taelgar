@@ -396,6 +396,28 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal 1, report.fetch("summary").fetch("errors")
   end
 
+  def test_date_blocks_accept_documented_before_suffix_and_reject_after_suffix
+    root = make_vault
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+
+    %w[1721 1721-01 1721-01-02].each do |date|
+      [date, "#{date}b"].each do |value|
+        report = validator.validate_text(
+          "Meta/Dated Account.md",
+          "---\ntags: [meta]\n---\n# Dated Account\n\n%%^Date:#{value}%%\nA substantive dated account.\n%%^End%%\n"
+        )
+        refute_includes rule_ids(report), "syntax.invalid_date_block", "#{value} is documented date-block syntax"
+      end
+
+      value = "#{date}a"
+      report = validator.validate_text(
+        "Meta/Dated Account.md",
+        "---\ntags: [meta]\n---\n# Dated Account\n\n%%^Date:#{value}%%\nA substantive dated account.\n%%^End%%\n"
+      )
+      assert_includes rule_ids(report), "syntax.invalid_date_block", "#{value} is not documented date-block syntax"
+    end
+  end
+
   def test_campaign_identity_applies_to_documents_not_entities_in_campaign_directories
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
