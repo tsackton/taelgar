@@ -1,20 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-knownTo: [Mawar]
-name: Azar
-aliases: [Azar the Lost]
-born:
+lintedAt: "2026-10-03T14:10:06-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Mawaran
+born: null
 gender: male
+campaignInfo: []
+name: Azar
+aliases: [Azar the Lost]
 whereabouts:
   - {type: home, end: 1747, location: Mawakel Peninsula, alias: eastern coast of the Mawakel Peninsula}
   - {type: away, location: Hamri, start: 1747-08-03, end: 1747-08-09}
   - {type: away, location: Mawakel Peninsula, start: 1747-08-09, alias: a lizardfolk village south of Hamri}
-campaignInfo: []
-dm_notes: important
+knownTo: [mawar]
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # Azar
 >[!info]+ Biographical Info  
@@ -38,4 +41,29 @@ The lizardfolk village remains unnamed, and is not [[Eskorola]] (despite DM note
 
 Fate in 1749 is undetermined. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Azar, language: unknown, pronunciation: AH-zahr, status: proposed, notes: "Proposed from the Mawaran cultural context and the Arabic analogue in [[Languages]]; the name's language and original spelling are not independently documented."}
+- {name: Azar the Lost, role: alias, language: unknown, pronunciation: AH-zahr thuh LOST, status: proposed, notes: "The epithet is documented in this note; the proposed full pronunciation uses the primary-name proposal and the ordinary English reading of the epithet."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of Azar's life from the loss of his family through his departure from Hamri in DR 1747; it does not establish his subsequent fate.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized `knownTo` to `[mawar]` and frontmatter formatting; recorded primary and alias name entries with proposed pronunciations and a modern retrospective viewpoint.
+
+### Validated judgments
+- The account adequately covers Azar's motive, crimes, major relationships and known outcome, corroborated by [[Azar's Tale]] and [[Mawar Adventures Episode 02]].
+- The shared DM block preserves source pointers and unresolved later continuity; it does not establish a new public fact or independently support the external `dm_notes` attestation.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Accept or correct proposed `AH-zahr` and full alias `AH-zahr thuh LOST`; copy the accepted primary pronunciation to frontmatter and mark the entries documented. The Mawaran Arabic analogue in [[Languages]] informs open a/ah vowels, voiced z, a tapped or lightly trilled r and initial stress in the two-syllable reading. The Latin spelling does not establish vowel length or an original Arabic form, so the reading remains provisional; the epithet uses its ordinary English reading. The name's in-world language is not independently established.
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes: important`. Preserve it if it represents useful information in memory or another off-vault source; change it only after human review. Shared DM notes are a separate privacy mechanism and do not establish this attestation.
 %%^End%%

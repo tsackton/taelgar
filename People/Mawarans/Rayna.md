@@ -1,19 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T14:10:06-04:00"
+lintVersion: "3.5"
 tags: [person]
-knownTo: [Mawar]
-name: Rayna
-born: 1713
 species: human
 ancestry: Mawaran
+born: 1713
 gender: female
+name: Rayna
 whereabouts:
   - {type: home, location: Mawar Confederacy}
   - {type: home, location: Gulf of Chardon}
   - {type: away, location: Hamri, start: 1749-05-26, end: 1749-05-27}
   - {type: away, location: Endless Ocean, start: 1749-05-28, alias: sailing toward Apporia and Omi, format: "<name:x>"}
-dm_notes: none
+knownTo: [mawar]
 dm_owner: none
+dm_notes: none
+POV: 1749
 ---
 # Rayna
 >[!info]+ Biographical Info  
@@ -28,3 +31,11 @@ Since her youth, Rayna has heard the ocean in songs and visions. Those songs fel
 In May 1749, Rayna came to the [[Leviathan Inn]] and asked the [[Adventurers of Mawar]] to find the lost song. After the party recovered the fragment from the [[Shrine to Guzo the Mariner]], she took it westward, sailing toward [[Apporia]] and the merfolk city of [[Omi]].
 
 %%SECRET[v2:61074ec405fc4d60bbfba0526a963856]%%
+
+%%^Metadata:names:v1%%
+- {name: Rayna, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: Rayna’s biography through May DR 1749, ending with her departure toward Apporia and Omi; the outcome of that voyage is not described.
+%%^End%%
