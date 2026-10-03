@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T18:19:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -9,6 +11,7 @@ name: Tibault
 pronunciation: tee-BOH
 whereabouts: Peydon
 knownTo: [clee]
+POV: modern
 ---
 # Tibault
 *(tee-BOH)*
@@ -23,4 +26,8 @@ After the [[Midnight Lady]]’s death, Tibault became more concerned with self-p
 
 %%^Metadata:names:v1%%
 - {name: Tibault, language: Sembaran, pronunciation: tee-BOH, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of Tibault’s former role in Peydon and his death on March 4, 1720; it does not describe a living present-day state.
 %%^End%%

@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T18:19:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -10,6 +12,7 @@ aliases: [Brick]
 pronunciation: bree-ZHEET
 whereabouts: Peydon
 knownTo: [clee]
+POV: modern
 ---
 # Brigitte
 *(bree-ZHEET)*
@@ -26,4 +29,8 @@ She was killed attempting to escape custody by the [[Heroes of Cleenseau]].
 
 %%^Metadata:names:v1%%
 - {name: Brigitte, language: Sembaran, pronunciation: bree-ZHEET, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of Brigitte’s former role in Peydon and her death on March 4, 1720; it does not describe a living present-day state.
 %%^End%%

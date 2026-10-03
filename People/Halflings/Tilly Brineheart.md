@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T18:19:15-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/tim]
 species: halfling
 gender: female
@@ -8,6 +10,7 @@ pronunciation: TILL-ee BRYNE-hart
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: modern
 ---
 # Tilly Brineheart
 *(TILL-ee BRYNE-hart)*
@@ -24,4 +27,8 @@ Captured with Milo and members of their crew near [[Omi]], Tilly was imprisoned 
 
 %%^Metadata:names:v1%%
 - {name: Tilly Brineheart, language: unknown, pronunciation: TILL-ee BRYNE-hart, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern reference portrait of Tilly’s seafaring and magical abilities, with a retrospective campaign account of her captivity, rescue, and departure in May 1749.
 %%^End%%

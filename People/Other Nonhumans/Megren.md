@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T18:19:15-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/tim]
 species: dragonet
 gender: female
@@ -9,6 +11,7 @@ whereabouts: Circular Island
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1749
 ---
 # Megren
 *(MEG-ren)*
@@ -26,4 +29,8 @@ Megren is a [[Dragonets|dragonet]] who lives in a well-maintained tower on the [
 
 %%^Metadata:names:v1%%
 - {name: Megren, language: unknown, pronunciation: MEG-ren, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a May DR 1749 portrait of Megren as the owner of her island tower, after her mainland journey and before Ra'ghemdros's defeat; no later change in Megren's own circumstances is established.
 %%^End%%
