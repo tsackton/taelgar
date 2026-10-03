@@ -31,18 +31,18 @@
 - Organizations: none
 - Items: Mysterious egg
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: dragonets-01-wanderer.webp
+- Image Role: aside
+- Image Size: small
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: The Wanderer’s palm, where the friends wake after the vision.
+- Image Alt: An immense weathered stone hand extends above clouds, with a small shelter among its vines.
 
 #### Short
-Heska, Sculpit, Little Tony, and Zeno wake on the Wanderer's palm with the egg dark and their extraordinary powers faded, but with childhood memories newly illuminated by its vision.
+Heska, Sculpit, Little Tony, and Zeno wake from a strange night of dreams and visions on the Wanderer's palm, with the egg dark beside them and their extraordinary powers faded.
 #### Long
-Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, remembering the egg's vision of a dying purple dragonet enveloped in light and the feeling of coming home. The egg no longer glows, and their extraordinary abilities have faded, but the experience has brought childhood memories into focus. Zeno recalls visiting his uncle Kaz at a mountain monastery, where the monks' drone seemed to play their bodies and the building as one instrument. Heska remembers a dance performance nobody noticed, followed by a flight out to sea where he discovered how to conceal himself from fish below; his great catch gave him another way to belong. Sculpit remembers a storm engulfing him during a youthful race, the moment he stopped struggling against its energy, and his sudden arrival on the Wanderer's palm. Now he can look toward that same storm with an unfamiliar calm. Little Tony recalls sparing the golden-shelled King of the Hermit Crabs and wishing to 'walk to any swing.' The crab heard 'talk to anything,' and the world began speaking to him. Tony also traces his name to the crab's misunderstood greeting. All four remember the Wanderer's open eye in their dream.
+Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, waking slowly from a strange night of dreams and visions. The egg is dark beside them, no longer glowing, and their brief taste of extraordinary abilities has faded. As each dragonet wakes, they find the strange experience has brought childhood memories into focus. Zeno drifts awake first, in his mind recalling visiting his uncle Kaz at a mountain monastery, where the monks' drone seemed to play their bodies and the building as one instrument. Heska, waking second, things to himself about a miserable dance performance nobody noticed when he was a young dragonet, and then flight out to sea to escape the embarrassment, where he discovered how to conceal himself from fish below; his great catch gave him another way to belong. Sculpit opens his eyes remembering a storm engulfing him during a youthful race, the moment he stopped struggling against its energy, and his sudden arrival on the Wanderer's palm. Now he can look toward that same storm with an unfamiliar calm. Little Tony wakes last, his mind replaying a memory from long ago, when he spared the golden-shelled King of the Hermit Crabs, wishing for the ability to 'walk to any swing' as a reward. The crab heard 'talk to anything,' and the world began speaking to him.
 
 ### recap-002 | Experiments with Breakfast
 
@@ -57,17 +57,16 @@ Morning finds Heska, Sculpit, Little Tony, and Zeno on the Wanderer's palm, reme
 - Organizations: none
 - Items: Ancient food machine, Food-machine creations
 - Enemies: none
-- Image:
-- Image Role:
+- Image: dragonets-02-food-machine.webp
+- Image Role: hero
 - Image Size:
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: The ancient food machine finds a purpose again.
+- Image Alt: Three dragonets operate a cascading brass food machine among sunlit stone ruins.
 
 #### Short
-Looking for breakfast, they discover an ancient food machine that responds to their music and thoughts, turn its increasingly improbable creations into restaurant plans, and attract Ilse's summons to Shaman Oru.
-
+Hungry and looking for breakfast, the dragonets discover an ancient food machine that responds to their music and thoughts, though not always how they hope or expect. They are busy discussing how to turn its increasingly improbable creations into restaurant plans while Ilse arrives and summons to speak with Shaman Oru.
 
 #### Long
 Breakfast and the prospect of a restaurant soon take precedence. Grandpa Jim the Cloud, an old acquaintance of Tony's with strong opinions about his usefulness, reports opening statue eyes, warmth in the Mother's heart, illuminated roads, and newly active fountains and food machines. The friends follow the pilgrimage road to a crowd around one of the old machines. Xena is there, prompting Heska to hide, and Tony's cousin Paul, also called Paulie, says Joey imagined salted salmon and received it the night before. Zeno harmonizes with the machine's hum until steam and a waterwheel begin moving, then imagines fish inside fish. Out comes a raw bluefin with smaller fish and a raw potato inside it. Tony senses the machine's delight in having a purpose again.
@@ -87,13 +86,20 @@ Heska uses an invisible Mage Hand to sample the unfamiliar food and drops a stri
 - Organizations: none
 - Items: Oru's mechanical artifact, Statue of the Wanderer
 - Enemies: none
-- Image:
-- Image Role:
-- Image Size:
+- Image: dragonets-02-shaman.webp
+- Image Role: figure
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: Oru listens to their account of the egg and the island’s awakenings.
+- Image Alt: A robed dragonet shaman addresses four listeners beneath a colossal stone hand.
+- Image 2: dragonets-02-mechanical-eye.webp
+- Image 2 Role: figure
+- Image 2 Size: standard
+- Image 2 Placement:
+- Image 2 Render:
+- Image 2 Caption: The Wanderer’s eye opens to admit them.
+- Image 2 Alt: Four dragonets approach an enormous mechanical eye framed in angular brass and stone.
 
 #### Short
 Oru connects their account of the egg with the island's awakenings, and Roska's news leads them back to the Wanderer, whose eye opens to admit all five while the shaman waits outside.
@@ -119,13 +125,20 @@ They fly back together, and the mechanical iris tracks their approach. Oru admit
 - Organizations: none
 - Items: Statue of the Wanderer
 - Enemies: Four guardian statues
-- Image:
-- Image Role:
-- Image Size:
+- Image: dragonets-02-mechanical-shaft.webp
+- Image Role: figure
+- Image Size: standard
 - Image Placement:
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: A mechanical chorus resonates within the Wanderer.
+- Image Alt: Glowing amber columns, angular machinery and layered catwalks rise through a vast shaft.
+- Image 2: dragonets-02-statue-room.webp
+- Image 2 Role: figure
+- Image 2 Size: standard
+- Image 2 Placement:
+- Image 2 Render:
+- Image 2 Caption: The four guardians within the Wanderer.
+- Image 2 Alt: Five dragonets face four monumental seated guardians in a chamber of brass, blue light and towering machinery.
 
 #### Short
 Inside, their heightened powers return as four guardian statues attack Roska, forcing them to use fog, music, and protective magic until Sculpit teleports him to safety and the attack stops.
@@ -151,13 +164,13 @@ Heska casts Fog Cloud over one guardian's head while Tony seeks help understandi
 - Organizations: none
 - Items: Statue of the Wanderer, Eight seats in the Wanderer’s heart, Energy-signature device
 - Enemies: none
-- Image:
-- Image Role:
+- Image: dragonets-02-control-room.webp
+- Image Role: hero
 - Image Size:
-- Image Placement:
+- Image Placement: start
 - Image Render:
-- Image Caption:
-- Image Alt:
+- Image Caption: Eight seats await in the Wanderer’s heart.
+- Image Alt: Eight empty control seats encircle an amber armillary, with four stations glowing orange, blue, green and violet.
 
 #### Short
 Welcomed farther inside, the four settle into seats in the Wanderer's heart and awaken the statue, while unseen observers beyond the storm detect four signatures they identify as Firstborn.
