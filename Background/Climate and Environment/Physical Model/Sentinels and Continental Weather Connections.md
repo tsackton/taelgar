@@ -45,9 +45,9 @@ This qualitatively accommodates K12–K14 in [[Climate and Weather Constraints]]
 
 ### Winter
 
-![[assets/worldbuilding/taelgar-sentinels-winter-v3.png|1400]]
-
-*Winter continental cold and western moisture supply across the full range. Snow persistence and pass conditions depend on height and exposure.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-sentinels-winter-v3.png]]
+> *Winter continental cold and western moisture supply across the full range. Snow persistence and pass conditions depend on height and exposure.*
 
 Western ocean disturbances deliver rain to the milder forested footslopes and snow higher up. Northern and central high terrain repeatedly accumulates snow; a single warmer passage can raise the rain–snow boundary without removing the established high ice. Winds produce uneven loading across crests and gullies. At lower western elevations, wet snow and thaw can alternate, while the far northern forests retain a longer cold season.
 
@@ -65,9 +65,9 @@ Zimkova and the Vostok uplands retain colder nights and later thaw than Sembaran
 
 ### Summer
 
-![[assets/worldbuilding/taelgar-sentinels-summer-v3.png|1400]]
-
-*Summer moisture approaches from different sides of the range, with drier southern high country and persistent high-elevation ice.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-sentinels-summer-v3.png]]
+> *Summer moisture approaches from different sides of the range, with drier southern high country and persistent high-elevation ice.*
 
 Western lowlands and forested slopes warm, with the Elderwood's summer drying grading northward toward more frequent maritime showers. High terrain remains much colder. Northern and central snowfields and glaciers persist through periods of daytime melting; fresh high-elevation snow can interrupt otherwise fine weather. Warm weather in a valley therefore gives little assurance of conditions at the crest.
 
@@ -108,9 +108,9 @@ K28 and E18 in [[Climate and Weather Constraints]] require ordinary glaciers and
 
 ## Winter storms from Chardon to the Green Sea
 
-![[assets/worldbuilding/taelgar-sentinels-winter-redevelopment-v1.png|1400]]
-
-*Illustrative winter redevelopment: blue dashed arrows show the movement of a disturbance and a candidate low; purple shows surface moisture flow. The low and track are one possible episode, not an additional fixed seasonal center.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-sentinels-winter-redevelopment-v1.png]]
+> *Illustrative winter redevelopment: blue dashed arrows show the movement of a disturbance and a candidate low; purple shows surface moisture flow. The low and track are one possible episode, not an additional fixed seasonal center.*
 
 The working model retains a candidate **southern winter storm corridor** connecting the western coast, the Sentinels, Greater Sembara, and the Green Sea. It supplies intermittent winter rain or snow to the Sembaran lowlands and Cymea. Sembara keeps its spring–summer precipitation emphasis, with useful cool-season wet spells; a pronounced winter drought is not required. The colder northern interior retains stronger continental drying.
 

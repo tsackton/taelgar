@@ -31,9 +31,9 @@ Chardon's recurring fog is compatible with its dry summer. Moist air cooled near
 
 ### Winter
 
-![[assets/worldbuilding/taelgar-western-winter-v3.png|1400]]
-
-*Winter ocean passages and episodic northern cold, with regional moisture access shown on the continental pressure framework.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-western-winter-v3.png]]
+> *Winter ocean passages and episodic northern cold, with regional moisture access shown on the continental pressure framework.*
 
 The southward withdrawal of the high admits sequences of west–southwest disturbances to northern Apporia, the Gulf of Chardon, the Chasa basin, and the western Sentinel slopes. Rainy periods alternate with clearer intervals; a wet season need not be a continuous gale. The gulf remains relatively sheltered from severe storms, while exposed western Apporian shores and headlands receive more direct wind and ocean swell.
 
@@ -51,9 +51,9 @@ Passing disturbances and increasing land warmth overlap around the southern Fiat
 
 ### Summer
 
-![[assets/worldbuilding/taelgar-western-summer-v3.png|1400]]
-
-*Summer ridge influence and episodic inland moisture routes. The numbered notes identify regional contrasts; arrows do not prescribe continuous daily winds.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-western-summer-v3.png]]
+> *Summer ridge influence and episodic inland moisture routes. The numbered notes identify regional contrasts; arrows do not prescribe continuous daily winds.*
 
 The western high supports the dependable dry season at Chardon, the Chasa, and northern Apporia. Exposed Coastlands shores favor north–northwest winds; local sea breezes and weaker winds occur around sheltered gulf waters. Chardon has comfortably warm weather with foggy or cool intervals, while inland southern valleys can have hot afternoons. The high suppresses widespread rain more reliably than it suppresses low cloud.
 

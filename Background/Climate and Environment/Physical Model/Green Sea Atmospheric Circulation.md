@@ -90,9 +90,9 @@ The seasonal views show recurring pressure arrangements on a common geographic b
 
 ### Winter
 
-![[assets/worldbuilding/taelgar-green-sea-winter-v3.png|1400]]
-
-*The adopted continental winter pattern, cropped to the Green Sea. Dashed purple arrows show occasional cold outbreaks; the northern low represents repeated storm passages.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-green-sea-winter-v3.png]]
+> *The adopted continental winter pattern, cropped to the Green Sea. Dashed purple arrows show occasional cold outbreaks; the northern low represents repeated storm passages.*
 
 The subtropical ridge extends across the southern basin toward Medju, favoring settled weather and light or variable winds near its axis. Southern calms are most troublesome in **January–February**. Both continental heat lows weaken; no persistent summer Cymean low is needed to explain winter rain.
 
@@ -104,9 +104,9 @@ The southern storm branch brings intermittent wet spells to Sembara and Cymea. I
 
 ### Spring
 
-![[assets/worldbuilding/taelgar-green-sea-spring-v3.png|1400]]
-
-*A spring transition pattern: southern westbound and offshore northbound opportunities coexist with useful northern westerly intervals. Cool maritime ridge episodes can interrupt the pattern.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-green-sea-spring-v3.png]]
+> *A spring transition pattern: southern westbound and offshore northbound opportunities coexist with useful northern westerly intervals. Cool maritime ridge episodes can interrupt the pattern.*
 
 Land warms before the northern sea. Developing Cymean and desert lows, together with the northward-expanding ocean ridge, open southern westbound opportunities from **late March–April**. The offshore western branch supplies northbound opportunities, connecting with northern westerly intervals into **June**. Early cool maritime ridges can briefly interrupt this pattern without replacing it for the season.
 
@@ -116,9 +116,9 @@ For a northern voyage, several days of useful westerly weather can be followed b
 
 ### Summer
 
-![[assets/worldbuilding/taelgar-green-sea-summer-v3.png|1400]]
-
-*The adopted continental summer pattern, cropped to the Green Sea. The northern easterlies represent the July–August tendency, between the secondary maritime ridge and the Cymean offshore trough.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-green-sea-summer-v3.png]]
+> *The adopted continental summer pattern, cropped to the Green Sea. The northern easterlies represent the July–August tendency, between the secondary maritime ridge and the Cymean offshore trough.*
 
 By **July–August**, the northeastern maritime ridge and the offshore Cymean trough favor the northern **E–NE** regime. Rebuilding ridges make westbound passages sufficiently recurrent to organize trade, while interruptions permit showers, storms, and changing winds. The main eastern ocean high supplies the separate northbound branch in parts of the western basin. Its northern end now meets the westbound corridor, so a favorable northbound leg no longer guarantees an easy onward passage to Ursk.
 
@@ -130,9 +130,9 @@ Southern easterlies recur between the ocean ridge and desert heat low. Exposed s
 
 ### Autumn
 
-![[assets/worldbuilding/taelgar-green-sea-autumn-v3.png|1400]]
-
-*An autumn transition pattern. Dashed arrows illustrate selected southward and southwestward episodes around a returning southern ridge; they are separate opportunities, with no continuous fair-wind route implied.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-green-sea-autumn-v3.png]]
+> *An autumn transition pattern. Dashed arrows illustrate selected southward and southwestward episodes around a returning southern ridge; they are separate opportunities, with no continuous fair-wind route implied.*
 
 The land lows weaken and northern maritime ridging becomes less persistent. Returning westerly disturbances reopen eastbound opportunities from Ursk, particularly **mid-September–early October**, with greater storm exposure later. Land cools faster than the sea: inland frost and upland snow can accompany relatively mild coastal rain, and an early cold spell can be followed by a maritime thaw.
 

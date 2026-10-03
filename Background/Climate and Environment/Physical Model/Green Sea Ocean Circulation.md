@@ -102,9 +102,9 @@ The Western Gulf cools, its thermal layers weaken, and rainy episodes can renew 
 
 ## The Western Gulf
 
-![[assets/worldbuilding/taelgar-western-gulf-exchange-v1.png|1400]]
-
-*The geographic view shows the shared strait corridor and western Cymean summer upwelling. The unscaled section separates fresher surface export from deeper cold, saltier inflow; it assigns no depth, layer thickness, or current speed.*
+> [!image|hero]
+> ![[assets/worldbuilding/taelgar-western-gulf-exchange-v1.png]]
+> *The geographic view shows the shared strait corridor and western Cymean summer upwelling. The unscaled section separates fresher surface export from deeper cold, saltier inflow; it assigns no depth, layer thickness, or current speed.*
 
 The Western Gulf exchanges water with the larger sea through the [[Straits of Cymea]]. 
 
