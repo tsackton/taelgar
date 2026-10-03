@@ -29,12 +29,12 @@ participants:
   gameRole: DM
   transcriptIdentifiers:
   - DM
-sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/sources/Session139-recovered.identified.vtt
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/sources/Session139-recovered.identified.vtt
 sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
   138/raw_audio/Session138-Tim-Chunk-01.m4a
-sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/sources/dunmar-frontier-ep139-source-prep.yaml
-participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/sources/dunmar-frontier-core-participants.yaml
-preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/cleaned/dunmar-frontier-139-source-prepared.md
-speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/sources/dunmar-frontier-ep139-speaker-mappings.json
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/sources/dunmar-frontier-ep139-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/sources/dunmar-frontier-core-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/sources/dunmar-frontier-ep139-speaker-mappings.json
 transcriptFormat: vtt
-speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-139/cleaned/dunmar-frontier-139-speaker-stats.json
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-speaker-stats.json
