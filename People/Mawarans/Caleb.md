@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T14:10:06-04:00"
+lintVersion: "3.5"
 tags: [person]
-knownTo: [Mawar]
-name: Caleb
 species: human
 ancestry: Mawaran
 gender: male
 died: 1742
-whereabouts: 
-- {type: home, location: Mawar Confederacy}
-- {type: home, location: Endless Ocean}
-dm_notes: none
+name: Caleb
+whereabouts:
+  - {type: home, location: Mawar Confederacy}
+  - {type: home, location: Endless Ocean}
+knownTo: [mawar]
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Caleb
 >[!info]+ Biographical Info  
@@ -28,3 +31,11 @@ Source links:
 - [[Mawar Adventures Episode 05]]
 - [[Rayna]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Caleb, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of Caleb's role in Rayna's childhood and his later death.
+%%^End%%

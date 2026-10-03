@@ -1,19 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: [{campaign: DuFr, type: attended her funeral, date: 1748-05-05, wParty: "<person:U> <met:U> on <target>"}]
-name: Camana
-born: 1721
+lintedAt: "2026-10-03T14:10:06-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+  - {campaign: dufr, type: attended her funeral, date: 1748-05-05, wParty: "<person:U> <met:U> on <target>"}
+born: 1721
 gender: female
 died: 1748-05-05
-affiliations: [Havdar's Warband]
+name: Camana
+affiliations: ["Havdar's Warband"]
 whereabouts:
-- {type: home, location: Eastern Dunmar}
-- {type: away, start: 1748-05-01, end: 1748-05-05, location: Nashtkar}
+  - {type: home, location: Eastern Dunmar}
+  - {type: away, start: 1748-05-01, end: 1748-05-05, location: Nashtkar}
+knownTo: [dufr]
 dm_owner: none
 dm_notes: color
+POV: 1748
 ---
 # Camana
 >[!info]+ Biographical Info  
@@ -21,7 +26,7 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% The [[Dunmar Fellowship]] attended her funeral on May 5th, 1748 %%^End%%
+>> %%^Campaign:dufr%% The [[Dunmar Fellowship]] attended her funeral on May 5th, 1748 %%^End%%
 
 %% need to decide how to track campaign info for people party heard of but never met%%
 
@@ -29,4 +34,33 @@ A Dunmari warrior, archer, and scout. She is associated with [[Havdar]] and his 
 
 %%^Date:1748-05-05%%
 In May 1748, she died in battle fighting [[Orcs]] affiliated with [[Grash]] in the desert west of [[Kharsan]]. [[Havdar]] gifted her [[Flaming Bowstring]] to [[Wellby]] in thanks for the aid of [[Dunmar Fellowship]] in battle. 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Camana, language: unknown, pronunciation: chuh-MUH-nuh, status: proposed, notes: "Proposal guided by the Dunmari cultural context and the Hindi analogue in Languages: c as ch in chair, short a vowels as uh, and tentative middle-syllable stress. A Persian-influenced chah-MAH-nah is another possible adaptation. The name language and exact pronunciation are not documented."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 portrait of Camana as a scout leader before her death on May 5; the dated paragraph records her death and the transfer of her bowstring.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized the header campaign identifier from `DuFr` to `dufr`; this case-only change preserves campaign filtering.
+- Normalized frontmatter, changed the campaignInfo code to `dufr`, and added `knownTo: [dufr]` from the recorded funeral attendance.
+- Added proposed name metadata and a `1748` POV distinguishing her scout-leader portrait from the dated death paragraph.
+
+### Validated judgments
+- [[Session 21 (DuFr)]] supports her scout leadership, death, and bowstring transfer; her existing dated paragraph preserves that outcome.
+- Matching local sources support the existing positive `dm_notes` attestation.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed pronunciation in `Metadata:names:v1`: `chuh-MUH-nuh`: `c` as `ch` in “chair,” short a vowels approximated as `uh`, and tentative middle-syllable stress. This uses the Hindi analogue for the Dunmari cultural context in [[Languages]]; a Persian-influenced `chah-MAH-nah` is another possible adaptation. No exact name-language or accepted pronunciation is recorded. Confirm or revise the proposal; on acceptance, copy the chosen pronunciation to frontmatter and change the entry to `status: documented`.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Session 21]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Into the Desert (Session 19-25)/Session 25]]
 %%^End%%

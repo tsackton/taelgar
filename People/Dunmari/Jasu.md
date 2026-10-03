@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata]
-campaignInfo:
-- {campaign: dufr, type: met, date: 1748-03-29}
-- {campaign: dufr, type: last seen, date: 1748-06-19}
-name: Jasu
-born: 1694
+lintedAt: "2026-10-03T14:10:06-04:00"
+lintVersion: "3.5"
+tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+campaignInfo:
+  - {campaign: dufr, type: met, date: 1748-03-29}
+  - {campaign: dufr, type: last seen, date: 1748-06-19}
+born: 1694
 gender: male
+name: Jasu
 whereabouts: Karawa
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1748
 ---
 # Jasu
 >[!info]+ Biographical Info  
@@ -21,8 +25,50 @@ dm_notes: color
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on June 19th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
-An older man, in his mid-50s, bulky and solidly built, with gray eyes, short black hair, and a beard. He is the blacksmith in [[Karawa]], and a common partron of [[Ikram's]], where he can often be found drinking in the courtyard in the evenings. 
+An older man, in his mid-50s, bulky and solidly built, with gray eyes, short black hair, and a beard. He is the blacksmith in [[Karawa]], and a common patron of [[Ikram's]], where he can often be found drinking in the courtyard in the evenings.
 
 %%need to update whereabouts with the rest of the Karawa refugees%%
 
 %%SECRET[v2:0a75ec034c0fc89ede8c2f4ec9e51695]%%
+
+%%^Metadata:names:v1%%
+- {name: Jasu, language: unknown, pronunciation: JAH-soo, notes: "Proposed from the Dunmari cultural context and the Hindi or other Indo-Iranian (Persian) analogues in [[Languages]]: j as in jam, open ah and oo vowels, with tentative first-syllable stress. A Persian-style jah-SOO is an alternative; neither the name language nor exact in-world stress is documented.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 portrait of Jasu in his mid-fifties as Karawa's smith; earlier and later life are not described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Corrected “partron” to “patron.”
+- Normalized frontmatter and added `knownTo: [dufr]` from the existing campaign interactions.
+- Added a primary name entry with a proposed pronunciation, and recorded the DR 1748 viewpoint and temporal coverage.
+
+### Validated judgments
+- The brief description sufficiently identifies a minor village craftsman; routine commissions and party conversations do not require a campaign history here.
+- `status/cleanup/metadata` remains supported by the note's unresolved whereabouts reminder and is preserved for human review.
+- Matching local DM sources support the existing positive `dm_notes` attestation. The SECRET block was reviewed and preserved.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Accept or revise the proposed `JAH-soo` pronunciation in `Metadata:names:v1`. The Dunmari cultural context points to the Hindi or Persian analogues in [[Languages]]: the proposal uses j as in “jam,” open ah and oo vowels, and tentative first-syllable stress; a Persian-style `jah-SOO` is another plausible reading. Neither the name's source language nor exact in-world stress is documented. If accepted, set `pronunciation: JAH-soo` in frontmatter and change the name entry to `status: documented`; otherwise replace the proposal with the intended pronunciation.
+
+### DM evidence
+- [[_DM_/Staging/NPC Ideas - Unused]]
+- [[_DM_/Timelines/Old Timeline (Table)]]
+- [[_DM_/Timelines/Uncategorized Events]]
+- [[_DM_/Timelines/Unified Timeline From OneNote]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa (Sessions 4-6)/Festival of Rebirth (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa (Sessions 4-6)/Session 4 Flowchart]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa (Sessions 4-6)/Session 5 scenes]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Rampaging Beasts (Session 1-3)/Session 1/Character Intros]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Rampaging Beasts (Session 1-3)/Session 1/Clues in Karawa]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 30/Session 30]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 31]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime Timeline]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Secrets of Karawa]]
+%%^End%%

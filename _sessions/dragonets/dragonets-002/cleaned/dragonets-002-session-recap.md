@@ -3,8 +3,8 @@
 ## Session Header
 
 - Title: Dragonets - Session 02
-- Desc Title: A Heart Beneath the Stone
-- Tagline: in which breakfast gives way to an awakening
+- Desc Title: The Hidden Heart
+- Tagline: in which restaurant-obsessed dragonets find themselves in an awakened statue
 - One-Sentence Summary: Following a morning of memories and improbable breakfasts, Heska, Sculpit, Little Tony, and Zeno investigate the island's reawakening, rescue Roska from the Wanderer's guardians, and stir the great statue to life.
 - Campaign: Dragonets
 - Arc: none
@@ -16,41 +16,9 @@
 - PCs: Heska, Sculpit, Little Tony, Zeno
 - Table Notes: none
 
-## Timeline
-
-### Undated (ordered) (morning)
-
-- Timeline Segment: timeline-001
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-001, beat-002, beat-003
-- Locations: Circular Island, The Wanderer's palm, Roadside food machine
-- NPCs: Grandpa Jim the Cloud, Paul, Xena
-- Organizations: none
-- Items: Mysterious egg, Ancient food machine, Food-machine creations
-- Combat Beats: none
-
-#### Short
-The four friends reactivate an ancient food machine.
-
-### Undated (ordered)
-
-- Timeline Segment: timeline-002
-- Timeline Key: undated
-- Resolution: undated
-- Beat IDs: beat-004, beat-005, beat-006, beat-006b, beat-007, beat-008, beat-009, beat-010
-- Locations: Circular Island, Oru's tent, Inside the Wanderer's eye, Unidentified hovering vessel
-- NPCs: Ilse, Ilse's supervisor, Oru, Roska, Four guardian statues, Glenda, Two unidentified humanoids
-- Organizations: none
-- Items: Ancient food machine, Food-machine creations, Oru's mechanical artifact, Statue of the Wanderer, Eight seats in the Wanderer’s heart, Energy-signature device
-- Combat Beats: beat-007
-
-#### Short
-The four friends awaken the statue of the Wanderer.
-
 ## Recap
 
-### recap-001 | Dreams and Childhood Memories
+### recap-001 | Memories and Dreams
 
 - Kind: beat
 - Beat IDs: beat-001
