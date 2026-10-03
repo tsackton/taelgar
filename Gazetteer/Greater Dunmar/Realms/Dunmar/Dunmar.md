@@ -49,7 +49,7 @@ Inland, Dunmar is dominated by the [[Hara Basin]], a flat depression surrounded 
 
 Dunmar is a subtropical country, with warm, dry winters and hot, humid summers. The climate is strongly shaped by the seasonal monsoon rains, which bring moisture from the [[Nevos Sea]] inland during the summer months, and the [[Yuvanti Mountains]], which create a rain shadow over the Garamjala.
 
-The [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September, although the climate of the Darba Highlands tends to be moderated somewhat by the topography, which brings occasional winter rains off the ocean. The [[Hara Basin]] is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
+The [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September. The climate of the Darba Highlands tends to be moderated somewhat by the topography: the northwestern edges, along the southern face of the [[Chataan Mountains]], see occasional winter rains off the ocean. The [[Hara Basin]] is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
 
 ### Regions
 
