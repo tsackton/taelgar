@@ -1,20 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Delwath
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
+species: elf
+ancestry: null
+campaignInfo: null
 born: 1472
 ka: 36
-species: elf
-ancestry:
 gender: male
 player: Mike Sackton
+name: Delwath
+affiliations:
+  - {org: Dunmar Fellowship, type: primary}
+whereabouts:
+  - {type: home, end: 1538, location: Ainumarya}
+  - {type: away}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: important
-affiliations: [{org: Dunmar Fellowship, type: primary}]
-whereabouts:
-- {type: home, end: 1538, location: 'Ainumarya' }
-- {type: away }
+POV: 1748
 ---
 # Delwath
 >[!info]+ Biographical Info  
@@ -44,11 +49,11 @@ whereabouts:
 
 > [!WARNING]- Delwath's Backstory
 > 
-> Delwath was born a hundred years before the coming of [[Cha'mutte]], and skirmished in some of the minor conflicts of that time, but was never a true combatant. During the cataclysmic battles at the end of the Great Wars, he was aiding a small company of elves as a quartermaster and cook, when they were surrounded and defeated by a great force of hobgoblins, lead by a mysterious cloaked figure who called down bolts of dark lightning and spread from the sky.
+> Delwath was born a hundred years before the coming of [[Cha'mutte]], and skirmished in some of the minor conflicts of that time, but was never a true combatant. During the cataclysmic battles at the end of the Great Wars, he was aiding a small company of elves as a quartermaster and cook, when they were surrounded and defeated by a great force of hobgoblins, led by a mysterious cloaked figure who called down bolts of dark lightning and spread from the sky.
 > 
 > Although the company was killed to the last elf (save for Delwath), the elven company was still powerful and, in turn, they destroyed the orcish company. In the final duel, the commander of the elven company killed the cloaked figure before succumbing to her wounds.
 > 
-> Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [[Cha'mutte]], in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of his, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which is comrades died. He time he returned, the he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [[Orcs]] were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
+> Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [[Cha'mutte]], in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of him, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which his comrades died. Each time he returned, he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [[Orcs]] were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
 > 
 > After a timeless period, he found he could, if he stretched his will in just the right way, move the shadowy world around him.
 > 
@@ -56,9 +61,9 @@ whereabouts:
 > 
 > He appeared, falling from the sky, on the edge of a ruined city (he later learned was called [[Kharsan]]). He reached out with his will, and found himself on the ground, having teleported there.
 > 
-> He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from which he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
+> He walked west, and found the Dunmari. For several months he recovered under the care of an elderly herdsman and his unwed daughter, from whom he learned what history he could. He was wild and barely spoke at first, but under their care regained some of his old self. After several months, he learned to tame the shadow magic within, and has even heard a voice at times, speaking to him in whispers from far away.
 > 
-> What the voice is, he knows not, although he doesn't fully trust it. After after four months, he left his herdsman savior and went west, to seek the Mysteries of [[Shakun]], as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [[Karawa]] for the since January, learning what he can about the Mysteries.
+> What the voice is, he knows not, although he doesn't fully trust it. After four months, he left his herdsman savior and went west, to seek the Mysteries of [[Shakun]], as his nearest, if not best, hope of finding out more about what might be going on. He has been living in [[Karawa]] since January, learning what he can about the Mysteries.
 
 > [!WARNING]- Delwath's Dream of the Shadow Realm, Session 5
 >
@@ -66,7 +71,7 @@ whereabouts:
 >
 >As you drift off to sleep, everything fades, and you see before you an androgynous figure, standing, wreathed in shadows. Tendrils of darkness seem to be pouring off of them, pooling at their feet. You cannot tell if they are trapped, or if they are controlling the darkness. When they speak, it is in the voice you have heard since you found a way to leave the shadow realm: "Delwath. You can see me."
 >
->As they speak your name, you realize they are speaking in Shadowkar, and you can feel that the currents of shadow flowing to you. From their open mouth, a torrent of darkness pours, and you see a wordless scream as blackness rushes towards you. For a moment, the power threatens to overwhelm you, but with effort you are able to stabilize it. A thread of power remains, hanging in the empty space, and you can feel the energy of the shadow realm at the other end. As you concentrate, you can feel power through this thread, you can feel your control over this connection between you and this shadow realm -- channeled through this being -- growing.
+>As they speak your name, you realize they are speaking in Shadowkar, and you can feel the currents of shadow flowing to you. From their open mouth, a torrent of darkness pours, and you see a wordless scream as blackness rushes towards you. For a moment, the power threatens to overwhelm you, but with effort you are able to stabilize it. A thread of power remains, hanging in the empty space, and you can feel the energy of the shadow realm at the other end. As you concentrate, you can feel power through this thread, you can feel your control over this connection between you and this shadow realm -- channeled through this being -- growing.
 >
 >Suddenly as if ripped away by a current, the figure is gone, pulled by a rushing torrent of shadows towards the darkness behind them.
 
@@ -80,13 +85,13 @@ whereabouts:
 > 
 > ## The Shadow Voice Returns, [[Session 19 (DuFr)]]
 > 
-> As you are drifting off to sleep, the gravely shadow-voice that you have not heard in since you left [[Karawa]] to hunt gnolls begins to whisper in the back of your mind. 
+> As you are drifting off to sleep, the gravelly shadow-voice that you have not heard since you left [[Karawa]] to hunt gnolls begins to whisper in the back of your mind. 
 > 
-> As it begins to speak, the shadows around you seem to grow darker, and you find you can almost perceive something -- a face maybe? -- from the corner of your eye, flickering in and out the shadows. 
+> As it begins to speak, the shadows around you seem to grow darker, and you find you can almost perceive something -- a face maybe? -- from the corner of your eye, flickering in and out of the shadows. 
 > 
 > "Delwath."
 > 
-> The voice seems to breath a sigh of relief, almost, and then says, almost as if speaking to itself.
+> The voice seems to breathe a sigh of relief, almost, and then says, almost as if speaking to itself.
 > 
 > "This land, here, is used to the presence of gods, the paths to the Divine are well-worn in the place."
 > 
@@ -115,7 +120,7 @@ whereabouts:
 > 
 > ### Closing Affairs
 > 
-> Delwath also closes up his affairs in [[Karawa]]. His old house was destroyed, and he does not bother to repair it. During the week and the [[Feast of Bhishma]], he says his goodbyes and give gifts of thanks to a few friends from his time in [[Karawa]]. 
+> Delwath also closes up his affairs in [[Karawa]]. His old house was destroyed, and he does not bother to repair it. During the week and the [[Feast of Bhishma]], he says his goodbyes and gives gifts of thanks to a few friends from his time in [[Karawa]].
 > 
 > ### Rumors 
 > 
@@ -133,7 +138,7 @@ whereabouts:
 >
 >It was quite the scandal at the time, and a tragedy, so many people are happy to talk about this. 
 >
->The story you gather is that, for a long time, rule of [[Dunmar]] had been passed down from parent to child among the Samraat's of the Nayan dynasty, breaking with tradition and the natural order of things, for who is to say that the current ruler's child is particularly god-chosen. During the succession crisis of DR 1736, the hereditary line was broken and after much controversy the rule of [[Dunmar]] and the divine blessing passed not to a relative, but to Marathu, an elder of one of the clans with territory south of [[Tokra]]. He was a caretaker ruler, and yet did a lot almost at once to reconnect east and west and reestablish some of the traditional Dunmari ways, in particular, setting up a traveling court. 
+>The story you gather is that, for a long time, rule of [[Dunmar]] had been passed down from parent to child among the Samraats of the Nayan dynasty, breaking with tradition and the natural order of things, for who is to say that the current ruler's child is particularly god-chosen. During the succession crisis of DR 1736, the hereditary line was broken and after much controversy the rule of [[Dunmar]] and the divine blessing passed not to a relative, but to Marathu, an elder of one of the clans with territory south of [[Tokra]]. He was a caretaker ruler, and yet did a lot almost at once to reconnect east and west and reestablish some of the traditional Dunmari ways, in particular, setting up a traveling court. 
 >
 >[[Sura]], from a prominent family from around [[Darba]], raised in a traditional lifestyle but with cultural and familial ties to the west, was widely seen as being presented and prepared to take over as Samraat on Nayan Marathu's passing. 
 >
@@ -181,7 +186,7 @@ whereabouts:
 > 
 > You find yourself looking down on a swiftly running stream through the forest, filling a natural pool of deep water in the center of a clearing before cascading over rocks. On the edge of the pool, a cairn has been constructed, almost resembling an altar. While it rises to a conical point perhaps 8-10' off the ground, on the side facing away from the pool a flat stone platform forms a table at about waist height. This is the place that [[Wellby]] showed you, except the cairn was not there in [[Wellby]]'s vision. 
 > 
-> In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lays on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
+> In front of the cairn, two people are kneeling, perhaps in prayer. Their features keep shifting, one moment young, the next old, changing gender and hairstyle and clothing. But they are clearly human. Beside them, a dead deer lies on the ground, its heart cut out. Another human is standing, holding the freshly butchered heart of the deer, placing it in a fire burning on the stone table. His features seem fixed, and he is praying in a language that you cannot place, but you can understand clearly.
 > 
 > "[[Yezali]], hear my prayer.
 > The fresh blood of the swift, I give to you. Hear my prayer.
@@ -192,7 +197,7 @@ whereabouts:
 > 
 > [[Yezali]], these two souls go north, to find who has hunted us this past season, who is behind the raids of hobgoblins and worse on our northern borders. They must travel unseen for as long as possible. Please help them."
 > 
-> As he speaks, he looks directly at you. You can feel the question in his eyes, the desperation, and you can see echoes of his life. Years of peace, living quietly in the forest. A few years ago, the first attacks, hobgoblins from the north. Rarely killing, but taking captives, never to be seen again. Raids getting worse; villages destroyed, whole families gone missing. Food getting scare as people are afraid to hunt. Many turning south, to flee, perhaps try to hide among the elves. The desperation to know, what is it that is beyond the forests, in the inhospitable northern lands of fire and ice? 
+> As he speaks, he looks directly at you. You can feel the question in his eyes, the desperation, and you can see echoes of his life. Years of peace, living quietly in the forest. A few years ago, the first attacks, hobgoblins from the north. Rarely killing, but taking captives, never to be seen again. Raids getting worse; villages destroyed, whole families gone missing. Food getting scarce as people are afraid to hunt. Many turning south, to flee, perhaps try to hide among the elves. The desperation to know, what is it that is beyond the forests, in the inhospitable northern lands of fire and ice? 
 > 
 > He waits, eyes turning hopeful as he sees you in the sky, looking at you expectantly, clearly thinking you are [[Yezali]]. You are no longer sure, yourself, who you really are. You can feel the power swelling in you, somehow tinged with the familiar strength you-as-Delwath draw from the shadow realm, but drawn from elsewhere, from some deep, infinite well of mind-boggling everythingness. 
 > 
@@ -236,7 +241,7 @@ whereabouts:
 > 
 > Delwath spends the day constructing a rough stone altar, as close to what he saw in the [[Dreamworld]] as he can, with the available materials and time. He will build this near the arch, such that at sunset the shadow of the arch will fall on the altar. In the mid afternoon, he will summon his shadowspirit, and send it out to hunt. Hawks are in short supply, but your shadow herds an antelope to you, wounded but alive, one you recognize as a swift runner on the open plains to the north, somewhat out of its element in the hot desert.
 > 
-> As dusk fails, Delwath will summon a dagger from the shadow realm, and ask the shadows fall onto the altar, he will slay his sacrifice, and cut out the heart, and place it, along with an offering of water, on the altar, and speak:
+> As dusk falls, Delwath will summon a dagger from the shadow realm, and as the shadows fall onto the altar, he will slay his sacrifice, and cut out the heart, and place it, along with an offering of water, on the altar, and speak:
 > 
 > Avaiskar, receive my gratitude for your deeds
 > For saving me from an endless prison
@@ -272,7 +277,7 @@ whereabouts:
 > 
 > Stepping out of the flames, a devil, a massive creature, large wings fanning the flames as its wicked spiked tail strikes the running people. Slowly, you become aware of hobgoblins behind you, waiting for your fleeing people. There is no escape. The devil is laughing as it raises its mace, looking directly at you though you should not be visible to the eyes of others, swinging the mace at you. Rather than passing through you harmlessly, it cracks your ribs and you cry out in pain and anger.
 > 
-> You shift form again, to a fox, growing larger and larger, matching the devil with the cool silver of moonlight on water, lunging at it even as you feel more and more pieces of you burn away to the fire and the hobgoblins. You leap at the devil's throat, and it is its turn to be surprised as its flesh cracks as you grasp it in your jaws, and hot fire spurts from its neck. You fight in the burning forest, ripping this creature's wings, tearing its flesh, until you stand triumphant on its steaming corpse, exhausting and limping.
+> You shift form again, to a fox, growing larger and larger, matching the devil with the cool silver of moonlight on water, lunging at it even as you feel more and more pieces of you burn away to the fire and the hobgoblins. You leap at the devil's throat, and it is its turn to be surprised as its flesh cracks as you grasp it in your jaws, and hot fire spurts from its neck. You fight in the burning forest, ripping this creature's wings, tearing its flesh, until you stand triumphant on its steaming corpse, exhausted and limping.
 > 
 > And yet, the fires still burn, and the sounds of slaughter and crack of dark lightning echo in the distance as the hobgoblin armies massacre your people. You turn, desperate, your form shaky now, flickering from deer to hawk to wolf, outside your control, as you leap at the hobgoblin general. As her vicious blade cuts your skin, you dive at her again and again, ripping her armor to pieces, and then her flesh, and yet still you feel weak, and dizzy, and the song of the world that has accompanied your every thought for time immemorial grows quiet, and slows, and stops. Panting, a wolf now, barely conscious of anything but the flesh of this form, you lunge once more at the general, ripping a dark circlet from its arms as arteries open and blood sprays everywhere. 
 > 
@@ -297,4 +302,39 @@ whereabouts:
 > ---
 > 
 > As the flood of memories ends, you open your eyes. The desert night is clear, the stars are bright. It takes you a moment to come back to yourself, to realize you are not the entity that has called itself [[Yezali|Aaviskar]], that you are Delwath.
-> 
+>
+
+%%^Metadata:names:v1%%
+- {name: Delwath, language: unknown, pronunciation: DEL-wahth, notes: "Proposed using the Tolkien-Elvish analogue in [[Languages]] as a cultural guide: e as in bed, a as in father, w as in English, th as in thin, and first-syllable stress. The name's in-world language is not established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign DR 1748 frame, with Great War backstory, a dated DR 1747 arrival chronology, and selected session accounts through the June 1748 Karawa downtime. These are historical snapshots, not a continuous account or a statement of Delwath's later state.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting; added `knownTo: [dufr]` from the established Dunmar Fellowship membership.
+- Added `POV: 1748` and a persistent explanation of the early-campaign snapshots, plus a primary name entry with an explicitly proposed pronunciation.
+- Corrected objective typos, the duplicated “After after,” and unambiguous grammar in the existing accounts; preserved names, dates, narrative voice, callouts, and uncertainty.
+
+### Validated judgments
+- The extensive second-person visions and dialogue function as recorded campaign material; they do not warrant an encyclopedia-style rewrite.
+- The repeated “you” in “tells you you should get some rest” is grammatical, not an accidental duplicated word.
+- The local DM-attestation review is not applicable to `dm_owner: player`; the human attestation remains unchanged. The ordinary editorial comment has no public-adoption candidate.
+
+### Editorial assessment
+**Underdeveloped** — The note preserves substantial early-campaign source material but lacks the central later resolution of Delwath's bond with Yezali and his subsequent direction. The smallest useful addition is a short reference summary of those established developments, retaining the earlier visions and backstory as historical records rather than extending the page into a campaign log.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed `DEL-wahth` in `Metadata:names:v1`. No accepted pronunciation was found in the target or the searched subject-specific shared sources. The proposal uses the Tolkien-Elvish analogue supplied by [[Languages]] as a cultural guide: short e as in “bed,” a as in “father,” w as in English, unvoiced th as in “thin,” and first-syllable stress. This does not establish the name's in-world language, which remains `unknown`. If accepted, set `pronunciation: DEL-wahth` in frontmatter and mark the entry `documented`; otherwise supply the preferred pronunciation.
+- [ ] **Warning — correctness.backstory_chronology:** “Born a hundred years before the coming of [[Cha'mutte]]” does not fit the recorded `born: 1472` and `ka: 36` together with the pre-DR 1545 war service. [[Elven Cycle of Generations]] places the 36th-ka mela at DR 1467 and its early Awakening at DR 1532, while [[Great War]] dates the war to DR 1542–1545. The older [[Email - Delwath Background]] preserves the hundred-year wording but predates the current chronology. Confirm the intended age rather than changing the birth year or ka automatically. If the existing metadata is intended, a bounded replacement is: `Delwath was born before the [[Great War]] and skirmished in some of the minor conflicts before it, but was never a true combatant.`
+- [ ] **Warning — correctness.internal_conflict:** The backstory's same final battle begins with a force of hobgoblins but then calls it an “orcish company” and names `[[Orcs]]` in the repeated slaughter. The later Dream Staff Journey also describes his old company fighting hobgoblins; the older [[Email - Delwath Background]] used orcs throughout. Confirm which account is intended. If hobgoblins is the adopted version, change `the orcish company` to `the hobgoblin company` and `the [[Orcs]] were more brutal` to `the [[Hobgoblins]] were more brutal`; preserve the older source as historical evidence.
+- [ ] **Suggestion — editorial.prose_clarity:** In the first backstory paragraph, “who called down bolts of dark lightning and spread from the sky” has no clear referent or action for “spread.” Confirm whether anything besides the lightning was intended. If not, use: `who called down bolts of dark lightning from the sky`. This repair requires interpretation and has not been applied automatically.
+- [ ] **Suggestion — identity.name_consistency:** Two displayed spellings differ from their linked subjects: the callout title says “Tharandos' Warning” while its text links [[Tharandros]], and the sacrifice prayer repeatedly says “Avaiskar” while the surrounding dialogue and [[Yezali]] use “Aaviskar.” Confirm whether these are transcription errors or deliberate character wording. If errors, use `Tharandros' Warning, Session 7` for the title and `Aaviskar` in the prayer; do not change the historical speech silently.
+- [ ] **Warning — coverage.later_material_change:** The account stops at the June 1748 discovery of the patron's history, leaving that defining relationship unresolved. [[Session 54 (DuFr)]] records Yezali's release on DR 1748-10-08, and [[Session 55 (DuFr)]] records the liberation of the remaining trapped Meswati. The finalized Session 139 beat facts (`_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-beat-facts.json`, beat-005), also represented in [[_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session-recap|the Session 139 recap]], establish Delwath's later decision to seek his people; the contents of his opened sisila fruit remain unrevealed. Choose whether to update the reference account and its POV, defer with the appropriate human-managed game-update status, or deliberately retain the earlier snapshot. A bounded update is: `In the autumn of DR 1748, Delwath traveled with [[Aristaea]] and [[Iascaire]] through the [[Forest of Nightmares]], helping free [[Yezali]] and the other trapped [[Meswati]]. By the fellowship's later farewell in [[Karawa]], he had resolved to seek his people, while remaining willing to help his companions.` If adopted, keep the earlier narratives clearly historical and retain the distinction between that plan and a completed reunion.
+%%^End%%

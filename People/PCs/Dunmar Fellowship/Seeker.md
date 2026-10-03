@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo:
-name: Seeker
-born:
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: dwarf
-ancestry:
+ancestry: null
+campaignInfo: null
+born: null
 gender: male
 player: Eric Rosenbaum
+name: Seeker
+affiliations:
+  - {org: Dunmar Fellowship, type: primary}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: important
-affiliations: [{org: Dunmar Fellowship, type: primary}]
+POV: 1748
 ---
 # Seeker
 >[!info]+ Biographical Info  
@@ -41,7 +46,7 @@ affiliations: [{org: Dunmar Fellowship, type: primary}]
 > 
 > When I traveled to [[Heart of the Mountain]] for my rite of passage to adulthood, I was indeed confirmed in the Stoneworker caste as I expected. However, then I saw something I did not expect. I saw myself floating in a vast, complex space, extending in more than three dimensions all around me. The mountain is above me, and beyond that the twisting strands of the [[Plane of Magic]], caught into runes in the ancient ways of our people. Below me, a sea of sparkling lights extending across the world. In this moment, I had an instant of lucidity and saw the complex, indescribable geometry of the cosmos: magic above, consciousness and dreams below, and the world itself in the middle, but of course "above" and "below" are just crude, imprecise terms for what I actually saw. The moment ended, and the clarity faded, but the memory remained, and the conviction that magic, and consciousness, and the geometry of the worlds are all bound together in some cosmic way.
 > 
-> I had to find a way back to that moment of lucidity. Convinced this vision was not an accident, I took the name Seeker, and left my family and my home to study the ways the world and the planes of magic intersect. Near Darakan, a volcano erupted and a series of ley lines that used to cross all broke apart and avoided the place where the volcano had erupted. This led me to became interested in the physical connections between magic and the world of Taelgar, studying the properties of the material plane itself -- the shape of stones, of mountains, and the forces that change them, slowly, or suddenly. I traveled south to the Great Rift, studying the patterns of magical energy in ley lines around this cataclysm, and saw that the regularity of the intersections between planes was shattered, with ley lines that twisted and turned and just ended in chaotic patterns.
+> I had to find a way back to that moment of lucidity. Convinced this vision was not an accident, I took the name Seeker, and left my family and my home to study the ways the world and the planes of magic intersect. Near Darakan, a volcano erupted and a series of ley lines that used to cross all broke apart and avoided the place where the volcano had erupted. This led me to become interested in the physical connections between magic and the world of Taelgar, studying the properties of the material plane itself -- the shape of stones, of mountains, and the forces that change them, slowly, or suddenly. I traveled south to the Great Rift, studying the patterns of magical energy in ley lines around this cataclysm, and saw that the regularity of the intersections between planes was shattered, with ley lines that twisted and turned and just ended in chaotic patterns.
 > 
 > Amazed but still not understanding how everything fit together, I traveled east and spent some time with the Lizardfolk on the coast of the [[Green Sea]], learning more about the [[Dreamworld]] and how they perceived the cosmos. From these Lizardfolk, I learned of mystical cults far to the south that perhaps knew more about the connections between dreams, magic, and the architecture of the cosmos. Seeking knowledge, I set off, under the mountains to [[Chardon]], where I met the dwarven scholar [[Ulfgar Frostbeard]], and learned of the Dunmari goddess [[Shakun]], goddess of magic and dreams.
 > 
@@ -59,7 +64,7 @@ affiliations: [{org: Dunmar Fellowship, type: primary}]
 > - Nov 5879 - May 5880: stayed with lizardfolk on eastern border of Sembara
 > - Jun - Sept 5880:  travel from lizardfolk to [[Chardon]]
 > - Oct - Dec 5880: stayed in [[Chardon]] with [[Ulfgar Frostbeard]]
-> - Dec 5880 - Mar 5881: traveled to [[Karawa]] overland, stopping briefly at [[Songara]] and [[Tokra]], where stayed at the [[The Iron Swan]] an inn, run by a retired Dwarven adventurer, [[Vistra Fireforge]], and located in the small dwarvish quarter of the city behind the [[Archives]]. In [[Tokra]] he also met the Hardstone clan, especially [[Fallthra Hardstone]], the matriarch, [[Delig Hardstone]], her brother, and [[Dag Hardstone]], her son, still only a teenager, not yet having traveled to [[Heart of the Mountain]]. They work at the [[Archives]], as architects, janitors, supers. Work some minor runic magic to protect scrolls, mend damage, and the like, as well as making magical runic imprints of particularly valuable material that can then be copied and sent to [[Nayahar]] or [[Darba]] or [[Chardon]] without risk of error.
+> - Dec 5880 - Mar 5881: traveled to [[Karawa]] overland, stopping briefly at [[Songara]] and [[Tokra]], where he stayed at [[The Iron Swan]], an inn, run by a retired Dwarven adventurer, [[Vistra Fireforge]], and located in the small dwarvish quarter of the city behind the [[Archives]]. In [[Tokra]] he also met the Hardstone clan, especially [[Fallthra Hardstone]], the matriarch, [[Delig Hardstone]], her brother, and [[Dag Hardstone]], her son, still only a teenager, not yet having traveled to [[Heart of the Mountain]]. They work at the [[Archives]], as architects, janitors, supers. Work some minor runic magic to protect scrolls, mend damage, and the like, as well as making magical runic imprints of particularly valuable material that can then be copied and sent to [[Nayahar]] or [[Darba]] or [[Chardon]] without risk of error.
 > 
 > 5881: Seeker arrives in [[Karawa]] and our adventures begin (1748 DE, 191st year of the Nayan Dynasty)
  
@@ -71,9 +76,9 @@ affiliations: [{org: Dunmar Fellowship, type: primary}]
 > 
 > You are walking through the rock of the Mesa here, and it feels like nothing you have experienced before. The rock itself seems to move out of your way as the mystai ahead speaks, a rough hewn tunnel opening in front of you as you walk. 
 > 
-> After a short while, the passage opens into a huge cavern. There is no light, except a dim reddish glow that seems to emanate from the rocks themselves. You can feel the open space though, extending beyond the range of you darkvision. 
+> After a short while, the passage opens into a huge cavern. There is no light, except a dim reddish glow that seems to emanate from the rocks themselves. You can feel the open space though, extending beyond the range of your darkvision. 
 > 
-> The mystai speaks a word in a language you don’t know, and suddenly the cavern flairs into light, the reddish glow of a sunset. 
+> The mystai speaks a word in a language you don’t know, and suddenly the cavern flares into light, the reddish glow of a sunset. 
 > 
 > In front of you, you see a grove of low bushes, each with a giant inflorescence, all made of stone, but waving slightly in the air. 
 > 
@@ -100,7 +105,7 @@ affiliations: [{org: Dunmar Fellowship, type: primary}]
 > 
 > As you concentrate on the image of [[Frankar]], he brings the staff down, and it seems to pass through you. Looking down, your body is translucent, and you are floating, the light rapidly fading from the sky. You float, or are pulled, rapidly upward, the ground below vanishing, only a thin line of energy stretching back towards your distant body below. As you ascend, lights begin to appear, almost like stars, but full of dazzling color. They surround you in all directions -- above, below, to all sides -- moving and shifting in a hypnotic pattern. As you stare, dazed, you can hear [[Candrosa]]'s voice in the back of your mind, "Concentrate on your anchor!"
 > 
-> As you focus on [[Frankar]], sitting and studying with him, the stars start to dim and fade, except for one, in the distance, the grows brighter and brighter as it pulls you towards it, until you crash through the bright white light into a empty stone chamber, completely circular, filled with salamanders. But these are not white salamanders. Each is unique. You see one that seems to be made of pure flame, one that is green and seems to be covered in moss, one that is heavy dark gray stone with earth that shakes from its body with each step, one that has horns and a spiked tail and is chasing the others nipping at them, one that seems to a wave in salamander form, one that is covered in runes, one that is lumbers with heavy footfalls and seems to grow and shrink with each step, one that appears almost as a storm cloud in salamander form.  Possibly others as well, they move quickly, running around and across each other. 
+> As you focus on [[Frankar]], sitting and studying with him, the stars start to dim and fade, except for one, in the distance, that grows brighter and brighter as it pulls you towards it, until you crash through the bright white light into an empty stone chamber, completely circular, filled with salamanders. But these are not white salamanders. Each is unique. You see one that seems to be made of pure flame, one that is green and seems to be covered in moss, one that is heavy dark gray stone with earth that shakes from its body with each step, one that has horns and a spiked tail and is chasing the others nipping at them, one that seems to be a wave in salamander form, one that is covered in runes, one that lumbers with heavy footfalls and seems to grow and shrink with each step, one that appears almost as a storm cloud in salamander form.  Possibly others as well, they move quickly, running around and across each other. 
 > 
 > There is only one exit from the chamber, straight ahead. The salamanders seem to avoid the exit. 
 > 
@@ -114,18 +119,59 @@ affiliations: [{org: Dunmar Fellowship, type: primary}]
 > 
 > Above you, you can see turning crystal spheres, opaque, spinning on a matte black background. Stars shine on the black background, multi colored, winking in and out as the opaque spheres pass them, reminding you of what you saw when you started this journey. 
 > 
-> Then, drifting on the sea of sand, an arch of fire. The salamander wiggles, trying to get to it, and as the arch floats past you can see, beyond it, a land of fire. Huge pillars of fire surround a city of brass, shining in the orange light of the fire the surrounds it. A river of magma flows past. In the fiery sky, an ash cloud drops rain of liquid mercury. 
+> Then, drifting on the sea of sand, an arch of fire. The salamander wiggles, trying to get to it, and as the arch floats past you can see, beyond it, a land of fire. Huge pillars of fire surround a city of brass, shining in the orange light of the fire that surrounds it. A river of magma flows past. In the fiery sky, an ash cloud drops rain of liquid mercury. 
 > 
-> The arch floats closer and closer, the salamander struggling to get through, it’s burnt body energetic and eager. 
+> The arch floats closer and closer, the salamander struggling to get through, its burnt body energetic and eager. 
 > 
 > You close your eyes for a moment, grimacing, wincing away from the image of the land of fire and its city of brass, thinking, is that where you've gone, Frank, child? What power has tempted you there? I'll find you, rescue you! 
 > 
-> You open my eyes again and face the arch of fire, now holding hidden in your left palm a tiny intricately worked figurine of white stone, depicting your fond memory of an innocent childhood [[Frankar]]. With your right hand you trace a spherical rune of protection around your body, a sphere of ice as clear as glass. You release the burnt salamander and follow it.  
+> You open your eyes again and face the arch of fire, now holding hidden in your left palm a tiny intricately worked figurine of white stone, depicting your fond memory of an innocent childhood [[Frankar]]. With your right hand you trace a spherical rune of protection around your body, a sphere of ice as clear as glass. You release the burnt salamander and follow it.  
 > 
-> You step forward into the arch of fire. For a brief moment, you step into darkness, an empty void, and feel a sensation of falling, as if you are diving into a clear pool. Above you, you can see a distorted reflection of your childhood home, as if seen through rippling water. There are multiple layers of images, each more twisted and blurred than the last. Below you, you are diving towards the "bottom" of this space, the shifting multicolored sands bubbling and boiling. Around you, a mist clings like water, thin and wispy in some directions, thick and opaque in others, seeming to reflect the colors of the sands below. As you dive, you are being pulled by a thin stream of flame, the burnt salamander ahead of you. You can see, briefly, laid out almost like a map on the "bottom" of this space, the burning land of fire and magme; a land of swirling clouds and flashes of lightning; a land of earth and stone; and a land of pure water reaching to endless depths.
+> You step forward into the arch of fire. For a brief moment, you step into darkness, an empty void, and feel a sensation of falling, as if you are diving into a clear pool. Above you, you can see a distorted reflection of your childhood home, as if seen through rippling water. There are multiple layers of images, each more twisted and blurred than the last. Below you, you are diving towards the "bottom" of this space, the shifting multicolored sands bubbling and boiling. Around you, a mist clings like water, thin and wispy in some directions, thick and opaque in others, seeming to reflect the colors of the sands below. As you dive, you are being pulled by a thin stream of flame, the burnt salamander ahead of you. You can see, briefly, laid out almost like a map on the "bottom" of this space, the burning land of fire and magma; a land of swirling clouds and flashes of lightning; a land of earth and stone; and a land of pure water reaching to endless depths.
 > 
 > You glimpse this arrangement just for a moment -- the mists and fogs of the "water", the energetic multicolored sands "below", the map of elemental realms floating above the sands, surrounded by fogs, some parts hidden and opaque, others only lightly obscured -- before you are pulled toward the arch of fire. 
 > 
-> As you approach the arch of fire, the thin silvery tether connecting you to [[Candrosa]], the [[Red Mesa]], and the Dream staff grows taunt. You can see, clearly, the land of fire beyond the arch as the salamander dives forward, passing beyond the portal into this strange fiery realm. But the tether prevents you from going further, and you are pulled back, swirling back through the twisting stars and crashing back into your body, the memory of the smoke and fire and ash that consumed everything in that land. 
+> As you approach the arch of fire, the thin silvery tether connecting you to [[Candrosa]], the [[Red Mesa]], and the Dream staff grows taut. You can see, clearly, the land of fire beyond the arch as the salamander dives forward, passing beyond the portal into this strange fiery realm. But the tether prevents you from going further, and you are pulled back, swirling back through the twisting stars and crashing back into your body, the memory of the smoke and fire and ash that consumed everything in that land. 
 > 
 > [[Candrosa]] looks at you as you open your eyes, with concern. "I know not what you saw, but I could feel you approaching a portal to elsewhere. Had you stepped through, you would have broken your tether and I could not have retrieved you. I am sorry I had to pull you back."
+
+%%^Metadata:names:v1%%
+- {name: Seeker, language: unknown, status: documented, notes: "He chose this name after his vision during his coming-of-age visit to the Heart of the Mountain, expressing his resolve to recover its moment of understanding. The name’s language is not established."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign DR 1748 portrait, with selected childhood and pre-campaign backstory and accounts of the June 1748 visit to Karawa; later developments are not yet incorporated.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Canonicalized frontmatter order and collection formatting while preserving existing values, and added `knownTo: [dufr]`.
+- Added persistent name metadata recording Seeker’s documented choice of his own name; the ordinary English form needs no pronunciation guide, and its in-world language remains unknown.
+- Added `POV: 1748` and persistent temporal coverage for the early-campaign article and its older backstory.
+- Corrected thirteen unambiguous spelling and grammar defects in the backstory and Session 32 narratives, preserving the narratives, their uncertainty, and all links.
+
+### Validated judgments
+- The early material remains a record of Seeker’s background and experiences, not a current summary of every later campaign development. [[Session 32 (DuFr)]] anchors the Karawa narratives in June DR 1748.
+- The name’s self-chosen significance is explicit in the backstory. [[Darakan]] corroborates the Highkeep family connection and the city’s marblework.
+- The packet’s contextual DM-attestation gate is not applicable for `dm_owner: player`; that field and `dm_notes: important` are preserved. The target contains no SECRET blocks or substantive shared hidden units.
+
+### Editorial assessment
+**Underdeveloped**: the substantial backstory and June DR 1748 scene records do not yet give this central party member a reference account of his later planar and magical craftsmanship, or the later evidence and intentions governing his search for Frankar. The smallest useful scope is a short account of those two established developments while preserving the early source narratives. No additional invented transition is needed to explain these sourced developments.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.later_material_change:** The article stops with the Session 32 experiences and omits Seeker’s later defining work as a planar scholar and magical craftsman. [[Elemental Forge Hoard]] records his joint construction with Faldrak, while [[Session 87 (DuFr)]] dates that work and the first use of the planar prism to January DR 1749. Finalized Session 136 beat facts (`_sessions/dunmar-frontier/dunmari-frontier-136/cleaned/dunmari-frontier-136-beat-facts.json`, beat-032) establish his central role in sealing the seam to Limbo; finalized Session 139 beat facts (`_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-beat-facts.json`, beat-009) establish the completed communication rings. These are durable consequences, not a request to list encounters. Choose to update the reference account and POV, defer the update with a human-selected game-update status, or deliberately retain the earlier article. A bounded candidate for an adopted update is:
+
+  > Seeker’s study of the planes developed into practical magical craftsmanship. With [[Faldrak Bronzehammer]], he constructed the planar prism and icicle turret for [[Vindristjarna]] at the [[Elemental Forge]] in DR 1749. Later that year, aided by [[Rai]] and [[Delwath]], he read the Relic of Order’s formula and sealed the seam between [[Limbo]] and the [[Material Plane]]. By the fellowship’s epilogue, he and Faldrak had made four rings from shards of the rainbow prism, allowing the companions to exchange messages and teleport back to Vindristjarna.
+
+  If preserving date-filtered early views, propose separate dated layers for the January craft and the September ritual rather than changing visibility automatically; the current quoted narratives can remain as historical source material.
+
+- [ ] **Warning — coverage.later_material_change:** The dream journey leaves the search for [[Frankar]] at a speculative glimpse of the Plane of Fire. [[Session 84 (DuFr)]] records the Philosophers Guild’s statement that Frankar was alive; [[Philosopher's Information Concerning Frankar]], received in [[Session 85 (DuFr)]], reports an older sighting with [[Zephyra]] but explicitly leaves freedom or captivity uncertain. Finalized Session 135 beat facts (`_sessions/dunmar-frontier/dunmari-frontier-135/cleaned/dunmari-frontier-135-beat-facts.json`, beat-003) record another vision, and finalized Session 139 beat facts (same Session 139 path above, beats 004–005 and 009) establish that refitting the ship and seeking Frankar remain intentions. Choose an attributed update, defer with the appropriate human-selected game-update status, or deliberately preserve the early account. Copy-ready candidate:
+
+  > In DR 1749, the [[Ancient and Honorable Guild of Philosophers]] reported that [[Frankar]] had been seen alive in [[Bronzehall]] on the [[Elemental Plane of Fire]], traveling with [[Zephyra]] toward the [[Cinder Wastes]] at least five years earlier. Whether he traveled willingly or as a captive was unknown. A later vision showed Frankar and an unidentified efreeti approaching a flaming chalice, without establishing his current whereabouts. By the fellowship’s epilogue, Seeker intended to refit [[Vindristjarna]] with [[Faldrak Bronzehammer]] and seek his brother before applying to the guild. Neither the refit nor the search was yet completed.
+
+- [ ] **Warning — correctness.cross_note_conflict:** In the backstory’s travel chronology, the phrase `[[Delig Hardstone]], her brother` identifies Delig as [[Fallthra Hardstone]]’s brother. The Narrative in [[Session 36 (DuFr)]] instead identifies Delig as her husband and [[Morkral Hardstone]] as her brother; [[Fallthra Hardstone]] follows that account. Preserve the backstory until a human reconciles these source accounts. If the played relationship is adopted, the exact replacement is `[[Delig Hardstone]], her husband`; do not silently alter the family relationship or treat the source narrative as disproved.
+%%^End%%

@@ -11,11 +11,6 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 
 <!-- SLOT: updates.whereabouts.locations -->
 - [[Circular Island]]: visited on unknown.
-- The Wanderer's palm: visited on unknown.
-- Roadside food machine: visited on unknown.
-- Oru's tent: visited on unknown.
-- Inside the Wanderer's eye: visited on unknown.
-- Unidentified hovering vessel: visited on unknown.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
@@ -35,21 +30,9 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 - Paul: no matching note found in the vault index
 - Xena: no matching note found in the vault index
 - Ilse: no matching note found in the vault index
-- Ilse's supervisor: no matching note found in the vault index
 - Oru: no matching note found in the vault index
 - Roska: no matching note found in the vault index
-- Four guardian statues: no matching note found in the vault index
 - Glenda: no matching note found in the vault index
-- Two unidentified humanoids: no matching note found in the vault index
-- Kaz: no matching note found in the vault index
-- King of the Hermit Crabs: no matching note found in the vault index
-- Dying purple dragonet: no matching note found in the vault index
-- Joey: no matching note found in the vault index
-- The Wanderer's palm: no matching note found in the vault index
-- Roadside food machine: no matching note found in the vault index
-- Oru's tent: no matching note found in the vault index
-- Inside the Wanderer's eye: no matching note found in the vault index
-- Unidentified hovering vessel: no matching note found in the vault index
 - Resistance: no matching note found in the vault index
 - Mysterious egg: no matching note found in the vault index
 - Ancient food machine: no matching note found in the vault index

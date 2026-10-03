@@ -1,20 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Izgil Moonseeker
-born: 1453
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: dwarf
-ancestry:
+ancestry: null
+born: 1453
 gender: male
 player: Matt Rand
-affiliations: [{org: Gemcrafters, type: primary}, {org: Heroes of Cleenseau}]
+name: Izgil Moonseeker
 aliases: [Durgil Barzinduk, Izgil]
+affiliations:
+  - {org: Gemcrafters, type: primary}
+  - {org: Heroes of Cleenseau}
+whereabouts:
+  - {type: home, end: 1719, location: Nidzahar}
+  - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
+  - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
 dm_owner: player
 dm_notes: important
-whereabouts:
-- {type: home, end: 1719, location: Nidzahar}
-- {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
-- {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+POV: 1719
 ---
 # Izgil Moonseeker
 >[!info]+ Biographical Info
@@ -23,7 +29,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[izgil-moonseeker.png|right|420]]Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
+![[izgil-moonseeker.png|right|420]]Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has a sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
 
 > [!INFO]- Izgil's Background (For Matt's Eyes Only)
 >Izgil was born in the year 5586 by the ancient count of the dwarves, or 1453 in the reckoning used by the humans. He was born in the backwater kingdom of [[Nidzahar]] in the years before the [[Great War]]. He never quite fit into the role his family and clan made for him. When he went through his naming ritual he took the name Durgil and earned his thuhr as one of the Travelers, followers of Maganna, and settled into a role of traveling merchant. By 5617, he was traveling amongst the humans, trading minerals and crafted works for food and other fine things from far and wide.  
@@ -57,3 +63,37 @@ whereabouts:
 ```dataview
 table without id embed(link(image, "240")) as "Image", link(file.name, name) as "Name", typeOf as Type, elink(ddbLink, "Reference") as Mechanics from #item where pcOwner = "Izgil Moonseeker"
 ```
+
+%%^Metadata:names:v1%%
+- {"name": "Izgil Moonseeker", "language": "unknown", "pronunciation": "IZ-gil MOON-see-ker", "notes": "The 2023-01-07 names discussion records this as his outward-facing name with his new thuhr; his family still uses Durgil Barzinduk. The complete form mixes a dwarven personal name with an English-facing surname. Pronunciation proposal uses the Tolkien-Dwarvish naming analogue in [[Languages]] for Izgil: short i vowels, hard g, voiced z, and initial stress; Moonseeker has its ordinary English reading. No exact in-world pronunciation is recorded. See [[2023-01-07 - Discord Chat with Kaioty - Izgil's Names Family and Thuhr]].", "status": "proposed"}
+- {"name": "Durgil Barzinduk", "role": "family name", "language": "Dwarvish", "pronunciation": "DOOR-gil bar-ZIN-dook", "notes": "The 2023-01-07 names discussion identifies this as the form used by his family, retained after his second thuhr. Barzinduk is the Dwarvish form of Gemcrafter; see [[Gemcrafters]]. Pronunciation proposal adapts the Tolkien-Dwarvish analogue in [[Languages]] with u as oo, short i, hard g, and clear consonant clusters; the stresses on Dur and zin are provisional. See [[2023-01-07 - Discord Chat with Kaioty - Izgil's Names Family and Thuhr]].", "status": "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1719 arrival portrait with selected earlier biography; the last dated whereabouts extend into early 1720, but later campaign developments are not incorporated into the background.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting; preserved existing non-lint status tags and human DM attestations.
+- Added `knownTo: [clee]` from the party record; recorded the DR 1719 arrival viewpoint and its limits.
+- Added name metadata for Izgil Moonseeker and Durgil Barzinduk, preserving the documented family/outward-facing distinction and proposed pronunciations.
+- Inserted the missing article in “He has a sort of luminescent…” without changing the description.
+
+### Validated judgments
+- The biography supplies substantial setting-specific origin, vocation, and motivation; later ordinary campaign appearances do not require a session-by-session history.
+- `status/gameupdate/clee`: not assessable until the author decides whether this is intentionally an arrival-era biography or should become a current campaign portrait; the tag is preserved.
+- The `dm_notes` evidence-review gate does not apply to the recorded player owner; the attestation is preserved.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm the stored proposals `IZ-gil MOON-see-ker` and `DOOR-gil bar-ZIN-dook`. The strongest available cultural guide is the Tolkien-Dwarvish analogue in [[Languages]]: these proposals use hard g, articulated consonants, short i, u as oo, and provisional stress; Moonseeker has its ordinary English reading. The 2023-01-07 names discussion establishes usage and the Dwarvish family form, not pronunciation. Accept or correct each proposal; copy an accepted primary pronunciation to frontmatter and mark the accepted entry documented.
+
+- [ ] **Error — privacy.unprotected_private_callout:** The callout headed “Izgil's Background (For Matt's Eyes Only)” is ordinary visible Markdown, with no private or campaign filter around it. A collapsed callout does not enforce the stated restriction. Human decision: if the restriction still applies, move this exact callout unchanged to the intended private sharing channel and remove it from the published body, or place it in an approved filtering structure; if it is intentionally public now, remove “(For Matt's Eyes Only)” from the heading. Do not change visibility until that choice is made.
+
+- [ ] **Warning — identity.spelling_inconsistent:** The background spells the same kingdom “Nizdzahar” once, whereas this note's other mentions, whereabouts, and [[Nidzahar]] use “Nidzahar”. Proposed exact correction: replace that one “Nizdzahar” with “Nidzahar”; no file or link target needs renaming.
+
+- [ ] **Warning — chronology.cross_note_conflict:** The paired calendars in the background imply an offset of 4,133 years (5586 = DR 1453 and 5849 = DR 1716), so the last merchant journey dated 5672 falls in DR 1539. The paragraph presents this as the onset of Great War fighting, while [[Great War]] currently dates the war to DR 1542–1545. Confirm whether this is pre-war regional fighting, an intended broader war chronology, or an incorrect journey date. Retain the uncertainty until the author chooses; do not silently substitute 5675 or narrow the war's history.
+%%^End%%

@@ -1,16 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: []
-name: Wellby
-born:
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/lint]
 species: halfling
-ancestry:
+ancestry: null
+campaignInfo: []
+born: null
 gender: male
 player: David Schwartz
+name: Wellby
+affiliations:
+  - {org: Dunmar Fellowship}
+  - {org: Goodbarrels, type: primary}
+knownTo: [dufr]
 dm_owner: player
 dm_notes: important
-affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
+POV: 1748
 ---
 # Wellby
 >[!info]+ Biographical Info  
@@ -45,7 +51,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > The Year of Shadowed Dreams (1748 DE): Wellby crosses the mountains as soon as the passes clear, and arrives in [[Dunmar]], meeting [[Kenzo]], [[Seeker]], [[Delwath]] and [[Riswynn]] in [[Karawa]] in March.
 
-> [!warning]- Memories and Dreams from the Halfing Ancestral Mind
+> [!warning]- Memories and Dreams from the Halfling Ancestral Mind
 > 
 > *Examining the [[Blackened Claw]] symbol, [[Session 9 (DuFr)]]*
 > A memory drifting out of the past. A determined group of halflings, organized, with bows and spears. A battle banner bearing this mark, at the front of a large column of hobgoblin troops, maybe 150 years ago. They are too many to face. You turn and see the doubt in the eyes of your troop. Quickly sending the message to scatter and hide and live to fight again. Running, vanishing into the grass….
@@ -79,7 +85,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > A very brief memory. A clear pool, deep in the woods, the shadows of the forest around you, calm, peace, the twilight above.
 > 
 > *Halfling patriarch traveling, [[Session 27 (DuFr)]]*
-> As you examine the painted wooden statue of an old halfling man recovered from [[Agata]], you kind of you kind of fade back and fall backwards into memory. It's hard to tell how long ago this memory is, but you see a well-defended caravan of five wagons, a whole extended clan of halflings, traveling across the Dunmari scrublands. As you zoom in you sense this is probably the road between [[Karawa]] and [[Bas Udda]]. Sitting in the front of the first wagon is the old halfling man depicted by [[Agata]]’s statue.
+> As you examine the painted wooden statue of an old halfling man recovered from [[Agata]], you kind of fade back and fall backwards into memory. It's hard to tell how long ago this memory is, but you see a well-defended caravan of five wagons, a whole extended clan of halflings, traveling across the Dunmari scrublands. As you zoom in you sense this is probably the road between [[Karawa]] and [[Bas Udda]]. Sitting in the front of the first wagon is the old halfling man depicted by [[Agata]]’s statue.
 
 > [!warning]- Wellby's Time in Karawa, Session 32
 > 
@@ -97,7 +103,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > As you refocus on the image of the map, imagining the noonday sun on a long road, the smell of food cooking on a campfire at night, the slow steady eating away of miles as you walk, the dazzling stars begin to wash away, as if a dirty window were being cleaned. You find yourself on a road. A familiar road, in fact, the road that winds south from [[Sembara]] to the mountain passes and eventually to [[Tokra]], the road you set out on now almost a year ago. It is early spring, the birds are singing, the plants just putting out leaves, the mountains still covered in snow. It is a beautiful day to be walking in the world. 
 > 
-> You take a step, and the world stretches, shifts. It is as if the world itself shrinks for a moment, or your stretch impossibly large, because with one step you seem to have traveled leagues and leagues, and somehow backwards in time. It is deep winter, and you are south, maybe 100 miles, in the foothills of the great mountains, chilly and wet as a cold rain begins to fall. 
+> You take a step, and the world stretches, shifts. It is as if the world itself shrinks for a moment, or you stretch impossibly large, because with one step you seem to have traveled leagues and leagues, and somehow backwards in time. It is deep winter, and you are south, maybe 100 miles, in the foothills of the great mountains, chilly and wet as a cold rain begins to fall. 
 > 
 > You pause for a moment, looking around. To the north, your home: the road back to [[Sembara]], the river valleys, forests, and farms of that green country. To the west, the looming sharp peaks of the mountains, snow covered in the depths of winter. To the south, the passes into the plains of north [[Dunmar]]. To the east, the desolate wastes of the [[Plaguelands]], where most fear to tread.
 > 
@@ -109,7 +115,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > The silver line of the river winds south, and in the distance along the river, many, perhaps hundreds of miles away (you are not really clear on distances in this strange, shifting land), you see a city, though whether ruined or inhabited is impossible to tell from here. To the north, the river valley continues, the forest seeming to grow darker and deeper, a hint of shadows and movement lurking the far-distance trees. 
 > 
-> You turn north, where the forest grows deeper and darker, and take a step. As you step, the world compresses for a moment, and you see the land lain out before you. 
+> You turn north, where the forest grows deeper and darker, and take a step. As you step, the world compresses for a moment, and you see the land laid out before you. 
 > 
 > To your left, the way you came, the mountains seem to grow and grow, until they are looming over you, pristine and beautiful, until darkness and alien horrors begin to bubble up from beneath them, all tentacles and beaks and giant floating eyes, spreading across the land for a moment before the world in that direction seems to curl up and burn away with the sound of hammer banging on shields and dwarven and elven voices singing together, a song of war and death. From the song, mountains rise, seeming to grow and grow, until they are looming over you, pristine and beautiful, until darkness and alien horrors begin to bubble up from beneath them.....again and again in a loop, repeating. 
 > 
@@ -119,7 +125,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > Ahead, the darkness grows deeper beneath the woods. Beyond the dark woods, you can see the five rivers of [[Sembara]] laid out before you, hundreds of miles to the north. You catch a glimpse of familiar roads, of the docks of [[Tollen]] and Embry and the smaller ports where you docked many times as a child, still not understanding how you can see detail from hundreds or thousands of miles away. Somehow your eye is drawn to a ship at sea, crossing the [[Western Gulf]], with steady seas and a following wind. You can see the captain of the watch, a grizzled old halfling patriarch, holding the wheel steady and smiling to the wind and the spray, until he turns to look directly at you. 
 > 
-> His face turns grim, his smile fades. Behind him, a man stands, probably Drankorian from his features. Sharp eyes, dark hair, a proud, haughty demeanor, old, and strong, and confident. He is wearing a [[Cloak of Rainbows|shimmering cloak]], carries a [[Scepter of Command|familiar scepter]] around his waist, and looks down with disgust at the halfling captain. The Drankorian spits out a string of words you cannot clearer hear, and red mist begins to rise up around him. As he chants the mist gets deeper and deeper, filling the ship, filling the sea, stretching across [[Sembara]] and the world, and you hear the sounds of halflings across the world choking and dying as one. The face of the captain begins to melt away, until there is just a skeleton looking at you. The ship sinks, and your eye is drawn to the [[Western Gulf]], where a ship is sailing with steady seas and following winds, and old halfling patriarch at the wheel, smiling, until he turns to look at you, and speaks:
+> His face turns grim, his smile fades. Behind him, a man stands, probably Drankorian from his features. Sharp eyes, dark hair, a proud, haughty demeanor, old, and strong, and confident. He is wearing a [[Cloak of Rainbows|shimmering cloak]], carries a [[Scepter of Command|familiar scepter]] around his waist, and looks down with disgust at the halfling captain. The Drankorian spits out a string of words you cannot clearly hear, and red mist begins to rise up around him. As he chants the mist gets deeper and deeper, filling the ship, filling the sea, stretching across [[Sembara]] and the world, and you hear the sounds of halflings across the world choking and dying as one. The face of the captain begins to melt away, until there is just a skeleton looking at you. The ship sinks, and your eye is drawn to the [[Western Gulf]], where a ship is sailing with steady seas and following winds, an old halfling patriarch at the wheel, smiling, until he turns to look at you, and speaks:
 > 
 > "You see all the pasts, the maybes and might have beens of the turning of time. Do not despair, for this past is not your past, nor is it your future, it is a branch of time avoided."
 > 
@@ -131,7 +137,7 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > #### Journey with [[Havdar]]
 > 
-> Wellby travels with [[Havdar]] and some troops back to [[Bas Udda]], to help collect the treasure buried there. On the journey, [[Havdar]] is just brimming with excitement about the return of the Nayan [[Sura]]. You get an earful of Dunmari politics -- how the old Samraat, Nayan Marathu, was supposed to be just a caretaker, having taken the throne at 60 in DR 1736 (12 years ago) but he starts to bring back the traditional ways, traveling east with the court instead of staying in the palace in [[Nayahar]], organizing a census of all Dunmari, not just the settled ones in the cities to the west, and even proposing a new capitol, more centrally located between [[Tokra]] and [[Darba]], and in the original Dunmari tradition of being a waypoint and meeting place. It was a time of great hope, and especially because [[Sura]], from a prominent family south of [[Tokra]], but who was seen as committed to a greater [[Dunmar]] that acknowledged all Dunmari, east and west, had a prominent role in court and was seen as the obvious successor. The court even came to [[Karawa]] one year. This was about 10 years ago, when [[Havdar]] was in his late teens, and you get the sense he was infatuated with [[Sura]], in addition to his support of her political positions.
+> Wellby travels with [[Havdar]] and some troops back to [[Bas Udda]], to help collect the treasure buried there. On the journey, [[Havdar]] is just brimming with excitement about the return of the Nayan [[Sura]]. You get an earful of Dunmari politics -- how the old Samraat, Nayan Marathu, was supposed to be just a caretaker, having taken the throne at 60 in DR 1736 (12 years ago) but he starts to bring back the traditional ways, traveling east with the court instead of staying in the palace in [[Nayahar]], organizing a census of all Dunmari, not just the settled ones in the cities to the west, and even proposing a new capital, more centrally located between [[Tokra]] and [[Darba]], and in the original Dunmari tradition of being a waypoint and meeting place. It was a time of great hope, and especially because [[Sura]], from a prominent family south of [[Tokra]], but who was seen as committed to a greater [[Dunmar]] that acknowledged all Dunmari, east and west, had a prominent role in court and was seen as the obvious successor. The court even came to [[Karawa]] one year. This was about 10 years ago, when [[Havdar]] was in his late teens, and you get the sense he was infatuated with [[Sura]], in addition to his support of her political positions.
 > 
 > Then it all fell apart. [[Sura]] vanished, and shortly after Marathu was killed in an [[Orcs|orc]] ambush, when he personally led the search for [[Sura]]. [[Sura]]'s brother, Karnas, who had been general of the southern armies (west of the mountains), ended up as Samraat, but he has been a disaster (according to [[Havdar]]), ignoring the east and growing rich off Chardonian trade and Chardonian money that seems to flow constantly to [[Nayahar]]. 
 > 
@@ -155,15 +161,15 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > 
 > After leaving [[Garret Tealeaf|Garret]] at the Red Lily, you ride on [[Baxter]] for the [[Lakan Monastery]], about five miles distance. Riding across the open plains, in a new place, urging [[Baxter]] forward as you and he skillfully leap across obstacles and dodge between rocks, you think of how far you have traveled in the nearly a year now since you left your family, and how much you have learned and seen.
 > 
-> As you ride, you realize you are constantly aware of the world around you, noticing things you would have missed before: the sparrows fliting in the distance, flying away from you and [[Baxter]], the snake slithering away as you ride past, the far-distant hawk on the wind. As the terrain gets steep and you begin climbing towards the road, you dismount, leading [[Baxter]] over the rocky terrain. Then, suddenly, as you turn to climb the final hill, you see out of the corner of your eye a rockslide beginning. Before you are even consciously aware of the danger coming your way, you find yourself dodging for cover, the last months of adventuring clicking together. You catch your breath, the rocks harmlessly falling behind you, and finish your climb, reaching the monastery.
+> As you ride, you realize you are constantly aware of the world around you, noticing things you would have missed before: the sparrows flitting in the distance, flying away from you and [[Baxter]], the snake slithering away as you ride past, the far-distant hawk on the wind. As the terrain gets steep and you begin climbing towards the road, you dismount, leading [[Baxter]] over the rocky terrain. Then, suddenly, as you turn to climb the final hill, you see out of the corner of your eye a rockslide beginning. Before you are even consciously aware of the danger coming your way, you find yourself dodging for cover, the last months of adventuring clicking together. You catch your breath, the rocks harmlessly falling behind you, and finish your climb, reaching the monastery.
 > 
-> As you reach the gates, a Dunmari monk in white robes trimmed in blue greats you. "Come, you are expected."
+> As you reach the gates, a Dunmari monk in white robes trimmed in blue greets you. "Come, you are expected."
 
 > [!warning]- Letter from Dee Wildcloak to Wellby, Session 61
 > 
 > ### Letter from Dee Wildcloak to Wellby, Session 61
 > 
-> a short note, writing in the halfling language and addressed to Wellby, in the letter from Dee]
+> a short note, written in the halfling language and addressed to Wellby, in the letter from Dee]
 > 
 > Wellby,
 > 
@@ -171,8 +177,35 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 > Hugs and kisses,
 > Dee
 
+%%^Metadata:names:v1%%
+- {name: Wellby, language: unknown}
+- {name: Wellby Goodbarrel, role: full name, language: unknown, notes: "Full form recorded in [[Goodbarrels]].", status: documented}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 early-adventuring portrait, with earlier family backstory, a 1747–1748 departure chronology, and discrete memories and campaign scenes; the later DR 1749 account is not covered.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added `knownTo: [dufr]` from the existing Fellowship membership and campaign scenes; normalized frontmatter while preserving its previous values.
+- Added persistent name metadata for Wellby and the documented full form Wellby Goodbarrel, leaving the name language unknown.
+- Added `POV: 1748` and temporal guidance for the early-adventuring account and its separate backstory and recollections.
+- Corrected ten objective defects: “Halfing,” the repeated “you kind of,” “your stretch,” “land lain out,” “clearer hear,” “and old halfling,” “new capitol,” “fliting,” “greats you,” and “note, writing.”
 
+### Validated judgments
+- The memories, dreams, attributed political opinions, and personal letter retain their source voice and uncertainty; the alternate-past vision is not treated as literal history.
+- Wellby and Goodbarrel have transparent English-style readings consistent with the displayed halfling naming pattern in [[Playing a Halfling]]; pronunciation aids are unnecessary, and their in-world name language remains unestablished.
+- Local DM-attestation review is inapplicable to `dm_owner: player`; the existing human attestation is preserved.
 
+### Editorial assessment
+**Underdeveloped** as a current character reference: the substantial early-adventuring source collection lacks the defining later death and restoration at Uzgukhar and the eventual decision to return to his family. The smallest useful scope is a short, sourced later-life section, subject to the human choice whether to update or intentionally preserve the DR 1748 snapshot. These are established coverage gaps, not requests to invent missing adventures.
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** The account ends with early campaign scenes and Dee's letter. [[Session 88 (DuFr)]] establishes Wellby's destruction of the Ring of Undying, death at Grash's hands, and restoration by Riswynn. The farewell at Ikram's in [[_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-session-recap|Session 139 recap]] establishes his intention to return north to his family and elders with Baxter and contribute his experiences to their song. These developments materially affect this principal character's personal account. Choose whether to update the article and its POV, defer that update with a human-added `status/gameupdate/dufr`, or deliberately preserve the early snapshot. A bounded addition if updating: “During the [[Battle for Uzgukhar]], Wellby destroyed the [[Ring of Undying]], was killed by [[Grash]], and was restored to life by [[Riswynn]]. At the Fellowship's later farewell in [[Karawa]], he planned to ride north with [[Baxter]] to his family and elders, hoping to add his experiences to their song.” Preserve the return as an intention, not a completed journey. Verify the exact battle date before adding date-sensitive blocks: Session 88's frontmatter and timeline use 1749, while its opening narrative uses 1748; the Session 139 farewell itself has no exact date assigned.
+- [ ] **Warning — correctness.source_attribution:** Both headings for “Letter from Dee Wildcloak to Wellby, Session 61” conflict with the session record: [[Session 61 (DuFr)]] is Seeker's solo prequel, whereas [[Session 68 (DuFr)#Letters Received]] lists both [[Letter from Dee Wildcloak]] and the personal letter linked to this page. Correct only the two heading labels to “Letter from Dee Wildcloak to Wellby, Session 68” after confirming the attribution; preserve the personal letter's text.
+- [ ] **Suggestion — correctness.name_mismatch:** The first paragraph of “Wellby in Tokra, Session 34” displays `[[Garret Tealeaf|Garret]] Tealeft`, but the linked subject is [[Garret Tealeaf]]. Proposed correction: `[[Garret Tealeaf]]`. This resolves the surname mismatch without changing the person or event.
+%%^End%%

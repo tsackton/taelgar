@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/gameupdate/clee]
-name: Viepuck
-born: 1706-10-01
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [person, status/gameupdate/clee, status/check/lint]
 species: human
 ancestry: Sembaran
+born: 1706-10-01
 gender: male
-dm_owner: player
-dm_notes: important
 player: Chris Kelly
+name: Viepuck
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
 affiliations: [Heroes of Cleenseau]
 whereabouts:
-- {type: home, end: 1719, location: Embry}
-- {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
-- {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+  - {type: home, end: 1719, location: Embry}
+  - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
+  - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
+knownTo: [clee]
+dm_owner: player
+dm_notes: important
+POV: 1719
 ---
 # Viepuck
 >[!info]+ Biographical Info  
@@ -42,7 +46,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 >
 >After about 2 years with the thieves, several of the older ringleaders were caught and hanged by the city watch and the group fell apart. Viepuck and [[Tal]] ended up at the [[Lord Mayor’s Workhouse]], a safe enough place for older children. The work was long and hard – making fine clothes, mostly – but it was well-suited to small fingers, and the place provided a solid two meals a day, meat on feast days, and a small stipend of coins each month. Even though the older children stole most of the coins, it was a safe and secure place, such as these things go. A year passed quickly, and [[Tal]] got a job as a cabin boy on a riverboat trading along the [[Semb]] and moved on, although they ran into each other for a bit when [[Tal]] was in town now and then.
 >
->As 4 Robert I dawned, changes came to the [[Lord Mayor’s Workhouse]]. A elderly woman with a thick body and stern face took charge, and work slowed down. More and more children were sent out to various ‘external apprenticeships’ and few or none returned. Rumors spread both good and bad: few truly believed that she was able to find so many apprenticeships for orphaned children.
+>As 4 Robert I dawned, changes came to the [[Lord Mayor’s Workhouse]]. An elderly woman with a thick body and stern face took charge, and work slowed down. More and more children were sent out to various ‘external apprenticeships’ and few or none returned. Rumors spread both good and bad: few truly believed that she was able to find so many apprenticeships for orphaned children.
 >
 >One day, in the early winter of 6 Robert I, Viepuck was selected for an apprenticeship with a scholar. This turned out to be a formative experience, where he [[Viepuck's Ritual Experience|met his patron and was almost sacrificed to a dark portal]]. He came out of the experience alive, and with a new iridescent sphere reminiscent of a robin's egg, and a new mysterious alien mind watching the world through him.
 >
@@ -72,16 +76,16 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 >  This section lists the disguises Viepuck has used, so I can keep track if nothing else.
 >
 >**Vala Xendra** (she/her)
->A poorly dressed lower class servant woman from whereever she needs to be. Usually seen carrying a basket or laundry or some other mundane item. In her late teens.
+>A poorly dressed lower class servant woman from wherever she needs to be. Usually seen carrying a basket or laundry or some other mundane item. In her late teens.
 >
 >![[Vala screenshot.png]]
 >
 >**Najeer Garay** (he/him)
-> The son of [[Susanne Garay]], a cloth merchant from [[Embry]]. Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An asipiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
+> The son of [[Susanne Garay]], a cloth merchant from [[Embry]]. Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An aspiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
 > ![[Najeer screenshot.png]]
 > 
 > **Treph Hardpick** (he/him)
-> A dwarf, traveler from [[Nardith]]. A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
+> A dwarf, traveler from [[Nardith]]. A laborer, looking more concerned with the evening's dice-and-drinking than appearances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
 > ![[Treph screenshot.png]]
 > **Sarlana Silversword** (she/her)
@@ -93,3 +97,45 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 ```dataview
 table without id embed(link(image, "240")) as "Image", link(file.name, name) as "Name", typeOf as Type, elink(ddbLink, "Reference") as Mechanics from #item where pcOwner = "Viepuck"
 ```
+
+%%^Metadata:names:v1%%
+- {"name": "Viepuck", "language": "unknown", "pronunciation": "vyeh-PÜK", "status": "proposed", "notes": "Sembaran context supports a French-informed proposal using the southern analogue in [[Languages]]: ie as a glide plus eh, u as rounded ee, final ck as k, and final-syllable stress. An English-influenced VEE-puck is also possible; language and pronunciation are unconfirmed."}
+- {"name": "Najeer Garay", "role": "alias", "language": "unknown", "notes": "A merchant disguise used by Viepuck, not a separate son of Susanne Garay."}
+- {"name": "Najeer", "role": "alias", "language": "unknown"}
+- {"name": "Vala Xendra", "role": "alias", "language": "unknown", "notes": "A servant-woman disguise used by Viepuck."}
+- {"name": "Treph Hardpick", "role": "alias", "language": "unknown", "notes": "A dwarven laborer disguise used by Viepuck."}
+- {"name": "Sarlana Silversword", "role": "alias", "language": "unknown", "notes": "A warrior disguise used by Viepuck."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign DR 1719 portrait and backstory through October 20; the opening still uses the Najeer persona and does not supply a current account of Viepuck.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `knownTo` from the established party relationship and campaign records.
+- Corrected `A elderly woman` to `An elderly woman`, `whereever` to `wherever`, `An asipiring merchant` to `An aspiring merchant`, `than apperances` to `than appearances`.
+- Normalized frontmatter field order and collection formatting.
+- Added persistent name metadata and a supported `POV`/`povNotes` interpretation.
+
+### Validated judgments
+- `status/gameupdate/clee`: not assessable until the human chooses to update or intentionally preserve the earlier portrayal; retained unchanged.
+- The ordinary comment is an editorial reminder about the outdated disguise account, not additional canon.
+- Player ownership makes the local `dm_notes` attestation gate not applicable; the existing attestation is preserved.
+
+### Editorial assessment
+**Underdeveloped**: despite extensive backstory and disguise notes, the ordinary reference lead lacks Viepuck’s true identity and an account that distinguishes the early Najeer persona from his established later campaign identity. The smallest useful scope is a factual lead and a bounded decision on the later state, keeping player-only background under an intentional visibility policy.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The lead identifies Najeer as Susanne Garay’s fourth son, while the authored disguise list, [[Heroes of Cleenseau]], and [[Letter from Susanne Garay to Viepuck]] establish that this is Viepuck’s assumed identity. The visible reference account needs his actual identity rather than presenting the persona as fact. Candidate lead: `Viepuck is a teenaged orphan from [[Embry]] and a member of the [[Heroes of Cleenseau]]. He has used several disguises, including Najeer Garay, a supposed son of [[Susanne Garay]].` Retain persona details as explicitly labeled disguise descriptions.
+
+- [ ] **Warning — coverage.later_material_change:** The lead remains an early impression of Najeer, but [[Cleenseau - Session 04]] records the exposure of Viepuck’s deception on DR 1719-11-07, and [[Cleenseau - Session 36]] places him with the party traveling toward Orenlas in DR 1720. Choose whether to update the reference and POV, defer under the existing `status/gameupdate/clee`, or intentionally retain an explicitly historical portrait. A bounded update is: `His Najeer disguise was exposed in Cleenseau in DR 1719; by late DR 1720 he was traveling toward [[Orenlas]] with the [[Heroes of Cleenseau]].` An isolated later passage could be placed in a proposed `Date:1720` block; no new visibility block has been applied.
+
+- [ ] **Warning — privacy.unprotected_player_notes:** The two callouts titled “Viepuck’s Background (For Chris’ Eyes Only)” and “Viepuck’s Additional Character Info (For Chris’ Eyes Only)” are ordinary visible Markdown. Their titles do not enforce the stated audience. Decide the intended audience; if they should be withheld from public export, enclose the two callouts, from the first title through the final Sarlana image and before `### Items`, in a `Campaign:none` block with its matching `End` marker. This would make them shared DM material rather than enforce a Chris-only audience; use a separately approved private destination if that narrower boundary is required.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `vyeh-PÜK` from the French side of the Sembaran analogue in [[Languages]]: ie is a glide plus eh, u is rounded ee, ck is k, and stress is final. The northern English side could instead support `VEE-puck`. The name’s actual language and pronunciation are not established. Confirm or replace the proposal, then copy an accepted primary reading to frontmatter and mark the entry documented; documented disguise names are retained without invented etymologies.
+%%^End%%

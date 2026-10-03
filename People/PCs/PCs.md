@@ -1,7 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+name: Players of Taelgar
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Players of Taelgar
 
@@ -11,7 +15,7 @@ Among the most famous are the [[Heroes of the Great War]]. While many of the det
 
 In the DR 1700s, four groups of adventurers have been most active in Taelgar:
 - The [[Dunmar Fellowship]], a renowned group of adventurers who met in [[Karawa]] in DR 1748, and have since [[Dunmari Frontier Campaign|traveled across much of the world of Taelgar]] in their flying skyship [[Vindristjarna]]. 
-- The [[Silver Tempests]], whose exploits are [[Great Library Campaign|chronicled elsewhere]], a group of heroes made a name for themselves in the [[Northern Provinces]] of the [[Drankorian Empire]] in the late DR 1740s. 
+- The [[Silver Tempests]], whose exploits are [[Great Library Campaign|chronicled elsewhere]], a group of heroes who made a name for themselves in the [[Northern Provinces]] of the [[Drankorian Empire]] in the late DR 1740s.
 - The [[Heroes of Cleenseau]], a party of heroes who met in [[Cleenseau]] in DR 1719, and have since made a name for themselves as they [[Cleenseau Campaign|work to defend]] the people of southern [[Sembara]]. 
 - The [[Addermarch Mercenaries]], a group of chance-met travelers, whose exploits in the service of [[Caradoc]] the alchemist are [[Addermarch Campaign|chronicled elsewhere]].
 
@@ -42,4 +46,25 @@ In addition, several shorter adventures and series of one-shots have included:
 - Tollen Adventures, a pair of one-shots set in the city of [[Tollen]]. %%note - likely sometime in the 1740s but never canonically placed in time. %%
 - A variety of adventures featuring [[Riswynn]] and [[Oskar]] set in and around the [[Yuvanti Mountains]]. %%note - these were Riswynn adventures during the time the rest of the party was traveling around the desert, the first journey to Kharsan, and dealing with Agata%% 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective overview of adventuring parties from different campaign periods; the Great War and individual adventure dates are historical context, not a claim that all parties were active simultaneously.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `name: Players of Taelgar` from the existing heading.
+- Recorded a modern POV and the overview's retrospective, multi-campaign temporal framing.
+- Added the missing relative pronoun in “a group of heroes who made a name for themselves.”
+
+### Validated judgments
+- This is a campaign overview rather than a named in-world subject, so no `Metadata:names:v1` block is applicable.
+
+### Open findings
+
+- [ ] **Error — content.cross_note_conflict:** The Silver Tempests bullet places their late-1740s exploits in the Northern Provinces of the `[[Drankorian Empire]]`. Both [[Great Library Campaign]] and [[Silver Tempests]] identify this as the Chardonian frontier, and [[Northern Provinces]] defines the provinces as Chardonian in that period. Replace only `[[Drankorian Empire]]` in this bullet with `[[Chardonian Empire]]`; preserve the late-1740s historical framing.
+- [ ] **Warning — content.cross_note_conflict:** The Heroes of Cleenseau bullet says they met in `[[Cleenseau]]`, while [[Cleenseau - Session 01]] explicitly records all four meeting while defending Taviose on DR 1719-10-20, consistent with [[Heroes of Cleenseau]]. Replace the bounded phrase `who met in [[Cleenseau]] in DR 1719` with `who met in [[Taviose]], near [[Cleenseau]], in DR 1719`.
 %%^End%%

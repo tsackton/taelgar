@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T17:51:33-04:00"
+lintVersion: "3.5"
 tags: [group]
-dm_notes: none
-dm_owner: none
 typeOf: adventuring party
+name: Labyrinth Prisoners
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Labyrinth Prisoners
 >[!info]+ Information  
@@ -17,6 +21,14 @@ The Labyrinth Prisoners were an ad hoc adventuring party formed by four captives
 ## Members
 
 - [[Acescale]], a [[Lizardfolk|lizardfolk]] alchemist and gambler from [[Latazaro]]
-- [[Gaudin|Gadin]], an [[Elves|elf]] warlock and smuggler with fey patron
+- [[Gaudin|Gadin]], an [[Elves|elf]] warlock and smuggler with a fey patron
 - [[Loria Underbough|Loria Underbough]], a [[Halflings|halfling]] wanderer and ranger from the [[Enst]] river valley
 - [[Dilion|Dilon]], a [[Humans|human]] artificer and battlesmith who traveled with [[Pikeia]] and the [[Steampup]]
+
+%%^Metadata:names:v1%%
+- {"name": "Labyrinth Prisoners", "language": "Common", "notes": "Descriptive Common label made from ordinary English words.", "status": "inferred"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of the party’s formation, escape, and dispersal in October DR 1748; it does not describe an ongoing organization.
+%%^End%%
