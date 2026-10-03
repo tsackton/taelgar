@@ -19,6 +19,5 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
 %%% Needs info from my DM notes pulled in %%
 ![[alaric-benec.png|right|400]]

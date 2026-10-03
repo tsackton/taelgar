@@ -27,7 +27,7 @@ POV: 1720s
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:clee%% Fought alongside the [[Heroes of Cleenseau]] on October 21st, 1719 in the [[Cleenseau Wood]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>> %%^Campaign:clee%% Fought alongside the [[Heroes of Cleenseau]] on October 21th, 1719 in the [[Cleenseau Wood]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
 A soldier in the [[Army Garrison of Cleenseau|Bridge Patrol]], who went into the forest with the [[Heroes of Cleenseau]] after the spider attacks on [[Taviose]]. He greatly admires [[Robin of Abenfyrd|Robin]].
 
