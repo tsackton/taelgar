@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Dawn at the Gatehouse",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "Morning routines and the approach of one patrol form a continuous observation-and-preparation scene.",
+      "overview": "The party wakes, spots the gnolls and their demon, and prepares an ambush.",
+      "transitionToNext": "Wellby takes the shot at the flying demon, starting combat."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "The Gatehouse Ambush",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "The ambush and defense of the gate form a continuous effort to draw the retreating gnolls back and prevent their leader from escaping.",
+      "overview": "Wellby destroys the demon; Kenzo draws the gnolls back and holds the gate until it is forced open; Wellby kills the fleeing leader.",
+      "transitionToNext": "With the leader dead, the fight centers on the remaining hunters and keeping Kenzo alive beneath the gatehouse."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Kenzo’s Last Stand",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The remaining fight turns on defeating the hunters and supporting the badly wounded Kenzo in the passage beneath the gatehouse.",
+      "overview": "The hunters fall, Kenzo becomes isolated and badly wounded, and his companions support him by rope until the remaining gnolls are defeated.",
+      "transitionToNext": "The gatehouse fight ends and the party pursues its escaped gnoll."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Pursuit to the Outer Plaza",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "Containing the sleeping hyenas and chasing the survivor lead directly into a second fight near the stables.",
+      "overview": "Seeker and Riswynn secure the hyenas; the party catches the fugitive and defeats four gnolls in the plaza.",
+      "transitionToNext": "With the plaza quiet, the party splits up to scout and question the captive animals."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Captives and Corruption",
+      "beatIds": [
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "The parallel searches, animal questioning, discussion of corruption, and rest share the immediate goal of understanding the cleared fort and deciding what to do next.",
+      "overview": "The party finds starving animals, searches the buildings and leader, debates corruption, and rests before investigating the pools.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

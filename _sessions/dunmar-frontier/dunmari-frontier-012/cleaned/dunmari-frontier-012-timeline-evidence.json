@@ -1,0 +1,40 @@
+{
+  "inferredStart": "1748-04-13",
+  "inferredEnd": "1748-04-13",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: just after sunrise",
+      "date": "1748-04-13",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "The session manifest supplies April 13; u0002 describes the sun rising over Raven’s Hold and u0046–u0048 explicitly say early morning, just after sunrise. The prior night and earlier Karawa events in the opening recap are retrospective."
+    },
+    {
+      "uid": "u2122",
+      "label": "After the plaza fight: about eight",
+      "date": "1748-04-13",
+      "time": "about 08:00, morning",
+      "basis": "explicit",
+      "evidence": "u2121 asks whether it is still morning; the DM replies in u2122, “It’s like eight in the morning.” The fights and pursuit are continuous on the opening date."
+    },
+    {
+      "uid": "u2184",
+      "label": "Ten-minute ritual during exploration",
+      "date": "1748-04-13",
+      "time": "morning; ten minutes pass",
+      "basis": "explicit",
+      "evidence": "u2184 offers ten minutes to cast Speak with Animals as a ritual; Seeker accepts at u2185, then speaks with the captive hyenas in u2258–u2306. Other party members scout concurrently."
+    },
+    {
+      "uid": "u2617",
+      "label": "Short rest and breakfast",
+      "date": "1748-04-13",
+      "time": "later morning; short rest",
+      "basis": "explicit",
+      "evidence": "u2617–u2623 agree on a short rest in the courtyard/plaza. The DM describes the rising sun and breakfast in u2631–u2634 and confirms the rest is complete at u2640. No overnight rest or calendar transition occurs."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

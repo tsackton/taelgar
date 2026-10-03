@@ -1,0 +1,368 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-012/cleaned/dunmari-frontier-012-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "shortSummary": "The party wakes in the gatehouse and prepares an ambush as gnolls approach with hyenas and a flying demon.",
+      "longSummary": "After a disturbed night, the party wakes with new confidence and greater abilities. Wellby methodically packs, Seeker sketches maps and considers a choose-your-own-adventure book, Delwath paces, Kenzo watches the courtyard, and Riswynn checks her armor and family-history shield. Vola oils her gear nearby. They spot nine gnolls, three hyenas, and a small batlike demon approaching through the foul courtyard toward the barred gate. Delwath casts Armor of Agathys and drinks a healing potion while the group takes protected positions and waits to see what the patrol does.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Gatehouse towers and the view across the polluted courtyard"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        }
+      ],
+      "items": [
+        {
+          "name": "Riswynn’s family-history shield",
+          "role": "encountered",
+          "notes": "Riswynn checks the treasured shield she is carrying home."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Wellby kills the flying demon, Seeker puts the hyenas to sleep, and the gnolls retreat under the party’s ambush.",
+      "longSummary": "Wellby starts the ambush by shooting the batlike demon, destroying it in a puff of flame and smoke. Riswynn heals Kenzo, and Seeker gives Wellby a spiraling rune of inspiration. Vola throws psychic blades, Kenzo examines the leader with Soul Sight, and Delwath combines Hex with Eldritch Blast. Riswynn summons a spectral warhammer and uses Sacred Flame, while Seeker sends all three hyenas to sleep. The gnolls exchange arrows with the protected party, wounding Vola, before withdrawing and abandoning the hyenas; the party debates whether to pursue.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Gatehouse windows and courtyard approach"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Gnoll patrol and its leader"
+          },
+          {
+            "name": "Batlike demon"
+          },
+          {
+            "name": "Three hyenas"
+          }
+        ],
+        "notes": "Gatehouse windows and courtyard approach"
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Kenzo jumps down and opens the gate to lure the gnolls back, but their leader continues fleeing.",
+      "longSummary": "Kenzo drops from the wall and removes the heavy gate bar. Wellby, Delwath, and Seeker keep attacking the retreating leader while Riswynn moves her Spiritual Weapon after the gnolls. The open gate draws most of the patrol back, but the leader and one follower keep running. Kenzo swings the gate shut again but cannot seat the bar securely. From above, Wellby uses Seeker’s inspiration to land another long shot; Delwath can no longer reach the leader, and further shots fail to bring it down. The group begins considering how to reach Kenzo below.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Gatehouse, unbarred gate, and retreat route across the courtyard"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Gnoll patrol and its leader"
+          }
+        ],
+        "notes": "Gatehouse, unbarred gate, and retreat route across the courtyard"
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Kenzo delays the gnolls at the gate and returns a hunter’s arrow as Wellby kills their fleeing leader.",
+      "longSummary": "Seeker sends Kenzo inspiration while gnoll arrows leave Vola badly hurt. Kenzo uses the rune to hold the unbarred gate against repeated charges, forcing the attackers to spend their turns breaking through. Once the gate finally flies open, a hunter’s arrow threatens to strike him, but he catches and returns it with ki, badly wounding the archer. Kenzo takes position under the gate passage and fights the attackers there. Meanwhile, Wellby shifts between arrow slits and kills the fleeing gnoll leader with a shot from about two hundred feet away; its companion continues escaping.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Battered gate, covered passage, and gatehouse firing positions"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Gnoll leader"
+          },
+          {
+            "name": "Gnoll hunters and warriors"
+          }
+        ],
+        "notes": "Battered gate, covered passage, and gatehouse firing positions"
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party kills both gnoll hunters while Kenzo holds the entrance against spearmen.",
+      "longSummary": "Delwath moves his Hex to the hunter wounded by its own arrow and kills it with Eldritch Blast. Riswynn attacks the other hunter with Sacred Flame and her spectral hammer. Seeker’s insulting illusory scat makes one arrow miss Kenzo, who catches and returns the next. Spear thrusts badly wound Kenzo, and an arrow strikes Delwath despite his cover. Kenzo kills a nearby gnoll with Flurry of Blows; Wellby wounds another, Delwath finishes the remaining hunter, and Riswynn’s Spiritual Weapon knocks down another warrior.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Gatehouse walls and melee beneath the entrance"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Two gnoll hunters"
+          },
+          {
+            "name": "Gnoll warriors"
+          }
+        ],
+        "notes": "Gatehouse walls and melee beneath the entrance"
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "With only two hit points left, Kenzo holds his position until the remaining gatehouse gnolls are dead.",
+      "longSummary": "Seeker’s second illusory insult hampers a gnoll, but Kenzo takes another spear wound and reports only two hit points remaining. His position under the passage blocks healing and most attacks from above. Vola lowers a rope with a grappling hook, yet Kenzo stays to fight, joking that near-death experiences aid spiritual growth. He kills one enemy as Wellby descends and drops the last fifteen feet, hurting his ankle; Delwath attacks while hanging from the rope, and Riswynn sends her Spiritual Weapon at an unseen target. After the last attackers miss him, Kenzo finishes them and emerges leaning on his staff, while one gnoll has escaped toward the outer fort.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Covered gate passage and ropes hanging from the wall"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Remaining gnoll warriors"
+          }
+        ],
+        "notes": "Covered gate passage and ropes hanging from the wall"
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Seeker and Riswynn confine the sleeping hyenas while Wellby and Kenzo pursue the escaped gnoll.",
+      "longSummary": "Wellby starts after the survivor. Seeker shapes pits beneath the sleeping hyenas, and Riswynn helps contain them before they awaken. Kenzo uses both remaining charges of his healing mud, regaining fifteen hit points, then joins the pursuit. He and Wellby race through the oily, foul-smelling courtyard toward the outer plaza, with Delwath following and the others farther behind. Near the stables they catch up to the fleeing gnoll and see three additional gnolls; a new fight is about to begin.",
+      "location": {
+        "kind": "journey",
+        "from": "gatehouse (Raven's Hold)",
+        "to": "outer plaza (Raven's Hold)",
+        "context": "Pursuit through the courtyard, with the party arriving in stages."
+      },
+      "npcs": [
+        {
+          "name": "Three hyenas",
+          "role": "encountered",
+          "notes": "Left alive in deep pits while the party pursues the gnoll."
+        }
+      ],
+      "items": [
+        {
+          "name": "Red healing mud",
+          "role": "encountered",
+          "notes": "Kenzo uses both remaining charges for fifteen hit points; the mud is removed from his gear."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party catches the fugitive and defeats it and three more gnolls in the outer plaza.",
+      "longSummary": "Kenzo strikes the fleeing gnoll and Wellby kills it with an arrow while Delwath approaches. The remaining gnolls throw spears and shoot from near the stables; Kenzo deflects a spear, though his return throw misses. As the others come into range, Delwath wounds a gnoll, Seeker finishes it with a crossbow shot, and Riswynn kills another with Guiding Bolt. Kenzo closes with the last foe and kills it with his staff and fist. Only the captive animals’ howling remains; it is about eight in the morning, and the group turns toward exploration and a rest.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Outer plaza near the ruined horse statue and animal pens"
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Escaped gnoll"
+          },
+          {
+            "name": "Three gnolls near the stables"
+          }
+        ],
+        "notes": "Outer plaza near the ruined horse statue and animal pens"
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party questions starving animals and searches the fort, finding a bloodied spear and a locket of foul liquid.",
+      "longSummary": "Seeker heals Kenzo and performs Speak with Animals as a ritual. The ruined stables contain roughly seventy to one hundred starving predators in about twenty-five stalls, restrained with ropes, chains, and rubble. Four hyenas say two-legged beasts captured them several suns from home and are starving them; they offer no clear explanation of the ritual. Wellby finds filthy barracks and old fire damage, Riswynn finds Blackened Claw symbols, about ten crates, worn equipment, and a chained, locked room, and Delwath sees no movement on the plains. Searching the leader, Wellby finds a blood-caked spear bearing the running-horse design of their horn and a metal locket containing steaming, acrid liquid. He avoids the escaping vapor, closes it, brings the spear to Kenzo, and drags a gnoll corpse toward the animals for food.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Outer plaza, ruined stables, flanking buildings, lookout, and leader’s corpse"
+      },
+      "npcs": [
+        {
+          "name": "Vola Forena",
+          "role": "companion",
+          "context": "Rescued adventurer accompanying the party."
+        },
+        {
+          "name": "Captive hyenas",
+          "role": "encountered",
+          "notes": "Questioned by Seeker; describe capture and starvation without explaining the ritual."
+        }
+      ],
+      "items": [
+        {
+          "name": "Bloodied running-horse spear",
+          "role": "encountered",
+          "notes": "Recovered from the gnoll leader and passed to Kenzo; its design matches the party’s horn."
+        },
+        {
+          "name": "Metal locket of foul liquid",
+          "role": "encountered",
+          "notes": "Opens with acrid, sulfurous vapors; Wellby closes it without being splashed."
+        },
+        {
+          "name": "Running-horse horn",
+          "role": "mentioned",
+          "notes": "Its design matches the spear; the party still has not blown it."
+        },
+        {
+          "name": "Crates and scavenged equipment",
+          "role": "encountered",
+          "notes": "About ten crates, shields, and worn leather armor in the western building."
+        },
+        {
+          "name": "Chained, locked room",
+          "role": "encountered",
+          "notes": "Seen during a cursory search; not opened."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Blackened Claw",
+          "role": "encountered",
+          "notes": "Recognizable symbols remain in the western building."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party postpones freeing the animals, considers possible sources of demonic corruption, and rests before investigating the pools.",
+      "longSummary": "Riswynn proposes releasing and feeding the captives, but the group worries they might drink the valley’s poisoned water. They regret killing every gnoll before questioning one and review the demon, the jackalweres who held Vola, and the mention of Agata Dustmother. Delwath recalls childhood stories of abyssal corruption infecting land, flesh, and animals; he suspects gnolls could be infected beasts, without proof. The party considers both the water and the antelope carcasses the demon had blackened with its claws as possible means of transformation. Four poisoned antelope remain in the keep. They decide to investigate the nearby green pools before releasing the animals, take a short rest and breakfast in the plaza, and end the session with that investigation still ahead.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven's Hold",
+        "context": "Outer plaza and nearby stables; other parts of the fort discussed"
+      },
+      "npcs": [
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "notes": "Named in recollection of Vola’s shapeshifting captors."
+        },
+        {
+          "name": "Vola Forena",
+          "role": "mentioned",
+          "notes": "Her former captors are discussed."
+        }
+      ],
+      "items": [
+        {
+          "name": "Four corrupted antelope carcasses",
+          "role": "mentioned",
+          "notes": "Still in the inner keep; considered a possible source of corruption."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}
