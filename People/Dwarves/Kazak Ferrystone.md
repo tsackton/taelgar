@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 species: dwarf
 gender: male
 affiliations: [{org: Ferrystones, type: primary }]
