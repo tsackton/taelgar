@@ -6,6 +6,7 @@ tags: [person, status/check/lint]
 species: dwarf
 gender: male
 name: Bolgrim Ferrystone
+pronunciation: BOL-grim FAIR-ee-stohn
 affiliations:
   - {org: Ferrystones, type: primary}
 whereabouts:
@@ -18,21 +19,26 @@ dm_notes: color
 POV: 1720s
 ---
 # Bolgrim Ferrystone
+*(BOL-grim FAIR-ee-stohn)*
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Ferrystones]]  
+> A [[Dwarves|dwarf]] (he/him), of the [[Ferrystones|Ferrystone Clan]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[bolgrim-ferrystone.jpg|left|200]]
 
-Bolgrim Ferrystone is a dwarf of the [[Ferrystones]], based in [[Rinburg]]. He and [[Kazak Ferrystone]] were attacked by [[The Hunter|the Hunter’s]] bears while traveling to [[Aslain]]. Bolgrim escaped injury, while Kazak was badly hurt and subsequently healed by the [[Heroes of Cleenseau]].
+Bolgrim Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], with expertise in masonry. He is a cousin of [[Roaric Ferrystone]].
 
-In April DR 1720, Bolgrim brought Ferrystone masons and cartloads of stone to [[Asineau]] in gratitude. His cousin [[Roaric Ferrystone]] accompanied them to establish a smithy.
+%%^Campaign:clee%%
+He and [[Kazak Ferrystone]] were attacked by [[The Hunter|the Hunter’s]] bears while traveling to [[Aslain]]. Bolgrim escaped injury, while Kazak was badly hurt and subsequently healed by the [[Heroes of Cleenseau]].
+
+In April DR 1720, Bolgrim brought Ferrystone masons and cartloads of stone to [[Asineau]] in gratitude. Roaric accompanied them to establish a smithy.
+%%^End%%
 
 %% Source discrepancy: [[Into Aslain (Email)]] identifies Kazak as the injured dwarf and Bolgrim as uninjured, while [[April Around Asineau]] attributes the injury and healing to Bolgrim. The DM confirmed that Kazak was the dwarf healed; this account follows that correction. %%
 
 %%^Metadata:names:v1%%
-- {"name": "Bolgrim Ferrystone", "language": "unknown", "pronunciation": "BOL-grim FAIR-ee-stohn", "status": "proposed", "notes": "Proposed using the Tolkien Dwarvish naming analogue in [[Languages]] for Bolgrim, with a short o, hard g, and initial stress; Ferrystone follows its transparent English spelling. The complete name language and accepted pronunciation are unrecorded."}
+- {name: Bolgrim Ferrystone, language: Dwarvish, pronunciation: BOL-grim FAIR-ee-stohn, status: documented, notes: "Ferrystone is a Common rendering. Pronunciation accepted from the existing proposal, informed by the Tolkien Dwarvish naming analogue in [[Languages]] for Bolgrim, with a short o, hard g, and initial stress; Ferrystone follows its transparent English spelling."}
 %%^End%%
 
 %%^povNotes:v1%%
