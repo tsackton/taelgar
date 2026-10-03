@@ -102,6 +102,7 @@ The party plans to investigate the remaining creatures and corrupted water.
 - Date: 1748-04-12
 - Time: evening
 - Source Range: u0001 -> u0612
+- Polished Transcript: beat-transcripts/dunmari-frontier-011-recap-001-transcript.md
 - Locations: Raven's Hold
 - NPCs: Vola
 - Organizations: none
@@ -133,6 +134,7 @@ Vola explains that rumors of treasure left by a three-headed, fire-breathing bea
 - Date: 1748-04-12
 - Time: evening
 - Source Range: u0613 -> u0963
+- Polished Transcript: beat-transcripts/dunmari-frontier-011-recap-002-transcript.md
 - Locations: Raven's Hold
 - NPCs: Goat-headed demon
 - Organizations: none
@@ -164,6 +166,7 @@ As they circle the keep, Kenzo steps on a rock and attracts an undead gnoll's at
 - Date: 1748-04-12
 - Time: unknown
 - Source Range: u0964 -> u1376
+- Polished Transcript: beat-transcripts/dunmari-frontier-011-recap-003-transcript.md
 - Locations: Raven's Hold
 - NPCs: Vola, Goat-headed demon
 - Organizations: none
@@ -195,6 +198,7 @@ Watching without invisibility this time, Wellby sees the demon begin work on dea
 - Date: 1748-04-12
 - Time: night
 - Source Range: u1377 -> u2092
+- Polished Transcript: beat-transcripts/dunmari-frontier-011-recap-004-transcript.md
 - Locations: Raven's Hold
 - NPCs: Vola, Goat-headed demon
 - Organizations: none
@@ -226,6 +230,7 @@ A blow from the demon's poisonous tail drops Delwath unconscious. It stands over
 - Date: 1748-04-12 to 1748-04-13
 - Time: unknown
 - Source Range: u2093 -> u2810
+- Polished Transcript: beat-transcripts/dunmari-frontier-011-recap-005-transcript.md
 - Locations: Raven's Hold
 - NPCs: Vola, Taster
 - Organizations: none
@@ -315,3 +320,82 @@ They plan to confront the remaining gnolls, find the small flying demon, free or
 - Beats JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-beats.json
 - Beat Facts JSON: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-beat-facts.json
 - Cleaned Source: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md
+
+## Pull Quotes
+
+- ID: quote-beat-002-001
+  - Quote: "Nothing in this valley seems fucking safe."
+  - Speaker: DM (Vola)
+  - Source Lines: u0488-u0493
+
+- ID: quote-beat-004-001
+  - Quote: "He looks very much like something that should be murdered, right?"
+  - Speaker: Wellby
+  - Source Lines: u0868
+
+- ID: quote-beat-005-001
+  - Quote: "My only hesitation, Wellby, in attacking it now is not learning what it's waiting for."
+  - Speaker: Delwath
+  - Source Lines: u1101-u1103
+
+- ID: quote-beat-005-002
+  - Quote: "Why I would look to attack it now."
+  - Speaker: Wellby
+  - Source Lines: u1105
+
+- ID: quote-beat-006-002
+  - Quote: "Yeah, I think at most only one or two of us will die."
+  - Speaker: Wellby
+  - Source Lines: u1299-u1302
+
+- ID: quote-beat-008-001
+  - Quote: "It was nice knowing everybody."
+  - Speaker: Delwath
+  - Source Lines: u1825
+
+- ID: quote-beat-009-002
+  - Quote: "Good. If you're still alive in the morning, sleep was the right thing."
+  - Speaker: Wellby
+  - Source Lines: u2254
+
+- ID: quote-beat-012-001
+  - Quote: "And I have the most fucked-up intuition that we're going to end up wherever that place is before this is all said and done."
+  - Speaker: Kenzo
+  - Source Lines: u2651-u2653
+
+## Audio Highlights
+
+- ID: audio-001
+  - Title: Vola describes Agata and the unfinished ritual
+  - Speaker: DM (Vola), Kenzo, Seeker, Delwath
+  - Source Lines: u0433-u0482
+  - Output: audio-001.m4a
+  - Why Called Out: Vola's impatient voice carries the clues and the warning about the animals in her dreams.
+
+- ID: audio-002
+  - Title: The demon works on the carcasses
+  - Speaker: DM, Kenzo, Delwath, Wellby
+  - Source Lines: u1167-u1204
+  - Output: audio-002.m4a
+  - Why Called Out: Sustained visual narration makes the ritual a distinct horror scene.
+
+- ID: audio-003
+  - Title: Delwath falls beneath the demon
+  - Speaker: DM, Delwath, Kenzo
+  - Source Lines: u1813-u1849
+  - Output: audio-003.m4a
+  - Why Called Out: A sharp shift in the battle, with Delwath's dry farewell interrupting the danger.
+
+- ID: audio-004
+  - Title: A cracked horn and a final hammer blow
+  - Speaker: DM, players
+  - Source Lines: u2064-u2094
+  - Output: audio-004.m4a
+  - Why Called Out: The narrated victory gives way to the party's characteristic humor about its cost.
+
+- ID: audio-005
+  - Title: Nightmares and unfinished business
+  - Speaker: DM (Vola), Seeker, Wellby, Riswynn, Delwath
+  - Source Lines: u2582-u2599
+  - Output: audio-005.m4a
+  - Why Called Out: The contrast in their rest outcomes leads directly into the next morning's unresolved dangers.

@@ -1447,7 +1447,14 @@ module TaelgarNoteLint
         report = validate_report(report_value, outcome, path)
         validate_editorial_consistency!(decision, report)
         validate_declared_body_edits!(decision, live_note, staged_note, path)
-        validate_dm_notes_review!(decision, record, staged_note, report, outcome, path)
+        dm_review_required = record.dig("deterministic", "reviewGates", "dmNotes", "required") == true
+        if live_note.yaml_error && !staged_note.yaml_error
+          # Invalid YAML hides the original owner/attestation from preparation.
+          # A repaired candidate may require review, but never relax a prior gate.
+          repaired_validation = validator.validate_text(path, staged_text)
+          dm_review_required ||= repaired_validation.dig("reviewGates", "dmNotes", "required") == true
+        end
+        validate_dm_notes_review!(decision, record, staged_note, report, outcome, path, required: dm_review_required)
         validate_secret_review!(decision, staged_note, report, path)
         validate_shared_nonpublic_review!(decision, staged_note, report, outcome, path)
         validate_documented_names_preserved!(live_note, staged_note, path)
@@ -1646,11 +1653,11 @@ module TaelgarNoteLint
         end
       end
 
-      def validate_dm_notes_review!(decision, record, staged_note, report, outcome, path)
+      def validate_dm_notes_review!(decision, record, staged_note, report, outcome, path, required:)
         review = decision.fetch("dmNotesReview")
-        expected_required = record.dig("deterministic", "reviewGates", "dmNotes", "required") == true
+        expected_required = required
         unless review["required"] == expected_required
-          raise BatchError, "The dm_notes review result does not match the manifest review gate: #{path}"
+          raise BatchError, "The dm_notes review result does not match the required review gate: #{path}"
         end
 
         cluster_reviews = Array(review["clusterReviews"])

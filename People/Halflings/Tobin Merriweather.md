@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-03T12:58:09-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: halfling
 gender: male
 name: Tobin Merriweather
-affiliations: [{org: Merriweathers, type: primary}]
+affiliations:
+  - {org: Merriweathers, type: primary}
 knownTo: [clee]
+POV: 1720
 ---
 # Tobin Merriweather
 >[!info]+ Biographical Info  
@@ -13,3 +17,11 @@ knownTo: [clee]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 Tobin Merriweather is [[Quent Merriweather|Quent's]] younger cousin and conducts much of the trading for their [[Merriweathers|family caravan]]. He visited [[Asineau]] in May DR 1720.
+
+%%^Metadata:names:v1%%
+- {name: "Tobin Merriweather", language: "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 portrait of the Merriweather caravan trader, anchored by its May visit to Asineau; the duration of his trading role is not established.
+%%^End%%
