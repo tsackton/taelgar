@@ -20,12 +20,7 @@ POV: 1720
 
 Charlotte is a Sembaran actor with [[Mahaut's Miracle Players]], who formerly traveled with [[Celyn]]. After the siege of [[Fellburn]], she met Celyn at the [[Oracle of Hope]] while traveling with [[Hugh Cosson]] and delivered a cryptic message from a stranger who had told her fortune.
 
-%% Sources:
-- [[The Oracle of Hope]]
-- [[Cleenseau - Interlude - After the Siege of Fellburn]]
-
-trans
-%%
+%% Note she is a transwoman %%
 
 %%^Metadata:names:v1%%
 - {name: "Charlotte", language: "Sembaran", status: "inferred", notes: "Language inferred from the subject’s established cultural and local naming context; this ordinary personal name needs no pronunciation guide."}

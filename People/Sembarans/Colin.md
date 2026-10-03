@@ -22,7 +22,7 @@ POV: 1720
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% There is no information about this person; he is a random name in the town watch %%
+A guard in the Cleenseau town watch, he has managed to survive the [[Undead Attacks in Sembara]] and other incidents in 1719-1720 without making a name for himself.
 
 %%^Metadata:names:v1%%
 - {name: "Colin", language: "Sembaran"}
