@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/gl]
+tags: [place, status/gameupdate/gl, status/check/ai]
 typeOf: grassland
 name: Erbalta Plains
 pronunciation: air-BAHL-tuh
@@ -19,13 +19,13 @@ POV: 1740s
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby, short grasses and hardy low bushes; shallow coulees dot the lowlands along the river, while limestone bluffs rise in the highlands. Along the river, some trees grow, supporting a vibrant riparian ecosystem, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
+The Erbalta Plains are a large open steppe along the [[Snake River]] valley. Across the drier plains, scrubby, short grasses and hardy low bushes predominate; shallow coulees dot the lowlands along the river, while limestone bluffs rise in the highlands. Along the river, some trees grow, supporting a vibrant riparian ecosystem, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
 
-The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields and in some riparian valleys. What does grow is hardy and drought tolerant: barley, flax, some pulses, and hay from riparian meadows. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
+The drier parts of the Erbalta Plains are too dry for extensive agriculture outside of irrigated fields and some riparian valleys. What does grow there is hardy and drought tolerant: barley, flax, some pulses, and hay from riparian meadows. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains.
 
 ![[erbalta-plains.png]]
 
-Settlement is sparse across much of the Erbalta. North of Voltara, rugged and largely unsettled steppe is cut by small canyons, and is largely an unsettled and undefended frontier. This was once the territory of [[Grumella's Horde]], but orcs have become a rare sight since [[Grumella's War|her defeat]]. To the south, the Voltara hinterlands support herding, limited farming, and substantial centaur populations. This area, especially along the south road, is heavily patrolled by Chardonian forces seeking to protect the chalyte shipments traveling overland to [[Lake Valandros]]. 
+Settlement is sparse across much of the Erbalta. North of Voltara, rugged and largely unsettled steppe is cut by small canyons, and is largely an unsettled and undefended frontier. This was once the territory of [[Grumella's Horde]], but orcs have become a rare sight since [[Grumella's War|her defeat]]. To the south, the Voltara hinterlands support herding, farming, and substantial centaur populations. This area, especially along the south road, is heavily patrolled by Chardonian forces seeking to protect the chalyte shipments traveling overland to [[Lake Valandros]].
 
 ## Borders
 
@@ -33,13 +33,17 @@ The Erbalta Plains refer to the entire [[Snake River]] valley grasslands in the 
 
 ## Climate
 
-Isolated from the moderating influence of the [[Endless Ocean]] by the [[Tawir Forest]] and the steep [[Fiatara Mountains]], the Erbalta Plains have a cold, semi-arid climate, with limited annual precipitation that mostly falls in the late winter and early spring. Summers are long, and often hot, dry, and windy, while winters are crisp with occasional light snowfall. Occasional spring and autumn squalls dump rain that swells the rivers and sustains the region’s hardy grasslands and scattered riparian groves.
+Sheltered from much of the [[Endless Ocean]]'s moisture and moderating influence by the [[Fiatara Mountains]], the Erbalta Plains have strongly continental seasons, with warm to hot summer days, cooler nights, and cold winters. Moisture reaching around the southern end of the range supports more productive grassland around [[Voltara]], while the plains become drier farther north and deeper in the mountain rain shadow. Late-spring and early-summer rains are important to grass growth; later summer is less reliably wet, and cool-season rain and snow provide additional moisture.
+
+Around Voltara and southern Erbalta, recurring winter thaws leave lowland snow cover intermittent and uneven. Snowstorms and prolonged cold spells can leave lasting snow, particularly in sheltered drifts, and severe winters retain cover much longer. Snow persists more readily farther north and higher in the mountains. Meltwater and springs from the Fiatara sustain rivers and riparian groves through dry spells on the plains.
 
 %%^Campaign:none%%
-**cold semi-arid (Köppen BSk) rain-shadow climate**
-real world analogs, although generally the Erbalta Plains are slightly warmer:
+**Continental grassland grading into cold semi-arid (Köppen BSk) steppe.** The wetter Voltara margin has a working **Dfb–BSk** comparison; BSk remains the stronger fit for drier Erbalta. Exact codes and the annual precipitation maximum remain open in [[Taelgar Climate Model#Northwestern mountains and plains]].
+
+Southern Alberta's prairie and foothill country provides the principal seasonal comparison, adapted to the Fiatara barrier and Taelgar's moisture routes. Its complete rainfall calendar and northward vegetation gradient are not imported. Other parallels concern selected dry landscapes:
+
+- [Southern Alberta foothills and Chinook thaws](https://albertaparks.ca/media/3331519/bcbc_final_web.pdf)
 - [Snake-Columbia steppe](https://www.ebsco.com/research-starters/earth-and-atmospheric-sciences/snake-columbia-shrub-steppe)
-- [Great Hungarian Plain](https://www.britannica.com/place/Great-Alfold)
 - [Shrublands of the Okanogan Dry Forest](https://www.oneearth.org/ecoregions/okanogan-dry-forests/)
 %%^End%%
 
