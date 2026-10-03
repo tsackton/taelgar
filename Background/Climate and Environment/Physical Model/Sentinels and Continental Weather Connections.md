@@ -49,7 +49,7 @@ This qualitatively accommodates K12–K14 in [[Climate and Weather Constraints]]
 > ![[assets/worldbuilding/taelgar-sentinels-winter-v3.png]]
 > *Winter continental cold and western moisture supply across the full range. Snow persistence and pass conditions depend on height and exposure.*
 
-Western ocean disturbances deliver rain to the milder forested footslopes and snow higher up. Northern and central high terrain repeatedly accumulates snow; a single warmer passage can raise the rain–snow boundary without removing the established high ice. Winds produce uneven loading across crests and gullies. At lower western elevations, wet snow and thaw can alternate, while the far northern forests retain a longer cold season.
+Western ocean disturbances deliver predominantly winter rain to the naturally mild, broad low foothills of Crimson and Elderwood, without magical warming, and snow higher up. Northern and central high terrain repeatedly accumulates snow; a single warmer passage can raise the rain–snow boundary without removing the established high ice. Winds produce uneven loading across crests and gullies. In colder lower western districts, wet snow and thaw can alternate, while the far northern forests retain a longer cold season.
 
 East of the crest, ordinary westerly flow is depleted of moisture. Cold continental highs and sheltered basins support dry, frosty spells across Ardlas, Breva, Zimkova, and interior Vostok, interrupted by snow-bearing disturbances. Breva's lasting ordinary winter snow is compatible with these drier intervals because cold ground loses snow slowly. Exposed plateau winds and quiet valley inversions represent different expressions of the same cold season.
 
@@ -69,7 +69,7 @@ Zimkova and the Vostok uplands retain colder nights and later thaw than Sembaran
 > ![[assets/worldbuilding/taelgar-sentinels-summer-v3.png]]
 > *Summer moisture approaches from different sides of the range, with drier southern high country and persistent high-elevation ice.*
 
-Western lowlands and forested slopes warm, with the Elderwood's summer drying grading northward toward more frequent maritime showers. High terrain remains much colder. Northern and central snowfields and glaciers persist through periods of daytime melting; fresh high-elevation snow can interrupt otherwise fine weather. Warm weather in a valley therefore gives little assurance of conditions at the crest.
+Crimson and Elderwood warm under predominantly dry Mediterranean summer weather. Within these forests, adopted elven magic supplies or enhances summer moisture through recurring mist, canopy drip and damp soil; its exact operation and bounds remain unresolved. Weaker magical influence and Fiatara shelter toward Highveil allow more open, drier woodland before the continental northern forests. High terrain remains much colder. Northern and central snowfields and glaciers persist through periods of daytime melting; fresh high-elevation snow can interrupt otherwise fine weather. Warm weather in a valley therefore gives little assurance of conditions at the crest.
 
 Green Sea inflow supplies humid spells and rain to Sembaran eastern foothills, especially exposed Ardlas slopes. Daytime heating can help form mountain showers when enough moisture is present; cloudy, longer wet spells also occur with passing systems. The more sheltered Vostok Plateau retains its cold, dry continental character overall, while lower basins have a usable warmer season. Summer rain need not be uniform across the northern highlands.
 

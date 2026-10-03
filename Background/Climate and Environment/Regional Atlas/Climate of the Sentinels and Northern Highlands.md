@@ -72,7 +72,7 @@ The named geographic notes for Pekul and the Vostok Plateau remain sparse. Their
 
 ### Winter
 
-On the western Sentinel slopes, repeated disturbances bring snow to high terrain and rain or wet snow farther down. Northern and central snow cover persists between passages, though the wind redistributes it. A sheltered hollow can have deep snow while a neighboring ridge is scoured. Milder western incursions can produce a lower-slope thaw without removing the established icefields above.
+On the western Sentinel slopes, repeated disturbances bring snow to high terrain and rain or wet snow farther down. Crimson and Elderwood's broad low foothills have naturally mild, predominantly rainy winters; their adopted summer magic supplies no winter warming. Northern and central snow cover persists between passages, though the wind redistributes it. A sheltered hollow can have deep snow while a neighboring ridge is scoured. Milder western incursions can produce a lower-slope thaw without removing the established icefields above.
 
 East of the crest, cold continental air and reduced moisture favor clearer, drier intervals. Ardlas valleys can hold frost and fog; Breva retains bitter cold and lasting snow. Exposed interior plateaus can be windy while a nearby basin is still and intensely cold. Moving disturbances interrupt these spells with snow, and an occasional downslope warming can change conditions in selected valleys without ending winter across the region.
 
@@ -88,7 +88,7 @@ Ardlas and lower Zimkovan valleys gain usable warmth before exposed ridges and t
 
 Low valleys can be mild or warm while crests remain cold, windy, and partly snow-covered. Northern and central glaciers persist through periods of melting, and sufficiently cold high terrain can receive fresh snow during a disturbance. Clear weather can improve visibility and conditions on some approaches without removing the underlying obstacles of ice, steep relief, and poorly known routes.
 
-Ardlas and exposed Sembaran approaches receive summer rain, ranging from showers to longer cloudy wet spells. Sheltered interior basins and the Vostok Plateau are less reliably watered. On the western side, the southern forests have a clearer dry period, while the northern forest margin admits more frequent maritime rain. A storm on one slope need not imply the same conditions across the crest.
+Ardlas and exposed Sembaran approaches receive summer rain, ranging from showers to longer cloudy wet spells. Sheltered interior basins and the Vostok Plateau are less reliably watered. On the western side, Crimson and Elderwood share Chasa and Chardon's predominantly dry Mediterranean summer atmosphere, while adopted elven magic supplies or enhances moisture within the forests through recurring mist, canopy drip and damp soil; its exact operation and bounds remain unresolved. Weaker magical influence and Fiatara shelter toward Highveil produce more open, drier woodland before the continental northern forests. A storm on one slope need not imply the same conditions across the crest.
 
 Southern high country has longer dry intervals. Lower valleys enjoy a warmer season, but cold nights and exposed high terrain remain important. Occasional thunderstorms or other moist incursions can interrupt a journey; they do not supply a dependable wet season across the range.
 

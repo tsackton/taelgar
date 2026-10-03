@@ -3,7 +3,7 @@
     "file": "taelgar-western-summer-v3",
     "season": "summer",
     "title": "Western coast and interior · Summer",
-    "subtitle": "Southern summer drying gives way to northern ocean weather and sheltered inland plains.",
+    "subtitle": "Mediterranean summer drying, local elven forest moisture, and sheltered continental interiors.",
     "crop": [
       35,
       70,
@@ -12,8 +12,8 @@
     ],
     "points": [
       [
-        490,
-        612
+        438,
+        615
       ],
       [
         520,
@@ -26,8 +26,8 @@
     ],
     "notes": [
       "1 · Chardon and the southern basins: stable ridge, coastal fog and a summer moisture deficit.",
-      "2 · Western forests: winter recharge and shade bridge dry intervals; showers persist farther north.",
-      "3 · Fiatara and the plains: exposed mountains intercept moisture; sheltered grasslands receive intermittent rain."
+      "2 · Crimson and Elderwood: elven magic sustains summer mist and moisture within a seasonally dry region.",
+      "3 · Fiatara and the interior: mountain shelter favors drier plains and a more continental forest transition northward."
     ],
     "labels": [
       [
@@ -50,13 +50,21 @@
         "points": "M417,461 C448,449 455,424 466,405",
         "dashed": true
       }
-    ]
+    ],
+    "area_legend": "Elven summer moisture",
+    "areas": [
+      {
+        "color": "#278575",
+        "path": "M505,461 C530,447 565,456 575,483 L569,532 C582,557 569,604 543,628 L499,633 C475,616 470,593 481,568 L490,538 C476,506 480,479 505,461 Z"
+      }
+    ],
+    "footer": "Hatch: schematic magical influence, not an exact boundary. Dashed winds: episodic. Small hexes: 24 miles face to face."
   },
   {
     "file": "taelgar-western-winter-v3",
     "season": "winter",
     "title": "Western coast and interior · Winter",
-    "subtitle": "Ocean storms reach farther south; maritime thaws alternate with interior cold outbreaks.",
+    "subtitle": "Ocean storms bring rain to low southern forests and snow to higher and colder northern terrain.",
     "crop": [
       35,
       70,
@@ -65,12 +73,12 @@
     ],
     "points": [
       [
-        490,
-        612
+        438,
+        615
       ],
       [
-        497,
-        505
+        530,
+        540
       ],
       [
         437,
@@ -79,7 +87,7 @@
     ],
     "notes": [
       "1 · Chardon and Apporia: returning western storms replenish rivers and soils.",
-      "2 · Forests and high slopes: rain below, snow higher up; snow storage releases water during the thaw.",
+      "2 · Crimson and Elderwood: naturally mild low foothills receive mostly rain; lasting snow lies higher and farther north.",
       "3 · Mawar and Fiatara: exposed storms and snowy high terrain; milder coastal intervals can interrupt winter cold."
     ],
     "labels": [
