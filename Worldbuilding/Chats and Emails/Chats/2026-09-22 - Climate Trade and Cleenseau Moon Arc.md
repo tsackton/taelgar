@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-22 - Climate Trade and Cleenseau Moon Arc
 
 *[Editorial note: Cut 7 messages about source-document review and push coordination.]*

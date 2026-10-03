@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-21 - Cleenseau Sources and Climate Constraints
 
 *[Editorial note: Cut 14 messages about source processing and session-note tooling.]*

@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # 2026-09-18 - Sunward Reach and Addermarch Fey Plans
 
 [2026-09-18 02:47 PM] rsulfuratus: in your feywild adventure in your game, did you ever introduce anyone besides morlaith and serenveil?
