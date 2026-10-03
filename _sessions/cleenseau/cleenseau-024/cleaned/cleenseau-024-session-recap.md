@@ -115,7 +115,7 @@ The party pursues the escaped gang, defeats those who resist, and returns the su
 After the informant helps Edouard and other gang members escape, the party overtakes them outside Peydon and recovers the surviving fugitives.
 
 #### Long
-The unnamed informant bribes someone to release Edouard and several other gang members from their temporary jail. Guided by Es*tiaslos, the party pursues the fugitives on borrowed horses. [[Brigitte Charpentier]], [[Tibault the Butcher]], and [[Noemie Vallier]] are killed after resisting. [[Pierrot the Weasel]] surrenders and provides information, including the identity of [[Mireille the Herbalist]], who is then arrested. The party returns the survivors to [[Roland Vaissier]]. The false informant is branded and expelled from Peydon. After completing his research, Izgil finds that his lunar bracers have merged with his skin.
+The unnamed informant bribes someone to release Edouard and several other gang members from their temporary jail. Guided by Es*tiaslos, the party pursues the fugitives on borrowed horses. [[Brigitte|Brigitte Charpentier]], [[Tibault the Butcher]], and [[Noemie Vallier]] are killed after resisting. [[Pierrot the Weasel]] surrenders and provides information, including the identity of [[Mireille the Herbalist]], who is then arrested. The party returns the survivors to [[Roland Vaissier]]. The false informant is branded and expelled from Peydon. After completing his research, Izgil finds that his lunar bracers have merged with his skin.
 
 ### recap-004 | The Baroness's Summons
 
@@ -148,7 +148,7 @@ After the party finally gets a full night's sleep, an unnamed messenger arrives 
 - [[Roland Vaissier]] (met): captain of the household guard who resumes his duties
 - [[Edouard of Peydon]] (met): ferryman arrested for assisting the Midnight Lady and later killed after escaping custody
 - the unnamed informant (met): gang associate who falsely offers evidence, arranges the prisoners' escape, and is expelled from Peydon
-- [[Brigitte Charpentier]] (met): gang enforcer killed after escaping custody and resisting recapture
+- [[Brigitte|Brigitte Charpentier]] (met): gang enforcer killed after escaping custody and resisting recapture
 - [[Tibault the Butcher]] (met): gang member killed after escaping custody and resisting recapture
 - [[Noemie Vallier]] (met): gang member killed after escaping custody and resisting recapture
 - [[Pierrot the Weasel]] (met): gang member who surrenders and provides information
