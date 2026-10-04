@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
-tags: [place, status/gameupdate/gl, status/check/ai]
+tags: [place, status/gameupdate/gl]
 typeOf: grassland
 name: Erbalta Plains
 pronunciation: air-BAHL-tuh
@@ -33,9 +33,9 @@ The Erbalta Plains refer to the entire [[Snake River]] valley grasslands in the 
 
 ## Climate
 
-Sheltered from much of the [[Endless Ocean]]'s moisture and moderating influence by the [[Fiatara Mountains]], the Erbalta Plains have strongly continental seasons, with warm to hot summer days, cooler nights, and cold winters. Moisture reaching around the southern end of the range supports more productive grassland around [[Voltara]], while the plains become drier farther north and deeper in the mountain rain shadow. Late-spring and early-summer rains are important to grass growth; later summer is less reliably wet.
+Sheltered from much of the [[Endless Ocean]]'s moisture and moderating influence by the [[Fiatara Mountains]], the Erbalta Plains have strongly continental seasons, with warm to hot summer days, cooler nights, and cold winters. Moisture reaching around the southern end of the mountains supports productive grassland around [[Voltara]], while the plains become drier farther to the north and deeper in the mountain rain shadow. Late-spring and early-summer rains are important to grass growth; later summer is less reliably wet.
 
-Around Voltara and southern Erbalta, winters are relatively dry with limited snowfall. Recurring thaws leave lowland snow cover intermittent and uneven. Snowstorms and prolonged cold spells can leave lasting snow, particularly in sheltered drifts, and severe winters retain cover much longer. Snow persists more readily farther north and higher in the mountains. Meltwater and springs from the Fiatara sustain rivers and riparian groves through dry spells on the plains.
+Around Voltara and southern Erbalta, winters are relatively dry with limited snowfall. Recurring thaws from warm winds off the [[Fiatara Mountains]] leave lowland snow cover intermittent and uneven, though variable from year to year. Snowstorms and prolonged cold spells can however leave lasting snow, particularly in sheltered drifts, and severe winters retain cover much longer. Snow persists more readily farther north and higher in the mountains. Meltwater and springs from the Fiatara sustain rivers and riparian groves through dry spells on the plains.
 
 %%^Campaign:none%%
 **Continental grassland grading into cold semi-arid (Köppen BSk) steppe.** The wetter Voltara margin has a working **Dfb–BSk** comparison; BSk remains the stronger fit for drier Erbalta. Exact codes depend on monthly temperature and precipitation totals, which remain unassigned in [[Taelgar Climate Model#Northwestern mountains and plains]].
