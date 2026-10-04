@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/stub, status/check/lint]
+tags: [person, status/check/lint]
 species: elf
 ka: 37
 gender: male
@@ -48,7 +48,7 @@ Temporal coverage: a DR 1749 portrait of a young elf newly traveling aboard Vind
 
 ### Open findings
 
-- [ ] **Warning — status.questioned:** The existing `status/stub` appears unnecessary for this bounded supporting character: the visible article already gives his origin, disposition, expertise, and role aboard [[Vindristjarna]], corroborated by [[Dunmar Fellowship Associates]]. Human choice: remove `status/stub` if this is the intended complete reference scope, or retain it and identify the specific useful dimension still intended for development. The tag is preserved.
+- [x] **Warning — status.questioned:** The existing `status/stub` appears unnecessary for this bounded supporting character: the visible article already gives his origin, disposition, expertise, and role aboard [[Vindristjarna]], corroborated by [[Dunmar Fellowship Associates]]. Human choice: remove `status/stub` if this is the intended complete reference scope, or retain it and identify the specific useful dimension still intended for development. The tag is preserved.
 
 ### DM evidence
 - [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 103 - DM Notes]]
