@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Into the Chasm
 sessionNumber: 2
 realWorldDate: 2025-12-03
@@ -36,7 +36,7 @@ The party makes their way into [[Zeyfa's Labyrinth|Zeyfa’s Labyrinth]], surviv
 
 ## Places
 
-- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zefya's Realm]]): hostile maze of ice, wind, and shifting passages, which the party seeks to flee.
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): hostile maze of ice, wind, and shifting passages, which the party seeks to flee.
 
 ## Narrative
 

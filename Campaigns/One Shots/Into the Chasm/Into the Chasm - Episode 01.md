@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Into the Chasm
 sessionNumber: 1
 realWorldDate: 2025-11-17
@@ -47,7 +47,7 @@ Drawn by omens around the [[Great Chasm]], five adventurers and a terrified Zimk
 ## Places
 
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): vast chasm where the worsening omens culminate in the storm that sweeps the party away.
-- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zefya's Realm]]): hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall. Session context includes: floating ice platform suspended in darkness and with bridges leading deeper into a maze..
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): hostile maze of ice, wind, bridges, and snow tunnels that begins with the floating platform where the party wakes after the fall. Session context includes: floating ice platform suspended in darkness and with bridges leading deeper into a maze..
 
 ## Narrative
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/mike]
+tags: [place, status/check/mike, status/check/ai]
 displayDefaults: {defArt: ""}
 typeOf: extraplanar domain
 typeOfAlias: labyrinth
@@ -11,7 +11,7 @@ campaignInfo:
 name: "Zeyfa's Labyrinth"
 pronunciation: ZAY-fahz LAB-uh-rinth
 whereabouts:
-  - {type: primary, location: Zefya's Realm}
+  - {type: primary, location: Zeyfa's Realm}
 knownTo: [itc]
 dm_owner: none
 dm_notes: none
@@ -23,7 +23,7 @@ POV: 1730
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Zeyfa's Labyrinth is an icebound maze inside [[Zefya's Realm]], associated with [[Zeyfa]], the cruel West Wind of Zimkovan legend. It is associated with a dangerous beast that consumes sacrifices sent into the labyrinth from [[Melusa]], and it said to trap all who enter. No one escapes. 
+Zeyfa's Labyrinth is an icebound maze inside [[Zeyfa's Realm]], associated with [[Zeyfa]], the cruel West Wind of Zimkovan legend. It is associated with a dangerous beast that consumes sacrifices sent into the labyrinth from [[Melusa]], and it said to trap all who enter. No one escapes. 
 
 %% probably more could be said %%
 
