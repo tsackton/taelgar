@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-10-03T09:44:02-04:00"
+lintedAt: "2026-10-03T23:14:01-04:00"
 lintVersion: "3.5"
-tags: [person, status/stub, status/check/lint]
+tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
 born: 1695
-name: Tobias of Cranford
+name: Tobias
+pronunciation: toh-BYE-us
 whereabouts: Cranford
 knownTo: [clee]
 dm_owner: mike
@@ -15,35 +16,20 @@ dm_notes: important
 POV: 1720
 ---
 # Tobias of Cranford
+*(toh-BYE-us)*
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% suitor of [[Juliana Westby]] %%
+Tobias of Cranford is the husband of [[Juliana Westby]], lady of [[Cranford]]. They married in the autumn of DR 1720.
+
+Earlier that year, the shapeshifter [[Areschera]] impersonated Tobias while murdering Juliana’s other suitors, [[Lambert Talwrey]] and [[Piers of Houille|Piers]]. Tobias was falsely accused and nearly executed by [[Thomas Dyerson]] before the intervention of the [[Heroes of Cleenseau]] led to his exoneration.
 
 %%^Metadata:names:v1%%
-- {"name": "Tobias of Cranford", "language": "Sembaran"}
+- {name: Tobias, language: Sembaran, pronunciation: toh-BYE-us, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: an early DR 1720 suitor snapshot preserved only in a comment; the later exoneration and marriage are not yet incorporated.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added `knownTo: [clee]` from campaign evidence, persistent name metadata, and a supported article POV with temporal notes.
-- Normalized frontmatter order and collection formatting where needed.
-
-### Validated judgments
-- `status/stub`: supported; the note still lacks a visible biographical account. The tag was preserved.
-
-### Editorial assessment
-**Underdeveloped** — The visible note gives no account of Tobias's defining relationship, false murder accusation, exoneration, or marriage, although those events are established elsewhere.
-
-### Open findings
-
-- [ ] **Warning — coverage.later_material_change:** The only authored line, hidden in a comment, calls Tobias a suitor. [[Juliana Westby]] establishes his false implication in a murder case, exoneration, and marriage in autumn DR 1720. Candidate: `Tobias of Cranford was falsely accused of murders committed by [[Areschera]] while she impersonated him. The [[Heroes of Cleenseau]] helped establish his innocence, and he married [[Juliana Westby]] in the fall of DR 1720.` Decide whether to publish the later account and update its temporal framing, defer with the appropriate game-update tag, or retain an explicitly earlier suitor snapshot. The central relationship and fate need visible treatment in either case.
+Temporal coverage: a DR 1720 account after Tobias’s exoneration and autumn marriage to Juliana Westby; his earlier life and subsequent history are not established here.
 %%^End%%
