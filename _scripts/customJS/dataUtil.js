@@ -205,9 +205,11 @@ class DateManager {
             }
           
             let dayString = day + "th"
-            if (day == 1) dayString = day + "st"
-            else if (day == 2) dayString = day + "nd"
-            else if (day == 3) dayString = day + "rd"
+            if (day % 100 < 11 || day % 100 > 13) {
+                if (day % 10 == 1) dayString = day + "st"
+                else if (day % 10 == 2) dayString = day + "nd"
+                else if (day % 10 == 3) dayString = day + "rd"
+            }
 
             return this.#getNameForMonth(month) + " " + dayString + ", " + year
         }

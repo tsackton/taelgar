@@ -1,4 +1,8 @@
 import unittest
+import json
+import os
+from pathlib import Path
+import subprocess
 from regenerate_header import replace_header
 
 
@@ -21,6 +25,48 @@ class HeaderPreservationTests(unittest.TestCase):
     def test_yaml_only_receives_header(self):
         self.assertEqual(replace_header('---\nname: Example\n---\n', '# Example\n'),
                          '---\nname: Example\n---\n# Example\n\n')
+
+
+class StandaloneRuntimeTests(unittest.TestCase):
+    root = Path(__file__).resolve().parents[4]
+
+    def test_full_header_renders_without_obsidian_or_preload(self):
+        metadata = {
+            'name': 'Fixture Person', 'species': 'human',
+            'pronunciation': 'FIX-cher',
+            'whereabouts': [{'type': 'home', 'location': 'Fixture Place'}],
+            'affiliations': ['Fixture Group'],
+            'campaignInfo': [{'campaign': 'dufr', 'date': '1748-08-23', 'type': 'met'}],
+        }
+        files = [{'path': name + '.md', 'basename': name, 'frontmatter': fm}
+                 for name, fm in [('Fixture Person', metadata),
+                                  ('Fixture Place', {'name': 'Fixture Place', 'tags': ['place']}),
+                                  ('Fixture Group', {'name': 'Fixture Group', 'tags': ['group']})]]
+        payload = {'root': str(self.root), 'files': files, 'name': 'Fixture Person',
+                   'metadata': metadata, 'date': '1750-01-01'}
+        environment = dict(os.environ)
+        environment.pop('NODE_OPTIONS', None)
+        result = subprocess.run(['node', str(Path(__file__).with_name('render_header.js'))],
+                                input=json.dumps(payload), text=True, encoding='utf-8',
+                                capture_output=True, env=environment, check=True)
+        self.assertIn('*(FIX-cher)*', result.stdout)
+        self.assertIn('August 23rd, 1748', result.stdout)
+
+    def test_day_ordinals_include_twenty_first_and_teens(self):
+        script = r'''
+const fs = require('node:fs');
+const vm = require('node:vm');
+const DateManager = vm.runInNewContext('(' + fs.readFileSync(process.argv[1], 'utf8') + ')');
+const manager = new DateManager();
+console.log(JSON.stringify(Array.from({length: 31}, (_, i) =>
+    manager.normalizeDate('1748-08-' + String(i + 1).padStart(2, '0'), false).display)));
+'''
+        result = subprocess.run(['node', '-e', script, str(self.root / '_scripts/customJS/dataUtil.js')],
+                                capture_output=True, text=True, encoding='utf-8', check=True)
+        displays = json.loads(result.stdout)
+        for day in range(1, 32):
+            suffix = 'th' if 11 <= day <= 13 else {1: 'st', 2: 'nd', 3: 'rd'}.get(day % 10, 'th')
+            self.assertEqual(displays[day - 1], f'August {day}{suffix}, 1748')
 
 
 if __name__ == '__main__':

@@ -3,7 +3,22 @@
 const fs = require("node:fs");
 const path = require("node:path");
 const vm = require("node:vm");
+// Obsidian supplies these extensions to the live header classes. The adapter
+// also returns host-realm arrays, so install them in both realms.
+function installObsidianExtensions() {
+  for (const [prototype, name, value] of [
+    [Array.prototype, "first", function () { return this[0]; }],
+    [Array.prototype, "last", function () { return this[this.length - 1]; }],
+    [Array.prototype, "contains", Array.prototype.includes],
+    [String.prototype, "contains", String.prototype.includes],
+  ]) {
+    if (typeof prototype[name] !== "function") {
+      Object.defineProperty(prototype, name, {value, configurable: true, writable: true});
+    }
+  }
+}
 async function main() {
+  installObsidianExtensions();
   const input = JSON.parse(fs.readFileSync(0, "utf8"));
   const files = input.files;
   const app = {
@@ -25,6 +40,7 @@ async function main() {
   };
   const customJS = {state: {overrideDate: input.date}};
   const context = vm.createContext({app, window: {app}, customJS});
+  vm.runInContext(`(${installObsidianExtensions.toString()})()`, context);
   const classes = {
     init: "loadMetadata", DateManager: "dataUtil", NameManager: "nameManager",
     TokenParser: "tokenParser", WhereaboutsManager: "whereabouts",
