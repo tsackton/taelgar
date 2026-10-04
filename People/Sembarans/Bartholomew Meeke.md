@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-10-04T17:09:13-04:00"
+lintedAt: "2026-10-04T17:14:44-04:00"
 lintVersion: "3.5"
 tags: [person]
 species: human
@@ -20,6 +20,10 @@ POV: 1720s
 
 %%^Campaign:clee%%
 He was one of the first messengers to be enchanted by [[The Hunter]], and he carried [[The Hunter's Letter - Email Exchange|a fey letter]] intended for the [[Heroes of Cleenseau]] while confused and disoriented. He later recovered in the care of the halflings in Aslain, where [[Callie Riverstone]] sheltered him. The two have a friendly relationship.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Bartholomew Meeke, language: unknown}
 %%^End%%
 
 %%^povNotes:v1%%
