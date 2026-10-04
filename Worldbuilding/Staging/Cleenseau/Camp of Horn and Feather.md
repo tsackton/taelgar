@@ -1,10 +1,3 @@
----
-headerVersion: 2023.11.25
-tags: [place, status/stub]
-typeOf: settlement
-name: Camp of Horn and Feather
-whereabouts: Feywild
----
 %%
 The Camp of Horn and Feather is a lightly fortified fey encampment on a ridge west of [[Evensong Spire]]. A wall, bonfire, and tents shelter the five sibling hunters [[Thyron]], [[Kyron]], [[Myron]], [[Syron]], and [[Lyron]] and their animal companions.
 %%
