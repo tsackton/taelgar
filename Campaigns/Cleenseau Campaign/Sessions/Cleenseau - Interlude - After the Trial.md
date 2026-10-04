@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/check/ai]
+tags: [session-note]
 name: "Interlude: After the Trial"
 campaign: Cleenseau
 realWorldDate: 2025-10-09

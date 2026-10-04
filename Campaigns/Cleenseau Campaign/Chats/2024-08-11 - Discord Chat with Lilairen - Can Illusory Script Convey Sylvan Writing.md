@@ -1,5 +1,5 @@
 ---
-tags: [status/check/ai]
+tags: []
 ---
 # 2024-08-11 - Discord Chat with Lilairen - Can Illusory Script Convey Sylvan Writing
 

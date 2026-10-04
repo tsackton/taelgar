@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 name: History of Taelgar - Non-Canonical Ideas
 excludePublish: [all]
 dm_owner: joint

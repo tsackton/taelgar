@@ -1,5 +1,5 @@
 ---
-tags: [status/check/ai]
+tags: []
 ---
 # 2024-10-16 - Discord Chat with Lilairen - Celyn's Inner Light Holy Symbols and Spellcasting
 
