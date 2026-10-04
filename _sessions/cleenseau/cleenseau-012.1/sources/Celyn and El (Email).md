@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Celyn and El (Email)
 
 Four-message email exchange, 16 February–15 March 2024. Each newly authored turn is preserved below in sent order. Repeated quoted-reply history and the mailing-list footer are omitted. The first message quoted a passage from an earlier thread; that context is retained once.

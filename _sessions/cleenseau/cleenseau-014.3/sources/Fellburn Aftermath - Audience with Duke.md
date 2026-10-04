@@ -1,6 +1,3 @@
----
-tags: [meta]
----
 
 The Duke's command tent is fine and functional, and as the afternoon light wanes Celyn, Robin, and Viepuck find themselves gathered in the back of the tent, along with about dozen clerks, guards, courtiers, and hangers-on. The Duke is holding court, and Marcel, the captain of the guard, has invited the party for an audience when the court's business has finished. 
 

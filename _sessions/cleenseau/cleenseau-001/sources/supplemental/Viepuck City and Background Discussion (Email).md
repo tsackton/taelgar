@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Viepuck City and Background Discussion (Email)
 
 Local archive of all 20 message bodies in this correspondence, including quoted reply history. Pre-campaign setting options and player decisions; early proposals should not be treated as established lore.

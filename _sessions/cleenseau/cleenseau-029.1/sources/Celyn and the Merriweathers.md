@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Celyn and the Merriweathers
 
 Celyn's player turn in the consultation with the Merriweathers at [[Asineau]], preserved in [[Cleenseau - Session 29.1]]. The GM's introduction and the complete correspondence are in [[The Merriweathers (Email)]].

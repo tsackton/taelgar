@@ -1,6 +1,3 @@
----
-tags: [meta]
----
 
 # Siege of Fellburn - Duke's Camp
 

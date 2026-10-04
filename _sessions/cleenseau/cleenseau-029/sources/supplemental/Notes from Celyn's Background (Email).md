@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Notes from Celyn's Background (Email)
 
 Local archive of all 2 message bodies in this correspondence, including quoted reply history. Character-background discussion and DM feedback.

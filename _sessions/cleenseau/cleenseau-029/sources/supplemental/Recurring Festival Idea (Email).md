@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Recurring Festival Idea (Email)
 
 Complete local archive of the Recurring Festival Idea correspondence (8 messages). Message bodies preserve quoted reply history.

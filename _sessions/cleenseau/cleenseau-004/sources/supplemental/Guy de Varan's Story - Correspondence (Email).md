@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Guy de Varan's Story - Correspondence (Email)
 
 Local archive of all 12 message bodies in this correspondence, including quoted reply history. The first message's in-world story is also preserved as [[Guy de Varan's Story]]; this archive preserves the ensuing questions, corrections, planning, and a forwarded worldbuilding discussion.

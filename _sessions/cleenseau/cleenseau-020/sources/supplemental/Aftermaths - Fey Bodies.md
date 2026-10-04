@@ -1,6 +1,3 @@
----
-tags: [meta]
----
 
 # Aftermaths - Fey Bodies
 

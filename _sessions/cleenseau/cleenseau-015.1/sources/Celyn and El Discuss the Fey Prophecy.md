@@ -1,5 +1,4 @@
 ---
-tags: [meta, status/check/ai]
 campaign: Cleenseau
 ---
 # Celyn and El Discuss the Fey Prophecy

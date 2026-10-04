@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Celyn's Inn Idea (Email)
 
 Local archive of all 20 message bodies in this correspondence, including quoted reply history.

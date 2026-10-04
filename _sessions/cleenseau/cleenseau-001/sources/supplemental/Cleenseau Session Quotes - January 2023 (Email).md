@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Cleenseau Session Quotes - January 2023 (Email)
 
 Local archive of all 5 message bodies in this correspondence, including quoted reply history. Player-supplied recollections of session quotes; spellings and attributions vary among messages.

@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
 campaign: Cleenseau
 realWorldDate: 2025-05-18
 sessionNumber: 25

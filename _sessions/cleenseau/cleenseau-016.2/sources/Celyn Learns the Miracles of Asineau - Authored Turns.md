@@ -1,5 +1,4 @@
 ---
-tags: [meta, status/check/ai]
 campaign: Cleenseau
 ---
 # Celyn Learns the Miracles of Asineau

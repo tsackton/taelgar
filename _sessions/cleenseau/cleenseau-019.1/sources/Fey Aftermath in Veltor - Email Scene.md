@@ -1,5 +1,4 @@
 ---
-tags: [meta, status/check/ai]
 campaign: Cleenseau
 ---
 # Fey Aftermath in Veltor - Email Scene

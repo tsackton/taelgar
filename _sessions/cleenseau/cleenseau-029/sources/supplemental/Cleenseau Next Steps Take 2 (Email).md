@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Cleenseau Next Steps Take 2 (Email)
 
 Local archive of all 9 message bodies in this correspondence, including quoted reply history.

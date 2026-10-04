@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # SimManor Approach (Email)
 
 Local archive of all 7 message bodies in this correspondence, including quoted reply history.

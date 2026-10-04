@@ -1,6 +1,3 @@
----
-tags: [meta]
----
 
 Viepuck at some point when the chaos starts winding down will note that he is intending to meet Lenora before either we or she leaves.  This isn’t quite stated as an invitation, but isn’t NOT an invitation?  He won’t motion for anyone else to come along but also won’t stop them.   
   

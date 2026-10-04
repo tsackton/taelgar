@@ -1,7 +1,5 @@
 ---
-tags: [meta, status/check/ai]
 campaign: Cleenseau
-POV: 1720
 ---
 # The Oracle of Hope
 

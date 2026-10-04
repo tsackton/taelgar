@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Robin Character Background (Email)
 
 Local archive of all 13 message bodies in this correspondence, including quoted reply history. Pre-campaign discussion of Robin's origins and the lantern; proposals and revisions are preserved in sequence.

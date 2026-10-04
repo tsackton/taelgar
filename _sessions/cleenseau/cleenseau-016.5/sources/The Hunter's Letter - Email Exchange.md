@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # The Hunter's Letter - Email Exchange
 
 %% Original email subject: "Taelgar: The Letter" %%

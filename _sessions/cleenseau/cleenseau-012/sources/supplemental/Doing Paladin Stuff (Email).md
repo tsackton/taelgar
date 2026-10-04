@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Doing Paladin Stuff (Email)
 
 Local archive of all 4 message bodies in this correspondence, including quoted reply history.

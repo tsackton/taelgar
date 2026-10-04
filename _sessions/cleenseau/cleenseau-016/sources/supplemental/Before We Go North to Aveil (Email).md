@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Before We Go North to Aveil (Email)
 
 Complete local archive of the Before We Go North to Aveil correspondence (3 messages). Message bodies preserve quoted reply history.

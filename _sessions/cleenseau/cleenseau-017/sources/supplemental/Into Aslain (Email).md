@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Into Aslain (Email)
 
 Four-message correspondence from 7–10 August 2024. The first message contains the background information given to the party before its arrival in Aslain; later replies discuss plans and clarify details. Quoted history is retained where replies are interleaved with it. The map attached to Mike's 9 August reply is preserved below.

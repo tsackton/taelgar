@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # The Situation in Asineau (Email)
 
 Local archive of all 10 message bodies in the Situation in Asineau correspondence, including quoted reply history.

@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Destruction of Eftly (Email)
 
 Local archive of all 14 message bodies in this correspondence, including quoted reply history.

@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # More Notes and Questions (Email)
 
 Local archive of all 6 message bodies in this correspondence, including quoted reply history.

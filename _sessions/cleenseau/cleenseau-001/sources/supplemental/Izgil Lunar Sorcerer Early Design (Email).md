@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Izgil Lunar Sorcerer Early Design (Email)
 
 Local archive of all 27 message bodies in this correspondence, including quoted reply history. Pre-campaign proposed lunar sorcerer rules and feedback.
