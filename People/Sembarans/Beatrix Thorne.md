@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: human
 ancestry: Sembaran
 born: 1696
@@ -29,18 +29,16 @@ POV: 1720
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[beatrix.png|right|320]]A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the [[Heroes of Cleenseau]] into the [[Cleenseau Wood]] following a trail of spiders.
+![[beatrix.png|right|320]]A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she distinguished herself during the [[Undead Attacks in Sembara]] and other troubles around Cleenseau in the fall of 1719.
 
-After her recent marriage to [[Gabriel Thorne]], she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]].
+In November 1720, she married [[Gabriel Thorne]],, after which she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]]. She was made sheriff after the death of [[Ysabel]] during the [[Undead Attacks in Sembara]].
 
-Her father-in-law is the chief yeoman of [[Auloutte]].
-
-%% Mike Sackton's August 3, 2026 email, subject "Re: [Thantos] Heir to House Griffin," supplied this correction. %%
+Her [[Gideon Thorne|father-in-law]] is the chief yeoman of [[Auloutte]].
 
 %%^Metadata:names:v1%%
 - {"name": "Béatrix Thorne", "language": "Sembaran", "status": "documented", "pronunciation": "bay-ah-TREEKS thorn", "notes": "Proposed mixed Sembaran reading using [[Languages]]: the southern French analogue gives é as ay and -trix as treeks; Thorne retains the English-side th and long or vowel with silent final e. Exact in-world pronunciation remains unrecorded."}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1720 portrait after the marriage, miscarriage, and appointment as sheriff; the expedition and army service describe late DR 1719.
+Temporal coverage: a DR 1720 portrait after the marriage, miscarriage, and appointment as sheriff; the expedition and army service describe late DR 1719. Her later involvement 
 %%^End%%
