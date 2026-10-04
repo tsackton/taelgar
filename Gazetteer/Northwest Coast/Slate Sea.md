@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-24T09:25:51-04:00"
+lintedAt: "2026-10-03T20:26:26-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: marine feature
 typeOfAlias: bay
 name: Slate Sea
