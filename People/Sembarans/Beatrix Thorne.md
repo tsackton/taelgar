@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai, status/check/lint]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1696
 gender: female
 name: Béatrix Thorne
+pronunciation: bay-ah-TREEKS thorn
 aliases: [Béatrix, Beatrix, Béatrix Thorne]
 affiliations:
   - {org: Army Garrison of Cleenseau, end: 1719-11-02, title: Soldier}
@@ -21,6 +22,7 @@ dm_notes: color
 POV: 1720
 ---
 # Béatrix Thorne
+*(bay-ah-TREEKS thorn)*
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[Thornes of Cleenseau]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -36,26 +38,9 @@ Her father-in-law is the chief yeoman of [[Auloutte]].
 %% Mike Sackton's August 3, 2026 email, subject "Re: [Thantos] Heir to House Griffin," supplied this correction. %%
 
 %%^Metadata:names:v1%%
-- {"name": "Béatrix Thorne", "language": "Sembaran", "status": "proposed", "pronunciation": "bay-ah-TREEKS thorn", "notes": "Proposed mixed Sembaran reading using [[Languages]]: the southern French analogue gives é as ay and -trix as treeks; Thorne retains the English-side th and long or vowel with silent final e. Exact in-world pronunciation remains unrecorded."}
+- {"name": "Béatrix Thorne", "language": "Sembaran", "status": "documented", "pronunciation": "bay-ah-TREEKS thorn", "notes": "Proposed mixed Sembaran reading using [[Languages]]: the southern French analogue gives é as ay and -trix as treeks; Thorne retains the English-side th and long or vowel with silent final e. Exact in-world pronunciation remains unrecorded."}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1720 portrait after the marriage, miscarriage, and appointment as sheriff; the expedition and army service describe late DR 1719.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting.
-- Added supported name and temporal metadata.
-- Added `knownTo: [clee]` from the reviewed campaign evidence.
-- Corrected an objective typo.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry proposes `bay-ah-TREEKS thorn`. Proposed mixed Sembaran reading using [[Languages]]: the southern French analogue gives é as ay and -trix as treeks; Thorne retains the English-side th and long or vowel with silent final e. Exact in-world pronunciation remains unrecorded. If accepted, add `pronunciation: bay-ah-TREEKS thorn` to frontmatter and set the entry to `status: documented`; otherwise revise the proposal with its basis.
 %%^End%%
