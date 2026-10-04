@@ -1,0 +1,4 @@
+interface:
+  display_name: "Name-only Lint Cleanup"
+  short_description: "Review and resolve Taelgar name-only lint findings"
+  default_prompt: "Use $lint-cleanup to find ten Taelgar pages with only name-related lint findings and guide me through approving their cleanup."
