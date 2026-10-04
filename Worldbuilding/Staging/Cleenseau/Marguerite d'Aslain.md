@@ -1,15 +1,1 @@
----
-tags: [person, status/check/ai]
-species: human
-gender: female
-name: Marguerite d'Aslain
-knownTo: [clee]
----
-# Marguerite d'Aslain
-
-Marguerite d'Aslain was the mother of [[Isabeau D'Aslain]]. A portrait in [[Veltor Keep]] depicts her near death, probably from consumption.
-
-%% Sources:
-- [[Baroness Tower Search (Email)]]
-- [[Cleenseau - Session 20]]
-%%
+%% Isabeau d’Aslain’s mother, depicted in Veltor Keep’s portrait %%
