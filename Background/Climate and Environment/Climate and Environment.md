@@ -55,18 +55,6 @@ For applications: current notes include these details. A general overview is in 
 - [[Agriculture and Seasonal Landscapes]]
 - [[Magical Climate Departures]]
 
-## Maintaining a consistent library
-*NOTES FOR AGENTS*
-
-These are primarily rules for AGENTS about the climate library. 
-
-Each detailed explanation has one maintained home. Before changing a regional model, check the continental account, shared systems, neighboring regions, accepted constraints, and affected maps. Revise related accounts together or record the unresolved tension explicitly. Established facts in play can require changes to the physical explanation.
-
-Keep established requirements, adopted model choices, hypotheses, predictions, and unmodeled areas distinct. Individual weather observations need not describe an average year. Group downstream evidence under the climatic pattern it supports; fuller farming, river, and navigation consequences belong in applications.
-
-Use linked Gazetteer regions to define geographic coverage. The atlas volumes are browsing groups, and their boundaries need not coincide with either Gazetteer borders or sharp changes in climate. A prediction for a new place does not become independent evidence for the model.
-
-The maintained constraints contain the accepted statements, scope, and qualifications in full. Sources support verification; ignored review directories are optional provenance. Essential model use and navigation must work without them. A future weather generator should derive from this human-readable model rather than maintain a competing set of climatic assumptions.
 
 ## Work still to do
 *PLAUSIBLY INCOMPLETE*
@@ -77,12 +65,3 @@ The maintained constraints contain the accepted statements, scope, and qualifica
 - Test the qualitative weak points recorded in [[Climate and Weather Constraints]], especially the northern Green Sea summer ridge, autumn sailing opportunities, ocean heat and water exchange, and local forest and glacier moisture balances.
 - Develop numerical weather-generator inputs after the qualitative profiles and patterns are ready; address other unmodeled regional gaps as needed.
 - Consider structure - would it be better to have a specific AGENTS.md in this folder to supplement human details in this file?
-
-
-## Archive
-
-Earlier climate material is preserved in `_Old_` for historical comparison:
-
-- [[Climate Map]] — superseded annual climate-design map.
-- [[Taelgar Climatic Model]] — original continental model.
-- Earlier regional profiles: [[Climate of the Western Coast]], [[Climate of the Northwestern Interior]], [[Climate of Greater Sembara]], [[Climate of Dunmar and the Chataans]], [[Climate of the Green Sea Shores]], and [[Climate of the Sentinels]].

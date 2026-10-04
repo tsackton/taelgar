@@ -42,3 +42,25 @@ Sembaran coinage is all silver, and gold is relatively rare.
 ### Tollen
 
 Tollen thrives on trade, the clothing industry, shipbuilding and the ability to project sea power, and the financial industry. Outside of a significant gold mine in the nearby hills and a large fishing community, Tollen has few raw materials. 
+
+
+%% Below are some early trade notes, mostly already incorporated into the Trade note %%
+
+### Trade routes
+
+In the west, you have short distances and the ability to use the current to aid in sailing against the wind around Cymea, so trade routes are not greatly affected by the season. Generally avoiding late summer thunderstorms and avoiding winter storms, but otherwise kind of normal and boats trade among Tollen/Sembara/Cymea/Skaer/islands pretty routinely, although the big island is fairly exotic (Tollen - Big Island is approx distance of Rome - Jerusalem).
+
+In the east, things are trickier. Generally travel east along the northern coast is easier in the summer, and travel west along the southern coast is easier in the summer. Additionally the northern ports are a lot nicer, with better weather, in the spring and summer; generally ships try to leave by early fall to avoid winter storms caused by cold winds blowing down from the interior as the land cools quicker than the oceans. The southern ports, in contrast, have dry, windless winters with high pressure and little rain. Not bad to spent the time in ports but hard to leave. 
+
+A typical halfling ship plying the eastern [[Green Sea]] might have the following route. 
+- In the spring, as the easterlies pick up, leave the south, trading along the coast, perhaps as far west as Cymea.
+- Cross to Ursk by mid-June, before the summer monsoons, and spend a month or two in port. Some ships might sail further north/east, others to Skaer, but generally trade along the north coast in summer.  
+- Leave the north coast by early fall, taking advantage of the winds blowing off the cooling land masses to the north, aided by the high pressure zone moving south
+- Trade along the islands and coast south, aiming to reach the big desert ports by December before the winds die. 
+
+Alternatively:
+- Trade/sail along the southern coast in the summer as the easterlies get established, sailing from eastern islands, perhaps as far as Cymea, by fall. 
+- Cross to the big island in the winter, perhaps overwintering there
+- Either head north for a short visit to Ursk or related territories in the spring, or simply head east. 
+- Return to south by the summer and trade along the coast again. 
+

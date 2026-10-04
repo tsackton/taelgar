@@ -5,7 +5,7 @@ dm_notes: none
 ---
 # Climate in Taelgar
 
-This page preserves earlier brainstorming and background notes on climate in Taelgar. The [[Climate Map|archived climate map]] was the reference for these discussions. For the current model, see [[Taelgar Climate Model]].
+This page preserves earlier brainstorming and background notes on climate in Taelgar. The [[Climate Map - Old|archived climate map]] was the reference for these discussions. For the current model, see [[Taelgar Climate Model]].
 
 This is not written in a way that would make sense to publish, and it makes heavy use of the [Köppen Climate Classification](https://www.mindat.org/climate.php).
 
