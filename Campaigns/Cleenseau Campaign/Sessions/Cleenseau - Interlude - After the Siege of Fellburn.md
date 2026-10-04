@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/check/ai]
+tags: [session-note]
 name: "Interlude: After the Siege of Fellburn"
 campaign: Cleenseau
 realWorldDate: 2024-05-24

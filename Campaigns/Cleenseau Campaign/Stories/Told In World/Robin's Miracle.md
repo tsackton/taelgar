@@ -1,5 +1,5 @@
 ---
-tags: [source, status/check/ai]
+tags: [source]
 campaign: Cleenseau
 DR: 1720-01-14
 POV: 1720

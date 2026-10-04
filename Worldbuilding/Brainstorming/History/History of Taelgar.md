@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 name: History of Taelgar
 excludePublish: [all]
 dm_owner: joint
