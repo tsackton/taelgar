@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/name]
 typeOf: waterway
 typeOfAlias: river
 name: Little Valmont
