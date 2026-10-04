@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Addermarian
 gender: female
@@ -29,7 +29,7 @@ She never settled into manorial life and disappeared in DR 1667, leaving behind 
 
 %%^Campaign:clee%%
 In DR 1720, the [[Heroes of Cleenseau]] found Sarabeth in [[Twilight's Grace]].
-%%^Campaign:End%%
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Sarabeth Asa, language: Addermarian, pronunciation: SAIR-uh-beth AY-suh, status: documented}

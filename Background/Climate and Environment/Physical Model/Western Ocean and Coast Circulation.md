@@ -13,6 +13,8 @@ The western shores face the [[Endless Ocean]] and, farther north, the [[Slate Se
 
 ## The circulation framework
 
+The broad driver of the climate and weather of the western coasts of Taelgar is the interplay among the subtropical high, which expands northward in summer and retreats southward in winter; passing ocean lows and fronts, which bring rain and snow; and mountains, which enhance precipitation on exposed slopes and limit how much moisture reaches the interior. These are developed in more detail in the sections below.
+
 ### The ridge and the moving storm belt
 
 The western ocean high is a broad area of high pressure, with an elongated northern extension called a **ridge**. Sinking air beneath it suppresses widespread rain. Farther north, temperate westerlies carry moving **lows** and their fronts generally eastward or northeastward. A front is the boundary between different air masses; lifting along it can produce a broad band of rain or snow well away from the low's center. Winds higher in the atmosphere steer these systems along paths that can curve as they cross the region.

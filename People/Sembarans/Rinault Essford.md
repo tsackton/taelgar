@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 born: 1688
@@ -33,7 +33,7 @@ He was briefly the acting lord of Cleenseau while Rosalind was traveling to Embr
 
 %%^Campaign:none%%
 The reasons for his lack of a wife and children are not clearly established, but have repeatedly been suggested to be something a bit magical or odd. He may have a curse or other magical affliction related to fatherhood.
-%%^Campaign:none%%
+%%^End%%
 
 %%^Campaign:clee%%
 ### Rinault's Childhood Stories
