@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/stub]
-name: Aldamírë
+tags: [place, status/check/name, status/check/tim]
 typeOf: lake
+name: Aldamírë
+pronunciation: ahl-dah-MEER-eh
 whereabouts: Upper Istaros
 dm_owner: none
 dm_notes: none
-pronunciation: ahl-dah-MEER-eh
 ---
 # Aldamírë
 *(ahl-dah-MEER-eh)*
@@ -14,11 +14,10 @@ pronunciation: ahl-dah-MEER-eh
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% big lake next to Orenlas %%
+%% @check/tim : Anything to add or change? %%
 
-%% name - the mirror of Aldanor
-alternatives, not used:
-Ainoriel (eye-NOR-ee-el)
-Orolírë (or-oh-LEER-eh) (sounds like it could share a root with Orenlas) Elarúnë (eh-lah-ROO-neh)
+Aldamírë is a large lake in the [[Upper Istaros]], northwest of the elven forest of [[Orenlas]].
 
-%%
+%%^Metadata:names:v1%%
+- {name: Aldamírë, role: primary, language: Elvish, pronunciation: ahl-dah-MEER-eh, meaning: the mirror of Aldanor, status: documented}
+%%^End%%
