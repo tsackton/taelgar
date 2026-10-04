@@ -1,5 +1,5 @@
 ---
-tags: [source, status/check/ai]
+tags: [source]
 POV: 1720
 ---
 # Celyn and Perception

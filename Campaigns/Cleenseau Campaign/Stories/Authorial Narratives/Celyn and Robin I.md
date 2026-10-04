@@ -1,5 +1,5 @@
 ---
-tags: [story, status/check/ai]
+tags: [story]
 campaign: Cleenseau
 POV: 1720
 ---
