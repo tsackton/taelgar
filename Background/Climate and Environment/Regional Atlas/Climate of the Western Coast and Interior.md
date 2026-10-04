@@ -6,10 +6,6 @@ excludePublish: [all]
 
 The west contains several climates connected by ocean access. Around Chardon, northern Apporia, and the southern river basins, mild rainy winters give way to a dependable summer dry season. The low foothills of Crimson and Elderwood share this seasonal rainfall pattern, but elven magic sustains their lush forest through summer drying. Northward along the exposed coast, summers become cooler and dry intervals shorter and more frequently interrupted. Mawakel remains exposed to maritime weather throughout the year. Inland, increasing Fiatara shelter favors more open woodland around Highveil, productive Voltara grassland, and the drier Erbalta Plains, with colder continental forests farther north.
 
-%%
-This is a regional interpretation of [[Taelgar Climate Model]], using the mechanisms in [[Western Ocean and Coast Circulation]]. Established climatic outcomes and observed weather retain the qualifications in [[Climate and Weather Constraints]]. Tim's adopted Crimson/Elderwood summer-moisture departure is distinguished from still-possible magical explanations elsewhere. Local seasonal detail and practical implications establish no numerical normals, fixed weather dates, or new settlements and land uses.
-%%
-
 ## Regional coverage
 
 - **Western seaboard:** [[Apporia]], [[Emerald Bay]], [[Gulf of Chardon]], [[Chardon]], the [[Coastlands]], [[Mawakel Peninsula]], coastal [[Mawar Confederacy]], and the [[Slate Sea]] coast.
@@ -120,15 +116,15 @@ Voltara's farming and sheep grazing require usable warmth and moisture, but they
 
 These examples translate the physical model into conditions for a place or journey. They can occur within a season without defining every day of it; detailed mechanisms and maps remain in [[Western Ocean and Coast Circulation#Recurring weather episodes]].
 
-| Situation | Useful local sequence | Contrast that can coexist |
-| --- | --- | --- |
-| Chardon summer fog | A cool cloudy or foggy morning becomes a brighter afternoon, followed by another cool night. | Hotter sunny conditions farther up the Chasa, with little widespread rain in either district. |
-| Enchanted forest summer | Mist and dripping foliage renew moisture in Crimson and Elderwood through otherwise dry weather. | Nearby valley fields and grassland remain dry; forest streams can carry water out without bringing a rainy season to the valleys. |
-| Southern winter rain | Thickening cloud and rain give way to broken showers and a clearer interval. | A sheltered gulf crossing can remain less exposed than an open Apporian headland. |
-| Northern forest wet spell | Sunny drying weather is interrupted by maritime rain, with heavier precipitation on rising forest slopes. | Chardon can stay comparatively dry while Valandros and the northern forests turn wet. |
-| Mawakel snow and thaw | A cold outbreak brings snow showers; milder western weather turns precipitation to rain and clears some lowland snow. | Snow remains in the hills, and a sheltered route can still have frost or ice. |
-| Plains rain passage | Showers revive grass and wet the Voltara approaches, then drying returns. | Sheltered parts of Erbalta receive less rain, while the highest Fiatara receive snow. |
-| Autumn lake contrast | A cold clear night brings inland frost, followed by a milder shoreward breeze or downwind showers. | The lake delays local cooling without keeping the entire northern region mild. |
+| Situation                 | Useful local sequence                                                                                                 | Contrast that can coexist                                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Chardon summer fog        | A cool cloudy or foggy morning becomes a brighter afternoon, followed by another cool night.                          | Hotter sunny conditions farther up the Chasa, with little widespread rain in either district.                                     |
+| Enchanted forest summer   | Mist and dripping foliage renew moisture in the Crimson Forest and the Elderwood through otherwise dry weather.       | Nearby valley fields and grassland remain dry; forest streams can carry water out without bringing a rainy season to the valleys. |
+| Southern winter rain      | Thickening cloud and rain give way to broken showers and a clearer interval.                                          | A sheltered gulf crossing can remain less exposed than an open Apporian headland.                                                 |
+| Northern forest wet spell | Sunny drying weather is interrupted by maritime rain, with heavier precipitation on rising forest slopes.             | Chardon can stay comparatively dry while Valandros and the northern forests turn wet.                                             |
+| Mawakel snow and thaw     | A cold outbreak brings snow showers; milder western weather turns precipitation to rain and clears some lowland snow. | Snow remains in the hills, and a sheltered route can still have frost or ice.                                                     |
+| Plains rain passage       | Showers revive grass and wet the Voltara approaches, then drying returns.                                             | Sheltered parts of Erbalta receive less rain, while the highest Fiatara receive snow.                                             |
+| Autumn lake contrast      | A cold clear night brings inland frost, followed by a milder shoreward breeze or downwind showers.                    | The lake delays local cooling without keeping the entire northern region mild.                                                    |
 
 ## Evidence limits and adjoining regions
 

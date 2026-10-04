@@ -6,10 +6,6 @@ excludePublish: [all]
 
 The Nevos-facing coast, wooded Darba valleys, inland grazing country and Garamjala desert share a strong seasonal contrast, but receive very different amounts of water. Summer maritime inflow waters exposed western slopes and loses moisture as it crosses the uplands. Farther south, warm seasonal floodplains approach tropical forest; northward across the Chataans, Alta Tonaro has winter rain and a predominantly dry summer.
 
-%% 
-This is a working regional reference under [[Taelgar Climate Model]]. It develops the landscape and seasonal consequences of [[Dunmar and Nevos Circulation]] and [[Southern Tropical and Desert Circulation]]. The retained requirements are K01–K04, K17 and K18 in [[Climate and Weather Constraints]], with K30 relevant to the southern coastal boundary. Detailed weather patterns and moisture mechanisms remain qualitative interpretations, not additional canon or measured climate normals.
-%%
-
 ## Regional coverage
 
 - **Nevos shores and islands:** the [[Nevos Sea]], [[Illoria]], [[Darba]], coastal [[Western Dunmar]], and the maritime approaches toward [[Emerald Bay]].

@@ -1,15 +1,15 @@
-**## Green Sea Worldbuilding Notes
+## Green Sea Worldbuilding Notes
   
 
 Aim is to develop Sembara/Tollen perspectives on the Green Sea, and flesh out the flow of goods, traders, and information around the Green Sea network. 
 
   
 
-Broken into four major regions: Western Gulf; Western Green Sea; Gulf of <MTP>; Eastern Green Sea
+Broken into four major regions: Western Gulf; Western Green Sea; Gulf of MTP; Eastern Green Sea
 
   
 
-Western Gulf is pretty developed already; Western Green Sea and Gulf of <MTP> are less developed, but would be broadly speaking known in some vague sense to Tollenders, Sembarans, etc. Eastern Green Sea has bits and pieces from one-shot developed, but would largely be unknown to Tollenders, with only some garbled rumors of mysterious lands with exotic goods out East. The trade routes are almost entirely mediated through <MTP>, itself a foreign culture, or halflings, whose exotic tales are not always to be believed. The conceptually model here is that <MTP> is “India” to the Western Gulf’s “Europe”, and the lands out east are the Spice Islands/China before Marco Polo. Any facts made up about these places in the context of Tollen/Sembara can largely be considered rumor and are as likely to be false as true.
+Western Gulf is pretty developed already; Western Green Sea and Gulf of MTP are less developed, but would be broadly speaking known in some vague sense to Tollenders, Sembarans, etc. Eastern Green Sea has bits and pieces from one-shot developed, but would largely be unknown to Tollenders, with only some garbled rumors of mysterious lands with exotic goods out East. The trade routes are almost entirely mediated through MTP, itself a foreign culture, or halflings, whose exotic tales are not always to be believed. The conceptually model here is that MTP is “India” to the Western Gulf’s “Europe”, and the lands out east are the Spice Islands/China before Marco Polo. Any facts made up about these places in the context of Tollen/Sembara can largely be considered rumor and are as likely to be false as true.
 
   
 
@@ -17,7 +17,7 @@ This means that from a worldbuilding perspective, especially for the purposes of
 
   
 
-A note on names: The Green Sea is, I assume, the Drankorian name for the entire large sea, between the <MagicIslands> and the Western Gulf. However, the Green Sea can plausibly have many other names, and various regions should have local names for that particular region of sea. Specifically, the western Green Sea, a few gulfs, and the eastern Green Sea should probably have specific names, although for initial worldbuilding these can be abbreviated/undeveloped. 
+A note on names: The Green Sea is, I assume, the Drankorian name for the entire large sea, between the MagicIslands and the Western Gulf. However, the Green Sea can plausibly have many other names, and various regions should have local names for that particular region of sea. Specifically, the western Green Sea, a few gulfs, and the eastern Green Sea should probably have specific names, although for initial worldbuilding these can be abbreviated/undeveloped. 
 
   
 
@@ -39,7 +39,7 @@ But they aren't people you sign a contract with to deliver 500 wineglasses each 
 
 However, there is always some halfling family interested in a long journey, so they are also the ones who bring distant goods across long distances in the Green Sea. 
 
-### Western Gulf
+## Western Gulf
 
   
 
@@ -72,7 +72,7 @@ The Western Gulf is dominated by Tollender ships plying back and forth save for 
 
 Both Tollen and Sembara have substantial gold (Tollen and Sembara) and silver (Sembara) resources, so there is also a fair amount of trade in bullion - Sembaran silver flowing into Tollen in exchange for fine goods, and Tollen gold flowing into Sembara in exchange for grain. The balance of payments is actually probably about equal.
 
-### Western Green Sea
+## Western Green Sea
 
   
 
@@ -91,11 +91,11 @@ Climate/Winds:
 
   
 
-Major regions/civilizations: Cymea, Vostok, Skaerhem (aka Skaegenland, which is the Sembaran name for the homeland of the Skaer/Skaegish), Ursk, northern part of South Cymea, <Lorighos> (big island off coast of South Cymea). 
+Major regions/civilizations: Cymea, Vostok, Skaerhem (aka Skaegenland, which is the Sembaran name for the homeland of the Skaer/Skaegish), Ursk, northern part of South Cymea, Lorighos (big island off coast of South Cymea). 
 
   
 
-Notes: Irrla is probably more generally part of the <Gulf of MTP> ecosystem than the Western Green Sea and will be discussed there. South Cymea, which is poorly defined, spans both regions; the northern part (up to and including <Lorighos> is considered part of the Western Green Sea while the southern part is considered part of <Gulf of MTP>. 
+Notes: Irrla is probably more generally part of the Gulf of MTP ecosystem than the Western Green Sea and will be discussed there. South Cymea, which is poorly defined, spans both regions; the northern part (up to and including Lorighos is considered part of the Western Green Sea while the southern part is considered part of Gulf of MTP. 
 
   
 
@@ -103,7 +103,7 @@ Major maritime powers: Tollen, Skaer
 
   
 
-Major oceanic features: the Cymean islands (<Lorighos> plus four other major ones); the straits between <Lorighos> and the other islands; the sea/region between <Lorighos> and Irrla
+Major oceanic features: the Cymean islands (Lorighos plus four other major ones); the straits between Lorighos and the other islands; the sea/region between Lorighos and Irrla
 
   
 
@@ -117,11 +117,11 @@ Into the void of the fall of Cymean influence in the past ~150 years comes Tolle
 
 On the north coast, Tollender merchant fleets go as far east as Ursk, to buy dragonhide and rare materials used to make the famous Tollen red and green dyes. These fleets usually sail in convoy from Tollen on some schedule that makes sense with the winds, perhaps even overwintering in Ursk or otherwise spending a long time there. Might even typically only sail every other year. 
 
-The Tollender fleets do not really go east of Cymea in the south. Here, you find some influence of the <MTP> mariner culture, one of the two remnants of the old Hkaran mariners in the Western Green Sea (the other being the Skaer). The <MTP> are more sailors than merchants, and,  perhaps something about the passage between Irrla and the Cymean islands is tricky and only halflings know the way, or something else. 
+The Tollender fleets do not really go east of Cymea in the south. Here, you find some influence of the MTP mariner culture, one of the two remnants of the old Hkaran mariners in the Western Green Sea (the other being the Skaer). The MTP are more sailors than merchants, and,  perhaps something about the passage between Irrla and the Cymean islands is tricky and only halflings know the way, or something else. 
 
 In the north, the Skaer are a deeply oceanic culture, but also a very insular culture, with a distinctive language and religion not shared with anyone else in the Western Green Sea. They do not send large trade fleets in any direction, but do exert strong control over their territory and the northern coasts of Vostok. (Need to think about this a bit – what exactly is the role of the Skaer in the modern Green Sea). 
 
-### <Gulf of MTP>
+## Gulf of MTP
 
 (The Gulf of Arazeja proposed Cymean name. Other options Trafarjo, Ribeirão. Intention is Portugese to align with Cymean flavor. 
 
@@ -155,7 +155,7 @@ Notes: Irrla has at least two major powers (hobgoblin pirates, [[Republic of Svo
 
 Major maritime powers: MTP coastal, although [[Republic of Svolhas]] is an emerging maritime power.
 
-The Gulf of Arazeja is dominated by the coastal <MTP>, who criss-cross the Gulf (and are likely the dominant maritime power in the region) and who sail along the southern coast as far east as the <MagicIsles>, but who rarely sail north, and who are more of a sailing culture than a merchantile one, and therefore perhaps often crew the ships of Medju and other southern powers. 
+The Gulf of Arazeja is dominated by the coastal MTP, who criss-cross the Gulf (and are likely the dominant maritime power in the region) and who sail along the southern coast as far east as the MagicIsles, but who rarely sail north, and who are more of a sailing culture than a merchantile one, and therefore perhaps often crew the ships of Medju and other southern powers. 
 
 [[Republic of Svolhas]] has a rapidly expanding navy, in response to the hobgoblin threat on its northern borders, but is not a traditional maritime power. 
 
@@ -171,15 +171,15 @@ Other notes:
 
   
 
-### Eastern Green Sea
+## Eastern Green Sea
 
   
 
 Climate/Winds:
 
-- Dominated by shifting winds, with high pressure sitting in the middle of the ocean during the summer (trade winds blowing west to the south, westerlies blowing east to the north), and sitting over Medju/southern deserts in the winter, with winds generally from the west across the whole region. Some additional influence of the monsoon driven by vast interior north heating faster in the summer and cooling faster in the winter, which might reverse the westerlies in the northern summer, so basically winds generally go west -> east in the winter and east -> west in the summer.
+- Dominated by shifting winds, with high pressure sitting in the middle of the ocean during the summer (trade winds blowing west to the south, westerlies blowing east to the north), and sitting over Medju/southern deserts in the winter, with winds generally from the west across the whole region. Some additional influence of the monsoon driven by vast interior north heating faster in the summer and cooling faster in the winter, which might reverse the westerlies in the northern summer, so basically winds generally go west - east in the winter and east - west in the summer.
     
-- The closer you get to the <MagicIsles>, the stranger the winds and the currents are, and the climate is extremely varied across the islands for unclear magical reasons.
+- The closer you get to the MagicIsles, the stranger the winds and the currents are, and the climate is extremely varied across the islands for unclear magical reasons.
     
 - Medju to the far south is a coastal desert, with dry hot winters and dry hot summers, broken only by the occasional summer thunderstorm. Heading east, on the other side of the ~Medju Mountains~, you have a much wetter, tropical/subtropical coastal area
     
@@ -211,7 +211,7 @@ Of course some of those ?? from Irrla and the magic islands also makes it west, 
   
   
 
-### South Cymea and Region, Some Ideas
+## South Cymea and Region, Some Ideas
 
   
 
@@ -251,7 +251,7 @@ In the days before Drankor’s fall, the region could be divided as follows:
 - 2 poorer provinces - an island province amongst the Cymean islands (IP), centered on the big island, and a more northern province between CMM and the Straights of Cymea (NP).
     
 
-- These provinces maintained a maritime tradition, and great Drankorian ships would sail from their ports with Drankorian mages seeking the odd magical riches of <MagicIsles> and other places in the eastern Green Sea, but there was little proper trade and few merchant houses or anything like that
+- These provinces maintained a maritime tradition, and great Drankorian ships would sail from their ports with Drankorian mages seeking the odd magical riches of MagicIsles and other places in the eastern Green Sea, but there was little proper trade and few merchant houses or anything like that
     
 - These places were culturally assimilated to Drankor, and worshipped Mos Numena, but also these are old easterners who became Drankorian, and so there are distinct cultural differences from the folks further south
     
@@ -261,7 +261,7 @@ In the days before Drankor’s fall, the region could be divided as follows:
 
   
 
-Then comes the fall. Many survivors from Drankor end up in WP3 and WP1. For <mumble mumble> reasons WP2 suffers badly, and by the time the Dunmari come through it is abandoned and the people in WP3 and WP1 won’t go there or try to resettle. 
+Then comes the fall. Many survivors from Drankor end up in WP3 and WP1. For mumble mumble reasons WP2 suffers badly, and by the time the Dunmari come through it is abandoned and the people in WP3 and WP1 won’t go there or try to resettle. 
 
   
 
@@ -294,22 +294,22 @@ And so, on the eve of the Great War, you have:
 
 - Isingue, a major urban center and leader of a large and prosperous hinterland built on the cotton trade, and the inheritor to a long Drankorian tradition
     
-- <South South Cymea>, clustered along the shores of the inlet near MTPM, and some hinterlands along the mountains and coast north, an increasingly vibrant city that has seen a large influx of MTPers with an increasingly eastern focus
+- South South Cymea, clustered along the shores of the inlet near MTPM, and some hinterlands along the mountains and coast north, an increasingly vibrant city that has seen a large influx of MTPers with an increasingly eastern focus
     
-- <North South Cymea>, spreading from the bay near the Cymean islands south and west, with at least 2 large cities at this point, wealthy but disorganized, still calling parts of itself the Drankorian Empire in some fashion but not unified and with minor internal conflicts between cities not unheard of. Minimal maritime tradition but wealthy cotton barons own large trading fleets crewed by north Cymeans.
+- North South Cymea, spreading from the bay near the Cymean islands south and west, with at least 2 large cities at this point, wealthy but disorganized, still calling parts of itself the Drankorian Empire in some fashion but not unified and with minor internal conflicts between cities not unheard of. Minimal maritime tradition but wealthy cotton barons own large trading fleets crewed by north Cymeans.
     
 - Cymea itself, broadly divided into two areas: the river valleys north of CMM, now proto-industrial and growing wealthy on fabric weaving and perhaps some other things (metals, trade with elves, etc). The island half of Cymea might have a different name and is the even more sailor based part. Somewhat unified political culture although (a) no unification between the two provinces and (b) no kings or governors or single rulers over the whole territory
     
-- A self-assured and growing <MTP> culture along the shorelines of MTP with strong cultural ties back east and a growing trade network to Sembara
+- A self-assured and growing MTP culture along the shorelines of MTP with strong cultural ties back east and a growing trade network to Sembara
     
-- The East Dunmari to the south of <South South Cymea>, largely ignored
+- The East Dunmari to the south of South South Cymea, largely ignored
     
-- <LC> the city by Orenlas, thriving in its mysterious magical way
+- LC the city by Orenlas, thriving in its mysterious magical way
     
 
   
 
-Then the Great War comes and swallows Isingue whole, and with it the entire cotton economy of the region. Some small scale cotton production survives nearer the coast, but a lot of the technology for efficiently processing cotton is lost (without something like a cotton gin, large scale production of cotton is very labor intensive) and on top of that, <mumble mumble> kills a lot of the people in the hinterlands of the entire region, as the lands that are not well defended or near the coast fall to <mumble>. Perhaps most of the various South Cymean legions were in Isginue when it fell. Etc. 
+Then the Great War comes and swallows Isingue whole, and with it the entire cotton economy of the region. Some small scale cotton production survives nearer the coast, but a lot of the technology for efficiently processing cotton is lost (without something like a cotton gin, large scale production of cotton is very labor intensive) and on top of that, mumble mumble kills a lot of the people in the hinterlands of the entire region, as the lands that are not well defended or near the coast fall to mumble. Perhaps most of the various South Cymean legions were in Isginue when it fell. Etc. 
 
   
 
@@ -321,9 +321,9 @@ So when the dust of the Blood Years clears, you have, from north to south:
     
 - The Cymean islands suffered less economic shocks but a more direct military one as they lost some naval battles to Tollen. Tollen increasingly (like in the western parts of the peninsula itself, which were always a backwater) has established, if not suzerainty, at least a strong presence and perhaps a naval garrison or two. Not sure about the details… but the idea is that the islands have a bit less of the decline and woe vibe as Cymea itself
     
-- <North South Cymea> is a wreck, part depopulated and abandoned cities, part small groups clinging to the leftovers, part weird haunted stuff, part well defended country villas that still grow cotton and have become like little cities themselves under absolute monarchs. There is really no overall political organization. The city on the bay survives as a small hub for the cotton industry that does still exist, but it is a bit of a backwater and the Tollender guilds have rebuilt the grandest Drankorian palaces and now occupy them
+- North South Cymea is a wreck, part depopulated and abandoned cities, part small groups clinging to the leftovers, part weird haunted stuff, part well defended country villas that still grow cotton and have become like little cities themselves under absolute monarchs. There is really no overall political organization. The city on the bay survives as a small hub for the cotton industry that does still exist, but it is a bit of a backwater and the Tollender guilds have rebuilt the grandest Drankorian palaces and now occupy them
     
-- <South South Cymea> has become the center of MTP culture and is now the capital of the <MTP> shoreline polity that has longstanding historic trade connections and is also increasing pushing its way into the Tollender spheres of influence in the Gulf.
+- South South Cymea has become the center of MTP culture and is now the capital of the MTP shoreline polity that has longstanding historic trade connections and is also increasing pushing its way into the Tollender spheres of influence in the Gulf.
     
 
 - Not sure about this by the way, just looking at the map a bit I wonder if the big MTP city should have grown up at the point of the peninsula. 
@@ -337,7 +337,7 @@ So when the dust of the Blood Years clears, you have, from north to south:
     
 - The East Dunmari are a non-entity and most of  the people in Cymea or more properly don’t even know they exist. They probably do trade somewhat with the MTP people
     
-- The <LC> city by Orenlas is lost. People seem to have forgotten about it or whatever. 
+- The LC city by Orenlas is lost. People seem to have forgotten about it or whatever. 
     
 
   
@@ -369,21 +369,21 @@ I increasingly like th “Everglades of the MTP” (which also displaces the Dun
 
 Some old notes from the Worldbuilding doc:
 
-The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the <VostokMountains>. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Endless Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
+The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the VostokMountains. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Endless Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
 
   
 
-Population centers in the Western Green Sea include: Greater Sembara, the Cymean peninsula, Greater Vostok (including the Skaer islands), and the center river valley, including <Irebor> and <SouthCymea>.
+Population centers in the Western Green Sea include: Greater Sembara, the Cymean peninsula, Greater Vostok (including the Skaer islands), and the center river valley, including Irebor and SouthCymea.
 
   
 
-Population centers in the Eastern Gree Sea include: <NorthCoast>, <Big Island>, <EasternDunmari>, <FarNorthPeninsula>, <EntranceIslands>, and <EastCoast>.
+Population centers in the Eastern Gree Sea include: NorthCoast, Big Island, EasternDunmari, FarNorthPeninsula, EntranceIslands, and EastCoast.
 
-The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by <BigIsland>.
+The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by BigIsland.
 
   
 
-In the winter, a zone of high pressure tends to sit over the southernmost parts of the Green Sea (from about 30 N - 35 N), causing light and variable trade winds south of the <BigIsland>, and a dry climate with little precipitation, while strong westerlies blow north of about 35 N. 
+In the winter, a zone of high pressure tends to sit over the southernmost parts of the Green Sea (from about 30 N - 35 N), causing light and variable trade winds south of the BigIsland, and a dry climate with little precipitation, while strong westerlies blow north of about 35 N. 
 
   
 
@@ -399,11 +399,11 @@ In the west, the climate is dominated by the summer monsoons, which brings moist
 
   
 
-The <BigIsland> has a climate not dissimilar to Japan, with the summer monsoon bringing rain to the southeastern side of the island and the winter westerlies bringing snow to the northwestern side of the island. 
+The BigIsland has a climate not dissimilar to Japan, with the summer monsoon bringing rain to the southeastern side of the island and the winter westerlies bringing snow to the northwestern side of the island. 
 
   
 
-The South Coast, from <SouthCymea> all the way east, tends to be dry, with a climate reminiscent of North Africa “between the mountains,” with almost no rain; only <SouthCymea> itself trends towards a humid subtropical climate (perhaps Pampas-like). The exception is the far east, east of the mountains, which is much more influenced by the Endless Ocean than the Green Sea, and has a much wetter and warmer climate influenced by the warm currents and prevailing trade wind of the Endless Ocean. 
+The South Coast, from SouthCymea all the way east, tends to be dry, with a climate reminiscent of North Africa “between the mountains,” with almost no rain; only SouthCymea itself trends towards a humid subtropical climate (perhaps Pampas-like). The exception is the far east, east of the mountains, which is much more influenced by the Endless Ocean than the Green Sea, and has a much wetter and warmer climate influenced by the warm currents and prevailing trade wind of the Endless Ocean. 
 
   
 
