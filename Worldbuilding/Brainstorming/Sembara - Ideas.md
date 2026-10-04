@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 ---
 # Sembara - Ideas
 
