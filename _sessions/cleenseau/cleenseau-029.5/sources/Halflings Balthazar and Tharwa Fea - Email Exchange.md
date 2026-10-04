@@ -1,5 +1,4 @@
 ---
-tags: [meta, status/check/ai]
 campaign: Cleenseau
 ---
 # Halflings Balthazar and Tharwa Fea - Email Exchange

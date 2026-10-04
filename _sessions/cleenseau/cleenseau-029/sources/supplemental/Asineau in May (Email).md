@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Asineau in May (Email)
 
 May 1720 update on Asineau; the second mailbox message is a forwarded copy of the first, so the original is preserved once.

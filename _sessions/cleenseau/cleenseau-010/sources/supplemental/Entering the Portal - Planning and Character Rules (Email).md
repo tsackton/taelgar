@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Entering the Portal - Planning and Character Rules (Email)
 
 Local archive of all 36 message bodies in this correspondence, including quoted reply history. This thread is planning and character-rules discussion; proposed actions are not evidence that they occurred in play.

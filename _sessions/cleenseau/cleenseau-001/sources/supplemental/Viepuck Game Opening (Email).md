@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Viepuck Game Opening (Email)
 
 Local archive of all 7 message bodies in this correspondence, including quoted reply history. Pre-session setup and player responses; proposed choices are not all confirmed as played.

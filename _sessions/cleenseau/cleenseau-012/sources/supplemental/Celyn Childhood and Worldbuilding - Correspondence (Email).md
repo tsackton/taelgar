@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Celyn Childhood and Worldbuilding - Correspondence (Email)
 
 Local archive of all 6 message bodies in this correspondence, including quoted reply history. Player-authored background story and DM feedback, including suggestions not necessarily adopted.

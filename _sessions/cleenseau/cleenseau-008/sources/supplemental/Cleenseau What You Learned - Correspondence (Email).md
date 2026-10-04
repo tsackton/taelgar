@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Cleenseau What You Learned - Correspondence (Email)
 
 Local archive of all 6 message bodies in this correspondence, including quoted reply history. DM-supplied background and the players' questions following it. The map attachment from the original email is preserved as [[Cleenseau What You Learned - map.png]].

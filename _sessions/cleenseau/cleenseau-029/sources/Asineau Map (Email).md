@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Asineau Map (Email)
 
 Local archive of all 2 message bodies in this correspondence, including quoted reply history.

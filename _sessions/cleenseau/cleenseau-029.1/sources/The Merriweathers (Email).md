@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # The Merriweathers (Email)
 
 Complete local archive of the The Merriweathers correspondence (1 message). Message bodies preserve quoted reply history.

@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Uses of Sending (Email)
 
 Complete local archive of the Uses of Sending correspondence (7 messages). Message bodies preserve quoted reply history.

@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Notes on Game January 2024 (Email)
 
 Local archive of all 8 message bodies in this correspondence, including quoted reply history.

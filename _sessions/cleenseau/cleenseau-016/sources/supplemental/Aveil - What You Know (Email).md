@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Aveil - What You Know (Email)
 
 Complete local archive of the Aveil - What You Know correspondence (8 messages). Message bodies preserve quoted reply history.

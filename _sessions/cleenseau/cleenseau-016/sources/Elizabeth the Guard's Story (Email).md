@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Elizabeth the Guard's Story (Email)
 
 Complete local archive of the Elizabeth the Guard's Story correspondence (5 messages). Message bodies preserve quoted reply history.

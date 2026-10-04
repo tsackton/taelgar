@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Taelgar What You Know - Correspondence (Email)
 
 Local archive of all 11 message bodies in this correspondence, including quoted reply history. DM-supplied information and player discussion.

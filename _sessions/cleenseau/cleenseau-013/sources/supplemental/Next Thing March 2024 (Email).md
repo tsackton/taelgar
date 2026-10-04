@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Next Thing March 2024 (Email)
 
 Local archive of all 14 message bodies in this correspondence, including quoted reply history.

@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Treasure Updates (Email)
 
 Local archive of all 5 message bodies in this correspondence, including quoted reply history.

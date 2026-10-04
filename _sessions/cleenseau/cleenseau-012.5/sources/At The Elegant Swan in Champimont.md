@@ -1,6 +1,3 @@
----
-tags: [meta]
----
 
 We flash back to yesterday evening, before departing Champimont, in  
 the back room of the Elegant Swan. The party has quieted down some,  

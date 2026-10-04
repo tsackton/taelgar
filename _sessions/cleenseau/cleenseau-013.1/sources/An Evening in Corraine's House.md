@@ -1,6 +1,3 @@
----
-tags: [meta]
----
 
 An hour after sunset, the meal, cooked by unseen hands eaten, and plans for the next day discussed, quiet settles over the table.  
   

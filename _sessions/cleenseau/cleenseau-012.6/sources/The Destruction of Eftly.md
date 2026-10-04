@@ -1,7 +1,3 @@
----
-tags: [source, status/check/ai]
-POV: 1720
----
 
 # In the destruction of Eftly
 _A background story, January 16th, 1720_

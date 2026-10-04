@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Asineau as Bastion (Email)
 
 Local archive of all 15 message bodies in this correspondence, including quoted reply history.

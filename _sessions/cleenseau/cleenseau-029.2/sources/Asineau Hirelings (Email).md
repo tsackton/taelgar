@@ -1,7 +1,3 @@
----
-tags: [meta, status/check/ai]
-POV: 1720
----
 # Asineau Hirelings (Email)
 
 Complete local archive of the Asineau hirelings correspondence (five messages). Message bodies preserve quoted reply history.
