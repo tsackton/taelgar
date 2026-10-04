@@ -15,7 +15,7 @@ session-template: cleenseau-template.md
 ---
 # Cleenseau - Session 25
 
-[[Raoul Montagu]] tells the party that King [[Robert I]] was replaced by the lich [[Malach]], whose magic is responsible for the undead uprisings. The party agrees to recover one part of Malach's divided phylactery from a ruined magical complex and succeeds despite its traps and psychic effects.
+[[Raoul Boulain]] tells the party that King [[Robert I]] was replaced by the lich [[Malach]], whose magic is responsible for the undead uprisings. The party agrees to recover one part of Malach's divided phylactery from a ruined magical complex and succeeds despite its traps and psychic effects.
 
 ## Timeline
 
