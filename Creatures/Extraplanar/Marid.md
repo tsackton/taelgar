@@ -60,7 +60,7 @@ Core creature and cosmology:
 - [[Creatures of Taelgar]]
 - [[Creature Rules in Taelgar]]
 - [[Metaphysics of Creatures]]
-- [[Lore of the Birth of the Gods]]
+- [[GDrive - History of Taelgar - Final Text and Comments]]
 - [[Energy Realms]]
 - [[On Elemental Forms]]
 
