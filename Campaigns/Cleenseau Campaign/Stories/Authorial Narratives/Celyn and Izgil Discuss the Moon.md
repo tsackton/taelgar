@@ -1,7 +1,7 @@
 ---
-tags: [story, status/check/ai]
+tags: [story]
 campaign: Cleenseau
-POV: undated
+POV: 1719
 ---
 
 # A Conversation about the Moon

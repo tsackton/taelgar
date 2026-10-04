@@ -1,5 +1,5 @@
 ---
-tags: [story, status/check/ai]
+tags: [story]
 campaign: Cleenseau
 excludePublish: ["all"]
 POV: 1710s
