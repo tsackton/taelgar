@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-09-28T20:03:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [event, status/check/mike, status/check/lint]
+tags: [event, status/check/lint]
 typeOf: cataclysm
 name: Riving
 aliases: [The Riving, Long Pause]
