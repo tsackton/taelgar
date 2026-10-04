@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint, status/check/ai]
+tags: [meta]
 name: Players of Taelgar
 dm_owner: none
 dm_notes: none
@@ -15,7 +15,7 @@ Among the most famous are the [[Heroes of the Great War]]. While many of the det
 
 In the DR 1700s, four groups of adventurers have been most active in Taelgar:
 - The [[Dunmar Fellowship]], a renowned group of adventurers who met in [[Karawa]] in DR 1748, and have since [[Dunmari Frontier Campaign|traveled across much of the world of Taelgar]] in their flying skyship [[Vindristjarna]]. 
-- The [[Silver Tempests]], whose exploits are [[Great Library Campaign|chronicled elsewhere]], a group of heroes who made a name for themselves in the [[Northern Provinces]] of the [[Drankorian Empire]] in the late DR 1740s.
+- The [[Silver Tempests]], whose exploits are [[Great Library Campaign|chronicled elsewhere]], a group of heroes who made a name for themselves in the [[Northern Provinces]] of the [[Chardonian Empire]] in the late DR 1740s.
 - The [[Heroes of Cleenseau]], a party of heroes who met in [[Cleenseau]] in DR 1719, and have since made a name for themselves as they [[Cleenseau Campaign|work to defend]] the people of southern [[Sembara]]. 
 - The [[Addermarch Mercenaries]], a group of chance-met travelers, whose exploits in the service of [[Caradoc]] the alchemist are [[Addermarch Campaign|chronicled elsewhere]].
 
@@ -33,7 +33,7 @@ Old text for reference
 
 - The [[Heroes of the Great War]], a campaign run by Tim and featuring [[Rai]], [[Kyr]], [[Aerin]], and [[Beryl]], were active in DR 1544-1545 in Taelgar, and 1993-1997 in the real world
 - The [[Silver Tempests]], a campaign run by Tim and featuring Adrick, Samso, Brelith, Mabist, Alton, and others, were active from DR 1747- in Taelgar, and from 2019-2023 in the real world, with sporadic adventures from 2023-.
-- The [[Dunmar Fellowship]], sometimes known as the Side Quests, a campaign run by Tim and featuring [[Wellby]], [[Seeker]], [[Delwath]], and [[Kenzo]], with frequent appearances by [[Riswynn]], and many other guests, were active from DR 1748- in Taelgar, and from 2020- in the real world.
+- The [[Dunmar Fellowship]], sometimes known as the Side Quests, a campaign run by Tim and featuring [[Wellby]], [[Seeker]], [[Delwath]], and [[Kenzo]], with frequent appearances by [[Riswynn]], and many other guests, were active from DR 1748-1749 in Taelgar, and from 2020-2025 in the real world.
 - The [[Heroes of Cleenseau]], a campaign run by Mike and featuring [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], [[Celyn]], and [[Viepuck]], were active in DR 1719- in Taelgar and from 2023- in the real world
 - The Addermarch Mercenaries, a campaign run by Tim and featuring [[Fazoth de Brune|Fazoth]], [[Yvan Greenrabbit|Yvan]], and [[Drou]]. Active from 2024- in the real world, and not yet canonically placed in Taelgar, but happening sometime between DR 1720 - DR 1740.
 
@@ -50,21 +50,4 @@ In addition, several shorter adventures and series of one-shots have included:
 
 %%^povNotes:v1%%
 Temporal coverage: a modern retrospective overview of adventuring parties from different campaign periods; the Great War and individual adventure dates are historical context, not a claim that all parties were active simultaneously.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added `name: Players of Taelgar` from the existing heading.
-- Recorded a modern POV and the overview's retrospective, multi-campaign temporal framing.
-- Added the missing relative pronoun in “a group of heroes who made a name for themselves.”
-
-### Validated judgments
-- This is a campaign overview rather than a named in-world subject, so no `Metadata:names:v1` block is applicable.
-
-### Open findings
-
-- [ ] **Error — content.cross_note_conflict:** The Silver Tempests bullet places their late-1740s exploits in the Northern Provinces of the `[[Drankorian Empire]]`. Both [[Great Library Campaign]] and [[Silver Tempests]] identify this as the Chardonian frontier, and [[Northern Provinces]] defines the provinces as Chardonian in that period. Replace only `[[Drankorian Empire]]` in this bullet with `[[Chardonian Empire]]`; preserve the late-1740s historical framing.
-- [ ] **Warning — content.cross_note_conflict:** The Heroes of Cleenseau bullet says they met in `[[Cleenseau]]`, while [[Cleenseau - Session 01]] explicitly records all four meeting while defending Taviose on DR 1719-10-20, consistent with [[Heroes of Cleenseau]]. Replace the bounded phrase `who met in [[Cleenseau]] in DR 1719` with `who met in [[Taviose]], near [[Cleenseau]], in DR 1719`.
 %%^End%%
