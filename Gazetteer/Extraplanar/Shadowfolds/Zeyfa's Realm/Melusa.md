@@ -2,13 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/mike]
+tags: [place, status/check/mike, status/check/ai]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Zimka
 name: Melusa
 pronunciation: meh-LOO-sah
-whereabouts: "Zefya's Realm"
+whereabouts: "Zeyfa's Realm"
 knownTo: [itc]
 POV: 1730
 ---
@@ -18,7 +18,7 @@ POV: 1730
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Melusa is an isolated [[Zimka]] village of 400-500 people in [[Zefya's Realm]], a mist-bound place whose cliffs and floating islands resemble the [[Great Chasm]]. Its inhabitants speak Old Zimkovan and live under the fey lord [[Forquarion]], whom they call Malquin the Vaqar.
+Melusa is an isolated [[Zimka]] village of 400-500 people in [[Zeyfa's Realm]], a mist-bound place whose cliffs and floating islands resemble the [[Great Chasm]]. Its inhabitants speak Old Zimkovan and live under the fey lord [[Forquarion]], whom they call Malquin the Vaqar.
 
 Most of the village consists of stone houses that cluster on a broad cliffside ledge around a waterfall-fed pool teeming with salmon. Rope bridges connect the village to two floating islands: one supports grazing cattle, the other lush fruit trees and crops. A third island holds Forquarion's palace of ice.
 

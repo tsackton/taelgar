@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike]
+tags: [person, status/check/mike, status/check/ai]
 species: fey
 speciesAlias: fey lord
 gender: male
@@ -12,7 +12,7 @@ pronunciation: for-KWAH-ree-on
 affiliations:
   - {org: Melusa, type: leader, title: ruler}
 whereabouts:
-  - {type: home, location: "Zefya's Realm"}
+  - {type: home, location: "Zeyfa's Realm"}
 knownTo: [itc]
 POV: 1730
 ---
@@ -29,7 +29,7 @@ Forquarion controls the sky above Melusa. The villagers believe that sacrifices 
 
 ## Appearance and Manner
 
-Tall and humanoid, with pale, icy blue skin, Forquarion carries a sword of ice and vanishes and reappears within his palace. Few speak with him in his place; those that do say his manner shifts abruptly between regal courtesy, confusion, and violent threats. He fears, or assumes, that the outside world is only a dream, and that leaving [[Zefya's Realm]] would end his existence, though he remembers moonlight and stars that are absent from this domain.
+Tall and humanoid, with pale, icy blue skin, Forquarion carries a sword of ice and vanishes and reappears within his palace. Few speak with him in his place; those that do say his manner shifts abruptly between regal courtesy, confusion, and violent threats. He fears, or assumes, that the outside world is only a dream, and that leaving [[Zeyfa's Realm]] would end his existence, though he remembers moonlight and stars that are absent from this domain.
 
 %%^Date:1730%%
 ## The Chasm Explorers
@@ -51,7 +51,7 @@ Forquarion's origins and the domain's nature remain unresolved. The closing disc
 
 The intended explanation for the sun was a machine he built to imitate the Feywild's sunlight, requiring sacrifices when it failed. The players saw a disc bearing Sylvan writing and a sunlike light, but did not establish its workings.
 
-[[Zefya's Realm]] preserves alternatives: Forquarion may be another captive or a dupe, and the realm may have an unusual Shadowfold origin or be another kind of demiplane. His ultimate fate was never determined.
+[[Zeyfa's Realm]] preserves alternatives: Forquarion may be another captive or a dupe, and the realm may have an unusual Shadowfold origin or be another kind of demiplane. His ultimate fate was never determined.
 
 Sources:
 - [[into-the-chasm-006-source-cleaned|Session 6 closing discussion, u2165–u2220]]

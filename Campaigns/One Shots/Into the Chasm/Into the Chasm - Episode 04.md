@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Into the Chasm
 sessionNumber: 4
 realWorldDate: 2026-01-08
@@ -44,7 +44,7 @@ After a tense night in [[Melusa]], the party bargains with Malquin for passage h
 
 ## Places
 
-- [[Melusa]] (*meh-LOO-sah*; village in [[Zefya's Realm]]): Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff. Session context includes: [[Nura]] and Khaled's house, Iskander's hut near the cattle-island bridge, and the cliffside gashes.
+- [[Melusa]] (*meh-LOO-sah*; village in [[Zeyfa's Realm]]): Isolated chasm-side village caught between Malquin's rule, Zahara's hidden resistance, and the dangerous gashes in the cliff. Session context includes: [[Nura]] and Khaled's house, Iskander's hut near the cattle-island bridge, and the cliffside gashes.
 - Ice Palace: Malquin's floating palace, reached by a conjured bridge of ice. Session context includes: the entrance hall and throne-room-like audience chamber.
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): The true chasm beyond [[Melusa]], where floating carved platforms surround a failing planar mechanism.
 

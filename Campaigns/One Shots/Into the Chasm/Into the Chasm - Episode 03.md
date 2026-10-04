@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Into the Chasm
 sessionNumber: 3
 realWorldDate: 2025-12-16
@@ -41,8 +41,8 @@ The party kills the shaggy white beast, allowing them to escape [[Zeyfa's Labyri
 
 ## Places
 
-- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zefya's Realm]]): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zeyfa's beast..
-- [[Melusa]] (*meh-LOO-sah*; village in [[Zefya's Realm]]): Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace. Session context includes: lower cliffside paths, ledge village, and [[Nura]] and Khaled's house.
+- [[Zeyfa's Labyrinth]] (*ZAY-fahz LAB-uh-rinth*; labyrinth in [[Zeyfa's Realm]]): Ice-and-stone labyrinth, including the black-stone chamber where the party defeats the beast and opens a passage toward [[Melusa]]. Session context includes: Black-stone lair of Zeyfa's beast..
+- [[Melusa]] (*meh-LOO-sah*; village in [[Zeyfa's Realm]]): Fog-bound cliff village with a waterfall-fed pond, ledge houses, guarded planar gashes, and the nearby Ice Palace. Session context includes: lower cliffside paths, ledge village, and [[Nura]] and Khaled's house.
 
 ## Narrative
 

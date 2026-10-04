@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Into the Chasm
 sessionNumber: 6
 realWorldDate: 2026-02-04
@@ -40,7 +40,7 @@ After recovering the chasm engine's keystone, the party returns to [[Melusa]] an
 ## Places
 
 - [[Great Chasm]] (chasm in [[Zimkova]], [[Greater Sembara]]): Sacred chasm machinery site where [[Eidrikas]] holds a damaged planar engine together and the rescued Melusans emerge into the true world.
-- [[Melusa]] (*meh-LOO-sah*; village in [[Zefya's Realm]]): Isolated village-realm whose willing dissidents escape after strange portals overwhelm the palace guard and destabilize the settlement.
+- [[Melusa]] (*meh-LOO-sah*; village in [[Zeyfa's Realm]]): Isolated village-realm whose willing dissidents escape after strange portals overwhelm the palace guard and destabilize the settlement.
 
 ## Narrative
 
