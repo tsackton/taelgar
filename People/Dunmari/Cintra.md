@@ -2,33 +2,51 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/stub, status/check/lint]
+tags: [person, status/check/lint]
 species: human
 ancestry: Dunmari
 campaignInfo: null
 born: 1705
 gender: female
 name: Cintra
+pronunciation: SIN-truh
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
-POV: 1740s
+POV: 1748
 ---
 # Cintra
+*(SIN-truh)*
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Supreme Oracle of Shakun.
+Cintra is the Supreme Oracle of [[Shakun]], based in [[Karawa]]. A prophet with a direct connection to the goddess, she stands outside the hierarchy of the [[Shakun Mystai]] and serves as guardian of the [[Heart of Shakun]].
+
+Raised in Karawa, Cintra is a powerful spellcaster with a deep faith in Shakun and a strong sense of personal responsibility. She is self-assured and sometimes headstrong, quick to assess others and accustomed to taking charge. Under pressure, she gives blunt, practical directions and turns readily to magic and improvisation to protect those around her.
+
+Her daughter, [[Jumi]], is a magical prodigy strongly blessed by Shakun. Cintra is fiercely devoted to her; Jumi’s safety is the one concern she puts before even her responsibility to the people of [[Dunmar]].
+
+%%^Date:1748-06-01%%
+In February DR 1748, Cintra left [[Karawa]] with the [[Heart of Shakun]], seeking healing for [[Jumi]] after dreams she believed came from the goddess, but were actually a trick of the hag [[Agata|Agata Dustmother]]. [[Agata]] took Jumi hostage and held Cintra at [[Shakun’s Wellspring]] under [[Samerki]]’s watch, while the Heart’s absence weakened Dunmar’s border protections. When the [[Dunmar Fellowship]] reached her, Cintra helped conceal them and diverted Samerki with illusions and a bluff. After the Fellowship defeated Agata and freed Jumi, Cintra returned to Karawa with her daughter and the Heart on [[Session 29 (DuFr)|June 1, 1748]].
+%%^End%%
 
 ![[cintra.jpg]]
 
+%% Sources:
+- [[Session 26 (DuFr)]]
+- [[Session 27 (DuFr)]]
+- [[Session 28 (DuFr)]]
+- [[Cintra (OneNote)]]
+Characterization also checked against the prepared transcripts: Session 26, u0766–u0775; Session 27, u0515–u0553 and u1993–u2320.
+%%
+
 %%^Metadata:names:v1%%
-- {name: Cintra, language: unknown, pronunciation: CHIN-truh, status: proposed, notes: "Hindi-informed proposal from the Dunmari cultural analogue in Languages: c as ch, short i, tr retained, final a reduced to uh, with first-syllable emphasis. The name's language and exact pronunciation are unrecorded; the analogue does not establish in-world phonology."}
+- {name: Cintra, language: Dunmari, pronunciation: SIN-truh, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
