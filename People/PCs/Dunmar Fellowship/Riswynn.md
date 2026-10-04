@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 ancestry: Nardith
 campaignInfo: null
@@ -66,5 +66,5 @@ Temporal coverage: a spring DR 1748 itinerary and portrait at the beginning of R
 
 - [ ] **Warning — coverage.later_material_change:** The spring-1748 itinerary leaves out major established consequences of Riswynn’s later life. [[Session 58 (DuFr)]] records her redemption of Hagrim and resettlement of the freed dwarves; [[Session 116 (DuFr)]] and [[Session 117 (DuFr)]] record her Crown stewardship and intervention against the chalyte trade; the Epilogues section of [[dunmar-frontier-139-session-recap]] records her continuing planar quest and the orcs’ commemoration of her. Decide whether to update the article and its POV, defer with the appropriate `status/gameupdate/dufr`, or deliberately preserve the earlier article. Copy-ready dated additions, if updating: “In DR 1748, Riswynn used the [[Chalice of the Runepriest]] to redeem [[Hagrim]] and free the dwarves trapped in [[Morkalan]]. With [[Thror]], she guided the survivors to [[Tharn Todor]] and helped them rejoin dwarven society. In May DR 1749, she became bearer of the [[Crown of Purity]], using its influence to oppose the [[chalyte]] trade and support peace between [[Dunmar]] and [[Chardon]]. She subsequently departed for another plane with companions to pursue her unfinished work concerning [[Thark]]. Lubash’s thriving orc city honored her with statues.” The epilogue’s exact in-world date is unassigned: preserve that uncertainty and leave any new visibility-changing `Date:*` blocks for human approval.
 
-- [ ] **Suggestion — correctness.name_spelling:** The March 10 itinerary entry says “Tharn Todar”, whereas the May 5 entry and the canonical [[Tharn Todor]] note use “Tharn Todor”. Correct the first place name after review: “- (DR:: 1748-03-10): Riswynn leaves Tharn Todor, heading north for Raven's Hold”. No itinerary dates or other names need to change for this correction.
+- [ ] **Suggestion — correctness.name_spelling:** The March 10 itinerary entry says “Tharn Todar”, whereas the May 5 entry and the canonical [[Tharn Todor]] note use “Tharn Todor”. Correct the first place name after review: “Riswynn leaves Tharn Todor, heading north for Raven's Hold”. No itinerary dates or other names need to change for this correction.
 %%^End%%

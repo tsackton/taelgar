@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: realm
 created: 1651
 whereabouts: Barony of Aveil
@@ -26,4 +26,4 @@ After Lorin's fall, [[Viepuck]] said he had warned [[Catherine de Brune]] that h
 When [[Robin of Abenfyrd|Robin]] took control, the manor was short of cash and food: it held about 100 gp, provisions for the extended household for roughly six weeks, and arms left by the militia. Queen Elaine II declared the first two years of Robin's manorial honorus paid in thanks for his service; the hearth tax had also been paid for that year.
 
 The manor is just under 2,000 acres, with roughly 1,000 acres of farmland, 600 of pasture, and 200 of woodlot. About half the farmland was sown in a given year under a two-year rotation. The manor received grain from its own fields, leaseholds, and deca on other crown-held land, as well as roughly 800 person-days of annual labor service, about half used on its own fields. 
-%%^Campaign:End%%
+%%^End%%

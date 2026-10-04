@@ -17,7 +17,7 @@ The central room in the earth guardian path is a massive hollow geode.
 ![[Earth Guardian Path]]
 
 Dimensions: 
-A1 is a cracked five-foot-thick stone facing with 35 feet of packed earth beyond, preserving the total forty-foot approach. From A2, the left tunnel runs 100 feet gently upward to B; the right tunnel runs 150 feet steeply upward to C; the center tunnel runs 100 feet downward to D. These are tunnel lengths, not vertical elevation changes. B overlooks D from 30 feet above its floor. C is 60 feet above D and connects to B by a narrow service ledge. The hollow geode is approximately 100 feet across and 80 feet high
+A1 is a cracked five-foot-thick stone facing with 35 feet of packed earth beyond, preserving the total forty-foot approach. From A2, the left tunnel runs 100 feet gently upward to B; the right tunnel runs 150 feet steeply upward to C; the center tunnel runs 100 feet downward to D. These are tunnel lengths, not vertical elevation changes. B overlooks D from 30 feet above its floor. C is 60 feet above D and connects to B by a narrow service ledge. The hollow geode is approximately 200 feet across and 80 feet high
 
 ## Entrance Wall (A)
 
@@ -58,7 +58,57 @@ Can see the geode room below from here as well if look through the holes.
 
 ## Geode Room (D)
 
+The fight is an assault on the central crystal. Minions swarm out to intercept the party, and new waves keep appearing until the crystal is destroyed. Someone needs to contain the swarm while others reach and break the crystal. Clearing enemies alone will not win the fight.
 
+### Terrain and approach
+
+Earth crystals cover the inside of the massive geode. Paths wind between them until about 100 feet from the center; beyond that, the party must cross the crystals to reach a clear area with a 15-foot radius around the central crystal. Combat begins when the party is about 120 feet from the center and the defenders emerge from the spokes to attack.
+
+- **Difficult terrain:** all crystal-covered ground is difficult terrain. The paths and central clearing are exceptions.
+- **Sharp crystals:** for every 5 feet traveled through crystal-covered ground, a creature takes **1d4 piercing damage**, like a weaker *Spike Growth*. Count actual distance traveled, not the extra movement spent for difficult terrain. Moving slowly does not avoid this damage.
+- **Bypassing the crystals:** jumping over them, *Misty Step*, and flight avoid the damage for the distance bypassed.
+- **Sight lines:** many crystals are larger than a person. A character on the ground can see through gaps and along limited angles, so abilities that require sight, including *Misty Step*, need a visible destination. Large creatures can see over the crystals.
+
+### Defenders
+
+Start with **12 earth sparks and 2 gem jellies**, emerging from the spokes to attack approaching characters. The fixed defenders total approximately **17,080 XP**, close to the 18,000 XP target; this excludes the central crystal, its lair action, and the summoned rock swarms.
+
+- [Earth Spark](https://www.dndbeyond.com/monsters/4485830-earth-spark)
+- [Gem Jelly](https://www.dndbeyond.com/monsters/4485849-gem-jelly)
+- **Rock swarms:** use the [Ogre Goon](https://www.dndbeyond.com/monsters/4485960-ogre-goon) minion stat block, reskinned as animated rocks.
+
+### Central crystal
+
+Treat the crystal as an immobile construct. It has its own turn, with **+0 initiative**, and makes one Crystal Gun attack on that turn.
+
+| Statistic | Value |
+| --- | --- |
+| Armor Class | **20** |
+| Hit Points | **300** |
+| Saving throws | STR +8, DEX +0, CON +8, INT +0, WIS +5, CHA +5 |
+| Vulnerability | Thunder |
+| Resistances | Piercing, slashing |
+| Damage immunities | Acid, cold, fire, lightning, poison, necrotic, psychic |
+| Normal damage | Bludgeoning, force, radiant |
+| Conditions | Immune to most conditions; cannot be knocked prone or moved |
+
+**Crystal Gun.** Ranged attack, **+12 to hit** against one target. On a hit, deals **10d6 bludgeoning damage** and knocks the target prone.
+
+**Lair action — Rock Swarms.** On **initiative count 20, losing ties, starting in round one**, summon **10 rock swarms** from the central crystal. The swarms act on **initiative count 10**, including the round they appear.
+
+**Destruction.** When the crystal reaches 0 HP, spawning stops and all remaining defenders become inert. The party can recover the earth key attached to the crystal.
+
+### Running the fight
+
+Make the central crystal's role obvious: the Crystal Gun fires from it, and every new wave emerges from it. Use the minions to swarm approaching characters and force a choice between clearing a route, containing the swarm, and pressing on toward the crystal. The intended rhythm is for some characters to deal with the minions while others attack the source.
+
+If the party spends too long fighting the defenders without attacking the crystal, the repeated waves and difficult approach can put one or more characters down. Jumping, teleportation, flight, and gaining a better view over the crystals are useful ways to shorten the approach.
+
+### Retreat and failure
+
+The intended failure state is retreat, not death. The defenders do not attack unconscious characters or characters who are fleeing, and do not pursue the party out of the fight. Allow the party to gather fallen companions and withdraw if the assault goes badly.
+
+A failed assault followed by retreat could give Zadkai's minions an opening to slip in and recover the earth key. This is a plausible consequence of the party weakening the defenses and leaving; whether the minions seize that opportunity depends on how events unfold.
 
 ## Treasure
 
