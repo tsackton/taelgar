@@ -81,7 +81,11 @@ Late spring and early summer bring important rains around Voltara as passing oce
 
 Along the inland corridor, southern forest grades through woodland and grassland into productive Voltara country, then into drier Erbalta farther north and deeper in the Fiatara rain shadow. Stronger shelter must reduce precipitation enough to outweigh the lower water loss of cooler northern conditions. This terrain-driven gradient is distinct from the more frequent summer ocean weather of the exposed northern coast. Wetter foothills can remain wooded within the broader transition, while the enchanted Crimson and Elderwood forests have an additional summer moisture supply. Exact boundaries remain open. Southwestern access is a broad circulation feature; no particular pass or mountain height is assigned.
 
+%% Physical issue: Southwestern moisture access must sustain productive Voltara grassland while stronger Fiatara shelter leaves Erbalta drier. The inland reduction in precipitation must outweigh the lower water loss in cooler northern conditions. See K19 and K31 in [[Climate and Weather Constraints]]. %%
+
 In winter, the Fiatara intercept much of the ocean moisture, leaving limited snowfall around Voltara. Cold spells often bring clear skies, frost and frozen ground, while recurring thaws interrupt lowland snow cover. Dryness alone would not clear snow during sustained freezing. Occasional warm, dry air descending the Fiatara is a plausible contributor to these thaws, comparable to foehn or Chinook episodes; its frequency and reach remain unassigned. Exposed ground can lose snow while drifts persist in sheltered places. Cold spells can retain snow for weeks, and severe winters may sustain cover much longer. These lowland conditions do not set the snow regime of northern Erbalta or the mountains.
+
+%% Physical issue: Limited snowfall alone cannot explain intermittent ordinary lowland snow cover around Voltara and southern Erbalta. Recurring thaws are also needed; downslope warming remains a candidate whose reach and recurrence must fit that requirement while allowing prolonged cover in severe winters. See K31 in [[Climate and Weather Constraints]]. %%
 
 Snowmelt and springs from the Fiatara sustain rivers, soil moisture, and riparian farming on dry plains without adding to local rainfall. The highest summits' summer ice is required by play; its extent and the seasonal balance of snowfall and melt remain qualitative.
 
@@ -137,9 +141,6 @@ The [[Emerald Song]] voyage in [[Session 47 (DuFr)]] establishes viable summer t
 %%
 
 ## Uncertainties and map coverage
-
-> [!question] Unspecified parameters
-> Rainfall totals, temperature ranges, exact snow amounts and durations, wind speeds, exact pressure boundaries, and local wind bearings remain unassigned. Around Voltara, these details must remain compatible with relatively dry winters, limited snowfall, recurring thaws and intermittent ordinary lowland snow cover. The reach and reliability of southwestern rain, local Fiatara shelter, downslope thaw episodes, mountain snowlines, and Apporia's interior rainfall need local refinement. Valandros lake effects, lake freezing, Blackwater's ordinary ice regime, and the distribution of forest fog remain qualitative. Ocean currents and water temperatures are not assigned by this atmospheric model.
 
 The regional summer and winter figures use the continental pressure framework and distinguish recurring seasonal winds from dashed episodic moisture routes and cold outbreaks. A separate summer hatch identifies the schematic Crimson/Elderwood magical moisture area, without assigning exact boundaries. Numbered notes distinguish rainy low forests from snowy higher and northern terrain. The southern interface is enlarged in [[Dunmar and Nevos Circulation#Seasonal maps]].
 

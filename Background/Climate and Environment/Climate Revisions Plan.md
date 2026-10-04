@@ -24,17 +24,19 @@ This priority does not override retained constraints or newer explicit correctio
 
 ## 1 Review the constraints and gather physical issues
 
-- [ ] Retain the constraint-by-constraint “Model at…” and “Model compatibility” columns, coverage labels and definitions, and a concise dated coverage summary. These let an agent quickly find constraints that the model does not adequately cover.
-- [ ] Review the general physical weak-points section and cross-note conflict discussions alongside the existing issue notes in the physical pages. Consolidate each substantive modeling issue in the appropriate physical page before step 2, merging duplicates and using brief comments beside the relevant mechanism.
-- [ ] Remove the relocated general issue discussions from the constraints. Preserve source qualifications that define a constraint's meaning; discard generic reminders about absent measurements rather than transferring them into the physical pages.
-- [ ] Preserve all requirement and observation identifiers, accepted meanings, dates, sources, standing, preferences, exclusions, consequential qualifications, and useful model-fit explanations and links. Keep the tables dense where useful.
+- [x] Retain the constraint-by-constraint “Model at…” and “Model compatibility” columns, coverage labels and definitions, and a concise dated coverage summary. These let an agent quickly find constraints that the model does not adequately cover.
+- [x] Review the general physical weak-points section and cross-note conflict discussions alongside the existing issue notes in the physical pages. Consolidate each substantive modeling issue in the appropriate physical page before step 2, merging duplicates and using brief comments beside the relevant mechanism.
+- [x] Remove the relocated general issue discussions from the constraints. Preserve source qualifications that define a constraint's meaning; discard generic reminders about absent measurements rather than transferring them into the physical pages.
+- [x] Preserve all requirement and observation identifiers, accepted meanings, dates, sources, standing, preferences, exclusions, consequential qualifications, and useful model-fit explanations and links. Keep the tables dense where useful.
 
 ## 2 Review the physical model pages
+
+This step is for review and decisions only. Present the proposed outlines and redistribution in chat for approval before recording them here; make the physical-page prose changes in step 3.
 
 - [ ] Review all six pages together, including the issues gathered in step 1, before rewriting their explanatory prose. Propose concise section outlines and identify the home for each shared explanation.
 - [ ] Compare conflicting accounts with the reviewed continental model, following the temporary review priority above. Address gathered physical issues during this review and identify any specific decisions needed from Tim.
 - [ ] Identify unique regional descriptions that need to survive in the atlas, and continental explanations that belong in the overview. Record these destinations in this plan so shortening one page does not lose useful content.
-- [ ] Separate necessary assumptions, genuine unresolved physical problems, and generic reminders about absent measurements. Integrate assumptions into explanations, retain specific problems briefly with the relevant mechanism, and delete the reminders.
+- [ ] Separate necessary assumptions, genuine unresolved physical problems, and generic reminders about absent measurements. Decide which assumptions to integrate into explanations, which specific problems to retain briefly beside their mechanisms, and which reminders to delete during the step 3 rewrite.
 - [ ] Identify weather and application passages that exceed the physical explanation's needs. If useful material needs work in a deferred collection, record the destination for later rather than expanding this revision into those files.
 - [ ] Settle the outlines and redistribution before the prose rewrite. Keep editorial changes separate from any newly proposed change to the climate itself.
 

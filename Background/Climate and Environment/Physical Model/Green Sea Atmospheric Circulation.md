@@ -33,6 +33,8 @@ Cool water helps maintain cool near-surface air. Recurring bends and ridges in t
 
 Ridge episodes can occur in late spring without establishing the full summer circulation. Spring westerly opportunities must remain useful into June, while summer interruptions must permit rain and meaningful warmth in Ursk's settled valleys. A permanent summer blanket of cold marine air across the whole interior would conflict with that agricultural requirement.
 
+%% Physical issue: The northern maritime ridge and offshore Cymean trough need sufficient westward reach and recurrence for practical July–August westbound voyages while retaining useful June and autumn eastbound opportunities and warm, rainy summers in inhabited Ursk. The trough must stay south of the shipping corridor, with the Cymean center preserving northbound flow to its east and Sembaran inflow to its northwest. The Okhotsk comparison does not establish this Taelgar geometry. See K24 and K27 in [[Climate and Weather Constraints]]. %%
+
 ### Cymean low and Sembaran maritime inflow
 
 Spring heating develops lower pressure over Cymea and adjoining southern land. In summer this low extends a trough eastward into the sea, remaining south of the northern sailing corridor. Its main center lies south to southeast of the Sembaran heartlands and west of the offshore northbound branch. This gives different winds in neighboring sectors:
@@ -83,6 +85,8 @@ Winter cold outbreaks alternate with moving rainmakers. The proposed [[Sentinels
 Hotter Maseau and Andonne lowlands grade into the elevated [[Aurbez Plateau]], where summer days can be warm but nights are cooler. Important spring rains give way to predominantly dry summer intervals, with easterly ash-bearing winds and occasional severe thunderstorms. Moisture loss along inland paths, shelter from the [[Mostreve Hills]] and [[Salt Hills]], and dry or stable air above the surface distinguish these districts from maritime Sembara.
 
 A southward continuation of lower pressure can support the required easterly winds without placing a persistent rainy trough over Aurbez. Occasional deeper moisture incursions and passing upper-air disturbances permit storms. Their boundaries and frequency remain open. The broken uplands described in [[Geology of the Mostreve and Cymean Uplands]] supply varied shelter and gaps, rather than a continuous Himalayan-scale barrier.
+
+%% Physical issue: Extending the Cymean trough too far south and west as a deep, moist trough would threaten Aurbez and the desert interior’s aridity. Its southern extension must support the easterly winds while preserving the drying mechanisms described here. %%
 
 ## Seasonal cycle
 
@@ -138,6 +142,8 @@ The land lows weaken and northern maritime ridging becomes less persistent. Retu
 
 The southern ridge retreats far enough south for eastbound opportunities from southeastern Irrla by **late September or early October**. Selected island routes then use successive southward and southwestward opportunities toward Medju. Southward flow can occur on the eastern side of a westward-extending ridge or behind an eastward-departing low; southwestward flow occurs around a high's southeastern flank. These positions shift with weather and do not describe one fair-wind passage down the whole chain.
 
+%% Physical issue: An ocean high east of an inner-island passage drives northward flow on its western flank. Autumn southbound and southwestbound legs therefore depend on shifted ridges or passing lows supplying suitable successive opportunities; their practical recurrence remains unresolved. Any magical assistance would require separate adoption. See K24 in [[Climate and Weather Constraints]] and [[Trading in the Green Sea]]. %%
+
 A plausible sequence is a mild, cloudy approach to a northern low, a wet or squally passage, and a clearer interval in which the next leg becomes favorable. Renewed inland cold can bring snow to the northern forests while the southern sea remains warm. Cooling and stronger disturbances promote mixing in the ocean, but calmer spells and local island shelter remain possible. December arrivals at Medju are ordinary trade-model targets; increasing light-wind delays precede the stronger winter calms.
 
 ### Seasonal navigation windows
@@ -160,16 +166,6 @@ The northern cold current delays coastal warming and supports cool maritime air.
 The adopted [[Green Sea Ocean Circulation#The Western Gulf|Western Gulf exchange]] exports fresher surface water and imports cold, saltier water below. Summer winds favor western Cymean upwelling but northern coastal downwelling. Cold imported water can persist in either setting. Current arrows, wind arrows, and storm movement describe different things and should never be substituted for one another.
 
 Across the Sentinels, western winter moisture and eastern summer moisture affect different slopes. The Green Sea can replenish moisture east of the mountains during moving winter storms; it does not carry the western maritime climate unchanged across the range. The Nevos-fed circulation in [[Dunmar and Nevos Circulation]] is a separate regional monsoon. A common summer heating cycle can affect both without requiring a continuous rainy trough through the dry interior.
-
-## Physical weak points and open choices
-
-- **Northern ridge reach and recurrence.** The cool-water/upper-air mechanism is plausible, but an Okhotsk comparison does not demonstrate a ridge extending across Taelgar's entire northern shipping corridor. Its persistence must accommodate July–August westbound commerce, spring and autumn eastbound travel, northern rain, and adequate inland summer warmth.
-- **Offshore trough placement.** The trough must remain south of the westbound corridor while the Cymean center leaves northbound flow to its east and NE → SW inflow to its northwest. Moving it too far north disrupts the sailing geometry; extending it too far south and west as a deep moist trough would threaten Aurbez and desert aridity.
-- **Autumn island route geometry.** The fixed continental account and trade requirements specify successive favorable opportunities. Their frequency and precise ridge shapes remain unmodeled. An ocean high centered east of an inner-island passage favors northward flow there on its western flank, so it cannot by itself justify southbound winds on that passage. Temporary ridges, passing lows, and any separately adopted magical influence must supply the appropriate local episodes.
-- **Moisture delivery and gulf shelter.** The model needs recurring inland precipitation without severe storms becoming routine throughout the Western Gulf. The balance between weak moving lows, fronts, terrain rain, and thunderstorms remains qualitative.
-- **Island and northeastern detail.** Irrla's old climate claims and exceptional Eastern Isles weather are excluded constraints. This model supplies maritime exposure and terrain effects without deciding every local rainy season, the undeveloped northeastern geography, or regional sea-ice extent.
-
-%% Alignment status, 3 October 2026: this note and its figures follow the fixed [[Taelgar Climate Model]]. The physical weak points above remain tests of that explanation, without changing the continental account or the sailing requirements. %%
 
 ## Comparisons and references
 

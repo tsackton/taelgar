@@ -39,7 +39,7 @@ The model gives the three Sentinel sectors different balances:
 | Central Sentinels | High relief lifts western storms and maintains cold peaks and icefields above forested foothills. Sheltered eastern basins receive less precipitation. | High-country glaciers and difficult summer travel remain compatible with much milder western forests. Individual passes and icefields need separate topography; no general open summer road follows. |
 | Southern Sentinels | Fewer moisture-bearing passages and stronger summer drying leave broad dry high country. Winter storms still deposit snow, concentrated on favorable slopes and in sheltered hollows. | Higher passes close in winter; most seasonal snow melts in warmer months, while some ice survives near the highest peaks. Occasional summer storms do not turn the whole sector into a monsoon range. |
 
-This qualitatively accommodates K12–K14 in [[Climate and Weather Constraints]]. It does not demonstrate a numerical glacier balance or determine exactly how high the southern summits must be. Those are future physical tests if precise elevations or glacier maps are adopted.
+%% Physical issue: Ordinary mountain glaciers and surviving high snow require accumulation to offset melting. In the dry southern Sentinels, winter snowfall, snow-gathering terrain and limited high-elevation melt must sustain the retained ice when summits and glacier basins are developed. Lower winter crossings remain a revisable preference, separate from the required mountain snow and ice. See K13, K14, K20 and K28 in [[Climate and Weather Constraints]]. %%
 
 ## Four-season behavior
 
@@ -122,12 +122,11 @@ The working model retains a candidate **southern winter storm corridor** connect
 > [!tip] An eastbound storm can bring westbound winds
 > A weather system's movement is different from the air circulating around it. On the northern side of a Northern Hemisphere low, air generally travels east → west even while the whole low moves east. The associated rain or snow can also extend well beyond its center. A sequence of these events can interrupt Sembara's prevailing winter westerlies without replacing them with a permanent winter monsoon.
 
-The [[Western Gulf]] remains relatively sheltered in this model. Its ordinary winter rainmakers are weaker lows and the broad fronts associated with nearby systems; the most vigorous development usually occurs farther offshore. A rainy spell over farmland need not coincide with severe gales throughout the gulf. The strength and frequency of these systems must be checked against both the sheltered navigation constraint and the required inland moisture supply.
+The [[Western Gulf]] remains relatively sheltered in this model. Its ordinary winter rainmakers are weaker lows and the broad fronts associated with nearby systems; the most vigorous development usually occurs farther offshore. A rainy spell over farmland need not coincide with severe gales throughout the gulf.
+
+%% Physical issue: Moving lows and fronts must replenish Sembaran winter moisture while preserving the Western Gulf’s relative shelter. The proposed Maseau–Mostreve–Tyrwingha–Cymea corridor needs to supply useful inland wet spells without making severe gulf storms routine. See K05, K06 and K23 in [[Climate and Weather Constraints]]. %%
 
 These winter lows differ from the Cymean summer trough: they are moving weather systems organized by upper-air disturbances and temperature contrasts, rather than the recurring summer pattern driven by continental heating. Their passage may give Cymea appreciable winter rainfall, but does not yet establish the winter rainfall of all South Cymea or the Maritime Trade Peninsula. Mediterranean lee cyclogenesis is a useful physical comparison, not a demonstration that the proposed Taelgar track must occur.
-
-> [!question] Storm-track details and map coverage
-> The favored formation sites, track width, frequency, intensity, and reach of rain inland remain unassigned. This corridor develops the continental overview's passing winter systems; its specific route is not required by that overview. Regional maps must distinguish an illustrative moving storm from seasonal wind arrows and broad pressure regions, and must preserve the Western Gulf's relative storm shelter.
 
 ## Neighboring regions and evidence limits
 
