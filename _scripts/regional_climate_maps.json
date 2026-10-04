@@ -3,51 +3,167 @@
     "file": "taelgar-western-summer-v3",
     "season": "summer",
     "title": "Western coast and interior · Summer",
-    "subtitle": "Mediterranean summer drying, local elven forest moisture, and sheltered continental interiors.",
+    "subtitle": "Southern summer drying; maritime rain in the north; variable Nevos inflow through Darba.",
     "crop": [
       35,
       70,
-      760,
-      860
-    ],
-    "points": [
-      [
-        438,
-        615
-      ],
-      [
-        520,
-        553
-      ],
-      [
-        440,
-        391
-      ]
+      590,
+      815
     ],
     "notes": [
-      "1 · Chardon and the southern basins: stable ridge, coastal fog and a summer moisture deficit.",
-      "2 · Crimson and Elderwood: elven magic sustains summer mist and moisture within a seasonally dry region.",
-      "3 · Fiatara and the interior: mountain shelter favors drier plains and a more continental forest transition northward."
+      "Southern ridge: dry summers around Chardon, with intermittent coastal fog and sunny breaks. Northern maritime weather continues.",
+      "Tawir receives rain from Slate Sea air. Dashed purple routes show occasional inland incursions; they are separate from prevailing coastal winds.",
+      "Active Nevos monsoon spells bring W/SW inflow through Darba and wetter weather to the southern Emerald Bay fringe."
     ],
     "labels": [
       [
-        472,
-        350,
-        "Fiatara"
+        368,
+        370,
+        "Mawar",
+        14
       ],
       [
-        525,
-        397,
-        "Erbalta"
+        500,
+        348,
+        "Fiatara",
+        14
+      ],
+      [
+        507,
+        420,
+        "Voltara",
+        13
+      ],
+      [
+        555,
+        386,
+        "Erbalta",
+        13
+      ],
+      [
+        452,
+        419,
+        "Tawir",
+        13
+      ],
+      [
+        483,
+        495,
+        "Valandros",
+        13
+      ],
+      [
+        443,
+        601,
+        "Chardon",
+        14
+      ],
+      [
+        537,
+        569,
+        "Elderwood",
+        13
+      ],
+      [
+        529,
+        474,
+        "Crimson",
+        12
+      ],
+      [
+        348,
+        492,
+        "Coastlands",
+        12
+      ],
+      [
+        357,
+        665,
+        "Apporia",
+        13
+      ],
+      [
+        466,
+        851,
+        "NEVOS SEA",
+        15
+      ],
+      [
+        425,
+        323,
+        "Slate Sea",
+        13
+      ],
+      [
+        190,
+        182,
+        "Passing northern storms",
+        13,
+        "low"
+      ],
+      [
+        190,
+        292,
+        "Ocean westerlies",
+        13,
+        "wind"
+      ],
+      [
+        449,
+        295,
+        "W/NW rain access",
+        12,
+        "wind"
+      ],
+      [
+        252,
+        530,
+        "Coastal N/NW winds",
+        12,
+        "wind"
+      ],
+      [
+        505,
+        454,
+        "Occasional inland rain",
+        11,
+        "wind"
+      ],
+      [
+        285,
+        582,
+        "Intermittent coastal fog",
+        11
+      ],
+      [
+        435,
+        812,
+        "Nevos monsoon inflow",
+        13,
+        "wind"
       ]
     ],
     "arrows": [
       {
-        "points": "M350,477 C410,460 475,480 548,462",
+        "points": "M95,231 C155,219 224,210 285,201",
+        "color": "low",
         "dashed": true
       },
       {
-        "points": "M417,461 C448,449 455,424 466,405",
+        "points": "M105,341 C160,329 225,319 293,313"
+      },
+      {
+        "points": "M413,344 C423,362 434,379 444,397"
+      },
+      {
+        "points": "M300,488 C324,511 340,546 349,570"
+      },
+      {
+        "points": "M425,480 C452,469 489,476 512,490",
+        "dashed": true
+      },
+      {
+        "points": "M392,437 C420,444 460,447 492,432",
         "dashed": true
       }
     ],
@@ -58,60 +174,337 @@
         "path": "M505,461 C530,447 565,456 575,483 L569,532 C582,557 569,604 543,628 L499,633 C475,616 470,593 481,568 L490,538 C476,506 480,479 505,461 Z"
       }
     ],
-    "footer": "Hatch: schematic magical influence, not an exact boundary. Dashed winds: episodic. Small hexes: 24 miles face to face."
+    "footer": "Pressure curves show broad recurring features. Storm arrows show movement, not fixed tracks. Hatch: local magical moisture. Small hexes: 24 miles.",
+    "regional_layers": true,
+    "source_elements": [
+      {
+        "indices": [
+          1,
+          11
+        ],
+        "path_prefix": "M0.0,497.1 L5.6,487.5 L10"
+      },
+      {
+        "indices": [
+          1,
+          13
+        ],
+        "path_prefix": "M165.0,493.4 L180.0,489.8"
+      },
+      {
+        "indices": [
+          28
+        ]
+      },
+      {
+        "indices": [
+          29
+        ],
+        "text": "H"
+      },
+      {
+        "indices": [
+          30
+        ],
+        "text": "Western ocean"
+      },
+      {
+        "indices": [
+          31
+        ],
+        "text": "high"
+      },
+      {
+        "indices": [
+          1,
+          2
+        ],
+        "path_prefix": "M450.0,612.7 L465.0,609.9"
+      },
+      {
+        "indices": [
+          1,
+          3
+        ],
+        "path_prefix": "M465.0,651.3 L480.0,651.5"
+      },
+      {
+        "indices": [
+          1,
+          17
+        ],
+        "path_prefix": "M420.0,660.0 L475.0,670.0"
+      },
+      {
+        "indices": [
+          1,
+          24
+        ],
+        "path_prefix": "M455.0,752.0 L458.0,752.4"
+      },
+      {
+        "indices": [
+          1,
+          25
+        ],
+        "path_prefix": "M455.0,752.0 L458.0,752.4"
+      },
+      {
+        "indices": [
+          32
+        ]
+      },
+      {
+        "indices": [
+          33
+        ],
+        "text": "L"
+      },
+      {
+        "indices": [
+          34
+        ],
+        "text": "Monsoon"
+      },
+      {
+        "indices": [
+          35
+        ],
+        "text": "trough"
+      },
+      {
+        "indices": [
+          59
+        ],
+        "path_prefix": "M542,774 L515,749"
+      },
+      {
+        "indices": [
+          60
+        ],
+        "text": "Darba gap"
+      }
+    ]
   },
   {
     "file": "taelgar-western-winter-v3",
     "season": "winter",
     "title": "Western coast and interior · Winter",
-    "subtitle": "Ocean storms bring rain to low southern forests and snow to higher and colder northern terrain.",
+    "subtitle": "W/SW storm winds supply rain; northern cold outbreaks bring separate snow episodes.",
     "crop": [
       35,
       70,
-      760,
-      860
-    ],
-    "points": [
-      [
-        438,
-        615
-      ],
-      [
-        530,
-        540
-      ],
-      [
-        437,
-        383
-      ]
+      590,
+      815
     ],
     "notes": [
-      "1 · Chardon and Apporia: returning western storms replenish rivers and soils.",
-      "2 · Crimson and Elderwood: naturally mild low foothills receive mostly rain; lasting snow lies higher and farther north.",
-      "3 · Mawar and Fiatara: exposed storms and snowy high terrain; milder coastal intervals can interrupt winter cold."
+      "Main map: W/SW storm winds bring rain to the coasts, Tawir and low southern forests; the mountains enhance rain and snow.",
+      "Separate episode: occasional N/NW cold air crosses open sea toward Mawakel, bringing snow showers. Milder W/SW passages return rain and thaw.",
+      "The subtropical high lies south of Chardon. Descending Fiatara winds contribute warm, dry thaw spells in the plains."
     ],
     "labels": [
       [
-        472,
-        350,
-        "Fiatara"
+        368,
+        370,
+        "Mawar",
+        14
       ],
       [
-        525,
-        397,
-        "Erbalta"
+        500,
+        348,
+        "Fiatara",
+        14
+      ],
+      [
+        507,
+        420,
+        "Voltara",
+        13
+      ],
+      [
+        555,
+        386,
+        "Erbalta",
+        13
+      ],
+      [
+        452,
+        433,
+        "Tawir",
+        13
+      ],
+      [
+        483,
+        495,
+        "Valandros",
+        13
+      ],
+      [
+        443,
+        601,
+        "Chardon",
+        14
+      ],
+      [
+        537,
+        569,
+        "Elderwood",
+        13
+      ],
+      [
+        529,
+        474,
+        "Crimson",
+        12
+      ],
+      [
+        348,
+        492,
+        "Coastlands",
+        12
+      ],
+      [
+        357,
+        665,
+        "Apporia",
+        13
+      ],
+      [
+        466,
+        851,
+        "NEVOS SEA",
+        15
+      ],
+      [
+        425,
+        323,
+        "Slate Sea",
+        13
+      ],
+      [
+        177,
+        189,
+        "Passing lows move E/NE",
+        13,
+        "low"
+      ],
+      [
+        211,
+        370,
+        "W/SW maritime winds",
+        13,
+        "wind"
+      ],
+      [
+        223,
+        553,
+        "Rain-bearing W/SW flow",
+        13,
+        "wind"
+      ],
+      [
+        488,
+        298,
+        "High mountain snow",
+        12
+      ],
+      [
+        546,
+        446,
+        "Foehn thaw spells",
+        11
+      ],
+      [
+        580,
+        786,
+        "Darba gap",
+        12
       ]
     ],
     "arrows": [
       {
-        "points": "M350,532 C430,516 475,500 542,483",
+        "points": "M95,266 C161,246 226,222 286,209",
+        "color": "low",
         "dashed": true
       },
       {
-        "points": "M320,245 C305,275 330,310 367,336",
-        "dashed": true
+        "points": "M90,418 C180,400 262,372 333,349"
+      },
+      {
+        "points": "M290,478 C355,465 401,440 438,415"
+      },
+      {
+        "points": "M165,604 C280,561 386,552 517,525"
       }
-    ]
+    ],
+    "regional_layers": true,
+    "source_elements": [
+      {
+        "indices": [
+          1,
+          13
+        ],
+        "path_prefix": "M307.5,644.5 L322.5,643.7"
+      },
+      {
+        "indices": [
+          32
+        ]
+      },
+      {
+        "indices": [
+          33
+        ],
+        "text": "H"
+      },
+      {
+        "indices": [
+          34
+        ],
+        "text": "Western ocean"
+      },
+      {
+        "indices": [
+          35
+        ],
+        "text": "high"
+      }
+    ],
+    "episode_inset": {
+      "title": "Occasional N/NW cold outbreak",
+      "crop": [
+        225,
+        225,
+        220,
+        150
+      ],
+      "arrows": [
+        {
+          "points": "M276,260 C289,290 305,317 325,337"
+        }
+      ],
+      "labels": [
+        [
+          340,
+          247,
+          "Cold northern air",
+          11
+        ],
+        [
+          368,
+          317,
+          "Slate Sea",
+          11
+        ],
+        [
+          381,
+          365,
+          "Mawakel",
+          12
+        ]
+      ]
+    },
+    "footer": "Main map and inset show different episodes. Pressure curve: southern high. Storm arrow: movement, not a fixed track. Small hexes: 24 miles."
   },
   {
     "file": "taelgar-dunmar-nevos-summer-v3",
