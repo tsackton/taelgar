@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/ai]
+tags: [background]
 excludePublish: [all]
 ---
 # Trading in the Green Sea
@@ -11,9 +11,13 @@ This note describes oceanic trade in the Green Sea, guided by [[Taelgar Climate 
 
 The vibe and pattern of the Green Sea trading culture as a whole, however, is organized around regular, recognizable sailing seasons, concentrated on specific routes at specific times of the year. This is influenced by some of the historical vibes of the medieval Indian Ocean trade. Merchants can plan around the winds, while onset, storms, cargo availability, and local hazards still make individual voyages uncertain.
 
+%% Discussion: [[2026-09-24 - Green Sea Trade Routes and Climate Framework]] explains the intended scope: preserve constraints established in play while leaving other regions and routes open. In particular, the two developed itineraries should not imply that Ursk dominates all Green Sea trade. %%
+
 ## Assumptions
 
-The model describes a network of seasonal trade. Individual ships usually follow selected portions of that network, while goods can travel farther through exchanges between merchants and vessels. A recognizable annual circuit is a possible itinerary within this system, and one often followed by halfling family ships, but is not intended to be the primary or exclusive way goods flow around the Green Sea. 
+The model describes a network of seasonal trade. Individual ships usually follow selected portions of that network. Goods can travel farther through exchanges between merchants and vessels. A recognizable annual circuit is a possible itinerary within this system, and one often followed by halfling family ships, but is not intended to be the exclusive or even primary way goods flow around the Green Sea. 
+
+%% Older brainstorming can be found in: [[Green Sea Brainstorming]] and [[Trade Routes of the Green Sea and Sembara]] %%
 
 The principal design constraints are:
 
@@ -21,7 +25,7 @@ The principal design constraints are:
 - **Direct northern trade:** a same-year Tollen–Ursk round trip is normal. Overwintering in Ursk is a rare alternative, that would require a specific purpose, but which should be feasible given weather and wind. 
 - **Unequal familiarity:** Ursk's authorized trading ports are much more familiar to Tollender merchants than Medju or the Eastern Isles, or even Irrla. Far-eastern goods commonly reach Tollen through intermediaries.
 - **Halfling itineraries:** family ships connect regional markets through annual circuits, specialized routes, and longer journeys. 
-- **Southeastern commerce:** the peninsula, Irrla, Medju, and Eastern Isles sustain substantial exchange among themselves. This region remains lightly developed with minimal canon invention beyond the documented voyage of the [[Wave Dancer]] in [[Session 60 (DuFr)]]. 
+- **Southeastern commerce:** the peninsula, Irrla, Medju, and Eastern Isles sustain substantial exchange among themselves. This region remains lightly developed with minimal canon invention beyond the [[Session 60 (DuFr)|documented voyage]] of the [[Wave Dancer]].
 
 | Established anchor | Consequence for the model |
 | --- | --- |
@@ -47,6 +51,8 @@ Selling arriving goods to a guild importer at the docks is a gray area. It is no
 
 Guild commerce extends around the Western Green Sea through resident factors, purchasing agents, and partners, allowing purchases and onward carriage without a Tollender ship completing every leg. Exchanges in Cymea, halfling voyages to Tollen, and purchases in authorized Ursk ports connect these networks to distant markets; whether Ursk permits such exchanges freely or requires complex or hidden arrangements remains unsettled. Halfling and guild-affiliated ships carry a significant share of Tollen's imports, while some eastern circuit ships rarely visit the city.
 
+%% Related discussion: [[2023-07-16 - Tollen Merchant Enclaves and Fey Realm]] develops Tollen's export industries, merchant fleet, and overseas enclaves, including the Hanseatic comparison. [[Email - Green Sea Trade Routes]] develops guild infrastructure, resident factors, negotiated tariffs, and the contrast with halfling trade privileges. %%
+
 %% Historical references:
 - [Southampton guild ordinances, fourteenth century, clauses 19–23](https://sourcebooks.web.fordham.edu/source/guild-sthhmptn.asp): customs privileges attached to guild membership or the town franchise. Southampton's broader restrictions on resale are not part of Tollen's model.
 - [Cecchini and Pezzolo, "Merchants and institutions in early-modern Venice," pp. 97–98](https://iris.unive.it/bitstream/10278/33540/1/Merchants%20and%20institutions%20in%20early%20modern%20Venice.pdf): commercial citizenship brought overseas trading privileges and reduced customs duties.
@@ -66,11 +72,15 @@ Tollen's existing account describes Tollish free ports in [[Western Cymea]] func
 > [!note] Working hypotheses
 > Cymean free ports preserve part of Cymea's maritime importance by serving as exchange points between eastern traders and Tollender guild networks. Earlier brainstorming in [[Email - Green Sea Trade Routes]] also suggests that the loss of inland connections after the Great War contributed to Cymea's decline. The balance between lost markets, political fragmentation, and Tollender expansion remains undeveloped.
 
+%% Earlier brainstorming: [[Green Sea Brainstorming#Western Green Sea]] and [[Green Sea Brainstorming#South Cymea and Region, Some Ideas]] explore the loss of Isingue and the cotton trade, Cymean fragmentation, and Tollender expansion. These contain alternative historical and political sketches, not a settled account of the exchange ports proposed here. %%
+
 ### Ursk and the southeastern markets
 
 Ursk's restricted ports concentrate foreign commerce into familiar, closely supervised spaces. Resident agents and relationships with local factors sustain business between sailing seasons. Repeated visits can make a merchant knowledgeable about Zakat's warehouses and suppliers while leaving most of Ursk unknown.
 
 The southeastern network connects the [[~Maritime Trade Peninsula~|Maritime Trade Peninsula]], the [[Republic of Svolhas]] on Irrla, [[Medju]], and selected [[Eastern Isles]]. Its merchants trade for regional demand as well as western customers. Cargoes can pass through several hands before reaching Cymea or Tollen. Detailed cargo specializations, the relative importance of local fleets, and the political organization of these markets remain open.
+
+%% Regional background: [[Green Sea Brainstorming#Gulf of MTP]] explores the peninsula's maritime role and Irrla's emerging navy. [[Email - Irrla]] preserves the original Svolhas briefing and explicitly distinguishes its established naval and hobgoblin background from climate and economics left open for revision. %%
 
 ## Seasonal Navigation
 
@@ -89,9 +99,11 @@ The broad direction of traffic changes with the seasons, establishing the season
 
 [[Green Sea Ocean Circulation]] distinguishes a **cold westward coastal current** from a **shared eastward offshore outflow between Ursk and Irrla**. Summer easterlies strengthen the coastal current and considerably weaken offshore surface outflow where they oppose it. Spring and autumn eastbound ships can seek the offshore current, then cross the coastal branch when approaching or leaving Ursk's ports. The warm southern westward current assists travel from Medju toward the peninsula; selected westward legs approaching Medju can also benefit, without removing calms or difficult channels.
 
-The direct northern crossing has to proceed without intermediate harbors past the Skaer Islands, since these are canonically dangerous (though, possibly less so with the death of [[Rhodar von Glauer]]). 
+The direct northern crossing has to proceed without intermediate harbors, since these shores are canonically dangerous (though, possibly less so with the death of [[Rhodar von Glauer]]). 
 
 Shorter Western Gulf voyages have more frequent opportunities through much of the year, interrupted by storms and local conditions.
+
+%% Navigation discussion: [[2026-09-24 - Green Sea Trade Routes and Climate Framework]] examines why direct Tollen–peninsula voyages can be possible without being a high-volume seasonal route. The older [[Trade Routes of the Green Sea and Sembara#Trade routes]] sketches different seasonal assumptions, including easier eastward travel along the northern coast in summer; use this page's current windows when comparing those early itineraries. %%
 
 ## Ships and Passage Planning
 
@@ -100,6 +112,8 @@ Shorter Western Gulf voyages have more frequent opportunities through much of th
 [[Ship Designs in Taelgar]] proposes fast, complex halfling ships with better windward performance than typical human ships. The [[Emerald Song]] supplies a specific example: a mixed-rigged vessel carrying relatively light, valuable cargo, capable of sailing close to the wind, but vulnerable to storms. Its account gives typical travel of about 100 miles per day. This is a useful fast-ship comparison, not the default for every halfling vessel or a model of northern seaworthiness.
 
 Windward ability is primarily useful to expand the set of commercially viable routes a ship can follow. For example, a capable ship may make an early westbound passage that is otherwise quite difficult, but tacking still costs distance and time.
+
+%% Shipboard brainstorming: [[Email - Halfling Thoughts]] discusses ships designed for halfling crews, telepathic communication, share ownership, and the distinction between Western Gulf family ships and crews making longer western-coast voyages. These are useful background for ship organization, rather than a source for the passage rates below. %%
 
 ### Units and planning rates
 
@@ -160,6 +174,8 @@ Wintering a ship ties up vessel, crew, and capital. Access to desirable goods al
 
 Damage or a missed return season can also lead to overwintering. A missed window increases the cost and uncertainty of departure but does not make every later westbound voyage physically impossible.
 
+%% Earlier discussion: [[Email - Green Sea Trade Routes]] explicitly allows long-term stays in Ursk's foreign trade enclaves, but also floats routine overwintering or alternate-year convoys. Those tentative schedules differ from the normal same-year return and exceptional overwintering adopted here. %%
+
 ## Halfling Itineraries 
 
 ### The annual eastern circuit
@@ -178,6 +194,8 @@ Capable halfling ships have another option: an early westward passage against un
 
 A variety of other routes are possible, of course, and especially halfling family ships should often extend a stay or change routes for relationships, obligations, and opportunities. The commercial contrast with scheduled Tollender voyages is a useful world building framing, but doesn't have to (and shouldn't) become a deterministic guide to all human or halfling merchant trips. 
 
+%% Halfling trading culture: the later replies in [[Email - Green Sea Trade Routes]] develop ancestral obligations, travel for its own sake, and freedom to change routes or linger when danger or opportunity arises. The opening section of [[Green Sea Brainstorming]] collects these ideas and contrasts them with Tollender contracts for regular deliveries. %%
+
 ## Regional networks
 *These are poorly developed in play and there is likely much more to be said here, especially about local and medium-distance trade, which must be common.*
 
@@ -189,7 +207,9 @@ While no other standard trade routes have been established, and most largely wai
 | Western Green Sea      | Direct Tollen–Ursk trade; Cymean exchange; links toward the peninsula and Irrla. | Several triangles or diamonds can overlap. Their vessels need not share an itinerary or all visit Tollen.    |
 | Southeastern Green Sea | Peninsula, Irrla, Medju, and selected Eastern Isles.                             | Substantial regional commerce with multiple circuits and winter bases; exact reciprocal windows remain open. |
 
-These connections allow goods to circulate farther than individual ships. A cargo can move west through successive exchanges while the ship that brought it to Irrla remains in southeastern trade. Some halfling families specialize in western connections, others in eastern waters, and others make longer journeys, consistent with [[Email - Green Sea Trade Routes]] and [[Green Sea Notes]].
+These connections allow goods to circulate farther than individual ships. A cargo can move west through successive exchanges while the ship that brought it to Irrla remains in southeastern trade. Some halfling families specialize in western connections, others in eastern waters, and others make longer journeys.
+
+%% Further regional development: [[Email - More Green Sea]] sketches overlapping eastern and western circuits and goods moving west through successive intermediaries; its proposed names and routes remain brainstorming. [[Trade Routes of the Green Sea and Sembara#Sembaran Trade Goods]] supplies more detailed ideas for the Western Gulf's cargoes and inland connections. %%
 
 ## Worked Calendars and Passage Budgets
 
