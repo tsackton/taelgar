@@ -13,4 +13,10 @@ Use the climatic baseline to develop seasonal landscapes and human activity, kee
 
 Start with [[Regional Climate Atlas]] for a place. Keep downstream consequences together under the relevant climatic pattern; they do not each need a separate row in [[Climate and Weather Constraints]].
 
+## Western coastal sailing
+
+Summer north–northwest winds along the exposed [[Coastlands]] favor southward sailing. Northbound passages use changing weather, tacking and local opportunities. Winter brings changing winds and greater storm exposure. Around [[Mawakel Peninsula|Mawakel]], summer lulls improve conditions, while ocean swell can persist after the local wind eases.
+
+The [[Gulf of Chardon]] offers more shelter than the open Apporian coast, though wind across the gulf can still raise rough water. Near southern [[Emerald Bay]], active monsoon spells bring west–southwest winds and squalls; quieter intervals can offer lighter or more easterly winds. Sailors crossing between the Nevos and Chardon therefore encounter several wind regimes along one route. See [[Western Ocean and Coast Circulation]] for the circulation and [[Climate of the Western Coast and Interior]] for regional conditions.
+
 Return to [[Climate and Environment]].

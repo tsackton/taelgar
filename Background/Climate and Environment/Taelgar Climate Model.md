@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [meta, status/check/ai]
 excludePublish: [all]
 ---
 # Taelgar Continental Climate Model 
@@ -160,7 +160,8 @@ The summer high brings regional drying, interrupted by occasional maritime showe
 
 | Area | Temperature | Moisture and seasonality |
 | --- | --- | --- |
-| [[Lake Valandros]] and [[Tawir Forest]] | A temperate transition between the milder southern basins and colder northern country. Summer warmth and winter cold increase away from maritime influence; the lake moderates its immediate shores. | Cool-season rain and upland snow, with summer dry intervals interrupted by maritime weather. Tawir retains particularly moist, foggy forest conditions. |
+| [[Lake Valandros]] | A temperate transition between the milder southern basins and colder northern country. Summer warmth and winter cold increase away from maritime influence; the lake moderates its immediate shores. | Cool-season rain and upland snow, with summer dry intervals interrupted by maritime weather. |
+| [[Tawir Forest]] | A temperate forest within the transition from milder southern basins to colder northern country. | Ordinary maritime rain throughout the year, including summer, sustains moist forest conditions with frequent fog. |
 | [[Crimson Forest]] and [[Elderwood]], within [[Ainumarya]] | Mild, predominantly rainy winters and moderate to warm summers across broad low foothills. Exceptional cold can bring brief snow; persistent cover belongs farther uphill. | Abundant winter and spring rain, followed by a regional summer rainfall minimum. Elven magic renews moisture within the forest through recurring mist, canopy drip, and damp soils, sustaining dense, green forest beside summer-dry valleys. |
 | [[Highveil Forest]] and adjoining inland forest approaches | Colder winters and greater seasonal contrasts, with snow persisting more readily on higher wooded foothills than on the Voltara plains. | Increasing Fiatara shelter and diminishing southern forest magic favor more open woodland and greater summer moisture stress. Exposed slopes receive more rain and snow than nearby sheltered ground. |
 | Farther-northern western forests | Increasingly continental conditions, with long, cold winters and shorter summers. Snow cover lasts longer toward the far north. | Summer rain can remain important despite lower overall moisture. Snow persistence need not imply greater snowfall everywhere; exposure and elevation govern accumulation. The [[Forest of Nightmares]] is a separate magical exception whose climate remains unresolved. |
@@ -176,7 +177,7 @@ The summer high brings regional drying, interrupted by occasional maritime showe
 | Area | Temperature | Moisture and seasonality |
 | --- | --- | --- |
 | [[Fiatara Mountains]] and [[Mawar Mountains]] | Cold uplands above more moderated coastal and inland districts. The highest Fiatara summits retain glaciers and extensive snow even in summer. | Substantial rain and snow on exposed western slopes, especially in the cool season; drier sheltered interiors. |
-| [[Voltara]] and the [[Erbalta Plains]] | Strongly continental seasons, with warm to hot summer days, cooler nights, and cold winters. Recurring thaws interrupt ordinary lowland snow cover around Voltara and southern Erbalta; severe winters can retain snow much longer. Farther north, cold spells lengthen and snow persists more readily. | Important late-spring and early-summer rains support productive grassland around Voltara, with less dependable rain later in summer. Winters are relatively dry, with limited snowfall. Stronger mountain shelter brings less dependable moisture and drier grazing country deeper into Erbalta. |
+| [[Voltara]] and the [[Erbalta Plains]] | Strongly continental seasons, with warm to hot summer days, cooler nights, and cold winters. Recurring thaws interrupt ordinary lowland snow cover around Voltara and southern Erbalta; severe winters can retain snow much longer. Foehn winds from the Fiatara contribute to the thaws. Farther north, cold spells lengthen and snow persists more readily. | Important late-spring and early-summer rains support productive grassland around Voltara, with less dependable rain later in summer. Winters are relatively dry, with limited snowfall. Stronger mountain shelter brings less dependable moisture and drier grazing country deeper into Erbalta. |
 
 %%^Campaign:none%%
 
