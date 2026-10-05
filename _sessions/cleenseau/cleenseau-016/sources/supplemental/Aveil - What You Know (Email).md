@@ -321,7 +321,7 @@ sooner.
 
 You are also welcome to plan your own route, you can go ~30 miles on the
 Great South Road (which, like some US highways, runs East - West despite
-its name) or ~20 miles on the Aveil Road (running North - South along the
+its name) or ~20 miles on the Old Veltor Road (running North - South along the
 Auberonne) each day.
 
 A third option would be to try to rush to Veltor (the seat of the baron) as
