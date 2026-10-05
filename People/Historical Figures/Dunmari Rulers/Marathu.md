@@ -30,12 +30,7 @@ Nayan Marathu was the samraat of [[Dunmar]] from DR 1729 until his death in DR 1
 
 After Sura’s disappearance, Marathu personally led the search for her and was killed in an orc ambush. He was succeeded by [[Nayan Karnas]].
 
-%% Sources:
-- [[Wellby]]
-- [[Delwath]]
-
-Chronology: DR 1729 is the adopted accession year, following [[Nayan Succession Crisis]]. The DR 1736 date in the older Wellby and Delwath accounts, and DR 1728 in this page’s former affiliation metadata, are superseded.
-%%
+%%SECRET[v2:0069ce67af8a202b6ff41b9722aab3ee]%%
 
 %%^Metadata:names:v1%%
 - {name: Nayan Marathu, language: Dunmari, pronunciation: NYE-ann muh-RAH-too, status: documented}
