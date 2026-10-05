@@ -19,11 +19,6 @@ POV: 1720
 
 Dame Elowen is the fey hostess of [[Orchard Close]] in [[Twilight's Grace]]. Welcoming, maternal, and kind, she seems to know every family, recipe, and guest, ensuring that no table lacks food or company. Her appearance is difficult to recall; visitors remember her warmth more clearly than her physical features.
 
-%% Sources:
-- [[Cleenseau - Session 35]]
-- [[Twilight's Grace People Ideas]]
-%%
-
 %%^Metadata:names:v1%%
 - {name: Dame Elowen, language: unknown, pronunciation: DAYM EL-oh-wen, status: documented}
 %%^End%%
