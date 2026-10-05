@@ -12,7 +12,10 @@ affiliations:
 knownTo: [clee]
 POV: 1720
 ---
-# Cadfael de Dufferin
+# Baron Cadfael de Dufferin
+>[!info]+ Biographical Info  
+> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Cadfael de Dufferin is a noble from [[Tyrwingha]], appointed Baron of [[Barony of Aveil|Aveil]] by [[Elaine II]] in DR 1720.
 
