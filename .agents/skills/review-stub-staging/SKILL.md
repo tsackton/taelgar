@@ -64,7 +64,7 @@ The vault prefers `gender` with header-derived default pronouns; add `pronouns` 
 
 Establish `tags: [place, ...]`, a supported `typeOf` from the live place classification in [[Note Categorization]], and a supported location or geographic context. Use `whereabouts` for a documented containing place; use `typeOfAlias` or other classification fields only when supported and appropriate. Do not apply person requirements such as species, human ancestry, gender, or mandatory `knownTo` to places.
 
-Check type-specific requirements in the live categorization and metadata specifications, including `linterMapRequiredPlaceTypes` and `Metadata:map:v1` when applicable. Preserve existing map metadata and ask for missing required locator information rather than inventing coordinates or geometry. Surface any remaining metadata gaps during review; a substantive base page need not claim a clean lint. This check does not authorize full linting or unrelated map conversion.
+Check type-specific requirements in the live categorization and metadata specifications, including `linterMapRequiredPlaceTypes` and `Metadata:map:v1` when applicable. Preserve existing map metadata. Add a new `Metadata:map:v1` section only when supported locators are known; omit the section when none are known, rather than creating blank locator entries or inventing coordinates or geometry. Missing locators do not block base-page completion, even for a place type that requires map metadata under the full linter; surface that remaining gap during review without claiming a clean lint. This check does not authorize full linting or unrelated map conversion.
 
 ### Name language and pronunciation (both categories)
 
