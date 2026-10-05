@@ -12,10 +12,10 @@ knownTo: [clee]
 >[!info]+ Biographical Info  
 > A goblin (he/him)
 
-Droog is a fat, oddly friendly goblin cook who speaks in loud whispers. He was formerly forced to prepare food for the redcaps at the [[Fortress of Ianto the Red]].
+Droog is a fat, oddly friendly goblin cook who speaks in loud whispers. He was forced to prepare food and serve the redcaps at the [[Fortress of Ianto the Red]].
 
-%%^Campaign:clee%%
-After [[Ianto|Ianto's]] death, Droog accompanied the [[Heroes of Cleenseau]] into the [[Grey Mists]], where the goblins became separated from the group.
+%%^Date:1720%%
+After the death of [[Ianto]], he fled and disappeared in the [[Grey Mists]] on the borders of [[Twilight's Edge|Serenveil’s realm]]. Whether he survived is not known.
 %%^End%%
 
 %% Sources:
