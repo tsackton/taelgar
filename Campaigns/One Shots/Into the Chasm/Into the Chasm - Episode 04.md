@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 4
 realWorldDate: 2026-01-08

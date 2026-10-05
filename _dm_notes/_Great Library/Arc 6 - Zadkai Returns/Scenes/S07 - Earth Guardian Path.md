@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Earth Guardian Path
 
 Zadkai presence: One team is here, and has made it to room C and attacked and killed the dao there. Currently trying to short rest before continuing to explore. 
