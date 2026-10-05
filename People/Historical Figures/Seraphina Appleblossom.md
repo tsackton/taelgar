@@ -25,6 +25,10 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+> [!image|right standard]
+> ![[seraphina-appleblossom-rooftop-mural.webp]]
+> *Seraphina at a rooftop celebration, preserved in a fragment of a mural from the Laughing Wave.*
+
 Seraphina Appleblossom was a halfling tavern-keeper who owned [[The Laughing Wave]] on the docks of [[Drankor]]. She grew up in the family inn and inherited it in DR 1020, continuing its traditions of hospitality, good food, and rooftop fireworks. She was known as an excellent cook.
 
 During [[Apollyon]]’s reign, Seraphina initially tried to remain neutral, welcoming dockworkers, fleeing families, and off-duty enforcers alike. Although she hated the spreading cruelty, she hoped that keeping her head down would protect her inn, staff, and patrons.
