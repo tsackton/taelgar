@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 campaignInfo:
   - {campaign: grli, type: met, date: 1747-07-04}
 gender: male
 name: Galius Filuso
+pronunciation: GAH-lee-us fee-LOO-soh
 affiliations:
   - {org: Order of Twilight, type: primary}
   - {org: The Night Queen, title: Priest}
@@ -21,6 +22,7 @@ dm_notes: color
 POV: 1740s
 ---
 # Galius Filuso
+*(GAH-lee-us fee-LOO-soh)*
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him), of the [[Order of Twilight]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
@@ -53,31 +55,9 @@ priest trying to restore order of twilight. based in Voltara. approx level 9. no
 %%
 
 %%^Metadata:names:v1%%
-- {name: Galius Filuso, language: Chardonian, pronunciation: GAH-lee-oos fee-LOO-soh, notes: "Proposed from Chardon's more Latinate Chardonian analogue: an open initial a, separately pronounced ius syllables, and a hard surname s; Italian-influenced speech could voice the surname s toward fee-LOO-zoh. Exact in-world phonology is not established.", status: proposed}
+- {name: Galius Filuso, language: Chardonian, pronunciation: GAH-lee-us fee-LOO-soh, notes: "Proposed from Chardon's more Latinate Chardonian analogue: an open initial a, separately pronounced ius syllables, and a hard surname s; Italian-influenced speech could voice the surname s toward fee-LOO-zoh. Exact in-world phonology is not established.", status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a late-1740s portrait after Galius's DR 1747 restoration work, with his activity in Voltara continuing into DR 1748; his later state is not established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter ordering and collection formatting.
-- Added `knownTo: [grli]` and normalized the Great Library code in `campaignInfo` and the campaign header block.
-- Added persistent `Metadata:names:v1` metadata with a Chardonian language assignment and an analogue-derived pronunciation proposal.
-- Added `POV: 1740s` and a `povNotes:v1` block describing the article as a late-1740s portrait.
-
-### Validated judgments
-- Confirmed local evidence supports the positive `dm_notes: color` attestation; no private content is reproduced here.
-- `status/gameupdate/gl` is not assessable from the established evidence reviewed and was preserved.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The new `Metadata:names:v1` entry proposes `GAH-lee-oos fee-LOO-soh` from Chardon's more Latinate Chardonian analogue: an open initial *a*, separately pronounced *ius* syllables, and a hard surname *s*. Italian-influenced speech could voice the surname *s* toward `fee-LOO-zoh`, and exact in-world phonology is not established. If the proposal is accepted, add `pronunciation: GAH-lee-oos fee-LOO-soh` to frontmatter and change the entry to `status: documented`; otherwise revise the pronunciation and derivation note.
-
-### DM evidence
-- [[_DM_/Timelines/Old Timeline (Table)]]
-- [[_DM_/Timelines/Unified Timeline From OneNote]]
 %%^End%%
