@@ -35,7 +35,7 @@ When the Golden Age ended in civil war, and the [[Omnis Pura]] came to power, th
 He was partially awakened from his imprisonment in the spring of 1748, by three Chardonians: [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]] (who died in the tower). He was later freed by [[Dunmar Fellowship]], and vanished into the winds. 
 
 
-%%SECRET[v2:2fa34eba812d0e09fdbf7fc0eb1e7b2d]%%
+%%SECRET[v2:3a17420ce995b815e4e597c7b2e19a5a]%%
 
 %%^Metadata:names:v1%%
 - {name: Hralgar, language: Giant, pronunciation: HRAL-gar, status: documented, notes: "Pronunciation and language recorded in the Hralgar component entry of [[Hralgar's Eyes Vision]]."}
