@@ -24,7 +24,11 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[AntoniusPatrius.png|right|300]]Antonius Patrius was a Drankorian temple administrator, dedicated to the Father, who was captured by [[Apollyon]] and sacrificed in DR 1053, his soul bound as part of the ritual to construct [[Apollyon's Phylactery]]. He vanished in DR 1051, captured by Apollyon's loyal servants on a stormy night as he was returning to the [[Temple of the Eight Divines]] in [[Drankor]] after helping a group of halflings flee the city. His fate was unknown for many centuries, until the [[Dunmar Fellowship]] ventured to [[Drankor]] to defeat [[Apollyon]].
+> [!image|right standard]
+> ![[antonius-patrius-book-of-martyrs.webp]]
+> *Antonius Patrius, illuminated portrait from the [[Book of Martyrs of the Radiant Path]].*
+
+Antonius Patrius was a Drankorian temple administrator, dedicated to the Father, who was captured by [[Apollyon]] and sacrificed in DR 1053, his soul bound as part of the ritual to construct [[Apollyon's Phylactery]]. He vanished in DR 1051, captured by Apollyon's loyal servants on a stormy night as he was returning to the [[Temple of the Eight Divines]] in [[Drankor]] after helping a group of halflings flee the city. His fate was unknown for many centuries, until the [[Dunmar Fellowship]] ventured to [[Drankor]] to defeat [[Apollyon]].
 
 His story is recorded in the [[Book of Martyrs of the Radiant Path]], a hidden record and memorial kept by the priests of the [[Radiant Path]] of those disappeared and taken during Apollyon's reign. His story was retold by the [[Dunmar Fellowship]], after they recovered the Book of Martyrs from [[Drankor]] and defeated [[Apollyon]]. 
 

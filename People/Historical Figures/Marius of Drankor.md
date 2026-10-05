@@ -21,6 +21,10 @@ POV: 1749
 > A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
+> [!image|right standard]
+> ![[marius-of-drankor-book-of-martyrs.webp]]
+> *Marius of Drankor, illuminated portrait from the [[Book of Martyrs of the Radiant Path]].*
+
 Marius of Drankor was a young Drankorian singer whose songs comforted worshippers at the [[Temple of the Eight Divines]] during [[Apollyon]]’s persecution. Born in DR 1034 to a family devoted to the Eight Divines, he grew up among the temple’s faithful and continued singing at secret religious gatherings.
 
 In DR 1050, at sixteen, Marius led *The Hymn of the Dawn* at a forbidden prayer gathering. As he and five companions left the temple, enforcers of the [[Omnis Pura]] ambushed them. He fought to give the others a chance to escape, but was captured.

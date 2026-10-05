@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T21:26:49-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person, status/check/tim, status/check/ai]
 species: human
 ancestry: Drankorian
 gender: female
@@ -22,6 +22,10 @@ POV: 1749
 > A [[Drankorian Empire|Drankorian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+> [!image|right standard]
+> ![[floria-of-aphasium-book-of-martyrs.webp]]
+> *Floria of Aphasium, illuminated portrait from the [[Book of Martyrs of the Radiant Path]].*
 
 Floria of Aphasium was a wealthy Drankorian supporter of the [[Radiant Path]]. Her family’s fortune came from her father’s silversmithing and her mother’s agricultural holdings in the western hinterlands. She spent much of her youth at the family’s coastal villa.
 
