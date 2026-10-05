@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 x# Water Guardian Path
 
 Zadkai presence: no teams have explored this path yet, at least when the adventure begins. 
@@ -96,6 +99,7 @@ Guardian fight. Immediately hostile.
 Variant of https://www.dndbeyond.com/monsters/4485829-durixaviinox that loses flight, hoarfrost. 
 
 long snakelike thing of ice. Breath Weapon is smashing tail against ground causing ice to erupt, it is a 30 foot radius cloud. 
+Use the prepared custom stat block for the breath weapon's exact area and targeting.
 initiative +8
 villian action 2 summons a snow monster but keep statblock
 
