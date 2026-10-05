@@ -22,7 +22,7 @@ POV: 1720
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[geoffrey-save.png|right|320]]A compatriot of [[Rinault Essford|Rinault]], his family came to [[Cleenseau]] when he was a young boy as part of [[Wymar Essford|Wymar's]] efforts to attract a larger market population. Recently inherited a thriving brewery and bakehouse from his parents at an unexpectedly young age, and also a significant landlord in [[Underhill]]. 
+![[geoffrey-save.png|right|320]]A compatriot of [[Rinault Essford|Rinault]], his family came to [[Cleenseau]] when he was a young boy as part of [[Wymar Essford|Wymar's]] efforts to attract a larger market population. Recently inherited a thriving brewery and bakehouse from his parents at an unexpectedly young age, and is also a significant landlord in [[Underhill]]. 
 
 His wife Annabelle has been ill frequently, and miscarried twice recently. Geoffrey has spent much time with [[Rinault Essford|Rinault]] instead of caring for his holdings, and often talks about how his family is cursed, although his cousin Roland is thriving in [[Beury]].
 

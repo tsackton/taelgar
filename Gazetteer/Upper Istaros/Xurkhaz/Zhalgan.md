@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "the"}
-tags: [place, status/check/name, status/check/tim]
+tags: [place, status/check/name]
 typeOf: topographic feature
 typeOfAlias: line of hills
 name: Zhalgan
@@ -15,8 +15,6 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% @check/tim : Anything to add/change? %%
 
 The Zhalgan are a line of rugged hills along the northern and northeastern borders of [[Xurkhaz]].
 

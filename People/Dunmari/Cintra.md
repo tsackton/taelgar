@@ -37,7 +37,7 @@ Raised in Karawa, Cintra is a powerful spellcaster with a deep faith in Shakun a
 Her daughter, [[Jumi]], is a magical prodigy strongly blessed by Shakun. Cintra is fiercely devoted to her; Jumi’s safety is the one concern she puts before even her responsibility to the people of [[Dunmar]].
 
 %%^Date:1748-06-01%%
-In February DR 1748, Cintra left [[Karawa]] with the [[Heart of Shakun]], seeking healing for [[Jumi]] after dreams she believed came from the goddess, but were actually a trick of the hag [[Agata|Agata Dustmother]]. [[Agata]] took Jumi hostage and held Cintra at [[Shakun’s Wellspring]] under [[Samerki]]’s watch, while the Heart’s absence weakened Dunmar’s border protections. When the [[Dunmar Fellowship]] reached her, Cintra helped conceal them and diverted Samerki with illusions and a bluff. After the Fellowship defeated Agata and freed Jumi, Cintra returned to Karawa with her daughter and the Heart on [[Session 29 (DuFr)|June 1, 1748]].
+In February DR 1748, Cintra left [[Karawa]] with the [[Heart of Shakun]], seeking healing for [[Jumi]]. She had dreamed for many days that Jumi was sick with a silent illness that would kill her in weeks, or months, dreams she believed came from Shakun; they were actually a trick of the hag [[Agata|Agata Dustmother]]. [[Agata]] took Jumi hostage and held Cintra at [[Shakun’s Wellspring]] under [[Samerki]]’s watch, while the Heart’s absence weakened Dunmar’s border protections. When the [[Dunmar Fellowship]] reached her, Cintra helped conceal them and diverted Samerki with illusions and a bluff. After the Fellowship defeated Agata and freed Jumi, Cintra returned to Karawa with her daughter and the Heart on [[Session 29 (DuFr)|June 1, 1748]].
 %%^End%%
 
 %% DM

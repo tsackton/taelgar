@@ -31,7 +31,7 @@ POV: 1720
 
 ![[beatrix.png|right|320]]A soldier in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she distinguished herself during the [[Undead Attacks in Sembara]] and other troubles around Cleenseau in the fall of 1719.
 
-In November 1720, she married [[Gabriel Thorne]],, after which she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]]. She was made sheriff after the death of [[Ysabel]] during the [[Undead Attacks in Sembara]].
+In November 1720, she married [[Gabriel Thorne]], after which she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]]. She was made sheriff after the death of [[Ysabel]] during the [[Undead Attacks in Sembara]].
 
 Her [[Gideon Thorne|father-in-law]] is the chief yeoman of [[Auloutte]].
 
