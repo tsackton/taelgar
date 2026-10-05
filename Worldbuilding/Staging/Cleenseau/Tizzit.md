@@ -1,0 +1,1 @@
+%% Tizzit was a kobold leader among Krauzeth's followers who favored strengthening the dragon cautiously; the party killed her in his lair on July 5, DR 1720. See [[Cleenseau - Session 29]] and [[Cleenseau - Session 30]]. %%
