@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: realm
 created: 1651
 whereabouts: Barony of Aveil

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [religion/kestavo, background, status/check/mike, status/gameupdate/chasm, status/check/lint]
+tags: [religion/kestavo, background, status/check/mike, status/check/lint, status/review]
 typeOf: religion
 name: Kestavo
 pronunciation: kes-TA-voh

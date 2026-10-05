@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/dufru, status/gameupdate/gl]
+tags: [group, status/gameupdate/dufr, status/gameupdate/gl]
 displayDefaults: {partOf: "", defArt: "the"}
 typeOf: family
 typeOfAlias: chalyte oligarch family

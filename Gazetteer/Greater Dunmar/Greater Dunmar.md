@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip, status/check/ai]
+tags: [place, status/wip]
 displayDefaults: {defArt: '' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
