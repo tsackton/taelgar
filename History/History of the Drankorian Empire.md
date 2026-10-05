@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 aliases: [Drankorian Era]
 dm_owner: tim
 dm_notes: important
@@ -62,10 +62,23 @@ Corruption and darkness grew in the shadows during the Golden Age. The age of pe
 ## Dominion and Downfall
 _DR 997 - DR 1059_
 
-After the victory of [[Omnis Pura]] in the Drankorian Civil War, the Empire gradually grew darker and darker, until in the end the full might of imperial power was turned to raising [[Apollyon]] to godhood, only to see defeat at the last second from a magical plague that spread through the heartlands of the empire destroying nearly everyone it touched. 
+After the victory of [[Omnis Pura]] in the Drankorian Civil War, imperial rule grew increasingly oppressive. [[Apollyon]], who took the throne in DR 1011, intensified the persecution of non-human peoples and religious dissidents, including the systematic slaughter of the peronar. He gathered powerful relics, using the [[Cloak of Rainbows]] to overcome the divine protections of [[Rostaure|Rostaurë]] and the [[Scepter of Command]] to compel obedience from his armies. In the end, the full might of imperial power was turned to raising Apollyon to godhood, only for his attempt to end in catastrophe as the [[First Plague]] spread through the heartlands of the empire, destroying nearly everyone it touched.
 
 - (DR:: 1001) - (DR_end:: 1013): The Dominion Wars, a series of attempted conquests to the east
-- (DR:: 1059): The destruction of [[Drankor]] by the [[First Plague]]. 
+- (DR:: 1011): [[Apollyon]] becomes emperor of Drankor.
+- (DR:: 1050): Apollyon attacks the [[People of the Rainbow]] and steals the [[Cloak of Rainbows]].
+- (DR:: 1051): Apollyon sacks Estemar and destroys [[Rostaure|Rostaurë]], using the Cloak to overcome the realm's divine protections.
+- (DR:: 1053): Apollyon creates the [[Scepter of Command]] on the [[Circular Island]].
+- (DR:: 1059): The destruction of [[Drankor]] by the [[First Plague]].
+
+%% Sources:
+- [[Vision of Ulfgar's research]]
+- [[Session 87 (DuFr)]]
+- [[Radiant Path]]
+- [[Scepter of Command Vision]]
+%%
+
+%%SECRET[v2:7f6b3b12ea3bb3064eb21cfcadc6d9d2]%%
 
 # Rulers
 
