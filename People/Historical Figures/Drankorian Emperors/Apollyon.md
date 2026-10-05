@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
-tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint, status/check/ai]
 species: undead
 subspecies: lich
 campaignInfo: []
@@ -30,7 +30,12 @@ POV: modern
 
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [[Scepter of Command]], and perhaps other artifacts of power. Was a very successful general and commander. 
 
-Originally allied with [[Cha'mutte]], although towards the end of his reign this relationship turned to conflict and when he died, he was imprisoned and prevented from resurrection by [[Cha'mutte]]. 
+Originally allied with [[Cha'mutte]], Apollyon later became his enemy. During the [[Fall of Drankor]] in DR 1059, he drank a prepared potion of transformation, becoming a lich and surviving the destruction of the city. Cha'mutte imprisoned him in [[Apollyon's Temple]].
+
+%% Sources:
+- [[Crown of Purity Vision]]
+- [[Session 87 (DuFr)]]
+%%
 
 %%^Metadata:names:v1%%
 - {name: Apollyon, language: unknown, pronunciation: ah-pol-LEE-on, status: documented}

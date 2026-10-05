@@ -2,10 +2,10 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T18:12:37-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person, status/check/tim, status/check/ai]
 species: halfling
 gender: female
-died: 1049
+died: 1053
 name: Seraphina Appleblossom
 pronunciation: sehr-uh-FEE-nuh AP-uhl-bloss-um
 affiliations:
@@ -31,13 +31,13 @@ During [[Apollyon]]’s reign, Seraphina initially tried to remain neutral, welc
 
 In DR 1049, she hosted a farewell celebration for halfling families preparing to flee the city. Drawn by the noise and rooftop fireworks, the Omnis Pura raided the inn. Seraphina shielded children and urged guests to escape through the back alleys, but was captured alongside several of the families. The Laughing Wave was ransacked and abandoned.
 
-Seraphina was one of seven people sacrificed by Apollyon whose souls were bound into [[Apollyon's Phylactery|his phylactery]]. Her soul remained trapped until DR 1749, when it was freed in the [[Land of the Dead]] and allowed to pass on.
+Seraphina remained captive until DR 1053, when she was one of seven people sacrificed by Apollyon whose souls were bound into [[Apollyon's Phylactery|his phylactery]]. Her soul remained trapped until DR 1749, when it was freed in the [[Land of the Dead]] and allowed to pass on.
 
 %% Sources:
 - [[Session 113 (DuFr)]]
 - [[Session 115 (DuFr)]]
 - [[_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-source-prepared]] (u1907–u1909: her reputation as a cook)
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls]] (backstory approved for incorporation)
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls]] (backstory approved for incorporation; death revised to DR 1053 as part of the approved joint chronology of the seven souls)
 %%
 
 %%^Metadata:names:v1%%
@@ -45,5 +45,5 @@ Seraphina was one of seven people sacrificed by Apollyon whose souls were bound 
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: retrospective account of Seraphina’s life in Drankor through DR 1049, with a separate account of her soul’s release in DR 1749.
+Temporal coverage: retrospective account of Seraphina’s life and captivity through her death in DR 1053, with a separate account of her soul’s release in DR 1749.
 %%^End%%
