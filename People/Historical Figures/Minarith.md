@@ -1,7 +1,49 @@
 ---
-tags: [status/stub, person]
+headerVersion: 2023.11.25
+lintedAt: "2026-10-05T08:00:45-04:00"
+lintVersion: "3.5"
+tags: [person, status/check/tim]
 species: elf
-subspecies: peronar
+ancestry: Peronar
+gender: male
+died: 1048
+name: Minarith
+pronunciation: MIH-nah-rith
+affiliations:
+  - {org: University of the Blessed Waters, title: Faculty, end: 1048}
+whereabouts: Drankor
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
+POV: 1749
 ---
+# Minarith
+*(MIH-nah-rith)*
+>[!info]+ Biographical Info  
+> A [[Peronar]] [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+Minarith was an unassuming peronar scholar of natural philosophy, faculty at the [[University of the Blessed Waters]] in [[Drankor]]. He was a natural historian, and cared deeply about his work cataloging the flora, fauna, and geological features of the Empire. While his colleagues in the magical sciences explored grand arcane theories and wielded power that could reshape reality, Minarith preferred the quiet rigor of studying the mundane.
+
+As [[Apollyon]]’s persecution intensified, Minarith remained at the university, choosing to stay in Drankor while others began to flee, hoping his political neutrality and the obscurity of his studies would protect him. It did not.
+
+In DR 1048, the [[Omnis Pura]] raided the university. Fearing capture, Minarith wrote an Elvish letter to [[Maglar]], acknowledging that his hope had failed, and urging Maglar to flee, but did not send it before he was arrested, alongside other non-human academics. Taken to the Grand Crucible for execution, he was instead removed from the condemned by Omnis Pura agents and delivered to Apollyon. He was subsequently sacrificed in DR 1048, becoming one of seven souls bound into [[Apollyon's Phylactery]].
+
+On DR 1749-05-24, his soul was freed in the [[Land of the Dead]], allowing him to pass on.
+
+%% Sources:
+- [[Session 113 (DuFr)]]
+- [[Session 114 (DuFr)]]
+- [[Session 115 (DuFr)]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls]] (backstory approved for incorporation; death dated to DR 1048 by human confirmation)
+%%
+
+%%^Metadata:names:v1%%
+- {name: Minarith, language: Elvish, pronunciation: MIH-nah-rith, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: after DR 1749-05-24, when Minarith’s soul was freed in the Land of the Dead; the article looks back on his life and death from that point.
+%%^End%%
