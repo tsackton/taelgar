@@ -2,19 +2,21 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Chardonian
 born: 916
 died: 997
 gender: male
 name: Gaius Devarro
+pronunciation: GUY-oos deh-VAHR-roh
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
 POV: modern
 ---
 # Gaius Devarro
+*(GUY-oos deh-VAHR-roh)*
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
@@ -24,25 +26,9 @@ Gaius Devarro was a Chardonian metaphysical cosmologist, widely recognized as th
 Gaius wrote widely on many planar topics, including on [[Limbo]], [[Ley Lines]], [[Echo Realms]], and the broader structure of the [[Multiverse]]. His works include [[On Minds and Chaos]] and [[An Exploration of Magical Connections Between the Planes]].
 
 %%^Metadata:names:v1%%
-- {"name": "Gaius Devarro", "language": "unknown", "pronunciation": "GUY-oos deh-WAHR-roh", "notes": "Proposal using the Latinate naming preference for Chardon in [[Languages]]: Gaius with hard g, ai as eye, and final us as oos; Devarro with v as w, doubled r, and penultimate stress. An Italian-influenced reading would retain v. The exact name language and in-world vowel quantities are unrecorded.", "status": "proposed"}
+- {"name": "Gaius Devarro", "language": "unknown", "pronunciation": "GUY-oos deh-VAHR-roh", "notes": "Proposal using the Latinate naming preference for Chardon in [[Languages]]: Gaius with hard g, ai as eye, and final us as oos; Devarro with v retained, doubled r, and penultimate stress. The retained v follows an Italian-influenced reading. The exact name language and in-world vowel quantities are unrecorded.", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern retrospective account of Gaius’s life and surviving scholarly reputation; his writings are historical sources rather than a current-life snapshot.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Corrected “wrote wildly” to “wrote widely” in the account of his range of scholarly topics.
-- Added an explicit `name`, `knownTo: [dufr]` from the Tollen research recorded in [[Interlude (Preparations for Limbo)]], and a proposed pronunciation in the name block.
-- Added modern retrospective POV metadata and normalized frontmatter.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `GUY-oos deh-WAHR-roh` using [[Languages]]’ preference for Latinate names in Chardon: hard `g`, `ai` as “eye,” final `us` as “oos,” `v` as /w/, doubled `r`, and penultimate stress in Devarro. The Italian alternative would retain /v/; exact in-world phonology is unrecorded. Confirm or replace the proposal; if accepted, copy it to frontmatter `pronunciation` and mark the entry `documented`.
 %%^End%%
