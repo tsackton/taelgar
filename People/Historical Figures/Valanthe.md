@@ -25,6 +25,10 @@ POV: modern
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+> [!image|right standard]
+> ![[valanthe-book-of-martyrs.webp]]
+> *Valanthe, illuminated portrait from the [[Book of Martyrs of the Radiant Path]].*
+
 Valanthe was an elven bard and playwright of the 32nd ka, born in [[Rostaure|Rostaurë]]. She came to [[Drankor]] in DR 948, during her first leya and the reign of [[Helea]]. By the time [[Apollyon]] came to power in DR 1011, she was a bard of renown. Her magic drew on the power of her oratory and the cunning of her words.
 
 Under Apollyon’s rule, her art turned toward resistance. Her satirical plays, often performed in secret, mocked the emperor, the [[Ashen Cloaks]], and the [[Omnis Pura]]. Pamphlets carrying her words circulated widely. Her work became a rallying cry for the [[Radiant Path]] and [[Fides Lucaris]], although she formally joined neither movement.

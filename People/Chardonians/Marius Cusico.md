@@ -28,9 +28,22 @@ Marius had been secretly controlled by [[Fausto]] through the [[Crown of Purity]
 %%^End%%
 
 %% Sources:
+
 - [[Session 116 (DuFr)]]
 - [[Session 126 (DuFr)]]
 - [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics]] (former mageguard background and compromise appointment approved for incorporation)
+
+Marius was a mentor to [[Mitus Verina Auratan]] in Mitus’s youth.
+Confirmed DM sources supporting `dm_notes: important`:
+
+- [[_DM_/Timelines/Apollyon Endgame Timeline]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 116 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 126 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Politics - ChatGPT Summary]]
+
 %%
 
 %%^Metadata:names:v1%%
