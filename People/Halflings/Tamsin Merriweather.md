@@ -2,12 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: halfling
 gender: female
 name: Tamsin Merriweather
 affiliations:
   - {org: Merriweathers, type: primary}
+whereabouts:
+  - {type: away, location: Asineau, start: 1720-05-08, end: 1720-05-16}
 knownTo: [clee]
 POV: 1720s
 ---
@@ -16,7 +18,7 @@ POV: 1720s
 > A [[Halflings|halfling]] (she/her), of the [[Merriweathers]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-Tamsin Merriweather is [[Tobin Merriweather|Tobin's]] talkative niece and a member of the [[Merriweathers|Merriweather]] trading caravan. She accompanied the caravan to [[Asineau]] in May DR 1720.
+Tamsin Merriweather is [[Tobin Merriweather|Tobin's]] talkative niece and a member of the [[Merriweathers|Merriweather]] trading caravan.
 
 %%^Metadata:names:v1%%
 - {name: Tamsin Merriweather, language: unknown}
