@@ -3,7 +3,29 @@ import json
 import os
 from pathlib import Path
 import subprocess
-from regenerate_header import replace_header
+import yaml
+from regenerate_header import frontmatter, replace_header
+
+
+class FrontmatterDiscoveryTests(unittest.TestCase):
+    def test_opening_horizontal_rule_is_not_frontmatter(self):
+        text = '---\n## Pre-campaign notable events\n\nTimeline content.\n'
+        self.assertEqual(frontmatter(text, required=False), (None, {}))
+
+    def test_closed_frontmatter_is_still_read(self):
+        text = '---\nname: Example\naliases: [Alternate]\n---\n# Example\n'
+        self.assertEqual(frontmatter(text, required=False)[1],
+                         {'name': 'Example', 'aliases': ['Alternate']})
+
+    def test_invalid_closed_frontmatter_still_fails(self):
+        with self.assertRaises(yaml.YAMLError):
+            frontmatter('---\nname: [unfinished\n---\n', required=False)
+        with self.assertRaisesRegex(ValueError, 'must be a mapping'):
+            frontmatter('---\n- not a mapping\n---\n', required=False)
+
+    def test_target_note_still_requires_frontmatter(self):
+        with self.assertRaisesRegex(ValueError, 'Expected YAML frontmatter'):
+            frontmatter('---\n# Article without frontmatter\n')
 
 
 class HeaderPreservationTests(unittest.TestCase):

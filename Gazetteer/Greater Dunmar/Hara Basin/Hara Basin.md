@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map, status/check/ai]
+tags: [place, status/cleanup/map]
 typeOf: region
 whereabouts: Greater Dunmar
 dm_notes: important
@@ -23,6 +23,7 @@ The [[Hara]] is the principal river of the region, exiting the basin through the
 Monsoon‑driven rains fall primarily June–September, with some year-to-year variation. The rains are strongest in the west and north. The southern and eastern basin lies in deep rain shadow, with patchy or unreliable precipitation. Short green seasons alternate with long, dusty months.
 
 ## Subregions
+
 ![[hara-basin-2.png|right|600]]In the northwest, the [[Songara Plains]] extend in a broad arc from the [[Chataan Mountains]] to [[Songara]] to the upper reaches of the [[Hara]]. These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [[Sone]], fed by snowmelt in the Sentinels and the [[Chataan Mountains]], flows northeast through the [[Songara Plains]], until it joins the [[Hara]] north of [[Tokra]].
 
 The center of the Hara Basin is a region of varied terrain and climate. North of Tokra, the [[Varashan]] occupy a broad swath on both sides of the [[Hara]], just south of the confluence with [[Thandar]]. This region is not as wet as the [[Songara Plains]]: nearly all the rain that falls here falls between June and October, during the monsoon season. 

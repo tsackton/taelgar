@@ -11,9 +11,11 @@ import sys
 import yaml
 
 
-def frontmatter(text):
+def frontmatter(text, *, required=True):
     match = re.match(r"\A---\r?\n(.*?)\r?\n---(?:\r?\n|$)", text, re.S)
     if not match:
+        if not required:
+            return None, {}
         raise ValueError("Expected YAML frontmatter at the top")
     metadata = yaml.safe_load(match.group(1))
     if not isinstance(metadata, dict):
@@ -88,7 +90,7 @@ def main():
                 continue
             source = Path(directory) / name
             raw = source.read_text(encoding="utf-8")
-            fm = frontmatter(raw)[1] if raw.startswith("---\n") else {}
+            fm = frontmatter(raw, required=False)[1]
             files.append({"path": source.relative_to(root).as_posix(), "basename": source.stem, "frontmatter": fm})
     payload = {"root": str(root), "files": files, "name": note.stem, "metadata": metadata, "date": date}
     result = subprocess.run(["node", str(Path(__file__).with_name("render_header.js"))],
