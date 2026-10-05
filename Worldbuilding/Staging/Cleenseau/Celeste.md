@@ -1,1 +1,0 @@
-%% Skilled warrior from Rinburg %%
