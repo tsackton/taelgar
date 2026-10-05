@@ -1,7 +1,7 @@
 ---
 name: Cleenseau Campaign - Timeline
 timelineDescriptor: Cleenseau Campaign
-tags: [meta, status/check/ai]
+tags: [meta]
 typeOf: timeline
 ---
 

@@ -1,7 +1,4 @@
----
-tags: [status/check/ai]
----
-x# Water Guardian Path
+# Water Guardian Path
 
 Zadkai presence: no teams have explored this path yet, at least when the adventure begins. 
 

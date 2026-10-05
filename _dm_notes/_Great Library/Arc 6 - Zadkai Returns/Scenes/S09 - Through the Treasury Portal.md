@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Through the treasury portal
 
 There are three possible options here, depending on how the party proceeds and how well they do.
