@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: topographical feature
 typeOfAlias: mountain range
 name: Pekul Mountains
