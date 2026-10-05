@@ -1,3 +1,6 @@
+---
+tags: [status/check/ai]
+---
 # Earth Guardian Path
 
 Zadkai presence: One team is here, and has made it to room C and attacked and killed the dao there. Currently trying to short rest before continuing to explore. 
@@ -43,16 +46,16 @@ Can see down into the center, where a large crystal blob sits. Might be able to 
 
 Big room. Patrol is here, taking a short rest. Depleted - main danger is they will run and warn Zadkai. Should immediately move to run out of the corridor, using gaseous form (djinn). The challenge here is not the combat, which is easy bordering on trivial. It is stopping the escape. 
 
-One djinn, wounded to 50% health. 
+One djinn, wounded to 50% health; cannot cast Plane Shift.
 One air elemental, wounded to 75% health
 Maybe one more air creature.
 6 air sparks
 
-There are four earth gemhearts that support the crystal growth below. Four stone pillars come up to about 4 feet and descend into the ceiling. Runes on the top.
+The engine supports the crystal growth below. Four stone pillars come up to about 4 feet and descend into the ceiling. Runes on the top.
 
 Investigation reveals they slide. Can pull them up (400 pounds each - Athletics or just allow it if someone can lift 400 pounds), though maybe still a check to avoid hurting yourself (or Str save or Althetics (CON)). 
 
-Three have earth gemhearts on the bottom. THe fourth has an empty socket - something has fallen out. 
+Two have earth gemhearts on the bottom; the other two sockets are empty. One gemheart is easy to notice; the second requires a check against a hard DC. Removing the engine gemhearts does not affect the guardian fight.
 
 Can see the geode room below from here as well if look through the holes. 
 
@@ -74,7 +77,7 @@ Earth crystals cover the inside of the massive geode. Paths wind between them un
 Start with **12 earth sparks and 2 gem jellies**, emerging from the spokes to attack approaching characters. The fixed defenders total approximately **17,080 XP**, close to the 18,000 XP target; this excludes the central crystal, its lair action, and the summoned rock swarms.
 
 - [Earth Spark](https://www.dndbeyond.com/monsters/4485830-earth-spark)
-- [Gem Jelly](https://www.dndbeyond.com/monsters/4485849-gem-jelly)
+- [Gem Jelly](https://www.dndbeyond.com/monsters/4485849-gem-jelly): each contains one earth gemheart.
 - **Rock swarms:** use the [Ogre Goon](https://www.dndbeyond.com/monsters/4485960-ogre-goon) minion stat block, reskinned as animated rocks.
 
 ### Central crystal
@@ -96,7 +99,7 @@ Treat the crystal as an immobile construct. It has its own turn, with **+0 initi
 
 **Lair action — Rock Swarms.** On **initiative count 20, losing ties, starting in round one**, summon **10 rock swarms** from the central crystal. The swarms act on **initiative count 10**, including the round they appear.
 
-**Destruction.** When the crystal reaches 0 HP, spawning stops and all remaining defenders become inert. The party can recover the earth key attached to the crystal.
+**Destruction.** When the crystal reaches 0 HP, spawning stops and all remaining defenders become inert. The party can recover the earth key attached to the crystal and one earth gemheart from within it.
 
 ### Running the fight
 
@@ -112,7 +115,7 @@ A failed assault followed by retreat could give Zadkai's minions an opening to s
 
 ## Treasure
 
-Gemheart allocation: expect the party to find 4 usable earth gemhearts, with a maximum of 5 if they find an optional extra. Exact placements remain to be designed.
+Gemheart allocation: expect the party to find 4 usable earth gemhearts, with a maximum of 5. Two are in the engine (one easy to notice, one requiring a check against a hard DC), one is in the central fight crystal, and one is in each of the two gem jellies.
 
 **Earth gemheart**:  
 A glowing green emerald, swirling with dust and tiny crystals. As an action, can crack gem and breathe the dust inside. Body transforms into living stone; effects last for 1 hour, and don't require attunement. Only one elemental gemheart can be active on you at a time; activating another ends the previous gemheart's effects.
