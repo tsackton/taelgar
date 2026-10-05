@@ -21,6 +21,10 @@ POV: modern
 > A [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
+> [!image|right standard]
+> ![[khemut-ledger-ink-sketch.webp]]
+> *An ink sketch of Khemut, recovered among the magically preserved shipping records in Drankor’s Custom House.*
+
 Khemut of Targu was a human sailor and tea merchant who sailed aboard the *Selem Shurga* (“Sword of the Wind”). She grew up in Targu, an island port in the distant archipelagos of the [[Far South]]. Her ship brought spices and tea to [[Drankor]] in exchange for magic and silver.
 
 During a visit to Drankor in DR 1043, Khemut disappeared after a night of drinking. She was last seen leaving the Bubbling Tankard, where she had been celebrating a bonus from her ship’s quartermaster. She never returned to the *Selem Shurga*.
