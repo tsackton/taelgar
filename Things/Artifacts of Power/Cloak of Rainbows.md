@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, testcase, status/cleanup/metadata]
+tags: [object, testcase, status/cleanup/metadata, status/check/ai]
 campaignInfo:
 created: 917
 subTypeOf: magical
@@ -10,7 +10,8 @@ typeOf: cloak
 rarity: unique
 whereabouts:
 - {type: home, end: 917, location: Cloudspinner}
-- {type: home, end: 1059, location: People of the Rainbow}
+- {type: home, end: 1050, location: People of the Rainbow}
+- {type: home, start: 1050, end: 1059, location: Apollyon}
 - {type: home, location: Lubash}
 dm_notes: important
 dm_owner: tim
@@ -26,7 +27,7 @@ dm_owner: tim
 
 ![[rainbow-cloak-v2.jpg|right|300]]The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [[Cloudspinner]], and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate. 
 
-[[Cintra]] believed [[Agata]] was searching for it, and had heard it was supposedly created by [[Apollyon]], but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [[People of the Rainbow]]. It was originally a gift to allow these orcs to live free of [[Thark]]'s gaze. It was stolen by [[Apollyon]], and then lost, and [[Letter from Govir|rediscovered]] by the Dunmari in the years before the Great War, only to be lost again during the Great War. 
+[[Cintra]] believed [[Agata]] was searching for it, and had heard it was supposedly created by [[Apollyon]], but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [[People of the Rainbow]]. It was originally a gift to allow these orcs to live free of [[Thark]]'s gaze. It was stolen by [[Apollyon]] in DR 1050, and then lost, and [[Letter from Govir|rediscovered]] by the Dunmari in the years before the Great War, only to be lost again during the Great War.
 
 Now, it is worn by the chiefs of [[Xurkhaz]], currently Chief [[Lubash]]. 
 
