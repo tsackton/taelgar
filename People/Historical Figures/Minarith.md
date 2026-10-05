@@ -25,6 +25,10 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+> [!image|right standard]
+> ![[minarith-terracotta-portrait.webp]]
+> *A terracotta tile depicting Minarith, recovered from his office at the University of the Blessed Waters.*
+
 Minarith was an unassuming peronar scholar of natural philosophy, faculty at the [[University of the Blessed Waters]] in [[Drankor]]. He was a natural historian, and cared deeply about his work cataloging the flora, fauna, and geological features of the Empire. While his colleagues in the magical sciences explored grand arcane theories and wielded power that could reshape reality, Minarith preferred the quiet rigor of studying the mundane.
 
 As [[Apollyon]]’s persecution intensified, Minarith remained at the university, choosing to stay in Drankor while others began to flee, hoping his political neutrality and the obscurity of his studies would protect him. It did not.
