@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T21:26:49-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim, status/check/ai]
+tags: [person, status/check/tim]
 species: human
 ancestry: Drankorian
 gender: female
@@ -33,7 +33,7 @@ In DR 1036, her father died unexpectedly, followed shortly by her mother. At twe
 
 In the early 1050s, a trusted confidant betrayed her, exposing her work to the [[Ashen Cloaks]]. She was seized from her villa and subsequently sacrificed by Apollyon in DR 1053, becoming one of seven souls bound into [[Apollyon's Phylactery]]. Her life was commemorated in the [[Book of Martyrs of the Radiant Path]].
 
-On DR 1749-05-24, her soul was freed in the [[Land of the Dead]], allowing her to pass on.
+On (DR::1749-05-24), her soul was freed in the [[Land of the Dead]], allowing her to pass on.
 
 %% Sources:
 - [[Session 113 (DuFr)]]

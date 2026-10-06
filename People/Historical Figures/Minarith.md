@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-05T08:00:45-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim, status/check/ai]
+tags: [person, status/check/tim]
 species: elf
 ancestry: Peronar
 gender: male

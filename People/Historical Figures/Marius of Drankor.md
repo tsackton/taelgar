@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T23:42:01-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim, status/check/ai]
+tags: [person, status/check/tim]
 species: human
 ancestry: Drankorian
 gender: male
