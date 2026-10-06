@@ -2,7 +2,7 @@
 
 This note captures the current-day tone and broad structure of dark Taelgar. It is not yet a history of how the world reached this state, and the exact technology available remains provisional.
 
-See also: [[Taelgar-2 Species After the Godfall]], [[Taelgar-2 Magic]], [[Taelgar-2 Technology]], and [[Taelgar-2 Concept Art]]
+See also: [[_dm_notes/_Taelgar-2/Taelgar-2 Species After the Godfall]], [[Taelgar-2 Magic]], [[Taelgar-2 Technology]], and [[Taelgar-2 Concept Art]]
 
 ## Core Vibe
 
@@ -139,7 +139,7 @@ Several overlapping pressures keep most people close to home:
 - **The absence of divine aid:** reliable magical healing, food creation, disease control, resurrection, and protection from weather are gone or extraordinarily rare.
 - **Predatory technology:** skyships are more likely to carry soldiers, tax collectors, or company agents than to rescue travelers.
 
-Halfling [[Taelgar-2 Species After the Godfall#Halflings: The Quiet|Hearth Compacts]] may be among the few groups that preserve reliable routes between enclaves. Their caravans and ships make travel possible, but never easy.
+Halfling [[_dm_notes/_Taelgar-2/Taelgar-2 Species After the Godfall#Halflings: The Quiet|Hearth Compacts]] may be among the few groups that preserve reliable routes between enclaves. Their caravans and ships make travel possible, but never easy.
 
 ## Religion and the Memory of Cha'mutte
 
