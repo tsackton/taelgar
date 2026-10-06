@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:00:33-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/tim, status/check/lint]
+tags: [place, status/check/mike]
 typeOf: settlement
 typeOfAlias: city
 name: Tafolwern
@@ -22,13 +22,19 @@ Tafolwern is the capital and foremost cultural center of [[Tyrwingha]], with rou
 
 The city draws traders and traveling performers from across Tyrwingha and beyond. Its wealthy households and earls are customers for the wines of the Tyrwinghan countryside. Tafolwern is also home to the [[Oracle of the Riven]], the council that elects Tyrwingha’s monarch, and to [[Twilight's Pool]], the principal crossing to [[Twilight's Grace]].
 
-%% @check/tim : initial canonical draft - thoughts? %%
 
 %% Sources:
 - [[2024-05-09 - Discord Chat with Lilairen - Tyrwinghan Rivers Settlements and Demographics]]
 - [[2024-07-15 - Discord Chat with Lilairen - Sylvan Writing Emotional Magic and Celyn's Reading]]
 - [[Celyn Learning Languages]]
 %%
+
+%% @check/mike: the location below puts Tafolwern anywhere from 0 to 10-15 miles from the ocean. The world map is ambigious because it uses very large icons for cities. Plausibly it could be B.10 instead of B.15, which puts it about a hex from the ocean (~20-25 miles). I don't know what your vibe here is, but it is worth a bit of thought. I could imagine a situation more like e.g. Rome where the main port and the capital are fairly distinct, or more like London where the city is the port (e.g. the Tollen or Chardon model). %%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: 12.12.B15}
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Tafolwern, language: Tyrwinghan, pronunciation: Tav-ol-WERN, status: documented}
@@ -38,18 +44,3 @@ The city draws traders and traveling performers from across Tyrwingha and beyond
 Temporal coverage: broadly modern; the article describes the city in the current campaign era without a narrower temporal limit.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added `POV: modern` and a persistent temporal-coverage note.
-- Normalized line endings to LF while preserving the header's Markdown hard breaks.
-
-### Validated judgments
-- The approved article provides a concise account of the city's capital and cultural roles, distinctive ornament, wine trade, and principal fey crossing. Its current reference frame does not require a narrower date.
-- Preserved the documented Tyrwinghan name and accepted pronunciation, the human DM attestations, and Tim's review state.
-
-### Open findings
-
-- [ ] **Error — metadata.map_missing:** Settlements require a `Metadata:map:v1` block, but the reviewed sources do not establish Tafolwern's exact map locator. Supply its verified world-map hex, then add one `map: world` location entry with that nonblank `locator`. No empty map block was added, following the user's preference.
-%%^End%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/check/tim]
+tags: [object]
 typeOf: ring
 rarity: very rare
 ddbLink: https://www.dndbeyond.com/magic-items/9217495-rings-of-elemental-protection
@@ -13,13 +13,13 @@ knownTo: [dufr]
 > [Mechanics](https://www.dndbeyond.com/magic-items/9217495-rings-of-elemental-protection)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% @check/tim : just to double check %%
-
 The Rings of Elemental Protection are a set of five gold rings, each set with a different gemstone: ruby, sapphire, emerald, topaz, or opal.
 
 %%^Campaign:dufr%%
 The [[Dunmar Fellowship]] recovered the ruby, sapphire, and emerald rings from [[Apollyon's Tower]]. These three rings have braided gold bands.
 %%^End%%
+
+%% plausibly these are typical Drankorian war mage items and could reoccur. Kenzo's early-campaign ring of fire protection is plausibly part of a set too %%
 
 ## Mechanics
 

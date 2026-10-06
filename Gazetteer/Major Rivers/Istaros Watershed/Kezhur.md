@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/check/name]
+tags: [place, status/check/name]
 typeOf: waterway
 typeOfAlias: river
 name: Kezhur
@@ -15,7 +15,6 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% @check/tim : Just for your double check %%
 
 The Kezhur is an eastern tributary of the [[Istaros]], joining it near the northern border of [[Xurkhaz]]. Its confluence marks the transition between the upper Istaros and the middle reach known as the Drogar.
 
