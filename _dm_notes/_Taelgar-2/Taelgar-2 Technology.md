@@ -2,7 +2,7 @@
 
 This is a brainstorming note about technology in the current day of Taelgar-2 written by Codex and Tim Sackton. 
 
-The underlying setting is described in [[Taelgar-2 Current Day Brainstorming]], while the metaphysical basis of chalyte and chaos glass is discussed in [[Taelgar-2 Magic]]. Character-facing consequences belong in [[Taelgar-2 Mechanics]], and the peoples who provide and endure much of the industrial labor are discussed in [[Taelgar-2 Species After the Godfall]].
+The underlying setting is described in [[Taelgar-2 Current Day Brainstorming]], while the metaphysical basis of chalyte and chaos glass is discussed in [[Taelgar-2 Magic]]. Character-facing consequences belong in [[Taelgar-2 Mechanics]], and the peoples who provide and endure much of the industrial labor are discussed in [[_dm_notes/_Taelgar-2/Taelgar-2 Species After the Godfall]].
 
 The central technological principle is:
 
