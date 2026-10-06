@@ -1,5 +1,5 @@
 ---
-tags: [creature, status/check/tim]
+tags: [creature]
 aliases: [fey]
 dm_owner: joint
 dm_notes: important
@@ -21,5 +21,5 @@ The fey are a diverse folk, and many kinds of fey inhabit the [[Feywild]]:
 The strangest and most powerful of the fey are the Archfey. They are the great powers of the [[Feywild]], singular beings who rule the diverse realms of the Feywild, and who realms take shape around their nature. An archfey’s domain is not merely ruled, but marked by them: its light, weather, paths, hungers, splendors, and dangers all echo the character of the power at its heart. Some realms become courts of beauty, revelry, and impossible grace; others darken into decay, fear, or ruin. Few mortals encounter an archfey directly, and those who do rarely return unchanged. 
 
 ### Life and Death
-%% @tim added this based on a email from my campaign %%
+
 Little is known about fey traditions around life and death. Fey can die on the mortal world, but it is rare and even in [[Tyrwingha]] there are no formal rites or rituals around the remains of deceased fey.  However, cremation is a common response, and [[Tyrwingha|Tyrwinghan]] folklore holds that the remains of powerful fey may carry curses, change form, or disappear.
