@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed by spiders}
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -27,7 +27,7 @@ POV: modern
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:clee%% His body was found by the [[Heroes of Cleenseau]] on October 22nd, 1719 in the [[Cleenseau Wood]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-An old man with a thick grey beard, a beggar who lived in the ramshackle [[Beggar's Way]] outside of [[Cleenseau]]. His body was found in the [[Cleansing of the Ettercap Lair]] by [[Viepuck|Najeer]], [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], and [[Celyn]]. He was believed to have been killed by spiders on or around October 14th.
+An old man with a thick grey beard, a beggar who lived in the ramshackle [[Beggar's Way]] outside of [[Cleenseau]]. His body was found in the ettercap lair by [[Viepuck|Najeer]], [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], and [[Celyn]]. He was believed to have been killed by spiders on or around October 14th.
 
 %%^Metadata:names:v1%%
 - {"name": "Nicholas the Beggar", "language": "Sembaran", "status": "inferred"}
