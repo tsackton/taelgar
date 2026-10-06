@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T20:08:14-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: elf
 gender: female
 ka: 32
@@ -35,19 +35,11 @@ Under Apollyon’s rule, her art became resistance. Her satirical plays, often p
 
 Apollyon ordered her capture early in his reign. Valanthe evaded his agents through the 1020s using magic and wit, but was betrayed and captured during the Hearth Riots in DR 1031. Taken in chains to the [[Circular Island]], she remained imprisoned until she was sacrificed in DR 1053, becoming the first of seven souls bound into [[Apollyon's Phylactery]]. 
 
-She was considered a martyr by the Radiant Path, and her life was commemorated in the [[Book of Martyrs of the Radiant Path]].
+Her story is recorded in the [[Book of Martyrs of the Radiant Path]], a hidden record and memorial kept by the priests of the [[Radiant Path]] of those disappeared and taken during Apollyon's reign, though her fate was unknown for many centuries, until the [[Dunmar Fellowship]] ventured to [[Drankor]] to defeat [[Apollyon]].
 
 %%^Date:1749-05-24%%
 On (DR:: 1749-05-24), [[Seeker]] freed her soul in the [[Land of the Dead]] by mocking Apollyon with *Vicious Mockery*, rekindling her laughter and memories of her satirical works so she could pass on.
 %%^End%%
-
-%% Sources:
-- [[Session 113 (DuFr)]]
-- [[Session 115 (DuFr)]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls]] (backstory approved for incorporation; arrival in Drankor dated to DR 948 by human confirmation; death revised to DR 1053 as part of the approved joint chronology of the seven souls)
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls - Book of Martyrs]] (betrayal during the Hearth Riots)
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]] (Hearth Riots dated to DR 1031)
-%%
 
 %%^Metadata:names:v1%%
 - {name: Valanthe, language: Elvish, pronunciation: vah-LAHN-theh, status: documented}
