@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-04T19:32:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<species:sAU> <(()pronouns())>"}
-tags: [person, status/check/tim, status/check/ai]
+tags: [person]
 species: human
 ancestry: unknown
 gender: female
@@ -11,6 +11,9 @@ died: 1053
 name: Khemut of Targu
 pronunciation: KEH-mutt uv TAR-goo
 knownTo: [dufr]
+whereabouts:
+- {type: home, location: Far South}
+- {type: away, location: Apollyon's Tower, start: 1043, end: 1053}
 dm_owner: tim
 dm_notes: important
 POV: modern
@@ -19,7 +22,8 @@ POV: modern
 *(KEH-mutt uv TAR-goo)*
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 > [!image|right standard]
 > ![[khemut-ledger-ink-sketch.webp]]
@@ -29,7 +33,11 @@ Khemut of Targu was a human sailor and tea merchant who sailed aboard the *Selem
 
 During a visit to Drankor in DR 1043, Khemut disappeared after a night of drinking. She was last seen leaving the Bubbling Tankard, where she had been celebrating a bonus from her ship’s quartermaster. She never returned to the *Selem Shurga*.
 
-Khemut remained captive until DR 1053, when she was one of seven people sacrificed by [[Apollyon]] whose souls were bound into [[Apollyon's Phylactery|his phylactery]]. Her soul remained trapped until DR 1749, when it was freed in the [[Land of the Dead]] and allowed to pass on.
+Khemut remained captive until DR 1053, when she was one of seven people sacrificed by [[Apollyon]] whose souls were bound into [[Apollyon's Phylactery|his phylactery]]. 
+
+%%^Date:1749-05%%
+Her soul remained trapped until DR 1749, when it was freed in the [[Land of the Dead]] and allowed to pass on.
+%%^End%%
 
 %% Sources:
 - [[Session 113 (DuFr)]]
