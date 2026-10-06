@@ -14,7 +14,8 @@ A series of episodic stories, also run by Tim:
 - [[Mawar Adventures]]: a series of episodic stories around [[Hamri]] and the [[Mawakel Peninsula]], featuring rotating members of the [[Adventurers of Mawar]].
 
 A campaign run by David Kong:
-- [[Dragonets Campaign|Dragonets]]: the story of Heska, Sculpit, Little Tony, and Zeno, four dragonets from the [[Circular Island]].
+- [[Dragonets Campaign|Dragonets]]: the story of Heska, Sculpit, Little Tony, and Zeno, four dragonets from the [[Circular Island]]. 
 
 And a long-running campaign run by Mike Sackton:
 - [The Cleenseau Campaign](https://msackton.github.io/taelgarverse1720/), the story of adventurers and events around southern Sembara in the DR 1720s. This game is run by Mike Sackton and the tales of these adventurers are published separately. 
+

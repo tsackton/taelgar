@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-05T08:00:45-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person, status/check/tim, status/check/ai]
 species: elf
 ancestry: Peronar
 gender: male
@@ -11,7 +11,9 @@ name: Minarith
 pronunciation: MIH-nah-rith
 affiliations:
   - {org: University of the Blessed Waters, title: Faculty, end: 1048}
-whereabouts: Drankor
+whereabouts:
+  - {type: home, location: Drankor, end: 1048}
+  - {type: away, location: Apollyon's Tower, start: 1048, end: 1053}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
@@ -35,7 +37,9 @@ As [[Apollyon]]’s persecution intensified, Minarith remained at the university
 
 In DR 1048, the [[Omnis Pura]] raided the university. Fearing capture, Minarith wrote an Elvish letter to [[Maglar]], acknowledging that his hope had failed, and urging Maglar to flee, but did not send it before he was arrested, alongside other non-human academics. Taken to the Grand Crucible for execution, he was instead removed from the condemned by Omnis Pura agents and delivered to Apollyon. He remained imprisoned until he was sacrificed in DR 1053, becoming one of seven souls bound into [[Apollyon's Phylactery]].
 
-On DR 1749-05-24, his soul was freed in the [[Land of the Dead]], allowing him to pass on.
+%%^Date:1749-05-24%%
+On (DR:: 1749-05-24), [[Delwath]] freed his soul in the [[Land of the Dead]] by asking him questions about plants, drawing him into a botany lesson that restored his memory of being a scholar and teacher and allowed him to pass on.
+%%^End%%
 
 %% Sources:
 - [[Session 113 (DuFr)]]

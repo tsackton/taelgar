@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T18:12:37-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: halfling
 gender: female
 died: 1053
@@ -12,7 +12,7 @@ affiliations:
   - {org: The Laughing Wave, title: Proprietor, type: leader, start: 1020, end: 1049}
 whereabouts:
   - {type: home, location: Drankor, end: 1049}
-  - {type: away, location: Apollyon's Tower, end: 1053}
+  - {type: away, location: Apollyon's Tower, start: 1049, end: 1053}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
@@ -36,8 +36,8 @@ During [[Apollyon]]’s reign, Seraphina initially tried to remain neutral, welc
 
 In DR 1049, she hosted a farewell celebration for halfling families preparing to flee the city. Drawn by the noise and rooftop fireworks, the [[Omnis Pura]] raided the inn. Seraphina tried to help her guests escape, and for her efforts was captured alongside several others who could not scatter in time. The Laughing Wave was ransacked and abandoned. Seraphina remained captive until DR 1053, when she was one of seven people sacrificed by Apollyon whose souls were bound into [[Apollyon's Phylactery|his phylactery]]. 
 
-%%^Date:1749-05%%
-Her soul remained trapped until DR 1749, when it was freed in the [[Land of the Dead]] and allowed to pass on.
+%%^Date:1749-05-24%%
+On (DR:: 1749-05-24), [[Wellby]] freed her soul in the [[Land of the Dead]] by recalling the celebrations and rooftop fireworks at [[The Laughing Wave]], helping her remember who she was and pass on.
 %%^End%%
 
 %% Sources:

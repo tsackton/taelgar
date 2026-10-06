@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-04T23:42:01-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person, status/check/tim, status/check/ai]
 species: human
 ancestry: Drankorian
 gender: male
@@ -10,6 +10,9 @@ born: 1034
 died: 1053
 name: Marius of Drankor
 pronunciation: MAH-ree-us uv DRAN-kor
+whereabouts:
+  - {type: home, location: Drankor, end: 1050}
+  - {type: away, location: Apollyon's Tower, start: 1050, end: 1053}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
@@ -20,6 +23,7 @@ POV: 1749
 >[!info]+ Biographical Info  
 > A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 > [!image|right standard]
 > ![[marius-of-drankor-book-of-martyrs.webp]]
@@ -31,7 +35,9 @@ In DR 1050, at sixteen, Marius led *The Hymn of the Dawn* at a forbidden prayer 
 
 After roughly three years of imprisonment, Marius was sacrificed by Apollyon in DR 1053, at about nineteen, becoming one of seven souls bound into [[Apollyon's Phylactery]]. His life was recorded in the [[Book of Martyrs of the Radiant Path]], and his death mask was kept in the [[The Father|Father]]’s underchapel.
 
-On DR 1749-05-24, his soul was freed in the [[Land of the Dead]], allowing him to pass on.
+%%^Date:1749-05-24%%
+On (DR:: 1749-05-24), [[Kenzo]] freed his soul in the [[Land of the Dead]] by speaking of spiritual refuge and fighting to protect others, helping Marius remember his courage and resistance to oppression so he could pass on.
+%%^End%%
 
 %% Sources:
 - [[Session 113 (DuFr)]]

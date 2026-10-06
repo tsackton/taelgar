@@ -17,6 +17,8 @@ POV: modern
 
 The adventurers [[Rai]], [[Aerin]], [[Kyr]], and [[Beryl]], who defeated [[Cha'mutte]] in the [[Great War]].
 
+<a href="/taelgarverse/taelgar-2/" target="_self">Or did they....?</a>
+
 %%^Metadata:names:v1%%
 - {"name": "Heroes of the Great War", "language": "Common"}
 %%^End%%

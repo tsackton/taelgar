@@ -3,17 +3,17 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-04T19:32:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<species:sAU> <(()pronouns())>"}
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: unknown
 gender: female
 died: 1053
 name: Khemut of Targu
 pronunciation: KEH-mutt uv TAR-goo
-knownTo: [dufr]
 whereabouts:
-- {type: home, location: Far South}
-- {type: away, location: Apollyon's Tower, start: 1043, end: 1053}
+  - {type: home, location: Far South}
+  - {type: away, location: Apollyon's Tower, start: 1043, end: 1053}
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: important
 POV: modern
@@ -35,8 +35,8 @@ During a visit to Drankor in DR 1043, Khemut disappeared after a night of drinki
 
 Khemut remained captive until DR 1053, when she was one of seven people sacrificed by [[Apollyon]] whose souls were bound into [[Apollyon's Phylactery|his phylactery]]. 
 
-%%^Date:1749-05%%
-Her soul remained trapped until DR 1749, when it was freed in the [[Land of the Dead]] and allowed to pass on.
+%%^Date:1749-05-24%%
+On (DR:: 1749-05-24), [[Wellby]] freed her soul in the [[Land of the Dead]] by describing the sights, sounds, and daily work of life at sea, restoring her memories of the *Selem Shurga* and the wind so she could pass on.
 %%^End%%
 
 %% Sources:
