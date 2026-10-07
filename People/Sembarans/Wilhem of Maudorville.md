@@ -4,13 +4,13 @@ tags: [person]
 species: human
 ancestry: Sembaran
 gender: male
-name: Wilhem of Maudorville
-pronunciation: WILL-hem of moh-dor-VEEL
+name: Wilhem
+pronunciation: WILL-hem
 whereabouts: Maudorville
 knownTo: [clee]
 ---
-# Wilhem of Maudorville
-*(WILL-hem of moh-dor-VEEL)*
+# Wilhem
+*(WILL-hem)*
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -18,5 +18,5 @@ knownTo: [clee]
 Wilhem administers the temple of [[The Sibyl]] in [[Maudorville]]. He has a keen interest in lunar lore.
 
 %%^Metadata:names:v1%%
-- {name: Wilhem of Maudorville, language: Sembaran, pronunciation: WILL-hem of moh-dor-VEEL, status: documented}
+- {name: Wilhem, language: Sembaran, pronunciation: WILL-hem, status: documented}
 %%^End%%
