@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, testcase, status/cleanup/metadata, status/check/ai]
+tags: [object, testcase, status/cleanup/text]
 campaignInfo:
 created: 917
 subTypeOf: magical
@@ -23,7 +23,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% whereabouts needs work; would also be good to collate information from history and and other information onto this page%%
+%%  would also be good to collate information from history and and other information onto this page%%
 
 ![[rainbow-cloak-v2.jpg|right|300]]The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [[Cloudspinner]], and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate. 
 

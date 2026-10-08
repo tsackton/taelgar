@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed by spiders}
-tags: [person, status/check/lint, status/check/ai]
+tags: [person, status/check/lint]
 species: human
 ancestry: Sembaran
 campaignInfo:

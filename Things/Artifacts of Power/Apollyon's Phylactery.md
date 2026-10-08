@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/check/ai]
+tags: [object]
 displayDefaults: {defArt: "", endStatus: "unmade by the [[Dunmar Fellowship]] on"}
 destroyed: 1749-05-24
 typeOf: dagger
@@ -22,5 +22,3 @@ Long hidden and protected by [[Rai]] within the ruins of the [[Temple of the Eig
 
 The seven souls bound within, named in Apollyon’s notes: [[Antonius Patrius]], [[Floria of Aphasium]], [[Marius of Drankor]], [[Valanthe]], [[Seraphina Appleblossom]], [[Khemut of Targu]], and [[Minarith]]. 
 %%^End%%
-
-%% Chronology: the common sacrifice year of DR 1053 was confirmed by the DM in the joint review of [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls]]. The mirror vision establishes the sequence of forging, sacrifice, and brewing, but does not supply this year. %%

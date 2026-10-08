@@ -1,17 +1,14 @@
----
-tags: [status/check/ai]
----
 # 2026-10-03 - Elven Forest Climate and Seasonal Circulation
 
 *[Editorial note: Cut 74 messages about vault tooling, note review, coordination, and personal logistics.]*
 
 [2026-10-03 03:15 PM] rsulfuratus: trying to resolve a few climate details. do you have any opinions of the elven forests west of the sentinels, north of elderwood but south of the deno'qai areas delwath visited? these are very underdeveloped in play but this would have been delwath's homeland
 
-    there are several options compatible with the broad continental climate model. the main questions are:
+there are several options compatible with the broad continental climate model. the main questions are:
 
-    (1) how wet are the summers? you can sustain forests even with pretty dry summers but would probably tend to have more open conifer forests with the driest summers ("dry needles and dusty paths" per codex), while increasing summer moisture slowly transitions to lusher, with more broadleaf trees (fewer conifers), moss, ferns
+(1) how wet are the summers? you can sustain forests even with pretty dry summers but would probably tend to have more open conifer forests with the driest summers ("dry needles and dusty paths" per codex), while increasing summer moisture slowly transitions to lusher, with more broadleaf trees (fewer conifers), moss, ferns
 
-    (2) how much snow is there? anything from consistent winter snowpack to rain with occasional snow is possible, the main decision is how the northern gradient looks (elderwood has no snow, deno'qai forests have deep snowpack, where and how does it shift?)
+(2) how much snow is there? anything from consistent winter snowpack to rain with occasional snow is possible, the main decision is how the northern gradient looks (elderwood has no snow, deno'qai forests have deep snowpack, where and how does it shift?)
 
 [2026-10-03 03:27 PM] Deciusmus: Hrm..  I don’t think dry needles and dusty paths is quite right.
 
@@ -36,11 +33,11 @@ tags: [status/check/ai]
 
 [2026-10-03 04:38 PM] rsulfuratus: proposed:
 
-    The Crimson Forest and Elderwood spread across broad, low foothills west of the Sentinels. Maritime winter disturbances bring abundant rain, with precipitation increasing as the land rises. Ordinary winters in the lower forests are predominantly rainy; lasting snow becomes characteristic on higher slopes and farther north.
+The Crimson Forest and Elderwood spread across broad, low foothills west of the Sentinels. Maritime winter disturbances bring abundant rain, with precipitation increasing as the land rises. Ordinary winters in the lower forests are predominantly rainy; lasting snow becomes characteristic on higher slopes and farther north.
 
-    Summer brings the same broad drying influence that shapes the neighboring Chasa and Chardonian valleys. Within and among the surviving elven forests, however, ancient magic sustains moisture through recurring mist, dripping foliage, and damp forest soils. Together with winter recharge, this supports dense, productive forest through the regional dry season. The effect is concentrated within the enchanted woodland, allowing dry fields and sunlit grasslands to lie close to lush forest.
+Summer brings the same broad drying influence that shapes the neighboring Chasa and Chardonian valleys. Within and among the surviving elven forests, however, ancient magic sustains moisture through recurring mist, dripping foliage, and damp forest soils. Together with winter recharge, this supports dense, productive forest through the regional dry season. The effect is concentrated within the enchanted woodland, allowing dry fields and sunlit grasslands to lie close to lush forest.
 
-    Northward toward Highveil, the forest’s exceptional summer moisture becomes less characteristic, while increasing Fiatara shelter and continental exposure favor more open woodland, colder winters, and longer-lasting snow. The precise workings and boundaries of the southern forest magic remain unresolved.
+Northward toward Highveil, the forest’s exceptional summer moisture becomes less characteristic, while increasing Fiatara shelter and continental exposure favor more open woodland, colder winters, and longer-lasting snow. The precise workings and boundaries of the southern forest magic remain unresolved.
 
 [2026-10-03 04:39 PM] Deciusmus: I like it
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+tags: [place]
 name: Barony of Aveil
 typeOf: realm
 whereabouts: Sembara
