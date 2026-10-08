@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [object, status/check/ai]
+tags: [object]
 displayDefaults: {defArt: ""}
 typeOf: manacles
 subTypeOf: magic
@@ -16,7 +16,5 @@ dm_notes: important
 These ancient enchanted manacles were chained to the wall in [[Apollyon's Tower]] on the [[Circular Island]]. They were fashioned by [[Apollyon]] to hold victims in place during the rites that created [[Apollyon's Phylactery]], drawing their souls and life into the dagger.
 
 %%^Campaign:dufr%%
-In DR 1749, the [[Dunmar Fellowship]] examined the manacles through the [[Mirror of the Past]], [[Apollyon's Soulbinding Manacles Vision|witnessing echoes]] of the sacrifices that fed Apollyon’s transformation into a lich. The mirror visions showed successive victims chained in the manacles, their wrists cut with the dagger; sparks of soul‑energy flowed from the manacles into the dagger Apollyon had forged. The spilled blood pooled into a central well and was later infused with power from the [[Crown of Purity]] to brew Apollyon’s lich‑potion.
+In DR 1749, the [[Dunmar Fellowship]] examined the manacles through the [[Mirror of the Past]], [[Apollyon's Soulbinding Manacles Vision|witnessing echoes]] of the sacrifices that fed Apollyon’s transformation into a lich. The mirror visions showed successive victims chained in the manacles, their wrists cut with the dagger; sparks of soul‑energy flowed from the manacles into the dagger Apollyon had forged. The spilled blood pooled into a central well to be infused with power from the [[Crown of Purity]] to transform it into Apollyon’s lich‑potion.
 %%^End%%
-
-%% to the best of my recollection and notes, these were not destroyed %%

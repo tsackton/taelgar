@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/ai]
+tags: [person]
 species: halfling
 gender: male
 name: Tobin Merriweather
@@ -16,7 +16,8 @@ POV: 1720
 # Tobin Merriweather
 >[!info]+ Biographical Info  
 > A [[Halflings|halfling]] (he/him), of the [[Merriweathers]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Tobin Merriweather is [[Quent Merriweather|Quent's]] younger cousin and conducts much of the trading for their [[Merriweathers|family caravan]].
 
