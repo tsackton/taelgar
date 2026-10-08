@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "transcriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-source-cleaned.md",
+  "transcriptSha256": "504586c554b464a12bb72f63bdba8215967f68f6657b0dbea170b03315ac5060",
+  "issues": [
+    {
+      "uid": "u2986",
+      "header": "[u2986 | 03:01:45.590-03:01:46.750 | Sculpit]",
+      "separator": " ",
+      "speaker": "Sculpit",
+      "text": "Back to the [[library]].",
+      "raw": "[u2986 | 03:01:45.590-03:01:46.750 | Sculpit] Back to the [[library]].",
+      "index": 2985,
+      "start": 10905.59,
+      "end": 10906.75,
+      "phrases": [
+        "library"
+      ],
+      "importance": "material",
+      "reason": "Sculpit names the teleport destination as library, accepted immediately at u2987, but the DM describes the rescued eggs as moved directly into the Wanderer at u3040. The exact destination affects the rescue record.",
+      "before": [
+        "[u2984 | 03:01:40.830-03:01:42.049 | Sculpit] Like, how far can I go?",
+        "[u2985 | 03:01:43.210-03:01:44.259 | DM] How far are you trying to go?"
+      ],
+      "after": [
+        "[u2987 | 03:01:48.090-03:01:48.990 | DM] You can make it there.",
+        "[u2988 | 03:01:49.930-03:01:51.730 | DM] Roll, actually, roll a,"
+      ],
+      "accepted": false
+    },
+    {
+      "uid": "u3083",
+      "header": "[u3083 | 03:07:32.040-03:07:33.529 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "[[Aksha]], who is.",
+      "raw": "[u3083 | 03:07:32.040-03:07:33.529 | DM] [[Aksha]], who is.",
+      "index": 3082,
+      "start": 11252.04,
+      "end": 11253.529,
+      "phrases": [
+        "Aksha"
+      ],
+      "importance": "material",
+      "reason": "Closing narration names Aksha as still alive, but u2855 identifies Shai as the surviving man and u2869 explicitly self-corrects Aksha to Shai. The closing speaker uses he at u3089–u3090. Identity and fate should not be silently resolved.",
+      "before": [
+        "[u3081 | 03:07:24.060-03:07:28.649 | DM] What the hell is going on with this giant ship and these beings?",
+        "[u3082 | 03:07:28.760-03:07:31.819 | DM] And you go back to go and visit."
+      ],
+      "after": [
+        "[u3084 | 03:07:33.530-03:07:34.220 | DM] still alive.",
+        "[u3085 | 03:07:34.990-03:07:35.830 | DM] news."
+      ],
+      "accepted": false
+    }
+  ],
+  "pendingMaterialCount": 2,
+  "incidentalCount": 0,
+  "acceptedCount": 0,
+  "assessment": "The transcript is structurally intact after two complete cleanup passes. Two source inconsistencies remain material: the egg-rescue destination and the identity of the surviving traveler in the closing warning. These could be ASR errors or spoken slips; preserve both pending human correction or explicit tolerance. Incidental table fragments remain verbatim and do not require review."
+}

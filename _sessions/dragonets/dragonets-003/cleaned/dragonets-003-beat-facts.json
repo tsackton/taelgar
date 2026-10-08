@@ -1,0 +1,640 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "An audience-only glimpse beyond the storm identifies four Firstborn signatures before the dragonets reflect on their new powers inside the Wanderer.",
+      "longSummary": "Beyond the storm, two travelers detect four unmistakable Firstborn signatures in an opening cutaway unseen by the party. Inside the Wanderer, the four dragonets settle into strangely familiar seats sized for them. Heska is eager to explore despite his fear, Zeno imagines bigger ventures beyond his restaurant, Sculpit balances curiosity with caution, and Little Tony treats the prospect as a holiday with new sea creatures and valuable pebbles. The DM recalls their recent shared vision and the power they felt entering the statue; no new egg encounter occurs here.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Cockpit in the Wanderer’s heart",
+        "notes": "The opening cutaway also shows a vessel outside the surrounding storm; it is not party knowledge."
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "encountered",
+          "notes": "One of the two travelers shown only to the audience in the opening cutaway; named later in this session."
+        },
+        {
+          "name": "Shai",
+          "role": "encountered",
+          "notes": "The other traveler shown in the opening cutaway; not yet met by the party."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Mysterious egg",
+          "role": "mentioned",
+          "notes": "Recalled in the opening recap of the shared vision; not newly encountered in this beat."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The dragonets learn that shared intent can move the Wanderer’s toes, but cannot yet control it away from their seats or summon a manual.",
+      "longSummary": "The first attempt splits their attention between a foot and a hand and produces only sensations of readiness. Agreeing to wiggle the toes finally moves the ancient statue, with the dragonets feeling its stiffness in their own talons. They leave their chairs and try waving the statue’s hands, but nothing moves; they sense this might become possible with greater power or attunement. Unable to see outside, they discuss safer experiments and attempt to conjure instructions without success.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Cockpit in the Wanderer’s heart"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The group unlocks the Wanderer’s sight, walks it into the sea, and discovers how each dragonet contributes to its control.",
+      "longSummary": "Little Tony proposes looking through the Wanderer’s eyes, and their coordinated effort unlocks its vision; Sculpit learns to switch between that view and his own. After tentative foot movements and an awkward turn, Sculpit and Little Tony use Enhance Ability and Zeno adds encouragement to help them cooperate. They walk into the water under the astonished gaze of the islanders, scoop up the seabed, look underwater, and pick up a boulder. During roughly an hour of practice, they begin to understand their roles: Tony translates shared intention, Heska supplies physical control, Sculpit realizes the system’s power, and Zeno harmonizes its parts.",
+      "location": {
+        "kind": "journey",
+        "from": "The Wanderer’s standing place (Circular Island)",
+        "to": "Shallow sea beside the Wanderer (Circular Island)",
+        "context": "The party remains inside the cockpit while the statue walks into the water."
+      },
+      "npcs": [
+        {
+          "name": "Oru",
+          "role": "encountered",
+          "notes": "Seen among islanders watching the Wanderer move."
+        },
+        {
+          "name": "Roska",
+          "role": "encountered",
+          "notes": "Seen among the astonished onlookers."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Oru summons the group to a crashed vessel near the Dark Lady, and they leave the Wanderer after warning curious dragonets away from its eye.",
+      "longSummary": "Oru reaches Little Tony telepathically: something has fallen from the sky near the Dark Lady. The party takes the Wanderer along the shore and sees Oru, Roska, other dragonets, and two humanoids at a crashed craft. Attempts to greet them through the statue produce noises and elaborate gestures rather than clear speech, so Oru insists they come down. They park the statue and fly out through its eye. Sculpit’s booming warning stops two dragonets from entering the dangerous interior, and Tony persuades the third to stay out.",
+      "location": {
+        "kind": "journey",
+        "from": "Shallow sea beside the Wanderer (Circular Island)",
+        "to": "Crash site near the Dark Lady (Circular Island)",
+        "context": "The Wanderer carries the party along the shore; they then fly out to meet Oru."
+      },
+      "npcs": [
+        {
+          "name": "Oru",
+          "role": "encountered",
+          "notes": "Summons Tony and insists the party speak with him in person."
+        },
+        {
+          "name": "Roska",
+          "role": "encountered",
+          "notes": "At the crash site with fighter clansmen."
+        },
+        {
+          "name": "Aksha",
+          "role": "encountered",
+          "notes": "One of the distant humanoids at the vessel; named in the next beat."
+        },
+        {
+          "name": "Shai",
+          "role": "encountered",
+          "notes": "The other humanoid at the vessel."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        },
+        {
+          "name": "Dark Lady",
+          "role": "encountered",
+          "notes": "Statue adjacent to the Wanderer around the island; the crash is nearby."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Little Tony bridges a language barrier with Aksha and Shai, who greet the dragonets with tears, reverence, and questions about the Firstborn.",
+      "longSummary": "At the crash site, the islanders and newcomers have been reduced to gestures. Tony establishes telepathy, learns the names Aksha and Shai, and gradually opens communication to the other three dragonets. The visitors break down in tears when the party embraces them, then bow reverently. They explain that Aksha piloted their craft through the storm because they had to find the dragonets. Calling the four Firstborn, they ask what changed a few days earlier, but their questions repeatedly become entangled in tales of performances, Roska, and restaurant plans.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Crash site near the Dark Lady"
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "encountered",
+          "notes": "Woman and pilot who brought the vessel through the storm; reveres the party as Firstborn."
+        },
+        {
+          "name": "Shai",
+          "role": "encountered",
+          "notes": "Bearded man with a topknot, traveling with Aksha; joins the telepathic conversation."
+        },
+        {
+          "name": "Oru",
+          "role": "encountered",
+          "notes": "Asks Tony to help communicate with the strangers."
+        },
+        {
+          "name": "Roska",
+          "role": "encountered",
+          "notes": "Reacts with annoyance when Zeno boasts of defeating him in a performance contest."
+        }
+      ],
+      "items": [
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        },
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party recounts the egg vision and offers the travelers and their friends a home, while learning how harsh life is beyond the storm.",
+      "longSummary": "Sculpit uses Minor Illusion to reenact the egg and shared vision, although the explanation repeatedly returns to food and their planned restaurant. Little Tony insists that the visitors share information in return. Aksha and Shai describe a life of hardship unlike the island’s abundance and joy, and call this a holy place. Heska and the others offer them—and others like them—a place to stay, moving the visitors to tears. Talk of baths, fishing, and food underscores how unfamiliar the outsiders’ deprivation is to the dragonets.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Crash site near the Dark Lady"
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "encountered",
+          "notes": "Leads questions about the egg and moving statue; describes hardship outside."
+        },
+        {
+          "name": "Shai",
+          "role": "encountered",
+          "notes": "Shares the emotional response to the offer of sanctuary."
+        }
+      ],
+      "items": [
+        {
+          "name": "Mysterious egg",
+          "role": "mentioned",
+          "notes": "Sculpit depicts the earlier encounter and shared vision using Minor Illusion."
+        },
+        {
+          "name": "Wanderer",
+          "role": "mentioned",
+          "notes": "Its newly awakened movement is discussed with the travelers."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "A scanner reveals approaching danger, prompting an evacuation as the dragonets return to the Wanderer and a dreadnought breaches the storm.",
+      "longSummary": "The visitors warn that the party’s awakening has exposed this place to terrible enemies. Shai fetches a scanner; its readings leave both travelers terrified, with perhaps five or ten minutes before an attack. Oru orders Roska to shelter the islanders in the central temple, and Zeno suggests the underground Groundlings Cave monastery as another refuge. Aksha and Shai return to their vessel while the party flies back into the Wanderer. A vast dreadnought emerges through the storm, radiating the despair recalled from their vision and launching smaller ships.",
+      "location": {
+        "kind": "journey",
+        "from": "Crash site near the Dark Lady (Circular Island)",
+        "to": "Cockpit of the Wanderer (Circular Island)",
+        "context": "The party returns to the statue while islanders seek shelter."
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "companion",
+          "notes": "Prepares to fight from the small vessel."
+        },
+        {
+          "name": "Shai",
+          "role": "companion",
+          "notes": "Uses the scanner and warns of the imminent attack."
+        },
+        {
+          "name": "Oru",
+          "role": "encountered",
+          "notes": "Orders the evacuation."
+        },
+        {
+          "name": "Roska",
+          "role": "encountered",
+          "notes": "Tasked with getting dragonets into shelter."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        },
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        },
+        {
+          "name": "Scanner",
+          "role": "encountered",
+          "notes": "Reveals approaching hostile signatures; the visitors conclude the enemy found the signatures independently."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The battle begins with the Wanderer taking a shoulder hit before its newly unlocked eye lasers strike the dreadnought’s shield.",
+      "longSummary": "Aksha and Shai engage four escort fighters while each dragonet acts individually and the group coordinates the Wanderer through a collective Firstborn action. Sculpit’s wind-like Bigby’s Hand grapples and crushes a fighter, and Zeno’s Synaptic Static disrupts another. Heska discovers the statue’s eye lasers. After an energy beam tears into the Wanderer’s shoulder, Little Tony channels Dispel Magic through its finger and disables a dreadnought gun. His Cosmic Omen helps Heska land the collective laser attack, which strikes the warship’s shield for 179 damage without yet breaching it; the escorts continue battering the allied craft.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Wanderer’s cockpit, offshore battlefield"
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "companion",
+          "notes": "Pilots the allied craft under concentrated fighter attacks."
+        },
+        {
+          "name": "Shai",
+          "role": "companion",
+          "notes": "Fights alongside Aksha aboard their vessel."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        },
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Dreadnought",
+            "notes": "Shielded warship with heavy energy weapons."
+          },
+          {
+            "name": "Escort fighters",
+            "notes": "Four small enemy craft, focused largely on the allied vessel."
+          }
+        ],
+        "notes": "The party begins coordinating individual magic with collective statue actions; the shield remains intact."
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Mirror images, a wall of sound, and Enlarge protect and strengthen the Wanderer as a giant punch breaks the dreadnought’s shield.",
+      "longSummary": "Sculpit extends Mirror Image to the Wanderer and finishes crushing the grappled fighter. Zeno creates a Wall of Force, described as a roaring wall of sound, over the statue’s chest; Heska then doubles the Wanderer’s size. The dreadnought devastates the village square and nearby homes. With advice from Glenda, Tony forcefully questions the hostile ship and identifies a vulnerable area behind its central iris. The enlarged Wanderer punches that point for 283 damage, shattering the shield, while escort attacks leave Aksha and Shai’s craft badly damaged.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Wanderer’s cockpit, offshore battlefield",
+        "notes": "The party sees the village at the Wanderer’s base struck by the dreadnought."
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "companion",
+          "notes": "Her craft is badly damaged by the fighters."
+        },
+        {
+          "name": "Shai",
+          "role": "companion",
+          "notes": "Remains aboard the damaged allied craft."
+        },
+        {
+          "name": "Glenda",
+          "role": "companion",
+          "notes": "Advises Tony to address the hostile ship forcefully."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        },
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Dreadnought"
+          },
+          {
+            "name": "Escort fighters"
+          }
+        ],
+        "notes": "One fighter is destroyed, the village takes a devastating hit, and the dreadnought’s shield is broken."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The dragonets disrupt the dreadnought and tear out its pilot, but Aksha and Shai’s vessel is shot down.",
+      "longSummary": "Sculpit sends Lightning Bolt through a wounded fighter into the exposed dreadnought, disabling the smaller ship. Zeno compels a gun crew to answer the Wanderer’s gestures, diverting an attack into the water, while mirror images absorb the main cannon and Heska discovers a shield that can cover one body part. The village suffers further damage and Tony’s second Dispel Magic attempt fails. Using Heska’s Hunter’s Pounce, the group punches through the iris for 87 damage and pulls out the pilot, accidentally crushing whatever it has caught; the ship loses its bearings. An escort then brings down Aksha and Shai’s craft, cutting off their voices.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Wanderer’s cockpit, offshore battlefield"
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "companion",
+          "notes": "Her vessel crashes; contact is lost."
+        },
+        {
+          "name": "Shai",
+          "role": "companion",
+          "notes": "Goes down with Aksha; his voice cuts off."
+        },
+        {
+          "name": "Dreadnought pilot",
+          "role": "enemy",
+          "notes": "An unidentified being pulled from the cockpit and crushed in the Wanderer’s hand."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        },
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Dreadnought"
+          },
+          {
+            "name": "Escort fighters"
+          }
+        ],
+        "notes": "Another fighter is disabled, the dreadnought pilot is torn out, and the allied vessel crashes; the main battle continues."
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "A perfectly coordinated leap and a conjured stone maul bring down the dreadnought.",
+      "longSummary": "Sculpit grapples the remaining fighter and sends another Lightning Bolt into the dreadnought. Zeno’s renewed call-and-response distracts a gun crew, another mirror image absorbs the main cannon, and further fire damages the village outskirts. Heska discovers that the enlarged statue can jump. Little Tony combines Wall of Stone’s segments into a giant maul, and the four finally synchronize their collective attack: the Wanderer leaps onto the warship and smashes through its cockpit for 410 damage. The dreadnought crashes on the shore, and they quickly dispose of the remaining fighter.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Wanderer and the shoreline battlefield"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Ancient humanoid statue controlled by the four dragonets from seats in its heart."
+        },
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        },
+        {
+          "name": "Stone maul",
+          "role": "encountered",
+          "notes": "Formed by Little Tony from Wall of Stone and wielded by the enlarged Wanderer."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Dreadnought"
+          },
+          {
+            "name": "Remaining escort fighter"
+          }
+        ],
+        "notes": "The dreadnought crashes and the remaining fighter is destroyed, ending the combat."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Little Tony cannot revive Aksha but heals Shai, then senses hundreds of childlike life signatures inside the wrecked dreadnought.",
+      "longSummary": "Tony rushes to the travelers’ crashed vessel intending to use Revivify. The final ruling establishes that Aksha is dead and Shai is barely alive: Revivify has no effect, but Healing Word saves Shai. As Tony reconnects with the survivors, he senses hundreds of beings in the nearby dreadnought, with a feeling that they are children. Shai does not know why a warship would carry anyone beyond its pilots, and the group decides to investigate.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Circular Island",
+        "context": "Wreck of Aksha and Shai’s vessel, near the fallen dreadnought"
+      },
+      "npcs": [
+        {
+          "name": "Aksha",
+          "role": "encountered",
+          "notes": "Dead; Tony’s Revivify attempt does not restore her."
+        },
+        {
+          "name": "Shai",
+          "role": "encountered",
+          "notes": "Barely alive after the crash and healed by Tony."
+        }
+      ],
+      "items": [
+        {
+          "name": "Aksha and Shai’s vessel",
+          "role": "encountered",
+          "notes": "Small flying craft piloted by Aksha, with Shai aboard."
+        },
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-013",
+      "dateStart": null,
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The dragonets rescue captives and about twenty eggs before the dreadnought explodes, then hear Shai’s warning that they must leave the island.",
+      "longSummary": "Inside the wreck, the party finds a specimen vault of unfamiliar imprisoned creatures and eggs resembling dragonet eggs, while Tony senses an imminent reactor explosion. The captives plead for help. Sculpit teleports eggs into the Wanderer, with Heska enlarging him to carry more; Tony assembles a giant dragonet from wreckage through Summon Draconic Spirit, breaking open cages; and Zeno carries out a creature he finds especially endearing. They save many beings and about twenty eggs, but not everyone, before the ship erupts. Back at the allied wreck, the wounded Shai warns that their enemies know where they are and will keep finding them if they stay.",
+      "location": {
+        "kind": "journey",
+        "from": "Specimen vault inside the wrecked dreadnought (Circular Island)",
+        "to": "Wreck of Aksha and Shai’s vessel (Circular Island)",
+        "context": "The party rescues prisoners and escapes; Sculpit makes teleportation trips to the Wanderer."
+      },
+      "npcs": [
+        {
+          "name": "Captive creatures",
+          "role": "encountered",
+          "notes": "Unfamiliar beings plead for release; many escape, but not all can be saved."
+        },
+        {
+          "name": "Rescued creature",
+          "role": "companion",
+          "notes": "An unidentified creature Zeno selects as especially cute and carries to safety."
+        },
+        {
+          "name": "Shai",
+          "role": "encountered",
+          "notes": "Surviving traveler gives the final warning that the party cannot remain here."
+        }
+      ],
+      "items": [
+        {
+          "name": "Dreadnought",
+          "role": "encountered",
+          "notes": "Hostile flying warship with energy weapons."
+        },
+        {
+          "name": "Dragon-like eggs",
+          "role": "encountered",
+          "notes": "About twenty eggs resembling dragonet eggs are rescued into the Wanderer; their exact identity is unknown."
+        },
+        {
+          "name": "Wanderer",
+          "role": "encountered",
+          "notes": "Receives the rescued eggs."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

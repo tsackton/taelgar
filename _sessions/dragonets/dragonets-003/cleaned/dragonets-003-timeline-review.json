@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": null,
+  "inferredEnd": null,
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start; calendar date and time unknown",
+      "date": null,
+      "time": null,
+      "basis": "unknown",
+      "evidence": "The session manifest leaves all in-world dates and times blank. u0033–u0034 and u0066–u0074 recall the preceding hours and prior session. The two-days-ago and waking references at u1284–u1406 are a retelling of earlier events, not new days during this session.",
+      "beatId": "beat-001",
+      "sourceText": "Okay."
+    },
+    {
+      "uid": "u0764",
+      "label": "Practice continues over the next half hour",
+      "date": null,
+      "time": "roughly half an hour of further practice",
+      "basis": "explicit",
+      "evidence": "u0763–u0764 introduces a montage of experiments over the next half hour, followed by the seabed, underwater-vision, and boulder experiments. No time of day is stated.",
+      "beatId": "beat-003",
+      "sourceText": "In this little… next little period, over the next, like, half hour. You know, what other things are you…"
+    },
+    {
+      "uid": "u0865",
+      "label": "At least an hour of practice in total",
+      "date": null,
+      "time": "at least about an hour since practice began",
+      "basis": "explicit",
+      "evidence": "u0865 says at least an hour or so has now been spent talking and experimenting. This describes the accumulated practice interval; it is not an additional hour after the preceding montage.",
+      "beatId": "beat-003",
+      "sourceText": "As you're, you know, over the course of this now, you know, this is, like, now, like, at least an hour, you know, or so, that you've been just doing all of this, talking, experimenting, and so on."
+    },
+    {
+      "uid": "u1656",
+      "label": "The threat arrives shortly after the warning",
+      "date": null,
+      "time": "shortly after the warning; exact interval unknown",
+      "basis": "inferred",
+      "evidence": "The visitors estimate five or ten minutes at u1581–u1583. Evacuation begins, and the dreadnought appears as the party flies back at u1656–u1666. The forecast is not a measured elapsed interval.",
+      "beatId": "beat-007",
+      "sourceText": "As you… Start to fly back to the statue."
+    },
+    {
+      "uid": "u2815",
+      "label": "Immediate aftermath of the battle",
+      "date": null,
+      "time": "immediately after the dreadnought falls",
+      "basis": "explicit",
+      "evidence": "u2811–u2815 ends the battle and has Tony immediately head to the travelers. At u2824 he hopes to arrive within the Revivify window; this is urgency, not proof of an exact elapsed minute.",
+      "beatId": "beat-012",
+      "sourceText": "I'm going to immediately, like, as soon as the Dreadnought is down, go over to the two Travelers to cast Revivify on them."
+    },
+    {
+      "uid": "u2923",
+      "label": "Rescue countdown shortened to three rounds",
+      "date": null,
+      "time": "three-round rescue window",
+      "basis": "explicit",
+      "evidence": "u2915 initially offers five rounds; u2923 explicitly revises the available rescue window to three rounds. u2953 also calls the explosion imminent within a few minutes. These are urgency cues, not a calendar-day transition.",
+      "beatId": "beat-013",
+      "sourceText": "We can do 3 rounds. Let's do 3 rounds."
+    },
+    {
+      "uid": "u3070",
+      "label": "Final escape and explosion",
+      "date": null,
+      "time": "as the rescue ends",
+      "basis": "explicit",
+      "evidence": "u3069–u3071 describes the damaged reactor and the ship exploding as the party makes its final escape. They then return to Shai at u3082–u3097, with no rest, overnight passage, or new day narrated.",
+      "beatId": "beat-013",
+      "sourceText": "As you make your final escape, the entire… Massive"
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-session.yaml",
+      "sha256": "eed68fe8859b6206bcb074835113553f2768651713f4ad7c8d814d1d0ba93164"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-beats.json",
+      "sha256": "9d316f6ca78018a9a12da88fcfb69db995122ac2594cbff4076971ac10dbc13d"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-beat-facts.json",
+      "sha256": "05a5ad3606a3f621a4e7729719fc54bb81be13023a5fda2bd0bd80173429bc3c"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-source-cleaned.md",
+      "sha256": "508f6bef36dedae9bb165793f83d05cbea1ce6debab2dbd771f3808aa6bc3e59"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-timeline-evidence.json",
+      "sha256": "41203336b5c2324632648ed1cb6b57379ff809569044d8c22c6ae9aa232a5241"
+    }
+  }
+}

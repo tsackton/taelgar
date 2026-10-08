@@ -1,0 +1,64 @@
+{
+  "inferredStart": null,
+  "inferredEnd": null,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start; calendar date and time unknown",
+      "date": null,
+      "time": null,
+      "basis": "unknown",
+      "evidence": "The session manifest leaves all in-world dates and times blank. u0033–u0034 and u0066–u0074 recall the preceding hours and prior session. The two-days-ago and waking references at u1284–u1406 are a retelling of earlier events, not new days during this session."
+    },
+    {
+      "uid": "u0764",
+      "label": "Practice continues over the next half hour",
+      "date": null,
+      "time": "roughly half an hour of further practice",
+      "basis": "explicit",
+      "evidence": "u0763–u0764 introduces a montage of experiments over the next half hour, followed by the seabed, underwater-vision, and boulder experiments. No time of day is stated."
+    },
+    {
+      "uid": "u0865",
+      "label": "At least an hour of practice in total",
+      "date": null,
+      "time": "at least about an hour since practice began",
+      "basis": "explicit",
+      "evidence": "u0865 says at least an hour or so has now been spent talking and experimenting. This describes the accumulated practice interval; it is not an additional hour after the preceding montage."
+    },
+    {
+      "uid": "u1656",
+      "label": "The threat arrives shortly after the warning",
+      "date": null,
+      "time": "shortly after the warning; exact interval unknown",
+      "basis": "inferred",
+      "evidence": "The visitors estimate five or ten minutes at u1581–u1583. Evacuation begins, and the dreadnought appears as the party flies back at u1656–u1666. The forecast is not a measured elapsed interval."
+    },
+    {
+      "uid": "u2815",
+      "label": "Immediate aftermath of the battle",
+      "date": null,
+      "time": "immediately after the dreadnought falls",
+      "basis": "explicit",
+      "evidence": "u2811–u2815 ends the battle and has Tony immediately head to the travelers. At u2824 he hopes to arrive within the Revivify window; this is urgency, not proof of an exact elapsed minute."
+    },
+    {
+      "uid": "u2923",
+      "label": "Rescue countdown shortened to three rounds",
+      "date": null,
+      "time": "three-round rescue window",
+      "basis": "explicit",
+      "evidence": "u2915 initially offers five rounds; u2923 explicitly revises the available rescue window to three rounds. u2953 also calls the explosion imminent within a few minutes. These are urgency cues, not a calendar-day transition."
+    },
+    {
+      "uid": "u3070",
+      "label": "Final escape and explosion",
+      "date": null,
+      "time": "as the rescue ends",
+      "basis": "explicit",
+      "evidence": "u3069–u3071 describes the damaged reactor and the ship exploding as the party makes its final escape. They then return to Shai at u3082–u3097, with no rest, overnight passage, or new day narrated."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}
