@@ -1,0 +1,40 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dragonets
+sessionNumber: 3
+realWorldDate: 2026-10-05
+drStart: null
+drEnd: null
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: DM
+  transcriptIdentifiers:
+  - Audio shared by David S. Kong
+  - David S. Kong
+- name: Tim Sackton
+  gameRole: Heska
+  transcriptIdentifiers:
+  - Tim Sackton
+- name: Mike Sackton
+  gameRole: Sculpit
+  transcriptIdentifiers:
+  - Mike Sackton
+- name: David Schwartz
+  gameRole: Little Tony
+  transcriptIdentifiers:
+  - Rev. David Schwartz (he/him)
+- name: Eric Rosenbaum
+  gameRole: Zeno
+  transcriptIdentifiers:
+  - Eric Rosenbaum
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/sources/GMT20261006-010311_Recording.transcript.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dragonets/session-03/GMT20261006-010311_Recording.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/sources/dragonets-ep03-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/sources/dragonets-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-source-prepared.md
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/sources/dragonets-ep03-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-speaker-stats.json

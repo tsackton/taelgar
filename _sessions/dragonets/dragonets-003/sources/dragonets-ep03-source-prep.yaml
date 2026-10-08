@@ -1,0 +1,18 @@
+sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dragonets/session-03/GMT20261006-010311_Recording.transcript.vtt
+sourceType: transcript
+outputDir: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets"
+
+campaign: Dragonets
+sessionNumber: 3
+realWorldDate: 2026-10-05
+# This adventure is not set at a specific time in Taelgar.
+drStart:
+drEnd:
+drStartTime:
+drEndTime:
+
+participantsPath: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-participants.yaml"
+
+transcriptFormat: auto
+narrativeUnit: sentence
+minSpeakerFraction: 0.01

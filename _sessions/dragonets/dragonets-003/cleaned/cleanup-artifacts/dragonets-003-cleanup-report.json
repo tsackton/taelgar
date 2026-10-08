@@ -1,0 +1,1779 @@
+{
+  "summary": {
+    "changedLineCount": 271,
+    "replacementCount": 237,
+    "repeatedReplacementCount": 28,
+    "topReplacements": [
+      {
+        "from": "wanderer",
+        "to": "Wanderer",
+        "count": 14,
+        "headers": [
+          "[u0070 | 00:05:57.700-00:06:01.230 | DM]",
+          "[u0071 | 00:06:02.110-00:06:08.700 | DM]",
+          "[u0209 | 00:18:39.490-00:18:49.379 | DM]",
+          "[u0760 | 00:47:06.050-00:47:12.019 | DM]",
+          "[u0761 | 00:47:12.260-00:47:31.210 | DM]",
+          "[u0871 | 00:54:05.160-00:54:22.470 | DM]",
+          "[u0905 | 00:57:22.650-00:57:33.730 | DM]",
+          "[u0935 | 00:59:49.290-01:00:02.849 | DM]",
+          "[u1157 | 01:13:51.650-01:13:57.829 | DM]",
+          "[u1768 | 01:48:51.110-01:48:54.149 | DM]",
+          "[u1943 | 01:59:04.670-01:59:11.490 | DM]",
+          "[u1945 | 01:59:17.860-01:59:27.590 | DM]",
+          "[u2133 | 02:09:45.620-02:09:50.179 | Zeno]",
+          "[u2739 | 02:45:43.000-02:45:45.529 | DM]"
+        ]
+      },
+      {
+        "from": "Sculpet",
+        "to": "Sculpit",
+        "count": 6,
+        "headers": [
+          "[u0189 | 00:16:56.560-00:17:05.519 | DM]",
+          "[u0614 | 00:39:53.560-00:39:58.779 | Sculpit]",
+          "[u0969 | 01:01:39.330-01:01:42.370 | Sculpit]",
+          "[u1060 | 01:06:14.730-01:06:19.849 | Sculpit]",
+          "[u2502 | 02:33:05.840-02:33:29.409 | DM]"
+        ]
+      },
+      {
+        "from": "dragonettes",
+        "to": "dragonets",
+        "count": 6,
+        "headers": [
+          "[u0236 | 00:19:56.100-00:20:02.750 | DM]",
+          "[u0937 | 01:00:03.320-01:00:12.810 | DM]",
+          "[u1051 | 01:05:30.150-01:05:45.529 | DM]",
+          "[u1254 | 01:18:57.170-01:19:12.430 | DM]",
+          "[u2186 | 02:12:58.330-02:13:12.849 | DM]",
+          "[u2204 | 02:14:54.770-02:15:02.089 | DM]"
+        ]
+      },
+      {
+        "from": "firstborn",
+        "to": "Firstborn",
+        "count": 6,
+        "headers": [
+          "[u1266 | 01:19:52.970-01:19:56.279 | DM]",
+          "[u1689 | 01:43:24.350-01:43:25.910 | DM]",
+          "[u1690 | 01:43:26.950-01:43:29.960 | DM]",
+          "[u1953 | 02:00:07.410-02:00:16.999 | DM]",
+          "[u2180 | 02:12:33.480-02:12:43.630 | DM]",
+          "[u2771 | 02:47:26.960-02:47:29.999 | DM]"
+        ]
+      },
+      {
+        "from": "Akshay",
+        "to": "Aksha",
+        "count": 5,
+        "headers": [
+          "[u1159 | 01:14:01.190-01:14:04.279 | DM]",
+          "[u1409 | 01:25:29.120-01:25:44.489 | DM]",
+          "[u1710 | 01:44:52.290-01:44:57.629 | DM]",
+          "[u2049 | 02:04:34.930-02:04:39.270 | DM]",
+          "[u2639 | 02:39:51.330-02:39:56.509 | DM]"
+        ]
+      },
+      {
+        "from": "Rosca",
+        "to": "Roska",
+        "count": 5,
+        "headers": [
+          "[u1062 | 01:06:25.110-01:06:27.690 | Zeno]",
+          "[u1303 | 01:21:16.950-01:21:18.530 | Zeno]",
+          "[u1324 | 01:21:55.100-01:21:57.309 | Zeno]",
+          "[u1630 | 01:38:37.680-01:38:40.160 | DM]",
+          "[u1632 | 01:38:48.850-01:38:59.399 | DM]"
+        ]
+      },
+      {
+        "from": "46",
+        "to": "4d6",
+        "count": 4,
+        "headers": [
+          "[u1762 | 01:48:28.520-01:48:32.249 | DM]",
+          "[u1795 | 01:50:23.010-01:50:24.820 | Zeno]",
+          "[u2091 | 02:07:08.800-02:07:13.420 | DM]"
+        ]
+      },
+      {
+        "from": "Sculpin",
+        "to": "Sculpit",
+        "count": 4,
+        "headers": [
+          "[u1352 | 01:23:22.860-01:23:27.290 | Sculpit]",
+          "[u2060 | 02:05:09.820-02:05:10.859 | DM]",
+          "[u2130 | 02:09:29.390-02:09:36.849 | DM]",
+          "[u2644 | 02:40:15.990-02:40:19.330 | DM]"
+        ]
+      },
+      {
+        "from": "Shy",
+        "to": "Shai",
+        "count": 4,
+        "headers": [
+          "[u1559 | 01:33:45.720-01:33:48.299 | DM]",
+          "[u1666 | 01:41:16.820-01:41:25.380 | DM]",
+          "[u1725 | 01:46:44.590-01:46:49.760 | DM]",
+          "[u2855 | 02:52:43.470-02:52:46.990 | DM]"
+        ]
+      },
+      {
+        "from": "role",
+        "to": "roll",
+        "count": 4,
+        "headers": [
+          "[u0851 | 00:52:14.480-00:52:16.540 | Heska]",
+          "[u1984 | 02:01:23.500-02:01:25.250 | DM]",
+          "[u1988 | 02:01:30.830-02:01:37.000 | DM]",
+          "[u2092 | 02:07:19.270-02:07:20.640 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 3097,
+  "changedLineCount": 271,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0002 | 00:00:14.140-00:00:18.330 | DM]",
+      "lineNumber": 2,
+      "originalText": "everyone Why don't we just take a quick moment before we begin?",
+      "cleanedText": "Everyone, why don't we just take a quick moment before we begin?"
+    },
+    {
+      "header": "[u0046 | 00:03:33.570-00:03:38.390 | DM]",
+      "lineNumber": 46,
+      "originalText": "And the scene closes with them saying, They're our firstborn here.",
+      "cleanedText": "And the scene closes with them saying, There are Firstborn here."
+    },
+    {
+      "header": "[u0060 | 00:04:43.760-00:04:48.590 | DM]",
+      "lineNumber": 60,
+      "originalText": "Custom made for dragonets like it's like perfectly your sized.",
+      "cleanedText": "Custom made for dragonets, like it's like perfectly your size."
+    },
+    {
+      "header": "[u0070 | 00:05:57.700-00:06:01.230 | DM]",
+      "lineNumber": 70,
+      "originalText": "Trying to make the wanderer do things collectively.",
+      "cleanedText": "Trying to make the Wanderer do things collectively."
+    },
+    {
+      "header": "[u0071 | 00:06:02.110-00:06:08.700 | DM]",
+      "lineNumber": 71,
+      "originalText": "And if you'll remember, you had tried to make the wanderer walk.",
+      "cleanedText": "And if you'll remember, you had tried to make the Wanderer walk."
+    },
+    {
+      "header": "[u0081 | 00:07:02.790-00:07:11.499 | DM]",
+      "lineNumber": 81,
+      "originalText": "So, I'd love for each of you to begin by sharing about your character's state of mind, how you're feeling, and what it's like for you to be sitting in this pocket.",
+      "cleanedText": "So, I'd love for each of you to begin by sharing about your character's state of mind, how you're feeling, and what it's like for you to be sitting in this cockpit."
+    },
+    {
+      "header": "[u0097 | 00:09:19.250-00:09:26.130 | Zeno]",
+      "lineNumber": 97,
+      "originalText": "Nino's always been like, yo, think bigger, man. Think bigger. Trying to give himself the little pep talk.",
+      "cleanedText": "Zeno's always been like, yo, think bigger, man. Think bigger. Trying to give himself the little pep talk."
+    },
+    {
+      "header": "[u0115 | 00:10:45.310-00:10:47.720 | Sculpit]",
+      "lineNumber": 115,
+      "originalText": "culprits Some.",
+      "cleanedText": "Sculpit's, um."
+    },
+    {
+      "header": "[u0164 | 00:15:29.050-00:15:33.810 | Zeno]",
+      "lineNumber": 164,
+      "originalText": "We'd have him to knock this thing over, you guys!",
+      "cleanedText": "We don't want to knock this thing over, you guys!"
+    },
+    {
+      "header": "[u0166 | 00:15:34.300-00:15:36.239 | Zeno]",
+      "lineNumber": 166,
+      "originalText": "Pulls down, it might not be able to get up.",
+      "cleanedText": "If it falls down, it might not be able to get up."
+    },
+    {
+      "header": "[u0175 | 00:16:02.010-00:16:05.340 | Sculpit]",
+      "lineNumber": 175,
+      "originalText": "Skaldin's not thinking about the right foot. We're just gonna fall over.",
+      "cleanedText": "Sculpit's not thinking about the right foot. We're just gonna fall over."
+    },
+    {
+      "header": "[u0182 | 00:16:23.310-00:16:26.230 | DM]",
+      "lineNumber": 182,
+      "originalText": "No, no. Scalpa, stop talking. Scott says everybody.",
+      "cleanedText": "No, no. Sculpit, stop talking. Scott says everybody."
+    },
+    {
+      "header": "[u0183 | 00:16:26.230-00:16:26.929 | Sculpit]",
+      "lineNumber": 183,
+      "originalText": "Great head.",
+      "cleanedText": "Right hand."
+    },
+    {
+      "header": "[u0189 | 00:16:56.560-00:17:05.519 | DM]",
+      "lineNumber": 189,
+      "originalText": "You are rolling an insight check. Heska is rolling an acrobatics check. Sculpet is rolling an arcana check. And Zeno is rolling a performance check.",
+      "cleanedText": "You are rolling an insight check. Heska is rolling an acrobatics check. Sculpit is rolling an arcana check. And Zeno is rolling a performance check."
+    },
+    {
+      "header": "[u0196 | 00:17:26.880-00:17:27.750 | Sculpit]",
+      "lineNumber": 196,
+      "originalText": "Gulp it, yeah.",
+      "cleanedText": "Sculpit, yeah."
+    },
+    {
+      "header": "[u0197 | 00:17:27.750-00:17:29.990 | DM]",
+      "lineNumber": 197,
+      "originalText": "Golfo rolled a 24, and who else rolled above a 20?",
+      "cleanedText": "Sculpit rolled a 24, and who else rolled above a 20?"
+    },
+    {
+      "header": "[u0209 | 00:18:39.490-00:18:49.379 | DM]",
+      "lineNumber": 209,
+      "originalText": "And, and also by the way, just as a side note, you can't see shit. It's not like you're like, it's not like currently you can like see through the eyes of the wanderer out in the ocean. You're sitting in a cockpit right now, but there's no.",
+      "cleanedText": "And, and also by the way, just as a side note, you can't see shit. It's not like you're like, it's not like currently you can like see through the eyes of the Wanderer out in the ocean. You're sitting in a cockpit right now, but there's no."
+    },
+    {
+      "header": "[u0216 | 00:19:10.010-00:19:13.359 | DM]",
+      "lineNumber": 216,
+      "originalText": "It's one way, it's not like you moved and then Sancho moved right off.",
+      "cleanedText": "It's one way, it's not like you moved and then the statue moved right off."
+    },
+    {
+      "header": "[u0236 | 00:19:56.100-00:20:02.750 | DM]",
+      "lineNumber": 236,
+      "originalText": "All right. Just, you know, because you're fucking dragonettes on this shit, even though you're saying. We're going to do the exact same thing.",
+      "cleanedText": "So, you know, because you're fucking dragonets on this shit, even though you're saying. We're going to do the exact same thing."
+    },
+    {
+      "header": "[u0261 | 00:22:18.920-00:22:24.420 | Little Tony]",
+      "lineNumber": 261,
+      "originalText": "Yeah. Wait. Wait. Wait. Wait. Don't I I feel it for for myself and maybe different for Stasha, but for me.",
+      "cleanedText": "Yeah. Wait. Wait. Wait. Wait. Don't I I feel it for for myself and maybe different for a statue, but for me."
+    },
+    {
+      "header": "[u0285 | 00:23:16.400-00:23:18.810 | Heska]",
+      "lineNumber": 285,
+      "originalText": "Wait, wait, wait, wait, wait. House guy has an idea.",
+      "cleanedText": "Wait, wait, wait, wait, wait. Heska has an idea."
+    },
+    {
+      "header": "[u0330 | 00:24:52.450-00:24:55.040 | Sculpit]",
+      "lineNumber": 330,
+      "originalText": "Not waving his hand. Sculptor is just thinking.",
+      "cleanedText": "Not waving his hand. Sculpit is just thinking."
+    },
+    {
+      "header": "[u0331 | 00:24:55.600-00:24:58.090 | DM]",
+      "lineNumber": 331,
+      "originalText": "Just stop thinking about waving his hand.",
+      "cleanedText": "Just Sculpit thinking about waving his hand."
+    },
+    {
+      "header": "[u0362 | 00:26:30.210-00:26:31.609 | DM]",
+      "lineNumber": 362,
+      "originalText": "And what were your roles one more time?",
+      "cleanedText": "And what were your rolls one more time?"
+    },
+    {
+      "header": "[u0394 | 00:28:06.430-00:28:13.409 | Sculpit]",
+      "lineNumber": 394,
+      "originalText": "It is, but our goal here, Little Tony, is to find you the really cool pebbles, not make pedals out of.",
+      "cleanedText": "It is, but our goal here, Little Tony, is to find you the really cool pebbles, not make pebbles out of."
+    },
+    {
+      "header": "[u0411 | 00:29:06.140-00:29:14.429 | DM]",
+      "lineNumber": 411,
+      "originalText": "No, you can't take a piece of it. It's just, you can either sit in the little throne cockpit thing that's like sized perfectly for Dragonites or not.",
+      "cleanedText": "No, you can't take a piece of it. It's just, you can either sit in the little throne cockpit thing that's like sized perfectly for dragonets or not."
+    },
+    {
+      "header": "[u0414 | 00:29:19.680-00:29:25.220 | Heska]",
+      "lineNumber": 414,
+      "originalText": "I'm just gonna think really hard about Emmanuel appearing in my hand, in the Wanderer's hand.",
+      "cleanedText": "I'm just gonna think really hard about a manual appearing in my hand, in the Wanderer's hand."
+    },
+    {
+      "header": "[u0442 | 00:30:30.460-00:30:33.649 | Little Tony]",
+      "lineNumber": 442,
+      "originalText": "Come while we concentrate, okay?",
+      "cleanedText": "Hum while we concentrate, okay?"
+    },
+    {
+      "header": "[u0444 | 00:30:42.040-00:30:46.879 | Heska]",
+      "lineNumber": 444,
+      "originalText": "Tesla cannot like match a tune to save his life, so everybody else.",
+      "cleanedText": "Heska cannot like match a tune to save his life, so everybody else."
+    },
+    {
+      "header": "[u0447 | 00:30:57.210-00:30:58.199 | DM]",
+      "lineNumber": 447,
+      "originalText": "Tell me, tell me your roles.",
+      "cleanedText": "Tell me, tell me your rolls."
+    },
+    {
+      "header": "[u0461 | 00:31:39.270-00:31:40.900 | Sculpit]",
+      "lineNumber": 461,
+      "originalText": "Gulp is just looking around.",
+      "cleanedText": "Sculpit is just looking around."
+    },
+    {
+      "header": "[u0464 | 00:31:48.930-00:31:51.459 | DM]",
+      "lineNumber": 464,
+      "originalText": "So this is for everybody that's on Sculpit right now.",
+      "cleanedText": "So this is for everybody that's not Sculpit right now."
+    },
+    {
+      "header": "[u0465 | 00:31:51.950-00:31:55.360 | DM]",
+      "lineNumber": 465,
+      "originalText": "Each of you… Heskazino and Tony.",
+      "cleanedText": "Each of you… Heska, Zeno, and Tony."
+    },
+    {
+      "header": "[u0475 | 00:32:34.100-00:32:39.860 | DM]",
+      "lineNumber": 475,
+      "originalText": "And amazing clouds, and… You're looking through the eyes of a wanderer.",
+      "cleanedText": "And amazing clouds, and… You're looking through the eyes of the Wanderer."
+    },
+    {
+      "header": "[u0480 | 00:33:04.270-00:33:06.139 | DM]",
+      "lineNumber": 480,
+      "originalText": "Sculpt it for you.",
+      "cleanedText": "Sculpit, for you."
+    },
+    {
+      "header": "[u0490 | 00:33:50.720-00:33:56.699 | Sculpit]",
+      "lineNumber": 490,
+      "originalText": "I'm going to start thinking about lifting his foot. I'm not going to say anything. Sculpt is just thinking, lift the right foot.",
+      "cleanedText": "I'm going to start thinking about lifting his foot. I'm not going to say anything. Sculpit is just thinking, lift the right foot."
+    },
+    {
+      "header": "[u0492 | 00:33:58.810-00:34:02.780 | DM]",
+      "lineNumber": 492,
+      "originalText": "Oh, well, everybody else think about what you're doing. If you're is anybody else thinking about rolling foot?",
+      "cleanedText": "Oh, well, everybody else think about what you're doing. If you're—is anybody else thinking about moving a foot?"
+    },
+    {
+      "header": "[u0508 | 00:34:40.170-00:34:45.190 | DM]",
+      "lineNumber": 508,
+      "originalText": "Okay, so now all of you are doing what? You're all looking down at the red foot and trying to move it?",
+      "cleanedText": "Okay, so now all of you are doing what? You're all looking down at the right foot and trying to move it?"
+    },
+    {
+      "header": "[u0513 | 00:34:54.870-00:34:55.630 | DM]",
+      "lineNumber": 513,
+      "originalText": "Stop it.",
+      "cleanedText": "Sculpit?"
+    },
+    {
+      "header": "[u0530 | 00:35:50.020-00:35:50.920 | DM]",
+      "lineNumber": 530,
+      "originalText": "$160.",
+      "cleanedText": "160."
+    },
+    {
+      "header": "[u0532 | 00:35:54.570-00:35:56.609 | DM]",
+      "lineNumber": 532,
+      "originalText": "You have not… you just looked down. You just looked down and moved your phone.",
+      "cleanedText": "You have not… you just looked down. You just looked down and moved your foot."
+    },
+    {
+      "header": "[u0538 | 00:36:06.310-00:36:07.900 | Zeno]",
+      "lineNumber": 538,
+      "originalText": "Just to test the stopping.",
+      "cleanedText": "Just to test the stomping."
+    },
+    {
+      "header": "[u0542 | 00:36:19.880-00:36:25.300 | Sculpit]",
+      "lineNumber": 542,
+      "originalText": "Dap into the like Ocean, a bit, just, like, 1 inch.",
+      "cleanedText": "Step into the, like, ocean a bit, just, like, 1 inch."
+    },
+    {
+      "header": "[u0563 | 00:37:00.470-00:37:01.210 | DM]",
+      "lineNumber": 563,
+      "originalText": "Eska?",
+      "cleanedText": "Heska?"
+    },
+    {
+      "header": "[u0569 | 00:37:15.410-00:37:30.050 | DM]",
+      "lineNumber": 569,
+      "originalText": "Creek, creek, creek, turn. And you kind of, like, take a little step up, and then a little step up. But you're definitely not very well balanced. You don't totally turn around. This is, like, kind of like a, you know, partial, partial success.",
+      "cleanedText": "Creak, creak, creak, turn. And you kind of, like, take a little step up, and then a little step up. But you're definitely not very well balanced. You don't totally turn around. This is, like, kind of like a, you know, partial, partial success."
+    },
+    {
+      "header": "[u0571 | 00:37:37.290-00:37:39.710 | Heska]",
+      "lineNumber": 571,
+      "originalText": "Just Practice takes perfect.",
+      "cleanedText": "Just practice makes perfect."
+    },
+    {
+      "header": "[u0584 | 00:38:20.860-00:38:22.109 | DM]",
+      "lineNumber": 584,
+      "originalText": "Esco's locked in.",
+      "cleanedText": "Heska's locked in."
+    },
+    {
+      "header": "[u0587 | 00:38:25.420-00:38:26.820 | Sculpit]",
+      "lineNumber": 587,
+      "originalText": "Little, little pony.",
+      "cleanedText": "Little, Little Tony."
+    },
+    {
+      "header": "[u0595 | 00:38:51.450-00:38:53.610 | Sculpit]",
+      "lineNumber": 595,
+      "originalText": "I was saying that I could also cast enhanceability.",
+      "cleanedText": "I was saying that I could also cast Enhance Ability."
+    },
+    {
+      "header": "[u0606 | 00:39:16.540-00:39:24.929 | Sculpit]",
+      "lineNumber": 606,
+      "originalText": "goes crazy, right? And way better than usual. And I'll just, it'll become enhanceability for you, little Toby.",
+      "cleanedText": "goes crazy, right? And way better than usual. And I'll just, it'll become Enhance Ability for you, Little Tony."
+    },
+    {
+      "header": "[u0613 | 00:39:49.490-00:39:52.859 | Sculpit]",
+      "lineNumber": 613,
+      "originalText": "So Zena will hide look. We're a very cooperative bunch here.",
+      "cleanedText": "So Zeno will hype. Look, we're a very cooperative bunch here."
+    },
+    {
+      "header": "[u0614 | 00:39:53.560-00:39:58.779 | Sculpit]",
+      "lineNumber": 614,
+      "originalText": "Sculpet's making Little Tony better, Little Tony's making Zeno better, and Zeno's making Sculpet better.",
+      "cleanedText": "Sculpit's making Little Tony better, Little Tony's making Zeno better, and Zeno's making Sculpit better."
+    },
+    {
+      "header": "[u0647 | 00:41:03.690-00:41:08.590 | Heska]",
+      "lineNumber": 647,
+      "originalText": "We got a 20, a 30, a 25, and a whatever Zeno Eric won for Zeno.",
+      "cleanedText": "We got a 20, a 30, a 25, and a whatever Zeno—Eric rolled for Zeno."
+    },
+    {
+      "header": "[u0648 | 00:41:08.770-00:41:10.970 | Zeno]",
+      "lineNumber": 648,
+      "originalText": "Why aren't my rules showing up in the thing?",
+      "cleanedText": "Why aren't my rolls showing up in the thing?"
+    },
+    {
+      "header": "[u0652 | 00:41:18.060-00:41:19.639 | Zeno]",
+      "lineNumber": 652,
+      "originalText": "Send to everyone is Seth.",
+      "cleanedText": "Send to everyone is set."
+    },
+    {
+      "header": "[u0663 | 00:41:41.120-00:41:42.240 | Heska]",
+      "lineNumber": 663,
+      "originalText": "Gmail.",
+      "cleanedText": "Game log."
+    },
+    {
+      "header": "[u0668 | 00:41:48.100-00:41:52.819 | Heska]",
+      "lineNumber": 668,
+      "originalText": "Right next to where it says Campaign Dragonettes, there should be, like, click on anybody's character sheet, it doesn't matter.",
+      "cleanedText": "Right next to where it says Campaign Dragonets, there should be, like, click on anybody's character sheet, it doesn't matter."
+    },
+    {
+      "header": "[u0675 | 00:42:05.600-00:42:06.440 | Heska]",
+      "lineNumber": 675,
+      "originalText": "Minus 30.",
+      "cleanedText": "Mine's 30."
+    },
+    {
+      "header": "[u0726 | 00:45:27.500-00:45:30.969 | Sculpit]",
+      "lineNumber": 726,
+      "originalText": "Yeah, I was thinking… Sure, let's walk till we're wasting.",
+      "cleanedText": "Yeah, I was thinking… Sure, let's walk till we're waist-deep."
+    },
+    {
+      "header": "[u0727 | 00:45:30.970-00:45:32.959 | DM]",
+      "lineNumber": 727,
+      "originalText": "Everybody's agreed, walked away.",
+      "cleanedText": "Everybody's agreed, walk to waist-deep."
+    },
+    {
+      "header": "[u0744 | 00:46:11.220-00:46:14.240 | Zeno]",
+      "lineNumber": 744,
+      "originalText": "All right, now it's going to work. Roll the vintage.",
+      "cleanedText": "All right, now it's going to work. Roll with advantage."
+    },
+    {
+      "header": "[u0760 | 00:47:06.050-00:47:12.019 | DM]",
+      "lineNumber": 760,
+      "originalText": "Even with the fact that you're fully focused and really need to fully focus on, on making the wanderer walk.",
+      "cleanedText": "Even with the fact that you're fully focused and really need to fully focus on, on making the Wanderer walk."
+    },
+    {
+      "header": "[u0761 | 00:47:12.260-00:47:31.210 | DM]",
+      "lineNumber": 761,
+      "originalText": "You just get just larger vibes, it's sort of like the hair standing up on your, on your, you know, on your, your skin type of thing, like, everybody, all of the dragonets are like, holy the wanderer is, like, walking into the ocean, like, everybody is like, is like, like, holy this is actually happening.",
+      "cleanedText": "You just get just larger vibes, it's sort of like the hair standing up on your, on your, you know, on your, your skin type of thing, like, everybody, all of the dragonets are like, holy the Wanderer is, like, walking into the ocean, like, everybody is like, is like, like, holy this is actually happening."
+    },
+    {
+      "header": "[u0791 | 00:48:50.650-00:48:52.619 | Heska]",
+      "lineNumber": 791,
+      "originalText": "We're all good at times.",
+      "cleanedText": "We're all good at things."
+    },
+    {
+      "header": "[u0811 | 00:50:19.180-00:50:24.959 | Sculpit]",
+      "lineNumber": 811,
+      "originalText": "Can we, like, blow out? Like, is there any source of… Voted forced to…",
+      "cleanedText": "Can we, like, blow out? Like, is there any source of… motive force to…"
+    },
+    {
+      "header": "[u0812 | 00:50:24.960-00:50:27.929 | Zeno]",
+      "lineNumber": 812,
+      "originalText": "Maybe we should open the mouse.",
+      "cleanedText": "Maybe we should open the mouth."
+    },
+    {
+      "header": "[u0840 | 00:51:47.820-00:51:49.310 | Heska]",
+      "lineNumber": 840,
+      "originalText": "99…",
+      "cleanedText": "29…"
+    },
+    {
+      "header": "[u0848 | 00:51:58.670-00:52:10.909 | DM]",
+      "lineNumber": 848,
+      "originalText": "Wow. Okay. So, okay. And, you know, just, you all are so lucky to have a fucking invincible rogue on your team as the lead acrobat for this fucking wonder.",
+      "cleanedText": "Wow. Okay. So, okay. And, you know, just, you all are so lucky to have a fucking invincible rogue on your team as the lead acrobat for this fucking Wanderer."
+    },
+    {
+      "header": "[u0851 | 00:52:14.480-00:52:16.540 | Heska]",
+      "lineNumber": 851,
+      "originalText": "Just testing. That wasn't a real role.",
+      "cleanedText": "Just testing. That wasn't a real roll."
+    },
+    {
+      "header": "[u0854 | 00:52:20.410-00:52:22.020 | Sculpit]",
+      "lineNumber": 854,
+      "originalText": "I've deemed the odds as bad.",
+      "cleanedText": "D&D Beyond's just bad."
+    },
+    {
+      "header": "[u0871 | 00:54:05.160-00:54:22.470 | DM]",
+      "lineNumber": 871,
+      "originalText": "It's like if everything else is locked in, it's like you are actually the wanderer. It's like you are able to like throw shit and you're Heska now 10th level and it's like, oh fuck. Like it's an insane like as crazy as this day is felt and how you have personally felt about yourself.",
+      "cleanedText": "It's like if everything else is locked in, it's like you are actually the Wanderer. It's like you are able to like throw shit and you're Heska now 10th level and it's like, oh fuck. Like it's an insane like as crazy as this day has felt and how you have personally felt about yourself."
+    },
+    {
+      "header": "[u0875 | 00:54:36.280-00:54:42.490 | DM]",
+      "lineNumber": 875,
+      "originalText": "Sculpt it for you. There's like kind of a a multi-dimensional of like",
+      "cleanedText": "Sculpit, for you. There's like kind of a a multi-dimensional of like"
+    },
+    {
+      "header": "[u0878 | 00:55:11.860-00:55:13.209 | DM]",
+      "lineNumber": 878,
+      "originalText": "And then Xena…",
+      "cleanedText": "And then Zeno…"
+    },
+    {
+      "header": "[u0883 | 00:55:57.570-00:56:15.790 | DM]",
+      "lineNumber": 883,
+      "originalText": "one of you doesn't fail, multiple of you fails, it's… it's not gonna work. But, you know, it's pretty fortunate that Heska is on your team, because now it's like, you're kind of not… never, like, doing anything totally poorly, but, but it's pretty sweet. Like, you're all, like, really, really enjoying this time.",
+      "cleanedText": "one of you fails, multiple of you fails, it's… it's not gonna work. But, you know, it's pretty fortunate that Heska is on your team, because now it's like, you're kind of not… never, like, doing anything totally poorly, but, but it's pretty sweet. Like, you're all, like, really, really enjoying this time."
+    },
+    {
+      "header": "[u0889 | 00:56:36.620-00:56:44.490 | DM]",
+      "lineNumber": 889,
+      "originalText": "Doing some shaman Uru shit, cause as, you know, as funny of a dude as he is, he also is like the eldest dragonet shaman and the most mystical dude on the island.",
+      "cleanedText": "Doing some Shaman Oru shit, cause as, you know, as funny of a dude as he is, he also is like the eldest dragonet shaman and the most mystical dude on the island."
+    },
+    {
+      "header": "[u0905 | 00:57:22.650-00:57:33.730 | DM]",
+      "lineNumber": 905,
+      "originalText": "So the lady and the wanderer are actually adjacent statues on the wheel around the island. So, okay, yeah, you can… well, roll some dice, see how well you get over there.",
+      "cleanedText": "So the Lady and the Wanderer are actually adjacent statues on the wheel around the island. So, okay, yeah, you can… well, roll some dice, see how well you get over there."
+    },
+    {
+      "header": "[u0910 | 00:57:44.880-00:57:45.900 | Sculpit]",
+      "lineNumber": 910,
+      "originalText": "Errol the One.",
+      "cleanedText": "I rolled a one."
+    },
+    {
+      "header": "[u0924 | 00:58:53.840-00:58:54.900 | DM]",
+      "lineNumber": 924,
+      "originalText": "That it crashed.",
+      "cleanedText": "That had crashed."
+    },
+    {
+      "header": "[u0935 | 00:59:49.290-01:00:02.849 | DM]",
+      "lineNumber": 935,
+      "originalText": "But you basically see this scene. It's now, you know, this is like hundreds of feet away from you, but with the wanderer's eyes, you can actually see this crash site. And you see these two figures.",
+      "cleanedText": "But you basically see this scene. It's now, you know, this is like hundreds of feet away from you, but with the Wanderer's eyes, you can actually see this crash site. And you see these two figures."
+    },
+    {
+      "header": "[u0937 | 01:00:03.320-01:00:12.810 | DM]",
+      "lineNumber": 937,
+      "originalText": "And there's like a handful of dragonettes that are talking. They're like all kind of animated. And you see a lot of animated like kind of like this and that, you know, with these figures.",
+      "cleanedText": "And there's like a handful of dragonets that are talking. They're like all kind of animated. And you see a lot of animated like kind of like this and that, you know, with these figures."
+    },
+    {
+      "header": "[u0969 | 01:01:39.330-01:01:42.370 | Sculpit]",
+      "lineNumber": 969,
+      "originalText": "Sculpet's heart really isn't in this.",
+      "cleanedText": "Sculpit's heart really isn't in this."
+    },
+    {
+      "header": "[u0973 | 01:01:48.450-01:01:50.019 | Sculpit]",
+      "lineNumber": 973,
+      "originalText": "Shout out to Gary. Hello.",
+      "cleanedText": "Shout out a scary hello."
+    },
+    {
+      "header": "[u0991 | 01:02:59.400-01:02:59.910 | DM]",
+      "lineNumber": 991,
+      "originalText": "You can win.",
+      "cleanedText": "You can wave."
+    },
+    {
+      "header": "[u1008 | 01:03:35.230-01:03:37.229 | Heska]",
+      "lineNumber": 1008,
+      "originalText": "Pointing at ourselves and making a tea.",
+      "cleanedText": "Pointing at ourselves and making a T."
+    },
+    {
+      "header": "[u1009 | 01:03:37.230-01:03:42.469 | Little Tony]",
+      "lineNumber": 1009,
+      "originalText": "We'll walk over and squat down next to everybody, Give a thumbs up, Sue.",
+      "cleanedText": "We'll walk over and squat down next to everybody, give a thumbs up, too."
+    },
+    {
+      "header": "[u1016 | 01:03:57.210-01:04:03.089 | DM]",
+      "lineNumber": 1016,
+      "originalText": "And then Tony's, and then you hear a voice, Sean's like, we need to speak with you. Like, come.",
+      "cleanedText": "And then Tony's, and then you hear a voice, shaman's like, we need to speak with you. Like, come."
+    },
+    {
+      "header": "[u1028 | 01:04:32.730-01:04:36.660 | Little Tony]",
+      "lineNumber": 1028,
+      "originalText": "No, we should go over and it should like put its arm around the dark lady.",
+      "cleanedText": "No, we should go over and it should like put its arm around the Dark Lady."
+    },
+    {
+      "header": "[u1038 | 01:05:00.580-01:05:04.049 | DM]",
+      "lineNumber": 1038,
+      "originalText": "Yes, yes. The sound is like in your ear, like, what the fuck, Tony, dude.",
+      "cleanedText": "Yes, yes. The shaman is like in your ear, like, what the fuck, Tony, dude."
+    },
+    {
+      "header": "[u1045 | 01:05:18.120-01:05:19.189 | Zeno]",
+      "lineNumber": 1045,
+      "originalText": "We'll do the coffee thing, right?",
+      "cleanedText": "We'll do the coughing thing, right?"
+    },
+    {
+      "header": "[u1046 | 01:05:19.190-01:05:24.469 | DM]",
+      "lineNumber": 1046,
+      "originalText": "And just just out of out of curiosity, like, do you flat of its eyeball? Do you teleport? Like, what's the the eyeball?",
+      "cleanedText": "And just just out of out of curiosity, like, do you fly out of its eyeball? Do you teleport? Like, what's the—the eyeball?"
+    },
+    {
+      "header": "[u1051 | 01:05:30.150-01:05:45.529 | DM]",
+      "lineNumber": 1051,
+      "originalText": "So every, you know, so you fly out of the eyeball and of course everybody like, you know, there are other dragonettes hanging out outside and you recognize some friends and some onlookers and everybody's just like, like all at once, like, what are you doing? You know, everybody's just trying to like, kind of talk to you guys about like, you know, what the hell's going on.",
+      "cleanedText": "So every, you know, so you fly out of the eyeball and of course everybody like, you know, there are other dragonets hanging out outside and you recognize some friends and some onlookers and everybody's just like, like all at once, like, what are you doing? You know, everybody's just trying to like, kind of talk to you guys about like, you know, what the hell's going on."
+    },
+    {
+      "header": "[u1052 | 01:05:45.530-01:05:48.469 | DM]",
+      "lineNumber": 1052,
+      "originalText": "A bunch of people, dragonites start trying to fly into the eye.",
+      "cleanedText": "A bunch of people, dragonets start trying to fly into the eye."
+    },
+    {
+      "header": "[u1060 | 01:06:14.730-01:06:19.849 | Sculpit]",
+      "lineNumber": 1060,
+      "originalText": "like use minor illusion to make a booming screaming voice of Sculpet saying",
+      "cleanedText": "like use Minor Illusion to make a booming screaming voice of Sculpit saying"
+    },
+    {
+      "header": "[u1062 | 01:06:25.110-01:06:27.690 | Zeno]",
+      "lineNumber": 1062,
+      "originalText": "Oh, tell me to ask Rosca about it.",
+      "cleanedText": "Oh, tell them to ask Roska about it."
+    },
+    {
+      "header": "[u1076 | 01:07:16.800-01:07:38.840 | DM]",
+      "lineNumber": 1076,
+      "originalText": "approach the this this crash site and these you know and then there's basically as far as you can tell it feels like some kind of game of call and response is happening or it's like they're like a bunch of dragonites or like and then the two humanoids you don't sense at all that they're threatening in any way they're just kind of like they're they're engaging they're trying to like kind of understand each other and the shaman basically comes over and is like.",
+      "cleanedText": "approach the this this crash site and these you know and then there's basically as far as you can tell it feels like some kind of game of call and response is happening or it's like they're like a bunch of dragonets or like and then the two humanoids you don't sense at all that they're threatening in any way they're just kind of like they're they're engaging they're trying to like kind of understand each other and the shaman basically comes over and is like."
+    },
+    {
+      "header": "[u1157 | 01:13:51.650-01:13:57.829 | DM]",
+      "lineNumber": 1157,
+      "originalText": "the four of you. They look at everybody and the four of you and the wanderer like crouched over and a st I mean.",
+      "cleanedText": "the four of you. They look at everybody and the four of you and the Wanderer like crouched over and a st I mean."
+    },
+    {
+      "header": "[u1159 | 01:14:01.190-01:14:04.279 | DM]",
+      "lineNumber": 1159,
+      "originalText": "Shai and Akshay, they both just say, you know.",
+      "cleanedText": "Shai and Aksha, they both just say, you know."
+    },
+    {
+      "header": "[u1167 | 01:14:24.090-01:14:26.039 | DM]",
+      "lineNumber": 1167,
+      "originalText": "None of the other diagnostics can do this, though.",
+      "cleanedText": "None of the other dragonets can do this, though."
+    },
+    {
+      "header": "[u1189 | 01:15:28.110-01:15:30.000 | Heska]",
+      "lineNumber": 1189,
+      "originalText": "Jessica will like.",
+      "cleanedText": "Heska will like."
+    },
+    {
+      "header": "[u1232 | 01:17:53.810-01:17:55.920 | DM]",
+      "lineNumber": 1232,
+      "originalText": "Ashka's Incredible.",
+      "cleanedText": "Aksha's an incredible."
+    },
+    {
+      "header": "[u1254 | 01:18:57.170-01:19:12.430 | DM]",
+      "lineNumber": 1254,
+      "originalText": "What are they talking about? They're so funny, they're so weird. And then at the same time, like the deepest possible sorrow that you can imagine, like so deep and so sorrowful. You don't even relate to the sorrow, obviously, as dragonettes and the lives that you've had.",
+      "cleanedText": "What are they talking about? They're so funny, they're so weird. And then at the same time, like the deepest possible sorrow that you can imagine, like so deep and so sorrowful. You don't even relate to the sorrow, obviously, as dragonets and the lives that you've had."
+    },
+    {
+      "header": "[u1260 | 01:19:35.330-01:19:36.580 | Zeno]",
+      "lineNumber": 1260,
+      "originalText": "Use your wings somehow?",
+      "cleanedText": "Lose your wings somehow?"
+    },
+    {
+      "header": "[u1266 | 01:19:52.970-01:19:56.279 | DM]",
+      "lineNumber": 1266,
+      "originalText": "You, the firstborn, ask if we are gods?",
+      "cleanedText": "You, the Firstborn, ask if we are gods?"
+    },
+    {
+      "header": "[u1272 | 01:20:04.360-01:20:04.850 | Zeno]",
+      "lineNumber": 1272,
+      "originalText": "Shannon.",
+      "cleanedText": "Shaman."
+    },
+    {
+      "header": "[u1273 | 01:20:04.850-01:20:07.690 | DM]",
+      "lineNumber": 1273,
+      "originalText": "Shai and Akshar are just like staring at each other, just like.",
+      "cleanedText": "Shai and Aksha are just like staring at each other, just like."
+    },
+    {
+      "header": "[u1296 | 01:20:54.300-01:21:03.790 | DM]",
+      "lineNumber": 1296,
+      "originalText": "It was quite good, but it was… it was really… so you have to meet, Xena, right? Like.",
+      "cleanedText": "It was quite good, but it was… it was really… so you have to meet Zeno, right? Like."
+    },
+    {
+      "header": "[u1300 | 01:21:10.670-01:21:11.470 | Sculpit]",
+      "lineNumber": 1300,
+      "originalText": "Haskell.",
+      "cleanedText": "Heska."
+    },
+    {
+      "header": "[u1303 | 01:21:16.950-01:21:18.530 | Zeno]",
+      "lineNumber": 1303,
+      "originalText": "I finally beat Rosca.",
+      "cleanedText": "I finally beat Roska."
+    },
+    {
+      "header": "[u1306 | 01:21:21.250-01:21:21.750 | DM]",
+      "lineNumber": 1306,
+      "originalText": "Roscoe.",
+      "cleanedText": "Roska."
+    },
+    {
+      "header": "[u1313 | 01:21:34.460-01:21:35.170 | Sculpit]",
+      "lineNumber": 1313,
+      "originalText": "Ag?",
+      "cleanedText": "Egg?"
+    },
+    {
+      "header": "[u1315 | 01:21:37.110-01:21:37.650 | Sculpit]",
+      "lineNumber": 1315,
+      "originalText": "Agri.",
+      "cleanedText": "Egg."
+    },
+    {
+      "header": "[u1324 | 01:21:55.100-01:21:57.309 | Zeno]",
+      "lineNumber": 1324,
+      "originalText": "The Rosca and my battle. Yeah, we could just like.",
+      "cleanedText": "The Roska and my battle. Yeah, we could just like."
+    },
+    {
+      "header": "[u1327 | 01:22:06.640-01:22:08.920 | Sculpit]",
+      "lineNumber": 1327,
+      "originalText": "Skullbit will use Bire Illusion to.",
+      "cleanedText": "Sculpit will use Minor Illusion to."
+    },
+    {
+      "header": "[u1330 | 01:22:12.200-01:22:26.010 | Sculpit]",
+      "lineNumber": 1330,
+      "originalText": "like, a little picture of an egg, and then, like, he… he's still learning how to use minor illusions, so he does, like, do-do-do side effects with his voice, not realizing he can do them with the illusion. And then he, like, changes the illusion again to, like, the next bit.",
+      "cleanedText": "like, a little picture of an egg, and then, like, he… he's still learning how to use Minor Illusion, so he does, like, do-do-do sound effects with his voice, not realizing he can do them with the illusion. And then he, like, changes the illusion again to, like, the next bit."
+    },
+    {
+      "header": "[u1351 | 01:23:20.630-01:23:22.439 | Sculpit]",
+      "lineNumber": 1351,
+      "originalText": "Okay, so there was this Ken.",
+      "cleanedText": "Okay, so there was this egg."
+    },
+    {
+      "header": "[u1352 | 01:23:22.860-01:23:27.290 | Sculpit]",
+      "lineNumber": 1352,
+      "originalText": "And Sculpin will make a picture of the egg, right? And, like, we had this…",
+      "cleanedText": "And Sculpit will make a picture of the egg, right? And, like, we had this…"
+    },
+    {
+      "header": "[u1376 | 01:24:01.250-01:24:03.829 | DM]",
+      "lineNumber": 1376,
+      "originalText": "No, we gave it a good look.",
+      "cleanedText": "No, we gave it a good hug."
+    },
+    {
+      "header": "[u1388 | 01:24:30.900-01:24:36.480 | Sculpit]",
+      "lineNumber": 1388,
+      "originalText": "like a Dragonette like one of us who was like dead or dying or something like.",
+      "cleanedText": "like a dragonet like one of us who was like dead or dying or something like."
+    },
+    {
+      "header": "[u1409 | 01:25:29.120-01:25:44.489 | DM]",
+      "lineNumber": 1409,
+      "originalText": "Wait, hold on, wait, wait. I just, I know you, I'm starting to understand you love the food. This is, this is bad. Akshay, the woman's like leading the conversation. She's like, okay, no, no. So you understand, I think we understand. And he's like, she's looking at Shai. We're excited about the restaurant. We can't wait to eat at the restaurant.",
+      "cleanedText": "Wait, hold on, wait, wait. I just, I know you, I'm starting to understand you love the food. This is, this is bad. Aksha, the woman's like leading the conversation. She's like, okay, no, no. So you understand, I think we understand. And he's like, she's looking at Shai. We're excited about the restaurant. We can't wait to eat at the restaurant."
+    },
+    {
+      "header": "[u1457 | 01:28:05.180-01:28:12.559 | Sculpit]",
+      "lineNumber": 1457,
+      "originalText": "Sculp is kind of, like, looking at their size. I mean, like. How, how, like… Sure! We have plenty of space!",
+      "cleanedText": "Sculpit is kind of, like, looking at their size. I mean, like. How, how, like… Sure! We have plenty of space!"
+    },
+    {
+      "header": "[u1528 | 01:32:13.080-01:32:14.530 | Sculpit]",
+      "lineNumber": 1528,
+      "originalText": "Not the metal ones, the booty.",
+      "cleanedText": "Not the metal ones, the gloopy."
+    },
+    {
+      "header": "[u1546 | 01:33:13.590-01:33:16.180 | DM]",
+      "lineNumber": 1546,
+      "originalText": "there's That are coming.",
+      "cleanedText": "There are… that are coming."
+    },
+    {
+      "header": "[u1553 | 01:33:29.070-01:33:30.809 | DM]",
+      "lineNumber": 1553,
+      "originalText": "Have a lot of time.",
+      "cleanedText": "We don't have a lot of time."
+    },
+    {
+      "header": "[u1559 | 01:33:45.720-01:33:48.299 | DM]",
+      "lineNumber": 1559,
+      "originalText": "Shy, like, runs back into the ship.",
+      "cleanedText": "Shai, like, runs back into the ship."
+    },
+    {
+      "header": "[u1596 | 01:36:38.750-01:36:46.089 | DM]",
+      "lineNumber": 1596,
+      "originalText": "there will be… Clutchlings… Eggs. This… something as horrible is gonna happen.",
+      "cleanedText": "there will be… Clutchlings… Eggs. This… something horrible is gonna happen."
+    },
+    {
+      "header": "[u1611 | 01:37:45.110-01:37:53.990 | DM]",
+      "lineNumber": 1611,
+      "originalText": "Raska, tell the others, get everybody to hide. Move to the temple now. Is this for real? Now?",
+      "cleanedText": "Roska, tell the others, get everybody to hide. Move to the temple now. Is this for real? Now?"
+    },
+    {
+      "header": "[u1628 | 01:38:28.560-01:38:34.450 | DM]",
+      "lineNumber": 1628,
+      "originalText": "The shaman turns to Raska. Get as many as you can into the temple, get as many as you can underground.",
+      "cleanedText": "The shaman turns to Roska. Get as many as you can into the temple, get as many as you can underground."
+    },
+    {
+      "header": "[u1630 | 01:38:37.680-01:38:40.160 | DM]",
+      "lineNumber": 1630,
+      "originalText": "And Rosca, I mean, this is like",
+      "cleanedText": "And Roska, I mean, this is like"
+    },
+    {
+      "header": "[u1632 | 01:38:48.850-01:38:59.399 | DM]",
+      "lineNumber": 1632,
+      "originalText": "And Rosca and, there's a flurry of action and people start, but it's, it's also like, is this a game or like, everybody is trying to figure out like, is this serious? Is it not serious? You know?",
+      "cleanedText": "And Roska and, there's a flurry of action and people start, but it's, it's also like, is this a game or like, everybody is trying to figure out like, is this serious? Is it not serious? You know?"
+    },
+    {
+      "header": "[u1666 | 01:41:16.820-01:41:25.380 | DM]",
+      "lineNumber": 1666,
+      "originalText": "You hear… Shy and Aksha's voices in your heads It's a fucking dreadnought.",
+      "cleanedText": "You hear… Shai and Aksha's voices in your heads. It's a fucking dreadnought."
+    },
+    {
+      "header": "[u1672 | 01:41:40.630-01:41:41.350 | DM]",
+      "lineNumber": 1672,
+      "originalText": "Role Initiative.",
+      "cleanedText": "Roll initiative."
+    },
+    {
+      "header": "[u1681 | 01:42:29.640-01:42:33.010 | DM]",
+      "lineNumber": 1681,
+      "originalText": "As flying out of it, a small group of smaller ships.",
+      "cleanedText": "Has flying out of it, a small group of smaller ships."
+    },
+    {
+      "header": "[u1682 | 01:42:33.580-01:42:36.419 | DM]",
+      "lineNumber": 1682,
+      "originalText": "That power launching out of its… its bay.",
+      "cleanedText": "That are launching out of its… its bay."
+    },
+    {
+      "header": "[u1684 | 01:42:48.090-01:42:49.340 | DM]",
+      "lineNumber": 1684,
+      "originalText": "Are on this battlement.",
+      "cleanedText": "Are on this battle map."
+    },
+    {
+      "header": "[u1689 | 01:43:24.350-01:43:25.910 | DM]",
+      "lineNumber": 1689,
+      "originalText": "You all get a firstborn action.",
+      "cleanedText": "You all get a Firstborn action."
+    },
+    {
+      "header": "[u1690 | 01:43:26.950-01:43:29.960 | DM]",
+      "lineNumber": 1690,
+      "originalText": "Now… Your firstborn action.",
+      "cleanedText": "Now… Your Firstborn action."
+    },
+    {
+      "header": "[u1695 | 01:43:41.790-01:43:45.619 | DM]",
+      "lineNumber": 1695,
+      "originalText": "But then also you get to act as the wonderer.",
+      "cleanedText": "But then also you get to act as the Wanderer."
+    },
+    {
+      "header": "[u1705 | 01:44:27.860-01:44:34.509 | DM]",
+      "lineNumber": 1705,
+      "originalText": "If it's 3 of you succeed, 2 of you won, 0, then the success is proportional to how well you do.",
+      "cleanedText": "If it's 3 of you succeed, 2 of you, 1, 0, then the success is proportional to how well you do."
+    },
+    {
+      "header": "[u1710 | 01:44:52.290-01:44:57.629 | DM]",
+      "lineNumber": 1710,
+      "originalText": "There's 4 of them, they're like the size of, they're like the size of, of Akshay and Shai's vessel.",
+      "cleanedText": "There's 4 of them, they're like the size of, they're like the size of, of Aksha and Shai's vessel."
+    },
+    {
+      "header": "[u1718 | 01:45:42.090-01:45:44.469 | DM]",
+      "lineNumber": 1718,
+      "originalText": "Pulpit and Zeno are both 16.",
+      "cleanedText": "Sculpit and Zeno are both 16."
+    },
+    {
+      "header": "[u1719 | 01:45:45.470-01:45:47.919 | Heska]",
+      "lineNumber": 1719,
+      "originalText": "Pesca's 13, little Tony's 7.",
+      "cleanedText": "Heska's 13, Little Tony's 7."
+    },
+    {
+      "header": "[u1721 | 01:45:53.830-01:45:55.020 | DM]",
+      "lineNumber": 1721,
+      "originalText": "Stop it.",
+      "cleanedText": "Sculpit."
+    },
+    {
+      "header": "[u1725 | 01:46:44.590-01:46:49.760 | DM]",
+      "lineNumber": 1725,
+      "originalText": "All right, so the ship goes first, so Oxygen and Shy go first.",
+      "cleanedText": "All right, so the ship goes first, so Aksha and Shai go first."
+    },
+    {
+      "header": "[u1729 | 01:47:06.400-01:47:09.880 | DM]",
+      "lineNumber": 1729,
+      "originalText": "Up next, it is… Sculpt it.",
+      "cleanedText": "Up next, it is… Sculpit."
+    },
+    {
+      "header": "[u1734 | 01:47:22.080-01:47:22.860 | DM]",
+      "lineNumber": 1734,
+      "originalText": "Yeah, they're smaller than YouTube.",
+      "cleanedText": "Yeah, they're smaller than Huge."
+    },
+    {
+      "header": "[u1740 | 01:47:31.810-01:47:32.689 | Sculpit]",
+      "lineNumber": 1740,
+      "originalText": "One of the little shits.",
+      "cleanedText": "One of the little ships."
+    },
+    {
+      "header": "[u1743 | 01:47:37.910-01:47:41.460 | Sculpit]",
+      "lineNumber": 1743,
+      "originalText": "Big B's, it attempts to, let's see, the target must succeed on a deck saving throw.",
+      "cleanedText": "Bigby's, it attempts to, let's see, the target must succeed on a Dex saving throw."
+    },
+    {
+      "header": "[u1744 | 01:47:41.830-01:47:43.199 | DM]",
+      "lineNumber": 1744,
+      "originalText": "Deck saving throw? Okay.",
+      "cleanedText": "Dex saving throw? Okay."
+    },
+    {
+      "header": "[u1747 | 01:47:50.580-01:47:56.430 | Sculpit]",
+      "lineNumber": 1747,
+      "originalText": "Digby's Grasping Hand, so it's like the storm, right? Like the vibe, the flavor here is the storm, so it's like wind.",
+      "cleanedText": "Bigby's Grasping Hand, so it's like the storm, right? Like the vibe, the flavor here is the storm, so it's like wind."
+    },
+    {
+      "header": "[u1749 | 01:48:01.040-01:48:02.580 | Sculpit]",
+      "lineNumber": 1749,
+      "originalText": "Just, like, surrounding the shed.",
+      "cleanedText": "Just, like, surrounding the ship."
+    },
+    {
+      "header": "[u1751 | 01:48:06.130-01:48:07.529 | DM]",
+      "lineNumber": 1751,
+      "originalText": "Did it make it safe?",
+      "cleanedText": "Did it make its save?"
+    },
+    {
+      "header": "[u1755 | 01:48:11.840-01:48:12.829 | DM]",
+      "lineNumber": 1755,
+      "originalText": "It fails at save.",
+      "cleanedText": "It fails its save."
+    },
+    {
+      "header": "[u1760 | 01:48:23.410-01:48:25.320 | DM]",
+      "lineNumber": 1760,
+      "originalText": "So the head is gonna squeeze.",
+      "cleanedText": "So the hand is gonna squeeze."
+    },
+    {
+      "header": "[u1762 | 01:48:28.520-01:48:32.249 | DM]",
+      "lineNumber": 1762,
+      "originalText": "No, no, no, it's automatic. 46 damage. 46? Okay, how much damage?",
+      "cleanedText": "No, no, no, it's automatic. 4d6 damage. 4d6? Okay, how much damage?"
+    },
+    {
+      "header": "[u1768 | 01:48:51.110-01:48:54.149 | DM]",
+      "lineNumber": 1768,
+      "originalText": "So loud that it makes its way into the wanderer's ears.",
+      "cleanedText": "So loud that it makes its way into the Wanderer's ears."
+    },
+    {
+      "header": "[u1783 | 01:49:45.570-01:49:48.960 | Zeno]",
+      "lineNumber": 1783,
+      "originalText": "Unsuccessful, and then also they get the muddled thoughts thing if they fail.",
+      "cleanedText": "On a successful, and then also they get the muddled thoughts thing if they fail."
+    },
+    {
+      "header": "[u1786 | 01:49:57.150-01:50:02.560 | DM]",
+      "lineNumber": 1786,
+      "originalText": "Yeah. Sorry, sorry, sorry, sorry, Zeno, you made it safe. Does anything happen on, on,",
+      "cleanedText": "Yeah. Sorry, sorry, sorry, sorry, Zeno, it made its save. Does anything happen on, on,"
+    },
+    {
+      "header": "[u1795 | 01:50:23.010-01:50:24.820 | Zeno]",
+      "lineNumber": 1795,
+      "originalText": "Yeah, good roll for 46.",
+      "cleanedText": "Yeah, good roll for 4d6."
+    },
+    {
+      "header": "[u1811 | 01:51:24.350-01:51:28.340 | DM]",
+      "lineNumber": 1811,
+      "originalText": "They seem to be pretty focused on Shai and Akshaya, and…",
+      "cleanedText": "They seem to be pretty focused on Shai and Aksha, and…"
+    },
+    {
+      "header": "[u1813 | 01:51:31.750-01:51:35.359 | DM]",
+      "lineNumber": 1813,
+      "originalText": "Cheyenne Aksha take a, an energy beam strike.",
+      "cleanedText": "Shai and Aksha take a, an energy beam strike."
+    },
+    {
+      "header": "[u1817 | 01:51:47.930-01:51:49.449 | DM]",
+      "lineNumber": 1817,
+      "originalText": "And now, Huska, it's your turn.",
+      "cleanedText": "And now, Heska, it's your turn."
+    },
+    {
+      "header": "[u1823 | 01:52:14.760-01:52:16.249 | DM]",
+      "lineNumber": 1823,
+      "originalText": "An action within the wine.",
+      "cleanedText": "An action within the Wanderer."
+    },
+    {
+      "header": "[u1842 | 01:53:01.490-01:53:02.909 | Zeno]",
+      "lineNumber": 1842,
+      "originalText": "I'm hyping you up. You got one before.",
+      "cleanedText": "I'm hyping you up. You got 1d4."
+    },
+    {
+      "header": "[u1878 | 01:55:41.070-01:55:55.610 | DM]",
+      "lineNumber": 1878,
+      "originalText": "uses his Esteem Starry Form ability, which in this context, a starry glowing constellation of a wise old hermit crab wearing a crown appears on his chest.",
+      "cleanedText": "uses his Starry Form ability, which in this context, a starry glowing constellation of a wise old hermit crab wearing a crown appears on his chest."
+    },
+    {
+      "header": "[u1903 | 01:57:03.840-01:57:09.870 | Heska]",
+      "lineNumber": 1903,
+      "originalText": "Because nobody bothered to do anything about their stats. : And if it's, you have to decide what level of fact the spell is.",
+      "cleanedText": "Because nobody bothered to do anything about their stats. And if it's, you have to decide what level of effect the spell is."
+    },
+    {
+      "header": "[u1918 | 01:57:51.130-01:57:56.270 | DM]",
+      "lineNumber": 1918,
+      "originalText": "Bardag. I forgive you a Bardag. This is nice to have a couple Bards in the group.",
+      "cleanedText": "Bardic. I'll give you a Bardic. This is nice to have a couple Bards in the group."
+    },
+    {
+      "header": "[u1920 | 01:58:01.790-01:58:02.650 | Sculpit]",
+      "lineNumber": 1920,
+      "originalText": "You added the 10.",
+      "cleanedText": "You add a d10."
+    },
+    {
+      "header": "[u1926 | 01:58:20.280-01:58:21.530 | DM]",
+      "lineNumber": 1926,
+      "originalText": "With wraps.",
+      "cleanedText": "With raps."
+    },
+    {
+      "header": "[u1943 | 01:59:04.670-01:59:11.490 | DM]",
+      "lineNumber": 1943,
+      "originalText": "So, so as you, and so as you do this too, are you making the, are you thinking about the wanderer actually saying these words out loud?",
+      "cleanedText": "So, so as you, and so as you do this too, are you making the, are you thinking about the Wanderer actually saying these words out loud?"
+    },
+    {
+      "header": "[u1945 | 01:59:17.860-01:59:27.590 | DM]",
+      "lineNumber": 1945,
+      "originalText": "So, so, you know, a couple things are happening. One, you know, the pulsing behind the laser beams is like, is happening. And then the other thing that's happening is the wanderer.",
+      "cleanedText": "So, so, you know, a couple things are happening. One, you know, the pulsing behind the laser beams is like, is happening. And then the other thing that's happening is the Wanderer."
+    },
+    {
+      "header": "[u1947 | 01:59:34.250-01:59:39.959 | DM]",
+      "lineNumber": 1947,
+      "originalText": "As… As Tony casts his spell magic.",
+      "cleanedText": "As… As Tony casts Dispel Magic."
+    },
+    {
+      "header": "[u1953 | 02:00:07.410-02:00:16.999 | DM]",
+      "lineNumber": 1953,
+      "originalText": "And now little Tony is the group action. All of you now can, if you so choose, can spend your firstborn action on activating the walker.",
+      "cleanedText": "And now, Little Tony, is the group action. All of you now can, if you so choose, can spend your Firstborn action on activating the Wanderer."
+    },
+    {
+      "header": "[u1967 | 02:00:38.870-02:00:41.310 | DM]",
+      "lineNumber": 1967,
+      "originalText": "So everybody except Hesta roll a d20.",
+      "cleanedText": "So everybody except Heska roll a d20."
+    },
+    {
+      "header": "[u1983 | 02:01:17.770-02:01:23.070 | DM]",
+      "lineNumber": 1983,
+      "originalText": "Not Hesta, all of you are again coordinating all of the functions of the Wanderer.",
+      "cleanedText": "Not Heska, all of you are again coordinating all of the functions of the Wanderer."
+    },
+    {
+      "header": "[u1984 | 02:01:23.500-02:01:25.250 | DM]",
+      "lineNumber": 1984,
+      "originalText": "Heska, you are the attack role.",
+      "cleanedText": "Heska, you are the attack roll."
+    },
+    {
+      "header": "[u1988 | 02:01:30.830-02:01:37.000 | DM]",
+      "lineNumber": 1988,
+      "originalText": "And now that you are the attack role as the fucking undefeatable rogue, the Wanderer's probably gonna do pretty well, but.",
+      "cleanedText": "And now that you are the attack roll as the fucking undefeatable rogue, the Wanderer's probably gonna do pretty well, but."
+    },
+    {
+      "header": "[u2000 | 02:02:06.310-02:02:08.959 | Heska]",
+      "lineNumber": 2000,
+      "originalText": "That was with adventure. Sometimes the dice aren't in your favor.",
+      "cleanedText": "That was with advantage. Sometimes the dice aren't in your favor."
+    },
+    {
+      "header": "[u2004 | 02:02:19.950-02:02:22.200 | Sculpit]",
+      "lineNumber": 2004,
+      "originalText": "How it's covered, Barb, that doesn't…",
+      "cleanedText": "Oh, Silvery Barbs, that doesn't…"
+    },
+    {
+      "header": "[u2027 | 02:03:47.930-02:03:50.549 | Sculpit]",
+      "lineNumber": 2027,
+      "originalText": "You can just click the T12. There we go.",
+      "cleanedText": "You can just click the d12. There we go."
+    },
+    {
+      "header": "[u2047 | 02:04:28.940-02:04:29.620 | Sculpit]",
+      "lineNumber": 2047,
+      "originalText": "The ground.",
+      "cleanedText": "The grapple."
+    },
+    {
+      "header": "[u2049 | 02:04:34.930-02:04:39.270 | DM]",
+      "lineNumber": 2049,
+      "originalText": "Akshay and Shai, this one… this one hits again!",
+      "cleanedText": "Aksha and Shai, this one… this one hits again!"
+    },
+    {
+      "header": "[u2051 | 02:04:44.830-02:04:51.389 | DM]",
+      "lineNumber": 2051,
+      "originalText": "Akshat and, Shai… Go and shoot at the grapple ship.",
+      "cleanedText": "Aksha and, Shai… Go and shoot at the grappled ship."
+    },
+    {
+      "header": "[u2060 | 02:05:09.820-02:05:10.859 | DM]",
+      "lineNumber": 2060,
+      "originalText": "Sculpin, to you.",
+      "cleanedText": "Sculpit, to you."
+    },
+    {
+      "header": "[u2084 | 02:06:14.990-02:06:21.789 | DM]",
+      "lineNumber": 2084,
+      "originalText": "So, Sculpa, as you sit in your super comfortable favorite chair, God, you wish you could take this throne home with you.",
+      "cleanedText": "So, Sculpit, as you sit in your super comfortable favorite chair, God, you wish you could take this throne home with you."
+    },
+    {
+      "header": "[u2087 | 02:06:49.520-02:06:52.409 | DM]",
+      "lineNumber": 2087,
+      "originalText": "So you have succeeded. There's now three wanderers on the shore.",
+      "cleanedText": "So you have succeeded. There's now three Wanderers on the shore."
+    },
+    {
+      "header": "[u2091 | 02:07:08.800-02:07:13.420 | DM]",
+      "lineNumber": 2091,
+      "originalText": "Well, it's grappled, you can take a bonus action to crush it. Another 46 damage.",
+      "cleanedText": "Well, it's grappled, you can take a bonus action to crush it. Another 4d6 damage."
+    },
+    {
+      "header": "[u2092 | 02:07:19.270-02:07:20.640 | DM]",
+      "lineNumber": 2092,
+      "originalText": "Crappy role, but…",
+      "cleanedText": "Crappy roll, but…"
+    },
+    {
+      "header": "[u2097 | 02:07:33.620-02:07:37.170 | DM]",
+      "lineNumber": 2097,
+      "originalText": "Does it fall? It falls. It falls and crashes beneath the seat.",
+      "cleanedText": "Does it fall? It falls. It falls and crashes beneath the sea."
+    },
+    {
+      "header": "[u2105 | 02:08:02.040-02:08:10.269 | DM]",
+      "lineNumber": 2105,
+      "originalText": "They're all close, I mean, basically, like, like, how this, this has unfolded, at least nobody's, like, flown far away, like, they're, like, Akshara and Shai are kind of, like.",
+      "cleanedText": "They're all close, I mean, basically, like, like, how this, this has unfolded, at least nobody's, like, flown far away, like, they're, like, Aksha and Shai are kind of, like."
+    },
+    {
+      "header": "[u2112 | 02:08:40.060-02:08:42.580 | Sculpit]",
+      "lineNumber": 2112,
+      "originalText": "But could… and I can't float in the middle of the air, can I?",
+      "cleanedText": "But could… and it can't float in the middle of the air, can it?"
+    },
+    {
+      "header": "[u2126 | 02:09:18.060-02:09:19.719 | Heska]",
+      "lineNumber": 2126,
+      "originalText": "I cannot can just move out of the way.",
+      "cleanedText": "The dreadnought can just move out of the way."
+    },
+    {
+      "header": "[u2130 | 02:09:29.390-02:09:36.849 | DM]",
+      "lineNumber": 2130,
+      "originalText": "Sculpin successfully casted mirror image, so now there's two mirror images of the giant thing, all pointed at the dreadnought saying, fuck you.",
+      "cleanedText": "Sculpit successfully casted mirror image, so now there's two mirror images of the giant thing, all pointed at the dreadnought saying, fuck you."
+    },
+    {
+      "header": "[u2133 | 02:09:45.620-02:09:50.179 | Zeno]",
+      "lineNumber": 2133,
+      "originalText": "A wall of sound shield in front of the chest of the wanderer so that we can't get hit by anything.",
+      "cleanedText": "A wall of sound shield in front of the chest of the Wanderer so that we can't get hit by anything."
+    },
+    {
+      "header": "[u2164 | 02:11:43.860-02:11:50.170 | DM]",
+      "lineNumber": 2164,
+      "originalText": "And Aksha… This is Haska to you.",
+      "cleanedText": "And Aksha… This is Heska to you."
+    },
+    {
+      "header": "[u2170 | 02:12:03.800-02:12:05.750 | Heska]",
+      "lineNumber": 2170,
+      "originalText": "Jessica is gonna lean down.",
+      "cleanedText": "Heska is gonna lean down."
+    },
+    {
+      "header": "[u2180 | 02:12:33.480-02:12:43.630 | DM]",
+      "lineNumber": 2180,
+      "originalText": "Hey, man. I mean, you're fucking you know, you're divine firstborn. Go ahead and fucking works. Yeah. I mean, there's no roles. Yeah. That you the this okay. Well, the one thing here is, do the mirror images also gain change size?",
+      "cleanedText": "Hey, man. I mean, you're fucking you know, you're divine Firstborn. Go ahead and fucking works. Yeah. I mean, there's no rolls. Yeah. That you the this okay. Well, the one thing here is, do the mirror images also gain change size?"
+    },
+    {
+      "header": "[u2183 | 02:12:48.130-02:12:51.960 | Heska]",
+      "lineNumber": 2183,
+      "originalText": "They're just constantly moving around, so nobody can tell which one the correct status is.",
+      "cleanedText": "They're just constantly moving around, so nobody can tell which one the correct statue is."
+    },
+    {
+      "header": "[u2186 | 02:12:58.330-02:13:12.849 | DM]",
+      "lineNumber": 2186,
+      "originalText": "Okay, so just, like, as you, as this is all unfolding, right? Because obviously, you know, the, the, like, the dragonettes are kind of like, oh, like, you know, what the is going on? But now, like, seeing all the stats, it's like, any ones that are not, that are not hidden are like.",
+      "cleanedText": "Okay, so just, like, as you, as this is all unfolding, right? Because obviously, you know, the, the, like, the dragonets are kind of like, oh, like, you know, what the is going on? But now, like, seeing all the statues, it's like, any ones that are not, that are not hidden are like."
+    },
+    {
+      "header": "[u2204 | 02:14:54.770-02:15:02.089 | DM]",
+      "lineNumber": 2204,
+      "originalText": "And you hear… Or you can imagine as you see dragonettes that have not fully fled.",
+      "cleanedText": "And you hear… Or you can imagine as you see dragonets that have not fully fled."
+    },
+    {
+      "header": "[u2210 | 02:15:13.940-02:15:15.190 | DM]",
+      "lineNumber": 2210,
+      "originalText": "The second tact.",
+      "cleanedText": "The second attack."
+    },
+    {
+      "header": "[u2211 | 02:15:15.730-02:15:18.580 | DM]",
+      "lineNumber": 2211,
+      "originalText": "He's going for the Wanderer's Pad.",
+      "cleanedText": "He's going for the Wanderer's head."
+    },
+    {
+      "header": "[u2216 | 02:15:37.320-02:15:37.900 | DM]",
+      "lineNumber": 2216,
+      "originalText": "Miss us!",
+      "cleanedText": "Misses!"
+    },
+    {
+      "header": "[u2217 | 02:15:40.210-02:15:40.690 | DM]",
+      "lineNumber": 2217,
+      "originalText": "Well, Tony.",
+      "cleanedText": "Little Tony."
+    },
+    {
+      "header": "[u2240 | 02:17:32.399-02:17:37.729 | DM]",
+      "lineNumber": 2240,
+      "originalText": "You fucking chip, where are the people on y'all? Fuck you up if you don't tell me where the people are on you.",
+      "cleanedText": "You fucking ship, where are the people on y'all? Fuck you up if you don't tell me where the people are on you."
+    },
+    {
+      "header": "[u2244 | 02:18:07.919-02:18:10.219 | DM]",
+      "lineNumber": 2244,
+      "originalText": "It's like what this shit feels like, you know?",
+      "cleanedText": "It's like what this ship feels like, you know?"
+    },
+    {
+      "header": "[u2251 | 02:18:52.270-02:18:58.350 | DM]",
+      "lineNumber": 2251,
+      "originalText": "Alright, fabulous, I'll relay that, like, that's where we should be focusing our I blast, sir.",
+      "cleanedText": "Alright, fabulous, I'll relay that, like, that's where we should be focusing our eye blasts, or."
+    },
+    {
+      "header": "[u2273 | 02:19:52.060-02:20:03.790 | DM]",
+      "lineNumber": 2273,
+      "originalText": "Okay, but not, not, you know, god statue to, like, double god statue? Yeah, exactly. Alright, alright, alright, that's fine, that's fine. Alright, so go ahead and, so everybody not has to roll.",
+      "cleanedText": "Okay, but not, not, you know, god statue to, like, double god statue? Yeah, exactly. Alright, alright, alright, that's fine, that's fine. Alright, so go ahead and, so everybody not Heska roll."
+    },
+    {
+      "header": "[u2275 | 02:20:13.450-02:20:13.990 | DM]",
+      "lineNumber": 2275,
+      "originalText": "What are your roles?",
+      "cleanedText": "What are your rolls?"
+    },
+    {
+      "header": "[u2283 | 02:20:27.980-02:20:29.600 | DM]",
+      "lineNumber": 2283,
+      "originalText": "Alright, Husko, what you got?",
+      "cleanedText": "Alright, Heska, what you got?"
+    },
+    {
+      "header": "[u2292 | 02:20:54.860-02:20:57.589 | Heska]",
+      "lineNumber": 2292,
+      "originalText": "And we're aiming for whatever… No, yeah, but the virus.",
+      "cleanedText": "And we're aiming for whatever… No, yeah, but the iris."
+    },
+    {
+      "header": "[u2296 | 02:21:18.620-02:21:21.530 | Heska]",
+      "lineNumber": 2296,
+      "originalText": "Whoops. I did 20, 60, 12. I don't know. Oh, there.",
+      "cleanedText": "Whoops. I did 26d12. I don't know. Oh, there."
+    },
+    {
+      "header": "[u2307 | 02:21:58.280-02:22:06.349 | DM]",
+      "lineNumber": 2307,
+      "originalText": "Oh, they hit… okay, so Akshar and Shai, by the way, are, like, they're, like, bloody. They're, like, not looking good. They're, they're, they're in serious danger.",
+      "cleanedText": "Oh, they hit… okay, so Aksha and Shai, by the way, are, like, they're, like, bloody. They're, like, not looking good. They're, they're, they're in serious danger."
+    },
+    {
+      "header": "[u2312 | 02:22:21.980-02:22:23.929 | DM]",
+      "lineNumber": 2312,
+      "originalText": "With the laser, Sculpted is to you.",
+      "cleanedText": "With the laser, Sculpit, it's to you."
+    },
+    {
+      "header": "[u2328 | 02:23:14.730-02:23:20.819 | DM]",
+      "lineNumber": 2328,
+      "originalText": "When he cast, because when he cast the spell Magic, it actually came out of the fingertip of the Wanderer, which was",
+      "cleanedText": "When he cast, because when he cast Dispel Magic, it actually came out of the fingertip of the Wanderer, which was"
+    },
+    {
+      "header": "[u2338 | 02:23:56.080-02:23:58.099 | DM]",
+      "lineNumber": 2338,
+      "originalText": "So it makes a deck saving throw.",
+      "cleanedText": "So it makes a Dex saving throw."
+    },
+    {
+      "header": "[u2344 | 02:24:17.430-02:24:19.509 | DM]",
+      "lineNumber": 2344,
+      "originalText": "Okay, cool. And how much damage does it do the dreaded.",
+      "cleanedText": "Okay, cool. And how much damage does it do the dreadnought."
+    },
+    {
+      "header": "[u2345 | 02:24:19.510-02:24:20.780 | Sculpit]",
+      "lineNumber": 2345,
+      "originalText": "Day 31.",
+      "cleanedText": "Same 31."
+    },
+    {
+      "header": "[u2352 | 02:24:36.670-02:24:39.259 | DM]",
+      "lineNumber": 2352,
+      "originalText": "Wait, how are you doing that? Oh, oh, with your, your fit. Okay. Yeah, yeah. Good.",
+      "cleanedText": "Wait, how are you doing that? Oh, oh, with your, your fist. Okay. Yeah, yeah. Good."
+    },
+    {
+      "header": "[u2358 | 02:24:47.320-02:24:53.899 | Sculpit]",
+      "lineNumber": 2358,
+      "originalText": "No, no, I rolled the hit because I'm punching it this time instead of grappling. Nice. So it's, it's,",
+      "cleanedText": "No, no, I roll to hit because I'm punching it this time instead of grappling. Nice. So it's, it's,"
+    },
+    {
+      "header": "[u2361 | 02:25:01.130-02:25:04.869 | Sculpit]",
+      "lineNumber": 2361,
+      "originalText": "Crappy world, though. 9. Oh, no, 13. But it's still…",
+      "cleanedText": "Crappy roll, though. 9. Oh, no, 13. But it's still…"
+    },
+    {
+      "header": "[u2364 | 02:25:09.040-02:25:10.190 | Sculpit]",
+      "lineNumber": 2364,
+      "originalText": "13th ahead.",
+      "cleanedText": "13 to hit."
+    },
+    {
+      "header": "[u2365 | 02:25:10.190-02:25:11.130 | Heska]",
+      "lineNumber": 2365,
+      "originalText": "I think they had.",
+      "cleanedText": "13 to hit."
+    },
+    {
+      "header": "[u2387 | 02:26:12.190-02:26:20.929 | DM]",
+      "lineNumber": 2387,
+      "originalText": "You can get a whole little synchronized dance room. You literally have like a little mini dance crew. Oh my god. Okay, yeah. Do it, do it, do it. Yeah, this is this is too.",
+      "cleanedText": "You can get a whole little synchronized dance crew. You literally have like a little mini dance crew. Oh my god. Okay, yeah. Do it, do it, do it. Yeah, this is this is too."
+    },
+    {
+      "header": "[u2388 | 02:26:20.930-02:26:25.979 | DM]",
+      "lineNumber": 2388,
+      "originalText": "Alright, I'm gonna, like, just, like… Went down at the ground.",
+      "cleanedText": "Alright, I'm gonna, like, just, like… Point down at the ground."
+    },
+    {
+      "header": "[u2446 | 02:28:50.910-02:28:55.409 | DM]",
+      "lineNumber": 2446,
+      "originalText": "All right, the dreadnought goes back to charging its beam and we go to Esta.",
+      "cleanedText": "All right, the dreadnought goes back to charging its beam and we go to Heska."
+    },
+    {
+      "header": "[u2472 | 02:31:06.180-02:31:09.459 | Sculpit]",
+      "lineNumber": 2472,
+      "originalText": "The Waze has been doing pretty good for us at the punching.",
+      "cleanedText": "The laser's been doing pretty good for us, and the punching."
+    },
+    {
+      "header": "[u2477 | 02:31:17.940-02:31:31.190 | DM]",
+      "lineNumber": 2477,
+      "originalText": "You can do whatever you want, guys. You can do whatever the fuck you want right now. Like, this is a kind of a moment. You are literally, four of you are like cockpit cockpitting a fucking giant ancient divine statue Mecca. So this is the time to be creative if you want to do something fun.",
+      "cleanedText": "You can do whatever you want, guys. You can do whatever the fuck you want right now. Like, this is a kind of a moment. You are literally, four of you are like cockpit cockpitting a fucking giant ancient divine statue mecha. So this is the time to be creative if you want to do something fun."
+    },
+    {
+      "header": "[u2485 | 02:32:13.930-02:32:17.800 | DM]",
+      "lineNumber": 2485,
+      "originalText": "This one is targeting the Dragonette village yet again.",
+      "cleanedText": "This one is targeting the dragonet village yet again."
+    },
+    {
+      "header": "[u2490 | 02:32:24.960-02:32:28.159 | Sculpit]",
+      "lineNumber": 2490,
+      "originalText": "I can actually, I should have used Big Beast to try and defend it too.",
+      "cleanedText": "I can actually, I should have used Bigby's to try and defend it too."
+    },
+    {
+      "header": "[u2494 | 02:32:43.380-02:32:44.449 | DM]",
+      "lineNumber": 2494,
+      "originalText": "I'm next is old Tony.",
+      "cleanedText": "Up next is Little Tony."
+    },
+    {
+      "header": "[u2497 | 02:32:53.660-02:32:57.790 | DM]",
+      "lineNumber": 2497,
+      "originalText": "First born action is all together. You can do your own personal action with something you might want to do, but.",
+      "cleanedText": "Firstborn action is all together. You can do your own personal action with something you might want to do, but."
+    },
+    {
+      "header": "[u2502 | 02:33:05.840-02:33:29.409 | DM]",
+      "lineNumber": 2502,
+      "originalText": "Also, too, remember, as a spellcaster, you can also, like, kind of cast spells through the Wanderer, like, it's like, you also, like, you know, it's like when, when, Sculpet shot lightning bolts, it, like, came out of the fingertip of the Wanderer, you know, it's like, you can kind of mediate, the Wanderer's a bit your medium as well, if you want to cast spells, but also, unlocking shit is pretty fucking great, because after you unlock it, you can use it immediately now, little Tony, so.",
+      "cleanedText": "Also, too, remember, as a spellcaster, you can also, like, kind of cast spells through the Wanderer, like, it's like, you also, like, you know, it's like when, when, Sculpit shot lightning bolts, it, like, came out of the fingertip of the Wanderer, you know, it's like, you can kind of mediate, the Wanderer's a bit your medium as well, if you want to cast spells, but also, unlocking shit is pretty fucking great, because after you unlock it, you can use it immediately now, little Tony, so."
+    },
+    {
+      "header": "[u2504 | 02:33:34.500-02:33:39.449 | Sculpit]",
+      "lineNumber": 2504,
+      "originalText": "I mean… There's something to be said for just how many quasars does it have?",
+      "cleanedText": "I mean… There's something to be said for just how many lasers does it have?"
+    },
+    {
+      "header": "[u2505 | 02:33:40.370-02:33:40.999 | DM]",
+      "lineNumber": 2505,
+      "originalText": "How many ladies?",
+      "cleanedText": "How many lasers?"
+    },
+    {
+      "header": "[u2527 | 02:34:32.810-02:34:34.239 | DM]",
+      "lineNumber": 2527,
+      "originalText": "The shoulders down? You have these.",
+      "cleanedText": "The shield is down? You have these."
+    },
+    {
+      "header": "[u2571 | 02:36:28.540-02:36:31.760 | DM]",
+      "lineNumber": 2571,
+      "originalText": "Okay, excellent. So first, everybody not HESCA roll your checks.",
+      "cleanedText": "Okay, excellent. So first, everybody not Heska roll your checks."
+    },
+    {
+      "header": "[u2579 | 02:36:47.340-02:36:50.269 | Sculpit]",
+      "lineNumber": 2579,
+      "originalText": "Schwartz, you don't, because I'm concentrating on Digby's hands.",
+      "cleanedText": "Schwartz, you don't, because I'm concentrating on Bigby's Hand."
+    },
+    {
+      "header": "[u2602 | 02:37:36.380-02:37:39.180 | Sculpit]",
+      "lineNumber": 2602,
+      "originalText": "Can you… can we give you a verdict?",
+      "cleanedText": "Can you… can we give you a Bardic?"
+    },
+    {
+      "header": "[u2608 | 02:37:50.750-02:37:51.650 | DM]",
+      "lineNumber": 2608,
+      "originalText": "Verdict.",
+      "cleanedText": "Bardic."
+    },
+    {
+      "header": "[u2612 | 02:37:57.560-02:38:03.380 | DM]",
+      "lineNumber": 2612,
+      "originalText": "So, so, your, your, your full plan does not go as succeeded, but you still make a glance.",
+      "cleanedText": "So, so, your, your, your full plan does not go as intended, but you still make a glance."
+    },
+    {
+      "header": "[u2639 | 02:39:51.330-02:39:56.509 | DM]",
+      "lineNumber": 2639,
+      "originalText": "Shai and Akshay have taken a blow and they are going down.",
+      "cleanedText": "Shai and Aksha have taken a blow and they are going down."
+    },
+    {
+      "header": "[u2644 | 02:40:15.990-02:40:19.330 | DM]",
+      "lineNumber": 2644,
+      "originalText": "Yeah, there's only one more ship left, and now we go back to Sculpin.",
+      "cleanedText": "Yeah, there's only one more ship left, and now we go back to Sculpit."
+    },
+    {
+      "header": "[u2661 | 02:41:21.170-02:41:27.460 | DM]",
+      "lineNumber": 2661,
+      "originalText": "And then I'm gonna fire a lightning bolt through the Wonder Sand at the, like, into the cockpit area of the Dreadnought.",
+      "cleanedText": "And then I'm gonna fire a lightning bolt through the Wanderer's hand at the, like, into the cockpit area of the Dreadnought."
+    },
+    {
+      "header": "[u2663 | 02:41:30.580-02:41:38.650 | DM]",
+      "lineNumber": 2663,
+      "originalText": "All right, so let's do the enemy first. What happens? The little chef has to make a deck saving throw. DC 816. Fails.",
+      "cleanedText": "All right, so let's do the enemy first. What happens? The little ship has to make a Dex saving throw. DC 16. Fails."
+    },
+    {
+      "header": "[u2697 | 02:43:11.930-02:43:19.949 | DM]",
+      "lineNumber": 2697,
+      "originalText": "14, I fell. All right, you succeed. You do your point, and now the commander of the third laser is compelled to respond.",
+      "cleanedText": "14, I failed. All right, you succeed. You do your point, and now the commander of the third laser is compelled to respond."
+    },
+    {
+      "header": "[u2700 | 02:43:22.940-02:43:24.030 | DM]",
+      "lineNumber": 2700,
+      "originalText": "Asuka.",
+      "cleanedText": "Heska."
+    },
+    {
+      "header": "[u2707 | 02:43:53.000-02:43:54.110 | Sculpit]",
+      "lineNumber": 2707,
+      "originalText": "God, I'm large going.",
+      "cleanedText": "Got Enlarge going."
+    },
+    {
+      "header": "[u2724 | 02:44:43.030-02:44:44.700 | DM]",
+      "lineNumber": 2724,
+      "originalText": "You are bigger than us, Brenda.",
+      "cleanedText": "You are bigger than the dreadnought."
+    },
+    {
+      "header": "[u2733 | 02:45:12.790-02:45:16.669 | Heska]",
+      "lineNumber": 2733,
+      "originalText": "No, no, because you're still calling the spots. You failed the save again.",
+      "cleanedText": "No, no, because you're still call and response. You failed the save again."
+    },
+    {
+      "header": "[u2737 | 02:45:23.610-02:45:33.750 | DM]",
+      "lineNumber": 2737,
+      "originalText": "Zeno is like, \"Oh yeah?\" And they try to spin, and then the laser beam goes and like spins, and again, you know, just fires this like random round, like the potion sizzling through the water again.",
+      "cleanedText": "Zeno is like, \"Oh yeah?\" And they try to spin, and then the laser beam goes and like spins, and again, you know, just fires this like random round, like the ocean sizzling through the water again."
+    },
+    {
+      "header": "[u2739 | 02:45:43.000-02:45:45.529 | DM]",
+      "lineNumber": 2739,
+      "originalText": "At the wanderer's upper body.",
+      "cleanedText": "At the Wanderer's upper body."
+    },
+    {
+      "header": "[u2746 | 02:45:57.700-02:45:58.720 | Heska]",
+      "lineNumber": 2746,
+      "originalText": "One mirror lamp.",
+      "cleanedText": "One mirror left."
+    },
+    {
+      "header": "[u2753 | 02:46:20.710-02:46:33.519 | DM]",
+      "lineNumber": 2753,
+      "originalText": "It misses, well, it, it, it again, it's just bad aim, everybody inside, whatever the fuck is piloting the ship is like, the call and response thing is throwing everybody up, there's like, dance battles inside the turrets and everybody's like, trying to, you know, do this and that.",
+      "cleanedText": "It misses, well, it, it, it again, it's just bad aim, everybody inside, whatever the fuck is piloting the ship is like, the call and response thing is throwing everybody off, there's like, dance battles inside the turrets and everybody's like, trying to, you know, do this and that."
+    },
+    {
+      "header": "[u2764 | 02:46:57.720-02:47:01.089 | DM]",
+      "lineNumber": 2764,
+      "originalText": "Dab through the whole dreadnought using this giant.",
+      "cleanedText": "Stab through the whole dreadnought using this giant."
+    },
+    {
+      "header": "[u2765 | 02:47:01.260-02:47:03.050 | DM]",
+      "lineNumber": 2765,
+      "originalText": "Like, Stone Mall.",
+      "cleanedText": "Like, stone maul."
+    },
+    {
+      "header": "[u2770 | 02:47:17.440-02:47:25.629 | DM]",
+      "lineNumber": 2770,
+      "originalText": "Divine Stone statue now has a giant mall in its hand, which appears in both of the other also mirror-imaged giant statues.",
+      "cleanedText": "Divine Stone statue now has a giant maul in its hand, which appears in both of the other also mirror-imaged giant statues."
+    },
+    {
+      "header": "[u2771 | 02:47:26.960-02:47:29.999 | DM]",
+      "lineNumber": 2771,
+      "originalText": "Are you all now, what are you all doing for your, for your firstborn action?",
+      "cleanedText": "Are you all now, what are you all doing for your, for your Firstborn action?"
+    },
+    {
+      "header": "[u2812 | 02:50:08.210-02:50:12.030 | DM]",
+      "lineNumber": 2812,
+      "originalText": "The perfect strike from the Wanderer at his mall.",
+      "cleanedText": "The perfect strike from the Wanderer and his maul."
+    },
+    {
+      "header": "[u2854 | 02:52:36.770-02:52:39.189 | Little Tony]",
+      "lineNumber": 2854,
+      "originalText": "Vivify doesn't do anything.",
+      "cleanedText": "Revivify doesn't do anything."
+    },
+    {
+      "header": "[u2855 | 02:52:43.470-02:52:46.990 | DM]",
+      "lineNumber": 2855,
+      "originalText": "But you do Healing Word on, on, it's just, it's just Shy now, the guy.",
+      "cleanedText": "But you do Healing Word on, on, it's just, it's just Shai now, the guy."
+    },
+    {
+      "header": "[u2869 | 02:53:54.750-02:53:56.650 | DM]",
+      "lineNumber": 2869,
+      "originalText": "Aksha. Or sorry, Ashai.",
+      "cleanedText": "Aksha. Or sorry, Shai."
+    },
+    {
+      "header": "[u2926 | 02:58:42.380-02:58:44.670 | Heska]",
+      "lineNumber": 2926,
+      "originalText": "I think at this point, Haska is just like.",
+      "cleanedText": "I think at this point, Heska is just like."
+    },
+    {
+      "header": "[u2957 | 03:00:23.010-03:00:23.570 | Zeno]",
+      "lineNumber": 2957,
+      "originalText": "Dragonite.",
+      "cleanedText": "dragonet."
+    },
+    {
+      "header": "[u2969 | 03:00:58.000-03:00:59.689 | Heska]",
+      "lineNumber": 2969,
+      "originalText": "Yeah, all hubs, you know.",
+      "cleanedText": "Yeah, I'll help Zeno."
+    },
+    {
+      "header": "[u2986 | 03:01:45.590-03:01:46.750 | Sculpit]",
+      "lineNumber": 2986,
+      "originalText": "Back to the library.",
+      "cleanedText": "Back to the Wanderer."
+    },
+    {
+      "header": "[u3003 | 03:02:47.260-03:02:52.219 | DM]",
+      "lineNumber": 3003,
+      "originalText": "While, while Heska is, or sorry, while Sculpid is doing this, is anybody else trying to do anything else?",
+      "cleanedText": "While, while Heska is, or sorry, while Sculpit is doing this, is anybody else trying to do anything else?"
+    },
+    {
+      "header": "[u3007 | 03:02:59.230-03:03:00.969 | Sculpit]",
+      "lineNumber": 3007,
+      "originalText": "Can I carry more eggs if I was in large?",
+      "cleanedText": "Can I carry more eggs if I was enlarged?"
+    },
+    {
+      "header": "[u3039 | 03:05:15.000-03:05:30.530 | DM]",
+      "lineNumber": 3039,
+      "originalText": "Okay, amazing. Yeah, you're… I mean, I'm imagining this kind of, like, Akira, like, ensemblage of, like, you know, like, just found materials into, like, a giant dragonette that is now smashing open cages, and yeah, like, stuff is escaping, there are things running around.",
+      "cleanedText": "Okay, amazing. Yeah, you're… I mean, I'm imagining this kind of, like, Akira, like, assemblage of, like, you know, like, just found materials into, like, a giant dragonet that is now smashing open cages, and yeah, like, stuff is escaping, there are things running around."
+    },
+    {
+      "header": "[u3042 | 03:05:41.260-03:05:45.840 | DM]",
+      "lineNumber": 3042,
+      "originalText": "Zenor, is there anything you're are you hype manning? Are you is there anything just supporting?",
+      "cleanedText": "Zeno, is there anything you're are you hype manning? Are you is there anything just supporting?"
+    },
+    {
+      "header": "[u3046 | 03:05:50.880-03:05:53.490 | Heska]",
+      "lineNumber": 3046,
+      "originalText": "Sculpt it big so he can carry more things.",
+      "cleanedText": "Sculpit big so he can carry more things."
+    },
+    {
+      "header": "[u3083 | 03:07:32.040-03:07:33.529 | DM]",
+      "lineNumber": 3083,
+      "originalText": "Aksha, who is.",
+      "cleanedText": "Shai, who is."
+    }
+  ],
+  "review": {
+    "schemaVersion": 1,
+    "transcriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dragonets/dragonets-003/cleaned/dragonets-003-source-cleaned.md",
+    "transcriptSha256": "508f6bef36dedae9bb165793f83d05cbea1ce6debab2dbd771f3808aa6bc3e59",
+    "issues": [],
+    "pendingMaterialCount": 0,
+    "incidentalCount": 0,
+    "acceptedCount": 0,
+    "assessment": "Both material inconsistencies were resolved by the user: Wanderer is the egg destination; Shai survives and Aksha remains dead. Both approved text corrections are recorded in cleanup-decisions.json. No material unresolved markers remain."
+  }
+}

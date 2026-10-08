@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "The Wanderer’s First Steps",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The opening recap and character reflections establish the same cockpit situation in which the party learns coordinated control; the practice continues until an outside summons changes their objective.",
+      "overview": "The four learn to see, walk, and explore the shallows through the Wanderer.",
+      "transitionToNext": "Oru summons them to a vessel that has crashed near the Dark Lady."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Visitors from Beyond the Storm",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "At the user’s direction, the meeting, offer of sanctuary, warning, and immediate preparations remain one continuous encounter with the visitors; the next scene starts with the battle.",
+      "overview": "Aksha and Shai greet the dragonets as Firstborn and receive an offer of sanctuary; their warning sends the islanders into shelter as a dreadnought arrives.",
+      "transitionToNext": "The dreadnought launches fighters and the coordinated defense begins."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Wanderer Against the Dreadnought",
+      "beatIds": [
+        "beat-008",
+        "beat-009",
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "All four tactical phases belong to one continuous battle, with the same immediate goal, allied cast, and battlefield; the shield breach and new powers do not create separate recap situations.",
+      "overview": "The four combine spells, statue powers, and a giant stone maul to defeat the attackers, while the village is damaged and the allied craft falls.",
+      "transitionToNext": "With the battle over, Tony rushes to the travelers’ wreck to help them."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Rescue from the Wreck",
+      "beatIds": [
+        "beat-012",
+        "beat-013"
+      ],
+      "rationale": "At the user’s direction, triage at the travelers’ wreck and the rescue from the dreadnought form one closing aftermath sequence, connected by Tony’s discovery of the captive life signatures.",
+      "overview": "Aksha cannot be revived, but Shai survives; the party saves many captives and eggs before the dreadnought explodes, then hears Shai’s warning that they must leave.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}
