@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-08T15:19:05-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person]
 species: giant
 subspecies: storm
 died: 1059
@@ -10,7 +10,8 @@ gender: male
 name: Jorundr
 pronunciation: YOR-oondr
 whereabouts:
-  - {type: away, location: north of Drankor, start: 1059, end: 1059}
+- {type: home, end: 001, location: Green Sea}
+- {type: away, location: Garamjala Desert, start: 1059, end: 1059}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
@@ -23,15 +24,13 @@ POV: modern
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Jorundr was a storm giant from the [[Green Sea]], a traveler and student of giant history. Eager, impulsive, and optimistic, he left his underwater home while young and wandered the deserts east of the [[Drankorian Empire]] before crossing the empire during its Golden Age. He became a friend and pupil of [[Hralgar]], spending a century or more with him, and hoped for a new age of harmony between humans and giants.
+Jorundr was a storm giant wanderer and student of history. He was born under the [[Green Sea]]. Eager, impulsive, and optimistic, he left his underwater home while young and wandered widely, especially across the [[Great Desert|deserts east]] of the [[Drankorian Empire]]. He became a friend and pupil of [[Hralgar]], spending a century or more with him, and hoped for a new age of harmony between humans and giants.
 
-After learning that Hralgar had been imprisoned, Jorundr set out to rescue him. He died north of [[Drankor]] in DR 1059, caught in the [[First Plague|magical catastrophe]] that brought about the [[Fall of Drankor]].
+After learning that Hralgar had been imprisoned, Jorundr set out to rescue him. He died north of [[Drankor]] in DR 1059, in what is now the Garamjala Desert, caught in the [[First Plague|magical catastrophe]] that brought about the [[Fall of Drankor]].
 
 %% Sources:
 - [[Jorundr's Story]]
 - [[Kenzo's Memories of Hraglar]]
-
-The written story describes Jorundr as a gatherer of tales and sharer of history; the [[dunmari-frontier-071-source-prepared|Session 71 transcript]] appears to apply those descriptions to Hralgar. Both establish Jorundr's interest in giant history.
 %%
 
 %%^Metadata:names:v1%%
