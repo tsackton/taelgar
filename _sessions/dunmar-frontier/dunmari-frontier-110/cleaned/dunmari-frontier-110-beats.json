@@ -1,0 +1,789 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Revaka refuses a useful bargain",
+      "startUid": "u0001",
+      "endUid": "u0467",
+      "lineCount": 467,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The opening mirror negotiation ends with the party declining to free Revaka.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u1326 and u1731-u1747 identify morning; Ghesh is met about 11am."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Luring the dragon",
+      "startUid": "u0468",
+      "endUid": "u0931",
+      "lineCount": 464,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party changes from questioning Revaka to ways to draw the dragon out.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u1326 and u1731-u1747 identify morning; Ghesh is met about 11am."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Choosing a direct offer",
+      "startUid": "u0932",
+      "endUid": "u1407",
+      "lineCount": 476,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo proposes an explicit message through Ghesh; alternatives and escape routes are tested.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u1326 and u1731-u1747 identify morning; Ghesh is met about 11am."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Disguises and departure",
+      "startUid": "u1408",
+      "endUid": "u1730",
+      "lineCount": 323,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The group commits to the throne-for-jade plan and prepares its approach.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u1326 and u1731-u1747 identify morning; Ghesh is met about 11am."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Ghesh arranges an audience",
+      "startUid": "u1731",
+      "endUid": "u1949",
+      "lineCount": 219,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "At Ghesh’s tower, the party secures messengers and an escort.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u1326 and u1731-u1747 identify morning; Ghesh is met about 11am."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Entering the dragon’s court",
+      "startUid": "u1950",
+      "endUid": "u2400",
+      "lineCount": 451,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The escort leads to the bathing complex and the dragon’s formal audience.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Throne for the jade",
+      "startUid": "u2401",
+      "endUid": "u2779",
+      "lineCount": 379,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The audience shifts to Apollyon’s throne, the trade, and its conditions.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "The Secret Sunset clue",
+      "startUid": "u2780",
+      "endUid": "u3054",
+      "lineCount": 275,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Discussion turns to the Cloudspinner, the villa, and the dragon’s guard duty.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Scouting beneath the villa",
+      "startUid": "u3055",
+      "endUid": "u3432",
+      "lineCount": 378,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party uses a rat and portal detection to investigate the nearby ruin.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "A warning and a vision",
+      "startUid": "u3433",
+      "endUid": "u3749",
+      "lineCount": 317,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A lynx carries a warning; Clairvoyance extends the reconnaissance into the crypt.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Completing the throne exchange",
+      "startUid": "u3750",
+      "endUid": "u4057",
+      "lineCount": 308,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party rests and performs the agreed trade before entering the villa.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "The fiend behind the wall",
+      "startUid": "u4058",
+      "endUid": "u4350",
+      "lineCount": 293,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Dimension Door brings the party into the cellar to locate the hidden guardian.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "Preparing the Scatter ambush",
+      "startUid": "u4351",
+      "endUid": "u4586",
+      "lineCount": 236,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party sets positions, protections, and the animated ladder before initiative.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-014",
+      "title": "A mirror into the lair",
+      "startUid": "u4587",
+      "endUid": "u4818",
+      "lineCount": 232,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative begins, and Seeker identifies the mirror’s link to the dragon.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-015",
+      "title": "Striking the fiery guardian",
+      "startUid": "u4819",
+      "endUid": "u5117",
+      "lineCount": 299,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party commits to killing the fiend and tests its defenses.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-016",
+      "title": "Constructs join the fight",
+      "startUid": "u5118",
+      "endUid": "u5421",
+      "lineCount": 304,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The second round adds a clay construct and pressure from the ladder.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-017",
+      "title": "Delwath dragged into lava",
+      "startUid": "u5422",
+      "endUid": "u5814",
+      "lineCount": 393,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The fiend’s whip changes the fight by pulling Delwath into the basin.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-018",
+      "title": "Pulling Delwath out",
+      "startUid": "u5815",
+      "endUid": "u6200",
+      "lineCount": 386,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The fiend downs Delwath; Kenzo extracts him and Seeker restores him.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-019",
+      "title": "The fiend falls",
+      "startUid": "u6201",
+      "endUid": "u6505",
+      "lineCount": 305,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Wellby blinds the fiend and Delwath returns through the wall of fire to finish it.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-020",
+      "title": "Healing and the fire records",
+      "startUid": "u6506",
+      "endUid": "u6784",
+      "lineCount": 279,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "With combat over, the party destroys the mirror, heals, and searches.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-021",
+      "title": "Opening the buried portal",
+      "startUid": "u6785",
+      "endUid": "u7098",
+      "lineCount": 314,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party extinguishes the magical heat and displaces the still-hot lava.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-022",
+      "title": "Inside the shadow prison",
+      "startUid": "u7099",
+      "endUid": "u7383",
+      "lineCount": 285,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Delwath enters the prison and begins cutting the crystal’s shadow bonds.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-023",
+      "title": "Extracting the Cloudspinner’s crystal",
+      "startUid": "u7384",
+      "endUid": "u7652",
+      "lineCount": 269,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The last bond parts; Seeker and the ladder solve the hazardous extraction.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-024",
+      "title": "Retreat to Dimitaur",
+      "startUid": "u7653",
+      "endUid": "u8050",
+      "lineCount": 398,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party chooses shelter and teleports to the summit temple.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u2529 fixes the audience at 2pm; u2535 sets a return in two hours; u7836 says 15–20 minutes have passed since the later trade."
+      ]
+    },
+    {
+      "beatId": "beat-025",
+      "title": "Shelter and the coming battle",
+      "startUid": "u8051",
+      "endUid": "u8493",
+      "lineCount": 443,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Dimitaur’s warnings, Milo and Tilly’s reply, and depleted magic shape the rest plan.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u8349-u8351 fix the time near 5pm; u8494 and u8520 begin the rest and shared dream."
+      ]
+    },
+    {
+      "beatId": "beat-026",
+      "title": "The final jade vision",
+      "startUid": "u8494",
+      "endUid": "u8727",
+      "lineCount": 234,
+      "dateStart": "1749-05-20",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Sleep brings a shared vision of Rai, the dagger, and growing planar chaos.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u8349-u8351 fix the time near 5pm; u8494 and u8520 begin the rest and shared dream."
+      ]
+    },
+    {
+      "beatId": "beat-027",
+      "title": "Scouts at one in the morning",
+      "startUid": "u8728",
+      "endUid": "u9048",
+      "lineCount": 321,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The lynx alarm ends the eight-hour rest and reveals two dragonet scouts.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u8737-u8763: eight-hour rest ends at 1am; u9049: Milo and Tilly arrive at 2am; u9310: scouts leave at 3am."
+      ]
+    },
+    {
+      "beatId": "beat-028",
+      "title": "Recruiting help before dawn",
+      "startUid": "u9049",
+      "endUid": "u9311",
+      "lineCount": 263,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Milo and Tilly arrive; messages and released scouts spread the treasure offer.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u8737-u8763: eight-hour rest ends at 1am; u9049: Milo and Tilly arrive at 2am; u9310: scouts leave at 3am."
+      ]
+    },
+    {
+      "beatId": "beat-029",
+      "title": "Repairing the ancient lighthouse",
+      "startUid": "u9312",
+      "endUid": "u9675",
+      "lineCount": 364,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party restores the light mechanism and begins preparing protections.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-030",
+      "title": "Positions around the temples",
+      "startUid": "u9676",
+      "endUid": "u10150",
+      "lineCount": 475,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party assigns allies and summons to positions and activates the light.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-031",
+      "title": "Pursuers and final preparations",
+      "startUid": "u10151",
+      "endUid": "u10565",
+      "lineCount": 415,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The approaching enemy prompts final equipment choices and last preparations.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-032",
+      "title": "The attackers approach",
+      "startUid": "u10566",
+      "endUid": "u11001",
+      "lineCount": 436,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative tracks the approach while allies summon creatures and drink potions.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-033",
+      "title": "Breaking the flying vanguard",
+      "startUid": "u11002",
+      "endUid": "u11464",
+      "lineCount": 463,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Ranged attacks and spells thin the approaching minions and chimeras.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-034",
+      "title": "Ra’ghemdros reveals herself",
+      "startUid": "u11465",
+      "endUid": "u11776",
+      "lineCount": 312,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The invisible dragon appears with a breath attack that destroys two summons.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-035",
+      "title": "Kenzo and Delwath close in",
+      "startUid": "u11777",
+      "endUid": "u12208",
+      "lineCount": 432,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The melee fighters batter the dragon while minions and acid globules threaten the others.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-036",
+      "title": "A construct on the dragon",
+      "startUid": "u12209",
+      "endUid": "u12459",
+      "lineCount": 251,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Seeker summons a stronger construct onto the dragon; Tilly clears nearby minions.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-037",
+      "title": "Holding off the chimeras",
+      "startUid": "u12460",
+      "endUid": "u12719",
+      "lineCount": 260,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The surviving chimeras threaten the support group and Milo brings one down.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-038",
+      "title": "The lighthouse loses a light",
+      "startUid": "u12720",
+      "endUid": "u12891",
+      "lineCount": 172,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The dragon attacks Delwath, flies to the tower, and knocks out a driftglobe.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-039",
+      "title": "Fighting an incorporeal dragon",
+      "startUid": "u12892",
+      "endUid": "u13243",
+      "lineCount": 352,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Wellby holds his ground while Kenzo retrieves a light and the dragon becomes shadowy.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-040",
+      "title": "Pressure from spells and stone",
+      "startUid": "u13244",
+      "endUid": "u13644",
+      "lineCount": 401,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Synaptic Static, Catapult, construct attacks, and Tilly’s healing sustain the fight.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-041",
+      "title": "Darkness and the second breath",
+      "startUid": "u13645",
+      "endUid": "u13867",
+      "lineCount": 223,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The dragon knocks out the remaining light, breathes, and retreats into magical darkness.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u9310-u9311: 3am, two hours until dawn; the subsequent preparations and fight are continuous."
+      ]
+    },
+    {
+      "beatId": "beat-042",
+      "title": "Dawn breaks over the island",
+      "startUid": "u13868",
+      "endUid": "u14149",
+      "lineCount": 282,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "dawn",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo restores the light and kills Ra’ghemdros; her last chimera is finished.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u14085-u14093: the dragon’s death brings sunrise; u14168-u14173 and u15143 describe subsequent hours; the return voyage contains no further overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-043",
+      "title": "A museum beneath the acid",
+      "startUid": "u14150",
+      "endUid": "u14500",
+      "lineCount": 351,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After resting and clearing the lair’s traps, the party discovers the organized hoard.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u14085-u14093: the dragon’s death brings sunrise; u14168-u14173 and u15143 describe subsequent hours; the return voyage contains no further overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-044",
+      "title": "Magic eyes and a new protector",
+      "startUid": "u14501",
+      "endUid": "u14818",
+      "lineCount": 318,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Magic treasures are examined and Dimitaur takes the throne before the gathered dragonets.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u14085-u14093: the dragon’s death brings sunrise; u14168-u14173 and u15143 describe subsequent hours; the return voyage contains no further overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-045",
+      "title": "A ship for Milo and Tilly",
+      "startUid": "u14819",
+      "endUid": "u15045",
+      "lineCount": 227,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The halflings receive the boat; the party settles how the communication eyes work.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u14085-u14093: the dragon’s death brings sunrise; u14168-u14173 and u15143 describe subsequent hours; the return voyage contains no further overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-046",
+      "title": "Treasure and the voyage home",
+      "startUid": "u15046",
+      "endUid": "u15275",
+      "lineCount": 230,
+      "dateStart": "1749-05-21",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party packs valuables, installs Dimitaur’s eye, and sails back to Vindristjarna.",
+      "dateEvidence": [
+        "Calendar assignment inferred from one supported overnight rest (u8349-u8351, u8737-u8763), the manifest end date 1749-05-21, and continuity; the May 20 start was explicitly approved by the user and is now recorded in the manifest.",
+        "u14085-u14093: the dragon’s death brings sunrise; u14168-u14173 and u15143 describe subsequent hours; the return voyage contains no further overnight transition."
+      ]
+    }
+  ]
+}

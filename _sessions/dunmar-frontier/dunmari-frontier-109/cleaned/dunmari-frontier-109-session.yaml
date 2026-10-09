@@ -1,0 +1,46 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 109
+realWorldDate: '2024-09-27'
+drStart: '1749-05-19'
+drEnd: '1749-05-19'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers:
+  - Kenzo
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers:
+  - Wellby
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers:
+  - Delwath
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Seeker
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - DM
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/sources/Session-109-Chunk-01.identified-v2.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+  109/raw_audio/Session-109-Chunk-01.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/sources/dunmar-frontier-ep109-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/sources/dunmar-frontier-core-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-source-prepared.md
+supplementalSources:
+- original: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    109/transcription/scribe-v2/session109-speaker-identification-v2.json
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    109/transcription/scribe-v2/session109-speaker-identification-v2.json
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/sources/supplemental/01-session109-speaker-identification-v2.json
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/sources/dunmar-frontier-ep109-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-speaker-stats.json

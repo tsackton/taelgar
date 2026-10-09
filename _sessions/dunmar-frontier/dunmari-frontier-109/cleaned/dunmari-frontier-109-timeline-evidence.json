@@ -1,0 +1,129 @@
+{
+  "inferredStart": "1749-05-19",
+  "inferredEnd": "1749-05-19",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1749-05-19",
+      "time": "morning at sunrise",
+      "basis": "inferred",
+      "evidence": "u0002–u0003 open in the morning; u0039 describes sunrise. The date comes from the session YAML, not a spoken calendar date."
+    },
+    {
+      "uid": "u0104",
+      "label": "Flashback before the preceding long rest",
+      "date": "1749-05-18",
+      "time": "night before the main action",
+      "basis": "inferred",
+      "evidence": "u0104 explicitly retcons to before the long rest; u0115 and u0123–u0141 establish bedtime and darkness before the morning opening. May 18 is inferred from the May 19 anchor."
+    },
+    {
+      "uid": "u0391",
+      "label": "Return to the opening morning",
+      "date": "1749-05-19",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u0391 explicitly returns to the morning after the flashback; date resumes the YAML-anchored May 19."
+    },
+    {
+      "uid": "u1006",
+      "label": "Time passes during the westward flight",
+      "date": "1749-05-19",
+      "time": "a couple of hours after departure; clock time unknown",
+      "basis": "explicit",
+      "evidence": "u1006–u1008 explicitly advance the flight by a couple of hours. The earlier three-hour travel estimate at u0925 is not an exact arrival time."
+    },
+    {
+      "uid": "u1153",
+      "label": "Arrival at the tower",
+      "date": "1749-05-19",
+      "time": "after a further flight of about twenty minutes; clock time unknown",
+      "basis": "inferred",
+      "evidence": "u1072 estimates twenty minutes remain; u1078–u1153 continue the approach until the rooftop landing. The elapsed twenty minutes are inferred, not separately announced."
+    },
+    {
+      "uid": "u1384",
+      "label": "Rooftop investigation",
+      "date": "1749-05-19",
+      "time": "one or two minutes after landing",
+      "basis": "explicit",
+      "evidence": "u1384 explicitly advances a minute or two while Wellby investigates the hatch; the proposed ten-minute Silence ritual does not complete."
+    },
+    {
+      "uid": "u1927",
+      "label": "Identifying the manacles",
+      "date": "1749-05-19",
+      "time": "about a minute in the ritual chamber",
+      "basis": "explicit",
+      "evidence": "u1899 gives Identify a one-minute casting time; u1927 says a minute or so passes while Seeker identifies the manacles."
+    },
+    {
+      "uid": "u4172",
+      "label": "The mirror consultation begins",
+      "date": "1749-05-19",
+      "time": "roughly ten minutes for setup and use; clock time unknown",
+      "basis": "inferred",
+      "evidence": "u4030–u4033 estimate a few minutes to extract the mirror and roughly ten minutes all told; the consultation proceeds at u4172–u4229. The duration is an estimate."
+    },
+    {
+      "uid": "u5708",
+      "label": "The skeletons are destroyed",
+      "date": "1749-05-19",
+      "time": "during ten minutes of Sickening Radiance",
+      "basis": "inferred",
+      "evidence": "u5707 says the spell lasts ten minutes; u5708 confirms all the skeletons die. No exact clock time is supplied."
+    },
+    {
+      "uid": "u6153",
+      "label": "Short rest before the lower forge",
+      "date": "1749-05-19",
+      "time": "after about an hour of tower exploration; clock time unknown",
+      "basis": "explicit",
+      "evidence": "u6152–u6157 confirm the short rest; u6164 retrospectively estimates an hour spent exploring. u6185 confirms they take the rest and cook. This does not advance the date."
+    },
+    {
+      "uid": "u9836",
+      "label": "First hour of deciphering",
+      "date": "1749-05-19",
+      "time": "about 4 p.m. after one hour of study",
+      "basis": "explicit",
+      "evidence": "u9836 says an hour passes, and u9839 explicitly gives the time as about 4:00 in the afternoon."
+    },
+    {
+      "uid": "u9861",
+      "label": "Second hour of deciphering",
+      "date": "1749-05-19",
+      "time": "about 5 p.m.",
+      "basis": "inferred",
+      "evidence": "u9861 advances another hour after the explicit 4 p.m. anchor at u9839. The clock reading is inferred."
+    },
+    {
+      "uid": "u9863",
+      "label": "Third hour of deciphering; companions rest",
+      "date": "1749-05-19",
+      "time": "about 6 p.m.",
+      "basis": "explicit",
+      "evidence": "u9863 advances a further hour; u9864–u9865 place Wellby’s and Kenzo’s short rests during the reading, and u9868 explicitly says 6:00."
+    },
+    {
+      "uid": "u10076",
+      "label": "Teleport back to the temple",
+      "date": "1749-05-19",
+      "time": "sunset",
+      "basis": "explicit",
+      "evidence": "u10076 initially says dark, immediately corrected at u10077–u10078 to the sun setting; u10079–u10085 confirm teleportation to the Sibyl’s temple. The planned sleep at u10246 does not reach another morning in this source."
+    }
+  ],
+  "issues": [],
+  "resolutions": {
+    "transition:1:backwards": {
+      "by": "source",
+      "reason": "u0104 explicitly says to retcon back to before the preceding long rest. u0115 and u0123–u0141 establish nighttime; u0391 explicitly resumes the morning. This is an intentional flashback, not chronological progression."
+    },
+    "beat-002:sequence": {
+      "by": "source",
+      "reason": "Beat 002 is the explicitly requested flashback beginning at u0104, before the long rest preceding the May 19 morning. Beat 003 resumes that morning at u0391. May 18 is the inferred flashback date; session endpoint dates remain May 19."
+    }
+  }
+}

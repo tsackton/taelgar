@@ -1,0 +1,2685 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 108,
+    "realWorldDate": "2024-09-27",
+    "drStart": "1749-05-18",
+    "drEnd": "1749-05-19"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010",
+        "beat-011"
+      ],
+      "locationRefs": [
+        "Circular Island",
+        "Wanderer’s statue",
+        "nearest ruined manor",
+        "Ghesh’s tower",
+        "Megren’s tower"
+      ],
+      "npcRefs": [
+        "Ghesh",
+        "Megren"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Golden circlet from Grimbaskal’s hoard",
+        "Kenzo’s raven whistle",
+        "Carved likenesses of Ghesh and Megren",
+        "Elvish coin"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party surveys the island’s divine monuments from the Wanderer’s statue.",
+        "The party surveys the ruined settlements and chooses a nearby tower as its first destination.",
+        "The party scouts four dragonets playing dice beside a ruined manor.",
+        "Kenzo approaches the gamblers in Draconic and senses the island’s scattered dragonet settlements and plague echoes.",
+        "Kenzo’s losses at dice encourage Ghesh to explain Ra’ghemdros’s rule and Megren’s recent reward.",
+        "Kenzo secures an introduction to Megren and temporary secrecy by promising Ghesh an elaborate golden circlet.",
+        "Kenzo travels with Ghesh while his invisible companions follow, then races their guide through the air.",
+        "Ghesh distinguishes ordinary dragonets from Ra’ghemdros’s devoted followers and warns about the forest and western ruins.",
+        "Megren describes stealing the jade from a mainland cave and trading it to Ra’ghemdros for her tower.",
+        "Megren recounts a secondhand acid-pool story and rumors of an elder before Kenzo settles his debt to Ghesh.",
+        "The party reunites and decides to seek the forest’s elder before confronting the dragon."
+      ],
+      "sourceLongSummaries": [
+        "Kenzo walks up the side of the Wanderer’s statue as Delwath joins the ascent. From roughly two hundred feet up, the party spots an old pier’s stone pilings and cliff stairs, identifies the Mother and the Night Queen among the distant statues, and considers the island’s relationship to the Eight Divines. The discussion compares different traditions of worship and ideas about embodied gods; suggestions about the gods and Hkar remain speculation.",
+        "The view reveals a ruined port, estates and towers, an arena, a reddish scar across part of the island, and a forest around the central mountain. With it about two in the afternoon, the party chooses the nearest tower rather than attempting to explore everything at once. Kenzo and Wellby prepare to scout ahead while Delwath adopts a pilgrim disguise.",
+        "At an elegant ruined manor with a damaged tower, Kenzo and Wellby observe four small winged dragonets gambling. Kenzo’s soul sight suggests that one is cheating, without revealing a profound evil. After considering how to approach, the party decides Kenzo should make contact while the others remain out of the conversation.",
+        "Kenzo introduces himself as a traveling monk collecting stories and offers shiny coins to join the dice game. One dragonet flies up to inspect the visitor while the others confer; Wellby can hear them but does not understand Draconic. Kenzo uses his enhanced awareness to sense more dragonets in nearby towers and patches of lingering death reminiscent of the plague echoes at Kharsan, with the occupied ruins avoiding those places.",
+        "Kenzo loses several rounds before winning one, and the resulting goodwill draws the bossiest dragonet, Ghesh, into conversation. Ghesh describes Ra’ghemdros as a much larger black dragon who demands the island’s shiny treasures and rewards her subjects with status and towers. He points Kenzo toward his friend Megren, who recently returned from the mainland with valuable treasure and received a tower of her own.",
+        "Ghesh warns that the direct route passes a place haunted by red mist and visions of people dying. Kenzo offers a golden circlet set with green alexandrite to obtain an introduction and keep the party’s presence from Ra’ghemdros. Ghesh summons his clan so their promises can be checked, and they agree to the arrangement; Kenzo holds the payment until they reach Megren, while Ghesh warns that a failure to return that night would expose the visit.",
+        "Delwath makes himself, Wellby, and Seeker invisible so Kenzo can remain the sole visible visitor while the party follows together. Ghesh leads them around the haunted ruins and talks about dragonet clans, dangerous mainland storms, and flying contests at the arena. Kenzo uses his raven whistle to fly and race Ghesh; his greater speed draws a complaint of cheating, and the journey brings them toward Megren’s tower after about an hour.",
+        "As they finish the journey, Ghesh explains that he and his friends are trying to get by, while other dragonets truly believe in Ra’ghemdros’s rule. The queen controls rewards and tower ownership, and most obvious treasure on the island has already been gathered. Ghesh recalls temples or a monastery at the summit, voices in the forest that tell intruders to leave, and dangerous western ruins associated with an ancient war; he would not personally mourn the dragon’s death.",
+        "Kenzo and Ghesh arrive at Megren’s well-kept tower and its surrounding dragonet settlement while the other companions remain concealed. Kenzo disguises the jade in his possession with illusory flowers. Megren explains that she found a claw-sized piece of green jade in a mainland cave and took it to Ra’ghemdros, earning ownership of her tower; she describes entering through old baths and swimming into a cavern of acid, shadowy tendrils, and dangerous eruptions.",
+        "Megren repeats a story she heard from Zadar about a group in the forest whose camp was destroyed by the dragon and became an acid pool; she did not witness it herself. Talk of a hidden elder remains rumor to her. Kenzo carves small likenesses of Ghesh and Megren, then pays Ghesh the promised golden circlet. Megren keeps her carving but passes the offered elvish coin to Ghesh, explaining that she has little need for further favors from Ra’ghemdros.",
+        "Away from the dragonets, the party weighs sneaking into the acid-filled lair, fighting Ra’ghemdros, bargaining for the jade, and finding other leverage. They question whether the lair is extraplanar or the dragon is bound to it, but have no confirmation of either theory. Ideas involving treasure, an efreeti bottle, or their own jade remain proposals. They choose to gather more information by looking for the rumored elder in the forest."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Above the Wanderer",
+          "boundaryReason": "The opening ascent and discussion of the island’s divine monuments form one orientation unit.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0289"
+          },
+          "shortSummary": "The party surveys the island’s divine monuments from the Wanderer’s statue.",
+          "longSummary": "Kenzo walks up the side of the Wanderer’s statue as Delwath joins the ascent. From roughly two hundred feet up, the party spots an old pier’s stone pilings and cliff stairs, identifies the Mother and the Night Queen among the distant statues, and considers the island’s relationship to the Eight Divines. The discussion compares different traditions of worship and ideas about embodied gods; suggestions about the gods and Hkar remain speculation.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "The Wanderer’s statue and the ruined landing beneath it"
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Surveying the ruined island",
+          "boundaryReason": "The view becomes a practical survey of routes and destinations, ending with the approach to the nearest tower.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0290",
+            "endUid": "u0562"
+          },
+          "shortSummary": "The party surveys the ruined settlements and chooses a nearby tower as its first destination.",
+          "longSummary": "The view reveals a ruined port, estates and towers, an arena, a reddish scar across part of the island, and a forest around the central mountain. With it about two in the afternoon, the party chooses the nearest tower rather than attempting to explore everything at once. Kenzo and Wellby prepare to scout ahead while Delwath adopts a pilgrim disguise.",
+          "locationHints": {
+            "refs": [
+              "Wanderer’s statue",
+              "nearest ruined manor"
+            ],
+            "context": "Surveying the surrounding ruins and choosing the first approach"
+          }
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Dragonets at the ruined manor",
+          "boundaryReason": "The party scouts the dragonets and settles on Kenzo as their visible emissary.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0563",
+            "endUid": "u0848"
+          },
+          "shortSummary": "The party scouts four dragonets playing dice beside a ruined manor.",
+          "longSummary": "At an elegant ruined manor with a damaged tower, Kenzo and Wellby observe four small winged dragonets gambling. Kenzo’s soul sight suggests that one is cheating, without revealing a profound evil. After considering how to approach, the party decides Kenzo should make contact while the others remain out of the conversation.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered",
+              "notes": "One of the dragonets at the dice game; identified by name later in the same encounter."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A friendly introduction",
+          "boundaryReason": "Kenzo approaches in Draconic while the others observe, and senses the island’s living and plague-haunted places.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0849",
+            "endUid": "u1066"
+          },
+          "shortSummary": "Kenzo approaches the gamblers in Draconic and senses the island’s scattered dragonet settlements and plague echoes.",
+          "longSummary": "Kenzo introduces himself as a traveling monk collecting stories and offers shiny coins to join the dice game. One dragonet flies up to inspect the visitor while the others confer; Wellby can hear them but does not understand Draconic. Kenzo uses his enhanced awareness to sense more dragonets in nearby towers and patches of lingering death reminiscent of the plague echoes at Kharsan, with the occupied ruins avoiding those places.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Dice and the dragon’s tribute",
+          "boundaryReason": "Gambling establishes rapport with Ghesh and reveals the dragon’s tribute economy.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1067",
+            "endUid": "u1415"
+          },
+          "shortSummary": "Kenzo’s losses at dice encourage Ghesh to explain Ra’ghemdros’s rule and Megren’s recent reward.",
+          "longSummary": "Kenzo loses several rounds before winning one, and the resulting goodwill draws the bossiest dragonet, Ghesh, into conversation. Ghesh describes Ra’ghemdros as a much larger black dragon who demands the island’s shiny treasures and rewards her subjects with status and towers. He points Kenzo toward his friend Megren, who recently returned from the mainland with valuable treasure and received a tower of her own.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Megren",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Buying Ghesh’s silence",
+          "boundaryReason": "Kenzo negotiates an introduction to Megren and a clan-wide promise of secrecy.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1416",
+            "endUid": "u1706"
+          },
+          "shortSummary": "Kenzo secures an introduction to Megren and temporary secrecy by promising Ghesh an elaborate golden circlet.",
+          "longSummary": "Ghesh warns that the direct route passes a place haunted by red mist and visions of people dying. Kenzo offers a golden circlet set with green alexandrite to obtain an introduction and keep the party’s presence from Ra’ghemdros. Ghesh summons his clan so their promises can be checked, and they agree to the arrangement; Kenzo holds the payment until they reach Megren, while Ghesh warns that a failure to return that night would expose the visit.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Megren",
+              "role": "mentioned"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Golden circlet from Grimbaskal’s hoard",
+              "role": "encountered",
+              "notes": "Promised as payment for an introduction and secrecy; not yet handed over."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Following and racing Ghesh",
+          "boundaryReason": "The party arranges invisible backup and travels toward Megren’s tower, with Kenzo racing their guide.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1707",
+            "endUid": "u2037"
+          },
+          "shortSummary": "Kenzo travels with Ghesh while his invisible companions follow, then races their guide through the air.",
+          "longSummary": "Delwath makes himself, Wellby, and Seeker invisible so Kenzo can remain the sole visible visitor while the party follows together. Ghesh leads them around the haunted ruins and talks about dragonet clans, dangerous mainland storms, and flying contests at the arena. Kenzo uses his raven whistle to fly and race Ghesh; his greater speed draws a complaint of cheating, and the journey brings them toward Megren’s tower after about an hour.",
+          "locationHints": {
+            "refs": [
+              "Ghesh’s tower",
+              "Megren’s tower"
+            ],
+            "context": "A detour around plague-haunted ruins, with three companions following invisibly"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Megren",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Kenzo’s raven whistle",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Loyalties and forbidden places",
+          "boundaryReason": "Ghesh explains local loyalties and warns about the forest, summit, and western ruins as they finish the journey.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2038",
+            "endUid": "u2217"
+          },
+          "shortSummary": "Ghesh distinguishes ordinary dragonets from Ra’ghemdros’s devoted followers and warns about the forest and western ruins.",
+          "longSummary": "As they finish the journey, Ghesh explains that he and his friends are trying to get by, while other dragonets truly believe in Ra’ghemdros’s rule. The queen controls rewards and tower ownership, and most obvious treasure on the island has already been gathered. Ghesh recalls temples or a monastery at the summit, voices in the forest that tell intruders to leave, and dangerous western ruins associated with an ancient war; he would not personally mourn the dragon’s death.",
+          "locationHints": {
+            "refs": [
+              "Ghesh’s tower",
+              "Megren’s tower"
+            ],
+            "context": "Conversation during the final approach"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Megren’s stolen jade",
+          "boundaryReason": "Megren welcomes Kenzo and describes taking the jade and delivering it to the dragon’s lair.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2218",
+            "endUid": "u2476"
+          },
+          "shortSummary": "Megren describes stealing the jade from a mainland cave and trading it to Ra’ghemdros for her tower.",
+          "longSummary": "Kenzo and Ghesh arrive at Megren’s well-kept tower and its surrounding dragonet settlement while the other companions remain concealed. Kenzo disguises the jade in his possession with illusory flowers. Megren explains that she found a claw-sized piece of green jade in a mainland cave and took it to Ra’ghemdros, earning ownership of her tower; she describes entering through old baths and swimming into a cavern of acid, shadowy tendrils, and dangerous eruptions.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Megren’s tower and its reflecting pool"
+          },
+          "npcDetails": [
+            {
+              "name": "Megren",
+              "role": "encountered"
+            },
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai’s Hand",
+              "role": "mentioned",
+              "notes": "The missing jade is described by Megren; the party infers it is the piece they seek."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-010",
+          "title": "The acid-pool story",
+          "boundaryReason": "Megren recounts a secondhand tale, Kenzo completes the social exchange, and Ghesh receives his payment.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2477",
+            "endUid": "u2688"
+          },
+          "shortSummary": "Megren recounts a secondhand acid-pool story and rumors of an elder before Kenzo settles his debt to Ghesh.",
+          "longSummary": "Megren repeats a story she heard from Zadar about a group in the forest whose camp was destroyed by the dragon and became an acid pool; she did not witness it herself. Talk of a hidden elder remains rumor to her. Kenzo carves small likenesses of Ghesh and Megren, then pays Ghesh the promised golden circlet. Megren keeps her carving but passes the offered elvish coin to Ghesh, explaining that she has little need for further favors from Ra’ghemdros.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Megren’s tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Megren",
+              "role": "encountered"
+            },
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Zadar",
+              "role": "mentioned",
+              "notes": "The reported source of Megren’s acid-pool story."
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Golden circlet from Grimbaskal’s hoard",
+              "role": "encountered",
+              "notes": "Given to Ghesh."
+            },
+            {
+              "name": "Carved likenesses of Ghesh and Megren",
+              "role": "encountered"
+            },
+            {
+              "name": "Elvish coin",
+              "role": "encountered",
+              "notes": "Offered to Megren and passed on to Ghesh."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-011",
+          "title": "Choosing the forest route",
+          "boundaryReason": "The reunited party weighs theft, combat, and negotiation before deciding to seek the forest’s elder.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2689",
+            "endUid": "u3099"
+          },
+          "shortSummary": "The party reunites and decides to seek the forest’s elder before confronting the dragon.",
+          "longSummary": "Away from the dragonets, the party weighs sneaking into the acid-filled lair, fighting Ra’ghemdros, bargaining for the jade, and finding other leverage. They question whether the lair is extraplanar or the dragon is bound to it, but have no confirmation of either theory. Ideas involving treasure, an efreeti bottle, or their own jade remain proposals. They choose to gather more information by looking for the rumored elder in the forest.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Away from Megren’s tower, before the journey inland"
+          },
+          "npcDetails": [
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Discussed only as the rumored elder at this point."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai’s Hand",
+              "role": "mentioned"
+            },
+            {
+              "name": "Efreeti bottle",
+              "role": "mentioned",
+              "notes": "Considered as possible bargaining material, not used."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-012"
+      ],
+      "locationRefs": [
+        "Megren’s tower district",
+        "Circular Island"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party crosses the island to the forest, where Kenzo senses an ancient dragonet near the summit."
+      ],
+      "sourceLongSummaries": [
+        "The party travels roughly ten miles over two hours, keeping invisible for most of the crossing and avoiding a pair of dragonets overhead. At about seven in the evening they reach an airy forest of tall trees and flowers, following an intact pilgrim road past old camping places. Kenzo senses the island’s eldest dragonet near the summit. They discuss a messenger but keep walking toward a closer position as the light fades, passing the sound of a waterfall without investigating it."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-012",
+          "title": "Toward the forest’s elder",
+          "boundaryReason": "An overland journey leads into the forest at evening, where Kenzo locates an old presence near the summit.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u3100",
+            "endUid": "u3401"
+          },
+          "shortSummary": "The party crosses the island to the forest, where Kenzo senses an ancient dragonet near the summit.",
+          "longSummary": "The party travels roughly ten miles over two hours, keeping invisible for most of the crossing and avoiding a pair of dragonets overhead. At about seven in the evening they reach an airy forest of tall trees and flowers, following an intact pilgrim road past old camping places. Kenzo senses the island’s eldest dragonet near the summit. They discuss a messenger but keep walking toward a closer position as the light fades, passing the sound of a waterfall without investigating it.",
+          "locationHints": {
+            "refs": [
+              "Megren’s tower district",
+              "Circular Island"
+            ],
+            "context": "Crossing dry scrubland and entering the central forest"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Sensed remotely as the eldest dragonet, not yet encountered."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-013",
+        "beat-014",
+        "beat-015",
+        "beat-016",
+        "beat-017",
+        "beat-018",
+        "beat-019",
+        "beat-020"
+      ],
+      "locationRefs": [
+        "Circular Island",
+        "elven memorial",
+        "summit temples"
+      ],
+      "npcRefs": [
+        "Dimitaur",
+        "Remembered elven quartermaster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Kenzo’s staff",
+        "Jade pieces in Kenzo’s staff"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Kenzo resists a disturbing memory pool, and the party continues toward the summit.",
+        "The party scouts the summit by clairvoyance and sends a lynx messenger during a short rest.",
+        "Delwath’s scrying reveals the elderly dragonet preparing a stone trap in the Sibyl’s temple.",
+        "At an elven memorial, Delwath experiences a dead warrior’s life and Kenzo speaks with the forest.",
+        "Shared memories and Seeker’s stone sense reveal an ancient refuge beneath the island’s memorial landscape.",
+        "At the summit, the party disarms a temple trap and exposes the hidden source of a supposedly divine voice.",
+        "Dimitaur emerges, hears the jade’s story, and tells the party about Rai and his own life in hiding.",
+        "Dimitaur discusses Rai’s failed effort at Isingue, Apollyon’s phylactery, and the dangers of returning to Drankor."
+      ],
+      "sourceLongSummaries": [
+        "After nightfall, at about eight, the party investigates a damaged pool bordered by broken stone. Its murky reflections show hollow-eyed, suffering people rather than creatures actually beneath the water. Kenzo withstands its influence with only a lingering unease. Although the group considers trying to cleanse it, they leave it alone, pass another pool, and continue toward a position about two miles from the summit.",
+        "Seeker uses clairvoyance to survey eight intact summit temples around a courtyard and a damaged crystal-topped tower, without locating an obvious residence. Delwath sends a lynx spirit to the sensed elder, explaining that travelers seek the jade associated with Rai and want an audience and a safe approach. The party takes a single one-hour short rest, reaching about nine at night; the message is delivered, but the spirit brings no reply.",
+        "Delwath scries the dragonet and sees an elderly, grayish figure with a faint purple cast working on a stone-and-pulley trap in the Temple of the Sibyl. The view lasts only ten minutes and does not expose every detail of the trigger. The table clarifies that the scrying occurred while the messenger waited during the already described short rest, rather than creating a second rest or another hour of elapsed travel.",
+        "After roughly half an hour of further walking, the party finds two towering trees joined by pale stone bearing drifting Elvish names. Delwath touches it and experiences an elf tending soldiers as a quartermaster and later dying in battle. Kenzo receives a broader sense of remembered lives and speaks with the trees, which answer as one forest. They recall no pilgrims for about seven centuries, describe the pools as imperfectly preserved memories, and explain that they arrived when the island changed from a refuge to a memorial; they can no longer receive new memories.",
+        "The forest shares a memory of a more vibrant island visited by pilgrims of many peoples, and Kenzo carves the scene into his staff. The party considers the island’s transformation from a refuge connected to Hkar into a memorial for the dead of the Downfall, without resolving why it is now isolated. Seeker examines the stone with his special senses, judging its construction roughly three thousand years old and detecting an underground tunnel complex whose precise position he cannot determine, before they continue toward the summit.",
+        "At about half past ten, the party reaches eight temples, a central bell tower, and abandoned pilgrim facilities with magical dining circles. Wellby finds a tripwire in the Temple of the Sibyl and uses a rope to hold its tension while disarming a swinging stone slab. Inside, a booming voice demands proof that they are friends of Rai. Seeker senses a creature beneath the floor, Wellby spots a peephole, and Kenzo moves his jade into view after discovering that the hidden speaker initially could only hear them.",
+        "An elderly dragonet carrying a staff and wand climbs out of hiding and asks where the party obtained its four jade pieces. Kenzo recounts his inherited piece and those found in the Elderwood, among merfolk, and in Ursk. The dragonet introduces himself as Dimitaur, recalls Rai leaving thirty-nine years ago to pursue his work, and says he has lived on the island for thirty-five years. He identifies Ra’ghemdros as Cha’mutte’s daughter, believes she guards something here, and asks the party to keep his presence secret; his food is monotonous, and an offer of fresh seafood appeals to him.",
+        "Dimitaur explains that defeating Apollyon requires finding his phylactery, whose location he does not know, and recalls warning Rai against trying to heal the great Seed of Chaos at Isingue. As the party weighs seeking advice from the hobgoblin wizard in its mirror, Dimitaur repeats Ra’ghemdros’s boasts about her parentage. He refuses to return to Drankor, where fear around the tomb grew after Rai departed, but is willing to share what he knows. The party considers sending a spirit to find Rai, though no such search is carried out here."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-013",
+          "title": "The corrupted memory pool",
+          "boundaryReason": "The party encounters a disturbing pool after nightfall and chooses to continue without attempting to cleanse it.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3402",
+            "endUid": "u3555"
+          },
+          "shortSummary": "Kenzo resists a disturbing memory pool, and the party continues toward the summit.",
+          "longSummary": "After nightfall, at about eight, the party investigates a damaged pool bordered by broken stone. Its murky reflections show hollow-eyed, suffering people rather than creatures actually beneath the water. Kenzo withstands its influence with only a lingering unease. Although the group considers trying to cleanse it, they leave it alone, pass another pool, and continue toward a position about two miles from the summit.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "A stop at a corrupted memory pool during the climb"
+          }
+        },
+        {
+          "beatId": "beat-014",
+          "title": "A message to the summit",
+          "boundaryReason": "Clairvoyance and a spirit messenger accompany a single short rest while the party seeks a safe approach.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3556",
+            "endUid": "u3839"
+          },
+          "shortSummary": "The party scouts the summit by clairvoyance and sends a lynx messenger during a short rest.",
+          "longSummary": "Seeker uses clairvoyance to survey eight intact summit temples around a courtyard and a damaged crystal-topped tower, without locating an obvious residence. Delwath sends a lynx spirit to the sensed elder, explaining that travelers seek the jade associated with Rai and want an audience and a safe approach. The party takes a single one-hour short rest, reaching about nine at night; the message is delivered, but the spirit brings no reply.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Upper forest road, resting within reach of the summit"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Recipient of the delivered message; no reply."
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai’s Hand",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-015",
+          "title": "Scrying the wary elder",
+          "boundaryReason": "A retrospective clarification places Delwath’s scrying during that same short rest, revealing an elder preparing a trap.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3840",
+            "endUid": "u3998"
+          },
+          "shortSummary": "Delwath’s scrying reveals the elderly dragonet preparing a stone trap in the Sibyl’s temple.",
+          "longSummary": "Delwath scries the dragonet and sees an elderly, grayish figure with a faint purple cast working on a stone-and-pulley trap in the Temple of the Sibyl. The view lasts only ten minutes and does not expose every detail of the trigger. The table clarifies that the scrying occurred while the messenger waited during the already described short rest, rather than creating a second rest or another hour of elapsed travel.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Upper forest road, during the same short rest"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Observed remotely through scrying; the party has not yet met him in person."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-016",
+          "title": "Memories beneath the trees",
+          "boundaryReason": "The party reaches an elven memorial, experiences its memories, and converses with the forest.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3999",
+            "endUid": "u4348"
+          },
+          "shortSummary": "At an elven memorial, Delwath experiences a dead warrior’s life and Kenzo speaks with the forest.",
+          "longSummary": "After roughly half an hour of further walking, the party finds two towering trees joined by pale stone bearing drifting Elvish names. Delwath touches it and experiences an elf tending soldiers as a quartermaster and later dying in battle. Kenzo receives a broader sense of remembered lives and speaks with the trees, which answer as one forest. They recall no pilgrims for about seven centuries, describe the pools as imperfectly preserved memories, and explain that they arrived when the island changed from a refuge to a memorial; they can no longer receive new memories.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Elven memorial beside the forest pilgrim road"
+          },
+          "npcDetails": [
+            {
+              "name": "Remembered elven quartermaster",
+              "role": "encountered",
+              "notes": "Seen in the memorial’s vision; personal name and battle date are not established."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-017",
+          "title": "The island’s deep history",
+          "boundaryReason": "Shared memories, Kenzo’s carving, and Seeker’s stone sense close the forest visit and illuminate the island’s past.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u4349",
+            "endUid": "u4563"
+          },
+          "shortSummary": "Shared memories and Seeker’s stone sense reveal an ancient refuge beneath the island’s memorial landscape.",
+          "longSummary": "The forest shares a memory of a more vibrant island visited by pilgrims of many peoples, and Kenzo carves the scene into his staff. The party considers the island’s transformation from a refuge connected to Hkar into a memorial for the dead of the Downfall, without resolving why it is now isolated. Seeker examines the stone with his special senses, judging its construction roughly three thousand years old and detecting an underground tunnel complex whose precise position he cannot determine, before they continue toward the summit.",
+          "locationHints": {
+            "refs": [
+              "elven memorial",
+              "summit temples"
+            ],
+            "context": "Finishing the forest conversation and examining the island’s stonework"
+          },
+          "itemDetails": [
+            {
+              "name": "Kenzo’s staff",
+              "role": "encountered",
+              "notes": "Receives a carving of the shared pilgrim memory."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-018",
+          "title": "The temple’s hidden guardian",
+          "boundaryReason": "At the summit, Wellby disarms the trap and the party presents its jade to the hidden speaker.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u4564",
+            "endUid": "u4878"
+          },
+          "shortSummary": "At the summit, the party disarms a temple trap and exposes the hidden source of a supposedly divine voice.",
+          "longSummary": "At about half past ten, the party reaches eight temples, a central bell tower, and abandoned pilgrim facilities with magical dining circles. Wellby finds a tripwire in the Temple of the Sibyl and uses a rope to hold its tension while disarming a swinging stone slab. Inside, a booming voice demands proof that they are friends of Rai. Seeker senses a creature beneath the floor, Wellby spots a peephole, and Kenzo moves his jade into view after discovering that the hidden speaker initially could only hear them.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Summit complex, Temple of the Sibyl"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Still concealed below the temple and speaking through the statue."
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade pieces in Kenzo’s staff",
+              "role": "encountered",
+              "notes": "Presented as evidence of their connection to Rai."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-019",
+          "title": "Dimitaur reveals himself",
+          "boundaryReason": "The elder emerges, names himself, and discusses Rai, the jade, and his years of hiding.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u4879",
+            "endUid": "u5151"
+          },
+          "shortSummary": "Dimitaur emerges, hears the jade’s story, and tells the party about Rai and his own life in hiding.",
+          "longSummary": "An elderly dragonet carrying a staff and wand climbs out of hiding and asks where the party obtained its four jade pieces. Kenzo recounts his inherited piece and those found in the Elderwood, among merfolk, and in Ursk. The dragonet introduces himself as Dimitaur, recalls Rai leaving thirty-nine years ago to pursue his work, and says he has lived on the island for thirty-five years. He identifies Ra’ghemdros as Cha’mutte’s daughter, believes she guards something here, and asks the party to keep his presence secret; his food is monotonous, and an offer of fresh seafood appeals to him.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, speaking with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade pieces in Kenzo’s staff",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-020",
+          "title": "Rai and the lich’s secrets",
+          "boundaryReason": "The conversation turns to Rai’s failed mission, Apollyon’s phylactery, Drankor, and possible sources of help.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u5152",
+            "endUid": "u5416"
+          },
+          "shortSummary": "Dimitaur discusses Rai’s failed effort at Isingue, Apollyon’s phylactery, and the dangers of returning to Drankor.",
+          "longSummary": "Dimitaur explains that defeating Apollyon requires finding his phylactery, whose location he does not know, and recalls warning Rai against trying to heal the great Seed of Chaos at Isingue. As the party weighs seeking advice from the hobgoblin wizard in its mirror, Dimitaur repeats Ra’ghemdros’s boasts about her parentage. He refuses to return to Drankor, where fear around the tomb grew after Rai departed, but is willing to share what he knows. The party considers sending a spirit to find Rai, though no such search is carried out here.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, speaking with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Apollyon",
+              "role": "mentioned"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Revaka",
+              "role": "mentioned",
+              "notes": "The hobgoblin wizard in the mirror, discussed as a possible source of advice."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon’s phylactery",
+              "role": "mentioned"
+            },
+            {
+              "name": "Mirror imprisoning the hobgoblin wizard",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-021"
+      ],
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Dimitaur describes the island’s history and western ruins as the party weighs a dragon bargain and settles in for the night."
+      ],
+      "sourceLongSummaries": [
+        "Dimitaur knows no reason Ra’ghemdros cannot leave the island and warns that an association with Rai would put him in danger. He describes dragonets traveling with the people of Hkar, the island itself being moved by ancient magic, and Apollyon’s old western tower above a forge, which he has never explored. Because Cha’mutte and Apollyon were enemies, the party considers using its plans against Apollyon as leverage with Ra’ghemdros. They agree to consult the mirror-bound hobgoblin before choosing between the dragon and the western ruins, propose more conversation with Dimitaur, and take an overnight rest. The overnight rest carries the session into May 19."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-021",
+          "title": "Dragon bargains and western ruins",
+          "boundaryReason": "Dimitaur supplies further island history and warnings while the party weighs its next move and proposes a long rest.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5417",
+            "endUid": "u5690"
+          },
+          "shortSummary": "Dimitaur describes the island’s history and western ruins as the party weighs a dragon bargain and settles in for the night.",
+          "longSummary": "Dimitaur knows no reason Ra’ghemdros cannot leave the island and warns that an association with Rai would put him in danger. He describes dragonets traveling with the people of Hkar, the island itself being moved by ancient magic, and Apollyon’s old western tower above a forge, which he has never explored. Because Cha’mutte and Apollyon were enemies, the party considers using its plans against Apollyon as leverage with Ra’ghemdros. They agree to consult the mirror-bound hobgoblin before choosing between the dragon and the western ruins, propose more conversation with Dimitaur, and take an overnight rest. The overnight rest carries the session into May 19.",
+          "sourceDateSpan": {
+            "dateStart": "1749-05-18",
+            "dateEnd": "1749-05-19",
+            "dayPosition": "start"
+          },
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, overnight with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            },
+            {
+              "name": "Apollyon",
+              "role": "mentioned"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Revaka",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror imprisoning the hobgoblin wizard",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-021"
+      ],
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "Dimitaur describes the island’s history and western ruins as the party weighs a dragon bargain and settles in for the night."
+      ],
+      "sourceLongSummaries": [
+        "Dimitaur knows no reason Ra’ghemdros cannot leave the island and warns that an association with Rai would put him in danger. He describes dragonets traveling with the people of Hkar, the island itself being moved by ancient magic, and Apollyon’s old western tower above a forge, which he has never explored. Because Cha’mutte and Apollyon were enemies, the party considers using its plans against Apollyon as leverage with Ra’ghemdros. They agree to consult the mirror-bound hobgoblin before choosing between the dragon and the western ruins, propose more conversation with Dimitaur, and take an overnight rest. The overnight rest carries the session into May 19."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-021",
+          "title": "Dragon bargains and western ruins",
+          "boundaryReason": "Dimitaur supplies further island history and warnings while the party weighs its next move and proposes a long rest.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5417",
+            "endUid": "u5690"
+          },
+          "shortSummary": "Dimitaur describes the island’s history and western ruins as the party weighs a dragon bargain and settles in for the night.",
+          "longSummary": "Dimitaur knows no reason Ra’ghemdros cannot leave the island and warns that an association with Rai would put him in danger. He describes dragonets traveling with the people of Hkar, the island itself being moved by ancient magic, and Apollyon’s old western tower above a forge, which he has never explored. Because Cha’mutte and Apollyon were enemies, the party considers using its plans against Apollyon as leverage with Ra’ghemdros. They agree to consult the mirror-bound hobgoblin before choosing between the dragon and the western ruins, propose more conversation with Dimitaur, and take an overnight rest. The overnight rest carries the session into May 19.",
+          "sourceDateSpan": {
+            "dateStart": "1749-05-18",
+            "dateEnd": "1749-05-19",
+            "dayPosition": "end"
+          },
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, overnight with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            },
+            {
+              "name": "Apollyon",
+              "role": "mentioned"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Revaka",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror imprisoning the hobgoblin wizard",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "The View from the Wanderer",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0562"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0289"
+        },
+        {
+          "startUid": "u0290",
+          "endUid": "u0562"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Circular Island",
+        "Wanderer’s statue",
+        "nearest ruined manor"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party surveys the island’s divine monuments from the Wanderer’s statue.",
+        "The party surveys the ruined settlements and chooses a nearby tower as its first destination."
+      ],
+      "sourceLongSummaries": [
+        "Kenzo walks up the side of the Wanderer’s statue as Delwath joins the ascent. From roughly two hundred feet up, the party spots an old pier’s stone pilings and cliff stairs, identifies the Mother and the Night Queen among the distant statues, and considers the island’s relationship to the Eight Divines. The discussion compares different traditions of worship and ideas about embodied gods; suggestions about the gods and Hkar remain speculation.",
+        "The view reveals a ruined port, estates and towers, an arena, a reddish scar across part of the island, and a forest around the central mountain. With it about two in the afternoon, the party chooses the nearest tower rather than attempting to explore everything at once. Kenzo and Wellby prepare to scout ahead while Delwath adopts a pilgrim disguise."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Above the Wanderer",
+          "boundaryReason": "The opening ascent and discussion of the island’s divine monuments form one orientation unit.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0289"
+          },
+          "shortSummary": "The party surveys the island’s divine monuments from the Wanderer’s statue.",
+          "longSummary": "Kenzo walks up the side of the Wanderer’s statue as Delwath joins the ascent. From roughly two hundred feet up, the party spots an old pier’s stone pilings and cliff stairs, identifies the Mother and the Night Queen among the distant statues, and considers the island’s relationship to the Eight Divines. The discussion compares different traditions of worship and ideas about embodied gods; suggestions about the gods and Hkar remain speculation.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "The Wanderer’s statue and the ruined landing beneath it"
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Surveying the ruined island",
+          "boundaryReason": "The view becomes a practical survey of routes and destinations, ending with the approach to the nearest tower.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0290",
+            "endUid": "u0562"
+          },
+          "shortSummary": "The party surveys the ruined settlements and chooses a nearby tower as its first destination.",
+          "longSummary": "The view reveals a ruined port, estates and towers, an arena, a reddish scar across part of the island, and a forest around the central mountain. With it about two in the afternoon, the party chooses the nearest tower rather than attempting to explore everything at once. Kenzo and Wellby prepare to scout ahead while Delwath adopts a pilgrim disguise.",
+          "locationHints": {
+            "refs": [
+              "Wanderer’s statue",
+              "nearest ruined manor"
+            ],
+            "context": "Surveying the surrounding ruins and choosing the first approach"
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "beat",
+      "title": "Dice and a Promise of Secrecy",
+      "beatIds": [
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "sourceRange": {
+        "startUid": "u0563",
+        "endUid": "u1706"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0563",
+          "endUid": "u0848"
+        },
+        {
+          "startUid": "u0849",
+          "endUid": "u1066"
+        },
+        {
+          "startUid": "u1067",
+          "endUid": "u1415"
+        },
+        {
+          "startUid": "u1416",
+          "endUid": "u1706"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Ghesh"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Golden circlet from Grimbaskal’s hoard"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party scouts four dragonets playing dice beside a ruined manor.",
+        "Kenzo approaches the gamblers in Draconic and senses the island’s scattered dragonet settlements and plague echoes.",
+        "Kenzo’s losses at dice encourage Ghesh to explain Ra’ghemdros’s rule and Megren’s recent reward.",
+        "Kenzo secures an introduction to Megren and temporary secrecy by promising Ghesh an elaborate golden circlet."
+      ],
+      "sourceLongSummaries": [
+        "At an elegant ruined manor with a damaged tower, Kenzo and Wellby observe four small winged dragonets gambling. Kenzo’s soul sight suggests that one is cheating, without revealing a profound evil. After considering how to approach, the party decides Kenzo should make contact while the others remain out of the conversation.",
+        "Kenzo introduces himself as a traveling monk collecting stories and offers shiny coins to join the dice game. One dragonet flies up to inspect the visitor while the others confer; Wellby can hear them but does not understand Draconic. Kenzo uses his enhanced awareness to sense more dragonets in nearby towers and patches of lingering death reminiscent of the plague echoes at Kharsan, with the occupied ruins avoiding those places.",
+        "Kenzo loses several rounds before winning one, and the resulting goodwill draws the bossiest dragonet, Ghesh, into conversation. Ghesh describes Ra’ghemdros as a much larger black dragon who demands the island’s shiny treasures and rewards her subjects with status and towers. He points Kenzo toward his friend Megren, who recently returned from the mainland with valuable treasure and received a tower of her own.",
+        "Ghesh warns that the direct route passes a place haunted by red mist and visions of people dying. Kenzo offers a golden circlet set with green alexandrite to obtain an introduction and keep the party’s presence from Ra’ghemdros. Ghesh summons his clan so their promises can be checked, and they agree to the arrangement; Kenzo holds the payment until they reach Megren, while Ghesh warns that a failure to return that night would expose the visit."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Dragonets at the ruined manor",
+          "boundaryReason": "The party scouts the dragonets and settles on Kenzo as their visible emissary.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0563",
+            "endUid": "u0848"
+          },
+          "shortSummary": "The party scouts four dragonets playing dice beside a ruined manor.",
+          "longSummary": "At an elegant ruined manor with a damaged tower, Kenzo and Wellby observe four small winged dragonets gambling. Kenzo’s soul sight suggests that one is cheating, without revealing a profound evil. After considering how to approach, the party decides Kenzo should make contact while the others remain out of the conversation.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered",
+              "notes": "One of the dragonets at the dice game; identified by name later in the same encounter."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A friendly introduction",
+          "boundaryReason": "Kenzo approaches in Draconic while the others observe, and senses the island’s living and plague-haunted places.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u0849",
+            "endUid": "u1066"
+          },
+          "shortSummary": "Kenzo approaches the gamblers in Draconic and senses the island’s scattered dragonet settlements and plague echoes.",
+          "longSummary": "Kenzo introduces himself as a traveling monk collecting stories and offers shiny coins to join the dice game. One dragonet flies up to inspect the visitor while the others confer; Wellby can hear them but does not understand Draconic. Kenzo uses his enhanced awareness to sense more dragonets in nearby towers and patches of lingering death reminiscent of the plague echoes at Kharsan, with the occupied ruins avoiding those places.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-005",
+          "title": "Dice and the dragon’s tribute",
+          "boundaryReason": "Gambling establishes rapport with Ghesh and reveals the dragon’s tribute economy.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1067",
+            "endUid": "u1415"
+          },
+          "shortSummary": "Kenzo’s losses at dice encourage Ghesh to explain Ra’ghemdros’s rule and Megren’s recent reward.",
+          "longSummary": "Kenzo loses several rounds before winning one, and the resulting goodwill draws the bossiest dragonet, Ghesh, into conversation. Ghesh describes Ra’ghemdros as a much larger black dragon who demands the island’s shiny treasures and rewards her subjects with status and towers. He points Kenzo toward his friend Megren, who recently returned from the mainland with valuable treasure and received a tower of her own.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Megren",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Buying Ghesh’s silence",
+          "boundaryReason": "Kenzo negotiates an introduction to Megren and a clan-wide promise of secrecy.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1416",
+            "endUid": "u1706"
+          },
+          "shortSummary": "Kenzo secures an introduction to Megren and temporary secrecy by promising Ghesh an elaborate golden circlet.",
+          "longSummary": "Ghesh warns that the direct route passes a place haunted by red mist and visions of people dying. Kenzo offers a golden circlet set with green alexandrite to obtain an introduction and keep the party’s presence from Ra’ghemdros. Ghesh summons his clan so their promises can be checked, and they agree to the arrangement; Kenzo holds the payment until they reach Megren, while Ghesh warns that a failure to return that night would expose the visit.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Ghesh’s ruined manor and tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Megren",
+              "role": "mentioned"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Golden circlet from Grimbaskal’s hoard",
+              "role": "encountered",
+              "notes": "Promised as payment for an introduction and secrecy; not yet handed over."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "beat",
+      "title": "Ghesh, Megren, and the Missing Jade",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "sourceRange": {
+        "startUid": "u1707",
+        "endUid": "u2688"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1707",
+          "endUid": "u2037"
+        },
+        {
+          "startUid": "u2038",
+          "endUid": "u2217"
+        },
+        {
+          "startUid": "u2218",
+          "endUid": "u2476"
+        },
+        {
+          "startUid": "u2477",
+          "endUid": "u2688"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Ghesh’s tower",
+        "Megren’s tower",
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Ghesh",
+        "Megren"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Kenzo’s raven whistle",
+        "Golden circlet from Grimbaskal’s hoard",
+        "Carved likenesses of Ghesh and Megren",
+        "Elvish coin"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "Kenzo travels with Ghesh while his invisible companions follow, then races their guide through the air.",
+        "Ghesh distinguishes ordinary dragonets from Ra’ghemdros’s devoted followers and warns about the forest and western ruins.",
+        "Megren describes stealing the jade from a mainland cave and trading it to Ra’ghemdros for her tower.",
+        "Megren recounts a secondhand acid-pool story and rumors of an elder before Kenzo settles his debt to Ghesh."
+      ],
+      "sourceLongSummaries": [
+        "Delwath makes himself, Wellby, and Seeker invisible so Kenzo can remain the sole visible visitor while the party follows together. Ghesh leads them around the haunted ruins and talks about dragonet clans, dangerous mainland storms, and flying contests at the arena. Kenzo uses his raven whistle to fly and race Ghesh; his greater speed draws a complaint of cheating, and the journey brings them toward Megren’s tower after about an hour.",
+        "As they finish the journey, Ghesh explains that he and his friends are trying to get by, while other dragonets truly believe in Ra’ghemdros’s rule. The queen controls rewards and tower ownership, and most obvious treasure on the island has already been gathered. Ghesh recalls temples or a monastery at the summit, voices in the forest that tell intruders to leave, and dangerous western ruins associated with an ancient war; he would not personally mourn the dragon’s death.",
+        "Kenzo and Ghesh arrive at Megren’s well-kept tower and its surrounding dragonet settlement while the other companions remain concealed. Kenzo disguises the jade in his possession with illusory flowers. Megren explains that she found a claw-sized piece of green jade in a mainland cave and took it to Ra’ghemdros, earning ownership of her tower; she describes entering through old baths and swimming into a cavern of acid, shadowy tendrils, and dangerous eruptions.",
+        "Megren repeats a story she heard from Zadar about a group in the forest whose camp was destroyed by the dragon and became an acid pool; she did not witness it herself. Talk of a hidden elder remains rumor to her. Kenzo carves small likenesses of Ghesh and Megren, then pays Ghesh the promised golden circlet. Megren keeps her carving but passes the offered elvish coin to Ghesh, explaining that she has little need for further favors from Ra’ghemdros."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-007",
+          "title": "Following and racing Ghesh",
+          "boundaryReason": "The party arranges invisible backup and travels toward Megren’s tower, with Kenzo racing their guide.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u1707",
+            "endUid": "u2037"
+          },
+          "shortSummary": "Kenzo travels with Ghesh while his invisible companions follow, then races their guide through the air.",
+          "longSummary": "Delwath makes himself, Wellby, and Seeker invisible so Kenzo can remain the sole visible visitor while the party follows together. Ghesh leads them around the haunted ruins and talks about dragonet clans, dangerous mainland storms, and flying contests at the arena. Kenzo uses his raven whistle to fly and race Ghesh; his greater speed draws a complaint of cheating, and the journey brings them toward Megren’s tower after about an hour.",
+          "locationHints": {
+            "refs": [
+              "Ghesh’s tower",
+              "Megren’s tower"
+            ],
+            "context": "A detour around plague-haunted ruins, with three companions following invisibly"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Megren",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Kenzo’s raven whistle",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-008",
+          "title": "Loyalties and forbidden places",
+          "boundaryReason": "Ghesh explains local loyalties and warns about the forest, summit, and western ruins as they finish the journey.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2038",
+            "endUid": "u2217"
+          },
+          "shortSummary": "Ghesh distinguishes ordinary dragonets from Ra’ghemdros’s devoted followers and warns about the forest and western ruins.",
+          "longSummary": "As they finish the journey, Ghesh explains that he and his friends are trying to get by, while other dragonets truly believe in Ra’ghemdros’s rule. The queen controls rewards and tower ownership, and most obvious treasure on the island has already been gathered. Ghesh recalls temples or a monastery at the summit, voices in the forest that tell intruders to leave, and dangerous western ruins associated with an ancient war; he would not personally mourn the dragon’s death.",
+          "locationHints": {
+            "refs": [
+              "Ghesh’s tower",
+              "Megren’s tower"
+            ],
+            "context": "Conversation during the final approach"
+          },
+          "npcDetails": [
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Megren’s stolen jade",
+          "boundaryReason": "Megren welcomes Kenzo and describes taking the jade and delivering it to the dragon’s lair.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2218",
+            "endUid": "u2476"
+          },
+          "shortSummary": "Megren describes stealing the jade from a mainland cave and trading it to Ra’ghemdros for her tower.",
+          "longSummary": "Kenzo and Ghesh arrive at Megren’s well-kept tower and its surrounding dragonet settlement while the other companions remain concealed. Kenzo disguises the jade in his possession with illusory flowers. Megren explains that she found a claw-sized piece of green jade in a mainland cave and took it to Ra’ghemdros, earning ownership of her tower; she describes entering through old baths and swimming into a cavern of acid, shadowy tendrils, and dangerous eruptions.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Megren’s tower and its reflecting pool"
+          },
+          "npcDetails": [
+            {
+              "name": "Megren",
+              "role": "encountered"
+            },
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai’s Hand",
+              "role": "mentioned",
+              "notes": "The missing jade is described by Megren; the party infers it is the piece they seek."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-010",
+          "title": "The acid-pool story",
+          "boundaryReason": "Megren recounts a secondhand tale, Kenzo completes the social exchange, and Ghesh receives his payment.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2477",
+            "endUid": "u2688"
+          },
+          "shortSummary": "Megren recounts a secondhand acid-pool story and rumors of an elder before Kenzo settles his debt to Ghesh.",
+          "longSummary": "Megren repeats a story she heard from Zadar about a group in the forest whose camp was destroyed by the dragon and became an acid pool; she did not witness it herself. Talk of a hidden elder remains rumor to her. Kenzo carves small likenesses of Ghesh and Megren, then pays Ghesh the promised golden circlet. Megren keeps her carving but passes the offered elvish coin to Ghesh, explaining that she has little need for further favors from Ra’ghemdros.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Megren’s tower"
+          },
+          "npcDetails": [
+            {
+              "name": "Megren",
+              "role": "encountered"
+            },
+            {
+              "name": "Ghesh",
+              "role": "encountered"
+            },
+            {
+              "name": "Zadar",
+              "role": "mentioned",
+              "notes": "The reported source of Megren’s acid-pool story."
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Golden circlet from Grimbaskal’s hoard",
+              "role": "encountered",
+              "notes": "Given to Ghesh."
+            },
+            {
+              "name": "Carved likenesses of Ghesh and Megren",
+              "role": "encountered"
+            },
+            {
+              "name": "Elvish coin",
+              "role": "encountered",
+              "notes": "Offered to Megren and passed on to Ghesh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "Seeking the Elder in the Forest",
+      "beatIds": [
+        "beat-011",
+        "beat-012",
+        "beat-013"
+      ],
+      "sourceRange": {
+        "startUid": "u2689",
+        "endUid": "u3555"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u2689",
+          "endUid": "u3099"
+        },
+        {
+          "startUid": "u3100",
+          "endUid": "u3401"
+        },
+        {
+          "startUid": "u3402",
+          "endUid": "u3555"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Circular Island",
+        "Megren’s tower district"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party reunites and decides to seek the forest’s elder before confronting the dragon.",
+        "The party crosses the island to the forest, where Kenzo senses an ancient dragonet near the summit.",
+        "Kenzo resists a disturbing memory pool, and the party continues toward the summit."
+      ],
+      "sourceLongSummaries": [
+        "Away from the dragonets, the party weighs sneaking into the acid-filled lair, fighting Ra’ghemdros, bargaining for the jade, and finding other leverage. They question whether the lair is extraplanar or the dragon is bound to it, but have no confirmation of either theory. Ideas involving treasure, an efreeti bottle, or their own jade remain proposals. They choose to gather more information by looking for the rumored elder in the forest.",
+        "The party travels roughly ten miles over two hours, keeping invisible for most of the crossing and avoiding a pair of dragonets overhead. At about seven in the evening they reach an airy forest of tall trees and flowers, following an intact pilgrim road past old camping places. Kenzo senses the island’s eldest dragonet near the summit. They discuss a messenger but keep walking toward a closer position as the light fades, passing the sound of a waterfall without investigating it.",
+        "After nightfall, at about eight, the party investigates a damaged pool bordered by broken stone. Its murky reflections show hollow-eyed, suffering people rather than creatures actually beneath the water. Kenzo withstands its influence with only a lingering unease. Although the group considers trying to cleanse it, they leave it alone, pass another pool, and continue toward a position about two miles from the summit."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-011",
+          "title": "Choosing the forest route",
+          "boundaryReason": "The reunited party weighs theft, combat, and negotiation before deciding to seek the forest’s elder.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u2689",
+            "endUid": "u3099"
+          },
+          "shortSummary": "The party reunites and decides to seek the forest’s elder before confronting the dragon.",
+          "longSummary": "Away from the dragonets, the party weighs sneaking into the acid-filled lair, fighting Ra’ghemdros, bargaining for the jade, and finding other leverage. They question whether the lair is extraplanar or the dragon is bound to it, but have no confirmation of either theory. Ideas involving treasure, an efreeti bottle, or their own jade remain proposals. They choose to gather more information by looking for the rumored elder in the forest.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Away from Megren’s tower, before the journey inland"
+          },
+          "npcDetails": [
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Discussed only as the rumored elder at this point."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai’s Hand",
+              "role": "mentioned"
+            },
+            {
+              "name": "Efreeti bottle",
+              "role": "mentioned",
+              "notes": "Considered as possible bargaining material, not used."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-012",
+          "title": "Toward the forest’s elder",
+          "boundaryReason": "An overland journey leads into the forest at evening, where Kenzo locates an old presence near the summit.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u3100",
+            "endUid": "u3401"
+          },
+          "shortSummary": "The party crosses the island to the forest, where Kenzo senses an ancient dragonet near the summit.",
+          "longSummary": "The party travels roughly ten miles over two hours, keeping invisible for most of the crossing and avoiding a pair of dragonets overhead. At about seven in the evening they reach an airy forest of tall trees and flowers, following an intact pilgrim road past old camping places. Kenzo senses the island’s eldest dragonet near the summit. They discuss a messenger but keep walking toward a closer position as the light fades, passing the sound of a waterfall without investigating it.",
+          "locationHints": {
+            "refs": [
+              "Megren’s tower district",
+              "Circular Island"
+            ],
+            "context": "Crossing dry scrubland and entering the central forest"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Sensed remotely as the eldest dragonet, not yet encountered."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-013",
+          "title": "The corrupted memory pool",
+          "boundaryReason": "The party encounters a disturbing pool after nightfall and chooses to continue without attempting to cleanse it.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3402",
+            "endUid": "u3555"
+          },
+          "shortSummary": "Kenzo resists a disturbing memory pool, and the party continues toward the summit.",
+          "longSummary": "After nightfall, at about eight, the party investigates a damaged pool bordered by broken stone. Its murky reflections show hollow-eyed, suffering people rather than creatures actually beneath the water. Kenzo withstands its influence with only a lingering unease. Although the group considers trying to cleanse it, they leave it alone, pass another pool, and continue toward a position about two miles from the summit.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "A stop at a corrupted memory pool during the climb"
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "A Messenger and a Scrying",
+      "beatIds": [
+        "beat-014",
+        "beat-015"
+      ],
+      "sourceRange": {
+        "startUid": "u3556",
+        "endUid": "u3998"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u3556",
+          "endUid": "u3839"
+        },
+        {
+          "startUid": "u3840",
+          "endUid": "u3998"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party scouts the summit by clairvoyance and sends a lynx messenger during a short rest.",
+        "Delwath’s scrying reveals the elderly dragonet preparing a stone trap in the Sibyl’s temple."
+      ],
+      "sourceLongSummaries": [
+        "Seeker uses clairvoyance to survey eight intact summit temples around a courtyard and a damaged crystal-topped tower, without locating an obvious residence. Delwath sends a lynx spirit to the sensed elder, explaining that travelers seek the jade associated with Rai and want an audience and a safe approach. The party takes a single one-hour short rest, reaching about nine at night; the message is delivered, but the spirit brings no reply.",
+        "Delwath scries the dragonet and sees an elderly, grayish figure with a faint purple cast working on a stone-and-pulley trap in the Temple of the Sibyl. The view lasts only ten minutes and does not expose every detail of the trigger. The table clarifies that the scrying occurred while the messenger waited during the already described short rest, rather than creating a second rest or another hour of elapsed travel."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-014",
+          "title": "A message to the summit",
+          "boundaryReason": "Clairvoyance and a spirit messenger accompany a single short rest while the party seeks a safe approach.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3556",
+            "endUid": "u3839"
+          },
+          "shortSummary": "The party scouts the summit by clairvoyance and sends a lynx messenger during a short rest.",
+          "longSummary": "Seeker uses clairvoyance to survey eight intact summit temples around a courtyard and a damaged crystal-topped tower, without locating an obvious residence. Delwath sends a lynx spirit to the sensed elder, explaining that travelers seek the jade associated with Rai and want an audience and a safe approach. The party takes a single one-hour short rest, reaching about nine at night; the message is delivered, but the spirit brings no reply.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Upper forest road, resting within reach of the summit"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "mentioned",
+              "notes": "Recipient of the delivered message; no reply."
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade Piece of Rai’s Hand",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-015",
+          "title": "Scrying the wary elder",
+          "boundaryReason": "A retrospective clarification places Delwath’s scrying during that same short rest, revealing an elder preparing a trap.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3840",
+            "endUid": "u3998"
+          },
+          "shortSummary": "Delwath’s scrying reveals the elderly dragonet preparing a stone trap in the Sibyl’s temple.",
+          "longSummary": "Delwath scries the dragonet and sees an elderly, grayish figure with a faint purple cast working on a stone-and-pulley trap in the Temple of the Sibyl. The view lasts only ten minutes and does not expose every detail of the trigger. The table clarifies that the scrying occurred while the messenger waited during the already described short rest, rather than creating a second rest or another hour of elapsed travel.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Upper forest road, during the same short rest"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Observed remotely through scrying; the party has not yet met him in person."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "beat",
+      "title": "The Forest Remembers",
+      "beatIds": [
+        "beat-016",
+        "beat-017"
+      ],
+      "sourceRange": {
+        "startUid": "u3999",
+        "endUid": "u4563"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u3999",
+          "endUid": "u4348"
+        },
+        {
+          "startUid": "u4349",
+          "endUid": "u4563"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Circular Island",
+        "elven memorial",
+        "summit temples"
+      ],
+      "npcRefs": [
+        "Remembered elven quartermaster"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Kenzo’s staff"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At an elven memorial, Delwath experiences a dead warrior’s life and Kenzo speaks with the forest.",
+        "Shared memories and Seeker’s stone sense reveal an ancient refuge beneath the island’s memorial landscape."
+      ],
+      "sourceLongSummaries": [
+        "After roughly half an hour of further walking, the party finds two towering trees joined by pale stone bearing drifting Elvish names. Delwath touches it and experiences an elf tending soldiers as a quartermaster and later dying in battle. Kenzo receives a broader sense of remembered lives and speaks with the trees, which answer as one forest. They recall no pilgrims for about seven centuries, describe the pools as imperfectly preserved memories, and explain that they arrived when the island changed from a refuge to a memorial; they can no longer receive new memories.",
+        "The forest shares a memory of a more vibrant island visited by pilgrims of many peoples, and Kenzo carves the scene into his staff. The party considers the island’s transformation from a refuge connected to Hkar into a memorial for the dead of the Downfall, without resolving why it is now isolated. Seeker examines the stone with his special senses, judging its construction roughly three thousand years old and detecting an underground tunnel complex whose precise position he cannot determine, before they continue toward the summit."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-016",
+          "title": "Memories beneath the trees",
+          "boundaryReason": "The party reaches an elven memorial, experiences its memories, and converses with the forest.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u3999",
+            "endUid": "u4348"
+          },
+          "shortSummary": "At an elven memorial, Delwath experiences a dead warrior’s life and Kenzo speaks with the forest.",
+          "longSummary": "After roughly half an hour of further walking, the party finds two towering trees joined by pale stone bearing drifting Elvish names. Delwath touches it and experiences an elf tending soldiers as a quartermaster and later dying in battle. Kenzo receives a broader sense of remembered lives and speaks with the trees, which answer as one forest. They recall no pilgrims for about seven centuries, describe the pools as imperfectly preserved memories, and explain that they arrived when the island changed from a refuge to a memorial; they can no longer receive new memories.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Elven memorial beside the forest pilgrim road"
+          },
+          "npcDetails": [
+            {
+              "name": "Remembered elven quartermaster",
+              "role": "encountered",
+              "notes": "Seen in the memorial’s vision; personal name and battle date are not established."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-017",
+          "title": "The island’s deep history",
+          "boundaryReason": "Shared memories, Kenzo’s carving, and Seeker’s stone sense close the forest visit and illuminate the island’s past.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u4349",
+            "endUid": "u4563"
+          },
+          "shortSummary": "Shared memories and Seeker’s stone sense reveal an ancient refuge beneath the island’s memorial landscape.",
+          "longSummary": "The forest shares a memory of a more vibrant island visited by pilgrims of many peoples, and Kenzo carves the scene into his staff. The party considers the island’s transformation from a refuge connected to Hkar into a memorial for the dead of the Downfall, without resolving why it is now isolated. Seeker examines the stone with his special senses, judging its construction roughly three thousand years old and detecting an underground tunnel complex whose precise position he cannot determine, before they continue toward the summit.",
+          "locationHints": {
+            "refs": [
+              "elven memorial",
+              "summit temples"
+            ],
+            "context": "Finishing the forest conversation and examining the island’s stonework"
+          },
+          "itemDetails": [
+            {
+              "name": "Kenzo’s staff",
+              "role": "encountered",
+              "notes": "Receives a carving of the shared pilgrim memory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "beat",
+      "title": "Meeting Dimitaur",
+      "beatIds": [
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021"
+      ],
+      "sourceRange": {
+        "startUid": "u4564",
+        "endUid": "u5690"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u4564",
+          "endUid": "u4878"
+        },
+        {
+          "startUid": "u4879",
+          "endUid": "u5151"
+        },
+        {
+          "startUid": "u5152",
+          "endUid": "u5416"
+        },
+        {
+          "startUid": "u5417",
+          "endUid": "u5690"
+        }
+      ],
+      "dateStart": "1749-05-18",
+      "dateEnd": "1749-05-19",
+      "timeWindow": "night",
+      "resolution": "date-range",
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Jade pieces in Kenzo’s staff"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "At the summit, the party disarms a temple trap and exposes the hidden source of a supposedly divine voice.",
+        "Dimitaur emerges, hears the jade’s story, and tells the party about Rai and his own life in hiding.",
+        "Dimitaur discusses Rai’s failed effort at Isingue, Apollyon’s phylactery, and the dangers of returning to Drankor.",
+        "Dimitaur describes the island’s history and western ruins as the party weighs a dragon bargain and settles in for the night."
+      ],
+      "sourceLongSummaries": [
+        "At about half past ten, the party reaches eight temples, a central bell tower, and abandoned pilgrim facilities with magical dining circles. Wellby finds a tripwire in the Temple of the Sibyl and uses a rope to hold its tension while disarming a swinging stone slab. Inside, a booming voice demands proof that they are friends of Rai. Seeker senses a creature beneath the floor, Wellby spots a peephole, and Kenzo moves his jade into view after discovering that the hidden speaker initially could only hear them.",
+        "An elderly dragonet carrying a staff and wand climbs out of hiding and asks where the party obtained its four jade pieces. Kenzo recounts his inherited piece and those found in the Elderwood, among merfolk, and in Ursk. The dragonet introduces himself as Dimitaur, recalls Rai leaving thirty-nine years ago to pursue his work, and says he has lived on the island for thirty-five years. He identifies Ra’ghemdros as Cha’mutte’s daughter, believes she guards something here, and asks the party to keep his presence secret; his food is monotonous, and an offer of fresh seafood appeals to him.",
+        "Dimitaur explains that defeating Apollyon requires finding his phylactery, whose location he does not know, and recalls warning Rai against trying to heal the great Seed of Chaos at Isingue. As the party weighs seeking advice from the hobgoblin wizard in its mirror, Dimitaur repeats Ra’ghemdros’s boasts about her parentage. He refuses to return to Drankor, where fear around the tomb grew after Rai departed, but is willing to share what he knows. The party considers sending a spirit to find Rai, though no such search is carried out here.",
+        "Dimitaur knows no reason Ra’ghemdros cannot leave the island and warns that an association with Rai would put him in danger. He describes dragonets traveling with the people of Hkar, the island itself being moved by ancient magic, and Apollyon’s old western tower above a forge, which he has never explored. Because Cha’mutte and Apollyon were enemies, the party considers using its plans against Apollyon as leverage with Ra’ghemdros. They agree to consult the mirror-bound hobgoblin before choosing between the dragon and the western ruins, propose more conversation with Dimitaur, and take an overnight rest. The overnight rest carries the session into May 19."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-018",
+          "title": "The temple’s hidden guardian",
+          "boundaryReason": "At the summit, Wellby disarms the trap and the party presents its jade to the hidden speaker.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u4564",
+            "endUid": "u4878"
+          },
+          "shortSummary": "At the summit, the party disarms a temple trap and exposes the hidden source of a supposedly divine voice.",
+          "longSummary": "At about half past ten, the party reaches eight temples, a central bell tower, and abandoned pilgrim facilities with magical dining circles. Wellby finds a tripwire in the Temple of the Sibyl and uses a rope to hold its tension while disarming a swinging stone slab. Inside, a booming voice demands proof that they are friends of Rai. Seeker senses a creature beneath the floor, Wellby spots a peephole, and Kenzo moves his jade into view after discovering that the hidden speaker initially could only hear them.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Summit complex, Temple of the Sibyl"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Still concealed below the temple and speaking through the statue."
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade pieces in Kenzo’s staff",
+              "role": "encountered",
+              "notes": "Presented as evidence of their connection to Rai."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-019",
+          "title": "Dimitaur reveals himself",
+          "boundaryReason": "The elder emerges, names himself, and discusses Rai, the jade, and his years of hiding.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u4879",
+            "endUid": "u5151"
+          },
+          "shortSummary": "Dimitaur emerges, hears the jade’s story, and tells the party about Rai and his own life in hiding.",
+          "longSummary": "An elderly dragonet carrying a staff and wand climbs out of hiding and asks where the party obtained its four jade pieces. Kenzo recounts his inherited piece and those found in the Elderwood, among merfolk, and in Ursk. The dragonet introduces himself as Dimitaur, recalls Rai leaving thirty-nine years ago to pursue his work, and says he has lived on the island for thirty-five years. He identifies Ra’ghemdros as Cha’mutte’s daughter, believes she guards something here, and asks the party to keep his presence secret; his food is monotonous, and an offer of fresh seafood appeals to him.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, speaking with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Jade pieces in Kenzo’s staff",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-020",
+          "title": "Rai and the lich’s secrets",
+          "boundaryReason": "The conversation turns to Rai’s failed mission, Apollyon’s phylactery, Drankor, and possible sources of help.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u5152",
+            "endUid": "u5416"
+          },
+          "shortSummary": "Dimitaur discusses Rai’s failed effort at Isingue, Apollyon’s phylactery, and the dangers of returning to Drankor.",
+          "longSummary": "Dimitaur explains that defeating Apollyon requires finding his phylactery, whose location he does not know, and recalls warning Rai against trying to heal the great Seed of Chaos at Isingue. As the party weighs seeking advice from the hobgoblin wizard in its mirror, Dimitaur repeats Ra’ghemdros’s boasts about her parentage. He refuses to return to Drankor, where fear around the tomb grew after Rai departed, but is willing to share what he knows. The party considers sending a spirit to find Rai, though no such search is carried out here.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, speaking with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Apollyon",
+              "role": "mentioned"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Revaka",
+              "role": "mentioned",
+              "notes": "The hobgoblin wizard in the mirror, discussed as a possible source of advice."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon’s phylactery",
+              "role": "mentioned"
+            },
+            {
+              "name": "Mirror imprisoning the hobgoblin wizard",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-021",
+          "title": "Dragon bargains and western ruins",
+          "boundaryReason": "Dimitaur supplies further island history and warnings while the party weighs its next move and proposes a long rest.",
+          "dateStart": "1749-05-18",
+          "dateEnd": "1749-05-19",
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u5417",
+            "endUid": "u5690"
+          },
+          "shortSummary": "Dimitaur describes the island’s history and western ruins as the party weighs a dragon bargain and settles in for the night.",
+          "longSummary": "Dimitaur knows no reason Ra’ghemdros cannot leave the island and warns that an association with Rai would put him in danger. He describes dragonets traveling with the people of Hkar, the island itself being moved by ancient magic, and Apollyon’s old western tower above a forge, which he has never explored. Because Cha’mutte and Apollyon were enemies, the party considers using its plans against Apollyon as leverage with Ra’ghemdros. They agree to consult the mirror-bound hobgoblin before choosing between the dragon and the western ruins, propose more conversation with Dimitaur, and take an overnight rest. The overnight rest carries the session into May 19.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl, overnight with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered"
+            },
+            {
+              "name": "Ra'ghemdros",
+              "role": "mentioned"
+            },
+            {
+              "name": "Cha'mutte",
+              "role": "mentioned"
+            },
+            {
+              "name": "Apollyon",
+              "role": "mentioned"
+            },
+            {
+              "name": "Rai",
+              "role": "mentioned"
+            },
+            {
+              "name": "Revaka",
+              "role": "mentioned"
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Mirror imprisoning the hobgoblin wizard",
+              "role": "mentioned"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Ghesh",
+        "beatIds": [
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-008",
+          "beat-009",
+          "beat-010"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Megren",
+        "beatIds": [
+          "beat-009",
+          "beat-010"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Dimitaur",
+        "beatIds": [
+          "beat-015",
+          "beat-018",
+          "beat-019",
+          "beat-020",
+          "beat-021"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Remembered elven quartermaster",
+        "beatIds": [
+          "beat-016"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [],
+    "majorLocations": [
+      {
+        "name": "Circular Island",
+        "beatIds": [
+          "beat-001",
+          "beat-003",
+          "beat-004",
+          "beat-005",
+          "beat-006",
+          "beat-009",
+          "beat-010",
+          "beat-011",
+          "beat-012",
+          "beat-013",
+          "beat-014",
+          "beat-015",
+          "beat-016",
+          "beat-018",
+          "beat-019",
+          "beat-020",
+          "beat-021"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Wanderer’s statue",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "nearest ruined manor",
+        "beatIds": [
+          "beat-002"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Ghesh’s tower",
+        "beatIds": [
+          "beat-007",
+          "beat-008"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "Megren’s tower",
+        "beatIds": [
+          "beat-007",
+          "beat-008"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Megren’s tower district",
+        "beatIds": [
+          "beat-012"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "elven memorial",
+        "beatIds": [
+          "beat-017"
+        ],
+        "relationKinds": [
+          "traveled-through"
+        ]
+      },
+      {
+        "name": "summit temples",
+        "beatIds": [
+          "beat-017"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Ghesh",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-009",
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            },
+            {
+              "location": "Ghesh’s tower -> Megren’s tower",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            },
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Megren",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-009",
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Dimitaur",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-015",
+            "beat-018",
+            "beat-019",
+            "beat-020",
+            "beat-021"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": "1749-05-19"
+            }
+          ]
+        },
+        {
+          "name": "Remembered elven quartermaster",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-016"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Circular Island",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "The Wanderer’s statue and the ruined landing beneath it",
+          "beatIds": [
+            "beat-001",
+            "beat-003",
+            "beat-004",
+            "beat-005",
+            "beat-006",
+            "beat-009",
+            "beat-010",
+            "beat-011",
+            "beat-012",
+            "beat-013",
+            "beat-014",
+            "beat-015",
+            "beat-016",
+            "beat-018",
+            "beat-019",
+            "beat-020",
+            "beat-021"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": "1749-05-19",
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Wanderer’s statue",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Surveying the surrounding ruins and choosing the first approach",
+          "beatIds": [
+            "beat-002"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "nearest ruined manor",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Surveying the surrounding ruins and choosing the first approach",
+          "beatIds": [
+            "beat-002"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Ghesh’s tower",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "A detour around plague-haunted ruins, with three companions following invisibly",
+          "beatIds": [
+            "beat-007",
+            "beat-008"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "Megren’s tower",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "A detour around plague-haunted ruins, with three companions following invisibly",
+          "beatIds": [
+            "beat-007",
+            "beat-008"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Megren’s tower district",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Crossing dry scrubland and entering the central forest",
+          "beatIds": [
+            "beat-012"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "elven memorial",
+          "relationKinds": [
+            "traveled-through"
+          ],
+          "contextHint": "Finishing the forest conversation and examining the island’s stonework",
+          "beatIds": [
+            "beat-017"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        },
+        {
+          "name": "summit temples",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Finishing the forest conversation and examining the island’s stonework",
+          "beatIds": [
+            "beat-017"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        }
+      ],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Golden circlet from Grimbaskal’s hoard",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Kenzo’s raven whistle",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007"
+          ],
+          "history": [
+            {
+              "location": "Ghesh’s tower -> Megren’s tower",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Carved likenesses of Ghesh and Megren",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Elvish coin",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-010"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Kenzo’s staff",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-017"
+          ],
+          "history": [
+            {
+              "location": "elven memorial -> summit temples",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Jade pieces in Kenzo’s staff",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-018",
+            "beat-019"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-18",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [
+        {
+          "name": "Ra'ghemdros",
+          "contextHint": null
+        },
+        {
+          "name": "Zadar",
+          "contextHint": null
+        },
+        {
+          "name": "Rai",
+          "contextHint": null
+        },
+        {
+          "name": "Cha'mutte",
+          "contextHint": null
+        },
+        {
+          "name": "Apollyon",
+          "contextHint": null
+        },
+        {
+          "name": "Revaka",
+          "contextHint": null
+        }
+      ],
+      "locations": [],
+      "organizations": [],
+      "items": [
+        {
+          "name": "Jade Piece of Rai’s Hand",
+          "contextHint": null
+        },
+        {
+          "name": "Efreeti bottle",
+          "contextHint": null
+        },
+        {
+          "name": "Apollyon’s phylactery",
+          "contextHint": null
+        },
+        {
+          "name": "Mirror imprisoning the hobgoblin wizard",
+          "contextHint": null
+        }
+      ]
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-recap-scenes.json"
+}

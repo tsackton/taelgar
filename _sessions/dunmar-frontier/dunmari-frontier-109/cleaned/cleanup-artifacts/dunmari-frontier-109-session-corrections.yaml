@@ -1,0 +1,710 @@
+allReplacements:
+- from: Dimitar
+  to: Dimitaur
+  count: 12
+  headers:
+  - '[u0392 | 00:15:59.920-00:16:01.700 | DM]'
+  - '[u0395 | 00:16:08.740-00:16:12.580 | Kenzo]'
+  - '[u10046 | 05:32:54.204-05:32:56.684 | Delwath]'
+  - '[u10061 | 05:33:20.664-05:33:22.564 | Kenzo]'
+  - '[u10081 | 05:33:51.264-05:33:52.184 | DM]'
+  - '[u10086 | 05:33:55.824-05:34:01.904 | Kenzo]'
+  - '[u10112 | 05:34:47.824-05:34:49.664 | Seeker]'
+  - '[u10123 | 05:35:07.804-05:35:11.564 | Seeker]'
+  - '[u4118 | 02:21:30.460-02:21:33.199 | Delwath]'
+  - '[u8221 | 04:33:33.518-04:33:37.878 | Delwath]'
+  - '[u8789 | 04:48:27.342-04:48:27.882 | DM]'
+  - '[u9846 | 05:25:27.212-05:25:28.832 | Wellby]'
+- from: lick
+  to: lich
+  count: 12
+  headers:
+  - '[u4267 | 02:25:12.900-02:25:14.420 | Kenzo]'
+  - '[u4342 | 02:29:00.712-02:29:08.992 | DM]'
+  - '[u4345 | 02:29:14.892-02:29:18.172 | DM]'
+  - '[u5233 | 03:01:58.732-03:02:06.692 | Kenzo]'
+  - '[u5246 | 03:02:21.412-03:02:22.752 | Unknown]'
+  - '[u5256 | 03:02:39.612-03:02:41.552 | Delwath]'
+  - '[u5257 | 03:02:41.792-03:02:43.172 | Seeker]'
+  - '[u5258 | 03:02:43.192-03:02:47.632 | Delwath]'
+  - '[u5261 | 03:02:51.052-03:02:55.312 | Kenzo]'
+  - '[u5262 | 03:02:55.312-03:02:56.512 | Unknown]'
+  - '[u5266 | 03:03:04.652-03:03:07.652 | Kenzo]'
+- from: Ra '
+  to: Rai ’
+  count: 6
+  headers:
+  - '[u4035 | 02:19:10.996-02:19:12.996 | Wellby]'
+  - '[u4044 | 02:19:23.016-02:19:28.656 | Kenzo]'
+  - '[u4047 | 02:19:31.376-02:19:34.856 | Wellby]'
+  - '[u4056 | 02:19:46.616-02:19:47.996 | DM]'
+  - '[u4068 | 02:20:04.716-02:20:07.676 | Wellby]'
+- from: adamantium
+  to: adamantine
+  count: 6
+  headers:
+  - '[u10031 | 05:32:26.484-05:32:27.684 | Seeker]'
+  - '[u4306 | 02:26:37.532-02:26:39.652 | DM]'
+  - '[u5079 | 02:56:30.892-02:56:33.272 | Wellby]'
+  - '[u5082 | 02:56:35.912-02:56:37.432 | Delwath]'
+  - '[u5083 | 02:56:37.432-02:56:40.812 | DM]'
+  - '[u8857 | 04:51:35.722-04:51:37.942 | DM]'
+- from: Kenza
+  to: Kenzo
+  count: 5
+  headers:
+  - '[u5442 | 03:09:42.732-03:09:43.572 | Unknown]'
+  - '[u7464 | 04:10:56.920-04:10:59.600 | Delwath]'
+  - '[u7467 | 04:11:02.860-04:11:03.620 | DM]'
+  - '[u8015 | 04:27:48.910-04:27:50.670 | DM]'
+  - '[u9105 | 05:01:05.610-05:01:09.890 | Kenzo]'
+- from: portal
+  to: portable
+  count: 5
+  headers:
+  - '[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]'
+  - '[u5804 | 03:19:41.108-03:19:42.288 | Kenzo]'
+  - '[u5863 | 03:21:21.168-03:21:23.648 | Delwath]'
+  - '[u5867 | 03:21:30.288-03:21:30.868 | DM]'
+  - '[u5870 | 03:21:34.228-03:21:36.148 | Wellby]'
+- from: Mei Chen
+  to: Mage Hand
+  count: 4
+  headers:
+  - '[u4641 | 02:39:28.648-02:39:32.588 | Unknown]'
+  - '[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]'
+  - '[u4784 | 02:43:50.668-02:43:52.268 | Delwath]'
+  - '[u4786 | 02:43:53.488-02:43:55.968 | Delwath]'
+- from: Shemut
+  to: Cha ’ mutte
+  count: 4
+  headers:
+  - '[u4422 | 02:31:32.552-02:31:35.452 | Kenzo]'
+  - '[u4423 | 02:31:35.472-02:31:36.472 | DM]'
+  - '[u4424 | 02:31:36.492-02:31:40.532 | Kenzo]'
+- from: charm
+  to: chime
+  count: 4
+  headers:
+  - '[u1320 | 00:57:11.564-00:57:12.884 | Wellby]'
+  - '[u1321 | 00:57:12.884-00:57:14.324 | Delwath]'
+  - '[u1326 | 00:57:19.944-00:57:21.384 | Delwath]'
+  - '[u1396 | 00:59:48.284-00:59:50.804 | Delwath]'
+- from: liche
+  to: lich
+  count: 4
+  headers:
+  - '[u2025 | 01:19:38.940-01:19:42.740 | DM]'
+  - '[u2028 | 01:19:49.240-01:19:55.700 | DM]'
+  - '[u2045 | 01:20:23.240-01:20:25.380 | Delwath]'
+  - '[u2062 | 01:20:47.420-01:20:48.260 | DM]'
+- from: Dalwath
+  to: Delwath
+  count: 3
+  headers:
+  - '[u1486 | 01:02:48.596-01:02:54.296 | DM]'
+  - '[u1523 | 01:04:07.736-01:04:13.036 | DM]'
+  - '[u1854 | 01:14:10.460-01:14:12.680 | DM]'
+- from: kansais
+  to: con saves
+  count: 3
+  headers:
+  - '[u7231 | 04:04:51.428-04:04:53.088 | DM]'
+  - '[u7439 | 04:10:17.628-04:10:18.648 | Kenzo]'
+  - '[u7440 | 04:10:18.648-04:10:19.968 | Wellby]'
+- from: pura
+  to: Pura
+  count: 3
+  headers:
+  - '[u4896 | 02:48:51.180-02:48:57.040 | DM]'
+  - '[u4899 | 02:49:00.380-02:49:03.420 | DM]'
+- from: witch
+  to: lich
+  count: 3
+  headers:
+  - '[u9372 | 05:10:31.440-05:10:39.580 | Delwath]'
+  - '[u9468 | 05:13:35.015-05:13:38.436 | Delwath]'
+  - '[u9471 | 05:13:44.056-05:13:45.656 | Wellby]'
+- from: Faldrit
+  to: Faldrak
+  count: 2
+  headers:
+  - '[u3987 | 02:17:50.216-02:17:52.556 | Seeker]'
+  - '[u3994 | 02:18:05.216-02:18:06.436 | Kenzo]'
+- from: I
+  to: eye
+  count: 2
+  headers:
+  - '[u3045 | 01:50:24.508-01:50:25.828 | Unknown]'
+  - '[u3047 | 01:50:26.068-01:50:26.988 | DM]'
+- from: Robbie
+  to: Wellby
+  count: 2
+  headers:
+  - '[u7237 | 04:05:00.348-04:05:05.368 | DM]'
+  - '[u7286 | 04:06:12.488-04:06:13.288 | DM]'
+- from: layer
+  to: lair
+  count: 2
+  headers:
+  - '[u6820 | 03:53:05.044-03:53:07.444 | Kenzo]'
+  - '[u6845 | 03:54:02.244-03:54:04.964 | Kenzo]'
+- from: licks
+  to: liches
+  count: 2
+  headers:
+  - '[u4341 | 02:28:54.772-02:28:59.672 | DM]'
+  - '[u5236 | 03:02:08.812-03:02:09.752 | Kenzo]'
+- from: ', and'
+  to: ends
+  count: 1
+  headers:
+  - '[u3722 | 02:09:09.916-02:09:12.296 | DM]'
+- from: 60, may see
+  to: 16 AC
+  count: 1
+  headers:
+  - '[u7281 | 04:06:05.448-04:06:08.348 | DM]'
+- from: '68'
+  to: 6d8
+  count: 1
+  headers:
+  - '[u5627 | 03:15:07.272-03:15:08.972 | Seeker]'
+- from: 7D
+  to: seven days
+  count: 1
+  headers:
+  - '[u4081 | 02:20:29.580-02:20:32.500 | Kenzo]'
+- from: Blood
+  to: blood
+  count: 1
+  headers:
+  - '[u9966 | 05:29:55.124-05:29:58.684 | Kenzo]'
+- from: Charday
+  to: Chardon
+  count: 1
+  headers:
+  - '[u5254 | 03:02:36.672-03:02:37.912 | DM]'
+- from: Dealt with
+  to: Delwath
+  count: 1
+  headers:
+  - '[u7694 | 04:17:52.860-04:17:54.240 | DM]'
+- from: Down a lot
+  to: Delwath
+  count: 1
+  headers:
+  - '[u3217 | 01:55:01.408-01:55:02.828 | DM]'
+- from: Dracorian
+  to: Drankorian
+  count: 1
+  headers:
+  - '[u5104 | 02:57:12.032-02:57:15.192 | Seeker]'
+- from: Dwarves
+  to: Delwath ’ s
+  count: 1
+  headers:
+  - '[u2806 | 01:43:55.292-01:43:56.592 | DM]'
+- from: Faldric
+  to: Faldrak
+  count: 1
+  headers:
+  - '[u9901 | 05:27:29.812-05:27:30.472 | Seeker]'
+- from: Fandrix
+  to: Faldrak
+  count: 1
+  headers:
+  - '[u8724 | 04:46:46.458-04:46:47.958 | Unknown]'
+- from: Fastil
+  to: Fausto
+  count: 1
+  headers:
+  - '[u4236 | 02:24:24.080-02:24:30.060 | DM]'
+- from: Finger
+  to: your finger
+  count: 1
+  headers:
+  - '[u6883 | 03:55:21.804-03:55:27.044 | DM]'
+- from: Fodrick
+  to: Faldrak
+  count: 1
+  headers:
+  - '[u8828 | 04:50:10.422-04:50:11.462 | Kenzo]'
+- from: Gutsleige
+  to: Ghostly Gaze
+  count: 1
+  headers:
+  - '[u4915 | 02:49:45.320-02:49:46.500 | DM]'
+- from: Healing Rain
+  to: Sickening Radiance
+  count: 1
+  headers:
+  - '[u5702 | 03:17:04.968-03:17:06.348 | Kenzo]'
+- from: Oscar
+  to: osprey
+  count: 1
+  headers:
+  - '[u5565 | 03:13:29.212-03:13:29.872 | Seeker]'
+- from: Panomarian
+  to: Pandemonium
+  count: 1
+  headers:
+  - '[u5270 | 03:03:16.452-03:03:19.492 | Kenzo]'
+- from: Ravenshold
+  to: Raven ’ s Hold
+  count: 1
+  headers:
+  - '[u0202 | 00:09:34.528-00:09:36.368 | DM]'
+- from: Re - do 20
+  to: Every d20
+  count: 1
+  headers:
+  - '[u1449 | 01:01:18.696-01:01:19.376 | DM]'
+- from: Rye '
+  to: Rai ’
+  count: 1
+  headers:
+  - '[u2051 | 01:20:31.480-01:20:34.180 | Kenzo]'
+- from: Seadra
+  to: Seeker
+  count: 1
+  headers:
+  - '[u10054 | 05:33:08.064-05:33:10.404 | Kenzo]'
+- from: Solsite
+  to: Soul Sight
+  count: 1
+  headers:
+  - '[u1635 | 01:07:13.808-01:07:16.428 | Delwath]'
+- from: Tal ' Dorei
+  to: Taelgar
+  count: 1
+  headers:
+  - '[u2022 | 01:19:24.060-01:19:33.280 | DM]'
+- from: Taular
+  to: Taelgar
+  count: 1
+  headers:
+  - '[u5266 | 03:03:04.652-03:03:07.652 | Kenzo]'
+- from: Vinga Sharna
+  to: Vindristjarna
+  count: 1
+  headers:
+  - '[u1189 | 00:52:06.068-00:52:08.588 | Wellby]'
+- from: Voidsworn
+  to: Void sword
+  count: 1
+  headers:
+  - '[u7904 | 04:23:43.110-04:23:44.070 | Kenzo]'
+- from: Voidsworn
+  to: void sword
+  count: 1
+  headers:
+  - '[u7907 | 04:23:46.830-04:23:47.429 | Kenzo]'
+- from: Vondrad
+  to: Faldrak
+  count: 1
+  headers:
+  - '[u5184 | 02:59:52.672-02:59:54.152 | Unknown]'
+- from: We should follow
+  to: It could fall into
+  count: 1
+  headers:
+  - '[u9985 | 05:30:47.584-05:30:49.764 | Seeker]'
+- from: Woof
+  to: whiff
+  count: 1
+  headers:
+  - '[u9966 | 05:29:55.124-05:29:58.684 | Kenzo]'
+- from: Yorx
+  to: the orcs
+  count: 1
+  headers:
+  - '[u4242 | 02:24:39.820-02:24:41.120 | DM]'
+- from: and a
+  to: if
+  count: 1
+  headers:
+  - '[u10036 | 05:32:33.564-05:32:37.864 | DM]'
+- from: ardor key
+  to: all your ki
+  count: 1
+  headers:
+  - '[u2131 | 01:23:01.280-01:23:02.380 | DM]'
+- from: burdened him with
+  to: burned through
+  count: 1
+  headers:
+  - '[u8308 | 04:36:23.686-04:36:26.206 | Delwath]'
+- from: candy dodge
+  to: Uncanny Dodge
+  count: 1
+  headers:
+  - '[u1247 | 00:53:58.048-00:53:59.628 | Wellby]'
+- from: cauldron
+  to: corridor
+  count: 1
+  headers:
+  - '[u8626 | 04:43:35.398-04:43:38.138 | Delwath]'
+- from: crats
+  to: crits
+  count: 1
+  headers:
+  - '[u8237 | 04:33:55.458-04:33:58.118 | DM]'
+- from: create
+  to: disappears
+  count: 1
+  headers:
+  - '[u10055 | 05:33:10.764-05:33:13.864 | Seeker]'
+- from: creation
+  to: Creation
+  count: 1
+  headers:
+  - '[u0588 | 00:23:18.412-00:23:21.232 | Delwath]'
+- from: dealt with
+  to: Delwath
+  count: 1
+  headers:
+  - '[u7692 | 04:17:51.080-04:17:52.580 | Delwath]'
+- from: deathless
+  to: definitely
+  count: 1
+  headers:
+  - '[u6284 | 03:37:14.388-03:37:14.988 | Seeker]'
+- from: dimitar
+  to: Dimitaur
+  count: 1
+  headers:
+  - '[u8788 | 04:48:25.262-04:48:27.182 | Seeker]'
+- from: diver
+  to: dire bird
+  count: 1
+  headers:
+  - '[u5563 | 03:13:28.012-03:13:29.032 | Seeker]'
+- from: dragonettes
+  to: dragonets
+  count: 1
+  headers:
+  - '[u5264 | 03:03:00.332-03:03:03.272 | Delwath]'
+- from: eight
+  to: Aid
+  count: 1
+  headers:
+  - '[u1690 | 01:08:47.368-01:08:50.908 | Delwath]'
+- from: elder smite
+  to: Eldritch Smite
+  count: 1
+  headers:
+  - '[u3317 | 01:58:01.248-01:58:04.588 | DM]'
+- from: flappy
+  to: phylactery
+  count: 1
+  headers:
+  - '[u4484 | 02:33:14.992-02:33:20.752 | Kenzo]'
+- from: forest
+  to: force
+  count: 1
+  headers:
+  - '[u7732 | 04:18:43.120-04:18:45.080 | Delwath]'
+- from: hawk
+  to: hall
+  count: 1
+  headers:
+  - '[u9405 | 05:11:53.876-05:11:54.716 | Delwath]'
+- from: him away
+  to: in melee
+  count: 1
+  headers:
+  - '[u8587 | 04:42:26.438-04:42:27.638 | Delwath]'
+- from: hints
+  to: hands
+  count: 1
+  headers:
+  - '[u9985 | 05:30:47.584-05:30:49.764 | Seeker]'
+- from: in
+  to: and
+  count: 1
+  headers:
+  - '[u1347 | 00:58:00.044-00:58:01.564 | Delwath]'
+- from: interesting
+  to: interested
+  count: 1
+  headers:
+  - '[u9817 | 05:24:39.532-05:24:40.092 | Seeker]'
+- from: ladders
+  to: mirrors
+  count: 1
+  headers:
+  - '[u6008 | 03:25:54.844-03:26:01.263 | DM]'
+- from: lick
+  to: ', like,'
+  count: 1
+  headers:
+  - '[u5684 | 03:16:35.768-03:16:37.568 | Delwath]'
+- from: mnemonic
+  to: pneumatic
+  count: 1
+  headers:
+  - '[u2617 | 01:37:42.484-01:37:51.644 | DM]'
+- from: my
+  to: the
+  count: 1
+  headers:
+  - '[u6414 | 03:41:13.400-03:41:16.520 | Wellby]'
+- from: on damage
+  to: undamaged
+  count: 1
+  headers:
+  - '[u8499 | 04:40:22.986-04:40:24.666 | DM]'
+- from: out
+  to: up
+  count: 1
+  headers:
+  - '[u8332 | 04:36:53.006-04:36:53.706 | DM]'
+- from: quarter
+  to: corridor,
+  count: 1
+  headers:
+  - '[u6847 | 03:54:05.584-03:54:07.324 | Delwath]'
+- from: roll play
+  to: roleplay
+  count: 1
+  headers:
+  - '[u0397 | 00:16:16.940-00:16:17.820 | Kenzo]'
+- from: rope spray
+  to: Rosprey
+  count: 1
+  headers:
+  - '[u1070 | 00:47:28.932-00:47:31.972 | Seeker]'
+- from: second wind again
+  to: Sickening Radiance
+  count: 1
+  headers:
+  - '[u7937 | 04:25:08.630-04:25:10.670 | Delwath]'
+- from: slayer
+  to: ’ s lair
+  count: 1
+  headers:
+  - '[u1120 | 00:50:00.748-00:50:02.368 | Kenzo]'
+- from: sunrises
+  to: sun rises
+  count: 1
+  headers:
+  - '[u0039 | 00:01:09.380-00:01:14.840 | DM]'
+- from: sure
+  to: showing
+  count: 1
+  headers:
+  - '[u5684 | 03:16:35.768-03:16:37.568 | Delwath]'
+- from: t move from
+  to: s immune to
+  count: 1
+  headers:
+  - '[u7926 | 04:24:31.930-04:24:34.010 | Delwath]'
+- from: t use up some of your
+  to: s immune to all
+  count: 1
+  headers:
+  - '[u7928 | 04:24:34.930-04:24:39.790 | Delwath]'
+- from: this tech magic
+  to: Detect Magic
+  count: 1
+  headers:
+  - '[u6396 | 03:40:47.780-03:40:49.340 | DM]'
+- from: to take magic off
+  to: Detect Magic up
+  count: 1
+  headers:
+  - '[u1864 | 01:14:27.140-01:14:28.400 | DM]'
+- from: to take my magic off
+  to: Detect Magic up
+  count: 1
+  headers:
+  - '[u1863 | 01:14:26.540-01:14:27.140 | Delwath]'
+- from: vanished and smites
+  to: Banishing Smite
+  count: 1
+  headers:
+  - '[u4806 | 02:44:43.128-02:44:44.408 | DM]'
+- from: want to
+  to: won ’ t
+  count: 1
+  headers:
+  - '[u9634 | 05:18:58.596-05:19:01.616 | DM]'
+- from: weave
+  to: leave
+  count: 1
+  headers:
+  - '[u7754 | 04:19:07.380-04:19:08.180 | Delwath]'
+- from: wouldn ' t
+  to: would
+  count: 1
+  headers:
+  - '[u0469 | 00:19:29.892-00:19:33.112 | DM]'
+- from: wretch
+  to: lich
+  count: 1
+  headers:
+  - '[u9964 | 05:29:47.744-05:29:51.804 | DM]'
+- from: your forms
+  to: Performance
+  count: 1
+  headers:
+  - '[u0588 | 00:23:18.412-00:23:21.232 | Delwath]'
+repeatedReplacements:
+- from: Dimitar
+  to: Dimitaur
+  count: 12
+  headers:
+  - '[u0392 | 00:15:59.920-00:16:01.700 | DM]'
+  - '[u0395 | 00:16:08.740-00:16:12.580 | Kenzo]'
+  - '[u10046 | 05:32:54.204-05:32:56.684 | Delwath]'
+  - '[u10061 | 05:33:20.664-05:33:22.564 | Kenzo]'
+  - '[u10081 | 05:33:51.264-05:33:52.184 | DM]'
+  - '[u10086 | 05:33:55.824-05:34:01.904 | Kenzo]'
+  - '[u10112 | 05:34:47.824-05:34:49.664 | Seeker]'
+  - '[u10123 | 05:35:07.804-05:35:11.564 | Seeker]'
+  - '[u4118 | 02:21:30.460-02:21:33.199 | Delwath]'
+  - '[u8221 | 04:33:33.518-04:33:37.878 | Delwath]'
+  - '[u8789 | 04:48:27.342-04:48:27.882 | DM]'
+  - '[u9846 | 05:25:27.212-05:25:28.832 | Wellby]'
+- from: lick
+  to: lich
+  count: 12
+  headers:
+  - '[u4267 | 02:25:12.900-02:25:14.420 | Kenzo]'
+  - '[u4342 | 02:29:00.712-02:29:08.992 | DM]'
+  - '[u4345 | 02:29:14.892-02:29:18.172 | DM]'
+  - '[u5233 | 03:01:58.732-03:02:06.692 | Kenzo]'
+  - '[u5246 | 03:02:21.412-03:02:22.752 | Unknown]'
+  - '[u5256 | 03:02:39.612-03:02:41.552 | Delwath]'
+  - '[u5257 | 03:02:41.792-03:02:43.172 | Seeker]'
+  - '[u5258 | 03:02:43.192-03:02:47.632 | Delwath]'
+  - '[u5261 | 03:02:51.052-03:02:55.312 | Kenzo]'
+  - '[u5262 | 03:02:55.312-03:02:56.512 | Unknown]'
+  - '[u5266 | 03:03:04.652-03:03:07.652 | Kenzo]'
+- from: Ra '
+  to: Rai ’
+  count: 6
+  headers:
+  - '[u4035 | 02:19:10.996-02:19:12.996 | Wellby]'
+  - '[u4044 | 02:19:23.016-02:19:28.656 | Kenzo]'
+  - '[u4047 | 02:19:31.376-02:19:34.856 | Wellby]'
+  - '[u4056 | 02:19:46.616-02:19:47.996 | DM]'
+  - '[u4068 | 02:20:04.716-02:20:07.676 | Wellby]'
+- from: adamantium
+  to: adamantine
+  count: 6
+  headers:
+  - '[u10031 | 05:32:26.484-05:32:27.684 | Seeker]'
+  - '[u4306 | 02:26:37.532-02:26:39.652 | DM]'
+  - '[u5079 | 02:56:30.892-02:56:33.272 | Wellby]'
+  - '[u5082 | 02:56:35.912-02:56:37.432 | Delwath]'
+  - '[u5083 | 02:56:37.432-02:56:40.812 | DM]'
+  - '[u8857 | 04:51:35.722-04:51:37.942 | DM]'
+- from: Kenza
+  to: Kenzo
+  count: 5
+  headers:
+  - '[u5442 | 03:09:42.732-03:09:43.572 | Unknown]'
+  - '[u7464 | 04:10:56.920-04:10:59.600 | Delwath]'
+  - '[u7467 | 04:11:02.860-04:11:03.620 | DM]'
+  - '[u8015 | 04:27:48.910-04:27:50.670 | DM]'
+  - '[u9105 | 05:01:05.610-05:01:09.890 | Kenzo]'
+- from: portal
+  to: portable
+  count: 5
+  headers:
+  - '[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]'
+  - '[u5804 | 03:19:41.108-03:19:42.288 | Kenzo]'
+  - '[u5863 | 03:21:21.168-03:21:23.648 | Delwath]'
+  - '[u5867 | 03:21:30.288-03:21:30.868 | DM]'
+  - '[u5870 | 03:21:34.228-03:21:36.148 | Wellby]'
+- from: Mei Chen
+  to: Mage Hand
+  count: 4
+  headers:
+  - '[u4641 | 02:39:28.648-02:39:32.588 | Unknown]'
+  - '[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]'
+  - '[u4784 | 02:43:50.668-02:43:52.268 | Delwath]'
+  - '[u4786 | 02:43:53.488-02:43:55.968 | Delwath]'
+- from: Shemut
+  to: Cha ’ mutte
+  count: 4
+  headers:
+  - '[u4422 | 02:31:32.552-02:31:35.452 | Kenzo]'
+  - '[u4423 | 02:31:35.472-02:31:36.472 | DM]'
+  - '[u4424 | 02:31:36.492-02:31:40.532 | Kenzo]'
+- from: charm
+  to: chime
+  count: 4
+  headers:
+  - '[u1320 | 00:57:11.564-00:57:12.884 | Wellby]'
+  - '[u1321 | 00:57:12.884-00:57:14.324 | Delwath]'
+  - '[u1326 | 00:57:19.944-00:57:21.384 | Delwath]'
+  - '[u1396 | 00:59:48.284-00:59:50.804 | Delwath]'
+- from: liche
+  to: lich
+  count: 4
+  headers:
+  - '[u2025 | 01:19:38.940-01:19:42.740 | DM]'
+  - '[u2028 | 01:19:49.240-01:19:55.700 | DM]'
+  - '[u2045 | 01:20:23.240-01:20:25.380 | Delwath]'
+  - '[u2062 | 01:20:47.420-01:20:48.260 | DM]'
+- from: Dalwath
+  to: Delwath
+  count: 3
+  headers:
+  - '[u1486 | 01:02:48.596-01:02:54.296 | DM]'
+  - '[u1523 | 01:04:07.736-01:04:13.036 | DM]'
+  - '[u1854 | 01:14:10.460-01:14:12.680 | DM]'
+- from: kansais
+  to: con saves
+  count: 3
+  headers:
+  - '[u7231 | 04:04:51.428-04:04:53.088 | DM]'
+  - '[u7439 | 04:10:17.628-04:10:18.648 | Kenzo]'
+  - '[u7440 | 04:10:18.648-04:10:19.968 | Wellby]'
+- from: pura
+  to: Pura
+  count: 3
+  headers:
+  - '[u4896 | 02:48:51.180-02:48:57.040 | DM]'
+  - '[u4899 | 02:49:00.380-02:49:03.420 | DM]'
+- from: witch
+  to: lich
+  count: 3
+  headers:
+  - '[u9372 | 05:10:31.440-05:10:39.580 | Delwath]'
+  - '[u9468 | 05:13:35.015-05:13:38.436 | Delwath]'
+  - '[u9471 | 05:13:44.056-05:13:45.656 | Wellby]'
+- from: Faldrit
+  to: Faldrak
+  count: 2
+  headers:
+  - '[u3987 | 02:17:50.216-02:17:52.556 | Seeker]'
+  - '[u3994 | 02:18:05.216-02:18:06.436 | Kenzo]'
+- from: I
+  to: eye
+  count: 2
+  headers:
+  - '[u3045 | 01:50:24.508-01:50:25.828 | Unknown]'
+  - '[u3047 | 01:50:26.068-01:50:26.988 | DM]'
+- from: Robbie
+  to: Wellby
+  count: 2
+  headers:
+  - '[u7237 | 04:05:00.348-04:05:05.368 | DM]'
+  - '[u7286 | 04:06:12.488-04:06:13.288 | DM]'
+- from: layer
+  to: lair
+  count: 2
+  headers:
+  - '[u6820 | 03:53:05.044-03:53:07.444 | Kenzo]'
+  - '[u6845 | 03:54:02.244-03:54:04.964 | Kenzo]'
+- from: licks
+  to: liches
+  count: 2
+  headers:
+  - '[u4341 | 02:28:54.772-02:28:59.672 | DM]'
+  - '[u5236 | 03:02:08.812-03:02:09.752 | Kenzo]'
+unresolvedPhrases: []

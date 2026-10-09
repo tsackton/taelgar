@@ -1,0 +1,59 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmari Frontier
+sessionNumber: 110
+realWorldDate: '2024-09-28'
+drStart: '1749-05-20'
+drEnd: '1749-05-21'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers:
+  - Kenzo
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers:
+  - Wellby
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers:
+  - Delwath
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Seeker
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - DM
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/Session110-ordered.identified.vtt
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/dunmar-frontier-ep110-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/dunmar-frontier-core-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-source-prepared.md
+supplementalSources:
+- original: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/source-prep/Session110-source-timeline.json
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/source-prep/Session110-source-timeline.json
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/supplemental/01-Session110-source-timeline.json
+- original: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/Session-110-Chunk-01.identified-v2.vtt
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/Session-110-Chunk-01.identified-v2.vtt
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/supplemental/02-Session-110-Chunk-01.identified-v2.vtt
+- original: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/Session-110-Chunk-02.identified-v2.vtt
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/Session-110-Chunk-02.identified-v2.vtt
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/supplemental/03-Session-110-Chunk-02.identified-v2.vtt
+- original: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/session110-speaker-identification-v2.json
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session
+    110/transcription/scribe-v2/session110-speaker-identification-v2.json
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/supplemental/04-session110-speaker-identification-v2.json
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/sources/dunmar-frontier-ep110-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-110/cleaned/dunmari-frontier-110-speaker-stats.json

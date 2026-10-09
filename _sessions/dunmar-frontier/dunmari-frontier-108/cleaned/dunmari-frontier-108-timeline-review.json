@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1749-05-18",
+  "inferredEnd": "1749-05-19",
+  "proposedYamlChanges": [],
+  "issues": [
+    {
+      "key": "source:0",
+      "kind": "chronology",
+      "detail": "The closing rest is proposed and acknowledged, but the recording contains no played waking scene. Evidence: u5639-u5644 and u5688; the existing YAML ends on May 19.",
+      "resolution": {
+        "by": "human",
+        "reason": "The user explicitly chose: “Include the overnight rest; retain May 19.” Include the rest in the final beat without changing YAML."
+      }
+    },
+    {
+      "key": "source:1",
+      "kind": "chronology",
+      "detail": "Apollyon’s release countdown is stated as twelve days early and ten days later in the same evening. Evidence: u0501-u0504 versus u5008-u5012; intervening travel and evening clock anchors contain no two-day passage.",
+      "resolution": {
+        "by": "source",
+        "reason": "This is a conflicting countdown to a future event, not evidence that two days pass within this session. Preserve both spoken counts in the transcript; omit a definitive countdown in the recap. Session date assignments follow the continuous afternoon/evening action and confirmed overnight rest."
+      }
+    },
+    {
+      "key": "source:2",
+      "kind": "chronology",
+      "detail": "Loose walking-duration estimates around sunset do not add cleanly to all spoken clock anchors. Evidence: u3147 gives 7 PM; u3346 describes about an hour until sunset; u3420-u3423 describe another hour or so but agree on about 8 PM.",
+      "resolution": {
+        "by": "source",
+        "reason": "Preserve the DM’s explicit approximate clock anchors and describe the intervening travel without an exact summed duration. All passages remain on the same evening; no calendar-date discrepancy results."
+      }
+    }
+  ],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1749-05-18",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "YAML drStart anchors May 18; u0003-u0018 open at the Wanderer statue and u0504 explicitly places the ongoing survey at about 2 PM.",
+      "beatId": "beat-001",
+      "sourceText": "Right."
+    },
+    {
+      "uid": "u0504",
+      "label": "Survey at the Wanderer",
+      "date": "1749-05-18",
+      "time": "about 14:00",
+      "basis": "explicit",
+      "evidence": "u0504: the DM states that it is about 2:00 in the afternoon.",
+      "beatId": "beat-002",
+      "sourceText": "And it's about 2:00 in the afternoon right now."
+    },
+    {
+      "uid": "u2037",
+      "label": "Approaching Megren after travel",
+      "date": "1749-05-18",
+      "time": "afternoon; about one hour traveled",
+      "basis": "explicit",
+      "evidence": "u2037: the DM says they are getting close and it has been about an hour; no precise arrival clock is supplied.",
+      "beatId": "beat-007",
+      "sourceText": "Yeah, you're getting close. It's been, it's been about an hour."
+    },
+    {
+      "uid": "u3147",
+      "label": "Arrival at the forest",
+      "date": "1749-05-18",
+      "time": "about 19:00",
+      "basis": "explicit",
+      "evidence": "u3100-u3137 describe roughly two hours of overland travel; u3147 explicitly places entry into the forest at 7:00, with the light getting low.",
+      "beatId": "beat-012",
+      "sourceText": "but still when you s- I mean, when you step inside at 7:00, like you know, sun- sun sets quickly in the tropics, and you know, it's already start, the light is starting to get low, and so"
+    },
+    {
+      "uid": "u3346",
+      "label": "Sunset on the pilgrim road",
+      "date": "1749-05-18",
+      "time": "sunset",
+      "basis": "explicit",
+      "evidence": "u3341-u3348 describe walking as the sun sinks over about an hour; this is approximate narration, not a separate date transition.",
+      "beatId": "beat-012",
+      "sourceText": "Over the course of about an hour, the sun sinks."
+    },
+    {
+      "uid": "u3423",
+      "label": "Nightfall and the memory pool",
+      "date": "1749-05-18",
+      "time": "about 20:00",
+      "basis": "explicit",
+      "evidence": "u3414 describes darkness and moonrise; u3420-u3423 agree on about 8:00 at night after further walking. Retain this explicit clock without summing the loose hour estimates into a different time.",
+      "beatId": "beat-013",
+      "sourceText": "... walking, it's like 8:00 at night, um,"
+    },
+    {
+      "uid": "u3734",
+      "label": "Short rest with the messenger",
+      "date": "1749-05-18",
+      "time": "night; one-hour rest",
+      "basis": "explicit",
+      "evidence": "u3730-u3735 agree to send the lynx and short rest while waiting; u3961-u3975 later clarify the scrying belongs inside this same rest.",
+      "beatId": "beat-014",
+      "sourceText": "Send it off. Short rest."
+    },
+    {
+      "uid": "u3792",
+      "label": "After waiting during the rest",
+      "date": "1749-05-18",
+      "time": "about 21:00",
+      "basis": "explicit",
+      "evidence": "u3792: the DM states that it is 9:00 at night. The later scrying account is retrospective, not an additional hour.",
+      "beatId": "beat-014",
+      "sourceText": "It's 9:00 at night."
+    },
+    {
+      "uid": "u3961",
+      "label": "Scrying placed within the same rest",
+      "date": "1749-05-18",
+      "time": "same short-rest interval",
+      "basis": "explicit",
+      "evidence": "u3961-u3975 explicitly place Delwath’s scrying just after the messenger was sent, with the lynx still waiting; no additional rest or forward time transition is inferred.",
+      "beatId": "beat-015",
+      "sourceText": "No, not even. As soon as I sent the lynx, we would've s- I would've cast scry pretty much."
+    },
+    {
+      "uid": "u4000",
+      "label": "Arrival at the elven memorial",
+      "date": "1749-05-18",
+      "time": "night; about half an hour later",
+      "basis": "explicit",
+      "evidence": "u3999-u4001: after resuming the walk, another half hour brings them to the road junction and memorial. No exact clock is spoken.",
+      "beatId": "beat-016",
+      "sourceText": "After another, like half an hour of walking, you, you come to the point where the road curves and it seems to spiral, to join, um, like a circular road."
+    },
+    {
+      "uid": "u4568",
+      "label": "Arrival at the summit temples",
+      "date": "1749-05-18",
+      "time": "about 22:30",
+      "basis": "explicit",
+      "evidence": "u4566-u4568 first estimate 10 PM, then revise that to probably 10:30.",
+      "beatId": "beat-018",
+      "sourceText": "No. Yeah, probably 10:30, something like that."
+    },
+    {
+      "uid": "u5688",
+      "label": "Overnight rest included in session",
+      "date": "1749-05-19",
+      "time": "overnight into May 19",
+      "basis": "inferred",
+      "evidence": "u5639-u5644 propose more conversation and a long rest; u5688 closes with a good night’s rest. User decision: “Include the overnight rest; retain May 19.” No waking scene is invented.",
+      "beatId": "beat-021",
+      "sourceText": "This feels like a good night's rest. Yeah."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+      "sha256": "f49db88314343d3ac4cb28ddf76bd39cff16db1edf5362f68c5721edb1fa2079"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-beats.json",
+      "sha256": "9f427e2d342c7a2f59090b376e0031f6c257be15f0074ba785d6fdf28f743875"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-beat-facts.json",
+      "sha256": "ad7c6bb2f6803aa959be8dc5f5c8b0b7ddcc5a28d18b79239b6ea8b4475ea5e5"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-source-cleaned.md",
+      "sha256": "f62634fc266a98cf745e034dd0d0647d37f0d30667bbb81a0806139f6496b4ab"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-timeline-evidence.json",
+      "sha256": "c4ef33b4d81e084b747746ad705608c16392991995572b37b3c39d29efe3dab5"
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "kind": "ordered-session-transcript",
+  "sessionNumber": 108,
+  "clock": "cumulative-recorded-audio",
+  "interRecordingGapSeconds": null,
+  "timingNote": "Ordered recordings use a synthetic playback clock; no real-world gap is inferred. Convert a combined time to source time by subtracting the part offset.",
+  "speakerAttributionReport": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/session108-speaker-attribution-complete-v2.json",
+    "sha256": "27bbeabbe2e690d4843493ca1a1bad3122e67d5a5a15053d1fc98be78a178298"
+  },
+  "parts": [
+    {
+      "sequence": 1,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/Session-108-Chunk-01.identified-v2.vtt",
+      "sourceTranscriptSha256": "d84e4c2d6959d4e5e21797ff784797a35e750d2a9ad9108ca66b15db696ee22f",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/raw_audio/Session-108-Chunk-01.m4a",
+      "sourceAudioSha256": "8ae0467e4aad613acb60d04e9e9a567f088e64e46817524a124dfcca6edf95cd",
+      "recordedDurationMilliseconds": 6922603,
+      "timelineOffsetMilliseconds": 0,
+      "firstCombinedCueIndex": 1,
+      "lastCombinedCueIndex": 3093,
+      "cueCount": 3093,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-01/session108-part01-final-v2.speaker-review.json",
+        "sha256": "a1f581ca2d1996b3a1e10b227aad17ba5825d3b76819193e62446fe3faa41d11"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-01/session108-part01-final-v2.speaker-attributions.json",
+        "sha256": "f86034e48a68ad64334808842911f9c61ee1df84efd96d0a42154c93000f929c"
+      }
+    },
+    {
+      "sequence": 2,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/Session-108-Chunk-02.identified-v2.vtt",
+      "sourceTranscriptSha256": "15dac475b13c7f47d56e40d3847f9f03b79836c79df0ac49cc0b282eb047b474",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/raw_audio/Session-108-Chunk-02.m4a",
+      "sourceAudioSha256": "7566b360d6b8ce6d930606899a6a00bd9907c0ce76de64f1e3b2f65510c476ef",
+      "recordedDurationMilliseconds": 6598123,
+      "timelineOffsetMilliseconds": 6922603,
+      "firstCombinedCueIndex": 3094,
+      "lastCombinedCueIndex": 5690,
+      "cueCount": 2597,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-02/session108-part02-final-v2.speaker-review.json",
+        "sha256": "092fca9453dbea461e53fa48ff42ef56c35e61f8b338971bfa251fffadb24250"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-02/session108-part02-final-v2.speaker-attributions.json",
+        "sha256": "796902988f79e3d9a05577d3ffffdd90c3477335f1682a605fcf22dc41c2c0f6"
+      }
+    }
+  ],
+  "combinedTranscript": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/source-prep/Session108-ordered.identified.vtt",
+    "sha256": "bd19e6b1319c596d0f50216b842faba14ccf1235a21ae02ca5ca7c53d9c7f25e",
+    "cueCount": 5690,
+    "recordedDurationMilliseconds": 13520726
+  }
+}

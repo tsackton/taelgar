@@ -1,0 +1,1074 @@
+{
+  "summary": {
+    "changedLineCount": 153,
+    "replacementCount": 98,
+    "repeatedReplacementCount": 19,
+    "topReplacements": [
+      {
+        "from": "Dimitar",
+        "to": "Dimitaur",
+        "count": 12,
+        "headers": [
+          "[u0392 | 00:15:59.920-00:16:01.700 | DM]",
+          "[u0395 | 00:16:08.740-00:16:12.580 | Kenzo]",
+          "[u10046 | 05:32:54.204-05:32:56.684 | Delwath]",
+          "[u10061 | 05:33:20.664-05:33:22.564 | Kenzo]",
+          "[u10081 | 05:33:51.264-05:33:52.184 | DM]",
+          "[u10086 | 05:33:55.824-05:34:01.904 | Kenzo]",
+          "[u10112 | 05:34:47.824-05:34:49.664 | Seeker]",
+          "[u10123 | 05:35:07.804-05:35:11.564 | Seeker]",
+          "[u4118 | 02:21:30.460-02:21:33.199 | Delwath]",
+          "[u8221 | 04:33:33.518-04:33:37.878 | Delwath]",
+          "[u8789 | 04:48:27.342-04:48:27.882 | DM]",
+          "[u9846 | 05:25:27.212-05:25:28.832 | Wellby]"
+        ]
+      },
+      {
+        "from": "lick",
+        "to": "lich",
+        "count": 12,
+        "headers": [
+          "[u4267 | 02:25:12.900-02:25:14.420 | Kenzo]",
+          "[u4342 | 02:29:00.712-02:29:08.992 | DM]",
+          "[u4345 | 02:29:14.892-02:29:18.172 | DM]",
+          "[u5233 | 03:01:58.732-03:02:06.692 | Kenzo]",
+          "[u5246 | 03:02:21.412-03:02:22.752 | Unknown]",
+          "[u5256 | 03:02:39.612-03:02:41.552 | Delwath]",
+          "[u5257 | 03:02:41.792-03:02:43.172 | Seeker]",
+          "[u5258 | 03:02:43.192-03:02:47.632 | Delwath]",
+          "[u5261 | 03:02:51.052-03:02:55.312 | Kenzo]",
+          "[u5262 | 03:02:55.312-03:02:56.512 | Unknown]",
+          "[u5266 | 03:03:04.652-03:03:07.652 | Kenzo]"
+        ]
+      },
+      {
+        "from": "Ra '",
+        "to": "Rai ’",
+        "count": 6,
+        "headers": [
+          "[u4035 | 02:19:10.996-02:19:12.996 | Wellby]",
+          "[u4044 | 02:19:23.016-02:19:28.656 | Kenzo]",
+          "[u4047 | 02:19:31.376-02:19:34.856 | Wellby]",
+          "[u4056 | 02:19:46.616-02:19:47.996 | DM]",
+          "[u4068 | 02:20:04.716-02:20:07.676 | Wellby]"
+        ]
+      },
+      {
+        "from": "adamantium",
+        "to": "adamantine",
+        "count": 6,
+        "headers": [
+          "[u10031 | 05:32:26.484-05:32:27.684 | Seeker]",
+          "[u4306 | 02:26:37.532-02:26:39.652 | DM]",
+          "[u5079 | 02:56:30.892-02:56:33.272 | Wellby]",
+          "[u5082 | 02:56:35.912-02:56:37.432 | Delwath]",
+          "[u5083 | 02:56:37.432-02:56:40.812 | DM]",
+          "[u8857 | 04:51:35.722-04:51:37.942 | DM]"
+        ]
+      },
+      {
+        "from": "Kenza",
+        "to": "Kenzo",
+        "count": 5,
+        "headers": [
+          "[u5442 | 03:09:42.732-03:09:43.572 | Unknown]",
+          "[u7464 | 04:10:56.920-04:10:59.600 | Delwath]",
+          "[u7467 | 04:11:02.860-04:11:03.620 | DM]",
+          "[u8015 | 04:27:48.910-04:27:50.670 | DM]",
+          "[u9105 | 05:01:05.610-05:01:09.890 | Kenzo]"
+        ]
+      },
+      {
+        "from": "portal",
+        "to": "portable",
+        "count": 5,
+        "headers": [
+          "[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]",
+          "[u5804 | 03:19:41.108-03:19:42.288 | Kenzo]",
+          "[u5863 | 03:21:21.168-03:21:23.648 | Delwath]",
+          "[u5867 | 03:21:30.288-03:21:30.868 | DM]",
+          "[u5870 | 03:21:34.228-03:21:36.148 | Wellby]"
+        ]
+      },
+      {
+        "from": "Mei Chen",
+        "to": "Mage Hand",
+        "count": 4,
+        "headers": [
+          "[u4641 | 02:39:28.648-02:39:32.588 | Unknown]",
+          "[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]",
+          "[u4784 | 02:43:50.668-02:43:52.268 | Delwath]",
+          "[u4786 | 02:43:53.488-02:43:55.968 | Delwath]"
+        ]
+      },
+      {
+        "from": "Shemut",
+        "to": "Cha ’ mutte",
+        "count": 4,
+        "headers": [
+          "[u4422 | 02:31:32.552-02:31:35.452 | Kenzo]",
+          "[u4423 | 02:31:35.472-02:31:36.472 | DM]",
+          "[u4424 | 02:31:36.492-02:31:40.532 | Kenzo]"
+        ]
+      },
+      {
+        "from": "charm",
+        "to": "chime",
+        "count": 4,
+        "headers": [
+          "[u1320 | 00:57:11.564-00:57:12.884 | Wellby]",
+          "[u1321 | 00:57:12.884-00:57:14.324 | Delwath]",
+          "[u1326 | 00:57:19.944-00:57:21.384 | Delwath]",
+          "[u1396 | 00:59:48.284-00:59:50.804 | Delwath]"
+        ]
+      },
+      {
+        "from": "liche",
+        "to": "lich",
+        "count": 4,
+        "headers": [
+          "[u2025 | 01:19:38.940-01:19:42.740 | DM]",
+          "[u2028 | 01:19:49.240-01:19:55.700 | DM]",
+          "[u2045 | 01:20:23.240-01:20:25.380 | Delwath]",
+          "[u2062 | 01:20:47.420-01:20:48.260 | DM]"
+        ]
+      }
+    ],
+    "uniqueUnresolvedPhrases": []
+  },
+  "lineCount": 10264,
+  "changedLineCount": 153,
+  "validationErrors": [],
+  "unresolvedCount": 0,
+  "unresolvedPhrases": [],
+  "changedLines": [
+    {
+      "header": "[u0039 | 00:01:09.380-00:01:14.840 | DM]",
+      "lineNumber": 39,
+      "originalText": "from the peak of the mountain, you look out at the sunrises across the forests of",
+      "cleanedText": "from the peak of the mountain, you look out at the sun rises across the forests of"
+    },
+    {
+      "header": "[u0202 | 00:09:34.528-00:09:36.368 | DM]",
+      "lineNumber": 202,
+      "originalText": "uh, in Ravenshold-",
+      "cleanedText": "uh, in Raven’s Hold-"
+    },
+    {
+      "header": "[u0392 | 00:15:59.920-00:16:01.700 | DM]",
+      "lineNumber": 392,
+      "originalText": "say goodbye to Dimitar. Where do you wanna go?",
+      "cleanedText": "say goodbye to Dimitaur. Where do you wanna go?"
+    },
+    {
+      "header": "[u0395 | 00:16:08.740-00:16:12.580 | Kenzo]",
+      "lineNumber": 395,
+      "originalText": "I give Dimitar a, um, really cool, um, statue out of himself.",
+      "cleanedText": "I give Dimitaur a, um, really cool, um, statue of himself."
+    },
+    {
+      "header": "[u0397 | 00:16:16.940-00:16:17.820 | Kenzo]",
+      "lineNumber": 397,
+      "originalText": "We can roll play that later.",
+      "cleanedText": "We can roleplay that later."
+    },
+    {
+      "header": "[u0469 | 00:19:29.892-00:19:33.112 | DM]",
+      "lineNumber": 469,
+      "originalText": "... you wouldn't sense them, like vampires or, you know, liches or-",
+      "cleanedText": "... you would sense them, like vampires or, you know, liches or-"
+    },
+    {
+      "header": "[u0588 | 00:23:18.412-00:23:21.232 | Delwath]",
+      "lineNumber": 588,
+      "originalText": "But your forms of creation stuff's not concentration, right?",
+      "cleanedText": "But Performance of Creation stuff's not concentration, right?"
+    },
+    {
+      "header": "[u1070 | 00:47:28.932-00:47:31.972 | Seeker]",
+      "lineNumber": 1070,
+      "originalText": "ladder, rope spray the ladder bird will fly behind me.",
+      "cleanedText": "ladder, Rosprey the ladder bird will fly behind me."
+    },
+    {
+      "header": "[u1120 | 00:50:00.748-00:50:02.368 | Kenzo]",
+      "lineNumber": 1120,
+      "originalText": "I did that before sleep for the dragon slayer.",
+      "cleanedText": "I did that before sleep for the dragon’s lair."
+    },
+    {
+      "header": "[u1189 | 00:52:06.068-00:52:08.588 | Wellby]",
+      "lineNumber": 1189,
+      "originalText": "We should see if they'll come to Vinga Sharna when they're done here.",
+      "cleanedText": "We should see if they'll come to Vindristjarna when they're done here."
+    },
+    {
+      "header": "[u1247 | 00:53:58.048-00:53:59.628 | Wellby]",
+      "lineNumber": 1247,
+      "originalText": "I can candy dodge and take six.",
+      "cleanedText": "I can Uncanny Dodge and take six."
+    },
+    {
+      "header": "[u1320 | 00:57:11.564-00:57:12.884 | Wellby]",
+      "lineNumber": 1320,
+      "originalText": "We have a charm of opening.",
+      "cleanedText": "We have a chime of opening."
+    },
+    {
+      "header": "[u1321 | 00:57:12.884-00:57:14.324 | Delwath]",
+      "lineNumber": 1321,
+      "originalText": "That's true. We have a charm of opening.",
+      "cleanedText": "That's true. We have a chime of opening."
+    },
+    {
+      "header": "[u1326 | 00:57:19.944-00:57:21.384 | Delwath]",
+      "lineNumber": 1326,
+      "originalText": "But a charm of opening would just open things.",
+      "cleanedText": "But a chime of opening would just open things."
+    },
+    {
+      "header": "[u1347 | 00:58:00.044-00:58:01.564 | Delwath]",
+      "lineNumber": 1347,
+      "originalText": "Kenzo in the ladder should keep guard.",
+      "cleanedText": "Kenzo and the ladder should keep guard."
+    },
+    {
+      "header": "[u1396 | 00:59:48.284-00:59:50.804 | Delwath]",
+      "lineNumber": 1396,
+      "originalText": "Why don't we just use the charm of opening? We've never used it before.",
+      "cleanedText": "Why don't we just use the chime of opening? We've never used it before."
+    },
+    {
+      "header": "[u1449 | 01:01:18.696-01:01:19.376 | DM]",
+      "lineNumber": 1449,
+      "originalText": "Re-do 20 roll.",
+      "cleanedText": "Every d20 roll."
+    },
+    {
+      "header": "[u1486 | 01:02:48.596-01:02:54.296 | DM]",
+      "lineNumber": 1486,
+      "originalText": "Dalwath is just trying to, like, is distracted trying to start this ritual for silence, and Seeker's-",
+      "cleanedText": "Delwath is just trying to, like, is distracted trying to start this ritual for silence, and Seeker's-"
+    },
+    {
+      "header": "[u1523 | 01:04:07.736-01:04:13.036 | DM]",
+      "lineNumber": 1523,
+      "originalText": "Yeah. So Seeker and Dalwath are caught somewhat by surprise, so they are before the...",
+      "cleanedText": "Yeah. So Seeker and Delwath are caught somewhat by surprise, so they are before the..."
+    },
+    {
+      "header": "[u1635 | 01:07:13.808-01:07:16.428 | Delwath]",
+      "lineNumber": 1635,
+      "originalText": "Solsite doesn't tell us anything about hit points, right?",
+      "cleanedText": "Soul Sight doesn't tell us anything about hit points, right?"
+    },
+    {
+      "header": "[u1690 | 01:08:47.368-01:08:50.908 | Delwath]",
+      "lineNumber": 1690,
+      "originalText": "10 points of damage, that's... I'm not even, I'm not even at, out of eight yet.",
+      "cleanedText": "10 points of damage, that's... I'm not even, I'm not even at, out of Aid yet."
+    },
+    {
+      "header": "[u1854 | 01:14:10.460-01:14:12.680 | DM]",
+      "lineNumber": 1854,
+      "originalText": "I mean, so Dalwath is hanging on the top of the ladder.",
+      "cleanedText": "I mean, so Delwath is hanging on the top of the ladder."
+    },
+    {
+      "header": "[u1863 | 01:14:26.540-01:14:27.140 | Delwath]",
+      "lineNumber": 1863,
+      "originalText": "I already had to take my magic off.",
+      "cleanedText": "I already had Detect Magic up."
+    },
+    {
+      "header": "[u1864 | 01:14:27.140-01:14:28.400 | DM]",
+      "lineNumber": 1864,
+      "originalText": "You have to take magic off.",
+      "cleanedText": "You have Detect Magic up."
+    },
+    {
+      "header": "[u2022 | 01:19:24.060-01:19:33.280 | DM]",
+      "lineNumber": 2022,
+      "originalText": "Normally if somebody is killed in Tal'Dorei, their souls go off to the land of the dead, and they walk through and they find their gods.",
+      "cleanedText": "Normally if somebody is killed in Taelgar, their souls go off to the land of the dead, and they walk through and they find their gods."
+    },
+    {
+      "header": "[u2025 | 01:19:38.940-01:19:42.740 | DM]",
+      "lineNumber": 2025,
+      "originalText": "Your souls go to the liche's phylactery.",
+      "cleanedText": "Your souls go to the lich's phylactery."
+    },
+    {
+      "header": "[u2028 | 01:19:49.240-01:19:55.700 | DM]",
+      "lineNumber": 2028,
+      "originalText": "you can use the phylactery to create potion of transformation, which you then drink to turn into a liche.",
+      "cleanedText": "you can use the phylactery to create potion of transformation, which you then drink to turn into a lich."
+    },
+    {
+      "header": "[u2045 | 01:20:23.240-01:20:25.380 | Delwath]",
+      "lineNumber": 2045,
+      "originalText": "Don't you wanna know how Apollyon became a liche?",
+      "cleanedText": "Don't you wanna know how Apollyon became a lich?"
+    },
+    {
+      "header": "[u2051 | 01:20:31.480-01:20:34.180 | Kenzo]",
+      "lineNumber": 2051,
+      "originalText": "'Cause that's what we're trying to get out of the, out of the Rye's hand.",
+      "cleanedText": "'Cause that's what we're trying to get out of the, out of the Rai’s hand."
+    },
+    {
+      "header": "[u2062 | 01:20:47.420-01:20:48.260 | DM]",
+      "lineNumber": 2062,
+      "originalText": "... into a liche.",
+      "cleanedText": "... into a lich."
+    },
+    {
+      "header": "[u2131 | 01:23:01.280-01:23:02.380 | DM]",
+      "lineNumber": 2131,
+      "originalText": "So you should have ardor key.",
+      "cleanedText": "So you should have all your ki."
+    },
+    {
+      "header": "[u2617 | 01:37:42.484-01:37:51.644 | DM]",
+      "lineNumber": 2617,
+      "originalText": "Oh, and it just, it goes flying 10 feet away as there's like a mnemonic action on its fist, and it hits and then shoots the la- Oh wait, the ladder's large, right?",
+      "cleanedText": "Oh, and it just, it goes flying 10 feet away as there's like a pneumatic action on its fist, and it hits and then shoots the la- Oh wait, the ladder's large, right?"
+    },
+    {
+      "header": "[u2806 | 01:43:55.292-01:43:56.592 | DM]",
+      "lineNumber": 2806,
+      "originalText": "Dwarves sorcerer's burst.",
+      "cleanedText": "Delwath’s sorcerer's burst."
+    },
+    {
+      "header": "[u3045 | 01:50:24.508-01:50:25.828 | Unknown]",
+      "lineNumber": 3045,
+      "originalText": "You take the I again.",
+      "cleanedText": "You take the eye again."
+    },
+    {
+      "header": "[u3047 | 01:50:26.068-01:50:26.988 | DM]",
+      "lineNumber": 3047,
+      "originalText": "Hits the I again.",
+      "cleanedText": "Hits the eye again."
+    },
+    {
+      "header": "[u3217 | 01:55:01.408-01:55:02.828 | DM]",
+      "lineNumber": 3217,
+      "originalText": "And that ends the golem's turn. Down a lot.",
+      "cleanedText": "And that ends the golem's turn. Delwath."
+    },
+    {
+      "header": "[u3317 | 01:58:01.248-01:58:04.588 | DM]",
+      "lineNumber": 3317,
+      "originalText": "Well, you could always elder smite if you don't want to give up concentration.",
+      "cleanedText": "Well, you could always Eldritch Smite if you don't want to give up concentration."
+    },
+    {
+      "header": "[u3722 | 02:09:09.916-02:09:12.296 | DM]",
+      "lineNumber": 3722,
+      "originalText": "That, and Seeker's turn. Wellby is up now.",
+      "cleanedText": "That ends Seeker's turn. Wellby is up now."
+    },
+    {
+      "header": "[u3987 | 02:17:50.216-02:17:52.556 | Seeker]",
+      "lineNumber": 3987,
+      "originalText": "And maybe Faldrit could repair that spell reflector thing.",
+      "cleanedText": "And maybe Faldrak could repair that spell reflector thing."
+    },
+    {
+      "header": "[u3994 | 02:18:05.216-02:18:06.436 | Kenzo]",
+      "lineNumber": 3994,
+      "originalText": "Faldrit's an artificer, right?",
+      "cleanedText": "Faldrak's an artificer, right?"
+    },
+    {
+      "header": "[u4035 | 02:19:10.996-02:19:12.996 | Wellby]",
+      "lineNumber": 4035,
+      "originalText": "Doing this means we can't do it to Ra's hand.",
+      "cleanedText": "Doing this means we can't do it to Rai’s hand."
+    },
+    {
+      "header": "[u4044 | 02:19:23.016-02:19:28.656 | Kenzo]",
+      "lineNumber": 4044,
+      "originalText": "No, but no, Ra- Ra's hand is gonna give us a vision anyways once we like put it all together, 'cause every time we get a piece it gives us a vision.",
+      "cleanedText": "No, but no, Ra- Rai’s hand is gonna give us a vision anyways once we like put it all together, 'cause every time we get a piece it gives us a vision."
+    },
+    {
+      "header": "[u4047 | 02:19:31.376-02:19:34.856 | Wellby]",
+      "lineNumber": 4047,
+      "originalText": "Was Ra's hand... Why do we think Ra's hand would know, would be connected with the phylactery?",
+      "cleanedText": "Was Rai’s hand... Why do we think Rai’s hand would know, would be connected with the phylactery?"
+    },
+    {
+      "header": "[u4056 | 02:19:46.616-02:19:47.996 | DM]",
+      "lineNumber": 4056,
+      "originalText": "Well, Ra's hand might not tell you that either.",
+      "cleanedText": "Well, Rai’s hand might not tell you that either."
+    },
+    {
+      "header": "[u4068 | 02:20:04.716-02:20:07.676 | Wellby]",
+      "lineNumber": 4068,
+      "originalText": "If Ra's hand doesn't give us what we need, we can't then look at the manacles.",
+      "cleanedText": "If Rai’s hand doesn't give us what we need, we can't then look at the manacles."
+    },
+    {
+      "header": "[u4081 | 02:20:29.580-02:20:32.500 | Kenzo]",
+      "lineNumber": 4081,
+      "originalText": "'Cause the mirror is 7D. Is there anything else that we want to show this thing?",
+      "cleanedText": "'Cause the mirror is seven days. Is there anything else that we want to show this thing?"
+    },
+    {
+      "header": "[u4118 | 02:21:30.460-02:21:33.199 | Delwath]",
+      "lineNumber": 4118,
+      "originalText": "Or teleporting back to Dimitar as, like, we can escape.",
+      "cleanedText": "Or teleporting back to Dimitaur as, like, we can escape."
+    },
+    {
+      "header": "[u4236 | 02:24:24.080-02:24:30.060 | DM]",
+      "lineNumber": 4236,
+      "originalText": "He's, like, wearing, um, he's wearing the, the crown that you seen Fastil have,",
+      "cleanedText": "He's, like, wearing, um, he's wearing the, the crown that you seen Fausto have,"
+    },
+    {
+      "header": "[u4242 | 02:24:39.820-02:24:41.120 | DM]",
+      "lineNumber": 4242,
+      "originalText": "Yeah, he still has the cloak from Yorx.",
+      "cleanedText": "Yeah, he still has the cloak from the orcs."
+    },
+    {
+      "header": "[u4267 | 02:25:12.900-02:25:14.420 | Kenzo]",
+      "lineNumber": 4267,
+      "originalText": "Yeah, I want him to be like a rave lick, you know?",
+      "cleanedText": "Yeah, I want him to be like a rave lich, you know?"
+    },
+    {
+      "header": "[u4306 | 02:26:37.532-02:26:39.652 | DM]",
+      "lineNumber": 4306,
+      "originalText": "This is like adamantium.",
+      "cleanedText": "This is like adamantine."
+    },
+    {
+      "header": "[u4341 | 02:28:54.772-02:28:59.672 | DM]",
+      "lineNumber": 4341,
+      "originalText": "And Seeker recalls that the lore of licks is typically that they are...",
+      "cleanedText": "And Seeker recalls that the lore of liches is typically that they are..."
+    },
+    {
+      "header": "[u4342 | 02:29:00.712-02:29:08.992 | DM]",
+      "lineNumber": 4342,
+      "originalText": "To become a lick you need to create a phylactery, and then you need to make a potion somehow, the rituals are not known, from",
+      "cleanedText": "To become a lich you need to create a phylactery, and then you need to make a potion somehow, the rituals are not known, from"
+    },
+    {
+      "header": "[u4345 | 02:29:14.892-02:29:18.172 | DM]",
+      "lineNumber": 4345,
+      "originalText": "And when you drink the potion, you turn into a lick.",
+      "cleanedText": "And when you drink the potion, you turn into a lich."
+    },
+    {
+      "header": "[u4422 | 02:31:32.552-02:31:35.452 | Kenzo]",
+      "lineNumber": 4422,
+      "originalText": "Yeah, 'cause he was in civil war with Shemut, or he was in conflict with Shemut.",
+      "cleanedText": "Yeah, 'cause he was in civil war with Cha’mutte, or he was in conflict with Cha’mutte."
+    },
+    {
+      "header": "[u4423 | 02:31:35.472-02:31:36.472 | DM]",
+      "lineNumber": 4423,
+      "originalText": "He, yeah, he was in conflict with Shemut.",
+      "cleanedText": "He, yeah, he was in conflict with Cha’mutte."
+    },
+    {
+      "header": "[u4424 | 02:31:36.492-02:31:40.532 | Kenzo]",
+      "lineNumber": 4424,
+      "originalText": "And probably know that it was not going well 'cause Shemut like was about to wipe him out and put him in prison.",
+      "cleanedText": "And probably know that it was not going well 'cause Cha’mutte like was about to wipe him out and put him in prison."
+    },
+    {
+      "header": "[u4484 | 02:33:14.992-02:33:20.752 | Kenzo]",
+      "lineNumber": 4484,
+      "originalText": "Of course, of course. Well, 'cause the other thing too is this is where he made the, um, made, uh, his flappy.",
+      "cleanedText": "Of course, of course. Well, 'cause the other thing too is this is where he made the, um, made, uh, his phylactery."
+    },
+    {
+      "header": "[u4641 | 02:39:28.648-02:39:32.588 | Unknown]",
+      "lineNumber": 4641,
+      "originalText": "So my vote, open the portable hole, drop them in the portable hole with Mei Chen, deal with them later.",
+      "cleanedText": "So my vote, open the portable hole, drop them in the portable hole with Mage Hand, deal with them later."
+    },
+    {
+      "header": "[u4719 | 02:41:39.668-02:41:41.588 | Kenzo]",
+      "lineNumber": 4719,
+      "originalText": "We literally were like, \"Mei Chen in the portal hole.\"",
+      "cleanedText": "We literally were like, \"Mage Hand in the portable hole.\""
+    },
+    {
+      "header": "[u4784 | 02:43:50.668-02:43:52.268 | Delwath]",
+      "lineNumber": 4784,
+      "originalText": "Well, I'm gonna Mei Chen them into the portable hole.",
+      "cleanedText": "Well, I'm gonna Mage Hand them into the portable hole."
+    },
+    {
+      "header": "[u4786 | 02:43:53.488-02:43:55.968 | Delwath]",
+      "lineNumber": 4786,
+      "originalText": "Does touching them with Mei Chen do anything scary?",
+      "cleanedText": "Does touching them with Mage Hand do anything scary?"
+    },
+    {
+      "header": "[u4806 | 02:44:43.128-02:44:44.408 | DM]",
+      "lineNumber": 4806,
+      "originalText": "I thought you vanished and smites.",
+      "cleanedText": "I thought you Banishing Smite."
+    },
+    {
+      "header": "[u4896 | 02:48:51.180-02:48:57.040 | DM]",
+      "lineNumber": 4896,
+      "originalText": "It's the super cool sounding motto of the Omnis pura that makes it clear it's the Omnis pura,",
+      "cleanedText": "It's the super cool sounding motto of the Omnis Pura that makes it clear it's the Omnis Pura,"
+    },
+    {
+      "header": "[u4899 | 02:49:00.380-02:49:03.420 | DM]",
+      "lineNumber": 4899,
+      "originalText": "But I never came up with what the super cool motto of the Omnis pura would be.",
+      "cleanedText": "But I never came up with what the super cool motto of the Omnis Pura would be."
+    },
+    {
+      "header": "[u4915 | 02:49:45.320-02:49:46.500 | DM]",
+      "lineNumber": 4915,
+      "originalText": "Ah, with Gutsleige?",
+      "cleanedText": "Ah, with Ghostly Gaze?"
+    },
+    {
+      "header": "[u5079 | 02:56:30.892-02:56:33.272 | Wellby]",
+      "lineNumber": 5079,
+      "originalText": "What is the adamantium dagger situation?",
+      "cleanedText": "What is the adamantine dagger situation?"
+    },
+    {
+      "header": "[u5082 | 02:56:35.912-02:56:37.432 | Delwath]",
+      "lineNumber": 5082,
+      "originalText": "There's no adamantium in the tower.",
+      "cleanedText": "There's no adamantine in the tower."
+    },
+    {
+      "header": "[u5083 | 02:56:37.432-02:56:40.812 | DM]",
+      "lineNumber": 5083,
+      "originalText": "You already know there's no adamantium in the tower 'cause Seeker would've sensed it.",
+      "cleanedText": "You already know there's no adamantine in the tower 'cause Seeker would've sensed it."
+    },
+    {
+      "header": "[u5104 | 02:57:12.032-02:57:15.192 | Seeker]",
+      "lineNumber": 5104,
+      "originalText": "Dracorian coins. I put the scraps on my personal inventory.",
+      "cleanedText": "Drankorian coins. I put the scraps on my personal inventory."
+    },
+    {
+      "header": "[u5184 | 02:59:52.672-02:59:54.152 | Unknown]",
+      "lineNumber": 5184,
+      "originalText": "that's, like, for Vondrad. We would, we would bring that with us.",
+      "cleanedText": "that's, like, for Faldrak. We would, we would bring that with us."
+    },
+    {
+      "header": "[u5233 | 03:01:58.732-03:02:06.692 | Kenzo]",
+      "lineNumber": 5233,
+      "originalText": "Um, what if we gave or traded the dragon, um, the how to turn into yourself into a lick book, and then if you turn into a dragon lick, what does that mean?",
+      "cleanedText": "Um, what if we gave or traded the dragon, um, the how to turn into yourself into a lich book, and then if you turn into a dragon lich, what does that mean?"
+    },
+    {
+      "header": "[u5236 | 03:02:08.812-03:02:09.752 | Kenzo]",
+      "lineNumber": 5236,
+      "originalText": "... are there dragon licks?",
+      "cleanedText": "... are there dragon liches?"
+    },
+    {
+      "header": "[u5246 | 03:02:21.412-03:02:22.752 | Unknown]",
+      "lineNumber": 5246,
+      "originalText": "But, but if, but wouldn't a dragon lick be pretty cool?",
+      "cleanedText": "But, but if, but wouldn't a dragon lich be pretty cool?"
+    },
+    {
+      "header": "[u5254 | 03:02:36.672-03:02:37.912 | DM]",
+      "lineNumber": 5254,
+      "originalText": "You can always teleport to Charday.",
+      "cleanedText": "You can always teleport to Chardon."
+    },
+    {
+      "header": "[u5256 | 03:02:39.612-03:02:41.552 | Delwath]",
+      "lineNumber": 5256,
+      "originalText": "Dragon lick. Oh, man. We go kill Fausto.",
+      "cleanedText": "Dragon lich. Oh, man. We go kill Fausto."
+    },
+    {
+      "header": "[u5257 | 03:02:41.792-03:02:43.172 | Seeker]",
+      "lineNumber": 5257,
+      "originalText": "Dragon lick. That'd be fun.",
+      "cleanedText": "Dragon lich. That'd be fun."
+    },
+    {
+      "header": "[u5258 | 03:02:43.192-03:02:47.632 | Delwath]",
+      "lineNumber": 5258,
+      "originalText": "Dragon lick. No, I'm actually not totally against your idea of trading the, the- But, but, but, yeah.",
+      "cleanedText": "Dragon lich. No, I'm actually not totally against your idea of trading the, the- But, but, but, yeah."
+    },
+    {
+      "header": "[u5261 | 03:02:51.052-03:02:55.312 | Kenzo]",
+      "lineNumber": 5261,
+      "originalText": "It's like, actually, to convince her if she wants to kill Apollyon- She should become a lick ...",
+      "cleanedText": "It's like, actually, to convince her if she wants to kill Apollyon- She should become a lich ..."
+    },
+    {
+      "header": "[u5262 | 03:02:55.312-03:02:56.512 | Unknown]",
+      "lineNumber": 5262,
+      "originalText": "she should become a lick.",
+      "cleanedText": "she should become a lich."
+    },
+    {
+      "header": "[u5264 | 03:03:00.332-03:03:03.272 | Delwath]",
+      "lineNumber": 5264,
+      "originalText": "She's gonna, like, kill all the dragonettes, like every single one of them.",
+      "cleanedText": "She's gonna, like, kill all the dragonets, like every single one of them."
+    },
+    {
+      "header": "[u5266 | 03:03:04.652-03:03:07.652 | Kenzo]",
+      "lineNumber": 5266,
+      "originalText": "Oh, she's gonna ravage Taular completely as a dragon lick.",
+      "cleanedText": "Oh, she's gonna ravage Taelgar completely as a dragon lich."
+    },
+    {
+      "header": "[u5270 | 03:03:16.452-03:03:19.492 | Kenzo]",
+      "lineNumber": 5270,
+      "originalText": "Right. Okay. It's like the Panom- Panomarian scroll thing, you know?",
+      "cleanedText": "Right. Okay. It's like the Panom- Pandemonium scroll thing, you know?"
+    },
+    {
+      "header": "[u5442 | 03:09:42.732-03:09:43.572 | Unknown]",
+      "lineNumber": 5442,
+      "originalText": "I think Kenza wants the gems.",
+      "cleanedText": "I think Kenzo wants the gems."
+    },
+    {
+      "header": "[u5563 | 03:13:28.012-03:13:29.032 | Seeker]",
+      "lineNumber": 5563,
+      "originalText": "I'll, I'll be a diver.",
+      "cleanedText": "I'll, I'll be a dire bird."
+    },
+    {
+      "header": "[u5565 | 03:13:29.212-03:13:29.872 | Seeker]",
+      "lineNumber": 5565,
+      "originalText": "You can be an Oscar.",
+      "cleanedText": "You can be an osprey."
+    },
+    {
+      "header": "[u5627 | 03:15:07.272-03:15:08.972 | Seeker]",
+      "lineNumber": 5627,
+      "originalText": "Ooh, so that's 68",
+      "cleanedText": "Ooh, so that's 6d8"
+    },
+    {
+      "header": "[u5684 | 03:16:35.768-03:16:37.568 | Delwath]",
+      "lineNumber": 5684,
+      "originalText": "I'm sure you lick a bleeding wound in the side.",
+      "cleanedText": "I'm showing you, like, a bleeding wound in the side."
+    },
+    {
+      "header": "[u5702 | 03:17:04.968-03:17:06.348 | Kenzo]",
+      "lineNumber": 5702,
+      "originalText": "Oh, you were... You cast Healing Rain.",
+      "cleanedText": "Oh, you were... You cast Sickening Radiance."
+    },
+    {
+      "header": "[u5804 | 03:19:41.108-03:19:42.288 | Kenzo]",
+      "lineNumber": 5804,
+      "originalText": "We can definitely fit it in the portal hole.",
+      "cleanedText": "We can definitely fit it in the portable hole."
+    },
+    {
+      "header": "[u5863 | 03:21:21.168-03:21:23.648 | Delwath]",
+      "lineNumber": 5863,
+      "originalText": "... wait, the, the, the portal hole's 10 foot radius",
+      "cleanedText": "... wait, the, the, the portable hole's 10 foot radius"
+    },
+    {
+      "header": "[u5867 | 03:21:30.288-03:21:30.868 | DM]",
+      "lineNumber": 5867,
+      "originalText": "The portal hole-",
+      "cleanedText": "The portable hole-"
+    },
+    {
+      "header": "[u5870 | 03:21:34.228-03:21:36.148 | Wellby]",
+      "lineNumber": 5870,
+      "originalText": "Well, I don't know. Let's check what the portal hole is.",
+      "cleanedText": "Well, I don't know. Let's check what the portable hole is."
+    },
+    {
+      "header": "[u6008 | 03:25:54.844-03:26:01.263 | DM]",
+      "lineNumber": 6008,
+      "originalText": "Yeah. And then you reload the ladders on top and close up the hole, which weighs nothing more than what it started as.",
+      "cleanedText": "Yeah. And then you reload the mirrors on top and close up the hole, which weighs nothing more than what it started as."
+    },
+    {
+      "header": "[u6284 | 03:37:14.388-03:37:14.988 | Seeker]",
+      "lineNumber": 6284,
+      "originalText": "They can deathless move.",
+      "cleanedText": "They can definitely move."
+    },
+    {
+      "header": "[u6396 | 03:40:47.780-03:40:49.340 | DM]",
+      "lineNumber": 6396,
+      "originalText": "That's not how this tech magic works.",
+      "cleanedText": "That's not how Detect Magic works."
+    },
+    {
+      "header": "[u6414 | 03:41:13.400-03:41:16.520 | Wellby]",
+      "lineNumber": 6414,
+      "originalText": "Do you have any action that as soon as the door opens, you're gonna Dispel Magic one of my hands?",
+      "cleanedText": "Do you have any action that as soon as the door opens, you're gonna Dispel Magic one of the hands?"
+    },
+    {
+      "header": "[u6820 | 03:53:05.044-03:53:07.444 | Kenzo]",
+      "lineNumber": 6820,
+      "originalText": "I wonder if it has any layer advantages in there.",
+      "cleanedText": "I wonder if it has any lair advantages in there."
+    },
+    {
+      "header": "[u6845 | 03:54:02.244-03:54:04.964 | Kenzo]",
+      "lineNumber": 6845,
+      "originalText": "I feel like it would have a lot of layer advantages if we try to fight it in that room.",
+      "cleanedText": "I feel like it would have a lot of lair advantages if we try to fight it in that room."
+    },
+    {
+      "header": "[u6847 | 03:54:05.584-03:54:07.324 | Delwath]",
+      "lineNumber": 6847,
+      "originalText": "Uh, how, what is the deal with the quarter Tim?",
+      "cleanedText": "Uh, how, what is the deal with the corridor, Tim?"
+    },
+    {
+      "header": "[u6883 | 03:55:21.804-03:55:27.044 | DM]",
+      "lineNumber": 6883,
+      "originalText": "The stairs up to the surface are in that corner right where Finger is inside the room.",
+      "cleanedText": "The stairs up to the surface are in that corner right where your finger is inside the room."
+    },
+    {
+      "header": "[u7231 | 04:04:51.428-04:04:53.088 | DM]",
+      "lineNumber": 7231,
+      "originalText": "I rolled the kansais of the fists, but-",
+      "cleanedText": "I rolled the con saves of the fists, but-"
+    },
+    {
+      "header": "[u7237 | 04:05:00.348-04:05:05.368 | DM]",
+      "lineNumber": 7237,
+      "originalText": "Robbie doesn't really have space to be pushed back, but you're maybe...",
+      "cleanedText": "Wellby doesn't really have space to be pushed back, but you're maybe..."
+    },
+    {
+      "header": "[u7281 | 04:06:05.448-04:06:08.348 | DM]",
+      "lineNumber": 7281,
+      "originalText": "Yeah, yeah, that... Where did you... Yeah, it was 60, may see, so you hit.",
+      "cleanedText": "Yeah, yeah, that... Where did you... Yeah, it was 16 AC, so you hit."
+    },
+    {
+      "header": "[u7286 | 04:06:12.488-04:06:13.288 | DM]",
+      "lineNumber": 7286,
+      "originalText": "Robbie's next.",
+      "cleanedText": "Wellby's next."
+    },
+    {
+      "header": "[u7439 | 04:10:17.628-04:10:18.648 | Kenzo]",
+      "lineNumber": 7439,
+      "originalText": "And they gotta roll kansais.",
+      "cleanedText": "And they gotta roll con saves."
+    },
+    {
+      "header": "[u7440 | 04:10:18.648-04:10:19.968 | Wellby]",
+      "lineNumber": 7440,
+      "originalText": "And they gotta roll kansais.",
+      "cleanedText": "And they gotta roll con saves."
+    },
+    {
+      "header": "[u7464 | 04:10:56.920-04:10:59.600 | Delwath]",
+      "lineNumber": 7464,
+      "originalText": "So then Kenza is next.",
+      "cleanedText": "So then Kenzo is next."
+    },
+    {
+      "header": "[u7467 | 04:11:02.860-04:11:03.620 | DM]",
+      "lineNumber": 7467,
+      "originalText": "So Kenza's up.",
+      "cleanedText": "So Kenzo's up."
+    },
+    {
+      "header": "[u7692 | 04:17:51.080-04:17:52.580 | Delwath]",
+      "lineNumber": 7692,
+      "originalText": "Right. But it's dealt with now.",
+      "cleanedText": "Right. But it's Delwath now."
+    },
+    {
+      "header": "[u7694 | 04:17:52.860-04:17:54.240 | DM]",
+      "lineNumber": 7694,
+      "originalText": "Dealt with, sword, fists, Seeker.",
+      "cleanedText": "Delwath, sword, fists, Seeker."
+    },
+    {
+      "header": "[u7732 | 04:18:43.120-04:18:45.080 | Delwath]",
+      "lineNumber": 7732,
+      "originalText": "But should I, like, move the forest guy back into the light?",
+      "cleanedText": "But should I, like, move the force guy back into the light?"
+    },
+    {
+      "header": "[u7754 | 04:19:07.380-04:19:08.180 | Delwath]",
+      "lineNumber": 7754,
+      "originalText": "I think we weave the sword.",
+      "cleanedText": "I think we leave the sword."
+    },
+    {
+      "header": "[u7904 | 04:23:43.110-04:23:44.070 | Kenzo]",
+      "lineNumber": 7904,
+      "originalText": "Voidsworn, be dead.",
+      "cleanedText": "Void sword, be dead."
+    },
+    {
+      "header": "[u7907 | 04:23:46.830-04:23:47.429 | Kenzo]",
+      "lineNumber": 7907,
+      "originalText": "Fuck this Voidsworn.",
+      "cleanedText": "Fuck this void sword."
+    },
+    {
+      "header": "[u7926 | 04:24:31.930-04:24:34.010 | Delwath]",
+      "lineNumber": 7926,
+      "originalText": "How is it prone? It doesn't move from prone.",
+      "cleanedText": "How is it prone? It's immune to prone."
+    },
+    {
+      "header": "[u7928 | 04:24:34.930-04:24:39.790 | Delwath]",
+      "lineNumber": 7928,
+      "originalText": "It doesn't use up some of your conditions.",
+      "cleanedText": "It's immune to all conditions."
+    },
+    {
+      "header": "[u7937 | 04:25:08.630-04:25:10.670 | Delwath]",
+      "lineNumber": 7937,
+      "originalText": "Hold on. Did I... I cast second wind again.",
+      "cleanedText": "Hold on. Did I... I cast Sickening Radiance."
+    },
+    {
+      "header": "[u8015 | 04:27:48.910-04:27:50.670 | DM]",
+      "lineNumber": 8015,
+      "originalText": "Kenza would have to re-soul sight them.",
+      "cleanedText": "Kenzo would have to re-soul sight them."
+    },
+    {
+      "header": "[u8221 | 04:33:33.518-04:33:37.878 | Delwath]",
+      "lineNumber": 8221,
+      "originalText": "Save your seventh level spot, 'cause then we can teleport back to Dim- to Dimitar's place.",
+      "cleanedText": "Save your seventh level spot, 'cause then we can teleport back to Dim- to Dimitaur's place."
+    },
+    {
+      "header": "[u8237 | 04:33:55.458-04:33:58.118 | DM]",
+      "lineNumber": 8237,
+      "originalText": "You just ro- you've just rolled so many crats.",
+      "cleanedText": "You just ro- you've just rolled so many crits."
+    },
+    {
+      "header": "[u8308 | 04:36:23.686-04:36:26.206 | Delwath]",
+      "lineNumber": 8308,
+      "originalText": "I mean, I've burdened him with all my first level slots.",
+      "cleanedText": "I mean, I've burned through all my first level slots."
+    },
+    {
+      "header": "[u8332 | 04:36:53.006-04:36:53.706 | DM]",
+      "lineNumber": 8332,
+      "originalText": "Seeker, you're out.",
+      "cleanedText": "Seeker, you're up."
+    },
+    {
+      "header": "[u8499 | 04:40:22.986-04:40:24.666 | DM]",
+      "lineNumber": 8499,
+      "originalText": "That one is still on damage.",
+      "cleanedText": "That one is still undamaged."
+    },
+    {
+      "header": "[u8587 | 04:42:26.438-04:42:27.638 | Delwath]",
+      "lineNumber": 8587,
+      "originalText": "I'm not gonna close him away.",
+      "cleanedText": "I'm not gonna close in melee."
+    },
+    {
+      "header": "[u8626 | 04:43:35.398-04:43:38.138 | Delwath]",
+      "lineNumber": 8626,
+      "originalText": "Now something's gonna happen. It's gonna throw the ladder down the cauldron.",
+      "cleanedText": "Now something's gonna happen. It's gonna throw the ladder down the corridor."
+    },
+    {
+      "header": "[u8724 | 04:46:46.458-04:46:47.958 | Unknown]",
+      "lineNumber": 8724,
+      "originalText": "This is Fandrix's wet dream.",
+      "cleanedText": "This is Faldrak's wet dream."
+    },
+    {
+      "header": "[u8788 | 04:48:25.262-04:48:27.182 | Seeker]",
+      "lineNumber": 8788,
+      "originalText": "Dim, I sense dimitar beneath the-",
+      "cleanedText": "Dim, I sense Dimitaur beneath the-"
+    },
+    {
+      "header": "[u8789 | 04:48:27.342-04:48:27.882 | DM]",
+      "lineNumber": 8789,
+      "originalText": "Dimitar [laughs]",
+      "cleanedText": "Dimitaur [laughs]"
+    },
+    {
+      "header": "[u8828 | 04:50:10.422-04:50:11.462 | Kenzo]",
+      "lineNumber": 8828,
+      "originalText": "Well, we can't bring [laughs] Fodrick here.",
+      "cleanedText": "Well, we can't bring [laughs] Faldrak here."
+    },
+    {
+      "header": "[u8857 | 04:51:35.722-04:51:37.942 | DM]",
+      "lineNumber": 8857,
+      "originalText": "All the adamantium seems to have been used up.",
+      "cleanedText": "All the adamantine seems to have been used up."
+    },
+    {
+      "header": "[u9105 | 05:01:05.610-05:01:09.890 | Kenzo]",
+      "lineNumber": 9105,
+      "originalText": "Tim, the, uh... Remember, um, you know, Kenza was able to sense those, like, those, those ley lines?",
+      "cleanedText": "Tim, the, uh... Remember, um, you know, Kenzo was able to sense those, like, those, those ley lines?"
+    },
+    {
+      "header": "[u9372 | 05:10:31.440-05:10:39.580 | Delwath]",
+      "lineNumber": 9372,
+      "originalText": "Like, I wanna know is this like Apollyon witch magic or like wholesome divine magic here.",
+      "cleanedText": "Like, I wanna know is this like Apollyon lich magic or like wholesome divine magic here."
+    },
+    {
+      "header": "[u9405 | 05:11:53.876-05:11:54.716 | Delwath]",
+      "lineNumber": 9405,
+      "originalText": "Oh, yeah. In the hawk.",
+      "cleanedText": "Oh, yeah. In the hall."
+    },
+    {
+      "header": "[u9468 | 05:13:35.015-05:13:38.436 | Delwath]",
+      "lineNumber": 9468,
+      "originalText": "I mean, just going once here, but nobody wants to become a witch, right?",
+      "cleanedText": "I mean, just going once here, but nobody wants to become a lich, right?"
+    },
+    {
+      "header": "[u9471 | 05:13:44.056-05:13:45.656 | Wellby]",
+      "lineNumber": 9471,
+      "originalText": "Is there a way to become a friendly witch?",
+      "cleanedText": "Is there a way to become a friendly lich?"
+    },
+    {
+      "header": "[u9634 | 05:18:58.596-05:19:01.616 | DM]",
+      "lineNumber": 9634,
+      "originalText": "No, not... That's when somebody's casting and want to affect a glyph.",
+      "cleanedText": "No, not... That's when somebody's casting and won’t affect a glyph."
+    },
+    {
+      "header": "[u9817 | 05:24:39.532-05:24:40.092 | Seeker]",
+      "lineNumber": 9817,
+      "originalText": "Seeker's interesting.",
+      "cleanedText": "Seeker's interested."
+    },
+    {
+      "header": "[u9846 | 05:25:27.212-05:25:28.832 | Wellby]",
+      "lineNumber": 9846,
+      "originalText": "We can teleport back to Dimitar.",
+      "cleanedText": "We can teleport back to Dimitaur."
+    },
+    {
+      "header": "[u9901 | 05:27:29.812-05:27:30.472 | Seeker]",
+      "lineNumber": 9901,
+      "originalText": "Faldric.",
+      "cleanedText": "Faldrak."
+    },
+    {
+      "header": "[u9964 | 05:29:47.744-05:29:51.804 | DM]",
+      "lineNumber": 9964,
+      "originalText": "Like this, with this plus the red book, you could definitely become a wretch",
+      "cleanedText": "Like this, with this plus the red book, you could definitely become a lich"
+    },
+    {
+      "header": "[u9966 | 05:29:55.124-05:29:58.684 | Kenzo]",
+      "lineNumber": 9966,
+      "originalText": "Wait, so but why, why... We still don't know the Woof of Blood situation and the portable hole",
+      "cleanedText": "Wait, so but why, why... We still don't know the whiff of blood situation and the portable hole"
+    },
+    {
+      "header": "[u9985 | 05:30:47.584-05:30:49.764 | Seeker]",
+      "lineNumber": 9985,
+      "originalText": "We should follow the hints of the dragonets for instance [laughs].",
+      "cleanedText": "It could fall into the hands of the dragonets for instance [laughs]."
+    },
+    {
+      "header": "[u10031 | 05:32:26.484-05:32:27.684 | Seeker]",
+      "lineNumber": 10031,
+      "originalText": "An adamantium box.",
+      "cleanedText": "An adamantine box."
+    },
+    {
+      "header": "[u10036 | 05:32:33.564-05:32:37.864 | DM]",
+      "lineNumber": 10036,
+      "originalText": "I mean, it'll take a while to actually forge, but only a second and a Seeker wants to just...",
+      "cleanedText": "I mean, it'll take a while to actually forge, but only a second if Seeker wants to just..."
+    },
+    {
+      "header": "[u10046 | 05:32:54.204-05:32:56.684 | Delwath]",
+      "lineNumber": 10046,
+      "originalText": "We're not gonna... We're gonna teleport out to Dimitar from here,",
+      "cleanedText": "We're not gonna... We're gonna teleport out to Dimitaur from here,"
+    },
+    {
+      "header": "[u10054 | 05:33:08.064-05:33:10.404 | Kenzo]",
+      "lineNumber": 10054,
+      "originalText": "So Seadra's making a little box that we can put the lich book in.",
+      "cleanedText": "So Seeker's making a little box that we can put the lich book in."
+    },
+    {
+      "header": "[u10055 | 05:33:10.764-05:33:13.864 | Seeker]",
+      "lineNumber": 10055,
+      "originalText": "Oh, no, it create after a number of hours equal to your proficiency but-",
+      "cleanedText": "Oh, no, it disappears after a number of hours equal to your proficiency but-"
+    },
+    {
+      "header": "[u10061 | 05:33:20.664-05:33:22.564 | Kenzo]",
+      "lineNumber": 10061,
+      "originalText": "And then we'll ask Dimitar to watch it for us while we go kill-",
+      "cleanedText": "And then we'll ask Dimitaur to watch it for us while we go kill-"
+    },
+    {
+      "header": "[u10081 | 05:33:51.264-05:33:52.184 | DM]",
+      "lineNumber": 10081,
+      "originalText": "Where Dimitar is?",
+      "cleanedText": "Where Dimitaur is?"
+    },
+    {
+      "header": "[u10086 | 05:33:55.824-05:34:01.904 | Kenzo]",
+      "lineNumber": 10086,
+      "originalText": "We tell Dimitar, um, that there's a, a evil lich book in there and, uh, thanks for watching it for us while we kill the dragon later tomorrow.",
+      "cleanedText": "We tell Dimitaur, um, that there's a, a evil lich book in there and, uh, thanks for watching it for us while we kill the dragon later tomorrow."
+    },
+    {
+      "header": "[u10112 | 05:34:47.824-05:34:49.664 | Seeker]",
+      "lineNumber": 10112,
+      "originalText": "Di- Dimitar, I think you solved the problem.",
+      "cleanedText": "Di- Dimitaur, I think you solved the problem."
+    },
+    {
+      "header": "[u10123 | 05:35:07.804-05:35:11.564 | Seeker]",
+      "lineNumber": 10123,
+      "originalText": "I think we're learning Dimitar's style and approach to solving problems.",
+      "cleanedText": "I think we're learning Dimitaur's style and approach to solving problems."
+    }
+  ],
+  "review": {
+    "schemaVersion": 1,
+    "transcriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-source-cleaned.md",
+    "transcriptSha256": "2cd8887c987e1742c02101f78392ac574c9584e0c975f93b5d5cd4485cff41d3",
+    "issues": [],
+    "pendingMaterialCount": 0,
+    "incidentalCount": 0,
+    "acceptedCount": 0,
+    "assessment": ""
+  }
+}

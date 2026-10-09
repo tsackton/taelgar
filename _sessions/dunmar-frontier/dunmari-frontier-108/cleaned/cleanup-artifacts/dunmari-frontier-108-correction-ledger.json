@@ -1,0 +1,1369 @@
+{
+  "stage": "two-passes-complete",
+  "globalCorrections": {
+    "Lost Luguna": "Mos Numena",
+    "Chardin": "Chardon",
+    "Sambara": "Sembara",
+    "Taanshi": "Tanshi",
+    "Yalvali": "Yezali",
+    "Deniquai": "Deno'qai",
+    "Mesdawi": "Meswati",
+    "Sargon": "Sarqon",
+    "Ishimaa": "Bhishma",
+    "Kenza": "Kenzo",
+    "dragoneth": "dragonet",
+    "Karson": "Kharsan",
+    "Drankhonian": "Drankorian",
+    "Grimbskall": "Grimbaskal",
+    "Raegyndis": "Ra'ghemdros",
+    "Talgar": "Taelgar",
+    "Gresh": "Ghesh",
+    "Regendros": "Ra'ghemdros",
+    "Regemdros": "Ra'ghemdros",
+    "Magrin": "Megren",
+    "Dimitar": "Dimitaur",
+    "Divitar": "Dimitaur",
+    "Ragabash": "Ra'ghemdros",
+    "Willby": "Wellby",
+    "Dranikor": "Drankor",
+    "Drancor": "Drankor",
+    "Chaumut": "Cha'mutte",
+    "Shemut": "Cha'mutte",
+    "Shemuhitte": "Cha'mutte",
+    "Rogam'dros": "Ra'ghemdros",
+    "Rizwin": "Riswynn",
+    "Isingay": "Isingue",
+    "Vincharna": "Vindristjarna",
+    "Polyron": "Apollyon"
+  },
+  "lineCorrections": {
+    "28": [
+      [
+        "was up here",
+        "was a pier"
+      ]
+    ],
+    "38": [
+      [
+        "Statue of look like, Liberty look like",
+        "Statue of Liberty look like"
+      ]
+    ],
+    "321": [
+      [
+        "It's support.",
+        "It's a port."
+      ]
+    ],
+    "665": [
+      [
+        "evil potion",
+        "evil quotient"
+      ]
+    ],
+    "667": [
+      [
+        "evil potion",
+        "evil quotient"
+      ]
+    ],
+    "725": [
+      [
+        "dimitars",
+        "Dimitaurs"
+      ]
+    ],
+    "792": [
+      [
+        "Draconian coins",
+        "Drankorian coins"
+      ]
+    ],
+    "888": [
+      [
+        "Solside",
+        "soul sight"
+      ]
+    ],
+    "889": [
+      [
+        "one near Solside",
+        "one you soul sight"
+      ]
+    ],
+    "999": [
+      [
+        "crafts",
+        "craps"
+      ]
+    ],
+    "1116": [
+      [
+        "draconic coin",
+        "Drankorian coin"
+      ]
+    ],
+    "1119": [
+      [
+        "Draconic coin",
+        "Drankorian coin"
+      ]
+    ],
+    "1206": [
+      [
+        "Ra'ghabdos",
+        "Ra'ghemdros"
+      ]
+    ],
+    "1428": [
+      [
+        "dr- kinetic coin",
+        "Drankorian coin"
+      ]
+    ],
+    "1614": [
+      [
+        "Alexandria",
+        "alexandrite"
+      ],
+      [
+        "horde",
+        "hoard"
+      ]
+    ],
+    "1659": [
+      [
+        "of course you can't understand",
+        "of course you can understand"
+      ]
+    ],
+    "1706": [
+      [
+        "leave you",
+        "lead you"
+      ]
+    ],
+    "2385": [
+      [
+        "Awaken jungle",
+        "Awakened Jungle"
+      ]
+    ],
+    "2576": [
+      [
+        "Dragonite",
+        "dragonet"
+      ]
+    ],
+    "2578": [
+      [
+        "Dragonite",
+        "dragonet"
+      ]
+    ],
+    "2989": [
+      [
+        "any freak bottle",
+        "an efreeti bottle"
+      ]
+    ],
+    "2996": [
+      [
+        "undrapped",
+        "untrapped"
+      ]
+    ],
+    "3066": [
+      [
+        "I spend",
+        "I spin"
+      ]
+    ],
+    "3096": [
+      [
+        "just one from",
+        "just won from"
+      ]
+    ],
+    "3210": [
+      [
+        "my wings",
+        "my lynx"
+      ]
+    ],
+    "3278": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3280": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3355": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3409": [
+      [
+        "human goddamn",
+        "human gods"
+      ]
+    ],
+    "3655": [
+      [
+        "clear voice",
+        "clairvoyance"
+      ]
+    ],
+    "3667": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3719": [
+      [
+        "link",
+        "lynx"
+      ]
+    ],
+    "3752": [
+      [
+        "link",
+        "lynx"
+      ]
+    ],
+    "3894": [
+      [
+        " or edition",
+        " edition"
+      ]
+    ],
+    "3964": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3967": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3968": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3969": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "3971": [
+      [
+        "links",
+        "lynx"
+      ]
+    ],
+    "4065": [
+      [
+        "could afford",
+        "cared for"
+      ]
+    ],
+    "4066": [
+      [
+        "born, Agrilak",
+        "born or grew up"
+      ]
+    ],
+    "4531": [
+      [
+        "this tense",
+        "this sense"
+      ]
+    ],
+    "4553": [
+      [
+        "it's weather present",
+        "it's whether present"
+      ]
+    ],
+    "4660": [
+      [
+        "smashes the face",
+        "smash us in the face"
+      ]
+    ],
+    "4768": [
+      [
+        "Beachmen",
+        "Bhishma"
+      ]
+    ],
+    "4802": [
+      [
+        "the spell magic",
+        "dispel magic"
+      ]
+    ],
+    "4906": [
+      [
+        "Irske",
+        "Ursk"
+      ]
+    ],
+    "4907": [
+      [
+        "Irsk",
+        "Ursk"
+      ]
+    ],
+    "5016": [
+      [
+        "Rogam",
+        "Ra'ghemdros"
+      ]
+    ],
+    "5018": [
+      [
+        "Rogam",
+        "Ra'ghemdros"
+      ]
+    ],
+    "5020": [
+      [
+        "Rogam",
+        "Ra'ghemdros"
+      ]
+    ],
+    "5021": [
+      [
+        "Rogam-",
+        "Ra'ghemdros-"
+      ]
+    ],
+    "5118": [
+      [
+        "She hasn't seen too much",
+        "She hasn't been seen too much"
+      ]
+    ],
+    "5214": [
+      [
+        "Cha'mut",
+        "Cha'mutte"
+      ]
+    ],
+    "5407": [
+      [
+        "where I was",
+        "where Rai was"
+      ]
+    ],
+    "5409": [
+      [
+        "we went",
+        "he went"
+      ]
+    ],
+    "5411": [
+      [
+        "seat of chaos",
+        "Seed of Chaos"
+      ]
+    ],
+    "5654": [
+      [
+        "ride stories",
+        "Rai stories"
+      ]
+    ]
+  },
+  "changes": [
+    {
+      "sourceId": "u0028",
+      "before": "It looks like there maybe once was up here, extending out, like in, nestled in between the legs.",
+      "after": "It looks like there maybe once was a pier, extending out, like in, nestled in between the legs."
+    },
+    {
+      "sourceId": "u0038",
+      "before": "What would the Statue of look like, Liberty look like from 5, 10, 15 or 20 miles away?\"",
+      "after": "What would the Statue of Liberty look like from 5, 10, 15 or 20 miles away?\""
+    },
+    {
+      "sourceId": "u0053",
+      "before": "That's another one of the Lost Luguna gods.",
+      "after": "That's another one of the Mos Numena gods."
+    },
+    {
+      "sourceId": "u0058",
+      "before": "Lost Luguna gods. You can't see from a dist- But you can see the roads clearly running from them.",
+      "after": "Mos Numena gods. You can't see from a dist- But you can see the roads clearly running from them."
+    },
+    {
+      "sourceId": "u0082",
+      "before": "um, at least in Chardin, where you're most familiar, um-",
+      "after": "um, at least in Chardon, where you're most familiar, um-"
+    },
+    {
+      "sourceId": "u0083",
+      "before": "But Wellby would know Sambara religion reasonably well, right?",
+      "after": "But Wellby would know Sembara religion reasonably well, right?"
+    },
+    {
+      "sourceId": "u0084",
+      "before": "Yeah, so in, in Sambara it tends to be like each person has, like, a particular relationship.",
+      "after": "Yeah, so in, in Sembara it tends to be like each person has, like, a particular relationship."
+    },
+    {
+      "sourceId": "u0093",
+      "before": "In Chardin, it's a bit less,",
+      "after": "In Chardon, it's a bit less,"
+    },
+    {
+      "sourceId": "u0182",
+      "before": "In fact, like, the, Delwath's whole backstory, right, is like that, Yalvali, who was one of the,",
+      "after": "In fact, like, the, Delwath's whole backstory, right, is like that, Yezali, who was one of the,"
+    },
+    {
+      "sourceId": "u0184",
+      "before": "Taanshi",
+      "after": "Tanshi"
+    },
+    {
+      "sourceId": "u0185",
+      "before": "... the Taanshi, which are these like small gods,",
+      "after": "... the Tanshi, which are these like small gods,"
+    },
+    {
+      "sourceId": "u0195",
+      "before": "He found the, a bunch of other Taanshi, and also I rescued",
+      "after": "He found the, a bunch of other Tanshi, and also I rescued"
+    },
+    {
+      "sourceId": "u0196",
+      "before": "Yalvali from being trapped in the shadow dimension-",
+      "after": "Yezali from being trapped in the shadow dimension-"
+    },
+    {
+      "sourceId": "u0199",
+      "before": "... in our little solo quest. That's what Delwath did, is he rescued Yalvali and-",
+      "after": "... in our little solo quest. That's what Delwath did, is he rescued Yezali and-"
+    },
+    {
+      "sourceId": "u0201",
+      "before": "... reintroduced the cultural, the Deniquai, to Yalvali.",
+      "after": "... reintroduced the cultural, the Deno'qai, to Yezali."
+    },
+    {
+      "sourceId": "u0208",
+      "before": "... they had, the Deniquai had this term, the Mesdawi, the gods they thought were killed by Cha'mutte.",
+      "after": "... they had, the Deno'qai had this term, the Meswati, the gods they thought were killed by Cha'mutte."
+    },
+    {
+      "sourceId": "u0222",
+      "before": "I mean, or if they do, they're like a Taanshi.",
+      "after": "I mean, or if they do, they're like a Tanshi."
+    },
+    {
+      "sourceId": "u0245",
+      "before": "Yeah. Remember Sargon, the god of slavery-",
+      "after": "Yeah. Remember Sarqon, the god of slavery-"
+    },
+    {
+      "sourceId": "u0252",
+      "before": "Sargon was an ancient-",
+      "after": "Sarqon was an ancient-"
+    },
+    {
+      "sourceId": "u0255",
+      "before": "right, that was worshiped this god Sargon.",
+      "after": "right, that was worshiped this god Sarqon."
+    },
+    {
+      "sourceId": "u0256",
+      "before": "And somehow, the phi- I don't think the Philosophers Guild was clear on how, Sargon was trapped in this plane along with...",
+      "after": "And somehow, the phi- I don't think the Philosophers Guild was clear on how, Sarqon was trapped in this plane along with..."
+    },
+    {
+      "sourceId": "u0263",
+      "before": "So I mean, if we wanted to be evil, we could go free Sargon",
+      "after": "So I mean, if we wanted to be evil, we could go free Sarqon"
+    },
+    {
+      "sourceId": "u0279",
+      "before": "He's like the Taanshi, right? Like he's like a weak god.",
+      "after": "He's like the Tanshi, right? Like he's like a weak god."
+    },
+    {
+      "sourceId": "u0283",
+      "before": "Ishimaa became a god, right?",
+      "after": "Bhishma became a god, right?"
+    },
+    {
+      "sourceId": "u0321",
+      "before": "It's support. You can see these like docks as well.",
+      "after": "It's a port. You can see these like docks as well."
+    },
+    {
+      "sourceId": "u0665",
+      "before": "What's the, like, evil potion?",
+      "after": "What's the, like, evil quotient?"
+    },
+    {
+      "sourceId": "u0667",
+      "before": "You don't really get an evil potion on soul sight.",
+      "after": "You don't really get an evil quotient on soul sight."
+    },
+    {
+      "sourceId": "u0725",
+      "before": "They're dimitars",
+      "after": "They're Dimitaurs"
+    },
+    {
+      "sourceId": "u0761",
+      "before": "We've got some Drankhonian coins, right?",
+      "after": "We've got some Drankorian coins, right?"
+    },
+    {
+      "sourceId": "u0792",
+      "before": "Yeah, I've got, like, Dran- Dran- Draconian coins-",
+      "after": "Yeah, I've got, like, Dran- Dran- Drankorian coins-"
+    },
+    {
+      "sourceId": "u0888",
+      "before": "Uh, but Tim, uh, just, you know, Solside, are they, like, now, like, scared nervous or are they, like-",
+      "after": "Uh, but Tim, uh, just, you know, soul sight, are they, like, now, like, scared nervous or are they, like-"
+    },
+    {
+      "sourceId": "u0889",
+      "before": "The, mm, the one near Solside, I mean, yeah, no, they're, like, um,",
+      "after": "The, mm, the one you soul sight, I mean, yeah, no, they're, like, um,"
+    },
+    {
+      "sourceId": "u0961",
+      "before": "Where's the merfolk? West of Chardin, so very far west of Drankor.",
+      "after": "Where's the merfolk? West of Chardon, so very far west of Drankor."
+    },
+    {
+      "sourceId": "u0963",
+      "before": "So, uh, uh, Chardin, you know Chardin?",
+      "after": "So, uh, uh, Chardon, you know Chardon?"
+    },
+    {
+      "sourceId": "u0969",
+      "before": "Um, uh, but yeah, anyways, you know, Chardin, it's, it's, you know, you don't know it, but it's, uh,",
+      "after": "Um, uh, but yeah, anyways, you know, Chardon, it's, it's, you know, you don't know it, but it's, uh,"
+    },
+    {
+      "sourceId": "u0989",
+      "before": "Uh, Kenza will commence a-",
+      "after": "Uh, Kenzo will commence a-"
+    },
+    {
+      "sourceId": "u0992",
+      "before": "Kenza will, uh, begin, will leverage his, um, his, uh, rune counting skills from when...",
+      "after": "Kenzo will, uh, begin, will leverage his, um, his, uh, rune counting skills from when..."
+    },
+    {
+      "sourceId": "u0994",
+      "before": "Kenza-",
+      "after": "Kenzo-"
+    },
+    {
+      "sourceId": "u0995",
+      "before": "Yeah, Kenza's got",
+      "after": "Yeah, Kenzo's got"
+    },
+    {
+      "sourceId": "u0996",
+      "before": "... Kenza, this is actually... He, he definitely does.",
+      "after": "... Kenzo, this is actually... He, he definitely does."
+    },
+    {
+      "sourceId": "u0999",
+      "before": "They're, they're playing a, basically a variant of something like crafts, right?",
+      "after": "They're, they're playing a, basically a variant of something like craps, right?"
+    },
+    {
+      "sourceId": "u1002",
+      "before": "Perfect. Perfect. Yeah. Kenza, Kenza, Kenza's like, \"All right, let's do it.",
+      "after": "Perfect. Perfect. Yeah. Kenzo, Kenzo, Kenzo's like, \"All right, let's do it."
+    },
+    {
+      "sourceId": "u1007",
+      "before": "Uh, Kenza's kind of telepath's like, \"Do you wanna join us or just let me, let me keep, keep talking with them?\"",
+      "after": "Uh, Kenzo's kind of telepath's like, \"Do you wanna join us or just let me, let me keep, keep talking with them?\""
+    },
+    {
+      "sourceId": "u1016",
+      "before": "Oh, actually, uh, Kenza, K- really quickly, uh, can I do, like, a very, um, like, um, limited just, like, are there other...",
+      "after": "Oh, actually, uh, Kenzo, K- really quickly, uh, can I do, like, a very, um, like, um, limited just, like, are there other..."
+    },
+    {
+      "sourceId": "u1017",
+      "before": "Is there anything inside the tower, like consciousness wise, other than these little, these, these little dragoneth guys?",
+      "after": "Is there anything inside the tower, like consciousness wise, other than these little, these, these little dragonet guys?"
+    },
+    {
+      "sourceId": "u1048",
+      "before": "death and evil that reminds you very strongly of, like, Karson, like the plague echoes in Karson.",
+      "after": "death and evil that reminds you very strongly of, like, Kharsan, like the plague echoes in Kharsan."
+    },
+    {
+      "sourceId": "u1116",
+      "before": "I, I toss him a draconic coin.",
+      "after": "I, I toss him a Drankorian coin."
+    },
+    {
+      "sourceId": "u1119",
+      "before": "... yeah. [laughs] Draconic coin.",
+      "after": "... yeah. [laughs] Drankorian coin."
+    },
+    {
+      "sourceId": "u1206",
+      "before": "Ra'ghabdos. Ra'ghemdros.",
+      "after": "Ra'ghemdros. Ra'ghemdros."
+    },
+    {
+      "sourceId": "u1428",
+      "before": "Kenzo, Kenzo, Kenzo throws another dr- kinetic coin his way",
+      "after": "Kenzo, Kenzo, Kenzo throws another Drankorian coin his way"
+    },
+    {
+      "sourceId": "u1614",
+      "before": "Ah, the golden circlet set with four green Alexandria gems from Grimbaskal's horde, worth at least 500 gold.",
+      "after": "Ah, the golden circlet set with four green alexandrite gems from Grimbaskal's hoard, worth at least 500 gold."
+    },
+    {
+      "sourceId": "u1638",
+      "before": "... Grimbskall.",
+      "after": "... Grimbaskal."
+    },
+    {
+      "sourceId": "u1659",
+      "before": "says, \"Give me a minute.\" And he turns, and he like gives this speech in Draconic, which of course you can't understand.",
+      "after": "says, \"Give me a minute.\" And he turns, and he like gives this speech in Draconic, which of course you can understand."
+    },
+    {
+      "sourceId": "u1706",
+      "before": "And he look, he's like smiling, he's like puffing up his chest, and he goes to leave you.",
+      "after": "And he look, he's like smiling, he's like puffing up his chest, and he goes to lead you."
+    },
+    {
+      "sourceId": "u1913",
+      "before": "of these dragonets that he kind of talks about as, like, the true believers that, you know, like Raegyndis has like her little army, right?",
+      "after": "of these dragonets that he kind of talks about as, like, the true believers that, you know, like Ra'ghemdros has like her little army, right?"
+    },
+    {
+      "sourceId": "u1917",
+      "before": "True believer of Raegyndis",
+      "after": "True believer of Ra'ghemdros"
+    },
+    {
+      "sourceId": "u1933",
+      "before": "Raegyndis.",
+      "after": "Ra'ghemdros."
+    },
+    {
+      "sourceId": "u1934",
+      "before": "Raegyndis. And Raegyndis has been here forever, huh?",
+      "after": "Ra'ghemdros. And Ra'ghemdros has been here forever, huh?"
+    },
+    {
+      "sourceId": "u2119",
+      "before": "fly around rampaging Talgar?",
+      "after": "fly around rampaging Taelgar?"
+    },
+    {
+      "sourceId": "u2259",
+      "before": "Um, and she's sort of a, a slightly bigger than Gresh, slightly greener than Gresh, more of like an olive color.",
+      "after": "Um, and she's sort of a, a slightly bigger than Ghesh, slightly greener than Ghesh, more of like an olive color."
+    },
+    {
+      "sourceId": "u2272",
+      "before": "So, uh, uh, Gresh here was sharing that you, uh, recently went to the mainland.",
+      "after": "So, uh, uh, Ghesh here was sharing that you, uh, recently went to the mainland."
+    },
+    {
+      "sourceId": "u2319",
+      "before": "But, uh, but Gresh says you, uh, you found some interesting things in the, uh, uh, your, your last visit.",
+      "after": "But, uh, but Ghesh says you, uh, you found some interesting things in the, uh, uh, your, your last visit."
+    },
+    {
+      "sourceId": "u2357",
+      "before": "You know, remember when you were on the ship sailing to Chardin and the halfling druid was, like, touched your staff and made, like, something bloom from it?",
+      "after": "You know, remember when you were on the ship sailing to Chardon and the halfling druid was, like, touched your staff and made, like, something bloom from it?"
+    },
+    {
+      "sourceId": "u2376",
+      "before": "I don't think Regendros has found new gemstones in a while.",
+      "after": "I don't think Ra'ghemdros has found new gemstones in a while."
+    },
+    {
+      "sourceId": "u2385",
+      "before": "Like, further to the west, there was, like, other territory from the Awaken jungle people that",
+      "after": "Like, further to the west, there was, like, other territory from the Awakened Jungle people that"
+    },
+    {
+      "sourceId": "u2406",
+      "before": "when this person took the jade, they went to Regendros-",
+      "after": "when this person took the jade, they went to Ra'ghemdros-"
+    },
+    {
+      "sourceId": "u2423",
+      "before": "But what does Regendros have?",
+      "after": "But what does Ra'ghemdros have?"
+    },
+    {
+      "sourceId": "u2426",
+      "before": "Yeah. So Regendros must have been pretty happy about this, that, uh, that, that jewel, huh?",
+      "after": "Yeah. So Ra'ghemdros must have been pretty happy about this, that, uh, that, that jewel, huh?"
+    },
+    {
+      "sourceId": "u2430",
+      "before": "I mean, this is pretty nice here, but Regendros' place,",
+      "after": "I mean, this is pretty nice here, but Ra'ghemdros' place,"
+    },
+    {
+      "sourceId": "u2487",
+      "before": "This just shows why you shouldn't mess with Regemdros.",
+      "after": "This just shows why you shouldn't mess with Ra'ghemdros."
+    },
+    {
+      "sourceId": "u2523",
+      "before": "And by the way, by the way, too, you know, Kenza is like, kind of is like, \"I, I know, I know Ghesh doesn't have a very high opinion of you,\" but, um, like as, as we've been talking he's been like kind of whittling like a little, a little,",
+      "after": "And by the way, by the way, too, you know, Kenzo is like, kind of is like, \"I, I know, I know Ghesh doesn't have a very high opinion of you,\" but, um, like as, as we've been talking he's been like kind of whittling like a little, a little,"
+    },
+    {
+      "sourceId": "u2547",
+      "before": "there was something more than life under Regemdros and there were stories of an elder who had tales",
+      "after": "there was something more than life under Ra'ghemdros and there were stories of an elder who had tales"
+    },
+    {
+      "sourceId": "u2548",
+      "before": "of the outside world from before Regemdros arrived.",
+      "after": "of the outside world from before Ra'ghemdros arrived."
+    },
+    {
+      "sourceId": "u2562",
+      "before": "And Regemdros came,",
+      "after": "And Ra'ghemdros came,"
+    },
+    {
+      "sourceId": "u2576",
+      "before": "We need to bring this to Dragonite Rebellion.",
+      "after": "We need to bring this to dragonet Rebellion."
+    },
+    {
+      "sourceId": "u2578",
+      "before": "Sorry. Dragonite Rebellion.",
+      "after": "Sorry. dragonet Rebellion."
+    },
+    {
+      "sourceId": "u2583",
+      "before": "Well, 'cause Regemdros would've killed him.",
+      "after": "Well, 'cause Ra'ghemdros would've killed him."
+    },
+    {
+      "sourceId": "u2596",
+      "before": "Oh, so, okay. So Regemdros has left, left the lair.",
+      "after": "Oh, so, okay. So Ra'ghemdros has left, left the lair."
+    },
+    {
+      "sourceId": "u2645",
+      "before": "And kinda gives, gives, uh, Gresh?",
+      "after": "And kinda gives, gives, uh, Ghesh?"
+    },
+    {
+      "sourceId": "u2646",
+      "before": "Gresh, yeah",
+      "after": "Ghesh, yeah"
+    },
+    {
+      "sourceId": "u2650",
+      "before": "And, you know, Kenza shows one of the, the elvish coins that he has.",
+      "after": "And, you know, Kenzo shows one of the, the elvish coins that he has."
+    },
+    {
+      "sourceId": "u2653",
+      "before": "Magrin",
+      "after": "Megren"
+    },
+    {
+      "sourceId": "u2654",
+      "before": "... to Magrin and then also, you know, ca- carves like a really beautiful-",
+      "after": "... to Megren and then also, you know, ca- carves like a really beautiful-"
+    },
+    {
+      "sourceId": "u2657",
+      "before": "And, uh, and says to, you know, Gresh, \"Well,",
+      "after": "And, uh, and says to, you know, Ghesh, \"Well,"
+    },
+    {
+      "sourceId": "u2663",
+      "before": "Um, Gresh is like, smiles pretty happy.",
+      "after": "Um, Ghesh is like, smiles pretty happy."
+    },
+    {
+      "sourceId": "u2664",
+      "before": "Uh, Magrin actually flips the coin to him and says, \"I don't need to go",
+      "after": "Uh, Megren actually flips the coin to him and says, \"I don't need to go"
+    },
+    {
+      "sourceId": "u2684",
+      "before": "They don't seem interested. She does definitely doesn't s- I mean, she is friends with Gresh.",
+      "after": "They don't seem interested. She does definitely doesn't s- I mean, she is friends with Ghesh."
+    },
+    {
+      "sourceId": "u2703",
+      "before": "She, Magrin handed the jade to-",
+      "after": "She, Megren handed the jade to-"
+    },
+    {
+      "sourceId": "u2716",
+      "before": "We could send Gresh.",
+      "after": "We could send Ghesh."
+    },
+    {
+      "sourceId": "u2762",
+      "before": "Magrin described it. You swim down to the bottom of the pool,",
+      "after": "Megren described it. You swim down to the bottom of the pool,"
+    },
+    {
+      "sourceId": "u2783",
+      "before": "I think there's three strategies to approach with the dra- I mean, the fourth thing that we could do is ignore the dragon for right now and go find D- Dimitar.",
+      "after": "I think there's three strategies to approach with the dra- I mean, the fourth thing that we could do is ignore the dragon for right now and go find D- Dimitaur."
+    },
+    {
+      "sourceId": "u2803",
+      "before": "Outside of the game, it would be cool just to, uh, kill the dragon and then talk to Dimitar at the end.",
+      "after": "Outside of the game, it would be cool just to, uh, kill the dragon and then talk to Dimitaur at the end."
+    },
+    {
+      "sourceId": "u2820",
+      "before": "at least in the town, most, most of the dragonets that sort of live in these surviving non-plague ruins pretty much seem to just want Ragabash to leave them alone, right?",
+      "after": "at least in the town, most, most of the dragonets that sort of live in these surviving non-plague ruins pretty much seem to just want Ra'ghemdros to leave them alone, right?"
+    },
+    {
+      "sourceId": "u2870",
+      "before": "Ragabash.",
+      "after": "Ra'ghemdros."
+    },
+    {
+      "sourceId": "u2989",
+      "before": "What's the f- do we have any freak bottle?",
+      "after": "What's the f- do we have an efreeti bottle?"
+    },
+    {
+      "sourceId": "u2996",
+      "before": "... if a, if that's the sort of thing that could get her undrapped, that could be a really powerful incentive",
+      "after": "... if a, if that's the sort of thing that could get her untrapped, that could be a really powerful incentive"
+    },
+    {
+      "sourceId": "u3066",
+      "before": "I spend the ever spinning top.",
+      "after": "I spin the ever spinning top."
+    },
+    {
+      "sourceId": "u3096",
+      "before": "He might've been less friendly if you had just one from the beginning",
+      "after": "He might've been less friendly if you had just won from the beginning"
+    },
+    {
+      "sourceId": "u3183",
+      "before": "... check out the monastery and see if we can find the elder dragonet, AKA Divitar",
+      "after": "... check out the monastery and see if we can find the elder dragonet, AKA Dimitaur"
+    },
+    {
+      "sourceId": "u3184",
+      "before": "AKA Divitar. Got it.",
+      "after": "AKA Dimitaur. Got it."
+    },
+    {
+      "sourceId": "u3210",
+      "before": "if I asked my wings to go bring a message to the elder, the eldest dragonet",
+      "after": "if I asked my lynx to go bring a message to the elder, the eldest dragonet"
+    },
+    {
+      "sourceId": "u3253",
+      "before": "Wait, but Dimitar would be super old.",
+      "after": "Wait, but Dimitaur would be super old."
+    },
+    {
+      "sourceId": "u3259",
+      "before": "Di- yeah, Dimitar would be 200 something right?",
+      "after": "Di- yeah, Dimitaur would be 200 something right?"
+    },
+    {
+      "sourceId": "u3278",
+      "before": "To the links",
+      "after": "To the lynx"
+    },
+    {
+      "sourceId": "u3280",
+      "before": "the links.",
+      "after": "the lynx."
+    },
+    {
+      "sourceId": "u3313",
+      "before": "Like, if I can find Dimitar now, like I'll just know where he is.",
+      "after": "Like, if I can find Dimitaur now, like I'll just know where he is."
+    },
+    {
+      "sourceId": "u3355",
+      "before": "No, I think, I, I think I am gonna send the links ahead with a message to this creature saying...",
+      "after": "No, I think, I, I think I am gonna send the lynx ahead with a message to this creature saying..."
+    },
+    {
+      "sourceId": "u3409",
+      "before": "What, what did the elves have to do with these human goddamn?",
+      "after": "What, what did the elves have to do with these human gods?"
+    },
+    {
+      "sourceId": "u3655",
+      "before": "Well, that's what we get from clear voice, I guess.",
+      "after": "Well, that's what we get from clairvoyance, I guess."
+    },
+    {
+      "sourceId": "u3667",
+      "before": "I'll do that. I'll send the links with a message to this eldest creature.",
+      "after": "I'll do that. I'll send the lynx with a message to this eldest creature."
+    },
+    {
+      "sourceId": "u3719",
+      "before": "So the link goes off.",
+      "after": "So the lynx goes off."
+    },
+    {
+      "sourceId": "u3752",
+      "before": "I'm imagining Kenza saying that as the link vanishes around the bend in the trail.",
+      "after": "I'm imagining Kenzo saying that as the lynx vanishes around the bend in the trail."
+    },
+    {
+      "sourceId": "u3763",
+      "before": "So we just, we're, we just alert- we just alerted the, the demonic thing that's holding Dimitar.",
+      "after": "So we just, we're, we just alert- we just alerted the, the demonic thing that's holding Dimitaur."
+    },
+    {
+      "sourceId": "u3771",
+      "before": "... if Dimitar's being held captive, we don't want to, like, announce to his captor like, \"Hey, we're the s-",
+      "after": "... if Dimitaur's being held captive, we don't want to, like, announce to his captor like, \"Hey, we're the s-"
+    },
+    {
+      "sourceId": "u3773",
+      "before": "What if Dimitar's alert?",
+      "after": "What if Dimitaur's alert?"
+    },
+    {
+      "sourceId": "u3843",
+      "before": "Can I try and scry Dimitar?",
+      "after": "Can I try and scry Dimitaur?"
+    },
+    {
+      "sourceId": "u3846",
+      "before": "You should totally try to scry Dimitar.",
+      "after": "You should totally try to scry Dimitaur."
+    },
+    {
+      "sourceId": "u3894",
+      "before": "So this is like, uh, Home Alone Dimitar or edition.",
+      "after": "So this is like, uh, Home Alone Dimitaur edition."
+    },
+    {
+      "sourceId": "u3964",
+      "before": "Okay, well this hap- this is all happening after the links came.",
+      "after": "Okay, well this hap- this is all happening after the lynx came."
+    },
+    {
+      "sourceId": "u3967",
+      "before": "Well, no, the links would have-",
+      "after": "Well, no, the lynx would have-"
+    },
+    {
+      "sourceId": "u3968",
+      "before": "Oh, the links would've been there faster",
+      "after": "Oh, the lynx would've been there faster"
+    },
+    {
+      "sourceId": "u3969",
+      "before": "... the links got there in two minutes.",
+      "after": "... the lynx got there in two minutes."
+    },
+    {
+      "sourceId": "u3971",
+      "before": "Right, so you actually see the links waiting there.",
+      "after": "Right, so you actually see the lynx waiting there."
+    },
+    {
+      "sourceId": "u4065",
+      "before": "things they left behind and the people that they, other elves and humans that they could afford.",
+      "after": "things they left behind and the people that they, other elves and humans that they cared for."
+    },
+    {
+      "sourceId": "u4066",
+      "before": "Any way of telling where they were born, Agrilak?",
+      "after": "Any way of telling where they were born or grew up?"
+    },
+    {
+      "sourceId": "u4531",
+      "before": "... to do this tense. All right, I'm gonna.",
+      "after": "... to do this sense. All right, I'm gonna."
+    },
+    {
+      "sourceId": "u4553",
+      "before": "And crap, it's weather present.",
+      "after": "And crap, it's whether present."
+    },
+    {
+      "sourceId": "u4636",
+      "before": "Willby, stealthy?",
+      "after": "Wellby, stealthy?"
+    },
+    {
+      "sourceId": "u4660",
+      "before": "Is the stone gonna swing down and smashes the face or is it like just drop straight?",
+      "after": "Is the stone gonna swing down and smash us in the face or is it like just drop straight?"
+    },
+    {
+      "sourceId": "u4703",
+      "before": "God, I really want to say Dimitar, but we wouldn't have it at all.",
+      "after": "God, I really want to say Dimitaur, but we wouldn't have it at all."
+    },
+    {
+      "sourceId": "u4762",
+      "before": "In Dranikor with the Rai statues talking to the awakened soul monks.",
+      "after": "In Drankor with the Rai statues talking to the awakened soul monks."
+    },
+    {
+      "sourceId": "u4768",
+      "before": "... of the Beachmen monks and sort of Dranikor.",
+      "after": "... of the Bhishma monks and sort of Drankor."
+    },
+    {
+      "sourceId": "u4802",
+      "before": "Should I just turn this thing off with the spell magic?",
+      "after": "Should I just turn this thing off with dispel magic?"
+    },
+    {
+      "sourceId": "u4808",
+      "before": "It's just Dimitar like behind it pulling strings.",
+      "after": "It's just Dimitaur like behind it pulling strings."
+    },
+    {
+      "sourceId": "u4813",
+      "before": "Could I detect where Dimitar, where this creature's thoughts are?",
+      "after": "Could I detect where Dimitaur, where this creature's thoughts are?"
+    },
+    {
+      "sourceId": "u4906",
+      "before": "Irske, in the far north.",
+      "after": "Ursk, in the far north."
+    },
+    {
+      "sourceId": "u4907",
+      "before": "And one was in Irsk, in the far north.",
+      "after": "And one was in Ursk, in the far north."
+    },
+    {
+      "sourceId": "u5016",
+      "before": "Rogam's gonna be pissed.",
+      "after": "Ra'ghemdros's gonna be pissed."
+    },
+    {
+      "sourceId": "u5018",
+      "before": "Rogam's gonna be pissed.",
+      "after": "Ra'ghemdros's gonna be pissed."
+    },
+    {
+      "sourceId": "u5020",
+      "before": "Why is Rogam's gonna be pissed?",
+      "after": "Why is Ra'ghemdros's gonna be pissed?"
+    },
+    {
+      "sourceId": "u5021",
+      "before": "What do you know about Rogam- Rogam'dros?",
+      "after": "What do you know about Ra'ghemdros- Ra'ghemdros?"
+    },
+    {
+      "sourceId": "u5027",
+      "before": "Chaumut and Apollyon had a big fight, right?",
+      "after": "Cha'mutte and Apollyon had a big fight, right?"
+    },
+    {
+      "sourceId": "u5030",
+      "before": "You know Rogam'dros is Chaumut's daughter.",
+      "after": "You know Ra'ghemdros is Cha'mutte's daughter."
+    },
+    {
+      "sourceId": "u5037",
+      "before": "Why do I think of Chaumut having sex?",
+      "after": "Why do I think of Cha'mutte having sex?"
+    },
+    {
+      "sourceId": "u5118",
+      "before": "She hasn't seen too much",
+      "after": "She hasn't been seen too much"
+    },
+    {
+      "sourceId": "u5137",
+      "before": "I can make you a meal, Dimitar.",
+      "after": "I can make you a meal, Dimitaur."
+    },
+    {
+      "sourceId": "u5214",
+      "before": "Does Cha'mut have other children?",
+      "after": "Does Cha'mutte have other children?"
+    },
+    {
+      "sourceId": "u5230",
+      "before": "[laughs] Dimitar's-",
+      "after": "[laughs] Dimitaur's-"
+    },
+    {
+      "sourceId": "u5232",
+      "before": "... Dimitar's got some insights into how the world works.",
+      "after": "... Dimitaur's got some insights into how the world works."
+    },
+    {
+      "sourceId": "u5234",
+      "before": "Well, we should see what Dimitar says about that.",
+      "after": "Well, we should see what Dimitaur says about that."
+    },
+    {
+      "sourceId": "u5245",
+      "before": "Shemut has other children?",
+      "after": "Cha'mutte has other children?"
+    },
+    {
+      "sourceId": "u5247",
+      "before": "How do you know this is Shemut's daughter?",
+      "after": "How do you know this is Cha'mutte's daughter?"
+    },
+    {
+      "sourceId": "u5257",
+      "before": "I am Ra'ghemdros, daughter of Shemut.",
+      "after": "I am Ra'ghemdros, daughter of Cha'mutte."
+    },
+    {
+      "sourceId": "u5265",
+      "before": "We've only been here for half a day. So, so okay, so she's Shemut's daughter.",
+      "after": "We've only been here for half a day. So, so okay, so she's Cha'mutte's daughter."
+    },
+    {
+      "sourceId": "u5266",
+      "before": "She's here on some task that Shemut",
+      "after": "She's here on some task that Cha'mutte"
+    },
+    {
+      "sourceId": "u5273",
+      "before": "She was against Shemut, right?",
+      "after": "She was against Cha'mutte, right?"
+    },
+    {
+      "sourceId": "u5275",
+      "before": "You know who might be an ally killing Shemut's daughter?",
+      "after": "You know who might be an ally killing Cha'mutte's daughter?"
+    },
+    {
+      "sourceId": "u5291",
+      "before": "But she was an ally of Shemut?",
+      "after": "But she was an ally of Cha'mutte?"
+    },
+    {
+      "sourceId": "u5295",
+      "before": "She tried to trap Shemut in the mirror, and he was like, \"No, no, no, you go in the mirror.\"",
+      "after": "She tried to trap Cha'mutte in the mirror, and he was like, \"No, no, no, you go in the mirror.\""
+    },
+    {
+      "sourceId": "u5356",
+      "before": "Or Rizwin",
+      "after": "Or Riswynn"
+    },
+    {
+      "sourceId": "u5358",
+      "before": "be Rizwin. Or Rizwin.",
+      "after": "be Riswynn. Or Riswynn."
+    },
+    {
+      "sourceId": "u5359",
+      "before": "I wonder how Rizwin's doing. Oh, well.",
+      "after": "I wonder how Riswynn's doing. Oh, well."
+    },
+    {
+      "sourceId": "u5396",
+      "before": "the last place I know he was was Isingay.",
+      "after": "the last place I know he was was Isingue."
+    },
+    {
+      "sourceId": "u5397",
+      "before": "Isingay?",
+      "after": "Isingue?"
+    },
+    {
+      "sourceId": "u5402",
+      "before": "Remember we flew, we flew over Isingue in Vincharna.",
+      "after": "Remember we flew, we flew over Isingue in Vindristjarna."
+    },
+    {
+      "sourceId": "u5407",
+      "before": "That's the last place where I was?",
+      "after": "That's the last place where Rai was?"
+    },
+    {
+      "sourceId": "u5409",
+      "before": "That's when we went with the monks to try and-",
+      "after": "That's when he went with the monks to try and-"
+    },
+    {
+      "sourceId": "u5411",
+      "before": "That's the seat of chaos. He was trying to get rid of it.",
+      "after": "That's the Seed of Chaos. He was trying to get rid of it."
+    },
+    {
+      "sourceId": "u5453",
+      "before": "Oh, Dimitar.",
+      "after": "Oh, Dimitaur."
+    },
+    {
+      "sourceId": "u5500",
+      "before": "The story that I've fled, like many of us fled to the Feywild, to the Far East, all sorts of distant places when Drancor fell.",
+      "after": "The story that I've fled, like many of us fled to the Feywild, to the Far East, all sorts of distant places when Drankor fell."
+    },
+    {
+      "sourceId": "u5501",
+      "before": "Well, even before Drancor fell.",
+      "after": "Well, even before Drankor fell."
+    },
+    {
+      "sourceId": "u5503",
+      "before": "you know, took in with the Polyron, and a few took in with Cha'mutte, but most of us just got out of dodge.",
+      "after": "you know, took in with the Apollyon, and a few took in with Cha'mutte, but most of us just got out of dodge."
+    },
+    {
+      "sourceId": "u5546",
+      "before": "Shemuhitte?",
+      "after": "Cha'mutte?"
+    },
+    {
+      "sourceId": "u5547",
+      "before": "Shemuhitte.",
+      "after": "Cha'mutte."
+    },
+    {
+      "sourceId": "u5554",
+      "before": "I mean, Shemuhitte and Apollyon hated each other.",
+      "after": "I mean, Cha'mutte and Apollyon hated each other."
+    },
+    {
+      "sourceId": "u5566",
+      "before": "So is Shemuhitte's daughter's mission to d- protect the divine forge against Apollyon's return?",
+      "after": "So is Cha'mutte's daughter's mission to d- protect the divine forge against Apollyon's return?"
+    },
+    {
+      "sourceId": "u5584",
+      "before": "I mean, there is the, we team up with Shemuhitte's daughter and an evil hobgoblin wizard to kill Apollyon and let the consequences be somebody else's problem.",
+      "after": "I mean, there is the, we team up with Cha'mutte's daughter and an evil hobgoblin wizard to kill Apollyon and let the consequences be somebody else's problem."
+    },
+    {
+      "sourceId": "u5585",
+      "before": "Wait, the evil hobgoblin wizard is against Shemuhitte.",
+      "after": "Wait, the evil hobgoblin wizard is against Cha'mutte."
+    },
+    {
+      "sourceId": "u5590",
+      "before": "We either team up with the evil hobgoblin wizard to kill Shemuhitte's daughter.",
+      "after": "We either team up with the evil hobgoblin wizard to kill Cha'mutte's daughter."
+    },
+    {
+      "sourceId": "u5593",
+      "before": "Or we team up with Shemuhitte's daughter to kill Apollyon.",
+      "after": "Or we team up with Cha'mutte's daughter to kill Apollyon."
+    },
+    {
+      "sourceId": "u5654",
+      "before": "Well, and I, I thought, yeah, w- we wanna hear some more ride stories too.",
+      "after": "Well, and I, I thought, yeah, w- we wanna hear some more Rai stories too."
+    },
+    {
+      "sourceId": "u5655",
+      "before": "We can, we can do a little more Dimitar over the campfire.",
+      "after": "We can, we can do a little more Dimitaur over the campfire."
+    }
+  ],
+  "secondPassChanges": [
+    {
+      "sourceId": "u0201",
+      "before": "... reintroduced the cultural, the Deno'qai, to Yezali.",
+      "after": "... reintroduced the culture, the Deno'qai, to Yezali."
+    },
+    {
+      "sourceId": "u2576",
+      "before": "We need to bring this to dragonet Rebellion.",
+      "after": "We need to bring this to dragonet rebellion."
+    },
+    {
+      "sourceId": "u2578",
+      "before": "Sorry. dragonet Rebellion.",
+      "after": "Sorry. Dragonet rebellion."
+    },
+    {
+      "sourceId": "u4062",
+      "before": "uh, they first joined the army as a quarter master, and you see them cooking, right?",
+      "after": "uh, they first joined the army as a quartermaster, and you see them cooking, right?"
+    },
+    {
+      "sourceId": "u4110",
+      "before": "Like when you were in Ormos-",
+      "after": "Like when you were in Orenlas-"
+    },
+    {
+      "sourceId": "u4150",
+      "before": "very sort of open city where humans and elves and these Paranar, which are, like, the weird half elves, and anybody else, like, was super welcome.",
+      "after": "very sort of open city where humans and elves and these Peronar, which are, like, the weird half elves, and anybody else, like, was super welcome."
+    },
+    {
+      "sourceId": "u4187",
+      "before": "Well, the Paranar were part, were very much part of Drankorian-",
+      "after": "Well, the Peronar were part, were very much part of Drankorian-"
+    },
+    {
+      "sourceId": "u4188",
+      "before": "Yeah, like a lot of the early Drankorian emperors were Paranar.",
+      "after": "Yeah, like a lot of the early Drankorian emperors were Peronar."
+    },
+    {
+      "sourceId": "u4189",
+      "before": "So I mean, the elves here could have been Paranar, right?",
+      "after": "So I mean, the elves here could have been Peronar, right?"
+    },
+    {
+      "sourceId": "u4485",
+      "before": "Can you talk to the, or can you sense the weird clip material stone things?",
+      "after": "Can you talk to the, or can you sense the weird cliff material stone things?"
+    },
+    {
+      "sourceId": "u4764",
+      "before": "You had, it was like a dream you had like long ago in Dun.",
+      "after": "You had, it was like a dream you had like long ago in Dunmar."
+    },
+    {
+      "sourceId": "u5020",
+      "before": "Why is Ra'ghemdros's gonna be pissed?",
+      "after": "Why is Ra'ghemdros gonna be pissed?"
+    }
+  ],
+  "materialUnresolvedIssues": [],
+  "incidentalNoisePolicy": "Unclear incidental chatter and speaker slips retained verbatim. No material unresolved ASR markers remain."
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Revaka in the mirror",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The mirror conversation is a single attempted alliance with a distinct participant and outcome.",
+      "overview": "Revaka offers no useful bargain; the party leaves her imprisoned.",
+      "transitionToNext": "The party turns to its own plan for the dragon."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Preparing the dragon’s audience",
+      "beatIds": [
+        "beat-002",
+        "beat-003",
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "Planning the offer, preparing disguises, and securing Ghesh’s summons form the continuous effort to gain an audience with the dragon.",
+      "overview": "Plan the throne-for-jade offer, prepare disguises, and secure an audience through Ghesh.",
+      "transitionToNext": "The escorts lead the party to the baths."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Audience with Ra'ghemdros",
+      "beatIds": [
+        "beat-006",
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "The formal audience, bargaining, and probing of the dragon’s motives occur in one encounter.",
+      "overview": "Agree on the trade and discover clues to a guarded prisoner.",
+      "transitionToNext": "The dragon leaves; the party investigates the villa."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Scouting and the jade exchange",
+      "beatIds": [
+        "beat-009",
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "Reconnaissance during the agreed interval, a short rest, and completion of the exchange form the preparation for entering the villa.",
+      "overview": "Scout the trapped crypt, rest, and trade Apollyon’s throne for the last jade fragment.",
+      "transitionToNext": "Dimension Door carries the party into the cellar."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The fiend beneath the villa",
+      "beatIds": [
+        "beat-012",
+        "beat-013",
+        "beat-014",
+        "beat-015",
+        "beat-016",
+        "beat-017",
+        "beat-018",
+        "beat-019"
+      ],
+      "rationale": "Locating the guardian, preparing the ambush, and the uninterrupted fight form one dungeon encounter.",
+      "overview": "Ambush the fiend, rescue Delwath from the flames, and kill it.",
+      "transitionToNext": "Combat ends; the party searches for the prisoner."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "The Cloudspinner’s prison",
+      "beatIds": [
+        "beat-020",
+        "beat-021",
+        "beat-022",
+        "beat-023"
+      ],
+      "rationale": "The post-fight search and hazardous extraction form a continuous rescue operation.",
+      "overview": "Find the fire records, expose the portal, and extract the crystal.",
+      "transitionToNext": "The captive is secured; the party seeks somewhere safe."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "Shelter and the final jade vision",
+      "beatIds": [
+        "beat-024",
+        "beat-025",
+        "beat-026"
+      ],
+      "rationale": "The retreat to Dimitaur and decision to rest lead directly into the shared vision during that rest.",
+      "overview": "Seek shelter with Dimitaur, rest, and see Rai’s history with the dagger.",
+      "transitionToNext": "The lynx alarm wakes the rested party."
+    },
+    {
+      "sceneId": "scene-008",
+      "title": "Allies before dawn",
+      "beatIds": [
+        "beat-027",
+        "beat-028"
+      ],
+      "rationale": "Capturing the scouts and welcoming the halflings develop the same overnight recruitment effort.",
+      "overview": "Question scouts, welcome Milo and Tilly, and promise treasure for help.",
+      "transitionToNext": "The scouts leave; work begins on the lighthouse."
+    },
+    {
+      "sceneId": "scene-009",
+      "title": "Lighting the battlefield",
+      "beatIds": [
+        "beat-029",
+        "beat-030",
+        "beat-031"
+      ],
+      "rationale": "Repairs, deployments, and final preparations are one defensive setup around the temple complex.",
+      "overview": "Repair the lighthouse, place allies, and prepare as enemies approach.",
+      "transitionToNext": "Initiative begins as the attackers close."
+    },
+    {
+      "sceneId": "scene-010",
+      "title": "The dragon’s assault",
+      "beatIds": [
+        "beat-032",
+        "beat-033",
+        "beat-034",
+        "beat-035",
+        "beat-036",
+        "beat-037"
+      ],
+      "rationale": "The approaching vanguard, Ra'ghemdros’s appearance, and the ensuing melee form the opening phase of the battle before she turns on the lighthouse.",
+      "overview": "Repel the flying vanguard, survive the dragon’s first breath, and fight her and the chimeras.",
+      "transitionToNext": "Ra'ghemdros turns on the lighthouse to extinguish its protective light."
+    },
+    {
+      "sceneId": "scene-011",
+      "title": "The struggle for the light",
+      "beatIds": [
+        "beat-038",
+        "beat-039",
+        "beat-040",
+        "beat-041",
+        "beat-042"
+      ],
+      "rationale": "The dragon’s attack on the driftglobes shifts the battle to defending and restoring the light, culminating in Kenzo’s final blow and the return of sunrise.",
+      "overview": "Fight through failing light and darkness until Kenzo restores the lighthouse and kills the dragon.",
+      "transitionToNext": "With victory secured, the party heads for the hoard."
+    },
+    {
+      "sceneId": "scene-012",
+      "title": "The hoard and the voyage home",
+      "beatIds": [
+        "beat-043",
+        "beat-044",
+        "beat-045",
+        "beat-046"
+      ],
+      "rationale": "Exploring and distributing the hoard, packing, farewells, and departure form the resolution of the island expedition.",
+      "overview": "Divide the hoard, establish Dimitaur as protector, and sail back to Vindristjarna.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

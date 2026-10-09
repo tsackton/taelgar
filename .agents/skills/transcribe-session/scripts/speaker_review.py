@@ -38,6 +38,8 @@ DEFAULT_GROUPS_PER_SPEAKER = 3
 DEFAULT_REPRESENTATIVES = 3
 DEFAULT_REFINEMENT_GROUPS = 8
 DEFAULT_VERIFICATION_SAMPLES = 10
+# Combined recordings retain per-cue predictions and comparison provenance.
+MAX_ATTRIBUTION_REQUEST_BYTES = 8_000_000
 
 
 class SpeakerReviewError(RuntimeError):
@@ -1093,7 +1095,7 @@ def serve_review(args: argparse.Namespace) -> int:
                 return
             try:
                 length = int(self.headers.get("Content-Length", "0"))
-                if length <= 0 or length > 2_000_000:
+                if length <= 0 or length > MAX_ATTRIBUTION_REQUEST_BYTES:
                     raise SpeakerReviewError("invalid attribution request size")
                 payload = json.loads(self.rfile.read(length).decode("utf-8"))
                 validate_attributions(review, payload)
