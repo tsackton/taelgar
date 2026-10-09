@@ -1,0 +1,535 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Morning Above the Island",
+      "startUid": "u0001",
+      "endUid": "u0103",
+      "lineCount": 103,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening morning frame; the next beat explicitly retcons to before the preceding rest.",
+      "dateEvidence": [
+        "u0002–u0003 explicitly open in the morning; u0039 describes sunrise. YAML anchors this morning to 1749-05-19."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Scouting the Dragon’s Lair",
+      "startUid": "u0104",
+      "endUid": "u0390",
+      "lineCount": 287,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Explicit flashback to the preceding evening’s clairvoyance and aura reconnaissance.",
+      "dateEvidence": [
+        "u0104 explicitly retcons back to before the long rest; u0123–u0141 establish darkness and the following morning. Thus this reconnaissance belongs to the preceding evening, 1749-05-18, within a flashback."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Choosing the Tower First",
+      "startUid": "u0391",
+      "endUid": "u0650",
+      "lineCount": 260,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Return to the morning: farewell, aura reconnaissance, and travel options.",
+      "dateEvidence": [
+        "u0391 explicitly returns to the morning after the retrospective reconnaissance; this resumes the YAML-anchored 1749-05-19."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "A Flock of Ospreys",
+      "startUid": "u0651",
+      "endUid": "u0970",
+      "lineCount": 320,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Settle the animal-shape plan and its practical limits before departure.",
+      "dateEvidence": [
+        "Continuous morning planning after u0391, before the westward flight at u0971."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Flight to the Black Tower",
+      "startUid": "u0971",
+      "endUid": "u1152",
+      "lineCount": 182,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Travel west, animate the ladder, and inspect the tower from the air.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Darts Above the Battlements",
+      "startUid": "u1153",
+      "endUid": "u1454",
+      "lineCount": 302,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The tower guardians shoot the approaching birds; the party investigates the rooftop hatch.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Escape Through the Hatch",
+      "startUid": "u1455",
+      "endUid": "u1839",
+      "lineCount": 385,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The guardians rise to attack; the party opens the hatch and escapes into the ritual chamber.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "The Soulbinding Manacles",
+      "startUid": "u1840",
+      "endUid": "u2080",
+      "lineCount": 241,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Identify the chains and their role in making and feeding a lich’s phylactery.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Holding the Ritual Chamber",
+      "startUid": "u2081",
+      "endUid": "u2428",
+      "lineCount": 348,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Prepare a defensive position as the guardians approach; conjured lynxes fail to hurt them.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Arrows and the Ladder Barricade",
+      "startUid": "u2429",
+      "endUid": "u2760",
+      "lineCount": 332,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "First exchanges: Wellby blinds a guardian, Kenzo attacks, and the ladder absorbs the counterattack.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Reflected Magic and Renewed Blindness",
+      "startUid": "u2761",
+      "endUid": "u3092",
+      "lineCount": 332,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "A reflected spell changes tactics; Seeker becomes a bird and Wellby renews the blindness.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Holding Against the Counterattack",
+      "startUid": "u3093",
+      "endUid": "u3445",
+      "lineCount": 353,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo is knocked back; Delwath joins the melee and Seeker attacks in bird form.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "The Guardians Crumble",
+      "startUid": "u3446",
+      "endUid": "u3874",
+      "lineCount": 429,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo destroys the first guardian, and the party finishes the second.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-014",
+      "title": "Choosing the Mirror’s Question",
+      "startUid": "u3875",
+      "endUid": "u4171",
+      "lineCount": 297,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Heal, salvage the guardians, and choose to investigate the manacles with the mirror.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-015",
+      "title": "The Dagger Phylactery",
+      "startUid": "u4172",
+      "endUid": "u4474",
+      "lineCount": 303,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The mirror reveals the dagger’s forging and soul sacrifices; Seeker gathers adamantine scraps.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-016",
+      "title": "Two Books in the Ruins",
+      "startUid": "u4475",
+      "endUid": "u4800",
+      "lineCount": 326,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Descend through the decayed upper floors and recover two surviving magical books.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-017",
+      "title": "Bypassing the Haunted Floor",
+      "startUid": "u4801",
+      "endUid": "u5273",
+      "lineCount": 473,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Investigate the Omnis Pura chamber, bypass the moving metal, and search the living quarters.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-018",
+      "title": "Skeletons Behind the Audience Doors",
+      "startUid": "u5274",
+      "endUid": "u5447",
+      "lineCount": 174,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Explore the entrance floor and seal the awakening skeletons behind an immovable rod.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-019",
+      "title": "Radiance and a Released Curse",
+      "startUid": "u5448",
+      "endUid": "u5794",
+      "lineCount": 347,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Attack the skeletons from outside while the book’s curse forces Seeker to attack Delwath.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-020",
+      "title": "Elephants Steal a Throne",
+      "startUid": "u5795",
+      "endUid": "u6025",
+      "lineCount": 231,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "After the skeletons fall, transform into elephants to load the throne into the portable hole.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-021",
+      "title": "The Locked Basement Door",
+      "startUid": "u6026",
+      "endUid": "u6197",
+      "lineCount": 172,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Find the lower door and return to the audience chamber for a short rest.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-022",
+      "title": "Scouting and Opening the Forge",
+      "startUid": "u6198",
+      "endUid": "u6507",
+      "lineCount": 310,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Scout the forge, prepare at its door, and resolve the fireball trap; the next beat begins at the explicit call for initiative at u6508.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-023",
+      "title": "The Forge Battle Begins",
+      "startUid": "u6508",
+      "endUid": "u6820",
+      "lineCount": 313,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative begins against the sword and force hands; Soul Sight reveals the sword’s defenses and the party chooses its opening tactics.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-024",
+      "title": "The Sword Ignores the Door",
+      "startUid": "u6821",
+      "endUid": "u7219",
+      "lineCount": 399,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Sickening Radiance fills the forge, but the sword passes through the closed door and pursues them.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-025",
+      "title": "The Hands Force Their Way",
+      "startUid": "u7220",
+      "endUid": "u7541",
+      "lineCount": 322,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The hands force the door open; Wellby lands a critical shot as the sword attacks again.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-026",
+      "title": "Repositioning for the Smite",
+      "startUid": "u7542",
+      "endUid": "u7934",
+      "lineCount": 393,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo attacks at range, and Delwath uses Scatter to rescue Seeker before landing a critical smite.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-027",
+      "title": "The Sword Splits into Daggers",
+      "startUid": "u7935",
+      "endUid": "u8245",
+      "lineCount": 311,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The sword divides; Seeker abandons Animal Shapes to slow three daggers while the ladder grapples a hand.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-028",
+      "title": "Daggers and Hands Destroyed",
+      "startUid": "u8246",
+      "endUid": "u8678",
+      "lineCount": 433,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party destroys the remaining daggers and both hands while the ladder holds the passage.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-029",
+      "title": "The Forge’s Hidden Stores",
+      "startUid": "u8679",
+      "endUid": "u9035",
+      "lineCount": 357,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Search the forge and unlock the stone chest containing a rod, powders, and rings.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-030",
+      "title": "Asking the Tanshi About the Forge",
+      "startUid": "u9036",
+      "endUid": "u9397",
+      "lineCount": 362,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Inspect the rings and etching room, then ask how the forge works and what powers it.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-031",
+      "title": "The Spellbook’s Protective Glyph",
+      "startUid": "u9398",
+      "endUid": "u9733",
+      "lineCount": 336,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Retrieve the books, detect a glyph, and try unsuccessfully to dispel it before choosing the chime.",
+      "dateEvidence": [
+        "Session YAML anchors the main action to 1749-05-19; no new day occurs before the sunset return (u10076–u10086)."
+      ]
+    },
+    {
+      "beatId": "beat-032",
+      "title": "Reading Apollyon’s Encrypted Notes",
+      "startUid": "u9734",
+      "endUid": "u9969",
+      "lineCount": 236,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby survives the glyph; Seeker spends the afternoon decoding the forge instructions.",
+      "dateEvidence": [
+        "u9836–u9839: after an hour decoding it is about 4 p.m.; u9861–u9869 advance through further hours to about 6 p.m., on the same day."
+      ]
+    },
+    {
+      "beatId": "beat-033",
+      "title": "Dimitaur Burns the Lich Book",
+      "startUid": "u9970",
+      "endUid": "u10264",
+      "lineCount": 295,
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Contain the dangerous book, teleport back at sunset, and let Dimitaur destroy it.",
+      "dateEvidence": [
+        "u10076–u10079 explicitly place the teleport at sunset; u10246–u10250 discuss sleeping again, without narrating a new morning."
+      ]
+    }
+  ]
+}

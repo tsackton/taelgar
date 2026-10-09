@@ -1,0 +1,351 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-108/cleaned/dunmari-frontier-108-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Above the Wanderer",
+      "startUid": "u0001",
+      "endUid": "u0289",
+      "lineCount": 289,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The opening ascent and discussion of the island’s divine monuments form one orientation unit.",
+      "dateEvidence": [
+        "Session YAML drStart is 1749-05-18; u0501-u0504 later establish about 2 PM during the opening survey."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Surveying the ruined island",
+      "startUid": "u0290",
+      "endUid": "u0562",
+      "lineCount": 273,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The view becomes a practical survey of routes and destinations, ending with the approach to the nearest tower.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Dragonets at the ruined manor",
+      "startUid": "u0563",
+      "endUid": "u0848",
+      "lineCount": 286,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party scouts the dragonets and settles on Kenzo as their visible emissary.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "A friendly introduction",
+      "startUid": "u0849",
+      "endUid": "u1066",
+      "lineCount": 218,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo approaches in Draconic while the others observe, and senses the island’s living and plague-haunted places.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Dice and the dragon’s tribute",
+      "startUid": "u1067",
+      "endUid": "u1415",
+      "lineCount": 349,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Gambling establishes rapport with Ghesh and reveals the dragon’s tribute economy.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Buying Ghesh’s silence",
+      "startUid": "u1416",
+      "endUid": "u1706",
+      "lineCount": 291,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo negotiates an introduction to Megren and a clan-wide promise of secrecy.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Following and racing Ghesh",
+      "startUid": "u1707",
+      "endUid": "u2037",
+      "lineCount": 331,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party arranges invisible backup and travels toward Megren’s tower, with Kenzo racing their guide.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u2037 describes about an hour of travel."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Loyalties and forbidden places",
+      "startUid": "u2038",
+      "endUid": "u2217",
+      "lineCount": 180,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Ghesh explains local loyalties and warns about the forest, summit, and western ruins as they finish the journey.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Megren’s stolen jade",
+      "startUid": "u2218",
+      "endUid": "u2476",
+      "lineCount": 259,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Megren welcomes Kenzo and describes taking the jade and delivering it to the dragon’s lair.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "The acid-pool story",
+      "startUid": "u2477",
+      "endUid": "u2688",
+      "lineCount": 212,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Megren recounts a secondhand tale, Kenzo completes the social exchange, and Ghesh receives his payment.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Choosing the forest route",
+      "startUid": "u2689",
+      "endUid": "u3099",
+      "lineCount": 411,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The reunited party weighs theft, combat, and negotiation before deciding to seek the forest’s elder.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Toward the forest’s elder",
+      "startUid": "u3100",
+      "endUid": "u3401",
+      "lineCount": 302,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "An overland journey leads into the forest at evening, where Kenzo locates an old presence near the summit.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u3100-u3199 describe two hours of travel; u3147 gives about 7 PM at the forest."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "The corrupted memory pool",
+      "startUid": "u3402",
+      "endUid": "u3555",
+      "lineCount": 154,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party encounters a disturbing pool after nightfall and chooses to continue without attempting to cleanse it.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u3414-u3423 establish nightfall and about 8 PM."
+      ]
+    },
+    {
+      "beatId": "beat-014",
+      "title": "A message to the summit",
+      "startUid": "u3556",
+      "endUid": "u3839",
+      "lineCount": 284,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Clairvoyance and a spirit messenger accompany a single short rest while the party seeks a safe approach.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u3792 gives about 9 PM during the single one-hour short rest."
+      ]
+    },
+    {
+      "beatId": "beat-015",
+      "title": "Scrying the wary elder",
+      "startUid": "u3840",
+      "endUid": "u3998",
+      "lineCount": 159,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A retrospective clarification places Delwath’s scrying during that same short rest, revealing an elder preparing a trap.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u3961-u3994 explicitly place the scrying earlier within the same short rest, rather than adding another hour."
+      ]
+    },
+    {
+      "beatId": "beat-016",
+      "title": "Memories beneath the trees",
+      "startUid": "u3999",
+      "endUid": "u4348",
+      "lineCount": 350,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party reaches an elven memorial, experiences its memories, and converses with the forest.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u3999-u4010 describe reaching the memorial after roughly half an hour of further travel."
+      ]
+    },
+    {
+      "beatId": "beat-017",
+      "title": "The island’s deep history",
+      "startUid": "u4349",
+      "endUid": "u4563",
+      "lineCount": 215,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Shared memories, Kenzo’s carving, and Seeker’s stone sense close the forest visit and illuminate the island’s past.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-018",
+      "title": "The temple’s hidden guardian",
+      "startUid": "u4564",
+      "endUid": "u4878",
+      "lineCount": 315,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "At the summit, Wellby disarms the trap and the party presents its jade to the hidden speaker.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u4566-u4568 revise summit arrival from 10 PM to about 10:30 PM."
+      ]
+    },
+    {
+      "beatId": "beat-019",
+      "title": "Dimitaur reveals himself",
+      "startUid": "u4879",
+      "endUid": "u5151",
+      "lineCount": 273,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The elder emerges, names himself, and discusses Rai, the jade, and his years of hiding.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-020",
+      "title": "Rai and the lich’s secrets",
+      "startUid": "u5152",
+      "endUid": "u5416",
+      "lineCount": 265,
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The conversation turns to Rai’s failed mission, Apollyon’s phylactery, Drankor, and possible sources of help.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition."
+      ]
+    },
+    {
+      "beatId": "beat-021",
+      "title": "Dragon bargains and western ruins",
+      "startUid": "u5417",
+      "endUid": "u5690",
+      "lineCount": 274,
+      "dateStart": "1749-05-18",
+      "dateEnd": "1749-05-19",
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Dimitaur supplies further island history and warnings while the party weighs its next move and proposes a long rest.",
+      "dateEvidence": [
+        "Session YAML anchors the opening to 1749-05-18; the action continues on the same day without an intervening overnight transition.",
+        "u5639-u5644 propose further conversation and a long rest; u5688 closes with a good night’s rest. The user explicitly confirmed: “Include the overnight rest; retain May 19.” The beat therefore includes the overnight rest into 1749-05-19, without inventing a played waking scene."
+      ]
+    }
+  ]
+}

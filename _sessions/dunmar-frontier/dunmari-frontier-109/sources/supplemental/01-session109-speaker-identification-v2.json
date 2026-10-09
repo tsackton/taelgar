@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 2,
+  "completedAt": "2026-10-09T00:52:58.273708Z",
+  "status": "transcribed-and-speaker-verified-with-unresolved-cues",
+  "campaign": "Dunmari Frontier",
+  "session": 109,
+  "target": {
+    "metric": "Unknown speech duration",
+    "maximumPercentExclusive": 10,
+    "achieved": true
+  },
+  "sourceAudio": {
+    "id": "r01",
+    "audioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/raw_audio/Session-109-Chunk-01.m4a",
+    "audioSha256": "a5a41c369d53d0115776b882c49e8eeb9a91898ae900a3d385ab922102986da8",
+    "transcriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/Session-109-Chunk-01.scribe-v2.json",
+    "transcriptSha256": "0c8d679559fcbe256792ad3f213cd39b272b13a4693a0298df058aa9d36e6983",
+    "durationSeconds": 20325.653,
+    "decodedSampleRate": 16000,
+    "utteranceCount": 10264,
+    "clusteredUtteranceCount": 7964
+  },
+  "transcriptionManifest": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/Session-109-Chunk-01.transcription.json",
+    "sha256": "d44270288e264a6616094b22fcc05c4572efb1821bfb3b32893b217750729a89"
+  },
+  "scribeResponse": {
+    "transcriptionId": "CfdTpVP4N9f8RHT05Ihx",
+    "languageCode": "eng",
+    "languageProbability": 1.0,
+    "audioDurationSeconds": 20325.6533125,
+    "wordItemCount": 122211,
+    "cueCount": 8022,
+    "speakerIds": [
+      "speaker_0",
+      "speaker_1",
+      "speaker_10",
+      "speaker_11",
+      "speaker_12",
+      "speaker_13",
+      "speaker_14",
+      "speaker_15",
+      "speaker_16",
+      "speaker_17",
+      "speaker_18",
+      "speaker_2",
+      "speaker_3",
+      "speaker_4",
+      "speaker_5",
+      "speaker_6",
+      "speaker_7",
+      "speaker_8",
+      "speaker_9"
+    ],
+    "warnings": [],
+    "speakerSampleCount": 51
+  },
+  "identifiedVtt": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/Session-109-Chunk-01.identified-v2.vtt",
+    "sha256": "9824a4316c3a1e09f8f1ead397f5708d842aef024165c7e6c22cb84390076a0f"
+  },
+  "speakerReview": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/speaker-review/final-v2/session109-final-v2.speaker-review.json",
+    "sha256": "8c6a0e7b38ff247ddad1912f83a59fd0cc707bc880c7018a5e060a08331a3eda"
+  },
+  "speakerAttributions": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/speaker-review/final-v2/session109-final-v2.speaker-attributions.json",
+    "sha256": "f9d1a4037d1a823e99e4f46d83fa1b7c616a8a9c7a0c5b02a162722ba43e9c3f"
+  },
+  "recoveryListeningReport": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/speaker-review/final-v2/session109-recovery-listening-report.json",
+    "sha256": "d9f8f899a184ef83c3a1029e058e1f1f072674eeb8c1e24c45b7bf89e9e7c3fa"
+  },
+  "referenceBank": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/speaker-review/final-v1/reference-bank/reference-bank.json",
+    "sha256": "3e0bb64dde273653d026d9feb3f9f839376080b17bf604acb61c5d3e77421755"
+  },
+  "speakerCoverage": {
+    "cueCount": 10264,
+    "namedCueCount": 8142,
+    "unknownCueCount": 2122,
+    "unknownCuePercent": 20.674,
+    "transcribedSpeechSeconds": 15866.261,
+    "namedSpeechSeconds": 14356.544,
+    "unknownSpeechSeconds": 1509.717,
+    "unknownSpeechDurationPercent": 9.515,
+    "namedSpeechDurationPercent": 90.485,
+    "denominator": "Sum of segmented utterance durations, including any non-speech events within them; not total recording wall time.",
+    "byRole": {
+      "Unknown": {
+        "cueCount": 2122,
+        "speechSeconds": 1509.717
+      },
+      "DM": {
+        "cueCount": 3404,
+        "speechSeconds": 6483.139
+      },
+      "Delwath": {
+        "cueCount": 1388,
+        "speechSeconds": 2860.789
+      },
+      "Kenzo": {
+        "cueCount": 1013,
+        "speechSeconds": 1910.255
+      },
+      "Wellby": {
+        "cueCount": 1058,
+        "speechSeconds": 1369.773
+      },
+      "Seeker": {
+        "cueCount": 1279,
+        "speechSeconds": 1732.588
+      }
+    },
+    "unknownByReason": {
+      "model-disagreement": {
+        "cueCount": 91,
+        "speechSeconds": 203.581
+      },
+      "no-qualified-short-cue-assignment": {
+        "cueCount": 1783,
+        "speechSeconds": 936.963
+      },
+      "model-low-confidence": {
+        "cueCount": 59,
+        "speechSeconds": 130.835
+      },
+      "recovery-low-confidence-after-human-review": {
+        "cueCount": 188,
+        "speechSeconds": 235.918
+      },
+      "human-unknown": {
+        "cueCount": 1,
+        "speechSeconds": 2.42
+      }
+    }
+  },
+  "humanCorrectionsPreserved": {
+    "originalUnknown": {
+      "r01-u10184": {
+        "status": "unknown",
+        "participantId": null
+      }
+    },
+    "recoveryCorrections": {
+      "r01-u00117": {
+        "status": "assigned",
+        "participantId": "p04"
+      },
+      "r01-u02669": {
+        "status": "assigned",
+        "participantId": "p02"
+      },
+      "r01-u05893": {
+        "status": "assigned",
+        "participantId": "p04"
+      },
+      "r01-u09348": {
+        "status": "assigned",
+        "participantId": "p03"
+      }
+    }
+  },
+  "verification": {
+    "originalDurableSamples": {
+      "p01": {
+        "status": "confirmed",
+        "sampleUtteranceIds": [
+          "r01-u00017",
+          "r01-u01525",
+          "r01-u03216",
+          "r01-u04439",
+          "r01-u05834",
+          "r01-u06730",
+          "r01-u07560",
+          "r01-u08547",
+          "r01-u09657",
+          "r01-u10255"
+        ],
+        "confirmedAt": "2026-10-09T00:16:05.195Z"
+      },
+      "p02": {
+        "status": "confirmed",
+        "sampleUtteranceIds": [
+          "r01-u00024",
+          "r01-u01847",
+          "r01-u03464",
+          "r01-u04674",
+          "r01-u05425",
+          "r01-u06304",
+          "r01-u07197",
+          "r01-u08398",
+          "r01-u09623",
+          "r01-u10264"
+        ],
+        "confirmedAt": "2026-10-09T00:16:23.794Z"
+      },
+      "p03": {
+        "status": "confirmed",
+        "sampleUtteranceIds": [
+          "r01-u00005",
+          "r01-u01274",
+          "r01-u02169",
+          "r01-u02868",
+          "r01-u03909",
+          "r01-u05014",
+          "r01-u06325",
+          "r01-u07760",
+          "r01-u08754",
+          "r01-u10262"
+        ],
+        "confirmedAt": "2026-10-09T00:16:40.661Z"
+      },
+      "p04": {
+        "status": "confirmed",
+        "sampleUtteranceIds": [
+          "r01-u00030",
+          "r01-u00863",
+          "r01-u02082",
+          "r01-u03647",
+          "r01-u04661",
+          "r01-u05681",
+          "r01-u06665",
+          "r01-u08064",
+          "r01-u09243",
+          "r01-u10166"
+        ],
+        "confirmedAt": "2026-10-09T00:17:12.928Z"
+      },
+      "p05": {
+        "status": "confirmed",
+        "sampleUtteranceIds": [
+          "r01-u00016",
+          "r01-u00905",
+          "r01-u01617",
+          "r01-u02641",
+          "r01-u04231",
+          "r01-u04942",
+          "r01-u05999",
+          "r01-u07393",
+          "r01-u08947",
+          "r01-u10224"
+        ],
+        "confirmedAt": "2026-10-09T00:17:30.161Z"
+      }
+    },
+    "recoveryCompletion": {
+      "source": "explicit-user-message-in-current-chat",
+      "text": "okay, done",
+      "recordedAt": "2026-10-09T00:52:58.273708Z",
+      "scope": "Completion of the five grouped sections containing 50 recovered clips, with saved per-clip corrections.",
+      "uiStateNote": "Only Kenzo and DM section confirmations remain in the JSON. Cross-speaker corrections from the last section invalidate other participant confirmations in this UI. The user explicitly reported the entire review done; missing UI timestamps are not reconstructed."
+    },
+    "reviewedRecoveryClips": 50,
+    "newExplicitCorrections": 4
+  },
+  "validation": {
+    "all10264CueTextsAndTimesPreserved": true,
+    "sourceAudioHashUnchanged": true,
+    "rawServiceJsonHashUnchanged": true,
+    "originalScribeVttHashUnchanged": true,
+    "earlierReviewFilesUnchanged": true,
+    "all25ReferenceClipsStillValid": true
+  },
+  "supersedes": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/session109-speaker-identification.json",
+    "sha256": "8c92f70d075c195a33b33f7c4b0804ef17523bc000e3fd892a6211561914b2ed"
+  },
+  "previousIdentifiedVtt": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 109/transcription/scribe-v2/Session-109-Chunk-01.identified.vtt",
+    "sha256": "2b74c0b9da2f8eba816d9d0d2039d025313741b2b79257ad85f50ab4232081d3"
+  },
+  "limits": [
+    "Unknown names remain on 2,122 segments. These are primarily short or weak voice matches.",
+    "Transcript text remains first-pass ASR; cleanup and session-note preparation were not run.",
+    "The policy was refined from a targeted review, not an independent population test. The 46/50 initial matches and rejection of all four initial errors are diagnostic/calibration results, not an unbiased session-wide accuracy estimate."
+  ]
+}

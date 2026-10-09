@@ -22,6 +22,7 @@ function page(name) {
   vm.runInContext(html.match(/<script>([\s\S]*?)<\/script>/)[1], context);
   vm.runInContext(`
     var moves = 0, renders = 0;
+    var originalMoveToNextUnreviewed = typeof moveToNextUnreviewed === 'function' ? moveToNextUnreviewed : null;
     render = () => { renders += 1; };
     if (typeof moveToNextUnreviewed === 'function') moveToNextUnreviewed = () => { moves += 1; };
     if (typeof moveToNextOpen === 'function') moveToNextOpen = () => { moves += 1; };
@@ -137,4 +138,43 @@ test('a second audit click cannot change a pending save', async () => {
   complete({ok: true});
   await first;
   assert.equal(p.run('moves'), 1);
+});
+
+
+test('focused references retain clip order and let Previous revisit saved answers', async () => {
+  const p = reviewPage();
+  p.run(`
+    state.referenceIds = ['first', 'second', 'third', 'fourth', 'fifth', 'sixth'];
+    state.utteranceById = Object.fromEntries(state.referenceIds.map(id => [id, {id}]));
+    state.participantById = {p01: {gameRole: 'Kenzo'}, p02: {gameRole: 'Wellby'}};
+    state.labels.utteranceOverrides = Object.fromEntries(state.referenceIds.slice(0, 3).map(id => [id, {status: 'assigned', participantId: 'p01'}]));
+    state.savedLabels = JSON.stringify(state.labels);
+    state.index = 3;
+    moveToNextUnreviewed = originalMoveToNextUnreviewed;
+  `);
+  accept(p);
+  assert.deepEqual(p.value('items().map(item => item.id)'), ['first', 'second', 'third', 'fourth', 'fifth', 'sixth']);
+  await p.run("setLabel(items()[state.index], 'assigned', 'p02')");
+  assert.equal(p.run('state.index'), 4);
+  p.run('move(-1); move(-1)');
+  assert.equal(p.run('items()[state.index].id'), 'third');
+  await p.run("setLabel(items()[state.index], 'assigned', 'p02')");
+  assert.equal(p.run('state.index'), 2, 'correcting a saved answer stays on that clip');
+  assert.equal(p.run('state.labels.utteranceOverrides.third.participantId'), 'p02');
+  assert.equal(p.run('state.labels.utteranceOverrides.first.participantId'), 'p01');
+  const nav = p.run('navigationHtml(6)');
+  assert.equal((nav.match(/data-reference-index=/g) || []).length, 6);
+  assert.match(nav, /Clip 3 · Wellby/);
+  assert.doesNotMatch(nav, /id="previous" disabled/);
+});
+
+test('a failed focused-reference correction preserves the saved answer and position', async () => {
+  const p = reviewPage();
+  p.run("state.referenceIds = ['cue']; state.index = 0;");
+  const before = p.value('state.labels');
+  reject(p);
+  await p.run("setLabel({id: 'cue'}, 'assigned', 'p02')");
+  assert.deepEqual(p.value('state.labels'), before);
+  assert.equal(p.run('state.index'), 0);
+  assert.equal(p.run('moves'), 0);
 });

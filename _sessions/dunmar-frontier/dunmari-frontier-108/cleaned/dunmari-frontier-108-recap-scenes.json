@@ -1,0 +1,89 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "The View from the Wanderer",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The statue ascent, religious discussion, and terrain survey share one vantage point and the immediate goal of choosing where to go.",
+      "overview": "Survey the ruins and divine monuments; choose the nearest tower.",
+      "transitionToNext": "The party reaches a ruined manor occupied by dragonets."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Dice and a Promise of Secrecy",
+      "beatIds": [
+        "beat-003",
+        "beat-004",
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "Scouting, introduction, gambling, and payment negotiations are one continuous attempt to win Ghesh’s cooperation.",
+      "overview": "Kenzo gambles with Ghesh and promises a circlet for an introduction and silence.",
+      "transitionToNext": "Ghesh leads Kenzo toward Megren’s tower."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Ghesh, Megren, and the Missing Jade",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "At the user’s request, the journey with Ghesh and the visit to Megren form one scene: Ghesh’s introduction leads directly to learning where the jade went, and the visit concludes with his payment.",
+      "overview": "Travel with Ghesh, meet Megren, learn about the jade and lair, and pay the promised circlet.",
+      "transitionToNext": "The party leaves its hosts and regroups privately."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Seeking the Elder in the Forest",
+      "beatIds": [
+        "beat-011",
+        "beat-012",
+        "beat-013"
+      ],
+      "rationale": "At the user’s request, the strategy discussion and forest journey form one scene: the decision to seek the elder leads into the crossing, the pilgrim road, and the corrupted memory pool.",
+      "overview": "Choose to seek the elder, cross the island, enter the forest, and pass a corrupted memory pool.",
+      "transitionToNext": "The party stops to scout magically and rest."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "A Messenger and a Scrying",
+      "beatIds": [
+        "beat-014",
+        "beat-015"
+      ],
+      "rationale": "Both beats describe the same halt and short rest; the scrying is narrated retrospectively.",
+      "overview": "Scout the temples, send a lynx messenger, and see an elder building a trap.",
+      "transitionToNext": "The party resumes walking and reaches an elven memorial."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "The Forest Remembers",
+      "beatIds": [
+        "beat-016",
+        "beat-017"
+      ],
+      "rationale": "The memorial vision, conversation with the forest, shared memory, and stone examination all explore the island’s past during one visit.",
+      "overview": "Experience remembered lives and learn about the island’s ancient refuge and memorials.",
+      "transitionToNext": "The party leaves the forest and reaches the summit temples."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "Meeting Dimitaur",
+      "beatIds": [
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021"
+      ],
+      "rationale": "The trap, hidden voice, jade reveal, and ensuing conversation are one continuous encounter that changes from suspicion to trust and ends with rest.",
+      "overview": "Disarm the temple trap, befriend Dimitaur, discuss Rai and the dragon, and rest overnight.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

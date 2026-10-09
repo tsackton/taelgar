@@ -84,6 +84,7 @@
     .verification-sample-controls { margin-top: 9px; }
     .verification-sample-controls select { max-width: 100%; border: 1px solid var(--line); border-radius: 8px; background: var(--panel); color: var(--ink); padding: 7px 9px; }
     .nav { display: flex; justify-content: space-between; align-items: center; margin-top: 20px; }
+    .reference-clips { display: flex; flex-wrap: wrap; gap: 8px; margin: 12px 0 22px; }
     kbd { border: 1px solid var(--line); border-bottom-width: 2px; border-radius: 5px; padding: 1px 5px; font-size: 12px; }
     .empty { text-align: center; padding: 70px 30px; }
     audio { display: none; }
@@ -163,6 +164,8 @@
       if (state.referenceIds) {
         state.mode = 'exceptions';
         state.blockingOnly = false;
+        state.unreviewedFirst = false;
+        document.getElementById('show-unreviewed').hidden = true;
         document.title = 'Reference clips';
         document.querySelector('h1').textContent = 'Reference clips';
         for (const id of ['mode-groups', 'mode-exceptions', 'mode-verification', 'show-blocking']) document.getElementById(id).hidden = true;
@@ -243,7 +246,7 @@
 
     function items() {
       let values = state.mode === 'groups' ? [...state.review.groups] : exceptionItems();
-      if (state.unreviewedFirst) {
+      if (state.unreviewedFirst && !state.referenceIds) {
         values.sort((a, b) => Number(isReviewed(a)) - Number(isReviewed(b)) || a.id.localeCompare(b.id));
       }
       return values;
@@ -313,12 +316,13 @@
       const label = currentLabel(utterance);
       return `
         <div class="eyebrow">${state.referenceIds ? 'Reference clip' : (isBlockingException(utterance) ? 'Blocking exception' : 'Optional exception')} ${state.index + 1} of ${total}</div>
+        ${state.referenceIds ? navigationHtml(total) : ''}
         <h2>${state.referenceIds ? 'Who is speaking?' : escapeHtml(utterance.id)}</h2>
         <p class="meta">${escapeHtml(recording.audioPath.split('/').pop())} · ${formatTime(utterance.start)} · ${state.referenceIds ? 'identify this clip only; use Unknown or Overlap when needed' : (isBlockingException(utterance) ? 'resolve or refine before pipeline rendering' : 'short unclustered material may remain unknown')}</p>
         <div class="samples">${sampleHtml(utterance, 'Play utterance')}</div>
         ${peopleHtml(label)}
         <p class="status">${labelText(label)}</p>
-        ${navigationHtml(total)}
+        ${state.referenceIds ? '' : navigationHtml(total)}
       `;
     }
 
@@ -404,19 +408,31 @@
     }
 
     function navigationHtml(total) {
-      return `<div class="nav"><button id="previous" ${state.index === 0 ? 'disabled' : ''}>← Previous</button><span class="muted"><kbd>←</kbd> <kbd>→</kbd> navigate</span><button id="next" ${state.index + 1 >= total ? 'disabled' : ''}>Next →</button></div>`;
+      const clips = state.referenceIds ? `<div class="reference-clips" aria-label="Choose a reference clip">${state.referenceIds.map((id, index) => {
+        const label = state.labels.utteranceOverrides[id];
+        const saved = label?.status === 'assigned' ? state.participantById[label.participantId].gameRole
+          : label?.referenceDecision === 'overlap' ? 'Overlap' : label ? 'Unknown' : 'Not labeled';
+        return `<button data-reference-index="${index}" class="${index === state.index ? 'active' : ''}">Clip ${index + 1} · ${escapeHtml(saved)}</button>`;
+      }).join('')}</div>` : '';
+      return `<div class="nav"><button id="previous" ${state.index === 0 ? 'disabled' : ''}>← Previous</button><span class="muted"><kbd>←</kbd> <kbd>→</kbd> navigate</span><button id="next" ${state.index + 1 >= total ? 'disabled' : ''}>Next →</button></div>${clips}`;
     }
 
     function wireButtons(item) {
       document.querySelectorAll('.play').forEach(button => button.addEventListener('click', () => playSegment(button.dataset.recording, Number(button.dataset.start), Number(button.dataset.end))));
       document.querySelectorAll('[data-status]').forEach(button => button.addEventListener('click', () => setLabel(item, button.dataset.status, button.dataset.participant || null)));
       document.querySelector('[data-clear]').addEventListener('click', () => clearLabel(item));
+      document.querySelectorAll('[data-reference-index]').forEach(button => button.addEventListener('click', () => {
+        if (state.saving) return;
+        state.index = Number(button.dataset.referenceIndex);
+        render();
+      }));
       document.getElementById('previous').addEventListener('click', () => move(-1));
       document.getElementById('next').addEventListener('click', () => move(1));
     }
 
     async function setLabel(item, status, participantId) {
       if (state.saving) return;
+      const wasReviewed = isReviewed(item);
       const target = state.mode === 'groups' ? state.labels.groupLabels : state.labels.utteranceOverrides;
       const before = state.mode === 'groups' ? groupLabel(item.id) : effectiveLabel(item);
       target[item.id] = state.referenceIds
@@ -424,7 +440,10 @@
         : {status, participantId: status === 'assigned' ? participantId : null};
       const after = state.mode === 'groups' ? groupLabel(item.id) : effectiveLabel(item);
       if (!state.referenceIds) invalidateVerification(before, after);
-      if (await save()) moveToNextUnreviewed();
+      if (await save()) {
+        if (state.referenceIds && wasReviewed) render();
+        else moveToNextUnreviewed();
+      }
     }
 
     async function clearLabel(item) {
@@ -506,7 +525,7 @@
 
     function moveToNextUnreviewed() {
       const values = items();
-      if (state.unreviewedFirst) {
+      if (state.unreviewedFirst && !state.referenceIds) {
         const next = values.findIndex(item => !isReviewed(item));
         state.index = next >= 0 ? next : Math.max(0, values.length - 1);
       } else {

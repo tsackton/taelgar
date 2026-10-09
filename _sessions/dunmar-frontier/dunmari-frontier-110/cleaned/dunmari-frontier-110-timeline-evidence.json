@@ -1,0 +1,192 @@
+{
+  "inferredStart": "1749-05-20",
+  "inferredEnd": "1749-05-21",
+  "calendarAnchor": "The user approved May 20–21, 1749 after review. The prepared source gives a continuous opening morning, one overnight rest, and a same-day return. The existing Session 110 (DuFr) original notes explicitly identify the opening as the morning of May 20; its frontmatter had retained May 19.",
+  "interpretationNotes": [
+    "Calendar dates are inferred; explicit clock times in the transitions do not mean the transcript independently stated the calendar date.",
+    "The opening is already morning, confirmed at u1326-u1327. References to yesterday concern earlier play, not an added session day.",
+    "The fiend-room short rest, shadow-exhaustion healing rule, rest proposals, and historical years in the jade vision do not add days.",
+    "The abandoned twelve-hour Simulacrum plan does not delay waking: u8759-u8763 explicitly correct it.",
+    "The sunrise at the dragon’s death is described as a magical spectacle connected with the sunset scar. Do not infer a precise 5am combat endpoint from its appearance.",
+    "The passage of hours while reaching and sorting the hoard is explicit, but the voyage and arrival clock times are not. The prior note’s afternoon arrival is only secondary corroboration, so the primary-source transition remains clock-unknown."
+  ],
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session opens during the morning",
+      "date": "1749-05-20",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1326-u1327 confirm the ongoing planning is in the morning; u1731-u1747 place the subsequent visit to Ghesh at about 11am. One overnight follows (u8351, u8738-u8763). Secondary original notes explicitly identify May 20."
+    },
+    {
+      "uid": "u1731",
+      "label": "Arrival at Ghesh’s tower",
+      "date": "1749-05-20",
+      "time": "about 11am",
+      "basis": "explicit",
+      "evidence": "u1734 and u1747 explicitly say the party arrives about 11:00, after breakfast, planning, and flight. Calendar date inherited from the proposed opening anchor."
+    },
+    {
+      "uid": "u1928",
+      "label": "Escorts arrive",
+      "date": "1749-05-20",
+      "time": "about 1pm",
+      "basis": "explicit",
+      "evidence": "u1928: around one, three dragonets arrive to escort the party."
+    },
+    {
+      "uid": "u2063",
+      "label": "Audience at the baths",
+      "date": "1749-05-20",
+      "time": "about 2pm",
+      "basis": "inferred",
+      "evidence": "u1950 says the journey takes at least an hour from the 1pm escort arrival; u2529 explicitly fixes the audience at about 2:00."
+    },
+    {
+      "uid": "u3770",
+      "label": "Short rest before the exchange",
+      "date": "1749-05-20",
+      "time": "afternoon, before the agreed trade",
+      "basis": "explicit",
+      "evidence": "u3750-u3752 and u3770-u3774 establish an actual short rest before doing the deal; this is not a new day."
+    },
+    {
+      "uid": "u3824",
+      "label": "Throne-for-jade exchange",
+      "date": "1749-05-20",
+      "time": "about 4pm",
+      "basis": "inferred",
+      "evidence": "u2529 sets the audience at 2pm and u2533-u2535 agree to return in two hours; u3824 onward begins the elephant procession and exchange."
+    },
+    {
+      "uid": "u6506",
+      "label": "Prayer of Healing and short rest",
+      "date": "1749-05-20",
+      "time": "afternoon; ten-minute rest",
+      "basis": "explicit",
+      "evidence": "u6506 casts Prayer of Healing; u6601 and u6650-u6698 confirm the ten-minute short rest after the fiend fight."
+    },
+    {
+      "uid": "u7825",
+      "label": "Return to the summit",
+      "date": "1749-05-20",
+      "time": "late afternoon",
+      "basis": "explicit",
+      "evidence": "u7827 says late afternoon; u7834-u7839 estimate only fifteen or twenty minutes since leaving Ra'ghemdros and completing the prison rescue. Keep approximate timing rather than manufacture an exact clock."
+    },
+    {
+      "uid": "u8351",
+      "label": "Shelter before sunset",
+      "date": "1749-05-20",
+      "time": "about 5pm",
+      "basis": "explicit",
+      "evidence": "u8349-u8351 ask the time; the DM corrects 4pm to about 5pm, an hour before sunset."
+    },
+    {
+      "uid": "u8494",
+      "label": "Sleep and shared vision begin",
+      "date": "1749-05-20",
+      "time": "about 5pm, continuing overnight",
+      "basis": "explicit",
+      "evidence": "u8494 says everyone goes to sleep; u8520 introduces the shared dream. u8745-u8751 later confirm this is the eight-hour 5pm-to-1am rest. Historical years in the vision do not advance campaign time."
+    },
+    {
+      "uid": "u8728",
+      "label": "Rest completed; lynx alarm",
+      "date": "1749-05-21",
+      "time": "1am",
+      "basis": "explicit",
+      "evidence": "u8738 says 1:00 in the morning; u8751 confirms eight hours; u8759-u8763 withdraw the mistaken Simulacrum continuation and repeat 1am. This is the single supported midnight crossing."
+    },
+    {
+      "uid": "u9049",
+      "label": "Milo and Tilly arrive",
+      "date": "1749-05-21",
+      "time": "2am",
+      "basis": "explicit",
+      "evidence": "u9049-u9050 explicitly say an hour later, 2:00 in the morning, Milo and Tilly walk up the path."
+    },
+    {
+      "uid": "u9288",
+      "label": "Another hour passes; scouts released",
+      "date": "1749-05-21",
+      "time": "3am",
+      "basis": "inferred",
+      "evidence": "u9288 advances one hour, but u9289 repeats two o’clock. u9310 explicitly fixes the dragonets’ departure at 3:00 and u9311 says two hours remain until dawn; use that immediate source clarification."
+    },
+    {
+      "uid": "u9418",
+      "label": "Lighthouse repair interval",
+      "date": "1749-05-21",
+      "time": "about half an hour; predawn",
+      "basis": "explicit",
+      "evidence": "u9418 gives about half an hour to get the mechanism working; u9419 says the created part lasts five hours, which is a duration, not elapsed campaign time."
+    },
+    {
+      "uid": "u10291",
+      "label": "Enemy force reaches the light",
+      "date": "1749-05-21",
+      "time": "about fifteen minutes later; predawn",
+      "basis": "explicit",
+      "evidence": "u10291-u10294 advance fifteen minutes and describe four chimeras and thirteen dragonets approaching. No exact clock is supplied."
+    },
+    {
+      "uid": "u14085",
+      "label": "Dragon dies and sunrise appears",
+      "date": "1749-05-21",
+      "time": "sunrise",
+      "basis": "explicit",
+      "evidence": "u14085-u14093 describe the scar opening and the sun rising as the dragon dies; u14136 self-corrects sunset to sunrise, now. This is also a magical spectacle, so do not force a precise clock."
+    },
+    {
+      "uid": "u14168",
+      "label": "Journey into the lair",
+      "date": "1749-05-21",
+      "time": "following couple of hours",
+      "basis": "explicit",
+      "evidence": "u14168-u14176 compress a couple of hours descending to the lair and dealing with acid traps. u14333-u14337 establish that the party also short rested before reaching this part of the dungeon."
+    },
+    {
+      "uid": "u15143",
+      "label": "Sorting and packing treasure",
+      "date": "1749-05-21",
+      "time": "another couple of hours",
+      "basis": "explicit",
+      "evidence": "u15143-u15147 explicitly advance a couple of hours spent selecting valuables, gems, and coins."
+    },
+    {
+      "uid": "u15236",
+      "label": "Sailing through the storm",
+      "date": "1749-05-21",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u15236-u15247 narrate sailing through the storm and reaching Vindristjarna without another rest or day transition; exact voyage duration and arrival time are unstated."
+    },
+    {
+      "uid": "u15251",
+      "label": "Session ends aboard Vindristjarna",
+      "date": "1749-05-21",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u15247-u15252 establish arrival; u15275 ends during the ensuing discussion. The calendar date is inherited from the same-day voyage, while the clock time remains unknown."
+    }
+  ],
+  "issues": [
+    {
+      "detail": "The release narration repeats 2am after advancing an hour from the halflings’ 2am arrival.",
+      "evidence": "u9049, u9288-u9289, and the immediate clarification at u9310-u9311."
+    }
+  ],
+  "resolutions": {
+    "source:0": {
+      "by": "source",
+      "reason": "u9310 explicitly states the scouts are gone at 3am, and u9311 gives two hours until dawn; this resolves the immediately preceding repeated 2am without inventing elapsed days."
+    }
+  },
+  "dateApproval": {
+    "decision": "approve",
+    "scope": "User approved the displayed proposal changing only bundle session.yaml drStart from 1749-05-19 to 1749-05-20; drEnd remains 1749-05-21.",
+    "applied": true
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schemaVersion": 1,
+  "session": 108,
+  "createdAt": "2026-10-08T23:10:08.001723Z",
+  "stage": "transcription-and-speaker-attribution-complete",
+  "supersedes": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/session108-speaker-attribution-complete.json",
+    "sha256": "ffd656416f89a6ee1a78b5805f27036f071ea24d9829916cc9c65e654fd1f1d4"
+  },
+  "requiredUnknownSpeechPercentBelow": 10,
+  "metric": "Unknown cue duration / total transcribed cue duration, measured from the rendered VTT timestamps.",
+  "policy": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/coverage-policy.json",
+    "sha256": "ca3630f3544704184027d53f0dd249f6ec21be4dabcf40cfd46d3680a9f99657"
+  },
+  "parts": [
+    {
+      "part": 1,
+      "identifiedVtt": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/Session-108-Chunk-01.identified-v2.vtt",
+        "sha256": "d84e4c2d6959d4e5e21797ff784797a35e750d2a9ad9108ca66b15db696ee22f"
+      },
+      "review": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-01/session108-part01-final-v2.speaker-review.json",
+        "sha256": "a1f581ca2d1996b3a1e10b227aad17ba5825d3b76819193e62446fe3faa41d11"
+      },
+      "attributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-01/session108-part01-final-v2.speaker-attributions.json",
+        "sha256": "f86034e48a68ad64334808842911f9c61ee1df84efd96d0a42154c93000f929c"
+      },
+      "cueCount": 3093,
+      "cueCountsByRole": {
+        "DM": 1144,
+        "Delwath": 536,
+        "Unknown": 358,
+        "Kenzo": 863,
+        "Seeker": 71,
+        "Wellby": 121
+      },
+      "transcribedSpeechSeconds": 5699.745,
+      "unknownCueCount": 358,
+      "unknownSpeechSeconds": 335.161,
+      "unknownSpeechPercent": 5.8802806090447906,
+      "meetsTarget": true,
+      "newSubstantialVoiceMatches": 16,
+      "newShortCueLabels": 868,
+      "verifiedParticipants": 5,
+      "allHumanDecisionsPreserved": true,
+      "textAndTimingPreserved": true,
+      "rawSourcesUnchanged": true
+    },
+    {
+      "part": 2,
+      "identifiedVtt": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/Session-108-Chunk-02.identified-v2.vtt",
+        "sha256": "15dac475b13c7f47d56e40d3847f9f03b79836c79df0ac49cc0b282eb047b474"
+      },
+      "review": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-02/session108-part02-final-v2.speaker-review.json",
+        "sha256": "092fca9453dbea461e53fa48ff42ef56c35e61f8b338971bfa251fffadb24250"
+      },
+      "attributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 108/transcription/scribe-v2/speaker-review/coverage-v2/part-02/session108-part02-final-v2.speaker-attributions.json",
+        "sha256": "796902988f79e3d9a05577d3ffffdd90c3477335f1682a605fcf22dc41c2c0f6"
+      },
+      "cueCount": 2597,
+      "cueCountsByRole": {
+        "DM": 1005,
+        "Unknown": 515,
+        "Seeker": 84,
+        "Delwath": 193,
+        "Kenzo": 643,
+        "Wellby": 157
+      },
+      "transcribedSpeechSeconds": 4786.449,
+      "unknownCueCount": 515,
+      "unknownSpeechSeconds": 473.321,
+      "unknownSpeechPercent": 9.88877140443782,
+      "meetsTarget": true,
+      "newSubstantialVoiceMatches": 15,
+      "newShortCueLabels": 437,
+      "verifiedParticipants": 5,
+      "allHumanDecisionsPreserved": true,
+      "textAndTimingPreserved": true,
+      "rawSourcesUnchanged": true
+    }
+  ],
+  "notes": [
+    "The extra human-agreement veto was removed because the listening sample deliberately overrepresents disagreements. The original 80% model-agreement fallback criterion and minimum five-cue support remain in force.",
+    "Previously rejected substantial cues were rescored against human-confirmed local voices, with candidate-group exclusion and unchanged margin/cosine floors. The prior bank remains comparison evidence only.",
+    "All previous assigned labels, explicit human Unknown/Overlap decisions, corrections, text, timestamps, and raw files are preserved.",
+    "Coverage is not an independent accuracy measurement. Remaining weak or unsupported identities are still Unknown.",
+    "No new audio analysis, uploads, or listening requests were needed. Earlier versions are retained."
+  ],
+  "combined": {
+    "transcribedSpeechSeconds": 10486.194,
+    "unknownSpeechSeconds": 808.482,
+    "unknownSpeechPercent": 7.709966075393989,
+    "bothRecordingsMeetTarget": true
+  }
+}

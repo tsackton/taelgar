@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Scouting and Departure",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "The morning planning frame includes an explicit flashback to reconnaissance, then returns to the same decision about the day’s destination and transport.",
+      "overview": "Scout the dragon’s territory, leave Dimitaur, and choose to fly to the tower.",
+      "transitionToNext": "The ospreys depart and approach the tower."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Entering the Black Tower",
+      "beatIds": [
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "Travel culminates in a contested entry through the rooftop hatch; reaching the enclosed ritual chamber changes the immediate situation.",
+      "overview": "Fly west with the animated ladder and escape the rooftop guardians through the hatch.",
+      "transitionToNext": "Inside the chamber, the party examines the manacles while the guardians pursue."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Manacles and Stone Guardians",
+      "beatIds": [
+        "beat-008",
+        "beat-009",
+        "beat-010",
+        "beat-011",
+        "beat-012",
+        "beat-013"
+      ],
+      "rationale": "The brief identification occurs while the same pursuers are closing in; it leads directly into the defensive fight on the stairs.",
+      "overview": "Identify the soulbinding manacles and destroy the pursuing guardians at the stairs.",
+      "transitionToNext": "With the threat defeated, the party can heal and consult the mirror."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Dagger in the Mirror",
+      "beatIds": [
+        "beat-014",
+        "beat-015"
+      ],
+      "rationale": "Recovery and the choice of a mirror question lead into one focused investigation of the phylactery.",
+      "overview": "The mirror reveals Apollyon’s dagger phylactery and the ritual used to create it.",
+      "transitionToNext": "The party leaves the ritual chamber and searches lower floors."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Books and Haunted Rooms",
+      "beatIds": [
+        "beat-016",
+        "beat-017"
+      ],
+      "rationale": "A continuous descent through ruined upper floors centers on finding books and bypassing the unexplored moving-metal room.",
+      "overview": "Recover two magical books, bypass moving metal, and loot the living quarters.",
+      "transitionToNext": "At ground level, Wellby opens the audience chamber."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Skeletons and the Descent Below",
+      "beatIds": [
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021",
+        "beat-022"
+      ],
+      "rationale": "At the user’s request, this scene includes the skeleton chamber, throne removal, rest, forge reconnaissance, and door trap, ending immediately before the call for initiative at u6508.",
+      "overview": "Destroy the skeletons, remove the throne, rest, scout the forge, and trigger its door trap.",
+      "transitionToNext": "After the fireball resolves, initiative begins against the sword and force hands."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "The Forge’s Defenders",
+      "beatIds": [
+        "beat-023",
+        "beat-024",
+        "beat-025",
+        "beat-026",
+        "beat-027",
+        "beat-028"
+      ],
+      "rationale": "At the user’s request, this scene begins with initiative at u6508 and contains only the uninterrupted forge battle, through the destruction of the last force hand.",
+      "overview": "Fight the void sword, its splitting daggers, and the force hands.",
+      "transitionToNext": "With the defenders gone, the party searches the forge and its side rooms."
+    },
+    {
+      "sceneId": "scene-008",
+      "title": "Secrets and the Return to Dimitaur",
+      "beatIds": [
+        "beat-029",
+        "beat-030",
+        "beat-031",
+        "beat-032",
+        "beat-033"
+      ],
+      "rationale": "The user requested merging the forge investigation and its aftermath at Dimitaur’s temple into one final scene.",
+      "overview": "Recover treasures, decipher the forge instructions, and return to Dimitaur, who burns the lich book.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

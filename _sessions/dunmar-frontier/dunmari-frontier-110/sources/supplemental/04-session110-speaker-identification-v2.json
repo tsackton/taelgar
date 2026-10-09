@@ -1,0 +1,298 @@
+{
+  "schemaVersion": 2,
+  "session": 110,
+  "campaign": "Dunmari Frontier",
+  "completedAt": "2026-10-09T00:25:06.609414Z",
+  "status": "transcription and speaker attribution complete",
+  "metric": "Unknown cue duration divided by total transcribed cue duration, measured from rendered VTT timestamps; combined across both sequential recording parts.",
+  "requiredUnknownSpeechPercentBelow": 10,
+  "previousFinalReport": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/session110-speaker-identification.json",
+    "sha256": "e31275f402b8ac808ec4ba31122191bfdddc29929f804ad05e328bd8f9c1d76d"
+  },
+  "sourceCandidateReport": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/session108-comparison/session110-session108-checked-candidate.json",
+    "sha256": "3696306a9672acf9eb8290d1c63e00f5832e382da14ae23ceaa8107d9ecf0553"
+  },
+  "groupedVerification": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-completed-grouped-verification.json",
+    "sha256": "afd3ee49cedad4b3f8c9d41723aa577e6d4a2629a3e8a1ccd218c58845139770",
+    "correctionCount": 3,
+    "samplesPerParticipant": 10,
+    "browserConfirmedParticipants": [
+      "p02",
+      "p04",
+      "p05"
+    ],
+    "userCompletionReconciledParticipants": [
+      "p01",
+      "p03"
+    ]
+  },
+  "session108Comparison": {
+    "createdAt": "2026-10-08T23:48:28.134992Z",
+    "comparisonPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/session108-comparison/session110-session108-comparison.json",
+    "comparisonSha256": "0ba1d0e385fcde600037f3fddd96f9611e065c2da4c1833749a6a05a3ea01033",
+    "localHumanScoresPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/short-segments/session110-short-scores-human-only.json",
+    "localHumanScoresSha256": "8fc1ca36f877ef5d94d94ee6ec2a0f6811cc6ff66627605910794cc3c5f78f52",
+    "localVerifiedScoresPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/short-segments/session110-short-scores-verified-profiles.json",
+    "localVerifiedScoresSha256": "f9e0f4fb4c57e16be8eb7e279776621465166ac0d5358ad1efc10d30a6c94ca2",
+    "policy": {
+      "scope": "Only automatic Scribe-ID fallback assignments strongly disputed by both Session 108 reference banks.",
+      "replaceFallbackWhen": "Both Session 108 banks and both Session 110 reference profiles agree on one alternative, each at margin >= 0.10 and cosine >= 0.30.",
+      "otherwise": "Mark the strongly disputed automatic fallback Unknown.",
+      "humanDecisions": "Preserve every explicit human assignment and Unknown/Overlap, plus all prior confirmed samples.",
+      "otherLabels": "Keep all remaining candidate labels unchanged.",
+      "scribePurity": "Do not use new predictions to inflate Scribe-ID purity."
+    },
+    "diagnostics": {
+      "validationCrops": {
+        "count": 207,
+        "correctCount": 207,
+        "expectedParticipantCounts": {
+          "p04": 69,
+          "p01": 22,
+          "p03": 39,
+          "p02": 44,
+          "p05": 33
+        }
+      },
+      "fullClipGroupHoldouts": {
+        "count": 85,
+        "correctCount": 85,
+        "expectedParticipantCounts": {
+          "p04": 25,
+          "p01": 10,
+          "p03": 17,
+          "p05": 16,
+          "p02": 17
+        }
+      }
+    },
+    "correctedFallbackCount": 177,
+    "disputedFallbackNowUnknownCount": 20,
+    "newShortCandidateComparison": {
+      "counts": {
+        "both-agree": 2331,
+        "one-agrees": 126,
+        "both-disagree": 23,
+        "neither-agrees-split": 4
+      },
+      "durationSeconds": {
+        "both-agree": 2546.703,
+        "one-agrees": 133.401,
+        "both-disagree": 23.54,
+        "neither-agrees-split": 3.4
+      },
+      "bothConfidentlyDisagreeCount": 0,
+      "bothConfidentlyDisagreeUtteranceIds": []
+    },
+    "verificationStatus": "completed; see final grouped verification evidence"
+  },
+  "recordings": [
+    {
+      "part": 1,
+      "recordingId": "r01",
+      "identifiedVtt": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-01.identified-v2.vtt",
+      "identifiedVttSha256": "508040b1772fdc908a8aa18fe315bff63f947b26720178db1e07b1da4b21a83c",
+      "finalReview": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part1.speaker-review.json",
+      "finalReviewSha256": "cc78813b43acea2cd630267d94158baed3e1f8580a85edf64adc8fa203d896af",
+      "finalAttributions": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part1.speaker-attributions.json",
+      "finalAttributionsSha256": "77a9b0617dfba251b6668c0fb913101719f9e6de1c3bf84b7f0f4863f8deb85e",
+      "utteranceCount": 7817,
+      "speakerCounts": {
+        "Kenzo": 998,
+        "Wellby": 681,
+        "Seeker": 626,
+        "Unknown": 1473,
+        "Delwath": 2032,
+        "DM": 2007
+      },
+      "transcribedSpeechSeconds": 12503.14,
+      "unknownCueCount": 1473,
+      "unknownSpeechSeconds": 931.158,
+      "unknownSpeechPercent": 7.447393214824436,
+      "humanCorrectionsImported": 2,
+      "verifiedParticipants": 5,
+      "newGroupedVerificationSamples": 25,
+      "previousLongVerificationSamples": 25,
+      "unknownReasons": {
+        "model-low-confidence": {
+          "cueCount": 126,
+          "speechSeconds": 268.019
+        },
+        "unsupported-short-cue": {
+          "cueCount": 1333,
+          "speechSeconds": 645.359
+        },
+        "blind-audit": {
+          "cueCount": 2,
+          "speechSeconds": 3.18
+        },
+        "session108-disputed-scribe-fallback": {
+          "cueCount": 11,
+          "speechSeconds": 12.9
+        },
+        "reference-listening": {
+          "cueCount": 1,
+          "speechSeconds": 1.7
+        }
+      },
+      "validation": {
+        "allTextTimingOrderPreserved": true,
+        "allHumanDecisionsPreserved": true,
+        "rawScribeJsonAndVttHashesUnchanged": true,
+        "earlierIdentifiedAndCandidateVttHashesUnchanged": true,
+        "savedReferenceBankIdentitiesStillValid": true,
+        "allowUnverifiedUsed": false
+      },
+      "audioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/raw_audio/Session-110-Chunk-01.m4a",
+      "audioSha256": "e9f90262521baaab5b2aa36699427c0bedd03602b2e1a82b7ab68ac0974dedba",
+      "rawScribeJson": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-01.scribe-v2.json",
+      "rawScribeJsonSha256": "32e8c27b8aefecaa36275a1789cca50b2e7a687f060083c09bc7a41c47a97818",
+      "rawVtt": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-01.transcript.vtt",
+      "rawVttSha256": "b6fa6501a8a12e653d71f26fc9bb96b73ddf499b4655a5f0b3c61d3279f172d9",
+      "transcriptionManifest": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-01.transcription.json",
+      "transcriptionManifestSha256": "ce6da0e7b457de49ea9922ed026eea06de261553b18b2909272b5422c9df06e4",
+      "transcriptionModel": "scribe_v2",
+      "responseLanguage": "eng",
+      "responseLanguageProbability": 1.0,
+      "transcriptionWarnings": [],
+      "detectedScribeSpeakerIds": [
+        "speaker_0",
+        "speaker_1",
+        "speaker_10",
+        "speaker_11",
+        "speaker_12",
+        "speaker_13",
+        "speaker_14",
+        "speaker_15",
+        "speaker_16",
+        "speaker_17",
+        "speaker_18",
+        "speaker_19",
+        "speaker_2",
+        "speaker_20",
+        "speaker_21",
+        "speaker_22",
+        "speaker_23",
+        "speaker_3",
+        "speaker_4",
+        "speaker_5",
+        "speaker_6",
+        "speaker_7",
+        "speaker_8",
+        "speaker_9"
+      ],
+      "scribePreviewSampleCount": 59,
+      "originalScribeCueCount": 6043,
+      "referenceBankPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/reference-banks/part-01/reference-bank.json",
+      "referenceBankSha256": "bfde40453c9bf96e72c750fe11dc0d0994813640479f443490f5d136af18c425",
+      "verifiedReferenceClipCount": 25
+    },
+    {
+      "part": 2,
+      "recordingId": "r02",
+      "identifiedVtt": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-02.identified-v2.vtt",
+      "identifiedVttSha256": "de4414baefc0077ae9cf13bc9552d24f9c3749057df627803aaa92cfc80ba893",
+      "finalReview": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part2.speaker-review.json",
+      "finalReviewSha256": "e3b18e24d7732791703ad4d996d0b0282b3b01f7e9deeb458877b33f6816c9a3",
+      "finalAttributions": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part2.speaker-attributions.json",
+      "finalAttributionsSha256": "b79426af90af35d4e801b787770de2816417fbbb4dde58fa51a8270696108d4c",
+      "utteranceCount": 7458,
+      "speakerCounts": {
+        "Seeker": 475,
+        "DM": 2501,
+        "Unknown": 1992,
+        "Delwath": 1143,
+        "Wellby": 633,
+        "Kenzo": 714
+      },
+      "transcribedSpeechSeconds": 11206.707,
+      "unknownCueCount": 1992,
+      "unknownSpeechSeconds": 1406.938,
+      "unknownSpeechPercent": 12.554428343669555,
+      "humanCorrectionsImported": 1,
+      "verifiedParticipants": 5,
+      "newGroupedVerificationSamples": 25,
+      "previousLongVerificationSamples": 25,
+      "unknownReasons": {
+        "unsupported-short-cue": {
+          "cueCount": 1805,
+          "speechSeconds": 982.959
+        },
+        "model-low-confidence": {
+          "cueCount": 175,
+          "speechSeconds": 406.699
+        },
+        "session108-disputed-scribe-fallback": {
+          "cueCount": 9,
+          "speechSeconds": 11.66
+        },
+        "blind-audit": {
+          "cueCount": 3,
+          "speechSeconds": 5.62
+        }
+      },
+      "validation": {
+        "allTextTimingOrderPreserved": true,
+        "allHumanDecisionsPreserved": true,
+        "rawScribeJsonAndVttHashesUnchanged": true,
+        "earlierIdentifiedAndCandidateVttHashesUnchanged": true,
+        "savedReferenceBankIdentitiesStillValid": true,
+        "allowUnverifiedUsed": false
+      },
+      "audioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/raw_audio/Session-110-Chunk-02.m4a",
+      "audioSha256": "7dd3856a20efb37bde515721e9f86ac62182d06eb5ac4ab841700aaf8b01bfb4",
+      "rawScribeJson": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-02.scribe-v2.json",
+      "rawScribeJsonSha256": "2284f0e7ff4b54ede27edaf3a1257e53d7101eb8792fb8fbed8cfe96a67771af",
+      "rawVtt": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-02.transcript.vtt",
+      "rawVttSha256": "0455332346408615814c341fd50cb09b6780529dae4f6a122cc3cc0812bcade2",
+      "transcriptionManifest": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-02.transcription.json",
+      "transcriptionManifestSha256": "2735fd6777e4455181df608a77efa49292cd3e99fb864657b431a834ad736b55",
+      "transcriptionModel": "scribe_v2",
+      "responseLanguage": "eng",
+      "responseLanguageProbability": 1.0,
+      "transcriptionWarnings": [],
+      "detectedScribeSpeakerIds": [
+        "speaker_0",
+        "speaker_1",
+        "speaker_10",
+        "speaker_11",
+        "speaker_12",
+        "speaker_13",
+        "speaker_14",
+        "speaker_15",
+        "speaker_16",
+        "speaker_17",
+        "speaker_2",
+        "speaker_3",
+        "speaker_4",
+        "speaker_5",
+        "speaker_6",
+        "speaker_7",
+        "speaker_8",
+        "speaker_9"
+      ],
+      "scribePreviewSampleCount": 51,
+      "originalScribeCueCount": 5715,
+      "referenceBankPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/reference-banks/part-02/reference-bank.json",
+      "referenceBankSha256": "37b275ff30b9521c61cf1b0a97edddf96a30586c0f63ba16154e5bd5ab58449b",
+      "verifiedReferenceClipCount": 25
+    }
+  ],
+  "notes": [
+    "Both recordings retain their own timestamps. The gap between recordings is unresolved, so they are not concatenated.",
+    "Human listening decisions take precedence over every model and Scribe-ID fallback. Three final listening corrections were imported individually.",
+    "Prior raw JSON, raw VTT, calibration artifacts, reviews, comparison layers, reference banks, drafts and earlier identified transcripts remain available unchanged.",
+    "The browser cleared destination-participant confirmations when clips were reassigned. The user completed the whole review; the unchanged Kenzo and Delwath selections are reconciled with explicit user-message provenance, not attributed to browser clicks.",
+    "The result meets the combined-session Unknown speech target. Coverage is not a speaker-accuracy estimate.",
+    "No transcript cleanup or vault source preparation was performed."
+  ],
+  "totalUtterances": 15275,
+  "transcribedSpeechSeconds": 23709.847,
+  "unknownCueCount": 3465,
+  "unknownSpeechSeconds": 2338.096,
+  "unknownSpeechPercent": 9.861286747232068,
+  "meetsCombinedSpeechTarget": true
+}

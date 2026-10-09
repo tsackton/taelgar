@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "kind": "ordered-session-transcript",
+  "sessionNumber": 110,
+  "clock": "cumulative-recorded-audio",
+  "interRecordingGapSeconds": null,
+  "timingNote": "Ordered recordings use a synthetic playback clock based on rounded probed media durations; no real-world gap is inferred. Convert a combined time to source time by subtracting the part offset. The original audio files remain separate.",
+  "durationProbe": "ffprobe format.duration, rounded to the nearest millisecond; container durations can include small codec padding differences from decoded-audio lengths.",
+  "allocationManifest": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/dunmar-frontier-circular-island-sessions-108-110.yaml",
+    "sha256": "ad9875ac9a10374ad2373ba9db8a6808e4c7eacf03587d508e3a8ee9682caaff"
+  },
+  "speakerAttributionReport": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/session110-speaker-identification-v2.json",
+    "sha256": "948500f13685cb877df367d323daed99ab2459d0c938746b45b385ce5e292b74"
+  },
+  "parts": [
+    {
+      "sequence": 1,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-01.identified-v2.vtt",
+      "sourceTranscriptSha256": "508040b1772fdc908a8aa18fe315bff63f947b26720178db1e07b1da4b21a83c",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/raw_audio/Session-110-Chunk-01.m4a",
+      "sourceAudioSha256": "e9f90262521baaab5b2aa36699427c0bedd03602b2e1a82b7ab68ac0974dedba",
+      "recordedDurationMilliseconds": 15925290,
+      "probedContainerDurationSeconds": "15925.289796",
+      "timelineOffsetMilliseconds": 0,
+      "firstCombinedCueIndex": 1,
+      "lastCombinedCueIndex": 7817,
+      "cueCount": 7817,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part1.speaker-review.json",
+        "sha256": "cc78813b43acea2cd630267d94158baed3e1f8580a85edf64adc8fa203d896af"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part1.speaker-attributions.json",
+        "sha256": "77a9b0617dfba251b6668c0fb913101719f9e6de1c3bf84b7f0f4863f8deb85e"
+      }
+    },
+    {
+      "sequence": 2,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/Session-110-Chunk-02.identified-v2.vtt",
+      "sourceTranscriptSha256": "de4414baefc0077ae9cf13bc9552d24f9c3749057df627803aaa92cfc80ba893",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/raw_audio/Session-110-Chunk-02.m4a",
+      "sourceAudioSha256": "7dd3856a20efb37bde515721e9f86ac62182d06eb5ac4ab841700aaf8b01bfb4",
+      "recordedDurationMilliseconds": 14797241,
+      "probedContainerDurationSeconds": "14797.241179",
+      "timelineOffsetMilliseconds": 15925290,
+      "firstCombinedCueIndex": 7818,
+      "lastCombinedCueIndex": 15275,
+      "cueCount": 7458,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part2.speaker-review.json",
+        "sha256": "e3b18e24d7732791703ad4d996d0b0282b3b01f7e9deeb458877b33f6816c9a3"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/speaker-review/finalized-v2/session110-identified-v2-part2.speaker-attributions.json",
+        "sha256": "b79426af90af35d4e801b787770de2816417fbbb4dde58fa51a8270696108d4c"
+      }
+    }
+  ],
+  "combinedTranscript": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 110/transcription/scribe-v2/source-prep/Session110-ordered.identified.vtt",
+    "sha256": "559b08133b180a6e47385263183ed76a8bfdc93c73b870068ebcdc81c445ea1e",
+    "cueCount": 15275,
+    "recordedDurationMilliseconds": 30722531,
+    "transcribedSpeechMilliseconds": 23709847,
+    "unknownSpeechMilliseconds": 2338096,
+    "unknownSpeechPercent": 9.861286747232068,
+    "speakerCueCounts": {
+      "Kenzo": 1712,
+      "Wellby": 1314,
+      "Seeker": 1101,
+      "Unknown": 3465,
+      "Delwath": 3175,
+      "DM": 4508
+    }
+  },
+  "validation": {
+    "textSpeakerOrderAndDurationPreserved": true,
+    "allSourceTranscriptReviewAndAttributionHashesVerified": true,
+    "webvttParserCueAndLabelCountsVerified": true,
+    "noInferredPhysicalGap": true,
+    "sourceFilesUnchanged": true
+  }
+}

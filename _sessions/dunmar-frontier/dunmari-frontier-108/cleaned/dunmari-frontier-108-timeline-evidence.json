@@ -1,0 +1,130 @@
+{
+  "inferredStart": "1749-05-18",
+  "inferredEnd": "1749-05-19",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1749-05-18",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "YAML drStart anchors May 18; u0003-u0018 open at the Wanderer statue and u0504 explicitly places the ongoing survey at about 2 PM."
+    },
+    {
+      "uid": "u0504",
+      "label": "Survey at the Wanderer",
+      "date": "1749-05-18",
+      "time": "about 14:00",
+      "basis": "explicit",
+      "evidence": "u0504: the DM states that it is about 2:00 in the afternoon."
+    },
+    {
+      "uid": "u2037",
+      "label": "Approaching Megren after travel",
+      "date": "1749-05-18",
+      "time": "afternoon; about one hour traveled",
+      "basis": "explicit",
+      "evidence": "u2037: the DM says they are getting close and it has been about an hour; no precise arrival clock is supplied."
+    },
+    {
+      "uid": "u3147",
+      "label": "Arrival at the forest",
+      "date": "1749-05-18",
+      "time": "about 19:00",
+      "basis": "explicit",
+      "evidence": "u3100-u3137 describe roughly two hours of overland travel; u3147 explicitly places entry into the forest at 7:00, with the light getting low."
+    },
+    {
+      "uid": "u3346",
+      "label": "Sunset on the pilgrim road",
+      "date": "1749-05-18",
+      "time": "sunset",
+      "basis": "explicit",
+      "evidence": "u3341-u3348 describe walking as the sun sinks over about an hour; this is approximate narration, not a separate date transition."
+    },
+    {
+      "uid": "u3423",
+      "label": "Nightfall and the memory pool",
+      "date": "1749-05-18",
+      "time": "about 20:00",
+      "basis": "explicit",
+      "evidence": "u3414 describes darkness and moonrise; u3420-u3423 agree on about 8:00 at night after further walking. Retain this explicit clock without summing the loose hour estimates into a different time."
+    },
+    {
+      "uid": "u3734",
+      "label": "Short rest with the messenger",
+      "date": "1749-05-18",
+      "time": "night; one-hour rest",
+      "basis": "explicit",
+      "evidence": "u3730-u3735 agree to send the lynx and short rest while waiting; u3961-u3975 later clarify the scrying belongs inside this same rest."
+    },
+    {
+      "uid": "u3792",
+      "label": "After waiting during the rest",
+      "date": "1749-05-18",
+      "time": "about 21:00",
+      "basis": "explicit",
+      "evidence": "u3792: the DM states that it is 9:00 at night. The later scrying account is retrospective, not an additional hour."
+    },
+    {
+      "uid": "u3961",
+      "label": "Scrying placed within the same rest",
+      "date": "1749-05-18",
+      "time": "same short-rest interval",
+      "basis": "explicit",
+      "evidence": "u3961-u3975 explicitly place Delwath’s scrying just after the messenger was sent, with the lynx still waiting; no additional rest or forward time transition is inferred."
+    },
+    {
+      "uid": "u4000",
+      "label": "Arrival at the elven memorial",
+      "date": "1749-05-18",
+      "time": "night; about half an hour later",
+      "basis": "explicit",
+      "evidence": "u3999-u4001: after resuming the walk, another half hour brings them to the road junction and memorial. No exact clock is spoken."
+    },
+    {
+      "uid": "u4568",
+      "label": "Arrival at the summit temples",
+      "date": "1749-05-18",
+      "time": "about 22:30",
+      "basis": "explicit",
+      "evidence": "u4566-u4568 first estimate 10 PM, then revise that to probably 10:30."
+    },
+    {
+      "uid": "u5688",
+      "label": "Overnight rest included in session",
+      "date": "1749-05-19",
+      "time": "overnight into May 19",
+      "basis": "inferred",
+      "evidence": "u5639-u5644 propose more conversation and a long rest; u5688 closes with a good night’s rest. User decision: “Include the overnight rest; retain May 19.” No waking scene is invented."
+    }
+  ],
+  "issues": [
+    {
+      "detail": "The closing rest is proposed and acknowledged, but the recording contains no played waking scene.",
+      "evidence": "u5639-u5644 and u5688; the existing YAML ends on May 19."
+    },
+    {
+      "detail": "Apollyon’s release countdown is stated as twelve days early and ten days later in the same evening.",
+      "evidence": "u0501-u0504 versus u5008-u5012; intervening travel and evening clock anchors contain no two-day passage."
+    },
+    {
+      "detail": "Loose walking-duration estimates around sunset do not add cleanly to all spoken clock anchors.",
+      "evidence": "u3147 gives 7 PM; u3346 describes about an hour until sunset; u3420-u3423 describe another hour or so but agree on about 8 PM."
+    }
+  ],
+  "resolutions": {
+    "source:0": {
+      "by": "human",
+      "reason": "The user explicitly chose: “Include the overnight rest; retain May 19.” Include the rest in the final beat without changing YAML."
+    },
+    "source:1": {
+      "by": "source",
+      "reason": "This is a conflicting countdown to a future event, not evidence that two days pass within this session. Preserve both spoken counts in the transcript; omit a definitive countdown in the recap. Session date assignments follow the continuous afternoon/evening action and confirmed overnight rest."
+    },
+    "source:2": {
+      "by": "source",
+      "reason": "Preserve the DM’s explicit approximate clock anchors and describe the intervening travel without an exact summed duration. All passages remain on the same evening; no calendar-date discrepancy results."
+    }
+  }
+}
