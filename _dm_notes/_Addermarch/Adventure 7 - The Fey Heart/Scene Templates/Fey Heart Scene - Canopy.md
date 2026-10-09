@@ -37,5 +37,5 @@ Through *Speak with Animals*, it is frightened, indignant, and eager to bargain 
 ## Outcomes
 
 - Failure: [[Exploration Failure - Umbraeth's Hunters|Exploration Failure: Umbraeth's Hunters]]
-- Success: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]]
+- Success: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]] --> **This should lead to learning the exact tree to search**
 

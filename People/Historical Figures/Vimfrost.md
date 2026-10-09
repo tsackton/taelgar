@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-08T16:14:40-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person]
 species: dragon
 subspecies: white dragon
 gender: male
@@ -12,7 +12,7 @@ pronunciation: VIM-frost
 whereabouts: Far North
 knownTo: [dufr]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # Vimfrost
@@ -22,7 +22,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Vimfrost was an ancient white dragon of the [[Far North]] who led an army of orcs, trolls, ogres, and other creatures against [[Vostok]]. He was defeated and killed in [[Vimfrost's War|the war of DR 1505–1511]], fought against an alliance of humans, dwarves, stoneborn, and frost giants led by [[Derik III]] and [[Bjarnfrost]]. His descendants continued to threaten the northern [[Green Sea]] long after his death.
+Vimfrost was an ancient white dragon who long ruled over the icy wastes of the [[Far North]]. In the early DR 1500s, he led an army of orcs, trolls, ogres, and other creatures against [[Vostok]], in what became known as [[Vimfrost's War]]. In DR 1511, he was defeated and killed by an alliance of humans, dwarves, stoneborn, and frost giants led by [[Derik III]] and [[Bjarnfrost]], that banded together to protect themselves from his aggression. His descendants continued to threaten the northern [[Green Sea]] long after his death.
 
 %% Sources:
 - [[Philosopher's Information Concerning Rodnya Voknaz]]

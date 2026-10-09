@@ -32,4 +32,5 @@ The compulsion can always be ended through deafening, incapacitation, or unconsc
 
 **Escape and anger the drummer:** If the party escapes the compulsion but angers the drummer, the encounter ends in a fight or their departure without learning anything.
 
-**Escape and keep participating:** The successful approach is to escape the compulsion while continuing to participate in the revel voluntarily. This gives the dance bard an opportunity to shine. The drummer takes an interest and asks what they are looking for, opening a conversation about Gwydren. See: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]] and [[Finding the Guide]]
+**Escape and keep participating:** The successful approach is to escape the compulsion while continuing to participate in the revel voluntarily. This gives the dance bard an opportunity to shine. The drummer takes an interest and asks what they are looking for, opening a conversation about Gwydren. See: [[Exploration Success - Guide Clue|Exploration Success: Guide Clue]] and [[Finding the Guide]]. **This should lead to learning the exact tree to search**
+

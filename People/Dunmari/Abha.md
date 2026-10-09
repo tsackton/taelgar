@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person]
 species: human
 ancestry: Dunmari
 campaignInfo:
@@ -28,11 +28,11 @@ POV: 1740s
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on February 2nd, 1749 in the [[Copper Hills]] %%^End%%
 
-%% @check/tim : cleanup %%
-
 ![[abha-v2.jpg|right|400]]Abha is a [[Sonkar Mystai|mystai of Sonkar]], a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 
 Abha, like [[Sonkar]], sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [[Dunmar]]. 
+
+%% a powerful enough spellcaster to have access to True Sight, so at least 11th level . Possibly the best caster among the Sonkar Mystai %%
 
 %%^Campaign:dufr%%
 During the [[Sibling War]], Abha served as an ally and advisor to [[Nayan Karnas]], using her divine powers to attempt to disentangle the truth, or lies, of rumors of [[Agata]]'s influence on [[Sura]]. She was increasingly discredited by [[Nayan Karnas]] as he descended into paranoia, until the [[Dunmar Fellowship]] was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [[Sibling War]] between [[Sura|Nayan Sura]] and [[Nayan Karnas]]. 

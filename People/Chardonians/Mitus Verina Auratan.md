@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-08T08:32:25-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person]
 species: human
 ancestry: Chardonian
 title: Magistros
@@ -23,15 +23,26 @@ POV: 1749
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Mitus Verina Auratan is the Magistros of [[Chardon]] and ruler of the [[Chardonian Empire]], having succeeded his aunt [[Seva Auratan]] in DR 1746. His mother, [[Domitia Auratan]], died shortly after his birth, and his father subsequently entered a religious order. Seva largely raised him, while [[Octavia Antussus]] served as his childhood bodyguard and military tutor.
+Mitus Verina Auratan is the Magistros of [[Chardon]] and ruler of the [[Chardonian Empire]], having succeeded his aunt [[Seva Auratan]] in DR 1746.
 
-Mitus rose to prominence in the navy, becoming its youngest admiral of the southern fleet and winning fame through campaigns against Illorian piracy that culminated in the conquest of [[Illoria]]. His naval career secured strong support among sailors and the [[Windcallers]], and helped establish his popular reputation as a defender of Chardon. He has no magical abilities of his own, and several Windcallers number among his closest advisors.
+He is a youthful, popular leader, energetic and handsome, though brash and somewhat arrogant as well. Mitus enjoys his fame, and sincerely believes in the necessity of the empire, though he is willing to admit to its imperfections. He greatly admires the [[Drankorian Empire]] during its Golden Age, before the [[Drankorian Civil War]] and the decline of the empire. 
 
-Brash and somewhat arrogant, Mitus enjoys his fame and sincerely believes in the necessity of the empire. He sees imperial unity as essential to protecting its people from the dangers beyond its borders, and admires the prosperity of [[Drankorian Empire|Drankor]] before its decline. His wealthy upbringing can leave him insensitive to the hardships of the poor.
+%%^Date:1749-08-01%%
+Under his rule, Chardon has seen a significant cultural shift, with [[Windcallers]] and other practical wizards rising in prominence, at the expense of the old chalyte merchant class, the [[Hetaeri Magica]], and the academics at the [[Faculty of Magic]] who, while they may have spoken out against corruption of the [[Chalyte Oligarchs of Chardon]], where more than happy to benefit from their money. 
+%%^End%%
+## Background
 
-During the [[Chardon-Dunmar War]] in DR 1749, Mitus sailed with the fleet that defeated [[Darba]] and helped negotiate the subsequent peace settlement. With a new chalyte supply secured by the [[Dunmar Fellowship]] in the [[Chataan Mountains]], he broke the oligarchic families’ monopoly through the [[Chardonian Chalyte Trade Reforms]], transferring control to imperial institutions, the Windcallers, and organized chalyte workers. In negotiations with [[Kenzo]], he agreed to worker representation in the [[Chalyte Refining Corporation]] and granted Kenzo confiscated properties in the [[Ragwater Basin]] and [[Riverside Quarter]].
+Mitus was born to the Chardonian branch of the wealthy [[Auratan Family]]. His mother, [[Domitia Auratan]], died shortly after his birth; his father, in his grief, subsequently entered a religious order. He was largely raised by his childhood bodyguard and military tutor, [[Octavia Antussus]], as well as his aunt, the Magistros [[Seva Auratan]]. 
 
-%% Chronology: Tim confirmed Mitus's birth in DR 1723, consistent with [[Domitia Auratan]]'s death shortly after his birth. This takes precedence over the DR 1725 birth year in [[Chardon Politics]] and the age of 24 given in [[dunmari-frontier-126-source-prepared|Session 126 transcript]], set in DR 1749. %%
+From a young age he took to the ocean, and learned to sail and command with the Chardonian navy, especially under the tutelage of [[Tiberius]], a prominent Windcaller, though Mitus has no magical aptitude of his own. He quickly rose to prominence, and became the youngest admiral of the southern fleet, winning fame through campaigns against Illorian piracy that culminated in the conquest of [[Illoria]]. His naval career secured strong support among sailors and the [[Windcallers]], and helped establish his popular reputation as a defender of Chardon. When he became Magistros in DR 1746, he drew heavily on the Windcaller ranks for his personal guard. 
+
+%%^Date:1749-07-25%%
+## Recent Events
+During the [[Chardon-Dunmar War]] in DR 1749, Mitus sailed with the fleet that defeated [[Darba]] and helped negotiate the subsequent peace settlement. 
+
+When the [[Dunmar Fellowship]] secured a new chalyte supply in the [[Chataan Mountains]], he broke the oligarchic families’ monopoly through the [[Chardonian Chalyte Trade Reforms]], transferring control to imperial institutions, the Windcallers, and organized chalyte workers. In negotiations with [[Kenzo]], he agreed to worker representation in the [[Chalyte Refining Corporation]] and granted Kenzo control over confiscated properties in the [[Ragwater Basin]] and [[Riverside Quarter]] to dispose of as he pleased. 
+
+%%^End%%
 
 %%SECRET[v2:63c864756e15a239b23752d9f757d864]%%
 
