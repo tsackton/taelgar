@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {prep: on, defArt: the}
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Kem
@@ -26,8 +26,6 @@ Geographic clarification:
 - [[Lake Pekul]] and [[Lake Sova]] are distinct lakes in this drainage system, but the available evidence does not establish that either lies directly on the reach properly called the Kem rather than on a tributary with another local name.
 - Do not assume that “Kem” names the entire mapped network or that one river name continues unchanged through all of its upper branches.
 %%
-
-%% @check/tim : Check the name language and the claim that the lower valley is one of the principal inhabited areas of southern Vostok. %%
 
 %%^Metadata:names:v1%%
 - {name: Kem, language: Vosic, pronunciation: KEM, status: documented}

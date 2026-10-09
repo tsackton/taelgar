@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: settlement
 typeOfAlias: village
 name: Talem
@@ -9,7 +9,7 @@ aliases: [Bek'eni village]
 pronunciation: TAH-lem
 whereabouts: Elderwood
 dm_owner: tim
-dm_notes: color
+dm_notes: important
 ---
 # Talem
 *(TAH-lem)*
@@ -17,9 +17,9 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% @check/tim : Anything to add? %%
+Talem is the largest village of the [[Bek'eni]] in the [[Elderwood]]. 
 
-Talem is the largest village of the [[Bek'eni]] in the [[Elderwood]]. For years before his death in DR 1748, the green dragon [[Mezzar|Grimbaskal]] controlled the village while posing as an elven adviser named Mezzar, displacing its Godcaller with a follower of his own.
+For many years, the [[Bek'eni]] lived, unbeknownst to them, under the sway of the green dragon [[Mezzar|Grimbaskal]], who frequently traveled among them posing as the elven advisor Mezzar. Mezzar had significant sway in Talem, and both the Godcaller and the Chief were loyal to him. This abrutly ended with Mezzar's unmasking and death in DR 1748. 
 
 %%^Metadata:names:v1%%
 - {name: Talem, role: primary, language: "Deno'qai", pronunciation: TAH-lem, status: documented}

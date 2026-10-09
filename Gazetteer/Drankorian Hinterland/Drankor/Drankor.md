@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: settlement
 typeOfAlias: ruined city
 name: Drankor
@@ -14,8 +14,6 @@ dm_notes: important
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% @check/tim : This seems like a usable minimal stub; obviously much more could be said, but this seems to capture what a random PC would probably know. Anything key to add? %%
 
 Drankor is a ruined city near the mouth of the [[Istaros]], once the heart of the [[Drankorian Empire]] and a great center of magic and learning. Devastated by the [[First Plague]] in DR 1059, its jungle-covered ruins lie within the [[Desolation of Cha'mutte]], haunted by undead and dangerous remnants of imperial magic.
 
