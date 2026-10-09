@@ -3,10 +3,9 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
-tags: [person, testcase, status/gameupdate/dufr, status/check/lint, status/check/ai]
+tags: [person, testcase, status/gameupdate/dufr, status/check/lint, statust/cleanup/text]
 species: undead
 subspecies: lich
-campaignInfo: []
 born: null
 gender: male
 title: Emperor

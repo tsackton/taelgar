@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/check/tim]
+tags: [place, status/check/name]
 typeOf: region
 name: Grey Mists
 whereabouts: Feywild
@@ -11,8 +11,6 @@ whereabouts: Feywild
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Grey Mists form a magical defense along the western border of [[Twilight's Edge]] in the [[Feywild]]. Their illusions draw travelers from their intended route, while the mists erode memories until intruders may forget why they came—or where they meant to go.
-
-%% @check/tim : Not sure about the name; FYI on the vibe described in the DM Notes. %%
 
 %%^Campaign:none%%
 ### DM Notes
