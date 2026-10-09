@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/tim]
+tags: [person]
 species: human
 ancestry: "Deno'qai"
 born: 1699
@@ -12,7 +12,7 @@ pronunciation: kahs-LAHN
 affiliations:
   - {org: "Ko'zula", type: primary}
 whereabouts:
-  - {type: home, start: "", end: "", location: "Ko'zula village"}
+  - {type: home, start: "", end: "", location: "Azkar"}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none
@@ -25,8 +25,6 @@ POV: 1740s
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% @check/tim : check status tags %%
 
 Kaslan is a middle-aged man, with long experience in woodcraft; he is leader of the hunting camp [[Delwath]] first found after arriving in the north. 
 

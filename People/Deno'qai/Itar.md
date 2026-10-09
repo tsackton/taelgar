@@ -12,7 +12,7 @@ pronunciation: ee-TAHR
 affiliations:
   - {org: "Bek'eni", type: primary}
 whereabouts:
-  - {type: home, location: "Bek'eni village", linkText: in the largest}
+  - {type: home, location: "Talem"}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none

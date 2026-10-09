@@ -12,7 +12,7 @@ pronunciation: eh-NOHN
 affiliations:
   - {org: "Ko'zula", type: primary}
 whereabouts:
-  - {type: home, start: "", end: "", location: "Ko'zula village"}
+  - {type: home, start: "", end: "", location: Azkar}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: none

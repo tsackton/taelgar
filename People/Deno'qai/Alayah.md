@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/cleanup/text]
+tags: [person, status/cleanup/text]
 species: human
 ancestry: "Deno'qai"
 born: 1725
@@ -10,7 +10,7 @@ gender: female
 name: Alayah
 pronunciation: ah-LAH-yah
 whereabouts:
-  - {type: home, location: "Te'kula village"}
+  - {type: home, location: Neshet}
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: color

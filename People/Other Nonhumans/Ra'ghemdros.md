@@ -25,9 +25,13 @@ POV: modern
 
 %%^Campaign:dufr%%
 
-Ra’ghemdros, the Light Stealer and the Final Shadow, the Devourer of Drankor and the Last Empress of Hkar, the Eternal Night and the Enslaver of the Secret Sunset, was an ancient black [[Dragons|dragon]] and a daughter of [[Cha'mutte|Cha’mutte]] who ruled the [[Circular Island]] for nearly seven centuries.
+Ra’ghemdros, the Light Stealer and the Final Shadow, the Devourer of Drankor and the Last Empress of Hkar, the Eternal Night and the Enslaver of the Secret Sunset, was an ancient black [[Dragons|dragon]] and a daughter of [[Cha'mutte|Cha’mutte]] who ruled the [[Circular Island]] for more than seven centuries.
 
-Once a lieutenant of her father, Ra’ghemdros fought in the attack on [[Amberglow]], where [[Cloudspinner]] wounded her. When Cha’mutte withdrew from the Circular Island following the destruction of [[Drankor]], he left Ra’ghemdros in command, charged with guarding the captive archfey. She established her lair beneath the ruined thermal baths of the [[Concordia Pyrae]], close to Cloudspinner’s prison. Long after her father’s death, she remained there, gathering the treasures of the island and keeping watch over the enemy she could neither forgive nor safely destroy.
+Many centuries ago, Ra'ghemdros served as a lieutenant for her father, and fought in his attack on [[Amberglow]] against the [[Cloudspinner]]. Ra'ghemdros was badly wounded, and scarred, but the [[Cloudspinner]] was captured and imprisoned. Later, when [[Cha'mutte]] withdrew from the [[Circular Island]] following the destruction of [[Drankor]], he left Ra’ghemdros in command, and charged with guarding [[Cloudspinner]]'s prison. 
+
+She established her lair beneath the ruined thermal baths of the [[Concordia Pyrae]], close to Cloudspinner’s prison. Long after her father’s death, she remained there, gathering the treasures of the island and keeping watch over the enemy she could neither forgive nor safely destroy.
+
+%% exact chronology of Amberglow attack, and where Cha'mutte kept the Cloudspinner prior to falling out with Apollyon is not clear and let uncertain here %%
 
 Ra’ghemdros was immense, at least thirty feet from snout to tail, with a wingspan of roughly fifty feet. Her scales were an intense, unbroken black, her eyes luminous green. Along her left side, almost from shoulder to tail, Cloudspinner’s wound shimmered red and orange, like a sunset burned into her flesh. Her breath mingled acid and darkness, and she could vanish from sight or become an incorporeal shadow. Beneath the baths, her domain opened into caverns of corrosive pools, acid geysers, and grasping tendrils of darkness.
 

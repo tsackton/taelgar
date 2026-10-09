@@ -12,7 +12,7 @@ name: Obel
 pronunciation: oh-BELL
 affiliations:
   - {org: "Te'kula", type: primary}
-whereabouts: "Te'kula village"
+whereabouts: "Neshet"
 knownTo: [dufr]
 dm_owner: none
 dm_notes: color
