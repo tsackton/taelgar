@@ -1,0 +1,3954 @@
+{
+  "schemaVersion": "1.0",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-session.yaml",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-beats.json",
+  "beatFactsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-beat-facts.json",
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "scope": "session",
+    "sessionNumber": 109,
+    "realWorldDate": "2024-09-27",
+    "drStart": "1749-05-19",
+    "drEnd": "1749-05-19"
+  },
+  "timelineBlocks": [
+    {
+      "blockId": "timeline-001",
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-001"
+      ],
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party surveys Circular Island from the mountaintop and considers investigating Apollyon’s tower."
+      ],
+      "sourceLongSummaries": [
+        "After resting at the temple, the party watches sunrise over the island’s radiating rivers and pools. Apollyon’s black tower remains conspicuously intact to the west. They discuss visiting it and investigating the dragon’s territory, then return to reconnaissance that could have happened before the preceding night’s rest."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Morning Above the Island",
+          "boundaryReason": "Opening morning frame; the next beat explicitly retcons to before the preceding rest.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0103"
+          },
+          "shortSummary": "The party surveys Circular Island from the mountaintop and considers investigating Apollyon’s tower.",
+          "longSummary": "After resting at the temple, the party watches sunrise over the island’s radiating rivers and pools. Apollyon’s black tower remains conspicuously intact to the west. They discuss visiting it and investigating the dragon’s territory, then return to reconnaissance that could have happened before the preceding night’s rest.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl and the mountaintop overlook"
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-002",
+      "dateStart": "1749-05-18",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-002"
+      ],
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "In a flashback to the previous evening, Seeker scouts the dragon’s lair with Clairvoyance."
+      ],
+      "sourceLongSummaries": [
+        "Before the previous long rest, Seeker uses three Clairvoyance charges to inspect a ruined villa, a plaza, and thermal pools amid red-orange growth. Dragonets and four chimeras are visible. Kenzo cannot sense the dragon’s aura, prompting speculation about an extradimensional lair, but detects a fiend beneath the villa."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-002",
+          "title": "Scouting the Dragon’s Lair",
+          "boundaryReason": "Explicit flashback to the preceding evening’s clairvoyance and aura reconnaissance.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u0104",
+            "endUid": "u0390"
+          },
+          "shortSummary": "In a flashback to the previous evening, Seeker scouts the dragon’s lair with Clairvoyance.",
+          "longSummary": "Before the previous long rest, Seeker uses three Clairvoyance charges to inspect a ruined villa, a plaza, and thermal pools amid red-orange growth. Dragonets and four chimeras are visible. Kenzo cannot sense the dragon’s aura, prompting speculation about an extradimensional lair, but detects a fiend beneath the villa.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl; remote views of the dragon’s territory"
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-003",
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Rope ladder"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "The party takes leave of Dimitaur and chooses the tower as its first destination.",
+        "Seeker prepares to transform the party into ordinary ospreys for the westward flight."
+      ],
+      "sourceLongSummaries": [
+        "Back in the morning, Kenzo gives Dimitaur a statue of himself before the party leaves. They prioritize the tower and its possible forge over the dragon and jade. Kenzo senses no conscious creatures at the tower, although this cannot exclude constructs, mindless undead, or traps, and the party weighs travel options for the jagged coast.",
+        "The party chooses inconspicuous ordinary ospreys rather than larger birds. Seeker’s Animal Shapes will carry them to the tower, with an expected flight of several hours. They plan to animate the rope ladder close to the destination so its shorter duration will not expire during the journey."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-003",
+          "title": "Choosing the Tower First",
+          "boundaryReason": "Return to the morning: farewell, aura reconnaissance, and travel options.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0391",
+            "endUid": "u0650"
+          },
+          "shortSummary": "The party takes leave of Dimitaur and chooses the tower as its first destination.",
+          "longSummary": "Back in the morning, Kenzo gives Dimitaur a statue of himself before the party leaves. They prioritize the tower and its possible forge over the dragon and jade. Kenzo senses no conscious creatures at the tower, although this cannot exclude constructs, mindless undead, or traps, and the party weighs travel options for the jagged coast.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Receives Kenzo’s farewell gift at the temple."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A Flock of Ospreys",
+          "boundaryReason": "Settle the animal-shape plan and its practical limits before departure.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0651",
+            "endUid": "u0970"
+          },
+          "shortSummary": "Seeker prepares to transform the party into ordinary ospreys for the westward flight.",
+          "longSummary": "The party chooses inconspicuous ordinary ospreys rather than larger birds. Seeker’s Animal Shapes will carry them to the tower, with an expected flight of several hours. They plan to animate the rope ladder close to the destination so its shorter duration will not expire during the journey.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl"
+          },
+          "itemDetails": [
+            {
+              "name": "Rope ladder",
+              "role": "encountered",
+              "notes": "The party plans to animate it near the tower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-004",
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "beatIds": [
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010",
+        "beat-011",
+        "beat-012",
+        "beat-013",
+        "beat-014",
+        "beat-015",
+        "beat-016",
+        "beat-017",
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021",
+        "beat-022",
+        "beat-023",
+        "beat-024",
+        "beat-025",
+        "beat-026",
+        "beat-027",
+        "beat-028",
+        "beat-029",
+        "beat-030",
+        "beat-031"
+      ],
+      "locationRefs": [
+        "Temple of the Sibyl",
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [
+        "Apollyon",
+        "Tanshi"
+      ],
+      "organizationRefs": [
+        "Omnis Pura"
+      ],
+      "itemRefs": [
+        "Animated rope ladder",
+        "Chime of opening",
+        "Apollyon's Soulbinding Manacles",
+        "Eudomes' Mirror of the Past",
+        "Guardian cores and mechanical flies",
+        "Apollyon's dagger phylactery",
+        "Adamantine scraps",
+        "Crimson lich book",
+        "Apollyon's locked spellbook",
+        "Portable hole",
+        "Residential valuables",
+        "Immovable rod",
+        "Jeweled stone throne",
+        "Rope ladder",
+        "Apollyon's forge",
+        "Lengau's Claw",
+        "Forge metal stock",
+        "Damaged silver rod",
+        "Magical powders",
+        "Three jeweled gold rings"
+      ],
+      "combatBeatIds": [
+        "beat-006",
+        "beat-007",
+        "beat-009",
+        "beat-010",
+        "beat-011",
+        "beat-012",
+        "beat-013",
+        "beat-019",
+        "beat-023",
+        "beat-024",
+        "beat-025",
+        "beat-026",
+        "beat-027",
+        "beat-028"
+      ],
+      "sourceShortSummaries": [
+        "The ospreys reach Apollyon’s tower with an animated ladder transformed into a fifth bird.",
+        "The tower guardians shoot the approaching ospreys as the party reaches the rooftop hatch.",
+        "The party opens the hatch and escapes into the ritual chamber before the guardians can surround them.",
+        "Seeker identifies the manacles as instruments for capturing sacrificed souls and creating a lich.",
+        "The party holds the narrow stairs while the guardians advance into the ritual chamber.",
+        "Wellby blinds the leading guardian while the ladder absorbs its counterattack.",
+        "A reflected spell forces the party to rely on arrows, strikes, and the ladder’s defense.",
+        "Kenzo is driven back as Delwath and Seeker press the attack at the stairway.",
+        "Kenzo and Delwath finish the two guardians, leaving only dust and mechanical remains.",
+        "After healing and salvaging the guardians, the party decides to question the mirror about the manacles.",
+        "The mirror reveals that Apollyon’s phylactery is a plain adamantine dagger forged in the ritual chamber.",
+        "The party descends through the ruined upper floors and retrieves two surviving magical books.",
+        "The party bypasses a room of moving metal and searches the tower’s living quarters.",
+        "Wellby opens the audience chamber, awakens its skeletons, and seals the doors with an immovable rod.",
+        "The party destroys the trapped skeletons while a possessing shadow briefly forces Seeker to attack Delwath.",
+        "The party becomes elephants to push the jeweled throne into the portable hole.",
+        "A locked door below the storage rooms prompts a short rest before further exploration.",
+        "After scouting the hidden forge, the party opens its door and triggers a fireball trap.",
+        "The party rolls initiative against the void sword and force hands and plans to contain them with Sickening Radiance.",
+        "The void sword passes through the closed door while the force hands push after it.",
+        "The hands force the door open as Wellby critically wounds the sword and retreats.",
+        "Delwath uses Scatter to rescue Seeker and places himself beside the sword for a critical smite.",
+        "The sword breaks into four void daggers, and Seeker sacrifices Animal Shapes to slow three of them.",
+        "The party destroys the remaining daggers and both force hands while the ladder holds the passage.",
+        "The forge’s side rooms contain metal stock and a locked chest of magical supplies.",
+        "The Tanshi confirm that the forge still works and draws its power from the user.",
+        "The party finds a glyph protecting Apollyon’s locked spellbook and prepares to open it from a distance."
+      ],
+      "sourceLongSummaries": [
+        "The party flies west past statues of the Warlord and Wildling. After a couple of hours, an oppressive presence pushes at them as they approach the tower. Seeker lands behind a boulder, animates the rope ladder, and transforms it into another osprey. They inspect the tower’s terrace, two stone guardians with metal fists, and a hatch at the top of the spire.",
+        "Crystal darts strike the birds just before they land, breaking several transformations and leaving Seeker hurt from the fall. The party gathers on the roof and investigates the handleless hatch with mundane inspection, Detect Magic, and Tremorsense. They prepare to use the chime under Silence, but the guardians move before that precaution can be completed.",
+        "A tiny mechanical fly has been observing the party as the guardians rise toward the roof. Wellby opens the hatch with the chime and jumps through, while Kenzo carries Seeker inside. Delwath follows after taking a dart hit and closes the hatch. Below it, they find an anvil, hanging manacles, channels leading to a well, and descending stairs.",
+        "Putting blood on the anvil has no apparent effect. Seeker touches the necromantic manacles to identify them, resists their influence, and learns that they channel sacrificed souls into a nearby phylactery and help prepare a potion for lich transformation. The party considers using the mirror to discover Apollyon’s phylactery, but hears the guardians approaching from below.",
+        "Kenzo takes a flying position above the stairs, the animated ladder blocks the passage, and Wellby prepares to shoot from behind it. Delwath conjures shadowy lynxes, but their attacks gain no purchase on the guardians. Seeker retains concentration on Animal Shapes while the party works around the cramped approach and the constructs’ magical defenses.",
+        "Wellby shoots the first guardian’s eyes, giving Kenzo an opening for a flurry of attacks. The guardians batter the ladder and fire force darts, but cannot shove the oversized barricade aside. Delwath struggles to reach the enemy through the crowded stairway.",
+        "Delwath casts Sanctuary on the ladder, then discovers that an acid Sorcerer Burst rebounds from the guardian toward Kenzo, who deflects it harmlessly. Seeker becomes a large bird and inspires Kenzo while the ladder holds its position. Wellby blinds the guardian again so Kenzo can continue attacking.",
+        "Kenzo deflects one punch but is knocked backward by another and wounded by darts. Delwath drops into the space between the guardians and strikes with a smite, leaving the leading construct badly damaged. Seeker attacks in bird form while the ladder continues to contest the passage.",
+        "Wellby shifts his blinding arrows to the second guardian as Kenzo destroys the first and flies around the survivor. Kenzo turns its punches back against it, Seeker attacks in bird form, and Delwath protects himself with Shield. Delwath’s final sword strike brings down the remaining guardian.",
+        "The party heals Kenzo and the ladder, then retrieves two cracked metallic cores and two mechanical flies from the guardians’ remains. They weigh the mirror’s seven-day recharge against other questions they may need to ask. Since the manacles are fixed in place, they choose to investigate them now and hope to retain another use for Rai’s hand later.",
+        "Kenzo asks the mirror to show the phylactery. The vision depicts a human Apollyon wearing a crown and rainbow cloak, forging an unadorned iron-hilted dagger with layers of inscribed adamantine. Repeated sacrifices send souls into the dagger, while collected blood and shadows from the crown contribute to his potion. Seeker searches for adamantine and gathers about half a pound of scraps, hoping they might help locate the dagger.",
+        "An empty terrace, decayed study, and largely ruined library yield two intact books: an unmarked crimson volume and a locked book with a metal clasp. Seeker discovers that the crimson book is bound in human skin soaked in blood and explains how to become a lich. After handling it, he undergoes an unexplained saving throw; the party uses Mage Hand to place both books in the portable hole.",
+        "They pass an Omnis Pura meeting room with imperial statues, then hear metal rattling beyond a partition. Delwath’s Ghostly Gaze reveals scraps swirling in the next room. Rather than enter it, the party flies outside as ospreys and reenters through lower windows. Searching three residential floors yields coins, a silver pitcher, a gold platter, and three plain gold rings.",
+        "At the entrance level, Seeker detects extensive rooms below and the party finds a stairway in a side guardroom. Wellby checks the audience chamber before they descend. Roughly forty skeletons, including one on the throne, begin to rise, so the party shuts the doors and braces them with an immovable rod.",
+        "Seeker and Delwath fly outside as birds to attack through the windows. Once they resume their normal forms, the book’s curse makes Seeker strike Delwath with Catapult; a black shadow leaves Seeker’s face, and he remembers none of it. Delwath’s Sickening Radiance kills the skeletons over ten minutes. Seeker heals Delwath and Kenzo’s cleansing touch confirms that the influence has departed.",
+        "With the skeletons destroyed, the party claims the large gemstone-studded stone throne. They rearrange the portable hole, moving its mirrors out of the way, and use Animal Shapes to become elephants capable of pushing the throne inside. They then repack the hole around their new prize.",
+        "The basement contains spoiled wine and moldy silk, with another stairway descending to a locked metal door. Wellby finds no physical trap, while Detect Magic detects magic beyond the barrier. After roughly an hour of searching since the guardian fight, they return upstairs for a short rest with Delwath’s tea and biscuits; the ladder’s animation expires.",
+        "Delwath’s Ghostly Gaze reveals a pedestal with four openings and ten silver rings connected to a wall plate, a floating sword like a hole in the world, and two side rooms. See Invisibility exposes two large force hands. The party spreads out before Wellby unlocks the door and triggers a fireball; Wellby evades the blast, but Seeker takes 32 points of fire damage despite spending heroic inspiration.",
+        "As initiative begins, Seeker reanimates the ladder instead of using a concentration-dependent summoned construct. Kenzo’s Soul Sight reveals the void sword’s formidable defenses, including immunity to psychic, necrotic, and poison damage and all conditions. The party plans to fill the forge with Sickening Radiance, shut the door, and withdraw.",
+        "Delwath fills the forge with Sickening Radiance and Kenzo shuts the door as they retreat. The sword slips through the barrier and stabs Wellby and the ladder. Radiance reveals one invisible hand. Seeker converts Psychic Disruption into fire with his glove to wound the sword, then withdraws as Wellby strains to keep the hands behind the door.",
+        "A hand bursts through the doorway and knocks Wellby prone. He scrambles away, stands, and lands a critical arrow that badly damages the sword. The ladder keeps striking it, but the sword acts again, stabbing the ladder and Seeker while Kenzo prepares to use his tattoo’s reach.",
+        "Kenzo reaches the sword with Lengau’s Claw, avoiding psychic attacks that cannot harm it. After considering a wider teleport, Delwath uses Scatter to move himself and Seeker, taking Seeker out of immediate danger and entering melee. He withstands the sword’s retaliation and lands a critical Eldritch Smite.",
+        "Delwath’s blow shatters the sword into four independently attacking daggers. He uses Shield against their initial assault, though one wounds him. Seeker drops Animal Shapes and casts Slow on three daggers, ending the party’s easy flight home. The ladder grapples a force hand while Wellby destroys the unslowed dagger with a critical shot.",
+        "Kenzo and Delwath destroy two of the remaining daggers; the last evades Seeker’s Catapult before Kenzo finishes it. Wellby brings down the rear force hand with his fiery bow. The front hand shoves the ladder backward and knocks it prone, but Wellby destroys that hand as well, leaving the party free to enter the forge.",
+        "Using the last moments of Ghostly Gaze and Seeker’s Tremorsense, the party checks for more threats. One room holds roughly two hundred bars of silver, mithril, and unfamiliar metals, but no adamantine. Wellby unlocks a stone chest containing a damaged silver rod with organic spiral decoration and a star-like orb, twenty labeled boxes of magical powders, and rings.",
+        "The chest’s three matching braided-gold rings bear emerald, ruby, and sapphire, while the other side room holds mundane etching chemicals. Kenzo senses no ley lines at the forge. In response to Delwath’s five questions, the Tanshi indicate that touching it is not known to be dangerous, it remains functional, the user powers it, instructions survive in the notes, and its price is complicated. The party leaves the mechanism untouched.",
+        "They take the rod, powders, and rings upstairs. The portable hole smells of blood from the crimson book, so they remove both books. Wellby spots a tiny protective glyph on the locked book’s clasp. Two attempts to dispel it fail, and they decide to use the chime from as far away as possible with the others around a corner."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Flight to the Black Tower",
+          "boundaryReason": "Travel west, animate the ladder, and inspect the tower from the air.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0971",
+            "endUid": "u1152"
+          },
+          "shortSummary": "The ospreys reach Apollyon’s tower with an animated ladder transformed into a fifth bird.",
+          "longSummary": "The party flies west past statues of the Warlord and Wildling. After a couple of hours, an oppressive presence pushes at them as they approach the tower. Seeker lands behind a boulder, animates the rope ladder, and transforms it into another osprey. They inspect the tower’s terrace, two stone guardians with metal fists, and a hatch at the top of the spire.",
+          "locationHints": {
+            "refs": [
+              "Temple of the Sibyl",
+              "Apollyon's Tower"
+            ],
+            "context": "Westward flight as ospreys"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Darts Above the Battlements",
+          "boundaryReason": "The tower guardians shoot the approaching birds; the party investigates the rooftop hatch.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1153",
+            "endUid": "u1454"
+          },
+          "shortSummary": "The tower guardians shoot the approaching ospreys as the party reaches the rooftop hatch.",
+          "longSummary": "Crystal darts strike the birds just before they land, breaking several transformations and leaving Seeker hurt from the fall. The party gathers on the roof and investigates the handleless hatch with mundane inspection, Detect Magic, and Tremorsense. They prepare to use the chime under Silence, but the guardians move before that precaution can be completed.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Spire roof and hatch"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            },
+            {
+              "name": "Chime of opening",
+              "role": "encountered",
+              "notes": "Prepared for the rooftop hatch."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Escape Through the Hatch",
+          "boundaryReason": "The guardians rise to attack; the party opens the hatch and escapes into the ritual chamber.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1455",
+            "endUid": "u1839"
+          },
+          "shortSummary": "The party opens the hatch and escapes into the ritual chamber before the guardians can surround them.",
+          "longSummary": "A tiny mechanical fly has been observing the party as the guardians rise toward the roof. Wellby opens the hatch with the chime and jumps through, while Kenzo carries Seeker inside. Delwath follows after taking a dart hit and closes the hatch. Below it, they find an anvil, hanging manacles, channels leading to a well, and descending stairs.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Spire roof and ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Chime of opening",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-008",
+          "title": "The Soulbinding Manacles",
+          "boundaryReason": "Identify the chains and their role in making and feeding a lich’s phylactery.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1840",
+            "endUid": "u2080"
+          },
+          "shortSummary": "Seeker identifies the manacles as instruments for capturing sacrificed souls and creating a lich.",
+          "longSummary": "Putting blood on the anvil has no apparent effect. Seeker touches the necromantic manacles to identify them, resists their influence, and learns that they channel sacrificed souls into a nearby phylactery and help prepare a potion for lich transformation. The party considers using the mirror to discover Apollyon’s phylactery, but hears the guardians approaching from below.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Ritual chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Apollyon",
+              "role": "mentioned",
+              "notes": "The chamber and ritual are linked to his transformation into a lich."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            },
+            {
+              "name": "Eudomes' Mirror of the Past",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Holding the Ritual Chamber",
+          "boundaryReason": "Prepare a defensive position as the guardians approach; conjured lynxes fail to hurt them.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2081",
+            "endUid": "u2428"
+          },
+          "shortSummary": "The party holds the narrow stairs while the guardians advance into the ritual chamber.",
+          "longSummary": "Kenzo takes a flying position above the stairs, the animated ladder blocks the passage, and Wellby prepares to shoot from behind it. Delwath conjures shadowy lynxes, but their attacks gain no purchase on the guardians. Seeker retains concentration on Animal Shapes while the party works around the cramped approach and the constructs’ magical defenses.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-010",
+          "title": "Arrows and the Ladder Barricade",
+          "boundaryReason": "First exchanges: Wellby blinds a guardian, Kenzo attacks, and the ladder absorbs the counterattack.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2429",
+            "endUid": "u2760"
+          },
+          "shortSummary": "Wellby blinds the leading guardian while the ladder absorbs its counterattack.",
+          "longSummary": "Wellby shoots the first guardian’s eyes, giving Kenzo an opening for a flurry of attacks. The guardians batter the ladder and fire force darts, but cannot shove the oversized barricade aside. Delwath struggles to reach the enemy through the crowded stairway.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-011",
+          "title": "Reflected Magic and Renewed Blindness",
+          "boundaryReason": "A reflected spell changes tactics; Seeker becomes a bird and Wellby renews the blindness.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2761",
+            "endUid": "u3092"
+          },
+          "shortSummary": "A reflected spell forces the party to rely on arrows, strikes, and the ladder’s defense.",
+          "longSummary": "Delwath casts Sanctuary on the ladder, then discovers that an acid Sorcerer Burst rebounds from the guardian toward Kenzo, who deflects it harmlessly. Seeker becomes a large bird and inspires Kenzo while the ladder holds its position. Wellby blinds the guardian again so Kenzo can continue attacking.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-012",
+          "title": "Holding Against the Counterattack",
+          "boundaryReason": "Kenzo is knocked back; Delwath joins the melee and Seeker attacks in bird form.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3093",
+            "endUid": "u3445"
+          },
+          "shortSummary": "Kenzo is driven back as Delwath and Seeker press the attack at the stairway.",
+          "longSummary": "Kenzo deflects one punch but is knocked backward by another and wounded by darts. Delwath drops into the space between the guardians and strikes with a smite, leaving the leading construct badly damaged. Seeker attacks in bird form while the ladder continues to contest the passage.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-013",
+          "title": "The Guardians Crumble",
+          "boundaryReason": "Kenzo destroys the first guardian, and the party finishes the second.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3446",
+            "endUid": "u3874"
+          },
+          "shortSummary": "Kenzo and Delwath finish the two guardians, leaving only dust and mechanical remains.",
+          "longSummary": "Wellby shifts his blinding arrows to the second guardian as Kenzo destroys the first and flies around the survivor. Kenzo turns its punches back against it, Seeker attacks in bird form, and Delwath protects himself with Shield. Delwath’s final sword strike brings down the remaining guardian.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-014",
+          "title": "Choosing the Mirror’s Question",
+          "boundaryReason": "Heal, salvage the guardians, and choose to investigate the manacles with the mirror.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3875",
+            "endUid": "u4171"
+          },
+          "shortSummary": "After healing and salvaging the guardians, the party decides to question the mirror about the manacles.",
+          "longSummary": "The party heals Kenzo and the ladder, then retrieves two cracked metallic cores and two mechanical flies from the guardians’ remains. They weigh the mirror’s seven-day recharge against other questions they may need to ask. Since the manacles are fixed in place, they choose to investigate them now and hope to retain another use for Rai’s hand later.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Eudomes' Mirror of the Past",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            },
+            {
+              "name": "Guardian cores and mechanical flies",
+              "role": "encountered",
+              "notes": "Two cracked cores and two mechanical flies are recovered."
+            },
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-015",
+          "title": "The Dagger Phylactery",
+          "boundaryReason": "The mirror reveals the dagger’s forging and soul sacrifices; Seeker gathers adamantine scraps.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u4172",
+            "endUid": "u4474"
+          },
+          "shortSummary": "The mirror reveals that Apollyon’s phylactery is a plain adamantine dagger forged in the ritual chamber.",
+          "longSummary": "Kenzo asks the mirror to show the phylactery. The vision depicts a human Apollyon wearing a crown and rainbow cloak, forging an unadorned iron-hilted dagger with layers of inscribed adamantine. Repeated sacrifices send souls into the dagger, while collected blood and shadows from the crown contribute to his potion. Seeker searches for adamantine and gathers about half a pound of scraps, hoping they might help locate the dagger.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Ritual chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Apollyon",
+              "role": "encountered",
+              "notes": "Seen as a human in the mirror’s vision of his preparations for lichdom."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Eudomes' Mirror of the Past",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's dagger phylactery",
+              "role": "encountered",
+              "notes": "Seen in the mirror’s historical vision; not recovered."
+            },
+            {
+              "name": "Adamantine scraps",
+              "role": "encountered",
+              "notes": "About half a pound gathered from the chamber."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-016",
+          "title": "Two Books in the Ruins",
+          "boundaryReason": "Descend through the decayed upper floors and recover two surviving magical books.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u4475",
+            "endUid": "u4800"
+          },
+          "shortSummary": "The party descends through the ruined upper floors and retrieves two surviving magical books.",
+          "longSummary": "An empty terrace, decayed study, and largely ruined library yield two intact books: an unmarked crimson volume and a locked book with a metal clasp. Seeker discovers that the crimson book is bound in human skin soaked in blood and explains how to become a lich. After handling it, he undergoes an unexplained saving throw; the party uses Mage Hand to place both books in the portable hole.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Terrace, ruined study, and library"
+          },
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Apollyon's locked spellbook",
+              "role": "encountered"
+            },
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-017",
+          "title": "Bypassing the Haunted Floor",
+          "boundaryReason": "Investigate the Omnis Pura chamber, bypass the moving metal, and search the living quarters.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u4801",
+            "endUid": "u5273"
+          },
+          "shortSummary": "The party bypasses a room of moving metal and searches the tower’s living quarters.",
+          "longSummary": "They pass an Omnis Pura meeting room with imperial statues, then hear metal rattling beyond a partition. Delwath’s Ghostly Gaze reveals scraps swirling in the next room. Rather than enter it, the party flies outside as ospreys and reenters through lower windows. Searching three residential floors yields coins, a silver pitcher, a gold platter, and three plain gold rings.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Omnis Pura meeting room and residential floors"
+          },
+          "itemDetails": [
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            },
+            {
+              "name": "Residential valuables",
+              "role": "encountered",
+              "notes": "Coins, a silver pitcher, a gold platter, and three plain gold rings."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Omnis Pura",
+              "role": "encountered",
+              "notes": "Its meeting chamber and imperial statues remain in the tower."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-018",
+          "title": "Skeletons Behind the Audience Doors",
+          "boundaryReason": "Explore the entrance floor and seal the awakening skeletons behind an immovable rod.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5274",
+            "endUid": "u5447"
+          },
+          "shortSummary": "Wellby opens the audience chamber, awakens its skeletons, and seals the doors with an immovable rod.",
+          "longSummary": "At the entrance level, Seeker detects extensive rooms below and the party finds a stairway in a side guardroom. Wellby checks the audience chamber before they descend. Roughly forty skeletons, including one on the throne, begin to rise, so the party shuts the doors and braces them with an immovable rod.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Entrance floor and audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Immovable rod",
+              "role": "encountered",
+              "notes": "Braces the audience chamber doors."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-019",
+          "title": "Radiance and a Released Curse",
+          "boundaryReason": "Attack the skeletons from outside while the book’s curse forces Seeker to attack Delwath.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5448",
+            "endUid": "u5794"
+          },
+          "shortSummary": "The party destroys the trapped skeletons while a possessing shadow briefly forces Seeker to attack Delwath.",
+          "longSummary": "Seeker and Delwath fly outside as birds to attack through the windows. Once they resume their normal forms, the book’s curse makes Seeker strike Delwath with Catapult; a black shadow leaves Seeker’s face, and he remembers none of it. Delwath’s Sickening Radiance kills the skeletons over ten minutes. Seeker heals Delwath and Kenzo’s cleansing touch confirms that the influence has departed.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Exterior windows and audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Immovable rod",
+              "role": "encountered"
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Audience chamber skeletons"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-020",
+          "title": "Elephants Steal a Throne",
+          "boundaryReason": "After the skeletons fall, transform into elephants to load the throne into the portable hole.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5795",
+            "endUid": "u6025"
+          },
+          "shortSummary": "The party becomes elephants to push the jeweled throne into the portable hole.",
+          "longSummary": "With the skeletons destroyed, the party claims the large gemstone-studded stone throne. They rearrange the portable hole, moving its mirrors out of the way, and use Animal Shapes to become elephants capable of pushing the throne inside. They then repack the hole around their new prize.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Jeweled stone throne",
+              "role": "encountered",
+              "notes": "Loaded into the portable hole."
+            },
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-021",
+          "title": "The Locked Basement Door",
+          "boundaryReason": "Find the lower door and return to the audience chamber for a short rest.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6026",
+            "endUid": "u6197"
+          },
+          "shortSummary": "A locked door below the storage rooms prompts a short rest before further exploration.",
+          "longSummary": "The basement contains spoiled wine and moldy silk, with another stairway descending to a locked metal door. Wellby finds no physical trap, while Detect Magic detects magic beyond the barrier. After roughly an hour of searching since the guardian fight, they return upstairs for a short rest with Delwath’s tea and biscuits; the ladder’s animation expires.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Basement storage, lower door, and audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Rope ladder",
+              "role": "encountered",
+              "notes": "Its first animation expires around the rest."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-022",
+          "title": "Scouting and Opening the Forge",
+          "boundaryReason": "Scout the forge, prepare at its door, and resolve the fireball trap; the next beat begins at the explicit call for initiative at u6508.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6198",
+            "endUid": "u6507"
+          },
+          "shortSummary": "After scouting the hidden forge, the party opens its door and triggers a fireball trap.",
+          "longSummary": "Delwath’s Ghostly Gaze reveals a pedestal with four openings and ten silver rings connected to a wall plate, a floating sword like a hole in the world, and two side rooms. See Invisibility exposes two large force hands. The party spreads out before Wellby unlocks the door and triggers a fireball; Wellby evades the blast, but Seeker takes 32 points of fire damage despite spending heroic inspiration.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Door to the underground forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Apollyon's forge",
+              "role": "encountered",
+              "notes": "Viewed through the door; its mechanism is not yet understood."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-023",
+          "title": "The Forge Battle Begins",
+          "boundaryReason": "Initiative begins against the sword and force hands; Soul Sight reveals the sword’s defenses and the party chooses its opening tactics.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6508",
+            "endUid": "u6820"
+          },
+          "shortSummary": "The party rolls initiative against the void sword and force hands and plans to contain them with Sickening Radiance.",
+          "longSummary": "As initiative begins, Seeker reanimates the ladder instead of using a concentration-dependent summoned construct. Kenzo’s Soul Sight reveals the void sword’s formidable defenses, including immunity to psychic, necrotic, and poison damage and all conditions. The party plans to fill the forge with Sickening Radiance, shut the door, and withdraw.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Door to the underground forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-024",
+          "title": "The Sword Ignores the Door",
+          "boundaryReason": "Sickening Radiance fills the forge, but the sword passes through the closed door and pursues them.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6821",
+            "endUid": "u7219"
+          },
+          "shortSummary": "The void sword passes through the closed door while the force hands push after it.",
+          "longSummary": "Delwath fills the forge with Sickening Radiance and Kenzo shuts the door as they retreat. The sword slips through the barrier and stabs Wellby and the ladder. Radiance reveals one invisible hand. Seeker converts Psychic Disruption into fire with his glove to wound the sword, then withdraws as Wellby strains to keep the hands behind the door.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Forge doorway and adjoining passage"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-025",
+          "title": "The Hands Force Their Way",
+          "boundaryReason": "The hands force the door open; Wellby lands a critical shot as the sword attacks again.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u7220",
+            "endUid": "u7541"
+          },
+          "shortSummary": "The hands force the door open as Wellby critically wounds the sword and retreats.",
+          "longSummary": "A hand bursts through the doorway and knocks Wellby prone. He scrambles away, stands, and lands a critical arrow that badly damages the sword. The ladder keeps striking it, but the sword acts again, stabbing the ladder and Seeker while Kenzo prepares to use his tattoo’s reach.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Forge doorway and adjoining passage"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-026",
+          "title": "Repositioning for the Smite",
+          "boundaryReason": "Kenzo attacks at range, and Delwath uses Scatter to rescue Seeker before landing a critical smite.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u7542",
+            "endUid": "u7934"
+          },
+          "shortSummary": "Delwath uses Scatter to rescue Seeker and places himself beside the sword for a critical smite.",
+          "longSummary": "Kenzo reaches the sword with Lengau’s Claw, avoiding psychic attacks that cannot harm it. After considering a wider teleport, Delwath uses Scatter to move himself and Seeker, taking Seeker out of immediate danger and entering melee. He withstands the sword’s retaliation and lands a critical Eldritch Smite.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Passage outside the forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            },
+            {
+              "name": "Lengau's Claw",
+              "role": "encountered",
+              "notes": "Lets Kenzo strike from beyond normal melee reach."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-027",
+          "title": "The Sword Splits into Daggers",
+          "boundaryReason": "The sword divides; Seeker abandons Animal Shapes to slow three daggers while the ladder grapples a hand.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u7935",
+            "endUid": "u8245"
+          },
+          "shortSummary": "The sword breaks into four void daggers, and Seeker sacrifices Animal Shapes to slow three of them.",
+          "longSummary": "Delwath’s blow shatters the sword into four independently attacking daggers. He uses Shield against their initial assault, though one wounds him. Seeker drops Animal Shapes and casts Slow on three daggers, ending the party’s easy flight home. The ladder grapples a force hand while Wellby destroys the unslowed dagger with a critical shot.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Passage outside the forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void daggers"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-028",
+          "title": "Daggers and Hands Destroyed",
+          "boundaryReason": "The party destroys the remaining daggers and both hands while the ladder holds the passage.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u8246",
+            "endUid": "u8678"
+          },
+          "shortSummary": "The party destroys the remaining daggers and both force hands while the ladder holds the passage.",
+          "longSummary": "Kenzo and Delwath destroy two of the remaining daggers; the last evades Seeker’s Catapult before Kenzo finishes it. Wellby brings down the rear force hand with his fiery bow. The front hand shoves the ladder backward and knocks it prone, but Wellby destroys that hand as well, leaving the party free to enter the forge.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Passage outside the forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Void daggers"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-029",
+          "title": "The Forge’s Hidden Stores",
+          "boundaryReason": "Search the forge and unlock the stone chest containing a rod, powders, and rings.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u8679",
+            "endUid": "u9035"
+          },
+          "shortSummary": "The forge’s side rooms contain metal stock and a locked chest of magical supplies.",
+          "longSummary": "Using the last moments of Ghostly Gaze and Seeker’s Tremorsense, the party checks for more threats. One room holds roughly two hundred bars of silver, mithril, and unfamiliar metals, but no adamantine. Wellby unlocks a stone chest containing a damaged silver rod with organic spiral decoration and a star-like orb, twenty labeled boxes of magical powders, and rings.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Underground forge and supply room"
+          },
+          "itemDetails": [
+            {
+              "name": "Apollyon's forge",
+              "role": "encountered"
+            },
+            {
+              "name": "Forge metal stock",
+              "role": "encountered",
+              "notes": "Roughly two hundred bars; no adamantine found."
+            },
+            {
+              "name": "Damaged silver rod",
+              "role": "encountered",
+              "notes": "Decorated with organic spirals supporting a star-like orb."
+            },
+            {
+              "name": "Magical powders",
+              "role": "encountered",
+              "notes": "Twenty labeled boxes recovered from the stone chest."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-030",
+          "title": "Asking the Tanshi About the Forge",
+          "boundaryReason": "Inspect the rings and etching room, then ask how the forge works and what powers it.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u9036",
+            "endUid": "u9397"
+          },
+          "shortSummary": "The Tanshi confirm that the forge still works and draws its power from the user.",
+          "longSummary": "The chest’s three matching braided-gold rings bear emerald, ruby, and sapphire, while the other side room holds mundane etching chemicals. Kenzo senses no ley lines at the forge. In response to Delwath’s five questions, the Tanshi indicate that touching it is not known to be dangerous, it remains functional, the user powers it, instructions survive in the notes, and its price is complicated. The party leaves the mechanism untouched.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Underground forge and etching room"
+          },
+          "npcDetails": [
+            {
+              "name": "Tanshi",
+              "role": "encountered",
+              "notes": "Answer questions about the forge’s operation and source of power."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon's forge",
+              "role": "encountered"
+            },
+            {
+              "name": "Three jeweled gold rings",
+              "role": "encountered",
+              "notes": "Matching braided bands set with emerald, ruby, and sapphire."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-031",
+          "title": "The Spellbook’s Protective Glyph",
+          "boundaryReason": "Retrieve the books, detect a glyph, and try unsuccessfully to dispel it before choosing the chime.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u9398",
+            "endUid": "u9733"
+          },
+          "shortSummary": "The party finds a glyph protecting Apollyon’s locked spellbook and prepares to open it from a distance.",
+          "longSummary": "They take the rod, powders, and rings upstairs. The portable hole smells of blood from the crimson book, so they remove both books. Wellby spots a tiny protective glyph on the locked book’s clasp. Two attempts to dispel it fail, and they decide to use the chime from as far away as possible with the others around a corner.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Basement storage area"
+          },
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Apollyon's locked spellbook",
+              "role": "encountered"
+            },
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            },
+            {
+              "name": "Chime of opening",
+              "role": "encountered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-005",
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-032"
+      ],
+      "locationRefs": [
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Apollyon's locked spellbook",
+        "Chime of opening",
+        "Damaged silver rod",
+        "Three jeweled gold rings"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "After the book’s glyph wounds Wellby, Seeker deciphers Apollyon’s instructions for powering the forge."
+      ],
+      "sourceLongSummaries": [
+        "The chime opens the book but triggers its glyph; Wellby suffers a powerful psychic blast while resisting its lasting mental effect. The volume contains backup spells and encrypted research notes, including forge instructions written in Elvish. Seeker spends three hours deciphering them, from about midafternoon to six, while companions rest. The forge consumes the user’s highest spell slot, recovered only after successful daily checks, and combines etched metal, powders, a hand plate, and an item opening. The rod appears to have been damaged in an attempt to destroy it, and the rings seem to have been found rather than made; their origins remain uncertain."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-032",
+          "title": "Reading Apollyon’s Encrypted Notes",
+          "boundaryReason": "Wellby survives the glyph; Seeker spends the afternoon decoding the forge instructions.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u9734",
+            "endUid": "u9969"
+          },
+          "shortSummary": "After the book’s glyph wounds Wellby, Seeker deciphers Apollyon’s instructions for powering the forge.",
+          "longSummary": "The chime opens the book but triggers its glyph; Wellby suffers a powerful psychic blast while resisting its lasting mental effect. The volume contains backup spells and encrypted research notes, including forge instructions written in Elvish. Seeker spends three hours deciphering them, from about midafternoon to six, while companions rest. The forge consumes the user’s highest spell slot, recovered only after successful daily checks, and combines etched metal, powders, a hand plate, and an item opening. The rod appears to have been damaged in an attempt to destroy it, and the rings seem to have been found rather than made; their origins remain uncertain.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Basement storage area"
+          },
+          "npcDetails": [
+            {
+              "name": "Apollyon",
+              "role": "mentioned",
+              "notes": "His encrypted research includes instructions for operating the forge."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon's locked spellbook",
+              "role": "encountered"
+            },
+            {
+              "name": "Chime of opening",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's forge",
+              "role": "mentioned",
+              "notes": "Its operation is explained in the decoded notes."
+            },
+            {
+              "name": "Damaged silver rod",
+              "role": "encountered"
+            },
+            {
+              "name": "Three jeweled gold rings",
+              "role": "encountered"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "timeline-006",
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "resolution": "part-of-day",
+      "beatIds": [
+        "beat-033"
+      ],
+      "locationRefs": [
+        "Apollyon's Tower",
+        "Temple of the Sibyl"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Crimson lich book",
+        "Lead box"
+      ],
+      "combatBeatIds": [],
+      "sourceShortSummaries": [
+        "At sunset the party returns to Dimitaur, who destroys the dangerous crimson book with fire."
+      ],
+      "sourceLongSummaries": [
+        "Seeker encloses the lich book in a temporarily created lead box, and the party teleports back to the Sibyl’s temple at sunset. They ask Dimitaur to watch the dangerous book while they investigate the dragon the following day. Instead, he orders them clear, opens the box, and burns the book with a fireball. They report their tower discoveries and prepare to rest; no following morning occurs before the session ends."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-033",
+          "title": "Dimitaur Burns the Lich Book",
+          "boundaryReason": "Contain the dangerous book, teleport back at sunset, and let Dimitaur destroy it.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u9970",
+            "endUid": "u10264"
+          },
+          "shortSummary": "At sunset the party returns to Dimitaur, who destroys the dangerous crimson book with fire.",
+          "longSummary": "Seeker encloses the lich book in a temporarily created lead box, and the party teleports back to the Sibyl’s temple at sunset. They ask Dimitaur to watch the dangerous book while they investigate the dragon the following day. Instead, he orders them clear, opens the box, and burns the book with a fireball. They report their tower discoveries and prepare to rest; no following morning occurs before the session ends.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower",
+              "Temple of the Sibyl"
+            ],
+            "context": "Teleportation at sunset and discussion with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Destroys the lich book after the party returns."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Lead box",
+              "role": "encountered",
+              "notes": "Created temporarily to contain the lich book during transport."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapBlocks": [
+    {
+      "blockId": "recap-001",
+      "kind": "beat",
+      "title": "Scouting and Departure",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "sourceRange": {
+        "startUid": "u0001",
+        "endUid": "u0970"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0001",
+          "endUid": "u0103"
+        },
+        {
+          "startUid": "u0104",
+          "endUid": "u0390"
+        },
+        {
+          "startUid": "u0391",
+          "endUid": "u0650"
+        },
+        {
+          "startUid": "u0651",
+          "endUid": "u0970"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "part-of-day",
+      "locationRefs": [
+        "Circular Island"
+      ],
+      "npcRefs": [
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Rope ladder"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party surveys Circular Island from the mountaintop and considers investigating Apollyon’s tower.",
+        "In a flashback to the previous evening, Seeker scouts the dragon’s lair with Clairvoyance.",
+        "The party takes leave of Dimitaur and chooses the tower as its first destination.",
+        "Seeker prepares to transform the party into ordinary ospreys for the westward flight."
+      ],
+      "sourceLongSummaries": [
+        "After resting at the temple, the party watches sunrise over the island’s radiating rivers and pools. Apollyon’s black tower remains conspicuously intact to the west. They discuss visiting it and investigating the dragon’s territory, then return to reconnaissance that could have happened before the preceding night’s rest.",
+        "Before the previous long rest, Seeker uses three Clairvoyance charges to inspect a ruined villa, a plaza, and thermal pools amid red-orange growth. Dragonets and four chimeras are visible. Kenzo cannot sense the dragon’s aura, prompting speculation about an extradimensional lair, but detects a fiend beneath the villa.",
+        "Back in the morning, Kenzo gives Dimitaur a statue of himself before the party leaves. They prioritize the tower and its possible forge over the dragon and jade. Kenzo senses no conscious creatures at the tower, although this cannot exclude constructs, mindless undead, or traps, and the party weighs travel options for the jagged coast.",
+        "The party chooses inconspicuous ordinary ospreys rather than larger birds. Seeker’s Animal Shapes will carry them to the tower, with an expected flight of several hours. They plan to animate the rope ladder close to the destination so its shorter duration will not expire during the journey."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-001",
+          "title": "Morning Above the Island",
+          "boundaryReason": "Opening morning frame; the next beat explicitly retcons to before the preceding rest.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0001",
+            "endUid": "u0103"
+          },
+          "shortSummary": "The party surveys Circular Island from the mountaintop and considers investigating Apollyon’s tower.",
+          "longSummary": "After resting at the temple, the party watches sunrise over the island’s radiating rivers and pools. Apollyon’s black tower remains conspicuously intact to the west. They discuss visiting it and investigating the dragon’s territory, then return to reconnaissance that could have happened before the preceding night’s rest.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl and the mountaintop overlook"
+          }
+        },
+        {
+          "beatId": "beat-002",
+          "title": "Scouting the Dragon’s Lair",
+          "boundaryReason": "Explicit flashback to the preceding evening’s clairvoyance and aura reconnaissance.",
+          "dateStart": "1749-05-18",
+          "dateEnd": null,
+          "timeWindow": "night",
+          "sourceRange": {
+            "startUid": "u0104",
+            "endUid": "u0390"
+          },
+          "shortSummary": "In a flashback to the previous evening, Seeker scouts the dragon’s lair with Clairvoyance.",
+          "longSummary": "Before the previous long rest, Seeker uses three Clairvoyance charges to inspect a ruined villa, a plaza, and thermal pools amid red-orange growth. Dragonets and four chimeras are visible. Kenzo cannot sense the dragon’s aura, prompting speculation about an extradimensional lair, but detects a fiend beneath the villa.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl; remote views of the dragon’s territory"
+          }
+        },
+        {
+          "beatId": "beat-003",
+          "title": "Choosing the Tower First",
+          "boundaryReason": "Return to the morning: farewell, aura reconnaissance, and travel options.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0391",
+            "endUid": "u0650"
+          },
+          "shortSummary": "The party takes leave of Dimitaur and chooses the tower as its first destination.",
+          "longSummary": "Back in the morning, Kenzo gives Dimitaur a statue of himself before the party leaves. They prioritize the tower and its possible forge over the dragon and jade. Kenzo senses no conscious creatures at the tower, although this cannot exclude constructs, mindless undead, or traps, and the party weighs travel options for the jagged coast.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Receives Kenzo’s farewell gift at the temple."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-004",
+          "title": "A Flock of Ospreys",
+          "boundaryReason": "Settle the animal-shape plan and its practical limits before departure.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "morning",
+          "sourceRange": {
+            "startUid": "u0651",
+            "endUid": "u0970"
+          },
+          "shortSummary": "Seeker prepares to transform the party into ordinary ospreys for the westward flight.",
+          "longSummary": "The party chooses inconspicuous ordinary ospreys rather than larger birds. Seeker’s Animal Shapes will carry them to the tower, with an expected flight of several hours. They plan to animate the rope ladder close to the destination so its shorter duration will not expire during the journey.",
+          "locationHints": {
+            "refs": [
+              "Circular Island"
+            ],
+            "context": "Temple of the Sibyl"
+          },
+          "itemDetails": [
+            {
+              "name": "Rope ladder",
+              "role": "encountered",
+              "notes": "The party plans to animate it near the tower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-002",
+      "kind": "combat",
+      "title": "Entering the Black Tower",
+      "beatIds": [
+        "beat-005",
+        "beat-006",
+        "beat-007"
+      ],
+      "sourceRange": {
+        "startUid": "u0971",
+        "endUid": "u1839"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u0971",
+          "endUid": "u1152"
+        },
+        {
+          "startUid": "u1153",
+          "endUid": "u1454"
+        },
+        {
+          "startUid": "u1455",
+          "endUid": "u1839"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Temple of the Sibyl",
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Animated rope ladder",
+        "Chime of opening",
+        "Apollyon's Soulbinding Manacles"
+      ],
+      "combatEnemyRefs": [
+        "Tower guardians"
+      ],
+      "sourceShortSummaries": [
+        "The ospreys reach Apollyon’s tower with an animated ladder transformed into a fifth bird.",
+        "The tower guardians shoot the approaching ospreys as the party reaches the rooftop hatch.",
+        "The party opens the hatch and escapes into the ritual chamber before the guardians can surround them."
+      ],
+      "sourceLongSummaries": [
+        "The party flies west past statues of the Warlord and Wildling. After a couple of hours, an oppressive presence pushes at them as they approach the tower. Seeker lands behind a boulder, animates the rope ladder, and transforms it into another osprey. They inspect the tower’s terrace, two stone guardians with metal fists, and a hatch at the top of the spire.",
+        "Crystal darts strike the birds just before they land, breaking several transformations and leaving Seeker hurt from the fall. The party gathers on the roof and investigates the handleless hatch with mundane inspection, Detect Magic, and Tremorsense. They prepare to use the chime under Silence, but the guardians move before that precaution can be completed.",
+        "A tiny mechanical fly has been observing the party as the guardians rise toward the roof. Wellby opens the hatch with the chime and jumps through, while Kenzo carries Seeker inside. Delwath follows after taking a dart hit and closes the hatch. Below it, they find an anvil, hanging manacles, channels leading to a well, and descending stairs."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-005",
+          "title": "Flight to the Black Tower",
+          "boundaryReason": "Travel west, animate the ladder, and inspect the tower from the air.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u0971",
+            "endUid": "u1152"
+          },
+          "shortSummary": "The ospreys reach Apollyon’s tower with an animated ladder transformed into a fifth bird.",
+          "longSummary": "The party flies west past statues of the Warlord and Wildling. After a couple of hours, an oppressive presence pushes at them as they approach the tower. Seeker lands behind a boulder, animates the rope ladder, and transforms it into another osprey. They inspect the tower’s terrace, two stone guardians with metal fists, and a hatch at the top of the spire.",
+          "locationHints": {
+            "refs": [
+              "Temple of the Sibyl",
+              "Apollyon's Tower"
+            ],
+            "context": "Westward flight as ospreys"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-006",
+          "title": "Darts Above the Battlements",
+          "boundaryReason": "The tower guardians shoot the approaching birds; the party investigates the rooftop hatch.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1153",
+            "endUid": "u1454"
+          },
+          "shortSummary": "The tower guardians shoot the approaching ospreys as the party reaches the rooftop hatch.",
+          "longSummary": "Crystal darts strike the birds just before they land, breaking several transformations and leaving Seeker hurt from the fall. The party gathers on the roof and investigates the handleless hatch with mundane inspection, Detect Magic, and Tremorsense. They prepare to use the chime under Silence, but the guardians move before that precaution can be completed.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Spire roof and hatch"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            },
+            {
+              "name": "Chime of opening",
+              "role": "encountered",
+              "notes": "Prepared for the rooftop hatch."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-007",
+          "title": "Escape Through the Hatch",
+          "boundaryReason": "The guardians rise to attack; the party opens the hatch and escapes into the ritual chamber.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1455",
+            "endUid": "u1839"
+          },
+          "shortSummary": "The party opens the hatch and escapes into the ritual chamber before the guardians can surround them.",
+          "longSummary": "A tiny mechanical fly has been observing the party as the guardians rise toward the roof. Wellby opens the hatch with the chime and jumps through, while Kenzo carries Seeker inside. Delwath follows after taking a dart hit and closes the hatch. Below it, they find an anvil, hanging manacles, channels leading to a well, and descending stairs.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Spire roof and ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Chime of opening",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-003",
+      "kind": "combat",
+      "title": "Manacles and Stone Guardians",
+      "beatIds": [
+        "beat-008",
+        "beat-009",
+        "beat-010",
+        "beat-011",
+        "beat-012",
+        "beat-013"
+      ],
+      "sourceRange": {
+        "startUid": "u1840",
+        "endUid": "u3874"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u1840",
+          "endUid": "u2080"
+        },
+        {
+          "startUid": "u2081",
+          "endUid": "u2428"
+        },
+        {
+          "startUid": "u2429",
+          "endUid": "u2760"
+        },
+        {
+          "startUid": "u2761",
+          "endUid": "u3092"
+        },
+        {
+          "startUid": "u3093",
+          "endUid": "u3445"
+        },
+        {
+          "startUid": "u3446",
+          "endUid": "u3874"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Apollyon's Soulbinding Manacles",
+        "Animated rope ladder"
+      ],
+      "combatEnemyRefs": [
+        "Tower guardians"
+      ],
+      "sourceShortSummaries": [
+        "Seeker identifies the manacles as instruments for capturing sacrificed souls and creating a lich.",
+        "The party holds the narrow stairs while the guardians advance into the ritual chamber.",
+        "Wellby blinds the leading guardian while the ladder absorbs its counterattack.",
+        "A reflected spell forces the party to rely on arrows, strikes, and the ladder’s defense.",
+        "Kenzo is driven back as Delwath and Seeker press the attack at the stairway.",
+        "Kenzo and Delwath finish the two guardians, leaving only dust and mechanical remains."
+      ],
+      "sourceLongSummaries": [
+        "Putting blood on the anvil has no apparent effect. Seeker touches the necromantic manacles to identify them, resists their influence, and learns that they channel sacrificed souls into a nearby phylactery and help prepare a potion for lich transformation. The party considers using the mirror to discover Apollyon’s phylactery, but hears the guardians approaching from below.",
+        "Kenzo takes a flying position above the stairs, the animated ladder blocks the passage, and Wellby prepares to shoot from behind it. Delwath conjures shadowy lynxes, but their attacks gain no purchase on the guardians. Seeker retains concentration on Animal Shapes while the party works around the cramped approach and the constructs’ magical defenses.",
+        "Wellby shoots the first guardian’s eyes, giving Kenzo an opening for a flurry of attacks. The guardians batter the ladder and fire force darts, but cannot shove the oversized barricade aside. Delwath struggles to reach the enemy through the crowded stairway.",
+        "Delwath casts Sanctuary on the ladder, then discovers that an acid Sorcerer Burst rebounds from the guardian toward Kenzo, who deflects it harmlessly. Seeker becomes a large bird and inspires Kenzo while the ladder holds its position. Wellby blinds the guardian again so Kenzo can continue attacking.",
+        "Kenzo deflects one punch but is knocked backward by another and wounded by darts. Delwath drops into the space between the guardians and strikes with a smite, leaving the leading construct badly damaged. Seeker attacks in bird form while the ladder continues to contest the passage.",
+        "Wellby shifts his blinding arrows to the second guardian as Kenzo destroys the first and flies around the survivor. Kenzo turns its punches back against it, Seeker attacks in bird form, and Delwath protects himself with Shield. Delwath’s final sword strike brings down the remaining guardian."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-008",
+          "title": "The Soulbinding Manacles",
+          "boundaryReason": "Identify the chains and their role in making and feeding a lich’s phylactery.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u1840",
+            "endUid": "u2080"
+          },
+          "shortSummary": "Seeker identifies the manacles as instruments for capturing sacrificed souls and creating a lich.",
+          "longSummary": "Putting blood on the anvil has no apparent effect. Seeker touches the necromantic manacles to identify them, resists their influence, and learns that they channel sacrificed souls into a nearby phylactery and help prepare a potion for lich transformation. The party considers using the mirror to discover Apollyon’s phylactery, but hears the guardians approaching from below.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Ritual chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Apollyon",
+              "role": "mentioned",
+              "notes": "The chamber and ritual are linked to his transformation into a lich."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            },
+            {
+              "name": "Eudomes' Mirror of the Past",
+              "role": "mentioned"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-009",
+          "title": "Holding the Ritual Chamber",
+          "boundaryReason": "Prepare a defensive position as the guardians approach; conjured lynxes fail to hurt them.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2081",
+            "endUid": "u2428"
+          },
+          "shortSummary": "The party holds the narrow stairs while the guardians advance into the ritual chamber.",
+          "longSummary": "Kenzo takes a flying position above the stairs, the animated ladder blocks the passage, and Wellby prepares to shoot from behind it. Delwath conjures shadowy lynxes, but their attacks gain no purchase on the guardians. Seeker retains concentration on Animal Shapes while the party works around the cramped approach and the constructs’ magical defenses.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-010",
+          "title": "Arrows and the Ladder Barricade",
+          "boundaryReason": "First exchanges: Wellby blinds a guardian, Kenzo attacks, and the ladder absorbs the counterattack.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2429",
+            "endUid": "u2760"
+          },
+          "shortSummary": "Wellby blinds the leading guardian while the ladder absorbs its counterattack.",
+          "longSummary": "Wellby shoots the first guardian’s eyes, giving Kenzo an opening for a flurry of attacks. The guardians batter the ladder and fire force darts, but cannot shove the oversized barricade aside. Delwath struggles to reach the enemy through the crowded stairway.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-011",
+          "title": "Reflected Magic and Renewed Blindness",
+          "boundaryReason": "A reflected spell changes tactics; Seeker becomes a bird and Wellby renews the blindness.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u2761",
+            "endUid": "u3092"
+          },
+          "shortSummary": "A reflected spell forces the party to rely on arrows, strikes, and the ladder’s defense.",
+          "longSummary": "Delwath casts Sanctuary on the ladder, then discovers that an acid Sorcerer Burst rebounds from the guardian toward Kenzo, who deflects it harmlessly. Seeker becomes a large bird and inspires Kenzo while the ladder holds its position. Wellby blinds the guardian again so Kenzo can continue attacking.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-012",
+          "title": "Holding Against the Counterattack",
+          "boundaryReason": "Kenzo is knocked back; Delwath joins the melee and Seeker attacks in bird form.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3093",
+            "endUid": "u3445"
+          },
+          "shortSummary": "Kenzo is driven back as Delwath and Seeker press the attack at the stairway.",
+          "longSummary": "Kenzo deflects one punch but is knocked backward by another and wounded by darts. Delwath drops into the space between the guardians and strikes with a smite, leaving the leading construct badly damaged. Seeker attacks in bird form while the ladder continues to contest the passage.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-013",
+          "title": "The Guardians Crumble",
+          "boundaryReason": "Kenzo destroys the first guardian, and the party finishes the second.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3446",
+            "endUid": "u3874"
+          },
+          "shortSummary": "Kenzo and Delwath finish the two guardians, leaving only dust and mechanical remains.",
+          "longSummary": "Wellby shifts his blinding arrows to the second guardian as Kenzo destroys the first and flies around the survivor. Kenzo turns its punches back against it, Seeker attacks in bird form, and Delwath protects himself with Shield. Delwath’s final sword strike brings down the remaining guardian.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Stairs into the ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Tower guardians"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-004",
+      "kind": "beat",
+      "title": "The Dagger in the Mirror",
+      "beatIds": [
+        "beat-014",
+        "beat-015"
+      ],
+      "sourceRange": {
+        "startUid": "u3875",
+        "endUid": "u4474"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u3875",
+          "endUid": "u4171"
+        },
+        {
+          "startUid": "u4172",
+          "endUid": "u4474"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [
+        "Apollyon"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Eudomes' Mirror of the Past",
+        "Apollyon's Soulbinding Manacles",
+        "Guardian cores and mechanical flies",
+        "Animated rope ladder",
+        "Apollyon's dagger phylactery",
+        "Adamantine scraps"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "After healing and salvaging the guardians, the party decides to question the mirror about the manacles.",
+        "The mirror reveals that Apollyon’s phylactery is a plain adamantine dagger forged in the ritual chamber."
+      ],
+      "sourceLongSummaries": [
+        "The party heals Kenzo and the ladder, then retrieves two cracked metallic cores and two mechanical flies from the guardians’ remains. They weigh the mirror’s seven-day recharge against other questions they may need to ask. Since the manacles are fixed in place, they choose to investigate them now and hope to retain another use for Rai’s hand later.",
+        "Kenzo asks the mirror to show the phylactery. The vision depicts a human Apollyon wearing a crown and rainbow cloak, forging an unadorned iron-hilted dagger with layers of inscribed adamantine. Repeated sacrifices send souls into the dagger, while collected blood and shadows from the crown contribute to his potion. Seeker searches for adamantine and gathers about half a pound of scraps, hoping they might help locate the dagger."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-014",
+          "title": "Choosing the Mirror’s Question",
+          "boundaryReason": "Heal, salvage the guardians, and choose to investigate the manacles with the mirror.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u3875",
+            "endUid": "u4171"
+          },
+          "shortSummary": "After healing and salvaging the guardians, the party decides to question the mirror about the manacles.",
+          "longSummary": "The party heals Kenzo and the ladder, then retrieves two cracked metallic cores and two mechanical flies from the guardians’ remains. They weigh the mirror’s seven-day recharge against other questions they may need to ask. Since the manacles are fixed in place, they choose to investigate them now and hope to retain another use for Rai’s hand later.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Ritual chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Eudomes' Mirror of the Past",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            },
+            {
+              "name": "Guardian cores and mechanical flies",
+              "role": "encountered",
+              "notes": "Two cracked cores and two mechanical flies are recovered."
+            },
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-015",
+          "title": "The Dagger Phylactery",
+          "boundaryReason": "The mirror reveals the dagger’s forging and soul sacrifices; Seeker gathers adamantine scraps.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u4172",
+            "endUid": "u4474"
+          },
+          "shortSummary": "The mirror reveals that Apollyon’s phylactery is a plain adamantine dagger forged in the ritual chamber.",
+          "longSummary": "Kenzo asks the mirror to show the phylactery. The vision depicts a human Apollyon wearing a crown and rainbow cloak, forging an unadorned iron-hilted dagger with layers of inscribed adamantine. Repeated sacrifices send souls into the dagger, while collected blood and shadows from the crown contribute to his potion. Seeker searches for adamantine and gathers about half a pound of scraps, hoping they might help locate the dagger.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Ritual chamber"
+          },
+          "npcDetails": [
+            {
+              "name": "Apollyon",
+              "role": "encountered",
+              "notes": "Seen as a human in the mirror’s vision of his preparations for lichdom."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Eudomes' Mirror of the Past",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's Soulbinding Manacles",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's dagger phylactery",
+              "role": "encountered",
+              "notes": "Seen in the mirror’s historical vision; not recovered."
+            },
+            {
+              "name": "Adamantine scraps",
+              "role": "encountered",
+              "notes": "About half a pound gathered from the chamber."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-005",
+      "kind": "beat",
+      "title": "Books and Haunted Rooms",
+      "beatIds": [
+        "beat-016",
+        "beat-017"
+      ],
+      "sourceRange": {
+        "startUid": "u4475",
+        "endUid": "u5273"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u4475",
+          "endUid": "u4800"
+        },
+        {
+          "startUid": "u4801",
+          "endUid": "u5273"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [
+        "Omnis Pura"
+      ],
+      "itemRefs": [
+        "Crimson lich book",
+        "Apollyon's locked spellbook",
+        "Portable hole",
+        "Residential valuables"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The party descends through the ruined upper floors and retrieves two surviving magical books.",
+        "The party bypasses a room of moving metal and searches the tower’s living quarters."
+      ],
+      "sourceLongSummaries": [
+        "An empty terrace, decayed study, and largely ruined library yield two intact books: an unmarked crimson volume and a locked book with a metal clasp. Seeker discovers that the crimson book is bound in human skin soaked in blood and explains how to become a lich. After handling it, he undergoes an unexplained saving throw; the party uses Mage Hand to place both books in the portable hole.",
+        "They pass an Omnis Pura meeting room with imperial statues, then hear metal rattling beyond a partition. Delwath’s Ghostly Gaze reveals scraps swirling in the next room. Rather than enter it, the party flies outside as ospreys and reenters through lower windows. Searching three residential floors yields coins, a silver pitcher, a gold platter, and three plain gold rings."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-016",
+          "title": "Two Books in the Ruins",
+          "boundaryReason": "Descend through the decayed upper floors and recover two surviving magical books.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u4475",
+            "endUid": "u4800"
+          },
+          "shortSummary": "The party descends through the ruined upper floors and retrieves two surviving magical books.",
+          "longSummary": "An empty terrace, decayed study, and largely ruined library yield two intact books: an unmarked crimson volume and a locked book with a metal clasp. Seeker discovers that the crimson book is bound in human skin soaked in blood and explains how to become a lich. After handling it, he undergoes an unexplained saving throw; the party uses Mage Hand to place both books in the portable hole.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Terrace, ruined study, and library"
+          },
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Apollyon's locked spellbook",
+              "role": "encountered"
+            },
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-017",
+          "title": "Bypassing the Haunted Floor",
+          "boundaryReason": "Investigate the Omnis Pura chamber, bypass the moving metal, and search the living quarters.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u4801",
+            "endUid": "u5273"
+          },
+          "shortSummary": "The party bypasses a room of moving metal and searches the tower’s living quarters.",
+          "longSummary": "They pass an Omnis Pura meeting room with imperial statues, then hear metal rattling beyond a partition. Delwath’s Ghostly Gaze reveals scraps swirling in the next room. Rather than enter it, the party flies outside as ospreys and reenters through lower windows. Searching three residential floors yields coins, a silver pitcher, a gold platter, and three plain gold rings.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Omnis Pura meeting room and residential floors"
+          },
+          "itemDetails": [
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            },
+            {
+              "name": "Residential valuables",
+              "role": "encountered",
+              "notes": "Coins, a silver pitcher, a gold platter, and three plain gold rings."
+            }
+          ],
+          "organizationDetails": [
+            {
+              "name": "Omnis Pura",
+              "role": "encountered",
+              "notes": "Its meeting chamber and imperial statues remain in the tower."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-006",
+      "kind": "combat",
+      "title": "Skeletons and the Descent Below",
+      "beatIds": [
+        "beat-018",
+        "beat-019",
+        "beat-020",
+        "beat-021",
+        "beat-022"
+      ],
+      "sourceRange": {
+        "startUid": "u5274",
+        "endUid": "u6507"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u5274",
+          "endUid": "u5447"
+        },
+        {
+          "startUid": "u5448",
+          "endUid": "u5794"
+        },
+        {
+          "startUid": "u5795",
+          "endUid": "u6025"
+        },
+        {
+          "startUid": "u6026",
+          "endUid": "u6197"
+        },
+        {
+          "startUid": "u6198",
+          "endUid": "u6507"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Immovable rod",
+        "Crimson lich book",
+        "Jeweled stone throne",
+        "Portable hole",
+        "Rope ladder",
+        "Apollyon's forge"
+      ],
+      "combatEnemyRefs": [
+        "Audience chamber skeletons"
+      ],
+      "sourceShortSummaries": [
+        "Wellby opens the audience chamber, awakens its skeletons, and seals the doors with an immovable rod.",
+        "The party destroys the trapped skeletons while a possessing shadow briefly forces Seeker to attack Delwath.",
+        "The party becomes elephants to push the jeweled throne into the portable hole.",
+        "A locked door below the storage rooms prompts a short rest before further exploration.",
+        "After scouting the hidden forge, the party opens its door and triggers a fireball trap."
+      ],
+      "sourceLongSummaries": [
+        "At the entrance level, Seeker detects extensive rooms below and the party finds a stairway in a side guardroom. Wellby checks the audience chamber before they descend. Roughly forty skeletons, including one on the throne, begin to rise, so the party shuts the doors and braces them with an immovable rod.",
+        "Seeker and Delwath fly outside as birds to attack through the windows. Once they resume their normal forms, the book’s curse makes Seeker strike Delwath with Catapult; a black shadow leaves Seeker’s face, and he remembers none of it. Delwath’s Sickening Radiance kills the skeletons over ten minutes. Seeker heals Delwath and Kenzo’s cleansing touch confirms that the influence has departed.",
+        "With the skeletons destroyed, the party claims the large gemstone-studded stone throne. They rearrange the portable hole, moving its mirrors out of the way, and use Animal Shapes to become elephants capable of pushing the throne inside. They then repack the hole around their new prize.",
+        "The basement contains spoiled wine and moldy silk, with another stairway descending to a locked metal door. Wellby finds no physical trap, while Detect Magic detects magic beyond the barrier. After roughly an hour of searching since the guardian fight, they return upstairs for a short rest with Delwath’s tea and biscuits; the ladder’s animation expires.",
+        "Delwath’s Ghostly Gaze reveals a pedestal with four openings and ten silver rings connected to a wall plate, a floating sword like a hole in the world, and two side rooms. See Invisibility exposes two large force hands. The party spreads out before Wellby unlocks the door and triggers a fireball; Wellby evades the blast, but Seeker takes 32 points of fire damage despite spending heroic inspiration."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-018",
+          "title": "Skeletons Behind the Audience Doors",
+          "boundaryReason": "Explore the entrance floor and seal the awakening skeletons behind an immovable rod.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5274",
+            "endUid": "u5447"
+          },
+          "shortSummary": "Wellby opens the audience chamber, awakens its skeletons, and seals the doors with an immovable rod.",
+          "longSummary": "At the entrance level, Seeker detects extensive rooms below and the party finds a stairway in a side guardroom. Wellby checks the audience chamber before they descend. Roughly forty skeletons, including one on the throne, begin to rise, so the party shuts the doors and braces them with an immovable rod.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Entrance floor and audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Immovable rod",
+              "role": "encountered",
+              "notes": "Braces the audience chamber doors."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-019",
+          "title": "Radiance and a Released Curse",
+          "boundaryReason": "Attack the skeletons from outside while the book’s curse forces Seeker to attack Delwath.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5448",
+            "endUid": "u5794"
+          },
+          "shortSummary": "The party destroys the trapped skeletons while a possessing shadow briefly forces Seeker to attack Delwath.",
+          "longSummary": "Seeker and Delwath fly outside as birds to attack through the windows. Once they resume their normal forms, the book’s curse makes Seeker strike Delwath with Catapult; a black shadow leaves Seeker’s face, and he remembers none of it. Delwath’s Sickening Radiance kills the skeletons over ten minutes. Seeker heals Delwath and Kenzo’s cleansing touch confirms that the influence has departed.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Exterior windows and audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Immovable rod",
+              "role": "encountered"
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "full",
+            "mainEnemies": [
+              {
+                "name": "Audience chamber skeletons"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-020",
+          "title": "Elephants Steal a Throne",
+          "boundaryReason": "After the skeletons fall, transform into elephants to load the throne into the portable hole.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u5795",
+            "endUid": "u6025"
+          },
+          "shortSummary": "The party becomes elephants to push the jeweled throne into the portable hole.",
+          "longSummary": "With the skeletons destroyed, the party claims the large gemstone-studded stone throne. They rearrange the portable hole, moving its mirrors out of the way, and use Animal Shapes to become elephants capable of pushing the throne inside. They then repack the hole around their new prize.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Jeweled stone throne",
+              "role": "encountered",
+              "notes": "Loaded into the portable hole."
+            },
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-021",
+          "title": "The Locked Basement Door",
+          "boundaryReason": "Find the lower door and return to the audience chamber for a short rest.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6026",
+            "endUid": "u6197"
+          },
+          "shortSummary": "A locked door below the storage rooms prompts a short rest before further exploration.",
+          "longSummary": "The basement contains spoiled wine and moldy silk, with another stairway descending to a locked metal door. Wellby finds no physical trap, while Detect Magic detects magic beyond the barrier. After roughly an hour of searching since the guardian fight, they return upstairs for a short rest with Delwath’s tea and biscuits; the ladder’s animation expires.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Basement storage, lower door, and audience chamber"
+          },
+          "itemDetails": [
+            {
+              "name": "Rope ladder",
+              "role": "encountered",
+              "notes": "Its first animation expires around the rest."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-022",
+          "title": "Scouting and Opening the Forge",
+          "boundaryReason": "Scout the forge, prepare at its door, and resolve the fireball trap; the next beat begins at the explicit call for initiative at u6508.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6198",
+            "endUid": "u6507"
+          },
+          "shortSummary": "After scouting the hidden forge, the party opens its door and triggers a fireball trap.",
+          "longSummary": "Delwath’s Ghostly Gaze reveals a pedestal with four openings and ten silver rings connected to a wall plate, a floating sword like a hole in the world, and two side rooms. See Invisibility exposes two large force hands. The party spreads out before Wellby unlocks the door and triggers a fireball; Wellby evades the blast, but Seeker takes 32 points of fire damage despite spending heroic inspiration.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Door to the underground forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Apollyon's forge",
+              "role": "encountered",
+              "notes": "Viewed through the door; its mechanism is not yet understood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "blockId": "recap-007",
+      "kind": "combat",
+      "title": "The Forge’s Defenders",
+      "beatIds": [
+        "beat-023",
+        "beat-024",
+        "beat-025",
+        "beat-026",
+        "beat-027",
+        "beat-028"
+      ],
+      "sourceRange": {
+        "startUid": "u6508",
+        "endUid": "u8678"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u6508",
+          "endUid": "u6820"
+        },
+        {
+          "startUid": "u6821",
+          "endUid": "u7219"
+        },
+        {
+          "startUid": "u7220",
+          "endUid": "u7541"
+        },
+        {
+          "startUid": "u7542",
+          "endUid": "u7934"
+        },
+        {
+          "startUid": "u7935",
+          "endUid": "u8245"
+        },
+        {
+          "startUid": "u8246",
+          "endUid": "u8678"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Apollyon's Tower"
+      ],
+      "npcRefs": [],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Animated rope ladder",
+        "Lengau's Claw"
+      ],
+      "combatEnemyRefs": [
+        "Void sword",
+        "Force hands",
+        "Void daggers"
+      ],
+      "sourceShortSummaries": [
+        "The party rolls initiative against the void sword and force hands and plans to contain them with Sickening Radiance.",
+        "The void sword passes through the closed door while the force hands push after it.",
+        "The hands force the door open as Wellby critically wounds the sword and retreats.",
+        "Delwath uses Scatter to rescue Seeker and places himself beside the sword for a critical smite.",
+        "The sword breaks into four void daggers, and Seeker sacrifices Animal Shapes to slow three of them.",
+        "The party destroys the remaining daggers and both force hands while the ladder holds the passage."
+      ],
+      "sourceLongSummaries": [
+        "As initiative begins, Seeker reanimates the ladder instead of using a concentration-dependent summoned construct. Kenzo’s Soul Sight reveals the void sword’s formidable defenses, including immunity to psychic, necrotic, and poison damage and all conditions. The party plans to fill the forge with Sickening Radiance, shut the door, and withdraw.",
+        "Delwath fills the forge with Sickening Radiance and Kenzo shuts the door as they retreat. The sword slips through the barrier and stabs Wellby and the ladder. Radiance reveals one invisible hand. Seeker converts Psychic Disruption into fire with his glove to wound the sword, then withdraws as Wellby strains to keep the hands behind the door.",
+        "A hand bursts through the doorway and knocks Wellby prone. He scrambles away, stands, and lands a critical arrow that badly damages the sword. The ladder keeps striking it, but the sword acts again, stabbing the ladder and Seeker while Kenzo prepares to use his tattoo’s reach.",
+        "Kenzo reaches the sword with Lengau’s Claw, avoiding psychic attacks that cannot harm it. After considering a wider teleport, Delwath uses Scatter to move himself and Seeker, taking Seeker out of immediate danger and entering melee. He withstands the sword’s retaliation and lands a critical Eldritch Smite.",
+        "Delwath’s blow shatters the sword into four independently attacking daggers. He uses Shield against their initial assault, though one wounds him. Seeker drops Animal Shapes and casts Slow on three daggers, ending the party’s easy flight home. The ladder grapples a force hand while Wellby destroys the unslowed dagger with a critical shot.",
+        "Kenzo and Delwath destroy two of the remaining daggers; the last evades Seeker’s Catapult before Kenzo finishes it. Wellby brings down the rear force hand with his fiery bow. The front hand shoves the ladder backward and knocks it prone, but Wellby destroys that hand as well, leaving the party free to enter the forge."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-023",
+          "title": "The Forge Battle Begins",
+          "boundaryReason": "Initiative begins against the sword and force hands; Soul Sight reveals the sword’s defenses and the party chooses its opening tactics.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6508",
+            "endUid": "u6820"
+          },
+          "shortSummary": "The party rolls initiative against the void sword and force hands and plans to contain them with Sickening Radiance.",
+          "longSummary": "As initiative begins, Seeker reanimates the ladder instead of using a concentration-dependent summoned construct. Kenzo’s Soul Sight reveals the void sword’s formidable defenses, including immunity to psychic, necrotic, and poison damage and all conditions. The party plans to fill the forge with Sickening Radiance, shut the door, and withdraw.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Door to the underground forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "start",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-024",
+          "title": "The Sword Ignores the Door",
+          "boundaryReason": "Sickening Radiance fills the forge, but the sword passes through the closed door and pursues them.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u6821",
+            "endUid": "u7219"
+          },
+          "shortSummary": "The void sword passes through the closed door while the force hands push after it.",
+          "longSummary": "Delwath fills the forge with Sickening Radiance and Kenzo shuts the door as they retreat. The sword slips through the barrier and stabs Wellby and the ladder. Radiance reveals one invisible hand. Seeker converts Psychic Disruption into fire with his glove to wound the sword, then withdraws as Wellby strains to keep the hands behind the door.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Forge doorway and adjoining passage"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-025",
+          "title": "The Hands Force Their Way",
+          "boundaryReason": "The hands force the door open; Wellby lands a critical shot as the sword attacks again.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u7220",
+            "endUid": "u7541"
+          },
+          "shortSummary": "The hands force the door open as Wellby critically wounds the sword and retreats.",
+          "longSummary": "A hand bursts through the doorway and knocks Wellby prone. He scrambles away, stands, and lands a critical arrow that badly damages the sword. The ladder keeps striking it, but the sword acts again, stabbing the ladder and Seeker while Kenzo prepares to use his tattoo’s reach.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Forge doorway and adjoining passage"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-026",
+          "title": "Repositioning for the Smite",
+          "boundaryReason": "Kenzo attacks at range, and Delwath uses Scatter to rescue Seeker before landing a critical smite.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u7542",
+            "endUid": "u7934"
+          },
+          "shortSummary": "Delwath uses Scatter to rescue Seeker and places himself beside the sword for a critical smite.",
+          "longSummary": "Kenzo reaches the sword with Lengau’s Claw, avoiding psychic attacks that cannot harm it. After considering a wider teleport, Delwath uses Scatter to move himself and Seeker, taking Seeker out of immediate danger and entering melee. He withstands the sword’s retaliation and lands a critical Eldritch Smite.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Passage outside the forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            },
+            {
+              "name": "Lengau's Claw",
+              "role": "encountered",
+              "notes": "Lets Kenzo strike from beyond normal melee reach."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void sword"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-027",
+          "title": "The Sword Splits into Daggers",
+          "boundaryReason": "The sword divides; Seeker abandons Animal Shapes to slow three daggers while the ladder grapples a hand.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u7935",
+            "endUid": "u8245"
+          },
+          "shortSummary": "The sword breaks into four void daggers, and Seeker sacrifices Animal Shapes to slow three of them.",
+          "longSummary": "Delwath’s blow shatters the sword into four independently attacking daggers. He uses Shield against their initial assault, though one wounds him. Seeker drops Animal Shapes and casts Slow on three daggers, ending the party’s easy flight home. The ladder grapples a force hand while Wellby destroys the unslowed dagger with a critical shot.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Passage outside the forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "middle",
+            "mainEnemies": [
+              {
+                "name": "Void daggers"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        },
+        {
+          "beatId": "beat-028",
+          "title": "Daggers and Hands Destroyed",
+          "boundaryReason": "The party destroys the remaining daggers and both hands while the ladder holds the passage.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u8246",
+            "endUid": "u8678"
+          },
+          "shortSummary": "The party destroys the remaining daggers and both force hands while the ladder holds the passage.",
+          "longSummary": "Kenzo and Delwath destroy two of the remaining daggers; the last evades Seeker’s Catapult before Kenzo finishes it. Wellby brings down the rear force hand with his fiery bow. The front hand shoves the ladder backward and knocks it prone, but Wellby destroys that hand as well, leaving the party free to enter the forge.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Passage outside the forge"
+          },
+          "itemDetails": [
+            {
+              "name": "Animated rope ladder",
+              "role": "encountered",
+              "notes": "Seeker animates the ladder; it serves as a mobile barrier and combatant."
+            }
+          ],
+          "combatHints": {
+            "isCombat": true,
+            "phase": "end",
+            "mainEnemies": [
+              {
+                "name": "Void daggers"
+              },
+              {
+                "name": "Force hands"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "blockId": "recap-008",
+      "kind": "beat",
+      "title": "Secrets and the Return to Dimitaur",
+      "beatIds": [
+        "beat-029",
+        "beat-030",
+        "beat-031",
+        "beat-032",
+        "beat-033"
+      ],
+      "sourceRange": {
+        "startUid": "u8679",
+        "endUid": "u10264"
+      },
+      "sourceRanges": [
+        {
+          "startUid": "u8679",
+          "endUid": "u9035"
+        },
+        {
+          "startUid": "u9036",
+          "endUid": "u9397"
+        },
+        {
+          "startUid": "u9398",
+          "endUid": "u9733"
+        },
+        {
+          "startUid": "u9734",
+          "endUid": "u9969"
+        },
+        {
+          "startUid": "u9970",
+          "endUid": "u10264"
+        }
+      ],
+      "dateStart": "1749-05-19",
+      "dateEnd": null,
+      "timeWindow": null,
+      "resolution": "day",
+      "locationRefs": [
+        "Apollyon's Tower",
+        "Temple of the Sibyl"
+      ],
+      "npcRefs": [
+        "Tanshi",
+        "Dimitaur"
+      ],
+      "organizationRefs": [],
+      "itemRefs": [
+        "Apollyon's forge",
+        "Forge metal stock",
+        "Damaged silver rod",
+        "Magical powders",
+        "Three jeweled gold rings",
+        "Crimson lich book",
+        "Apollyon's locked spellbook",
+        "Portable hole",
+        "Chime of opening",
+        "Lead box"
+      ],
+      "combatEnemyRefs": [],
+      "sourceShortSummaries": [
+        "The forge’s side rooms contain metal stock and a locked chest of magical supplies.",
+        "The Tanshi confirm that the forge still works and draws its power from the user.",
+        "The party finds a glyph protecting Apollyon’s locked spellbook and prepares to open it from a distance.",
+        "After the book’s glyph wounds Wellby, Seeker deciphers Apollyon’s instructions for powering the forge.",
+        "At sunset the party returns to Dimitaur, who destroys the dangerous crimson book with fire."
+      ],
+      "sourceLongSummaries": [
+        "Using the last moments of Ghostly Gaze and Seeker’s Tremorsense, the party checks for more threats. One room holds roughly two hundred bars of silver, mithril, and unfamiliar metals, but no adamantine. Wellby unlocks a stone chest containing a damaged silver rod with organic spiral decoration and a star-like orb, twenty labeled boxes of magical powders, and rings.",
+        "The chest’s three matching braided-gold rings bear emerald, ruby, and sapphire, while the other side room holds mundane etching chemicals. Kenzo senses no ley lines at the forge. In response to Delwath’s five questions, the Tanshi indicate that touching it is not known to be dangerous, it remains functional, the user powers it, instructions survive in the notes, and its price is complicated. The party leaves the mechanism untouched.",
+        "They take the rod, powders, and rings upstairs. The portable hole smells of blood from the crimson book, so they remove both books. Wellby spots a tiny protective glyph on the locked book’s clasp. Two attempts to dispel it fail, and they decide to use the chime from as far away as possible with the others around a corner.",
+        "The chime opens the book but triggers its glyph; Wellby suffers a powerful psychic blast while resisting its lasting mental effect. The volume contains backup spells and encrypted research notes, including forge instructions written in Elvish. Seeker spends three hours deciphering them, from about midafternoon to six, while companions rest. The forge consumes the user’s highest spell slot, recovered only after successful daily checks, and combines etched metal, powders, a hand plate, and an item opening. The rod appears to have been damaged in an attempt to destroy it, and the rings seem to have been found rather than made; their origins remain uncertain.",
+        "Seeker encloses the lich book in a temporarily created lead box, and the party teleports back to the Sibyl’s temple at sunset. They ask Dimitaur to watch the dangerous book while they investigate the dragon the following day. Instead, he orders them clear, opens the box, and burns the book with a fireball. They report their tower discoveries and prepare to rest; no following morning occurs before the session ends."
+      ],
+      "sourceEntries": [
+        {
+          "beatId": "beat-029",
+          "title": "The Forge’s Hidden Stores",
+          "boundaryReason": "Search the forge and unlock the stone chest containing a rod, powders, and rings.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u8679",
+            "endUid": "u9035"
+          },
+          "shortSummary": "The forge’s side rooms contain metal stock and a locked chest of magical supplies.",
+          "longSummary": "Using the last moments of Ghostly Gaze and Seeker’s Tremorsense, the party checks for more threats. One room holds roughly two hundred bars of silver, mithril, and unfamiliar metals, but no adamantine. Wellby unlocks a stone chest containing a damaged silver rod with organic spiral decoration and a star-like orb, twenty labeled boxes of magical powders, and rings.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Underground forge and supply room"
+          },
+          "itemDetails": [
+            {
+              "name": "Apollyon's forge",
+              "role": "encountered"
+            },
+            {
+              "name": "Forge metal stock",
+              "role": "encountered",
+              "notes": "Roughly two hundred bars; no adamantine found."
+            },
+            {
+              "name": "Damaged silver rod",
+              "role": "encountered",
+              "notes": "Decorated with organic spirals supporting a star-like orb."
+            },
+            {
+              "name": "Magical powders",
+              "role": "encountered",
+              "notes": "Twenty labeled boxes recovered from the stone chest."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-030",
+          "title": "Asking the Tanshi About the Forge",
+          "boundaryReason": "Inspect the rings and etching room, then ask how the forge works and what powers it.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u9036",
+            "endUid": "u9397"
+          },
+          "shortSummary": "The Tanshi confirm that the forge still works and draws its power from the user.",
+          "longSummary": "The chest’s three matching braided-gold rings bear emerald, ruby, and sapphire, while the other side room holds mundane etching chemicals. Kenzo senses no ley lines at the forge. In response to Delwath’s five questions, the Tanshi indicate that touching it is not known to be dangerous, it remains functional, the user powers it, instructions survive in the notes, and its price is complicated. The party leaves the mechanism untouched.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Underground forge and etching room"
+          },
+          "npcDetails": [
+            {
+              "name": "Tanshi",
+              "role": "encountered",
+              "notes": "Answer questions about the forge’s operation and source of power."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon's forge",
+              "role": "encountered"
+            },
+            {
+              "name": "Three jeweled gold rings",
+              "role": "encountered",
+              "notes": "Matching braided bands set with emerald, ruby, and sapphire."
+            }
+          ]
+        },
+        {
+          "beatId": "beat-031",
+          "title": "The Spellbook’s Protective Glyph",
+          "boundaryReason": "Retrieve the books, detect a glyph, and try unsuccessfully to dispel it before choosing the chime.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": null,
+          "sourceRange": {
+            "startUid": "u9398",
+            "endUid": "u9733"
+          },
+          "shortSummary": "The party finds a glyph protecting Apollyon’s locked spellbook and prepares to open it from a distance.",
+          "longSummary": "They take the rod, powders, and rings upstairs. The portable hole smells of blood from the crimson book, so they remove both books. Wellby spots a tiny protective glyph on the locked book’s clasp. Two attempts to dispel it fail, and they decide to use the chime from as far away as possible with the others around a corner.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Basement storage area"
+          },
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Apollyon's locked spellbook",
+              "role": "encountered"
+            },
+            {
+              "name": "Portable hole",
+              "role": "encountered"
+            },
+            {
+              "name": "Chime of opening",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-032",
+          "title": "Reading Apollyon’s Encrypted Notes",
+          "boundaryReason": "Wellby survives the glyph; Seeker spends the afternoon decoding the forge instructions.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "sourceRange": {
+            "startUid": "u9734",
+            "endUid": "u9969"
+          },
+          "shortSummary": "After the book’s glyph wounds Wellby, Seeker deciphers Apollyon’s instructions for powering the forge.",
+          "longSummary": "The chime opens the book but triggers its glyph; Wellby suffers a powerful psychic blast while resisting its lasting mental effect. The volume contains backup spells and encrypted research notes, including forge instructions written in Elvish. Seeker spends three hours deciphering them, from about midafternoon to six, while companions rest. The forge consumes the user’s highest spell slot, recovered only after successful daily checks, and combines etched metal, powders, a hand plate, and an item opening. The rod appears to have been damaged in an attempt to destroy it, and the rings seem to have been found rather than made; their origins remain uncertain.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower"
+            ],
+            "context": "Basement storage area"
+          },
+          "npcDetails": [
+            {
+              "name": "Apollyon",
+              "role": "mentioned",
+              "notes": "His encrypted research includes instructions for operating the forge."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Apollyon's locked spellbook",
+              "role": "encountered"
+            },
+            {
+              "name": "Chime of opening",
+              "role": "encountered"
+            },
+            {
+              "name": "Apollyon's forge",
+              "role": "mentioned",
+              "notes": "Its operation is explained in the decoded notes."
+            },
+            {
+              "name": "Damaged silver rod",
+              "role": "encountered"
+            },
+            {
+              "name": "Three jeweled gold rings",
+              "role": "encountered"
+            }
+          ]
+        },
+        {
+          "beatId": "beat-033",
+          "title": "Dimitaur Burns the Lich Book",
+          "boundaryReason": "Contain the dangerous book, teleport back at sunset, and let Dimitaur destroy it.",
+          "dateStart": "1749-05-19",
+          "dateEnd": null,
+          "timeWindow": "evening",
+          "sourceRange": {
+            "startUid": "u9970",
+            "endUid": "u10264"
+          },
+          "shortSummary": "At sunset the party returns to Dimitaur, who destroys the dangerous crimson book with fire.",
+          "longSummary": "Seeker encloses the lich book in a temporarily created lead box, and the party teleports back to the Sibyl’s temple at sunset. They ask Dimitaur to watch the dangerous book while they investigate the dragon the following day. Instead, he orders them clear, opens the box, and burns the book with a fireball. They report their tower discoveries and prepare to rest; no following morning occurs before the session ends.",
+          "locationHints": {
+            "refs": [
+              "Apollyon's Tower",
+              "Temple of the Sibyl"
+            ],
+            "context": "Teleportation at sunset and discussion with Dimitaur"
+          },
+          "npcDetails": [
+            {
+              "name": "Dimitaur",
+              "role": "encountered",
+              "notes": "Destroys the lich book after the party returns."
+            }
+          ],
+          "itemDetails": [
+            {
+              "name": "Crimson lich book",
+              "role": "encountered",
+              "notes": "A book bound in blood-soaked human skin containing instructions for becoming a lich."
+            },
+            {
+              "name": "Lead box",
+              "role": "encountered",
+              "notes": "Created temporarily to contain the lich book during transport."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "recapExtrasCandidates": {
+    "cast": [
+      {
+        "name": "Dimitaur",
+        "beatIds": [
+          "beat-003",
+          "beat-033"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Apollyon",
+        "beatIds": [
+          "beat-015"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      },
+      {
+        "name": "Tanshi",
+        "beatIds": [
+          "beat-030"
+        ],
+        "relationKinds": [
+          "met"
+        ]
+      }
+    ],
+    "combats": [
+      {
+        "blockId": "recap-002",
+        "beatIds": [
+          "beat-005",
+          "beat-006",
+          "beat-007"
+        ],
+        "enemyRefs": [
+          "Tower guardians"
+        ],
+        "dateStart": "1749-05-19",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-003",
+        "beatIds": [
+          "beat-008",
+          "beat-009",
+          "beat-010",
+          "beat-011",
+          "beat-012",
+          "beat-013"
+        ],
+        "enemyRefs": [
+          "Tower guardians"
+        ],
+        "dateStart": "1749-05-19",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-006",
+        "beatIds": [
+          "beat-018",
+          "beat-019",
+          "beat-020",
+          "beat-021",
+          "beat-022"
+        ],
+        "enemyRefs": [
+          "Audience chamber skeletons"
+        ],
+        "dateStart": "1749-05-19",
+        "dateEnd": null
+      },
+      {
+        "blockId": "recap-007",
+        "beatIds": [
+          "beat-023",
+          "beat-024",
+          "beat-025",
+          "beat-026",
+          "beat-027",
+          "beat-028"
+        ],
+        "enemyRefs": [
+          "Void sword",
+          "Force hands",
+          "Void daggers"
+        ],
+        "dateStart": "1749-05-19",
+        "dateEnd": null
+      }
+    ],
+    "majorLocations": [
+      {
+        "name": "Circular Island",
+        "beatIds": [
+          "beat-001",
+          "beat-002",
+          "beat-003",
+          "beat-004"
+        ],
+        "relationKinds": [
+          "visited"
+        ]
+      },
+      {
+        "name": "Temple of the Sibyl",
+        "beatIds": [
+          "beat-005",
+          "beat-033"
+        ],
+        "relationKinds": [
+          "traveled-through",
+          "visited"
+        ]
+      },
+      {
+        "name": "Apollyon's Tower",
+        "beatIds": [
+          "beat-005",
+          "beat-006",
+          "beat-007",
+          "beat-008",
+          "beat-009",
+          "beat-010",
+          "beat-011",
+          "beat-012",
+          "beat-013",
+          "beat-014",
+          "beat-015",
+          "beat-016",
+          "beat-017",
+          "beat-018",
+          "beat-019",
+          "beat-020",
+          "beat-021",
+          "beat-022",
+          "beat-023",
+          "beat-024",
+          "beat-025",
+          "beat-026",
+          "beat-027",
+          "beat-028",
+          "beat-029",
+          "beat-030",
+          "beat-031",
+          "beat-032",
+          "beat-033"
+        ],
+        "relationKinds": [
+          "visited",
+          "traveled-through"
+        ]
+      }
+    ]
+  },
+  "worldCandidates": {
+    "encountered": {
+      "npcs": [
+        {
+          "name": "Dimitaur",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-003",
+            "beat-033"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            },
+            {
+              "location": "Apollyon's Tower -> Temple of the Sibyl",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Apollyon",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-015"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Tanshi",
+          "relationKinds": [
+            "met"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-030"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "locations": [
+        {
+          "name": "Circular Island",
+          "relationKinds": [
+            "visited"
+          ],
+          "contextHint": "Temple of the Sibyl and the mountaintop overlook",
+          "beatIds": [
+            "beat-001",
+            "beat-002",
+            "beat-003",
+            "beat-004"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-19",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1749-05-18",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Temple of the Sibyl",
+          "relationKinds": [
+            "traveled-through",
+            "visited"
+          ],
+          "contextHint": "Westward flight as ospreys",
+          "beatIds": [
+            "beat-005",
+            "beat-033"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-19",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            },
+            {
+              "dateStart": "1749-05-19",
+              "dateEnd": null,
+              "kind": "visited"
+            }
+          ]
+        },
+        {
+          "name": "Apollyon's Tower",
+          "relationKinds": [
+            "visited",
+            "traveled-through"
+          ],
+          "contextHint": "Westward flight as ospreys",
+          "beatIds": [
+            "beat-005",
+            "beat-006",
+            "beat-007",
+            "beat-008",
+            "beat-009",
+            "beat-010",
+            "beat-011",
+            "beat-012",
+            "beat-013",
+            "beat-014",
+            "beat-015",
+            "beat-016",
+            "beat-017",
+            "beat-018",
+            "beat-019",
+            "beat-020",
+            "beat-021",
+            "beat-022",
+            "beat-023",
+            "beat-024",
+            "beat-025",
+            "beat-026",
+            "beat-027",
+            "beat-028",
+            "beat-029",
+            "beat-030",
+            "beat-031",
+            "beat-032",
+            "beat-033"
+          ],
+          "visits": [
+            {
+              "dateStart": "1749-05-19",
+              "dateEnd": null,
+              "kind": "visited"
+            },
+            {
+              "dateStart": "1749-05-19",
+              "dateEnd": null,
+              "kind": "traveled-through"
+            }
+          ]
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Omnis Pura",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-017"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        }
+      ],
+      "items": [
+        {
+          "name": "Rope ladder",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-004",
+            "beat-021"
+          ],
+          "history": [
+            {
+              "location": "Circular Island",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            },
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Animated rope ladder",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-005",
+            "beat-006",
+            "beat-009",
+            "beat-010",
+            "beat-011",
+            "beat-012",
+            "beat-013",
+            "beat-014",
+            "beat-023",
+            "beat-024",
+            "beat-025",
+            "beat-026",
+            "beat-027",
+            "beat-028"
+          ],
+          "history": [
+            {
+              "location": "Temple of the Sibyl -> Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            },
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Chime of opening",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-006",
+            "beat-007",
+            "beat-031",
+            "beat-032"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Apollyon's Soulbinding Manacles",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-007",
+            "beat-008",
+            "beat-014",
+            "beat-015"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Eudomes' Mirror of the Past",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-014",
+            "beat-015"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Guardian cores and mechanical flies",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-014"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Apollyon's dagger phylactery",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-015"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Adamantine scraps",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-015"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Crimson lich book",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-016",
+            "beat-019",
+            "beat-031",
+            "beat-033"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            },
+            {
+              "location": "Apollyon's Tower -> Temple of the Sibyl",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Apollyon's locked spellbook",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-016",
+            "beat-031",
+            "beat-032"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Portable hole",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-016",
+            "beat-017",
+            "beat-020",
+            "beat-031"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Residential valuables",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-017"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Immovable rod",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-018",
+            "beat-019"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Jeweled stone throne",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-020"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Apollyon's forge",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-022",
+            "beat-029",
+            "beat-030"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Lengau's Claw",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-026"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Forge metal stock",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-029"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Damaged silver rod",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-029",
+            "beat-032"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Magical powders",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-029"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Three jeweled gold rings",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-030",
+            "beat-032"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        },
+        {
+          "name": "Lead box",
+          "relationKinds": [
+            "encountered"
+          ],
+          "contextHint": null,
+          "beatIds": [
+            "beat-033"
+          ],
+          "history": [
+            {
+              "location": "Apollyon's Tower -> Temple of the Sibyl",
+              "dateStart": "1749-05-19",
+              "dateEnd": null
+            }
+          ]
+        }
+      ]
+    },
+    "mentioned": {
+      "npcs": [],
+      "locations": [],
+      "organizations": [],
+      "items": []
+    }
+  },
+  "recapScenesPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-109/cleaned/dunmari-frontier-109-recap-scenes.json"
+}
