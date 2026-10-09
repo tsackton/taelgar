@@ -10,7 +10,5 @@ But that doesn't matter. Once they cross the river, they have two options:
 - Either they succeed on the woodland revel and know exactly what tree to search, or
 - They fail on the woodland revel and don't know what tree to search, but know they just need to scout the handful of tall trees (which the pseudodragon can lead them to by flying above the canopy)
 
-So delete exploration scene 5 and 6. 
-
-Session 22 ends with the guide, either they succeed and convince him to help, or fail and he asks for a token of their trustworthiness (small mini-quest). 
+Session 22 probably ends with the guide, either they succeed and convince him to help, or fail and he asks for a token of their trustworthiness (small mini-quest). 
 

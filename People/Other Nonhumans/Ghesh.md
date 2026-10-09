@@ -2,15 +2,15 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-08T22:18:29-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/tim]
+tags: [person]
 species: dragonet
 gender: male
 name: Ghesh
 pronunciation: GHESH
 whereabouts: Circular Island
 knownTo: [dufr]
-dm_owner: tim
-dm_notes: color
+dm_owner: none
+dm_notes: none
 POV: 1749
 ---
 # Ghesh
@@ -19,12 +19,12 @@ POV: 1749
 > A [[Dragonets|dragonet]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Ghesh is a reddish-brown [[Dragonets|dragonet]] with a greenish tint on his back, who leads a small group living in a partly ruined tower near [[Alectia]] on the [[Circular Island]]. He is a friend of [[Megren]]. Bossy and competitive, he enjoys gambling and flying contests.
+Ghesh is a reddish-brown [[Dragonets|dragonet]], with a distinctive greenish streak on his back, who serves as the informal leader of a small group of dragonets occupying one of the many partially ruined towers in [[Alectia]]. He is the biggest, bossiest, and loudest of his group, earning him some measure of authority, though like in many dragonet groups, leadership is fluid and changeable. He is highly competitive, enjoying gambling and flying contests; he can be surly and snippy when he loses, or believes someone is winning unfairly. 
+
+He is a friend of [[Megren]]. He finds the dragonets who are deeply loyal to [[Ra'ghemdros]] to be weird and offputting, though he is not above trading treasure for favors with the ancient black dragon. 
 
 %%^Campaign:dufr%%
-
-[[Kenzo]] [[Session 108 (DuFr)|befriended Ghesh over dice]], giving him a golden circlet in exchange for secrecy and an introduction to [[Megren]]. Ghesh used the treasure to secure [[Ra'ghemdros|Ra’ghemdros’s]] recognition of his group’s claim to their tower. He later [[Session 110 (DuFr)|arranged an audience with Ra’ghemdros]] and supported the dragonets fighting against her loyalists. After her defeat, he and Megren were rewarded with their choice of treasures from her hoard.
-
+In May 1749, whent he Dunmar Fellowship visiting the Circular Island, [[Kenzo]] [[Session 108 (DuFr)|befriended Ghesh over dice]], giving him a golden circlet in exchange for secrecy and an introduction to [[Megren]]. Ghesh used the treasure to secure [[Ra'ghemdros|Ra’ghemdros’s]] recognition of his group’s claim to their tower. He later [[Session 110 (DuFr)|arranged an audience with Ra’ghemdros]] and supported the dragonets fighting against her loyalists. After her defeat, he and Megren were rewarded with their choice of treasures from her hoard.
 %%^End%%
 
 %%
