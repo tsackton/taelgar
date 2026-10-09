@@ -15,7 +15,7 @@ affiliations:
   - {org: "Shu'anra", type: formerly}
 whereabouts:
   - {type: home, location: Forest of Dreams}
-  - {type: home, location: "Te'kula village"}
+  - {type: home, location: Neshet}
 knownTo: [dufr]
 dm_owner: none
 dm_notes: color

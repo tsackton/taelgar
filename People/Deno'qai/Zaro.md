@@ -11,7 +11,7 @@ gender: male
 name: Zaro
 affiliations:
   - {org: "Bek'eni", type: primary}
-whereabouts: "Bek'eni village"
+whereabouts: Talem
 knownTo: [dufr]
 dm_owner: none
 dm_notes: color

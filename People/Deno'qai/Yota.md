@@ -12,7 +12,7 @@ gender: male
 name: Yota
 affiliations:
   - {org: "Te'kula", type: primary}
-whereabouts: "Te'kula village"
+whereabouts: Neshet
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
