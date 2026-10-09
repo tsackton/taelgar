@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-08T22:18:29-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/tim]
 species: dragonet
 gender: male
@@ -9,6 +11,7 @@ whereabouts: Circular Island
 knownTo: [dufr]
 dm_owner: tim
 dm_notes: color
+POV: 1749
 ---
 # Ghesh
 *(GHESH)*
@@ -48,3 +51,6 @@ Transcript notes
 - {name: Ghesh, language: Draconic, pronunciation: GHESH, status: documented}
 %%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: a May DR 1749 portrait of Ghesh and his tower group, with campaign events through Ra'ghemdros's defeat and the distribution of her hoard; no later circumstances are established.
+%%^End%%
