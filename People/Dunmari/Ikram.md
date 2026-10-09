@@ -2,13 +2,14 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
-tags: [person, status/cleanup/metadata, status/check/lint]
+tags: [person, status/cleanup/metadata]
 species: human
 ancestry: Dunmari
 campaignInfo: []
 born: 1710
 gender: male
 name: Ikram
+pronunciation: ik-RAAM
 whereabouts: Karawa
 knownTo: [dufr]
 dm_owner: tim
@@ -16,9 +17,10 @@ dm_notes: important
 POV: 1740s
 ---
 # Ikram
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+*(ik-RAAM)*
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%need to get campaign info and whereabouts from various other notes%%
@@ -27,30 +29,7 @@ POV: 1740s
 
 %%SECRET[v2:4b4618ee2a6f47d4eb1dee3f4eb9e3bd]%%
 
-%%^Metadata:names:v1%%
-- {name: Ikram, language: Dunmari, pronunciation: ik-RAAM, notes: "Proposed from the documented ik-RAAMZ for [[Ikram's]], whose name derives from Ikram, by removing the possessive ending; the individual name awaits confirmation.", status: proposed}
-%%^End%%
-
-%%^povNotes:v1%%
-Temporal coverage: a late-1740s portrait of Ikram as Karawa's caravanserai proprietor; the visible description does not recount the destruction and rebuilding of his establishment in DR 1748–1749.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter field order and added `knownTo: [dufr]`, supported by the party's conversation with Ikram in [[Dunmar Frontier - Session 04]].
-- Added a proposed primary name entry and a late-1740s article viewpoint with temporal coverage guidance.
-
-### Validated judgments
-- The positive `dm_notes` attestation is supported by confirmed local-source matches; no attestation was changed.
-- Reviewed the local-only SECRET block; its contents remain outside this report.
-- `status/cleanup/metadata` is not assessable: the retained editorial reminder does not specify which interaction and whereabouts history the author intends to record. The tag is preserved.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm the proposed `ik-RAAM` pronunciation in `Metadata:names:v1`. [[Ikram's]] explicitly derives its name from Ikram and documents `ik-RAAMZ`; removing its possessive ending gives a short initial i, a clear k-r sequence, long aa, and final stress. This is consistent with the Dunmari Hindi/Persian analogue in [[Languages]], but the individual name has no separately recorded pronunciation. If accepted, add `pronunciation: ik-RAAM` to frontmatter and change the name entry to `status: documented`; otherwise supply the intended pronunciation.
-
+%%
 ### DM evidence
 - [[_DM_/Timelines/Old Timeline (Table)]]
 - [[_DM_/Timelines/Uncategorized Events]]
@@ -65,4 +44,12 @@ Temporal coverage: a late-1740s portrait of Ikram as Karawa's caravanserai propr
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]]
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Session 32]]
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Secrets of Karawa]]
+%%
+
+%%^Metadata:names:v1%%
+- {name: Ikram, language: Dunmari, pronunciation: ik-RAAM, notes: "Proposed from the documented ik-RAAMZ for [[Ikram's]], whose name derives from Ikram, by removing the possessive ending; the individual name awaits confirmation.", status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a late-1740s portrait of Ikram as Karawa's caravanserai proprietor; the visible description does not recount the destruction and rebuilding of his establishment in DR 1748–1749.
 %%^End%%
