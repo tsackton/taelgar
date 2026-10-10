@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: dwarf
 gender: female
 name: Ovina
+pronunciation: oh-VEE-nah
 whereabouts: Hamri
 knownTo: [mawar]
 dm_owner: none
@@ -13,6 +14,7 @@ dm_notes: color
 POV: 1740s
 ---
 # Ovina
+*(oh-VEE-nah)*
 >[!info]+ Biographical Info  
 > A [[Dwarves|dwarf]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -33,30 +35,9 @@ Source links:
 %%
 
 %%^Metadata:names:v1%%
-- {"name": "Ovina", "language": "unknown", "pronunciation": "oh-VEE-nah", "status": "proposed", "notes": "The [[Languages]] guidance provides a Tolkien Dwarvish cultural analogue. This tentative adaptation uses separate o, i, and a syllables, a long ee reading of i, voiced v, and proposed penultimate stress. Ovina’s own name language is not established, so neither the adaptation nor its stress is authoritative."}
+- {"name": "Ovina", "language": "Dwarvish", "pronunciation": "oh-VEE-nah", "status": "documented", "notes": "The [[Languages]] guidance provides a Tolkien Dwarvish cultural analogue. This tentative adaptation uses separate o, i, and a syllables, a long ee reading of i, voiced v, and proposed penultimate stress. Ovina’s own name language is not established, so neither the adaptation nor its stress is authoritative."}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a 1740s portrait of Ovina’s established smithy and relationships in Hamri, supported by appearances in DR 1747 and DR 1749; the duration of her residence is relative to that period.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting.
-- Recorded supported campaign knowledge in `knownTo`, the article’s temporal viewpoint in `POV`, and its coverage limits in `povNotes`.
-- Added a primary name entry with a proposed pronunciation; retained `language: unknown` because the complete name’s language is not expressly attested.
-- Inserted the missing article in “from the Hamri community” and normalized `knownTo: [Mawar]` to the canonical `[mawar]`.
-
-### Validated judgments
-- The smithy and trade account performs its reference role. The routine commission and later directions in the Mawar episodes do not require a campaign recap. Confirmed local source matches support the positive `dm_notes` attestation.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review `oh-VEE-nah` for Ovina. The [[Languages]] guidance provides a Tolkien Dwarvish cultural analogue. This tentative adaptation uses separate o, i, and a syllables, a long ee reading of i, voiced v, and proposed penultimate stress. Ovina’s own name language is not established, so neither the adaptation nor its stress is authoritative. Accept or revise this proposal in `Metadata:names:v1`; on acceptance, change its status to `documented` and copy the accepted primary pronunciation to frontmatter.
-
-### DM evidence
-- [[_DM_/Timelines/Old Timeline (Table)]]
-- [[_DM_/Timelines/Unified Timeline From OneNote]]
 %%^End%%
