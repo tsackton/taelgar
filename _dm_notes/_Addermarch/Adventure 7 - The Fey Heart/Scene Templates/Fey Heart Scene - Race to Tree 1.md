@@ -1,6 +1,3 @@
----
-tags: [status/check/ai]
----
 # Sleeping Beast
 
 First encounter after [[Gwydren]] agrees to guide the party. Required. The journey should grow increasingly strange, reflecting the anger of [[Morlaith]] and the Singing Tree.
