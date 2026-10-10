@@ -22,8 +22,8 @@ Legend says that the Color Guard and the Twilight Guard date to ancient days, an
 
 In less troubled times, the three guard companies are established in five garrisons:
 * the [[Cyfarthfa Garrison|garrison of Cyfarthfa]], north of the [[Rhewin]], near the [[Tyrwinghan Road]]
-* the [[Garn Tyrn Garrison|garrison of Garn Tyrn]], in the [[Maerwyn Mountains|Maerwyns]] near [[Garn Tyrn]]
-* the [[Maerwyn Garrison]], in the southern [[Maerwyn Mountains|Maerwyns]] 
+* the [[Daran Garrison]], near the headwaters of the [[Daran]] in the [[Tyrwinghan Hills]], guarding the eastern side of the gap with the [[Maerwyn Mountains|Maerwyns]]
+* the [[Maerwyn Garrison]], in the southern [[Maerwyn Mountains|Maerwyns]], guarding the western side of the gap with the [[Tyrwinghan Hills]]
 * the [[Aben Garrison|garrison of the Aben]], in the [[Maerwyn Mountains|Maerwyns]] near the headwaters of the [[Aben]] River
 * the [[Deganwy Garrison|garrison of Deganwy]], in the southern [[Tyrwinghan Hills]], near the headwaters of the [[Llanfen]]
 
