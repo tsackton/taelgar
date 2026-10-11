@@ -26,15 +26,15 @@ total: 900 XP
 
 - [x] **Learn the guide’s name.** Identify Gwydren as someone who can guide the party through the forest. See [[Fey Heart Scene - The Following Foxes]] and [[Exploration Success - Guide Clue]].
 - [x] **Learn roughly where the guide lives.** Discover that Gwydren lives across the river, around the big trees. See [[Exploration Success - Guide Clue]].
-- [ ] **Journey obstacle 1 — to be designed.** Overcome the first required obstacle between Gwydren and the Singing Tree.
-- [ ] **Journey obstacle 2 — to be designed.** Overcome the second required obstacle between Gwydren and the Singing Tree.
+- [ ] **Defeat the boar and get through to the Singing Tree.**
 
 ### Optional
 
 - [ ] **Learn more precise details about where to search for Gwydren.** Narrow the search to the biggest, oldest trees and learn that the trees can lead the party to him. See [[Exploration Success - Guide Clue]].
-- [ ] **Optional journey milestone 1 — to be designed.** An additional opportunity for quest progress between Gwydren and the Singing Tree.
-- [ ] **Optional journey milestone 2 — to be designed.** A second additional opportunity for quest progress between Gwydren and the Singing Tree.
-
+- [ ] **Get Past the Beast.** Find a way into the badgers tunnels
+- [ ] **Defeat Umbraeth's Hunters in the tunnels.** Kill the hunters, rescue the treasure. 
+- [ ] **Rescue the Leprechaun's house.** Defeat the trees and save the house. 
+	
 ## Major milestones — 500 XP each
 
 ### Required

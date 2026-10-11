@@ -6,6 +6,8 @@ A lean, stag-headed fey. Lichen grows around the antler bases; his dark green cl
 
 Looks kinda like a humanoid moose, but more human like, so has regular legs. Kind of an inverse centaur or satyr. 
 
+**Important:** Gwydren can tell them how to return the heart. If they can reach the tree, and avoid its terrible song, all it takes is to hold the heart against its trunk, and watch as it is absorbed. It may take some time for the forest to calm, but calm it will. 
+
 ## Where
 
 Guide is reachable only after the river. the ideal is that the party needs 2-3 pieces of information from the guide note to find the guide, though more information makes the guide encounter easier.
@@ -66,3 +68,5 @@ If they already killed the spiders and just didn't mention it, he'll be like. "O
 ## Aftermath
 
 This can be a safe place to rest; guide will suggest a rest and dinner, saying "you must be hungry" and then starting in the morning. 
+
+If they take the long rest, wake up with sounds of hunters in the distance, Gwydren "We must hurry! Fortunately, I know a shortcut." If they don't will be a bit put out but "yes, yes, okay, let me get ready". 
