@@ -20,11 +20,11 @@
 		{"id":"feyexplore0000004","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Canopy.md","x":-250,"y":-280,"width":400,"height":240,"color":"3"},
 		{"id":"becf3cee20c2880a","type":"text","text":"# Group 2\n\nTransition to group 2 encounters happens either because success on one or both of Group 1 encounters leads to finding the new path, or because failure leads to getting lost in the forest, fighting Umbraeth hunters, then stumbling on a new path. \n\nThis path does not loop. It leads roughly east, running fairly smooth and narrow, but sloping down. \n\nAs they follow this path, two optional scenes present themselves. \n\nThe path ends at a river, forcing the river scene. ","x":-451,"y":-800,"width":491,"height":308},
 		{"id":"7cdf728221f3a261","type":"text","text":"# Finding the Guide\n\nGywdren hangs out at one of the big trees across the river. If the party succeeds on the woodland revel quest, they'll know his favorite tree. If they fail, they won't. \n\nIf they know his favorite tree, treat reaching him as a short narration after the river. \n\nIf they don't know his favorite tree, treat this as a Survival check that determines if they get lost. Pseudodragon scouting can help considerably. Failure here potentially leads to Gloomshaper hunter encounter, depending, but probably doesn't need to unless things go particularly badly. \n\nThen, of course, they need to convince Gywdren to help them. \n","x":830,"y":-394,"width":570,"height":354},
-		{"id":"6419ea411511af47","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - The Singing Tree Encounter.md","x":1720,"y":1960,"width":400,"height":400},
-		{"id":"1c8a5e4cc3328d67","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Race to Tree 3.md","x":2960,"y":560,"width":400,"height":400},
 		{"id":"4e03429dcb58180b","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Race to Tree 1.md","x":1680,"y":400,"width":400,"height":400,"color":"5"},
 		{"id":"ec1396c40eaa6d9e","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Race to Tree 4.md","x":2720,"y":1520,"width":400,"height":400},
-		{"id":"099362eff4edc3b0","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Race to Tree 2.md","x":1760,"y":1240,"width":400,"height":400,"color":"5"}
+		{"id":"099362eff4edc3b0","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Race to Tree 2.md","x":1640,"y":1260,"width":400,"height":400,"color":"5"},
+		{"id":"1c8a5e4cc3328d67","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - Race to Tree 3.md","x":2880,"y":640,"width":400,"height":400},
+		{"id":"6419ea411511af47","type":"file","file":"_dm_notes/_Addermarch/Adventure 7 - The Fey Heart/Scene Templates/Fey Heart Scene - The Singing Tree Encounter.md","x":2040,"y":2100,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"c770ba4f742dadc6","fromNode":"29c5a58367fc22dc","fromSide":"bottom","toNode":"ef5086228619ff4c","toSide":"top"},
@@ -53,11 +53,12 @@
 		{"id":"c9bbeecae3e5b001","fromNode":"7cdf728221f3a261","fromSide":"right","toNode":"ba838b575c5c2d2e","toSide":"left"},
 		{"id":"626976a339a88750","fromNode":"ba838b575c5c2d2e","fromSide":"bottom","toNode":"feyexplore0000004","toSide":"bottom","color":"1","label":"Failure"},
 		{"id":"cef696dbe04b18e8","fromNode":"ba838b575c5c2d2e","fromSide":"bottom","toNode":"4e03429dcb58180b","toSide":"top","label":"Gwydren leads along the old path"},
-		{"id":"47b5f1f99e9c1154","fromNode":"4e03429dcb58180b","fromSide":"bottom","toNode":"099362eff4edc3b0","toSide":"top","label":"Get past the sleeper; stay on the route"},
+		{"id":"47b5f1f99e9c1154","fromNode":"4e03429dcb58180b","fromSide":"bottom","toNode":"099362eff4edc3b0","toSide":"top","label":"Get past the sleeper;\nstay on the route"},
 		{"id":"6a2da3ff70c00438","fromNode":"099362eff4edc3b0","fromSide":"bottom","toNode":"6419ea411511af47","toSide":"top","label":"Continue toward the Singing Tree"},
 		{"id":"b3b0e5494837709e","fromNode":"4e03429dcb58180b","fromSide":"right","toNode":"1c8a5e4cc3328d67","toSide":"left","label":"Get past the sleeper; investigate hunters off the path"},
 		{"id":"6ccfe0eb654b464d","fromNode":"1c8a5e4cc3328d67","fromSide":"bottom","toNode":"099362eff4edc3b0","toSide":"top","label":"Return to Gwydren's route"},
 		{"id":"6d5e5a31a6dff83d","fromNode":"099362eff4edc3b0","fromSide":"right","toNode":"ec1396c40eaa6d9e","toSide":"top","label":"Strong win reveals an optional refuge"},
-		{"id":"b52c534db698fbe8","fromNode":"ec1396c40eaa6d9e","fromSide":"bottom","toNode":"6419ea411511af47","toSide":"top","label":"Leave the refuge, with or without aid"}
+		{"id":"b52c534db698fbe8","fromNode":"ec1396c40eaa6d9e","fromSide":"bottom","toNode":"6419ea411511af47","toSide":"top","label":"Leave the refuge, with or without aid"},
+		{"id":"5805f2ec330de7dd","fromNode":"4e03429dcb58180b","fromSide":"left","toNode":"099362eff4edc3b0","toSide":"left","label":"Failure; encounter hunters \non the path \nto the tree attack"}
 	]
 }
