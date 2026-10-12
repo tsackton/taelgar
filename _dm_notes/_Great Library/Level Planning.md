@@ -8,4 +8,4 @@ Arc 1: Zadkhai and the elemental genie wars. This is largely a Plane of Air thin
 
 Arc 2, Arc 3: Maybe a short hobgoblin arc (Blue) and elemental water / fathomless arc (Mabist). Level 17, Level 18. Jan/Feb.
 
-Arc 4: Demons or Devils. Level 19-20. March/April/May. 
+Arc 4: Demons or Devils. Level 19-20. March/April/May. Maybe this ties into Blue's arc.

@@ -63,3 +63,6 @@ Magic sufficient to transport everyone safely can bypass the challenge.
 - **Kill Brindlethorn:** Gwydren abandons them. Entering her tunnels without his guidance leaves them lost.
 
 
+
+
+closure: 1+1+1+1

@@ -4,7 +4,7 @@ Milestones for [[01 Overview - The Fey Heart|The Fey Heart]]. Rewards recognize 
 
 | Milestone level                            | XP per PC |
 | ------------------------------------------ | --------: |
-| Minor                                      |       200 |
+| Minor                                      |       150 |
 | Major                                      |       500 |
 | Adventure completion — returning the heart |     1,000 |
 |                                            |           |
@@ -14,11 +14,15 @@ Milestones for [[01 Overview - The Fey Heart|The Fey Heart]]. Rewards recognize 
 2 minor: learn the guide's name, and roughly where the guide lives. 
 1 major: learn Sweetwillow's story
 
-total: 900 XP
+total: 800 XP
 
 ## Session 22
 
+1 major: cross the river
+1 major: find the guide
+1 minor: get past the beast
 
+total: 1150 XP
 
 ## Minor milestones — 200 XP each
 
@@ -31,16 +35,16 @@ total: 900 XP
 ### Optional
 
 - [ ] **Learn more precise details about where to search for Gwydren.** Narrow the search to the biggest, oldest trees and learn that the trees can lead the party to him. See [[Exploration Success - Guide Clue]].
-- [ ] **Get Past the Beast.** Find a way into the badgers tunnels
+- [x] **Get Past the Beast.** Find a way into the badgers tunnels
 - [ ] **Defeat Umbraeth's Hunters in the tunnels.** Kill the hunters, rescue the treasure. 
 - [ ] **Rescue the Leprechaun's house.** Defeat the trees and save the house. 
-	
+
 ## Major milestones — 500 XP each
 
 ### Required
 
-- [ ] **Get the party across the river.** Complete [[Fey Heart Scene - The River Crossing|the crossing]] by any workable method, reaching the part of the forest where Gwydren can be found.
-- [ ] **Convince Gwydren to help.** Secure his cooperation as the party’s guide. Finding him is part of reaching this milestone, not a separate reward. The interaction is still to be developed; see [[Finding the Guide]] and [[Fey Heart Scene - Getting Gwydren to Help]]
+- [x] **Get the party across the river.** Complete [[Fey Heart Scene - The River Crossing|the crossing]] by any workable method, reaching the part of the forest where Gwydren can be found.
+- [x] **Convince Gwydren to help.** Secure his cooperation as the party’s guide. Finding him is part of reaching this milestone, not a separate reward. The interaction is still to be developed; see [[Finding the Guide]] and [[Fey Heart Scene - Getting Gwydren to Help]]
 
 ### Optional
 
