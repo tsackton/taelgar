@@ -35,6 +35,10 @@ Make sure that it is clear what they need to do next, succeed or fail. He is sca
 
 See how it goes and be prepared to give clues. 
 
+patience used: 4
+suspicious of outsiders: -2
+wants to be helpful: +1
+
 ----
 
 **raw notes**
