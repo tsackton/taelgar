@@ -4,30 +4,29 @@ tags: [session-note, status/check/ai]
 campaign: Addermarch
 sessionNumber: 22
 realWorldDate:
-DR:
-DR_end:
+DR: 1715-05-30
+DR_end: 1715-05-31
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 22
 tagline: in which the party finds a guide
 descTitle: A Guide Through the Thornweald
-POV: undated
 ---
 
 # Addermarch Campaign - Session 22
 
 >[!info] A Guide Through the Thornweald: in which the party finds a guide
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
-> *In Taelgar: dates to confirm*
+> *In Taelgar: (DR:: 1715-05-30) - (DR:: 1715-05-31)*
 > *On Earth: date to confirm*
 > *[[Thornweald]]*
 
-%% Exact dates remain unconfirmed. Editorial name-resolution notes appear before the raw notes. The raw notes preserve the available transcription verbatim, without audio correction. %%
+%% The real-world session date remains unconfirmed. Editorial name-resolution notes appear before the raw notes. The raw notes preserve the available transcription verbatim, without audio correction. %%
 
 ## Timeline
 
-- **First day**: The party escapes the influence of enchanted drumming, crosses the river while fighting two displacer beasts, and finds [[Gwydren]].
-- **That evening**: The party convinces [[Gwydren]] to guide them, hears more of [[Caradoc]]'s adventures in the [[Feywild]], and rests at Gwydren's camp.
-- **The next morning**: With hunters nearby, [[Gwydren]] leads the party to Old Brindlethorn's sett, where they soothe the sleeping badger enough to enter her tunnels.
+- (DR:: 1715-05-30): The party escapes the influence of enchanted drumming, crosses the river while fighting two displacer beasts, and finds [[Gwydren]].
+- (DR:: 1715-05-30), evening: The party convinces [[Gwydren]] to guide them, hears more of [[Caradoc]]'s adventures in the [[Feywild]], and rests at Gwydren's camp.
+- (DR:: 1715-05-31), morning: With hunters nearby, [[Gwydren]] leads the party to Old Brindlethorn's sett, where they soothe the sleeping badger enough to enter her tunnels.
 
 ## Cast of Characters
 
@@ -52,7 +51,7 @@ POV: undated
 
 ## Narrative
 
-### First day (date to confirm)
+### Sunday, May 30th, 2 Robert I
 
 The party continues down the wide road towards the river, hoping to find [[Gwydren]] among the great trees on the far side. After about an hour, they hear compelling drums from within the forest. [[Drou]] and [[Yvan Greenrabbit|Yvan]] resist the music, but [[Fazoth de Brune|Fazoth]] is charmed and begins wandering towards it.
 
@@ -78,7 +77,7 @@ For the rescue, [[Calanthe|Lady Calanthë]] granted him a boon, represented by a
 
 Gwydren serves a rich forest-vegetable stew, roasted carrots, and honeycomb for dessert. The party spends the night at his camp, taking a long rest.
 
-### The next morning (date to confirm)
+### Monday, May 31st, 2 Robert I
 
 The next morning, the baying of a wolf and the sound of hunting horns carry through the forest. The hunters serve the [[Lord Umbraeth|Gloomshaper]], another archfey seeking the heart to cause chaos. Gwydren urges the party to hurry and leads them towards a shortcut through Old Brindlethorn's sett. He knows how to navigate her extensive tunnels, but warns the party to be polite and leave her bedrooms alone.
 
@@ -92,7 +91,7 @@ We end as the whole group enters Old Brindlethorn's tunnels.
 
 %% Editorial review
 
-Exact dates remain blank. Session 21 ends on DR 1715-05-30; the new account begins at that stopping point and includes one overnight rest.
+The real-world session date remains unconfirmed. In-world dates continue directly from Session 21: DR 1715-05-30, followed by one overnight rest and the morning of DR 1715-05-31.
 
 The acquaintance transcribed as "Berenvel" remains unnamed in the narrative. No exact repository match was found; Lord Serenveil is a possible match, not a confirmed correction.
 
