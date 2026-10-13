@@ -12,3 +12,14 @@ But that doesn't matter. Once they cross the river, they have two options:
 
 Session 22 probably ends with the guide, either they succeed and convince him to help, or fail and he asks for a token of their trustworthiness (small mini-quest). 
 
+---
+
+xx  Displacer 1 - 20 | 76 | 23+5+13+6+8 +12+5 (71) fire from Yvan scorching ray, dissonant whispers, constrictor bite
+xx Yvan - 17
+xx Fazoth - 15
+xx Drou - 14
+xx Displacer - 10
+
+displacer crit on Yvan
+fazoth witch bolt misses but lightning crackles around 
+
