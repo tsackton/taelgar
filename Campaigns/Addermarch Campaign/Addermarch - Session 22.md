@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 22
 realWorldDate: 2026-10-11
@@ -18,14 +18,11 @@ descTitle: Gwydren of the Old Paths
 > *In Taelgar: (DR:: 1715-05-30) - (DR:: 1715-05-31)*
 > *On Earth: Sunday October 11, 2026*
 > *[[Thornweald]]*
-
-%% The real-world session date remains unconfirmed. Editorial name-resolution notes appear before the raw notes. The raw notes preserve the available transcription except for name corrections checked against vault sources or confirmed by Tim, without audio correction. %%
-
 ## Timeline
 
-- (DR:: 1715-05-30): The party escapes the influence of enchanted drumming, crosses the river while fighting two displacer beasts, and finds [[Gwydren]].
+- (DR:: 1715-05-30), afternoon: The party traverses [[Thornweald]], following the river road. Along the way they escape the influence of enchanted drumming, and cross a river while fighting off two displacer beasts. During a brief rest on the far bank, [[Fazoth]]'s pseudodragon familiar finds [[Gwydren]].
 - (DR:: 1715-05-30), evening: The party convinces [[Gwydren]] to guide them, hears more of [[Caradoc]]'s adventures in the [[Feywild]], and rests at Gwydren's camp.
-- (DR:: 1715-05-31), morning: With hunters nearby, [[Gwydren]] leads the party to Old Brindlethorn's sett, where they soothe the sleeping badger enough to enter her tunnels.
+- (DR:: 1715-05-31), morning: With hunters nearby, [[Gwydren]] leads the party to [[Old Brindlethorn]]'s sett, where they soothe the sleeping badger enough to enter her tunnels.
 
 ## Cast of Characters
 
@@ -41,10 +38,10 @@ descTitle: Gwydren of the Old Paths
 
 ## Places
 
-- **[[Thornweald]]** - [[Morlaith|The Briarheart]]'s forest domain in the [[Feywild]].
-- **The river road and crossing** - A woodland path leading to a swift river about sixty feet wide, with forest overhanging its banks.
-- **Gwydren's camp** - A tent and fire among the great trees rising above the forest canopy.
-- **Old Brindlethorn's sett** - A network of tunnels that Gwydren knows as a shortcut through the Feywild.
+- **[[Thornweald]]** - [[Morlaith|The Briarheart]]'s forest domain in the [[Feywild]]. The party travels to:
+	- **The river road and crossing** - A woodland path leading to a swift river about sixty feet wide, with forest overhanging its banks.
+	- **Gwydren's camp** - A tent and fire among the great trees rising above the forest canopy.
+	- **Old Brindlethorn's sett** - A network of tunnels that Gwydren knows as a shortcut to the Singing Tree.
 - **[[Sunward Reach]]** - The fortified fey realm where Caradoc earned Lady Calanthë's boon, mentioned in Gwydren's story.
 - **[[Darkfall]]** - The realm from which Caradoc rescued a captured knight, mentioned in Gwydren's story.
 
@@ -52,37 +49,25 @@ descTitle: Gwydren of the Old Paths
 
 ### Sunday, May 30th, 2 Robert I
 
-The party continues down the river road, hoping to find [[Gwydren]] among the great trees on the far side. After about an hour, they hear compelling drums from within the forest. [[Drou]] and [[Yvan Greenrabbit|Yvan]] resist, but [[Fazoth de Brune|Fazoth]] is charmed and wanders towards the music. Yvan fails to stop him, but Drou's countermusic gives Fazoth enough control to use _Misty Step_ and cling to a nearby tree, holding himself in place until he breaks the enchantment. The party nearly loses the road in the confusion, but finds it again and continues, passing a fallen tree without investigating the skittering overhead.
+The party continues down the river road, hoping to find [[Gwydren]] among the great trees on the far side of the river. After about an hour, they hear magically compelling drums from within the forest, off the path. [[Drou]] and [[Yvan Greenrabbit|Yvan]] resist their enchantment, but [[Fazoth de Brune|Fazoth]] is charmed and wanders towards the music. Yvan tries to grab him and fails, but Drou's drumming partially counters the effect, giving Fazoth enough control to use _Misty Step_ and cling to a nearby tree, holding himself in place until he breaks the enchantment. The party nearly loses the road in the confusion, but finds it again and continues, passing quietly beneath a fallen tree without investigating the skittering overhead, which goes silent after they call out a greeting.
 
-The road ends at a swift river, about sixty feet across and overhung with trees. Drou summons a giant constrictor snake with her _Staff of the Python_ to carry everyone across, but two hidden displacer beasts attack as they prepare to leave. One nearly knocks Yvan unconscious with its opening attack. Fazoth's _Witch Bolt_ misses, but Drou's _Dissonant Whispers_ and Yvan's _Scorching Ray_ wound a beast as the party scrambles aboard the snake. Both beasts follow into the river, flanking the party as they cross. Further spells badly wound one, and by the time the party reaches the far bank, both abandon the pursuit.
+The road ends at a swift river, about sixty feet across and overhung with trees. Drou summons a giant constrictor snake with her _Staff of the Python_ to carry everyone across, but two hidden displacer beasts ambush them as they prepare to leave. One nearly knocks Yvan unconscious with its opening attack. Fazoth's _Witch Bolt_ misses, but Drou's _Dissonant Whispers_ and Yvan's _Scorching Ray_ wound a beast as the party scrambles aboard the snake. Both beasts follow into the river, flanking the party as they cross. Further spells badly wound one, and by the time the party reaches the far bank, both abandon the pursuit.
 
-While the party rests, Fazoth's pseudodragon searches the trees rising above the canopy. After a couple of hours, it finds Gwydren's tent and fire. Gwydren is an eight-foot moose-like humanoid, with light brown fur, broad antlers hung with moss, and robes of plants and lichen beneath a woven fern cloak. He is suspicious of outsiders and fears the dangers of the forest. The party mentions [[Lord Serenveil]], their plan to return the Singing Tree's heart, and [[Caradoc]], whom Gwydren knows as Aurenxis. Yvan's sincere appeal and Drou's impressive performance, supported by Yvan's illusions, convince him that they are trustworthy and can keep him safe. He agrees to guide them.
+While the party rests, Fazoth's pseudodragon searches the trees rising above the canopy. After a couple of hours, it finds Gwydren's tent and fire, and the party sets out for the tree, with Fazoth leading them through the woods guided by his pseudodragon high above the canopy. 
 
-Gwydren also tells them more of Caradoc's youthful adventures in the [[Feywild]]. Traveling as Aurenxis, he visited [[Sunward Reach]], a fortified realm between [[Morlaith|the Briarheart]]'s domain and the nightmare realms of [[Harrow]] and [[Wend]] beyond the [[Sunset Gate]]. After a raid left a prominent knight captive in [[Darkfall]], Caradoc ventured in and rescued the knight, earning a boon from [[Calanthe|Lady Calanthë]]. The vine-covered wand he gave the party can summon her aid. But the rescue also marked him in the eyes of Harrow and Wend's agents, and he now fears they will hunt him if he returns.
+Gwydren is an eight-foot moose-like humanoid, with light brown fur, broad antlers hung with moss, and robes of plants and lichen beneath a woven fern cloak. He is suspicious of outsiders and fears the dangers of the forest. The party mentions [[Lord Serenveil]], their plan to return the Singing Tree's heart, and [[Caradoc]], whom Gwydren knows as Aurenxis. Yvan's sincere appeal and Drou's impressive performance, supported by Yvan's illusions, convince him that they are trustworthy and can keep him safe. He agrees to guide them.
+
+Gwydren also tells them more of Caradoc's youthful adventures in the [[Feywild]]. Traveling as Aurenxis, he visited [[Sunward Reach]], a fortified realm between [[Morlaith|the Briarheart]]'s domain and the nightmare realms of [[Harrow]] and [[Wend]] beyond the [[Sunset Gate]]. After a raid left a prominent knight captive in [[Darkfall]], Caradoc ventured in and rescued the knight, earning a boon from [[Calanthe|Lady Calanthë]] -- the vine-covered wand he gave the party that can summon her aid. But the rescue also marked him in the eyes of Harrow and Wend's agents, and he now fears they will hunt him if he returns.
 
 After vegetable stew, roasted carrots, and honeycomb, the party spends the night at Gwydren's camp.
 
 ### Monday, May 31st, 2 Robert I
 
-The next morning, a wolf's baying and hunting horns announce the [[Lord Umbraeth|Gloomshaper]]'s hunters, seeking the heart to cause chaos. Gwydren hurries the party towards a shortcut through [[Old Brindlethorn]]'s tunnels, warning them to be polite and leave her bedrooms alone. They find the cottage-sized badger blocking the entrance, thrashing in an enchanted nightmare that seems aggravated by the Singing Tree's corruption and the nearby heart.
+The next morning, a wolf's baying and hunting horns announce the [[Lord Umbraeth|Gloomshaper]]'s hunters, seeking the heart, presumably to chaos in the Feywild for their own malicious reasons. Gwydren hurries the party towards a shortcut through [[Old Brindlethorn]]'s tunnels, warning them to be polite and leave her bedrooms alone. They find the cottage-sized badger blocking the entrance, thrashing in an enchanted nightmare that seems aggravated by the Singing Tree's corruption and increases in violence when Fazoth, carrying the fey heart of the Singing Tree, approaches. 
 
-Yvan tries to push her aside or prop her up, but catches a flailing claw. Attempts to wake her fail, though she can still sense the party around her. Drou plays soothing music while Yvan uses _Prestidigitation_ to create the scent of fresh soil. As she calms, Yvan slips past with the heart and carries it farther down the tunnel. He then tries to sneak into her bedroom, but makes too much noise, provoking another burst of agitation that catches Drou with a claw. Despite this, everyone manages to get through.
+Yvan tries to push her aside or wake her, but catches a flailing claw; Drou's rousing music has no effect, though suggests she can sense the party around her in her dreams. Realizing they cannot wake her, the party changes tack and tries to soothe her instead. Drou plays soothing music while Yvan uses _Prestidigitation_ to create the scent of fresh soil. As she calms, Yvan slips past with the heart and carries it farther down the tunnel, hoping that moving the fey heart far from her will lessen her distress. This, combined with Drou's soothing music, seems to be working until Yvan tries to sneak into her bedroom. He does this loudly and obviously, provoking another burst of agitation that catches Drou with a claw, but is short-lived, for after the swipe, she calms enough for everyone to get through.
 
 We end as the party and Gwydren enter Old Brindlethorn's tunnels.
-
-%% Editorial review
-
-The real-world session date remains unconfirmed. In-world dates continue directly from Session 21: DR 1715-05-30, followed by one overnight rest and the morning of DR 1715-05-31.
-
-The names transcribed as "Berenvel" and "Sunmoon, Reach Syllacom" are corrected to Serenveil and Sunward Reach in the raw notes, as confirmed by Tim. The acquaintance remains unnamed in the current narrative.
-
-The transcribed "Orenka" and "Paradox/Caretok" are rendered as Aurenxis and Caradoc, whose identity is established in [[Caradoc]] and [[Addermarch - Session 15]]. The summoning wand is recorded in [[Addermarch - Session 21]].
-
-"Moonshaper" is rendered as Gloomshaper, the documented alias of [[Lord Umbraeth]], whose hunters appear in the corresponding adventure material. Confirm that this is the intended name.
-
-The dictated "Sorcerous Bolt" is described simply as Yvan's sorcery; Session 21 uses "sorcerous burst." No spell-name correction is assumed.
-
-%%
 
 %% raw notes
 
