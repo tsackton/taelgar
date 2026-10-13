@@ -1,23 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Addermarch
 sessionNumber: 22
-realWorldDate:
+realWorldDate: 2026-10-11
 DR: 1715-05-30
 DR_end: 1715-05-31
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 22
-tagline: in which the party finds a guide
-descTitle: A Guide Through the Thornweald
+tagline: in which the party meets Gywdren
+descTitle: Gywdren 
 ---
-
 # Addermarch Campaign - Session 22
 
 >[!info] A Guide Through the Thornweald: in which the party finds a guide
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
 > *In Taelgar: (DR:: 1715-05-30) - (DR:: 1715-05-31)*
-> *On Earth: date to confirm*
+> *On Earth: Sunday October 11, 2026*
 > *[[Thornweald]]*
 
 %% The real-world session date remains unconfirmed. Editorial name-resolution notes appear before the raw notes. The raw notes preserve the available transcription verbatim, without audio correction. %%

@@ -11,7 +11,6 @@ name: Addermarch Campaign - Session 21
 tagline: in which the party returns to the Feywild
 descTitle: The Briarheart's Realm
 ---
-
 # Addermarch Campaign - Session 21
 
 >[!info] The Briarheart's Realm: in which the party returns to the Feywild
