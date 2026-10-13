@@ -13,7 +13,7 @@ descTitle: Gwydren of the Old Paths
 ---
 # Addermarch Campaign - Session 22
 
->[!info] A Guide Through the Thornweald: in which the party finds a guide
+>[!info] Gwydren of the Old Paths: in which the party finds a guide
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
 > *In Taelgar: (DR:: 1715-05-30) - (DR:: 1715-05-31)*
 > *On Earth: Sunday October 11, 2026*
