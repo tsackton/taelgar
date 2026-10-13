@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-23T23:02:51-04:00"
+lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power]
 typeOf: archfey
@@ -23,6 +23,9 @@ Harrow, the Shadow That Looms, is an archfey and the ruler of [[Darkfall]]. He i
 
 Harrow is not merely dark; he is an occlusion, a destruction of light. Wend is not merely quiet; she is the silence that moves after him, the terror of the moment when silence falls in the darkness. When both are near, witnesses perceive one as substantial and the other as an afterimage, but accounts disagree about which was which. That uncertainty sustains the belief that they may be conjoined beings, or two aspects of the same dread, though the truth of the matter is not recorded.
 
+Harrow, aided by Wend, has long actively tried to extend across the Sunset Gate and bring darkness to the sunlight lands beyond. 
+
+%% details probably don't belong in a public note but this has been established in Addermarch (e.g. [[Caradoc]]'s backstory) and in Dunmar Frontier, e.g. the Cloudspinner arc). note that harrow and wend and their relationship to Ethlenn need attention; is Ethlenn's southern border fortified, or is she just so much stronger that they don't dare bother her? either would support the reason for their attention to be focused across the Sunset Gate. note that the Cloudspinner did fortify her border, as does Sunward Reach, so this could be something special about Ethlenn if we go with point 2 %%
 
 %%^Campaign:none%%
 Stat block ideas for minions of Harrow and Wend:

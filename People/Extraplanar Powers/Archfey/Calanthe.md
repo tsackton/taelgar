@@ -1,19 +1,24 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-09-28T23:44:57-04:00"
+lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power]
+typeOf: archfey
 gender: female
 title: Lady
-typeOf: archfey
 name: Calanthë
+pronunciation: kah-LAN-thee
+affiliations:
+  - {org: "Sunward Reach", type: leader, title: Duchess}
 POV: 1715
 ---
 # Lady Calanthë
+*(kah-LAN-thee)*
 >[!info]+ Information  
-> An archfey (she/her)
+> An archfey (she/her)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-Lady Calanthë, Duchess of the Sunset Forest and Guardian of the Gloaming Hills, is an archfey of [[Sunward Reach]] who protects against incursions by [[Harrow]] and [[Wend]] across the [[Sunset Gate]]. 
+Lady Calanthë, Duchess of the Sunset Forest and Guardian of the Gloaming Hills, is an archfey who rules [[Sunward Reach]] and protects against incursions by [[Harrow]] and [[Wend]] across the [[Sunset Gate]]. 
 
 %%^Metadata:names:v1%%
 - {name: Calanthë, language: Sylvan, pronunciation: kah-LAN-thee, status: documented}

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-08-23T11:35:40-04:00"
+lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [person]
 species: human
@@ -10,8 +10,8 @@ campaignInfo:
 gender: male
 born: 1653
 name: Caradoc
-pronunciation: CARE-uh-dock
 aliases: [Aurenxis]
+pronunciation: CARE-uh-dock
 whereabouts:
   - {type: home, location: Brantor}
   - {type: away, location: Roscombe, start: 1715-05-02, end: 1715-05-02}
@@ -28,13 +28,11 @@ POV: 1715
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Hired the [[Addermarch Mercenaries]] on May 2nd, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
-Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage-laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. 
+Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage and laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
 
-Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy more of a scholarly pursue and civic duty than a means to riches. He does not share where and how he came by his coin, but he clearly has enough. He pays generously for rare ingredients, especially those that are dangerous to collect, though he eschews adventure and relies on agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]]. 
+Rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as a scholarly pursuit and civic duty rather than a means to riches. He does not share where and how he came by his coin, but he clearly has enough. He pays generously for rare ingredients, especially those that are dangerous to collect, but does not seem to charge enough to recoup his costs. He eschews adventure and relies on agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]].
 
-Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
-
-Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, though those who know him well may learn that as a teenager he crossed into the [[Thornweald]], Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemy.
+Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric concoctions, such as [[Trueflame]], and once traveled in the [[Feywild]] under the name Aurenxis, a name he used to keep his true identity safe from mischief. He does not advertise this history, though those who know him well may learn that as a teenager he crossed into the [[Thornweald]], Morlaith's realm in the Feywild; whatever happened there left him with prematurely white hair and an uncanny instinct for alchemy. %%^Campaign:adma%%According to [[Gwydren]], Caradoc rescued a prominent knight of Sunward Reach from Darkfall while traveling as Aurenxis. Lady Calanthë rewarded him with a boon, represented by a wand that could summon her aid. The rescue also marked him to the agents of Harrow and Wend, and he fears they will hunt him if he returns to the Feywild.%%^End%%
 
 ## Events
 - (DR:: 1715-05-02): [[Addermarch - Session 03|Hired the Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
@@ -47,6 +45,7 @@ Caradoc has hidden depths, as well. He has a surprising knowledge of esoteric co
 - (DR:: 1715-05-21): [[Addermarch - Session 15|Revealed that he once used the name Aurenxis]] while traveling in the [[Feywild]], and warned the party about [[Morlaith]].
 - (DR:: 1715-05-22): [[Addermarch - Session 16|Provided old adventuring gear]] and agreed to prepare more [[Trueflame]] to destroy the [[Serpentine Battleaxe]].
 - (DR:: 1715-05-24): Supplied the prepared [[Trueflame]] before the party set out toward [[Serethwyn Tor]].
+- (DR:: 1715-05-28): [[Addermarch - Session 21|Outfitted the Addermarch Mercenaries]] prior to their adventure into the [[Thornweald]] to return the fey heart.  
 
 
 %% DM 
@@ -86,7 +85,7 @@ For the purposes of the adventure:
 
 %%^Metadata:names:v1%%
 - {name: Caradoc, language: Addermarian, pronunciation: CARE-uh-dock, status: documented}
-- {name: Aurenxis, role: alias, language: Sylvan, pronunciation: AWR-en-kiss, status: documented}
+- {name: Aurenxis, role: alias, language: Sylvan, pronunciation: AWR-en-kiss, status: documented, notes: "Pronunciation recorded in [[Addermarch - Session 14]]."}
 %%^End%%
 
 %%^povNotes:v1%%
