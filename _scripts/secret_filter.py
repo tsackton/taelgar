@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Fail-closed Git filter and guards for Taelgar private note fragments.
+"""Git filter and checks for Taelgar DM spoilers, not credentials.
+
+This is a low-stakes convenience for sharing notes with players. It is not a
+password or credential security mechanism, and does not audit old shared history.
 
 The working tree may contain raw ``%%SECRET ... %%`` blocks and frontmatter
 lines marked with ``##secret``.  Git blobs contain placeholders instead.  The
@@ -26,7 +29,7 @@ import subprocess
 import sys
 import tempfile
 from dataclasses import dataclass
-from typing import Dict, Iterable, List, Mapping, MutableMapping, Optional, Sequence, Tuple
+from typing import BinaryIO, Dict, Iterable, List, Mapping, MutableMapping, Optional, Sequence, Tuple
 
 
 RAW_BLOCK_START = b"%%SECRET"
@@ -400,6 +403,91 @@ def smudge_bytes(
     return _apply_replacements(data, replacements)
 
 
+def _read_packet_list(stream: BinaryIO, allow_eof: bool = False) -> Optional[List[bytes]]:
+    """Read one flush-terminated list in Git's pkt-line protocol."""
+    packets: List[bytes] = []
+    while True:
+        header = stream.read(4)
+        if not header and allow_eof and not packets:
+            return None
+        if len(header) != 4 or re.fullmatch(rb"[0-9a-fA-F]{4}", header) is None:
+            raise SecretFilterError("invalid or truncated filter packet header")
+        size = int(header, 16)
+        if size == 0:
+            return packets
+        if not 4 <= size <= 65520:
+            raise SecretFilterError("invalid filter packet length")
+        payload = stream.read(size - 4)
+        if len(payload) != size - 4:
+            raise SecretFilterError("truncated filter packet content")
+        packets.append(payload)
+
+
+def _write_packet_list(stream: BinaryIO, packets: Iterable[bytes]) -> None:
+    for packet in packets:
+        for offset in range(0, len(packet), 65516):
+            chunk = packet[offset:offset + 65516]
+            stream.write("{:04x}".format(len(chunk) + 4).encode("ascii"))
+            stream.write(chunk)
+    stream.write(b"0000")
+
+
+def filter_process(
+    reader: BinaryIO,
+    writer: BinaryIO,
+    store_root: Path,
+    legacy_store: Optional[Path],
+) -> int:
+    """Serve clean/smudge requests in one process for the current Git command.
+
+    Protocol: https://git-scm.com/docs/gitattributes#_long_running_filter_process
+    No delay capability or background daemon is needed.
+    """
+    greeting = _read_packet_list(reader)
+    if not greeting or greeting[0] != b"git-filter-client\n" or b"version=2\n" not in greeting:
+        raise SecretFilterError("unsupported filter protocol handshake")
+    _write_packet_list(writer, [b"git-filter-server\n", b"version=2\n"])
+    writer.flush()
+    offered = _read_packet_list(reader)
+    capabilities = [
+        item for item in (b"capability=clean\n", b"capability=smudge\n")
+        if offered and item in offered
+    ]
+    _write_packet_list(writer, capabilities)
+    writer.flush()
+    commands = {item[len(b"capability="):-1] for item in capabilities}
+
+    while True:
+        headers = _read_packet_list(reader, allow_eof=True)
+        if headers is None:
+            return 0
+        fields = {}
+        for header in headers:
+            header = header[:-1] if header.endswith(b"\n") else header
+            key, separator, value = header.partition(b"=")
+            if not separator:
+                raise SecretFilterError("invalid filter request header")
+            fields[key] = value
+        content = b"".join(_read_packet_list(reader) or [])
+        try:
+            command = fields.get(b"command")
+            if command not in commands or not fields.get(b"pathname"):
+                raise SecretFilterError("unsupported filter command or missing pathname")
+            path = os.fsdecode(fields[b"pathname"])
+            if command == b"clean":
+                output = clean_bytes(content, path, store_root)
+            else:
+                output = smudge_bytes(content, path, store_root, legacy_store)
+        except (SecretFilterError, OSError) as exc:
+            print("DM filter error: {}".format(exc), file=sys.stderr)
+            _write_packet_list(writer, [b"status=error\n"])
+        else:
+            _write_packet_list(writer, [b"status=success\n"])
+            _write_packet_list(writer, [output])
+            _write_packet_list(writer, [])
+        writer.flush()
+
+
 def run_git(
     arguments: Sequence[str],
     *,
@@ -458,16 +546,21 @@ def check_index() -> int:
     return 0
 
 
-def _commits_for_push(local_oid: str, remote_oid: str) -> List[str]:
+def _commits_for_push(local_oid: str, remote_oid: str) -> Optional[List[str]]:
+    """Select new work; None requests a tip-tree check without a shared baseline."""
     if ZERO_OID_RE.fullmatch(local_oid):
         return []
     if ZERO_OID_RE.fullmatch(remote_oid):
-        # A zero remote object means the destination does not yet have this ref.
-        # Scan the complete reachable history: subtracting a local tracking remote
-        # could otherwise miss content when the same branch is pushed elsewhere.
-        output = run_git(["rev-list", local_oid])
-    else:
-        output = run_git(["rev-list", local_oid, "^{}".format(remote_oid)])
+        # A new branch must not re-audit years of already shared DM notes.
+        # All known remote history is an acceptable baseline for this spoiler
+        # filter, even when publishing to another remote. Boundaries distinguish
+        # a genuinely new range from a checkout with no known shared ancestor.
+        output = run_git(["rev-list", "--boundary", local_oid, "--not", "--remotes"])
+        revisions = output.decode("ascii").splitlines()
+        if revisions and not any(line.startswith("-") for line in revisions):
+            return None
+        return [line for line in revisions if line and not line.startswith("-")]
+    output = run_git(["rev-list", local_oid, "^{}".format(remote_oid)])
     return [line for line in output.decode("ascii").splitlines() if line]
 
 
@@ -492,14 +585,19 @@ def _changed_markdown_paths(commit: str) -> List[str]:
 
 def check_push(lines: Iterable[str]) -> int:
     commits: List[str] = []
+    trees = set()
     for line in lines:
         fields = line.strip().split()
         if len(fields) != 4:
             continue
         _, local_oid, _, remote_oid = fields
-        commits.extend(_commits_for_push(local_oid, remote_oid))
+        selected = _commits_for_push(local_oid, remote_oid)
+        if selected is None:
+            trees.add(local_oid)
+        else:
+            commits.extend(selected)
 
-    failures = 0
+    failures = sum(check_tree(revision) for revision in sorted(trees))
     seen_blobs = set()
     for commit in dict.fromkeys(commits):
         for path in _changed_markdown_paths(commit):
@@ -513,17 +611,20 @@ def check_push(lines: Iterable[str]) -> int:
             seen_blobs.add(blob_oid)
             failures += _report_findings("{}:{}".format(commit[:12], path), data)
     if failures:
-        print("push blocked: outgoing history contains raw secret syntax", file=sys.stderr)
+        print("push blocked: checked Markdown contains raw DM spoiler syntax", file=sys.stderr)
         return 1
     return 0
 
 
 def check_tree(revision: str) -> int:
     paths = _decode_nul_paths(
-        run_git(["ls-tree", "-r", "-z", "--name-only", revision, "--", "*.md"])
+        run_git(["ls-tree", "-r", "-z", "--name-only", revision])
     )
     failures = 0
     for path in paths:
+        # ls-tree takes literal path prefixes, unlike diff's glob pathspecs.
+        if not path.endswith(".md"):
+            continue
         data = run_git(["show", "{}:{}".format(revision, path)])
         failures += _report_findings(path, data)
     if failures:
@@ -565,6 +666,7 @@ def doctor() -> int:
     expected = {
         "filter.remove-secrets.clean": "_scripts/secret_filter.py",
         "filter.remove-secrets.smudge": "_scripts/secret_filter.py",
+        "filter.remove-secrets.process": "_scripts/secret_filter.py",
         "filter.remove-secrets.required": "true",
         "core.hookspath": "_scripts/git-hooks",
     }
@@ -597,11 +699,12 @@ def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(description=__doc__)
     subparsers = parser.add_subparsers(dest="command", required=True)
 
-    for command in ("clean", "smudge"):
+    for command in ("clean", "smudge", "process"):
         subparser = subparsers.add_parser(command)
-        subparser.add_argument("--path", required=True)
+        if command != "process":
+            subparser.add_argument("--path", required=True)
         subparser.add_argument("--store", type=Path, default=Path(".secrets-v2"))
-        if command == "smudge":
+        if command in {"smudge", "process"}:
             subparser.add_argument("--legacy-store", type=Path, default=Path(".secrets"))
 
     subparsers.add_parser("history-clean")
@@ -619,6 +722,10 @@ def build_parser() -> argparse.ArgumentParser:
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = build_parser().parse_args(argv)
     try:
+        if args.command == "process":
+            return filter_process(
+                sys.stdin.buffer, sys.stdout.buffer, args.store, args.legacy_store
+            )
         if args.command == "clean":
             output = clean_bytes(sys.stdin.buffer.read(), args.path, args.store)
             sys.stdout.buffer.write(output)
