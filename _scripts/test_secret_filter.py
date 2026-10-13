@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import importlib.util
+import io
 import os
 from pathlib import Path
 import re
@@ -144,6 +145,45 @@ class SecretFilterTest(unittest.TestCase):
             secret_filter.load_sidecar(store, "Example.md")
 
 
+class ProcessProtocolTest(unittest.TestCase):
+    @staticmethod
+    def packet_list(*packets: bytes) -> bytes:
+        return b"".join(
+            "{:04x}".format(len(packet) + 4).encode("ascii") + packet
+            for packet in packets
+        ) + b"0000"
+
+    def test_request_error_does_not_desynchronize_next_request(self) -> None:
+        data = (
+            self.packet_list(b"git-filter-client\n", b"version=2\n")
+            + self.packet_list(b"capability=clean\n", b"capability=smudge\n")
+            + self.packet_list(b"command=clean\n", b"pathname=Bad.md\n")
+            + self.packet_list(b"%%SECRET unclosed")
+            + self.packet_list(b"command=clean\n", b"pathname=Good.md\n")
+            + self.packet_list(b"Unchanged content\x00\r\n")
+        )
+        expected = (
+            self.packet_list(b"git-filter-server\n", b"version=2\n")
+            + self.packet_list(b"capability=clean\n", b"capability=smudge\n")
+            + self.packet_list(b"status=error\n")
+            + self.packet_list(b"status=success\n")
+            + self.packet_list(b"Unchanged content\x00\r\n")
+            + self.packet_list()
+        )
+        with tempfile.TemporaryDirectory() as directory:
+            completed = subprocess.run(
+                [sys.executable, str(SCRIPT_PATH), "process", "--store", directory],
+                input=data, capture_output=True, timeout=15,
+            )
+        self.assertEqual(completed.returncode, 0, completed.stderr)
+        self.assertEqual(completed.stdout, expected)
+        self.assertIn(b"unclosed raw secret block", completed.stderr)
+
+    def test_truncated_packet_reports_error_instead_of_hanging(self) -> None:
+        with self.assertRaises(secret_filter.SecretFilterError):
+            secret_filter.filter_process(io.BytesIO(b"0010short"), io.BytesIO(), Path("unused"), None)
+
+
 class GitIntegrationTest(unittest.TestCase):
     def make_repo(self) -> Path:
         root = Path(tempfile.mkdtemp(prefix="secret-filter-git-test."))
@@ -176,6 +216,104 @@ class GitIntegrationTest(unittest.TestCase):
         subprocess.run(
             [GIT_EXECUTABLE, "config", "filter.remove-secrets.required", "true"], cwd=root, check=True
         )
+
+    def configure_process(self, root: Path) -> None:
+        self.configure_filter(root)
+        # An invocation log independently verifies that Git reuses one process.
+        (root / ".git" / "filter_probe.py").write_text(
+            "import os, sys\n"
+            "with open('.git/filter-invocations', 'a') as log:\n"
+            "    log.write('started\\n')\n"
+            "os.execv(sys.executable, [sys.executable, '_scripts/secret_filter.py', "
+            "'process', '--store', '.secrets-v2', '--legacy-store', '.secrets'])\n",
+            encoding="utf-8",
+        )
+        self.git(root, "config", "filter.remove-secrets.process",
+                 '{} ".git/filter_probe.py"'.format(sys.executable))
+
+    @staticmethod
+    def git(root: Path, *arguments: str) -> bytes:
+        return subprocess.run(
+            [GIT_EXECUTABLE, *arguments], cwd=root, check=True,
+            input=b"", capture_output=True, timeout=15,
+        ).stdout
+
+    def commit_note(self, root: Path, name: str, content: bytes) -> str:
+        (root / name).write_bytes(content)
+        self.git(root, "add", "--", name)
+        self.git(root, "commit", "-q", "-m", "fixture")
+        return self.git(root, "rev-parse", "HEAD").decode().strip()
+
+    def check_push(self, root: Path, local: str, remote: str = "0" * 40) -> subprocess.CompletedProcess:
+        return subprocess.run(
+            [sys.executable, str(root / "_scripts" / "secret_filter.py"), "check-push"],
+            cwd=root, input="refs/heads/topic {} refs/heads/topic {}\n".format(local, remote),
+            capture_output=True, text=True, timeout=15,
+        )
+
+    def test_process_round_trip_many_files_and_packet_boundaries(self) -> None:
+        root = self.make_repo()
+        self.configure_process(root)
+        originals = {
+            "Empty.md": b"",
+            "Large.md": b"Public\n" * 15000 + b"%%SECRET" + b"DM detail\n" * 15000 + b"%%\n",
+            "Odd 'quoted' \"double\" $name=\n\u00e9.md": b"%%SECRETinline%%\n",
+            "Frontmatter.md": b"---\nname: Public\nlocation: Hidden ##secret\n---\nBody\n",
+            "Bytes.md": b"Public\x00bytes\r\n%%SECRETdetail\xff%%\r\n",
+        }
+        originals.update({"Public-{}.md".format(i): b"Unchanged public text\n" for i in range(30)})
+        for name, content in originals.items():
+            (root / name).write_bytes(content)
+        self.git(root, "add", "--", *originals)
+        invocations = root / ".git" / "filter-invocations"
+        self.assertEqual(invocations.read_text().splitlines(), ["started"])
+        for name, content in originals.items():
+            self.assertEqual((root / name).read_bytes(), content)
+            self.assertEqual(
+                self.git(root, "show", ":" + name),
+                secret_filter.clean_bytes(content, name, None),
+            )
+            (root / name).unlink()
+        invocations.write_text("")
+        self.git(root, "checkout-index", "--all")
+        self.assertEqual(invocations.read_text().splitlines(), ["started"])
+        for name, content in originals.items():
+            self.assertEqual((root / name).read_bytes(), content)
+
+    def test_process_checkout_without_store_preserves_placeholders(self) -> None:
+        root = self.make_repo()
+        self.configure_process(root)
+        note = root / "Note.md"
+        note.write_bytes(b"%%SECRETDM detail%%\n")
+        self.git(root, "add", "--", note.name)
+        cleaned = self.git(root, "show", ":" + note.name)
+        shutil.rmtree(root / ".secrets-v2")
+        note.unlink()
+        self.git(root, "checkout-index", "--all")
+        self.assertEqual(note.read_bytes(), cleaned)
+
+    def test_process_restores_legacy_placeholders(self) -> None:
+        root = self.make_repo()
+        self.configure_process(root)
+        note = root / "Legacy.md"
+        note.write_bytes(b"%%SECRET[44]%%\n")
+        self.git(root, "add", "--", note.name)
+        (root / ".secrets").mkdir()
+        (root / ".secrets" / "Legacy.md.1").write_bytes(b"legacy detail")
+        note.unlink()
+        self.git(root, "checkout-index", "--all")
+        self.assertEqual(note.read_bytes(), b"%%SECRETlegacy detail%%\n")
+
+    def test_required_process_rejects_malformed_content(self) -> None:
+        root = self.make_repo()
+        self.configure_process(root)
+        (root / "Bad.md").write_bytes(b"%%SECRET unclosed")
+        result = subprocess.run(
+            [GIT_EXECUTABLE, "add", "--", "Bad.md"], cwd=root,
+            capture_output=True, timeout=15,
+        )
+        self.assertNotEqual(result.returncode, 0)
+        self.assertEqual(self.git(root, "ls-files"), b"")
 
     def test_real_git_filter_keeps_raw_worktree_and_cleans_index(self) -> None:
         root = self.make_repo()
@@ -219,7 +357,7 @@ class GitIntegrationTest(unittest.TestCase):
         self.assertIn(b"commit blocked", completed.stderr)
         self.assertNotIn(b"private detail", completed.stderr)
 
-    def test_new_remote_branch_scans_history_already_reachable_from_origin(self) -> None:
+    def test_new_remote_branch_skips_history_already_reachable_from_origin(self) -> None:
         root = self.make_repo()
         note = root / "Unsafe.md"
         note.write_bytes(b"Public %%SECRETprivate detail%% text\n")
@@ -248,9 +386,72 @@ class GitIntegrationTest(unittest.TestCase):
             text=True,
             check=False,
         )
-        self.assertEqual(completed.returncode, 1)
-        self.assertIn("push blocked", completed.stderr)
+        self.assertEqual(completed.returncode, 0, completed.stderr)
+        self.assertNotIn("raw secret syntax", completed.stderr)
         self.assertNotIn("private detail", completed.stderr)
+
+    def test_new_branch_checks_unpublished_commits_even_if_tip_is_clean(self) -> None:
+        root = self.make_repo()
+        base = self.commit_note(root, "Note.md", b"Public\n")
+        self.git(root, "update-ref", "refs/remotes/origin/main", base)
+        raw = self.commit_note(root, "Note.md", b"%%SECRETnew spoiler%%\n")
+        head = self.commit_note(root, "Note.md", b"Public again\n")
+        result = self.check_push(root, head)
+        self.assertEqual(result.returncode, 1, result.stderr)
+        self.assertIn(raw[:12], result.stderr)
+        self.assertIn("push blocked", result.stderr)
+
+    def test_new_branch_with_public_work_ignores_old_shared_markers(self) -> None:
+        root = self.make_repo()
+        base = self.commit_note(root, "Old.md", b"%%SECREThistorical spoiler%%\n")
+        self.git(root, "update-ref", "refs/remotes/origin/main", base)
+        head = self.commit_note(root, "New.md", b"Public\n")
+        result = self.check_push(root, head)
+        self.assertEqual(result.returncode, 0, result.stderr)
+
+    def test_new_branch_without_shared_baseline_checks_only_current_tree(self) -> None:
+        for unrelated_remote in (False, True):
+            with self.subTest(unrelated_remote=unrelated_remote):
+                root = self.make_repo()
+                if unrelated_remote:
+                    other = self.git(root, "mktree").decode().strip()
+                    other = self.git(root, "commit-tree", other, "-m", "unrelated").decode().strip()
+                    self.git(root, "update-ref", "refs/remotes/other/main", other)
+                self.commit_note(root, "Note.md", b"%%SECREThistorical spoiler%%\n")
+                head = self.commit_note(root, "Note.md", b"Public\n")
+                result = self.check_push(root, head)
+                self.assertEqual(result.returncode, 0, result.stderr)
+                self.assertIn("tree check passed", result.stdout)
+                # A current spoiler is found even if the tip changes another file.
+                self.commit_note(root, "Note.md", b"%%SECRETcurrent spoiler%%\n")
+                head = self.commit_note(root, "Other.md", b"Public\n")
+                result = self.check_push(root, head)
+                self.assertEqual(result.returncode, 1, result.stderr)
+                self.assertIn("Note.md", result.stderr)
+
+    def test_existing_branch_still_checks_only_new_commits(self) -> None:
+        root = self.make_repo()
+        base = self.commit_note(root, "Old.md", b"%%SECREThistorical spoiler%%\n")
+        head = self.commit_note(root, "New.md", b"Public\n")
+        self.assertEqual(self.check_push(root, head, base).returncode, 0)
+        head = self.commit_note(root, "New.md", b"%%SECRETnew spoiler%%\n")
+        self.assertEqual(self.check_push(root, head, base).returncode, 1)
+
+    def test_branch_deletion_does_not_scan_history(self) -> None:
+        root = self.make_repo()
+        head = self.commit_note(root, "Old.md", b"%%SECREThistorical spoiler%%\n")
+        self.assertEqual(self.check_push(root, "0" * 40, head).returncode, 0)
+
+    def test_tree_check_scans_nested_markdown(self) -> None:
+        root = self.make_repo()
+        (root / "Nested").mkdir()
+        self.commit_note(root, "Nested/Note.md", b"%%SECRETcurrent spoiler%%\n")
+        result = subprocess.run(
+            [sys.executable, str(root / "_scripts" / "secret_filter.py"), "check-tree", "HEAD"],
+            cwd=root, capture_output=True, timeout=15,
+        )
+        self.assertEqual(result.returncode, 1, result.stderr)
+        self.assertIn(b"Nested/Note.md", result.stderr)
 
     def test_required_filter_blocks_malformed_secret(self) -> None:
         root = self.make_repo()
