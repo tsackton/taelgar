@@ -11,21 +11,17 @@ In [[Addermarch]], thought, the worries of distant kings and queens often seem r
 ## Chapters
 
 The story of the eventful journey to [[Roscombe]], uncovering the mystery of [[Torvaine Watch]], is told in:
-*Level 1 - 2*
 - [[Addermarch - Session 01]]
 - [[Addermarch - Session 02]]
 
 The story of their first mission for [[Caradoc]], recovering a cockatrice gizzard from a nearby cave, is told in:
-*Level 2*
 - [[Addermarch - Session 03]]
 
 The story of their second mission, recovering an alchemical recipe stolen by a local goblin tribe, is told in:
-*Level 3*
 - [[Addermarch - Session 04]]
 - [[Addermarch - Session 05]]
 
 The story of their third and most ambitious mission to date, tracking down the mysterious [[uligium]] for [[Caradoc]], is told in:
-*Level 3-4*
 - [[Addermarch - Session 06]]
 - [[Addermarch - Session 07]]
 - [[Addermarch - Session 08]]
@@ -33,7 +29,6 @@ The story of their third and most ambitious mission to date, tracking down the m
 - [[Addermarch - Session 10]]
 
 The story of the mysterious fey events in the village of [[Haldrenn]] is told in:
-*Level 4-5*
 - [[Addermarch - Session 11]]
 - [[Addermarch - Session 12]]
 - [[Addermarch - Session 13]] 
@@ -41,7 +36,6 @@ The story of the mysterious fey events in the village of [[Haldrenn]] is told in
 - [[Addermarch - Session 15]]
 
 The story of the [[Serpentine Battleaxe]] is told in:
-*Level 5*
 - [[Addermarch - Session 16]]
 - [[Addermarch - Session 17]]
 - [[Addermarch - Session 18]] 
@@ -49,11 +43,18 @@ The story of the [[Serpentine Battleaxe]] is told in:
 - [[Addermarch - Session 20]] 
 
 The story of the return of the fey heart stolen from the [[Thornweald]] is told in:
-*Level 5-6*
 - [[Addermarch - Session 21]]
 - [[Addermarch - Session 22]]
 
 %%^Campaign:none%%
+
+## Leveling
+
+Level 1->2: after Session 2
+Level 2->3: after Session 3
+Level 3->4: after Session 9 or 10 
+Level 4->5: after Session 15
+Level 5->6: after Session 23 (planned)
 
 Addermarch Campaign cleanup / to do list
 

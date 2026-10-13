@@ -55,6 +55,10 @@ The road ends at a swift river, about sixty feet across and overhung with trees.
 
 While the party rests, Fazoth's pseudodragon searches the trees rising above the canopy. After a couple of hours, it finds Gwydren's tent and fire, and the party sets out for the tree, with Fazoth leading them through the woods guided by his pseudodragon high above the canopy. 
 
+> [!image|right standard]
+> ![[gwydren.webp]]
+> *Gwydren in the Thornweald.*
+
 Gwydren is an eight-foot moose-like humanoid, with light brown fur, broad antlers hung with moss, and robes of plants and lichen beneath a woven fern cloak. He is suspicious of outsiders and fears the dangers of the forest. The party mentions [[Lord Serenveil]], their plan to return the Singing Tree's heart, and [[Caradoc]], whom Gwydren knows as Aurenxis. Yvan's sincere appeal and Drou's impressive performance, supported by Yvan's illusions, convince him that they are trustworthy and can keep him safe. He agrees to guide them.
 
 Gwydren also tells them more of Caradoc's youthful adventures in the [[Feywild]]. Traveling as Aurenxis, he visited [[Sunward Reach]], a fortified realm between [[Morlaith|the Briarheart]]'s domain and the nightmare realms of [[Harrow]] and [[Wend]] beyond the [[Sunset Gate]]. After a raid left a prominent knight captive in [[Darkfall]], Caradoc ventured in and rescued the knight, earning a boon from [[Calanthe|Lady Calanthë]] -- the vine-covered wand he gave the party that can summon her aid. But the rescue also marked him in the eyes of Harrow and Wend's agents, and he now fears they will hunt him if he returns.
@@ -64,6 +68,10 @@ After vegetable stew, roasted carrots, and honeycomb, the party spends the night
 ### Monday, May 31st, 2 Robert I
 
 The next morning, a wolf's baying and hunting horns announce the [[Lord Umbraeth|Gloomshaper]]'s hunters, seeking the heart, presumably to chaos in the Feywild for their own malicious reasons. Gwydren hurries the party towards a shortcut through [[Old Brindlethorn]]'s tunnels, warning them to be polite and leave her bedrooms alone. They find the cottage-sized badger blocking the entrance, thrashing in an enchanted nightmare that seems aggravated by the Singing Tree's corruption and increases in violence when Fazoth, carrying the fey heart of the Singing Tree, approaches. 
+
+> [!image|figure standard]
+> ![[adma-022-old-brindlethorn-tunnels.webp]]
+> *Old Brindlethorn asleep across the entrance to her tunnels.*
 
 Yvan tries to push her aside or wake her, but catches a flailing claw; Drou's rousing music has no effect, though suggests she can sense the party around her in her dreams. Realizing they cannot wake her, the party changes tack and tries to soothe her instead. Drou plays soothing music while Yvan uses _Prestidigitation_ to create the scent of fresh soil. As she calms, Yvan slips past with the heart and carries it farther down the tunnel, hoping that moving the fey heart far from her will lessen her distress. This, combined with Drou's soothing music, seems to be working until Yvan tries to sneak into her bedroom. He does this loudly and obviously, provoking another burst of agitation that catches Drou with a claw, but is short-lived, for after the swipe, she calms enough for everyone to get through.
 

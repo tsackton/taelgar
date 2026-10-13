@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-09-28T23:44:57-04:00"
+lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
 tags: [place]
@@ -16,7 +16,7 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Thornweald is the ancient forest domain of [[Morlaith]]. It lies congruent with the hills and river valleys of western [[Addermarch]], west of [[Twilight's Grace]] and east of [[Duskmire]], though its boundaries are variable and unpredictable as the power of Morlaith waxes and wanes. 
+The Thornweald is the ancient forest domain of [[Morlaith]]. It lies congruent with the hills and river valleys of western [[Addermarch]], west of [[Twilight's Grace]] and east of [[Duskmire]], though its boundaries are variable and unpredictable as the power of Morlaith waxes and wanes. It was once much more extensive, but has dimished with Morlaith's decline; its former extent is poorly recorded or understood. %% possibly all of Greater Sembara once long ago when Ethlenn was young %%
 
 Much of the realm is a dense forest and thick underbrush, where the late afternoon sun only occasionally is visible through the leaves, and the frequent light rain barely penetrates as drips off the leaves. It is a realm of old paths, and hidden hollows, though few paths lead where a traveler expects, and hidden hollows hide more than meets the eye.
 

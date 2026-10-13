@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-lintedAt: "2026-10-03T13:42:28-04:00"
+lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power, status/review, status/check/lint]
 typeOf: archfey
@@ -41,18 +41,20 @@ Temporal coverage: a broadly modern identification of the enduring ruler of Dusk
 ## Taelgar note lint
 
 ### Applied changes
-- Normalized frontmatter and added persistent name and temporal metadata.
+- None.
 
 ### Validated judgments
-- status/review is supported: established sources demonstrate an important recurring power whose central account is missing. The mike-owned DM attestation is outside the local evidence-review gate.
+- `status/review` is supported: [[Duskhounds]], [[Greymalkin's Story]], and [[Addermarch - Session 22]] establish a recurring power whose defining account is absent.
+- The new Addermarch appearance corroborates his use of hunters; their particular pursuit belongs in the session record. The later shared encounter draft remains unplayed preparation.
+- The broadly modern identification is compatible with the modern campaign sources. The two undated home entries encode origin and current home and do not themselves require invented move dates.
 
 ### Editorial assessment
-The article is **Underdeveloped**: its central missing dimensions are Umbraeth’s characteristic dealings, his earlier relationship to Ethlenn and reported exile, and his defining conquest of the Refuge of the Gossamer Veil. A short sourced account of those dimensions is the smallest useful development scope; exact exile chronology remains unresolved.
+**Underdeveloped** — The central gaps are his characteristic dealings and servants, his earlier relationship with Ethlenn and reported exile, and the conquest of the Refuge of the Gossamer Veil. A short sourced account of those dimensions is the smallest useful scope; the precise exile chronology remains unsettled.
 
 - Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
 
 ### Open findings
-- [ ] **Warning — coverage.established_fact_missing:** The one-sentence article omits the defining behavior, relationship to [[Archfey Ethlenn]], and conquests that make this an important recurring power. [[Duskmire]] describes cruel rigged bargains and his earlier place in Ethlenn’s court; [[An Excerpt from On Creation and Destruction of Extra-Material Realms]] reports his exile; [[Greymalkin's Story]] recounts his conquest of the [[Refuge of the Gossamer Veil]]. Smallest useful addition, preserving source attribution: “Umbraeth delights in cruel sport and misleading bargains, honoring his agreements while concealing how unfair they are. He was once a powerful courtier of [[Archfey Ethlenn]]. An old account attributed to the elves of [[Orenlas]] says he was banished from [[Twilight's Grace]] for misdeeds among humans, and that [[Duskmire]] formed around his bitterness and envy. [[Greymalkin]] recounts that Umbraeth conquered the [[Refuge of the Gossamer Veil]], where [[Aelirios Sunblade]] fell.” Do not choose an exact exile date or turn the differing folk tales into unqualified fact.
+- [ ] **Warning — coverage.established_fact_missing:** The article identifies only the ruler of [[Duskmire]]. [[Duskmire]] describes his cruel, misleading bargains and former place in Ethlenn’s court; [[An Excerpt from On Creation and Destruction of Extra-Material Realms]] attributes his exile to the elves of [[Orenlas]]; [[Greymalkin's Story]] recounts his conquest of the [[Refuge of the Gossamer Veil]]; and [[Duskhounds]] identifies his hunters and enforcers. These describe the subject’s defining behavior, history, and reach rather than incidental party encounters. Bounded candidate: “Umbraeth delights in cruel sport and misleading bargains, honoring his agreements while concealing how unfair they are. The [[Duskhounds]] serve him as hunters and enforcers. He was once a powerful courtier of [[Archfey Ethlenn]]. An old account attributed to the elves of [[Orenlas]] says he was banished from [[Twilight's Grace]] for misdeeds among humans, and that [[Duskmire]] formed around his bitterness and envy. [[Greymalkin]] recounts that Umbraeth conquered the [[Refuge of the Gossamer Veil]], where [[Aelirios Sunblade]] fell.” Preserve the source attribution and existing publication exclusions; do not assign an exact exile date or turn provisional realm-expansion plans into history.
 
-- [ ] **Warning — metadata.names_unresolved_status:** Review lord um-BRAYTH in the name block. This is a cautious spelling reading: ordinary English Lord, unstressed um, ae as ay, th as in thin, and stress on BRAYTH. [[Languages]] gives Sylvan no fixed analogue, and no accepted pronunciation or name-language evidence was found. Accept by copying pronunciation: lord um-BRAYTH to frontmatter and marking the entry documented, or supply the intended reading.
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry remains proposed. Review `lord um-BRAYTH`, preserving the current entry until acceptance. Its recorded derivation is a cautious spelling-based reading: ordinary English “Lord,” unstressed “um,” “ae” as “ay,” final “th” as in “thin,” and stress on “BRAYTH”; it is not an established Sylvan pronunciation. Accept by adding `pronunciation: lord um-BRAYTH` to frontmatter and setting the entry to `status: documented`, or supply the intended reading and update the entry accordingly.
 %%^End%%
