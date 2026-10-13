@@ -8,7 +8,7 @@ DR: 1715-05-30
 DR_end: 1715-05-31
 players: [Yvan Greenrabbit, Drou, Fazoth de Brune]
 name: Addermarch Campaign - Session 22
-tagline: in which the party meets Gywdren
+tagline: in which the party finds a guide
 descTitle: Gywdren 
 ---
 # Addermarch Campaign - Session 22
@@ -33,7 +33,7 @@ descTitle: Gywdren
 - **[[Drou]]** - Elven bard-monk.
 - **[[Fazoth de Brune]]** - Human warlock-alchemist, accompanied by his pseudodragon.
 - **[[Gwydren]]** - A moose-like forest dweller who agrees to guide the party to the Singing Tree.
-- **Old Brindlethorn** - A cottage-sized female badger whose enchanted nightmares leave her blocking the entrance to her sett.
+- **[[Old Brindlethorn]]** - A cottage-sized female badger whose enchanted nightmares leave her blocking the entrance to her sett.
 - **[[Caradoc|Aurenxis / Caradoc]]** - The alchemist whose youthful Feywild adventures Gwydren recounts.
 - **[[Calanthe|Lady Calanthë]]** - The archfey whose boon rewarded Caradoc's rescue of a captured knight, mentioned in Gwydren's story.
 - **[[Harrow]] and [[Wend]]** - The nightmare archfey whose realms lie beyond the [[Sunset Gate]], mentioned in the discussion of [[Sunward Reach]].
