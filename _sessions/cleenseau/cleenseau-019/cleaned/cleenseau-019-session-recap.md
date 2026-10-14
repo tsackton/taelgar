@@ -32,7 +32,7 @@
 The party rescues Damien from Veltor Keep, defeats his fey guard, and kills the shapeshifter controlling the court.
 
 #### Long
-After seeing [[Sabine de Brune]] and [[Istarias]] to safety, the party returns to [[Veltor Keep]], frees [[Damien Montrichard]], and kills the duskhound guarding him. They escape to [[Merriweather's Tailor Shop]], alert [[Marceline Dupont]] and [[Victorine Rosseau]], and delay further legal proceedings until [[Isabeau d'Aslain]] returns. That evening they confront [[Areschera]], who had murdered and replaced [[Marguerite Deschamps]], and kill her when she attempts to use magic against them.
+After seeing [[Sabine de Brune]] and [[Istarias]] to safety, the party returns to [[Veltor Keep]], frees [[Damien Montrichard]], and kills the duskhound guarding him. They escape to Merriweather's Tailor Shop, alert [[Marceline Dupont]] and [[Victorine Rosseau]], and delay further legal proceedings until [[Isabeau d'Aslain]] returns. That evening they confront [[Areschera]], who had murdered and replaced [[Marguerite Deschamps]], and kill her when she attempts to use magic against them.
 
 ## Recap
 
@@ -55,7 +55,7 @@ The party frees Damien and escapes after defeating the duskhound guarding him.
 After ensuring Sabine and Istarias are safe, the party returns to the keep, kills Damien's fey guard, and carries Damien out across the tower roof.
 
 #### Long
-With [[Sabine de Brune]] and [[Istarias]] safely outside the keep, the party returns for [[Damien Montrichard]]. They climb the tower, defeat the duskhound guarding him, release him from his chains, and escape across the widow's walk to [[Merriweather's Tailor Shop]]. Damien reports that [[Areschera]] had been using the duskhound to communicate with other fey. The party informs [[Marceline Dupont]] and [[Victorine Rosseau]], who delays further proceedings until [[Isabeau d'Aslain]] can return.
+With [[Sabine de Brune]] and [[Istarias]] safely outside the keep, the party returns for [[Damien Montrichard]]. They climb the tower, defeat the duskhound guarding him, release him from his chains, and escape across the widow's walk to Merriweather's Tailor Shop. Damien reports that [[Areschera]] had been using the duskhound to communicate with other fey. The party informs [[Marceline Dupont]] and [[Victorine Rosseau]], who delays further proceedings until [[Isabeau d'Aslain]] can return.
 
 ### recap-002 | The Shapeshifter Exposed
 
@@ -96,7 +96,7 @@ After resting, the party joins [[Areschera]] and [[Victorine Rosseau]] for dinne
 
 - [[Veltor]]: baronial seat where the party exposes the fey infiltration
 - [[Veltor Keep]]: stronghold where Damien is rescued and Areschera is killed
-- [[Merriweather's Tailor Shop]]: safe house to which the party brings Damien
+- Merriweather's Tailor Shop: safe house to which the party brings Damien
 
 ## Organizations And Items
 

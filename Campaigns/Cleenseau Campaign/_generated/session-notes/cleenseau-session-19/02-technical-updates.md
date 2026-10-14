@@ -1,12 +1,13 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-019\\cleaned\\cleenseau-019-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1720-02-21): party ends at [[Merriweather's Tailor Shop]].
+- Candidate party whereabouts: (DR:: 1720-02-21): party ends at Merriweather's Tailor Shop.
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->

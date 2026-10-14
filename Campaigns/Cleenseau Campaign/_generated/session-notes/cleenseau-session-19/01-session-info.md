@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-019\\cleaned\\cleenseau-019-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Session Info
@@ -120,11 +121,11 @@ https://kiya.dreamwidth.org/790141.html
 <!-- SLOT: locations -->
 - [[Veltor]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): baronial seat where the party exposes the fey infiltration.
 - [[Veltor Keep]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): stronghold where Damien is rescued and [[Areschera]] is killed.
-- [[Merriweather's Tailor Shop]] (<(*)pronunciation(*;)> <typeof:sn>): safe house to which the party brings Damien.
+- Merriweather's Tailor Shop (<(*)pronunciation(*;)> <typeof:sn>): safe house to which the party brings Damien.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Veltor]], [[Veltor Keep]], and [[Merriweather's Tailor Shop]]
+[[Veltor]], [[Veltor Keep]], and Merriweather's Tailor Shop
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->
