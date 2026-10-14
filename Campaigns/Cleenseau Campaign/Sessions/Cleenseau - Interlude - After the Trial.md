@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/check/ai]
 name: "Interlude: After the Trial"
 campaign: Cleenseau
 realWorldDate: 2025-10-09
@@ -27,7 +27,7 @@ While helping tend the dead after the trial, Celyn shares wine with Marian and h
 ## Locations
 
 - [[Veltor]]: town where the court and survivors recover after the shadow attack
-- [[Temple of the Warlord in Veltor]]: temple where Celyn finds Marian and discusses her dream
+- Temple of the Warlord in Veltor: temple where Celyn finds Marian and discusses her dream
 
 ## Sources
 

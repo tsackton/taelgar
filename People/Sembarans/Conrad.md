@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -23,7 +23,7 @@ POV: 1720
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:clee%% Met by [[Viepuck]] on October 23rd, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-![[conrard-cleenseau.png|right|320]][[Anselm|Anselm's]] assistant at the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]]. A young, rather shy man, who looks up to Anselm but has become fascinated by the [[Heroes of Cleenseau]]. He is the main organizer of the [[Temple of the Warlord in Cleenseau|temple's]] charity, and knows the people of [[Beggar's Way]] relatively well. 
+![[conrard-cleenseau.png|right|320]][[Anselm|Anselm's]] assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [[Heroes of Cleenseau]]. He is the main organizer of the temple's charity, and knows the people of [[Beggar's Way]] relatively well. 
 
 %%^Campaign:clee%%
 He was one of the few people in [[Cleenseau]] who was sad to learn of [[Nicholas the Beggar|Nicholas the Beggar's]] death.

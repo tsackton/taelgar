@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-017\\cleaned\\cleenseau-017-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Narrative
@@ -28,7 +29,7 @@ The party persuades [[Thomas Dyerson]] to delay judgment against Tobias, correct
 <!-- SLOT: narrative.long -->
 At [[The Resting Ox]], the innkeeper gives the party a letter delivered for “the Tyrwinghan paladin riding a Thing, his straw-haired companion, his page, and their dwarven friend.” [[Celyn]] notices Sylvan sigils and treats the letter as a magical trap. Working together, the party identifies and neutralizes its curse before [[Celyn]] reads it. [[The Hunter]] gloats, threatens the party, and attempts to make them forget the location of his lair.
 
-The party heals [[Bolgrim Ferrystone]], who was badly injured when strange bears attacked him and his companions before the cavalry drove them off. At [[The Setting Sun]], [[Fin Merriweather]] directs [[Izgil Moonseeker|Izgil]] and [[Celyn]] to [[Callie Riverstone]], who knows where the messenger has gone. [[Robin of Abenfyrd|Robin]] and [[Viepuck]] speak with [[Emma Marston]] about the destruction of Aslain's [[Night Queen Temple (Aslain)|Night Queen temple]]. At the ruins, [[Kazak Ferrystone]] and [[Vondal Ferrystone]] help examine the cramped ritual chamber and determine that its stonework is recent, poorly built, and inconsistent with the older temple. Emma sends word to [[Veltor]] asking that the surviving Night Queen clergy not be judged before a fuller investigation.
+The party heals [[Bolgrim Ferrystone]], who was badly injured when strange bears attacked him and his companions before the cavalry drove them off. At [[The Setting Sun]], [[Fin Merriweather]] directs [[Izgil Moonseeker|Izgil]] and [[Celyn]] to [[Callie Riverstone]], who knows where the messenger has gone. [[Robin of Abenfyrd|Robin]] and [[Viepuck]] speak with [[Emma Marston]] about the destruction of Aslain's Night Queen temple. At the ruins, [[Kazak Ferrystone]] and [[Vondal Ferrystone]] help examine the cramped ritual chamber and determine that its stonework is recent, poorly built, and inconsistent with the older temple. Emma sends word to [[Veltor]] asking that the surviving Night Queen clergy not be judged before a fuller investigation.
 
 Before departing [[Aslain]], the party returns to [[Callie Riverstone]], who has hidden the confused messenger in her workshop. [[Viepuck]] and [[Izgil Moonseeker|Izgil]] determine that the Hunter's harpies charmed him and sent him to perform errands. The party rides north and stops in [[Cranford]], where [[Juliana Westby]] is preparing to judge her favored suitor, [[Tobias of Cranford]], for the murders of [[Lambert Talwrey]] and [[Piers of Houille]]. Suspecting another fey deception, the party agrees to investigate.
 

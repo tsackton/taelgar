@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-010\\cleaned\\cleenseau-010-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Session Info
@@ -115,13 +116,13 @@ Sunday, January 7, 2024
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Ruined Fort (Cleenseau)]] (<(*)pronunciation(*;)> <typeof:sn>): ruined garrison south of [[Cleenseau]] containing the wight, green gem, and old treasury.
+- Ruined Fort (Cleenseau) (<(*)pronunciation(*;)> <typeof:sn>): ruined garrison south of [[Cleenseau]] containing the wight, green gem, and old treasury.
 - [[Cleenseau Bridge]] (<(*)pronunciation(*;)> <typeof:sn>): site where the party helps the surviving guards repel zombies.
 - [[Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town defended by the party and the site of the planned council.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Ruined Fort (Cleenseau)]], [[Cleenseau Bridge]], and [[Cleenseau]]
+Ruined Fort (Cleenseau), [[Cleenseau Bridge]], and [[Cleenseau]]
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->

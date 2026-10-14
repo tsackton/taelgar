@@ -68,7 +68,7 @@ The party rides to [[Cleenseau Bridge]] and helps the remnants of the [[Lord's G
 The party searches the ruined fort's treasury and receives a letter from Rosalind.
 
 #### Long
-The party completes its search of the [[Ruined Fort (Cleenseau)|ruined fort]], recovering old treasure including the [[Warhammer of Vigilance]]. Later, it receives a [[Letter from Rosalind (January 6th)|letter from Rosalind Essford]].
+The party completes its search of the ruined fort, recovering old treasure including the [[Warhammer of Vigilance]]. Later, it receives a [[Letter from Rosalind (January 6th)|letter from Rosalind Essford]].
 
 ## Recap
 
@@ -133,7 +133,7 @@ The party searches the ruined fort's treasury and receives a letter from Rosalin
 The party recovers old treasure from the ruined fort and receives news from Rosalind by letter.
 
 #### Long
-The party completes its search of the [[Ruined Fort (Cleenseau)|ruined fort]] and finds an old treasury containing valuables and the [[Warhammer of Vigilance]]. Later, it receives a [[Letter from Rosalind (January 6th)|letter]] from [[Rosalind Essford]].
+The party completes its search of the ruined fort and finds an old treasury containing valuables and the [[Warhammer of Vigilance]]. Later, it receives a [[Letter from Rosalind (January 6th)|letter]] from [[Rosalind Essford]].
 
 ## Cast
 
@@ -148,7 +148,7 @@ The party completes its search of the [[Ruined Fort (Cleenseau)|ruined fort]] an
 
 ## Locations
 
-- [[Ruined Fort (Cleenseau)]]: ruined garrison south of Cleenseau containing the wight, green gem, and old treasury
+- Ruined Fort (Cleenseau): ruined garrison south of Cleenseau containing the wight, green gem, and old treasury
 - [[Cleenseau Bridge]]: site where the party helps the surviving guards repel zombies
 - [[Cleenseau]]: town defended by the party and the site of the planned council
 

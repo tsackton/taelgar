@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-007\\cleaned\\cleenseau-007-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Narrative
@@ -32,5 +33,5 @@ After Beatrix miscarries and the dead infant becomes a zombie, the party defeats
 
 The party investigates [[Duncan Rivers|Duncan Rivers's]] missing ale and finds a secret tunnel beneath [[The Crossroads Inn]]. [[Izgil Moonseeker|Izgil]] researches [[Archfey Ethlenn]], [[Celyn]] looks for signs of fey activity, and [[Robin of Abenfyrd|Robin]] organizes defenses in [[Taviose]] and [[Auloutte]].
 
-[[Beatrix Thorne]] seeks [[Robin of Abenfyrd|Robin]] at the [[Temple of the Warlord in Cleenseau]] and accompanies him to [[Margaret Ashford|Margaret Ashford's]] midwifery. After Beatrix miscarries, the dead infant becomes a zombie and an attack follows. The party defeats the zombies, then joins Margaret in checking pregnant residents and infants throughout [[Cleenseau]]. [[Alain LeBouillon]] is identified as an apothecary who assists with pregnancy remedies, while [[Cedric]] is found to be missing. The dead are identified as [[Emmeline Duval]], [[Seraphine Harper]], [[Henry Blackwell]], and [[Oudine]]; [[Gaston Tremaine]] escapes after the party's warning.
+[[Beatrix Thorne]] seeks [[Robin of Abenfyrd|Robin]] at the Temple of the Warlord in Cleenseau and accompanies him to [[Margaret Ashford|Margaret Ashford's]] midwifery. After Beatrix miscarries, the dead infant becomes a zombie and an attack follows. The party defeats the zombies, then joins Margaret in checking pregnant residents and infants throughout [[Cleenseau]]. [[Alain LeBouillon]] is identified as an apothecary who assists with pregnancy remedies, while [[Cedric]] is found to be missing. The dead are identified as [[Emmeline Duval]], [[Seraphine Harper]], [[Henry Blackwell]], and [[Oudine]]; [[Gaston Tremaine]] escapes after the party's warning.
 <!-- /SLOT -->

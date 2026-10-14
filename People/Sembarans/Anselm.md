@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
-tags: [person]
+tags: [person, status/check/ai]
 species: human
 ancestry: Sembaran
 campaignInfo:
@@ -25,7 +25,7 @@ POV: 1719
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[anselm-portrait.png|right|320]]The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An ambitious man and not very religious.
+![[anselm-portrait.png|right|320]]The temple administrator of the Temple of the Warlord in [[Cleenseau]]. An ambitious man and not very religious.
 
 After [[Lorin Valbert]] left [[Asineau]] in DR 1720, Anselm helped manage the manor’s affairs and prepare its garrison, but since [[Robin of Abenfyrd|Robin's]] appointment as lord of Asineau he has returned to Cleenseau.
 
