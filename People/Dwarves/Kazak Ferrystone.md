@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person, status/check/lint, status/check/ai]
 species: dwarf
 gender: male
 name: Kazak Ferrystone
@@ -32,7 +32,7 @@ Kazak Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[R
 %%^Campaign:clee%%
 While traveling to [[Aslain]] with [[Bolgrim Ferrystone]], he was badly injured by [[The Hunter|the Hunter’s]] bears. The [[Heroes of Cleenseau]] subsequently healed him.
 
-In Aslain, Kazak and [[Vondal Ferrystone]] helped investigate the ruined [[Night Queen Temple (Aslain)|Night Queen temple]]. They identified the supposed necromantic chamber as recent, poorly built stonework inconsistent with the older temple.
+In Aslain, Kazak and [[Vondal Ferrystone]] helped investigate the ruined Night Queen temple. They identified the supposed necromantic chamber as recent, poorly built stonework inconsistent with the older temple.
 %%^End%%
 
 %% Source discrepancy: [[Into Aslain (Email)]] identifies Kazak as the injured dwarf and Bolgrim as uninjured, while [[April Around Asineau]] attributes the injury and healing to Bolgrim. The DM confirmed that Kazak was the dwarf healed; this account follows that correction. Temple investigation: [[Cleenseau - Session 17]], with details preserved in its session recap. %%

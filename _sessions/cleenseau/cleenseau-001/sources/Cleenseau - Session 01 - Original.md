@@ -44,7 +44,7 @@ The party's discussion is broken up by the arrival of [[Ysabel]], who thanks the
 
 The dinner is a quiet and awkward affair as none of the Essford family attends. [[Rosalind Essford]] is in mourning for her lost children, as is her husband [[Arthur Essford]]. Her younger brother, [[Rinault Essford]] has ridden upriver seeking information about the [[Tragic Flood of the River Enst|the flood]], and her father [[Wymar Essford]] is unwell. The only bright point is when after dinner [[Robin of Abenfyrd|Robin]] plays his lute, which everyone finds quite moving. He is accompanied competently (just) by [[Celyn]] on the drums.
 
-At the dinner the party does meet a number of town notables: [[Ysabel]], the sheriff; [[Jonathon Henwyn]], the steward; [[Anselm]], the administrator of [[Temple of the Warlord in Cleenseau|the Warlod's Temple]]; [[Eremon]], an acolyte of [[The Night Queen]] and confident of the Essford family; [[Conrad]], [[Anselm|Anselm's]] assistant, and [[Sarabeth]], a senior guardswoman and veteran of the [[Army of the West]]. 
+At the dinner the party does meet a number of town notables: [[Ysabel]], the sheriff; [[Jonathon Henwyn]], the steward; [[Anselm]], the administrator of the Warlod's Temple; [[Eremon]], an acolyte of [[The Night Queen]] and confident of the Essford family; [[Conrad]], [[Anselm|Anselm's]] assistant, and [[Sarabeth]], a senior guardswoman and veteran of the [[Army of the West]]. 
 
 The party is awoken in the pre-dawn with news of the [[Cleenseau Spider Attacks]] and the session ends as the investigation completes and the party debates what to do next.
 

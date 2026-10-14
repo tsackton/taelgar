@@ -17,7 +17,7 @@
 [u0017] Her younger brother, [[Rinault Essford]] has ridden upriver seeking information about the [[Tragic Flood of the River Enst|the flood]], and her father [[Wymar Essford]] is unwell.
 [u0018] The only bright point is when after dinner [[Robin of Abenfyrd|Robin]] plays his lute, which everyone finds quite moving.
 [u0019] He is accompanied competently (just) by [[Celyn]] on the drums.
-[u0020] At the dinner the party does meet a number of town notables: [[Ysabel]], the sheriff; [[Jonathon Henwyn]], the steward; [[Anselm]], the administrator of [[Temple of the Warlord in Cleenseau|the Warlod's Temple]]; [[Eremon]], an acolyte of [[The Night Queen]] and confident of the Essford family; [[Conrad]], [[Anselm|Anselm's]] assistant, and [[Sarabeth]], a senior guardswoman and veteran of the [[Army of the West]].
+[u0020] At the dinner the party does meet a number of town notables: [[Ysabel]], the sheriff; [[Jonathon Henwyn]], the steward; [[Anselm]], the administrator of the Warlod's Temple; [[Eremon]], an acolyte of [[The Night Queen]] and confident of the Essford family; [[Conrad]], [[Anselm|Anselm's]] assistant, and [[Sarabeth]], a senior guardswoman and veteran of the [[Army of the West]].
 [u0021] The party is awoken in the pre-dawn with news of the [[Cleenseau Spider Attacks]] and the session ends as the investigation completes and the party debates what to do next.
 [u0022] > [!INFO]- Izgil's Conversation with Brot (Matt Only) >Izgil and Brot mostly discuss telescopes but Brot does take Izgil aside at one point and whisper that he should ask Najeer about the egg.
 [u0023] What that means isn't very clear, but Brot does warn Izgil that Najeer might not want to discuss it.

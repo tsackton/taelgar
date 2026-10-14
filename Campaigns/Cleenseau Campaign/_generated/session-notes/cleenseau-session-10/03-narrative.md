@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-010\\cleaned\\cleenseau-010-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Narrative
@@ -26,5 +27,5 @@ Beyond the portal, the party fights decayed animated armor and an unnamed hobgob
 
 The party rides to [[Cleenseau Bridge]] and helps the remnants of the [[Lord's Guard of Cleenseau]] defeat a dozen zombies. At dawn, [[Erick Murtha]], [[Warin the Woodsman]], and [[Beatrix Thorne]] meet the party with reports of undead attacks elsewhere in the region. The group begins planning a regional defense council.
 
-The party completes its search of the [[Ruined Fort (Cleenseau)|ruined fort]] and finds an old treasury containing valuables and the [[Warhammer of Vigilance]]. Later, it receives a [[Letter from Rosalind (January 6th)|letter]] from [[Rosalind Essford]].
+The party completes its search of the ruined fort and finds an old treasury containing valuables and the [[Warhammer of Vigilance]]. Later, it receives a [[Letter from Rosalind (January 6th)|letter]] from [[Rosalind Essford]].
 <!-- /SLOT -->

@@ -32,7 +32,7 @@
 The party defuses the Hunter's cursed letter and investigates the messenger and the destroyed Night Queen temple in [[Aslain]].
 
 #### Long
-At [[The Resting Ox]], the party safely examines the Sylvan letter delivered for them and confirms that [[The Hunter]] embedded a curse intended to make them forget the location of his lair. They heal [[Bolgrim Ferrystone]], who was injured when strange bears attacked the Ferrystones, and investigate the confused messenger who delivered the letter. [[Fin Merriweather]] directs them to [[Callie Riverstone]], who is sheltering the still-charmed messenger. Meanwhile, [[Emma Marston]] shows them evidence recovered from the burned [[Night Queen Temple (Aslain)|Night Queen temple]]. With help from [[Kazak Ferrystone]] and [[Vondal Ferrystone]], the party concludes that the supposed necromantic chamber was a recent and structurally implausible addition rather than part of the original temple.
+At [[The Resting Ox]], the party safely examines the Sylvan letter delivered for them and confirms that [[The Hunter]] embedded a curse intended to make them forget the location of his lair. They heal [[Bolgrim Ferrystone]], who was injured when strange bears attacked the Ferrystones, and investigate the confused messenger who delivered the letter. [[Fin Merriweather]] directs them to [[Callie Riverstone]], who is sheltering the still-charmed messenger. Meanwhile, [[Emma Marston]] shows them evidence recovered from the burned Night Queen temple. With help from [[Kazak Ferrystone]] and [[Vondal Ferrystone]], the party concludes that the supposed necromantic chamber was a recent and structurally implausible addition rather than part of the original temple.
 
 ### 1720-02-18
 
@@ -112,7 +112,7 @@ The party investigates an injured dwarf, the missing messenger, and the burned N
 The party connects the messenger to the Hunter and finds evidence that the necromantic chamber beneath Aslain's burned Night Queen temple was recently constructed.
 
 #### Long
-The party heals [[Bolgrim Ferrystone]], who was badly injured when strange bears attacked him and his companions before the cavalry drove them off. At [[The Setting Sun]], [[Fin Merriweather]] directs Izgil and Celyn to [[Callie Riverstone]], who knows where the messenger has gone. Robin and Viepuck speak with [[Emma Marston]] about the destruction of Aslain's [[Night Queen Temple (Aslain)|Night Queen temple]]. At the ruins, [[Kazak Ferrystone]] and [[Vondal Ferrystone]] help examine the cramped ritual chamber and determine that its stonework is recent, poorly built, and inconsistent with the older temple. Emma sends word to Veltor asking that the surviving Night Queen clergy not be judged before a fuller investigation.
+The party heals [[Bolgrim Ferrystone]], who was badly injured when strange bears attacked him and his companions before the cavalry drove them off. At [[The Setting Sun]], [[Fin Merriweather]] directs Izgil and Celyn to [[Callie Riverstone]], who knows where the messenger has gone. Robin and Viepuck speak with [[Emma Marston]] about the destruction of Aslain's Night Queen temple. At the ruins, [[Kazak Ferrystone]] and [[Vondal Ferrystone]] help examine the cramped ritual chamber and determine that its stonework is recent, poorly built, and inconsistent with the older temple. Emma sends word to Veltor asking that the surviving Night Queen clergy not be judged before a fuller investigation.
 
 ### recap-003 | The Road to Cranford
 
@@ -168,7 +168,7 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 - [[Fin Merriweather]] (met): halfling bard who directs the party to Callie
 - [[Callie Riverstone]] (met): Aslain leatherworker sheltering the confused messenger
 - the messenger (met): unnamed man charmed by the Hunter's harpies and sent to deliver the cursed letter
-- [[Emma Marston]] (met): Aslain magistrate investigating the destruction of the [[Night Queen Temple (Aslain)|Night Queen temple]]
+- [[Emma Marston]] (met): Aslain magistrate investigating the destruction of the Night Queen temple
 - [[Juliana Westby]] (met): young lady of Cranford whose two suitors were murdered
 - [[Tobias of Cranford]] (met): surviving suitor accused of both murders
 - [[Lambert Talwrey]] (heard of): one of Juliana's murdered suitors
@@ -179,10 +179,10 @@ When [[Thomas Dyerson]] arrives from [[Veltor]], the party argues that the testi
 
 ## Locations
 
-- [[Aslain]]: town where the party investigates the Hunter's schemes and the destruction of the [[Night Queen Temple (Aslain)|Night Queen temple]]
+- [[Aslain]]: town where the party investigates the Hunter's schemes and the destruction of the Night Queen temple
 - [[The Resting Ox]]: inn where the party receives and safely examines the Hunter's letter
 - [[The Setting Sun]]: inn where the party consults Fin Merriweather
-- [[Night Queen Temple (Aslain)|The ruined Night Queen temple]]: old Aslain temple containing the recently constructed ritual chamber
+- The ruined Night Queen temple: old Aslain temple containing the recently constructed ritual chamber
 - [[Cranford]]: village where the party investigates the murders of Juliana's suitors
 
 ## Organizations And Items

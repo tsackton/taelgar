@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-017\\cleaned\\cleenseau-017-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Session Info
@@ -123,7 +124,7 @@ https://kiya.dreamwidth.org/788697.html
 - [[Fin Merriweather]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): halfling bard who directs the party to Callie.
 - [[Callie Riverstone]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Aslain]] leatherworker sheltering the confused messenger.
 - the messenger: unnamed man charmed by the Hunter's harpies and sent to deliver the cursed letter.
-- [[Emma Marston]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Aslain]] magistrate investigating the destruction of the [[Night Queen Temple (Aslain)|Night Queen temple]].
+- [[Emma Marston]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): [[Aslain]] magistrate investigating the destruction of the Night Queen temple.
 - [[Juliana Westby]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): young lady of [[Cranford]] whose two suitors were murdered.
 - [[Tobias of Cranford]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): surviving suitor accused of both murders.
 - [[Lambert Talwrey]] (<(*)pronunciation(*;)> <pronouns(,)> <ancestry:n> <subspecies:sn> <species:sn>): one of Juliana's murdered suitors.
@@ -134,15 +135,15 @@ https://kiya.dreamwidth.org/788697.html
 <!-- /SLOT -->
 
 <!-- SLOT: locations -->
-- [[Aslain]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town where the party investigates the Hunter's schemes and the destruction of the [[Night Queen Temple (Aslain)|Night Queen temple]].
+- [[Aslain]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): town where the party investigates the Hunter's schemes and the destruction of the Night Queen temple.
 - [[The Resting Ox]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): inn where the party receives and safely examines the Hunter's letter.
 - [[The Setting Sun]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): inn where the party consults [[Fin Merriweather]].
-- [[Night Queen Temple (Aslain)|The ruined Night Queen temple]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): old [[Aslain]] temple containing the recently constructed ritual chamber.
+- The ruined Night Queen temple (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): old [[Aslain]] temple containing the recently constructed ritual chamber.
 - [[Cranford]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): village where the party investigates the murders of Juliana's suitors.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Aslain]], [[The Resting Ox]], [[The Setting Sun]], [[Night Queen Temple (Aslain)|The ruined Night Queen temple]], and [[Cranford]]
+[[Aslain]], [[The Resting Ox]], [[The Setting Sun]], The ruined Night Queen temple, and [[Cranford]]
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->

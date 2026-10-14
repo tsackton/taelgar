@@ -1,6 +1,7 @@
 ---
 excludePublish: ["all"]
 sessionManifest: "C:\\Users\\msack\\taelgar\\_sessions\\cleenseau\\cleenseau-007\\cleaned\\cleenseau-007-session.yaml"
+tags: [status/check/ai]
 ---
 
 # Session Info
@@ -130,14 +131,14 @@ Sunday, October 22, 2023
 <!-- SLOT: locations -->
 - [[Duskmire]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the gloomy fey realm reflected in the shared nightmares.
 - [[Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the party's base and the site of the zombie outbreak.
-- [[Temple of the Warlord in Cleenseau]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): where Beatrix seeks [[Robin of Abenfyrd|Robin]] before the outbreak.
+- Temple of the Warlord in Cleenseau (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): where Beatrix seeks [[Robin of Abenfyrd|Robin]] before the outbreak.
 - [[The Crossroads Inn]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): the inn beneath which the party finds a secret tunnel.
 - [[Taviose]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): a nearby hamlet whose defenses [[Robin of Abenfyrd|Robin]] organizes.
 - [[Auloutte]] (<(*)pronunciation(*;)> <typeof:sn> <home:2Fq>): a nearby hamlet whose defenses [[Robin of Abenfyrd|Robin]] organizes.
 <!-- /SLOT -->
 
 <!-- SLOT: locations.inline -->
-[[Duskmire]], [[Cleenseau]], [[Temple of the Warlord in Cleenseau]], [[The Crossroads Inn]], [[Taviose]], and [[Auloutte]]
+[[Duskmire]], [[Cleenseau]], Temple of the Warlord in Cleenseau, [[The Crossroads Inn]], [[Taviose]], and [[Auloutte]]
 <!-- /SLOT -->
 
 <!-- SLOT: groups -->

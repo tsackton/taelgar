@@ -86,7 +86,7 @@ The party investigates [[Duncan Rivers|Duncan Rivers's]] missing ale and finds a
 A miscarriage leads to a zombie attack, after which the party checks the town's infants and pregnant residents and identifies the dead and missing.
 
 #### Long
-After [[Beatrix Thorne]] seeks Robin at the [[Temple of the Warlord in Cleenseau]], the party goes to [[Margaret Ashford|Margaret Ashford's]] midwifery. Beatrix miscarries, and the dead infant becomes a zombie whose attack kills several townspeople. The party and Margaret then check infants and pregnant residents across [[Cleenseau]], identify the dead, and discover that [[Cedric]] is missing.
+After [[Beatrix Thorne]] seeks Robin at the Temple of the Warlord in Cleenseau, the party goes to [[Margaret Ashford|Margaret Ashford's]] midwifery. Beatrix miscarries, and the dead infant becomes a zombie whose attack kills several townspeople. The party and Margaret then check infants and pregnant residents across [[Cleenseau]], identify the dead, and discover that [[Cedric]] is missing.
 
 ## Recap
 
@@ -174,7 +174,7 @@ The party defeats newly risen zombies and investigates the outbreak's effects on
 After Beatrix miscarries and the dead infant becomes a zombie, the party defeats the attackers, checks vulnerable residents, and identifies the dead and missing.
 
 #### Long
-[[Beatrix Thorne]] seeks Robin at the [[Temple of the Warlord in Cleenseau]] and accompanies him to [[Margaret Ashford|Margaret Ashford's]] midwifery. After Beatrix miscarries, the dead infant becomes a zombie and an attack follows. The party defeats the zombies, then joins Margaret in checking pregnant residents and infants throughout [[Cleenseau]]. [[Alain LeBouillon]] is identified as an apothecary who assists with pregnancy remedies, while [[Cedric]] is found to be missing. The dead are identified as [[Emmeline Duval]], [[Seraphine Harper]], [[Henry Blackwell]], and [[Oudine]]; [[Gaston Tremaine]] escapes after the party's warning.
+[[Beatrix Thorne]] seeks Robin at the Temple of the Warlord in Cleenseau and accompanies him to [[Margaret Ashford|Margaret Ashford's]] midwifery. After Beatrix miscarries, the dead infant becomes a zombie and an attack follows. The party defeats the zombies, then joins Margaret in checking pregnant residents and infants throughout [[Cleenseau]]. [[Alain LeBouillon]] is identified as an apothecary who assists with pregnancy remedies, while [[Cedric]] is found to be missing. The dead are identified as [[Emmeline Duval]], [[Seraphine Harper]], [[Henry Blackwell]], and [[Oudine]]; [[Gaston Tremaine]] escapes after the party's warning.
 
 ## Cast
 
@@ -200,7 +200,7 @@ After Beatrix miscarries and the dead infant becomes a zombie, the party defeats
 
 - [[Duskmire]]: the gloomy fey realm reflected in the shared nightmares
 - [[Cleenseau]]: the party's base and the site of the zombie outbreak
-- [[Temple of the Warlord in Cleenseau]]: where Beatrix seeks Robin before the outbreak
+- Temple of the Warlord in Cleenseau: where Beatrix seeks Robin before the outbreak
 - [[The Crossroads Inn]]: the inn beneath which the party finds a secret tunnel
 - [[Taviose]]: a nearby hamlet whose defenses Robin organizes
 - [[Auloutte]]: a nearby hamlet whose defenses Robin organizes
