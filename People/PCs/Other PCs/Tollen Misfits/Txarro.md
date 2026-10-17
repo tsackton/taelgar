@@ -13,6 +13,8 @@ whereabouts:
   - {type: home, location: Greywash}
   - {type: home, location: Tollen}
   - {type: away, start: 1740-10-05, location: Twilight Kingdom}
+affiliations: 
+- {org: Tollen Misfits}
 knownTo: [feywild]
 dm_owner: player
 dm_notes: none
@@ -23,6 +25,7 @@ POV: 1740
 >[!info]+ Biographical Info  
 > A [[Lizardfolk|lizardfolk]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[txarro.png|right|350]]Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and as a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence.

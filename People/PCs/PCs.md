@@ -27,6 +27,11 @@ Other adventurers include:
 - The [[Labyrinth Prisoners|prisoners of Grimstone]], who [[Labyrinths of the Lost|escaped]] from an abandoned manor in [[Western Cymea]].
 - [[Izar]], [[Roe DoTorka]], and [[Soarine]], who investigated a murder in [[Ausson's Crossing]] in DR 1688.
 
+
+```dataview
+LIST from 
+```
+
 %%^Campaign:none%%
 
 Old text for reference

@@ -1,0 +1,48 @@
+{
+  "inferredStart": "1748-04-15",
+  "inferredEnd": "1748-04-15",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: twilight after the short rest",
+      "date": "1748-04-15",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors April 15; u0002–u0004 explicitly describe twilight after the completed short rest, reinforced by u0040. No rest occurs during this opening discussion."
+    },
+    {
+      "uid": "u1159",
+      "label": "Roughly an hour later: the stars are clearer",
+      "date": "1748-04-15",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1159 explicitly estimates an hour spent climbing, meditating, and applying oil. u1164–u1173 describe a clearer but subtly unfamiliar night sky; no overnight passage is narrated."
+    },
+    {
+      "uid": "u1458",
+      "label": "Apparent daylight on the mountain",
+      "date": "1748-04-15",
+      "time": "apparent daytime; underlying night inferred",
+      "basis": "explicit",
+      "evidence": "u1454–u1458 describe mist, dreamlike perception, and sunshine; u1488–u1489 explicitly contrast daytime here with night at the tower. u1978–u1982 and u2153–u2154 later reveal the overlay rather than a passed night; the same session date is retained."
+    },
+    {
+      "uid": "u1788",
+      "label": "Hralgar claims the year is 5031",
+      "date": "1748-04-15",
+      "time": "historical year claim, not a party date transition",
+      "basis": "explicit",
+      "evidence": "u1788–u1796 give 5031 and the party’s interpretation of dwarven reckoning. The party states its own present year as 5881 dwarven / 1748 Drankorian at u2095–u2113. Hralgar’s confusion and the vanishing mountain do not establish physical time travel."
+    },
+    {
+      "uid": "u2154",
+      "label": "The mountain vanishes; the ruined tower is visible again",
+      "date": "1748-04-15",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u2136–u2154 show the chains appearing and the mountain vanishing within the continuous conversation. u2159–u2160 describe the roof open to the sky. No sleep, next day, or actual calendar advance occurs before play stops at u2333–u2337."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

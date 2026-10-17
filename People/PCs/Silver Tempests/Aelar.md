@@ -15,6 +15,7 @@ whereabouts:
   - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
   - {type: home, start: 1747-10-06, end: 1748-05-01, location: Tempest Towers}
 knownTo: [grli]
+player: Owen Bantham-Livermore
 dm_owner: tim
 dm_notes: none
 POV: 1748

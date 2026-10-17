@@ -1,0 +1,88 @@
+{
+  "inferredStart": "1748-04-13",
+  "inferredEnd": "1748-04-15",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-04-13",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Session YAML supplies April 13; u0002–u0010 explicitly describe sunset and preparations for dinner."
+    },
+    {
+      "uid": "u0864",
+      "label": "Rest before an early departure",
+      "date": "1748-04-13",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u0836 says it is getting late; u0864 proposes resting and u0867 allows long-rest recovery. The actual next morning at u0943 confirms the overnight transition; logistics in between do not add another day."
+    },
+    {
+      "uid": "u0943",
+      "label": "First travel morning",
+      "date": "1748-04-14",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u0943: gather together in the morning; u0944–u0957 introduce the axebeak, mount Vola, and depart. Date inferred as the next day from the YAML anchor."
+    },
+    {
+      "uid": "u1012",
+      "label": "First travel day: midday",
+      "date": "1748-04-14",
+      "time": "midday",
+      "basis": "explicit",
+      "evidence": "u1012 explicitly advances to around midday before compressing the rest of the day into evening."
+    },
+    {
+      "uid": "u1013",
+      "label": "Camp in the burned landscape",
+      "date": "1748-04-14",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "The latter part of u1012 says evening progresses; u1013 and u1030–u1031 place camp that night. The interrupted next-day lead-in at u1033 is followed by the scouting report and resumes at u1058; it does not add a separate day."
+    },
+    {
+      "uid": "u1058",
+      "label": "Second travel morning",
+      "date": "1748-04-15",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1058 explicitly says the next morning; u1061 describes cool morning fog, and u1076–u1083 describe breakfast. A delayed private message at u1075 does not supply an additional date change."
+    },
+    {
+      "uid": "u1112",
+      "label": "Arrival at the storm outskirts",
+      "date": "1748-04-15",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1112 calls this late afternoon; u1162 and u1250 refine it to about two or three in the afternoon. Entry is declared at u1339–u1349 after preparations."
+    },
+    {
+      "uid": "u1738",
+      "label": "Arrival in the calm eye",
+      "date": "1748-04-15",
+      "time": "late afternoon / early evening",
+      "basis": "explicit",
+      "evidence": "u1652–u1653 estimate roughly 1½–2 hours in the storm; u1738 describes evening sunlight, then late-afternoon sun. Exact clock time remains approximate."
+    },
+    {
+      "uid": "u2044",
+      "label": "Tower scouting has taken 20–30 minutes",
+      "date": "1748-04-15",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u2044 estimates the elapsed time of Delwath's scouting; it does not establish a new date or an exact clock time."
+    },
+    {
+      "uid": "u2433",
+      "label": "Short rest at sunset",
+      "date": "1748-04-15",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2391 requests a short rest. u2432–u2433 and u2446–u2453 describe resting, meditation, sunset, and emerging stars. The reference to 12:30 at u2432 is the real-world stopping time, not in-world time."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

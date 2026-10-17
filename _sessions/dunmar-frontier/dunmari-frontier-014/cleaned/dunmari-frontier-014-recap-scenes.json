@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Dinner and an Uneasy Alliance",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "The uninterrupted camp conversation moves from reviewing Raven's Hold to choosing a route and negotiating cooperation with Vola.",
+      "overview": "The party debates the storm, questions Vola, and agrees to travel west together.",
+      "transitionToNext": "An overnight rest gives way to departure across the plains."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Journey to the Storm",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "Both travel days and the preparations at the storm's edge serve the same immediate goal: reach the storm and decide how to enter. The calendar change remains explicit in chronology.",
+      "overview": "Travel through scorched plains; a vulture scouts the eye, and Vola stays outside as the party prepares to enter.",
+      "transitionToNext": "The party enters the storm and encounters its active hazards."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Runes and the Wall of Wind",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "The magical compulsion and wind-wall rescue are successive obstacles in one continuous effort to reach the eye.",
+      "overview": "Runes compel Delwath to attack Seeker; fierce winds scatter the party before Wellby rescues Kenzo and Riswynn.",
+      "transitionToNext": "Reunited in the calm eye, the party can investigate the tower and its surroundings."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "A Grave Beneath the Tower",
+      "beatIds": [
+        "beat-009"
+      ],
+      "rationale": "The party remains together, surveying the sheltered camp, grave, tower, and magical node before choosing a scout.",
+      "overview": "They discover a Sibyl-marked grave, signs of earlier travelers, and unusual materials around the ley-line node.",
+      "transitionToNext": "Delwath turns invisible and leaves the group to explore inside."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Delwath and the Living Lightning",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "The reconnaissance, hostile encounter, escape, and immediate report form one continuous scouting attempt.",
+      "overview": "Delwath explores the ruined tower, escapes a lightning creature, and reports a voice's answer about Agata.",
+      "transitionToNext": "Back in shelter, the group shifts from reconnaissance to interpreting the discoveries and recovering."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Master Runes and Missing Stars",
+      "beatIds": [
+        "beat-012"
+      ],
+      "rationale": "The group's discussion and short rest continue in the sheltered camp through the closing sky reveal.",
+      "overview": "They connect the strange writing with master runes, rest, and discover that the Fox and Hunter are missing.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

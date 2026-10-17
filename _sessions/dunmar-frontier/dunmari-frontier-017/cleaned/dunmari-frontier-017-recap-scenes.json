@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Stories of Childhood",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The personal histories form a distinct opening conversation before attention turns to the party’s current problems.",
+      "overview": "Share memories of family, childhood, and home.",
+      "transitionToNext": "The conversation turns to the party’s unresolved mysteries."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Mysteries and Recovered Magic",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "Comparing the journal and tower clues leads into experiments with the recovered objects, all within the same morning investigation.",
+      "overview": "Compare clues about Hralgar and Agata, then test the mirror and goggles.",
+      "transitionToNext": "The party leaves camp and encounters gnolls."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "South Across the Plains",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "The gnoll encounter and its aftermath lead into the brief continuation of the same southward journey, ending at the roadside camp near Karawa.",
+      "overview": "Defeat the gnolls, recover, and travel south while mapping ley lines.",
+      "transitionToNext": "At the roadside camp, the party returns to its magical investigation."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Ivory Scroll’s Past",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "The mirror vision and its interpretation form one continuous investigation of the scroll and planar corruption; the table break does not create an in-world scene.",
+      "overview": "Identify the mirror, witness the scroll’s creation, and discuss planar magic and corruption.",
+      "transitionToNext": "The next morning brings the final approach to Karawa."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Karawa After the Siege",
+      "beatIds": [
+        "beat-008"
+      ],
+      "rationale": "Arrival, the ruined town, and Candrosa’s siege account form one focused homecoming before Alesh’s southern intelligence.",
+      "overview": "Survey the damage, greet Havdar, and hear how the centaurs relieved the temple.",
+      "transitionToNext": "Alesh begins reporting on her southern scouting journey."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "News from the Southern Frontier",
+      "beatIds": [
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "Alesh’s linked scouting reports and the questions they prompt about Shakun’s defenses and Agata form one sustained investigation.",
+      "overview": "Trace gnoll movements and fading defenses; hear about the raven, empty house, orc scouts, and Old Woman of the Dusts.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

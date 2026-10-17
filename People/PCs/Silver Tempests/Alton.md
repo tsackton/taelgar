@@ -13,6 +13,7 @@ whereabouts:
   - {type: home, end: 1747-01-01, location: Chardon}
   - {type: home, start: 1747-04-08, location: Voltara}
 knownTo: [grli]
+player: Bryn
 dm_owner: tim
 dm_notes: none
 POV: 1748

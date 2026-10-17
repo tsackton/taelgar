@@ -1,0 +1,80 @@
+{
+  "inferredStart": "1748-04-16",
+  "inferredEnd": "1748-04-24",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: breakfast outside the storm",
+      "date": "1748-04-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "Session YAML drStart, the morning breakfast in u0003-u0014, and u1189 naming the next morning April 17 establish April 16; u0624 says about 10 a.m."
+    },
+    {
+      "uid": "u0763",
+      "label": "Departure south",
+      "date": "1748-04-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u0756 confirms they have not departed; u0763 starts the journey after the morning camp conversation."
+    },
+    {
+      "uid": "u0770",
+      "label": "Afternoon travel and gnoll encounter",
+      "date": "1748-04-16",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u0770: after lunchtime, pressing into the afternoon; the dust cloud and gnolls are seen immediately afterward."
+    },
+    {
+      "uid": "u1121",
+      "label": "Mid-afternoon camp decision",
+      "date": "1748-04-16",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1121 calls the time mid-afternoon; u1125 moves camp away from the bodies."
+    },
+    {
+      "uid": "u1177",
+      "label": "Camp and sleep through the night",
+      "date": "1748-04-16",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1177-u1179 move from setting up camp to sleeping for the night; the next morning is explicitly April 17 at u1189."
+    },
+    {
+      "uid": "u1189",
+      "label": "April 17 morning; travel resumes",
+      "date": "1748-04-17",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1189 explicitly states the morning of April 17; u1201-u1206 introduce roughly six days of travel and further rest."
+    },
+    {
+      "uid": "u1218",
+      "label": "April 23 roadside camp after travel",
+      "date": "1748-04-23",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1217-u1218 explicitly advance six days to April 23; u1215 and u1247 place the discussion on the night before returning to Karawa. Intermediate travel days are covered by the montage, with no individually narrated events."
+    },
+    {
+      "uid": "u1775",
+      "label": "Next morning; final walk to Karawa",
+      "date": "1748-04-24",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1775 says the next morning dawns; u1778 gives 10–15 miles remaining, and u1844 explicitly confirms April 24."
+    },
+    {
+      "uid": "u1789",
+      "label": "Arrival at Karawa; time not specified",
+      "date": "1748-04-24",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1778-u1789 narrate the remaining walk and arrival above the town; u1844 confirms April 24, but an exact arrival time is not given. The temple conversations continue on this day through session end."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

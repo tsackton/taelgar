@@ -10,7 +10,10 @@ whereabouts:
   - {type: home, location: Tollen}
   - {type: away, start: 1740-10-04, end: 1740-10-12, location: Dandelion House}
   - {type: home, location: Varrow Forest}
+affiliations: 
+- {org: Tollen Misfits, title: Companion}
 knownTo: [feywild]
+player: Mike Sackton
 dm_owner: none
 dm_notes: none
 POV: modern

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Stories of Childhood",
+      "startUid": "u0001",
+      "endUid": "u0228",
+      "lineCount": 228,
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening camp conversation; shifts to reviewing current mysteries at u0229.",
+      "dateEvidence": [
+        "session.yaml drStart anchors this morning to April 16.",
+        "u0003-u0014: breakfast after the overnight escape; u0624 confirms it is about 10 a.m."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Unraveling the Recent Mysteries",
+      "startUid": "u0229",
+      "endUid": "u0548",
+      "lineCount": 320,
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party reviews its journal, the tower letters, and possible connections before turning to the mirror.",
+      "dateEvidence": [
+        "Same uninterrupted breakfast conversation as beat-001.",
+        "u0624: about 10 a.m., after being up all night."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Testing the Mirror and Goggles",
+      "startUid": "u0549",
+      "endUid": "u0762",
+      "lineCount": 214,
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The party experiments with recovered objects before actually departing at u0763.",
+      "dateEvidence": [
+        "u0624: about 10 a.m.",
+        "u0756: they have not left yet; fatigue still applies."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Gnolls on the Plains",
+      "startUid": "u0763",
+      "endUid": "u1188",
+      "lineCount": 426,
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Departure, encounter, complete combat, inspection, and overnight camp form one continuous event; split before the explicitly dated next morning.",
+      "dateEvidence": [
+        "u0763: departure south; u0770: after lunch, pressing into afternoon.",
+        "u1121: mid-afternoon; u1177-u1179: camp and sleep for the night.",
+        "u1189 identifies the following morning as April 17."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Six Days South",
+      "startUid": "u1189",
+      "endUid": "u1246",
+      "lineCount": 58,
+      "dateStart": "1748-04-17",
+      "dateEnd": "1748-04-23",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "A short but distinct multi-day travel montage joins two explicit calendar anchors; retain separately from the prolonged camp investigation.",
+      "dateEvidence": [
+        "u1189: morning of April 17.",
+        "u1201-u1218: roughly six days pass, ending explicitly on April 23.",
+        "u1215 and u1247: camp on the night before returning to Karawa."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Ivory Scroll’s Past",
+      "startUid": "u1247",
+      "endUid": "u1530",
+      "lineCount": 284,
+      "dateStart": "1748-04-23",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "At the roadside camp, the party identifies the mirror and uses it on the ivory scroll cap; next beat interprets the planar magic.",
+      "dateEvidence": [
+        "u1218 explicitly sets April 23.",
+        "u1247: camp the night before returning; continuous object examination."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Magic Across the Planes",
+      "startUid": "u1531",
+      "endUid": "u1774",
+      "lineCount": 244,
+      "dateStart": "1748-04-23",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The mirror vision prompts a sustained discussion of planar magic and demonic corruption, followed by the table break; next morning begins at u1775.",
+      "dateEvidence": [
+        "Continuation of the April 23 camp discussion.",
+        "u1775 begins the next morning."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Karawa After the Siege",
+      "startUid": "u1775",
+      "endUid": "u2027",
+      "lineCount": 253,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The next day’s approach, patrol greeting, and temple reunion culminate in Candrosa’s account; Alesh takes over with her southern report at u2028.",
+      "dateEvidence": [
+        "u1775: next morning after the April 23 camp.",
+        "u1844: current date explicitly April 24.",
+        "The party walks the remaining 10–15 miles to town; exact arrival time is not explicitly stated."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Southern Scouts and Fading Defenses",
+      "startUid": "u2028",
+      "endUid": "u2237",
+      "lineCount": 210,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Alesh reports her route and the party maps gnoll movements, then questions Candrosa about Shakun’s defenses; a new report begins at u2238.",
+      "dateEvidence": [
+        "Same temple conversation following the April 24 arrival.",
+        "Earlier days described by Alesh and Candrosa are retrospective reports, not current-day advances."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "The Old Woman of the Dusts",
+      "startUid": "u2238",
+      "endUid": "u2393",
+      "lineCount": 156,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Alesh finishes with the empty house and orc scouts; Kenzo’s question elicits Candrosa’s story of the Old Woman of the Dusts before session end.",
+      "dateEvidence": [
+        "Same uninterrupted April 24 temple conversation.",
+        "u2388-u2393 end the session without further in-world time passing."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,424 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Resting after their escape, the companions share memories of childhood, family, and home.",
+      "longSummary": "Seeker recalls his younger brother Frankar, a gifted rune-worker who secretly built a divination machine that killed white salamanders in different ways; after a violent storm, the machine lay shattered and Frankar had vanished, leaving one burned salamander. Delwath remembers baking rare sisila-fruit cakes for his elders as darkness spread beyond his homeland, and fears finding his home destroyed or transformed. Kenzo describes poverty and magical pollution in Chardon, his childhood visions, and his uneasy pull toward the city. Wellby remembers traveling the Green Sea with his family and a great-great-grandfather who taught that all places and times were one; for Wellby, the road remains home.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari plains",
+        "context": "Breakfast camp south of Stormcaller Tower, outside the storm"
+      },
+      "npcs": [
+        {
+          "name": "Frankar",
+          "role": "mentioned",
+          "notes": "Seeker’s younger brother; his fate remains unknown, roughly thirty years after his disappearance."
+        },
+        {
+          "name": "Wellby’s great-great-grandfather",
+          "role": "mentioned",
+          "notes": "Unnamed storyteller remembered from Wellby’s childhood."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party compares its unresolved mysteries and suspects connections among recent magical disturbances without settling on a cause.",
+      "longSummary": "Seeker reviews his journal: the storm comes from Hralgar, the tainted water was associated with a summoned demon, and Vola described Agata Dustmother as an unnaturally old human woman. The group questions whether Agata’s search for magical objects is connected to the demon summoners and how much to trust the storm’s answer that she seeks vengeance. They revisit the tower letters and the Occulta Ludum, learning that the Great Library preserves knowledge brought west after Drankor’s fall, but exhausted attempts to recall or translate more fail. Delwath describes escaping his imprisonment by something like cutting through it with shadow. The party wonders whether his return, Hralgar’s awakening, the missing eyes, and Chardonian treasure-seekers are connected, while agreeing to return to Alesh in Karawa.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari plains",
+        "context": "Breakfast camp south of Stormcaller Tower, outside the storm"
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "mentioned",
+          "notes": "His awakening, captivity, missing eyes, and reliability are discussed."
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "Called Agata Dustmother; her motives and links to the summoners remain conjectural."
+        },
+        {
+          "name": "Vola",
+          "role": "mentioned",
+          "notes": "Source of the description of Agata."
+        },
+        {
+          "name": "Eudomes",
+          "role": "mentioned",
+          "notes": "Named in the tower letters."
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned",
+          "notes": "Awaiting their report in Karawa."
+        }
+      ],
+      "items": [
+        {
+          "name": "Stormcaller Tower letters",
+          "role": "encountered",
+          "notes": "Discussed for clues about Eudomes, Hralgar, and the Occulta Ludum."
+        },
+        {
+          "name": "Hralgar’s Eyes",
+          "role": "mentioned",
+          "notes": "Missing; the party worries about their possible use."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Occulta Ludum",
+          "role": "mentioned",
+          "notes": "Its name and connection to the letters remain unclear to the party."
+        },
+        {
+          "name": "Great Library",
+          "role": "mentioned",
+          "notes": "Discussed as preserving Drankorian knowledge and seeking magical objects."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The mirror slowly recharges while the purple-lensed goggles reveal unusually fine details of nearby objects.",
+      "longSummary": "Delwath examines the mirror’s magic and finds it slowly absorbing energy away from a strong magical source; the party cannot yet tell whether its earlier vision showed only things the mirror had witnessed. They plan to walk south with their three heavily laden packhorses before making an early camp. Seeker checks the local ley lines, then tries the purple goggles: distant landscapes blur, but boots, the silver mirror, and a carved horn become sharply detailed. The mirror’s damaged wooden nameplate preserves an E and a U, suggesting Eudomes. The goggles reveal the horn’s wear and craftsmanship and confer an advantage on Arcana checks, though their full power remains undiscovered. The DM confirms the party has still not departed or recovered from exhaustion.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Dunmari plains",
+        "context": "Breakfast camp south of Stormcaller Tower, outside the storm"
+      },
+      "npcs": [
+        {
+          "name": "Eudomes",
+          "role": "mentioned",
+          "notes": "Suggested by the surviving letters on the mirror’s nameplate."
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "Not yet recharged; its carved frame is examined."
+        },
+        {
+          "name": "Goggles of Object Reading",
+          "role": "encountered",
+          "notes": "Tried by Seeker and Kenzo; distant vision blurs while object details sharpen."
+        },
+        {
+          "name": "Carved horn",
+          "role": "encountered",
+          "notes": "A running-horse design and old wear become visible through the goggles."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Six starving, partly skeletal gnolls charge the exhausted travelers and are killed before the party camps for the night.",
+      "longSummary": "After only a few miles south, the party spots six gnolls moving west: an emaciated leader and five nearly skeletal followers. Unable to outrun them while exhausted, the companions prepare ranged attacks, and Wellby sends his axe beak clear. Initial shots mostly miss, but Wellby’s carefully aimed arrows wound the leader, Delwath uses Eldritch Blast and Hex, and Seeker’s Shatter destroys two followers. Kenzo’s Fist of Planar Power kills the leader; the survivors lash out and one bites Kenzo. Delwath’s Green-Flame Blade, Seeker’s Vicious Mockery, Wellby’s bow, and Kenzo’s final unarmed blows finish the rest. Inspection reveals little treasure and creatures sustained despite apparently consuming their own flesh. Their path could lead from Raven’s Hold, but their origin is unproven. The party moves away from the bodies and sleeps, beginning to recover from exhaustion.",
+      "location": {
+        "kind": "journey",
+        "from": "Camp south of Stormcaller Tower",
+        "to": "Camp on the Dunmari plains",
+        "context": "A few miles of southward travel, the gnoll encounter, and overnight camp"
+      },
+      "npcs": [
+        {
+          "name": "Taster",
+          "role": "companion",
+          "notes": "Wellby’s axe beak is told to stay clear of the fight; named later in this session."
+        }
+      ],
+      "items": [
+        {
+          "name": "Goggles of Object Reading",
+          "role": "encountered",
+          "notes": "Used to inspect the leader’s damaged weapon after the fight."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Emaciated gnoll leader",
+            "notes": "Armored, polearm-bearing leader; killed by Kenzo’s Fist of Planar Power."
+          },
+          {
+            "name": "Five skeletal or nearly skeletal gnolls",
+            "notes": "All killed; their condition is described as undead-like self-consumption, not simple starvation."
+          }
+        ],
+        "notes": "All six enemies die. Kenzo takes a bite; the party remains together and camps afterward. Seeker destroys two with Shatter, Delwath kills one with Green-Flame Blade, Wellby kills one with an arrow, and Kenzo kills the leader and last follower."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-17",
+      "dateEnd": "1748-04-23",
+      "timeWindow": null,
+      "shortSummary": "The party recovers during six days of travel and reaches a roadside camp half a day north of Karawa.",
+      "longSummary": "On April 17 the travelers resume their journey, and further rest clears their remaining exhaustion. The account advances roughly six days to April 23, when they camp beside the old trade road about half a day north of Karawa. Grassland has given way to dry, rocky scrub, and they expect to reach town the next day. Seeker maps the ley lines: one runs briefly near the road before veering away, while no visible line leads directly to the known node beneath Karawa’s Red Mesa.",
+      "location": {
+        "kind": "journey",
+        "from": "Camp on the Dunmari plains",
+        "to": "Roadside camp north of Karawa",
+        "context": "Southward journey, April 17–23; final camp beside the old trade road"
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-23",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Seeker identifies the mirror, and Delwath uses the ivory scroll cap to reveal a disturbing scene of its creation.",
+      "longSummary": "Further attempts to interpret the Occulta Ludum or remember the mirror’s earlier viewpoint fail. During the journey Seeker has worked out the Goggles of Object Reading; he now uses their Identify ability on the recharged Mirror of the Past. It reveals true images from the history of something reflected in it, though order and context may be misleading. The party chooses the ivory cap found beside the summoning circle at Raven’s Hold, and Delwath asks how it was first made and last used. The mirror shows a dark workshop, rhythmic activity, ivory pieces being carved, and letters burning onto skin resembling human or dwarven flesh. A black-gloved hand lifts the assembled object, and a long-tailed, horned creature becomes visible before the image fades. It differs from the creature they fought; the scene feels old, but its place, date, and maker remain unidentified.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Roadside camp north of Karawa",
+        "context": "Night of April 23 beside the old trade road"
+      },
+      "npcs": [
+        {
+          "name": "Unidentified horned creature",
+          "role": "encountered",
+          "notes": "Seen in the mirror vision handling the scroll; its identity and exact nature are unknown."
+        }
+      ],
+      "items": [
+        {
+          "name": "Goggles of Object Reading",
+          "role": "encountered",
+          "notes": "Identified during travel and used to cast Identify."
+        },
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "Its function is learned and its charge used for the vision."
+        },
+        {
+          "name": "Ivory Scroll Case",
+          "role": "encountered",
+          "notes": "The recovered ivory cap is held before the mirror; the rest of the case is absent."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Occulta Ludum",
+          "role": "mentioned",
+          "notes": "Another attempt to interpret its name fails."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-23",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The vision prompts a discussion of planar connections, demonic bargains, and possible sources of the spreading corruption.",
+      "longSummary": "Delwath’s knowledge connects the use of flesh, fire, and blood with necromancy and magic binding the material world to human divine realms such as the Abyss and Nine Hells. The party discusses nearby and distant planes, ley lines as intersections with the Plane of Magic, and Kenzo’s limited ability to reach toward the Plane of Consciousness. Seeker wonders whether a similar direct manipulation could replace rune-work. Stories of bargains for power, corruption spilling through breaches, and wizards summoning servants offer possible explanations, but the group distinguishes folklore and speculation from evidence. The DM also notes that gnoll rampages have historical precedents. After a table break, the players briefly imagine a future flying stronghold before play advances to the next morning.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Roadside camp north of Karawa",
+        "context": "Night of April 23 beside the old trade road"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "The vision and the cumbersome mirror remain central to the discussion."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Lakan Mystai",
+          "role": "mentioned",
+          "notes": "Kenzo’s training provides his limited planar knowledge."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Returning to a ruined Karawa, the party learns that the centaurs broke a gnoll siege of the temple.",
+      "longSummary": "The next morning the party walks the remaining miles to Karawa, where about a third of the town is ruined, the palms are gone, the oasis basin is cracked, and nine large graves stand on a rise. Havdar and a centaur patrol recognize them and escort them toward the temple; Ikram’s caravanserai and Delwath’s apartment lie destroyed, but Seeker’s fortifications have held. Candrosa looks exhausted and shaken. He reports that fifty or more gnolls arrived a few days after the party left; some continued west while roughly thirty besieged the temple. Nearly forty centaurs broke the siege eight or nine days earlier and remained to help. Candrosa had not understood that the party sent them: Tharandros spoke only of a chance meeting, danger, and promised knowledge of dreams. Candrosa thanks the companions before Alesh insists they exchange news.",
+      "location": {
+        "kind": "journey",
+        "from": "Roadside camp north of Karawa",
+        "to": "Temple of Shakun (Karawa)",
+        "context": "Approach through the ruined town and reunion in a temple outbuilding"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "encountered",
+          "notes": "Greets and escorts the party, then returns to the patrols."
+        },
+        {
+          "name": "Tharandros",
+          "role": "mentioned",
+          "notes": "Leader of the centaurs; Havdar intends him to join the conversation."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "notes": "Reports the siege and thanks the party."
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "notes": "Waiting with Candrosa and eager to exchange reports."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered",
+          "notes": "Sheltered behind the temple fortifications."
+        },
+        {
+          "name": "Tharandros’s centaur band",
+          "role": "encountered",
+          "notes": "Relieved the siege and now helps protect the town."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Alesh reports southern gnoll movements and disturbing dreams, while Candrosa describes Shakun’s defenses gradually failing.",
+      "longSummary": "Alesh recounts passing ruined Bas Udda and watching quiet, unsettling Kharsan. Camping south of Kharsan beside the Kharja brought nightmares of red mist, choking, and bodies, which she tentatively connects to the old Red Death. Farther south her scouts followed fifteen or twenty gnolls, about half skeletal, southwest into the Garamjala; they turned back rather than enter without supplies. A large raven seemed to follow the gnolls, then leave and return, but its significance is unknown. Seeker animates the reported movements on a map while the party compares attacks and searches for other sources. Candrosa sketches Shakun’s former boundary and explains that its confusing paths and illusions diverted enemies. Pressed on when it failed, he describes a gradual weakening from early this year and admits that Shakun ceased speaking to him about some things, without revealing all his order’s secrets.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Council room in the Temple of Shakun outbuildings"
+      },
+      "npcs": [
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "notes": "Reports her own scouting observations; some interpretations remain uncertain."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "notes": "Describes the boundary and its decline."
+        },
+        {
+          "name": "Unusual raven",
+          "role": "mentioned",
+          "notes": "Observed following the gnolls; no identity established."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned",
+          "notes": "Candrosa withholds some secrets of the order."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Alesh describes an empty desert house and orc scouts, and Candrosa offers a troubling possible lead on Agata Dustmother.",
+      "longSummary": "Alesh describes an incongruous sandstone house on the desert’s edge, with a courtyard, water, goats, fed chickens, and ordinary household belongings, but no occupant. She thinks someone had tended it recently and suspects magical water, but took nothing and did not search its chest. She also saw two orcs scouting apart from any obvious larger force; their organization surprised her, and she avoided close pursuit. Asked about Agata Dustmother, Candrosa does not recognize that name but suggests the Old Woman of the Dusts, supposedly living about a day south of Bas Udda. He has never seen her. His story describes magic sought in desperation, paid for with something like a thumb that later appears in unsettling dreams. The party considers whether the names refer to the same person, without resolving the identity or connecting the house to her.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Council room in the Temple of Shakun outbuildings"
+      },
+      "npcs": [
+        {
+          "name": "Alesh",
+          "role": "encountered",
+          "notes": "Finishes the report on the empty house and two orc scouts."
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered",
+          "notes": "Relates hearsay about the Old Woman of the Dusts."
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "Kenzo asks about Agata Dustmother; no identification is confirmed."
+        },
+        {
+          "name": "Old Woman of the Dusts",
+          "role": "mentioned",
+          "notes": "A possible match for Agata, described only through stories."
+        },
+        {
+          "name": "Two orc scouts",
+          "role": "mentioned",
+          "notes": "Seen near the canyon during Alesh’s return; their purpose is unknown."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

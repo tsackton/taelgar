@@ -13,6 +13,7 @@ whereabouts:
   - {type: home, end: 1736, location: Paisa}
   - {type: away, start: 1747-03-01, end: 1747-06-09, location: Voltara}
 knownTo: [grli]
+player: Abigail Raiche
 dm_owner: tim
 dm_notes: none
 POV: 1747

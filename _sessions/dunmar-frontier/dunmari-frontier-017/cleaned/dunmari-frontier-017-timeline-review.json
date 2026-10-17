@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-16",
+  "inferredEnd": "1748-04-24",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: breakfast outside the storm",
+      "date": "1748-04-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "Session YAML drStart, the morning breakfast in u0003-u0014, and u1189 naming the next morning April 17 establish April 16; u0624 says about 10 a.m.",
+      "beatId": "beat-001",
+      "sourceText": "Yeah."
+    },
+    {
+      "uid": "u0763",
+      "label": "Departure south",
+      "date": "1748-04-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u0756 confirms they have not departed; u0763 starts the journey after the morning camp conversation.",
+      "beatId": "beat-004",
+      "sourceText": "Okay, so you set off heading south across the plains."
+    },
+    {
+      "uid": "u0770",
+      "label": "Afternoon travel and gnoll encounter",
+      "date": "1748-04-16",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u0770: after lunchtime, pressing into the afternoon; the dust cloud and gnolls are seen immediately afterward.",
+      "beatId": "beat-004",
+      "sourceText": "And so by after lunchtime. You've only made it, you know, a handful of miles. And as you press on into the afternoon."
+    },
+    {
+      "uid": "u1121",
+      "label": "Mid-afternoon camp decision",
+      "date": "1748-04-16",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1121 calls the time mid-afternoon; u1125 moves camp away from the bodies.",
+      "beatId": "beat-004",
+      "sourceText": "Like mid afternoon. Now, you could just set up camp here."
+    },
+    {
+      "uid": "u1177",
+      "label": "Camp and sleep through the night",
+      "date": "1748-04-16",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1177-u1179 move from setting up camp to sleeping for the night; the next morning is explicitly April 17 at u1189.",
+      "beatId": "beat-004",
+      "sourceText": "Okay. Um, so as you set up camp here."
+    },
+    {
+      "uid": "u1189",
+      "label": "April 17 morning; travel resumes",
+      "date": "1748-04-17",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1189 explicitly states the morning of April 17; u1201-u1206 introduce roughly six days of travel and further rest.",
+      "beatId": "beat-005",
+      "sourceText": "The morning of April 17 April 17"
+    },
+    {
+      "uid": "u1218",
+      "label": "April 23 roadside camp after travel",
+      "date": "1748-04-23",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1217-u1218 explicitly advance six days to April 23; u1215 and u1247 place the discussion on the night before returning to Karawa. Intermediate travel days are covered by the montage, with no individually narrated events.",
+      "beatId": "beat-005",
+      "sourceText": "April 23 now a month and a day after you all met in Karawa."
+    },
+    {
+      "uid": "u1775",
+      "label": "Next morning; final walk to Karawa",
+      "date": "1748-04-24",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1775 says the next morning dawns; u1778 gives 10–15 miles remaining, and u1844 explicitly confirms April 24.",
+      "beatId": "beat-008",
+      "sourceText": "The next morning, dawns."
+    },
+    {
+      "uid": "u1789",
+      "label": "Arrival at Karawa; time not specified",
+      "date": "1748-04-24",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1778-u1789 narrate the remaining walk and arrival above the town; u1844 confirms April 24, but an exact arrival time is not given. The temple conversations continue on this day through session end.",
+      "beatId": "beat-008",
+      "sourceText": "You come up on the rise."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-session.yaml",
+      "sha256": "9cbed3630b5966a069abefe33976e145cbf11c2bbf4baa52b5e62ed2b9796d6a"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-beats.json",
+      "sha256": "88a6fbc64e0cb0c70aa220a0ae5879a32fad2aed97843545543a12e5d009ddec"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-beat-facts.json",
+      "sha256": "c42eed12639b2c619b6ba918aeaf15f7d69462540c4943fa95b8e398c2e82844"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-source-cleaned.md",
+      "sha256": "8ac1af34adf173ee9b2ae0f356bb76e307f2a5b162fc4a57af16dc67212de50f"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-017/cleaned/dunmari-frontier-017-timeline-evidence.json",
+      "sha256": "b5f0df67eca256b34ec0b0fda4dcf0e2452f1cc2f282c5fe6bfb561a3fb695ae"
+    }
+  }
+}

@@ -7,6 +7,7 @@ name: Eolo
 pronunciation: YO-loh
 affiliations: [Chasm Explorers]
 knownTo: [itc]
+player: Eric Rosenbaum
 dm_owner: player
 dm_notes: important
 ---

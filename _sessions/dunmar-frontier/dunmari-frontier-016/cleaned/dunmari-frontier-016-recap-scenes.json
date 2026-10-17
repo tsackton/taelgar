@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Hralgar’s Warning",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The opening conversation is one continuous situation in the upper chamber.",
+      "overview": "Hralgar asks for his eyes and warns that his dreams will become dangerous.",
+      "transitionToNext": "Kenzo remains with Hralgar while the others begin searching below."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Searching the Tower",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The parallel searches, book research and comparison of letters share the goal of understanding the binding and missing eyes.",
+      "overview": "Footprints, books, looted rooms and old letters reveal the tower’s history.",
+      "transitionToNext": "Delwath teleports through the door that the searchers could not open."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Eudomes’s Sealed Chamber",
+      "beatIds": [
+        "beat-004"
+      ],
+      "rationale": "Entry, investigation, the mirror vision and escape from the sealed room form one distinct obstacle.",
+      "overview": "Delwath finds magical objects; Seeker shrinks the door to extract him and the finds.",
+      "transitionToNext": "The party returns to the platform to dislodge the iron sphere."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Sphere and Its Guardians",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The sphere experiment and both phases of the resulting uninterrupted fight belong together.",
+      "overview": "Heat and chilled water free the sphere, provoking steam and dust attackers.",
+      "transitionToNext": "With the summoned creatures defeated, the party returns to Kenzo and discusses leaving."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Hralgar Slips Away",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "The delayed departure, failing lucidity and dangerous escape form one continuous situation.",
+      "overview": "Kenzo builds a mental bridge; the others drop the sphere before fleeing into the storm.",
+      "transitionToNext": "They emerge from the storm into morning on the far side of their camp."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Dawn and Parting Ways",
+      "beatIds": [
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "The morning return, private planning, questioning of Vola and farewells resolve the expedition and set the next destinations.",
+      "overview": "The party returns to Vola, withholds Hralgar’s secret and parts from her and Riswynn.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

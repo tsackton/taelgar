@@ -8,15 +8,19 @@ subspecies: hawk
 gender: female
 name: Rala
 pronunciation: RAH-lah
+affiliations: 
+- {org: Chasm Explorers, title: Companion}
 knownTo: [itc]
-dm_owner: none
+player: Kate Sackton
+dm_owner: tim
 dm_notes: none
 POV: 1730
 ---
 # Rala
 *(RAH-lah)*
 >[!info]+ Biographical Info  
-> A beast (hawk) (she/her)
+> A beast (hawk) (she/her)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Rala is [[Jrain Fanlish]]'s hawk companion.
 

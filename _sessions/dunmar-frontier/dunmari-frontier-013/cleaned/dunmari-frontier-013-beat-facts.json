@@ -1,0 +1,507 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After breakfast, the party searches the barracks and finds treasures in an abandoned nest above the gnolls’ sleeping quarters.",
+      "longSummary": "With the morning’s gnolls defeated but the courtyard mists and captive animals still unexplained, the party postpones releasing the animals until it can investigate the danger. They divide the search: Seeker, Kenzo, and Riswynn enter the ruined barracks while Wellby, Delwath, and Vola examine the intact building. Amid old fire damage and a large abandoned nest, Kenzo and Riswynn find a golden ring, a halfling portrait locket, amber, a glowing ruby, and an elaborate silver helm; Seeker is distracted by the exposed rock strata. The lower floor contains the gnolls’ sleeping quarters, scattered coins, and grisly trinkets. The nest recalls Vola’s earlier rumor of a three-headed beast.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Courtyard and ruined barracks"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Accompanies the party through Raven’s Hold."
+        },
+        {
+          "name": "Three-headed beast",
+          "role": "mentioned",
+          "notes": "Vola’s earlier rumor is recalled when the abandoned nest is found; no creature is present."
+        }
+      ],
+      "items": [
+        {
+          "name": "Halfling portrait locket",
+          "role": "encountered",
+          "notes": "Found in the nest with a faded painted halfling inside."
+        },
+        {
+          "name": "Ruby elemental gem",
+          "role": "encountered",
+          "notes": "Found glowing among the nest’s abandoned treasures; identified later in this session."
+        },
+        {
+          "name": "Helm of Iron Will",
+          "role": "encountered",
+          "notes": "Found as an elaborate silver helm; identified later in this session."
+        },
+        {
+          "name": "Nest valuables",
+          "role": "encountered",
+          "notes": "A golden ring set with red gems and two small pieces of amber."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The second search reveals a recent weapons stockpile, while Kenzo opens a locked storeroom and Wellby recalls the locket’s former owner.",
+      "longSummary": "Wellby, Delwath, and Vola find Blackened Claw graffiti and relatively recent weapons and armor sufficient for roughly eighty to a hundred soldiers, including shields bearing bloodied wolf heads. Wellby cannot open a rusty storeroom lock, but Kenzo picks it while Riswynn mends the broken key and begins identifying the treasures. Kenzo speaks about poverty and theft in Chardon before becoming a monk. Through shared halfling memory, Wellby recalls the locket’s owner being killed roughly a century earlier by a flying beast with dragon, goat, and lion heads. The party suspects the creature once nested here, but its part in driving out the hobgoblins remains a hypothesis. Wellby keeps the repaired key and matching lock.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Intact barracks, weapon stores, and locked storeroom entrance"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Accompanies the party through Raven’s Hold."
+        },
+        {
+          "name": "Three-headed beast",
+          "role": "mentioned",
+          "notes": "Wellby remembers an attack on halflings roughly a century ago; its role in the fortress’s later history is uncertain."
+        }
+      ],
+      "items": [
+        {
+          "name": "Weapons stockpile",
+          "role": "encountered",
+          "notes": "Recent mixed-origin weapons and armor for about eighty to a hundred soldiers; some bear a bloodied wolf-head motif."
+        },
+        {
+          "name": "Halfling portrait locket",
+          "role": "encountered",
+          "notes": "Prompts Wellby’s shared memory of its owner’s death."
+        },
+        {
+          "name": "Rusty lock and repaired key",
+          "role": "encountered",
+          "notes": "Kenzo picks the lock; Riswynn mends the matching key; Wellby keeps both."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Blackened Claw",
+          "role": "encountered",
+          "notes": "Hobgoblin occupants whose insignia and supplies remain in the fortress."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The storeroom yields old war supplies, while Delwath traces the valley’s corruption and Seeker infers a ley-line node near the dwarven outpost.",
+      "longSummary": "The opened storeroom contains rusted armor and weapons, eight potions, three sealed flasks, and a remarkably preserved Blackened Claw standard whose emblem seems to move. After the group regathers around Riswynn, Vola presses her interest in the helm; Wellby dismisses her claim to any treasure, and she leaves to watch the valley. Delwath reports sensing energy from another world near the road’s river crossing, with only a faint echo in the courtyard mists. Seeker examines the ley lines and infers that they converge at the dwarven fort rather than at the suspected source of the corruption.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Hobgoblin storeroom and the party’s identification workbench"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Interested in the helm, then dismissed from the treasure discussion; she leaves to watch the valley."
+        }
+      ],
+      "items": [
+        {
+          "name": "Blackened Claw standard",
+          "role": "encountered",
+          "notes": "Old blood-red pennant whose claw emblem seems to flex; its preservation suggests magic."
+        },
+        {
+          "name": "Hobgoblin potions and flasks",
+          "role": "encountered",
+          "notes": "Eight potion bottles and three sealed leather flasks are found."
+        },
+        {
+          "name": "Rusted armor",
+          "role": "encountered",
+          "notes": "Includes half plate requiring a smith’s repairs rather than a simple Mending spell."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Blackened Claw",
+          "role": "encountered",
+          "notes": "Hobgoblin occupants whose insignia and supplies remain in the fortress."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Riswynn identifies the magical treasures, which the party distributes along with a scroll of Lesser Restoration.",
+      "longSummary": "Riswynn explains that the ruby contains a fire elemental, the old helm strengthens its wearer against mental attacks, and the Dunmari spear projects its bearer’s voice and helps nearby allies resist fear. Seeker takes the elemental gem, Delwath receives the Helm of Iron Will after Kenzo tries it on, and Kenzo keeps and tests the Spear of the War Leader. The party also identifies the scroll recovered from the hobgoblin commander’s chambers as Lesser Restoration. After a polite exchange with Seeker, Riswynn accepts it so that she can cure a companion’s poison or similar affliction.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "The gathered party’s treasure-identification workbench"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Ruby elemental gem",
+          "role": "encountered",
+          "notes": "Assigned to Seeker; can release a fire elemental, with control requiring concentration."
+        },
+        {
+          "name": "Helm of Iron Will",
+          "role": "encountered",
+          "notes": "Assigned to Delwath; strengthens Wisdom saves and can be destroyed to turn a failed save into a success."
+        },
+        {
+          "name": "Spear of the War Leader",
+          "role": "encountered",
+          "notes": "Retained by Kenzo; projects the bearer’s voice and protects allies against fear."
+        },
+        {
+          "name": "Scroll of Lesser Restoration",
+          "role": "encountered",
+          "notes": "Given to Riswynn after identification."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Delwath reads the hobgoblin records and reveals the shadow message, while the party gathers the remaining useful treasure.",
+      "longSummary": "Delwath skims the hobgoblin logbook and scouting papers, learning that the Blackened Claw seized a fertile Dunmari stronghold after the Great War and tunneled toward an already abandoned dwarven fort; the records do not explain how the hobgoblins left. The party loads salvageable half plate onto the magical floating disk, takes the standard after Riswynn identifies its fear-inducing illusion, and collects eight potions: four healing and four that resemble concentrated nourishment. Kenzo receives three healing potions and Delwath one. Delwath then admits that words appeared in the shadows, urging him to seek hidden meaning and read messages where voices cannot reach. He associates their language with his imprisonment around Cha’mutte’s fall and says he escaped roughly six or seven months ago.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Barracks and storeroom while reading records and gathering supplies"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Hobgoblin logbook and scouting papers",
+          "role": "encountered",
+          "notes": "Describe the conquest and use of a fertile valley during the Blood Years, with no resolution of the occupation."
+        },
+        {
+          "name": "Blackened Claw standard",
+          "role": "encountered",
+          "notes": "Identified as illusion magic that terrifies enemies; the party decides to take it."
+        },
+        {
+          "name": "Hobgoblin potions",
+          "role": "encountered",
+          "notes": "Four healing potions and four unfamiliar potions resembling concentrated nourishment; all eight are taken."
+        },
+        {
+          "name": "Rusted half plate",
+          "role": "encountered",
+          "notes": "Loaded on the floating disk for later repairs."
+        },
+        {
+          "name": "Floating disk coin",
+          "role": "encountered",
+          "notes": "Used to transport the heavy armor."
+        },
+        {
+          "name": "Words in shadow",
+          "role": "encountered",
+          "notes": "Delwath shares a message about hidden meaning between darkness and light, connecting its language with his past imprisonment."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Blackened Claw",
+          "role": "encountered",
+          "notes": "Hobgoblin occupants whose insignia and supplies remain in the fortress."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party bottles tainted courtyard water and chooses to investigate the valley before freeing the animals.",
+      "longSummary": "Before approaching the valley’s stronger magical presence, the party examines the mists rising from a pool and gathering in a depression beside the ruined courtyard forge. Delwath uses Mage Hand to collect water into empty potion vials; the sample carries an oily sheen and the smell of rot, sulfur, and burnt flesh, while the nearby mist leaves an iron-and-salt taste. Discussion of feeding contaminated material to animals gives way to a decision to save them without experiments. Seeker suggests persuading a dominant animal to lead the others to safety, but the group first resolves to confront the source of the valley’s corruption.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Tainted courtyard pool, ruined forge, and nearby animal pits"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Tainted water samples",
+          "role": "encountered",
+          "notes": "Delwath bottles water from the courtyard pool with Mage Hand; the oily, foul-smelling liquid is retained for possible study."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "At the valley bridge, the party finds an Abyssal summoning circle beside the fouled river and prepares to break it.",
+      "longSummary": "Vola joins the party down the switchback road toward a white-quartz bridge, where clean waterfall water becomes sluggish and fouled around a mass of vegetation and mist. Wellby spots a ten-foot circle of runes; Delwath translates an Abyssal command to enter, obey, and remain bound for a month and a day. The mist makes some companions thirsty for the tainted water without compelling them to drink. Kenzo tries the horn and hears nothing, although Riswynn says it silently summons help; no help appears in this scene. Wellby illuminates the bridge with his driftglobe, and Delwath relays a shadow warning about the wind that scours the desert sands, prompting comparison with the black iron staff’s inscription. Delwath decides to damage the circle.",
+      "location": {
+        "kind": "journey",
+        "from": "Castle courtyard (Raven’s Hold)",
+        "to": "River bridge (Raven’s Hold)",
+        "context": "Descent along the fortified switchback road into the valley and investigation of the river crossing."
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Descends with the group and conjures a shimmering blade as they approach the mists."
+        },
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "notes": "Discussed in connection with the threatening messages; no presence or direct responsibility is established."
+        }
+      ],
+      "items": [
+        {
+          "name": "Abyssal summoning circle",
+          "role": "encountered",
+          "notes": "Ten-foot circle near the river; Delwath reads commands to bind, call, enter, and obey for a month and a day."
+        },
+        {
+          "name": "Driftglobe",
+          "role": "encountered",
+          "notes": "Wellby uses Daylight to illuminate the bridge and obstruction."
+        },
+        {
+          "name": "Silent horn",
+          "role": "encountered",
+          "notes": "Kenzo blows it without audible or visible effect; Riswynn says it is summoning help."
+        },
+        {
+          "name": "Black iron staff",
+          "role": "mentioned",
+          "notes": "Its inscription binding someone to the black wind, flame, and power is recalled for comparison."
+        },
+        {
+          "name": "Words in shadow",
+          "role": "encountered",
+          "notes": "Delwath reads a warning that the wind scouring the desert sands is waiting."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Disturbing the runes awakens a vine creature, which the party defeats and washes away with the river’s released flow.",
+      "longSummary": "When Delwath scratches the runes with his shadow sword, a ten-foot humanoid mass of vines and mud rises from the river and slams him, triggering the cold of his protective armor. Delwath curses and cuts it; Wellby repeatedly plants his feet and shoots carefully aimed arrows; Riswynn attacks with Shatterstorm and Inflict Wounds. Kenzo knocks it prone with a force blast, then fights with staff and fists despite spores poisoning him and filling his mind with distant barking. Seeker disrupts part of the circle, mocks the creature with glowing hedge clippers, and excavates the riverbank behind it. Wellby’s final arrow drives it backward into the river, where the renewed torrent sweeps it away and the mists begin clearing.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Riverbank beside the bridge and summoning circle"
+      },
+      "npcs": [
+        {
+          "name": "Vine creature",
+          "role": "enemy",
+          "notes": "Humanoid mass of vines and mud that blocks the river and emits poisonous spores."
+        },
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Fights alongside the party; the DM explicitly restores her omitted participation in u2153–u2158."
+        }
+      ],
+      "items": [
+        {
+          "name": "Abyssal summoning circle",
+          "role": "encountered",
+          "notes": "Partly disrupted during the battle."
+        },
+        {
+          "name": "Shatterstorm",
+          "role": "encountered",
+          "notes": "Riswynn uses the weapon against the creature."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Vine creature",
+            "notes": "A roughly ten-foot humanoid mass of corrupted vines and mud, armed with slams and poisonous spores."
+          }
+        ],
+        "notes": "Triggered by damaging the summoning circle. Kenzo is poisoned; Wellby lands the killing shot after Seeker undermines the riverbank. The corpse is swept away as the river resumes flowing."
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Riswynn cures Kenzo while the others erase the circle and find traces of the scroll used to corrupt the river.",
+      "longSummary": "Riswynn uses the Lesser Restoration scroll to cure Kenzo, while Delwath and Seeker finish destroying the runes. Clean water now rushes downstream; some red vines wash away and others droop and blacken. Delwath’s renewed examination reveals residual magic in a small pile of ash beside an ivory scroll-case cap, evidence that a scroll was used for the ritual. The party cannot establish who performed it or how it relates to the previously slain demon. Vola clarifies that the orc served Agata Dustmother, who was seeking lost artifacts, rather than describing Agata as a being awaiting summoning. Delwath estimates that the disturbance is two to four weeks old. The party returns to its animal-rescue plan.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Cleansed riverbank and remains of the summoning circle"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Discusses the orc’s account of Agata and the ritual."
+        },
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "notes": "According to Vola, the orc served her and she was searching for knowledge of lost artifacts; her connection to this summoning remains uncertain."
+        }
+      ],
+      "items": [
+        {
+          "name": "Scroll of Lesser Restoration",
+          "role": "encountered",
+          "notes": "Used by Riswynn to cure Kenzo’s poison."
+        },
+        {
+          "name": "Summoning-scroll remnants",
+          "role": "encountered",
+          "notes": "An ivory scroll-case cap and a small pile of ash bearing residual magic remain at the circle."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Seeker persuades a lion to lead the captive animals away, and Wellby accompanies them on its back.",
+      "longSummary": "Back at the castle, Seeker combines Speak with Animals and Suggestion to enlist the strongest adult female lion to guide the captives to clean water and away from settlements. The courtyard pool itself remains tainted because nothing has flushed it out. The lion acknowledges Seeker and roars to the other animals as the party releases them, including the three hyenas trapped in pits. Wellby rides a lion with the departing procession to make sure the animals get clear, then returns. No animals are used for experiments.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Raven’s Hold",
+        "context": "Castle animal enclosures and release into the valley"
+      },
+      "npcs": [
+        {
+          "name": "Dominant female lion",
+          "role": "encountered",
+          "notes": "Responds to Seeker’s spells and helps lead the freed animals away."
+        },
+        {
+          "name": "Captive animals",
+          "role": "encountered",
+          "notes": "Lions, hyenas, wild dogs, and jackals are released, including the three hyenas in pits."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Riswynn’s ancestral shield wins passage past the dwarven guardian, allowing the party to recover adamantine before departing south.",
+      "longSummary": "Returning to the dwarven caves, the party approaches a damaged stone guardian still protecting the forge and mine. Seeker’s attempt to shrink it fails as the magic appears to be absorbed; Riswynn then shows the Brawnanvil shield, and the guardian recognizes her as one of its dwarves and steps aside. Beyond it lie shattered mining equipment, an old workshop, and a shaft deeper than Riswynn’s darkvision; Kenzo considers jumping but declines. Seeker identifies a valuable lump of adamantine, which they load onto the floating disk. Battle damage suggests an old attack from below, possibly by mind flayers, without proving the attackers’ identity. Leaving the guardian behind, they quietly exit with Vola, reach their horses in the afternoon, and ride south for several hours to an evening camp.",
+      "location": {
+        "kind": "journey",
+        "from": "Dwarven Outpost (Raven’s Hold)",
+        "to": "Camp south of Raven’s Hold",
+        "context": "Exploration of the guarded forge and mine, followed by departure through the secret entrance, reunion with the horses, and a southward ride."
+      },
+      "npcs": [
+        {
+          "name": "Dwarven stone guardian",
+          "role": "encountered",
+          "notes": "Battle-damaged guardian recognizes the Brawnanvil shield and allows passage; it remains in the outpost."
+        },
+        {
+          "name": "Vola",
+          "role": "companion",
+          "notes": "Leaves quietly with the group through the secret exit."
+        }
+      ],
+      "items": [
+        {
+          "name": "Shield of the Brawnanvil Clan",
+          "role": "encountered",
+          "notes": "Riswynn presents it to the guardian, which recognizes her connection to the dwarves."
+        },
+        {
+          "name": "Adamantine",
+          "role": "encountered",
+          "notes": "A valuable lump of metal recovered from the ruined workshop and loaded on the floating disk."
+        },
+        {
+          "name": "Floating disk coin",
+          "role": "encountered",
+          "notes": "Its disk carries the recovered metal."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Brawnanvils",
+          "role": "mentioned",
+          "notes": "Riswynn invokes her family’s longstanding ties to the outpost while showing its shield."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

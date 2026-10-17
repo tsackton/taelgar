@@ -16,6 +16,7 @@ whereabouts:
   - {type: away, start: 1644, end: 1746, location: Plaguelands}
   - {type: away, start: 1746, end: 9999, location: Chardonian Empire}
 knownTo: [grli]
+player: Duncan
 dm_owner: player
 dm_notes: none
 POV: 1748

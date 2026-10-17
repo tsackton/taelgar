@@ -15,6 +15,7 @@ whereabouts:
   - {type: home, location: Feywild}
   - {type: home, start: 1748-08-22, location: Voltara}
 knownTo: [grli]
+player: "Mi'sol"
 dm_owner: player
 dm_notes: none
 POV: 1748

@@ -1,0 +1,549 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "At sunset west of Raven's Hold, the party settles into camp and reviews its unresolved discoveries.",
+      "longSummary": "Vola returns from hunting and offers to cook while the others settle into camp: Seeker examines the recovered amber and begins shaping glass, Kenzo watches the fire, Riswynn organizes her shield and equipment, Wellby coaxes prairie chickens closer, and Delwath paces while watching the distant storm. In an out-of-character review, the players distinguish Vola's jackalwere captors and Agata Dustmother from the demons and beast-making rituals at Raven's Hold. The DM clarifies that the earlier rampaging beasts came from the separate fort with the undead hobgoblin. Wellby confirms keeping the acidic vial, while the party recalls that blowing its horn had no visible effect.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Samtal",
+        "context": "Evening campsite a few miles west of Raven's Hold, near the road",
+        "notes": "The transcript describes the northern Dunmari plains; the existing session note confirms the regional name."
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "Discussed as Dustmother; identity, age, and connections remain uncertain to the party."
+        }
+      ],
+      "items": [
+        {
+          "name": "Amber",
+          "role": "encountered"
+        },
+        {
+          "name": "Adamantine",
+          "role": "encountered"
+        },
+        {
+          "name": "Black Iron Staff",
+          "role": "mentioned"
+        },
+        {
+          "name": "Acidic liquid in a metal vial",
+          "role": "encountered",
+          "notes": "Wellby confirms he kept it."
+        },
+        {
+          "name": "Horn of Silent Alarm (Dunmari)",
+          "role": "mentioned",
+          "notes": "The party recalls its use; no new activation occurs."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party weighs returning to Karawa against investigating the storm, while Seeker develops goggles to share his view of ley lines.",
+      "longSummary": "The DM estimates four or five days back to Karawa and roughly seven to ten days before Alesh expects the party. Wellby favors the storm and Delwath worries about leaving a danger behind them; Riswynn instead wants to return the Brawnanvil shield to Tharn Todor. Seeker detects a ley line running west toward the storm from the Raven's Hold node and explains his glass goggles, intended to let others see the lines. Kenzo urges a conversation with Vola before they part. Discussion of centaur stories, the Abyss, summoning circles, and the dying demon's drifting energy produces hypotheses about connections between worlds, without establishing what causes the storm.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Samtal",
+        "context": "Evening campsite a few miles west of Raven's Hold, near the road",
+        "notes": "The transcript describes the northern Dunmari plains; the existing session note confirms the regional name."
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Ley-line goggles",
+          "role": "encountered",
+          "notes": "Under construction; Riswynn can help make the leather straps."
+        },
+        {
+          "name": "Shield of the Brawnanvil Clan",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Over dinner, Vola argues that the Society should be an ally against Agata and explains her urgency to warn Chardon.",
+      "longSummary": "Vola serves roasted birds and vegetables, then argues that preserving lost knowledge is better than letting it fall to Agata. Pressed by Seeker, she qualifies the Society's commitment to sharing knowledge: dangerous knowledge is not safe for everyone. She describes the Society as part of the Great Library, run by archivists, but says she is not a senior member and does not know what prompted its wider searches. She recounts a rumor of mind flayers making a mountain walk during the Blood Years. Vola wants to warn other treasure hunters and seek information in Chardon; her captors intended to take her to Agata somewhere in the desert after their ritual. She says her own goal was a rumored chimera's treasure, not the dwarven heirlooms.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Samtal",
+        "context": "Evening campsite a few miles west of Raven's Hold, near the road",
+        "notes": "The transcript describes the northern Dunmari plains; the existing session note confirms the regional name."
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned"
+        },
+        {
+          "name": "Great Library",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Vola agrees to travel toward the storm, accepts Wellby's horse, and promises to carry a warning to Havdar.",
+      "longSummary": "Vola intends to return to Chardon through Tokra and Songara, and agrees to accompany the party toward the storm because it is only a small detour; she does not promise to enter it. Wellby offers his horse. Discussion of Arcus and the destroyed staff exposes a difference between Vola's preference for securing dangerous objects and Delwath's willingness to destroy Cha'mutte's works. She explains that she left Chardon in late November with four companions, searching for old Drankorian or early Dunmari treasures, and later split from them at Askandi. Kenzo asks her to warn Havdar in Tokra. The party decides to keep its heavy supplies and travel more slowly, rather than cache them and return for them.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Samtal",
+        "context": "Evening campsite a few miles west of Raven's Hold, near the road",
+        "notes": "The transcript describes the northern Dunmari plains; the existing session note confirms the regional name."
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Arcus",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Cha'mutte",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Black Iron Staff",
+          "role": "mentioned"
+        },
+        {
+          "name": "Floating Disc Coin",
+          "role": "mentioned",
+          "notes": "Its six-hour daily usefulness limits overland hauling."
+        },
+        {
+          "name": "Adamantine",
+          "role": "encountered"
+        },
+        {
+          "name": "Plate armor",
+          "role": "encountered"
+        },
+        {
+          "name": "Barrel of oil",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned"
+        },
+        {
+          "name": "Great Library",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-14",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party travels west through wildfire damage, and Wellby's vulture scout reports a clear center within the storm.",
+      "longSummary": "In the morning, Wellby brings an axebeak into camp and lends his horse to Vola, riding behind Kenzo while feeding his new companion. The group sets out across the plains, with Seeker continuing work on the goggles and the party foraging along the way. By evening they reach the scorched landscape left by lightning-sparked fires and camp amid blackened ground and scavenged carcasses. A giant vulture lands by Wellby and receives food. Wellby reports its reconnaissance: there is no obvious passage into the storm, but its center is clear and contains a white rock on a black rock. The party interprets this cautiously as a possible structure and remains determined to investigate.",
+      "location": {
+        "kind": "journey",
+        "from": "Campsite west of Raven's Hold (Samtal)",
+        "to": "Burned plains near the storm (Samtal)",
+        "context": "First day of westward travel and evening camp"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Wellby Junior",
+          "role": "companion",
+          "notes": "The axebeak is not yet named in this beat; later dialogue clearly identifies the same animal."
+        },
+        {
+          "name": "Giant vulture",
+          "role": "encountered",
+          "notes": "Scouts the storm for Wellby."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ley-line goggles",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "After reaching the storm on the second travel day, the party prepares a lightning rod and sends Taster ahead while Vola stays outside.",
+      "longSummary": "The second morning is cool and foggy, with the distant storm already audible. By about two or three in the afternoon, the group reaches its outskirts: the air is hot and close, dark clouds loom overhead, and rain obscures the center. Seeker shows Wellby the ley line through his goggles. The party considers shelter and the floating disc, then decides to proceed, with Seeker and Delwath passing a metal lightning rod between Mage Hands. Vola agrees to camp outside for the night with the remaining horses and supplies. Wellby declines to risk the axebeak but communicates with Taster and plans to receive his scouting impressions. Riswynn takes the rabbit and rides her horse toward the storm.",
+      "location": {
+        "kind": "journey",
+        "from": "Burned plains camp (Samtal)",
+        "to": "Storm outskirts (Samtal)",
+        "context": "Second travel day and preparations outside the stationary storm"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Taster",
+          "role": "companion"
+        },
+        {
+          "name": "Wellby Junior",
+          "role": "companion",
+          "notes": "Wellby refuses to send the axebeak into the storm."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ley-line goggles",
+          "role": "encountered"
+        },
+        {
+          "name": "Improvised lightning rod",
+          "role": "encountered",
+          "notes": "A metal staff is suggested; the final entry plan calls it a crowbar."
+        },
+        {
+          "name": "Floating Disc Coin",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Self-forming runes compel Delwath to stab Seeker, until the party restrains him and moves beyond their influence.",
+      "longSummary": "Following the ley line through smoke, ash, mist, and sideways rain, the party sees the ground gather into large runes. Delwath reads a command to attack the dwarf and warns the others, but summons his sword and stabs Seeker. Riswynn casts Hold Person on Delwath; Wellby heals Seeker with red mud while Seeker tries to erase the writing with Mold Earth. The runes reform and repeatedly invite Seeker to ask a question, which he refuses after the attack. Riswynn urges everyone to move on. Wellby slaps Delwath, briefly clearing his mind, and Seeker overlays the runes with an illusion of green grass. As they leave, the runes trail behind them and Delwath's compulsion fades.",
+      "location": {
+        "kind": "journey",
+        "from": "Storm outskirts (Samtal)",
+        "to": "Rune-covered ground inside the storm (Samtal)",
+        "context": "Progress inward through the storm"
+      },
+      "npcs": [
+        {
+          "name": "Taster",
+          "role": "companion"
+        },
+        {
+          "name": "Riswynn's horse",
+          "role": "companion",
+          "notes": "Riswynn explicitly rides and manages the horse; the isolated DM reference to Seeker on a horse at u1350 conflicts with the surrounding actions."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ley-line goggles",
+          "role": "encountered"
+        },
+        {
+          "name": "Improvised lightning rod",
+          "role": "encountered"
+        },
+        {
+          "name": "Self-forming storm runes",
+          "role": "encountered",
+          "notes": "They communicate different messages to Delwath and Seeker; their source remains unknown."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Compulsion from the storm runes",
+            "notes": "Hostile magical influence forces Delwath to strike Seeker; Delwath is a PC, not an enemy NPC."
+          }
+        ],
+        "notes": "One compelled attack followed by restraint, healing, and withdrawal; not a sustained battle."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The wind scatters the party, but Wellby uses a rope and Kenzo's driftglobe to reunite everyone in the storm's calm eye.",
+      "longSummary": "Visibility drops to twenty or thirty feet and Taster becomes lost in the rain while reporting worsening conditions. After roughly an hour and a half or two hours inside the storm, Riswynn's horse throws her and bolts away from the wind wall; Taster also flees into the darkness. Seeker keeps the lightning rod aloft. Delwath, Seeker, and Wellby push into the calm center, but Kenzo and Riswynn are blown aside and injured. Wellby ties a rope around his waist, gives the other end to Delwath, and returns to the storm, speaking telepathically to his companions. Kenzo releases his driftglobe, whose light guides the rescue. Everyone reaches the eye, where a white marble tower stands on a jutting shard of blue granite.",
+      "location": {
+        "kind": "journey",
+        "from": "Inner storm (Samtal)",
+        "to": "Stormcaller Tower (storm eye)",
+        "context": "Crossing the wind wall and rescuing the separated companions",
+        "notes": "The existing session note confirms the tower's canonical name; no additional tower lore is imported."
+      },
+      "npcs": [
+        {
+          "name": "Taster",
+          "role": "companion",
+          "notes": "Flees into the storm; his later fate is not established in this session."
+        },
+        {
+          "name": "Riswynn's horse",
+          "role": "companion",
+          "notes": "Throws Riswynn and bolts; recovery is not shown."
+        }
+      ],
+      "items": [
+        {
+          "name": "Improvised lightning rod",
+          "role": "encountered"
+        },
+        {
+          "name": "Dwarven Driftglobe",
+          "role": "encountered"
+        },
+        {
+          "name": "Rescue rope",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Sheltering beneath Stormcaller Tower, the party finds an old camp, a grave marked for the Sibyl, and unusual materials around a major ley-line node.",
+      "longSummary": "The party moves under the granite prow to avoid being seen from the tower, which shows no lights or movement. Three ley lines meet beneath it at a node larger than the one at Raven's Hold. A sheltered campsite appears to have held two or three people for several days, roughly three or four weeks earlier; a grave bears the Sibyl's symbol. The party wonders whether Society members were here, but does not establish their identities. Tracks lead toward the storm and cannot be followed beyond it. With Stone Sense, Seeker detects precious metals near the tower's top, an unfamiliar metal or ore inside the granite, and something unusual in the marble walls. Delwath proposes scouting invisibly.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Sheltered campsite beneath the granite prow"
+      },
+      "npcs": [
+        {
+          "name": "Unidentified buried traveler",
+          "role": "encountered",
+          "notes": "Known only from the grave; no identity or nationality is established."
+        }
+      ],
+      "items": [
+        {
+          "name": "Sibyl-marked grave",
+          "role": "encountered"
+        },
+        {
+          "name": "Unidentified metal or ore",
+          "role": "encountered",
+          "notes": "Sensed inside the granite, offset from the ley-line node."
+        },
+        {
+          "name": "Precious metals near the tower summit",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Invisible, Delwath explores the shattered ground floor and climbs through intact living quarters toward a study above.",
+      "longSummary": "Delwath turns invisible and carefully climbs the old, worn steps. The entrance doors have been blasted outward, leaving twisted ironwork and silver remnants. Inside, the ground-floor hall and its furnishings look torn apart by violent wind within the past few weeks, although the building itself is very old. Blue and purple sparks run through the walls and intensify when he disturbs the rubble. He finds intact stairs and climbs to a better-preserved second floor with three smaller rooms behind wooden doors and a larger room behind an elaborate door. Passing the closed rooms, he continues toward the third floor, where he glimpses bookshelves with a few books and a white marble table.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Exterior steps, ruined entry hall, living quarters, and approach to the third floor"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Blasted entrance doors",
+          "role": "encountered"
+        },
+        {
+          "name": "Third-floor bookshelves",
+          "role": "encountered",
+          "notes": "Seen at a distance; no book titles or contents are obtained."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "A living bolt of lightning pursues Delwath, who escapes through a window and reports a mysterious voice speaking about Agata.",
+      "longSummary": "A roughly ten-foot mass of blue arcane lightning emerges from the third-floor wall, prompting initiative. Delwath retreats, then dives out a window as the creature's lightning blast misses him and strikes the wall. He uses Misty Step during the fall to reduce the impact, takes thirteen damage, and becomes visible. Returning to cover, he reports that a voice at the entrance invited him to ask a question. Asked what Dustmother wanted, it described a power growing in the desert, reaching out to betray the people of the plains, and seeking power and revenge. Delwath thinks another presence was trapped or suffering, and the DM confirms that its distress coincided with his arrival at the third floor.",
+      "location": {
+        "kind": "journey",
+        "from": "Third floor (Stormcaller Tower)",
+        "to": "Sheltered camp (Stormcaller Tower)",
+        "context": "Flight from the tower and immediate report"
+      },
+      "npcs": [
+        {
+          "name": "Lightning creature",
+          "role": "enemy",
+          "notes": "An unfamiliar nonhumanoid manifestation; its exact nature remains unknown."
+        },
+        {
+          "name": "Unidentified tower voice",
+          "role": "encountered",
+          "notes": "Reported by Delwath after an earlier private-message exchange; identity and reliability remain unknown."
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "The subject of Delwath's question, not a confirmed presence at the tower."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Lightning creature",
+            "notes": "Pursues Delwath and fires one blast that misses."
+          }
+        ],
+        "notes": "Delwath escapes via a window and Misty Step; the creature is not defeated, and his injury comes from the fall."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "While resting beneath the tower, the party considers the runes and the voice, then discovers the Fox and Hunter are missing from the sky.",
+      "longSummary": "Delwath and the others speculate that the lightning restrains another presence, perhaps controls the storm, and may have killed the buried traveler; none of this is confirmed. Seeker considers using his fire elemental gem or interrupting the ley-line connection, but no plan is attempted. They compare the voice's questions with the storm runes and realize the symbols conveyed meaning directly rather than belonging to a readable language. Seeker recalls stories linking master runes to ancient giants, while the DM clarifies that the tower's doorway is human-sized and the writing was not Giant. The group takes a short rest, with Kenzo meditating and Seeker contributing Song of Rest. As sunset gives way to stars, the familiar Fox and Hunter constellations are absent; the session ends without explaining why.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Sheltered camp beneath the granite prow"
+      },
+      "npcs": [
+        {
+          "name": "Lightning creature",
+          "role": "mentioned"
+        },
+        {
+          "name": "Unidentified tower voice",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Elemental gem",
+          "role": "encountered",
+          "notes": "Contains a fire spirit; proposed as a distraction but not used."
+        },
+        {
+          "name": "Self-forming storm runes",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

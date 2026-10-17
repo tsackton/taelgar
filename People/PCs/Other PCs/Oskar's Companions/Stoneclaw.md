@@ -13,6 +13,7 @@ affiliations:
 whereabouts:
   - {type: home, location: Oskar, linkText: with}
 knownTo: [grli]
+player: Nathaniel Sackton
 dm_owner: player
 dm_notes: important
 POV: 1740s

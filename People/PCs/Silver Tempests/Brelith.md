@@ -6,6 +6,7 @@ tags: [person]
 species: dwarf
 gender: male
 born: 1707
+player: "Mi'sol"
 name: Brelith Shockstone
 pronunciation: BREH-lith
 affiliations:

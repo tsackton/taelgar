@@ -1,7 +1,7 @@
 ---
 tags: [session-note]
 name: Dunmari Frontier - Session 134
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 sessionNumber: 134
 realWorldDate: 2025-10-06
 DR: 1749-08-12

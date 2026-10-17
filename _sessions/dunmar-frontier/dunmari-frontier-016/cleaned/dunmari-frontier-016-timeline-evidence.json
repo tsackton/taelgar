@@ -1,0 +1,80 @@
+{
+  "inferredStart": "1748-04-15",
+  "inferredEnd": "1748-04-16",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start in the tower",
+      "date": "1748-04-15",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors April 15. u0131–u0137 confirms it is still night with the Fox and Hunter overhead; u0002 refers back to entering the storm earlier that afternoon."
+    },
+    {
+      "uid": "u0492",
+      "label": "About twenty minutes of searching",
+      "date": "1748-04-15",
+      "time": "night; about twenty minutes into the search",
+      "basis": "explicit",
+      "evidence": "u0492: “about 20 minutes so far.” This is an elapsed-time cue, not a new date."
+    },
+    {
+      "uid": "u0720",
+      "label": "Parallel searches and reading completed",
+      "date": "1748-04-15",
+      "time": "night; a further search/read interval",
+      "basis": "explicit",
+      "evidence": "u0720 describes 15–20 minutes of Delwath’s reading; u0772–u0777 reconvenes the party after about twenty minutes. Parallel activity is not added as separate elapsed intervals."
+    },
+    {
+      "uid": "u0934",
+      "label": "Ten-minute fey-sight examination",
+      "date": "1748-04-15",
+      "time": "night; ten-minute examination",
+      "basis": "explicit",
+      "evidence": "u0934 spends ten minutes to inspect the room with fey sight; u0940–u0965 gives the result."
+    },
+    {
+      "uid": "u1101",
+      "label": "One-minute opening beneath the door",
+      "date": "1748-04-15",
+      "time": "night; one-minute spell window",
+      "basis": "explicit",
+      "evidence": "u1101–u1103 establishes a one-minute duration; u1112 and u1120–u1122 resolves extraction before the spell ends."
+    },
+    {
+      "uid": "u1847",
+      "label": "Lucidity fails; departure becomes urgent",
+      "date": "1748-04-15",
+      "time": "night; exact elapsed delay unknown",
+      "basis": "inferred",
+      "evidence": "u1847 the Fox and Hunter starts fading; u1850 Kenzo warns it is time to go. No rest was completed and the earlier waiting has no exact duration."
+    },
+    {
+      "uid": "u1977",
+      "label": "Night travel into the storm",
+      "date": "1748-04-15",
+      "time": "night; travel duration becomes uncertain",
+      "basis": "explicit",
+      "evidence": "u1977 explicitly says it is night. u2018–u2023 describes disorientation and uncertainty about minutes versus hours, not a definite multi-day jump."
+    },
+    {
+      "uid": "u2024",
+      "label": "Emergence at dawn on the next day",
+      "date": "1748-04-16",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "u2024 explicitly emerges into morning, reinforced by dawn at u2040–u2047. u2048–u2053 expresses subjective uncertainty; Vola’s answer “just a day” at u2161–u2162 supports the next morning and matches drEnd."
+    },
+    {
+      "uid": "u2150",
+      "label": "Return to camp after circling the storm",
+      "date": "1748-04-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u2070–u2072 estimates a walk of a few hours; u2143–u2155 narrates the return and Vola packing breakfast. u2431–u2432 still calls it a clear morning and a young day. The private conversation at u2201–u2204 is explicitly retroactively placed during this approach."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

@@ -13,6 +13,8 @@ whereabouts:
   - {type: home, location: Wickerley}
   - {type: home, location: Tollen}
   - {type: away, start: 1740-10-05, location: Twilight Kingdom}
+affiliations: 
+- {org: Tollen Misfits}
 knownTo: [feywild]
 dm_owner: player
 dm_notes: none
@@ -23,6 +25,7 @@ POV: 1740
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% more backstory? some seems to be missing %%

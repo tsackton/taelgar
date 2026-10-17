@@ -1,0 +1,18 @@
+{
+  "schemaVersion": "1.0",
+  "reviewDate": "2026-10-16",
+  "userDecision": "approve these.\n\nretracting loosing the floating disk also keeps the mirror, but not the coins",
+  "sceneApproval": "Approved the six displayed scenes without regrouping.",
+  "clarification": {
+    "beatId": "beat-009",
+    "sourceRange": "u2095–u2118",
+    "retained": [
+      "Floating Disc Coin",
+      "Mirror of the Past"
+    ],
+    "lost": [
+      "Silver and copper coins"
+    ],
+    "treatment": "Apply the user’s clarification to derived facts and recap; preserve the spoken rulings in the cleaned transcript."
+  }
+}

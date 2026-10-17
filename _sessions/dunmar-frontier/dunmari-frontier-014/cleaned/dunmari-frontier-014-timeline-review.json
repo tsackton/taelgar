@@ -1,0 +1,132 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-13",
+  "inferredEnd": "1748-04-15",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-04-13",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Session YAML supplies April 13; u0002–u0010 explicitly describe sunset and preparations for dinner.",
+      "beatId": "beat-001",
+      "sourceText": "Well, go back to a classic for our intro music"
+    },
+    {
+      "uid": "u0864",
+      "label": "Rest before an early departure",
+      "date": "1748-04-13",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u0836 says it is getting late; u0864 proposes resting and u0867 allows long-rest recovery. The actual next morning at u0943 confirms the overnight transition; logistics in between do not add another day.",
+      "beatId": "beat-004",
+      "sourceText": "Shall we rest and get an early start in the morning."
+    },
+    {
+      "uid": "u0943",
+      "label": "First travel morning",
+      "date": "1748-04-14",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u0943: gather together in the morning; u0944–u0957 introduce the axebeak, mount Vola, and depart. Date inferred as the next day from the YAML anchor.",
+      "beatId": "beat-005",
+      "sourceText": "Us, we start to gather ourselves together in the morning."
+    },
+    {
+      "uid": "u1012",
+      "label": "First travel day: midday",
+      "date": "1748-04-14",
+      "time": "midday",
+      "basis": "explicit",
+      "evidence": "u1012 explicitly advances to around midday before compressing the rest of the day into evening.",
+      "beatId": "beat-005",
+      "sourceText": "around midday. The, the heat of the sun. You see the raven soaring overhead again and then as evening progresses, you've now reached the sort of burned area."
+    },
+    {
+      "uid": "u1013",
+      "label": "Camp in the burned landscape",
+      "date": "1748-04-14",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "The latter part of u1012 says evening progresses; u1013 and u1030–u1031 place camp that night. The interrupted next-day lead-in at u1033 is followed by the scouting report and resumes at u1058; it does not add a separate day.",
+      "beatId": "beat-005",
+      "sourceText": "As you start to set your camp. And so there's less less good foraging"
+    },
+    {
+      "uid": "u1058",
+      "label": "Second travel morning",
+      "date": "1748-04-15",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1058 explicitly says the next morning; u1061 describes cool morning fog, and u1076–u1083 describe breakfast. A delayed private message at u1075 does not supply an additional date change.",
+      "beatId": "beat-006",
+      "sourceText": "The next morning."
+    },
+    {
+      "uid": "u1112",
+      "label": "Arrival at the storm outskirts",
+      "date": "1748-04-15",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1112 calls this late afternoon; u1162 and u1250 refine it to about two or three in the afternoon. Entry is declared at u1339–u1349 after preparations.",
+      "beatId": "beat-006",
+      "sourceText": "It takes you maybe until the late afternoon to get to the point where you're maybe"
+    },
+    {
+      "uid": "u1738",
+      "label": "Arrival in the calm eye",
+      "date": "1748-04-15",
+      "time": "late afternoon / early evening",
+      "basis": "explicit",
+      "evidence": "u1652–u1653 estimate roughly 1½–2 hours in the storm; u1738 describes evening sunlight, then late-afternoon sun. Exact clock time remains approximate.",
+      "beatId": "beat-008",
+      "sourceText": "I mean behind you, but where you're standing here is like dead calm. You can see above you, that the evening sunlight late afternoon sun."
+    },
+    {
+      "uid": "u2044",
+      "label": "Tower scouting has taken 20–30 minutes",
+      "date": "1748-04-15",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u2044 estimates the elapsed time of Delwath's scouting; it does not establish a new date or an exact clock time.",
+      "beatId": "beat-010",
+      "sourceText": "So it's probably been about 20 minutes. Yeah, maybe 20–30 minutes, um,"
+    },
+    {
+      "uid": "u2433",
+      "label": "Short rest at sunset",
+      "date": "1748-04-15",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2391 requests a short rest. u2432–u2433 and u2446–u2453 describe resting, meditation, sunset, and emerging stars. The reference to 12:30 at u2432 is the real-world stopping time, not in-world time.",
+      "beatId": "beat-012",
+      "sourceText": "You know begins to meditate, as the sun sets and the stars begin to come out of the sky you all"
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+      "sha256": "4afe0296a58442bb2a995a00d082a645b5028ef65561904f29a43d80db435e36"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-beats.json",
+      "sha256": "199348b258b16f871114be33709c5b47dccef961f6fd3d169c39cdf0366e9942"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-beat-facts.json",
+      "sha256": "51de272608436b34bbb13960d5ba14b664d18622f08f6b24c0383aae9f752a2d"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-source-cleaned.md",
+      "sha256": "ad56419a29f6d24e308e98f87c6cb31fde8934557687bbf3e4f96802239a9d00"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-timeline-evidence.json",
+      "sha256": "fe2bc7a128af9dde838e5136dc263c81af9b3d0e6f21871b1159acd9d42aff56"
+    }
+  }
+}
