@@ -9,6 +9,7 @@ aliases: [Jrain]
 pronunciation: JRAYN FAN-lish
 affiliations: [Chasm Explorers]
 knownTo: [itc]
+player: Kate Sackton
 dm_owner: player
 dm_notes: important
 ---

@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-15",
+  "inferredEnd": "1748-04-15",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: twilight after the short rest",
+      "date": "1748-04-15",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors April 15; u0002–u0004 explicitly describe twilight after the completed short rest, reinforced by u0040. No rest occurs during this opening discussion.",
+      "beatId": "beat-001",
+      "sourceText": "Like the despite the storm."
+    },
+    {
+      "uid": "u1159",
+      "label": "Roughly an hour later: the stars are clearer",
+      "date": "1748-04-15",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1159 explicitly estimates an hour spent climbing, meditating, and applying oil. u1164–u1173 describe a clearer but subtly unfamiliar night sky; no overnight passage is narrated.",
+      "beatId": "beat-005",
+      "sourceText": "Oh, yes. By now, it's, yeah, it's probably been, you know, an hour in between the climbing up and all that 10 minute meditations and applying oils and things. Um, yes, you can see the stars better"
+    },
+    {
+      "uid": "u1458",
+      "label": "Apparent daylight on the mountain",
+      "date": "1748-04-15",
+      "time": "apparent daytime; underlying night inferred",
+      "basis": "explicit",
+      "evidence": "u1454–u1458 describe mist, dreamlike perception, and sunshine; u1488–u1489 explicitly contrast daytime here with night at the tower. u1978–u1982 and u2153–u2154 later reveal the overlay rather than a passed night; the same session date is retained.",
+      "beatId": "beat-006",
+      "sourceText": "The stairs leading down a cave sort of almost like in a cave entrance behind you. The sun is shining"
+    },
+    {
+      "uid": "u1788",
+      "label": "Hralgar claims the year is 5031",
+      "date": "1748-04-15",
+      "time": "historical year claim, not a party date transition",
+      "basis": "explicit",
+      "evidence": "u1788–u1796 give 5031 and the party’s interpretation of dwarven reckoning. The party states its own present year as 5881 dwarven / 1748 Drankorian at u2095–u2113. Hralgar’s confusion and the vanishing mountain do not establish physical time travel.",
+      "beatId": "beat-007",
+      "sourceText": "5000 5030 first year of this world."
+    },
+    {
+      "uid": "u2154",
+      "label": "The mountain vanishes; the ruined tower is visible again",
+      "date": "1748-04-15",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u2136–u2154 show the chains appearing and the mountain vanishing within the continuous conversation. u2159–u2160 describe the roof open to the sky. No sleep, next day, or actual calendar advance occurs before play stops at u2333–u2337.",
+      "beatId": "beat-010",
+      "sourceText": "And you are standing on the top floor of the tower."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+      "sha256": "72f726bfafb27fae213e416714389f61ef85fdf8b21d911e627387448ff70f36"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-beats.json",
+      "sha256": "9781b41af420d975a817f7e4523afe68419cd210389d9716d391772b34b5e8c7"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-beat-facts.json",
+      "sha256": "6856ecadcca8463415e36d89aedc6bb27d047c44bba8cc1747947121cd4b1ff2"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-source-cleaned.md",
+      "sha256": "b0f252a28b6512df9e9922ae9663f195d0ba50969ab99ee7de94a2aa6658f481"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-timeline-evidence.json",
+      "sha256": "3e46143bf3e5666ab44e951932d7236a1f39ba9959444b10a0bb940f0fb19058"
+    }
+  }
+}

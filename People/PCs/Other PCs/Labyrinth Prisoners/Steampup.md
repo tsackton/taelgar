@@ -12,6 +12,7 @@ affiliations:
 whereabouts:
   - {type: home, location: Dilion, linkText: with}
 knownTo: [lablost]
+player: Dylan
 dm_owner: player
 dm_notes: none
 POV: 1748

@@ -7,11 +7,11 @@ species: dragonet
 ancestry: null
 born: null
 gender: male
-player: null
 name: Dimitaur
 affiliations:
   - {org: Heroes of the Great War, title: Companion}
 knownTo: [dufr]
+player: David Kong
 dm_owner: tim
 dm_notes: important
 POV: 1740s

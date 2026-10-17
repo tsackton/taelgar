@@ -7,6 +7,7 @@ name: Ekko
 pronunciation: EH-koh
 affiliations: [Chasm Explorers, Vejo Vaikai]
 knownTo: [itc]
+player: David Kong
 dm_owner: player
 dm_notes: important
 ---

@@ -1,0 +1,69 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Missing Stars and a Recent Grave",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The camp discussion, grave examination, and Wellby’s vision form one investigation of the unsettling conditions before the group leaves the ground.",
+      "overview": "Question the altered sky, inspect the grave, and receive the tower’s vision.",
+      "transitionToNext": "Kenzo climbs the tower and lowers a rope."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "The Guarded Sphere",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "The climb, water guardian experiments, and Delwath’s close inspection form one physical investigation ending with his escape and healing.",
+      "overview": "Climb to the platform, probe the water guardian, and examine the binding inscription.",
+      "transitionToNext": "After Delwath retreats, the party questions what the sphere restrains and turns to communicating with the storm."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Voices in the Storm",
+      "beatIds": [
+        "beat-005"
+      ],
+      "rationale": "After the dangerous inspection, the objective shifts to understanding the captive presence through discussion and Wellby’s telepathic contact.",
+      "overview": "Reassess the strange sky and hear the storm’s tormented and angry voices.",
+      "transitionToNext": "Gathering lightning drives the party through the tower entrance."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Empty Sockets and a Misty Stairway",
+      "beatIds": [
+        "beat-006"
+      ],
+      "rationale": "The interior survey and decision to climb are one short exploration scene, ending with the startling arrival on a mountainside.",
+      "overview": "Find the eyeless bust and empty settings, then climb into apparent daylight.",
+      "transitionToNext": "The approaching giant prompts a choice between hiding and greeting him."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Stories in Hralgar’s Dream",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "One continuous encounter develops from story trading through fragmented memories to the revelation of captivity; the situation changes when the mountain vanishes.",
+      "overview": "Trade stories, question Hralgar’s memories, and expose the chains beneath the dream.",
+      "transitionToNext": "The mountain vanishes, revealing Hralgar imprisoned in the ruined tower."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "The Captive Storm Giant",
+      "beatIds": [
+        "beat-010"
+      ],
+      "rationale": "The revealed prison changes the encounter into a discussion of Eudomes’s binding and plans to free Hralgar, followed by session wrap-up.",
+      "overview": "Hear how Eudomes bound Hralgar and plan a quick search for his missing eyes.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

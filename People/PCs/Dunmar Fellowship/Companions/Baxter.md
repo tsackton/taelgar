@@ -7,7 +7,7 @@ species: axebeak
 ancestry: null
 born: null
 gender: null
-player: Dave Schwartz
+player: David Schwartz
 name: Baxter
 affiliations:
   - {org: Dunmar Fellowship, title: Companion}

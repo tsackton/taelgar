@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Stars Missing Above the Camp",
+      "startUid": "u0001",
+      "endUid": "u0306",
+      "lineCount": 306,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party emerges from its short rest and discusses the altered sky and whether to investigate the tower.",
+      "dateEvidence": [
+        "u0002–u0004 and u0040: twilight after a short rest; session YAML anchors April 15."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "The Grave and the Vision",
+      "startUid": "u0307",
+      "endUid": "u0456",
+      "lineCount": 150,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Attention turns from time speculation to excavating the camp grave while Wellby contacts the tower.",
+      "dateEvidence": [
+        "u0307 begins a continuous investigation; u0367–u0441 contain no rest or date change."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Climbing to the Guarded Sphere",
+      "startUid": "u0457",
+      "endUid": "u0900",
+      "lineCount": 444,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Kenzo climbs to the platform; initial approaches and magical probes encounter a water guardian. This begins an extended hazardous investigation, split before the direct inscription attempt.",
+      "dateEvidence": [
+        "u0457–u0570 follow the camp investigation directly; the ten-minute ritual at u0802–u0803 is not an overnight rest."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Reading the Binding Inscription",
+      "startUid": "u0901",
+      "endUid": "u1100",
+      "lineCount": 200,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The group moves from distant examination to Delwath entering the pool with Oil of Slipperiness and a Mage Hand distraction; the dangerous inspection ends in retreat.",
+      "dateEvidence": [
+        "u0930–u1088 are the next experiment in the same platform investigation."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Voices in the Storm",
+      "startUid": "u1101",
+      "endUid": "u1378",
+      "lineCount": 278,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party postpones destroying the sphere and pursues communication with the tower while reassessing the sky.",
+      "dateEvidence": [
+        "u1159: roughly an hour has passed during climbing, meditation, and oil application; the stars are clearer, supporting night on the same date."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Eyeless Bust and Stairway",
+      "startUid": "u1379",
+      "endUid": "u1547",
+      "lineCount": 169,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party enters the tower, discovers empty settings, and ascends into an apparent sunlit mountain landscape; includes the brief table break.",
+      "dateEvidence": [
+        "u1454–u1507 describe dreamlike mist and apparent daylight without sleep or elapsed days; u1982 and u2153–u2154 later expose the illusion."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Trading Stories with the Giant",
+      "startUid": "u1548",
+      "endUid": "u1817",
+      "lineCount": 270,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "An approaching giant prompts concealment and Wellby’s greeting; exchanged stories reveal a mismatched sense of history and year.",
+      "dateEvidence": [
+        "Continuous encounter; the stated year 5031 at u1788–u1796 belongs to the giant’s perspective, not an actual party date change."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Eudomes and the Missing Eyes",
+      "startUid": "u1818",
+      "endUid": "u1983",
+      "lineCount": 166,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby asks about the tower, provoking fragmented memories of Eudomes and the first suspicion that the mountain is unreal.",
+      "dateEvidence": [
+        "u1818 continues the same conversation; u1978–u1982 suggest the party may never have left the tower."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Chains Through the Dream",
+      "startUid": "u1984",
+      "endUid": "u2153",
+      "lineCount": 170,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party tests its surroundings and guides the giant toward the stairs; chains appear as he realizes his captivity.",
+      "dateEvidence": [
+        "u2013 locates the same converging ley lines; u2095–u2113 state the party’s present year, and u2153 ends the mountain appearance without an elapsed-day cue."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Hralgar’s Captivity Revealed",
+      "startUid": "u2154",
+      "endUid": "u2460",
+      "lineCount": 307,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The mountaintop gives way to the ruined tower, where Hralgar explains his binding and urges a quick search; includes session wrap-up and table discussion.",
+      "dateEvidence": [
+        "u2154 returns the visible scene to the tower; u2159–u2160 describe the broken roof and star-watching space; no overnight rest occurs before the stop at u2333–u2337."
+      ]
+    }
+  ]
+}

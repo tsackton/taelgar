@@ -9,6 +9,7 @@ affiliations:
   - {org: Dunmar Fellowship, title: Companion}
 knownTo: [dufr]
 excludePublish: [clee]
+player: Eric Rosenbaum
 dm_owner: tim
 dm_notes: important
 POV: 1740s

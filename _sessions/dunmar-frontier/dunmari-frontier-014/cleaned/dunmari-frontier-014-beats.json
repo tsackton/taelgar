@@ -1,0 +1,199 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-014/cleaned/dunmari-frontier-014-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Camp and Unanswered Questions",
+      "startUid": "u0001",
+      "endUid": "u0203",
+      "lineCount": 203,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The session opens at camp; the party reviews Raven's Hold before choosing its next move.",
+      "dateEvidence": [
+        "u0002–u0010 establish sunset and dinner preparations; session YAML anchors April 13."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Choosing the Storm",
+      "startUid": "u0204",
+      "endUid": "u0418",
+      "lineCount": 215,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party turns from reviewing discoveries to choosing its route and discussing the storm, ley lines, and Vola.",
+      "dateEvidence": [
+        "The camp conversation continues without a rest or departure."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Vola Defends the Society",
+      "startUid": "u0419",
+      "endUid": "u0654",
+      "lineCount": 236,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Dinner begins and Vola argues for cooperation, explains her priorities, and answers questions about Agata.",
+      "dateEvidence": [
+        "u0419–u0428 begin dinner in the same evening camp."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "An Uneasy Agreement",
+      "startUid": "u0655",
+      "endUid": "u0942",
+      "lineCount": 288,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The conversation becomes a concrete travel agreement; the party discusses artifact ownership, warnings, and how to carry its supplies.",
+      "dateEvidence": [
+        "u0836 says it is getting late; u0864 proposes resting before an early start. Travel logistics continue before the enacted morning at u0943."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Across the Burned Plains",
+      "startUid": "u0943",
+      "endUid": "u1057",
+      "lineCount": 115,
+      "dateStart": "1748-04-14",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A new day starts; the first travel day and evening camp form a complete travel beat. Its 115 lines are retained separately because the next beat begins the second morning.",
+      "dateEvidence": [
+        "u0943 explicitly begins the morning after camp; u1012 covers midday and evening; u1030–u1042 concern that camp and the vulture report. u1033 is an interrupted next-day transition, completed at u1058."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "At the Storm's Edge",
+      "startUid": "u1058",
+      "endUid": "u1348",
+      "lineCount": 291,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The second morning leads to arrival at the storm and the party's preparations, ending when it commits to entering.",
+      "dateEvidence": [
+        "u1058 explicitly says next morning; u1112 describes late-afternoon arrival, refined at u1162 and u1250 to about two or three in the afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Compelled by the Runes",
+      "startUid": "u1349",
+      "endUid": "u1611",
+      "lineCount": 263,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party enters the storm and encounters self-forming runes; the resulting attack and its resolution are contained here.",
+      "dateEvidence": [
+        "Continuous travel from the afternoon arrival; no new rest or date change."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Through the Wall of Wind",
+      "startUid": "u1612",
+      "endUid": "u1783",
+      "lineCount": 172,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The storm intensifies into a wind-wall hazard, separates the party, and ends with everybody reunited in the calm eye.",
+      "dateEvidence": [
+        "u1652–u1653 estimate one and a half to two hours inside the storm; u1738 explicitly places arrival in evening sunlight/late-afternoon sun."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "The Tower and the Grave",
+      "startUid": "u1784",
+      "endUid": "u1934",
+      "lineCount": 151,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Reunited in the eye, the party investigates the tower exterior, campsite, grave, and ley-line node before Delwath enters.",
+      "dateEvidence": [
+        "Continuous investigation after the late-afternoon arrival; no additional date transition."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Delwath Scouts the Tower",
+      "startUid": "u1935",
+      "endUid": "u2128",
+      "lineCount": 194,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Delwath turns invisible, investigates the damaged entry hall, and climbs through the living quarters toward the third floor.",
+      "dateEvidence": [
+        "u2044 estimates 20–30 minutes of scouting; exact clock time is not stated."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Escape from Living Lightning",
+      "startUid": "u2129",
+      "endUid": "u2218",
+      "lineCount": 90,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative marks a strong encounter boundary; the short fight, escape, and immediate account of the voice stay together despite the 90-line size.",
+      "dateEvidence": [
+        "The escape immediately follows the scouting, before the sunset rest at u2433."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Master Runes and Missing Stars",
+      "startUid": "u2219",
+      "endUid": "u2467",
+      "lineCount": 249,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party interprets the voice and lightning, discusses master runes, and rests until the missing constellations end the session.",
+      "dateEvidence": [
+        "u2391 initiates a short rest; u2433 and u2447 explicitly describe sunset and emerging stars. No additional night passes."
+      ]
+    }
+  ]
+}

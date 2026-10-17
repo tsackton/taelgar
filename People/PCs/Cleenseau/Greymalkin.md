@@ -12,6 +12,7 @@ name: Greymalkin
 affiliations:
   - {org: Heroes of Cleenseau, title: Companion}
 knownTo: [clee]
+player: Dan Walters
 dm_owner: player
 dm_notes: important
 POV: 1720

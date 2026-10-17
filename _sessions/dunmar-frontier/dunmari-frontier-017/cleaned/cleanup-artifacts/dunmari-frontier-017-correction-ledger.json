@@ -1,0 +1,3910 @@
+{
+  "pass": "first",
+  "changedLines": 560,
+  "replacements": {
+    "3": [
+      [
+        "ideals of rockers tower",
+        "ordeals of Hralgar’s tower"
+      ]
+    ],
+    "4": [
+      [
+        "Well, the arrows",
+        "While the air is"
+      ],
+      [
+        "morning he",
+        "morning heat"
+      ],
+      [
+        "dunmurry planes",
+        "Dunmari plains"
+      ]
+    ],
+    "5": [
+      [
+        "frogs are",
+        "Hralgar"
+      ],
+      [
+        "planes",
+        "plains"
+      ]
+    ],
+    "6": [
+      [
+        "Summer",
+        "Somewhere"
+      ]
+    ],
+    "7": [
+      [
+        "dwarf and the human",
+        "dwarf and a human"
+      ],
+      [
+        "and 10 silence",
+        "in tense silence"
+      ],
+      [
+        "to cry",
+        "Tokra"
+      ],
+      [
+        "chart and",
+        "Chardon"
+      ],
+      [
+        "gotta dust mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "8": [
+      [
+        "done Mari",
+        "Dunmari"
+      ],
+      [
+        "lashing",
+        "Havdar’s"
+      ],
+      [
+        "Carolina",
+        "Karawa"
+      ],
+      [
+        "mysteries of sure Kuhn",
+        "Mystai of Shakun"
+      ]
+    ],
+    "9": [
+      [
+        "Have darkness",
+        "Havdar’s"
+      ],
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "10": [
+      [
+        "heading last",
+        "heading west"
+      ],
+      [
+        "care while",
+        "Karawa"
+      ],
+      [
+        "plans",
+        "plains"
+      ],
+      [
+        "river heart",
+        "River Hara"
+      ]
+    ],
+    "11": [
+      [
+        "Shakun",
+        "[[Shabbat]]"
+      ]
+    ],
+    "12": [
+      [
+        "entire",
+        "and tiredness"
+      ]
+    ],
+    "14": [
+      [
+        "because lives he has",
+        "whose lives you have"
+      ]
+    ],
+    "18": [
+      [
+        "Seekers",
+        "Seeker’s"
+      ],
+      [
+        "and his fists",
+        "in his fists"
+      ]
+    ],
+    "24": [
+      [
+        "The younger",
+        "A younger"
+      ]
+    ],
+    "26": [
+      [
+        "Frank car",
+        "Frankar"
+      ],
+      [
+        "frank",
+        "Frank"
+      ]
+    ],
+    "28": [
+      [
+        "whys behind it beyond",
+        "wise beyond"
+      ],
+      [
+        "rubric magic to",
+        "runic magic too"
+      ]
+    ],
+    "30": [
+      [
+        "side to",
+        "side too"
+      ]
+    ],
+    "33": [
+      [
+        "ended minted",
+        "had invented"
+      ]
+    ],
+    "34": [
+      [
+        "away or",
+        "a way, or"
+      ]
+    ],
+    "37": [
+      [
+        "Salomon",
+        "salamander"
+      ],
+      [
+        "It was always",
+        "He was always"
+      ]
+    ],
+    "38": [
+      [
+        "away out",
+        "a way out"
+      ]
+    ],
+    "40": [
+      [
+        "arrange",
+        "arranged"
+      ],
+      [
+        "sliced into",
+        "sliced in two"
+      ]
+    ],
+    "41": [
+      [
+        "pending",
+        "depending"
+      ],
+      [
+        "seller mentor",
+        "salamander"
+      ]
+    ],
+    "43": [
+      [
+        "hit it",
+        "hid it"
+      ]
+    ],
+    "47": [
+      [
+        "it's been for",
+        "it had been for"
+      ]
+    ],
+    "51": [
+      [
+        "secret",
+        "Seeker"
+      ]
+    ],
+    "55": [
+      [
+        "seen it",
+        "seen him"
+      ]
+    ],
+    "56": [
+      [
+        "shoot another timeline in my head tin",
+        "Shoot, I don’t have the timeline in my head, Tim"
+      ]
+    ],
+    "59": [
+      [
+        "How did",
+        "How old did"
+      ]
+    ],
+    "65": [
+      [
+        "5055",
+        "50, 55"
+      ]
+    ],
+    "74": [
+      [
+        "I'm kind of",
+        "Um, kind of"
+      ],
+      [
+        "speaker",
+        "Seeker"
+      ]
+    ],
+    "80": [
+      [
+        "A bake",
+        "I baked"
+      ]
+    ],
+    "87": [
+      [
+        "Else",
+        "Elves"
+      ]
+    ],
+    "94": [
+      [
+        "hub goblins and works. We're",
+        "hobgoblins and orcs were"
+      ]
+    ],
+    "100": [
+      [
+        "sizzle a tree",
+        "sisila tree"
+      ],
+      [
+        "not being ourselves",
+        "not being elves yourselves"
+      ]
+    ],
+    "102": [
+      [
+        "This that was kind of crumbles.",
+        "Delwath kind of crumbles."
+      ]
+    ],
+    "103": [
+      [
+        "Dealt with",
+        "Delwath"
+      ]
+    ],
+    "105": [
+      [
+        "find him",
+        "find home"
+      ]
+    ],
+    "107": [
+      [
+        "charted",
+        "Chardon"
+      ]
+    ],
+    "111": [
+      [
+        "were at was",
+        "where it was"
+      ]
+    ],
+    "114": [
+      [
+        "chart. And",
+        "Chardon."
+      ],
+      [
+        "dealt with through YouTube",
+        "Delwath, for you too"
+      ]
+    ],
+    "121": [
+      [
+        "charted",
+        "Chardon"
+      ]
+    ],
+    "124": [
+      [
+        "is it opens for open scroll",
+        "as he opens the broken scroll"
+      ]
+    ],
+    "126": [
+      [
+        "chart in",
+        "Chardon"
+      ]
+    ],
+    "129": [
+      [
+        "light refineries",
+        "chalyte refineries"
+      ]
+    ],
+    "131": [
+      [
+        "strange of that after effects",
+        "strange aftereffects"
+      ]
+    ],
+    "133": [
+      [
+        "charting",
+        "Chardon"
+      ],
+      [
+        "joining",
+        "journeying"
+      ]
+    ],
+    "137": [
+      [
+        "chart in",
+        "Chardon"
+      ]
+    ],
+    "139": [
+      [
+        "wearing of",
+        "wary of"
+      ],
+      [
+        "hands on",
+        "Kenzo"
+      ]
+    ],
+    "147": [
+      [
+        "the word families and the word",
+        "there weren’t families and there weren’t"
+      ]
+    ],
+    "148": [
+      [
+        "hearts",
+        "hearths"
+      ]
+    ],
+    "150": [
+      [
+        "at once dealt with",
+        "once, Delwath"
+      ]
+    ],
+    "156": [
+      [
+        "Chardin",
+        "Chardon"
+      ],
+      [
+        "carola",
+        "Karawa"
+      ]
+    ],
+    "160": [
+      [
+        "Dublin",
+        "Delwath"
+      ],
+      [
+        "like I did,",
+        "like I’ve been,"
+      ]
+    ],
+    "167": [
+      [
+        "church harder than",
+        "Chardon that"
+      ]
+    ],
+    "177": [
+      [
+        "Santa Barbara",
+        "Sembara"
+      ]
+    ],
+    "178": [
+      [
+        "Samia",
+        "Cymea"
+      ]
+    ],
+    "185": [
+      [
+        "Working",
+        "Walking"
+      ]
+    ],
+    "197": [
+      [
+        "You've seen your family while the",
+        "You've seen your family, Wellby"
+      ]
+    ],
+    "198": [
+      [
+        "some bar",
+        "Sembara"
+      ],
+      [
+        "crust",
+        "crossed"
+      ]
+    ],
+    "201": [
+      [
+        "care off crossed over that done, Mara",
+        "Karawa, crossed over to Dunmar"
+      ],
+      [
+        "charm hearts",
+        "Charmhearts"
+      ]
+    ],
+    "202": [
+      [
+        "Elvis",
+        "elves"
+      ],
+      [
+        "wondering",
+        "wandering"
+      ]
+    ],
+    "204": [
+      [
+        "charted",
+        "Chardon"
+      ]
+    ],
+    "205": [
+      [
+        "And sad",
+        "Can’t say I"
+      ],
+      [
+        "now that now if",
+        "now. For an elf"
+      ],
+      [
+        "a pretty good $1",
+        "a pretty good one"
+      ]
+    ],
+    "212": [
+      [
+        "Bella",
+        "Delwath"
+      ]
+    ],
+    "216": [
+      [
+        "Admitted to an alpha",
+        "A minute to an elf"
+      ]
+    ],
+    "222": [
+      [
+        "better within most jobs",
+        "better wit than most elves"
+      ]
+    ],
+    "233": [
+      [
+        "gotta dust mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "236": [
+      [
+        "Seager",
+        "Seeker"
+      ]
+    ],
+    "238": [
+      [
+        "ravens holds",
+        "Raven’s Hold"
+      ]
+    ],
+    "244": [
+      [
+        "summons demon",
+        "summoned demon"
+      ]
+    ],
+    "246": [
+      [
+        "Got the dust mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "252": [
+      [
+        "volatile",
+        "Vola tell"
+      ]
+    ],
+    "256": [
+      [
+        "false impression",
+        "Vola’s impression"
+      ]
+    ],
+    "257": [
+      [
+        "A god that",
+        "Agata"
+      ]
+    ],
+    "260": [
+      [
+        "gotta dust mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "261": [
+      [
+        "a goddess mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "264": [
+      [
+        "seminars",
+        "summoners"
+      ]
+    ],
+    "270": [
+      [
+        "I gotta",
+        "Agata"
+      ]
+    ],
+    "272": [
+      [
+        "you gotta",
+        "or Agata"
+      ]
+    ],
+    "274": [
+      [
+        "got the dust. Another",
+        "Agata Dustmother"
+      ]
+    ],
+    "282": [
+      [
+        "a goddess mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "287": [
+      [
+        "Algar",
+        "Hralgar"
+      ]
+    ],
+    "288": [
+      [
+        "for site",
+        "foresight"
+      ]
+    ],
+    "302": [
+      [
+        "Drink or",
+        "Drankor"
+      ]
+    ],
+    "303": [
+      [
+        "it. Don't mess",
+        "Eudomes"
+      ],
+      [
+        "trap them",
+        "trapped him"
+      ],
+      [
+        "drink or",
+        "Drankor"
+      ]
+    ],
+    "308": [
+      [
+        "Kyoto Udon",
+        "Occulta Ludum"
+      ]
+    ],
+    "321": [
+      [
+        "occult out",
+        "Occulta Ludum"
+      ]
+    ],
+    "323": [
+      [
+        "you domus",
+        "Eudomes"
+      ]
+    ],
+    "324": [
+      [
+        "here that says, Tell you don't miss this dress",
+        "him. That says, “Tell Eudomes,” this is addressed"
+      ]
+    ],
+    "325": [
+      [
+        "them as",
+        "Eudomes"
+      ]
+    ],
+    "328": [
+      [
+        "drink.",
+        "Drankor."
+      ]
+    ],
+    "330": [
+      [
+        "drink so",
+        "Drankor, so"
+      ]
+    ],
+    "331": [
+      [
+        "we'll be",
+        "Wellby"
+      ]
+    ],
+    "332": [
+      [
+        "occult, including this drink or",
+        "Occulta Ludum is a Drankor"
+      ]
+    ],
+    "338": [
+      [
+        "kajsa",
+        "Kajsa"
+      ],
+      [
+        "drink in",
+        "Drankor and"
+      ]
+    ],
+    "339": [
+      [
+        "charge.",
+        "Chardon."
+      ]
+    ],
+    "340": [
+      [
+        "Chardin",
+        "Chardon"
+      ],
+      [
+        "drink Korean",
+        "Drankorian"
+      ]
+    ],
+    "343": [
+      [
+        "December",
+        "Sembara"
+      ]
+    ],
+    "344": [
+      [
+        "charting",
+        "Chardon"
+      ]
+    ],
+    "350": [
+      [
+        "drink or",
+        "Drankor"
+      ]
+    ],
+    "351": [
+      [
+        "charting",
+        "Chardon"
+      ]
+    ],
+    "353": [
+      [
+        "drank or",
+        "Drankor"
+      ]
+    ],
+    "356": [
+      [
+        "cultural ludin",
+        "Occulta Ludum"
+      ]
+    ],
+    "361": [
+      [
+        "during Korean",
+        "Drankorian"
+      ],
+      [
+        "dread Korean",
+        "Drankorian"
+      ],
+      [
+        "Japan, Korea",
+        "Drankorian"
+      ],
+      [
+        "dealt with",
+        "Delwath"
+      ],
+      [
+        "Elvis",
+        "Elvish"
+      ]
+    ],
+    "363": [
+      [
+        "Comment or done Mari",
+        "Common or Dunmari"
+      ]
+    ],
+    "367": [
+      [
+        "drink or in",
+        "Drankorian"
+      ]
+    ],
+    "370": [
+      [
+        "quantum leap",
+        "quantum language"
+      ]
+    ],
+    "376": [
+      [
+        "pencil",
+        "Kenzo"
+      ]
+    ],
+    "378": [
+      [
+        "kids that were",
+        "check with"
+      ]
+    ],
+    "385": [
+      [
+        "drink Korean",
+        "Drankorian"
+      ]
+    ],
+    "389": [
+      [
+        "Caroline",
+        "Karawa"
+      ]
+    ],
+    "395": [
+      [
+        "Awash",
+        "Alesh"
+      ]
+    ],
+    "401": [
+      [
+        "Charleston",
+        "Chardon"
+      ]
+    ],
+    "404": [
+      [
+        "playgrounds",
+        "Plaguelands"
+      ]
+    ],
+    "405": [
+      [
+        "plague lands",
+        "Plaguelands"
+      ]
+    ],
+    "413": [
+      [
+        "Carol.",
+        "Karawa"
+      ]
+    ],
+    "415": [
+      [
+        "Uncharted",
+        "in Chardon"
+      ]
+    ],
+    "419": [
+      [
+        "chart and",
+        "Chardon"
+      ],
+      [
+        "a bower",
+        "about"
+      ]
+    ],
+    "421": [
+      [
+        "Charging",
+        "Chardon"
+      ]
+    ],
+    "424": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "426": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ]
+    ],
+    "427": [
+      [
+        "seminars",
+        "summoners"
+      ]
+    ],
+    "432": [
+      [
+        "seminars",
+        "summoners"
+      ]
+    ],
+    "433": [
+      [
+        "a Gothic death is just mother's",
+        "Agata Dustmother’s"
+      ]
+    ],
+    "435": [
+      [
+        "side nut, not a Dallas",
+        "side nod at Delwath"
+      ]
+    ],
+    "440": [
+      [
+        "dealt with",
+        "Delwath"
+      ]
+    ],
+    "456": [
+      [
+        "Carson",
+        "Kharsan"
+      ]
+    ],
+    "457": [
+      [
+        "Dharma",
+        "Garamjala"
+      ]
+    ],
+    "458": [
+      [
+        "Guys Garage garage",
+        "Garamjala, Garamjala"
+      ]
+    ],
+    "460": [
+      [
+        "Come jobs",
+        "Garamjala"
+      ]
+    ],
+    "471": [
+      [
+        "how goblins",
+        "hobgoblins"
+      ]
+    ],
+    "480": [
+      [
+        "play glands",
+        "Plaguelands"
+      ]
+    ],
+    "481": [
+      [
+        "you have a reason",
+        "you have no reason"
+      ]
+    ],
+    "497": [
+      [
+        "scrolling",
+        "scrawling"
+      ]
+    ],
+    "498": [
+      [
+        "she couldn't",
+        "Shakun"
+      ],
+      [
+        "it's car from",
+        "it’s carved from"
+      ]
+    ],
+    "501": [
+      [
+        "Kenza",
+        "Kenzo"
+      ]
+    ],
+    "504": [
+      [
+        "various very",
+        "very"
+      ]
+    ],
+    "526": [
+      [
+        "Carolyn",
+        "Karawa"
+      ]
+    ],
+    "528": [
+      [
+        "all went to Alaska",
+        "owe it to Alesh"
+      ]
+    ],
+    "535": [
+      [
+        "Event at",
+        "And at"
+      ],
+      [
+        "fortner go Matt ravens holds",
+        "fort near Gomat, Raven’s Hold"
+      ]
+    ],
+    "536": [
+      [
+        "Chart and",
+        "Chardon"
+      ]
+    ],
+    "540": [
+      [
+        "bola",
+        "Vola"
+      ]
+    ],
+    "542": [
+      [
+        "chart and",
+        "Chardon"
+      ]
+    ],
+    "543": [
+      [
+        "it got the dust mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "545": [
+      [
+        "where those are being used for",
+        "what those are being used for"
+      ]
+    ],
+    "571": [
+      [
+        "talk something about a goddess mother",
+        "tell us something about Agata Dustmother"
+      ]
+    ],
+    "575": [
+      [
+        "Kenza",
+        "Kenzo"
+      ]
+    ],
+    "584": [
+      [
+        "face I",
+        "fey sight"
+      ]
+    ],
+    "599": [
+      [
+        "a goddess mother",
+        "Agata Dustmother"
+      ],
+      [
+        "the Goddess",
+        "Agata"
+      ]
+    ],
+    "600": [
+      [
+        "you is that",
+        "you images that"
+      ]
+    ],
+    "611": [
+      [
+        "dealt with",
+        "Delwath"
+      ],
+      [
+        "seen",
+        "scene"
+      ]
+    ],
+    "613": [
+      [
+        "procession jack",
+        "perception check"
+      ]
+    ],
+    "631": [
+      [
+        "we asked",
+        "we rest"
+      ]
+    ],
+    "633": [
+      [
+        "Caroline",
+        "Karawa"
+      ]
+    ],
+    "634": [
+      [
+        "care what",
+        "Karawa"
+      ]
+    ],
+    "637": [
+      [
+        "terroir",
+        "Karawa"
+      ]
+    ],
+    "638": [
+      [
+        "over when",
+        "overland"
+      ]
+    ],
+    "643": [
+      [
+        "Viola",
+        "Vola"
+      ]
+    ],
+    "646": [
+      [
+        "done Mari for it",
+        "Dunmari fort"
+      ]
+    ],
+    "647": [
+      [
+        "Train cornea and",
+        "Drankorian"
+      ]
+    ],
+    "649": [
+      [
+        "mer.",
+        "mirror."
+      ]
+    ],
+    "651": [
+      [
+        "writing",
+        "riding"
+      ]
+    ],
+    "657": [
+      [
+        "secret",
+        "Seeker"
+      ]
+    ],
+    "659": [
+      [
+        "homie glass",
+        "gnomey glass"
+      ]
+    ],
+    "664": [
+      [
+        "bola",
+        "Vola"
+      ]
+    ],
+    "669": [
+      [
+        "little princess",
+        "ley lines"
+      ]
+    ],
+    "671": [
+      [
+        "lovely line",
+        "ley line"
+      ]
+    ],
+    "674": [
+      [
+        "landline",
+        "ley line"
+      ]
+    ],
+    "679": [
+      [
+        "rocket",
+        "rock"
+      ]
+    ],
+    "685": [
+      [
+        "Jim lens",
+        "gem lens"
+      ]
+    ],
+    "694": [
+      [
+        "you",
+        "hue"
+      ]
+    ],
+    "696": [
+      [
+        "in purple",
+        "and purple"
+      ]
+    ],
+    "698": [
+      [
+        "predict",
+        "protect"
+      ]
+    ],
+    "707": [
+      [
+        "whereas",
+        "wears"
+      ]
+    ],
+    "721": [
+      [
+        "lying to the wood",
+        "lined with wood"
+      ]
+    ],
+    "722": [
+      [
+        "word",
+        "wood"
+      ],
+      [
+        "what there",
+        "wood there"
+      ],
+      [
+        "this and would",
+        "in wood"
+      ]
+    ],
+    "725": [
+      [
+        "that we've done",
+        "that weave down"
+      ],
+      [
+        "finally",
+        "finely"
+      ]
+    ],
+    "729": [
+      [
+        "a is that he and I, you",
+        "an E and a U"
+      ]
+    ],
+    "730": [
+      [
+        "You don't. You don't miss",
+        "Eudomes. Eudomes"
+      ]
+    ],
+    "731": [
+      [
+        "tech magic",
+        "detect magic"
+      ]
+    ],
+    "739": [
+      [
+        "patent of were",
+        "patina of wear"
+      ]
+    ],
+    "742": [
+      [
+        "but amplify them Devin sound",
+        "would amplify the sound"
+      ]
+    ],
+    "749": [
+      [
+        "are kind of",
+        "Arcana"
+      ]
+    ],
+    "753": [
+      [
+        "ARC. ARC on a tech check",
+        "Arc—Arcana check"
+      ]
+    ],
+    "763": [
+      [
+        "said off",
+        "set off"
+      ]
+    ],
+    "767": [
+      [
+        "had South",
+        "head south"
+      ]
+    ],
+    "777": [
+      [
+        "planes",
+        "plains"
+      ]
+    ],
+    "784": [
+      [
+        "looked to",
+        "looked through"
+      ]
+    ],
+    "785": [
+      [
+        "plane.",
+        "plain."
+      ]
+    ],
+    "786": [
+      [
+        "amazing seated know",
+        "emaciated gnoll"
+      ]
+    ],
+    "793": [
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "800": [
+      [
+        "was an invalid",
+        "Riswynn and Vola"
+      ]
+    ],
+    "802": [
+      [
+        "resident follow on horse",
+        "Riswynn and Vola are on horses"
+      ]
+    ],
+    "806": [
+      [
+        "Ohio",
+        "Hara"
+      ],
+      [
+        "toe crime",
+        "Tokra"
+      ]
+    ],
+    "807": [
+      [
+        "Full and raise when",
+        "Vola and Riswynn"
+      ]
+    ],
+    "815": [
+      [
+        "rich",
+        "ridge"
+      ]
+    ],
+    "816": [
+      [
+        "rich",
+        "ridge"
+      ]
+    ],
+    "817": [
+      [
+        "Arise",
+        "A rise"
+      ]
+    ],
+    "818": [
+      [
+        "desk plume",
+        "dust plume"
+      ]
+    ],
+    "827": [
+      [
+        "There on Friday",
+        "They’re on foot"
+      ]
+    ],
+    "828": [
+      [
+        "chases down",
+        "chase us down"
+      ]
+    ],
+    "829": [
+      [
+        "have",
+        "halved"
+      ]
+    ],
+    "830": [
+      [
+        "will be knock scenario",
+        "Wellby nocks an arrow"
+      ],
+      [
+        "that was sand",
+        "Delwath’s hand"
+      ]
+    ],
+    "832": [
+      [
+        "Current student is there with",
+        "As soon as they’re within"
+      ],
+      [
+        "LJ blasting",
+        "Eldritch Blasting"
+      ]
+    ],
+    "833": [
+      [
+        "Well, we",
+        "Wellby"
+      ],
+      [
+        "XP",
+        "axe beak"
+      ]
+    ],
+    "835": [
+      [
+        "turn into",
+        "turn to"
+      ]
+    ],
+    "849": [
+      [
+        "docking",
+        "ducking"
+      ]
+    ],
+    "864": [
+      [
+        "down with",
+        "Delwath"
+      ]
+    ],
+    "865": [
+      [
+        "Hired",
+        "Hundred"
+      ]
+    ],
+    "875": [
+      [
+        "outreach",
+        "Eldritch"
+      ],
+      [
+        "hell",
+        "hill"
+      ]
+    ],
+    "881": [
+      [
+        "key",
+        "ki"
+      ]
+    ],
+    "886": [
+      [
+        "his eyes",
+        "Hit Dice"
+      ]
+    ],
+    "890": [
+      [
+        "Have a gimmicky back",
+        "How do I get my ki back"
+      ]
+    ],
+    "896": [
+      [
+        "Bad Mrs as your boat flows flies",
+        "That misses as your bolt flies"
+      ]
+    ],
+    "897": [
+      [
+        "slave",
+        "glaive"
+      ]
+    ],
+    "901": [
+      [
+        "Well, the",
+        "Wellby"
+      ],
+      [
+        "well be",
+        "Wellby"
+      ]
+    ],
+    "905": [
+      [
+        "shots when slide",
+        "shots went wide"
+      ]
+    ],
+    "914": [
+      [
+        "short Bodo will",
+        "shortbow to roll"
+      ]
+    ],
+    "916": [
+      [
+        "while be",
+        "Wellby"
+      ]
+    ],
+    "917": [
+      [
+        "length of this Knowles",
+        "links of this gnoll’s"
+      ]
+    ],
+    "919": [
+      [
+        "amazing created skeletal know us",
+        "emaciated skeletal gnolls"
+      ]
+    ],
+    "931": [
+      [
+        "dark",
+        "dart"
+      ]
+    ],
+    "932": [
+      [
+        "while these",
+        "Wellby’s"
+      ]
+    ],
+    "934": [
+      [
+        "Dallas",
+        "Delwath"
+      ]
+    ],
+    "938": [
+      [
+        "hats",
+        "hits"
+      ]
+    ],
+    "940": [
+      [
+        "Pax, Pax",
+        "Hex, Hex"
+      ]
+    ],
+    "949": [
+      [
+        "glaze job",
+        "glaive"
+      ]
+    ],
+    "950": [
+      [
+        "middle",
+        "metal"
+      ],
+      [
+        "place",
+        "glaive"
+      ]
+    ],
+    "951": [
+      [
+        "grave is Madeline",
+        "glaive is metal"
+      ]
+    ],
+    "952": [
+      [
+        "mad. Oh",
+        "metal"
+      ]
+    ],
+    "953": [
+      [
+        "to ensure",
+        "chain shirt"
+      ]
+    ],
+    "955": [
+      [
+        "work almost dad",
+        "look almost dead"
+      ]
+    ],
+    "970": [
+      [
+        "between to the Knowles",
+        "between two of the gnolls"
+      ]
+    ],
+    "976": [
+      [
+        "just two pieces",
+        "just to pieces"
+      ]
+    ],
+    "977": [
+      [
+        "Shadow",
+        "Shatter"
+      ],
+      [
+        "amazing",
+        "emaciated"
+      ]
+    ],
+    "980": [
+      [
+        "dal with",
+        "Delwath"
+      ]
+    ],
+    "981": [
+      [
+        "Messing",
+        "Menacing"
+      ],
+      [
+        "place",
+        "glaive"
+      ]
+    ],
+    "982": [
+      [
+        "While being",
+        "Wellby"
+      ]
+    ],
+    "991": [
+      [
+        "No skeletal",
+        "Gnoll skeletal"
+      ]
+    ],
+    "992": [
+      [
+        "To standing next to doubt with",
+        "Two standing next to Delwath"
+      ]
+    ],
+    "994": [
+      [
+        "Kansas",
+        "Kenzo’s"
+      ]
+    ],
+    "998": [
+      [
+        "scalpel",
+        "skeletal"
+      ]
+    ],
+    "1003": [
+      [
+        "fist up later power",
+        "Fist of Planar Power"
+      ]
+    ],
+    "1009": [
+      [
+        "big know",
+        "big gnoll"
+      ]
+    ],
+    "1013": [
+      [
+        "skeletal know",
+        "skeletal gnoll"
+      ]
+    ],
+    "1014": [
+      [
+        "cans are",
+        "Kenzo"
+      ]
+    ],
+    "1015": [
+      [
+        "down with",
+        "Delwath"
+      ]
+    ],
+    "1017": [
+      [
+        "down with",
+        "Delwath"
+      ]
+    ],
+    "1025": [
+      [
+        "Free",
+        "Three"
+      ]
+    ],
+    "1034": [
+      [
+        "status or goes",
+        "shadow sword glows"
+      ]
+    ],
+    "1037": [
+      [
+        "for",
+        "four"
+      ]
+    ],
+    "1040": [
+      [
+        "forest",
+        "force"
+      ]
+    ],
+    "1041": [
+      [
+        "seeker Europe",
+        "Seeker, you’re up"
+      ]
+    ],
+    "1042": [
+      [
+        "a ones dad does to",
+        "one’s dead. There’s two"
+      ],
+      [
+        "down with",
+        "Delwath"
+      ]
+    ],
+    "1043": [
+      [
+        "Ken's out",
+        "Kenzo"
+      ]
+    ],
+    "1045": [
+      [
+        "Ken's",
+        "Kenzo"
+      ]
+    ],
+    "1047": [
+      [
+        "neural",
+        "gnoll"
+      ]
+    ],
+    "1051": [
+      [
+        "Well, Dave",
+        "Wellby"
+      ]
+    ],
+    "1059": [
+      [
+        "while the",
+        "Wellby"
+      ]
+    ],
+    "1079": [
+      [
+        "Enzo",
+        "Kenzo"
+      ],
+      [
+        "repair",
+        "prepared"
+      ]
+    ],
+    "1081": [
+      [
+        "Massive",
+        "Misses"
+      ]
+    ],
+    "1085": [
+      [
+        "Florida bless",
+        "Flurry of Blows"
+      ]
+    ],
+    "1089": [
+      [
+        "Fans are",
+        "Kenzo"
+      ],
+      [
+        "scalable know",
+        "skeletal gnoll"
+      ]
+    ],
+    "1091": [
+      [
+        "they can actually",
+        "they can’t actually"
+      ]
+    ],
+    "1094": [
+      [
+        "well be killed",
+        "Wellby kill"
+      ]
+    ],
+    "1098": [
+      [
+        "dashing",
+        "gashing"
+      ],
+      [
+        "know bit",
+        "gnoll bit"
+      ]
+    ],
+    "1101": [
+      [
+        "Quicken",
+        "Quickened"
+      ],
+      [
+        "key",
+        "ki"
+      ],
+      [
+        "Wendy four",
+        "1d4"
+      ]
+    ],
+    "1102": [
+      [
+        "key",
+        "ki"
+      ]
+    ],
+    "1106": [
+      [
+        "disciplines",
+        "dust plumes"
+      ]
+    ],
+    "1109": [
+      [
+        "Wendy four",
+        "1d4"
+      ]
+    ],
+    "1110": [
+      [
+        "Windy four",
+        "1d4"
+      ]
+    ],
+    "1113": [
+      [
+        "key",
+        "ki"
+      ]
+    ],
+    "1115": [
+      [
+        "Quick and",
+        "Quickened"
+      ],
+      [
+        "festive planner powers",
+        "Fist of Planar Power is"
+      ]
+    ],
+    "1126": [
+      [
+        "scroll",
+        "stroll"
+      ],
+      [
+        "glade",
+        "glaive"
+      ]
+    ],
+    "1129": [
+      [
+        "claim",
+        "glaive"
+      ]
+    ],
+    "1130": [
+      [
+        "bottles",
+        "battles"
+      ]
+    ],
+    "1131": [
+      [
+        "dealt with dead",
+        "Delwath did"
+      ]
+    ],
+    "1134": [
+      [
+        "positions",
+        "possessions"
+      ]
+    ],
+    "1136": [
+      [
+        "flash",
+        "flesh"
+      ]
+    ],
+    "1145": [
+      [
+        "Noah",
+        "gnolls"
+      ]
+    ],
+    "1146": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ]
+    ],
+    "1147": [
+      [
+        "If it's all",
+        "Raven’s Hold"
+      ]
+    ],
+    "1152": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ]
+    ],
+    "1153": [
+      [
+        "last starving knows",
+        "lost starving gnolls"
+      ]
+    ],
+    "1154": [
+      [
+        "on Dead's",
+        "undead"
+      ]
+    ],
+    "1159": [
+      [
+        "Diana",
+        "dying"
+      ]
+    ],
+    "1181": [
+      [
+        "Kansas",
+        "Kenzo’s"
+      ]
+    ],
+    "1183": [
+      [
+        "longest",
+        "long rest"
+      ]
+    ],
+    "1187": [
+      [
+        "Adoption",
+        "Exhaustion"
+      ]
+    ],
+    "1193": [
+      [
+        "speaker",
+        "Seeker"
+      ]
+    ],
+    "1194": [
+      [
+        "Cairo",
+        "Karawa"
+      ]
+    ],
+    "1195": [
+      [
+        "planes",
+        "plains"
+      ]
+    ],
+    "1198": [
+      [
+        "safe miles",
+        "six miles"
+      ]
+    ],
+    "1205": [
+      [
+        "long grass",
+        "long rest"
+      ]
+    ],
+    "1210": [
+      [
+        "Carolina",
+        "Karawa"
+      ]
+    ],
+    "1213": [
+      [
+        "though with",
+        "Delwath"
+      ]
+    ],
+    "1215": [
+      [
+        "Cara",
+        "Karawa"
+      ]
+    ],
+    "1218": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1220": [
+      [
+        "Kerala",
+        "Karawa"
+      ],
+      [
+        "riding",
+        "running"
+      ]
+    ],
+    "1221": [
+      [
+        "go Matt",
+        "Gomat"
+      ],
+      [
+        "kaka trees does",
+        "cockatrices"
+      ],
+      [
+        "last towards toga",
+        "west towards Tokra"
+      ]
+    ],
+    "1222": [
+      [
+        "Luck, and Miss die",
+        "Lakan Mystai"
+      ],
+      [
+        "chart and",
+        "Chardon"
+      ],
+      [
+        "planes",
+        "plains"
+      ]
+    ],
+    "1223": [
+      [
+        "took off",
+        "Tokra"
+      ]
+    ],
+    "1228": [
+      [
+        "Carol",
+        "Karawa"
+      ]
+    ],
+    "1237": [
+      [
+        "planes",
+        "plains"
+      ]
+    ],
+    "1238": [
+      [
+        "lane line",
+        "ley line"
+      ]
+    ],
+    "1243": [
+      [
+        "care.",
+        "Karawa."
+      ]
+    ],
+    "1245": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1246": [
+      [
+        "Cairo others",
+        "Karawa. There’s"
+      ],
+      [
+        "care. Wow",
+        "Karawa"
+      ]
+    ],
+    "1249": [
+      [
+        "drink Korean",
+        "Drankorian"
+      ]
+    ],
+    "1250": [
+      [
+        "Ok cool so loved him",
+        "Occulta Ludum"
+      ]
+    ],
+    "1266": [
+      [
+        "Carolyn",
+        "Karawa"
+      ]
+    ],
+    "1270": [
+      [
+        "toxins. You talk to us",
+        "tower, since you talked to it"
+      ]
+    ],
+    "1278": [
+      [
+        "to the end beyond",
+        "D&D Beyond"
+      ]
+    ],
+    "1291": [
+      [
+        "secrets",
+        "Seeker’s"
+      ]
+    ],
+    "1303": [
+      [
+        "or kind of",
+        "Arcana"
+      ]
+    ],
+    "1305": [
+      [
+        "Us the",
+        "Use the"
+      ]
+    ],
+    "1307": [
+      [
+        "will be",
+        "Wellby"
+      ]
+    ],
+    "1309": [
+      [
+        "Classroom",
+        "Actual"
+      ]
+    ],
+    "1311": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1313": [
+      [
+        "Gospels",
+        "goggles"
+      ],
+      [
+        "cast it and",
+        "cast Identify"
+      ]
+    ],
+    "1319": [
+      [
+        "chose",
+        "shows"
+      ]
+    ],
+    "1322": [
+      [
+        "Raven soul",
+        "Raven’s Hold"
+      ]
+    ],
+    "1325": [
+      [
+        "depth water",
+        "death water"
+      ],
+      [
+        "Raven salt",
+        "Raven’s Hold"
+      ]
+    ],
+    "1326": [
+      [
+        "gets shifted here for the homeless",
+        "good shit here for the mirror"
+      ]
+    ],
+    "1329": [
+      [
+        "Captain",
+        "cap’s an"
+      ]
+    ],
+    "1332": [
+      [
+        "I am a charge",
+        "it might charge"
+      ],
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1341": [
+      [
+        "acidic occurs",
+        "acidic ichor"
+      ]
+    ],
+    "1343": [
+      [
+        "nodes",
+        "gnolls"
+      ]
+    ],
+    "1344": [
+      [
+        "Ravens hold",
+        "Raven’s Hold"
+      ]
+    ],
+    "1346": [
+      [
+        "Jim",
+        "gem"
+      ]
+    ],
+    "1347": [
+      [
+        "God",
+        "Agata"
+      ]
+    ],
+    "1350": [
+      [
+        "dollars",
+        "Delwath"
+      ]
+    ],
+    "1352": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ]
+    ],
+    "1355": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ]
+    ],
+    "1357": [
+      [
+        "kind of says bill",
+        "cast the spell"
+      ]
+    ],
+    "1363": [
+      [
+        "tag. Our",
+        "Taelgar"
+      ]
+    ],
+    "1365": [
+      [
+        "chicken",
+        "Shakun"
+      ]
+    ],
+    "1374": [
+      [
+        "will her past this",
+        "who cast this"
+      ]
+    ],
+    "1378": [
+      [
+        "past",
+        "cast"
+      ]
+    ],
+    "1381": [
+      [
+        "the snow",
+        "this now"
+      ]
+    ],
+    "1403": [
+      [
+        "idea, where does",
+        "item, or does"
+      ]
+    ],
+    "1420": [
+      [
+        "every school",
+        "ivory scroll"
+      ]
+    ],
+    "1422": [
+      [
+        "cab",
+        "cap"
+      ]
+    ],
+    "1429": [
+      [
+        "join us",
+        "show us"
+      ]
+    ],
+    "1430": [
+      [
+        "skullcap",
+        "scroll cap"
+      ]
+    ],
+    "1431": [
+      [
+        "That was",
+        "Delwath"
+      ]
+    ],
+    "1438": [
+      [
+        "jack",
+        "check"
+      ]
+    ],
+    "1441": [
+      [
+        "roll at the sex",
+        "rolled a six"
+      ]
+    ],
+    "1458": [
+      [
+        "chance",
+        "chant"
+      ]
+    ],
+    "1464": [
+      [
+        "I recap of this school",
+        "ivory cap of the scroll"
+      ]
+    ],
+    "1474": [
+      [
+        "reach him",
+        "reach in"
+      ],
+      [
+        "make it",
+        "make out"
+      ],
+      [
+        "black love",
+        "black glove"
+      ]
+    ],
+    "1479": [
+      [
+        "Barb's",
+        "barbed"
+      ]
+    ],
+    "1481": [
+      [
+        "cleanses us fist",
+        "clenches its fist"
+      ],
+      [
+        "America is",
+        "mirror goes"
+      ]
+    ],
+    "1482": [
+      [
+        "Ravens whole",
+        "Raven’s Hold"
+      ],
+      [
+        "sale",
+        "tail"
+      ]
+    ],
+    "1484": [
+      [
+        "D. Many",
+        "demony"
+      ]
+    ],
+    "1486": [
+      [
+        "recommend",
+        "recognize it"
+      ]
+    ],
+    "1500": [
+      [
+        "oh",
+        "old"
+      ]
+    ],
+    "1503": [
+      [
+        "In describing spouse",
+        "Inscribing spells"
+      ],
+      [
+        "flash",
+        "flesh"
+      ]
+    ],
+    "1522": [
+      [
+        "our Connor",
+        "Arcana"
+      ]
+    ],
+    "1525": [
+      [
+        "our content",
+        "Arcana"
+      ]
+    ],
+    "1530": [
+      [
+        "Dog down with",
+        "Delwath"
+      ]
+    ],
+    "1534": [
+      [
+        "dealt with",
+        "Delwath"
+      ]
+    ],
+    "1544": [
+      [
+        "toggle",
+        "Taelgar"
+      ],
+      [
+        "the best",
+        "the Abyss"
+      ],
+      [
+        "nine house",
+        "Nine Hells"
+      ]
+    ],
+    "1548": [
+      [
+        "nine hills",
+        "Nine Hells"
+      ]
+    ],
+    "1549": [
+      [
+        "nine house",
+        "Nine Hells"
+      ]
+    ],
+    "1550": [
+      [
+        "infinite of best",
+        "infinite Abyss"
+      ],
+      [
+        "nine house",
+        "Nine Hells"
+      ]
+    ],
+    "1551": [
+      [
+        "nine house",
+        "Nine Hells"
+      ]
+    ],
+    "1561": [
+      [
+        "plane of magic Costa",
+        "Plane of Magic, also"
+      ]
+    ],
+    "1564": [
+      [
+        "Oracle",
+        "our occult"
+      ],
+      [
+        "having intersects with how",
+        "heaven intersects with hell"
+      ]
+    ],
+    "1569": [
+      [
+        "Enzo",
+        "Kenzo"
+      ],
+      [
+        "visa",
+        "views of"
+      ]
+    ],
+    "1573": [
+      [
+        "done from the lock and mysteries",
+        "from the Lakan Mystai"
+      ]
+    ],
+    "1579": [
+      [
+        "charge, and",
+        "Chardon"
+      ]
+    ],
+    "1582": [
+      [
+        "locking",
+        "Lakan"
+      ]
+    ],
+    "1585": [
+      [
+        "tag are",
+        "Taelgar"
+      ],
+      [
+        "Fei Fei round the FE wild of the flake",
+        "fey—fey realm, the Feywild, of the fey"
+      ]
+    ],
+    "1586": [
+      [
+        "fake",
+        "fey"
+      ]
+    ],
+    "1587": [
+      [
+        "how the nine house",
+        "hell, the Nine Hells"
+      ]
+    ],
+    "1588": [
+      [
+        "Eyeball area",
+        "Arborea"
+      ]
+    ],
+    "1592": [
+      [
+        "rounds",
+        "realms"
+      ]
+    ],
+    "1594": [
+      [
+        "Dealt with",
+        "Delwath"
+      ]
+    ],
+    "1595": [
+      [
+        "a wild",
+        "Feywild"
+      ],
+      [
+        "town are",
+        "Taelgar"
+      ],
+      [
+        "plane and magic",
+        "Plane of Magic"
+      ]
+    ],
+    "1596": [
+      [
+        "plane a magic",
+        "Plane of Magic"
+      ]
+    ],
+    "1603": [
+      [
+        "Knoll",
+        "gnoll"
+      ]
+    ],
+    "1607": [
+      [
+        "community and explores the point",
+        "commune and explore, is the Plane"
+      ]
+    ],
+    "1614": [
+      [
+        "Kansas",
+        "Kenzo’s"
+      ]
+    ],
+    "1617": [
+      [
+        "room",
+        "rune"
+      ]
+    ],
+    "1623": [
+      [
+        "rooms",
+        "runes"
+      ]
+    ],
+    "1624": [
+      [
+        "ninth house",
+        "Nine Hells"
+      ]
+    ],
+    "1626": [
+      [
+        "ruined sold",
+        "Raven’s Hold"
+      ]
+    ],
+    "1629": [
+      [
+        "Organizing",
+        "Or using"
+      ]
+    ],
+    "1634": [
+      [
+        "see care",
+        "Seeker"
+      ]
+    ],
+    "1638": [
+      [
+        "dwarfing",
+        "dwarven"
+      ]
+    ],
+    "1640": [
+      [
+        "Family femoral",
+        "Ephemeral"
+      ]
+    ],
+    "1641": [
+      [
+        "fervent dwarfing",
+        "For the dwarven"
+      ]
+    ],
+    "1642": [
+      [
+        "bars all day",
+        "Bahrazel, they"
+      ]
+    ],
+    "1645": [
+      [
+        "dwarf",
+        "dwarven"
+      ]
+    ],
+    "1650": [
+      [
+        "nine house",
+        "Nine Hells"
+      ]
+    ],
+    "1668": [
+      [
+        "know",
+        "no"
+      ]
+    ],
+    "1669": [
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "1670": [
+      [
+        "Stevens from another planet",
+        "of demons from another plane"
+      ]
+    ],
+    "1672": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ],
+      [
+        "done more",
+        "Dunmar"
+      ]
+    ],
+    "1673": [
+      [
+        "corruptions I'm kind",
+        "corruption, some kind"
+      ]
+    ],
+    "1675": [
+      [
+        "Past Jillian's",
+        "Pestilence"
+      ],
+      [
+        "blood loss",
+        "bloodlust"
+      ]
+    ],
+    "1680": [
+      [
+        "blood lost",
+        "bloodlust"
+      ]
+    ],
+    "1683": [
+      [
+        "actor",
+        "act or"
+      ]
+    ],
+    "1688": [
+      [
+        "majors",
+        "mages"
+      ],
+      [
+        "plans",
+        "planes"
+      ]
+    ],
+    "1700": [
+      [
+        "Knowles",
+        "gnoll"
+      ],
+      [
+        "know rampage",
+        "gnoll rampage"
+      ]
+    ],
+    "1757": [
+      [
+        "d&d VR",
+        "D&D Beyond"
+      ]
+    ],
+    "1765": [
+      [
+        "was his favorite",
+        "owe us a favor"
+      ],
+      [
+        "as eyes",
+        "his eyes"
+      ]
+    ],
+    "1771": [
+      [
+        "find castles and clicking diets",
+        "flying castles and fucking giants"
+      ]
+    ],
+    "1775": [
+      [
+        "Dawn",
+        "dawns"
+      ]
+    ],
+    "1777": [
+      [
+        "reins",
+        "rains"
+      ]
+    ],
+    "1778": [
+      [
+        "Kara",
+        "Karawa"
+      ]
+    ],
+    "1779": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1781": [
+      [
+        "maze",
+        "mesa"
+      ],
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1782": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1788": [
+      [
+        "Clinging",
+        "Clinking"
+      ]
+    ],
+    "1792": [
+      [
+        "hearts",
+        "huts"
+      ],
+      [
+        "sugar",
+        "Shakun"
+      ],
+      [
+        "may set South",
+        "mesa itself"
+      ]
+    ],
+    "1794": [
+      [
+        "carola",
+        "Karawa"
+      ]
+    ],
+    "1796": [
+      [
+        "caravan sir, I",
+        "caravanserai"
+      ],
+      [
+        "what, in parts",
+        "wooden parts"
+      ]
+    ],
+    "1805": [
+      [
+        "For",
+        "Four"
+      ]
+    ],
+    "1806": [
+      [
+        "hell",
+        "hill"
+      ],
+      [
+        "to done Marty",
+        "two Dunmari"
+      ],
+      [
+        "have dark",
+        "Havdar"
+      ]
+    ],
+    "1807": [
+      [
+        "toker",
+        "Tokra"
+      ]
+    ],
+    "1808": [
+      [
+        "centers",
+        "centaurs"
+      ],
+      [
+        "Donmar a",
+        "Dunmari"
+      ]
+    ],
+    "1809": [
+      [
+        "halfway",
+        "halfling"
+      ]
+    ],
+    "1811": [
+      [
+        "a half hour",
+        "Havdar"
+      ]
+    ],
+    "1813": [
+      [
+        "To be recognized as some harsh",
+        "Do we recognize the centaurs"
+      ]
+    ],
+    "1816": [
+      [
+        "centers",
+        "centaurs"
+      ]
+    ],
+    "1818": [
+      [
+        "centers",
+        "centaurs"
+      ]
+    ],
+    "1819": [
+      [
+        "Foreign dresses sent our",
+        "Tharandros’s centaur"
+      ],
+      [
+        "care.",
+        "Karawa."
+      ]
+    ],
+    "1820": [
+      [
+        "To my soul site, I'm off dark",
+        "Do my Soul Sight on Havdar"
+      ]
+    ],
+    "1823": [
+      [
+        "soul site",
+        "Soul Sight"
+      ],
+      [
+        "center",
+        "centaur"
+      ]
+    ],
+    "1826": [
+      [
+        "Have theirs or",
+        "Havdar’s aura"
+      ]
+    ],
+    "1827": [
+      [
+        "can dress and a lash",
+        "Candrosa and Alesh"
+      ]
+    ],
+    "1829": [
+      [
+        "Starting roses",
+        "Stars and roses"
+      ],
+      [
+        "terroir",
+        "Karawa"
+      ]
+    ],
+    "1834": [
+      [
+        "for Andreas",
+        "Tharandros"
+      ]
+    ],
+    "1837": [
+      [
+        "Hopper",
+        "Havdar"
+      ],
+      [
+        "until now",
+        "in Tokra"
+      ]
+    ],
+    "1838": [
+      [
+        "Tokyo",
+        "Tokra"
+      ]
+    ],
+    "1841": [
+      [
+        "laughed",
+        "left"
+      ]
+    ],
+    "1852": [
+      [
+        "centers",
+        "centaurs"
+      ]
+    ],
+    "1853": [
+      [
+        "hard guys",
+        "Havdar is"
+      ],
+      [
+        "after Andreas",
+        "Tharandros"
+      ],
+      [
+        "president",
+        "present"
+      ]
+    ],
+    "1855": [
+      [
+        "with and and cancerous",
+        "with Alesh and Candrosa"
+      ]
+    ],
+    "1856": [
+      [
+        "Tumor the",
+        "Tim, are the"
+      ],
+      [
+        "sent our grapes",
+        "centaur graves"
+      ]
+    ],
+    "1857": [
+      [
+        "sent our grades",
+        "centaur graves"
+      ]
+    ],
+    "1863": [
+      [
+        "Crumbs",
+        "Ikram’s"
+      ]
+    ],
+    "1866": [
+      [
+        "AG remedy",
+        "agreement"
+      ]
+    ],
+    "1868": [
+      [
+        "down with",
+        "Delwath"
+      ]
+    ],
+    "1877": [
+      [
+        "Through an into the template South",
+        "Through and into the temple itself"
+      ]
+    ],
+    "1878": [
+      [
+        "have Dr.",
+        "Havdar"
+      ]
+    ],
+    "1880": [
+      [
+        "Throw Andres",
+        "Tharandros"
+      ]
+    ],
+    "1883": [
+      [
+        "A lash and can dress up",
+        "Alesh and Candrosa"
+      ]
+    ],
+    "1884": [
+      [
+        "show could",
+        "Shakun"
+      ]
+    ],
+    "1886": [
+      [
+        "Kendra's",
+        "Candrosa"
+      ]
+    ],
+    "1888": [
+      [
+        "I he knows",
+        "hyenas"
+      ]
+    ],
+    "1892": [
+      [
+        "picture",
+        "pitcher"
+      ]
+    ],
+    "1894": [
+      [
+        "Kendra and a lash",
+        "Candrosa and Alesh"
+      ]
+    ],
+    "1900": [
+      [
+        "Kendra Rosa",
+        "Candrosa"
+      ]
+    ],
+    "1907": [
+      [
+        "jumping up the latest",
+        "jumping at the lightest"
+      ]
+    ],
+    "1908": [
+      [
+        "A lash",
+        "Alesh"
+      ]
+    ],
+    "1911": [
+      [
+        "Kansas",
+        "Kenzo’s"
+      ]
+    ],
+    "1912": [
+      [
+        "travel stay in close",
+        "travel-stained clothes"
+      ]
+    ],
+    "1915": [
+      [
+        "Can't Rosa",
+        "Candrosa"
+      ]
+    ],
+    "1920": [
+      [
+        "novel's",
+        "gnolls"
+      ]
+    ],
+    "1921": [
+      [
+        "nose",
+        "gnolls"
+      ]
+    ],
+    "1933": [
+      [
+        "caravans Ryan",
+        "caravanserai"
+      ]
+    ],
+    "1939": [
+      [
+        "Kerala",
+        "Karawa"
+      ]
+    ],
+    "1958": [
+      [
+        "huff's",
+        "hooves"
+      ]
+    ],
+    "1960": [
+      [
+        "have dar",
+        "Havdar"
+      ],
+      [
+        "plate",
+        "plight"
+      ]
+    ],
+    "1967": [
+      [
+        "Knows",
+        "Gnolls"
+      ]
+    ],
+    "1981": [
+      [
+        "Patrick Byrne",
+        "pass the word"
+      ],
+      [
+        "can dress",
+        "Candrosa"
+      ]
+    ],
+    "1985": [
+      [
+        "into ours",
+        "centaurs"
+      ]
+    ],
+    "1986": [
+      [
+        "can dress with",
+        "Candrosa"
+      ]
+    ],
+    "1987": [
+      [
+        "Descent tires",
+        "The centaurs"
+      ]
+    ],
+    "1993": [
+      [
+        "can dress",
+        "Candrosa"
+      ],
+      [
+        "set us apart",
+        "sent the centaurs"
+      ]
+    ],
+    "2001": [
+      [
+        "For address",
+        "Tharandros"
+      ]
+    ],
+    "2018": [
+      [
+        "Because they'll",
+        "Kenzo"
+      ],
+      [
+        "last",
+        "laughs"
+      ]
+    ],
+    "2024": [
+      [
+        "a das",
+        "aid us"
+      ]
+    ],
+    "2025": [
+      [
+        "carola",
+        "Karawa"
+      ],
+      [
+        "enter Kuhn",
+        "and Shakun"
+      ]
+    ],
+    "2026": [
+      [
+        "alas",
+        "Alesh"
+      ],
+      [
+        "and patiently",
+        "impatiently"
+      ]
+    ],
+    "2027": [
+      [
+        "Sleeps up is",
+        "Speaks up, says"
+      ]
+    ],
+    "2039": [
+      [
+        "had it, pass, pass, pass data",
+        "headed past, past Bas Udda"
+      ]
+    ],
+    "2040": [
+      [
+        "a tightly. Avoid",
+        "entirely avoid"
+      ]
+    ],
+    "2041": [
+      [
+        "knowledge",
+        "gnolls"
+      ]
+    ],
+    "2042": [
+      [
+        "have dire have Doris",
+        "Havdar—Havdar is"
+      ],
+      [
+        "things",
+        "thinks"
+      ]
+    ],
+    "2043": [
+      [
+        "Tokyo",
+        "Tokra"
+      ]
+    ],
+    "2044": [
+      [
+        "South Sudan ruins",
+        "Saw the town in ruins"
+      ],
+      [
+        "Carson",
+        "Kharsan"
+      ]
+    ],
+    "2047": [
+      [
+        "tractor",
+        "Kharja"
+      ]
+    ],
+    "2061": [
+      [
+        "Car Joe",
+        "Kharja"
+      ]
+    ],
+    "2062": [
+      [
+        "nyan",
+        "Nayan"
+      ]
+    ],
+    "2079": [
+      [
+        "of bed and washed",
+        "a bit and watched"
+      ]
+    ],
+    "2085": [
+      [
+        "steaming thurs seeming",
+        "seeing"
+      ],
+      [
+        "Carson",
+        "Kharsan"
+      ]
+    ],
+    "2088": [
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "2094": [
+      [
+        "Carson's",
+        "Kharsan’s"
+      ],
+      [
+        "garden Jolla",
+        "Garamjala"
+      ]
+    ],
+    "2098": [
+      [
+        "no beasts",
+        "gnoll beasts"
+      ]
+    ],
+    "2100": [
+      [
+        "Flash",
+        "Flesh"
+      ]
+    ],
+    "2101": [
+      [
+        "To carrying",
+        "Decaying"
+      ]
+    ],
+    "2102": [
+      [
+        "hit out",
+        "hid out"
+      ]
+    ],
+    "2104": [
+      [
+        "current Java",
+        "Garamjala"
+      ]
+    ],
+    "2110": [
+      [
+        "term a lot of",
+        "Garamjala"
+      ]
+    ],
+    "2114": [
+      [
+        "got scored it scouting",
+        "scouting"
+      ],
+      [
+        "garbage. All",
+        "Garamjala"
+      ]
+    ],
+    "2116": [
+      [
+        "novels",
+        "gnolls"
+      ]
+    ],
+    "2119": [
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "2134": [
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "2135": [
+      [
+        "Center, be",
+        "Shouldn’t there be"
+      ]
+    ],
+    "2142": [
+      [
+        "Carson",
+        "Kharsan"
+      ]
+    ],
+    "2149": [
+      [
+        "Alicia",
+        "Alesh"
+      ],
+      [
+        "comes up",
+        "Kenzo"
+      ]
+    ],
+    "2150": [
+      [
+        "noles",
+        "gnolls"
+      ]
+    ],
+    "2152": [
+      [
+        "alleged",
+        "Alesh"
+      ],
+      [
+        "Raven household",
+        "Raven’s Hold"
+      ],
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "2155": [
+      [
+        "no Victor's",
+        "gnoll vectors"
+      ]
+    ],
+    "2159": [
+      [
+        "Fan",
+        "Band"
+      ],
+      [
+        "Knowles",
+        "gnolls"
+      ]
+    ],
+    "2162": [
+      [
+        "noles",
+        "gnolls"
+      ]
+    ],
+    "2166": [
+      [
+        "ravens hold",
+        "Raven’s Hold"
+      ],
+      [
+        "carola",
+        "Karawa"
+      ],
+      [
+        "bass Judah",
+        "Bas Udda"
+      ],
+      [
+        "lashes",
+        "Alesh"
+      ],
+      [
+        "era",
+        "arrow"
+      ]
+    ],
+    "2168": [
+      [
+        "lashes",
+        "Alesh’s"
+      ],
+      [
+        "Carson",
+        "Kharsan"
+      ],
+      [
+        "muscles",
+        "gnolls"
+      ]
+    ],
+    "2170": [
+      [
+        "Popped our",
+        "Havdar"
+      ]
+    ],
+    "2172": [
+      [
+        "Timmy Christopher trust",
+        "Tim, the cursed fortress"
+      ]
+    ],
+    "2174": [
+      [
+        "animals",
+        "gnolls"
+      ]
+    ],
+    "2176": [
+      [
+        "dealt with",
+        "Delwath"
+      ]
+    ],
+    "2178": [
+      [
+        "chicken",
+        "Shakun"
+      ],
+      [
+        "finished",
+        "vanished"
+      ]
+    ],
+    "2181": [
+      [
+        "Chicago",
+        "Shakun"
+      ]
+    ],
+    "2185": [
+      [
+        "production",
+        "protection"
+      ]
+    ],
+    "2189": [
+      [
+        "Carson",
+        "Kharsan"
+      ]
+    ],
+    "2193": [
+      [
+        "Kendra, sir",
+        "Candrosa"
+      ]
+    ],
+    "2205": [
+      [
+        "now",
+        "know"
+      ]
+    ],
+    "2206": [
+      [
+        "Show Coons",
+        "Shakun’s"
+      ]
+    ],
+    "2209": [
+      [
+        "cocoon",
+        "Shakun"
+      ]
+    ],
+    "2213": [
+      [
+        "done more",
+        "Dunmar"
+      ],
+      [
+        "Kenyan",
+        "canyon"
+      ]
+    ],
+    "2214": [
+      [
+        "can dress",
+        "Candrosa"
+      ]
+    ],
+    "2220": [
+      [
+        "Sure Coons",
+        "Shakun’s"
+      ]
+    ],
+    "2222": [
+      [
+        "Shortcomings",
+        "Shakun’s"
+      ]
+    ],
+    "2229": [
+      [
+        "Dallas",
+        "Delwath"
+      ]
+    ],
+    "2232": [
+      [
+        "Should Coons cease",
+        "Shakun ceased"
+      ]
+    ],
+    "2235": [
+      [
+        "felt",
+        "fell"
+      ]
+    ],
+    "2243": [
+      [
+        "Kendra",
+        "Candrosa"
+      ]
+    ],
+    "2247": [
+      [
+        "garden jolla",
+        "Garamjala"
+      ]
+    ],
+    "2249": [
+      [
+        "Had",
+        "Head"
+      ]
+    ],
+    "2251": [
+      [
+        "Had",
+        "Head"
+      ]
+    ],
+    "2253": [
+      [
+        "always sees",
+        "oases"
+      ]
+    ],
+    "2256": [
+      [
+        "In Congress Lee",
+        "Incongruously"
+      ]
+    ],
+    "2258": [
+      [
+        "shouting",
+        "sheltering"
+      ]
+    ],
+    "2261": [
+      [
+        "see",
+        "seed"
+      ]
+    ],
+    "2262": [
+      [
+        "pick pack that",
+        "pecked at"
+      ]
+    ],
+    "2269": [
+      [
+        "fad",
+        "fed"
+      ]
+    ],
+    "2272": [
+      [
+        "leader",
+        "looter"
+      ]
+    ],
+    "2273": [
+      [
+        "Guys are",
+        "Kenzo"
+      ]
+    ],
+    "2282": [
+      [
+        "I have strong bad",
+        "A straw bed"
+      ]
+    ],
+    "2292": [
+      [
+        "Is that a goddess mother",
+        "that said Agata Dustmother"
+      ]
+    ],
+    "2297": [
+      [
+        "our tribes",
+        "orc tribes"
+      ],
+      [
+        "planes",
+        "plains"
+      ],
+      [
+        "done. Murray",
+        "Dunmari"
+      ],
+      [
+        "Maha",
+        "Mahar"
+      ],
+      [
+        "or tribes",
+        "orc tribes"
+      ]
+    ],
+    "2307": [
+      [
+        "To Oryx",
+        "Two orc"
+      ]
+    ],
+    "2314": [
+      [
+        "Works",
+        "Orcs"
+      ]
+    ],
+    "2315": [
+      [
+        "there were only on the left",
+        "they were on the map"
+      ]
+    ],
+    "2321": [
+      [
+        "Then you're",
+        "Near"
+      ]
+    ],
+    "2323": [
+      [
+        "bass Udo",
+        "Bas Udda"
+      ]
+    ],
+    "2326": [
+      [
+        "last",
+        "west"
+      ]
+    ],
+    "2331": [
+      [
+        "orc court",
+        "orc horde"
+      ]
+    ],
+    "2338": [
+      [
+        "Can dress",
+        "Candrosa"
+      ],
+      [
+        "a gotta dust mother",
+        "Agata Dustmother"
+      ]
+    ],
+    "2339": [
+      [
+        "Dust mother",
+        "Dustmother"
+      ]
+    ],
+    "2341": [
+      [
+        "a gotta",
+        "Agata"
+      ]
+    ],
+    "2350": [
+      [
+        "Elvis schumer",
+        "elvish humor"
+      ]
+    ],
+    "2356": [
+      [
+        "bass EDA",
+        "Bas Udda"
+      ],
+      [
+        "challah",
+        "Garamjala"
+      ]
+    ],
+    "2371": [
+      [
+        "second",
+        "sick and"
+      ]
+    ],
+    "2373": [
+      [
+        "push",
+        "potion"
+      ],
+      [
+        "and exchange",
+        "in exchange"
+      ]
+    ]
+  }
+}

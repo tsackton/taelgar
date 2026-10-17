@@ -9,6 +9,7 @@ name: Geo
 affiliations:
   - {org: Adventurers of Mawar, title: Companion}
 knownTo: [mawar]
+player: David Kong
 dm_owner: player
 dm_notes: none
 POV: 1749

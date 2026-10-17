@@ -14,6 +14,7 @@ whereabouts:
   - {type: home, start: 1747-04-08, end: 1747-12-01, location: Voltara}
   - {type: away, start: 1747-11-22, end: 9999, location: Sentinel Range}
 knownTo: [grli]
+player: Gabe Raiche
 dm_owner: tim
 dm_notes: none
 POV: 1747

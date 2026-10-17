@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-15",
+  "inferredEnd": "1748-04-16",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start in the tower",
+      "date": "1748-04-15",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors April 15. u0131–u0137 confirms it is still night with the Fox and Hunter overhead; u0002 refers back to entering the storm earlier that afternoon.",
+      "beatId": "beat-001",
+      "sourceText": "It was only a few days ago that you were all camped in peace outside Raven’s Hold after defeating a demon in that holdfast and seemingly clearing the land of its demonic presence."
+    },
+    {
+      "uid": "u0492",
+      "label": "About twenty minutes of searching",
+      "date": "1748-04-15",
+      "time": "night; about twenty minutes into the search",
+      "basis": "explicit",
+      "evidence": "u0492: “about 20 minutes so far.” This is an elapsed-time cue, not a new date.",
+      "beatId": "beat-002",
+      "sourceText": "So we know it's about 20 minutes so far."
+    },
+    {
+      "uid": "u0720",
+      "label": "Parallel searches and reading completed",
+      "date": "1748-04-15",
+      "time": "night; a further search/read interval",
+      "basis": "explicit",
+      "evidence": "u0720 describes 15–20 minutes of Delwath’s reading; u0772–u0777 reconvenes the party after about twenty minutes. Parallel activity is not added as separate elapsed intervals.",
+      "beatId": "beat-003",
+      "sourceText": "Returning back to the library. We're now so first Delwath in the, in the, like 15–20 minutes that you've been reading focusing on the storm giants. I'm"
+    },
+    {
+      "uid": "u0934",
+      "label": "Ten-minute fey-sight examination",
+      "date": "1748-04-15",
+      "time": "night; ten-minute examination",
+      "basis": "explicit",
+      "evidence": "u0934 spends ten minutes to inspect the room with fey sight; u0940–u0965 gives the result.",
+      "beatId": "beat-004",
+      "sourceText": "Pocket the goggles. I'm going to take 10 minutes to look again with fey sight"
+    },
+    {
+      "uid": "u1101",
+      "label": "One-minute opening beneath the door",
+      "date": "1748-04-15",
+      "time": "night; one-minute spell window",
+      "basis": "explicit",
+      "evidence": "u1101–u1103 establishes a one-minute duration; u1112 and u1120–u1122 resolves extraction before the spell ends.",
+      "beatId": "beat-004",
+      "sourceText": "What's the duration of Enlarge/Reduce"
+    },
+    {
+      "uid": "u1847",
+      "label": "Lucidity fails; departure becomes urgent",
+      "date": "1748-04-15",
+      "time": "night; exact elapsed delay unknown",
+      "basis": "inferred",
+      "evidence": "u1847 the Fox and Hunter starts fading; u1850 Kenzo warns it is time to go. No rest was completed and the earlier waiting has no exact duration.",
+      "beatId": "beat-008",
+      "sourceText": "Fox and Hunter is beginning to fade from the sky. I"
+    },
+    {
+      "uid": "u1977",
+      "label": "Night travel into the storm",
+      "date": "1748-04-15",
+      "time": "night; travel duration becomes uncertain",
+      "basis": "explicit",
+      "evidence": "u1977 explicitly says it is night. u2018–u2023 describes disorientation and uncertainty about minutes versus hours, not a definite multi-day jump.",
+      "beatId": "beat-008",
+      "sourceText": "All of your it's night. Right. So I assume you have like a driftglobe or a torch."
+    },
+    {
+      "uid": "u2024",
+      "label": "Emergence at dawn on the next day",
+      "date": "1748-04-16",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "u2024 explicitly emerges into morning, reinforced by dawn at u2040–u2047. u2048–u2053 expresses subjective uncertainty; Vola’s answer “just a day” at u2161–u2162 supports the next morning and matches drEnd.",
+      "beatId": "beat-009",
+      "sourceText": "you stumble out into the light of morning"
+    },
+    {
+      "uid": "u2150",
+      "label": "Return to camp after circling the storm",
+      "date": "1748-04-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u2070–u2072 estimates a walk of a few hours; u2143–u2155 narrates the return and Vola packing breakfast. u2431–u2432 still calls it a clear morning and a young day. The private conversation at u2201–u2204 is explicitly retroactively placed during this approach.",
+      "beatId": "beat-009",
+      "sourceText": "And yes, as you come to camp. You see Vola. Vola is like"
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+      "sha256": "4984960c588809da59e9f132d0d8158d229031b0a51f7dbb2d4e3aa86b120d29"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-beats.json",
+      "sha256": "1daabac6beaa2c14dcfc0176361afb21bb937f28123210af35ba3ca6a3156ec2"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-beat-facts.json",
+      "sha256": "88df8881878a72577d8f6897f110bbb23642fbb416ce259ac1bbf1480e4bd6ae"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-source-cleaned.md",
+      "sha256": "b005ed6085891b5db5bbf8be4527200a57cb99491541371b3be5d28083d163a6"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-timeline-evidence.json",
+      "sha256": "8d9932c1ade0b963f3b01f0c2a8aa81e282cbfe0796435b9e273556f3d20ec61"
+    }
+  }
+}

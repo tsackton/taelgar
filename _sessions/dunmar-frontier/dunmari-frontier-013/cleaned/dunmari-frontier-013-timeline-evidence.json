@@ -1,0 +1,56 @@
+{
+  "inferredStart": "1748-04-13",
+  "inferredEnd": "1748-04-13",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: late breakfast",
+      "date": "1748-04-13",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors 1748-04-13. u0002–u0011 describe a late breakfast after the gnoll battle earlier that morning. u0005 recalls yesterday’s demon fight; it is not a time transition."
+    },
+    {
+      "uid": "u1506",
+      "label": "Bridge approach: late morning, nearing noon",
+      "date": "1748-04-13",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1506 gives about 10:30–11; u1508 says it is still morning before lunch, and u1514 says it is approaching noon. u1463–u1473 discuss a prior long rest and explicitly deny a new one since the gnoll fight."
+    },
+    {
+      "uid": "u1769",
+      "label": "Battle and cleansing around midday",
+      "date": "1748-04-13",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1769 starts the fight after the uninterrupted bridge investigation. Around midday is an approximate inference from the near-noon approach in u1506–u1514, not an explicit clock reading; the immediate aftermath follows without a rest."
+    },
+    {
+      "uid": "u2322",
+      "label": "Animal rescue on the same day",
+      "date": "1748-04-13",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u2322 returns the party to the castle after cleansing the river. u2360 proposes dawn tomorrow as part of an instruction, but u2393–u2422 narrate the animals leaving immediately and Wellby accompanying them before returning. No overnight passage is narrated; the same-day afternoon return to the horses follows at u2624."
+    },
+    {
+      "uid": "u2624",
+      "label": "Return to the horses",
+      "date": "1748-04-13",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u2624 explicitly says that they return in the afternoon; u2630–u2638 identify the horses, camp, and equipment outside the secret entrance."
+    },
+    {
+      "uid": "u2642",
+      "label": "Ride south and make evening camp",
+      "date": "1748-04-13",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2641–u2644 describe riding south for a few hours to camp for the evening and ending the session there. There is no subsequent overnight rest or next-day action."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

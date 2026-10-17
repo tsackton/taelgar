@@ -15,6 +15,7 @@ whereabouts:
   - {type: home, start: 1747-04-08, end: 1747-10-06, location: Voltara}
   - {type: home, start: 1747-10-06, location: Tempest Towers}
 knownTo: [grli]
+player: Sasha Rosan
 dm_owner: player
 dm_notes: none
 POV: 1747

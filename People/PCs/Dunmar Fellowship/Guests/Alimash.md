@@ -8,7 +8,7 @@ species: human
 ancestry: null
 born: null
 gender: male
-player: null
+player: John Leeker
 name: Alimash
 affiliations:
   - {org: Dunmar Fellowship, title: Guest}

@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-013/cleaned/dunmari-frontier-013-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Searching the Ruined Barracks",
+      "startUid": "u0001",
+      "endUid": "u0234",
+      "lineCount": 234,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening breakfast and plans lead into the first search party’s exploration of the ruined barracks; the next beat cuts to the other search party.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "u0002–u0011 open at a late breakfast after the morning’s gnoll battle."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Weapons, Locks, and a Locket",
+      "startUid": "u0235",
+      "endUid": "u0537",
+      "lineCount": 303,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The focus shifts to the better-preserved building, its weapons and locked storeroom, while the reunited party examines the locket and opens the lock.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Continuous exploration after breakfast; u1506–u1514 explicitly place the bridge approach at about 10:30–11, approaching noon."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "The Storeroom and the Valley",
+      "startUid": "u0538",
+      "endUid": "u0699",
+      "lineCount": 162,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening the storeroom reveals its contents; the party also examines the valley’s magical corruption and the nearby ley lines.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Continuous exploration after breakfast; u1506–u1514 explicitly place the bridge approach at about 10:30–11, approaching noon."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Dividing the Magical Treasures",
+      "startUid": "u0700",
+      "endUid": "u0864",
+      "lineCount": 165,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Riswynn shares the results of identification, and the group allocates the magical equipment before turning to the logbook.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Continuous exploration after breakfast; u1506–u1514 explicitly place the bridge approach at about 10:30–11, approaching noon."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Hobgoblin Records and Shadow Words",
+      "startUid": "u0865",
+      "endUid": "u1222",
+      "lineCount": 358,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Delwath reads the hobgoblin records; gathering the remaining treasure leads to discussion of the words he saw in shadow and his imprisonment.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Continuous exploration after breakfast; u1506–u1514 explicitly place the bridge approach at about 10:30–11, approaching noon."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Sampling the Tainted Water",
+      "startUid": "u1223",
+      "endUid": "u1380",
+      "lineCount": 158,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The immediate question changes from loot and history to investigating the courtyard mists and deciding how to rescue the animals.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Continuous exploration after breakfast; u1506–u1514 explicitly place the bridge approach at about 10:30–11, approaching noon."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "The Circle beside the Bridge",
+      "startUid": "u1381",
+      "endUid": "u1768",
+      "lineCount": 388,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party leaves the castle for the valley, locates the source of corruption, and investigates the Abyssal runes before disturbing them.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Continuous exploration after breakfast; u1506–u1514 explicitly place the bridge approach at about 10:30–11, approaching noon."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Battle with the Vine Creature",
+      "startUid": "u1769",
+      "endUid": "u2116",
+      "lineCount": 348,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Delwath’s strike against the runes triggers a single continuous fight, ending when the creature falls into the river and is swept away.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Midday is inferred from the approach near noon in u1506–u1514 and the uninterrupted investigation, short battle, and animal rescue; exact clock time is not stated."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Cleansing the River",
+      "startUid": "u2117",
+      "endUid": "u2321",
+      "lineCount": 205,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "With the creature defeated, the party treats Kenzo, erases the circle, examines the returning clear water, and discusses the ritual’s origins.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Midday is inferred from the approach near noon in u1506–u1514 and the uninterrupted investigation, short battle, and animal rescue; exact clock time is not stated."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Freeing the Captive Animals",
+      "startUid": "u2322",
+      "endUid": "u2437",
+      "lineCount": 116,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A return to the castle starts a distinct rescue scene: Seeker persuades a lion to lead the captive animals away. Its short length preserves this complete scene.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "Midday is inferred from the approach near noon in u1506–u1514 and the uninterrupted investigation, short battle, and animal rescue; exact clock time is not stated."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "The Guardian and the Departure",
+      "startUid": "u2438",
+      "endUid": "u2671",
+      "lineCount": 234,
+      "dateStart": "1748-04-13",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party returns to the dwarven caves, passes the damaged guardian and searches the ruined forge, then leaves through the secret exit and rides south to camp.",
+      "dateEvidence": [
+        "Session YAML anchors the date to 1748-04-13; the source remains on the same day without an intervening rest or date advance.",
+        "u2624 explicitly places the return to the horses in the afternoon; u2641–u2644 describe a few hours riding south and an evening camp on the same day. No single timeWindow covers this whole beat."
+      ]
+    }
+  ]
+}

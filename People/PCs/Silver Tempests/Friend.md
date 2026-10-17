@@ -6,16 +6,20 @@ tags: [person, status/gameupdate/gl]
 species: beast
 subspecies: miniature black bear
 name: Friend
+affiliations: 
+- {org: Silver Tempests, title: Companion}
 whereabouts:
   - {type: home, location: Tempest Towers, start: 1747, end: 1751}
 knownTo: [grli]
-dm_owner: none
+player: Sasha Rosan
+dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
 # Friend
 >[!info]+ Biographical Info  
 > A beast (miniature black bear)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Friend is a magically shrunken black bear companion of [[Samso]]. Samso found and adopted Friend in the [[Crystal Cavern]] during the recovery of the [[Stonemaster Scroll]] in DR 1747.

@@ -9,6 +9,7 @@ aliases: [Justas]
 pronunciation: JUS-tiss ROS-trin
 affiliations: [Chasm Explorers]
 knownTo: [itc]
+player: David Schwartz
 dm_owner: player
 dm_notes: important
 ---

@@ -1,0 +1,388 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-015/cleaned/dunmari-frontier-015-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The missing Fox and Hunter constellation prompts the party to question whether the storm has displaced them in time.",
+      "longSummary": "After a short rest beneath the tower’s blue granite outcrop, the party notices that the Fox and Hunter constellation is absent; Delwath recognizes the sky of his childhood. Seeker confirms that three ley lines still converge beneath the tower, and recalls scholarship about time running at different rates in mirror realms. The group considers whether the storm encloses a place outside ordinary time and debates returning to the tower, remembering that Vola is waiting outside with the horses.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Camp beneath the blue granite outcrop"
+      },
+      "npcs": [
+        {
+          "name": "Beryl",
+          "role": "mentioned",
+          "notes": "His ascension after the war is recalled while discussing the missing constellation."
+        },
+        {
+          "name": "Vola",
+          "role": "mentioned",
+          "notes": "Waiting outside the storm with the horses; not present with the party."
+        }
+      ],
+      "items": [
+        {
+          "name": "Ley line visualizer",
+          "role": "encountered",
+          "notes": "Seeker checks the convergence beneath the tower."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Seeker excavates a recent grave while Wellby receives a fragmentary vision from the tower.",
+      "longSummary": "After discussing the religious implications of disturbing a grave marked with the Sibyl’s sign, Seeker lifts away the shallow covering of earth. The corpse is a human male in early decomposition, wrapped in improvised cloth, with no obvious identifying possessions; Kenzo finds the clothing broadly contemporary rather than centuries old. Meanwhile sparks gather on Wellby as he tries to communicate with the tower. He receives an image of a robed man on its platform, an approaching storm, lightning, and pain, but no intelligible name.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Grave and campsite below the tower"
+      },
+      "npcs": [
+        {
+          "name": "Unidentified dead man",
+          "role": "encountered",
+          "notes": "Human corpse; the session does not establish his identity."
+        },
+        {
+          "name": "Robed man in the vision",
+          "role": "mentioned",
+          "notes": "Seen on the tower platform in Wellby’s vision; identity not established here."
+        }
+      ],
+      "items": [
+        {
+          "name": "Grave marker of the Sibyl",
+          "role": "encountered",
+          "notes": "Crude religious marker above the shallow grave."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Kenzo leads the climb to a platform where a water guardian prevents easy inspection of an enchanted iron sphere.",
+      "longSummary": "With Seeker’s floating rune assisting him, Kenzo climbs the outside of the tower and lowers a rope for the others. Wind lashes the platform, where a dark metal sphere of intersecting bands stands in an overflowing pool. A serpentine water creature lunges when Seeker approaches. The party experiments with Mage Hand and Riswynn’s Shape Water, but clearing a small patch does not prevent further attacks. Delwath examines the magic, detecting conjuration, enchantment, and illusion in the sphere; close observation and a borrowed telescope reveal writing in Drankorian, though the entire curved inscription cannot yet be read.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Wind-lashed exterior platform and pool"
+      },
+      "npcs": [
+        {
+          "name": "Water guardian",
+          "role": "enemy",
+          "notes": "Serpentine creature made of water; attacks approaches to the sphere."
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered",
+          "notes": "Magical banded sphere with a Drankorian inscription in the platform pool."
+        },
+        {
+          "name": "Telescope",
+          "role": "encountered",
+          "notes": "Used to examine the curved inscription from a distance."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Water guardian",
+            "notes": "Serpentine creature in the platform pool."
+          }
+        ],
+        "notes": "Intermittent attacks during investigation, without a conventional initiative battle; Seeker avoids the lunges and Mage Hand draws attacks."
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Delwath discovers binding magic on the sphere and escapes the guardian after attaching a rope.",
+      "longSummary": "Kenzo calls out in Drankorian without a response. Delwath applies Oil of Slipperiness and uses Mage Hand to distract the guardian while he enters the pool. Examination reveals a powerful enchantment of binding and control, though its target remains unclear, and an iron rod fixing the sphere to a submerged marble block. Delwath ties a rope through the sphere before the guardian turns on him, dealing 13 damage and grappling him. The oil lets him slip free and retreat beyond its reach, after which Seeker offers Healing Word. The sphere remains intact.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Exterior platform, beside and within the pool"
+      },
+      "npcs": [
+        {
+          "name": "Water guardian",
+          "role": "enemy",
+          "notes": "Strikes and grapples Delwath, then subsides when he retreats."
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered",
+          "notes": "Inscription indicates binding and control; a rope is attached, but the sphere is not removed."
+        },
+        {
+          "name": "Oil of Slipperiness",
+          "role": "encountered",
+          "notes": "Used by Delwath to escape the guardian’s grapple."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Water guardian",
+            "notes": "Serpentine creature in the platform pool."
+          }
+        ],
+        "notes": "Delwath takes 13 damage, escapes using the oil, and withdraws; the guardian is neither defeated nor destroyed."
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Wellby’s conversation with a tormented presence turns hostile as lightning gathers around the tower.",
+      "longSummary": "The party hesitates to destroy the binding sphere without knowing what it restrains. After roughly an hour of climbing and experiments, the stars are clearer but subtly wrong beyond the missing constellation. Wellby communicates with a presence that asks why travelers disturb its torment and says it once was a storm and wants to become one again. It mentions knowing Sigga, a giant from halfling stories. The voice then changes in attitude, angrily declares itself the storm, and demands to be left alone. Unsure whether they are speaking to one entity or several, the party sees sparks gathering on the tower wall and prepares to enter.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Exterior platform near the entrance"
+      },
+      "npcs": [
+        {
+          "name": "Tower voice",
+          "role": "encountered",
+          "notes": "Tormented and angry messages; the party has not established whether the differing voices are one entity."
+        },
+        {
+          "name": "Sigga",
+          "role": "mentioned",
+          "notes": "Giant known to the speaking presence and remembered in halfling stories."
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered",
+          "notes": "Destruction is discussed but deferred."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Inside the tower, empty silver settings and an eyeless giant’s bust lead the party upstairs into apparent daylight.",
+      "longSummary": "The party enters a white marble chamber containing five pointed columns with empty silver sockets. Beyond it stands an eight-foot stone bust of a giant, its eyes missing and its five-pointed crown also bearing empty settings. The carving and pillars show no additional magic beyond the tower’s general aura. With lightning following them inside, they choose to stay together and climb upstairs. The sparks fade as the stairs wind through mist, emerging onto a sunny, barren mountainside below an immense columned hall; looking back still reveals the tower’s interior down the stairs.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Chamber with the bust, then apparent mountainside on the upper floor",
+        "notes": "The apparent mountain is later revealed to overlay the upper floor; no physical journey outside the tower is established."
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Eyeless giant’s bust",
+          "role": "encountered",
+          "notes": "Carved statue with empty eye sockets and five empty crown settings."
+        },
+        {
+          "name": "Empty silver settings",
+          "role": "encountered",
+          "notes": "Five on the columns and five on the statue’s crown; their former contents are not established."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Wellby trades stories with an eyeless giant whose understanding of the present lies centuries in the past.",
+      "longSummary": "The others hide among rocks while Wellby remains visible to greet the giant approaching from the hall. He is roughly twenty-five feet tall, finely robed, and blind, feeling his way with a staff; Kenzo’s Soulsight finds him calm and contemplative. The giant offers stories and omens in exchange for comparable tales, so Wellby recounts Raven’s Hold and its history. The giant does not recognize the Dunmari, knows Sigga as young, and treats accounts of the Great War as impossible news from the future. Asked the year, he says 5031 by the true reckoning, which the party interprets as the dwarven calendar.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Apparent mountainside below the giant’s hall",
+        "notes": "The apparent mountain is later revealed to overlay the upper floor; no physical journey outside the tower is established."
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered",
+          "notes": "Giant introduced without a name here; he identifies himself in beat-009."
+        },
+        {
+          "name": "Sigga",
+          "role": "mentioned",
+          "notes": "Hralgar knows a young giant by this name, but not the later dragon story."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Describing the tower unsettles Hralgar and draws out broken memories of the wizard Eudomes.",
+      "longSummary": "Hralgar does not recognize Agata Dustmother, so Wellby instead describes the tower and asks about freeing its captive storm. Hralgar remembers visiting Eudomes there to exchange omens and stories, traveling as wind across the plains; he says the tower itself was built by elves long before the wizard occupied it. He cannot remember the promised exchange or explain his missing eyes. He calls the mountainside his home and denies any stairway to the tower. As Wellby asks for protection against the lightning, Hralgar struggles to concentrate, and Riswynn reports glimpsing a marble floor, suggesting they never truly left the tower.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Apparent mountainside, during the conversation",
+        "notes": "The apparent mountain is later revealed to overlay the upper floor; no physical journey outside the tower is established."
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered",
+          "notes": "Distressed by gaps in his memory and loss of sight."
+        },
+        {
+          "name": "Eudomes",
+          "role": "mentioned",
+          "notes": "Wizard whom Hralgar remembers visiting and trading omens with."
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "Wellby asks about Agata Dustmother, whom Hralgar does not recognize."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The party guides Hralgar toward the stairs as chains appear and the mountain illusion collapses.",
+      "longSummary": "Seeker checks the apparent mountain while the same three ley lines converge below the party. Hralgar cannot find the storm or explain how he would leave. The hidden companions reveal themselves as Wellby offers to guide him; his staff passes through apparent rocks, though it can be grasped. Kneeling to find the stairs, he feels a chain around his wrist and recognizes Eudomes’s betrayal, then gives his name as Hralgar. The party explains that its year is 5881 in dwarven reckoning, or 1748 in Drankorian reckoning. Hralgar resists returning to captivity, but chains pull back both arms and the mountain vanishes.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Apparent mountainside dissolving into the tower’s upper floor",
+        "notes": "The apparent mountain is later revealed to overlay the upper floor; no physical journey outside the tower is established."
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered",
+          "notes": "Names himself and begins to recognize his captivity."
+        },
+        {
+          "name": "Eudomes",
+          "role": "mentioned",
+          "notes": "Hralgar blames him when the chain appears."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Hralgar recounts his imprisonment and urges the party to search quickly while he can still think clearly.",
+      "longSummary": "The party stands on the tower’s ruined top floor, where Hralgar lies chained in tattered robes beneath a broken roof. He explains that Eudomes sought omens about a coming plague under Emperor Apollyon and bound him, perhaps to protect the tower and the knowledge of the Occulta Ludum; the wizard’s precise motives remain uncertain. Hralgar says someone took his eyes and woke him. The party suspects Chardonian treasure seekers removed the statue’s gems and triggered the storm, possibly taking them to the Society of the Open Scroll. They plan to search the tower and library before attempting to break the sphere. Hralgar urges haste because he may lose clarity; the session stops before the search begins.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Ruined upper chamber, then table wrap-up"
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered",
+          "notes": "Captive storm giant; warns that his present clarity may not last."
+        },
+        {
+          "name": "Eudomes",
+          "role": "mentioned",
+          "notes": "Human wizard who bound Hralgar."
+        },
+        {
+          "name": "Apollyon",
+          "role": "mentioned",
+          "notes": "Emperor whose actions concerned Eudomes."
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "mentioned",
+          "notes": "Suspected binding focus; destruction remains a proposed action."
+        },
+        {
+          "name": "Hralgar’s missing eyes",
+          "role": "mentioned",
+          "notes": "The party suspects a connection to stolen statue gems, but has not recovered or located them."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Occulta Ludum",
+          "role": "mentioned",
+          "notes": "Hralgar links the group and its knowledge to Eudomes’s attempted protection."
+        },
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned",
+          "notes": "The party suspects its explorers took the missing gems; this remains a hypothesis."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

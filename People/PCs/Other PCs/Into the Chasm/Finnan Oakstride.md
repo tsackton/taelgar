@@ -13,6 +13,7 @@ affiliations:
   - {org: Chasm Explorers}
 whereabouts: Zimkova
 knownTo: [itc]
+player: Tim Sackton
 dm_owner: player
 dm_notes: important
 POV: 1730

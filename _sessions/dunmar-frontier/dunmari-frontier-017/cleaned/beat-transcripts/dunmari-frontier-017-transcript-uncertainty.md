@@ -1,0 +1,108 @@
+# Preserved Transcript Uncertainty
+
+These phrases remain marked in the polished excerpts because the cleaned source does not support a confident repair. They are mostly fragmented table chatter and side comments. The source ranges below identify the turns containing them; the wording has not been used to invent new session facts.
+103 marked phrases across six excerpts.
+
+- [dunmari-frontier-017-recap-001-transcript.md:53](dunmari-frontier-017-recap-001-transcript.md) — u0057-u0060: `ready notes`
+- [dunmari-frontier-017-recap-001-transcript.md:83](dunmari-frontier-017-recap-001-transcript.md) — u0093-u0099: `You elves.`
+- [dunmari-frontier-017-recap-001-transcript.md:110](dunmari-frontier-017-recap-001-transcript.md) — u0121-u0125: `is it opens for open scroll`
+- [dunmari-frontier-017-recap-001-transcript.md:131](dunmari-frontier-017-recap-001-transcript.md) — u0155-u0156: `I was good, said I`
+- [dunmari-frontier-017-recap-002-transcript.md:35](dunmari-frontier-017-recap-002-transcript.md) — u0250: `Many times that`
+- [dunmari-frontier-017-recap-002-transcript.md:83](dunmari-frontier-017-recap-002-transcript.md) — u0276-u0278: `you`
+- [dunmari-frontier-017-recap-002-transcript.md:134](dunmari-frontier-017-recap-002-transcript.md) — u0306-u0310: `Noodle on Instagram.`
+- [dunmari-frontier-017-recap-002-transcript.md:140](dunmari-frontier-017-recap-002-transcript.md) — u0313: `Luna. LUNA Miss players`
+- [dunmari-frontier-017-recap-002-transcript.md:161](dunmari-frontier-017-recap-002-transcript.md) — u0326-u0328: `Every time.`
+- [dunmari-frontier-017-recap-002-transcript.md:209](dunmari-frontier-017-recap-002-transcript.md) — u0368: `Some other to pick it.`
+- [dunmari-frontier-017-recap-002-transcript.md:233](dunmari-frontier-017-recap-002-transcript.md) — u0377: `kids, kids`
+- [dunmari-frontier-017-recap-002-transcript.md:239](dunmari-frontier-017-recap-002-transcript.md) — u0379-u0380: `Here is...`
+- [dunmari-frontier-017-recap-002-transcript.md:266](dunmari-frontier-017-recap-002-transcript.md) — u0400: `Boom.`
+- [dunmari-frontier-017-recap-002-transcript.md:344](dunmari-frontier-017-recap-002-transcript.md) — u0453: `what have you learned`
+- [dunmari-frontier-017-recap-002-transcript.md:347](dunmari-frontier-017-recap-002-transcript.md) — u0454: `what agenda`
+- [dunmari-frontier-017-recap-002-transcript.md:353](dunmari-frontier-017-recap-002-transcript.md) — u0459: `Not I'm down there that...`
+- [dunmari-frontier-017-recap-002-transcript.md:371](dunmari-frontier-017-recap-002-transcript.md) — u0470: `Another city or homeland`
+- [dunmari-frontier-017-recap-002-transcript.md:431](dunmari-frontier-017-recap-002-transcript.md) — u0518-u0520: `clean. Why`
+- [dunmari-frontier-017-recap-002-transcript.md:434](dunmari-frontier-017-recap-002-transcript.md) — u0521: `Barrel`
+- [dunmari-frontier-017-recap-002-transcript.md:437](dunmari-frontier-017-recap-002-transcript.md) — u0522-u0523: `Barrel`
+- [dunmari-frontier-017-recap-002-transcript.md:482](dunmari-frontier-017-recap-002-transcript.md) — u0552-u0554: `In`
+- [dunmari-frontier-017-recap-002-transcript.md:524](dunmari-frontier-017-recap-002-transcript.md) — u0573: `Which made your keys.`
+- [dunmari-frontier-017-recap-002-transcript.md:527](dunmari-frontier-017-recap-002-transcript.md) — u0574: `don't have you're wearing it bigger`
+- [dunmari-frontier-017-recap-002-transcript.md:530](dunmari-frontier-017-recap-002-transcript.md) — u0575: `Human error`
+- [dunmari-frontier-017-recap-002-transcript.md:584](dunmari-frontier-017-recap-002-transcript.md) — u0603: `Or Dr. Tao.`
+- [dunmari-frontier-017-recap-002-transcript.md:701](dunmari-frontier-017-recap-002-transcript.md) — u0671: `Lou Adler`
+- [dunmari-frontier-017-recap-002-transcript.md:707](dunmari-frontier-017-recap-002-transcript.md) — u0673: `There you're getting something up`
+- [dunmari-frontier-017-recap-002-transcript.md:746](dunmari-frontier-017-recap-002-transcript.md) — u0701-u0702: `Read about a magical...`
+- [dunmari-frontier-017-recap-002-transcript.md:758](dunmari-frontier-017-recap-002-transcript.md) — u0712: `They've got down`
+- [dunmari-frontier-017-recap-002-transcript.md:794](dunmari-frontier-017-recap-002-transcript.md) — u0747-u0749: `Can it help you know your...`
+- [dunmari-frontier-017-recap-002-transcript.md:815](dunmari-frontier-017-recap-002-transcript.md) — u0758-u0759: `back`
+- [dunmari-frontier-017-recap-003-transcript.md:14](dunmari-frontier-017-recap-003-transcript.md) — u0765: `A the goggles on, lonely.`
+- [dunmari-frontier-017-recap-003-transcript.md:32](dunmari-frontier-017-recap-003-transcript.md) — u0796-u0797: `Is it Santa's gonna say`
+- [dunmari-frontier-017-recap-003-transcript.md:92](dunmari-frontier-017-recap-003-transcript.md) — u0828: `Is an escape from them.`
+- [dunmari-frontier-017-recap-003-transcript.md:122](dunmari-frontier-017-recap-003-transcript.md) — u0841-u0842: `What could you guys catch their eye was brother back.`
+- [dunmari-frontier-017-recap-003-transcript.md:125](dunmari-frontier-017-recap-003-transcript.md) — u0843: `I got especially from this.`
+- [dunmari-frontier-017-recap-003-transcript.md:143](dunmari-frontier-017-recap-003-transcript.md) — u0858-u0859: `Easy.`
+- [dunmari-frontier-017-recap-003-transcript.md:212](dunmari-frontier-017-recap-003-transcript.md) — u0887: `backs`
+- [dunmari-frontier-017-recap-003-transcript.md:233](dunmari-frontier-017-recap-003-transcript.md) — u0896-u0902: `our hopes up to...`
+- [dunmari-frontier-017-recap-003-transcript.md:272](dunmari-frontier-017-recap-003-transcript.md) — u0924: `Are plenty.`
+- [dunmari-frontier-017-recap-003-transcript.md:284](dunmari-frontier-017-recap-003-transcript.md) — u0928: `is that the role of us`
+- [dunmari-frontier-017-recap-003-transcript.md:314](dunmari-frontier-017-recap-003-transcript.md) — u0942: `No ad for...`
+- [dunmari-frontier-017-recap-003-transcript.md:371](dunmari-frontier-017-recap-003-transcript.md) — u0995: `out`
+- [dunmari-frontier-017-recap-003-transcript.md:410](dunmari-frontier-017-recap-003-transcript.md) — u1012: `was was tips`
+- [dunmari-frontier-017-recap-003-transcript.md:458](dunmari-frontier-017-recap-003-transcript.md) — u1055: `Is so advantages.`
+- [dunmari-frontier-017-recap-003-transcript.md:482](dunmari-frontier-017-recap-003-transcript.md) — u1066-u1067: `Oh, who may true`
+- [dunmari-frontier-017-recap-003-transcript.md:626](dunmari-frontier-017-recap-003-transcript.md) — u1160-u1162: `Jeremy. Oh, totally timber topic`
+- [dunmari-frontier-017-recap-003-transcript.md:641](dunmari-frontier-017-recap-003-transcript.md) — u1169: `forty`
+- [dunmari-frontier-017-recap-003-transcript.md:644](dunmari-frontier-017-recap-003-transcript.md) — u1170: `Glasses off.`
+- [dunmari-frontier-017-recap-003-transcript.md:650](dunmari-frontier-017-recap-003-transcript.md) — u1172-u1173: `Books`
+- [dunmari-frontier-017-recap-003-transcript.md:662](dunmari-frontier-017-recap-003-transcript.md) — u1180: `For they will`
+- [dunmari-frontier-017-recap-003-transcript.md:722](dunmari-frontier-017-recap-003-transcript.md) — u1245: `Knew`
+- [dunmari-frontier-017-recap-004-transcript.md:32](dunmari-frontier-017-recap-004-transcript.md) — u1258-u1259: `Shaft. Well as that.`
+- [dunmari-frontier-017-recap-004-transcript.md:35](dunmari-frontier-017-recap-004-transcript.md) — u1260-u1261: `I'm ready`
+- [dunmari-frontier-017-recap-004-transcript.md:41](dunmari-frontier-017-recap-004-transcript.md) — u1263-u1265: `Said no because you're used at...`
+- [dunmari-frontier-017-recap-004-transcript.md:167](dunmari-frontier-017-recap-004-transcript.md) — u1333-u1334: `of my character sheet`
+- [dunmari-frontier-017-recap-004-transcript.md:188](dunmari-frontier-017-recap-004-transcript.md) — u1345: `On. So I basically smear.`
+- [dunmari-frontier-017-recap-004-transcript.md:218](dunmari-frontier-017-recap-004-transcript.md) — u1361-u1362: `And you`
+- [dunmari-frontier-017-recap-004-transcript.md:251](dunmari-frontier-017-recap-004-transcript.md) — u1376: `Why you need to know.`
+- [dunmari-frontier-017-recap-004-transcript.md:269](dunmari-frontier-017-recap-004-transcript.md) — u1383: `Am I getting ready for it?`
+- [dunmari-frontier-017-recap-004-transcript.md:278](dunmari-frontier-017-recap-004-transcript.md) — u1386: `We don't be a person.`
+- [dunmari-frontier-017-recap-004-transcript.md:281](dunmari-frontier-017-recap-004-transcript.md) — u1387: `realistic air`
+- [dunmari-frontier-017-recap-004-transcript.md:344](dunmari-frontier-017-recap-004-transcript.md) — u1417-u1419: `Know that`
+- [dunmari-frontier-017-recap-004-transcript.md:344](dunmari-frontier-017-recap-004-transcript.md) — u1417-u1419: `for your return`
+- [dunmari-frontier-017-recap-004-transcript.md:419](dunmari-frontier-017-recap-004-transcript.md) — u1490: `That darkness and helps the the dark.`
+- [dunmari-frontier-017-recap-004-transcript.md:458](dunmari-frontier-017-recap-004-transcript.md) — u1516-u1519: `crazy Whitefield`
+- [dunmari-frontier-017-recap-004-transcript.md:497](dunmari-frontier-017-recap-004-transcript.md) — u1554-u1556: `must let's see years doing an...`
+- [dunmari-frontier-017-recap-004-transcript.md:500](dunmari-frontier-017-recap-004-transcript.md) — u1557: `Artist like...`
+- [dunmari-frontier-017-recap-004-transcript.md:512](dunmari-frontier-017-recap-004-transcript.md) — u1562: `What does change all the time today.`
+- [dunmari-frontier-017-recap-004-transcript.md:539](dunmari-frontier-017-recap-004-transcript.md) — u1577: `terror`
+- [dunmari-frontier-017-recap-004-transcript.md:593](dunmari-frontier-017-recap-004-transcript.md) — u1620: `You take that route. And it got its course.`
+- [dunmari-frontier-017-recap-004-transcript.md:626](dunmari-frontier-017-recap-004-transcript.md) — u1650: `mine is some some shit`
+- [dunmari-frontier-017-recap-004-transcript.md:629](dunmari-frontier-017-recap-004-transcript.md) — u1651: `But it's all Charlton's full moon.`
+- [dunmari-frontier-017-recap-004-transcript.md:668](dunmari-frontier-017-recap-004-transcript.md) — u1687: `told to`
+- [dunmari-frontier-017-recap-004-transcript.md:689](dunmari-frontier-017-recap-004-transcript.md) — u1701: `I shouldn't do this. I'll just tease.`
+- [dunmari-frontier-017-recap-004-transcript.md:716](dunmari-frontier-017-recap-004-transcript.md) — u1710-u1711: `Cuba there`
+- [dunmari-frontier-017-recap-004-transcript.md:728](dunmari-frontier-017-recap-004-transcript.md) — u1722-u1723: `He has been to America before they open know.`
+- [dunmari-frontier-017-recap-004-transcript.md:734](dunmari-frontier-017-recap-004-transcript.md) — u1725-u1726: `We didn't`
+- [dunmari-frontier-017-recap-004-transcript.md:776](dunmari-frontier-017-recap-004-transcript.md) — u1742: `After the America.`
+- [dunmari-frontier-017-recap-004-transcript.md:788](dunmari-frontier-017-recap-004-transcript.md) — u1748-u1749: `Forces back.`
+- [dunmari-frontier-017-recap-004-transcript.md:800](dunmari-frontier-017-recap-004-transcript.md) — u1753-u1757: `My gate.`
+- [dunmari-frontier-017-recap-004-transcript.md:803](dunmari-frontier-017-recap-004-transcript.md) — u1758: `Done this year.`
+- [dunmari-frontier-017-recap-004-transcript.md:830](dunmari-frontier-017-recap-004-transcript.md) — u1768-u1769: `creating still`
+- [dunmari-frontier-017-recap-004-transcript.md:842](dunmari-frontier-017-recap-004-transcript.md) — u1773-u1774: `five, four years`
+- [dunmari-frontier-017-recap-005-transcript.md:47](dunmari-frontier-017-recap-005-transcript.md) — u1824-u1830: `having me intervention`
+- [dunmari-frontier-017-recap-005-transcript.md:65](dunmari-frontier-017-recap-005-transcript.md) — u1839: `Which actor?`
+- [dunmari-frontier-017-recap-005-transcript.md:83](dunmari-frontier-017-recap-005-transcript.md) — u1849: `Brittany.`
+- [dunmari-frontier-017-recap-005-transcript.md:107](dunmari-frontier-017-recap-005-transcript.md) — u1884-u1892: `there was a likeness`
+- [dunmari-frontier-017-recap-005-transcript.md:176](dunmari-frontier-017-recap-005-transcript.md) — u1991: `Fit.`
+- [dunmari-frontier-017-recap-005-transcript.md:200](dunmari-frontier-017-recap-005-transcript.md) — u2018-u2020: `like it says like we can add the companions`
+- [dunmari-frontier-017-recap-005-transcript.md:203](dunmari-frontier-017-recap-005-transcript.md) — u2021: `Looking at key parts.`
+- [dunmari-frontier-017-recap-006-transcript.md:74](dunmari-frontier-017-recap-006-transcript.md) — u2109-u2113: `as bad as it`
+- [dunmari-frontier-017-recap-006-transcript.md:107](dunmari-frontier-017-recap-006-transcript.md) — u2143-u2144: `I read`
+- [dunmari-frontier-017-recap-006-transcript.md:137](dunmari-frontier-017-recap-006-transcript.md) — u2156: `them`
+- [dunmari-frontier-017-recap-006-transcript.md:146](dunmari-frontier-017-recap-006-transcript.md) — u2159: `it was already drawing it`
+- [dunmari-frontier-017-recap-006-transcript.md:158](dunmari-frontier-017-recap-006-transcript.md) — u2163-u2164: `sibling skillful`
+- [dunmari-frontier-017-recap-006-transcript.md:197](dunmari-frontier-017-recap-006-transcript.md) — u2182: `I can you...`
+- [dunmari-frontier-017-recap-006-transcript.md:251](dunmari-frontier-017-recap-006-transcript.md) — u2228: `Early not statements.`
+- [dunmari-frontier-017-recap-006-transcript.md:263](dunmari-frontier-017-recap-006-transcript.md) — u2238-u2239: `you're`
+- [dunmari-frontier-017-recap-006-transcript.md:278](dunmari-frontier-017-recap-006-transcript.md) — u2263-u2265: `to eat it and...`
+- [dunmari-frontier-017-recap-006-transcript.md:299](dunmari-frontier-017-recap-006-transcript.md) — u2274: `Well pat our pocket.`
+- [dunmari-frontier-017-recap-006-transcript.md:392](dunmari-frontier-017-recap-006-transcript.md) — u2351-u2357: `Sort of us.`
+- [dunmari-frontier-017-recap-006-transcript.md:425](dunmari-frontier-017-recap-006-transcript.md) — u2392: `him`

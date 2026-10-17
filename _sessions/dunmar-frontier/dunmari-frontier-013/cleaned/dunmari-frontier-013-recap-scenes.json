@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Searching Raven’s Hold",
+      "beatIds": [
+        "beat-001",
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The split searches, reunion, lock-picking, and storeroom inspection form a continuous exploration of the barracks and their abandoned possessions.",
+      "overview": "Search the barracks, open the storeroom, and uncover traces of earlier occupants.",
+      "transitionToNext": "The party regathers to identify, distribute, and interpret its finds."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Treasures and Shadow Words",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "The gathered party identifies and allocates its magical equipment, reads the hobgoblin records, and hears Delwath’s account of the words in shadow and his imprisonment.",
+      "overview": "Divide magical items, read the hobgoblin records, and hear Delwath’s revelations.",
+      "transitionToNext": "Attention turns from the recovered finds to investigating the water’s corruption."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Tracing the Corruption",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "Sampling the courtyard pool and following the stronger magical presence to the river are consecutive steps in investigating the same corruption. The location changes during that pursuit, but the immediate task remains finding and understanding its source. The decision to damage the runes ends the investigation.",
+      "overview": "Sample the tainted pool, descend to the bridge, and investigate the Abyssal circle.",
+      "transitionToNext": "Delwath strikes the runes, provoking the creature in the river."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Battle at the Bridge",
+      "beatIds": [
+        "beat-008"
+      ],
+      "rationale": "Damaging the circle triggers a single complete combat with a clear ending: Wellby’s final shot knocks the creature into the river and the released water sweeps it away.",
+      "overview": "Fight the vine creature with spells, arrows, and an undermined riverbank.",
+      "transitionToNext": "The creature falls and the river clears, allowing treatment, cleanup, and rescue."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Cleansing the Valley",
+      "beatIds": [
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "The aftermath addresses the effects of the defeated threat: cure Kenzo, erase the remaining runes, inspect the ritual remnants, and release the animals now that clean river water offers a route to safety. The rescue completes the purpose established during the earlier investigation.",
+      "overview": "Cure Kenzo, destroy the circle, examine its remnants, and free the captive animals.",
+      "transitionToNext": "With the animals safe, the party returns to the dwarven caves to investigate the guardian."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "The Dwarven Guardian",
+      "beatIds": [
+        "beat-011"
+      ],
+      "rationale": "The return to the dwarven caves begins a separate encounter with the damaged guardian, followed by exploration of the forge and mine. Recovering adamantine completes this visit; the return to the horses and evening camp form its brief departure epilogue.",
+      "overview": "Pass the guardian, recover adamantine from the ruined forge, and leave for camp.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

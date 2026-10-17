@@ -1,7 +1,7 @@
 ---
 tags: [session-note]
 name: "Interlude: Preparations for Limbo"
-campaign: Dunmari Frontier
+campaign: Dunmar Frontier
 DR: 1749-08-13
 DR_end: 1749-09-14
 players: [Delwath, Seeker, Wellby, Kenzo]

@@ -1,0 +1,533 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Hralgar asks the party to recover his eyes and warns that his dangerous dreams will return when his concentration fails.",
+      "longSummary": "The blinded, chained Hralgar warns that his dreams shape this place and that his bonds sap his strength. He believes he could free himself if his eyes were returned, but cannot say where they went; Eudomes has been dead for centuries. He identifies the iron sphere as part of the magic used to trap his spirit, doubts destroying it would help, and asks the party to leave him alive and spread word if they cannot free him. The visible Fox and Hunter and a temporary easing of the storm support the party’s realization that his lucid state differs from the dreamscape. They plan to search quickly while he maintains control.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Shattered upper chamber"
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered"
+        },
+        {
+          "name": "Eudomes",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Hralgar’s Eyes",
+          "role": "mentioned",
+          "notes": "Missing; recovering them is Hralgar’s proposed means of escape."
+        },
+        {
+          "name": "Iron sphere",
+          "role": "mentioned",
+          "notes": "Hralgar associates it with his original binding; destroying it is not a demonstrated solution."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "While Kenzo stays with Hralgar, the others find three sets of footprints, missing metal fittings, and surviving books in the looted tower.",
+      "longSummary": "Kenzo remains upstairs to meditate with Hralgar while the others investigate. Wellby, helped by Riswynn, finds three sets of booted humanoid footprints on the dusty stairs; Seeker determines that metal fittings were removed from the five marble pillars within the past month or two. The library has been largely cleared, but three books are attached by chains embedded in the stone: Tales Before the Fall in Giant, and Journeys of Souls and On the Ordering of Giants in Hkarian. Delwath skims them, Seeker sketches Giant runes, and Wellby finds Nelawe’s small Elvish poetry collection Lyrics of a New Age beneath a shelf; Delwath keeps it. Chardonian involvement remains a hypothesis.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Statue floor and third-floor library; Kenzo remains in the upper chamber"
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered"
+        },
+        {
+          "name": "Nelawe",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Giant bust",
+          "role": "encountered",
+          "notes": "Empty eye and crown sockets."
+        },
+        {
+          "name": "Tales Before the Fall",
+          "role": "encountered"
+        },
+        {
+          "name": "Journeys of Souls",
+          "role": "encountered"
+        },
+        {
+          "name": "On the Ordering of Giants",
+          "role": "encountered"
+        },
+        {
+          "name": "Lyrics of a New Age",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned",
+          "notes": "Suspected of the looting; not established."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The search reveals a wind garden, looted rooms, a sealed bedchamber, and letters linking Hralgar’s binding to the Occulta Ludum and Drankor’s fall.",
+      "longSummary": "The explorers admire a wind garden with marble lattice windows, chimes, shifting floor colors, and mineral benches. Wellby and Seeker search three small rooms below, finding old Drankorian letters and accounts; a fourth door refuses to open, while Riswynn finds little in the shattered ground-floor hall and service rooms. Delwath learns that powerful storm giants can become storms and prize omens; the book’s Drankorian marginalia emphasize transformation but offer no release mechanism. Reunited in the library, they read a letter anticipating a visit to Eudomes and the captive Hralgar, celebrating the binding for the Occulta Ludum while urging secrecy. A second warns of a magical plague, the emperor’s death, fleeing Magistri, and Drankor’s fall, urging flight west toward Chardon.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Wind garden, lower rooms and library"
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Eudomes",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "On the Ordering of Giants",
+          "role": "encountered"
+        },
+        {
+          "name": "Drankorian letters and accounts",
+          "role": "encountered",
+          "notes": "Two letters and a record of purchases, including wine, oil, salt and spices."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Occulta Ludum",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Delwath enters the sealed bedchamber, sees its past in a magical mirror, and escapes with treasure when Seeker shrinks the door.",
+      "longSummary": "Using his remaining spell slot, Delwath teleports through the crack under the blocked door into an undisturbed bedchamber and study, presumed to be Eudomes’s. He finds paintings, decorated vases, coins, purple-lensed goggles, a mirror, and a heavy stone hand holding a black stone. He throws the coin pouches out the window, where they disintegrate and scatter the coins, and takes time to use fey sight: the mirror and goggles carry divination magic and the stone carries transmutation. Asking the mirror how to open the door produces silent scenes of a presumed Eudomes enchanting and opening it, then other visitors, but yields no usable password. Seeker’s Reduce only lifts the door’s bottom edge; the party passes out the mirror, paintings and vases, and Delwath crawls out with the goggles before it shuts. Wellby’s hurried search adds nothing; removal of the heavy hand is not confirmed.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Sealed second-floor bedchamber and corridor"
+      },
+      "npcs": [
+        {
+          "name": "Eudomes",
+          "role": "mentioned",
+          "notes": "Presumed identity of the man in the portrait and mirror vision."
+        },
+        {
+          "name": "Tall elf in the mirror",
+          "role": "encountered"
+        },
+        {
+          "name": "Older man in the mirror",
+          "role": "encountered"
+        },
+        {
+          "name": "Toddler in the mirror",
+          "role": "encountered"
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "Canonical naming only; its silent historical vision is demonstrated here."
+        },
+        {
+          "name": "Goggles of Object Reading",
+          "role": "encountered",
+          "notes": "Purple crystal lenses; divination detected, but their function is not identified in this beat."
+        },
+        {
+          "name": "Stone hand with black stone",
+          "role": "encountered",
+          "notes": "Transmutation; heavy and too large for the window."
+        },
+        {
+          "name": "Paintings and decorated vases",
+          "role": "encountered"
+        },
+        {
+          "name": "Silver and copper coins",
+          "role": "encountered"
+        },
+        {
+          "name": "Floating Disc Coin",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Seeker and Riswynn dislodge the iron sphere with heat, chilled water and a rope, provoking an attack by steam creatures.",
+      "longSummary": "Concluding that the eyes were probably taken elsewhere, the party nevertheless returns to the platform to dislodge the sphere. Seeker casts Heat Metal on its iron support, and Riswynn repeatedly splashes chilled water onto it with Shape Water and pulls the grappling rope; the second attempt breaks it loose. The water guardian sends three steam imps toward them. Their scalding breath wounds Seeker and Riswynn and breaks Seeker’s concentration. Delwath’s sword works but his Green-Flame Blade fire does not, while Wellby’s arrow destroys one creature, scalding the nearby fighters. Riswynn disengages and summons a spiritual hammer after a rules correction erases the initially assigned opportunity-attack damage. Delwath switches to Booming Blade, Wellby shoots again, and Riswynn’s Spiritual Weapon destroys a second steam creature as dust reinforcements begin appearing.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Water platform and adjoining doorway"
+      },
+      "npcs": [
+        {
+          "name": "Water guardian",
+          "role": "enemy"
+        },
+        {
+          "name": "Steam creatures",
+          "role": "enemy"
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Steam creatures",
+            "notes": "Three small imp-like creatures; fire is ineffective and their deaths release scalding steam."
+          },
+          {
+            "name": "Water guardian",
+            "notes": "Directs or summons the attackers from the pool."
+          }
+        ],
+        "notes": "Begins a single continuous fight. Riswynn’s opportunity-attack damage is explicitly reversed in u1368–u1379; retain the corrected disengage and Spiritual Weapon action."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "The party defeats the remaining steam creature and three dust attackers while Kenzo continues his work with Hralgar.",
+      "longSummary": "Three dust creatures join the fight, and a breath of dust blinds Delwath. Upstairs, Kenzo hears the disturbance but continues building his connection with Hralgar. Riswynn kills the last steam creature; the water guardian retreats below the pool’s surface while Wellby’s arrows continue to hurt the dust creatures. Seeker considers making a giant broom but abandons the idea, puts on his own goggles, and disengages; Delwath also withdraws and clears his eyes. Riswynn strikes with Shatterstorm, Delwath kills a dust creature with his sword, and Wellby shoots another down. Seeker’s Vicious Mockery fails, and Riswynn finishes the last creature with Shatterstorm and Spiritual Weapon. The sphere remains on the platform and the guardian remains alive in the water.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Platform doorway and tower interior; Kenzo remains upstairs"
+      },
+      "npcs": [
+        {
+          "name": "Steam creatures",
+          "role": "enemy"
+        },
+        {
+          "name": "Dust creatures",
+          "role": "enemy"
+        },
+        {
+          "name": "Water guardian",
+          "role": "enemy"
+        },
+        {
+          "name": "Hralgar",
+          "role": "encountered"
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered"
+        },
+        {
+          "name": "Shatterstorm",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Steam creatures",
+            "notes": "Last survivor destroyed early in this phase."
+          },
+          {
+            "name": "Dust creatures",
+            "notes": "Three attackers; blinding dust and death bursts."
+          },
+          {
+            "name": "Water guardian",
+            "notes": "Survives and withdraws beneath the water."
+          }
+        ],
+        "notes": "Ends the continuous platform fight; all six summoned creatures are destroyed, but the water guardian is not defeated. Seeker’s proposed broom attack and crossbow shot after retreat are abandoned, not completed actions."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "Kenzo explains his mental bridge to Hralgar while the others delay departure to move the sphere and gather their finds.",
+      "longSummary": "Wellby finds Kenzo still meditating with Hralgar. Kenzo says he is building a bridge to the giant’s consciousness that might let him reach Hralgar after lucidity fails; the DM distinguishes this from freeing him and says the meditation has probably eased his effort to concentrate. Kenzo elects to remain until he senses danger, intending to jump from a window. Delwath and Riswynn head downstairs with the recovered objects and to collect scattered coins. Wellby and Seeker debate levers, oil and the grappling rope as ways to roll the sphere off the platform. A proposed short rest and another search of the buried body are not completed in this beat.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Stormcaller Tower",
+        "context": "Upper chamber, platform and exit"
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "encountered"
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered"
+        },
+        {
+          "name": "Floating Disc Coin",
+          "role": "encountered"
+        },
+        {
+          "name": "Silver and copper coins",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "shortSummary": "As Hralgar loses control, the party drops the sphere, suffers injuries, and flees through darkness and rising storm.",
+      "longSummary": "The Fox and Hunter fades, and Kenzo warns that it is time to leave before descending from the window. The party gathers below the tower as the wind rises. Riswynn, Seeker and Wellby pull the extended rope until the sphere falls onto them: Riswynn takes twelve damage, Seeker and Wellby six each, and the sphere remains inert and undamaged. After healing and rejecting a rest, they tie themselves together and leave. A lightning strike extinguishes their lights; the driftglobe’s Daylight subsequently gives only weak illumination. Delwath leads through worsening wind, rain and mist, but the party becomes disoriented and loses its sense of passing time before finally reaching the next morning.",
+      "location": {
+        "kind": "journey",
+        "from": "Stormcaller Tower",
+        "to": "Outer edge of the storm",
+        "context": "Descent from the tower followed by a roped escape through the storm",
+        "notes": "The following beat begins at the explicit emergence into morning; the party’s subjective elapsed time is uncertain."
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "mentioned",
+          "notes": "His loss of control drives the renewed storm."
+        }
+      ],
+      "items": [
+        {
+          "name": "Iron sphere",
+          "role": "encountered",
+          "notes": "Left inert and undamaged on the rock below the platform."
+        },
+        {
+          "name": "Dwarven Driftglobe",
+          "role": "encountered",
+          "notes": "Daylight works only as weak light after the DM corrects an initial ruling that it is inert."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The exhausted party emerges at dawn, circles back to Vola, and decides to conceal Hralgar while investigating who might hold his eyes.",
+      "longSummary": "The party emerges on the mountain side of the storm; all except Kenzo suffer exhaustion, and his attempt to reach Hralgar from outside fails because the giant’s mind feels too distant. They walk around the storm, recover Riswynn’s grazing horse and return to Vola and the other mounts. They retain the floating disk and the mirror, but lose the silver and copper coins during the escape, as clarified by the user after reviewing the retracted loss ruling. Vola confirms they were gone only a day and plans to report Agata’s activity to Chardon; she knows of no expedition into the new storm. A discussion explicitly placed during the approach settles on withholding their discoveries while keeping Vola as a contact. They consider both Society looters and Agata’s forces as possible holders of the eyes, and decide to return to Karawa to meet Alesh rather than pursue Chardon immediately.",
+      "location": {
+        "kind": "journey",
+        "from": "Mountain-side edge of the storm",
+        "to": "Party camp outside the storm",
+        "context": "Morning walk around the storm and reunion at camp",
+        "notes": "u2201–u2204 explicitly places the party’s private discussion earlier on the walk; this is a conversational rewind, not a new date."
+      },
+      "npcs": [
+        {
+          "name": "Hralgar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned"
+        },
+        {
+          "name": "Arcus",
+          "role": "mentioned",
+          "notes": "The floating disk is recalled as his legacy."
+        }
+      ],
+      "items": [
+        {
+          "name": "Floating Disc Coin",
+          "role": "encountered",
+          "notes": "Retained; the user confirmed on 2026-10-16 that retracting its loss also retains the mirror, but not the coins."
+        },
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "Retained with the floating disk, per user clarification on 2026-10-16."
+        },
+        {
+          "name": "Silver and copper coins",
+          "role": "encountered",
+          "notes": "Lost during the escape, per user clarification on 2026-10-16; the retraction retains the floating disk and mirror only."
+        },
+        {
+          "name": "Goggles of Object Reading",
+          "role": "encountered"
+        },
+        {
+          "name": "Paintings and decorated vases",
+          "role": "encountered",
+          "notes": "Paintings explicitly retained; vases’ final carriage is not settled."
+        },
+        {
+          "name": "Lyrics of a New Age",
+          "role": "encountered"
+        },
+        {
+          "name": "Drankorian letters and accounts",
+          "role": "encountered"
+        },
+        {
+          "name": "Hralgar’s Eyes",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned",
+          "notes": "Suspected rather than proven to have taken the eyes."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Vola explains the Society’s collecting mission, Riswynn describes concern over dwarven relics, and both ride west as the others prepare to return south.",
+      "longSummary": "Vola describes the Society’s purpose as preserving knowledge lost when empires fall, studying useful magic and securing dangerous artifacts in Chardon. She says orders from above accelerated collection three or four years earlier, including beyond Dunmar, but does not know why. Riswynn plans to return her family heirlooms to her clan in the Yuvanti Mountains and discuss the dangers they have found; she mentions distant Brawnanvil relations in Chardon and the rumored sale of the Eternal Chalice of the Runepriest to Chardonian traders. Kenzo evades Vola’s question about the storm, stressing its danger rather than revealing Hralgar. They exchange promises to share news of Agata. Vola and Riswynn ride west together; the others prepare for a short rest and the road south to Karawa and Alesh.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Party camp outside Stormcaller Tower’s storm",
+        "context": "Morning conversation and farewells"
+      },
+      "npcs": [
+        {
+          "name": "Vola",
+          "role": "companion"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Chalice of the Runepriest",
+          "role": "mentioned",
+          "notes": "Called the Eternal Chalice of the Runepriest here; its sale is reported as rumor."
+        },
+        {
+          "name": "Brawnanvil family heirlooms",
+          "role": "encountered",
+          "notes": "Riswynn is returning them to her clan; individual objects are not enumerated here."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned",
+          "notes": "Vola’s account of its mission and increased collecting."
+        },
+        {
+          "name": "Great Library",
+          "role": "mentioned"
+        },
+        {
+          "name": "Brawnanvils",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-016/cleaned/dunmari-frontier-016-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Hralgar’s Warning",
+      "startUid": "u0001",
+      "endUid": "u0225",
+      "lineCount": 225,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening conversation establishes the captive giant’s request and the time pressure.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Traces of Thieves and Lost Books",
+      "startUid": "u0226",
+      "endUid": "u0494",
+      "lineCount": 269,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party splits up and searches the statue floor and library.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "The Tower’s Rooms and Records",
+      "startUid": "u0495",
+      "endUid": "u0800",
+      "lineCount": 306,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Search expands to the wind garden and lower rooms; the party reconvenes to compare research and letters.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Inside Eudomes’s Sealed Chamber",
+      "startUid": "u0801",
+      "endUid": "u1138",
+      "lineCount": 338,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Delwath teleports through the blocked door, investigates the room and mirror, and escapes with treasure after Seeker shrinks the door.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Dislodging the Sphere, Awakening Its Guardians",
+      "startUid": "u1139",
+      "endUid": "u1439",
+      "lineCount": 301,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party turns to the iron sphere; heating, cooling and pulling it loose provoke steam creatures. This is the first phase of a fight exceeding 500 source lines.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Dust Creatures Join the Fight",
+      "startUid": "u1440",
+      "endUid": "u1655",
+      "lineCount": 216,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Dust reinforcements change the fight; the last steam creature and then the dust creatures are defeated.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "A Mental Bridge and Delayed Departure",
+      "startUid": "u1656",
+      "endUid": "u1845",
+      "lineCount": 190,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party debates leaving while Kenzo continues his meditation and the others devise ways to drop the sphere.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Flight Through the Darkening Storm",
+      "startUid": "u1846",
+      "endUid": "u2023",
+      "lineCount": 178,
+      "dateStart": "1748-04-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The fading constellation and Kenzo’s warning trigger departure; the sphere falls and the party flees into the storm.",
+      "dateEvidence": [
+        "Session YAML anchors April 15; u0131–u0137 establishes night and u0663/u1977 reaffirm night. Continuous exploration and combat without sleep or another day transition."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Dawn, Lost Treasure, and Cautious Plans",
+      "startUid": "u2024",
+      "endUid": "u2339",
+      "lineCount": 316,
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party emerges at dawn, returns around the storm to Vola, and settles what to reveal; a later conversation is explicitly placed during the approach.",
+      "dateEvidence": [
+        "u2024 and u2040–u2047 establish dawn; u2161–u2162 confirms only a day away, resolving the party’s uncertainty about elapsed time; u2431–u2432 retains morning."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Vola’s Mission and Parting Ways",
+      "startUid": "u2340",
+      "endUid": "u2494",
+      "lineCount": 155,
+      "dateStart": "1748-04-16",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The conversation turns to the Society’s purpose, dwarven relics, and the companions’ separate roads.",
+      "dateEvidence": [
+        "u2024 and u2040–u2047 establish dawn; u2161–u2162 confirms only a day away, resolving the party’s uncertainty about elapsed time; u2431–u2432 retains morning."
+      ]
+    }
+  ]
+}
