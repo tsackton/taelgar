@@ -1,6 +1,6 @@
 ---
 name: transcribe-session
-description: Transcribe local RPG session recordings with ElevenLabs Scribe v2, then identify speakers with a local reference-based voice classifier and verified Scribe-ID fallback for short cues. Also inventory ordered chunks and alternate capture tracks. Use for first-pass session transcription and speaker attribution; stop before transcript cleanup or session-note preparation unless separately requested.
+description: Transcribe local RPG session recordings, identify speakers, and inventory recording chunks or alternate capture tracks. Use for first-pass transcription and speaker attribution; stop before transcript cleanup or source-bundle preparation unless separately requested.
 ---
 
 # Transcribe Session

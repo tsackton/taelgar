@@ -15,6 +15,7 @@ assets/generated/
 
 # Ignore base md files
 /*.md
+!/SKILLS.md
 
 # Ignore dot directories
 .*/

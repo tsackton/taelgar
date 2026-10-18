@@ -1,6 +1,6 @@
 ---
 name: prepare-session-source
-description: Prepare a Taelgar session source bundle before the agentic session-note-prep pipeline. Use when the user has a new RPG session recording or transcript and wants to create, verify, and run the vault-local source-preparation config plus transcript speaker mapping for a campaign bundle under the vault `_sessions` directory.
+description: Create and verify source configuration and speaker mappings, then build a prepared Taelgar session bundle from an existing transcript. Use before session-note-prep; this skill does not transcribe audio or run the downstream recap pipeline.
 ---
 
 # Prepare Session Source

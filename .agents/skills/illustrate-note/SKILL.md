@@ -1,6 +1,6 @@
 ---
 name: illustrate-note
-description: Iteratively illustrate an existing Taelgar note or session recap. Propose image targets, gather vault visual evidence, generate two initial alternatives outside the vault, refine with the user, and export only explicitly approved finals. Finish with captions and image callouts, optionally inserting them into notes or attaching images to recap scenes when requested. Use for people, places, sessions, histories, and other illustrated notes.
+description: Create and refine illustrations for an existing Taelgar note or session recap, with approved export and optional insertion. Use for portraits, places, objects, historical events, or session scenes.
 ---
 
 # Illustrate Note

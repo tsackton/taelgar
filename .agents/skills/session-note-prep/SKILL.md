@@ -1,6 +1,6 @@
 ---
 name: session-note-prep
-description: Run a prepared RPG session bundle through cleanup, beats, annotation, scene grouping, and session-recap.md. Interactive mode pauses only for material ASR uncertainty, chronology discrepancies or YAML date proposals, and approval of the scene proposal; auto mode skips routine approvals.
+description: Run or resume a prepared Taelgar session bundle through source cleanup, beat annotation, chronology review, scene grouping, and session-recap.md. Use for the end-to-end recap pipeline, not initial transcription or source-bundle preparation.
 ---
 
 # Session Note Prep
