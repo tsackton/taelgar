@@ -50,6 +50,8 @@ Use concrete actions such as lint, re-lint, create then lint, create in staging 
 
 For missing notes, include the proposed destination, supported frontmatter fields, and a brief factual bullet outline in the preview. For unresolved candidates, show the alternatives and why the identity or need for a note is uncertain. Preserve source privacy in both the preview and any persisted artifact.
 
+When some pages are blocked, offer a choice during scope approval: resolve all blockers before linting, or proceed with the explicitly listed ready subset while keeping blocked pages pending. Identify each blocked page and the decision needed. Approval of the ready subset does not exclude the pending pages or authorize remedies for them.
+
 State the proposed lint mode and whether previously completed notes are included. The default preserves every valid previous `lintedAt`/`lintVersion` pair; offer re-linting and obtain explicit authorization before including those pages. Do not infer re-lint permission from stale versions or recent session evidence.
 
 Include any requested image work and the exact status-table destination/section. If those options remain undecided, retain them as pending closeout choices in section 6; omission from the initial scope is not a decline. Scope approval can cover both the displayed note creations and the subsequent lint; do not request duplicate approval for those same operations. Material additions or changes require an updated preview and approval for the changed scope.
@@ -65,21 +67,21 @@ Before writing, check the current branch and working tree under the vault Git pr
 
 Validate and read back created files under `AGENTS.md`. Do not treat approved destinations or metadata proposals as permission to modify unrelated notes.
 
-## 4. Resolve lint blockers before review
+## 4. Resolve blockers or confirm the ready subset
 
 Load [lint-taelgar-note](../lint-taelgar-note/SKILL.md) and use its live applicability rules for the approved collection. Its specification and tools own eligibility; do not maintain a competing test here.
 
 Notes under `Worldbuilding` or dot/underscore directories are not lint targets. Factual bullets may qualify as substantive authored content; metadata-only notes, headings, and planning placeholders do not. A canonical file location alone does not make a note eligible.
 
-If any included page is missing, ambiguous, staged, or otherwise ineligible, **warn the user and pause before linting the collection**. List the affected paths and the needed decisions. Wait for the user to update them, explicitly authorize a bounded remedy, or explicitly exclude them. Do not silently lint only the eligible subset or move a note to make it eligible.
+If any included page is missing, ambiguous, staged, or otherwise ineligible, list the affected paths and needed decisions. Proceed with a ready subset only when the user has explicitly approved that exact subset; an approval already given in section 2 is sufficient. Otherwise pause before linting and offer the choice above. Blocked pages remain pending until the user updates them, explicitly authorizes a bounded remedy, or explicitly excludes them. Do not silently reduce the collection or move a note to make it eligible.
 
-After updates, reread affected sources and pages, resolve their current paths, and refresh the scope list. Continue on unchanged approval; obtain approval for material scope changes. Preserve exclusions and reasons in the final accounting. If the linter later discovers another ineligible subject, return to this checkpoint before finalization rather than silently accepting partial coverage.
+After updates, reread affected sources and pages, resolve their current paths, and refresh the scope list. Continue on unchanged approval; obtain approval for material scope changes. Preserve pending pages, exclusions, and reasons in the final accounting; completion of a ready subset is not completion of the full collection. If the linter later discovers another ineligible subject, return to this checkpoint before finalization rather than silently accepting partial coverage. Use the linter's normal batch preparation and finalization for the approved subset; never bypass its all-or-nothing checks or silently drop a manifest entry.
 
 ## 5. Hand off the approved collection to the linter
 
 Follow the live lint skill for single-note or batch execution, model/delegation requirements, authorization, privacy, verification, and finalization. Do not duplicate its findings, change its version, consult historical lint guidance, or implement a second editorial review pass.
 
-Pass exact approved subject paths, lint/re-lint authorization, any user restriction on prose edits, and the originating source notes or recaps with relevant references. The sources are evidence, not additional lint targets. Supply this context without bypassing the linter's normal source search or treating repeated session artifacts as independent evidence.
+Pass exact approved subject paths (only the ready subset when that option was selected), lint/re-lint authorization, any user restriction on prose edits, and the originating source notes or recaps with relevant references. Keep pending pages in the collection accounting, outside this lint run. The sources are evidence, not additional lint targets. Supply this context without bypassing the linter's normal source search or treating repeated session artifacts as independent evidence.
 
 Leave broader expansions or substantive changes surfaced by lint as proposals unless separately authorized. Record completed, skipped, excluded, blocked, and failed outcomes accurately; an old completed lint is not a review performed during this run. Retain completed work across pauses and do not re-lint it merely to resume the workflow.
 

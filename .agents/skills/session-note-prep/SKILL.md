@@ -55,6 +55,8 @@ Stage-specific helper artifacts may live in subdirectories under `cleaned/`, for
 - `cleanup-artifacts/`
 - `annotation-context/`
 
+Use these bundle paths in component commands rather than their illustrative output directories or prefixes. Keep beats, beat facts, chronology, scenes, summary context, and recap under `cleaned/`; use `cleaned/cleanup-artifacts/` for cleanup reports and `cleaned/annotation-context/` for extracted beat context. Where a command accepts `--file-prefix`, pass `<bundle-stem>`; where it accepts a full output filename, use the corresponding canonical path above.
+
 ## Modes
 
 If the user does not specify a mode, default to `interactive`.
@@ -131,31 +133,17 @@ A human-owned recap is allowed to fail the pipeline validator. Later skills may 
 5. Create helper directories only if needed, for example:
    - `cleaned/cleanup-artifacts/`
    - `cleaned/annotation-context/`
-6. Run the remaining stages in order below.
+6. Run the remaining stages in order below. Before checking scene approval on resume, read [the scene-proposal procedure](references/scene-proposal.md).
 
 ## Stage 1: Upstream Source Cleanup Or Normalization
 
-For `sourceType=transcript`, load `transcript-cleaner` before doing this stage.
+Produce `cleaned/<bundle-stem>-source-cleaned.md`. If it already exists and is trustworthy under the shared resume rules, reuse it.
 
-Produce `cleaned/<bundle-stem>-source-cleaned.md`.
+For `sourceType=transcript`, load and follow [transcript-cleaner](../transcript-cleaner/SKILL.md), including its cleanup passes, diff-report command, structural validation, and Manual Review procedure. Use this bundle's prepared and cleaned source paths, with reports in `cleaned/cleanup-artifacts/`.
 
-If the cleaned source already exists and is trustworthy, reuse it. For transcripts, still check the current cleanup report and acceptance state before moving to source splitting.
+Before source splitting, check the current cleanup report and acceptance state. Complete the whole cleanup before any material-ASR pause; follow the mode rules above and the cleaner's review procedure. At that pause, include changed-line and unresolved-issue counts and the cleanup summary path alongside the required source text, context, and materiality judgment. Generate the audio correction page only if the user requests it after this review. Do not reopen unchanged accepted uncertainty.
 
-For transcript bundles:
-
-Then run the diff report:
-
-```bash
-python .agents/skills/transcript-cleaner/scripts/report_cleanup_diff.py \
-  --original /path/to/cleaned/<bundle-stem>-source-prepared.md \
-  --cleaned /path/to/cleaned/<bundle-stem>-source-cleaned.md \
-  --output-dir /path/to/cleaned/cleanup-artifacts \
-  --file-prefix <bundle-stem>
-```
-
-For non-transcript bundles:
-
-Run:
+For `sourceType=narrative|raw_notes`, run:
 
 ```bash
 python .agents/skills/session-note-prep/scripts/normalize_source.py \
@@ -164,207 +152,39 @@ python .agents/skills/session-note-prep/scripts/normalize_source.py \
   --file-prefix <bundle-stem>
 ```
 
-Quick-pass validation focus:
-
-- transcript bundles: header preservation, line-count preservation, unresolved markers, repeated correction drift
-- non-transcript bundles: sensible detected shape, useful primary units, preserved supplemental sources, omitted duplicate sections recorded in the normalization report
-
-Mode handling:
-
-- `auto`: apply the cleaner's auto policy; report uncertainty, continue where reliable, or stop for a genuine blocker.
-- `interactive`: after the whole cleanup, assess the importance and scale of unresolved errors using `transcript-cleaner`'s Manual Review rules. If needed, follow its [review reference](../transcript-cleaner/references/manual-review.md) to save assessments and tolerance decisions. Never ask for approval of a clean transcript or incidental chatter.
-- Non-transcript normalization has no routine approval pause. Resolve obvious normalization failures or report a structural blocker; do not invent ASR review for note-based sources.
-
-At a material-ASR pause, provide changed-line and unresolved-issue counts, the important unresolved text with source IDs and brief context, judgment about its effect on the session record, and the cleanup summary path. Ask whether the remaining uncertainty is tolerated or needs correction. Do not stop between transcript chunks. Do not generate the audio review page unless the user then requests it.
+Check sensible detected shape, useful primary units, preserved supplemental sources, and omitted duplicate sections recorded in the normalization report. Non-transcript normalization has no routine approval pause. Resolve obvious normalization failures or report a structural blocker; do not invent ASR review for note-based sources.
 
 ## Stage 2: Source Splitting
 
-Load `transcript-splitter` before doing this stage.
+Load and follow [transcript-splitter](../transcript-splitter/SKILL.md) for drafting, validation, and preview generation, using this bundle's `cleaned_transcript`, `session_yaml`, and `beats_json` paths.
 
-If `beats_json` already exists, run the validator first.
-If it validates cleanly, skip regeneration and move to beat annotation.
-
-Otherwise, draft `beats_json`, then validate and render it with:
-
-```bash
-python .agents/skills/transcript-splitter/scripts/manage_beats.py \
-  --transcript /path/to/cleaned/<bundle-stem>-source-cleaned.md \
-  --session /path/to/cleaned/<bundle-stem>-session.yaml \
-  --beats-json /path/to/cleaned/<bundle-stem>-beats.json \
-  --output-dir /path/to/cleaned \
-  --file-prefix <bundle-stem>
-```
-
-Quick-pass validation focus:
-
-- full transcript coverage
-- beat order
-- date sequencing
-- suspiciously tiny or oversized beats
-- preview sanity
-
-In both modes, repair obvious structural or boundary issues and continue directly into annotation. There is no beat approval checkpoint. Beats are small narrative units; do not force a fixed count per hour. Preserve chronology warnings for the review after annotation rather than inventing dates or changing YAML to satisfy a check.
+Validate existing beats and reuse them only under the shared resume rules. Otherwise complete the splitter's workflow and checks. In both modes, continue directly into annotation without a beat approval checkpoint. Carry chronology warnings forward to the review after annotation; do not invent dates or change YAML to satisfy a check.
 
 ## Stage 3: Beat Annotation
 
-Load `beat-annotator` before doing this stage.
+Load and follow [beat-annotator](../beat-annotator/SKILL.md) for context extraction, fact annotation, validation, and review. Use this bundle's `session_yaml`, `cleaned_transcript`, `beats_json`, and `beat_facts_json`; extract context into `cleaned/annotation-context/` and write facts and their preview into `cleaned/`.
 
-If `beat_facts_json` already exists, validate it first.
-If it validates cleanly, skip regeneration and perform the chronology review below before scene grouping.
-
-Otherwise, first extract deterministic beat context:
-
-```bash
-python .agents/skills/beat-annotator/scripts/extract_beat_context.py \
-  --transcript /path/to/cleaned/<bundle-stem>-source-cleaned.md \
-  --session /path/to/cleaned/<bundle-stem>-session.yaml \
-  --beats-json /path/to/cleaned/<bundle-stem>-beats.json \
-  --output-dir /path/to/cleaned/annotation-context \
-  --file-prefix <bundle-stem>
-```
-
-Then draft and validate beat facts:
-
-```bash
-python .agents/skills/beat-annotator/scripts/manage_beat_facts.py \
-  --session /path/to/cleaned/<bundle-stem>-session.yaml \
-  --beats-json /path/to/cleaned/<bundle-stem>-beats.json \
-  --beat-facts-json /path/to/cleaned/<bundle-stem>-beat-facts.json \
-  --output-dir /path/to/cleaned \
-  --file-prefix <bundle-stem>
-```
-
-Quick-pass validation focus:
-
-- beat/fact ordering alignment
-- missing facts
-- PCs incorrectly tagged as NPCs
-- location continuity problems
-- combat mismatches and preview sanity
-
-There is no general beat-facts approval checkpoint. Perform the brief full-session chronology review in [beat-annotator's timeline reference](../beat-annotator/references/timeline-review.md). Produce the source-based transition record and run `review_timeline.py` to compare inferred dates with beats, facts, and YAML.
+Validate existing beat facts and reuse them only under the shared resume rules. Whether facts are reused or newly generated, perform the full-session chronology review before scene grouping. There is no general beat-facts approval checkpoint. Read and follow [the chronology procedure](../beat-annotator/references/timeline-review.md), producing the source-based transition record and current checked report.
 
 Pause in interactive mode only for remaining discrepancies needing human input or proposed YAML date changes. A blank `drEnd` is an opportunity to propose the supported end date here. Show current/proposed values and evidence; apply date changes only after explicit approval. Repair source-supported mistakes upstream, refresh matching facts, and rerun the review. When chronology is consistent, continue automatically. In auto mode, unresolved discrepancies requiring human input stop the run with a blocker report.
 
 ## Stage 3.5: Recap Scene Proposal
 
-Beats are evidence and navigation units; they are not automatically recap scenes. Before building the summary context, propose a smaller set of contiguous scene groups that reflects the session's actual playable situations.
+Read and follow [the scene-proposal procedure](references/scene-proposal.md) in full. It owns grouping guidance, the scene JSON shape, validation, the two review tables, and approval recording and verification.
 
-Human guidance controls this stage:
-
-- If the user gives exact beat groupings, preserve them unless they fail ordered coverage validation.
-- If the user gives partial guidance, treat it as a constraint and propose the remaining boundaries around it.
-- If the user gives no guidance, infer scenes from continuity of location, situation, immediate goal, and active cast.
-- Do not target a fixed scene count or mechanically make one scene per beat.
-- Do not merge across a genuine change of situation merely to make the recap shorter.
-- Keep scene grouping independent from timeline grouping; one recap scene may cross a calendar-date boundary.
-
-Draft `cleaned/<bundle-stem>-recap-scenes.json` with this shape:
-
-```json
-{
-  "schemaVersion": "1.0",
-  "scenes": [
-    {
-      "sceneId": "scene-001",
-      "title": "A short scene title",
-      "beatIds": ["beat-001", "beat-002"],
-      "rationale": "Why these adjacent beats form one playable situation.",
-      "overview": "A very brief description of the scene's action.",
-      "transitionToNext": "The concrete change that starts the next scene."
-    }
-  ]
-}
-```
-
-Validate it and render the proposal preview:
-
-```bash
-python .agents/skills/session-summary/scripts/manage_recap_scenes.py \
-  --beats-json /path/to/cleaned/<bundle-stem>-beats.json \
-  --beat-facts-json /path/to/cleaned/<bundle-stem>-beat-facts.json \
-  --recap-scenes-json /path/to/cleaned/<bundle-stem>-recap-scenes.json \
-  --transcript /path/to/cleaned/<bundle-stem>-source-cleaned.md \
-  --timeline-review /path/to/cleaned/<bundle-stem>-timeline-review.json \
-  --require-review-fields \
-  --output-dir /path/to/cleaned \
-  --file-prefix <bundle-stem>
-```
-
-The validator requires every beat exactly once, in original order, divided into contiguous groups with stable sequential scene IDs.
-
-Mode handling:
-
-- `auto`: validate the proposal, make one narrow repair if needed, then continue without pausing.
-- `interactive`: present both tables below in chat and always wait for approval of the displayed proposal before generating summary context. Respect supplied groupings, but still show their timing, overview, transitions, and chronology for review.
-
-At the interactive checkpoint, state the scene count, display these tables, link the preview, and ask for approval or revisions:
-
-| Scene name | Beats covered | Time in play | Brief overview | Transition to next scene |
-|---|---|---|---|---|
-
-Use elapsed transcript timestamps, including pauses, for time in play. The helper computes the range and duration; never estimate from line counts. If timestamps are absent or reset within a scene, state that timing is unavailable unless a verified alignment has been supplied. The final scene's transition is `Session ends`. Keep the overview and transition reason brief; the transition should explain the actual boundary, not just repeat the next title.
-
-| In-world date/time or transition | Beats | Scenes | Evidence |
-|---|---|---|---|
-
-Use the checked chronology record: session start followed by all supported date/time transitions, including those within a beat or scene. Cite source IDs and distinguish explicit, inferred, and unknown timing. The helper maps transition IDs to beats and scenes.
-
-After explicit approval, rerun the same command with `--record-approval 'actual user decision'`. Before interactive summary generation or resume, rerun it with `--require-approval --validate-only`. Approval is bound to the proposal and current review inputs. A changed grouping, source, facts, or chronology requires a new displayed proposal and approval. Do not create an approval record in auto mode.
+In interactive mode, display the scene proposal and date/time transition tables and obtain approval before generating summary context, even when the user supplied groupings or valid scene JSON already exists. On resume, reuse approval only when it matches the current proposal and review inputs; otherwise display the updated proposal and obtain approval. In auto mode, validate the grouping without creating a human approval record.
 
 ## Stage 4: Session Summary
 
-Load `session-summary` before doing this stage.
+Load and follow [session-summary](../session-summary/SKILL.md) for context building, recap scaffolding, drafting, and validation. Use this bundle's canonical paths and approved or auto-validated `recap_scenes_json`; do not use the standalone skill's legacy fallback without a scene map.
 
-Require a current chronology review with no open issues and, in interactive mode, matching approval of the displayed scene proposal. Do not treat valid JSON as proof of either review.
-
-Before drafting, search for one clearly matching human-written session note using the canonical campaign identity and session number. If it exists, read it fully and use it as a secondary guide for summary style, emphasis, established naming, and notable details. Do not let it override the cleaned source, finalized beats, or beat facts; ignore stale dates or unsupported claims, and do not edit the written note during this pipeline stage.
-
-The timeline output has only the compact `Short` view. Exact multi-day beats must be expanded into separate calendar-day entries before drafting. Strongly prefer daily entries: an overnight rest followed by next-day travel or arrival must never remain one date-range entry.
-
-The recap scaffold includes optional human-owned `Arc` and `Table Notes` header fields. Leave both as `none` unless the user explicitly supplies their values. Do not infer them from the transcript, beat facts, or a written session note; surface them at handoff as fields the user may fill in.
+Require a current chronology review with no open issues and, in interactive mode, matching approval of the displayed scene proposal. Do not treat valid JSON as proof of either review. Follow the scene-proposal reference to verify approval before summary generation or resume.
 
 If both `summary_context_json` and `session_recap_md` already exist, first apply the human-edited recap boundary above. Run `manage_session_recap.py` only when the recap is still an untouched agent-generated artifact in the current pre-handoff run. If it validates cleanly, skip this stage and treat the bundle as already complete. Otherwise, leave a human-owned recap unchanged unless the user explicitly requested rebuilding or validation.
 
-Otherwise, build the deterministic context:
+The component skill owns the written-session-note lookup, daily timeline rules, and human-owned `Arc` and `Table Notes` fields. At handoff, surface those optional fields as values the user may fill in.
 
-```bash
-python .agents/skills/session-summary/scripts/build_session_summary_context.py \
-  --session /path/to/cleaned/<bundle-stem>-session.yaml \
-  --beats-json /path/to/cleaned/<bundle-stem>-beats.json \
-  --beat-facts-json /path/to/cleaned/<bundle-stem>-beat-facts.json \
-  --recap-scenes-json /path/to/cleaned/<bundle-stem>-recap-scenes.json \
-  --output-dir /path/to/cleaned \
-  --file-prefix <bundle-stem>
-```
-
-Build the recap scaffold:
-
-```bash
-python .agents/skills/session-summary/scripts/build_session_recap.py \
-  --context-json /path/to/cleaned/<bundle-stem>-session-summary-context.json \
-  --output-dir /path/to/cleaned \
-  --file-prefix <bundle-stem>
-```
-
-Then fill in the prose fields and validate:
-
-```bash
-python .agents/skills/session-summary/scripts/manage_session_recap.py \
-  --context-json /path/to/cleaned/<bundle-stem>-session-summary-context.json \
-  --session-recap-md /path/to/cleaned/<bundle-stem>-session-recap.md
-```
-
-Quick-pass validation focus:
-
-- all required sections present
-- no remaining `TODO` placeholders
-- Session Header title, tagline, summary, DM, and PCs are filled correctly
-- recap/timeline/combat block ordering preserved
-- no timeline `Long` subsections or exact multi-day timeline blocks remain
-
-This stage completes the skill.
-Do not add an automatic pause after it in `interactive` mode unless the user asked for one.
+This stage completes the skill. Do not add an automatic pause after it in `interactive` mode unless the user asked for one.
 
 ## Completion Criteria
 
