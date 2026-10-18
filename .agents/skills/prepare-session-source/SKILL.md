@@ -151,7 +151,13 @@ For `campaign: Lost in the Feywild` and `sessionNumber: 4`, `prepare_source.py` 
     lost-in-the-feywild-004-speaker-stats.json
 ```
 
-After the command finishes, report:
+## Completion and recovery
+
+Declare the bundle ready only after the command succeeds and the session YAML, prepared source, and applicable speaker-statistics JSON are present and readable. Parse the structured files, confirm the campaign/session identity and approved dates, and check that the manifest's referenced source and control files exist. Inspect the prepared source and speaker warnings before handing it off; an output directory alone is not proof of completion.
+
+If the command fails or is interrupted, report the failed step or error, which outputs exist, and what remains incomplete. Preserve partial output and any existing downstream cleanup, beats, recaps, or human edits. Do not automatically delete the bundle or retry with `--force`. Inspect the partial state and propose the specific recovery or replacement needed; existing approval covers only its stated scope, and overwriting still requires the explicit approval above.
+
+A ready source bundle completes this skill, not the downstream recap pipeline. After verification, report:
 
 - files written by the command
 - any warnings about unknown speakers

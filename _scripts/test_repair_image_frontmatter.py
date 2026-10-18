@@ -65,7 +65,7 @@ class ImageFrontmatterTests(unittest.TestCase):
         self.assertEqual(result["summary"], {"empty": 2, "external": 1, "valid": 2})
 
     def test_every_image_directory_is_searchable_including_excluded_move_folders(self):
-        for n, folder in enumerate(("assets/_incoming", "assets/pc_references", "assets/campaign/deep", "_DM_/maps")):
+        for n, folder in enumerate(("assets/_incoming", "assets/pc-references", "assets/campaign/deep", "_DM_/maps")):
             self.put(f"{folder}/p{n}.png")
             self.note(f"N{n}.md", f"p{n}.png")
         self.assertEqual(len(self.scan()["changes"]), 4)

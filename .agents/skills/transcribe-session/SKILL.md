@@ -93,6 +93,28 @@ optional explicit spelling of that default. Pass `--num-speakers N` only for an
 explicitly requested fixed count, never merely because the roster has N people.
 Use `--force` only after confirming replacement of existing output artifacts.
 
+## Completion and local recovery
+
+Distinguish receiving the transcription from completing its local outputs and from completing any requested speaker identification. A successful response alone is not a finished transcript/review bundle; the VTT, manifest, speaker preview, and sample files must also be written and verified. Report unfinished speaker identification separately.
+
+After validating a service response, the helper retains its exact JSON and a recovery record under `<recording-stem>.recovery-*/` in the transcription output directory before producing local artifacts. The record captures the recording hash, request settings, and response hash without credentials. If later local work fails, report the retained response path, the error, and any partial outputs. Preserve this pair; do not repeat the upload merely to regenerate local files.
+
+Use the original recording, roster, and request options with `--resume-response` to finish locally, for example:
+
+```bash
+python3 .agents/skills/transcribe-session/scripts/transcribe_session.py \
+  "/absolute/path/to/Session-Audio.m4a" \
+  --participants "/absolute/path/to/campaign-participants.yaml" \
+  --keyterms "/absolute/path/to/campaign-keyterms.txt" \
+  --output-dir "/absolute/path/to/transcription-output" \
+  --language-code eng \
+  --resume-response "/absolute/path/to/transcription-output/Session-Audio.recovery-EXAMPLE/response.json"
+```
+
+Substitute the actual reported response path and original options; omit optional flags that were not used. Recovery verifies the recording hash, resolved request settings, and response hash, and never uploads audio or reads an API key. A mismatch stops recovery rather than silently assigning old transcription to changed inputs. `--dry-run` can check the recovery plan without writing. Do not combine recovery with `--confirm-upload`. If partial or previous outputs would be replaced, obtain the existing required replacement approval before adding `--force`; do not delete them merely to bypass that gate.
+
+A normal successful run removes its temporary recovery pair after all outputs are written. A successful local recovery preserves the supplied pair for review. Recovery is not a new transcription or a new speaker-identification pass.
+
 ## Outputs
 
 For `Session-Audio.m4a`, the output directory receives:

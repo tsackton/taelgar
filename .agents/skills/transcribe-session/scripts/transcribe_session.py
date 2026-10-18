@@ -156,7 +156,12 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--force",
         action="store_true",
-        help="Replace existing output artifacts after a fresh successful response.",
+        help="Replace existing output artifacts after a successful or recovered response.",
+    )
+    parser.add_argument(
+        "--resume-response",
+        type=Path,
+        help="Finish local outputs from a retained response and its recovery record; never upload.",
     )
     return parser
 
@@ -165,7 +170,7 @@ def main(argv: Sequence[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
     try:
         return run(args)
-    except TranscriptionError as exc:
+    except (TranscriptionError, OSError) as exc:
         print(f"error: {exc}", file=sys.stderr)
         return 2
 
@@ -198,6 +203,27 @@ def run(args: argparse.Namespace) -> int:
         raise TranscriptionError(str(exc)) from exc
 
     outputs = build_output_paths(audio_path, output_dir)
+    if args.resume_response and args.confirm_upload:
+        raise TranscriptionError("--resume-response cannot be combined with --confirm-upload")
+    response_path = (
+        resolve_input_file(args.resume_response, "retained response")
+        if args.resume_response else None
+    )
+    audio_sha256 = sha256_file(audio_path) if response_path else None
+    request_fingerprint = None
+    recovery_record = None
+    if response_path:
+        request_fingerprint = build_request_fingerprint(
+            audio_sha256=audio_sha256,
+            language_code=language_code,
+            num_speakers=num_speakers,
+            keyterms=keyterms,
+        )
+        recovery_record = load_recovery_record(
+            response_path, audio_sha256, request_fingerprint
+        )
+        if response_path in outputs.values():
+            raise TranscriptionError("retained response must be separate from final output paths")
     plan = build_plan(
         audio_path=audio_path,
         participants_path=participants_path,
@@ -212,22 +238,31 @@ def run(args: argparse.Namespace) -> int:
     )
 
     if args.dry_run:
-        api_key_source = resolve_api_key(args.env_file, required=False)[1]
+        api_key_source = (
+            "not required (local recovery)" if response_path
+            else resolve_api_key(args.env_file, required=False)[1]
+        )
+        if response_path:
+            plan["operation"] = "recover-local-dry-run"
+            plan["resumeResponse"] = str(response_path)
+            plan["uploadsAudio"] = False
         plan["apiKeySource"] = api_key_source or "not configured (not required for dry-run)"
         print(json.dumps(plan, indent=2, ensure_ascii=False))
         return 0
 
-    if not args.confirm_upload:
+    if not response_path and not args.confirm_upload:
         raise TranscriptionError(
             "refusing external upload without --confirm-upload; run --dry-run and obtain explicit authorization first"
         )
 
-    api_key, api_key_source = resolve_api_key(args.env_file, required=True)
-    assert api_key is not None
+    api_key, api_key_source = (
+        (None, "not required (local recovery)") if response_path
+        else resolve_api_key(args.env_file, required=True)
+    )
     ensure_outputs_available(outputs, force=args.force)
     output_dir.mkdir(parents=True, exist_ok=True)
 
-    audio_sha256 = sha256_file(audio_path)
+    audio_sha256 = audio_sha256 or sha256_file(audio_path)
     request_fingerprint = build_request_fingerprint(
         audio_sha256=audio_sha256,
         language_code=language_code,
@@ -235,7 +270,14 @@ def run(args: argparse.Namespace) -> int:
         keyterms=keyterms,
     )
 
-    response_temp = make_temp_path(output_dir, f".{audio_path.stem}.", ".response.json")
+    recovering = response_path is not None
+    recovery_dir = None
+    if not recovering:
+        recovery_dir = Path(tempfile.mkdtemp(dir=output_dir, prefix=f"{audio_path.stem}.recovery-"))
+        response_path = recovery_dir / "response.json"
+    assert response_path is not None
+    response_validated = recovering
+    outputs_complete = False
     media_temp_dir = Path(
         tempfile.mkdtemp(dir=output_dir, prefix=f".{audio_path.stem}.speaker-media.")
     )
@@ -246,18 +288,41 @@ def run(args: argparse.Namespace) -> int:
             backend=clip_backend,
             temporary_dir=media_temp_dir,
         )
-        status_code = invoke_curl(
-            api_key=api_key,
-            audio_path=audio_path,
-            response_path=response_temp,
-            language_code=language_code,
-            num_speakers=num_speakers,
-            keyterms=keyterms,
-        )
-        if not 200 <= status_code < 300:
-            raise TranscriptionError(format_api_error(status_code, response_temp))
+        if not recovering:
+            assert api_key is not None
+            status_code = invoke_curl(
+                api_key=api_key,
+                audio_path=audio_path,
+                response_path=response_path,
+                language_code=language_code,
+                num_speakers=num_speakers,
+                keyterms=keyterms,
+            )
+            if not 200 <= status_code < 300:
+                raise TranscriptionError(format_api_error(status_code, response_path))
 
-        payload = load_and_validate_response(response_temp)
+        payload = load_and_validate_response(response_path)
+        response_validated = True
+        if not recovering:
+            recovery_record = {
+                "schemaVersion": 1,
+                "receivedAt": datetime.now(timezone.utc).isoformat(),
+                "audioPath": str(audio_path),
+                "audioSha256": audio_sha256,
+                "participantsPath": str(participants_path),
+                "keytermsPath": str(keyterms_path) if keyterms_path else None,
+                "request": {
+                    "languageCode": language_code,
+                    "numSpeakers": num_speakers,
+                    "keyterms": keyterms,
+                },
+                "requestFingerprint": request_fingerprint,
+                "responseSha256": sha256_file(response_path),
+            }
+            atomic_write_text(
+                response_path.with_suffix(".recovery.json"),
+                json.dumps(recovery_record, indent=2) + "\n",
+            )
         turns = build_turns(payload["words"])
         if not turns:
             raise TranscriptionError("ElevenLabs returned no timed transcript turns")
@@ -282,6 +347,8 @@ def run(args: argparse.Namespace) -> int:
         )
         response_summary = summarize_response(payload, turns, num_speakers)
         response_summary["speakerSampleCount"] = len(sample_metadata)
+        if recovery_record and recovery_record.get("receivedAt"):
+            response_summary["receivedAt"] = recovery_record["receivedAt"]
         manifest_payload = build_manifest(
             audio_path=audio_path,
             audio_sha256=audio_sha256,
@@ -292,14 +359,15 @@ def run(args: argparse.Namespace) -> int:
             num_speakers=num_speakers,
             request_fingerprint=request_fingerprint,
             outputs=outputs,
-            response_temp=response_temp,
+            response_temp=response_path,
             vtt_text=vtt_text,
             preview_text=preview_text,
             sample_metadata=sample_metadata,
             response_summary=response_summary,
         )
 
-        os.replace(response_temp, outputs.raw_json)
+        # Keep the recovery copy until every final artifact has been written.
+        atomic_write_bytes(outputs.raw_json, response_path.read_bytes())
         atomic_write_text(outputs.vtt, vtt_text)
         replace_directory(
             samples_temp_dir,
@@ -312,8 +380,18 @@ def run(args: argparse.Namespace) -> int:
             outputs.manifest,
             json.dumps(manifest_payload, indent=2, ensure_ascii=False) + "\n",
         )
+        outputs_complete = True
     finally:
-        response_temp.unlink(missing_ok=True)
+        if recovery_dir is not None and (outputs_complete or not response_validated):
+            shutil.rmtree(recovery_dir, ignore_errors=True)
+        if response_validated and not outputs_complete:
+            print(
+                f"Transcription response retained at {response_path}; local outputs are incomplete. "
+                "Retry with the same recording and request options using "
+                f"--resume-response '{response_path}' (no upload). "
+                "Existing outputs still require explicit replacement approval before --force.",
+                file=sys.stderr,
+            )
         shutil.rmtree(media_temp_dir, ignore_errors=True)
         if samples_temp_dir is not None:
             shutil.rmtree(samples_temp_dir, ignore_errors=True)
@@ -337,6 +415,26 @@ def run(args: argparse.Namespace) -> int:
     for warning in response_summary["warnings"]:
         print(f"warning: {warning}", file=sys.stderr)
     return 0
+
+
+def load_recovery_record(
+    response_path: Path, audio_sha256: str, request_fingerprint: str
+) -> dict[str, Any]:
+    record_path = response_path.with_suffix(".recovery.json")
+    try:
+        record = json.loads(record_path.read_text(encoding="utf-8"))
+    except (OSError, UnicodeError, json.JSONDecodeError) as exc:
+        raise TranscriptionError(f"could not read recovery record {record_path}: {exc}") from exc
+    if not isinstance(record, dict) or record.get("schemaVersion") != 1:
+        raise TranscriptionError("unsupported transcription recovery record")
+    if record.get("audioSha256") != audio_sha256:
+        raise TranscriptionError("retained response belongs to different audio; refusing recovery")
+    if record.get("requestFingerprint") != request_fingerprint:
+        raise TranscriptionError("request options differ from the retained response; use the original options")
+    if record.get("responseSha256") != sha256_file(response_path):
+        raise TranscriptionError("retained response has changed; refusing recovery")
+    load_and_validate_response(response_path)
+    return record
 
 
 def resolve_input_file(path: Path, label: str) -> Path:
@@ -1043,10 +1141,14 @@ def make_temp_path(directory: Path, prefix: str, suffix: str) -> Path:
 
 
 def atomic_write_text(path: Path, content: str) -> None:
+    atomic_write_bytes(path, content.encode("utf-8"))
+
+
+def atomic_write_bytes(path: Path, content: bytes) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temp_path = make_temp_path(path.parent, f".{path.name}.", ".tmp")
     try:
-        temp_path.write_text(content, encoding="utf-8")
+        temp_path.write_bytes(content)
         os.replace(temp_path, path)
     finally:
         temp_path.unlink(missing_ok=True)

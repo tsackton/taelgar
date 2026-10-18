@@ -3,12 +3,14 @@
 from __future__ import annotations
 
 import importlib.util
+import io
 import json
 import os
 import sys
 import tempfile
 import unittest
 from pathlib import Path
+from contextlib import ExitStack
 from unittest import mock
 
 
@@ -287,6 +289,7 @@ class TranscribeSessionTests(unittest.TestCase):
             )
             self.assertIn("Taelgar", manifest["request"]["keyterms"])
             self.assertEqual(len(manifest["outputs"]["speakerSamples"]), 2)
+            self.assertEqual(list(output_dir.glob("*.recovery-*")), [])
 
     def test_dry_run_requires_no_api_key_and_writes_nothing(self) -> None:
         with tempfile.TemporaryDirectory() as raw_dir:
@@ -320,6 +323,126 @@ class TranscribeSessionTests(unittest.TestCase):
                 )
         self.assertEqual(result, 0)
         self.assertFalse(output_dir.exists())
+
+    def test_post_response_failures_retain_response_and_resume_without_upload(self) -> None:
+        for failure, existing in [("samples", False), ("manifest", False), ("samples", True)]:
+            with self.subTest(failure=failure, existing=existing), tempfile.TemporaryDirectory() as raw_dir:
+                root = Path(raw_dir)
+                audio = root / "Session-Test.m4a"
+                audio.write_bytes(b"fake recording")
+                participants = root / "participants.yaml"
+                participants.write_text("participants:\n- name: Test Person\n  gameRole: DM\n")
+                output_dir = root / "output"
+                outputs = MODULE.build_output_paths(audio, output_dir)
+                original_outputs = {}
+                if existing:
+                    output_dir.mkdir()
+                    for path in outputs.values()[:-1]:
+                        path.write_bytes(b"previous completed output")
+                        original_outputs[path] = path.read_bytes()
+                    outputs.speaker_samples_dir.mkdir()
+                    old_sample = outputs.speaker_samples_dir / "old.m4a"
+                    old_sample.write_bytes(b"previous sample")
+                    original_outputs[old_sample] = old_sample.read_bytes()
+                raw_response = json.dumps(SAMPLE_RESPONSE, indent=3).encode() + b"\n"
+                args = [str(audio), "--participants", str(participants), "--output-dir", str(output_dir)]
+                backend = MODULE.MediaBackend("fake", "/fake/tool")
+
+                def fake_curl(**kwargs: object) -> int:
+                    Path(kwargs["response_path"]).write_bytes(raw_response)
+                    return 200
+
+                def fake_clip(source: Path, output: Path, **kwargs: object) -> None:
+                    output.write_bytes(b"sample")
+
+                real_write = MODULE.atomic_write_text
+
+                def fail_manifest(path: Path, content: str) -> None:
+                    if path.resolve() == outputs.manifest.resolve():
+                        raise OSError("simulated manifest write failure")
+                    real_write(path, content)
+
+                with ExitStack() as stack:
+                    stack.enter_context(mock.patch.object(MODULE, "resolve_clip_backend", return_value=backend))
+                    stack.enter_context(mock.patch.object(MODULE, "preflight_speaker_samples", return_value=(audio, backend)))
+                    stack.enter_context(mock.patch.object(MODULE, "extract_audio_clip", side_effect=fake_clip))
+                    upload = stack.enter_context(mock.patch.object(MODULE, "invoke_curl", side_effect=fake_curl))
+                    stack.enter_context(mock.patch("sys.stdout", new_callable=io.StringIO))
+                    stderr = stack.enter_context(mock.patch("sys.stderr", new_callable=io.StringIO))
+                    with mock.patch.object(MODULE, "resolve_api_key", return_value=("secret-test-key", "test")):
+                        failure_patch = (
+                            mock.patch.object(MODULE, "extract_speaker_samples", side_effect=MODULE.TranscriptionError("simulated clip failure"))
+                            if failure == "samples" else
+                            mock.patch.object(MODULE, "atomic_write_text", side_effect=fail_manifest)
+                        )
+                        with failure_patch:
+                            result = MODULE.main(args + ["--confirm-upload"] + (["--force"] if existing else []))
+                    self.assertEqual(result, 2)
+                    upload.assert_called_once()
+                    retained = list(output_dir.glob("*.recovery-*/response.json"))
+                    self.assertEqual(len(retained), 1)
+                    response = retained[0]
+                    self.assertEqual(response.read_bytes(), raw_response)
+                    self.assertIn(str(response), stderr.getvalue())
+                    record = response.with_suffix(".recovery.json")
+                    self.assertNotIn("secret-test-key", record.read_text())
+                    for path, content in original_outputs.items():
+                        self.assertEqual(path.read_bytes(), content)
+                    if failure == "samples" and not existing:
+                        self.assertFalse(any(p.exists() for p in outputs.values()))
+
+                    with mock.patch.object(MODULE, "resolve_api_key", side_effect=AssertionError("recovery must not read credentials")):
+                        recovery_args = args + ["--resume-response", str(response)]
+                        before_dry_run = {p: p.read_bytes() for p in output_dir.rglob("*") if p.is_file()}
+                        self.assertEqual(MODULE.main(recovery_args + ["--dry-run"]), 0)
+                        self.assertEqual(
+                            {p: p.read_bytes() for p in output_dir.rglob("*") if p.is_file()},
+                            before_dry_run,
+                        )
+                        if existing or failure == "manifest":
+                            self.assertEqual(MODULE.main(recovery_args), 2)
+                            recovery_args += ["--force"]
+                        self.assertEqual(MODULE.main(recovery_args), 0)
+                    upload.assert_called_once()  # Recovery made no second service request.
+                    self.assertEqual(response.read_bytes(), raw_response)
+                    self.assertEqual(outputs.raw_json.read_bytes(), raw_response)
+                    manifest = json.loads(outputs.manifest.read_text())
+                    self.assertEqual(manifest["outputs"]["rawJsonSha256"], MODULE.sha256_file(response))
+                    self.assertIn("Hello Kenzo.", outputs.vtt.read_text())
+                    self.assertEqual(len(list(outputs.speaker_samples_dir.glob("*.m4a"))), 2)
+                    self.assertTrue(outputs.speaker_preview.is_file())
+
+    def test_recovery_rejects_changed_audio_options_or_response_without_upload(self) -> None:
+        with tempfile.TemporaryDirectory() as raw_dir:
+            root = Path(raw_dir)
+            audio = root / "Session-Test.m4a"
+            audio.write_bytes(b"original audio")
+            participants = root / "participants.yaml"
+            participants.write_text("participants:\n- name: Test Person\n  gameRole: DM\n")
+            response = root / "response.json"
+            response.write_text(json.dumps(SAMPLE_RESPONSE))
+            terms, _ = MODULE.load_participant_terms(participants)
+            record = {
+                "schemaVersion": 1,
+                "audioSha256": MODULE.sha256_file(audio),
+                "responseSha256": MODULE.sha256_file(response),
+                "requestFingerprint": MODULE.build_request_fingerprint(
+                    audio_sha256=MODULE.sha256_file(audio), language_code="eng", num_speakers=None, keyterms=terms
+                ),
+            }
+            response.with_suffix(".recovery.json").write_text(json.dumps(record))
+            args = [str(audio), "--participants", str(participants), "--output-dir", str(root / "output"), "--resume-response", str(response)]
+            with mock.patch.object(MODULE, "resolve_clip_backend"), mock.patch.object(MODULE, "invoke_curl") as upload, mock.patch.object(MODULE, "resolve_api_key") as credentials:
+                self.assertEqual(MODULE.main(args + ["--confirm-upload"]), 2)
+                self.assertEqual(MODULE.main(args + ["--language-code", "fra"]), 2)
+                audio.write_bytes(b"different audio")
+                self.assertEqual(MODULE.main(args), 2)
+                audio.write_bytes(b"original audio")
+                response.write_text(json.dumps(SAMPLE_RESPONSE) + "\n")
+                self.assertEqual(MODULE.main(args), 2)
+                upload.assert_not_called()
+                credentials.assert_not_called()
+            self.assertFalse((root / "output").exists())
 
     def test_speaker_detection_default_and_explicit_overrides(self) -> None:
         with tempfile.TemporaryDirectory() as raw_dir:
