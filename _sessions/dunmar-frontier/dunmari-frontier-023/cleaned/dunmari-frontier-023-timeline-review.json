@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-05-11",
+  "inferredEnd": "1748-05-11",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-05-11",
+      "time": "afternoon; about three hours before sunset",
+      "basis": "inferred",
+      "evidence": "The session YAML anchors 1748-05-11. u0001-u0003 explicitly place the party in late-afternoon sunlight, about three hours before sunset; u0300 repeats the estimate before the short rest. The calendar date is inferred from YAML.",
+      "beatId": "beat-001",
+      "sourceText": "So, for the moment all is quiet in the late afternoon sun and the Monastery of Bhishma."
+    },
+    {
+      "uid": "u0479",
+      "label": "Short rest and scouting conclude",
+      "date": "1748-05-11",
+      "time": "afternoon; about two hours before sunset",
+      "basis": "explicit",
+      "evidence": "u0392-u0404 place Wellby’s scouting during the others’ rest. At u0479 the DM says about an hour has passed and two hours remain before sunset.",
+      "beatId": "beat-002",
+      "sourceText": "um I think at this point you've probably spend about an hour and you need to be getting back you now only have about two hours until sunset."
+    },
+    {
+      "uid": "u0590",
+      "label": "Fountain inspection ends",
+      "date": "1748-05-11",
+      "time": "afternoon; about one hour forty-five minutes before sunset",
+      "basis": "explicit",
+      "evidence": "u0590 says the fountain inspection took ten to fifteen minutes and about one hour forty-five minutes of daylight remain.",
+      "beatId": "beat-002",
+      "sourceText": "um yeah that took about 15, 10–15 minutes, and now you have like an hour and 45 minutes till sunset."
+    },
+    {
+      "uid": "u0747",
+      "label": "Approaching and entering the tower",
+      "date": "1748-05-11",
+      "time": "afternoon; roughly ninety to one hundred minutes before sunset",
+      "basis": "explicit",
+      "evidence": "u0747-u0751 estimate a little more than an hour and a half before sunset; u0851, after admission, gives about an hour forty. These are approximate overlapping daylight estimates within the same approach, not evidence of reversed time or another day.",
+      "beatId": "beat-003",
+      "sourceText": "You can spend a long time studying it, and given that you have only about."
+    },
+    {
+      "uid": "u2074",
+      "label": "The Hall grows dark",
+      "date": "1748-05-11",
+      "time": "afternoon; about one hour before sunset",
+      "basis": "explicit",
+      "evidence": "u2074-u2082 say approximately forty minutes have passed in the Hall, the floor is shadowed, and about an hour remains until sunset. Historical nights, travel, and visions in the Hall have not advanced the present date.",
+      "beatId": "beat-008",
+      "sourceText": "So, as the vision fades right it's you know that's now now you probably have about an hour until."
+    },
+    {
+      "uid": "u2189",
+      "label": "Upper library search ends",
+      "date": "1748-05-11",
+      "time": "afternoon; about forty minutes before sunset",
+      "basis": "explicit",
+      "evidence": "u2189-u2196 place the discovery of the spell scrolls about forty minutes before sunset.",
+      "beatId": "beat-009",
+      "sourceText": "It now being."
+    },
+    {
+      "uid": "u2827",
+      "label": "Session end planning",
+      "date": "1748-05-11",
+      "time": "afternoon; about half an hour before sunset",
+      "basis": "explicit",
+      "evidence": "u2827 explicitly gives half an hour to sunset. u2834-u2839 propose visiting the temple, sleeping, and scouting Kharsan tomorrow, followed by a return toward Karawa; none is played before u2891.",
+      "beatId": "beat-011",
+      "sourceText": "So I mean you have about half an hour till sunset at the moment."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+      "sha256": "444183717986f227219ae94ea0136ed83024a655b890aa166d1e1e8ec5b680b4"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-beats.json",
+      "sha256": "943d301329c52492f52396780a288214c3acacb6ce880601ac76ef275f7cdf08"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-beat-facts.json",
+      "sha256": "3e33c194fe0da2599b5d3139cbdbb73d094dfca32c7f5a9f65a34442d5758ed6"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-source-cleaned.md",
+      "sha256": "152b680dacef0b4d14dfb1e9d4c9664c80b4030db859e2f4c324dee5592ae25c"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-timeline-evidence.json",
+      "sha256": "afe84fef42cae43366122bd8656160761cd4ed97a00393468c491ddc3a386270"
+    }
+  }
+}

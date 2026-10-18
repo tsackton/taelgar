@@ -1,0 +1,61 @@
+{
+  "transcriptSha256": "76a93b676f84dc289a2960f8ba5526f374c4804541804029665f61060e375df5",
+  "judgment": "Main session actions, discoveries, and final plan are recoverable. Six lines contain seven material unresolved spans concerning an explanatory phrase, ghost dialogue, a route landmark, a dream detail, a historical change, and speculative identities. Five other marked lines are incidental or repeated information. Continue only with uncertainty retained or omitted, after human tolerance approval.",
+  "issues": [
+    {
+      "uid": "u0005",
+      "importance": "incidental",
+      "reason": "Opening description of already-dead orcs; nearby lines establish the surviving prisoner and deaths, and the garble adds no discernible event."
+    },
+    {
+      "uid": "u0006",
+      "importance": "incidental",
+      "reason": "Tail of opening sensory description, with no discernible action or identity."
+    },
+    {
+      "uid": "u0162",
+      "importance": "incidental",
+      "reason": "Garbled restatement of the earlier prayer; its subject and answer are explicitly repeated at u0188 and u1971-u1973."
+    },
+    {
+      "uid": "u0178",
+      "importance": "material",
+      "reason": "Unclear ending of the DM explanation comparing Bhishma and Shakun; do not infer the exact divine relationship from this phrase."
+    },
+    {
+      "uid": "u0198",
+      "importance": "incidental",
+      "reason": "Unclear adjective in a question about the stone heart; the heart itself, reddish color, and comparison to sandstone are clear."
+    },
+    {
+      "uid": "u0807",
+      "importance": "material",
+      "reason": "Unintelligible ghost dialogue after permission to enter and a request to be quick; may contain a warning or instruction."
+    },
+    {
+      "uid": "u1498",
+      "importance": "material",
+      "reason": "Unresolved place name used to locate the starting point on the route map; preserve route without assigning this landmark."
+    },
+    {
+      "uid": "u2011",
+      "importance": "incidental",
+      "reason": "Sensory description of a recalled dream; travel through the vortex and the encounter are clear, with no new action in the garbled span."
+    },
+    {
+      "uid": "u2013",
+      "importance": "material",
+      "reason": "Quoted dream description of Rai contains a garbled second-hand/body detail; potentially relevant to the discussion of his missing jade fragments."
+    },
+    {
+      "uid": "u2372",
+      "importance": "material",
+      "reason": "Uncertain word in Karmana's account of what changed thirty years ago; cannot decide whether something was freed, damaged, or otherwise altered."
+    },
+    {
+      "uid": "u2691",
+      "importance": "material",
+      "reason": "Unclear names or descriptors in Kenzo's speculation about the underlying evil; preserve as speculation without assigning the missing identities."
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-05-11",
+  "inferredEnd": "1748-05-13",
+  "proposedYamlChanges": [],
+  "issues": [
+    {
+      "key": "source:0",
+      "kind": "chronology",
+      "detail": "The brief exchange at u1834–u1835 calls the earlier hawk survey yesterday, although the enacted two-night sequence places the current scouting on May 13. Evidence: The morning of May 12 is played at u0889–u1580, followed by departure, an actual overnight camp at u1635–u1652, and a second dawn at u1653. No hawk survey is enacted on May 12.",
+      "resolution": {
+        "by": "source",
+        "reason": "Retain the literal relative-day wording in the transcript, but date current play from the two explicit overnight sequences (u0815–u0889 and u1635–u1655). The isolated yesterday reference describes an earlier observation and does not erase the played travel day; the inferred May 11–13 span matches YAML without any date edit."
+      }
+    }
+  ],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-05-11",
+      "time": "evening, shortly before sunset",
+      "basis": "inferred",
+      "evidence": "The session YAML anchors May 11. The opening recap ends at u0021–u0024 with dusk approaching; u0030 places the temple approach about 30–40 minutes before sunset. Earlier events in the recap do not advance or rewind the date of current play.",
+      "beatId": "beat-001",
+      "sourceText": "Okay, so."
+    },
+    {
+      "uid": "u0706",
+      "label": "Sunlight leaves the temple windows",
+      "date": "1748-05-11",
+      "time": "sunset / twilight",
+      "basis": "explicit",
+      "evidence": "u0706–u0708 say the sun has dropped below the window and the temple is in twilight; u0767–u0784 describe the sunset afterglow as the party returns to camp. Calendar date inherited from the opening anchor.",
+      "beatId": "beat-002",
+      "sourceText": "it's you know now with the sun below the lip of the."
+    },
+    {
+      "uid": "u0815",
+      "label": "First overnight rest",
+      "date": "1748-05-11",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u0813–u0822 establish the rest and watches; u0829–u0842 organize the first, middle-night, and pre-dawn watches. This is the first actual overnight rest, not the short rest considered and rejected near the temple entrance.",
+      "beatId": "beat-003",
+      "sourceText": "And long rest."
+    },
+    {
+      "uid": "u0858",
+      "label": "Middle-night watch change",
+      "date": "1748-05-12",
+      "time": "night, after midnight",
+      "basis": "inferred",
+      "evidence": "u0838 mentions 2 a.m., u0841 assigns the middle-night watch, and u0858–u0885 enact the handoffs from Delwath to Seeker and then Wellby. These watches carry the rest into May 12; exact handoff times are not fixed.",
+      "beatId": "beat-003",
+      "sourceText": "So Seeker when you wake up, for your watch Delwath all I'll tell you."
+    },
+    {
+      "uid": "u0889",
+      "label": "Dawn at the monastery camp",
+      "date": "1748-05-12",
+      "time": "dawn",
+      "basis": "explicit",
+      "evidence": "u0889–u0895 explicitly say dawn comes, everyone wakes, and the party eats breakfast. Date is inferred from the first overnight sequence.",
+      "beatId": "beat-004",
+      "sourceText": "So as dawn comes and everybody wakes."
+    },
+    {
+      "uid": "u1164",
+      "label": "Wellby searches the monastery",
+      "date": "1748-05-12",
+      "time": "early morning",
+      "basis": "explicit",
+      "evidence": "u1164–u1165 explicitly place the search in early morning and say reaching the monastery takes about twenty minutes. The preceding planning has not advanced to another day.",
+      "beatId": "beat-005",
+      "sourceText": "So you set out in the early morning."
+    },
+    {
+      "uid": "u1593",
+      "label": "Reaching the end of the cliffs",
+      "date": "1748-05-12",
+      "time": "afternoon, about 3 p.m.",
+      "basis": "explicit",
+      "evidence": "u1581–u1598 enact the southern ride, and u1593 states about 3 p.m. when the cliffs fall away and the party turns west. Same day as the morning patrol alarm.",
+      "beatId": "beat-007",
+      "sourceText": "Say 3pm like late mid afternoon you've come to the come far enough South that the."
+    },
+    {
+      "uid": "u1601",
+      "label": "Sunset during the detour",
+      "date": "1748-05-12",
+      "time": "evening, sunset",
+      "basis": "explicit",
+      "evidence": "u1601–u1615 ask whether to camp at sunset; Delwath elects to keep traveling into the night.",
+      "beatId": "beat-007",
+      "sourceText": "Like area of the desert and as sun sets do you want to make camp."
+    },
+    {
+      "uid": "u1621",
+      "label": "Forced march ends in camp",
+      "date": "1748-05-12",
+      "time": "night, after sunset",
+      "basis": "explicit",
+      "evidence": "u1621 describes about an extra hour of travel; u1629–u1637 establish camp and u1646 confirms that they rode past sunset into twilight. Kenzo and Seeker are exhausted.",
+      "beatId": "beat-007",
+      "sourceText": "An extra hour or so of traveling getting about another say let's say five miles north has just wiped you out."
+    },
+    {
+      "uid": "u1648",
+      "label": "Second middle-night watch",
+      "date": "1748-05-13",
+      "time": "night, about 3 a.m.",
+      "basis": "explicit",
+      "evidence": "u1648–u1652 describe Seeker’s middle-night watch and explicitly mention 3 a.m. before Wellby’s watch. The second overnight rest therefore reaches May 13.",
+      "beatId": "beat-007",
+      "sourceText": "As you wake Seeker in the middle of the night he."
+    },
+    {
+      "uid": "u1653",
+      "label": "Waking before dawn",
+      "date": "1748-05-13",
+      "time": "before dawn, about 5 a.m.",
+      "basis": "explicit",
+      "evidence": "u1653–u1655 explicitly wake the party just before 5 a.m. and complete the long rest; u1662 describes departure in pre-dawn light.",
+      "beatId": "beat-008",
+      "sourceText": "You wake everybody just before dawn at you know 5am a little before 5am as the."
+    },
+    {
+      "uid": "u1684",
+      "label": "Reaching the Kharsan road",
+      "date": "1748-05-13",
+      "time": "morning, about 9–9:30 a.m.",
+      "basis": "explicit",
+      "evidence": "u1681–u1689 describe the northward ride and explicitly give nine or nine-thirty on reaching the road.",
+      "beatId": "beat-008",
+      "sourceText": "You know by nine 930."
+    },
+    {
+      "uid": "u1706",
+      "label": "Hawk scouting and mount concealment",
+      "date": "1748-05-13",
+      "time": "morning, about 9:30–10 a.m.",
+      "basis": "explicit",
+      "evidence": "u1703–u1706 initiate the hawk survey and say it is about 9:30–10 while Seeker begins the horses’ shelter.",
+      "beatId": "beat-008",
+      "sourceText": "His horsebox um it's now yeah it's like about 930 10 at this point, and so you know the thermals are going the hawks who eat snakes and lizards are are definitely up in the sky."
+    },
+    {
+      "uid": "u1909",
+      "label": "Approach to the bridge",
+      "date": "1748-05-13",
+      "time": "morning, before noon",
+      "basis": "explicit",
+      "evidence": "u1907–u1919 explicitly place the sun in the east before noon while the party approaches the bridge. The subsequent two Clairvoyance castings and Delwath’s scouting follow within the same morning; the exact clock time is not specified.",
+      "beatId": "beat-009",
+      "sourceText": "Taking advantage here, the fact that the sun now higher in the sky, but still in the east before noon is is casting some shadows along the edge, you know until you get to this final this final like quarter mile distance basically."
+    },
+    {
+      "uid": "u2328",
+      "label": "Concurrent scouting in the ruins",
+      "date": "1748-05-13",
+      "time": "same morning, simultaneous with the palace surveillance",
+      "basis": "explicit",
+      "evidence": "u1987–u1996 announce Delwath’s separate scouting during Clairvoyance. u2328 explicitly says this is happening while the palace surveillance is going on, so this narrated switch is not a later expedition or a new day. u2454 gives about twenty minutes in the city.",
+      "beatId": "beat-011",
+      "sourceText": "yeah Well, this is going on I'm Delwath you our scouting through the."
+    },
+    {
+      "uid": "u2462",
+      "label": "Regrouping at the bridge",
+      "date": "1748-05-13",
+      "time": "later that morning; exact time unspecified",
+      "basis": "inferred",
+      "evidence": "u2462 reunites the party at the bridge. u2492–u2495 explicitly defer leaving Kharsan until next session; no later travel or overnight rest occurs here.",
+      "beatId": "beat-011",
+      "sourceText": "with you all back at the bridge your."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+      "sha256": "5f145b2e218ac4e8461262677b7a2f1e9d33dafd6373b6609699b74567ab851a"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-beats.json",
+      "sha256": "335895899a23160e71b4f6096d85c1480cd647de384f326ae98fd9b714a28f05"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-beat-facts.json",
+      "sha256": "7f42d264903e7a12df3dc4e8cb088346c9067c180daaf774734bd0147a19305c"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-source-cleaned.md",
+      "sha256": "a539722c00b4c67b2d3908c3aa2fbc14576819b854b74ec7aee334dec0de7bf3"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-timeline-evidence.json",
+      "sha256": "57df8462b5e1b3f2a288dbd226528ecf7eef3f2d76e630e504b4045dc89ea2bd"
+    }
+  }
+}

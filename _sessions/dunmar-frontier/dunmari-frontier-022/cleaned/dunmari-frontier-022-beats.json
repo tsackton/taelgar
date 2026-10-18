@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Rai and the Jade Fragment",
+      "startUid": "u0001",
+      "endUid": "u0411",
+      "lineCount": 411,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening recap and camp conversation culminate in Kenzo explaining his visions and the connection to the Order of the Awakened Soul. The next beat turns to the expedition plan.",
+      "dateEvidence": [
+        "Session YAML anchors May 11; u0025, u0030, and u0045 explicitly place the present camp at midday. Earlier events in the opening recap and Kenzo’s recollections do not advance the session date."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Planning the Monastery Expedition",
+      "startUid": "u0412",
+      "endUid": "u0700",
+      "lineCount": 289,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party debates the monastery’s mysteries and chooses its route, leaving Baxter in charge of the mounts before setting off.",
+      "dateEvidence": [
+        "Continues the midday camp; u0630-u0634 favor moving during the heat, and u0692-u0700 finalize departure."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Approaching the Manticore Lair",
+      "startUid": "u0701",
+      "endUid": "u1044",
+      "lineCount": 344,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Travel along the dry river gives way to scouting the monastery’s ruined dining hall and discovering the manticores; the party regroups afterward.",
+      "dateEvidence": [
+        "u0704 specifies arrival after about ninety minutes at roughly two o’clock; u0762 advances to about 2:30 p.m. on the same day."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Preparing the Manticore Ambush",
+      "startUid": "u1045",
+      "endUid": "u1387",
+      "lineCount": 343,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The regrouped party debates bypassing the manticores, decides to protect its mounts by attacking, and settles on the driftglobe diversion.",
+      "dateEvidence": [
+        "Continuous action after the 2:30 p.m. approach at u0762; invisibility’s limited duration shapes the planning. No rest or day transition occurs."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Manticore Fight",
+      "startUid": "u1388",
+      "endUid": "u1735",
+      "lineCount": 348,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The driftglobe lures the young away; the adult ambush, pursuit, dispatch of the young, and search of the nest form a complete encounter before orcs arrive.",
+      "dateEvidence": [
+        "Immediate continuation of the same afternoon; u1695-u1698 describe the fight as relatively quick but loud."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Ambushing Grash’s Watchers",
+      "startUid": "u1736",
+      "endUid": "u2147",
+      "lineCount": 412,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Six orcs investigate the noise, triggering a new fight that ends with their captain surrendering under Seeker’s Suggestion.",
+      "dateEvidence": [
+        "u1736-u1745 place the approaching orcs within a minute of the previous fight; no intervening rest."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Questioning the Orc Captain",
+      "startUid": "u2148",
+      "endUid": "u2377",
+      "lineCount": 230,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party interrogates the captive, debates his fate, and confines him in the bathhouse before choosing to explore the sacred doors.",
+      "dateEvidence": [
+        "Directly follows the orc battle. The relief due tomorrow afternoon at u2178 is future information, not a time jump."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Behind Bhishma’s Sacred Doors",
+      "startUid": "u2378",
+      "endUid": "u2554",
+      "lineCount": 177,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Prayer opens the doors; the party collects holy water and encounters Bhishma’s immersive story. This beat ends just before Wellby and Delwath turn back.",
+      "dateEvidence": [
+        "Continuous afternoon exploration after the interrogation. The reference to midnight at u2543 is a real-world stopping time, not an in-world transition."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Following Bhishma into Death",
+      "startUid": "u2555",
+      "endUid": "u2800",
+      "lineCount": 246,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby and Delwath turn back while Kenzo and Seeker continue through Bhishma’s story and confront its demand for sacrifice; Kenzo dies while Seeker opens his eyes and unsuccessfully tries to heal him.",
+      "dateEvidence": [
+        "u2555-u2563 divide the party at the corridor threshold; u2625-u2627 resume that same walk after real-world scheduling. Historical months, days, and events in u2629-u2704 belong to Bhishma’s vision, not elapsed time in the present."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Kenzo’s New Sight",
+      "startUid": "u2801",
+      "endUid": "u2976",
+      "lineCount": 176,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo revives and discovers a transformed view of the inner sanctuary, describing its paintings, fountain, and remembered flowers to Seeker.",
+      "dateEvidence": [
+        "u2801 immediately follows Seeker’s attempt to understand Kenzo’s apparent death; the pair explore without a rest or other time jump."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "A Message about Shakun",
+      "startUid": "u2977",
+      "endUid": "u3191",
+      "lineCount": 215,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo prays about Shakun and receives a message and the image of a stone heart; the session closes with discussion of his initiation and possible future character developments.",
+      "dateEvidence": [
+        "u3012 says the prayer’s manifestation continues for five or ten minutes. Remaining talk is reflection and metagame discussion; no overnight passage occurs."
+      ]
+    }
+  ]
+}

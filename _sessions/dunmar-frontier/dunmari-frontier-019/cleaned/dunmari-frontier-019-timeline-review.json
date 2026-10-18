@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-24",
+  "inferredEnd": "1748-05-02",
+  "proposedYamlChanges": [],
+  "issues": [
+    {
+      "key": "source:0",
+      "kind": "chronology",
+      "detail": "The spoken Bas Udda arrival date and travel duration differ from the written chronology adopted by the user. Evidence: u1017–u1028 compress travel to a single overnight and explicitly name April 28. The written Session 19 note gives two full travel days and April 29 arrival. The original spoken wording is preserved.",
+      "resolution": {
+        "by": "human",
+        "reason": "User explicitly chose the written April 29 arrival over the spoken April 28: \"i think we should use the written date not the transcript date\" and explained that April 28 should have remained a full travel day. User also set the opening evening to April 24 and confirmed the two-afternoons journey, giving April 30 departure and May 2 arrival."
+      }
+    }
+  ],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-04-24",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Human decision: the session opens on the evening of April 24, continuing Session 18. Opening table conversation advances no in-world time.",
+      "beatId": "beat-001",
+      "sourceText": "play synchronous."
+    },
+    {
+      "uid": "u0316",
+      "label": "The campfire scene begins",
+      "date": "1748-04-24",
+      "time": "early evening",
+      "basis": "inferred",
+      "evidence": "u0316 and u0401 establish early evening. Human decision anchors this to April 24, continuing Session 18; the approved manifest start is April 24.",
+      "beatId": "beat-002",
+      "sourceText": "we'll pick up in the early evening."
+    },
+    {
+      "uid": "u0661",
+      "label": "Havdar visits the next morning",
+      "date": "1748-04-25",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u0661 is the next morning, April 25. Havdar says day after tomorrow (u0726) and April 27 (u0738). Preparations continue across April 25–26 to the last evening (u0772, u0809, u0817–u0818). Human clarification resolves the former start-date conflict.",
+      "beatId": "beat-003",
+      "sourceText": "let's say okay so let's let's let's just roll play briefly though so so before Kenzo good to talk to Candrosa and while you're kind of gathering up your stuff the next morning."
+    },
+    {
+      "uid": "u0809",
+      "label": "Last evening of preparations",
+      "date": "1748-04-26",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u0772 compresses preparations; u0809 explicitly returns to the last evening, and u0817–u0818 settle down before an early departure. The stated April 27 departure implies April 26.",
+      "beatId": "beat-003",
+      "sourceText": "So after that couple of busy days of getting organized your last evening is sort of quiet, you know you speak briefly with Candrosa you have some food you."
+    },
+    {
+      "uid": "u0829",
+      "label": "Departure morning",
+      "date": "1748-04-27",
+      "time": "early morning",
+      "basis": "explicit",
+      "evidence": "u0829–u0830 place Kenzo’s private business in early morning before departure; u0736–u0738 explicitly name the departure morning as April 27.",
+      "beatId": "beat-004",
+      "sourceText": "early morning Kenzo."
+    },
+    {
+      "uid": "u1017",
+      "label": "First travel camp",
+      "date": "1748-04-27",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1017 ends the first travel day in camp. Human decision retains April 28 as a full further travel day, correcting the next-day arrival estimate in u1021–u1022.",
+      "beatId": "beat-004",
+      "sourceText": "The first day you make camp."
+    },
+    {
+      "uid": "u1020",
+      "label": "Full second travel day before Bas Udda",
+      "date": "1748-04-28",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "Human correction to the travel montage at u1017–u1025: retain the written full April 28 travel day and April 29 arrival. The user judges the spoken next-day arrival estimate mistaken and notes that the party would still be about 25 miles away on April 28 morning.",
+      "beatId": "beat-004",
+      "sourceText": "So it's about 60 miles to Bas Udda and you can you let you cover about two thirds of that on the first day."
+    },
+    {
+      "uid": "u1026",
+      "label": "Arrival day approaching Bas Udda",
+      "date": "1748-04-29",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "Human decision adopts April 29 arrival from the written session note, correcting the spoken April 28 in u1026–u1028. u1030–u1037 describe the approach around midday; the spoken calendar date remains unchanged in the transcript.",
+      "beatId": "beat-005",
+      "sourceText": "The next morning, so this would be."
+    },
+    {
+      "uid": "u1030",
+      "label": "Midday arrival in Bas Udda",
+      "date": "1748-04-29",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1030–u1037 explicitly describe an approach around midday after lunch. Human decision adopts April 29 as the calendar date despite the spoken April 28 in u1028.",
+      "beatId": "beat-005",
+      "sourceText": "Around mid day after lunch."
+    },
+    {
+      "uid": "u1845",
+      "label": "Body recovery after the heat",
+      "date": "1748-04-29",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "u1844–u1845 move from the post-battle rest into work as the afternoon cools.",
+      "beatId": "beat-008",
+      "sourceText": "Of the day of the sun, but by you know the middle of the afternoon as it starts to cool down a bit right is everybody's operating pretty efficiently and his his."
+    },
+    {
+      "uid": "u1870",
+      "label": "Funeral rites at sunset",
+      "date": "1748-04-29",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u1857 says by evening; u1870–u1873 describe sunset, prayers and burning bodies. u1889 continues that evening.",
+      "beatId": "beat-008",
+      "sourceText": "As the sun is setting."
+    },
+    {
+      "uid": "u2040",
+      "label": "Final morning in Bas Udda",
+      "date": "1748-04-30",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u2040 says next morning after the rites and evening planning, followed by a final check for dead and collecting icons.",
+      "beatId": "beat-009",
+      "sourceText": "Okay, so next morning."
+    },
+    {
+      "uid": "u2051",
+      "label": "Departure after midday heat",
+      "date": "1748-04-30",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "u2051–u2055 describe departure after the midday heat and travel during the remainder of that afternoon; u2054 anticipates arrival two afternoons from now.",
+      "beatId": "beat-009",
+      "sourceText": "The heat of the midday sun has passed you're hoping to get."
+    },
+    {
+      "uid": "u2058",
+      "label": "Full day traveling with Amil",
+      "date": "1748-05-01",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "Desert travel montage at u2055–u2059. Human decision confirms the two-afternoons estimate in u2054: April 30 departure, May 1 travel, May 2 arrival.",
+      "beatId": "beat-009",
+      "sourceText": "The terrain here is very you know it's lots of open expanses of just dry rocky sand and then there's the occasional Canyon and you find more life and vegetation in this canyons as there's more shade, and what little moisture there is collects."
+    },
+    {
+      "uid": "u2060",
+      "label": "Canyon approach on arrival day",
+      "date": "1748-05-02",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "Human decision confirms two afternoons from now (u2054), giving May 2 after April 30 departure. The second-day phrasing (u2060, u3172) counts days after the partial departure day. u2102 corrects the evening cue to late morning.",
+      "beatId": "beat-009",
+      "sourceText": "In the evening of the second day as you're approaching towards heading towards [[bass]]."
+    },
+    {
+      "uid": "u2102",
+      "label": "Canyon encounter time clarified",
+      "date": "1748-05-02",
+      "time": "late morning",
+      "basis": "inferred",
+      "evidence": "u2102–u2103 explicitly place the encounter just before the usual midday break, superseding u2060’s evening phrasing. No overnight intervenes before combat or arrival.",
+      "beatId": "beat-009",
+      "sourceText": "Ah it's it's like the warm as part of the day, so now the birds tend to be This is like probably like late morning like just before you would normally take."
+    },
+    {
+      "uid": "u3172",
+      "label": "Afternoon onward travel",
+      "date": "1748-05-02",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "u3172 describes afternoon of the second day after leaving Bas Udda. Human decision confirms May 2, two afternoons after April 30 departure. u3152–u3163 establish only a few more hours to the house.",
+      "beatId": "beat-013",
+      "sourceText": "Continue now i'm the afternoon of your second day of travel after leaving Bas Udda."
+    },
+    {
+      "uid": "u3175",
+      "label": "Arrival at the stone house",
+      "date": "1748-05-02",
+      "time": "about 4–4:30 p.m.",
+      "basis": "inferred",
+      "evidence": "u3175 explicitly gives four or four-thirty in the afternoon after a few hours of travel; u3177–u3189 describe the house and greeting. Closing table talk adds no in-world time.",
+      "beatId": "beat-013",
+      "sourceText": "Despite the heat of the sun after about a you know a few hours travel by four 430 in the afternoon."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+      "sha256": "7cc811d7588176bdc524172b2765dfcb596c02d8df44d49459912d27c13ed92e"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-beats.json",
+      "sha256": "6a750977917ba884cd0c33bcaee17e0c60fed9deaa843f27b84b45c9471c073b"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-beat-facts.json",
+      "sha256": "4076c87ecd512508658f0d22a92cc983f7bb40bda0a7984e5d6e81d03cd02661"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-source-cleaned.md",
+      "sha256": "1d8bcc1d6ae5aae6c5b78b0edc6c7720ea38281adb75eb97c7e1f92f2493fcde"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-timeline-evidence.json",
+      "sha256": "990f4ef5ab0718da0de005ba39e6e874b6978d8d55705eb5ba7e56e10e91ad6d"
+    }
+  }
+}

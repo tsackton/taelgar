@@ -1,0 +1,194 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Kenzo Returns Initiated",
+      "startUid": "u0001",
+      "endUid": "u0391",
+      "lineCount": 391,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The reunited party discusses Kenzo’s initiation, Bhishma’s message, and the missing heart, then tends to his injuries before Wellby begins scouting.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u0001-u0003 establish late afternoon, about three hours before sunset; u0300 repeats this timing before the short rest."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Searching the Monastery",
+      "startUid": "u0392",
+      "endUid": "u0590",
+      "lineCount": 199,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby scouts during the short rest; his return, the recovered objects, and the courtyard fountain form one reconnaissance sequence before the party approaches the tower.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u0479 completes about an hour of scouting/rest and gives two hours before sunset; u0590 places the fountain visit about 10–15 minutes later."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Past the Ghostly Guardians",
+      "startUid": "u0591",
+      "endUid": "u0887",
+      "lineCount": 297,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party examines the Hall’s protected side doors, then gains access through the tower’s ghostly guards and passes through to the Hall of Stories.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u0747-u0751 and u0851 give approximate remaining daylight of a little over ninety minutes to one hour forty minutes; no date change."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Entering the Web of Memories",
+      "startUid": "u0888",
+      "endUid": "u1077",
+      "lineCount": 190,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Arrival in the Hall introduces its memory web; the first linked memories reveal initiation and the dead defenders before Seeker deliberately searches for forbidden knowledge.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "The party enters from the tower in the same late afternoon (u0883); the initiation and battle are stored memories, not present-day time transitions."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Monks Meet Rai",
+      "startUid": "u1078",
+      "endUid": "u1263",
+      "lineCount": 186,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Seeker’s recollection of Frankar leads to a remembered audience with Dimitaur and a jade figure, followed by discussion of the expedition’s historical timing.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u1177-u1185 establish historical, post–Great War memory content; the party remains in the Hall on the same day."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Doubts and the Southern Route",
+      "startUid": "u1264",
+      "endUid": "u1517",
+      "lineCount": 254,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Delwath seeks memories of regret and hears a master oppose the expedition; Wellby then locates a traveler’s account of the route to Drankor.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "Summer nights and lengthy journeys in u1301-u1306 and u1463-u1510 are scenes inside stored memories, not elapsed time for the party."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Darkness and the Masters’ Council",
+      "startUid": "u1518",
+      "endUid": "u1766",
+      "lineCount": 249,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo’s search is overtaken by a fearful presence, but Seeker’s childhood memory breaks its hold and reveals the council’s plan to seal extraplanar corruption.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u1533-u1575 and u1665-u1734 describe remembered scenes and an imagined future; the party remains in the Hall that afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Interpreting Rai’s Fate",
+      "startUid": "u1767",
+      "endUid": "u2082",
+      "lineCount": 316,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party compares the council’s decision with earlier mirror and dream visions, distinguishes theories from known events, and feels the Hall’s darkness strengthen as sunset approaches.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u2066-u2082 explicitly return attention to the present Hall after roughly forty minutes inside, with about one hour until sunset."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "The Tower’s Hidden Scrolls",
+      "startUid": "u2083",
+      "endUid": "u2299",
+      "lineCount": 217,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Leaving the Hall, the party searches upper floors, recalls Saka as a possible lead, triggers a lightning ward, and finds scrolls before opening the top-floor bedroom.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u2189-u2190 give forty minutes until sunset after the upper-library search; this follows directly from the Hall’s one-hour estimate."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Karmana’s Fading Vigil",
+      "startUid": "u2300",
+      "endUid": "u2603",
+      "lineCount": 304,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party meets the last master’s ghost and questions him about Sajan, the failed expedition, worsening danger, and the limits of his memories.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "The audience follows the tower search without a rest or day transition; u2827 later establishes that sunset is still about half an hour away."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Choosing What Comes Next",
+      "startUid": "u2604",
+      "endUid": "u2891",
+      "lineCount": 288,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The audience ends and the group weighs its priorities, agreeing on a temple visit, a night at camp, Kharsan reconnaissance, and a return toward Karawa; these remain future plans.",
+      "dateEvidence": [
+        "Session YAML anchors the present day to 1748-05-11.",
+        "u2827 says about half an hour until sunset; u2834-u2839 explicitly propose sleeping and scouting tomorrow, but neither happens before the session ends."
+      ]
+    }
+  ]
+}

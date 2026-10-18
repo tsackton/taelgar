@@ -1,0 +1,21 @@
+{
+  "transcriptSha256": "4250681e7436de0d18c774490d2aab4a2fb3800d94ace423458ce84c9d865246",
+  "judgment": "Both cleanup passes are complete. Three materially unclear phrases form two topic groups: the subject of Kenzo's studies and descriptions of the armor's shadows. These do not obscure the major actions or combat outcome, but could alter substantive character dialogue. Recommend retaining the marked text and omitting the uncertain descriptors downstream if the user accepts the uncertainty. Incidental chatter remains verbatim; damage and pillar-targeting fragments are clarified by subsequent turns. No human acceptance has been recorded.",
+  "issues": [
+    {
+      "uid": "u0279",
+      "importance": "material",
+      "reason": "Unclear phrase may name a doctrine or subject of Kenzo's studies. Laka, Shakun, consciousness, and dreams are clear in adjacent dialogue; the exact phrase is not."
+    },
+    {
+      "uid": "u0396",
+      "importance": "material",
+      "reason": "The final adjective describes the shadows relative to the breastplate's elven workmanship; its meaning cannot be recovered confidently. Later dialogue independently resolves the monks' immediate concern about evil."
+    },
+    {
+      "uid": "u0427",
+      "importance": "material",
+      "reason": "Completes Delwath's substantive sentence \"Not all shadows are ...\" in response to the monks' concern. \"Concerning\" is plausible but not secure enough to insert as a correction."
+    }
+  ]
+}

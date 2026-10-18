@@ -1,0 +1,606 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party returns to Karawa and learns that attacks continue while the Samraat refuses to send troops.",
+      "longSummary": "After five days traveling from Pava and Avaras’s house, the party approaches Karawa with three horses and Baxter; Wellby has learned several axe-beak calls while Seeker experiments with burning lenses. A patrol of centaurs and Dunmari escorts them into town, reporting deaths in attacks by giant vultures, ankhegs, and skeletal gnolls. Samraat Nayan Karnas will defend the Hara River but not Karawa. The party passes the defenders’ camps and meets an exhausted Candrosa, who asks to speak privately in the temple.",
+      "location": {
+        "kind": "journey",
+        "from": "Road north from Bas Udda",
+        "to": "Karawa",
+        "context": "Return along the Red Mesa, escorted by a patrol to the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Dunmari and centaur patrol",
+          "role": "encountered"
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Baxter",
+          "role": "companion"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Nayan Karnas",
+          "role": "mentioned",
+          "notes": "The Samraat refuses troops for Karawa and will defend only the Hara River."
+        }
+      ],
+      "items": [
+        {
+          "name": "Driftglobes",
+          "role": "encountered",
+          "notes": "Used during the desert journey to maintain bright light against the pursuing shadows."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Havdar’s band",
+          "role": "encountered"
+        },
+        {
+          "name": "Centaur defenders",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Candrosa admits deceiving Delwath and withholding the Heart’s disappearance as the party confronts him about the failing temple.",
+      "longSummary": "Kenzo reveals that Bhishma told him the Heart of Shakun is missing, relieving Candrosa’s fear of sharing the secret with outsiders. Candrosa confesses that he used his staff to create Delwath’s supposed divine dream and apologizes for withholding the truth. Seeker’s questions about the crumbling mesa reveal a subterranean garden of growing stone that supplies healing powders and ointments but has stopped renewing itself. Kenzo challenges Candrosa’s secrecy; Candrosa admits his failings and the literal magical difficulty of speaking about Shakun’s mysteries. He wants a stoneborn visitor who has helped defend the town to hear the full story as well, and Wellby offers reassurance before they leave to meet him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Private room in the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "notes": "Kenzo reports the goddess’s revelation of the missing Heart."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned"
+        },
+        {
+          "name": "Dreamweaver Staff",
+          "role": "encountered",
+          "notes": "Candrosa identifies his staff as the means of manipulating dreams."
+        },
+        {
+          "name": "Healing powders and ointments",
+          "role": "mentioned",
+          "notes": "Made from a stone garden that has stopped growing."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party meets Drikod, a stoneborn from Kunda investigating disturbances in the northern mountains.",
+      "longSummary": "Candrosa brings the four travelers to the centaur camp and leaves them to introduce themselves to Drikod. The sparely equipped, eight-foot stoneborn contrasts with their dusty clothing and crowded packs; Wellby greets him in Stoneborn, and Seeker, Delwath, and Kenzo introduce themselves. Drikod explains that his village elders sent him south from Kunda in the Indalas because nature in the mountains is becoming unsettled. He arrived after Karawa’s attack and has helped defend it. Kenzo offers to spar as the group prepares to return to Candrosa.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Centaur camp"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Baxter",
+          "role": "companion"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Centaur defenders",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Candrosa recounts how Cintra took her sick daughter and the Heart to Shakun’s Wellspring and never returned.",
+      "longSummary": "Back at the temple with Drikod, Candrosa describes the Heart as a literal part of Shakun that amplifies divine magic and sustains the mystai’s protection. Cintra, the Supreme Oracle, took her ailing, magically gifted daughter Jumi and the Heart to Shakun’s Wellspring in early February, believing this would heal the child. Neither they nor two later rescue parties returned. The party confronts the delay and asks how to recover the Heart; Candrosa believes it is misplaced rather than destroyed and hopes it remains at the Wellspring, a hidden grove reached through a slot canyon at the southern end of the mesa. He cannot explain all of its magic aloud, but offers to show them through part of an initiation ritual the following evening.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Private room in the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Cintra",
+          "role": "mentioned",
+          "notes": "Supreme Oracle; missing since her journey to the Wellspring."
+        },
+        {
+          "name": "Jumi",
+          "role": "mentioned",
+          "notes": "Cintra’s daughter; identified by the existing session note, unnamed in the spoken account. Her survival remains unknown."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "Absent from the temple; Candrosa believes it survives."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party agrees to the ritual and persuades Candrosa to tell Tharandros about the missing Heart.",
+      "longSummary": "The party considers scouting and whether a larger expedition should go south. They distinguish Karawa’s recent attacks from older disturbances in the desert and mountains, which predate the Heart’s disappearance. Candrosa fears that exposing sacred secrets could have consequences, and the discussion recalls an uncertain historical parallel involving the Lakan succession tradition. Wellby, Drikod, Delwath, and Kenzo insist that Tharandros deserves the truth after the centaurs’ sacrifices, and Candrosa agrees to tell him that night. At Delwath’s suggestion he will also search through dreams for signs that outsiders know the secret. They arrange to return around sunset the next day.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Private room in the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Tharandros",
+          "role": "mentioned"
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned",
+          "notes": "Suggested as a scout; no scouting expedition is confirmed."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        },
+        {
+          "name": "Centaur defenders",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "A hawk reports skeletal figures near the southern mesa, and the mirror shows Kharsan’s glassware destroyed by an enormous axe.",
+      "longSummary": "As the party makes camp, Wellby questions a hawk about the Wellspring and nearby threats. It cannot resolve the geography but conveys several humanoid skeletal creatures lingering for weeks near the southern mesa. Delwath brings broken glass from Kharsan to the Mirror of the Past: the vision shows its making, passing days, a burning building, and a huge axe with flickering flame shattering the glass. Its wielder remains unseen, though the party suspects a fire giant; Drikod infers late spring or early summer from the scene. Drikod shares northern rumors of fire giants, sorcerers, hobgoblin raiders, and a flame demon. The group keeps its focus on the Heart and discusses the difficulty of taking the heavy mirror south.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Camp preparations and the storeroom holding the party’s mirror"
+      },
+      "npcs": [
+        {
+          "name": "Hawk",
+          "role": "encountered",
+          "notes": "Reports skeletal humanoids near the southern end of the mesa; precise number and location remain unclear."
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered"
+        },
+        {
+          "name": "Broken glassware from Kharsan",
+          "role": "encountered"
+        },
+        {
+          "name": "Floating disk",
+          "role": "mentioned",
+          "notes": "Its limited operating time complicates carrying the mirror overland."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "During the intervening day in Karawa, the party arranges Baxter’s armor and confirms that Tharandros has heard the truth.",
+      "longSummary": "The party keeps the driftglobes shining through the preceding night against the pursuing shadows. During the day in town, Wellby trades a map of their route to Kharsan for adapting horse barding to Baxter, a job expected to take several days and be ready after their return. No spare healing preparations remain. Delwath confirms that Candrosa told Tharandros about the Heart; the centaur recognizes its absence as the missing divine presence he sensed and says the mesa is suffering. Kenzo practices bounding up the mesa with his ring of jumping while Drikod watches.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "The defenders’ camps and the Red Mesa beside town"
+      },
+      "npcs": [
+        {
+          "name": "Baxter",
+          "role": "companion"
+        },
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Driftglobes",
+          "role": "encountered"
+        },
+        {
+          "name": "Baxter’s barding",
+          "role": "mentioned",
+          "notes": "Commissioned in exchange for a map, not yet completed or received."
+        },
+        {
+          "name": "Map of the route to Kharsan",
+          "role": "encountered"
+        },
+        {
+          "name": "Ring of jumping",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Centaur defenders",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar’s band",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "A partial initiation reveals the mystai’s fraying web of protection and the emptiness where Shakun’s Heart should be.",
+      "longSummary": "The following evening, Candrosa and three mystai prepare a ceremony that cannot be a full initiation without the Heart. Wearing pale robes and ochre crescents, the party descends through the temple, passes the stone garden’s entrance, drinks a thick potion, and lies beneath a pool of harmless blue flame. A shared vision carries them across Dunmar, through a vast forest, fire, an impossible city, rain, and mingled personal memories, including a cavern of seven stone thrones. They glimpse the mystai linked in a web stretching to Dunmar’s borders, now tearing around an empty center. On a cracking Red Mesa, a presence seeming both woman and mesa whispers for help before they wake.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Ritual cavern beneath the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Three Shakun mystai",
+          "role": "encountered",
+          "notes": "Assist with the ceremony."
+        },
+        {
+          "name": "Woman-and-mesa presence",
+          "role": "encountered",
+          "notes": "A visionary impression asks for help; its precise identity is not explicitly stated."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "Its absence is perceived in the vision; the artifact is not present."
+        },
+        {
+          "name": "Dreamweaver Staff",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Shadows interrupt the ceremony, killing two mystai as the unarmed party improvises light and magical defenses.",
+      "longSummary": "The party wakes in the blue-flamed pool as a shadow drains a mystai and another shadow rises from her corpse. A second mystai is killed in the opening attacks, while the survivor flees. Without armor or weapons, the adventurers improvise: Drikod destroys a shadow with lightning, Seeker creates a floating magnesium fire to flood the cavern with bright light, and Candrosa links Kenzo and Delwath with protective magic. Kenzo defeats a shadow with unarmed blows; Delwath conjures a magical bow for Wellby and attacks with Eldritch Blast. The bright light hampers the attackers, but Seeker and Delwath suffer necrotic wounds and drained strength.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Blue-flamed pool in the ritual cavern beneath the temple"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "companion"
+        },
+        {
+          "name": "Three Shakun mystai",
+          "role": "encountered",
+          "notes": "Two die; the survivor runs away from the shadows."
+        },
+        {
+          "name": "Shadow hunters",
+          "role": "enemy"
+        }
+      ],
+      "items": [
+        {
+          "name": "Magnesium fire",
+          "role": "encountered",
+          "notes": "Created by Seeker in the pool to produce bright light."
+        },
+        {
+          "name": "Delwath’s pact bow",
+          "role": "encountered",
+          "notes": "Given to Wellby."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Shadow hunters",
+            "notes": "The shadows that followed the party from Kharsan, with a new shadow raised from a slain mystai."
+          }
+        ],
+        "notes": "The party awakens unarmored and without weapons; two mystai die as the party improvises light and magical attacks."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party thins the shadows while Sanctuary protects Seeker and Delwath’s strength falls dangerously low.",
+      "longSummary": "Drikod lines up another lightning bolt, destroys a wounded shadow, and returns toward the pool. Seeker blasts nearby enemies with Shatter and inspires Candrosa, who casts Sanctuary on him and calls the surviving mystai back to safety. Wellby wounds a shadow with the conjured bow, and Kenzo destroys another with Fist of Planar Power. Delwath teleports clear to fire his blasts. A shadow barred from attacking Seeker turns on Delwath instead, reducing his strength to three, while Kenzo evades the others in the bright light. The surviving mystai reaches Candrosa, and the shadows spread out to avoid further lightning bolts.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Ritual cavern beneath the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "companion"
+        },
+        {
+          "name": "Surviving Shakun mystai",
+          "role": "encountered"
+        },
+        {
+          "name": "Shadow hunters",
+          "role": "enemy"
+        }
+      ],
+      "items": [
+        {
+          "name": "Magnesium fire",
+          "role": "encountered"
+        },
+        {
+          "name": "Delwath’s pact bow",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Shadow hunters",
+            "notes": "The shadows that followed the party from Kharsan, with a new shadow raised from a slain mystai."
+          }
+        ],
+        "notes": "Bright light impairs the shadows, but their attacks drain strength while the party reduces their numbers."
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Healing, protective bonds, and coordinated attacks destroy the remaining shadows.",
+      "longSummary": "Drikod conjures a Flaming Sphere and moves near the weakened party members. Seeker withdraws under Sanctuary and heals Delwath, while Candrosa binds himself to Delwath with Warding Bond. Wellby’s shot misses, but Kenzo uses Fist of Planar Power to pull a shadow away from Delwath and finishes a foe with an unarmed strike. Delwath curses one of the remaining shadows and destroys the last two with Eldritch Blast. Wellby counts seven shadows destroyed in the cavern and hands back the conjured bow.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Ritual cavern beneath the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "companion"
+        },
+        {
+          "name": "Surviving Shakun mystai",
+          "role": "encountered"
+        },
+        {
+          "name": "Shadow hunters",
+          "role": "enemy"
+        }
+      ],
+      "items": [
+        {
+          "name": "Magnesium fire",
+          "role": "encountered"
+        },
+        {
+          "name": "Delwath’s pact bow",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Shadow hunters",
+            "notes": "The shadows that followed the party from Kharsan, with a new shadow raised from a slain mystai."
+          }
+        ],
+        "notes": "The last three shadows are destroyed; seven shadows have fallen during this fight."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party mourns the two mystai, shares what it knows of Kharsan, and prepares to seek the Heart.",
+      "longSummary": "Candrosa grieves over the two withered bodies, describing each death as another strand lost from Shakun’s protection. The party believes it has now destroyed all the shadows sent after it: two earlier and seven here, including one raised from a victim. Kenzo offers to train with Candrosa, and the party finds that the mysteries are now difficult to explain to anyone outside the shared experience. Candrosa’s dream search found no sign of foreign intrusion, though he cannot be certain. They explain Grash and Kharsan to Drikod, identify the seven thrones as Seeker’s coming-of-age vision, and discuss unproven possibilities involving Cintra, Agata Dustmother, and the Heart’s location. Returning upstairs after sunset, they perceive the frayed links between the mystai and settle in for the funeral, with further action left until morning.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Ritual cavern and main shrine of the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Two slain Shakun mystai",
+          "role": "encountered"
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned",
+          "notes": "The party suspects his hunt for artifacts may connect to the Heart; this is not established."
+        },
+        {
+          "name": "Cintra",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "notes": "Possible involvement is speculation."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned"
+        },
+        {
+          "name": "Mirror of the Past",
+          "role": "mentioned",
+          "notes": "Taking it south is discussed; its weekly limit is reaffirmed."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

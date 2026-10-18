@@ -1,0 +1,36 @@
+{
+  "transcriptSha256": "dcca04c5f670cdfdbd8edd8597156b99cedef1f402b3952f1bc3915d8e0556ed",
+  "judgment": "The session action is recoverable. Six narrow passages retain substantive uncertainty about affiliations, vision details, a tower designation, divine attribution, and memories. Continue only after tolerance or correction; never promote these spans into facts. Incidental fragments elsewhere are left verbatim.",
+  "issues": [
+    {
+      "uid": "u0231",
+      "importance": "material",
+      "reason": "Unclear description of Pava and Avaras’s affiliation; do not infer that they belong to the Lakan Mystai."
+    },
+    {
+      "uid": "u0249",
+      "importance": "material",
+      "reason": "An unclear detail of the dragon vision; preserve the visible dragon and shadow without inventing its perch."
+    },
+    {
+      "uid": "u0282",
+      "importance": "material",
+      "reason": "Possible descriptive term attached to jade; do not introduce death shade as an established concept."
+    },
+    {
+      "uid": "u0721",
+      "importance": "material",
+      "reason": "Possible tower designation is unclear; only its position beside the Hall of Stories is secure."
+    },
+    {
+      "uid": "u2819",
+      "importance": "material",
+      "reason": "The name or names credited with returning Kenzo to life are unclear; Bhishma and Laka are plausible but not certain."
+    },
+    {
+      "uid": "u2933",
+      "importance": "material",
+      "reason": "An unclear qualification to Kenzo’s memory of the flowers could affect the interpretation of his dreams."
+    }
+  ]
+}

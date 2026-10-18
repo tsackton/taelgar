@@ -1,0 +1,512 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Pava and Avaras welcome the party and recount finding Delwath near death in the desert.",
+      "longSummary": "Amil brings the party to his masters’ stone house, where Pava and Avaras offer shelter and tea. Delwath does not remember them, but they recognize the elf they found about twenty miles east, delirious and nearly dead from thirst. He rested for a day and part of a night before leaving westward without warning; he still cannot reconstruct his journey from Kharsan. The monks explain their work helping unburied souls reach the gods and mention disturbing, partly dead doglike creatures heading southwest. Kenzo describes his studies of the occult, Laka, and Shakun and the party’s search for the source of the region’s corruption; Delwath recalls leaving his people to fight in the Great War and feeling that his task remains unfinished.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Pava and Avaras' House",
+        "context": "Sitting room; late-afternoon welcome and tea."
+      },
+      "npcs": [
+        {
+          "name": "Pava",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Avaras",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Amil",
+          "role": "companion",
+          "context": "Led the party to his masters and tends the horses and tea."
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned",
+          "context": "The party intends to rejoin his desert expedition."
+        },
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "context": "Matriarchal founder of Dunmar whose monks care for lost souls."
+        },
+        {
+          "name": "Laka",
+          "role": "mentioned",
+          "context": "One focus of Kenzo’s studies; discussed in relation to Bhishma."
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned",
+          "context": "One focus of Kenzo’s studies; discussed in relation to Bhishma."
+        },
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "context": "Possible destination of the strange creatures seen southwest; not confirmed."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Pava and Avaras are Mystai of Bhishma; the order tends the souls of the unburied dead."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Delwath reclaims his shadowed breastplate and reassures the monks without resolving the source of its power.",
+      "longSummary": "Avaras returns with an elven breastplate altered by black metal and billowing shadows, challenging Delwath’s claim to have fought against Cha’mutte. Delwath recognizes his old armor from before his disappearance. Pava says the armor is elven but its shadows do not feel elven; the monks removed it when they rescued him because they feared it was connected to his delirium. Seeker examines it with the purple Goggles of Object Reading while Wellby briefly withdraws. Delwath accepts the shadow power as part of himself, demonstrates a shadow blade, and explains that it helped him escape the realm where he was trapped. The monks find his present condition less alarming. He dons the breastplate and suppresses the billowing shadows, leaving the dark inlay visible; neither the inspection nor his explanation identifies the power’s source.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Pava and Avaras' House",
+        "context": "Sitting room; the breastplate is brought out, inspected, and reclaimed."
+      },
+      "npcs": [
+        {
+          "name": "Pava",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Avaras",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Cha'mutte",
+          "role": "mentioned",
+          "context": "The monks fear a possible connection between the shadowed armor and the enemy Delwath says he fought; none is established."
+        }
+      ],
+      "items": [
+        {
+          "name": "Delwath's Elven Breastplate",
+          "role": "encountered",
+          "notes": "Recognized and reclaimed by Delwath; black metal and shadows have altered his former armor. Its power’s source remains unidentified."
+        },
+        {
+          "name": "Goggles of Object Reading",
+          "role": "encountered",
+          "notes": "Seeker retrieves the purple goggles to examine the breastplate."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Pava and Avaras are Mystai of Bhishma; the order tends the souls of the unburied dead."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The monks describe their order’s failed cleansing and a new malevolent will in Kharsan.",
+      "longSummary": "Surprised to learn that Shakun’s protection has fallen, Pava and Avaras cannot explain its cause. They describe Agata Dustmother as a source of misery who previously kept to herself, while possible bargains behind her changed behavior remain conjecture. About thirty years earlier, an attempt to cleanse the cursed land killed the order’s strongest initiates; the two monks did not know the ritual’s secret details and settled into quieter work tending the dead. Before they found Delwath, Kharsan’s old hauntings began to feel directed by an evil will, and formerly quiet eastern orcs began fighting each other and raiding west. Five unfamiliar adventurers, apparently Chardonian, passed toward the dry Kharja seeking imperial treasures or a rumored lost library; they were a different party from Vola and Arcus. The monks identify their abandoned monastery about ten miles south of Kharsan, at the site associated with Bhishma and Dunmar’s founding. Its records preserve the history of their people, but none of their order has returned since the failed cleansing, and neither host has personally visited it.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Pava and Avaras' House",
+        "context": "Sitting room; the hosts share the order’s history and reports of dangers to the east."
+      },
+      "npcs": [
+        {
+          "name": "Pava",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Avaras",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "context": "The monks describe her earlier isolation; a new bargain or motive is speculation."
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned",
+          "context": "The monks hear that his protective barrier has fallen."
+        },
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "context": "The monastery stands at a temple site associated with her and Dunmar’s founding."
+        },
+        {
+          "name": "Vola",
+          "role": "mentioned",
+          "context": "Her description does not match the recently observed adventurers."
+        },
+        {
+          "name": "Arcus",
+          "role": "mentioned",
+          "context": "His description does not match the recently observed adventurers."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "The hosts disclose the secret failed cleansing, loss of senior initiates, and abandoned monastery."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party chooses to rejoin Havdar before investigating the monastery near Kharsan.",
+      "longSummary": "After the hosts leave to prepare dinner, Delwath describes the sad, grief-filled presence he sensed when he touched the armor. He thinks it may be the source of his new magic and connected to his escape, but saw no clear form and heard no voice. The companions weigh possible links among his return, the failed cleansing, Kharsan’s new menace, and Shakun’s fallen barrier without establishing a cause. They compare confronting Agata with going east to the monastery; a farther search for the lost library would strain their supplies. They settle on honoring their promise to rejoin Havdar on the way and sharing what they learned about the orcs, including the possibility that not all are hostile. Amil, Pava, and Avaras serve chicken and rice. Kenzo asks to return for further study, Pava offers to show him something in the morning, and the party sleeps.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Pava and Avaras' House",
+        "context": "Sitting room for private discussion, then dinner and an overnight stay."
+      },
+      "npcs": [
+        {
+          "name": "Pava",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Avaras",
+          "role": "encountered",
+          "context": "Monk of Bhishma and host."
+        },
+        {
+          "name": "Amil",
+          "role": "encountered",
+          "context": "Helps bring dinner."
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned",
+          "context": "The party agrees to rejoin him before pursuing the monastery."
+        },
+        {
+          "name": "Agata Dustmother",
+          "role": "mentioned",
+          "context": "An alternative destination the party considers before choosing the eastern route."
+        }
+      ],
+      "items": [
+        {
+          "name": "Delwath's Elven Breastplate",
+          "role": "encountered",
+          "notes": "Delwath reports the grief-filled presence he sensed on touching it; his interpretation of that presence remains tentative."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Pava and Avaras are Mystai of Bhishma; the order tends the souls of the unburied dead."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-05-03",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Pava teaches Kenzo to stun opponents while Wellby and Seeker develop new abilities.",
+      "longSummary": "The next morning, Pava brings Kenzo and Wellby outside and teaches Kenzo to strike at the energy of another consciousness. After demonstrations, Kenzo successfully stuns Wellby; their sparring also develops Wellby’s ability to turn strong blows into glancing hits. Seeker continues studying his runes, making an increasingly large hand emerge from the ground until an enormous hand appears around lunch. The players advance all four characters to level five. Training occupies the morning, and the party waits through the hottest part of the day before departure.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Pava and Avaras' House",
+        "context": "Outdoor lawn for sparring and rune practice; waiting at the house through the heat."
+      },
+      "npcs": [
+        {
+          "name": "Pava",
+          "role": "encountered",
+          "context": "Demonstrates and teaches Kenzo’s stunning strike."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Pava and Avaras are Mystai of Bhishma; the order tends the souls of the unburied dead."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-05-03",
+      "dateEnd": "1748-05-05",
+      "timeWindow": null,
+      "shortSummary": "Wellby guides the party northeast through three hot travel days toward Havdar’s camp.",
+      "longSummary": "Leaving the house around three in the afternoon on May 3, the party heads northeast through the desert toward the broken canyon lands north of the Garamjala Desert. The first afternoon and camp are uneventful. On May 4, Wellby’s axebeak follows him and eats from his hand; it is accustomed to a saddle and ready for short rides. Baxter is suggested as its name but remains a contender. Seeker still has Taster with him, and Wellby navigates toward Havdar using the map and earlier directions. On May 5, Wellby spots a giant scorpion in time to avoid it, and the party rests through the midday heat before continuing through gullies toward the camp.",
+      "location": {
+        "kind": "journey",
+        "from": "Pava and Avaras' House",
+        "to": "Havdar's Camp",
+        "context": "Northeast through desert and broken canyon lands north of the Garamjala Desert.",
+        "notes": "Three travel days include the partial departure day, May 3; the final approach occurs May 5."
+      },
+      "npcs": [
+        {
+          "name": "Wellby's axebeak",
+          "role": "companion",
+          "context": "Becoming tame enough for short rides.",
+          "notes": "Baxter is proposed as a name, not definitively adopted."
+        },
+        {
+          "name": "Taster",
+          "role": "companion",
+          "context": "Still traveling with Seeker."
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned",
+          "context": "His camp is the journey’s destination."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      },
+      "timeline": [
+        {
+          "dateStart": "1748-05-03",
+          "dateEnd": null,
+          "timeWindow": "afternoon",
+          "shortSummary": "The party leaves the stone house and camps along the route to Havdar.",
+          "longSummary": "After the morning training and midday heat, the party departs around three and travels northeast for an uneventful afternoon before camping."
+        },
+        {
+          "dateStart": "1748-05-04",
+          "dateEnd": null,
+          "timeWindow": null,
+          "shortSummary": "Wellby guides a quiet day of desert travel while his axebeak becomes ready for short rides.",
+          "longSummary": "The second travel day is hot and quiet; Wellby navigates and continues taming the axebeak, with arrival at Havdar’s camp expected around dinner the next day."
+        },
+        {
+          "dateStart": "1748-05-05",
+          "dateEnd": null,
+          "timeWindow": null,
+          "shortSummary": "The party avoids a giant scorpion and crosses the gullies toward Havdar’s camp.",
+          "longSummary": "On the final travel day, Wellby spots a giant scorpion before the party reaches it, guides the group around it, and navigates onward after a midday heat rest."
+        }
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Seeker scouts an orc attack on Havdar’s camp, and the party climbs toward the enemy spellcasters.",
+      "longSummary": "Approaching the canyon camp, the party hears battle. Seeker projects spectral goggles ahead as a stationary magical sensor and sees roughly twenty or more orcs firing down from the rim at Havdar’s force; some of the Dunmari are attempting a flank while Havdar holds the camp below. Delwath prepares Armor of Agathys. The party rejects a rockslide that would endanger the camp and climbs the canyon wall to approach the opposite flank. An orc fireball explodes among Havdar’s men, reinforcing the decision to target the casters. As the party closes in, they identify a well-armed leader, two spellcasters, and ordinary warriors; combat preparations finish just before initiative.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Havdar's Camp",
+        "context": "Southern canyon approach and western rim above the besieged oasis camp."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion",
+          "context": "Leading the Dunmari defending the camp; observed through Seeker’s sensor."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's warband",
+          "role": "encountered",
+          "notes": "Dunmari soldiers defend the camp and attempt to flank the attackers."
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Orc warriors"
+          },
+          {
+            "name": "Orc warleader"
+          },
+          {
+            "name": "Orc fire mage"
+          },
+          {
+            "name": "Armored orc spellcaster"
+          }
+        ],
+        "notes": "The wider battle is already underway; this beat covers observation and the party’s approach, before its initiative begins."
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "An orc fireball badly wounds the party as they engage the casters and nearby warriors.",
+      "longSummary": "Kenzo opens with Fist of Planar Power against a caster and breaks its concentration before striking a nearby orc. Orc warriors rush Kenzo and Wellby, and the fire mage catches Seeker, Delwath, and Wellby in a fireball. Seeker answers with Shatter, damaging several enemies and toppling a palm without breaking the stone pillar. Delwath curses and charges the ash-gray, flame-painted fire mage, badly wounding it. The other caster fails to curse Delwath and Kenzo. Wellby fights with his short sword as the leader directs extra attacks; Kenzo kills two ordinary warriors, but Wellby is left barely standing. The wounded fire mage burns Delwath again before Seeker’s next turn.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Havdar's Camp",
+        "context": "Western canyon rim among the orc warriors, leader, and two casters."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's warband",
+          "role": "encountered",
+          "notes": "Allies continue fighting elsewhere around the camp."
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Orc warriors"
+          },
+          {
+            "name": "Orc warleader"
+          },
+          {
+            "name": "Orc fire mage"
+          },
+          {
+            "name": "Armored orc spellcaster"
+          }
+        ],
+        "notes": "The party joins initiative. Fireball causes serious injuries; the fire mage is badly wounded but survives until the next beat."
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Seeker kills the fire mage, Kenzo stuns the leader, and Delwath strikes before blinking away.",
+      "longSummary": "Seeker summons an earthen hand that crushes the wounded fire mage and inspires Wellby. Delwath attacks the armored caster without landing the intended blow, and its Command fails to stop him. Wellby kills an adjacent orc and throws aside his burning hat. Kenzo finishes the remaining ordinary warrior nearby, closes with the leader, and stuns it with a wave of blue ki. Seeker’s hand misses the armored caster, but his inspiration helps Delwath, who wounds the stunned leader with Green-Flame Blade, burns the neighboring caster, and successfully blinks out of sight.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Havdar's Camp",
+        "context": "Western canyon rim; the fight contracts around the leader and armored caster."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's warband",
+          "role": "encountered",
+          "notes": "Allies continue their part of the wider battle."
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Orc warriors"
+          },
+          {
+            "name": "Orc warleader"
+          },
+          {
+            "name": "Orc fire mage"
+          },
+          {
+            "name": "Armored orc spellcaster"
+          }
+        ],
+        "notes": "The fire mage and remaining ordinary warriors on this flank are killed; the leader is stunned, and both surviving principal foes are wounded."
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party captures the last spellcaster and helps Havdar finish the remaining orcs.",
+      "longSummary": "The armored caster conjures a phantom hand that restrains and hurts Kenzo, though Wellby cannot see the hand. Kenzo still manages to kill the leader and strike the caster. Seeker’s earthen hand then restrains the last caster; Delwath reappears and, at the party’s urging, knocks it unconscious for questioning. With the opposing rim cleared by the Dunmari flank, three orcs remain against Havdar below. The party’s ranged attacks, Seeker’s Shatter, and Havdar’s men finish them. The battlefield falls quiet with one unconscious orc captive; several of Havdar’s people are wounded or down, but their final condition and the casualty count are not established. Questioning the captive waits until the next session.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Havdar's Camp",
+        "context": "Western rim and firing line into the camp below; immediate aftermath of the battle."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion",
+          "context": "His defenders finish the last orcs below after the party’s assistance."
+        },
+        {
+          "name": "Captured orc spellcaster",
+          "role": "enemy",
+          "context": "The final armored caster is knocked unconscious for later questioning."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's warband",
+          "role": "encountered",
+          "notes": "Wins the battle with the party’s help; several soldiers are wounded or down, with final casualties unconfirmed."
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Orc warleader"
+          },
+          {
+            "name": "Armored orc spellcaster"
+          },
+          {
+            "name": "Orc warriors"
+          }
+        ],
+        "notes": "Leader and remaining warriors killed; armored caster taken alive. The wider attack is defeated."
+      }
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Return to Karawa",
+      "startUid": "u0001",
+      "endUid": "u0151",
+      "lineCount": 151,
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The returning party receives the patrol’s news and reaches Candrosa’s private meeting; the substantive conversation begins in the next beat.",
+      "dateEvidence": [
+        "u0006-u0007 explicitly establish the sinking sun and May 23; u0978-u0979 confirm that the council remains on the arrival evening."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Candrosa’s Confession",
+      "startUid": "u0152",
+      "endUid": "u0497",
+      "lineCount": 346,
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The private discussion ends when Candrosa leads the party to meet the stoneborn; his confession, the failing stone, and broken trust form one conversation.",
+      "dateEvidence": [
+        "u0006-u0007 explicitly establish the sinking sun and May 23; u0978-u0979 confirm that the council remains on the arrival evening."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Meeting Drikod",
+      "startUid": "u0498",
+      "endUid": "u0629",
+      "lineCount": 132,
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A distinct introduction at the centaur camp establishes the new companion before the party returns to Candrosa; this strong cast and location break justifies the short beat.",
+      "dateEvidence": [
+        "u0006-u0007 explicitly establish the sinking sun and May 23; u0978-u0979 confirm that the council remains on the arrival evening."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "The Missing Heart",
+      "startUid": "u0630",
+      "endUid": "u0924",
+      "lineCount": 295,
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Candrosa explains the Heart, Cintra’s disappearance, and the Wellspring; his offer of a ritual shifts the conversation toward plans and disclosure.",
+      "dateEvidence": [
+        "u0006-u0007 explicitly establish the sinking sun and May 23; u0978-u0979 confirm that the council remains on the arrival evening."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Breaking the Silence",
+      "startUid": "u0925",
+      "endUid": "u1165",
+      "lineCount": 241,
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party weighs delay, scouting, and secrecy, persuades Candrosa to tell Tharandros, and parts from him to make camp.",
+      "dateEvidence": [
+        "u0006-u0007 explicitly establish the sinking sun and May 23; u0978-u0979 confirm that the council remains on the arrival evening."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "The Mirror of Kharsan",
+      "startUid": "u1166",
+      "endUid": "u1427",
+      "lineCount": 262,
+      "dateStart": "1748-05-23",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Independent inquiry uses a hawk and the mirror, then weighs rumors and the practicalities of the Wellspring expedition before the town-day montage.",
+      "dateEvidence": [
+        "u0006-u0007 explicitly establish the sinking sun and May 23; u0978-u0979 confirm that the council remains on the arrival evening."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "A Day in Karawa",
+      "startUid": "u1428",
+      "endUid": "u1538",
+      "lineCount": 111,
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "An overnight rest and the intervening day of preparation separate the first evening’s inquiry from the following evening’s ritual; the time transition justifies the short beat.",
+      "dateEvidence": [
+        "u1430 introduces the intervening day in town; u1483 refers back to sleeping the previous night; u1539 explicitly advances to the following evening after the May 23 arrival."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Shakun’s Fraying Web",
+      "startUid": "u1539",
+      "endUid": "u1709",
+      "lineCount": 171,
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The ceremony and shared visions end when the party awakens to a real attack.",
+      "dateEvidence": [
+        "u1430 introduces the intervening day in town; u1483 refers back to sleeping the previous night; u1539 explicitly advances to the following evening after the May 23 arrival."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Shadows in the Sanctuary",
+      "startUid": "u1710",
+      "endUid": "u2103",
+      "lineCount": 394,
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The ambush, improvised defenses, and first combat round end as Drikod takes his next turn; split from the long combat at a round boundary.",
+      "dateEvidence": [
+        "u1430 introduces the intervening day in town; u1483 refers back to sleeping the previous night; u1539 explicitly advances to the following evening after the May 23 arrival."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Holding the Light",
+      "startUid": "u2104",
+      "endUid": "u2346",
+      "lineCount": 243,
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The second round brings another lightning bolt, Sanctuary, and dangerous strength loss before Drikod’s next turn.",
+      "dateEvidence": [
+        "u1430 introduces the intervening day in town; u1483 refers back to sleeping the previous night; u1539 explicitly advances to the following evening after the May 23 arrival."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Breaking the Shadow Hunt",
+      "startUid": "u2347",
+      "endUid": "u2514",
+      "lineCount": 168,
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The final round combines healing, protective bonds, planar strikes, and blasts; the last shadows fall and Wellby returns the conjured bow.",
+      "dateEvidence": [
+        "u1430 introduces the intervening day in town; u1483 refers back to sleeping the previous night; u1539 explicitly advances to the following evening after the May 23 arrival."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Mourning and Revelations",
+      "startUid": "u2515",
+      "endUid": "u2764",
+      "lineCount": 250,
+      "dateStart": "1748-05-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The battle’s aftermath brings mourning, discussion of the vision and future threats, and the session’s closing funeral.",
+      "dateEvidence": [
+        "u1430 introduces the intervening day in town; u1483 refers back to sleeping the previous night; u1539 explicitly advances to the following evening after the May 23 arrival.",
+        "u2599-u2600 confirm it is still evening after a ritual lasting about thirty minutes; u2747 records sunset and u2756-u2758 close before the next morning. The reference to midnight at u2601 concerns real-world session time."
+      ]
+    }
+  ]
+}

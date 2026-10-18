@@ -1,0 +1,503 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The table discusses possible planar play styles, character knowledge, and souls before the adventure resumes.",
+      "longSummary": "Before play, the players brainstorm alternate ways to portray other planes, including drawings, changing maps, and different rules; these are possibilities, not experienced events. The DM describes Kenzo as the best informed about metaphysics, Seeker as understanding rune magic intuitively, and Delwath as having relevant elven experience. Discussion of souls, gnolls, and afterlives remains a mixture of DM explanation, player theory, and explicit uncertainty, followed by personal table conversation.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Out-of-character opening; no new in-world action."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Around the Karawa campfire, the companions reflect on their purposes, question Shakun’s silence, and examine Kenzo’s jade.",
+      "longSummary": "In the ruined caravanserai, Kenzo remains drawn to his original search for understanding, Seeker experiments with a small illusion of the planes, Delwath finds renewed purpose in the desert threat, and Wellby welcomes the chance to explore. Kenzo judges Candrosa frightened and guilty rather than deceptive, while the party speculates about Shakun’s lost protection. Delwath finds the mirror perhaps recharging faster near the temple but still unusable. Kenzo wants to see his past through his jade necklace; Seeker’s goggles reveal it was part of something larger, and Delwath recognizes magic reminiscent of his elven elders. The party considers storing surplus treasure; Wellby seeks tack for his axebeak, and Seeker plans to inspect the temple.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Camp in the ruins of Ikram's caravanserai."
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered"
+        },
+        {
+          "name": "Kenzo’s jade necklace",
+          "role": "encountered"
+        },
+        {
+          "name": "Purple gemstone goggles",
+          "role": "encountered"
+        },
+        {
+          "name": "Adamantine block",
+          "role": "encountered"
+        },
+        {
+          "name": "Elvish book of poems",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-25",
+      "dateEnd": "1748-04-26",
+      "timeWindow": null,
+      "shortSummary": "Havdar briefs the party on the eastward expedition while the companions finish preparations and Kenzo arranges to use the mirror.",
+      "longSummary": "Havdar plans to ride through Bas Udda, then east to water near Alesh’s reported orc sighting, where scouts can establish the threat. With his roughly twenty warriors and the party, he expects to fight fewer than a hundred orcs and flee larger forces; messengers will seek support in Tokra. The party may later pursue separate desert objectives. They secure surplus possessions, repeatedly find Candrosa troubled and withholding something, and Kenzo sends his mentor news about Shakun. Wellby’s axebeak accepts a saddle but not a rider yet. The DM confirms the mirror will be charged before departure and prepares a private scene with Kenzo.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Camp and expedition preparations before departure."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "encountered"
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-27",
+      "dateEnd": "1748-04-28",
+      "timeWindow": null,
+      "shortSummary": "Kenzo attends to private business, Wellby receives a warning about the Feywild, and the party rides out with Havdar.",
+      "longSummary": "Kenzo slips away at dawn for a private mirror-related scene whose contents are not in this recording; the remaining players review their theories about Agata, demons, orcs, and the missing echoes near the temple. After his return, Delwath and Wellby seek Tharandros, while Seeker makes a final temple inspection. Tharandros warns Wellby that the fey were banished for their disregard of the world and may treat deadly poison as a joke or grant extraordinary wishes on a whim. Delwath’s separate question is handled privately. The party sets out with Havdar’s mounted force, spare horses, food and water, follows the Red Mesa toward Bas Udda, and camps after the first day.",
+      "location": {
+        "kind": "journey",
+        "from": "Karawa",
+        "to": "Bas Udda",
+        "context": "Final conversations, departure with Havdar, and the first overnight camp on the route."
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "encountered",
+          "notes": "Private scene setup and return are recorded; the vision itself is absent."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The expedition finds Bas Udda burned and ruined, with carefully laid-out bodies attracting seven giant vultures.",
+      "longSummary": "On the approach to Bas Udda, the party sees deliberately burned farmland and destruction much worse than Karawa’s; the burning need not have been magical. The central temple and a few nearby roofs remain, and someone has recently cleaned the temple and arranged many bodies for funerals. Seven horse-sized vultures circle overhead. Havdar posts guards, and Wellby judges the birds dangerous and unlikely to be easily driven away as the party considers sheltering inside.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Bas Udda",
+        "context": "Ruined settlement and the area outside the Temple of the Five Siblings."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The party and Havdar’s warriors kill five giant vultures and drive away two after Wellby and Kenzo are seized.",
+      "longSummary": "Delwath’s opening Eldritch Blast misses, and two vultures dive on Wellby, wounding and grappling him. Seeker’s Shatter badly injures both; Kenzo kills them with staff and unarmed blows. Another vulture grabs Kenzo and lifts him off the ground. Havdar wounds it with a spear and calls for an extra strike, then Delwath teleports onto its back and attacks while Seeker enters the temple and glimpses a frightened young man. Kenzo escapes the talons, balances on the bird’s back, then kills it; Delwath takes a small amount of falling damage while Kenzo lands safely. Havdar’s archers kill two other vultures, leaving two to escape, and Havdar organizes a watch.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Bas Udda",
+        "context": "Outside and at the entrance of the Temple of the Five Siblings."
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Amil",
+          "role": "encountered",
+          "notes": "Seeker glimpses the frightened young man inside the temple; identified in the next beat."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Giant vultures"
+          }
+        ],
+        "notes": "Seven attack or circle the expedition; five killed, two flee."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Amil explains his work tending the dead and reveals that his masters once rescued an elf from the desert.",
+      "longSummary": "Inside the cleaned but damaged temple, the party meets Amil among hundreds of small icons of the Five Siblings collected and arranged at the altars. He has been recovering and burning the dead, preserving their memory and helping their souls find peace; a vulture’s dive drove him inside. He is a young devotee of Bhishma, apprenticed to Pava and Avaras, who live in a stone house southeast of the town. Startled by Delwath, he recounts his masters’ story of finding an elf in the desert months earlier. Delwath recalls only a ruined town, thirst and a shepherd family, but thinks this may concern him. Havdar offers his warriors’ help, Kenzo offers his own, and the party considers accompanying Amil home.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Bas Udda",
+        "context": "Temple of the Five Siblings."
+      },
+      "npcs": [
+        {
+          "name": "Amil",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Pava",
+          "role": "mentioned"
+        },
+        {
+          "name": "Avaras",
+          "role": "mentioned"
+        },
+        {
+          "name": "Unnamed woman in Havdar’s troop",
+          "role": "companion",
+          "notes": "Prays at Aagir’s altar; no name given."
+        }
+      ],
+      "items": [
+        {
+          "name": "Collected icons of the Five Siblings",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "Canonical name for Amil’s described Bhishma cult; not spoken here."
+        },
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party helps Amil perform funeral rites and agrees to escort him home while Havdar continues east.",
+      "longSummary": "After the heat eases, Havdar’s warriors and Seeker’s shaping ability speed the recovery of bodies from collapsed buildings. Amil conducts prayers as the funeral pyres burn at sunset; the players explicitly say they do not loot the bodies. The party agrees to accompany him to his masters after a final morning search. Havdar accepts the change, gives Wellby directions to his planned eastern camp, provides supplies and a spare horse for Amil, and promises a warning if a large orc force appears. At Seeker’s urging, Kenzo asks Amil about Agata; Amil has never heard of her and suggests asking his masters. He describes their ability to perceive something of the soul beyond the visible person, which he hopes Bhishma will someday grant him.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Bas Udda",
+        "context": "Recovery work, funeral pyres and the evening camp."
+      },
+      "npcs": [
+        {
+          "name": "Amil",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Pava",
+          "role": "mentioned"
+        },
+        {
+          "name": "Avaras",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar's Warband",
+          "role": "encountered"
+        },
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-30",
+      "dateEnd": "1748-05-02",
+      "timeWindow": null,
+      "shortSummary": "After leaving Bas Udda with Amil, the party follows a canyon to a spring where Wellby discovers three ogres.",
+      "longSummary": "The next morning the party checks for any remaining dead, and Amil gathers the sacred icons and surviving temple valuables to take to his masters. They leave after the midday heat and travel through dry canyon country. Later, broken giant-scorpion remains and bird bones alarm Amil; inspection suggests large hands and oversized tracks. The party presses toward a spring, telling Amil to stay back. Wellby declines Invisibility and scouts ahead, finding a filthy camp, one sleeping ogre and two more behind a crude hide curtain. His movement wakes the first ogre, though it does not immediately see him; Wellby then steps out to speak.",
+      "location": {
+        "kind": "journey",
+        "from": "Bas Udda",
+        "to": "Canyon spring on the road to Pava and Avaras’ house",
+        "context": "Departure, desert travel and scouting the occupied spring."
+      },
+      "npcs": [
+        {
+          "name": "Amil",
+          "role": "companion"
+        },
+        {
+          "name": "Pava",
+          "role": "mentioned"
+        },
+        {
+          "name": "Avaras",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Collected icons of the Five Siblings",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "Wellby’s request for safe passage prompts a chase, and the chain-wielding ogre wounds him before the party can bring it down.",
+      "longSummary": "Wellby apologizes for waking the ogre and requests passage, but it treats him as a snack and pursues him toward the party. Delwath prepares Armor of Agathys and Mirror Image while Kenzo climbs the canyon wall and uses Soulsight. The ogre’s chain wounds Wellby, who remains conscious. Seeker heats the chain with Heat Metal and gives Wellby an inspiring rune; the ogre stubbornly keeps hold of the burning weapon. Wellby shoots from cover, and Kenzo sends a blast of energy from the ledge. Approaching footsteps announce the other two ogres.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Desert canyon",
+        "context": "Passage below the occupied spring; canyon floor and ledges."
+      },
+      "npcs": [
+        {
+          "name": "Amil",
+          "role": "companion",
+          "notes": "Present at the outset; warned to flee well away from the fight."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "start",
+        "mainEnemies": [
+          {
+            "name": "Three ogres"
+          }
+        ],
+        "notes": "The chain ogre pursues Wellby; two companions begin to approach."
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The party kills the chain ogre and prepares a barrier as the other two ogres approach with javelins.",
+      "longSummary": "Delwath moves beside Wellby and strikes the advancing ogre; its sweeping chain wounds Wellby again and, as ruled at the table, destroys one mirror duplicate without hurting Delwath. Seeker keeps Heat Metal rather than switching concentration to Suggestion, climbs toward safety, and raises a five-foot earthen wall across the narrow passage. Wellby climbs the ledges and kills the chain ogre with an arrow through its eye. Kenzo taunts the two approaching ogres from above; he partly deflects one javelin, taking a minor wound, and another misses. Amil has run back out of sight, following the party’s warning.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Desert canyon",
+        "context": "Canyon floor, earthen barrier and ledges."
+      },
+      "npcs": [
+        {
+          "name": "Amil",
+          "role": "companion",
+          "notes": "Retreats around a bend, seeking distance from the fight."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "middle",
+        "mainEnemies": [
+          {
+            "name": "Three ogres"
+          }
+        ],
+        "notes": "Chain ogre killed; two club-and-javelin ogres remain."
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The last two ogres fall after the party combines an earthen barrier, a returned javelin, rockfall, melee attacks and Wellby’s arrows.",
+      "longSummary": "Delwath curses and blasts the leading ogre, while Seeker’s Suggestion fails to turn it against its companion. The ogre charges into the earthen barrier, trips, gets up and throws its last javelin; Kenzo catches and returns it into the ogre’s shoulder. Delwath closes with Green-Flame Blade, and Seeker’s Shatter wounds both ogres and brings down part of the canyon wall, leaving rubble though an ogre dodges the falling rocks. Wellby kills the leading ogre with an arrow. Kenzo leaps onto the last ogre for staff and unarmed blows, Delwath follows with his shadowy sword, and Seeker heals Wellby. Wellby’s final shot succeeds with Seeker’s earlier inspiration, whose exploding rune adds the killing damage. All three ogres are dead.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Desert canyon",
+        "context": "Narrow passage and ledges near the spring."
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "end",
+        "mainEnemies": [
+          {
+            "name": "Three ogres"
+          }
+        ],
+        "notes": "The two remaining ogres are killed; Wellby delivers all three final shots, the last assisted by Seeker’s rune."
+      }
+    },
+    {
+      "beatId": "beat-013",
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party retrieves Amil, leaves the foul spring behind and reaches his masters’ stone house, where an elder recognizes Delwath.",
+      "longSummary": "The party finds Amil hiding about four hundred feet back and rejoins him. Inspection of the ogres’ camp reveals animal remains and refuse beside the spring, but no treasure or sign of recent humanoid victims. Amil urges them onward despite the heat. After a few more hours they reach a two-story stone house with livestock, shade awnings, a well and an outbuilding. Amil runs ahead to announce them, and two elderly men in gray-silver robes emerge. The older, paler man’s face lights up when he sees Delwath; the recording ends before the conversation, followed by table discussion and scheduling.",
+      "location": {
+        "kind": "journey",
+        "from": "Canyon spring",
+        "to": "Pava and Avaras’ house",
+        "context": "Post-combat search and afternoon arrival."
+      },
+      "npcs": [
+        {
+          "name": "Amil",
+          "role": "companion"
+        },
+        {
+          "name": "Pava",
+          "role": "encountered",
+          "notes": "One of the two masters; this transcript does not identify which appearance belongs to which name."
+        },
+        {
+          "name": "Avaras",
+          "role": "encountered",
+          "notes": "One of the two masters; the older man recognizes Delwath, but is not individually named here."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

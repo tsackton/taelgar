@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-05-23",
+  "inferredEnd": "1748-05-24",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: return to Karawa",
+      "date": "1748-05-23",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0006-u0007 describe the sun sinking and explicitly give May 23; the year is anchored by session YAML. u0975-u0979 contain a mistaken morning reference immediately corrected by the DM to the same arrival evening.",
+      "beatId": "beat-001",
+      "sourceText": "are about to get some robinhood."
+    },
+    {
+      "uid": "u1428",
+      "label": "Intervening day in Karawa",
+      "date": "1748-05-24",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "The montage introduced at u1428-u1430 covers the available day before the ritual; u1483 looks back at sleeping the previous night, and u1539 calls the ritual the following evening. Assign May 24 to the day’s errands; their precise hours are unstated. The driftglobe discussion is retrospective, not another overnight transition.",
+      "beatId": "beat-007",
+      "sourceText": "So yeah."
+    },
+    {
+      "uid": "u1539",
+      "label": "Following evening: return for the ritual",
+      "date": "1748-05-24",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u1539-u1540 explicitly say the following evening, when the party returns to the temple. u1601 confirms evening light. u2599-u2600 confirm the ritual and battle finish while it is still evening after roughly thirty minutes; u2601-u2604 discuss real-world session timing, not an in-world midnight.",
+      "beatId": "beat-008",
+      "sourceText": "The following evening."
+    },
+    {
+      "uid": "u2747",
+      "label": "After sunset: mourning and funeral",
+      "date": "1748-05-24",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2747 describes the cloisters in darkness because the sun has set; u2756-u2758 have the party settle for the evening and the funeral, leaving next steps for morning. The source does not advance into that morning.",
+      "beatId": "beat-012",
+      "sourceText": "About so just and again like if you guys want to chat i'm fine, but just to you know wrap things around as the you know the you return up the the passage way through the the cloisters now in darkness, as the sun has set."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-session.yaml",
+      "sha256": "f6dee8ac628be03d18bbb688391e76d16a8f3a3be2269c1d01ed8e23eb4458ca"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-beats.json",
+      "sha256": "682ebb536987852d95ffa5b779e9a59ab1450d07f0397077a700542c1902793b"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-beat-facts.json",
+      "sha256": "0ae8f4e673b5ac6044800efcda2bf86cc10db76556ac379afcdc8b2475e0fb46"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-source-cleaned.md",
+      "sha256": "29707689ea455d762dd1c0d85d2611716e79622a3dd2bcdb9dfbd5c7612d94c8"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-026/cleaned/dunmari-frontier-026-timeline-evidence.json",
+      "sha256": "099df8f3326b5032301aadd4eadefdf3579f61a560cdc065b93e54e0359fb9df"
+    }
+  }
+}

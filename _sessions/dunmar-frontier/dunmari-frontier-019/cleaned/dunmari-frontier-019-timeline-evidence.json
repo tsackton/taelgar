@@ -1,0 +1,162 @@
+{
+  "inferredStart": "1748-04-24",
+  "inferredEnd": "1748-05-02",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-04-24",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Human decision: the session opens on the evening of April 24, continuing Session 18. Opening table conversation advances no in-world time."
+    },
+    {
+      "uid": "u0316",
+      "label": "The campfire scene begins",
+      "date": "1748-04-24",
+      "time": "early evening",
+      "basis": "inferred",
+      "evidence": "u0316 and u0401 establish early evening. Human decision anchors this to April 24, continuing Session 18; the approved manifest start is April 24."
+    },
+    {
+      "uid": "u0661",
+      "label": "Havdar visits the next morning",
+      "date": "1748-04-25",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u0661 is the next morning, April 25. Havdar says day after tomorrow (u0726) and April 27 (u0738). Preparations continue across April 25–26 to the last evening (u0772, u0809, u0817–u0818). Human clarification resolves the former start-date conflict."
+    },
+    {
+      "uid": "u0809",
+      "label": "Last evening of preparations",
+      "date": "1748-04-26",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u0772 compresses preparations; u0809 explicitly returns to the last evening, and u0817–u0818 settle down before an early departure. The stated April 27 departure implies April 26."
+    },
+    {
+      "uid": "u0829",
+      "label": "Departure morning",
+      "date": "1748-04-27",
+      "time": "early morning",
+      "basis": "explicit",
+      "evidence": "u0829–u0830 place Kenzo’s private business in early morning before departure; u0736–u0738 explicitly name the departure morning as April 27."
+    },
+    {
+      "uid": "u1017",
+      "label": "First travel camp",
+      "date": "1748-04-27",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1017 ends the first travel day in camp. Human decision retains April 28 as a full further travel day, correcting the next-day arrival estimate in u1021–u1022."
+    },
+    {
+      "uid": "u1020",
+      "label": "Full second travel day before Bas Udda",
+      "date": "1748-04-28",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "Human correction to the travel montage at u1017–u1025: retain the written full April 28 travel day and April 29 arrival. The user judges the spoken next-day arrival estimate mistaken and notes that the party would still be about 25 miles away on April 28 morning."
+    },
+    {
+      "uid": "u1026",
+      "label": "Arrival day approaching Bas Udda",
+      "date": "1748-04-29",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "Human decision adopts April 29 arrival from the written session note, correcting the spoken April 28 in u1026–u1028. u1030–u1037 describe the approach around midday; the spoken calendar date remains unchanged in the transcript."
+    },
+    {
+      "uid": "u1030",
+      "label": "Midday arrival in Bas Udda",
+      "date": "1748-04-29",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1030–u1037 explicitly describe an approach around midday after lunch. Human decision adopts April 29 as the calendar date despite the spoken April 28 in u1028."
+    },
+    {
+      "uid": "u1845",
+      "label": "Body recovery after the heat",
+      "date": "1748-04-29",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "u1844–u1845 move from the post-battle rest into work as the afternoon cools."
+    },
+    {
+      "uid": "u1870",
+      "label": "Funeral rites at sunset",
+      "date": "1748-04-29",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u1857 says by evening; u1870–u1873 describe sunset, prayers and burning bodies. u1889 continues that evening."
+    },
+    {
+      "uid": "u2040",
+      "label": "Final morning in Bas Udda",
+      "date": "1748-04-30",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u2040 says next morning after the rites and evening planning, followed by a final check for dead and collecting icons."
+    },
+    {
+      "uid": "u2051",
+      "label": "Departure after midday heat",
+      "date": "1748-04-30",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "u2051–u2055 describe departure after the midday heat and travel during the remainder of that afternoon; u2054 anticipates arrival two afternoons from now."
+    },
+    {
+      "uid": "u2058",
+      "label": "Full day traveling with Amil",
+      "date": "1748-05-01",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "Desert travel montage at u2055–u2059. Human decision confirms the two-afternoons estimate in u2054: April 30 departure, May 1 travel, May 2 arrival."
+    },
+    {
+      "uid": "u2060",
+      "label": "Canyon approach on arrival day",
+      "date": "1748-05-02",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "Human decision confirms two afternoons from now (u2054), giving May 2 after April 30 departure. The second-day phrasing (u2060, u3172) counts days after the partial departure day. u2102 corrects the evening cue to late morning."
+    },
+    {
+      "uid": "u2102",
+      "label": "Canyon encounter time clarified",
+      "date": "1748-05-02",
+      "time": "late morning",
+      "basis": "inferred",
+      "evidence": "u2102–u2103 explicitly place the encounter just before the usual midday break, superseding u2060’s evening phrasing. No overnight intervenes before combat or arrival."
+    },
+    {
+      "uid": "u3172",
+      "label": "Afternoon onward travel",
+      "date": "1748-05-02",
+      "time": "afternoon",
+      "basis": "inferred",
+      "evidence": "u3172 describes afternoon of the second day after leaving Bas Udda. Human decision confirms May 2, two afternoons after April 30 departure. u3152–u3163 establish only a few more hours to the house."
+    },
+    {
+      "uid": "u3175",
+      "label": "Arrival at the stone house",
+      "date": "1748-05-02",
+      "time": "about 4–4:30 p.m.",
+      "basis": "inferred",
+      "evidence": "u3175 explicitly gives four or four-thirty in the afternoon after a few hours of travel; u3177–u3189 describe the house and greeting. Closing table talk adds no in-world time."
+    }
+  ],
+  "issues": [
+    {
+      "detail": "The spoken Bas Udda arrival date and travel duration differ from the written chronology adopted by the user.",
+      "evidence": "u1017–u1028 compress travel to a single overnight and explicitly name April 28. The written Session 19 note gives two full travel days and April 29 arrival. The original spoken wording is preserved."
+    }
+  ],
+  "resolutions": {
+    "source:0": {
+      "by": "human",
+      "reason": "User explicitly chose the written April 29 arrival over the spoken April 28: \"i think we should use the written date not the transcript date\" and explained that April 28 should have remained a full travel day. User also set the opening evening to April 24 and confirmed the two-afternoons journey, giving April 30 departure and May 2 arrival."
+    }
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "At their midday camp, Kenzo connects his jade fragment and visions of Rai to the Order of the Awakened Soul.",
+      "longSummary": "Resting beside the dry Kharja, Kenzo asks what his companions know of Rai. Delwath recalls an elusive mage of elven blood, while Seeker remembers childhood tales of Rai and the foul-mouthed, purple-scaled Dimitaur. Kenzo recounts the jade hand and robed figure in his dream, the instruction to seek the Order of the Awakened Soul, and the dragon vision he saw through the mirror. He suspects that his fragment is part of Rai and that Rai may still be involved in protecting the world, but these remain his theories. Pava and Avaras’s identification of their order gives him a concrete reason to investigate the monastery.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Garamjala",
+        "context": "Midday camp beside the dry Kharja, five miles south of the monastery"
+      },
+      "npcs": [
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "Subject of remembered history and Kenzo’s theories; the robed dream figure’s identity is not established."
+        },
+        {
+          "name": "Dimitaur",
+          "role": "mentioned",
+          "notes": "Seeker recalls him from childhood stories."
+        },
+        {
+          "name": "Pava",
+          "role": "mentioned"
+        },
+        {
+          "name": "Avaras",
+          "role": "mentioned"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "notes": "Recalled as guiding Kenzo’s earlier vision."
+        }
+      ],
+      "items": [
+        {
+          "name": "Kenzo’s jade fragment",
+          "role": "encountered",
+          "notes": "Kenzo carries and examines it; its connection to Rai is his hypothesis."
+        },
+        {
+          "name": "Mirror",
+          "role": "mentioned",
+          "notes": "Kenzo recounts using it to investigate the fragment’s history."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "Identified with the Order of Bhishma by Pava and Avaras in Kenzo’s account."
+        },
+        {
+          "name": "Lakan Mystai",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "shortSummary": "The party reviews the monastery’s mysteries and chooses a riverbed approach during the heat of the day.",
+      "longSummary": "The party considers the working fountain, the Hall of Stories, and the disappearance of the order’s masters thirty years earlier. They speculate about awakened souls, divine power, and possible connections to current troubles; the DM distinguishes those older events from the changes of the last year. Choosing to investigate while the site appears quiet, they plan to follow the dry river, leave their mounts sheltered beneath the cliffs, and approach by the gentler slope rather than climb. Wellby puts Baxter in charge of watching the horses.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Garamjala",
+        "context": "Midday camp beside the dry Kharja"
+      },
+      "npcs": [
+        {
+          "name": "Pava",
+          "role": "mentioned"
+        },
+        {
+          "name": "Avaras",
+          "role": "mentioned"
+        },
+        {
+          "name": "Bhishma",
+          "role": "mentioned"
+        },
+        {
+          "name": "Jeevali",
+          "role": "mentioned"
+        },
+        {
+          "name": "Baxter",
+          "role": "companion",
+          "notes": "Wellby entrusts the horses to him before the party departs."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "The masters’ failed expedition is discussed, but its purpose remains unknown."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party reaches the monastery and discovers two adult manticores and two young in its ruined dining hall.",
+      "longSummary": "After a hot ninety-minute walk, the party reaches the cliffs around two o’clock and leaves the mounts there. Following the river’s bend, they pass dry water pipes and climb through abandoned terraces, reaching the buildings around 2:30. A lizard tells Wellby that larger creatures emerge when the sun is lower. Wellby hears heavy sleeping and unpleasant laughter; Delwath makes himself and Kenzo invisible so they can investigate. They find two sleeping adult manticores and two cruelly playing young, along with stone doors bearing Bhishma’s images and an inscription requiring kneeling prayer. The party regroups, concerned that the manticores will threaten the mounts.",
+      "location": {
+        "kind": "journey",
+        "from": "Camp beside the Kharja (Garamjala)",
+        "to": "Monastery of Bhishma",
+        "context": "Along the dry river to the cliffs and ruined dining hall"
+      },
+      "npcs": [
+        {
+          "name": "Manticores",
+          "role": "enemy",
+          "notes": "Two adults and two young occupy the dining hall."
+        },
+        {
+          "name": "Lizard",
+          "role": "encountered",
+          "notes": "Warns Wellby that larger creatures emerge later in the day."
+        }
+      ],
+      "items": [
+        {
+          "name": "Bhishma’s inscribed stone doors",
+          "role": "encountered",
+          "notes": "Depict her kneeling and deified; direct entrants to kneel and pray."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party decides to attack the manticores and uses Kenzo’s driftglobe to plan a diversion for the young.",
+      "longSummary": "Delwath initially favors moving on to the tower, but concern for the horses leads the party to choose an ambush. They want to keep the adults from flying away and avoid wasting their invisibility on the young. After considering illusions, blocked exits, and a flying pursuit, they settle on Kenzo placing his driftglobe beyond the kitchen doorway to draw the young away. Kenzo and Delwath will approach the sleeping adults invisibly, while Wellby and Seeker support them from range. Delwath takes Seeker’s metal net so that Seeker can burn a manticore wearing the net with Heat Metal.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Outside and around the ruined dining hall while arranging the ambush"
+      },
+      "npcs": [
+        {
+          "name": "Manticores",
+          "role": "enemy",
+          "notes": "The sleeping adults and active young are the targets of the planned ambush."
+        }
+      ],
+      "items": [
+        {
+          "name": "Kenzo’s driftglobe",
+          "role": "encountered",
+          "notes": "Chosen as a lure for the young manticores."
+        },
+        {
+          "name": "Seeker’s metal net",
+          "role": "encountered",
+          "notes": "Given to Delwath to place on a manticore before Heat Metal."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party kills the manticores in a noisy ambush and finds four gnoll skeletons in their nest.",
+      "longSummary": "Kenzo’s driftglobe draws the young manticores away while he and Delwath attack the sleeping adults. Delwath drapes Seeker’s metal net over one adult’s wing, and Seeker combines Heat Metal with a thunderous Shatter to kill it. The second adult runs for the roof opening; Kenzo pursues it across the rubble, Delwath strikes with Booming Blade, and Wellby finishes it with an arrow through the eye. The returning young are dispatched in another two rounds. Searching the nest yields no treasure, but Delwath discovers four gnoll skeletons among the animal remains as the others keep watch.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Ruined dining hall and manticore nest"
+      },
+      "npcs": [
+        {
+          "name": "Manticores",
+          "role": "enemy",
+          "notes": "Both adults and both young are killed."
+        }
+      ],
+      "items": [
+        {
+          "name": "Kenzo’s driftglobe",
+          "role": "encountered",
+          "notes": "Lures the young away from the adults."
+        },
+        {
+          "name": "Seeker’s metal net",
+          "role": "encountered",
+          "notes": "Delwath drapes it over an adult; Seeker heats it."
+        },
+        {
+          "name": "Four gnoll skeletons",
+          "role": "encountered",
+          "notes": "Found among the manticores’ prey remains."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Manticores",
+            "notes": "Two adults and two young; all killed."
+          }
+        ],
+        "notes": "A driftglobe diversion enables the invisible ambush. Heat Metal and Shatter kill one adult; pursuit, Booming Blade, and Wellby’s arrow finish the other. The young are dispatched afterward."
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party defeats six investigating orcs and captures their captain with Seeker’s Suggestion.",
+      "longSummary": "Six orcs emerge from the bathhouse to investigate the noise, and the party prepares another ambush. Seeker doubles Kenzo’s size, while Delwath casts Armor of Agathys. The orcs spot Delwath, but Wellby and Kenzo attack from hiding; arrows and Kenzo’s enlarged quarterstaff quickly thin their ranks. An orc dies from the retaliatory cold of Delwath’s spell, and Wellby shoots the spellcaster who tries to command Kenzo to grovel. When the captain flees, Seeker replaces his enlargement spell with Suggestion, urging surrender and answers to their questions. Kenzo shrinks as the captain drops his weapons and is brought inside.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Dining hall entrances and adjacent path"
+      },
+      "npcs": [
+        {
+          "name": "Grash’s orc patrol",
+          "role": "enemy",
+          "notes": "Six orcs investigate; five are killed and the captain is captured."
+        },
+        {
+          "name": "Orc captain",
+          "role": "enemy",
+          "notes": "Surrenders under Suggestion after trying to flee."
+        }
+      ],
+      "items": [
+        {
+          "name": "Seeker’s metal net",
+          "role": "encountered",
+          "notes": "Recovered before the orc fight."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Grash’s followers",
+          "role": "encountered",
+          "notes": "The six-orc watch detail; their allegiance is clarified during the following interrogation."
+        }
+      ],
+      "combat": {
+        "isCombat": true,
+        "phase": "full",
+        "mainEnemies": [
+          {
+            "name": "Grash’s orc patrol",
+            "notes": "Six orcs, including a captain and a spellcaster; five die, and the captain surrenders."
+          }
+        ],
+        "notes": "Wellby and enlarged Kenzo attack from hiding. Armor of Agathys kills an attacker. Seeker’s Suggestion stops the fleeing captain and ends the fight with a prisoner."
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The captive describes Grash’s watch and the tower’s hostile ghosts before being confined in the bathhouse.",
+      "longSummary": "Under Seeker’s spell, the captain says his six-orc detail watched for visitors, fed the manticores, and expected relief the next afternoon. Ghosts prevent the orcs from entering the tower and will not obey Grash. He describes Grash as a giant, shadow-cloaked power whom they worship, rejects Thark, and claims that their dead only appear dead. Pressed about Grash’s sight, he admits that Grash cannot see this place and needs watchers. When the spell ends he struggles against his bonds. After debating whether to kill him, the party leaves him bound in a dry bathhouse pool with food and water, the doors barred, and turns to further exploration.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Dining hall interrogation, followed by the bathhouse"
+      },
+      "npcs": [
+        {
+          "name": "Orc captain",
+          "role": "enemy",
+          "notes": "Interrogated under Suggestion and left alive, bound in the bathhouse."
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned",
+          "notes": "Described by the captive; the captain’s claims are not independently established."
+        },
+        {
+          "name": "Tower ghosts",
+          "role": "mentioned",
+          "notes": "The captain says they guard the tower and refuse to obey Grash."
+        },
+        {
+          "name": "Thark",
+          "role": "mentioned",
+          "notes": "The captain rejects his worship."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Grash’s followers",
+          "role": "encountered",
+          "notes": "The captain describes their watch detail and worship of Grash."
+        },
+        {
+          "name": "Uzgash",
+          "role": "mentioned",
+          "notes": "The captain reports fighting them and claims Grash is winning."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Kenzo opens Bhishma’s sacred doors with prayer, and the party collects holy water before encountering an immersive story of her life.",
+      "longSummary": "Kenzo kneels and prays before the stone doors, which glow and open. Beyond are moldering robes, an empty font, and six intact vials of holy water, which the party takes. Kenzo recognizes the arrangements as resembling initiation materials. Moving through the inner rooms brings everyone into darkness and a luminous mural whose winds and emotions can be felt: Bhishma leads her people away from home. The party reaches a choice between following the story and turning back, with Wellby and Delwath expressing discomfort at intruding on another faith’s mysteries.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Prayer doors, preparation rooms, and entrance to the initiation corridor"
+      },
+      "npcs": [
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "notes": "Depicted leading her people in the immersive mural."
+        }
+      ],
+      "items": [
+        {
+          "name": "Bhishma’s inscribed stone doors",
+          "role": "encountered",
+          "notes": "Open when Kenzo kneels and prays."
+        },
+        {
+          "name": "Holy water",
+          "role": "encountered",
+          "notes": "Six intact vials are taken; four others are cracked and empty."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Its initiation is approached through the monastery’s sacred rooms."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Kenzo and Seeker relive Bhishma’s sacrifice, but only Kenzo accepts death at the initiation’s final threshold.",
+      "longSummary": "Wellby turns back, uncomfortable intruding on another faith’s mysteries, and Delwath goes with him. Kenzo and Seeker continue after a brief table break. Drawn through Bhishma’s memories, Kenzo and Seeker feel the escape through hostile mountains, the division of her people, and the hunger and ash that follow their search for a home. Jeevali’s healing rain brings rejoicing to the people but shame and grief to Bhishma because the goddess has died. Bhishma turns from conquests in Aagir’s name to prayer and self-denial, offering her life for Jeevali’s return. Asked whether they will give their own lives, both initially proceed, but Seeker forces his eyes open as death approaches. He finds a bare corridor and Kenzo’s lifeless body; Kenzo is not breathing, and Seeker’s Healing Word has no effect.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Initiation corridor; the historical journey is experienced as a vision"
+      },
+      "npcs": [
+        {
+          "name": "Bhishma",
+          "role": "encountered",
+          "notes": "Her memories and emotions form the initiation; this is not a present-day physical encounter."
+        },
+        {
+          "name": "Jeevali",
+          "role": "mentioned",
+          "notes": "Her sacrifice and Bhishma’s desire to restore her drive the vision."
+        },
+        {
+          "name": "Aagir",
+          "role": "mentioned",
+          "notes": "The vision links his commands to violent conquest after the land is healed."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "The initiation culminates in an offer of life for Jeevali."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Kenzo returns to life and sees a radiant sanctuary that remains bare and gray to Seeker.",
+      "longSummary": "Kenzo gasps back to life with one hit point and says that Bhishma and Laka brought him back. Weak but overwhelmed by beauty, he sees painted stories, flowers, birds, and a flowing fountain in the inner sanctuary, while Seeker sees plain walls and empty earth. The fountain feels cool and wet to Kenzo but cannot sustain life; its sensory reality differs from the apparently physical painted walls. Kenzo recognizes flowers he remembers vividly from his dreams despite never having seen them before. They understand that this ancient sacred place may stand where Bhishma made her sacrifice, with the newer public temple serving a different purpose.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Inner pentagonal sanctuary and surrounding cloister"
+      },
+      "npcs": [
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "notes": "Kenzo credits her with returning him to life and sees stories of her in the sanctuary."
+        },
+        {
+          "name": "Laka",
+          "role": "mentioned",
+          "notes": "Kenzo also credits Laka with his return; recognizes his myths among the painted stories."
+        }
+      ],
+      "items": [
+        {
+          "name": "Sanctuary fountain",
+          "role": "encountered",
+          "notes": "Visible and tangible to Kenzo alone; its water cannot quench thirst."
+        },
+        {
+          "name": "Flowers from Kenzo’s dreams",
+          "role": "encountered",
+          "notes": "Kenzo recognizes them despite never having seen them outside his dreams."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Kenzo has passed the initiation; Seeker stopped short of it."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Bhishma answers Kenzo’s prayer about Shakun with a message to restore a stolen connection to Karawa and an image of a beating stone heart.",
+      "longSummary": "Kneeling at the fountain, Kenzo asks what happened to Shakun and how they can help. Over five or ten minutes, Seeker sees wind arrange sand into writing while Kenzo sees droplets become crystalline butterflies. Both can read the message: Shakun is with Bhishma but cannot reach Karawa because something that helps her reach the world has been taken; they must find it and return it. As the connection fades, Kenzo receives the image of a beating stone heart and calls it the heart of Shakun. Seeker bows in thanks, and the sanctuary’s colors dim from the effort of the message. The closing discussion confirms that Kenzo crossed into the land of the dead and returned as a disciple of Bhishma.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Center of the inner sanctuary at the fountain"
+      },
+      "npcs": [
+        {
+          "name": "Bhishma",
+          "role": "encountered",
+          "notes": "Answers Kenzo’s prayer through the shared written message."
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned",
+          "notes": "The message says she is with Bhishma but cannot reach Karawa."
+        }
+      ],
+      "items": [
+        {
+          "name": "Sanctuary fountain",
+          "role": "encountered",
+          "notes": "The focus of Kenzo’s prayer and the manifestation he sees."
+        },
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "Kenzo’s name for the beating stone heart shown at the end of the message; the object is not present or recovered."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "encountered",
+          "notes": "Kenzo reflects on becoming a disciple of Bhishma."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

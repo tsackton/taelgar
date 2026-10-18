@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Rai and the Awakened Soul",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "One continuous camp conversation establishes Kenzo’s personal stakes and the party’s plan for the monastery.",
+      "overview": "Kenzo shares his visions and suspicions about Rai; the party plans its investigation.",
+      "transitionToNext": "The party leaves camp and approaches the monastery along the dry river."
+    },
+    {
+      "title": "Scouting the Monastery",
+      "beatIds": [
+        "beat-003"
+      ],
+      "rationale": "The riverbed approach and reconnaissance reveal the lair and end with the party regrouping before deciding whether to attack.",
+      "overview": "The party reaches the monastery and discovers two adult manticores and two young.",
+      "transitionToNext": "After regrouping, the party decides how to deal with the manticores.",
+      "sceneId": "scene-002"
+    },
+    {
+      "title": "The Manticore Ambush",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "The decision to attack, driftglobe diversion, fight, and nest search form a complete encounter after reconnaissance.",
+      "overview": "The party plans a driftglobe diversion, kills the manticores, and finds gnoll remains.",
+      "transitionToNext": "The noisy fight draws six orcs out of the bathhouse.",
+      "sceneId": "scene-003"
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Grash’s Watchers",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "The investigating patrol creates a new confrontation that continues through capture, interrogation, and confinement.",
+      "overview": "Enlarged Kenzo helps defeat the patrol; its captive captain reveals the watch’s purpose and warns of tower ghosts.",
+      "transitionToNext": "With the captain confined, the party returns to Bhishma’s sealed doors."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Behind Bhishma’s Sacred Doors",
+      "beatIds": [
+        "beat-008"
+      ],
+      "rationale": "The full party opens the sacred doors and explores together until Wellby and Delwath decide to turn back.",
+      "overview": "Prayer opens the doors; the party collects holy water and encounters Bhishma’s living story.",
+      "transitionToNext": "Wellby and Delwath turn back, leaving Kenzo and Seeker to follow the initiation."
+    },
+    {
+      "title": "The Mysteries of Bhishma",
+      "beatIds": [
+        "beat-009",
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "At the user’s direction, the whole sequence from Wellby and Delwath turning back through Kenzo’s initiation, revival, new sight, and final prayer remains one scene.",
+      "overview": "Kenzo and Seeker follow Bhishma’s story; Kenzo dies and returns, then receives the message about Shakun’s heart.",
+      "transitionToNext": "Session ends",
+      "sceneId": "scene-006"
+    }
+  ]
+}

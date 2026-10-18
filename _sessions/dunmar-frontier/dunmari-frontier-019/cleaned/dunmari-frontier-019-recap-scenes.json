@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Cosmology and table conversation",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "Opening discussion is out of character and does not belong inside the campfire action.",
+      "overview": "The table discusses planes, souls and possible approaches to planar play.",
+      "transitionToNext": "The DM resumes play at the Karawa campfire."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Questions around the campfire",
+      "beatIds": [
+        "beat-002"
+      ],
+      "rationale": "A continuous evening conversation explores the companions’ purposes and magical questions.",
+      "overview": "The companions discuss Shakun, Candrosa, their motives, the mirror and Kenzo’s jade.",
+      "transitionToNext": "Morning brings Havdar’s expedition briefing."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Preparing for the desert",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "Havdar’s briefing, final preparations and departure form one expedition-launch sequence, including the uneventful approach to Bas Udda.",
+      "overview": "Plan with Havdar, store supplies, attend to private business and ride toward Bas Udda.",
+      "transitionToNext": "The expedition reaches the ruined town and finds circling vultures."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Vultures over Bas Udda",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The investigation of the ruined town and the vulture attack are one immediate encounter.",
+      "overview": "Assess the devastation and fight the giant vultures outside the temple.",
+      "transitionToNext": "With the birds driven off, the party enters the temple and speaks with Amil."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Amil and the funeral pyres",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "Meeting Amil, learning about his masters and helping with the dead form one sustained situation.",
+      "overview": "Hear of the rescued elf, help lay the dead to rest and arrange to escort Amil home.",
+      "transitionToNext": "After the overnight stay, final checks give way to departure with Amil."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "The road to the spring",
+      "beatIds": [
+        "beat-009"
+      ],
+      "rationale": "Departure, travel and scouting establish the new canyon situation before hostilities begin.",
+      "overview": "Leave Bas Udda, travel with Amil and discover ogres at the spring.",
+      "transitionToNext": "Wellby’s request for passage turns into a chase."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "Ogres in the canyon",
+      "beatIds": [
+        "beat-010",
+        "beat-011",
+        "beat-012"
+      ],
+      "rationale": "The three tactical beats are one continuous fight against the same ogres.",
+      "overview": "Fight three ogres using the canyon ledges, heated chain and earthen barrier.",
+      "transitionToNext": "The last ogre falls, allowing the party to recover Amil and continue."
+    },
+    {
+      "sceneId": "scene-008",
+      "title": "The stone house",
+      "beatIds": [
+        "beat-013"
+      ],
+      "rationale": "Post-combat recovery and arrival at the masters’ home form the closing scene.",
+      "overview": "Retrieve Amil and reach the house, where one of his masters recognizes Delwath.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

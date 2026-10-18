@@ -1,0 +1,174 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Guests at the Stone House",
+      "startUid": "u0001",
+      "endUid": "u0341",
+      "lineCount": 341,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Arrival, Delwath’s rescue account, and introductions form one continuous exchange; Avaras’s return with the armor changes the focus.",
+      "dateEvidence": [
+        "Session YAML anchors May 2; u0015–u0017 explicitly begin current play in late afternoon.",
+        "u0002–u0014 recap earlier events and do not advance the current day."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "The Shadowed Breastplate",
+      "startUid": "u0342",
+      "endUid": "u0604",
+      "lineCount": 263,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Avaras brings out the breastplate; inspection, recognition, and Delwath putting it on conclude before the monks answer wider questions.",
+      "dateEvidence": [
+        "Continuous conversation after arrival; no rest or day change."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "The Monks’ Failed Cleansing",
+      "startUid": "u0605",
+      "endUid": "u0905",
+      "lineCount": 301,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The monks explain their failed cleansing, Kharsan’s new menace, and the ruined monastery; they then leave to prepare dinner.",
+      "dateEvidence": [
+        "Continuous afternoon conversation; u0906 subsequently announces dinnertime."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Choosing the Road East",
+      "startUid": "u0906",
+      "endUid": "u1211",
+      "lineCount": 306,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The hosts leave the room, enabling a private discussion of Delwath’s vision and the party’s route; dinner and sleep close the day.",
+      "dateEvidence": [
+        "u0906 announces dinnertime; u1197–u1202 describe dinner and early bedtime.",
+        "u1211 explicitly sends everyone to sleep. The break at u1109–u1120 is real table time, not another in-world day."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Lessons in Ki and Runes",
+      "startUid": "u1212",
+      "endUid": "u1295",
+      "lineCount": 84,
+      "dateStart": "1748-05-03",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A new morning and a distinct training scene justify a short beat; the next beat begins with departure from the house.",
+      "dateEvidence": [
+        "u1212 explicitly begins the morning after sleep, advancing May 2 to May 3.",
+        "u1290 places Seeker’s emerging hand at lunch; u1294–u1295 finish training and wait out the heat."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Three Days Across the Desert",
+      "startUid": "u1296",
+      "endUid": "u1402",
+      "lineCount": 107,
+      "dateStart": "1748-05-03",
+      "dateEnd": "1748-05-05",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A compact travel montage spans departure, two overnight advances, animal training, and canyon navigation; the sound of battle starts the next situation.",
+      "dateEvidence": [
+        "u1296 leaves late afternoon; u1303 explicitly says three days counting today, or two more days.",
+        "u1309–u1315 narrate the first afternoon and camp; u1338 begins the next day, May 4.",
+        "u1346, u1354, u1366, and u1374 repeatedly resume that same second travel day around interruptions. u1380 anticipates arrival the following day.",
+        "u1383 begins May 5; u1395 describes its midday heat rest before the final approach."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Scouting Havdar’s Besieged Camp",
+      "startUid": "u1403",
+      "endUid": "u1649",
+      "lineCount": 247,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The party observes the ongoing battle, scouts through Seeker’s remote vision, and climbs toward the enemy casters; initiative marks the next tactical phase.",
+      "dateEvidence": [
+        "Continuous with the third travel day. u1380 predicts arrival around dinner; u1403–u1408 announce the approach and sounds of battle after the midday rest.",
+        "Evening is an inferred broad window from expected dinnertime arrival, not an exact stated battle time."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Fire on the Canyon Rim",
+      "startUid": "u1650",
+      "endUid": "u1940",
+      "lineCount": 291,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "Initiative, the orcs’ charge, Fireball, and the first exchanges form the opening party-combat phase; Seeker’s next action removes the fire mage.",
+      "dateEvidence": [
+        "Initiative begins at u1650; no intervening world-time transition after the approach."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Breaking the Orc Assault",
+      "startUid": "u1941",
+      "endUid": "u2198",
+      "lineCount": 258,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The fire mage and ordinary orcs fall, the leader is stunned, and Delwath blinks away; the last caster’s phantom hand begins the final phase.",
+      "dateEvidence": [
+        "Consecutive rounds of the same battle; the brief table interruption at u2037–u2058 does not advance the in-world day."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "One Orc Taken Alive",
+      "startUid": "u2199",
+      "endUid": "u2368",
+      "lineCount": 170,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The phantom hand, the leader’s death, capture of the final caster, and defeat of the remaining orcs below close the battle and session.",
+      "dateEvidence": [
+        "Same continuous battle through u2359–u2368; interrogation is deferred to the next session, with no further in-world day transition."
+      ]
+    }
+  ]
+}

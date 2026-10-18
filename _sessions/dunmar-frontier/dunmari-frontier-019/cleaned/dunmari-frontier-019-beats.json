@@ -1,0 +1,215 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Cosmology and table conversation",
+      "startUid": "u0001",
+      "endUid": "u0315",
+      "lineCount": 315,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Opening out-of-character discussion ends when the DM establishes the camp scene.",
+      "dateEvidence": [
+        "Human decision: the session opens on the evening of April 24, continuing Session 18. Opening table conversation advances no in-world time."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Reflections around the campfire",
+      "startUid": "u0316",
+      "endUid": "u0660",
+      "lineCount": 345,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Continuous evening conversation about motives, Shakun, the mirror, and preparations ends before the next-morning meeting.",
+      "dateEvidence": [
+        "u0316 and u0401 establish early evening. Human decision anchors this to April 24, continuing Session 18; the approved manifest start is April 24."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Planning Havdar’s expedition",
+      "startUid": "u0661",
+      "endUid": "u0828",
+      "lineCount": 168,
+      "dateStart": "1748-04-25",
+      "dateEnd": "1748-04-26",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Havdar’s briefing and preparations end with the last night before departure.",
+      "dateEvidence": [
+        "u0661 is the next morning, April 25. Havdar says day after tomorrow (u0726) and April 27 (u0738). Preparations continue across April 25–26 to the last evening (u0772, u0809, u0817–u0818). Human clarification resolves the former start-date conflict."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Last questions and departure",
+      "startUid": "u0829",
+      "endUid": "u1025",
+      "lineCount": 197,
+      "dateStart": "1748-04-27",
+      "dateEnd": "1748-04-28",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Private business, questions for Tharandros, departure and the travel montage precede arrival in Bas Udda; the human-approved chronology includes the full April 28 travel day.",
+      "dateEvidence": [
+        "u0738 fixes departure to April 27, and u0829–u0830 introduce that morning. Human decision adopts the written chronology: April 28 remains a full travel day and Bas Udda is reached April 29. The compressed first camp and travel estimate (u1017–u1022) do not override that correction."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The ruins of Bas Udda",
+      "startUid": "u1026",
+      "endUid": "u1170",
+      "lineCount": 145,
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Arrival and assessment of ruins and circling vultures end when Delwath attacks; short beat preserves the day and combat boundaries.",
+      "dateEvidence": [
+        "Human decision adopts April 29 arrival from the written session note, correcting the spoken April 28 in u1026–u1028. u1030–u1037 describe the approach around midday; the spoken calendar date remains unchanged in the transcript."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Giant vultures attack",
+      "startUid": "u1171",
+      "endUid": "u1510",
+      "lineCount": 340,
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Complete vulture fight begins with an Eldritch Blast and ends when Havdar sets a watch.",
+      "dateEvidence": [
+        "Continuous action after the human-approved April 29 arrival; no intervening rest or day."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Amil and the lost souls",
+      "startUid": "u1511",
+      "endUid": "u1834",
+      "lineCount": 324,
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "The temple conversation identifies Amil, his order, and his masters; then the group begins the practical funeral work.",
+      "dateEvidence": [
+        "Same April 29 visit after the vultures; afternoon recovery work begins at u1844–u1845."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Funeral rites and parting plans",
+      "startUid": "u1835",
+      "endUid": "u2039",
+      "lineCount": 205,
+      "dateStart": "1748-04-29",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Recovering bodies, sunset rites, and evening conversations finish before the next morning.",
+      "dateEvidence": [
+        "u1845 establishes afternoon; u1857 and u1870–u1873 establish sunset rites; u1889–u1890 describe evening plans for departure the following afternoon. Date follows the approved April 29 arrival."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Amil’s road to the spring",
+      "startUid": "u2040",
+      "endUid": "u2232",
+      "lineCount": 193,
+      "dateStart": "1748-04-30",
+      "dateEnd": "1748-05-02",
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Morning work and departure lead into travel and scouting a giant’s camp; combat begins when Wellby negotiates and is pursued.",
+      "dateEvidence": [
+        "u2040 is the morning after the rites, April 30. Departure follows the midday heat (u2051–u2055). Human decision confirms two afternoons from now (u2054): travel through May 1 and encounter/arrival on May 2; second day after leaving (u2060, u3172) excludes the partial departure day."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Wellby flees the chain ogre",
+      "startUid": "u2233",
+      "endUid": "u2558",
+      "lineCount": 326,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "Negotiation turns into pursuit and the opening fight; the arrival of two more ogres marks the next tactical phase.",
+      "dateEvidence": [
+        "Same May 2 canyon encounter after the approved two-afternoons journey. u2102–u2103 clarify late morning approaching the midday break; the earlier evening phrase in u2060 is superseded."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "The chain ogre falls",
+      "startUid": "u2559",
+      "endUid": "u2789",
+      "lineCount": 231,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The chain ogre is killed, a wall is raised, and two fresh ogres exchange javelins with Kenzo.",
+      "dateEvidence": [
+        "Continuous May 2 canyon fight, with no intervening day or rest."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "Ogres at the earthen wall",
+      "startUid": "u2790",
+      "endUid": "u3122",
+      "lineCount": 333,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "midday",
+      "dateResolution": "exact",
+      "containsCombat": true,
+      "boundaryReason": "The remaining ogres are defeated through spells, wall, rockfall, arrows and melee; combat ends with the third kill.",
+      "dateEvidence": [
+        "Continuous May 2 canyon fight, with no intervening day or rest."
+      ]
+    },
+    {
+      "beatId": "beat-013",
+      "title": "Arrival at the stone house",
+      "startUid": "u3123",
+      "endUid": "u3232",
+      "lineCount": 110,
+      "dateStart": "1748-05-02",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Distinct post-combat recovery and onward journey end at the house and closing table discussion; short final beat preserves this scene break.",
+      "dateEvidence": [
+        "Human decision confirms May 2 arrival, two afternoons after the April 30 departure. u3172 is the second day after the partial departure day; u3175 gives about 4–4:30 p.m."
+      ]
+    }
+  ]
+}

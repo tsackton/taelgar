@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-05-02",
+  "inferredEnd": "1748-05-05",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-05-02",
+      "time": "late afternoon",
+      "basis": "inferred",
+      "evidence": "May 2 is the YAML anchor; u0015–u0017 explicitly begin current play at the stone house in late afternoon. u0002–u0014 are retrospective.",
+      "beatId": "beat-001",
+      "sourceText": "Okay, so."
+    },
+    {
+      "uid": "u0906",
+      "label": "Dinner preparations and private discussion",
+      "date": "1748-05-02",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u0906 announces dinnertime; u0910–u0912 send the hosts to the kitchen. The break at u1109–u1120 is table time, not an in-world transition.",
+      "beatId": "beat-004",
+      "sourceText": "Really dinner time perhaps we should eat."
+    },
+    {
+      "uid": "u1211",
+      "label": "Overnight at the house",
+      "date": "1748-05-02",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "Dinner and early bedtime occur at u1197–u1202; u1211 explicitly says everyone sleeps.",
+      "beatId": "beat-004",
+      "sourceText": "So you all head to sleep."
+    },
+    {
+      "uid": "u1212",
+      "label": "Next morning: training",
+      "date": "1748-05-03",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1212 explicitly begins the morning after that sleep, advancing the anchored date by one day.",
+      "beatId": "beat-005",
+      "sourceText": "Ah, in the morning you wake up and Pava, Pava."
+    },
+    {
+      "uid": "u1290",
+      "label": "Seeker’s hand emerges by lunch",
+      "date": "1748-05-03",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1290 explicitly places the enormous hand’s appearance at lunch, after morning training.",
+      "beatId": "beat-005",
+      "sourceText": "Like little smaller and then it's growing bigger and bigger and bigger and like by lunch this like enormous hand just burst out of the ground next to Seeker and he's like whoa."
+    },
+    {
+      "uid": "u1296",
+      "label": "Departure after the heat",
+      "date": "1748-05-03",
+      "time": "late afternoon",
+      "basis": "inferred",
+      "evidence": "u1296 leaves the house after peak heat; u1310 specifies around three in the afternoon. u1303 counts today as the first of three travel days.",
+      "beatId": "beat-006",
+      "sourceText": "Leaving the stone house in the late afternoon like after the peak heat with still a half days of travel into the early evening."
+    },
+    {
+      "uid": "u1315",
+      "label": "First travel camp",
+      "date": "1748-05-03",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1309–u1310 explicitly narrate the first afternoon; u1315 gives an uneventful camp/rest before u1338 begins the next day. Night is inferred from that sequence.",
+      "beatId": "beat-006",
+      "sourceText": "You spend an uneventful day at Camp so anybody just to make sure everybody is all set just do a do a couple of long rests to clear anything that's linger on your character sheet."
+    },
+    {
+      "uid": "u1338",
+      "label": "Second travel day",
+      "date": "1748-05-04",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "u1338 begins the next day and u1346 says it dawns hot. u1354, u1366, and u1374 resume the same day around table interruptions, rather than adding days.",
+      "beatId": "beat-006",
+      "sourceText": "And then let's see sorry where was I Okay, so the next day um."
+    },
+    {
+      "uid": "u1374",
+      "label": "Second travel day passes",
+      "date": "1748-05-04",
+      "time": "day’s end",
+      "basis": "inferred",
+      "evidence": "u1374–u1375 complete a quiet day near the camp; u1380 expects arrival the following day around dinner. The overnight advance follows at u1383; an exact bedtime is unstated.",
+      "beatId": "beat-006",
+      "sourceText": "and the next day again passes slowly and quietly."
+    },
+    {
+      "uid": "u1383",
+      "label": "Third travel day",
+      "date": "1748-05-05",
+      "time": "daytime",
+      "basis": "inferred",
+      "evidence": "u1383 explicitly begins the next day; the giant scorpion is avoided at u1385–u1386. This is the third travel day specified at u1303.",
+      "beatId": "beat-006",
+      "sourceText": "OK, so the next day."
+    },
+    {
+      "uid": "u1395",
+      "label": "Rest through the heat",
+      "date": "1748-05-05",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1395 explicitly describes resting during the hottest part of this same travel day.",
+      "beatId": "beat-006",
+      "sourceText": "You rest during the hottest part of the day, again there's um."
+    },
+    {
+      "uid": "u1403",
+      "label": "Arrival and battle at Havdar’s camp",
+      "date": "1748-05-05",
+      "time": "around dinner",
+      "basis": "inferred",
+      "evidence": "u1380 predicts arrival around dinner; u1403–u1408 place the approach and sounds of combat after the midday rest. Evening is approximate. The battle continues through u2360–u2368 without another rest or day change.",
+      "beatId": "beat-007",
+      "sourceText": "As you begin to approach Havdar's camp."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-session.yaml",
+      "sha256": "cf4db2041206a5ee39228a4f424b98bb9eae099445c4fef26da408aee77a03fd"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-beats.json",
+      "sha256": "4c811a785689350bf6283b7d9835e4acccf3d9cce94df21255b38f6df2c46004"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-beat-facts.json",
+      "sha256": "21dff71a9b13d783d96d99acfcf28071f7a83184523d23e0ff78a2e6a1386b34"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-source-cleaned.md",
+      "sha256": "d132731c66434eded7d9255582eaee28d30c1b54717a1f1fb0890f1b8464dc7e"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-020/cleaned/dunmari-frontier-020-timeline-evidence.json",
+      "sha256": "e4e41515131644c898358cacf76be5690455dfcca3f7bd16845b179a364e6e72"
+    }
+  }
+}

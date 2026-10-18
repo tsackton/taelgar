@@ -1,0 +1,24 @@
+{
+  "inferredStart": "1748-04-24",
+  "inferredEnd": "1748-04-24",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Council in Karawa after returning from the north",
+      "date": "1748-04-24",
+      "time": null,
+      "basis": "explicit",
+      "evidence": "Session YAML supplies 1748-04-24; u0598-u0601 confirm today is the 24th, eleven days after the April 13 demon fight. u0005 places the arrival earlier the same day; the exact starting hour is not established. u1430 still describes daylight. The opening recap says morning arrival, while the written note favors late afternoon; no exact hour is assigned."
+    },
+    {
+      "uid": "u2615",
+      "label": "Kenzo’s private conversation later that evening",
+      "date": "1748-04-24",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2615: Kenzo places the conversation later in the evening; u2616: the DM agrees that the companions go off to organize supplies while Kenzo slips away. No overnight rest or new date occurs before u2992."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

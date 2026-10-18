@@ -1,0 +1,645 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "At the council in Karawa, Candrosa warns of the Old Woman of the Dusts through a story of a bargain whose cost grew over time.",
+      "longSummary": "The party resumes its meeting with Candrosa and Alesh in a bare room at the Temple of Shakun, using Seeker's illusion-enhanced map to review recent journeys. Candrosa describes an old woman on the desert's edge who offers powerful cures at terrible prices: a father surrendered his thumb to save his child, then suffered nightmares of a creature using it to kill and eventually took his own life. Candrosa says his order has no records of her before the Great War, although she was already old in his childhood; Alesh has not heard the tale and wants no part of such magic. Seeker recognizes a resemblance to the dangerous sacrificial magic that interested his brother.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Council room at the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "Discussed as the Old Woman of the Dusts; the identification with Agata Dustmother remains a hypothesis for these interlocutors."
+        },
+        {
+          "name": "Seeker’s brother",
+          "role": "mentioned",
+          "notes": "Mentioned in connection with sacrificial magic."
+        }
+      ],
+      "items": [
+        {
+          "name": "Illusory map",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Kenzo recounts Raven's Hold and presses for an explanation of Agata's agents and the summoning of demons.",
+      "longSummary": "Kenzo connects the bargain stories with the search for magical objects and recounts Vola's capture by an orc and two jackalweres. The party distinguishes the shapechangers from the orc, confirms that Vola overheard plans to await the ritual before taking her to Agata, and keeps their relationship to the demons unresolved. Candrosa does not recognize Agata's name and explains that demons require a powerful magical opening into Taelgar, though they may spread once admitted. Delwath recalls demons alongside hostile armies in the Great War. Candrosa concludes that identifying whoever summoned the Raven's Hold demon is crucial; the party has not established who that was.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Council room at the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered"
+        },
+        {
+          "name": "Vola",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Orc and two jackalweres at Raven’s Hold",
+          "role": "mentioned",
+          "notes": "Previously fought captors, recalled here; no present combat."
+        },
+        {
+          "name": "Demons at Raven’s Hold",
+          "role": "mentioned",
+          "notes": "Previously killed; their summoner and connection to Agata remain unknown."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Alesh maps the strange gnoll movements, while Candrosa wonders whether their wasting began when the demon died.",
+      "longSummary": "Alesh argues that gnolls could have reached the southern plains from Raven's Hold before the party destroyed the demon, so another summoning site is possible but not required by the travel times. Her band followed gnolls through Kharsan toward the Garamjala Desert; they moved purposefully rather than hunting, and roughly half looked like zombies. After the DM confirms the demon died on April 13 and today is April 24, Candrosa proposes that its death deprived them of sustaining energy. Delwath cautions that the wasted gnolls still fought fiercely. Alesh also explains that she avoided an isolated orc scouting band rather than risking a nearby horde.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Council room at the Temple of Shakun; routes discussed on the map"
+      },
+      "npcs": [
+        {
+          "name": "Alesh",
+          "role": "encountered"
+        },
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Southern gnoll band",
+          "role": "mentioned",
+          "notes": "Reported by Alesh, not encountered in this session."
+        },
+        {
+          "name": "Orc scouting party",
+          "role": "mentioned",
+          "notes": "Reported by Alesh; travel direction and wider force unknown."
+        }
+      ],
+      "items": [
+        {
+          "name": "Illusory map",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Candrosa refuses to explain the lost protection, defends the temple's importance, and leaves the party with directions for seeking Agata.",
+      "longSummary": "Pressed about Shakun's withdrawn protection, Candrosa insists he still feels her presence but says the origin of the protection is not his story to tell. He refuses even when Wellby offers privacy. Kenzo and Seeker use the map to argue for looking beyond troop movements to other planes and ley lines. When Delwath questions what remains worth taking in Karawa, Candrosa retrieves his crescent-topped staff and emphasizes that the temple has never fallen and still holds powerful objects. Overwhelmed by responsibilities beyond the festivals and pastoral care he expected, he leaves to pray. First he describes following an oddly directed animal south from the mesa's eastern edge to seek the Old Woman; Seeker's brief examination of the staff through the goggles reveals little, while Alesh recognizes the goggles as Drankorian.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Council room and immediate vicinity of the Temple of Shakun"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "encountered"
+        },
+        {
+          "name": "Alesh",
+          "role": "encountered"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Tharandros",
+          "role": "mentioned"
+        },
+        {
+          "name": "Jasu",
+          "role": "mentioned",
+          "notes": "The smith has left Karawa; armor repairs are not readily available."
+        }
+      ],
+      "items": [
+        {
+          "name": "Candrosa’s staff",
+          "role": "encountered"
+        },
+        {
+          "name": "Purple gemstone goggles",
+          "role": "encountered"
+        },
+        {
+          "name": "Illusory map",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar’s warband",
+          "role": "mentioned"
+        },
+        {
+          "name": "Tharandros’s centaur tribe",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party weighs Agata, Kharsan, and the empty stone house as possible next leads while considering desert supplies.",
+      "longSummary": "Alesh offers advice on water, intact stores at Ikram's, and Havdar's desert-trained horses, without committing to the expedition herself. Kenzo wants answers about the larger powers involved; Delwath is reluctant to bargain with Agata before knowing what to ask. The group recalls Hralgar's answer that Agata wants revenge and discusses the possible limits of a storm giant's far-seeing, without establishing a prior relationship between them. A metagame reminder places Kenzo's five years of study at Laka's monastery near Tokra. Delwath proposes visiting Kharsan, where he reappeared, and using the Mirror of the Past on the mysterious stone house before approaching Agata; disguising themselves as supplicants is suggested but not adopted.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Karawa, after the council; Alesh departs and the party deliberates"
+      },
+      "npcs": [
+        {
+          "name": "Alesh",
+          "role": "encountered"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Hralgar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Mirror of the Past",
+          "role": "mentioned"
+        },
+        {
+          "name": "Hralgar’s eyes",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Lakan Mystai",
+          "role": "mentioned",
+          "notes": "Kenzo’s previous training is clarified out of character."
+        },
+        {
+          "name": "Havdar’s warband",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Havdar cannot provide quick armor repairs and wants the party's help against the orcs and in securing Karawa.",
+      "longSummary": "Delwath seeks Havdar about scouting, half-plate repair, horses, and water, while Seeker learns that the ley lines already mapped cannot reliably predict distant nodes. The DM resolves Wellby's training during the previous journey: his axe beak will eat from his hand and come when called, but still needs work before comfortable riding. Havdar's people have some repair skill, yet lack a forge and would need at least a week; Havdar hopes to leave sooner to investigate Alesh's orc report. He asks the party to join him and persuade the centaurs to guard Karawa. The DM dates the centaurs' relief of the siege to April 14 and explains that their continuing presence and intentions remain uncertain.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Karawa, including a summarized conversation with Havdar before approaching the centaur camp"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "encountered"
+        },
+        {
+          "name": "Wellby’s axe beak",
+          "role": "companion",
+          "notes": "Training progress is resolved retrospectively for the previous week’s journey."
+        },
+        {
+          "name": "Alesh",
+          "role": "mentioned"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Riswynn",
+          "role": "mentioned",
+          "notes": "Her earlier work on the armor is recalled."
+        }
+      ],
+      "items": [
+        {
+          "name": "Damaged half-plate armor",
+          "role": "encountered",
+          "notes": "Repair requested but not completed."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Havdar’s warband",
+          "role": "encountered"
+        },
+        {
+          "name": "Tharandros’s centaur tribe",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Over antelope and wine, Tharandros describes Agata's fey nature and the echo realms as changing reflections of Taelgar.",
+      "longSummary": "Tharandros welcomes the party under an open-sided shelter with roasted antelope and wine and is pleased the northern demons have been destroyed. He recognizes Agata, says she controls the country south of the old trade road by an arrangement with his people, and identifies her as a descendant of an archfey. He explains that the separation of ancient magic left echoes in Taelgar and in distorted reflections such as the Feywild, Shadowfell, Dreamworld, and Nightmare Realm. Seeker sketches an illusory model, but Tharandros distinguishes his runic arcane magic from the earth's resonances and compares the other realms to warped mirrors that may reflect different pasts and futures. He cannot place Agata definitively in one realm and warns that fey origins do not map neatly onto good and evil.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Tharandros’s camp in Karawa, under an open-sided shelter"
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Illusory model of the planes",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Tharandros’s centaur tribe",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Tharandros describes a troubling absence around the temple and Candrosa while the party tests possible explanations involving Agata and Delwath's vision.",
+      "longSummary": "Tharandros says the promised connection to dreams helped draw his tribe to Karawa, but its seer warned against approaching Candrosa while a curse clings to him. He defines this as silence or absence where the earth's old resonances should be heard, not a confirmed evil occupant. The party's report prompts him to say Agata would violate their pact by visiting Raven's Hold herself, though her presence there is unproven. He speculates that she came west after supporting the losing side in the Great War. Delwath recounts a bronze-door vision interrupted by the voice that freed him, and Tharandros agrees a true divine vision should not be so easily dismissed. Seeker proposes a missing or traded artifact; Tharandros allows the possibility without confirming it and says Agata cannot challenge a god directly.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Tharandros’s camp in Karawa"
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Centaur seer",
+          "role": "mentioned",
+          "notes": "Unnamed adviser; exact title unclear, but the warning against approaching Candrosa is explicit."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Delwath’s mysterious benefactor",
+          "role": "mentioned",
+          "notes": "The identity and nature of the voice remain unknown."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Tharandros’s centaur tribe",
+          "role": "encountered"
+        },
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Tharandros agrees to remain while the party favors investigating the eastern orcs with Havdar before returning to Karawa's mystery.",
+      "longSummary": "Tharandros describes a crossing to the Wild east of Raven's Hold near the Kharja's source, but urges caution and takes no personal interest in recovering Hralgar's eyes. He promises his tribe will stay to guard the wider land against any spreading silence, rather than assuming the town is safe. Seeker suggests infiltrating the temple, and Wellby suggests another attempt to seek Shakun's visions; Delwath rejects immediate intrusion into sacred ground. He proposes riding east with Havdar, investigating the orcs and haunted Kharsan, then returning west via the stone house before seeking Agata. Tharandros hopes they can uncover the temple's mystery but judges the eastern expedition the best response to the immediate danger; the silence has not changed during his stay.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Tharandros’s camp in Karawa"
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Hralgar",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Hralgar’s eyes",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Tharandros’s centaur tribe",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar’s warband",
+          "role": "mentioned"
+        },
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The table confirms the eastward plan while debating the temple mystery and separating Kenzo's private experiences from party knowledge.",
+      "longSummary": "The players continue to test theories about a stolen focus, a false Shakun, manipulation of Candrosa, and Agata acting opportunistically; none is established as the answer. Delwath links his suspicions to the interrupted vision and the voice behind his powers, while Kenzo thinks Candrosa seems grieving or manipulated rather than possessed. Mouse scouting and renewed pressure on the Speaker remain suggestions. The DM mentions Kenzo's earlier staff-assisted dream journey, but Kenzo points out that he has not told the party about it. After scheduling and discussion of differing character motivations, the intended next expedition is still east with Havdar. The closing conversation also recalls an older campaign; those recollections are not events of this session.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Karawa remains the in-world location; predominantly out-of-character discussion after the group conversation"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar",
+          "role": "mentioned"
+        },
+        {
+          "name": "Delwath’s mysterious benefactor",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Candrosa’s staff",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar’s warband",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Later that evening, Kenzo privately discusses his dreams and jade with Tharandros, who senses unusual perception but cannot explain the pendant's magic.",
+      "longSummary": "After the group finishes, Kenzo and the DM review the dreams he has not fully shared with his companions; they decline to retroactively add a conversation with Hralgar about the jade. Later that evening Kenzo slips away to Tharandros, who senses something like a centaur's perception of the Plane of Souls. Kenzo describes recurring dream landscapes and dreams of the mesa, and lets Tharandros touch the jade without removing it from his neck. Tharandros detects magic but not the earth-echo power he knows. Kenzo plans to use the Mirror of the Past when it recharges, rather than doing so now. He argues that Candrosa shows grief rather than malice; Tharandros agrees he senses loss and suspects religious obligations constrain the Speaker.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Private conversation at Tharandros’s camp in Karawa, after out-of-character preparation"
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Hralgar",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Kenzo’s jade pendant",
+          "role": "encountered"
+        },
+        {
+          "name": "Mirror of the Past",
+          "role": "mentioned",
+          "notes": "Future use proposed; no vision is performed during this session."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned"
+        },
+        {
+          "name": "Lakan Mystai",
+          "role": "mentioned",
+          "notes": "Kenzo recalls his mentor’s recommendation to seek Candrosa about dreams."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-012",
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Kenzo's account of the staff raises a possible motive for the siege, and Tharandros points him east toward the Order of the Awakened Soul.",
+      "longSummary": "Kenzo privately describes his earlier staff-assisted dream journey in broad strokes. Tharandros calls direct passage to the Dreamworld unusually powerful and wonders whether an unseen enemy sent the gnolls to seize the staff; this remains a theory and strengthens his resolve to stay. He describes unusual dreams as intrusions reaching a receptive mind, but thinks the jade's magic is of another kind. Out of character, the DM recalls Candrosa's dream of an open hand with a missing piece, Kenzo's inherited jade, childhood with Kaeso, and recurrent dreams. Tharandros then describes the Order of the Awakened Soul as wandering Dunmari storytellers who seek forgotten graves and histories, with a rumored hidden repository. He has seen members perform extraordinary movement and strikes resembling Kenzo's abilities, advises looking east, and repeats a rumor that they travel as birds. The recording ends before Kenzo's question about his reaction is answered.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Karawa",
+        "context": "Private conversation at Tharandros’s camp in Karawa, interspersed with backstory clarification"
+      },
+      "npcs": [
+        {
+          "name": "Tharandros",
+          "role": "encountered"
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Centaur seer",
+          "role": "mentioned",
+          "notes": "Tharandros’s unnamed adviser cautioned against using Candrosa’s staff while the absence clung to him."
+        },
+        {
+          "name": "Kaeso",
+          "role": "mentioned",
+          "notes": "Kenzo’s childhood mentor, recalled out of character."
+        }
+      ],
+      "items": [
+        {
+          "name": "Candrosa’s staff",
+          "role": "mentioned",
+          "notes": "Its earlier use is recounted, not repeated."
+        },
+        {
+          "name": "Kenzo’s jade pendant",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned"
+        },
+        {
+          "name": "Tharandros’s centaur tribe",
+          "role": "encountered"
+        },
+        {
+          "name": "Shakun Mystai",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}
